@@ -1,0 +1,4 @@
+---
+title: "C.K Newspoint"
+url: /barrow-in-furness/c-k-newspoint/
+---

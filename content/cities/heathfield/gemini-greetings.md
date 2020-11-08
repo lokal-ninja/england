@@ -1,0 +1,4 @@
+---
+title: "Gemini Greetings"
+url: /heathfield/gemini-greetings/
+---

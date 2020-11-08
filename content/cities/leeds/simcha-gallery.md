@@ -1,0 +1,4 @@
+---
+title: "Simcha Gallery"
+url: /leeds/simcha-gallery/
+---

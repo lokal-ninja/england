@@ -1,0 +1,4 @@
+---
+title: "Stanley Wines"
+url: /salford/stanley-wines/
+---

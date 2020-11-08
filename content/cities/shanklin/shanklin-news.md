@@ -1,0 +1,4 @@
+---
+title: "Shanklin News"
+url: /shanklin/shanklin-news/
+---

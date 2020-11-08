@@ -1,0 +1,4 @@
+---
+title: "Cookhouse Gallery"
+url: /keswick/cookhouse-gallery/
+---

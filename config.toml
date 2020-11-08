@@ -1,0 +1,15 @@
+baseURL = "https://gb.shoogle.net/england"
+languageCode = "en-US"
+title = "England"
+theme = "ln-base"
+
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[outputs]
+  home = ["HTML", "JSON"]
+  section = ["HTML", "JSON"]
+
+[params]
+  site = "Shoogle"
+  org = "lokal-ninja"
+  repo = "england"

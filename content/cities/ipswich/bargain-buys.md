@@ -1,0 +1,4 @@
+---
+title: "Bargain Buys"
+url: /ipswich/bargain-buys/
+---

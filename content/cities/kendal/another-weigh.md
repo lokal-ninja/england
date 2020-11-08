@@ -1,0 +1,4 @@
+---
+title: "Another Weigh"
+url: /kendal/another-weigh/
+---

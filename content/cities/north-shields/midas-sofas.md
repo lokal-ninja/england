@@ -1,0 +1,4 @@
+---
+title: "Midas Sofas"
+url: /north-shields/midas-sofas/
+---

@@ -1,0 +1,4 @@
+---
+title: "Socialites"
+url: /weston-super-mare/socialites/
+---

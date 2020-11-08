@@ -1,0 +1,4 @@
+---
+title: "Beaches"
+url: /holland-on-sea/beaches/
+---
