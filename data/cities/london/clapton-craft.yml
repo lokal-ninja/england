@@ -8,5 +8,5 @@ city: London
 street: "Lower Clapton Road"
 housenumber: 97
 phone: ""
-opening_hours: "Mo-Th 12:00-22:00; Fr-Sa 11:00-21:00; Su 12:00-22:00"
+opening_hours: "Mo-Th 12:00-20:00; Fr-Sa 11:00-21:00; Su 12:00-20:00"
 website: "https://www.claptoncraft.co.uk/"

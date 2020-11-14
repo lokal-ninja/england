@@ -1,12 +1,12 @@
-id: 227701229
+id: 199622463
 type: way
-shop: frozen food
-latitude: 51.5369381
-longitude: 0.052100600000000004
-postcode: "E6 2HT"
+shop: supermarket
+latitude: 51.582672900000006
+longitude: -0.0285661
+postcode: "E17 7JY"
 city: London
-street: "High Street North"
-housenumber: 128-130
+street: "High Street"
+housenumber: 102-104
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00; Su 11:00-17:00"
+opening_hours: ""
 website: ""

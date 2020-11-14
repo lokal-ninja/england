@@ -1,12 +1,12 @@
-id: 194375149
+id: 186877182
 type: way
-shop: supermarket
-latitude: 51.567314700000004
-longitude: 0.010451700000000001
-postcode: "E11 4QS"
+shop: frozen food
+latitude: 51.4753557
+longitude: -0.0388968
+postcode: "SE14 6AS"
 city: London
-street: "High Road Leytonstone"
-housenumber: 789-791
+street: "New Cross Road"
+housenumber: 277;279;281
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 08:00-21:00; Su 11:00-17:00"
 website: ""

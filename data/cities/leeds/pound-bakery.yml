@@ -1,12 +1,12 @@
-id: 4475950124
-type: node
-shop: vacant
-latitude: 53.806624000000006
-longitude: -1.4501519
-postcode: "LS15 8EU"
+id: 639133092
+type: way
+shop: bakery
+latitude: 53.796928
+longitude: -1.5408460000000002
+postcode: "LS1 6BY"
 city: Leeds
-street: "Station Road"
-housenumber: 
+street: "Kirkgate"
+housenumber: 119
 phone: ""
 opening_hours: ""
 website: ""

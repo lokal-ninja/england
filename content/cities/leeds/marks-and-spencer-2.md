@@ -1,4 +1,4 @@
 ---
-title: "Marks and Spencer"
+title: "Marks & Spencer"
 url: /leeds/marks-and-spencer-2/
 ---

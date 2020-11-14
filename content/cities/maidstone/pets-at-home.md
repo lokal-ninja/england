@@ -1,4 +1,4 @@
 ---
-title: "Pets At Home"
+title: "Pets at Home"
 url: /maidstone/pets-at-home/
 ---

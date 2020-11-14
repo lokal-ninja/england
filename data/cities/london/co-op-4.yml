@@ -1,12 +1,12 @@
-id: 6119888179
+id: 6224944634
 type: node
-shop: supermarket
-latitude: 51.54919640000001
-longitude: 0.024621300000000002
-postcode: "E7 0EL"
+shop: convenience
+latitude: 51.506745
+longitude: -0.0416561
+postcode: "SE16 5EF"
 city: London
-street: "Woodgrange Road"
-housenumber: 67-73
+street: "Rotherhithe Street"
+housenumber: 346
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Su 07:00-23:00"
 website: ""

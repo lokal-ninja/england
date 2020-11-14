@@ -1,12 +1,12 @@
-id: 71571333
-type: way
+id: 7517346240
+type: node
 shop: supermarket
-latitude: 51.473514900000005
-longitude: -0.09377680000000001
-postcode: "SE5 8RZ"
+latitude: 51.506140900000005
+longitude: 0.07650090000000001
+postcode: "E16 2QJ"
 city: London
-street: "Denmark Hill"
-housenumber: 28-32
-phone: ""
-opening_hours: ""
+street: ""
+housenumber: 
+phone: "+44 20 7511 1197"
+opening_hours: "Mo-Su 07:00-22:00"
 website: ""

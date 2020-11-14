@@ -8,5 +8,5 @@ city: London
 street: "Lower Clapton Road"
 housenumber: 70
 phone: "+44 20 8525 1452"
-opening_hours: "Mo-Su 12:00-18:00"
+opening_hours: "Mo-Fr 11:00-19:00; Sa 10:00-18:00; Su 11:00-18:00"
 website: "https://pagesofhackney.co.uk/"

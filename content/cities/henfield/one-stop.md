@@ -1,4 +1,4 @@
 ---
-title: "ONE STOP"
+title: "One Stop"
 url: /henfield/one-stop/
 ---

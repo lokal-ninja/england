@@ -1,0 +1,4 @@
+---
+title: "Easy Bathrooms"
+url: /wakefield/easy-bathrooms/
+---

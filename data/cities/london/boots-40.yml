@@ -1,12 +1,12 @@
-id: 416601702
+id: 459555180
 type: way
 shop: chemist
-latitude: 51.5317214
-longitude: -0.12465760000000001
-postcode: "N1C 4AP"
+latitude: 51.53589770000001
+longitude: 0.0350609
+postcode: "E13 9AP"
 city: London
-street: ""
-housenumber: 
+street: "Green Street"
+housenumber: 384
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su 09:00-21:00"
+opening_hours: ""
 website: ""
