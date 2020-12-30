@@ -1,4 +1,4 @@
 ---
-title: "Co-Op Food"
+title: "Co-op Food"
 url: /lancashire/co-op-food/
 ---

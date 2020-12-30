@@ -1,6 +1,6 @@
 ---
 title: Harden
 url: /harden/
-latitude: 53.5354565
-longitude: -1.7758462000000002
+latitude: 52.6073074
+longitude: -1.9841066
 ---

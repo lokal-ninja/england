@@ -1,11 +1,11 @@
-id: 4655384826
-type: node
-shop: supermarket
-latitude: 50.3714887
-longitude: -4.1450601
+id: 871701248
+type: way
+shop: sports
+latitude: 50.3714882
+longitude: -4.1449045
 postcode: "PL1 1RX"
 city: Plymouth
-street: ""
+street: "New George Street"
 housenumber: 
 phone: ""
 opening_hours: ""

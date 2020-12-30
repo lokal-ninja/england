@@ -1,6 +1,6 @@
 ---
 title: Martock
 url: /martock/
-latitude: 50.971019500000004
-longitude: -2.7664088000000002
+latitude: 50.971069400000005
+longitude: -2.766543
 ---

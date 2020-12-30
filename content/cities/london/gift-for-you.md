@@ -1,4 +1,4 @@
 ---
-title: "Gift For You"
+title: "Gift for You"
 url: /london/gift-for-you/
 ---

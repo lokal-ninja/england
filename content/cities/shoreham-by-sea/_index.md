@@ -1,6 +1,6 @@
 ---
-title: Shoreham-by-Sea
+title: Shoreham By Sea
 url: /shoreham-by-sea/
-latitude: 50.832230700000004
-longitude: -0.2746717
+latitude: 
+longitude: 
 ---

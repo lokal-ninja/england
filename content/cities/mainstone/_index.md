@@ -1,6 +1,6 @@
 ---
 title: Mainstone
 url: /mainstone/
-latitude: 52.480518200000006
-longitude: -3.0707108
+latitude: 52.4816012
+longitude: -3.0696540000000003
 ---

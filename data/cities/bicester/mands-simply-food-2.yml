@@ -1,12 +1,12 @@
-id: 465875198
-type: way
+id: 7819849348
+type: node
 shop: supermarket
-latitude: 51.898543700000005
-longitude: -1.15137
-postcode: "OX26 6LG"
+latitude: 51.8925983
+longitude: -1.163702
+postcode: "OX26 1ES"
 city: Bicester
-street: "Sheep Street"
-housenumber: 44-46
+street: ""
+housenumber: B2
 phone: ""
-opening_hours: "Mo-Sa 08:00-19:00; Su 11:00-17:00"
-website: ""
+opening_hours: ""
+website: "https://www.marksandspencer.com/stores/bicester-foodhall-1008"

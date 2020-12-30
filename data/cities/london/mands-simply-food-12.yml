@@ -1,12 +1,12 @@
-id: 421386553
+id: 377488601
 type: way
-shop: supermarket
-latitude: 51.518152400000005
-longitude: -0.1124538
-postcode: "WC1V 7PU"
+shop: convenience
+latitude: 51.5180127
+longitude: -0.08252810000000001
+postcode: "EC2M 7PY"
 city: London
-street: "High Holborn"
-housenumber: 323-324
+street: "Liverpool Street"
+housenumber: 
 phone: ""
-opening_hours: "Mo-Fr 07:00-22:00, Sa 08:00-21:00, Su 11:00-17:00"
+opening_hours: ""
 website: ""

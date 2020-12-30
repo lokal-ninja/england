@@ -1,4 +1,4 @@
 ---
-title: "Yeadon DIY And Hardware"
+title: "Yeadon DIY & Hardware"
 url: /yeadon/yeadon-diy-and-hardware/
 ---

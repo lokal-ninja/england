@@ -1,6 +1,6 @@
 ---
 title: Misterton
 url: /misterton/
-latitude: 50.8691825
-longitude: -2.7699037
+latitude: 50.8692082
+longitude: -2.7697167
 ---

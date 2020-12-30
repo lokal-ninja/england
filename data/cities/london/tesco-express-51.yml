@@ -1,12 +1,12 @@
-id: 90153863
-type: way
-shop: supermarket
-latitude: 51.503374900000004
-longitude: -0.1053932
-postcode: "SE1 8JZ"
+id: 7595915257
+type: node
+shop: convenience
+latitude: 51.5420576
+longitude: -0.1788034
+postcode: "NW6 4RY"
 city: London
-street: "The Cut"
-housenumber: 3-11
+street: "Belsize Road"
+housenumber: 47,49
 phone: ""
-opening_hours: "Mo-Su 06:00-23:00"
+opening_hours: ""
 website: ""

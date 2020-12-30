@@ -1,4 +1,4 @@
 ---
-title: "Brighthouse"
+title: "BrightHouse"
 url: /southport/brighthouse/
 ---

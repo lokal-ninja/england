@@ -1,4 +1,4 @@
 ---
-title: "Curwen's Cycle Repairs"
+title: "Curwens Cycle Repairs"
 url: /deal/curwens-cycle-repairs/
 ---

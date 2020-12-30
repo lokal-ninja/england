@@ -1,4 +1,4 @@
 ---
-title: "Dolls house shop"
+title: "Dolls House Shop"
 url: /london/dolls-house-shop/
 ---

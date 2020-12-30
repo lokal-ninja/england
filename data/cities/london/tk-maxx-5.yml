@@ -1,12 +1,12 @@
-id: 148066400
-type: way
-shop: clothes
-latitude: 51.492335600000004
-longitude: -0.2271632
-postcode: "W6 9HW"
+id: 4566976478
+type: node
+shop: department store
+latitude: 51.456782000000004
+longitude: -0.1938738
+postcode: ""
 city: London
-street: "King Street"
-housenumber: 57
+street: "Southside Shopping Centre"
+housenumber: 
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00; Su 11:30-17:30"
+opening_hours: ""
 website: ""

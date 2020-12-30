@@ -1,12 +1,12 @@
-id: 2142546835
+id: 2059549200
 type: node
 shop: supermarket
-latitude: 51.530390700000005
-longitude: 0.0398427
-postcode: "E6 3BP"
+latitude: 51.508227500000004
+longitude: 0.0193491
+postcode: "E16 1BL"
 city: London
-street: "Barking Road"
-housenumber: 36-38
+street: "Western Gateway"
+housenumber: 
 phone: ""
-opening_hours: ""
-website: "https://www.tesco.com/"
+opening_hours: "Mo-Su 07:00-23:00"
+website: ""

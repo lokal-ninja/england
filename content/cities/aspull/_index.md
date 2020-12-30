@@ -1,6 +1,6 @@
 ---
 title: Aspull
 url: /aspull/
-latitude: 53.573616400000006
-longitude: -2.5791251
+latitude: 53.568671200000004
+longitude: -2.5862312000000003
 ---

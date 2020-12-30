@@ -1,12 +1,12 @@
 id: 339725606
 type: way
-shop: shop
-latitude: 51.3882776
-longitude: 1.3949456
+shop: charity
+latitude: 51.388239000000006
+longitude: 1.3950291000000001
 postcode: ""
 city: Margate
 street: "Northdown Road"
 housenumber: 170
 phone: ""
 opening_hours: ""
-website: ""
+website: "http://www.oasisdaservice.org"

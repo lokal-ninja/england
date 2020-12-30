@@ -1,4 +1,4 @@
 ---
-title: "Sports direct."
+title: "Sports Direct"
 url: /plymouth/sports-direct/
 ---

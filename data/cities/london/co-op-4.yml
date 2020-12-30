@@ -1,12 +1,12 @@
-id: 6224944634
-type: node
-shop: convenience
-latitude: 51.506745
-longitude: -0.0416561
-postcode: "SE16 5EF"
+id: 205590662
+type: way
+shop: supermarket
+latitude: 51.5871179
+longitude: -0.0036438000000000004
+postcode: ""
 city: London
-street: "Rotherhithe Street"
-housenumber: 346
+street: "Wood Street"
+housenumber: 147-151
 phone: ""
-opening_hours: "Mo-Su 07:00-23:00"
+opening_hours: ""
 website: ""

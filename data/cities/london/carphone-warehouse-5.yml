@@ -1,12 +1,12 @@
-id: 5842196049
-type: node
+id: 835484048
+type: way
 shop: mobile phone
-latitude: 51.480227000000006
-longitude: -0.0580296
-postcode: "SE15 1NZ"
+latitude: 51.517422700000004
+longitude: -0.0801385
+postcode: "EC2M 4NQ"
 city: London
-street: "Old Kent Road"
-housenumber: 777-787
-phone: "+44 843 538 0163"
-opening_hours: "Mo-Fr 09:00-18:00;Sa 10:00-18:00;Su 11:00-17:00"
-website: "https://www.carphonewarehouse.com/store-locator/Old%20Kent%20Road.html"
+street: "Bishopsgate"
+housenumber: 172
+phone: ""
+opening_hours: ""
+website: ""

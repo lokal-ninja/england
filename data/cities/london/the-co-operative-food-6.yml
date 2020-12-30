@@ -1,12 +1,12 @@
-id: 6955053463
-type: node
-shop: convenience
-latitude: 51.5497317
-longitude: -0.22048700000000002
-postcode: "NW2 4QR"
+id: 270743409
+type: way
+shop: supermarket
+latitude: 51.5250088
+longitude: -0.20225980000000002
+postcode: "W9 3QA"
 city: London
-street: "Walm Lane"
-housenumber: 57-59
+street: "Harrow Road"
+housenumber: 504-506
 phone: ""
 opening_hours: ""
 website: ""

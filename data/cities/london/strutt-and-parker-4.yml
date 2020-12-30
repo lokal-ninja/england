@@ -1,12 +1,12 @@
-id: 8001853296
-type: node
+id: 872165961
+type: way
 shop: estate agent
-latitude: 51.497312400000006
-longitude: -0.1592452
-postcode: "SW1X 9SH"
+latitude: 51.4872285
+longitude: -0.17918640000000002
+postcode: "SW10 9PY"
 city: London
-street: "Sloane Street"
-housenumber: 66
-phone: "+44 20 7235 9959"
+street: "Fulham Road"
+housenumber: 140
+phone: "+44 20 7373 1010"
 opening_hours: ""
-website: "https://www.struttandparker.com/offices/london-knightsbridge/"
+website: "https://www.struttandparker.com/offices/london-west-chelsea/"

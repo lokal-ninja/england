@@ -1,4 +1,4 @@
 ---
-title: "H. Samuel"
+title: "H.Samuel"
 url: /newcastle-upon-tyne/h-samuel/
 ---
