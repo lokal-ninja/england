@@ -1,12 +1,12 @@
-id: 320423743
-type: way
+id: 4683826097
+type: node
 shop: confectionery
-latitude: 51.514027600000006
-longitude: -0.0948045
-postcode: "EC2V 6AH"
+latitude: 51.516002300000004
+longitude: -0.1083785
+postcode: "EC4A 3BN"
 city: London
-street: "Cheapside"
-housenumber: 43
+street: "Great New Street"
+housenumber: 4
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:00-19:00"
 website: ""

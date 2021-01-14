@@ -1,12 +1,12 @@
-id: 561712859
+id: 559422737
 type: way
-shop: supermarket
-latitude: 53.838201100000006
-longitude: -1.6410218
-postcode: "LS18 5BP"
+shop: convenience
+latitude: 53.8042984
+longitude: -1.6381394
+postcode: "LS13 4UJ"
 city: Leeds
-street: "Town Street"
-housenumber: 61-69
-phone: "+44 113 258 1996"
-opening_hours: "Mo-Sa 08:00-21:00; Su 10:00-16:00"
-website: ""
+street: "Swinnow Road"
+housenumber: 45
+phone: ""
+opening_hours: ""
+website: "https://my.morrisons.com/storefinder/137"

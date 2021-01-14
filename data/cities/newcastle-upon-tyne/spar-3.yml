@@ -1,12 +1,12 @@
-id: 538001024
-type: way
-shop: convenience
-latitude: 55.007549600000004
-longitude: -1.5989732
-postcode: "NE7 7LX"
-city: Newcastle upon Tyne
-street: "Benton Park Road"
-housenumber: 
-phone: "+44 191 2854094"
-opening_hours: "24/7"
-website: "https://www.spar.co.uk/store-locator/hal29779-spar-south-gosforth"
+id: 7316810050
+type: node
+shop: supermarket
+latitude: 55.0061795
+longitude: -1.6526078000000002
+postcode: "NE3 3RX"
+city: Newcastle Upon Tyne
+street: "Halewood Avenue"
+housenumber: 37-39
+phone: ""
+opening_hours: ""
+website: ""

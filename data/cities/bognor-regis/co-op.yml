@@ -1,12 +1,12 @@
-id: 7200229884
-type: node
-shop: convenience
-latitude: 50.792503100000005
-longitude: -0.6766297
-postcode: "PO21 2XH"
+id: 234343679
+type: way
+shop: supermarket
+latitude: 50.789747500000004
+longitude: -0.6859372
+postcode: "PO21 2UR"
 city: Bognor Regis
-street: "Chichester Rd"
-housenumber: 33
+street: "Hawthorn Road"
+housenumber: 152-156
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Su 07:00-23:00"
 website: ""

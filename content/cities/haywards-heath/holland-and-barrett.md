@@ -1,4 +1,4 @@
 ---
-title: "Holland and Barrett"
+title: "Holland & Barrett"
 url: /haywards-heath/holland-and-barrett/
 ---

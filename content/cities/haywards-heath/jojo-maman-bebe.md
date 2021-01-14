@@ -1,4 +1,4 @@
 ---
-title: "JoJo Maman Bebe"
+title: "JoJo Maman Bébé"
 url: /haywards-heath/jojo-maman-bebe/
 ---

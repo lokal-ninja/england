@@ -1,12 +1,12 @@
-id: 444856080
-type: way
-shop: beauty
-latitude: 51.57502950000001
-longitude: -0.0135656
-postcode: ""
+id: 3740760062
+type: node
+shop: chemist
+latitude: 51.5164807
+longitude: 0.0100362
+postcode: "E16 1EQ"
 city: London
-street: "Lea Bridge Road"
-housenumber: 561-563
+street: "Barking Road"
+housenumber: 36-38
 phone: ""
 opening_hours: ""
 website: ""

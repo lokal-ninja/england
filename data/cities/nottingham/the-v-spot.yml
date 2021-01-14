@@ -1,12 +1,12 @@
-id: 2348296937
+id: 2348358679
 type: node
-shop: health food
-latitude: 52.9819478
-longitude: -1.1456146
-postcode: "NG5 2FS"
+shop: convenience
+latitude: 52.9805477
+longitude: -1.1470564
+postcode: "NG5 2JL"
 city: Nottingham
 street: "Mansfield Road"
-housenumber: 608
+housenumber: 515
 phone: ""
-opening_hours: "Mo-We 09:00-17:00; Th-Fr 09:00-18:00; Sa 09:00-17:00; Su 10:00-16:00"
+opening_hours: ""
 website: "https://v-spot.co.uk/"

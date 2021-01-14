@@ -1,4 +1,4 @@
 ---
-title: "SCOPE"
+title: "Scope"
 url: /london/scope/
 ---

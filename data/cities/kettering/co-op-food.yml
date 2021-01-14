@@ -1,12 +1,12 @@
-id: 279573992
-type: way
-shop: supermarket
-latitude: 52.3971273
-longitude: -0.5350663
-postcode: "NN14 4PD"
+id: 1037603607
+type: node
+shop: convenience
+latitude: 52.3914198
+longitude: -0.7464308000000001
+postcode: "NN15 7RH"
 city: Kettering
-street: "Oundle Road"
-housenumber: 
+street: "Bignal Court"
+housenumber: 3
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su 10:00-16:00"
+opening_hours: ""
 website: ""

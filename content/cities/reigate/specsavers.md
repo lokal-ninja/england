@@ -1,4 +1,4 @@
 ---
-title: "SpecSavers"
+title: "Specsavers"
 url: /reigate/specsavers/
 ---

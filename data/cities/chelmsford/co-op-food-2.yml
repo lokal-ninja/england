@@ -1,12 +1,12 @@
-id: 167643538
-type: way
-shop: supermarket
-latitude: 51.736867700000005
-longitude: 0.4668719
-postcode: "CM1 1JA"
+id: 8308524571
+type: node
+shop: convenience
+latitude: 51.739195200000005
+longitude: 0.47350860000000006
+postcode: "CM1 1PP"
 city: Chelmsford
-street: "Duke Street"
-housenumber: 40-42
-phone: ""
-opening_hours: ""
-website: ""
+street: "New Street"
+housenumber: 
+phone: "+44 1245 256825"
+opening_hours: "Mo-Su 07:00-22:00"
+website: "https://www.coop.co.uk/"

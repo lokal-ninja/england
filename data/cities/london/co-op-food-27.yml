@@ -1,12 +1,12 @@
-id: 596073690
+id: 564117878
 type: way
-shop: convenience
-latitude: 51.525145900000005
-longitude: -0.0353489
-postcode: "E3 4QS"
+shop: supermarket
+latitude: 51.5160478
+longitude: 0.008955300000000001
+postcode: "E16 1EQ"
 city: London
-street: "Mile End Road"
-housenumber: 383-387
+street: "Barking Road"
+housenumber: 24
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Sa 07:00-23:00; Su 10:00-16:00"
+website: "http://www.coop.co.uk/store/food/E16-1EQ/24-barking-road"

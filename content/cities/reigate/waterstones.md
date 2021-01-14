@@ -1,4 +1,4 @@
 ---
-title: "Waterstone's"
+title: "Waterstones"
 url: /reigate/waterstones/
 ---

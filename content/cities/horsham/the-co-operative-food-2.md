@@ -1,4 +1,0 @@
----
-title: "The Co-operative Food"
-url: /horsham/the-co-operative-food-2/
----

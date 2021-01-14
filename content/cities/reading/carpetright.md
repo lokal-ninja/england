@@ -1,4 +1,4 @@
 ---
-title: "CarpetRight"
+title: "Carpetright"
 url: /reading/carpetright/
 ---

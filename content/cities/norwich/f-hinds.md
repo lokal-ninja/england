@@ -1,4 +1,4 @@
 ---
-title: "F. Hinds"
+title: "F.Hinds"
 url: /norwich/f-hinds/
 ---

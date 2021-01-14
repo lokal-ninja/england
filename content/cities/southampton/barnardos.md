@@ -1,4 +1,4 @@
 ---
-title: "Barnardos"
+title: "Barnardo's"
 url: /southampton/barnardos/
 ---

@@ -1,4 +1,4 @@
 ---
-title: "Skylark,  The Needlemakers"
+title: "Skylark, The Needlemakers"
 url: /lewes/skylark-the-needlemakers/
 ---
