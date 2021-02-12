@@ -1,6 +1,5 @@
 id: 27518995
 type: way
-shop: supermarket
 latitude: 51.7398511
 longitude: -0.47555240000000004
 postcode: "HP3 9AA"
@@ -9,4 +8,4 @@ street: "London Road"
 housenumber: 
 phone: ""
 opening_hours: "Mo-Sa 08:00-22:00; Su 10:00-16:00"
-website: "https://www.aldi.co.uk/"
+website: ""

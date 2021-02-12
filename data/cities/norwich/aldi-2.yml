@@ -1,12 +1,11 @@
 id: 160061893
 type: way
-shop: supermarket
 latitude: 52.636199700000006
 longitude: 1.3270454
 postcode: "NR1 4JZ"
 city: Norwich
 street: "Plumstead Road"
-housenumber: 174-178
+housenumber: 174,176,178
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00; Su 10:00-16:00; PH 08:00-18:00"
-website: "https://www.aldi.co.uk/"
+website: ""

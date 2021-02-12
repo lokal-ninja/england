@@ -1,6 +1,5 @@
 id: 236058467
 type: way
-shop: supermarket
 latitude: 52.582844900000005
 longitude: -0.2535439
 postcode: "PE1 2AF"
@@ -9,4 +8,4 @@ street: "Bourges Boulevard"
 housenumber: 
 phone: ""
 opening_hours: ""
-website: ""
+website: "https://www.thefoodwarehouse.com/store-locator/peterborough"

@@ -1,12 +1,11 @@
-id: 585988933
-type: way
-shop: convenience
-latitude: 51.5298558
-longitude: -0.056484000000000006
-postcode: "E2 9RA"
+id: 874823365
+type: node
+latitude: 51.5235847
+longitude: -0.1263854
+postcode: "WC1H 0LS"
 city: London
-street: "Cambridge Heath Road"
-housenumber: 367
+street: "Woburn Place"
+housenumber: 3-16
 phone: ""
 opening_hours: ""
 website: ""

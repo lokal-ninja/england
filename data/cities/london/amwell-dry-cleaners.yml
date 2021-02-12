@@ -1,6 +1,5 @@
 id: 185669843
 type: way
-shop: laundry
 latitude: 51.5292577
 longitude: -0.1100391
 postcode: ""
@@ -8,5 +7,5 @@ city: London
 street: "Amwell Street"
 housenumber: 48, 48A
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 08:00-16:00; Sa 09:00-16:00"
 website: ""

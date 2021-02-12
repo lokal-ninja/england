@@ -1,6 +1,5 @@
 id: 443728173
 type: way
-shop: supermarket
 latitude: 52.6098149
 longitude: 1.2907828000000001
 postcode: "NR4 6DH"
@@ -9,4 +8,4 @@ street: "Hall Road"
 housenumber: 
 phone: ""
 opening_hours: "Mo-Sa 08:00-22:00; Su 10:00-16:00"
-website: "https://www.aldi.co.uk/"
+website: ""

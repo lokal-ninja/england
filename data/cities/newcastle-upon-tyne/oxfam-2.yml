@@ -1,12 +1,11 @@
-id: 446899564
-type: way
-shop: charity
-latitude: 54.9768989
-longitude: -1.6156932000000002
-postcode: "NE1 7RT"
+id: 4637779245
+type: node
+latitude: 54.98783890000001
+longitude: -1.5771682
+postcode: "NE6 5LQ"
 city: Newcastle upon Tyne
-street: "Percy Street"
-housenumber: 99A
+street: "Chillingham Road"
+housenumber: 252
 phone: ""
-opening_hours: "Mo-Sa 09:30-17:00"
+opening_hours: ""
 website: ""

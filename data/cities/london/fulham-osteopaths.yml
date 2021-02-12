@@ -1,6 +1,5 @@
 id: 453545381
 type: way
-shop: shop
 latitude: 51.4765778
 longitude: -0.20388740000000002
 postcode: "SW6 5HA"
@@ -8,5 +7,5 @@ city: London
 street: "Fulham Road"
 housenumber: 769
 phone: ""
-opening_hours: "08:00-08:00"
+opening_hours: "Mo-Fr 08:30-20:00; Sa 08:30-16:00"
 website: ""

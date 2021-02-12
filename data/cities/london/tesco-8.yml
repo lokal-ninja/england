@@ -1,12 +1,11 @@
-id: 211187819
+id: 55632529
 type: way
-shop: supermarket
-latitude: 51.526913
-longitude: -0.0104518
-postcode: "E3 3DA"
+latitude: 51.574817100000004
+longitude: -0.0121101
+postcode: "E10 7AA"
 city: London
-street: "Hancock Road"
-housenumber: 
-phone: "+44 3456 779085"
-opening_hours: "Mo-Sa 06:00-00:00, Su 12:00-18:00"
-website: "https://www.tesco.com/store-locator/uk/?bID=2152"
+street: "High Road Leyton"
+housenumber: 825
+phone: ""
+opening_hours: "Mo-Fr 06:00-00:00; Su 11:00-17:00"
+website: ""

@@ -1,6 +1,5 @@
 id: 150276834
 type: way
-shop: supermarket
 latitude: 53.0640243
 longitude: -2.5187481000000003
 postcode: "CW5 5SP"
@@ -9,4 +8,4 @@ street: "Station Road"
 housenumber: 
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00; Su 10:00-16:00"
-website: "https://www.aldi.co.uk"
+website: ""

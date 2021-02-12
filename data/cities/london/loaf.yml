@@ -1,12 +1,11 @@
 id: 3384334001
 type: node
-shop: furniture
 latitude: 51.5213413
 longitude: -0.07528950000000001
 postcode: "E1 6AZ"
 city: London
 street: "Commercial Street"
 housenumber: 132
-phone: "0845 468 0698"
+phone: "+44 845 468 0698"
 opening_hours: "Mo-Fr 11:00-19:00; Sa 10:00-18:00; Su 11:00-17:00"
 website: "https://loaf.com/"

@@ -1,6 +1,5 @@
 id: 4606523434
 type: node
-shop: supermarket
 latitude: 51.545341900000004
 longitude: 0.0047111
 postcode: "E15 1EN"
@@ -8,5 +7,5 @@ city: London
 street: "The Grove"
 housenumber: 125
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Su 12:00-20:00"
 website: ""

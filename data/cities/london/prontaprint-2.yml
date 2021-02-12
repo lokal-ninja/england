@@ -1,12 +1,11 @@
-id: 460103674
-type: way
-shop: copyshop
-latitude: 51.4642922
-longitude: -0.2691058
-postcode: ""
+id: 6933231069
+type: node
+latitude: 51.384727000000005
+longitude: -0.2513497
+postcode: "KT4 7NL"
 city: London
-street: "Upper Richmond Road West"
-housenumber: 302
+street: "Malden Road"
+housenumber: 382a
 phone: ""
-opening_hours: "Mo-Fr 9:30-17:30"
-website: ""
+opening_hours: "Mo-Fr 09:00-17:30"
+website: "https://wimbledon.prontaprint.com/"

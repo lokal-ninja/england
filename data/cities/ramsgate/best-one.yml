@@ -1,12 +1,11 @@
-id: 8232398308
-type: node
-shop: convenience
-latitude: 51.353267200000005
-longitude: 1.4011973
-postcode: "CT12 6SQ"
+id: 346293767
+type: way
+latitude: 51.3362561
+longitude: 1.4047936
+postcode: "CT11 9PR"
 city: Ramsgate
-street: "Margate Road"
-housenumber: 330A
+street: "Grange Road"
+housenumber: 148
 phone: ""
 opening_hours: ""
 website: ""

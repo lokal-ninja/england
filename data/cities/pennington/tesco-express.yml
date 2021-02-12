@@ -1,6 +1,5 @@
 id: 325743237
 type: way
-shop: supermarket
 latitude: 50.7541134
 longitude: -1.5609304000000002
 postcode: "SO41 8GN"
@@ -8,5 +7,5 @@ city: Pennington
 street: "South Street"
 housenumber: 
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Su 06:00-23:00"
 website: ""

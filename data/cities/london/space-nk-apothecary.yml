@@ -1,12 +1,11 @@
-id: 443404465
-type: node
-shop: beauty
-latitude: 51.4915791
-longitude: -0.1592548
-postcode: "SW3 4"
+id: 294886272
+type: way
+latitude: 51.52278870000001
+longitude: -0.13667220000000002
+postcode: "W1T 4TT"
 city: London
-street: "Duke of York Square"
-housenumber: 27
+street: "Tottenham Court Road"
+housenumber: 101-106
 phone: ""
 opening_hours: ""
 website: ""

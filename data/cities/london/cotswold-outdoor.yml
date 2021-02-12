@@ -1,12 +1,11 @@
-id: 421386552
-type: way
-shop: outdoor
-latitude: 51.518162700000005
-longitude: -0.11357060000000001
-postcode: "WC1V 7BN"
+id: 3928721758
+type: node
+latitude: 51.517009200000004
+longitude: -0.0758534
+postcode: "E1 7LL"
 city: London
-street: "High Holborn"
-housenumber: 311-318
-phone: "+44 20 7831 9957"
-opening_hours: "Mo-Sa 10:00-19:00; Su 12:00-18:00"
-website: "http://community.cotswoldoutdoor.com"
+street: "Leyden Street"
+housenumber: 
+phone: ""
+opening_hours: ""
+website: ""

@@ -1,12 +1,11 @@
-id: 6015702822
-type: node
-shop: alcohol
-latitude: 53.828133900000005
-longitude: -1.5650368000000001
-postcode: "LS7 2PA"
+id: 510964205
+type: way
+latitude: 53.808213300000006
+longitude: -1.6239409
+postcode: "LS13 2BH"
 city: Leeds
-street: "Stainbeck Avenue"
-housenumber: 14-16
+street: "Aston Road"
+housenumber: 1-3
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,6 +1,5 @@
 id: 670997704
 type: way
-shop: convenience
 latitude: 51.3864845
 longitude: 1.4018737000000001
 postcode: ""
@@ -8,5 +7,5 @@ city: Margate
 street: "Northdown Road"
 housenumber: 
 phone: ""
-opening_hours: ""
+opening_hours: "24/7"
 website: ""

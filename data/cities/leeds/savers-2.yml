@@ -1,12 +1,11 @@
-id: 7275462360
-type: node
-shop: chemist
-latitude: 53.799442600000006
-longitude: -1.5476098
-postcode: "LS1 5RD"
+id: 903122962
+type: way
+latitude: 53.8065493
+longitude: -1.450633
+postcode: "LS15 8ET"
 city: Leeds
-street: "The Headrow"
-housenumber: 123-131
+street: "Crossgates Shopping Centre"
+housenumber: 22
 phone: ""
 opening_hours: ""
 website: ""

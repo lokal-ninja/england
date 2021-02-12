@@ -1,6 +1,5 @@
 id: 65727395
 type: way
-shop: supermarket
 latitude: 53.7927516
 longitude: -2.7069333
 postcode: "PR2 9HD"
@@ -8,5 +7,5 @@ city: Preston
 street: "Sharoe Green Lane"
 housenumber: 256-270
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 07:00-22:00; Su 09:30-16:00"
 website: ""

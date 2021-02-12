@@ -1,12 +1,11 @@
-id: 7053216629
-type: node
-shop: bakery
-latitude: 52.4162885
-longitude: -1.9303021
-postcode: "B30 1JA"
+id: 31718681
+type: way
+latitude: 52.4432387
+longitude: -1.8340167
+postcode: "B27 7RR"
 city: Birmingham
-street: "Watford Road"
-housenumber: 6
+street: "Olton Boulevard East"
+housenumber: 29
 phone: ""
 opening_hours: ""
 website: ""

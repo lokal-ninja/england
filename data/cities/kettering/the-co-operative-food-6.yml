@@ -1,12 +1,11 @@
-id: 4613147012
-type: node
-shop: supermarket
-latitude: 52.4030178
-longitude: -0.7151614000000001
-postcode: "NN16 8LL"
+id: 159547563
+type: way
+latitude: 52.444431
+longitude: -0.8179671000000001
+postcode: "NN14 2QT"
 city: Kettering
-street: "Stamford Road"
-housenumber: 60
+street: "Gladstone Street"
+housenumber: 
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su 08:00-22:00"
+opening_hours: ""
 website: ""

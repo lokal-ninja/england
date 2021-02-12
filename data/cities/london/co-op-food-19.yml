@@ -1,12 +1,11 @@
-id: 8176629229
+id: 7055025394
 type: node
-shop: supermarket
-latitude: 51.5085552
-longitude: 0.0722854
-postcode: "E16 2UB"
+latitude: 51.53233590000001
+longitude: -0.056800800000000005
+postcode: "E2 9NN"
 city: London
-street: "Atlantis Avenue"
-housenumber: 1
+street: "Cambridge Heath Road"
+housenumber: 228-232
 phone: ""
-opening_hours: "Mo-Fr 06:00-23:00; Sa-Su 07:00-22:00"
+opening_hours: ""
 website: ""

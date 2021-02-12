@@ -1,12 +1,11 @@
-id: 6425259189
-type: node
-shop: bakery
-latitude: 51.570697800000005
-longitude: -0.024559800000000003
-postcode: "E10 7LA"
+id: 201225616
+type: way
+latitude: 51.5826009
+longitude: -0.0292946
+postcode: "E17 7DB"
 city: London
-street: "Lea Bridge Road"
-housenumber: 339
+street: "High Street"
+housenumber: 107
 phone: ""
 opening_hours: ""
 website: ""

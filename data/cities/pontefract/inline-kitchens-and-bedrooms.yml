@@ -1,12 +1,11 @@
-id: 7832941822
-type: node
-shop: kitchen
-latitude: 53.693386700000005
-longitude: -1.3045392
+id: 853600833
+type: way
+latitude: 53.693361100000004
+longitude: -1.3046718000000002
 postcode: "WF8 1QT"
 city: Pontefract
 street: "Southgate"
 housenumber: 160
 phone: ""
-opening_hours: "Mon-Fri 8am-5pm, Sat 10:00am - 4:30pm"
+opening_hours: ""
 website: ""

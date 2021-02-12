@@ -1,6 +1,5 @@
 id: 8179295616
 type: node
-shop: antiques
 latitude: 51.228331000000004
 longitude: 1.4024671000000002
 postcode: "CT14 6BL"
@@ -8,5 +7,5 @@ city: Deal
 street: "High Street"
 housenumber: 188
 phone: "+44 7793 230331"
-opening_hours: "Saturday"
+opening_hours: "Sa"
 website: "http://theshopfront.co/"

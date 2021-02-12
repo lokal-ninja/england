@@ -1,12 +1,11 @@
-id: 200498162
-type: way
-shop: convenience
-latitude: 51.582029500000004
-longitude: -0.0326993
-postcode: "E17 7AD"
+id: 1333431580
+type: node
+latitude: 51.516455300000004
+longitude: 0.0625781
+postcode: "E6 6LA"
 city: London
-street: "High Street"
-housenumber: 29-31
+street: "Alpine Way"
+housenumber: Unit 4C
 phone: ""
 opening_hours: ""
-website: ""
+website: "www.lituanicaltd.com"

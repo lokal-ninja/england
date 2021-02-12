@@ -1,6 +1,5 @@
 id: 8098456406
 type: node
-shop: bicycle
 latitude: 53.2017882
 longitude: -2.7075137000000002
 postcode: "CW6 0ND"
@@ -8,5 +7,5 @@ city: Kelsall
 street: "Willington Road"
 housenumber: 
 phone: "07584670766"
-opening_hours: "Tu-sun 09:00-17:00"
+opening_hours: "Tu-Su 09:00-17:00"
 website: "www.kelsallcycles.co.uk"

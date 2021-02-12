@@ -1,6 +1,5 @@
 id: 4046053226
 type: node
-shop: tailor
 latitude: 54.8592742
 longitude: -1.5756328000000002
 postcode: ""
@@ -8,5 +7,5 @@ city: Chester-le-Street
 street: "North Burns"
 housenumber: 
 phone: "+44 7526 19 60 95"
-opening_hours: ""
+opening_hours: "Mo,Tu,Th,Fr 09:00-16:30; Sa 09:00-14:00; We,Su off"
 website: ""

@@ -1,12 +1,11 @@
-id: 4475950121
-type: node
-shop: newsagent
-latitude: 53.806445000000004
-longitude: -1.4501572
+id: 903096342
+type: way
+latitude: 53.806477900000004
+longitude: -1.4501689
 postcode: "LS15 8EU"
 city: Leeds
 street: "Station Road"
-housenumber: 
+housenumber: 43a
 phone: ""
 opening_hours: ""
 website: ""

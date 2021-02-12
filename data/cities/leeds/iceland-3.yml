@@ -1,12 +1,11 @@
-id: 4885695948
-type: node
-shop: frozen food
-latitude: 53.8012948
-longitude: -1.5443101000000001
-postcode: "LS2 8NG"
+id: 196971606
+type: way
+latitude: 53.7750731
+longitude: -1.5446198
+postcode: "LS11 5HZ"
 city: Leeds
-street: "Merrion Centre"
-housenumber: 19-23
+street: "Dewsbury Road"
+housenumber: 255-257
 phone: ""
 opening_hours: ""
 website: ""

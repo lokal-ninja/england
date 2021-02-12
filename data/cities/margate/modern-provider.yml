@@ -1,12 +1,11 @@
-id: 885541271
-type: way
-shop: bakery
-latitude: 51.3868616
-longitude: 1.3815658000000002
-postcode: "CT9 1DD"
+id: 8329244860
+type: node
+latitude: 51.384589500000004
+longitude: 1.3843766000000002
+postcode: "CT9 1LR"
 city: Margate
-street: "The Centre"
-housenumber: 16
+street: "Charlotte Square"
+housenumber: 29
 phone: ""
 opening_hours: ""
 website: ""

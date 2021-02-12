@@ -1,6 +1,5 @@
 id: 4059854670
 type: node
-shop: convenience
 latitude: 54.86265220000001
 longitude: -1.5824427
 postcode: ""
@@ -8,5 +7,5 @@ city: Chester-Le-Street
 street: "Pelton Lane"
 housenumber: 
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Su 06:00-22:00"
 website: ""

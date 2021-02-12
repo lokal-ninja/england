@@ -1,12 +1,11 @@
-id: 3190931061
+id: 1973265011
 type: node
-shop: supermarket
-latitude: 51.4904091
-longitude: -0.1327877
-postcode: ""
+latitude: 51.528134400000006
+longitude: -0.0919436
+postcode: "EC1V 2PH"
 city: London
-street: "Vauxhall Bridge Road"
-housenumber: 44
+street: "City Road"
+housenumber: 202
 phone: ""
-opening_hours: ""
+opening_hours: "24/7"
 website: ""

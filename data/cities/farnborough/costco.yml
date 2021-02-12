@@ -1,6 +1,5 @@
 id: 452149590
 type: way
-shop: wholesale
 latitude: 51.284252300000006
 longitude: -0.7691319000000001
 postcode: "GU14 6FE"
@@ -8,5 +7,5 @@ city: Farnborough
 street: "Templer Avenue"
 housenumber: 2
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 11:00-20:30; Sa 09:30-19:00; Su 11:00-17:00; PH 07:00-18:00"
 website: ""

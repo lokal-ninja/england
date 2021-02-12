@@ -1,6 +1,5 @@
 id: 2291367386
 type: node
-shop: chemist
 latitude: 52.9029698
 longitude: -1.1779084
 postcode: "NG11 8AA"
@@ -8,5 +7,5 @@ city: Nottingham
 street: "Southchurch Drive"
 housenumber: 234
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 08:30-17:30; Su 10:00-16:00"
 website: ""

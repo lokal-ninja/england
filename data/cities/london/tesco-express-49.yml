@@ -1,12 +1,11 @@
-id: 5337276830
+id: 5111838340
 type: node
-shop: supermarket
-latitude: 51.5533159
-longitude: 0.0546106
-postcode: "E12 5JY"
+latitude: 51.512810400000006
+longitude: -0.0379579
+postcode: "E14 7LW"
 city: London
-street: "Romford Road"
-housenumber: 849-853
+street: "Commercial Road"
+housenumber: 657
 phone: ""
-opening_hours: "Mo-Su 06:00-00:00"
+opening_hours: "Mo-Su 06:00-23:00"
 website: ""

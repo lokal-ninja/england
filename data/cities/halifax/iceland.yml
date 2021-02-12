@@ -1,12 +1,11 @@
-id: 118927134
-type: way
-shop: supermarket
-latitude: 53.7276122
-longitude: -1.8730023
-postcode: "HX1 5RA"
+id: 5579351376
+type: node
+latitude: 53.7218597
+longitude: -1.8582505
+postcode: "HX1 1PD"
 city: Halifax
-street: "Pellon Lane"
-housenumber: 
+street: "Market Street"
+housenumber: 43-45
 phone: ""
 opening_hours: ""
 website: ""

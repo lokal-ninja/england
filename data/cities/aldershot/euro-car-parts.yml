@@ -1,6 +1,5 @@
 id: 7688211124
 type: node
-shop: car parts
 latitude: 51.2488577
 longitude: -0.7410306000000001
 postcode: ""
@@ -8,5 +7,5 @@ city: Aldershot
 street: "Eastern Road"
 housenumber: 
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-16:00"
 website: ""

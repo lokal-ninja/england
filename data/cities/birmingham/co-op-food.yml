@@ -1,12 +1,11 @@
-id: 29998253
-type: way
-shop: supermarket
-latitude: 52.482773
-longitude: -1.8977728
-postcode: "B3 2BJ"
+id: 914053367
+type: node
+latitude: 52.5348296
+longitude: -1.9194241
+postcode: "B42 1EZ"
 city: Birmingham
-street: "Colmore Row"
-housenumber: 1
+street: "Walsall Road"
+housenumber: 606/608
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,6 +1,5 @@
 id: 471113266
 type: way
-shop: convenience
 latitude: 53.6549355
 longitude: -1.4272623
 postcode: "WF4 1NG"
@@ -8,5 +7,5 @@ city: Wakefield
 street: "High Street"
 housenumber: 69
 phone: ""
-opening_hours: ""
+opening_hours: "PH,Mo-Su 06:30-23:00"
 website: ""

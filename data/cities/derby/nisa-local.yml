@@ -1,12 +1,11 @@
-id: 5878102894
-type: node
-shop: convenience
-latitude: 52.930721000000005
-longitude: -1.4500944
-postcode: "DE21 6EZ"
+id: 182986241
+type: way
+latitude: 52.8921421
+longitude: -1.4895728000000001
+postcode: "DE23 1RH"
 city: Derby
-street: "Wiltshire Road"
-housenumber: 88
+street: "Underhill Close"
+housenumber: 25
 phone: ""
 opening_hours: ""
 website: ""

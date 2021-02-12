@@ -1,6 +1,5 @@
 id: 8041895622
 type: node
-shop: florist
 latitude: 53.7536472
 longitude: -2.3680797
 postcode: "BB5 1LL"
@@ -8,5 +7,5 @@ city: Accrington
 street: "Blackburn Road"
 housenumber: 90
 phone: ""
-opening_hours: "Mon - Sat 10:00 am - 05:30 pm"
+opening_hours: "Mo-Sa 10:00-17:30"
 website: ""

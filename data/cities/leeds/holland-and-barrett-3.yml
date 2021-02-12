@@ -1,12 +1,11 @@
-id: 6311830732
-type: node
-shop: health food
-latitude: 53.821881000000005
-longitude: -1.4605391
-postcode: "LS14 6JD"
+id: 902102922
+type: way
+latitude: 53.8063319
+longitude: -1.4509971000000002
+postcode: "LS15 8ET"
 city: Leeds
-street: "Seacroft Avenue"
-housenumber: 5
+street: "Station Road"
+housenumber: 11
 phone: ""
 opening_hours: ""
 website: ""

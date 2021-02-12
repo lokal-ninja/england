@@ -1,12 +1,11 @@
-id: 443404571
-type: node
-shop: clothes
-latitude: 51.4913953
-longitude: -0.1586428
-postcode: "SW3 4"
+id: 432808192
+type: way
+latitude: 51.4588459
+longitude: -0.3056862
+postcode: "TW9 1TW"
 city: London
-street: "Duke of York Square"
-housenumber: 75
+street: "Hill Street"
+housenumber: 
 phone: ""
 opening_hours: ""
 website: ""

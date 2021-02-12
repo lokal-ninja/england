@@ -1,12 +1,11 @@
-id: 4636164020
-type: node
-shop: perfumery
-latitude: 51.539546300000005
-longitude: -0.10174770000000001
-postcode: "N1 2BA"
+id: 273720722
+type: way
+latitude: 51.512983600000005
+longitude: -0.1362816
+postcode: ""
 city: London
-street: "Cross Street"
-housenumber: 56
-phone: "+44 20 3637 6230"
-opening_hours: "Mo-Sa 10:00-18:00; Su 12:00-17:00"
-website: "http://www.aesop.com"
+street: "Lexington Street"
+housenumber: 41
+phone: "+44 20 7148 0237"
+opening_hours: ""
+website: "https://www.aesop.com/fr/en/"

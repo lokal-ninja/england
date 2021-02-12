@@ -1,6 +1,5 @@
 id: 7982326406
 type: node
-shop: bicycle
 latitude: 50.6273295
 longitude: -1.1798736
 postcode: "PO37 6PQ"
@@ -8,5 +7,5 @@ city: Shanklin
 street: "Victoria Avenue"
 housenumber: 2
 phone: ""
-opening_hours: ""
+opening_hours: "Mo,Tu,Th-Sa 10:00-11:00 || By appointment"
 website: ""

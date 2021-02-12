@@ -1,6 +1,5 @@
 id: 8284171719
 type: node
-shop: funeral directors
 latitude: 51.379129400000004
 longitude: 1.383768
 postcode: "CT9 5RY"
@@ -8,5 +7,5 @@ city: Margate
 street: "Ramsgate Road"
 housenumber: 92
 phone: "+44 1843 231788"
-opening_hours: ""
+opening_hours: "Mo-Fr 09:00-17:00; Sa By appointment only; Su off"
 website: ""

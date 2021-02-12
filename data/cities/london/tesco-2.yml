@@ -1,12 +1,11 @@
-id: 4976041
-type: way
-shop: supermarket
-latitude: 51.4598919
-longitude: -0.1203526
-postcode: "SW2 5RS"
+id: 2372225021
+type: node
+latitude: 51.489514
+longitude: -0.1050697
+postcode: ""
 city: London
-street: "Acre Lane"
-housenumber: 13
+street: ""
+housenumber: 
 phone: ""
-opening_hours: "Mo-Sa 06:00-23:00; Su 11:00-17:00"
-website: ""
+opening_hours: ""
+website: "https://www.tesco.com/store-locator/uk/?bID=6231"

@@ -1,12 +1,11 @@
-id: 6139531108
-type: node
-shop: variety store
-latitude: 53.7988542
-longitude: -1.5436042
-postcode: "LS1 6JB"
+id: 903096343
+type: way
+latitude: 53.806403200000005
+longitude: -1.4501693
+postcode: "LS15 8EU"
 city: Leeds
-street: "Lands Lane"
-housenumber: 
+street: "Station Road"
+housenumber: 44
 phone: ""
 opening_hours: ""
 website: ""

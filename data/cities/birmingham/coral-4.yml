@@ -1,12 +1,11 @@
-id: 2519320978
-type: node
-shop: bookmaker
-latitude: 52.4827054
-longitude: -1.8936392000000002
-postcode: "B4 6TF"
+id: 98320929
+type: way
+latitude: 52.443282
+longitude: -1.8343571
+postcode: "B27 7RR"
 city: Birmingham
-street: "Corporation Street"
-housenumber: 
+street: "Olton Boulevard East"
+housenumber: 27
 phone: ""
 opening_hours: ""
 website: ""

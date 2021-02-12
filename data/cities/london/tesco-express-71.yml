@@ -1,12 +1,11 @@
-id: 261665947
+id: 238942346
 type: way
-shop: convenience
-latitude: 51.5350988
-longitude: -0.006347
-postcode: "E15 2NE"
+latitude: 51.451546900000004
+longitude: 0.0499367
+postcode: "SE9 1DH"
 city: London
-street: "High Street"
-housenumber: 150
+street: "Eltham High Street"
+housenumber: 39-41
 phone: ""
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.tesco.com/store-locator/uk/?bID=6639"
+opening_hours: ""
+website: ""
