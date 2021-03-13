@@ -1,5 +1,5 @@
 ---
 title: "Kwik Fit"
 url: /halifax/kwik-fit/
-shop: car
+shop: car repair
 ---

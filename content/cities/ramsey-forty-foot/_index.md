@@ -1,6 +1,6 @@
 ---
 title: Ramsey Forty Foot
 url: /ramsey-forty-foot/
-latitude: 52.472717200000005
-longitude: -0.0774629
+latitude: 52.472677700000006
+longitude: -0.07754000000000001
 ---

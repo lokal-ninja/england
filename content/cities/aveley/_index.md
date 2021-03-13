@@ -1,6 +1,6 @@
 ---
 title: Aveley
 url: /aveley/
-latitude: 
-longitude: 
+latitude: 51.5001066
+longitude: 0.2561792
 ---

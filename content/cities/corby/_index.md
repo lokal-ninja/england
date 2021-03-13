@@ -1,6 +1,6 @@
 ---
 title: Corby
 url: /corby/
-latitude: 52.48763
-longitude: -0.701543
+latitude: 52.487734100000004
+longitude: -0.7032713
 ---

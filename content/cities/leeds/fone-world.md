@@ -1,5 +1,5 @@
 ---
 title: "Fone World"
 url: /leeds/fone-world/
-shop: shop
+shop: mobile phone
 ---

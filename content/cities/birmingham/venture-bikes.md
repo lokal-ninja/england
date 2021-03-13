@@ -1,5 +1,5 @@
 ---
-title: "venture Bikes"
+title: "Venture Bikes"
 url: /birmingham/venture-bikes/
 shop: bicycle
 ---

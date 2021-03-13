@@ -1,11 +1,11 @@
-id: 101409290
-type: way
-latitude: 53.3587852
-longitude: -1.4804254000000001
-postcode: "S7 1FS"
+id: 1925275822
+type: node
+latitude: 53.3841514
+longitude: -1.4798168
+postcode: "S3 7BY"
 city: Sheffield
-street: "Abbeydale Road"
-housenumber: 455
+street: "Edward Street"
+housenumber: 65
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Su 07:00-23:00"
+website: "https://www.tesco.com/"

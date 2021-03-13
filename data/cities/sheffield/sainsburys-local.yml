@@ -1,11 +1,11 @@
-id: 205938730
-type: way
-latitude: 53.345150000000004
-longitude: -1.4257710000000001
-postcode: "S12 2LL"
+id: 3636033561
+type: node
+latitude: 53.38045940000001
+longitude: -1.484499
+postcode: "S3 7RL"
 city: Sheffield
-street: "Gleadless Road"
-housenumber: 960
+street: "Upper Hanover Street"
+housenumber: 50
 phone: ""
-opening_hours: "Mo-Su,PH 06:00-23:00"
+opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
-id: 7962611368
-type: node
-latitude: 51.513060700000004
-longitude: 0.006785
-postcode: "E14 0SY"
+id: 4243023
+type: way
+latitude: 51.5469218
+longitude: -0.22498980000000002
+postcode: "NW10 2TD"
 city: London
-street: "Hopewell Square"
+street: "High Road"
 housenumber: 
 phone: ""
-opening_hours: "Mo-Sa 07:00-23:00; Su 11:00-17:00"
+opening_hours: "Mo-Su 08:00-22:00, Su 11:00-17:00"
 website: ""
