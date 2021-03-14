@@ -1,3 +1,5 @@
 ---
 title: "County Antiques"
-url: 
+url: /ilminster/county-antiques/
+shop: antiques
+---
