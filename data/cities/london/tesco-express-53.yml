@@ -1,11 +1,11 @@
-id: 31696388
-type: way
-latitude: 51.6178474
-longitude: -0.0055617
-postcode: "E4 9EY"
+id: 4570948113
+type: node
+latitude: 51.532088300000005
+longitude: -0.0595154
+postcode: "E2 9EG"
 city: London
-street: "New Road"
-housenumber: 175
-phone: "0345 600 1732"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.tesco.com/store-locator/uk/?bid=4693&fbclid=IwAR1Eg-GypiJ3W-GIvUSbwZ4YNEx5_irh-pCrEDMYx7Kjx9PK4bhT7SFpO2E"
+street: "Hackney Road"
+housenumber: 452
+phone: ""
+opening_hours: "Mo-Sa 06:00-23:00; Su 06:00-23:00"
+website: ""

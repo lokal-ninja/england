@@ -1,5 +1,5 @@
 ---
 title: "Halfords"
 url: /dover/halfords/
-shop: bicycle
+shop: car parts
 ---

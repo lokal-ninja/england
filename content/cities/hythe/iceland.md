@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /hythe/iceland/
-shop: supermarket
+shop: frozen food
 ---

@@ -1,11 +1,11 @@
-id: 6071759553
+id: 4559217310
 type: node
-latitude: 51.444585200000006
-longitude: -0.0255634
-postcode: "SE6 4FD"
+latitude: 51.5179799
+longitude: -0.10850720000000001
+postcode: "EC1N 2TD"
 city: London
-street: "Adenmore Road"
-housenumber: 
+street: "Holborn"
+housenumber: 123
 phone: ""
-opening_hours: "Mo-Su 07:00-23:00"
+opening_hours: "Mo-Fr 07:00-21:00; Sa 08:00-18:00; Su 08:00-17:00"
 website: ""

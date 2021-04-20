@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /newquay/tesco-express/
-shop: supermarket
+shop: convenience
 ---

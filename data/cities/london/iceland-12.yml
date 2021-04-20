@@ -1,11 +1,11 @@
-id: 7401798506
-type: node
-latitude: 51.43177480000001
-longitude: -0.12956320000000002
-postcode: "SW16 1BB"
+id: 77766913
+type: way
+latitude: 51.5392081
+longitude: -0.1939462
+postcode: "NW6 4HS"
 city: London
-street: "Streatham High Road"
-housenumber: 194
+street: "Kilburn High Road"
+housenumber: 100-104
 phone: ""
-opening_hours: "Mo-Sa 09:00-18:00; Su 10:00-16:00"
+opening_hours: "Mo-Sa 07:00-22:00; Su 11:00-17:00"
 website: ""

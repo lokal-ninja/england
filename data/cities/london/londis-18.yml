@@ -1,11 +1,11 @@
-id: 222695270
-type: way
-latitude: 51.4805233
-longitude: -0.058968900000000005
-postcode: "SE15 1NZ"
+id: 7858027229
+type: node
+latitude: 51.490863100000006
+longitude: -0.1829462
+postcode: "SW5 0BE"
 city: London
-street: "Old Kent Road"
-housenumber: 747-759
+street: "Old Brompton Road"
+housenumber: 156
 phone: ""
-opening_hours: "24/7"
+opening_hours: ""
 website: ""

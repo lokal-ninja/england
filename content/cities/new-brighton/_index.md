@@ -1,6 +1,6 @@
 ---
 title: New Brighton
 url: /new-brighton/
-latitude: 53.4385649
-longitude: -3.043422
+latitude: 53.563741500000006
+longitude: -1.6898946000000001
 ---

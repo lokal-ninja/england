@@ -1,6 +1,6 @@
 ---
 title: Frogmore
 url: /frogmore/
-latitude: 51.4756274
-longitude: -0.597732
+latitude: 51.475608400000006
+longitude: -0.5975520000000001
 ---

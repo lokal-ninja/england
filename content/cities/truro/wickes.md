@@ -1,5 +1,5 @@
 ---
 title: "Wickes"
 url: /truro/wickes/
-shop: hardware
+shop: doityourself
 ---

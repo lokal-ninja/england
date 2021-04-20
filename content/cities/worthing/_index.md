@@ -1,6 +1,6 @@
 ---
 title: Worthing
 url: /worthing/
-latitude: 50.8116902
-longitude: -0.3703948
+latitude: 52.7392114
+longitude: 0.9600121
 ---

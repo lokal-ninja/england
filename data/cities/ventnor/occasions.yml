@@ -1,11 +1,11 @@
 id: 6927740510
 type: node
-latitude: 50.5952057
-longitude: -1.2056134
+latitude: 50.5952174
+longitude: -1.2055836
 postcode: "PO38 1RY"
 city: Ventnor
 street: "High Street"
-housenumber: 8
+housenumber: 8,10
 phone: ""
 opening_hours: ""
 website: ""

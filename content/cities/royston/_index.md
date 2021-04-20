@@ -1,6 +1,6 @@
 ---
 title: Royston
 url: /royston/
-latitude: 53.5980093
-longitude: -1.4575612
+latitude: 53.5982976
+longitude: -1.4569413
 ---

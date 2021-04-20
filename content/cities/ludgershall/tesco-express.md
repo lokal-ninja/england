@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /ludgershall/tesco-express/
-shop: supermarket
+shop: convenience
 ---

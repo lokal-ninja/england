@@ -1,5 +1,5 @@
 ---
-title: "Al-mansoor Halal Meat"
+title: "Al-Mansoor Halal Meat"
 url: /harrow/al-mansoor-halal-meat/
 shop: butcher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sainsbury's Local"
 url: /coalpit-heath/sainsburys-local/
-shop: supermarket
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Wenzel's"
+title: "Wenzels"
 url: /london/wenzels/
 shop: bakery
 ---

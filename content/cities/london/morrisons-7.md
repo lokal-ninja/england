@@ -1,5 +1,5 @@
 ---
 title: "Morrisons"
 url: /london/morrisons-7/
-shop: convenience
+shop: supermarket
 ---

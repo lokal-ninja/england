@@ -1,11 +1,11 @@
-id: 4500381207
-type: node
-latitude: 52.057427000000004
-longitude: 1.1585857000000002
-postcode: ""
+id: 23432679
+type: way
+latitude: 52.0589321
+longitude: 1.1367841
+postcode: "IP1 2EJ"
 city: Ipswich
-street: "Carr Street"
-housenumber: 51
+street: "London Road"
+housenumber: 
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:00-20:00, Sa 09:00-18:00, Su 10:30-16:30"
 website: ""

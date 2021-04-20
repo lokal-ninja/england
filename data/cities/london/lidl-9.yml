@@ -1,11 +1,11 @@
-id: 5352808140
-type: node
-latitude: 51.584230000000005
-longitude: -0.022202700000000002
-postcode: "E17 7JR"
+id: 27071098
+type: way
+latitude: 51.491777500000005
+longitude: -0.08335160000000001
+postcode: "SE1 4NY"
 city: London
-street: "Selborne Walk"
-housenumber: 38
+street: "Old Kent Road"
+housenumber: 96-120
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00, Su 11:00-17:00"
+opening_hours: ""
 website: ""

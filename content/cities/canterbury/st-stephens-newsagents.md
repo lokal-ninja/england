@@ -1,5 +1,5 @@
 ---
 title: "St. Stephen's Newsagents"
 url: /canterbury/st-stephens-newsagents/
-shop: convenience
+shop: newsagent
 ---
