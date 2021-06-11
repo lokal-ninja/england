@@ -1,11 +1,11 @@
-id: 31696388
-type: way
-latitude: 51.6178474
-longitude: -0.0055617
-postcode: "E4 9EY"
+id: 5261589321
+type: node
+latitude: 51.494299700000006
+longitude: -0.092696
+postcode: "SE1 4AG"
 city: London
-street: "New Road"
-housenumber: 175
-phone: "+44 345 600 1732"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.tesco.com/store-locator/uk/?bid=4693&fbclid=IwAR1Eg-GypiJ3W-GIvUSbwZ4YNEx5_irh-pCrEDMYx7Kjx9PK4bhT7SFpO2E"
+street: "New Kent Road"
+housenumber: 157
+phone: ""
+opening_hours: ""
+website: ""

@@ -1,11 +1,11 @@
-id: 225485585
-type: way
-latitude: 53.404060300000005
-longitude: -2.9915621000000003
-postcode: "L2 0PP"
+id: 1651679861
+type: node
+latitude: 53.40236
+longitude: -2.9765308000000004
+postcode: "L1 4HF"
 city: Liverpool
-street: "Strand Street"
-housenumber: 
+street: "Bold Street"
+housenumber: 93-97
 phone: ""
-opening_hours: "Mo-Su 06:00-23:00"
+opening_hours: ""
 website: ""

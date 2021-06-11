@@ -1,11 +1,11 @@
-id: 5357958066
-type: node
-latitude: 51.4322123
-longitude: -0.031375600000000003
-postcode: "SE26 4PR"
+id: 33625883
+type: way
+latitude: 51.4637557
+longitude: -0.2753064
+postcode: ""
 city: London
-street: "Bell Green Retail Park"
-housenumber: Unit B3
+street: "Upper Richmond Road West"
+housenumber: 
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00, Sa 09:00-18:00, Su 10:00-16:00"
+opening_hours: ""
 website: ""

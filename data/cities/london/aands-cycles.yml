@@ -1,11 +1,11 @@
-id: 7794643393
-type: node
-latitude: 51.5514201
-longitude: -0.05185360000000001
+id: 372813577
+type: way
+latitude: 51.5512803
+longitude: -0.051897000000000006
 postcode: "E5 0NP"
 city: London
 street: "Lower Clapton Road"
 housenumber: 69
 phone: "+44 20 8985 0042"
-opening_hours: "Mo-Sa 08:30-19:00"
+opening_hours: "Mo-Fr 08:30-19:00; Sa 08:30-18:00"
 website: "https://ascycles.business.site/"

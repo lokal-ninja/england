@@ -1,5 +1,5 @@
 ---
-title: "lifestyle express"
+title: "Lifestyle Express"
 url: /solihull/lifestyle-express/
 shop: convenience
 ---

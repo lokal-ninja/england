@@ -1,11 +1,11 @@
-id: 3202307463
-type: node
-latitude: 51.641045600000005
-longitude: -0.034430300000000004
-postcode: "EN3 4TY"
+id: 148519528
+type: way
+latitude: 51.5146117
+longitude: -0.12481880000000001
+postcode: "WC2H 9EE"
 city: London
-street: "Meridian Way"
-housenumber: B4
-phone: "+44 20 8804 0782"
-opening_hours: "Mo-Fr 10:00-18:00"
+street: "Endell Street"
+housenumber: 37
+phone: "+44 20 7836 3079"
+opening_hours: "Mo-Sa 11:00-19:00; Su 12:00-17:00"
 website: "https://www.slamcity.com"

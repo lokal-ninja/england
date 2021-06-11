@@ -1,11 +1,11 @@
-id: 133744251
-type: way
-latitude: 51.817485100000006
-longitude: -0.8127406
-postcode: "HP20 2LA"
+id: 1259288341
+type: node
+latitude: 51.815751000000006
+longitude: -0.7901745
+postcode: "HP20 1LL"
 city: Aylesbury
-street: "Buckingham Street"
-housenumber: 13-19
+street: "Oakfield Road"
+housenumber: 
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su 10:00-16:00"
-website: "https://stores.sainsburys.co.uk/0215/aylesbury"
+opening_hours: ""
+website: "https://stores.sainsburys.co.uk/4958/aylesbury-oakfield-road-local"

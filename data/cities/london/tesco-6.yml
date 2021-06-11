@@ -1,11 +1,11 @@
-id: 4996178
-type: way
-latitude: 51.4927052
-longitude: -0.2016582
-postcode: "W14 8PB"
+id: 4350296860
+type: node
+latitude: 51.5326426
+longitude: -0.029241200000000002
+postcode: "E3 5EQ"
 city: London
-street: "West Cromwell Road"
-housenumber: 
+street: "Vernon Road"
+housenumber: 66
 phone: ""
-opening_hours: "Mo-Sa 00:00-24:00; Su 11:00-17:00"
-website: ""
+opening_hours: ""
+website: "https://www.tesco.com/store-locator/uk/?bid=4400"

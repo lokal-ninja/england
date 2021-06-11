@@ -1,5 +1,5 @@
 ---
 title: "Nature's Harvest"
 url: /leighton-buzzard/natures-harvest/
-shop: greengrocer
+shop: health food
 ---

@@ -1,6 +1,6 @@
 ---
 title: Forest Gate
 url: /forest-gate/
-latitude: 51.4422475
-longitude: -0.6400956
+latitude: 51.5495236
+longitude: 0.0249248
 ---

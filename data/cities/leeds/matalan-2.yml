@@ -1,11 +1,11 @@
-id: 333799043
-type: node
-latitude: 53.7991168
-longitude: -1.5435792000000002
-postcode: "LS1 6JD"
+id: 937052845
+type: way
+latitude: 53.814289800000005
+longitude: -1.6026872
+postcode: "LS5 3RP"
 city: Leeds
-street: "The Headrow"
+street: "Kirkstall Valley Retail Park"
 housenumber: 
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Fr 09:00-20:00, Sa 09:00-19:00, Su 10:30-16:30"
+website: "https://www.matalan.co.uk/stores/leeds-kirkstall"

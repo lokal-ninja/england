@@ -1,11 +1,11 @@
-id: 90153863
-type: way
-latitude: 51.503374900000004
-longitude: -0.1053932
-postcode: "SE1 8JZ"
+id: 5337276830
+type: node
+latitude: 51.5533159
+longitude: 0.0546106
+postcode: "E12 5JY"
 city: London
-street: "The Cut"
-housenumber: 3-11
+street: "Romford Road"
+housenumber: 849-853
 phone: ""
-opening_hours: "Mo-Su 06:00-23:00"
+opening_hours: "Mo-Su 06:00-00:00"
 website: ""

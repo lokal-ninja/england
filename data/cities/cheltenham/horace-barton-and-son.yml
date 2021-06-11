@@ -7,5 +7,5 @@ city: Cheltenham
 street: "Regent Street"
 housenumber: 12
 phone: "+441242 516772"
-opening_hours: "Mo-Sa 09:00-17:00; PH,We off; Dec Su 10:30-15:30"
+opening_hours: "Mo,Tu,Th,Fr,Sa 09:00-17:00; PH,We off"
 website: ""

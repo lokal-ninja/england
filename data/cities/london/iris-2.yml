@@ -1,11 +1,11 @@
-id: 3090725418
-type: node
-latitude: 51.4577851
-longitude: -0.16567620000000002
-postcode: "SW11 6PL"
+id: 432267485
+type: way
+latitude: 51.4598485
+longitude: -0.3066527
+postcode: "TW9 1ND"
 city: London
-street: "Northcote Road"
-housenumber: 97
-phone: "+44 20 7924 1836"
+street: "King Street"
+housenumber: 
+phone: ""
 opening_hours: ""
-website: "https://www.irisfashion.co.uk/"
+website: ""

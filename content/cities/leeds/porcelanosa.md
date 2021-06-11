@@ -1,5 +1,5 @@
 ---
 title: "Porcelanosa"
 url: /leeds/porcelanosa/
-shop: tiles
+shop: bathroom
 ---

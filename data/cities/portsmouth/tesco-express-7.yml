@@ -1,11 +1,11 @@
-id: 5333701651
-type: node
-latitude: 50.8178781
-longitude: -1.0787656
-postcode: "PO2 9DE"
+id: 598657160
+type: way
+latitude: 50.8176763
+longitude: -1.0651454
+postcode: "PO3 5EE"
 city: Portsmouth
-street: "London Road"
-housenumber: 138-142
+street: "Copnor Road"
+housenumber: 241
 phone: ""
-opening_hours: "06:00-23:00"
+opening_hours: "06:00-00:00"
 website: ""

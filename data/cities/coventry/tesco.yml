@@ -1,11 +1,11 @@
-id: 92344357
-type: way
-latitude: 52.3866583
-longitude: -1.5542553000000001
-postcode: "CV4 7EH"
+id: 705428433
+type: node
+latitude: 52.406538600000005
+longitude: -1.5132815000000002
+postcode: "CV1 1DG"
 city: Coventry
-street: "Lynchgate Road"
-housenumber: 
+street: "Shelton Square"
+housenumber: 23
 phone: ""
-opening_hours: "Mo 06:00-24:00; Tu-Sa 00:00-24:00; Su 10:00-16:00"
-website: ""
+opening_hours: ""
+website: "https://www.tesco.com/store-locator/uk/?bID=5779"

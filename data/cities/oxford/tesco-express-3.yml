@@ -1,11 +1,11 @@
-id: 848252264
-type: node
-latitude: 51.748648900000006
-longitude: -1.2568205000000001
-postcode: "OX1 1RA"
+id: 132619789
+type: way
+latitude: 51.7600836
+longitude: -1.2125779
+postcode: ""
 city: Oxford
-street: "St Aldate's"
-housenumber: 75
-phone: "+44 845 6746449"
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.tesco.com/storeLocator/?bID=6167"
+street: "London Road"
+housenumber: 83
+phone: ""
+opening_hours: ""
+website: ""

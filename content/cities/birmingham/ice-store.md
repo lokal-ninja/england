@@ -1,5 +1,5 @@
 ---
 title: "Ice Store"
 url: /birmingham/ice-store/
-shop: shop
+shop: ice cream
 ---

@@ -1,11 +1,11 @@
-id: 4609494458
-type: node
-latitude: 53.8234763
-longitude: -3.0383957
-postcode: "FY3 8AX"
+id: 168808359
+type: way
+latitude: 53.872905300000006
+longitude: -3.0440345
+postcode: "FY5 1LY"
 city: Blackpool
-street: "Devonshire Road"
-housenumber: 127
+street: "Anchorsholme Lane West"
+housenumber: 4
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00; Su 10:00-16:00"
+opening_hours: ""
 website: ""

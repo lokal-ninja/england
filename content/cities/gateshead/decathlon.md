@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /gateshead/decathlon/
-shop: outdoor
+shop: sports
 ---

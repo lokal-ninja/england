@@ -1,11 +1,11 @@
-id: 2321234932
-type: node
-latitude: 51.4813989
-longitude: -0.6104865
+id: 934485039
+type: way
+latitude: 51.481398500000005
+longitude: -0.6104827
 postcode: "SL4 1DN"
 city: Windsor
 street: "Peascod Street"
 housenumber: 107
 phone: ""
-opening_hours: "Mo-Fr 8:45-17:30 Sa 8:45-18:00 Su 10:15-17:00"
+opening_hours: "Mo-Fr 08:45-17:30; Sa 08:45-18:00; Su 10:15-17:00"
 website: ""

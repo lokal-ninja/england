@@ -1,5 +1,5 @@
 ---
 title: "Oliver Bonas"
 url: /london/oliver-bonas-2/
-shop: shop
+shop: clothes
 ---

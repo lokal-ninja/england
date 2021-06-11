@@ -1,5 +1,5 @@
 ---
 title: "Sandals News"
 url: /wakefield/sandals-news/
-shop: newsagent
+shop: convenience
 ---

@@ -1,6 +1,6 @@
 ---
 title: Glazebury
 url: /glazebury/
-latitude: 53.470121600000006
-longitude: -2.4969772000000003
+latitude: 53.472670400000005
+longitude: -2.4948032
 ---

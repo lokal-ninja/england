@@ -1,5 +1,5 @@
 ---
-title: "Ethel and Em"
+title: "Ethel & Em"
 url: /lancaster/ethel-and-em/
-shop: sewing
+shop: wool
 ---

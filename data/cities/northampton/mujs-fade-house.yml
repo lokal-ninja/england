@@ -7,5 +7,5 @@ city: Northampton
 street: "Lea Road"
 housenumber: 52
 phone: "+44 1604 281889"
-opening_hours: "mon 1200-2000 tue 1000-1700 wed-thur 1000-2000 fri-sat 1000-2200 sun 1000-1900"
+opening_hours: "Mo 12:00-20:00; Tu 10:00-17:00; We,Th 10:00-20:00; Fr,Sa 10:00-22:00; Su 10:00-19:00"
 website: ""
