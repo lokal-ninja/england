@@ -1,11 +1,11 @@
-id: 123454361
-type: way
-latitude: 52.3592086
-longitude: -1.290842
-postcode: "CV22 7LZ"
+id: 321696142
+type: node
+latitude: 52.372045400000005
+longitude: -1.2563494000000002
+postcode: "CV21 3PY"
 city: Rugby
-street: "The Green"
-housenumber: 19
+street: "Clifton Road"
+housenumber: 31B
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su 10:00-16:00"
+opening_hours: ""
 website: ""

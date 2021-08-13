@@ -1,5 +1,5 @@
 ---
-title: "Martin’s"
+title: "Martin's"
 url: /fakenham/martins/
-shop: convenience
+shop: newsagent
 ---

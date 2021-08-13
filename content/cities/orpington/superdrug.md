@@ -1,5 +1,5 @@
 ---
 title: "Superdrug"
 url: /orpington/superdrug/
-shop: beauty
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
-title: "TESLA"
+title: "Tesla"
 url: /london/tesla/
-shop: car repair
+shop: car
 ---

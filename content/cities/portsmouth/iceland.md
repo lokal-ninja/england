@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /portsmouth/iceland/
-shop: supermarket
+shop: frozen food
 ---

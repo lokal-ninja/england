@@ -7,5 +7,5 @@ city: York
 street: "Gerard Avenue"
 housenumber: 3
 phone: ""
-opening_hours: "Tu-We 10:00-1400, Th-Fr 07:30-16:00, Sa 07:30-1300"
+opening_hours: "Tu,We 10:00-14:00; Th,Fr 07:30-16:00; Sa 07:30-13:00"
 website: ""

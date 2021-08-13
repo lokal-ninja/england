@@ -1,5 +1,5 @@
 ---
 title: "Holland & Barrett"
 url: /dunstable/holland-and-barrett/
-shop: health
+shop: health food
 ---

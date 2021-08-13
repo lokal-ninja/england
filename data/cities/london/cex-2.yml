@@ -1,11 +1,11 @@
-id: 230342291
-type: way
-latitude: 51.520409400000005
-longitude: -0.1344458
-postcode: "W1T 2HB"
+id: 2485002553
+type: node
+latitude: 51.4505746
+longitude: 0.0536405
+postcode: "SE9 1BW"
 city: London
-street: "Tottenham Court Road"
-housenumber: 70
+street: "Eltham High Street"
+housenumber: 108
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00; Su 10:30-16:30"
-website: "https://uk.webuy.com/stores/store_details.php?branchId=1#.VE0Lw_mG-ao"
+opening_hours: "Mo-Sa 09:30-18:00; Su 10:30-17:00"
+website: "https://uk.webuy.com/site/storeDetail?branchId=307"

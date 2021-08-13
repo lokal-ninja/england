@@ -1,5 +1,5 @@
 ---
-title: "poundland"
+title: "Poundland"
 url: /dunstable/poundland/
-shop: supermarket
+shop: variety store
 ---

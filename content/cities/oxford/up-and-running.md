@@ -1,5 +1,5 @@
 ---
-title: "Up and Running"
+title: "Up & Running"
 url: /oxford/up-and-running/
 shop: sports
 ---

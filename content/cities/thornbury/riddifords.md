@@ -1,5 +1,5 @@
 ---
 title: "Riddifords"
 url: /thornbury/riddifords/
-shop: shop
+shop: greengrocer
 ---

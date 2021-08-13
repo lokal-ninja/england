@@ -1,11 +1,11 @@
-id: 334674013
-type: way
-latitude: 50.967731300000004
-longitude: -1.3518056
-postcode: "SO50 5RE"
+id: 2576450727
+type: node
+latitude: 50.9063693
+longitude: -1.4062693000000002
+postcode: ""
 city: Southampton
-street: "Market Street"
-housenumber: 82
+street: "The Marlands Shopping Centre"
+housenumber: 
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Sa 09:00-17:30; Th 09:00-18:30; Su 11:00-16:30"
+website: "https://uk.webuy.com/stores/store_details.php?branchId=31"

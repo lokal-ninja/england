@@ -1,6 +1,6 @@
 ---
 title: Sandhutton
 url: /sandhutton/
-latitude: 54.232397600000006
-longitude: -1.4159082
+latitude: 54.2324003
+longitude: -1.4147642
 ---

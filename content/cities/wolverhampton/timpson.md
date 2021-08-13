@@ -1,5 +1,5 @@
 ---
 title: "Timpson"
 url: /wolverhampton/timpson/
-shop: shop
+shop: locksmith
 ---

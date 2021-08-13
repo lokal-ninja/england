@@ -1,11 +1,11 @@
-id: 439447912
-type: node
-latitude: 51.514968200000006
-longitude: -0.08270630000000001
-postcode: "EC2N 4AH"
+id: 161420159
+type: way
+latitude: 51.5131346
+longitude: -0.11320250000000001
+postcode: ""
 city: London
-street: "Bishopsgate"
-housenumber: 42-44
+street: "Strand"
+housenumber: 212
 phone: ""
 opening_hours: ""
 website: ""

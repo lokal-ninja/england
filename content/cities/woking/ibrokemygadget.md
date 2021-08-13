@@ -1,5 +1,5 @@
 ---
 title: "iBrokemygadget"
 url: /woking/ibrokemygadget/
-shop: shop
+shop: mobile phone
 ---

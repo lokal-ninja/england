@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /runcorn/iceland/
-shop: supermarket
+shop: frozen food
 ---

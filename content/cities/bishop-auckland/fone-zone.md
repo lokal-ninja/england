@@ -1,5 +1,5 @@
 ---
 title: "Fone Zone"
 url: /bishop-auckland/fone-zone/
-shop: shop
+shop: mobile phone
 ---

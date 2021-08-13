@@ -1,5 +1,5 @@
 ---
-title: "Cex"
+title: "CeX"
 url: /lancaster/cex/
-shop: video
+shop: electronics
 ---

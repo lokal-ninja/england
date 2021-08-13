@@ -1,11 +1,11 @@
-id: 4947459385
-type: node
-latitude: 52.377568200000006
-longitude: 1.1078192
-postcode: "IP22 4LB"
+id: 709599711
+type: way
+latitude: 52.368503000000004
+longitude: 1.1272704
+postcode: "IP22 4HZ"
 city: Diss
-street: "Saint Nicholas Street"
-housenumber: 1
+street: "Victoria Road"
+housenumber: 44
 phone: ""
-opening_hours: "Mo-Sa 10:00-16:30"
-website: "http://www.lilyandrose.co.uk/"
+opening_hours: ""
+website: "https://www.lilyandrose.co.uk/"

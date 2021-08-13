@@ -1,6 +1,6 @@
 ---
-title: prescot
+title: Prescot
 url: /prescot/
-latitude: 
-longitude: 
+latitude: 53.4275807
+longitude: -2.8042467
 ---

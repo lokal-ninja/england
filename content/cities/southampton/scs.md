@@ -1,5 +1,5 @@
 ---
-title: "SCS"
+title: "ScS"
 url: /southampton/scs/
 shop: furniture
 ---

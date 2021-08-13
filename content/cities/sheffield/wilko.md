@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
 url: /sheffield/wilko/
-shop: shop
+shop: variety store
 ---

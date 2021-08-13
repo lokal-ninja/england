@@ -1,11 +1,11 @@
-id: 256770771
-type: way
-latitude: 50.8930481
-longitude: 0.057330900000000004
-postcode: "BN8 5QX"
+id: 8941040256
+type: node
+latitude: 50.9452355
+longitude: -0.0214342
+postcode: "BN8 4BG"
 city: Lewes
-street: "Springett Avenue"
-housenumber: 64
+street: "South Street"
+housenumber: 5
 phone: ""
-opening_hours: "Mo-Th 06:00-22:00; Fr 06:00-23:00; Sa 07:00-23:00; Su 07:00-22:00"
+opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
-id: 4993655683
-type: node
-latitude: 51.616169600000006
-longitude: -0.1765215
-postcode: "N12 9QR"
+id: 105467210
+type: way
+latitude: 51.5379778
+longitude: -0.1932855
+postcode: "NW6 4HJ"
 city: London
-street: "High Road"
-housenumber: 788
+street: "Kilburn High Road"
+housenumber: 60-62
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 09:00-19:00; Su 11:00-17:00"
 website: ""

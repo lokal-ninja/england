@@ -1,5 +1,5 @@
 ---
 title: "Boleki Lolek"
 url: /leeds/boleki-lolek/
-shop: shop
+shop: convenience
 ---

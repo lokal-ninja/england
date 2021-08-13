@@ -1,5 +1,5 @@
 ---
 title: "Hidden Hearing"
 url: /margate/hidden-hearing/
-shop: shop
+shop: hearing aids
 ---

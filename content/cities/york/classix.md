@@ -1,5 +1,5 @@
 ---
 title: "Classix"
 url: /york/classix/
-shop: shop
+shop: clothes
 ---

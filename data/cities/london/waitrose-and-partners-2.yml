@@ -1,11 +1,11 @@
-id: 7178906836
-type: node
-latitude: 51.512796400000006
-longitude: -0.3218211
-postcode: "W13 0NL"
+id: 4997029
+type: way
+latitude: 51.424719700000004
+longitude: -0.202332
+postcode: "SW19 7JY"
 city: London
-street: "Alexandria Road"
-housenumber: 2
+street: "Alexandra Road"
+housenumber: 
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Th 08:00-21:00; Fr 08:00-22:00; Sa 08:00-21:00; Su 11:00-17:00"
 website: ""

@@ -1,5 +1,5 @@
 ---
 title: "Seasons Healthcare"
 url: /chester-le-street/seasons-healthcare/
-shop: shop
+shop: health food
 ---

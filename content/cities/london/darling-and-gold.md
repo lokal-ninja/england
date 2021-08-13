@@ -1,5 +1,5 @@
 ---
 title: "Darling & Gold"
 url: /london/darling-and-gold/
-shop: shop
+shop: clothes
 ---

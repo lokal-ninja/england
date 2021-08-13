@@ -1,5 +1,5 @@
 ---
 title: "Salthouse Bottles"
 url: /london/salthouse-bottles/
-shop: shop
+shop: alcohol
 ---
