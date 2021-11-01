@@ -1,6 +1,6 @@
 ---
 title: Alton
 url: /alton/
-latitude: 52.9768222
-longitude: -1.8935028
+latitude: 52.9768412
+longitude: -1.8930508000000001
 ---

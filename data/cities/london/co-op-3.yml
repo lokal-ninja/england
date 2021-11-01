@@ -1,11 +1,11 @@
-id: 6224944634
-type: node
-latitude: 51.506745
-longitude: -0.0416561
-postcode: "SE16 5EF"
+id: 223048890
+type: way
+latitude: 51.451214
+longitude: -0.0066686
+postcode: "SE13 6RT"
 city: London
-street: "Rotherhithe Street"
-housenumber: 346
+street: "Hither Green Lane"
+housenumber: 200-206
 phone: ""
-opening_hours: "Mo-Su 07:00-23:00"
+opening_hours: ""
 website: ""

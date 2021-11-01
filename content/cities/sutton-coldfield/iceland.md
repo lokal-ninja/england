@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /sutton-coldfield/iceland/
-shop: supermarket
+shop: frozen food
 ---

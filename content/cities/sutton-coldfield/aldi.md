@@ -1,5 +1,5 @@
 ---
-title: "Aldi"
+title: "ALDI"
 url: /sutton-coldfield/aldi/
 shop: supermarket
 ---

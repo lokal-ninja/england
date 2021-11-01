@@ -1,5 +1,5 @@
 ---
 title: "Nisa"
 url: /london/nisa-8/
-shop: supermarket
+shop: convenience
 ---

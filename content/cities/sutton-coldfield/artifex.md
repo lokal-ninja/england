@@ -1,5 +1,5 @@
 ---
 title: "Artifex"
 url: /sutton-coldfield/artifex/
-shop: shop
+shop: art
 ---

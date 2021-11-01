@@ -1,11 +1,11 @@
-id: 364968952
-type: way
-latitude: 53.4457443
-longitude: -2.2776917
-postcode: "M21 9PT"
+id: 6313437867
+type: node
+latitude: 53.457440600000005
+longitude: -2.2609019000000004
+postcode: "M16 7RN"
 city: Manchester
-street: "Manchester Road"
-housenumber: 84
+street: "Upper Chorlton Road"
+housenumber: 44
 phone: ""
-opening_hours: "Mo-Su 06:00-24:00"
+opening_hours: ""
 website: ""

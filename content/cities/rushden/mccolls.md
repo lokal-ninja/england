@@ -1,5 +1,5 @@
 ---
-title: "McColls"
+title: "McColl's"
 url: /rushden/mccolls/
 shop: convenience
 ---

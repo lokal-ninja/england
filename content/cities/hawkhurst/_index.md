@@ -1,6 +1,6 @@
 ---
 title: Hawkhurst
 url: /hawkhurst/
-latitude: 51.0469632
-longitude: 0.5082546
+latitude: 51.0476326
+longitude: 0.5109912
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Bensons For Beds"
+title: "Bensons for Beds"
 url: /darlington/bensons-for-beds/
 shop: bed
 ---

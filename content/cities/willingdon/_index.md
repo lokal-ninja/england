@@ -1,6 +1,6 @@
 ---
 title: Willingdon
 url: /willingdon/
-latitude: 50.8066364
-longitude: 0.2458382
+latitude: 50.800421300000004
+longitude: 0.2501166
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /norwich/savers-3/
-shop: convenience
+shop: chemist
 ---

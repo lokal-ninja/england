@@ -1,11 +1,11 @@
-id: 111490414
-type: way
-latitude: 51.4922501
-longitude: -0.13956680000000002
-postcode: "SW1V 1RX"
+id: 5737551713
+type: node
+latitude: 51.52997250000001
+longitude: -0.0864356
+postcode: "N1 6AA"
 city: London
-street: "Warwick Way"
-housenumber: 18-28
-phone: ""
-opening_hours: ""
+street: "East Road"
+housenumber: 100
+phone: "+44 3456 746454"
+opening_hours: "Mo-Su 07:00-23:00"
 website: ""

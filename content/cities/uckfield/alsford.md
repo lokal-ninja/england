@@ -1,5 +1,5 @@
 ---
 title: "Alsford"
 url: /uckfield/alsford/
-shop: trade
+shop: doityourself
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Clarks"
 url: /havant/clarks/
-shop: clothes
+shop: shoes
 ---

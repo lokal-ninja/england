@@ -1,11 +1,11 @@
-id: 926393621
-type: node
-latitude: 52.136621500000004
-longitude: -0.46652200000000005
-postcode: "MK40 1RZ"
+id: 310267599
+type: way
+latitude: 52.1357312
+longitude: -0.4706173
+postcode: "MK40 1PS"
 city: Bedford
-street: "High Street"
-housenumber: 63
+street: "Midland Road"
+housenumber: 34,36,38,40
 phone: ""
 opening_hours: ""
 website: ""

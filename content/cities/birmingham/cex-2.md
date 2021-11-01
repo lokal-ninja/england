@@ -1,5 +1,5 @@
 ---
-title: "CEX"
+title: "CeX"
 url: /birmingham/cex-2/
-shop: video games
+shop: electronics
 ---

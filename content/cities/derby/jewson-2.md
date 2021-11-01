@@ -1,5 +1,5 @@
 ---
 title: "Jewson"
 url: /derby/jewson-2/
-shop: doityourself
+shop: trade
 ---

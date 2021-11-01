@@ -1,5 +1,5 @@
 ---
 title: "Terry's Boutique"
 url: /runcorn/terrys-boutique/
-shop: boutique
+shop: clothes
 ---

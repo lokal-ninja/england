@@ -1,5 +1,5 @@
 ---
-title: "=CLOSED="
+title: "[CLOSED]"
 url: /reigate/closed/
 shop: shop
 ---

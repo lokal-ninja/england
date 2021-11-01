@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
 url: /horsham/wilko/
-shop: department store
+shop: variety store
 ---

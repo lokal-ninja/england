@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /coalville/iceland/
-shop: supermarket
+shop: frozen food
 ---

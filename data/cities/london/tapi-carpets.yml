@@ -1,11 +1,11 @@
-id: 294640994
-type: way
-latitude: 51.5182176
-longitude: -0.1317307
-postcode: ""
+id: 9095868218
+type: node
+latitude: 51.4889595
+longitude: 0.020680200000000003
+postcode: "SE7 7TZ"
 city: London
-street: "Tottenham Court Road"
-housenumber: 245
+street: "Peninsular Park Road"
+housenumber: 2
 phone: ""
-opening_hours: "Mo,We-Sa 09:00-18:00; Tu 09:30-19:00; Sa 09:30-18:00"
-website: "https://www.tapi.co.uk/stores/tottenham-court-road/"
+opening_hours: ""
+website: "https://www.tapi.co.uk/stores/charlton"

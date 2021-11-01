@@ -1,5 +1,5 @@
 ---
 title: "VIP"
 url: /london/vip/
-shop: shop
+shop: e-cigarette
 ---

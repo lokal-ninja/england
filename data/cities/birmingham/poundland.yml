@@ -1,11 +1,11 @@
-id: 80790531
-type: way
-latitude: 52.545776000000004
-longitude: -1.9323323000000001
-postcode: "B42 1TN"
+id: 5591809049
+type: node
+latitude: 52.442103900000006
+longitude: -1.9395427
+postcode: "B29 6SJ"
 city: Birmingham
-street: "Walsall Road"
-housenumber: 943
+street: "Chapel Lane"
+housenumber: 
 phone: ""
-opening_hours: "Mo-Sa 08:00-19:00; Su 10:00-16:00"
+opening_hours: ""
 website: ""

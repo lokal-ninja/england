@@ -1,11 +1,11 @@
-id: 462653908
-type: way
-latitude: 53.442495400000006
-longitude: -2.1905642000000003
-postcode: "M19 3NN"
+id: 2150791348
+type: node
+latitude: 53.4824162
+longitude: -2.2419161
+postcode: "M1 1PW"
 city: Manchester
-street: "Stockport Road"
-housenumber: 998-990
+street: "Market Street"
+housenumber: 58-66
 phone: ""
-opening_hours: "Mo-Sa 06:00-23:00; Su 11:00-17:00"
-website: "https://www.tesco.com/"
+opening_hours: ""
+website: ""

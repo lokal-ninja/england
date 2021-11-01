@@ -1,6 +1,6 @@
 ---
 title: Buckfastleigh
 url: /buckfastleigh/
-latitude: 50.4815994
-longitude: -3.7779904
+latitude: 50.481252600000005
+longitude: -3.778102
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Singular Sensation"
 url: /sutton-coldfield/singular-sensation/
-shop: boutique
+shop: clothes
 ---

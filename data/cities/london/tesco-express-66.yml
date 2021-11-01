@@ -1,11 +1,11 @@
-id: 90153863
-type: way
-latitude: 51.503374900000004
-longitude: -0.1053932
-postcode: "SE1 8JZ"
+id: 5261589321
+type: node
+latitude: 51.494299700000006
+longitude: -0.092696
+postcode: "SE1 4AG"
 city: London
-street: "The Cut"
-housenumber: 3-11
+street: "New Kent Road"
+housenumber: 157
 phone: ""
-opening_hours: "Mo-Su 06:00-23:00"
+opening_hours: "Mo-Su 07:00-23:00"
 website: ""

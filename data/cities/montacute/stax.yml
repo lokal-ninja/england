@@ -7,5 +7,5 @@ city: Montacute
 street: "South Street"
 housenumber: 
 phone: ""
-opening_hours: "Mo-Fr 08:30-17:00"
+opening_hours: "Mo,We-Fr 09:00-01:00,14:00-16:30, Tu 09:00-01:00, Sa 09:00-12:00"
 website: ""

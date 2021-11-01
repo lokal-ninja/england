@@ -1,5 +1,5 @@
 ---
 title: "Ted Williams"
 url: /sutton-coldfield/ted-williams/
-shop: boutique
+shop: clothes
 ---

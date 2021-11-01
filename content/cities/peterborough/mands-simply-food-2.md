@@ -1,5 +1,5 @@
 ---
 title: "M&S Simply Food"
 url: /peterborough/mands-simply-food-2/
-shop: convenience
+shop: supermarket
 ---

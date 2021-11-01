@@ -1,5 +1,5 @@
 ---
 title: "New Look"
 url: /sutton-coldfield/new-look/
-shop: boutique
+shop: clothes
 ---

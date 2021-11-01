@@ -1,11 +1,11 @@
-id: 4215161065
-type: node
-latitude: 51.8809721
-longitude: -2.0553646000000003
-postcode: "GL53 8DB"
+id: 166151449
+type: way
+latitude: 51.8981787
+longitude: -2.0716685
+postcode: "GL50 1EG"
 city: Cheltenham
-street: "Cirencester Road"
-housenumber: 70
-phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su 07:30-21:30"
+street: "High Street"
+housenumber: 70-72
+phone: "+441242 584552"
+opening_hours: "Mo-Su 07:00-23:00"
 website: ""

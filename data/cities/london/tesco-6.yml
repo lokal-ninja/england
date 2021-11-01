@@ -1,11 +1,11 @@
-id: 4350296860
-type: node
-latitude: 51.5326426
-longitude: -0.029241200000000002
-postcode: "E3 5EQ"
+id: 24829451
+type: way
+latitude: 51.4892455
+longitude: -0.0759969
+postcode: "SE1 5HG"
 city: London
-street: "Vernon Road"
-housenumber: 66
+street: "Dunton Road"
+housenumber: 107
 phone: ""
-opening_hours: ""
-website: "https://www.tesco.com/store-locator/uk/?bid=4400"
+opening_hours: "Mo-Fr 07:00-22:00; Sa 07:00-00:00; Su 11:00-17:00"
+website: "https://www.tesco.com/"

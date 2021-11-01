@@ -7,5 +7,5 @@ city: Kingston
 street: "Richmond Road"
 housenumber: 311
 phone: "+44 20 8549 5355"
-opening_hours: ""
+opening_hours: "Mo,Tu,Th,Fr 10:00-17:30; Sa 09:00-17:00"
 website: "http://www.dance-active.co.uk/"

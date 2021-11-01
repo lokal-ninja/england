@@ -1,5 +1,5 @@
 ---
 title: "Bodycare"
 url: /derby/bodycare/
-shop: beauty
+shop: chemist
 ---

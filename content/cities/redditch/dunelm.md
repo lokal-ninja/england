@@ -1,5 +1,5 @@
 ---
 title: "Dunelm"
 url: /redditch/dunelm/
-shop: houseware
+shop: interior decoration
 ---

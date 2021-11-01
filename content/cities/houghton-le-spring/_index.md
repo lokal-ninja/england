@@ -1,6 +1,6 @@
 ---
-title: Houghton-Le-Spring
+title: Houghton-le-Spring
 url: /houghton-le-spring/
-latitude: 
-longitude: 
+latitude: 54.8406536
+longitude: -1.4699279
 ---

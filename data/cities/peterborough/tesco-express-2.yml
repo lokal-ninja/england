@@ -1,11 +1,11 @@
-id: 330306109
-type: way
-latitude: 52.5966457
-longitude: -0.24091210000000002
-postcode: "PE1 3SA"
+id: 3376802947
+type: node
+latitude: 52.5504754
+longitude: -0.2195352
+postcode: "PE2 8RJ"
 city: Peterborough
-street: "Welland Road"
-housenumber: 
+street: "Whittlesey Road"
+housenumber: 108/110
 phone: ""
-opening_hours: "Mo-Su 07:00-23:00"
-website: ""
+opening_hours: ""
+website: "https://www.tesco.com/store-locator/uk/?bID=6111"

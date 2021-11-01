@@ -1,5 +1,5 @@
 ---
 title: "Hunters"
 url: /leeds/hunters/
-shop: shop
+shop: vacant
 ---

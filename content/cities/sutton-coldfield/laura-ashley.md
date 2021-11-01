@@ -1,5 +1,5 @@
 ---
 title: "Laura Ashley"
 url: /sutton-coldfield/laura-ashley/
-shop: boutique
+shop: clothes
 ---

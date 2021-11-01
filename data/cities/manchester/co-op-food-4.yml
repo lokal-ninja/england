@@ -1,11 +1,11 @@
-id: 444180799
-type: way
-latitude: 53.4164401
-longitude: -2.2318621000000003
-postcode: "M20 2DW"
+id: 6111002737
+type: node
+latitude: 53.4681532
+longitude: -2.2355412
+postcode: "M15 6PB"
 city: Manchester
-street: "Wilmslow Road"
-housenumber: 756
+street: "Manchester Business School"
+housenumber: 12
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Su 06:00-23:00"
 website: ""

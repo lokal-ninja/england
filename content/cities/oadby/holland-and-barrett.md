@@ -1,5 +1,5 @@
 ---
-title: "Holland And Barrett"
+title: "Holland & Barrett"
 url: /oadby/holland-and-barrett/
-shop: convenience
+shop: health food
 ---

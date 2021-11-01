@@ -1,5 +1,5 @@
 ---
-title: "Skill's Travel"
+title: "Skills Travel"
 url: /derby/skills-travel/
 shop: travel agency
 ---

@@ -1,6 +1,6 @@
 ---
 title: Gravesend
 url: /gravesend/
-latitude: 51.9121682
-longitude: 0.09095270000000001
+latitude: 51.442474700000005
+longitude: 0.3694468
 ---

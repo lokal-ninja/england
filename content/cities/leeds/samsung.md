@@ -1,5 +1,5 @@
 ---
 title: "Samsung"
 url: /leeds/samsung/
-shop: electronics
+shop: vacant
 ---

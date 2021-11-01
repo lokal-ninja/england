@@ -1,6 +1,6 @@
 ---
 title: Harleston
 url: /harleston/
-latitude: 52.202421400000006
-longitude: 0.9465453
+latitude: 52.401797300000005
+longitude: 1.2990762
 ---

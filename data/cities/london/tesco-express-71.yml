@@ -1,11 +1,11 @@
-id: 144667846
-type: way
-latitude: 51.494992
-longitude: -0.21110130000000002
-postcode: ""
+id: 7644671846
+type: node
+latitude: 51.4991198
+longitude: -0.10033130000000001
+postcode: "SE1 0AJ"
 city: London
-street: ""
-housenumber: 
+street: "Borough Road"
+housenumber: 44-46
 phone: ""
-opening_hours: ""
-website: "https://www.tesco.com/"
+opening_hours: "Mo-Su 07:00-23:00"
+website: ""

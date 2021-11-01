@@ -1,6 +1,6 @@
 ---
 title: East End
 url: /east-end/
-latitude: 51.3253557
-longitude: -2.7118447000000003
+latitude: 51.423138300000005
+longitude: 0.8275840000000001
 ---
