@@ -1,5 +1,5 @@
 ---
 title: "Jewson"
 url: /burgess-hill/jewson/
-shop: doityourself
+shop: trade
 ---

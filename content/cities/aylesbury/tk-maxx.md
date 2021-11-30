@@ -1,5 +1,5 @@
 ---
 title: "TK Maxx"
 url: /aylesbury/tk-maxx/
-shop: clothes
+shop: department store
 ---

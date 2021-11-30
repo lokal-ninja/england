@@ -1,11 +1,11 @@
-id: 1661112216
-type: node
-latitude: 51.5865298
-longitude: -0.062150000000000004
-postcode: "N15 4QD"
+id: 23701033
+type: way
+latitude: 51.484274600000006
+longitude: -0.3216598
+postcode: "TW8 9DN"
 city: London
-street: "Broad Lane"
-housenumber: 
-phone: ""
-opening_hours: ""
-website: ""
+street: "Great West Road"
+housenumber: 971
+phone: "+44 333 220 8118"
+opening_hours: "Mo,Tu 09:30-20:00; We-Fr 09:30-18:00; Sa 09:00-18:00; Su 10:00-16:00"
+website: "https://www.carpetright.co.uk/"

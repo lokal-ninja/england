@@ -1,5 +1,5 @@
 ---
-title: "Co-op Daily"
+title: "CO-OP Daily"
 url: /woodbridge/co-op-daily/
 shop: convenience
 ---

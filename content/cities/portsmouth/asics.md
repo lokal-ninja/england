@@ -1,5 +1,5 @@
 ---
-title: "Asics"
+title: "ASICS"
 url: /portsmouth/asics/
 shop: shoes
 ---

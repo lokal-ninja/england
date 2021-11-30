@@ -1,6 +1,6 @@
 ---
 title: Bagshot
 url: /bagshot/
-latitude: 51.3611644
-longitude: -0.6922638000000001
+latitude: 51.385618900000004
+longitude: -1.5451241
 ---

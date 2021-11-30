@@ -1,5 +1,5 @@
 ---
-title: "Ego's"
+title: "Egos"
 url: /derby/egos/
 shop: hairdresser
 ---

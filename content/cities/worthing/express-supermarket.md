@@ -1,5 +1,5 @@
 ---
-title: "Express supermarket"
+title: "Express Supermarket"
 url: /worthing/express-supermarket/
-shop: supermarket
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Card Factory"
 url: /wigan/card-factory/
-shop: office supplies
+shop: gift
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dunelm"
 url: /lancaster/dunelm/
-shop: houseware
+shop: interior decoration
 ---

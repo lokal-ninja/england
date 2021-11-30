@@ -1,5 +1,5 @@
 ---
 title: "Dunelm"
 url: /grays/dunelm/
-shop: houseware
+shop: interior decoration
 ---

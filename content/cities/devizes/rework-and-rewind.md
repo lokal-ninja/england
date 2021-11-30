@@ -1,5 +1,5 @@
 ---
 title: "Rework and Rewind"
 url: /devizes/rework-and-rewind/
-shop: shop
+shop: hairdresser
 ---

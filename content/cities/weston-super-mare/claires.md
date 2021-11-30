@@ -1,5 +1,5 @@
 ---
-title: "Claire's"
+title: "claire's"
 url: /weston-super-mare/claires/
-shop: jewelry
+shop: shop
 ---

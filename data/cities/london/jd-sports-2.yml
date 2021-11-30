@@ -1,11 +1,11 @@
-id: 105467202
-type: way
-latitude: 51.5378982
-longitude: -0.1931949
-postcode: "NW6 4HJ"
+id: 1661112154
+type: node
+latitude: 51.5876974
+longitude: -0.0631107
+postcode: "N15 4QD"
 city: London
-street: "Kilburn High Road"
-housenumber: 58
+street: "Broad Lane"
+housenumber: 
 phone: ""
-opening_hours: "Mo-Sa 09:00-18:00; Su 11:00-17:00"
+opening_hours: ""
 website: ""

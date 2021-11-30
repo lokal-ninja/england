@@ -1,5 +1,5 @@
 ---
-title: "Haseeb  Meat and Chicken Shop"
+title: "Haseeb Meat and Chicken Shop"
 url: /derby/haseeb-meat-and-chicken-shop/
 shop: butcher
 ---

@@ -1,11 +1,11 @@
-id: 3895243840
-type: node
-latitude: 54.025544200000006
-longitude: -2.7955665
-postcode: "LA1 4NP"
+id: 381201584
+type: way
+latitude: 53.9916198
+longitude: -2.7888198
+postcode: "LA2 0LA"
 city: Lancaster
-street: "Scotforth Road"
-housenumber: 168
+street: "Main Road"
+housenumber: 71
 phone: ""
-opening_hours: "Mo-Sa 06:00-23:00; Su 06:00-22:00"
+opening_hours: ""
 website: ""
