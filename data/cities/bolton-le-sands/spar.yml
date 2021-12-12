@@ -1,11 +1,11 @@
-id: 649027491
-type: node
-latitude: 54.1041589
-longitude: -2.7905144
-postcode: "LA5 8DN"
-city: Bolton Le Sands
-street: "Main Road"
-housenumber: 46
-phone: "+44 1524 825312"
-opening_hours: "Mo-Sa 07:00-23:01"
+id: 418740262
+type: way
+latitude: 54.0972086
+longitude: -2.8022674000000003
+postcode: "LA5 8JW"
+city: Bolton-le-Sands
+street: "Coastal Road"
+housenumber: 160
+phone: ""
+opening_hours: "Mo-Sa 07:00-22:00; Su 08:00-19:00"
 website: ""

@@ -1,11 +1,11 @@
-id: 9147607001
-type: node
-latitude: 52.5701824
-longitude: 1.1123174
-postcode: "NR18 0BB"
+id: 136895260
+type: way
+latitude: 52.6243847
+longitude: 1.2916018
+postcode: "NR1 3QR"
 city: Norwich
-street: "Market Street"
-housenumber: 32
-phone: ""
-opening_hours: ""
-website: "https://www.savers.co.uk/store/Wymondham"
+street: "St Stephens Street"
+housenumber: 63-65
+phone: "+44 1603 623765"
+opening_hours: "Mo-Sa 08:30-18:00; Su 10:00-16:00"
+website: "https://www.savers.co.uk/store-finder#store-details/Stephens%20Street%20Norwich"

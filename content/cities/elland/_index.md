@@ -1,6 +1,6 @@
 ---
 title: Elland
 url: /elland/
-latitude: 53.6858377
-longitude: -1.8377141000000001
+latitude: 53.6856201
+longitude: -1.8382800000000001
 ---

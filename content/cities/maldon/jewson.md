@@ -1,5 +1,5 @@
 ---
 title: "Jewson"
 url: /maldon/jewson/
-shop: doityourself
+shop: trade
 ---
