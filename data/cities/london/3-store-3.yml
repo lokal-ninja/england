@@ -1,11 +1,11 @@
-id: 6681853647
-type: node
-latitude: 51.4630068
-longitude: -0.21585390000000002
-postcode: "SW15 1SS"
+id: 164299464
+type: way
+latitude: 51.583827400000004
+longitude: -0.024835000000000003
+postcode: ""
 city: London
-street: "Putney High Street"
-housenumber: 103
+street: "High Street"
+housenumber: 
 phone: ""
 opening_hours: ""
 website: ""

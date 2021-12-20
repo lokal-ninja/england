@@ -1,6 +1,6 @@
 ---
 title: Bourne
 url: /bourne/
-latitude: 52.768230200000005
-longitude: -0.37716360000000004
+latitude: 52.7682191
+longitude: -0.37717350000000005
 ---

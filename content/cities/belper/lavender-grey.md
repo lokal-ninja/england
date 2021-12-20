@@ -1,5 +1,5 @@
 ---
-title: "Lavender Grey"
+title: "Lavender grey"
 url: /belper/lavender-grey/
-shop: hairdresser
+shop: shop
 ---

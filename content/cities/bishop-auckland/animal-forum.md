@@ -1,5 +1,5 @@
 ---
-title: "Animal forum"
+title: "Animal Forum"
 url: /bishop-auckland/animal-forum/
 shop: pet
 ---
