@@ -1,5 +1,5 @@
 ---
 title: "Cake Box"
 url: /warrington/cake-box/
-shop: bakery
+shop: pastry
 ---

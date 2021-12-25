@@ -1,5 +1,5 @@
 ---
 title: "Saskia"
 url: /york/saskia/
-shop: shop
+shop: jewelry
 ---
