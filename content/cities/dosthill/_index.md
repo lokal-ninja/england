@@ -1,6 +1,6 @@
 ---
 title: Dosthill
 url: /dosthill/
-latitude: 52.5983378
-longitude: -1.6850164
+latitude: 52.597
+longitude: -1.689
 ---

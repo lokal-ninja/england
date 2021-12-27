@@ -1,5 +1,5 @@
 ---
 title: "Sun Recording Studio"
 url: /southport/sun-recording-studio/
-shop: shop
+shop: Allgemein
 ---

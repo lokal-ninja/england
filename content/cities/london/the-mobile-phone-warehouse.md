@@ -1,5 +1,5 @@
 ---
 title: "The Mobile Phone Warehouse"
 url: /london/the-mobile-phone-warehouse/
-shop: electronics
+shop: Elektronik
 ---

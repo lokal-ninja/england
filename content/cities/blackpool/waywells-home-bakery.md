@@ -1,5 +1,5 @@
 ---
 title: "Waywells Home Bakery"
 url: /blackpool/waywells-home-bakery/
-shop: bakery
+shop: Bäckerei
 ---

@@ -1,6 +1,6 @@
 ---
 title: Trentham
 url: /trentham/
-latitude: 52.9668587
-longitude: -2.1918521
+latitude: 52.968
+longitude: -2.17
 ---

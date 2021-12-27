@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /worcester/londis/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Monogram"
 url: /chester/monogram/
-shop: laundry
+shop: Wäscherei
 ---

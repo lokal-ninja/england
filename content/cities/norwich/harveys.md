@@ -1,5 +1,5 @@
 ---
 title: "Harveys"
 url: /norwich/harveys/
-shop: butcher
+shop: Metzgerei
 ---

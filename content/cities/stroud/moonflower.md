@@ -1,5 +1,5 @@
 ---
 title: "Moonflower"
 url: /stroud/moonflower/
-shop: clothes
+shop: Kleidung
 ---

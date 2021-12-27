@@ -1,6 +1,6 @@
 ---
 title: Oxenholme
 url: /oxenholme/
-latitude: 54.302291200000006
-longitude: -2.7219804
+latitude: 54.298
+longitude: -2.727
 ---

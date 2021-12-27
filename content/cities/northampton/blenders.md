@@ -1,5 +1,5 @@
 ---
 title: "Blenders"
 url: /northampton/blenders/
-shop: coffee
+shop: Kaffee
 ---

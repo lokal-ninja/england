@@ -1,5 +1,5 @@
 ---
 title: "Joules"
 url: /derby/joules/
-shop: clothes
+shop: Kleidung
 ---

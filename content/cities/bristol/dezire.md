@@ -1,5 +1,5 @@
 ---
 title: "Dezire"
 url: /bristol/dezire/
-shop: hairdresser
+shop: Friseur
 ---

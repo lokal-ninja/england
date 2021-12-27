@@ -1,5 +1,5 @@
 ---
 title: "Schuh"
 url: /derby/schuh/
-shop: shoes
+shop: Schuhe
 ---

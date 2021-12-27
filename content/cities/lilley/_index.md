@@ -1,6 +1,6 @@
 ---
 title: Lilley
 url: /lilley/
-latitude: 
-longitude: 
+latitude: 51.926
+longitude: -0.376
 ---

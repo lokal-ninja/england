@@ -1,5 +1,5 @@
 ---
 title: "Cocoa's"
 url: /ilkeston/cocoas/
-shop: chocolate
+shop: Schokolade
 ---

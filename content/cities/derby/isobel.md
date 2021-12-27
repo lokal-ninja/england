@@ -1,5 +1,5 @@
 ---
 title: "Isobel"
 url: /derby/isobel/
-shop: florist
+shop: Blumen
 ---

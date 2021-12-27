@@ -1,5 +1,5 @@
 ---
 title: "Specsavers"
 url: /carlisle/specsavers/
-shop: optician
+shop: Optiker
 ---

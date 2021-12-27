@@ -1,6 +1,6 @@
 ---
 title: Flixborough
 url: /flixborough/
-latitude: 53.6248597
-longitude: -0.6822297
+latitude: 53.622
+longitude: -0.702
 ---

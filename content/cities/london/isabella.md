@@ -1,5 +1,5 @@
 ---
 title: "Isabella"
 url: /london/isabella/
-shop: florist
+shop: Blumen
 ---

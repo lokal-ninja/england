@@ -1,6 +1,6 @@
 ---
 title: Todmorden
 url: /todmorden/
-latitude: 53.713725100000005
-longitude: -2.097753
+latitude: 53.714
+longitude: -2.097
 ---

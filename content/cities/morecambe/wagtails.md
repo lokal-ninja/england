@@ -1,5 +1,5 @@
 ---
 title: "Wagtails"
 url: /morecambe/wagtails/
-shop: pet
+shop: Tiere
 ---

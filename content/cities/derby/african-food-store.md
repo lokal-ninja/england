@@ -1,5 +1,5 @@
 ---
 title: "African Food Store"
 url: /derby/african-food-store/
-shop: convenience
+shop: Lebensmittel
 ---

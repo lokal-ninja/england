@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /balderton/lidl/
-shop: supermarket
+shop: Supermarkt
 ---

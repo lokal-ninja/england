@@ -1,6 +1,6 @@
 ---
 title: Aylesford, Maidstone
 url: /aylesford-maidstone/
-latitude: 
-longitude: 
+latitude: 51.3
+longitude: 0.496
 ---

@@ -1,6 +1,6 @@
 ---
 title: Farringdon
 url: /farringdon/
-latitude: 51.521137700000004
-longitude: -0.1034689
+latitude: 50.704
+longitude: -3.399
 ---

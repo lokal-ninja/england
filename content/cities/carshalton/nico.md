@@ -1,5 +1,5 @@
 ---
 title: "Nico"
 url: /carshalton/nico/
-shop: laundry
+shop: Wäscherei
 ---

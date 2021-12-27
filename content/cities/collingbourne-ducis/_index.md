@@ -1,6 +1,6 @@
 ---
 title: Collingbourne Ducis
 url: /collingbourne-ducis/
-latitude: 51.284967800000004
-longitude: -1.6517669000000001
+latitude: 51.285
+longitude: -1.652
 ---

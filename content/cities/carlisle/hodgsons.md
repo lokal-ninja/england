@@ -1,5 +1,5 @@
 ---
 title: "Hodgsons"
 url: /carlisle/hodgsons/
-shop: newsagent
+shop: Zeitungen
 ---

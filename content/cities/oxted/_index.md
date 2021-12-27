@@ -1,6 +1,6 @@
 ---
 title: Oxted
 url: /oxted/
-latitude: 51.2566507
-longitude: -0.0041977
+latitude: 51.253
+longitude: -0.014
 ---

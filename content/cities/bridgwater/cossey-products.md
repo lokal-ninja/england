@@ -1,5 +1,5 @@
 ---
 title: "Cossey Products"
 url: /bridgwater/cossey-products/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

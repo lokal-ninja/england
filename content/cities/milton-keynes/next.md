@@ -1,5 +1,5 @@
 ---
 title: "Next"
 url: /milton-keynes/next/
-shop: clothes
+shop: Kleidung
 ---

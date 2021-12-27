@@ -1,5 +1,5 @@
 ---
 title: "Jar"
 url: /topsham/jar/
-shop: bakery
+shop: Bäckerei
 ---

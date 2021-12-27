@@ -1,5 +1,5 @@
 ---
 title: "Screwfix"
 url: /aldershot/screwfix/
-shop: hardware
+shop: Eisenwaren
 ---

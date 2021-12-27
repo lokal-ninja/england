@@ -1,5 +1,5 @@
 ---
 title: "Screenking"
 url: /rainhill/screenking/
-shop: shop
+shop: Allgemein
 ---

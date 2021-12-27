@@ -1,5 +1,5 @@
 ---
 title: "Dunelm"
 url: /farnborough/dunelm/
-shop: houseware
+shop: Haushaltsartikel
 ---

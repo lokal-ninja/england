@@ -1,5 +1,5 @@
 ---
 title: "Harveys"
 url: /huddersfield/harveys/
-shop: furniture
+shop: Möbel
 ---

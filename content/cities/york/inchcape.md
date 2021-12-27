@@ -1,5 +1,5 @@
 ---
 title: "Inchcape"
 url: /york/inchcape/
-shop: car
+shop: Autohaus
 ---

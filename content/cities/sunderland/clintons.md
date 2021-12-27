@@ -1,5 +1,5 @@
 ---
 title: "Clintons"
 url: /sunderland/clintons/
-shop: gift
+shop: Andenken
 ---

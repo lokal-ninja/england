@@ -1,5 +1,5 @@
 ---
 title: "Tiger"
 url: /bristol/tiger/
-shop: houseware
+shop: Haushaltsartikel
 ---

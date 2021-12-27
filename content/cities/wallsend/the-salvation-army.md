@@ -1,5 +1,5 @@
 ---
 title: "The Salvation Army"
 url: /wallsend/the-salvation-army/
-shop: charity
+shop: Gebrauchtwaren
 ---

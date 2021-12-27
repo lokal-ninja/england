@@ -1,5 +1,5 @@
 ---
 title: "William Hill"
 url: /london/william-hill-26/
-shop: bookmaker
+shop: Wettbüro
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Huccabys"
 url: /buckfastleigh/huccabys/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,6 +1,6 @@
 ---
 title: Fetcham, Leatherhead
 url: /fetcham-leatherhead/
-latitude: 
-longitude: 
+latitude: 51.296
+longitude: -0.356
 ---

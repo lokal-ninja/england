@@ -1,5 +1,5 @@
 ---
 title: "Bob's Shop"
 url: /dorking/bobs-shop/
-shop: convenience
+shop: Lebensmittel
 ---

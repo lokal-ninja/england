@@ -1,5 +1,5 @@
 ---
 title: "George Salon"
 url: /london/george-salon/
-shop: hairdresser
+shop: Friseur
 ---

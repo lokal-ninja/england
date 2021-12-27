@@ -1,5 +1,5 @@
 ---
 title: "Poundstretcher"
 url: /scunthorpe/poundstretcher/
-shop: variety store
+shop: Kramladen
 ---

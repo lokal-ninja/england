@@ -1,5 +1,5 @@
 ---
 title: "Bootleggers"
 url: /norwich/bootleggers/
-shop: alcohol
+shop: Spirituosen
 ---

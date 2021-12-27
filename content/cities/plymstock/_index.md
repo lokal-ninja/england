@@ -1,6 +1,6 @@
 ---
 title: Plymstock
 url: /plymstock/
-latitude: 50.3600427
-longitude: -4.0911388
+latitude: 50.367
+longitude: -4.098
 ---

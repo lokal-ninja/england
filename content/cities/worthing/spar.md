@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /worthing/spar/
-shop: supermarket
+shop: Supermarkt
 ---

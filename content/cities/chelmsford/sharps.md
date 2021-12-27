@@ -1,5 +1,5 @@
 ---
 title: "Sharps"
 url: /chelmsford/sharps/
-shop: furniture
+shop: Möbel
 ---

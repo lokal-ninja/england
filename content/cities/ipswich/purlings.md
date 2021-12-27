@@ -1,5 +1,5 @@
 ---
 title: "Purlings"
 url: /ipswich/purlings/
-shop: car repair
+shop: Autowerkstatt
 ---

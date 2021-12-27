@@ -1,5 +1,5 @@
 ---
 title: "Motyl"
 url: /scunthorpe/motyl/
-shop: supermarket
+shop: Supermarkt
 ---

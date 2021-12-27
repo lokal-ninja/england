@@ -1,6 +1,6 @@
 ---
 title: Saunderton Lee
 url: /saunderton-lee/
-latitude: 
-longitude: 
+latitude: 51.693
+longitude: -0.843
 ---

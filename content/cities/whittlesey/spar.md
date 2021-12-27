@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /whittlesey/spar/
-shop: convenience
+shop: Lebensmittel
 ---

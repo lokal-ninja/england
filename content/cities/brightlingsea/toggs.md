@@ -1,5 +1,5 @@
 ---
 title: "Toggs"
 url: /brightlingsea/toggs/
-shop: clothes
+shop: Kleidung
 ---

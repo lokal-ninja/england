@@ -1,6 +1,6 @@
 ---
 title: Gateashead
 url: /gateashead/
-latitude: 
-longitude: 
+latitude: 54.933
+longitude: -1.62
 ---

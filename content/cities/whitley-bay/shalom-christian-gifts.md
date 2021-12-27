@@ -1,5 +1,5 @@
 ---
 title: "Shalom Christian Gifts"
 url: /whitley-bay/shalom-christian-gifts/
-shop: gift
+shop: Andenken
 ---

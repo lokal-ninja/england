@@ -1,5 +1,5 @@
 ---
 title: "PDSA"
 url: /havant/pdsa/
-shop: charity
+shop: Gebrauchtwaren
 ---

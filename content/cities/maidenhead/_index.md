@@ -1,6 +1,6 @@
 ---
 title: Maidenhead
 url: /maidenhead/
-latitude: 
-longitude: 
+latitude: 51.517
+longitude: -0.743
 ---

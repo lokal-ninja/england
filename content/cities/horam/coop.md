@@ -1,5 +1,5 @@
 ---
 title: "Coop"
 url: /horam/coop/
-shop: supermarket
+shop: Supermarkt
 ---

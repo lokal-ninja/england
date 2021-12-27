@@ -1,6 +1,6 @@
 ---
 title: GB
 url: /gb/
-latitude: 
-longitude: 
+latitude: 50.842
+longitude: -1.068
 ---

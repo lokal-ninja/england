@@ -1,5 +1,5 @@
 ---
 title: "Magnet"
 url: /cambridge/magnet/
-shop: trade
+shop: Baustoffe
 ---

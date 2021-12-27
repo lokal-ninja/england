@@ -1,5 +1,5 @@
 ---
 title: "Koko"
 url: /guildford/koko/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Altham"
 url: /heysham/altham/
-shop: shop
+shop: Allgemein
 ---

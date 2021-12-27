@@ -1,5 +1,5 @@
 ---
 title: "La Mona"
 url: /wellingborough/la-mona/
-shop: convenience
+shop: Lebensmittel
 ---

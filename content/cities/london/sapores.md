@@ -1,5 +1,5 @@
 ---
 title: "Sapores"
 url: /london/sapores/
-shop: ice cream
+shop: Eisprodukte
 ---

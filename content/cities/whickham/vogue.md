@@ -1,5 +1,5 @@
 ---
 title: "Vogue"
 url: /whickham/vogue/
-shop: hairdresser
+shop: Friseur
 ---

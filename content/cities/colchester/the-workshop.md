@@ -1,5 +1,5 @@
 ---
 title: "The Workshop"
 url: /colchester/the-workshop/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Laundromat"
 url: /farnham/laundromat/
-shop: laundry
+shop: Wäscherei
 ---

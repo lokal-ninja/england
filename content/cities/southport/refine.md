@@ -1,5 +1,5 @@
 ---
 title: "Refine"
 url: /southport/refine/
-shop: beauty
+shop: Kosmetik
 ---

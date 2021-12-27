@@ -1,5 +1,5 @@
 ---
 title: "McColls"
 url: /milton-keynes/mccolls-2/
-shop: convenience
+shop: Lebensmittel
 ---

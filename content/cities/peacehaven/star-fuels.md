@@ -1,5 +1,5 @@
 ---
 title: "Star Fuels"
 url: /peacehaven/star-fuels/
-shop: convenience
+shop: Lebensmittel
 ---

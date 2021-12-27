@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /petersfield/londis/
-shop: convenience
+shop: Lebensmittel
 ---

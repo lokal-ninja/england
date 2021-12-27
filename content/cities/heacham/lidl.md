@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /heacham/lidl/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "McColl's"
 url: /scarborough/mccolls/
-shop: convenience
+shop: Lebensmittel
 ---

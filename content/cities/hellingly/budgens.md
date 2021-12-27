@@ -1,5 +1,5 @@
 ---
 title: "Budgens"
 url: /hellingly/budgens/
-shop: convenience
+shop: Lebensmittel
 ---

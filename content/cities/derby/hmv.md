@@ -1,5 +1,5 @@
 ---
 title: "HMV"
 url: /derby/hmv/
-shop: music
+shop: Musik
 ---

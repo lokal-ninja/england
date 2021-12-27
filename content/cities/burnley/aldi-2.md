@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /burnley/aldi-2/
-shop: supermarket
+shop: Supermarkt
 ---

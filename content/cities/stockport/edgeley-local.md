@@ -1,5 +1,5 @@
 ---
 title: "Edgeley Local"
 url: /stockport/edgeley-local/
-shop: convenience
+shop: Lebensmittel
 ---

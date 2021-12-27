@@ -1,5 +1,5 @@
 ---
 title: "Galina Hair Studio"
 url: /london/galina-hair-studio/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,6 +1,6 @@
 ---
 title: Chatteris
 url: /chatteris/
-latitude: 52.4549017
-longitude: 0.0504338
+latitude: 52.454
+longitude: 0.05
 ---

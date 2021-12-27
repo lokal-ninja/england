@@ -1,5 +1,5 @@
 ---
 title: "Sue Ryder"
 url: /stubbington-fareham/sue-ryder/
-shop: charity
+shop: Gebrauchtwaren
 ---

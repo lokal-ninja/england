@@ -1,6 +1,6 @@
 ---
 title: Holme
 url: /holme/
-latitude: 53.5517607
-longitude: -0.6065696
+latitude: 54.203
+longitude: -2.732
 ---

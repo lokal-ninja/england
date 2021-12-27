@@ -1,5 +1,5 @@
 ---
 title: "Gareth James Chocolatier"
 url: /tynemouth/gareth-james-chocolatier/
-shop: chocolate
+shop: Schokolade
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tapi Carpets"
 url: /derby/tapi-carpets/
-shop: carpet
+shop: Teppiche
 ---

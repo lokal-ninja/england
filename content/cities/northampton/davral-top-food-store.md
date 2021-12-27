@@ -1,5 +1,5 @@
 ---
 title: "Davral-Top Food Store"
 url: /northampton/davral-top-food-store/
-shop: convenience
+shop: Lebensmittel
 ---

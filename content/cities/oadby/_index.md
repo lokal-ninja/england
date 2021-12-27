@@ -1,6 +1,6 @@
 ---
 title: Oadby
 url: /oadby/
-latitude: 52.5983121
-longitude: -1.0810264
+latitude: 52.599
+longitude: -1.084
 ---

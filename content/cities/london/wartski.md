@@ -1,5 +1,5 @@
 ---
 title: "Wartski"
 url: /london/wartski/
-shop: jewelry
+shop: Schmuck
 ---

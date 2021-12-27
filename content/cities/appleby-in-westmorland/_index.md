@@ -1,6 +1,6 @@
 ---
 title: Appleby-In-Westmorland
 url: /appleby-in-westmorland/
-latitude: 
-longitude: 
+latitude: 54.577
+longitude: -2.491
 ---

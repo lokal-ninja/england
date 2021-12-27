@@ -1,5 +1,5 @@
 ---
 title: "Lintone"
 url: /gateshead/lintone/
-shop: hifi
+shop: Hifi
 ---

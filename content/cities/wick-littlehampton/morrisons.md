@@ -1,5 +1,5 @@
 ---
 title: "Morrisons"
 url: /wick-littlehampton/morrisons/
-shop: supermarket
+shop: Supermarkt
 ---

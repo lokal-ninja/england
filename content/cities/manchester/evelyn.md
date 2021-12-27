@@ -1,5 +1,5 @@
 ---
 title: "Evelyn"
 url: /manchester/evelyn/
-shop: hairdresser
+shop: Friseur
 ---

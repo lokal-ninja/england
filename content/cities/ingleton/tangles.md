@@ -1,5 +1,5 @@
 ---
 title: "Tangles"
 url: /ingleton/tangles/
-shop: hairdresser
+shop: Friseur
 ---

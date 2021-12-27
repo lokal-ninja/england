@@ -1,5 +1,5 @@
 ---
 title: "Martin's"
 url: /bedford/martins/
-shop: newsagent
+shop: Zeitungen
 ---

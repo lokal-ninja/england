@@ -1,5 +1,5 @@
 ---
 title: "Pleasure"
 url: /luton/pleasure/
-shop: erotic
+shop: Erotik
 ---

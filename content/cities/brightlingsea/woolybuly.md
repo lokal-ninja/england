@@ -1,5 +1,5 @@
 ---
 title: "Woolybuly"
 url: /brightlingsea/woolybuly/
-shop: wool
+shop: Wolle
 ---

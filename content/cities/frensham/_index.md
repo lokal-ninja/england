@@ -1,6 +1,6 @@
 ---
 title: Frensham
 url: /frensham/
-latitude: 51.1654982
-longitude: -0.7951234
+latitude: 51.178
+longitude: -0.78
 ---

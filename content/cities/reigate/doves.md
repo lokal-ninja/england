@@ -1,5 +1,5 @@
 ---
 title: "Doves"
 url: /reigate/doves/
-shop: doityourself
+shop: Baumarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jennings"
 url: /bishops-stortford/jennings/
-shop: bookmaker
+shop: Wettbüro
 ---

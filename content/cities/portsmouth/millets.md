@@ -1,5 +1,5 @@
 ---
 title: "Millets"
 url: /portsmouth/millets/
-shop: clothes
+shop: Kleidung
 ---

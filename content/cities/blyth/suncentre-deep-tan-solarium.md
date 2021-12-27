@@ -1,5 +1,5 @@
 ---
 title: "Suncentre Deep Tan Solarium"
 url: /blyth/suncentre-deep-tan-solarium/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,6 +1,6 @@
 ---
 title: Leagrave
 url: /leagrave/
-latitude: 
-longitude: 
+latitude: 51.905
+longitude: -0.459
 ---

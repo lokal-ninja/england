@@ -1,6 +1,6 @@
 ---
 title: Ryton
 url: /ryton/
-latitude: 51.9865962
-longitude: -2.3949107
+latitude: 54.967
+longitude: -1.789
 ---

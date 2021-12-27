@@ -1,6 +1,6 @@
 ---
 title: Wyboston
 url: /wyboston/
-latitude: 52.1971276
-longitude: -0.2987135
+latitude: 52.193
+longitude: -0.298
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sarah C"
 url: /bristol/sarah-c/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

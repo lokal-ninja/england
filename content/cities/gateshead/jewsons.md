@@ -1,5 +1,5 @@
 ---
 title: "Jewsons"
 url: /gateshead/jewsons/
-shop: doityourself
+shop: Baumarkt
 ---

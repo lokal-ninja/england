@@ -1,6 +1,6 @@
 ---
 title: Billingham
 url: /billingham/
-latitude: 54.607144100000006
-longitude: -1.2912166
+latitude: 54.618
+longitude: -1.293
 ---

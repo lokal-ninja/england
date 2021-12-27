@@ -1,5 +1,5 @@
 ---
 title: "Pirtek"
 url: /london/pirtek/
-shop: wholesale
+shop: Großhandel
 ---

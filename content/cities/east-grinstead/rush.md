@@ -1,5 +1,5 @@
 ---
 title: "Rush"
 url: /east-grinstead/rush/
-shop: hairdresser
+shop: Friseur
 ---

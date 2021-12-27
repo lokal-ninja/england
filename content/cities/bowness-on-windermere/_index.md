@@ -1,6 +1,6 @@
 ---
 title: Bowness-on-Windermere
 url: /bowness-on-windermere/
-latitude: 
-longitude: 
+latitude: 54.364
+longitude: -2.92
 ---

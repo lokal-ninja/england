@@ -1,5 +1,5 @@
 ---
 title: "MKM"
 url: /castleford/mkm/
-shop: trade
+shop: Baustoffe
 ---

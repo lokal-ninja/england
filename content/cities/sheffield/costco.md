@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /sheffield/costco/
-shop: wholesale
+shop: Großhandel
 ---

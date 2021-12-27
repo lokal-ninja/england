@@ -1,5 +1,5 @@
 ---
 title: "Deichmann"
 url: /canterbury/deichmann/
-shop: shoes
+shop: Schuhe
 ---

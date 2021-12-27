@@ -1,5 +1,5 @@
 ---
 title: "ShoeMed"
 url: /canterbury/shoemed/
-shop: shoes
+shop: Schuhe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Majestic"
 url: /falmouth/majestic/
-shop: alcohol
+shop: Spirituosen
 ---

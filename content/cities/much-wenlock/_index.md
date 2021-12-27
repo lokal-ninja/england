@@ -1,6 +1,6 @@
 ---
 title: Much Wenlock
 url: /much-wenlock/
-latitude: 52.595595100000004
-longitude: -2.5578451
+latitude: 52.596
+longitude: -2.558
 ---

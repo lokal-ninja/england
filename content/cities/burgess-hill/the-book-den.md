@@ -1,5 +1,5 @@
 ---
 title: "The Book Den"
 url: /burgess-hill/the-book-den/
-shop: charity
+shop: Gebrauchtwaren
 ---

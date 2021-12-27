@@ -1,5 +1,5 @@
 ---
 title: "Stafford Audi"
 url: /stafford/stafford-audi/
-shop: car
+shop: Autohaus
 ---

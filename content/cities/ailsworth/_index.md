@@ -1,6 +1,6 @@
 ---
 title: Ailsworth
 url: /ailsworth/
-latitude: 52.5764037
-longitude: -0.3497949
+latitude: 52.58
+longitude: -0.353
 ---

@@ -1,6 +1,6 @@
 ---
 title: Twyford, Winchester
 url: /twyford-winchester/
-latitude: 
-longitude: 
+latitude: 51.016
+longitude: -1.317
 ---

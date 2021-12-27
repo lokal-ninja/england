@@ -1,6 +1,6 @@
 ---
 title: Stroud
 url: /stroud/
-latitude: 51.745424
-longitude: -2.2198605000000002
+latitude: 51.746
+longitude: -2.217
 ---

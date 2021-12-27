@@ -1,6 +1,6 @@
 ---
 title: Fratton, Portsmouth
 url: /fratton-portsmouth/
-latitude: 
-longitude: 
+latitude: 50.798
+longitude: -1.077
 ---

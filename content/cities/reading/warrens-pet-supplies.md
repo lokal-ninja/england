@@ -1,5 +1,5 @@
 ---
 title: "Warrens Pet Supplies"
 url: /reading/warrens-pet-supplies/
-shop: pet
+shop: Tiere
 ---

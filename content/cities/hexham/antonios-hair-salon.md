@@ -1,5 +1,5 @@
 ---
 title: "Antonio's Hair Salon"
 url: /hexham/antonios-hair-salon/
-shop: hairdresser
+shop: Friseur
 ---

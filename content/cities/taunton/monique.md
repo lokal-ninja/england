@@ -1,5 +1,5 @@
 ---
 title: "Monique"
 url: /taunton/monique/
-shop: clothes
+shop: Kleidung
 ---

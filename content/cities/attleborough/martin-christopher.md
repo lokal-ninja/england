@@ -1,5 +1,5 @@
 ---
 title: "Martin Christopher"
 url: /attleborough/martin-christopher/
-shop: optician
+shop: Optiker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Q Gardens"
 url: /steventon/q-gardens/
-shop: farm
+shop: Hofladen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Trapeze"
 url: /cheltenham/trapeze/
-shop: clothes
+shop: Kleidung
 ---

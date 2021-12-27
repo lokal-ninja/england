@@ -1,5 +1,5 @@
 ---
 title: "King Street Cycles"
 url: /cambridge/king-street-cycles/
-shop: bicycle
+shop: Fahrrad
 ---

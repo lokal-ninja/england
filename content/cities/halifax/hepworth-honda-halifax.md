@@ -1,5 +1,5 @@
 ---
 title: "Hepworth Honda Halifax"
 url: /halifax/hepworth-honda-halifax/
-shop: car
+shop: Autohaus
 ---

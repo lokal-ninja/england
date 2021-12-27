@@ -1,6 +1,6 @@
 ---
 title: Bridgemont
 url: /bridgemont/
-latitude: 53.3393846
-longitude: -1.9828598000000002
+latitude: 53.341
+longitude: -1.984
 ---

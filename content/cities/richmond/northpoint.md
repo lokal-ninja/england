@@ -1,5 +1,5 @@
 ---
 title: "Northpoint"
 url: /richmond/northpoint/
-shop: kitchen
+shop: Küchen
 ---

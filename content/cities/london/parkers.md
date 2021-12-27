@@ -1,5 +1,5 @@
 ---
 title: "Parkers"
 url: /london/parkers/
-shop: laundry
+shop: Wäscherei
 ---

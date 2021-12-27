@@ -1,5 +1,5 @@
 ---
 title: "Joules"
 url: /kendal/joules/
-shop: clothes
+shop: Kleidung
 ---

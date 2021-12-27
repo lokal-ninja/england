@@ -1,5 +1,5 @@
 ---
 title: "Tooting Arena"
 url: /london/tooting-arena/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Whittards"
 url: /leeds/whittards/
-shop: tea
+shop: Tee
 ---

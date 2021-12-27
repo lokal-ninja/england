@@ -1,6 +1,6 @@
 ---
 title: Golborne
 url: /golborne/
-latitude: 53.4756118
-longitude: -2.5994277
+latitude: 53.477
+longitude: -2.6
 ---

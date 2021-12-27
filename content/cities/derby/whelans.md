@@ -1,5 +1,5 @@
 ---
 title: "Whelans"
 url: /derby/whelans/
-shop: hairdresser
+shop: Friseur
 ---

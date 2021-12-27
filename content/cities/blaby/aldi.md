@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /blaby/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

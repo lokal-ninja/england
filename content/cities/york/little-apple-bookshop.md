@@ -1,5 +1,5 @@
 ---
 title: "Little Apple Bookshop"
 url: /york/little-apple-bookshop/
-shop: books
+shop: Bücher
 ---

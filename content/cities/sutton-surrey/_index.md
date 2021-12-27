@@ -1,6 +1,6 @@
 ---
 title: Sutton, Surrey
 url: /sutton-surrey/
-latitude: 
-longitude: 
+latitude: 51.385
+longitude: -0.212
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Greggs"
 url: /ambleside/greggs/
-shop: bakery
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Budgens"
 url: /ely/budgens/
-shop: convenience
+shop: Lebensmittel
 ---

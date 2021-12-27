@@ -1,6 +1,6 @@
 ---
 title: Bexleyheath
 url: /bexleyheath/
-latitude: 51.4634854
-longitude: 0.1480552
+latitude: 51.457
+longitude: 0.142
 ---

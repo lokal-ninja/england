@@ -1,5 +1,5 @@
 ---
 title: "Smallprint"
 url: /menston/smallprint/
-shop: copyshop
+shop: Kopieren
 ---

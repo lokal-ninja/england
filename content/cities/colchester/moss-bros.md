@@ -1,5 +1,5 @@
 ---
 title: "Moss Bros"
 url: /colchester/moss-bros/
-shop: tailor
+shop: Schneiderei
 ---

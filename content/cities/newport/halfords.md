@@ -1,5 +1,5 @@
 ---
 title: "Halfords"
 url: /newport/halfords/
-shop: bicycle
+shop: Fahrrad
 ---

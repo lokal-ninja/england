@@ -1,5 +1,5 @@
 ---
 title: "Freedmans"
 url: /stockport/freedmans/
-shop: clothes
+shop: Kleidung
 ---

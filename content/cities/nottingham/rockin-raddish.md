@@ -1,5 +1,5 @@
 ---
 title: "Rockin Raddish"
 url: /nottingham/rockin-raddish/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

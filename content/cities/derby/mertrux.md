@@ -1,5 +1,5 @@
 ---
 title: "Mertrux"
 url: /derby/mertrux/
-shop: car
+shop: Autohaus
 ---

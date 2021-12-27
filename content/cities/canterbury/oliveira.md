@@ -1,5 +1,5 @@
 ---
 title: "Oliveira"
 url: /canterbury/oliveira/
-shop: hairdresser
+shop: Friseur
 ---

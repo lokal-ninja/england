@@ -1,5 +1,5 @@
 ---
 title: "Game"
 url: /broadstairs/game/
-shop: video games
+shop: Videospiele
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Eurocell"
 url: /york/eurocell/
-shop: trade
+shop: Baustoffe
 ---

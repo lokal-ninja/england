@@ -1,5 +1,5 @@
 ---
 title: "Ekleen"
 url: /london/ekleen/
-shop: laundry
+shop: Wäscherei
 ---

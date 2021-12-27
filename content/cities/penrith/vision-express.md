@@ -1,5 +1,5 @@
 ---
 title: "Vision Express"
 url: /penrith/vision-express/
-shop: optician
+shop: Optiker
 ---

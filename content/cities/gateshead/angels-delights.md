@@ -1,5 +1,5 @@
 ---
 title: "Angels Delights"
 url: /gateshead/angels-delights/
-shop: gift
+shop: Andenken
 ---

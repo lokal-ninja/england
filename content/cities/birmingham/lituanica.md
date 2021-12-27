@@ -1,5 +1,5 @@
 ---
 title: "Lituanica"
 url: /birmingham/lituanica/
-shop: deli
+shop: Feinkost
 ---

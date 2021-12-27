@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /weyhill/londis/
-shop: convenience
+shop: Lebensmittel
 ---

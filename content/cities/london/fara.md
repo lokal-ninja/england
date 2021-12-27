@@ -1,5 +1,5 @@
 ---
 title: "Fara"
 url: /london/fara/
-shop: charity
+shop: Gebrauchtwaren
 ---

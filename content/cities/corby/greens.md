@@ -1,5 +1,5 @@
 ---
 title: "Greens"
 url: /corby/greens/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

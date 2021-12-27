@@ -1,6 +1,6 @@
 ---
 title: Nettlestone
 url: /nettlestone/
-latitude: 50.7128115
-longitude: -1.1145006000000002
+latitude: 50.712
+longitude: -1.118
 ---

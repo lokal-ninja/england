@@ -1,5 +1,5 @@
 ---
 title: "Beardsalls"
 url: /newport/beardsalls/
-shop: copyshop
+shop: Kopieren
 ---

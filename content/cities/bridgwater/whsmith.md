@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /bridgwater/whsmith/
-shop: newsagent
+shop: Zeitungen
 ---

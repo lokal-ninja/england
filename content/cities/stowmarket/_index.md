@@ -1,6 +1,6 @@
 ---
 title: Stowmarket
 url: /stowmarket/
-latitude: 
-longitude: 
+latitude: 52.224
+longitude: 1.001
 ---

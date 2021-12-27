@@ -1,5 +1,5 @@
 ---
 title: "Honeycomb"
 url: /pensby/honeycomb/
-shop: hairdresser
+shop: Friseur
 ---

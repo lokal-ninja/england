@@ -1,5 +1,5 @@
 ---
 title: "Jobsons"
 url: /alnwick/jobsons/
-shop: clothes
+shop: Kleidung
 ---

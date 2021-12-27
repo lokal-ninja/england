@@ -1,5 +1,5 @@
 ---
 title: "Top Dry Cleaner"
 url: /otley/top-dry-cleaner/
-shop: laundry
+shop: Wäscherei
 ---

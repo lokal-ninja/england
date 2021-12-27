@@ -1,5 +1,5 @@
 ---
 title: "Prudens"
 url: /luton/prudens/
-shop: bakery
+shop: Bäckerei
 ---

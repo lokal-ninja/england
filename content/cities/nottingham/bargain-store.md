@@ -1,5 +1,5 @@
 ---
 title: "Bargain Store"
 url: /nottingham/bargain-store/
-shop: shop
+shop: Allgemein
 ---

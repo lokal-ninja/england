@@ -1,5 +1,5 @@
 ---
 title: "Coviello"
 url: /durham/coviello/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cut MasterZ"
 url: /feltham/cut-masterz/
-shop: hairdresser
+shop: Friseur
 ---

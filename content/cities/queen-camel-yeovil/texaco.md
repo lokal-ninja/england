@@ -1,5 +1,5 @@
 ---
 title: "Texaco"
 url: /queen-camel-yeovil/texaco/
-shop: kiosk
+shop: Kiosk
 ---

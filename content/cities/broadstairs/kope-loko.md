@@ -1,5 +1,5 @@
 ---
 title: "Kope + Loko"
 url: /broadstairs/kope-loko/
-shop: clothes
+shop: Kleidung
 ---

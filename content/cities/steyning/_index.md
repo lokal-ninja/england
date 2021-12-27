@@ -1,6 +1,6 @@
 ---
 title: Steyning
 url: /steyning/
-latitude: 50.8902203
-longitude: -0.3302184
+latitude: 50.935
+longitude: -0.328
 ---

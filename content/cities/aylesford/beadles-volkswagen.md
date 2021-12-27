@@ -1,5 +1,5 @@
 ---
 title: "Beadles Volkswagen"
 url: /aylesford/beadles-volkswagen/
-shop: car
+shop: Autohaus
 ---

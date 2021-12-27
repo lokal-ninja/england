@@ -1,5 +1,5 @@
 ---
 title: "QVS"
 url: /east-grinstead/qvs/
-shop: electrical
+shop: Elektrisch
 ---

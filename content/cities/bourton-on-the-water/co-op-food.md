@@ -1,5 +1,5 @@
 ---
 title: "Co-op Food"
 url: /bourton-on-the-water/co-op-food/
-shop: convenience
+shop: Lebensmittel
 ---

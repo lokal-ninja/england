@@ -1,5 +1,5 @@
 ---
 title: "Interflora"
 url: /gateshead/interflora/
-shop: florist
+shop: Blumen
 ---

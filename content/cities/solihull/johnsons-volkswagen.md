@@ -1,5 +1,5 @@
 ---
 title: "Johnsons Volkswagen"
 url: /solihull/johnsons-volkswagen/
-shop: car
+shop: Autohaus
 ---

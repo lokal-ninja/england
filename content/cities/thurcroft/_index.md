@@ -1,6 +1,6 @@
 ---
 title: Thurcroft
 url: /thurcroft/
-latitude: 53.394603800000006
-longitude: -1.2573129
+latitude: 53.396
+longitude: -1.257
 ---

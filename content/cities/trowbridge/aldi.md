@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /trowbridge/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

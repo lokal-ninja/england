@@ -1,5 +1,5 @@
 ---
 title: "Warhammer"
 url: /bury-st-edmunds/warhammer/
-shop: games
+shop: Spiele
 ---

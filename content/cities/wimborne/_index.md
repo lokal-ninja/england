@@ -1,6 +1,6 @@
 ---
 title: Wimborne
 url: /wimborne/
-latitude: 
-longitude: 
+latitude: 50.789
+longitude: -2.014
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Stella's Voice"
 url: /waterlooville/stellas-voice/
-shop: charity
+shop: Gebrauchtwaren
 ---

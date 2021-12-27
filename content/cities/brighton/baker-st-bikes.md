@@ -1,5 +1,5 @@
 ---
 title: "Baker St. Bikes"
 url: /brighton/baker-st-bikes/
-shop: bicycle
+shop: Fahrrad
 ---

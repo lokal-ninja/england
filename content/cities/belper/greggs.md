@@ -1,5 +1,5 @@
 ---
 title: "Greggs"
 url: /belper/greggs/
-shop: bakery
+shop: Bäckerei
 ---

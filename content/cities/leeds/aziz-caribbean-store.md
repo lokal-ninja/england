@@ -1,5 +1,5 @@
 ---
 title: "Aziz Caribbean Store"
 url: /leeds/aziz-caribbean-store/
-shop: convenience
+shop: Lebensmittel
 ---

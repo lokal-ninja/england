@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /wadebridge/tesco/
-shop: supermarket
+shop: Supermarkt
 ---

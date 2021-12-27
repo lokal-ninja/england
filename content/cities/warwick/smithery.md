@@ -1,5 +1,5 @@
 ---
 title: "Smithery"
 url: /warwick/smithery/
-shop: gift
+shop: Andenken
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /rowlands-castle/londis/
-shop: convenience
+shop: Lebensmittel
 ---

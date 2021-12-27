@@ -1,5 +1,5 @@
 ---
 title: "Castore"
 url: /london/castore/
-shop: clothes
+shop: Kleidung
 ---

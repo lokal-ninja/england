@@ -1,5 +1,5 @@
 ---
 title: "Montezumas"
 url: /london/montezumas/
-shop: confectionery
+shop: Süßwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vaptronic"
 url: /whitley-bay/vaptronic/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

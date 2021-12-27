@@ -1,6 +1,6 @@
 ---
 title: Havant, Hampshire
 url: /havant-hampshire/
-latitude: 
-longitude: 
+latitude: 50.871
+longitude: -0.969
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Millie's Cookies"
 url: /chelmsford/millies-cookies/
-shop: confectionery
+shop: Süßwaren
 ---

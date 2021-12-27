@@ -1,5 +1,5 @@
 ---
 title: "Payless"
 url: /london/payless/
-shop: convenience
+shop: Lebensmittel
 ---

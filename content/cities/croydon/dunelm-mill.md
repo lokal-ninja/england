@@ -1,5 +1,5 @@
 ---
 title: "Dunelm Mill"
 url: /croydon/dunelm-mill/
-shop: houseware
+shop: Haushaltsartikel
 ---

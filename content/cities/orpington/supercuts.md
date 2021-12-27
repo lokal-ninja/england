@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /orpington/supercuts/
-shop: hairdresser
+shop: Friseur
 ---

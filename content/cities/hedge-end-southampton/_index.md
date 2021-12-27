@@ -1,6 +1,6 @@
 ---
 title: Hedge End, Southampton
 url: /hedge-end-southampton/
-latitude: 
-longitude: 
+latitude: 50.911
+longitude: -1.305
 ---

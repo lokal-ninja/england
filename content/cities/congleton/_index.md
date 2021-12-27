@@ -1,6 +1,6 @@
 ---
 title: Congleton
 url: /congleton/
-latitude: 53.1631463
-longitude: -2.2110691
+latitude: 53.165
+longitude: -2.237
 ---

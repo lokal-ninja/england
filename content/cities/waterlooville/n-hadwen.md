@@ -1,5 +1,5 @@
 ---
 title: "N Hadwen"
 url: /waterlooville/n-hadwen/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

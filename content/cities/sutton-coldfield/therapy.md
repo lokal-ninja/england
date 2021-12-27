@@ -1,5 +1,5 @@
 ---
 title: "Therapy"
 url: /sutton-coldfield/therapy/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Baxter"
 url: /darlington/baxter/
-shop: hairdresser
+shop: Friseur
 ---

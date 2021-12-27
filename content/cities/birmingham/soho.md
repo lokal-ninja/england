@@ -1,5 +1,5 @@
 ---
 title: "Soho"
 url: /birmingham/soho/
-shop: confectionery
+shop: Süßwaren
 ---

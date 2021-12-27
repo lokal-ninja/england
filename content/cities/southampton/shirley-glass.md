@@ -1,5 +1,5 @@
 ---
 title: "Shirley Glass"
 url: /southampton/shirley-glass/
-shop: shop
+shop: Allgemein
 ---

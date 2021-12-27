@@ -1,5 +1,5 @@
 ---
 title: "Wanted"
 url: /morecambe/wanted/
-shop: charity
+shop: Gebrauchtwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "insideout"
 url: /exeter/insideout/
-shop: gift
+shop: Andenken
 ---

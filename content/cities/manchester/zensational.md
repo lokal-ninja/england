@@ -1,5 +1,5 @@
 ---
 title: "Zensational"
 url: /manchester/zensational/
-shop: beauty
+shop: Kosmetik
 ---

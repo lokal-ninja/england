@@ -1,5 +1,5 @@
 ---
 title: "Buildbase"
 url: /derby/buildbase/
-shop: doityourself
+shop: Baumarkt
 ---

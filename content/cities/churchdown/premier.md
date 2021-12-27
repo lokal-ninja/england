@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /churchdown/premier/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rashid Halal Meats Limited"
 url: /derby/rashid-halal-meats-limited/
-shop: butcher
+shop: Metzgerei
 ---

@@ -1,6 +1,6 @@
 ---
 title: Stanmore
 url: /stanmore/
-latitude: 51.6174205
-longitude: -0.30951110000000004
+latitude: 51.596
+longitude: -0.295
 ---

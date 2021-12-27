@@ -1,6 +1,6 @@
 ---
 title: Rudgwick
 url: /rudgwick/
-latitude: 51.0900272
-longitude: -0.44914030000000005
+latitude: 51.09
+longitude: -0.449
 ---

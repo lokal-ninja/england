@@ -1,5 +1,5 @@
 ---
 title: "Flutterbies"
 url: /bristol/flutterbies/
-shop: toys
+shop: Spielzeug
 ---

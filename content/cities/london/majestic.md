@@ -1,5 +1,5 @@
 ---
 title: "Majestic"
 url: /london/majestic/
-shop: alcohol
+shop: Spirituosen
 ---

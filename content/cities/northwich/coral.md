@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /northwich/coral/
-shop: bookmaker
+shop: Wettbüro
 ---

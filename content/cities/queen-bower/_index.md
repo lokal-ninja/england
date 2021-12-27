@@ -1,6 +1,6 @@
 ---
 title: Queen Bower
 url: /queen-bower/
-latitude: 
-longitude: 
+latitude: 50.657
+longitude: -1.199
 ---

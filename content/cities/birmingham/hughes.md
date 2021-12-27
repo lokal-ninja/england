@@ -1,5 +1,5 @@
 ---
 title: "Hughes"
 url: /birmingham/hughes/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

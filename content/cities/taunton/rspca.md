@@ -1,5 +1,5 @@
 ---
 title: "RSPCA"
 url: /taunton/rspca/
-shop: charity
+shop: Gebrauchtwaren
 ---

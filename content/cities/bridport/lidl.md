@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /bridport/lidl/
-shop: supermarket
+shop: Supermarkt
 ---

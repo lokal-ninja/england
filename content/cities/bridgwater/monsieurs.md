@@ -1,5 +1,5 @@
 ---
 title: "Monsieurs"
 url: /bridgwater/monsieurs/
-shop: hairdresser
+shop: Friseur
 ---

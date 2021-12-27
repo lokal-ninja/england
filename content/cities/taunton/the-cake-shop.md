@@ -1,5 +1,5 @@
 ---
 title: "The Cake Shop"
 url: /taunton/the-cake-shop/
-shop: bakery
+shop: Bäckerei
 ---

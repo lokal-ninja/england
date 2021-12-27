@@ -1,5 +1,5 @@
 ---
 title: "BATA"
 url: /seamer/bata/
-shop: general
+shop: Dorfladen
 ---

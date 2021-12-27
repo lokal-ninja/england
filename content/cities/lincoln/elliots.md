@@ -1,5 +1,5 @@
 ---
 title: "Elliots"
 url: /lincoln/elliots/
-shop: frame
+shop: Rahmen
 ---

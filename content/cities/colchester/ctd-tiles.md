@@ -1,5 +1,5 @@
 ---
 title: "CTD Tiles"
 url: /colchester/ctd-tiles/
-shop: tiles
+shop: Fliesen
 ---

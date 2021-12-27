@@ -1,5 +1,5 @@
 ---
 title: "Jobes Cycles"
 url: /kingston-upon-hull/jobes-cycles/
-shop: bicycle
+shop: Fahrrad
 ---

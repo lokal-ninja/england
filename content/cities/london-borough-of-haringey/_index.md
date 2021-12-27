@@ -1,6 +1,6 @@
 ---
 title: London Borough of Haringey
 url: /london-borough-of-haringey/
-latitude: 
-longitude: 
+latitude: 51.607
+longitude: -0.111
 ---

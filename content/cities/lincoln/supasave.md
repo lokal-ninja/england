@@ -1,5 +1,5 @@
 ---
 title: "Supasave"
 url: /lincoln/supasave/
-shop: convenience
+shop: Lebensmittel
 ---

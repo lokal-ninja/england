@@ -1,5 +1,5 @@
 ---
 title: "Mini Market"
 url: /northampton/mini-market-2/
-shop: convenience
+shop: Lebensmittel
 ---

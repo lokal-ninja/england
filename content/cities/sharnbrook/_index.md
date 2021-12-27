@@ -1,6 +1,6 @@
 ---
 title: Sharnbrook
 url: /sharnbrook/
-latitude: 52.225548
-longitude: -0.5508851
+latitude: 52.226
+longitude: -0.544
 ---

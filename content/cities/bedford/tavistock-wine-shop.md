@@ -1,5 +1,5 @@
 ---
 title: "Tavistock Wine Shop"
 url: /bedford/tavistock-wine-shop/
-shop: alcohol
+shop: Spirituosen
 ---

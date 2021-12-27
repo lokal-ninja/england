@@ -1,5 +1,5 @@
 ---
 title: "Marshalls"
 url: /preston/marshalls/
-shop: curtain
+shop: Gardinen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sainsbury’s Broadcut"
 url: /fareham/sainsburys-broadcut/
-shop: supermarket
+shop: Supermarkt
 ---

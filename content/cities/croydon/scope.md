@@ -1,5 +1,5 @@
 ---
 title: "Scope"
 url: /croydon/scope/
-shop: charity
+shop: Gebrauchtwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Annakinn"
 url: /helpston/annakinn/
-shop: art
+shop: Kunst
 ---

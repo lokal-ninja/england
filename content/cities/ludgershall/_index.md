@@ -1,6 +1,6 @@
 ---
 title: Ludgershall
 url: /ludgershall/
-latitude: 51.8530998
-longitude: -1.0428915
+latitude: 51.255
+longitude: -1.619
 ---

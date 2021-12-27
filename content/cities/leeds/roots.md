@@ -1,5 +1,5 @@
 ---
 title: "Roots"
 url: /leeds/roots/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

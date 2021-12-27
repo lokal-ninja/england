@@ -1,5 +1,5 @@
 ---
 title: "Aurea"
 url: /bristol/aurea/
-shop: furniture
+shop: Möbel
 ---

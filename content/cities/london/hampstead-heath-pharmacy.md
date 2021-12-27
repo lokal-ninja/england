@@ -1,5 +1,5 @@
 ---
 title: "Hampstead Heath Pharmacy"
 url: /london/hampstead-heath-pharmacy/
-shop: chemist
+shop: Drogerie
 ---

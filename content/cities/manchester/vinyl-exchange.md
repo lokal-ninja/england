@@ -1,5 +1,5 @@
 ---
 title: "Vinyl Exchange"
 url: /manchester/vinyl-exchange/
-shop: music
+shop: Musik
 ---

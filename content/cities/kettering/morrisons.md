@@ -1,5 +1,5 @@
 ---
 title: "Morrisons"
 url: /kettering/morrisons/
-shop: supermarket
+shop: Supermarkt
 ---

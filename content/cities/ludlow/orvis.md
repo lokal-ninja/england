@@ -1,5 +1,5 @@
 ---
 title: "Orvis"
 url: /ludlow/orvis/
-shop: clothes
+shop: Kleidung
 ---

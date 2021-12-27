@@ -1,5 +1,5 @@
 ---
 title: "Deichmann"
 url: /swindon/deichmann/
-shop: shoes
+shop: Schuhe
 ---

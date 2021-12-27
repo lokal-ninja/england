@@ -1,5 +1,5 @@
 ---
 title: "Boots"
 url: /west-wickham/boots/
-shop: chemist
+shop: Drogerie
 ---

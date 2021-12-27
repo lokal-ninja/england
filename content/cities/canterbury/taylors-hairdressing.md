@@ -1,5 +1,5 @@
 ---
 title: "Taylor's Hairdressing"
 url: /canterbury/taylors-hairdressing/
-shop: hairdresser
+shop: Friseur
 ---

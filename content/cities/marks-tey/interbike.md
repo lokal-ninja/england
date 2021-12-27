@@ -1,5 +1,5 @@
 ---
 title: "Interbike"
 url: /marks-tey/interbike/
-shop: bicycle
+shop: Fahrrad
 ---

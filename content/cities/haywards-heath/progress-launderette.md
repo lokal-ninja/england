@@ -1,5 +1,5 @@
 ---
 title: "Progress Launderette"
 url: /haywards-heath/progress-launderette/
-shop: laundry
+shop: Wäscherei
 ---

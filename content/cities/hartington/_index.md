@@ -1,6 +1,6 @@
 ---
 title: Hartington
 url: /hartington/
-latitude: 53.1407795
-longitude: -1.8098893
+latitude: 53.141
+longitude: -1.811
 ---

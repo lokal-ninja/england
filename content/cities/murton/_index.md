@@ -1,6 +1,6 @@
 ---
 title: Murton
 url: /murton/
-latitude: 54.5684169
-longitude: -3.4318201000000004
+latitude: 54.814
+longitude: -1.378
 ---

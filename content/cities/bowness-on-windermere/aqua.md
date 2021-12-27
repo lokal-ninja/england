@@ -1,5 +1,5 @@
 ---
 title: "Aqua"
 url: /bowness-on-windermere/aqua/
-shop: hairdresser
+shop: Friseur
 ---

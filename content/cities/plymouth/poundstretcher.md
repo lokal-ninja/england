@@ -1,5 +1,5 @@
 ---
 title: "Poundstretcher"
 url: /plymouth/poundstretcher/
-shop: supermarket
+shop: Supermarkt
 ---

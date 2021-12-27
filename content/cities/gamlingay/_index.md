@@ -1,6 +1,6 @@
 ---
 title: Gamlingay
 url: /gamlingay/
-latitude: 52.1566586
-longitude: -0.1916634
+latitude: 52.155
+longitude: -0.191
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tribu"
 url: /london/tribu/
-shop: jewelry
+shop: Schmuck
 ---

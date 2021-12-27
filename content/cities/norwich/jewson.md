@@ -1,5 +1,5 @@
 ---
 title: "Jewson"
 url: /norwich/jewson/
-shop: doityourself
+shop: Baumarkt
 ---

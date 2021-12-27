@@ -1,6 +1,6 @@
 ---
 title: Droitwich
 url: /droitwich/
-latitude: 
-longitude: 
+latitude: 52.274
+longitude: -2.158
 ---

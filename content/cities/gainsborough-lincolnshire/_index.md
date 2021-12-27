@@ -1,6 +1,6 @@
 ---
 title: Gainsborough Lincolnshire
 url: /gainsborough-lincolnshire/
-latitude: 
-longitude: 
+latitude: 53.399
+longitude: -0.776
 ---

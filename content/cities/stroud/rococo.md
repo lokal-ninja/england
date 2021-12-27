@@ -1,5 +1,5 @@
 ---
 title: "Rococo"
 url: /stroud/rococo/
-shop: gift
+shop: Andenken
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Allure"
 url: /burnopfield/allure/
-shop: hairdresser
+shop: Friseur
 ---

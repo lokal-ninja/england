@@ -1,5 +1,5 @@
 ---
 title: "La Nella"
 url: /birmingham/la-nella/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

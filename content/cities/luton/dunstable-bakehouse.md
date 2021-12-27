@@ -1,5 +1,5 @@
 ---
 title: "Dunstable Bakehouse"
 url: /luton/dunstable-bakehouse/
-shop: bakery
+shop: Bäckerei
 ---

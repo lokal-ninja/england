@@ -1,5 +1,5 @@
 ---
 title: "Phoenix"
 url: /sudbury/phoenix/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

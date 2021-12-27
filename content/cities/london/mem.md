@@ -1,5 +1,5 @@
 ---
 title: "Mem"
 url: /london/mem/
-shop: hairdresser
+shop: Friseur
 ---

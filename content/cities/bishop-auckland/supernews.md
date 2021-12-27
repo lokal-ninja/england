@@ -1,5 +1,5 @@
 ---
 title: "Supernews"
 url: /bishop-auckland/supernews/
-shop: newsagent
+shop: Zeitungen
 ---

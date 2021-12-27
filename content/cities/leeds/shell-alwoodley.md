@@ -1,5 +1,5 @@
 ---
 title: "Shell Alwoodley"
 url: /leeds/shell-alwoodley/
-shop: convenience
+shop: Lebensmittel
 ---

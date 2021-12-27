@@ -1,5 +1,5 @@
 ---
 title: "Snappy Snaps"
 url: /london/snappy-snaps-7/
-shop: photo
+shop: Foto
 ---

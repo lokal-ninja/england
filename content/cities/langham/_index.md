@@ -1,6 +1,6 @@
 ---
 title: Langham
 url: /langham/
-latitude: 52.2906926
-longitude: 0.8999855000000001
+latitude: 51.948
+longitude: 0.942
 ---

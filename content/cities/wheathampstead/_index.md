@@ -1,6 +1,6 @@
 ---
 title: Wheathampstead
 url: /wheathampstead/
-latitude: 51.812278600000006
-longitude: -0.29103500000000004
+latitude: 51.82
+longitude: -0.292
 ---

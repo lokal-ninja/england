@@ -1,5 +1,5 @@
 ---
 title: "Woodhalls Greengrocers"
 url: /stanhope/woodhalls-greengrocers/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

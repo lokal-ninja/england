@@ -1,5 +1,5 @@
 ---
 title: "Waitrose"
 url: /waterlooville/waitrose/
-shop: supermarket
+shop: Supermarkt
 ---

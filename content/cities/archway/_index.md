@@ -1,6 +1,6 @@
 ---
 title: Archway
 url: /archway/
-latitude: 
-longitude: 
+latitude: 51.564
+longitude: -0.136
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ironcraft"
 url: /shrewsbury/ironcraft/
-shop: fireplace
+shop: Kamine & Öfen
 ---

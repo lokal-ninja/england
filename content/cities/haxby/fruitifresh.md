@@ -1,5 +1,5 @@
 ---
 title: "Fruitifresh"
 url: /haxby/fruitifresh/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Khan Halal Butcher"
 url: /luton/khan-halal-butcher/
-shop: butcher
+shop: Metzgerei
 ---

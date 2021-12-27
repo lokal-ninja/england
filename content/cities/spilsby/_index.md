@@ -1,6 +1,6 @@
 ---
 title: Spilsby
 url: /spilsby/
-latitude: 53.1734361
-longitude: 0.09462300000000001
+latitude: 53.19
+longitude: 0.103
 ---

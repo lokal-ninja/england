@@ -1,5 +1,5 @@
 ---
 title: "Hawthorns"
 url: /farnham/hawthorns/
-shop: car
+shop: Autohaus
 ---

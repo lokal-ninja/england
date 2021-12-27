@@ -1,5 +1,5 @@
 ---
 title: "Rare"
 url: /bristol/rare/
-shop: butcher
+shop: Metzgerei
 ---

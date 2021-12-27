@@ -1,5 +1,5 @@
 ---
 title: "Dulux Paints"
 url: /stockport/dulux-paints/
-shop: paint
+shop: Farben
 ---

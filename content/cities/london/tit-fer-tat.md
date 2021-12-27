@@ -1,5 +1,5 @@
 ---
 title: "Tit fer Tat"
 url: /london/tit-fer-tat/
-shop: hat
+shop: Hüte
 ---

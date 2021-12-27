@@ -1,5 +1,5 @@
 ---
 title: "Kuzma"
 url: /norwich/kuzma/
-shop: spices
+shop: Gewürze
 ---

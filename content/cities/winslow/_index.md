@@ -1,6 +1,6 @@
 ---
 title: Winslow
 url: /winslow/
-latitude: 51.9444134
-longitude: -0.8816234000000001
+latitude: 51.942
+longitude: -0.881
 ---

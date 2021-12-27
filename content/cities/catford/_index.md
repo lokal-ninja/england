@@ -1,6 +1,6 @@
 ---
 title: Catford
 url: /catford/
-latitude: 51.445321500000006
-longitude: -0.0197534
+latitude: 51.443
+longitude: -0.027
 ---

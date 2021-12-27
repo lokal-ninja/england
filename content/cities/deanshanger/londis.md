@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /deanshanger/londis/
-shop: convenience
+shop: Lebensmittel
 ---

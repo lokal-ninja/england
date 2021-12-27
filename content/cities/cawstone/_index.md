@@ -1,6 +1,6 @@
 ---
 title: Cawstone
 url: /cawstone/
-latitude: 
-longitude: 
+latitude: 52.36
+longitude: -1.303
 ---

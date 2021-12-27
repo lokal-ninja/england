@@ -1,6 +1,6 @@
 ---
 title: Great Holland
 url: /great-holland/
-latitude: 51.830951500000005
-longitude: 1.2094607000000002
+latitude: 51.832
+longitude: 1.209
 ---

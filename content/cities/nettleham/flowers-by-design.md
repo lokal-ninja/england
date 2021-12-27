@@ -1,5 +1,5 @@
 ---
 title: "Flowers By Design"
 url: /nettleham/flowers-by-design/
-shop: florist
+shop: Blumen
 ---

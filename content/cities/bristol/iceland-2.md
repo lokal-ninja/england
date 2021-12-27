@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /bristol/iceland-2/
-shop: supermarket
+shop: Supermarkt
 ---

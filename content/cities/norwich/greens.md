@@ -1,5 +1,5 @@
 ---
 title: "Green's"
 url: /norwich/greens/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "HNI MOTORS LTD"
 url: /london/hni-motors-ltd/
-shop: car
+shop: Autohaus
 ---

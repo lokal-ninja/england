@@ -1,5 +1,5 @@
 ---
 title: "Navigator"
 url: /ledbury/navigator/
-shop: clothes
+shop: Kleidung
 ---

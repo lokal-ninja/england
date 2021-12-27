@@ -1,5 +1,5 @@
 ---
 title: "Morrisons"
 url: /redcar/morrisons/
-shop: supermarket
+shop: Supermarkt
 ---

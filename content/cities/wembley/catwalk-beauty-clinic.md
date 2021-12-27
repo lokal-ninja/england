@@ -1,5 +1,5 @@
 ---
 title: "Catwalk Beauty Clinic"
 url: /wembley/catwalk-beauty-clinic/
-shop: beauty
+shop: Kosmetik
 ---

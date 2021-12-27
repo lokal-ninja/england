@@ -1,5 +1,5 @@
 ---
 title: "Booths"
 url: /altrincham/booths/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,6 +1,6 @@
 ---
 title: Epping
 url: /epping/
-latitude: 51.6982689
-longitude: 0.11029180000000001
+latitude: 51.672
+longitude: 0.102
 ---

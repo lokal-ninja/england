@@ -1,5 +1,5 @@
 ---
 title: "Locksmith"
 url: /ryde/locksmith/
-shop: locksmith
+shop: Schlüsseldienst
 ---

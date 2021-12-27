@@ -1,5 +1,5 @@
 ---
 title: "Matalan"
 url: /chelmsford/matalan/
-shop: clothes
+shop: Kleidung
 ---

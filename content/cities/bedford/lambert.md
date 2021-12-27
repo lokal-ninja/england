@@ -1,5 +1,5 @@
 ---
 title: "Lambert"
 url: /bedford/lambert/
-shop: convenience
+shop: Lebensmittel
 ---

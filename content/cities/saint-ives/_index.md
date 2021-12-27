@@ -1,6 +1,6 @@
 ---
 title: Saint Ives
 url: /saint-ives/
-latitude: 
-longitude: 
+latitude: 52.331
+longitude: -0.062
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Millets"
 url: /derby/millets/
-shop: outdoor
+shop: Outdoor
 ---

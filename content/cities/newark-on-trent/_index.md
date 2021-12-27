@@ -1,6 +1,6 @@
 ---
 title: Newark on Trent
 url: /newark-on-trent/
-latitude: 53.076169300000004
-longitude: -0.8092339000000001
+latitude: 53.08
+longitude: -0.813
 ---

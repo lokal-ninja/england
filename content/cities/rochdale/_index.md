@@ -1,6 +1,6 @@
 ---
 title: Rochdale
 url: /rochdale/
-latitude: 53.6153659
-longitude: -2.1557561
+latitude: 53.604
+longitude: -2.149
 ---

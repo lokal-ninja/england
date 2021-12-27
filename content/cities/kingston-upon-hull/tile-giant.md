@@ -1,5 +1,5 @@
 ---
 title: "Tile Giant"
 url: /kingston-upon-hull/tile-giant/
-shop: tiles
+shop: Fliesen
 ---

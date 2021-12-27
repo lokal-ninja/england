@@ -1,5 +1,5 @@
 ---
 title: "Ann Summers"
 url: /oxford/ann-summers/
-shop: erotic
+shop: Erotik
 ---

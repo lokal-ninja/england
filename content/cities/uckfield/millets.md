@@ -1,5 +1,5 @@
 ---
 title: "Millets"
 url: /uckfield/millets/
-shop: outdoor
+shop: Outdoor
 ---

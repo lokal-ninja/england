@@ -1,6 +1,6 @@
 ---
 title: Barnoldswick
 url: /barnoldswick/
-latitude: 54.1424086
-longitude: -2.5125747
+latitude: 53.916
+longitude: -2.185
 ---

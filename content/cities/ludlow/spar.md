@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /ludlow/spar/
-shop: convenience
+shop: Lebensmittel
 ---

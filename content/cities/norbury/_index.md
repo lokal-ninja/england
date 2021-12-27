@@ -1,6 +1,6 @@
 ---
 title: Norbury
 url: /norbury/
-latitude: 53.0209923
-longitude: -2.6601486000000003
+latitude: 51.413
+longitude: -0.124
 ---

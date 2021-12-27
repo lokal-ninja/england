@@ -1,6 +1,6 @@
 ---
 title: Penzance
 url: /penzance/
-latitude: 
-longitude: 
+latitude: 50.126
+longitude: -5.434
 ---

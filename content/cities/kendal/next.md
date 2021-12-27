@@ -1,5 +1,5 @@
 ---
 title: "Next"
 url: /kendal/next/
-shop: clothes
+shop: Kleidung
 ---

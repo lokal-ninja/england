@@ -1,5 +1,5 @@
 ---
 title: "Jhay Stores"
 url: /kirton/jhay-stores/
-shop: convenience
+shop: Lebensmittel
 ---

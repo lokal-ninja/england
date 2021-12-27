@@ -1,5 +1,5 @@
 ---
 title: "Morrisons"
 url: /amble/morrisons/
-shop: supermarket
+shop: Supermarkt
 ---

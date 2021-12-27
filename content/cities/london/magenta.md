@@ -1,5 +1,5 @@
 ---
 title: "Magenta"
 url: /london/magenta/
-shop: clothes
+shop: Kleidung
 ---

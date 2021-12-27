@@ -1,6 +1,6 @@
 ---
 title: Fareham
 url: /fareham/
-latitude: 
-longitude: 
+latitude: 50.866
+longitude: -1.198
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /milton-keynes/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Beautiful"
 url: /worksop/beautiful/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jewson"
 url: /chester-le-street/jewson/
-shop: doityourself
+shop: Baumarkt
 ---

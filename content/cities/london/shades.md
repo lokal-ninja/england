@@ -1,5 +1,5 @@
 ---
 title: "Shades"
 url: /london/shades/
-shop: hairdresser
+shop: Friseur
 ---

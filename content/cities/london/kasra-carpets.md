@@ -1,5 +1,5 @@
 ---
 title: "Kasra Carpets"
 url: /london/kasra-carpets/
-shop: carpet
+shop: Teppiche
 ---

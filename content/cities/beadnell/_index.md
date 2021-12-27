@@ -1,6 +1,6 @@
 ---
 title: Beadnell
 url: /beadnell/
-latitude: 55.5568858
-longitude: -1.6368580000000001
+latitude: 55.559
+longitude: -1.633
 ---

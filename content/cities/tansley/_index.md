@@ -1,6 +1,6 @@
 ---
 title: Tansley
 url: /tansley/
-latitude: 53.131728200000005
-longitude: -1.5182955
+latitude: 53.136
+longitude: -1.497
 ---

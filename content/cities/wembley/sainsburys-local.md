@@ -1,5 +1,5 @@
 ---
 title: "Sainsbury's Local"
 url: /wembley/sainsburys-local/
-shop: supermarket
+shop: Supermarkt
 ---

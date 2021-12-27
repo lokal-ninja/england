@@ -1,6 +1,6 @@
 ---
 title: Broadhempston, Totnes
 url: /broadhempston-totnes/
-latitude: 
-longitude: 
+latitude: 50.484
+longitude: -3.69
 ---

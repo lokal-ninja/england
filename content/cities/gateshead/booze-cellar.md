@@ -1,5 +1,5 @@
 ---
 title: "Booze Cellar"
 url: /gateshead/booze-cellar/
-shop: alcohol
+shop: Spirituosen
 ---

@@ -1,6 +1,6 @@
 ---
 title: Whitley
 url: /whitley/
-latitude: 51.395268200000004
-longitude: -2.1673972000000004
+latitude: 51.396
+longitude: -2.17
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Havs Ltd"
 url: /croydon/havs-ltd/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

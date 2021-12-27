@@ -1,5 +1,5 @@
 ---
 title: "Longdan Lewisham"
 url: /london/longdan-lewisham/
-shop: supermarket
+shop: Supermarkt
 ---

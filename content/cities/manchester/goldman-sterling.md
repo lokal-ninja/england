@@ -1,5 +1,5 @@
 ---
 title: "Goldman Sterling"
 url: /manchester/goldman-sterling/
-shop: shop
+shop: Allgemein
 ---

@@ -1,6 +1,6 @@
 ---
 title: Lostock Gralam
 url: /lostock-gralam/
-latitude: 53.271512300000005
-longitude: -2.4625762
+latitude: 53.271
+longitude: -2.464
 ---

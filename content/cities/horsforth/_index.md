@@ -1,6 +1,6 @@
 ---
 title: Horsforth
 url: /horsforth/
-latitude: 
-longitude: 
+latitude: 53.832
+longitude: -1.642
 ---

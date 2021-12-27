@@ -1,6 +1,6 @@
 ---
 title: Cleator Moor
 url: /cleator-moor/
-latitude: 
-longitude: 
+latitude: 54.522
+longitude: -3.517
 ---

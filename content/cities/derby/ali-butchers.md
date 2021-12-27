@@ -1,5 +1,5 @@
 ---
 title: "Ali Butchers"
 url: /derby/ali-butchers/
-shop: butcher
+shop: Metzgerei
 ---

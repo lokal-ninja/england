@@ -1,5 +1,5 @@
 ---
 title: "Bruton Motor Services Ltd"
 url: /bruton/bruton-motor-services-ltd/
-shop: car repair
+shop: Autowerkstatt
 ---

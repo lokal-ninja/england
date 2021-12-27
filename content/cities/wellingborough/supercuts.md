@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /wellingborough/supercuts/
-shop: vacant
+shop: Leerstehend
 ---

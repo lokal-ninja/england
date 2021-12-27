@@ -1,5 +1,5 @@
 ---
 title: "Walk Outdoors"
 url: /whitley-bay/walk-outdoors/
-shop: outdoor
+shop: Outdoor
 ---

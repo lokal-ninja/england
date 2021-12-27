@@ -1,5 +1,5 @@
 ---
 title: "Jon's for Hair"
 url: /milnthorpe/jons-for-hair/
-shop: hairdresser
+shop: Friseur
 ---

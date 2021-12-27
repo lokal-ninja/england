@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /belper/premier/
-shop: convenience
+shop: Lebensmittel
 ---

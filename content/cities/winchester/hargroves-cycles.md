@@ -1,5 +1,5 @@
 ---
 title: "Hargroves Cycles"
 url: /winchester/hargroves-cycles/
-shop: bicycle
+shop: Fahrrad
 ---

@@ -1,6 +1,6 @@
 ---
 title: Warden Bay
 url: /warden-bay/
-latitude: 
-longitude: 
+latitude: 51.406
+longitude: 0.909
 ---

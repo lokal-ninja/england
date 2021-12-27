@@ -1,6 +1,6 @@
 ---
 title: Cromford
 url: /cromford/
-latitude: 53.108719400000005
-longitude: -1.5600787
+latitude: 53.108
+longitude: -1.561
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Blush Lingerie"
 url: /budleigh-salterton/blush-lingerie/
-shop: clothes
+shop: Kleidung
 ---

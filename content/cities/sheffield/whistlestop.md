@@ -1,5 +1,5 @@
 ---
 title: "Whistlestop"
 url: /sheffield/whistlestop/
-shop: convenience
+shop: Lebensmittel
 ---

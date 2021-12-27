@@ -1,6 +1,6 @@
 ---
 title: Chiddingfold
 url: /chiddingfold/
-latitude: 51.1105426
-longitude: -0.6281992000000001
+latitude: 51.11
+longitude: -0.628
 ---

@@ -1,6 +1,6 @@
 ---
 title: Adgestone
 url: /adgestone/
-latitude: 50.6721932
-longitude: -1.1627055000000002
+latitude: 50.675
+longitude: -1.158
 ---

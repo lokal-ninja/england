@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /exeter/londis/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,6 +1,6 @@
 ---
 title: Longbenton
 url: /longbenton/
-latitude: 
-longitude: 
+latitude: 55.02
+longitude: -1.582
 ---

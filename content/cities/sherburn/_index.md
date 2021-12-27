@@ -1,6 +1,6 @@
 ---
 title: Sherburn
 url: /sherburn/
-latitude: 54.179868000000006
-longitude: -0.5316676
+latitude: 54.775
+longitude: -1.505
 ---

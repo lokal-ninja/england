@@ -1,5 +1,5 @@
 ---
 title: "Moshulu"
 url: /horsham/moshulu/
-shop: shoes
+shop: Schuhe
 ---

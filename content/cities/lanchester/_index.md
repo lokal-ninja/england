@@ -1,6 +1,6 @@
 ---
 title: Lanchester
 url: /lanchester/
-latitude: 54.8222151
-longitude: -1.7443197000000001
+latitude: 54.804
+longitude: -1.745
 ---

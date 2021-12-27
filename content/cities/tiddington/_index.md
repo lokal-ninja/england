@@ -1,6 +1,6 @@
 ---
 title: Tiddington
 url: /tiddington/
-latitude: 51.7413948
-longitude: -1.0611519
+latitude: 52.2
+longitude: -1.677
 ---

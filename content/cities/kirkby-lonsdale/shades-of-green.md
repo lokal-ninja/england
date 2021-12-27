@@ -1,5 +1,5 @@
 ---
 title: "Shades of Green"
 url: /kirkby-lonsdale/shades-of-green/
-shop: gift
+shop: Andenken
 ---

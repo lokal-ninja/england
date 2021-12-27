@@ -1,6 +1,6 @@
 ---
 title: Rugeley
 url: /rugeley/
-latitude: 52.758940200000005
-longitude: -1.9362042000000002
+latitude: 52.751
+longitude: -1.974
 ---

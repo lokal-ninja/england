@@ -1,6 +1,6 @@
 ---
 title: Wivelsfield
 url: /wivelsfield/
-latitude: 50.9643135
-longitude: -0.0863976
+latitude: 50.967
+longitude: -0.091
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /middlewich/tesco-express/
-shop: convenience
+shop: Lebensmittel
 ---

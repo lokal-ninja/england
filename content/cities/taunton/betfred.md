@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /taunton/betfred/
-shop: bookmaker
+shop: Wettbüro
 ---

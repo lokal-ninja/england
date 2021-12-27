@@ -1,5 +1,5 @@
 ---
 title: "Shoon"
 url: /st-albans/shoon/
-shop: shoes
+shop: Schuhe
 ---

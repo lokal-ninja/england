@@ -1,5 +1,5 @@
 ---
 title: "XL Dry Cleaners"
 url: /crewe/xl-dry-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

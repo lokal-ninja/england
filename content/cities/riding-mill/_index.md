@@ -1,6 +1,6 @@
 ---
 title: Riding Mill
 url: /riding-mill/
-latitude: 54.9477016
-longitude: -1.9733248
+latitude: 54.972
+longitude: -1.925
 ---

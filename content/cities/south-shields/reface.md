@@ -1,5 +1,5 @@
 ---
 title: "Reface"
 url: /south-shields/reface/
-shop: kitchen
+shop: Küchen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "J Golding Group"
 url: /langley/j-golding-group/
-shop: newsagent
+shop: Zeitungen
 ---

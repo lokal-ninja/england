@@ -1,5 +1,5 @@
 ---
 title: "Simply Sofas Direct"
 url: /dereham/simply-sofas-direct/
-shop: furniture
+shop: Möbel
 ---

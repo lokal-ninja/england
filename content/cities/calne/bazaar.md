@@ -1,5 +1,5 @@
 ---
 title: "Bazaar"
 url: /calne/bazaar/
-shop: gift
+shop: Andenken
 ---

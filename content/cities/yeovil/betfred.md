@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /yeovil/betfred/
-shop: bookmaker
+shop: Wettbüro
 ---

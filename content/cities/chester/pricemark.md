@@ -1,5 +1,5 @@
 ---
 title: "Pricemark"
 url: /chester/pricemark/
-shop: convenience
+shop: Lebensmittel
 ---

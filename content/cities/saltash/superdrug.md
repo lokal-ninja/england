@@ -1,5 +1,5 @@
 ---
 title: "Superdrug"
 url: /saltash/superdrug/
-shop: chemist
+shop: Drogerie
 ---

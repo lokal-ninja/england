@@ -1,5 +1,5 @@
 ---
 title: "Ann Summers"
 url: /derby/ann-summers/
-shop: erotic
+shop: Erotik
 ---

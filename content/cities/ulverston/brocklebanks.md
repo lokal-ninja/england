@@ -1,5 +1,5 @@
 ---
 title: "Brocklebanks"
 url: /ulverston/brocklebanks/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

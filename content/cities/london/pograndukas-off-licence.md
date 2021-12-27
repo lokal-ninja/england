@@ -1,5 +1,5 @@
 ---
 title: "Pograndukas Off Licence"
 url: /london/pograndukas-off-licence/
-shop: convenience
+shop: Lebensmittel
 ---

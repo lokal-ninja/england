@@ -1,5 +1,5 @@
 ---
 title: "Vans"
 url: /braintree/vans/
-shop: shoes
+shop: Schuhe
 ---

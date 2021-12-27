@@ -1,5 +1,5 @@
 ---
 title: "Victoria Nurseries"
 url: /ipswich/victoria-nurseries/
-shop: garden centre
+shop: Garten-Center
 ---

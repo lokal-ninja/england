@@ -1,5 +1,5 @@
 ---
 title: "Artful"
 url: /hexham/artful/
-shop: art
+shop: Kunst
 ---

@@ -1,6 +1,6 @@
 ---
 title: Whiteley
 url: /whiteley/
-latitude: 50.8843891
-longitude: -1.2524697
+latitude: 50.876
+longitude: -1.255
 ---

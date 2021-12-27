@@ -1,6 +1,6 @@
 ---
 title: West Kirby
 url: /west-kirby/
-latitude: 53.373322900000005
-longitude: -3.1865608
+latitude: 53.37
+longitude: -3.184
 ---

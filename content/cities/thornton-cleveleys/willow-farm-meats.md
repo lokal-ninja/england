@@ -1,5 +1,5 @@
 ---
 title: "Willow Farm Meats"
 url: /thornton-cleveleys/willow-farm-meats/
-shop: butcher
+shop: Metzgerei
 ---

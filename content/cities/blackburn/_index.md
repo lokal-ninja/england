@@ -1,6 +1,6 @@
 ---
 title: Blackburn
 url: /blackburn/
-latitude: 53.749326
-longitude: -2.4840566
+latitude: 53.727
+longitude: -2.538
 ---

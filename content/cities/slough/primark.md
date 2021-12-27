@@ -1,5 +1,5 @@
 ---
 title: "Primark"
 url: /slough/primark/
-shop: clothes
+shop: Kleidung
 ---

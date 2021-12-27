@@ -1,5 +1,5 @@
 ---
 title: "Revive"
 url: /worthing/revive/
-shop: beauty
+shop: Kosmetik
 ---

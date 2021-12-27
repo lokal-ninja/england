@@ -1,5 +1,5 @@
 ---
 title: "Fleur"
 url: /peterborough/fleur/
-shop: florist
+shop: Blumen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Zagger"
 url: /chelmsford/zagger/
-shop: clothes
+shop: Kleidung
 ---

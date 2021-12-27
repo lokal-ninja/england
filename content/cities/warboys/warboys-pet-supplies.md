@@ -1,5 +1,5 @@
 ---
 title: "Warboys Pet Supplies"
 url: /warboys/warboys-pet-supplies/
-shop: pet
+shop: Tiere
 ---

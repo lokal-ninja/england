@@ -1,5 +1,5 @@
 ---
 title: "Content"
 url: /london/content/
-shop: clothes
+shop: Kleidung
 ---

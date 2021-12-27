@@ -1,6 +1,6 @@
 ---
 title: Wimbledon, London
 url: /wimbledon-london/
-latitude: 
-longitude: 
+latitude: 51.425
+longitude: -0.219
 ---

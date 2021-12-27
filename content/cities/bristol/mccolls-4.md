@@ -1,5 +1,5 @@
 ---
 title: "McColl's"
 url: /bristol/mccolls-4/
-shop: convenience
+shop: Lebensmittel
 ---

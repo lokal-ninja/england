@@ -1,6 +1,6 @@
 ---
 title: Grosmont
 url: /grosmont/
-latitude: 
-longitude: 
+latitude: 54.436
+longitude: -0.725
 ---

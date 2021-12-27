@@ -1,6 +1,6 @@
 ---
 title: Bluntisham
 url: /bluntisham/
-latitude: 52.353456
-longitude: 0.0088242
+latitude: 52.35
+longitude: 0.003
 ---

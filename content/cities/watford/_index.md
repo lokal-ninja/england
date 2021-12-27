@@ -1,6 +1,6 @@
 ---
 title: Watford
 url: /watford/
-latitude: 51.6553875
-longitude: -0.3957425
+latitude: 51.655
+longitude: -0.394
 ---

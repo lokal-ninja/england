@@ -1,6 +1,6 @@
 ---
 title: Clanfield
 url: /clanfield/
-latitude: 50.9466972
-longitude: -1.0081615000000002
+latitude: 50.936
+longitude: -1
 ---

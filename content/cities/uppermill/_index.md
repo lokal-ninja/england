@@ -1,6 +1,6 @@
 ---
 title: Uppermill
 url: /uppermill/
-latitude: 53.5475135
-longitude: -2.0066494
+latitude: 53.549
+longitude: -2.005
 ---

@@ -1,6 +1,6 @@
 ---
 title: Ashwell
 url: /ashwell/
-latitude: 52.713512
-longitude: -0.7183261000000001
+latitude: 52.041
+longitude: -0.155
 ---

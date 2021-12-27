@@ -1,5 +1,5 @@
 ---
 title: "McColl's"
 url: /waterlooville/mccolls/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ghumey"
 url: /bristol/ghumey/
-shop: hairdresser
+shop: Friseur
 ---

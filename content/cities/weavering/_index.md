@@ -1,6 +1,6 @@
 ---
 title: Weavering
 url: /weavering/
-latitude: 
-longitude: 
+latitude: 51.277
+longitude: 0.556
 ---

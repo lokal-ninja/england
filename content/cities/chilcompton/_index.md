@@ -1,6 +1,6 @@
 ---
 title: Chilcompton
 url: /chilcompton/
-latitude: 51.2633924
-longitude: -2.508058
+latitude: 51.259
+longitude: -2.51
 ---

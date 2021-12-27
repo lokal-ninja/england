@@ -1,6 +1,6 @@
 ---
 title: Chobham
 url: /chobham/
-latitude: 51.3477705
-longitude: -0.6010128
+latitude: 51.348
+longitude: -0.603
 ---

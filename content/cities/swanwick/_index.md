@@ -1,6 +1,6 @@
 ---
 title: Swanwick
 url: /swanwick/
-latitude: 53.076173100000005
-longitude: -1.3993137
+latitude: 53.076
+longitude: -1.399
 ---

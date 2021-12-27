@@ -1,6 +1,6 @@
 ---
 title: New Denham
 url: /new-denham/
-latitude: 
-longitude: 
+latitude: 51.556
+longitude: -0.492
 ---

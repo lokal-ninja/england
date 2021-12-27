@@ -1,5 +1,5 @@
 ---
 title: "JonPye"
 url: /hobson/jonpye/
-shop: kitchen
+shop: Küchen
 ---

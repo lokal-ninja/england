@@ -1,5 +1,5 @@
 ---
 title: "Workshop"
 url: /bristol/workshop/
-shop: vacant
+shop: Leerstehend
 ---

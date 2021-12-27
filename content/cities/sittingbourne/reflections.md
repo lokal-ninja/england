@@ -1,5 +1,5 @@
 ---
 title: "Reflections"
 url: /sittingbourne/reflections/
-shop: hairdresser
+shop: Friseur
 ---

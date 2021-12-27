@@ -1,5 +1,5 @@
 ---
 title: "Naylors"
 url: /rochdale/naylors/
-shop: general
+shop: Dorfladen
 ---

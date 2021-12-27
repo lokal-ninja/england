@@ -1,6 +1,6 @@
 ---
 title: Ingleton
 url: /ingleton/
-latitude: 54.153714900000004
-longitude: -2.4678855
+latitude: 54.154
+longitude: -2.468
 ---

@@ -1,6 +1,6 @@
 ---
 title: Marple
 url: /marple/
-latitude: 53.393014900000004
-longitude: -2.0693132000000003
+latitude: 53.391
+longitude: -2.075
 ---

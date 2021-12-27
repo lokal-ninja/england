@@ -1,6 +1,6 @@
 ---
 title: Segensworth, Fareham
 url: /segensworth-fareham/
-latitude: 
-longitude: 
+latitude: 50.868
+longitude: -1.25
 ---

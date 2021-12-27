@@ -1,6 +1,6 @@
 ---
 title: Willenhall
 url: /willenhall/
-latitude: 52.386267600000004
-longitude: -1.4664169
+latitude: 52.591
+longitude: -2.085
 ---

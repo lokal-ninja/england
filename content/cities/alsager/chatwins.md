@@ -1,5 +1,5 @@
 ---
 title: "Chatwins"
 url: /alsager/chatwins/
-shop: bakery
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Timberland"
 url: /derby/timberland/
-shop: clothes
+shop: Kleidung
 ---

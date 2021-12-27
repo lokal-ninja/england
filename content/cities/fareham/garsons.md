@@ -1,5 +1,5 @@
 ---
 title: "Garsons"
 url: /fareham/garsons/
-shop: garden centre
+shop: Garten-Center
 ---

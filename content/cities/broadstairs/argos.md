@@ -1,5 +1,5 @@
 ---
 title: "Argos"
 url: /broadstairs/argos/
-shop: shop
+shop: Allgemein
 ---

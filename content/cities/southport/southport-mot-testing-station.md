@@ -1,5 +1,5 @@
 ---
 title: "Southport MOT Testing Station"
 url: /southport/southport-mot-testing-station/
-shop: car repair
+shop: Autowerkstatt
 ---

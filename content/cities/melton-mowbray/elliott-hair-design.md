@@ -1,5 +1,5 @@
 ---
 title: "Elliott Hair Design"
 url: /melton-mowbray/elliott-hair-design/
-shop: hairdresser
+shop: Friseur
 ---

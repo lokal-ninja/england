@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /greenside/spar/
-shop: supermarket
+shop: Supermarkt
 ---

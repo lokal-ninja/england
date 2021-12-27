@@ -1,5 +1,5 @@
 ---
 title: "PDSA"
 url: /exeter/pdsa/
-shop: charity
+shop: Gebrauchtwaren
 ---

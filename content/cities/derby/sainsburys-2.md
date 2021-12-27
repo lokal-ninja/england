@@ -1,5 +1,5 @@
 ---
 title: "Sainsbury's"
 url: /derby/sainsburys-2/
-shop: supermarket
+shop: Supermarkt
 ---

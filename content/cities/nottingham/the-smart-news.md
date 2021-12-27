@@ -1,5 +1,5 @@
 ---
 title: "The Smart News"
 url: /nottingham/the-smart-news/
-shop: newsagent
+shop: Zeitungen
 ---

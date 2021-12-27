@@ -1,5 +1,5 @@
 ---
 title: "Naswell"
 url: /sunderland/naswell/
-shop: hairdresser
+shop: Friseur
 ---

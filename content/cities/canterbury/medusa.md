@@ -1,5 +1,5 @@
 ---
 title: "Medusa"
 url: /canterbury/medusa/
-shop: tattoo
+shop: Tattoo
 ---

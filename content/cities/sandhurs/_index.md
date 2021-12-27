@@ -1,6 +1,6 @@
 ---
 title: Sandhurs
 url: /sandhurs/
-latitude: 
-longitude: 
+latitude: 51.34
+longitude: -0.777
 ---

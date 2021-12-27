@@ -1,5 +1,5 @@
 ---
 title: "Halton News"
 url: /leeds/halton-news/
-shop: newsagent
+shop: Zeitungen
 ---

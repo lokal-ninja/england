@@ -1,5 +1,5 @@
 ---
 title: "Genco"
 url: /london/genco/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /dronfield/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

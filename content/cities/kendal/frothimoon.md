@@ -1,5 +1,5 @@
 ---
 title: "Frothimoon"
 url: /kendal/frothimoon/
-shop: beauty
+shop: Kosmetik
 ---

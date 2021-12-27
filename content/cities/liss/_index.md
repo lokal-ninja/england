@@ -1,6 +1,6 @@
 ---
 title: Liss
 url: /liss/
-latitude: 51.0425443
-longitude: -0.8919221
+latitude: 51.042
+longitude: -0.892
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Todds"
 url: /kendal/todds/
-shop: wholesale
+shop: Großhandel
 ---

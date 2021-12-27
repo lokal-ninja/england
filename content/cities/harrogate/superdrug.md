@@ -1,5 +1,5 @@
 ---
 title: "Superdrug"
 url: /harrogate/superdrug/
-shop: chemist
+shop: Drogerie
 ---

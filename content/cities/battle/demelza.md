@@ -1,5 +1,5 @@
 ---
 title: "Demelza"
 url: /battle/demelza/
-shop: charity
+shop: Gebrauchtwaren
 ---

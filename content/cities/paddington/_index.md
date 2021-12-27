@@ -1,6 +1,6 @@
 ---
 title: Paddington
 url: /paddington/
-latitude: 53.3994754
-longitude: -2.5540768000000003
+latitude: 51.516
+longitude: -0.175
 ---

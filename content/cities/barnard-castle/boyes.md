@@ -1,5 +1,5 @@
 ---
 title: "Boyes"
 url: /barnard-castle/boyes/
-shop: clothes
+shop: Kleidung
 ---

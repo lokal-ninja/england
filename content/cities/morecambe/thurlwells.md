@@ -1,5 +1,5 @@
 ---
 title: "Thurlwells"
 url: /morecambe/thurlwells/
-shop: bakery
+shop: Bäckerei
 ---

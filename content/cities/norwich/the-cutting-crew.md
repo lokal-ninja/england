@@ -1,5 +1,5 @@
 ---
 title: "The Cutting Crew"
 url: /norwich/the-cutting-crew/
-shop: hairdresser
+shop: Friseur
 ---

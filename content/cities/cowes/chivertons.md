@@ -1,5 +1,5 @@
 ---
 title: "Chivertons"
 url: /cowes/chivertons/
-shop: office supplies
+shop: Schreibwaren
 ---

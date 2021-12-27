@@ -1,5 +1,5 @@
 ---
 title: "Atelier"
 url: /carlisle/atelier/
-shop: hairdresser
+shop: Friseur
 ---

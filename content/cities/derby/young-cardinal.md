@@ -1,5 +1,5 @@
 ---
 title: "Young Cardinal"
 url: /derby/young-cardinal/
-shop: tattoo
+shop: Tattoo
 ---

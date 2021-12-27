@@ -1,5 +1,5 @@
 ---
 title: "YMCA"
 url: /whitton/ymca/
-shop: charity
+shop: Gebrauchtwaren
 ---

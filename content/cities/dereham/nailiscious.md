@@ -1,5 +1,5 @@
 ---
 title: "Nailiscious"
 url: /dereham/nailiscious/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Goldsmiths"
 url: /grays/goldsmiths/
-shop: jewelry
+shop: Schmuck
 ---

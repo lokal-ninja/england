@@ -1,5 +1,5 @@
 ---
 title: "Cornners"
 url: /carshalton/cornners/
-shop: alcohol
+shop: Spirituosen
 ---

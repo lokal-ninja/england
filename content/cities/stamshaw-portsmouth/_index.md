@@ -1,6 +1,6 @@
 ---
 title: Stamshaw, Portsmouth
 url: /stamshaw-portsmouth/
-latitude: 
-longitude: 
+latitude: 50.816
+longitude: -1.085
 ---

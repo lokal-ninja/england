@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /loughborough/tesco-express/
-shop: convenience
+shop: Lebensmittel
 ---

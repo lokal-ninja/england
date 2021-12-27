@@ -1,6 +1,6 @@
 ---
 title: Farnborough
 url: /farnborough/
-latitude: 51.5367279
-longitude: -1.3748299000000002
+latitude: 51.309
+longitude: -0.785
 ---

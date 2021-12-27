@@ -1,6 +1,6 @@
 ---
 title: Langport
 url: /langport/
-latitude: 51.037572700000005
-longitude: -2.8280084000000003
+latitude: 51.077
+longitude: -2.847
 ---

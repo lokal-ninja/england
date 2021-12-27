@@ -1,5 +1,5 @@
 ---
 title: "Tadcaster Animal Supplies"
 url: /tadcaster/tadcaster-animal-supplies/
-shop: shop
+shop: Allgemein
 ---

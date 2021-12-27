@@ -1,6 +1,6 @@
 ---
 title: Bishop's Castle
 url: /bishops-castle/
-latitude: 52.493632500000004
-longitude: -2.9979204000000004
+latitude: 52.491
+longitude: -2.999
 ---

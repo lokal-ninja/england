@@ -1,5 +1,5 @@
 ---
 title: "Parkhouse Fresh Produce"
 url: /sheffield/parkhouse-fresh-produce/
-shop: farm
+shop: Hofladen
 ---

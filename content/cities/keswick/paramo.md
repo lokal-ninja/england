@@ -1,5 +1,5 @@
 ---
 title: "Paramo"
 url: /keswick/paramo/
-shop: outdoor
+shop: Outdoor
 ---

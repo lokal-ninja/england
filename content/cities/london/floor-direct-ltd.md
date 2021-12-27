@@ -1,5 +1,5 @@
 ---
 title: "Floor Direct Ltd"
 url: /london/floor-direct-ltd/
-shop: carpet
+shop: Teppiche
 ---

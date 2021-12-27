@@ -1,5 +1,5 @@
 ---
 title: "Dipple and Conway"
 url: /diss/dipple-and-conway/
-shop: optician
+shop: Optiker
 ---

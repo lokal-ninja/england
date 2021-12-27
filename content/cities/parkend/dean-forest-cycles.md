@@ -1,5 +1,5 @@
 ---
 title: "Dean Forest Cycles"
 url: /parkend/dean-forest-cycles/
-shop: bicycle
+shop: Fahrrad
 ---

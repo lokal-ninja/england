@@ -1,6 +1,6 @@
 ---
 title: Brookwood
 url: /brookwood/
-latitude: 52.0385487
-longitude: 1.1121462
+latitude: 51.305
+longitude: -0.658
 ---

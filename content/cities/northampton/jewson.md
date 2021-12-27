@@ -1,5 +1,5 @@
 ---
 title: "Jewson"
 url: /northampton/jewson/
-shop: trade
+shop: Baustoffe
 ---

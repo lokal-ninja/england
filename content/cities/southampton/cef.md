@@ -1,5 +1,5 @@
 ---
 title: "CEF"
 url: /southampton/cef/
-shop: electronics
+shop: Elektronik
 ---

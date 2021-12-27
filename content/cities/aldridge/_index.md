@@ -1,6 +1,6 @@
 ---
 title: Aldridge
 url: /aldridge/
-latitude: 52.6018672
-longitude: -1.9241987
+latitude: 52.599
+longitude: -1.926
 ---

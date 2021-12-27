@@ -1,6 +1,6 @@
 ---
 title: Pepperstock
 url: /pepperstock/
-latitude: 
-longitude: 
+latitude: 51.851
+longitude: -0.425
 ---

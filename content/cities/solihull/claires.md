@@ -1,5 +1,5 @@
 ---
 title: "claire's"
 url: /solihull/claires/
-shop: shop
+shop: Allgemein
 ---

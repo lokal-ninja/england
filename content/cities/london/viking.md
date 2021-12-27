@@ -1,5 +1,5 @@
 ---
 title: "Viking"
 url: /london/viking/
-shop: laundry
+shop: Wäscherei
 ---

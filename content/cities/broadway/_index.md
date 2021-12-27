@@ -1,6 +1,6 @@
 ---
 title: Broadway
 url: /broadway/
-latitude: 50.488038
-longitude: -3.6601889
+latitude: 52.037
+longitude: -1.862
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Seasons"
 url: /skipton/seasons/
-shop: shop
+shop: Allgemein
 ---

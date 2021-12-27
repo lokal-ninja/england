@@ -1,5 +1,5 @@
 ---
 title: "Sunseekers"
 url: /leyland/sunseekers/
-shop: beauty
+shop: Kosmetik
 ---

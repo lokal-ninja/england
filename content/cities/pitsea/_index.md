@@ -1,6 +1,6 @@
 ---
 title: Pitsea
 url: /pitsea/
-latitude: 
-longitude: 
+latitude: 51.572
+longitude: 0.51
 ---

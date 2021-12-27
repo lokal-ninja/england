@@ -1,5 +1,5 @@
 ---
 title: "Tessuti"
 url: /salford-quays/tessuti/
-shop: clothes
+shop: Kleidung
 ---

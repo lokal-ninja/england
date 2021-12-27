@@ -1,6 +1,6 @@
 ---
 title: Coventry
 url: /coventry/
-latitude: 52.4081812
-longitude: -1.510477
+latitude: 52.389
+longitude: -1.464
 ---

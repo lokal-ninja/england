@@ -1,6 +1,6 @@
 ---
 title: Broomfield
 url: /broomfield/
-latitude: 53.3751541
-longitude: -1.4901759
+latitude: 51.774
+longitude: 0.47
 ---

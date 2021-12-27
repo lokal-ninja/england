@@ -1,6 +1,6 @@
 ---
 title: Hovingham
 url: /hovingham/
-latitude: 54.1720424
-longitude: -0.9794578
+latitude: 54.174
+longitude: -0.979
 ---

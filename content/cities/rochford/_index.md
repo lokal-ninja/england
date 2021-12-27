@@ -1,6 +1,6 @@
 ---
 title: Rochford
 url: /rochford/
-latitude: 51.5838691
-longitude: 0.7056174000000001
+latitude: 51.594
+longitude: 0.741
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Baltika"
 url: /colchester/baltika/
-shop: supermarket
+shop: Supermarkt
 ---

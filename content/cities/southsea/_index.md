@@ -1,6 +1,6 @@
 ---
 title: Southsea
 url: /southsea/
-latitude: 50.7888796
-longitude: -1.0886623
+latitude: 50.793
+longitude: -1.09
 ---

@@ -1,6 +1,6 @@
 ---
 title: Hathersage
 url: /hathersage/
-latitude: 53.329791400000005
-longitude: -1.6545464
+latitude: 53.331
+longitude: -1.653
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Blair's"
 url: /darlington/blairs/
-shop: garden centre
+shop: Garten-Center
 ---

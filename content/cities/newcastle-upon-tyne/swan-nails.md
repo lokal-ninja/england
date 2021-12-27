@@ -1,5 +1,5 @@
 ---
 title: "Swan Nails"
 url: /newcastle-upon-tyne/swan-nails/
-shop: beauty
+shop: Kosmetik
 ---

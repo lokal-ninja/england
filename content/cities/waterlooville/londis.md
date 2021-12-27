@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /waterlooville/londis/
-shop: convenience
+shop: Lebensmittel
 ---

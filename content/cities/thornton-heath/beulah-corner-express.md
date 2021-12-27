@@ -1,5 +1,5 @@
 ---
 title: "Beulah Corner Express"
 url: /thornton-heath/beulah-corner-express/
-shop: convenience
+shop: Lebensmittel
 ---

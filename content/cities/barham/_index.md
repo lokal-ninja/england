@@ -1,6 +1,6 @@
 ---
 title: Barham
 url: /barham/
-latitude: 52.364882
-longitude: -0.3318583
+latitude: 51.186
+longitude: 1.146
 ---

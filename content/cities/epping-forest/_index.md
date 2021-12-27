@@ -1,6 +1,6 @@
 ---
 title: Epping Forest
 url: /epping-forest/
-latitude: 
-longitude: 
+latitude: 51.618
+longitude: 0.044
 ---

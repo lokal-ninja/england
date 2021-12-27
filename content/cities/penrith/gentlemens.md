@@ -1,5 +1,5 @@
 ---
 title: "Gentlemen's"
 url: /penrith/gentlemens/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lovisa"
 url: /grays/lovisa/
-shop: jewelry
+shop: Schmuck
 ---

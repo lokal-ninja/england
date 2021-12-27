@@ -1,5 +1,5 @@
 ---
 title: "Osim"
 url: /london/osim/
-shop: massage
+shop: Massage
 ---

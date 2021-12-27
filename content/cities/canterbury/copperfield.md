@@ -1,5 +1,5 @@
 ---
 title: "Copperfield"
 url: /canterbury/copperfield/
-shop: clothes
+shop: Kleidung
 ---

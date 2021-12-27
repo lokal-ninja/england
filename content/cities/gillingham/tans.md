@@ -1,5 +1,5 @@
 ---
 title: "Tans"
 url: /gillingham/tans/
-shop: beauty
+shop: Kosmetik
 ---

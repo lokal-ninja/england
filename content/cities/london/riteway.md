@@ -1,5 +1,5 @@
 ---
 title: "Riteway"
 url: /london/riteway/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

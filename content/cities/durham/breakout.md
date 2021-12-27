@@ -1,5 +1,5 @@
 ---
 title: "Breakout"
 url: /durham/breakout/
-shop: sports
+shop: Sport
 ---

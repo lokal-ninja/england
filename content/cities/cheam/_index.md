@@ -1,6 +1,6 @@
 ---
 title: Cheam
 url: /cheam/
-latitude: 51.3576155
-longitude: -0.2162414
+latitude: 51.359
+longitude: -0.217
 ---

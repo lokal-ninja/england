@@ -1,6 +1,6 @@
 ---
 title: Stockton-on-the-Forest
 url: /stockton-on-the-forest/
-latitude: 
-longitude: 
+latitude: 53.994
+longitude: -1.004
 ---

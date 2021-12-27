@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /sedgley/asda/
-shop: supermarket
+shop: Supermarkt
 ---

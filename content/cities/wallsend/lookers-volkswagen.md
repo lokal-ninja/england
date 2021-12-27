@@ -1,5 +1,5 @@
 ---
 title: "Lookers Volkswagen"
 url: /wallsend/lookers-volkswagen/
-shop: car
+shop: Autohaus
 ---

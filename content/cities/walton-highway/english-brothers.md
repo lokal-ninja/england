@@ -1,5 +1,5 @@
 ---
 title: "English Brothers"
 url: /walton-highway/english-brothers/
-shop: shop
+shop: Allgemein
 ---

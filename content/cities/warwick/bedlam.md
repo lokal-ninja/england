@@ -1,5 +1,5 @@
 ---
 title: "Bedlam"
 url: /warwick/bedlam/
-shop: bed
+shop: Betten
 ---

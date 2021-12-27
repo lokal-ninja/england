@@ -1,5 +1,5 @@
 ---
 title: "Floorstyle Carpets"
 url: /gateshead/floorstyle-carpets/
-shop: carpet
+shop: Teppiche
 ---

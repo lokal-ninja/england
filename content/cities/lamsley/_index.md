@@ -1,6 +1,6 @@
 ---
 title: Lamsley
 url: /lamsley/
-latitude: 
-longitude: 
+latitude: 54.919
+longitude: -1.611
 ---

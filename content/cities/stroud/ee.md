@@ -1,5 +1,5 @@
 ---
 title: "EE"
 url: /stroud/ee/
-shop: mobile phone
+shop: Handy
 ---

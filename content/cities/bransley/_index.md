@@ -1,6 +1,6 @@
 ---
 title: Bransley
 url: /bransley/
-latitude: 
-longitude: 
+latitude: 53.543
+longitude: -1.438
 ---

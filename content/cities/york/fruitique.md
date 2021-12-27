@@ -1,5 +1,5 @@
 ---
 title: "Fruitique"
 url: /york/fruitique/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Card Factory"
 url: /peterborough/card-factory/
-shop: gift
+shop: Andenken
 ---

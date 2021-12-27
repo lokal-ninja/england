@@ -1,5 +1,5 @@
 ---
 title: "corbett sports"
 url: /winsford/corbett-sports/
-shop: bookmaker
+shop: Wettbüro
 ---

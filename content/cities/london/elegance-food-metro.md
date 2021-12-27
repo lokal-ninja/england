@@ -1,5 +1,5 @@
 ---
 title: "Elegance Food Metro"
 url: /london/elegance-food-metro/
-shop: convenience
+shop: Lebensmittel
 ---

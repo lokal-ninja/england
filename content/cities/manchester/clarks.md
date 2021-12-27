@@ -1,5 +1,5 @@
 ---
 title: "Clarks"
 url: /manchester/clarks/
-shop: shoes
+shop: Schuhe
 ---

@@ -1,6 +1,6 @@
 ---
 title: Tywardreath
 url: /tywardreath/
-latitude: 50.3571267
-longitude: -4.6924922
+latitude: 50.358
+longitude: -4.692
 ---

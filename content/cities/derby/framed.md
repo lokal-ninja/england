@@ -1,5 +1,5 @@
 ---
 title: "Framed"
 url: /derby/framed/
-shop: frame
+shop: Rahmen
 ---

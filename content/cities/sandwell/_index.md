@@ -1,6 +1,6 @@
 ---
 title: Sandwell
 url: /sandwell/
-latitude: 
-longitude: 
+latitude: 52.535
+longitude: -2.074
 ---

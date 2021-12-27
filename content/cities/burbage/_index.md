@@ -1,6 +1,6 @@
 ---
 title: Burbage
 url: /burbage/
-latitude: 51.3499113
-longitude: -1.6671204000000002
+latitude: 51.348
+longitude: -1.664
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dobbies Brighton"
 url: /brighton/dobbies-brighton/
-shop: garden centre
+shop: Garten-Center
 ---

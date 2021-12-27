@@ -1,5 +1,5 @@
 ---
 title: "AGA"
 url: /kendal/aga/
-shop: kitchen
+shop: Küchen
 ---

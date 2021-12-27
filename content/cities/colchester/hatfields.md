@@ -1,5 +1,5 @@
 ---
 title: "Hatfields"
 url: /colchester/hatfields/
-shop: furniture
+shop: Möbel
 ---

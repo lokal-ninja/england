@@ -1,5 +1,5 @@
 ---
 title: "Aquajardin"
 url: /southampton/aquajardin/
-shop: pet
+shop: Tiere
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Balkans"
 url: /canterbury/balkans/
-shop: deli
+shop: Feinkost
 ---

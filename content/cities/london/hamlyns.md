@@ -1,5 +1,5 @@
 ---
 title: "Hamlyns"
 url: /london/hamlyns/
-shop: laundry
+shop: Wäscherei
 ---

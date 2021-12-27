@@ -1,5 +1,5 @@
 ---
 title: "Eashing Service Station"
 url: /godalming/eashing-service-station/
-shop: convenience
+shop: Lebensmittel
 ---

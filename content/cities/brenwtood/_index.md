@@ -1,6 +1,6 @@
 ---
 title: Brenwtood
 url: /brenwtood/
-latitude: 
-longitude: 
+latitude: 51.572
+longitude: 0.301
 ---

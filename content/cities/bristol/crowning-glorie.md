@@ -1,5 +1,5 @@
 ---
 title: "Crowning Glorie"
 url: /bristol/crowning-glorie/
-shop: hairdresser
+shop: Friseur
 ---

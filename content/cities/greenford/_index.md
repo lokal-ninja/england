@@ -1,6 +1,6 @@
 ---
 title: Greenford
 url: /greenford/
-latitude: 51.527937800000004
-longitude: -0.3527601
+latitude: 51.551
+longitude: -0.339
 ---

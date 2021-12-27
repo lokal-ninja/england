@@ -1,6 +1,6 @@
 ---
 title: Bishops Tachbrook
 url: /bishops-tachbrook/
-latitude: 52.2496317
-longitude: -1.5417179
+latitude: 52.249
+longitude: -1.543
 ---

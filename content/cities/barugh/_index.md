@@ -1,6 +1,6 @@
 ---
 title: Barugh
 url: /barugh/
-latitude: 54.809538100000005
-longitude: -3.2078543
+latitude: 53.568
+longitude: -1.52
 ---

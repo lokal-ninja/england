@@ -1,5 +1,5 @@
 ---
 title: "S.K. Fruits"
 url: /trowbridge/s-k-fruits/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

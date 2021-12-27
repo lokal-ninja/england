@@ -1,5 +1,5 @@
 ---
 title: "Kiehls"
 url: /york/kiehls/
-shop: perfumery
+shop: Parfümerie
 ---

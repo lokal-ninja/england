@@ -1,5 +1,5 @@
 ---
 title: "Critchlows General Store"
 url: /ripley/critchlows-general-store/
-shop: convenience
+shop: Lebensmittel
 ---

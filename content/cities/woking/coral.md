@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /woking/coral/
-shop: bookmaker
+shop: Wettbüro
 ---

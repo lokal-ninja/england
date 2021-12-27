@@ -1,5 +1,5 @@
 ---
 title: "Coes"
 url: /ipswich/coes/
-shop: clothes
+shop: Kleidung
 ---

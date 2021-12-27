@@ -1,5 +1,5 @@
 ---
 title: "The Tanning Shop"
 url: /london/the-tanning-shop/
-shop: tanning
+shop: Gerberei
 ---

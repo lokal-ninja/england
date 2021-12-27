@@ -1,5 +1,5 @@
 ---
 title: "Headspace"
 url: /reigate/headspace/
-shop: clothes
+shop: Kleidung
 ---

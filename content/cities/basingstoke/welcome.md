@@ -1,5 +1,5 @@
 ---
 title: "Welcome"
 url: /basingstoke/welcome/
-shop: convenience
+shop: Lebensmittel
 ---

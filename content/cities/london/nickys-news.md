@@ -1,5 +1,5 @@
 ---
 title: "Nicky's News"
 url: /london/nickys-news/
-shop: convenience
+shop: Lebensmittel
 ---

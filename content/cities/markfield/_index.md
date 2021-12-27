@@ -1,6 +1,6 @@
 ---
 title: Markfield
 url: /markfield/
-latitude: 52.6866342
-longitude: -1.2742741000000002
+latitude: 52.684
+longitude: -1.273
 ---

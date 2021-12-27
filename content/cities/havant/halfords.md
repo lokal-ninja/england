@@ -1,5 +1,5 @@
 ---
 title: "Halfords"
 url: /havant/halfords/
-shop: car parts
+shop: Autoteile
 ---

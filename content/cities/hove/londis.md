@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /hove/londis/
-shop: convenience
+shop: Lebensmittel
 ---

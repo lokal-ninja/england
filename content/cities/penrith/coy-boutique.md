@@ -1,5 +1,5 @@
 ---
 title: "Coy Boutique"
 url: /penrith/coy-boutique/
-shop: clothes
+shop: Kleidung
 ---

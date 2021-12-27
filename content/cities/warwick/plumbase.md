@@ -1,5 +1,5 @@
 ---
 title: "Plumbase"
 url: /warwick/plumbase/
-shop: trade
+shop: Baustoffe
 ---

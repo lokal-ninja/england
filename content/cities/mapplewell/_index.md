@@ -1,6 +1,6 @@
 ---
 title: Mapplewell
 url: /mapplewell/
-latitude: 53.5858086
-longitude: -1.506609
+latitude: 53.585
+longitude: -1.5
 ---

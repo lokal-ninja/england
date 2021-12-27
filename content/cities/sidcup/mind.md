@@ -1,5 +1,5 @@
 ---
 title: "Mind"
 url: /sidcup/mind/
-shop: charity
+shop: Gebrauchtwaren
 ---

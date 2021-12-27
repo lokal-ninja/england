@@ -1,5 +1,5 @@
 ---
 title: "Johnsons"
 url: /devizes/johnsons/
-shop: laundry
+shop: Wäscherei
 ---

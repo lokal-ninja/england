@@ -1,6 +1,6 @@
 ---
 title: Edgware
 url: /edgware/
-latitude: 51.6108045
-longitude: -0.279305
+latitude: 51.612
+longitude: -0.281
 ---

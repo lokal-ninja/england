@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /portsmouth/betfred-4/
-shop: bookmaker
+shop: Wettbüro
 ---

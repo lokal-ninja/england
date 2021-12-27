@@ -1,6 +1,6 @@
 ---
 title: Melkinthorpe
 url: /melkinthorpe/
-latitude: 54.620181900000006
-longitude: -2.6889487
+latitude: 54.62
+longitude: -2.689
 ---

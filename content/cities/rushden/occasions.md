@@ -1,5 +1,5 @@
 ---
 title: "Occasions"
 url: /rushden/occasions/
-shop: gift
+shop: Andenken
 ---

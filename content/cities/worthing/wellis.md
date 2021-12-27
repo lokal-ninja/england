@@ -1,5 +1,5 @@
 ---
 title: "Wellis"
 url: /worthing/wellis/
-shop: bathroom
+shop: Badezimmer
 ---

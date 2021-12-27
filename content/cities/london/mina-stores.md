@@ -1,5 +1,5 @@
 ---
 title: "Mina Stores"
 url: /london/mina-stores/
-shop: convenience
+shop: Lebensmittel
 ---

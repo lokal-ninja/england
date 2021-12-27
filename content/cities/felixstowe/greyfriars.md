@@ -1,5 +1,5 @@
 ---
 title: "Greyfriars"
 url: /felixstowe/greyfriars/
-shop: carpet
+shop: Teppiche
 ---

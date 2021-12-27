@@ -1,5 +1,5 @@
 ---
 title: "Oasis"
 url: /hebden-bridge/oasis/
-shop: convenience
+shop: Lebensmittel
 ---

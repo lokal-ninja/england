@@ -1,6 +1,6 @@
 ---
 title: Par
 url: /par/
-latitude: 
-longitude: 
+latitude: 50.358
+longitude: -4.71
 ---

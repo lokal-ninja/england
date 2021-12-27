@@ -1,5 +1,5 @@
 ---
 title: "Munjila"
 url: /london/munjila/
-shop: clothes
+shop: Kleidung
 ---

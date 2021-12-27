@@ -1,5 +1,5 @@
 ---
 title: "Headmasters"
 url: /surbiton/headmasters/
-shop: hairdresser
+shop: Friseur
 ---

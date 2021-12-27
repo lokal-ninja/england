@@ -1,5 +1,5 @@
 ---
 title: "Exeter Barber Shop"
 url: /exeter/exeter-barber-shop/
-shop: hairdresser
+shop: Friseur
 ---

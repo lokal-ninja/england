@@ -1,5 +1,5 @@
 ---
 title: "ee why Service Station"
 url: /thornholme/ee-why-service-station/
-shop: convenience
+shop: Lebensmittel
 ---

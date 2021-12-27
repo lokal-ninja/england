@@ -1,5 +1,5 @@
 ---
 title: "Decade"
 url: /guildford/decade/
-shop: clothes
+shop: Kleidung
 ---

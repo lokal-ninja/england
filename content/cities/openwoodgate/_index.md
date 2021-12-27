@@ -1,6 +1,6 @@
 ---
 title: Openwoodgate
 url: /openwoodgate/
-latitude: 53.0217899
-longitude: -1.4516256
+latitude: 53.023
+longitude: -1.451
 ---

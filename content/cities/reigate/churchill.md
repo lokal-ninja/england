@@ -1,5 +1,5 @@
 ---
 title: "Churchill"
 url: /reigate/churchill/
-shop: laundry
+shop: Wäscherei
 ---

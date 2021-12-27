@@ -1,5 +1,5 @@
 ---
 title: "Budleigh Unwrapped"
 url: /budleigh-salterton/budleigh-unwrapped/
-shop: convenience
+shop: Lebensmittel
 ---

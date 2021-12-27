@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
 url: /reigate/intersport/
-shop: sports
+shop: Sport
 ---

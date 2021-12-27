@@ -1,5 +1,5 @@
 ---
 title: "Holmbush Convenience Store"
 url: /midhurst/holmbush-convenience-store/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pannus"
 url: /london/pannus/
-shop: bakery
+shop: Bäckerei
 ---

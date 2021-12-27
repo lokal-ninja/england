@@ -1,5 +1,5 @@
 ---
 title: "Rowley's Butchers"
 url: /leamington-spa/rowleys-butchers/
-shop: butcher
+shop: Metzgerei
 ---

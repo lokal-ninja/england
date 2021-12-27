@@ -1,5 +1,5 @@
 ---
 title: "Crescent Fruiterers"
 url: /london/crescent-fruiterers/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

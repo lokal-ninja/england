@@ -1,5 +1,5 @@
 ---
 title: "Headmasters"
 url: /wandsworth/headmasters/
-shop: hairdresser
+shop: Friseur
 ---

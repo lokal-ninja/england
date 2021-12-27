@@ -1,5 +1,5 @@
 ---
 title: "Hermetic and Hiswear"
 url: /margate/hermetic-and-hiswear/
-shop: clothes
+shop: Kleidung
 ---

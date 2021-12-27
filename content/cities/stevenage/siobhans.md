@@ -1,5 +1,5 @@
 ---
 title: "Siobhan's"
 url: /stevenage/siobhans/
-shop: hairdresser
+shop: Friseur
 ---

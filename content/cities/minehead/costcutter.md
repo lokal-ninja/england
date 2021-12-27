@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /minehead/costcutter/
-shop: convenience
+shop: Lebensmittel
 ---

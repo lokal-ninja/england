@@ -1,5 +1,5 @@
 ---
 title: "5 A Day"
 url: /chester-le-street/5-a-day/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

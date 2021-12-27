@@ -1,5 +1,5 @@
 ---
 title: "Greggs"
 url: /downham-market/greggs/
-shop: bakery
+shop: Bäckerei
 ---

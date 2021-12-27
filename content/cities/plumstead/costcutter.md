@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /plumstead/costcutter/
-shop: convenience
+shop: Lebensmittel
 ---

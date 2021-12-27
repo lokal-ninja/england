@@ -1,5 +1,5 @@
 ---
 title: "Caspian"
 url: /colchester/caspian/
-shop: clothes
+shop: Kleidung
 ---

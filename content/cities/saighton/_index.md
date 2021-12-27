@@ -1,6 +1,6 @@
 ---
 title: Saighton
 url: /saighton/
-latitude: 53.1521679
-longitude: -2.8340367
+latitude: 53.171
+longitude: -2.86
 ---

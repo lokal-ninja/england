@@ -1,5 +1,5 @@
 ---
 title: "Wincheap Traditional Barbers"
 url: /canterbury/wincheap-traditional-barbers/
-shop: hairdresser
+shop: Friseur
 ---

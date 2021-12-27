@@ -1,5 +1,5 @@
 ---
 title: "Bangla Store"
 url: /luton/bangla-store/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

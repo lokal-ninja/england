@@ -1,6 +1,6 @@
 ---
 title: Crosby Moor
 url: /crosby-moor/
-latitude: 
-longitude: 
+latitude: 54.931
+longitude: -2.845
 ---

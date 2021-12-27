@@ -1,6 +1,6 @@
 ---
 title: Mablethorpe
 url: /mablethorpe/
-latitude: 53.340827100000006
-longitude: 0.2606772
+latitude: 53.342
+longitude: 0.261
 ---

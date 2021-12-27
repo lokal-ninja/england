@@ -1,5 +1,5 @@
 ---
 title: "Blackwell"
 url: /canterbury/blackwell/
-shop: books
+shop: Bücher
 ---

@@ -1,6 +1,6 @@
 ---
 title: Brentwood
 url: /brentwood/
-latitude: 51.620165400000005
-longitude: 0.30186620000000003
+latitude: 51.622
+longitude: 0.306
 ---

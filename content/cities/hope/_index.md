@@ -1,6 +1,6 @@
 ---
 title: Hope
 url: /hope/
-latitude: 52.408849700000005
-longitude: -2.9155834
+latitude: 53.348
+longitude: -1.743
 ---

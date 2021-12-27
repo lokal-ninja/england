@@ -1,5 +1,5 @@
 ---
 title: "Bhavinis Newsagent"
 url: /london/bhavinis-newsagent/
-shop: newsagent
+shop: Zeitungen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vype"
 url: /peterlee/vype/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

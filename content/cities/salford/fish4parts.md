@@ -1,5 +1,5 @@
 ---
 title: "Fish4Parts"
 url: /salford/fish4parts/
-shop: trade
+shop: Baustoffe
 ---

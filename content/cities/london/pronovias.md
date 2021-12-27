@@ -1,5 +1,5 @@
 ---
 title: "Pronovias"
 url: /london/pronovias/
-shop: clothes
+shop: Kleidung
 ---

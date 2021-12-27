@@ -1,5 +1,5 @@
 ---
 title: "Hive"
 url: /leeds/hive/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nichols"
 url: /scarborough/nichols/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Warings"
 url: /reading/warings/
-shop: bakery
+shop: Bäckerei
 ---

@@ -1,6 +1,6 @@
 ---
 title: Stanway
 url: /stanway/
-latitude: 51.882731
-longitude: 0.8135122
+latitude: 51.884
+longitude: 0.814
 ---

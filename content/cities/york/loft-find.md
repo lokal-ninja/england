@@ -1,5 +1,5 @@
 ---
 title: "Loft Find"
 url: /york/loft-find/
-shop: shop
+shop: Allgemein
 ---

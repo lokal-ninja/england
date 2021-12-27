@@ -1,6 +1,6 @@
 ---
 title: Farlington, Portsmouth
 url: /farlington-portsmouth/
-latitude: 
-longitude: 
+latitude: 50.847
+longitude: -1.037
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /coniston/premier/
-shop: convenience
+shop: Lebensmittel
 ---

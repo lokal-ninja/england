@@ -1,5 +1,5 @@
 ---
 title: "Elegant Nails"
 url: /reigate/elegant-nails/
-shop: beauty
+shop: Kosmetik
 ---

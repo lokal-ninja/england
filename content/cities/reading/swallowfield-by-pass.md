@@ -1,5 +1,5 @@
 ---
 title: "Swallowfield By-pass"
 url: /reading/swallowfield-by-pass/
-shop: shop
+shop: Allgemein
 ---

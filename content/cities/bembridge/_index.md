@@ -1,6 +1,6 @@
 ---
 title: Bembridge
 url: /bembridge/
-latitude: 50.688704400000006
-longitude: -1.0849341000000001
+latitude: 50.69
+longitude: -1.089
 ---

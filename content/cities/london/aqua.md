@@ -1,5 +1,5 @@
 ---
 title: "Aqua"
 url: /london/aqua/
-shop: clothes
+shop: Kleidung
 ---

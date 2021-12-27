@@ -1,5 +1,5 @@
 ---
 title: "Bamlings"
 url: /pelaw/bamlings/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

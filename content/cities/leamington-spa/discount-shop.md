@@ -1,5 +1,5 @@
 ---
 title: "Discount Shop"
 url: /leamington-spa/discount-shop/
-shop: convenience
+shop: Lebensmittel
 ---

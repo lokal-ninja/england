@@ -1,6 +1,6 @@
 ---
 title: Oakhanger
 url: /oakhanger/
-latitude: 53.086300400000006
-longitude: -2.3543018
+latitude: 51.106
+longitude: -0.901
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Flyjack"
 url: /london/flyjack/
-shop: shoes
+shop: Schuhe
 ---

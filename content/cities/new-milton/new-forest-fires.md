@@ -1,5 +1,5 @@
 ---
 title: "New Forest Fires"
 url: /new-milton/new-forest-fires/
-shop: fireplace
+shop: Kamine & Öfen
 ---

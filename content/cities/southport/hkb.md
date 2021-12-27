@@ -1,5 +1,5 @@
 ---
 title: "HKB"
 url: /southport/hkb/
-shop: furniture
+shop: Möbel
 ---

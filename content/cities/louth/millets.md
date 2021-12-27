@@ -1,5 +1,5 @@
 ---
 title: "Millets"
 url: /louth/millets/
-shop: outdoor
+shop: Outdoor
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Co-operative Funeralcare"
 url: /south-shields/the-co-operative-funeralcare-2/
-shop: funeral directors
+shop: Bestattungen
 ---

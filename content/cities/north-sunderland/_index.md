@@ -1,6 +1,6 @@
 ---
 title: North Sunderland
 url: /north-sunderland/
-latitude: 55.5776186
-longitude: -1.666311
+latitude: 55.578
+longitude: -1.667
 ---

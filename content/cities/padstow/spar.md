@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /padstow/spar/
-shop: convenience
+shop: Lebensmittel
 ---

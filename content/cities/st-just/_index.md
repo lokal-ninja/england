@@ -1,6 +1,6 @@
 ---
 title: St Just
 url: /st-just/
-latitude: 
-longitude: 
+latitude: 50.124
+longitude: -5.68
 ---

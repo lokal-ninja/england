@@ -1,5 +1,5 @@
 ---
 title: "LIDL"
 url: /bicester/lidl/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mister"
 url: /huddersfield/mister/
-shop: hairdresser
+shop: Friseur
 ---

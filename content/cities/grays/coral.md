@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /grays/coral/
-shop: bookmaker
+shop: Wettbüro
 ---

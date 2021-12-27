@@ -1,5 +1,5 @@
 ---
 title: "Key West Glass"
 url: /sandown/key-west-glass/
-shop: shop
+shop: Allgemein
 ---

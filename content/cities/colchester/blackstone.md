@@ -1,5 +1,5 @@
 ---
 title: "Blackstone"
 url: /colchester/blackstone/
-shop: kitchen
+shop: Küchen
 ---

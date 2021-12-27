@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /birmingham/ladbrokes-4/
-shop: bookmaker
+shop: Wettbüro
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Blyth Van Centre"
 url: /blyth/blyth-van-centre/
-shop: car
+shop: Autohaus
 ---

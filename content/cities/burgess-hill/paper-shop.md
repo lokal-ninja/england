@@ -1,5 +1,5 @@
 ---
 title: "Paper Shop"
 url: /burgess-hill/paper-shop/
-shop: newsagent
+shop: Zeitungen
 ---

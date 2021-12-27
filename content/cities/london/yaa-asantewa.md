@@ -1,5 +1,5 @@
 ---
 title: "Yaa Asantewa"
 url: /london/yaa-asantewa/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

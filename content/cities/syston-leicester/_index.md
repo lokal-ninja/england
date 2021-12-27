@@ -1,6 +1,6 @@
 ---
 title: Syston, Leicester
 url: /syston-leicester/
-latitude: 
-longitude: 
+latitude: 52.698
+longitude: -1.074
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Falak"
 url: /birmingham/falak/
-shop: clothes
+shop: Kleidung
 ---

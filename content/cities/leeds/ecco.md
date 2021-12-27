@@ -1,5 +1,5 @@
 ---
 title: "Ecco"
 url: /leeds/ecco/
-shop: shoes
+shop: Schuhe
 ---

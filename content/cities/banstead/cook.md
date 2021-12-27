@@ -1,5 +1,5 @@
 ---
 title: "Cook"
 url: /banstead/cook/
-shop: convenience
+shop: Lebensmittel
 ---

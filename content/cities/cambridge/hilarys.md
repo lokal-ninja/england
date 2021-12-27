@@ -1,5 +1,5 @@
 ---
 title: "Hilary's"
 url: /cambridge/hilarys/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

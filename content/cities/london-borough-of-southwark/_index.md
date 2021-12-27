@@ -1,6 +1,6 @@
 ---
 title: London Borough of Southwark
 url: /london-borough-of-southwark/
-latitude: 
-longitude: 
+latitude: 51.473
+longitude: -0.093
 ---

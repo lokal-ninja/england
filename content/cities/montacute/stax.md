@@ -1,5 +1,5 @@
 ---
 title: "Stax"
 url: /montacute/stax/
-shop: convenience
+shop: Lebensmittel
 ---

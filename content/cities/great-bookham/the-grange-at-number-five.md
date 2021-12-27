@@ -1,5 +1,5 @@
 ---
 title: "The Grange at Number Five"
 url: /great-bookham/the-grange-at-number-five/
-shop: charity
+shop: Gebrauchtwaren
 ---

@@ -1,6 +1,6 @@
 ---
 title: Brookhouse
 url: /brookhouse/
-latitude: 53.3949228
-longitude: -1.2293070000000001
+latitude: 54.075
+longitude: -2.704
 ---

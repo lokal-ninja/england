@@ -1,5 +1,5 @@
 ---
 title: "L'Occitane en Provence"
 url: /windsor/loccitane-en-provence/
-shop: beauty
+shop: Kosmetik
 ---

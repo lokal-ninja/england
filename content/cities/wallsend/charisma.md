@@ -1,5 +1,5 @@
 ---
 title: "Charisma"
 url: /wallsend/charisma/
-shop: florist
+shop: Blumen
 ---

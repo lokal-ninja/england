@@ -1,5 +1,5 @@
 ---
 title: "Meridian Security"
 url: /horsforth/meridian-security/
-shop: locksmith
+shop: Schlüsseldienst
 ---

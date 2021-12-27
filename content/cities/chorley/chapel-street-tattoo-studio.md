@@ -1,5 +1,5 @@
 ---
 title: "Chapel Street Tattoo Studio"
 url: /chorley/chapel-street-tattoo-studio/
-shop: tattoo
+shop: Tattoo
 ---

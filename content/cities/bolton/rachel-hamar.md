@@ -1,5 +1,5 @@
 ---
 title: "Rachel Hamar"
 url: /bolton/rachel-hamar/
-shop: hairdresser
+shop: Friseur
 ---

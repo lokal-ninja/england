@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /chalgrove/londis/
-shop: convenience
+shop: Lebensmittel
 ---

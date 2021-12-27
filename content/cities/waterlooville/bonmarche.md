@@ -1,5 +1,5 @@
 ---
 title: "Bonmarché"
 url: /waterlooville/bonmarche/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Poparound"
 url: /ash/poparound/
-shop: convenience
+shop: Lebensmittel
 ---

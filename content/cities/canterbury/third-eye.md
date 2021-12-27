@@ -1,5 +1,5 @@
 ---
 title: "Third Eye"
 url: /canterbury/third-eye/
-shop: clothes
+shop: Kleidung
 ---

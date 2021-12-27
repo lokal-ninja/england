@@ -1,6 +1,6 @@
 ---
 title: Plumstead
 url: /plumstead/
-latitude: 52.869148700000004
-longitude: 1.1669158000000002
+latitude: 51.479
+longitude: 0.087
 ---

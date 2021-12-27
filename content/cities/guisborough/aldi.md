@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /guisborough/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

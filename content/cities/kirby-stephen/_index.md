@@ -1,6 +1,6 @@
 ---
 title: Kirby Stephen
 url: /kirby-stephen/
-latitude: 
-longitude: 
+latitude: 54.476
+longitude: -2.35
 ---

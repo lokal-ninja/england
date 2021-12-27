@@ -1,6 +1,6 @@
 ---
 title: Kirk Langley
 url: /kirk-langley/
-latitude: 52.9464959
-longitude: -1.5727632
+latitude: 52.947
+longitude: -1.573
 ---

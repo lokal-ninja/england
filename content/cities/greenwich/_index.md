@@ -1,6 +1,6 @@
 ---
 title: Greenwich
 url: /greenwich/
-latitude: 52.036732300000004
-longitude: 1.1689340000000001
+latitude: 51.477
+longitude: -0.01
 ---

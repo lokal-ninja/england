@@ -1,5 +1,5 @@
 ---
 title: "Hadleigh Mobility"
 url: /hadleigh/hadleigh-mobility/
-shop: shop
+shop: Allgemein
 ---

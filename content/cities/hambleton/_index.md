@@ -1,6 +1,6 @@
 ---
 title: Hambleton
 url: /hambleton/
-latitude: 53.770373000000006
-longitude: -1.1657202
+latitude: 53.77
+longitude: -1.167
 ---

@@ -1,6 +1,6 @@
 ---
 title: Oakham
 url: /oakham/
-latitude: 
-longitude: 
+latitude: 52.671
+longitude: -0.736
 ---

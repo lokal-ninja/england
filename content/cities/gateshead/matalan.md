@@ -1,5 +1,5 @@
 ---
 title: "Matalan"
 url: /gateshead/matalan/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Indulgence"
 url: /swanland/indulgence/
-shop: confectionery
+shop: Süßwaren
 ---

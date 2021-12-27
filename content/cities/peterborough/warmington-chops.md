@@ -1,5 +1,5 @@
 ---
 title: "Warmington Chops"
 url: /peterborough/warmington-chops/
-shop: butcher
+shop: Metzgerei
 ---

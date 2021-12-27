@@ -1,5 +1,5 @@
 ---
 title: "Vacant"
 url: /colchester/vacant/
-shop: shop
+shop: Allgemein
 ---

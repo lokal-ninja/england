@@ -1,5 +1,5 @@
 ---
 title: "Peacocks"
 url: /whitehaven/peacocks/
-shop: clothes
+shop: Kleidung
 ---

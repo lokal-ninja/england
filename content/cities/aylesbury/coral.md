@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /aylesbury/coral/
-shop: bookmaker
+shop: Wettbüro
 ---

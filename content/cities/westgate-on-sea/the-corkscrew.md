@@ -1,5 +1,5 @@
 ---
 title: "The Corkscrew"
 url: /westgate-on-sea/the-corkscrew/
-shop: alcohol
+shop: Spirituosen
 ---

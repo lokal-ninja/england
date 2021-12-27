@@ -1,6 +1,6 @@
 ---
 title: North Cave
 url: /north-cave/
-latitude: 53.779878200000006
-longitude: -0.6453522
+latitude: 53.773
+longitude: -0.651
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Diss Publishing Co"
 url: /diss/diss-publishing-co/
-shop: books
+shop: Bücher
 ---

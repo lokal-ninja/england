@@ -1,5 +1,5 @@
 ---
 title: "Sklep Grosik"
 url: /banbury/sklep-grosik/
-shop: supermarket
+shop: Supermarkt
 ---

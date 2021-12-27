@@ -1,6 +1,6 @@
 ---
 title: Bledington
 url: /bledington/
-latitude: 51.903265100000006
-longitude: -1.6459508
+latitude: 51.902
+longitude: -1.643
 ---

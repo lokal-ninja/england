@@ -1,5 +1,5 @@
 ---
 title: "Enchanted Galaxy"
 url: /york/enchanted-galaxy/
-shop: gift
+shop: Andenken
 ---

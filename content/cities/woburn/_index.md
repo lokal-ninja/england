@@ -1,6 +1,6 @@
 ---
 title: Woburn
 url: /woburn/
-latitude: 52.544534500000005
-longitude: 1.7292312
+latitude: 51.989
+longitude: -0.619
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lord"
 url: /winchester/lord/
-shop: hairdresser
+shop: Friseur
 ---

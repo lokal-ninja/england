@@ -1,6 +1,6 @@
 ---
 title: West Oxfordshire
 url: /west-oxfordshire/
-latitude: 
-longitude: 
+latitude: 51.764
+longitude: -1.582
 ---

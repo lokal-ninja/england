@@ -1,6 +1,6 @@
 ---
 title: Askham
 url: /askham/
-latitude: 53.2662653
-longitude: -0.8918961000000001
+latitude: 54.606
+longitude: -2.755
 ---

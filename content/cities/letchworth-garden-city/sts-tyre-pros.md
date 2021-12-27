@@ -1,5 +1,5 @@
 ---
 title: "STS Tyre Pros"
 url: /letchworth-garden-city/sts-tyre-pros/
-shop: tyres
+shop: Reifen
 ---

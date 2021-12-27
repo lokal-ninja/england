@@ -1,6 +1,6 @@
 ---
 title: Sheerness
 url: /sheerness/
-latitude: 51.4391704
-longitude: 0.7585715000000001
+latitude: 51.441
+longitude: 0.76
 ---

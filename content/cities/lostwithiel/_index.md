@@ -1,6 +1,6 @@
 ---
 title: Lostwithiel
 url: /lostwithiel/
-latitude: 50.407478000000005
-longitude: -4.6678178
+latitude: 50.407
+longitude: -4.67
 ---

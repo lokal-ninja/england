@@ -1,5 +1,5 @@
 ---
 title: "Scruples"
 url: /kexbrough/scruples/
-shop: hairdresser
+shop: Friseur
 ---

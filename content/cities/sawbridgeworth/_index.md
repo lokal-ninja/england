@@ -1,6 +1,6 @@
 ---
 title: Sawbridgeworth
 url: /sawbridgeworth/
-latitude: 
-longitude: 
+latitude: 51.815
+longitude: 0.148
 ---

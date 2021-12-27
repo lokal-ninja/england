@@ -1,5 +1,5 @@
 ---
 title: "WRIGHTPART"
 url: /norwich/wrightpart/
-shop: hardware
+shop: Eisenwaren
 ---

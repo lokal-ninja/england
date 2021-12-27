@@ -1,5 +1,5 @@
 ---
 title: "Chop Shop Barbers"
 url: /jarrow/chop-shop-barbers/
-shop: hairdresser
+shop: Friseur
 ---

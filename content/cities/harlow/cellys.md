@@ -1,5 +1,5 @@
 ---
 title: "Celly's"
 url: /harlow/cellys/
-shop: hairdresser
+shop: Friseur
 ---

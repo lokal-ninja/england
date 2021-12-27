@@ -1,5 +1,5 @@
 ---
 title: "Mace"
 url: /kidlington/mace/
-shop: convenience
+shop: Lebensmittel
 ---

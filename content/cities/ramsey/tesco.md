@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /ramsey/tesco/
-shop: supermarket
+shop: Supermarkt
 ---

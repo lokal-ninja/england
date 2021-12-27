@@ -1,5 +1,5 @@
 ---
 title: "Cuckoo"
 url: /horsham/cuckoo/
-shop: clothes
+shop: Kleidung
 ---

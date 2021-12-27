@@ -1,6 +1,6 @@
 ---
 title: Greystoke
 url: /greystoke/
-latitude: 54.6699902
-longitude: -2.867967
+latitude: 54.669
+longitude: -2.869
 ---

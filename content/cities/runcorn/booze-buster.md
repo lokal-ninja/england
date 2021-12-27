@@ -1,5 +1,5 @@
 ---
 title: "Booze Buster"
 url: /runcorn/booze-buster/
-shop: alcohol
+shop: Spirituosen
 ---

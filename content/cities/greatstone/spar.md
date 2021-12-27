@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /greatstone/spar/
-shop: convenience
+shop: Lebensmittel
 ---

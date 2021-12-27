@@ -1,6 +1,6 @@
 ---
 title: Harringay, London
 url: /harringay-london/
-latitude: 
-longitude: 
+latitude: 51.582
+longitude: -0.1
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /elm-park/savers/
-shop: supermarket
+shop: Supermarkt
 ---

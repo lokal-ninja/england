@@ -1,5 +1,5 @@
 ---
 title: "VCA Furniture"
 url: /london/vca-furniture/
-shop: furniture
+shop: Möbel
 ---

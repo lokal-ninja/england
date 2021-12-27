@@ -1,5 +1,5 @@
 ---
 title: "Eureka"
 url: /london/eureka-2/
-shop: kitchen
+shop: Küchen
 ---

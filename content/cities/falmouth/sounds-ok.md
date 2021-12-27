@@ -1,5 +1,5 @@
 ---
 title: "sounds ok"
 url: /falmouth/sounds-ok/
-shop: music
+shop: Musik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cuts 'n' Clippers"
 url: /tamworth/cuts-n-clippers/
-shop: hairdresser
+shop: Friseur
 ---

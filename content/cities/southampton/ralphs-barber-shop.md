@@ -1,5 +1,5 @@
 ---
 title: "Ralph's Barber Shop"
 url: /southampton/ralphs-barber-shop/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,6 +1,6 @@
 ---
 title: Skipton
 url: /skipton/
-latitude: 53.9618497
-longitude: -2.0160287
+latitude: 53.962
+longitude: -2.015
 ---

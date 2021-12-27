@@ -1,5 +1,5 @@
 ---
 title: "Herbivore"
 url: /sidcup/herbivore/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

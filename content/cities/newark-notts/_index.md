@@ -1,6 +1,6 @@
 ---
 title: Newark, Notts
 url: /newark-notts/
-latitude: 
-longitude: 
+latitude: 53.019
+longitude: -0.701
 ---

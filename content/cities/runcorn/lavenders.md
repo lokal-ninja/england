@@ -1,5 +1,5 @@
 ---
 title: "Lavenders"
 url: /runcorn/lavenders/
-shop: beauty
+shop: Kosmetik
 ---

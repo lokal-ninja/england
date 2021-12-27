@@ -1,5 +1,5 @@
 ---
 title: "Kloudz"
 url: /clacton-on-sea/kloudz/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
 url: /wellingborough/wilko/
-shop: variety store
+shop: Kramladen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
 url: /peterlee/wilko/
-shop: variety store
+shop: Kramladen
 ---

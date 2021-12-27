@@ -1,5 +1,5 @@
 ---
 title: "Deichmann"
 url: /blackburn/deichmann/
-shop: shoes
+shop: Schuhe
 ---

@@ -1,6 +1,6 @@
 ---
 title: Uppingham
 url: /uppingham/
-latitude: 52.5887243
-longitude: -0.7234249
+latitude: 52.589
+longitude: -0.721
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Timpson"
 url: /tewkesbury/timpson/
-shop: locksmith
+shop: Schlüsseldienst
 ---

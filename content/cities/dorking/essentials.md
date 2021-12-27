@@ -1,5 +1,5 @@
 ---
 title: "Essentials"
 url: /dorking/essentials/
-shop: hairdresser
+shop: Friseur
 ---

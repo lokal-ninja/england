@@ -1,5 +1,5 @@
 ---
 title: "3B Records"
 url: /liverpool/3b-records/
-shop: music
+shop: Musik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Quaff"
 url: /brighton/quaff/
-shop: wine
+shop: Wein
 ---

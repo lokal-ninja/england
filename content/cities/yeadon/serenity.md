@@ -1,5 +1,5 @@
 ---
 title: "Serenity"
 url: /yeadon/serenity/
-shop: beauty
+shop: Kosmetik
 ---

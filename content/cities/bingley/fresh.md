@@ -1,5 +1,5 @@
 ---
 title: "fresh"
 url: /bingley/fresh/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

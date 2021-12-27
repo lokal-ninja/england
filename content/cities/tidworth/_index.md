@@ -1,6 +1,6 @@
 ---
 title: Tidworth
 url: /tidworth/
-latitude: 51.2447456
-longitude: -1.6638893000000001
+latitude: 51.234
+longitude: -1.661
 ---

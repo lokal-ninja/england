@@ -1,5 +1,5 @@
 ---
 title: "Bark Lane"
 url: /swanley/bark-lane/
-shop: pet grooming
+shop: Tiersalon
 ---

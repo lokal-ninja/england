@@ -1,6 +1,6 @@
 ---
 title: Orsett
 url: /orsett/
-latitude: 51.5116644
-longitude: 0.3674076
+latitude: 51.51
+longitude: 0.397
 ---

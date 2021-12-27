@@ -1,5 +1,5 @@
 ---
 title: "Magnolia"
 url: /banstead/magnolia/
-shop: clothes
+shop: Kleidung
 ---

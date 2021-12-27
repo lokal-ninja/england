@@ -1,5 +1,5 @@
 ---
 title: "Bottle Green Off Licence"
 url: /barking/bottle-green-off-licence/
-shop: alcohol
+shop: Spirituosen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hardy"
 url: /morpeth/hardy/
-shop: florist
+shop: Blumen
 ---

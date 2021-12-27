@@ -1,5 +1,5 @@
 ---
 title: "Thrifty's"
 url: /runcorn/thriftys/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Morrisons"
 url: /aldershot/morrisons/
-shop: supermarket
+shop: Supermarkt
 ---

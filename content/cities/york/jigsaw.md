@@ -1,5 +1,5 @@
 ---
 title: "Jigsaw"
 url: /york/jigsaw/
-shop: clothes
+shop: Kleidung
 ---

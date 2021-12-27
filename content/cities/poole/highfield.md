@@ -1,5 +1,5 @@
 ---
 title: "Highfield"
 url: /poole/highfield/
-shop: glaziery
+shop: Glaserei
 ---

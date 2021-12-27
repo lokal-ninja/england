@@ -1,5 +1,5 @@
 ---
 title: "Londis Ayston Road"
 url: /braunstone-town/londis-ayston-road/
-shop: convenience
+shop: Lebensmittel
 ---

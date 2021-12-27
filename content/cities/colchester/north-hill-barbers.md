@@ -1,5 +1,5 @@
 ---
 title: "North Hill Barbers"
 url: /colchester/north-hill-barbers/
-shop: hairdresser
+shop: Friseur
 ---

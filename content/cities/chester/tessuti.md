@@ -1,5 +1,5 @@
 ---
 title: "Tessuti"
 url: /chester/tessuti/
-shop: clothes
+shop: Kleidung
 ---

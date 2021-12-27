@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /morecambe/asda/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Stainton Wines"
 url: /kendal/stainton-wines/
-shop: wine
+shop: Wein
 ---

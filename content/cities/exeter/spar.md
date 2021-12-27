@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /exeter/spar/
-shop: convenience
+shop: Lebensmittel
 ---

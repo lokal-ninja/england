@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /chorley/premier/
-shop: convenience
+shop: Lebensmittel
 ---

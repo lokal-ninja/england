@@ -1,5 +1,5 @@
 ---
 title: "Stevensons"
 url: /st-albans/stevensons/
-shop: clothes
+shop: Kleidung
 ---

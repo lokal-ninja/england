@@ -1,5 +1,5 @@
 ---
 title: "Spennymoor Tyre Centre"
 url: /spennymoor/spennymoor-tyre-centre/
-shop: car repair
+shop: Autowerkstatt
 ---

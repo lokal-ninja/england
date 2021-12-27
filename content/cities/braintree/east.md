@@ -1,5 +1,5 @@
 ---
 title: "East"
 url: /braintree/east/
-shop: clothes
+shop: Kleidung
 ---

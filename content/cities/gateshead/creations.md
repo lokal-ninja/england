@@ -1,5 +1,5 @@
 ---
 title: "Creations"
 url: /gateshead/creations/
-shop: hairdresser
+shop: Friseur
 ---

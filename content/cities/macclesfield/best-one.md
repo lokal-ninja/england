@@ -1,5 +1,5 @@
 ---
 title: "Best-one"
 url: /macclesfield/best-one/
-shop: convenience
+shop: Lebensmittel
 ---

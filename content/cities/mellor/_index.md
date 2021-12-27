@@ -1,6 +1,6 @@
 ---
 title: Mellor
 url: /mellor/
-latitude: 53.773972500000006
-longitude: -2.5278117
+latitude: 53.771
+longitude: -2.527
 ---

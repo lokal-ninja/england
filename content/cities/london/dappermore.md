@@ -1,5 +1,5 @@
 ---
 title: "Dappermore"
 url: /london/dappermore/
-shop: hairdresser
+shop: Friseur
 ---

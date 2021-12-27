@@ -1,6 +1,6 @@
 ---
 title: Kilsby
 url: /kilsby/
-latitude: 52.334981400000004
-longitude: -1.1773932
+latitude: 52.336
+longitude: -1.18
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Marv's"
 url: /croydon/marvs/
-shop: newsagent
+shop: Zeitungen
 ---

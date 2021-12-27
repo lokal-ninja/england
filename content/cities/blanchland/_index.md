@@ -1,6 +1,6 @@
 ---
 title: Blanchland
 url: /blanchland/
-latitude: 54.847855800000005
-longitude: -2.0547425
+latitude: 54.849
+longitude: -2.055
 ---

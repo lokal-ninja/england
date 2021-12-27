@@ -1,6 +1,6 @@
 ---
 title: Southsea, Portsmouth
 url: /southsea-portsmouth/
-latitude: 
-longitude: 
+latitude: 50.796
+longitude: -1.059
 ---

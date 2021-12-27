@@ -1,6 +1,6 @@
 ---
 title: Neston
 url: /neston/
-latitude: 53.290517200000004
-longitude: -3.0637920000000003
+latitude: 53.29
+longitude: -3.063
 ---

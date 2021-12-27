@@ -1,6 +1,6 @@
 ---
 title: Heaves
 url: /heaves/
-latitude: 54.2746184
-longitude: -2.7719276
+latitude: 54.274
+longitude: -2.773
 ---

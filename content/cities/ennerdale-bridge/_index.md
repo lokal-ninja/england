@@ -1,6 +1,6 @@
 ---
 title: Ennerdale Bridge
 url: /ennerdale-bridge/
-latitude: 54.529196500000005
-longitude: -3.4391367
+latitude: 54.529
+longitude: -3.443
 ---

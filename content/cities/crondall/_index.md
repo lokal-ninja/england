@@ -1,6 +1,6 @@
 ---
 title: Crondall
 url: /crondall/
-latitude: 51.2323461
-longitude: -0.8618675
+latitude: 51.234
+longitude: -0.862
 ---

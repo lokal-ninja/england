@@ -1,5 +1,5 @@
 ---
 title: "Mothercare"
 url: /havant/mothercare/
-shop: clothes
+shop: Kleidung
 ---

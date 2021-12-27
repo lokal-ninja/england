@@ -1,5 +1,5 @@
 ---
 title: "Nourish"
 url: /belper/nourish/
-shop: gift
+shop: Andenken
 ---

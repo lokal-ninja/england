@@ -1,5 +1,5 @@
 ---
 title: "Enarsha"
 url: /cambridge/enarsha/
-shop: shop
+shop: Allgemein
 ---

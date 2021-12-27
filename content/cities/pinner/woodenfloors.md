@@ -1,5 +1,5 @@
 ---
 title: "Woodenfloors"
 url: /pinner/woodenfloors/
-shop: houseware
+shop: Haushaltsartikel
 ---

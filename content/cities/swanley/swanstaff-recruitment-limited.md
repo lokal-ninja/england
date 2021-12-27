@@ -1,5 +1,5 @@
 ---
 title: "Swanstaff Recruitment Limited"
 url: /swanley/swanstaff-recruitment-limited/
-shop: shop
+shop: Allgemein
 ---

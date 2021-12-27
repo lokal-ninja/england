@@ -1,5 +1,5 @@
 ---
 title: "Blundell Road Convenience Store"
 url: /luton/blundell-road-convenience-store/
-shop: convenience
+shop: Lebensmittel
 ---

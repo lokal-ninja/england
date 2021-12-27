@@ -1,5 +1,5 @@
 ---
 title: "McColl's"
 url: /portsmouth/mccolls-2/
-shop: convenience
+shop: Lebensmittel
 ---

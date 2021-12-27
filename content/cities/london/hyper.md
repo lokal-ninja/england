@@ -1,5 +1,5 @@
 ---
 title: "Hyper"
 url: /london/hyper/
-shop: hairdresser
+shop: Friseur
 ---

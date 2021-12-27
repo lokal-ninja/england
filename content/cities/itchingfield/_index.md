@@ -1,6 +1,6 @@
 ---
 title: Itchingfield
 url: /itchingfield/
-latitude: 51.046889
-longitude: -0.3860192
+latitude: 51.049
+longitude: -0.379
 ---

@@ -1,5 +1,5 @@
 ---
 title: "RSPCA"
 url: /bognor-regis/rspca/
-shop: charity
+shop: Gebrauchtwaren
 ---

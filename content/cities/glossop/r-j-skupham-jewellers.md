@@ -1,5 +1,5 @@
 ---
 title: "R.J. Skupham Jewellers"
 url: /glossop/r-j-skupham-jewellers/
-shop: jewelry
+shop: Schmuck
 ---

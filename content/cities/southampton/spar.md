@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /southampton/spar/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,6 +1,6 @@
 ---
 title: Havant
 url: /havant/
-latitude: 50.851935100000006
-longitude: -0.9821263
+latitude: 50.852
+longitude: -0.981
 ---

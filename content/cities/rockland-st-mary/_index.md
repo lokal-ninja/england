@@ -1,6 +1,6 @@
 ---
 title: Rockland St. Mary
 url: /rockland-st-mary/
-latitude: 
-longitude: 
+latitude: 52.587
+longitude: 1.397
 ---

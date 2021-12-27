@@ -1,5 +1,5 @@
 ---
 title: "Rusbridge"
 url: /tunbridge-wells/rusbridge/
-shop: bakery
+shop: Bäckerei
 ---

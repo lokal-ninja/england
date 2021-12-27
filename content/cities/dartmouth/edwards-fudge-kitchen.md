@@ -1,5 +1,5 @@
 ---
 title: "Edward's Fudge Kitchen"
 url: /dartmouth/edwards-fudge-kitchen/
-shop: confectionery
+shop: Süßwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Peacocks"
 url: /london/peacocks/
-shop: clothes
+shop: Kleidung
 ---

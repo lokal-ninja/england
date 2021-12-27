@@ -1,5 +1,5 @@
 ---
 title: "Peacocks"
 url: /guildford/peacocks/
-shop: convenience
+shop: Lebensmittel
 ---

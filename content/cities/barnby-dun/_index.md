@@ -1,6 +1,6 @@
 ---
 title: Barnby Dun
 url: /barnby-dun/
-latitude: 53.576804200000005
-longitude: -1.0651089
+latitude: 53.577
+longitude: -1.072
 ---

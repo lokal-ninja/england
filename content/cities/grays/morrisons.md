@@ -1,5 +1,5 @@
 ---
 title: "Morrisons"
 url: /grays/morrisons/
-shop: supermarket
+shop: Supermarkt
 ---

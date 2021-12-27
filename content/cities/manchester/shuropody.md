@@ -1,5 +1,5 @@
 ---
 title: "Shuropody"
 url: /manchester/shuropody/
-shop: shop
+shop: Allgemein
 ---

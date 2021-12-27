@@ -1,5 +1,5 @@
 ---
 title: "Yours Clothing"
 url: /broadstairs/yours-clothing/
-shop: clothes
+shop: Kleidung
 ---

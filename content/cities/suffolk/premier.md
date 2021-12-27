@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /suffolk/premier/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /keighley/spar/
-shop: convenience
+shop: Lebensmittel
 ---

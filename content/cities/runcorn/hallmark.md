@@ -1,5 +1,5 @@
 ---
 title: "Hallmark"
 url: /runcorn/hallmark/
-shop: gift
+shop: Andenken
 ---

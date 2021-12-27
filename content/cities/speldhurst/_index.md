@@ -1,6 +1,6 @@
 ---
 title: Speldhurst
 url: /speldhurst/
-latitude: 51.153141000000005
-longitude: 0.21762510000000002
+latitude: 51.152
+longitude: 0.217
 ---

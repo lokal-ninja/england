@@ -1,5 +1,5 @@
 ---
 title: "Blacklock Carpets"
 url: /nottingham/blacklock-carpets/
-shop: carpet
+shop: Teppiche
 ---

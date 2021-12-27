@@ -1,5 +1,5 @@
 ---
 title: "Dreams"
 url: /birmingham/dreams/
-shop: bed
+shop: Betten
 ---

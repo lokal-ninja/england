@@ -1,5 +1,5 @@
 ---
 title: "Longhorn"
 url: /kendal/longhorn/
-shop: hardware
+shop: Eisenwaren
 ---

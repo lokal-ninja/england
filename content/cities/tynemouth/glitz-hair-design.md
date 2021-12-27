@@ -1,5 +1,5 @@
 ---
 title: "Glitz Hair Design"
 url: /tynemouth/glitz-hair-design/
-shop: hairdresser
+shop: Friseur
 ---

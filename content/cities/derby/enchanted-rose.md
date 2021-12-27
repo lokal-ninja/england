@@ -1,5 +1,5 @@
 ---
 title: "Enchanted Rose"
 url: /derby/enchanted-rose/
-shop: florist
+shop: Blumen
 ---

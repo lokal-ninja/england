@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /maldon/whsmith/
-shop: newsagent
+shop: Zeitungen
 ---

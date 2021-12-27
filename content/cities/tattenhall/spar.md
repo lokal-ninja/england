@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /tattenhall/spar/
-shop: convenience
+shop: Lebensmittel
 ---

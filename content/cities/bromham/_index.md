@@ -1,6 +1,6 @@
 ---
 title: Bromham
 url: /bromham/
-latitude: 51.3875662
-longitude: -2.0489689
+latitude: 52.145
+longitude: -0.533
 ---

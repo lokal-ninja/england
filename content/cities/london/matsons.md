@@ -1,5 +1,5 @@
 ---
 title: "Matsons"
 url: /london/matsons/
-shop: newsagent
+shop: Zeitungen
 ---

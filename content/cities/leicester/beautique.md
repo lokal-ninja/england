@@ -1,5 +1,5 @@
 ---
 title: "Beautique"
 url: /leicester/beautique/
-shop: hairdresser
+shop: Friseur
 ---

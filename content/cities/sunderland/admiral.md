@@ -1,5 +1,5 @@
 ---
 title: "Admiral"
 url: /sunderland/admiral/
-shop: shop
+shop: Allgemein
 ---

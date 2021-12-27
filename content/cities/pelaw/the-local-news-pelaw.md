@@ -1,5 +1,5 @@
 ---
 title: "The Local News - Pelaw"
 url: /pelaw/the-local-news-pelaw/
-shop: newsagent
+shop: Zeitungen
 ---

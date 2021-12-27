@@ -1,5 +1,5 @@
 ---
 title: "West Cornwall Pasty Co."
 url: /guildford/west-cornwall-pasty-co/
-shop: bakery
+shop: Bäckerei
 ---

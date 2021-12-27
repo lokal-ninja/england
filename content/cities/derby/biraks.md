@@ -1,5 +1,5 @@
 ---
 title: "Biraks"
 url: /derby/biraks/
-shop: convenience
+shop: Lebensmittel
 ---

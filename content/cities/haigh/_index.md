@@ -1,6 +1,6 @@
 ---
 title: Haigh
 url: /haigh/
-latitude: 53.5762894
-longitude: -2.5921371
+latitude: 53.576
+longitude: -2.595
 ---

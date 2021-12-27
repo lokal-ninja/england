@@ -1,5 +1,5 @@
 ---
 title: "Q Gentlemens Barbers"
 url: /york/q-gentlemens-barbers/
-shop: hairdresser
+shop: Friseur
 ---

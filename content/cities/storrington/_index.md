@@ -1,6 +1,6 @@
 ---
 title: Storrington
 url: /storrington/
-latitude: 50.9184454
-longitude: -0.45555
+latitude: 50.918
+longitude: -0.454
 ---

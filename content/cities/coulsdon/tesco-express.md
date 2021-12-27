@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /coulsdon/tesco-express/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Beauty Box"
 url: /battle/the-beauty-box/
-shop: beauty
+shop: Kosmetik
 ---

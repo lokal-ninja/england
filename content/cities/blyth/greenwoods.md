@@ -1,5 +1,5 @@
 ---
 title: "Greenwoods"
 url: /blyth/greenwoods/
-shop: clothes
+shop: Kleidung
 ---

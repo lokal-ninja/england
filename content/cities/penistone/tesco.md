@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /penistone/tesco/
-shop: supermarket
+shop: Supermarkt
 ---

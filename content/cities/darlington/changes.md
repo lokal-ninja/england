@@ -1,5 +1,5 @@
 ---
 title: "Changes"
 url: /darlington/changes/
-shop: hairdresser
+shop: Friseur
 ---

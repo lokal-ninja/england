@@ -1,6 +1,6 @@
 ---
 title: Heybridge
 url: /heybridge/
-latitude: 51.742328300000004
-longitude: 0.6913195000000001
+latitude: 51.743
+longitude: 0.696
 ---

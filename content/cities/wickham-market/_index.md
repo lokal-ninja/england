@@ -1,6 +1,6 @@
 ---
 title: Wickham Market
 url: /wickham-market/
-latitude: 52.1527229
-longitude: 1.3629945
+latitude: 52.152
+longitude: 1.363
 ---

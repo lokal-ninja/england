@@ -1,5 +1,5 @@
 ---
 title: "Harrington Road Minimarket"
 url: /kettering/harrington-road-minimarket/
-shop: convenience
+shop: Lebensmittel
 ---

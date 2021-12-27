@@ -1,6 +1,6 @@
 ---
 title: Old Hutton
 url: /old-hutton/
-latitude: 54.2918091
-longitude: -2.6792313
+latitude: 54.289
+longitude: -2.656
 ---

@@ -1,6 +1,6 @@
 ---
 title: Uckfield
 url: /uckfield/
-latitude: 50.9709535
-longitude: 0.09632790000000001
+latitude: 50.956
+longitude: 0.098
 ---

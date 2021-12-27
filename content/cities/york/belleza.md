@@ -1,5 +1,5 @@
 ---
 title: "Belleza"
 url: /york/belleza/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,6 +1,6 @@
 ---
 title: Middlesborough
 url: /middlesborough/
-latitude: 
-longitude: 
+latitude: 54.525
+longitude: -1.216
 ---

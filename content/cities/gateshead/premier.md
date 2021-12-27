@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /gateshead/premier/
-shop: convenience
+shop: Lebensmittel
 ---

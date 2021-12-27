@@ -1,6 +1,6 @@
 ---
 title: Hellifield
 url: /hellifield/
-latitude: 54.0058317
-longitude: -2.221293
+latitude: 54.006
+longitude: -2.229
 ---

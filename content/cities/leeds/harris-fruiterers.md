@@ -1,5 +1,5 @@
 ---
 title: "Harris Fruiterers"
 url: /leeds/harris-fruiterers/
-shop: vacant
+shop: Leerstehend
 ---

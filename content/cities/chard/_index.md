@@ -1,6 +1,6 @@
 ---
 title: Chard
 url: /chard/
-latitude: 50.8736728
-longitude: -2.9597425000000004
+latitude: 50.874
+longitude: -2.954
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /oakham/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

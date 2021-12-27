@@ -1,6 +1,6 @@
 ---
 title: Taverham
 url: /taverham/
-latitude: 52.681150800000005
-longitude: 1.1942478
+latitude: 52.685
+longitude: 1.202
 ---

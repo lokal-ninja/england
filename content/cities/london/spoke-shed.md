@@ -1,5 +1,5 @@
 ---
 title: "Spoke Shed"
 url: /london/spoke-shed/
-shop: bicycle
+shop: Fahrrad
 ---

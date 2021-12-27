@@ -1,5 +1,5 @@
 ---
 title: "OneStop"
 url: /clifton/onestop/
-shop: convenience
+shop: Lebensmittel
 ---

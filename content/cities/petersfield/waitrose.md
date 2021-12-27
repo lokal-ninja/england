@@ -1,5 +1,5 @@
 ---
 title: "Waitrose"
 url: /petersfield/waitrose/
-shop: supermarket
+shop: Supermarkt
 ---

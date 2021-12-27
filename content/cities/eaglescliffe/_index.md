@@ -1,6 +1,6 @@
 ---
 title: Eaglescliffe
 url: /eaglescliffe/
-latitude: 54.5313007
-longitude: -1.3483509
+latitude: 54.53
+longitude: -1.349
 ---

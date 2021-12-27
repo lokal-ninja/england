@@ -1,5 +1,5 @@
 ---
 title: "Guitarguitar"
 url: /newcastle-upon-tyne/guitarguitar/
-shop: musical instrument
+shop: Instrumente
 ---

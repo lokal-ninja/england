@@ -1,5 +1,5 @@
 ---
 title: "Empire Exchange"
 url: /manchester/empire-exchange/
-shop: pawnbroker
+shop: Leiher
 ---

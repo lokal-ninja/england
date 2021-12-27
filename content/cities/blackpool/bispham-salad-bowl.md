@@ -1,5 +1,5 @@
 ---
 title: "Bispham Salad Bowl"
 url: /blackpool/bispham-salad-bowl/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hargroves"
 url: /southampton/hargroves/
-shop: bicycle
+shop: Fahrrad
 ---

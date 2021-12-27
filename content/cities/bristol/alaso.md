@@ -1,5 +1,5 @@
 ---
 title: "Alaso"
 url: /bristol/alaso/
-shop: butcher
+shop: Metzgerei
 ---

@@ -1,6 +1,6 @@
 ---
 title: Amesbury, Salisbury
 url: /amesbury-salisbury/
-latitude: 
-longitude: 
+latitude: 51.172
+longitude: -1.781
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /kendal/londis/
-shop: convenience
+shop: Lebensmittel
 ---

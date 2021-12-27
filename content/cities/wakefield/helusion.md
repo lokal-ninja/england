@@ -1,5 +1,5 @@
 ---
 title: "Helusion"
 url: /wakefield/helusion/
-shop: tattoo
+shop: Tattoo
 ---

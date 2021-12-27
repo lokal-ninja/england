@@ -1,5 +1,5 @@
 ---
 title: "Emesa"
 url: /kettering/emesa/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

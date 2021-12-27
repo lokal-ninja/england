@@ -1,5 +1,5 @@
 ---
 title: "HTAFCmegastore"
 url: /huddersfield/htafcmegastore/
-shop: sports
+shop: Sport
 ---

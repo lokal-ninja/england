@@ -1,5 +1,5 @@
 ---
 title: "Amplifon"
 url: /cambridge/amplifon/
-shop: shop
+shop: Allgemein
 ---

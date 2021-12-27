@@ -1,5 +1,5 @@
 ---
 title: "A. H. Mortley Opticians"
 url: /margate/a-h-mortley-opticians/
-shop: optician
+shop: Optiker
 ---

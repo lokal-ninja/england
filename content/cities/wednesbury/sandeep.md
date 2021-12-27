@@ -1,5 +1,5 @@
 ---
 title: "Sandeep"
 url: /wednesbury/sandeep/
-shop: hairdresser
+shop: Friseur
 ---

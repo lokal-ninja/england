@@ -1,5 +1,5 @@
 ---
 title: "Paxton and Thomas"
 url: /norwich/paxton-and-thomas/
-shop: optician
+shop: Optiker
 ---

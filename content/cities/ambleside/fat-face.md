@@ -1,5 +1,5 @@
 ---
 title: "Fat Face"
 url: /ambleside/fat-face/
-shop: clothes
+shop: Kleidung
 ---

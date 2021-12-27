@@ -1,6 +1,6 @@
 ---
 title: Stainforth
 url: /stainforth/
-latitude: 53.596036100000006
-longitude: -1.0279463
+latitude: 53.59
+longitude: -1.028
 ---

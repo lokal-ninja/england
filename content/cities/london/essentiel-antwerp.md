@@ -1,5 +1,5 @@
 ---
 title: "Essentiel Antwerp"
 url: /london/essentiel-antwerp/
-shop: clothes
+shop: Kleidung
 ---

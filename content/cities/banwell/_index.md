@@ -1,6 +1,6 @@
 ---
 title: Banwell
 url: /banwell/
-latitude: 51.327976400000004
-longitude: -2.8629427
+latitude: 51.323
+longitude: -2.855
 ---

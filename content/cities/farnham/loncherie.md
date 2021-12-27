@@ -1,5 +1,5 @@
 ---
 title: "Loncherie"
 url: /farnham/loncherie/
-shop: clothes
+shop: Kleidung
 ---

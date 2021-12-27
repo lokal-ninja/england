@@ -1,5 +1,5 @@
 ---
 title: "Fourways"
 url: /northampton/fourways/
-shop: newsagent
+shop: Zeitungen
 ---

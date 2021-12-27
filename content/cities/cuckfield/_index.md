@@ -1,6 +1,6 @@
 ---
 title: Cuckfield
 url: /cuckfield/
-latitude: 
-longitude: 
+latitude: 51.006
+longitude: -0.143
 ---

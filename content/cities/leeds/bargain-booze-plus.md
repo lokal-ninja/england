@@ -1,5 +1,5 @@
 ---
 title: "Bargain Booze Plus"
 url: /leeds/bargain-booze-plus/
-shop: alcohol
+shop: Spirituosen
 ---

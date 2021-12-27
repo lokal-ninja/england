@@ -1,6 +1,6 @@
 ---
 title: Rawmarsh
 url: /rawmarsh/
-latitude: 53.4598936
-longitude: -1.3376657
+latitude: 53.46
+longitude: -1.344
 ---

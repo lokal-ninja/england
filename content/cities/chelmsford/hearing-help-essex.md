@@ -1,5 +1,5 @@
 ---
 title: "Hearing Help Essex"
 url: /chelmsford/hearing-help-essex/
-shop: hearing aids
+shop: Hörgeräte
 ---

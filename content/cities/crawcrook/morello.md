@@ -1,5 +1,5 @@
 ---
 title: "Morello"
 url: /crawcrook/morello/
-shop: hairdresser
+shop: Friseur
 ---

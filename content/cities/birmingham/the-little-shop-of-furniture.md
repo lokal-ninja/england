@@ -1,5 +1,5 @@
 ---
 title: "The Little Shop of Furniture"
 url: /birmingham/the-little-shop-of-furniture/
-shop: furniture
+shop: Möbel
 ---

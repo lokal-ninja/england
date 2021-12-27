@@ -1,5 +1,5 @@
 ---
 title: "McColl's"
 url: /redditch/mccolls/
-shop: convenience
+shop: Lebensmittel
 ---

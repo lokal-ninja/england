@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /southport/coral/
-shop: bookmaker
+shop: Wettbüro
 ---

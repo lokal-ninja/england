@@ -1,5 +1,5 @@
 ---
 title: "Brooklands"
 url: /ipswich/brooklands/
-shop: car
+shop: Autohaus
 ---

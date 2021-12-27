@@ -1,5 +1,5 @@
 ---
 title: "Hobbs"
 url: /guildford/hobbs/
-shop: clothes
+shop: Kleidung
 ---

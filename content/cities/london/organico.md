@@ -1,5 +1,5 @@
 ---
 title: "Organico"
 url: /london/organico/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

@@ -1,6 +1,6 @@
 ---
 title: Redbourn
 url: /redbourn/
-latitude: 51.800275600000006
-longitude: -0.3967599
+latitude: 51.8
+longitude: -0.396
 ---

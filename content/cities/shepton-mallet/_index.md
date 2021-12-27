@@ -1,6 +1,6 @@
 ---
 title: Shepton Mallet
 url: /shepton-mallet/
-latitude: 51.1909451
-longitude: -2.5461298
+latitude: 51.185
+longitude: -2.613
 ---

@@ -1,6 +1,6 @@
 ---
 title: Potters Bar
 url: /potters-bar/
-latitude: 51.702588000000006
-longitude: -0.1955649
+latitude: 51.692
+longitude: -0.179
 ---

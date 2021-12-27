@@ -1,5 +1,5 @@
 ---
 title: "Macken Brothers Ltd"
 url: /london/macken-brothers-ltd/
-shop: butcher
+shop: Metzgerei
 ---

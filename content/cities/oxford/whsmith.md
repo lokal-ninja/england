@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /oxford/whsmith/
-shop: newsagent
+shop: Zeitungen
 ---

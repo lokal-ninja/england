@@ -1,6 +1,6 @@
 ---
 title: Bletchingley
 url: /bletchingley/
-latitude: 51.2402688
-longitude: -0.100084
+latitude: 51.241
+longitude: -0.1
 ---

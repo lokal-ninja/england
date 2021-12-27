@@ -1,5 +1,5 @@
 ---
 title: "Swarovski"
 url: /grays/swarovski/
-shop: jewelry
+shop: Schmuck
 ---

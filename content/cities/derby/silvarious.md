@@ -1,5 +1,5 @@
 ---
 title: "Silvarious"
 url: /derby/silvarious/
-shop: jewelry
+shop: Schmuck
 ---

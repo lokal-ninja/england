@@ -1,5 +1,5 @@
 ---
 title: "Dressed with Style"
 url: /amesbury-salisbury/dressed-with-style/
-shop: clothes
+shop: Kleidung
 ---

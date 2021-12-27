@@ -1,5 +1,5 @@
 ---
 title: "Hughes"
 url: /diss/hughes/
-shop: electronics
+shop: Elektronik
 ---

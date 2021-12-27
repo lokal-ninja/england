@@ -1,5 +1,5 @@
 ---
 title: "Callows"
 url: /market-deeping/callows/
-shop: hairdresser
+shop: Friseur
 ---

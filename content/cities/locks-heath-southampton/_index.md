@@ -1,6 +1,6 @@
 ---
 title: Locks Heath, Southampton
 url: /locks-heath-southampton/
-latitude: 
-longitude: 
+latitude: 50.864
+longitude: -1.275
 ---

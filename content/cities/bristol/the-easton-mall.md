@@ -1,5 +1,5 @@
 ---
 title: "The Easton Mall"
 url: /bristol/the-easton-mall/
-shop: convenience
+shop: Lebensmittel
 ---

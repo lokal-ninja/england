@@ -1,5 +1,5 @@
 ---
 title: "Taupyk"
 url: /london/taupyk/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gibbons"
 url: /heald-green/gibbons/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

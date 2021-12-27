@@ -1,5 +1,5 @@
 ---
 title: "Boathouse"
 url: /ambleside/boathouse/
-shop: gift
+shop: Andenken
 ---

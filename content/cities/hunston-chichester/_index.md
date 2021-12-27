@@ -1,6 +1,6 @@
 ---
 title: Hunston, Chichester
 url: /hunston-chichester/
-latitude: 
-longitude: 
+latitude: 50.811
+longitude: -0.776
 ---

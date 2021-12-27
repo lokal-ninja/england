@@ -1,6 +1,6 @@
 ---
 title: Coalville
 url: /coalville/
-latitude: 52.725798100000006
-longitude: -1.3741375
+latitude: 52.753
+longitude: -1.404
 ---

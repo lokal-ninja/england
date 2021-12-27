@@ -1,5 +1,5 @@
 ---
 title: "Ann Summers"
 url: /ipswich/ann-summers/
-shop: erotic
+shop: Erotik
 ---

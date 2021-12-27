@@ -1,5 +1,5 @@
 ---
 title: "Sky"
 url: /washington/sky/
-shop: shop
+shop: Allgemein
 ---

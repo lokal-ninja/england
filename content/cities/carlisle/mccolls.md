@@ -1,5 +1,5 @@
 ---
 title: "McColls"
 url: /carlisle/mccolls/
-shop: convenience
+shop: Lebensmittel
 ---

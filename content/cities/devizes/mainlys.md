@@ -1,5 +1,5 @@
 ---
 title: "Mainly's"
 url: /devizes/mainlys/
-shop: doityourself
+shop: Baumarkt
 ---

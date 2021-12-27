@@ -1,5 +1,5 @@
 ---
 title: "SAFA"
 url: /leeds/safa/
-shop: convenience
+shop: Lebensmittel
 ---

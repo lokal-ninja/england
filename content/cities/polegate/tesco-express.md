@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /polegate/tesco-express/
-shop: convenience
+shop: Lebensmittel
 ---

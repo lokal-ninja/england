@@ -1,6 +1,6 @@
 ---
 title: Burgess Hill
 url: /burgess-hill/
-latitude: 50.9575365
-longitude: -0.1332853
+latitude: 50.965
+longitude: -0.119
 ---

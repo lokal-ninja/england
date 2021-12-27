@@ -1,5 +1,5 @@
 ---
 title: "Brownriggs"
 url: /ventnor/brownriggs/
-shop: farm
+shop: Hofladen
 ---

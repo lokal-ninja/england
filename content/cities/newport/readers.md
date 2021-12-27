@@ -1,5 +1,5 @@
 ---
 title: "Readers"
 url: /newport/readers/
-shop: furniture
+shop: Möbel
 ---

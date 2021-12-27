@@ -1,5 +1,5 @@
 ---
 title: "Seiko"
 url: /york/seiko/
-shop: watches
+shop: Uhren
 ---

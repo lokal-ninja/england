@@ -1,5 +1,5 @@
 ---
 title: "Gallivant"
 url: /london/gallivant/
-shop: perfumery
+shop: Parfümerie
 ---

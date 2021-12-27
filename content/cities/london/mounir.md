@@ -1,5 +1,5 @@
 ---
 title: "Mounir"
 url: /london/mounir/
-shop: jewelry
+shop: Schmuck
 ---

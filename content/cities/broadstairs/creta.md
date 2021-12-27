@@ -1,5 +1,5 @@
 ---
 title: "Creta"
 url: /broadstairs/creta/
-shop: vacant
+shop: Leerstehend
 ---

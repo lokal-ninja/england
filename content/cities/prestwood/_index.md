@@ -1,6 +1,6 @@
 ---
 title: Prestwood
 url: /prestwood/
-latitude: 
-longitude: 
+latitude: 51.688
+longitude: -0.734
 ---

@@ -1,6 +1,6 @@
 ---
 title: Carlton
 url: /carlton/
-latitude: 54.2715145
-longitude: -1.0647764
+latitude: 52.183
+longitude: -0.617
 ---

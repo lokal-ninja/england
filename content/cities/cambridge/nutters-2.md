@@ -1,5 +1,5 @@
 ---
 title: "Nutters"
 url: /cambridge/nutters-2/
-shop: hairdresser
+shop: Friseur
 ---

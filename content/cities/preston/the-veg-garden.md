@@ -1,5 +1,5 @@
 ---
 title: "The Veg Garden"
 url: /preston/the-veg-garden/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

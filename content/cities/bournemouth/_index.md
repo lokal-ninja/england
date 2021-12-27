@@ -1,6 +1,6 @@
 ---
 title: Bournemouth
 url: /bournemouth/
-latitude: 50.7194784
-longitude: -1.8767712
+latitude: 50.727
+longitude: -1.841
 ---

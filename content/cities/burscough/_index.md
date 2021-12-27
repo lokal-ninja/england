@@ -1,6 +1,6 @@
 ---
 title: Burscough
 url: /burscough/
-latitude: 53.5933829
-longitude: -2.8500883000000004
+latitude: 53.604
+longitude: -2.842
 ---

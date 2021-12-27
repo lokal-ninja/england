@@ -1,5 +1,5 @@
 ---
 title: "Sweatshop"
 url: /teddington/sweatshop/
-shop: sports
+shop: Sport
 ---

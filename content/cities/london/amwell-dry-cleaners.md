@@ -1,5 +1,5 @@
 ---
 title: "Amwell Dry Cleaners"
 url: /london/amwell-dry-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AFL Megastore"
 url: /leyland/afl-megastore/
-shop: car repair
+shop: Autowerkstatt
 ---

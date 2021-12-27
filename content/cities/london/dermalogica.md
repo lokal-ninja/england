@@ -1,5 +1,5 @@
 ---
 title: "Dermalogica"
 url: /london/dermalogica/
-shop: beauty
+shop: Kosmetik
 ---

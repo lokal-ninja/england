@@ -1,5 +1,5 @@
 ---
 title: "Tanfastic"
 url: /blackburn/tanfastic/
-shop: beauty
+shop: Kosmetik
 ---

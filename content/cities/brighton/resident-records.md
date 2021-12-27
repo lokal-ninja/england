@@ -1,5 +1,5 @@
 ---
 title: "Resident Records"
 url: /brighton/resident-records/
-shop: music
+shop: Musik
 ---

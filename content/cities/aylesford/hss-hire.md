@@ -1,5 +1,5 @@
 ---
 title: "HSS Hire"
 url: /aylesford/hss-hire/
-shop: shop
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Woodburn Nursery"
 url: /darlington/woodburn-nursery/
-shop: garden centre
+shop: Garten-Center
 ---

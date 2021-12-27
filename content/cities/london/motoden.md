@@ -1,5 +1,5 @@
 ---
 title: "Motoden"
 url: /london/motoden/
-shop: motorcycle
+shop: Motorrad
 ---

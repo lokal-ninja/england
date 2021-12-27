@@ -1,5 +1,5 @@
 ---
 title: "Pretty Little Nails"
 url: /london/pretty-little-nails/
-shop: beauty
+shop: Kosmetik
 ---

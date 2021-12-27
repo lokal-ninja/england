@@ -1,5 +1,5 @@
 ---
 title: "Stoney Mini Market"
 url: /coventry/stoney-mini-market/
-shop: convenience
+shop: Lebensmittel
 ---

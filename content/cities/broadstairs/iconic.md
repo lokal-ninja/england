@@ -1,5 +1,5 @@
 ---
 title: "Iconic"
 url: /broadstairs/iconic/
-shop: jewelry
+shop: Schmuck
 ---

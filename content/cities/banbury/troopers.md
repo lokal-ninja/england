@@ -1,5 +1,5 @@
 ---
 title: "Troopers"
 url: /banbury/troopers/
-shop: military
+shop: Militär
 ---

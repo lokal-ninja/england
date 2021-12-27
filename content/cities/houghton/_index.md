@@ -1,6 +1,6 @@
 ---
 title: Houghton
 url: /houghton/
-latitude: 52.8161847
-longitude: 0.6569012000000001
+latitude: 54.924
+longitude: -2.924
 ---

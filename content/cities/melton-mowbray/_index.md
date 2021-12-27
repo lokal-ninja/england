@@ -1,6 +1,6 @@
 ---
 title: Melton Mowbray
 url: /melton-mowbray/
-latitude: 52.7649964
-longitude: -0.887587
+latitude: 52.765
+longitude: -0.885
 ---

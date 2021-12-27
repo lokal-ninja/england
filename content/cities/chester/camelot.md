@@ -1,5 +1,5 @@
 ---
 title: "Camelot"
 url: /chester/camelot/
-shop: jewelry
+shop: Schmuck
 ---

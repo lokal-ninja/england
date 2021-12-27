@@ -1,6 +1,6 @@
 ---
 title: Ower / West Wellow
 url: /ower-west-wellow/
-latitude: 
-longitude: 
+latitude: 50.955
+longitude: -1.535
 ---

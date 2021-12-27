@@ -1,5 +1,5 @@
 ---
 title: "Hot Frox"
 url: /southport/hot-frox/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,6 +1,6 @@
 ---
 title: Pinchbeck
 url: /pinchbeck/
-latitude: 52.8136925
-longitude: -0.1626841
+latitude: 52.816
+longitude: -0.161
 ---

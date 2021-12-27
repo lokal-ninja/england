@@ -1,6 +1,6 @@
 ---
 title: Leybourne
 url: /leybourne/
-latitude: 51.305742800000004
-longitude: 0.4297822
+latitude: 51.302
+longitude: 0.425
 ---

@@ -1,6 +1,6 @@
 ---
 title: Clennell
 url: /clennell/
-latitude: 
-longitude: 
+latitude: 55.358
+longitude: -2.114
 ---

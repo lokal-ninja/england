@@ -1,5 +1,5 @@
 ---
 title: "Stait"
 url: /morpeth/stait/
-shop: photo
+shop: Foto
 ---

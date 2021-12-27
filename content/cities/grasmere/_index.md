@@ -1,6 +1,6 @@
 ---
 title: Grasmere
 url: /grasmere/
-latitude: 54.4593879
-longitude: -3.0243657
+latitude: 54.458
+longitude: -3.024
 ---

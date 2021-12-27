@@ -1,5 +1,5 @@
 ---
 title: "Select"
 url: /consett/select/
-shop: clothes
+shop: Kleidung
 ---

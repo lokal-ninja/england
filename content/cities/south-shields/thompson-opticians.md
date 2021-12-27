@@ -1,5 +1,5 @@
 ---
 title: "Thompson Opticians"
 url: /south-shields/thompson-opticians/
-shop: optician
+shop: Optiker
 ---

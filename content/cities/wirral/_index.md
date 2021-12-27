@@ -1,6 +1,6 @@
 ---
 title: Wirral
 url: /wirral/
-latitude: 
-longitude: 
+latitude: 53.344
+longitude: -3.094
 ---

@@ -1,5 +1,5 @@
 ---
 title: "BrightHouse"
 url: /southport/brighthouse/
-shop: department store
+shop: Warenhaus
 ---

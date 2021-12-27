@@ -1,5 +1,5 @@
 ---
 title: "Garden Gate"
 url: /rugby/garden-gate/
-shop: florist
+shop: Blumen
 ---

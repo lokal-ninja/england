@@ -1,5 +1,5 @@
 ---
 title: "Bodycare"
 url: /whitehaven/bodycare/
-shop: beauty
+shop: Kosmetik
 ---

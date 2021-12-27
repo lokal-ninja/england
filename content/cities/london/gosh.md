@@ -1,5 +1,5 @@
 ---
 title: "GOSH"
 url: /london/gosh/
-shop: clothes
+shop: Kleidung
 ---

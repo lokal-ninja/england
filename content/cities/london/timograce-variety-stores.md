@@ -1,5 +1,5 @@
 ---
 title: "Timograce Variety Stores"
 url: /london/timograce-variety-stores/
-shop: convenience
+shop: Lebensmittel
 ---

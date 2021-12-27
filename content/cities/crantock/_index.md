@@ -1,6 +1,6 @@
 ---
 title: Crantock
 url: /crantock/
-latitude: 
-longitude: 
+latitude: 50.401
+longitude: -5.109
 ---

@@ -1,6 +1,6 @@
 ---
 title: King's Cross, London
 url: /kings-cross-london/
-latitude: 
-longitude: 
+latitude: 51.531
+longitude: -0.121
 ---

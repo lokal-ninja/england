@@ -1,6 +1,6 @@
 ---
 title: Amble
 url: /amble/
-latitude: 55.3337748
-longitude: -1.5839378000000002
+latitude: 55.334
+longitude: -1.58
 ---

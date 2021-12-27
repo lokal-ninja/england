@@ -1,6 +1,6 @@
 ---
 title: Maltby, Rotherham
 url: /maltby-rotherham/
-latitude: 
-longitude: 
+latitude: 53.424
+longitude: -1.198
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /gravesend/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Namtech"
 url: /stockport/namtech/
-shop: beauty
+shop: Kosmetik
 ---

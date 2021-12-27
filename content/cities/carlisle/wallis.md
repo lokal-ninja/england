@@ -1,5 +1,5 @@
 ---
 title: "Wallis"
 url: /carlisle/wallis/
-shop: clothes
+shop: Kleidung
 ---

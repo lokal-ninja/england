@@ -1,6 +1,6 @@
 ---
 title: Longden
 url: /longden/
-latitude: 52.652019700000004
-longitude: -2.8281653
+latitude: 52.653
+longitude: -2.826
 ---

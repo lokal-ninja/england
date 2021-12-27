@@ -1,5 +1,5 @@
 ---
 title: "The Card Factory"
 url: /southport/the-card-factory/
-shop: gift
+shop: Andenken
 ---

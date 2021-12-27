@@ -1,6 +1,6 @@
 ---
 title: Culverstone
 url: /culverstone/
-latitude: 
-longitude: 
+latitude: 51.342
+longitude: 0.346
 ---

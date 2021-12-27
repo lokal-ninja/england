@@ -1,6 +1,6 @@
 ---
 title: Wickham
 url: /wickham/
-latitude: 51.7733408
-longitude: 0.6418724
+latitude: 50.9
+longitude: -1.188
 ---

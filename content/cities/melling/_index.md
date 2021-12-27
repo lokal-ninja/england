@@ -1,6 +1,6 @@
 ---
 title: Melling
 url: /melling/
-latitude: 53.4954339
-longitude: -2.9243061000000004
+latitude: 54.138
+longitude: -2.611
 ---

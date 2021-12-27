@@ -1,5 +1,5 @@
 ---
 title: "Roundel"
 url: /exeter/roundel/
-shop: clothes
+shop: Kleidung
 ---

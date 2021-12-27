@@ -1,5 +1,5 @@
 ---
 title: "Orchard Nurseries"
 url: /york/orchard-nurseries/
-shop: garden centre
+shop: Garten-Center
 ---

@@ -1,6 +1,6 @@
 ---
 title: Twickenham
 url: /twickenham/
-latitude: 51.4467444
-longitude: -0.3281887
+latitude: 51.453
+longitude: -0.336
 ---

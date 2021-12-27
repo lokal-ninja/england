@@ -1,5 +1,5 @@
 ---
 title: "Lanna's"
 url: /ludlow/lannas/
-shop: furniture
+shop: Möbel
 ---

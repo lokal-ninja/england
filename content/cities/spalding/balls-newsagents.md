@@ -1,5 +1,5 @@
 ---
 title: "Balls Newsagents"
 url: /spalding/balls-newsagents/
-shop: newsagent
+shop: Zeitungen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Orchard Fruits"
 url: /willingdon/orchard-fruits/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

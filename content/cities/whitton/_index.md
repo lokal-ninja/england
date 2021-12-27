@@ -1,6 +1,6 @@
 ---
 title: Whitton
 url: /whitton/
-latitude: 52.3623399
-longitude: -2.8665511
+latitude: 51.45
+longitude: -0.358
 ---

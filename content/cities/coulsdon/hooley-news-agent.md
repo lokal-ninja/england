@@ -1,5 +1,5 @@
 ---
 title: "Hooley News Agent"
 url: /coulsdon/hooley-news-agent/
-shop: newsagent
+shop: Zeitungen
 ---

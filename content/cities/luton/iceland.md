@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /luton/iceland/
-shop: supermarket
+shop: Supermarkt
 ---

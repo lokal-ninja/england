@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /sunderland/costcutter/
-shop: convenience
+shop: Lebensmittel
 ---

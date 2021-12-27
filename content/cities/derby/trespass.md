@@ -1,5 +1,5 @@
 ---
 title: "Trespass"
 url: /derby/trespass/
-shop: outdoor
+shop: Outdoor
 ---

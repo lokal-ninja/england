@@ -1,6 +1,6 @@
 ---
 title: Haxby
 url: /haxby/
-latitude: 54.0175196
-longitude: -1.0730544
+latitude: 54.016
+longitude: -1.074
 ---

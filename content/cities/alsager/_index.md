@@ -1,6 +1,6 @@
 ---
 title: Alsager
 url: /alsager/
-latitude: 53.0960614
-longitude: -2.3046307
+latitude: 53.096
+longitude: -2.304
 ---

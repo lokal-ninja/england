@@ -1,6 +1,6 @@
 ---
 title: Christchruch
 url: /christchruch/
-latitude: 
-longitude: 
+latitude: 50.735
+longitude: -1.768
 ---

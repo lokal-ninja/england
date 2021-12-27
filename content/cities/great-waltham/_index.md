@@ -1,6 +1,6 @@
 ---
 title: Great Waltham
 url: /great-waltham/
-latitude: 51.7937081
-longitude: 0.4567737
+latitude: 51.795
+longitude: 0.456
 ---

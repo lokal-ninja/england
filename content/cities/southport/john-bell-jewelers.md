@@ -1,5 +1,5 @@
 ---
 title: "John Bell Jewelers"
 url: /southport/john-bell-jewelers/
-shop: jewelry
+shop: Schmuck
 ---

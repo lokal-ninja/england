@@ -1,6 +1,6 @@
 ---
 title: Botley, Southampton
 url: /botley-southampton/
-latitude: 
-longitude: 
+latitude: 50.914
+longitude: -1.271
 ---

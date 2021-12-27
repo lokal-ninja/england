@@ -1,5 +1,5 @@
 ---
 title: "Headquarters"
 url: /morecambe/headquarters/
-shop: hairdresser
+shop: Friseur
 ---

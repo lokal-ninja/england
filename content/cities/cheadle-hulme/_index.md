@@ -1,6 +1,6 @@
 ---
 title: Cheadle Hulme
 url: /cheadle-hulme/
-latitude: 
-longitude: 
+latitude: 53.374
+longitude: -2.187
 ---

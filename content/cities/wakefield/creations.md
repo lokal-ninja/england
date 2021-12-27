@@ -1,5 +1,5 @@
 ---
 title: "Creations"
 url: /wakefield/creations/
-shop: hairdresser
+shop: Friseur
 ---

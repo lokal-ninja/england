@@ -1,5 +1,5 @@
 ---
 title: "Bon Marche"
 url: /bishop-auckland/bon-marche/
-shop: clothes
+shop: Kleidung
 ---

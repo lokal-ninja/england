@@ -1,5 +1,5 @@
 ---
 title: "Adama's Hair Salon"
 url: /morecambe/adamas-hair-salon/
-shop: hairdresser
+shop: Friseur
 ---

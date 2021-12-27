@@ -1,5 +1,5 @@
 ---
 title: "Mustard"
 url: /herne-bay/mustard/
-shop: shop
+shop: Allgemein
 ---

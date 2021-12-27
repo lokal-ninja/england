@@ -1,5 +1,5 @@
 ---
 title: "Utopia"
 url: /york/utopia/
-shop: clothes
+shop: Kleidung
 ---

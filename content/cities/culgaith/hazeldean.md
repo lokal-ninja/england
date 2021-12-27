@@ -1,5 +1,5 @@
 ---
 title: "Hazeldean"
 url: /culgaith/hazeldean/
-shop: garden centre
+shop: Garten-Center
 ---

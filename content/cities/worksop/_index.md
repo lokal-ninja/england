@@ -1,6 +1,6 @@
 ---
 title: Worksop
 url: /worksop/
-latitude: 53.304880000000004
-longitude: -1.123572
+latitude: 53.304
+longitude: -1.121
 ---

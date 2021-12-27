@@ -1,5 +1,5 @@
 ---
 title: "Blackwells"
 url: /chalfont-st-giles/blackwells/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

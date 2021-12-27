@@ -1,5 +1,5 @@
 ---
 title: "House of Computers"
 url: /bloomsbury-london/house-of-computers/
-shop: computer
+shop: Computer
 ---

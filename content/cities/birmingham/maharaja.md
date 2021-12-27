@@ -1,5 +1,5 @@
 ---
 title: "Maharaja"
 url: /birmingham/maharaja/
-shop: shop
+shop: Allgemein
 ---

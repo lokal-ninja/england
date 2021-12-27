@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /skegness/costcutter/
-shop: convenience
+shop: Lebensmittel
 ---

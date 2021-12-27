@@ -1,5 +1,5 @@
 ---
 title: "TK Maxx"
 url: /london/tk-maxx-11/
-shop: department store
+shop: Warenhaus
 ---

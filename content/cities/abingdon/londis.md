@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /abingdon/londis/
-shop: convenience
+shop: Lebensmittel
 ---

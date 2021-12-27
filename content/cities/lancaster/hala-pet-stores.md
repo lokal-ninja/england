@@ -1,5 +1,5 @@
 ---
 title: "Hala Pet Stores"
 url: /lancaster/hala-pet-stores/
-shop: pet
+shop: Tiere
 ---

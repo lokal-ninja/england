@@ -1,5 +1,5 @@
 ---
 title: "Kymata"
 url: /richmond/kymata/
-shop: beauty
+shop: Kosmetik
 ---

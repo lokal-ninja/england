@@ -1,5 +1,5 @@
 ---
 title: "Country Fayre"
 url: /hunmanby/country-fayre/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

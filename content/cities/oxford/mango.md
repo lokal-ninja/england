@@ -1,5 +1,5 @@
 ---
 title: "Mango"
 url: /oxford/mango/
-shop: clothes
+shop: Kleidung
 ---

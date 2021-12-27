@@ -1,5 +1,5 @@
 ---
 title: "Sotos"
 url: /london/sotos/
-shop: hairdresser
+shop: Friseur
 ---

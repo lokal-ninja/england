@@ -1,5 +1,5 @@
 ---
 title: "Appleteme"
 url: /ludlow/appleteme/
-shop: beverages
+shop: Getränke
 ---

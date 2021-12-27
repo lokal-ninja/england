@@ -1,6 +1,6 @@
 ---
 title: Shareshill, Wolverhampton
 url: /shareshill-wolverhampton/
-latitude: 
-longitude: 
+latitude: 52.655
+longitude: -2.056
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Backstage"
 url: /london/backstage/
-shop: clothes
+shop: Kleidung
 ---

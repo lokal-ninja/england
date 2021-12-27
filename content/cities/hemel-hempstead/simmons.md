@@ -1,5 +1,5 @@
 ---
 title: "Simmons"
 url: /hemel-hempstead/simmons/
-shop: bakery
+shop: Bäckerei
 ---

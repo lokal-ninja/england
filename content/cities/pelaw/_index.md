@@ -1,6 +1,6 @@
 ---
 title: Pelaw
 url: /pelaw/
-latitude: 54.9556186
-longitude: -1.5438125
+latitude: 54.954
+longitude: -1.545
 ---

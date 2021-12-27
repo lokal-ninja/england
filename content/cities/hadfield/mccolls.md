@@ -1,5 +1,5 @@
 ---
 title: "McColl's"
 url: /hadfield/mccolls/
-shop: convenience
+shop: Lebensmittel
 ---

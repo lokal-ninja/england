@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /margate/costcutter-2/
-shop: convenience
+shop: Lebensmittel
 ---

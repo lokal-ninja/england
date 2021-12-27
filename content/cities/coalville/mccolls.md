@@ -1,5 +1,5 @@
 ---
 title: "McColl's"
 url: /coalville/mccolls/
-shop: convenience
+shop: Lebensmittel
 ---

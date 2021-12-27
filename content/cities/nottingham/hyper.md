@@ -1,5 +1,5 @@
 ---
 title: "Hyper"
 url: /nottingham/hyper/
-shop: shop
+shop: Allgemein
 ---

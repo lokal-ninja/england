@@ -1,5 +1,5 @@
 ---
 title: "HiQ"
 url: /skipton/hiq/
-shop: car repair
+shop: Autowerkstatt
 ---

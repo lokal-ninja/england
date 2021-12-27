@@ -1,5 +1,5 @@
 ---
 title: "Oswell's"
 url: /barnard-castle/oswells/
-shop: books
+shop: Bücher
 ---

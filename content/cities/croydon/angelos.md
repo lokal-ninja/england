@@ -1,5 +1,5 @@
 ---
 title: "Angelo's"
 url: /croydon/angelos/
-shop: hairdresser
+shop: Friseur
 ---

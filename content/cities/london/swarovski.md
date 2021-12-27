@@ -1,5 +1,5 @@
 ---
 title: "Swarovski"
 url: /london/swarovski/
-shop: jewelry
+shop: Schmuck
 ---

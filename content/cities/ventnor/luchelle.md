@@ -1,5 +1,5 @@
 ---
 title: "Luchelle"
 url: /ventnor/luchelle/
-shop: clothes
+shop: Kleidung
 ---

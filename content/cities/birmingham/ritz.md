@@ -1,5 +1,5 @@
 ---
 title: "Ritz"
 url: /birmingham/ritz/
-shop: hairdresser
+shop: Friseur
 ---

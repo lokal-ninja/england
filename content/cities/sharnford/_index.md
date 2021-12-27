@@ -1,6 +1,6 @@
 ---
 title: Sharnford
 url: /sharnford/
-latitude: 52.5224027
-longitude: -1.2928385
+latitude: 52.511
+longitude: -1.304
 ---

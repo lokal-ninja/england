@@ -1,5 +1,5 @@
 ---
 title: "Mirrortalk"
 url: /blackpool/mirrortalk/
-shop: hairdresser
+shop: Friseur
 ---

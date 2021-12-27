@@ -1,6 +1,6 @@
 ---
 title: Bookham
 url: /bookham/
-latitude: 
-longitude: 
+latitude: 51.279
+longitude: -0.374
 ---

@@ -1,6 +1,6 @@
 ---
 title: Reigate
 url: /reigate/
-latitude: 
-longitude: 
+latitude: 51.235
+longitude: -0.204
 ---

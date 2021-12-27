@@ -1,5 +1,5 @@
 ---
 title: "Select"
 url: /nottingham/select/
-shop: convenience
+shop: Lebensmittel
 ---

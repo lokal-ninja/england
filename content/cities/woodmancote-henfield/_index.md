@@ -1,6 +1,6 @@
 ---
 title: Woodmancote,  Henfield
 url: /woodmancote-henfield/
-latitude: 
-longitude: 
+latitude: 50.926
+longitude: -0.259
 ---

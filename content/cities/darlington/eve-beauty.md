@@ -1,5 +1,5 @@
 ---
 title: "Eve Beauty"
 url: /darlington/eve-beauty/
-shop: beauty
+shop: Kosmetik
 ---

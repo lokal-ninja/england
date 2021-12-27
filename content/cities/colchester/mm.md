@@ -1,5 +1,5 @@
 ---
 title: "mm"
 url: /colchester/mm/
-shop: supermarket
+shop: Supermarkt
 ---

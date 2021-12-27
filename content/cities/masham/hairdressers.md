@@ -1,5 +1,5 @@
 ---
 title: "Hairdressers"
 url: /masham/hairdressers/
-shop: hairdresser
+shop: Friseur
 ---

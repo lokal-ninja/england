@@ -1,5 +1,5 @@
 ---
 title: "StormFront Apple Store"
 url: /carlisle/stormfront-apple-store/
-shop: electronics
+shop: Elektronik
 ---

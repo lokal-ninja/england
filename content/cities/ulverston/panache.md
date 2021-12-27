@@ -1,5 +1,5 @@
 ---
 title: "Panache"
 url: /ulverston/panache/
-shop: jewelry
+shop: Schmuck
 ---

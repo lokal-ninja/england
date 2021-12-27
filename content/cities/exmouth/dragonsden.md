@@ -1,5 +1,5 @@
 ---
 title: "Dragonsden"
 url: /exmouth/dragonsden/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

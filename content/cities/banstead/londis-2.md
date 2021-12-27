@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /banstead/londis-2/
-shop: convenience
+shop: Lebensmittel
 ---

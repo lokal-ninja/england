@@ -1,5 +1,5 @@
 ---
 title: "Once Upon A Party"
 url: /eastleigh/once-upon-a-party/
-shop: party
+shop: Partyzubehör
 ---

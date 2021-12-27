@@ -1,5 +1,5 @@
 ---
 title: "VapePit"
 url: /coulsdon/vapepit/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

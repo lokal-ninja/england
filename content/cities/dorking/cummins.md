@@ -1,5 +1,5 @@
 ---
 title: "Cummins"
 url: /dorking/cummins/
-shop: hardware
+shop: Eisenwaren
 ---

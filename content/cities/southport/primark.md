@@ -1,5 +1,5 @@
 ---
 title: "Primark"
 url: /southport/primark/
-shop: clothes
+shop: Kleidung
 ---

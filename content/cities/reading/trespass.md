@@ -1,5 +1,5 @@
 ---
 title: "Trespass"
 url: /reading/trespass/
-shop: outdoor
+shop: Outdoor
 ---

@@ -1,6 +1,6 @@
 ---
 title: Trimdon Station
 url: /trimdon-station/
-latitude: 
-longitude: 
+latitude: 54.699
+longitude: -1.429
 ---

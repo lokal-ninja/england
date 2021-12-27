@@ -1,6 +1,6 @@
 ---
 title: Clun
 url: /clun/
-latitude: 52.4211807
-longitude: -3.0300584
+latitude: 52.421
+longitude: -3.03
 ---

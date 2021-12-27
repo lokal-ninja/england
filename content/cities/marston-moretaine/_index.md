@@ -1,6 +1,6 @@
 ---
 title: Marston Moretaine
 url: /marston-moretaine/
-latitude: 52.0698414
-longitude: -0.5414541
+latitude: 52.062
+longitude: -0.55
 ---

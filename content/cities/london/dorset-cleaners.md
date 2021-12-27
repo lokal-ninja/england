@@ -1,5 +1,5 @@
 ---
 title: "Dorset Cleaners"
 url: /london/dorset-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

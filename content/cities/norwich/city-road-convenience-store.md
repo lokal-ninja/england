@@ -1,5 +1,5 @@
 ---
 title: "City Road Convenience Store"
 url: /norwich/city-road-convenience-store/
-shop: convenience
+shop: Lebensmittel
 ---

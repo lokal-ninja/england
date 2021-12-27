@@ -1,5 +1,5 @@
 ---
 title: "Sue"
 url: /warwick/sue/
-shop: hairdresser
+shop: Friseur
 ---

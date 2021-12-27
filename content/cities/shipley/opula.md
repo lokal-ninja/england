@@ -1,5 +1,5 @@
 ---
 title: "Opula"
 url: /shipley/opula/
-shop: optician
+shop: Optiker
 ---

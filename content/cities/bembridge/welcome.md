@@ -1,5 +1,5 @@
 ---
 title: "Welcome"
 url: /bembridge/welcome/
-shop: convenience
+shop: Lebensmittel
 ---

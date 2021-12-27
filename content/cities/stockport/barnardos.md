@@ -1,5 +1,5 @@
 ---
 title: "Barnardo's"
 url: /stockport/barnardos/
-shop: charity
+shop: Gebrauchtwaren
 ---

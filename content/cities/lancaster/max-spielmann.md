@@ -1,5 +1,5 @@
 ---
 title: "Max Spielmann"
 url: /lancaster/max-spielmann/
-shop: photo
+shop: Foto
 ---

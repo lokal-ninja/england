@@ -1,5 +1,5 @@
 ---
 title: "ilovewallpaper"
 url: /hartlepool/ilovewallpaper/
-shop: shop
+shop: Allgemein
 ---

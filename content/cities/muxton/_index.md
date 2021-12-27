@@ -1,6 +1,6 @@
 ---
 title: Muxton
 url: /muxton/
-latitude: 52.72301
-longitude: -2.421665
+latitude: 52.724
+longitude: -2.432
 ---

@@ -1,6 +1,6 @@
 ---
 title: Chilham
 url: /chilham/
-latitude: 51.244780500000005
-longitude: 0.9645024000000001
+latitude: 51.245
+longitude: 0.976
 ---

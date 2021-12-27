@@ -1,5 +1,5 @@
 ---
 title: "Alltex Dry Cleaners"
 url: /purley/alltex-dry-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

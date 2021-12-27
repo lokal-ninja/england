@@ -1,6 +1,6 @@
 ---
 title: City of Bath
 url: /city-of-bath/
-latitude: 
-longitude: 
+latitude: 51.377
+longitude: -2.379
 ---

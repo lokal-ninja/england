@@ -1,6 +1,6 @@
 ---
 title: Swaffham
 url: /swaffham/
-latitude: 52.6481171
-longitude: 0.6909259000000001
+latitude: 52.649
+longitude: 0.688
 ---

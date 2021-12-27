@@ -1,5 +1,5 @@
 ---
 title: "Claire's"
 url: /whitehaven/claires/
-shop: shop
+shop: Allgemein
 ---

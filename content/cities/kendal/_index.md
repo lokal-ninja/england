@@ -1,6 +1,6 @@
 ---
 title: Kendal
 url: /kendal/
-latitude: 54.3289795
-longitude: -2.747183
+latitude: 54.342
+longitude: -2.733
 ---

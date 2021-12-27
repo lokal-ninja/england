@@ -1,5 +1,5 @@
 ---
 title: "Inception"
 url: /bexhill-on-sea/inception/
-shop: beauty
+shop: Kosmetik
 ---

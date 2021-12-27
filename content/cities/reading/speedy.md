@@ -1,5 +1,5 @@
 ---
 title: "Speedy"
 url: /reading/speedy/
-shop: shop
+shop: Allgemein
 ---

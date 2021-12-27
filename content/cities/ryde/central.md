@@ -1,5 +1,5 @@
 ---
 title: "Central"
 url: /ryde/central/
-shop: convenience
+shop: Lebensmittel
 ---

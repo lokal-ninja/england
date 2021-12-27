@@ -1,5 +1,5 @@
 ---
 title: "Sidhu"
 url: /london/sidhu/
-shop: clothes
+shop: Kleidung
 ---

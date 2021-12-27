@@ -1,5 +1,5 @@
 ---
 title: "SK Superstore"
 url: /leeds/sk-superstore/
-shop: convenience
+shop: Lebensmittel
 ---

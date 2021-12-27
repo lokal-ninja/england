@@ -1,5 +1,5 @@
 ---
 title: "Carpetright"
 url: /aylesbury/carpetright/
-shop: carpet
+shop: Teppiche
 ---

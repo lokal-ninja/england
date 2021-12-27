@@ -1,6 +1,6 @@
 ---
 title: Leamington Spa
 url: /leamington-spa/
-latitude: 
-longitude: 
+latitude: 52.285
+longitude: -1.533
 ---

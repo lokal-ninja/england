@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
 url: /exeter/wilko/
-shop: department store
+shop: Warenhaus
 ---

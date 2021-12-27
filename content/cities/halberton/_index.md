@@ -1,6 +1,6 @@
 ---
 title: Halberton
 url: /halberton/
-latitude: 50.906697
-longitude: -3.4098325000000003
+latitude: 50.908
+longitude: -3.417
 ---

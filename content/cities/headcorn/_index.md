@@ -1,6 +1,6 @@
 ---
 title: Headcorn
 url: /headcorn/
-latitude: 51.168426700000005
-longitude: 0.6276216
+latitude: 51.168
+longitude: 0.623
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tidjara"
 url: /london/tidjara/
-shop: butcher
+shop: Metzgerei
 ---

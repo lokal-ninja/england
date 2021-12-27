@@ -1,5 +1,5 @@
 ---
 title: "Carlton"
 url: /addlestone/carlton/
-shop: newsagent
+shop: Zeitungen
 ---

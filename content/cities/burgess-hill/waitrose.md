@@ -1,5 +1,5 @@
 ---
 title: "Waitrose"
 url: /burgess-hill/waitrose/
-shop: supermarket
+shop: Supermarkt
 ---

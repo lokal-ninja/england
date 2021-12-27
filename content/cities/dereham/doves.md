@@ -1,5 +1,5 @@
 ---
 title: "Doves"
 url: /dereham/doves/
-shop: clothes
+shop: Kleidung
 ---

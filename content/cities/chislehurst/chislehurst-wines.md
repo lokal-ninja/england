@@ -1,5 +1,5 @@
 ---
 title: "Chislehurst Wines"
 url: /chislehurst/chislehurst-wines/
-shop: wine
+shop: Wein
 ---

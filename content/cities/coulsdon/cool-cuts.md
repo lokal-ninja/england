@@ -1,5 +1,5 @@
 ---
 title: "Cool Cuts"
 url: /coulsdon/cool-cuts/
-shop: hairdresser
+shop: Friseur
 ---

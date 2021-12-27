@@ -1,6 +1,6 @@
 ---
 title: Sapcote
 url: /sapcote/
-latitude: 52.5365395
-longitude: -1.280035
+latitude: 52.537
+longitude: -1.28
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Select"
 url: /northampton/select/
-shop: clothes
+shop: Kleidung
 ---

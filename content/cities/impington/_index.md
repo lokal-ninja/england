@@ -1,6 +1,6 @@
 ---
 title: Impington
 url: /impington/
-latitude: 52.249309100000005
-longitude: 0.11382560000000001
+latitude: 52.242
+longitude: 0.123
 ---

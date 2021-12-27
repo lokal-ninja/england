@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /penryn/costcutter/
-shop: convenience
+shop: Lebensmittel
 ---

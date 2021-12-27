@@ -1,6 +1,6 @@
 ---
 title: Yateley
 url: /yateley/
-latitude: 51.3402679
-longitude: -0.8284067
+latitude: 51.339
+longitude: -0.846
 ---

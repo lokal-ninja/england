@@ -1,5 +1,5 @@
 ---
 title: "Argos"
 url: /northallerton/argos/
-shop: shop
+shop: Allgemein
 ---

@@ -1,6 +1,6 @@
 ---
 title: Bloomsbury, London
 url: /bloomsbury-london/
-latitude: 
-longitude: 
+latitude: 51.518
+longitude: -0.131
 ---

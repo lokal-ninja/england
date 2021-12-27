@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /flitwick/tesco/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /wembley/coral-3/
-shop: bookmaker
+shop: Wettbüro
 ---

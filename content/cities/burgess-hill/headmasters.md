@@ -1,5 +1,5 @@
 ---
 title: "Headmasters"
 url: /burgess-hill/headmasters/
-shop: hairdresser
+shop: Friseur
 ---

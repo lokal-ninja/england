@@ -1,6 +1,6 @@
 ---
 title: Kimbolton
 url: /kimbolton/
-latitude: 52.248336900000005
-longitude: -2.6992851
+latitude: 52.297
+longitude: -0.388
 ---

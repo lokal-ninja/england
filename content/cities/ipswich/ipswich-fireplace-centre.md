@@ -1,5 +1,5 @@
 ---
 title: "Ipswich Fireplace Centre"
 url: /ipswich/ipswich-fireplace-centre/
-shop: fireplace
+shop: Kamine & Öfen
 ---

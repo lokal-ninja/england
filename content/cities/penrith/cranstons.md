@@ -1,5 +1,5 @@
 ---
 title: "Cranstons"
 url: /penrith/cranstons/
-shop: butcher
+shop: Metzgerei
 ---

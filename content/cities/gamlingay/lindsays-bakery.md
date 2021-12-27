@@ -1,5 +1,5 @@
 ---
 title: "Lindsay's Bakery"
 url: /gamlingay/lindsays-bakery/
-shop: bakery
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Evans Halshaw - Hyundai"
 url: /felling/evans-halshaw-hyundai/
-shop: car
+shop: Autohaus
 ---

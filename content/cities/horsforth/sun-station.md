@@ -1,5 +1,5 @@
 ---
 title: "Sun Station"
 url: /horsforth/sun-station/
-shop: beauty
+shop: Kosmetik
 ---

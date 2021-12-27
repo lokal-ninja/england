@@ -1,6 +1,6 @@
 ---
 title: Sherborne
 url: /sherborne/
-latitude: 51.831034700000004
-longitude: -1.7575228
+latitude: 50.945
+longitude: -2.513
 ---

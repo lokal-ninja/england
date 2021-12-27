@@ -1,5 +1,5 @@
 ---
 title: "Fashion Choice"
 url: /great-yarmouth/fashion-choice/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Octopus Tattoos"
 url: /derby/octopus-tattoos/
-shop: tattoo
+shop: Tattoo
 ---

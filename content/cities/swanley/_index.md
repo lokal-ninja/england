@@ -1,6 +1,6 @@
 ---
 title: Swanley
 url: /swanley/
-latitude: 51.395684300000006
-longitude: 0.17757610000000001
+latitude: 51.396
+longitude: 0.175
 ---

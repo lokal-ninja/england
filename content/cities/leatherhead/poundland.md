@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /leatherhead/poundland/
-shop: convenience
+shop: Lebensmittel
 ---

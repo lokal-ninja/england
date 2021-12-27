@@ -1,6 +1,6 @@
 ---
 title: Seahouses
 url: /seahouses/
-latitude: 
-longitude: 
+latitude: 55.581
+longitude: -1.649
 ---

@@ -1,6 +1,6 @@
 ---
 title: Henfield
 url: /henfield/
-latitude: 51.5117368
-longitude: -2.4641357000000004
+latitude: 50.934
+longitude: -0.29
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Swatch"
 url: /london/swatch/
-shop: watches
+shop: Uhren
 ---

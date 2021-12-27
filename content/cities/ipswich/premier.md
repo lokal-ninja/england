@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /ipswich/premier/
-shop: convenience
+shop: Lebensmittel
 ---

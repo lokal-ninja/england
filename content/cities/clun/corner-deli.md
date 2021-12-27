@@ -1,5 +1,5 @@
 ---
 title: "Corner Deli"
 url: /clun/corner-deli/
-shop: deli
+shop: Feinkost
 ---

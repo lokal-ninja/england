@@ -1,5 +1,5 @@
 ---
 title: "Coulsdon News"
 url: /coulsdon/coulsdon-news/
-shop: newsagent
+shop: Zeitungen
 ---

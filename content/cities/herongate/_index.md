@@ -1,6 +1,6 @@
 ---
 title: Herongate
 url: /herongate/
-latitude: 51.597293500000006
-longitude: 0.3479488
+latitude: 51.599
+longitude: 0.346
 ---

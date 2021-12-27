@@ -1,5 +1,5 @@
 ---
 title: "Glynceramics"
 url: /whitby/glynceramics/
-shop: gift
+shop: Andenken
 ---

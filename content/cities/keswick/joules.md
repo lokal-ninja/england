@@ -1,5 +1,5 @@
 ---
 title: "Joules"
 url: /keswick/joules/
-shop: clothes
+shop: Kleidung
 ---

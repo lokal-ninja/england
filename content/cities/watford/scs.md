@@ -1,5 +1,5 @@
 ---
 title: "ScS"
 url: /watford/scs/
-shop: furniture
+shop: Möbel
 ---

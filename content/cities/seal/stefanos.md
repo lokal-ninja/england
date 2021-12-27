@@ -1,5 +1,5 @@
 ---
 title: "Stefano's"
 url: /seal/stefanos/
-shop: deli
+shop: Feinkost
 ---

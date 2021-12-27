@@ -1,5 +1,5 @@
 ---
 title: "Onshore"
 url: /cowes/onshore/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,6 +1,6 @@
 ---
 title: Kensington, London
 url: /kensington-london/
-latitude: 
-longitude: 
+latitude: 51.5
+longitude: -0.194
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Around The Clock"
 url: /leeds/around-the-clock/
-shop: convenience
+shop: Lebensmittel
 ---

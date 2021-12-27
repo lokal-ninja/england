@@ -1,5 +1,5 @@
 ---
 title: "A. One Barbers"
 url: /coulsdon/a-one-barbers/
-shop: hairdresser
+shop: Friseur
 ---

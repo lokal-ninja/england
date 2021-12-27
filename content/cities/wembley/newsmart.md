@@ -1,5 +1,5 @@
 ---
 title: "Newsmart"
 url: /wembley/newsmart/
-shop: newsagent
+shop: Zeitungen
 ---

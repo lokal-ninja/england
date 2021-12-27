@@ -1,5 +1,5 @@
 ---
 title: "'DoLittle' Pets and Supplies"
 url: /fetcham-leatherhead/dolittle-pets-and-supplies/
-shop: pet
+shop: Tiere
 ---

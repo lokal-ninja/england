@@ -1,5 +1,5 @@
 ---
 title: "Tiki Hut"
 url: /carshalton/tiki-hut/
-shop: beauty
+shop: Kosmetik
 ---

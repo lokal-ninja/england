@@ -1,5 +1,5 @@
 ---
 title: "Waitrose"
 url: /sidmouth/waitrose/
-shop: supermarket
+shop: Supermarkt
 ---

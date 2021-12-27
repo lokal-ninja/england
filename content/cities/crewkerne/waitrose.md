@@ -1,5 +1,5 @@
 ---
 title: "Waitrose"
 url: /crewkerne/waitrose/
-shop: supermarket
+shop: Supermarkt
 ---

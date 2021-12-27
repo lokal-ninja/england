@@ -1,5 +1,5 @@
 ---
 title: "Chester Road News"
 url: /birmingham/chester-road-news/
-shop: newsagent
+shop: Zeitungen
 ---

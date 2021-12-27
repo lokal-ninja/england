@@ -1,6 +1,6 @@
 ---
 title: Catfield
 url: /catfield/
-latitude: 52.7402821
-longitude: 1.5354406
+latitude: 52.725
+longitude: 1.534
 ---

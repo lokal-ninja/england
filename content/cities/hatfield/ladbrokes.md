@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /hatfield/ladbrokes/
-shop: bookmaker
+shop: Wettbüro
 ---

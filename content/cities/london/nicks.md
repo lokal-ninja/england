@@ -1,5 +1,5 @@
 ---
 title: "Nick's"
 url: /london/nicks/
-shop: hairdresser
+shop: Friseur
 ---

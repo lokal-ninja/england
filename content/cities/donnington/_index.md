@@ -1,6 +1,6 @@
 ---
 title: Donnington
 url: /donnington/
-latitude: 51.7370485
-longitude: -1.2371618
+latitude: 52.708
+longitude: -2.434
 ---

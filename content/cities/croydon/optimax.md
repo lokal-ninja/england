@@ -1,5 +1,5 @@
 ---
 title: "Optimax"
 url: /croydon/optimax/
-shop: beauty
+shop: Kosmetik
 ---

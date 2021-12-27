@@ -1,5 +1,5 @@
 ---
 title: "The Money Shop"
 url: /luton/the-money-shop/
-shop: pawnbroker
+shop: Leiher
 ---

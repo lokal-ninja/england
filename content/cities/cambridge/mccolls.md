@@ -1,5 +1,5 @@
 ---
 title: "McColls"
 url: /cambridge/mccolls/
-shop: convenience
+shop: Lebensmittel
 ---

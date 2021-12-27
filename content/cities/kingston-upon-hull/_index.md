@@ -1,6 +1,6 @@
 ---
 title: Kingston upon Hull
 url: /kingston-upon-hull/
-latitude: 
-longitude: 
+latitude: 53.759
+longitude: -0.375
 ---

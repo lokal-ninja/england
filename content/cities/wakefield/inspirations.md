@@ -1,5 +1,5 @@
 ---
 title: "Inspirations"
 url: /wakefield/inspirations/
-shop: coffee
+shop: Kaffee
 ---

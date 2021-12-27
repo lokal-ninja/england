@@ -1,5 +1,5 @@
 ---
 title: "Rita"
 url: /thetford/rita/
-shop: hairdresser
+shop: Friseur
 ---

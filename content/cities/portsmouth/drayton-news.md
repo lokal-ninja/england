@@ -1,5 +1,5 @@
 ---
 title: "Drayton News"
 url: /portsmouth/drayton-news/
-shop: newsagent
+shop: Zeitungen
 ---

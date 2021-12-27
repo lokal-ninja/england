@@ -1,5 +1,5 @@
 ---
 title: "Grosik"
 url: /london/grosik/
-shop: convenience
+shop: Lebensmittel
 ---

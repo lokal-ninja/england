@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /crediton/tesco/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Putney Convenience Store"
 url: /london/putney-convenience-store/
-shop: convenience
+shop: Lebensmittel
 ---

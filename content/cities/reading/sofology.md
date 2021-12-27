@@ -1,5 +1,5 @@
 ---
 title: "Sofology"
 url: /reading/sofology/
-shop: furniture
+shop: Möbel
 ---

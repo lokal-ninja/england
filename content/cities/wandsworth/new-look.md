@@ -1,5 +1,5 @@
 ---
 title: "New Look"
 url: /wandsworth/new-look/
-shop: clothes
+shop: Kleidung
 ---

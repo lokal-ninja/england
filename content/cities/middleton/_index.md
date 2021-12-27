@@ -1,6 +1,6 @@
 ---
 title: Middleton
 url: /middleton/
-latitude: 52.323615800000006
-longitude: -2.6670974000000003
+latitude: 53.558
+longitude: -2.194
 ---

@@ -1,6 +1,6 @@
 ---
 title: Enderby
 url: /enderby/
-latitude: 52.588180200000004
-longitude: -1.2121903
+latitude: 52.588
+longitude: -1.209
 ---

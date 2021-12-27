@@ -1,6 +1,6 @@
 ---
 title: Podington
 url: /podington/
-latitude: 52.254721200000006
-longitude: -0.6229802
+latitude: 52.253
+longitude: -0.622
 ---

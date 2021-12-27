@@ -1,5 +1,5 @@
 ---
 title: "Broom Horticultural"
 url: /long-marton/broom-horticultural/
-shop: garden centre
+shop: Garten-Center
 ---

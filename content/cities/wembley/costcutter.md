@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /wembley/costcutter/
-shop: convenience
+shop: Lebensmittel
 ---

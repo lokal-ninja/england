@@ -1,5 +1,5 @@
 ---
 title: "Annikas"
 url: /louth/annikas/
-shop: shop
+shop: Allgemein
 ---

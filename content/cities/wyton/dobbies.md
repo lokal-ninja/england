@@ -1,5 +1,5 @@
 ---
 title: "Dobbies"
 url: /wyton/dobbies/
-shop: garden centre
+shop: Garten-Center
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lush"
 url: /ipswich/lush/
-shop: beauty
+shop: Kosmetik
 ---

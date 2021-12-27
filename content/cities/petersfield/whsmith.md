@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /petersfield/whsmith/
-shop: newsagent
+shop: Zeitungen
 ---

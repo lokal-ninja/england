@@ -1,5 +1,5 @@
 ---
 title: "Footasylum"
 url: /solihull/footasylum/
-shop: shoes
+shop: Schuhe
 ---

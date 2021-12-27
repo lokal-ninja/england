@@ -1,5 +1,5 @@
 ---
 title: "GS3"
 url: /birmingham/gs3/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bowerham Sunbeds"
 url: /lancaster/bowerham-sunbeds/
-shop: beauty
+shop: Kosmetik
 ---

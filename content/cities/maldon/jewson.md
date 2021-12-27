@@ -1,5 +1,5 @@
 ---
 title: "Jewson"
 url: /maldon/jewson/
-shop: trade
+shop: Baustoffe
 ---

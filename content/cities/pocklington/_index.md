@@ -1,6 +1,6 @@
 ---
 title: Pocklington
 url: /pocklington/
-latitude: 53.93156810000001
-longitude: -0.7761036
+latitude: 53.93
+longitude: -0.779
 ---

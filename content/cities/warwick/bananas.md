@@ -1,5 +1,5 @@
 ---
 title: "Bananas"
 url: /warwick/bananas/
-shop: clothes
+shop: Kleidung
 ---

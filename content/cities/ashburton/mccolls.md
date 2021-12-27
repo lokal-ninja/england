@@ -1,5 +1,5 @@
 ---
 title: "McColl's"
 url: /ashburton/mccolls/
-shop: convenience
+shop: Lebensmittel
 ---

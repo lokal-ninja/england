@@ -1,6 +1,6 @@
 ---
 title: Framfield
 url: /framfield/
-latitude: 50.9643188
-longitude: 0.1322
+latitude: 50.967
+longitude: 0.112
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Starline"
 url: /ramsgate/starline/
-shop: tattoo
+shop: Tattoo
 ---

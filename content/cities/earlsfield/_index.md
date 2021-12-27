@@ -1,6 +1,6 @@
 ---
 title: Earlsfield
 url: /earlsfield/
-latitude: 51.446448200000006
-longitude: -0.1893941
+latitude: 51.44
+longitude: -0.187
 ---

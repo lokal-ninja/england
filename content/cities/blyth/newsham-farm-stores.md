@@ -1,5 +1,5 @@
 ---
 title: "Newsham Farm Stores"
 url: /blyth/newsham-farm-stores/
-shop: convenience
+shop: Lebensmittel
 ---

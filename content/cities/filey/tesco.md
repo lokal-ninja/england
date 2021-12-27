@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /filey/tesco/
-shop: supermarket
+shop: Supermarkt
 ---

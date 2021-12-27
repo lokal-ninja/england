@@ -1,5 +1,5 @@
 ---
 title: "Bolongaro Trevor"
 url: /leeds/bolongaro-trevor/
-shop: clothes
+shop: Kleidung
 ---

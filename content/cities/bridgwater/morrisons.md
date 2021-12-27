@@ -1,5 +1,5 @@
 ---
 title: "Morrisons"
 url: /bridgwater/morrisons/
-shop: supermarket
+shop: Supermarkt
 ---

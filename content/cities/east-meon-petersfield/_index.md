@@ -1,6 +1,6 @@
 ---
 title: East Meon, Petersfield
 url: /east-meon-petersfield/
-latitude: 
-longitude: 
+latitude: 50.995
+longitude: -1.033
 ---

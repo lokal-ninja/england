@@ -1,6 +1,6 @@
 ---
 title: North Ferriby
 url: /north-ferriby/
-latitude: 53.719226000000006
-longitude: -0.5051595
+latitude: 53.719
+longitude: -0.504
 ---

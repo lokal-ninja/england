@@ -1,5 +1,5 @@
 ---
 title: "Gaja"
 url: /norwich/gaja/
-shop: convenience
+shop: Lebensmittel
 ---

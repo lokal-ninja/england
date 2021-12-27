@@ -1,5 +1,5 @@
 ---
 title: "Honda"
 url: /sheffield/honda/
-shop: car
+shop: Autohaus
 ---

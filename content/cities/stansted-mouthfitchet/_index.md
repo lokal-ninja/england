@@ -1,6 +1,6 @@
 ---
 title: Stansted Mouthfitchet
 url: /stansted-mouthfitchet/
-latitude: 
-longitude: 
+latitude: 51.905
+longitude: 0.194
 ---

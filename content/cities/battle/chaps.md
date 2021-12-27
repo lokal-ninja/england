@@ -1,5 +1,5 @@
 ---
 title: "Chaps"
 url: /battle/chaps/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Howdens"
 url: /derby/howdens/
-shop: kitchen
+shop: Küchen
 ---

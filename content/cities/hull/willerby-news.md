@@ -1,5 +1,5 @@
 ---
 title: "Willerby News"
 url: /hull/willerby-news/
-shop: newsagent
+shop: Zeitungen
 ---

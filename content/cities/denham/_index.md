@@ -1,6 +1,6 @@
 ---
 title: Denham
 url: /denham/
-latitude: 52.3245434
-longitude: 1.2168303
+latitude: 51.581
+longitude: -0.501
 ---

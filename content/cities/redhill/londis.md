@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /redhill/londis/
-shop: convenience
+shop: Lebensmittel
 ---

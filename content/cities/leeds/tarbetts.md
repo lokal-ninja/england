@@ -1,5 +1,5 @@
 ---
 title: "Tarbetts"
 url: /leeds/tarbetts/
-shop: seafood
+shop: Fisch
 ---

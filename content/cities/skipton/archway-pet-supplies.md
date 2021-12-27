@@ -1,5 +1,5 @@
 ---
 title: "Archway Pet Supplies"
 url: /skipton/archway-pet-supplies/
-shop: pet
+shop: Tiere
 ---

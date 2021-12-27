@@ -1,6 +1,6 @@
 ---
 title: Cote
 url: /cote/
-latitude: 51.1998316
-longitude: -2.9456543
+latitude: 51.724
+longitude: -1.495
 ---

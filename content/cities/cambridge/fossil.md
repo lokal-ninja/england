@@ -1,5 +1,5 @@
 ---
 title: "Fossil"
 url: /cambridge/fossil/
-shop: bag
+shop: Taschen & Koffer
 ---

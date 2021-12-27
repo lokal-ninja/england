@@ -1,6 +1,6 @@
 ---
 title: Theale
 url: /theale/
-latitude: 51.2137333
-longitude: -2.7715433000000003
+latitude: 51.437
+longitude: -1.077
 ---

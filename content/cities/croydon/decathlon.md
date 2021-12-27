@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /croydon/decathlon/
-shop: sports
+shop: Sport
 ---

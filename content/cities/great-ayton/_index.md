@@ -1,6 +1,6 @@
 ---
 title: Great Ayton
 url: /great-ayton/
-latitude: 54.488063800000006
-longitude: -1.1329314000000001
+latitude: 54.489
+longitude: -1.14
 ---

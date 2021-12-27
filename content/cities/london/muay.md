@@ -1,5 +1,5 @@
 ---
 title: "Muay"
 url: /london/muay/
-shop: convenience
+shop: Lebensmittel
 ---

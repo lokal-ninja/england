@@ -1,5 +1,5 @@
 ---
 title: "Images Hair Salon"
 url: /spennymoor/images-hair-salon/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Embers"
 url: /caister-on-sea/embers/
-shop: fireplace
+shop: Kamine & Öfen
 ---

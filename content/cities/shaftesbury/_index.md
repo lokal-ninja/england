@@ -1,6 +1,6 @@
 ---
 title: Shaftesbury
 url: /shaftesbury/
-latitude: 51.0056195
-longitude: -2.1955975000000003
+latitude: 51.006
+longitude: -2.197
 ---

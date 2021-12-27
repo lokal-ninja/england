@@ -1,5 +1,5 @@
 ---
 title: "Woburn Ale House"
 url: /woburn/woburn-ale-house/
-shop: alcohol
+shop: Spirituosen
 ---

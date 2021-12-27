@@ -1,5 +1,5 @@
 ---
 title: "Kandies"
 url: /london/kandies/
-shop: newsagent
+shop: Zeitungen
 ---

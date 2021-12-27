@@ -1,6 +1,6 @@
 ---
 title: Harrietsham
 url: /harrietsham/
-latitude: 51.243350400000004
-longitude: 0.6715256000000001
+latitude: 51.242
+longitude: 0.675
 ---

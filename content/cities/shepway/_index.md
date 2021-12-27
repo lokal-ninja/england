@@ -1,6 +1,6 @@
 ---
 title: Shepway
 url: /shepway/
-latitude: 
-longitude: 
+latitude: 51.126
+longitude: 1.05
 ---

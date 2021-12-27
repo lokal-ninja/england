@@ -1,5 +1,5 @@
 ---
 title: "Dunelm"
 url: /chelmsford/dunelm/
-shop: furniture
+shop: Möbel
 ---

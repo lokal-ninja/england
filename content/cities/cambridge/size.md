@@ -1,5 +1,5 @@
 ---
 title: "Size?"
 url: /cambridge/size/
-shop: shoes
+shop: Schuhe
 ---

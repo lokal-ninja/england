@@ -1,5 +1,5 @@
 ---
 title: "sunfold"
 url: /norwich/sunfold/
-shop: shop
+shop: Allgemein
 ---

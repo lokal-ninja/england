@@ -1,5 +1,5 @@
 ---
 title: "The Clock Clinic"
 url: /putney/the-clock-clinic/
-shop: shop
+shop: Allgemein
 ---

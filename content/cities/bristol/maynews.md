@@ -1,5 +1,5 @@
 ---
 title: "Maynews"
 url: /bristol/maynews/
-shop: newsagent
+shop: Zeitungen
 ---

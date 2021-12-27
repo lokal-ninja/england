@@ -1,5 +1,5 @@
 ---
 title: "Vantage"
 url: /morecambe/vantage/
-shop: car
+shop: Autohaus
 ---

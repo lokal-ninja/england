@@ -1,6 +1,6 @@
 ---
 title: Broom
 url: /broom/
-latitude: 52.1785039
-longitude: -1.8685616
+latitude: 53.418
+longitude: -1.333
 ---

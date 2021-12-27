@@ -1,6 +1,6 @@
 ---
 title: Doveridge
 url: /doveridge/
-latitude: 52.904462200000005
-longitude: -1.8283091
+latitude: 52.922
+longitude: -1.842
 ---

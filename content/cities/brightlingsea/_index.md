@@ -1,6 +1,6 @@
 ---
 title: Brightlingsea
 url: /brightlingsea/
-latitude: 51.81094
-longitude: 1.0253239
+latitude: 51.81
+longitude: 1.021
 ---

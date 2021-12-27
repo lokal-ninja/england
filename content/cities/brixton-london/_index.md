@@ -1,6 +1,6 @@
 ---
 title: Brixton, London
 url: /brixton-london/
-latitude: 
-longitude: 
+latitude: 51.461
+longitude: -0.112
 ---

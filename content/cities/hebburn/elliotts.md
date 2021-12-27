@@ -1,5 +1,5 @@
 ---
 title: "Elliott's"
 url: /hebburn/elliotts/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

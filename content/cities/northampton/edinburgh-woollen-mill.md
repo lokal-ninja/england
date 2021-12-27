@@ -1,5 +1,5 @@
 ---
 title: "Edinburgh Woollen Mill"
 url: /northampton/edinburgh-woollen-mill/
-shop: clothes
+shop: Kleidung
 ---

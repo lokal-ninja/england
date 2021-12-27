@@ -1,5 +1,5 @@
 ---
 title: "Copper Mill Off Licence"
 url: /london/copper-mill-off-licence/
-shop: newsagent
+shop: Zeitungen
 ---

@@ -1,6 +1,6 @@
 ---
 title: Whixley
 url: /whixley/
-latitude: 54.015348
-longitude: -1.3230634000000001
+latitude: 54.013
+longitude: -1.32
 ---

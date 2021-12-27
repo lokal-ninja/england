@@ -1,6 +1,6 @@
 ---
 title: Barmby Moor
 url: /barmby-moor/
-latitude: 53.9304835
-longitude: -0.8224698
+latitude: 53.933
+longitude: -0.836
 ---

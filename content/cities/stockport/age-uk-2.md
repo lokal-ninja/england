@@ -1,5 +1,5 @@
 ---
 title: "Age UK"
 url: /stockport/age-uk-2/
-shop: charity
+shop: Gebrauchtwaren
 ---

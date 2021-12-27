@@ -1,6 +1,6 @@
 ---
 title: Blacbourn
 url: /blacbourn/
-latitude: 
-longitude: 
+latitude: 53.722
+longitude: -2.533
 ---

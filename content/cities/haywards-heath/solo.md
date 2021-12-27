@@ -1,5 +1,5 @@
 ---
 title: "Solo"
 url: /haywards-heath/solo/
-shop: hairdresser
+shop: Friseur
 ---

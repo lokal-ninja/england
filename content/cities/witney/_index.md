@@ -1,6 +1,6 @@
 ---
 title: Witney
 url: /witney/
-latitude: 51.7838848
-longitude: -1.4852861000000002
+latitude: 51.793
+longitude: -1.465
 ---

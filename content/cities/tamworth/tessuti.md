@@ -1,5 +1,5 @@
 ---
 title: "Tessuti"
 url: /tamworth/tessuti/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Parker Building Supplies"
 url: /eastbourne/parker-building-supplies/
-shop: trade
+shop: Baustoffe
 ---

@@ -1,6 +1,6 @@
 ---
 title: Backworth
 url: /backworth/
-latitude: 55.0404932
-longitude: -1.5309584
+latitude: 55.043
+longitude: -1.559
 ---

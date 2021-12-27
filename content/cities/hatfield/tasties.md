@@ -1,5 +1,5 @@
 ---
 title: "Tasties"
 url: /hatfield/tasties/
-shop: pastry
+shop: Konditorei
 ---

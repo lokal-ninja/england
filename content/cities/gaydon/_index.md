@@ -1,6 +1,6 @@
 ---
 title: Gaydon
 url: /gaydon/
-latitude: 52.1837497
-longitude: -1.4689175
+latitude: 52.184
+longitude: -1.466
 ---

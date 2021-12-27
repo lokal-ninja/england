@@ -1,5 +1,5 @@
 ---
 title: "The Chestnuts"
 url: /gedney/the-chestnuts/
-shop: garden centre
+shop: Garten-Center
 ---

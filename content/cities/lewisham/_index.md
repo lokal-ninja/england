@@ -1,6 +1,6 @@
 ---
 title: Lewisham
 url: /lewisham/
-latitude: 51.462432500000006
-longitude: -0.0101331
+latitude: 51.465
+longitude: -0.017
 ---

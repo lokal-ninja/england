@@ -1,6 +1,6 @@
 ---
 title: Uttoxeter
 url: /uttoxeter/
-latitude: 52.8980321
-longitude: -1.8649214
+latitude: 52.908
+longitude: -1.856
 ---

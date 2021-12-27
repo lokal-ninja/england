@@ -1,5 +1,5 @@
 ---
 title: "Co-op"
 url: /bexley/co-op/
-shop: convenience
+shop: Lebensmittel
 ---

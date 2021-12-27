@@ -1,5 +1,5 @@
 ---
 title: "Peacocks"
 url: /ramsgate/peacocks/
-shop: clothes
+shop: Kleidung
 ---

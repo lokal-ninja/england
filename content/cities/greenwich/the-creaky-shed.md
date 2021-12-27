@@ -1,5 +1,5 @@
 ---
 title: "The Creaky Shed"
 url: /greenwich/the-creaky-shed/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

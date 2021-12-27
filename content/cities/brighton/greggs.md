@@ -1,5 +1,5 @@
 ---
 title: "Greggs"
 url: /brighton/greggs/
-shop: bakery
+shop: Bäckerei
 ---

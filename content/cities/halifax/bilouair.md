@@ -1,5 +1,5 @@
 ---
 title: "Bilouair"
 url: /halifax/bilouair/
-shop: hairdresser
+shop: Friseur
 ---

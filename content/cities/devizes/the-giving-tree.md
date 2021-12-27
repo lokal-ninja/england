@@ -1,5 +1,5 @@
 ---
 title: "The Giving Tree"
 url: /devizes/the-giving-tree/
-shop: gift
+shop: Andenken
 ---

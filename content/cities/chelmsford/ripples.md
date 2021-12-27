@@ -1,5 +1,5 @@
 ---
 title: "Ripples"
 url: /chelmsford/ripples/
-shop: bathroom
+shop: Badezimmer
 ---

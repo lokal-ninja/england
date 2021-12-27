@@ -1,6 +1,6 @@
 ---
 title: Broughton in Furness
 url: /broughton-in-furness/
-latitude: 54.2776901
-longitude: -3.2113968
+latitude: 54.277
+longitude: -3.212
 ---

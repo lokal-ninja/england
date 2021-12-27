@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /kingston-upon-hull/lidl/
-shop: supermarket
+shop: Supermarkt
 ---

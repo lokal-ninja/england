@@ -1,5 +1,5 @@
 ---
 title: "Home"
 url: /shipston-on-stour/home/
-shop: gift
+shop: Andenken
 ---

@@ -1,6 +1,6 @@
 ---
 title: Greenodd
 url: /greenodd/
-latitude: 54.233875700000006
-longitude: -3.0558746
+latitude: 54.235
+longitude: -3.055
 ---

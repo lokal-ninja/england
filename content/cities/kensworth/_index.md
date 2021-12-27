@@ -1,6 +1,6 @@
 ---
 title: Kensworth
 url: /kensworth/
-latitude: 51.8504901
-longitude: -0.5009816
+latitude: 51.851
+longitude: -0.502
 ---

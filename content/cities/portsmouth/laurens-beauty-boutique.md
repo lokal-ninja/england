@@ -1,5 +1,5 @@
 ---
 title: "Lauren's Beauty Boutique"
 url: /portsmouth/laurens-beauty-boutique/
-shop: beauty
+shop: Kosmetik
 ---

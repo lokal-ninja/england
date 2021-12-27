@@ -1,5 +1,5 @@
 ---
 title: "Laura Ashley"
 url: /purley/laura-ashley/
-shop: shop
+shop: Allgemein
 ---

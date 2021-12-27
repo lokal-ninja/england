@@ -1,5 +1,5 @@
 ---
 title: "Best-one"
 url: /derby/best-one/
-shop: convenience
+shop: Lebensmittel
 ---

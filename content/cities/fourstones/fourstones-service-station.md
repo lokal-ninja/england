@@ -1,5 +1,5 @@
 ---
 title: "Fourstones Service Station"
 url: /fourstones/fourstones-service-station/
-shop: convenience
+shop: Lebensmittel
 ---

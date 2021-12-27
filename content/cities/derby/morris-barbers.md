@@ -1,5 +1,5 @@
 ---
 title: "Morris Barbers"
 url: /derby/morris-barbers/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Alpha"
 url: /taunton/alpha/
-shop: clothes
+shop: Kleidung
 ---

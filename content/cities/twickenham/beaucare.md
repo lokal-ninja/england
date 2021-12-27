@@ -1,5 +1,5 @@
 ---
 title: "Beaucare"
 url: /twickenham/beaucare/
-shop: laundry
+shop: Wäscherei
 ---

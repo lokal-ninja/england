@@ -1,5 +1,5 @@
 ---
 title: "Budgens"
 url: /brighton/budgens/
-shop: supermarket
+shop: Supermarkt
 ---

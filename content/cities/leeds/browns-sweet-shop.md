@@ -1,5 +1,5 @@
 ---
 title: "Brown's Sweet Shop"
 url: /leeds/browns-sweet-shop/
-shop: confectionery
+shop: Süßwaren
 ---

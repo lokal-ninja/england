@@ -1,5 +1,5 @@
 ---
 title: "Blacks"
 url: /eastbourne/blacks/
-shop: outdoor
+shop: Outdoor
 ---

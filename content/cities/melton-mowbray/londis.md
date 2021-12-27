@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /melton-mowbray/londis/
-shop: convenience
+shop: Lebensmittel
 ---

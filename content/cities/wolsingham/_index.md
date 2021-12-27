@@ -1,6 +1,6 @@
 ---
 title: Wolsingham
 url: /wolsingham/
-latitude: 54.7304923
-longitude: -1.8854244000000002
+latitude: 54.73
+longitude: -1.885
 ---

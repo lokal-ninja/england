@@ -1,6 +1,6 @@
 ---
 title: Widley, Waterlooville
 url: /widley-waterlooville/
-latitude: 
-longitude: 
+latitude: 50.86
+longitude: -1.048
 ---

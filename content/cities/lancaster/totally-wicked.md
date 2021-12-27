@@ -1,5 +1,5 @@
 ---
 title: "Totally Wicked"
 url: /lancaster/totally-wicked/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

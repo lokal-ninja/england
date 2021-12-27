@@ -1,5 +1,5 @@
 ---
 title: "Vincent"
 url: /feltham/vincent/
-shop: hairdresser
+shop: Friseur
 ---

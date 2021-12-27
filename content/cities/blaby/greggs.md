@@ -1,5 +1,5 @@
 ---
 title: "Greggs"
 url: /blaby/greggs/
-shop: bakery
+shop: Bäckerei
 ---

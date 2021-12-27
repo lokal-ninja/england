@@ -1,5 +1,5 @@
 ---
 title: "Booze buster"
 url: /derby/booze-buster/
-shop: alcohol
+shop: Spirituosen
 ---

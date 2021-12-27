@@ -1,5 +1,5 @@
 ---
 title: "Clifton Fine Art"
 url: /bristol/clifton-fine-art/
-shop: art
+shop: Kunst
 ---

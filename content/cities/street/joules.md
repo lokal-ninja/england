@@ -1,5 +1,5 @@
 ---
 title: "Joules"
 url: /street/joules/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lamb's Toy Store"
 url: /darlington/lambs-toy-store/
-shop: toys
+shop: Spielzeug
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Stokes"
 url: /henfield/stokes/
-shop: houseware
+shop: Haushaltsartikel
 ---

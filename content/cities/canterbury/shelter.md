@@ -1,5 +1,5 @@
 ---
 title: "Shelter"
 url: /canterbury/shelter/
-shop: charity
+shop: Gebrauchtwaren
 ---

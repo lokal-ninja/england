@@ -1,5 +1,5 @@
 ---
 title: "Steve Quigley"
 url: /leamington-spa/steve-quigley/
-shop: butcher
+shop: Metzgerei
 ---

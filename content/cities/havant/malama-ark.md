@@ -1,5 +1,5 @@
 ---
 title: "Malama Ark"
 url: /havant/malama-ark/
-shop: pet
+shop: Tiere
 ---

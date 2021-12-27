@@ -1,5 +1,5 @@
 ---
 title: "Cosmopoli-Tan"
 url: /leyland/cosmopoli-tan/
-shop: beauty
+shop: Kosmetik
 ---

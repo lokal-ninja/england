@@ -1,6 +1,6 @@
 ---
 title: Canvey Island
 url: /canvey-island/
-latitude: 
-longitude: 
+latitude: 51.523
+longitude: 0.555
 ---

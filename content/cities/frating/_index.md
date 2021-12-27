@@ -1,6 +1,6 @@
 ---
 title: Frating
 url: /frating/
-latitude: 51.868302
-longitude: 1.0358027
+latitude: 51.852
+longitude: 1.043
 ---

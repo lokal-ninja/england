@@ -1,5 +1,5 @@
 ---
 title: "Malik News"
 url: /birmingham/malik-news/
-shop: newsagent
+shop: Zeitungen
 ---

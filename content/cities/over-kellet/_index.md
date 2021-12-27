@@ -1,6 +1,6 @@
 ---
 title: Over Kellet
 url: /over-kellet/
-latitude: 
-longitude: 
+latitude: 54.124
+longitude: -2.741
 ---

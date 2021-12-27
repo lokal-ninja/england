@@ -1,5 +1,5 @@
 ---
 title: "Thorntons"
 url: /hastings/thorntons/
-shop: confectionery
+shop: Süßwaren
 ---

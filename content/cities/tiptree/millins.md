@@ -1,5 +1,5 @@
 ---
 title: "Millins"
 url: /tiptree/millins/
-shop: butcher
+shop: Metzgerei
 ---

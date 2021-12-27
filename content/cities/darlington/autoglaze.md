@@ -1,5 +1,5 @@
 ---
 title: "Autoglaze"
 url: /darlington/autoglaze/
-shop: car repair
+shop: Autowerkstatt
 ---

@@ -1,6 +1,6 @@
 ---
 title: St Ives,Cambridgeshire
 url: /st-ives-cambridgeshire/
-latitude: 
-longitude: 
+latitude: 52.337
+longitude: -0.061
 ---

@@ -1,6 +1,6 @@
 ---
 title: Fleet
 url: /fleet/
-latitude: 50.6205196
-longitude: -2.5162092
+latitude: 51.29
+longitude: -0.832
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /uxbridge/decathlon/
-shop: sports
+shop: Sport
 ---

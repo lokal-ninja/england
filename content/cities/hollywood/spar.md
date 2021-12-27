@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /hollywood/spar/
-shop: supermarket
+shop: Supermarkt
 ---

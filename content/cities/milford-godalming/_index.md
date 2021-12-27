@@ -1,6 +1,6 @@
 ---
 title: Milford, Godalming
 url: /milford-godalming/
-latitude: 
-longitude: 
+latitude: 51.164
+longitude: -0.637
 ---

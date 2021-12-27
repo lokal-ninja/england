@@ -1,5 +1,5 @@
 ---
 title: "Blacks"
 url: /ambleside/blacks/
-shop: outdoor
+shop: Outdoor
 ---

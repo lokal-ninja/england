@@ -1,5 +1,5 @@
 ---
 title: "Morrisons Daily"
 url: /chelmsford/morrisons-daily/
-shop: convenience
+shop: Lebensmittel
 ---

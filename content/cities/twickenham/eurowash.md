@@ -1,5 +1,5 @@
 ---
 title: "Eurowash"
 url: /twickenham/eurowash/
-shop: laundry
+shop: Wäscherei
 ---

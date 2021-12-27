@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /wymondham/savers/
-shop: chemist
+shop: Drogerie
 ---

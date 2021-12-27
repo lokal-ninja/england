@@ -1,5 +1,5 @@
 ---
 title: "Christy"
 url: /braintree/christy/
-shop: bathroom
+shop: Badezimmer
 ---

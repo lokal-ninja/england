@@ -1,5 +1,5 @@
 ---
 title: "Stove Centre"
 url: /devizes/stove-centre/
-shop: fireplace
+shop: Kamine & Öfen
 ---

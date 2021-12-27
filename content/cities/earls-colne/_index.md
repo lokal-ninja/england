@@ -1,6 +1,6 @@
 ---
 title: Earls Colne
 url: /earls-colne/
-latitude: 51.9309663
-longitude: 0.6937642
+latitude: 51.928
+longitude: 0.7
 ---

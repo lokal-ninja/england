@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /blackburn/tesco-express/
-shop: convenience
+shop: Lebensmittel
 ---

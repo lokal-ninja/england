@@ -1,5 +1,5 @@
 ---
 title: "Capezio"
 url: /london/capezio/
-shop: clothes
+shop: Kleidung
 ---

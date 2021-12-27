@@ -1,5 +1,5 @@
 ---
 title: "Decadence"
 url: /london/decadence/
-shop: hairdresser
+shop: Friseur
 ---

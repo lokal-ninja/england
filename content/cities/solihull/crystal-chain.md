@@ -1,5 +1,5 @@
 ---
 title: "Crystal Chain"
 url: /solihull/crystal-chain/
-shop: jewelry
+shop: Schmuck
 ---

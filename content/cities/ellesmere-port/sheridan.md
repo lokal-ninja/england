@@ -1,5 +1,5 @@
 ---
 title: "Sheridan"
 url: /ellesmere-port/sheridan/
-shop: bed
+shop: Betten
 ---

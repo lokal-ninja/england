@@ -1,5 +1,5 @@
 ---
 title: "Hollie's Deli"
 url: /newcastle-upon-tyne/hollies-deli/
-shop: deli
+shop: Feinkost
 ---

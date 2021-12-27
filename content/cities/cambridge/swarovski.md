@@ -1,5 +1,5 @@
 ---
 title: "Swarovski"
 url: /cambridge/swarovski/
-shop: jewelry
+shop: Schmuck
 ---

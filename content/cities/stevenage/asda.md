@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /stevenage/asda/
-shop: supermarket
+shop: Supermarkt
 ---

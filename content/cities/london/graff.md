@@ -1,5 +1,5 @@
 ---
 title: "Graff"
 url: /london/graff/
-shop: jewelry
+shop: Schmuck
 ---

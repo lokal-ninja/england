@@ -1,6 +1,6 @@
 ---
 title: West Allotment
 url: /west-allotment/
-latitude: 
-longitude: 
+latitude: 55.02
+longitude: -1.506
 ---

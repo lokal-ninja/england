@@ -1,5 +1,5 @@
 ---
 title: "Plumb Centre Gateshead"
 url: /gateshead/plumb-centre-gateshead/
-shop: shop
+shop: Allgemein
 ---

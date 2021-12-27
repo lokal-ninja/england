@@ -1,5 +1,5 @@
 ---
 title: "Stokes"
 url: /bath/stokes/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

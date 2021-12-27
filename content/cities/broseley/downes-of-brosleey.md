@@ -1,5 +1,5 @@
 ---
 title: "Downes Of Brosleey"
 url: /broseley/downes-of-brosleey/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

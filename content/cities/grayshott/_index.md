@@ -1,6 +1,6 @@
 ---
 title: Grayshott
 url: /grayshott/
-latitude: 51.1101043
-longitude: -0.7506139000000001
+latitude: 51.11
+longitude: -0.752
 ---

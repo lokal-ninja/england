@@ -1,5 +1,5 @@
 ---
 title: "Riley's Butchers"
 url: /rossendale/rileys-butchers/
-shop: butcher
+shop: Metzgerei
 ---

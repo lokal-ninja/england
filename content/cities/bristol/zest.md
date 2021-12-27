@@ -1,5 +1,5 @@
 ---
 title: "Zest"
 url: /bristol/zest/
-shop: deli
+shop: Feinkost
 ---

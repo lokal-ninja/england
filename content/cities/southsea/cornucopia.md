@@ -1,5 +1,5 @@
 ---
 title: "Cornucopia"
 url: /southsea/cornucopia/
-shop: convenience
+shop: Lebensmittel
 ---

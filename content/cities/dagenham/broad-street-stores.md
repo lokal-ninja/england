@@ -1,5 +1,5 @@
 ---
 title: "Broad Street Stores"
 url: /dagenham/broad-street-stores/
-shop: convenience
+shop: Lebensmittel
 ---

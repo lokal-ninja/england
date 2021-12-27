@@ -1,5 +1,5 @@
 ---
 title: "Headway"
 url: /winsford/headway/
-shop: charity
+shop: Gebrauchtwaren
 ---

@@ -1,6 +1,6 @@
 ---
 title: Helson
 url: /helson/
-latitude: 
-longitude: 
+latitude: 50.027
+longitude: -5.243
 ---

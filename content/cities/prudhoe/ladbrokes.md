@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /prudhoe/ladbrokes/
-shop: bookmaker
+shop: Wettbüro
 ---

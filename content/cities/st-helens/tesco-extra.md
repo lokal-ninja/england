@@ -1,5 +1,5 @@
 ---
 title: "Tesco Extra"
 url: /st-helens/tesco-extra/
-shop: supermarket
+shop: Supermarkt
 ---

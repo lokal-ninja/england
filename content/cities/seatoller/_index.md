@@ -1,6 +1,6 @@
 ---
 title: Seatoller
 url: /seatoller/
-latitude: 54.513839000000004
-longitude: -3.1678642000000004
+latitude: 54.514
+longitude: -3.168
 ---

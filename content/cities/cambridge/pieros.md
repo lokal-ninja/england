@@ -1,5 +1,5 @@
 ---
 title: "Piero's"
 url: /cambridge/pieros/
-shop: hairdresser
+shop: Friseur
 ---

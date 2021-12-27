@@ -1,5 +1,5 @@
 ---
 title: "Dazzle"
 url: /colchester/dazzle/
-shop: laundry
+shop: Wäscherei
 ---

@@ -1,6 +1,6 @@
 ---
 title: Glanton
 url: /glanton/
-latitude: 55.4243098
-longitude: -1.8899091000000001
+latitude: 55.424
+longitude: -1.89
 ---

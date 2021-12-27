@@ -1,6 +1,6 @@
 ---
 title: Lydeway
 url: /lydeway/
-latitude: 51.3203004
-longitude: -1.9248761
+latitude: 51.319
+longitude: -1.925
 ---

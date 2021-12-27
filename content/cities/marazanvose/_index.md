@@ -1,6 +1,6 @@
 ---
 title: Marazanvose
 url: /marazanvose/
-latitude: 
-longitude: 
+latitude: 50.306
+longitude: -5.102
 ---

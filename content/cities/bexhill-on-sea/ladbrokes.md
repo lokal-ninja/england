@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /bexhill-on-sea/ladbrokes/
-shop: bookmaker
+shop: Wettbüro
 ---

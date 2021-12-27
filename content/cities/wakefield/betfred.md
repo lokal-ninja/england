@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /wakefield/betfred/
-shop: bookmaker
+shop: Wettbüro
 ---

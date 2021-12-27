@@ -1,5 +1,5 @@
 ---
 title: "McLaren"
 url: /leeds/mclaren/
-shop: car
+shop: Autohaus
 ---

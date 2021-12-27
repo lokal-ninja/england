@@ -1,5 +1,5 @@
 ---
 title: "Dreams"
 url: /torquay/dreams/
-shop: bed
+shop: Betten
 ---

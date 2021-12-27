@@ -1,6 +1,6 @@
 ---
 title: Huncote
 url: /huncote/
-latitude: 52.5718292
-longitude: -1.2366041
+latitude: 52.572
+longitude: -1.239
 ---

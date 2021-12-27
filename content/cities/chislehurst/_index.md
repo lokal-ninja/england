@@ -1,6 +1,6 @@
 ---
 title: Chislehurst
 url: /chislehurst/
-latitude: 51.411571800000004
-longitude: 0.07695450000000001
+latitude: 51.418
+longitude: 0.068
 ---

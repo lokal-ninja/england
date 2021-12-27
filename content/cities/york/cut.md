@@ -1,5 +1,5 @@
 ---
 title: "Cut"
 url: /york/cut/
-shop: hairdresser
+shop: Friseur
 ---

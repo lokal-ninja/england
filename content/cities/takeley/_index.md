@@ -1,6 +1,6 @@
 ---
 title: Takeley
 url: /takeley/
-latitude: 51.8680753
-longitude: 0.266063
+latitude: 51.868
+longitude: 0.267
 ---

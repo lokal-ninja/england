@@ -1,6 +1,6 @@
 ---
 title: Wardley
 url: /wardley/
-latitude: 52.59279
-longitude: -0.7717152
+latitude: 54.939
+longitude: -1.522
 ---

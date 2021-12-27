@@ -1,5 +1,5 @@
 ---
 title: "Latin Angel"
 url: /london/latin-angel/
-shop: sewing
+shop: Nähzubehör
 ---

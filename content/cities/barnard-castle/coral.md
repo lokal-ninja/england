@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /barnard-castle/coral/
-shop: bookmaker
+shop: Wettbüro
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aldiss"
 url: /norwich/aldiss/
-shop: furniture
+shop: Möbel
 ---

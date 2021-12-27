@@ -1,6 +1,6 @@
 ---
 title: Brockenhurst
 url: /brockenhurst/
-latitude: 50.819254400000005
-longitude: -1.5779973
+latitude: 50.818
+longitude: -1.452
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Heiress"
 url: /thornbury/heiress/
-shop: hairdresser
+shop: Friseur
 ---

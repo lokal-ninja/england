@@ -1,5 +1,5 @@
 ---
 title: "Vaparettes"
 url: /margate/vaparettes/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /callington/tesco/
-shop: supermarket
+shop: Supermarkt
 ---

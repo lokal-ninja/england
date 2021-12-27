@@ -1,5 +1,5 @@
 ---
 title: "Unique Senior Care"
 url: /cheltenham/unique-senior-care/
-shop: vacant
+shop: Leerstehend
 ---

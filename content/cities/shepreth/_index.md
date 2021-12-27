@@ -1,6 +1,6 @@
 ---
 title: SHEPRETH
 url: /shepreth/
-latitude: 
-longitude: 
+latitude: 52.099
+longitude: 0.037
 ---

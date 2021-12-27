@@ -1,5 +1,5 @@
 ---
 title: "Morfose"
 url: /crowborough/morfose/
-shop: hairdresser
+shop: Friseur
 ---

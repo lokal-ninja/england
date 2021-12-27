@@ -1,5 +1,5 @@
 ---
 title: "Tallulah's Treasures"
 url: /wallington/tallulahs-treasures/
-shop: houseware
+shop: Haushaltsartikel
 ---

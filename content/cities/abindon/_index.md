@@ -1,6 +1,6 @@
 ---
 title: Abindon
 url: /abindon/
-latitude: 
-longitude: 
+latitude: 51.685
+longitude: -1.265
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Morgan's"
 url: /kington/morgans/
-shop: florist
+shop: Blumen
 ---

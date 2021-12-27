@@ -1,6 +1,6 @@
 ---
 title: Albury
 url: /albury/
-latitude: 51.7412368
-longitude: -1.0517721
+latitude: 51.22
+longitude: -0.498
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /repton/spar/
-shop: convenience
+shop: Lebensmittel
 ---

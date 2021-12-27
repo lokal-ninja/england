@@ -1,5 +1,5 @@
 ---
 title: "Beckys Butchers"
 url: /great-bromley/beckys-butchers/
-shop: butcher
+shop: Metzgerei
 ---

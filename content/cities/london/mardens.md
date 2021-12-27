@@ -1,5 +1,5 @@
 ---
 title: "Mardens"
 url: /london/mardens/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sumathy Convenience Store"
 url: /gravesend/sumathy-convenience-store/
-shop: convenience
+shop: Lebensmittel
 ---

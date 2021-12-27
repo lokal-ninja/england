@@ -1,6 +1,6 @@
 ---
 title: Ponsanooth
 url: /ponsanooth/
-latitude: 50.1969421
-longitude: -5.1421334000000005
+latitude: 50.198
+longitude: -5.143
 ---

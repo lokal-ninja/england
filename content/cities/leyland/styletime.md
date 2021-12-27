@@ -1,5 +1,5 @@
 ---
 title: "Styletime"
 url: /leyland/styletime/
-shop: hairdresser
+shop: Friseur
 ---

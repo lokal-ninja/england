@@ -1,5 +1,5 @@
 ---
 title: "Brabins"
 url: /blackpool/brabins/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

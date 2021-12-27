@@ -1,5 +1,5 @@
 ---
 title: "Elite Hair Design"
 url: /taunton/elite-hair-design/
-shop: hairdresser
+shop: Friseur
 ---

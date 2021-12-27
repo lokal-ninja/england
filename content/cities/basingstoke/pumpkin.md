@@ -1,5 +1,5 @@
 ---
 title: "Pumpkin"
 url: /basingstoke/pumpkin/
-shop: shop
+shop: Allgemein
 ---

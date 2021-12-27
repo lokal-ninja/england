@@ -1,5 +1,5 @@
 ---
 title: "Sunnah"
 url: /walsall/sunnah/
-shop: books
+shop: Bücher
 ---

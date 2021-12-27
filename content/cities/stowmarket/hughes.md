@@ -1,5 +1,5 @@
 ---
 title: "Hughes"
 url: /stowmarket/hughes/
-shop: electrical
+shop: Elektrisch
 ---

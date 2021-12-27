@@ -1,5 +1,5 @@
 ---
 title: "Arnold Clark Vauxhall"
 url: /kendal/arnold-clark-vauxhall/
-shop: car
+shop: Autohaus
 ---

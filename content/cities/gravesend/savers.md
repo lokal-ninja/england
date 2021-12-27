@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /gravesend/savers/
-shop: chemist
+shop: Drogerie
 ---

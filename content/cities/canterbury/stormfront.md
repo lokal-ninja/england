@@ -1,5 +1,5 @@
 ---
 title: "Stormfront"
 url: /canterbury/stormfront/
-shop: electronics
+shop: Elektronik
 ---

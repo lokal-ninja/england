@@ -1,5 +1,5 @@
 ---
 title: "St James Launderette"
 url: /southampton/st-james-launderette/
-shop: laundry
+shop: Wäscherei
 ---

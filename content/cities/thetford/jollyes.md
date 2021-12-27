@@ -1,5 +1,5 @@
 ---
 title: "Jollyes"
 url: /thetford/jollyes/
-shop: pet
+shop: Tiere
 ---

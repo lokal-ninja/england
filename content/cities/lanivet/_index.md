@@ -1,6 +1,6 @@
 ---
 title: Lanivet
 url: /lanivet/
-latitude: 50.4446543
-longitude: -4.7646555
+latitude: 50.445
+longitude: -4.765
 ---

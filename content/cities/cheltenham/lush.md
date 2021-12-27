@@ -1,5 +1,5 @@
 ---
 title: "Lush"
 url: /cheltenham/lush/
-shop: beauty
+shop: Kosmetik
 ---

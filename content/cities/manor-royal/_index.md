@@ -1,6 +1,6 @@
 ---
 title: Manor Royal
 url: /manor-royal/
-latitude: 51.1321256
-longitude: -0.17765460000000002
+latitude: 51.135
+longitude: -0.177
 ---

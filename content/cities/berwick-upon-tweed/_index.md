@@ -1,6 +1,6 @@
 ---
 title: Berwick Upon Tweed
 url: /berwick-upon-tweed/
-latitude: 
-longitude: 
+latitude: 55.771
+longitude: -2.007
 ---

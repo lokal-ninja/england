@@ -1,5 +1,5 @@
 ---
 title: "Rawaz Barber"
 url: /poulton-le-fylde/rawaz-barber/
-shop: hairdresser
+shop: Friseur
 ---

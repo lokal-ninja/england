@@ -1,6 +1,6 @@
 ---
 title: Radstock
 url: /radstock/
-latitude: 51.2919489
-longitude: -2.4476231
+latitude: 51.289
+longitude: -2.459
 ---

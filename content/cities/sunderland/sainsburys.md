@@ -1,5 +1,5 @@
 ---
 title: "Sainsbury's"
 url: /sunderland/sainsburys/
-shop: supermarket
+shop: Supermarkt
 ---

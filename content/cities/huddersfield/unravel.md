@@ -1,5 +1,5 @@
 ---
 title: "Unravel"
 url: /huddersfield/unravel/
-shop: craft
+shop: Basteln
 ---

@@ -1,6 +1,6 @@
 ---
 title: Halewood
 url: /halewood/
-latitude: 53.3681441
-longitude: -2.8185838000000003
+latitude: 53.366
+longitude: -2.815
 ---

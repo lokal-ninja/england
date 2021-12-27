@@ -1,5 +1,5 @@
 ---
 title: "Eldorado"
 url: /jaywick/eldorado/
-shop: shop
+shop: Allgemein
 ---

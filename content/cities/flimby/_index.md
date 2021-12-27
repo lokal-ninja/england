@@ -1,6 +1,6 @@
 ---
 title: Flimby
 url: /flimby/
-latitude: 54.687492500000005
-longitude: -3.5166175
+latitude: 54.677
+longitude: -3.535
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Samuel Champman"
 url: /haywards-heath/samuel-champman/
-shop: shop
+shop: Allgemein
 ---

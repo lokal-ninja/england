@@ -1,5 +1,5 @@
 ---
 title: "PDSA"
 url: /orpington/pdsa/
-shop: charity
+shop: Gebrauchtwaren
 ---

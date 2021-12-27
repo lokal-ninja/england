@@ -1,5 +1,5 @@
 ---
 title: "Jewson"
 url: /leighton-buzzard/jewson-2/
-shop: doityourself
+shop: Baumarkt
 ---

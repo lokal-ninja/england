@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /aspatria/spar/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Martlets"
 url: /brighton/martlets/
-shop: charity
+shop: Gebrauchtwaren
 ---

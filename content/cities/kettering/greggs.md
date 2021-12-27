@@ -1,5 +1,5 @@
 ---
 title: "Greggs"
 url: /kettering/greggs/
-shop: bakery
+shop: Bäckerei
 ---

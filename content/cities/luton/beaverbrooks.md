@@ -1,5 +1,5 @@
 ---
 title: "Beaverbrooks"
 url: /luton/beaverbrooks/
-shop: jewelry
+shop: Schmuck
 ---

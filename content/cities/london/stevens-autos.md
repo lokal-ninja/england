@@ -1,5 +1,5 @@
 ---
 title: "Stevens Autos"
 url: /london/stevens-autos/
-shop: car
+shop: Autohaus
 ---

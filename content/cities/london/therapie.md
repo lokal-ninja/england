@@ -1,5 +1,5 @@
 ---
 title: "Therapie"
 url: /london/therapie/
-shop: beauty
+shop: Kosmetik
 ---

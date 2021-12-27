@@ -1,5 +1,5 @@
 ---
 title: "Krakus"
 url: /leeds/krakus/
-shop: alcohol
+shop: Spirituosen
 ---

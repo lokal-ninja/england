@@ -1,5 +1,5 @@
 ---
 title: "Cromwell Community Store"
 url: /ware/cromwell-community-store/
-shop: newsagent
+shop: Zeitungen
 ---

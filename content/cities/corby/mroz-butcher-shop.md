@@ -1,5 +1,5 @@
 ---
 title: "MROZ Butcher Shop"
 url: /corby/mroz-butcher-shop/
-shop: butcher
+shop: Metzgerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PrintTech"
 url: /alcester/printtech/
-shop: computer
+shop: Computer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /horsham/whsmith/
-shop: newsagent
+shop: Zeitungen
 ---

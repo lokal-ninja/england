@@ -1,5 +1,5 @@
 ---
 title: "Simmonite"
 url: /sheffield/simmonite/
-shop: butcher
+shop: Metzgerei
 ---

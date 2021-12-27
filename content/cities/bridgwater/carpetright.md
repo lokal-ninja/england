@@ -1,5 +1,5 @@
 ---
 title: "Carpetright"
 url: /bridgwater/carpetright/
-shop: carpet
+shop: Teppiche
 ---

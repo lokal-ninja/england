@@ -1,5 +1,5 @@
 ---
 title: "Saks"
 url: /darlington/saks/
-shop: hairdresser
+shop: Friseur
 ---

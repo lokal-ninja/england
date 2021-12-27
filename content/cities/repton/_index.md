@@ -1,6 +1,6 @@
 ---
 title: Repton
 url: /repton/
-latitude: 52.839548
-longitude: -1.5488245
+latitude: 52.84
+longitude: -1.55
 ---

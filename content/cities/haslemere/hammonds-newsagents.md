@@ -1,5 +1,5 @@
 ---
 title: "Hammonds Newsagents"
 url: /haslemere/hammonds-newsagents/
-shop: newsagent
+shop: Zeitungen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Thuline"
 url: /windermere/thuline/
-shop: art
+shop: Kunst
 ---

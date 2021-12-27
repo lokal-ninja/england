@@ -1,5 +1,5 @@
 ---
 title: "Sutcliffes"
 url: /leeds/sutcliffes/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Genes"
 url: /solihull/genes/
-shop: clothes
+shop: Kleidung
 ---

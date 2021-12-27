@@ -1,5 +1,5 @@
 ---
 title: "Wolfwood"
 url: /morecambe/wolfwood/
-shop: charity
+shop: Gebrauchtwaren
 ---

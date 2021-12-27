@@ -1,5 +1,5 @@
 ---
 title: "Embers"
 url: /bristol/embers/
-shop: shop
+shop: Allgemein
 ---

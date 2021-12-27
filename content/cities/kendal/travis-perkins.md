@@ -1,5 +1,5 @@
 ---
 title: "Travis Perkins"
 url: /kendal/travis-perkins/
-shop: doityourself
+shop: Baumarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tailor-Made Extensions"
 url: /walsall/tailor-made-extensions/
-shop: hairdresser
+shop: Friseur
 ---

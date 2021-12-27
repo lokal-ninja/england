@@ -1,6 +1,6 @@
 ---
 title: Wootton Bassett
 url: /wootton-bassett/
-latitude: 
-longitude: 
+latitude: 51.541
+longitude: -1.905
 ---

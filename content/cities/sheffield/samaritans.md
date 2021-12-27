@@ -1,5 +1,5 @@
 ---
 title: "Samaritans"
 url: /sheffield/samaritans/
-shop: charity
+shop: Gebrauchtwaren
 ---

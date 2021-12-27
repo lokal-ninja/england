@@ -1,6 +1,6 @@
 ---
 title: Wallsend
 url: /wallsend/
-latitude: 54.9911912
-longitude: -1.5342042
+latitude: 55.005
+longitude: -1.519
 ---

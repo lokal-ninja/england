@@ -1,6 +1,6 @@
 ---
 title: Cadnam, Southampton
 url: /cadnam-southampton/
-latitude: 
-longitude: 
+latitude: 50.918
+longitude: -1.565
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aimee's Hair Studio"
 url: /woodmansey/aimees-hair-studio/
-shop: hairdresser
+shop: Friseur
 ---

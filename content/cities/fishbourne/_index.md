@@ -1,6 +1,6 @@
 ---
 title: Fishbourne
 url: /fishbourne/
-latitude: 50.731976700000004
-longitude: -1.2145819
+latitude: 50.835
+longitude: -0.81
 ---

@@ -1,6 +1,6 @@
 ---
 title: Harlington
 url: /harlington/
-latitude: 51.96461
-longitude: -0.4915687
+latitude: 51.965
+longitude: -0.488
 ---

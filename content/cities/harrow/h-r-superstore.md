@@ -1,5 +1,5 @@
 ---
 title: "H R Superstore"
 url: /harrow/h-r-superstore/
-shop: convenience
+shop: Lebensmittel
 ---

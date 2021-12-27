@@ -1,5 +1,5 @@
 ---
 title: "True Beauty Aesthetics"
 url: /wembley/true-beauty-aesthetics/
-shop: beauty
+shop: Kosmetik
 ---

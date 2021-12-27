@@ -1,5 +1,5 @@
 ---
 title: "Primark"
 url: /wandsworth/primark/
-shop: clothes
+shop: Kleidung
 ---

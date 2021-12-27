@@ -1,5 +1,5 @@
 ---
 title: "Spirals"
 url: /brightlingsea/spirals/
-shop: office supplies
+shop: Schreibwaren
 ---

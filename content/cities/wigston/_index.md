@@ -1,6 +1,6 @@
 ---
 title: Wigston
 url: /wigston/
-latitude: 52.586288
-longitude: -1.1059076
+latitude: 52.586
+longitude: -1.105
 ---

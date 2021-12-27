@@ -1,5 +1,5 @@
 ---
 title: "Xpress"
 url: /bristol/xpress/
-shop: copyshop
+shop: Kopieren
 ---

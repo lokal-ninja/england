@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /banbury/coral/
-shop: bookmaker
+shop: Wettbüro
 ---

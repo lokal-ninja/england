@@ -1,6 +1,6 @@
 ---
 title: Castle Donington
 url: /castle-donington/
-latitude: 52.84116890000001
-longitude: -1.3409476
+latitude: 52.85
+longitude: -1.34
 ---

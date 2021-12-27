@@ -1,5 +1,5 @@
 ---
 title: "Rocket"
 url: /rochester/rocket/
-shop: clothes
+shop: Kleidung
 ---

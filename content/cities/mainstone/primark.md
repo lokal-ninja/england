@@ -1,5 +1,5 @@
 ---
 title: "Primark"
 url: /mainstone/primark/
-shop: clothes
+shop: Kleidung
 ---

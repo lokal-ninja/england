@@ -1,5 +1,5 @@
 ---
 title: "Aiko"
 url: /london/aiko/
-shop: hairdresser
+shop: Friseur
 ---

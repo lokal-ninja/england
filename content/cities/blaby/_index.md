@@ -1,6 +1,6 @@
 ---
 title: Blaby
 url: /blaby/
-latitude: 52.5731976
-longitude: -1.1646389000000001
+latitude: 52.575
+longitude: -1.163
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bonema"
 url: /london/bonema/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,6 +1,6 @@
 ---
 title: Nantwich
 url: /nantwich/
-latitude: 
-longitude: 
+latitude: 53.067
+longitude: -2.522
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Whistestop"
 url: /york/whistestop/
-shop: convenience
+shop: Lebensmittel
 ---

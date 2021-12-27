@@ -1,5 +1,5 @@
 ---
 title: "Superdry"
 url: /luton/superdry/
-shop: clothes
+shop: Kleidung
 ---

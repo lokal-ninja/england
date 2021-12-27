@@ -1,6 +1,6 @@
 ---
 title: Grimethorpe
 url: /grimethorpe/
-latitude: 53.576804200000005
-longitude: -1.379153
+latitude: 53.575
+longitude: -1.379
 ---

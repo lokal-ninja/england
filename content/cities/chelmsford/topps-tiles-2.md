@@ -1,5 +1,5 @@
 ---
 title: "Topps Tiles"
 url: /chelmsford/topps-tiles-2/
-shop: tiles
+shop: Fliesen
 ---

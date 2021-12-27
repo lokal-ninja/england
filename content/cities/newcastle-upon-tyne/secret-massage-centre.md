@@ -1,5 +1,5 @@
 ---
 title: "Secret Massage Centre"
 url: /newcastle-upon-tyne/secret-massage-centre/
-shop: beauty
+shop: Kosmetik
 ---

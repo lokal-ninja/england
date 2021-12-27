@@ -1,5 +1,5 @@
 ---
 title: "Frailers"
 url: /runcorn/frailers/
-shop: musical instrument
+shop: Instrumente
 ---

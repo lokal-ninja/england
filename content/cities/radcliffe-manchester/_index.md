@@ -1,6 +1,6 @@
 ---
 title: Radcliffe, Manchester
 url: /radcliffe-manchester/
-latitude: 
-longitude: 
+latitude: 53.561
+longitude: -2.322
 ---

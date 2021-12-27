@@ -1,6 +1,6 @@
 ---
 title: Endmoor
 url: /endmoor/
-latitude: 54.25758020000001
-longitude: -2.707608
+latitude: 54.256
+longitude: -2.709
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wolesley"
 url: /twickenham/wolesley/
-shop: trade
+shop: Baustoffe
 ---

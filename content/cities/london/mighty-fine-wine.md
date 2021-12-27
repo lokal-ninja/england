@@ -1,5 +1,5 @@
 ---
 title: "Mighty Fine Wine"
 url: /london/mighty-fine-wine/
-shop: convenience
+shop: Lebensmittel
 ---

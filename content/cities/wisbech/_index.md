@@ -1,6 +1,6 @@
 ---
 title: Wisbech
 url: /wisbech/
-latitude: 
-longitude: 
+latitude: 52.642
+longitude: 0.208
 ---

@@ -1,6 +1,6 @@
 ---
 title: Bruton
 url: /bruton/
-latitude: 51.112163800000005
-longitude: -2.453328
+latitude: 51.126
+longitude: -2.436
 ---

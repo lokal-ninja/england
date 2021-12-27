@@ -1,5 +1,5 @@
 ---
 title: "Superdrug"
 url: /banstead/superdrug/
-shop: chemist
+shop: Drogerie
 ---

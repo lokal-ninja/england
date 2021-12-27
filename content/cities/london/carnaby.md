@@ -1,5 +1,5 @@
 ---
 title: "Carnaby"
 url: /london/carnaby/
-shop: clothes
+shop: Kleidung
 ---

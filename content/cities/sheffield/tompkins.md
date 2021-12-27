@@ -1,5 +1,5 @@
 ---
 title: "Tompkins"
 url: /sheffield/tompkins/
-shop: beauty
+shop: Kosmetik
 ---

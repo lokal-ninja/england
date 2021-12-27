@@ -1,5 +1,5 @@
 ---
 title: "Fresh Fruit And Veg"
 url: /southport/fresh-fruit-and-veg/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

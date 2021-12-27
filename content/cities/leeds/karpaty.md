@@ -1,5 +1,5 @@
 ---
 title: "Karpaty"
 url: /leeds/karpaty/
-shop: bakery
+shop: Bäckerei
 ---

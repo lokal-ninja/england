@@ -1,5 +1,5 @@
 ---
 title: "Country Shop"
 url: /carlisle/country-shop/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

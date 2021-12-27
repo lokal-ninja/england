@@ -1,6 +1,6 @@
 ---
 title: Mannings Heath
 url: /mannings-heath/
-latitude: 
-longitude: 
+latitude: 51.045
+longitude: -0.284
 ---

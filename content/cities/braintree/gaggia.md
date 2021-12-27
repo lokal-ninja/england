@@ -1,5 +1,5 @@
 ---
 title: "Gaggia"
 url: /braintree/gaggia/
-shop: houseware
+shop: Haushaltsartikel
 ---

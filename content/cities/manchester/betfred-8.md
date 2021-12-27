@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /manchester/betfred-8/
-shop: bookmaker
+shop: Wettbüro
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mace"
 url: /thetford/mace/
-shop: convenience
+shop: Lebensmittel
 ---

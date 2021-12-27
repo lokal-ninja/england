@@ -1,6 +1,6 @@
 ---
 title: Low Newton
 url: /low-newton/
-latitude: 54.2322715
-longitude: -2.913287
+latitude: 54.233
+longitude: -2.914
 ---

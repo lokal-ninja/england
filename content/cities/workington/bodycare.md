@@ -1,5 +1,5 @@
 ---
 title: "Bodycare"
 url: /workington/bodycare/
-shop: beauty
+shop: Kosmetik
 ---

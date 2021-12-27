@@ -1,5 +1,5 @@
 ---
 title: "Doves Vauxhall Southampton"
 url: /southampton/doves-vauxhall-southampton/
-shop: car
+shop: Autohaus
 ---

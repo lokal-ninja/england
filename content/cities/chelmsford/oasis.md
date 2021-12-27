@@ -1,5 +1,5 @@
 ---
 title: "Oasis"
 url: /chelmsford/oasis/
-shop: clothes
+shop: Kleidung
 ---

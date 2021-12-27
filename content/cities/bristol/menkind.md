@@ -1,5 +1,5 @@
 ---
 title: "MenKind"
 url: /bristol/menkind/
-shop: toys
+shop: Spielzeug
 ---

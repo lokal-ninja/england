@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /newcastle-upon-tyne/supercuts/
-shop: hairdresser
+shop: Friseur
 ---

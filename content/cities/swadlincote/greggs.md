@@ -1,5 +1,5 @@
 ---
 title: "Greggs"
 url: /swadlincote/greggs/
-shop: bakery
+shop: Bäckerei
 ---

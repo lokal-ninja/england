@@ -1,5 +1,5 @@
 ---
 title: "Perrys"
 url: /bletchley/perrys/
-shop: car
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /litherland/tesco/
-shop: supermarket
+shop: Supermarkt
 ---

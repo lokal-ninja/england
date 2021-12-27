@@ -1,5 +1,5 @@
 ---
 title: "Farnsworth"
 url: /wallsend/farnsworth/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

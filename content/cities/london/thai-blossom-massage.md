@@ -1,5 +1,5 @@
 ---
 title: "Thai Blossom Massage"
 url: /london/thai-blossom-massage/
-shop: massage
+shop: Massage
 ---

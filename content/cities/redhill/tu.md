@@ -1,5 +1,5 @@
 ---
 title: "Tu"
 url: /redhill/tu/
-shop: clothes
+shop: Kleidung
 ---

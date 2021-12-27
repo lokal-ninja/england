@@ -1,6 +1,6 @@
 ---
 title: Highcliffe
 url: /highcliffe/
-latitude: 
-longitude: 
+latitude: 50.742
+longitude: -1.696
 ---

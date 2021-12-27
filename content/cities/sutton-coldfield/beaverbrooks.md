@@ -1,5 +1,5 @@
 ---
 title: "Beaverbrooks"
 url: /sutton-coldfield/beaverbrooks/
-shop: jewelry
+shop: Schmuck
 ---

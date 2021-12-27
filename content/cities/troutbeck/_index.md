@@ -1,6 +1,6 @@
 ---
 title: Troutbeck
 url: /troutbeck/
-latitude: 54.4188265
-longitude: -2.9083316000000003
+latitude: 54.416
+longitude: -2.915
 ---

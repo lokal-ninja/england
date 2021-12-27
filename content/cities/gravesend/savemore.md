@@ -1,5 +1,5 @@
 ---
 title: "Savemore"
 url: /gravesend/savemore/
-shop: convenience
+shop: Lebensmittel
 ---

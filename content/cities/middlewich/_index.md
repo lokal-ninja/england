@@ -1,6 +1,6 @@
 ---
 title: Middlewich
 url: /middlewich/
-latitude: 53.1927371
-longitude: -2.4453171
+latitude: 53.192
+longitude: -2.448
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Browns"
 url: /olney/browns/
-shop: hairdresser
+shop: Friseur
 ---

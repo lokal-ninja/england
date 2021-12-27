@@ -1,5 +1,5 @@
 ---
 title: "Datum"
 url: /hatfield/datum/
-shop: copyshop
+shop: Kopieren
 ---

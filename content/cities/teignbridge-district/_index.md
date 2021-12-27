@@ -1,6 +1,6 @@
 ---
 title: Teignbridge District
 url: /teignbridge-district/
-latitude: 
-longitude: 
+latitude: 50.487
+longitude: -3.774
 ---

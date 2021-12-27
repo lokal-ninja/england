@@ -1,5 +1,5 @@
 ---
 title: "Kemps"
 url: /bristol/kemps/
-shop: jewelry
+shop: Schmuck
 ---

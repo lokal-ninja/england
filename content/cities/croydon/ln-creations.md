@@ -1,5 +1,5 @@
 ---
 title: "LN Creations"
 url: /croydon/ln-creations/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,6 +1,6 @@
 ---
 title: Yarnton
 url: /yarnton/
-latitude: 51.8087625
-longitude: -1.3094346000000001
+latitude: 51.804
+longitude: -1.309
 ---

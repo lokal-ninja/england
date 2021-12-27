@@ -1,6 +1,6 @@
 ---
 title: Flamborough
 url: /flamborough/
-latitude: 54.1154602
-longitude: -0.12436720000000001
+latitude: 54.116
+longitude: -0.123
 ---

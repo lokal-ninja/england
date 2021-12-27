@@ -1,5 +1,5 @@
 ---
 title: "Astrix Interiors"
 url: /wolverhampton/astrix-interiors/
-shop: kitchen
+shop: Küchen
 ---

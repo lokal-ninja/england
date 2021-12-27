@@ -1,5 +1,5 @@
 ---
 title: "Gorj"
 url: /rochester/gorj/
-shop: beauty
+shop: Kosmetik
 ---

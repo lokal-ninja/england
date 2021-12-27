@@ -1,5 +1,5 @@
 ---
 title: "PFC"
 url: /sydenham/pfc/
-shop: supermarket
+shop: Supermarkt
 ---

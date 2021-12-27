@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /reading/coral-5/
-shop: bookmaker
+shop: Wettbüro
 ---

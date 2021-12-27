@@ -1,6 +1,6 @@
 ---
 title: Rowrah
 url: /rowrah/
-latitude: 54.553674300000004
-longitude: -3.4603094000000003
+latitude: 54.554
+longitude: -3.456
 ---

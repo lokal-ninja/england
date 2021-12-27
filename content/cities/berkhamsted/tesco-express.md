@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /berkhamsted/tesco-express/
-shop: convenience
+shop: Lebensmittel
 ---

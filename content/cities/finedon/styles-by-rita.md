@@ -1,5 +1,5 @@
 ---
 title: "Styles By Rita"
 url: /finedon/styles-by-rita/
-shop: hairdresser
+shop: Friseur
 ---

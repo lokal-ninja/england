@@ -1,5 +1,5 @@
 ---
 title: "Kitchen Design Centre"
 url: /manchester/kitchen-design-centre/
-shop: kitchen
+shop: Küchen
 ---

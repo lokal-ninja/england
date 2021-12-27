@@ -1,5 +1,5 @@
 ---
 title: "Argos"
 url: /west-thurrock/argos/
-shop: shop
+shop: Allgemein
 ---

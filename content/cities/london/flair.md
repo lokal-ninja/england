@@ -1,5 +1,5 @@
 ---
 title: "Flair"
 url: /london/flair/
-shop: laundry
+shop: Wäscherei
 ---

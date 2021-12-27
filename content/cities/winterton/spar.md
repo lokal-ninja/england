@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /winterton/spar/
-shop: convenience
+shop: Lebensmittel
 ---

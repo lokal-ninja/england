@@ -1,5 +1,5 @@
 ---
 title: "asics"
 url: /london/asics/
-shop: shoes
+shop: Schuhe
 ---

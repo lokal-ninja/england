@@ -1,5 +1,5 @@
 ---
 title: "Juliets"
 url: /luton/juliets/
-shop: beauty
+shop: Kosmetik
 ---

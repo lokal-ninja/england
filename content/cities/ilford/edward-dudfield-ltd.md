@@ -1,5 +1,5 @@
 ---
 title: "Edward Dudfield Ltd"
 url: /ilford/edward-dudfield-ltd/
-shop: copyshop
+shop: Kopieren
 ---

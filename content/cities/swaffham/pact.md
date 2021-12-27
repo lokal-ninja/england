@@ -1,5 +1,5 @@
 ---
 title: "PACT"
 url: /swaffham/pact/
-shop: charity
+shop: Gebrauchtwaren
 ---

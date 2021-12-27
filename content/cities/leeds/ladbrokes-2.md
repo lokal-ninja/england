@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /leeds/ladbrokes-2/
-shop: vacant
+shop: Leerstehend
 ---

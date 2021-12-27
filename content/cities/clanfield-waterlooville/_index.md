@@ -1,6 +1,6 @@
 ---
 title: Clanfield, Waterlooville
 url: /clanfield-waterlooville/
-latitude: 
-longitude: 
+latitude: 50.935
+longitude: -0.999
 ---

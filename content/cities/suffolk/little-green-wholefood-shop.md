@@ -1,5 +1,5 @@
 ---
 title: "Little Green Wholefood Shop"
 url: /suffolk/little-green-wholefood-shop/
-shop: health food
+shop: Bioladen
 ---

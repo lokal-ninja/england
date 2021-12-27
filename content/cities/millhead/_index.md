@@ -1,6 +1,6 @@
 ---
 title: Millhead
 url: /millhead/
-latitude: 54.1354593
-longitude: -2.7704848
+latitude: 54.137
+longitude: -2.77
 ---

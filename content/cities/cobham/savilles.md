@@ -1,5 +1,5 @@
 ---
 title: "Savilles"
 url: /cobham/savilles/
-shop: laundry
+shop: Wäscherei
 ---

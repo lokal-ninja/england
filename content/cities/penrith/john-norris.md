@@ -1,5 +1,5 @@
 ---
 title: "John Norris"
 url: /penrith/john-norris/
-shop: clothes
+shop: Kleidung
 ---

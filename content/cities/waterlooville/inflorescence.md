@@ -1,5 +1,5 @@
 ---
 title: "Inflorescence"
 url: /waterlooville/inflorescence/
-shop: florist
+shop: Blumen
 ---

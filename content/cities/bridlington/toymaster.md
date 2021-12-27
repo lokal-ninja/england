@@ -1,5 +1,5 @@
 ---
 title: "Toymaster"
 url: /bridlington/toymaster/
-shop: toys
+shop: Spielzeug
 ---

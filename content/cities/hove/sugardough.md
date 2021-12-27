@@ -1,5 +1,5 @@
 ---
 title: "Sugardough"
 url: /hove/sugardough/
-shop: bakery
+shop: Bäckerei
 ---

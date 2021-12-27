@@ -1,5 +1,5 @@
 ---
 title: "Sainsbury's"
 url: /cramlington/sainsburys/
-shop: supermarket
+shop: Supermarkt
 ---

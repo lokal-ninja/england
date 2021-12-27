@@ -1,6 +1,6 @@
 ---
 title: Bulkington
 url: /bulkington/
-latitude: 51.3251007
-longitude: -2.0840979
+latitude: 52.476
+longitude: -1.424
 ---

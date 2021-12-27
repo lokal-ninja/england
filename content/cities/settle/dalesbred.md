@@ -1,5 +1,5 @@
 ---
 title: "Dalesbred"
 url: /settle/dalesbred/
-shop: furniture
+shop: Möbel
 ---

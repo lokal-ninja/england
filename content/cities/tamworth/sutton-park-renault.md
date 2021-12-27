@@ -1,5 +1,5 @@
 ---
 title: "Sutton Park Renault"
 url: /tamworth/sutton-park-renault/
-shop: car
+shop: Autohaus
 ---

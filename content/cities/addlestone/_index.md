@@ -1,6 +1,6 @@
 ---
 title: Addlestone
 url: /addlestone/
-latitude: 
-longitude: 
+latitude: 51.374
+longitude: -0.497
 ---

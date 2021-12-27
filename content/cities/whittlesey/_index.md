@@ -1,6 +1,6 @@
 ---
 title: Whittlesey
 url: /whittlesey/
-latitude: 
-longitude: 
+latitude: 52.562
+longitude: -0.128
 ---

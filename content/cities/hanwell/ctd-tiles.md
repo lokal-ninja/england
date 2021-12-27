@@ -1,5 +1,5 @@
 ---
 title: "CTD Tiles"
 url: /hanwell/ctd-tiles/
-shop: tiles
+shop: Fliesen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Superclean"
 url: /london/superclean/
-shop: laundry
+shop: Wäscherei
 ---

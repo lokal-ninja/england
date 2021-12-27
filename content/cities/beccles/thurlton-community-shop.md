@@ -1,5 +1,5 @@
 ---
 title: "Thurlton Community Shop"
 url: /beccles/thurlton-community-shop/
-shop: convenience
+shop: Lebensmittel
 ---

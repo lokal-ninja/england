@@ -1,6 +1,6 @@
 ---
 title: Bigrigg
 url: /bigrigg/
-latitude: 
-longitude: 
+latitude: 54.505
+longitude: -3.546
 ---

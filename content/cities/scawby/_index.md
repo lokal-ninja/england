@@ -1,6 +1,6 @@
 ---
 title: Scawby
 url: /scawby/
-latitude: 53.537222400000005
-longitude: -0.5406594
+latitude: 53.535
+longitude: -0.539
 ---

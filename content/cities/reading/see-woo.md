@@ -1,5 +1,5 @@
 ---
 title: "See Woo"
 url: /reading/see-woo/
-shop: supermarket
+shop: Supermarkt
 ---

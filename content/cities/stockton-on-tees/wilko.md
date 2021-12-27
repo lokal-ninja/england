@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
 url: /stockton-on-tees/wilko/
-shop: hardware
+shop: Eisenwaren
 ---

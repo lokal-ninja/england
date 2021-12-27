@@ -1,5 +1,5 @@
 ---
 title: "Vanity Fayre"
 url: /sandown/vanity-fayre/
-shop: gift
+shop: Andenken
 ---

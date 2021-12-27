@@ -1,5 +1,5 @@
 ---
 title: "Henricks"
 url: /birmingham/henricks/
-shop: jewelry
+shop: Schmuck
 ---

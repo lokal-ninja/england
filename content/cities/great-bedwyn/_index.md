@@ -1,6 +1,6 @@
 ---
 title: Great Bedwyn
 url: /great-bedwyn/
-latitude: 51.379406
-longitude: -1.601919
+latitude: 51.379
+longitude: -1.602
 ---

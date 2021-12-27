@@ -1,5 +1,5 @@
 ---
 title: "Panache"
 url: /mottingham/panache/
-shop: laundry
+shop: Wäscherei
 ---

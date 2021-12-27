@@ -1,5 +1,5 @@
 ---
 title: "Specsavers"
 url: /bromsgrove/specsavers/
-shop: optician
+shop: Optiker
 ---

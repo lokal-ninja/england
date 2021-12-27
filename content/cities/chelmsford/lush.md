@@ -1,5 +1,5 @@
 ---
 title: "Lush"
 url: /chelmsford/lush/
-shop: beauty
+shop: Kosmetik
 ---

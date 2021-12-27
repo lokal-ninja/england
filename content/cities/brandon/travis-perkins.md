@@ -1,5 +1,5 @@
 ---
 title: "Travis Perkins"
 url: /brandon/travis-perkins/
-shop: shop
+shop: Allgemein
 ---

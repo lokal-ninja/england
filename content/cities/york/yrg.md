@@ -1,5 +1,5 @@
 ---
 title: "YRG"
 url: /york/yrg/
-shop: copyshop
+shop: Kopieren
 ---

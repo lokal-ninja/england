@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /redditch/costcutter/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sollo"
 url: /reigate/sollo/
-shop: clothes
+shop: Kleidung
 ---

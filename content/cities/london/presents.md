@@ -1,5 +1,5 @@
 ---
 title: "Presents"
 url: /london/presents/
-shop: gift
+shop: Andenken
 ---

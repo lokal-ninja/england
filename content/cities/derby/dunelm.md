@@ -1,5 +1,5 @@
 ---
 title: "Dunelm"
 url: /derby/dunelm/
-shop: furniture
+shop: Möbel
 ---

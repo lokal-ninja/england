@@ -1,5 +1,5 @@
 ---
 title: "Regatta"
 url: /braintree/regatta/
-shop: clothes
+shop: Kleidung
 ---

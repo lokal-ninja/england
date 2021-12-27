@@ -1,5 +1,5 @@
 ---
 title: "DFS"
 url: /chelmsford/dfs/
-shop: furniture
+shop: Möbel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nisa Local"
 url: /new-milton/nisa-local/
-shop: convenience
+shop: Lebensmittel
 ---

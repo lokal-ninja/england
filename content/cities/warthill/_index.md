@@ -1,6 +1,6 @@
 ---
 title: Warthill
 url: /warthill/
-latitude: 53.989752900000006
-longitude: -0.9711613
+latitude: 53.999
+longitude: -0.972
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Leightons"
 url: /reading/leightons/
-shop: optician
+shop: Optiker
 ---

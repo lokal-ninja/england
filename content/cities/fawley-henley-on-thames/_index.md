@@ -1,6 +1,6 @@
 ---
 title: Fawley, Henley-on-Thames
 url: /fawley-henley-on-thames/
-latitude: 
-longitude: 
+latitude: 51.554
+longitude: -0.9
 ---

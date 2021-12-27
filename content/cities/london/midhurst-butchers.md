@@ -1,5 +1,5 @@
 ---
 title: "Midhurst Butchers"
 url: /london/midhurst-butchers/
-shop: butcher
+shop: Metzgerei
 ---

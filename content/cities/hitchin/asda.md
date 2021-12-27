@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /hitchin/asda/
-shop: supermarket
+shop: Supermarkt
 ---

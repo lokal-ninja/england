@@ -1,5 +1,5 @@
 ---
 title: "Serenity"
 url: /faringdon/serenity/
-shop: hairdresser
+shop: Friseur
 ---

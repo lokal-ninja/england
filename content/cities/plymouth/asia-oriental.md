@@ -1,5 +1,5 @@
 ---
 title: "Asia Oriental"
 url: /plymouth/asia-oriental/
-shop: supermarket
+shop: Supermarkt
 ---

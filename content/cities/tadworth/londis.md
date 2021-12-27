@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /tadworth/londis/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Select"
 url: /london/select/
-shop: clothes
+shop: Kleidung
 ---

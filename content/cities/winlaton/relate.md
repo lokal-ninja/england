@@ -1,5 +1,5 @@
 ---
 title: "Relate"
 url: /winlaton/relate/
-shop: charity
+shop: Gebrauchtwaren
 ---

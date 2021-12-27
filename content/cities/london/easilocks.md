@@ -1,5 +1,5 @@
 ---
 title: "Easilocks"
 url: /london/easilocks/
-shop: hairdresser
+shop: Friseur
 ---

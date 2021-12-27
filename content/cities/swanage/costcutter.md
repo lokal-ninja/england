@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /swanage/costcutter/
-shop: convenience
+shop: Lebensmittel
 ---

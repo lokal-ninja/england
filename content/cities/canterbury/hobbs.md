@@ -1,5 +1,5 @@
 ---
 title: "Hobbs"
 url: /canterbury/hobbs/
-shop: clothes
+shop: Kleidung
 ---

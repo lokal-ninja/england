@@ -1,5 +1,5 @@
 ---
 title: "Richards"
 url: /hunstanton/richards/
-shop: butcher
+shop: Metzgerei
 ---

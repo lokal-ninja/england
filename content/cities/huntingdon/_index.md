@@ -1,6 +1,6 @@
 ---
 title: Huntingdon
 url: /huntingdon/
-latitude: 52.3314292
-longitude: -0.1847723
+latitude: 52.346
+longitude: -0.176
 ---

@@ -1,5 +1,5 @@
 ---
 title: "secelec solutions"
 url: /eastbourne/secelec-solutions/
-shop: hardware
+shop: Eisenwaren
 ---

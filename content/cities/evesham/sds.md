@@ -1,5 +1,5 @@
 ---
 title: "SDS"
 url: /evesham/sds/
-shop: charity
+shop: Gebrauchtwaren
 ---

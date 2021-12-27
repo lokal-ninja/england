@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /ferryhill/spar/
-shop: convenience
+shop: Lebensmittel
 ---

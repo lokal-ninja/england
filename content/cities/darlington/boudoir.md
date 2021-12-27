@@ -1,5 +1,5 @@
 ---
 title: "Boudoir"
 url: /darlington/boudoir/
-shop: clothes
+shop: Kleidung
 ---

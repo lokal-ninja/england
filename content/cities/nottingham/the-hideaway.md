@@ -1,5 +1,5 @@
 ---
 title: "The Hideaway"
 url: /nottingham/the-hideaway/
-shop: hairdresser
+shop: Friseur
 ---

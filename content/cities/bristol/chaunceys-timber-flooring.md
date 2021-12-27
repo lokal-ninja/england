@@ -1,5 +1,5 @@
 ---
 title: "Chaunceys Timber Flooring"
 url: /bristol/chaunceys-timber-flooring/
-shop: flooring
+shop: Fußböden
 ---

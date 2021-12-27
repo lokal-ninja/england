@@ -1,5 +1,5 @@
 ---
 title: "Dr Aesthetica"
 url: /birmingham/dr-aesthetica/
-shop: shop
+shop: Allgemein
 ---

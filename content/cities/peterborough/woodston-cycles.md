@@ -1,5 +1,5 @@
 ---
 title: "Woodston Cycles"
 url: /peterborough/woodston-cycles/
-shop: bicycle
+shop: Fahrrad
 ---

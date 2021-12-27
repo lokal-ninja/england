@@ -1,6 +1,6 @@
 ---
 title: Shouldham Thorpe
 url: /shouldham-thorpe/
-latitude: 52.643104300000005
-longitude: 0.4553875
+latitude: 52.652
+longitude: 0.445
 ---

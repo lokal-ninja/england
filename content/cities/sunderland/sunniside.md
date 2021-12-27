@@ -1,5 +1,5 @@
 ---
 title: "Sunniside"
 url: /sunderland/sunniside/
-shop: shop
+shop: Allgemein
 ---

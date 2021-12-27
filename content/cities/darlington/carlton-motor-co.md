@@ -1,5 +1,5 @@
 ---
 title: "Carlton Motor Co"
 url: /darlington/carlton-motor-co/
-shop: car
+shop: Autohaus
 ---

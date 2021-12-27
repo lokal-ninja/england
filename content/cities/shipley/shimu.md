@@ -1,5 +1,5 @@
 ---
 title: "Shimu"
 url: /shipley/shimu/
-shop: furniture
+shop: Möbel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /warrington/tesco/
-shop: convenience
+shop: Lebensmittel
 ---

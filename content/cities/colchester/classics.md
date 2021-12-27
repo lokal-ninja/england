@@ -1,5 +1,5 @@
 ---
 title: "Classics"
 url: /colchester/classics/
-shop: music
+shop: Musik
 ---

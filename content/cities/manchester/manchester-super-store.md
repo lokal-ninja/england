@@ -1,5 +1,5 @@
 ---
 title: "Manchester Super Store"
 url: /manchester/manchester-super-store/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

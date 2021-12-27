@@ -1,5 +1,5 @@
 ---
 title: "Thorntons"
 url: /leeds/thorntons/
-shop: confectionery
+shop: Süßwaren
 ---

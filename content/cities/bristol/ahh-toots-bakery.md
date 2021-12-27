@@ -1,5 +1,5 @@
 ---
 title: "Ahh Toots Bakery"
 url: /bristol/ahh-toots-bakery/
-shop: bakery
+shop: Bäckerei
 ---

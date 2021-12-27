@@ -1,5 +1,5 @@
 ---
 title: "The Clean Machine"
 url: /london/the-clean-machine/
-shop: laundry
+shop: Wäscherei
 ---

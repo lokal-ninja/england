@@ -1,5 +1,5 @@
 ---
 title: "Wedding Centre"
 url: /derby/wedding-centre/
-shop: clothes
+shop: Kleidung
 ---

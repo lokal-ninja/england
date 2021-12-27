@@ -1,5 +1,5 @@
 ---
 title: "Rush Hair"
 url: /surbiton/rush-hair/
-shop: hairdresser
+shop: Friseur
 ---

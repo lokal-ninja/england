@@ -1,6 +1,6 @@
 ---
 title: Crewe, Cheshire
 url: /crewe-cheshire/
-latitude: 
-longitude: 
+latitude: 53.089
+longitude: -2.439
 ---

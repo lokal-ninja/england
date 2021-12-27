@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /clevedon/londis/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,6 +1,6 @@
 ---
 title: Kidderminster
 url: /kidderminster/
-latitude: 52.3880787
-longitude: -2.2478582
+latitude: 52.376
+longitude: -2.26
 ---

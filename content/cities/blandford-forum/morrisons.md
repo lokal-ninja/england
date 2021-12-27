@@ -1,5 +1,5 @@
 ---
 title: "Morrisons"
 url: /blandford-forum/morrisons/
-shop: supermarket
+shop: Supermarkt
 ---

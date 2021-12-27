@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /walsall/premier/
-shop: convenience
+shop: Lebensmittel
 ---

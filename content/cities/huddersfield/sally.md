@@ -1,5 +1,5 @@
 ---
 title: "Sally"
 url: /huddersfield/sally/
-shop: beauty
+shop: Kosmetik
 ---

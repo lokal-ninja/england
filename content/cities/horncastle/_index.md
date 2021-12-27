@@ -1,6 +1,6 @@
 ---
 title: Horncastle
 url: /horncastle/
-latitude: 53.208823900000006
-longitude: -0.11711110000000001
+latitude: 53.209
+longitude: -0.115
 ---

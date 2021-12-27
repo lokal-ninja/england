@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /ipswich/savers/
-shop: chemist
+shop: Drogerie
 ---

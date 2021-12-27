@@ -1,5 +1,5 @@
 ---
 title: "Waterman's"
 url: /rye/watermans/
-shop: bag
+shop: Taschen & Koffer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sporting Feet"
 url: /london/sporting-feet-2/
-shop: sports
+shop: Sport
 ---

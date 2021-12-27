@@ -1,6 +1,6 @@
 ---
 title: Shenstone, Lichfield
 url: /shenstone-lichfield/
-latitude: 
-longitude: 
+latitude: 52.646
+longitude: -1.836
 ---

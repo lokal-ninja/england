@@ -1,5 +1,5 @@
 ---
 title: "Pilgrim's Hospice Shop"
 url: /deal/pilgrims-hospice-shop/
-shop: charity
+shop: Gebrauchtwaren
 ---

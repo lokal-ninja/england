@@ -1,5 +1,5 @@
 ---
 title: "Lakeland Gardens"
 url: /windermere/lakeland-gardens/
-shop: garden centre
+shop: Garten-Center
 ---

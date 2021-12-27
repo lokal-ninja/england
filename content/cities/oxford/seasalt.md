@@ -1,5 +1,5 @@
 ---
 title: "Seasalt"
 url: /oxford/seasalt/
-shop: clothes
+shop: Kleidung
 ---

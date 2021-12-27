@@ -1,5 +1,5 @@
 ---
 title: "Notcutts"
 url: /cranleigh/notcutts/
-shop: garden centre
+shop: Garten-Center
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Erazor"
 url: /great-yarmouth/erazor/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /leiston/londis/
-shop: convenience
+shop: Lebensmittel
 ---

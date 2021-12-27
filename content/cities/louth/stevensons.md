@@ -1,5 +1,5 @@
 ---
 title: "Stevensons"
 url: /louth/stevensons/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

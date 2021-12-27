@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /morecambe/premier/
-shop: convenience
+shop: Lebensmittel
 ---

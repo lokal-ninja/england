@@ -1,6 +1,6 @@
 ---
 title: Yeadon, Leeds
 url: /yeadon-leeds/
-latitude: 
-longitude: 
+latitude: 53.864
+longitude: -1.697
 ---

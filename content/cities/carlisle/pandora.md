@@ -1,5 +1,5 @@
 ---
 title: "Pandora"
 url: /carlisle/pandora/
-shop: jewelry
+shop: Schmuck
 ---

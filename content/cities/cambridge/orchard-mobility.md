@@ -1,5 +1,5 @@
 ---
 title: "Orchard Mobility"
 url: /cambridge/orchard-mobility/
-shop: bicycle
+shop: Fahrrad
 ---

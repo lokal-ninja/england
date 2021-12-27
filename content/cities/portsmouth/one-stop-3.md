@@ -1,5 +1,5 @@
 ---
 title: "One Stop"
 url: /portsmouth/one-stop-3/
-shop: convenience
+shop: Lebensmittel
 ---

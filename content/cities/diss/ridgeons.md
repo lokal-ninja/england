@@ -1,5 +1,5 @@
 ---
 title: "Ridgeons"
 url: /diss/ridgeons/
-shop: hardware
+shop: Eisenwaren
 ---

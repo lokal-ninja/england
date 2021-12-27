@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /edenthorpe/tesco/
-shop: supermarket
+shop: Supermarkt
 ---

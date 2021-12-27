@@ -1,5 +1,5 @@
 ---
 title: "Thorntons"
 url: /mansfield/thorntons/
-shop: confectionery
+shop: Süßwaren
 ---

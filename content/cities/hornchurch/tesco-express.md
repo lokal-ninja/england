@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /hornchurch/tesco-express/
-shop: convenience
+shop: Lebensmittel
 ---

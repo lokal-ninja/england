@@ -1,5 +1,5 @@
 ---
 title: "Ambleside Barbers"
 url: /ambleside/ambleside-barbers/
-shop: hairdresser
+shop: Friseur
 ---

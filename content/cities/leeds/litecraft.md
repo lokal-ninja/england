@@ -1,5 +1,5 @@
 ---
 title: "Litecraft"
 url: /leeds/litecraft/
-shop: lamps
+shop: Lampen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /oadby-leicester/lidl/
-shop: supermarket
+shop: Supermarkt
 ---

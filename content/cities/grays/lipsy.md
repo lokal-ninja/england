@@ -1,5 +1,5 @@
 ---
 title: "Lipsy"
 url: /grays/lipsy/
-shop: clothes
+shop: Kleidung
 ---

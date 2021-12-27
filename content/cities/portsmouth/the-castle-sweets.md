@@ -1,5 +1,5 @@
 ---
 title: "The Castle Sweets"
 url: /portsmouth/the-castle-sweets/
-shop: confectionery
+shop: Süßwaren
 ---

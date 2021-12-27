@@ -1,5 +1,5 @@
 ---
 title: "Arnold Clark"
 url: /lillyhall/arnold-clark/
-shop: car
+shop: Autohaus
 ---

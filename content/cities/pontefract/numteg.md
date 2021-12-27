@@ -1,5 +1,5 @@
 ---
 title: "Numteg"
 url: /pontefract/numteg/
-shop: clothes
+shop: Kleidung
 ---

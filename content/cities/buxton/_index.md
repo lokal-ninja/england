@@ -1,6 +1,6 @@
 ---
 title: Buxton
 url: /buxton/
-latitude: 53.2594074
-longitude: -1.9100768000000001
+latitude: 53.255
+longitude: -1.915
 ---

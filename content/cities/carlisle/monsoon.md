@@ -1,5 +1,5 @@
 ---
 title: "Monsoon"
 url: /carlisle/monsoon/
-shop: clothes
+shop: Kleidung
 ---

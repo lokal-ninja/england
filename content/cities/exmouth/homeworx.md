@@ -1,5 +1,5 @@
 ---
 title: "Homeworx"
 url: /exmouth/homeworx/
-shop: hardware
+shop: Eisenwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Peacocks"
 url: /wakefield/peacocks/
-shop: clothes
+shop: Kleidung
 ---

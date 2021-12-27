@@ -1,6 +1,6 @@
 ---
 title: Stoney Stanton
 url: /stoney-stanton/
-latitude: 52.548211300000006
-longitude: -1.2806017
+latitude: 52.549
+longitude: -1.279
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Clearance Bargains"
 url: /darlington/clearance-bargains/
-shop: shop
+shop: Allgemein
 ---

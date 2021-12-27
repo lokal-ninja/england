@@ -1,5 +1,5 @@
 ---
 title: "Rozmaryn"
 url: /bristol/rozmaryn/
-shop: deli
+shop: Feinkost
 ---

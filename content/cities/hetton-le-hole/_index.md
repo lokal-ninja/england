@@ -1,6 +1,6 @@
 ---
 title: Hetton le hole
 url: /hetton-le-hole/
-latitude: 
-longitude: 
+latitude: 54.825
+longitude: -1.448
 ---

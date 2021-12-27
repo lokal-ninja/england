@@ -1,5 +1,5 @@
 ---
 title: "Homefix"
 url: /whitton/homefix/
-shop: doityourself
+shop: Baumarkt
 ---

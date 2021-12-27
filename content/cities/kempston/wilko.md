@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
 url: /kempston/wilko/
-shop: hardware
+shop: Eisenwaren
 ---

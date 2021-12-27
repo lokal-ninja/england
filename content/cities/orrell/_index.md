@@ -1,6 +1,6 @@
 ---
 title: Orrell
 url: /orrell/
-latitude: 53.5409591
-longitude: -2.6950493
+latitude: 53.54
+longitude: -2.704
 ---

@@ -1,6 +1,6 @@
 ---
 title: Cheddar
 url: /cheddar/
-latitude: 51.2752587
-longitude: -2.7766373
+latitude: 51.272
+longitude: -2.783
 ---

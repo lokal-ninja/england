@@ -1,5 +1,5 @@
 ---
 title: "Tonic"
 url: /leeds/tonic/
-shop: hairdresser
+shop: Friseur
 ---

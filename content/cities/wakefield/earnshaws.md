@@ -1,5 +1,5 @@
 ---
 title: "Earnshaws"
 url: /wakefield/earnshaws/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

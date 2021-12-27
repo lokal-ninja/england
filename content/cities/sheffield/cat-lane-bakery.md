@@ -1,5 +1,5 @@
 ---
 title: "Cat Lane Bakery"
 url: /sheffield/cat-lane-bakery/
-shop: bakery
+shop: Bäckerei
 ---

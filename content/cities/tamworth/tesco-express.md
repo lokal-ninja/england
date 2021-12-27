@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /tamworth/tesco-express/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Waitrose"
 url: /thame/waitrose/
-shop: supermarket
+shop: Supermarkt
 ---

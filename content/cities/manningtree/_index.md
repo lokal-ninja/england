@@ -1,6 +1,6 @@
 ---
 title: Manningtree
 url: /manningtree/
-latitude: 
-longitude: 
+latitude: 51.945
+longitude: 1.064
 ---

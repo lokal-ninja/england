@@ -1,5 +1,5 @@
 ---
 title: "CashConverters"
 url: /manchester/cashconverters/
-shop: pawnbroker
+shop: Leiher
 ---

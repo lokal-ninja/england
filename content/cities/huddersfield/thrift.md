@@ -1,5 +1,5 @@
 ---
 title: "Thrift"
 url: /huddersfield/thrift/
-shop: shop
+shop: Allgemein
 ---

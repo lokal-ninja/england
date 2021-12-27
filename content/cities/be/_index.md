@@ -1,6 +1,6 @@
 ---
 title: bE
 url: /be/
-latitude: 
-longitude: 
+latitude: 51.459
+longitude: 0.157
 ---

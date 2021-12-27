@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /northampton/londis-3/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,6 +1,6 @@
 ---
 title: Wiggington
 url: /wiggington/
-latitude: 52.9126653
-longitude: -2.9888855000000003
+latitude: 54.024
+longitude: -1.115
 ---

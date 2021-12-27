@@ -1,5 +1,5 @@
 ---
 title: "Headrow"
 url: /bridlington/headrow/
-shop: hairdresser
+shop: Friseur
 ---

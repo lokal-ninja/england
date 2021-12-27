@@ -1,6 +1,6 @@
 ---
 title: Portchester
 url: /portchester/
-latitude: 
-longitude: 
+latitude: 50.847
+longitude: -1.125
 ---

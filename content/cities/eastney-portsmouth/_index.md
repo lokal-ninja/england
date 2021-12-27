@@ -1,6 +1,6 @@
 ---
 title: Eastney, Portsmouth
 url: /eastney-portsmouth/
-latitude: 
-longitude: 
+latitude: 50.788
+longitude: -1.043
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Harveys"
 url: /taunton/harveys/
-shop: furniture
+shop: Möbel
 ---

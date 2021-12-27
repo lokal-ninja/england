@@ -1,5 +1,5 @@
 ---
 title: "KAM Servicing"
 url: /nottingham/kam-servicing/
-shop: car repair
+shop: Autowerkstatt
 ---

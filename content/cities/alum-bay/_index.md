@@ -1,6 +1,6 @@
 ---
 title: Alum Bay
 url: /alum-bay/
-latitude: 50.6678791
-longitude: -1.5657608
+latitude: 50.667
+longitude: -1.559
 ---

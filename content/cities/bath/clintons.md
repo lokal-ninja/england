@@ -1,5 +1,5 @@
 ---
 title: "Clintons"
 url: /bath/clintons/
-shop: gift
+shop: Andenken
 ---

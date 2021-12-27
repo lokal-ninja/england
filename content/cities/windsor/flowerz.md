@@ -1,5 +1,5 @@
 ---
 title: "Flowerz"
 url: /windsor/flowerz/
-shop: florist
+shop: Blumen
 ---

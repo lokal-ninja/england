@@ -1,5 +1,5 @@
 ---
 title: "Taunton Leisure"
 url: /exeter/taunton-leisure/
-shop: outdoor
+shop: Outdoor
 ---

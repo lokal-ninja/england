@@ -1,5 +1,5 @@
 ---
 title: "Superdrug"
 url: /kettering/superdrug/
-shop: chemist
+shop: Drogerie
 ---

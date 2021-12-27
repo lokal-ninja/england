@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /sutton-coldfield/betfred/
-shop: bookmaker
+shop: Wettbüro
 ---

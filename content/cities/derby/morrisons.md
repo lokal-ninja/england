@@ -1,5 +1,5 @@
 ---
 title: "Morrisons"
 url: /derby/morrisons/
-shop: supermarket
+shop: Supermarkt
 ---

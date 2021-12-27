@@ -1,5 +1,5 @@
 ---
 title: "Richards"
 url: /croydon/richards/
-shop: convenience
+shop: Lebensmittel
 ---

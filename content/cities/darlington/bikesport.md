@@ -1,5 +1,5 @@
 ---
 title: "Bikesport"
 url: /darlington/bikesport/
-shop: bicycle
+shop: Fahrrad
 ---

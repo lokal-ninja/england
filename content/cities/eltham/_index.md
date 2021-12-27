@@ -1,6 +1,6 @@
 ---
 title: Eltham
 url: /eltham/
-latitude: 51.450568700000005
-longitude: 0.0541253
+latitude: 51.451
+longitude: 0.053
 ---

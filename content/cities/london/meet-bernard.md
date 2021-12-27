@@ -1,5 +1,5 @@
 ---
 title: "Meet Bernard"
 url: /london/meet-bernard/
-shop: clothes
+shop: Kleidung
 ---

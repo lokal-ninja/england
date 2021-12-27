@@ -1,5 +1,5 @@
 ---
 title: "Gandolfi"
 url: /wellingborough/gandolfi/
-shop: clothes
+shop: Kleidung
 ---

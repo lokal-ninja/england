@@ -1,6 +1,6 @@
 ---
 title: Longton
 url: /longton/
-latitude: 52.98548520000001
-longitude: -2.1291025
+latitude: 52.989
+longitude: -2.136
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Neebo"
 url: /nottingham/neebo/
-shop: deli
+shop: Feinkost
 ---

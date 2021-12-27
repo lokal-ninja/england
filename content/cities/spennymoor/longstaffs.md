@@ -1,5 +1,5 @@
 ---
 title: "Longstaffs"
 url: /spennymoor/longstaffs/
-shop: bakery
+shop: Bäckerei
 ---

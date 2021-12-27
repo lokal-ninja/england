@@ -1,6 +1,6 @@
 ---
 title: Windermere
 url: /windermere/
-latitude: 54.379482800000005
-longitude: -2.9061994
+latitude: 54.378
+longitude: -2.906
 ---

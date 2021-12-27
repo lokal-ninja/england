@@ -1,5 +1,5 @@
 ---
 title: "Clarks"
 url: /easingwold/clarks/
-shop: bakery
+shop: Bäckerei
 ---

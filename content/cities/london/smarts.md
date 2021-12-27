@@ -1,5 +1,5 @@
 ---
 title: "Smart's"
 url: /london/smarts/
-shop: laundry
+shop: Wäscherei
 ---

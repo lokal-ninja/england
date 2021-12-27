@@ -1,5 +1,5 @@
 ---
 title: "Follow The Sun"
 url: /wellingborough/follow-the-sun/
-shop: jewelry
+shop: Schmuck
 ---

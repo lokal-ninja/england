@@ -1,5 +1,5 @@
 ---
 title: "RSPCA"
 url: /horsell/rspca/
-shop: charity
+shop: Gebrauchtwaren
 ---

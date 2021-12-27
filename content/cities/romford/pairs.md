@@ -1,5 +1,5 @@
 ---
 title: "Pairs"
 url: /romford/pairs/
-shop: clothes
+shop: Kleidung
 ---

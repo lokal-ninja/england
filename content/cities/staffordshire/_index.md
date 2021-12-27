@@ -1,6 +1,6 @@
 ---
 title: Staffordshire
 url: /staffordshire/
-latitude: 
-longitude: 
+latitude: 52.987
+longitude: -1.99
 ---

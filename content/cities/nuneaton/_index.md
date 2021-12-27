@@ -1,6 +1,6 @@
 ---
 title: Nuneaton
 url: /nuneaton/
-latitude: 52.524618200000006
-longitude: -1.4684488
+latitude: 52.522
+longitude: -1.469
 ---

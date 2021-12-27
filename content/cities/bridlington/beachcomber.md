@@ -1,5 +1,5 @@
 ---
 title: "Beachcomber"
 url: /bridlington/beachcomber/
-shop: shop
+shop: Allgemein
 ---

@@ -1,6 +1,6 @@
 ---
 title: Swarland
 url: /swarland/
-latitude: 
-longitude: 
+latitude: 55.325
+longitude: -1.744
 ---

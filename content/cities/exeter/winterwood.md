@@ -1,5 +1,5 @@
 ---
 title: "Winterwood"
 url: /exeter/winterwood/
-shop: furniture
+shop: Möbel
 ---

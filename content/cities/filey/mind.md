@@ -1,5 +1,5 @@
 ---
 title: "Mind"
 url: /filey/mind/
-shop: charity
+shop: Gebrauchtwaren
 ---

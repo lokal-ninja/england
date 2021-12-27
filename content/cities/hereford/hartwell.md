@@ -1,5 +1,5 @@
 ---
 title: "Hartwell"
 url: /hereford/hartwell/
-shop: car
+shop: Autohaus
 ---

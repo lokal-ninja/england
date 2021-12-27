@@ -1,6 +1,6 @@
 ---
 title: Warboys
 url: /warboys/
-latitude: 52.4041489
-longitude: -0.07935590000000001
+latitude: 52.403
+longitude: -0.082
 ---

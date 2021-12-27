@@ -1,5 +1,5 @@
 ---
 title: "Shinx"
 url: /leeds/shinx/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,6 +1,6 @@
 ---
 title: Histon
 url: /histon/
-latitude: 52.252510300000004
-longitude: 0.10806410000000001
+latitude: 52.252
+longitude: 0.106
 ---

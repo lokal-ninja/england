@@ -1,6 +1,6 @@
 ---
 title: Swadlincote
 url: /swadlincote/
-latitude: 
-longitude: 
+latitude: 52.785
+longitude: -1.557
 ---

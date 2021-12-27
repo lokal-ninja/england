@@ -1,6 +1,6 @@
 ---
 title: Nethertown
 url: /nethertown/
-latitude: 52.757490000000004
-longitude: -1.8405327
+latitude: 54.458
+longitude: -3.554
 ---

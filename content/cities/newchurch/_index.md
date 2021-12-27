@@ -1,6 +1,6 @@
 ---
 title: Newchurch
 url: /newchurch/
-latitude: 53.6979874
-longitude: -2.2543617
+latitude: 50.679
+longitude: -1.216
 ---

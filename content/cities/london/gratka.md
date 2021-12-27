@@ -1,5 +1,5 @@
 ---
 title: "Gratka"
 url: /london/gratka/
-shop: deli
+shop: Feinkost
 ---

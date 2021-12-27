@@ -1,5 +1,5 @@
 ---
 title: "Scope"
 url: /petersfield/scope/
-shop: charity
+shop: Gebrauchtwaren
 ---

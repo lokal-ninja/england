@@ -1,5 +1,5 @@
 ---
 title: "Infiniti"
 url: /bristol/infiniti/
-shop: furniture
+shop: Möbel
 ---

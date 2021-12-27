@@ -1,6 +1,6 @@
 ---
 title: Eaton Bray
 url: /eaton-bray/
-latitude: 51.8772158
-longitude: -0.593161
+latitude: 51.875
+longitude: -0.587
 ---

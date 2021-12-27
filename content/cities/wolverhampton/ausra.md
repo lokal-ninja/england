@@ -1,5 +1,5 @@
 ---
 title: "Ausra"
 url: /wolverhampton/ausra/
-shop: convenience
+shop: Lebensmittel
 ---

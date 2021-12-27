@@ -1,5 +1,5 @@
 ---
 title: "Once Upon A Time"
 url: /alston/once-upon-a-time/
-shop: books
+shop: Bücher
 ---

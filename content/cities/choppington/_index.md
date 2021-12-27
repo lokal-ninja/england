@@ -1,6 +1,6 @@
 ---
 title: Choppington
 url: /choppington/
-latitude: 55.1486055
-longitude: -1.6015702
+latitude: 55.159
+longitude: -1.604
 ---

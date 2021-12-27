@@ -1,5 +1,5 @@
 ---
 title: "Retro"
 url: /darlington/retro/
-shop: confectionery
+shop: Süßwaren
 ---

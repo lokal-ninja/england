@@ -1,5 +1,5 @@
 ---
 title: "Harwoods"
 url: /pulborough/harwoods/
-shop: car
+shop: Autohaus
 ---

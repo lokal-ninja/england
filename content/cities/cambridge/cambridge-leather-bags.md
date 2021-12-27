@@ -1,5 +1,5 @@
 ---
 title: "Cambridge Leather Bags"
 url: /cambridge/cambridge-leather-bags/
-shop: bag
+shop: Taschen & Koffer
 ---

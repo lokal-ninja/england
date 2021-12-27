@@ -1,5 +1,5 @@
 ---
 title: "Hotter"
 url: /worcester/hotter/
-shop: shoes
+shop: Schuhe
 ---

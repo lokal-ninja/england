@@ -1,6 +1,6 @@
 ---
 title: Coniston
 url: /coniston/
-latitude: 53.800369
-longitude: -0.2475312
+latitude: 54.369
+longitude: -3.076
 ---

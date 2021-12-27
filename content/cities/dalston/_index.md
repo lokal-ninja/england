@@ -1,6 +1,6 @@
 ---
 title: Dalston
 url: /dalston/
-latitude: 54.84249440000001
-longitude: -2.9842825000000004
+latitude: 54.841
+longitude: -2.984
 ---

@@ -1,6 +1,6 @@
 ---
 title: Uttlesford
 url: /uttlesford/
-latitude: 
-longitude: 
+latitude: 51.851
+longitude: 0.379
 ---

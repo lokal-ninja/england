@@ -1,5 +1,5 @@
 ---
 title: "Lapel"
 url: /derby/lapel/
-shop: clothes
+shop: Kleidung
 ---

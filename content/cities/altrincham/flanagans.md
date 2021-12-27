@@ -1,5 +1,5 @@
 ---
 title: "Flanagans"
 url: /altrincham/flanagans/
-shop: hairdresser
+shop: Friseur
 ---

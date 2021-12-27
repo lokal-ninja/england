@@ -1,5 +1,5 @@
 ---
 title: "applegreen"
 url: /ludlow/applegreen/
-shop: convenience
+shop: Lebensmittel
 ---

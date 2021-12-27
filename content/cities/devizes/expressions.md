@@ -1,5 +1,5 @@
 ---
 title: "Expressions"
 url: /devizes/expressions/
-shop: gift
+shop: Andenken
 ---

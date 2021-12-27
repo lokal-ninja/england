@@ -1,5 +1,5 @@
 ---
 title: "Flair design"
 url: /sutton-coldfield/flair-design/
-shop: beauty
+shop: Kosmetik
 ---

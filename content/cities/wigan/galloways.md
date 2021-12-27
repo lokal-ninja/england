@@ -1,5 +1,5 @@
 ---
 title: "Galloways"
 url: /wigan/galloways/
-shop: bakery
+shop: Bäckerei
 ---

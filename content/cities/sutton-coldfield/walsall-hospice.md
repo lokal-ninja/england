@@ -1,5 +1,5 @@
 ---
 title: "Walsall Hospice"
 url: /sutton-coldfield/walsall-hospice/
-shop: charity
+shop: Gebrauchtwaren
 ---

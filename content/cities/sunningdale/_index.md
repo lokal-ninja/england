@@ -1,6 +1,6 @@
 ---
 title: Sunningdale
 url: /sunningdale/
-latitude: 52.543601900000006
-longitude: 1.7288839
+latitude: 51.392
+longitude: -0.634
 ---

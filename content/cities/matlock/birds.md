@@ -1,5 +1,5 @@
 ---
 title: "Birds"
 url: /matlock/birds/
-shop: bakery
+shop: Bäckerei
 ---

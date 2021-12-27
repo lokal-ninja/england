@@ -1,6 +1,6 @@
 ---
 title: Fordbridge
 url: /fordbridge/
-latitude: 52.4854415
-longitude: -1.7472627
+latitude: 52.479
+longitude: -1.74
 ---

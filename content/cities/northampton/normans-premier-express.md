@@ -1,5 +1,5 @@
 ---
 title: "Normans Premier Express"
 url: /northampton/normans-premier-express/
-shop: convenience
+shop: Lebensmittel
 ---

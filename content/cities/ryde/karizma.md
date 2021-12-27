@@ -1,5 +1,5 @@
 ---
 title: "Karizma"
 url: /ryde/karizma/
-shop: hairdresser
+shop: Friseur
 ---

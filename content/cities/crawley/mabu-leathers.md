@@ -1,5 +1,5 @@
 ---
 title: "Mabu Leathers"
 url: /crawley/mabu-leathers/
-shop: clothes
+shop: Kleidung
 ---

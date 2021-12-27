@@ -1,6 +1,6 @@
 ---
 title: Frome
 url: /frome/
-latitude: 51.2270558
-longitude: -2.3192971
+latitude: 51.23
+longitude: -2.321
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Elly's Wine Store"
 url: /gosport/ellys-wine-store/
-shop: convenience
+shop: Lebensmittel
 ---

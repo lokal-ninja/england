@@ -1,5 +1,5 @@
 ---
 title: "Kosmos"
 url: /newcastle-upon-tyne/kosmos/
-shop: computer
+shop: Computer
 ---

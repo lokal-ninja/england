@@ -1,5 +1,5 @@
 ---
 title: "Smokers Cloud Horden"
 url: /horden/smokers-cloud-horden/
-shop: shop
+shop: Allgemein
 ---

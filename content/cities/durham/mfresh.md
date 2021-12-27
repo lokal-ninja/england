@@ -1,5 +1,5 @@
 ---
 title: "MFresh"
 url: /durham/mfresh/
-shop: convenience
+shop: Lebensmittel
 ---

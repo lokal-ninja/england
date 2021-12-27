@@ -1,5 +1,5 @@
 ---
 title: "Oddies"
 url: /nelson/oddies/
-shop: bakery
+shop: Bäckerei
 ---

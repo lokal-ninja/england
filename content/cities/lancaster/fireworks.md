@@ -1,5 +1,5 @@
 ---
 title: "Fireworks"
 url: /lancaster/fireworks/
-shop: pyrotechnics
+shop: Pyrotechnik
 ---

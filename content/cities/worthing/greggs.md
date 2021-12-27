@@ -1,5 +1,5 @@
 ---
 title: "Greggs"
 url: /worthing/greggs/
-shop: bakery
+shop: Bäckerei
 ---

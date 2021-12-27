@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /southsea/tesco-express-5/
-shop: convenience
+shop: Lebensmittel
 ---

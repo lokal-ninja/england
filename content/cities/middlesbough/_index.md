@@ -1,6 +1,6 @@
 ---
 title: Middlesbough
 url: /middlesbough/
-latitude: 
-longitude: 
+latitude: 54.577
+longitude: -1.236
 ---

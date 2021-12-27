@@ -1,5 +1,5 @@
 ---
 title: "Just for Pets"
 url: /cambridge/just-for-pets-2/
-shop: pet
+shop: Tiere
 ---

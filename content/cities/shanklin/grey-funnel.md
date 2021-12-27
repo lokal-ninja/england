@@ -1,5 +1,5 @@
 ---
 title: "Grey Funnel"
 url: /shanklin/grey-funnel/
-shop: art
+shop: Kunst
 ---

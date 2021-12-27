@@ -1,5 +1,5 @@
 ---
 title: "Priest Brothers"
 url: /chelmsford/priest-brothers/
-shop: furniture
+shop: Möbel
 ---

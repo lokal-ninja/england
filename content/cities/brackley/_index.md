@@ -1,6 +1,6 @@
 ---
 title: Brackley
 url: /brackley/
-latitude: 52.029760700000004
-longitude: -1.1484577
+latitude: 52.037
+longitude: -1.154
 ---

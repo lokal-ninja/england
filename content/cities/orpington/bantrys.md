@@ -1,5 +1,5 @@
 ---
 title: "Bantrys"
 url: /orpington/bantrys/
-shop: beauty
+shop: Kosmetik
 ---

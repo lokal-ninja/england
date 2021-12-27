@@ -1,5 +1,5 @@
 ---
 title: "Gardenia"
 url: /london/gardenia/
-shop: florist
+shop: Blumen
 ---

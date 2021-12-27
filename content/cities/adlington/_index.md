@@ -1,6 +1,6 @@
 ---
 title: Adlington
 url: /adlington/
-latitude: 53.3195057
-longitude: -2.1309128
+latitude: 53.308
+longitude: -2.139
 ---

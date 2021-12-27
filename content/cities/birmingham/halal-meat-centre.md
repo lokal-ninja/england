@@ -1,5 +1,5 @@
 ---
 title: "Halal Meat Centre"
 url: /birmingham/halal-meat-centre/
-shop: butcher
+shop: Metzgerei
 ---

@@ -1,6 +1,6 @@
 ---
 title: Paulsgrove, Portsmouth
 url: /paulsgrove-portsmouth/
-latitude: 
-longitude: 
+latitude: 50.851
+longitude: -1.075
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Prime Linens"
 url: /croydon/prime-linens/
-shop: fabric
+shop: Textil
 ---

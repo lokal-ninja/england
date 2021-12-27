@@ -1,6 +1,6 @@
 ---
 title: St Annes
 url: /st-annes/
-latitude: 
-longitude: 
+latitude: 53.763
+longitude: -3.024
 ---

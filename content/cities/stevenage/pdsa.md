@@ -1,5 +1,5 @@
 ---
 title: "PDSA"
 url: /stevenage/pdsa/
-shop: charity
+shop: Gebrauchtwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Taylor's Autos"
 url: /leigh/taylors-autos/
-shop: car repair
+shop: Autowerkstatt
 ---

@@ -1,6 +1,6 @@
 ---
 title: Loughborough
 url: /loughborough/
-latitude: 52.7723859
-longitude: -1.2077985
+latitude: 52.765
+longitude: -1.234
 ---

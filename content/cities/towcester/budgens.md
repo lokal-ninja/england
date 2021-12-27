@@ -1,5 +1,5 @@
 ---
 title: "Budgens"
 url: /towcester/budgens/
-shop: supermarket
+shop: Supermarkt
 ---

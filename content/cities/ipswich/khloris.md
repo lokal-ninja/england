@@ -1,5 +1,5 @@
 ---
 title: "Khloris"
 url: /ipswich/khloris/
-shop: florist
+shop: Blumen
 ---

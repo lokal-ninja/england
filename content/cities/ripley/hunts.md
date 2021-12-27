@@ -1,5 +1,5 @@
 ---
 title: "Hunts"
 url: /ripley/hunts/
-shop: butcher
+shop: Metzgerei
 ---

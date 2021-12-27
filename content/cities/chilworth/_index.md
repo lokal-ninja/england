@@ -1,6 +1,6 @@
 ---
 title: Chilworth
 url: /chilworth/
-latitude: 51.2141943
-longitude: -0.5319115
+latitude: 51.214
+longitude: -0.54
 ---

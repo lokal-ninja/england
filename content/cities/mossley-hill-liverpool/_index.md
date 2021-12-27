@@ -1,6 +1,6 @@
 ---
 title: Mossley Hill, Liverpool
 url: /mossley-hill-liverpool/
-latitude: 
-longitude: 
+latitude: 53.389
+longitude: -2.916
 ---

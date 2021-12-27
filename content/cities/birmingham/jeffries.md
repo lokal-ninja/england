@@ -1,5 +1,5 @@
 ---
 title: "Jeffries"
 url: /birmingham/jeffries/
-shop: hardware
+shop: Eisenwaren
 ---

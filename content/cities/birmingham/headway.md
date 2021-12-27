@@ -1,5 +1,5 @@
 ---
 title: "Headway"
 url: /birmingham/headway/
-shop: charity
+shop: Gebrauchtwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wards"
 url: /gillingham/wards/
-shop: newsagent
+shop: Zeitungen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carmelo"
 url: /cambridge/carmelo/
-shop: hairdresser
+shop: Friseur
 ---

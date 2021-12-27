@@ -1,5 +1,5 @@
 ---
 title: "Cost"
 url: /wallsend/cost/
-shop: convenience
+shop: Lebensmittel
 ---

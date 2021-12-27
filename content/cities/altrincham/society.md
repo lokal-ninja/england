@@ -1,5 +1,5 @@
 ---
 title: "Society"
 url: /altrincham/society/
-shop: boutique
+shop: Modehaus
 ---

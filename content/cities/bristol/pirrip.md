@@ -1,5 +1,5 @@
 ---
 title: "Pirrip"
 url: /bristol/pirrip/
-shop: office supplies
+shop: Schreibwaren
 ---

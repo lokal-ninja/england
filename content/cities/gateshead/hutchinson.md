@@ -1,5 +1,5 @@
 ---
 title: "Hutchinson"
 url: /gateshead/hutchinson/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

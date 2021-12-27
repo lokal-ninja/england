@@ -1,5 +1,5 @@
 ---
 title: "Woven"
 url: /durham/woven/
-shop: clothes
+shop: Kleidung
 ---

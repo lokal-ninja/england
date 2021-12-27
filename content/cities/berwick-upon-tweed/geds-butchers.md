@@ -1,5 +1,5 @@
 ---
 title: "Ged’s Butchers"
 url: /berwick-upon-tweed/geds-butchers/
-shop: butcher
+shop: Metzgerei
 ---

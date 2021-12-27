@@ -1,5 +1,5 @@
 ---
 title: "Dorking Butchery"
 url: /dorking/dorking-butchery/
-shop: butcher
+shop: Metzgerei
 ---

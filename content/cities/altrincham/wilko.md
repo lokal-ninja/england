@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
 url: /altrincham/wilko/
-shop: variety store
+shop: Kramladen
 ---

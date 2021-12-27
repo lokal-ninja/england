@@ -1,6 +1,6 @@
 ---
 title: Clay Hill
 url: /clay-hill/
-latitude: 54.456497600000006
-longitude: -2.1555279
+latitude: 50.908
+longitude: 0.049
 ---

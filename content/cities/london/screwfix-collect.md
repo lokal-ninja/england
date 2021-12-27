@@ -1,5 +1,5 @@
 ---
 title: "Screwfix Collect"
 url: /london/screwfix-collect/
-shop: doityourself
+shop: Baumarkt
 ---

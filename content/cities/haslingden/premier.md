@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /haslingden/premier/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Macouti"
 url: /northwich/macouti/
-shop: gift
+shop: Andenken
 ---

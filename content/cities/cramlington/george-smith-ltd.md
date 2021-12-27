@@ -1,5 +1,5 @@
 ---
 title: "George Smith Ltd"
 url: /cramlington/george-smith-ltd/
-shop: furniture
+shop: Möbel
 ---

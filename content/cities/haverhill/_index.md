@@ -1,6 +1,6 @@
 ---
 title: Haverhill
 url: /haverhill/
-latitude: 52.0832721
-longitude: 0.43539320000000004
+latitude: 52.074
+longitude: 0.437
 ---

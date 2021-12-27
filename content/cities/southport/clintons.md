@@ -1,5 +1,5 @@
 ---
 title: "Clintons"
 url: /southport/clintons/
-shop: gift
+shop: Andenken
 ---

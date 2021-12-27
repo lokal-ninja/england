@@ -1,6 +1,6 @@
 ---
 title: Warkworth
 url: /warkworth/
-latitude: 55.347762900000006
-longitude: -1.6103256000000001
+latitude: 55.348
+longitude: -1.612
 ---

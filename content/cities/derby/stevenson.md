@@ -1,5 +1,5 @@
 ---
 title: "Stevenson"
 url: /derby/stevenson/
-shop: butcher
+shop: Metzgerei
 ---

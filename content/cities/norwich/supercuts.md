@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /norwich/supercuts/
-shop: hairdresser
+shop: Friseur
 ---

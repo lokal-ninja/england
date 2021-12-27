@@ -1,6 +1,6 @@
 ---
 title: Stockbridge
 url: /stockbridge/
-latitude: 
-longitude: 
+latitude: 51.093
+longitude: -1.558
 ---

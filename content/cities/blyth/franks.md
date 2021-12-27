@@ -1,5 +1,5 @@
 ---
 title: "Franks"
 url: /blyth/franks/
-shop: carpet
+shop: Teppiche
 ---

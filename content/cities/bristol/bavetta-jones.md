@@ -1,5 +1,5 @@
 ---
 title: "Bavetta Jones"
 url: /bristol/bavetta-jones/
-shop: hairdresser
+shop: Friseur
 ---

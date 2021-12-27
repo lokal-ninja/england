@@ -1,6 +1,6 @@
 ---
 title: Hampton Gay, Kidlington
 url: /hampton-gay-kidlington/
-latitude: 
-longitude: 
+latitude: 51.844
+longitude: -1.284
 ---

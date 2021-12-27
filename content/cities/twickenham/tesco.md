@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /twickenham/tesco/
-shop: convenience
+shop: Lebensmittel
 ---

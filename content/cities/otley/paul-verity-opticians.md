@@ -1,5 +1,5 @@
 ---
 title: "Paul Verity Opticians"
 url: /otley/paul-verity-opticians/
-shop: optician
+shop: Optiker
 ---

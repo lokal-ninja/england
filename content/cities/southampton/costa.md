@@ -1,5 +1,5 @@
 ---
 title: "Costa"
 url: /southampton/costa/
-shop: shop
+shop: Allgemein
 ---

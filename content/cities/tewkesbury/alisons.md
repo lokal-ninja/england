@@ -1,5 +1,5 @@
 ---
 title: "Alison's"
 url: /tewkesbury/alisons/
-shop: books
+shop: Bücher
 ---

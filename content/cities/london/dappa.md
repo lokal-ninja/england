@@ -1,5 +1,5 @@
 ---
 title: "Dappa"
 url: /london/dappa/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Burberry"
 url: /ellesmere-port/burberry/
-shop: clothes
+shop: Kleidung
 ---

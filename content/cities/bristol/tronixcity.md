@@ -1,5 +1,5 @@
 ---
 title: "Tronixcity"
 url: /bristol/tronixcity/
-shop: electronics
+shop: Elektronik
 ---

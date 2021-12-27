@@ -1,6 +1,6 @@
 ---
 title: Hughenden Valley
 url: /hughenden-valley/
-latitude: 51.6632152
-longitude: -0.7513708
+latitude: 51.662
+longitude: -0.752
 ---

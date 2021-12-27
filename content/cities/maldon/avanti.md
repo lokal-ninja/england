@@ -1,5 +1,5 @@
 ---
 title: "Avanti"
 url: /maldon/avanti/
-shop: frame
+shop: Rahmen
 ---

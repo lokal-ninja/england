@@ -1,5 +1,5 @@
 ---
 title: "Renaisance"
 url: /kirkby-stephen/renaisance/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Magik Clippers"
 url: /norwich/magik-clippers/
-shop: hairdresser
+shop: Friseur
 ---

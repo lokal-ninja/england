@@ -1,5 +1,5 @@
 ---
 title: "Wilsons Barber Shop"
 url: /romford/wilsons-barber-shop/
-shop: hairdresser
+shop: Friseur
 ---

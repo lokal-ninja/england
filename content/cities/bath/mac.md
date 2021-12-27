@@ -1,5 +1,5 @@
 ---
 title: "MAC"
 url: /bath/mac/
-shop: beauty
+shop: Kosmetik
 ---

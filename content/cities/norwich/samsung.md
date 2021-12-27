@@ -1,5 +1,5 @@
 ---
 title: "Samsung"
 url: /norwich/samsung/
-shop: electronics
+shop: Elektronik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "My Luna"
 url: /wakefield/my-luna/
-shop: clothes
+shop: Kleidung
 ---

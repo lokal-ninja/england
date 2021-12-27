@@ -1,5 +1,5 @@
 ---
 title: "Heaters Bakery"
 url: /byfleet/heaters-bakery/
-shop: bakery
+shop: Bäckerei
 ---

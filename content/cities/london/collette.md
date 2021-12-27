@@ -1,5 +1,5 @@
 ---
 title: "Collette"
 url: /london/collette/
-shop: bag
+shop: Taschen & Koffer
 ---

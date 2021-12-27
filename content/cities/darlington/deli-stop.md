@@ -1,5 +1,5 @@
 ---
 title: "Deli Stop"
 url: /darlington/deli-stop/
-shop: deli
+shop: Feinkost
 ---

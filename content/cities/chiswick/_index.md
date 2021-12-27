@@ -1,6 +1,6 @@
 ---
 title: Chiswick
 url: /chiswick/
-latitude: 51.492313700000004
-longitude: -0.263818
+latitude: 51.494
+longitude: -0.28
 ---

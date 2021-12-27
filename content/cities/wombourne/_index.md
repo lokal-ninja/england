@@ -1,6 +1,6 @@
 ---
 title: Wombourne
 url: /wombourne/
-latitude: 52.5352881
-longitude: -2.1847034
+latitude: 52.536
+longitude: -2.187
 ---

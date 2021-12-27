@@ -1,6 +1,6 @@
 ---
 title: Tunbridge Wells
 url: /tunbridge-wells/
-latitude: 
-longitude: 
+latitude: 51.136
+longitude: 0.269
 ---

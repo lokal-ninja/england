@@ -1,5 +1,5 @@
 ---
 title: "Nirvana"
 url: /blackpool/nirvana/
-shop: hairdresser
+shop: Friseur
 ---

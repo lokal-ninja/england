@@ -1,5 +1,5 @@
 ---
 title: "Wrapped!"
 url: /canterbury/wrapped/
-shop: gift
+shop: Andenken
 ---

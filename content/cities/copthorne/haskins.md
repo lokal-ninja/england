@@ -1,5 +1,5 @@
 ---
 title: "Haskins"
 url: /copthorne/haskins/
-shop: garden centre
+shop: Garten-Center
 ---

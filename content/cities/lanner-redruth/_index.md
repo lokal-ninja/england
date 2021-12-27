@@ -1,6 +1,6 @@
 ---
 title: Lanner, Redruth
 url: /lanner-redruth/
-latitude: 
-longitude: 
+latitude: 50.215
+longitude: -5.194
 ---

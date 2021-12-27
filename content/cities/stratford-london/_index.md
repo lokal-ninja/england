@@ -1,6 +1,6 @@
 ---
 title: Stratford, London
 url: /stratford-london/
-latitude: 
-longitude: 
+latitude: 51.54
+longitude: 0.011
 ---

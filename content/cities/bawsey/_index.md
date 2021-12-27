@@ -1,6 +1,6 @@
 ---
 title: Bawsey
 url: /bawsey/
-latitude: 52.750503
-longitude: 0.48925100000000005
+latitude: 52.75
+longitude: 0.488
 ---

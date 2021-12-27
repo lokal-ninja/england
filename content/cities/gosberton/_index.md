@@ -1,6 +1,6 @@
 ---
 title: Gosberton
 url: /gosberton/
-latitude: 52.869059
-longitude: -0.161089
+latitude: 52.867
+longitude: -0.157
 ---

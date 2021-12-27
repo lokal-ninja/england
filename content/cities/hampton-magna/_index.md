@@ -1,6 +1,6 @@
 ---
 title: Hampton Magna
 url: /hampton-magna/
-latitude: 52.282502300000004
-longitude: -1.6201901
+latitude: 52.283
+longitude: -1.623
 ---

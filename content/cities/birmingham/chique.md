@@ -1,5 +1,5 @@
 ---
 title: "Chique"
 url: /birmingham/chique/
-shop: hairdresser
+shop: Friseur
 ---

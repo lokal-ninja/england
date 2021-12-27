@@ -1,5 +1,5 @@
 ---
 title: "Superdry"
 url: /grays/superdry/
-shop: clothes
+shop: Kleidung
 ---

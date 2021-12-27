@@ -1,5 +1,5 @@
 ---
 title: "Thorntons"
 url: /southport/thorntons/
-shop: confectionery
+shop: Süßwaren
 ---

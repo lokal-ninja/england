@@ -1,6 +1,6 @@
 ---
 title: Hockliffe
 url: /hockliffe/
-latitude: 51.9321488
-longitude: -0.5838148000000001
+latitude: 51.929
+longitude: -0.584
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jacks"
 url: /ryde/jacks/
-shop: antiques
+shop: Antiquitäten
 ---

@@ -1,6 +1,6 @@
 ---
 title: Renhold
 url: /renhold/
-latitude: 
-longitude: 
+latitude: 52.161
+longitude: -0.427
 ---

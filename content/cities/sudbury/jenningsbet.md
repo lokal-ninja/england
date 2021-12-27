@@ -1,5 +1,5 @@
 ---
 title: "JenningsBet"
 url: /sudbury/jenningsbet/
-shop: bookmaker
+shop: Wettbüro
 ---

@@ -1,5 +1,5 @@
 ---
 title: "DC Cycles"
 url: /ulverston/dc-cycles/
-shop: bicycle
+shop: Fahrrad
 ---

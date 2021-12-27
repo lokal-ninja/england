@@ -1,5 +1,5 @@
 ---
 title: "Farol Ltd"
 url: /daventry/farol-ltd/
-shop: hardware
+shop: Eisenwaren
 ---

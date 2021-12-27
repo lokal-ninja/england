@@ -1,5 +1,5 @@
 ---
 title: "Millets"
 url: /stroud/millets/
-shop: outdoor
+shop: Outdoor
 ---

@@ -1,6 +1,6 @@
 ---
 title: Shelley, Huddersfield
 url: /shelley-huddersfield/
-latitude: 
-longitude: 
+latitude: 53.594
+longitude: -1.699
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Morrisons"
 url: /letchworth-garden-city/morrisons/
-shop: supermarket
+shop: Supermarkt
 ---

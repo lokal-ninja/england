@@ -1,6 +1,6 @@
 ---
 title: Muker
 url: /muker/
-latitude: 54.3767955
-longitude: -2.1396541
+latitude: 54.376
+longitude: -2.141
 ---

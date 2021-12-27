@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /hastings/lidl/
-shop: supermarket
+shop: Supermarkt
 ---

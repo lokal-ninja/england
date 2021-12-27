@@ -1,5 +1,5 @@
 ---
 title: "Trend"
 url: /addlestone/trend/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Co-op"
 url: /maidenhead/co-op/
-shop: convenience
+shop: Lebensmittel
 ---

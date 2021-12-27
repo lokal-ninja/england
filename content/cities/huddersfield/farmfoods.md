@@ -1,5 +1,5 @@
 ---
 title: "Farmfoods"
 url: /huddersfield/farmfoods/
-shop: frozen food
+shop: Tiefkühl
 ---

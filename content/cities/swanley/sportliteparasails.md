@@ -1,5 +1,5 @@
 ---
 title: "Sportliteparasails"
 url: /swanley/sportliteparasails/
-shop: sports
+shop: Sport
 ---

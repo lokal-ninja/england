@@ -1,6 +1,6 @@
 ---
 title: Baddesley Ensor
 url: /baddesley-ensor/
-latitude: 52.5809568
-longitude: -1.6033956
+latitude: 52.579
+longitude: -1.601
 ---

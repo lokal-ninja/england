@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /st-austell/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

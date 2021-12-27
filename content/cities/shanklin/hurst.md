@@ -1,5 +1,5 @@
 ---
 title: "Hurst"
 url: /shanklin/hurst/
-shop: hardware
+shop: Eisenwaren
 ---

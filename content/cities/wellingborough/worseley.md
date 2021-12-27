@@ -1,5 +1,5 @@
 ---
 title: "Worseley"
 url: /wellingborough/worseley/
-shop: hardware
+shop: Eisenwaren
 ---

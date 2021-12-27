@@ -1,5 +1,5 @@
 ---
 title: "Esso"
 url: /twickenham/esso/
-shop: kiosk
+shop: Kiosk
 ---

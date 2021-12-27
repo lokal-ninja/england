@@ -1,6 +1,6 @@
 ---
 title: Kileder
 url: /kileder/
-latitude: 
-longitude: 
+latitude: 55.235
+longitude: -2.581
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Park Furnishers"
 url: /bristol/park-furnishers/
-shop: furniture
+shop: Möbel
 ---

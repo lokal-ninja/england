@@ -1,6 +1,6 @@
 ---
 title: Hale
 url: /hale/
-latitude: 51.2295256
-longitude: -0.7851887000000001
+latitude: 53.336
+longitude: -2.799
 ---

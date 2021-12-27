@@ -1,5 +1,5 @@
 ---
 title: "Anu"
 url: /bembridge/anu/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Burton"
 url: /blyth/burton/
-shop: clothes
+shop: Kleidung
 ---

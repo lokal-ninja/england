@@ -1,5 +1,5 @@
 ---
 title: "Toymasters"
 url: /otley/toymasters/
-shop: toys
+shop: Spielzeug
 ---

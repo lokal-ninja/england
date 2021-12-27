@@ -1,5 +1,5 @@
 ---
 title: "Cliftwell Service Station Dealership"
 url: /amble/cliftwell-service-station-dealership/
-shop: car
+shop: Autohaus
 ---

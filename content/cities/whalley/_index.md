@@ -1,6 +1,6 @@
 ---
 title: Whalley
 url: /whalley/
-latitude: 53.821541200000006
-longitude: -2.4059596
+latitude: 53.822
+longitude: -2.407
 ---

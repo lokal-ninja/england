@@ -1,5 +1,5 @@
 ---
 title: "Vape Outlet"
 url: /stockport/vape-outlet/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

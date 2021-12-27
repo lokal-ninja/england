@@ -1,5 +1,5 @@
 ---
 title: "Accessorize"
 url: /leeds/accessorize/
-shop: shop
+shop: Allgemein
 ---

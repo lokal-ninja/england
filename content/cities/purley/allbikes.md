@@ -1,5 +1,5 @@
 ---
 title: "AllBikes"
 url: /purley/allbikes/
-shop: motorcycle
+shop: Motorrad
 ---

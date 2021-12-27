@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /halifax/lidl/
-shop: supermarket
+shop: Supermarkt
 ---

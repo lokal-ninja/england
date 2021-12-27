@@ -1,6 +1,6 @@
 ---
 title: Bridford
 url: /bridford/
-latitude: 50.6657226
-longitude: -3.6755214
+latitude: 50.671
+longitude: -3.649
 ---

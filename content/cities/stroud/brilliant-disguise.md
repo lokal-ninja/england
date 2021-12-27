@@ -1,5 +1,5 @@
 ---
 title: "Brilliant Disguise"
 url: /stroud/brilliant-disguise/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Divas"
 url: /cambridge/divas/
-shop: beauty
+shop: Kosmetik
 ---

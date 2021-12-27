@@ -1,5 +1,5 @@
 ---
 title: "Colchester Dry Cleaners"
 url: /colchester/colchester-dry-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

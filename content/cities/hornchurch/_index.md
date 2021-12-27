@@ -1,6 +1,6 @@
 ---
 title: Hornchurch
 url: /hornchurch/
-latitude: 
-longitude: 
+latitude: 51.563
+longitude: 0.217
 ---

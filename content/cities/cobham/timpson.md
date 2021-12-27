@@ -1,5 +1,5 @@
 ---
 title: "Timpson"
 url: /cobham/timpson/
-shop: locksmith
+shop: Schlüsseldienst
 ---

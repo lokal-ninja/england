@@ -1,5 +1,5 @@
 ---
 title: "Flyde Sports UK"
 url: /blackpool/flyde-sports-uk/
-shop: sports
+shop: Sport
 ---

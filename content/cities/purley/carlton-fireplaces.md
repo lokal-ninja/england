@@ -1,5 +1,5 @@
 ---
 title: "Carlton Fireplaces"
 url: /purley/carlton-fireplaces/
-shop: fireplace
+shop: Kamine & Öfen
 ---

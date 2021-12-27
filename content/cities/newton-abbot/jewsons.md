@@ -1,5 +1,5 @@
 ---
 title: "Jewsons"
 url: /newton-abbot/jewsons/
-shop: doityourself
+shop: Baumarkt
 ---

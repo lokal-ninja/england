@@ -1,5 +1,5 @@
 ---
 title: "Lookers"
 url: /birmingham/lookers/
-shop: car
+shop: Autohaus
 ---

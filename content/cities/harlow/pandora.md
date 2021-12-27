@@ -1,5 +1,5 @@
 ---
 title: "Pandora"
 url: /harlow/pandora/
-shop: jewelry
+shop: Schmuck
 ---

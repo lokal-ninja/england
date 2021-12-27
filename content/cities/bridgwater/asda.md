@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /bridgwater/asda/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lockstock"
 url: /bradford/lockstock/
-shop: hairdresser
+shop: Friseur
 ---

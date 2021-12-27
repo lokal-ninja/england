@@ -1,6 +1,6 @@
 ---
 title: Petts Wood, Orpington
 url: /petts-wood-orpington/
-latitude: 
-longitude: 
+latitude: 51.388
+longitude: 0.074
 ---

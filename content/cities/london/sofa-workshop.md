@@ -1,5 +1,5 @@
 ---
 title: "Sofa Workshop"
 url: /london/sofa-workshop/
-shop: furniture
+shop: Möbel
 ---

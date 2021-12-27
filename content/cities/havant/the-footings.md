@@ -1,5 +1,5 @@
 ---
 title: "The Footings"
 url: /havant/the-footings/
-shop: shoes
+shop: Schuhe
 ---

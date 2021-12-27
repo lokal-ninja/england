@@ -1,5 +1,5 @@
 ---
 title: "GK Hair Design"
 url: /chester-le-street/gk-hair-design/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kiwis Veg"
 url: /atherton/kiwis-veg/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wren"
 url: /broadstairs/wren/
-shop: kitchen
+shop: Küchen
 ---

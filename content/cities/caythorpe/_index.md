@@ -1,6 +1,6 @@
 ---
 title: Caythorpe
 url: /caythorpe/
-latitude: 53.0250422
-longitude: -0.6033186
+latitude: 53.022
+longitude: -0.602
 ---

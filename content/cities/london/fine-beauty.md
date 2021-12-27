@@ -1,5 +1,5 @@
 ---
 title: "Fine Beauty"
 url: /london/fine-beauty/
-shop: hairdresser
+shop: Friseur
 ---

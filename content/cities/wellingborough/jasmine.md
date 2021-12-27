@@ -1,5 +1,5 @@
 ---
 title: "Jasmine"
 url: /wellingborough/jasmine/
-shop: hairdresser
+shop: Friseur
 ---

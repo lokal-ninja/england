@@ -1,5 +1,5 @@
 ---
 title: "Yesterdays News Shop"
 url: /st-austell/yesterdays-news-shop/
-shop: convenience
+shop: Lebensmittel
 ---

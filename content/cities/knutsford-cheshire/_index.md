@@ -1,6 +1,6 @@
 ---
 title: Knutsford, Cheshire
 url: /knutsford-cheshire/
-latitude: 
-longitude: 
+latitude: 53.306
+longitude: -2.374
 ---

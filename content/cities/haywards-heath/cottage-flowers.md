@@ -1,5 +1,5 @@
 ---
 title: "Cottage Flowers"
 url: /haywards-heath/cottage-flowers/
-shop: florist
+shop: Blumen
 ---

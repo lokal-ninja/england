@@ -1,6 +1,6 @@
 ---
 title: Hayes, Middlesex
 url: /hayes-middlesex/
-latitude: 
-longitude: 
+latitude: 51.515
+longitude: -0.403
 ---

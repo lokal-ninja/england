@@ -1,5 +1,5 @@
 ---
 title: "Mikes"
 url: /ilminster/mikes/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

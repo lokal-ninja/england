@@ -1,5 +1,5 @@
 ---
 title: "Planet Organic"
 url: /wandsworth/planet-organic/
-shop: supermarket
+shop: Supermarkt
 ---

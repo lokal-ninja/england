@@ -1,5 +1,5 @@
 ---
 title: "Penningtons"
 url: /hexham/penningtons/
-shop: optician
+shop: Optiker
 ---

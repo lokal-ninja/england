@@ -1,5 +1,5 @@
 ---
 title: "Zabella"
 url: /cambridge/zabella/
-shop: beauty
+shop: Kosmetik
 ---

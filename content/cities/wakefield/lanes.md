@@ -1,5 +1,5 @@
 ---
 title: "Lanes"
 url: /wakefield/lanes/
-shop: shoes
+shop: Schuhe
 ---

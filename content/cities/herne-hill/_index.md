@@ -1,6 +1,6 @@
 ---
 title: Herne Hill
 url: /herne-hill/
-latitude: 51.455440700000004
-longitude: -0.1001002
+latitude: 51.451
+longitude: -0.101
 ---

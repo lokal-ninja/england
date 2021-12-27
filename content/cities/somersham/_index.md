@@ -1,6 +1,6 @@
 ---
 title: Somersham
 url: /somersham/
-latitude: 52.0979935
-longitude: 1.0426219
+latitude: 52.378
+longitude: -0.024
 ---

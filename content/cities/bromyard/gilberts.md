@@ -1,5 +1,5 @@
 ---
 title: "Gilbert's"
 url: /bromyard/gilberts/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

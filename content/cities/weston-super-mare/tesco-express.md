@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /weston-super-mare/tesco-express/
-shop: convenience
+shop: Lebensmittel
 ---

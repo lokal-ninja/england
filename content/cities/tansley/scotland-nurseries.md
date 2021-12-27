@@ -1,5 +1,5 @@
 ---
 title: "Scotland Nurseries"
 url: /tansley/scotland-nurseries/
-shop: garden centre
+shop: Garten-Center
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /ipswich/spar/
-shop: convenience
+shop: Lebensmittel
 ---

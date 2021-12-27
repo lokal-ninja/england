@@ -1,6 +1,6 @@
 ---
 title: Hartford, Northwich
 url: /hartford-northwich/
-latitude: 
-longitude: 
+latitude: 53.245
+longitude: -2.546
 ---

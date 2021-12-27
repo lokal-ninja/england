@@ -1,6 +1,6 @@
 ---
 title: Arreton
 url: /arreton/
-latitude: 50.6756912
-longitude: -1.2399347
+latitude: 50.678
+longitude: -1.247
 ---

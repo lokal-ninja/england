@@ -1,5 +1,5 @@
 ---
 title: "Kimberley's Nail Designs"
 url: /worcester-park/kimberleys-nail-designs/
-shop: beauty
+shop: Kosmetik
 ---

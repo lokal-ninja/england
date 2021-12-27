@@ -1,6 +1,6 @@
 ---
 title: Ingatestone
 url: /ingatestone/
-latitude: 51.671066700000004
-longitude: 0.3858842
+latitude: 51.671
+longitude: 0.385
 ---

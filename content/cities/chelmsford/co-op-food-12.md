@@ -1,5 +1,5 @@
 ---
 title: "Co-op Food"
 url: /chelmsford/co-op-food-12/
-shop: convenience
+shop: Lebensmittel
 ---

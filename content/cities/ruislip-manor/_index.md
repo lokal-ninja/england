@@ -1,6 +1,6 @@
 ---
 title: Ruislip Manor
 url: /ruislip-manor/
-latitude: 
-longitude: 
+latitude: 51.574
+longitude: -0.414
 ---

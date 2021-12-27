@@ -1,6 +1,6 @@
 ---
 title: Bromsgrove
 url: /bromsgrove/
-latitude: 52.335381600000005
-longitude: -2.0597449
+latitude: 52.335
+longitude: -2.061
 ---

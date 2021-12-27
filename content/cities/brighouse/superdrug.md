@@ -1,5 +1,5 @@
 ---
 title: "Superdrug"
 url: /brighouse/superdrug/
-shop: chemist
+shop: Drogerie
 ---

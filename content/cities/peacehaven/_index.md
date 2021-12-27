@@ -1,6 +1,6 @@
 ---
 title: Peacehaven
 url: /peacehaven/
-latitude: 50.796218100000004
-longitude: -0.0027387
+latitude: 50.789
+longitude: 0.013
 ---

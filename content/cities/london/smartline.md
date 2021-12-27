@@ -1,5 +1,5 @@
 ---
 title: "smartline"
 url: /london/smartline/
-shop: mobile phone
+shop: Handy
 ---

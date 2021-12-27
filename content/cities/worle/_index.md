@@ -1,6 +1,6 @@
 ---
 title: Worle
 url: /worle/
-latitude: 51.3607291
-longitude: -2.9275312000000002
+latitude: 51.359
+longitude: -2.911
 ---

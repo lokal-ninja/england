@@ -1,5 +1,5 @@
 ---
 title: "St Gemma"
 url: /leeds/st-gemma/
-shop: charity
+shop: Gebrauchtwaren
 ---

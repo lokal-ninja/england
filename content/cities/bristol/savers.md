@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /bristol/savers/
-shop: variety store
+shop: Kramladen
 ---

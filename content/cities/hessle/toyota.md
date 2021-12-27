@@ -1,5 +1,5 @@
 ---
 title: "Toyota"
 url: /hessle/toyota/
-shop: car
+shop: Autohaus
 ---

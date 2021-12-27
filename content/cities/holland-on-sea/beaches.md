@@ -1,5 +1,5 @@
 ---
 title: "Beaches"
 url: /holland-on-sea/beaches/
-shop: beauty
+shop: Kosmetik
 ---

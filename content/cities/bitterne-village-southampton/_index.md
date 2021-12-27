@@ -1,6 +1,6 @@
 ---
 title: Bitterne Village, Southampton
 url: /bitterne-village-southampton/
-latitude: 
-longitude: 
+latitude: 50.915
+longitude: -1.36
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /lewes/tesco/
-shop: supermarket
+shop: Supermarkt
 ---

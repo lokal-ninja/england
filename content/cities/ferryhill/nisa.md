@@ -1,5 +1,5 @@
 ---
 title: "Nisa"
 url: /ferryhill/nisa/
-shop: convenience
+shop: Lebensmittel
 ---

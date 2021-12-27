@@ -1,5 +1,5 @@
 ---
 title: "ScS"
 url: /sunderland/scs/
-shop: furniture
+shop: Möbel
 ---

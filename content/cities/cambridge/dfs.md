@@ -1,5 +1,5 @@
 ---
 title: "DFS"
 url: /cambridge/dfs/
-shop: furniture
+shop: Möbel
 ---

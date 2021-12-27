@@ -1,5 +1,5 @@
 ---
 title: "Beach News"
 url: /south-shields/beach-news/
-shop: convenience
+shop: Lebensmittel
 ---

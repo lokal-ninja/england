@@ -1,5 +1,5 @@
 ---
 title: "Kumasi Market"
 url: /london/kumasi-market/
-shop: convenience
+shop: Lebensmittel
 ---

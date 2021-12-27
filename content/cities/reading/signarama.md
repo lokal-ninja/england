@@ -1,5 +1,5 @@
 ---
 title: "Signarama"
 url: /reading/signarama/
-shop: lettering
+shop: Beschriftungen
 ---

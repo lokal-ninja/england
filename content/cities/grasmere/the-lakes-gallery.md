@@ -1,5 +1,5 @@
 ---
 title: "The Lakes Gallery"
 url: /grasmere/the-lakes-gallery/
-shop: antiques
+shop: Antiquitäten
 ---

@@ -1,6 +1,6 @@
 ---
 title: Stow on the Wold, Cheltenham
 url: /stow-on-the-wold-cheltenham/
-latitude: 
-longitude: 
+latitude: 51.93
+longitude: -1.723
 ---

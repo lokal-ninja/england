@@ -1,6 +1,6 @@
 ---
 title: Jordans
 url: /jordans/
-latitude: 51.6130512
-longitude: -0.594935
+latitude: 51.614
+longitude: -0.596
 ---

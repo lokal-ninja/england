@@ -1,6 +1,6 @@
 ---
 title: Ampleforth
 url: /ampleforth/
-latitude: 54.2003252
-longitude: -1.1063053
+latitude: 54.201
+longitude: -1.108
 ---

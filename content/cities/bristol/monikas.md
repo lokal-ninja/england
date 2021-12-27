@@ -1,5 +1,5 @@
 ---
 title: "Monika's"
 url: /bristol/monikas/
-shop: convenience
+shop: Lebensmittel
 ---

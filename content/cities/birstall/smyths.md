@@ -1,5 +1,5 @@
 ---
 title: "Smyths"
 url: /birstall/smyths/
-shop: toys
+shop: Spielzeug
 ---

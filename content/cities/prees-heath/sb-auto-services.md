@@ -1,5 +1,5 @@
 ---
 title: "SB Auto Services"
 url: /prees-heath/sb-auto-services/
-shop: car repair
+shop: Autowerkstatt
 ---

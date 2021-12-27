@@ -1,6 +1,6 @@
 ---
 title: Haslemere
 url: /haslemere/
-latitude: 51.0876062
-longitude: -0.7097768000000001
+latitude: 51.083
+longitude: -0.741
 ---

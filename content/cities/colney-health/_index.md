@@ -1,6 +1,6 @@
 ---
 title: Colney Health
 url: /colney-health/
-latitude: 
-longitude: 
+latitude: 51.74
+longitude: -0.266
 ---

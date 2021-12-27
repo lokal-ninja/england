@@ -1,6 +1,6 @@
 ---
 title: Bury
 url: /bury/
-latitude: 51.0359187
-longitude: -3.5065337000000003
+latitude: 53.592
+longitude: -2.318
 ---

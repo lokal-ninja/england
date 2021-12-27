@@ -1,5 +1,5 @@
 ---
 title: "Lloyd's"
 url: /bristol/lloyds/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

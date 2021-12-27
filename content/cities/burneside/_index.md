@@ -1,6 +1,6 @@
 ---
 title: Burneside
 url: /burneside/
-latitude: 
-longitude: 
+latitude: 54.354
+longitude: -2.762
 ---

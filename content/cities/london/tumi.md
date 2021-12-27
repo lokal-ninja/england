@@ -1,5 +1,5 @@
 ---
 title: "Tumi"
 url: /london/tumi/
-shop: bag
+shop: Taschen & Koffer
 ---

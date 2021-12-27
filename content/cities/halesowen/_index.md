@@ -1,6 +1,6 @@
 ---
 title: Halesowen
 url: /halesowen/
-latitude: 52.449207400000006
-longitude: -2.0514646
+latitude: 52.448
+longitude: -2.053
 ---

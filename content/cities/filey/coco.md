@@ -1,5 +1,5 @@
 ---
 title: "CoCo"
 url: /filey/coco/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,6 +1,6 @@
 ---
 title: Botton
 url: /botton/
-latitude: 54.4275049
-longitude: -0.9288366
+latitude: 54.428
+longitude: -0.929
 ---

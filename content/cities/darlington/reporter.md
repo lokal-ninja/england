@@ -1,5 +1,5 @@
 ---
 title: "Reporter"
 url: /darlington/reporter/
-shop: clothes
+shop: Kleidung
 ---

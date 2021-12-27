@@ -1,5 +1,5 @@
 ---
 title: "Greatway Food Store"
 url: /london/greatway-food-store/
-shop: convenience
+shop: Lebensmittel
 ---

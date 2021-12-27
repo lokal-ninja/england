@@ -1,5 +1,5 @@
 ---
 title: "Cliffs"
 url: /margate/cliffs/
-shop: music
+shop: Musik
 ---

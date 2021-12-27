@@ -1,5 +1,5 @@
 ---
 title: "uCig"
 url: /derby/ucig/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

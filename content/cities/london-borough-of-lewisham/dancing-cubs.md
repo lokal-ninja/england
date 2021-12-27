@@ -1,5 +1,5 @@
 ---
 title: "Dancing Cubs"
 url: /london-borough-of-lewisham/dancing-cubs/
-shop: party
+shop: Partyzubehör
 ---

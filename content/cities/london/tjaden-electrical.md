@@ -1,5 +1,5 @@
 ---
 title: "Tjaden Electrical"
 url: /london/tjaden-electrical/
-shop: electrical
+shop: Elektrisch
 ---

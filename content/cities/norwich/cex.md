@@ -1,5 +1,5 @@
 ---
 title: "CeX"
 url: /norwich/cex/
-shop: electronics
+shop: Elektronik
 ---

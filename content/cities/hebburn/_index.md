@@ -1,6 +1,6 @@
 ---
 title: Hebburn
 url: /hebburn/
-latitude: 54.972637600000006
-longitude: -1.5173449
+latitude: 54.961
+longitude: -1.499
 ---

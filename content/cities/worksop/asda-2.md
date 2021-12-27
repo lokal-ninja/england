@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /worksop/asda-2/
-shop: supermarket
+shop: Supermarkt
 ---

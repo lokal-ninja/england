@@ -1,5 +1,5 @@
 ---
 title: "Co-operative"
 url: /blackfen/co-operative/
-shop: supermarket
+shop: Supermarkt
 ---

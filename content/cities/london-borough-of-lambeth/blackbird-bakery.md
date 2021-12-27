@@ -1,5 +1,5 @@
 ---
 title: "Blackbird Bakery"
 url: /london-borough-of-lambeth/blackbird-bakery/
-shop: bakery
+shop: Bäckerei
 ---

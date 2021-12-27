@@ -1,5 +1,5 @@
 ---
 title: "Miele"
 url: /plymouth/miele/
-shop: kitchen
+shop: Küchen
 ---

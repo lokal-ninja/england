@@ -1,5 +1,5 @@
 ---
 title: "Hairport"
 url: /huddersfield/hairport/
-shop: hairdresser
+shop: Friseur
 ---

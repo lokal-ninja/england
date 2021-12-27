@@ -1,5 +1,5 @@
 ---
 title: "FixPC"
 url: /richmond/fixpc/
-shop: computer
+shop: Computer
 ---

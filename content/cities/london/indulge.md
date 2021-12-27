@@ -1,5 +1,5 @@
 ---
 title: "Indulge"
 url: /london/indulge/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rogalik"
 url: /wellingborough/rogalik/
-shop: deli
+shop: Feinkost
 ---

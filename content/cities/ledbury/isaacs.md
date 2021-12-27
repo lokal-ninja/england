@@ -1,5 +1,5 @@
 ---
 title: "Isaacs"
 url: /ledbury/isaacs/
-shop: clothes
+shop: Kleidung
 ---

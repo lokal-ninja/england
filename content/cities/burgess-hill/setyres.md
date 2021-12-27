@@ -1,5 +1,5 @@
 ---
 title: "Setyres"
 url: /burgess-hill/setyres/
-shop: tyres
+shop: Reifen
 ---

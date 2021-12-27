@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /chafford-hundred/tesco-express/
-shop: convenience
+shop: Lebensmittel
 ---

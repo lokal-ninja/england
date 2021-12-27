@@ -1,5 +1,5 @@
 ---
 title: "Joules"
 url: /st-albans/joules/
-shop: clothes
+shop: Kleidung
 ---

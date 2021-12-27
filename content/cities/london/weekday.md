@@ -1,5 +1,5 @@
 ---
 title: "Weekday"
 url: /london/weekday/
-shop: clothes
+shop: Kleidung
 ---

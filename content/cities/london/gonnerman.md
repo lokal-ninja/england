@@ -1,5 +1,5 @@
 ---
 title: "Gonnerman"
 url: /london/gonnerman/
-shop: antiques
+shop: Antiquitäten
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lush"
 url: /croydon/lush/
-shop: beauty
+shop: Kosmetik
 ---

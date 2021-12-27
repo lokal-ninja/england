@@ -1,5 +1,5 @@
 ---
 title: "Igloo"
 url: /london/igloo/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

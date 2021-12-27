@@ -1,6 +1,6 @@
 ---
 title: Redcar
 url: /redcar/
-latitude: 
-longitude: 
+latitude: 54.594
+longitude: -1.069
 ---

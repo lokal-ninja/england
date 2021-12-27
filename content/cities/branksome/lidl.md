@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /branksome/lidl/
-shop: supermarket
+shop: Supermarkt
 ---

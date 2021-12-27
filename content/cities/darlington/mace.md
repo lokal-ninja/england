@@ -1,5 +1,5 @@
 ---
 title: "Mace"
 url: /darlington/mace/
-shop: convenience
+shop: Lebensmittel
 ---

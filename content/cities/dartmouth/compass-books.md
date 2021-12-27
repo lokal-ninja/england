@@ -1,5 +1,5 @@
 ---
 title: "Compass Books"
 url: /dartmouth/compass-books/
-shop: books
+shop: Bücher
 ---

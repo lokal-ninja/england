@@ -1,5 +1,5 @@
 ---
 title: "Sharman's"
 url: /glenridding/sharmans/
-shop: convenience
+shop: Lebensmittel
 ---

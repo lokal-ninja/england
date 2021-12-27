@@ -1,5 +1,5 @@
 ---
 title: "Steampunk"
 url: /newport/steampunk/
-shop: tobacco
+shop: Tabak
 ---

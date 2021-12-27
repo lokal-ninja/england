@@ -1,5 +1,5 @@
 ---
 title: "Ottolenghi"
 url: /london/ottolenghi/
-shop: deli
+shop: Feinkost
 ---

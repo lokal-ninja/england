@@ -1,6 +1,6 @@
 ---
 title: Saxmundham
 url: /saxmundham/
-latitude: 52.214253500000005
-longitude: 1.4918009
+latitude: 52.215
+longitude: 1.492
 ---

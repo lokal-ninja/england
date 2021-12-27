@@ -1,6 +1,6 @@
 ---
 title: West Moseley
 url: /west-moseley/
-latitude: 
-longitude: 
+latitude: 51.408
+longitude: -0.368
 ---

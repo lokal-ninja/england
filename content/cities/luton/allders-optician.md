@@ -1,5 +1,5 @@
 ---
 title: "Allders Optician"
 url: /luton/allders-optician/
-shop: optician
+shop: Optiker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Best Of Both Worlds"
 url: /banstead/best-of-both-worlds/
-shop: beauty
+shop: Kosmetik
 ---

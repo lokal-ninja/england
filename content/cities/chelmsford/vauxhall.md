@@ -1,5 +1,5 @@
 ---
 title: "Vauxhall"
 url: /chelmsford/vauxhall/
-shop: car
+shop: Autohaus
 ---

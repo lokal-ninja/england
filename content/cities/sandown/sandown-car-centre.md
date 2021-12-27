@@ -1,5 +1,5 @@
 ---
 title: "Sandown Car Centre"
 url: /sandown/sandown-car-centre/
-shop: car
+shop: Autohaus
 ---

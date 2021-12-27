@@ -1,6 +1,6 @@
 ---
 title: Worplesdon
 url: /worplesdon/
-latitude: 51.2737333
-longitude: -0.6057805
+latitude: 51.281
+longitude: -0.618
 ---

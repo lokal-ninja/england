@@ -1,5 +1,5 @@
 ---
 title: "Love Aroma"
 url: /london/love-aroma/
-shop: perfumery
+shop: Parfümerie
 ---

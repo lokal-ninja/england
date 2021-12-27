@@ -1,6 +1,6 @@
 ---
 title: Preston Gubbals
 url: /preston-gubbals/
-latitude: 52.771557200000004
-longitude: -2.7527213
+latitude: 52.769
+longitude: -2.75
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lane Plastics Ltd"
 url: /hebburn/lane-plastics-ltd/
-shop: shop
+shop: Allgemein
 ---

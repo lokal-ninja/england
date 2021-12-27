@@ -1,5 +1,5 @@
 ---
 title: "YMCA"
 url: /darlington/ymca/
-shop: charity
+shop: Gebrauchtwaren
 ---

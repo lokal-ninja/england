@@ -1,5 +1,5 @@
 ---
 title: "Barby Keel"
 url: /bexhill-on-sea/barby-keel/
-shop: charity
+shop: Gebrauchtwaren
 ---

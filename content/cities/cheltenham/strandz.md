@@ -1,5 +1,5 @@
 ---
 title: "Strandz"
 url: /cheltenham/strandz/
-shop: hairdresser
+shop: Friseur
 ---

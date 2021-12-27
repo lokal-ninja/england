@@ -1,5 +1,5 @@
 ---
 title: "Euro"
 url: /milton-keynes/euro/
-shop: alcohol
+shop: Spirituosen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "DeModa"
 url: /illogan/demoda/
-shop: hairdresser
+shop: Friseur
 ---

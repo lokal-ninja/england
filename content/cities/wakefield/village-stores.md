@@ -1,5 +1,5 @@
 ---
 title: "Village Stores"
 url: /wakefield/village-stores/
-shop: convenience
+shop: Lebensmittel
 ---

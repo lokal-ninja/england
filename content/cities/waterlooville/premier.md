@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /waterlooville/premier/
-shop: convenience
+shop: Lebensmittel
 ---

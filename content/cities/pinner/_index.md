@@ -1,6 +1,6 @@
 ---
 title: Pinner
 url: /pinner/
-latitude: 51.5968712
-longitude: -0.3770142
+latitude: 51.608
+longitude: -0.374
 ---

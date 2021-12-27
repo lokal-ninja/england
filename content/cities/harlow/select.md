@@ -1,5 +1,5 @@
 ---
 title: "Select"
 url: /harlow/select/
-shop: clothes
+shop: Kleidung
 ---

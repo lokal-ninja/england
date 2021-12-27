@@ -1,5 +1,5 @@
 ---
 title: "Boots"
 url: /stevenage/boots/
-shop: chemist
+shop: Drogerie
 ---

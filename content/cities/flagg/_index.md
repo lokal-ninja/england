@@ -1,6 +1,6 @@
 ---
 title: Flagg
 url: /flagg/
-latitude: 53.21376720000001
-longitude: -1.8002341000000002
+latitude: 53.205
+longitude: -1.825
 ---

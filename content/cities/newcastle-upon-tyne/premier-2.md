@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /newcastle-upon-tyne/premier-2/
-shop: convenience
+shop: Lebensmittel
 ---

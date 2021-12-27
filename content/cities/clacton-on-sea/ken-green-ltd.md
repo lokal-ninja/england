@@ -1,5 +1,5 @@
 ---
 title: "Ken Green Ltd"
 url: /clacton-on-sea/ken-green-ltd/
-shop: seafood
+shop: Fisch
 ---

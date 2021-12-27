@@ -1,5 +1,5 @@
 ---
 title: "Indesit"
 url: /peterborough/indesit/
-shop: appliance
+shop: Haushaltsgeräte
 ---

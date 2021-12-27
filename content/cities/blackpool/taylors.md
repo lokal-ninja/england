@@ -1,5 +1,5 @@
 ---
 title: "Taylor's"
 url: /blackpool/taylors/
-shop: bakery
+shop: Bäckerei
 ---

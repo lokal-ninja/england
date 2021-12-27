@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /fleetwood/spar/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Halfords"
 url: /gravesend/halfords/
-shop: car parts
+shop: Autoteile
 ---

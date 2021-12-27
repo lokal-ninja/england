@@ -1,5 +1,5 @@
 ---
 title: "AJ Parkes"
 url: /northwich/aj-parkes/
-shop: jewelry
+shop: Schmuck
 ---

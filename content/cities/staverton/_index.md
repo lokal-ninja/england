@@ -1,6 +1,6 @@
 ---
 title: Staverton
 url: /staverton/
-latitude: 51.9079941
-longitude: -2.1575895000000003
+latitude: 50.462
+longitude: -3.732
 ---

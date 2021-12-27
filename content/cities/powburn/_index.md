@@ -1,6 +1,6 @@
 ---
 title: Powburn
 url: /powburn/
-latitude: 55.440994100000005
-longitude: -1.9024437
+latitude: 55.445
+longitude: -1.907
 ---

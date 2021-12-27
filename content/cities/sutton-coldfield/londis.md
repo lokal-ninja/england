@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /sutton-coldfield/londis/
-shop: convenience
+shop: Lebensmittel
 ---

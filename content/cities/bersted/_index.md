@@ -1,6 +1,6 @@
 ---
 title: Bersted
 url: /bersted/
-latitude: 
-longitude: 
+latitude: 50.803
+longitude: -0.669
 ---

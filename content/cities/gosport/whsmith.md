@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /gosport/whsmith/
-shop: newsagent
+shop: Zeitungen
 ---

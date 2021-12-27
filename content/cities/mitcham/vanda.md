@@ -1,5 +1,5 @@
 ---
 title: "Vanda"
 url: /mitcham/vanda/
-shop: hairdresser
+shop: Friseur
 ---

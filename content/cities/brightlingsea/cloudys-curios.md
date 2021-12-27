@@ -1,5 +1,5 @@
 ---
 title: "Cloudy's Curios"
 url: /brightlingsea/cloudys-curios/
-shop: antiques
+shop: Antiquitäten
 ---

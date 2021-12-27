@@ -1,6 +1,6 @@
 ---
 title: Great Barford
 url: /great-barford/
-latitude: 
-longitude: 
+latitude: 52.158
+longitude: -0.352
 ---

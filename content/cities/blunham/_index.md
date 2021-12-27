@@ -1,6 +1,6 @@
 ---
 title: Blunham
 url: /blunham/
-latitude: 52.1463441
-longitude: -0.3174754
+latitude: 52.147
+longitude: -0.316
 ---

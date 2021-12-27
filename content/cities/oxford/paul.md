@@ -1,5 +1,5 @@
 ---
 title: "Paul"
 url: /oxford/paul/
-shop: bakery
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gant"
 url: /guildford/gant/
-shop: clothes
+shop: Kleidung
 ---

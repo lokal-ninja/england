@@ -1,5 +1,5 @@
 ---
 title: "Blush"
 url: /morpeth/blush/
-shop: houseware
+shop: Haushaltsartikel
 ---

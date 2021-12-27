@@ -1,5 +1,5 @@
 ---
 title: "Sopa"
 url: /london/sopa/
-shop: furniture
+shop: Möbel
 ---

@@ -1,6 +1,6 @@
 ---
 title: New Buckenham
 url: /new-buckenham/
-latitude: 52.471920100000006
-longitude: 1.0732893000000001
+latitude: 52.473
+longitude: 1.074
 ---

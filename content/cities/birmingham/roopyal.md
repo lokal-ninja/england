@@ -1,5 +1,5 @@
 ---
 title: "Roopyal"
 url: /birmingham/roopyal/
-shop: car repair
+shop: Autowerkstatt
 ---

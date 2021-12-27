@@ -1,5 +1,5 @@
 ---
 title: "Greggs"
 url: /mablethorpe/greggs/
-shop: bakery
+shop: Bäckerei
 ---

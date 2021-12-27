@@ -1,5 +1,5 @@
 ---
 title: "McColl's"
 url: /thornbury/mccolls/
-shop: convenience
+shop: Lebensmittel
 ---

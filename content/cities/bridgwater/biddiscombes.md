@@ -1,5 +1,5 @@
 ---
 title: "Biddiscombes"
 url: /bridgwater/biddiscombes/
-shop: furniture
+shop: Möbel
 ---

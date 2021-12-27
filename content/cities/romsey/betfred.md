@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /romsey/betfred/
-shop: bookmaker
+shop: Wettbüro
 ---

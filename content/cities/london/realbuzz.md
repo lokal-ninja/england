@@ -1,5 +1,5 @@
 ---
 title: "Realbuzz"
 url: /london/realbuzz/
-shop: sports
+shop: Sport
 ---

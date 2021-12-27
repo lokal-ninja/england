@@ -1,6 +1,6 @@
 ---
 title: Wick, Littlehampton
 url: /wick-littlehampton/
-latitude: 
-longitude: 
+latitude: 50.825
+longitude: -0.543
 ---

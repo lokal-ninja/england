@@ -1,6 +1,6 @@
 ---
 title: Culgaith
 url: /culgaith/
-latitude: 54.6603727
-longitude: -2.6063345
+latitude: 54.655
+longitude: -2.607
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carters"
 url: /exmouth/carters/
-shop: appliance
+shop: Haushaltsgeräte
 ---

@@ -1,6 +1,6 @@
 ---
 title: Ashton Keynes
 url: /ashton-keynes/
-latitude: 51.645399100000006
-longitude: -1.9311453
+latitude: 51.645
+longitude: -1.935
 ---

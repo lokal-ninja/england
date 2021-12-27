@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /washington/premier-4/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "TUI"
 url: /bournemouth/tui/
-shop: travel agency
+shop: Reisebüro
 ---

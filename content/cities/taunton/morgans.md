@@ -1,5 +1,5 @@
 ---
 title: "Morgan's"
 url: /taunton/morgans/
-shop: hairdresser
+shop: Friseur
 ---

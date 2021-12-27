@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /bracknell/coral/
-shop: bookmaker
+shop: Wettbüro
 ---

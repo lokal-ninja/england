@@ -1,5 +1,5 @@
 ---
 title: "Rowes Newsmarket"
 url: /wantage/rowes-newsmarket/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,6 +1,6 @@
 ---
 title: Kingham
 url: /kingham/
-latitude: 51.915573300000005
-longitude: -1.622031
+latitude: 51.913
+longitude: -1.624
 ---

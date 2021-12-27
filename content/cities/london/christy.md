@@ -1,5 +1,5 @@
 ---
 title: "Christy"
 url: /london/christy/
-shop: hat
+shop: Hüte
 ---

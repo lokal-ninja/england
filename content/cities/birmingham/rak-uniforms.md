@@ -1,5 +1,5 @@
 ---
 title: "Rak-Uniforms"
 url: /birmingham/rak-uniforms/
-shop: clothes
+shop: Kleidung
 ---

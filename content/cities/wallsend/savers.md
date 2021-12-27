@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /wallsend/savers/
-shop: chemist
+shop: Drogerie
 ---

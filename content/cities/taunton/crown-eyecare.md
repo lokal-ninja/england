@@ -1,5 +1,5 @@
 ---
 title: "Crown Eyecare"
 url: /taunton/crown-eyecare/
-shop: optician
+shop: Optiker
 ---

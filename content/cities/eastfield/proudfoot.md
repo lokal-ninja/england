@@ -1,5 +1,5 @@
 ---
 title: "Proudfoot"
 url: /eastfield/proudfoot/
-shop: supermarket
+shop: Supermarkt
 ---

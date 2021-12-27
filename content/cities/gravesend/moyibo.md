@@ -1,5 +1,5 @@
 ---
 title: "Moyibo"
 url: /gravesend/moyibo/
-shop: convenience
+shop: Lebensmittel
 ---

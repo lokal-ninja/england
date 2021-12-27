@@ -1,5 +1,5 @@
 ---
 title: "SussexHouse Boutique"
 url: /midhurst/sussexhouse-boutique/
-shop: clothes
+shop: Kleidung
 ---

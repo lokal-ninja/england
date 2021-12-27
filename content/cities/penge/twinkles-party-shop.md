@@ -1,5 +1,5 @@
 ---
 title: "Twinkles Party Shop"
 url: /penge/twinkles-party-shop/
-shop: shop
+shop: Allgemein
 ---

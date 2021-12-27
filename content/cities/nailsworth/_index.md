@@ -1,6 +1,6 @@
 ---
 title: Nailsworth
 url: /nailsworth/
-latitude: 51.6952392
-longitude: -2.2185599000000003
+latitude: 51.697
+longitude: -2.232
 ---

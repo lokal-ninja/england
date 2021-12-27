@@ -1,5 +1,5 @@
 ---
 title: "Sands"
 url: /penrith/sands/
-shop: gift
+shop: Andenken
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pedros"
 url: /reading/pedros/
-shop: car repair
+shop: Autowerkstatt
 ---

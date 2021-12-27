@@ -1,5 +1,5 @@
 ---
 title: "Curiosity"
 url: /swanage/curiosity/
-shop: gift
+shop: Andenken
 ---

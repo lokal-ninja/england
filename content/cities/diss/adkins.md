@@ -1,5 +1,5 @@
 ---
 title: "Adkins"
 url: /diss/adkins/
-shop: optician
+shop: Optiker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dunelm"
 url: /exeter/dunelm/
-shop: furniture
+shop: Möbel
 ---

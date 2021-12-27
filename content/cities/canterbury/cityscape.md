@@ -1,5 +1,5 @@
 ---
 title: "Cityscape"
 url: /canterbury/cityscape/
-shop: charity
+shop: Gebrauchtwaren
 ---

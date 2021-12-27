@@ -1,5 +1,5 @@
 ---
 title: "Headlines"
 url: /blyth/headlines/
-shop: hairdresser
+shop: Friseur
 ---

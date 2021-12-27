@@ -1,5 +1,5 @@
 ---
 title: "Lidice Place Newsagents"
 url: /coventry/lidice-place-newsagents/
-shop: newsagent
+shop: Zeitungen
 ---

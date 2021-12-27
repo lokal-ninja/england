@@ -1,6 +1,6 @@
 ---
 title: Glasshoughton
 url: /glasshoughton/
-latitude: 53.715776000000005
-longitude: -1.3377177
+latitude: 53.716
+longitude: -1.342
 ---

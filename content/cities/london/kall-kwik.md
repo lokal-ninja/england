@@ -1,5 +1,5 @@
 ---
 title: "Kall Kwik"
 url: /london/kall-kwik/
-shop: copyshop
+shop: Kopieren
 ---

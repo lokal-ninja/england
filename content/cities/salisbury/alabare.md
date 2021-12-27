@@ -1,5 +1,5 @@
 ---
 title: "Alabaré"
 url: /salisbury/alabare/
-shop: charity
+shop: Gebrauchtwaren
 ---

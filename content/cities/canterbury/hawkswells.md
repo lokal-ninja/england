@@ -1,5 +1,5 @@
 ---
 title: "Hawkswells"
 url: /canterbury/hawkswells/
-shop: shop
+shop: Allgemein
 ---

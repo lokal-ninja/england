@@ -1,5 +1,5 @@
 ---
 title: "Lindow's"
 url: /ulverston/lindows/
-shop: jewelry
+shop: Schmuck
 ---

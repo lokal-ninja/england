@@ -1,5 +1,5 @@
 ---
 title: "Amphlets"
 url: /beccles/amphlets/
-shop: hairdresser
+shop: Friseur
 ---

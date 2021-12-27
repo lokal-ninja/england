@@ -1,6 +1,6 @@
 ---
 title: Farborough
 url: /farborough/
-latitude: 
-longitude: 
+latitude: 51.29
+longitude: -0.764
 ---

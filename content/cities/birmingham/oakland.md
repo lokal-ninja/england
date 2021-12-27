@@ -1,5 +1,5 @@
 ---
 title: "Oakland"
 url: /birmingham/oakland/
-shop: carpet
+shop: Teppiche
 ---

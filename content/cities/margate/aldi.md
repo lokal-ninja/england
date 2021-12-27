@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /margate/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

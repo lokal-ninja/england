@@ -1,5 +1,5 @@
 ---
 title: "EE"
 url: /runcorn/ee/
-shop: mobile phone
+shop: Handy
 ---

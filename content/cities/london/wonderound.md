@@ -1,5 +1,5 @@
 ---
 title: "Wonderound"
 url: /london/wonderound/
-shop: clothes
+shop: Kleidung
 ---

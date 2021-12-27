@@ -1,5 +1,5 @@
 ---
 title: "Ravenskin"
 url: /shanklin/ravenskin/
-shop: tattoo
+shop: Tattoo
 ---

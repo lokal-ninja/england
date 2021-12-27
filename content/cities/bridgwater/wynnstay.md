@@ -1,5 +1,5 @@
 ---
 title: "Wynnstay"
 url: /bridgwater/wynnstay/
-shop: general
+shop: Dorfladen
 ---

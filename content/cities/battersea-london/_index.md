@@ -1,6 +1,6 @@
 ---
 title: Battersea London
 url: /battersea-london/
-latitude: 
-longitude: 
+latitude: 51.473
+longitude: -0.147
 ---

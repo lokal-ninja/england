@@ -1,5 +1,5 @@
 ---
 title: "Ben Sherman"
 url: /london/ben-sherman/
-shop: clothes
+shop: Kleidung
 ---

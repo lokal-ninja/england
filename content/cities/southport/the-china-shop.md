@@ -1,5 +1,5 @@
 ---
 title: "The China Shop"
 url: /southport/the-china-shop/
-shop: shop
+shop: Allgemein
 ---

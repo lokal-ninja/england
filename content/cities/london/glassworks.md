@@ -1,5 +1,5 @@
 ---
 title: "Glassworks"
 url: /london/glassworks/
-shop: clothes
+shop: Kleidung
 ---

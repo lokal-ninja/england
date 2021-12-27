@@ -1,6 +1,6 @@
 ---
 title: Timsbury
 url: /timsbury/
-latitude: 51.327192700000005
-longitude: -2.4755923
+latitude: 51.017
+longitude: -1.505
 ---

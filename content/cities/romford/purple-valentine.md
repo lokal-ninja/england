@@ -1,5 +1,5 @@
 ---
 title: "Purple Valentine"
 url: /romford/purple-valentine/
-shop: beauty
+shop: Kosmetik
 ---

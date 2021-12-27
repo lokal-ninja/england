@@ -1,5 +1,5 @@
 ---
 title: "Matalan"
 url: /sunderland/matalan/
-shop: clothes
+shop: Kleidung
 ---

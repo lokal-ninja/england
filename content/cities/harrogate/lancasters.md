@@ -1,5 +1,5 @@
 ---
 title: "Lancasters"
 url: /harrogate/lancasters/
-shop: bakery
+shop: Bäckerei
 ---

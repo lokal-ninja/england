@@ -1,5 +1,5 @@
 ---
 title: "Columbine"
 url: /heathfield/columbine/
-shop: laundry
+shop: Wäscherei
 ---

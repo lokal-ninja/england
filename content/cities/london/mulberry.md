@@ -1,5 +1,5 @@
 ---
 title: "Mulberry"
 url: /london/mulberry/
-shop: shop
+shop: Allgemein
 ---

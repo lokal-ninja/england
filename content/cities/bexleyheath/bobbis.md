@@ -1,5 +1,5 @@
 ---
 title: "Bobbi's"
 url: /bexleyheath/bobbis/
-shop: hairdresser
+shop: Friseur
 ---

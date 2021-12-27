@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /muxton/premier/
-shop: convenience
+shop: Lebensmittel
 ---

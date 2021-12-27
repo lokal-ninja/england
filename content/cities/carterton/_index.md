@@ -1,6 +1,6 @@
 ---
 title: Carterton
 url: /carterton/
-latitude: 51.759295200000004
-longitude: -1.5945429000000002
+latitude: 51.758
+longitude: -1.594
 ---

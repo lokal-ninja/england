@@ -1,5 +1,5 @@
 ---
 title: "Solo"
 url: /southampton/solo/
-shop: hairdresser
+shop: Friseur
 ---

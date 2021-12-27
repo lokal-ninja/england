@@ -1,6 +1,6 @@
 ---
 title: Little Canfield
 url: /little-canfield/
-latitude: 51.8689018
-longitude: 0.305381
+latitude: 51.87
+longitude: 0.282
 ---

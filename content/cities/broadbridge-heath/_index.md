@@ -1,6 +1,6 @@
 ---
 title: Broadbridge Heath
 url: /broadbridge-heath/
-latitude: 51.070514
-longitude: -0.3611287
+latitude: 51.072
+longitude: -0.363
 ---

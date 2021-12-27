@@ -1,5 +1,5 @@
 ---
 title: "Spun"
 url: /london/spun/
-shop: confectionery
+shop: Süßwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Clintons"
 url: /huddersfield/clintons/
-shop: gift
+shop: Andenken
 ---

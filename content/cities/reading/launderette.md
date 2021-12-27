@@ -1,5 +1,5 @@
 ---
 title: "Launderette"
 url: /reading/launderette/
-shop: laundry
+shop: Wäscherei
 ---

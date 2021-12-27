@@ -1,5 +1,5 @@
 ---
 title: "Greggs"
 url: /yateley/greggs/
-shop: bakery
+shop: Bäckerei
 ---

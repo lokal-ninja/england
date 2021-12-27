@@ -1,6 +1,6 @@
 ---
 title: Primrose Hill, London
 url: /primrose-hill-london/
-latitude: 
-longitude: 
+latitude: 51.542
+longitude: -0.157
 ---

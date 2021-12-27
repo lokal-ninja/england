@@ -1,5 +1,5 @@
 ---
 title: "DHC"
 url: /southport/dhc/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Delikatesy Smaczek"
 url: /leicester/delikatesy-smaczek/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "OneStop"
 url: /wellington/onestop/
-shop: convenience
+shop: Lebensmittel
 ---

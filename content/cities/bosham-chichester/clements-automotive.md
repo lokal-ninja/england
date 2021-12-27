@@ -1,5 +1,5 @@
 ---
 title: "Clements Automotive"
 url: /bosham-chichester/clements-automotive/
-shop: car
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "City Electrical"
 url: /burgess-hill/city-electrical/
-shop: electrical
+shop: Elektrisch
 ---

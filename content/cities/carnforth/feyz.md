@@ -1,5 +1,5 @@
 ---
 title: "Feyz"
 url: /carnforth/feyz/
-shop: hairdresser
+shop: Friseur
 ---

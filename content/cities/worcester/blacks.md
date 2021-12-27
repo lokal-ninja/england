@@ -1,5 +1,5 @@
 ---
 title: "Blacks"
 url: /worcester/blacks/
-shop: outdoor
+shop: Outdoor
 ---

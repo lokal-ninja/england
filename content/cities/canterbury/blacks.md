@@ -1,5 +1,5 @@
 ---
 title: "Blacks"
 url: /canterbury/blacks/
-shop: outdoor
+shop: Outdoor
 ---

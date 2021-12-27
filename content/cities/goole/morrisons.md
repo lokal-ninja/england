@@ -1,5 +1,5 @@
 ---
 title: "Morrisons"
 url: /goole/morrisons/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,6 +1,6 @@
 ---
 title: Strensall
 url: /strensall/
-latitude: 54.036776100000004
-longitude: -1.0380357
+latitude: 54.032
+longitude: -1.041
 ---

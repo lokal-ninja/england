@@ -1,6 +1,6 @@
 ---
 title: St Osyth
 url: /st-osyth/
-latitude: 51.799530700000005
-longitude: 1.0769911
+latitude: 51.801
+longitude: 1.098
 ---

@@ -1,5 +1,5 @@
 ---
 title: "McColl's"
 url: /chester/mccolls-2/
-shop: convenience
+shop: Lebensmittel
 ---

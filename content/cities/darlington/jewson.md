@@ -1,5 +1,5 @@
 ---
 title: "Jewson"
 url: /darlington/jewson/
-shop: doityourself
+shop: Baumarkt
 ---

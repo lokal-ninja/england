@@ -1,5 +1,5 @@
 ---
 title: "One Stop"
 url: /stockton-on-tees/one-stop/
-shop: convenience
+shop: Lebensmittel
 ---

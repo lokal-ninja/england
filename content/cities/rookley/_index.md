@@ -1,6 +1,6 @@
 ---
 title: Rookley
 url: /rookley/
-latitude: 50.654914000000005
-longitude: -1.281369
+latitude: 50.653
+longitude: -1.279
 ---

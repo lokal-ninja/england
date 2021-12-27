@@ -1,5 +1,5 @@
 ---
 title: "Barber Shop"
 url: /south-shields/barber-shop-2/
-shop: hairdresser
+shop: Friseur
 ---

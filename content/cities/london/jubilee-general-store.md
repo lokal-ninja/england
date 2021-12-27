@@ -1,5 +1,5 @@
 ---
 title: "Jubilee General Store"
 url: /london/jubilee-general-store/
-shop: convenience
+shop: Lebensmittel
 ---

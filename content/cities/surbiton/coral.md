@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /surbiton/coral/
-shop: bookmaker
+shop: Wettbüro
 ---

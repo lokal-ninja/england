@@ -1,5 +1,5 @@
 ---
 title: "Currys PC World"
 url: /tamworth/currys-pc-world/
-shop: electronics
+shop: Elektronik
 ---

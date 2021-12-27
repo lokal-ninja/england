@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /chigwell/tesco-express/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /rushden/asda/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bubbles"
 url: /feltham/bubbles/
-shop: laundry
+shop: Wäscherei
 ---

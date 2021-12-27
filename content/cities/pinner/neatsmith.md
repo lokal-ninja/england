@@ -1,5 +1,5 @@
 ---
 title: "Neatsmith"
 url: /pinner/neatsmith/
-shop: furniture
+shop: Möbel
 ---

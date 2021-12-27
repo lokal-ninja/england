@@ -1,6 +1,6 @@
 ---
 title: East Heslerton
 url: /east-heslerton/
-latitude: 54.1776114
-longitude: -0.5807964
+latitude: 54.179
+longitude: -0.571
 ---

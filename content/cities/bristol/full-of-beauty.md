@@ -1,5 +1,5 @@
 ---
 title: "Full Of Beauty"
 url: /bristol/full-of-beauty/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,6 +1,6 @@
 ---
 title: St Thomas, Exeter
 url: /st-thomas-exeter/
-latitude: 
-longitude: 
+latitude: 50.716
+longitude: -3.541
 ---

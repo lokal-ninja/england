@@ -1,6 +1,6 @@
 ---
 title: Finedon
 url: /finedon/
-latitude: 52.3391456
-longitude: -0.6556148
+latitude: 52.34
+longitude: -0.647
 ---

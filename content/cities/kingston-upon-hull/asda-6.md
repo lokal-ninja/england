@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /kingston-upon-hull/asda-6/
-shop: supermarket
+shop: Supermarkt
 ---

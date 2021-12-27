@@ -1,5 +1,5 @@
 ---
 title: "Mace"
 url: /whaplode/mace/
-shop: convenience
+shop: Lebensmittel
 ---

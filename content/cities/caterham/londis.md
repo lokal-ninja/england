@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /caterham/londis/
-shop: convenience
+shop: Lebensmittel
 ---

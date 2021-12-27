@@ -1,5 +1,5 @@
 ---
 title: "Lacoste"
 url: /london/lacoste/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,6 +1,6 @@
 ---
 title: Ash Vale
 url: /ash-vale/
-latitude: 
-longitude: 
+latitude: 51.257
+longitude: -0.72
 ---

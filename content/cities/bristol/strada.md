@@ -1,5 +1,5 @@
 ---
 title: "Strada"
 url: /bristol/strada/
-shop: bicycle
+shop: Fahrrad
 ---

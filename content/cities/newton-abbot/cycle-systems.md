@@ -1,5 +1,5 @@
 ---
 title: "Cycle Systems"
 url: /newton-abbot/cycle-systems/
-shop: bicycle
+shop: Fahrrad
 ---

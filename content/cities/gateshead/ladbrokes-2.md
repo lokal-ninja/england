@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /gateshead/ladbrokes-2/
-shop: bookmaker
+shop: Wettbüro
 ---

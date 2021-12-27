@@ -1,5 +1,5 @@
 ---
 title: "Dunelm"
 url: /truro/dunelm/
-shop: furniture
+shop: Möbel
 ---

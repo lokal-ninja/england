@@ -1,5 +1,5 @@
 ---
 title: "Shaake"
 url: /norwich/shaake/
-shop: beverages
+shop: Getränke
 ---

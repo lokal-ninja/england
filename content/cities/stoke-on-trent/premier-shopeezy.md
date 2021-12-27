@@ -1,5 +1,5 @@
 ---
 title: "Premier Shopeezy"
 url: /stoke-on-trent/premier-shopeezy/
-shop: convenience
+shop: Lebensmittel
 ---

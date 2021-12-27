@@ -1,5 +1,5 @@
 ---
 title: "Hollywood Nails"
 url: /trowbridge/hollywood-nails/
-shop: beauty
+shop: Kosmetik
 ---

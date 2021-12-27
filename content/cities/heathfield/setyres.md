@@ -1,5 +1,5 @@
 ---
 title: "SETYRES"
 url: /heathfield/setyres/
-shop: tyres
+shop: Reifen
 ---

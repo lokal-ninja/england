@@ -1,5 +1,5 @@
 ---
 title: "Plumbwell"
 url: /reigate/plumbwell/
-shop: hardware
+shop: Eisenwaren
 ---

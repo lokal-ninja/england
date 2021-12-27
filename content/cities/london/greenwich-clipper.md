@@ -1,5 +1,5 @@
 ---
 title: "Greenwich Clipper"
 url: /london/greenwich-clipper/
-shop: hairdresser
+shop: Friseur
 ---

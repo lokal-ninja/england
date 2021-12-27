@@ -1,6 +1,6 @@
 ---
 title: Doncaster
 url: /doncaster/
-latitude: 
-longitude: 
+latitude: 53.431
+longitude: -1.019
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hazel McNab"
 url: /jackfield/hazel-mcnab/
-shop: gift
+shop: Andenken
 ---

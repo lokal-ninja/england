@@ -1,6 +1,6 @@
 ---
 title: Cudworth
 url: /cudworth/
-latitude: 51.162464500000006
-longitude: -0.2667869
+latitude: 53.577
+longitude: -1.418
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Saks"
 url: /skipton/saks/
-shop: hairdresser
+shop: Friseur
 ---

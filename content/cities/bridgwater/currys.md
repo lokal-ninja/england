@@ -1,5 +1,5 @@
 ---
 title: "Currys"
 url: /bridgwater/currys/
-shop: electronics
+shop: Elektronik
 ---

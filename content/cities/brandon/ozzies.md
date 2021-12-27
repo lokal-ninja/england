@@ -1,5 +1,5 @@
 ---
 title: "Ozzies"
 url: /brandon/ozzies/
-shop: gift
+shop: Andenken
 ---

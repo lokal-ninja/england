@@ -1,5 +1,5 @@
 ---
 title: "Batty's"
 url: /sheffield/battys/
-shop: butcher
+shop: Metzgerei
 ---

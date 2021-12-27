@@ -1,5 +1,5 @@
 ---
 title: "Cloughs"
 url: /haywards-heath/cloughs/
-shop: deli
+shop: Feinkost
 ---

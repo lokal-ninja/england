@@ -1,5 +1,5 @@
 ---
 title: "Porters' News"
 url: /alton/porters-news/
-shop: newsagent
+shop: Zeitungen
 ---

@@ -1,6 +1,6 @@
 ---
 title: Folkestone, Kent
 url: /folkestone-kent/
-latitude: 
-longitude: 
+latitude: 51.096
+longitude: 1.171
 ---

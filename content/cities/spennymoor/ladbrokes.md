@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /spennymoor/ladbrokes/
-shop: bookmaker
+shop: Wettbüro
 ---

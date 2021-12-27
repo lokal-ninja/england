@@ -1,5 +1,5 @@
 ---
 title: "Next"
 url: /grays/next/
-shop: clothes
+shop: Kleidung
 ---

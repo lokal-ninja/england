@@ -1,5 +1,5 @@
 ---
 title: "Hallmark"
 url: /tipton/hallmark/
-shop: gift
+shop: Andenken
 ---

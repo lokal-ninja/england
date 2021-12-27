@@ -1,5 +1,5 @@
 ---
 title: "Dosanjh Convenience Store"
 url: /eastleigh/dosanjh-convenience-store/
-shop: convenience
+shop: Lebensmittel
 ---

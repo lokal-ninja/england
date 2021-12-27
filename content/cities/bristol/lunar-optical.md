@@ -1,5 +1,5 @@
 ---
 title: "Lunar Optical"
 url: /bristol/lunar-optical/
-shop: optician
+shop: Optiker
 ---

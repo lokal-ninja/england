@@ -1,6 +1,6 @@
 ---
 title: Stanley Crook
 url: /stanley-crook/
-latitude: 54.7354063
-longitude: -1.7450912
+latitude: 54.735
+longitude: -1.748
 ---

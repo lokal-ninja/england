@@ -1,5 +1,5 @@
 ---
 title: "Koko"
 url: /birmingham/koko/
-shop: beauty
+shop: Kosmetik
 ---

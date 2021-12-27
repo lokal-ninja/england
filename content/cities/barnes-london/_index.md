@@ -1,6 +1,6 @@
 ---
 title: Barnes, London
 url: /barnes-london/
-latitude: 
-longitude: 
+latitude: 51.474
+longitude: -0.248
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dennis-Michael Hairdressing"
 url: /banbury/dennis-michael-hairdressing/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,6 +1,6 @@
 ---
 title: Merseyside
 url: /merseyside/
-latitude: 
-longitude: 
+latitude: 53.451
+longitude: -2.723
 ---

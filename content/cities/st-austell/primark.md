@@ -1,5 +1,5 @@
 ---
 title: "Primark"
 url: /st-austell/primark/
-shop: clothes
+shop: Kleidung
 ---

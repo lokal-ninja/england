@@ -1,5 +1,5 @@
 ---
 title: "Smokers Market"
 url: /derby/smokers-market/
-shop: tobacco
+shop: Tabak
 ---

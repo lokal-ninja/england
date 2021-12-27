@@ -1,5 +1,5 @@
 ---
 title: "Medwinds"
 url: /london/medwinds/
-shop: clothes
+shop: Kleidung
 ---

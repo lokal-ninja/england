@@ -1,5 +1,5 @@
 ---
 title: "Urban Stone"
 url: /carlisle/urban-stone/
-shop: bathroom
+shop: Badezimmer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Collins Sarwar"
 url: /harrow/collins-sarwar/
-shop: estate agent
+shop: Immobilien
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bayeux"
 url: /london/bayeux/
-shop: photo
+shop: Foto
 ---

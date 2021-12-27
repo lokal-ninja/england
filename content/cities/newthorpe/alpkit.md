@@ -1,5 +1,5 @@
 ---
 title: "Alpkit"
 url: /newthorpe/alpkit/
-shop: outdoor
+shop: Outdoor
 ---

@@ -1,6 +1,6 @@
 ---
 title: Kibblesworth
 url: /kibblesworth/
-latitude: 54.9048105
-longitude: -1.6185879
+latitude: 54.905
+longitude: -1.619
 ---

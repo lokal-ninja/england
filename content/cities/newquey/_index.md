@@ -1,6 +1,6 @@
 ---
 title: Newquey
 url: /newquey/
-latitude: 
-longitude: 
+latitude: 50.367
+longitude: -5.057
 ---

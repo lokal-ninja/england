@@ -1,5 +1,5 @@
 ---
 title: "Oxfam"
 url: /derby/oxfam/
-shop: charity
+shop: Gebrauchtwaren
 ---

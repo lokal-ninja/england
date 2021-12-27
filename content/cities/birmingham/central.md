@@ -1,5 +1,5 @@
 ---
 title: "Central"
 url: /birmingham/central/
-shop: newsagent
+shop: Zeitungen
 ---

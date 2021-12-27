@@ -1,5 +1,5 @@
 ---
 title: "Swarovski"
 url: /sutton-coldfield/swarovski/
-shop: jewelry
+shop: Schmuck
 ---

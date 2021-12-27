@@ -1,5 +1,5 @@
 ---
 title: "Poundstretcher"
 url: /bedford/poundstretcher/
-shop: shop
+shop: Allgemein
 ---

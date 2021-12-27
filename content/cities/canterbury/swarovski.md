@@ -1,5 +1,5 @@
 ---
 title: "Swarovski"
 url: /canterbury/swarovski/
-shop: jewelry
+shop: Schmuck
 ---

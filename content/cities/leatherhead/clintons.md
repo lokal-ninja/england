@@ -1,5 +1,5 @@
 ---
 title: "Clintons"
 url: /leatherhead/clintons/
-shop: gift
+shop: Andenken
 ---

@@ -1,6 +1,6 @@
 ---
 title: Bishop Wilton
 url: /bishop-wilton/
-latitude: 
-longitude: 
+latitude: 53.986
+longitude: -0.785
 ---

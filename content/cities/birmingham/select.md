@@ -1,5 +1,5 @@
 ---
 title: "Select"
 url: /birmingham/select/
-shop: clothes
+shop: Kleidung
 ---

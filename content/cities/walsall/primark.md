@@ -1,5 +1,5 @@
 ---
 title: "Primark"
 url: /walsall/primark/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "DMK"
 url: /yateley/dmk/
-shop: convenience
+shop: Lebensmittel
 ---

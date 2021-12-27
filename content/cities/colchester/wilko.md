@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
 url: /colchester/wilko/
-shop: hardware
+shop: Eisenwaren
 ---

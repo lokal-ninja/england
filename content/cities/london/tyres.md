@@ -1,5 +1,5 @@
 ---
 title: "Tyres"
 url: /london/tyres/
-shop: tyres
+shop: Reifen
 ---

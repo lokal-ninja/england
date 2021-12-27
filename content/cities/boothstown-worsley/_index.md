@@ -1,6 +1,6 @@
 ---
 title: Boothstown, Worsley
 url: /boothstown-worsley/
-latitude: 
-longitude: 
+latitude: 53.502
+longitude: -2.418
 ---

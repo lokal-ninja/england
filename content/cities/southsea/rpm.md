@@ -1,5 +1,5 @@
 ---
 title: "RPM"
 url: /southsea/rpm/
-shop: music
+shop: Musik
 ---

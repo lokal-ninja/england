@@ -1,5 +1,5 @@
 ---
 title: "Chai's"
 url: /croydon/chais/
-shop: beauty
+shop: Kosmetik
 ---

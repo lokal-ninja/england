@@ -1,5 +1,5 @@
 ---
 title: "Central"
 url: /seaford/central/
-shop: convenience
+shop: Lebensmittel
 ---

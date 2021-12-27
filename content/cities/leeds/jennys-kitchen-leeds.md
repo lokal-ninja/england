@@ -1,5 +1,5 @@
 ---
 title: "Jenny's Kitchen Leeds"
 url: /leeds/jennys-kitchen-leeds/
-shop: bakery
+shop: Bäckerei
 ---

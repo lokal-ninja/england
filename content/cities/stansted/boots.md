@@ -1,5 +1,5 @@
 ---
 title: "Boots"
 url: /stansted/boots/
-shop: chemist
+shop: Drogerie
 ---

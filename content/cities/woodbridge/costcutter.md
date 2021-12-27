@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /woodbridge/costcutter/
-shop: supermarket
+shop: Supermarkt
 ---

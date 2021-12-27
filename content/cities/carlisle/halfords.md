@@ -1,5 +1,5 @@
 ---
 title: "Halfords"
 url: /carlisle/halfords/
-shop: car parts
+shop: Autoteile
 ---

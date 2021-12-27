@@ -1,6 +1,6 @@
 ---
 title: Gt Yarmouth
 url: /gt-yarmouth/
-latitude: 
-longitude: 
+latitude: 52.716
+longitude: 1.693
 ---

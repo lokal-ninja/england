@@ -1,5 +1,5 @@
 ---
 title: "Lilly's"
 url: /oundle/lillys/
-shop: shop
+shop: Allgemein
 ---

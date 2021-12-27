@@ -1,5 +1,5 @@
 ---
 title: "Luchinis"
 url: /keswick/luchinis/
-shop: shop
+shop: Allgemein
 ---

@@ -1,6 +1,6 @@
 ---
 title: Church Crookham Fleet
 url: /church-crookham-fleet/
-latitude: 
-longitude: 
+latitude: 51.26
+longitude: -0.837
 ---

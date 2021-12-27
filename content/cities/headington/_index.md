@@ -1,6 +1,6 @@
 ---
 title: Headington
 url: /headington/
-latitude: 51.760214000000005
-longitude: -1.2109831
+latitude: 51.759
+longitude: -1.213
 ---

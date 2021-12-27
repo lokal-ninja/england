@@ -1,5 +1,5 @@
 ---
 title: "Village Store"
 url: /fakenham/village-store/
-shop: convenience
+shop: Lebensmittel
 ---

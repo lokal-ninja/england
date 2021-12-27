@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /portchester-fareham/betfred/
-shop: bookmaker
+shop: Wettbüro
 ---

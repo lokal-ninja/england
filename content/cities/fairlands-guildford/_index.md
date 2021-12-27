@@ -1,6 +1,6 @@
 ---
 title: Fairlands, Guildford
 url: /fairlands-guildford/
-latitude: 
-longitude: 
+latitude: 51.263
+longitude: -0.62
 ---

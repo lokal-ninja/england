@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /blyth/coral/
-shop: bookmaker
+shop: Wettbüro
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /tipton/spar/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,6 +1,6 @@
 ---
 title: East Boldon
 url: /east-boldon/
-latitude: 54.9463316
-longitude: -1.4337819
+latitude: 54.945
+longitude: -1.436
 ---

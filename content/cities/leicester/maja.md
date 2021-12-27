@@ -1,5 +1,5 @@
 ---
 title: "Maja"
 url: /leicester/maja/
-shop: supermarket
+shop: Supermarkt
 ---

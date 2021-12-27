@@ -1,5 +1,5 @@
 ---
 title: "Booths"
 url: /chorley/booths/
-shop: supermarket
+shop: Supermarkt
 ---

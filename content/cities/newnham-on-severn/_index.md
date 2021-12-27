@@ -1,6 +1,6 @@
 ---
 title: Newnham on Severn
 url: /newnham-on-severn/
-latitude: 51.804971
-longitude: -2.4523397
+latitude: 51.804
+longitude: -2.45
 ---

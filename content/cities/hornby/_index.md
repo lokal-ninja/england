@@ -1,6 +1,6 @@
 ---
 title: Hornby
 url: /hornby/
-latitude: 54.444346900000006
-longitude: -1.4408688
+latitude: 54.109
+longitude: -2.636
 ---

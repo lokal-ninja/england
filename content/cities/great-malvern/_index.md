@@ -1,6 +1,6 @@
 ---
 title: Great Malvern
 url: /great-malvern/
-latitude: 
-longitude: 
+latitude: 52.111
+longitude: -2.33
 ---

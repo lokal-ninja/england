@@ -1,5 +1,5 @@
 ---
 title: "Fellaz"
 url: /peterlee/fellaz/
-shop: hairdresser
+shop: Friseur
 ---

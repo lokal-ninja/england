@@ -1,5 +1,5 @@
 ---
 title: "Indika"
 url: /tewkesbury/indika/
-shop: clothes
+shop: Kleidung
 ---

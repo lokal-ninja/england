@@ -1,5 +1,5 @@
 ---
 title: "Fiori"
 url: /northallerton/fiori/
-shop: florist
+shop: Blumen
 ---

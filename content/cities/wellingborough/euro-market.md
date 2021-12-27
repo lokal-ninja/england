@@ -1,5 +1,5 @@
 ---
 title: "Euro Market"
 url: /wellingborough/euro-market/
-shop: convenience
+shop: Lebensmittel
 ---

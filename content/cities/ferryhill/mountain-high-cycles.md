@@ -1,5 +1,5 @@
 ---
 title: "Mountain High Cycles"
 url: /ferryhill/mountain-high-cycles/
-shop: bicycle
+shop: Fahrrad
 ---

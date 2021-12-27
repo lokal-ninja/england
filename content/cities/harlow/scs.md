@@ -1,5 +1,5 @@
 ---
 title: "ScS"
 url: /harlow/scs/
-shop: furniture
+shop: Möbel
 ---

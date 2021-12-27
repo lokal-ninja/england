@@ -1,5 +1,5 @@
 ---
 title: "Matalan"
 url: /broardstairs/matalan/
-shop: clothes
+shop: Kleidung
 ---

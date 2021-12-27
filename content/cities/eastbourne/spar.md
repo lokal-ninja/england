@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /eastbourne/spar/
-shop: convenience
+shop: Lebensmittel
 ---

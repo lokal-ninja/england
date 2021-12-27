@@ -1,5 +1,5 @@
 ---
 title: "Pongees"
 url: /london/pongees/
-shop: fabric
+shop: Textil
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Scandal"
 url: /derby/scandal/
-shop: tattoo
+shop: Tattoo
 ---

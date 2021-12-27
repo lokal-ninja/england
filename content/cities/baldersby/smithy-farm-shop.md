@@ -1,5 +1,5 @@
 ---
 title: "Smithy Farm Shop"
 url: /baldersby/smithy-farm-shop/
-shop: shop
+shop: Allgemein
 ---

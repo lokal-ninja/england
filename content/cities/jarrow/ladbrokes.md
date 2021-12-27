@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /jarrow/ladbrokes/
-shop: bookmaker
+shop: Wettbüro
 ---

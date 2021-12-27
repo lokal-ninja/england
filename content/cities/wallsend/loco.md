@@ -1,5 +1,5 @@
 ---
 title: "Loco"
 url: /wallsend/loco/
-shop: convenience
+shop: Lebensmittel
 ---

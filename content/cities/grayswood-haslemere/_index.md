@@ -1,6 +1,6 @@
 ---
 title: Grayswood, Haslemere
 url: /grayswood-haslemere/
-latitude: 
-longitude: 
+latitude: 51.103
+longitude: -0.691
 ---

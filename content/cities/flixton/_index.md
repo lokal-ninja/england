@@ -1,6 +1,6 @@
 ---
 title: Flixton
 url: /flixton/
-latitude: 54.202447500000005
-longitude: -0.4022141
+latitude: 53.442
+longitude: -2.386
 ---

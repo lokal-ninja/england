@@ -1,5 +1,5 @@
 ---
 title: "Qasim"
 url: /birmingham/qasim/
-shop: jewelry
+shop: Schmuck
 ---

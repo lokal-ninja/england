@@ -1,5 +1,5 @@
 ---
 title: "McColls"
 url: /peterlee/mccolls/
-shop: convenience
+shop: Lebensmittel
 ---

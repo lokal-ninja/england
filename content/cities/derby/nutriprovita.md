@@ -1,5 +1,5 @@
 ---
 title: "NutriProVita"
 url: /derby/nutriprovita/
-shop: nutrition supplements
+shop: Nahrungsergänzung
 ---

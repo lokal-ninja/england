@@ -1,5 +1,5 @@
 ---
 title: "Chambers"
 url: /stockport/chambers/
-shop: shop
+shop: Allgemein
 ---

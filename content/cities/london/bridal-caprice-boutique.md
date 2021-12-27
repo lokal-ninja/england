@@ -1,5 +1,5 @@
 ---
 title: "Bridal Caprice Boutique"
 url: /london/bridal-caprice-boutique/
-shop: clothes
+shop: Kleidung
 ---

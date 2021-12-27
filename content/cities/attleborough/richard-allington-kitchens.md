@@ -1,5 +1,5 @@
 ---
 title: "Richard Allington Kitchens"
 url: /attleborough/richard-allington-kitchens/
-shop: kitchen
+shop: Küchen
 ---

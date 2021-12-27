@@ -1,5 +1,5 @@
 ---
 title: "The Co-operative Food"
 url: /stafford/the-co-operative-food-5/
-shop: supermarket
+shop: Supermarkt
 ---

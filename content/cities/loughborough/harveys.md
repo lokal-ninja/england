@@ -1,5 +1,5 @@
 ---
 title: "Harveys"
 url: /loughborough/harveys/
-shop: furniture
+shop: Möbel
 ---

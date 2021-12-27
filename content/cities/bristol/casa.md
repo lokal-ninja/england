@@ -1,5 +1,5 @@
 ---
 title: "Casa"
 url: /bristol/casa/
-shop: appliance
+shop: Haushaltsgeräte
 ---

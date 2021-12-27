@@ -1,5 +1,5 @@
 ---
 title: "Oxfam"
 url: /olney/oxfam/
-shop: charity
+shop: Gebrauchtwaren
 ---

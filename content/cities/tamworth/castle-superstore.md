@@ -1,5 +1,5 @@
 ---
 title: "Castle Superstore"
 url: /tamworth/castle-superstore/
-shop: convenience
+shop: Lebensmittel
 ---

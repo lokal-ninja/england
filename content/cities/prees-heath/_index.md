@@ -1,6 +1,6 @@
 ---
 title: Prees Heath
 url: /prees-heath/
-latitude: 52.9387686
-longitude: -2.6613519
+latitude: 52.938
+longitude: -2.662
 ---

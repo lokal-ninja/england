@@ -1,5 +1,5 @@
 ---
 title: "Moneyworks"
 url: /london/moneyworks/
-shop: pawnbroker
+shop: Leiher
 ---

@@ -1,6 +1,6 @@
 ---
 title: Nenthead
 url: /nenthead/
-latitude: 54.789205800000005
-longitude: -2.3427653
+latitude: 54.788
+longitude: -2.342
 ---

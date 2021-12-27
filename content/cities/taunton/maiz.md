@@ -1,5 +1,5 @@
 ---
 title: "Maiz"
 url: /taunton/maiz/
-shop: beauty
+shop: Kosmetik
 ---

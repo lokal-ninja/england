@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /coventry/costcutter-2/
-shop: supermarket
+shop: Supermarkt
 ---

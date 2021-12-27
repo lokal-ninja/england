@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /aldridge/tesco-express/
-shop: convenience
+shop: Lebensmittel
 ---

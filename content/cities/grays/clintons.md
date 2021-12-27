@@ -1,5 +1,5 @@
 ---
 title: "Clintons"
 url: /grays/clintons/
-shop: gift
+shop: Andenken
 ---

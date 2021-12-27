@@ -1,6 +1,6 @@
 ---
 title: Bootle
 url: /bootle/
-latitude: 
-longitude: 
+latitude: 53.464
+longitude: -2.99
 ---

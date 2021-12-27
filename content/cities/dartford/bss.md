@@ -1,5 +1,5 @@
 ---
 title: "BSS"
 url: /dartford/bss/
-shop: trade
+shop: Baustoffe
 ---

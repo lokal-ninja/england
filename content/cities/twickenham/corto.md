@@ -1,5 +1,5 @@
 ---
 title: "Corto"
 url: /twickenham/corto/
-shop: deli
+shop: Feinkost
 ---

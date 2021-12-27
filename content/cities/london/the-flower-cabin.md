@@ -1,5 +1,5 @@
 ---
 title: "The Flower Cabin"
 url: /london/the-flower-cabin/
-shop: garden centre
+shop: Garten-Center
 ---

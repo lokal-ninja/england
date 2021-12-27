@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /rugby/costcutter/
-shop: supermarket
+shop: Supermarkt
 ---

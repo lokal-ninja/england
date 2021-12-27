@@ -1,5 +1,5 @@
 ---
 title: "Martin's"
 url: /walsall/martins/
-shop: newsagent
+shop: Zeitungen
 ---

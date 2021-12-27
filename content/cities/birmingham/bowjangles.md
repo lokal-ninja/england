@@ -1,5 +1,5 @@
 ---
 title: "Bowjangles"
 url: /birmingham/bowjangles/
-shop: jewelry
+shop: Schmuck
 ---

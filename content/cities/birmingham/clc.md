@@ -1,5 +1,5 @@
 ---
 title: "CLC"
 url: /birmingham/clc/
-shop: books
+shop: Bücher
 ---

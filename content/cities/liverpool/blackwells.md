@@ -1,5 +1,5 @@
 ---
 title: "Blackwell's"
 url: /liverpool/blackwells/
-shop: books
+shop: Bücher
 ---

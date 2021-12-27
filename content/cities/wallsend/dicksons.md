@@ -1,5 +1,5 @@
 ---
 title: "Dicksons"
 url: /wallsend/dicksons/
-shop: butcher
+shop: Metzgerei
 ---

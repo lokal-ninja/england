@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
 url: /stevenage/wilko/
-shop: variety store
+shop: Kramladen
 ---

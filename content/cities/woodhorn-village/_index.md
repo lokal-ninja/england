@@ -1,6 +1,6 @@
 ---
 title: Woodhorn Village
 url: /woodhorn-village/
-latitude: 
-longitude: 
+latitude: 55.193
+longitude: -1.532
 ---

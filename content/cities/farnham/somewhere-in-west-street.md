@@ -1,5 +1,5 @@
 ---
 title: "Somewhere in West Street"
 url: /farnham/somewhere-in-west-street/
-shop: shop
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Budgens"
 url: /northampton/budgens/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "People's Market"
 url: /hambledon-waterlooville/peoples-market/
-shop: convenience
+shop: Lebensmittel
 ---

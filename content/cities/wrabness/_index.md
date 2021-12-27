@@ -1,6 +1,6 @@
 ---
 title: Wrabness
 url: /wrabness/
-latitude: 51.9389407
-longitude: 1.1676999000000001
+latitude: 51.939
+longitude: 1.172
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /lechlade/londis/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Panda Store (Chinese Food)"
 url: /sheffield/panda-store-chinese-food/
-shop: convenience
+shop: Lebensmittel
 ---

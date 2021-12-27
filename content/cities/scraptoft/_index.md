@@ -1,6 +1,6 @@
 ---
 title: Scraptoft
 url: /scraptoft/
-latitude: 52.6440338
-longitude: -1.0461176
+latitude: 52.646
+longitude: -1.047
 ---

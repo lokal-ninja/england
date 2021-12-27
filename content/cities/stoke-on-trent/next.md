@@ -1,5 +1,5 @@
 ---
 title: "Next"
 url: /stoke-on-trent/next/
-shop: clothes
+shop: Kleidung
 ---

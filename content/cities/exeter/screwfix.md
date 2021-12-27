@@ -1,5 +1,5 @@
 ---
 title: "Screwfix"
 url: /exeter/screwfix/
-shop: hardware
+shop: Eisenwaren
 ---

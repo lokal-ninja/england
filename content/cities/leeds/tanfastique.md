@@ -1,5 +1,5 @@
 ---
 title: "Tanfastique"
 url: /leeds/tanfastique/
-shop: beauty
+shop: Kosmetik
 ---

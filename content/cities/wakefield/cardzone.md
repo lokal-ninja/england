@@ -1,5 +1,5 @@
 ---
 title: "Cardzone"
 url: /wakefield/cardzone/
-shop: gift
+shop: Andenken
 ---

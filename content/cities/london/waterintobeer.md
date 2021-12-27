@@ -1,5 +1,5 @@
 ---
 title: "waterintobeer"
 url: /london/waterintobeer/
-shop: alcohol
+shop: Spirituosen
 ---

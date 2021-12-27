@@ -1,5 +1,5 @@
 ---
 title: "Walnut"
 url: /london/walnut/
-shop: health food
+shop: Bioladen
 ---

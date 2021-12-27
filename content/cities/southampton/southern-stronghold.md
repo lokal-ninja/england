@@ -1,5 +1,5 @@
 ---
 title: "Southern Stronghold"
 url: /southampton/southern-stronghold/
-shop: hardware
+shop: Eisenwaren
 ---

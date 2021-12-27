@@ -1,5 +1,5 @@
 ---
 title: "Sacha Hair Design"
 url: /birmingham/sacha-hair-design/
-shop: hairdresser
+shop: Friseur
 ---

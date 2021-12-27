@@ -1,5 +1,5 @@
 ---
 title: "Coast"
 url: /birmingham/coast/
-shop: clothes
+shop: Kleidung
 ---

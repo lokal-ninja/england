@@ -1,5 +1,5 @@
 ---
 title: "ReCycle"
 url: /york/recycle/
-shop: bicycle
+shop: Fahrrad
 ---

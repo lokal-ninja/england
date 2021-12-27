@@ -1,5 +1,5 @@
 ---
 title: "Kays'"
 url: /ipswich/kays/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

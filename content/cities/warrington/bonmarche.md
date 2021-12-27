@@ -1,5 +1,5 @@
 ---
 title: "Bonmarché"
 url: /warrington/bonmarche/
-shop: clothes
+shop: Kleidung
 ---

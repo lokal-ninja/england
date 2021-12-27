@@ -1,5 +1,5 @@
 ---
 title: "HomeSense"
 url: /stafford/homesense/
-shop: interior decoration
+shop: Raumausstattung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Matalan"
 url: /fareham/matalan/
-shop: clothes
+shop: Kleidung
 ---

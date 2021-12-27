@@ -1,6 +1,6 @@
 ---
 title: Near Sunnyside
 url: /near-sunnyside/
-latitude: 
-longitude: 
+latitude: 54.906
+longitude: -1.658
 ---

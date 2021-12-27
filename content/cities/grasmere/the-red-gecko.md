@@ -1,5 +1,5 @@
 ---
 title: "The Red Gecko"
 url: /grasmere/the-red-gecko/
-shop: gift
+shop: Andenken
 ---

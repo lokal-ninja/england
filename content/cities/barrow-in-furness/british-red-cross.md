@@ -1,5 +1,5 @@
 ---
 title: "British Red Cross"
 url: /barrow-in-furness/british-red-cross/
-shop: charity
+shop: Gebrauchtwaren
 ---

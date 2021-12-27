@@ -1,6 +1,6 @@
 ---
 title: Wyton
 url: /wyton/
-latitude: 53.781854800000005
-longitude: -0.22880170000000002
+latitude: 52.339
+longitude: -0.136
 ---

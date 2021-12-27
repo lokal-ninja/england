@@ -1,6 +1,6 @@
 ---
 title: Southmoor
 url: /southmoor/
-latitude: 51.6805159
-longitude: -1.4246032000000002
+latitude: 51.681
+longitude: -1.42
 ---

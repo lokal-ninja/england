@@ -1,6 +1,6 @@
 ---
 title: Capel Le Ferne
 url: /capel-le-ferne/
-latitude: 
-longitude: 
+latitude: 51.101
+longitude: 1.21
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Launderette"
 url: /ledbury/launderette/
-shop: laundry
+shop: Wäscherei
 ---

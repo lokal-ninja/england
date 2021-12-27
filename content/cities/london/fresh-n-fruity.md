@@ -1,5 +1,5 @@
 ---
 title: "Fresh n' Fruity"
 url: /london/fresh-n-fruity/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

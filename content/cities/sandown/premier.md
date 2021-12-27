@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /sandown/premier/
-shop: convenience
+shop: Lebensmittel
 ---

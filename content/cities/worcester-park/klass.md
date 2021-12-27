@@ -1,5 +1,5 @@
 ---
 title: "Klass"
 url: /worcester-park/klass/
-shop: hairdresser
+shop: Friseur
 ---

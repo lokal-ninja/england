@@ -1,5 +1,5 @@
 ---
 title: "Village Carpet Centre"
 url: /birmingham/village-carpet-centre/
-shop: carpet
+shop: Teppiche
 ---

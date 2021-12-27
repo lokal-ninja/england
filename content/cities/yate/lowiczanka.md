@@ -1,5 +1,5 @@
 ---
 title: "Łowiczanka"
 url: /yate/lowiczanka/
-shop: supermarket
+shop: Supermarkt
 ---

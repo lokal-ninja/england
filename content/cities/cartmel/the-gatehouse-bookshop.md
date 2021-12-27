@@ -1,5 +1,5 @@
 ---
 title: "The Gatehouse Bookshop"
 url: /cartmel/the-gatehouse-bookshop/
-shop: books
+shop: Bücher
 ---

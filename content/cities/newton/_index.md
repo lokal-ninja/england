@@ -1,6 +1,6 @@
 ---
 title: Newton
 url: /newton/
-latitude: 50.5810096
-longitude: -4.6730786
+latitude: 53.372
+longitude: -3.152
 ---

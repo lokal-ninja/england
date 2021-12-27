@@ -1,5 +1,5 @@
 ---
 title: "Facet"
 url: /orpington/facet/
-shop: hairdresser
+shop: Friseur
 ---

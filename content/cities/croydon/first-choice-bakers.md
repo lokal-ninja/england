@@ -1,5 +1,5 @@
 ---
 title: "First Choice Bakers"
 url: /croydon/first-choice-bakers/
-shop: bakery
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Andalus"
 url: /london/andalus/
-shop: convenience
+shop: Lebensmittel
 ---

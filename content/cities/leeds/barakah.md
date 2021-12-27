@@ -1,5 +1,5 @@
 ---
 title: "Barakah"
 url: /leeds/barakah/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,6 +1,6 @@
 ---
 title: Telford
 url: /telford/
-latitude: 52.678041900000004
-longitude: -2.4514273
+latitude: 52.705
+longitude: -2.517
 ---

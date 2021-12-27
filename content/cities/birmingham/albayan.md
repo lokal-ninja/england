@@ -1,5 +1,5 @@
 ---
 title: "Albayan"
 url: /birmingham/albayan/
-shop: charity
+shop: Gebrauchtwaren
 ---

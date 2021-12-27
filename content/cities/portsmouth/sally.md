@@ -1,5 +1,5 @@
 ---
 title: "Sally"
 url: /portsmouth/sally/
-shop: beauty
+shop: Kosmetik
 ---

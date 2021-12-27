@@ -1,6 +1,6 @@
 ---
 title: Penge
 url: /penge/
-latitude: 51.4146841
-longitude: -0.053421300000000005
+latitude: 51.417
+longitude: -0.059
 ---

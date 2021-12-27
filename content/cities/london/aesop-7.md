@@ -1,5 +1,5 @@
 ---
 title: "Aēsop"
 url: /london/aesop-7/
-shop: beauty
+shop: Kosmetik
 ---

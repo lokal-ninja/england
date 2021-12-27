@@ -1,5 +1,5 @@
 ---
 title: "The Frame Factory"
 url: /reigate/the-frame-factory/
-shop: gift
+shop: Andenken
 ---

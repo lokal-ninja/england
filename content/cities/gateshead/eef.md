@@ -1,5 +1,5 @@
 ---
 title: "EEF"
 url: /gateshead/eef/
-shop: supermarket
+shop: Supermarkt
 ---

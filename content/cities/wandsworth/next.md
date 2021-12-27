@@ -1,5 +1,5 @@
 ---
 title: "Next"
 url: /wandsworth/next/
-shop: clothes
+shop: Kleidung
 ---

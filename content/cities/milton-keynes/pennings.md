@@ -1,5 +1,5 @@
 ---
 title: "Pennings"
 url: /milton-keynes/pennings/
-shop: car repair
+shop: Autowerkstatt
 ---

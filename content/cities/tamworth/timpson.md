@@ -1,5 +1,5 @@
 ---
 title: "Timpson"
 url: /tamworth/timpson/
-shop: locksmith
+shop: Schlüsseldienst
 ---

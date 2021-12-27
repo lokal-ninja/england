@@ -1,5 +1,5 @@
 ---
 title: "Ocean Zen"
 url: /whitley-bay/ocean-zen/
-shop: shop
+shop: Allgemein
 ---

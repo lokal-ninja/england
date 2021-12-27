@@ -1,5 +1,5 @@
 ---
 title: "Feelings"
 url: /london/feelings/
-shop: clothes
+shop: Kleidung
 ---

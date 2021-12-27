@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /yeovil/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

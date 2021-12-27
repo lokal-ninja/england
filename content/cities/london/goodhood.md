@@ -1,5 +1,5 @@
 ---
 title: "Goodhood"
 url: /london/goodhood/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,6 +1,6 @@
 ---
 title: Morley
 url: /morley/
-latitude: 54.644207400000006
-longitude: -1.8062837
+latitude: 53.736
+longitude: -1.608
 ---

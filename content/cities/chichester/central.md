@@ -1,5 +1,5 @@
 ---
 title: "Central"
 url: /chichester/central/
-shop: convenience
+shop: Lebensmittel
 ---

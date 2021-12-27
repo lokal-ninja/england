@@ -1,6 +1,6 @@
 ---
 title: North Baddesley, Southampton
 url: /north-baddesley-southampton/
-latitude: 
-longitude: 
+latitude: 50.977
+longitude: -1.438
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mace"
 url: /exeter/mace/
-shop: convenience
+shop: Lebensmittel
 ---

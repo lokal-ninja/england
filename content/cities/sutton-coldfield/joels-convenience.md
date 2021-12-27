@@ -1,5 +1,5 @@
 ---
 title: "Joel's Convenience"
 url: /sutton-coldfield/joels-convenience/
-shop: convenience
+shop: Lebensmittel
 ---

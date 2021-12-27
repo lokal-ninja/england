@@ -1,6 +1,6 @@
 ---
 title: Chippenham
 url: /chippenham/
-latitude: 52.3020818
-longitude: 0.4367633
+latitude: 51.459
+longitude: -2.127
 ---

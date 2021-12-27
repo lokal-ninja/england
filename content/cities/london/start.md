@@ -1,5 +1,5 @@
 ---
 title: "Start"
 url: /london/start/
-shop: clothes
+shop: Kleidung
 ---

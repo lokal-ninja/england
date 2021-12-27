@@ -1,5 +1,5 @@
 ---
 title: "Howdens"
 url: /addlestone/howdens/
-shop: trade
+shop: Baustoffe
 ---

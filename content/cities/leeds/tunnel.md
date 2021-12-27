@@ -1,5 +1,5 @@
 ---
 title: "Tunnel"
 url: /leeds/tunnel/
-shop: clothes
+shop: Kleidung
 ---

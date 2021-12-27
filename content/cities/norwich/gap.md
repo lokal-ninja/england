@@ -1,5 +1,5 @@
 ---
 title: "gap"
 url: /norwich/gap/
-shop: hardware
+shop: Eisenwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Candat Stores"
 url: /durham/candat-stores/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

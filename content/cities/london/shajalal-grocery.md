@@ -1,5 +1,5 @@
 ---
 title: "Shajalal Grocery"
 url: /london/shajalal-grocery/
-shop: convenience
+shop: Lebensmittel
 ---

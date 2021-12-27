@@ -1,5 +1,5 @@
 ---
 title: "QEF"
 url: /addlestone/qef/
-shop: charity
+shop: Gebrauchtwaren
 ---

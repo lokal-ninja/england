@@ -1,5 +1,5 @@
 ---
 title: "Typo"
 url: /london/typo/
-shop: gift
+shop: Andenken
 ---

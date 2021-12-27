@@ -1,5 +1,5 @@
 ---
 title: "Beauty First Cosmetics"
 url: /penge/beauty-first-cosmetics/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jewson"
 url: /morecambe/jewson/
-shop: trade
+shop: Baustoffe
 ---

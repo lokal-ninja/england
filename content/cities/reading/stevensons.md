@@ -1,5 +1,5 @@
 ---
 title: "Stevensons"
 url: /reading/stevensons/
-shop: clothes
+shop: Kleidung
 ---

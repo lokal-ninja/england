@@ -1,5 +1,5 @@
 ---
 title: "SPAR"
 url: /ludgershall/spar/
-shop: convenience
+shop: Lebensmittel
 ---

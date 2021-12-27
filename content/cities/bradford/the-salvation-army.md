@@ -1,5 +1,5 @@
 ---
 title: "The Salvation Army"
 url: /bradford/the-salvation-army/
-shop: charity
+shop: Gebrauchtwaren
 ---

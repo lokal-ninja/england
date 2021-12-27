@@ -1,5 +1,5 @@
 ---
 title: "Cheque Centre"
 url: /leyland/cheque-centre/
-shop: shop
+shop: Allgemein
 ---

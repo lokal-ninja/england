@@ -1,6 +1,6 @@
 ---
 title: Arlesey
 url: /arlesey/
-latitude: 52.0076781
-longitude: -0.2617753
+latitude: 52.016
+longitude: -0.263
 ---

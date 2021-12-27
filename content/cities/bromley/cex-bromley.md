@@ -1,5 +1,5 @@
 ---
 title: "CeX Bromley"
 url: /bromley/cex-bromley/
-shop: electronics
+shop: Elektronik
 ---

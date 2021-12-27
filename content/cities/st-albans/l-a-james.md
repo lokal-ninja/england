@@ -1,5 +1,5 @@
 ---
 title: "L. A. James"
 url: /st-albans/l-a-james/
-shop: antiques
+shop: Antiquitäten
 ---

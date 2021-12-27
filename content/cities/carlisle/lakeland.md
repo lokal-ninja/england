@@ -1,5 +1,5 @@
 ---
 title: "Lakeland"
 url: /carlisle/lakeland/
-shop: leather
+shop: Leder
 ---

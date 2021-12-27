@@ -1,5 +1,5 @@
 ---
 title: "Everycare"
 url: /reigate/everycare/
-shop: shop
+shop: Allgemein
 ---

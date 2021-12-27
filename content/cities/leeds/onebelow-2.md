@@ -1,5 +1,5 @@
 ---
 title: "OneBelow"
 url: /leeds/onebelow-2/
-shop: variety store
+shop: Kramladen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mountain Warehouse"
 url: /alton/mountain-warehouse/
-shop: outdoor
+shop: Outdoor
 ---

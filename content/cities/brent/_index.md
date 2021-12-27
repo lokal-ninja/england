@@ -1,6 +1,6 @@
 ---
 title: Brent
 url: /brent/
-latitude: 
-longitude: 
+latitude: 51.593
+longitude: -0.285
 ---

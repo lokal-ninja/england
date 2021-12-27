@@ -1,6 +1,6 @@
 ---
 title: Barrowden
 url: /barrowden/
-latitude: 52.591353100000006
-longitude: -0.6020109
+latitude: 52.591
+longitude: -0.599
 ---

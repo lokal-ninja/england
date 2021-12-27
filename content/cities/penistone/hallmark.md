@@ -1,5 +1,5 @@
 ---
 title: "Hallmark"
 url: /penistone/hallmark/
-shop: gift
+shop: Andenken
 ---

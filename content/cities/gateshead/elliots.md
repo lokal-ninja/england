@@ -1,5 +1,5 @@
 ---
 title: "Elliots"
 url: /gateshead/elliots/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

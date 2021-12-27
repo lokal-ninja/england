@@ -1,5 +1,5 @@
 ---
 title: "Helly Hansen"
 url: /cowes/helly-hansen/
-shop: clothes
+shop: Kleidung
 ---

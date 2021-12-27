@@ -1,5 +1,5 @@
 ---
 title: "Blueleaf"
 url: /chatham/blueleaf/
-shop: trade
+shop: Baustoffe
 ---

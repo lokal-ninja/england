@@ -1,5 +1,5 @@
 ---
 title: "Pamir"
 url: /birmingham/pamir/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,6 +1,6 @@
 ---
 title: Healing
 url: /healing/
-latitude: 53.5781654
-longitude: -0.1639457
+latitude: 53.581
+longitude: -0.162
 ---

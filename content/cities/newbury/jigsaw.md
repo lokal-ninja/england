@@ -1,5 +1,5 @@
 ---
 title: "Jigsaw"
 url: /newbury/jigsaw/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,6 +1,6 @@
 ---
 title: Benfleet
 url: /benfleet/
-latitude: 51.564950100000004
-longitude: 0.5558190000000001
+latitude: 51.557
+longitude: 0.571
 ---

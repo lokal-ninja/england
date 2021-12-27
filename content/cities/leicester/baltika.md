@@ -1,5 +1,5 @@
 ---
 title: "Baltika"
 url: /leicester/baltika/
-shop: convenience
+shop: Lebensmittel
 ---

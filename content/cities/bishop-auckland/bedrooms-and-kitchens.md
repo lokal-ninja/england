@@ -1,5 +1,5 @@
 ---
 title: "Bedrooms And Kitchens"
 url: /bishop-auckland/bedrooms-and-kitchens/
-shop: shop
+shop: Allgemein
 ---

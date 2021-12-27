@@ -1,6 +1,6 @@
 ---
 title: Piercebridge, Darlington
 url: /piercebridge-darlington/
-latitude: 
-longitude: 
+latitude: 54.54
+longitude: -1.673
 ---

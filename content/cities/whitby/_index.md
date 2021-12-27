@@ -1,6 +1,6 @@
 ---
 title: Whitby
 url: /whitby/
-latitude: 53.273522400000004
-longitude: -2.9049797
+latitude: 54.491
+longitude: -0.632
 ---

@@ -1,6 +1,6 @@
 ---
 title: Dunsop Bridge
 url: /dunsop-bridge/
-latitude: 53.94507290000001
-longitude: -2.5180855
+latitude: 53.946
+longitude: -2.519
 ---

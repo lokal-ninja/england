@@ -1,6 +1,6 @@
 ---
 title: Etal
 url: /etal/
-latitude: 55.6479372
-longitude: -2.117584
+latitude: 55.645
+longitude: -2.104
 ---

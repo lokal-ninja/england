@@ -1,5 +1,5 @@
 ---
 title: "Beste"
 url: /london/beste/
-shop: hairdresser
+shop: Friseur
 ---

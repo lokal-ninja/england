@@ -1,5 +1,5 @@
 ---
 title: "Greggs"
 url: /luton/greggs/
-shop: bakery
+shop: Bäckerei
 ---

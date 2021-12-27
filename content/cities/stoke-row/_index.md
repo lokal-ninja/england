@@ -1,6 +1,6 @@
 ---
 title: Stoke Row
 url: /stoke-row/
-latitude: 51.5512365
-longitude: -1.0207249
+latitude: 51.551
+longitude: -1.02
 ---

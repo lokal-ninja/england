@@ -1,6 +1,6 @@
 ---
 title: Corpusty
 url: /corpusty/
-latitude: 52.8273425
-longitude: 1.1344793
+latitude: 52.827
+longitude: 1.136
 ---

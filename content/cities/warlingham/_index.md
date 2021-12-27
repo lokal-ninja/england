@@ -1,6 +1,6 @@
 ---
 title: Warlingham
 url: /warlingham/
-latitude: 51.309559
-longitude: -0.05571570000000001
+latitude: 51.31
+longitude: -0.055
 ---

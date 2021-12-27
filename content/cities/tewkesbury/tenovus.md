@@ -1,5 +1,5 @@
 ---
 title: "Tenovus"
 url: /tewkesbury/tenovus/
-shop: charity
+shop: Gebrauchtwaren
 ---

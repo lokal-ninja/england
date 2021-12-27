@@ -1,6 +1,6 @@
 ---
 title: Filey
 url: /filey/
-latitude: 54.209688400000005
-longitude: -0.28883820000000004
+latitude: 54.216
+longitude: -0.284
 ---

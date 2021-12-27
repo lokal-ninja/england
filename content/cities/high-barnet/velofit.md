@@ -1,5 +1,5 @@
 ---
 title: "Velofit"
 url: /high-barnet/velofit/
-shop: bicycle
+shop: Fahrrad
 ---

@@ -1,6 +1,6 @@
 ---
 title: Wrangle
 url: /wrangle/
-latitude: 53.037872500000006
-longitude: 0.12476330000000001
+latitude: 53.038
+longitude: 0.122
 ---

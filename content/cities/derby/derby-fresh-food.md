@@ -1,5 +1,5 @@
 ---
 title: "Derby Fresh Food"
 url: /derby/derby-fresh-food/
-shop: convenience
+shop: Lebensmittel
 ---

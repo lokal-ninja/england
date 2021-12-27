@@ -1,5 +1,5 @@
 ---
 title: "ProCook"
 url: /truro/procook/
-shop: houseware
+shop: Haushaltsartikel
 ---

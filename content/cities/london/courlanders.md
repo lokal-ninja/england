@@ -1,5 +1,5 @@
 ---
 title: "Courlanders"
 url: /london/courlanders/
-shop: jewelry
+shop: Schmuck
 ---

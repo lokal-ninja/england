@@ -1,5 +1,5 @@
 ---
 title: "Halls"
 url: /stroud/halls/
-shop: bakery
+shop: Bäckerei
 ---

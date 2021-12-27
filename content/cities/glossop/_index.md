@@ -1,6 +1,6 @@
 ---
 title: Glossop
 url: /glossop/
-latitude: 53.443355200000006
-longitude: -1.9499173
+latitude: 53.455
+longitude: -1.947
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Subway"
 url: /burnley/subway/
-shop: deli
+shop: Feinkost
 ---

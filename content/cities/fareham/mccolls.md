@@ -1,5 +1,5 @@
 ---
 title: "McColl's"
 url: /fareham/mccolls/
-shop: convenience
+shop: Lebensmittel
 ---

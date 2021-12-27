@@ -1,5 +1,5 @@
 ---
 title: "Next"
 url: /bedford/next/
-shop: clothes
+shop: Kleidung
 ---

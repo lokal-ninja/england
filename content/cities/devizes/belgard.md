@@ -1,5 +1,5 @@
 ---
 title: "Belgard"
 url: /devizes/belgard/
-shop: antiques
+shop: Antiquitäten
 ---

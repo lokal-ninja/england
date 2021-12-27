@@ -1,5 +1,5 @@
 ---
 title: "BugBrand"
 url: /bristol/bugbrand/
-shop: electronics
+shop: Elektronik
 ---

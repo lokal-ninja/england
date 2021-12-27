@@ -1,5 +1,5 @@
 ---
 title: "La Bonne Boucherie"
 url: /london/la-bonne-boucherie/
-shop: butcher
+shop: Metzgerei
 ---

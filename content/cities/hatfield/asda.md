@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /hatfield/asda/
-shop: supermarket
+shop: Supermarkt
 ---

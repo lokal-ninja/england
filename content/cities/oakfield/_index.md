@@ -1,6 +1,6 @@
 ---
 title: Oakfield
 url: /oakfield/
-latitude: 
-longitude: 
+latitude: 50.723
+longitude: -1.155
 ---

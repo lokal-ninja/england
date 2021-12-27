@@ -1,5 +1,5 @@
 ---
 title: "Boots"
 url: /northwood/boots-2/
-shop: chemist
+shop: Drogerie
 ---

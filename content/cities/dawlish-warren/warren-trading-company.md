@@ -1,5 +1,5 @@
 ---
 title: "Warren Trading Company"
 url: /dawlish-warren/warren-trading-company/
-shop: gift
+shop: Andenken
 ---

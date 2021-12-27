@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /rustington/tesco-express/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Antics"
 url: /stroud/antics/
-shop: toys
+shop: Spielzeug
 ---

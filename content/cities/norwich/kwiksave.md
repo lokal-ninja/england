@@ -1,5 +1,5 @@
 ---
 title: "kwiksave"
 url: /norwich/kwiksave/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Argos"
 url: /hessle/argos/
-shop: shop
+shop: Allgemein
 ---

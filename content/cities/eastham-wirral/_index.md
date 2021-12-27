@@ -1,6 +1,6 @@
 ---
 title: Eastham, Wirral
 url: /eastham-wirral/
-latitude: 
-longitude: 
+latitude: 53.317
+longitude: -2.962
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Budgens"
 url: /dodworth/budgens/
-shop: convenience
+shop: Lebensmittel
 ---

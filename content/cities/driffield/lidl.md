@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /driffield/lidl/
-shop: supermarket
+shop: Supermarkt
 ---

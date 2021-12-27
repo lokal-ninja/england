@@ -1,6 +1,6 @@
 ---
 title: Bagnall
 url: /bagnall/
-latitude: 53.0546105
-longitude: -2.1078317
+latitude: 53.049
+longitude: -2.099
 ---

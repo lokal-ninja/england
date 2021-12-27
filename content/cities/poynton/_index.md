@@ -1,6 +1,6 @@
 ---
 title: Poynton
 url: /poynton/
-latitude: 52.7554925
-longitude: -2.6355975000000003
+latitude: 53.342
+longitude: -2.127
 ---

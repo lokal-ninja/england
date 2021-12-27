@@ -1,5 +1,5 @@
 ---
 title: "Bella Nails"
 url: /feltham/bella-nails/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,6 +1,6 @@
 ---
 title: Dunholme
 url: /dunholme/
-latitude: 
-longitude: 
+latitude: 53.301
+longitude: -0.464
 ---

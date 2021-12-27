@@ -1,5 +1,5 @@
 ---
 title: "Brough's Butchers"
 url: /southport/broughs-butchers/
-shop: butcher
+shop: Metzgerei
 ---

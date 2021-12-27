@@ -1,5 +1,5 @@
 ---
 title: "Gaia"
 url: /hexham/gaia/
-shop: gift
+shop: Andenken
 ---

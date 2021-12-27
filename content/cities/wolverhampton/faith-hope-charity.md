@@ -1,5 +1,5 @@
 ---
 title: "Faith Hope + Charity"
 url: /wolverhampton/faith-hope-charity/
-shop: charity
+shop: Gebrauchtwaren
 ---

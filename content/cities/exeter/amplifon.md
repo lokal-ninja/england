@@ -1,5 +1,5 @@
 ---
 title: "Amplifon"
 url: /exeter/amplifon/
-shop: hearing aids
+shop: Hörgeräte
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Biedronka"
 url: /bristol/biedronka/
-shop: convenience
+shop: Lebensmittel
 ---

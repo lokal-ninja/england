@@ -1,5 +1,5 @@
 ---
 title: "Fantasia"
 url: /leeds/fantasia/
-shop: gift
+shop: Andenken
 ---

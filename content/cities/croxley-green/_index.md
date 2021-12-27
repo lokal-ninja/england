@@ -1,6 +1,6 @@
 ---
 title: Croxley Green
 url: /croxley-green/
-latitude: 
-longitude: 
+latitude: 51.65
+longitude: -0.435
 ---

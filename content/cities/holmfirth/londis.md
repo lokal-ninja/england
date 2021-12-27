@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /holmfirth/londis/
-shop: supermarket
+shop: Supermarkt
 ---

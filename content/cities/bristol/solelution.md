@@ -1,5 +1,5 @@
 ---
 title: "SoleLution"
 url: /bristol/solelution/
-shop: shoes
+shop: Schuhe
 ---

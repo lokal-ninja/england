@@ -1,5 +1,5 @@
 ---
 title: "Boots"
 url: /kendal/boots/
-shop: chemist
+shop: Drogerie
 ---

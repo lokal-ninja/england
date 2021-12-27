@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /ely/spar/
-shop: convenience
+shop: Lebensmittel
 ---

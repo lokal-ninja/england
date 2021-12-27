@@ -1,5 +1,5 @@
 ---
 title: "Pandora"
 url: /kings-lynn/pandora/
-shop: jewelry
+shop: Schmuck
 ---

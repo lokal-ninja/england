@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /louth/whsmith/
-shop: books
+shop: Bücher
 ---

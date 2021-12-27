@@ -1,5 +1,5 @@
 ---
 title: "Sainsbury's Local"
 url: /nottingham/sainsburys-local-2/
-shop: convenience
+shop: Lebensmittel
 ---

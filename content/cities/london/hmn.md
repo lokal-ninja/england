@@ -1,5 +1,5 @@
 ---
 title: "HMN"
 url: /london/hmn/
-shop: massage
+shop: Massage
 ---

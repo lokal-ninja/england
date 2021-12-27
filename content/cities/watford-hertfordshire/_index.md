@@ -1,6 +1,6 @@
 ---
 title: Watford, Hertfordshire
 url: /watford-hertfordshire/
-latitude: 
-longitude: 
+latitude: 51.628
+longitude: -0.383
 ---

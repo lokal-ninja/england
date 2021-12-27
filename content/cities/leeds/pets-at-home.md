@@ -1,5 +1,5 @@
 ---
 title: "Pets at Home"
 url: /leeds/pets-at-home/
-shop: pet
+shop: Tiere
 ---

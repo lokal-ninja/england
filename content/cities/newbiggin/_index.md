@@ -1,6 +1,6 @@
 ---
 title: Newbiggin
 url: /newbiggin/
-latitude: 54.843343600000004
-longitude: -2.0800692
+latitude: 54.655
+longitude: -2.821
 ---

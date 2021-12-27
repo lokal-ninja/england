@@ -1,6 +1,6 @@
 ---
 title: Willesborough
 url: /willesborough/
-latitude: 51.1415683
-longitude: 0.8948952
+latitude: 51.13
+longitude: 0.882
 ---

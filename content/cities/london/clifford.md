@@ -1,5 +1,5 @@
 ---
 title: "Clifford"
 url: /london/clifford/
-shop: hairdresser
+shop: Friseur
 ---

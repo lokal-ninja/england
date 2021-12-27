@@ -1,6 +1,6 @@
 ---
 title: Wilmlsow
 url: /wilmlsow/
-latitude: 
-longitude: 
+latitude: 53.324
+longitude: -2.235
 ---

@@ -1,6 +1,6 @@
 ---
 title: Woolston, Southampton
 url: /woolston-southampton/
-latitude: 
-longitude: 
+latitude: 50.899
+longitude: -1.378
 ---

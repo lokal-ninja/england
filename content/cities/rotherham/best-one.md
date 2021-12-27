@@ -1,5 +1,5 @@
 ---
 title: "Best-one"
 url: /rotherham/best-one/
-shop: convenience
+shop: Lebensmittel
 ---

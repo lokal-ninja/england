@@ -1,6 +1,6 @@
 ---
 title: Trafford
 url: /trafford/
-latitude: 
-longitude: 
+latitude: 53.459
+longitude: -2.276
 ---

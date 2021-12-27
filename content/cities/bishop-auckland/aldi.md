@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /bishop-auckland/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

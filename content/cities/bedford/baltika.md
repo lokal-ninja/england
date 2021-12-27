@@ -1,5 +1,5 @@
 ---
 title: "Baltika"
 url: /bedford/baltika/
-shop: convenience
+shop: Lebensmittel
 ---

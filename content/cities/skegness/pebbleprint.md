@@ -1,5 +1,5 @@
 ---
 title: "Pebbleprint"
 url: /skegness/pebbleprint/
-shop: shop
+shop: Allgemein
 ---

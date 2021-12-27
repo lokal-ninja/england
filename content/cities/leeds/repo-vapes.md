@@ -1,5 +1,5 @@
 ---
 title: "Repo Vapes"
 url: /leeds/repo-vapes/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

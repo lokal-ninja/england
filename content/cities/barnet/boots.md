@@ -1,5 +1,5 @@
 ---
 title: "Boots"
 url: /barnet/boots/
-shop: chemist
+shop: Drogerie
 ---

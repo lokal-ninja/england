@@ -1,6 +1,6 @@
 ---
 title: Rotherham
 url: /rotherham/
-latitude: 53.4310417
-longitude: -1.3551870000000001
+latitude: 53.424
+longitude: -1.199
 ---

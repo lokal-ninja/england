@@ -1,5 +1,5 @@
 ---
 title: "Turnberry Fish Bar"
 url: /birmingham/turnberry-fish-bar/
-shop: shop
+shop: Allgemein
 ---

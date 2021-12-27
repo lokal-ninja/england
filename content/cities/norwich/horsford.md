@@ -1,5 +1,5 @@
 ---
 title: "Horsford"
 url: /norwich/horsford/
-shop: glass
+shop: Glas
 ---

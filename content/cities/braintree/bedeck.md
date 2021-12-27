@@ -1,5 +1,5 @@
 ---
 title: "Bedeck"
 url: /braintree/bedeck/
-shop: bed
+shop: Betten
 ---

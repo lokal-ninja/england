@@ -1,5 +1,5 @@
 ---
 title: "Bexhill Mini Market"
 url: /bexhill-on-sea/bexhill-mini-market/
-shop: convenience
+shop: Lebensmittel
 ---

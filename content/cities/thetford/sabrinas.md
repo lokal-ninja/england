@@ -1,5 +1,5 @@
 ---
 title: "Sabrina's"
 url: /thetford/sabrinas/
-shop: hairdresser
+shop: Friseur
 ---

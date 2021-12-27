@@ -1,6 +1,6 @@
 ---
 title: Tewkesbury
 url: /tewkesbury/
-latitude: 
-longitude: 
+latitude: 51.992
+longitude: -2.159
 ---

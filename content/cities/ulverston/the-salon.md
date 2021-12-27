@@ -1,5 +1,5 @@
 ---
 title: "The Salon"
 url: /ulverston/the-salon/
-shop: hairdresser
+shop: Friseur
 ---

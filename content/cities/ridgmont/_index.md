@@ -1,6 +1,6 @@
 ---
 title: Ridgmont
 url: /ridgmont/
-latitude: 52.0151934
-longitude: -0.5808838000000001
+latitude: 52.016
+longitude: -0.578
 ---

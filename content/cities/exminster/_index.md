@@ -1,6 +1,6 @@
 ---
 title: Exminster
 url: /exminster/
-latitude: 50.678539400000005
-longitude: -3.4955657
+latitude: 50.679
+longitude: -3.495
 ---

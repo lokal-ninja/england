@@ -1,5 +1,5 @@
 ---
 title: "Accessorize"
 url: /lancaster/accessorize/
-shop: shop
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Zany"
 url: /norwich/zany/
-shop: hairdresser
+shop: Friseur
 ---

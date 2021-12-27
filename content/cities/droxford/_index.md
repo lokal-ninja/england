@@ -1,6 +1,6 @@
 ---
 title: Droxford
 url: /droxford/
-latitude: 
-longitude: 
+latitude: 50.966
+longitude: -1.133
 ---

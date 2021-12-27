@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
 url: /stockport/wilko/
-shop: variety store
+shop: Kramladen
 ---

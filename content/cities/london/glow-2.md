@@ -1,5 +1,5 @@
 ---
 title: "Glow"
 url: /london/glow-2/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,6 +1,6 @@
 ---
 title: Royal Borough of Greenwich
 url: /royal-borough-of-greenwich/
-latitude: 
-longitude: 
+latitude: 51.45
+longitude: 0.082
 ---

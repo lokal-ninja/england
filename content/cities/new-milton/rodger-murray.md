@@ -1,5 +1,5 @@
 ---
 title: "Rodger Murray"
 url: /new-milton/rodger-murray/
-shop: hairdresser
+shop: Friseur
 ---

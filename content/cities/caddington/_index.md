@@ -1,6 +1,6 @@
 ---
 title: Caddington
 url: /caddington/
-latitude: 51.86566010000001
-longitude: -0.456191
+latitude: 51.866
+longitude: -0.457
 ---

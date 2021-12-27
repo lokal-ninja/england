@@ -1,5 +1,5 @@
 ---
 title: "Super Farbod"
 url: /leeds/super-farbod/
-shop: convenience
+shop: Lebensmittel
 ---

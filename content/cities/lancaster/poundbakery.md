@@ -1,5 +1,5 @@
 ---
 title: "Poundbakery"
 url: /lancaster/poundbakery/
-shop: bakery
+shop: Bäckerei
 ---

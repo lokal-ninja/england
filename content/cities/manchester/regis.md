@@ -1,5 +1,5 @@
 ---
 title: "Regis"
 url: /manchester/regis/
-shop: hairdresser
+shop: Friseur
 ---

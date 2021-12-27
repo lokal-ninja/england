@@ -1,6 +1,6 @@
 ---
 title: Edenthorpe
 url: /edenthorpe/
-latitude: 53.5529148
-longitude: -1.0659478
+latitude: 53.555
+longitude: -1.064
 ---

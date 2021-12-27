@@ -1,6 +1,6 @@
 ---
 title: Pica
 url: /pica/
-latitude: 54.5841878
-longitude: -3.5171479000000003
+latitude: 54.583
+longitude: -3.514
 ---

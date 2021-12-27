@@ -1,5 +1,5 @@
 ---
 title: "Mountbarrow Convenience Store"
 url: /ulverston/mountbarrow-convenience-store/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,6 +1,6 @@
 ---
 title: Selsey, Chichester
 url: /selsey-chichester/
-latitude: 
-longitude: 
+latitude: 50.735
+longitude: -0.778
 ---

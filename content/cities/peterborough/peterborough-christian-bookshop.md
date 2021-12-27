@@ -1,5 +1,5 @@
 ---
 title: "Peterborough Christian Bookshop"
 url: /peterborough/peterborough-christian-bookshop/
-shop: books
+shop: Bücher
 ---

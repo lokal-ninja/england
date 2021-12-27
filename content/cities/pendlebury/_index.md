@@ -1,6 +1,6 @@
 ---
 title: Pendlebury
 url: /pendlebury/
-latitude: 53.5161631
-longitude: -2.3307066
+latitude: 53.517
+longitude: -2.331
 ---

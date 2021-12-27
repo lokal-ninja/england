@@ -1,5 +1,5 @@
 ---
 title: "Next Clearance"
 url: /darlington/next-clearance/
-shop: clothes
+shop: Kleidung
 ---

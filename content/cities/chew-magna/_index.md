@@ -1,6 +1,6 @@
 ---
 title: Chew Magna
 url: /chew-magna/
-latitude: 51.3660251
-longitude: -2.6089889
+latitude: 51.366
+longitude: -2.611
 ---

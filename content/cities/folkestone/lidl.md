@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /folkestone/lidl/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Alberts Deli"
 url: /richmond/the-alberts-deli/
-shop: deli
+shop: Feinkost
 ---

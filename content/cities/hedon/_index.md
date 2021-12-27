@@ -1,6 +1,6 @@
 ---
 title: Hedon
 url: /hedon/
-latitude: 53.74106810000001
-longitude: -0.20190290000000002
+latitude: 53.74
+longitude: -0.213
 ---

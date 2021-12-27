@@ -1,5 +1,5 @@
 ---
 title: "Sunay Omar"
 url: /south-croydon/sunay-omar/
-shop: hairdresser
+shop: Friseur
 ---

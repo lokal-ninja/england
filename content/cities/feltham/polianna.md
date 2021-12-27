@@ -1,5 +1,5 @@
 ---
 title: "Polianna"
 url: /feltham/polianna/
-shop: convenience
+shop: Lebensmittel
 ---

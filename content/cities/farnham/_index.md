@@ -1,6 +1,6 @@
 ---
 title: Farnham
 url: /farnham/
-latitude: 52.1888268
-longitude: 1.45462
+latitude: 51.2
+longitude: -0.817
 ---

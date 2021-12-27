@@ -1,5 +1,5 @@
 ---
 title: "U Name It"
 url: /portsmouth/u-name-it/
-shop: houseware
+shop: Haushaltsartikel
 ---

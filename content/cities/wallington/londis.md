@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /wallington/londis/
-shop: convenience
+shop: Lebensmittel
 ---

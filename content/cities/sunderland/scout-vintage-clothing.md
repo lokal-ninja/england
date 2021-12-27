@@ -1,5 +1,5 @@
 ---
 title: "Scout Vintage Clothing"
 url: /sunderland/scout-vintage-clothing/
-shop: clothes
+shop: Kleidung
 ---

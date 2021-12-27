@@ -1,5 +1,5 @@
 ---
 title: "Beachcomber"
 url: /ryde/beachcomber/
-shop: gift
+shop: Andenken
 ---

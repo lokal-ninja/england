@@ -1,5 +1,5 @@
 ---
 title: "Reem Machine"
 url: /nottingham/reem-machine/
-shop: car repair
+shop: Autowerkstatt
 ---

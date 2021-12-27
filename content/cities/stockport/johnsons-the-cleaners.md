@@ -1,5 +1,5 @@
 ---
 title: "Johnsons The Cleaners"
 url: /stockport/johnsons-the-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

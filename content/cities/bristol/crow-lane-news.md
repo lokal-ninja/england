@@ -1,5 +1,5 @@
 ---
 title: "Crow Lane News"
 url: /bristol/crow-lane-news/
-shop: newsagent
+shop: Zeitungen
 ---

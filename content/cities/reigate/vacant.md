@@ -1,5 +1,5 @@
 ---
-title: "+VACANT+"
+title: "[Vacant]"
 url: /reigate/vacant/
-shop: shop
+shop: Allgemein
 ---

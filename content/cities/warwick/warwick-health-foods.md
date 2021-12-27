@@ -1,5 +1,5 @@
 ---
 title: "Warwick Health Foods"
 url: /warwick/warwick-health-foods/
-shop: health
+shop: Gesundheit
 ---

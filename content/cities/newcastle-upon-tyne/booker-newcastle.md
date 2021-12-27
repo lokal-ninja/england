@@ -1,5 +1,5 @@
 ---
 title: "Booker Newcastle"
 url: /newcastle-upon-tyne/booker-newcastle/
-shop: wholesale
+shop: Großhandel
 ---

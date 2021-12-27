@@ -1,5 +1,5 @@
 ---
 title: "Farmers Market"
 url: /darlington/farmers-market/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

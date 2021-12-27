@@ -1,5 +1,5 @@
 ---
 title: "The Pottery Basement"
 url: /morecambe/the-pottery-basement/
-shop: gift
+shop: Andenken
 ---

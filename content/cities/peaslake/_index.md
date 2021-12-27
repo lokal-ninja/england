@@ -1,6 +1,6 @@
 ---
 title: Peaslake
 url: /peaslake/
-latitude: 51.1916244
-longitude: -0.4464771
+latitude: 51.192
+longitude: -0.447
 ---

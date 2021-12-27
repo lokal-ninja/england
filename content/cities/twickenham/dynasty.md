@@ -1,5 +1,5 @@
 ---
 title: "Dynasty"
 url: /twickenham/dynasty/
-shop: clothes
+shop: Kleidung
 ---

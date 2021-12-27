@@ -1,5 +1,5 @@
 ---
 title: "Ambrosia"
 url: /london/ambrosia/
-shop: deli
+shop: Feinkost
 ---

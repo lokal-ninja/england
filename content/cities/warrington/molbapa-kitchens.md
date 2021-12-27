@@ -1,5 +1,5 @@
 ---
 title: "Molbapa Kitchens"
 url: /warrington/molbapa-kitchens/
-shop: kitchen
+shop: Küchen
 ---

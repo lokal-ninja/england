@@ -1,5 +1,5 @@
 ---
 title: "Spa"
 url: /brighton/spa/
-shop: convenience
+shop: Lebensmittel
 ---

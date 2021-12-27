@@ -1,6 +1,6 @@
 ---
 title: Newcastle Upon Tyne
 url: /newcastle-upon-tyne/
-latitude: 
-longitude: 
+latitude: 55.026
+longitude: -1.628
 ---

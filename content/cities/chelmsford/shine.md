@@ -1,5 +1,5 @@
 ---
 title: "Shine"
 url: /chelmsford/shine/
-shop: hairdresser
+shop: Friseur
 ---

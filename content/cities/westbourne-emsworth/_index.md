@@ -1,6 +1,6 @@
 ---
 title: Westbourne, Emsworth
 url: /westbourne-emsworth/
-latitude: 
-longitude: 
+latitude: 50.862
+longitude: -0.926
 ---

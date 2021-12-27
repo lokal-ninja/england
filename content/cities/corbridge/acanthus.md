@@ -1,5 +1,5 @@
 ---
 title: "Acanthus"
 url: /corbridge/acanthus/
-shop: gift
+shop: Andenken
 ---

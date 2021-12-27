@@ -1,6 +1,6 @@
 ---
 title: Southwater, Horsham
 url: /southwater-horsham/
-latitude: 
-longitude: 
+latitude: 51.024
+longitude: -0.352
 ---

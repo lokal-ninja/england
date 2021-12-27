@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /gerrards-cross/tesco/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,6 +1,6 @@
 ---
 title: Chawston
 url: /chawston/
-latitude: 
-longitude: 
+latitude: 52.193
+longitude: -0.316
 ---

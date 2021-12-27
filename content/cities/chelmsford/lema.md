@@ -1,5 +1,5 @@
 ---
 title: "Lema"
 url: /chelmsford/lema/
-shop: hairdresser
+shop: Friseur
 ---

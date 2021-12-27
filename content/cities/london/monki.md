@@ -1,5 +1,5 @@
 ---
 title: "Monki"
 url: /london/monki/
-shop: clothes
+shop: Kleidung
 ---

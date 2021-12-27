@@ -1,5 +1,5 @@
 ---
 title: "Stitches"
 url: /manchester/stitches/
-shop: tailor
+shop: Schneiderei
 ---

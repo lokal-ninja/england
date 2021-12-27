@@ -1,5 +1,5 @@
 ---
 title: "McColl's"
 url: /hyde/mccolls/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bloom Florist"
 url: /letchworth-garden-city/bloom-florist/
-shop: florist
+shop: Blumen
 ---

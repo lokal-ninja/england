@@ -1,6 +1,6 @@
 ---
 title: Shawbury
 url: /shawbury/
-latitude: 52.7875181
-longitude: -2.6554872
+latitude: 52.787
+longitude: -2.656
 ---

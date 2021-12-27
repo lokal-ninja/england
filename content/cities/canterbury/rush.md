@@ -1,5 +1,5 @@
 ---
 title: "Rush"
 url: /canterbury/rush/
-shop: hairdresser
+shop: Friseur
 ---

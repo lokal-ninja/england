@@ -1,5 +1,5 @@
 ---
 title: "Framed"
 url: /whitehaven/framed/
-shop: frame
+shop: Rahmen
 ---

@@ -1,6 +1,6 @@
 ---
 title: Little Chalfont
 url: /little-chalfont/
-latitude: 51.6700802
-longitude: -0.5632091
+latitude: 51.667
+longitude: -0.564
 ---

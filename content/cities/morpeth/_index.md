@@ -1,6 +1,6 @@
 ---
 title: Morpeth
 url: /morpeth/
-latitude: 55.1675437
-longitude: -1.6907444
+latitude: 55.297
+longitude: -1.71
 ---

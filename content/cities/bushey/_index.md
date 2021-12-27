@@ -1,6 +1,6 @@
 ---
 title: Bushey
 url: /bushey/
-latitude: 50.6506917
-longitude: -2.0318749
+latitude: 51.635
+longitude: -0.343
 ---

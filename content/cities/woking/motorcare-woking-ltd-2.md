@@ -1,5 +1,5 @@
 ---
 title: "Motorcare Woking Ltd"
 url: /woking/motorcare-woking-ltd-2/
-shop: car repair
+shop: Autowerkstatt
 ---

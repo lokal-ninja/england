@@ -1,5 +1,5 @@
 ---
 title: "TigerLily"
 url: /oxford/tigerlily/
-shop: tattoo
+shop: Tattoo
 ---

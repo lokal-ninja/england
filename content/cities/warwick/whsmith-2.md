@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /warwick/whsmith-2/
-shop: newsagent
+shop: Zeitungen
 ---

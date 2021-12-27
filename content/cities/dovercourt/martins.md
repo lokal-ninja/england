@@ -1,5 +1,5 @@
 ---
 title: "Martins"
 url: /dovercourt/martins/
-shop: newsagent
+shop: Zeitungen
 ---

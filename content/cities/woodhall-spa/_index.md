@@ -1,6 +1,6 @@
 ---
 title: Woodhall Spa
 url: /woodhall-spa/
-latitude: 53.1519386
-longitude: -0.2180445
+latitude: 53.153
+longitude: -0.213
 ---

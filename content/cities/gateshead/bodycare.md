@@ -1,5 +1,5 @@
 ---
 title: "Bodycare"
 url: /gateshead/bodycare/
-shop: chemist
+shop: Drogerie
 ---

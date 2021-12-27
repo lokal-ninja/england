@@ -1,5 +1,5 @@
 ---
 title: "Pinfold"
 url: /hexham/pinfold/
-shop: gift
+shop: Andenken
 ---

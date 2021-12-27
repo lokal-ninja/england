@@ -1,5 +1,5 @@
 ---
 title: "Scuba Scene"
 url: /taunton/scuba-scene/
-shop: department store
+shop: Warenhaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "GamesnMore"
 url: /wigan/gamesnmore/
-shop: toys
+shop: Spielzeug
 ---

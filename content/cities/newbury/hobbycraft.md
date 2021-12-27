@@ -1,5 +1,5 @@
 ---
 title: "Hobbycraft"
 url: /newbury/hobbycraft/
-shop: craft
+shop: Basteln
 ---

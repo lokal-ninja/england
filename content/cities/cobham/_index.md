@@ -1,6 +1,6 @@
 ---
 title: Cobham
 url: /cobham/
-latitude: 51.330007900000005
-longitude: -0.4120821
+latitude: 51.304
+longitude: -0.406
 ---

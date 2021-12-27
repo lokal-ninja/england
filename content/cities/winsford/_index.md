@@ -1,6 +1,6 @@
 ---
 title: Winsford
 url: /winsford/
-latitude: 51.1027713
-longitude: -3.5631364000000003
+latitude: 53.197
+longitude: -2.513
 ---

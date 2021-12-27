@@ -1,6 +1,6 @@
 ---
 title: Northwich
 url: /northwich/
-latitude: 53.2602539
-longitude: -2.5145104000000003
+latitude: 53.264
+longitude: -2.492
 ---

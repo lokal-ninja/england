@@ -1,6 +1,6 @@
 ---
 title: Headington, Oxfordshire
 url: /headington-oxfordshire/
-latitude: 
-longitude: 
+latitude: 51.762
+longitude: -1.196
 ---

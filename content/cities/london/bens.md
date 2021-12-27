@@ -1,5 +1,5 @@
 ---
 title: "Bens"
 url: /london/bens/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

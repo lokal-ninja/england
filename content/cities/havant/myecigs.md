@@ -1,5 +1,5 @@
 ---
 title: "Myecigs"
 url: /havant/myecigs/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

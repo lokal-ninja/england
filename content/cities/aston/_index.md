@@ -1,6 +1,6 @@
 ---
 title: Aston
 url: /aston/
-latitude: 53.0183848
-longitude: -2.5814664
+latitude: 53.364
+longitude: -1.303
 ---

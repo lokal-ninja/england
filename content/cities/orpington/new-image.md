@@ -1,5 +1,5 @@
 ---
 title: "New Image"
 url: /orpington/new-image/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,6 +1,6 @@
 ---
 title: Craven Arms
 url: /craven-arms/
-latitude: 
-longitude: 
+latitude: 52.44
+longitude: -2.836
 ---

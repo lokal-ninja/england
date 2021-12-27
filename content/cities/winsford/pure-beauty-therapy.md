@@ -1,5 +1,5 @@
 ---
 title: "Pure Beauty Therapy"
 url: /winsford/pure-beauty-therapy/
-shop: boutique
+shop: Modehaus
 ---

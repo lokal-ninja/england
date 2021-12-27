@@ -1,5 +1,5 @@
 ---
 title: "Mad Hatters Hardware"
 url: /alston/mad-hatters-hardware/
-shop: gift
+shop: Andenken
 ---

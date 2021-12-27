@@ -1,5 +1,5 @@
 ---
 title: "Ambitions"
 url: /nottingham/ambitions/
-shop: hairdresser
+shop: Friseur
 ---

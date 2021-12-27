@@ -1,5 +1,5 @@
 ---
 title: "Leightons"
 url: /southampton/leightons/
-shop: optician
+shop: Optiker
 ---

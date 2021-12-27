@@ -1,5 +1,5 @@
 ---
 title: "Handstanned"
 url: /leeds/handstanned/
-shop: beauty
+shop: Kosmetik
 ---

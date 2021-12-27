@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /wandsworth/whsmith/
-shop: newsagent
+shop: Zeitungen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Scissors"
 url: /bournemouth/scissors/
-shop: hairdresser
+shop: Friseur
 ---

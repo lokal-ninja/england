@@ -1,5 +1,5 @@
 ---
 title: "Ramsdens"
 url: /scunthorpe/ramsdens/
-shop: pawnbroker
+shop: Leiher
 ---

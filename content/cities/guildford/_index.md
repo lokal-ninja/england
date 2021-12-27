@@ -1,6 +1,6 @@
 ---
 title: Guildford
 url: /guildford/
-latitude: 
-longitude: 
+latitude: 51.261
+longitude: -0.58
 ---

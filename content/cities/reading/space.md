@@ -1,5 +1,5 @@
 ---
 title: "Space"
 url: /reading/space/
-shop: estate agent
+shop: Immobilien
 ---

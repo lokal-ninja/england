@@ -1,5 +1,5 @@
 ---
 title: "Pandora"
 url: /taunton/pandora/
-shop: jewelry
+shop: Schmuck
 ---

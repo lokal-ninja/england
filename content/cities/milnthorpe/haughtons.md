@@ -1,5 +1,5 @@
 ---
 title: "Haughtons"
 url: /milnthorpe/haughtons/
-shop: hardware
+shop: Eisenwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Flavourtown"
 url: /london/flavourtown/
-shop: bakery
+shop: Bäckerei
 ---

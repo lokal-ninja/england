@@ -1,5 +1,5 @@
 ---
 title: "Impressions"
 url: /stroud/impressions/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "New Roots"
 url: /sheffield/new-roots/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

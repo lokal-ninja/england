@@ -1,5 +1,5 @@
 ---
 title: "The Village Stores"
 url: /taunton/the-village-stores/
-shop: convenience
+shop: Lebensmittel
 ---

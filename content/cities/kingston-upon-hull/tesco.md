@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /kingston-upon-hull/tesco/
-shop: supermarket
+shop: Supermarkt
 ---

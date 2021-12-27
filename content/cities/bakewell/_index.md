@@ -1,6 +1,6 @@
 ---
 title: Bakewell
 url: /bakewell/
-latitude: 53.2148429
-longitude: -1.6758613
+latitude: 53.213
+longitude: -1.676
 ---

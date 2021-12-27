@@ -1,5 +1,5 @@
 ---
 title: "Farmfoods"
 url: /margate/farmfoods/
-shop: frozen food
+shop: Tiefkühl
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Greggs"
 url: /keswick/greggs/
-shop: bakery
+shop: Bäckerei
 ---

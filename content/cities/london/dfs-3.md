@@ -1,5 +1,5 @@
 ---
 title: "DFS"
 url: /london/dfs-3/
-shop: furniture
+shop: Möbel
 ---

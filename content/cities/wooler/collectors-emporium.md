@@ -1,5 +1,5 @@
 ---
 title: "Collectors Emporium"
 url: /wooler/collectors-emporium/
-shop: antiques
+shop: Antiquitäten
 ---

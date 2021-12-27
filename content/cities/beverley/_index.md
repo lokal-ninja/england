@@ -1,6 +1,6 @@
 ---
 title: Beverley
 url: /beverley/
-latitude: 53.8425488
-longitude: -0.43156770000000005
+latitude: 53.844
+longitude: -0.503
 ---

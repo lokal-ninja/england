@@ -1,5 +1,5 @@
 ---
 title: "Vodaphone"
 url: /leatherhead/vodaphone/
-shop: shop
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pilgrim"
 url: /dorking/pilgrim/
-shop: antiques
+shop: Antiquitäten
 ---

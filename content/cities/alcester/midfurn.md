@@ -1,5 +1,5 @@
 ---
 title: "Midfurn"
 url: /alcester/midfurn/
-shop: furniture
+shop: Möbel
 ---

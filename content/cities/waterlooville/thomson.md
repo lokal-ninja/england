@@ -1,5 +1,5 @@
 ---
 title: "Thomson"
 url: /waterlooville/thomson/
-shop: travel agency
+shop: Reisebüro
 ---

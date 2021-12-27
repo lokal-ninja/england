@@ -1,6 +1,6 @@
 ---
 title: Thornley
 url: /thornley/
-latitude: 54.7502761
-longitude: -1.4365264
+latitude: 54.75
+longitude: -1.438
 ---

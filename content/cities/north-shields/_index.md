@@ -1,6 +1,6 @@
 ---
 title: North Shields
 url: /north-shields/
-latitude: 55.0087655
-longitude: -1.4471035
+latitude: 55.012
+longitude: -1.441
 ---

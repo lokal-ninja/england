@@ -1,6 +1,6 @@
 ---
 title: Plumgarths
 url: /plumgarths/
-latitude: 54.3447681
-longitude: -2.7769756
+latitude: 54.345
+longitude: -2.777
 ---

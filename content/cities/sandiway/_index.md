@@ -1,6 +1,6 @@
 ---
 title: Sandiway
 url: /sandiway/
-latitude: 53.232244900000005
-longitude: -2.5953067
+latitude: 53.229
+longitude: -2.61
 ---

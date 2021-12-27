@@ -1,5 +1,5 @@
 ---
 title: "Clintons"
 url: /st-albans/clintons/
-shop: gift
+shop: Andenken
 ---

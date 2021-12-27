@@ -1,6 +1,6 @@
 ---
 title: Howden
 url: /howden/
-latitude: 53.7473189
-longitude: -0.8622549
+latitude: 53.746
+longitude: -0.866
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Get Fresh and Fruity"
 url: /alton/get-fresh-and-fruity/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

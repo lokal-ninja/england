@@ -1,5 +1,5 @@
 ---
 title: "Bullivants"
 url: /derby/bullivants/
-shop: car
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Wood Floor Company"
 url: /darlington/the-wood-floor-company/
-shop: flooring
+shop: Fußböden
 ---

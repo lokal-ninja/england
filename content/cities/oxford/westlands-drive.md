@@ -1,5 +1,5 @@
 ---
 title: "Westlands Drive"
 url: /oxford/westlands-drive/
-shop: vacant
+shop: Leerstehend
 ---

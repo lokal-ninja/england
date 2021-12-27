@@ -1,5 +1,5 @@
 ---
 title: "Wolfpack"
 url: /london/wolfpack/
-shop: shop
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /nottingham/spar/
-shop: convenience
+shop: Lebensmittel
 ---

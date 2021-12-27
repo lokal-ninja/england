@@ -1,6 +1,6 @@
 ---
 title: Park Gate, Southampton
 url: /park-gate-southampton/
-latitude: 
-longitude: 
+latitude: 50.872
+longitude: -1.271
 ---

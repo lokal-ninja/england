@@ -1,5 +1,5 @@
 ---
 title: "Mill Street Hair"
 url: /wantage/mill-street-hair/
-shop: hairdresser
+shop: Friseur
 ---

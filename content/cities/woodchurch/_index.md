@@ -1,6 +1,6 @@
 ---
 title: Woodchurch
 url: /woodchurch/
-latitude: 53.3730752
-longitude: -3.0877787000000003
+latitude: 53.37
+longitude: -3.077
 ---

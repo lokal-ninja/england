@@ -1,5 +1,5 @@
 ---
 title: "Daylesford"
 url: /london/daylesford/
-shop: deli
+shop: Feinkost
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Barnardo's"
 url: /southampton/barnardos/
-shop: charity
+shop: Gebrauchtwaren
 ---

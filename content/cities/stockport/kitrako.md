@@ -1,5 +1,5 @@
 ---
 title: "Kitrako"
 url: /stockport/kitrako/
-shop: games
+shop: Spiele
 ---

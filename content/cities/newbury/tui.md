@@ -1,5 +1,5 @@
 ---
 title: "TUI"
 url: /newbury/tui/
-shop: travel agency
+shop: Reisebüro
 ---

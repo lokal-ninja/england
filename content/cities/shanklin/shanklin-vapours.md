@@ -1,5 +1,5 @@
 ---
 title: "Shanklin Vapours"
 url: /shanklin/shanklin-vapours/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

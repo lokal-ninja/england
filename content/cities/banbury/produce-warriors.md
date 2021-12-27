@@ -1,5 +1,5 @@
 ---
 title: "Produce Warriors"
 url: /banbury/produce-warriors/
-shop: wholesale
+shop: Großhandel
 ---

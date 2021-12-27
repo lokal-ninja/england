@@ -1,5 +1,5 @@
 ---
 title: "Aztecs"
 url: /waterlooville/aztecs/
-shop: hairdresser
+shop: Friseur
 ---

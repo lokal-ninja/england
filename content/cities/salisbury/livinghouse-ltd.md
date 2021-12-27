@@ -1,5 +1,5 @@
 ---
 title: "Livinghouse Ltd"
 url: /salisbury/livinghouse-ltd/
-shop: bathroom
+shop: Badezimmer
 ---

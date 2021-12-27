@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /poole/tesco-express/
-shop: convenience
+shop: Lebensmittel
 ---

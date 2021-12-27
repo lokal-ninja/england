@@ -1,6 +1,6 @@
 ---
 title: Gosport
 url: /gosport/
-latitude: 
-longitude: 
+latitude: 50.821
+longitude: -1.174
 ---

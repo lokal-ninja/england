@@ -1,5 +1,5 @@
 ---
 title: "Sandhu News"
 url: /birmingham/sandhu-news-2/
-shop: newsagent
+shop: Zeitungen
 ---

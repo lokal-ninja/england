@@ -1,5 +1,5 @@
 ---
 title: "Butterfly's Florist"
 url: /shipley/butterflys-florist/
-shop: florist
+shop: Blumen
 ---

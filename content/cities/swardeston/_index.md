@@ -1,6 +1,6 @@
 ---
 title: Swardeston
 url: /swardeston/
-latitude: 52.576536700000005
-longitude: 1.246165
+latitude: 52.575
+longitude: 1.247
 ---

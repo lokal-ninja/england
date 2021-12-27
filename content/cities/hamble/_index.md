@@ -1,6 +1,6 @@
 ---
 title: Hamble
 url: /hamble/
-latitude: 
-longitude: 
+latitude: 50.861
+longitude: -1.314
 ---

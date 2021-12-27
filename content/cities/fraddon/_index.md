@@ -1,6 +1,6 @@
 ---
 title: Fraddon
 url: /fraddon/
-latitude: 50.38733190000001
-longitude: -4.936987500000001
+latitude: 50.396
+longitude: -4.939
 ---

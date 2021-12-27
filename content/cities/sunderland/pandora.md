@@ -1,5 +1,5 @@
 ---
 title: "Pandora"
 url: /sunderland/pandora/
-shop: jewelry
+shop: Schmuck
 ---

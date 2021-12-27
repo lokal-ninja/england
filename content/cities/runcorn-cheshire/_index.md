@@ -1,6 +1,6 @@
 ---
 title: Runcorn , Cheshire
 url: /runcorn-cheshire/
-latitude: 
-longitude: 
+latitude: 53.339
+longitude: -2.733
 ---

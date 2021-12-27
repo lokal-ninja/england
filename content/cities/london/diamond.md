@@ -1,5 +1,5 @@
 ---
 title: "Diamond"
 url: /london/diamond/
-shop: laundry
+shop: Wäscherei
 ---

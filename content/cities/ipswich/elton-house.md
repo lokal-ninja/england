@@ -1,5 +1,5 @@
 ---
 title: "Elton House"
 url: /ipswich/elton-house/
-shop: newsagent
+shop: Zeitungen
 ---

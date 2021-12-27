@@ -1,5 +1,5 @@
 ---
 title: "Hughes Electrical"
 url: /swaffham/hughes-electrical/
-shop: electrical
+shop: Elektrisch
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Red Pepper"
 url: /gillingham/red-pepper/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ScS"
 url: /dartford/scs/
-shop: furniture
+shop: Möbel
 ---

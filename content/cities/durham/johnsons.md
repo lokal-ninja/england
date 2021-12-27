@@ -1,5 +1,5 @@
 ---
 title: "Johnsons"
 url: /durham/johnsons/
-shop: laundry
+shop: Wäscherei
 ---

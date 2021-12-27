@@ -1,5 +1,5 @@
 ---
 title: "Chillingham News"
 url: /newcastle-upon-tyne/chillingham-news/
-shop: alcohol
+shop: Spirituosen
 ---

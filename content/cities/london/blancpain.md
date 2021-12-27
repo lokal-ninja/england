@@ -1,5 +1,5 @@
 ---
 title: "Blancpain"
 url: /london/blancpain/
-shop: watches
+shop: Uhren
 ---

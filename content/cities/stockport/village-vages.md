@@ -1,5 +1,5 @@
 ---
 title: "Village Vages"
 url: /stockport/village-vages/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

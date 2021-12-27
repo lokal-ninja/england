@@ -1,6 +1,6 @@
 ---
 title: Binley Woods
 url: /binley-woods/
-latitude: 52.3931717
-longitude: -1.4215384
+latitude: 52.391
+longitude: -1.419
 ---

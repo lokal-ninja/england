@@ -1,5 +1,5 @@
 ---
 title: "Hairworks"
 url: /lincoln/hairworks/
-shop: hairdresser
+shop: Friseur
 ---

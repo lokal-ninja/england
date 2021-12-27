@@ -1,5 +1,5 @@
 ---
 title: "QVS"
 url: /london/qvs/
-shop: electronics
+shop: Elektronik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Casa"
 url: /topsham/casa/
-shop: furniture
+shop: Möbel
 ---

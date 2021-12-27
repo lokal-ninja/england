@@ -1,5 +1,5 @@
 ---
 title: "GNAW"
 url: /norwich/gnaw/
-shop: confectionery
+shop: Süßwaren
 ---

@@ -1,6 +1,6 @@
 ---
 title: Alcester
 url: /alcester/
-latitude: 52.215020200000005
-longitude: -1.8695764000000001
+latitude: 52.215
+longitude: -1.87
 ---

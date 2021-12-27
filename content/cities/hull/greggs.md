@@ -1,5 +1,5 @@
 ---
 title: "Greggs"
 url: /hull/greggs/
-shop: bakery
+shop: Bäckerei
 ---

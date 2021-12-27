@@ -1,6 +1,6 @@
 ---
 title: Sutton Coldfield
 url: /sutton-coldfield/
-latitude: 52.562308900000005
-longitude: -1.8239794
+latitude: 52.628
+longitude: -2.062
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Camden Cycles"
 url: /london/camden-cycles/
-shop: bicycle
+shop: Fahrrad
 ---

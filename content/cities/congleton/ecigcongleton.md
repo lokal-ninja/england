@@ -1,5 +1,5 @@
 ---
 title: "Ecigcongleton"
 url: /congleton/ecigcongleton/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

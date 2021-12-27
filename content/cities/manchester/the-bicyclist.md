@@ -1,5 +1,5 @@
 ---
 title: "The Bicyclist"
 url: /manchester/the-bicyclist/
-shop: bicycle
+shop: Fahrrad
 ---

@@ -1,6 +1,6 @@
 ---
 title: Stanningley
 url: /stanningley/
-latitude: 53.806126000000006
-longitude: -1.6631631
+latitude: 53.806
+longitude: -1.662
 ---

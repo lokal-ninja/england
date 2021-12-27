@@ -1,6 +1,6 @@
 ---
 title: Burntwood
 url: /burntwood/
-latitude: 52.6791667
-longitude: -1.9154621
+latitude: 52.682
+longitude: -1.918
 ---

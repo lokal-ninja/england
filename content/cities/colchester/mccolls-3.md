@@ -1,5 +1,5 @@
 ---
 title: "McColl's"
 url: /colchester/mccolls-3/
-shop: newsagent
+shop: Zeitungen
 ---

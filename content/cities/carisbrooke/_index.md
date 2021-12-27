@@ -1,6 +1,6 @@
 ---
 title: Carisbrooke
 url: /carisbrooke/
-latitude: 53.3518193
-longitude: -0.6696081
+latitude: 50.696
+longitude: -1.32
 ---

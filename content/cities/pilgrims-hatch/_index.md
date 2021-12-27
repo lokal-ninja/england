@@ -1,6 +1,6 @@
 ---
 title: Pilgrim's Hatch
 url: /pilgrims-hatch/
-latitude: 
-longitude: 
+latitude: 51.632
+longitude: 0.289
 ---

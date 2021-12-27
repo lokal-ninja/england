@@ -1,5 +1,5 @@
 ---
 title: "Azure Cramlington"
 url: /cramlington/azure-cramlington/
-shop: garden centre
+shop: Garten-Center
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Images"
 url: /blackpool/images/
-shop: hairdresser
+shop: Friseur
 ---

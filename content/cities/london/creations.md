@@ -1,5 +1,5 @@
 ---
 title: "Creations"
 url: /london/creations/
-shop: shop
+shop: Allgemein
 ---

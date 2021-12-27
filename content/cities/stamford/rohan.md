@@ -1,5 +1,5 @@
 ---
 title: "Rohan"
 url: /stamford/rohan/
-shop: outdoor
+shop: Outdoor
 ---

@@ -1,6 +1,6 @@
 ---
 title: Acle
 url: /acle/
-latitude: 52.6392358
-longitude: 1.5481293
+latitude: 52.636
+longitude: 1.547
 ---

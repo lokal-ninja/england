@@ -1,6 +1,6 @@
 ---
 title: Kingsworthy
 url: /kingsworthy/
-latitude: 
-longitude: 
+latitude: 51.103
+longitude: -1.302
 ---

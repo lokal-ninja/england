@@ -1,6 +1,6 @@
 ---
 title: Barrowford
 url: /barrowford/
-latitude: 53.8509322
-longitude: -2.2170285
+latitude: 53.854
+longitude: -2.215
 ---

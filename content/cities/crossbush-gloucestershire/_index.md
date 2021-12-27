@@ -1,6 +1,6 @@
 ---
 title: Crossbush, Gloucestershire
 url: /crossbush-gloucestershire/
-latitude: 
-longitude: 
+latitude: 50.845
+longitude: -0.541
 ---

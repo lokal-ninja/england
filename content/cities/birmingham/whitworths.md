@@ -1,5 +1,5 @@
 ---
 title: "Whitworths"
 url: /birmingham/whitworths/
-shop: frame
+shop: Rahmen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jewson"
 url: /addlestone/jewson/
-shop: trade
+shop: Baustoffe
 ---

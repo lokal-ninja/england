@@ -1,6 +1,6 @@
 ---
 title: Trawden
 url: /trawden/
-latitude: 53.843566700000004
-longitude: -2.1361004
+latitude: 53.847
+longitude: -2.135
 ---

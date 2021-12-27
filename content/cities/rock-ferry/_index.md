@@ -1,6 +1,6 @@
 ---
 title: Rock Ferry
 url: /rock-ferry/
-latitude: 53.370178200000005
-longitude: -3.0015983000000004
+latitude: 53.365
+longitude: -3.017
 ---

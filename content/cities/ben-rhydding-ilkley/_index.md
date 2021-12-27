@@ -1,6 +1,6 @@
 ---
 title: Ben Rhydding, Ilkley
 url: /ben-rhydding-ilkley/
-latitude: 
-longitude: 
+latitude: 53.925
+longitude: -1.797
 ---

@@ -1,6 +1,6 @@
 ---
 title: Seaton
 url: /seaton/
-latitude: 50.3665461
-longitude: -4.387675600000001
+latitude: 54.661
+longitude: -3.526
 ---

@@ -1,6 +1,6 @@
 ---
 title: Titchfield, Fareham
 url: /titchfield-fareham/
-latitude: 
-longitude: 
+latitude: 50.849
+longitude: -1.234
 ---

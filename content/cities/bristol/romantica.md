@@ -1,5 +1,5 @@
 ---
 title: "Romantica"
 url: /bristol/romantica/
-shop: gift
+shop: Andenken
 ---

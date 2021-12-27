@@ -1,5 +1,5 @@
 ---
 title: "Lemon"
 url: /york/lemon/
-shop: vacant
+shop: Leerstehend
 ---

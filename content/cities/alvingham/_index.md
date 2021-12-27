@@ -1,6 +1,6 @@
 ---
 title: Alvingham
 url: /alvingham/
-latitude: 53.401051300000006
-longitude: 0.048733000000000005
+latitude: 53.403
+longitude: 0.042
 ---

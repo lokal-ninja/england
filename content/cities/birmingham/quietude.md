@@ -1,5 +1,5 @@
 ---
 title: "Quietude"
 url: /birmingham/quietude/
-shop: gift
+shop: Andenken
 ---

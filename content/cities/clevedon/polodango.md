@@ -1,5 +1,5 @@
 ---
 title: "Polodango"
 url: /clevedon/polodango/
-shop: shop
+shop: Allgemein
 ---

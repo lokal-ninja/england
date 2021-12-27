@@ -1,5 +1,5 @@
 ---
 title: "Rachel"
 url: /hadleigh/rachel/
-shop: boutique
+shop: Modehaus
 ---

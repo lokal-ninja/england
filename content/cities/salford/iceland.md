@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /salford/iceland/
-shop: frozen food
+shop: Tiefkühl
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Co-op Daily"
 url: /coggeshall/co-op-daily/
-shop: supermarket
+shop: Supermarkt
 ---

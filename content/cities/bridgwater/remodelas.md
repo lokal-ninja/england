@@ -1,5 +1,5 @@
 ---
 title: "Remodelas"
 url: /bridgwater/remodelas/
-shop: jewelry
+shop: Schmuck
 ---

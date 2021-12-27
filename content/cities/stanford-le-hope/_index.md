@@ -1,6 +1,6 @@
 ---
 title: Stanford Le Hope
 url: /stanford-le-hope/
-latitude: 
-longitude: 
+latitude: 51.519
+longitude: 0.444
 ---

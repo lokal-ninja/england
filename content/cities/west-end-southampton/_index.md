@@ -1,6 +1,6 @@
 ---
 title: West End, Southampton
 url: /west-end-southampton/
-latitude: 
-longitude: 
+latitude: 50.947
+longitude: -1.31
 ---

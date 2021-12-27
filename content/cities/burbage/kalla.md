@@ -1,5 +1,5 @@
 ---
 title: "Kalla"
 url: /burbage/kalla/
-shop: beauty
+shop: Kosmetik
 ---

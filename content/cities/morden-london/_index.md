@@ -1,6 +1,6 @@
 ---
 title: Morden. London
 url: /morden-london/
-latitude: 
-longitude: 
+latitude: 51.403
+longitude: -0.193
 ---

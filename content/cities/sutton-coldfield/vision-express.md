@@ -1,5 +1,5 @@
 ---
 title: "Vision Express"
 url: /sutton-coldfield/vision-express/
-shop: optician
+shop: Optiker
 ---

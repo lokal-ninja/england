@@ -1,5 +1,5 @@
 ---
 title: "Copperfields"
 url: /rochester/copperfields/
-shop: antiques
+shop: Antiquitäten
 ---

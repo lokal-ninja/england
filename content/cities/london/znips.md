@@ -1,5 +1,5 @@
 ---
 title: "Znips"
 url: /london/znips/
-shop: hairdresser
+shop: Friseur
 ---

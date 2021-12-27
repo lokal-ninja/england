@@ -1,5 +1,5 @@
 ---
 title: "Carshalton Nails"
 url: /carshalton/carshalton-nails/
-shop: beauty
+shop: Kosmetik
 ---

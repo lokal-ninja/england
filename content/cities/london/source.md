@@ -1,5 +1,5 @@
 ---
 title: "Source"
 url: /london/source/
-shop: gift
+shop: Andenken
 ---

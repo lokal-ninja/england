@@ -1,5 +1,5 @@
 ---
 title: "Trev's Fishing Tackle"
 url: /morecambe/trevs-fishing-tackle/
-shop: fishing
+shop: Angeln
 ---

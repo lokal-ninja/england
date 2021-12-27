@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /sandown/ladbrokes/
-shop: bookmaker
+shop: Wettbüro
 ---

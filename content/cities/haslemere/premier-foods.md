@@ -1,5 +1,5 @@
 ---
 title: "Premier Foods"
 url: /haslemere/premier-foods/
-shop: convenience
+shop: Lebensmittel
 ---

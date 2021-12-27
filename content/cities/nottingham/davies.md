@@ -1,5 +1,5 @@
 ---
 title: "Davies"
 url: /nottingham/davies/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Johnsons"
 url: /skipton/johnsons/
-shop: laundry
+shop: Wäscherei
 ---

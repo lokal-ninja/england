@@ -1,6 +1,6 @@
 ---
 title: Weatherfield
 url: /weatherfield/
-latitude: 
-longitude: 
+latitude: 53.471
+longitude: -2.303
 ---

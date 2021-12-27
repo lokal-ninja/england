@@ -1,5 +1,5 @@
 ---
 title: "Timpson"
 url: /chelmsford/timpson/
-shop: locksmith
+shop: Schlüsseldienst
 ---

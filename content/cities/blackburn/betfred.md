@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /blackburn/betfred/
-shop: bookmaker
+shop: Wettbüro
 ---

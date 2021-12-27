@@ -1,5 +1,5 @@
 ---
 title: "Bench."
 url: /ellesmere-port/bench/
-shop: clothes
+shop: Kleidung
 ---

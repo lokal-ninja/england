@@ -1,5 +1,5 @@
 ---
 title: "Wine Corner"
 url: /london/wine-corner/
-shop: alcohol
+shop: Spirituosen
 ---

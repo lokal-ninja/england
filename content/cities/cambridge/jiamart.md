@@ -1,5 +1,5 @@
 ---
 title: "Jiamart"
 url: /cambridge/jiamart/
-shop: deli
+shop: Feinkost
 ---

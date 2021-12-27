@@ -1,6 +1,6 @@
 ---
 title: Long Sutton
 url: /long-sutton/
-latitude: 51.0255154
-longitude: -2.7585684
+latitude: 52.785
+longitude: 0.122
 ---

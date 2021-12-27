@@ -1,5 +1,5 @@
 ---
 title: "Bri-Margs"
 url: /maryport/bri-margs/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

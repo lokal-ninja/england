@@ -1,5 +1,5 @@
 ---
 title: "Hitchens"
 url: /sheffield/hitchens/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,6 +1,6 @@
 ---
 title: Whitehaven
 url: /whitehaven/
-latitude: 
-longitude: 
+latitude: 54.547
+longitude: -3.591
 ---

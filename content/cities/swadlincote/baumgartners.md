@@ -1,5 +1,5 @@
 ---
 title: "Baumgartners"
 url: /swadlincote/baumgartners/
-shop: jewelry
+shop: Schmuck
 ---

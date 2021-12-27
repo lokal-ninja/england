@@ -1,6 +1,6 @@
 ---
 title: Busby Stoop
 url: /busby-stoop/
-latitude: 
-longitude: 
+latitude: 54.221
+longitude: -1.416
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Quigleys"
 url: /hatfield/quigleys/
-shop: convenience
+shop: Lebensmittel
 ---

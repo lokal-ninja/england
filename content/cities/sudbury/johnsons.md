@@ -1,5 +1,5 @@
 ---
 title: "Johnsons"
 url: /sudbury/johnsons/
-shop: laundry
+shop: Wäscherei
 ---

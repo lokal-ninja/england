@@ -1,5 +1,5 @@
 ---
 title: "Quotidian"
 url: /hitchin/quotidian/
-shop: bakery
+shop: Bäckerei
 ---

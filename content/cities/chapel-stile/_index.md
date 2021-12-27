@@ -1,6 +1,6 @@
 ---
 title: Chapel Stile
 url: /chapel-stile/
-latitude: 54.4400391
-longitude: -3.048592
+latitude: 54.439
+longitude: -3.047
 ---

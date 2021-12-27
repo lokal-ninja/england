@@ -1,6 +1,6 @@
 ---
 title: Parkstone, Poole
 url: /parkstone-poole/
-latitude: 
-longitude: 
+latitude: 50.729
+longitude: -1.938
 ---

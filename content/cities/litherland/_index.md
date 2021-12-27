@@ -1,6 +1,6 @@
 ---
 title: Litherland
 url: /litherland/
-latitude: 53.4720901
-longitude: -2.9956850000000004
+latitude: 53.468
+longitude: -2.998
 ---

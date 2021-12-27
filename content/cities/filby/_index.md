@@ -1,6 +1,6 @@
 ---
 title: Filby
 url: /filby/
-latitude: 52.6634873
-longitude: 1.6525895000000002
+latitude: 52.663
+longitude: 1.643
 ---

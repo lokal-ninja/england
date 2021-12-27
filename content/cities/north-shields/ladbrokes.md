@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /north-shields/ladbrokes/
-shop: bookmaker
+shop: Wettbüro
 ---

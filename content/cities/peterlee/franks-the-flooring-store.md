@@ -1,5 +1,5 @@
 ---
 title: "Franks The Flooring Store"
 url: /peterlee/franks-the-flooring-store/
-shop: carpet
+shop: Teppiche
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Super Natural"
 url: /london/super-natural/
-shop: hairdresser
+shop: Friseur
 ---

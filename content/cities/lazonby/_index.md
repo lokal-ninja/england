@@ -1,6 +1,6 @@
 ---
 title: Lazonby
 url: /lazonby/
-latitude: 54.7490631
-longitude: -2.704606
+latitude: 54.751
+longitude: -2.702
 ---

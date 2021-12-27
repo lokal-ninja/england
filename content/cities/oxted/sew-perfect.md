@@ -1,5 +1,5 @@
 ---
 title: "Sew Perfect"
 url: /oxted/sew-perfect/
-shop: laundry
+shop: Wäscherei
 ---

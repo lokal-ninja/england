@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /parkgate/asda/
-shop: supermarket
+shop: Supermarkt
 ---

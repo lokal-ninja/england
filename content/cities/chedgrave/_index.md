@@ -1,6 +1,6 @@
 ---
 title: Chedgrave
 url: /chedgrave/
-latitude: 52.5413615
-longitude: 1.4811538000000002
+latitude: 52.54
+longitude: 1.481
 ---

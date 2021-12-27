@@ -1,5 +1,5 @@
 ---
 title: "Carpetright"
 url: /wakefield/carpetright/
-shop: carpet
+shop: Teppiche
 ---

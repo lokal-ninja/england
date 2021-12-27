@@ -1,5 +1,5 @@
 ---
 title: "Specsavers"
 url: /newbury/specsavers/
-shop: optician
+shop: Optiker
 ---

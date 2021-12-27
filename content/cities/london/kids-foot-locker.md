@@ -1,5 +1,5 @@
 ---
 title: "Kids Foot Locker"
 url: /london/kids-foot-locker/
-shop: shoes
+shop: Schuhe
 ---

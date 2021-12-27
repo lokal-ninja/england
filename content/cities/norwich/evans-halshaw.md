@@ -1,5 +1,5 @@
 ---
 title: "Evans Halshaw"
 url: /norwich/evans-halshaw/
-shop: car repair
+shop: Autowerkstatt
 ---

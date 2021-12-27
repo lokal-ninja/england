@@ -1,6 +1,6 @@
 ---
 title: Rainhill
 url: /rainhill/
-latitude: 53.4134383
-longitude: -2.7607850000000003
+latitude: 53.419
+longitude: -2.776
 ---

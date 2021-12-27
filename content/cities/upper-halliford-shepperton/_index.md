@@ -1,6 +1,6 @@
 ---
 title: Upper Halliford/Shepperton
 url: /upper-halliford-shepperton/
-latitude: 
-longitude: 
+latitude: 51.4
+longitude: -0.43
 ---

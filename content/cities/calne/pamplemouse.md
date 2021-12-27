@@ -1,5 +1,5 @@
 ---
 title: "Pamplemouse"
 url: /calne/pamplemouse/
-shop: hairdresser
+shop: Friseur
 ---

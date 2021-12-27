@@ -1,5 +1,5 @@
 ---
 title: "Willowgreen"
 url: /northwich/willowgreen/
-shop: furniture
+shop: Möbel
 ---

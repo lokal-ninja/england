@@ -1,6 +1,6 @@
 ---
 title: Battledown
 url: /battledown/
-latitude: 51.8957294
-longitude: -2.0484102
+latitude: 51.902
+longitude: -2.05
 ---

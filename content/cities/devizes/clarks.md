@@ -1,5 +1,5 @@
 ---
 title: "Clarks"
 url: /devizes/clarks/
-shop: shoes
+shop: Schuhe
 ---

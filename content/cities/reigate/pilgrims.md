@@ -1,5 +1,5 @@
 ---
 title: "Pilgrims"
 url: /reigate/pilgrims/
-shop: books
+shop: Bücher
 ---

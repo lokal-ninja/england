@@ -1,6 +1,6 @@
 ---
 title: Lydd
 url: /lydd/
-latitude: 50.950968
-longitude: 0.9065381
+latitude: 50.951
+longitude: 0.905
 ---

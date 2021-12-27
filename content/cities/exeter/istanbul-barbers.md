@@ -1,5 +1,5 @@
 ---
 title: "Istanbul Barbers"
 url: /exeter/istanbul-barbers/
-shop: hairdresser
+shop: Friseur
 ---

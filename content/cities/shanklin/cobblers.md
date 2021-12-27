@@ -1,5 +1,5 @@
 ---
 title: "Cobblers"
 url: /shanklin/cobblers/
-shop: shoes
+shop: Schuhe
 ---

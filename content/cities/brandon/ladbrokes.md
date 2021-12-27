@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /brandon/ladbrokes/
-shop: bookmaker
+shop: Wettbüro
 ---

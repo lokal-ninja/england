@@ -1,5 +1,5 @@
 ---
 title: "Lanudromatic"
 url: /london/lanudromatic/
-shop: laundry
+shop: Wäscherei
 ---

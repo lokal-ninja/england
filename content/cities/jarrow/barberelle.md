@@ -1,5 +1,5 @@
 ---
 title: "Barberelle"
 url: /jarrow/barberelle/
-shop: hairdresser
+shop: Friseur
 ---

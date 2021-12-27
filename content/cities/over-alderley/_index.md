@@ -1,6 +1,6 @@
 ---
 title: Over Alderley
 url: /over-alderley/
-latitude: 53.2874211
-longitude: -2.1985256
+latitude: 53.288
+longitude: -2.199
 ---

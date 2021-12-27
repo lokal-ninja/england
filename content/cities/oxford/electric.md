@@ -1,5 +1,5 @@
 ---
 title: "electric"
 url: /oxford/electric/
-shop: hairdresser
+shop: Friseur
 ---

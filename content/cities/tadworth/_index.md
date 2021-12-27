@@ -1,6 +1,6 @@
 ---
 title: Tadworth
 url: /tadworth/
-latitude: 
-longitude: 
+latitude: 51.253
+longitude: -0.28
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mr Kingswood"
 url: /tadworth/mr-kingswood/
-shop: hairdresser
+shop: Friseur
 ---

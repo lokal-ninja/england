@@ -1,5 +1,5 @@
 ---
 title: "Weavers"
 url: /croydon/weavers/
-shop: hairdresser
+shop: Friseur
 ---

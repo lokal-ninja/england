@@ -1,5 +1,5 @@
 ---
 title: "Super Save"
 url: /leeds/super-save/
-shop: convenience
+shop: Lebensmittel
 ---

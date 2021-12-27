@@ -1,6 +1,6 @@
 ---
 title: Eggington
 url: /eggington/
-latitude: 
-longitude: 
+latitude: 51.92
+longitude: -0.616
 ---

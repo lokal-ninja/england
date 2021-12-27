@@ -1,5 +1,5 @@
 ---
 title: "Grosnik"
 url: /leeds/grosnik/
-shop: convenience
+shop: Lebensmittel
 ---

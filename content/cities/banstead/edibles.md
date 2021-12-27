@@ -1,5 +1,5 @@
 ---
 title: "Edibles"
 url: /banstead/edibles/
-shop: deli
+shop: Feinkost
 ---

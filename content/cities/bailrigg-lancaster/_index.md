@@ -1,6 +1,6 @@
 ---
 title: Bailrigg, Lancaster
 url: /bailrigg-lancaster/
-latitude: 
-longitude: 
+latitude: 54.01
+longitude: -2.785
 ---

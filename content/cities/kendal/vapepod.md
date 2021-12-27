@@ -1,5 +1,5 @@
 ---
 title: "Vapepod"
 url: /kendal/vapepod/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

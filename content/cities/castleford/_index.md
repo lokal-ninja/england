@@ -1,6 +1,6 @@
 ---
 title: Castleford
 url: /castleford/
-latitude: 51.6482035
-longitude: -2.6738726
+latitude: 53.731
+longitude: -1.352
 ---

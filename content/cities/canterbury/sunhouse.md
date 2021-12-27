@@ -1,5 +1,5 @@
 ---
 title: "Sunhouse"
 url: /canterbury/sunhouse/
-shop: beauty
+shop: Kosmetik
 ---

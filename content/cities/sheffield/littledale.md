@@ -1,5 +1,5 @@
 ---
 title: "Littledale"
 url: /sheffield/littledale/
-shop: convenience
+shop: Lebensmittel
 ---

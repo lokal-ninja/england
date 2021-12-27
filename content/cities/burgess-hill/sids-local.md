@@ -1,5 +1,5 @@
 ---
 title: "Sids Local"
 url: /burgess-hill/sids-local/
-shop: convenience
+shop: Lebensmittel
 ---

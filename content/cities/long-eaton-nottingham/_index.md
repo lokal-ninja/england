@@ -1,6 +1,6 @@
 ---
 title: Long Eaton, Nottingham
 url: /long-eaton-nottingham/
-latitude: 
-longitude: 
+latitude: 52.899
+longitude: -1.272
 ---

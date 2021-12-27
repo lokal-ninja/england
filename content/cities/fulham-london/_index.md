@@ -1,6 +1,6 @@
 ---
 title: Fulham, London
 url: /fulham-london/
-latitude: 
-longitude: 
+latitude: 51.478
+longitude: -0.201
 ---

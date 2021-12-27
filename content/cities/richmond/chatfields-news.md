@@ -1,5 +1,5 @@
 ---
 title: "Chatfield’s News"
 url: /richmond/chatfields-news/
-shop: newsagent
+shop: Zeitungen
 ---

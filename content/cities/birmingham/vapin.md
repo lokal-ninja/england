@@ -1,5 +1,5 @@
 ---
 title: "Vapin'"
 url: /birmingham/vapin/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

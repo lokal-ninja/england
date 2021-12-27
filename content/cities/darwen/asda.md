@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /darwen/asda/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,6 +1,6 @@
 ---
 title: Weaverham, Northwich
 url: /weaverham-northwich/
-latitude: 
-longitude: 
+latitude: 53.262
+longitude: -2.578
 ---

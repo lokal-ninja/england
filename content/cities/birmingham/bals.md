@@ -1,5 +1,5 @@
 ---
 title: "Bal's"
 url: /birmingham/bals/
-shop: supermarket
+shop: Supermarkt
 ---

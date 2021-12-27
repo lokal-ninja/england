@@ -1,6 +1,6 @@
 ---
 title: Winchelsea
 url: /winchelsea/
-latitude: 50.924389600000005
-longitude: 0.7086362
+latitude: 50.924
+longitude: 0.71
 ---

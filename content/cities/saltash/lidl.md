@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /saltash/lidl/
-shop: supermarket
+shop: Supermarkt
 ---

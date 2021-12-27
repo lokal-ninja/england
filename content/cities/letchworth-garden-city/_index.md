@@ -1,6 +1,6 @@
 ---
 title: Letchworth Garden City
 url: /letchworth-garden-city/
-latitude: 
-longitude: 
+latitude: 51.964
+longitude: -0.221
 ---

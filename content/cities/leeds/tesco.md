@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /leeds/tesco/
-shop: convenience
+shop: Lebensmittel
 ---

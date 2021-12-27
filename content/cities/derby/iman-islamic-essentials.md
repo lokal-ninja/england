@@ -1,5 +1,5 @@
 ---
 title: "Iman Islamic Essentials"
 url: /derby/iman-islamic-essentials/
-shop: convenience
+shop: Lebensmittel
 ---

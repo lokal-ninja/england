@@ -1,6 +1,6 @@
 ---
 title: Warton
 url: /warton/
-latitude: 52.6297858
-longitude: -1.5826557
+latitude: 53.751
+longitude: -2.893
 ---

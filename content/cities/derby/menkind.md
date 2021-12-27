@@ -1,5 +1,5 @@
 ---
 title: "Menkind"
 url: /derby/menkind/
-shop: toys
+shop: Spielzeug
 ---

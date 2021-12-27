@@ -1,5 +1,5 @@
 ---
 title: "Maje Stores"
 url: /lancaster/maje-stores/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,6 +1,6 @@
 ---
 title: Jackfield
 url: /jackfield/
-latitude: 52.624043400000005
-longitude: -2.4660099
+latitude: 52.621
+longitude: -2.457
 ---

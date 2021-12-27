@@ -1,5 +1,5 @@
 ---
 title: "Jennifleurs"
 url: /colchester/jennifleurs/
-shop: florist
+shop: Blumen
 ---

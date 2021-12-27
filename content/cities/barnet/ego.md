@@ -1,5 +1,5 @@
 ---
 title: "Ego"
 url: /barnet/ego/
-shop: hairdresser
+shop: Friseur
 ---

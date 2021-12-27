@@ -1,5 +1,5 @@
 ---
 title: "Toytown"
 url: /leeds/toytown/
-shop: toys
+shop: Spielzeug
 ---

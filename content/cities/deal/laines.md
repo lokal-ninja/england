@@ -1,5 +1,5 @@
 ---
 title: "Laines"
 url: /deal/laines/
-shop: jewelry
+shop: Schmuck
 ---

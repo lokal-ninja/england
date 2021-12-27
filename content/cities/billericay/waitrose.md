@@ -1,5 +1,5 @@
 ---
 title: "Waitrose"
 url: /billericay/waitrose/
-shop: supermarket
+shop: Supermarkt
 ---

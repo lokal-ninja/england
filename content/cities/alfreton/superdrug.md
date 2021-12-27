@@ -1,5 +1,5 @@
 ---
 title: "Superdrug"
 url: /alfreton/superdrug/
-shop: chemist
+shop: Drogerie
 ---

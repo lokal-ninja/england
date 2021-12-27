@@ -1,5 +1,5 @@
 ---
 title: "Youssef's"
 url: /reigate/youssefs/
-shop: hairdresser
+shop: Friseur
 ---

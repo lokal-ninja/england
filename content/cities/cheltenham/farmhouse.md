@@ -1,5 +1,5 @@
 ---
 title: "FarmHouse"
 url: /cheltenham/farmhouse/
-shop: deli
+shop: Feinkost
 ---

@@ -1,6 +1,6 @@
 ---
 title: Greatworth
 url: /greatworth/
-latitude: 52.078900700000005
-longitude: -1.194201
+latitude: 52.078
+longitude: -1.197
 ---

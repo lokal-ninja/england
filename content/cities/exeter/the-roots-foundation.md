@@ -1,5 +1,5 @@
 ---
 title: "The Roots Foundation"
 url: /exeter/the-roots-foundation/
-shop: hairdresser
+shop: Friseur
 ---

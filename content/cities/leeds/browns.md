@@ -1,5 +1,5 @@
 ---
 title: "Browns"
 url: /leeds/browns/
-shop: jewelry
+shop: Schmuck
 ---

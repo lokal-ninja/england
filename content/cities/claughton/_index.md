@@ -1,6 +1,6 @@
 ---
 title: Claughton
 url: /claughton/
-latitude: 53.3904141
-longitude: -3.0460143000000004
+latitude: 54.092
+longitude: -2.67
 ---

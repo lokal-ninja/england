@@ -1,5 +1,5 @@
 ---
 title: "Domus"
 url: /ulverston/domus/
-shop: gift
+shop: Andenken
 ---

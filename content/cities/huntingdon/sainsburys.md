@@ -1,5 +1,5 @@
 ---
 title: "Sainsbury's"
 url: /huntingdon/sainsburys/
-shop: supermarket
+shop: Supermarkt
 ---

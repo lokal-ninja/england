@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /tilshead/londis/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Elegant Nails"
 url: /london/elegant-nails/
-shop: beauty
+shop: Kosmetik
 ---

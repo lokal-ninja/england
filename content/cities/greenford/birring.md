@@ -1,5 +1,5 @@
 ---
 title: "Birring"
 url: /greenford/birring/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rosebourne"
 url: /weyhill/rosebourne/
-shop: garden centre
+shop: Garten-Center
 ---

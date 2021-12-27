@@ -1,5 +1,5 @@
 ---
 title: "Kiwi"
 url: /coventry/kiwi/
-shop: hairdresser
+shop: Friseur
 ---

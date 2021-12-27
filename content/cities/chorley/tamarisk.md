@@ -1,5 +1,5 @@
 ---
 title: "TAMARISK"
 url: /chorley/tamarisk/
-shop: beauty
+shop: Kosmetik
 ---

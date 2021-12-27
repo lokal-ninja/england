@@ -1,6 +1,6 @@
 ---
 title: Freiston
 url: /freiston/
-latitude: 52.9756282
-longitude: 0.0484107
+latitude: 52.974
+longitude: 0.049
 ---

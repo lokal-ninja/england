@@ -1,5 +1,5 @@
 ---
 title: "Best-One"
 url: /bexhill-on-sea/best-one/
-shop: convenience
+shop: Lebensmittel
 ---

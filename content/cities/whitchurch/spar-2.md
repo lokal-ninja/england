@@ -1,5 +1,5 @@
 ---
 title: "SPAR"
 url: /whitchurch/spar-2/
-shop: convenience
+shop: Lebensmittel
 ---

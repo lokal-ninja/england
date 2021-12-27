@@ -1,6 +1,6 @@
 ---
 title: Cullumpton
 url: /cullumpton/
-latitude: 
-longitude: 
+latitude: 50.859
+longitude: -3.379
 ---

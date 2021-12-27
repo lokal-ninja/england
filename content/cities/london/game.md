@@ -1,5 +1,5 @@
 ---
 title: "Game"
 url: /london/game/
-shop: games
+shop: Spiele
 ---

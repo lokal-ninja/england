@@ -1,6 +1,6 @@
 ---
 title: Milton Keynes West
 url: /milton-keynes-west/
-latitude: 
-longitude: 
+latitude: 52.005
+longitude: -0.775
 ---

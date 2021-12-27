@@ -1,5 +1,5 @@
 ---
 title: "Below Stairs"
 url: /southport/below-stairs/
-shop: antiques
+shop: Antiquitäten
 ---

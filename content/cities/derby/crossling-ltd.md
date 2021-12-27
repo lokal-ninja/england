@@ -1,5 +1,5 @@
 ---
 title: "Crossling Ltd"
 url: /derby/crossling-ltd/
-shop: trade
+shop: Baustoffe
 ---

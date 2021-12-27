@@ -1,6 +1,6 @@
 ---
 title: Riseley
 url: /riseley/
-latitude: 51.3639664
-longitude: -0.9640350000000001
+latitude: 52.254
+longitude: -0.474
 ---

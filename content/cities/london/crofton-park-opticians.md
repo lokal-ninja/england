@@ -1,5 +1,5 @@
 ---
 title: "Crofton Park Opticians"
 url: /london/crofton-park-opticians/
-shop: optician
+shop: Optiker
 ---

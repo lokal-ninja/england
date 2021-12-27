@@ -1,5 +1,5 @@
 ---
 title: "Spaceslide"
 url: /farnham/spaceslide/
-shop: furniture
+shop: Möbel
 ---

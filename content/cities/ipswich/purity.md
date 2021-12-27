@@ -1,5 +1,5 @@
 ---
 title: "Purity"
 url: /ipswich/purity/
-shop: beauty
+shop: Kosmetik
 ---

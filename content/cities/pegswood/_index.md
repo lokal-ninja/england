@@ -1,6 +1,6 @@
 ---
 title: Pegswood
 url: /pegswood/
-latitude: 55.180810900000004
-longitude: -1.6465770000000002
+latitude: 55.181
+longitude: -1.645
 ---

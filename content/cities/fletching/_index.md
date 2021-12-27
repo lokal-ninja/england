@@ -1,6 +1,6 @@
 ---
 title: Fletching
 url: /fletching/
-latitude: 50.9927116
-longitude: 0.0337855
+latitude: 50.993
+longitude: 0.034
 ---

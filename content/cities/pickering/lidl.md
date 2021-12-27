@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /pickering/lidl/
-shop: supermarket
+shop: Supermarkt
 ---

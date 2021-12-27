@@ -1,6 +1,6 @@
 ---
 title: Garston
 url: /garston/
-latitude: 51.68578960000001
-longitude: -0.3956985
+latitude: 53.356
+longitude: -2.904
 ---

@@ -1,6 +1,6 @@
 ---
 title: ۲
 url: /2/
-latitude: 
-longitude: 
+latitude: 51.499
+longitude: -0.134
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Peter Casey Jewellery Boutique"
 url: /wantage/peter-casey-jewellery-boutique/
-shop: shop
+shop: Allgemein
 ---

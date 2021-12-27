@@ -1,5 +1,5 @@
 ---
 title: "Next"
 url: /hull/next/
-shop: clothes
+shop: Kleidung
 ---

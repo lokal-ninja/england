@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /oxford/savers/
-shop: shop
+shop: Allgemein
 ---

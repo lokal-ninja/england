@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /cullompton/costcutter/
-shop: supermarket
+shop: Supermarkt
 ---

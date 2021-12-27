@@ -1,6 +1,6 @@
 ---
 title: Chipstead
 url: /chipstead/
-latitude: 51.283835
-longitude: 0.1507705
+latitude: 51.31
+longitude: -0.171
 ---

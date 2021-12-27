@@ -1,5 +1,5 @@
 ---
 title: "Mango"
 url: /bristol/mango/
-shop: clothes
+shop: Kleidung
 ---

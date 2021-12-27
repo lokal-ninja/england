@@ -1,5 +1,5 @@
 ---
 title: "Sugarsole"
 url: /northampton/sugarsole/
-shop: clothes
+shop: Kleidung
 ---

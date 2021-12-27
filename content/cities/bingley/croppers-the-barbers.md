@@ -1,5 +1,5 @@
 ---
 title: "Croppers the Barbers"
 url: /bingley/croppers-the-barbers/
-shop: hairdresser
+shop: Friseur
 ---

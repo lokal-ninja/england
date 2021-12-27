@@ -1,5 +1,5 @@
 ---
 title: "Paloma"
 url: /rochester/paloma/
-shop: shop
+shop: Allgemein
 ---

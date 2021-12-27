@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /winchester/whsmith/
-shop: newsagent
+shop: Zeitungen
 ---

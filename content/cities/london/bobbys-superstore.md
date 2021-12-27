@@ -1,5 +1,5 @@
 ---
 title: "Bobby's Superstore"
 url: /london/bobbys-superstore/
-shop: convenience
+shop: Lebensmittel
 ---

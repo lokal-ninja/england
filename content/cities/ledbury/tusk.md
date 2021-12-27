@@ -1,5 +1,5 @@
 ---
 title: "Tusk"
 url: /ledbury/tusk/
-shop: jewelry
+shop: Schmuck
 ---

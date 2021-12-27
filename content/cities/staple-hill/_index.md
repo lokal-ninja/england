@@ -1,6 +1,6 @@
 ---
 title: Staple Hill
 url: /staple-hill/
-latitude: 51.481279
-longitude: -2.5087752
+latitude: 51.481
+longitude: -2.504
 ---

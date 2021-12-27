@@ -1,6 +1,6 @@
 ---
 title: Densole
 url: /densole/
-latitude: 51.1302645
-longitude: 1.1592638000000002
+latitude: 51.132
+longitude: 1.159
 ---

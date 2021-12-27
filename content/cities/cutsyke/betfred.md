@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /cutsyke/betfred/
-shop: bookmaker
+shop: Wettbüro
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Morrisons"
 url: /elland/morrisons/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /hitchin/tesco-express/
-shop: supermarket
+shop: Supermarkt
 ---

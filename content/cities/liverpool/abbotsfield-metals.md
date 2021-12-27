@@ -1,5 +1,5 @@
 ---
 title: "Abbotsfield Metals"
 url: /liverpool/abbotsfield-metals/
-shop: trade
+shop: Baustoffe
 ---

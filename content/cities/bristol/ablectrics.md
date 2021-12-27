@@ -1,5 +1,5 @@
 ---
 title: "Ablectrics"
 url: /bristol/ablectrics/
-shop: electrical
+shop: Elektrisch
 ---

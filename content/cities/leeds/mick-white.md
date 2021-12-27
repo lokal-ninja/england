@@ -1,5 +1,5 @@
 ---
 title: "Mick White"
 url: /leeds/mick-white/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

@@ -1,6 +1,6 @@
 ---
 title: Manchester
 url: /manchester/
-latitude: 
-longitude: 
+latitude: 53.435
+longitude: -2.274
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /hatfield/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

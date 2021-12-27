@@ -1,5 +1,5 @@
 ---
 title: "Nottingham Autogroup Ltd."
 url: /nottingham/nottingham-autogroup-ltd/
-shop: car
+shop: Autohaus
 ---

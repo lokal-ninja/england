@@ -1,5 +1,5 @@
 ---
 title: "Mleczko"
 url: /london/mleczko/
-shop: convenience
+shop: Lebensmittel
 ---

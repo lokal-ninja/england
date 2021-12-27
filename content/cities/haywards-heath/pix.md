@@ -1,5 +1,5 @@
 ---
 title: "Pix"
 url: /haywards-heath/pix/
-shop: art
+shop: Kunst
 ---

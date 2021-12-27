@@ -1,5 +1,5 @@
 ---
 title: "Heath Designs"
 url: /burgess-hill/heath-designs/
-shop: kitchen
+shop: Küchen
 ---

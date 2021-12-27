@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /chelmsford/coral/
-shop: bookmaker
+shop: Wettbüro
 ---

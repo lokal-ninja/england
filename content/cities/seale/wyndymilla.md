@@ -1,5 +1,5 @@
 ---
 title: "WyndyMilla"
 url: /seale/wyndymilla/
-shop: bicycle
+shop: Fahrrad
 ---

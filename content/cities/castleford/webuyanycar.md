@@ -1,5 +1,5 @@
 ---
 title: "WeBuyAnyCar"
 url: /castleford/webuyanycar/
-shop: car
+shop: Autohaus
 ---

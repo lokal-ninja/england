@@ -1,5 +1,5 @@
 ---
 title: "Maxi"
 url: /birmingham/maxi/
-shop: laundry
+shop: Wäscherei
 ---

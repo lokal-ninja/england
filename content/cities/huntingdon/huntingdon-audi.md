@@ -1,5 +1,5 @@
 ---
 title: "Huntingdon Audi"
 url: /huntingdon/huntingdon-audi/
-shop: car
+shop: Autohaus
 ---

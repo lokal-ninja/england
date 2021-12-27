@@ -1,5 +1,5 @@
 ---
 title: "Bootys"
 url: /shanklin/bootys/
-shop: beauty
+shop: Kosmetik
 ---

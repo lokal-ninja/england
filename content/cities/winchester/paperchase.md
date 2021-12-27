@@ -1,5 +1,5 @@
 ---
 title: "Paperchase"
 url: /winchester/paperchase/
-shop: office supplies
+shop: Schreibwaren
 ---

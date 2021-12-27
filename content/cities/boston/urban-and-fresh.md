@@ -1,5 +1,5 @@
 ---
 title: "Urban and Fresh"
 url: /boston/urban-and-fresh/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Noble E-Remittance"
 url: /london/noble-e-remittance/
-shop: shop
+shop: Allgemein
 ---

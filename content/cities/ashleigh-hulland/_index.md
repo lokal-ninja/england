@@ -1,6 +1,6 @@
 ---
 title: Ashleigh Hulland
 url: /ashleigh-hulland/
-latitude: 
-longitude: 
+latitude: 53.026
+longitude: -1.63
 ---

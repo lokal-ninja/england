@@ -1,5 +1,5 @@
 ---
 title: "Heron"
 url: /bishop-auckland/heron/
-shop: supermarket
+shop: Supermarkt
 ---

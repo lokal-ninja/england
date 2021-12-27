@@ -1,5 +1,5 @@
 ---
 title: "Longfield"
 url: /stroud/longfield/
-shop: charity
+shop: Gebrauchtwaren
 ---

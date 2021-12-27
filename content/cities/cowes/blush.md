@@ -1,5 +1,5 @@
 ---
 title: "Blush"
 url: /cowes/blush/
-shop: boutique
+shop: Modehaus
 ---

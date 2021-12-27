@@ -1,6 +1,6 @@
 ---
 title: Oldhurst
 url: /oldhurst/
-latitude: 
-longitude: 
+latitude: 52.378
+longitude: -0.091
 ---

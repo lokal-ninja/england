@@ -1,5 +1,5 @@
 ---
 title: "Gerry Summers"
 url: /barnes-london/gerry-summers/
-shop: jewelry
+shop: Schmuck
 ---

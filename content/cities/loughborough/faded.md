@@ -1,5 +1,5 @@
 ---
 title: "Faded"
 url: /loughborough/faded/
-shop: hairdresser
+shop: Friseur
 ---

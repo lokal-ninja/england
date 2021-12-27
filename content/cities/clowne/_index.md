@@ -1,6 +1,6 @@
 ---
 title: Clowne
 url: /clowne/
-latitude: 53.276098000000005
-longitude: -1.2623326000000001
+latitude: 53.276
+longitude: -1.264
 ---

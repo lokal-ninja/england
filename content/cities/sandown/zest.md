@@ -1,5 +1,5 @@
 ---
 title: "Zest"
 url: /sandown/zest/
-shop: gift
+shop: Andenken
 ---

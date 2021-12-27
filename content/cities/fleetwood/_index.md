@@ -1,6 +1,6 @@
 ---
 title: Fleetwood
 url: /fleetwood/
-latitude: 53.9246318
-longitude: -3.0076372
+latitude: 53.923
+longitude: -3.015
 ---

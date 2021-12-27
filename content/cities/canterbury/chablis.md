@@ -1,5 +1,5 @@
 ---
 title: "Chablis"
 url: /canterbury/chablis/
-shop: hairdresser
+shop: Friseur
 ---

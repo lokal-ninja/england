@@ -1,5 +1,5 @@
 ---
 title: "Superdrug"
 url: /feltham/superdrug/
-shop: chemist
+shop: Drogerie
 ---

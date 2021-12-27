@@ -1,5 +1,5 @@
 ---
 title: "Oddfellows"
 url: /shenstone/oddfellows/
-shop: hairdresser
+shop: Friseur
 ---

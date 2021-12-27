@@ -1,5 +1,5 @@
 ---
 title: "Mccolls"
 url: /coningsby/mccolls/
-shop: newsagent
+shop: Zeitungen
 ---

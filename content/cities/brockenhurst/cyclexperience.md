@@ -1,5 +1,5 @@
 ---
 title: "Cyclexperience"
 url: /brockenhurst/cyclexperience/
-shop: bicycle
+shop: Fahrrad
 ---

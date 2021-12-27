@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
 url: /york/wilko/
-shop: houseware
+shop: Haushaltsartikel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Boots"
 url: /southsea/boots/
-shop: chemist
+shop: Drogerie
 ---

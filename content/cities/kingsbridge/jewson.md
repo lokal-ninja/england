@@ -1,5 +1,5 @@
 ---
 title: "Jewson"
 url: /kingsbridge/jewson/
-shop: doityourself
+shop: Baumarkt
 ---

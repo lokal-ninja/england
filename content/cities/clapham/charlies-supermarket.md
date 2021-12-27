@@ -1,5 +1,5 @@
 ---
 title: "Charlie's Supermarket"
 url: /clapham/charlies-supermarket/
-shop: convenience
+shop: Lebensmittel
 ---

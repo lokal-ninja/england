@@ -1,5 +1,5 @@
 ---
 title: "Superdry"
 url: /canterbury/superdry/
-shop: clothes
+shop: Kleidung
 ---

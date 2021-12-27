@@ -1,5 +1,5 @@
 ---
 title: "Hurst"
 url: /newport/hurst/
-shop: doityourself
+shop: Baumarkt
 ---

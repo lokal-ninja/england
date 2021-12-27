@@ -1,6 +1,6 @@
 ---
 title: Thurmaston
 url: /thurmaston/
-latitude: 52.6789318
-longitude: -1.0971664
+latitude: 52.685
+longitude: -1.089
 ---

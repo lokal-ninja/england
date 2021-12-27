@@ -1,6 +1,6 @@
 ---
 title: Wix
 url: /wix/
-latitude: 51.9117856
-longitude: 1.1451351
+latitude: 51.912
+longitude: 1.141
 ---

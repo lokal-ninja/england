@@ -1,6 +1,6 @@
 ---
 title: Ellesmere
 url: /ellesmere/
-latitude: 52.907423400000006
-longitude: -2.8938664000000003
+latitude: 52.907
+longitude: -2.893
 ---

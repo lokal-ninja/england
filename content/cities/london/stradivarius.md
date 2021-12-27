@@ -1,5 +1,5 @@
 ---
 title: "Stradivarius"
 url: /london/stradivarius/
-shop: clothes
+shop: Kleidung
 ---

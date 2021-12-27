@@ -1,5 +1,5 @@
 ---
 title: "Mac"
 url: /birmingham/mac/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "zest"
 url: /shrewsbury/zest/
-shop: hairdresser
+shop: Friseur
 ---

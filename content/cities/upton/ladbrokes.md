@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /upton/ladbrokes/
-shop: bookmaker
+shop: Wettbüro
 ---

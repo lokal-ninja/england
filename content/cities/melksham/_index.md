@@ -1,6 +1,6 @@
 ---
 title: Melksham
 url: /melksham/
-latitude: 51.3725919
-longitude: -2.13743
+latitude: 51.372
+longitude: -2.115
 ---

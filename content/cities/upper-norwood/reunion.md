@@ -1,5 +1,5 @@
 ---
 title: "Reunion"
 url: /upper-norwood/reunion/
-shop: vacant
+shop: Leerstehend
 ---

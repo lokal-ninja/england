@@ -1,6 +1,6 @@
 ---
 title: Prestwich
 url: /prestwich/
-latitude: 53.5304274
-longitude: -2.2960186
+latitude: 53.531
+longitude: -2.283
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Booths"
 url: /milnthorpe/booths/
-shop: supermarket
+shop: Supermarkt
 ---

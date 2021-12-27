@@ -1,5 +1,5 @@
 ---
 title: "RSPCA"
 url: /nottingham/rspca/
-shop: charity
+shop: Gebrauchtwaren
 ---

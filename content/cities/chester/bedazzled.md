@@ -1,5 +1,5 @@
 ---
 title: "Bedazzled"
 url: /chester/bedazzled/
-shop: party
+shop: Partyzubehör
 ---

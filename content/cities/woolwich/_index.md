@@ -1,6 +1,6 @@
 ---
 title: Woolwich
 url: /woolwich/
-latitude: 51.4826696
-longitude: 0.06233350000000001
+latitude: 51.492
+longitude: 0.071
 ---

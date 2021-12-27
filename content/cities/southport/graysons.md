@@ -1,5 +1,5 @@
 ---
 title: "Graysons"
 url: /southport/graysons/
-shop: bakery
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mahal News"
 url: /derby/mahal-news/
-shop: convenience
+shop: Lebensmittel
 ---

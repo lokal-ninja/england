@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /felixstowe/spar/
-shop: convenience
+shop: Lebensmittel
 ---

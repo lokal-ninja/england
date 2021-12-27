@@ -1,6 +1,6 @@
 ---
 title: Bishopthorpe
 url: /bishopthorpe/
-latitude: 53.5141793
-longitude: -0.0112914
+latitude: 53.922
+longitude: -1.095
 ---

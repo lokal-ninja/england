@@ -1,5 +1,5 @@
 ---
 title: "Sophocles"
 url: /london/sophocles/
-shop: bakery
+shop: Bäckerei
 ---

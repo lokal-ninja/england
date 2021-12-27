@@ -1,6 +1,6 @@
 ---
 title: New Hartley
 url: /new-hartley/
-latitude: 55.0851241
-longitude: -1.5200691000000002
+latitude: 55.084
+longitude: -1.518
 ---

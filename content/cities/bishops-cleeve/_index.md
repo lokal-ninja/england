@@ -1,6 +1,6 @@
 ---
 title: Bishops Cleeve
 url: /bishops-cleeve/
-latitude: 
-longitude: 
+latitude: 51.945
+longitude: -2.06
 ---

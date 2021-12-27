@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /diss/tesco/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "BSK"
 url: /kendal/bsk/
-shop: doityourself
+shop: Baumarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ScS"
 url: /stevenage/scs/
-shop: furniture
+shop: Möbel
 ---

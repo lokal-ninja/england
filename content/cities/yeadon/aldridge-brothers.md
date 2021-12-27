@@ -1,5 +1,5 @@
 ---
 title: "Aldridge Brothers"
 url: /yeadon/aldridge-brothers/
-shop: car repair
+shop: Autowerkstatt
 ---

@@ -1,6 +1,6 @@
 ---
 title: Horley
 url: /horley/
-latitude: 51.17168950000001
-longitude: -0.1640754
+latitude: 51.178
+longitude: -0.168
 ---

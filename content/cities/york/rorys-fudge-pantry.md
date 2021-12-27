@@ -1,5 +1,5 @@
 ---
 title: "Rory's Fudge Pantry"
 url: /york/rorys-fudge-pantry/
-shop: confectionery
+shop: Süßwaren
 ---

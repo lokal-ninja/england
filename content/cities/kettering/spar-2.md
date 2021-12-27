@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /kettering/spar-2/
-shop: convenience
+shop: Lebensmittel
 ---

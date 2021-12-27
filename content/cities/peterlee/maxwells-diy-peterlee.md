@@ -1,5 +1,5 @@
 ---
 title: "Maxwells DIY Peterlee"
 url: /peterlee/maxwells-diy-peterlee/
-shop: doityourself
+shop: Baumarkt
 ---

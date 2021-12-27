@@ -1,5 +1,5 @@
 ---
 title: "The Silver Thimble"
 url: /kendal/the-silver-thimble/
-shop: antiques
+shop: Antiquitäten
 ---

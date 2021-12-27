@@ -1,6 +1,6 @@
 ---
 title: Caton
 url: /caton/
-latitude: 50.5339408
-longitude: -3.7208875000000003
+latitude: 54.076
+longitude: -2.718
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kubus-Timisoreana"
 url: /bedford/kubus-timisoreana/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Radley"
 url: /cheltenham/radley/
-shop: bag
+shop: Taschen & Koffer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Understory"
 url: /brighton/understory/
-shop: garden centre
+shop: Garten-Center
 ---

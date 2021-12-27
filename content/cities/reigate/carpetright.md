@@ -1,5 +1,5 @@
 ---
 title: "Carpetright"
 url: /reigate/carpetright/
-shop: carpet
+shop: Teppiche
 ---

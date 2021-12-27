@@ -1,5 +1,5 @@
 ---
 title: "Sally"
 url: /southampton/sally/
-shop: beauty
+shop: Kosmetik
 ---

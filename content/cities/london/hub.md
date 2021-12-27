@@ -1,5 +1,5 @@
 ---
 title: "Hub"
 url: /london/hub/
-shop: clothes
+shop: Kleidung
 ---

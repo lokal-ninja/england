@@ -1,5 +1,5 @@
 ---
 title: "Sweet"
 url: /newmarket/sweet/
-shop: newsagent
+shop: Zeitungen
 ---

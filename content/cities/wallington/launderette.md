@@ -1,5 +1,5 @@
 ---
 title: "Launderette"
 url: /wallington/launderette/
-shop: shop
+shop: Allgemein
 ---

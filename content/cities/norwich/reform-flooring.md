@@ -1,5 +1,5 @@
 ---
 title: "Reform Flooring"
 url: /norwich/reform-flooring/
-shop: flooring
+shop: Fußböden
 ---

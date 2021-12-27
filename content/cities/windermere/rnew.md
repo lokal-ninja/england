@@ -1,5 +1,5 @@
 ---
 title: "RNEW"
 url: /windermere/rnew/
-shop: trade
+shop: Baustoffe
 ---

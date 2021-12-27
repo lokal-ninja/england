@@ -1,5 +1,5 @@
 ---
 title: "Drayton"
 url: /reading/drayton/
-shop: copyshop
+shop: Kopieren
 ---

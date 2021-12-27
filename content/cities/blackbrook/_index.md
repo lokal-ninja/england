@@ -1,6 +1,6 @@
 ---
 title: Blackbrook
 url: /blackbrook/
-latitude: 51.20771190000001
-longitude: -0.31160010000000005
+latitude: 52.946
+longitude: -2.334
 ---

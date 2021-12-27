@@ -1,5 +1,5 @@
 ---
 title: "PDSA"
 url: /peterlee/pdsa/
-shop: charity
+shop: Gebrauchtwaren
 ---

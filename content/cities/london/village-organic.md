@@ -1,5 +1,5 @@
 ---
 title: "Village Organic"
 url: /london/village-organic/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

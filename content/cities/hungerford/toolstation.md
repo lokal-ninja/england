@@ -1,5 +1,5 @@
 ---
 title: "Toolstation"
 url: /hungerford/toolstation/
-shop: doityourself
+shop: Baumarkt
 ---

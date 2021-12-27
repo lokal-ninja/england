@@ -1,5 +1,5 @@
 ---
 title: "TagHeuer"
 url: /london/tagheuer/
-shop: watches
+shop: Uhren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Traditional Taste Delishop"
 url: /staple-hill/traditional-taste-delishop/
-shop: deli
+shop: Feinkost
 ---

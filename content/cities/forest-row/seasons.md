@@ -1,5 +1,5 @@
 ---
 title: "Seasons"
 url: /forest-row/seasons/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

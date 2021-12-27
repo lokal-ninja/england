@@ -1,5 +1,5 @@
 ---
 title: "Go Outdoors"
 url: /norwich/go-outdoors/
-shop: outdoor
+shop: Outdoor
 ---

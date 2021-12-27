@@ -1,5 +1,5 @@
 ---
 title: "Purbrook Tyres"
 url: /waterlooville/purbrook-tyres/
-shop: tyres
+shop: Reifen
 ---

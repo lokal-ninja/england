@@ -1,5 +1,5 @@
 ---
 title: "Dooleys"
 url: /easingwold/dooleys/
-shop: convenience
+shop: Lebensmittel
 ---

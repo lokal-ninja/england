@@ -1,5 +1,5 @@
 ---
 title: "Xanadu"
 url: /camborne/xanadu/
-shop: perfumery
+shop: Parfümerie
 ---

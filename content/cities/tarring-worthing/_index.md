@@ -1,6 +1,6 @@
 ---
 title: Tarring, Worthing
 url: /tarring-worthing/
-latitude: 
-longitude: 
+latitude: 50.825
+longitude: -0.394
 ---

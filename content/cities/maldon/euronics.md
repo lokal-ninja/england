@@ -1,5 +1,5 @@
 ---
 title: "Euronics"
 url: /maldon/euronics/
-shop: electronics
+shop: Elektronik
 ---

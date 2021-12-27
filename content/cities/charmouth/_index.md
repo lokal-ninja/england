@@ -1,6 +1,6 @@
 ---
 title: Charmouth
 url: /charmouth/
-latitude: 50.738246000000004
-longitude: -2.9015906
+latitude: 50.739
+longitude: -2.902
 ---

@@ -1,6 +1,6 @@
 ---
 title: Swanbourne
 url: /swanbourne/
-latitude: 51.938451
-longitude: -0.8382145000000001
+latitude: 51.939
+longitude: -0.837
 ---

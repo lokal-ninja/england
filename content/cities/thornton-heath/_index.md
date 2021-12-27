@@ -1,6 +1,6 @@
 ---
 title: Thornton Heath
 url: /thornton-heath/
-latitude: 
-longitude: 
+latitude: 51.408
+longitude: -0.094
 ---

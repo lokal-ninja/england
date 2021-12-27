@@ -1,5 +1,5 @@
 ---
 title: "Karim"
 url: /new-eltham/karim/
-shop: clothes
+shop: Kleidung
 ---

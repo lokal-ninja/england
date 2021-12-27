@@ -1,5 +1,5 @@
 ---
 title: "Chatham Newsagent"
 url: /chatham/chatham-newsagent/
-shop: convenience
+shop: Lebensmittel
 ---

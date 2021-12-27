@@ -1,5 +1,5 @@
 ---
 title: "The Range"
 url: /loughborough/the-range/
-shop: houseware
+shop: Haushaltsartikel
 ---

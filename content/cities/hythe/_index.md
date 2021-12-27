@@ -1,6 +1,6 @@
 ---
 title: Hythe
 url: /hythe/
-latitude: 51.267605700000004
-longitude: -2.7928876000000002
+latitude: 51.07
+longitude: 1.07
 ---

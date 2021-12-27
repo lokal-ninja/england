@@ -1,5 +1,5 @@
 ---
 title: "Beckenham Off Licence"
 url: /beckenham/beckenham-off-licence/
-shop: alcohol
+shop: Spirituosen
 ---

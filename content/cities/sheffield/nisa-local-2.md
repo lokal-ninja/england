@@ -1,5 +1,5 @@
 ---
 title: "Nisa Local"
 url: /sheffield/nisa-local-2/
-shop: convenience
+shop: Lebensmittel
 ---

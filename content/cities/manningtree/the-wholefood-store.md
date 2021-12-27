@@ -1,5 +1,5 @@
 ---
 title: "The Wholefood Store"
 url: /manningtree/the-wholefood-store/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bellissima"
 url: /ryde/bellissima/
-shop: clothes
+shop: Kleidung
 ---

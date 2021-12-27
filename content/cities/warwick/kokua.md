@@ -1,5 +1,5 @@
 ---
 title: "Kokua"
 url: /warwick/kokua/
-shop: clothes
+shop: Kleidung
 ---

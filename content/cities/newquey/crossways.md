@@ -1,5 +1,5 @@
 ---
 title: "Crossways"
 url: /newquey/crossways/
-shop: convenience
+shop: Lebensmittel
 ---

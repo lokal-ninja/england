@@ -1,5 +1,5 @@
 ---
 title: "The Hyde Bakers"
 url: /stevenage/the-hyde-bakers/
-shop: bakery
+shop: Bäckerei
 ---

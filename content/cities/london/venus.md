@@ -1,5 +1,5 @@
 ---
 title: "Venus"
 url: /london/venus/
-shop: convenience
+shop: Lebensmittel
 ---

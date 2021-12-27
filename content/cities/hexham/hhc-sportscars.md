@@ -1,5 +1,5 @@
 ---
 title: "HHC Sportscars"
 url: /hexham/hhc-sportscars/
-shop: car
+shop: Autohaus
 ---

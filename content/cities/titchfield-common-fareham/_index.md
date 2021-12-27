@@ -1,6 +1,6 @@
 ---
 title: Titchfield Common, Fareham
 url: /titchfield-common-fareham/
-latitude: 
-longitude: 
+latitude: 50.861
+longitude: -1.26
 ---

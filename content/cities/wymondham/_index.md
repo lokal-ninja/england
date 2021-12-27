@@ -1,6 +1,6 @@
 ---
 title: Wymondham
 url: /wymondham/
-latitude: 52.759559700000004
-longitude: -0.7383792
+latitude: 52.575
+longitude: 1.137
 ---

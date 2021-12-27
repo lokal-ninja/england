@@ -1,6 +1,6 @@
 ---
 title: Yiewsley
 url: /yiewsley/
-latitude: 51.512866100000004
-longitude: -0.4741522
+latitude: 51.513
+longitude: -0.471
 ---

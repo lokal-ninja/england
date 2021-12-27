@@ -1,6 +1,6 @@
 ---
 title: Rocklands
 url: /rocklands/
-latitude: 
-longitude: 
+latitude: 52.537
+longitude: 0.918
 ---

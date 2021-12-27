@@ -1,5 +1,5 @@
 ---
 title: "Mind"
 url: /bristol/mind/
-shop: charity
+shop: Gebrauchtwaren
 ---

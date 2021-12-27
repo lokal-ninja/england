@@ -1,6 +1,6 @@
 ---
 title: North Tawton
 url: /north-tawton/
-latitude: 50.799633
-longitude: -3.8955251000000004
+latitude: 50.799
+longitude: -3.897
 ---

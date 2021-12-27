@@ -1,6 +1,6 @@
 ---
 title: Dartmouth
 url: /dartmouth/
-latitude: 50.351483900000005
-longitude: -3.583844
+latitude: 50.352
+longitude: -3.579
 ---

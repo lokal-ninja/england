@@ -1,5 +1,5 @@
 ---
 title: "Exmouth Cycles"
 url: /exmouth/exmouth-cycles/
-shop: bicycle
+shop: Fahrrad
 ---

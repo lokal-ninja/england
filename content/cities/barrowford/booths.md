@@ -1,5 +1,5 @@
 ---
 title: "Booths"
 url: /barrowford/booths/
-shop: supermarket
+shop: Supermarkt
 ---

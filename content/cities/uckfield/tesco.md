@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /uckfield/tesco/
-shop: supermarket
+shop: Supermarkt
 ---

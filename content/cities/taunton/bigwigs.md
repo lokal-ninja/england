@@ -1,5 +1,5 @@
 ---
 title: "Bigwigs"
 url: /taunton/bigwigs/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cottage Jewels"
 url: /great-yarmouth/cottage-jewels/
-shop: gift
+shop: Andenken
 ---

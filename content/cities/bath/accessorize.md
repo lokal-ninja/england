@@ -1,5 +1,5 @@
 ---
 title: "Accessorize"
 url: /bath/accessorize/
-shop: clothes
+shop: Kleidung
 ---

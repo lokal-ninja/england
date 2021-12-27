@@ -1,5 +1,5 @@
 ---
 title: "The Old Market"
 url: /truro/the-old-market/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

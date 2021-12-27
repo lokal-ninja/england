@@ -1,6 +1,6 @@
 ---
 title: Rock
 url: /rock/
-latitude: 51.0003444
-longitude: -2.9597636
+latitude: 50.549
+longitude: -4.903
 ---

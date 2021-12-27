@@ -1,5 +1,5 @@
 ---
 title: "Hardys"
 url: /london/hardys/
-shop: confectionery
+shop: Süßwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Santro+Peche"
 url: /london/santro-peche/
-shop: optician
+shop: Optiker
 ---

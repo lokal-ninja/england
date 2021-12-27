@@ -1,5 +1,5 @@
 ---
 title: "Trespass"
 url: /sunderland/trespass/
-shop: outdoor
+shop: Outdoor
 ---

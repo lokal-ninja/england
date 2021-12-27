@@ -1,5 +1,5 @@
 ---
 title: "Carhartt"
 url: /manchester/carhartt/
-shop: clothes
+shop: Kleidung
 ---

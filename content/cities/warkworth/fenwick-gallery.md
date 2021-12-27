@@ -1,5 +1,5 @@
 ---
 title: "Fenwick Gallery"
 url: /warkworth/fenwick-gallery/
-shop: art
+shop: Kunst
 ---

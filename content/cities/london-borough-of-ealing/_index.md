@@ -1,6 +1,6 @@
 ---
 title: London Borough of Ealing
 url: /london-borough-of-ealing/
-latitude: 
-longitude: 
+latitude: 51.502
+longitude: -0.307
 ---

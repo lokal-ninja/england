@@ -1,5 +1,5 @@
 ---
 title: "Jax Motorcycles"
 url: /york/jax-motorcycles/
-shop: motorcycle
+shop: Motorrad
 ---

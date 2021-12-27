@@ -1,5 +1,5 @@
 ---
 title: "Gillian's"
 url: /dartmouth/gillians/
-shop: hairdresser
+shop: Friseur
 ---

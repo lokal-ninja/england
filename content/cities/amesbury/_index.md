@@ -1,6 +1,6 @@
 ---
 title: Amesbury
 url: /amesbury/
-latitude: 51.1726704
-longitude: -1.7751070000000002
+latitude: 51.177
+longitude: -1.757
 ---

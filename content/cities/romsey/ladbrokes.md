@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /romsey/ladbrokes/
-shop: bookmaker
+shop: Wettbüro
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sutcliffes"
 url: /chorley/sutcliffes/
-shop: optician
+shop: Optiker
 ---

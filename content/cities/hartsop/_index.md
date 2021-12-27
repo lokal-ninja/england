@@ -1,6 +1,6 @@
 ---
 title: Hartsop
 url: /hartsop/
-latitude: 54.510128400000006
-longitude: -2.9159261
+latitude: 54.499
+longitude: -2.924
 ---

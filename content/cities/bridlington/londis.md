@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /bridlington/londis/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,6 +1,6 @@
 ---
 title: Hale, Altrincham
 url: /hale-altrincham/
-latitude: 
-longitude: 
+latitude: 53.376
+longitude: -2.346
 ---

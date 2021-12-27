@@ -1,6 +1,6 @@
 ---
 title: Sizergh
 url: /sizergh/
-latitude: 
-longitude: 
+latitude: 54.282
+longitude: -2.766
 ---

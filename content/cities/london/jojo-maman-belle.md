@@ -1,5 +1,5 @@
 ---
 title: "JoJo Maman Belle"
 url: /london/jojo-maman-belle/
-shop: clothes
+shop: Kleidung
 ---

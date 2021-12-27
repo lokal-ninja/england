@@ -1,5 +1,5 @@
 ---
 title: "Timpson"
 url: /yate/timpson/
-shop: shop
+shop: Allgemein
 ---

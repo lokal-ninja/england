@@ -1,5 +1,5 @@
 ---
 title: "Sukat"
 url: /skegness/sukat/
-shop: seafood
+shop: Fisch
 ---

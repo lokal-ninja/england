@@ -1,5 +1,5 @@
 ---
 title: "Claire’s Family Fitness"
 url: /wallsend/claires-family-fitness/
-shop: charity
+shop: Gebrauchtwaren
 ---

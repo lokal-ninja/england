@@ -1,6 +1,6 @@
 ---
 title: Launceston
 url: /launceston/
-latitude: 50.63650620000001
-longitude: -4.360443200000001
+latitude: 50.637
+longitude: -4.36
 ---

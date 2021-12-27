@@ -1,6 +1,6 @@
 ---
 title: Keswick
 url: /keswick/
-latitude: 52.592166500000005
-longitude: 1.263011
+latitude: 54.601
+longitude: -3.138
 ---

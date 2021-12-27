@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /carshalton/londis-2/
-shop: convenience
+shop: Lebensmittel
 ---

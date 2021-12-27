@@ -1,5 +1,5 @@
 ---
 title: "CubaDirecto"
 url: /london/cubadirecto/
-shop: books
+shop: Bücher
 ---

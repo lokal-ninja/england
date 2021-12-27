@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /seahouses/londis/
-shop: convenience
+shop: Lebensmittel
 ---

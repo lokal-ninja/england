@@ -1,5 +1,5 @@
 ---
 title: "Chokie"
 url: /upton/chokie/
-shop: massage
+shop: Massage
 ---

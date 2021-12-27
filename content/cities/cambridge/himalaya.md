@@ -1,5 +1,5 @@
 ---
 title: "Himalaya"
 url: /cambridge/himalaya/
-shop: shop
+shop: Allgemein
 ---

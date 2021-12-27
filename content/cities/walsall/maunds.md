@@ -1,5 +1,5 @@
 ---
 title: "Maunds"
 url: /walsall/maunds/
-shop: variety store
+shop: Kramladen
 ---

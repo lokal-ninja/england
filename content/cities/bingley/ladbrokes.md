@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /bingley/ladbrokes/
-shop: bookmaker
+shop: Wettbüro
 ---

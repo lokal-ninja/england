@@ -1,5 +1,5 @@
 ---
 title: "BuildBase"
 url: /thetford/buildbase/
-shop: shop
+shop: Allgemein
 ---

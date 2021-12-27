@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /whitehaven/coral/
-shop: bookmaker
+shop: Wettbüro
 ---

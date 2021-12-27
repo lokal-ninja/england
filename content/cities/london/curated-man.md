@@ -1,5 +1,5 @@
 ---
 title: "Curated Man"
 url: /london/curated-man/
-shop: clothes
+shop: Kleidung
 ---

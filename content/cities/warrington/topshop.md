@@ -1,5 +1,5 @@
 ---
 title: "Topshop"
 url: /warrington/topshop/
-shop: clothes
+shop: Kleidung
 ---

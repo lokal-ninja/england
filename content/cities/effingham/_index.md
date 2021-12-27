@@ -1,6 +1,6 @@
 ---
 title: Effingham
 url: /effingham/
-latitude: 51.271863
-longitude: -0.3977913
+latitude: 51.27
+longitude: -0.399
 ---

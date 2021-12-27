@@ -1,5 +1,5 @@
 ---
 title: "Park Avenue Stores"
 url: /northfleet/park-avenue-stores/
-shop: convenience
+shop: Lebensmittel
 ---

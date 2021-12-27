@@ -1,5 +1,5 @@
 ---
 title: "Kropper"
 url: /london/kropper/
-shop: hairdresser
+shop: Friseur
 ---

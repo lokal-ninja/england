@@ -1,5 +1,5 @@
 ---
 title: "Switch"
 url: /london/switch/
-shop: clothes
+shop: Kleidung
 ---

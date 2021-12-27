@@ -1,5 +1,5 @@
 ---
 title: "Vype"
 url: /washington/vype/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

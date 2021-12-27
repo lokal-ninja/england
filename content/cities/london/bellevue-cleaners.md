@@ -1,5 +1,5 @@
 ---
 title: "Bellevue Cleaners"
 url: /london/bellevue-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

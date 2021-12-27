@@ -1,5 +1,5 @@
 ---
 title: "Therapy"
 url: /canterbury/therapy/
-shop: beauty
+shop: Kosmetik
 ---

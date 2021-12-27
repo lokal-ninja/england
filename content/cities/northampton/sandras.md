@@ -1,5 +1,5 @@
 ---
 title: "Sandra's"
 url: /northampton/sandras/
-shop: florist
+shop: Blumen
 ---

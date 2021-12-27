@@ -1,5 +1,5 @@
 ---
 title: "Pastimes"
 url: /bristol/pastimes/
-shop: antiques
+shop: Antiquitäten
 ---

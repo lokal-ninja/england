@@ -1,5 +1,5 @@
 ---
 title: "Vintoto"
 url: /wakefield/vintoto/
-shop: alcohol
+shop: Spirituosen
 ---

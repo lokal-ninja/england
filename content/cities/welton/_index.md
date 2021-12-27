@@ -1,6 +1,6 @@
 ---
 title: Welton
 url: /welton/
-latitude: 53.733119200000004
-longitude: -0.5486138
+latitude: 53.306
+longitude: -0.484
 ---

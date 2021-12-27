@@ -1,6 +1,6 @@
 ---
 title: Hartlepool
 url: /hartlepool/
-latitude: 54.6857276
-longitude: -1.2093696
+latitude: 54.694
+longitude: -1.244
 ---

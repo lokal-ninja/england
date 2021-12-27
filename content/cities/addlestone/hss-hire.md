@@ -1,5 +1,5 @@
 ---
 title: "HSS Hire"
 url: /addlestone/hss-hire/
-shop: shop
+shop: Allgemein
 ---

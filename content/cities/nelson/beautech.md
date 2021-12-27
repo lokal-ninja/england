@@ -1,5 +1,5 @@
 ---
 title: "Beautech"
 url: /nelson/beautech/
-shop: beauty
+shop: Kosmetik
 ---

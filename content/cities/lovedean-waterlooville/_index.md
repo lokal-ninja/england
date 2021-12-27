@@ -1,6 +1,6 @@
 ---
 title: Lovedean, Waterlooville
 url: /lovedean-waterlooville/
-latitude: 
-longitude: 
+latitude: 50.905
+longitude: -1.022
 ---

@@ -1,5 +1,5 @@
 ---
 title: "RSPCA"
 url: /whitehaven/rspca/
-shop: charity
+shop: Gebrauchtwaren
 ---

@@ -1,6 +1,6 @@
 ---
 title: Bamford
 url: /bamford/
-latitude: 53.6160495
-longitude: -2.2098697
+latitude: 53.343
+longitude: -1.692
 ---

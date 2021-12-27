@@ -1,5 +1,5 @@
 ---
 title: "YMCA"
 url: /consett/ymca/
-shop: charity
+shop: Gebrauchtwaren
 ---

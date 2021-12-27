@@ -1,5 +1,5 @@
 ---
 title: "Listers"
 url: /solihull/listers/
-shop: car
+shop: Autohaus
 ---

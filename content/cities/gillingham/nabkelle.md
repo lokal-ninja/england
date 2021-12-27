@@ -1,5 +1,5 @@
 ---
 title: "Nabkelle"
 url: /gillingham/nabkelle/
-shop: convenience
+shop: Lebensmittel
 ---

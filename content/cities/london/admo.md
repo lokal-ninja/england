@@ -1,5 +1,5 @@
 ---
 title: "Admo"
 url: /london/admo/
-shop: kitchen
+shop: Küchen
 ---

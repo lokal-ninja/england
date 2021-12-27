@@ -1,5 +1,5 @@
 ---
 title: "Earthworks"
 url: /sunderland/earthworks/
-shop: shop
+shop: Allgemein
 ---

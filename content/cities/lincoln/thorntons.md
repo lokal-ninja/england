@@ -1,5 +1,5 @@
 ---
 title: "Thorntons"
 url: /lincoln/thorntons/
-shop: confectionery
+shop: Süßwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bircham Stores"
 url: /kings-lynn/bircham-stores/
-shop: convenience
+shop: Lebensmittel
 ---

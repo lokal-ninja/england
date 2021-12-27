@@ -1,6 +1,6 @@
 ---
 title: Highworth
 url: /highworth/
-latitude: 51.6313857
-longitude: -1.7136365
+latitude: 51.629
+longitude: -1.712
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cats Protection"
 url: /coulsdon/cats-protection/
-shop: charity
+shop: Gebrauchtwaren
 ---

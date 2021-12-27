@@ -1,6 +1,6 @@
 ---
 title: Bubwith
 url: /bubwith/
-latitude: 53.8184436
-longitude: -0.917127
+latitude: 53.818
+longitude: -0.916
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lucks"
 url: /louth/lucks/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "One Stop"
 url: /bexhill-on-sea/one-stop/
-shop: convenience
+shop: Lebensmittel
 ---

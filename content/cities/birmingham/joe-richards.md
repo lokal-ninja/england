@@ -1,5 +1,5 @@
 ---
 title: "Joe Richards"
 url: /birmingham/joe-richards/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

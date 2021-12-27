@@ -1,6 +1,6 @@
 ---
 title: Staxton
 url: /staxton/
-latitude: 54.1993785
-longitude: -0.44415210000000005
+latitude: 54.197
+longitude: -0.445
 ---

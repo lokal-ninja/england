@@ -1,5 +1,5 @@
 ---
 title: "Blow"
 url: /warrington/blow/
-shop: hairdresser
+shop: Friseur
 ---

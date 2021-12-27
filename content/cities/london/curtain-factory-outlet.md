@@ -1,5 +1,5 @@
 ---
 title: "Curtain Factory Outlet"
 url: /london/curtain-factory-outlet/
-shop: fabric
+shop: Textil
 ---

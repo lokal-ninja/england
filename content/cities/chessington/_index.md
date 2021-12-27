@@ -1,6 +1,6 @@
 ---
 title: Chessington
 url: /chessington/
-latitude: 
-longitude: 
+latitude: 51.364
+longitude: -0.299
 ---

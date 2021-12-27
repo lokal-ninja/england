@@ -1,6 +1,6 @@
 ---
 title: Westhouse
 url: /westhouse/
-latitude: 
-longitude: 
+latitude: 54.164
+longitude: -2.512
 ---

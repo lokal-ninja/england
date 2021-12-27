@@ -1,5 +1,5 @@
 ---
 title: "Imperial Garage"
 url: /southport/imperial-garage/
-shop: car repair
+shop: Autowerkstatt
 ---

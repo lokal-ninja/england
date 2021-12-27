@@ -1,6 +1,6 @@
 ---
 title: Market Rasen
 url: /market-rasen/
-latitude: 53.387402800000004
-longitude: -0.33665900000000004
+latitude: 53.388
+longitude: -0.338
 ---

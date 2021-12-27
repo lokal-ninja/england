@@ -1,5 +1,5 @@
 ---
 title: "SO Nails"
 url: /brightlingsea/so-nails/
-shop: beauty
+shop: Kosmetik
 ---

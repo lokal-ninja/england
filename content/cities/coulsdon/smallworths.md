@@ -1,5 +1,5 @@
 ---
 title: "Smallworths"
 url: /coulsdon/smallworths/
-shop: computer
+shop: Computer
 ---

@@ -1,6 +1,6 @@
 ---
 title: Ipswich
 url: /ipswich/
-latitude: 
-longitude: 
+latitude: 52.067
+longitude: 1.137
 ---

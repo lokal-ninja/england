@@ -1,5 +1,5 @@
 ---
 title: "Morrisons"
 url: /bodmin/morrisons/
-shop: supermarket
+shop: Supermarkt
 ---

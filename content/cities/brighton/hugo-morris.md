@@ -1,5 +1,5 @@
 ---
 title: "Hugo Morris"
 url: /brighton/hugo-morris/
-shop: clothes
+shop: Kleidung
 ---

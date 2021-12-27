@@ -1,5 +1,5 @@
 ---
 title: "Iceburg"
 url: /preston/iceburg/
-shop: vacant
+shop: Leerstehend
 ---

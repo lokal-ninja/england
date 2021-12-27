@@ -1,5 +1,5 @@
 ---
 title: "Premier Floors"
 url: /twickenham/premier-floors/
-shop: carpet
+shop: Teppiche
 ---

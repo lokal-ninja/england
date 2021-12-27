@@ -1,6 +1,6 @@
 ---
 title: Waltham Cross
 url: /waltham-cross/
-latitude: 
-longitude: 
+latitude: 51.686
+longitude: -0.027
 ---

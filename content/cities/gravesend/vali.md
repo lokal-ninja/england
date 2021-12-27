@@ -1,5 +1,5 @@
 ---
 title: "VALI"
 url: /gravesend/vali/
-shop: tailor
+shop: Schneiderei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Millets"
 url: /southport/millets/
-shop: outdoor
+shop: Outdoor
 ---

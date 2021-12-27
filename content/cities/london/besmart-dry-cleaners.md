@@ -1,5 +1,5 @@
 ---
 title: "BeSmart Dry Cleaners"
 url: /london/besmart-dry-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

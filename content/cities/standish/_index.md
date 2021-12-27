@@ -1,6 +1,6 @@
 ---
 title: Standish
 url: /standish/
-latitude: 51.7740536
-longitude: -2.2906853000000003
+latitude: 53.587
+longitude: -2.664
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mothercare"
 url: /huddersfield/mothercare/
-shop: baby goods
+shop: Babysachen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nisa"
 url: /salford/nisa/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,6 +1,6 @@
 ---
 title: Vigo Village
 url: /vigo-village/
-latitude: 51.330385400000004
-longitude: 0.35906950000000004
+latitude: 51.33
+longitude: 0.359
 ---

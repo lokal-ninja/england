@@ -1,6 +1,6 @@
 ---
 title: Denvilles, Havant
 url: /denvilles-havant/
-latitude: 
-longitude: 
+latitude: 50.85
+longitude: -0.969
 ---

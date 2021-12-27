@@ -1,5 +1,5 @@
 ---
 title: "Zagros"
 url: /eastbourne/zagros/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Richmonds"
 url: /wakefield/richmonds/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

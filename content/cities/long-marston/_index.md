@@ -1,6 +1,6 @@
 ---
 title: Long Marston
 url: /long-marston/
-latitude: 52.134556200000006
-longitude: -1.7763827
+latitude: 52.12
+longitude: -1.76
 ---

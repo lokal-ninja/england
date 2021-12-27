@@ -1,5 +1,5 @@
 ---
 title: "Boyes"
 url: /consett/boyes/
-shop: department store
+shop: Warenhaus
 ---

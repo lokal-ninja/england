@@ -1,5 +1,5 @@
 ---
 title: "Venus"
 url: /manchester/venus/
-shop: florist
+shop: Blumen
 ---

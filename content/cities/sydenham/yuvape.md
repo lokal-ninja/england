@@ -1,5 +1,5 @@
 ---
 title: "Yuvape"
 url: /sydenham/yuvape/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

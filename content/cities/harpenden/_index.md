@@ -1,6 +1,6 @@
 ---
 title: Harpenden
 url: /harpenden/
-latitude: 51.821456700000006
-longitude: -0.3515703
+latitude: 51.807
+longitude: -0.344
 ---

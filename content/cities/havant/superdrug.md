@@ -1,5 +1,5 @@
 ---
 title: "Superdrug"
 url: /havant/superdrug/
-shop: chemist
+shop: Drogerie
 ---

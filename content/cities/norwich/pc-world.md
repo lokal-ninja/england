@@ -1,5 +1,5 @@
 ---
 title: "PC World"
 url: /norwich/pc-world/
-shop: computer
+shop: Computer
 ---

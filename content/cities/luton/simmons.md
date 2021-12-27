@@ -1,5 +1,5 @@
 ---
 title: "Simmons"
 url: /luton/simmons/
-shop: bakery
+shop: Bäckerei
 ---

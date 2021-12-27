@@ -1,5 +1,5 @@
 ---
 title: "Goldmart"
 url: /darlington/goldmart/
-shop: jewelry
+shop: Schmuck
 ---

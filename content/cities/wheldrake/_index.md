@@ -1,6 +1,6 @@
 ---
 title: Wheldrake
 url: /wheldrake/
-latitude: 53.897041300000005
-longitude: -0.9655577000000001
+latitude: 53.896
+longitude: -0.965
 ---

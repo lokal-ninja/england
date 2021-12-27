@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /oxford/decathlon/
-shop: sports
+shop: Sport
 ---

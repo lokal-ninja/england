@@ -1,6 +1,6 @@
 ---
 title: Terrington
 url: /terrington/
-latitude: 54.1275485
-longitude: -0.9762718
+latitude: 54.127
+longitude: -0.975
 ---

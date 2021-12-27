@@ -1,5 +1,5 @@
 ---
 title: "Superdrug"
 url: /gillingham/superdrug/
-shop: chemist
+shop: Drogerie
 ---

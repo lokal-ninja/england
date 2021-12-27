@@ -1,5 +1,5 @@
 ---
 title: "Heather Lea Florists"
 url: /blackpool/heather-lea-florists/
-shop: florist
+shop: Blumen
 ---

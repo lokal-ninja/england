@@ -1,5 +1,5 @@
 ---
 title: "Gedo"
 url: /reigate/gedo/
-shop: clothes
+shop: Kleidung
 ---

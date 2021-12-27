@@ -1,5 +1,5 @@
 ---
 title: "Golden News"
 url: /colchester/golden-news/
-shop: newsagent
+shop: Zeitungen
 ---

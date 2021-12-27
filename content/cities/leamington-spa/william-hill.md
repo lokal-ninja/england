@@ -1,5 +1,5 @@
 ---
 title: "William Hill"
 url: /leamington-spa/william-hill/
-shop: bookmaker
+shop: Wettbüro
 ---

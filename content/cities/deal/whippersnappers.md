@@ -1,5 +1,5 @@
 ---
 title: "Whippersnappers"
 url: /deal/whippersnappers/
-shop: clothes
+shop: Kleidung
 ---

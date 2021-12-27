@@ -1,5 +1,5 @@
 ---
 title: "Waterstones"
 url: /market-harborough/waterstones/
-shop: books
+shop: Bücher
 ---

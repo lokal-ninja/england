@@ -1,6 +1,6 @@
 ---
 title: Hambledon
 url: /hambledon/
-latitude: 51.1378306
-longitude: -0.6208748000000001
+latitude: 51.135
+longitude: -0.626
 ---

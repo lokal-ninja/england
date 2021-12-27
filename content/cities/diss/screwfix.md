@@ -1,5 +1,5 @@
 ---
 title: "Screwfix"
 url: /diss/screwfix/
-shop: doityourself
+shop: Baumarkt
 ---

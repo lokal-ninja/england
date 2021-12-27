@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /north-baddesley/londis/
-shop: convenience
+shop: Lebensmittel
 ---

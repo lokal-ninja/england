@@ -1,5 +1,5 @@
 ---
 title: "Multiyork"
 url: /newbury/multiyork/
-shop: furniture
+shop: Möbel
 ---

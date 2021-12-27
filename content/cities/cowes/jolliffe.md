@@ -1,5 +1,5 @@
 ---
 title: "Jolliffe"
 url: /cowes/jolliffe/
-shop: art
+shop: Kunst
 ---

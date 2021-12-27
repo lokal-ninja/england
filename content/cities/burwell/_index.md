@@ -1,6 +1,6 @@
 ---
 title: Burwell
 url: /burwell/
-latitude: 53.2953959
-longitude: 0.031517
+latitude: 52.28
+longitude: 0.324
 ---

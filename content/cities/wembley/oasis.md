@@ -1,5 +1,5 @@
 ---
 title: "Oasis"
 url: /wembley/oasis/
-shop: convenience
+shop: Lebensmittel
 ---

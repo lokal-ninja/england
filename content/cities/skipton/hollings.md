@@ -1,5 +1,5 @@
 ---
 title: "Hollings"
 url: /skipton/hollings/
-shop: pet
+shop: Tiere
 ---

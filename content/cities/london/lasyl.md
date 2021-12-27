@@ -1,5 +1,5 @@
 ---
 title: "Lasyl"
 url: /london/lasyl/
-shop: hifi
+shop: Hifi
 ---

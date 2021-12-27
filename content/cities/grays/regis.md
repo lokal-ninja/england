@@ -1,5 +1,5 @@
 ---
 title: "Regis"
 url: /grays/regis/
-shop: hairdresser
+shop: Friseur
 ---

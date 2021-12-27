@@ -1,5 +1,5 @@
 ---
 title: "Sydney Ingram"
 url: /salisbury/sydney-ingram/
-shop: bag
+shop: Taschen & Koffer
 ---

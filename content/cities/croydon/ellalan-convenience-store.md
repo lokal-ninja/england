@@ -1,5 +1,5 @@
 ---
 title: "Ellalan Convenience Store"
 url: /croydon/ellalan-convenience-store/
-shop: convenience
+shop: Lebensmittel
 ---

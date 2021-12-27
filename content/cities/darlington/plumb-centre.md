@@ -1,5 +1,5 @@
 ---
 title: "Plumb Centre"
 url: /darlington/plumb-centre/
-shop: shop
+shop: Allgemein
 ---

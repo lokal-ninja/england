@@ -1,6 +1,6 @@
 ---
 title: Lutterworth
 url: /lutterworth/
-latitude: 
-longitude: 
+latitude: 52.46
+longitude: -1.203
 ---
