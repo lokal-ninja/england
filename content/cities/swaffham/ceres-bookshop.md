@@ -1,5 +1,5 @@
 ---
-title: "Cere's Bookshop"
+title: "Ceres Bookshop"
 url: /swaffham/ceres-bookshop/
 shop: Bücher
 ---

@@ -1,11 +1,11 @@
-id: 4567060385
-type: node
-latitude: 51.51345
-longitude: -0.12852
-postcode: "WC2H 9RY"
+id: 345389726
+type: way
+latitude: 51.51912
+longitude: -0.13613
+postcode: "W1T 1TG"
 city: London
-street: "Earlham Street"
-housenumber: 8
-phone: "+44 20 7240 1392"
-opening_hours: "Mo-Fr 08:00-20:00; Sa-Su 09:30-18:30"
+street: "Goodge Street"
+housenumber: 53
+phone: ""
+opening_hours: "Mo-Fr 08:00-18:30; Sa-Su 09:00-18:00"
 website: "http://fabrique.co.uk/"
