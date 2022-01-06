@@ -1,6 +1,6 @@
 ---
 title: Banbury
 url: /banbury/
-latitude: 52.062
-longitude: -1.335
+latitude: 52.06
+longitude: -1.328
 ---

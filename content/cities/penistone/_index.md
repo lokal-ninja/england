@@ -1,6 +1,6 @@
 ---
 title: Penistone
 url: /penistone/
-latitude: 53.529
-longitude: -1.634
+latitude: 53.525
+longitude: -1.633
 ---

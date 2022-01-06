@@ -1,6 +1,6 @@
 ---
 title: Camber
 url: /camber/
-latitude: 50.936
-longitude: 0.803
+latitude: 50.93
+longitude: 0.815
 ---

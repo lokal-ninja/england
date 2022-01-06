@@ -1,5 +1,5 @@
 ---
 title: "Dunelm"
 url: /newport/dunelm/
-shop: Haushaltsartikel
+shop: Raumausstattung
 ---

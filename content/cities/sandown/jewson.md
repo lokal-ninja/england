@@ -1,5 +1,5 @@
 ---
 title: "Jewson"
 url: /sandown/jewson/
-shop: Baumarkt
+shop: Baustoffe
 ---

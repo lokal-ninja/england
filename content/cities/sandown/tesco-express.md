@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /sandown/tesco-express/
-shop: Supermarkt
+shop: Lebensmittel
 ---

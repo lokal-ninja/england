@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /seaton/tesco/
-shop: Lebensmittel
+shop: Supermarkt
 ---

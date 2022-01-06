@@ -1,11 +1,11 @@
-id: 8787180289
-type: node
-latitude: 51.48754
-longitude: 0.00272
-postcode: "SE10 0FE"
+id: 71571333
+type: way
+latitude: 51.47351
+longitude: -0.09378
+postcode: "SE5 8RZ"
 city: London
-street: "Banning Street"
-housenumber: 51
+street: "Denmark Hill"
+housenumber: 28-32
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
+opening_hours: ""
 website: ""
