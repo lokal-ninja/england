@@ -1,5 +1,5 @@
 ---
 title: "Fox Flannel"
 url: /wellington/fox-flannel/
-shop: Kleidung
+shop: clothes
 ---

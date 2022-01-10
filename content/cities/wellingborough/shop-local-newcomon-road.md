@@ -1,5 +1,5 @@
 ---
 title: "Shop Local Newcomon Road"
 url: /wellingborough/shop-local-newcomon-road/
-shop: Lebensmittel
+shop: convenience
 ---

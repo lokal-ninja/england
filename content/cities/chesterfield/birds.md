@@ -1,5 +1,5 @@
 ---
 title: "Birds"
 url: /chesterfield/birds/
-shop: Bäckerei
+shop: bakery
 ---

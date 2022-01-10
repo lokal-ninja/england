@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
 url: /alnwick/wilko/
-shop: Kramladen
+shop: variety store
 ---

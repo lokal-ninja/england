@@ -1,5 +1,5 @@
 ---
 title: "Waterfields"
 url: /warrington/waterfields/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Smakolyk Foods Plus"
 url: /banbury/smakolyk-foods-plus/
-shop: Lebensmittel
+shop: convenience
 ---

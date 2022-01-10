@@ -1,5 +1,5 @@
 ---
 title: "Andrews"
 url: /tewkesbury/andrews/
-shop: Immobilien
+shop: estate agent
 ---

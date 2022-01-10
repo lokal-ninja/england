@@ -1,5 +1,5 @@
 ---
 title: "Omega"
 url: /walton-on-the-naze/omega/
-shop: Immobilien
+shop: estate agent
 ---

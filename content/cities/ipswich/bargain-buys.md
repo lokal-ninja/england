@@ -1,5 +1,5 @@
 ---
 title: "Bargain Buys"
 url: /ipswich/bargain-buys/
-shop: Kramladen
+shop: variety store
 ---

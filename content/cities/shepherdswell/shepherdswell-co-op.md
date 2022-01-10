@@ -1,5 +1,5 @@
 ---
 title: "Shepherdswell Co-op"
 url: /shepherdswell/shepherdswell-co-op/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ashley Adams"
 url: /derby/ashley-adams/
-shop: Immobilien
+shop: estate agent
 ---

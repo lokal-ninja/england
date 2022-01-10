@@ -1,5 +1,5 @@
 ---
 title: "Nola"
 url: /norwich/nola/
-shop: Kleidung
+shop: clothes
 ---

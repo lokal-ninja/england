@@ -1,5 +1,5 @@
 ---
 title: "Northampton Health Store"
 url: /northampton/northampton-health-store/
-shop: Lebensmittel
+shop: convenience
 ---

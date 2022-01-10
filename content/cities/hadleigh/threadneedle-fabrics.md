@@ -1,5 +1,5 @@
 ---
 title: "Threadneedle Fabrics"
 url: /hadleigh/threadneedle-fabrics/
-shop: Textil
+shop: fabric
 ---

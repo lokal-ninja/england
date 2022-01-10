@@ -1,5 +1,5 @@
 ---
 title: "ISalon"
 url: /leeds/isalon/
-shop: Friseur
+shop: hairdresser
 ---

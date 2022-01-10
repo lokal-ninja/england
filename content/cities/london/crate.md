@@ -1,5 +1,5 @@
 ---
 title: "Crate"
 url: /london/crate/
-shop: Friseur
+shop: hairdresser
 ---

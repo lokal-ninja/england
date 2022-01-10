@@ -1,5 +1,5 @@
 ---
 title: "Hotel Chocolat"
 url: /derby/hotel-chocolat/
-shop: Süßwaren
+shop: confectionery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Budgens"
 url: /wellingborough/budgens/
-shop: Lebensmittel
+shop: convenience
 ---

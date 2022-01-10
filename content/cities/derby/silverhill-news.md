@@ -1,5 +1,5 @@
 ---
 title: "Silverhill News"
 url: /derby/silverhill-news/
-shop: Zeitungen
+shop: newsagent
 ---

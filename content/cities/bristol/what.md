@@ -1,5 +1,5 @@
 ---
 title: "what!"
 url: /bristol/what/
-shop: Kramladen
+shop: variety store
 ---

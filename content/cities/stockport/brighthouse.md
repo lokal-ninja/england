@@ -1,5 +1,5 @@
 ---
 title: "Brighthouse"
 url: /stockport/brighthouse/
-shop: Haushaltsgeräte
+shop: appliance
 ---

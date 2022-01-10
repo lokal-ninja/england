@@ -1,5 +1,5 @@
 ---
 title: "Age UK"
 url: /newport/age-uk/
-shop: Gebrauchtwaren
+shop: charity
 ---

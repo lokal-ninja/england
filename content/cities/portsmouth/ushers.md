@@ -1,5 +1,5 @@
 ---
 title: "Ushers"
 url: /portsmouth/ushers/
-shop: Gemüse & Obst
+shop: greengrocer
 ---

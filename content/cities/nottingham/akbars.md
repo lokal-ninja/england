@@ -1,5 +1,5 @@
 ---
 title: "Akbars"
 url: /nottingham/akbars/
-shop: Lebensmittel
+shop: convenience
 ---

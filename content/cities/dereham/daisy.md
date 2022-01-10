@@ -1,5 +1,5 @@
 ---
 title: "Daisy'"
 url: /dereham/daisy/
-shop: Blumen
+shop: florist
 ---

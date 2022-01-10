@@ -1,5 +1,5 @@
 ---
 title: "Mainprizes"
 url: /scarborough/mainprizes/
-shop: Fisch
+shop: seafood
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Omega"
 url: /clacton-on-sea/omega/
-shop: Immobilien
+shop: estate agent
 ---

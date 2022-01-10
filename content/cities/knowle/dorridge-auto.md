@@ -1,5 +1,5 @@
 ---
 title: "Dorridge Auto"
 url: /knowle/dorridge-auto/
-shop: Autoteile
+shop: car parts
 ---

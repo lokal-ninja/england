@@ -1,5 +1,5 @@
 ---
 title: "Bella"
 url: /cowes/bella/
-shop: Kleidung
+shop: clothes
 ---

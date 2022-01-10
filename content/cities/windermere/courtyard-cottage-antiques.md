@@ -1,5 +1,5 @@
 ---
 title: "Courtyard Cottage Antiques"
 url: /windermere/courtyard-cottage-antiques/
-shop: Antiquitäten
+shop: antiques
 ---

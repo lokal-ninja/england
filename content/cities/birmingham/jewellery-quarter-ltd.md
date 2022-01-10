@@ -1,5 +1,5 @@
 ---
 title: "Jewellery Quarter Ltd."
 url: /birmingham/jewellery-quarter-ltd/
-shop: Schmuck
+shop: jewelry
 ---

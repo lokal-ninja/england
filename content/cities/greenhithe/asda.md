@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /greenhithe/asda/
-shop: Supermarkt
+shop: supermarket
 ---

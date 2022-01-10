@@ -1,5 +1,5 @@
 ---
 title: "Trinity Dry Cleaners"
 url: /croydon/trinity-dry-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

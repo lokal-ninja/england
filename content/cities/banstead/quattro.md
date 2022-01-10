@@ -1,5 +1,5 @@
 ---
 title: "Quattro"
 url: /banstead/quattro/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Country Studio Framing"
 url: /bristol/country-studio-framing/
-shop: Rahmen
+shop: frame
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Family Shop"
 url: /london/family-shop/
-shop: Lebensmittel
+shop: convenience
 ---

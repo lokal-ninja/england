@@ -1,5 +1,5 @@
 ---
 title: "Anemon"
 url: /london/anemon/
-shop: Lebensmittel
+shop: convenience
 ---

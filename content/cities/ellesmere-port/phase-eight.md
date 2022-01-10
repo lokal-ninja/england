@@ -1,5 +1,5 @@
 ---
 title: "Phase Eight"
 url: /ellesmere-port/phase-eight/
-shop: Kleidung
+shop: clothes
 ---

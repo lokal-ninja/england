@@ -1,5 +1,5 @@
 ---
 title: "Store Brighton"
 url: /brighton/store-brighton/
-shop: Bioladen
+shop: health food
 ---

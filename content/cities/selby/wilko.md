@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
 url: /selby/wilko/
-shop: Kramladen
+shop: variety store
 ---

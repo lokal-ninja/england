@@ -1,5 +1,5 @@
 ---
 title: "Barnado's"
 url: /blyth/barnados/
-shop: Gebrauchtwaren
+shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shiraz"
 url: /london/shiraz/
-shop: Teppiche
+shop: carpet
 ---

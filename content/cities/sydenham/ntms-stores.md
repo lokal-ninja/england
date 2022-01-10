@@ -1,5 +1,5 @@
 ---
 title: "NTMS Stores"
 url: /sydenham/ntms-stores/
-shop: Lebensmittel
+shop: convenience
 ---

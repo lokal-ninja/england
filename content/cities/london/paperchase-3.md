@@ -1,5 +1,5 @@
 ---
 title: "Paperchase"
 url: /london/paperchase-3/
-shop: Schreibwaren
+shop: office supplies
 ---

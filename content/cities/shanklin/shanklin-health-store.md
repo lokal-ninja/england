@@ -1,5 +1,5 @@
 ---
 title: "Shanklin Health Store"
 url: /shanklin/shanklin-health-store/
-shop: Bioladen
+shop: health food
 ---

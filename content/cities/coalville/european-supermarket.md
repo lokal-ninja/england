@@ -1,5 +1,5 @@
 ---
 title: "European Supermarket"
 url: /coalville/european-supermarket/
-shop: Lebensmittel
+shop: convenience
 ---

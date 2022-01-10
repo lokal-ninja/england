@@ -1,5 +1,5 @@
 ---
 title: "Libélula"
 url: /devizes/libelula/
-shop: Kleidung
+shop: clothes
 ---

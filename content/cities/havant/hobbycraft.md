@@ -1,5 +1,5 @@
 ---
 title: "Hobbycraft"
 url: /havant/hobbycraft/
-shop: Basteln
+shop: craft
 ---

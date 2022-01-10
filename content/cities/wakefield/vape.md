@@ -1,5 +1,5 @@
 ---
 title: "Vape"
 url: /wakefield/vape/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

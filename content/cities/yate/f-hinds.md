@@ -1,5 +1,5 @@
 ---
 title: "F.Hinds"
 url: /yate/f-hinds/
-shop: Schmuck
+shop: jewelry
 ---

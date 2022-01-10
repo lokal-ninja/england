@@ -1,5 +1,5 @@
 ---
 title: "Mencap"
 url: /congleton/mencap/
-shop: Gebrauchtwaren
+shop: charity
 ---

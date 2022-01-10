@@ -1,5 +1,5 @@
 ---
 title: "Officers Club"
 url: /workington/officers-club/
-shop: Kleidung
+shop: clothes
 ---

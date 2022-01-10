@@ -1,5 +1,5 @@
 ---
 title: "Mobile City"
 url: /birmingham/mobile-city/
-shop: Handy
+shop: mobile phone
 ---

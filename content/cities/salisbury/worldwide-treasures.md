@@ -1,5 +1,5 @@
 ---
 title: "Worldwide Treasures"
 url: /salisbury/worldwide-treasures/
-shop: Antiquitäten
+shop: antiques
 ---

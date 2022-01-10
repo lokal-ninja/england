@@ -1,5 +1,5 @@
 ---
 title: "EE"
 url: /winsford/ee/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Limelighting"
 url: /cockermouth/limelighting/
-shop: Elektronik
+shop: electronics
 ---

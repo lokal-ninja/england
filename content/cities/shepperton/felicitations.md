@@ -1,5 +1,5 @@
 ---
 title: "Felicitations"
 url: /shepperton/felicitations/
-shop: Andenken
+shop: gift
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Regal House"
 url: /bowness-on-windermere/regal-house/
-shop: Friseur
+shop: hairdresser
 ---

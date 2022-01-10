@@ -1,5 +1,5 @@
 ---
 title: "Superdrug"
 url: /eltham/superdrug/
-shop: Drogerie
+shop: chemist
 ---

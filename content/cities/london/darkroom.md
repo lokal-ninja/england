@@ -1,5 +1,5 @@
 ---
 title: "Darkroom"
 url: /london/darkroom/
-shop: Haushaltsartikel
+shop: houseware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Halfords"
 url: /woking/halfords/
-shop: Autoteile
+shop: car parts
 ---

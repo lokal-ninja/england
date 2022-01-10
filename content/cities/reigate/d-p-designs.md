@@ -1,5 +1,5 @@
 ---
 title: "D P Designs"
 url: /reigate/d-p-designs/
-shop: Textil
+shop: fabric
 ---

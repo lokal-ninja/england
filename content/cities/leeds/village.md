@@ -1,5 +1,5 @@
 ---
 title: "Village"
 url: /leeds/village/
-shop: Bücher
+shop: books
 ---

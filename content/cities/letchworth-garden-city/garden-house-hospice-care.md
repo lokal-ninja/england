@@ -1,5 +1,5 @@
 ---
 title: "Garden House Hospice Care"
 url: /letchworth-garden-city/garden-house-hospice-care/
-shop: Gebrauchtwaren
+shop: charity
 ---

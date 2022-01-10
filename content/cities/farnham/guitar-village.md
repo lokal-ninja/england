@@ -1,5 +1,5 @@
 ---
 title: "Guitar Village"
 url: /farnham/guitar-village/
-shop: Instrumente
+shop: musical instrument
 ---

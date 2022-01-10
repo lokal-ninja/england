@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /sudbury/premier/
-shop: Lebensmittel
+shop: convenience
 ---

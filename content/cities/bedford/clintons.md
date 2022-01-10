@@ -1,5 +1,5 @@
 ---
 title: "Clintons"
 url: /bedford/clintons/
-shop: Andenken
+shop: gift
 ---

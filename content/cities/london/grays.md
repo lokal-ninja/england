@@ -1,5 +1,5 @@
 ---
 title: "Grays"
 url: /london/grays/
-shop: Reifen
+shop: tyres
 ---

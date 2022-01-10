@@ -1,5 +1,5 @@
 ---
 title: "Norbreck Tiles"
 url: /blackpool/norbreck-tiles/
-shop: Fliesen
+shop: tiles
 ---

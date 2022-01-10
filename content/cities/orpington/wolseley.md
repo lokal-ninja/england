@@ -1,5 +1,5 @@
 ---
 title: "Wolseley"
 url: /orpington/wolseley/
-shop: Eisenwaren
+shop: hardware
 ---

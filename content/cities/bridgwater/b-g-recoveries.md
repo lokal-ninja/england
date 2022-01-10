@@ -1,5 +1,5 @@
 ---
 title: "B G Recoveries"
 url: /bridgwater/b-g-recoveries/
-shop: Autowerkstatt
+shop: car repair
 ---

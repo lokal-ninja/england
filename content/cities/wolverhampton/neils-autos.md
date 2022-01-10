@@ -1,5 +1,5 @@
 ---
 title: "Neils Autos"
 url: /wolverhampton/neils-autos/
-shop: Autowerkstatt
+shop: car repair
 ---

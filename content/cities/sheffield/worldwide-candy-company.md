@@ -1,5 +1,5 @@
 ---
 title: "Worldwide Candy Company"
 url: /sheffield/worldwide-candy-company/
-shop: Süßwaren
+shop: confectionery
 ---

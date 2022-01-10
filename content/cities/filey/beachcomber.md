@@ -1,5 +1,5 @@
 ---
 title: "Beachcomber"
 url: /filey/beachcomber/
-shop: Basteln
+shop: craft
 ---

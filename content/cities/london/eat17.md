@@ -1,5 +1,5 @@
 ---
 title: "eat17"
 url: /london/eat17/
-shop: Feinkost
+shop: deli
 ---

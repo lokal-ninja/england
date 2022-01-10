@@ -1,5 +1,5 @@
 ---
 title: "Sophology"
 url: /ipswich/sophology/
-shop: Möbel
+shop: furniture
 ---

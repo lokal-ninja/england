@@ -1,5 +1,5 @@
 ---
 title: "Cardzone"
 url: /kings-lynn/cardzone/
-shop: Schreibwaren
+shop: office supplies
 ---

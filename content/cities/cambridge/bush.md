@@ -1,5 +1,5 @@
 ---
 title: "Bush"
 url: /cambridge/bush/
-shop: Immobilien
+shop: estate agent
 ---

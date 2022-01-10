@@ -1,5 +1,5 @@
 ---
 title: "Claire's"
 url: /horsham/claires/
-shop: Allgemein
+shop: shop
 ---

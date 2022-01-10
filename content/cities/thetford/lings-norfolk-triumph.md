@@ -1,5 +1,5 @@
 ---
 title: "Lings Norfolk Triumph"
 url: /thetford/lings-norfolk-triumph/
-shop: Motorrad
+shop: motorcycle
 ---

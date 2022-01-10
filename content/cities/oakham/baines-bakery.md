@@ -1,5 +1,5 @@
 ---
 title: "Baines Bakery"
 url: /oakham/baines-bakery/
-shop: Bäckerei
+shop: bakery
 ---

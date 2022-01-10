@@ -1,5 +1,5 @@
 ---
 title: "Ishis"
 url: /leeds/ishis/
-shop: Lebensmittel
+shop: convenience
 ---

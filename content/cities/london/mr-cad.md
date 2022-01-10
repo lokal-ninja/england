@@ -1,5 +1,5 @@
 ---
 title: "Mr CAD"
 url: /london/mr-cad/
-shop: Foto
+shop: photo
 ---

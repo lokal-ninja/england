@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /bingley/poundland/
-shop: Kramladen
+shop: variety store
 ---

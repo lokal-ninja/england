@@ -1,5 +1,5 @@
 ---
 title: "Heron Foods"
 url: /consett/heron-foods/
-shop: Supermarkt
+shop: supermarket
 ---

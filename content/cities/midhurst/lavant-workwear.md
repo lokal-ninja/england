@@ -1,5 +1,5 @@
 ---
 title: "Lavant Workwear"
 url: /midhurst/lavant-workwear/
-shop: Kleidung
+shop: clothes
 ---

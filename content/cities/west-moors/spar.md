@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /west-moors/spar/
-shop: Supermarkt
+shop: supermarket
 ---

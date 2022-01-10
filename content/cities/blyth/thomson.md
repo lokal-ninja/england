@@ -1,5 +1,5 @@
 ---
 title: "Thomson"
 url: /blyth/thomson/
-shop: Reisebüro
+shop: travel agency
 ---

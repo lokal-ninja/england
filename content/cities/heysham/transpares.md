@@ -1,5 +1,5 @@
 ---
 title: "Transpares"
 url: /heysham/transpares/
-shop: Autoteile
+shop: car parts
 ---

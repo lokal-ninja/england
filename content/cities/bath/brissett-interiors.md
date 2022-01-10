@@ -1,5 +1,5 @@
 ---
 title: "Brissett Interiors"
 url: /bath/brissett-interiors/
-shop: Allgemein
+shop: shop
 ---

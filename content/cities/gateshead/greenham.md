@@ -1,5 +1,5 @@
 ---
 title: "Greenham"
 url: /gateshead/greenham/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Surrey Cobbler"
 url: /surbiton/the-surrey-cobbler/
-shop: Schuhe
+shop: shoes
 ---

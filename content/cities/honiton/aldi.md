@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /honiton/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

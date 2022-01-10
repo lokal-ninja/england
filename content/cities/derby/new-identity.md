@@ -1,5 +1,5 @@
 ---
 title: "New Identity"
 url: /derby/new-identity/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Harmony"
 url: /stockport/harmony/
-shop: Kleidung
+shop: clothes
 ---

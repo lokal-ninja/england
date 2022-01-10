@@ -1,5 +1,5 @@
 ---
 title: "Hot Interiors"
 url: /leeds/hot-interiors/
-shop: Raumausstattung
+shop: interior decoration
 ---

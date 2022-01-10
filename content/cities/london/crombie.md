@@ -1,5 +1,5 @@
 ---
 title: "Crombie"
 url: /london/crombie/
-shop: Kleidung
+shop: clothes
 ---

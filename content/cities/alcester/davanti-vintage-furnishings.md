@@ -1,5 +1,5 @@
 ---
 title: "Davanti Vintage Furnishings"
 url: /alcester/davanti-vintage-furnishings/
-shop: Antiquitäten
+shop: antiques
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dunelm"
 url: /milton-keynes/dunelm/
-shop: Raumausstattung
+shop: interior decoration
 ---

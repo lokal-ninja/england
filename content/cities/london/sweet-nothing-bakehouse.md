@@ -1,5 +1,5 @@
 ---
 title: "Sweet Nothing Bakehouse"
 url: /london/sweet-nothing-bakehouse/
-shop: Bäckerei
+shop: bakery
 ---

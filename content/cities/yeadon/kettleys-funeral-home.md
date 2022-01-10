@@ -1,5 +1,5 @@
 ---
 title: "Kettleys Funeral Home"
 url: /yeadon/kettleys-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

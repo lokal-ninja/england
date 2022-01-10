@@ -1,5 +1,5 @@
 ---
 title: "Global Care"
 url: /kenilworth/global-care/
-shop: Gebrauchtwaren
+shop: charity
 ---

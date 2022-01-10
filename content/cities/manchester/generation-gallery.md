@@ -1,5 +1,5 @@
 ---
 title: "Generation Gallery"
 url: /manchester/generation-gallery/
-shop: Kunst
+shop: art
 ---

@@ -1,5 +1,5 @@
 ---
 title: "One Stop"
 url: /minehead/one-stop/
-shop: Lebensmittel
+shop: convenience
 ---

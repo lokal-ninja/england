@@ -1,5 +1,5 @@
 ---
 title: "Paul David"
 url: /darlington/paul-david/
-shop: Friseur
+shop: hairdresser
 ---

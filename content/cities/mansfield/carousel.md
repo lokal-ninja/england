@@ -1,5 +1,5 @@
 ---
 title: "Carousel"
 url: /mansfield/carousel/
-shop: Süßwaren
+shop: confectionery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Oxfam"
 url: /haywards-heath/oxfam/
-shop: Gebrauchtwaren
+shop: charity
 ---

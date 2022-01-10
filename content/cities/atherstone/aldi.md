@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /atherstone/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

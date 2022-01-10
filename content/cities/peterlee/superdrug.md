@@ -1,5 +1,5 @@
 ---
 title: "Superdrug"
 url: /peterlee/superdrug/
-shop: Drogerie
+shop: chemist
 ---

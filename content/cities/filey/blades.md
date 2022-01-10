@@ -1,5 +1,5 @@
 ---
 title: "Blades"
 url: /filey/blades/
-shop: Friseur
+shop: hairdresser
 ---

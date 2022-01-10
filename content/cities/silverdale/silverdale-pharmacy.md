@@ -1,5 +1,5 @@
 ---
 title: "Silverdale Pharmacy"
 url: /silverdale/silverdale-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

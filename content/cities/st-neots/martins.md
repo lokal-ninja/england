@@ -1,5 +1,5 @@
 ---
 title: "Martin's"
 url: /st-neots/martins/
-shop: Zeitungen
+shop: newsagent
 ---

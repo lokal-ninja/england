@@ -1,5 +1,5 @@
 ---
 title: "Abraham's Jewellers"
 url: /yate/abrahams-jewellers/
-shop: Schmuck
+shop: jewelry
 ---

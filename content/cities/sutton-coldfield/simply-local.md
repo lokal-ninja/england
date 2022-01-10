@@ -1,5 +1,5 @@
 ---
 title: "Simply Local"
 url: /sutton-coldfield/simply-local/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Boyatt News"
 url: /eastleigh/boyatt-news/
-shop: Zeitungen
+shop: newsagent
 ---

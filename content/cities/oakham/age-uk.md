@@ -1,5 +1,5 @@
 ---
 title: "Age UK"
 url: /oakham/age-uk/
-shop: Gebrauchtwaren
+shop: charity
 ---

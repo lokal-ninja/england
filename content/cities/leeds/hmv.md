@@ -1,5 +1,5 @@
 ---
 title: "HMV"
 url: /leeds/hmv/
-shop: Allgemein
+shop: shop
 ---

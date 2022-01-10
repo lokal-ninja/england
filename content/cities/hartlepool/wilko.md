@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
 url: /hartlepool/wilko/
-shop: Kramladen
+shop: variety store
 ---

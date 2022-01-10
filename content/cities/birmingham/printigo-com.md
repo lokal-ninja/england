@@ -1,5 +1,5 @@
 ---
 title: "Printigo.com"
 url: /birmingham/printigo-com/
-shop: Kopieren
+shop: copyshop
 ---

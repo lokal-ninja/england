@@ -1,5 +1,5 @@
 ---
 title: "Bertwistle's Bakery"
 url: /padiham/bertwistles-bakery/
-shop: Bäckerei
+shop: bakery
 ---

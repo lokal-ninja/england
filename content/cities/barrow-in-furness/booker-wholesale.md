@@ -1,5 +1,5 @@
 ---
 title: "Booker Wholesale"
 url: /barrow-in-furness/booker-wholesale/
-shop: Großhandel
+shop: wholesale
 ---

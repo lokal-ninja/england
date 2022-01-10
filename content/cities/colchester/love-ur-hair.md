@@ -1,5 +1,5 @@
 ---
 title: "Love Ur Hair"
 url: /colchester/love-ur-hair/
-shop: Friseur
+shop: hairdresser
 ---

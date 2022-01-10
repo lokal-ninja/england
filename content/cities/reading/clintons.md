@@ -1,5 +1,5 @@
 ---
 title: "Clintons"
 url: /reading/clintons/
-shop: Andenken
+shop: gift
 ---

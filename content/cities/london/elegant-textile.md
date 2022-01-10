@@ -1,5 +1,5 @@
 ---
 title: "Elegant Textile"
 url: /london/elegant-textile/
-shop: Textil
+shop: fabric
 ---

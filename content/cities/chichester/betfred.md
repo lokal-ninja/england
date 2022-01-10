@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /chichester/betfred/
-shop: Wettbüro
+shop: bookmaker
 ---

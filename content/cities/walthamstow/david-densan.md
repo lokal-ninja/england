@@ -1,5 +1,5 @@
 ---
 title: "David Densan"
 url: /walthamstow/david-densan/
-shop: Lebensmittel
+shop: convenience
 ---

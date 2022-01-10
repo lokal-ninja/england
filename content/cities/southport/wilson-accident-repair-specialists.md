@@ -1,5 +1,5 @@
 ---
 title: "Wilson Accident Repair Specialists"
 url: /southport/wilson-accident-repair-specialists/
-shop: Autowerkstatt
+shop: car repair
 ---

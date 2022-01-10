@@ -1,5 +1,5 @@
 ---
 title: "VolksWizard"
 url: /hollywood/volkswizard/
-shop: Autowerkstatt
+shop: car repair
 ---

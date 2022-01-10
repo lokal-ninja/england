@@ -1,5 +1,5 @@
 ---
 title: "Sayers"
 url: /west-kirby/sayers/
-shop: Bäckerei
+shop: bakery
 ---

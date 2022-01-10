@@ -1,5 +1,5 @@
 ---
 title: "Inspirations"
 url: /workington/inspirations/
-shop: Blumen
+shop: florist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gallery Cow"
 url: /east-cowes/gallery-cow/
-shop: Raumausstattung
+shop: interior decoration
 ---

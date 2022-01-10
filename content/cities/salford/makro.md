@@ -1,5 +1,5 @@
 ---
 title: "Makro"
 url: /salford/makro/
-shop: Großhandel
+shop: wholesale
 ---

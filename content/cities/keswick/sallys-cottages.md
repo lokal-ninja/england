@@ -1,5 +1,5 @@
 ---
 title: "Sallys Cottages"
 url: /keswick/sallys-cottages/
-shop: Reisebüro
+shop: travel agency
 ---

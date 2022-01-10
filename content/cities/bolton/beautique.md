@@ -1,5 +1,5 @@
 ---
 title: "Beautique"
 url: /bolton/beautique/
-shop: Friseur
+shop: hairdresser
 ---

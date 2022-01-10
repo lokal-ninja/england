@@ -1,5 +1,5 @@
 ---
 title: "Amesbury Autocare"
 url: /amesbury/amesbury-autocare/
-shop: Autowerkstatt
+shop: car repair
 ---

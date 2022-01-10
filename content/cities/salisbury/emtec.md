@@ -1,5 +1,5 @@
 ---
 title: "Emtec"
 url: /salisbury/emtec/
-shop: Autowerkstatt
+shop: car repair
 ---

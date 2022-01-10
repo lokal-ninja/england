@@ -1,5 +1,5 @@
 ---
 title: "Wade Brothers"
 url: /sheffield/wade-brothers/
-shop: Metzgerei
+shop: butcher
 ---

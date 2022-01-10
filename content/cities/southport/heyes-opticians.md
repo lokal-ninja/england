@@ -1,5 +1,5 @@
 ---
 title: "Heyes Opticians"
 url: /southport/heyes-opticians/
-shop: Optiker
+shop: optician
 ---

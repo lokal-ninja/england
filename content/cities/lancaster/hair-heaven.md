@@ -1,5 +1,5 @@
 ---
 title: "Hair Heaven"
 url: /lancaster/hair-heaven/
-shop: Friseur
+shop: hairdresser
 ---

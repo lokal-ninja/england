@@ -1,5 +1,5 @@
 ---
 title: "Spend + Save"
 url: /northfleet/spend-save/
-shop: Lebensmittel
+shop: convenience
 ---

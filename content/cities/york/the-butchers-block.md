@@ -1,5 +1,5 @@
 ---
 title: "The Butcher's Block"
 url: /york/the-butchers-block/
-shop: Metzgerei
+shop: butcher
 ---

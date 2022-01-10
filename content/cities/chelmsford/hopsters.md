@@ -1,5 +1,5 @@
 ---
 title: "Hopsters"
 url: /chelmsford/hopsters/
-shop: Spirituosen
+shop: alcohol
 ---

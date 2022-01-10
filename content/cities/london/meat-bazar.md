@@ -1,5 +1,5 @@
 ---
 title: "Meat Bazar"
 url: /london/meat-bazar/
-shop: Metzgerei
+shop: butcher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chinese Healthcare"
 url: /northampton/chinese-healthcare/
-shop: Drogerie
+shop: chemist
 ---

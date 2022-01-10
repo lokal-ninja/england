@@ -1,5 +1,5 @@
 ---
 title: "Kollos Supermarket"
 url: /london/kollos-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

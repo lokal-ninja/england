@@ -1,5 +1,5 @@
 ---
 title: "J. Scott"
 url: /whitley-bay/j-scott/
-shop: Bäckerei
+shop: bakery
 ---

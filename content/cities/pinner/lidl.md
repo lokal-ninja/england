@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /pinner/lidl/
-shop: Supermarkt
+shop: supermarket
 ---

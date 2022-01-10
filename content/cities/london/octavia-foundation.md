@@ -1,5 +1,5 @@
 ---
 title: "Octavia Foundation"
 url: /london/octavia-foundation/
-shop: Gebrauchtwaren
+shop: charity
 ---

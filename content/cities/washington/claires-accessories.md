@@ -1,5 +1,5 @@
 ---
 title: "Claire's Accessories"
 url: /washington/claires-accessories/
-shop: Allgemein
+shop: shop
 ---

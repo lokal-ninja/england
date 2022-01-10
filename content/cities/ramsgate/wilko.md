@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
 url: /ramsgate/wilko/
-shop: Kramladen
+shop: variety store
 ---

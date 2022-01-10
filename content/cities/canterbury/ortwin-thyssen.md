@@ -1,5 +1,5 @@
 ---
 title: "Ortwin Thyssen"
 url: /canterbury/ortwin-thyssen/
-shop: Allgemein
+shop: shop
 ---

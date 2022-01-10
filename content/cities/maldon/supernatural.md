@@ -1,5 +1,5 @@
 ---
 title: "Supernatural"
 url: /maldon/supernatural/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /hastings/whsmith/
-shop: Zeitungen
+shop: newsagent
 ---

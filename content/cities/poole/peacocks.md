@@ -1,5 +1,5 @@
 ---
 title: "Peacocks"
 url: /poole/peacocks/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Perrys"
 url: /blackburn/perrys/
-shop: Autohaus
+shop: car
 ---

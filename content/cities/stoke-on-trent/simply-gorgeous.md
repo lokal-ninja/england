@@ -1,5 +1,5 @@
 ---
 title: "Simply Gorgeous"
 url: /stoke-on-trent/simply-gorgeous/
-shop: Kosmetik
+shop: beauty
 ---

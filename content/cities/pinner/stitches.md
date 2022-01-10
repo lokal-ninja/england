@@ -1,5 +1,5 @@
 ---
 title: "Stitches"
 url: /pinner/stitches/
-shop: Schneiderei
+shop: tailor
 ---

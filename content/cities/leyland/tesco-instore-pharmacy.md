@@ -1,5 +1,5 @@
 ---
 title: "Tesco Instore Pharmacy"
 url: /leyland/tesco-instore-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

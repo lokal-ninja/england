@@ -1,5 +1,5 @@
 ---
 title: "The Cycleway"
 url: /london/the-cycleway/
-shop: Fahrrad
+shop: bicycle
 ---

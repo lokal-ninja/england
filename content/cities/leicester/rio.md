@@ -1,5 +1,5 @@
 ---
 title: "Rio"
 url: /leicester/rio/
-shop: Friseur
+shop: hairdresser
 ---

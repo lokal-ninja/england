@@ -1,5 +1,5 @@
 ---
 title: "Middletons"
 url: /haywards-heath/middletons/
-shop: Metzgerei
+shop: butcher
 ---

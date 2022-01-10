@@ -1,5 +1,5 @@
 ---
 title: "Flame Ltd"
 url: /kings-langley/flame-ltd/
-shop: Computer
+shop: computer
 ---

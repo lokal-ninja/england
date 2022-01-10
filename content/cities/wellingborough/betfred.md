@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /wellingborough/betfred/
-shop: Wettbüro
+shop: bookmaker
 ---

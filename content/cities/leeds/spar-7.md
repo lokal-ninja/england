@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /leeds/spar-7/
-shop: Lebensmittel
+shop: convenience
 ---

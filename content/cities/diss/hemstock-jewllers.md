@@ -1,5 +1,5 @@
 ---
 title: "Hemstock Jewllers"
 url: /diss/hemstock-jewllers/
-shop: Schmuck
+shop: jewelry
 ---

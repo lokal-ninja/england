@@ -1,5 +1,5 @@
 ---
 title: "The Dog Spot"
 url: /lancaster/the-dog-spot/
-shop: Tiersalon
+shop: pet grooming
 ---

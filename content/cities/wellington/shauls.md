@@ -1,5 +1,5 @@
 ---
 title: "Shauls"
 url: /wellington/shauls/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mod One"
 url: /norwich/mod-one/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "iBuy"
 url: /london/ibuy/
-shop: Handy
+shop: mobile phone
 ---

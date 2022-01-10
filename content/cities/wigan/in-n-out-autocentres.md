@@ -1,5 +1,5 @@
 ---
 title: "In 'N' Out Autocentres"
 url: /wigan/in-n-out-autocentres/
-shop: Autowerkstatt
+shop: car repair
 ---

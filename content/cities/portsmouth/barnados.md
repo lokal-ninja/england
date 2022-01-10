@@ -1,5 +1,5 @@
 ---
 title: "Barnado's"
 url: /portsmouth/barnados/
-shop: Gebrauchtwaren
+shop: charity
 ---

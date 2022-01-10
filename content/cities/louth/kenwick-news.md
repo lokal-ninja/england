@@ -1,5 +1,5 @@
 ---
 title: "Kenwick News"
 url: /louth/kenwick-news/
-shop: Lebensmittel
+shop: convenience
 ---

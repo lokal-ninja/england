@@ -1,5 +1,5 @@
 ---
 title: "The Laundry Company"
 url: /morecambe/the-laundry-company/
-shop: Wäscherei
+shop: laundry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dtails"
 url: /devizes/dtails/
-shop: Tiersalon
+shop: pet grooming
 ---

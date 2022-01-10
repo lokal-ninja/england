@@ -1,5 +1,5 @@
 ---
 title: "Magnolia"
 url: /norwich/magnolia/
-shop: Schmuck
+shop: jewelry
 ---

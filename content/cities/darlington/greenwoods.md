@@ -1,5 +1,5 @@
 ---
 title: "Greenwoods"
 url: /darlington/greenwoods/
-shop: Kleidung
+shop: clothes
 ---

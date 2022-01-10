@@ -1,5 +1,5 @@
 ---
 title: "McGloin's"
 url: /manchester/mcgloins/
-shop: Metzgerei
+shop: butcher
 ---

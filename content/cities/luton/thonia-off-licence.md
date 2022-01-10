@@ -1,5 +1,5 @@
 ---
 title: "Thonia Off Licence"
 url: /luton/thonia-off-licence/
-shop: Lebensmittel
+shop: convenience
 ---

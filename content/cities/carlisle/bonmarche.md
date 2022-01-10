@@ -1,5 +1,5 @@
 ---
 title: "Bonmarché"
 url: /carlisle/bonmarche/
-shop: Kleidung
+shop: clothes
 ---

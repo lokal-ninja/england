@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /kettering/costcutter/
-shop: Lebensmittel
+shop: convenience
 ---

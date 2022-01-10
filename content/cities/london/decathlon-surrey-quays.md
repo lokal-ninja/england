@@ -1,5 +1,5 @@
 ---
 title: "Decathlon Surrey Quays"
 url: /london/decathlon-surrey-quays/
-shop: Sport
+shop: sports
 ---

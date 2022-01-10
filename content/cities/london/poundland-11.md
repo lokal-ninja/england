@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /london/poundland-11/
-shop: Kramladen
+shop: variety store
 ---

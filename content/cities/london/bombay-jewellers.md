@@ -1,5 +1,5 @@
 ---
 title: "Bombay Jewellers"
 url: /london/bombay-jewellers/
-shop: Schmuck
+shop: jewelry
 ---

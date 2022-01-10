@@ -1,5 +1,5 @@
 ---
 title: "Airsoft Zone"
 url: /romford/airsoft-zone/
-shop: Allgemein
+shop: shop
 ---

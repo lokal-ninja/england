@@ -1,5 +1,5 @@
 ---
 title: "North Shoes"
 url: /lincoln/north-shoes/
-shop: Schuhe
+shop: shoes
 ---

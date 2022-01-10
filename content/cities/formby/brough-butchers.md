@@ -1,5 +1,5 @@
 ---
 title: "Brough Butchers"
 url: /formby/brough-butchers/
-shop: Metzgerei
+shop: butcher
 ---

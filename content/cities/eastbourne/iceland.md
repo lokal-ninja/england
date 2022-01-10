@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /eastbourne/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Khan Outlet"
 url: /derby/khan-outlet/
-shop: Kramladen
+shop: variety store
 ---

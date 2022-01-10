@@ -1,5 +1,5 @@
 ---
 title: "Derwentside Carpets"
 url: /consett/derwentside-carpets/
-shop: Teppiche
+shop: carpet
 ---

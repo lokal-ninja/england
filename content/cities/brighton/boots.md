@@ -1,5 +1,5 @@
 ---
 title: "Boots"
 url: /brighton/boots/
-shop: Drogerie
+shop: chemist
 ---

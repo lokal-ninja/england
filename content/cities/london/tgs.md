@@ -1,5 +1,5 @@
 ---
 title: "TGS"
 url: /london/tgs/
-shop: Leiher
+shop: pawnbroker
 ---

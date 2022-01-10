@@ -1,5 +1,5 @@
 ---
 title: "Sunderland Computer Repairs"
 url: /sunderland/sunderland-computer-repairs/
-shop: Computer
+shop: computer
 ---

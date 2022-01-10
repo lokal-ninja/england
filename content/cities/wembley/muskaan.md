@@ -1,5 +1,5 @@
 ---
 title: "MuskAAn"
 url: /wembley/muskaan/
-shop: Kosmetik
+shop: beauty
 ---

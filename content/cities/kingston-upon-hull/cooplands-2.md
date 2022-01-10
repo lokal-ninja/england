@@ -1,5 +1,5 @@
 ---
 title: "Cooplands"
 url: /kingston-upon-hull/cooplands-2/
-shop: Bäckerei
+shop: bakery
 ---

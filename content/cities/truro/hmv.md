@@ -1,5 +1,5 @@
 ---
 title: "HMV"
 url: /truro/hmv/
-shop: Musik
+shop: music
 ---

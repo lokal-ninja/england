@@ -1,5 +1,5 @@
 ---
 title: "Post Office Stores"
 url: /gt-yarmouth/post-office-stores/
-shop: Lebensmittel
+shop: convenience
 ---

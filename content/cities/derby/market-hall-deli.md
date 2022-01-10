@@ -1,5 +1,5 @@
 ---
 title: "Market Hall Deli"
 url: /derby/market-hall-deli/
-shop: Feinkost
+shop: deli
 ---

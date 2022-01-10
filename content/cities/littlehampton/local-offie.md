@@ -1,5 +1,5 @@
 ---
 title: "Local Offie"
 url: /littlehampton/local-offie/
-shop: Lebensmittel
+shop: convenience
 ---

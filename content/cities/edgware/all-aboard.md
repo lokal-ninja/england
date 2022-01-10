@@ -1,5 +1,5 @@
 ---
 title: "All Aboard"
 url: /edgware/all-aboard/
-shop: Gebrauchtwaren
+shop: charity
 ---

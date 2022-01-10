@@ -1,5 +1,5 @@
 ---
 title: "Glencoe Garage"
 url: /rowlands-gill/glencoe-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

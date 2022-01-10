@@ -1,5 +1,5 @@
 ---
 title: "Saltaire Wines"
 url: /shipley/saltaire-wines/
-shop: Spirituosen
+shop: alcohol
 ---

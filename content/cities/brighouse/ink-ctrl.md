@@ -1,5 +1,5 @@
 ---
 title: "Ink Ctrl"
 url: /brighouse/ink-ctrl/
-shop: Kopieren
+shop: copyshop
 ---

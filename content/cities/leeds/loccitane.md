@@ -1,5 +1,5 @@
 ---
 title: "L'Occitane"
 url: /leeds/loccitane/
-shop: Kosmetik
+shop: beauty
 ---

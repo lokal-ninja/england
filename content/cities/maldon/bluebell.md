@@ -1,5 +1,5 @@
 ---
 title: "Bluebell"
 url: /maldon/bluebell/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hayles"
 url: /london/hayles/
-shop: Antiquitäten
+shop: antiques
 ---

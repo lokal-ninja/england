@@ -1,5 +1,5 @@
 ---
 title: "Snobs"
 url: /feltham/snobs/
-shop: Allgemein
+shop: shop
 ---

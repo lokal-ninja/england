@@ -1,5 +1,5 @@
 ---
 title: "The Fig Derby"
 url: /derby/the-fig-derby/
-shop: Lebensmittel
+shop: convenience
 ---

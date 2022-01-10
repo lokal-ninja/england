@@ -1,5 +1,5 @@
 ---
 title: "Pandora"
 url: /grays/pandora/
-shop: Schmuck
+shop: jewelry
 ---

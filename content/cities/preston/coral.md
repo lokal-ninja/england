@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /preston/coral/
-shop: Wettbüro
+shop: bookmaker
 ---

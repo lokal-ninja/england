@@ -1,5 +1,5 @@
 ---
 title: "John Harrison Sports"
 url: /leyland/john-harrison-sports/
-shop: Sport
+shop: sports
 ---

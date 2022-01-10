@@ -1,5 +1,5 @@
 ---
 title: "Crusties"
 url: /kent/crusties/
-shop: Bäckerei
+shop: bakery
 ---

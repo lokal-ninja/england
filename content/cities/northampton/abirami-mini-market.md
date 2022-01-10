@@ -1,5 +1,5 @@
 ---
 title: "Abirami Mini Market"
 url: /northampton/abirami-mini-market/
-shop: Lebensmittel
+shop: convenience
 ---

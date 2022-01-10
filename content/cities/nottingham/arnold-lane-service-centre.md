@@ -1,5 +1,5 @@
 ---
 title: "Arnold Lane Service Centre"
 url: /nottingham/arnold-lane-service-centre/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Audio Republic"
 url: /leeds/audio-republic/
-shop: Elektronik
+shop: electronics
 ---

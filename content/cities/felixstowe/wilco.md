@@ -1,5 +1,5 @@
 ---
 title: "Wilco"
 url: /felixstowe/wilco/
-shop: Autoteile
+shop: car parts
 ---

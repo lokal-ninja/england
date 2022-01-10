@@ -1,5 +1,5 @@
 ---
 title: "City Flowers"
 url: /nottingham/city-flowers/
-shop: Blumen
+shop: florist
 ---

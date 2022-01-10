@@ -1,5 +1,5 @@
 ---
 title: "Hays Travel"
 url: /bury-st-edmunds/hays-travel-2/
-shop: Reisebüro
+shop: travel agency
 ---

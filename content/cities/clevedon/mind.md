@@ -1,5 +1,5 @@
 ---
 title: "Mind"
 url: /clevedon/mind/
-shop: Gebrauchtwaren
+shop: charity
 ---

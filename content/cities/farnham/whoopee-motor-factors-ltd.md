@@ -1,5 +1,5 @@
 ---
 title: "Whoopee Motor Factors Ltd"
 url: /farnham/whoopee-motor-factors-ltd/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Maranello Cars"
 url: /nottingham/maranello-cars/
-shop: Autohaus
+shop: car
 ---

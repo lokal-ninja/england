@@ -1,5 +1,5 @@
 ---
 title: "Millbank Garage"
 url: /keswick/millbank-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

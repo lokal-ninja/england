@@ -1,5 +1,5 @@
 ---
 title: "Lituanica / Food4U"
 url: /gravesend/lituanica-food4u/
-shop: Lebensmittel
+shop: convenience
 ---

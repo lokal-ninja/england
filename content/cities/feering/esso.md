@@ -1,5 +1,5 @@
 ---
 title: "Esso"
 url: /feering/esso/
-shop: Lebensmittel
+shop: convenience
 ---

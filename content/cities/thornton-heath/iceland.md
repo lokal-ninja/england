@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /thornton-heath/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Punjab Mail International"
 url: /london/punjab-mail-international/
-shop: Kopieren
+shop: copyshop
 ---

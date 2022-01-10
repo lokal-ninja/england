@@ -1,5 +1,5 @@
 ---
 title: "Southcotts Pharmacy"
 url: /sidcup/southcotts-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

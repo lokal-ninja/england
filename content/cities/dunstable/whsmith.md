@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /dunstable/whsmith/
-shop: Zeitungen
+shop: newsagent
 ---

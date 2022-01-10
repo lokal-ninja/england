@@ -1,5 +1,5 @@
 ---
 title: "Evermore Tattoo"
 url: /bedford/evermore-tattoo/
-shop: Tattoo
+shop: tattoo
 ---

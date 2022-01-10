@@ -1,5 +1,5 @@
 ---
 title: "Zam Zam Textiles"
 url: /birmingham/zam-zam-textiles/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "StoneWorks"
 url: /london/stoneworks/
-shop: Baustoffe
+shop: trade
 ---

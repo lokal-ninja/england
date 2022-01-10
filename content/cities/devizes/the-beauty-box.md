@@ -1,5 +1,5 @@
 ---
 title: "The Beauty Box"
 url: /devizes/the-beauty-box/
-shop: Kosmetik
+shop: beauty
 ---

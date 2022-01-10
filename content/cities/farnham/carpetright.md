@@ -1,5 +1,5 @@
 ---
 title: "Carpetright"
 url: /farnham/carpetright/
-shop: Teppiche
+shop: carpet
 ---

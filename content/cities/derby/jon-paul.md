@@ -1,5 +1,5 @@
 ---
 title: "Jon Paul"
 url: /derby/jon-paul/
-shop: Kleidung
+shop: clothes
 ---

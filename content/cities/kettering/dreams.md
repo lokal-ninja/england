@@ -1,5 +1,5 @@
 ---
 title: "Dreams"
 url: /kettering/dreams/
-shop: Betten
+shop: bed
 ---

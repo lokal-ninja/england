@@ -1,5 +1,5 @@
 ---
 title: "Ecora"
 url: /london/ecora/
-shop: Allgemein
+shop: shop
 ---

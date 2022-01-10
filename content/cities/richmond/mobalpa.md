@@ -1,5 +1,5 @@
 ---
 title: "Mobalpa"
 url: /richmond/mobalpa/
-shop: Küchen
+shop: kitchen
 ---

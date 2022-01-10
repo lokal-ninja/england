@@ -1,5 +1,5 @@
 ---
 title: "michaels"
 url: /colchester/michaels/
-shop: Immobilien
+shop: estate agent
 ---

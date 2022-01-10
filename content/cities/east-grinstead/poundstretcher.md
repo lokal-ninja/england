@@ -1,5 +1,5 @@
 ---
 title: "Poundstretcher"
 url: /east-grinstead/poundstretcher/
-shop: Kramladen
+shop: variety store
 ---

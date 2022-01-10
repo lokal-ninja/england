@@ -1,5 +1,5 @@
 ---
 title: "Mace"
 url: /sidcup/mace/
-shop: Lebensmittel
+shop: convenience
 ---

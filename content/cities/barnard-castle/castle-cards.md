@@ -1,5 +1,5 @@
 ---
 title: "Castle Cards"
 url: /barnard-castle/castle-cards/
-shop: Schreibwaren
+shop: office supplies
 ---

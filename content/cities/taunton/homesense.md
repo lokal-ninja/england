@@ -1,5 +1,5 @@
 ---
 title: "HomeSense"
 url: /taunton/homesense/
-shop: Raumausstattung
+shop: interior decoration
 ---

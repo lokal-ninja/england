@@ -1,5 +1,5 @@
 ---
 title: "Chambers - Ford"
 url: /sutton-coldfield/chambers-ford/
-shop: Autohaus
+shop: car
 ---

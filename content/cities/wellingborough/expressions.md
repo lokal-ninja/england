@@ -1,5 +1,5 @@
 ---
 title: "Expressions"
 url: /wellingborough/expressions/
-shop: Kosmetik
+shop: beauty
 ---

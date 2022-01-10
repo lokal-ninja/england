@@ -1,5 +1,5 @@
 ---
 title: "Premier Stores"
 url: /leicester/premier-stores/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /washington/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

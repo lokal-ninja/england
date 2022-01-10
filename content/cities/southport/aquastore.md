@@ -1,5 +1,5 @@
 ---
 title: "Aquastore"
 url: /southport/aquastore/
-shop: Tiere
+shop: pet
 ---

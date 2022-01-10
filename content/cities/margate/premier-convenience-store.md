@@ -1,5 +1,5 @@
 ---
 title: "Premier Convenience Store"
 url: /margate/premier-convenience-store/
-shop: Lebensmittel
+shop: convenience
 ---

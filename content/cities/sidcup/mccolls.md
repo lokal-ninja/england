@@ -1,5 +1,5 @@
 ---
 title: "McColl's"
 url: /sidcup/mccolls/
-shop: Lebensmittel
+shop: convenience
 ---

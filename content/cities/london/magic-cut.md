@@ -1,5 +1,5 @@
 ---
 title: "Magic Cut"
 url: /london/magic-cut/
-shop: Friseur
+shop: hairdresser
 ---

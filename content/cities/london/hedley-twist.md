@@ -1,5 +1,5 @@
 ---
 title: "Hedley Twist"
 url: /london/hedley-twist/
-shop: Friseur
+shop: hairdresser
 ---

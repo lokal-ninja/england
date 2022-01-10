@@ -1,5 +1,5 @@
 ---
 title: "Kuoni"
 url: /solihull/kuoni/
-shop: Reisebüro
+shop: travel agency
 ---

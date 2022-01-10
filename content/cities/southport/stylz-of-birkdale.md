@@ -1,5 +1,5 @@
 ---
 title: "Stylz Of Birkdale"
 url: /southport/stylz-of-birkdale/
-shop: Friseur
+shop: hairdresser
 ---

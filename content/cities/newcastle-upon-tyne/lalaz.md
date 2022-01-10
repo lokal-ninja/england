@@ -1,5 +1,5 @@
 ---
 title: "Lalaz"
 url: /newcastle-upon-tyne/lalaz/
-shop: Warenhaus
+shop: department store
 ---

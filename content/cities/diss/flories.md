@@ -1,5 +1,5 @@
 ---
 title: "Flories"
 url: /diss/flories/
-shop: Kleidung
+shop: clothes
 ---

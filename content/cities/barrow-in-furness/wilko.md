@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
 url: /barrow-in-furness/wilko/
-shop: Kramladen
+shop: variety store
 ---

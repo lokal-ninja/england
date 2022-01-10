@@ -1,5 +1,5 @@
 ---
 title: "Carisma Holidays"
 url: /chorleywood/carisma-holidays/
-shop: Reisebüro
+shop: travel agency
 ---

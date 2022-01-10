@@ -1,5 +1,5 @@
 ---
 title: "The Works"
 url: /dereham/the-works/
-shop: Schreibwaren
+shop: office supplies
 ---

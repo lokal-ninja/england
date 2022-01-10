@@ -1,5 +1,5 @@
 ---
 title: "One Stop"
 url: /reading/one-stop/
-shop: Lebensmittel
+shop: convenience
 ---

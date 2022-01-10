@@ -1,5 +1,5 @@
 ---
 title: "Home Bargains"
 url: /hartlepool/home-bargains/
-shop: Kramladen
+shop: variety store
 ---

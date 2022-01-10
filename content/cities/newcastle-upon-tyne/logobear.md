@@ -1,5 +1,5 @@
 ---
 title: "Logobear"
 url: /newcastle-upon-tyne/logobear/
-shop: Kleidung
+shop: clothes
 ---

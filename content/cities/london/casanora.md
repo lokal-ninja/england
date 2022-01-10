@@ -1,5 +1,5 @@
 ---
 title: "CasaNora"
 url: /london/casanora/
-shop: Raumausstattung
+shop: interior decoration
 ---

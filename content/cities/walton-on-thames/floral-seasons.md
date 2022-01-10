@@ -1,5 +1,5 @@
 ---
 title: "Floral Seasons"
 url: /walton-on-thames/floral-seasons/
-shop: Blumen
+shop: florist
 ---

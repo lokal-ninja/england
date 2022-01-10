@@ -1,5 +1,5 @@
 ---
 title: "Bose"
 url: /manchester/bose/
-shop: Hifi
+shop: hifi
 ---

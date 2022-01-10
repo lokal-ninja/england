@@ -1,5 +1,5 @@
 ---
 title: "Pembroke Road Garage"
 url: /bristol/pembroke-road-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

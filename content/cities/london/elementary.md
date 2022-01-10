@@ -1,5 +1,5 @@
 ---
 title: "Elementary"
 url: /london/elementary/
-shop: Raumausstattung
+shop: interior decoration
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Belle Naturelle"
 url: /sunniside/belle-naturelle/
-shop: Kosmetik
+shop: beauty
 ---

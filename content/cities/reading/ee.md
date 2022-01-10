@@ -1,5 +1,5 @@
 ---
 title: "EE"
 url: /reading/ee/
-shop: Handy
+shop: mobile phone
 ---

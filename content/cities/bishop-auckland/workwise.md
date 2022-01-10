@@ -1,5 +1,5 @@
 ---
 title: "Workwise"
 url: /bishop-auckland/workwise/
-shop: Allgemein
+shop: shop
 ---

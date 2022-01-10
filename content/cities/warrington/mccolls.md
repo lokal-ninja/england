@@ -1,5 +1,5 @@
 ---
 title: "McColl's"
 url: /warrington/mccolls/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mega Fone"
 url: /canterbury/mega-fone/
-shop: Handy
+shop: mobile phone
 ---

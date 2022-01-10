@@ -1,5 +1,5 @@
 ---
 title: "Cornwall Trophies"
 url: /redruth/cornwall-trophies/
-shop: Pokal
+shop: trophy
 ---

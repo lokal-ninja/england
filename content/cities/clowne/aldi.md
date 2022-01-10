@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /clowne/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

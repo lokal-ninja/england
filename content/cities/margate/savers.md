@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /margate/savers/
-shop: Drogerie
+shop: chemist
 ---

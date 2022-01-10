@@ -1,5 +1,5 @@
 ---
 title: "Waitrose"
 url: /oxted/waitrose/
-shop: Supermarkt
+shop: supermarket
 ---

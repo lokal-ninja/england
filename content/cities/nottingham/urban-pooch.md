@@ -1,5 +1,5 @@
 ---
 title: "Urban Pooch"
 url: /nottingham/urban-pooch/
-shop: Tiere
+shop: pet
 ---

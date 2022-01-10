@@ -1,5 +1,5 @@
 ---
 title: "Hayleys Flowers"
 url: /wellington/hayleys-flowers/
-shop: Blumen
+shop: florist
 ---

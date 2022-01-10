@@ -1,5 +1,5 @@
 ---
 title: "Renovations TM"
 url: /london/renovations-tm/
-shop: Allgemein
+shop: shop
 ---

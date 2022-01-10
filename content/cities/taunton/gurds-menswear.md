@@ -1,5 +1,5 @@
 ---
 title: "Gurds Menswear"
 url: /taunton/gurds-menswear/
-shop: Schneiderei
+shop: tailor
 ---

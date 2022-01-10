@@ -1,5 +1,5 @@
 ---
 title: "Neils Superstore"
 url: /leeds/neils-superstore/
-shop: Lebensmittel
+shop: convenience
 ---

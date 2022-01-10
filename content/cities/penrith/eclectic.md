@@ -1,5 +1,5 @@
 ---
 title: "Eclectic"
 url: /penrith/eclectic/
-shop: Antiquitäten
+shop: antiques
 ---

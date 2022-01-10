@@ -1,5 +1,5 @@
 ---
 title: "Burley Off Licence"
 url: /leeds/burley-off-licence/
-shop: Spirituosen
+shop: alcohol
 ---

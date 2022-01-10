@@ -1,5 +1,5 @@
 ---
 title: "A.T. Newsagent"
 url: /london/a-t-newsagent/
-shop: Zeitungen
+shop: newsagent
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Marks And Spencers Express"
 url: /bedford/marks-and-spencers-express/
-shop: Supermarkt
+shop: supermarket
 ---

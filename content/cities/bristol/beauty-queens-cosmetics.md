@@ -1,5 +1,5 @@
 ---
 title: "Beauty Queens Cosmetics"
 url: /bristol/beauty-queens-cosmetics/
-shop: Kosmetik
+shop: beauty
 ---

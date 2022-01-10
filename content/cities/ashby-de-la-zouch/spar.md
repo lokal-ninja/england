@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /ashby-de-la-zouch/spar/
-shop: Lebensmittel
+shop: convenience
 ---

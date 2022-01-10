@@ -1,5 +1,5 @@
 ---
 title: "Boyes"
 url: /bishop-auckland/boyes/
-shop: Kramladen
+shop: variety store
 ---

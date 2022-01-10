@@ -1,5 +1,5 @@
 ---
 title: "TechHouse Accessories"
 url: /romford/techhouse-accessories/
-shop: Handy
+shop: mobile phone
 ---

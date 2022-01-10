@@ -1,5 +1,5 @@
 ---
 title: "Serenity Funeral Directors"
 url: /eastbourne/serenity-funeral-directors/
-shop: Bestattungen
+shop: funeral directors
 ---

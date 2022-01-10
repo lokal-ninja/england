@@ -1,5 +1,5 @@
 ---
 title: "Land Tyre Service"
 url: /banbury/land-tyre-service/
-shop: Autowerkstatt
+shop: car repair
 ---

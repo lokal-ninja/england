@@ -1,5 +1,5 @@
 ---
 title: "Portsmouth Private Shop"
 url: /portsmouth/portsmouth-private-shop/
-shop: Erotik
+shop: erotic
 ---

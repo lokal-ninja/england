@@ -1,5 +1,5 @@
 ---
 title: "The Goldman"
 url: /portsmouth/the-goldman/
-shop: Schmuck
+shop: jewelry
 ---

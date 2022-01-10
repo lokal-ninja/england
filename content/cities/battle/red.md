@@ -1,5 +1,5 @@
 ---
 title: "Red"
 url: /battle/red/
-shop: Friseur
+shop: hairdresser
 ---

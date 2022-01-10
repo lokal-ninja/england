@@ -1,5 +1,5 @@
 ---
 title: "Denby"
 url: /salford-quays/denby/
-shop: Haushaltsartikel
+shop: houseware
 ---

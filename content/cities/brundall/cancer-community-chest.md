@@ -1,5 +1,5 @@
 ---
 title: "Cancer Community Chest"
 url: /brundall/cancer-community-chest/
-shop: Gebrauchtwaren
+shop: charity
 ---

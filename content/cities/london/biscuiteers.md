@@ -1,5 +1,5 @@
 ---
 title: "Biscuiteers"
 url: /london/biscuiteers/
-shop: Bäckerei
+shop: bakery
 ---

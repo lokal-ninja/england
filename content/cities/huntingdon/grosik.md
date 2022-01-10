@@ -1,5 +1,5 @@
 ---
 title: "Grosik"
 url: /huntingdon/grosik/
-shop: Lebensmittel
+shop: convenience
 ---

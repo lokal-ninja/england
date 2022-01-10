@@ -1,5 +1,5 @@
 ---
 title: "Impson Butchers"
 url: /swaffham/impson-butchers/
-shop: Metzgerei
+shop: butcher
 ---

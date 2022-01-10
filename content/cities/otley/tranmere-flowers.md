@@ -1,5 +1,5 @@
 ---
 title: "Tranmere Flowers"
 url: /otley/tranmere-flowers/
-shop: Blumen
+shop: florist
 ---

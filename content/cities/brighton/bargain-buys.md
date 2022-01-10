@@ -1,5 +1,5 @@
 ---
 title: "Bargain Buys"
 url: /brighton/bargain-buys/
-shop: Kramladen
+shop: variety store
 ---

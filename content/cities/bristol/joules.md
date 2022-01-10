@@ -1,5 +1,5 @@
 ---
 title: "Joules"
 url: /bristol/joules/
-shop: Kleidung
+shop: clothes
 ---

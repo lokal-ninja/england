@@ -1,5 +1,5 @@
 ---
 title: "Humbugs"
 url: /whitehaven/humbugs/
-shop: Süßwaren
+shop: confectionery
 ---

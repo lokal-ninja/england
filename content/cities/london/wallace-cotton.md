@@ -1,5 +1,5 @@
 ---
 title: "Wallace Cotton"
 url: /london/wallace-cotton/
-shop: Textil
+shop: fabric
 ---

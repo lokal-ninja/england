@@ -1,5 +1,5 @@
 ---
 title: "Quicksilver"
 url: /darlington/quicksilver/
-shop: Allgemein
+shop: shop
 ---

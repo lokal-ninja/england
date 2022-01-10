@@ -1,5 +1,5 @@
 ---
 title: "Vapestore"
 url: /twickenham/vapestore/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

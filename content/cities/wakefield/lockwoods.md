@@ -1,5 +1,5 @@
 ---
 title: "Lockwoods"
 url: /wakefield/lockwoods/
-shop: Lebensmittel
+shop: convenience
 ---

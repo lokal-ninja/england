@@ -1,5 +1,5 @@
 ---
 title: "Broadway Furniture Centre"
 url: /woking/broadway-furniture-centre/
-shop: Möbel
+shop: furniture
 ---

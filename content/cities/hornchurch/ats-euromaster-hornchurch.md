@@ -1,5 +1,5 @@
 ---
 title: "ATS Euromaster Hornchurch"
 url: /hornchurch/ats-euromaster-hornchurch/
-shop: Autowerkstatt
+shop: car repair
 ---

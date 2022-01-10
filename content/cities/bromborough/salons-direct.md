@@ -1,5 +1,5 @@
 ---
 title: "Salons Direct"
 url: /bromborough/salons-direct/
-shop: Kosmetik
+shop: beauty
 ---

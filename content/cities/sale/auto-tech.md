@@ -1,5 +1,5 @@
 ---
 title: "Auto Tech"
 url: /sale/auto-tech/
-shop: Autowerkstatt
+shop: car repair
 ---

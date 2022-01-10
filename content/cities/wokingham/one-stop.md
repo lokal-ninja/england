@@ -1,5 +1,5 @@
 ---
 title: "One Stop"
 url: /wokingham/one-stop/
-shop: Lebensmittel
+shop: convenience
 ---

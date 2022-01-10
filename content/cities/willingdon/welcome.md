@@ -1,5 +1,5 @@
 ---
 title: "Welcome"
 url: /willingdon/welcome/
-shop: Lebensmittel
+shop: convenience
 ---

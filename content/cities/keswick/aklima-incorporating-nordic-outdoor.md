@@ -1,5 +1,5 @@
 ---
 title: "Aklima Incorporating Nordic Outdoor"
 url: /keswick/aklima-incorporating-nordic-outdoor/
-shop: Outdoor
+shop: outdoor
 ---

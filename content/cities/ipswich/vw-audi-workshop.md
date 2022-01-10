@@ -1,5 +1,5 @@
 ---
 title: "VW Audi Workshop"
 url: /ipswich/vw-audi-workshop/
-shop: Autowerkstatt
+shop: car repair
 ---

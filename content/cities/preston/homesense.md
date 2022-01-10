@@ -1,5 +1,5 @@
 ---
 title: "HomeSense"
 url: /preston/homesense/
-shop: Raumausstattung
+shop: interior decoration
 ---

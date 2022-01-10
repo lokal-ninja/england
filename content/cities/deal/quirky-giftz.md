@@ -1,5 +1,5 @@
 ---
 title: "Quirky Giftz"
 url: /deal/quirky-giftz/
-shop: Andenken
+shop: gift
 ---

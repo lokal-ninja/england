@@ -1,5 +1,5 @@
 ---
 title: "Belvoir"
 url: /chelmsford/belvoir/
-shop: Immobilien
+shop: estate agent
 ---

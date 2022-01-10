@@ -1,5 +1,5 @@
 ---
 title: "Moss"
 url: /bristol/moss/
-shop: Autoteile
+shop: car parts
 ---

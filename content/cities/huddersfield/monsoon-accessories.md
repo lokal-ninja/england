@@ -1,5 +1,5 @@
 ---
 title: "Monsoon Accessories"
 url: /huddersfield/monsoon-accessories/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Alvaston News"
 url: /derby/alvaston-news/
-shop: Zeitungen
+shop: newsagent
 ---

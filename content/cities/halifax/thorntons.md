@@ -1,5 +1,5 @@
 ---
 title: "Thorntons"
 url: /halifax/thorntons/
-shop: Süßwaren
+shop: confectionery
 ---

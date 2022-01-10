@@ -1,5 +1,5 @@
 ---
 title: "HairTopia"
 url: /purley/hairtopia/
-shop: Friseur
+shop: hairdresser
 ---

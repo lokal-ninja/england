@@ -1,5 +1,5 @@
 ---
 title: "Boston Supermarket"
 url: /boston/boston-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

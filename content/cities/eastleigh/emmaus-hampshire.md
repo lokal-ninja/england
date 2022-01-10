@@ -1,5 +1,5 @@
 ---
 title: "Emmaus Hampshire"
 url: /eastleigh/emmaus-hampshire/
-shop: Gebrauchtwaren
+shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Menkind"
 url: /northampton/menkind/
-shop: Spielzeug
+shop: toys
 ---

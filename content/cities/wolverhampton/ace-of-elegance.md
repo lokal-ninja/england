@@ -1,5 +1,5 @@
 ---
 title: "Ace of Elegance"
 url: /wolverhampton/ace-of-elegance/
-shop: Tattoo
+shop: tattoo
 ---

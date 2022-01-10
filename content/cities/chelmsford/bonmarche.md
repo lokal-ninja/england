@@ -1,5 +1,5 @@
 ---
 title: "Bonmarché"
 url: /chelmsford/bonmarche/
-shop: Kleidung
+shop: clothes
 ---

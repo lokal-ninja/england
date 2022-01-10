@@ -1,5 +1,5 @@
 ---
 title: "Quayside News"
 url: /newcastle-upon-tyne/quayside-news/
-shop: Zeitungen
+shop: newsagent
 ---

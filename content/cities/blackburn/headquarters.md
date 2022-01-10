@@ -1,5 +1,5 @@
 ---
 title: "Headquarters"
 url: /blackburn/headquarters/
-shop: Friseur
+shop: hairdresser
 ---

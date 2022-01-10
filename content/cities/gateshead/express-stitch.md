@@ -1,5 +1,5 @@
 ---
 title: "Express Stitch"
 url: /gateshead/express-stitch/
-shop: Schneiderei
+shop: tailor
 ---

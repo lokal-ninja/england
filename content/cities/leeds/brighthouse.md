@@ -1,5 +1,5 @@
 ---
 title: "BrightHouse"
 url: /leeds/brighthouse/
-shop: Warenhaus
+shop: department store
 ---

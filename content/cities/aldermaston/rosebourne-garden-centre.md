@@ -1,5 +1,5 @@
 ---
 title: "Rosebourne Garden Centre"
 url: /aldermaston/rosebourne-garden-centre/
-shop: Garten-Center
+shop: garden centre
 ---

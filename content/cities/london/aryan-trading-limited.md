@@ -1,5 +1,5 @@
 ---
 title: "Aryan Trading Limited"
 url: /london/aryan-trading-limited/
-shop: Reisebüro
+shop: travel agency
 ---

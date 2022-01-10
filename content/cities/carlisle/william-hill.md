@@ -1,5 +1,5 @@
 ---
 title: "William Hill"
 url: /carlisle/william-hill/
-shop: Wettbüro
+shop: bookmaker
 ---

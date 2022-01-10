@@ -1,5 +1,5 @@
 ---
 title: "Mobile Elements"
 url: /chester-le-street/mobile-elements/
-shop: Handy
+shop: mobile phone
 ---

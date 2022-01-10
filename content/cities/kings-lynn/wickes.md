@@ -1,5 +1,5 @@
 ---
 title: "Wickes"
 url: /kings-lynn/wickes/
-shop: Baumarkt
+shop: doityourself
 ---

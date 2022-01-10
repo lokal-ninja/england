@@ -1,5 +1,5 @@
 ---
 title: "Warhammer"
 url: /canterbury/warhammer/
-shop: Spiele
+shop: games
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mistreful"
 url: /london/mistreful/
-shop: Lebensmittel
+shop: convenience
 ---

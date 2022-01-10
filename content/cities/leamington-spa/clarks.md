@@ -1,5 +1,5 @@
 ---
 title: "Clarks"
 url: /leamington-spa/clarks/
-shop: Schuhe
+shop: shoes
 ---

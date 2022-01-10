@@ -1,5 +1,5 @@
 ---
 title: "Specsavers"
 url: /felixstowe/specsavers/
-shop: Optiker
+shop: optician
 ---

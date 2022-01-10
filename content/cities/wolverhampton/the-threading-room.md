@@ -1,5 +1,5 @@
 ---
 title: "The Threading Room"
 url: /wolverhampton/the-threading-room/
-shop: Kosmetik
+shop: beauty
 ---

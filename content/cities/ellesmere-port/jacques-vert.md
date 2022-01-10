@@ -1,5 +1,5 @@
 ---
 title: "Jacques Vert"
 url: /ellesmere-port/jacques-vert/
-shop: Kleidung
+shop: clothes
 ---

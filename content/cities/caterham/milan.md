@@ -1,5 +1,5 @@
 ---
 title: "Milan"
 url: /caterham/milan/
-shop: Kleidung
+shop: clothes
 ---

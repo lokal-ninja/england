@@ -1,5 +1,5 @@
 ---
 title: "Perfect Fashion Ltd"
 url: /london/perfect-fashion-ltd/
-shop: Kleidung
+shop: clothes
 ---

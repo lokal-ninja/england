@@ -1,5 +1,5 @@
 ---
 title: "Bromyard Tyes"
 url: /bromyard/bromyard-tyes/
-shop: Autowerkstatt
+shop: car repair
 ---

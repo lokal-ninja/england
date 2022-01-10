@@ -1,5 +1,5 @@
 ---
 title: "The Antiques Man"
 url: /southport/the-antiques-man/
-shop: Antiquitäten
+shop: antiques
 ---

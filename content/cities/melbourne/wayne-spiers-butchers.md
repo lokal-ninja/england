@@ -1,5 +1,5 @@
 ---
 title: "Wayne Spiers Butchers"
 url: /melbourne/wayne-spiers-butchers/
-shop: Metzgerei
+shop: butcher
 ---

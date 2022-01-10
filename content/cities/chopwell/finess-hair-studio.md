@@ -1,5 +1,5 @@
 ---
 title: "Finess Hair Studio"
 url: /chopwell/finess-hair-studio/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Charlton's Florist"
 url: /crook/charltons-florist/
-shop: Blumen
+shop: florist
 ---

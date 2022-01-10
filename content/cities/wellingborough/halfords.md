@@ -1,5 +1,5 @@
 ---
 title: "Halfords"
 url: /wellingborough/halfords/
-shop: Autoteile
+shop: car parts
 ---

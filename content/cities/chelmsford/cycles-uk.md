@@ -1,5 +1,5 @@
 ---
 title: "Cycles UK"
 url: /chelmsford/cycles-uk/
-shop: Fahrrad
+shop: bicycle
 ---

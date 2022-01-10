@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /chelmsford/betfred/
-shop: Wettbüro
+shop: bookmaker
 ---

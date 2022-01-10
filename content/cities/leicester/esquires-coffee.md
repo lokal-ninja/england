@@ -1,5 +1,5 @@
 ---
 title: "Esquires Coffee"
 url: /leicester/esquires-coffee/
-shop: Kaffee
+shop: coffee
 ---

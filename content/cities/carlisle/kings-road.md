@@ -1,5 +1,5 @@
 ---
 title: "Kings Road"
 url: /carlisle/kings-road/
-shop: Kleidung
+shop: clothes
 ---

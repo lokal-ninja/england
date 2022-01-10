@@ -1,5 +1,5 @@
 ---
 title: "Lady Flora"
 url: /sandhurst/lady-flora/
-shop: Blumen
+shop: florist
 ---

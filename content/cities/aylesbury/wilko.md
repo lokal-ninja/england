@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
 url: /aylesbury/wilko/
-shop: Kramladen
+shop: variety store
 ---

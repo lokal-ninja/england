@@ -1,5 +1,5 @@
 ---
 title: "Superdrug"
 url: /eastleigh/superdrug/
-shop: Drogerie
+shop: chemist
 ---

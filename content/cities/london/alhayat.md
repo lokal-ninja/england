@@ -1,5 +1,5 @@
 ---
 title: "Alhayat"
 url: /london/alhayat/
-shop: Lebensmittel
+shop: convenience
 ---

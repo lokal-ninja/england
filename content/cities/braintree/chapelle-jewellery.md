@@ -1,5 +1,5 @@
 ---
 title: "Chapelle Jewellery"
 url: /braintree/chapelle-jewellery/
-shop: Schmuck
+shop: jewelry
 ---

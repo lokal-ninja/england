@@ -1,5 +1,5 @@
 ---
 title: "KIKO Milano"
 url: /norwich/kiko-milano/
-shop: Kosmetik
+shop: beauty
 ---

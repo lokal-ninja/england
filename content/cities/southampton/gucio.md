@@ -1,5 +1,5 @@
 ---
 title: "Gucio"
 url: /southampton/gucio/
-shop: Allgemein
+shop: shop
 ---

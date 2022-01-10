@@ -1,5 +1,5 @@
 ---
 title: "Scope"
 url: /plymouth/scope/
-shop: Gebrauchtwaren
+shop: charity
 ---

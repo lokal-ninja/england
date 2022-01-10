@@ -1,5 +1,5 @@
 ---
 title: "Vueporium"
 url: /shrewsbury/vueporium/
-shop: Allgemein
+shop: shop
 ---

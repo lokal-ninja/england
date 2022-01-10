@@ -1,5 +1,5 @@
 ---
 title: "Metalwork Fabrication"
 url: /newcastle-upon-tyne/metalwork-fabrication/
-shop: Allgemein
+shop: shop
 ---

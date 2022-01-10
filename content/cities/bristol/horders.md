@@ -1,5 +1,5 @@
 ---
 title: "Horders"
 url: /bristol/horders/
-shop: Haushaltsgeräte
+shop: appliance
 ---

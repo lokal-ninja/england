@@ -1,5 +1,5 @@
 ---
 title: "New Look"
 url: /havant/new-look/
-shop: Kleidung
+shop: clothes
 ---

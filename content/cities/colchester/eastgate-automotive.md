@@ -1,5 +1,5 @@
 ---
 title: "Eastgate Automotive"
 url: /colchester/eastgate-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

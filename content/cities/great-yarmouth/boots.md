@@ -1,5 +1,5 @@
 ---
 title: "Boots"
 url: /great-yarmouth/boots/
-shop: Drogerie
+shop: chemist
 ---

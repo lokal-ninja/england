@@ -1,5 +1,5 @@
 ---
 title: "Complete Security"
 url: /holbury/complete-security/
-shop: Sicherheit
+shop: security
 ---

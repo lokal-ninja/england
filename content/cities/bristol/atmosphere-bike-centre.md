@@ -1,5 +1,5 @@
 ---
 title: "atmosphere bike centre"
 url: /bristol/atmosphere-bike-centre/
-shop: Fahrrad
+shop: bicycle
 ---

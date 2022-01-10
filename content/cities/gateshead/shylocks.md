@@ -1,5 +1,5 @@
 ---
 title: "Shylocks"
 url: /gateshead/shylocks/
-shop: Friseur
+shop: hairdresser
 ---

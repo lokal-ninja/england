@@ -1,5 +1,5 @@
 ---
 title: "Morrisons"
 url: /belper/morrisons/
-shop: Supermarkt
+shop: supermarket
 ---

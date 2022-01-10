@@ -1,5 +1,5 @@
 ---
 title: "Simply Fabrics"
 url: /wallsend/simply-fabrics/
-shop: Allgemein
+shop: shop
 ---

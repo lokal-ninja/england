@@ -1,5 +1,5 @@
 ---
 title: "The Granary"
 url: /bingley/the-granary/
-shop: Allgemein
+shop: shop
 ---

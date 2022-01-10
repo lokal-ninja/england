@@ -1,5 +1,5 @@
 ---
 title: "Firetop Mountain"
 url: /nottingham/firetop-mountain/
-shop: Spielzeug
+shop: toys
 ---

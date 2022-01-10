@@ -1,5 +1,5 @@
 ---
 title: "Nicol Shop"
 url: /nottingham/nicol-shop/
-shop: Lebensmittel
+shop: convenience
 ---

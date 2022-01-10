@@ -1,5 +1,5 @@
 ---
 title: "Metro Stores"
 url: /coalville/metro-stores/
-shop: Lebensmittel
+shop: convenience
 ---

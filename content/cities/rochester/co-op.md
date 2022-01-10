@@ -1,5 +1,5 @@
 ---
 title: "Co-Op"
 url: /rochester/co-op/
-shop: Lebensmittel
+shop: convenience
 ---

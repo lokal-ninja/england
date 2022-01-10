@@ -1,5 +1,5 @@
 ---
 title: "Customised Engraving"
 url: /london/customised-engraving/
-shop: Allgemein
+shop: shop
 ---

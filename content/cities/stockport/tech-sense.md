@@ -1,5 +1,5 @@
 ---
 title: "Tech Sense"
 url: /stockport/tech-sense/
-shop: Computer
+shop: computer
 ---

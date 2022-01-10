@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /fareham/betfred/
-shop: Wettbüro
+shop: bookmaker
 ---

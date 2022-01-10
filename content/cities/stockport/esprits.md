@@ -1,5 +1,5 @@
 ---
 title: "Esprits"
 url: /stockport/esprits/
-shop: Kleidung
+shop: clothes
 ---

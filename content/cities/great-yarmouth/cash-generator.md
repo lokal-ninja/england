@@ -1,5 +1,5 @@
 ---
 title: "Cash Generator"
 url: /great-yarmouth/cash-generator/
-shop: Leiher
+shop: pawnbroker
 ---

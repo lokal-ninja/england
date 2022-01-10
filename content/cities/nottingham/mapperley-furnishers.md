@@ -1,5 +1,5 @@
 ---
 title: "Mapperley Furnishers"
 url: /nottingham/mapperley-furnishers/
-shop: Möbel
+shop: furniture
 ---

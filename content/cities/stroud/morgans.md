@@ -1,5 +1,5 @@
 ---
 title: "Morgans"
 url: /stroud/morgans/
-shop: Antiquitäten
+shop: antiques
 ---

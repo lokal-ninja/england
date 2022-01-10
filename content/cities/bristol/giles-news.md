@@ -1,5 +1,5 @@
 ---
 title: "Giles News"
 url: /bristol/giles-news/
-shop: Spirituosen
+shop: alcohol
 ---

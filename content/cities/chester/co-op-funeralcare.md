@@ -1,5 +1,5 @@
 ---
 title: "Co-op Funeralcare"
 url: /chester/co-op-funeralcare/
-shop: Bestattungen
+shop: funeral directors
 ---

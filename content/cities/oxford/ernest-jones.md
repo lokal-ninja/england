@@ -1,5 +1,5 @@
 ---
 title: "Ernest Jones"
 url: /oxford/ernest-jones/
-shop: Schmuck
+shop: jewelry
 ---

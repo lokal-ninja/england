@@ -1,5 +1,5 @@
 ---
 title: "Victoria Cole"
 url: /london/victoria-cole/
-shop: Friseur
+shop: hairdresser
 ---

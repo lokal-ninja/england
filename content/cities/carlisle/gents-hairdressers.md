@@ -1,5 +1,5 @@
 ---
 title: "Gents Hairdressers"
 url: /carlisle/gents-hairdressers/
-shop: Friseur
+shop: hairdresser
 ---

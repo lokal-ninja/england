@@ -1,5 +1,5 @@
 ---
 title: "Teasdales"
 url: /doncaster/teasdales/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Evans Halshaw Vauxhall"
 url: /middlesbrough/evans-halshaw-vauxhall/
-shop: Autohaus
+shop: car
 ---

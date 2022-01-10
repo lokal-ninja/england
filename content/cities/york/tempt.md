@@ -1,5 +1,5 @@
 ---
 title: "Tempt"
 url: /york/tempt/
-shop: Schokolade
+shop: chocolate
 ---

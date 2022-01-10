@@ -1,5 +1,5 @@
 ---
 title: "Mo's Sweetshop"
 url: /upton/mos-sweetshop/
-shop: Süßwaren
+shop: confectionery
 ---

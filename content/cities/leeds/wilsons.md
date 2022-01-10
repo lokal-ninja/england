@@ -1,5 +1,5 @@
 ---
 title: "Wilson's"
 url: /leeds/wilsons/
-shop: Metzgerei
+shop: butcher
 ---

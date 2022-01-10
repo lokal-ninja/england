@@ -1,5 +1,5 @@
 ---
 title: "Minko's Mac"
 url: /london/minkos-mac/
-shop: Computer
+shop: computer
 ---

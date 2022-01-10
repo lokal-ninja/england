@@ -1,5 +1,5 @@
 ---
 title: "Harvest"
 url: /london/harvest/
-shop: Bioladen
+shop: health food
 ---

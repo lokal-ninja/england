@@ -1,5 +1,5 @@
 ---
 title: "Chinatown Bakery"
 url: /london/chinatown-bakery/
-shop: Bäckerei
+shop: bakery
 ---

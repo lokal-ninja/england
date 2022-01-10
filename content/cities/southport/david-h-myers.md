@@ -1,5 +1,5 @@
 ---
 title: "David H Myers"
 url: /southport/david-h-myers/
-shop: Optiker
+shop: optician
 ---

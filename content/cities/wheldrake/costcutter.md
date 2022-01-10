@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /wheldrake/costcutter/
-shop: Lebensmittel
+shop: convenience
 ---

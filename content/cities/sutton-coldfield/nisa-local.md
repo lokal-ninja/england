@@ -1,5 +1,5 @@
 ---
 title: "Nisa Local"
 url: /sutton-coldfield/nisa-local/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "A1 Carpets"
 url: /southampton/a1-carpets/
-shop: Teppiche
+shop: carpet
 ---

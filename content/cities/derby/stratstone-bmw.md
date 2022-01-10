@@ -1,5 +1,5 @@
 ---
 title: "Stratstone (BMW)"
 url: /derby/stratstone-bmw/
-shop: Autohaus
+shop: car
 ---

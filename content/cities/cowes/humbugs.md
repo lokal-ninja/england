@@ -1,5 +1,5 @@
 ---
 title: "Humbugs"
 url: /cowes/humbugs/
-shop: Andenken
+shop: gift
 ---

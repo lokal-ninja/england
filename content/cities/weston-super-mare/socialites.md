@@ -1,5 +1,5 @@
 ---
 title: "Socialites"
 url: /weston-super-mare/socialites/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Waterlooville Beds"
 url: /waterlooville/waterlooville-beds/
-shop: Betten
+shop: bed
 ---

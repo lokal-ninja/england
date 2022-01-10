@@ -1,5 +1,5 @@
 ---
 title: "Hartley Quinn Wilson"
 url: /lewes/hartley-quinn-wilson/
-shop: Küchen
+shop: kitchen
 ---

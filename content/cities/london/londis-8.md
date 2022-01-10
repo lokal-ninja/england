@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /london/londis-8/
-shop: Supermarkt
+shop: supermarket
 ---

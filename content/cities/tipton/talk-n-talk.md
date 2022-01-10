@@ -1,5 +1,5 @@
 ---
 title: "Talk n Talk"
 url: /tipton/talk-n-talk/
-shop: Handy
+shop: mobile phone
 ---

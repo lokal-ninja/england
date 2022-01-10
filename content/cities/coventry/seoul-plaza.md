@@ -1,5 +1,5 @@
 ---
 title: "Seoul Plaza"
 url: /coventry/seoul-plaza/
-shop: Lebensmittel
+shop: convenience
 ---

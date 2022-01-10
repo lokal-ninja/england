@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /luton/supercuts/
-shop: Allgemein
+shop: shop
 ---

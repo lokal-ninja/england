@@ -1,5 +1,5 @@
 ---
 title: "Game"
 url: /southport/game/
-shop: Videospiele
+shop: video games
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Galliford Stores"
 url: /bristol/galliford-stores/
-shop: Lebensmittel
+shop: convenience
 ---

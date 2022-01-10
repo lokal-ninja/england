@@ -1,5 +1,5 @@
 ---
 title: "Hair OTT"
 url: /portsmouth/hair-ott-2/
-shop: Friseur
+shop: hairdresser
 ---

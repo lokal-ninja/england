@@ -1,5 +1,5 @@
 ---
 title: "Direct Drycleaners"
 url: /bristol/direct-drycleaners/
-shop: Wäscherei
+shop: laundry
 ---

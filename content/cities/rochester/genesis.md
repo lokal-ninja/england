@@ -1,5 +1,5 @@
 ---
 title: "Genesis"
 url: /rochester/genesis/
-shop: Friseur
+shop: hairdresser
 ---

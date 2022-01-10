@@ -1,5 +1,5 @@
 ---
 title: "Hallmark"
 url: /cockermouth/hallmark/
-shop: Andenken
+shop: gift
 ---

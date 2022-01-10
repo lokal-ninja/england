@@ -1,5 +1,5 @@
 ---
 title: "Accessorize"
 url: /lincoln/accessorize/
-shop: Kleidung
+shop: clothes
 ---

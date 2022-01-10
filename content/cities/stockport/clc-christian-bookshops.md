@@ -1,5 +1,5 @@
 ---
 title: "CLC Christian Bookshops"
 url: /stockport/clc-christian-bookshops/
-shop: Bücher
+shop: books
 ---

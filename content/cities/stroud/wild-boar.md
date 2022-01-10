@@ -1,5 +1,5 @@
 ---
 title: "Wild Boar"
 url: /stroud/wild-boar/
-shop: Antiquitäten
+shop: antiques
 ---

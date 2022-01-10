@@ -1,5 +1,5 @@
 ---
 title: "Springways"
 url: /blyth/springways/
-shop: Supermarkt
+shop: supermarket
 ---

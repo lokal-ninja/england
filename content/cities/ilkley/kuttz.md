@@ -1,5 +1,5 @@
 ---
 title: "Kuttz"
 url: /ilkley/kuttz/
-shop: Friseur
+shop: hairdresser
 ---

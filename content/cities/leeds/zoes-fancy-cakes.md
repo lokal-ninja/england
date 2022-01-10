@@ -1,5 +1,5 @@
 ---
 title: "Zoes Fancy Cakes"
 url: /leeds/zoes-fancy-cakes/
-shop: Leerstehend
+shop: vacant
 ---

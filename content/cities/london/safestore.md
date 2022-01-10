@@ -1,5 +1,5 @@
 ---
 title: "Safestore"
 url: /london/safestore/
-shop: Mieten
+shop: storage rental
 ---

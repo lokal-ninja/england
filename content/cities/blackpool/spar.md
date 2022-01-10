@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /blackpool/spar/
-shop: Lebensmittel
+shop: convenience
 ---

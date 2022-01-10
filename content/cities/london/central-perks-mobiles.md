@@ -1,5 +1,5 @@
 ---
 title: "Central Perks Mobiles"
 url: /london/central-perks-mobiles/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Arthouse"
 url: /southport/arthouse/
-shop: Allgemein
+shop: shop
 ---

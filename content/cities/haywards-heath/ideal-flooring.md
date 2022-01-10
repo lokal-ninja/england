@@ -1,5 +1,5 @@
 ---
 title: "Ideal Flooring"
 url: /haywards-heath/ideal-flooring/
-shop: Teppiche
+shop: carpet
 ---

@@ -1,5 +1,5 @@
 ---
 title: "City Kiosk"
 url: /bristol/city-kiosk/
-shop: Zeitungen
+shop: newsagent
 ---

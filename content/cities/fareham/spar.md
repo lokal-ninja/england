@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /fareham/spar/
-shop: Lebensmittel
+shop: convenience
 ---

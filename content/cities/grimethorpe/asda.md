@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /grimethorpe/asda/
-shop: Supermarkt
+shop: supermarket
 ---

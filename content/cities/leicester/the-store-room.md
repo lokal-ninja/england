@@ -1,5 +1,5 @@
 ---
 title: "The Store Room"
 url: /leicester/the-store-room/
-shop: Mieten
+shop: storage rental
 ---

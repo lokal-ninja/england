@@ -1,5 +1,5 @@
 ---
 title: "Viking Stained Glass"
 url: /ipswich/viking-stained-glass/
-shop: Andenken
+shop: gift
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Stapleford Poundshop +"
 url: /nottingham/stapleford-poundshop/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bay View Garden Centre"
 url: /bolton-le-sands/bay-view-garden-centre/
-shop: Garten-Center
+shop: garden centre
 ---

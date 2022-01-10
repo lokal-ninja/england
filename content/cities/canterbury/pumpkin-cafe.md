@@ -1,5 +1,5 @@
 ---
 title: "Pumpkin Cafe"
 url: /canterbury/pumpkin-cafe/
-shop: Zeitungen
+shop: newsagent
 ---

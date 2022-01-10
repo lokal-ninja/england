@@ -1,5 +1,5 @@
 ---
 title: "Ready Prep"
 url: /atherton/ready-prep/
-shop: Lebensmittel
+shop: convenience
 ---

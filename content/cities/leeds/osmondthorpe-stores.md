@@ -1,5 +1,5 @@
 ---
 title: "Osmondthorpe Stores"
 url: /leeds/osmondthorpe-stores/
-shop: Lebensmittel
+shop: convenience
 ---

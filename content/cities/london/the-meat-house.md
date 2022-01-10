@@ -1,5 +1,5 @@
 ---
 title: "The Meat House"
 url: /london/the-meat-house/
-shop: Metzgerei
+shop: butcher
 ---

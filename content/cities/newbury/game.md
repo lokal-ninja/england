@@ -1,5 +1,5 @@
 ---
 title: "Game"
 url: /newbury/game/
-shop: Videospiele
+shop: video games
 ---

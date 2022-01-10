@@ -1,5 +1,5 @@
 ---
 title: "Bromley Bouncy Castles"
 url: /bromley/bromley-bouncy-castles/
-shop: Partyzubehör
+shop: party
 ---

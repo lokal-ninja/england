@@ -1,5 +1,5 @@
 ---
 title: "Nawroz"
 url: /leicester/nawroz/
-shop: Metzgerei
+shop: butcher
 ---

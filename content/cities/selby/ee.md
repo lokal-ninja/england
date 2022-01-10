@@ -1,5 +1,5 @@
 ---
 title: "EE"
 url: /selby/ee/
-shop: Handy
+shop: mobile phone
 ---

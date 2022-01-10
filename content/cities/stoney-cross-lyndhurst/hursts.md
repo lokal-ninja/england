@@ -1,5 +1,5 @@
 ---
 title: "Hursts"
 url: /stoney-cross-lyndhurst/hursts/
-shop: Lebensmittel
+shop: convenience
 ---

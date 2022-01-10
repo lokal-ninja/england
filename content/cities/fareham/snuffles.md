@@ -1,5 +1,5 @@
 ---
 title: "Snuffles"
 url: /fareham/snuffles/
-shop: Allgemein
+shop: shop
 ---

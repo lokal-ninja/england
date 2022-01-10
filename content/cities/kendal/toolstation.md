@@ -1,5 +1,5 @@
 ---
 title: "Toolstation"
 url: /kendal/toolstation/
-shop: Baumarkt
+shop: doityourself
 ---

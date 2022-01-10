@@ -1,5 +1,5 @@
 ---
 title: "JD Sports"
 url: /walsall/jd-sports/
-shop: Sport
+shop: sports
 ---

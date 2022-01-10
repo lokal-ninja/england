@@ -1,5 +1,5 @@
 ---
 title: "Pollen Floristry"
 url: /oakham/pollen-floristry/
-shop: Blumen
+shop: florist
 ---

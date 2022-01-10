@@ -1,5 +1,5 @@
 ---
 title: "Carousel Florist"
 url: /waterlooville/carousel-florist/
-shop: Blumen
+shop: florist
 ---

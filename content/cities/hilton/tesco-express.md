@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /hilton/tesco-express/
-shop: Lebensmittel
+shop: convenience
 ---

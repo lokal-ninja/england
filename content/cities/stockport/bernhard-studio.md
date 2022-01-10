@@ -1,5 +1,5 @@
 ---
 title: "Bernhard Studio"
 url: /stockport/bernhard-studio/
-shop: Friseur
+shop: hairdresser
 ---

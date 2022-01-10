@@ -1,5 +1,5 @@
 ---
 title: "Co-op"
 url: /winslow/co-op/
-shop: Supermarkt
+shop: supermarket
 ---

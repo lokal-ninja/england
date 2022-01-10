@@ -1,5 +1,5 @@
 ---
 title: "Giant Blackpool"
 url: /blackpool/giant-blackpool/
-shop: Fahrrad
+shop: bicycle
 ---

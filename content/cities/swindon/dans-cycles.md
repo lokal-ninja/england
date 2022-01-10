@@ -1,5 +1,5 @@
 ---
 title: "Dan's Cycles"
 url: /swindon/dans-cycles/
-shop: Fahrrad
+shop: bicycle
 ---

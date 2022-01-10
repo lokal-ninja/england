@@ -1,5 +1,5 @@
 ---
 title: "Mleczko Polish Delicatessen"
 url: /london/mleczko-polish-delicatessen/
-shop: Feinkost
+shop: deli
 ---

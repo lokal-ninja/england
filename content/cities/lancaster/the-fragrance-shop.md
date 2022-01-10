@@ -1,5 +1,5 @@
 ---
 title: "The Fragrance Shop"
 url: /lancaster/the-fragrance-shop/
-shop: Parfümerie
+shop: perfumery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Budgens"
 url: /daventry/budgens/
-shop: Lebensmittel
+shop: convenience
 ---

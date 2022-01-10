@@ -1,5 +1,5 @@
 ---
 title: "JustCuts"
 url: /leeds/justcuts/
-shop: Friseur
+shop: hairdresser
 ---

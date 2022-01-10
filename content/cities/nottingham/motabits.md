@@ -1,5 +1,5 @@
 ---
 title: "Motabits"
 url: /nottingham/motabits/
-shop: Autoteile
+shop: car parts
 ---

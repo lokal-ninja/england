@@ -1,5 +1,5 @@
 ---
 title: "CeX"
 url: /feltham/cex/
-shop: Elektronik
+shop: electronics
 ---

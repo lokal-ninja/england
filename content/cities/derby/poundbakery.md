@@ -1,5 +1,5 @@
 ---
 title: "Poundbakery"
 url: /derby/poundbakery/
-shop: Bäckerei
+shop: bakery
 ---

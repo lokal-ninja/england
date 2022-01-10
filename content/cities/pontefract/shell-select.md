@@ -1,5 +1,5 @@
 ---
 title: "Shell Select"
 url: /pontefract/shell-select/
-shop: Lebensmittel
+shop: convenience
 ---

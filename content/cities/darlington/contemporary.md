@@ -1,5 +1,5 @@
 ---
 title: "Contemporary"
 url: /darlington/contemporary/
-shop: Friseur
+shop: hairdresser
 ---

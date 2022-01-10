@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
 url: /solihull/wilko/
-shop: Kramladen
+shop: variety store
 ---

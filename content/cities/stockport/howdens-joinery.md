@@ -1,5 +1,5 @@
 ---
 title: "Howdens Joinery"
 url: /stockport/howdens-joinery/
-shop: Küchen
+shop: kitchen
 ---

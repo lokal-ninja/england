@@ -1,5 +1,5 @@
 ---
 title: "Kings Deli and Sandwiches"
 url: /sheffield/kings-deli-and-sandwiches/
-shop: Metzgerei
+shop: butcher
 ---

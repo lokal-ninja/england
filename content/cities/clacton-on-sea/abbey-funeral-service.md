@@ -1,5 +1,5 @@
 ---
 title: "Abbey Funeral Service"
 url: /clacton-on-sea/abbey-funeral-service/
-shop: Bestattungen
+shop: funeral directors
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Albemarle Bond"
 url: /blyth/albemarle-bond/
-shop: Leiher
+shop: pawnbroker
 ---

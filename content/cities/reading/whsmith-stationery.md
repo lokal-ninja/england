@@ -1,5 +1,5 @@
 ---
 title: "WHSmith Stationery"
 url: /reading/whsmith-stationery/
-shop: Schreibwaren
+shop: office supplies
 ---

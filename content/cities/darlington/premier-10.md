@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /darlington/premier-10/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Morrisons"
 url: /west-denton/morrisons/
-shop: Supermarkt
+shop: supermarket
 ---

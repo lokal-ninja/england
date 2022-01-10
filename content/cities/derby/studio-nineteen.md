@@ -1,5 +1,5 @@
 ---
 title: "Studio Nineteen"
 url: /derby/studio-nineteen/
-shop: Kosmetik
+shop: beauty
 ---

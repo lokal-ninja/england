@@ -1,5 +1,5 @@
 ---
 title: "Auto Scuderia"
 url: /bristol/auto-scuderia/
-shop: Autowerkstatt
+shop: car repair
 ---

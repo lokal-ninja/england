@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /hastings/poundland/
-shop: Kramladen
+shop: variety store
 ---

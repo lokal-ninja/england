@@ -1,5 +1,5 @@
 ---
 title: "Clarks"
 url: /harlow/clarks/
-shop: Schuhe
+shop: shoes
 ---

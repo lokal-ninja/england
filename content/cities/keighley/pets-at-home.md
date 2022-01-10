@@ -1,5 +1,5 @@
 ---
 title: "Pets at Home"
 url: /keighley/pets-at-home/
-shop: Tiere
+shop: pet
 ---

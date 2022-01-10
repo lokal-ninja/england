@@ -1,5 +1,5 @@
 ---
 title: "Higgins Garden Centre"
 url: /wellingborough/higgins-garden-centre/
-shop: Garten-Center
+shop: garden centre
 ---

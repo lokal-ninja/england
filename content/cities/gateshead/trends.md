@@ -1,5 +1,5 @@
 ---
 title: "Trends"
 url: /gateshead/trends/
-shop: Kleidung
+shop: clothes
 ---

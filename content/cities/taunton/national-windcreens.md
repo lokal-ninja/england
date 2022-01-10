@@ -1,5 +1,5 @@
 ---
 title: "National Windcreens"
 url: /taunton/national-windcreens/
-shop: Autowerkstatt
+shop: car repair
 ---

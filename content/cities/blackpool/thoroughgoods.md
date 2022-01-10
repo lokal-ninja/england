@@ -1,5 +1,5 @@
 ---
 title: "Thoroughgoods"
 url: /blackpool/thoroughgoods/
-shop: Lebensmittel
+shop: convenience
 ---

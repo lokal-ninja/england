@@ -1,5 +1,5 @@
 ---
 title: "The Bike Warehouse"
 url: /faversham/the-bike-warehouse/
-shop: Fahrrad
+shop: bicycle
 ---

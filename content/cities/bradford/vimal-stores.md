@@ -1,5 +1,5 @@
 ---
 title: "Vimal Stores"
 url: /bradford/vimal-stores/
-shop: Lebensmittel
+shop: convenience
 ---

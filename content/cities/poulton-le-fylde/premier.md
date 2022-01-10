@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /poulton-le-fylde/premier/
-shop: Lebensmittel
+shop: convenience
 ---

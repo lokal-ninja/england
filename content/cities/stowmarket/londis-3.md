@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /stowmarket/londis-3/
-shop: Lebensmittel
+shop: convenience
 ---

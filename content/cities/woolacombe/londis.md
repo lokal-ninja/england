@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /woolacombe/londis/
-shop: Lebensmittel
+shop: convenience
 ---

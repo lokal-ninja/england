@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
 url: /chippenham/wilko/
-shop: Warenhaus
+shop: department store
 ---

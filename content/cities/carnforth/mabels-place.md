@@ -1,5 +1,5 @@
 ---
 title: "Mabel's Place"
 url: /carnforth/mabels-place/
-shop: Tiere
+shop: pet
 ---

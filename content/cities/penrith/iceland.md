@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /penrith/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

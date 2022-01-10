@@ -1,5 +1,5 @@
 ---
 title: "Warhammer"
 url: /wigan/warhammer/
-shop: Spiele
+shop: games
 ---

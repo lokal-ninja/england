@@ -1,5 +1,5 @@
 ---
 title: "Solo"
 url: /skegness/solo/
-shop: Kosmetik
+shop: beauty
 ---

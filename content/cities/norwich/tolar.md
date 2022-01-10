@@ -1,5 +1,5 @@
 ---
 title: "Tolar"
 url: /norwich/tolar/
-shop: Schmuck
+shop: jewelry
 ---

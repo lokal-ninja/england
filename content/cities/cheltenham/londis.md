@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /cheltenham/londis/
-shop: Lebensmittel
+shop: convenience
 ---

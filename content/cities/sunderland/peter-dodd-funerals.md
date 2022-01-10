@@ -1,5 +1,5 @@
 ---
 title: "Peter Dodd Funerals"
 url: /sunderland/peter-dodd-funerals/
-shop: Bestattungen
+shop: funeral directors
 ---

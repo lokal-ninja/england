@@ -1,5 +1,5 @@
 ---
 title: "MSM Vehicle Refinishers"
 url: /winterton/msm-vehicle-refinishers/
-shop: Autowerkstatt
+shop: car repair
 ---

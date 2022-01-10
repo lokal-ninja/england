@@ -1,5 +1,5 @@
 ---
 title: "Tyre Spot"
 url: /north-shields/tyre-spot/
-shop: Autowerkstatt
+shop: car repair
 ---

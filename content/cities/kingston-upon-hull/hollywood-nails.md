@@ -1,5 +1,5 @@
 ---
 title: "Hollywood nails"
 url: /kingston-upon-hull/hollywood-nails/
-shop: Kosmetik
+shop: beauty
 ---

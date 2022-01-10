@@ -1,5 +1,5 @@
 ---
 title: "Amazon Fresh"
 url: /london/amazon-fresh-2/
-shop: Supermarkt
+shop: supermarket
 ---

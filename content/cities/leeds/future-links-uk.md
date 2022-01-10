@@ -1,5 +1,5 @@
 ---
 title: "Future Links UK"
 url: /leeds/future-links-uk/
-shop: Handy
+shop: mobile phone
 ---

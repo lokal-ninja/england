@@ -1,5 +1,5 @@
 ---
 title: "Quay Motors"
 url: /hebburn/quay-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

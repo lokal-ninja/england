@@ -1,5 +1,5 @@
 ---
 title: "Gooder Lane Newsagents"
 url: /rastrick/gooder-lane-newsagents/
-shop: Zeitungen
+shop: newsagent
 ---

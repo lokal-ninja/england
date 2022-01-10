@@ -1,5 +1,5 @@
 ---
 title: "Julia"
 url: /manchester/julia/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

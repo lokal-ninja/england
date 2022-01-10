@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /gosport/asda/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /bingley/premier/
-shop: Lebensmittel
+shop: convenience
 ---

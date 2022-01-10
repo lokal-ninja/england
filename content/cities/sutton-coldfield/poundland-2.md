@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /sutton-coldfield/poundland-2/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Corkills - VW"
 url: /southport/corkills-vw/
-shop: Autohaus
+shop: car
 ---

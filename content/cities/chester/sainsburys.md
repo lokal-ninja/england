@@ -1,5 +1,5 @@
 ---
 title: "Sainsbury's"
 url: /chester/sainsburys/
-shop: Supermarkt
+shop: supermarket
 ---

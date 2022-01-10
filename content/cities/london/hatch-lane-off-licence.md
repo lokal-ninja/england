@@ -1,5 +1,5 @@
 ---
 title: "Hatch Lane Off Licence"
 url: /london/hatch-lane-off-licence/
-shop: Spirituosen
+shop: alcohol
 ---

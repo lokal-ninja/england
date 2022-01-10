@@ -1,5 +1,5 @@
 ---
 title: "International Foods"
 url: /leeds/international-foods-3/
-shop: Lebensmittel
+shop: convenience
 ---

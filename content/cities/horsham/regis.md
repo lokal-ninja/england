@@ -1,5 +1,5 @@
 ---
 title: "Regis"
 url: /horsham/regis/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

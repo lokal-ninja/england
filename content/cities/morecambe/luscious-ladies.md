@@ -1,5 +1,5 @@
 ---
 title: "Luscious Ladies"
 url: /morecambe/luscious-ladies/
-shop: Kleidung
+shop: clothes
 ---

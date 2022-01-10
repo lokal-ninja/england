@@ -1,5 +1,5 @@
 ---
 title: "Relish"
 url: /hawkshead/relish/
-shop: Lebensmittel
+shop: convenience
 ---

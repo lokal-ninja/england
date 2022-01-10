@@ -1,5 +1,5 @@
 ---
 title: "The Stores"
 url: /gravesend/the-stores/
-shop: Lebensmittel
+shop: convenience
 ---

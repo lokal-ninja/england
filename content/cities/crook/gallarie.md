@@ -1,5 +1,5 @@
 ---
 title: "Gallarie"
 url: /crook/gallarie/
-shop: Friseur
+shop: hairdresser
 ---

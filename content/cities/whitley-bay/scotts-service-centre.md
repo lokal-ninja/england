@@ -1,5 +1,5 @@
 ---
 title: "Scotts Service Centre"
 url: /whitley-bay/scotts-service-centre/
-shop: Autowerkstatt
+shop: car repair
 ---

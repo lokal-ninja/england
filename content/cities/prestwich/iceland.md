@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /prestwich/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

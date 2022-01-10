@@ -1,5 +1,5 @@
 ---
 title: "Coughlans"
 url: /wallington/coughlans/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /runcorn/poundland/
-shop: Kramladen
+shop: variety store
 ---

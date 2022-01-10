@@ -1,5 +1,5 @@
 ---
 title: "Adelphi"
 url: /southsea/adelphi/
-shop: Allgemein
+shop: shop
 ---

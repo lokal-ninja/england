@@ -1,5 +1,5 @@
 ---
 title: "Altus Shop Fronts Contractors"
 url: /hayes/altus-shop-fronts-contractors/
-shop: Türen
+shop: doors
 ---

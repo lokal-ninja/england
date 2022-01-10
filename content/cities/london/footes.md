@@ -1,5 +1,5 @@
 ---
 title: "Footes"
 url: /london/footes/
-shop: Instrumente
+shop: musical instrument
 ---

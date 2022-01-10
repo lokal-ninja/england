@@ -1,5 +1,5 @@
 ---
-title: "Select and Save"
+title: "Select & Save"
 url: /nottingham/select-and-save/
-shop: Lebensmittel
+shop: convenience
 ---

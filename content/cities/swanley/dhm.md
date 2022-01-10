@@ -1,5 +1,5 @@
 ---
 title: "DHM"
 url: /swanley/dhm/
-shop: Baustoffe
+shop: trade
 ---

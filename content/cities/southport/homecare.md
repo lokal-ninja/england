@@ -1,5 +1,5 @@
 ---
 title: "Homecare"
 url: /southport/homecare/
-shop: Haushaltsartikel
+shop: houseware
 ---

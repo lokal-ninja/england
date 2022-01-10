@@ -1,5 +1,5 @@
 ---
 title: "Maya Delicatessen"
 url: /portsmouth/maya-delicatessen/
-shop: Lebensmittel
+shop: convenience
 ---

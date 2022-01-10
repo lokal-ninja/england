@@ -1,5 +1,5 @@
 ---
 title: "Skopa"
 url: /wirksworth/skopa/
-shop: Lebensmittel
+shop: convenience
 ---

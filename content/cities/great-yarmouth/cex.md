@@ -1,5 +1,5 @@
 ---
 title: "CeX"
 url: /great-yarmouth/cex/
-shop: Elektronik
+shop: electronics
 ---

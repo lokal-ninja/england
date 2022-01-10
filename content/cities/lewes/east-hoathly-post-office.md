@@ -1,5 +1,5 @@
 ---
 title: "East Hoathly Post Office"
 url: /lewes/east-hoathly-post-office/
-shop: Lebensmittel
+shop: convenience
 ---

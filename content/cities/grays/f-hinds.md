@@ -1,5 +1,5 @@
 ---
 title: "F.Hinds"
 url: /grays/f-hinds/
-shop: Schmuck
+shop: jewelry
 ---

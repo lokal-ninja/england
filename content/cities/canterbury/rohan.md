@@ -1,5 +1,5 @@
 ---
 title: "Rohan"
 url: /canterbury/rohan/
-shop: Kleidung
+shop: clothes
 ---

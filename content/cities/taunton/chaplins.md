@@ -1,5 +1,5 @@
 ---
 title: "Chaplins"
 url: /taunton/chaplins/
-shop: Warenhaus
+shop: department store
 ---

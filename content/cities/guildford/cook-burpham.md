@@ -1,5 +1,5 @@
 ---
 title: "Cook Burpham"
 url: /guildford/cook-burpham/
-shop: Lebensmittel
+shop: convenience
 ---

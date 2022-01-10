@@ -1,5 +1,5 @@
 ---
 title: "Uptown Barbershop"
 url: /ryde/uptown-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

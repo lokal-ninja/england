@@ -1,5 +1,5 @@
 ---
 title: "Petals Florist"
 url: /margate/petals-florist/
-shop: Blumen
+shop: florist
 ---

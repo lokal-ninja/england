@@ -1,5 +1,5 @@
 ---
 title: "Superdrug"
 url: /dunstable/superdrug/
-shop: Drogerie
+shop: chemist
 ---

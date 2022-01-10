@@ -1,5 +1,5 @@
 ---
 title: "The Puzzle Factory"
 url: /salford/the-puzzle-factory/
-shop: Kunst
+shop: art
 ---

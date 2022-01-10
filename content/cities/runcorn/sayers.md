@@ -1,5 +1,5 @@
 ---
 title: "Sayers"
 url: /runcorn/sayers/
-shop: Bäckerei
+shop: bakery
 ---

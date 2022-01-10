@@ -1,5 +1,5 @@
 ---
 title: "Fotofilia"
 url: /birmingham/fotofilia/
-shop: Foto
+shop: photo
 ---

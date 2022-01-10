@@ -1,5 +1,5 @@
 ---
 title: "picturehangingdirect"
 url: /erith/picturehangingdirect/
-shop: Allgemein
+shop: shop
 ---

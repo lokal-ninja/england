@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /clevedon/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

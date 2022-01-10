@@ -1,5 +1,5 @@
 ---
 title: "Original Stormtrooper"
 url: /twickenham/original-stormtrooper/
-shop: Basteln
+shop: craft
 ---

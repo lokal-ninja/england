@@ -1,5 +1,5 @@
 ---
 title: "Goodfellowes"
 url: /carshalton/goodfellowes/
-shop: Immobilien
+shop: estate agent
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Foot Locker"
 url: /walsall/foot-locker/
-shop: Schuhe
+shop: shoes
 ---

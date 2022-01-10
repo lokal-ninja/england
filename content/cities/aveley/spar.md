@@ -1,5 +1,5 @@
 ---
 title: "SPAR"
 url: /aveley/spar/
-shop: Lebensmittel
+shop: convenience
 ---

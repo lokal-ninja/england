@@ -1,5 +1,5 @@
 ---
 title: "Packenhams"
 url: /carlisle/packenhams/
-shop: Eisenwaren
+shop: hardware
 ---

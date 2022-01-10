@@ -1,5 +1,5 @@
 ---
 title: "Clintons"
 url: /bristol/clintons/
-shop: Schreibwaren
+shop: office supplies
 ---

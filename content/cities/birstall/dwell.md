@@ -1,5 +1,5 @@
 ---
 title: "Dwell"
 url: /birstall/dwell/
-shop: Möbel
+shop: furniture
 ---

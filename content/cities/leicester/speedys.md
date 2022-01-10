@@ -1,5 +1,5 @@
 ---
 title: "Speedys"
 url: /leicester/speedys/
-shop: Autowerkstatt
+shop: car repair
 ---

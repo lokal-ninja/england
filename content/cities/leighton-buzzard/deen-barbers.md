@@ -1,5 +1,5 @@
 ---
 title: "Deen Barbers"
 url: /leighton-buzzard/deen-barbers/
-shop: Friseur
+shop: hairdresser
 ---

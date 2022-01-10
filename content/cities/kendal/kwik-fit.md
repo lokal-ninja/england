@@ -1,5 +1,5 @@
 ---
 title: "Kwik Fit"
 url: /kendal/kwik-fit/
-shop: Autowerkstatt
+shop: car repair
 ---

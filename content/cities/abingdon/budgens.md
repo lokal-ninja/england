@@ -1,5 +1,5 @@
 ---
 title: "Budgens"
 url: /abingdon/budgens/
-shop: Supermarkt
+shop: supermarket
 ---

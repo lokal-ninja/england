@@ -1,5 +1,5 @@
 ---
 title: "Cawthornes"
 url: /shrewsbury/cawthornes/
-shop: Antiquitäten
+shop: antiques
 ---

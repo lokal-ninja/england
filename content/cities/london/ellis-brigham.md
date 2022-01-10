@@ -1,5 +1,5 @@
 ---
 title: "Ellis Brigham"
 url: /london/ellis-brigham/
-shop: Outdoor
+shop: outdoor
 ---

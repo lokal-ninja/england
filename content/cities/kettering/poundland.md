@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /kettering/poundland/
-shop: Kramladen
+shop: variety store
 ---

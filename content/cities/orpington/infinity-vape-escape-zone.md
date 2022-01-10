@@ -1,5 +1,5 @@
 ---
 title: "Infinity - Vape Escape Zone"
 url: /orpington/infinity-vape-escape-zone/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

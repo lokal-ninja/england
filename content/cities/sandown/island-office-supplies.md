@@ -1,5 +1,5 @@
 ---
 title: "Island Office Supplies"
 url: /sandown/island-office-supplies/
-shop: Allgemein
+shop: shop
 ---

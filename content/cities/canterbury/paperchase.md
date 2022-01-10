@@ -1,5 +1,5 @@
 ---
 title: "Paperchase"
 url: /canterbury/paperchase/
-shop: Schreibwaren
+shop: office supplies
 ---

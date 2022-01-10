@@ -1,5 +1,5 @@
 ---
 title: "Arbury Nissan"
 url: /bromsgrove/arbury-nissan/
-shop: Autohaus
+shop: car
 ---

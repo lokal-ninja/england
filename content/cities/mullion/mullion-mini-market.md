@@ -1,5 +1,5 @@
 ---
 title: "Mullion Mini Market"
 url: /mullion/mullion-mini-market/
-shop: Lebensmittel
+shop: convenience
 ---

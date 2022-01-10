@@ -1,5 +1,5 @@
 ---
 title: "Gayatri Traders"
 url: /london/gayatri-traders/
-shop: Lebensmittel
+shop: convenience
 ---

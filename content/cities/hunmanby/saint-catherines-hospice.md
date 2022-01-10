@@ -1,5 +1,5 @@
 ---
 title: "Saint Catherine's Hospice"
 url: /hunmanby/saint-catherines-hospice/
-shop: Gebrauchtwaren
+shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Symons Convenience Store"
 url: /burton-on-trent/symons-convenience-store/
-shop: Lebensmittel
+shop: convenience
 ---

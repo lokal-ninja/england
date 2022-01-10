@@ -1,5 +1,5 @@
 ---
 title: "Doggy Centre"
 url: /waterlooville/doggy-centre/
-shop: Tiersalon
+shop: pet grooming
 ---

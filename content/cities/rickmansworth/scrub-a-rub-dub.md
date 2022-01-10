@@ -1,5 +1,5 @@
 ---
 title: "Scrub a Rub Dub"
 url: /rickmansworth/scrub-a-rub-dub/
-shop: Wäscherei
+shop: laundry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Seeded"
 url: /southsea/seeded/
-shop: Basteln
+shop: craft
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Restore"
 url: /leeds/restore/
-shop: Gebrauchtwaren
+shop: charity
 ---

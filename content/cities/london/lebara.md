@@ -1,5 +1,5 @@
 ---
 title: "Lebara"
 url: /london/lebara/
-shop: Handy
+shop: mobile phone
 ---

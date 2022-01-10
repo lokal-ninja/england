@@ -1,5 +1,5 @@
 ---
 title: "Rohan"
 url: /durham/rohan/
-shop: Kleidung
+shop: clothes
 ---

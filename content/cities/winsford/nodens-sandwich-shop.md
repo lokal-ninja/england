@@ -1,5 +1,5 @@
 ---
 title: "Nodens Sandwich Shop"
 url: /winsford/nodens-sandwich-shop/
-shop: Feinkost
+shop: deli
 ---

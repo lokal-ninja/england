@@ -1,5 +1,5 @@
 ---
 title: "Proudfoot"
 url: /scarborough/proudfoot/
-shop: Supermarkt
+shop: supermarket
 ---

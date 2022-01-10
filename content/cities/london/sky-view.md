@@ -1,5 +1,5 @@
 ---
 title: "Sky View"
 url: /london/sky-view/
-shop: Reisebüro
+shop: travel agency
 ---

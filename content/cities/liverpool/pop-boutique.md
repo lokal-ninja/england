@@ -1,5 +1,5 @@
 ---
 title: "Pop Boutique"
 url: /liverpool/pop-boutique/
-shop: Kleidung
+shop: clothes
 ---

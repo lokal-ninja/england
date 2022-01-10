@@ -1,5 +1,5 @@
 ---
 title: "Barnardo's"
 url: /preston/barnardos/
-shop: Gebrauchtwaren
+shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dunelm Mill"
 url: /grimsby/dunelm-mill/
-shop: Haushaltsartikel
+shop: houseware
 ---

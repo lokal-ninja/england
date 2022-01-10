@@ -1,5 +1,5 @@
 ---
 title: "Foxhayes Garage"
 url: /exeter/foxhayes-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

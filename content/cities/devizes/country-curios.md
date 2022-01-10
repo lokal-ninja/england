@@ -1,5 +1,5 @@
 ---
 title: "Country Curios"
 url: /devizes/country-curios/
-shop: Andenken
+shop: gift
 ---

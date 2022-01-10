@@ -1,5 +1,5 @@
 ---
 title: "Heart of chrome"
 url: /leighton-buzzard/heart-of-chrome/
-shop: Autowerkstatt
+shop: car repair
 ---

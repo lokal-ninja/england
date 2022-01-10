@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
 url: /lancaster/vodafone/
-shop: Handy
+shop: mobile phone
 ---

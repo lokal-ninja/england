@@ -1,5 +1,5 @@
 ---
 title: "Phone Solutions"
 url: /bournemouth/phone-solutions/
-shop: Handy
+shop: mobile phone
 ---

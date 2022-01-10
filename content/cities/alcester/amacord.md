@@ -1,5 +1,5 @@
 ---
 title: "Amacord"
 url: /alcester/amacord/
-shop: Allgemein
+shop: shop
 ---

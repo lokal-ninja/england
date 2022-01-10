@@ -1,5 +1,5 @@
 ---
 title: "Oasis Florist"
 url: /boldon-colliery/oasis-florist/
-shop: Blumen
+shop: florist
 ---

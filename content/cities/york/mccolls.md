@@ -1,5 +1,5 @@
 ---
 title: "McColl's"
 url: /york/mccolls/
-shop: Lebensmittel
+shop: convenience
 ---

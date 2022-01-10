@@ -1,5 +1,5 @@
 ---
 title: "Fresh Stack"
 url: /norwich/fresh-stack/
-shop: Bioladen
+shop: health food
 ---

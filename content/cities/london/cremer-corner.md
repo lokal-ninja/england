@@ -1,5 +1,5 @@
 ---
 title: "Cremer Corner"
 url: /london/cremer-corner/
-shop: Lebensmittel
+shop: convenience
 ---

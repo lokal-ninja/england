@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /highcliffe/coral/
-shop: Wettbüro
+shop: bookmaker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "TK Maxx"
 url: /southport/tk-maxx/
-shop: Warenhaus
+shop: department store
 ---

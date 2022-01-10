@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /falmouth/spar/
-shop: Lebensmittel
+shop: convenience
 ---

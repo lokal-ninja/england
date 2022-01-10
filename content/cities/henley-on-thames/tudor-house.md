@@ -1,5 +1,5 @@
 ---
 title: "Tudor House"
 url: /henley-on-thames/tudor-house/
-shop: Antiquitäten
+shop: antiques
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
 url: /morpeth/vodafone/
-shop: Handy
+shop: mobile phone
 ---

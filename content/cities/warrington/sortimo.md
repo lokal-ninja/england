@@ -1,5 +1,5 @@
 ---
 title: "Sortimo"
 url: /warrington/sortimo/
-shop: Autowerkstatt
+shop: car repair
 ---

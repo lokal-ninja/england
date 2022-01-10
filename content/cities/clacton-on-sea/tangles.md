@@ -1,5 +1,5 @@
 ---
 title: "Tangles"
 url: /clacton-on-sea/tangles/
-shop: Friseur
+shop: hairdresser
 ---

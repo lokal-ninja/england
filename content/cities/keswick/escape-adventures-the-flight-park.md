@@ -1,5 +1,5 @@
 ---
 title: "Escape Adventures / The Flight Park"
 url: /keswick/escape-adventures-the-flight-park/
-shop: Reisebüro
+shop: travel agency
 ---

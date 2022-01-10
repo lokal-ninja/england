@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
 url: /burton-on-trent/wilko/
-shop: Kramladen
+shop: variety store
 ---

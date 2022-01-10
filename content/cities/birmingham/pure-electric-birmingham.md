@@ -1,5 +1,5 @@
 ---
 title: "Pure Electric Birmingham"
 url: /birmingham/pure-electric-birmingham/
-shop: Fahrrad
+shop: bicycle
 ---

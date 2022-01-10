@@ -1,5 +1,5 @@
 ---
 title: "Zara"
 url: /norwich/zara/
-shop: Kleidung
+shop: clothes
 ---

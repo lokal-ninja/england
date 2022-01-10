@@ -1,5 +1,5 @@
 ---
 title: "Checkpoint"
 url: /devizes/checkpoint/
-shop: Autowerkstatt
+shop: car repair
 ---

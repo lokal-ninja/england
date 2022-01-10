@@ -1,5 +1,5 @@
 ---
 title: "Victory Store"
 url: /bristol/victory-store/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Edmondsons Furniture"
 url: /kendal/edmondsons-furniture/
-shop: Möbel
+shop: furniture
 ---

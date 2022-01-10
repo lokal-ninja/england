@@ -1,5 +1,5 @@
 ---
 title: "Tyrefix"
 url: /markfield/tyrefix/
-shop: Reifen
+shop: tyres
 ---

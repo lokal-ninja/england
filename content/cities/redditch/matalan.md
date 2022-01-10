@@ -1,5 +1,5 @@
 ---
 title: "Matalan"
 url: /redditch/matalan/
-shop: Kleidung
+shop: clothes
 ---

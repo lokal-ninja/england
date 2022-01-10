@@ -1,5 +1,5 @@
 ---
 title: "Isle of Vapes"
 url: /ventnor/isle-of-vapes/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

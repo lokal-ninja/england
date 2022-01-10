@@ -1,5 +1,5 @@
 ---
 title: "Gray's Fashions"
 url: /warkworth/grays-fashions/
-shop: Modehaus
+shop: boutique
 ---

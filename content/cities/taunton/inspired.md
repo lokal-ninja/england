@@ -1,5 +1,5 @@
 ---
 title: "Inspired"
 url: /taunton/inspired/
-shop: Kunst
+shop: art
 ---

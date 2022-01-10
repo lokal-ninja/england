@@ -1,5 +1,5 @@
 ---
 title: "Dunelm"
 url: /loughborough/dunelm/
-shop: Warenhaus
+shop: department store
 ---

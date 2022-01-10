@@ -1,5 +1,5 @@
 ---
 title: "Tropical Essentials Supermarket"
 url: /croydon/tropical-essentials-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

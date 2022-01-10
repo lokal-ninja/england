@@ -1,5 +1,5 @@
 ---
 title: "St Christopher's"
 url: /croydon/st-christophers-2/
-shop: Gebrauchtwaren
+shop: charity
 ---

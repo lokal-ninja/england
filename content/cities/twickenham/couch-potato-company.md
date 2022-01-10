@@ -1,5 +1,5 @@
 ---
 title: "Couch Potato Company"
 url: /twickenham/couch-potato-company/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /beccles/lidl/
-shop: Supermarkt
+shop: supermarket
 ---

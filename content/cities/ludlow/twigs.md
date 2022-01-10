@@ -1,5 +1,5 @@
 ---
 title: "Twigs"
 url: /ludlow/twigs/
-shop: Blumen
+shop: florist
 ---

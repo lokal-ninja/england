@@ -1,5 +1,5 @@
 ---
 title: "HiQ"
 url: /rushden/hiq/
-shop: Autowerkstatt
+shop: car repair
 ---

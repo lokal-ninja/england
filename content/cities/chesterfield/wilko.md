@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
 url: /chesterfield/wilko/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "McColl's"
 url: /newquay/mccolls/
-shop: Lebensmittel
+shop: convenience
 ---

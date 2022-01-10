@@ -1,5 +1,5 @@
 ---
 title: "Raihan"
 url: /london/raihan/
-shop: Textil
+shop: fabric
 ---

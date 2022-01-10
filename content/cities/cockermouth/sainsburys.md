@@ -1,5 +1,5 @@
 ---
 title: "Sainsbury's"
 url: /cockermouth/sainsburys/
-shop: Supermarkt
+shop: supermarket
 ---

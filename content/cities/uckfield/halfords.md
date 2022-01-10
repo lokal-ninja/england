@@ -1,5 +1,5 @@
 ---
 title: "Halfords"
 url: /uckfield/halfords/
-shop: Autoteile
+shop: car parts
 ---

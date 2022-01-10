@@ -1,5 +1,5 @@
 ---
 title: "Ecigwizard"
 url: /cambridge/ecigwizard/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

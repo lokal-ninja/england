@@ -1,5 +1,5 @@
 ---
 title: "Poundworld"
 url: /rotherham/poundworld/
-shop: Kramladen
+shop: variety store
 ---

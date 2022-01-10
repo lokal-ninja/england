@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
 url: /derby/wilko/
-shop: Kramladen
+shop: variety store
 ---

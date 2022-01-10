@@ -1,5 +1,5 @@
 ---
 title: "London Automatics"
 url: /rainham/london-automatics/
-shop: Autowerkstatt
+shop: car repair
 ---

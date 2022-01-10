@@ -1,5 +1,5 @@
 ---
 title: "Chloe's Closset"
 url: /carlisle/chloes-closset/
-shop: Kleidung
+shop: clothes
 ---

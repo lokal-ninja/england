@@ -1,5 +1,5 @@
 ---
 title: "Heavenly Feet"
 url: /dartmouth/heavenly-feet/
-shop: Schuhe
+shop: shoes
 ---

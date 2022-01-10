@@ -1,5 +1,5 @@
 ---
 title: "Fone Giant"
 url: /luton/fone-giant/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Serenity Brides"
 url: /colchester/serenity-brides/
-shop: Allgemein
+shop: shop
 ---

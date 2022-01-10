@@ -1,5 +1,5 @@
 ---
 title: "Magic Scissors"
 url: /bury-st-edmunds/magic-scissors/
-shop: Friseur
+shop: hairdresser
 ---

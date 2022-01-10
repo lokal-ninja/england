@@ -1,5 +1,5 @@
 ---
 title: "Velvet"
 url: /lutterworth/velvet/
-shop: Raumausstattung
+shop: interior decoration
 ---

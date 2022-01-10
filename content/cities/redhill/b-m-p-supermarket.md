@@ -1,5 +1,5 @@
 ---
 title: "B M P Supermarket"
 url: /redhill/b-m-p-supermarket/
-shop: Spirituosen
+shop: alcohol
 ---

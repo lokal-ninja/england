@@ -1,5 +1,5 @@
 ---
 title: "Barnardo's"
 url: /devizes/barnardos/
-shop: Gebrauchtwaren
+shop: charity
 ---

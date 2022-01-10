@@ -1,5 +1,5 @@
 ---
 title: "Garry Spinks"
 url: /burgess-hill/garry-spinks/
-shop: Schmuck
+shop: jewelry
 ---

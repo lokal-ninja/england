@@ -1,5 +1,5 @@
 ---
 title: "Best-one"
 url: /winsford/best-one/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jo Malone"
 url: /cambridge/jo-malone-2/
-shop: Kleidung
+shop: clothes
 ---

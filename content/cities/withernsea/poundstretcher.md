@@ -1,5 +1,5 @@
 ---
 title: "Poundstretcher"
 url: /withernsea/poundstretcher/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "TESLA"
 url: /dartford/tesla/
-shop: Autowerkstatt
+shop: car repair
 ---

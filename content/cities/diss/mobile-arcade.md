@@ -1,5 +1,5 @@
 ---
 title: "Mobile Arcade"
 url: /diss/mobile-arcade/
-shop: Handy
+shop: mobile phone
 ---

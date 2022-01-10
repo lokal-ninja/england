@@ -1,5 +1,5 @@
 ---
 title: "The Treat Kitchen"
 url: /derby/the-treat-kitchen/
-shop: Lebensmittel
+shop: convenience
 ---

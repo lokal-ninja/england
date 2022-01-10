@@ -1,5 +1,5 @@
 ---
 title: "Double Tee Tools"
 url: /millom/double-tee-tools/
-shop: Eisenwaren
+shop: hardware
 ---

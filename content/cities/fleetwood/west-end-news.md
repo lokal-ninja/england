@@ -1,5 +1,5 @@
 ---
 title: "West End News"
 url: /fleetwood/west-end-news/
-shop: Zeitungen
+shop: newsagent
 ---

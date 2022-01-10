@@ -1,5 +1,5 @@
 ---
 title: "Nespresso"
 url: /london/nespresso-3/
-shop: Kaffee
+shop: coffee
 ---

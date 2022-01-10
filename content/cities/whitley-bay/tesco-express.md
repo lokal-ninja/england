@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /whitley-bay/tesco-express/
-shop: Lebensmittel
+shop: convenience
 ---

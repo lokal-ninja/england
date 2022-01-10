@@ -1,5 +1,5 @@
 ---
 title: "Athwall Wine Store"
 url: /birmingham/athwall-wine-store/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /matlock/spar/
-shop: Lebensmittel
+shop: convenience
 ---

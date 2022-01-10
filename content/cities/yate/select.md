@@ -1,5 +1,5 @@
 ---
 title: "Select"
 url: /yate/select/
-shop: Kleidung
+shop: clothes
 ---

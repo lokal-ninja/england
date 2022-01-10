@@ -1,5 +1,5 @@
 ---
 title: "Cakes To Please"
 url: /shipley/cakes-to-please/
-shop: Bäckerei
+shop: bakery
 ---

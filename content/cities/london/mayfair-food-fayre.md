@@ -1,5 +1,5 @@
 ---
 title: "Mayfair Food Fayre"
 url: /london/mayfair-food-fayre/
-shop: Lebensmittel
+shop: convenience
 ---

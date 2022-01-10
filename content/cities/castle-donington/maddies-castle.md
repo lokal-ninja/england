@@ -1,5 +1,5 @@
 ---
 title: "Maddie's Castle"
 url: /castle-donington/maddies-castle/
-shop: Tiersalon
+shop: pet grooming
 ---

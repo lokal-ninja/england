@@ -1,5 +1,5 @@
 ---
 title: "Red"
 url: /yeadon/red/
-shop: Friseur
+shop: hairdresser
 ---

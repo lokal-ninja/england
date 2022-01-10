@@ -1,5 +1,5 @@
 ---
 title: "Poundstretcher"
 url: /keighley/poundstretcher/
-shop: Kramladen
+shop: variety store
 ---

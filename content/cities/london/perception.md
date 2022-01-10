@@ -1,5 +1,5 @@
 ---
 title: "Perception"
 url: /london/perception/
-shop: Friseur
+shop: hairdresser
 ---

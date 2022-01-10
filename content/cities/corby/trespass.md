@@ -1,5 +1,5 @@
 ---
 title: "Trespass"
 url: /corby/trespass/
-shop: Outdoor
+shop: outdoor
 ---

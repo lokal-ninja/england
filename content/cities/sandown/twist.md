@@ -1,5 +1,5 @@
 ---
 title: "Twist"
 url: /sandown/twist/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /sandy/tesco/
-shop: Supermarkt
+shop: supermarket
 ---

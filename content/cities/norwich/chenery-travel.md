@@ -1,5 +1,5 @@
 ---
 title: "Chenery Travel"
 url: /norwich/chenery-travel/
-shop: Reisebüro
+shop: travel agency
 ---

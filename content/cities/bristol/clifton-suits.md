@@ -1,5 +1,5 @@
 ---
 title: "Clifton Suits"
 url: /bristol/clifton-suits/
-shop: Schneiderei
+shop: tailor
 ---

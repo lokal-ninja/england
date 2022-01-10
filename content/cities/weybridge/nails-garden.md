@@ -1,5 +1,5 @@
 ---
 title: "Nails Garden"
 url: /weybridge/nails-garden/
-shop: Kosmetik
+shop: beauty
 ---

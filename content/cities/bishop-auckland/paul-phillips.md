@@ -1,5 +1,5 @@
 ---
 title: "Paul Phillips"
 url: /bishop-auckland/paul-phillips/
-shop: Autowerkstatt
+shop: car repair
 ---

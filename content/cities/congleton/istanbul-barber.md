@@ -1,5 +1,5 @@
 ---
 title: "Istanbul Barber"
 url: /congleton/istanbul-barber/
-shop: Friseur
+shop: hairdresser
 ---

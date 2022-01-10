@@ -1,5 +1,5 @@
 ---
 title: "Twickenham Barbers"
 url: /twickenham/twickenham-barbers/
-shop: Friseur
+shop: hairdresser
 ---

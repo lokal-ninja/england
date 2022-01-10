@@ -1,5 +1,5 @@
 ---
 title: "Co-Op"
 url: /olney/co-op/
-shop: Supermarkt
+shop: supermarket
 ---

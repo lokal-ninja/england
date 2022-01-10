@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /cheadle/asda-2/
-shop: Supermarkt
+shop: supermarket
 ---

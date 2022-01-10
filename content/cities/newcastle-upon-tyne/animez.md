@@ -1,5 +1,5 @@
 ---
 title: "Animez"
 url: /newcastle-upon-tyne/animez/
-shop: Videothek
+shop: video
 ---

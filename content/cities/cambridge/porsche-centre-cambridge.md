@@ -1,5 +1,5 @@
 ---
 title: "Porsche Centre Cambridge"
 url: /cambridge/porsche-centre-cambridge/
-shop: Autohaus
+shop: car
 ---

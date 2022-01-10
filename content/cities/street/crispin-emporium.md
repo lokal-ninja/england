@@ -1,5 +1,5 @@
 ---
 title: "Crispin Emporium"
 url: /street/crispin-emporium/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Winston's Leather"
 url: /derby/winstons-leather/
-shop: Leder
+shop: leather
 ---

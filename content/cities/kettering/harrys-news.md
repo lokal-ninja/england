@@ -1,5 +1,5 @@
 ---
 title: "Harry's News"
 url: /kettering/harrys-news/
-shop: Zeitungen
+shop: newsagent
 ---

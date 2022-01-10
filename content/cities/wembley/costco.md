@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /wembley/costco/
-shop: Großhandel
+shop: wholesale
 ---

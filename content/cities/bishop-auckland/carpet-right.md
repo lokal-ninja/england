@@ -1,5 +1,5 @@
 ---
 title: "Carpet Right"
 url: /bishop-auckland/carpet-right/
-shop: Teppiche
+shop: carpet
 ---

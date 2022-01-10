@@ -1,5 +1,5 @@
 ---
 title: "Hill Top Stores"
 url: /belper/hill-top-stores/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "RSPCA"
 url: /mansfield/rspca/
-shop: Gebrauchtwaren
+shop: charity
 ---

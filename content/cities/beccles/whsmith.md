@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /beccles/whsmith/
-shop: Bücher
+shop: books
 ---

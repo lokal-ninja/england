@@ -1,5 +1,5 @@
 ---
 title: "QD"
 url: /norwich/qd/
-shop: Kramladen
+shop: variety store
 ---

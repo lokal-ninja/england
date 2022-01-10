@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
 url: /warrington/wilko/
-shop: Kramladen
+shop: variety store
 ---

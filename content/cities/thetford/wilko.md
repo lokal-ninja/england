@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
 url: /thetford/wilko/
-shop: Eisenwaren
+shop: hardware
 ---

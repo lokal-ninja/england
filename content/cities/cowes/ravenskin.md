@@ -1,5 +1,5 @@
 ---
 title: "Ravenskin"
 url: /cowes/ravenskin/
-shop: Tattoo
+shop: tattoo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Booze Inn"
 url: /blackpool/booze-inn/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kidderminster Carpets"
 url: /solihull/kidderminster-carpets/
-shop: Teppiche
+shop: carpet
 ---

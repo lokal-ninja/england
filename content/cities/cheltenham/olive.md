@@ -1,5 +1,5 @@
 ---
 title: "Olive"
 url: /cheltenham/olive/
-shop: Kleidung
+shop: clothes
 ---

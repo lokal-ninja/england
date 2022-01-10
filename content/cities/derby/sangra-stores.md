@@ -1,5 +1,5 @@
 ---
 title: "Sangra Stores"
 url: /derby/sangra-stores/
-shop: Lebensmittel
+shop: convenience
 ---

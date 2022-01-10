@@ -1,5 +1,5 @@
 ---
 title: "The Co-operative Funeral Care"
 url: /maryport/the-co-operative-funeral-care/
-shop: Bestattungen
+shop: funeral directors
 ---

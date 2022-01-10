@@ -1,5 +1,5 @@
 ---
 title: "Coccolare"
 url: /whitley-bay/coccolare/
-shop: Friseur
+shop: hairdresser
 ---

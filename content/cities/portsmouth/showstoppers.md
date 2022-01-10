@@ -1,5 +1,5 @@
 ---
 title: "Showstoppers"
 url: /portsmouth/showstoppers/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ernst Jones"
 url: /sunderland/ernst-jones/
-shop: Schmuck
+shop: jewelry
 ---

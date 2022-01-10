@@ -1,5 +1,5 @@
 ---
 title: "Universal dB"
 url: /stockport/universal-db/
-shop: Hörgeräte
+shop: hearing aids
 ---

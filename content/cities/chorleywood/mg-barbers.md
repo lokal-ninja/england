@@ -1,5 +1,5 @@
 ---
 title: "MG Barbers"
 url: /chorleywood/mg-barbers/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bonmarché"
 url: /huntingdon/bonmarche/
-shop: Kleidung
+shop: clothes
 ---

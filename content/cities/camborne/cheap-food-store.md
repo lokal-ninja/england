@@ -1,5 +1,5 @@
 ---
 title: "Cheap Food Store"
 url: /camborne/cheap-food-store/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mobi-Tech"
 url: /derby/mobi-tech/
-shop: Handy
+shop: mobile phone
 ---

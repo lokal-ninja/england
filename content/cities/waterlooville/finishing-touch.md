@@ -1,5 +1,5 @@
 ---
 title: "Finishing Touch"
 url: /waterlooville/finishing-touch/
-shop: Teppiche
+shop: carpet
 ---

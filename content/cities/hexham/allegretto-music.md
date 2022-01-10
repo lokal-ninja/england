@@ -1,5 +1,5 @@
 ---
 title: "Allegretto Music"
 url: /hexham/allegretto-music/
-shop: Instrumente
+shop: musical instrument
 ---

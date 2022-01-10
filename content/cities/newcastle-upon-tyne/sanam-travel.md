@@ -1,5 +1,5 @@
 ---
 title: "Sanam Travel"
 url: /newcastle-upon-tyne/sanam-travel/
-shop: Reisebüro
+shop: travel agency
 ---

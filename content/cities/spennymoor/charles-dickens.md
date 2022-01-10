@@ -1,5 +1,5 @@
 ---
 title: "Charles Dickens"
 url: /spennymoor/charles-dickens/
-shop: Eisenwaren
+shop: hardware
 ---

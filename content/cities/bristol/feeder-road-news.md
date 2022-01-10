@@ -1,5 +1,5 @@
 ---
 title: "Feeder Road News"
 url: /bristol/feeder-road-news/
-shop: Zeitungen
+shop: newsagent
 ---

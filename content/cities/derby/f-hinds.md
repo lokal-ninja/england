@@ -1,5 +1,5 @@
 ---
 title: "F.Hinds"
 url: /derby/f-hinds/
-shop: Schmuck
+shop: jewelry
 ---

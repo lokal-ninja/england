@@ -1,5 +1,5 @@
 ---
 title: "Best-one"
 url: /reading/best-one/
-shop: Lebensmittel
+shop: convenience
 ---

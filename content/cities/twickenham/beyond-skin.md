@@ -1,5 +1,5 @@
 ---
 title: "Beyond Skin"
 url: /twickenham/beyond-skin/
-shop: Kosmetik
+shop: beauty
 ---

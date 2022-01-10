@@ -1,5 +1,5 @@
 ---
 title: "Booths"
 url: /ulverston/booths/
-shop: Supermarkt
+shop: supermarket
 ---

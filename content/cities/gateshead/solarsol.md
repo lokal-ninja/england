@@ -1,5 +1,5 @@
 ---
 title: "Solarsol"
 url: /gateshead/solarsol/
-shop: Allgemein
+shop: shop
 ---

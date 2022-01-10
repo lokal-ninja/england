@@ -1,5 +1,5 @@
 ---
 title: "AV Ridout Funeral Directors"
 url: /highcliffe/av-ridout-funeral-directors/
-shop: Bestattungen
+shop: funeral directors
 ---

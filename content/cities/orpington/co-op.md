@@ -1,5 +1,5 @@
 ---
 title: "Co-op"
 url: /orpington/co-op/
-shop: Supermarkt
+shop: supermarket
 ---

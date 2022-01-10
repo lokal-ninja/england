@@ -1,5 +1,5 @@
 ---
 title: "Trespass"
 url: /lancaster/trespass/
-shop: Outdoor
+shop: outdoor
 ---

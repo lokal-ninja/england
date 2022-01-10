@@ -1,5 +1,5 @@
 ---
 title: "allmobility"
 url: /portchester-fareham/allmobility/
-shop: Allgemein
+shop: shop
 ---

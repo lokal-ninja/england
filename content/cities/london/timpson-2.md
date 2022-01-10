@@ -1,5 +1,5 @@
 ---
 title: "Timpson"
 url: /london/timpson-2/
-shop: Schlüsseldienst
+shop: locksmith
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Blacks"
 url: /bury-st-edmunds/blacks/
-shop: Outdoor
+shop: outdoor
 ---

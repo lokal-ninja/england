@@ -1,5 +1,5 @@
 ---
 title: "Sue Ryder Care"
 url: /swaffham/sue-ryder-care/
-shop: Gebrauchtwaren
+shop: charity
 ---

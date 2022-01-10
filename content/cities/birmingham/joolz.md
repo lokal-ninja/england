@@ -1,5 +1,5 @@
 ---
 title: "Joolz"
 url: /birmingham/joolz/
-shop: Kleidung
+shop: clothes
 ---

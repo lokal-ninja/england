@@ -1,5 +1,5 @@
 ---
 title: "Poundstretcher"
 url: /swalwell/poundstretcher/
-shop: Kramladen
+shop: variety store
 ---

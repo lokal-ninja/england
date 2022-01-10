@@ -1,5 +1,5 @@
 ---
 title: "Coventry City FC Store"
 url: /coventry/coventry-city-fc-store/
-shop: Allgemein
+shop: shop
 ---

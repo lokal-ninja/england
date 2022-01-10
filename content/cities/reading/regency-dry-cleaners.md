@@ -1,5 +1,5 @@
 ---
 title: "Regency Dry Cleaners"
 url: /reading/regency-dry-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

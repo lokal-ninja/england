@@ -1,5 +1,5 @@
 ---
 title: "Wheelbase Cycles"
 url: /staveley/wheelbase-cycles/
-shop: Fahrrad
+shop: bicycle
 ---

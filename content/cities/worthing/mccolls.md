@@ -1,5 +1,5 @@
 ---
 title: "McColl's"
 url: /worthing/mccolls/
-shop: Lebensmittel
+shop: convenience
 ---

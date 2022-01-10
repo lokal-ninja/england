@@ -1,5 +1,5 @@
 ---
 title: "Euro Discount Shop"
 url: /bristol/euro-discount-shop/
-shop: Kramladen
+shop: variety store
 ---

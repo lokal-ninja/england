@@ -1,5 +1,5 @@
 ---
 title: "Paradise Garage"
 url: /knutsford/paradise-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

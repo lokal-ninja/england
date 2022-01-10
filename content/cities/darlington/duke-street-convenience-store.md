@@ -1,5 +1,5 @@
 ---
 title: "Duke Street Convenience Store"
 url: /darlington/duke-street-convenience-store/
-shop: Lebensmittel
+shop: convenience
 ---

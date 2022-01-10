@@ -1,5 +1,5 @@
 ---
 title: "Ten Nail Spa"
 url: /orpington/ten-nail-spa/
-shop: Kosmetik
+shop: beauty
 ---

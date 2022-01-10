@@ -1,5 +1,5 @@
 ---
 title: "Whinlatter Visitor Centre"
 url: /braithwaite/whinlatter-visitor-centre/
-shop: Allgemein
+shop: shop
 ---

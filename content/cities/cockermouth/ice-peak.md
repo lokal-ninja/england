@@ -1,5 +1,5 @@
 ---
 title: "Ice Peak"
 url: /cockermouth/ice-peak/
-shop: Outdoor
+shop: outdoor
 ---

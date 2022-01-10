@@ -1,5 +1,5 @@
 ---
 title: "SFS CARS"
 url: /wellingborough/sfs-cars/
-shop: Autohaus
+shop: car
 ---

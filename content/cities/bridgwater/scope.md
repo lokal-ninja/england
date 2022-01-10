@@ -1,5 +1,5 @@
 ---
 title: "Scope"
 url: /bridgwater/scope/
-shop: Kramladen
+shop: variety store
 ---

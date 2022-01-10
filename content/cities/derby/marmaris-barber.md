@@ -1,5 +1,5 @@
 ---
 title: "Marmaris Barber"
 url: /derby/marmaris-barber/
-shop: Friseur
+shop: hairdresser
 ---

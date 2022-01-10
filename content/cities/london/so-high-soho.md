@@ -1,5 +1,5 @@
 ---
 title: "So High Soho"
 url: /london/so-high-soho/
-shop: Kleidung
+shop: clothes
 ---

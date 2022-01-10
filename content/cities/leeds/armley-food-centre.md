@@ -1,5 +1,5 @@
 ---
 title: "Armley Food Centre"
 url: /leeds/armley-food-centre/
-shop: Supermarkt
+shop: supermarket
 ---

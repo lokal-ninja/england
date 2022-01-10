@@ -1,5 +1,5 @@
 ---
 title: "Pets Corner"
 url: /heathfield/pets-corner/
-shop: Tiere
+shop: pet
 ---

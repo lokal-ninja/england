@@ -1,5 +1,5 @@
 ---
 title: "Oliver Bonas"
 url: /cheltenham/oliver-bonas/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Blooming Beautiful Workshop"
 url: /bexhill-on-sea/blooming-beautiful-workshop/
-shop: Blumen
+shop: florist
 ---

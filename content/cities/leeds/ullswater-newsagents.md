@@ -1,5 +1,5 @@
 ---
 title: "Ullswater Newsagents"
 url: /leeds/ullswater-newsagents/
-shop: Zeitungen
+shop: newsagent
 ---

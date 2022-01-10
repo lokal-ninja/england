@@ -1,5 +1,5 @@
 ---
 title: "Dicksons"
 url: /peterlee/dicksons/
-shop: Metzgerei
+shop: butcher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Derbion"
 url: /derby/derbion/
-shop: Einkaufszentrum
+shop: mall
 ---

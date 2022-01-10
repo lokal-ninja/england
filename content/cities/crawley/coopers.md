@@ -1,5 +1,5 @@
 ---
 title: "Coopers"
 url: /crawley/coopers/
-shop: Lebensmittel
+shop: convenience
 ---

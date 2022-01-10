@@ -1,5 +1,5 @@
 ---
 title: "Gloucester Saab"
 url: /gloucester/gloucester-saab/
-shop: Autowerkstatt
+shop: car repair
 ---

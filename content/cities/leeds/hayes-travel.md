@@ -1,5 +1,5 @@
 ---
 title: "Hayes Travel"
 url: /leeds/hayes-travel/
-shop: Reisebüro
+shop: travel agency
 ---

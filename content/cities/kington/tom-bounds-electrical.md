@@ -1,5 +1,5 @@
 ---
 title: "Tom Bounds Electrical"
 url: /kington/tom-bounds-electrical/
-shop: Elektrisch
+shop: electrical
 ---

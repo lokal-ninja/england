@@ -1,5 +1,5 @@
 ---
 title: "Treaton News"
 url: /rotherham/treaton-news/
-shop: Zeitungen
+shop: newsagent
 ---

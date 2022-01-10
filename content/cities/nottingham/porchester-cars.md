@@ -1,5 +1,5 @@
 ---
 title: "Porchester Cars"
 url: /nottingham/porchester-cars/
-shop: Autohaus
+shop: car
 ---

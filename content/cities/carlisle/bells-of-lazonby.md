@@ -1,5 +1,5 @@
 ---
 title: "Bells of Lazonby"
 url: /carlisle/bells-of-lazonby/
-shop: Bäckerei
+shop: bakery
 ---

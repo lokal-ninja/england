@@ -1,5 +1,5 @@
 ---
 title: "Boots"
 url: /march/boots/
-shop: Drogerie
+shop: chemist
 ---

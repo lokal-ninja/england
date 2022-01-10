@@ -1,5 +1,5 @@
 ---
 title: "Tennis Store"
 url: /exeter/tennis-store/
-shop: Sport
+shop: sports
 ---

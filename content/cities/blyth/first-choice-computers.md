@@ -1,5 +1,5 @@
 ---
 title: "First Choice Computers"
 url: /blyth/first-choice-computers/
-shop: Computer
+shop: computer
 ---

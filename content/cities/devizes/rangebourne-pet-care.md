@@ -1,5 +1,5 @@
 ---
 title: "Rangebourne Pet Care"
 url: /devizes/rangebourne-pet-care/
-shop: Tiere
+shop: pet
 ---

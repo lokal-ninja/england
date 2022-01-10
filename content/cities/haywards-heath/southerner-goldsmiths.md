@@ -1,5 +1,5 @@
 ---
 title: "Southerner Goldsmiths"
 url: /haywards-heath/southerner-goldsmiths/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "BrightHouse"
 url: /whitehaven/brighthouse/
-shop: Warenhaus
+shop: department store
 ---

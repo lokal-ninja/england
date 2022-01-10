@@ -1,5 +1,5 @@
 ---
 title: "Plumbstore"
 url: /lancaster/plumbstore/
-shop: Eisenwaren
+shop: hardware
 ---

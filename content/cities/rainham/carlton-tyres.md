@@ -1,5 +1,5 @@
 ---
 title: "Carlton Tyres"
 url: /rainham/carlton-tyres/
-shop: Reifen
+shop: tyres
 ---

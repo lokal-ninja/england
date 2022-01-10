@@ -1,5 +1,5 @@
 ---
 title: "Candyjoys"
 url: /ampthill/candyjoys/
-shop: Zeitungen
+shop: newsagent
 ---

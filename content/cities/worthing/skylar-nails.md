@@ -1,5 +1,5 @@
 ---
 title: "Skylar Nails"
 url: /worthing/skylar-nails/
-shop: Kosmetik
+shop: beauty
 ---

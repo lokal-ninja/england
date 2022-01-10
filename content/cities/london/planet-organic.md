@@ -1,5 +1,5 @@
 ---
 title: "Planet Organic"
 url: /london/planet-organic/
-shop: Supermarkt
+shop: supermarket
 ---

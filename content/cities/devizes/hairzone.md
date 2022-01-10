@@ -1,5 +1,5 @@
 ---
 title: "Hairzone"
 url: /devizes/hairzone/
-shop: Friseur
+shop: hairdresser
 ---

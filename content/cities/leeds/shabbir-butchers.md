@@ -1,5 +1,5 @@
 ---
 title: "Shabbir Butchers"
 url: /leeds/shabbir-butchers/
-shop: Metzgerei
+shop: butcher
 ---

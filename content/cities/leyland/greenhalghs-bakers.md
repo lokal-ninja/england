@@ -1,5 +1,5 @@
 ---
 title: "Greenhalgh's Bakers"
 url: /leyland/greenhalghs-bakers/
-shop: Bäckerei
+shop: bakery
 ---

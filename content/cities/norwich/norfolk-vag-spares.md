@@ -1,5 +1,5 @@
 ---
 title: "Norfolk VAG Spares"
 url: /norwich/norfolk-vag-spares/
-shop: Autoteile
+shop: car parts
 ---

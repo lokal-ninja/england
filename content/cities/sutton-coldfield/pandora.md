@@ -1,5 +1,5 @@
 ---
 title: "Pandora"
 url: /sutton-coldfield/pandora/
-shop: Schmuck
+shop: jewelry
 ---

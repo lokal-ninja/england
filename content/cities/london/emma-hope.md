@@ -1,5 +1,5 @@
 ---
 title: "Emma Hope"
 url: /london/emma-hope/
-shop: Schuhe
+shop: shoes
 ---

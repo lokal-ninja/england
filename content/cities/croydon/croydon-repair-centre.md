@@ -1,5 +1,5 @@
 ---
 title: "Croydon Repair Centre"
 url: /croydon/croydon-repair-centre/
-shop: Computer
+shop: computer
 ---

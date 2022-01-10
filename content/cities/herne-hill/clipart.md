@@ -1,5 +1,5 @@
 ---
 title: "Clipart"
 url: /herne-hill/clipart/
-shop: Friseur
+shop: hairdresser
 ---

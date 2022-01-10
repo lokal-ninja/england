@@ -1,5 +1,5 @@
 ---
 title: "Taylor Motors"
 url: /stockport/taylor-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

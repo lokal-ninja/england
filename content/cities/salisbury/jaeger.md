@@ -1,5 +1,5 @@
 ---
 title: "Jaeger"
 url: /salisbury/jaeger/
-shop: Kleidung
+shop: clothes
 ---

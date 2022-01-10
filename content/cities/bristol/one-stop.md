@@ -1,5 +1,5 @@
 ---
 title: "one stop"
 url: /bristol/one-stop/
-shop: Lebensmittel
+shop: convenience
 ---

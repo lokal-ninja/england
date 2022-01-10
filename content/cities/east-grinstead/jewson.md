@@ -1,5 +1,5 @@
 ---
 title: "Jewson"
 url: /east-grinstead/jewson/
-shop: Baustoffe
+shop: trade
 ---

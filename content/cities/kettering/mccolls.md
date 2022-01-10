@@ -1,5 +1,5 @@
 ---
 title: "McColl's"
 url: /kettering/mccolls/
-shop: Lebensmittel
+shop: convenience
 ---

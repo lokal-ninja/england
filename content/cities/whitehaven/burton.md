@@ -1,5 +1,5 @@
 ---
 title: "Burton"
 url: /whitehaven/burton/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Arlesey Superstore"
 url: /arlesey/arlesey-superstore/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ruffians Barbers"
 url: /london/ruffians-barbers/
-shop: Friseur
+shop: hairdresser
 ---

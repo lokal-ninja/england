@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /derby/savers/
-shop: Drogerie
+shop: chemist
 ---

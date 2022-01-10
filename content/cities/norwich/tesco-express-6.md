@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /norwich/tesco-express-6/
-shop: Lebensmittel
+shop: convenience
 ---

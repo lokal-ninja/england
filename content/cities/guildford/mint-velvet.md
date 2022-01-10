@@ -1,5 +1,5 @@
 ---
 title: "Mint Velvet"
 url: /guildford/mint-velvet/
-shop: Kleidung
+shop: clothes
 ---

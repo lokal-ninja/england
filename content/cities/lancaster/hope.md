@@ -1,5 +1,5 @@
 ---
 title: "Hope"
 url: /lancaster/hope/
-shop: Lebensmittel
+shop: convenience
 ---

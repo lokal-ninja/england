@@ -1,5 +1,5 @@
 ---
 title: "Smiggle"
 url: /chelmsford/smiggle/
-shop: Schreibwaren
+shop: office supplies
 ---

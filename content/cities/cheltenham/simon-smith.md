@@ -1,5 +1,5 @@
 ---
 title: "Simon Smith"
 url: /cheltenham/simon-smith/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Icarus"
 url: /london/icarus/
-shop: Bioladen
+shop: health food
 ---

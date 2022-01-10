@@ -1,5 +1,5 @@
 ---
 title: "Mr Craftsman's Workshop"
 url: /london/mr-craftsmans-workshop/
-shop: Schuhe
+shop: shoes
 ---

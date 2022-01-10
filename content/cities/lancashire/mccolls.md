@@ -1,5 +1,5 @@
 ---
 title: "McColl's"
 url: /lancashire/mccolls/
-shop: Lebensmittel
+shop: convenience
 ---

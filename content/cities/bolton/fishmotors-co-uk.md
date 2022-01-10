@@ -1,5 +1,5 @@
 ---
 title: "fishmotors.co.uk"
 url: /bolton/fishmotors-co-uk/
-shop: Autohaus
+shop: car
 ---

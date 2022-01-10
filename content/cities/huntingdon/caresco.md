@@ -1,5 +1,5 @@
 ---
 title: "CARESCO"
 url: /huntingdon/caresco/
-shop: Gebrauchtwaren
+shop: charity
 ---

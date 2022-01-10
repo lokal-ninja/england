@@ -1,5 +1,5 @@
 ---
 title: "Emporium"
 url: /twickenham/emporium/
-shop: Blumen
+shop: florist
 ---

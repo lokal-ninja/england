@@ -1,5 +1,5 @@
 ---
 title: "Cowlick Hair and Beauty"
 url: /shrewsbury/cowlick-hair-and-beauty/
-shop: Friseur
+shop: hairdresser
 ---

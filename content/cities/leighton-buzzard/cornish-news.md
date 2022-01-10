@@ -1,5 +1,5 @@
 ---
 title: "Cornish News"
 url: /leighton-buzzard/cornish-news/
-shop: Zeitungen
+shop: newsagent
 ---

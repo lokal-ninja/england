@@ -1,5 +1,5 @@
 ---
 title: "Snipets"
 url: /morecambe/snipets/
-shop: Tiere
+shop: pet
 ---

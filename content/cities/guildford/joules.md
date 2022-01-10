@@ -1,5 +1,5 @@
 ---
 title: "Joules"
 url: /guildford/joules/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Doves Funerals"
 url: /swanley/doves-funerals/
-shop: Bestattungen
+shop: funeral directors
 ---

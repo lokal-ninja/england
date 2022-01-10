@@ -1,5 +1,5 @@
 ---
 title: "Costa"
 url: /eastleigh/costa/
-shop: Eisenwaren
+shop: hardware
 ---

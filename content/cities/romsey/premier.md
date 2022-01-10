@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /romsey/premier/
-shop: Lebensmittel
+shop: convenience
 ---

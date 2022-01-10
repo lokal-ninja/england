@@ -1,5 +1,5 @@
 ---
 title: "Bootwater Bathrooms"
 url: /bristol/bootwater-bathrooms/
-shop: Badezimmer
+shop: bathroom
 ---

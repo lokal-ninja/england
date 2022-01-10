@@ -1,5 +1,5 @@
 ---
 title: "A V Taylor Ltd"
 url: /pelaw/a-v-taylor-ltd/
-shop: Autoteile
+shop: car parts
 ---

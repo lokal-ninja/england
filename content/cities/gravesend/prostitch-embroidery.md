@@ -1,5 +1,5 @@
 ---
 title: "ProStitch Embroidery"
 url: /gravesend/prostitch-embroidery/
-shop: Kleidung
+shop: clothes
 ---

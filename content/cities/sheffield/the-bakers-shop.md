@@ -1,5 +1,5 @@
 ---
 title: "The Bakers Shop"
 url: /sheffield/the-bakers-shop/
-shop: Bäckerei
+shop: bakery
 ---

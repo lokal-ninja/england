@@ -1,5 +1,5 @@
 ---
 title: "Farmfoods"
 url: /ipswich/farmfoods/
-shop: Tiefkühl
+shop: frozen food
 ---

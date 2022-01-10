@@ -1,5 +1,5 @@
 ---
 title: "Horizon Blinds"
 url: /derby/horizon-blinds/
-shop: Jalousien
+shop: window blind
 ---

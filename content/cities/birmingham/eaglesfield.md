@@ -1,5 +1,5 @@
 ---
 title: "Eaglesfield"
 url: /birmingham/eaglesfield/
-shop: Schmuck
+shop: jewelry
 ---

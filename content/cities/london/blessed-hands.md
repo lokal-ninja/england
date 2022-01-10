@@ -1,5 +1,5 @@
 ---
 title: "Blessed Hands"
 url: /london/blessed-hands/
-shop: Friseur
+shop: hairdresser
 ---

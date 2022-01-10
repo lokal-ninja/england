@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /feltham/betfred/
-shop: Wettbüro
+shop: bookmaker
 ---

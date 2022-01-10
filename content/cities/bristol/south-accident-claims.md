@@ -1,5 +1,5 @@
 ---
 title: "South Accident Claims"
 url: /bristol/south-accident-claims/
-shop: Allgemein
+shop: shop
 ---

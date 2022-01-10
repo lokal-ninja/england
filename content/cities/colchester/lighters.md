@@ -1,5 +1,5 @@
 ---
 title: "Lighters"
 url: /colchester/lighters/
-shop: Immobilien
+shop: estate agent
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Handy Stores"
 url: /london/handy-stores/
-shop: Lebensmittel
+shop: convenience
 ---

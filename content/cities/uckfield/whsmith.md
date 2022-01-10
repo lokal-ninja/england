@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /uckfield/whsmith/
-shop: Bücher
+shop: books
 ---

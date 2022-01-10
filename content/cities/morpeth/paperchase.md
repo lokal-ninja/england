@@ -1,5 +1,5 @@
 ---
 title: "Paperchase"
 url: /morpeth/paperchase/
-shop: Schreibwaren
+shop: office supplies
 ---

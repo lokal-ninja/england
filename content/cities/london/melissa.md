@@ -1,5 +1,5 @@
 ---
 title: "Melissa"
 url: /london/melissa/
-shop: Konditorei
+shop: pastry
 ---

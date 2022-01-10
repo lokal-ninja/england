@@ -1,5 +1,5 @@
 ---
 title: "Seasalt"
 url: /leamington-spa/seasalt/
-shop: Kleidung
+shop: clothes
 ---

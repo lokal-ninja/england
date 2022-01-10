@@ -1,5 +1,5 @@
 ---
 title: "Clintons"
 url: /hexham/clintons/
-shop: Andenken
+shop: gift
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Office Shop"
 url: /south-croydon/the-office-shop/
-shop: Möbel
+shop: furniture
 ---

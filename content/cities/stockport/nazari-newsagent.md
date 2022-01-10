@@ -1,5 +1,5 @@
 ---
 title: "Nazari Newsagent"
 url: /stockport/nazari-newsagent/
-shop: Zeitungen
+shop: newsagent
 ---

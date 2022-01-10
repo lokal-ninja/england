@@ -1,5 +1,5 @@
 ---
 title: "Checkpoint"
 url: /west-kirby/checkpoint/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Trollbeads"
 url: /norwich/trollbeads/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La Unique"
 url: /luton/la-unique/
-shop: Kosmetik
+shop: beauty
 ---

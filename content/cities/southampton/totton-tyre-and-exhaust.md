@@ -1,5 +1,5 @@
 ---
 title: "Totton Tyre and Exhaust"
 url: /southampton/totton-tyre-and-exhaust/
-shop: Reifen
+shop: tyres
 ---

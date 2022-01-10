@@ -1,5 +1,5 @@
 ---
 title: "Syrenka"
 url: /leeds/syrenka/
-shop: Supermarkt
+shop: supermarket
 ---

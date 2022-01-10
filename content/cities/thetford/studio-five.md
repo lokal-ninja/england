@@ -1,5 +1,5 @@
 ---
 title: "Studio Five"
 url: /thetford/studio-five/
-shop: Allgemein
+shop: shop
 ---

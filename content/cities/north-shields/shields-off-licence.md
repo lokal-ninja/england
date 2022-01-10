@@ -1,5 +1,5 @@
 ---
 title: "Shields Off Licence"
 url: /north-shields/shields-off-licence/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Drumshack"
 url: /london-borough-of-wandsworth/drumshack/
-shop: Instrumente
+shop: musical instrument
 ---

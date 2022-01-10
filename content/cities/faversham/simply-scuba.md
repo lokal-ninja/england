@@ -1,5 +1,5 @@
 ---
 title: "Simply Scuba"
 url: /faversham/simply-scuba/
-shop: Tauchen
+shop: diving
 ---

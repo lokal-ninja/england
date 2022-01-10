@@ -1,5 +1,5 @@
 ---
 title: "A.C. Cars"
 url: /forest-row/a-c-cars/
-shop: Autohaus
+shop: car
 ---

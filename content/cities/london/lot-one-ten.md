@@ -1,5 +1,5 @@
 ---
 title: "Lot One Ten"
 url: /london/lot-one-ten/
-shop: Antiquitäten
+shop: antiques
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Corner Garage Shotley"
 url: /ipswich/corner-garage-shotley/
-shop: Autowerkstatt
+shop: car repair
 ---

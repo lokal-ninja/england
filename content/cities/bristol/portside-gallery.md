@@ -1,5 +1,5 @@
 ---
 title: "Portside Gallery"
 url: /bristol/portside-gallery/
-shop: Kunst
+shop: art
 ---

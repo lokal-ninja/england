@@ -1,5 +1,5 @@
 ---
 title: "Moss Brothers"
 url: /derby/moss-brothers/
-shop: Kleidung
+shop: clothes
 ---

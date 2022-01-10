@@ -1,5 +1,5 @@
 ---
 title: "Hooli"
 url: /midhurst/hooli/
-shop: Allgemein
+shop: shop
 ---

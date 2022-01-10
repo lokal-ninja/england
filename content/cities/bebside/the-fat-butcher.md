@@ -1,5 +1,5 @@
 ---
 title: "The Fat Butcher"
 url: /bebside/the-fat-butcher/
-shop: Metzgerei
+shop: butcher
 ---

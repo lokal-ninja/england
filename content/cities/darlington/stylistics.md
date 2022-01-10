@@ -1,5 +1,5 @@
 ---
 title: "Stylistics"
 url: /darlington/stylistics/
-shop: Friseur
+shop: hairdresser
 ---

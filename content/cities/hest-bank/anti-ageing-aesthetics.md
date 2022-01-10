@@ -1,5 +1,5 @@
 ---
 title: "Anti-Ageing Aesthetics"
 url: /hest-bank/anti-ageing-aesthetics/
-shop: Kosmetik
+shop: beauty
 ---

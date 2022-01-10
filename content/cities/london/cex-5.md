@@ -1,5 +1,5 @@
 ---
 title: "CeX"
 url: /london/cex-5/
-shop: Elektronik
+shop: electronics
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The CBD Stop"
 url: /derby/the-cbd-stop/
-shop: Allgemein
+shop: shop
 ---

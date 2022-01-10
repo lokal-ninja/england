@@ -1,5 +1,5 @@
 ---
 title: "Another Weigh"
 url: /kendal/another-weigh/
-shop: Bioladen
+shop: health food
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cakes"
 url: /sudbury/cakes/
-shop: Bäckerei
+shop: bakery
 ---

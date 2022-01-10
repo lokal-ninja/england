@@ -1,5 +1,5 @@
 ---
 title: "Jay's Off Licence"
 url: /london/jays-off-licence/
-shop: Lebensmittel
+shop: convenience
 ---

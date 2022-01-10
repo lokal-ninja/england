@@ -1,5 +1,5 @@
 ---
 title: "Cavendish French"
 url: /great-bookham/cavendish-french/
-shop: Schmuck
+shop: jewelry
 ---

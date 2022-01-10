@@ -1,5 +1,5 @@
 ---
 title: "Ramsdens"
 url: /whitley-bay/ramsdens/
-shop: Leiher
+shop: pawnbroker
 ---

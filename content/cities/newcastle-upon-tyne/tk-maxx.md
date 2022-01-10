@@ -1,5 +1,5 @@
 ---
 title: "TK Maxx"
 url: /newcastle-upon-tyne/tk-maxx/
-shop: Warenhaus
+shop: department store
 ---

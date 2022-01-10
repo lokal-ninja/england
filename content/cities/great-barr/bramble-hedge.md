@@ -1,5 +1,5 @@
 ---
 title: "Bramble Hedge"
 url: /great-barr/bramble-hedge/
-shop: Blumen
+shop: florist
 ---

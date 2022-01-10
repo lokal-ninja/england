@@ -1,5 +1,5 @@
 ---
 title: "Greggs"
 url: /thornton-heath/greggs/
-shop: Bäckerei
+shop: bakery
 ---

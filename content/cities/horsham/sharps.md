@@ -1,5 +1,5 @@
 ---
 title: "Sharps"
 url: /horsham/sharps/
-shop: Möbel
+shop: furniture
 ---

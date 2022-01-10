@@ -1,5 +1,5 @@
 ---
 title: "MC Sports"
 url: /skipton/mc-sports/
-shop: Autoteile
+shop: car parts
 ---

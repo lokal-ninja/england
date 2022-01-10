@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /deal/savers/
-shop: Drogerie
+shop: chemist
 ---

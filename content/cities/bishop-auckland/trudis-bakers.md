@@ -1,5 +1,5 @@
 ---
 title: "Trudi's Bakers"
 url: /bishop-auckland/trudis-bakers/
-shop: Bäckerei
+shop: bakery
 ---

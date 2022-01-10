@@ -1,5 +1,5 @@
 ---
 title: "TUI"
 url: /preston/tui/
-shop: Reisebüro
+shop: travel agency
 ---

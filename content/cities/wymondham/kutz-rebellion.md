@@ -1,5 +1,5 @@
 ---
 title: "Kutz Rebellion"
 url: /wymondham/kutz-rebellion/
-shop: Friseur
+shop: hairdresser
 ---

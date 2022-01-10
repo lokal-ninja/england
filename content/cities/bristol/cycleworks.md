@@ -1,5 +1,5 @@
 ---
 title: "Cycleworks"
 url: /bristol/cycleworks/
-shop: Fahrrad
+shop: bicycle
 ---

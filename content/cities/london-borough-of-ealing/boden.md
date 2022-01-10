@@ -1,5 +1,5 @@
 ---
 title: "Boden"
 url: /london-borough-of-ealing/boden/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Oxfam"
 url: /louth/oxfam/
-shop: Gebrauchtwaren
+shop: charity
 ---

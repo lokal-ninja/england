@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /walton-on-thames/coral/
-shop: Allgemein
+shop: shop
 ---

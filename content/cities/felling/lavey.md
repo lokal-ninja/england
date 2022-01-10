@@ -1,5 +1,5 @@
 ---
 title: "Lavey"
 url: /felling/lavey/
-shop: Tattoo
+shop: tattoo
 ---

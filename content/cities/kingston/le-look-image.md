@@ -1,5 +1,5 @@
 ---
 title: "Le Look Image"
 url: /kingston/le-look-image/
-shop: Friseur
+shop: hairdresser
 ---

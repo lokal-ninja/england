@@ -1,5 +1,5 @@
 ---
 title: "Wearabouts"
 url: /sydenham/wearabouts/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Garden Kitchen"
 url: /cambridge/the-garden-kitchen/
-shop: Bäckerei
+shop: bakery
 ---

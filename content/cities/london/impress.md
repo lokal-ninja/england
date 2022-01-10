@@ -1,5 +1,5 @@
 ---
 title: "Impress"
 url: /london/impress/
-shop: Kosmetik
+shop: beauty
 ---

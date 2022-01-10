@@ -1,5 +1,5 @@
 ---
 title: "Sapphire Gifts"
 url: /tewkesbury/sapphire-gifts/
-shop: Andenken
+shop: gift
 ---

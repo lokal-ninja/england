@@ -1,5 +1,5 @@
 ---
 title: "Malpass Markets"
 url: /southampton/malpass-markets/
-shop: Supermarkt
+shop: supermarket
 ---

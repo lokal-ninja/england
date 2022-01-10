@@ -1,5 +1,5 @@
 ---
 title: "Fones Hub"
 url: /redhill/fones-hub/
-shop: Handy
+shop: mobile phone
 ---

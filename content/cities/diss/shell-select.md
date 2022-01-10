@@ -1,5 +1,5 @@
 ---
 title: "Shell Select"
 url: /diss/shell-select/
-shop: Lebensmittel
+shop: convenience
 ---

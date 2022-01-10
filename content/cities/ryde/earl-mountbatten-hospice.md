@@ -1,5 +1,5 @@
 ---
 title: "Earl Mountbatten Hospice"
 url: /ryde/earl-mountbatten-hospice/
-shop: Gebrauchtwaren
+shop: charity
 ---

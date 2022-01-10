@@ -1,5 +1,5 @@
 ---
 title: "Danielle - Dollhouse shop"
 url: /mirfield/danielle-dollhouse-shop/
-shop: Kosmetik
+shop: beauty
 ---

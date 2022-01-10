@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /woodbridge/savers/
-shop: Drogerie
+shop: chemist
 ---

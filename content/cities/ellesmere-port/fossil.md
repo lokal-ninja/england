@@ -1,5 +1,5 @@
 ---
 title: "Fossil"
 url: /ellesmere-port/fossil/
-shop: Leder
+shop: leather
 ---

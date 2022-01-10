@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
 url: /belper/wilko/
-shop: Kramladen
+shop: variety store
 ---

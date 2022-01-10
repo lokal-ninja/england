@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /sudbury/coral/
-shop: Wettbüro
+shop: bookmaker
 ---

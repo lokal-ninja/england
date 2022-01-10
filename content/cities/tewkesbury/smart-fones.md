@@ -1,5 +1,5 @@
 ---
 title: "Smart Fones"
 url: /tewkesbury/smart-fones/
-shop: Handy
+shop: mobile phone
 ---

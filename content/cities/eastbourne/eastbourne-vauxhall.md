@@ -1,5 +1,5 @@
 ---
 title: "Eastbourne Vauxhall"
 url: /eastbourne/eastbourne-vauxhall/
-shop: Autohaus
+shop: car
 ---

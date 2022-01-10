@@ -1,5 +1,5 @@
 ---
 title: "Beau Brummell"
 url: /haywards-heath/beau-brummell/
-shop: Wäscherei
+shop: laundry
 ---

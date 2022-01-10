@@ -1,5 +1,5 @@
 ---
 title: "Cake Box"
 url: /colchester/cake-box/
-shop: Konditorei
+shop: pastry
 ---

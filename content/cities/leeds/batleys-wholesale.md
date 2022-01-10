@@ -1,5 +1,5 @@
 ---
 title: "Batleys Wholesale"
 url: /leeds/batleys-wholesale/
-shop: Großhandel
+shop: wholesale
 ---

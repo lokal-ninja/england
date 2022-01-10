@@ -1,5 +1,5 @@
 ---
 title: "Emily Brigden"
 url: /derby/emily-brigden/
-shop: Kleidung
+shop: clothes
 ---

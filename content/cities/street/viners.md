@@ -1,5 +1,5 @@
 ---
 title: "Viners"
 url: /street/viners/
-shop: Küchen
+shop: kitchen
 ---

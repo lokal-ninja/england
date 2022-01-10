@@ -1,5 +1,5 @@
 ---
 title: "Sweet Things"
 url: /nottingham/sweet-things/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "EE"
 url: /leicester/ee/
-shop: Handy
+shop: mobile phone
 ---

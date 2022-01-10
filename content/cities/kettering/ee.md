@@ -1,5 +1,5 @@
 ---
 title: "EE"
 url: /kettering/ee/
-shop: Handy
+shop: mobile phone
 ---

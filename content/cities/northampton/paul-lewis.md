@@ -1,5 +1,5 @@
 ---
 title: "Paul Lewis"
 url: /northampton/paul-lewis/
-shop: Optiker
+shop: optician
 ---

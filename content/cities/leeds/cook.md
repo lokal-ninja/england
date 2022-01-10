@@ -1,5 +1,5 @@
 ---
 title: "COOK"
 url: /leeds/cook/
-shop: Tiefkühl
+shop: frozen food
 ---

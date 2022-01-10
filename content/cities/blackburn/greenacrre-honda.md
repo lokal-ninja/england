@@ -1,5 +1,5 @@
 ---
 title: "Greenacrre Honda"
 url: /blackburn/greenacrre-honda/
-shop: Autohaus
+shop: car
 ---

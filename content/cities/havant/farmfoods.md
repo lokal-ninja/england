@@ -1,5 +1,5 @@
 ---
 title: "Farmfoods"
 url: /havant/farmfoods/
-shop: Tiefkühl
+shop: frozen food
 ---

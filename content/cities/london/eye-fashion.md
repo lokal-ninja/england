@@ -1,5 +1,5 @@
 ---
 title: "Eye Fashion"
 url: /london/eye-fashion/
-shop: Optiker
+shop: optician
 ---

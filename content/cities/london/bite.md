@@ -1,5 +1,5 @@
 ---
 title: "Bite"
 url: /london/bite/
-shop: Feinkost
+shop: deli
 ---

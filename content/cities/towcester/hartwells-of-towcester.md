@@ -1,5 +1,5 @@
 ---
 title: "Hartwell's of Towcester"
 url: /towcester/hartwells-of-towcester/
-shop: Metzgerei
+shop: butcher
 ---

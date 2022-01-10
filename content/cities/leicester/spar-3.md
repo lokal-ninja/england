@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /leicester/spar-3/
-shop: Lebensmittel
+shop: convenience
 ---

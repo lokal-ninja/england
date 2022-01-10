@@ -1,5 +1,5 @@
 ---
 title: "Religion"
 url: /london/religion/
-shop: Kleidung
+shop: clothes
 ---

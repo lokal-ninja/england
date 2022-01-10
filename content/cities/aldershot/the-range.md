@@ -1,5 +1,5 @@
 ---
 title: "The Range"
 url: /aldershot/the-range/
-shop: Haushaltsartikel
+shop: houseware
 ---

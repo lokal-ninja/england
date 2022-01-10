@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /northampton/betfred/
-shop: Wettbüro
+shop: bookmaker
 ---

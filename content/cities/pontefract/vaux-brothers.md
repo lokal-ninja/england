@@ -1,5 +1,5 @@
 ---
 title: "Vaux Brothers"
 url: /pontefract/vaux-brothers/
-shop: Landwirtschaftlich
+shop: agrarian
 ---

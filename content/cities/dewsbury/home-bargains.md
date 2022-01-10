@@ -1,5 +1,5 @@
 ---
 title: "Home Bargains"
 url: /dewsbury/home-bargains/
-shop: Kramladen
+shop: variety store
 ---

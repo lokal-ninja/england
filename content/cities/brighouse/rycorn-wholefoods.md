@@ -1,5 +1,5 @@
 ---
 title: "Rycorn Wholefoods"
 url: /brighouse/rycorn-wholefoods/
-shop: Bioladen
+shop: health food
 ---

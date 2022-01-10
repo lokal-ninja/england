@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /bristol/costcutter/
-shop: Lebensmittel
+shop: convenience
 ---

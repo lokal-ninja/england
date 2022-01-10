@@ -1,5 +1,5 @@
 ---
 title: "Button Boutique"
 url: /wellingborough/button-boutique/
-shop: Allgemein
+shop: shop
 ---

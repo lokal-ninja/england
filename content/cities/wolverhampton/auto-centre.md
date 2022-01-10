@@ -1,5 +1,5 @@
 ---
 title: "Auto Centre"
 url: /wolverhampton/auto-centre/
-shop: Autowerkstatt
+shop: car repair
 ---

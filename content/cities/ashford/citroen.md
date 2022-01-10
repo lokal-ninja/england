@@ -1,5 +1,5 @@
 ---
 title: "Citroën"
 url: /ashford/citroen/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Orgatex"
 url: /durham/orgatex/
-shop: Baustoffe
+shop: trade
 ---

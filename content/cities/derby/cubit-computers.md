@@ -1,5 +1,5 @@
 ---
 title: "Cubit Computers"
 url: /derby/cubit-computers/
-shop: Computer
+shop: computer
 ---

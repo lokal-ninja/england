@@ -1,5 +1,5 @@
 ---
 title: "Carter's Antique Archeeology"
 url: /warwick/carters-antique-archeeology/
-shop: Antiquitäten
+shop: antiques
 ---

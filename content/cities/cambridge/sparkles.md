@@ -1,5 +1,5 @@
 ---
 title: "Sparkles"
 url: /cambridge/sparkles/
-shop: Lebensmittel
+shop: convenience
 ---

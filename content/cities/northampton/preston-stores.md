@@ -1,5 +1,5 @@
 ---
 title: "Preston Stores"
 url: /northampton/preston-stores/
-shop: Lebensmittel
+shop: convenience
 ---

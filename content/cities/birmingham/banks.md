@@ -1,5 +1,5 @@
 ---
 title: "Banks"
 url: /birmingham/banks/
-shop: Optiker
+shop: optician
 ---

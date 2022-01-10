@@ -1,5 +1,5 @@
 ---
 title: "Shoe Zone"
 url: /ryde/shoe-zone/
-shop: Schuhe
+shop: shoes
 ---

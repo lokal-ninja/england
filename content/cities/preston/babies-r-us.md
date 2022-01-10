@@ -1,5 +1,5 @@
 ---
 title: "Babies R Us"
 url: /preston/babies-r-us/
-shop: Babysachen
+shop: baby goods
 ---

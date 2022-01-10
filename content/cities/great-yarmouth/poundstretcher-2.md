@@ -1,5 +1,5 @@
 ---
 title: "Poundstretcher"
 url: /great-yarmouth/poundstretcher-2/
-shop: Kramladen
+shop: variety store
 ---

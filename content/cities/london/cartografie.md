@@ -1,5 +1,5 @@
 ---
 title: "Cartografie"
 url: /london/cartografie/
-shop: Schokolade
+shop: chocolate
 ---

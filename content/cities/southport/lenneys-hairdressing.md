@@ -1,5 +1,5 @@
 ---
 title: "Lenneys Hairdressing"
 url: /southport/lenneys-hairdressing/
-shop: Friseur
+shop: hairdresser
 ---

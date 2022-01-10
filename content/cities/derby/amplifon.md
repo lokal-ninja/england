@@ -1,5 +1,5 @@
 ---
 title: "Amplifon"
 url: /derby/amplifon/
-shop: Hörgeräte
+shop: hearing aids
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walker Moerell"
 url: /sunderland/walker-moerell/
-shop: Bestattungen
+shop: funeral directors
 ---

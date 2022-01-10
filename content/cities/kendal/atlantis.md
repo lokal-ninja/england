@@ -1,5 +1,5 @@
 ---
 title: "Atlantis"
 url: /kendal/atlantis/
-shop: Küchen
+shop: kitchen
 ---

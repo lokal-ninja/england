@@ -1,5 +1,5 @@
 ---
 title: "Vk Newsagents"
 url: /thornton-heath/vk-newsagents/
-shop: Lebensmittel
+shop: convenience
 ---

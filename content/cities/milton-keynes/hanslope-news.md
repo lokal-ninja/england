@@ -1,5 +1,5 @@
 ---
 title: "Hanslope News"
 url: /milton-keynes/hanslope-news/
-shop: Zeitungen
+shop: newsagent
 ---

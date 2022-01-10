@@ -1,5 +1,5 @@
 ---
 title: "Sahi Brothers"
 url: /birmingham/sahi-brothers/
-shop: Kleidung
+shop: clothes
 ---

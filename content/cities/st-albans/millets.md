@@ -1,5 +1,5 @@
 ---
 title: "Millets"
 url: /st-albans/millets/
-shop: Outdoor
+shop: outdoor
 ---

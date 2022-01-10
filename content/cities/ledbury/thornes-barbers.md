@@ -1,5 +1,5 @@
 ---
 title: "Thornes Barbers"
 url: /ledbury/thornes-barbers/
-shop: Friseur
+shop: hairdresser
 ---

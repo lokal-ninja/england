@@ -1,5 +1,5 @@
 ---
 title: "KiKu"
 url: /yeadon/kiku/
-shop: Kosmetik
+shop: beauty
 ---

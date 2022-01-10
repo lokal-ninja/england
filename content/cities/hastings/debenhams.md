@@ -1,5 +1,5 @@
 ---
 title: "Debenhams"
 url: /hastings/debenhams/
-shop: Warenhaus
+shop: department store
 ---

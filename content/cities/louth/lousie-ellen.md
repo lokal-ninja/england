@@ -1,5 +1,5 @@
 ---
 title: "Lousie Ellen"
 url: /louth/lousie-ellen/
-shop: Kosmetik
+shop: beauty
 ---

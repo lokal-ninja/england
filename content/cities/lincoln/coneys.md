@@ -1,5 +1,5 @@
 ---
 title: "Coneys"
 url: /lincoln/coneys/
-shop: Kleidung
+shop: clothes
 ---

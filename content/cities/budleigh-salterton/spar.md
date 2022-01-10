@@ -1,5 +1,5 @@
 ---
 title: "SPAR"
 url: /budleigh-salterton/spar/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The MOT Centre"
 url: /kendal/the-mot-centre/
-shop: Autowerkstatt
+shop: car repair
 ---

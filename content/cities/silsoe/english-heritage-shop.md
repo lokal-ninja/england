@@ -1,5 +1,5 @@
 ---
 title: "English Heritage Shop"
 url: /silsoe/english-heritage-shop/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Waitrose"
 url: /worthing/waitrose/
-shop: Supermarkt
+shop: supermarket
 ---

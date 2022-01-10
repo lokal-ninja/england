@@ -1,5 +1,5 @@
 ---
 title: "Hartley Hire"
 url: /lancaster/hartley-hire/
-shop: Allgemein
+shop: shop
 ---

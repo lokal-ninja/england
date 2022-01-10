@@ -1,5 +1,5 @@
 ---
 title: "Wade Opticians"
 url: /prudhoe/wade-opticians/
-shop: Optiker
+shop: optician
 ---

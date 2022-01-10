@@ -1,5 +1,5 @@
 ---
 title: "Chester Electrical"
 url: /chester/chester-electrical/
-shop: Elektrisch
+shop: electrical
 ---

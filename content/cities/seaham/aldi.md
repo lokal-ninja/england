@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /seaham/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

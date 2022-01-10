@@ -1,5 +1,5 @@
 ---
 title: "Slingin' Ink"
 url: /durham/slingin-ink/
-shop: Tattoo
+shop: tattoo
 ---

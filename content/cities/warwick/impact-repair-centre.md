@@ -1,5 +1,5 @@
 ---
 title: "Impact Repair Centre"
 url: /warwick/impact-repair-centre/
-shop: Autowerkstatt
+shop: car repair
 ---

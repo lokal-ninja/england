@@ -1,5 +1,5 @@
 ---
 title: "That Art Gallery"
 url: /bristol/that-art-gallery/
-shop: Kunst
+shop: art
 ---

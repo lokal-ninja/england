@@ -1,5 +1,5 @@
 ---
 title: "Rockinghams"
 url: /southam/rockinghams/
-shop: Motorrad
+shop: motorcycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Farmfoods"
 url: /peterlee/farmfoods/
-shop: Tiefkühl
+shop: frozen food
 ---

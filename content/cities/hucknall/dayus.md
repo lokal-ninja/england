@@ -1,5 +1,5 @@
 ---
 title: "Dayus"
 url: /hucknall/dayus/
-shop: Raumausstattung
+shop: interior decoration
 ---

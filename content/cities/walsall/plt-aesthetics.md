@@ -1,5 +1,5 @@
 ---
 title: "PLT Aesthetics"
 url: /walsall/plt-aesthetics/
-shop: Kosmetik
+shop: beauty
 ---

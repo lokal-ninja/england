@@ -1,5 +1,5 @@
 ---
 title: "Langlands"
 url: /shiptonthorpe/langlands/
-shop: Garten-Center
+shop: garden centre
 ---

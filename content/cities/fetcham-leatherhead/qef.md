@@ -1,5 +1,5 @@
 ---
 title: "QEF"
 url: /fetcham-leatherhead/qef/
-shop: Andenken
+shop: gift
 ---

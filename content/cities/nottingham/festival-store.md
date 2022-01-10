@@ -1,5 +1,5 @@
 ---
 title: "Festival Store"
 url: /nottingham/festival-store/
-shop: Lebensmittel
+shop: convenience
 ---

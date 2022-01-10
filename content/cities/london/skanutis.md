@@ -1,5 +1,5 @@
 ---
 title: "Skanutis"
 url: /london/skanutis/
-shop: Lebensmittel
+shop: convenience
 ---

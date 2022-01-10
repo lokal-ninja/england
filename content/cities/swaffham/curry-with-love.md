@@ -1,5 +1,5 @@
 ---
 title: "Curry with Love"
 url: /swaffham/curry-with-love/
-shop: Haushaltsartikel
+shop: houseware
 ---

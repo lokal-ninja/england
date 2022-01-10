@@ -1,5 +1,5 @@
 ---
 title: "Best-one"
 url: /new-milton/best-one/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tattoo Addiction"
 url: /new-milton/tattoo-addiction/
-shop: Tattoo
+shop: tattoo
 ---

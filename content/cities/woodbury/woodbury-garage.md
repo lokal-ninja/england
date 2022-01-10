@@ -1,5 +1,5 @@
 ---
 title: "Woodbury Garage"
 url: /woodbury/woodbury-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

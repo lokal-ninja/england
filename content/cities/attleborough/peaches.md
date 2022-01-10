@@ -1,5 +1,5 @@
 ---
 title: "Peaches"
 url: /attleborough/peaches/
-shop: Kleidung
+shop: clothes
 ---

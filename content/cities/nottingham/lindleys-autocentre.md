@@ -1,5 +1,5 @@
 ---
 title: "Lindleys Autocentre"
 url: /nottingham/lindleys-autocentre/
-shop: Autowerkstatt
+shop: car repair
 ---

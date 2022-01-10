@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /london/ladbrokes-30/
-shop: Wettbüro
+shop: bookmaker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Necton's Coop"
 url: /swaffham/nectons-coop/
-shop: Supermarkt
+shop: supermarket
 ---

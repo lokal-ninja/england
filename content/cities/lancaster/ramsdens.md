@@ -1,5 +1,5 @@
 ---
 title: "Ramsdens"
 url: /lancaster/ramsdens/
-shop: Leiher
+shop: pawnbroker
 ---

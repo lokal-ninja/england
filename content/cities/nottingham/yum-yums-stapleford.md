@@ -1,5 +1,5 @@
 ---
 title: "Yum Yums Stapleford"
 url: /nottingham/yum-yums-stapleford/
-shop: Süßwaren
+shop: confectionery
 ---

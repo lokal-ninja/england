@@ -1,5 +1,5 @@
 ---
 title: "MAS car parts"
 url: /southampton/mas-car-parts/
-shop: Autoteile
+shop: car parts
 ---

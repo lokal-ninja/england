@@ -1,5 +1,5 @@
 ---
 title: "Silver Lining"
 url: /york/silver-lining/
-shop: Schmuck
+shop: jewelry
 ---

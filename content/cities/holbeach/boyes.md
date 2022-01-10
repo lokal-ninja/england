@@ -1,5 +1,5 @@
 ---
 title: "Boyes"
 url: /holbeach/boyes/
-shop: Warenhaus
+shop: department store
 ---

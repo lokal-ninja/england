@@ -1,5 +1,5 @@
 ---
 title: "Clennell hall hotel"
 url: /clennell/clennell-hall-hotel/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carpetright"
 url: /croydon/carpetright/
-shop: Teppiche
+shop: carpet
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Planet Games"
 url: /newbury/planet-games/
-shop: Videospiele
+shop: video games
 ---

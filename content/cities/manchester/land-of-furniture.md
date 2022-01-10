@@ -1,5 +1,5 @@
 ---
 title: "Land of Furniture"
 url: /manchester/land-of-furniture/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nightingate Foods"
 url: /london/nightingate-foods/
-shop: Lebensmittel
+shop: convenience
 ---

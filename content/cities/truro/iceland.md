@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /truro/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Milford Autos"
 url: /milford-on-sea/milford-autos/
-shop: Autowerkstatt
+shop: car repair
 ---

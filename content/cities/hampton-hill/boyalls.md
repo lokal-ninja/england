@@ -1,5 +1,5 @@
 ---
 title: "Boyalls"
 url: /hampton-hill/boyalls/
-shop: Eisenwaren
+shop: hardware
 ---

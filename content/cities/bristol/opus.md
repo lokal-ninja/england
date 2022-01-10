@@ -1,5 +1,5 @@
 ---
 title: "Opus"
 url: /bristol/opus/
-shop: Instrumente
+shop: musical instrument
 ---

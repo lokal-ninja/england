@@ -1,5 +1,5 @@
 ---
 title: "Bistrovin Of Deansgate"
 url: /manchester/bistrovin-of-deansgate/
-shop: Wein
+shop: wine
 ---

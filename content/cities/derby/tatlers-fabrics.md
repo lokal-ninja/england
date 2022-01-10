@@ -1,5 +1,5 @@
 ---
 title: "Tatlers Fabrics"
 url: /derby/tatlers-fabrics/
-shop: Textil
+shop: fabric
 ---

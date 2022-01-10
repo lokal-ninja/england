@@ -1,5 +1,5 @@
 ---
 title: "Poundbakery"
 url: /halifax/poundbakery/
-shop: Bäckerei
+shop: bakery
 ---

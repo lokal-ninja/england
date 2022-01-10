@@ -1,5 +1,5 @@
 ---
 title: "Supermarket"
 url: /skegness/supermarket/
-shop: Lebensmittel
+shop: convenience
 ---

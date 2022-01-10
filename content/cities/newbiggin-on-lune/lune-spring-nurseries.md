@@ -1,5 +1,5 @@
 ---
 title: "Lune Spring Nurseries"
 url: /newbiggin-on-lune/lune-spring-nurseries/
-shop: Garten-Center
+shop: garden centre
 ---

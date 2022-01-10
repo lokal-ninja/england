@@ -1,5 +1,5 @@
 ---
 title: "Barnard's"
 url: /darlington/barnards/
-shop: Gemüse & Obst
+shop: greengrocer
 ---

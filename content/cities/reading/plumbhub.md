@@ -1,5 +1,5 @@
 ---
 title: "Plumbhub"
 url: /reading/plumbhub/
-shop: Baustoffe
+shop: trade
 ---

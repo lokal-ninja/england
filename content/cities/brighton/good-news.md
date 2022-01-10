@@ -1,5 +1,5 @@
 ---
 title: "Good News"
 url: /brighton/good-news/
-shop: Zeitungen
+shop: newsagent
 ---

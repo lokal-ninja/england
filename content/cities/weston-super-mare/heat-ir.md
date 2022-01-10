@@ -1,5 +1,5 @@
 ---
 title: "HEAT-IR"
 url: /weston-super-mare/heat-ir/
-shop: Heizungsanlagen
+shop: heating system
 ---

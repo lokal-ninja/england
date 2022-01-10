@@ -1,5 +1,5 @@
 ---
 title: "Ambition Blinds"
 url: /liverpool/ambition-blinds/
-shop: Jalousien
+shop: window blind
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mystique Hair Design"
 url: /banstead/mystique-hair-design/
-shop: Friseur
+shop: hairdresser
 ---

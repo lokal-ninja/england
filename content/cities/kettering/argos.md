@@ -1,5 +1,5 @@
 ---
 title: "Argos"
 url: /kettering/argos/
-shop: Kramladen
+shop: variety store
 ---

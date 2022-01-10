@@ -1,5 +1,5 @@
 ---
 title: "Kenley News"
 url: /purley/kenley-news/
-shop: Zeitungen
+shop: newsagent
 ---

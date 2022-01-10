@@ -1,5 +1,5 @@
 ---
 title: "New Look"
 url: /hastings/new-look/
-shop: Kleidung
+shop: clothes
 ---

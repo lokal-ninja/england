@@ -1,5 +1,5 @@
 ---
 title: "Big Wheels"
 url: /taunton/big-wheels/
-shop: Reifen
+shop: tyres
 ---

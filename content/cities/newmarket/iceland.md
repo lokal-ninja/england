@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /newmarket/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

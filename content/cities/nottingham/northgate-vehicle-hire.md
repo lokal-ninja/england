@@ -1,5 +1,5 @@
 ---
 title: "Northgate Vehicle Hire"
 url: /nottingham/northgate-vehicle-hire/
-shop: Allgemein
+shop: shop
 ---

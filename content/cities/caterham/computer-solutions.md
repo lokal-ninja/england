@@ -1,5 +1,5 @@
 ---
 title: "Computer Solutions"
 url: /caterham/computer-solutions/
-shop: Computer
+shop: computer
 ---

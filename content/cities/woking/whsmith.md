@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /woking/whsmith/
-shop: Schreibwaren
+shop: office supplies
 ---

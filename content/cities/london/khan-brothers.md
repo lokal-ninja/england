@@ -1,5 +1,5 @@
 ---
 title: "Khan Brothers"
 url: /london/khan-brothers/
-shop: Metzgerei
+shop: butcher
 ---

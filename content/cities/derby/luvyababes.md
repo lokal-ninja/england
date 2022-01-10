@@ -1,5 +1,5 @@
 ---
 title: "Luvyababes"
 url: /derby/luvyababes/
-shop: Kramladen
+shop: variety store
 ---

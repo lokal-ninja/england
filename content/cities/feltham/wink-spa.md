@@ -1,5 +1,5 @@
 ---
 title: "Wink Spa"
 url: /feltham/wink-spa/
-shop: Kosmetik
+shop: beauty
 ---

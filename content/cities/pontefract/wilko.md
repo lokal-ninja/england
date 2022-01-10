@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
 url: /pontefract/wilko/
-shop: Kramladen
+shop: variety store
 ---

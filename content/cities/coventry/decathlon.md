@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /coventry/decathlon/
-shop: Sport
+shop: sports
 ---

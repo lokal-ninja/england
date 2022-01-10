@@ -1,5 +1,5 @@
 ---
 title: "Shire Motor Services"
 url: /wellingborough/shire-motor-services/
-shop: Autowerkstatt
+shop: car repair
 ---

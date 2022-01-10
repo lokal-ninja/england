@@ -1,5 +1,5 @@
 ---
 title: "Picktree Car and Commercial"
 url: /chester-le-street/picktree-car-and-commercial/
-shop: Autowerkstatt
+shop: car repair
 ---

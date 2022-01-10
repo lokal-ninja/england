@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /bognor-regis/savers/
-shop: Kramladen
+shop: variety store
 ---

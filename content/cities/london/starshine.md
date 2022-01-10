@@ -1,5 +1,5 @@
 ---
 title: "Starshine"
 url: /london/starshine/
-shop: Wäscherei
+shop: laundry
 ---

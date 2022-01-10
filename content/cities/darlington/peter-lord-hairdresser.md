@@ -1,5 +1,5 @@
 ---
 title: "Peter Lord Hairdresser"
 url: /darlington/peter-lord-hairdresser/
-shop: Friseur
+shop: hairdresser
 ---

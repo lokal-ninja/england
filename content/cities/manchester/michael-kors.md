@@ -1,5 +1,5 @@
 ---
 title: "Michael Kors"
 url: /manchester/michael-kors/
-shop: Kleidung
+shop: clothes
 ---

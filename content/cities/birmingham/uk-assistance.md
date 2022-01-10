@@ -1,5 +1,5 @@
 ---
 title: "UK Assistance"
 url: /birmingham/uk-assistance/
-shop: Autowerkstatt
+shop: car repair
 ---

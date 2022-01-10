@@ -1,5 +1,5 @@
 ---
 title: "mooeys"
 url: /farnham/mooeys/
-shop: Kosmetik
+shop: beauty
 ---

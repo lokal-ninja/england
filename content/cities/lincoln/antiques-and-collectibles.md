@@ -1,5 +1,5 @@
 ---
 title: "Antiques and Collectibles"
 url: /lincoln/antiques-and-collectibles/
-shop: Antiquitäten
+shop: antiques
 ---

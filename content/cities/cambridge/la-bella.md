@@ -1,5 +1,5 @@
 ---
 title: "La Bella"
 url: /cambridge/la-bella/
-shop: Kosmetik
+shop: beauty
 ---

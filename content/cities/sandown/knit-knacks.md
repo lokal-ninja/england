@@ -1,5 +1,5 @@
 ---
 title: "Knit Knacks"
 url: /sandown/knit-knacks/
-shop: Textil
+shop: fabric
 ---

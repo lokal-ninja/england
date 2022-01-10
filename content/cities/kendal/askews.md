@@ -1,5 +1,5 @@
 ---
 title: "Askews"
 url: /kendal/askews/
-shop: Fahrrad
+shop: bicycle
 ---

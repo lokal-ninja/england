@@ -1,5 +1,5 @@
 ---
 title: "Den Tan"
 url: /carlisle/den-tan/
-shop: Kosmetik
+shop: beauty
 ---

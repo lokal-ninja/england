@@ -1,5 +1,5 @@
 ---
 title: "Wade Opticians"
 url: /durham/wade-opticians/
-shop: Optiker
+shop: optician
 ---

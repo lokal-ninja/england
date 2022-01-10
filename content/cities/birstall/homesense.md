@@ -1,5 +1,5 @@
 ---
 title: "HomeSense"
 url: /birstall/homesense/
-shop: Raumausstattung
+shop: interior decoration
 ---

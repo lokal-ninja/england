@@ -1,5 +1,5 @@
 ---
 title: "Lodge"
 url: /feltham/lodge/
-shop: Bestattungen
+shop: funeral directors
 ---

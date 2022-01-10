@@ -1,5 +1,5 @@
 ---
 title: "Heron Foods"
 url: /gateshead/heron-foods-5/
-shop: Supermarkt
+shop: supermarket
 ---

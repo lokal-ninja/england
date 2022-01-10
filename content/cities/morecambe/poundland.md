@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /morecambe/poundland/
-shop: Kramladen
+shop: variety store
 ---

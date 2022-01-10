@@ -1,5 +1,5 @@
 ---
 title: "heminstone estates"
 url: /colchester/heminstone-estates/
-shop: Immobilien
+shop: estate agent
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /halifax/tesco/
-shop: Supermarkt
+shop: supermarket
 ---

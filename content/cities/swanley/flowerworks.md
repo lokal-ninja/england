@@ -1,5 +1,5 @@
 ---
 title: "Flowerworks"
 url: /swanley/flowerworks/
-shop: Blumen
+shop: florist
 ---

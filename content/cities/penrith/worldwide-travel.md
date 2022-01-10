@@ -1,5 +1,5 @@
 ---
 title: "Worldwide Travel"
 url: /penrith/worldwide-travel/
-shop: Reisebüro
+shop: travel agency
 ---

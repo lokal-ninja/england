@@ -1,5 +1,5 @@
 ---
 title: "Wibsey Cycle Centre"
 url: /bradford/wibsey-cycle-centre/
-shop: Fahrrad
+shop: bicycle
 ---

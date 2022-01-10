@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /morecambe/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

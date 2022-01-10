@@ -1,5 +1,5 @@
 ---
 title: "Justynka"
 url: /birmingham/justynka/
-shop: Lebensmittel
+shop: convenience
 ---

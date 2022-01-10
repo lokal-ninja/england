@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /diss/poundland/
-shop: Kramladen
+shop: variety store
 ---

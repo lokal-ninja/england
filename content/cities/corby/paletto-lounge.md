@@ -1,5 +1,5 @@
 ---
 title: "Paletto Lounge"
 url: /corby/paletto-lounge/
-shop: Leerstehend
+shop: vacant
 ---

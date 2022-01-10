@@ -1,5 +1,5 @@
 ---
 title: "The Works"
 url: /high-wycombe/the-works/
-shop: Bäckerei
+shop: bakery
 ---

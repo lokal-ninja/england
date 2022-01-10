@@ -1,5 +1,5 @@
 ---
 title: "Smyths"
 url: /stevenage/smyths/
-shop: Spielzeug
+shop: toys
 ---

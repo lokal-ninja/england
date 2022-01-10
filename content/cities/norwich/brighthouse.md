@@ -1,5 +1,5 @@
 ---
 title: "BrightHouse"
 url: /norwich/brighthouse/
-shop: Möbel
+shop: furniture
 ---

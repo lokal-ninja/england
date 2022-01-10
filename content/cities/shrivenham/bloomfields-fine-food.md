@@ -1,5 +1,5 @@
 ---
 title: "Bloomfields fine food"
 url: /shrivenham/bloomfields-fine-food/
-shop: Feinkost
+shop: deli
 ---

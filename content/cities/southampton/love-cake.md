@@ -1,5 +1,5 @@
 ---
 title: "Love Cake"
 url: /southampton/love-cake/
-shop: Bäckerei
+shop: bakery
 ---

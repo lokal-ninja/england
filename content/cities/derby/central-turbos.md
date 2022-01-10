@@ -1,5 +1,5 @@
 ---
 title: "Central Turbos"
 url: /derby/central-turbos/
-shop: Autowerkstatt
+shop: car repair
 ---

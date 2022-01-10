@@ -1,5 +1,5 @@
 ---
 title: "Abbey Antiques"
 url: /tewkesbury/abbey-antiques/
-shop: Antiquitäten
+shop: antiques
 ---

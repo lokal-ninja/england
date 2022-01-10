@@ -1,5 +1,5 @@
 ---
 title: "Read's Motor Spares"
 url: /london/reads-motor-spares/
-shop: Autoteile
+shop: car parts
 ---

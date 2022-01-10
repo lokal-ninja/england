@@ -1,5 +1,5 @@
 ---
 title: "Cave"
 url: /horsforth/cave/
-shop: Möbel
+shop: furniture
 ---

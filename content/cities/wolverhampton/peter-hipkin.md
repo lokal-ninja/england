@@ -1,5 +1,5 @@
 ---
 title: "Peter Hipkin"
 url: /wolverhampton/peter-hipkin/
-shop: Friseur
+shop: hairdresser
 ---

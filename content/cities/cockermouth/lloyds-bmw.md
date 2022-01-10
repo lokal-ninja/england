@@ -1,5 +1,5 @@
 ---
 title: "LLoyds BMW"
 url: /cockermouth/lloyds-bmw/
-shop: Autohaus
+shop: car
 ---

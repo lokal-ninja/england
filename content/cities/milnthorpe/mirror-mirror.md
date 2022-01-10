@@ -1,5 +1,5 @@
 ---
 title: "Mirror Mirror"
 url: /milnthorpe/mirror-mirror/
-shop: Friseur
+shop: hairdresser
 ---

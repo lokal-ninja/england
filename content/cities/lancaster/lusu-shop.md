@@ -1,5 +1,5 @@
 ---
 title: "LUSU Shop"
 url: /lancaster/lusu-shop/
-shop: Lebensmittel
+shop: convenience
 ---

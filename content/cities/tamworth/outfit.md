@@ -1,5 +1,5 @@
 ---
 title: "Outfit"
 url: /tamworth/outfit/
-shop: Kleidung
+shop: clothes
 ---

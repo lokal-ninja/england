@@ -1,5 +1,5 @@
 ---
 title: "Samantha Elizabeth"
 url: /haywards-heath/samantha-elizabeth/
-shop: Friseur
+shop: hairdresser
 ---

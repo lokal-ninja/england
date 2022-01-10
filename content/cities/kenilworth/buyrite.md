@@ -1,5 +1,5 @@
 ---
 title: "Buyrite"
 url: /kenilworth/buyrite/
-shop: Eisenwaren
+shop: hardware
 ---

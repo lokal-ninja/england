@@ -1,5 +1,5 @@
 ---
 title: "Jan Morrison"
 url: /bristol/jan-morrison/
-shop: Schmuck
+shop: jewelry
 ---

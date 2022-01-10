@@ -1,5 +1,5 @@
 ---
 title: "Autotechz"
 url: /nottingham/autotechz/
-shop: Autowerkstatt
+shop: car repair
 ---

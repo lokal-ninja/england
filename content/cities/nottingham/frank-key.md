@@ -1,5 +1,5 @@
 ---
 title: "Frank Key"
 url: /nottingham/frank-key/
-shop: Baustoffe
+shop: trade
 ---

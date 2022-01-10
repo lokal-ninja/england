@@ -1,5 +1,5 @@
 ---
 title: "Bargin Booze"
 url: /worcester/bargin-booze/
-shop: Spirituosen
+shop: alcohol
 ---

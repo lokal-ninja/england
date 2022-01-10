@@ -1,5 +1,5 @@
 ---
 title: "Textile Candy"
 url: /morecambe/textile-candy/
-shop: Andenken
+shop: gift
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Morrisons Daily"
 url: /belper/morrisons-daily/
-shop: Lebensmittel
+shop: convenience
 ---

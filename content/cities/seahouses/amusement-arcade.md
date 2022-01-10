@@ -1,5 +1,5 @@
 ---
 title: "Amusement Arcade"
 url: /seahouses/amusement-arcade/
-shop: Allgemein
+shop: shop
 ---

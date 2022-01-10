@@ -1,5 +1,5 @@
 ---
 title: "Scrivens"
 url: /east-grinstead/scrivens/
-shop: Optiker
+shop: optician
 ---

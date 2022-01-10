@@ -1,5 +1,5 @@
 ---
 title: "French Eye"
 url: /london/french-eye/
-shop: Kleidung
+shop: clothes
 ---

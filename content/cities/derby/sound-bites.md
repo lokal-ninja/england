@@ -1,5 +1,5 @@
 ---
 title: "Sound Bites"
 url: /derby/sound-bites/
-shop: Lebensmittel
+shop: convenience
 ---

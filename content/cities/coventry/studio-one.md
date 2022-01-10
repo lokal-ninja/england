@@ -1,5 +1,5 @@
 ---
 title: "Studio One"
 url: /coventry/studio-one/
-shop: Friseur
+shop: hairdresser
 ---

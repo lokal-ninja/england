@@ -1,5 +1,5 @@
 ---
 title: "Flooring Superstore.com"
 url: /coventry/flooring-superstore-com/
-shop: Fußböden
+shop: flooring
 ---

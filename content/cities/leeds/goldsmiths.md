@@ -1,5 +1,5 @@
 ---
 title: "Goldsmiths"
 url: /leeds/goldsmiths/
-shop: Schmuck
+shop: jewelry
 ---

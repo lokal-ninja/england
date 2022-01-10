@@ -1,5 +1,5 @@
 ---
 title: "HairWorld"
 url: /norwich/hairworld/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Candy Stop"
 url: /margate/the-candy-stop/
-shop: Süßwaren
+shop: confectionery
 ---

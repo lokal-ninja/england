@@ -1,5 +1,5 @@
 ---
 title: "Fifi Belles"
 url: /be/fifi-belles/
-shop: Kosmetik
+shop: beauty
 ---

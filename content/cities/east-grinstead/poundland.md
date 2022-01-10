@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /east-grinstead/poundland/
-shop: Kramladen
+shop: variety store
 ---

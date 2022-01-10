@@ -1,5 +1,5 @@
 ---
 title: "VIP Nails"
 url: /leicester/vip-nails/
-shop: Kosmetik
+shop: beauty
 ---

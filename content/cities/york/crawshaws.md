@@ -1,5 +1,5 @@
 ---
 title: "Crawshaws"
 url: /york/crawshaws/
-shop: Metzgerei
+shop: butcher
 ---

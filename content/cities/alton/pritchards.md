@@ -1,5 +1,5 @@
 ---
 title: "Pritchards"
 url: /alton/pritchards/
-shop: Autowerkstatt
+shop: car repair
 ---

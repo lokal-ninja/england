@@ -1,5 +1,5 @@
 ---
 title: "Bristol Street Motors Seat"
 url: /darlington/bristol-street-motors-seat/
-shop: Autohaus
+shop: car
 ---

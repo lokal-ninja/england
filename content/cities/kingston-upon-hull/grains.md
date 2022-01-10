@@ -1,5 +1,5 @@
 ---
 title: "Grains"
 url: /kingston-upon-hull/grains/
-shop: Supermarkt
+shop: supermarket
 ---

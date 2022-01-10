@@ -1,5 +1,5 @@
 ---
 title: "Prime Wines"
 url: /guildford/prime-wines/
-shop: Wein
+shop: wine
 ---

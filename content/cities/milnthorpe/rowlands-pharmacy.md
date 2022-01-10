@@ -1,5 +1,5 @@
 ---
 title: "Rowlands Pharmacy"
 url: /milnthorpe/rowlands-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

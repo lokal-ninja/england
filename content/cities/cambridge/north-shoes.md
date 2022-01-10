@@ -1,5 +1,5 @@
 ---
 title: "North Shoes"
 url: /cambridge/north-shoes/
-shop: Schuhe
+shop: shoes
 ---

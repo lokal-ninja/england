@@ -1,5 +1,5 @@
 ---
 title: "Amarache"
 url: /london/amarache/
-shop: Friseur
+shop: hairdresser
 ---

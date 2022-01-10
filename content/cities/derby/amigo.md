@@ -1,5 +1,5 @@
 ---
 title: "Amigo"
 url: /derby/amigo/
-shop: Lebensmittel
+shop: convenience
 ---

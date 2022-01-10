@@ -1,5 +1,5 @@
 ---
 title: "Skeltons"
 url: /leeds/skeltons/
-shop: Metzgerei
+shop: butcher
 ---

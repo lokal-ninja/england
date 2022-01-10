@@ -1,5 +1,5 @@
 ---
 title: "Amaana Tours"
 url: /london/amaana-tours/
-shop: Reisebüro
+shop: travel agency
 ---

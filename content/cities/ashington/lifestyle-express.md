@@ -1,5 +1,5 @@
 ---
 title: "LifeStyle Express"
 url: /ashington/lifestyle-express/
-shop: Lebensmittel
+shop: convenience
 ---

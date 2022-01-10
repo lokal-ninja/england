@@ -1,5 +1,5 @@
 ---
 title: "Autowise Polegate"
 url: /polegate/autowise-polegate/
-shop: Autowerkstatt
+shop: car repair
 ---

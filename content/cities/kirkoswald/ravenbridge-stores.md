@@ -1,5 +1,5 @@
 ---
 title: "Ravenbridge Stores"
 url: /kirkoswald/ravenbridge-stores/
-shop: Lebensmittel
+shop: convenience
 ---

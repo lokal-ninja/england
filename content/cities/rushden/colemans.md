@@ -1,5 +1,5 @@
 ---
 title: "Colemans"
 url: /rushden/colemans/
-shop: Schreibwaren
+shop: office supplies
 ---

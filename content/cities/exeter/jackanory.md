@@ -1,5 +1,5 @@
 ---
 title: "Jackanory"
 url: /exeter/jackanory/
-shop: Spielzeug
+shop: toys
 ---

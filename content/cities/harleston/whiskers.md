@@ -1,5 +1,5 @@
 ---
 title: "Whiskers"
 url: /harleston/whiskers/
-shop: Tiere
+shop: pet
 ---

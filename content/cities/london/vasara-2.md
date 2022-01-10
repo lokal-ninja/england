@@ -1,5 +1,5 @@
 ---
 title: "Vasara"
 url: /london/vasara-2/
-shop: Lebensmittel
+shop: convenience
 ---

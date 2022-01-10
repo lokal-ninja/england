@@ -1,5 +1,5 @@
 ---
 title: "Hunky Dory"
 url: /london/hunky-dory/
-shop: Kleidung
+shop: clothes
 ---

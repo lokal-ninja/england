@@ -1,5 +1,5 @@
 ---
 title: "JoJo Maman Bébé"
 url: /east-grinstead/jojo-maman-bebe/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Thandi's"
 url: /darlington/thandis/
-shop: Lebensmittel
+shop: convenience
 ---

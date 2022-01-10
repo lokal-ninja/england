@@ -1,5 +1,5 @@
 ---
 title: "Revitalize"
 url: /london/revitalize/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Refill And Go"
 url: /leeds/refill-and-go/
-shop: Lebensmittel
+shop: convenience
 ---

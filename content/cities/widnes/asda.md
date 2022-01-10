@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /widnes/asda/
-shop: Supermarkt
+shop: supermarket
 ---

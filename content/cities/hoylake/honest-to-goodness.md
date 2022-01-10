@@ -1,5 +1,5 @@
 ---
 title: "Honest to Goodness"
 url: /hoylake/honest-to-goodness/
-shop: Lebensmittel
+shop: convenience
 ---

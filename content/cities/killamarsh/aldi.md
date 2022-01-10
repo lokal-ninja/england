@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /killamarsh/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

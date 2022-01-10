@@ -1,5 +1,5 @@
 ---
 title: "Gentlemans Hairdresser"
 url: /horsham/gentlemans-hairdresser/
-shop: Friseur
+shop: hairdresser
 ---

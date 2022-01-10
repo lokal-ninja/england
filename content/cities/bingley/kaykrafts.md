@@ -1,5 +1,5 @@
 ---
 title: "Kaykrafts"
 url: /bingley/kaykrafts/
-shop: Basteln
+shop: craft
 ---

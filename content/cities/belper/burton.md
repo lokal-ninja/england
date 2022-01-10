@@ -1,5 +1,5 @@
 ---
 title: "Burton"
 url: /belper/burton/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Co-op Travel"
 url: /leamington-spa/co-op-travel/
-shop: Reisebüro
+shop: travel agency
 ---

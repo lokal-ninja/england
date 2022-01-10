@@ -1,5 +1,5 @@
 ---
 title: "Bismillah Madina Store"
 url: /luton/bismillah-madina-store/
-shop: Lebensmittel
+shop: convenience
 ---

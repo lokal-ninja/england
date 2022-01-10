@@ -1,5 +1,5 @@
 ---
 title: "ProTyre"
 url: /bicester/protyre/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MVE"
 url: /orpington/mve/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

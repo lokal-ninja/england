@@ -1,5 +1,5 @@
 ---
 title: "Vision Express"
 url: /yeadon/vision-express/
-shop: Optiker
+shop: optician
 ---

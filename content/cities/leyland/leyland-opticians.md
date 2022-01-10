@@ -1,5 +1,5 @@
 ---
 title: "Leyland Opticians"
 url: /leyland/leyland-opticians/
-shop: Optiker
+shop: optician
 ---

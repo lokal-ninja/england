@@ -1,5 +1,5 @@
 ---
 title: "Yorvac Tyres"
 url: /york/yorvac-tyres/
-shop: Reifen
+shop: tyres
 ---

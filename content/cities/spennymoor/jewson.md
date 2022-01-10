@@ -1,5 +1,5 @@
 ---
 title: "Jewson"
 url: /spennymoor/jewson/
-shop: Baumarkt
+shop: doityourself
 ---

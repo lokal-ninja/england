@@ -1,5 +1,5 @@
 ---
 title: "Newbells"
 url: /shanklin/newbells/
-shop: Elektronik
+shop: electronics
 ---

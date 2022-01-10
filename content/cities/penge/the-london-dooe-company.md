@@ -1,5 +1,5 @@
 ---
 title: "The London Dooe Company"
 url: /penge/the-london-dooe-company/
-shop: Allgemein
+shop: shop
 ---

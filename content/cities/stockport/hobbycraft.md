@@ -1,5 +1,5 @@
 ---
 title: "Hobbycraft"
 url: /stockport/hobbycraft/
-shop: Basteln
+shop: craft
 ---

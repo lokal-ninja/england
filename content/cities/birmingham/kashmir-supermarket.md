@@ -1,5 +1,5 @@
 ---
 title: "Kashmir Supermarket"
 url: /birmingham/kashmir-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

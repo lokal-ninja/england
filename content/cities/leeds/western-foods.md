@@ -1,5 +1,5 @@
 ---
 title: "Western Foods"
 url: /leeds/western-foods/
-shop: Lebensmittel
+shop: convenience
 ---

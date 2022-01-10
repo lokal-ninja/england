@@ -1,5 +1,5 @@
 ---
 title: "Water Sculptures"
 url: /morecambe/water-sculptures/
-shop: Allgemein
+shop: shop
 ---

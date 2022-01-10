@@ -1,5 +1,5 @@
 ---
 title: "Newsplace"
 url: /nottingham/newsplace/
-shop: Lebensmittel
+shop: convenience
 ---

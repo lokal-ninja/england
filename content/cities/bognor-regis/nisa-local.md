@@ -1,5 +1,5 @@
 ---
 title: "Nisa Local"
 url: /bognor-regis/nisa-local/
-shop: Lebensmittel
+shop: convenience
 ---

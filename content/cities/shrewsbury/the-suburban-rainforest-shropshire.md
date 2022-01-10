@@ -1,5 +1,5 @@
 ---
 title: "The Suburban Rainforest Shropshire"
 url: /shrewsbury/the-suburban-rainforest-shropshire/
-shop: Garten-Center
+shop: garden centre
 ---

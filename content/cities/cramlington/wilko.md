@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
 url: /cramlington/wilko/
-shop: Baumarkt
+shop: doityourself
 ---

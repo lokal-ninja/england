@@ -1,5 +1,5 @@
 ---
 title: "simplyfresh"
 url: /cheltenham/simplyfresh/
-shop: Supermarkt
+shop: supermarket
 ---

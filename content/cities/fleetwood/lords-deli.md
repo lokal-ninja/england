@@ -1,5 +1,5 @@
 ---
 title: "Lords Deli"
 url: /fleetwood/lords-deli/
-shop: Feinkost
+shop: deli
 ---

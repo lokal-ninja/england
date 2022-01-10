@@ -1,5 +1,5 @@
 ---
 title: "Peaks Storehouse"
 url: /cambridge/peaks-storehouse/
-shop: Mieten
+shop: storage rental
 ---

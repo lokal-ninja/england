@@ -1,5 +1,5 @@
 ---
 title: "Deichmann"
 url: /workington/deichmann/
-shop: Schuhe
+shop: shoes
 ---

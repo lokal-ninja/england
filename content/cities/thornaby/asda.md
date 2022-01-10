@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /thornaby/asda/
-shop: Supermarkt
+shop: supermarket
 ---

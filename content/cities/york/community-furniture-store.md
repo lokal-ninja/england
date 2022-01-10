@@ -1,5 +1,5 @@
 ---
 title: "Community Furniture Store"
 url: /york/community-furniture-store/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MenZone"
 url: /haxby/menzone/
-shop: Friseur
+shop: hairdresser
 ---

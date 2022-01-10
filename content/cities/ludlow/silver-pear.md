@@ -1,5 +1,5 @@
 ---
 title: "Silver Pear"
 url: /ludlow/silver-pear/
-shop: Andenken
+shop: gift
 ---

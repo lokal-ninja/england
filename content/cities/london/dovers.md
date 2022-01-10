@@ -1,5 +1,5 @@
 ---
 title: "Dovers"
 url: /london/dovers/
-shop: Blumen
+shop: florist
 ---

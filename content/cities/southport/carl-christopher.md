@@ -1,5 +1,5 @@
 ---
 title: "Carl Christopher"
 url: /southport/carl-christopher/
-shop: Schmuck
+shop: jewelry
 ---

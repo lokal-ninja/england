@@ -1,5 +1,5 @@
 ---
 title: "Suntastic"
 url: /blackburn/suntastic/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Milo Supermarket"
 url: /derby/milo-supermarket/
-shop: Lebensmittel
+shop: convenience
 ---

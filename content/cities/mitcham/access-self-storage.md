@@ -1,5 +1,5 @@
 ---
 title: "Access Self Storage"
 url: /mitcham/access-self-storage/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Shop"
 url: /chatham/the-shop/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /hayle/asda/
-shop: Supermarkt
+shop: supermarket
 ---

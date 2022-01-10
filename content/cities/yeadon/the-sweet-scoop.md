@@ -1,5 +1,5 @@
 ---
 title: "The Sweet Scoop"
 url: /yeadon/the-sweet-scoop/
-shop: Süßwaren
+shop: confectionery
 ---

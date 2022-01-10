@@ -1,5 +1,5 @@
 ---
 title: "Destination Skin"
 url: /birmingham/destination-skin/
-shop: Kosmetik
+shop: beauty
 ---

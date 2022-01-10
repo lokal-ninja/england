@@ -1,5 +1,5 @@
 ---
 title: "Binns"
 url: /darlington/binns/
-shop: Warenhaus
+shop: department store
 ---

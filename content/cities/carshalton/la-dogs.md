@@ -1,5 +1,5 @@
 ---
 title: "LA Dogs"
 url: /carshalton/la-dogs/
-shop: Tiersalon
+shop: pet grooming
 ---

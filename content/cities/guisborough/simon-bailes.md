@@ -1,5 +1,5 @@
 ---
 title: "Simon Bailes"
 url: /guisborough/simon-bailes/
-shop: Autowerkstatt
+shop: car repair
 ---

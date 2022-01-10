@@ -1,5 +1,5 @@
 ---
 title: "Card Factory"
 url: /kettering/card-factory/
-shop: Andenken
+shop: gift
 ---

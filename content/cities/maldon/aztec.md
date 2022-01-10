@@ -1,5 +1,5 @@
 ---
 title: "Aztec"
 url: /maldon/aztec/
-shop: Videospiele
+shop: video games
 ---

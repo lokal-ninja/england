@@ -1,5 +1,5 @@
 ---
 title: "Heaven Farm Shop"
 url: /uckfield/heaven-farm-shop/
-shop: Hofladen
+shop: farm
 ---

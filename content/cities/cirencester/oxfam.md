@@ -1,5 +1,5 @@
 ---
 title: "Oxfam"
 url: /cirencester/oxfam/
-shop: Gebrauchtwaren
+shop: charity
 ---

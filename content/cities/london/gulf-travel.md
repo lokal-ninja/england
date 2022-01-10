@@ -1,5 +1,5 @@
 ---
 title: "Gulf Travel"
 url: /london/gulf-travel/
-shop: Reisebüro
+shop: travel agency
 ---

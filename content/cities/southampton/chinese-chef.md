@@ -1,5 +1,5 @@
 ---
 title: "Chinese Chef"
 url: /southampton/chinese-chef/
-shop: Allgemein
+shop: shop
 ---

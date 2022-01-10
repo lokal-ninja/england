@@ -1,5 +1,5 @@
 ---
 title: "Ali Baba Stationery"
 url: /bristol/ali-baba-stationery/
-shop: Schreibwaren
+shop: office supplies
 ---

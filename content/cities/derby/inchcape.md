@@ -1,5 +1,5 @@
 ---
 title: "Inchcape"
 url: /derby/inchcape/
-shop: Autohaus
+shop: car
 ---

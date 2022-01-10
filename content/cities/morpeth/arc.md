@@ -1,5 +1,5 @@
 ---
 title: "ARC"
 url: /morpeth/arc/
-shop: Küchen
+shop: kitchen
 ---

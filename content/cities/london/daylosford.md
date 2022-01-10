@@ -1,5 +1,5 @@
 ---
 title: "Daylosford"
 url: /london/daylosford/
-shop: Hofladen
+shop: farm
 ---

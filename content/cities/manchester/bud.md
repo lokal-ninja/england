@@ -1,5 +1,5 @@
 ---
 title: "Bud"
 url: /manchester/bud/
-shop: Garten-Center
+shop: garden centre
 ---

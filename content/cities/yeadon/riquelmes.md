@@ -1,5 +1,5 @@
 ---
 title: "Riquelme's"
 url: /yeadon/riquelmes/
-shop: Bäckerei
+shop: bakery
 ---

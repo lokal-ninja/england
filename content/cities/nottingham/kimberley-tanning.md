@@ -1,5 +1,5 @@
 ---
 title: "Kimberley Tanning"
 url: /nottingham/kimberley-tanning/
-shop: Gerberei
+shop: tanning
 ---

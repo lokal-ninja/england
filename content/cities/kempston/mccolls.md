@@ -1,5 +1,5 @@
 ---
 title: "McColl's"
 url: /kempston/mccolls/
-shop: Lebensmittel
+shop: convenience
 ---

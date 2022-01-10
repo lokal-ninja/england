@@ -1,5 +1,5 @@
 ---
 title: "Golden"
 url: /glasshoughton/golden/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pure Nails"
 url: /derby/pure-nails/
-shop: Kosmetik
+shop: beauty
 ---

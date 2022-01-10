@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /halesworth/spar/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lee's Jewellers"
 url: /devizes/lees-jewellers/
-shop: Schmuck
+shop: jewelry
 ---

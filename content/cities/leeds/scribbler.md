@@ -1,5 +1,5 @@
 ---
 title: "Scribbler"
 url: /leeds/scribbler/
-shop: Andenken
+shop: gift
 ---

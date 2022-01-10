@@ -1,5 +1,5 @@
 ---
 title: "Harvest Wine Store"
 url: /london/harvest-wine-store/
-shop: Lebensmittel
+shop: convenience
 ---

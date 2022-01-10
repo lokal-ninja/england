@@ -1,5 +1,5 @@
 ---
 title: "Bonmarché"
 url: /scunthorpe/bonmarche/
-shop: Kleidung
+shop: clothes
 ---

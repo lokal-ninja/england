@@ -1,5 +1,5 @@
 ---
 title: "Mioritic"
 url: /harrow/mioritic/
-shop: Lebensmittel
+shop: convenience
 ---

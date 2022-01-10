@@ -1,5 +1,5 @@
 ---
 title: "Sports Zone Cumbria"
 url: /whitehaven/sports-zone-cumbria/
-shop: Sport
+shop: sports
 ---

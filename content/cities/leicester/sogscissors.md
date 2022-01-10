@@ -1,5 +1,5 @@
 ---
 title: "Sogscissors"
 url: /leicester/sogscissors/
-shop: Friseur
+shop: hairdresser
 ---

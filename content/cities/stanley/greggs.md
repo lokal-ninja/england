@@ -1,5 +1,5 @@
 ---
 title: "Greggs"
 url: /stanley/greggs/
-shop: Bäckerei
+shop: bakery
 ---

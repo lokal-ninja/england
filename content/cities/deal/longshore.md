@@ -1,5 +1,5 @@
 ---
 title: "Longshore"
 url: /deal/longshore/
-shop: Schlüsseldienst
+shop: locksmith
 ---

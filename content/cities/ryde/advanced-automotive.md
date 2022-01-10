@@ -1,5 +1,5 @@
 ---
 title: "Advanced Automotive"
 url: /ryde/advanced-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

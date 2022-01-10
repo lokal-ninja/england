@@ -1,5 +1,5 @@
 ---
 title: "Ted Baker"
 url: /braintree/ted-baker/
-shop: Kleidung
+shop: clothes
 ---

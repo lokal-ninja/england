@@ -1,5 +1,5 @@
 ---
 title: "Oxfam"
 url: /southsea/oxfam/
-shop: Gebrauchtwaren
+shop: charity
 ---

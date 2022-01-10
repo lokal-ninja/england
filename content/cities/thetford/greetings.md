@@ -1,5 +1,5 @@
 ---
 title: "Greetings"
 url: /thetford/greetings/
-shop: Andenken
+shop: gift
 ---

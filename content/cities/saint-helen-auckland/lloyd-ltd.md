@@ -1,5 +1,5 @@
 ---
 title: "Lloyd Ltd"
 url: /saint-helen-auckland/lloyd-ltd/
-shop: Baustoffe
+shop: trade
 ---

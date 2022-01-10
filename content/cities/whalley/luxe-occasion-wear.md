@@ -1,5 +1,5 @@
 ---
 title: "Luxe Occasion Wear"
 url: /whalley/luxe-occasion-wear/
-shop: Kleidung
+shop: clothes
 ---

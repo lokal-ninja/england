@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
 url: /bordon/wilko/
-shop: Kramladen
+shop: variety store
 ---

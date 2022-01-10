@@ -1,5 +1,5 @@
 ---
 title: "Cycology"
 url: /chippenham/cycology/
-shop: Fahrrad
+shop: bicycle
 ---

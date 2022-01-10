@@ -1,5 +1,5 @@
 ---
 title: "Figaro Hair Dresser"
 url: /whitton/figaro-hair-dresser/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Defined Floorings"
 url: /cockermouth/defined-floorings/
-shop: Fußböden
+shop: flooring
 ---

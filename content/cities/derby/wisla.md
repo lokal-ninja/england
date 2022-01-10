@@ -1,5 +1,5 @@
 ---
 title: "Wisla"
 url: /derby/wisla/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Game"
 url: /luton/game/
-shop: Videospiele
+shop: video games
 ---

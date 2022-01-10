@@ -1,11 +1,11 @@
-id: 1626142957
-type: node
-latitude: 53.80825
-longitude: -1.73111
-postcode: "BD2 4QF"
+id: 150570360
+type: way
+latitude: 53.76792
+longitude: -1.84107
+postcode: "BD13 1QD"
 city: Bradford
-street: "Otley Road"
-housenumber: 465-469
+street: "Brighouse Road"
+housenumber: 3
 phone: ""
-opening_hours: ""
-website: "https://www.tesco.com/store-locator/bradford/465-469-otley-rd"
+opening_hours: "Mo-Sa 07:00-23:00; Su 10:00-16:00"
+website: ""

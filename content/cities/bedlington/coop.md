@@ -1,5 +1,5 @@
 ---
 title: "Coop"
 url: /bedlington/coop/
-shop: Supermarkt
+shop: supermarket
 ---

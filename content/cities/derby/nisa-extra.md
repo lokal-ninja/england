@@ -1,5 +1,5 @@
 ---
 title: "Nisa Extra"
 url: /derby/nisa-extra/
-shop: Supermarkt
+shop: supermarket
 ---

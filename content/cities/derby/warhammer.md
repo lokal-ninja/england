@@ -1,5 +1,5 @@
 ---
 title: "Warhammer"
 url: /derby/warhammer/
-shop: Spiele
+shop: games
 ---

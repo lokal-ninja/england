@@ -1,5 +1,5 @@
 ---
 title: "Cecil Gee"
 url: /manchester/cecil-gee/
-shop: Allgemein
+shop: shop
 ---

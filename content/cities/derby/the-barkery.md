@@ -1,5 +1,5 @@
 ---
 title: "The Barkery"
 url: /derby/the-barkery/
-shop: Allgemein
+shop: shop
 ---

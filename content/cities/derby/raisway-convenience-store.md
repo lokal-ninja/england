@@ -1,5 +1,5 @@
 ---
 title: "Raisway Convenience Store"
 url: /derby/raisway-convenience-store/
-shop: Lebensmittel
+shop: convenience
 ---

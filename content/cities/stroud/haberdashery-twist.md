@@ -1,5 +1,5 @@
 ---
 title: "Haberdashery Twist"
 url: /stroud/haberdashery-twist/
-shop: Textil
+shop: fabric
 ---

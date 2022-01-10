@@ -1,5 +1,5 @@
 ---
 title: "Floral Boutique"
 url: /cockermouth/floral-boutique/
-shop: Blumen
+shop: florist
 ---

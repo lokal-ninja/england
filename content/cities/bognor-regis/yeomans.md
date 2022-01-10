@@ -1,5 +1,5 @@
 ---
 title: "Yeomans"
 url: /bognor-regis/yeomans/
-shop: Autohaus
+shop: car
 ---

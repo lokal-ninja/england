@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /chorley/spar-2/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Honour"
 url: /watford/honour/
-shop: Kleidung
+shop: clothes
 ---

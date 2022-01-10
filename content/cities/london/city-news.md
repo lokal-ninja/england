@@ -1,5 +1,5 @@
 ---
 title: "City News"
 url: /london/city-news/
-shop: Zeitungen
+shop: newsagent
 ---

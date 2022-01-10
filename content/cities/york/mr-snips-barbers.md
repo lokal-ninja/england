@@ -1,5 +1,5 @@
 ---
 title: "Mr Snips Barbers"
 url: /york/mr-snips-barbers/
-shop: Friseur
+shop: hairdresser
 ---

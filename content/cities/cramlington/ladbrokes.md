@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /cramlington/ladbrokes/
-shop: Wettbüro
+shop: bookmaker
 ---

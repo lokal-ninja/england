@@ -1,5 +1,5 @@
 ---
 title: "Cruise365"
 url: /crook/cruise365/
-shop: Reisebüro
+shop: travel agency
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /shepton-mallet/tesco/
-shop: Supermarkt
+shop: supermarket
 ---

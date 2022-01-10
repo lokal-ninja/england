@@ -1,5 +1,5 @@
 ---
 title: "Godmanchester Community Nursery"
 url: /godmanchester/godmanchester-community-nursery/
-shop: Allgemein
+shop: shop
 ---

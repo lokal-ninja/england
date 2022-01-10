@@ -1,5 +1,5 @@
 ---
 title: "Arcadia"
 url: /sunderland/arcadia/
-shop: Allgemein
+shop: shop
 ---

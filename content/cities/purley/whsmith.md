@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /purley/whsmith/
-shop: Zeitungen
+shop: newsagent
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Macklin Food Store"
 url: /derby/macklin-food-store/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lion Furniture"
 url: /london/lion-furniture/
-shop: Möbel
+shop: furniture
 ---

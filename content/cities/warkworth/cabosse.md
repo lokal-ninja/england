@@ -1,5 +1,5 @@
 ---
 title: "Cabosse"
 url: /warkworth/cabosse/
-shop: Süßwaren
+shop: confectionery
 ---

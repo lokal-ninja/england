@@ -1,5 +1,5 @@
 ---
 title: "Robert Dyas"
 url: /oxford/robert-dyas/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Camden Guitars"
 url: /london/camden-guitars/
-shop: Instrumente
+shop: musical instrument
 ---

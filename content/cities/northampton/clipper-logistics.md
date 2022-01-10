@@ -1,5 +1,5 @@
 ---
 title: "Clipper Logistics"
 url: /northampton/clipper-logistics/
-shop: Warenhaus
+shop: department store
 ---

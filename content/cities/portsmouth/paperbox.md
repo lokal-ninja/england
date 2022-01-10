@@ -1,5 +1,5 @@
 ---
 title: "Paperbox"
 url: /portsmouth/paperbox/
-shop: Lebensmittel
+shop: convenience
 ---

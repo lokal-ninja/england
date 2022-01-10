@@ -1,5 +1,5 @@
 ---
 title: "Homecare"
 url: /poulton-le-fylde/homecare/
-shop: Eisenwaren
+shop: hardware
 ---

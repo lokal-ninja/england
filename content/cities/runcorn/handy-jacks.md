@@ -1,5 +1,5 @@
 ---
 title: "Handy Jacks"
 url: /runcorn/handy-jacks/
-shop: Eisenwaren
+shop: hardware
 ---

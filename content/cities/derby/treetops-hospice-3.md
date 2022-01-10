@@ -1,5 +1,5 @@
 ---
 title: "Treetops Hospice"
 url: /derby/treetops-hospice-3/
-shop: Gebrauchtwaren
+shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mountain Warehouse"
 url: /ashford/mountain-warehouse/
-shop: Outdoor
+shop: outdoor
 ---

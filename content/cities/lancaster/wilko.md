@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
 url: /lancaster/wilko/
-shop: Kramladen
+shop: variety store
 ---

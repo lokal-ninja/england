@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /cowes/poundland/
-shop: Kramladen
+shop: variety store
 ---

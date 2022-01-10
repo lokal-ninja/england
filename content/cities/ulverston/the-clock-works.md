@@ -1,5 +1,5 @@
 ---
 title: "The Clock Works"
 url: /ulverston/the-clock-works/
-shop: Antiquitäten
+shop: antiques
 ---

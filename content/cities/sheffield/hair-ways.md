@@ -1,5 +1,5 @@
 ---
 title: "Hair Ways"
 url: /sheffield/hair-ways/
-shop: Kosmetik
+shop: beauty
 ---

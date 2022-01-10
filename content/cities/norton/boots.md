@@ -1,5 +1,5 @@
 ---
 title: "Boots"
 url: /norton/boots/
-shop: Drogerie
+shop: chemist
 ---

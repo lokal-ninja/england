@@ -1,5 +1,5 @@
 ---
 title: "RymanStationary"
 url: /orpington/rymanstationary/
-shop: Schreibwaren
+shop: office supplies
 ---

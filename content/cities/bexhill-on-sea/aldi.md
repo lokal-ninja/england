@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /bexhill-on-sea/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

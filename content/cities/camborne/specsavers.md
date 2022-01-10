@@ -1,5 +1,5 @@
 ---
 title: "Specsavers"
 url: /camborne/specsavers/
-shop: Optiker
+shop: optician
 ---

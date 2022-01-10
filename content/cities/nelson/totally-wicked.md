@@ -1,5 +1,5 @@
 ---
 title: "Totally Wicked"
 url: /nelson/totally-wicked/
-shop: Allgemein
+shop: shop
 ---

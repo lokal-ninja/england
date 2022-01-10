@@ -1,5 +1,5 @@
 ---
 title: "R. Binding"
 url: /nottingham/r-binding/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Upper Dry Cleaners"
 url: /london/upper-dry-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

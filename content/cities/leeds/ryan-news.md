@@ -1,5 +1,5 @@
 ---
 title: "Ryan News"
 url: /leeds/ryan-news/
-shop: Zeitungen
+shop: newsagent
 ---

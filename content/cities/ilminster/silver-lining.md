@@ -1,5 +1,5 @@
 ---
 title: "Silver Lining"
 url: /ilminster/silver-lining/
-shop: Sport
+shop: sports
 ---

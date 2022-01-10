@@ -1,5 +1,5 @@
 ---
 title: "Global Service"
 url: /london/global-service/
-shop: Reisebüro
+shop: travel agency
 ---

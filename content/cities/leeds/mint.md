@@ -1,5 +1,5 @@
 ---
 title: "Mint"
 url: /leeds/mint/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Revive"
 url: /carlisle/revive/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /west-bromwich/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gap"
 url: /wandsworth/gap/
-shop: Kleidung
+shop: clothes
 ---

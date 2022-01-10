@@ -1,5 +1,5 @@
 ---
 title: "Mode BMX"
 url: /derby/mode-bmx/
-shop: Fahrrad
+shop: bicycle
 ---

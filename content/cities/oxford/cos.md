@@ -1,5 +1,5 @@
 ---
 title: "COS"
 url: /oxford/cos/
-shop: Kleidung
+shop: clothes
 ---

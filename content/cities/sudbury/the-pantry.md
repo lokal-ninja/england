@@ -1,5 +1,5 @@
 ---
 title: "The Pantry"
 url: /sudbury/the-pantry/
-shop: Allgemein
+shop: shop
 ---

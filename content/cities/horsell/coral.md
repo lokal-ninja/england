@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /horsell/coral/
-shop: Wettbüro
+shop: bookmaker
 ---

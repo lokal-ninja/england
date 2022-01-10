@@ -1,5 +1,5 @@
 ---
 title: "Dogtown"
 url: /london/dogtown/
-shop: Tiersalon
+shop: pet grooming
 ---

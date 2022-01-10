@@ -1,5 +1,5 @@
 ---
 title: "Trespass"
 url: /newbury/trespass/
-shop: Outdoor
+shop: outdoor
 ---

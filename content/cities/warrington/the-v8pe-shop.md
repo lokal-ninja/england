@@ -1,5 +1,5 @@
 ---
 title: "The V8pe Shop"
 url: /warrington/the-v8pe-shop/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

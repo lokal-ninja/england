@@ -1,5 +1,5 @@
 ---
 title: "Priory Selfstore"
 url: /broadstairs/priory-selfstore/
-shop: Mieten
+shop: storage rental
 ---

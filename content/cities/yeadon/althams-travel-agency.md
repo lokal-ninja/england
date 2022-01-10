@@ -1,5 +1,5 @@
 ---
 title: "Althams Travel Agency"
 url: /yeadon/althams-travel-agency/
-shop: Reisebüro
+shop: travel agency
 ---

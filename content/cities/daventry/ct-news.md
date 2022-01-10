@@ -1,5 +1,5 @@
 ---
 title: "CT News"
 url: /daventry/ct-news/
-shop: Zeitungen
+shop: newsagent
 ---

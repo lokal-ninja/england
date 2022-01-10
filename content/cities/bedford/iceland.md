@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /bedford/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

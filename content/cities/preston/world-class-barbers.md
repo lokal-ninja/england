@@ -1,5 +1,5 @@
 ---
 title: "World Class Barbers"
 url: /preston/world-class-barbers/
-shop: Friseur
+shop: hairdresser
 ---

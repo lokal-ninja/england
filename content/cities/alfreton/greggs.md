@@ -1,5 +1,5 @@
 ---
 title: "Greggs"
 url: /alfreton/greggs/
-shop: Bäckerei
+shop: bakery
 ---

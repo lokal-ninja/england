@@ -1,5 +1,5 @@
 ---
 title: "Oka"
 url: /bath/oka/
-shop: Möbel
+shop: furniture
 ---

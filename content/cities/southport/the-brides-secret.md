@@ -1,5 +1,5 @@
 ---
 title: "The Brides Secret"
 url: /southport/the-brides-secret/
-shop: Allgemein
+shop: shop
 ---

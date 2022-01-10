@@ -1,5 +1,5 @@
 ---
 title: "FAB Home Interiors"
 url: /plantation-bridge/fab-home-interiors/
-shop: Raumausstattung
+shop: interior decoration
 ---

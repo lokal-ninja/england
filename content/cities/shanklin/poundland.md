@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /shanklin/poundland/
-shop: Kramladen
+shop: variety store
 ---

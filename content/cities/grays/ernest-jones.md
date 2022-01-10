@@ -1,5 +1,5 @@
 ---
 title: "Ernest Jones"
 url: /grays/ernest-jones/
-shop: Schmuck
+shop: jewelry
 ---

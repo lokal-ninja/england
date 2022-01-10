@@ -1,5 +1,5 @@
 ---
 title: "Laura Ashley Home"
 url: /sheffield/laura-ashley-home/
-shop: Möbel
+shop: furniture
 ---

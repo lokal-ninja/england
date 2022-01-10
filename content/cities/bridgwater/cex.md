@@ -1,5 +1,5 @@
 ---
 title: "CeX"
 url: /bridgwater/cex/
-shop: Kramladen
+shop: variety store
 ---

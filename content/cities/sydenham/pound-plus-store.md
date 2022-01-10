@@ -1,5 +1,5 @@
 ---
 title: "Pound Plus Store"
 url: /sydenham/pound-plus-store/
-shop: Kramladen
+shop: variety store
 ---

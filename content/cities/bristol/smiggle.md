@@ -1,5 +1,5 @@
 ---
 title: "smiggle"
 url: /bristol/smiggle/
-shop: Schreibwaren
+shop: office supplies
 ---

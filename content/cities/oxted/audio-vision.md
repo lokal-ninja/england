@@ -1,5 +1,5 @@
 ---
 title: "Audio Vision"
 url: /oxted/audio-vision/
-shop: Elektronik
+shop: electronics
 ---

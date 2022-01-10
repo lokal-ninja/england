@@ -1,5 +1,5 @@
 ---
 title: "The Creative Cupcake Company"
 url: /wellingborough/the-creative-cupcake-company/
-shop: Konditorei
+shop: pastry
 ---

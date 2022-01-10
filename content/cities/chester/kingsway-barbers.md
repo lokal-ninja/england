@@ -1,5 +1,5 @@
 ---
 title: "Kingsway Barbers"
 url: /chester/kingsway-barbers/
-shop: Friseur
+shop: hairdresser
 ---

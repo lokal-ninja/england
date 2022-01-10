@@ -1,5 +1,5 @@
 ---
 title: "Shampoodles"
 url: /nottingham/shampoodles/
-shop: Tiersalon
+shop: pet grooming
 ---

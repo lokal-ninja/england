@@ -1,5 +1,5 @@
 ---
 title: "CeX"
 url: /south-shields/cex/
-shop: Elektronik
+shop: electronics
 ---

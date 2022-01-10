@@ -1,5 +1,5 @@
 ---
 title: "Motormech"
 url: /birmingham/motormech/
-shop: Autowerkstatt
+shop: car repair
 ---

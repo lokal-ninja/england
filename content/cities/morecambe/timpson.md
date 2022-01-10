@@ -1,5 +1,5 @@
 ---
 title: "Timpson"
 url: /morecambe/timpson/
-shop: Schlüsseldienst
+shop: locksmith
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Platinum Trade Windows"
 url: /coventry/platinum-trade-windows/
-shop: Allgemein
+shop: shop
 ---

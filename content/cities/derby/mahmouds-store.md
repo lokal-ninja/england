@@ -1,5 +1,5 @@
 ---
 title: "Mahmoud's Store"
 url: /derby/mahmouds-store/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Storage Place - Order Fulfilment"
 url: /gateshead/the-storage-place-order-fulfilment/
-shop: Mieten
+shop: storage rental
 ---

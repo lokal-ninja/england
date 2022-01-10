@@ -1,5 +1,5 @@
 ---
 title: "Handbridge Pharmacy"
 url: /chester/handbridge-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

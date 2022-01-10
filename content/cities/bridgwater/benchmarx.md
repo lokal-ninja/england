@@ -1,5 +1,5 @@
 ---
 title: "Benchmarx"
 url: /bridgwater/benchmarx/
-shop: Küchen
+shop: kitchen
 ---

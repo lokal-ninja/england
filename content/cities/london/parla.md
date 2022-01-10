@@ -1,5 +1,5 @@
 ---
 title: "Parla"
 url: /london/parla/
-shop: Allgemein
+shop: shop
 ---

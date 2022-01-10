@@ -1,5 +1,5 @@
 ---
 title: "Hillarys"
 url: /cheltenham/hillarys/
-shop: Gardinen
+shop: curtain
 ---

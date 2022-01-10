@@ -1,5 +1,5 @@
 ---
 title: "Cockles"
 url: /flookburgh/cockles/
-shop: Lebensmittel
+shop: convenience
 ---

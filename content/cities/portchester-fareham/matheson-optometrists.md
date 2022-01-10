@@ -1,5 +1,5 @@
 ---
 title: "Matheson Optometrists"
 url: /portchester-fareham/matheson-optometrists/
-shop: Optiker
+shop: optician
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /canterbury/premier/
-shop: Lebensmittel
+shop: convenience
 ---

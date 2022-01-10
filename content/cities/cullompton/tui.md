@@ -1,5 +1,5 @@
 ---
 title: "TUI"
 url: /cullompton/tui/
-shop: Reisebüro
+shop: travel agency
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CeX"
 url: /peterlee/cex/
-shop: Elektronik
+shop: electronics
 ---

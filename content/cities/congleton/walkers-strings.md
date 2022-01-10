@@ -1,5 +1,5 @@
 ---
 title: "Walker's Strings"
 url: /congleton/walkers-strings/
-shop: Instrumente
+shop: musical instrument
 ---

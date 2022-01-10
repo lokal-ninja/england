@@ -1,5 +1,5 @@
 ---
 title: "Denton Grocers"
 url: /gravesend/denton-grocers/
-shop: Lebensmittel
+shop: convenience
 ---

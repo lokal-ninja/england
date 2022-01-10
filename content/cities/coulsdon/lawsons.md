@@ -1,5 +1,5 @@
 ---
 title: "Lawsons"
 url: /coulsdon/lawsons/
-shop: Baumarkt
+shop: doityourself
 ---

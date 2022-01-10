@@ -1,5 +1,5 @@
 ---
 title: "Pet's Corner"
 url: /chudleigh/pets-corner/
-shop: Tiere
+shop: pet
 ---

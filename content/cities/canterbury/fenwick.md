@@ -1,5 +1,5 @@
 ---
 title: "Fenwick"
 url: /canterbury/fenwick/
-shop: Warenhaus
+shop: department store
 ---

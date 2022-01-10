@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /bampton/costcutter/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Crazycuts"
 url: /skegness/crazycuts/
-shop: Kramladen
+shop: variety store
 ---

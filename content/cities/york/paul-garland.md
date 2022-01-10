@@ -1,5 +1,5 @@
 ---
 title: "Paul Garland"
 url: /york/paul-garland/
-shop: Autowerkstatt
+shop: car repair
 ---

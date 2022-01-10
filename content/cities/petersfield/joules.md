@@ -1,5 +1,5 @@
 ---
 title: "Joules"
 url: /petersfield/joules/
-shop: Kleidung
+shop: clothes
 ---

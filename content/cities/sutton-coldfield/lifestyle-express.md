@@ -1,5 +1,5 @@
 ---
 title: "Lifestyle Express"
 url: /sutton-coldfield/lifestyle-express/
-shop: Lebensmittel
+shop: convenience
 ---

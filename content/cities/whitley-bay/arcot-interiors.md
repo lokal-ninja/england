@@ -1,5 +1,5 @@
 ---
 title: "Arcot Interiors"
 url: /whitley-bay/arcot-interiors/
-shop: Raumausstattung
+shop: interior decoration
 ---

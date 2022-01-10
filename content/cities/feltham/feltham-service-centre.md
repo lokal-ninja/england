@@ -1,5 +1,5 @@
 ---
 title: "Feltham Service Centre"
 url: /feltham/feltham-service-centre/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "QD"
 url: /peterborough/qd/
-shop: Warenhaus
+shop: department store
 ---

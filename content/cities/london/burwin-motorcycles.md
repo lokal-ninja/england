@@ -1,5 +1,5 @@
 ---
 title: "Burwin Motorcycles"
 url: /london/burwin-motorcycles/
-shop: Motorrad
+shop: motorcycle
 ---

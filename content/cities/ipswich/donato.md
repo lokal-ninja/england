@@ -1,5 +1,5 @@
 ---
 title: "Donato"
 url: /ipswich/donato/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Quick Shopping"
 url: /london/quick-shopping/
-shop: Lebensmittel
+shop: convenience
 ---

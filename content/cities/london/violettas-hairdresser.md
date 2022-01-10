@@ -1,5 +1,5 @@
 ---
 title: "Violetta’s Hairdresser"
 url: /london/violettas-hairdresser/
-shop: Friseur
+shop: hairdresser
 ---

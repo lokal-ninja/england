@@ -1,5 +1,5 @@
 ---
 title: "Salvino"
 url: /london-borough-of-camden/salvino/
-shop: Feinkost
+shop: deli
 ---

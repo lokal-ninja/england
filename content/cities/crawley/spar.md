@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /crawley/spar/
-shop: Lebensmittel
+shop: convenience
 ---

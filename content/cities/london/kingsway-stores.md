@@ -1,5 +1,5 @@
 ---
 title: "Kingsway Stores"
 url: /london/kingsway-stores/
-shop: Lebensmittel
+shop: convenience
 ---

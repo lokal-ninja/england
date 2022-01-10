@@ -1,5 +1,5 @@
 ---
 title: "Bespoke Wig"
 url: /chorleywood/bespoke-wig/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /swanley/coral/
-shop: Wettbüro
+shop: bookmaker
 ---

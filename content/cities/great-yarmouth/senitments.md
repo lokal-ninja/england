@@ -1,5 +1,5 @@
 ---
 title: "Senitments"
 url: /great-yarmouth/senitments/
-shop: Andenken
+shop: gift
 ---

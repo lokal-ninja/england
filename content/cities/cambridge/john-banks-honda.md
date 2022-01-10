@@ -1,5 +1,5 @@
 ---
 title: "John Banks Honda"
 url: /cambridge/john-banks-honda/
-shop: Motorrad
+shop: motorcycle
 ---

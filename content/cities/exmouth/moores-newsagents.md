@@ -1,5 +1,5 @@
 ---
 title: "Moore's Newsagents"
 url: /exmouth/moores-newsagents/
-shop: Zeitungen
+shop: newsagent
 ---

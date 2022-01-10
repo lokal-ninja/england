@@ -1,5 +1,5 @@
 ---
 title: "Baltic"
 url: /spalding/baltic/
-shop: Lebensmittel
+shop: convenience
 ---

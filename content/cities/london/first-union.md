@@ -1,5 +1,5 @@
 ---
 title: "First Union"
 url: /london/first-union/
-shop: Immobilien
+shop: estate agent
 ---

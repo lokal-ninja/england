@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
 url: /haywards-heath/vodafone/
-shop: Handy
+shop: mobile phone
 ---

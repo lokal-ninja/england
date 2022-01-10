@@ -1,5 +1,5 @@
 ---
 title: "Cottage Street Garage"
 url: /macclesfield/cottage-street-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

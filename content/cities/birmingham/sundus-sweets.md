@@ -1,5 +1,5 @@
 ---
 title: "Sundus Sweets"
 url: /birmingham/sundus-sweets/
-shop: Süßwaren
+shop: confectionery
 ---

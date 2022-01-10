@@ -1,5 +1,5 @@
 ---
 title: "Game"
 url: /grays/game/
-shop: Videospiele
+shop: video games
 ---

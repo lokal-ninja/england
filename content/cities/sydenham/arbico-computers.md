@@ -1,5 +1,5 @@
 ---
 title: "Arbico Computers"
 url: /sydenham/arbico-computers/
-shop: Computer
+shop: computer
 ---

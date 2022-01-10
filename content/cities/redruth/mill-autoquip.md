@@ -1,5 +1,5 @@
 ---
 title: "Mill Autoquip"
 url: /redruth/mill-autoquip/
-shop: Autoteile
+shop: car parts
 ---

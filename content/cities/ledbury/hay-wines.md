@@ -1,5 +1,5 @@
 ---
 title: "Hay Wines"
 url: /ledbury/hay-wines/
-shop: Wein
+shop: wine
 ---

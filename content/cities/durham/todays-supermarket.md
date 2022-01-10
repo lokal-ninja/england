@@ -1,5 +1,5 @@
 ---
 title: "Todays Supermarket"
 url: /durham/todays-supermarket/
-shop: Lebensmittel
+shop: convenience
 ---

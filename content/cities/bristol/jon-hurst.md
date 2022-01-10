@@ -1,5 +1,5 @@
 ---
 title: "Jon Hurst"
 url: /bristol/jon-hurst/
-shop: Friseur
+shop: hairdresser
 ---

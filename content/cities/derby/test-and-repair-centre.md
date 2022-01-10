@@ -1,5 +1,5 @@
 ---
 title: "Test and Repair Centre"
 url: /derby/test-and-repair-centre/
-shop: Autowerkstatt
+shop: car repair
 ---

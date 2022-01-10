@@ -1,5 +1,5 @@
 ---
 title: "Blown Away"
 url: /sandown/blown-away/
-shop: Friseur
+shop: hairdresser
 ---

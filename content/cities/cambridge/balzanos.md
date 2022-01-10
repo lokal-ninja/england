@@ -1,5 +1,5 @@
 ---
 title: "Balzano's"
 url: /cambridge/balzanos/
-shop: Feinkost
+shop: deli
 ---

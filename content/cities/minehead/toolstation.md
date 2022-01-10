@@ -1,5 +1,5 @@
 ---
 title: "Toolstation"
 url: /minehead/toolstation/
-shop: Baumarkt
+shop: doityourself
 ---

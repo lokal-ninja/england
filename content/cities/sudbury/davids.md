@@ -1,5 +1,5 @@
 ---
 title: "David's"
 url: /sudbury/davids/
-shop: Feinkost
+shop: deli
 ---

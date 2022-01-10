@@ -1,5 +1,5 @@
 ---
 title: "Toolmaster"
 url: /oxford/toolmaster/
-shop: Eisenwaren
+shop: hardware
 ---

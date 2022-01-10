@@ -1,5 +1,5 @@
 ---
 title: "It's Tea Ltd."
 url: /poole/its-tea-ltd/
-shop: Tee
+shop: tea
 ---

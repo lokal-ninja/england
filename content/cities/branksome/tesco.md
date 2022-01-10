@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /branksome/tesco/
-shop: Supermarkt
+shop: supermarket
 ---

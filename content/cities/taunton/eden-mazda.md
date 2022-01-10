@@ -1,5 +1,5 @@
 ---
 title: "Eden Mazda"
 url: /taunton/eden-mazda/
-shop: Autohaus
+shop: car
 ---

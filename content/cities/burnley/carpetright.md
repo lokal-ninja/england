@@ -1,5 +1,5 @@
 ---
 title: "Carpetright"
 url: /burnley/carpetright/
-shop: Teppiche
+shop: carpet
 ---

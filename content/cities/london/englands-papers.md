@@ -1,5 +1,5 @@
 ---
 title: "England's Papers"
 url: /london/englands-papers/
-shop: Schreibwaren
+shop: office supplies
 ---

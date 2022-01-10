@@ -1,5 +1,5 @@
 ---
 title: "Henry's Barber"
 url: /newcastle-upon-tyne/henrys-barber/
-shop: Friseur
+shop: hairdresser
 ---

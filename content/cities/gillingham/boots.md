@@ -1,5 +1,5 @@
 ---
 title: "Boots"
 url: /gillingham/boots/
-shop: Drogerie
+shop: chemist
 ---

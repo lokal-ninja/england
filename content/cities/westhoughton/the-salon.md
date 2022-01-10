@@ -1,5 +1,5 @@
 ---
 title: "The Salon"
 url: /westhoughton/the-salon/
-shop: Friseur
+shop: hairdresser
 ---

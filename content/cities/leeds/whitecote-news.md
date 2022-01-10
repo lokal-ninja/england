@@ -1,5 +1,5 @@
 ---
 title: "Whitecote News"
 url: /leeds/whitecote-news/
-shop: Lebensmittel
+shop: convenience
 ---

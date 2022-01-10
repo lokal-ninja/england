@@ -1,5 +1,5 @@
 ---
 title: "Sussex Crafts"
 url: /haywards-heath/sussex-crafts/
-shop: Spielzeug
+shop: toys
 ---

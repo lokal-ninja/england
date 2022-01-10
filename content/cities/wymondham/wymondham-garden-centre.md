@@ -1,5 +1,5 @@
 ---
 title: "Wymondham Garden Centre"
 url: /wymondham/wymondham-garden-centre/
-shop: Garten-Center
+shop: garden centre
 ---

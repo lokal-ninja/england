@@ -1,5 +1,5 @@
 ---
 title: "Overland Cruisers"
 url: /upper-eggleton/overland-cruisers/
-shop: Autowerkstatt
+shop: car repair
 ---

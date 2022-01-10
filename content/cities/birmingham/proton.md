@@ -1,5 +1,5 @@
 ---
 title: "Proton"
 url: /birmingham/proton/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Melish's Costcutter"
 url: /ryde/melishs-costcutter/
-shop: Lebensmittel
+shop: convenience
 ---

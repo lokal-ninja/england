@@ -1,5 +1,5 @@
 ---
 title: "Trends Urban Salon"
 url: /london/trends-urban-salon/
-shop: Friseur
+shop: hairdresser
 ---

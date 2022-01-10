@@ -1,5 +1,5 @@
 ---
 title: "Hollin Park News"
 url: /leeds/hollin-park-news/
-shop: Zeitungen
+shop: newsagent
 ---

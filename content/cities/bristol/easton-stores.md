@@ -1,5 +1,5 @@
 ---
 title: "Easton Stores"
 url: /bristol/easton-stores/
-shop: Allgemein
+shop: shop
 ---

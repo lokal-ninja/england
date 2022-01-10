@@ -1,5 +1,5 @@
 ---
 title: "Scarlet"
 url: /norwich/scarlet/
-shop: Kleidung
+shop: clothes
 ---

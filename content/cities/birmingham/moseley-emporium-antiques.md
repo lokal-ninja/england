@@ -1,5 +1,5 @@
 ---
 title: "Moseley Emporium Antiques"
 url: /birmingham/moseley-emporium-antiques/
-shop: Antiquitäten
+shop: antiques
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /poole/costcutter/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "J.B. Wines"
 url: /harrow/j-b-wines/
-shop: Spirituosen
+shop: alcohol
 ---

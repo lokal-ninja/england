@@ -1,5 +1,5 @@
 ---
 title: "New York Cosmetics"
 url: /north-shields/new-york-cosmetics/
-shop: Andenken
+shop: gift
 ---

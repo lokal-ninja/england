@@ -1,5 +1,5 @@
 ---
 title: "Chinese Medical Centre"
 url: /barrow-in-furness/chinese-medical-centre/
-shop: Kräuter
+shop: herbalist
 ---

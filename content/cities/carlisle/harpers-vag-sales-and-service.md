@@ -1,5 +1,5 @@
 ---
 title: "Harpers VAG Sales and Service"
 url: /carlisle/harpers-vag-sales-and-service/
-shop: Autohaus
+shop: car
 ---

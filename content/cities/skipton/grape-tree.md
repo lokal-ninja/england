@@ -1,5 +1,5 @@
 ---
 title: "Grape Tree"
 url: /skipton/grape-tree/
-shop: Kräuter
+shop: herbalist
 ---

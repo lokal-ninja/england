@@ -1,5 +1,5 @@
 ---
 title: "Bradfords"
 url: /taunton/bradfords/
-shop: Baustoffe
+shop: trade
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hiltons of Northwich"
 url: /northwich/hiltons-of-northwich/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Asda Living"
 url: /oldham/asda-living/
-shop: Warenhaus
+shop: department store
 ---

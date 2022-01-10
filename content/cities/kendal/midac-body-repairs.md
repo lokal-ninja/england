@@ -1,5 +1,5 @@
 ---
 title: "Midac Body Repairs"
 url: /kendal/midac-body-repairs/
-shop: Autowerkstatt
+shop: car repair
 ---

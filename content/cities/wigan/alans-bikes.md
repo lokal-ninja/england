@@ -1,5 +1,5 @@
 ---
 title: "Alans Bikes"
 url: /wigan/alans-bikes/
-shop: Fahrrad
+shop: bicycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vibe by feng"
 url: /southampton/vibe-by-feng/
-shop: Friseur
+shop: hairdresser
 ---

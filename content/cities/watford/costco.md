@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /watford/costco/
-shop: Großhandel
+shop: wholesale
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Henry's discount Liquor Store"
 url: /gateshead/henrys-discount-liquor-store/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Xtend With Style"
 url: /fareham/xtend-with-style/
-shop: Friseur
+shop: hairdresser
 ---

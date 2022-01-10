@@ -7,5 +7,5 @@ city: London
 street: "Westward Parade"
 housenumber: 
 phone: "+44 3456 757 234"
-opening_hours: "Mo-Sa 06:00-00:00; Su 06:00-23:00"
-website: "https://www.tesco.com/"
+opening_hours: "Mo-Sa 06:00-24:00; Su 06:00-23:00"
+website: ""

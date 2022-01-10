@@ -1,5 +1,5 @@
 ---
 title: "Cloud 9"
 url: /tamworth/cloud-9/
-shop: Allgemein
+shop: shop
 ---

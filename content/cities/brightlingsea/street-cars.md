@@ -1,5 +1,5 @@
 ---
 title: "Street Cars"
 url: /brightlingsea/street-cars/
-shop: Autowerkstatt
+shop: car repair
 ---

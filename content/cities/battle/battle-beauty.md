@@ -1,5 +1,5 @@
 ---
 title: "Battle Beauty"
 url: /battle/battle-beauty/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gordon Marks"
 url: /cobham/gordon-marks/
-shop: Schmuck
+shop: jewelry
 ---

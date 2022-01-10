@@ -1,5 +1,5 @@
 ---
 title: "Golden Pearl"
 url: /durham/golden-pearl/
-shop: Lebensmittel
+shop: convenience
 ---

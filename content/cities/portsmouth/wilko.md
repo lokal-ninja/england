@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
 url: /portsmouth/wilko/
-shop: Kramladen
+shop: variety store
 ---

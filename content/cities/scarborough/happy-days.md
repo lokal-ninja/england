@@ -1,5 +1,5 @@
 ---
 title: "Happy Days"
 url: /scarborough/happy-days/
-shop: Andenken
+shop: gift
 ---

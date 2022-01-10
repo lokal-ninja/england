@@ -1,5 +1,5 @@
 ---
 title: "Argos"
 url: /yeovil/argos/
-shop: Allgemein
+shop: shop
 ---

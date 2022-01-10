@@ -1,5 +1,5 @@
 ---
 title: "Hartley's"
 url: /tadworth/hartleys/
-shop: Spirituosen
+shop: alcohol
 ---

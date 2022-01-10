@@ -1,5 +1,5 @@
 ---
 title: "Farmfoods"
 url: /aylesbury/farmfoods/
-shop: Tiefkühl
+shop: frozen food
 ---

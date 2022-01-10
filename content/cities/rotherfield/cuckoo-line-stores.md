@@ -1,5 +1,5 @@
 ---
 title: "Cuckoo Line Stores"
 url: /rotherfield/cuckoo-line-stores/
-shop: Lebensmittel
+shop: convenience
 ---

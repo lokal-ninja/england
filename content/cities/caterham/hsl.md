@@ -1,5 +1,5 @@
 ---
 title: "HSL"
 url: /caterham/hsl/
-shop: Möbel
+shop: furniture
 ---

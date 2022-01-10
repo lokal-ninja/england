@@ -1,5 +1,5 @@
 ---
 title: "Stagestruck"
 url: /sunderland/stagestruck/
-shop: Kleidung
+shop: clothes
 ---

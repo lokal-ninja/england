@@ -1,5 +1,5 @@
 ---
 title: "Etherington Newsagents"
 url: /bishop-auckland/etherington-newsagents/
-shop: Zeitungen
+shop: newsagent
 ---

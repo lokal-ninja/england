@@ -1,5 +1,5 @@
 ---
 title: "Sularis"
 url: /worcester-park/sularis/
-shop: Kosmetik
+shop: beauty
 ---

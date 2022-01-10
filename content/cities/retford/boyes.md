@@ -1,5 +1,5 @@
 ---
 title: "Boyes"
 url: /retford/boyes/
-shop: Warenhaus
+shop: department store
 ---

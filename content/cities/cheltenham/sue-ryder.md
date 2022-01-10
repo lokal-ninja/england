@@ -1,5 +1,5 @@
 ---
 title: "Sue Ryder"
 url: /cheltenham/sue-ryder/
-shop: Gebrauchtwaren
+shop: charity
 ---

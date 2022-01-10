@@ -1,5 +1,5 @@
 ---
 title: "Euro Supermarket"
 url: /leeds/euro-supermarket/
-shop: Lebensmittel
+shop: convenience
 ---

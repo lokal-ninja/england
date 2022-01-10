@@ -1,5 +1,5 @@
 ---
 title: "Shelter"
 url: /leeds/shelter/
-shop: Gebrauchtwaren
+shop: charity
 ---

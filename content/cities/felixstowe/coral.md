@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /felixstowe/coral/
-shop: Wettbüro
+shop: bookmaker
 ---

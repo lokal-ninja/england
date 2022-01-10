@@ -1,5 +1,5 @@
 ---
 title: "Cartech"
 url: /north-shields/cartech/
-shop: Autowerkstatt
+shop: car repair
 ---

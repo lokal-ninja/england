@@ -1,5 +1,5 @@
 ---
 title: "Go Local"
 url: /matlock/go-local/
-shop: Lebensmittel
+shop: convenience
 ---

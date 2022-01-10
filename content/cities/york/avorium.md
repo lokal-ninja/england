@@ -1,5 +1,5 @@
 ---
 title: "Avorium"
 url: /york/avorium/
-shop: Andenken
+shop: gift
 ---

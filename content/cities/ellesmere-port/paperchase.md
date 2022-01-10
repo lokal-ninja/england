@@ -1,5 +1,5 @@
 ---
 title: "Paperchase"
 url: /ellesmere-port/paperchase/
-shop: Schreibwaren
+shop: office supplies
 ---

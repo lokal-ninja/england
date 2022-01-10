@@ -1,5 +1,5 @@
 ---
 title: "BMW Lancaster"
 url: /bury-st-edmunds/bmw-lancaster/
-shop: Autohaus
+shop: car
 ---

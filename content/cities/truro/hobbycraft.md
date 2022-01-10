@@ -1,5 +1,5 @@
 ---
 title: "Hobbycraft"
 url: /truro/hobbycraft/
-shop: Basteln
+shop: craft
 ---

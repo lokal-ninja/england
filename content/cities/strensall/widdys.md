@@ -1,5 +1,5 @@
 ---
 title: "Widdy's"
 url: /strensall/widdys/
-shop: Lebensmittel
+shop: convenience
 ---

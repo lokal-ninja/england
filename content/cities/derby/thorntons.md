@@ -1,5 +1,5 @@
 ---
 title: "Thorntons"
 url: /derby/thorntons/
-shop: Süßwaren
+shop: confectionery
 ---

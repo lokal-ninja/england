@@ -1,5 +1,5 @@
 ---
 title: "ATS"
 url: /west-bromwich/ats/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Maheem Mini Market"
 url: /bristol/maheem-mini-market/
-shop: Lebensmittel
+shop: convenience
 ---

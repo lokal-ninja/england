@@ -1,5 +1,5 @@
 ---
 title: "SAABtec"
 url: /glossop/saabtec/
-shop: Autowerkstatt
+shop: car repair
 ---

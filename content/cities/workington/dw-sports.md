@@ -1,5 +1,5 @@
 ---
 title: "DW Sports"
 url: /workington/dw-sports/
-shop: Sport
+shop: sports
 ---

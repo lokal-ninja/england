@@ -1,5 +1,5 @@
 ---
 title: "Bletchley off licence"
 url: /milton-keynes/bletchley-off-licence/
-shop: Spirituosen
+shop: alcohol
 ---

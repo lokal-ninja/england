@@ -1,5 +1,5 @@
 ---
 title: "The Crusty Bun"
 url: /durham/the-crusty-bun/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Amoray"
 url: /london/amoray/
-shop: Raumausstattung
+shop: interior decoration
 ---

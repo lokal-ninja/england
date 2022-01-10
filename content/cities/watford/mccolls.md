@@ -1,5 +1,5 @@
 ---
 title: "McColl's"
 url: /watford/mccolls/
-shop: Lebensmittel
+shop: convenience
 ---

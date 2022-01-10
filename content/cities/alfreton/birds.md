@@ -1,5 +1,5 @@
 ---
 title: "Birds"
 url: /alfreton/birds/
-shop: Bäckerei
+shop: bakery
 ---

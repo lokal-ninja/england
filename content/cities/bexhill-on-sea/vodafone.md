@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
 url: /bexhill-on-sea/vodafone/
-shop: Handy
+shop: mobile phone
 ---

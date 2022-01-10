@@ -1,5 +1,5 @@
 ---
 title: "Claire's"
 url: /northampton/claires/
-shop: Allgemein
+shop: shop
 ---

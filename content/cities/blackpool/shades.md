@@ -1,5 +1,5 @@
 ---
 title: "Shades"
 url: /blackpool/shades/
-shop: Friseur
+shop: hairdresser
 ---

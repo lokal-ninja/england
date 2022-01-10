@@ -1,5 +1,5 @@
 ---
 title: "Northern Chair World"
 url: /blyth/northern-chair-world/
-shop: Möbel
+shop: furniture
 ---

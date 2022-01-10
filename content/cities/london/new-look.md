@@ -1,5 +1,5 @@
 ---
 title: "New Look"
 url: /london/new-look/
-shop: Kleidung
+shop: clothes
 ---

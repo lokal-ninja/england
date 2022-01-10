@@ -1,5 +1,5 @@
 ---
 title: "Thomas Brothers Funeral Directors"
 url: /taunton/thomas-brothers-funeral-directors/
-shop: Bestattungen
+shop: funeral directors
 ---

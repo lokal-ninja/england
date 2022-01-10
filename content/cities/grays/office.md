@@ -1,5 +1,5 @@
 ---
 title: "Office"
 url: /grays/office/
-shop: Schuhe
+shop: shoes
 ---

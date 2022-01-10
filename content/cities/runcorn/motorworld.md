@@ -1,5 +1,5 @@
 ---
 title: "Motorworld"
 url: /runcorn/motorworld/
-shop: Autoteile
+shop: car parts
 ---

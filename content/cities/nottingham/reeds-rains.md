@@ -1,5 +1,5 @@
 ---
 title: "Reeds Rains"
 url: /nottingham/reeds-rains/
-shop: Immobilien
+shop: estate agent
 ---

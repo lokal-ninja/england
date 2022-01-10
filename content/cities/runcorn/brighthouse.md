@@ -1,5 +1,5 @@
 ---
 title: "BrightHouse"
 url: /runcorn/brighthouse/
-shop: Warenhaus
+shop: department store
 ---

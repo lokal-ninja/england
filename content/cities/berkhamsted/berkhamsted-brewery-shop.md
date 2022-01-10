@@ -1,5 +1,5 @@
 ---
 title: "Berkhamsted Brewery Shop"
 url: /berkhamsted/berkhamsted-brewery-shop/
-shop: Spirituosen
+shop: alcohol
 ---

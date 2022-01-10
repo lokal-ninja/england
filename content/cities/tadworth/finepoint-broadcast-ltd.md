@@ -1,5 +1,5 @@
 ---
 title: "Finepoint Broadcast Ltd"
 url: /tadworth/finepoint-broadcast-ltd/
-shop: Elektronik
+shop: electronics
 ---

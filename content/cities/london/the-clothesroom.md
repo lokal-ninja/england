@@ -1,5 +1,5 @@
 ---
 title: "The Clothesroom"
 url: /london/the-clothesroom/
-shop: Kleidung
+shop: clothes
 ---

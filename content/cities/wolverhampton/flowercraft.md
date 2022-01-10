@@ -1,5 +1,5 @@
 ---
 title: "Flowercraft"
 url: /wolverhampton/flowercraft/
-shop: Blumen
+shop: florist
 ---

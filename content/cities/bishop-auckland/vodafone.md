@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
 url: /bishop-auckland/vodafone/
-shop: Handy
+shop: mobile phone
 ---

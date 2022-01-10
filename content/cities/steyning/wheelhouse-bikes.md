@@ -1,5 +1,5 @@
 ---
 title: "Wheelhouse Bikes"
 url: /steyning/wheelhouse-bikes/
-shop: Fahrrad
+shop: bicycle
 ---

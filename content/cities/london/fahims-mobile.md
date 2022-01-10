@@ -1,5 +1,5 @@
 ---
 title: "Fahim's Mobile"
 url: /london/fahims-mobile/
-shop: Handy
+shop: mobile phone
 ---

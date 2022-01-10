@@ -1,5 +1,5 @@
 ---
 title: "The Winery"
 url: /london/the-winery/
-shop: Wein
+shop: wine
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lovely Pups"
 url: /bristol/lovely-pups/
-shop: Tiere
+shop: pet
 ---

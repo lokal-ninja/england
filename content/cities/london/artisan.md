@@ -1,5 +1,5 @@
 ---
 title: "Artisan"
 url: /london/artisan/
-shop: Kunst
+shop: art
 ---

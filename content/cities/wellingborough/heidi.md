@@ -1,5 +1,5 @@
 ---
 title: "Heidi"
 url: /wellingborough/heidi/
-shop: Kleidung
+shop: clothes
 ---

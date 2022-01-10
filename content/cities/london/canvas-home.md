@@ -1,5 +1,5 @@
 ---
 title: "Canvas Home"
 url: /london/canvas-home/
-shop: Leerstehend
+shop: vacant
 ---

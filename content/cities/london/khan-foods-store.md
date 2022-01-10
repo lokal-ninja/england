@@ -1,5 +1,5 @@
 ---
 title: "Khan Food's Store"
 url: /london/khan-foods-store/
-shop: Lebensmittel
+shop: convenience
 ---

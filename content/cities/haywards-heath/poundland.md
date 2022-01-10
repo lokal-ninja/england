@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /haywards-heath/poundland/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Glencoe Auto's"
 url: /whitley-bay/glencoe-autos/
-shop: Autowerkstatt
+shop: car repair
 ---

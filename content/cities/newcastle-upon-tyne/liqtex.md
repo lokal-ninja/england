@@ -1,5 +1,5 @@
 ---
 title: "Liqtex"
 url: /newcastle-upon-tyne/liqtex/
-shop: Raumausstattung
+shop: interior decoration
 ---

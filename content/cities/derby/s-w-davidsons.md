@@ -1,5 +1,5 @@
 ---
 title: "S.W. Davidsons"
 url: /derby/s-w-davidsons/
-shop: Bestattungen
+shop: funeral directors
 ---

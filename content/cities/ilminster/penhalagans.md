@@ -1,5 +1,5 @@
 ---
 title: "Penhalagans"
 url: /ilminster/penhalagans/
-shop: Friseur
+shop: hairdresser
 ---

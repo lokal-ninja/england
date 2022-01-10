@@ -1,5 +1,5 @@
 ---
 title: "Hursts"
 url: /chelmsford/hursts/
-shop: Lebensmittel
+shop: convenience
 ---

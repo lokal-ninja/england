@@ -1,5 +1,5 @@
 ---
 title: "Hennessy's"
 url: /london/hennessys/
-shop: Metzgerei
+shop: butcher
 ---

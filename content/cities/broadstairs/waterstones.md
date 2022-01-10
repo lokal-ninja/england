@@ -1,5 +1,5 @@
 ---
 title: "Waterstones"
 url: /broadstairs/waterstones/
-shop: Bücher
+shop: books
 ---

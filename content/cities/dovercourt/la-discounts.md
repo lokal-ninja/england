@@ -1,5 +1,5 @@
 ---
 title: "LA Discounts"
 url: /dovercourt/la-discounts/
-shop: Allgemein
+shop: shop
 ---

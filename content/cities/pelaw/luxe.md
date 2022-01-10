@@ -1,5 +1,5 @@
 ---
 title: "Luxe"
 url: /pelaw/luxe/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
 url: /killingworth/wilko/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sweet Choice"
 url: /london/sweet-choice/
-shop: Eisprodukte
+shop: ice cream
 ---

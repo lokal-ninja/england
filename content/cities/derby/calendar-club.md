@@ -1,5 +1,5 @@
 ---
 title: "Calendar Club"
 url: /derby/calendar-club/
-shop: Allgemein
+shop: shop
 ---

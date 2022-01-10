@@ -1,5 +1,5 @@
 ---
 title: "The Cottage Bakery"
 url: /bristol/the-cottage-bakery/
-shop: Bäckerei
+shop: bakery
 ---

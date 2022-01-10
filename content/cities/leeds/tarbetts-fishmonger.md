@@ -1,5 +1,5 @@
 ---
 title: "Tarbett's Fishmonger"
 url: /leeds/tarbetts-fishmonger/
-shop: Fisch
+shop: seafood
 ---

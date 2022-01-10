@@ -1,5 +1,5 @@
 ---
 title: "Jack Wills"
 url: /canterbury/jack-wills/
-shop: Kleidung
+shop: clothes
 ---

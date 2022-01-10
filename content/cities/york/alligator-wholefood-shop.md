@@ -1,5 +1,5 @@
 ---
 title: "Alligator, Wholefood Shop"
 url: /york/alligator-wholefood-shop/
-shop: Lebensmittel
+shop: convenience
 ---

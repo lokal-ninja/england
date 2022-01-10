@@ -1,5 +1,5 @@
 ---
 title: "House of Brands"
 url: /london/house-of-brands/
-shop: Kleidung
+shop: clothes
 ---

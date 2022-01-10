@@ -1,5 +1,5 @@
 ---
 title: "Rohan"
 url: /chelmsford/rohan/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Porsche"
 url: /leicester/porsche/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ahmeds News"
 url: /london/ahmeds-news/
-shop: Zeitungen
+shop: newsagent
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Adidas"
 url: /ellesmere-port/adidas/
-shop: Sport
+shop: sports
 ---

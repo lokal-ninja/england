@@ -1,5 +1,5 @@
 ---
 title: "Waterfields"
 url: /southport/waterfields-2/
-shop: Bäckerei
+shop: bakery
 ---

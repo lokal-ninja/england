@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /macclesfield/costcutter/
-shop: Lebensmittel
+shop: convenience
 ---

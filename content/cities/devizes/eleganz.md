@@ -1,5 +1,5 @@
 ---
 title: "Eleganz"
 url: /devizes/eleganz/
-shop: Friseur
+shop: hairdresser
 ---

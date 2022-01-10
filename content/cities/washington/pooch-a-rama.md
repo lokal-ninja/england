@@ -1,5 +1,5 @@
 ---
 title: "Pooch A Rama"
 url: /washington/pooch-a-rama/
-shop: Tiersalon
+shop: pet grooming
 ---

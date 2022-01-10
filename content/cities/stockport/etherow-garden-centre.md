@@ -1,5 +1,5 @@
 ---
 title: "Etherow Garden Centre"
 url: /stockport/etherow-garden-centre/
-shop: Garten-Center
+shop: garden centre
 ---

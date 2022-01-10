@@ -1,5 +1,5 @@
 ---
 title: "RE|DEFINE ME"
 url: /norwich/re-define-me/
-shop: Kosmetik
+shop: beauty
 ---

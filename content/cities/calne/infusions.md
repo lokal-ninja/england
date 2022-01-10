@@ -1,5 +1,5 @@
 ---
 title: "Infusions"
 url: /calne/infusions/
-shop: Tee
+shop: tea
 ---

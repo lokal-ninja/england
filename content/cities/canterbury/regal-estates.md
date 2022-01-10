@@ -1,5 +1,5 @@
 ---
 title: "Regal Estates"
 url: /canterbury/regal-estates/
-shop: Immobilien
+shop: estate agent
 ---

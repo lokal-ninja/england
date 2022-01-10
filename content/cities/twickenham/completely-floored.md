@@ -1,5 +1,5 @@
 ---
 title: "Completely Floored"
 url: /twickenham/completely-floored/
-shop: Teppiche
+shop: carpet
 ---

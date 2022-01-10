@@ -1,5 +1,5 @@
 ---
 title: "Jesters Tattoo Works"
 url: /new-eltham/jesters-tattoo-works/
-shop: Tattoo
+shop: tattoo
 ---

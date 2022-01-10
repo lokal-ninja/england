@@ -1,5 +1,5 @@
 ---
 title: "Ideal Supermarket"
 url: /bedford/ideal-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

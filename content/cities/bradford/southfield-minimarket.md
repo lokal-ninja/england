@@ -1,5 +1,5 @@
 ---
 title: "Southfield Minimarket"
 url: /bradford/southfield-minimarket/
-shop: Supermarkt
+shop: supermarket
 ---

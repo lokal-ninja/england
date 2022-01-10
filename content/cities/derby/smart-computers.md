@@ -1,5 +1,5 @@
 ---
 title: "Smart Computers"
 url: /derby/smart-computers/
-shop: Computer
+shop: computer
 ---

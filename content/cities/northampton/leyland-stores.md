@@ -1,5 +1,5 @@
 ---
 title: "Leyland Stores"
 url: /northampton/leyland-stores/
-shop: Zeitungen
+shop: newsagent
 ---

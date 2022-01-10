@@ -1,5 +1,5 @@
 ---
 title: "Colemans"
 url: /kettering/colemans/
-shop: Schreibwaren
+shop: office supplies
 ---

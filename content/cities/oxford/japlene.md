@@ -1,5 +1,5 @@
 ---
 title: "Japlene"
 url: /oxford/japlene/
-shop: Kleidung
+shop: clothes
 ---

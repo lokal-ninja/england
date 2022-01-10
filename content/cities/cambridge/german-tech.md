@@ -1,5 +1,5 @@
 ---
 title: "German Tech"
 url: /cambridge/german-tech/
-shop: Autowerkstatt
+shop: car repair
 ---

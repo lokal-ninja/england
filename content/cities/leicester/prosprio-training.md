@@ -1,5 +1,5 @@
 ---
 title: "Prosprio Training"
 url: /leicester/prosprio-training/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /halifax/whsmith/
-shop: Zeitungen
+shop: newsagent
 ---

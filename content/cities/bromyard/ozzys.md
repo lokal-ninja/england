@@ -1,5 +1,5 @@
 ---
 title: "Ozzy's"
 url: /bromyard/ozzys/
-shop: Tiersalon
+shop: pet grooming
 ---

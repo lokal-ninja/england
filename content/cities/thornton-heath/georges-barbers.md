@@ -1,5 +1,5 @@
 ---
 title: "George's Barbers"
 url: /thornton-heath/georges-barbers/
-shop: Friseur
+shop: hairdresser
 ---

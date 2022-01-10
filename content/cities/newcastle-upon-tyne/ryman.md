@@ -1,5 +1,5 @@
 ---
 title: "Ryman"
 url: /newcastle-upon-tyne/ryman/
-shop: Schreibwaren
+shop: office supplies
 ---

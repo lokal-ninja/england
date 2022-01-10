@@ -1,5 +1,5 @@
 ---
 title: "Air Ambulance"
 url: /derby/air-ambulance-2/
-shop: Gebrauchtwaren
+shop: charity
 ---

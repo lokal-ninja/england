@@ -1,5 +1,5 @@
 ---
 title: "Harrolds"
 url: /biggleswade/harrolds/
-shop: Optiker
+shop: optician
 ---

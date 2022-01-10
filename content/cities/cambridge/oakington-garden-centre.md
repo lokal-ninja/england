@@ -1,5 +1,5 @@
 ---
 title: "Oakington Garden Centre"
 url: /cambridge/oakington-garden-centre/
-shop: Garten-Center
+shop: garden centre
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Maria's Hairdressing"
 url: /derby/marias-hairdressing/
-shop: Friseur
+shop: hairdresser
 ---

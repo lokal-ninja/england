@@ -1,5 +1,5 @@
 ---
 title: "Blaggards barbers"
 url: /london/blaggards-barbers/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Coco's"
 url: /bristol/cocos/
-shop: Eisprodukte
+shop: ice cream
 ---

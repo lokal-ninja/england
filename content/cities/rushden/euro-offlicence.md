@@ -1,5 +1,5 @@
 ---
 title: "Euro Offlicence"
 url: /rushden/euro-offlicence/
-shop: Spirituosen
+shop: alcohol
 ---

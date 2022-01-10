@@ -1,5 +1,5 @@
 ---
 title: "Calendar Club"
 url: /grays/calendar-club/
-shop: Andenken
+shop: gift
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Garage"
 url: /richmond/garage/
-shop: Kunst
+shop: art
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cherry Wines"
 url: /north-shields/cherry-wines/
-shop: Spirituosen
+shop: alcohol
 ---

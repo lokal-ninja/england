@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /castleford/savers/
-shop: Drogerie
+shop: chemist
 ---

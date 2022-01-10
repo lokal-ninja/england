@@ -1,5 +1,5 @@
 ---
 title: "Roo's"
 url: /colchester/roos/
-shop: Kleidung
+shop: clothes
 ---

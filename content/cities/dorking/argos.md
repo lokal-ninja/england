@@ -1,5 +1,5 @@
 ---
 title: "Argos"
 url: /dorking/argos/
-shop: Supermarkt
+shop: supermarket
 ---

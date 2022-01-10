@@ -1,5 +1,5 @@
 ---
 title: "Penny Street Barbers"
 url: /lancaster/penny-street-barbers/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Das Auto Norwich"
 url: /norwich/das-auto-norwich/
-shop: Autowerkstatt
+shop: car repair
 ---

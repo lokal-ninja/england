@@ -1,5 +1,5 @@
 ---
 title: "Masons"
 url: /whitehaven/masons/
-shop: Eisenwaren
+shop: hardware
 ---

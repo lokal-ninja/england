@@ -1,5 +1,5 @@
 ---
 title: "Atlas-Sterns"
 url: /barrow-in-furness/atlas-sterns/
-shop: Jalousien
+shop: window blind
 ---

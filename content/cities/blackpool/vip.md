@@ -1,5 +1,5 @@
 ---
 title: "VIP"
 url: /blackpool/vip/
-shop: Friseur
+shop: hairdresser
 ---

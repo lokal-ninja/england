@@ -1,5 +1,5 @@
 ---
 title: "Vodaphone"
 url: /scunthorpe/vodaphone/
-shop: Handy
+shop: mobile phone
 ---

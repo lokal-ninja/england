@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /guildford/whsmith/
-shop: Zeitungen
+shop: newsagent
 ---

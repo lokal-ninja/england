@@ -1,5 +1,5 @@
 ---
 title: "Newsagent"
 url: /brightlingsea/newsagent/
-shop: Zeitungen
+shop: newsagent
 ---

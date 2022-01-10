@@ -1,5 +1,5 @@
 ---
 title: "Robbins"
 url: /solihull/robbins/
-shop: Metzgerei
+shop: butcher
 ---

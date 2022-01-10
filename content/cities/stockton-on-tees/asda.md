@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /stockton-on-tees/asda/
-shop: Supermarkt
+shop: supermarket
 ---

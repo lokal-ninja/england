@@ -1,5 +1,5 @@
 ---
 title: "Ryman"
 url: /derby/ryman/
-shop: Schreibwaren
+shop: office supplies
 ---

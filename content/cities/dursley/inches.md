@@ -1,5 +1,5 @@
 ---
 title: "Inches"
 url: /dursley/inches/
-shop: Textil
+shop: fabric
 ---

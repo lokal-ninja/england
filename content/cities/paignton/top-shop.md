@@ -1,5 +1,5 @@
 ---
 title: "Top Shop"
 url: /paignton/top-shop/
-shop: Lebensmittel
+shop: convenience
 ---

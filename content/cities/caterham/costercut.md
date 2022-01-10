@@ -1,5 +1,5 @@
 ---
 title: "Costercut"
 url: /caterham/costercut/
-shop: Lebensmittel
+shop: convenience
 ---

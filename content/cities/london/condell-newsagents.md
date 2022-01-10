@@ -1,5 +1,5 @@
 ---
 title: "Condell Newsagents"
 url: /london/condell-newsagents/
-shop: Zeitungen
+shop: newsagent
 ---

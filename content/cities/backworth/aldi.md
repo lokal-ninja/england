@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /backworth/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

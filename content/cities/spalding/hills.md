@@ -1,5 +1,5 @@
 ---
 title: "Hills"
 url: /spalding/hills/
-shop: Warenhaus
+shop: department store
 ---

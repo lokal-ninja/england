@@ -1,5 +1,5 @@
 ---
 title: "Barbara B"
 url: /sawbridgeworth/barbara-b/
-shop: Kleidung
+shop: clothes
 ---

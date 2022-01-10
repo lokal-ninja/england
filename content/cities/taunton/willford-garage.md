@@ -1,5 +1,5 @@
 ---
 title: "Willford Garage"
 url: /taunton/willford-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

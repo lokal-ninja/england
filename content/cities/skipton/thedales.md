@@ -1,5 +1,5 @@
 ---
 title: "TheDales"
 url: /skipton/thedales/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bedfont Local"
 url: /feltham/bedfont-local/
-shop: Lebensmittel
+shop: convenience
 ---

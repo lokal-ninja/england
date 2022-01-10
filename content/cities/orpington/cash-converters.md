@@ -1,5 +1,5 @@
 ---
 title: "Cash Converters"
 url: /orpington/cash-converters/
-shop: Leiher
+shop: pawnbroker
 ---

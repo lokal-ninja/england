@@ -1,5 +1,5 @@
 ---
 title: "Revital"
 url: /london/revital/
-shop: Gesundheit
+shop: beauty
 ---

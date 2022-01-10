@@ -1,5 +1,5 @@
 ---
 title: "Farmfoods"
 url: /kettering/farmfoods/
-shop: Tiefkühl
+shop: frozen food
 ---

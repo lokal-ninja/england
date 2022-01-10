@@ -1,5 +1,5 @@
 ---
 title: "Walkinshaw"
 url: /lillyhall-east/walkinshaw/
-shop: Autohaus
+shop: car
 ---

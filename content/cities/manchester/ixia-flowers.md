@@ -1,5 +1,5 @@
 ---
 title: "Ixia Flowers"
 url: /manchester/ixia-flowers/
-shop: Blumen
+shop: florist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Supreme Textiles"
 url: /london/supreme-textiles/
-shop: Textil
+shop: fabric
 ---

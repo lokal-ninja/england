@@ -1,5 +1,5 @@
 ---
 title: "Durga Stores"
 url: /sheffield/durga-stores/
-shop: Supermarkt
+shop: supermarket
 ---

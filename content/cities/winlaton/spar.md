@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /winlaton/spar/
-shop: Supermarkt
+shop: supermarket
 ---

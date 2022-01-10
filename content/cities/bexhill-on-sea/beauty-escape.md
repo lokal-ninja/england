@@ -1,5 +1,5 @@
 ---
 title: "Beauty Escape"
 url: /bexhill-on-sea/beauty-escape/
-shop: Kosmetik
+shop: beauty
 ---

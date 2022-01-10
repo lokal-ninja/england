@@ -1,5 +1,5 @@
 ---
 title: "Manuka"
 url: /windermere/manuka/
-shop: Bioladen
+shop: health food
 ---

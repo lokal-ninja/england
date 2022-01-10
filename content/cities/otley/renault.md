@@ -1,5 +1,5 @@
 ---
 title: "Renault"
 url: /otley/renault/
-shop: Autowerkstatt
+shop: car repair
 ---

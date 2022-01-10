@@ -1,5 +1,5 @@
 ---
 title: "Al-Manaasik Tours Ltd"
 url: /banbury/al-manaasik-tours-ltd/
-shop: Reisebüro
+shop: travel agency
 ---

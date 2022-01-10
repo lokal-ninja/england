@@ -1,5 +1,5 @@
 ---
 title: "Henri-lloyd"
 url: /street/henri-lloyd/
-shop: Kleidung
+shop: clothes
 ---

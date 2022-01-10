@@ -1,5 +1,5 @@
 ---
 title: "Karen Delahunty"
 url: /kenilworth/karen-delahunty/
-shop: Nähzubehör
+shop: sewing
 ---

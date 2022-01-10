@@ -1,5 +1,5 @@
 ---
 title: "Poundstretcher"
 url: /northwich/poundstretcher/
-shop: Kramladen
+shop: variety store
 ---

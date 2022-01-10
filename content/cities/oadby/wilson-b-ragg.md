@@ -1,5 +1,5 @@
 ---
 title: "Wilson B Ragg"
 url: /oadby/wilson-b-ragg/
-shop: Metzgerei
+shop: butcher
 ---

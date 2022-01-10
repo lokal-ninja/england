@@ -1,5 +1,5 @@
 ---
 title: "Topman"
 url: /carlisle/topman/
-shop: Kleidung
+shop: clothes
 ---

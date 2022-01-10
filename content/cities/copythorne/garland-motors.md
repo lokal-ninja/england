@@ -1,5 +1,5 @@
 ---
 title: "Garland Motors"
 url: /copythorne/garland-motors/
-shop: Autohaus
+shop: car
 ---

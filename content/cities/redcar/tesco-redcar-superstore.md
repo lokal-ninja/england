@@ -1,5 +1,5 @@
 ---
 title: "Tesco Redcar Superstore"
 url: /redcar/tesco-redcar-superstore/
-shop: Supermarkt
+shop: supermarket
 ---

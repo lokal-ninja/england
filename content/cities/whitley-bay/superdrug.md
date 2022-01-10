@@ -1,5 +1,5 @@
 ---
 title: "Superdrug"
 url: /whitley-bay/superdrug/
-shop: Drogerie
+shop: chemist
 ---

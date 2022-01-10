@@ -1,5 +1,5 @@
 ---
 title: "Hartgill's Seafood"
 url: /portsmouth/hartgills-seafood/
-shop: Fisch
+shop: seafood
 ---

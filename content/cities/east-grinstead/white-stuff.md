@@ -1,5 +1,5 @@
 ---
 title: "White Stuff"
 url: /east-grinstead/white-stuff/
-shop: Kleidung
+shop: clothes
 ---

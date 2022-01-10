@@ -1,5 +1,5 @@
 ---
 title: "Heather Wilson Hair Studio"
 url: /york/heather-wilson-hair-studio/
-shop: Friseur
+shop: hairdresser
 ---

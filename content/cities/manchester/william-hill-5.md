@@ -1,5 +1,5 @@
 ---
 title: "William Hill"
 url: /manchester/william-hill-5/
-shop: Wettbüro
+shop: bookmaker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "TK Maxx"
 url: /rotherham/tk-maxx/
-shop: Warenhaus
+shop: department store
 ---

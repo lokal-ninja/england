@@ -1,5 +1,5 @@
 ---
 title: "Best-one"
 url: /london/best-one-3/
-shop: Lebensmittel
+shop: convenience
 ---

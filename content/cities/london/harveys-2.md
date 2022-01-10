@@ -1,5 +1,5 @@
 ---
 title: "Harveys"
 url: /london/harveys-2/
-shop: Möbel
+shop: furniture
 ---

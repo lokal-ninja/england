@@ -1,5 +1,5 @@
 ---
 title: "Euro Market"
 url: /newcastle-upon-tyne/euro-market/
-shop: Lebensmittel
+shop: convenience
 ---

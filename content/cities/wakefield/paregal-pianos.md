@@ -1,5 +1,5 @@
 ---
 title: "Paregal Pianos"
 url: /wakefield/paregal-pianos/
-shop: Instrumente
+shop: musical instrument
 ---

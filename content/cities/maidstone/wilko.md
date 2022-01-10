@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
 url: /maidstone/wilko/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Poundbakery"
 url: /fleetwood/poundbakery/
-shop: Bäckerei
+shop: bakery
 ---

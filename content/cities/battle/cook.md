@@ -1,5 +1,5 @@
 ---
 title: "Cook"
 url: /battle/cook/
-shop: Tiefkühl
+shop: frozen food
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bletchley Store"
 url: /milton-keynes/bletchley-store/
-shop: Lebensmittel
+shop: convenience
 ---

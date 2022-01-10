@@ -1,5 +1,5 @@
 ---
 title: "Edinburgh Woollen Mill"
 url: /gosport/edinburgh-woollen-mill/
-shop: Kleidung
+shop: clothes
 ---

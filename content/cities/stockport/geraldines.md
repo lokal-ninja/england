@@ -1,5 +1,5 @@
 ---
 title: "Geraldine's"
 url: /stockport/geraldines/
-shop: Friseur
+shop: hairdresser
 ---

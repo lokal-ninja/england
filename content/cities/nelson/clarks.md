@@ -1,5 +1,5 @@
 ---
 title: "Clarks"
 url: /nelson/clarks/
-shop: Eisenwaren
+shop: hardware
 ---

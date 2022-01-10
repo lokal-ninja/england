@@ -1,5 +1,5 @@
 ---
 title: "Savvi"
 url: /olney/savvi/
-shop: Reisebüro
+shop: travel agency
 ---

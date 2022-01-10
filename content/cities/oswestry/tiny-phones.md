@@ -1,5 +1,5 @@
 ---
 title: "Tiny Phones"
 url: /oswestry/tiny-phones/
-shop: Handy
+shop: mobile phone
 ---

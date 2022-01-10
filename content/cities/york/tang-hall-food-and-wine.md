@@ -1,5 +1,5 @@
 ---
 title: "Tang Hall Food and Wine"
 url: /york/tang-hall-food-and-wine/
-shop: Spirituosen
+shop: alcohol
 ---

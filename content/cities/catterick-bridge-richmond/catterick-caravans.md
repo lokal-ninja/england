@@ -1,5 +1,5 @@
 ---
 title: "Catterick Caravans"
 url: /catterick-bridge-richmond/catterick-caravans/
-shop: Wohnwagen
+shop: caravan
 ---

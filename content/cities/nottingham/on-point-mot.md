@@ -1,5 +1,5 @@
 ---
 title: "On Point MOT"
 url: /nottingham/on-point-mot/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hotter"
 url: /exeter/hotter/
-shop: Schuhe
+shop: shoes
 ---

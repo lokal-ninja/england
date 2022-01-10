@@ -1,5 +1,5 @@
 ---
 title: "Eurovines"
 url: /seaview/eurovines/
-shop: Wein
+shop: wine
 ---

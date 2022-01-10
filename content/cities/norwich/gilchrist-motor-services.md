@@ -1,5 +1,5 @@
 ---
 title: "Gilchrist Motor Services"
 url: /norwich/gilchrist-motor-services/
-shop: Autowerkstatt
+shop: car repair
 ---

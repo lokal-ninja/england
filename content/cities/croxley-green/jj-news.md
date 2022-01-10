@@ -1,5 +1,5 @@
 ---
 title: "JJ News"
 url: /croxley-green/jj-news/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MotoTweeks"
 url: /chelmsford/mototweeks/
-shop: Motorrad
+shop: motorcycle
 ---

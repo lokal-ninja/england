@@ -1,5 +1,5 @@
 ---
 title: "Youbie Yarns"
 url: /diss/youbie-yarns/
-shop: Kleidung
+shop: clothes
 ---

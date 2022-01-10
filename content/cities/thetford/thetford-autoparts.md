@@ -1,5 +1,5 @@
 ---
 title: "Thetford Autoparts"
 url: /thetford/thetford-autoparts/
-shop: Autoteile
+shop: car parts
 ---

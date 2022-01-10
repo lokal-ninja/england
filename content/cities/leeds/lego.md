@@ -1,5 +1,5 @@
 ---
 title: "Lego"
 url: /leeds/lego/
-shop: Spielzeug
+shop: toys
 ---

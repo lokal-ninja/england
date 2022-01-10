@@ -1,5 +1,5 @@
 ---
 title: "Framemakers"
 url: /newbury/framemakers/
-shop: Rahmen
+shop: frame
 ---

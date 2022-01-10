@@ -1,5 +1,5 @@
 ---
 title: "Fat Giraffe"
 url: /hexham/fat-giraffe/
-shop: Möbel
+shop: furniture
 ---

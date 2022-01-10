@@ -1,5 +1,5 @@
 ---
 title: "EriVica Cakes"
 url: /hadleigh/erivica-cakes/
-shop: Konditorei
+shop: pastry
 ---

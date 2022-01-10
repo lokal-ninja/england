@@ -1,5 +1,5 @@
 ---
 title: "Lynx MOT Testing Centre"
 url: /yeovil/lynx-mot-testing-centre/
-shop: Autowerkstatt
+shop: car repair
 ---

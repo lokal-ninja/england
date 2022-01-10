@@ -1,5 +1,5 @@
 ---
 title: "John Scott Hairdressing"
 url: /horsforth/john-scott-hairdressing/
-shop: Friseur
+shop: hairdresser
 ---

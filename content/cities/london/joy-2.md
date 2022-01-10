@@ -1,5 +1,5 @@
 ---
 title: "Joy"
 url: /london/joy-2/
-shop: Kleidung
+shop: clothes
 ---

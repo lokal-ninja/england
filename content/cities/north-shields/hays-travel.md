@@ -1,5 +1,5 @@
 ---
 title: "Hays Travel"
 url: /north-shields/hays-travel/
-shop: Reisebüro
+shop: travel agency
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Moss Bros"
 url: /london/moss-bros-2/
-shop: Kleidung
+shop: clothes
 ---

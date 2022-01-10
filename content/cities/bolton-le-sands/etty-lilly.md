@@ -1,5 +1,5 @@
 ---
 title: "Etty-Lilly"
 url: /bolton-le-sands/etty-lilly/
-shop: Basteln
+shop: craft
 ---

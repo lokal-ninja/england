@@ -1,5 +1,5 @@
 ---
 title: "The Map House"
 url: /knightsbridge/the-map-house/
-shop: Antiquitäten
+shop: antiques
 ---

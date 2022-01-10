@@ -1,5 +1,5 @@
 ---
 title: "Supertrims"
 url: /washington/supertrims/
-shop: Friseur
+shop: hairdresser
 ---

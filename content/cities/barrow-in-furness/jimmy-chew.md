@@ -1,5 +1,5 @@
 ---
 title: "Jimmy Chew"
 url: /barrow-in-furness/jimmy-chew/
-shop: Allgemein
+shop: shop
 ---

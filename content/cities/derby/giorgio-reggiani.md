@@ -1,5 +1,5 @@
 ---
 title: "Giorgio Reggiani"
 url: /derby/giorgio-reggiani/
-shop: Kleidung
+shop: clothes
 ---

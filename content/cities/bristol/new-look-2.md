@@ -1,5 +1,5 @@
 ---
 title: "New Look"
 url: /bristol/new-look-2/
-shop: Kleidung
+shop: clothes
 ---

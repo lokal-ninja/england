@@ -1,5 +1,5 @@
 ---
 title: "Shoe Zone"
 url: /beccles/shoe-zone/
-shop: Schuhe
+shop: shoes
 ---

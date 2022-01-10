@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /hebburn/savers/
-shop: Drogerie
+shop: chemist
 ---

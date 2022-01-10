@@ -1,5 +1,5 @@
 ---
 title: "Crow Coffee"
 url: /crawley/crow-coffee/
-shop: Kaffee
+shop: coffee
 ---

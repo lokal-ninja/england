@@ -1,5 +1,5 @@
 ---
 title: "Marie Curie"
 url: /worcester-park/marie-curie/
-shop: Gebrauchtwaren
+shop: charity
 ---

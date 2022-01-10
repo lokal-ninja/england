@@ -1,5 +1,5 @@
 ---
 title: "Autosmith"
 url: /brightlingsea/autosmith/
-shop: Autowerkstatt
+shop: car repair
 ---

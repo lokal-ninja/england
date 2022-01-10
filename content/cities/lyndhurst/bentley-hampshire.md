@@ -1,5 +1,5 @@
 ---
 title: "Bentley Hampshire"
 url: /lyndhurst/bentley-hampshire/
-shop: Autohaus
+shop: car
 ---

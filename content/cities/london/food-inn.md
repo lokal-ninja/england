@@ -1,5 +1,5 @@
 ---
 title: "Food Inn"
 url: /london/food-inn/
-shop: Supermarkt
+shop: supermarket
 ---

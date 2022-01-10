@@ -1,5 +1,5 @@
 ---
 title: "Mixit Signs"
 url: /gateshead/mixit-signs/
-shop: Allgemein
+shop: shop
 ---

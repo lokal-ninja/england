@@ -1,5 +1,5 @@
 ---
 title: "Brasileiro"
 url: /croydon/brasileiro/
-shop: Metzgerei
+shop: butcher
 ---

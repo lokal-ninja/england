@@ -1,5 +1,5 @@
 ---
 title: "Oaks"
 url: /oxford/oaks/
-shop: Kleidung
+shop: clothes
 ---

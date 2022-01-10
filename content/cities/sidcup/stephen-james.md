@@ -1,5 +1,5 @@
 ---
 title: "Stephen James"
 url: /sidcup/stephen-james/
-shop: Autohaus
+shop: car
 ---

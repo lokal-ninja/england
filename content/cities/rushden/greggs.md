@@ -1,5 +1,5 @@
 ---
 title: "Greggs"
 url: /rushden/greggs/
-shop: Bäckerei
+shop: bakery
 ---

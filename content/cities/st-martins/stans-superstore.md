@@ -1,5 +1,5 @@
 ---
 title: "Stans Superstore"
 url: /st-martins/stans-superstore/
-shop: Supermarkt
+shop: supermarket
 ---

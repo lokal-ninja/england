@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
 url: /bishop-auckland/wilko/
-shop: Kramladen
+shop: variety store
 ---

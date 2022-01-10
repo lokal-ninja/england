@@ -1,5 +1,5 @@
 ---
 title: "Bright House"
 url: /selby/bright-house/
-shop: Elektronik
+shop: electronics
 ---

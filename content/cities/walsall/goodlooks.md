@@ -1,5 +1,5 @@
 ---
 title: "Goodlooks"
 url: /walsall/goodlooks/
-shop: Friseur
+shop: hairdresser
 ---

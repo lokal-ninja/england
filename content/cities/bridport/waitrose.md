@@ -1,5 +1,5 @@
 ---
 title: "Waitrose"
 url: /bridport/waitrose/
-shop: Supermarkt
+shop: supermarket
 ---

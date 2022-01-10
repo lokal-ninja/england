@@ -1,5 +1,5 @@
 ---
 title: "Rutland Water Garden Nursery"
 url: /oakham/rutland-water-garden-nursery/
-shop: Garten-Center
+shop: garden centre
 ---

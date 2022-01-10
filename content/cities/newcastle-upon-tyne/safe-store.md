@@ -1,5 +1,5 @@
 ---
 title: "Safe Store"
 url: /newcastle-upon-tyne/safe-store/
-shop: Mieten
+shop: storage rental
 ---

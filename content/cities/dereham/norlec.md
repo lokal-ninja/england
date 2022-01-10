@@ -1,5 +1,5 @@
 ---
 title: "Norlec"
 url: /dereham/norlec/
-shop: Haushaltsgeräte
+shop: appliance
 ---

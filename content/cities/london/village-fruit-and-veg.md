@@ -1,5 +1,5 @@
 ---
 title: "Village Fruit and Veg"
 url: /london/village-fruit-and-veg/
-shop: Gemüse & Obst
+shop: greengrocer
 ---

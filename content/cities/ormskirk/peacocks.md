@@ -1,5 +1,5 @@
 ---
 title: "Peacocks"
 url: /ormskirk/peacocks/
-shop: Kleidung
+shop: clothes
 ---

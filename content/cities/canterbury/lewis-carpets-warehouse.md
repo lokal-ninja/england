@@ -1,5 +1,5 @@
 ---
 title: "Lewis Carpets Warehouse"
 url: /canterbury/lewis-carpets-warehouse/
-shop: Teppiche
+shop: carpet
 ---

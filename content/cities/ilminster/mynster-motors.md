@@ -1,5 +1,5 @@
 ---
 title: "Mynster Motors"
 url: /ilminster/mynster-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

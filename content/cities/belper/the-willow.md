@@ -1,5 +1,5 @@
 ---
 title: "The willow"
 url: /belper/the-willow/
-shop: Andenken
+shop: gift
 ---

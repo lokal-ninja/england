@@ -1,5 +1,5 @@
 ---
 title: "Virgin"
 url: /leeds/virgin/
-shop: Handy
+shop: mobile phone
 ---

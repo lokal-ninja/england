@@ -1,5 +1,5 @@
 ---
 title: "St Elizabeth Hospice"
 url: /ipswich/st-elizabeth-hospice/
-shop: Gebrauchtwaren
+shop: charity
 ---

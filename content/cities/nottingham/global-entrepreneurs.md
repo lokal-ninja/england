@@ -1,5 +1,5 @@
 ---
 title: "Global Entrepreneurs"
 url: /nottingham/global-entrepreneurs/
-shop: Computer
+shop: computer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Southern Car Care"
 url: /blyth/southern-car-care/
-shop: Autowerkstatt
+shop: car repair
 ---

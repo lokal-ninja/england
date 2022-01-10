@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /derby/iceland-5/
-shop: Tiefkühl
+shop: frozen food
 ---

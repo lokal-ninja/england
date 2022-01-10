@@ -1,5 +1,5 @@
 ---
 title: "Tops 'n' Tails Dry Cleaners"
 url: /sydenham/tops-n-tails-dry-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

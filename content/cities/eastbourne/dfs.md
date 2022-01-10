@@ -1,5 +1,5 @@
 ---
 title: "DFS"
 url: /eastbourne/dfs/
-shop: Möbel
+shop: furniture
 ---

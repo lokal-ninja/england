@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
 url: /leighton-buzzard/wilko/
-shop: Dorfladen
+shop: general
 ---

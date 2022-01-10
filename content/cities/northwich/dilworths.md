@@ -1,5 +1,5 @@
 ---
 title: "Dilworth's"
 url: /northwich/dilworths/
-shop: Fisch
+shop: seafood
 ---

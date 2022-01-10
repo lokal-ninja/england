@@ -1,5 +1,5 @@
 ---
 title: "Johnsons"
 url: /oldhurst/johnsons/
-shop: Metzgerei
+shop: butcher
 ---

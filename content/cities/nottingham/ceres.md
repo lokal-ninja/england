@@ -1,5 +1,5 @@
 ---
 title: "Ceres"
 url: /nottingham/ceres/
-shop: Bioladen
+shop: health food
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sewa"
 url: /birmingham/sewa/
-shop: Gebrauchtwaren
+shop: charity
 ---

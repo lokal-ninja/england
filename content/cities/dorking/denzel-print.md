@@ -1,5 +1,5 @@
 ---
 title: "Denzel Print"
 url: /dorking/denzel-print/
-shop: Kopieren
+shop: copyshop
 ---

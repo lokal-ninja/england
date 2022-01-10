@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
 url: /st-albans/wilko/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Love Handmade"
 url: /london/love-handmade/
-shop: Möbel
+shop: furniture
 ---

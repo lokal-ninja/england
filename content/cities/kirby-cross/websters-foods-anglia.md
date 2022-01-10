@@ -1,5 +1,5 @@
 ---
 title: "Websters Foods Anglia"
 url: /kirby-cross/websters-foods-anglia/
-shop: Allgemein
+shop: shop
 ---

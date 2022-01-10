@@ -1,5 +1,5 @@
 ---
 title: "AV Taylor Autoparts"
 url: /hexham/av-taylor-autoparts/
-shop: Autoteile
+shop: car parts
 ---

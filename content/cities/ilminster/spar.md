@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /ilminster/spar/
-shop: Lebensmittel
+shop: convenience
 ---

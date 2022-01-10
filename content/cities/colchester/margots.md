@@ -1,5 +1,5 @@
 ---
 title: "Margot's"
 url: /colchester/margots/
-shop: Kleidung
+shop: clothes
 ---

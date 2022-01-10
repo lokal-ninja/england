@@ -1,5 +1,5 @@
 ---
 title: "The Tomlinson Flower Company"
 url: /coventry/the-tomlinson-flower-company/
-shop: Blumen
+shop: florist
 ---

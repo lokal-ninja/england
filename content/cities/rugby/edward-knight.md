@@ -1,5 +1,5 @@
 ---
 title: "Edward Knight"
 url: /rugby/edward-knight/
-shop: Immobilien
+shop: estate agent
 ---

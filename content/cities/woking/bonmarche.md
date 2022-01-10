@@ -1,5 +1,5 @@
 ---
 title: "Bonmarché"
 url: /woking/bonmarche/
-shop: Kleidung
+shop: clothes
 ---

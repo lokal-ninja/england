@@ -1,5 +1,5 @@
 ---
 title: "Manchester Road Pharmacy"
 url: /bradford/manchester-road-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dress Code"
 url: /southsea/dress-code/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /millom/ladbrokes/
-shop: Wettbüro
+shop: bookmaker
 ---

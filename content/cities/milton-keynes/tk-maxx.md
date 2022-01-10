@@ -1,5 +1,5 @@
 ---
 title: "TK Maxx"
 url: /milton-keynes/tk-maxx/
-shop: Allgemein
+shop: shop
 ---

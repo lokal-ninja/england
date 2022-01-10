@@ -1,5 +1,5 @@
 ---
 title: "Kingsway Garage"
 url: /sunniside/kingsway-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

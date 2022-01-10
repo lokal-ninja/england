@@ -1,5 +1,5 @@
 ---
 title: "Smyths"
 url: /fareham/smyths/
-shop: Spielzeug
+shop: toys
 ---

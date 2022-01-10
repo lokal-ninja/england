@@ -1,5 +1,5 @@
 ---
 title: "Desi Barber"
 url: /coventry/desi-barber/
-shop: Friseur
+shop: hairdresser
 ---

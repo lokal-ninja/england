@@ -1,5 +1,5 @@
 ---
 title: "Discount Shop"
 url: /london/discount-shop/
-shop: Kramladen
+shop: variety store
 ---

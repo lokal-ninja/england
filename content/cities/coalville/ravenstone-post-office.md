@@ -1,5 +1,5 @@
 ---
 title: "Ravenstone Post Office"
 url: /coalville/ravenstone-post-office/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mick's"
 url: /hertford/micks/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Flowers"
 url: /swaffham/flowers/
-shop: Blumen
+shop: florist
 ---

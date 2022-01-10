@@ -1,5 +1,5 @@
 ---
 title: "Cook"
 url: /haywards-heath/cook/
-shop: Tiefkühl
+shop: frozen food
 ---

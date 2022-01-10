@@ -1,5 +1,5 @@
 ---
 title: "Lakeland"
 url: /york/lakeland/
-shop: Haushaltsartikel
+shop: houseware
 ---

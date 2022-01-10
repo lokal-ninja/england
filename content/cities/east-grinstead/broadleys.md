@@ -1,5 +1,5 @@
 ---
 title: "Broadleys"
 url: /east-grinstead/broadleys/
-shop: Kleidung
+shop: clothes
 ---

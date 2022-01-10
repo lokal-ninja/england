@@ -1,5 +1,5 @@
 ---
 title: "Aspire"
 url: /wantage/aspire/
-shop: Kosmetik
+shop: beauty
 ---

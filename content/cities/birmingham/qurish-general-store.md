@@ -1,5 +1,5 @@
 ---
 title: "Qurish General Store"
 url: /birmingham/qurish-general-store/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "McColl's"
 url: /southport/mccolls/
-shop: Lebensmittel
+shop: convenience
 ---

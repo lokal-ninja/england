@@ -1,5 +1,5 @@
 ---
 title: "Reeves Corner Off Licence"
 url: /croydon/reeves-corner-off-licence/
-shop: Getränke
+shop: beverages
 ---

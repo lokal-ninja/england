@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /cark/londis/
-shop: Lebensmittel
+shop: convenience
 ---

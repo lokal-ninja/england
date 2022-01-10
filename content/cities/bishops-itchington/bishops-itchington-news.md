@@ -1,5 +1,5 @@
 ---
 title: "Bishops Itchington News"
 url: /bishops-itchington/bishops-itchington-news/
-shop: Zeitungen
+shop: newsagent
 ---

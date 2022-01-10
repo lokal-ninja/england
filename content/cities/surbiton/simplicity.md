@@ -1,5 +1,5 @@
 ---
 title: "Simplicity"
 url: /surbiton/simplicity/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chester Green News"
 url: /derby/chester-green-news/
-shop: Lebensmittel
+shop: convenience
 ---

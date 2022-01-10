@@ -1,5 +1,5 @@
 ---
 title: "Hut Bazar"
 url: /london/hut-bazar/
-shop: Lebensmittel
+shop: convenience
 ---

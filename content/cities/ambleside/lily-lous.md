@@ -1,5 +1,5 @@
 ---
 title: "Lily Lou's"
 url: /ambleside/lily-lous/
-shop: Blumen
+shop: florist
 ---

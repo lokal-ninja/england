@@ -1,5 +1,5 @@
 ---
 title: "Booths"
 url: /preston/booths/
-shop: Supermarkt
+shop: supermarket
 ---

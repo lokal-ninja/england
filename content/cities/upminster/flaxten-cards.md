@@ -1,5 +1,5 @@
 ---
 title: "Flaxten Cards"
 url: /upminster/flaxten-cards/
-shop: Andenken
+shop: gift
 ---

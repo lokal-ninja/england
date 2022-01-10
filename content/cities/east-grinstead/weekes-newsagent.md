@@ -1,5 +1,5 @@
 ---
 title: "Weekes Newsagent"
 url: /east-grinstead/weekes-newsagent/
-shop: Zeitungen
+shop: newsagent
 ---

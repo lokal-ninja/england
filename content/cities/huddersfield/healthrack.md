@@ -1,5 +1,5 @@
 ---
 title: "Healthrack"
 url: /huddersfield/healthrack/
-shop: Bioladen
+shop: health food
 ---

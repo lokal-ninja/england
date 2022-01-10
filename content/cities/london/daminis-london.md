@@ -1,5 +1,5 @@
 ---
 title: "Daminis London"
 url: /london/daminis-london/
-shop: Kleidung
+shop: clothes
 ---

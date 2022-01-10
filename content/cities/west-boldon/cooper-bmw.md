@@ -1,5 +1,5 @@
 ---
 title: "Cooper-BMW"
 url: /west-boldon/cooper-bmw/
-shop: Autohaus
+shop: car
 ---

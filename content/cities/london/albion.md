@@ -1,5 +1,5 @@
 ---
 title: "Albion"
 url: /london/albion/
-shop: Lebensmittel
+shop: convenience
 ---

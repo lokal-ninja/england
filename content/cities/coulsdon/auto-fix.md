@@ -1,5 +1,5 @@
 ---
 title: "Auto-Fix"
 url: /coulsdon/auto-fix/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Argus"
 url: /brighton/the-argus/
-shop: Zeitungen
+shop: newsagent
 ---

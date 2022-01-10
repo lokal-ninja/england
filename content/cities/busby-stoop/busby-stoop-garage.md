@@ -1,5 +1,5 @@
 ---
 title: "Busby Stoop Garage"
 url: /busby-stoop/busby-stoop-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

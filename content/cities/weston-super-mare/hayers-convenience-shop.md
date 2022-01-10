@@ -1,5 +1,5 @@
 ---
 title: "Hayers Convenience Shop"
 url: /weston-super-mare/hayers-convenience-shop/
-shop: Lebensmittel
+shop: convenience
 ---

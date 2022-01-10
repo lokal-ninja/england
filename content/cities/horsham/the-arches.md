@@ -1,5 +1,5 @@
 ---
 title: "The Arches"
 url: /horsham/the-arches/
-shop: Blumen
+shop: florist
 ---

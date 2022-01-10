@@ -1,5 +1,5 @@
 ---
 title: "Typo"
 url: /cambridge/typo/
-shop: Schreibwaren
+shop: office supplies
 ---

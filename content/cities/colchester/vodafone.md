@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
 url: /colchester/vodafone/
-shop: Handy
+shop: mobile phone
 ---

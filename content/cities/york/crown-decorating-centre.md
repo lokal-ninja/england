@@ -1,5 +1,5 @@
 ---
 title: "Crown Decorating Centre"
 url: /york/crown-decorating-centre/
-shop: Farben
+shop: paint
 ---

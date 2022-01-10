@@ -1,5 +1,5 @@
 ---
 title: "claire's"
 url: /weston-super-mare/claires/
-shop: Allgemein
+shop: shop
 ---

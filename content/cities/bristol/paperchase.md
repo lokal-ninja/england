@@ -1,5 +1,5 @@
 ---
 title: "Paperchase"
 url: /bristol/paperchase/
-shop: Schreibwaren
+shop: office supplies
 ---

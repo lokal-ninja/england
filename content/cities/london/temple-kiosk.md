@@ -1,5 +1,5 @@
 ---
 title: "Temple Kiosk"
 url: /london/temple-kiosk/
-shop: Zeitungen
+shop: newsagent
 ---

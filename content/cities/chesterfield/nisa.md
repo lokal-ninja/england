@@ -1,5 +1,5 @@
 ---
 title: "Nisa"
 url: /chesterfield/nisa/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Travel Stop"
 url: /hadleigh/travel-stop/
-shop: Reisebüro
+shop: travel agency
 ---

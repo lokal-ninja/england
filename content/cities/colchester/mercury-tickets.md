@@ -1,5 +1,5 @@
 ---
 title: "Mercury Tickets."
 url: /colchester/mercury-tickets/
-shop: Tickets
+shop: ticket
 ---

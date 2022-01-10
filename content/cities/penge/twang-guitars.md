@@ -1,5 +1,5 @@
 ---
 title: "Twang Guitars"
 url: /penge/twang-guitars/
-shop: Instrumente
+shop: musical instrument
 ---

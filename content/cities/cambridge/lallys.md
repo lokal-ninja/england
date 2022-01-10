@@ -1,5 +1,5 @@
 ---
 title: "Lallys"
 url: /cambridge/lallys/
-shop: Lebensmittel
+shop: convenience
 ---

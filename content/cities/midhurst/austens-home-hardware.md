@@ -1,5 +1,5 @@
 ---
 title: "Austens Home Hardware"
 url: /midhurst/austens-home-hardware/
-shop: Baumarkt
+shop: doityourself
 ---

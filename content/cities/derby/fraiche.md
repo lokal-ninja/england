@@ -1,5 +1,5 @@
 ---
 title: "Fraiche"
 url: /derby/fraiche/
-shop: Andenken
+shop: gift
 ---

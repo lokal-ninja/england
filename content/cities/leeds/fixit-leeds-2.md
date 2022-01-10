@@ -1,5 +1,5 @@
 ---
 title: "FixIT Leeds"
 url: /leeds/fixit-leeds-2/
-shop: Computer
+shop: computer
 ---

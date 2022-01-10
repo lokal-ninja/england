@@ -1,5 +1,5 @@
 ---
 title: "Be Barbered"
 url: /leyland/be-barbered/
-shop: Friseur
+shop: hairdresser
 ---

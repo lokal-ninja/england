@@ -1,5 +1,5 @@
 ---
 title: "Daily Bread Co-operative"
 url: /cambridge/daily-bread-co-operative/
-shop: Lebensmittel
+shop: convenience
 ---

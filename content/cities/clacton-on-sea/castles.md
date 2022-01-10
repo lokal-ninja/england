@@ -1,5 +1,5 @@
 ---
 title: "Castles"
 url: /clacton-on-sea/castles/
-shop: Immobilien
+shop: estate agent
 ---

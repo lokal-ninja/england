@@ -1,5 +1,5 @@
 ---
 title: "French Connection"
 url: /st-albans/french-connection/
-shop: Kleidung
+shop: clothes
 ---

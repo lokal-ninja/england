@@ -1,5 +1,5 @@
 ---
 title: "GB Maycock"
 url: /belper/gb-maycock/
-shop: Metzgerei
+shop: butcher
 ---

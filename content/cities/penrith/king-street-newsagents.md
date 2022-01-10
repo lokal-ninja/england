@@ -1,5 +1,5 @@
 ---
 title: "King Street Newsagents"
 url: /penrith/king-street-newsagents/
-shop: Zeitungen
+shop: newsagent
 ---

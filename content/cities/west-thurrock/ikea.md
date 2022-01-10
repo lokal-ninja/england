@@ -1,5 +1,5 @@
 ---
 title: "IKEA"
 url: /west-thurrock/ikea/
-shop: Möbel
+shop: furniture
 ---

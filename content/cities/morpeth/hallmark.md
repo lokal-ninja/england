@@ -1,5 +1,5 @@
 ---
 title: "Hallmark"
 url: /morpeth/hallmark/
-shop: Andenken
+shop: gift
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vapestore"
 url: /portsmouth/vapestore/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

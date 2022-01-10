@@ -1,5 +1,5 @@
 ---
 title: "Park Village Launderette"
 url: /brighton/park-village-launderette/
-shop: Wäscherei
+shop: laundry
 ---

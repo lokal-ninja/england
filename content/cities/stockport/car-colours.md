@@ -1,5 +1,5 @@
 ---
 title: "Car Colours"
 url: /stockport/car-colours/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Foot Asylum"
 url: /bristol/foot-asylum/
-shop: Schuhe
+shop: shoes
 ---

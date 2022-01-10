@@ -1,5 +1,5 @@
 ---
 title: "Co-op"
 url: /widnes/co-op/
-shop: Lebensmittel
+shop: convenience
 ---

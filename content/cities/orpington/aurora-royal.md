@@ -1,5 +1,5 @@
 ---
 title: "Aurora Royal"
 url: /orpington/aurora-royal/
-shop: Kleidung
+shop: clothes
 ---

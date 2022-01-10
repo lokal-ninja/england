@@ -1,5 +1,5 @@
 ---
 title: "Leaders"
 url: /chelmsford/leaders/
-shop: Immobilien
+shop: estate agent
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /fleetwood/savers/
-shop: Drogerie
+shop: chemist
 ---

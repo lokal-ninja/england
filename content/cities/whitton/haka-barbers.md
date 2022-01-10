@@ -1,5 +1,5 @@
 ---
 title: "Haka Barbers"
 url: /whitton/haka-barbers/
-shop: Friseur
+shop: hairdresser
 ---

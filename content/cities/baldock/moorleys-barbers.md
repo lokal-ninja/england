@@ -1,5 +1,5 @@
 ---
 title: "Moorleys Barbers"
 url: /baldock/moorleys-barbers/
-shop: Friseur
+shop: hairdresser
 ---

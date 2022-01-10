@@ -1,5 +1,5 @@
 ---
 title: "Le Chique"
 url: /sutton-coldfield/le-chique/
-shop: Kosmetik
+shop: beauty
 ---

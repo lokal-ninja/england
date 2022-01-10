@@ -1,5 +1,5 @@
 ---
 title: "Pelleymounters"
 url: /ulverston/pelleymounters/
-shop: Eisenwaren
+shop: hardware
 ---

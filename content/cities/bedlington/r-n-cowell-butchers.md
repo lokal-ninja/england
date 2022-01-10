@@ -1,5 +1,5 @@
 ---
 title: "R N Cowell Butchers"
 url: /bedlington/r-n-cowell-butchers/
-shop: Metzgerei
+shop: butcher
 ---

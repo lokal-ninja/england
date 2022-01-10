@@ -1,5 +1,5 @@
 ---
 title: "Cube"
 url: /wellingborough/cube/
-shop: Kleidung
+shop: clothes
 ---

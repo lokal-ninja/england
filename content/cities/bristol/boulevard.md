@@ -1,5 +1,5 @@
 ---
 title: "BouleVard"
 url: /bristol/boulevard/
-shop: Küchen
+shop: kitchen
 ---

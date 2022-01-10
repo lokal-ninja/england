@@ -1,5 +1,5 @@
 ---
 title: "Wrights"
 url: /bedlington/wrights/
-shop: Bäckerei
+shop: bakery
 ---

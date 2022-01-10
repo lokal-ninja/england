@@ -1,5 +1,5 @@
 ---
 title: "Rocking"
 url: /leeds/rocking/
-shop: Handy
+shop: mobile phone
 ---

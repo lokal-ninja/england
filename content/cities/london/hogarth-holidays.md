@@ -1,5 +1,5 @@
 ---
 title: "Hogarth Holidays"
 url: /london/hogarth-holidays/
-shop: Reisebüro
+shop: travel agency
 ---

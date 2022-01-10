@@ -1,5 +1,5 @@
 ---
 title: "St Peter's Hospice"
 url: /nailsea/st-peters-hospice/
-shop: Gebrauchtwaren
+shop: charity
 ---

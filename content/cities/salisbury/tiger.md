@@ -1,5 +1,5 @@
 ---
 title: "Tiger"
 url: /salisbury/tiger/
-shop: Haushaltsartikel
+shop: houseware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hair Bazaar"
 url: /kendal/hair-bazaar/
-shop: Friseur
+shop: hairdresser
 ---

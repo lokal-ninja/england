@@ -1,5 +1,5 @@
 ---
-title: "Station Food and Wine"
+title: "Station Food & Wine"
 url: /london/station-food-and-wine/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Afro Caribbean Groceries"
 url: /corby/afro-caribbean-groceries/
-shop: Lebensmittel
+shop: convenience
 ---

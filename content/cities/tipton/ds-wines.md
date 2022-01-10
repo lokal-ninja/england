@@ -1,5 +1,5 @@
 ---
 title: "DS Wines"
 url: /tipton/ds-wines/
-shop: Spirituosen
+shop: alcohol
 ---

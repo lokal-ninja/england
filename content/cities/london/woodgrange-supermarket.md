@@ -1,5 +1,5 @@
 ---
 title: "Woodgrange Supermarket"
 url: /london/woodgrange-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

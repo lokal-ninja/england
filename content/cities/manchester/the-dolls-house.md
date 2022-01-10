@@ -1,5 +1,5 @@
 ---
 title: "The Dolls House"
 url: /manchester/the-dolls-house/
-shop: Kleidung
+shop: clothes
 ---

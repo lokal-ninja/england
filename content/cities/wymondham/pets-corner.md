@@ -1,5 +1,5 @@
 ---
 title: "Pets Corner"
 url: /wymondham/pets-corner/
-shop: Tiere
+shop: pet
 ---

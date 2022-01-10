@@ -1,5 +1,5 @@
 ---
 title: "Electric Centre"
 url: /ramsgate/electric-centre/
-shop: Elektronik
+shop: electronics
 ---

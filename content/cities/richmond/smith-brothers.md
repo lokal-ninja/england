@@ -1,5 +1,5 @@
 ---
 title: "Smith Brothers"
 url: /richmond/smith-brothers/
-shop: Autowerkstatt
+shop: car repair
 ---

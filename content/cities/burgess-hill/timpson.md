@@ -1,5 +1,5 @@
 ---
 title: "Timpson"
 url: /burgess-hill/timpson/
-shop: Schuhe
+shop: shoes
 ---

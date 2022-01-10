@@ -1,5 +1,5 @@
 ---
 title: "Nature's Health Store"
 url: /london/natures-health-store/
-shop: Bioladen
+shop: health food
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Red Brick"
 url: /rugby/red-brick/
-shop: Immobilien
+shop: estate agent
 ---

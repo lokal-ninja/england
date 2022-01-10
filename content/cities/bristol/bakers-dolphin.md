@@ -1,5 +1,5 @@
 ---
 title: "Bakers Dolphin"
 url: /bristol/bakers-dolphin/
-shop: Reisebüro
+shop: travel agency
 ---

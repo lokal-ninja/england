@@ -1,5 +1,5 @@
 ---
 title: "In Spirit"
 url: /tamworth/in-spirit/
-shop: Spirituosen
+shop: alcohol
 ---

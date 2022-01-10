@@ -1,5 +1,5 @@
 ---
 title: "The Local Offy"
 url: /chigwell/the-local-offy/
-shop: Spirituosen
+shop: alcohol
 ---

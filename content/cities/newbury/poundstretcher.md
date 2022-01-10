@@ -1,5 +1,5 @@
 ---
 title: "PoundStretcher"
 url: /newbury/poundstretcher/
-shop: Allgemein
+shop: shop
 ---

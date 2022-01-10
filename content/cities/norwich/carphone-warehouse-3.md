@@ -1,5 +1,5 @@
 ---
 title: "Carphone Warehouse"
 url: /norwich/carphone-warehouse-3/
-shop: Handy
+shop: mobile phone
 ---

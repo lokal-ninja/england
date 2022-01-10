@@ -1,5 +1,5 @@
 ---
 title: "K T Bridal"
 url: /broseley/k-t-bridal/
-shop: Kleidung
+shop: clothes
 ---

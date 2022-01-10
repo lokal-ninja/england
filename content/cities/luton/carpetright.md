@@ -1,5 +1,5 @@
 ---
 title: "Carpetright"
 url: /luton/carpetright/
-shop: Teppiche
+shop: carpet
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Overclockers UK"
 url: /newcastle-under-lyme/overclockers-uk/
-shop: Computer
+shop: computer
 ---

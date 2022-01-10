@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
 url: /blyth/wilko/
-shop: Kramladen
+shop: variety store
 ---

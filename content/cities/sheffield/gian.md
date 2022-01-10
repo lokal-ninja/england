@@ -1,5 +1,5 @@
 ---
 title: "gian"
 url: /sheffield/gian/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /london-borough-of-wandsworth/ladbrokes/
-shop: Wettbüro
+shop: bookmaker
 ---

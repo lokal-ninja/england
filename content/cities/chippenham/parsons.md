@@ -1,5 +1,5 @@
 ---
 title: "Parsons"
 url: /chippenham/parsons/
-shop: Allgemein
+shop: shop
 ---

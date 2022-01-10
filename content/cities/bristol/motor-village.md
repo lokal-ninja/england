@@ -1,5 +1,5 @@
 ---
 title: "Motor Village"
 url: /bristol/motor-village/
-shop: Autohaus
+shop: car
 ---

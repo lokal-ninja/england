@@ -1,5 +1,5 @@
 ---
 title: "STS"
 url: /norwich/sts/
-shop: Autowerkstatt
+shop: car repair
 ---

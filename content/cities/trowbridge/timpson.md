@@ -1,5 +1,5 @@
 ---
 title: "Timpson"
 url: /trowbridge/timpson/
-shop: Foto
+shop: photo
 ---

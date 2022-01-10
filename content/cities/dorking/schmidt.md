@@ -1,5 +1,5 @@
 ---
 title: "Schmidt"
 url: /dorking/schmidt/
-shop: Küchen
+shop: kitchen
 ---

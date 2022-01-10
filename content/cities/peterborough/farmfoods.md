@@ -1,5 +1,5 @@
 ---
 title: "Farmfoods"
 url: /peterborough/farmfoods/
-shop: Tiefkühl
+shop: frozen food
 ---

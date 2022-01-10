@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /maidstone/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

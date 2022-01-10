@@ -1,5 +1,5 @@
 ---
 title: "Escape Colchester"
 url: /colchester/escape-colchester/
-shop: Allgemein
+shop: shop
 ---

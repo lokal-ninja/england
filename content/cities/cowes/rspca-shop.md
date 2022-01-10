@@ -1,5 +1,5 @@
 ---
 title: "RSPCA shop"
 url: /cowes/rspca-shop/
-shop: Kramladen
+shop: variety store
 ---

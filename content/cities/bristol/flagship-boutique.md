@@ -1,5 +1,5 @@
 ---
 title: "Flagship Boutique"
 url: /bristol/flagship-boutique/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /newhaven/londis/
-shop: Lebensmittel
+shop: convenience
 ---

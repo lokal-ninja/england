@@ -1,5 +1,5 @@
 ---
 title: "iMakr"
 url: /london/imakr/
-shop: Allgemein
+shop: shop
 ---

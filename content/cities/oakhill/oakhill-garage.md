@@ -1,5 +1,5 @@
 ---
 title: "Oakhill Garage"
 url: /oakhill/oakhill-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carpet Hall"
 url: /south-shields/carpet-hall/
-shop: Teppiche
+shop: carpet
 ---

@@ -1,5 +1,5 @@
 ---
 title: "FLTR Coffee"
 url: /bicester/fltr-coffee/
-shop: Kaffee
+shop: coffee
 ---

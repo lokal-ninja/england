@@ -1,5 +1,5 @@
 ---
 title: "Rehaan's"
 url: /london/rehaans/
-shop: Metzgerei
+shop: butcher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cornlands Road News"
 url: /york/cornlands-road-news/
-shop: Zeitungen
+shop: newsagent
 ---

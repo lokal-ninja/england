@@ -1,5 +1,5 @@
 ---
 title: "Miss Scarf QQ"
 url: /london/miss-scarf-qq/
-shop: Kleidung
+shop: clothes
 ---

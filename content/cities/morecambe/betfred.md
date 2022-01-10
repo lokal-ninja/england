@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /morecambe/betfred/
-shop: Wettbüro
+shop: bookmaker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Frank Innes"
 url: /leicester/frank-innes/
-shop: Immobilien
+shop: estate agent
 ---

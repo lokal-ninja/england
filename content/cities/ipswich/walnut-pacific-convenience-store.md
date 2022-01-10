@@ -1,5 +1,5 @@
 ---
 title: "Walnut Pacific Convenience Store"
 url: /ipswich/walnut-pacific-convenience-store/
-shop: Zeitungen
+shop: newsagent
 ---

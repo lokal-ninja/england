@@ -1,5 +1,5 @@
 ---
 title: "Formula One"
 url: /norwich/formula-one/
-shop: Autowerkstatt
+shop: car repair
 ---

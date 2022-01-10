@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /amble/londis/
-shop: Lebensmittel
+shop: convenience
 ---

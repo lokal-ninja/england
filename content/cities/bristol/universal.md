@@ -1,5 +1,5 @@
 ---
 title: "Universal"
 url: /bristol/universal/
-shop: Reisebüro
+shop: travel agency
 ---

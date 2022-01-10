@@ -1,5 +1,5 @@
 ---
 title: "GJ Hair Design"
 url: /gateshead/gj-hair-design/
-shop: Friseur
+shop: hairdresser
 ---

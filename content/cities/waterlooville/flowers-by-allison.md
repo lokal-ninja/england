@@ -1,5 +1,5 @@
 ---
 title: "Flowers by Allison"
 url: /waterlooville/flowers-by-allison/
-shop: Blumen
+shop: florist
 ---

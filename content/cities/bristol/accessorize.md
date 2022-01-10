@@ -1,5 +1,5 @@
 ---
 title: "Accessorize"
 url: /bristol/accessorize/
-shop: Kleidung
+shop: clothes
 ---

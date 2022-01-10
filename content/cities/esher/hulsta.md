@@ -1,5 +1,5 @@
 ---
 title: "Hulsta"
 url: /esher/hulsta/
-shop: Möbel
+shop: furniture
 ---

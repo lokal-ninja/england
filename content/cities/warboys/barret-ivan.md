@@ -1,5 +1,5 @@
 ---
 title: "Barret Ivan"
 url: /warboys/barret-ivan/
-shop: Autowerkstatt
+shop: car repair
 ---

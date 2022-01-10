@@ -1,5 +1,5 @@
 ---
 title: "Sky"
 url: /derby/sky/
-shop: Handy
+shop: mobile phone
 ---

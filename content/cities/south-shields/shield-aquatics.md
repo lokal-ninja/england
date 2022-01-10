@@ -1,5 +1,5 @@
 ---
 title: "Shield Aquatics"
 url: /south-shields/shield-aquatics/
-shop: Tiere
+shop: pet
 ---

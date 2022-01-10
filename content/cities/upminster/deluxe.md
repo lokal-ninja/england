@@ -1,5 +1,5 @@
 ---
 title: "Deluxe"
 url: /upminster/deluxe/
-shop: Kosmetik
+shop: beauty
 ---

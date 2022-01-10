@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /crewe/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "DFS"
 url: /stevenage/dfs/
-shop: Möbel
+shop: furniture
 ---

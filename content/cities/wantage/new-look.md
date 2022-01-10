@@ -1,5 +1,5 @@
 ---
 title: "New Look"
 url: /wantage/new-look/
-shop: Kleidung
+shop: clothes
 ---

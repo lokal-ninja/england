@@ -1,5 +1,5 @@
 ---
 title: "HBBB"
 url: /leeds/hbbb/
-shop: Lebensmittel
+shop: convenience
 ---

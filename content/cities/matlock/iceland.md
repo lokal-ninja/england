@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /matlock/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

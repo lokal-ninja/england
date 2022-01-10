@@ -1,5 +1,5 @@
 ---
 title: "Palmers Funeralcare"
 url: /exmouth/palmers-funeralcare/
-shop: Bestattungen
+shop: funeral directors
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nilfisk"
 url: /penrith/nilfisk/
-shop: Staubsauger
+shop: vacuum cleaner
 ---

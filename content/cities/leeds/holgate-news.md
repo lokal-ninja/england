@@ -1,5 +1,5 @@
 ---
 title: "Holgate News"
 url: /leeds/holgate-news/
-shop: Zeitungen
+shop: newsagent
 ---

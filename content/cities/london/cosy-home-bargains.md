@@ -1,5 +1,5 @@
 ---
 title: "Cosy Home Bargains"
 url: /london/cosy-home-bargains/
-shop: Haushaltsartikel
+shop: houseware
 ---

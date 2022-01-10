@@ -1,5 +1,5 @@
 ---
 title: "Eurowines"
 url: /birmingham/eurowines/
-shop: Spirituosen
+shop: alcohol
 ---

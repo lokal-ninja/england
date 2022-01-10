@@ -1,5 +1,5 @@
 ---
 title: "Johnny Ridley"
 url: /durham/johnny-ridley/
-shop: Wettbüro
+shop: bookmaker
 ---

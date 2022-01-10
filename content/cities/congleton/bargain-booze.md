@@ -1,5 +1,5 @@
 ---
 title: "Bargain Booze"
 url: /congleton/bargain-booze/
-shop: Spirituosen
+shop: alcohol
 ---

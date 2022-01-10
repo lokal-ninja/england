@@ -1,5 +1,5 @@
 ---
 title: "Cooplands"
 url: /bishop-auckland/cooplands/
-shop: Bäckerei
+shop: bakery
 ---

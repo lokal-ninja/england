@@ -1,5 +1,5 @@
 ---
 title: "Bonmarché"
 url: /bridgwater/bonmarche/
-shop: Kleidung
+shop: clothes
 ---

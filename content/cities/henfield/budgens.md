@@ -1,5 +1,5 @@
 ---
 title: "Budgens"
 url: /henfield/budgens/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "H Samuel"
 url: /bristol/h-samuel/
-shop: Schmuck
+shop: jewelry
 ---

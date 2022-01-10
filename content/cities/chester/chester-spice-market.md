@@ -1,5 +1,5 @@
 ---
 title: "Chester Spice Market"
 url: /chester/chester-spice-market/
-shop: Gewürze
+shop: spices
 ---

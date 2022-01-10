@@ -1,5 +1,5 @@
 ---
 title: "Diosa"
 url: /penge/diosa/
-shop: Kleidung
+shop: clothes
 ---

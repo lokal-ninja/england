@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /bury-st-edmunds/poundland/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Crew Clothing Company"
 url: /cobham/crew-clothing-company/
-shop: Kleidung
+shop: clothes
 ---

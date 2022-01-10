@@ -1,5 +1,5 @@
 ---
 title: "Boots"
 url: /gatwick/boots/
-shop: Drogerie
+shop: chemist
 ---

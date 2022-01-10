@@ -1,5 +1,5 @@
 ---
 title: "Grrroomers"
 url: /norwich/grrroomers/
-shop: Tiersalon
+shop: pet grooming
 ---

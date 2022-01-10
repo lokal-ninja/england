@@ -1,5 +1,5 @@
 ---
 title: "The Dog Shop"
 url: /bristol/the-dog-shop/
-shop: Tiere
+shop: pet
 ---

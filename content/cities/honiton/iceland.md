@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /honiton/iceland/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Now Storage Swindon"
 url: /swindon/now-storage-swindon/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MD Autos MOT Centre"
 url: /chester-le-street/md-autos-mot-centre/
-shop: Autowerkstatt
+shop: car repair
 ---

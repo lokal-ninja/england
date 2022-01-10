@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /maltby/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

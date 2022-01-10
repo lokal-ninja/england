@@ -1,5 +1,5 @@
 ---
 title: "Wawne Stores"
 url: /hull/wawne-stores/
-shop: Lebensmittel
+shop: convenience
 ---

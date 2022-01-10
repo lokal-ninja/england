@@ -1,5 +1,5 @@
 ---
 title: "Windrow Shooting Fishing model Shop"
 url: /bishop-auckland/windrow-shooting-fishing-model-shop/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "JMG"
 url: /london/jmg/
-shop: Reisebüro
+shop: travel agency
 ---

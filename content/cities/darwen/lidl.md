@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /darwen/lidl/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /coventry/premier/
-shop: Lebensmittel
+shop: convenience
 ---

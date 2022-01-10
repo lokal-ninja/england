@@ -1,5 +1,5 @@
 ---
 title: "KK Tea House"
 url: /nottingham/kk-tea-house/
-shop: Andenken
+shop: gift
 ---

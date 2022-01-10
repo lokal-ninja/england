@@ -1,5 +1,5 @@
 ---
 title: "Kookie of London"
 url: /london/kookie-of-london/
-shop: Kleidung
+shop: clothes
 ---

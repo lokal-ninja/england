@@ -1,5 +1,5 @@
 ---
 title: "Fat Face"
 url: /chelmsford/fat-face/
-shop: Kleidung
+shop: clothes
 ---

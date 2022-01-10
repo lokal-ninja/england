@@ -1,5 +1,5 @@
 ---
 title: "Peacocks"
 url: /gillingham/peacocks/
-shop: Kleidung
+shop: clothes
 ---

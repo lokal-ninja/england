@@ -1,5 +1,5 @@
 ---
 title: "McColl's"
 url: /upton/mccolls/
-shop: Lebensmittel
+shop: convenience
 ---

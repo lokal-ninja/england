@@ -1,5 +1,5 @@
 ---
 title: "Matalan"
 url: /eastbourne/matalan/
-shop: Kleidung
+shop: clothes
 ---

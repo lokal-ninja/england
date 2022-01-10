@@ -1,5 +1,5 @@
 ---
 title: "Colemans"
 url: /oundle/colemans/
-shop: Schreibwaren
+shop: office supplies
 ---

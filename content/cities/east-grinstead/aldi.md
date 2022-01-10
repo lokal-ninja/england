@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /east-grinstead/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Smithson"
 url: /huddersfield/smithson/
-shop: Wettbüro
+shop: bookmaker
 ---

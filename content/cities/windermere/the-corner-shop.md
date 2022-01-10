@@ -1,5 +1,5 @@
 ---
 title: "The Corner Shop"
 url: /windermere/the-corner-shop/
-shop: Andenken
+shop: gift
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lovefone"
 url: /london/lovefone/
-shop: Handy
+shop: mobile phone
 ---

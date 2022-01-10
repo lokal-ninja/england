@@ -1,5 +1,5 @@
 ---
 title: "Personal Bridge"
 url: /leeds/personal-bridge/
-shop: Gebrauchtwaren
+shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Allmark Collectables"
 url: /southampton/allmark-collectables/
-shop: Sammler
+shop: collector
 ---

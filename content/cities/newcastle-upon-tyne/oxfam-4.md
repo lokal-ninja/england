@@ -1,5 +1,5 @@
 ---
 title: "Oxfam"
 url: /newcastle-upon-tyne/oxfam-4/
-shop: Gebrauchtwaren
+shop: charity
 ---

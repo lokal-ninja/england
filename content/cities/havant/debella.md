@@ -1,5 +1,5 @@
 ---
 title: "Debella"
 url: /havant/debella/
-shop: Kleidung
+shop: clothes
 ---

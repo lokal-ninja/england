@@ -1,5 +1,5 @@
 ---
 title: "Penhaligons"
 url: /cambridge/penhaligons/
-shop: Parfümerie
+shop: perfumery
 ---

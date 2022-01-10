@@ -1,5 +1,5 @@
 ---
 title: "Aguona"
 url: /corby/aguona/
-shop: Feinkost
+shop: deli
 ---

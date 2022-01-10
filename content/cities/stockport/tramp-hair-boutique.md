@@ -1,5 +1,5 @@
 ---
 title: "Tramp Hair Boutique"
 url: /stockport/tramp-hair-boutique/
-shop: Friseur
+shop: hairdresser
 ---

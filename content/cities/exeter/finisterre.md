@@ -1,5 +1,5 @@
 ---
 title: "finisterre"
 url: /exeter/finisterre/
-shop: Kleidung
+shop: clothes
 ---

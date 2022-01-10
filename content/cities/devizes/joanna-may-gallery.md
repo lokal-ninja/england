@@ -1,5 +1,5 @@
 ---
 title: "Joanna May Gallery"
 url: /devizes/joanna-may-gallery/
-shop: Kunst
+shop: art
 ---

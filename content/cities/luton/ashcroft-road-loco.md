@@ -1,5 +1,5 @@
 ---
 title: "Ashcroft Road Loco"
 url: /luton/ashcroft-road-loco/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shoe Zone"
 url: /haverhill/shoe-zone/
-shop: Schuhe
+shop: shoes
 ---

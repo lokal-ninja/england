@@ -1,5 +1,5 @@
 ---
 title: "EE"
 url: /derby/ee/
-shop: Handy
+shop: mobile phone
 ---

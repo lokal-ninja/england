@@ -1,5 +1,5 @@
 ---
 title: "Norton Foods"
 url: /luton/norton-foods/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Geek Lab UK"
 url: /taunton/geek-lab-uk/
-shop: Allgemein
+shop: shop
 ---

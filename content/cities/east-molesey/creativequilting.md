@@ -1,5 +1,5 @@
 ---
 title: "CreativeQuilting"
 url: /east-molesey/creativequilting/
-shop: Textil
+shop: fabric
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Waitrose"
 url: /oundle/waitrose/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Thomson"
 url: /southport/thomson/
-shop: Reisebüro
+shop: travel agency
 ---

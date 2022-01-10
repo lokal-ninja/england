@@ -1,5 +1,5 @@
 ---
 title: "With Love"
 url: /billingshurst/with-love/
-shop: Andenken
+shop: gift
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Beestons Funeral Directors"
 url: /southampton/beestons-funeral-directors/
-shop: Bestattungen
+shop: funeral directors
 ---

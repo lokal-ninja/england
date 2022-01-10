@@ -1,5 +1,5 @@
 ---
 title: "Michael Dart"
 url: /newton-abbot/michael-dart/
-shop: Blumen
+shop: florist
 ---

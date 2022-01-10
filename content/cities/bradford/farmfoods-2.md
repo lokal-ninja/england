@@ -1,5 +1,5 @@
 ---
 title: "Farmfoods"
 url: /bradford/farmfoods-2/
-shop: Tiefkühl
+shop: frozen food
 ---

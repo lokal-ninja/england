@@ -1,5 +1,5 @@
 ---
 title: "Food for Thought"
 url: /guildford/food-for-thought/
-shop: Lebensmittel
+shop: convenience
 ---

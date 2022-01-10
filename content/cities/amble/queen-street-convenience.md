@@ -1,5 +1,5 @@
 ---
 title: "Queen Street Convenience"
 url: /amble/queen-street-convenience/
-shop: Lebensmittel
+shop: convenience
 ---

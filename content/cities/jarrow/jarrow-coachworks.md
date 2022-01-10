@@ -1,5 +1,5 @@
 ---
 title: "Jarrow Coachworks"
 url: /jarrow/jarrow-coachworks/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Raft"
 url: /bristol/raft/
-shop: Möbel
+shop: furniture
 ---

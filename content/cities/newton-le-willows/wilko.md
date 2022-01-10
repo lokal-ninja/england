@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
 url: /newton-le-willows/wilko/
-shop: Kramladen
+shop: variety store
 ---

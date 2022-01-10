@@ -1,5 +1,5 @@
 ---
 title: "Wing Yip"
 url: /croydon/wing-yip/
-shop: Supermarkt
+shop: supermarket
 ---

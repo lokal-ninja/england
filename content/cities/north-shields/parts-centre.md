@@ -1,5 +1,5 @@
 ---
 title: "Parts Centre"
 url: /north-shields/parts-centre/
-shop: Baustoffe
+shop: trade
 ---

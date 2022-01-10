@@ -1,5 +1,5 @@
 ---
 title: "Wolseley"
 url: /barnstaple/wolseley/
-shop: Baustoffe
+shop: trade
 ---

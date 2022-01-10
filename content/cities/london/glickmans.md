@@ -1,5 +1,5 @@
 ---
 title: "Glickman's"
 url: /london/glickmans/
-shop: Haushaltsartikel
+shop: houseware
 ---

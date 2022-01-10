@@ -1,5 +1,5 @@
 ---
 title: "Sainsbury's"
 url: /enfield/sainsburys-2/
-shop: Supermarkt
+shop: supermarket
 ---

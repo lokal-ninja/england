@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
 url: /louth/wilko/
-shop: Kramladen
+shop: variety store
 ---

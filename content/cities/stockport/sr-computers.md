@@ -1,5 +1,5 @@
 ---
 title: "SR Computers"
 url: /stockport/sr-computers/
-shop: Computer
+shop: computer
 ---

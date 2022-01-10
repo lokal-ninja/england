@@ -1,5 +1,5 @@
 ---
 title: "Headlines Unisex Hairdresser"
 url: /watford-hertfordshire/headlines-unisex-hairdresser/
-shop: Friseur
+shop: hairdresser
 ---

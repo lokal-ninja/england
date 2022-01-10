@@ -1,5 +1,5 @@
 ---
 title: "St Georges Jewellers"
 url: /london/st-georges-jewellers/
-shop: Schmuck
+shop: jewelry
 ---

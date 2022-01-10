@@ -1,5 +1,5 @@
 ---
 title: "Warwick Funeralcare"
 url: /warwick/warwick-funeralcare/
-shop: Bestattungen
+shop: funeral directors
 ---

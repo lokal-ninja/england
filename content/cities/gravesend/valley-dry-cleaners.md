@@ -1,5 +1,5 @@
 ---
 title: "Valley Dry Cleaners"
 url: /gravesend/valley-dry-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

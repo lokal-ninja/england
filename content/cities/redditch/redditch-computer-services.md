@@ -1,5 +1,5 @@
 ---
 title: "Redditch Computer Services"
 url: /redditch/redditch-computer-services/
-shop: Computer
+shop: computer
 ---

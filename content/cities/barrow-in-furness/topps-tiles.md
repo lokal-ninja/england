@@ -1,5 +1,5 @@
 ---
 title: "Topps Tiles"
 url: /barrow-in-furness/topps-tiles/
-shop: Fliesen
+shop: tiles
 ---

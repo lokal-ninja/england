@@ -1,5 +1,5 @@
 ---
 title: "Honnis Automotive"
 url: /pinner/honnis-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

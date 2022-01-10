@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
 url: /great-yarmouth/wilko/
-shop: Kramladen
+shop: variety store
 ---

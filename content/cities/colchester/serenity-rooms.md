@@ -1,5 +1,5 @@
 ---
 title: "Serenity Rooms"
 url: /colchester/serenity-rooms/
-shop: Kosmetik
+shop: beauty
 ---

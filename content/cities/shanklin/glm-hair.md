@@ -1,5 +1,5 @@
 ---
 title: "GLM Hair"
 url: /shanklin/glm-hair/
-shop: Friseur
+shop: hairdresser
 ---

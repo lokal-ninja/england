@@ -1,5 +1,5 @@
 ---
 title: "Norge Dry Cleaners"
 url: /london/norge-dry-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "BuyCellFix"
 url: /leeds/buycellfix/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kempston News"
 url: /kempston/kempston-news/
-shop: Lebensmittel
+shop: convenience
 ---

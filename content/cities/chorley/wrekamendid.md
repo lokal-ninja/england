@@ -1,5 +1,5 @@
 ---
 title: "Wrekamendid"
 url: /chorley/wrekamendid/
-shop: Autowerkstatt
+shop: car repair
 ---

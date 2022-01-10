@@ -1,5 +1,5 @@
 ---
 title: "Master Tyres"
 url: /wellingborough/master-tyres/
-shop: Autowerkstatt
+shop: car repair
 ---

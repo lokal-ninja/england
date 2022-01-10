@@ -1,5 +1,5 @@
 ---
 title: "Barabara’s Baps"
 url: /margate/barabaras-baps/
-shop: Bäckerei
+shop: bakery
 ---

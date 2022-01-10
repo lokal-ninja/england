@@ -1,5 +1,5 @@
 ---
 title: "Gap"
 url: /grays/gap/
-shop: Kleidung
+shop: clothes
 ---

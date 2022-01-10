@@ -1,5 +1,5 @@
 ---
 title: "Gulf Store"
 url: /diss/gulf-store/
-shop: Lebensmittel
+shop: convenience
 ---

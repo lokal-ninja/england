@@ -1,5 +1,5 @@
 ---
 title: "Irregular Choice"
 url: /london/irregular-choice/
-shop: Schuhe
+shop: shoes
 ---

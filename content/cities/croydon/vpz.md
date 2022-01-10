@@ -1,5 +1,5 @@
 ---
 title: "VPZ"
 url: /croydon/vpz/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

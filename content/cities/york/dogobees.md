@@ -1,5 +1,5 @@
 ---
 title: "Dogobees"
 url: /york/dogobees/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Adalise"
 url: /london/adalise/
-shop: Schmuck
+shop: jewelry
 ---

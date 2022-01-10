@@ -1,5 +1,5 @@
 ---
 title: "Simpley Wines Direct"
 url: /pangbourne/simpley-wines-direct/
-shop: Wein
+shop: wine
 ---

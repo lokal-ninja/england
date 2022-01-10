@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /doncaster/asda/
-shop: Supermarkt
+shop: supermarket
 ---

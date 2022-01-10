@@ -1,5 +1,5 @@
 ---
 title: "River Island"
 url: /sutton-coldfield/river-island/
-shop: Kleidung
+shop: clothes
 ---

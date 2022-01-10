@@ -1,5 +1,5 @@
 ---
 title: "Northern Connectors Ltd"
 url: /liverpool/northern-connectors-ltd/
-shop: Baustoffe
+shop: trade
 ---

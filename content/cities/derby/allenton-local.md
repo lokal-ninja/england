@@ -1,5 +1,5 @@
 ---
 title: "Allenton Local"
 url: /derby/allenton-local/
-shop: Lebensmittel
+shop: convenience
 ---

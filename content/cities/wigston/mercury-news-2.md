@@ -1,5 +1,5 @@
 ---
 title: "Mercury News"
 url: /wigston/mercury-news-2/
-shop: Zeitungen
+shop: newsagent
 ---

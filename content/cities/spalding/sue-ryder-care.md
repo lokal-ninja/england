@@ -1,5 +1,5 @@
 ---
 title: "Sue Ryder Care"
 url: /spalding/sue-ryder-care/
-shop: Gebrauchtwaren
+shop: charity
 ---

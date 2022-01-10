@@ -1,5 +1,5 @@
 ---
 title: "Peacocks"
 url: /maldon/peacocks/
-shop: Kleidung
+shop: clothes
 ---

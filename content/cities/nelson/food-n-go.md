@@ -1,5 +1,5 @@
 ---
 title: "Food n Go"
 url: /nelson/food-n-go/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Works"
 url: /twickenham/the-works/
-shop: Bücher
+shop: books
 ---

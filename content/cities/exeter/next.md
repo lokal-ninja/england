@@ -1,5 +1,5 @@
 ---
 title: "Next"
 url: /exeter/next/
-shop: Kleidung
+shop: clothes
 ---

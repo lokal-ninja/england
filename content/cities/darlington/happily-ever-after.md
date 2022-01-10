@@ -1,5 +1,5 @@
 ---
 title: "Happily Ever After"
 url: /darlington/happily-ever-after/
-shop: Kleidung
+shop: clothes
 ---

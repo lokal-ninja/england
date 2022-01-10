@@ -1,5 +1,5 @@
 ---
 title: "Ellie Dickins"
 url: /hungerford/ellie-dickins/
-shop: Schuhe
+shop: shoes
 ---

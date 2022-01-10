@@ -1,5 +1,5 @@
 ---
 title: "Mleczko Delikatesy"
 url: /hounslow/mleczko-delikatesy/
-shop: Feinkost
+shop: deli
 ---

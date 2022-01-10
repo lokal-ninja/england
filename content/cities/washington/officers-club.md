@@ -1,5 +1,5 @@
 ---
 title: "Officers Club"
 url: /washington/officers-club/
-shop: Kleidung
+shop: clothes
 ---

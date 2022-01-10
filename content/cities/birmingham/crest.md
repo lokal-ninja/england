@@ -1,5 +1,5 @@
 ---
 title: "Crest"
 url: /birmingham/crest/
-shop: Schmuck
+shop: jewelry
 ---

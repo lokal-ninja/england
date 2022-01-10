@@ -1,5 +1,5 @@
 ---
 title: "Babber Jewelers"
 url: /birmingham/babber-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

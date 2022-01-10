@@ -1,5 +1,5 @@
 ---
 title: "Volkswagen"
 url: /bridgwater/volkswagen/
-shop: Autohaus
+shop: car
 ---

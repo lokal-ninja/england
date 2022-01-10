@@ -1,5 +1,5 @@
 ---
 title: "Costombilt Cars"
 url: /newcastle-upon-tyne/costombilt-cars/
-shop: Autohaus
+shop: car
 ---

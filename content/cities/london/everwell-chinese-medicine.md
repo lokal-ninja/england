@@ -1,5 +1,5 @@
 ---
 title: "Everwell Chinese Medicine"
 url: /london/everwell-chinese-medicine/
-shop: Allgemein
+shop: shop
 ---

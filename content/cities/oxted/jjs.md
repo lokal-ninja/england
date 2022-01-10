@@ -1,5 +1,5 @@
 ---
 title: "JJs"
 url: /oxted/jjs/
-shop: Kleidung
+shop: clothes
 ---

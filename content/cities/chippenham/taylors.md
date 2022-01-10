@@ -1,5 +1,5 @@
 ---
 title: "Taylors"
 url: /chippenham/taylors/
-shop: Immobilien
+shop: estate agent
 ---

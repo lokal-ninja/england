@@ -1,5 +1,5 @@
 ---
 title: "Cathedral Hair"
 url: /derby/cathedral-hair/
-shop: Friseur
+shop: hairdresser
 ---

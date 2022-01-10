@@ -1,5 +1,5 @@
 ---
 title: "Ego"
 url: /wolverhampton/ego/
-shop: Friseur
+shop: hairdresser
 ---

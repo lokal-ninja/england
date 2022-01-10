@@ -1,5 +1,5 @@
 ---
 title: "Sharavana"
 url: /london/sharavana/
-shop: Lebensmittel
+shop: convenience
 ---

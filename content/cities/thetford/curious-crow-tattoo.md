@@ -1,5 +1,5 @@
 ---
 title: "Curious Crow Tattoo"
 url: /thetford/curious-crow-tattoo/
-shop: Tattoo
+shop: tattoo
 ---

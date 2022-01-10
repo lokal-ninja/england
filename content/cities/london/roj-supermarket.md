@@ -1,5 +1,5 @@
 ---
 title: "Roj Supermarket"
 url: /london/roj-supermarket/
-shop: Lebensmittel
+shop: convenience
 ---

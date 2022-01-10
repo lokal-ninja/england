@@ -1,5 +1,5 @@
 ---
 title: "HiQ"
 url: /pontefract/hiq/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hawkshead"
 url: /hawkshead/hawkshead/
-shop: Outdoor
+shop: outdoor
 ---

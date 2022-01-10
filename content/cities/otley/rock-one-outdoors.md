@@ -1,5 +1,5 @@
 ---
 title: "Rock One Outdoors"
 url: /otley/rock-one-outdoors/
-shop: Outdoor
+shop: outdoor
 ---

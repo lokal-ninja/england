@@ -1,5 +1,5 @@
 ---
 title: "Giulio's"
 url: /cambridge/giulios/
-shop: Kleidung
+shop: clothes
 ---

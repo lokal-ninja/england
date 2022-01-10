@@ -1,5 +1,5 @@
 ---
 title: "Porcelanosa"
 url: /reading/porcelanosa/
-shop: Fliesen
+shop: tiles
 ---

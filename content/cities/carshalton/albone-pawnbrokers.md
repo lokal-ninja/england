@@ -1,5 +1,5 @@
 ---
 title: "Albone Pawnbrokers"
 url: /carshalton/albone-pawnbrokers/
-shop: Leiher
+shop: pawnbroker
 ---

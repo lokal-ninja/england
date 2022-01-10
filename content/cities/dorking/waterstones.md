@@ -1,5 +1,5 @@
 ---
 title: "Waterstones"
 url: /dorking/waterstones/
-shop: Bücher
+shop: books
 ---

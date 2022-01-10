@@ -1,5 +1,5 @@
 ---
 title: "Gaindent"
 url: /stockport/gaindent/
-shop: Allgemein
+shop: shop
 ---

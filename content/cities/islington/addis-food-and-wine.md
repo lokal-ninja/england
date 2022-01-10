@@ -1,5 +1,5 @@
 ---
 title: "Addis Food and Wine"
 url: /islington/addis-food-and-wine/
-shop: Supermarkt
+shop: supermarket
 ---

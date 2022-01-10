@@ -1,5 +1,5 @@
 ---
 title: "A.S.Bhopal Newsagents"
 url: /birmingham/a-s-bhopal-newsagents/
-shop: Zeitungen
+shop: newsagent
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /ipswich/poundland/
-shop: Kramladen
+shop: variety store
 ---

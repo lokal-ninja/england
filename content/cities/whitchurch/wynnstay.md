@@ -1,5 +1,5 @@
 ---
 title: "Wynnstay"
 url: /whitchurch/wynnstay/
-shop: Dorfladen
+shop: general
 ---

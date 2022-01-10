@@ -1,5 +1,5 @@
 ---
 title: "Poundstretcher"
 url: /kendal/poundstretcher/
-shop: Kramladen
+shop: variety store
 ---

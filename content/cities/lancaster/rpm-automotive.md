@@ -1,5 +1,5 @@
 ---
 title: "RPM Automotive"
 url: /lancaster/rpm-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

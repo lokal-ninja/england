@@ -1,5 +1,5 @@
 ---
 title: "Miesny"
 url: /derby/miesny/
-shop: Lebensmittel
+shop: convenience
 ---

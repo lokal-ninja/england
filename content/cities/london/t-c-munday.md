@@ -1,5 +1,5 @@
 ---
 title: "T. C. Munday"
 url: /london/t-c-munday/
-shop: Autowerkstatt
+shop: car repair
 ---

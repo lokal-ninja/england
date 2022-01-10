@@ -1,5 +1,5 @@
 ---
 title: "S-L-M Hair"
 url: /orpington/s-l-m-hair/
-shop: Friseur
+shop: hairdresser
 ---

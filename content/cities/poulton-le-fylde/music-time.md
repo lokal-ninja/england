@@ -1,5 +1,5 @@
 ---
 title: "Music Time"
 url: /poulton-le-fylde/music-time/
-shop: Instrumente
+shop: musical instrument
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hasan Food Store"
 url: /peterborough/hasan-food-store/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Knowland Convenience Store"
 url: /norwich/knowland-convenience-store/
-shop: Lebensmittel
+shop: convenience
 ---

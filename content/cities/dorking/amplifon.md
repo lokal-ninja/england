@@ -1,5 +1,5 @@
 ---
 title: "Amplifon"
 url: /dorking/amplifon/
-shop: Hörgeräte
+shop: hearing aids
 ---

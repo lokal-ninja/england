@@ -1,5 +1,5 @@
 ---
 title: "Sezam"
 url: /leeds/sezam/
-shop: Feinkost
+shop: deli
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Holiday Express"
 url: /london/holiday-express/
-shop: Reisebüro
+shop: travel agency
 ---

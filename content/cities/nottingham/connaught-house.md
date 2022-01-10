@@ -1,5 +1,5 @@
 ---
 title: "Connaught House"
 url: /nottingham/connaught-house/
-shop: Andenken
+shop: gift
 ---

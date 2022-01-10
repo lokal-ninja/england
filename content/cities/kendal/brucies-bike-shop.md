@@ -1,5 +1,5 @@
 ---
 title: "Brucies Bike Shop"
 url: /kendal/brucies-bike-shop/
-shop: Fahrrad
+shop: bicycle
 ---

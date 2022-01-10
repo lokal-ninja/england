@@ -1,5 +1,5 @@
 ---
 title: "Wiltons of Shanklin"
 url: /shanklin/wiltons-of-shanklin/
-shop: Autowerkstatt
+shop: car repair
 ---

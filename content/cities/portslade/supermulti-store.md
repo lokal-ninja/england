@@ -1,5 +1,5 @@
 ---
 title: "Supermulti Store"
 url: /portslade/supermulti-store/
-shop: Lebensmittel
+shop: convenience
 ---

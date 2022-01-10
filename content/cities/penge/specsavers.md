@@ -1,5 +1,5 @@
 ---
 title: "Specsavers"
 url: /penge/specsavers/
-shop: Optiker
+shop: optician
 ---

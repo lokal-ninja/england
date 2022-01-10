@@ -1,5 +1,5 @@
 ---
 title: "Sew Quick"
 url: /yeadon/sew-quick/
-shop: Schneiderei
+shop: tailor
 ---

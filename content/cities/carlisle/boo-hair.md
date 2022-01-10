@@ -1,5 +1,5 @@
 ---
 title: "Boo Hair"
 url: /carlisle/boo-hair/
-shop: Friseur
+shop: hairdresser
 ---

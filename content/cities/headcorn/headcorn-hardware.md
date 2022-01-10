@@ -1,5 +1,5 @@
 ---
 title: "Headcorn Hardware"
 url: /headcorn/headcorn-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

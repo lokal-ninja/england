@@ -1,5 +1,5 @@
 ---
 title: "Five Winds Farm"
 url: /woodbridge/five-winds-farm/
-shop: Metzgerei
+shop: butcher
 ---

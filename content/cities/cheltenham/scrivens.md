@@ -1,5 +1,5 @@
 ---
 title: "Scrivens"
 url: /cheltenham/scrivens/
-shop: Optiker
+shop: optician
 ---

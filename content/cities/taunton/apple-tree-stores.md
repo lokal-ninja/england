@@ -1,5 +1,5 @@
 ---
 title: "Apple Tree Stores"
 url: /taunton/apple-tree-stores/
-shop: Lebensmittel
+shop: convenience
 ---

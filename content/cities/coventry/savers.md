@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /coventry/savers/
-shop: Drogerie
+shop: chemist
 ---

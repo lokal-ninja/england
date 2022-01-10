@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /leamington-spa/spar/
-shop: Lebensmittel
+shop: convenience
 ---

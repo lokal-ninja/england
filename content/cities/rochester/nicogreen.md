@@ -1,5 +1,5 @@
 ---
 title: "Nicogreen"
 url: /rochester/nicogreen/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

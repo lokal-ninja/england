@@ -1,5 +1,5 @@
 ---
 title: "Superwash"
 url: /exeter/superwash/
-shop: Wäscherei
+shop: laundry
 ---

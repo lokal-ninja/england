@@ -1,5 +1,5 @@
 ---
 title: "Affinity"
 url: /workington/affinity/
-shop: Allgemein
+shop: shop
 ---

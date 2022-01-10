@@ -1,5 +1,5 @@
 ---
 title: "W.Garner"
 url: /barrow-in-furness/w-garner/
-shop: Eisenwaren
+shop: hardware
 ---

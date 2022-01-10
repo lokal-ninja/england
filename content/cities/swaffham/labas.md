@@ -1,5 +1,5 @@
 ---
 title: "Labas"
 url: /swaffham/labas/
-shop: Lebensmittel
+shop: convenience
 ---

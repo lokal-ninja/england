@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /horncastle/tesco/
-shop: Supermarkt
+shop: supermarket
 ---

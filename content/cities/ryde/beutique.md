@@ -1,5 +1,5 @@
 ---
 title: "Beutique"
 url: /ryde/beutique/
-shop: Kosmetik
+shop: beauty
 ---

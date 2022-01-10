@@ -1,5 +1,5 @@
 ---
 title: "Precinct News"
 url: /bolton/precinct-news/
-shop: Zeitungen
+shop: newsagent
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lidl - Catterick"
 url: /catterick/lidl-catterick/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Auto Spares"
 url: /bridgwater/auto-spares/
-shop: Autoteile
+shop: car parts
 ---

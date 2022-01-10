@@ -1,5 +1,5 @@
 ---
 title: "TESLA"
 url: /milton-keynes/tesla/
-shop: Autowerkstatt
+shop: car repair
 ---

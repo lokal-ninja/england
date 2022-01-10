@@ -1,5 +1,5 @@
 ---
 title: "Lookers - Ford"
 url: /gateshead/lookers-ford/
-shop: Autohaus
+shop: car
 ---

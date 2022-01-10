@@ -1,5 +1,5 @@
 ---
 title: "Island Antiques"
 url: /ryde/island-antiques/
-shop: Antiquitäten
+shop: antiques
 ---

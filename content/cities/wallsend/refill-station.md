@@ -1,5 +1,5 @@
 ---
 title: "Refill Station"
 url: /wallsend/refill-station/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

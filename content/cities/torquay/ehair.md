@@ -1,5 +1,5 @@
 ---
 title: "ehair"
 url: /torquay/ehair/
-shop: Friseur
+shop: hairdresser
 ---

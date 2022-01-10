@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /highbridge/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

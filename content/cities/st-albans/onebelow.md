@@ -1,5 +1,5 @@
 ---
 title: "OneBelow"
 url: /st-albans/onebelow/
-shop: Kramladen
+shop: variety store
 ---

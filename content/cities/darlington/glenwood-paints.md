@@ -1,5 +1,5 @@
 ---
 title: "Glenwood Paints"
 url: /darlington/glenwood-paints/
-shop: Raumausstattung
+shop: interior decoration
 ---

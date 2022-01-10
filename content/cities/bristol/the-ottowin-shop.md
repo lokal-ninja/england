@@ -1,5 +1,5 @@
 ---
 title: "The Ottowin Shop"
 url: /bristol/the-ottowin-shop/
-shop: Kleidung
+shop: clothes
 ---

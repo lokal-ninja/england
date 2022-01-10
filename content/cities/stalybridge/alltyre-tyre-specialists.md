@@ -1,5 +1,5 @@
 ---
 title: "ALLTYRE TYRE SPECIALISTS"
 url: /stalybridge/alltyre-tyre-specialists/
-shop: Reifen
+shop: tyres
 ---

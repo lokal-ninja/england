@@ -1,5 +1,5 @@
 ---
 title: "Speedy"
 url: /consett/speedy/
-shop: Allgemein
+shop: shop
 ---

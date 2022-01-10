@@ -1,5 +1,5 @@
 ---
 title: "Drinks Cabin"
 url: /nottingham/drinks-cabin/
-shop: Leerstehend
+shop: vacant
 ---

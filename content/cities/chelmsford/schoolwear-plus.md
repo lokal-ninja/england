@@ -1,5 +1,5 @@
 ---
 title: "Schoolwear Plus"
 url: /chelmsford/schoolwear-plus/
-shop: Kleidung
+shop: clothes
 ---

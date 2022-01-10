@@ -1,5 +1,5 @@
 ---
 title: "Autoweld"
 url: /morecambe/autoweld/
-shop: Autowerkstatt
+shop: car repair
 ---

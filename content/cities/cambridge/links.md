@@ -1,5 +1,5 @@
 ---
 title: "Links"
 url: /cambridge/links/
-shop: Leerstehend
+shop: vacant
 ---

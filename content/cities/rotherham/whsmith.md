@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /rotherham/whsmith/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "All About Beds"
 url: /taunton/all-about-beds/
-shop: Betten
+shop: bed
 ---

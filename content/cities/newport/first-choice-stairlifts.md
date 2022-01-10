@@ -1,5 +1,5 @@
 ---
 title: "First Choice Stairlifts"
 url: /newport/first-choice-stairlifts/
-shop: Allgemein
+shop: shop
 ---

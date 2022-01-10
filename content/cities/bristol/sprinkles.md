@@ -1,5 +1,5 @@
 ---
 title: "Sprinkles"
 url: /bristol/sprinkles/
-shop: Eisprodukte
+shop: ice cream
 ---

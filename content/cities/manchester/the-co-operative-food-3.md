@@ -1,5 +1,5 @@
 ---
 title: "The Co-operative Food"
 url: /manchester/the-co-operative-food-3/
-shop: Allgemein
+shop: shop
 ---

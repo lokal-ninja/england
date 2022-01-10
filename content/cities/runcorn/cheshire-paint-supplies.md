@@ -1,5 +1,5 @@
 ---
 title: "Cheshire Paint Supplies"
 url: /runcorn/cheshire-paint-supplies/
-shop: Eisenwaren
+shop: hardware
 ---

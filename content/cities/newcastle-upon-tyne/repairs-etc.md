@@ -1,5 +1,5 @@
 ---
 title: "Repairs etc"
 url: /newcastle-upon-tyne/repairs-etc/
-shop: Handy
+shop: mobile phone
 ---

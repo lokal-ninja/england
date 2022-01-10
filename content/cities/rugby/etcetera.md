@@ -1,5 +1,5 @@
 ---
 title: "etcetera"
 url: /rugby/etcetera/
-shop: Andenken
+shop: gift
 ---

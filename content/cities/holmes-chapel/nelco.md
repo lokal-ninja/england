@@ -1,5 +1,5 @@
 ---
 title: "Nelco"
 url: /holmes-chapel/nelco/
-shop: Kosmetik
+shop: beauty
 ---

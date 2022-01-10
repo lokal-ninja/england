@@ -1,5 +1,5 @@
 ---
 title: "Fraser Hart"
 url: /bristol/fraser-hart/
-shop: Schmuck
+shop: jewelry
 ---

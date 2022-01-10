@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /ormskirk/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

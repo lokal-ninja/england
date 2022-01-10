@@ -1,5 +1,5 @@
 ---
 title: "Micycle"
 url: /london/micycle/
-shop: Fahrrad
+shop: bicycle
 ---

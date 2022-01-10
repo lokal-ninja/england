@@ -1,5 +1,5 @@
 ---
 title: "Dorothy Perkins"
 url: /northwich/dorothy-perkins/
-shop: Kleidung
+shop: clothes
 ---

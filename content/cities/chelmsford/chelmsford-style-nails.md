@@ -1,5 +1,5 @@
 ---
 title: "Chelmsford Style Nails"
 url: /chelmsford/chelmsford-style-nails/
-shop: Kosmetik
+shop: beauty
 ---

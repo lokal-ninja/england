@@ -1,5 +1,5 @@
 ---
 title: "Kendrews"
 url: /godalming/kendrews/
-shop: Lebensmittel
+shop: convenience
 ---

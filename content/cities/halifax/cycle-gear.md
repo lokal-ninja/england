@@ -1,5 +1,5 @@
 ---
 title: "Cycle Gear"
 url: /halifax/cycle-gear/
-shop: Fahrrad
+shop: bicycle
 ---

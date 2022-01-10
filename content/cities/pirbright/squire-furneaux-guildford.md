@@ -1,5 +1,5 @@
 ---
 title: "Squire Furneaux Guildford"
 url: /pirbright/squire-furneaux-guildford/
-shop: Autohaus
+shop: car
 ---

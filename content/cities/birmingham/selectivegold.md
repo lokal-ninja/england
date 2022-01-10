@@ -1,5 +1,5 @@
 ---
 title: "Selectivegold"
 url: /birmingham/selectivegold/
-shop: Schmuck
+shop: jewelry
 ---

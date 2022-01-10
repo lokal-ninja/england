@@ -1,5 +1,5 @@
 ---
 title: "Farnham Marble"
 url: /farnham/farnham-marble/
-shop: Allgemein
+shop: shop
 ---

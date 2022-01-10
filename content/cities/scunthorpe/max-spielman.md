@@ -1,5 +1,5 @@
 ---
 title: "Max Spielman"
 url: /scunthorpe/max-spielman/
-shop: Foto
+shop: photo
 ---

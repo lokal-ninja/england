@@ -1,5 +1,5 @@
 ---
 title: "Level One"
 url: /northwich/level-one/
-shop: Videospiele
+shop: video games
 ---

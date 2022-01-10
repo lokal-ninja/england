@@ -1,5 +1,5 @@
 ---
 title: "Anny's Mini Market"
 url: /croydon/annys-mini-market/
-shop: Gemüse & Obst
+shop: greengrocer
 ---

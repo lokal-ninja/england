@@ -1,5 +1,5 @@
 ---
 title: "Oak Furnitureland"
 url: /reading/oak-furnitureland/
-shop: Möbel
+shop: furniture
 ---

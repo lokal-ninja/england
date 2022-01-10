@@ -1,5 +1,5 @@
 ---
 title: "Bread Port"
 url: /new-milton/bread-port/
-shop: Bäckerei
+shop: bakery
 ---

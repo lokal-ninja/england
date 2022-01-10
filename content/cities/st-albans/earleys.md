@@ -1,5 +1,5 @@
 ---
 title: "Earley's"
 url: /st-albans/earleys/
-shop: Kleidung
+shop: clothes
 ---

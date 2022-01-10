@@ -1,5 +1,5 @@
 ---
 title: "The Computer Assistant"
 url: /leeds/the-computer-assistant/
-shop: Computer
+shop: computer
 ---

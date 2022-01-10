@@ -1,5 +1,5 @@
 ---
 title: "Dreams"
 url: /birstall/dreams/
-shop: Betten
+shop: bed
 ---

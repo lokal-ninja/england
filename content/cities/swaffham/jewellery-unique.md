@@ -1,5 +1,5 @@
 ---
 title: "Jewellery Unique"
 url: /swaffham/jewellery-unique/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Co-Operative Food"
 url: /telford/the-co-operative-food/
-shop: Supermarkt
+shop: supermarket
 ---

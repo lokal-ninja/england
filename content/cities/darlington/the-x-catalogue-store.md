@@ -1,5 +1,5 @@
 ---
 title: "The X Catalogue Store"
 url: /darlington/the-x-catalogue-store/
-shop: Kramladen
+shop: variety store
 ---

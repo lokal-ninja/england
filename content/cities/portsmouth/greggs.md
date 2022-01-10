@@ -1,5 +1,5 @@
 ---
 title: "Greggs"
 url: /portsmouth/greggs/
-shop: Bäckerei
+shop: bakery
 ---

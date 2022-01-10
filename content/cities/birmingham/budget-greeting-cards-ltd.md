@@ -1,5 +1,5 @@
 ---
 title: "Budget Greeting Cards Ltd"
 url: /birmingham/budget-greeting-cards-ltd/
-shop: Kramladen
+shop: variety store
 ---

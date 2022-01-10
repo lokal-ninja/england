@@ -1,5 +1,5 @@
 ---
 title: "Superior Nails"
 url: /banbury/superior-nails/
-shop: Kosmetik
+shop: beauty
 ---

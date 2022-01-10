@@ -1,5 +1,5 @@
 ---
 title: "The Fabric Shop"
 url: /burgess-hill/the-fabric-shop/
-shop: Textil
+shop: fabric
 ---

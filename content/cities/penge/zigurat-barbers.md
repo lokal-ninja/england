@@ -1,5 +1,5 @@
 ---
 title: "Zigurat Barbers"
 url: /penge/zigurat-barbers/
-shop: Friseur
+shop: hairdresser
 ---

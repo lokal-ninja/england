@@ -1,5 +1,5 @@
 ---
 title: "Crowthers"
 url: /canterbury/crowthers/
-shop: Instrumente
+shop: musical instrument
 ---

@@ -1,5 +1,5 @@
 ---
 title: "99P Stores"
 url: /penge/99p-stores/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Toolstation"
 url: /london/toolstation/
-shop: Eisenwaren
+shop: hardware
 ---

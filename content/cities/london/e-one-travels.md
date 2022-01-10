@@ -1,5 +1,5 @@
 ---
 title: "E-One Travels"
 url: /london/e-one-travels/
-shop: Reisebüro
+shop: travel agency
 ---

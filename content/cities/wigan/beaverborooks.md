@@ -1,5 +1,5 @@
 ---
 title: "Beaverborooks"
 url: /wigan/beaverborooks/
-shop: Schmuck
+shop: jewelry
 ---

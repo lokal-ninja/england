@@ -1,5 +1,5 @@
 ---
 title: "Tattoos by Fabio"
 url: /cambridge/tattoos-by-fabio/
-shop: Tattoo
+shop: tattoo
 ---

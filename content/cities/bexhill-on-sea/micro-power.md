@@ -1,5 +1,5 @@
 ---
 title: "Micro Power"
 url: /bexhill-on-sea/micro-power/
-shop: Elektronik
+shop: electronics
 ---

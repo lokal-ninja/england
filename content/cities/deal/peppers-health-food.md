@@ -1,5 +1,5 @@
 ---
 title: "Peppers Health Food"
 url: /deal/peppers-health-food/
-shop: Bioladen
+shop: health food
 ---

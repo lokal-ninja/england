@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /emsworth/premier/
-shop: Lebensmittel
+shop: convenience
 ---

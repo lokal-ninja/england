@@ -1,5 +1,5 @@
 ---
 title: "Dazzle"
 url: /london/dazzle/
-shop: Kleidung
+shop: clothes
 ---

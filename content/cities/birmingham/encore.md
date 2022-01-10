@@ -1,5 +1,5 @@
 ---
 title: "Encore"
 url: /birmingham/encore/
-shop: Kleidung
+shop: clothes
 ---

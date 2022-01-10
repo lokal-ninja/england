@@ -1,5 +1,5 @@
 ---
 title: "Rutherfords"
 url: /morpeth/rutherfords/
-shop: Warenhaus
+shop: department store
 ---

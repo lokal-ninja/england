@@ -1,5 +1,5 @@
 ---
 title: "Hair Perfection"
 url: /louth/hair-perfection/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /taunton/poundland/
-shop: Kramladen
+shop: variety store
 ---

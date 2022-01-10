@@ -1,5 +1,5 @@
 ---
 title: "Lazeez"
 url: /bradford/lazeez/
-shop: Lebensmittel
+shop: convenience
 ---

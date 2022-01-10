@@ -1,5 +1,5 @@
 ---
 title: "HomeSense"
 url: /watford/homesense/
-shop: Raumausstattung
+shop: interior decoration
 ---

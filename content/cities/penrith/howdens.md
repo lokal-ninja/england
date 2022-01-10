@@ -1,5 +1,5 @@
 ---
 title: "Howdens"
 url: /penrith/howdens/
-shop: Baumarkt
+shop: doityourself
 ---

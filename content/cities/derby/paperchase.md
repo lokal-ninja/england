@@ -1,5 +1,5 @@
 ---
 title: "Paperchase"
 url: /derby/paperchase/
-shop: Schreibwaren
+shop: office supplies
 ---

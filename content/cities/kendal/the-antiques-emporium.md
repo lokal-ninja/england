@@ -1,5 +1,5 @@
 ---
 title: "The Antiques Emporium"
 url: /kendal/the-antiques-emporium/
-shop: Antiquitäten
+shop: antiques
 ---

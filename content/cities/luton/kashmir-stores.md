@@ -1,5 +1,5 @@
 ---
 title: "Kashmir Stores"
 url: /luton/kashmir-stores/
-shop: Lebensmittel
+shop: convenience
 ---

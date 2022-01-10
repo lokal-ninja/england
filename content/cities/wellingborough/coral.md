@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /wellingborough/coral/
-shop: Wettbüro
+shop: bookmaker
 ---

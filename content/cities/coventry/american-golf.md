@@ -1,5 +1,5 @@
 ---
 title: "American Golf"
 url: /coventry/american-golf/
-shop: Sport
+shop: sports
 ---

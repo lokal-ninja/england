@@ -1,5 +1,5 @@
 ---
 title: "Buywise Domestics Ltd"
 url: /banbury/buywise-domestics-ltd/
-shop: Haushaltsgeräte
+shop: appliance
 ---

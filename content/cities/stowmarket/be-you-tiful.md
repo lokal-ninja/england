@@ -1,5 +1,5 @@
 ---
 title: "Be.You.Tiful"
 url: /stowmarket/be-you-tiful/
-shop: Kosmetik
+shop: beauty
 ---

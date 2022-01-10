@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /feltham/asda/
-shop: Supermarkt
+shop: supermarket
 ---

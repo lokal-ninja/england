@@ -1,5 +1,5 @@
 ---
 title: "Mr Bransons"
 url: /letchworth-garden-city/mr-bransons/
-shop: Kleidung
+shop: clothes
 ---

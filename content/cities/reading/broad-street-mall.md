@@ -1,5 +1,5 @@
 ---
 title: "Broad Street Mall"
 url: /reading/broad-street-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

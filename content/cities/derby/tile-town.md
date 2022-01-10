@@ -1,5 +1,5 @@
 ---
 title: "Tile Town"
 url: /derby/tile-town/
-shop: Fliesen
+shop: tiles
 ---

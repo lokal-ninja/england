@@ -1,5 +1,5 @@
 ---
 title: "Mobile Solutions"
 url: /norwich/mobile-solutions/
-shop: Handy
+shop: mobile phone
 ---

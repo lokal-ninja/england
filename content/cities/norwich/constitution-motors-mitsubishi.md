@@ -1,5 +1,5 @@
 ---
 title: "Constitution Motors Mitsubishi"
 url: /norwich/constitution-motors-mitsubishi/
-shop: Autohaus
+shop: car
 ---

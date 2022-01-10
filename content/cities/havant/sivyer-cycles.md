@@ -1,5 +1,5 @@
 ---
 title: "Sivyer Cycles"
 url: /havant/sivyer-cycles/
-shop: Fahrrad
+shop: bicycle
 ---

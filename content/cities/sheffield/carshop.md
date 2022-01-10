@@ -1,5 +1,5 @@
 ---
 title: "CarShop"
 url: /sheffield/carshop/
-shop: Autohaus
+shop: car
 ---

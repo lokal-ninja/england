@@ -1,5 +1,5 @@
 ---
 title: "Joli"
 url: /cowes/joli/
-shop: Andenken
+shop: gift
 ---

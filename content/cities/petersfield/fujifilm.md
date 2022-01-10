@@ -1,5 +1,5 @@
 ---
 title: "Fujifilm"
 url: /petersfield/fujifilm/
-shop: Foto
+shop: photo
 ---

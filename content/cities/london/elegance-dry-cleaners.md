@@ -1,5 +1,5 @@
 ---
 title: "Elegance Dry Cleaners"
 url: /london/elegance-dry-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

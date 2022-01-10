@@ -1,5 +1,5 @@
 ---
 title: "Best-one"
 url: /worthing/best-one/
-shop: Lebensmittel
+shop: convenience
 ---

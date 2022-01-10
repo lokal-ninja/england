@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /kings-lynn/poundland-2/
-shop: Kramladen
+shop: variety store
 ---

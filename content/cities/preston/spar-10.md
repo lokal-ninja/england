@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /preston/spar-10/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Paperchase"
 url: /fareham/paperchase/
-shop: Schreibwaren
+shop: office supplies
 ---

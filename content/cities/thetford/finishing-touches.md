@@ -1,5 +1,5 @@
 ---
 title: "Finishing Touches"
 url: /thetford/finishing-touches/
-shop: Kosmetik
+shop: beauty
 ---

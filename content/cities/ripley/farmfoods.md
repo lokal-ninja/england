@@ -1,5 +1,5 @@
 ---
 title: "Farmfoods"
 url: /ripley/farmfoods/
-shop: Tiefkühl
+shop: frozen food
 ---

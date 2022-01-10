@@ -1,5 +1,5 @@
 ---
 title: "Diamante Heaven"
 url: /north-shields/diamante-heaven/
-shop: Allgemein
+shop: shop
 ---

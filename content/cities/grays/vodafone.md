@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
 url: /grays/vodafone/
-shop: Handy
+shop: mobile phone
 ---

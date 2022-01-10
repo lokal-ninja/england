@@ -1,5 +1,5 @@
 ---
 title: "Kirsty's"
 url: /heysham/kirstys/
-shop: Tiersalon
+shop: pet grooming
 ---

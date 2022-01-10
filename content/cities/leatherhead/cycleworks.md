@@ -1,5 +1,5 @@
 ---
 title: "Cycleworks"
 url: /leatherhead/cycleworks/
-shop: Fahrrad
+shop: bicycle
 ---

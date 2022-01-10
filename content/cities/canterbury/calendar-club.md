@@ -1,5 +1,5 @@
 ---
 title: "Calendar Club"
 url: /canterbury/calendar-club/
-shop: Andenken
+shop: gift
 ---

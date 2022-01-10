@@ -1,5 +1,5 @@
 ---
 title: "P J Gregg"
 url: /rugby/p-j-gregg/
-shop: Optiker
+shop: optician
 ---

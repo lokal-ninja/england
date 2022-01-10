@@ -1,5 +1,5 @@
 ---
 title: "Mothercare"
 url: /harlow/mothercare/
-shop: Babysachen
+shop: baby goods
 ---

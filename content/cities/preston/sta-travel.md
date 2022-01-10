@@ -1,5 +1,5 @@
 ---
 title: "STA Travel"
 url: /preston/sta-travel/
-shop: Reisebüro
+shop: travel agency
 ---

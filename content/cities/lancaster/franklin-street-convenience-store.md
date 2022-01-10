@@ -1,5 +1,5 @@
 ---
 title: "Franklin Street Convenience Store"
 url: /lancaster/franklin-street-convenience-store/
-shop: Lebensmittel
+shop: convenience
 ---

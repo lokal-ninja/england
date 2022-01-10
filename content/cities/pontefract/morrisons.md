@@ -1,5 +1,5 @@
 ---
 title: "Morrisons"
 url: /pontefract/morrisons/
-shop: Garten-Center
+shop: garden centre
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Beau Beautiful"
 url: /romsey/beau-beautiful/
-shop: Kosmetik
+shop: beauty
 ---

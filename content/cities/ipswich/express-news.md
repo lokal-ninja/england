@@ -1,5 +1,5 @@
 ---
 title: "Express News"
 url: /ipswich/express-news/
-shop: Zeitungen
+shop: newsagent
 ---

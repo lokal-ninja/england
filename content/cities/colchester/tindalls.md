@@ -1,5 +1,5 @@
 ---
 title: "Tindalls"
 url: /colchester/tindalls/
-shop: Basteln
+shop: craft
 ---

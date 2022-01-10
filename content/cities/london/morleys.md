@@ -1,5 +1,5 @@
 ---
 title: "Morleys"
 url: /london/morleys/
-shop: Warenhaus
+shop: department store
 ---

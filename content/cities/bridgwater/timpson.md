@@ -1,5 +1,5 @@
 ---
 title: "Timpson"
 url: /bridgwater/timpson/
-shop: Schlüsseldienst
+shop: locksmith
 ---

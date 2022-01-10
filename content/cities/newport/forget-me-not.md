@@ -1,5 +1,5 @@
 ---
 title: "Forget Me Not"
 url: /newport/forget-me-not/
-shop: Andenken
+shop: gift
 ---

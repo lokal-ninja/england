@@ -1,5 +1,5 @@
 ---
 title: "Madison"
 url: /kenilworth/madison/
-shop: Raumausstattung
+shop: interior decoration
 ---

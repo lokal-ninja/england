@@ -1,5 +1,5 @@
 ---
 title: "Herman Vapes"
 url: /leeds/herman-vapes/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

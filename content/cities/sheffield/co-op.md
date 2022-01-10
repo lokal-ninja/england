@@ -1,5 +1,5 @@
 ---
 title: "Co-Op"
 url: /sheffield/co-op/
-shop: Lebensmittel
+shop: convenience
 ---

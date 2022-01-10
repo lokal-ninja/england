@@ -1,5 +1,5 @@
 ---
 title: "Goodfellows"
 url: /london/goodfellows/
-shop: Immobilien
+shop: estate agent
 ---

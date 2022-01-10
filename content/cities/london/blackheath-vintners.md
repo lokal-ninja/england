@@ -1,5 +1,5 @@
 ---
 title: "Blackheath Vintners"
 url: /london/blackheath-vintners/
-shop: Wein
+shop: wine
 ---

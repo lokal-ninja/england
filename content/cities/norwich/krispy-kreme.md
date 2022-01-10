@@ -1,5 +1,5 @@
 ---
 title: "Krispy Kreme"
 url: /norwich/krispy-kreme/
-shop: Süßwaren
+shop: confectionery
 ---

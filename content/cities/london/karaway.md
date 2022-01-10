@@ -1,5 +1,5 @@
 ---
 title: "Karaway"
 url: /london/karaway/
-shop: Bäckerei
+shop: bakery
 ---

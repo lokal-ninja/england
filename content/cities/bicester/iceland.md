@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /bicester/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

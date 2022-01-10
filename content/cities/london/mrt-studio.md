@@ -1,5 +1,5 @@
 ---
 title: "MRT Studio"
 url: /london/mrt-studio/
-shop: Allgemein
+shop: shop
 ---

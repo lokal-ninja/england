@@ -1,5 +1,5 @@
 ---
 title: "Alder King"
 url: /chippenham/alder-king/
-shop: Immobilien
+shop: estate agent
 ---

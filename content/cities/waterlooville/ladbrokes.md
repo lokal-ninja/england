@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /waterlooville/ladbrokes/
-shop: Wettbüro
+shop: bookmaker
 ---

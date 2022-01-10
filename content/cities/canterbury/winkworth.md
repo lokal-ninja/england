@@ -1,5 +1,5 @@
 ---
 title: "Winkworth"
 url: /canterbury/winkworth/
-shop: Immobilien
+shop: estate agent
 ---

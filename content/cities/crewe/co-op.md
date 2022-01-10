@@ -1,5 +1,5 @@
 ---
 title: "Co-op"
 url: /crewe/co-op/
-shop: Lebensmittel
+shop: convenience
 ---

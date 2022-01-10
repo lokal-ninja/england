@@ -1,5 +1,5 @@
 ---
 title: "The Barbers"
 url: /dereham/the-barbers/
-shop: Friseur
+shop: hairdresser
 ---

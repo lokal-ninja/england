@@ -1,5 +1,5 @@
 ---
 title: "Kontant"
 url: /london/kontant/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gibsons Games"
 url: /sutton/gibsons-games/
-shop: Spielzeug
+shop: toys
 ---

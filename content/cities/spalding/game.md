@@ -1,5 +1,5 @@
 ---
 title: "Game"
 url: /spalding/game/
-shop: Videospiele
+shop: video games
 ---

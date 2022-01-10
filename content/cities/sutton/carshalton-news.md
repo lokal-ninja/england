@@ -1,5 +1,5 @@
 ---
 title: "Carshalton News"
 url: /sutton/carshalton-news/
-shop: Lebensmittel
+shop: convenience
 ---

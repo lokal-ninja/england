@@ -1,5 +1,5 @@
 ---
 title: "The Chocolate Box"
 url: /bedford/the-chocolate-box/
-shop: Lebensmittel
+shop: convenience
 ---

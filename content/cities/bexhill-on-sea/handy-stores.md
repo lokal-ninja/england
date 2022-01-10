@@ -1,5 +1,5 @@
 ---
 title: "Handy Stores"
 url: /bexhill-on-sea/handy-stores/
-shop: Kramladen
+shop: variety store
 ---

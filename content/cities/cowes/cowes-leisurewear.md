@@ -1,5 +1,5 @@
 ---
 title: "Cowes Leisurewear"
 url: /cowes/cowes-leisurewear/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Passion Flowers"
 url: /derby/passion-flowers/
-shop: Blumen
+shop: florist
 ---

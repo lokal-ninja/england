@@ -1,5 +1,5 @@
 ---
 title: "Allsorts"
 url: /wallington/allsorts/
-shop: Antiquitäten
+shop: antiques
 ---

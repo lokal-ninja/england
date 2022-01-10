@@ -1,5 +1,5 @@
 ---
 title: "Bumps and Babies Boutique"
 url: /westhoughton/bumps-and-babies-boutique/
-shop: Allgemein
+shop: shop
 ---

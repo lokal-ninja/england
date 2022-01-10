@@ -1,5 +1,5 @@
 ---
 title: "Leeds Polish Parish Shop"
 url: /leeds/leeds-polish-parish-shop/
-shop: Metzgerei
+shop: butcher
 ---

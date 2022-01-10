@@ -1,5 +1,5 @@
 ---
 title: "Beechwood Fine Foods"
 url: /tring/beechwood-fine-foods/
-shop: Feinkost
+shop: deli
 ---

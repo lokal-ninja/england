@@ -1,5 +1,5 @@
 ---
 title: "Best-one"
 url: /padiham/best-one/
-shop: Lebensmittel
+shop: convenience
 ---

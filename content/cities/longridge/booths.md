@@ -1,5 +1,5 @@
 ---
 title: "Booths"
 url: /longridge/booths/
-shop: Supermarkt
+shop: supermarket
 ---

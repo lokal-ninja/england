@@ -1,5 +1,5 @@
 ---
 title: "CeX"
 url: /southampton/cex/
-shop: Elektronik
+shop: electronics
 ---

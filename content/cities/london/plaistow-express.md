@@ -1,5 +1,5 @@
 ---
 title: "Plaistow Express"
 url: /london/plaistow-express/
-shop: Lebensmittel
+shop: convenience
 ---

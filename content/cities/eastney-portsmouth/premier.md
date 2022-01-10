@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /eastney-portsmouth/premier/
-shop: Lebensmittel
+shop: convenience
 ---

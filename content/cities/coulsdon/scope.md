@@ -1,5 +1,5 @@
 ---
 title: "Scope"
 url: /coulsdon/scope/
-shop: Gebrauchtwaren
+shop: charity
 ---

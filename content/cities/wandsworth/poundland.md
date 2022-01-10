@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /wandsworth/poundland/
-shop: Kramladen
+shop: variety store
 ---

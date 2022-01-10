@@ -1,5 +1,5 @@
 ---
 title: "Armin Supermarket"
 url: /london/armin-supermarket/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Taylors Convenience Store"
 url: /blackpool/taylors-convenience-store/
-shop: Lebensmittel
+shop: convenience
 ---

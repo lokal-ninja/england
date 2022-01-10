@@ -1,5 +1,5 @@
 ---
 title: "Family Choice"
 url: /luton/family-choice-3/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Yogi News"
 url: /london/yogi-news/
-shop: Lebensmittel
+shop: convenience
 ---

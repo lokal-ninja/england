@@ -1,5 +1,5 @@
 ---
 title: "Homecare"
 url: /ludlow/homecare/
-shop: Baumarkt
+shop: doityourself
 ---

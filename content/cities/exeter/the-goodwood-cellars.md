@@ -1,5 +1,5 @@
 ---
 title: "The Goodwood Cellars"
 url: /exeter/the-goodwood-cellars/
-shop: Möbel
+shop: furniture
 ---

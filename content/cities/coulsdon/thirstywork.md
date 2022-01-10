@@ -1,5 +1,5 @@
 ---
 title: "thirstywork"
 url: /coulsdon/thirstywork/
-shop: Spirituosen
+shop: alcohol
 ---

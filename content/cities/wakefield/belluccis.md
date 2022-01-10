@@ -1,5 +1,5 @@
 ---
 title: "Belluccis"
 url: /wakefield/belluccis/
-shop: Leerstehend
+shop: vacant
 ---

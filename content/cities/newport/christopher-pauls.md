@@ -1,5 +1,5 @@
 ---
 title: "Christopher Pauls"
 url: /newport/christopher-pauls/
-shop: Friseur
+shop: hairdresser
 ---

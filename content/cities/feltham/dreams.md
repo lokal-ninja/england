@@ -1,5 +1,5 @@
 ---
 title: "Dreams"
 url: /feltham/dreams/
-shop: Betten
+shop: bed
 ---

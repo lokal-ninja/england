@@ -1,5 +1,5 @@
 ---
 title: "Robin Adams Fruit And Veg"
 url: /wellingborough/robin-adams-fruit-and-veg/
-shop: Gemüse & Obst
+shop: greengrocer
 ---

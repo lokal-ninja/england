@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /coulsdon/londis-2/
-shop: Lebensmittel
+shop: convenience
 ---

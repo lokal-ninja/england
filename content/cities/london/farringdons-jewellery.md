@@ -1,5 +1,5 @@
 ---
 title: "Farringdons Jewellery"
 url: /london/farringdons-jewellery/
-shop: Schmuck
+shop: jewelry
 ---

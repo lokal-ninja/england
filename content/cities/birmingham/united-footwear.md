@@ -1,5 +1,5 @@
 ---
 title: "United Footwear"
 url: /birmingham/united-footwear/
-shop: Schuhe
+shop: shoes
 ---

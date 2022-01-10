@@ -1,5 +1,5 @@
 ---
 title: "HomeSense"
 url: /sheffield/homesense/
-shop: Raumausstattung
+shop: interior decoration
 ---

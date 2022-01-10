@@ -1,5 +1,5 @@
 ---
 title: "Island Tanning"
 url: /newport/island-tanning/
-shop: Kosmetik
+shop: beauty
 ---

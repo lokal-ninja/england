@@ -1,5 +1,5 @@
 ---
 title: "Pop Boutique"
 url: /leeds/pop-boutique-2/
-shop: Kleidung
+shop: clothes
 ---

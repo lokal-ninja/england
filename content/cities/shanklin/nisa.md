@@ -1,5 +1,5 @@
 ---
 title: "Nisa"
 url: /shanklin/nisa/
-shop: Lebensmittel
+shop: convenience
 ---

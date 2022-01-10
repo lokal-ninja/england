@@ -1,5 +1,5 @@
 ---
 title: "The Wine Market"
 url: /london/the-wine-market/
-shop: Spirituosen
+shop: alcohol
 ---

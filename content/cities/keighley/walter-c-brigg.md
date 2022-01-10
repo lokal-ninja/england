@@ -1,5 +1,5 @@
 ---
 title: "Walter C Brigg"
 url: /keighley/walter-c-brigg/
-shop: Autohaus
+shop: car
 ---

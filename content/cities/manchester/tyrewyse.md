@@ -1,5 +1,5 @@
 ---
 title: "Tyrewyse"
 url: /manchester/tyrewyse/
-shop: Reifen
+shop: tyres
 ---

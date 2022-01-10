@@ -1,5 +1,5 @@
 ---
 title: "Ashton News"
 url: /bristol/ashton-news/
-shop: Lebensmittel
+shop: convenience
 ---

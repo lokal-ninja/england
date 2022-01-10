@@ -1,5 +1,5 @@
 ---
 title: "Chic Lounge"
 url: /cambridge/chic-lounge/
-shop: Kosmetik
+shop: beauty
 ---

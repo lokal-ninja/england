@@ -1,5 +1,5 @@
 ---
 title: "Ramsay Pharmacy"
 url: /st-just/ramsay-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Halfords"
 url: /lowestoft/halfords/
-shop: Autoteile
+shop: car parts
 ---

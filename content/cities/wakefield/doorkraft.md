@@ -1,5 +1,5 @@
 ---
 title: "Doorkraft"
 url: /wakefield/doorkraft/
-shop: Raumausstattung
+shop: interior decoration
 ---

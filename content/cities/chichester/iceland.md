@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /chichester/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Farm Shop"
 url: /chelmsford/the-farm-shop/
-shop: Bioladen
+shop: health food
 ---

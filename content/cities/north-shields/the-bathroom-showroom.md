@@ -1,5 +1,5 @@
 ---
 title: "The Bathroom Showroom"
 url: /north-shields/the-bathroom-showroom/
-shop: Badezimmer
+shop: bathroom
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tailor Made"
 url: /bristol/tailor-made/
-shop: Haushaltsartikel
+shop: houseware
 ---

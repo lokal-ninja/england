@@ -1,5 +1,5 @@
 ---
 title: "Doves Funeral Directors"
 url: /orpington/doves-funeral-directors/
-shop: Bestattungen
+shop: funeral directors
 ---

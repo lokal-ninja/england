@@ -1,5 +1,5 @@
 ---
 title: "Marchway"
 url: /sheffield/marchway/
-shop: Spielzeug
+shop: toys
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pramukh Convenience Store"
 url: /london/pramukh-convenience-store/
-shop: Lebensmittel
+shop: convenience
 ---

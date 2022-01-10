@@ -1,5 +1,5 @@
 ---
 title: "Roundabout"
 url: /ludlow/roundabout/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Screwfix"
 url: /gravesend/screwfix/
-shop: Baumarkt
+shop: doityourself
 ---

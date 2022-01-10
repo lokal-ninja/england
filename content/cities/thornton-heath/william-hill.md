@@ -1,5 +1,5 @@
 ---
 title: "William Hill"
 url: /thornton-heath/william-hill/
-shop: Wettbüro
+shop: bookmaker
 ---

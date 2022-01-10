@@ -1,5 +1,5 @@
 ---
 title: "Reflections"
 url: /thornbury/reflections/
-shop: Friseur
+shop: hairdresser
 ---

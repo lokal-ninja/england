@@ -1,5 +1,5 @@
 ---
 title: "Amigos"
 url: /leeds/amigos/
-shop: Lebensmittel
+shop: convenience
 ---

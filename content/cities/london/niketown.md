@@ -1,5 +1,5 @@
 ---
 title: "Niketown"
 url: /london/niketown/
-shop: Sport
+shop: sports
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Castaways"
 url: /deal/castaways/
-shop: Kleidung
+shop: clothes
 ---

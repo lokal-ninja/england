@@ -1,5 +1,5 @@
 ---
 title: "Tanning World"
 url: /cambridge/tanning-world/
-shop: Gerberei
+shop: tanning
 ---

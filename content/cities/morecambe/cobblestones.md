@@ -1,5 +1,5 @@
 ---
 title: "Cobblestones"
 url: /morecambe/cobblestones/
-shop: Tattoo
+shop: tattoo
 ---

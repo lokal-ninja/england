@@ -1,5 +1,5 @@
 ---
 title: "Pure Gold"
 url: /birmingham/pure-gold/
-shop: Schmuck
+shop: jewelry
 ---

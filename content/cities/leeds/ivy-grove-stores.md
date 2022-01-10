@@ -1,5 +1,5 @@
 ---
 title: "Ivy Grove Stores"
 url: /leeds/ivy-grove-stores/
-shop: Lebensmittel
+shop: convenience
 ---

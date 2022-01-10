@@ -1,5 +1,5 @@
 ---
 title: "Ruffles Dog Bakery"
 url: /derby/ruffles-dog-bakery/
-shop: Tiere
+shop: pet
 ---

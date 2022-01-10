@@ -1,5 +1,5 @@
 ---
 title: "Bakewell Bookshop"
 url: /bakewell/bakewell-bookshop/
-shop: Bücher
+shop: books
 ---

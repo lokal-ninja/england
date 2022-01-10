@@ -1,5 +1,5 @@
 ---
 title: "Shoe Zone"
 url: /felixstowe/shoe-zone/
-shop: Schuhe
+shop: shoes
 ---

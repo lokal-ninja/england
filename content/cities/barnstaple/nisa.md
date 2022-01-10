@@ -1,5 +1,5 @@
 ---
 title: "Nisa"
 url: /barnstaple/nisa/
-shop: Lebensmittel
+shop: convenience
 ---

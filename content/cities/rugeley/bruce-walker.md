@@ -1,5 +1,5 @@
 ---
 title: "Bruce Walker"
 url: /rugeley/bruce-walker/
-shop: Bestattungen
+shop: funeral directors
 ---

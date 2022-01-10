@@ -1,5 +1,5 @@
 ---
 title: "William Hill"
 url: /chester-le-street/william-hill/
-shop: Wettbüro
+shop: bookmaker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Esquire"
 url: /great-yarmouth/esquire/
-shop: Kleidung
+shop: clothes
 ---

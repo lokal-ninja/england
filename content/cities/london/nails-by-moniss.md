@@ -1,5 +1,5 @@
 ---
 title: "Nails By Moniss"
 url: /london/nails-by-moniss/
-shop: Kosmetik
+shop: beauty
 ---

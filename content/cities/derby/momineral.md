@@ -1,5 +1,5 @@
 ---
 title: "MoMineral"
 url: /derby/momineral/
-shop: Kosmetik
+shop: beauty
 ---

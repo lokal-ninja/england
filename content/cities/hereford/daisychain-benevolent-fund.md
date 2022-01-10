@@ -1,5 +1,5 @@
 ---
 title: "Daisychain Benevolent Fund"
 url: /hereford/daisychain-benevolent-fund/
-shop: Gebrauchtwaren
+shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "G C Footwear"
 url: /southport/g-c-footwear/
-shop: Schuhe
+shop: shoes
 ---

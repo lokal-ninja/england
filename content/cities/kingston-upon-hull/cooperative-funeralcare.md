@@ -1,5 +1,5 @@
 ---
 title: "Cooperative Funeralcare"
 url: /kingston-upon-hull/cooperative-funeralcare/
-shop: Bestattungen
+shop: funeral directors
 ---

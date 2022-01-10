@@ -1,5 +1,5 @@
 ---
 title: "Bikeshop"
 url: /nottingham/bikeshop/
-shop: Motorrad
+shop: motorcycle
 ---

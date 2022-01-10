@@ -1,5 +1,5 @@
 ---
 title: "Spennymoor Sports"
 url: /spennymoor/spennymoor-sports/
-shop: Sport
+shop: sports
 ---

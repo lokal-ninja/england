@@ -1,5 +1,5 @@
 ---
 title: "Danny Mart"
 url: /portsmouth/danny-mart-2/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "RSPCA"
 url: /chorley/rspca/
-shop: Gebrauchtwaren
+shop: charity
 ---

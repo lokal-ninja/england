@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
 url: /canterbury/vodafone/
-shop: Handy
+shop: mobile phone
 ---

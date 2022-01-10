@@ -1,5 +1,5 @@
 ---
 title: "Toton Convenience Store"
 url: /nottingham/toton-convenience-store/
-shop: Lebensmittel
+shop: convenience
 ---

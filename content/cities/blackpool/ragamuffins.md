@@ -1,5 +1,5 @@
 ---
 title: "Ragamuffins"
 url: /blackpool/ragamuffins/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Glitz and Gadgets"
 url: /margate/glitz-and-gadgets/
-shop: Piercing
+shop: piercing
 ---

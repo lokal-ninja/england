@@ -1,5 +1,5 @@
 ---
 title: "Dartford Service Station"
 url: /dartford/dartford-service-station/
-shop: Lebensmittel
+shop: convenience
 ---

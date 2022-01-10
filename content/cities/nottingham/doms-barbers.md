@@ -1,5 +1,5 @@
 ---
 title: "Dom's Barbers"
 url: /nottingham/doms-barbers/
-shop: Friseur
+shop: hairdresser
 ---

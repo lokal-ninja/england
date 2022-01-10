@@ -1,5 +1,5 @@
 ---
 title: "Blinkthorns AV"
 url: /banbury/blinkthorns-av/
-shop: Elektronik
+shop: electronics
 ---

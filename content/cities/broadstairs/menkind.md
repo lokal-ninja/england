@@ -1,5 +1,5 @@
 ---
 title: "Menkind"
 url: /broadstairs/menkind/
-shop: Spielzeug
+shop: toys
 ---

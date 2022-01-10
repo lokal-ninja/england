@@ -1,5 +1,5 @@
 ---
 title: "CeX"
 url: /fareham/cex/
-shop: Elektronik
+shop: electronics
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Period Drama"
 url: /exmouth/period-drama/
-shop: Antiquitäten
+shop: antiques
 ---

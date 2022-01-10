@@ -1,5 +1,5 @@
 ---
 title: "Aaroh Foods"
 url: /hatfield/aaroh-foods/
-shop: Lebensmittel
+shop: convenience
 ---

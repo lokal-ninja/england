@@ -1,5 +1,5 @@
 ---
 title: "Thomson"
 url: /huddersfield/thomson/
-shop: Reisebüro
+shop: travel agency
 ---

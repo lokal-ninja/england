@@ -1,5 +1,5 @@
 ---
 title: "Paul's"
 url: /london/pauls/
-shop: Textil
+shop: fabric
 ---

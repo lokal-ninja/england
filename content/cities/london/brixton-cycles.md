@@ -1,5 +1,5 @@
 ---
 title: "Brixton Cycles"
 url: /london/brixton-cycles/
-shop: Fahrrad
+shop: bicycle
 ---

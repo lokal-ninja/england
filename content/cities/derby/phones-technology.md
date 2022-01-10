@@ -1,5 +1,5 @@
 ---
 title: "Phones Technology"
 url: /derby/phones-technology/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jewson"
 url: /holbeach/jewson/
-shop: Baumarkt
+shop: doityourself
 ---

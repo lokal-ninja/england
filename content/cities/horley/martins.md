@@ -1,5 +1,5 @@
 ---
 title: "Martin's"
 url: /horley/martins/
-shop: Zeitungen
+shop: newsagent
 ---

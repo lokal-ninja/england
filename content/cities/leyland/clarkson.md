@@ -1,5 +1,5 @@
 ---
 title: "Clarkson"
 url: /leyland/clarkson/
-shop: Metzgerei
+shop: butcher
 ---

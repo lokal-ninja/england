@@ -1,5 +1,5 @@
 ---
 title: "Best-One"
 url: /newcastle-upon-tyne/best-one-4/
-shop: Lebensmittel
+shop: convenience
 ---

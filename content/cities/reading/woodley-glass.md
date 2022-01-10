@@ -1,5 +1,5 @@
 ---
 title: "Woodley Glass"
 url: /reading/woodley-glass/
-shop: Eisenwaren
+shop: hardware
 ---

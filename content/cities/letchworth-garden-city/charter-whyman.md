@@ -1,5 +1,5 @@
 ---
 title: "Charter Whyman"
 url: /letchworth-garden-city/charter-whyman/
-shop: Immobilien
+shop: estate agent
 ---

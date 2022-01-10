@@ -1,5 +1,5 @@
 ---
 title: "Barnados"
 url: /bath/barnados/
-shop: Gebrauchtwaren
+shop: charity
 ---

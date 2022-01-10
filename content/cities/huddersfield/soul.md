@@ -1,5 +1,5 @@
 ---
 title: "Soul"
 url: /huddersfield/soul/
-shop: Schuhe
+shop: shoes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Currys"
 url: /newport/currys/
-shop: Elektronik
+shop: electronics
 ---

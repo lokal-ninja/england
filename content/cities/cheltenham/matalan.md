@@ -1,5 +1,5 @@
 ---
 title: "Matalan"
 url: /cheltenham/matalan/
-shop: Kleidung
+shop: clothes
 ---

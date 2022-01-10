@@ -1,5 +1,5 @@
 ---
 title: "Faizan Halal Meat"
 url: /london/faizan-halal-meat/
-shop: Metzgerei
+shop: butcher
 ---

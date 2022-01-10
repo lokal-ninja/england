@@ -1,5 +1,5 @@
 ---
 title: "Accessorize"
 url: /reading/accessorize-2/
-shop: Kleidung
+shop: clothes
 ---

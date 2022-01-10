@@ -1,5 +1,5 @@
 ---
 title: "Cycloanalysts"
 url: /oxford/cycloanalysts/
-shop: Fahrrad
+shop: bicycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rayspeed"
 url: /east-heslerton/rayspeed/
-shop: Motorrad
+shop: motorcycle
 ---

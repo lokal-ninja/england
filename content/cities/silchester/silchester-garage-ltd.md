@@ -1,5 +1,5 @@
 ---
 title: "Silchester Garage Ltd"
 url: /silchester/silchester-garage-ltd/
-shop: Autowerkstatt
+shop: car repair
 ---

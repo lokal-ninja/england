@@ -1,5 +1,5 @@
 ---
 title: "Protyre"
 url: /fareham/protyre/
-shop: Autowerkstatt
+shop: car repair
 ---

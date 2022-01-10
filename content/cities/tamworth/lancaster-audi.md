@@ -1,5 +1,5 @@
 ---
 title: "Lancaster Audi"
 url: /tamworth/lancaster-audi/
-shop: Autohaus
+shop: car
 ---

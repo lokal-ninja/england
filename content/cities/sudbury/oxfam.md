@@ -1,5 +1,5 @@
 ---
 title: "Oxfam"
 url: /sudbury/oxfam/
-shop: Gebrauchtwaren
+shop: charity
 ---

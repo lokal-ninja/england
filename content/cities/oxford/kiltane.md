@@ -1,5 +1,5 @@
 ---
 title: "Kiltane"
 url: /oxford/kiltane/
-shop: Kleidung
+shop: clothes
 ---

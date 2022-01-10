@@ -1,5 +1,5 @@
 ---
 title: "Rapid Fix"
 url: /newcastle-upon-tyne/rapid-fix/
-shop: Kosmetik
+shop: beauty
 ---

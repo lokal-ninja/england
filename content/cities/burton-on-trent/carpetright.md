@@ -1,5 +1,5 @@
 ---
 title: "Carpetright"
 url: /burton-on-trent/carpetright/
-shop: Teppiche
+shop: carpet
 ---

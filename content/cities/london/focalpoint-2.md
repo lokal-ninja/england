@@ -1,5 +1,5 @@
 ---
 title: "Focalpoint"
 url: /london/focalpoint-2/
-shop: Optiker
+shop: optician
 ---

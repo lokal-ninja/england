@@ -1,5 +1,5 @@
 ---
 title: "River Island Kids"
 url: /chelmsford/river-island-kids/
-shop: Kleidung
+shop: clothes
 ---

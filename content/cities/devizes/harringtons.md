@@ -1,5 +1,5 @@
 ---
 title: "Harrington's"
 url: /devizes/harringtons/
-shop: Kosmetik
+shop: beauty
 ---

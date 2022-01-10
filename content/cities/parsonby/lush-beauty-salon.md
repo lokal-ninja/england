@@ -1,5 +1,5 @@
 ---
 title: "Lush Beauty Salon"
 url: /parsonby/lush-beauty-salon/
-shop: Kosmetik
+shop: beauty
 ---

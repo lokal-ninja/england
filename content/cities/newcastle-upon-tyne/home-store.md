@@ -1,5 +1,5 @@
 ---
 title: "Home Store"
 url: /newcastle-upon-tyne/home-store/
-shop: Möbel
+shop: furniture
 ---

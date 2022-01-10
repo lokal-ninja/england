@@ -1,5 +1,5 @@
 ---
 title: "Seastar Superbikes"
 url: /norwich/seastar-superbikes/
-shop: Motorrad
+shop: motorcycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Harveys"
 url: /aylesbury/harveys/
-shop: Möbel
+shop: furniture
 ---

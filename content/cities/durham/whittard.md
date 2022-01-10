@@ -1,5 +1,5 @@
 ---
 title: "Whittard"
 url: /durham/whittard/
-shop: Getränke
+shop: beverages
 ---

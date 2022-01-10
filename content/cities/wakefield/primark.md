@@ -1,5 +1,5 @@
 ---
 title: "Primark"
 url: /wakefield/primark/
-shop: Kleidung
+shop: clothes
 ---

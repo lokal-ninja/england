@@ -1,5 +1,5 @@
 ---
 title: "Donna's Deli"
 url: /leigh/donnas-deli/
-shop: Feinkost
+shop: deli
 ---

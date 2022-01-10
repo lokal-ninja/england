@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /prestwich/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

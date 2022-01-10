@@ -1,5 +1,5 @@
 ---
 title: "Bronx"
 url: /huddersfield/bronx/
-shop: Kleidung
+shop: clothes
 ---

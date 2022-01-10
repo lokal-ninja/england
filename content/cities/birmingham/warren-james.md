@@ -1,5 +1,5 @@
 ---
 title: "Warren James"
 url: /birmingham/warren-james/
-shop: Schmuck
+shop: jewelry
 ---

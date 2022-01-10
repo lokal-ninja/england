@@ -1,5 +1,5 @@
 ---
 title: "The Chairman"
 url: /london/the-chairman/
-shop: Friseur
+shop: hairdresser
 ---

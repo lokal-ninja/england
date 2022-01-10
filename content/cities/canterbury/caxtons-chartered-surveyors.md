@@ -1,5 +1,5 @@
 ---
 title: "Caxtons Chartered Surveyors"
 url: /canterbury/caxtons-chartered-surveyors/
-shop: Immobilien
+shop: estate agent
 ---

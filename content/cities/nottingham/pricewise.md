@@ -1,5 +1,5 @@
 ---
 title: "Pricewise"
 url: /nottingham/pricewise/
-shop: Lebensmittel
+shop: convenience
 ---

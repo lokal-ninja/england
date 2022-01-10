@@ -1,5 +1,5 @@
 ---
 title: "Tip Thai Massage"
 url: /richmond/tip-thai-massage/
-shop: Kosmetik
+shop: beauty
 ---

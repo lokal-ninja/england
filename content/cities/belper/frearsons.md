@@ -1,5 +1,5 @@
 ---
 title: "Frearsons"
 url: /belper/frearsons/
-shop: Schmuck
+shop: jewelry
 ---

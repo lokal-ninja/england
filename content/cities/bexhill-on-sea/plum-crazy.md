@@ -1,5 +1,5 @@
 ---
 title: "Plum Crazy"
 url: /bexhill-on-sea/plum-crazy/
-shop: Möbel
+shop: furniture
 ---

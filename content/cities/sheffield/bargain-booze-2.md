@@ -1,5 +1,5 @@
 ---
 title: "Bargain Booze"
 url: /sheffield/bargain-booze-2/
-shop: Supermarkt
+shop: supermarket
 ---

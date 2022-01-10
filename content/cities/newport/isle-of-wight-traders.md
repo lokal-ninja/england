@@ -1,5 +1,5 @@
 ---
 title: "Isle of Wight Traders"
 url: /newport/isle-of-wight-traders/
-shop: Andenken
+shop: gift
 ---

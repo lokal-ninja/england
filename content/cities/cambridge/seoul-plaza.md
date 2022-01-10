@@ -1,5 +1,5 @@
 ---
 title: "Seoul Plaza"
 url: /cambridge/seoul-plaza/
-shop: Lebensmittel
+shop: convenience
 ---

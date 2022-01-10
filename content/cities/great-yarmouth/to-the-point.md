@@ -1,5 +1,5 @@
 ---
 title: "To The Point"
 url: /great-yarmouth/to-the-point/
-shop: Allgemein
+shop: shop
 ---

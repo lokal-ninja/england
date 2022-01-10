@@ -1,5 +1,5 @@
 ---
 title: "Namcollis Mart"
 url: /speke/namcollis-mart/
-shop: Lebensmittel
+shop: convenience
 ---

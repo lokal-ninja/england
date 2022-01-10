@@ -1,5 +1,5 @@
 ---
 title: "Porcelanosa"
 url: /sheffield/porcelanosa/
-shop: Baumarkt
+shop: doityourself
 ---

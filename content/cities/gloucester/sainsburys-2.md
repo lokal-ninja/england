@@ -1,5 +1,5 @@
 ---
 title: "Sainsbury's"
 url: /gloucester/sainsburys-2/
-shop: Supermarkt
+shop: supermarket
 ---

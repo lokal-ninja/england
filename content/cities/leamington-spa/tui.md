@@ -1,5 +1,5 @@
 ---
 title: "TUI"
 url: /leamington-spa/tui/
-shop: Reisebüro
+shop: travel agency
 ---

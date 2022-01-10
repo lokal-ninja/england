@@ -1,5 +1,5 @@
 ---
 title: "Manchester Electricals"
 url: /manchester/manchester-electricals/
-shop: Elektronik
+shop: electronics
 ---

@@ -1,5 +1,5 @@
 ---
 title: "American Golf"
 url: /salisbury/american-golf/
-shop: Sport
+shop: sports
 ---

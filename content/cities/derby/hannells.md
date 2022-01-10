@@ -1,5 +1,5 @@
 ---
 title: "Hannells"
 url: /derby/hannells/
-shop: Immobilien
+shop: estate agent
 ---

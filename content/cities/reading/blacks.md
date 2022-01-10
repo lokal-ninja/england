@@ -1,5 +1,5 @@
 ---
 title: "Blacks"
 url: /reading/blacks/
-shop: Outdoor
+shop: outdoor
 ---

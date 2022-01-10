@@ -1,5 +1,5 @@
 ---
 title: "Harveys"
 url: /solihull/harveys/
-shop: Möbel
+shop: furniture
 ---

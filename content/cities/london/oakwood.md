@@ -1,5 +1,5 @@
 ---
 title: "Oakwood"
 url: /london/oakwood/
-shop: Immobilien
+shop: estate agent
 ---

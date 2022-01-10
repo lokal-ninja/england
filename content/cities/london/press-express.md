@@ -1,5 +1,5 @@
 ---
 title: "Press Express"
 url: /london/press-express/
-shop: Wäscherei
+shop: laundry
 ---

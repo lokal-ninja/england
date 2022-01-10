@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /newark-on-trent/asda/
-shop: Supermarkt
+shop: supermarket
 ---

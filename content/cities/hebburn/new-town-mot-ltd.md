@@ -1,5 +1,5 @@
 ---
 title: "New Town MOT Ltd"
 url: /hebburn/new-town-mot-ltd/
-shop: Autowerkstatt
+shop: car repair
 ---

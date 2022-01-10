@@ -1,5 +1,5 @@
 ---
 title: "Abbey Deli"
 url: /shrewsbury/abbey-deli/
-shop: Feinkost
+shop: deli
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Eleganza Floreal"
 url: /sunderland/eleganza-floreal/
-shop: Blumen
+shop: florist
 ---

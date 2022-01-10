@@ -1,5 +1,5 @@
 ---
 title: "Scotts of Alnwick"
 url: /alnwick/scotts-of-alnwick/
-shop: Kleidung
+shop: clothes
 ---

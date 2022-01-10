@@ -1,5 +1,5 @@
 ---
 title: "Pia"
 url: /cambridge/pia/
-shop: Schmuck
+shop: jewelry
 ---

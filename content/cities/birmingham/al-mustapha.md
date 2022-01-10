@@ -1,5 +1,5 @@
 ---
 title: "Al Mustapha"
 url: /birmingham/al-mustapha/
-shop: Andenken
+shop: gift
 ---

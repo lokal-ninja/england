@@ -1,5 +1,5 @@
 ---
 title: "Gerrards"
 url: /reigate/gerrards/
-shop: Kleidung
+shop: clothes
 ---

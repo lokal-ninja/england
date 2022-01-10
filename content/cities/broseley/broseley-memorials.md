@@ -1,5 +1,5 @@
 ---
 title: "Broseley Memorials"
 url: /broseley/broseley-memorials/
-shop: Allgemein
+shop: shop
 ---

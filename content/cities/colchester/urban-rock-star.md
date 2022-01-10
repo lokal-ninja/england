@@ -1,5 +1,5 @@
 ---
 title: "Urban Rock Star"
 url: /colchester/urban-rock-star/
-shop: Kleidung
+shop: clothes
 ---

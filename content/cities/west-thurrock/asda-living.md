@@ -1,5 +1,5 @@
 ---
 title: "Asda Living"
 url: /west-thurrock/asda-living/
-shop: Warenhaus
+shop: department store
 ---

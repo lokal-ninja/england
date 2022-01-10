@@ -1,5 +1,5 @@
 ---
 title: "Kindness Sharehouse"
 url: /wakefield/kindness-sharehouse-2/
-shop: Gebrauchtwaren
+shop: charity
 ---

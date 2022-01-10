@@ -1,5 +1,5 @@
 ---
 title: "Lok'nStore"
 url: /wellingborough/loknstore/
-shop: Mieten
+shop: storage rental
 ---

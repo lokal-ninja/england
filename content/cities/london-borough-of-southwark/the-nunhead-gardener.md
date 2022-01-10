@@ -1,5 +1,5 @@
 ---
 title: "The Nunhead Gardener"
 url: /london-borough-of-southwark/the-nunhead-gardener/
-shop: Garten-Center
+shop: garden centre
 ---

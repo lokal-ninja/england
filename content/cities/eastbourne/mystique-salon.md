@@ -1,5 +1,5 @@
 ---
 title: "Mystique Salon"
 url: /eastbourne/mystique-salon/
-shop: Friseur
+shop: hairdresser
 ---

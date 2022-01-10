@@ -1,5 +1,5 @@
 ---
 title: "Phil's Corals"
 url: /margate/phils-corals/
-shop: Tiere
+shop: pet
 ---

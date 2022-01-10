@@ -1,5 +1,5 @@
 ---
 title: "Tapi Carpets"
 url: /st-albans/tapi-carpets/
-shop: Teppiche
+shop: carpet
 ---

@@ -1,5 +1,5 @@
 ---
 title: "H.Samuel"
 url: /grays/h-samuel/
-shop: Schmuck
+shop: jewelry
 ---

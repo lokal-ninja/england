@@ -1,5 +1,5 @@
 ---
 title: "Thamesview News"
 url: /chadwell-st-mary/thamesview-news/
-shop: Zeitungen
+shop: newsagent
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aldiss"
 url: /fakenham/aldiss/
-shop: Möbel
+shop: furniture
 ---

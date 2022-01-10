@@ -1,5 +1,5 @@
 ---
 title: "Gosh!"
 url: /london/gosh-2/
-shop: Bücher
+shop: books
 ---

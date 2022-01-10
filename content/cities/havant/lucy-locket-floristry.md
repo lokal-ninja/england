@@ -1,5 +1,5 @@
 ---
 title: "Lucy Locket Floristry"
 url: /havant/lucy-locket-floristry/
-shop: Blumen
+shop: florist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Eden Beauty"
 url: /ulverston/eden-beauty/
-shop: Kosmetik
+shop: beauty
 ---

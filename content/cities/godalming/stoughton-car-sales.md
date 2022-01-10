@@ -1,5 +1,5 @@
 ---
 title: "Stoughton Car Sales"
 url: /godalming/stoughton-car-sales/
-shop: Autohaus
+shop: car
 ---

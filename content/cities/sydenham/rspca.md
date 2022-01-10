@@ -1,5 +1,5 @@
 ---
 title: "RSPCA"
 url: /sydenham/rspca/
-shop: Gebrauchtwaren
+shop: charity
 ---

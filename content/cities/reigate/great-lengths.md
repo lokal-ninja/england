@@ -1,5 +1,5 @@
 ---
 title: "Great Lengths"
 url: /reigate/great-lengths/
-shop: Friseur
+shop: hairdresser
 ---

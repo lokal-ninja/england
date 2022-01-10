@@ -1,5 +1,5 @@
 ---
 title: "Canning Town Barbers"
 url: /london/canning-town-barbers/
-shop: Friseur
+shop: hairdresser
 ---

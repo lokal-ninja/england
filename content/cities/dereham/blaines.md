@@ -1,5 +1,5 @@
 ---
 title: "Blaines"
 url: /dereham/blaines/
-shop: Haushaltsgeräte
+shop: appliance
 ---

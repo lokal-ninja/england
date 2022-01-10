@@ -1,5 +1,5 @@
 ---
 title: "Dicksons"
 url: /newcastle-upon-tyne/dicksons-2/
-shop: Metzgerei
+shop: butcher
 ---

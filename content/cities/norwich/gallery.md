@@ -1,5 +1,5 @@
 ---
 title: "Gallery"
 url: /norwich/gallery/
-shop: Rahmen
+shop: frame
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Little Britain"
 url: /canterbury/little-britain/
-shop: Andenken
+shop: gift
 ---

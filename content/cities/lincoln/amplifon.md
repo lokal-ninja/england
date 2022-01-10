@@ -1,5 +1,5 @@
 ---
 title: "Amplifon"
 url: /lincoln/amplifon/
-shop: Hörgeräte
+shop: hearing aids
 ---

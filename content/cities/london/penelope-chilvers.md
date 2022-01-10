@@ -1,5 +1,5 @@
 ---
 title: "Penelope Chilvers"
 url: /london/penelope-chilvers/
-shop: Schuhe
+shop: shoes
 ---

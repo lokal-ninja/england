@@ -1,5 +1,5 @@
 ---
 title: "Unique"
 url: /richmond/unique/
-shop: Friseur
+shop: hairdresser
 ---

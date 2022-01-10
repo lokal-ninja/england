@@ -1,5 +1,5 @@
 ---
 title: "Frames"
 url: /wellington/frames/
-shop: Foto
+shop: photo
 ---

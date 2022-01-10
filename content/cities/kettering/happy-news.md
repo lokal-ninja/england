@@ -1,5 +1,5 @@
 ---
 title: "Happy News"
 url: /kettering/happy-news/
-shop: Zeitungen
+shop: newsagent
 ---

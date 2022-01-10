@@ -1,5 +1,5 @@
 ---
 title: "CR Hair Studio"
 url: /preston/cr-hair-studio/
-shop: Friseur
+shop: hairdresser
 ---

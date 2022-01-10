@@ -1,5 +1,5 @@
 ---
 title: "Sue Ryder Care"
 url: /fratton-portsmouth/sue-ryder-care/
-shop: Gebrauchtwaren
+shop: charity
 ---

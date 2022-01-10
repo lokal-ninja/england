@@ -1,5 +1,5 @@
 ---
 title: "Strand Cobbler"
 url: /exmouth/strand-cobbler/
-shop: Schuhe
+shop: shoes
 ---

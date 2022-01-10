@@ -1,5 +1,5 @@
 ---
 title: "Naomi House"
 url: /portsmouth/naomi-house/
-shop: Gebrauchtwaren
+shop: charity
 ---

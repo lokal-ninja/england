@@ -1,5 +1,5 @@
 ---
 title: "Next"
 url: /braintree/next/
-shop: Kleidung
+shop: clothes
 ---

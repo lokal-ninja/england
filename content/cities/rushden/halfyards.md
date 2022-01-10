@@ -1,5 +1,5 @@
 ---
 title: "Halfyards"
 url: /rushden/halfyards/
-shop: Friseur
+shop: hairdresser
 ---

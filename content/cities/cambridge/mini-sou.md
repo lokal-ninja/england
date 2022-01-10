@@ -1,5 +1,5 @@
 ---
 title: "Mini SOU"
 url: /cambridge/mini-sou/
-shop: Andenken
+shop: gift
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Old Granary"
 url: /battlesbridge/the-old-granary/
-shop: Antiquitäten
+shop: antiques
 ---

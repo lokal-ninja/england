@@ -1,5 +1,5 @@
 ---
 title: "Versatile"
 url: /thorpe-le-soken/versatile/
-shop: Fliesen
+shop: tiles
 ---

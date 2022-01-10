@@ -1,5 +1,5 @@
 ---
 title: "Heals"
 url: /cockermouth/heals/
-shop: Optiker
+shop: optician
 ---

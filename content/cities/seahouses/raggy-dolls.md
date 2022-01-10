@@ -1,5 +1,5 @@
 ---
 title: "Raggy Dolls"
 url: /seahouses/raggy-dolls/
-shop: Kleidung
+shop: clothes
 ---

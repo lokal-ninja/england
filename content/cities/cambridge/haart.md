@@ -1,5 +1,5 @@
 ---
 title: "Haart"
 url: /cambridge/haart/
-shop: Immobilien
+shop: estate agent
 ---

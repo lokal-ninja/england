@@ -1,5 +1,5 @@
 ---
 title: "Blue Rinse Vintage"
 url: /manchester/blue-rinse-vintage/
-shop: Kleidung
+shop: clothes
 ---

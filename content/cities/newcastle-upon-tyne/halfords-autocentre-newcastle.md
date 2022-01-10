@@ -1,5 +1,5 @@
 ---
 title: "Halfords Autocentre Newcastle"
 url: /newcastle-upon-tyne/halfords-autocentre-newcastle/
-shop: Autowerkstatt
+shop: car repair
 ---

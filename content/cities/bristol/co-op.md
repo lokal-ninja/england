@@ -1,5 +1,5 @@
 ---
 title: "Co-op"
 url: /bristol/co-op/
-shop: Supermarkt
+shop: supermarket
 ---

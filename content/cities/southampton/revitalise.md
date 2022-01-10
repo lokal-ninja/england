@@ -1,5 +1,5 @@
 ---
 title: "Revitalise"
 url: /southampton/revitalise/
-shop: Gebrauchtwaren
+shop: charity
 ---

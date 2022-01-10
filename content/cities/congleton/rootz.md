@@ -1,5 +1,5 @@
 ---
 title: "Rootz"
 url: /congleton/rootz/
-shop: Friseur
+shop: hairdresser
 ---

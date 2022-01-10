@@ -1,5 +1,5 @@
 ---
 title: "Carpet Mill"
 url: /cambridge/carpet-mill/
-shop: Teppiche
+shop: carpet
 ---

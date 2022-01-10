@@ -1,5 +1,5 @@
 ---
 title: "Card Factory"
 url: /thetford/card-factory/
-shop: Allgemein
+shop: shop
 ---

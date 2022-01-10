@@ -1,5 +1,5 @@
 ---
 title: "Reeds News"
 url: /portsmouth/reeds-news/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /paignton/savers/
-shop: Drogerie
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Blackfriars"
 url: /carlisle/blackfriars/
-shop: Tattoo
+shop: tattoo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Greggs"
 url: /spalding/greggs/
-shop: Bäckerei
+shop: bakery
 ---

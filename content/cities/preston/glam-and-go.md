@@ -1,5 +1,5 @@
 ---
 title: "Glam and Go"
 url: /preston/glam-and-go/
-shop: Kosmetik
+shop: beauty
 ---

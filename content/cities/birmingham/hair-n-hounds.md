@@ -1,5 +1,5 @@
 ---
 title: "Hair 'n' Hounds"
 url: /birmingham/hair-n-hounds/
-shop: Tiersalon
+shop: pet grooming
 ---

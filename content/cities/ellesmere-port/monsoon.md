@@ -1,5 +1,5 @@
 ---
 title: "Monsoon"
 url: /ellesmere-port/monsoon/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /croydon/savers/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bentley Cambridge"
 url: /fenstanton/bentley-cambridge/
-shop: Autohaus
+shop: car
 ---

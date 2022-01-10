@@ -1,5 +1,5 @@
 ---
 title: "Arket"
 url: /london/arket/
-shop: Kleidung
+shop: clothes
 ---

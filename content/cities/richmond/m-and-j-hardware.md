@@ -1,5 +1,5 @@
 ---
 title: "M and J Hardware"
 url: /richmond/m-and-j-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

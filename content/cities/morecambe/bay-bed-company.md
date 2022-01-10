@@ -1,5 +1,5 @@
 ---
 title: "Bay Bed Company"
 url: /morecambe/bay-bed-company/
-shop: Betten
+shop: bed
 ---

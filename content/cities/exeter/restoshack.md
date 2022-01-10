@@ -1,5 +1,5 @@
 ---
 title: "Restoshack"
 url: /exeter/restoshack/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hotter"
 url: /darlington/hotter/
-shop: Schuhe
+shop: shoes
 ---

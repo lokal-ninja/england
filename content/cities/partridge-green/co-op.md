@@ -1,5 +1,5 @@
 ---
 title: "Co-Op"
 url: /partridge-green/co-op/
-shop: Supermarkt
+shop: supermarket
 ---

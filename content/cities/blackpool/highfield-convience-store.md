@@ -1,5 +1,5 @@
 ---
 title: "Highfield Convience Store"
 url: /blackpool/highfield-convience-store/
-shop: Lebensmittel
+shop: convenience
 ---

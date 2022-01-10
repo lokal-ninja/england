@@ -1,5 +1,5 @@
 ---
 title: "Golden Valley Stores"
 url: /hereford/golden-valley-stores/
-shop: Lebensmittel
+shop: convenience
 ---

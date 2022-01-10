@@ -1,5 +1,5 @@
 ---
 title: "Pandora News"
 url: /coulsdon/pandora-news/
-shop: Zeitungen
+shop: newsagent
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cutlacks"
 url: /cambridge/cutlacks/
-shop: Eisenwaren
+shop: hardware
 ---

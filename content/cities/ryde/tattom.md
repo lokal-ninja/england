@@ -1,5 +1,5 @@
 ---
 title: "Tattom"
 url: /ryde/tattom/
-shop: Tattoo
+shop: tattoo
 ---

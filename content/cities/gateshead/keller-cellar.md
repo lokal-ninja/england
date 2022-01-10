@@ -1,5 +1,5 @@
 ---
 title: "Keller Cellar"
 url: /gateshead/keller-cellar/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dream Flights"
 url: /nelson/dream-flights/
-shop: Reisebüro
+shop: travel agency
 ---

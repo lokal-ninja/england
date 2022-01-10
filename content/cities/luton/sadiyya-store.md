@@ -1,5 +1,5 @@
 ---
 title: "Sadiyya Store"
 url: /luton/sadiyya-store/
-shop: Lebensmittel
+shop: convenience
 ---

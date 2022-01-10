@@ -1,5 +1,5 @@
 ---
 title: "Farouche"
 url: /rawdon/farouche/
-shop: Kleidung
+shop: clothes
 ---

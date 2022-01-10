@@ -1,5 +1,5 @@
 ---
 title: "Poundworld"
 url: /trowbridge/poundworld/
-shop: Kramladen
+shop: variety store
 ---

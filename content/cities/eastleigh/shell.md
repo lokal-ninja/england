@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /eastleigh/shell/
-shop: Lebensmittel
+shop: convenience
 ---

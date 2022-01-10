@@ -1,5 +1,5 @@
 ---
 title: "New York Nails"
 url: /windsor/new-york-nails/
-shop: Kosmetik
+shop: beauty
 ---

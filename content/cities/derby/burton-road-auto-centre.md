@@ -1,5 +1,5 @@
 ---
 title: "Burton Road Auto Centre"
 url: /derby/burton-road-auto-centre/
-shop: Autowerkstatt
+shop: car repair
 ---

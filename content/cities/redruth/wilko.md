@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
 url: /redruth/wilko/
-shop: Kramladen
+shop: variety store
 ---

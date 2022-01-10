@@ -1,5 +1,5 @@
 ---
 title: "Trull Garage"
 url: /taunton/trull-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

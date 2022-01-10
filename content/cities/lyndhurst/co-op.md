@@ -1,5 +1,5 @@
 ---
 title: "Co-op"
 url: /lyndhurst/co-op/
-shop: Lebensmittel
+shop: convenience
 ---

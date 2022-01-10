@@ -1,5 +1,5 @@
 ---
 title: "Paul Green"
 url: /birmingham/paul-green/
-shop: Schmuck
+shop: jewelry
 ---

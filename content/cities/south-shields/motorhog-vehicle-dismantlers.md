@@ -1,5 +1,5 @@
 ---
 title: "Motorhog Vehicle Dismantlers"
 url: /south-shields/motorhog-vehicle-dismantlers/
-shop: Autoteile
+shop: car parts
 ---

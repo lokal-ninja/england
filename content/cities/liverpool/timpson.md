@@ -1,5 +1,5 @@
 ---
 title: "Timpson"
 url: /liverpool/timpson/
-shop: Eisenwaren
+shop: hardware
 ---

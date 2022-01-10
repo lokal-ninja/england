@@ -1,5 +1,5 @@
 ---
 title: "The Pet Tank"
 url: /norwich/the-pet-tank/
-shop: Tiere
+shop: pet
 ---

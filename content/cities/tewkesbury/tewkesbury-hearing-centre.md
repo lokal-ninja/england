@@ -1,5 +1,5 @@
 ---
 title: "Tewkesbury Hearing Centre"
 url: /tewkesbury/tewkesbury-hearing-centre/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Paulas"
 url: /gateshead/paulas/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /york/poundland/
-shop: Kramladen
+shop: variety store
 ---

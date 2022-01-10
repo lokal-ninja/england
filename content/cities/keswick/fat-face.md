@@ -1,5 +1,5 @@
 ---
 title: "Fat Face"
 url: /keswick/fat-face/
-shop: Kleidung
+shop: clothes
 ---

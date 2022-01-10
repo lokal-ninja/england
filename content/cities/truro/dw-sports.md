@@ -1,5 +1,5 @@
 ---
 title: "DW Sports"
 url: /truro/dw-sports/
-shop: Kleidung
+shop: clothes
 ---

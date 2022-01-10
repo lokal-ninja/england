@@ -1,5 +1,5 @@
 ---
 title: "Fiveways"
 url: /blackpool/fiveways/
-shop: Lebensmittel
+shop: convenience
 ---

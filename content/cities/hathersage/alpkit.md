@@ -1,5 +1,5 @@
 ---
 title: "Alpkit"
 url: /hathersage/alpkit/
-shop: Outdoor
+shop: outdoor
 ---

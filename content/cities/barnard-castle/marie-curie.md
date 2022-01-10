@@ -1,5 +1,5 @@
 ---
 title: "Marie Curie"
 url: /barnard-castle/marie-curie/
-shop: Gebrauchtwaren
+shop: charity
 ---

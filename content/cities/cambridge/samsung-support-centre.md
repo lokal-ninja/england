@@ -1,5 +1,5 @@
 ---
 title: "Samsung Support Centre"
 url: /cambridge/samsung-support-centre/
-shop: Handy
+shop: mobile phone
 ---

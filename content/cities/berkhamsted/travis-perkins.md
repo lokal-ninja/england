@@ -1,5 +1,5 @@
 ---
 title: "Travis Perkins"
 url: /berkhamsted/travis-perkins/
-shop: Baustoffe
+shop: trade
 ---

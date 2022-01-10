@@ -1,5 +1,5 @@
 ---
 title: "Perfetto"
 url: /sunderland/perfetto/
-shop: Friseur
+shop: hairdresser
 ---

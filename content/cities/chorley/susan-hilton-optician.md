@@ -1,5 +1,5 @@
 ---
 title: "Susan Hilton Optician"
 url: /chorley/susan-hilton-optician/
-shop: Optiker
+shop: optician
 ---

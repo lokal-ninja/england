@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
 url: /ilford/wilko/
-shop: Kramladen
+shop: variety store
 ---

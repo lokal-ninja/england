@@ -1,5 +1,5 @@
 ---
 title: "Bournville Stores"
 url: /birmingham/bournville-stores/
-shop: Zeitungen
+shop: newsagent
 ---

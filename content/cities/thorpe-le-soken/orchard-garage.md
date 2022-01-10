@@ -1,5 +1,5 @@
 ---
 title: "Orchard Garage"
 url: /thorpe-le-soken/orchard-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

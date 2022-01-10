@@ -1,5 +1,5 @@
 ---
 title: "Gayfords"
 url: /wallington/gayfords/
-shop: Autohaus
+shop: car
 ---

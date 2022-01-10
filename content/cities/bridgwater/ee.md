@@ -1,5 +1,5 @@
 ---
 title: "EE"
 url: /bridgwater/ee/
-shop: Handy
+shop: mobile phone
 ---

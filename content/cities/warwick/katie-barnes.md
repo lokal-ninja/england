@@ -1,5 +1,5 @@
 ---
 title: "Katie Barnes"
 url: /warwick/katie-barnes/
-shop: Kosmetik
+shop: beauty
 ---

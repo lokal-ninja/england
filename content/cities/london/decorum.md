@@ -1,5 +1,5 @@
 ---
 title: "Decorum"
 url: /london/decorum/
-shop: Allgemein
+shop: shop
 ---

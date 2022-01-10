@@ -1,5 +1,5 @@
 ---
 title: "Loom Hair Design"
 url: /diss/loom-hair-design/
-shop: Friseur
+shop: hairdresser
 ---

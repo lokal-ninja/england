@@ -1,5 +1,5 @@
 ---
 title: "Hughes"
 url: /bury-st-edmunds/hughes/
-shop: Elektronik
+shop: electronics
 ---

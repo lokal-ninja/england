@@ -1,5 +1,5 @@
 ---
 title: "Geoff's General Store"
 url: /belper/geoffs-general-store/
-shop: Lebensmittel
+shop: convenience
 ---

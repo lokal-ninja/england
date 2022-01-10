@@ -1,5 +1,5 @@
 ---
 title: "Thorntons"
 url: /northampton/thorntons/
-shop: Süßwaren
+shop: confectionery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Dog Den"
 url: /duffield/the-dog-den/
-shop: Tiersalon
+shop: pet grooming
 ---

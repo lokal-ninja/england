@@ -1,5 +1,5 @@
 ---
 title: "McColls"
 url: /leyland/mccolls/
-shop: Lebensmittel
+shop: convenience
 ---

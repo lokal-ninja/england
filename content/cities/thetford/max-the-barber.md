@@ -1,5 +1,5 @@
 ---
 title: "Max The Barber"
 url: /thetford/max-the-barber/
-shop: Friseur
+shop: hairdresser
 ---

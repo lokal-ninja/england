@@ -1,5 +1,5 @@
 ---
 title: "Homebase"
 url: /kendal/homebase/
-shop: Baumarkt
+shop: doityourself
 ---

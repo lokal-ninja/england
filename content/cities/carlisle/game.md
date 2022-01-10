@@ -1,5 +1,5 @@
 ---
 title: "Game"
 url: /carlisle/game/
-shop: Videospiele
+shop: video games
 ---

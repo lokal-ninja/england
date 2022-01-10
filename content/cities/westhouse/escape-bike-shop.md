@@ -1,5 +1,5 @@
 ---
 title: "Escape Bike Shop"
 url: /westhouse/escape-bike-shop/
-shop: Fahrrad
+shop: bicycle
 ---

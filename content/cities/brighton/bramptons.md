@@ -1,5 +1,5 @@
 ---
 title: "Bramptons"
 url: /brighton/bramptons/
-shop: Metzgerei
+shop: butcher
 ---

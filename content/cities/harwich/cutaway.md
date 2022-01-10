@@ -1,5 +1,5 @@
 ---
 title: "Cutaway"
 url: /harwich/cutaway/
-shop: Friseur
+shop: hairdresser
 ---

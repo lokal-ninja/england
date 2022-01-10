@@ -1,5 +1,5 @@
 ---
 title: "Linda's News"
 url: /darlington/lindas-news/
-shop: Zeitungen
+shop: newsagent
 ---

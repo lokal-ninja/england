@@ -1,5 +1,5 @@
 ---
 title: "Fish Brothers"
 url: /london/fish-brothers/
-shop: Leiher
+shop: pawnbroker
 ---

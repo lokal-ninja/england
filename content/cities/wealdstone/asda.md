@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /wealdstone/asda/
-shop: Supermarkt
+shop: supermarket
 ---

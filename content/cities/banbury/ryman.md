@@ -1,5 +1,5 @@
 ---
 title: "Ryman"
 url: /banbury/ryman/
-shop: Schreibwaren
+shop: office supplies
 ---

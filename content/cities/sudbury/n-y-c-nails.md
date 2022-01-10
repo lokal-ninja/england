@@ -1,5 +1,5 @@
 ---
 title: "N.Y.C Nails"
 url: /sudbury/n-y-c-nails/
-shop: Kosmetik
+shop: beauty
 ---

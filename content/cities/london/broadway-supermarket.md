@@ -1,5 +1,5 @@
 ---
 title: "Broadway Supermarket"
 url: /london/broadway-supermarket/
-shop: Lebensmittel
+shop: convenience
 ---

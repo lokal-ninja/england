@@ -1,5 +1,5 @@
 ---
 title: "KarbonKopy Print solutions"
 url: /southport/karbonkopy-print-solutions/
-shop: Allgemein
+shop: shop
 ---

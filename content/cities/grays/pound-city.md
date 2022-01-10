@@ -1,5 +1,5 @@
 ---
 title: "Pound City"
 url: /grays/pound-city/
-shop: Kramladen
+shop: variety store
 ---

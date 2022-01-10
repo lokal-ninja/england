@@ -1,5 +1,5 @@
 ---
 title: "Emperor Carpets Ltd"
 url: /london/emperor-carpets-ltd/
-shop: Teppiche
+shop: carpet
 ---

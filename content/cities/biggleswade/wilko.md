@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
 url: /biggleswade/wilko/
-shop: Kramladen
+shop: variety store
 ---

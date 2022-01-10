@@ -1,5 +1,5 @@
 ---
 title: "One Stop"
 url: /langport/one-stop/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "BrightHouse"
 url: /grays/brighthouse/
-shop: Elektronik
+shop: electronics
 ---

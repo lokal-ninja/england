@@ -1,5 +1,5 @@
 ---
 title: "BrightHouse"
 url: /peterlee/brighthouse/
-shop: Warenhaus
+shop: department store
 ---

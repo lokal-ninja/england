@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /whitehaven/premier-2/
-shop: Lebensmittel
+shop: convenience
 ---

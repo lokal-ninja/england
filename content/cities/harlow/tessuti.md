@@ -1,5 +1,5 @@
 ---
 title: "Tessuti"
 url: /harlow/tessuti/
-shop: Kleidung
+shop: clothes
 ---

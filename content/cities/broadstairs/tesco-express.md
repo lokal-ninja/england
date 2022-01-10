@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /broadstairs/tesco-express/
-shop: Supermarkt
+shop: supermarket
 ---

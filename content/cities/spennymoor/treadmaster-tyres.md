@@ -1,5 +1,5 @@
 ---
 title: "Treadmaster Tyres"
 url: /spennymoor/treadmaster-tyres/
-shop: Autowerkstatt
+shop: car repair
 ---

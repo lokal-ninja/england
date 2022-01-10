@@ -1,5 +1,5 @@
 ---
 title: "Chocolat"
 url: /tewkesbury/chocolat/
-shop: Süßwaren
+shop: confectionery
 ---

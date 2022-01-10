@@ -1,5 +1,5 @@
 ---
 title: "Workshop"
 url: /leeds/workshop/
-shop: Allgemein
+shop: shop
 ---

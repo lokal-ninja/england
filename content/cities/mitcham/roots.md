@@ -1,5 +1,5 @@
 ---
 title: "Roots"
 url: /mitcham/roots/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Toucan Hire"
 url: /diss/toucan-hire/
-shop: Allgemein
+shop: shop
 ---

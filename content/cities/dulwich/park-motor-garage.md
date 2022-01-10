@@ -1,5 +1,5 @@
 ---
 title: "Park Motor Garage"
 url: /dulwich/park-motor-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

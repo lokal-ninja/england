@@ -1,5 +1,5 @@
 ---
 title: "Game"
 url: /lancaster/game/
-shop: Videospiele
+shop: video games
 ---

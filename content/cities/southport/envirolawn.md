@@ -1,5 +1,5 @@
 ---
 title: "Envirolawn"
 url: /southport/envirolawn/
-shop: Allgemein
+shop: shop
 ---

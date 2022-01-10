@@ -1,5 +1,5 @@
 ---
 title: "Chandra's Tradings"
 url: /birmingham/chandras-tradings/
-shop: Lebensmittel
+shop: convenience
 ---

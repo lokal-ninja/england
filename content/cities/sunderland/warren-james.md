@@ -1,5 +1,5 @@
 ---
 title: "Warren James"
 url: /sunderland/warren-james/
-shop: Schmuck
+shop: jewelry
 ---

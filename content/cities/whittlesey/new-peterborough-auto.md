@@ -1,5 +1,5 @@
 ---
 title: "New Peterborough Auto"
 url: /whittlesey/new-peterborough-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

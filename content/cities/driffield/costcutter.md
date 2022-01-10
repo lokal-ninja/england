@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /driffield/costcutter/
-shop: Supermarkt
+shop: supermarket
 ---

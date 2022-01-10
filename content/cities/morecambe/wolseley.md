@@ -1,5 +1,5 @@
 ---
 title: "Wolseley"
 url: /morecambe/wolseley/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cumbria Aquapets"
 url: /workington/cumbria-aquapets/
-shop: Tiere
+shop: pet
 ---

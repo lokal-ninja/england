@@ -1,5 +1,5 @@
 ---
 title: "Nemo"
 url: /bristol/nemo/
-shop: Friseur
+shop: hairdresser
 ---

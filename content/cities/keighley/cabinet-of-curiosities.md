@@ -1,5 +1,5 @@
 ---
 title: "Cabinet of Curiosities"
 url: /keighley/cabinet-of-curiosities/
-shop: Andenken
+shop: gift
 ---

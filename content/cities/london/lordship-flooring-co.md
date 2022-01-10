@@ -1,5 +1,5 @@
 ---
 title: "Lordship Flooring Co"
 url: /london/lordship-flooring-co/
-shop: Fußböden
+shop: flooring
 ---

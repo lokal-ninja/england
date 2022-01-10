@@ -1,5 +1,5 @@
 ---
 title: "Dicksons"
 url: /whitley-bay/dicksons/
-shop: Metzgerei
+shop: butcher
 ---

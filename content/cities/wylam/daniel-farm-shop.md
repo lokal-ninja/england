@@ -1,5 +1,5 @@
 ---
 title: "Daniel Farm Shop"
 url: /wylam/daniel-farm-shop/
-shop: Hofladen
+shop: farm
 ---

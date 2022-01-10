@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /eastbourne/poundland/
-shop: Kramladen
+shop: variety store
 ---

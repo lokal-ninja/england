@@ -1,5 +1,5 @@
 ---
 title: "Smithsonia"
 url: /birmingham/smithsonia/
-shop: Andenken
+shop: gift
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Co-operative"
 url: /birmingham/co-operative/
-shop: Supermarkt
+shop: supermarket
 ---

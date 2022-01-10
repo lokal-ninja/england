@@ -1,5 +1,5 @@
 ---
 title: "Miller News"
 url: /preston/miller-news/
-shop: Zeitungen
+shop: newsagent
 ---

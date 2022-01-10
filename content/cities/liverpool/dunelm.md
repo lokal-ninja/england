@@ -1,5 +1,5 @@
 ---
 title: "Dunelm"
 url: /liverpool/dunelm/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Friandise"
 url: /london/friandise/
-shop: Schokolade
+shop: chocolate
 ---

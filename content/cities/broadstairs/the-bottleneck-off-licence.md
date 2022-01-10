@@ -1,5 +1,5 @@
 ---
 title: "The Bottleneck Off Licence"
 url: /broadstairs/the-bottleneck-off-licence/
-shop: Spirituosen
+shop: alcohol
 ---

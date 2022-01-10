@@ -1,5 +1,5 @@
 ---
 title: "Q-Tan"
 url: /crook/q-tan/
-shop: Kosmetik
+shop: beauty
 ---

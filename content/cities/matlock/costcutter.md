@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /matlock/costcutter/
-shop: Lebensmittel
+shop: convenience
 ---

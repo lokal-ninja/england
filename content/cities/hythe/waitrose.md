@@ -1,5 +1,5 @@
 ---
 title: "Waitrose"
 url: /hythe/waitrose/
-shop: Supermarkt
+shop: supermarket
 ---

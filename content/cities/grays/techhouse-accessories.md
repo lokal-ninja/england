@@ -1,5 +1,5 @@
 ---
 title: "TechHouse Accessories"
 url: /grays/techhouse-accessories/
-shop: Handy
+shop: mobile phone
 ---

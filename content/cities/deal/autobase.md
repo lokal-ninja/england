@@ -1,5 +1,5 @@
 ---
 title: "Autobase"
 url: /deal/autobase/
-shop: Fahrrad
+shop: bicycle
 ---

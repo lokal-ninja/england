@@ -1,5 +1,5 @@
 ---
 title: "Captins Stan's Ryde Fishstore"
 url: /ryde/captins-stans-ryde-fishstore/
-shop: Fisch
+shop: seafood
 ---

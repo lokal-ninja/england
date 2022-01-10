@@ -1,5 +1,5 @@
 ---
 title: "Ramsgate Tyre Centre"
 url: /broadstairs/ramsgate-tyre-centre/
-shop: Reifen
+shop: tyres
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Astley Wine Stores"
 url: /salford/astley-wine-stores/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Oak Furnitureland"
 url: /stafford/oak-furnitureland/
-shop: Möbel
+shop: furniture
 ---

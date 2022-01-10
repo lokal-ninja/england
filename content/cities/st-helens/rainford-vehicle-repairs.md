@@ -1,5 +1,5 @@
 ---
 title: "Rainford Vehicle Repairs"
 url: /st-helens/rainford-vehicle-repairs/
-shop: Autowerkstatt
+shop: car repair
 ---

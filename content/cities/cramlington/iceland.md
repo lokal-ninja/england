@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /cramlington/iceland/
-shop: Supermarkt
+shop: supermarket
 ---

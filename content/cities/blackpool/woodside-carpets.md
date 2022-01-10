@@ -1,5 +1,5 @@
 ---
 title: "Woodside Carpets"
 url: /blackpool/woodside-carpets/
-shop: Teppiche
+shop: carpet
 ---

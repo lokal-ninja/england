@@ -1,5 +1,5 @@
 ---
 title: "H Samuel Ltd"
 url: /bridgwater/h-samuel-ltd/
-shop: Schmuck
+shop: jewelry
 ---

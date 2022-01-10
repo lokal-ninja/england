@@ -1,5 +1,5 @@
 ---
 title: "Trinity Store"
 url: /luton/trinity-store/
-shop: Lebensmittel
+shop: convenience
 ---

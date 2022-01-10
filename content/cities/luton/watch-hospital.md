@@ -1,5 +1,5 @@
 ---
 title: "Watch Hospital"
 url: /luton/watch-hospital/
-shop: Allgemein
+shop: shop
 ---

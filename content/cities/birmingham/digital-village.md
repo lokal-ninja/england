@@ -1,5 +1,5 @@
 ---
 title: "Digital Village"
 url: /birmingham/digital-village/
-shop: Instrumente
+shop: musical instrument
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Noble Rose Tattooing"
 url: /worthing/noble-rose-tattooing/
-shop: Tattoo
+shop: tattoo
 ---

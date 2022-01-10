@@ -1,5 +1,5 @@
 ---
 title: "Oriental Healthcare"
 url: /london/oriental-healthcare/
-shop: Massage
+shop: massage
 ---

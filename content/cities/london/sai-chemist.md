@@ -1,5 +1,5 @@
 ---
 title: "Sai Chemist"
 url: /london/sai-chemist/
-shop: Drogerie
+shop: chemist
 ---

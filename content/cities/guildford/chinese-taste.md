@@ -1,5 +1,5 @@
 ---
 title: "Chinese Taste"
 url: /guildford/chinese-taste/
-shop: Supermarkt
+shop: supermarket
 ---

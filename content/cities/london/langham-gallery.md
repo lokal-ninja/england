@@ -1,5 +1,5 @@
 ---
 title: "Langham Gallery"
 url: /london/langham-gallery/
-shop: Kunst
+shop: art
 ---

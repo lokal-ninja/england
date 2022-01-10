@@ -1,5 +1,5 @@
 ---
 title: "Holly Blue"
 url: /saltburn-by-the-sea/holly-blue/
-shop: Andenken
+shop: gift
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Claire's Outlet"
 url: /ellesmere-port/claires-outlet/
-shop: Allgemein
+shop: shop
 ---

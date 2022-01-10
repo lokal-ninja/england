@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /ormskirk/spar/
-shop: Lebensmittel
+shop: convenience
 ---

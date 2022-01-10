@@ -1,5 +1,5 @@
 ---
 title: "Phone Solutionz"
 url: /taunton/phone-solutionz/
-shop: Handy
+shop: mobile phone
 ---

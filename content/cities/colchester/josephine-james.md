@@ -1,5 +1,5 @@
 ---
 title: "Josephine James"
 url: /colchester/josephine-james/
-shop: Friseur
+shop: hairdresser
 ---

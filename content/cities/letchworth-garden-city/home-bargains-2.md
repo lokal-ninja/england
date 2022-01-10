@@ -1,5 +1,5 @@
 ---
 title: "Home Bargains"
 url: /letchworth-garden-city/home-bargains-2/
-shop: Kramladen
+shop: variety store
 ---

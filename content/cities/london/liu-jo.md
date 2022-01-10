@@ -1,5 +1,5 @@
 ---
 title: "Liu·Jo"
 url: /london/liu-jo/
-shop: Kleidung
+shop: clothes
 ---

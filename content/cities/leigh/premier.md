@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /leigh/premier/
-shop: Lebensmittel
+shop: convenience
 ---

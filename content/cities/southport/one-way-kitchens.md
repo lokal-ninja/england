@@ -1,5 +1,5 @@
 ---
 title: "One Way Kitchens"
 url: /southport/one-way-kitchens/
-shop: Küchen
+shop: kitchen
 ---

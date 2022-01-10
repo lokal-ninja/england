@@ -1,5 +1,5 @@
 ---
 title: "W. Boyes"
 url: /whitby/w-boyes/
-shop: Kramladen
+shop: variety store
 ---

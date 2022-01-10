@@ -1,5 +1,5 @@
 ---
 title: "G.W. Interiors"
 url: /morecambe/g-w-interiors/
-shop: Raumausstattung
+shop: interior decoration
 ---

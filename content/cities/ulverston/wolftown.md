@@ -1,5 +1,5 @@
 ---
 title: "Wolftown"
 url: /ulverston/wolftown/
-shop: Spirituosen
+shop: alcohol
 ---

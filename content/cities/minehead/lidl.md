@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /minehead/lidl/
-shop: Supermarkt
+shop: supermarket
 ---

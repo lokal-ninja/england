@@ -1,5 +1,5 @@
 ---
 title: "McColl's"
 url: /swanland/mccolls/
-shop: Lebensmittel
+shop: convenience
 ---

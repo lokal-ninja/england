@@ -1,5 +1,5 @@
 ---
 title: "Ray Man"
 url: /london/ray-man/
-shop: Instrumente
+shop: musical instrument
 ---

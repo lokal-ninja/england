@@ -1,5 +1,5 @@
 ---
 title: "Toolstation"
 url: /east-grinstead/toolstation/
-shop: Baumarkt
+shop: doityourself
 ---

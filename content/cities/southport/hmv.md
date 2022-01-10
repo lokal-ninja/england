@@ -1,5 +1,5 @@
 ---
 title: "HMV"
 url: /southport/hmv/
-shop: Musik
+shop: music
 ---

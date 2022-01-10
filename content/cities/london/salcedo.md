@@ -1,5 +1,5 @@
 ---
 title: "Salcedo"
 url: /london/salcedo/
-shop: Immobilien
+shop: estate agent
 ---

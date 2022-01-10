@@ -1,5 +1,5 @@
 ---
 title: "Bathstore"
 url: /gateshead/bathstore/
-shop: Badezimmer
+shop: bathroom
 ---

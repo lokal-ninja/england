@@ -1,5 +1,5 @@
 ---
 title: "QD Stores"
 url: /holbeach/qd-stores/
-shop: Kramladen
+shop: variety store
 ---

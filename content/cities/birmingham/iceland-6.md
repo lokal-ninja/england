@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /birmingham/iceland-6/
-shop: Tiefkühl
+shop: frozen food
 ---

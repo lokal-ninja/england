@@ -1,5 +1,5 @@
 ---
 title: "McColl's"
 url: /esher/mccolls/
-shop: Lebensmittel
+shop: convenience
 ---

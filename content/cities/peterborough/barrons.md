@@ -1,5 +1,5 @@
 ---
 title: "Barron's"
 url: /peterborough/barrons/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tesco Extra"
 url: /whitstable/tesco-extra/
-shop: Supermarkt
+shop: supermarket
 ---

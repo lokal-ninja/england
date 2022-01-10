@@ -1,5 +1,5 @@
 ---
 title: "Reynolds News"
 url: /harwich/reynolds-news/
-shop: Zeitungen
+shop: newsagent
 ---

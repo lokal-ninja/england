@@ -1,5 +1,5 @@
 ---
 title: "WeBuyAnyCar"
 url: /york/webuyanycar/
-shop: Autohaus
+shop: car
 ---

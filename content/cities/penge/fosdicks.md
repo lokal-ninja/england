@@ -1,5 +1,5 @@
 ---
 title: "Fosdick's"
 url: /penge/fosdicks/
-shop: Andenken
+shop: gift
 ---

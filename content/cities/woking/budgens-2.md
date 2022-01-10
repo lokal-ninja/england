@@ -1,5 +1,5 @@
 ---
 title: "Budgens"
 url: /woking/budgens-2/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Quilters Den"
 url: /warwick/the-quilters-den/
-shop: Basteln
+shop: craft
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Alfred's Brewery"
 url: /winchester/alfreds-brewery/
-shop: Spirituosen
+shop: alcohol
 ---

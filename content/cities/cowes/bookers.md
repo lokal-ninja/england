@@ -1,5 +1,5 @@
 ---
 title: "Bookers"
 url: /cowes/bookers/
-shop: Großhandel
+shop: wholesale
 ---

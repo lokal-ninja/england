@@ -1,5 +1,5 @@
 ---
 title: "Wiltshire Tyres"
 url: /weyhill/wiltshire-tyres/
-shop: Autowerkstatt
+shop: car repair
 ---

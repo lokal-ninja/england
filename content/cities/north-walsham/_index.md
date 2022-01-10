@@ -1,6 +1,6 @@
 ---
 title: North Walsham
 url: /north-walsham/
-latitude: 52.821
-longitude: 1.388
+latitude: 52.819
+longitude: 1.378
 ---

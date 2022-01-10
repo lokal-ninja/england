@@ -1,5 +1,5 @@
 ---
 title: "Theodosia"
 url: /newport/theodosia/
-shop: Schmuck
+shop: jewelry
 ---

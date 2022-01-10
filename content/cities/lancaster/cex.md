@@ -1,5 +1,5 @@
 ---
 title: "CeX"
 url: /lancaster/cex/
-shop: Elektronik
+shop: electronics
 ---

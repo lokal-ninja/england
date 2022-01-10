@@ -1,5 +1,5 @@
 ---
 title: "Abtech Garage Ltd"
 url: /london/abtech-garage-ltd/
-shop: Autowerkstatt
+shop: car repair
 ---

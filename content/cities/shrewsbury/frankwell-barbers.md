@@ -1,5 +1,5 @@
 ---
 title: "Frankwell Barbers"
 url: /shrewsbury/frankwell-barbers/
-shop: Friseur
+shop: hairdresser
 ---

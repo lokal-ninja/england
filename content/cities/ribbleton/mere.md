@@ -1,5 +1,5 @@
 ---
 title: "Mere"
 url: /ribbleton/mere/
-shop: Supermarkt
+shop: supermarket
 ---

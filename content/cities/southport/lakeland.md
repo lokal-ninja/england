@@ -1,5 +1,5 @@
 ---
 title: "Lakeland"
 url: /southport/lakeland/
-shop: Kleidung
+shop: clothes
 ---

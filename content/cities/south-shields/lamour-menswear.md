@@ -1,5 +1,5 @@
 ---
 title: "Lamour Menswear"
 url: /south-shields/lamour-menswear/
-shop: Kleidung
+shop: clothes
 ---

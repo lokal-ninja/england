@@ -1,5 +1,5 @@
 ---
 title: "One Stop"
 url: /gateshead/one-stop/
-shop: Lebensmittel
+shop: convenience
 ---

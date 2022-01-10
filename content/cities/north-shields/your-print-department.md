@@ -1,5 +1,5 @@
 ---
 title: "Your Print Department"
 url: /north-shields/your-print-department/
-shop: Kopieren
+shop: copyshop
 ---

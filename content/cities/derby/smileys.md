@@ -1,5 +1,5 @@
 ---
 title: "Smileys"
 url: /derby/smileys/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Main 1"
 url: /northwich/main-1/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Goodfellow and Sons Tyres"
 url: /cockermouth/goodfellow-and-sons-tyres/
-shop: Autowerkstatt
+shop: car repair
 ---

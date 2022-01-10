@@ -1,5 +1,5 @@
 ---
 title: "Tullivers"
 url: /york/tullivers/
-shop: Bioladen
+shop: health food
 ---

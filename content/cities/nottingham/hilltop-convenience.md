@@ -1,5 +1,5 @@
 ---
 title: "Hilltop Convenience"
 url: /nottingham/hilltop-convenience/
-shop: Lebensmittel
+shop: convenience
 ---

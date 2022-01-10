@@ -1,5 +1,5 @@
 ---
 title: "Wilson's Grop Nissan"
 url: /epsom/wilsons-grop-nissan/
-shop: Autohaus
+shop: car
 ---

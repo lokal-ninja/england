@@ -1,5 +1,5 @@
 ---
 title: "Waterstones"
 url: /leamington-spa/waterstones/
-shop: Bücher
+shop: books
 ---

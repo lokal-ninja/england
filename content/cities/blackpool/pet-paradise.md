@@ -1,5 +1,5 @@
 ---
 title: "Pet Paradise"
 url: /blackpool/pet-paradise/
-shop: Tiere
+shop: pet
 ---

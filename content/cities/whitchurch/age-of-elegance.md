@@ -1,5 +1,5 @@
 ---
 title: "Age of Elegance"
 url: /whitchurch/age-of-elegance/
-shop: Antiquitäten
+shop: antiques
 ---

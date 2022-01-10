@@ -1,5 +1,5 @@
 ---
 title: "Gold Arts"
 url: /chichester/gold-arts/
-shop: Schmuck
+shop: jewelry
 ---

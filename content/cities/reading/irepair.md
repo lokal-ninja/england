@@ -1,5 +1,5 @@
 ---
 title: "iRepair"
 url: /reading/irepair/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
 url: /wakefield/wilko/
-shop: Kramladen
+shop: variety store
 ---

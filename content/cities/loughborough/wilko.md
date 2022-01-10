@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
 url: /loughborough/wilko/
-shop: Kramladen
+shop: variety store
 ---

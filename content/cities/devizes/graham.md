@@ -1,5 +1,5 @@
 ---
 title: "Graham"
 url: /devizes/graham/
-shop: Baustoffe
+shop: trade
 ---

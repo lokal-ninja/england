@@ -1,5 +1,5 @@
 ---
 title: "Just to Say"
 url: /prudhoe/just-to-say/
-shop: Andenken
+shop: gift
 ---

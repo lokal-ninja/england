@@ -1,5 +1,5 @@
 ---
 title: "Village Interiors"
 url: /worthing/village-interiors/
-shop: Raumausstattung
+shop: interior decoration
 ---

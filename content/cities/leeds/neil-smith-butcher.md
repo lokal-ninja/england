@@ -1,5 +1,5 @@
 ---
 title: "Neil Smith Butcher"
 url: /leeds/neil-smith-butcher/
-shop: Metzgerei
+shop: butcher
 ---

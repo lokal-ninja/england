@@ -1,5 +1,5 @@
 ---
 title: "Halfords"
 url: /penzance/halfords/
-shop: Autoteile
+shop: car parts
 ---

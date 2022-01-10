@@ -1,5 +1,5 @@
 ---
 title: "Sing Kee Foods"
 url: /leeds/sing-kee-foods/
-shop: Großhandel
+shop: wholesale
 ---

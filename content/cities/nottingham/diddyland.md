@@ -1,5 +1,5 @@
 ---
 title: "Diddyland"
 url: /nottingham/diddyland/
-shop: Babysachen
+shop: baby goods
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /berkhamsted/spar/
-shop: Lebensmittel
+shop: convenience
 ---

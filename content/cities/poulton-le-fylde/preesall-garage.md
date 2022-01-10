@@ -1,5 +1,5 @@
 ---
 title: "Preesall Garage"
 url: /poulton-le-fylde/preesall-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

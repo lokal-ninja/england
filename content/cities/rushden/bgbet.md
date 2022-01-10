@@ -1,5 +1,5 @@
 ---
 title: "BGbet"
 url: /rushden/bgbet/
-shop: Wettbüro
+shop: bookmaker
 ---

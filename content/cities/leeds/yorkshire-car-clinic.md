@@ -1,5 +1,5 @@
 ---
 title: "Yorkshire Car Clinic"
 url: /leeds/yorkshire-car-clinic/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Body Northern Quarter"
 url: /manchester/body-northern-quarter/
-shop: Kosmetik
+shop: beauty
 ---

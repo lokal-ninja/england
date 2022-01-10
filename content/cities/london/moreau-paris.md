@@ -1,5 +1,5 @@
 ---
 title: "Moreau Paris"
 url: /london/moreau-paris/
-shop: Kleidung
+shop: clothes
 ---

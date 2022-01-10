@@ -1,5 +1,5 @@
 ---
 title: "Dolly Varden's Gifts"
 url: /shanklin/dolly-vardens-gifts/
-shop: Andenken
+shop: gift
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Timpson"
 url: /warrington/timpson/
-shop: Schlüsseldienst
+shop: locksmith
 ---

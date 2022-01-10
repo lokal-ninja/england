@@ -1,5 +1,5 @@
 ---
 title: "Lakeland Habit"
 url: /gosforth/lakeland-habit/
-shop: Lebensmittel
+shop: convenience
 ---

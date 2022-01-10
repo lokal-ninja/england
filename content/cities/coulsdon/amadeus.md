@@ -1,5 +1,5 @@
 ---
 title: "Amadeus"
 url: /coulsdon/amadeus/
-shop: Blumen
+shop: florist
 ---

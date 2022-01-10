@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /pendlebury/asda/
-shop: Supermarkt
+shop: supermarket
 ---

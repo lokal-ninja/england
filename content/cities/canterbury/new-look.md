@@ -1,5 +1,5 @@
 ---
 title: "New Look"
 url: /canterbury/new-look/
-shop: Kleidung
+shop: clothes
 ---

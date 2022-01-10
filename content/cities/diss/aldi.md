@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /diss/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wunjo Guitars Bass Centre"
 url: /london/wunjo-guitars-bass-centre/
-shop: Instrumente
+shop: musical instrument
 ---

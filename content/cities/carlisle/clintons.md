@@ -1,5 +1,5 @@
 ---
 title: "Clintons"
 url: /carlisle/clintons/
-shop: Andenken
+shop: gift
 ---

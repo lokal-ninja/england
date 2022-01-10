@@ -1,5 +1,5 @@
 ---
 title: "Clifton Service Station"
 url: /holme-on-spalding-moor/clifton-service-station/
-shop: Autowerkstatt
+shop: car repair
 ---

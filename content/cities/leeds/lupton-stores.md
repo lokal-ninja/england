@@ -1,5 +1,5 @@
 ---
 title: "Lupton Stores"
 url: /leeds/lupton-stores/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "International Supermarket"
 url: /banbury/international-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

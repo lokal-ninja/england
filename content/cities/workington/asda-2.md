@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /workington/asda-2/
-shop: Supermarkt
+shop: supermarket
 ---

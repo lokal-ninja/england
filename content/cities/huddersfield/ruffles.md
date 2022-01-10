@@ -1,5 +1,5 @@
 ---
 title: "Ruffles"
 url: /huddersfield/ruffles/
-shop: Friseur
+shop: hairdresser
 ---

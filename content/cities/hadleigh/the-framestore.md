@@ -1,5 +1,5 @@
 ---
 title: "The Framestore"
 url: /hadleigh/the-framestore/
-shop: Rahmen
+shop: frame
 ---

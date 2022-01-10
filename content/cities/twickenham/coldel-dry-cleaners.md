@@ -1,5 +1,5 @@
 ---
 title: "Coldel Dry Cleaners"
 url: /twickenham/coldel-dry-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

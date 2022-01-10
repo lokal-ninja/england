@@ -1,5 +1,5 @@
 ---
 title: "Diadem Jewellery"
 url: /altrincham/diadem-jewellery/
-shop: Schmuck
+shop: jewelry
 ---

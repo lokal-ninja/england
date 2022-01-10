@@ -1,6 +1,6 @@
 ---
 title: Badshot Lea
 url: /badshot-lea/
-latitude: 51.233
-longitude: -0.76
+latitude: 51.231
+longitude: -0.762
 ---

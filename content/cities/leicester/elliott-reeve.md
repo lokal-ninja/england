@@ -1,5 +1,5 @@
 ---
 title: "Elliott Reeve"
 url: /leicester/elliott-reeve/
-shop: Friseur
+shop: hairdresser
 ---

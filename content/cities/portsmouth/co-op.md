@@ -1,5 +1,5 @@
 ---
 title: "Co-op"
 url: /portsmouth/co-op/
-shop: Lebensmittel
+shop: convenience
 ---

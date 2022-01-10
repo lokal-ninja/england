@@ -1,5 +1,5 @@
 ---
 title: "Swanwick Post Office"
 url: /swanwick/swanwick-post-office/
-shop: Lebensmittel
+shop: convenience
 ---

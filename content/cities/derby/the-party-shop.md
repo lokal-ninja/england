@@ -1,5 +1,5 @@
 ---
 title: "The Party Shop"
 url: /derby/the-party-shop/
-shop: Haushaltsartikel
+shop: houseware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PDQ"
 url: /oakham/pdq/
-shop: Kopieren
+shop: copyshop
 ---

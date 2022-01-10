@@ -1,5 +1,5 @@
 ---
 title: "Ryman"
 url: /york/ryman/
-shop: Schreibwaren
+shop: office supplies
 ---

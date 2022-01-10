@@ -1,5 +1,5 @@
 ---
 title: "RedBox"
 url: /derby/redbox/
-shop: Schuhe
+shop: shoes
 ---

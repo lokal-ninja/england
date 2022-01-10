@@ -1,5 +1,5 @@
 ---
 title: "Underwoods Skoda / Peugeot"
 url: /colchester/underwoods-skoda-peugeot/
-shop: Autohaus
+shop: car
 ---

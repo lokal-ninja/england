@@ -1,5 +1,5 @@
 ---
 title: "Sweet Creams"
 url: /great-yarmouth/sweet-creams/
-shop: Süßwaren
+shop: confectionery
 ---

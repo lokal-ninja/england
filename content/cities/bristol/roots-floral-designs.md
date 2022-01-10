@@ -1,5 +1,5 @@
 ---
 title: "Roots Floral Designs"
 url: /bristol/roots-floral-designs/
-shop: Blumen
+shop: florist
 ---

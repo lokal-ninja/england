@@ -1,5 +1,5 @@
 ---
 title: "Cooks Corner"
 url: /chester-le-street/cooks-corner/
-shop: Zeitungen
+shop: newsagent
 ---

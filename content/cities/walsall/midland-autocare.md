@@ -1,5 +1,5 @@
 ---
 title: "Midland Autocare"
 url: /walsall/midland-autocare/
-shop: Autowerkstatt
+shop: car repair
 ---

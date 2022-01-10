@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /shaw/asda/
-shop: Supermarkt
+shop: supermarket
 ---

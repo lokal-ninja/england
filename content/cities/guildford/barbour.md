@@ -1,5 +1,5 @@
 ---
 title: "Barbour"
 url: /guildford/barbour/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fired Earth"
 url: /norwich/fired-earth/
-shop: Farben
+shop: paint
 ---

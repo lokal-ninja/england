@@ -1,5 +1,5 @@
 ---
 title: "Bespoke Tailors"
 url: /london/bespoke-tailors/
-shop: Kleidung
+shop: clothes
 ---

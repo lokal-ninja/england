@@ -1,5 +1,5 @@
 ---
 title: "Millets"
 url: /keswick/millets/
-shop: Outdoor
+shop: outdoor
 ---

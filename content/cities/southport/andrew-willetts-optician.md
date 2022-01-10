@@ -1,5 +1,5 @@
 ---
 title: "Andrew Willetts Optician"
 url: /southport/andrew-willetts-optician/
-shop: Optiker
+shop: optician
 ---

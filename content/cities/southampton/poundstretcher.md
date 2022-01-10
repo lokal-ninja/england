@@ -1,5 +1,5 @@
 ---
 title: "Poundstretcher"
 url: /southampton/poundstretcher/
-shop: Kramladen
+shop: variety store
 ---

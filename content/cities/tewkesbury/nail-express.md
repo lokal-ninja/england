@@ -1,5 +1,5 @@
 ---
 title: "Nail Express"
 url: /tewkesbury/nail-express/
-shop: Kosmetik
+shop: beauty
 ---

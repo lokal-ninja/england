@@ -1,5 +1,5 @@
 ---
 title: "Superdrug"
 url: /truro/superdrug/
-shop: Drogerie
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Muika Fashion"
 url: /walthamstow/muika-fashion/
-shop: Kleidung
+shop: clothes
 ---

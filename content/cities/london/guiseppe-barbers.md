@@ -1,5 +1,5 @@
 ---
 title: "Guiseppe Barbers"
 url: /london/guiseppe-barbers/
-shop: Friseur
+shop: hairdresser
 ---

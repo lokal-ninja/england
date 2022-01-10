@@ -1,5 +1,5 @@
 ---
 title: "Kuoni"
 url: /london/kuoni/
-shop: Reisebüro
+shop: travel agency
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Barlindene Opticians"
 url: /wallington/barlindene-opticians/
-shop: Optiker
+shop: optician
 ---

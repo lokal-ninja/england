@@ -1,5 +1,5 @@
 ---
 title: "Mistral"
 url: /dartmouth/mistral/
-shop: Allgemein
+shop: shop
 ---

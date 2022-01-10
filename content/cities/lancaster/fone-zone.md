@@ -1,5 +1,5 @@
 ---
 title: "Fone Zone"
 url: /lancaster/fone-zone/
-shop: Handy
+shop: mobile phone
 ---

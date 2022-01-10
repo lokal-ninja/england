@@ -1,5 +1,5 @@
 ---
 title: "HiQ"
 url: /lancaster/hiq/
-shop: Autowerkstatt
+shop: car repair
 ---

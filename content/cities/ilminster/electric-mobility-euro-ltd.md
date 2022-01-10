@@ -1,5 +1,5 @@
 ---
 title: "Electric Mobility Euro Ltd"
 url: /ilminster/electric-mobility-euro-ltd/
-shop: Elektronik
+shop: electronics
 ---

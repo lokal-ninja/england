@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /brandon/premier/
-shop: Lebensmittel
+shop: convenience
 ---

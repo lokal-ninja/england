@@ -1,5 +1,5 @@
 ---
 title: "Laura Ashley"
 url: /carlisle/laura-ashley/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jodrell Newsagents"
 url: /london/jodrell-newsagents/
-shop: Lebensmittel
+shop: convenience
 ---

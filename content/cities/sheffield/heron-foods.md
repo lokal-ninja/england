@@ -1,5 +1,5 @@
 ---
 title: "Heron Foods"
 url: /sheffield/heron-foods/
-shop: Supermarkt
+shop: supermarket
 ---

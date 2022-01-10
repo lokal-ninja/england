@@ -1,5 +1,5 @@
 ---
 title: "Primark"
 url: /lancaster/primark/
-shop: Kleidung
+shop: clothes
 ---

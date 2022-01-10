@@ -1,5 +1,5 @@
 ---
 title: "Home Bargains"
 url: /bury-st-edmunds/home-bargains/
-shop: Kramladen
+shop: variety store
 ---

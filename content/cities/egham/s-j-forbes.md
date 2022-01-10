@@ -1,5 +1,5 @@
 ---
 title: "S.J. Forbes"
 url: /egham/s-j-forbes/
-shop: Friseur
+shop: hairdresser
 ---

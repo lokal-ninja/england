@@ -1,5 +1,5 @@
 ---
 title: "Rockcliffe Coachworks"
 url: /whitley-bay/rockcliffe-coachworks/
-shop: Autowerkstatt
+shop: car repair
 ---

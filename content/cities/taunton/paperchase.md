@@ -1,5 +1,5 @@
 ---
 title: "Paperchase"
 url: /taunton/paperchase/
-shop: Schreibwaren
+shop: office supplies
 ---

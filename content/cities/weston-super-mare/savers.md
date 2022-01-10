@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /weston-super-mare/savers/
-shop: Lebensmittel
+shop: convenience
 ---

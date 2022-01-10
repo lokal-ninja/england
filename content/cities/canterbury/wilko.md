@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
 url: /canterbury/wilko/
-shop: Kramladen
+shop: variety store
 ---

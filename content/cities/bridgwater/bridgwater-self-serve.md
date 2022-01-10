@@ -1,5 +1,5 @@
 ---
 title: "Bridgwater Self Serve"
 url: /bridgwater/bridgwater-self-serve/
-shop: Allgemein
+shop: shop
 ---

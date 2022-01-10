@@ -1,5 +1,5 @@
 ---
 title: "Motortech"
 url: /harrogate/motortech/
-shop: Autowerkstatt
+shop: car repair
 ---

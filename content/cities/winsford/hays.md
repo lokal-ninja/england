@@ -1,5 +1,5 @@
 ---
 title: "Hays"
 url: /winsford/hays/
-shop: Reisebüro
+shop: travel agency
 ---

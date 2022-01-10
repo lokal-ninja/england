@@ -1,5 +1,5 @@
 ---
 title: "Swiss"
 url: /cambridge/swiss/
-shop: Wäscherei
+shop: laundry
 ---

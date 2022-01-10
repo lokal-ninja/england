@@ -1,5 +1,5 @@
 ---
 title: "Harriets Organic Hairdressing"
 url: /stroud/harriets-organic-hairdressing/
-shop: Friseur
+shop: hairdresser
 ---

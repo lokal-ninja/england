@@ -1,5 +1,5 @@
 ---
 title: "Godiva"
 url: /oxford/godiva/
-shop: Süßwaren
+shop: confectionery
 ---

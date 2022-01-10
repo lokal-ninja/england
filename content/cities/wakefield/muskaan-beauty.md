@@ -1,5 +1,5 @@
 ---
 title: "Muskaan Beauty"
 url: /wakefield/muskaan-beauty/
-shop: Kosmetik
+shop: beauty
 ---

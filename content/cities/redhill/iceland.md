@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /redhill/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

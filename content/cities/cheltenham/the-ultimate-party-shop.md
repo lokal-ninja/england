@@ -1,5 +1,5 @@
 ---
 title: "The Ultimate Party Shop"
 url: /cheltenham/the-ultimate-party-shop/
-shop: Allgemein
+shop: shop
 ---

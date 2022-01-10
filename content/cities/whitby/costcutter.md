@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /whitby/costcutter/
-shop: Lebensmittel
+shop: convenience
 ---

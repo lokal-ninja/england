@@ -1,5 +1,5 @@
 ---
 title: "Glamblow"
 url: /london/glamblow/
-shop: Friseur
+shop: hairdresser
 ---

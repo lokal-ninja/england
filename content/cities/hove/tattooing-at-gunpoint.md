@@ -1,5 +1,5 @@
 ---
 title: "Tattooing at Gunpoint"
 url: /hove/tattooing-at-gunpoint/
-shop: Tattoo
+shop: tattoo
 ---

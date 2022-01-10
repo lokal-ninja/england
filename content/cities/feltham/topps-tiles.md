@@ -1,5 +1,5 @@
 ---
 title: "Topps Tiles"
 url: /feltham/topps-tiles/
-shop: Fliesen
+shop: tiles
 ---

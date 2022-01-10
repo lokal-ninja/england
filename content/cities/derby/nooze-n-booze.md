@@ -1,5 +1,5 @@
 ---
 title: "Nooze n Booze"
 url: /derby/nooze-n-booze/
-shop: Lebensmittel
+shop: convenience
 ---

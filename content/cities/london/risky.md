@@ -1,5 +1,5 @@
 ---
 title: "Risky"
 url: /london/risky/
-shop: Kleidung
+shop: clothes
 ---

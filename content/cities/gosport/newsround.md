@@ -1,5 +1,5 @@
 ---
 title: "Newsround"
 url: /gosport/newsround/
-shop: Lebensmittel
+shop: convenience
 ---

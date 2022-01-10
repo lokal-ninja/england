@@ -1,5 +1,5 @@
 ---
 title: "Stations Butchers"
 url: /woodhall-spa/stations-butchers/
-shop: Metzgerei
+shop: butcher
 ---

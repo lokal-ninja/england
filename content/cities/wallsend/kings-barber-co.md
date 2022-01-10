@@ -1,5 +1,5 @@
 ---
 title: "Kings Barber Co."
 url: /wallsend/kings-barber-co/
-shop: Friseur
+shop: hairdresser
 ---

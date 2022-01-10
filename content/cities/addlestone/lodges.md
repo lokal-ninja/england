@@ -1,5 +1,5 @@
 ---
 title: "Lodges"
 url: /addlestone/lodges/
-shop: Bestattungen
+shop: funeral directors
 ---

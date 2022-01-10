@@ -1,5 +1,5 @@
 ---
 title: "Head First"
 url: /leeds/head-first/
-shop: Friseur
+shop: hairdresser
 ---

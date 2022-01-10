@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
 url: /whitehaven/wilko/
-shop: Kramladen
+shop: variety store
 ---

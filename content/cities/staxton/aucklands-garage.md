@@ -1,5 +1,5 @@
 ---
 title: "Aucklands Garage"
 url: /staxton/aucklands-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

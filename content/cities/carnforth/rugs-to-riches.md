@@ -1,5 +1,5 @@
 ---
 title: "Rugs to Riches"
 url: /carnforth/rugs-to-riches/
-shop: Teppiche
+shop: carpet
 ---

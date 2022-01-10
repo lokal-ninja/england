@@ -1,5 +1,5 @@
 ---
 title: "Wunderplay"
 url: /york/wunderplay/
-shop: Spielzeug
+shop: toys
 ---

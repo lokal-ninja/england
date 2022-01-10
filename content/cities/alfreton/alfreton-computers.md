@@ -1,5 +1,5 @@
 ---
 title: "Alfreton Computers"
 url: /alfreton/alfreton-computers/
-shop: Computer
+shop: computer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Range"
 url: /runcorn/the-range/
-shop: Haushaltsartikel
+shop: houseware
 ---

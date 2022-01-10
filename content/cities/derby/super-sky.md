@@ -1,5 +1,5 @@
 ---
 title: "Super Sky"
 url: /derby/super-sky/
-shop: Elektronik
+shop: electronics
 ---

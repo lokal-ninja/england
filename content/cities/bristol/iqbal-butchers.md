@@ -1,5 +1,5 @@
 ---
 title: "Iqbal Butchers"
 url: /bristol/iqbal-butchers/
-shop: Metzgerei
+shop: butcher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Driplocker"
 url: /lancaster/driplocker/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

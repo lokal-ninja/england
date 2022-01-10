@@ -1,5 +1,5 @@
 ---
 title: "Kings Market Store"
 url: /canterbury/kings-market-store/
-shop: Lebensmittel
+shop: convenience
 ---

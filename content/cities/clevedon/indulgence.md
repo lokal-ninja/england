@@ -1,5 +1,5 @@
 ---
 title: "Indulgence"
 url: /clevedon/indulgence/
-shop: Süßwaren
+shop: confectionery
 ---

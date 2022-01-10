@@ -1,5 +1,5 @@
 ---
 title: "Multitalent"
 url: /bristol/multitalent/
-shop: Handy
+shop: mobile phone
 ---

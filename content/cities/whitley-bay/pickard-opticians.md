@@ -1,5 +1,5 @@
 ---
 title: "Pickard Opticians"
 url: /whitley-bay/pickard-opticians/
-shop: Optiker
+shop: optician
 ---

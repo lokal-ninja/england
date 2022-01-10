@@ -1,5 +1,5 @@
 ---
 title: "Guess"
 url: /oxford/guess/
-shop: Kleidung
+shop: clothes
 ---

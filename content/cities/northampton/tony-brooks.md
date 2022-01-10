@@ -1,5 +1,5 @@
 ---
 title: "Tony Brooks"
 url: /northampton/tony-brooks/
-shop: Autohaus
+shop: car
 ---

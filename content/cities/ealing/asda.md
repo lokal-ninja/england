@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /ealing/asda/
-shop: Supermarkt
+shop: supermarket
 ---

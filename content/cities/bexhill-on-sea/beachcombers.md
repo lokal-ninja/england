@@ -1,5 +1,5 @@
 ---
 title: "Beachcombers"
 url: /bexhill-on-sea/beachcombers/
-shop: Friseur
+shop: hairdresser
 ---

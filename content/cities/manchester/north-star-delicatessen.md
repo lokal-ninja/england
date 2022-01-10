@@ -1,5 +1,5 @@
 ---
 title: "North Star Delicatessen"
 url: /manchester/north-star-delicatessen/
-shop: Feinkost
+shop: deli
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pick 'n' Mix"
 url: /ilkeston/pick-n-mix/
-shop: Süßwaren
+shop: confectionery
 ---

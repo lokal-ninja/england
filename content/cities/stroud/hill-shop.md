@@ -1,5 +1,5 @@
 ---
 title: "Hill Shop"
 url: /stroud/hill-shop/
-shop: Lebensmittel
+shop: convenience
 ---

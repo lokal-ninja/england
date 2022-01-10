@@ -1,5 +1,5 @@
 ---
 title: "TUI"
 url: /peterlee/tui/
-shop: Reisebüro
+shop: travel agency
 ---

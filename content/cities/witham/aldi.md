@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /witham/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "DNS Car Care"
 url: /st-leonards-on-sea/dns-car-care/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Toolstation"
 url: /winsford/toolstation/
-shop: Allgemein
+shop: shop
 ---

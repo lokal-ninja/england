@@ -1,5 +1,5 @@
 ---
 title: "Joules"
 url: /fareham/joules/
-shop: Kleidung
+shop: clothes
 ---

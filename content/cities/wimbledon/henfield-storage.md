@@ -1,5 +1,5 @@
 ---
 title: "Henfield Storage"
 url: /wimbledon/henfield-storage/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Little Evie"
 url: /cobham/little-evie/
-shop: Andenken
+shop: gift
 ---

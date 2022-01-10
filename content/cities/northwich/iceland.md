@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /northwich/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Squires"
 url: /newport/squires/
-shop: Friseur
+shop: hairdresser
 ---

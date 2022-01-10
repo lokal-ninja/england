@@ -1,5 +1,5 @@
 ---
 title: "Spectrum Aesthetics UK"
 url: /penrith/spectrum-aesthetics-uk/
-shop: Kosmetik
+shop: beauty
 ---

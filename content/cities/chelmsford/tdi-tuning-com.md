@@ -1,5 +1,5 @@
 ---
 title: "TDI-Tuning.com"
 url: /chelmsford/tdi-tuning-com/
-shop: Allgemein
+shop: shop
 ---

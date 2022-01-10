@@ -1,5 +1,5 @@
 ---
 title: "Notes"
 url: /london/notes/
-shop: Zeitungen
+shop: newsagent
 ---

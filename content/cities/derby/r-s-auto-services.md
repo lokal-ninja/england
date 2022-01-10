@@ -1,5 +1,5 @@
 ---
 title: "R S Auto Services"
 url: /derby/r-s-auto-services/
-shop: Autowerkstatt
+shop: car repair
 ---

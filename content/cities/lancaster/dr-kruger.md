@@ -1,5 +1,5 @@
 ---
 title: "DR Kruger"
 url: /lancaster/dr-kruger/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sid Purnell"
 url: /bristol/sid-purnell/
-shop: Metzgerei
+shop: butcher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Primark"
 url: /brighton/primark/
-shop: Kleidung
+shop: clothes
 ---

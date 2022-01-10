@@ -1,5 +1,5 @@
 ---
 title: "Hunji"
 url: /gillingham/hunji/
-shop: Handy
+shop: mobile phone
 ---

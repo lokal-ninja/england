@@ -1,5 +1,5 @@
 ---
 title: "Carpetright"
 url: /thetford/carpetright/
-shop: Teppiche
+shop: carpet
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Launderama"
 url: /reigate/launderama/
-shop: Wäscherei
+shop: laundry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /wigan/asda/
-shop: Supermarkt
+shop: supermarket
 ---

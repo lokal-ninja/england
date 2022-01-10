@@ -1,5 +1,5 @@
 ---
 title: "Finedon Convenience Store"
 url: /wellingborough/finedon-convenience-store/
-shop: Lebensmittel
+shop: convenience
 ---

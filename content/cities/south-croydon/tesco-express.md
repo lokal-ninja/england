@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /south-croydon/tesco-express/
-shop: Lebensmittel
+shop: convenience
 ---

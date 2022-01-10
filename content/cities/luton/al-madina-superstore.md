@@ -1,5 +1,5 @@
 ---
 title: "Al Madina Superstore"
 url: /luton/al-madina-superstore/
-shop: Lebensmittel
+shop: convenience
 ---

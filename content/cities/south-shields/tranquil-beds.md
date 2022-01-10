@@ -1,5 +1,5 @@
 ---
 title: "Tranquil Beds"
 url: /south-shields/tranquil-beds/
-shop: Betten
+shop: bed
 ---

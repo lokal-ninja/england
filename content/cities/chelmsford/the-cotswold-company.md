@@ -1,5 +1,5 @@
 ---
 title: "The Cotswold Company"
 url: /chelmsford/the-cotswold-company/
-shop: Raumausstattung
+shop: interior decoration
 ---

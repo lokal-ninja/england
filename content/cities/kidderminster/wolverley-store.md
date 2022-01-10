@@ -1,5 +1,5 @@
 ---
 title: "Wolverley Store"
 url: /kidderminster/wolverley-store/
-shop: Supermarkt
+shop: supermarket
 ---

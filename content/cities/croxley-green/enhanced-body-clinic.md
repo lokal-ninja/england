@@ -1,5 +1,5 @@
 ---
 title: "Enhanced Body Clinic"
 url: /croxley-green/enhanced-body-clinic/
-shop: Kosmetik
+shop: beauty
 ---

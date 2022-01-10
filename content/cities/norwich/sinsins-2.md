@@ -1,5 +1,5 @@
 ---
 title: "SinSins"
 url: /norwich/sinsins-2/
-shop: Erotik
+shop: erotic
 ---

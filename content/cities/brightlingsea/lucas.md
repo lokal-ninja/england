@@ -1,5 +1,5 @@
 ---
 title: "Lucas"
 url: /brightlingsea/lucas/
-shop: Immobilien
+shop: estate agent
 ---

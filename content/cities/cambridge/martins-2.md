@@ -1,5 +1,5 @@
 ---
 title: "Martin's"
 url: /cambridge/martins-2/
-shop: Zeitungen
+shop: newsagent
 ---

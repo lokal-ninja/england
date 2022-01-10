@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /croydon/coral-2/
-shop: Wettbüro
+shop: bookmaker
 ---

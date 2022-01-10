@@ -1,5 +1,5 @@
 ---
 title: "Brompton News"
 url: /london/brompton-news/
-shop: Lebensmittel
+shop: convenience
 ---

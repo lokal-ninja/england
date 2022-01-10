@@ -1,5 +1,5 @@
 ---
 title: "Bradleys Village Store"
 url: /keighley/bradleys-village-store/
-shop: Lebensmittel
+shop: convenience
 ---

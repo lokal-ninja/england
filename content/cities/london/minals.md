@@ -1,5 +1,5 @@
 ---
 title: "Minals"
 url: /london/minals/
-shop: Lebensmittel
+shop: convenience
 ---

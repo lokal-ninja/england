@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /waterlooville/coral/
-shop: Wettbüro
+shop: bookmaker
 ---

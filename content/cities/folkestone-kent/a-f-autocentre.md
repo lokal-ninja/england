@@ -1,5 +1,5 @@
 ---
 title: "A F Autocentre"
 url: /folkestone-kent/a-f-autocentre/
-shop: Autowerkstatt
+shop: car repair
 ---

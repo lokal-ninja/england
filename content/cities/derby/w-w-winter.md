@@ -1,5 +1,5 @@
 ---
 title: "W.W. Winter"
 url: /derby/w-w-winter/
-shop: Foto
+shop: photo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "McColl's"
 url: /preston/mccolls/
-shop: Lebensmittel
+shop: convenience
 ---

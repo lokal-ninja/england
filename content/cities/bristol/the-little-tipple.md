@@ -1,5 +1,5 @@
 ---
 title: "The Little Tipple"
 url: /bristol/the-little-tipple/
-shop: Spirituosen
+shop: alcohol
 ---

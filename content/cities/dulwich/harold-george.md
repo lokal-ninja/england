@@ -1,5 +1,5 @@
 ---
 title: "Harold George"
 url: /dulwich/harold-george/
-shop: Friseur
+shop: hairdresser
 ---

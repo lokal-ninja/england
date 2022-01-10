@@ -1,5 +1,5 @@
 ---
 title: "Heals"
 url: /workington/heals/
-shop: Optiker
+shop: optician
 ---

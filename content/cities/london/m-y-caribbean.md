@@ -1,5 +1,5 @@
 ---
 title: "M.Y.Caribbean"
 url: /london/m-y-caribbean/
-shop: Lebensmittel
+shop: convenience
 ---

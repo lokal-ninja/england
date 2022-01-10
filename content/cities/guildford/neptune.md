@@ -1,5 +1,5 @@
 ---
 title: "Neptune"
 url: /guildford/neptune/
-shop: Möbel
+shop: furniture
 ---

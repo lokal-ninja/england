@@ -1,5 +1,5 @@
 ---
 title: "Aidan's Books"
 url: /derby/aidans-books/
-shop: Bücher
+shop: books
 ---

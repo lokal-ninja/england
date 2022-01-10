@@ -1,5 +1,5 @@
 ---
 title: "Premier Bar Stores"
 url: /falmouth/premier-bar-stores/
-shop: Lebensmittel
+shop: convenience
 ---

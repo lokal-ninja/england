@@ -1,5 +1,5 @@
 ---
 title: "Vy's Nails"
 url: /london/vys-nails/
-shop: Kosmetik
+shop: beauty
 ---

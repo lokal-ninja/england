@@ -1,5 +1,5 @@
 ---
 title: "Guitar Sound"
 url: /chichester/guitar-sound/
-shop: Instrumente
+shop: musical instrument
 ---

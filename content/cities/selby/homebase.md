@@ -1,5 +1,5 @@
 ---
 title: "Homebase"
 url: /selby/homebase/
-shop: Baumarkt
+shop: doityourself
 ---

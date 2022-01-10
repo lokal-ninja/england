@@ -1,5 +1,5 @@
 ---
 title: "Paperchase"
 url: /wandsworth/paperchase/
-shop: Schreibwaren
+shop: office supplies
 ---

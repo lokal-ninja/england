@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
 url: /castleford/wilko/
-shop: Kramladen
+shop: variety store
 ---

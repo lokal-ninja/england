@@ -1,5 +1,5 @@
 ---
 title: "TN Spa Nails"
 url: /london/tn-spa-nails/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cut Loose"
 url: /hertford/cut-loose/
-shop: Friseur
+shop: hairdresser
 ---

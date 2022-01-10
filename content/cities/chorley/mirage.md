@@ -1,5 +1,5 @@
 ---
 title: "Mirage"
 url: /chorley/mirage/
-shop: Kosmetik
+shop: beauty
 ---

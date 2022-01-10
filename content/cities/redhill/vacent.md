@@ -1,5 +1,5 @@
 ---
 title: "vacent"
 url: /redhill/vacent/
-shop: Reisebüro
+shop: travel agency
 ---

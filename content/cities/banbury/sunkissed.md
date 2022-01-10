@@ -1,5 +1,5 @@
 ---
 title: "Sunkissed"
 url: /banbury/sunkissed/
-shop: Kosmetik
+shop: beauty
 ---

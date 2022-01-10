@@ -1,5 +1,5 @@
 ---
 title: "Hackney Cycles"
 url: /london/hackney-cycles/
-shop: Fahrrad
+shop: bicycle
 ---

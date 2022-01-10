@@ -1,5 +1,5 @@
 ---
 title: "Marie Curie"
 url: /newcastle-upon-tyne/marie-curie/
-shop: Gebrauchtwaren
+shop: charity
 ---

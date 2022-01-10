@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /basingstoke/ladbrokes/
-shop: Wettbüro
+shop: bookmaker
 ---

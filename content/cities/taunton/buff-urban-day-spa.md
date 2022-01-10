@@ -1,5 +1,5 @@
 ---
 title: "Buff Urban Day Spa"
 url: /taunton/buff-urban-day-spa/
-shop: Kosmetik
+shop: beauty
 ---

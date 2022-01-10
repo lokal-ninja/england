@@ -1,5 +1,5 @@
 ---
 title: "Best Zone"
 url: /caterham/best-zone/
-shop: Lebensmittel
+shop: convenience
 ---

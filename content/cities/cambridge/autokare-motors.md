@@ -1,5 +1,5 @@
 ---
 title: "AutoKare Motors"
 url: /cambridge/autokare-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

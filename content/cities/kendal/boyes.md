@@ -1,5 +1,5 @@
 ---
 title: "Boyes"
 url: /kendal/boyes/
-shop: Warenhaus
+shop: department store
 ---

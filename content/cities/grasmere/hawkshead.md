@@ -1,5 +1,5 @@
 ---
 title: "Hawkshead"
 url: /grasmere/hawkshead/
-shop: Outdoor
+shop: outdoor
 ---

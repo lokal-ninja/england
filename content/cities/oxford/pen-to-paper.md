@@ -1,5 +1,5 @@
 ---
 title: "Pen to Paper"
 url: /oxford/pen-to-paper/
-shop: Schreibwaren
+shop: office supplies
 ---

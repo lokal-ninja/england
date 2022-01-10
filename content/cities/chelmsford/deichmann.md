@@ -1,5 +1,5 @@
 ---
 title: "Deichmann"
 url: /chelmsford/deichmann/
-shop: Schuhe
+shop: shoes
 ---

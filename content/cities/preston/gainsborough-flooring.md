@@ -1,5 +1,5 @@
 ---
 title: "Gainsborough Flooring"
 url: /preston/gainsborough-flooring/
-shop: Fußböden
+shop: flooring
 ---

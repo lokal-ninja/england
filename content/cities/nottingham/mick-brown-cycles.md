@@ -1,5 +1,5 @@
 ---
 title: "Mick Brown Cycles"
 url: /nottingham/mick-brown-cycles/
-shop: Fahrrad
+shop: bicycle
 ---

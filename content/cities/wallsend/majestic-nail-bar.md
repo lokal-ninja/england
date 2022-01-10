@@ -1,5 +1,5 @@
 ---
 title: "Majestic Nail Bar"
 url: /wallsend/majestic-nail-bar/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "RajaBros"
 url: /manchester/rajabros/
-shop: Lebensmittel
+shop: convenience
 ---

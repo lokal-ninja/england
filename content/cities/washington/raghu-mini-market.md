@@ -1,5 +1,5 @@
 ---
 title: "Raghu Mini Market"
 url: /washington/raghu-mini-market/
-shop: Lebensmittel
+shop: convenience
 ---

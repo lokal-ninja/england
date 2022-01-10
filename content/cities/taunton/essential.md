@@ -1,5 +1,5 @@
 ---
 title: "Essential"
 url: /taunton/essential/
-shop: Kosmetik
+shop: beauty
 ---

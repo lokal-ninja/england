@@ -1,5 +1,5 @@
 ---
 title: "Superdrug"
 url: /sutton-coldfield/superdrug/
-shop: Drogerie
+shop: chemist
 ---

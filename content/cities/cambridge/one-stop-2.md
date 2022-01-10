@@ -1,5 +1,5 @@
 ---
 title: "One Stop"
 url: /cambridge/one-stop-2/
-shop: Supermarkt
+shop: supermarket
 ---

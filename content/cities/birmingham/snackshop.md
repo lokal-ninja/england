@@ -1,5 +1,5 @@
 ---
 title: "Snackshop"
 url: /birmingham/snackshop/
-shop: Lebensmittel
+shop: convenience
 ---

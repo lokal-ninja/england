@@ -1,5 +1,5 @@
 ---
 title: "Sasie"
 url: /nottingham/sasie/
-shop: Energie
+shop: energy
 ---

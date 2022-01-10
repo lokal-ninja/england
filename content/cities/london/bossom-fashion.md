@@ -1,5 +1,5 @@
 ---
 title: "Bossom Fashion"
 url: /london/bossom-fashion/
-shop: Kleidung
+shop: clothes
 ---

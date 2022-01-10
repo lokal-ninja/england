@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /torpoint/londis/
-shop: Lebensmittel
+shop: convenience
 ---

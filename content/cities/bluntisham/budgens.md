@@ -1,5 +1,5 @@
 ---
 title: "Budgens"
 url: /bluntisham/budgens/
-shop: Supermarkt
+shop: supermarket
 ---

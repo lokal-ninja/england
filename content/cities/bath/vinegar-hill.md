@@ -1,5 +1,5 @@
 ---
 title: "Vinegar Hill"
 url: /bath/vinegar-hill/
-shop: Raumausstattung
+shop: interior decoration
 ---

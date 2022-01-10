@@ -1,5 +1,5 @@
 ---
 title: "Ahernes"
 url: /skipton/ahernes/
-shop: Kleidung
+shop: clothes
 ---

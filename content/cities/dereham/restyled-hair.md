@@ -1,5 +1,5 @@
 ---
 title: "Restyled Hair"
 url: /dereham/restyled-hair/
-shop: Friseur
+shop: hairdresser
 ---

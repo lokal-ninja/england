@@ -1,5 +1,5 @@
 ---
 title: "Dabners Premier Pet Shop"
 url: /croydon/dabners-premier-pet-shop/
-shop: Tiere
+shop: pet
 ---

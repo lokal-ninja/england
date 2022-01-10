@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /minehead/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

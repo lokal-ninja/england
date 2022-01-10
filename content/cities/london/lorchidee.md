@@ -1,5 +1,5 @@
 ---
 title: "L'Orchidee"
 url: /london/lorchidee/
-shop: Süßwaren
+shop: confectionery
 ---

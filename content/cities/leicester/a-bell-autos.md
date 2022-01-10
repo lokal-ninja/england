@@ -1,5 +1,5 @@
 ---
 title: "A Bell Autos"
 url: /leicester/a-bell-autos/
-shop: Autowerkstatt
+shop: car repair
 ---

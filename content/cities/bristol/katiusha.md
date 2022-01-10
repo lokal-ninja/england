@@ -1,5 +1,5 @@
 ---
 title: "Катюша"
 url: /bristol/katiusha/
-shop: Feinkost
+shop: deli
 ---

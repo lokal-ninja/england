@@ -1,5 +1,5 @@
 ---
 title: "Olivia Naylor Clinic"
 url: /stockport/olivia-naylor-clinic/
-shop: Kosmetik
+shop: beauty
 ---

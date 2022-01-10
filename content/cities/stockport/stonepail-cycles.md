@@ -1,5 +1,5 @@
 ---
 title: "Stonepail Cycles"
 url: /stockport/stonepail-cycles/
-shop: Fahrrad
+shop: bicycle
 ---

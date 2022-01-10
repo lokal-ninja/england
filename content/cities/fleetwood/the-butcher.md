@@ -1,5 +1,5 @@
 ---
 title: "The Butcher"
 url: /fleetwood/the-butcher/
-shop: Friseur
+shop: hairdresser
 ---

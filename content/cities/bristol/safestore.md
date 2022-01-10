@@ -1,5 +1,5 @@
 ---
 title: "Safestore"
 url: /bristol/safestore/
-shop: Mieten
+shop: storage rental
 ---

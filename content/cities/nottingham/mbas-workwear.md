@@ -1,5 +1,5 @@
 ---
 title: "MBAS Workwear"
 url: /nottingham/mbas-workwear/
-shop: Kleidung
+shop: clothes
 ---

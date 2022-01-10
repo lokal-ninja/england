@@ -1,5 +1,5 @@
 ---
 title: "Sam 99p"
 url: /london/sam-99p/
-shop: Kramladen
+shop: variety store
 ---

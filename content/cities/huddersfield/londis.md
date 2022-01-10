@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /huddersfield/londis/
-shop: Lebensmittel
+shop: convenience
 ---

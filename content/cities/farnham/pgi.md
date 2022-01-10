@@ -1,5 +1,5 @@
 ---
 title: "PGI"
 url: /farnham/pgi/
-shop: Autohaus
+shop: car
 ---

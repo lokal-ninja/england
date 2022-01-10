@@ -1,5 +1,5 @@
 ---
 title: "Celestolite"
 url: /london/celestolite/
-shop: Kosmetik
+shop: beauty
 ---

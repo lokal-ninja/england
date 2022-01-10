@@ -1,5 +1,5 @@
 ---
 title: "Body Shop"
 url: /carlisle/body-shop/
-shop: Kosmetik
+shop: beauty
 ---

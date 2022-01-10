@@ -1,5 +1,5 @@
 ---
 title: "Cooplands"
 url: /doncaster/cooplands-6/
-shop: Bäckerei
+shop: bakery
 ---

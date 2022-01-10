@@ -1,5 +1,5 @@
 ---
 title: "Lajkonik"
 url: /spalding/lajkonik/
-shop: Supermarkt
+shop: supermarket
 ---

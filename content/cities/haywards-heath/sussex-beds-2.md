@@ -1,5 +1,5 @@
 ---
 title: "Sussex Beds"
 url: /haywards-heath/sussex-beds-2/
-shop: Möbel
+shop: furniture
 ---

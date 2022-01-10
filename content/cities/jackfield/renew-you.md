@@ -1,5 +1,5 @@
 ---
 title: "Renew You"
 url: /jackfield/renew-you/
-shop: Friseur
+shop: hairdresser
 ---

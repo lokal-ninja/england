@@ -1,5 +1,5 @@
 ---
 title: "P. Robinson"
 url: /manchester/p-robinson/
-shop: Metzgerei
+shop: butcher
 ---

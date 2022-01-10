@@ -1,5 +1,5 @@
 ---
 title: "R.E. Farm Ltd"
 url: /derby/r-e-farm-ltd/
-shop: Allgemein
+shop: shop
 ---

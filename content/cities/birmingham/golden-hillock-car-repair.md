@@ -1,5 +1,5 @@
 ---
 title: "Golden Hillock Car Repair"
 url: /birmingham/golden-hillock-car-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

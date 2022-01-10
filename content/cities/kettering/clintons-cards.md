@@ -1,5 +1,5 @@
 ---
 title: "Clintons Cards"
 url: /kettering/clintons-cards/
-shop: Andenken
+shop: gift
 ---

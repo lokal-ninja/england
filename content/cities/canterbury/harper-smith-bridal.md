@@ -1,5 +1,5 @@
 ---
 title: "Harper Smith Bridal"
 url: /canterbury/harper-smith-bridal/
-shop: Kleidung
+shop: clothes
 ---

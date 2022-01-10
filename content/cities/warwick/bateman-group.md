@@ -1,5 +1,5 @@
 ---
 title: "Bateman Group"
 url: /warwick/bateman-group/
-shop: Allgemein
+shop: shop
 ---

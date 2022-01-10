@@ -1,5 +1,5 @@
 ---
 title: "Orwell Stores"
 url: /ipswich/orwell-stores/
-shop: Lebensmittel
+shop: convenience
 ---

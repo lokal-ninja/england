@@ -1,5 +1,5 @@
 ---
 title: "Tippers.com"
 url: /rugeley/tippers-com/
-shop: Baumarkt
+shop: doityourself
 ---

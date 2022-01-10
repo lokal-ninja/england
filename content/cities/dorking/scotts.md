@@ -1,5 +1,5 @@
 ---
 title: "Scotts"
 url: /dorking/scotts/
-shop: Schmuck
+shop: jewelry
 ---

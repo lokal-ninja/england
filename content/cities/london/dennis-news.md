@@ -1,5 +1,5 @@
 ---
 title: "Denni's News"
 url: /london/dennis-news/
-shop: Lebensmittel
+shop: convenience
 ---

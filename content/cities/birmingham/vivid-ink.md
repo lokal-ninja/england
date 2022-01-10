@@ -1,5 +1,5 @@
 ---
 title: "Vivid Ink"
 url: /birmingham/vivid-ink/
-shop: Tattoo
+shop: tattoo
 ---

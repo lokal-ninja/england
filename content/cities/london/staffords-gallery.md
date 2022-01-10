@@ -1,5 +1,5 @@
 ---
 title: "Staffords Gallery"
 url: /london/staffords-gallery/
-shop: Rahmen
+shop: frame
 ---

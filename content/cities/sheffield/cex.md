@@ -1,5 +1,5 @@
 ---
 title: "CeX"
 url: /sheffield/cex/
-shop: Elektronik
+shop: electronics
 ---

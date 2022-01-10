@@ -1,5 +1,5 @@
 ---
 title: "Dolly Mama"
 url: /darlington/dolly-mama/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
 url: /letchworth-garden-city/wilko/
-shop: Kramladen
+shop: variety store
 ---

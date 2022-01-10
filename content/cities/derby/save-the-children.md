@@ -1,5 +1,5 @@
 ---
 title: "Save the Children"
 url: /derby/save-the-children/
-shop: Gebrauchtwaren
+shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nisbets"
 url: /birmingham/nisbets/
-shop: Catering
+shop: catering
 ---

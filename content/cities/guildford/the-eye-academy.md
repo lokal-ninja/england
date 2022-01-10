@@ -1,5 +1,5 @@
 ---
 title: "The Eye Academy"
 url: /guildford/the-eye-academy/
-shop: Optiker
+shop: optician
 ---

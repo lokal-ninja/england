@@ -1,5 +1,5 @@
 ---
 title: "TUI"
 url: /dereham/tui/
-shop: Reisebüro
+shop: travel agency
 ---

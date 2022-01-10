@@ -1,5 +1,5 @@
 ---
 title: "PHAB"
 url: /spennymoor/phab/
-shop: Friseur
+shop: hairdresser
 ---

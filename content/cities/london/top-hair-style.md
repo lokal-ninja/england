@@ -1,5 +1,5 @@
 ---
 title: "Top Hair Style"
 url: /london/top-hair-style/
-shop: Friseur
+shop: hairdresser
 ---

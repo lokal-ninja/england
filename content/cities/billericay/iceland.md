@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /billericay/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

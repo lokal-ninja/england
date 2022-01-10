@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
 url: /gravesend/wilko/
-shop: Kramladen
+shop: variety store
 ---

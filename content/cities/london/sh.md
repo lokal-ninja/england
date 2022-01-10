@@ -1,5 +1,5 @@
 ---
 title: "sh!"
 url: /london/sh/
-shop: Erotik
+shop: erotic
 ---

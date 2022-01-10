@@ -1,5 +1,5 @@
 ---
 title: "Rozanna"
 url: /darlington/rozanna/
-shop: Friseur
+shop: hairdresser
 ---

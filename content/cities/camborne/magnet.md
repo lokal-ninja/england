@@ -1,5 +1,5 @@
 ---
 title: "Magnet"
 url: /camborne/magnet/
-shop: Küchen
+shop: kitchen
 ---

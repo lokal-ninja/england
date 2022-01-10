@@ -1,5 +1,5 @@
 ---
 title: "Sports Nutrition"
 url: /hockliffe/sports-nutrition/
-shop: Lebensmittel
+shop: convenience
 ---

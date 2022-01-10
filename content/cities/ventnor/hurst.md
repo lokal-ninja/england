@@ -1,5 +1,5 @@
 ---
 title: "Hurst"
 url: /ventnor/hurst/
-shop: Eisenwaren
+shop: hardware
 ---

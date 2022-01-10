@@ -1,5 +1,5 @@
 ---
 title: "Ponden Home Interiors"
 url: /gateshead/ponden-home-interiors/
-shop: Raumausstattung
+shop: interior decoration
 ---

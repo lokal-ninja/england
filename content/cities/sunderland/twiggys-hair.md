@@ -1,5 +1,5 @@
 ---
 title: "Twiggy's Hair"
 url: /sunderland/twiggys-hair/
-shop: Friseur
+shop: hairdresser
 ---

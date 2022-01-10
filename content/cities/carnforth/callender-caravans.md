@@ -1,5 +1,5 @@
 ---
 title: "Callender Caravans"
 url: /carnforth/callender-caravans/
-shop: Wohnwagen
+shop: caravan
 ---

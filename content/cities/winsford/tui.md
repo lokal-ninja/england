@@ -1,5 +1,5 @@
 ---
 title: "TUI"
 url: /winsford/tui/
-shop: Reisebüro
+shop: travel agency
 ---

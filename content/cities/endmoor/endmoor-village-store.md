@@ -1,5 +1,5 @@
 ---
 title: "Endmoor Village Store"
 url: /endmoor/endmoor-village-store/
-shop: Lebensmittel
+shop: convenience
 ---

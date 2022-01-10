@@ -1,5 +1,5 @@
 ---
 title: "Highfield Service Centre"
 url: /south-shields/highfield-service-centre/
-shop: Autowerkstatt
+shop: car repair
 ---

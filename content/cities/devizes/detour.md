@@ -1,5 +1,5 @@
 ---
 title: "Detour"
 url: /devizes/detour/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "NMJ Service Centre Limited"
 url: /edlesborough/nmj-service-centre-limited/
-shop: Autowerkstatt
+shop: car repair
 ---

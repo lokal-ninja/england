@@ -1,5 +1,5 @@
 ---
 title: "Atwell Martin"
 url: /chippenham/atwell-martin/
-shop: Immobilien
+shop: estate agent
 ---

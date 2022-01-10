@@ -1,5 +1,5 @@
 ---
 title: "Alauddin Sweets"
 url: /london/alauddin-sweets/
-shop: Süßwaren
+shop: confectionery
 ---

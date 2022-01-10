@@ -1,5 +1,5 @@
 ---
 title: "Regent Photographics"
 url: /great-yarmouth/regent-photographics/
-shop: Kamera
+shop: camera
 ---

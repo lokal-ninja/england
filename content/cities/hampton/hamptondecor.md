@@ -1,5 +1,5 @@
 ---
 title: "Hamptondecor"
 url: /hampton/hamptondecor/
-shop: Baumarkt
+shop: doityourself
 ---

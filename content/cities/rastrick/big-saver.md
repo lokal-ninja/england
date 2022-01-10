@@ -1,5 +1,5 @@
 ---
 title: "Big Saver"
 url: /rastrick/big-saver/
-shop: Lebensmittel
+shop: convenience
 ---

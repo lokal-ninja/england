@@ -1,5 +1,5 @@
 ---
 title: "Preston Carpets"
 url: /wembley/preston-carpets/
-shop: Teppiche
+shop: carpet
 ---

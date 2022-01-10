@@ -1,5 +1,5 @@
 ---
 title: "Kennadys"
 url: /ingatestone/kennadys/
-shop: Friseur
+shop: hairdresser
 ---

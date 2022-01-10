@@ -1,5 +1,5 @@
 ---
 title: "Missguided"
 url: /london/missguided/
-shop: Kleidung
+shop: clothes
 ---

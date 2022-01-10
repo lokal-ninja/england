@@ -1,5 +1,5 @@
 ---
 title: "Intasound"
 url: /leicester/intasound/
-shop: Instrumente
+shop: musical instrument
 ---

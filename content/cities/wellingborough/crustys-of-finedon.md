@@ -1,5 +1,5 @@
 ---
 title: "Crusty's of Finedon"
 url: /wellingborough/crustys-of-finedon/
-shop: Bäckerei
+shop: bakery
 ---

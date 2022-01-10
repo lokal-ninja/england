@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /northolt/costcutter/
-shop: Lebensmittel
+shop: convenience
 ---

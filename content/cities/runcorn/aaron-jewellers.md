@@ -1,5 +1,5 @@
 ---
 title: "Aaron Jewellers"
 url: /runcorn/aaron-jewellers/
-shop: Schmuck
+shop: jewelry
 ---

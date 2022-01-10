@@ -1,5 +1,5 @@
 ---
 title: "Oldfields"
 url: /headcorn/oldfields/
-shop: Zeitungen
+shop: newsagent
 ---

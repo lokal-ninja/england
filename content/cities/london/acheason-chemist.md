@@ -1,5 +1,5 @@
 ---
 title: "Acheason Chemist"
 url: /london/acheason-chemist/
-shop: Drogerie
+shop: chemist
 ---

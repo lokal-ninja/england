@@ -1,5 +1,5 @@
 ---
 title: "Ruxtons"
 url: /kendal/ruxtons/
-shop: Bestattungen
+shop: funeral directors
 ---

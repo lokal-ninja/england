@@ -1,5 +1,5 @@
 ---
 title: "Chigwell Nursery"
 url: /chigwell/chigwell-nursery/
-shop: Garten-Center
+shop: garden centre
 ---

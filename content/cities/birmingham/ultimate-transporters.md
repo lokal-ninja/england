@@ -1,5 +1,5 @@
 ---
 title: "Ultimate Transporters"
 url: /birmingham/ultimate-transporters/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rackhams Funeral Services"
 url: /diss/rackhams-funeral-services/
-shop: Bestattungen
+shop: funeral directors
 ---

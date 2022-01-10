@@ -1,5 +1,5 @@
 ---
 title: "Martins"
 url: /storrington/martins/
-shop: Lebensmittel
+shop: convenience
 ---

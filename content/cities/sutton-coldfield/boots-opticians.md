@@ -1,5 +1,5 @@
 ---
 title: "Boots Opticians"
 url: /sutton-coldfield/boots-opticians/
-shop: Optiker
+shop: optician
 ---

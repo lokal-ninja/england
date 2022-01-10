@@ -1,5 +1,5 @@
 ---
 title: "King Street Minimarket"
 url: /great-yarmouth/king-street-minimarket/
-shop: Lebensmittel
+shop: convenience
 ---

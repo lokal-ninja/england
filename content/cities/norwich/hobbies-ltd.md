@@ -1,5 +1,5 @@
 ---
 title: "Hobbies Ltd"
 url: /norwich/hobbies-ltd/
-shop: Spielzeug
+shop: toys
 ---

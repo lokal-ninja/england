@@ -1,5 +1,5 @@
 ---
 title: "Harpers"
 url: /pepperstock/harpers/
-shop: Metzgerei
+shop: butcher
 ---

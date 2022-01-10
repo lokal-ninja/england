@@ -1,5 +1,5 @@
 ---
 title: "SF Carriage Company"
 url: /london/sf-carriage-company/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Beresfords"
 url: /cowes/beresfords/
-shop: Friseur
+shop: hairdresser
 ---

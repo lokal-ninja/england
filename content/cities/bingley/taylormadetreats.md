@@ -1,5 +1,5 @@
 ---
 title: "Taylormadetreats"
 url: /bingley/taylormadetreats/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bodycare"
 url: /scunthorpe/bodycare/
-shop: Kosmetik
+shop: beauty
 ---

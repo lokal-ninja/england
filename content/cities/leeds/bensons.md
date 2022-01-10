@@ -1,5 +1,5 @@
 ---
 title: "Bensons"
 url: /leeds/bensons/
-shop: Bestattungen
+shop: funeral directors
 ---

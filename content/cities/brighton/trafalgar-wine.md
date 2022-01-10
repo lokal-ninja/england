@@ -1,5 +1,5 @@
 ---
 title: "Trafalgar Wine"
 url: /brighton/trafalgar-wine/
-shop: Spirituosen
+shop: alcohol
 ---

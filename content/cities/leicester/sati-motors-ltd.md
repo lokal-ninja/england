@@ -1,5 +1,5 @@
 ---
 title: "Sati Motors Ltd"
 url: /leicester/sati-motors-ltd/
-shop: Autowerkstatt
+shop: car repair
 ---

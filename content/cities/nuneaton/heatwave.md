@@ -1,5 +1,5 @@
 ---
 title: "Heatwave"
 url: /nuneaton/heatwave/
-shop: Kosmetik
+shop: beauty
 ---

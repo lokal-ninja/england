@@ -1,5 +1,5 @@
 ---
 title: "Access All Areas"
 url: /london/access-all-areas/
-shop: Tickets
+shop: ticket
 ---

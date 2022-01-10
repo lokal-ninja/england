@@ -1,5 +1,5 @@
 ---
 title: "Toast"
 url: /york/toast/
-shop: Kleidung
+shop: clothes
 ---

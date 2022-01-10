@@ -1,5 +1,5 @@
 ---
 title: "Cookhouse Design"
 url: /york/cookhouse-design/
-shop: Küchen
+shop: kitchen
 ---

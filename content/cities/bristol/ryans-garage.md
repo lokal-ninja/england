@@ -1,5 +1,5 @@
 ---
 title: "Ryans Garage"
 url: /bristol/ryans-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

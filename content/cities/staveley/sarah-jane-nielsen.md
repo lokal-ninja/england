@@ -1,5 +1,5 @@
 ---
 title: "Sarah Jane Nielsen"
 url: /staveley/sarah-jane-nielsen/
-shop: Raumausstattung
+shop: interior decoration
 ---

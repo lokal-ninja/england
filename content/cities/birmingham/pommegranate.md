@@ -1,5 +1,5 @@
 ---
 title: "Pommegranate"
 url: /birmingham/pommegranate/
-shop: Raumausstattung
+shop: interior decoration
 ---

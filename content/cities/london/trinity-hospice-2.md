@@ -1,5 +1,5 @@
 ---
 title: "Trinity Hospice"
 url: /london/trinity-hospice-2/
-shop: Kleidung
+shop: clothes
 ---

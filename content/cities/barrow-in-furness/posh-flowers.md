@@ -1,5 +1,5 @@
 ---
 title: "Posh Flowers"
 url: /barrow-in-furness/posh-flowers/
-shop: Blumen
+shop: florist
 ---

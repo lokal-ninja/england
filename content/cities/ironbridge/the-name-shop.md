@@ -1,5 +1,5 @@
 ---
 title: "The Name Shop"
 url: /ironbridge/the-name-shop/
-shop: Andenken
+shop: gift
 ---

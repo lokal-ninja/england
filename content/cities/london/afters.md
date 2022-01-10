@@ -1,5 +1,5 @@
 ---
 title: "After's"
 url: /london/afters/
-shop: Eisprodukte
+shop: ice cream
 ---

@@ -1,5 +1,5 @@
 ---
 title: "L'Agent"
 url: /london/lagent/
-shop: Kleidung
+shop: clothes
 ---

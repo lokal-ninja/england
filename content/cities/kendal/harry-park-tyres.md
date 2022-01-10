@@ -1,5 +1,5 @@
 ---
 title: "Harry Park Tyres"
 url: /kendal/harry-park-tyres/
-shop: Reifen
+shop: tyres
 ---

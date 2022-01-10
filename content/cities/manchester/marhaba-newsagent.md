@@ -1,5 +1,5 @@
 ---
 title: "Marhaba Newsagent"
 url: /manchester/marhaba-newsagent/
-shop: Zeitungen
+shop: newsagent
 ---

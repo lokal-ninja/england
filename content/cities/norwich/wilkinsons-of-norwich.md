@@ -1,5 +1,5 @@
 ---
 title: "Wilkinson's of Norwich"
 url: /norwich/wilkinsons-of-norwich/
-shop: Tee
+shop: tea
 ---

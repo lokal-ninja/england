@@ -1,5 +1,5 @@
 ---
 title: "Boyes"
 url: /nottingham/boyes/
-shop: Warenhaus
+shop: department store
 ---

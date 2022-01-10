@@ -1,5 +1,5 @@
 ---
 title: "Tsunami"
 url: /southampton/tsunami/
-shop: Friseur
+shop: hairdresser
 ---

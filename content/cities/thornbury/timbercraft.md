@@ -1,5 +1,5 @@
 ---
 title: "Timbercraft"
 url: /thornbury/timbercraft/
-shop: Allgemein
+shop: shop
 ---

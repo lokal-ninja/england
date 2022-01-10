@@ -1,5 +1,5 @@
 ---
 title: "J Edwards"
 url: /havant/j-edwards/
-shop: Bestattungen
+shop: funeral directors
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pillowtalk"
 url: /southport/pillowtalk/
-shop: Betten
+shop: bed
 ---

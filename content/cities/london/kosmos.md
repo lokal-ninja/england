@@ -1,5 +1,5 @@
 ---
 title: "Kosmos"
 url: /london/kosmos/
-shop: Kleidung
+shop: clothes
 ---

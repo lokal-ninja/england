@@ -1,5 +1,5 @@
 ---
 title: "Progression Signage"
 url: /capel/progression-signage/
-shop: Kopieren
+shop: copyshop
 ---

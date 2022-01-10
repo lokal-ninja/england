@@ -1,5 +1,5 @@
 ---
 title: "Click Plastics"
 url: /widnes/click-plastics/
-shop: Allgemein
+shop: shop
 ---

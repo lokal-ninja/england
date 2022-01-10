@@ -1,5 +1,5 @@
 ---
 title: "The Big Cheese"
 url: /minehead/the-big-cheese/
-shop: Käse
+shop: cheese
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Martin Murray Colin Narbeth"
 url: /london/martin-murray-colin-narbeth/
-shop: Sammler
+shop: collector
 ---

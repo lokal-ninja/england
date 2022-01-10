@@ -1,5 +1,5 @@
 ---
 title: "Boydens"
 url: /colchester/boydens/
-shop: Immobilien
+shop: estate agent
 ---

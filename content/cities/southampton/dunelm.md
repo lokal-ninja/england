@@ -1,5 +1,5 @@
 ---
 title: "Dunelm"
 url: /southampton/dunelm/
-shop: Möbel
+shop: furniture
 ---

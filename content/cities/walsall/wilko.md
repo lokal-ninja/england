@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
 url: /walsall/wilko/
-shop: Kramladen
+shop: variety store
 ---

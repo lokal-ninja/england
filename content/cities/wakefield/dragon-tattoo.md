@@ -1,5 +1,5 @@
 ---
 title: "Dragon Tattoo"
 url: /wakefield/dragon-tattoo/
-shop: Tattoo
+shop: tattoo
 ---

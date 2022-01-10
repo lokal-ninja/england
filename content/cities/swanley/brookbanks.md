@@ -1,5 +1,5 @@
 ---
 title: "Brookbanks"
 url: /swanley/brookbanks/
-shop: Immobilien
+shop: estate agent
 ---

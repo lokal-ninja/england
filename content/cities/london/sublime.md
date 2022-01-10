@@ -1,5 +1,5 @@
 ---
 title: "Sublime"
 url: /london/sublime/
-shop: Kleidung
+shop: clothes
 ---

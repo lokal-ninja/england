@@ -1,5 +1,5 @@
 ---
 title: "Hillarys"
 url: /bristol/hillarys/
-shop: Raumausstattung
+shop: interior decoration
 ---

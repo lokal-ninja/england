@@ -1,5 +1,5 @@
 ---
 title: "Sainsbury's"
 url: /edgware/sainsburys/
-shop: Supermarkt
+shop: supermarket
 ---

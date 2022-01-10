@@ -1,5 +1,5 @@
 ---
 title: "Saygees Ink"
 url: /birmingham/saygees-ink/
-shop: Tattoo
+shop: tattoo
 ---

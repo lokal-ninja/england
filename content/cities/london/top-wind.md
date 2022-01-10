@@ -1,5 +1,5 @@
 ---
 title: "Top Wind"
 url: /london/top-wind/
-shop: Instrumente
+shop: musical instrument
 ---

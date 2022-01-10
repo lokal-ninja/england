@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /sandbach/ladbrokes/
-shop: Wettbüro
+shop: bookmaker
 ---

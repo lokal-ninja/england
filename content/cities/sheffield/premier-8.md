@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /sheffield/premier-8/
-shop: Lebensmittel
+shop: convenience
 ---

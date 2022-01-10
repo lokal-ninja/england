@@ -1,5 +1,5 @@
 ---
 title: "Gift + Home"
 url: /altrincham/gift-home/
-shop: Andenken
+shop: gift
 ---

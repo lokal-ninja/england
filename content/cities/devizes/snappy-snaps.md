@@ -1,5 +1,5 @@
 ---
 title: "Snappy Snaps"
 url: /devizes/snappy-snaps/
-shop: Foto
+shop: photo
 ---

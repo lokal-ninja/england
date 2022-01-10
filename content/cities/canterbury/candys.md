@@ -1,5 +1,5 @@
 ---
 title: "Candy's"
 url: /canterbury/candys/
-shop: Lebensmittel
+shop: convenience
 ---

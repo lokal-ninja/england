@@ -1,5 +1,5 @@
 ---
 title: "Boots Opticians"
 url: /kings-lynn/boots-opticians/
-shop: Optiker
+shop: optician
 ---

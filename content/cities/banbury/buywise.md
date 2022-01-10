@@ -1,5 +1,5 @@
 ---
 title: "Buywise"
 url: /banbury/buywise/
-shop: Haushaltsgeräte
+shop: appliance
 ---

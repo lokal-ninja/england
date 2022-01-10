@@ -1,5 +1,5 @@
 ---
 title: "Sahara"
 url: /bury-st-edmunds/sahara/
-shop: Kleidung
+shop: clothes
 ---

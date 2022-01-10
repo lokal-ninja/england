@@ -1,5 +1,5 @@
 ---
 title: "Belavia Belarusian Airlines"
 url: /london/belavia-belarusian-airlines/
-shop: Reisebüro
+shop: travel agency
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Druce"
 url: /leiston/druce/
-shop: Immobilien
+shop: estate agent
 ---

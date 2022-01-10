@@ -1,5 +1,5 @@
 ---
 title: "PG's"
 url: /mablethorpe/pgs/
-shop: Kramladen
+shop: variety store
 ---

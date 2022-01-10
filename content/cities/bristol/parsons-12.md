@@ -1,5 +1,5 @@
 ---
 title: "Parsons"
 url: /bristol/parsons-12/
-shop: Bäckerei
+shop: bakery
 ---

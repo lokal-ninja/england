@@ -1,5 +1,5 @@
 ---
 title: "Newsflash"
 url: /purley/newsflash/
-shop: Zeitungen
+shop: newsagent
 ---

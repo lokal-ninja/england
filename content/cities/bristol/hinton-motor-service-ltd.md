@@ -1,5 +1,5 @@
 ---
 title: "Hinton Motor Service Ltd"
 url: /bristol/hinton-motor-service-ltd/
-shop: Autowerkstatt
+shop: car repair
 ---

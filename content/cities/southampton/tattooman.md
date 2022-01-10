@@ -1,5 +1,5 @@
 ---
 title: "Tattooman"
 url: /southampton/tattooman/
-shop: Tattoo
+shop: tattoo
 ---

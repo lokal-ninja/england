@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /leigh-on-sea/tesco-express/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chesterton Carpets"
 url: /cambridge/chesterton-carpets/
-shop: Teppiche
+shop: carpet
 ---

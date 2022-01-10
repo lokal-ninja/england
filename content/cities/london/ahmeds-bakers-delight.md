@@ -1,5 +1,5 @@
 ---
 title: "Ahmed's Bakers Delight"
 url: /london/ahmeds-bakers-delight/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "S. T. Engineering"
 url: /haslemere/s-t-engineering/
-shop: Autowerkstatt
+shop: car repair
 ---

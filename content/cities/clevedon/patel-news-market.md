@@ -1,5 +1,5 @@
 ---
 title: "Patel News Market"
 url: /clevedon/patel-news-market/
-shop: Lebensmittel
+shop: convenience
 ---

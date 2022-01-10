@@ -1,5 +1,5 @@
 ---
 title: "Rowcliffes"
 url: /yeovil/rowcliffes/
-shop: Autohaus
+shop: car
 ---

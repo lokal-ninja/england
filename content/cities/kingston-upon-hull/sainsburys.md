@@ -1,5 +1,5 @@
 ---
 title: "Sainsbury's"
 url: /kingston-upon-hull/sainsburys/
-shop: Lebensmittel
+shop: convenience
 ---

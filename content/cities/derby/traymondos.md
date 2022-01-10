@@ -1,5 +1,5 @@
 ---
 title: "Traymondos"
 url: /derby/traymondos/
-shop: Andenken
+shop: gift
 ---

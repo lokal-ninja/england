@@ -1,5 +1,5 @@
 ---
 title: "Classeys"
 url: /leyland/classeys/
-shop: Friseur
+shop: hairdresser
 ---

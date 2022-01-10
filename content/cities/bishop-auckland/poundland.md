@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /bishop-auckland/poundland/
-shop: Kramladen
+shop: variety store
 ---

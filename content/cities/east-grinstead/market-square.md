@@ -1,5 +1,5 @@
 ---
 title: "Market Square"
 url: /east-grinstead/market-square/
-shop: Lebensmittel
+shop: convenience
 ---

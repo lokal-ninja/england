@@ -1,5 +1,5 @@
 ---
 title: "Pebble"
 url: /budleigh-salterton/pebble/
-shop: Raumausstattung
+shop: interior decoration
 ---

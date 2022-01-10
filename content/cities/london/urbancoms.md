@@ -1,5 +1,5 @@
 ---
 title: "UrbanComs"
 url: /london/urbancoms/
-shop: Handy
+shop: mobile phone
 ---

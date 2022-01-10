@@ -1,5 +1,5 @@
 ---
 title: "brighthouse"
 url: /gateshead/brighthouse/
-shop: Elektronik
+shop: electronics
 ---

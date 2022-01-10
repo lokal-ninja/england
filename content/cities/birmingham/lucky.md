@@ -1,5 +1,5 @@
 ---
 title: "Lucky"
 url: /birmingham/lucky/
-shop: Lebensmittel
+shop: convenience
 ---

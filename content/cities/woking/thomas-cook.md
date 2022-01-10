@@ -1,5 +1,5 @@
 ---
 title: "Thomas Cook"
 url: /woking/thomas-cook/
-shop: Reisebüro
+shop: travel agency
 ---

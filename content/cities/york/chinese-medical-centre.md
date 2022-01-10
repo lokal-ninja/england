@@ -1,5 +1,5 @@
 ---
 title: "Chinese Medical Centre"
 url: /york/chinese-medical-centre/
-shop: Allgemein
+shop: shop
 ---

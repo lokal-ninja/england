@@ -1,5 +1,5 @@
 ---
 title: "Kink"
 url: /london/kink/
-shop: Friseur
+shop: hairdresser
 ---

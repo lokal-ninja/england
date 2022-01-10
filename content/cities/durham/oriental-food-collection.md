@@ -1,5 +1,5 @@
 ---
 title: "Oriental Food Collection"
 url: /durham/oriental-food-collection/
-shop: Lebensmittel
+shop: convenience
 ---

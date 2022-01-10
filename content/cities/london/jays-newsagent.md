@@ -1,5 +1,5 @@
 ---
 title: "Jay's Newsagent"
 url: /london/jays-newsagent/
-shop: Lebensmittel
+shop: convenience
 ---

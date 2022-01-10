@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /holbeach/tesco/
-shop: Supermarkt
+shop: supermarket
 ---

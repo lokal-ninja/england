@@ -1,5 +1,5 @@
 ---
 title: "Ryman"
 url: /barrow-in-furness/ryman/
-shop: Schreibwaren
+shop: office supplies
 ---

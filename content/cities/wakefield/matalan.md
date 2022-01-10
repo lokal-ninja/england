@@ -1,5 +1,5 @@
 ---
 title: "Matalan"
 url: /wakefield/matalan/
-shop: Kleidung
+shop: clothes
 ---

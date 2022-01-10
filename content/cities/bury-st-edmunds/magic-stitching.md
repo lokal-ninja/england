@@ -1,5 +1,5 @@
 ---
 title: "Magic Stitching"
 url: /bury-st-edmunds/magic-stitching/
-shop: Schneiderei
+shop: tailor
 ---

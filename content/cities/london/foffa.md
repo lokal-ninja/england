@@ -1,5 +1,5 @@
 ---
 title: "Foffa"
 url: /london/foffa/
-shop: Fahrrad
+shop: bicycle
 ---

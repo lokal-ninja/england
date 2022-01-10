@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /great-yarmouth/lidl/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "iSmash"
 url: /grays/ismash/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "FNK Pie House"
 url: /havant/fnk-pie-house/
-shop: Konditorei
+shop: pastry
 ---

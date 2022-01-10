@@ -1,5 +1,5 @@
 ---
 title: "Mace"
 url: /rotherham/mace/
-shop: Lebensmittel
+shop: convenience
 ---

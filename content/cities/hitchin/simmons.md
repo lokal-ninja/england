@@ -1,5 +1,5 @@
 ---
 title: "Simmons"
 url: /hitchin/simmons/
-shop: Bäckerei
+shop: bakery
 ---

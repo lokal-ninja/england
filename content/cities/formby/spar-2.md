@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /formby/spar-2/
-shop: Lebensmittel
+shop: convenience
 ---

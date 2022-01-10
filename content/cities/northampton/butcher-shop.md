@@ -1,5 +1,5 @@
 ---
 title: "Butcher Shop"
 url: /northampton/butcher-shop/
-shop: Metzgerei
+shop: butcher
 ---

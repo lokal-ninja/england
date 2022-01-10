@@ -1,5 +1,5 @@
 ---
 title: "Amplifon"
 url: /sutton-coldfield/amplifon/
-shop: Hörgeräte
+shop: hearing aids
 ---

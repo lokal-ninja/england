@@ -1,5 +1,5 @@
 ---
 title: "Rana Leatherware"
 url: /london/rana-leatherware/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /bromley/tesco/
-shop: Supermarkt
+shop: supermarket
 ---

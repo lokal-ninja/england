@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
 url: /birstall/wilko/
-shop: Kramladen
+shop: variety store
 ---

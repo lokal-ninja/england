@@ -1,5 +1,5 @@
 ---
 title: "Karen Millen"
 url: /london/karen-millen/
-shop: Kleidung
+shop: clothes
 ---

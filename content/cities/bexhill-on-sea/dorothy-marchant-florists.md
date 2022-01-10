@@ -1,5 +1,5 @@
 ---
 title: "Dorothy Marchant Florists"
 url: /bexhill-on-sea/dorothy-marchant-florists/
-shop: Blumen
+shop: florist
 ---

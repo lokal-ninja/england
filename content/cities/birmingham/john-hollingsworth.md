@@ -1,5 +1,5 @@
 ---
 title: "John Hollingsworth"
 url: /birmingham/john-hollingsworth/
-shop: Tabak
+shop: tobacco
 ---

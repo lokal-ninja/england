@@ -1,5 +1,5 @@
 ---
 title: "Cooplands"
 url: /haxby/cooplands/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /felixstowe/poundland/
-shop: Kramladen
+shop: variety store
 ---

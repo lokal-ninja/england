@@ -1,5 +1,5 @@
 ---
 title: "Auto Checked Vehicles"
 url: /nottingham/auto-checked-vehicles/
-shop: Autohaus
+shop: car
 ---

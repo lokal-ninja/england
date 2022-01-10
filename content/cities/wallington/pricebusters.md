@@ -1,5 +1,5 @@
 ---
 title: "Pricebusters"
 url: /wallington/pricebusters/
-shop: Kramladen
+shop: variety store
 ---

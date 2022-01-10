@@ -1,5 +1,5 @@
 ---
 title: "Sue Ryder"
 url: /rossendale/sue-ryder/
-shop: Gebrauchtwaren
+shop: charity
 ---

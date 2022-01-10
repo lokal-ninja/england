@@ -1,5 +1,5 @@
 ---
 title: "Preton Park Garage"
 url: /yeovil/preton-park-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

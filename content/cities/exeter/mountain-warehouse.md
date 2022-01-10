@@ -1,5 +1,5 @@
 ---
 title: "Mountain Warehouse"
 url: /exeter/mountain-warehouse/
-shop: Outdoor
+shop: outdoor
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Grocers"
 url: /worthing/grocers/
-shop: Supermarkt
+shop: supermarket
 ---

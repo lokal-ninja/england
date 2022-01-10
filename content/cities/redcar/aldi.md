@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /redcar/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

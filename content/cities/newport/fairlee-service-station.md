@@ -1,5 +1,5 @@
 ---
 title: "Fairlee Service Station"
 url: /newport/fairlee-service-station/
-shop: Lebensmittel
+shop: convenience
 ---

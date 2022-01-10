@@ -1,5 +1,5 @@
 ---
 title: "Greensleeves"
 url: /reigate/greensleeves/
-shop: Blumen
+shop: florist
 ---

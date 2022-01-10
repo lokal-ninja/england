@@ -1,5 +1,5 @@
 ---
 title: "Poundbase"
 url: /birmingham/poundbase/
-shop: Kramladen
+shop: variety store
 ---

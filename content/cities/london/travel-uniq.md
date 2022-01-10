@@ -1,5 +1,5 @@
 ---
 title: "Travel Uniq"
 url: /london/travel-uniq/
-shop: Reisebüro
+shop: travel agency
 ---

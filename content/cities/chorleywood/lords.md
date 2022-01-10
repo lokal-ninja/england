@@ -1,5 +1,5 @@
 ---
 title: "Lords"
 url: /chorleywood/lords/
-shop: Eisenwaren
+shop: hardware
 ---

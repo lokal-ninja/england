@@ -1,5 +1,5 @@
 ---
 title: "Garment Printing Ltd"
 url: /stockport/garment-printing-ltd/
-shop: Kleidung
+shop: clothes
 ---

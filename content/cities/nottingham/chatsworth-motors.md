@@ -1,5 +1,5 @@
 ---
 title: "Chatsworth Motors"
 url: /nottingham/chatsworth-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /halifax/savers/
-shop: Drogerie
+shop: chemist
 ---

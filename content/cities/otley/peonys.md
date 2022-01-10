@@ -1,5 +1,5 @@
 ---
 title: "Peony's"
 url: /otley/peonys/
-shop: Allgemein
+shop: shop
 ---

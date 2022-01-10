@@ -1,5 +1,5 @@
 ---
 title: "Travelsure"
 url: /seahouses/travelsure/
-shop: Reisebüro
+shop: travel agency
 ---

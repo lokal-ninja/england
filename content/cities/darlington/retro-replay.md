@@ -1,5 +1,5 @@
 ---
 title: "Retro Replay"
 url: /darlington/retro-replay/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Euro Shop"
 url: /daventry/euro-shop/
-shop: Lebensmittel
+shop: convenience
 ---

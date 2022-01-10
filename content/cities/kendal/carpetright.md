@@ -1,5 +1,5 @@
 ---
 title: "Carpetright"
 url: /kendal/carpetright/
-shop: Teppiche
+shop: carpet
 ---

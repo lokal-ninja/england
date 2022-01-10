@@ -1,5 +1,5 @@
 ---
 title: "Rentcontainer"
 url: /swadlincote/rentcontainer/
-shop: Mieten
+shop: storage rental
 ---

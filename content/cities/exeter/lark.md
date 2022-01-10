@@ -1,5 +1,5 @@
 ---
 title: "Lark"
 url: /exeter/lark/
-shop: Haushaltsartikel
+shop: houseware
 ---

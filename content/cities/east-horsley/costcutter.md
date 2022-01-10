@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /east-horsley/costcutter/
-shop: Lebensmittel
+shop: convenience
 ---

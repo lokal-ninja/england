@@ -1,5 +1,5 @@
 ---
 title: "Monsoon"
 url: /bury-st-edmunds/monsoon/
-shop: Kleidung
+shop: clothes
 ---

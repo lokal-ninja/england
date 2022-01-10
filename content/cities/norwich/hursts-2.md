@@ -1,5 +1,5 @@
 ---
 title: "Hursts"
 url: /norwich/hursts-2/
-shop: Lebensmittel
+shop: convenience
 ---

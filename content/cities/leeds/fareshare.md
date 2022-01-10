@@ -1,5 +1,5 @@
 ---
 title: "FareShare"
 url: /leeds/fareshare/
-shop: Lebensmittel
+shop: convenience
 ---

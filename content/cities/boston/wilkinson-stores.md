@@ -1,5 +1,5 @@
 ---
 title: "Wilkinson Stores"
 url: /boston/wilkinson-stores/
-shop: Kramladen
+shop: variety store
 ---

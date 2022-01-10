@@ -1,5 +1,5 @@
 ---
 title: "Picasso"
 url: /luton/picasso/
-shop: Friseur
+shop: hairdresser
 ---

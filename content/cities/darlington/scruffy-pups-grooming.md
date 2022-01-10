@@ -1,5 +1,5 @@
 ---
 title: "Scruffy Pups Grooming"
 url: /darlington/scruffy-pups-grooming/
-shop: Allgemein
+shop: shop
 ---

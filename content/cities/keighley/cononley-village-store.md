@@ -1,5 +1,5 @@
 ---
 title: "Cononley Village Store"
 url: /keighley/cononley-village-store/
-shop: Lebensmittel
+shop: convenience
 ---

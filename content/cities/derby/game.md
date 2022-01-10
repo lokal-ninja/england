@@ -1,5 +1,5 @@
 ---
 title: "Game"
 url: /derby/game/
-shop: Videospiele
+shop: video games
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Olde English Furniture"
 url: /south-cave/olde-english-furniture/
-shop: Antiquitäten
+shop: antiques
 ---

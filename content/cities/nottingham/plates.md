@@ -1,5 +1,5 @@
 ---
 title: "Plates"
 url: /nottingham/plates/
-shop: Musik
+shop: music
 ---

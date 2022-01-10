@@ -1,5 +1,5 @@
 ---
 title: "Al-Hamra Supermarket"
 url: /northampton/al-hamra-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

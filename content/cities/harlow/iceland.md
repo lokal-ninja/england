@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /harlow/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

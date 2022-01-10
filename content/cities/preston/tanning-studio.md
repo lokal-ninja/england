@@ -1,5 +1,5 @@
 ---
 title: "tanning studio"
 url: /preston/tanning-studio/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Trespass"
 url: /bowness-on-windermere/trespass/
-shop: Outdoor
+shop: outdoor
 ---

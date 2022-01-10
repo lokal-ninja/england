@@ -1,5 +1,5 @@
 ---
 title: "Best Friends Dog Grooming"
 url: /runcorn/best-friends-dog-grooming/
-shop: Tiersalon
+shop: pet grooming
 ---

@@ -1,5 +1,5 @@
 ---
 title: "iSmash"
 url: /brighton/ismash/
-shop: Handy
+shop: mobile phone
 ---

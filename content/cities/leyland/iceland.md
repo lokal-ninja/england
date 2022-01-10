@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /leyland/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jon Doble"
 url: /taunton/jon-doble/
-shop: Autowerkstatt
+shop: car repair
 ---

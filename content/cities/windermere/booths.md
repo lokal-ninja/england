@@ -1,5 +1,5 @@
 ---
 title: "Booths"
 url: /windermere/booths/
-shop: Supermarkt
+shop: supermarket
 ---

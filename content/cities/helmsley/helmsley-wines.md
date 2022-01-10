@@ -1,5 +1,5 @@
 ---
 title: "Helmsley Wines"
 url: /helmsley/helmsley-wines/
-shop: Wein
+shop: wine
 ---

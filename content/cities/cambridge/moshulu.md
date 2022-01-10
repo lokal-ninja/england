@@ -1,5 +1,5 @@
 ---
 title: "Moshulu"
 url: /cambridge/moshulu/
-shop: Schuhe
+shop: shoes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Stokers"
 url: /whitby/stokers/
-shop: Andenken
+shop: gift
 ---

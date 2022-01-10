@@ -1,5 +1,5 @@
 ---
 title: "Stratstone Mini"
 url: /wallsend/stratstone-mini/
-shop: Autohaus
+shop: car
 ---

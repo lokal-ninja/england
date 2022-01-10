@@ -1,5 +1,5 @@
 ---
 title: "City Tyre"
 url: /bristol/city-tyre/
-shop: Reifen
+shop: tyres
 ---

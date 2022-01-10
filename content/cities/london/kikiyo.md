@@ -1,5 +1,5 @@
 ---
 title: "Kikiyo"
 url: /london/kikiyo/
-shop: Basteln
+shop: craft
 ---

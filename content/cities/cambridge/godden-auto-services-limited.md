@@ -1,5 +1,5 @@
 ---
 title: "Godden Auto Services Limited"
 url: /cambridge/godden-auto-services-limited/
-shop: Autowerkstatt
+shop: car repair
 ---

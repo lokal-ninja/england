@@ -1,5 +1,5 @@
 ---
 title: "Hydro Hounds"
 url: /coulsdon/hydro-hounds/
-shop: Tiere
+shop: pet
 ---

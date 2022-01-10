@@ -1,5 +1,5 @@
 ---
 title: "Bargain Booze"
 url: /morecambe/bargain-booze/
-shop: Spirituosen
+shop: alcohol
 ---

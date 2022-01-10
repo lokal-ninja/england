@@ -1,5 +1,5 @@
 ---
 title: "Plumbase"
 url: /sudbury/plumbase/
-shop: Allgemein
+shop: shop
 ---

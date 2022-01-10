@@ -1,5 +1,5 @@
 ---
 title: "Brushford Bizarre"
 url: /dulverton/brushford-bizarre/
-shop: Kramladen
+shop: variety store
 ---

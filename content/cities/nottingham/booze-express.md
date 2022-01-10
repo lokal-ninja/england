@@ -1,5 +1,5 @@
 ---
 title: "Booze Express"
 url: /nottingham/booze-express/
-shop: Spirituosen
+shop: alcohol
 ---

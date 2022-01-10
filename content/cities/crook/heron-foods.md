@@ -1,5 +1,5 @@
 ---
 title: "Heron Foods"
 url: /crook/heron-foods/
-shop: Tiefkühl
+shop: frozen food
 ---

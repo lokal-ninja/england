@@ -1,5 +1,5 @@
 ---
 title: "Loake"
 url: /oxford/loake/
-shop: Schuhe
+shop: shoes
 ---

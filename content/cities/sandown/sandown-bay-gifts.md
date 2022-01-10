@@ -1,5 +1,5 @@
 ---
 title: "Sandown Bay Gifts"
 url: /sandown/sandown-bay-gifts/
-shop: Andenken
+shop: gift
 ---

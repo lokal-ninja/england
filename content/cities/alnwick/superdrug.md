@@ -1,5 +1,5 @@
 ---
 title: "Superdrug"
 url: /alnwick/superdrug/
-shop: Drogerie
+shop: chemist
 ---

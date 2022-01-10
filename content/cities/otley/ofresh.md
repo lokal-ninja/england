@@ -1,5 +1,5 @@
 ---
 title: "O'Fresh"
 url: /otley/ofresh/
-shop: Gemüse & Obst
+shop: greengrocer
 ---

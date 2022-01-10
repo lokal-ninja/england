@@ -1,5 +1,5 @@
 ---
 title: "Tofurei"
 url: /norwich/tofurei/
-shop: Feinkost
+shop: deli
 ---

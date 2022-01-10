@@ -1,5 +1,5 @@
 ---
 title: "Glamour Garage"
 url: /reigate/glamour-garage/
-shop: Kosmetik
+shop: beauty
 ---

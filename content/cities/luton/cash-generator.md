@@ -1,5 +1,5 @@
 ---
 title: "Cash Generator"
 url: /luton/cash-generator/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Memories"
 url: /scarborough/memories/
-shop: Antiquitäten
+shop: antiques
 ---

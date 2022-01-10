@@ -1,5 +1,5 @@
 ---
 title: "Salford Funeralcare"
 url: /salford/salford-funeralcare/
-shop: Bestattungen
+shop: funeral directors
 ---

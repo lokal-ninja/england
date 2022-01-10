@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
 url: /nottingham/wilko/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vision Express"
 url: /thornton-cleveleys/vision-express/
-shop: Optiker
+shop: optician
 ---

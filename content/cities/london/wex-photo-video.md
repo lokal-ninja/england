@@ -1,5 +1,5 @@
 ---
 title: "WEX Photo Video"
 url: /london/wex-photo-video/
-shop: Foto
+shop: photo
 ---

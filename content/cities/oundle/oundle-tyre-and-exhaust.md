@@ -1,5 +1,5 @@
 ---
 title: "Oundle Tyre and Exhaust"
 url: /oundle/oundle-tyre-and-exhaust/
-shop: Autowerkstatt
+shop: car repair
 ---

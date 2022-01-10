@@ -1,5 +1,5 @@
 ---
 title: "The Fone Shop"
 url: /birmingham/the-fone-shop/
-shop: Handy
+shop: mobile phone
 ---

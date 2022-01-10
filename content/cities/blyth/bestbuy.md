@@ -1,5 +1,5 @@
 ---
 title: "Bestbuy"
 url: /blyth/bestbuy/
-shop: Kramladen
+shop: variety store
 ---

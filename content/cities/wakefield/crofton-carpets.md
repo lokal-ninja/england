@@ -1,5 +1,5 @@
 ---
 title: "Crofton Carpets"
 url: /wakefield/crofton-carpets/
-shop: Teppiche
+shop: carpet
 ---

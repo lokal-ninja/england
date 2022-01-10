@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
 url: /grays/wilko/
-shop: Kramladen
+shop: variety store
 ---

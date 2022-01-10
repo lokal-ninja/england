@@ -1,5 +1,5 @@
 ---
 title: "Moss"
 url: /bromley/moss/
-shop: Kleidung
+shop: clothes
 ---

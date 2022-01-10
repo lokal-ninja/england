@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /bridgwater/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

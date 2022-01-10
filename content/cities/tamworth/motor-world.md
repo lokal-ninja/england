@@ -1,5 +1,5 @@
 ---
 title: "Motor World"
 url: /tamworth/motor-world/
-shop: Autoteile
+shop: car parts
 ---

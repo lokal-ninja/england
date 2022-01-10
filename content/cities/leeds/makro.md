@@ -1,5 +1,5 @@
 ---
 title: "Makro"
 url: /leeds/makro/
-shop: Großhandel
+shop: wholesale
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ramsdens"
 url: /wallsend/ramsdens/
-shop: Leiher
+shop: pawnbroker
 ---

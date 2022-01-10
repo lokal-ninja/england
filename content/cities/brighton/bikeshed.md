@@ -1,5 +1,5 @@
 ---
 title: "BikeShed"
 url: /brighton/bikeshed/
-shop: Fahrrad
+shop: bicycle
 ---

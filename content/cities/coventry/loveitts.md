@@ -1,5 +1,5 @@
 ---
 title: "Loveitts"
 url: /coventry/loveitts/
-shop: Immobilien
+shop: estate agent
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cookbookbake"
 url: /hove/cookbookbake/
-shop: Bücher
+shop: books
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /ilfracombe/lidl/
-shop: Supermarkt
+shop: supermarket
 ---

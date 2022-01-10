@@ -1,5 +1,5 @@
 ---
 title: "Northwich Dry Cleaners"
 url: /northwich/northwich-dry-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

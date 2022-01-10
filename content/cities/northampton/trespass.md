@@ -1,5 +1,5 @@
 ---
 title: "Trespass"
 url: /northampton/trespass/
-shop: Kleidung
+shop: clothes
 ---

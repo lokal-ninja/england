@@ -1,5 +1,5 @@
 ---
 title: "Trinette"
 url: /chester/trinette/
-shop: Friseur
+shop: hairdresser
 ---

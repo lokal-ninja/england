@@ -1,5 +1,5 @@
 ---
 title: "Shaheen Domestic Appliances"
 url: /london/shaheen-domestic-appliances/
-shop: Elektronik
+shop: electronics
 ---

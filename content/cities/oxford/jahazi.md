@@ -1,5 +1,5 @@
 ---
 title: "Jahazi"
 url: /oxford/jahazi/
-shop: Reisebüro
+shop: travel agency
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Autosave"
 url: /brackley/autosave/
-shop: Fahrrad
+shop: bicycle
 ---

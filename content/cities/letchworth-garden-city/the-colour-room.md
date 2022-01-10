@@ -1,5 +1,5 @@
 ---
 title: "The Colour Room"
 url: /letchworth-garden-city/the-colour-room/
-shop: Friseur
+shop: hairdresser
 ---

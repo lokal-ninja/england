@@ -1,5 +1,5 @@
 ---
 title: "ATS"
 url: /morecambe/ats/
-shop: Autowerkstatt
+shop: car repair
 ---

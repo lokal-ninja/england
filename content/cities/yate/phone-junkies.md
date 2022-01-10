@@ -1,5 +1,5 @@
 ---
 title: "Phone Junkies"
 url: /yate/phone-junkies/
-shop: Handy
+shop: mobile phone
 ---

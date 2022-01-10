@@ -1,5 +1,5 @@
 ---
 title: "Ben's Bakes"
 url: /paignton/bens-bakes/
-shop: Bäckerei
+shop: bakery
 ---

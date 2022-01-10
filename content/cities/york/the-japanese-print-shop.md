@@ -1,5 +1,5 @@
 ---
 title: "The Japanese Print Shop"
 url: /york/the-japanese-print-shop/
-shop: Kunst
+shop: art
 ---

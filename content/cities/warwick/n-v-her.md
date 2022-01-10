@@ -1,5 +1,5 @@
 ---
 title: "N V Her"
 url: /warwick/n-v-her/
-shop: Kleidung
+shop: clothes
 ---

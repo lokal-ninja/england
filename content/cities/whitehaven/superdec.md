@@ -1,5 +1,5 @@
 ---
 title: "Superdec"
 url: /whitehaven/superdec/
-shop: Möbel
+shop: furniture
 ---

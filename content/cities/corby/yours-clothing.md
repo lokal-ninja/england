@@ -1,5 +1,5 @@
 ---
 title: "Yours Clothing"
 url: /corby/yours-clothing/
-shop: Kleidung
+shop: clothes
 ---

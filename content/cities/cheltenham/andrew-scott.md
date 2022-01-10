@@ -1,5 +1,5 @@
 ---
 title: "Andrew Scott"
 url: /cheltenham/andrew-scott/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Archdeacon Motors"
 url: /cambridge/archdeacon-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

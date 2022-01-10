@@ -1,5 +1,5 @@
 ---
 title: "Magic Scissors"
 url: /rugby/magic-scissors/
-shop: Friseur
+shop: hairdresser
 ---

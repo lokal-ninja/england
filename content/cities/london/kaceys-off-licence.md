@@ -1,5 +1,5 @@
 ---
 title: "Kacey's Off Licence"
 url: /london/kaceys-off-licence/
-shop: Spirituosen
+shop: alcohol
 ---

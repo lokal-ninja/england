@@ -1,5 +1,5 @@
 ---
 title: "Sainsbury's"
 url: /south-croydon/sainsburys/
-shop: Supermarkt
+shop: supermarket
 ---

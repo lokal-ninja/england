@@ -1,5 +1,5 @@
 ---
 title: "Mucki Pups"
 url: /yeadon/mucki-pups/
-shop: Tiersalon
+shop: pet grooming
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sassy Nix Boutique"
 url: /penrith/sassy-nix-boutique/
-shop: Kleidung
+shop: clothes
 ---

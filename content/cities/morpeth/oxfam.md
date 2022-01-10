@@ -1,5 +1,5 @@
 ---
 title: "Oxfam"
 url: /morpeth/oxfam/
-shop: Gebrauchtwaren
+shop: charity
 ---

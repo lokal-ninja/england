@@ -1,5 +1,5 @@
 ---
 title: "Mybond Pawnbrokers"
 url: /london/mybond-pawnbrokers/
-shop: Leiher
+shop: pawnbroker
 ---

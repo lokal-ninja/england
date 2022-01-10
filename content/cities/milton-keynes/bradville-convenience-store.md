@@ -1,5 +1,5 @@
 ---
 title: "Bradville Convenience Store"
 url: /milton-keynes/bradville-convenience-store/
-shop: Lebensmittel
+shop: convenience
 ---

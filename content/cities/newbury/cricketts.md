@@ -1,5 +1,5 @@
 ---
 title: "Cricketts"
 url: /newbury/cricketts/
-shop: Immobilien
+shop: estate agent
 ---

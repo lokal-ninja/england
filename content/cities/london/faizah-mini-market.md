@@ -1,5 +1,5 @@
 ---
 title: "Faizah Mini Market"
 url: /london/faizah-mini-market/
-shop: Lebensmittel
+shop: convenience
 ---

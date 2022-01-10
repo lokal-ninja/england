@@ -1,5 +1,5 @@
 ---
 title: "Top Stitch"
 url: /croydon/top-stitch/
-shop: Wäscherei
+shop: laundry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Davison"
 url: /morpeth/davison/
-shop: Allgemein
+shop: shop
 ---

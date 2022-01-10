@@ -1,5 +1,5 @@
 ---
 title: "Travelbag"
 url: /solihull/travelbag/
-shop: Reisebüro
+shop: travel agency
 ---

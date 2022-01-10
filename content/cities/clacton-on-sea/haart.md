@@ -1,5 +1,5 @@
 ---
 title: "haart"
 url: /clacton-on-sea/haart/
-shop: Immobilien
+shop: estate agent
 ---

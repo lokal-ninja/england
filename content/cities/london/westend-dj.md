@@ -1,5 +1,5 @@
 ---
 title: "Westend DJ"
 url: /london/westend-dj/
-shop: Instrumente
+shop: musical instrument
 ---

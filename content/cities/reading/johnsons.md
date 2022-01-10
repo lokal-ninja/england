@@ -1,5 +1,5 @@
 ---
 title: "Johnsons"
 url: /reading/johnsons/
-shop: Wäscherei
+shop: laundry
 ---

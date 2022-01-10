@@ -1,5 +1,5 @@
 ---
 title: "Peacocks"
 url: /ilminster/peacocks/
-shop: Kleidung
+shop: clothes
 ---

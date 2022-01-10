@@ -1,5 +1,5 @@
 ---
 title: "Majestic"
 url: /cobham/majestic/
-shop: Spirituosen
+shop: alcohol
 ---

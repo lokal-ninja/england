@@ -1,5 +1,5 @@
 ---
 title: "Yuniparts"
 url: /derby/yuniparts/
-shop: Autoteile
+shop: car parts
 ---

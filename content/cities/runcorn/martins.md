@@ -1,5 +1,5 @@
 ---
 title: "Martin's"
 url: /runcorn/martins/
-shop: Dorfladen
+shop: general
 ---

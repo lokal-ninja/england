@@ -1,5 +1,5 @@
 ---
 title: "One Stop Shop"
 url: /otford/one-stop-shop/
-shop: Lebensmittel
+shop: convenience
 ---

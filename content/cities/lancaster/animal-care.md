@@ -1,5 +1,5 @@
 ---
 title: "Animal Care"
 url: /lancaster/animal-care/
-shop: Gebrauchtwaren
+shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Avonvale Convenience Store"
 url: /bristol/avonvale-convenience-store/
-shop: Lebensmittel
+shop: convenience
 ---

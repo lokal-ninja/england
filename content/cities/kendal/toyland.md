@@ -1,5 +1,5 @@
 ---
 title: "Toyland"
 url: /kendal/toyland/
-shop: Spielzeug
+shop: toys
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Binnel Studios"
 url: /niton/binnel-studios/
-shop: Basteln
+shop: craft
 ---

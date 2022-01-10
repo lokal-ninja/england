@@ -1,5 +1,5 @@
 ---
 title: "Bizarre Korner"
 url: /southport/bizarre-korner/
-shop: Allgemein
+shop: shop
 ---

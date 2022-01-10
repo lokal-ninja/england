@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
 url: /cockermouth/wilko/
-shop: Kramladen
+shop: variety store
 ---

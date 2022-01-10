@@ -1,5 +1,5 @@
 ---
 title: "Boyes"
 url: /york/boyes/
-shop: Warenhaus
+shop: department store
 ---

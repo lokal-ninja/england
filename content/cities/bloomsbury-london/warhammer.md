@@ -1,5 +1,5 @@
 ---
 title: "Warhammer"
 url: /bloomsbury-london/warhammer/
-shop: Spiele
+shop: games
 ---

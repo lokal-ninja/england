@@ -1,5 +1,5 @@
 ---
 title: "Tyneside Tyre Services"
 url: /south-shields/tyneside-tyre-services/
-shop: Autowerkstatt
+shop: car repair
 ---

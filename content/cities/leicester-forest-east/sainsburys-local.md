@@ -1,5 +1,5 @@
 ---
 title: "Sainsbury's Local"
 url: /leicester-forest-east/sainsburys-local/
-shop: Lebensmittel
+shop: convenience
 ---

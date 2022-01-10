@@ -1,5 +1,5 @@
 ---
 title: "Rowlands"
 url: /millom/rowlands/
-shop: Drogerie
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Maughans"
 url: /heckmondwike/maughans/
-shop: Bäckerei
+shop: bakery
 ---

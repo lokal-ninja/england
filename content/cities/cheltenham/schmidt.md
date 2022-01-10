@@ -1,5 +1,5 @@
 ---
 title: "Schmidt"
 url: /cheltenham/schmidt/
-shop: Küchen
+shop: kitchen
 ---

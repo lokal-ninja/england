@@ -1,5 +1,5 @@
 ---
 title: "Greek Kitchen"
 url: /lancaster/greek-kitchen/
-shop: Feinkost
+shop: deli
 ---

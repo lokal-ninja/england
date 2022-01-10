@@ -1,5 +1,5 @@
 ---
 title: "Uniformitry"
 url: /farsley/uniformitry/
-shop: Kleidung
+shop: clothes
 ---

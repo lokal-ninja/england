@@ -1,5 +1,5 @@
 ---
 title: "UK Storage Company"
 url: /bristol/uk-storage-company-2/
-shop: Mieten
+shop: storage rental
 ---

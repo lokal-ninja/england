@@ -1,5 +1,5 @@
 ---
 title: "Nicola Claire Hair Studio"
 url: /workington/nicola-claire-hair-studio/
-shop: Friseur
+shop: hairdresser
 ---

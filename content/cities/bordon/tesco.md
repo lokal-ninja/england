@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /bordon/tesco/
-shop: Supermarkt
+shop: supermarket
 ---

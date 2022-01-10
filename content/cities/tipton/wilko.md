@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
 url: /tipton/wilko/
-shop: Kramladen
+shop: variety store
 ---

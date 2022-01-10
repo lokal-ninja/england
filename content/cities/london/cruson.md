@@ -1,5 +1,5 @@
 ---
 title: "Cruson"
 url: /london/cruson/
-shop: Lebensmittel
+shop: convenience
 ---

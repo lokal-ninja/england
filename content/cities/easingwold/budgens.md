@@ -1,5 +1,5 @@
 ---
 title: "Budgens"
 url: /easingwold/budgens/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /bedford/poundland/
-shop: Kramladen
+shop: variety store
 ---

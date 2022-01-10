@@ -1,5 +1,5 @@
 ---
 title: "Travis Perkins"
 url: /new-milton/travis-perkins/
-shop: Baustoffe
+shop: trade
 ---

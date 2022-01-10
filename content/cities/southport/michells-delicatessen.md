@@ -1,5 +1,5 @@
 ---
 title: "Michell's Delicatessen"
 url: /southport/michells-delicatessen/
-shop: Feinkost
+shop: deli
 ---

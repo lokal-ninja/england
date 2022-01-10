@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /coseley/asda/
-shop: Supermarkt
+shop: supermarket
 ---

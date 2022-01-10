@@ -1,5 +1,5 @@
 ---
 title: "Co-op"
 url: /whaplode/co-op/
-shop: Lebensmittel
+shop: convenience
 ---

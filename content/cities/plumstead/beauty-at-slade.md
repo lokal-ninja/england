@@ -1,5 +1,5 @@
 ---
 title: "Beauty at Slade"
 url: /plumstead/beauty-at-slade/
-shop: Kosmetik
+shop: beauty
 ---

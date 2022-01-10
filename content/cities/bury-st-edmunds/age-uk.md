@@ -1,5 +1,5 @@
 ---
 title: "Age UK"
 url: /bury-st-edmunds/age-uk/
-shop: Gebrauchtwaren
+shop: charity
 ---

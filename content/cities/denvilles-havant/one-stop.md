@@ -1,5 +1,5 @@
 ---
 title: "One Stop"
 url: /denvilles-havant/one-stop/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Best-One"
+title: "Best-one"
 url: /eastbourne/best-one/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
 url: /leeds/wilko-4/
-shop: Kramladen
+shop: variety store
 ---

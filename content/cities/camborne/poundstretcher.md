@@ -1,5 +1,5 @@
 ---
 title: "Poundstretcher"
 url: /camborne/poundstretcher/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Paintpotts (Closed)"
 url: /thornbury/paintpotts-closed/
-shop: Raumausstattung
+shop: interior decoration
 ---

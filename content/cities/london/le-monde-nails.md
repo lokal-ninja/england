@@ -1,5 +1,5 @@
 ---
 title: "Le Monde Nails"
 url: /london/le-monde-nails/
-shop: Kosmetik
+shop: beauty
 ---

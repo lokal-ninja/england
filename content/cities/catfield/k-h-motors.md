@@ -1,5 +1,5 @@
 ---
 title: "K H Motors"
 url: /catfield/k-h-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CEF"
 url: /cambridge/cef-2/
-shop: Baustoffe
+shop: trade
 ---

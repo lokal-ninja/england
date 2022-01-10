@@ -1,5 +1,5 @@
 ---
 title: "Clinic 121"
 url: /horsham/clinic-121/
-shop: Kosmetik
+shop: beauty
 ---

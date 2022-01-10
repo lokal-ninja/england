@@ -1,5 +1,5 @@
 ---
 title: "Glendinning of Prudhoe"
 url: /prudhoe/glendinning-of-prudhoe/
-shop: Autowerkstatt
+shop: car repair
 ---

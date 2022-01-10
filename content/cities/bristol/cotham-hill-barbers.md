@@ -1,5 +1,5 @@
 ---
 title: "Cotham Hill Barbers"
 url: /bristol/cotham-hill-barbers/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sprinkles Gelato"
 url: /southampton/sprinkles-gelato/
-shop: Eisprodukte
+shop: ice cream
 ---

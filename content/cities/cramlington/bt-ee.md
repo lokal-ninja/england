@@ -1,5 +1,5 @@
 ---
 title: "BT EE"
 url: /cramlington/bt-ee/
-shop: Handy
+shop: mobile phone
 ---

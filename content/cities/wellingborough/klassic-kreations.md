@@ -1,5 +1,5 @@
 ---
 title: "Klassic Kreations"
 url: /wellingborough/klassic-kreations/
-shop: Friseur
+shop: hairdresser
 ---

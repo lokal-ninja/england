@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /stalham/tesco/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lakenheath News"
 url: /brandon/lakenheath-news/
-shop: Lebensmittel
+shop: convenience
 ---

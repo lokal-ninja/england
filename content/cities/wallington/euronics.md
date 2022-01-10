@@ -1,5 +1,5 @@
 ---
 title: "Euronics"
 url: /wallington/euronics/
-shop: Elektronik
+shop: electronics
 ---

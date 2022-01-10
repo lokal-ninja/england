@@ -1,5 +1,5 @@
 ---
 title: "Woodstock Stores"
 url: /ash-vale/woodstock-stores/
-shop: Lebensmittel
+shop: convenience
 ---

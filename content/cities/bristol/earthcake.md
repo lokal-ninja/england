@@ -1,5 +1,5 @@
 ---
 title: "Earthcake"
 url: /bristol/earthcake/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Range"
 url: /eastbourne/the-range/
-shop: Haushaltsartikel
+shop: houseware
 ---

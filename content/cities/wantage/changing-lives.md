@@ -1,5 +1,5 @@
 ---
 title: "Changing Lives"
 url: /wantage/changing-lives/
-shop: Gebrauchtwaren
+shop: charity
 ---

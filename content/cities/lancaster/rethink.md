@@ -1,5 +1,5 @@
 ---
 title: "Rethink"
 url: /lancaster/rethink/
-shop: Gebrauchtwaren
+shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Arium"
 url: /leeds/the-arium/
-shop: Garten-Center
+shop: garden centre
 ---

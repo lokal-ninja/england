@@ -1,5 +1,5 @@
 ---
 title: "Tabio"
 url: /london/tabio/
-shop: Kleidung
+shop: clothes
 ---

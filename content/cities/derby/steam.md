@@ -1,5 +1,5 @@
 ---
 title: "steam"
 url: /derby/steam/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Technicar"
 url: /derby/technicar/
-shop: Autowerkstatt
+shop: car repair
 ---

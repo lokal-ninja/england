@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /newcastle-upon-tyne/poundland/
-shop: Kramladen
+shop: variety store
 ---

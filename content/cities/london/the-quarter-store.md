@@ -1,5 +1,5 @@
 ---
 title: "The Quarter Store"
 url: /london/the-quarter-store/
-shop: Feinkost
+shop: deli
 ---

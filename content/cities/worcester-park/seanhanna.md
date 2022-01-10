@@ -1,5 +1,5 @@
 ---
 title: "Seanhanna"
 url: /worcester-park/seanhanna/
-shop: Kosmetik
+shop: beauty
 ---

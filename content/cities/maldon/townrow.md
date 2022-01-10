@@ -1,5 +1,5 @@
 ---
 title: "Townrow"
 url: /maldon/townrow/
-shop: Kleidung
+shop: clothes
 ---

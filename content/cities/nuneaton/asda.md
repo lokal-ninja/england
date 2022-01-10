@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /nuneaton/asda/
-shop: Supermarkt
+shop: supermarket
 ---

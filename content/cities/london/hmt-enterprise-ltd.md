@@ -1,5 +1,5 @@
 ---
 title: "HMT Enterprise Ltd"
 url: /london/hmt-enterprise-ltd/
-shop: Reisebüro
+shop: travel agency
 ---

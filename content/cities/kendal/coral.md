@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /kendal/coral/
-shop: Wettbüro
+shop: bookmaker
 ---

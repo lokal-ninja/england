@@ -1,5 +1,5 @@
 ---
 title: "Ken's Supermarket"
 url: /wirksworth/kens-supermarket/
-shop: Lebensmittel
+shop: convenience
 ---

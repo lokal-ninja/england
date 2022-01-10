@@ -1,5 +1,5 @@
 ---
 title: "Alphamarque"
 url: /colchester/alphamarque/
-shop: Allgemein
+shop: shop
 ---

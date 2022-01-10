@@ -1,5 +1,5 @@
 ---
 title: "The M"
 url: /minehead/the-m/
-shop: Tiersalon
+shop: pet grooming
 ---

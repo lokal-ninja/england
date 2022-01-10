@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
 url: /southport/wilko/
-shop: Kramladen
+shop: variety store
 ---

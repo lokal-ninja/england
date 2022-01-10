@@ -1,5 +1,5 @@
 ---
 title: "Thorntons"
 url: /luton/thorntons/
-shop: Süßwaren
+shop: confectionery
 ---

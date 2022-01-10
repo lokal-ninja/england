@@ -1,5 +1,5 @@
 ---
 title: "Lakenheath Garage"
 url: /brandon/lakenheath-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

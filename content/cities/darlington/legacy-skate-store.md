@@ -1,5 +1,5 @@
 ---
 title: "Legacy Skate Store"
 url: /darlington/legacy-skate-store/
-shop: Sport
+shop: sports
 ---

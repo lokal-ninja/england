@@ -1,5 +1,5 @@
 ---
 title: "Pound Bargins"
 url: /pontefract/pound-bargins/
-shop: Kramladen
+shop: variety store
 ---

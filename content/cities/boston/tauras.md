@@ -1,5 +1,5 @@
 ---
 title: "Tauras"
 url: /boston/tauras/
-shop: Lebensmittel
+shop: convenience
 ---

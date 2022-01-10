@@ -1,5 +1,5 @@
 ---
 title: "Sameer"
 url: /london/sameer/
-shop: Großhandel
+shop: wholesale
 ---

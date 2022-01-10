@@ -1,5 +1,5 @@
 ---
 title: "Stronghold"
 url: /croydon/stronghold/
-shop: Türen
+shop: doors
 ---

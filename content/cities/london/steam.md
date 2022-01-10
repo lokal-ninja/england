@@ -1,5 +1,5 @@
 ---
 title: "Steam"
 url: /london/steam/
-shop: Allgemein
+shop: shop
 ---

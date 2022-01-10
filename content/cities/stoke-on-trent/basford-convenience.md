@@ -1,5 +1,5 @@
 ---
 title: "Basford Convenience"
 url: /stoke-on-trent/basford-convenience/
-shop: Lebensmittel
+shop: convenience
 ---

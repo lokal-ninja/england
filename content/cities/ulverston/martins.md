@@ -1,5 +1,5 @@
 ---
 title: "Martin's"
 url: /ulverston/martins/
-shop: Zeitungen
+shop: newsagent
 ---

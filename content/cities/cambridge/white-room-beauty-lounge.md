@@ -1,5 +1,5 @@
 ---
 title: "White Room Beauty Lounge"
 url: /cambridge/white-room-beauty-lounge/
-shop: Kosmetik
+shop: beauty
 ---

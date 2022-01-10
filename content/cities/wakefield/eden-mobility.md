@@ -1,5 +1,5 @@
 ---
 title: "Eden Mobility"
 url: /wakefield/eden-mobility/
-shop: Sanitätshaus
+shop: medical supply
 ---

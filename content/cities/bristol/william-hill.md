@@ -1,5 +1,5 @@
 ---
 title: "William Hill"
 url: /bristol/william-hill/
-shop: Wettbüro
+shop: bookmaker
 ---

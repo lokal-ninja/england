@@ -1,5 +1,5 @@
 ---
 title: "Prestige"
 url: /london/prestige/
-shop: Wäscherei
+shop: laundry
 ---

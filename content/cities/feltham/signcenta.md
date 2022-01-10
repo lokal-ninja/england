@@ -1,5 +1,5 @@
 ---
 title: "Signcenta"
 url: /feltham/signcenta/
-shop: Baustoffe
+shop: trade
 ---

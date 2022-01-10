@@ -1,5 +1,5 @@
 ---
 title: "Quick Lane"
 url: /bristol/quick-lane/
-shop: Autowerkstatt
+shop: car repair
 ---

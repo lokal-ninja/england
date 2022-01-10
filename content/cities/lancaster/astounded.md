@@ -1,5 +1,5 @@
 ---
 title: "Astounded"
 url: /lancaster/astounded/
-shop: Allgemein
+shop: shop
 ---

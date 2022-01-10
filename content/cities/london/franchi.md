@@ -1,5 +1,5 @@
 ---
 title: "Franchi"
 url: /london/franchi/
-shop: Baumarkt
+shop: doityourself
 ---

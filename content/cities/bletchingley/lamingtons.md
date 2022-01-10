@@ -1,5 +1,5 @@
 ---
 title: "Lamingtons"
 url: /bletchingley/lamingtons/
-shop: Andenken
+shop: gift
 ---

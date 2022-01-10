@@ -1,5 +1,5 @@
 ---
 title: "Vintage Moments"
 url: /swaffham/vintage-moments/
-shop: Andenken
+shop: gift
 ---

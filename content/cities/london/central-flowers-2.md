@@ -1,5 +1,5 @@
 ---
 title: "Central Flowers"
 url: /london/central-flowers-2/
-shop: Blumen
+shop: florist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Johnsons"
 url: /stowmarket/johnsons/
-shop: Wäscherei
+shop: laundry
 ---

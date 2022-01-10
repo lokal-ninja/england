@@ -1,5 +1,5 @@
 ---
 title: "Bradbeers"
 url: /new-milton/bradbeers/
-shop: Warenhaus
+shop: department store
 ---

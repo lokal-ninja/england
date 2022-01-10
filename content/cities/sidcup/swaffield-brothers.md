@@ -1,5 +1,5 @@
 ---
 title: "Swaffield Brothers"
 url: /sidcup/swaffield-brothers/
-shop: Fußböden
+shop: flooring
 ---

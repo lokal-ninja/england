@@ -1,5 +1,5 @@
 ---
 title: "Sagars"
 url: /kenilworth/sagars/
-shop: Raumausstattung
+shop: interior decoration
 ---

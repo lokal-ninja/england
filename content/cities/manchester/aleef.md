@@ -1,5 +1,5 @@
 ---
 title: "Aleef"
 url: /manchester/aleef/
-shop: Lebensmittel
+shop: convenience
 ---

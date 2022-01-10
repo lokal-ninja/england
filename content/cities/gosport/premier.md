@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /gosport/premier/
-shop: Lebensmittel
+shop: convenience
 ---

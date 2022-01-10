@@ -1,5 +1,5 @@
 ---
 title: "GoMobile"
 url: /camborne/gomobile/
-shop: Handy
+shop: mobile phone
 ---

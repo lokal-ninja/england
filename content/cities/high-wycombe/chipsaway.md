@@ -1,5 +1,5 @@
 ---
 title: "ChipsAway"
 url: /high-wycombe/chipsaway/
-shop: Autowerkstatt
+shop: car repair
 ---

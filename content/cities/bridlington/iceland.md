@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /bridlington/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

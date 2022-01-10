@@ -1,5 +1,5 @@
 ---
 title: "Goldsmiths"
 url: /sunderland/goldsmiths/
-shop: Schmuck
+shop: jewelry
 ---

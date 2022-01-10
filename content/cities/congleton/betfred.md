@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /congleton/betfred/
-shop: Wettbüro
+shop: bookmaker
 ---

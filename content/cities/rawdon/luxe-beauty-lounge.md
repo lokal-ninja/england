@@ -1,5 +1,5 @@
 ---
 title: "Luxe Beauty Lounge"
 url: /rawdon/luxe-beauty-lounge/
-shop: Kosmetik
+shop: beauty
 ---

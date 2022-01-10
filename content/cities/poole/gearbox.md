@@ -1,5 +1,5 @@
 ---
 title: "Gearbox"
 url: /poole/gearbox/
-shop: Kleidung
+shop: clothes
 ---

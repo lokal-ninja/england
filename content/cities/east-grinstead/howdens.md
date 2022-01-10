@@ -1,5 +1,5 @@
 ---
 title: "Howdens"
 url: /east-grinstead/howdens/
-shop: Küchen
+shop: kitchen
 ---

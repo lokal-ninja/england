@@ -1,5 +1,5 @@
 ---
 title: "Arif Super Store"
 url: /huddersfield/arif-super-store/
-shop: Lebensmittel
+shop: convenience
 ---

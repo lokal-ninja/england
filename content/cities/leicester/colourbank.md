@@ -1,5 +1,5 @@
 ---
 title: "Colourbank"
 url: /leicester/colourbank/
-shop: Teppiche
+shop: carpet
 ---

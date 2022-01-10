@@ -1,5 +1,5 @@
 ---
 title: "The Phone Tree"
 url: /leamington-spa/the-phone-tree/
-shop: Handy
+shop: mobile phone
 ---

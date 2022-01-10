@@ -1,5 +1,5 @@
 ---
 title: "Audi Eastbourne"
 url: /eastbourne/audi-eastbourne/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "EE"
 url: /yate/ee/
-shop: Handy
+shop: mobile phone
 ---

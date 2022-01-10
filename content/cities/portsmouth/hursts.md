@@ -1,5 +1,5 @@
 ---
 title: "Hursts"
 url: /portsmouth/hursts/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Visage"
 url: /luton/visage/
-shop: Friseur
+shop: hairdresser
 ---

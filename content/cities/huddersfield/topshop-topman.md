@@ -1,5 +1,5 @@
 ---
 title: "Topshop Topman"
 url: /huddersfield/topshop-topman/
-shop: Kleidung
+shop: clothes
 ---

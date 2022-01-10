@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /woking/costcutter/
-shop: Lebensmittel
+shop: convenience
 ---

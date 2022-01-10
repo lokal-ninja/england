@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
 url: /putney/wilko/
-shop: Kramladen
+shop: variety store
 ---

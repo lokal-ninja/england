@@ -1,5 +1,5 @@
 ---
 title: "Molton Brown"
 url: /london/molton-brown/
-shop: Kosmetik
+shop: beauty
 ---

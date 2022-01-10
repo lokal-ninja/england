@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /ely/savers/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Deichmann"
 url: /stockport/deichmann/
-shop: Schuhe
+shop: shoes
 ---

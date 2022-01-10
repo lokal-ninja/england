@@ -1,5 +1,5 @@
 ---
 title: "Stayer Cycles"
 url: /london/stayer-cycles/
-shop: Fahrrad
+shop: bicycle
 ---

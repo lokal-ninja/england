@@ -1,5 +1,5 @@
 ---
 title: "Equichoice"
 url: /holbeach-fen/equichoice/
-shop: Allgemein
+shop: shop
 ---

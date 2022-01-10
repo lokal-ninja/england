@@ -1,5 +1,5 @@
 ---
 title: "Paperchase"
 url: /leeds/paperchase/
-shop: Schreibwaren
+shop: office supplies
 ---

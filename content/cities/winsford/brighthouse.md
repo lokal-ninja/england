@@ -1,5 +1,5 @@
 ---
 title: "BrightHouse"
 url: /winsford/brighthouse/
-shop: Warenhaus
+shop: department store
 ---

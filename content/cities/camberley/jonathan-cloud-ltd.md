@@ -1,5 +1,5 @@
 ---
 title: "Jonathan Cloud Ltd"
 url: /camberley/jonathan-cloud-ltd/
-shop: Autoteile
+shop: car parts
 ---

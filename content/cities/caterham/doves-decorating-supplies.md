@@ -1,5 +1,5 @@
 ---
 title: "Dove's Decorating Supplies"
 url: /caterham/doves-decorating-supplies/
-shop: Raumausstattung
+shop: interior decoration
 ---

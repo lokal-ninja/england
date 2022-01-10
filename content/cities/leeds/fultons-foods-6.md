@@ -1,5 +1,5 @@
 ---
 title: "Fulton's Foods"
 url: /leeds/fultons-foods-6/
-shop: Tiefkühl
+shop: frozen food
 ---

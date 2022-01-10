@@ -1,5 +1,5 @@
 ---
 title: "Hopscotch"
 url: /horsforth/hopscotch/
-shop: Schuhe
+shop: shoes
 ---

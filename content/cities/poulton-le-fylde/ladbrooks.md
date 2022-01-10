@@ -1,5 +1,5 @@
 ---
 title: "Ladbrooks"
 url: /poulton-le-fylde/ladbrooks/
-shop: Wettbüro
+shop: bookmaker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Salons 2"
 url: /dovercourt/salons-2/
-shop: Friseur
+shop: hairdresser
 ---

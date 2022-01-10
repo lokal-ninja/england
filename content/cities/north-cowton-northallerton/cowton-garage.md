@@ -1,5 +1,5 @@
 ---
 title: "Cowton Garage"
 url: /north-cowton-northallerton/cowton-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

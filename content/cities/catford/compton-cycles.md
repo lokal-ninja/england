@@ -1,5 +1,5 @@
 ---
 title: "Compton Cycles"
 url: /catford/compton-cycles/
-shop: Fahrrad
+shop: bicycle
 ---

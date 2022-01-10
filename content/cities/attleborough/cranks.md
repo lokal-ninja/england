@@ -1,5 +1,5 @@
 ---
 title: "Cranks"
 url: /attleborough/cranks/
-shop: Fahrrad
+shop: bicycle
 ---

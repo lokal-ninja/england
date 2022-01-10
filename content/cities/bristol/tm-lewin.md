@@ -1,5 +1,5 @@
 ---
 title: "TM Lewin"
 url: /bristol/tm-lewin/
-shop: Kleidung
+shop: clothes
 ---

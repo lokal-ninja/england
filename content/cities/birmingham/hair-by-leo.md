@@ -1,5 +1,5 @@
 ---
 title: "Hair by Leo"
 url: /birmingham/hair-by-leo/
-shop: Friseur
+shop: hairdresser
 ---

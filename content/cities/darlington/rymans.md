@@ -1,5 +1,5 @@
 ---
 title: "Rymans"
 url: /darlington/rymans/
-shop: Schreibwaren
+shop: office supplies
 ---

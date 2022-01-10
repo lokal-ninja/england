@@ -1,5 +1,5 @@
 ---
 title: "Poundstretcher"
 url: /milton-keynes/poundstretcher/
-shop: Kramladen
+shop: variety store
 ---

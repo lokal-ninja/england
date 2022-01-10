@@ -1,5 +1,5 @@
 ---
 title: "Heavenly Scent"
 url: /darlington/heavenly-scent/
-shop: Andenken
+shop: gift
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Manha Mini Market"
 url: /milton-keynes/manha-mini-market/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Safestore"
 url: /stockport/safestore/
-shop: Mieten
+shop: storage rental
 ---

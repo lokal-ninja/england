@@ -1,5 +1,5 @@
 ---
 title: "Imprints"
 url: /taunton/imprints/
-shop: Kopieren
+shop: copyshop
 ---

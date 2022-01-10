@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /langley-mill/spar/
-shop: Lebensmittel
+shop: convenience
 ---

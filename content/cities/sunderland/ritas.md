@@ -1,5 +1,5 @@
 ---
 title: "Rita's"
 url: /sunderland/ritas/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rosie B"
 url: /stow-on-the-wold/rosie-b/
-shop: Raumausstattung
+shop: interior decoration
 ---

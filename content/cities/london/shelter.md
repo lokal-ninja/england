@@ -1,5 +1,5 @@
 ---
 title: "Shelter"
 url: /london/shelter/
-shop: Gebrauchtwaren
+shop: charity
 ---

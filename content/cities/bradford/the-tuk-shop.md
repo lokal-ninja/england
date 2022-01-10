@@ -1,5 +1,5 @@
 ---
 title: "The Tuk Shop"
 url: /bradford/the-tuk-shop/
-shop: Lebensmittel
+shop: convenience
 ---

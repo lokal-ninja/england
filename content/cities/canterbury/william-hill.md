@@ -1,5 +1,5 @@
 ---
 title: "William Hill"
 url: /canterbury/william-hill/
-shop: Wettbüro
+shop: bookmaker
 ---

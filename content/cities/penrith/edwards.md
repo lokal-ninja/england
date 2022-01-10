@@ -1,5 +1,5 @@
 ---
 title: "Edwards"
 url: /penrith/edwards/
-shop: Kleidung
+shop: clothes
 ---

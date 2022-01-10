@@ -1,5 +1,5 @@
 ---
 title: "Pentagon Seat"
 url: /nottingham/pentagon-seat/
-shop: Autohaus
+shop: car
 ---

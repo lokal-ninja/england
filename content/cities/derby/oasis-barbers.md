@@ -1,5 +1,5 @@
 ---
 title: "Oasis Barbers"
 url: /derby/oasis-barbers/
-shop: Friseur
+shop: hairdresser
 ---

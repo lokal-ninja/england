@@ -1,5 +1,5 @@
 ---
 title: "Travis Perkins"
 url: /london/travis-perkins-2/
-shop: Baumarkt
+shop: doityourself
 ---

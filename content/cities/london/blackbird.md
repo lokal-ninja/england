@@ -1,5 +1,5 @@
 ---
 title: "Blackbird"
 url: /london/blackbird/
-shop: Schmuck
+shop: jewelry
 ---

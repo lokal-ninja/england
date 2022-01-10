@@ -1,5 +1,5 @@
 ---
 title: "Auckside Motors Ltd"
 url: /bishop-auckland/auckside-motors-ltd/
-shop: Autowerkstatt
+shop: car repair
 ---

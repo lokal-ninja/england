@@ -1,5 +1,5 @@
 ---
 title: "Hankinson Optometrist"
 url: /hebburn/hankinson-optometrist/
-shop: Optiker
+shop: optician
 ---

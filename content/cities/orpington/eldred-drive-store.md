@@ -1,5 +1,5 @@
 ---
 title: "Eldred Drive Store"
 url: /orpington/eldred-drive-store/
-shop: Lebensmittel
+shop: convenience
 ---

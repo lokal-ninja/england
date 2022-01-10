@@ -1,5 +1,5 @@
 ---
 title: "Ladbrooks"
 url: /wellingborough/ladbrooks-2/
-shop: Wettbüro
+shop: bookmaker
 ---

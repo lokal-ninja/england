@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
 url: /staines-upon-thames/wilko/
-shop: Kramladen
+shop: variety store
 ---

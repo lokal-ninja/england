@@ -1,5 +1,5 @@
 ---
 title: "Jasmine News"
 url: /london/jasmine-news/
-shop: Zeitungen
+shop: newsagent
 ---

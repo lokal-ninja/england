@@ -1,5 +1,5 @@
 ---
 title: "Fazal's"
 url: /newcastle-upon-tyne/fazals/
-shop: Bäckerei
+shop: bakery
 ---

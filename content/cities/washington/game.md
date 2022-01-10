@@ -1,5 +1,5 @@
 ---
 title: "Game"
 url: /washington/game/
-shop: Videospiele
+shop: video games
 ---

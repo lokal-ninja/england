@@ -1,5 +1,5 @@
 ---
 title: "Poundstretcher"
 url: /oadby/poundstretcher/
-shop: Kramladen
+shop: variety store
 ---

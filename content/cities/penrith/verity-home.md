@@ -1,5 +1,5 @@
 ---
 title: "Verity Home"
 url: /penrith/verity-home/
-shop: Raumausstattung
+shop: interior decoration
 ---

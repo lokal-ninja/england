@@ -1,5 +1,5 @@
 ---
 title: "Widley Express"
 url: /portsmouth/widley-express-2/
-shop: Lebensmittel
+shop: convenience
 ---

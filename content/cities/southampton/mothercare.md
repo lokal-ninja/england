@@ -1,5 +1,5 @@
 ---
 title: "Mothercare"
 url: /southampton/mothercare/
-shop: Babysachen
+shop: baby goods
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fabrics in Canterbury"
 url: /canterbury/fabrics-in-canterbury/
-shop: Raumausstattung
+shop: interior decoration
 ---

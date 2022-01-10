@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /farnborough/decathlon/
-shop: Sport
+shop: sports
 ---

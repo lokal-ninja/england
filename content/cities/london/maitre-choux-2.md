@@ -1,5 +1,5 @@
 ---
 title: "Maitre Choux"
 url: /london/maitre-choux-2/
-shop: Süßwaren
+shop: confectionery
 ---

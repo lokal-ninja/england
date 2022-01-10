@@ -1,5 +1,5 @@
 ---
 title: "GBSG Limited"
 url: /donington/gbsg-limited/
-shop: Sicherheit
+shop: security
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shoe Fix"
 url: /prudhoe/shoe-fix/
-shop: Schuhe
+shop: shoes
 ---

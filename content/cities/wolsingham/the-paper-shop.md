@@ -1,5 +1,5 @@
 ---
 title: "The Paper Shop"
 url: /wolsingham/the-paper-shop/
-shop: Zeitungen
+shop: newsagent
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ickleford Stores"
 url: /ickleford/ickleford-stores/
-shop: Lebensmittel
+shop: convenience
 ---

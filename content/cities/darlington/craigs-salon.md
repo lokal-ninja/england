@@ -1,5 +1,5 @@
 ---
 title: "Craigs Salon"
 url: /darlington/craigs-salon/
-shop: Friseur
+shop: hairdresser
 ---

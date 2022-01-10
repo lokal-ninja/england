@@ -1,5 +1,5 @@
 ---
 title: "Motorworld"
 url: /pensby/motorworld/
-shop: Autowerkstatt
+shop: car repair
 ---

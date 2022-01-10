@@ -1,5 +1,5 @@
 ---
 title: "Re.Store"
 url: /london/re-store/
-shop: Supermarkt
+shop: supermarket
 ---

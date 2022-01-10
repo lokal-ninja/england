@@ -1,5 +1,5 @@
 ---
 title: "The Gallery Cookshop"
 url: /beccles/the-gallery-cookshop/
-shop: Haushaltsartikel
+shop: houseware
 ---

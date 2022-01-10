@@ -1,5 +1,5 @@
 ---
 title: "Keswick Groomers"
 url: /keswick/keswick-groomers/
-shop: Tiersalon
+shop: pet grooming
 ---

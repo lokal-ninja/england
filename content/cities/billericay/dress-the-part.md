@@ -1,5 +1,5 @@
 ---
 title: "Dress the Part"
 url: /billericay/dress-the-part/
-shop: Kleidung
+shop: clothes
 ---

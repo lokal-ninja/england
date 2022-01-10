@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /romford/savers/
-shop: Drogerie
+shop: chemist
 ---

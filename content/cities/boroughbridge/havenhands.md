@@ -1,5 +1,5 @@
 ---
 title: "Havenhands"
 url: /boroughbridge/havenhands/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fultons Foods"
 url: /leeds/fultons-foods-2/
-shop: Allgemein
+shop: shop
 ---

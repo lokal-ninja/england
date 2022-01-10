@@ -1,5 +1,5 @@
 ---
 title: "Evans Halshaw - Ford Burnley"
 url: /burnley/evans-halshaw-ford-burnley/
-shop: Autohaus
+shop: car
 ---

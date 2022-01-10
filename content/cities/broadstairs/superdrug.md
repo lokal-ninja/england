@@ -1,5 +1,5 @@
 ---
 title: "Superdrug"
 url: /broadstairs/superdrug/
-shop: Drogerie
+shop: chemist
 ---

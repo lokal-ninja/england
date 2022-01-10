@@ -1,5 +1,5 @@
 ---
 title: "Leyton Plumbers Merchant"
 url: /london/leyton-plumbers-merchant/
-shop: Baustoffe
+shop: trade
 ---

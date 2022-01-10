@@ -1,5 +1,5 @@
 ---
 title: "Ultimate Finish"
 url: /birmingham/ultimate-finish/
-shop: Autowerkstatt
+shop: car repair
 ---

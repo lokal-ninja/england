@@ -1,5 +1,5 @@
 ---
 title: "Kaleidoscope"
 url: /sandown/kaleidoscope/
-shop: Andenken
+shop: gift
 ---

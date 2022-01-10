@@ -1,5 +1,5 @@
 ---
 title: "Oldfield's Deli"
 url: /barrow-in-furness/oldfields-deli/
-shop: Feinkost
+shop: deli
 ---

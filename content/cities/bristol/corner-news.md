@@ -1,5 +1,5 @@
 ---
 title: "Corner News"
 url: /bristol/corner-news/
-shop: Zeitungen
+shop: newsagent
 ---

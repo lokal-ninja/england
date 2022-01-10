@@ -1,5 +1,5 @@
 ---
 title: "Valeria C"
 url: /olney/valeria-c/
-shop: Kleidung
+shop: clothes
 ---

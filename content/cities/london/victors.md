@@ -1,5 +1,5 @@
 ---
 title: "Victor's"
 url: /london/victors/
-shop: Zeitungen
+shop: newsagent
 ---

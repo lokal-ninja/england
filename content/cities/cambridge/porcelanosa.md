@@ -1,5 +1,5 @@
 ---
 title: "Porcelanosa"
 url: /cambridge/porcelanosa/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Greenbean"
 url: /taunton/greenbean/
-shop: Gemüse & Obst
+shop: greengrocer
 ---

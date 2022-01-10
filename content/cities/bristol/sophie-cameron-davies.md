@@ -1,5 +1,5 @@
 ---
 title: "Sophie Cameron Davies"
 url: /bristol/sophie-cameron-davies/
-shop: Kleidung
+shop: clothes
 ---

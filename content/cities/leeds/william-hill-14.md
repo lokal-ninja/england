@@ -1,5 +1,5 @@
 ---
 title: "William Hill"
 url: /leeds/william-hill-14/
-shop: Wettbüro
+shop: bookmaker
 ---

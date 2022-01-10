@@ -1,5 +1,5 @@
 ---
 title: "Millercare"
 url: /leyland/millercare/
-shop: Allgemein
+shop: shop
 ---

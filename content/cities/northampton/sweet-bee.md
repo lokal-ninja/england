@@ -1,5 +1,5 @@
 ---
 title: "Sweet Bee"
 url: /northampton/sweet-bee/
-shop: Süßwaren
+shop: confectionery
 ---

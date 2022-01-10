@@ -1,5 +1,5 @@
 ---
 title: "Parkers"
 url: /bristol/parkers/
-shop: Wäscherei
+shop: laundry
 ---

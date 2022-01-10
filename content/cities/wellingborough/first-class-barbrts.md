@@ -1,5 +1,5 @@
 ---
 title: "First Class Barbrts"
 url: /wellingborough/first-class-barbrts/
-shop: Friseur
+shop: hairdresser
 ---

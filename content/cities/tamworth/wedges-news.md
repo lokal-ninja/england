@@ -1,5 +1,5 @@
 ---
 title: "Wedges News"
 url: /tamworth/wedges-news/
-shop: Zeitungen
+shop: newsagent
 ---

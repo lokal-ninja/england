@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /goldthorpe/asda/
-shop: Supermarkt
+shop: supermarket
 ---

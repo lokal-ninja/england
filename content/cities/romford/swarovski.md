@@ -1,5 +1,5 @@
 ---
 title: "Swarovski"
 url: /romford/swarovski/
-shop: Schmuck
+shop: jewelry
 ---

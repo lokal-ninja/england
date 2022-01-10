@@ -1,5 +1,5 @@
 ---
 title: "Klass"
 url: /kendal/klass/
-shop: Kleidung
+shop: clothes
 ---

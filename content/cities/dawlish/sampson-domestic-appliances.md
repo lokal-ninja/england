@@ -1,5 +1,5 @@
 ---
 title: "Sampson Domestic Appliances"
 url: /dawlish/sampson-domestic-appliances/
-shop: Elektrisch
+shop: electrical
 ---

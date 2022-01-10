@@ -1,5 +1,5 @@
 ---
 title: "Mastroe"
 url: /bedford/mastroe/
-shop: Kopieren
+shop: copyshop
 ---

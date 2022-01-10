@@ -1,5 +1,5 @@
 ---
 title: "Spar Pinchbeck"
 url: /pinchbeck/spar-pinchbeck/
-shop: Lebensmittel
+shop: convenience
 ---

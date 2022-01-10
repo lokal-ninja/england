@@ -1,5 +1,5 @@
 ---
 title: "Mottingham Tyre Centre"
 url: /london/mottingham-tyre-centre/
-shop: Reifen
+shop: tyres
 ---

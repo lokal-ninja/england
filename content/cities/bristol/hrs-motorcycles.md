@@ -1,5 +1,5 @@
 ---
 title: "HRS Motorcycles"
 url: /bristol/hrs-motorcycles/
-shop: Motorrad
+shop: motorcycle
 ---

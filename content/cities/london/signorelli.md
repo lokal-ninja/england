@@ -1,5 +1,5 @@
 ---
 title: "Signorelli"
 url: /london/signorelli/
-shop: Bäckerei
+shop: bakery
 ---

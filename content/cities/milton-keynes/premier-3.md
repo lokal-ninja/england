@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /milton-keynes/premier-3/
-shop: Lebensmittel
+shop: convenience
 ---

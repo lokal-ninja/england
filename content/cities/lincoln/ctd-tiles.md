@@ -1,5 +1,5 @@
 ---
 title: "CTD Tiles"
 url: /lincoln/ctd-tiles/
-shop: Fliesen
+shop: tiles
 ---

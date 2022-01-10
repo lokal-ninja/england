@@ -1,5 +1,5 @@
 ---
 title: "HiQ Tyres"
 url: /gateshead/hiq-tyres/
-shop: Autowerkstatt
+shop: car repair
 ---

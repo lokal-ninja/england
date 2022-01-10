@@ -1,5 +1,5 @@
 ---
 title: "Mid Kent Golf Club"
 url: /gravesend/mid-kent-golf-club/
-shop: Allgemein
+shop: shop
 ---

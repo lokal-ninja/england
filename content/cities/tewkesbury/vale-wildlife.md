@@ -1,5 +1,5 @@
 ---
 title: "Vale Wildlife"
 url: /tewkesbury/vale-wildlife/
-shop: Gebrauchtwaren
+shop: charity
 ---

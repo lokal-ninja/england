@@ -1,5 +1,5 @@
 ---
 title: "Wokingham Road Motors"
 url: /reading/wokingham-road-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

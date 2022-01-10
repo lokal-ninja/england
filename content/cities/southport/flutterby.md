@@ -1,5 +1,5 @@
 ---
 title: "Flutterby"
 url: /southport/flutterby/
-shop: Kosmetik
+shop: beauty
 ---

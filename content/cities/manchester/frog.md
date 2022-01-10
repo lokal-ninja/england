@@ -1,5 +1,5 @@
 ---
 title: "Frog"
 url: /manchester/frog/
-shop: Blumen
+shop: florist
 ---

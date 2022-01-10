@@ -1,5 +1,5 @@
 ---
 title: "Sherwaz Barber"
 url: /birmingham/sherwaz-barber/
-shop: Friseur
+shop: hairdresser
 ---

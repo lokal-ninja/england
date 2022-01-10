@@ -1,5 +1,5 @@
 ---
 title: "PDSA"
 url: /clacton-on-sea/pdsa/
-shop: Gebrauchtwaren
+shop: charity
 ---

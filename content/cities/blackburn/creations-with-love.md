@@ -1,5 +1,5 @@
 ---
 title: "Creations With Love"
 url: /blackburn/creations-with-love/
-shop: Kleidung
+shop: clothes
 ---

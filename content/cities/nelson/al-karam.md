@@ -1,5 +1,5 @@
 ---
 title: "Al-Karam"
 url: /nelson/al-karam/
-shop: Metzgerei
+shop: butcher
 ---

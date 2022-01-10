@@ -1,5 +1,5 @@
 ---
 title: "Bargain Booze"
 url: /rugby/bargain-booze/
-shop: Spirituosen
+shop: alcohol
 ---

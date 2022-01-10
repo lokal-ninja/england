@@ -1,5 +1,5 @@
 ---
 title: "Clintons"
 url: /haywards-heath/clintons/
-shop: Andenken
+shop: gift
 ---

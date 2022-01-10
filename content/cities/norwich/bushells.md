@@ -1,5 +1,5 @@
 ---
 title: "Bushells"
 url: /norwich/bushells/
-shop: Bäckerei
+shop: bakery
 ---

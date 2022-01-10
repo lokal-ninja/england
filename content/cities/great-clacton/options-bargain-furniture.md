@@ -1,5 +1,5 @@
 ---
 title: "Options Bargain Furniture"
 url: /great-clacton/options-bargain-furniture/
-shop: Möbel
+shop: furniture
 ---

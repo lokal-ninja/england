@@ -1,5 +1,5 @@
 ---
 title: "Fringe"
 url: /waterlooville/fringe/
-shop: Friseur
+shop: hairdresser
 ---

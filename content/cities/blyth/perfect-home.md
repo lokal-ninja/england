@@ -1,5 +1,5 @@
 ---
 title: "Perfect Home"
 url: /blyth/perfect-home/
-shop: Möbel
+shop: furniture
 ---

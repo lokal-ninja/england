@@ -1,5 +1,5 @@
 ---
 title: "Article"
 url: /bath/article/
-shop: Haushaltsartikel
+shop: houseware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Accident Assistance Peterborough Limited"
 url: /peterborough/accident-assistance-peterborough-limited/
-shop: Autowerkstatt
+shop: car repair
 ---

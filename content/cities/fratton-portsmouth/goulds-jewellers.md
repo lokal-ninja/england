@@ -1,5 +1,5 @@
 ---
 title: "Goulds Jewellers"
 url: /fratton-portsmouth/goulds-jewellers/
-shop: Schmuck
+shop: jewelry
 ---

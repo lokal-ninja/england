@@ -1,5 +1,5 @@
 ---
 title: "Al Noor"
 url: /cambridge/al-noor/
-shop: Lebensmittel
+shop: convenience
 ---

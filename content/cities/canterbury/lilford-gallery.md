@@ -1,5 +1,5 @@
 ---
 title: "Lilford Gallery"
 url: /canterbury/lilford-gallery/
-shop: Rahmen
+shop: frame
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Molton Brown"
 url: /salford-quays/molton-brown/
-shop: Kosmetik
+shop: beauty
 ---

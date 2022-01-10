@@ -1,5 +1,5 @@
 ---
 title: "Big Purple Events"
 url: /dunston/big-purple-events/
-shop: Partyzubehör
+shop: party
 ---

@@ -1,5 +1,5 @@
 ---
 title: "M Little"
 url: /hunwick/m-little/
-shop: Zeitungen
+shop: newsagent
 ---

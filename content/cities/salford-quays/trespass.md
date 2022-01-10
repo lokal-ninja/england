@@ -1,5 +1,5 @@
 ---
 title: "Trespass"
 url: /salford-quays/trespass/
-shop: Kleidung
+shop: clothes
 ---

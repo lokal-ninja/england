@@ -1,5 +1,5 @@
 ---
 title: "Urmston Pet Shop"
 url: /manchester/urmston-pet-shop/
-shop: Tiere
+shop: pet
 ---

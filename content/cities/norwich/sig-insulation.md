@@ -1,5 +1,5 @@
 ---
 title: "SIG Insulation"
 url: /norwich/sig-insulation/
-shop: Eisenwaren
+shop: hardware
 ---

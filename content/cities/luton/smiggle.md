@@ -1,5 +1,5 @@
 ---
 title: "Smiggle"
 url: /luton/smiggle/
-shop: Schreibwaren
+shop: office supplies
 ---

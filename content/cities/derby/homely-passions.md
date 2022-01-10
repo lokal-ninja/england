@@ -1,5 +1,5 @@
 ---
 title: "Homely Passions"
 url: /derby/homely-passions/
-shop: Haushaltsartikel
+shop: houseware
 ---

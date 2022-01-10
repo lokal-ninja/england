@@ -1,5 +1,5 @@
 ---
 title: "YMCA"
 url: /street/ymca/
-shop: Gebrauchtwaren
+shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tango Communications"
 url: /derby/tango-communications/
-shop: Handy
+shop: mobile phone
 ---

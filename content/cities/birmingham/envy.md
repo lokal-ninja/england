@@ -1,5 +1,5 @@
 ---
 title: "Envy"
 url: /birmingham/envy/
-shop: Schmuck
+shop: jewelry
 ---

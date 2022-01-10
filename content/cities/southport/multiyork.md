@@ -1,5 +1,5 @@
 ---
 title: "Multiyork"
 url: /southport/multiyork/
-shop: Raumausstattung
+shop: interior decoration
 ---

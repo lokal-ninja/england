@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /durham/savers/
-shop: Drogerie
+shop: chemist
 ---

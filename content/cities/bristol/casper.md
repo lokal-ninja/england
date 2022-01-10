@@ -1,5 +1,5 @@
 ---
 title: "Casper"
 url: /bristol/casper/
-shop: Kunst
+shop: art
 ---

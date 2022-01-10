@@ -1,5 +1,5 @@
 ---
 title: "Hive"
 url: /blackpool/hive/
-shop: Kaffee
+shop: coffee
 ---

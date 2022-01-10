@@ -1,5 +1,5 @@
 ---
 title: "Creative Gold"
 url: /london/creative-gold/
-shop: Schmuck
+shop: jewelry
 ---

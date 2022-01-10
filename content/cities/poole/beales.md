@@ -1,5 +1,5 @@
 ---
 title: "Beales"
 url: /poole/beales/
-shop: Warenhaus
+shop: department store
 ---

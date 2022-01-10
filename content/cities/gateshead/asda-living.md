@@ -1,5 +1,5 @@
 ---
 title: "Asda Living"
 url: /gateshead/asda-living/
-shop: Warenhaus
+shop: department store
 ---

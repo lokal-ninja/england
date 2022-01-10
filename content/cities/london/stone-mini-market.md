@@ -1,5 +1,5 @@
 ---
 title: "Stone Mini Market"
 url: /london/stone-mini-market/
-shop: Lebensmittel
+shop: convenience
 ---

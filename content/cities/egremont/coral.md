@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /egremont/coral/
-shop: Wettbüro
+shop: bookmaker
 ---

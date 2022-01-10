@@ -1,5 +1,5 @@
 ---
 title: "i Cars-UK"
 url: /south-croydon/i-cars-uk/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Glass Solutions"
 url: /gateshead/glass-solutions/
-shop: Allgemein
+shop: shop
 ---

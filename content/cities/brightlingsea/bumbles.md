@@ -1,5 +1,5 @@
 ---
 title: "Bumbles"
 url: /brightlingsea/bumbles/
-shop: Gemüse & Obst
+shop: greengrocer
 ---

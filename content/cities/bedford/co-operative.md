@@ -1,5 +1,5 @@
 ---
 title: "Co-operative"
 url: /bedford/co-operative/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Miss Molly"
 url: /chester-le-street/miss-molly/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dimensions Hair Studio"
 url: /leyland/dimensions-hair-studio/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Holloway Express"
 url: /london/holloway-express/
-shop: Lebensmittel
+shop: convenience
 ---

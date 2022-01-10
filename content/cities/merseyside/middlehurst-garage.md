@@ -1,5 +1,5 @@
 ---
 title: "Middlehurst Garage"
 url: /merseyside/middlehurst-garage/
-shop: Autohaus
+shop: car
 ---

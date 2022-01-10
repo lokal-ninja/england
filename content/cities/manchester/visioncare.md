@@ -1,5 +1,5 @@
 ---
 title: "VisionCare"
 url: /manchester/visioncare/
-shop: Optiker
+shop: optician
 ---

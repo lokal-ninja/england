@@ -1,5 +1,5 @@
 ---
 title: "Boots"
 url: /canterbury/boots/
-shop: Drogerie
+shop: chemist
 ---

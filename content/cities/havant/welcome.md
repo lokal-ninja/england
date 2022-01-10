@@ -1,5 +1,5 @@
 ---
 title: "Welcome"
 url: /havant/welcome/
-shop: Lebensmittel
+shop: convenience
 ---

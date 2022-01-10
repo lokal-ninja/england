@@ -1,5 +1,5 @@
 ---
 title: "Brotherton Music"
 url: /bishop-auckland/brotherton-music/
-shop: Instrumente
+shop: musical instrument
 ---

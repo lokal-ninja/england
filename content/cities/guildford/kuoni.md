@@ -1,5 +1,5 @@
 ---
 title: "Kuoni"
 url: /guildford/kuoni/
-shop: Reisebüro
+shop: travel agency
 ---

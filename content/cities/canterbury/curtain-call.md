@@ -1,5 +1,5 @@
 ---
 title: "Curtain Call"
 url: /canterbury/curtain-call/
-shop: Gardinen
+shop: curtain
 ---

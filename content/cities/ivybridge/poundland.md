@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /ivybridge/poundland/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /coniston/spar/
-shop: Lebensmittel
+shop: convenience
 ---

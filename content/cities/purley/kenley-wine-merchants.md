@@ -1,5 +1,5 @@
 ---
 title: "Kenley Wine Merchants"
 url: /purley/kenley-wine-merchants/
-shop: Spirituosen
+shop: alcohol
 ---

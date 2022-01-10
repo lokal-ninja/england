@@ -1,5 +1,5 @@
 ---
 title: "Digital Outlet"
 url: /bloomsbury-london/digital-outlet/
-shop: Elektronik
+shop: electronics
 ---

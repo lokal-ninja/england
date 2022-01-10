@@ -1,5 +1,5 @@
 ---
 title: "Parmiters"
 url: /southsea/parmiters/
-shop: Antiquitäten
+shop: antiques
 ---

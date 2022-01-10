@@ -1,5 +1,5 @@
 ---
 title: "Rug Emporium"
 url: /kendal/rug-emporium/
-shop: Teppiche
+shop: carpet
 ---

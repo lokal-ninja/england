@@ -1,5 +1,5 @@
 ---
 title: "Barnardo's"
 url: /chigwell/barnardos/
-shop: Gebrauchtwaren
+shop: charity
 ---

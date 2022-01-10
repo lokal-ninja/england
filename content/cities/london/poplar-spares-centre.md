@@ -1,5 +1,5 @@
 ---
 title: "Poplar Spares Centre"
 url: /london/poplar-spares-centre/
-shop: Autoteile
+shop: car parts
 ---

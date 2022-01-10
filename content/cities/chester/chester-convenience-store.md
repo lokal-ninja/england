@@ -1,5 +1,5 @@
 ---
 title: "Chester Convenience Store"
 url: /chester/chester-convenience-store/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Oakwood Post Office"
 url: /derby/oakwood-post-office/
-shop: Lebensmittel
+shop: convenience
 ---

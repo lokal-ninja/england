@@ -1,5 +1,5 @@
 ---
 title: "Brindley Hyundai"
 url: /west-bromwich/brindley-hyundai/
-shop: Autohaus
+shop: car
 ---

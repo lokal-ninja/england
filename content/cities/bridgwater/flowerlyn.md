@@ -1,5 +1,5 @@
 ---
 title: "FlowerLyn"
 url: /bridgwater/flowerlyn/
-shop: Blumen
+shop: florist
 ---

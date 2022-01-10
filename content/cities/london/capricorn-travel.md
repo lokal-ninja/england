@@ -1,5 +1,5 @@
 ---
 title: "Capricorn Travel"
 url: /london/capricorn-travel/
-shop: Reisebüro
+shop: travel agency
 ---

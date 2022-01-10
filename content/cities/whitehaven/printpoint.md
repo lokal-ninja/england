@@ -1,5 +1,5 @@
 ---
 title: "Printpoint"
 url: /whitehaven/printpoint/
-shop: Allgemein
+shop: shop
 ---

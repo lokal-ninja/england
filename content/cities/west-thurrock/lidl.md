@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /west-thurrock/lidl/
-shop: Supermarkt
+shop: supermarket
 ---

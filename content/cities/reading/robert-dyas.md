@@ -1,5 +1,5 @@
 ---
 title: "Robert Dyas"
 url: /reading/robert-dyas/
-shop: Elektronik
+shop: electronics
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Adaptations"
 url: /cobham/adaptations/
-shop: Küchen
+shop: kitchen
 ---

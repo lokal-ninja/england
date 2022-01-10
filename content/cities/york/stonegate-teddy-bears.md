@@ -1,5 +1,5 @@
 ---
 title: "Stonegate Teddy Bears"
 url: /york/stonegate-teddy-bears/
-shop: Andenken
+shop: gift
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
 url: /preston/wilko/
-shop: Kramladen
+shop: variety store
 ---

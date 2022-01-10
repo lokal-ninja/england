@@ -1,5 +1,5 @@
 ---
 title: "Cotswold Bridal Boutique"
 url: /lechlade/cotswold-bridal-boutique/
-shop: Kleidung
+shop: clothes
 ---

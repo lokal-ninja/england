@@ -1,5 +1,5 @@
 ---
 title: "Collingwood Batchellor"
 url: /horsham/collingwood-batchellor/
-shop: Haushaltsartikel
+shop: houseware
 ---

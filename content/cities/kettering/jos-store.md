@@ -1,5 +1,5 @@
 ---
 title: "Jos Store"
 url: /kettering/jos-store/
-shop: Zeitungen
+shop: newsagent
 ---

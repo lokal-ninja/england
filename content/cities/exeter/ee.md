@@ -1,5 +1,5 @@
 ---
 title: "EE"
 url: /exeter/ee/
-shop: Handy
+shop: mobile phone
 ---

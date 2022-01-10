@@ -1,5 +1,5 @@
 ---
 title: "Way Ahead"
 url: /brighton/way-ahead/
-shop: Friseur
+shop: hairdresser
 ---

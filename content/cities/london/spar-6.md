@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /london/spar-6/
-shop: Lebensmittel
+shop: convenience
 ---

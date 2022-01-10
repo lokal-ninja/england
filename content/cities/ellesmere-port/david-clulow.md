@@ -1,5 +1,5 @@
 ---
 title: "David Clulow"
 url: /ellesmere-port/david-clulow/
-shop: Allgemein
+shop: shop
 ---

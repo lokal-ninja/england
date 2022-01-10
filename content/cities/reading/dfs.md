@@ -1,5 +1,5 @@
 ---
 title: "DFS"
 url: /reading/dfs/
-shop: Möbel
+shop: furniture
 ---

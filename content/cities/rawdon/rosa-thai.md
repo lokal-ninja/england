@@ -1,5 +1,5 @@
 ---
 title: "Rosa Thai"
 url: /rawdon/rosa-thai/
-shop: Massage
+shop: massage
 ---

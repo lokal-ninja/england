@@ -1,5 +1,5 @@
 ---
 title: "May's"
 url: /dartford/mays/
-shop: Motorrad
+shop: motorcycle
 ---

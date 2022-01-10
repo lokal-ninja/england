@@ -1,5 +1,5 @@
 ---
 title: "Superdrug"
 url: /chesterfield/superdrug/
-shop: Drogerie
+shop: chemist
 ---

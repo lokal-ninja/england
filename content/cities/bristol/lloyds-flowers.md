@@ -1,5 +1,5 @@
 ---
 title: "Lloyds Flowers"
 url: /bristol/lloyds-flowers/
-shop: Blumen
+shop: florist
 ---

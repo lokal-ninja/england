@@ -1,5 +1,5 @@
 ---
 title: "Pet Luv"
 url: /swanage/pet-luv/
-shop: Tiere
+shop: pet
 ---

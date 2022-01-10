@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /east-grinstead/costcutter/
-shop: Lebensmittel
+shop: convenience
 ---

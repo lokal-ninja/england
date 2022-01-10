@@ -1,5 +1,5 @@
 ---
 title: "Boldon Funeral Services"
 url: /boldon-colliery/boldon-funeral-services/
-shop: Bestattungen
+shop: funeral directors
 ---

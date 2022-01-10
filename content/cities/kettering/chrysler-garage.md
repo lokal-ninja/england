@@ -1,5 +1,5 @@
 ---
 title: "Chrysler Garage"
 url: /kettering/chrysler-garage/
-shop: Lebensmittel
+shop: convenience
 ---

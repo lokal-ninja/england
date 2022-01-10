@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /pelaw/premier/
-shop: Lebensmittel
+shop: convenience
 ---

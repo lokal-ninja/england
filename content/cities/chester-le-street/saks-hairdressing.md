@@ -1,5 +1,5 @@
 ---
 title: "Saks Hairdressing"
 url: /chester-le-street/saks-hairdressing/
-shop: Friseur
+shop: hairdresser
 ---

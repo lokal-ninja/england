@@ -1,5 +1,5 @@
 ---
 title: "Mothercare"
 url: /leicester/mothercare/
-shop: Babysachen
+shop: baby goods
 ---

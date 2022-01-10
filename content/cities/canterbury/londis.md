@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /canterbury/londis/
-shop: Lebensmittel
+shop: convenience
 ---

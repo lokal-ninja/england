@@ -1,5 +1,5 @@
 ---
 title: "Icut"
 url: /colchester/icut/
-shop: Friseur
+shop: hairdresser
 ---

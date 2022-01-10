@@ -1,5 +1,5 @@
 ---
 title: "Dreams"
 url: /kidderminster/dreams/
-shop: Betten
+shop: bed
 ---

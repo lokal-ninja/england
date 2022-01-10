@@ -1,5 +1,5 @@
 ---
 title: "Biotech Pharmacy"
 url: /london/biotech-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

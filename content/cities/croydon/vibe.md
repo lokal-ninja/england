@@ -1,5 +1,5 @@
 ---
 title: "Vibe"
 url: /croydon/vibe/
-shop: Kleidung
+shop: clothes
 ---

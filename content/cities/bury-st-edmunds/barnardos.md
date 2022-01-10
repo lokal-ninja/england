@@ -1,5 +1,5 @@
 ---
 title: "Barnardo's"
 url: /bury-st-edmunds/barnardos/
-shop: Gebrauchtwaren
+shop: charity
 ---

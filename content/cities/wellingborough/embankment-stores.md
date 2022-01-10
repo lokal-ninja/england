@@ -1,5 +1,5 @@
 ---
 title: "Embankment Stores"
 url: /wellingborough/embankment-stores/
-shop: Lebensmittel
+shop: convenience
 ---

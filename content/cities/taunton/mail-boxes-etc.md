@@ -1,5 +1,5 @@
 ---
 title: "Mail Boxes Etc."
 url: /taunton/mail-boxes-etc/
-shop: Schreibwaren
+shop: office supplies
 ---

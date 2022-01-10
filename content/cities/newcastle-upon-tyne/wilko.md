@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
 url: /newcastle-upon-tyne/wilko/
-shop: Warenhaus
+shop: department store
 ---

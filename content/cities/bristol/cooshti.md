@@ -1,5 +1,5 @@
 ---
 title: "Cooshti"
 url: /bristol/cooshti/
-shop: Kleidung
+shop: clothes
 ---

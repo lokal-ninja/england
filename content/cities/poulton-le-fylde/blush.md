@@ -1,5 +1,5 @@
 ---
 title: "Blush"
 url: /poulton-le-fylde/blush/
-shop: Kleidung
+shop: clothes
 ---

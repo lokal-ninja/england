@@ -1,5 +1,5 @@
 ---
 title: "Euroessential"
 url: /birmingham/euroessential/
-shop: Lebensmittel
+shop: convenience
 ---

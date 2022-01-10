@@ -1,5 +1,5 @@
 ---
 title: "PDSA"
 url: /whitley-bay/pdsa/
-shop: Gebrauchtwaren
+shop: charity
 ---

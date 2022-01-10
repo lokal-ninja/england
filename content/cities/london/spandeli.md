@@ -1,5 +1,5 @@
 ---
 title: "Spandeli"
 url: /london/spandeli/
-shop: Feinkost
+shop: deli
 ---

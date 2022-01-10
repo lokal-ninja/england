@@ -1,5 +1,5 @@
 ---
 title: "Home Bargains"
 url: /thornton-cleveleys/home-bargains/
-shop: Warenhaus
+shop: department store
 ---

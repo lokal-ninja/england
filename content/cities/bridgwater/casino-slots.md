@@ -1,5 +1,5 @@
 ---
 title: "Casino Slots"
 url: /bridgwater/casino-slots/
-shop: Allgemein
+shop: shop
 ---

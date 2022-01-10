@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
 url: /bridgwater/wilko/
-shop: Kramladen
+shop: variety store
 ---

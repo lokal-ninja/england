@@ -1,5 +1,5 @@
 ---
 title: "Dave Hudson Electrical"
 url: /penrith/dave-hudson-electrical/
-shop: Elektronik
+shop: electronics
 ---

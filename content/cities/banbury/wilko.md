@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
 url: /banbury/wilko/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gabriel Machin"
 url: /henley-on-thames/gabriel-machin/
-shop: Metzgerei
+shop: butcher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MenKind"
 url: /bristol/menkind-2/
-shop: Andenken
+shop: gift
 ---

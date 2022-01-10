@@ -1,5 +1,5 @@
 ---
 title: "Aspirit"
 url: /stockport/aspirit/
-shop: Allgemein
+shop: shop
 ---

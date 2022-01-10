@@ -1,5 +1,5 @@
 ---
 title: "BetSid"
 url: /chorley/betsid/
-shop: Wettbüro
+shop: bookmaker
 ---

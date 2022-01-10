@@ -1,5 +1,5 @@
 ---
 title: "Decorus Fine Jewellery"
 url: /oxted/decorus-fine-jewellery/
-shop: Schmuck
+shop: jewelry
 ---

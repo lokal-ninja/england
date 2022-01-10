@@ -1,5 +1,5 @@
 ---
 title: "Jackias"
 url: /harleston/jackias/
-shop: Raumausstattung
+shop: interior decoration
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ryness"
 url: /london/ryness/
-shop: Haushaltsgeräte
+shop: appliance
 ---

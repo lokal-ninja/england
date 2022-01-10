@@ -1,5 +1,5 @@
 ---
 title: "Debra"
 url: /bognor-regis/debra/
-shop: Gebrauchtwaren
+shop: charity
 ---

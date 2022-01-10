@@ -1,5 +1,5 @@
 ---
 title: "Talk Crazy"
 url: /wolverhampton/talk-crazy/
-shop: Handy
+shop: mobile phone
 ---

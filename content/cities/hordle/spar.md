@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /hordle/spar/
-shop: Lebensmittel
+shop: convenience
 ---

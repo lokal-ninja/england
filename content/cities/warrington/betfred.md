@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /warrington/betfred/
-shop: Wettbüro
+shop: bookmaker
 ---

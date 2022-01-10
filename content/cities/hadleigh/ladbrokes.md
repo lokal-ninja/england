@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /hadleigh/ladbrokes/
-shop: Wettbüro
+shop: bookmaker
 ---

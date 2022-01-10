@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /braunstone-town/asda/
-shop: Supermarkt
+shop: supermarket
 ---

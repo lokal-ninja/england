@@ -1,5 +1,5 @@
 ---
 title: "Neshams Garage"
 url: /richmond/neshams-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

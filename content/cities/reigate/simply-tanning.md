@@ -1,5 +1,5 @@
 ---
 title: "Simply Tanning"
 url: /reigate/simply-tanning/
-shop: Kosmetik
+shop: beauty
 ---

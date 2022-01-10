@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /chorley/poundland/
-shop: Kramladen
+shop: variety store
 ---

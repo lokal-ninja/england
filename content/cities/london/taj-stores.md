@@ -1,5 +1,5 @@
 ---
 title: "Taj Stores"
 url: /london/taj-stores/
-shop: Supermarkt
+shop: supermarket
 ---

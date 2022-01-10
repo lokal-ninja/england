@@ -1,5 +1,5 @@
 ---
 title: "Z Butt Textiles"
 url: /london/z-butt-textiles/
-shop: Textil
+shop: fabric
 ---

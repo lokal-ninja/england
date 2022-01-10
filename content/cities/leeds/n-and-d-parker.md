@@ -1,5 +1,5 @@
 ---
 title: "N And D Parker"
 url: /leeds/n-and-d-parker/
-shop: Zeitungen
+shop: newsagent
 ---

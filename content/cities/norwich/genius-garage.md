@@ -1,5 +1,5 @@
 ---
 title: "Genius Garage"
 url: /norwich/genius-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

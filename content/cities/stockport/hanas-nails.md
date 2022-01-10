@@ -1,5 +1,5 @@
 ---
 title: "Hana's Nails"
 url: /stockport/hanas-nails/
-shop: Kosmetik
+shop: beauty
 ---

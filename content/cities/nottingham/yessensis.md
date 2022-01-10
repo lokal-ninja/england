@@ -1,5 +1,5 @@
 ---
 title: "Yessensis"
 url: /nottingham/yessensis/
-shop: Kosmetik
+shop: beauty
 ---

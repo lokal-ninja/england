@@ -1,5 +1,5 @@
 ---
 title: "Reigate Convienience Store"
 url: /reigate/reigate-convienience-store/
-shop: Lebensmittel
+shop: convenience
 ---

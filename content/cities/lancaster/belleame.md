@@ -1,5 +1,5 @@
 ---
 title: "belleâme"
 url: /lancaster/belleame/
-shop: Friseur
+shop: hairdresser
 ---

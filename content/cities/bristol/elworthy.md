@@ -1,5 +1,5 @@
 ---
 title: "Elworthy"
 url: /bristol/elworthy/
-shop: Schreibwaren
+shop: office supplies
 ---

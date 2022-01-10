@@ -1,5 +1,5 @@
 ---
 title: "Debenhams"
 url: /bristol/debenhams/
-shop: Warenhaus
+shop: department store
 ---

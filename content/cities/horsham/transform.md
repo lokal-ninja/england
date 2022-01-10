@@ -1,5 +1,5 @@
 ---
 title: "Transform"
 url: /horsham/transform/
-shop: Kosmetik
+shop: beauty
 ---

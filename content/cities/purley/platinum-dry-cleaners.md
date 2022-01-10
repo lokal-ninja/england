@@ -1,5 +1,5 @@
 ---
 title: "Platinum Dry Cleaners"
 url: /purley/platinum-dry-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ryder"
 url: /devizes/ryder/
-shop: Mieten
+shop: storage rental
 ---

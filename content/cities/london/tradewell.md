@@ -1,5 +1,5 @@
 ---
 title: "Tradewell"
 url: /london/tradewell/
-shop: Autoteile
+shop: car parts
 ---

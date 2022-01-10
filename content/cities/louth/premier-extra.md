@@ -1,5 +1,5 @@
 ---
 title: "Premier Extra"
 url: /louth/premier-extra/
-shop: Lebensmittel
+shop: convenience
 ---

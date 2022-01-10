@@ -1,5 +1,5 @@
 ---
 title: "Halfords"
 url: /coventry/halfords/
-shop: Autoteile
+shop: car parts
 ---

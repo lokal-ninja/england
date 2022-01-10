@@ -1,5 +1,5 @@
 ---
 title: "D L Hancock ltd"
 url: /oxford/d-l-hancock-ltd/
-shop: Bestattungen
+shop: funeral directors
 ---

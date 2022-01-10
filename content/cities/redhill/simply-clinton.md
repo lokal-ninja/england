@@ -1,5 +1,5 @@
 ---
 title: "Simply Clinton"
 url: /redhill/simply-clinton/
-shop: Schreibwaren
+shop: office supplies
 ---

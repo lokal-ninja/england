@@ -1,5 +1,5 @@
 ---
 title: "Moores Interiors"
 url: /pinner/moores-interiors/
-shop: Raumausstattung
+shop: interior decoration
 ---

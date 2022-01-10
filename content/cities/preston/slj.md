@@ -1,5 +1,5 @@
 ---
 title: "SLJ"
 url: /preston/slj/
-shop: Möbel
+shop: furniture
 ---

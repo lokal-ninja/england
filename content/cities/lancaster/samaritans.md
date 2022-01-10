@@ -1,5 +1,5 @@
 ---
 title: "Samaritans"
 url: /lancaster/samaritans/
-shop: Gebrauchtwaren
+shop: charity
 ---

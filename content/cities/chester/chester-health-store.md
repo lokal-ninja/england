@@ -1,5 +1,5 @@
 ---
 title: "Chester Health Store"
 url: /chester/chester-health-store/
-shop: Bioladen
+shop: health food
 ---

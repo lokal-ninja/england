@@ -1,5 +1,5 @@
 ---
 title: "OneBelow"
 url: /clacton-on-sea/onebelow/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /tadworth/asda/
-shop: Supermarkt
+shop: supermarket
 ---

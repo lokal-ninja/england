@@ -1,5 +1,5 @@
 ---
 title: "Gospodina Magazin Românesc"
 url: /london/gospodina-magazin-romanesc/
-shop: Lebensmittel
+shop: convenience
 ---

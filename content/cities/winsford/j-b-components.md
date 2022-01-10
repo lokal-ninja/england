@@ -1,5 +1,5 @@
 ---
 title: "J B Components"
 url: /winsford/j-b-components/
-shop: Autoteile
+shop: car parts
 ---

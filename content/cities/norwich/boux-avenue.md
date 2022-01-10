@@ -1,5 +1,5 @@
 ---
 title: "Boux Avenue"
 url: /norwich/boux-avenue/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Halo"
 url: /huddersfield/halo/
-shop: Friseur
+shop: hairdresser
 ---

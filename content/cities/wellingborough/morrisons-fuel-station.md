@@ -1,5 +1,5 @@
 ---
 title: "Morrisons Fuel station"
 url: /wellingborough/morrisons-fuel-station/
-shop: Kiosk
+shop: kiosk
 ---

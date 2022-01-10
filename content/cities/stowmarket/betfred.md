@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /stowmarket/betfred/
-shop: Wettbüro
+shop: bookmaker
 ---

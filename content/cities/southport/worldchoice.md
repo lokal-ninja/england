@@ -1,5 +1,5 @@
 ---
 title: "Worldchoice"
 url: /southport/worldchoice/
-shop: Reisebüro
+shop: travel agency
 ---

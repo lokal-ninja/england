@@ -1,5 +1,5 @@
 ---
 title: "Pybus Opticians"
 url: /canterbury/pybus-opticians/
-shop: Optiker
+shop: optician
 ---

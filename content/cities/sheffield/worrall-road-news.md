@@ -1,5 +1,5 @@
 ---
 title: "Worrall Road News"
 url: /sheffield/worrall-road-news/
-shop: Zeitungen
+shop: newsagent
 ---

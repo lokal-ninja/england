@@ -1,5 +1,5 @@
 ---
 title: "Nisa Local"
 url: /houghton-regis/nisa-local/
-shop: Lebensmittel
+shop: convenience
 ---

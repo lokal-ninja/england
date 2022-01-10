@@ -1,5 +1,5 @@
 ---
 title: "Salon Services"
 url: /coventry/salon-services/
-shop: Kosmetik
+shop: beauty
 ---

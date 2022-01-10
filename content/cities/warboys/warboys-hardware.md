@@ -1,5 +1,5 @@
 ---
 title: "Warboys Hardware"
 url: /warboys/warboys-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

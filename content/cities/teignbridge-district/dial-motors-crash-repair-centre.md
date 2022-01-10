@@ -1,5 +1,5 @@
 ---
 title: "Dial Motors Crash Repair Centre"
 url: /teignbridge-district/dial-motors-crash-repair-centre/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tim Payton Butchers"
 url: /bridgwater/tim-payton-butchers/
-shop: Metzgerei
+shop: butcher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Oakville Flooring"
 url: /birmingham/oakville-flooring/
-shop: Fußböden
+shop: flooring
 ---

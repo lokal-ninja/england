@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /leyland/costcutter/
-shop: Lebensmittel
+shop: convenience
 ---

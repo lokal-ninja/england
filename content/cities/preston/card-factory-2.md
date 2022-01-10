@@ -1,5 +1,5 @@
 ---
 title: "Card Factory"
 url: /preston/card-factory-2/
-shop: Allgemein
+shop: shop
 ---

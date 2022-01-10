@@ -1,5 +1,5 @@
 ---
 title: "Catercare"
 url: /sandown/catercare/
-shop: Allgemein
+shop: shop
 ---

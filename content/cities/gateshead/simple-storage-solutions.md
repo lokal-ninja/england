@@ -1,5 +1,5 @@
 ---
 title: "Simple Storage Solutions"
 url: /gateshead/simple-storage-solutions/
-shop: Mieten
+shop: storage rental
 ---

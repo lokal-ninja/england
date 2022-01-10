@@ -1,5 +1,5 @@
 ---
 title: "The Modern Newsagent"
 url: /worcester/the-modern-newsagent/
-shop: Zeitungen
+shop: newsagent
 ---

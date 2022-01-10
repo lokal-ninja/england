@@ -1,5 +1,5 @@
 ---
 title: "Salon 50"
 url: /ripley/salon-50/
-shop: Gebrauchtwaren
+shop: charity
 ---

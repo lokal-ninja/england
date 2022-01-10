@@ -1,5 +1,5 @@
 ---
 title: "Jonathan Quearney"
 url: /london/jonathan-quearney/
-shop: Schneiderei
+shop: tailor
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Worboys Garage"
 url: /gamlingay/worboys-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

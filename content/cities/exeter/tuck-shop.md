@@ -1,5 +1,5 @@
 ---
 title: "Tuck Shop"
 url: /exeter/tuck-shop/
-shop: Allgemein
+shop: shop
 ---

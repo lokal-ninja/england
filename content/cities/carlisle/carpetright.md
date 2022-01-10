@@ -1,5 +1,5 @@
 ---
 title: "Carpetright"
 url: /carlisle/carpetright/
-shop: Teppiche
+shop: carpet
 ---

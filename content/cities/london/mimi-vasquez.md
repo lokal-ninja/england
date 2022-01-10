@@ -1,5 +1,5 @@
 ---
 title: "Mimi Vasquez"
 url: /london/mimi-vasquez/
-shop: Friseur
+shop: hairdresser
 ---

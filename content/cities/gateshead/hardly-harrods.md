@@ -1,5 +1,5 @@
 ---
 title: "Hardly Harrods"
 url: /gateshead/hardly-harrods/
-shop: Allgemein
+shop: shop
 ---

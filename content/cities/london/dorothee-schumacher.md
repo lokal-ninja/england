@@ -1,5 +1,5 @@
 ---
 title: "Dorothee Schumacher"
 url: /london/dorothee-schumacher/
-shop: Kleidung
+shop: clothes
 ---

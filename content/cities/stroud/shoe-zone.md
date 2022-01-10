@@ -1,5 +1,5 @@
 ---
 title: "Shoe Zone"
 url: /stroud/shoe-zone/
-shop: Schuhe
+shop: shoes
 ---

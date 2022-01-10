@@ -1,5 +1,5 @@
 ---
 title: "Nantucket"
 url: /reigate/nantucket/
-shop: Raumausstattung
+shop: interior decoration
 ---

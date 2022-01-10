@@ -1,5 +1,5 @@
 ---
 title: "Poundworld"
 url: /banbury/poundworld/
-shop: Kramladen
+shop: variety store
 ---

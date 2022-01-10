@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /alnwick/whsmith/
-shop: Zeitungen
+shop: newsagent
 ---

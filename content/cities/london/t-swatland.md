@@ -1,5 +1,5 @@
 ---
 title: "T. Swatland"
 url: /london/t-swatland/
-shop: Metzgerei
+shop: butcher
 ---

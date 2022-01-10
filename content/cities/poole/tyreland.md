@@ -1,5 +1,5 @@
 ---
 title: "TyreLand"
 url: /poole/tyreland/
-shop: Autowerkstatt
+shop: car repair
 ---

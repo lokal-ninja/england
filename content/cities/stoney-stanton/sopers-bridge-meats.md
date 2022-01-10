@@ -1,5 +1,5 @@
 ---
 title: "Sopers Bridge Meats"
 url: /stoney-stanton/sopers-bridge-meats/
-shop: Hofladen
+shop: farm
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ava Jewels"
 url: /clacton-on-sea/ava-jewels/
-shop: Schmuck
+shop: jewelry
 ---

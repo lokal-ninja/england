@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /luton/betfred-2/
-shop: Wettbüro
+shop: bookmaker
 ---

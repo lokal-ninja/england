@@ -1,5 +1,5 @@
 ---
 title: "Chittock's"
 url: /bishop-auckland/chittocks/
-shop: Feinkost
+shop: deli
 ---

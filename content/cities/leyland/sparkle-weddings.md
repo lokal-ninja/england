@@ -1,5 +1,5 @@
 ---
 title: "Sparkle Weddings"
 url: /leyland/sparkle-weddings/
-shop: Allgemein
+shop: shop
 ---

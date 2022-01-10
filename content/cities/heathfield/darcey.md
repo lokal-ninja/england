@@ -1,5 +1,5 @@
 ---
 title: "Darcey"
 url: /heathfield/darcey/
-shop: Kleidung
+shop: clothes
 ---

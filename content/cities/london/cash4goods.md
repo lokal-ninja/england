@@ -1,5 +1,5 @@
 ---
 title: "Cash4Goods"
 url: /london/cash4goods/
-shop: Leiher
+shop: pawnbroker
 ---

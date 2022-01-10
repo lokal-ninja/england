@@ -1,5 +1,5 @@
 ---
 title: "Tesco Extra"
 url: /kettering/tesco-extra/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Barber of Neville"
 url: /durham/barber-of-neville/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Sugar Mouse"
 url: /barnard-castle/the-sugar-mouse/
-shop: Andenken
+shop: gift
 ---

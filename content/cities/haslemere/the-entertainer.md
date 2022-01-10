@@ -1,5 +1,5 @@
 ---
 title: "The Entertainer"
 url: /haslemere/the-entertainer/
-shop: Spielzeug
+shop: toys
 ---

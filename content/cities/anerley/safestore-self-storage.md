@@ -1,5 +1,5 @@
 ---
 title: "Safestore Self Storage"
 url: /anerley/safestore-self-storage/
-shop: Mieten
+shop: storage rental
 ---

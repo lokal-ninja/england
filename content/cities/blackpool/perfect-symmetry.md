@@ -1,5 +1,5 @@
 ---
 title: "Perfect Symmetry"
 url: /blackpool/perfect-symmetry/
-shop: Kosmetik
+shop: beauty
 ---

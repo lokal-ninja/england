@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /lydd/spar/
-shop: Supermarkt
+shop: supermarket
 ---

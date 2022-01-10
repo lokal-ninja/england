@@ -1,5 +1,5 @@
 ---
 title: "Thomson Travel Ltd"
 url: /bridgwater/thomson-travel-ltd/
-shop: Reisebüro
+shop: travel agency
 ---

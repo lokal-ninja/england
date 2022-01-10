@@ -1,5 +1,5 @@
 ---
 title: "Premier Feniscowles Post Office"
 url: /blackburn/premier-feniscowles-post-office/
-shop: Lebensmittel
+shop: convenience
 ---

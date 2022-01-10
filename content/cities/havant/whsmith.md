@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /havant/whsmith/
-shop: Bücher
+shop: books
 ---

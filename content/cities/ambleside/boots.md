@@ -1,5 +1,5 @@
 ---
 title: "Boots"
 url: /ambleside/boots/
-shop: Drogerie
+shop: chemist
 ---

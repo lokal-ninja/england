@@ -1,5 +1,5 @@
 ---
 title: "Waterdown Road Convenience Store"
 url: /nottingham/waterdown-road-convenience-store/
-shop: Lebensmittel
+shop: convenience
 ---

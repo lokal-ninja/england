@@ -1,5 +1,5 @@
 ---
 title: "Flower Vogue"
 url: /new-milton/flower-vogue/
-shop: Blumen
+shop: florist
 ---

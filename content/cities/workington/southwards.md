@@ -1,5 +1,5 @@
 ---
 title: "Southwards"
 url: /workington/southwards/
-shop: Teppiche
+shop: carpet
 ---

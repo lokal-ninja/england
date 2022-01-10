@@ -1,5 +1,5 @@
 ---
 title: "Island Convenience Store"
 url: /derby/island-convenience-store/
-shop: Lebensmittel
+shop: convenience
 ---

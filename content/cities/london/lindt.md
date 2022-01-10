@@ -1,5 +1,5 @@
 ---
 title: "Lindt"
 url: /london/lindt/
-shop: Süßwaren
+shop: confectionery
 ---

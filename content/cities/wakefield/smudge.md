@@ -1,5 +1,5 @@
 ---
 title: "Smudge"
 url: /wakefield/smudge/
-shop: Andenken
+shop: gift
 ---

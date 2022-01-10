@@ -1,5 +1,5 @@
 ---
 title: "Patisserie Valerie"
 url: /london/patisserie-valerie/
-shop: Süßwaren
+shop: confectionery
 ---

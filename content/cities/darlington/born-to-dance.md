@@ -1,5 +1,5 @@
 ---
 title: "Born to Dance"
 url: /darlington/born-to-dance/
-shop: Allgemein
+shop: shop
 ---

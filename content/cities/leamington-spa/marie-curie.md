@@ -1,5 +1,5 @@
 ---
 title: "Marie Curie"
 url: /leamington-spa/marie-curie/
-shop: Gebrauchtwaren
+shop: charity
 ---

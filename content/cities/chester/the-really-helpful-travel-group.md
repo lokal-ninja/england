@@ -1,5 +1,5 @@
 ---
 title: "The Really Helpful Travel Group"
 url: /chester/the-really-helpful-travel-group/
-shop: Reisebüro
+shop: travel agency
 ---

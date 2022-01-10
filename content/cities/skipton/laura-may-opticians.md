@@ -1,5 +1,5 @@
 ---
 title: "Laura May Opticians"
 url: /skipton/laura-may-opticians/
-shop: Optiker
+shop: optician
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /dunnington/costcutter/
-shop: Lebensmittel
+shop: convenience
 ---

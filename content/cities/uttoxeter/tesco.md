@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /uttoxeter/tesco/
-shop: Supermarkt
+shop: supermarket
 ---

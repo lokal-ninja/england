@@ -1,5 +1,5 @@
 ---
 title: "Cotton TV Rentals"
 url: /peterborough/cotton-tv-rentals/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ABC Music"
 url: /esher/abc-music/
-shop: Musik
+shop: music
 ---

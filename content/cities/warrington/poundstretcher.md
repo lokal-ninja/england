@@ -1,5 +1,5 @@
 ---
 title: "Poundstretcher"
 url: /warrington/poundstretcher/
-shop: Kramladen
+shop: variety store
 ---

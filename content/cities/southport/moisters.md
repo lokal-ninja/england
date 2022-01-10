@@ -1,5 +1,5 @@
 ---
 title: "Moisters"
 url: /southport/moisters/
-shop: Bestattungen
+shop: funeral directors
 ---

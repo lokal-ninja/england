@@ -1,5 +1,5 @@
 ---
 title: "Snug Heating"
 url: /birmingham/snug-heating/
-shop: Allgemein
+shop: shop
 ---

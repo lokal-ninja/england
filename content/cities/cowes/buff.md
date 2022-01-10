@@ -1,5 +1,5 @@
 ---
 title: "Buff"
 url: /cowes/buff/
-shop: Andenken
+shop: gift
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /hastings/betfred/
-shop: Wettbüro
+shop: bookmaker
 ---

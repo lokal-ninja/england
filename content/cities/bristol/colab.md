@@ -1,5 +1,5 @@
 ---
 title: "CoLab"
 url: /bristol/colab/
-shop: Kunst
+shop: art
 ---

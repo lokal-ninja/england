@@ -1,5 +1,5 @@
 ---
 title: "Patriot Games"
 url: /leeds/patriot-games/
-shop: Spiele
+shop: games
 ---

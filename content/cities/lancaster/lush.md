@@ -1,5 +1,5 @@
 ---
 title: "Lush"
 url: /lancaster/lush/
-shop: Kosmetik
+shop: beauty
 ---

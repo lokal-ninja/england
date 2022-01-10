@@ -1,5 +1,5 @@
 ---
 title: "Occasions"
 url: /cromer/occasions/
-shop: Andenken
+shop: gift
 ---

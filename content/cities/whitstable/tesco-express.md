@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /whitstable/tesco-express/
-shop: Lebensmittel
+shop: convenience
 ---

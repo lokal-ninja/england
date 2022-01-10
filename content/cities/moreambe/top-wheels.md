@@ -1,5 +1,5 @@
 ---
 title: "Top Wheels"
 url: /moreambe/top-wheels/
-shop: Autowerkstatt
+shop: car repair
 ---

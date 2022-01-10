@@ -1,5 +1,5 @@
 ---
 title: "Hamseys"
 url: /leatherhead/hamseys/
-shop: Möbel
+shop: furniture
 ---

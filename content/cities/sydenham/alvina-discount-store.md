@@ -1,5 +1,5 @@
 ---
 title: "Alvina Discount Store"
 url: /sydenham/alvina-discount-store/
-shop: Kramladen
+shop: variety store
 ---

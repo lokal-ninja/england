@@ -1,5 +1,5 @@
 ---
 title: "Thorp Photography"
 url: /northwich/thorp-photography/
-shop: Andenken
+shop: gift
 ---

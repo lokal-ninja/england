@@ -1,5 +1,5 @@
 ---
 title: "Home Bargins"
 url: /nantwich/home-bargins/
-shop: Dorfladen
+shop: general
 ---

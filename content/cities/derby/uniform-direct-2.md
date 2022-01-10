@@ -1,5 +1,5 @@
 ---
 title: "Uniform Direct"
 url: /derby/uniform-direct-2/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Phase Eight"
 url: /horsham/phase-eight/
-shop: Kleidung
+shop: clothes
 ---

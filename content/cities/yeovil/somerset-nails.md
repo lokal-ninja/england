@@ -1,5 +1,5 @@
 ---
 title: "Somerset Nails"
 url: /yeovil/somerset-nails/
-shop: Kosmetik
+shop: beauty
 ---

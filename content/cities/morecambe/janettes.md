@@ -1,5 +1,5 @@
 ---
 title: "Janette's"
 url: /morecambe/janettes/
-shop: Allgemein
+shop: shop
 ---

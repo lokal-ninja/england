@@ -1,5 +1,5 @@
 ---
 title: "Real Pharm Shop"
 url: /spalding/real-pharm-shop/
-shop: Lebensmittel
+shop: convenience
 ---

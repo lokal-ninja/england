@@ -1,5 +1,5 @@
 ---
 title: "Crystal Pharmacy"
 url: /hounslow/crystal-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

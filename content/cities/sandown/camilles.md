@@ -1,5 +1,5 @@
 ---
 title: "Camilles"
 url: /sandown/camilles/
-shop: Kleidung
+shop: clothes
 ---

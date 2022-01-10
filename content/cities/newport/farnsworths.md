@@ -1,5 +1,5 @@
 ---
 title: "Farnsworth's"
 url: /newport/farnsworths/
-shop: Schreibwaren
+shop: office supplies
 ---

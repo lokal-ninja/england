@@ -1,5 +1,5 @@
 ---
 title: "Greenwich Communication Centre"
 url: /london/greenwich-communication-centre/
-shop: Handy
+shop: mobile phone
 ---

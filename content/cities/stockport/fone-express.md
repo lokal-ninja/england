@@ -1,5 +1,5 @@
 ---
 title: "Fone Express"
 url: /stockport/fone-express/
-shop: Handy
+shop: mobile phone
 ---

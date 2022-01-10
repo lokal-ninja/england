@@ -1,5 +1,5 @@
 ---
 title: "Saughall Convenience Store"
 url: /saughall-massie/saughall-convenience-store/
-shop: Lebensmittel
+shop: convenience
 ---

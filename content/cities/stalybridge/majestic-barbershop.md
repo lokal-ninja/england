@@ -1,5 +1,5 @@
 ---
 title: "Majestic Barbershop"
 url: /stalybridge/majestic-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

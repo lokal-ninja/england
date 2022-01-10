@@ -1,5 +1,5 @@
 ---
 title: "Curling Tongs"
 url: /nottingham/curling-tongs/
-shop: Friseur
+shop: hairdresser
 ---

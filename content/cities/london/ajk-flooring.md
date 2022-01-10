@@ -1,5 +1,5 @@
 ---
 title: "AJK Flooring"
 url: /london/ajk-flooring/
-shop: Fußböden
+shop: flooring
 ---

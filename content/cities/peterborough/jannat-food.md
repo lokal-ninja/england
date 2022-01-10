@@ -1,5 +1,5 @@
 ---
 title: "Jannat Food"
 url: /peterborough/jannat-food/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /sunderland/spar/
-shop: Lebensmittel
+shop: convenience
 ---

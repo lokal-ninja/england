@@ -1,5 +1,5 @@
 ---
 title: "Lakeland"
 url: /derby/lakeland/
-shop: Haushaltsartikel
+shop: houseware
 ---

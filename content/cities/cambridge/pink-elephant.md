@@ -1,5 +1,5 @@
 ---
 title: "Pink Elephant"
 url: /cambridge/pink-elephant/
-shop: Lebensmittel
+shop: convenience
 ---

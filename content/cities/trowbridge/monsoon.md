@@ -1,5 +1,5 @@
 ---
 title: "Monsoon"
 url: /trowbridge/monsoon/
-shop: Kleidung
+shop: clothes
 ---

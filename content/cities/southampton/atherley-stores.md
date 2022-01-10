@@ -1,5 +1,5 @@
 ---
 title: "Atherley Stores"
 url: /southampton/atherley-stores/
-shop: Lebensmittel
+shop: convenience
 ---

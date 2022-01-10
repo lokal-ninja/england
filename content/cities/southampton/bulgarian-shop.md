@@ -1,5 +1,5 @@
 ---
 title: "Bulgarian Shop"
 url: /southampton/bulgarian-shop/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Galloways"
 url: /preston/galloways/
-shop: Bäckerei
+shop: bakery
 ---

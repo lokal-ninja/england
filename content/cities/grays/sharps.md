@@ -1,5 +1,5 @@
 ---
 title: "Sharps"
 url: /grays/sharps/
-shop: Möbel
+shop: furniture
 ---

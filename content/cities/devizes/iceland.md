@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /devizes/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

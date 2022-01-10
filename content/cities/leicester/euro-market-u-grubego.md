@@ -1,5 +1,5 @@
 ---
 title: "Euro Market (U Grubego)"
 url: /leicester/euro-market-u-grubego/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /kings-lynn/spar/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CS Auto Electrics"
 url: /castleford/cs-auto-electrics/
-shop: Autoteile
+shop: car parts
 ---

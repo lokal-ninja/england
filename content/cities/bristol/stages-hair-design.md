@@ -1,5 +1,5 @@
 ---
 title: "Stages Hair Design"
 url: /bristol/stages-hair-design/
-shop: Friseur
+shop: hairdresser
 ---

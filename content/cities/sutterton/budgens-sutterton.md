@@ -1,5 +1,5 @@
 ---
 title: "Budgens Sutterton"
 url: /sutterton/budgens-sutterton/
-shop: Lebensmittel
+shop: convenience
 ---

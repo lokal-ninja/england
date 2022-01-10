@@ -1,5 +1,5 @@
 ---
 title: "Premier Stores"
 url: /corby/premier-stores-2/
-shop: Lebensmittel
+shop: convenience
 ---

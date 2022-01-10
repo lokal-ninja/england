@@ -1,5 +1,5 @@
 ---
 title: "Klippers"
 url: /darlington/klippers/
-shop: Friseur
+shop: hairdresser
 ---

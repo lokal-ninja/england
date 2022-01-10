@@ -1,5 +1,5 @@
 ---
 title: "The Children's Society"
 url: /wymondham/the-childrens-society/
-shop: Gebrauchtwaren
+shop: charity
 ---

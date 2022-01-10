@@ -1,5 +1,5 @@
 ---
 title: "Cottage Loaf Bakery"
 url: /poulton-le-fylde/cottage-loaf-bakery/
-shop: Bäckerei
+shop: bakery
 ---

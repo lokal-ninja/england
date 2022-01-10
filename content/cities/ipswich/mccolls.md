@@ -1,5 +1,5 @@
 ---
 title: "McColls"
 url: /ipswich/mccolls/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Colin Ferns"
 url: /richmond/colin-ferns/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Goldmans Interiors"
 url: /calne/goldmans-interiors/
-shop: Raumausstattung
+shop: interior decoration
 ---

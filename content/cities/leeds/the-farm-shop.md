@@ -1,5 +1,5 @@
 ---
 title: "The Farm Shop"
 url: /leeds/the-farm-shop/
-shop: Hofladen
+shop: farm
 ---

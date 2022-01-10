@@ -1,5 +1,5 @@
 ---
 title: "Prontaprint"
 url: /darlington/prontaprint/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jefford's"
 url: /cambridge/jeffords/
-shop: Teppiche
+shop: carpet
 ---

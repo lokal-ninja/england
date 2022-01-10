@@ -1,5 +1,5 @@
 ---
 title: "Offspring"
 url: /london/offspring-2/
-shop: Schuhe
+shop: shoes
 ---

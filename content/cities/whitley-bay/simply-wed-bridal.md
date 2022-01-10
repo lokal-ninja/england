@@ -1,5 +1,5 @@
 ---
 title: "Simply Wed Bridal"
 url: /whitley-bay/simply-wed-bridal/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /gateshead/asda/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Buzzin Guns"
 url: /durham/buzzin-guns/
-shop: Tattoo
+shop: tattoo
 ---

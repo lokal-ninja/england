@@ -1,5 +1,5 @@
 ---
 title: "The Avenue Hair Salon"
 url: /london/the-avenue-hair-salon/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /littlehampton/whsmith/
-shop: Zeitungen
+shop: newsagent
 ---

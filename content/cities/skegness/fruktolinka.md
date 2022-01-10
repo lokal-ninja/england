@@ -1,5 +1,5 @@
 ---
 title: "Fruktolinka"
 url: /skegness/fruktolinka/
-shop: Lebensmittel
+shop: convenience
 ---

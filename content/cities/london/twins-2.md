@@ -1,5 +1,5 @@
 ---
 title: "Twins"
 url: /london/twins-2/
-shop: Lebensmittel
+shop: convenience
 ---

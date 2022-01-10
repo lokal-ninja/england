@@ -1,5 +1,5 @@
 ---
 title: "MVP Finance Specialists"
 url: /leeds/mvp-finance-specialists/
-shop: Allgemein
+shop: shop
 ---

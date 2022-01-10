@@ -1,5 +1,5 @@
 ---
 title: "Pebbles Properties"
 url: /birmingham/pebbles-properties/
-shop: Immobilien
+shop: estate agent
 ---

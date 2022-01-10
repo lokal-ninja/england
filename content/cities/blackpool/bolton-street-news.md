@@ -1,5 +1,5 @@
 ---
 title: "Bolton Street News"
 url: /blackpool/bolton-street-news/
-shop: Zeitungen
+shop: newsagent
 ---

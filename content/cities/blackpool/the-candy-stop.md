@@ -1,5 +1,5 @@
 ---
 title: "The Candy Stop"
 url: /blackpool/the-candy-stop/
-shop: Süßwaren
+shop: confectionery
 ---

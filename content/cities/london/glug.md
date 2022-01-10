@@ -1,5 +1,5 @@
 ---
 title: "Glug"
 url: /london/glug/
-shop: Wein
+shop: wine
 ---

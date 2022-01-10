@@ -1,5 +1,5 @@
 ---
 title: "F. Hinds"
 url: /bristol/f-hinds/
-shop: Schmuck
+shop: jewelry
 ---

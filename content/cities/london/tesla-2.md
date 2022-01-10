@@ -1,5 +1,5 @@
 ---
 title: "TESLA"
 url: /london/tesla-2/
-shop: Autowerkstatt
+shop: car repair
 ---

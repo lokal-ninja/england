@@ -1,5 +1,5 @@
 ---
 title: "Asker"
 url: /stamford/asker/
-shop: Bäckerei
+shop: bakery
 ---

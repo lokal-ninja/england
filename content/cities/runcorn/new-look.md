@@ -1,5 +1,5 @@
 ---
 title: "New Look"
 url: /runcorn/new-look/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Smart Look"
 url: /wandsworth/smart-look/
-shop: Kosmetik
+shop: beauty
 ---

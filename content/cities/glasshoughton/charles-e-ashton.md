@@ -1,5 +1,5 @@
 ---
 title: "Charles E Ashton"
 url: /glasshoughton/charles-e-ashton/
-shop: Bestattungen
+shop: funeral directors
 ---

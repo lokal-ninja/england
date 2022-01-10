@@ -1,5 +1,5 @@
 ---
 title: "Tesmonard Ltd"
 url: /south-shields/tesmonard-ltd/
-shop: Allgemein
+shop: shop
 ---

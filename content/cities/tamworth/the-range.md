@@ -1,5 +1,5 @@
 ---
 title: "The Range"
 url: /tamworth/the-range/
-shop: Allgemein
+shop: shop
 ---

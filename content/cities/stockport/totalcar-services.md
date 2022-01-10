@@ -1,5 +1,5 @@
 ---
 title: "Totalcar Services"
 url: /stockport/totalcar-services/
-shop: Autowerkstatt
+shop: car repair
 ---

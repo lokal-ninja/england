@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /farnborough/costco/
-shop: Großhandel
+shop: wholesale
 ---

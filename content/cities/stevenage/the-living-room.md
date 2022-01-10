@@ -1,5 +1,5 @@
 ---
 title: "The Living Room"
 url: /stevenage/the-living-room/
-shop: Gebrauchtwaren
+shop: charity
 ---

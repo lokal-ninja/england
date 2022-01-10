@@ -1,5 +1,5 @@
 ---
 title: "Carpetright"
 url: /penge/carpetright/
-shop: Teppiche
+shop: carpet
 ---

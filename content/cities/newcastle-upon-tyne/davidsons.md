@@ -1,5 +1,5 @@
 ---
 title: "Davidsons"
 url: /newcastle-upon-tyne/davidsons/
-shop: Schmuck
+shop: jewelry
 ---

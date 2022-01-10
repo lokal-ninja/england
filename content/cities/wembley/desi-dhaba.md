@@ -1,5 +1,5 @@
 ---
 title: "Desi Dhaba"
 url: /wembley/desi-dhaba/
-shop: Allgemein
+shop: shop
 ---

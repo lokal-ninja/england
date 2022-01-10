@@ -1,5 +1,5 @@
 ---
 title: "Opticalise"
 url: /wembley/opticalise/
-shop: Optiker
+shop: optician
 ---

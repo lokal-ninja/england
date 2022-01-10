@@ -1,5 +1,5 @@
 ---
 title: "Peloton"
 url: /oxford/peloton/
-shop: Fahrrad
+shop: bicycle
 ---

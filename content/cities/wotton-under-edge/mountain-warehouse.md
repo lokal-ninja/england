@@ -1,5 +1,5 @@
 ---
 title: "Mountain Warehouse"
 url: /wotton-under-edge/mountain-warehouse/
-shop: Outdoor
+shop: outdoor
 ---

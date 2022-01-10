@@ -1,5 +1,5 @@
 ---
 title: "Boots"
 url: /belper/boots/
-shop: Drogerie
+shop: chemist
 ---

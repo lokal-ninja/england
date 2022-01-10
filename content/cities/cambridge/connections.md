@@ -1,5 +1,5 @@
 ---
 title: "Connections"
 url: /cambridge/connections/
-shop: Friseur
+shop: hairdresser
 ---

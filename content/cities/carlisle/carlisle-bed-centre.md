@@ -1,5 +1,5 @@
 ---
 title: "Carlisle Bed Centre"
 url: /carlisle/carlisle-bed-centre/
-shop: Betten
+shop: bed
 ---

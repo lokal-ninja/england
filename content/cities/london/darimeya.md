@@ -1,5 +1,5 @@
 ---
 title: "Darimeya"
 url: /london/darimeya/
-shop: Allgemein
+shop: shop
 ---

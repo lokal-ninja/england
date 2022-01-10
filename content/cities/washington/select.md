@@ -1,5 +1,5 @@
 ---
 title: "Select"
 url: /washington/select/
-shop: Schuhe
+shop: shoes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hair Lounge"
 url: /london/hair-lounge/
-shop: Friseur
+shop: hairdresser
 ---

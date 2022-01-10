@@ -1,5 +1,5 @@
 ---
 title: "Chaplins"
 url: /london/chaplins/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Joanne"
 url: /oxford/joanne/
-shop: Kosmetik
+shop: beauty
 ---

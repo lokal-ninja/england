@@ -1,5 +1,5 @@
 ---
 title: "Velo Bikes"
 url: /ulverston/velo-bikes/
-shop: Fahrrad
+shop: bicycle
 ---

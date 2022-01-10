@@ -1,5 +1,5 @@
 ---
 title: "Euro Car Parts"
 url: /st-leonards-on-sea/euro-car-parts/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dechardom DIY"
 url: /london/dechardom-diy/
-shop: Baumarkt
+shop: doityourself
 ---

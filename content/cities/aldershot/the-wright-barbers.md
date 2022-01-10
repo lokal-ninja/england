@@ -1,5 +1,5 @@
 ---
 title: "The Wright Barbers"
 url: /aldershot/the-wright-barbers/
-shop: Friseur
+shop: hairdresser
 ---

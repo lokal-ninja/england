@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /chelmsford/decathlon/
-shop: Sport
+shop: sports
 ---

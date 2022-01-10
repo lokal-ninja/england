@@ -1,5 +1,5 @@
 ---
 title: "Smiggle"
 url: /grays/smiggle/
-shop: Schreibwaren
+shop: office supplies
 ---

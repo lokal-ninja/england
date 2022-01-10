@@ -1,5 +1,5 @@
 ---
 title: "Risino Brothers"
 url: /workington/risino-brothers/
-shop: Schneiderei
+shop: tailor
 ---

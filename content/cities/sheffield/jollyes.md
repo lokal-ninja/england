@@ -1,5 +1,5 @@
 ---
 title: "Jollyes"
 url: /sheffield/jollyes/
-shop: Tiere
+shop: pet
 ---

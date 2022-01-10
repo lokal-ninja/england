@@ -1,5 +1,5 @@
 ---
 title: "Istanbul"
 url: /bury-st-edmunds/istanbul/
-shop: Friseur
+shop: hairdresser
 ---

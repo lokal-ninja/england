@@ -1,5 +1,5 @@
 ---
 title: "GSF Car Parts"
 url: /bristol/gsf-car-parts/
-shop: Autoteile
+shop: car parts
 ---

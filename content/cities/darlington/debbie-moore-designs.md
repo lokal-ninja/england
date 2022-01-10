@@ -1,5 +1,5 @@
 ---
 title: "Debbie Moore Designs"
 url: /darlington/debbie-moore-designs/
-shop: Basteln
+shop: craft
 ---

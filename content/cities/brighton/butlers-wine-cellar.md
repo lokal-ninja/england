@@ -1,5 +1,5 @@
 ---
 title: "Butlers Wine Cellar"
 url: /brighton/butlers-wine-cellar/
-shop: Wein
+shop: wine
 ---

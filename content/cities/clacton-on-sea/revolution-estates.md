@@ -1,5 +1,5 @@
 ---
 title: "Revolution Estates"
 url: /clacton-on-sea/revolution-estates/
-shop: Immobilien
+shop: estate agent
 ---

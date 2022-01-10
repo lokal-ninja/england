@@ -1,5 +1,5 @@
 ---
 title: "North West Tyres"
 url: /carnforth/north-west-tyres/
-shop: Autowerkstatt
+shop: car repair
 ---

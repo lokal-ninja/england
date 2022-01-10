@@ -1,5 +1,5 @@
 ---
 title: "Personal Touch"
 url: /millom/personal-touch/
-shop: Friseur
+shop: hairdresser
 ---

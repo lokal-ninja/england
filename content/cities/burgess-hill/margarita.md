@@ -1,5 +1,5 @@
 ---
 title: "Margarita"
 url: /burgess-hill/margarita/
-shop: Friseur
+shop: hairdresser
 ---

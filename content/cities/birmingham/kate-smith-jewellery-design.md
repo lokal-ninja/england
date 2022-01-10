@@ -1,5 +1,5 @@
 ---
 title: "Kate Smith Jewellery Design"
 url: /birmingham/kate-smith-jewellery-design/
-shop: Schmuck
+shop: jewelry
 ---

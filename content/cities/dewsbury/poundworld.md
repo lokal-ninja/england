@@ -1,5 +1,5 @@
 ---
 title: "Poundworld"
 url: /dewsbury/poundworld/
-shop: Kramladen
+shop: variety store
 ---

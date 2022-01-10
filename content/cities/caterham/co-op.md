@@ -1,5 +1,5 @@
 ---
 title: "Co-op"
 url: /caterham/co-op/
-shop: Supermarkt
+shop: supermarket
 ---

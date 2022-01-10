@@ -1,5 +1,5 @@
 ---
 title: "Jax"
 url: /leeds/jax/
-shop: Friseur
+shop: hairdresser
 ---

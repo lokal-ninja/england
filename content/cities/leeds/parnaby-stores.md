@@ -1,5 +1,5 @@
 ---
 title: "Parnaby Stores"
 url: /leeds/parnaby-stores/
-shop: Lebensmittel
+shop: convenience
 ---

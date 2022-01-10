@@ -1,5 +1,5 @@
 ---
 title: "Sayers"
 url: /upton/sayers/
-shop: Bäckerei
+shop: bakery
 ---

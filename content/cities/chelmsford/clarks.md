@@ -1,5 +1,5 @@
 ---
 title: "Clarks"
 url: /chelmsford/clarks/
-shop: Schuhe
+shop: shoes
 ---

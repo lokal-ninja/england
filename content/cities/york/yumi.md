@@ -1,5 +1,5 @@
 ---
 title: "Yumi"
 url: /york/yumi/
-shop: Kleidung
+shop: clothes
 ---

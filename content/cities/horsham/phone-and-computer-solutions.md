@@ -1,5 +1,5 @@
 ---
 title: "Phone and Computer Solutions"
 url: /horsham/phone-and-computer-solutions/
-shop: Handy
+shop: mobile phone
 ---

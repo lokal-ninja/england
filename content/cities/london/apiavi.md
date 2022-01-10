@@ -1,5 +1,5 @@
 ---
 title: "Apiavi"
 url: /london/apiavi/
-shop: Lebensmittel
+shop: convenience
 ---

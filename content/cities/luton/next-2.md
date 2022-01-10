@@ -1,5 +1,5 @@
 ---
 title: "Next"
 url: /luton/next-2/
-shop: Kleidung
+shop: clothes
 ---

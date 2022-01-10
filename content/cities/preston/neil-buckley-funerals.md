@@ -1,5 +1,5 @@
 ---
 title: "Neil Buckley Funerals"
 url: /preston/neil-buckley-funerals/
-shop: Bestattungen
+shop: funeral directors
 ---

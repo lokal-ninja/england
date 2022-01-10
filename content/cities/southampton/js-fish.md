@@ -1,5 +1,5 @@
 ---
 title: "JS Fish"
 url: /southampton/js-fish/
-shop: Fisch
+shop: seafood
 ---

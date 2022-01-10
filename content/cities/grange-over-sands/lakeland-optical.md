@@ -1,5 +1,5 @@
 ---
 title: "Lakeland Optical"
 url: /grange-over-sands/lakeland-optical/
-shop: Optiker
+shop: optician
 ---

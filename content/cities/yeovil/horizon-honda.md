@@ -1,5 +1,5 @@
 ---
 title: "Horizon Honda"
 url: /yeovil/horizon-honda/
-shop: Autohaus
+shop: car
 ---

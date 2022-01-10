@@ -1,5 +1,5 @@
 ---
 title: "Corners"
 url: /carshalton/corners/
-shop: Lebensmittel
+shop: convenience
 ---

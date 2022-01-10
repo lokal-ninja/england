@@ -1,5 +1,5 @@
 ---
 title: "H.Samuel"
 url: /newcastle-upon-tyne/h-samuel/
-shop: Schmuck
+shop: jewelry
 ---

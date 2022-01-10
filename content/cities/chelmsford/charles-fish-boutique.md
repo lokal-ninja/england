@@ -1,5 +1,5 @@
 ---
 title: "Charles Fish Boutique"
 url: /chelmsford/charles-fish-boutique/
-shop: Schmuck
+shop: jewelry
 ---

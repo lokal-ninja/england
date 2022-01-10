@@ -1,5 +1,5 @@
 ---
 title: "Carters Bakery / Roys"
 url: /whitley-bay/carters-bakery-roys/
-shop: Bäckerei
+shop: bakery
 ---

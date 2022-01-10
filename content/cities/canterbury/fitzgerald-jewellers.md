@@ -1,5 +1,5 @@
 ---
 title: "Fitzgerald Jewellers"
 url: /canterbury/fitzgerald-jewellers/
-shop: Schmuck
+shop: jewelry
 ---

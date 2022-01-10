@@ -1,5 +1,5 @@
 ---
 title: "Edward James Furniture"
 url: /kendal/edward-james-furniture/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Level Skateboards"
 url: /brighton/level-skateboards/
-shop: Allgemein
+shop: shop
 ---

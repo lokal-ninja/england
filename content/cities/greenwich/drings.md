@@ -1,5 +1,5 @@
 ---
 title: "Drings"
 url: /greenwich/drings/
-shop: Metzgerei
+shop: butcher
 ---

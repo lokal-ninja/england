@@ -1,5 +1,5 @@
 ---
 title: "Quattro Rish"
 url: /reigate/quattro-rish/
-shop: Kleidung
+shop: clothes
 ---

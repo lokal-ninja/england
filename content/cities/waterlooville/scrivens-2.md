@@ -1,5 +1,5 @@
 ---
 title: "Scrivens"
 url: /waterlooville/scrivens-2/
-shop: Optiker
+shop: optician
 ---

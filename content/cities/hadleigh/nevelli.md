@@ -1,5 +1,5 @@
 ---
 title: "Nevelli"
 url: /hadleigh/nevelli/
-shop: Raumausstattung
+shop: interior decoration
 ---

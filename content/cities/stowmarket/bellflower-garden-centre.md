@@ -1,5 +1,5 @@
 ---
 title: "Bellflower Garden Centre"
 url: /stowmarket/bellflower-garden-centre/
-shop: Garten-Center
+shop: garden centre
 ---

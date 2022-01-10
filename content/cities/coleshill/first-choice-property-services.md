@@ -1,5 +1,5 @@
 ---
 title: "First Choice Property Services"
 url: /coleshill/first-choice-property-services/
-shop: Immobilien
+shop: estate agent
 ---

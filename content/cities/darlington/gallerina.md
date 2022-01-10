@@ -1,5 +1,5 @@
 ---
 title: "Gallerina"
 url: /darlington/gallerina/
-shop: Kunst
+shop: art
 ---

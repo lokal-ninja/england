@@ -1,5 +1,5 @@
 ---
 title: "Wickes"
 url: /waterlooville/wickes/
-shop: Baumarkt
+shop: doityourself
 ---

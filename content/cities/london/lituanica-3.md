@@ -1,5 +1,5 @@
 ---
 title: "Lituanica"
 url: /london/lituanica-3/
-shop: Lebensmittel
+shop: convenience
 ---

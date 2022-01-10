@@ -1,5 +1,5 @@
 ---
 title: "West End"
 url: /wellingborough/west-end/
-shop: Baumarkt
+shop: doityourself
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lloyds Bedrooms"
 url: /sutton-coldfield/lloyds-bedrooms/
-shop: Möbel
+shop: furniture
 ---

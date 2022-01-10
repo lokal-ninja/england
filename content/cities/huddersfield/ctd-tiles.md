@@ -1,5 +1,5 @@
 ---
 title: "CTD Tiles"
 url: /huddersfield/ctd-tiles/
-shop: Fliesen
+shop: tiles
 ---

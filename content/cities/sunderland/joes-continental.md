@@ -1,5 +1,5 @@
 ---
 title: "Joe's Continental"
 url: /sunderland/joes-continental/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Party Parlour"
 url: /colchester/party-parlour/
-shop: Andenken
+shop: gift
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bargain Booze"
 url: /shipley/bargain-booze/
-shop: Zeitungen
+shop: newsagent
 ---

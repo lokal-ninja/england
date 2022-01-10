@@ -1,5 +1,5 @@
 ---
 title: "TUI"
 url: /brighton/tui/
-shop: Reisebüro
+shop: travel agency
 ---

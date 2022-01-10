@@ -1,5 +1,5 @@
 ---
 title: "Mobile Joe"
 url: /wellingborough/mobile-joe/
-shop: Handy
+shop: mobile phone
 ---

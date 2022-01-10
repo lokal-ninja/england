@@ -1,5 +1,5 @@
 ---
 title: "JB Supplies"
 url: /preston/jb-supplies/
-shop: Allgemein
+shop: shop
 ---

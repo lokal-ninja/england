@@ -1,5 +1,5 @@
 ---
 title: "Lincolnshire Co-op"
 url: /gainsborough/lincolnshire-co-op/
-shop: Supermarkt
+shop: supermarket
 ---

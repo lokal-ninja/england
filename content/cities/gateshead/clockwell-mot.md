@@ -1,5 +1,5 @@
 ---
 title: "Clockwell MOT"
 url: /gateshead/clockwell-mot/
-shop: Autowerkstatt
+shop: car repair
 ---

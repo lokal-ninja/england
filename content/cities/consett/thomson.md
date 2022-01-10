@@ -1,5 +1,5 @@
 ---
 title: "Thomson"
 url: /consett/thomson/
-shop: Reisebüro
+shop: travel agency
 ---

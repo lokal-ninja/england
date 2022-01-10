@@ -1,5 +1,5 @@
 ---
 title: "Demes Newsagent"
 url: /london/demes-newsagent/
-shop: Zeitungen
+shop: newsagent
 ---

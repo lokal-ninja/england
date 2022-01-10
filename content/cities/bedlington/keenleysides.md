@@ -1,5 +1,5 @@
 ---
 title: "Keenleysides"
 url: /bedlington/keenleysides/
-shop: Eisenwaren
+shop: hardware
 ---

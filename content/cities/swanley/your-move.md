@@ -1,5 +1,5 @@
 ---
 title: "Your Move"
 url: /swanley/your-move/
-shop: Immobilien
+shop: estate agent
 ---

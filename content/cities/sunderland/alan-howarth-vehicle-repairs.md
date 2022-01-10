@@ -1,5 +1,5 @@
 ---
 title: "Alan Howarth Vehicle Repairs"
 url: /sunderland/alan-howarth-vehicle-repairs/
-shop: Autowerkstatt
+shop: car repair
 ---

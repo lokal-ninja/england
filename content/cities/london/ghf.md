@@ -1,5 +1,5 @@
 ---
 title: "GHF"
 url: /london/ghf/
-shop: Andenken
+shop: gift
 ---

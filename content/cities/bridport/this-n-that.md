@@ -1,5 +1,5 @@
 ---
 title: "This 'N' That"
 url: /bridport/this-n-that/
-shop: Allgemein
+shop: shop
 ---

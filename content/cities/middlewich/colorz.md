@@ -1,5 +1,5 @@
 ---
 title: "Colorz"
 url: /middlewich/colorz/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Millennium House"
 url: /london/millennium-house/
-shop: Elektronik
+shop: electronics
 ---

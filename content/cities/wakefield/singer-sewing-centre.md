@@ -1,5 +1,5 @@
 ---
 title: "Singer Sewing Centre"
 url: /wakefield/singer-sewing-centre/
-shop: Nähzubehör
+shop: sewing
 ---

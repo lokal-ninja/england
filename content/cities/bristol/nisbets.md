@@ -1,5 +1,5 @@
 ---
 title: "Nisbets"
 url: /bristol/nisbets/
-shop: Haushaltsartikel
+shop: houseware
 ---

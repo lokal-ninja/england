@@ -1,5 +1,5 @@
 ---
 title: "Greggs"
 url: /billericay/greggs/
-shop: Bäckerei
+shop: bakery
 ---

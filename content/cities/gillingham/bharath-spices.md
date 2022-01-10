@@ -1,5 +1,5 @@
 ---
 title: "Bharath Spices"
 url: /gillingham/bharath-spices/
-shop: Lebensmittel
+shop: convenience
 ---

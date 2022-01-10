@@ -1,5 +1,5 @@
 ---
 title: "Webb Stores"
 url: /ely/webb-stores/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Doghouse"
 url: /leeds/doghouse/
-shop: Musik
+shop: music
 ---

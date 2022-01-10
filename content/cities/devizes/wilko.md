@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
 url: /devizes/wilko/
-shop: Kramladen
+shop: variety store
 ---

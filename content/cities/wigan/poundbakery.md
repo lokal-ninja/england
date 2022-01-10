@@ -1,5 +1,5 @@
 ---
 title: "Poundbakery"
 url: /wigan/poundbakery/
-shop: Bäckerei
+shop: bakery
 ---

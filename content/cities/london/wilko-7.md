@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
 url: /london/wilko-7/
-shop: Kramladen
+shop: variety store
 ---

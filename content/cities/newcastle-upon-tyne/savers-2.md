@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /newcastle-upon-tyne/savers-2/
-shop: Kramladen
+shop: variety store
 ---

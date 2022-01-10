@@ -1,5 +1,5 @@
 ---
 title: "Abbots"
 url: /london/abbots/
-shop: Schreibwaren
+shop: office supplies
 ---

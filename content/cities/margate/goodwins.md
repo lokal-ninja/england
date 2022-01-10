@@ -1,5 +1,5 @@
 ---
 title: "Goodwins"
 url: /margate/goodwins/
-shop: Eisenwaren
+shop: hardware
 ---

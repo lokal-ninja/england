@@ -1,5 +1,5 @@
 ---
 title: "Robertos"
 url: /birmingham/robertos/
-shop: Friseur
+shop: hairdresser
 ---

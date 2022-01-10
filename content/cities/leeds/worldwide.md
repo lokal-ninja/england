@@ -1,5 +1,5 @@
 ---
 title: "Worldwide"
 url: /leeds/worldwide/
-shop: Reisebüro
+shop: travel agency
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kabanos"
 url: /wolverhampton/kabanos/
-shop: Supermarkt
+shop: supermarket
 ---

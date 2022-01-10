@@ -1,5 +1,5 @@
 ---
 title: "Infocus Hackney"
 url: /london/infocus-hackney/
-shop: Optiker
+shop: optician
 ---

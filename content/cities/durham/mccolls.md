@@ -1,5 +1,5 @@
 ---
 title: "McColl's"
 url: /durham/mccolls/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pro Nails Zone"
 url: /sunderland/pro-nails-zone/
-shop: Kosmetik
+shop: beauty
 ---

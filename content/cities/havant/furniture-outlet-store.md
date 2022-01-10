@@ -1,5 +1,5 @@
 ---
 title: "Furniture Outlet Store"
 url: /havant/furniture-outlet-store/
-shop: Möbel
+shop: furniture
 ---

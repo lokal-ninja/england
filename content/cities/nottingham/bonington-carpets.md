@@ -1,5 +1,5 @@
 ---
 title: "Bonington Carpets"
 url: /nottingham/bonington-carpets/
-shop: Teppiche
+shop: carpet
 ---

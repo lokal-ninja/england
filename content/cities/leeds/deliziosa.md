@@ -1,5 +1,5 @@
 ---
 title: "Deliziosa"
 url: /leeds/deliziosa/
-shop: Feinkost
+shop: deli
 ---

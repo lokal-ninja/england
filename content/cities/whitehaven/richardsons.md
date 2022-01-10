@@ -1,5 +1,5 @@
 ---
 title: "Richardsons"
 url: /whitehaven/richardsons/
-shop: Allgemein
+shop: shop
 ---

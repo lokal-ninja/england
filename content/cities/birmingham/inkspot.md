@@ -1,5 +1,5 @@
 ---
 title: "inkSpot"
 url: /birmingham/inkspot/
-shop: Kopieren
+shop: copyshop
 ---

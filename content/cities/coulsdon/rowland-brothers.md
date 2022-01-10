@@ -1,5 +1,5 @@
 ---
 title: "Rowland Brothers"
 url: /coulsdon/rowland-brothers/
-shop: Bestattungen
+shop: funeral directors
 ---

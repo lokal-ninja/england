@@ -1,5 +1,5 @@
 ---
 title: "Specsavers"
 url: /harlow/specsavers/
-shop: Optiker
+shop: optician
 ---

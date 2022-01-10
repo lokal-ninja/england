@@ -1,5 +1,5 @@
 ---
 title: "Barsley's"
 url: /tonbridge/barsleys/
-shop: Warenhaus
+shop: department store
 ---

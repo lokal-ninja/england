@@ -1,5 +1,5 @@
 ---
 title: "Cocoon"
 url: /darlington/cocoon/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wight Sound Hearing"
 url: /shanklin/wight-sound-hearing/
-shop: Hörgeräte
+shop: hearing aids
 ---

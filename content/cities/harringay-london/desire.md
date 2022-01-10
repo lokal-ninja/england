@@ -1,5 +1,5 @@
 ---
 title: "Desire"
 url: /harringay-london/desire/
-shop: Schmuck
+shop: jewelry
 ---

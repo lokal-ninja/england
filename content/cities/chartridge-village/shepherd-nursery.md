@@ -1,5 +1,5 @@
 ---
 title: "Shepherd Nursery"
 url: /chartridge-village/shepherd-nursery/
-shop: Garten-Center
+shop: garden centre
 ---

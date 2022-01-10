@@ -1,5 +1,5 @@
 ---
 title: "The Barbers"
 url: /wellingborough/the-barbers/
-shop: Friseur
+shop: hairdresser
 ---

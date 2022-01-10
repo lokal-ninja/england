@@ -1,5 +1,5 @@
 ---
 title: "Flight Centre"
 url: /birmingham/flight-centre/
-shop: Reisebüro
+shop: travel agency
 ---

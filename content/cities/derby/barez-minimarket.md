@@ -1,5 +1,5 @@
 ---
 title: "Barez Minimarket"
 url: /derby/barez-minimarket/
-shop: Lebensmittel
+shop: convenience
 ---

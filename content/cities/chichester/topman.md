@@ -1,5 +1,5 @@
 ---
 title: "Topman"
 url: /chichester/topman/
-shop: Kleidung
+shop: clothes
 ---

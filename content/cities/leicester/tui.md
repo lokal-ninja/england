@@ -1,5 +1,5 @@
 ---
 title: "TUI"
 url: /leicester/tui/
-shop: Reisebüro
+shop: travel agency
 ---

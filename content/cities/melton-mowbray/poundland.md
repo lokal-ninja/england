@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /melton-mowbray/poundland/
-shop: Kramladen
+shop: variety store
 ---

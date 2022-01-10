@@ -1,5 +1,5 @@
 ---
 title: "Heart + Space"
 url: /birmingham/heart-space/
-shop: Kosmetik
+shop: beauty
 ---

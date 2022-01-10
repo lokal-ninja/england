@@ -1,5 +1,5 @@
 ---
 title: "Village Meats"
 url: /daventry/village-meats/
-shop: Metzgerei
+shop: butcher
 ---

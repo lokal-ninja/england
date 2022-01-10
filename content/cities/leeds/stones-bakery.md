@@ -1,5 +1,5 @@
 ---
 title: "Stones Bakery"
 url: /leeds/stones-bakery/
-shop: Bäckerei
+shop: bakery
 ---

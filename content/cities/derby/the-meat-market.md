@@ -1,5 +1,5 @@
 ---
 title: "The Meat Market"
 url: /derby/the-meat-market/
-shop: Metzgerei
+shop: butcher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Limitless VR"
 url: /croydon/limitless-vr/
-shop: Computer
+shop: computer
 ---

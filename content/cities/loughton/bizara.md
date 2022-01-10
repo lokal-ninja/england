@@ -1,5 +1,5 @@
 ---
 title: "Bizara"
 url: /loughton/bizara/
-shop: Andenken
+shop: gift
 ---

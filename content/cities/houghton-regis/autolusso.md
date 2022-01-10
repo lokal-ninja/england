@@ -1,5 +1,5 @@
 ---
 title: "AutoLusso"
 url: /houghton-regis/autolusso/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mothercare"
 url: /reading/mothercare/
-shop: Babysachen
+shop: baby goods
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sarnia"
 url: /lytham-st-annes/sarnia/
-shop: Wäscherei
+shop: laundry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hamlins"
 url: /sidcup/hamlins/
-shop: Friseur
+shop: hairdresser
 ---

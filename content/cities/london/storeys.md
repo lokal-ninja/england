@@ -1,5 +1,5 @@
 ---
 title: "Storey's"
 url: /london/storeys/
-shop: Kunst
+shop: art
 ---

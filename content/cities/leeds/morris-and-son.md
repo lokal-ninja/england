@@ -1,5 +1,5 @@
 ---
 title: "Morris And Son"
 url: /leeds/morris-and-son/
-shop: Großhandel
+shop: wholesale
 ---

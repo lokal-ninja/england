@@ -1,5 +1,5 @@
 ---
 title: "The Range"
 url: /kempston/the-range/
-shop: Kramladen
+shop: variety store
 ---

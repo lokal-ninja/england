@@ -1,5 +1,5 @@
 ---
 title: "Sports Direct"
 url: /canterbury/sports-direct/
-shop: Sport
+shop: sports
 ---

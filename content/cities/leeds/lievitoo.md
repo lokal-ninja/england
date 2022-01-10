@@ -1,5 +1,5 @@
 ---
 title: "Lievitoo"
 url: /leeds/lievitoo/
-shop: Lebensmittel
+shop: convenience
 ---

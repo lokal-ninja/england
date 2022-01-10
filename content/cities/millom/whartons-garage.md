@@ -1,5 +1,5 @@
 ---
 title: "Whartons Garage"
 url: /millom/whartons-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

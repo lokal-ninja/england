@@ -1,5 +1,5 @@
 ---
 title: "Musto"
 url: /cowes/musto/
-shop: Kleidung
+shop: clothes
 ---

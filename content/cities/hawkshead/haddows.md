@@ -1,5 +1,5 @@
 ---
 title: "Haddows"
 url: /hawkshead/haddows/
-shop: Andenken
+shop: gift
 ---

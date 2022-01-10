@@ -1,5 +1,5 @@
 ---
 title: "Genes"
 url: /birmingham/genes/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Maja Sklep"
 url: /kettering/maja-sklep/
-shop: Supermarkt
+shop: supermarket
 ---

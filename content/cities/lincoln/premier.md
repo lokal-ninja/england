@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /lincoln/premier/
-shop: Lebensmittel
+shop: convenience
 ---

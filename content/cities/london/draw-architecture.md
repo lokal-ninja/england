@@ -1,5 +1,5 @@
 ---
 title: "dRAW Architecture"
 url: /london/draw-architecture/
-shop: Kunst
+shop: art
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hinds Head Garage"
 url: /chorley/hinds-head-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

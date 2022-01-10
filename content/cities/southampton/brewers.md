@@ -1,5 +1,5 @@
 ---
 title: "Brewers"
 url: /southampton/brewers/
-shop: Baumarkt
+shop: doityourself
 ---

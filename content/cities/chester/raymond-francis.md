@@ -1,5 +1,5 @@
 ---
 title: "Raymond Francis"
 url: /chester/raymond-francis/
-shop: Friseur
+shop: hairdresser
 ---

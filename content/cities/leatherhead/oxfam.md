@@ -1,5 +1,5 @@
 ---
 title: "Oxfam"
 url: /leatherhead/oxfam/
-shop: Andenken
+shop: gift
 ---

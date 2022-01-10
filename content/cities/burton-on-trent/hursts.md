@@ -1,5 +1,5 @@
 ---
 title: "Hursts"
 url: /burton-on-trent/hursts/
-shop: Lebensmittel
+shop: convenience
 ---

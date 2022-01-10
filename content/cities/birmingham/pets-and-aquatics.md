@@ -1,5 +1,5 @@
 ---
 title: "Pets and Aquatics"
 url: /birmingham/pets-and-aquatics/
-shop: Tiere
+shop: pet
 ---

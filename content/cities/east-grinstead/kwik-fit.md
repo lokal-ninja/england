@@ -1,5 +1,5 @@
 ---
 title: "Kwik Fit"
 url: /east-grinstead/kwik-fit/
-shop: Autowerkstatt
+shop: car repair
 ---

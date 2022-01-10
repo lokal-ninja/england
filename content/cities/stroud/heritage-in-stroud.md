@@ -1,5 +1,5 @@
 ---
 title: "Heritage in Stroud"
 url: /stroud/heritage-in-stroud/
-shop: Andenken
+shop: gift
 ---

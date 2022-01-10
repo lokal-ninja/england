@@ -1,5 +1,5 @@
 ---
 title: "NuYu Hairdresser"
 url: /exeter/nuyu-hairdresser/
-shop: Friseur
+shop: hairdresser
 ---

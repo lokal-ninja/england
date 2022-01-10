@@ -1,5 +1,5 @@
 ---
 title: "Romanesc"
 url: /bedford/romanesc/
-shop: Feinkost
+shop: deli
 ---

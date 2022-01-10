@@ -1,5 +1,5 @@
 ---
 title: "Neil's Wheels"
 url: /east-molesey/neils-wheels/
-shop: Fahrrad
+shop: bicycle
 ---

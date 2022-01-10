@@ -1,5 +1,5 @@
 ---
 title: "Booze Bar"
 url: /gateshead/booze-bar/
-shop: Spirituosen
+shop: alcohol
 ---

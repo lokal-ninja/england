@@ -1,5 +1,5 @@
 ---
 title: "Supreme Furniture"
 url: /wolverhampton/supreme-furniture/
-shop: Möbel
+shop: furniture
 ---

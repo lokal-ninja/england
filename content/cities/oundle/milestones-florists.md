@@ -1,5 +1,5 @@
 ---
 title: "Milestones Florists"
 url: /oundle/milestones-florists/
-shop: Blumen
+shop: florist
 ---

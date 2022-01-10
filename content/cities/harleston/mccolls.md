@@ -1,5 +1,5 @@
 ---
 title: "McColl's"
 url: /harleston/mccolls/
-shop: Lebensmittel
+shop: convenience
 ---

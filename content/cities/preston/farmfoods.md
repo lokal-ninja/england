@@ -1,5 +1,5 @@
 ---
 title: "Farmfoods"
 url: /preston/farmfoods/
-shop: Tiefkühl
+shop: frozen food
 ---

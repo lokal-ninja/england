@@ -1,5 +1,5 @@
 ---
 title: "Timbers"
 url: /sudbury/timbers/
-shop: Antiquitäten
+shop: antiques
 ---

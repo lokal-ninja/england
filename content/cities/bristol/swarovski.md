@@ -1,5 +1,5 @@
 ---
 title: "Swarovski"
 url: /bristol/swarovski/
-shop: Schmuck
+shop: jewelry
 ---

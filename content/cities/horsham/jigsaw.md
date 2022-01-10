@@ -1,5 +1,5 @@
 ---
 title: "Jigsaw"
 url: /horsham/jigsaw/
-shop: Kleidung
+shop: clothes
 ---

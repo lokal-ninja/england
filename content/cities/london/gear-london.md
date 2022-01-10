@@ -1,5 +1,5 @@
 ---
 title: "GEAR London"
 url: /london/gear-london/
-shop: Erotik
+shop: erotic
 ---

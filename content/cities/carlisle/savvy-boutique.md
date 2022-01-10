@@ -1,5 +1,5 @@
 ---
 title: "Savvy Boutique"
 url: /carlisle/savvy-boutique/
-shop: Friseur
+shop: hairdresser
 ---

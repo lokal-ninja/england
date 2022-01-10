@@ -1,5 +1,5 @@
 ---
 title: "Farnborough Value Tyres"
 url: /farnborough/farnborough-value-tyres/
-shop: Reifen
+shop: tyres
 ---

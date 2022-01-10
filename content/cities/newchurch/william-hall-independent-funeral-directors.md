@@ -1,5 +1,5 @@
 ---
 title: "William Hall Independent Funeral Directors"
 url: /newchurch/william-hall-independent-funeral-directors/
-shop: Bestattungen
+shop: funeral directors
 ---

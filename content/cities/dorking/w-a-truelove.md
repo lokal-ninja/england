@@ -1,5 +1,5 @@
 ---
 title: "W A Truelove"
 url: /dorking/w-a-truelove/
-shop: Bestattungen
+shop: funeral directors
 ---

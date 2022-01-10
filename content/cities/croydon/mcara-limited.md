@@ -1,5 +1,5 @@
 ---
 title: "McAra Limited"
 url: /croydon/mcara-limited/
-shop: Schreibwaren
+shop: office supplies
 ---

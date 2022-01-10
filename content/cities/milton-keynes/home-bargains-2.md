@@ -1,5 +1,5 @@
 ---
 title: "Home Bargains"
 url: /milton-keynes/home-bargains-2/
-shop: Kramladen
+shop: variety store
 ---

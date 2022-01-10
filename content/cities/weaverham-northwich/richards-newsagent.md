@@ -1,5 +1,5 @@
 ---
 title: "Richards Newsagent"
 url: /weaverham-northwich/richards-newsagent/
-shop: Zeitungen
+shop: newsagent
 ---

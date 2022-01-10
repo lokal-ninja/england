@@ -1,5 +1,5 @@
 ---
 title: "Promenade Music"
 url: /morecambe/promenade-music/
-shop: Instrumente
+shop: musical instrument
 ---

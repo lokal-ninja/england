@@ -1,5 +1,5 @@
 ---
 title: "Richard Stokes Optometrists"
 url: /st-albans/richard-stokes-optometrists/
-shop: Optiker
+shop: optician
 ---

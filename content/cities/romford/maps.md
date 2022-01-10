@@ -1,5 +1,5 @@
 ---
 title: "Maps"
 url: /romford/maps/
-shop: Spirituosen
+shop: alcohol
 ---

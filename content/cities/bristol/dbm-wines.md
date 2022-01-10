@@ -1,5 +1,5 @@
 ---
 title: "DBM Wines"
 url: /bristol/dbm-wines/
-shop: Spirituosen
+shop: alcohol
 ---

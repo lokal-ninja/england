@@ -1,5 +1,5 @@
 ---
 title: "Mococo"
 url: /warrington/mococo/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rui Hairdressers"
 url: /leeds/rui-hairdressers/
-shop: Friseur
+shop: hairdresser
 ---

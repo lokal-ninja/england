@@ -1,5 +1,5 @@
 ---
 title: "The Fabulous Baker"
 url: /southampton/the-fabulous-baker/
-shop: Bäckerei
+shop: bakery
 ---

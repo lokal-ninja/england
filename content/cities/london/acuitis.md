@@ -1,5 +1,5 @@
 ---
 title: "Acuitis"
 url: /london/acuitis/
-shop: Hörgeräte
+shop: hearing aids
 ---

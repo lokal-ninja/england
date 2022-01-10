@@ -1,5 +1,5 @@
 ---
 title: "IQOS"
 url: /london/iqos/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

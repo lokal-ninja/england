@@ -1,5 +1,5 @@
 ---
 title: "Heaton Cooper Studio"
 url: /grasmere/heaton-cooper-studio/
-shop: Kunst
+shop: art
 ---

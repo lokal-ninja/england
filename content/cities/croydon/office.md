@@ -1,5 +1,5 @@
 ---
 title: "Office"
 url: /croydon/office/
-shop: Schuhe
+shop: shoes
 ---

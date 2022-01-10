@@ -1,5 +1,5 @@
 ---
 title: "Holgate Barber Shop"
 url: /york/holgate-barber-shop/
-shop: Friseur
+shop: hairdresser
 ---

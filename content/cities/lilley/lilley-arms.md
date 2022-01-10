@@ -1,5 +1,5 @@
 ---
 title: "Lilley Arms"
 url: /lilley/lilley-arms/
-shop: Wäscherei
+shop: laundry
 ---

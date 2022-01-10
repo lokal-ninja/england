@@ -1,5 +1,5 @@
 ---
 title: "Harris And Osman"
 url: /purley/harris-and-osman/
-shop: Wäscherei
+shop: laundry
 ---

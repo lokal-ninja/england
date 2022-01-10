@@ -1,5 +1,5 @@
 ---
 title: "Hugo Boss"
 url: /ellesmere-port/hugo-boss-2/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wicks"
 url: /east-grinstead/wicks/
-shop: Süßwaren
+shop: confectionery
 ---

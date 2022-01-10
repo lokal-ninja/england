@@ -1,5 +1,5 @@
 ---
 title: "Polanica"
 url: /derby/polanica/
-shop: Lebensmittel
+shop: convenience
 ---

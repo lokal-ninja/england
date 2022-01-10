@@ -1,5 +1,5 @@
 ---
 title: "Moss"
 url: /warwick/moss/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Oskar"
 url: /bristol/oskar/
-shop: Möbel
+shop: furniture
 ---

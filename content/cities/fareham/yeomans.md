@@ -1,5 +1,5 @@
 ---
 title: "Yeomans"
 url: /fareham/yeomans/
-shop: Autohaus
+shop: car
 ---

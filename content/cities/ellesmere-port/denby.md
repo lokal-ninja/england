@@ -1,5 +1,5 @@
 ---
 title: "Denby"
 url: /ellesmere-port/denby/
-shop: Haushaltsartikel
+shop: houseware
 ---

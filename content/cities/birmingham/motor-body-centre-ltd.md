@@ -1,5 +1,5 @@
 ---
 title: "Motor Body Centre Ltd"
 url: /birmingham/motor-body-centre-ltd/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CastleCore Security Doors"
 url: /london/castlecore-security-doors/
-shop: Allgemein
+shop: shop
 ---

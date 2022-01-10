@@ -1,5 +1,5 @@
 ---
 title: "Totton Motor Factors"
 url: /southampton/totton-motor-factors/
-shop: Autoteile
+shop: car parts
 ---

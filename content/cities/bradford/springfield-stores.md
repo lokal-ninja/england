@@ -1,5 +1,5 @@
 ---
 title: "Springfield Stores"
 url: /bradford/springfield-stores/
-shop: Lebensmittel
+shop: convenience
 ---

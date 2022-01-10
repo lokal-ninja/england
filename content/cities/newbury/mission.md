@@ -1,5 +1,5 @@
 ---
 title: "Mission"
 url: /newbury/mission/
-shop: Friseur
+shop: hairdresser
 ---

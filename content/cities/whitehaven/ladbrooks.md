@@ -1,5 +1,5 @@
 ---
 title: "Ladbrooks"
 url: /whitehaven/ladbrooks/
-shop: Wettbüro
+shop: bookmaker
 ---

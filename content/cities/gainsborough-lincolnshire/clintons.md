@@ -1,5 +1,5 @@
 ---
 title: "Clintons"
 url: /gainsborough-lincolnshire/clintons/
-shop: Andenken
+shop: gift
 ---

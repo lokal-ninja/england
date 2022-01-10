@@ -1,5 +1,5 @@
 ---
 title: "Rock Paper Scissors Barbers"
 url: /hollingbourne/rock-paper-scissors-barbers/
-shop: Friseur
+shop: hairdresser
 ---

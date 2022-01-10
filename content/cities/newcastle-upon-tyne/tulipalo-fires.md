@@ -1,5 +1,5 @@
 ---
 title: "Tulipalo Fires"
 url: /newcastle-upon-tyne/tulipalo-fires/
-shop: Kamine & Öfen
+shop: fireplace
 ---

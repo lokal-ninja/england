@@ -1,5 +1,5 @@
 ---
 title: "Bathwick Tyres"
 url: /taunton/bathwick-tyres/
-shop: Reifen
+shop: tyres
 ---

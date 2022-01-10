@@ -1,5 +1,5 @@
 ---
 title: "hobs studio"
 url: /bristol/hobs-studio/
-shop: Kopieren
+shop: copyshop
 ---

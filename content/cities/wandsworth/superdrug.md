@@ -1,5 +1,5 @@
 ---
 title: "Superdrug"
 url: /wandsworth/superdrug/
-shop: Drogerie
+shop: chemist
 ---

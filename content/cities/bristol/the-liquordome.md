@@ -1,5 +1,5 @@
 ---
 title: "The Liquordome"
 url: /bristol/the-liquordome/
-shop: Spirituosen
+shop: alcohol
 ---

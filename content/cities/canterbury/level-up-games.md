@@ -1,5 +1,5 @@
 ---
 title: "Level Up Games"
 url: /canterbury/level-up-games/
-shop: Videospiele
+shop: video games
 ---

@@ -1,5 +1,5 @@
 ---
 title: "HomeSense"
 url: /aylesbury/homesense/
-shop: Raumausstattung
+shop: interior decoration
 ---

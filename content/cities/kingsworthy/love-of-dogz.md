@@ -1,5 +1,5 @@
 ---
 title: "Love of Dogz"
 url: /kingsworthy/love-of-dogz/
-shop: Allgemein
+shop: shop
 ---

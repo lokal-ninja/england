@@ -1,5 +1,5 @@
 ---
 title: "Nelsons"
 url: /oakham/nelsons-2/
-shop: Metzgerei
+shop: butcher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /hull/whsmith/
-shop: Zeitungen
+shop: newsagent
 ---

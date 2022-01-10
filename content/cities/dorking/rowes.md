@@ -1,5 +1,5 @@
 ---
 title: "Rowes"
 url: /dorking/rowes/
-shop: Schreibwaren
+shop: office supplies
 ---

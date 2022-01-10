@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /brandon/betfred/
-shop: Wettbüro
+shop: bookmaker
 ---

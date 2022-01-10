@@ -1,5 +1,5 @@
 ---
 title: "The Co-operative Funeralcare"
 url: /nottingham/the-co-operative-funeralcare-5/
-shop: Bestattungen
+shop: funeral directors
 ---

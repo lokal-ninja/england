@@ -1,5 +1,5 @@
 ---
 title: "Mirage Hair Design"
 url: /coulsdon/mirage-hair-design/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Visage Textiles"
 url: /london/visage-textiles/
-shop: Textil
+shop: fabric
 ---

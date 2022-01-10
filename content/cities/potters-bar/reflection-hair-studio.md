@@ -1,5 +1,5 @@
 ---
 title: "Reflection Hair Studio"
 url: /potters-bar/reflection-hair-studio/
-shop: Friseur
+shop: hairdresser
 ---

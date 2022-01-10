@@ -1,5 +1,5 @@
 ---
 title: "Delicachix"
 url: /preston/delicachix/
-shop: Feinkost
+shop: deli
 ---

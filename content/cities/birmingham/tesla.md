@@ -1,5 +1,5 @@
 ---
 title: "TESLA"
 url: /birmingham/tesla/
-shop: Autowerkstatt
+shop: car repair
 ---

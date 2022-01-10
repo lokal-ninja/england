@@ -1,5 +1,5 @@
 ---
 title: "Square Blades"
 url: /chester/square-blades/
-shop: Kleidung
+shop: clothes
 ---

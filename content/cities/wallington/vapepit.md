@@ -1,5 +1,5 @@
 ---
 title: "Vapepit"
 url: /wallington/vapepit/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

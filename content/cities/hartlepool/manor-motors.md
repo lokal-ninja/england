@@ -1,5 +1,5 @@
 ---
 title: "Manor Motors"
 url: /hartlepool/manor-motors/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Kabin"
 url: /chatham/the-kabin/
-shop: Lebensmittel
+shop: convenience
 ---

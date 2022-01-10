@@ -1,5 +1,5 @@
 ---
 title: "Fendi"
 url: /london/fendi/
-shop: Kleidung
+shop: clothes
 ---

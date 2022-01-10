@@ -1,5 +1,5 @@
 ---
 title: "Barnardo's"
 url: /sheffield/barnardos-2/
-shop: Gebrauchtwaren
+shop: charity
 ---

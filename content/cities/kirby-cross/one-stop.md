@@ -1,5 +1,5 @@
 ---
 title: "One Stop"
 url: /kirby-cross/one-stop/
-shop: Lebensmittel
+shop: convenience
 ---

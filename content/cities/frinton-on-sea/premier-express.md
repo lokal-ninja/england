@@ -1,5 +1,5 @@
 ---
 title: "Premier Express"
 url: /frinton-on-sea/premier-express/
-shop: Lebensmittel
+shop: convenience
 ---

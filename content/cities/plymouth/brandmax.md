@@ -1,5 +1,5 @@
 ---
 title: "BrandMax"
 url: /plymouth/brandmax/
-shop: Kramladen
+shop: variety store
 ---

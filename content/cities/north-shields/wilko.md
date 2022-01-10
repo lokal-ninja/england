@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
 url: /north-shields/wilko/
-shop: Kramladen
+shop: variety store
 ---

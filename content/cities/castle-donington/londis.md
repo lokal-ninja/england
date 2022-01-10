@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /castle-donington/londis/
-shop: Lebensmittel
+shop: convenience
 ---

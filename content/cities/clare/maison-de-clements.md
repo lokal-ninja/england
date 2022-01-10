@@ -1,5 +1,5 @@
 ---
 title: "Maison de Clements"
 url: /clare/maison-de-clements/
-shop: Andenken
+shop: gift
 ---

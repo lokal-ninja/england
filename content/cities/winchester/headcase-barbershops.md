@@ -1,5 +1,5 @@
 ---
 title: "Headcase Barbershops"
 url: /winchester/headcase-barbershops/
-shop: Friseur
+shop: hairdresser
 ---

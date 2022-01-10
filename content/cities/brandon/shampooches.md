@@ -1,5 +1,5 @@
 ---
 title: "Shampooches"
 url: /brandon/shampooches/
-shop: Tiersalon
+shop: pet grooming
 ---

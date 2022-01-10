@@ -1,5 +1,5 @@
 ---
 title: "Fairway Foods"
 url: /london/fairway-foods/
-shop: Lebensmittel
+shop: convenience
 ---

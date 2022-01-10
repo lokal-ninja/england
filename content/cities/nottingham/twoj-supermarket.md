@@ -1,5 +1,5 @@
 ---
 title: "Two'j Supermarket"
 url: /nottingham/twoj-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Skylarking"
 url: /cowes/skylarking/
-shop: Antiquitäten
+shop: antiques
 ---

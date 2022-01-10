@@ -1,5 +1,5 @@
 ---
 title: "Sainsbury's"
 url: /olney/sainsburys/
-shop: Supermarkt
+shop: supermarket
 ---

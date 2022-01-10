@@ -1,5 +1,5 @@
 ---
 title: "roneys"
 url: /cambridge/roneys/
-shop: Zeitungen
+shop: newsagent
 ---

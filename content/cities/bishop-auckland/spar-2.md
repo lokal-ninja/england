@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /bishop-auckland/spar-2/
-shop: Supermarkt
+shop: supermarket
 ---

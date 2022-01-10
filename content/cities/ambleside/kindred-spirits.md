@@ -1,5 +1,5 @@
 ---
 title: "Kindred Spirits"
 url: /ambleside/kindred-spirits/
-shop: Spirituosen
+shop: alcohol
 ---

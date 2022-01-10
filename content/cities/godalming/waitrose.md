@@ -1,5 +1,5 @@
 ---
 title: "Waitrose"
 url: /godalming/waitrose/
-shop: Supermarkt
+shop: supermarket
 ---

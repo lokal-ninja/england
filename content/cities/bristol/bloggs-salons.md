@@ -1,5 +1,5 @@
 ---
 title: "Bloggs Salons"
 url: /bristol/bloggs-salons/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /thirsk/tesco/
-shop: Supermarkt
+shop: supermarket
 ---

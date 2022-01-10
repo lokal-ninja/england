@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /upminster/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

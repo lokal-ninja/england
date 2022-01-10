@@ -1,5 +1,5 @@
 ---
 title: "Dalvey"
 url: /manchester/dalvey/
-shop: Kleidung
+shop: clothes
 ---

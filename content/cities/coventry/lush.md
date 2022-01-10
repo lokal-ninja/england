@@ -1,5 +1,5 @@
 ---
 title: "Lush"
 url: /coventry/lush/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "BoozeBuster"
 url: /corby/boozebuster/
-shop: Spirituosen
+shop: alcohol
 ---

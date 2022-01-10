@@ -1,5 +1,5 @@
 ---
 title: "Belle Vue News"
 url: /bristol/belle-vue-news/
-shop: Spirituosen
+shop: alcohol
 ---

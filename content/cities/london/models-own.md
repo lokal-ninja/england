@@ -1,5 +1,5 @@
 ---
 title: "Model's Own"
 url: /london/models-own/
-shop: Kosmetik
+shop: beauty
 ---

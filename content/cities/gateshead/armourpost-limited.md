@@ -1,5 +1,5 @@
 ---
 title: "Armourpost Limited"
 url: /gateshead/armourpost-limited/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Newsagent"
 url: /london/newsagent/
-shop: Zeitungen
+shop: newsagent
 ---

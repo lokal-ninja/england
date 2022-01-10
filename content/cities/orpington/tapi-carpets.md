@@ -1,5 +1,5 @@
 ---
 title: "Tapi Carpets"
 url: /orpington/tapi-carpets/
-shop: Teppiche
+shop: carpet
 ---

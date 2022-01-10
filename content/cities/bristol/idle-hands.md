@@ -1,5 +1,5 @@
 ---
 title: "Idle Hands"
 url: /bristol/idle-hands/
-shop: Musik
+shop: music
 ---

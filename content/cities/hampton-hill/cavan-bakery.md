@@ -1,5 +1,5 @@
 ---
 title: "Cavan Bakery"
 url: /hampton-hill/cavan-bakery/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Apex Blinds"
 url: /newcastle-upon-tyne/apex-blinds/
-shop: Gardinen
+shop: curtain
 ---

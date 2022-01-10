@@ -1,5 +1,5 @@
 ---
 title: "Gap Kids"
 url: /cambridge/gap-kids/
-shop: Kleidung
+shop: clothes
 ---

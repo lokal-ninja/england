@@ -1,5 +1,5 @@
 ---
 title: "Primark"
 url: /taunton/primark/
-shop: Kleidung
+shop: clothes
 ---

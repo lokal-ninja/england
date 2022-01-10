@@ -1,5 +1,5 @@
 ---
 title: "Monster Inflatables"
 url: /chelmsford/monster-inflatables/
-shop: Partyzubehör
+shop: party
 ---

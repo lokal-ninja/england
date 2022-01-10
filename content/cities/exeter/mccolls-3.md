@@ -1,5 +1,5 @@
 ---
-title: "McColls"
+title: "McColl's"
 url: /exeter/mccolls-3/
-shop: Lebensmittel
+shop: convenience
 ---

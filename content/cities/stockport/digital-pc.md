@@ -1,5 +1,5 @@
 ---
 title: "Digital PC"
 url: /stockport/digital-pc/
-shop: Computer
+shop: computer
 ---

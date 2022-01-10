@@ -1,5 +1,5 @@
 ---
 title: "Farmfoods"
 url: /nelson/farmfoods/
-shop: Tiefkühl
+shop: frozen food
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jewson"
 url: /bath/jewson/
-shop: Allgemein
+shop: shop
 ---

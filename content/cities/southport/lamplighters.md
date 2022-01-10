@@ -1,5 +1,5 @@
 ---
 title: "Lamplighters"
 url: /southport/lamplighters/
-shop: Allgemein
+shop: shop
 ---

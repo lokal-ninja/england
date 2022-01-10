@@ -1,5 +1,5 @@
 ---
 title: "Bubbles Spa"
 url: /derby/bubbles-spa/
-shop: Massage
+shop: massage
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Tuscan Farm Shop"
 url: /kings-lynn/the-tuscan-farm-shop/
-shop: Hofladen
+shop: farm
 ---

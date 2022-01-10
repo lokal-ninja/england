@@ -1,5 +1,5 @@
 ---
 title: "Storage Plus"
 url: /stockport/storage-plus/
-shop: Mieten
+shop: storage rental
 ---

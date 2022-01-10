@@ -1,5 +1,5 @@
 ---
 title: "Shell Select"
 url: /leeds/shell-select/
-shop: Lebensmittel
+shop: convenience
 ---

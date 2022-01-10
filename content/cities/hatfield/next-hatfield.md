@@ -1,5 +1,5 @@
 ---
 title: "Next Hatfield"
 url: /hatfield/next-hatfield/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Goldsmiths"
 url: /ipswich/goldsmiths/
-shop: Schmuck
+shop: jewelry
 ---

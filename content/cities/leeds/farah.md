@@ -1,5 +1,5 @@
 ---
 title: "Farah"
 url: /leeds/farah/
-shop: Kleidung
+shop: clothes
 ---

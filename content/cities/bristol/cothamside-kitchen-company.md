@@ -1,5 +1,5 @@
 ---
 title: "Cothamside Kitchen Company"
 url: /bristol/cothamside-kitchen-company/
-shop: Küchen
+shop: kitchen
 ---

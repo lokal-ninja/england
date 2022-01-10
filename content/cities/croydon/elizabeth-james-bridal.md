@@ -1,5 +1,5 @@
 ---
 title: "Elizabeth James Bridal"
 url: /croydon/elizabeth-james-bridal/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "TUI"
 url: /pontefract/tui/
-shop: Reisebüro
+shop: travel agency
 ---

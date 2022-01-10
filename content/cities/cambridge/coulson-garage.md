@@ -1,5 +1,5 @@
 ---
 title: "Coulson Garage"
 url: /cambridge/coulson-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

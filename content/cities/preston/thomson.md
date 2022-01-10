@@ -1,5 +1,5 @@
 ---
 title: "Thomson"
 url: /preston/thomson/
-shop: Reisebüro
+shop: travel agency
 ---

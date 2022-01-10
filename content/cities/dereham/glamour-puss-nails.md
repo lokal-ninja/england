@@ -1,5 +1,5 @@
 ---
 title: "Glamour Puss Nails"
 url: /dereham/glamour-puss-nails/
-shop: Kosmetik
+shop: beauty
 ---

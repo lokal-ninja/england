@@ -1,5 +1,5 @@
 ---
 title: "Leyland SDM"
 url: /london/leyland-sdm/
-shop: Baustoffe
+shop: trade
 ---

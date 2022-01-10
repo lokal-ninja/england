@@ -1,5 +1,5 @@
 ---
 title: "Saltrock"
 url: /street/saltrock/
-shop: Kleidung
+shop: clothes
 ---

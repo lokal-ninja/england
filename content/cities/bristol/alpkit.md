@@ -1,5 +1,5 @@
 ---
 title: "Alpkit"
 url: /bristol/alpkit/
-shop: Outdoor
+shop: outdoor
 ---

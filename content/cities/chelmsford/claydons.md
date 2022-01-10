@@ -1,5 +1,5 @@
 ---
 title: "Claydons"
 url: /chelmsford/claydons/
-shop: Zeitungen
+shop: newsagent
 ---

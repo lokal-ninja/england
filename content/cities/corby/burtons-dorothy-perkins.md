@@ -1,5 +1,5 @@
 ---
 title: "Burtons/Dorothy Perkins"
 url: /corby/burtons-dorothy-perkins/
-shop: Kleidung
+shop: clothes
 ---

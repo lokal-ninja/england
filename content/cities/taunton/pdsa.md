@@ -1,5 +1,5 @@
 ---
 title: "PDSA"
 url: /taunton/pdsa/
-shop: Gebrauchtwaren
+shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Murketts"
 url: /cambridge/murketts/
-shop: Autohaus
+shop: car
 ---

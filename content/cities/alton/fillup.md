@@ -1,5 +1,5 @@
 ---
 title: "FillUp"
 url: /alton/fillup/
-shop: Supermarkt
+shop: supermarket
 ---

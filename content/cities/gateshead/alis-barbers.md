@@ -1,5 +1,5 @@
 ---
 title: "Ali's Barbers"
 url: /gateshead/alis-barbers/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Scrivens"
 url: /bishop-auckland/scrivens/
-shop: Optiker
+shop: optician
 ---

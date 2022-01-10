@@ -1,5 +1,5 @@
 ---
 title: "Swayz Ltd"
 url: /london/swayz-ltd/
-shop: Elektronik
+shop: electronics
 ---

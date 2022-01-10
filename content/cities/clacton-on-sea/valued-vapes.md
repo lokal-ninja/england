@@ -1,5 +1,5 @@
 ---
 title: "Valued Vapes"
 url: /clacton-on-sea/valued-vapes/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

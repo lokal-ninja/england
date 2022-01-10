@@ -1,5 +1,5 @@
 ---
 title: "TMS"
 url: /alnwick/tms/
-shop: Autoteile
+shop: car parts
 ---

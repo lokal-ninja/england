@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /haslemere/tesco/
-shop: Supermarkt
+shop: supermarket
 ---

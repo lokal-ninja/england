@@ -1,5 +1,5 @@
 ---
 title: "Sainsbury's"
 url: /maidstone/sainsburys/
-shop: Supermarkt
+shop: supermarket
 ---

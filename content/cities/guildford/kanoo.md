@@ -1,5 +1,5 @@
 ---
 title: "Kanoo"
 url: /guildford/kanoo/
-shop: Reisebüro
+shop: travel agency
 ---

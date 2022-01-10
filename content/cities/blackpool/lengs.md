@@ -1,5 +1,5 @@
 ---
 title: "Lengs"
 url: /blackpool/lengs/
-shop: Bestattungen
+shop: funeral directors
 ---

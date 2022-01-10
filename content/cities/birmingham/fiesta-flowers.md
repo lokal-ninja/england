@@ -1,5 +1,5 @@
 ---
 title: "Fiesta Flowers"
 url: /birmingham/fiesta-flowers/
-shop: Blumen
+shop: florist
 ---

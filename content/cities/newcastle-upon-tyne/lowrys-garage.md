@@ -1,5 +1,5 @@
 ---
 title: "Lowrys Garage"
 url: /newcastle-upon-tyne/lowrys-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

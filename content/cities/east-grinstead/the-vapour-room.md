@@ -1,5 +1,5 @@
 ---
 title: "The Vapour Room"
 url: /east-grinstead/the-vapour-room/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

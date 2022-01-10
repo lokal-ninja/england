@@ -1,5 +1,5 @@
 ---
 title: "Best-One"
 url: /huddersfield/best-one/
-shop: Lebensmittel
+shop: convenience
 ---

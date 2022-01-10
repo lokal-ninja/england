@@ -1,5 +1,5 @@
 ---
 title: "Fabrix"
 url: /lancaster/fabrix/
-shop: Textil
+shop: fabric
 ---

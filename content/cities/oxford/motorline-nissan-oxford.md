@@ -1,5 +1,5 @@
 ---
 title: "Motorline Nissan Oxford"
 url: /oxford/motorline-nissan-oxford/
-shop: Autohaus
+shop: car
 ---

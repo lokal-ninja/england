@@ -1,5 +1,5 @@
 ---
 title: "Dark Sphere"
 url: /london/dark-sphere/
-shop: Spielzeug
+shop: toys
 ---

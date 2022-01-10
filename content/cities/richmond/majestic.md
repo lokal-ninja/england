@@ -1,5 +1,5 @@
 ---
 title: "Majestic"
 url: /richmond/majestic/
-shop: Spirituosen
+shop: alcohol
 ---

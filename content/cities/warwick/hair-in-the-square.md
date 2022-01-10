@@ -1,5 +1,5 @@
 ---
 title: "Hair in the Square"
 url: /warwick/hair-in-the-square/
-shop: Friseur
+shop: hairdresser
 ---

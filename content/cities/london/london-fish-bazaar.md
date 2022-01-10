@@ -1,5 +1,5 @@
 ---
 title: "London Fish Bazaar"
 url: /london/london-fish-bazaar/
-shop: Fisch
+shop: seafood
 ---

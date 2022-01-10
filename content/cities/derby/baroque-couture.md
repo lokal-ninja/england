@@ -1,5 +1,5 @@
 ---
 title: "Baroque Couture"
 url: /derby/baroque-couture/
-shop: Brautkleider
+shop: wedding gown
 ---

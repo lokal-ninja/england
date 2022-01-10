@@ -1,5 +1,5 @@
 ---
 title: "R. Mottershead Ophthalmic Optician"
 url: /barnard-castle/r-mottershead-ophthalmic-optician/
-shop: Optiker
+shop: optician
 ---

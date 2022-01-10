@@ -1,5 +1,5 @@
 ---
 title: "theworldthewayiwantit"
 url: /london/theworldthewayiwantit/
-shop: Schuhe
+shop: shoes
 ---

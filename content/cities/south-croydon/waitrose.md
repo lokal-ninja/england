@@ -1,5 +1,5 @@
 ---
 title: "Waitrose"
 url: /south-croydon/waitrose/
-shop: Supermarkt
+shop: supermarket
 ---

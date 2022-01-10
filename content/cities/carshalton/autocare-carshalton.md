@@ -1,5 +1,5 @@
 ---
 title: "Autocare Carshalton"
 url: /carshalton/autocare-carshalton/
-shop: Autowerkstatt
+shop: car repair
 ---

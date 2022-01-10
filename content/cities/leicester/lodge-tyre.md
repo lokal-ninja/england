@@ -1,5 +1,5 @@
 ---
 title: "Lodge Tyre"
 url: /leicester/lodge-tyre/
-shop: Reifen
+shop: tyres
 ---

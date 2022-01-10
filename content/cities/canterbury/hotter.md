@@ -1,5 +1,5 @@
 ---
 title: "Hotter"
 url: /canterbury/hotter/
-shop: Schuhe
+shop: shoes
 ---

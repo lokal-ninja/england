@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /chorley/ladbrokes/
-shop: Wettbüro
+shop: bookmaker
 ---

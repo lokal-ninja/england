@@ -1,5 +1,5 @@
 ---
 title: "Harvey Jones Kitchens"
 url: /leamington-spa/harvey-jones-kitchens/
-shop: Küchen
+shop: kitchen
 ---

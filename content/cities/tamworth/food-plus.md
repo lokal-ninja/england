@@ -1,5 +1,5 @@
 ---
 title: "Food Plus"
 url: /tamworth/food-plus/
-shop: Lebensmittel
+shop: convenience
 ---

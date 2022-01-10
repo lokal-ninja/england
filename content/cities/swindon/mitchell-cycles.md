@@ -1,5 +1,5 @@
 ---
 title: "Mitchell Cycles"
 url: /swindon/mitchell-cycles/
-shop: Fahrrad
+shop: bicycle
 ---

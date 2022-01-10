@@ -1,5 +1,5 @@
 ---
 title: "Corner Stores"
 url: /kimpton/corner-stores/
-shop: Lebensmittel
+shop: convenience
 ---

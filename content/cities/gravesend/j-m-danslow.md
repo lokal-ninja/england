@@ -1,5 +1,5 @@
 ---
 title: "J M Danslow"
 url: /gravesend/j-m-danslow/
-shop: Metzgerei
+shop: butcher
 ---

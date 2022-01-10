@@ -1,5 +1,5 @@
 ---
 title: "Trevenson Moor Garden Centre"
 url: /camborne/trevenson-moor-garden-centre/
-shop: Garten-Center
+shop: garden centre
 ---

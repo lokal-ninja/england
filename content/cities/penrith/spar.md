@@ -1,5 +1,5 @@
 ---
 title: "SPAR"
 url: /penrith/spar/
-shop: Lebensmittel
+shop: convenience
 ---

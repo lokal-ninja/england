@@ -1,5 +1,5 @@
 ---
 title: "Dreams"
 url: /derby/dreams/
-shop: Betten
+shop: bed
 ---

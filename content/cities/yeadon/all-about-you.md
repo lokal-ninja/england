@@ -1,5 +1,5 @@
 ---
 title: "All about you"
 url: /yeadon/all-about-you/
-shop: Kosmetik
+shop: beauty
 ---

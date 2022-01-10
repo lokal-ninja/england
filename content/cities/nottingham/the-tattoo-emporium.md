@@ -1,5 +1,5 @@
 ---
 title: "The Tattoo Emporium"
 url: /nottingham/the-tattoo-emporium/
-shop: Tattoo
+shop: tattoo
 ---

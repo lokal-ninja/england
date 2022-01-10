@@ -1,5 +1,5 @@
 ---
 title: "Fabrique"
 url: /london/fabrique/
-shop: Bäckerei
+shop: bakery
 ---

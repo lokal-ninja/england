@@ -1,5 +1,5 @@
 ---
 title: "Royal Victoria Arcade"
 url: /ryde/royal-victoria-arcade/
-shop: Einkaufszentrum
+shop: mall
 ---

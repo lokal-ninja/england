@@ -1,5 +1,5 @@
 ---
 title: "Farmfoods"
 url: /bedford/farmfoods/
-shop: Tiefkühl
+shop: frozen food
 ---

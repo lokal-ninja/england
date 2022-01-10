@@ -1,5 +1,5 @@
 ---
 title: "Cycle Service"
 url: /sidmouth/cycle-service/
-shop: Fahrrad
+shop: bicycle
 ---

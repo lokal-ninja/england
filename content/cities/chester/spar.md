@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /chester/spar/
-shop: Lebensmittel
+shop: convenience
 ---

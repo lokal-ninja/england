@@ -1,5 +1,5 @@
 ---
 title: "Grape Grain"
 url: /morpeth/grape-grain/
-shop: Spirituosen
+shop: alcohol
 ---

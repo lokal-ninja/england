@@ -1,5 +1,5 @@
 ---
 title: "Boss Dogz Grooming"
 url: /bradford/boss-dogz-grooming/
-shop: Tiersalon
+shop: pet grooming
 ---

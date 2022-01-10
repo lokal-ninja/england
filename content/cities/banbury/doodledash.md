@@ -1,5 +1,5 @@
 ---
 title: "Doodledash"
 url: /banbury/doodledash/
-shop: Allgemein
+shop: shop
 ---

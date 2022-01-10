@@ -1,5 +1,5 @@
 ---
 title: "Vale Antiques"
 url: /easingwold/vale-antiques/
-shop: Antiquitäten
+shop: antiques
 ---

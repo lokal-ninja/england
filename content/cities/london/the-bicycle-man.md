@@ -1,5 +1,5 @@
 ---
 title: "The Bicycle Man"
 url: /london/the-bicycle-man/
-shop: Fahrrad
+shop: bicycle
 ---

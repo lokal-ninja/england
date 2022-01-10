@@ -1,5 +1,5 @@
 ---
 title: "Stechford Auto Spares"
 url: /birmingham/stechford-auto-spares/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Auto Solutions Nottingham"
 url: /nottingham/auto-solutions-nottingham/
-shop: Autowerkstatt
+shop: car repair
 ---

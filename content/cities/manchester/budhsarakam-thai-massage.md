@@ -1,5 +1,5 @@
 ---
 title: "Budhsarakam Thai Massage"
 url: /manchester/budhsarakam-thai-massage/
-shop: Massage
+shop: massage
 ---

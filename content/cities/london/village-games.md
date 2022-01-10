@@ -1,5 +1,5 @@
 ---
 title: "Village Games"
 url: /london/village-games/
-shop: Spiele
+shop: games
 ---

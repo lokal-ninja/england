@@ -1,5 +1,5 @@
 ---
 title: "Macklin Street Launderette"
 url: /derby/macklin-street-launderette/
-shop: Wäscherei
+shop: laundry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Denmans"
 url: /kings-lynn/denmans/
-shop: Schreibwaren
+shop: office supplies
 ---

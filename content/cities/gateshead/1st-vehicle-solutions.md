@@ -1,5 +1,5 @@
 ---
 title: "1St Vehicle Solutions"
 url: /gateshead/1st-vehicle-solutions/
-shop: Allgemein
+shop: shop
 ---

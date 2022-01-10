@@ -1,5 +1,5 @@
 ---
 title: "R Whisby Butchers"
 url: /wragby/r-whisby-butchers/
-shop: Metzgerei
+shop: butcher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AvailableCar"
 url: /leeds/availablecar/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carpetright"
 url: /devizes/carpetright/
-shop: Teppiche
+shop: carpet
 ---

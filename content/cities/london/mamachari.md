@@ -1,5 +1,5 @@
 ---
 title: "Mamachari"
 url: /london/mamachari/
-shop: Fahrrad
+shop: bicycle
 ---

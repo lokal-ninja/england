@@ -1,5 +1,5 @@
 ---
 title: "Arnold Clark - Ford"
 url: /newcastle-upon-tyne/arnold-clark-ford/
-shop: Autohaus
+shop: car
 ---

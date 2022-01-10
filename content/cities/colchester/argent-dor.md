@@ -1,5 +1,5 @@
 ---
 title: "Argent d'Or"
 url: /colchester/argent-dor/
-shop: Schmuck
+shop: jewelry
 ---

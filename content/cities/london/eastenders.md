@@ -1,5 +1,5 @@
 ---
 title: "Eastenders"
 url: /london/eastenders/
-shop: Gebrauchtwaren
+shop: charity
 ---

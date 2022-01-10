@@ -1,5 +1,5 @@
 ---
 title: "Decoflair"
 url: /blyth/decoflair/
-shop: Raumausstattung
+shop: interior decoration
 ---

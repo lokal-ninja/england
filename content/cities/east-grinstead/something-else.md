@@ -1,5 +1,5 @@
 ---
 title: "Something Else"
 url: /east-grinstead/something-else/
-shop: Kleidung
+shop: clothes
 ---

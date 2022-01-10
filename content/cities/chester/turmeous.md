@@ -1,5 +1,5 @@
 ---
 title: "Turmeous"
 url: /chester/turmeous/
-shop: Tabak
+shop: tobacco
 ---

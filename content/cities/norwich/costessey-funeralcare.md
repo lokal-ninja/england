@@ -1,5 +1,5 @@
 ---
 title: "Costessey Funeralcare"
 url: /norwich/costessey-funeralcare/
-shop: Bestattungen
+shop: funeral directors
 ---

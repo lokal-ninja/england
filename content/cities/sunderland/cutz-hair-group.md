@@ -1,5 +1,5 @@
 ---
 title: "Cutz hair group"
 url: /sunderland/cutz-hair-group/
-shop: Friseur
+shop: hairdresser
 ---

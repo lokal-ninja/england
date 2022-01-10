@@ -1,5 +1,5 @@
 ---
 title: "Oliver Bonas"
 url: /wandsworth/oliver-bonas/
-shop: Allgemein
+shop: shop
 ---

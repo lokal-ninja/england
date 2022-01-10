@@ -1,5 +1,5 @@
 ---
 title: "Something Special"
 url: /banstead/something-special/
-shop: Haushaltsartikel
+shop: houseware
 ---

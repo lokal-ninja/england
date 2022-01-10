@@ -1,5 +1,5 @@
 ---
 title: "Fred Aldous"
 url: /manchester/fred-aldous/
-shop: Basteln
+shop: craft
 ---

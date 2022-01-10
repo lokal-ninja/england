@@ -1,5 +1,5 @@
 ---
 title: "Kubus"
 url: /boston/kubus/
-shop: Lebensmittel
+shop: convenience
 ---

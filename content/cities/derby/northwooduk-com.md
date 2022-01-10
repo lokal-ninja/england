@@ -1,5 +1,5 @@
 ---
 title: "NorthwoodUK.com"
 url: /derby/northwooduk-com/
-shop: Immobilien
+shop: estate agent
 ---

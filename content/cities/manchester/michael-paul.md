@@ -1,5 +1,5 @@
 ---
 title: "Michael Paul"
 url: /manchester/michael-paul/
-shop: Friseur
+shop: hairdresser
 ---

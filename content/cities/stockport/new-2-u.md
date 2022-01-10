@@ -1,5 +1,5 @@
 ---
 title: "New 2 U"
 url: /stockport/new-2-u/
-shop: Gebrauchtwaren
+shop: charity
 ---

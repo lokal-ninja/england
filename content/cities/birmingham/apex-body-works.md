@@ -1,5 +1,5 @@
 ---
 title: "Apex Body Works"
 url: /birmingham/apex-body-works/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fulfords"
 url: /exeter/fulfords/
-shop: Immobilien
+shop: estate agent
 ---

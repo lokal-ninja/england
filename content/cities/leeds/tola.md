@@ -1,5 +1,5 @@
 ---
 title: "Tola"
 url: /leeds/tola/
-shop: Allgemein
+shop: shop
 ---

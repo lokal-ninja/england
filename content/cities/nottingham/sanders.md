@@ -1,5 +1,5 @@
 ---
 title: "Sanders"
 url: /nottingham/sanders/
-shop: Kleidung
+shop: clothes
 ---

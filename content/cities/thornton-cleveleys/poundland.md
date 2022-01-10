@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /thornton-cleveleys/poundland/
-shop: Kramladen
+shop: variety store
 ---

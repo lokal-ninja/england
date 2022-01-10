@@ -1,5 +1,5 @@
 ---
 title: "Vacent"
 url: /reading/vacent/
-shop: Allgemein
+shop: shop
 ---

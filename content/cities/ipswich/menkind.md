@@ -1,5 +1,5 @@
 ---
 title: "Menkind"
 url: /ipswich/menkind/
-shop: Spielzeug
+shop: toys
 ---

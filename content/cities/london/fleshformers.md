@@ -1,5 +1,5 @@
 ---
 title: "Fleshformers"
 url: /london/fleshformers/
-shop: Tattoo
+shop: tattoo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ElectricBase"
 url: /york/electricbase/
-shop: Elektrisch
+shop: electrical
 ---

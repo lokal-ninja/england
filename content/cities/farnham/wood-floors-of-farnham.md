@@ -1,5 +1,5 @@
 ---
 title: "Wood Floors of Farnham"
 url: /farnham/wood-floors-of-farnham/
-shop: Raumausstattung
+shop: interior decoration
 ---

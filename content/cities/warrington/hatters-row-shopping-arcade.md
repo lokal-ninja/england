@@ -1,5 +1,5 @@
 ---
 title: "Hatters Row Shopping Arcade"
 url: /warrington/hatters-row-shopping-arcade/
-shop: Einkaufszentrum
+shop: mall
 ---

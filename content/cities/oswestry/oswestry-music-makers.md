@@ -1,5 +1,5 @@
 ---
 title: "Oswestry Music Makers"
 url: /oswestry/oswestry-music-makers/
-shop: Musik
+shop: music
 ---

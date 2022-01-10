@@ -1,5 +1,5 @@
 ---
 title: "Poundstretcher"
 url: /redhill/poundstretcher/
-shop: Kramladen
+shop: variety store
 ---

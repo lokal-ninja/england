@@ -1,5 +1,5 @@
 ---
 title: "India Tourism"
 url: /london/india-tourism/
-shop: Reisebüro
+shop: travel agency
 ---

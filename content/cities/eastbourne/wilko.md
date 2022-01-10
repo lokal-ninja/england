@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
 url: /eastbourne/wilko/
-shop: Kramladen
+shop: variety store
 ---

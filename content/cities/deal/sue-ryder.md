@@ -1,5 +1,5 @@
 ---
 title: "Sue Ryder"
 url: /deal/sue-ryder/
-shop: Gebrauchtwaren
+shop: charity
 ---

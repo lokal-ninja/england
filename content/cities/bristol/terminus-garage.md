@@ -1,5 +1,5 @@
 ---
 title: "Terminus Garage"
 url: /bristol/terminus-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

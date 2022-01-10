@@ -1,5 +1,5 @@
 ---
 title: "Trago"
 url: /falmouth/trago/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Phone Gadgets"
 url: /kendal/phone-gadgets/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /dunstable/iceland/
-shop: Supermarkt
+shop: supermarket
 ---

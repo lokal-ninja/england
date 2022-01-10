@@ -1,5 +1,5 @@
 ---
 title: "Snack Attack"
 url: /gateshead/snack-attack/
-shop: Feinkost
+shop: deli
 ---

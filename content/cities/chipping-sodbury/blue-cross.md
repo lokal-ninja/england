@@ -1,5 +1,5 @@
 ---
 title: "Blue Cross"
 url: /chipping-sodbury/blue-cross/
-shop: Gebrauchtwaren
+shop: charity
 ---

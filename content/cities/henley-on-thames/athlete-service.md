@@ -1,5 +1,5 @@
 ---
 title: "Athlete Service"
 url: /henley-on-thames/athlete-service/
-shop: Fahrrad
+shop: bicycle
 ---

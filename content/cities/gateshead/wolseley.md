@@ -1,5 +1,5 @@
 ---
 title: "Wolseley"
 url: /gateshead/wolseley/
-shop: Baustoffe
+shop: trade
 ---

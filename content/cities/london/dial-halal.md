@@ -1,5 +1,5 @@
 ---
 title: "Dial Halal"
 url: /london/dial-halal/
-shop: Metzgerei
+shop: butcher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Loaf"
 url: /wymondham/loaf/
-shop: Bäckerei
+shop: bakery
 ---

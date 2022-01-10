@@ -1,5 +1,5 @@
 ---
 title: "Avenue Cars"
 url: /birmingham/avenue-cars/
-shop: Autohaus
+shop: car
 ---

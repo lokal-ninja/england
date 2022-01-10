@@ -1,5 +1,5 @@
 ---
 title: "Prontaprint"
 url: /wolverhampton/prontaprint/
-shop: Kopieren
+shop: copyshop
 ---

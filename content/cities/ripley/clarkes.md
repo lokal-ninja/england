@@ -1,5 +1,5 @@
 ---
 title: "Clarkes"
 url: /ripley/clarkes/
-shop: Warenhaus
+shop: department store
 ---

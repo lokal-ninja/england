@@ -1,5 +1,5 @@
 ---
 title: "Abbey Food City"
 url: /malmesbury/abbey-food-city/
-shop: Lebensmittel
+shop: convenience
 ---

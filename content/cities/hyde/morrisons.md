@@ -1,5 +1,5 @@
 ---
 title: "Morrisons"
 url: /hyde/morrisons/
-shop: Supermarkt
+shop: supermarket
 ---

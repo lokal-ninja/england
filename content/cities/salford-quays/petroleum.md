@@ -1,5 +1,5 @@
 ---
 title: "Petroleum"
 url: /salford-quays/petroleum/
-shop: Kleidung
+shop: clothes
 ---

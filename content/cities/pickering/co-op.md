@@ -1,5 +1,5 @@
 ---
 title: "Co-op"
 url: /pickering/co-op/
-shop: Supermarkt
+shop: supermarket
 ---

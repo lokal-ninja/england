@@ -1,5 +1,5 @@
 ---
 title: "Sue Ryder"
 url: /louth/sue-ryder/
-shop: Gebrauchtwaren
+shop: charity
 ---

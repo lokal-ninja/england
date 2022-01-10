@@ -1,5 +1,5 @@
 ---
 title: "Rohany Baby"
 url: /bishop-auckland/rohany-baby/
-shop: Babysachen
+shop: baby goods
 ---

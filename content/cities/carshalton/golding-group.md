@@ -1,5 +1,5 @@
 ---
 title: "Golding Group"
 url: /carshalton/golding-group/
-shop: Lebensmittel
+shop: convenience
 ---

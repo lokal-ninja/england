@@ -1,5 +1,5 @@
 ---
 title: "Coughlans Bakery"
 url: /coulsdon/coughlans-bakery/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "New Look"
 url: /northampton/new-look-2/
-shop: Kleidung
+shop: clothes
 ---

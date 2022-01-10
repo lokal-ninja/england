@@ -1,5 +1,5 @@
 ---
 title: "Washington Tyre Centre"
 url: /washington/washington-tyre-centre/
-shop: Autowerkstatt
+shop: car repair
 ---

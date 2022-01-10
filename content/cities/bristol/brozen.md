@@ -1,5 +1,5 @@
 ---
 title: "Brozen"
 url: /bristol/brozen/
-shop: Eisprodukte
+shop: ice cream
 ---

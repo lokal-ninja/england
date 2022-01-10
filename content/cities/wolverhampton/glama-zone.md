@@ -1,5 +1,5 @@
 ---
 title: "Glama Zone"
 url: /wolverhampton/glama-zone/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "islamforever"
 url: /peterborough/islamforever/
-shop: Kleidung
+shop: clothes
 ---

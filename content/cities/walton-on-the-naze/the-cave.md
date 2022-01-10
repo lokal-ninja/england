@@ -1,5 +1,5 @@
 ---
 title: "The Cave"
 url: /walton-on-the-naze/the-cave/
-shop: Antiquitäten
+shop: antiques
 ---

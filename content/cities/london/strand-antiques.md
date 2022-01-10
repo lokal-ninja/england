@@ -1,5 +1,5 @@
 ---
 title: "Strand Antiques"
 url: /london/strand-antiques/
-shop: Antiquitäten
+shop: antiques
 ---

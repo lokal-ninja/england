@@ -1,5 +1,5 @@
 ---
 title: "Pendulum"
 url: /eastbourne/pendulum/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Richard Arundel"
 url: /bingley/richard-arundel/
-shop: Metzgerei
+shop: butcher
 ---

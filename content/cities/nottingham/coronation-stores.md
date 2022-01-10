@@ -1,5 +1,5 @@
 ---
 title: "Coronation Stores"
 url: /nottingham/coronation-stores/
-shop: Zeitungen
+shop: newsagent
 ---

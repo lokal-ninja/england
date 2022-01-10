@@ -1,5 +1,5 @@
 ---
 title: "Kiehl's"
 url: /london/kiehls-3/
-shop: Allgemein
+shop: shop
 ---

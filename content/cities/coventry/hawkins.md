@@ -1,5 +1,5 @@
 ---
 title: "Hawkins"
 url: /coventry/hawkins/
-shop: Immobilien
+shop: estate agent
 ---

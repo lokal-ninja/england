@@ -1,5 +1,5 @@
 ---
 title: "Beken"
 url: /cowes/beken/
-shop: Foto
+shop: photo
 ---

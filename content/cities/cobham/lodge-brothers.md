@@ -1,5 +1,5 @@
 ---
 title: "Lodge Brothers"
 url: /cobham/lodge-brothers/
-shop: Bestattungen
+shop: funeral directors
 ---

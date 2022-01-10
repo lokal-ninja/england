@@ -1,5 +1,5 @@
 ---
 title: "British Red Cross"
 url: /penge/british-red-cross/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "EE"
 url: /chorley/ee/
-shop: Handy
+shop: mobile phone
 ---

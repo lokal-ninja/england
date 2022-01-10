@@ -1,5 +1,5 @@
 ---
 title: "Medstrom"
 url: /gateshead/medstrom/
-shop: Allgemein
+shop: shop
 ---

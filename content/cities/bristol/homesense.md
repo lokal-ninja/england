@@ -1,5 +1,5 @@
 ---
 title: "HomeSense"
 url: /bristol/homesense/
-shop: Raumausstattung
+shop: interior decoration
 ---

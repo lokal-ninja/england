@@ -1,5 +1,5 @@
 ---
 title: "Beeston Pound Plus"
 url: /leeds/beeston-pound-plus/
-shop: Lebensmittel
+shop: convenience
 ---

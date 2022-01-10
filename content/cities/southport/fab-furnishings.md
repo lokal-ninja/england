@@ -1,5 +1,5 @@
 ---
 title: "Fab Furnishings"
 url: /southport/fab-furnishings/
-shop: Möbel
+shop: furniture
 ---

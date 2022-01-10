@@ -1,5 +1,5 @@
 ---
 title: "Hillarys"
 url: /guildford/hillarys/
-shop: Jalousien
+shop: window blind
 ---

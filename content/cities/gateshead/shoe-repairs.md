@@ -1,5 +1,5 @@
 ---
 title: "Shoe Repairs"
 url: /gateshead/shoe-repairs/
-shop: Allgemein
+shop: shop
 ---

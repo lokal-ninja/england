@@ -1,5 +1,5 @@
 ---
 title: "The Barber Club"
 url: /croydon/the-barber-club/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mulberry"
 url: /selsey-chichester/mulberry/
-shop: Allgemein
+shop: shop
 ---

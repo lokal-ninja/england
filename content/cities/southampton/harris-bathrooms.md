@@ -1,5 +1,5 @@
 ---
 title: "Harris Bathrooms"
 url: /southampton/harris-bathrooms/
-shop: Badezimmer
+shop: bathroom
 ---

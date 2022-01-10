@@ -1,5 +1,5 @@
 ---
 title: "Zen Wardrobe"
 url: /kendal/zen-wardrobe/
-shop: Kleidung
+shop: clothes
 ---

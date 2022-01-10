@@ -1,5 +1,5 @@
 ---
 title: "Longcombe Nursery and Garden Centre"
 url: /totnes/longcombe-nursery-and-garden-centre/
-shop: Garten-Center
+shop: garden centre
 ---

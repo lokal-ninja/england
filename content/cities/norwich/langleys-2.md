@@ -1,5 +1,5 @@
 ---
 title: "Langleys"
 url: /norwich/langleys-2/
-shop: Spielzeug
+shop: toys
 ---

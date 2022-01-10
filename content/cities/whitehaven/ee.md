@@ -1,5 +1,5 @@
 ---
 title: "EE"
 url: /whitehaven/ee/
-shop: Handy
+shop: mobile phone
 ---

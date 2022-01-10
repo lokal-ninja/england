@@ -1,5 +1,5 @@
 ---
 title: "Elizabeth"
 url: /bexhill-on-sea/elizabeth/
-shop: Kleidung
+shop: clothes
 ---

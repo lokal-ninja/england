@@ -1,5 +1,5 @@
 ---
 title: "Monkley's Furniture"
 url: /ledbury/monkleys-furniture/
-shop: Möbel
+shop: furniture
 ---

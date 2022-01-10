@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /huntingdon/savers/
-shop: Drogerie
+shop: chemist
 ---

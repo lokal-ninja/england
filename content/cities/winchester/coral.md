@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /winchester/coral/
-shop: Wettbüro
+shop: bookmaker
 ---

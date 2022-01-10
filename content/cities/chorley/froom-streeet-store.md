@@ -1,5 +1,5 @@
 ---
 title: "Froom Streeet Store"
 url: /chorley/froom-streeet-store/
-shop: Lebensmittel
+shop: convenience
 ---

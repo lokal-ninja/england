@@ -1,5 +1,5 @@
 ---
 title: "Benefit Cosmetics"
 url: /st-albans/benefit-cosmetics/
-shop: Kosmetik
+shop: beauty
 ---

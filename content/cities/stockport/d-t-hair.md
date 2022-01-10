@@ -1,5 +1,5 @@
 ---
 title: "D.T.Hair"
 url: /stockport/d-t-hair/
-shop: Friseur
+shop: hairdresser
 ---

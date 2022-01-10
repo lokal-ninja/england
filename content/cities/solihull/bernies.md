@@ -1,5 +1,5 @@
 ---
 title: "Bernie's"
 url: /solihull/bernies/
-shop: Spirituosen
+shop: alcohol
 ---

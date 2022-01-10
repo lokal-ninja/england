@@ -1,5 +1,5 @@
 ---
 title: "Frank Ewington"
 url: /rugby/frank-ewington/
-shop: Elektronik
+shop: electronics
 ---

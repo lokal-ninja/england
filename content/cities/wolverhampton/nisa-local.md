@@ -1,5 +1,5 @@
 ---
 title: "Nisa Local"
 url: /wolverhampton/nisa-local/
-shop: Lebensmittel
+shop: convenience
 ---

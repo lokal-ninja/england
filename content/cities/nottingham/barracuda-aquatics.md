@@ -1,5 +1,5 @@
 ---
 title: "Barracuda Aquatics"
 url: /nottingham/barracuda-aquatics/
-shop: Allgemein
+shop: shop
 ---

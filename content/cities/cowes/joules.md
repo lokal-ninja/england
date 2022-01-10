@@ -1,5 +1,5 @@
 ---
 title: "Joules"
 url: /cowes/joules/
-shop: Kleidung
+shop: clothes
 ---

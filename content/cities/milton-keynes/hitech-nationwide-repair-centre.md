@@ -1,5 +1,5 @@
 ---
 title: "HiTech Nationwide Repair Centre"
 url: /milton-keynes/hitech-nationwide-repair-centre/
-shop: Autowerkstatt
+shop: car repair
 ---

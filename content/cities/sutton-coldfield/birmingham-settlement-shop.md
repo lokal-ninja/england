@@ -1,5 +1,5 @@
 ---
 title: "Birmingham Settlement shop"
 url: /sutton-coldfield/birmingham-settlement-shop/
-shop: Gebrauchtwaren
+shop: charity
 ---

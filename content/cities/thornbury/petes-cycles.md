@@ -1,5 +1,5 @@
 ---
 title: "Pete's Cycles"
 url: /thornbury/petes-cycles/
-shop: Fahrrad
+shop: bicycle
 ---

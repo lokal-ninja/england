@@ -1,5 +1,5 @@
 ---
 title: "Starshine Dry Cleaners"
 url: /london/starshine-dry-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

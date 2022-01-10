@@ -1,5 +1,5 @@
 ---
 title: "Bobby's Stores"
 url: /glenfield/bobbys-stores/
-shop: Lebensmittel
+shop: convenience
 ---

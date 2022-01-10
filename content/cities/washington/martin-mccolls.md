@@ -1,5 +1,5 @@
 ---
 title: "Martin McColls"
 url: /washington/martin-mccolls/
-shop: Allgemein
+shop: shop
 ---

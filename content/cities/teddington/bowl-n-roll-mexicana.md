@@ -1,5 +1,5 @@
 ---
 title: "Bowl N Roll Mexicana"
 url: /teddington/bowl-n-roll-mexicana/
-shop: Feinkost
+shop: deli
 ---

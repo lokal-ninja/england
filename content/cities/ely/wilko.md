@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
 url: /ely/wilko/
-shop: Kramladen
+shop: variety store
 ---

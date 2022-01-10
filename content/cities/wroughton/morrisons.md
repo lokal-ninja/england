@@ -1,5 +1,5 @@
 ---
 title: "Morrisons"
 url: /wroughton/morrisons/
-shop: Lebensmittel
+shop: convenience
 ---

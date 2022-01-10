@@ -1,5 +1,5 @@
 ---
 title: "jamesdaniel"
 url: /hadleigh/jamesdaniel/
-shop: Friseur
+shop: hairdresser
 ---

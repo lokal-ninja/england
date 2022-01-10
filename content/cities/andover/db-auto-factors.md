@@ -1,5 +1,5 @@
 ---
 title: "DB Auto Factors"
 url: /andover/db-auto-factors/
-shop: Allgemein
+shop: car parts
 ---

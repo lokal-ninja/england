@@ -1,5 +1,5 @@
 ---
 title: "Monsoon"
 url: /canterbury/monsoon/
-shop: Kleidung
+shop: clothes
 ---

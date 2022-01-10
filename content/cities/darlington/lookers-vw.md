@@ -1,5 +1,5 @@
 ---
 title: "Lookers VW"
 url: /darlington/lookers-vw/
-shop: Autohaus
+shop: car
 ---

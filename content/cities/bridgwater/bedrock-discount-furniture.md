@@ -1,5 +1,5 @@
 ---
 title: "Bedrock Discount Furniture"
 url: /bridgwater/bedrock-discount-furniture/
-shop: Möbel
+shop: furniture
 ---

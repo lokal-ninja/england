@@ -1,5 +1,5 @@
 ---
 title: "Papa's Minimarket"
 url: /oldham/papas-minimarket/
-shop: Lebensmittel
+shop: convenience
 ---

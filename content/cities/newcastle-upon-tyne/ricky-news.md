@@ -1,5 +1,5 @@
 ---
 title: "Ricky News"
 url: /newcastle-upon-tyne/ricky-news/
-shop: Zeitungen
+shop: newsagent
 ---

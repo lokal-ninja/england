@@ -1,5 +1,5 @@
 ---
 title: "Smiggle"
 url: /bath/smiggle/
-shop: Schreibwaren
+shop: office supplies
 ---

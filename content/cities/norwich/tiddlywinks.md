@@ -1,5 +1,5 @@
 ---
 title: "Tiddlywinks"
 url: /norwich/tiddlywinks/
-shop: Babysachen
+shop: baby goods
 ---

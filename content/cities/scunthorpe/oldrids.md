@@ -1,5 +1,5 @@
 ---
 title: "Oldrids"
 url: /scunthorpe/oldrids/
-shop: Warenhaus
+shop: department store
 ---

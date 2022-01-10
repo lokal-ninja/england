@@ -1,5 +1,5 @@
 ---
 title: "JL Nails"
 url: /southampton/jl-nails/
-shop: Kosmetik
+shop: beauty
 ---

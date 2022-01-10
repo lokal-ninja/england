@@ -1,5 +1,5 @@
 ---
 title: "Topps Tiles"
 url: /clevedon/topps-tiles/
-shop: Fliesen
+shop: tiles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kirkbride Eyecare"
 url: /keswick/kirkbride-eyecare/
-shop: Optiker
+shop: optician
 ---

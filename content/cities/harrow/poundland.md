@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /harrow/poundland/
-shop: Kramladen
+shop: variety store
 ---

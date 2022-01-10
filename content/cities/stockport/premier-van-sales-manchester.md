@@ -1,5 +1,5 @@
 ---
 title: "Premier Van Sales Manchester"
 url: /stockport/premier-van-sales-manchester/
-shop: Autohaus
+shop: car
 ---

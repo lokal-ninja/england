@@ -1,5 +1,5 @@
 ---
 title: "SBGHS"
 url: /maldon/sbghs/
-shop: Baumarkt
+shop: doityourself
 ---

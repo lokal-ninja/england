@@ -1,5 +1,5 @@
 ---
 title: "Kankku"
 url: /windermere/kankku/
-shop: Tickets
+shop: ticket
 ---

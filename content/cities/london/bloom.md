@@ -1,5 +1,5 @@
 ---
 title: "Bloom"
 url: /london/bloom/
-shop: Parfümerie
+shop: perfumery
 ---

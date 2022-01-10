@@ -1,5 +1,5 @@
 ---
 title: "H. Samuel"
 url: /romford/h-samuel/
-shop: Schmuck
+shop: jewelry
 ---

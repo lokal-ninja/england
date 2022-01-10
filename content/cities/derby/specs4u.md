@@ -1,5 +1,5 @@
 ---
 title: "Specs4U"
 url: /derby/specs4u/
-shop: Optiker
+shop: optician
 ---

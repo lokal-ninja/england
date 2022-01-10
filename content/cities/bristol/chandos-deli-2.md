@@ -1,5 +1,5 @@
 ---
 title: "Chandos Deli"
 url: /bristol/chandos-deli-2/
-shop: Feinkost
+shop: deli
 ---

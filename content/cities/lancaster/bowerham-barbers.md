@@ -1,5 +1,5 @@
 ---
 title: "Bowerham Barbers"
 url: /lancaster/bowerham-barbers/
-shop: Friseur
+shop: hairdresser
 ---

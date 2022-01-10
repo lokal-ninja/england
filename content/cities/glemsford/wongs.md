@@ -1,5 +1,5 @@
 ---
 title: "Wongs"
 url: /glemsford/wongs/
-shop: Leerstehend
+shop: vacant
 ---

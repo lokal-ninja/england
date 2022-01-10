@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /addlestone/betfred/
-shop: Wettbüro
+shop: bookmaker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Weavo Fencing"
 url: /taunton/weavo-fencing/
-shop: Baustoffe
+shop: trade
 ---

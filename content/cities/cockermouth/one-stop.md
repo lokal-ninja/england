@@ -1,5 +1,5 @@
 ---
 title: "One Stop"
 url: /cockermouth/one-stop/
-shop: Lebensmittel
+shop: convenience
 ---

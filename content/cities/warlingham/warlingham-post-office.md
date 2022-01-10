@@ -1,5 +1,5 @@
 ---
 title: "Warlingham Post Office"
 url: /warlingham/warlingham-post-office/
-shop: Lebensmittel
+shop: convenience
 ---

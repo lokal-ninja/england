@@ -1,5 +1,5 @@
 ---
 title: "Motor Spares"
 url: /birmingham/motor-spares/
-shop: Autoteile
+shop: car parts
 ---

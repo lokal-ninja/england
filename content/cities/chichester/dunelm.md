@@ -1,5 +1,5 @@
 ---
 title: "Dunelm"
 url: /chichester/dunelm/
-shop: Warenhaus
+shop: department store
 ---

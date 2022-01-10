@@ -1,5 +1,5 @@
 ---
 title: "Claire's Accessories"
 url: /northwich/claires-accessories/
-shop: Kosmetik
+shop: beauty
 ---

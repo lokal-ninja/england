@@ -1,5 +1,5 @@
 ---
 title: "Headmasters"
 url: /woking/headmasters/
-shop: Friseur
+shop: hairdresser
 ---

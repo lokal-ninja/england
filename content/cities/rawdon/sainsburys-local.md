@@ -1,5 +1,5 @@
 ---
 title: "Sainsbury's Local"
 url: /rawdon/sainsburys-local/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cabello"
 url: /ledbury/cabello/
-shop: Friseur
+shop: hairdresser
 ---

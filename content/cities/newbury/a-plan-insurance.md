@@ -1,5 +1,5 @@
 ---
 title: "A-Plan Insurance"
 url: /newbury/a-plan-insurance/
-shop: Allgemein
+shop: shop
 ---

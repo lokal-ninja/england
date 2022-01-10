@@ -1,5 +1,5 @@
 ---
 title: "Stanley Wines"
 url: /salford/stanley-wines/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Glenridding Recovery"
 url: /prudhoe/glenridding-recovery/
-shop: Autowerkstatt
+shop: car repair
 ---

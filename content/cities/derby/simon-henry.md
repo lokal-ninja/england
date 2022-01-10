@@ -1,5 +1,5 @@
 ---
 title: "Simon Henry"
 url: /derby/simon-henry/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /lancashire/spar/
-shop: Lebensmittel
+shop: convenience
 ---

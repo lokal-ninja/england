@@ -1,5 +1,5 @@
 ---
 title: "Select"
 url: /burgess-hill/select/
-shop: Reisebüro
+shop: travel agency
 ---

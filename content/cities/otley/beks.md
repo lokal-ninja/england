@@ -1,5 +1,5 @@
 ---
 title: "Beks"
 url: /otley/beks/
-shop: Eisenwaren
+shop: hardware
 ---

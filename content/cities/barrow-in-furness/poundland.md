@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /barrow-in-furness/poundland/
-shop: Kramladen
+shop: variety store
 ---

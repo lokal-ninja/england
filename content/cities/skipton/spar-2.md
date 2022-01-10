@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /skipton/spar-2/
-shop: Lebensmittel
+shop: convenience
 ---

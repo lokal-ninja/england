@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /coulsdon/betfred/
-shop: Wettbüro
+shop: bookmaker
 ---

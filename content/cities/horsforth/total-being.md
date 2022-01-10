@@ -1,5 +1,5 @@
 ---
 title: "Total Being"
 url: /horsforth/total-being/
-shop: Friseur
+shop: hairdresser
 ---

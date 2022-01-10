@@ -1,5 +1,5 @@
 ---
 title: "Scaped Nature"
 url: /norwich/scaped-nature/
-shop: Allgemein
+shop: shop
 ---

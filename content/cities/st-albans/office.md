@@ -1,5 +1,5 @@
 ---
 title: "Office"
 url: /st-albans/office/
-shop: Schuhe
+shop: shoes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tamworth Tube Station"
 url: /tamworth/tamworth-tube-station/
-shop: Kosmetik
+shop: beauty
 ---

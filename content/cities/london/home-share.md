@@ -1,5 +1,5 @@
 ---
 title: "Home Share"
 url: /london/home-share/
-shop: Immobilien
+shop: estate agent
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hays Travel"
 url: /titchfield-fareham/hays-travel/
-shop: Reisebüro
+shop: travel agency
 ---

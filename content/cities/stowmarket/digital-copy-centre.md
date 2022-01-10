@@ -1,5 +1,5 @@
 ---
 title: "Digital Copy Centre"
 url: /stowmarket/digital-copy-centre/
-shop: Allgemein
+shop: shop
 ---

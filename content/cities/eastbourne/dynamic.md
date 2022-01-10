@@ -1,5 +1,5 @@
 ---
 title: "Dynamic"
 url: /eastbourne/dynamic/
-shop: Kosmetik
+shop: beauty
 ---

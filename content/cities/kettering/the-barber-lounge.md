@@ -1,5 +1,5 @@
 ---
 title: "The Barber Lounge"
 url: /kettering/the-barber-lounge/
-shop: Friseur
+shop: hairdresser
 ---

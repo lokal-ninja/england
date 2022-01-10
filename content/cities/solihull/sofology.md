@@ -1,5 +1,5 @@
 ---
 title: "Sofology"
 url: /solihull/sofology/
-shop: Möbel
+shop: furniture
 ---

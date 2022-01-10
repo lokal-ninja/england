@@ -1,5 +1,5 @@
 ---
 title: "Findern Garden Centre"
 url: /derby/findern-garden-centre/
-shop: Garten-Center
+shop: garden centre
 ---

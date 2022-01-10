@@ -1,5 +1,5 @@
 ---
 title: "Limoncello"
 url: /cambridge/limoncello/
-shop: Feinkost
+shop: deli
 ---

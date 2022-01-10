@@ -1,5 +1,5 @@
 ---
 title: "Blossoms"
 url: /horsham/blossoms/
-shop: Blumen
+shop: florist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Barnfields"
 url: /kings-lynn/barnfields/
-shop: Andenken
+shop: gift
 ---

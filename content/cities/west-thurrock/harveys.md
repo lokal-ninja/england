@@ -1,5 +1,5 @@
 ---
 title: "Harveys"
 url: /west-thurrock/harveys/
-shop: Möbel
+shop: furniture
 ---

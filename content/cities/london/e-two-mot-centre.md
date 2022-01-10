@@ -1,5 +1,5 @@
 ---
 title: "E-Two MOT Centre"
 url: /london/e-two-mot-centre/
-shop: Autowerkstatt
+shop: car repair
 ---

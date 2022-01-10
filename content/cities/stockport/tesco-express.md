@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /stockport/tesco-express/
-shop: Supermarkt
+shop: supermarket
 ---

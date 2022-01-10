@@ -1,5 +1,5 @@
 ---
 title: "Just Sport"
 url: /wellingborough/just-sport/
-shop: Leerstehend
+shop: vacant
 ---

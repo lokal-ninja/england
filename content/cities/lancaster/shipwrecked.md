@@ -1,5 +1,5 @@
 ---
 title: "Shipwrecked"
 url: /lancaster/shipwrecked/
-shop: Tattoo
+shop: tattoo
 ---

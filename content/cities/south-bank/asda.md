@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /south-bank/asda/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Alan Ward"
 url: /winsford/alan-ward/
-shop: Möbel
+shop: furniture
 ---

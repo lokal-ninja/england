@@ -1,5 +1,5 @@
 ---
 title: "Woodford Aquatics"
 url: /london/woodford-aquatics/
-shop: Tiere
+shop: pet
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /fareham/iceland-3/
-shop: Tiefkühl
+shop: frozen food
 ---

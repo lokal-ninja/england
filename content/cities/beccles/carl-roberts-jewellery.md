@@ -1,5 +1,5 @@
 ---
 title: "Carl Roberts Jewellery"
 url: /beccles/carl-roberts-jewellery/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Game"
 url: /exeter/game/
-shop: Videospiele
+shop: video games
 ---

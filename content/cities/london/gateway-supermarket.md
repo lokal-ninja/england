@@ -1,5 +1,5 @@
 ---
 title: "Gateway Supermarket"
 url: /london/gateway-supermarket/
-shop: Lebensmittel
+shop: convenience
 ---

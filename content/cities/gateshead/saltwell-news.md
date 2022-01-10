@@ -1,5 +1,5 @@
 ---
 title: "Saltwell News"
 url: /gateshead/saltwell-news/
-shop: Zeitungen
+shop: newsagent
 ---

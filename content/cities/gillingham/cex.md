@@ -1,5 +1,5 @@
 ---
 title: "CeX"
 url: /gillingham/cex/
-shop: Elektronik
+shop: electronics
 ---

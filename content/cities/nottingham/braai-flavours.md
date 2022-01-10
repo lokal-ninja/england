@@ -1,5 +1,5 @@
 ---
 title: "Braai Flavours"
 url: /nottingham/braai-flavours/
-shop: Lebensmittel
+shop: convenience
 ---

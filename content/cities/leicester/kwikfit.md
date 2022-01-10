@@ -1,5 +1,5 @@
 ---
 title: "Kwikfit"
 url: /leicester/kwikfit/
-shop: Autowerkstatt
+shop: car repair
 ---

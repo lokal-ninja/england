@@ -1,5 +1,5 @@
 ---
 title: "Stighlorgan"
 url: /london/stighlorgan/
-shop: Kleidung
+shop: clothes
 ---

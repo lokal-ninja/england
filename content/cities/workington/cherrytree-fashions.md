@@ -1,5 +1,5 @@
 ---
 title: "Cherrytree Fashions"
 url: /workington/cherrytree-fashions/
-shop: Allgemein
+shop: shop
 ---

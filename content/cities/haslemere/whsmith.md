@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /haslemere/whsmith/
-shop: Bücher
+shop: books
 ---

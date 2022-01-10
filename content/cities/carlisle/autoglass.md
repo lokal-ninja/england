@@ -1,5 +1,5 @@
 ---
 title: "Autoglass"
 url: /carlisle/autoglass/
-shop: Autowerkstatt
+shop: car repair
 ---

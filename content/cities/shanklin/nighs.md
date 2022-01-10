@@ -1,5 +1,5 @@
 ---
 title: "Nigh's"
 url: /shanklin/nighs/
-shop: Schreibwaren
+shop: office supplies
 ---

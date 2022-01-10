@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /wisbech/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

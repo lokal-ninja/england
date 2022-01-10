@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /derby/costcutter/
-shop: Lebensmittel
+shop: convenience
 ---

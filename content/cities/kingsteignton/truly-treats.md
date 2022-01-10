@@ -1,5 +1,5 @@
 ---
 title: "Truly Treats"
 url: /kingsteignton/truly-treats/
-shop: Allgemein
+shop: shop
 ---

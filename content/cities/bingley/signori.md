@@ -1,5 +1,5 @@
 ---
 title: "Signori"
 url: /bingley/signori/
-shop: Friseur
+shop: hairdresser
 ---

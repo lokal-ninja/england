@@ -1,5 +1,5 @@
 ---
 title: "Carpetright"
 url: /taunton/carpetright/
-shop: Teppiche
+shop: carpet
 ---

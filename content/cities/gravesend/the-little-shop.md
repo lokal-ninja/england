@@ -1,5 +1,5 @@
 ---
 title: "The little shop"
 url: /gravesend/the-little-shop/
-shop: Lebensmittel
+shop: convenience
 ---

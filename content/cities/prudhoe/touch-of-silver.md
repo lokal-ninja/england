@@ -1,5 +1,5 @@
 ---
 title: "Touch Of Silver"
 url: /prudhoe/touch-of-silver/
-shop: Schmuck
+shop: jewelry
 ---

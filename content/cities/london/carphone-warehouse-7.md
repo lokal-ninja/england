@@ -1,5 +1,5 @@
 ---
 title: "Carphone Warehouse"
 url: /london/carphone-warehouse-7/
-shop: Handy
+shop: mobile phone
 ---

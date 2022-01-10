@@ -1,5 +1,5 @@
 ---
 title: "Whoop Hair"
 url: /sutton/whoop-hair/
-shop: Friseur
+shop: hairdresser
 ---

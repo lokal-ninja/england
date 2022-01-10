@@ -1,5 +1,5 @@
 ---
 title: "Jessica Lila"
 url: /worthing/jessica-lila/
-shop: Blumen
+shop: florist
 ---

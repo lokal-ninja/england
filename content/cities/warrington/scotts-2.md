@@ -1,5 +1,5 @@
 ---
 title: "Scott's"
 url: /warrington/scotts-2/
-shop: Kleidung
+shop: clothes
 ---

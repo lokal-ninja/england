@@ -1,5 +1,5 @@
 ---
 title: "Mountbatten"
 url: /freshwater/mountbatten/
-shop: Gebrauchtwaren
+shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mr Meat"
 url: /croydon/mr-meat/
-shop: Supermarkt
+shop: supermarket
 ---

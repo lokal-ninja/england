@@ -1,5 +1,5 @@
 ---
 title: "Sue Ryder"
 url: /ilminster/sue-ryder/
-shop: Gebrauchtwaren
+shop: charity
 ---

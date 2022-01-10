@@ -1,5 +1,5 @@
 ---
 title: "Boldon Motorshop"
 url: /boldon-colliery/boldon-motorshop/
-shop: Autoteile
+shop: car parts
 ---

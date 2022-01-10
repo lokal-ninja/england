@@ -1,5 +1,5 @@
 ---
 title: "Red Apple"
 url: /colchester/red-apple/
-shop: Kleidung
+shop: clothes
 ---

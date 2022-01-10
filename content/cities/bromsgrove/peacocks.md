@@ -1,5 +1,5 @@
 ---
 title: "Peacocks"
 url: /bromsgrove/peacocks/
-shop: Kleidung
+shop: clothes
 ---

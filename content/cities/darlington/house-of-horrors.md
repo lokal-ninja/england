@@ -1,5 +1,5 @@
 ---
 title: "House Of Horrors"
 url: /darlington/house-of-horrors/
-shop: Tattoo
+shop: tattoo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Debra"
 url: /barrow-in-furness/debra/
-shop: Gebrauchtwaren
+shop: charity
 ---

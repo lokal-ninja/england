@@ -1,5 +1,5 @@
 ---
 title: "Silvermans"
 url: /london/silvermans/
-shop: Kleidung
+shop: clothes
 ---

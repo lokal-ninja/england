@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /peterborough/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

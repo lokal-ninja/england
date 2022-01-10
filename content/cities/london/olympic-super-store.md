@@ -1,5 +1,5 @@
 ---
 title: "Olympic Super Store"
 url: /london/olympic-super-store/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Wine Bank"
 url: /huddersfield/the-wine-bank/
-shop: Spirituosen
+shop: alcohol
 ---

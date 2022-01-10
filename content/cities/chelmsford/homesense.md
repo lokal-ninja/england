@@ -1,5 +1,5 @@
 ---
 title: "HomeSense"
 url: /chelmsford/homesense/
-shop: Raumausstattung
+shop: interior decoration
 ---

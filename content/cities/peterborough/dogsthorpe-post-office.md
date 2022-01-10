@@ -1,5 +1,5 @@
 ---
 title: "Dogsthorpe Post Office"
 url: /peterborough/dogsthorpe-post-office/
-shop: Lebensmittel
+shop: convenience
 ---

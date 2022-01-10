@@ -1,5 +1,5 @@
 ---
 title: "Bargain Booze"
 url: /burton-on-trent/bargain-booze/
-shop: Lebensmittel
+shop: convenience
 ---

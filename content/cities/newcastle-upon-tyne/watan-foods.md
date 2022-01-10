@@ -1,5 +1,5 @@
 ---
 title: "Watan Foods"
 url: /newcastle-upon-tyne/watan-foods/
-shop: Lebensmittel
+shop: convenience
 ---

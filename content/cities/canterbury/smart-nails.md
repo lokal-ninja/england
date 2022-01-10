@@ -1,5 +1,5 @@
 ---
 title: "Smart Nails"
 url: /canterbury/smart-nails/
-shop: Kosmetik
+shop: beauty
 ---

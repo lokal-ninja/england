@@ -1,5 +1,5 @@
 ---
 title: "Clubleys"
 url: /stamford-bridge/clubleys/
-shop: Immobilien
+shop: estate agent
 ---

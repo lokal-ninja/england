@@ -1,5 +1,5 @@
 ---
 title: "Joshua's"
 url: /sutton-coldfield/joshuas/
-shop: Lebensmittel
+shop: convenience
 ---

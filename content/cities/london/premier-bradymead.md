@@ -1,5 +1,5 @@
 ---
 title: "Premier Bradymead"
 url: /london/premier-bradymead/
-shop: Lebensmittel
+shop: convenience
 ---

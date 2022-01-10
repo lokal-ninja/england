@@ -1,5 +1,5 @@
 ---
 title: "Everfresh Butchers"
 url: /milton-keynes/everfresh-butchers/
-shop: Metzgerei
+shop: butcher
 ---

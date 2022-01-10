@@ -1,5 +1,5 @@
 ---
 title: "Vy Nails"
 url: /bury-st-edmunds/vy-nails/
-shop: Kosmetik
+shop: beauty
 ---

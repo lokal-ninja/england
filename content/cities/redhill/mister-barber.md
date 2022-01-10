@@ -1,5 +1,5 @@
 ---
 title: "Mister Barber"
 url: /redhill/mister-barber/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PDSA"
 url: /derby/pdsa/
-shop: Gebrauchtwaren
+shop: charity
 ---

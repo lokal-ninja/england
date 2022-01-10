@@ -1,5 +1,5 @@
 ---
 title: "Holgate Gallery"
 url: /york/holgate-gallery/
-shop: Kunst
+shop: art
 ---

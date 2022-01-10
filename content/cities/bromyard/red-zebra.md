@@ -1,5 +1,5 @@
 ---
 title: "Red Zebra"
 url: /bromyard/red-zebra/
-shop: Kleidung
+shop: clothes
 ---

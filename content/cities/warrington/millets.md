@@ -1,5 +1,5 @@
 ---
 title: "Millets"
 url: /warrington/millets/
-shop: Outdoor
+shop: outdoor
 ---

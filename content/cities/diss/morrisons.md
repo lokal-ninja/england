@@ -1,5 +1,5 @@
 ---
 title: "Morrisons"
 url: /diss/morrisons/
-shop: Supermarkt
+shop: supermarket
 ---

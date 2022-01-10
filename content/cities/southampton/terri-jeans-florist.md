@@ -1,5 +1,5 @@
 ---
 title: "Terri Jeans Florist"
 url: /southampton/terri-jeans-florist/
-shop: Blumen
+shop: florist
 ---

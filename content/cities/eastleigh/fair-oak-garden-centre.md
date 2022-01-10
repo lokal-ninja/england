@@ -1,5 +1,5 @@
 ---
 title: "Fair Oak Garden Centre"
 url: /eastleigh/fair-oak-garden-centre/
-shop: Garten-Center
+shop: garden centre
 ---

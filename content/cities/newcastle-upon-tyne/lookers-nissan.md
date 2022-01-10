@@ -1,5 +1,5 @@
 ---
 title: "Lookers Nissan"
 url: /newcastle-upon-tyne/lookers-nissan/
-shop: Autohaus
+shop: car
 ---

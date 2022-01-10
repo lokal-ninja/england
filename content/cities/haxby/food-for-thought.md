@@ -1,5 +1,5 @@
 ---
 title: "Food for Thought"
 url: /haxby/food-for-thought/
-shop: Bäckerei
+shop: bakery
 ---

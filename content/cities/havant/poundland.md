@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /havant/poundland/
-shop: Kramladen
+shop: variety store
 ---

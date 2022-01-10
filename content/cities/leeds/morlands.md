@@ -1,5 +1,5 @@
 ---
 title: "Morlands"
 url: /leeds/morlands/
-shop: Badezimmer
+shop: bathroom
 ---

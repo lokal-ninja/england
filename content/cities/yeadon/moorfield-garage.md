@@ -1,5 +1,5 @@
 ---
 title: "Moorfield Garage"
 url: /yeadon/moorfield-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

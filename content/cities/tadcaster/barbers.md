@@ -1,5 +1,5 @@
 ---
 title: "Barbers"
 url: /tadcaster/barbers/
-shop: Friseur
+shop: hairdresser
 ---

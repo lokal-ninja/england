@@ -1,5 +1,5 @@
 ---
 title: "iSmash"
 url: /london/ismash/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jewson"
 url: /prudhoe/jewson/
-shop: Baumarkt
+shop: doityourself
 ---

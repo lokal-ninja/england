@@ -1,5 +1,5 @@
 ---
 title: "Sense Of Style"
 url: /darlington/sense-of-style/
-shop: Kleidung
+shop: clothes
 ---

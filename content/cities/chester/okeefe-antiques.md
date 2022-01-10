@@ -1,5 +1,5 @@
 ---
 title: "O'Keefe Antiques"
 url: /chester/okeefe-antiques/
-shop: Antiquitäten
+shop: antiques
 ---

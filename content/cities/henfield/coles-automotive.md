@@ -1,5 +1,5 @@
 ---
 title: "Coles Automotive"
 url: /henfield/coles-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

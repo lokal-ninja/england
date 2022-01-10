@@ -1,5 +1,5 @@
 ---
 title: "Advanced Vehicle Services"
 url: /bristol/advanced-vehicle-services/
-shop: Autowerkstatt
+shop: car repair
 ---

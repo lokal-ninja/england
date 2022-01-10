@@ -1,5 +1,5 @@
 ---
 title: "Ecco"
 url: /canterbury/ecco/
-shop: Schuhe
+shop: shoes
 ---

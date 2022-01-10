@@ -1,5 +1,5 @@
 ---
 title: "Kinght Frank"
 url: /stratford-upon-avon/kinght-frank/
-shop: Immobilien
+shop: estate agent
 ---

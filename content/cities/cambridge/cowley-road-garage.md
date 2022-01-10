@@ -1,5 +1,5 @@
 ---
 title: "Cowley Road Garage"
 url: /cambridge/cowley-road-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sainsbury's Local"
 url: /ryde/sainsburys-local/
-shop: Lebensmittel
+shop: convenience
 ---

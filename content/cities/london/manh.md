@@ -1,5 +1,5 @@
 ---
 title: "Manh"
 url: /london/manh/
-shop: Friseur
+shop: hairdresser
 ---

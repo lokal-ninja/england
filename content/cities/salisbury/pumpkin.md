@@ -1,5 +1,5 @@
 ---
 title: "Pumpkin"
 url: /salisbury/pumpkin/
-shop: Allgemein
+shop: shop
 ---

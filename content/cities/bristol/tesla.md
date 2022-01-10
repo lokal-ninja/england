@@ -1,5 +1,5 @@
 ---
 title: "TESLA"
 url: /bristol/tesla/
-shop: Autowerkstatt
+shop: car repair
 ---

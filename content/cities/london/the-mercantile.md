@@ -1,5 +1,5 @@
 ---
 title: "The Mercantile"
 url: /london/the-mercantile/
-shop: Kleidung
+shop: clothes
 ---

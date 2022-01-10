@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /sidmouth/londis/
-shop: Lebensmittel
+shop: convenience
 ---

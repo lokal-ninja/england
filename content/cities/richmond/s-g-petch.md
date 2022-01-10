@@ -1,5 +1,5 @@
 ---
 title: "S G Petch"
 url: /richmond/s-g-petch/
-shop: Autowerkstatt
+shop: car repair
 ---

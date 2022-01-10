@@ -1,5 +1,5 @@
 ---
 title: "Hurford Salvi Carr"
 url: /london/hurford-salvi-carr/
-shop: Immobilien
+shop: estate agent
 ---

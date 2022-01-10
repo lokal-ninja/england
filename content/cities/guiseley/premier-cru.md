@@ -1,5 +1,5 @@
 ---
 title: "Premier Cru"
 url: /guiseley/premier-cru/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Churchills"
 url: /bridgwater/churchills/
-shop: Möbel
+shop: furniture
 ---

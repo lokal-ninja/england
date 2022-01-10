@@ -1,5 +1,5 @@
 ---
 title: "B N Optical"
 url: /crawcrook/b-n-optical/
-shop: Optiker
+shop: optician
 ---

@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /sutton/whsmith/
-shop: Zeitungen
+shop: newsagent
 ---

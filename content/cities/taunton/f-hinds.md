@@ -1,5 +1,5 @@
 ---
 title: "F.Hinds"
 url: /taunton/f-hinds/
-shop: Schmuck
+shop: jewelry
 ---

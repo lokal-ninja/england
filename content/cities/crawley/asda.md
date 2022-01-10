@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /crawley/asda/
-shop: Supermarkt
+shop: supermarket
 ---

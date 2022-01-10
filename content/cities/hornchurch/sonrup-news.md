@@ -1,5 +1,5 @@
 ---
 title: "Sonrup News"
 url: /hornchurch/sonrup-news/
-shop: Lebensmittel
+shop: convenience
 ---

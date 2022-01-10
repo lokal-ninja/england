@@ -1,5 +1,5 @@
 ---
 title: "kme hair"
 url: /lancaster/kme-hair/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ryman"
 url: /sunderland/ryman/
-shop: Schreibwaren
+shop: office supplies
 ---

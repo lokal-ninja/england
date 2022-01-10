@@ -1,5 +1,5 @@
 ---
 title: "Clarke's"
 url: /belper/clarkes/
-shop: Kleidung
+shop: clothes
 ---

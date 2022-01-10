@@ -1,5 +1,5 @@
 ---
 title: "PDSA"
 url: /colchester/pdsa/
-shop: Gebrauchtwaren
+shop: charity
 ---

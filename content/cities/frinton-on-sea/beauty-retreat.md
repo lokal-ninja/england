@@ -1,5 +1,5 @@
 ---
 title: "Beauty Retreat"
 url: /frinton-on-sea/beauty-retreat/
-shop: Kosmetik
+shop: beauty
 ---

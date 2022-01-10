@@ -1,5 +1,5 @@
 ---
 title: "Flair Blinds"
 url: /chester-le-street/flair-blinds/
-shop: Jalousien
+shop: window blind
 ---

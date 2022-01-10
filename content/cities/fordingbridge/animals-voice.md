@@ -1,5 +1,5 @@
 ---
 title: "Animals Voice"
 url: /fordingbridge/animals-voice/
-shop: Gebrauchtwaren
+shop: charity
 ---

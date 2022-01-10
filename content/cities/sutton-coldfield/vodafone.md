@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
 url: /sutton-coldfield/vodafone/
-shop: Handy
+shop: mobile phone
 ---

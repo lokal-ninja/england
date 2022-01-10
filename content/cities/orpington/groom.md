@@ -1,5 +1,5 @@
 ---
 title: "Groom"
 url: /orpington/groom/
-shop: Friseur
+shop: hairdresser
 ---

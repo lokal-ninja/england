@@ -1,5 +1,5 @@
 ---
 title: "Bolla Brothers"
 url: /derby/bolla-brothers/
-shop: Lebensmittel
+shop: convenience
 ---

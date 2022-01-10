@@ -1,5 +1,5 @@
 ---
 title: "Artwork by Sarah Vivian"
 url: /st-just/artwork-by-sarah-vivian/
-shop: Kunst
+shop: art
 ---

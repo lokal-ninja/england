@@ -1,5 +1,5 @@
 ---
 title: "Best Wishes"
 url: /sidcup/best-wishes/
-shop: Allgemein
+shop: shop
 ---

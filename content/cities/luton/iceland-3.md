@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /luton/iceland-3/
-shop: Tiefkühl
+shop: frozen food
 ---

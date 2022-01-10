@@ -1,5 +1,5 @@
 ---
 title: "Elizabeth Salon"
 url: /leeds/elizabeth-salon/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Luigi's"
 url: /leyland/luigis/
-shop: Allgemein
+shop: shop
 ---

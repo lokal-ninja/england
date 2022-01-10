@@ -1,5 +1,5 @@
 ---
 title: "Truffles"
 url: /horsham/truffles/
-shop: Bäckerei
+shop: bakery
 ---

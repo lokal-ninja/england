@@ -1,5 +1,5 @@
 ---
 title: "Late Shop"
 url: /twickenham/late-shop/
-shop: Lebensmittel
+shop: convenience
 ---

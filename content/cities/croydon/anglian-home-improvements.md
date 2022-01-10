@@ -1,5 +1,5 @@
 ---
 title: "Anglian Home Improvements"
 url: /croydon/anglian-home-improvements/
-shop: Glaserei
+shop: glaziery
 ---

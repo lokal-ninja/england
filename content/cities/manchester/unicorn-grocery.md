@@ -1,5 +1,5 @@
 ---
 title: "Unicorn Grocery"
 url: /manchester/unicorn-grocery/
-shop: Supermarkt
+shop: supermarket
 ---

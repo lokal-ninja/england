@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
 url: /kings-lynn/wilko/
-shop: Kramladen
+shop: variety store
 ---

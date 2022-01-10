@@ -1,5 +1,5 @@
 ---
 title: "Sally Beauty Supply"
 url: /peterlee/sally-beauty-supply/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

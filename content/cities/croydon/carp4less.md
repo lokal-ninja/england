@@ -1,5 +1,5 @@
 ---
 title: "Carp4Less"
 url: /croydon/carp4less/
-shop: Angeln
+shop: fishing
 ---

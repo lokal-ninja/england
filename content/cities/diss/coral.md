@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /diss/coral/
-shop: Wettbüro
+shop: bookmaker
 ---

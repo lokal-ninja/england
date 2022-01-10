@@ -1,5 +1,5 @@
 ---
 title: "McColl's"
 url: /swanage/mccolls/
-shop: Lebensmittel
+shop: convenience
 ---

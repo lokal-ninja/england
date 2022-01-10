@@ -1,5 +1,5 @@
 ---
 title: "The Fishmonger"
 url: /felixstowe/the-fishmonger/
-shop: Fisch
+shop: seafood
 ---

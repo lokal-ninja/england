@@ -1,5 +1,5 @@
 ---
 title: "Sheema Food Stores"
 url: /wakefield/sheema-food-stores/
-shop: Lebensmittel
+shop: convenience
 ---

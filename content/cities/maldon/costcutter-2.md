@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /maldon/costcutter-2/
-shop: Lebensmittel
+shop: convenience
 ---

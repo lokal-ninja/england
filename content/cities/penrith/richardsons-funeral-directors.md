@@ -1,5 +1,5 @@
 ---
 title: "Richardson's Funeral Directors"
 url: /penrith/richardsons-funeral-directors/
-shop: Bestattungen
+shop: funeral directors
 ---

@@ -1,5 +1,5 @@
 ---
 title: "UK Mobile"
 url: /croydon/uk-mobile/
-shop: Handy
+shop: mobile phone
 ---

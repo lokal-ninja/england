@@ -1,5 +1,5 @@
 ---
 title: "Smiggle"
 url: /horsham/smiggle/
-shop: Schreibwaren
+shop: office supplies
 ---

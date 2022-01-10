@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /tadcaster/costcutter/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "cbd-central"
 url: /london/cbd-central/
-shop: Kräuter
+shop: herbalist
 ---

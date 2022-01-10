@@ -1,5 +1,5 @@
 ---
 title: "Costcutters"
 url: /london/costcutters/
-shop: Lebensmittel
+shop: convenience
 ---

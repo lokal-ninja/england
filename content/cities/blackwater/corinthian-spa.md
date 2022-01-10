@@ -1,5 +1,5 @@
 ---
 title: "Corinthian Spa"
 url: /blackwater/corinthian-spa/
-shop: Kosmetik
+shop: beauty
 ---

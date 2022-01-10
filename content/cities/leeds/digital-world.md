@@ -1,5 +1,5 @@
 ---
 title: "Digital World"
 url: /leeds/digital-world/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Farmfoods"
 url: /dover/farmfoods/
-shop: Tiefkühl
+shop: frozen food
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fox Yard Studio"
 url: /stowmarket/fox-yard-studio/
-shop: Kunst
+shop: art
 ---

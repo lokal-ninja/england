@@ -1,5 +1,5 @@
 ---
 title: "GB Tyres"
 url: /taunton/gb-tyres/
-shop: Autowerkstatt
+shop: car repair
 ---

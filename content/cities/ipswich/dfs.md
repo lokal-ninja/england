@@ -1,5 +1,5 @@
 ---
 title: "DFS"
 url: /ipswich/dfs/
-shop: Möbel
+shop: furniture
 ---

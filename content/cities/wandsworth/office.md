@@ -1,5 +1,5 @@
 ---
 title: "Office"
 url: /wandsworth/office/
-shop: Schuhe
+shop: shoes
 ---

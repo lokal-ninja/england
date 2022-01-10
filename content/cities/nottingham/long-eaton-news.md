@@ -1,5 +1,5 @@
 ---
 title: "Long Eaton News"
 url: /nottingham/long-eaton-news/
-shop: Zeitungen
+shop: newsagent
 ---

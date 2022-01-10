@@ -1,5 +1,5 @@
 ---
 title: "The Complete Office"
 url: /london/the-complete-office/
-shop: Schreibwaren
+shop: office supplies
 ---

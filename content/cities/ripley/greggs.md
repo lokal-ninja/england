@@ -1,5 +1,5 @@
 ---
 title: "Greggs"
 url: /ripley/greggs/
-shop: Bäckerei
+shop: bakery
 ---

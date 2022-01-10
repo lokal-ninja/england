@@ -1,5 +1,5 @@
 ---
 title: "Ezee Shop"
 url: /derby/ezee-shop/
-shop: Lebensmittel
+shop: convenience
 ---

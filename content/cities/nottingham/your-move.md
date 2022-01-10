@@ -1,5 +1,5 @@
 ---
 title: "Your Move"
 url: /nottingham/your-move/
-shop: Immobilien
+shop: estate agent
 ---

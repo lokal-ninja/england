@@ -1,5 +1,5 @@
 ---
 title: "Higgins"
 url: /wellingborough/higgins/
-shop: Eisenwaren
+shop: hardware
 ---

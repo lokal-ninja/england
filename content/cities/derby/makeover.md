@@ -1,5 +1,5 @@
 ---
 title: "MakeOver"
 url: /derby/makeover/
-shop: Friseur
+shop: hairdresser
 ---

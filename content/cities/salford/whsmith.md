@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /salford/whsmith/
-shop: Zeitungen
+shop: newsagent
 ---

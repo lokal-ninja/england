@@ -1,5 +1,5 @@
 ---
 title: "Lockdown Media"
 url: /alcester/lockdown-media/
-shop: Allgemein
+shop: shop
 ---

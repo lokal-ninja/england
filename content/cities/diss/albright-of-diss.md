@@ -1,5 +1,5 @@
 ---
 title: "Albright of Diss"
 url: /diss/albright-of-diss/
-shop: Basteln
+shop: craft
 ---

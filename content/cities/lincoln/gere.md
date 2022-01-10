@@ -1,5 +1,5 @@
 ---
 title: "Gere"
 url: /lincoln/gere/
-shop: Kleidung
+shop: clothes
 ---

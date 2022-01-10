@@ -1,5 +1,5 @@
 ---
 title: "theprintspace"
 url: /london/theprintspace/
-shop: Kopieren
+shop: copyshop
 ---

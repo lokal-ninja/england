@@ -1,5 +1,5 @@
 ---
 title: "Executive Floorings"
 url: /pontefract/executive-floorings/
-shop: Teppiche
+shop: carpet
 ---

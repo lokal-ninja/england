@@ -1,5 +1,5 @@
 ---
 title: "RTS Garage"
 url: /clacton-on-sea/rts-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

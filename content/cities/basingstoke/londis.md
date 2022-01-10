@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /basingstoke/londis/
-shop: Lebensmittel
+shop: convenience
 ---

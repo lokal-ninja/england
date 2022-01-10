@@ -1,5 +1,5 @@
 ---
 title: "YMCA"
 url: /orpington/ymca/
-shop: Gebrauchtwaren
+shop: charity
 ---

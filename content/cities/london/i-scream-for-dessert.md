@@ -1,5 +1,5 @@
 ---
 title: "I Scream For Dessert"
 url: /london/i-scream-for-dessert/
-shop: Eisprodukte
+shop: ice cream
 ---

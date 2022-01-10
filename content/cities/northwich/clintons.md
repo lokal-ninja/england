@@ -1,5 +1,5 @@
 ---
 title: "Clintons"
 url: /northwich/clintons/
-shop: Andenken
+shop: gift
 ---

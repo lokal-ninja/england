@@ -1,5 +1,5 @@
 ---
 title: "Barghest"
 url: /york/barghest/
-shop: Andenken
+shop: gift
 ---

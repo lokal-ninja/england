@@ -1,5 +1,5 @@
 ---
 title: "Accessorize"
 url: /london/accessorize/
-shop: Allgemein
+shop: shop
 ---

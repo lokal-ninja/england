@@ -1,5 +1,5 @@
 ---
 title: "Wildwood Florists"
 url: /sutton-coldfield/wildwood-florists/
-shop: Blumen
+shop: florist
 ---

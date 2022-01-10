@@ -1,5 +1,5 @@
 ---
 title: "Sandiacre Garage"
 url: /nottingham/sandiacre-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

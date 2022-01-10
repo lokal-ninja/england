@@ -1,5 +1,5 @@
 ---
 title: "Lifestyle Express"
 url: /nottingham/lifestyle-express-3/
-shop: Lebensmittel
+shop: convenience
 ---

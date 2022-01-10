@@ -1,5 +1,5 @@
 ---
 title: "House of Cheese"
 url: /tetbury/house-of-cheese/
-shop: Feinkost
+shop: deli
 ---

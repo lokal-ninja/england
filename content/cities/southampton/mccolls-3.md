@@ -1,5 +1,5 @@
 ---
 title: "McColl's"
 url: /southampton/mccolls-3/
-shop: Lebensmittel
+shop: convenience
 ---

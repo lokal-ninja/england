@@ -1,5 +1,5 @@
 ---
 title: "Stoneacre Toyota Darlington"
 url: /darlington/stoneacre-toyota-darlington/
-shop: Autohaus
+shop: car
 ---

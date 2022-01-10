@@ -1,5 +1,5 @@
 ---
 title: "RBH Motors"
 url: /exeter/rbh-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

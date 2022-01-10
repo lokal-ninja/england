@@ -1,5 +1,5 @@
 ---
 title: "Poundstretcher"
 url: /bordon/poundstretcher/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Le Petit Pain"
 url: /croydon/le-petit-pain/
-shop: Bäckerei
+shop: bakery
 ---

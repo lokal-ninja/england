@@ -1,5 +1,5 @@
 ---
 title: "Scarlet"
 url: /exmouth/scarlet/
-shop: Raumausstattung
+shop: interior decoration
 ---

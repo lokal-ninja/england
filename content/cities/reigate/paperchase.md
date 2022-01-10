@@ -1,5 +1,5 @@
 ---
 title: "Paperchase"
 url: /reigate/paperchase/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Martin's"
 url: /cadbury-heath/martins/
-shop: Lebensmittel
+shop: convenience
 ---

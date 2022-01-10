@@ -1,5 +1,5 @@
 ---
 title: "Madhubon"
 url: /london/madhubon/
-shop: Süßwaren
+shop: confectionery
 ---

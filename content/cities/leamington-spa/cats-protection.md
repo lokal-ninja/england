@@ -1,5 +1,5 @@
 ---
 title: "Cats Protection"
 url: /leamington-spa/cats-protection/
-shop: Gebrauchtwaren
+shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mufti"
 url: /birmingham/mufti/
-shop: Reisebüro
+shop: travel agency
 ---

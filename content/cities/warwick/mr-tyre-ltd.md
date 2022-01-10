@@ -1,5 +1,5 @@
 ---
 title: "Mr Tyre Ltd"
 url: /warwick/mr-tyre-ltd/
-shop: Reifen
+shop: tyres
 ---

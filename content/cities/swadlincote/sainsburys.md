@@ -1,5 +1,5 @@
 ---
 title: "Sainsbury's"
 url: /swadlincote/sainsburys/
-shop: Supermarkt
+shop: supermarket
 ---

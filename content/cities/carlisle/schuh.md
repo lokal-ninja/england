@@ -1,5 +1,5 @@
 ---
 title: "Schuh"
 url: /carlisle/schuh/
-shop: Schuhe
+shop: shoes
 ---

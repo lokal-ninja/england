@@ -1,5 +1,5 @@
 ---
 title: "Milltech"
 url: /whitehaven/milltech/
-shop: Computer
+shop: computer
 ---

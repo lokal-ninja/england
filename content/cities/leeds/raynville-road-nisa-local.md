@@ -1,5 +1,5 @@
 ---
 title: "Raynville Road Nisa Local"
 url: /leeds/raynville-road-nisa-local/
-shop: Lebensmittel
+shop: convenience
 ---

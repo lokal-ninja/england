@@ -1,5 +1,5 @@
 ---
 title: "Arthritis Research"
 url: /sunderland/arthritis-research/
-shop: Gebrauchtwaren
+shop: charity
 ---

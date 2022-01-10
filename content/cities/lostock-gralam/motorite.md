@@ -1,5 +1,5 @@
 ---
 title: "Motorite"
 url: /lostock-gralam/motorite/
-shop: Autohaus
+shop: car
 ---

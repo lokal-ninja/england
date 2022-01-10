@@ -1,5 +1,5 @@
 ---
 title: "Force Cancer Research"
 url: /exeter/force-cancer-research/
-shop: Gebrauchtwaren
+shop: charity
 ---

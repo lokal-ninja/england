@@ -1,5 +1,5 @@
 ---
 title: "Platoon Stores"
 url: /rochester/platoon-stores/
-shop: Outdoor
+shop: outdoor
 ---

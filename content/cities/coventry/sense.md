@@ -1,5 +1,5 @@
 ---
 title: "Sense"
 url: /coventry/sense/
-shop: Gebrauchtwaren
+shop: charity
 ---

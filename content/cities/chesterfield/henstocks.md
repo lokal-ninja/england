@@ -1,5 +1,5 @@
 ---
 title: "Henstock's"
 url: /chesterfield/henstocks/
-shop: Bäckerei
+shop: bakery
 ---

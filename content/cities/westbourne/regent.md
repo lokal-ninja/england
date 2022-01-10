@@ -1,5 +1,5 @@
 ---
 title: "Regent"
 url: /westbourne/regent/
-shop: Autowerkstatt
+shop: car repair
 ---

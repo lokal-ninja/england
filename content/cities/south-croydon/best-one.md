@@ -1,5 +1,5 @@
 ---
 title: "Best-one"
 url: /south-croydon/best-one/
-shop: Lebensmittel
+shop: convenience
 ---

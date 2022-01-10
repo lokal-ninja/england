@@ -1,5 +1,5 @@
 ---
 title: "Deichmann"
 url: /luton/deichmann/
-shop: Schuhe
+shop: shoes
 ---

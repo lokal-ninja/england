@@ -1,5 +1,5 @@
 ---
 title: "Hidden Hearing"
 url: /pinner/hidden-hearing/
-shop: Hörgeräte
+shop: hearing aids
 ---

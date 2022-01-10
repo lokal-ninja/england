@@ -1,5 +1,5 @@
 ---
 title: "Boots"
 url: /ruislip/boots/
-shop: Drogerie
+shop: chemist
 ---

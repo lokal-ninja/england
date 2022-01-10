@@ -1,5 +1,5 @@
 ---
 title: "EE"
 url: /washington/ee/
-shop: Handy
+shop: mobile phone
 ---

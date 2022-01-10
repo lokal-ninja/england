@@ -1,5 +1,5 @@
 ---
 title: "Shopmobility"
 url: /wigan/shopmobility/
-shop: Allgemein
+shop: shop
 ---

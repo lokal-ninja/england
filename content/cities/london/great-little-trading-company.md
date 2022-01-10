@@ -1,5 +1,5 @@
 ---
 title: "Great Little Trading Company"
 url: /london/great-little-trading-company/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carolines"
 url: /boldon-colliery/carolines/
-shop: Friseur
+shop: hairdresser
 ---

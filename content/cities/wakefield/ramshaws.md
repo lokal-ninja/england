@@ -1,5 +1,5 @@
 ---
 title: "Ramshaws"
 url: /wakefield/ramshaws/
-shop: Metzgerei
+shop: butcher
 ---

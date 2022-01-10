@@ -1,5 +1,5 @@
 ---
 title: "SAS Parts"
 url: /tamworth/sas-parts/
-shop: Autoteile
+shop: car parts
 ---

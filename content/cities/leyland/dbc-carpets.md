@@ -1,5 +1,5 @@
 ---
 title: "DBC Carpets"
 url: /leyland/dbc-carpets/
-shop: Teppiche
+shop: carpet
 ---

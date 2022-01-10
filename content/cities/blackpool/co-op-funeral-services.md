@@ -1,5 +1,5 @@
 ---
 title: "Co-op Funeral Services"
 url: /blackpool/co-op-funeral-services/
-shop: Bestattungen
+shop: funeral directors
 ---

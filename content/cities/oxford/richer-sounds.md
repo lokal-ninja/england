@@ -1,5 +1,5 @@
 ---
 title: "Richer Sounds"
 url: /oxford/richer-sounds/
-shop: Hifi
+shop: hifi
 ---

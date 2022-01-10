@@ -1,5 +1,5 @@
 ---
 title: "News Shop"
 url: /driffield/news-shop/
-shop: Zeitungen
+shop: newsagent
 ---

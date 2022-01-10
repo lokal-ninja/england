@@ -1,5 +1,5 @@
 ---
 title: "Belvoir!"
 url: /stafford/belvoir/
-shop: Immobilien
+shop: estate agent
 ---

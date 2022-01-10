@@ -1,5 +1,5 @@
 ---
 title: "Card Factory"
 url: /kenilworth/card-factory/
-shop: Andenken
+shop: gift
 ---

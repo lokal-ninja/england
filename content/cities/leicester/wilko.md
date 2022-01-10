@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
 url: /leicester/wilko/
-shop: Kramladen
+shop: variety store
 ---

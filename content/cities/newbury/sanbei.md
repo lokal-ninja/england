@@ -1,5 +1,5 @@
 ---
 title: "SANBEi"
 url: /newbury/sanbei/
-shop: Handy
+shop: mobile phone
 ---

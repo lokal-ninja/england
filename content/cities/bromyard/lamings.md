@@ -1,5 +1,5 @@
 ---
 title: "Lamings"
 url: /bromyard/lamings/
-shop: Bäckerei
+shop: bakery
 ---

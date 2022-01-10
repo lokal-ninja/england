@@ -1,5 +1,5 @@
 ---
 title: "The Orange Pig"
 url: /tewkesbury/the-orange-pig/
-shop: Kleidung
+shop: clothes
 ---

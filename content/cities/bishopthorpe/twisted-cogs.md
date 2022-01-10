@@ -1,5 +1,5 @@
 ---
 title: "Twisted Cogs"
 url: /bishopthorpe/twisted-cogs/
-shop: Fahrrad
+shop: bicycle
 ---

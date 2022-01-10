@@ -1,5 +1,5 @@
 ---
 title: "Predator Nutrition"
 url: /leeds/predator-nutrition/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

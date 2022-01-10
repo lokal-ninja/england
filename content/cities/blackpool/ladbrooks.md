@@ -1,5 +1,5 @@
 ---
 title: "Ladbrooks"
 url: /blackpool/ladbrooks/
-shop: Wettbüro
+shop: bookmaker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "House of Quirk"
 url: /northwich/house-of-quirk/
-shop: Friseur
+shop: hairdresser
 ---

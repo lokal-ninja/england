@@ -1,5 +1,5 @@
 ---
 title: "HomeSense"
 url: /bedford/homesense/
-shop: Möbel
+shop: furniture
 ---

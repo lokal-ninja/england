@@ -1,5 +1,5 @@
 ---
 title: "Smiggle"
 url: /st-albans/smiggle/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /thetford/whsmith/
-shop: Schreibwaren
+shop: office supplies
 ---

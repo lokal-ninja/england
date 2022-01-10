@@ -1,5 +1,5 @@
 ---
 title: "Darbari Fancy Textiles"
 url: /london/darbari-fancy-textiles/
-shop: Supermarkt
+shop: supermarket
 ---

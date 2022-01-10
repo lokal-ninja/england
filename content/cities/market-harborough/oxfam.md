@@ -1,5 +1,5 @@
 ---
 title: "Oxfam"
 url: /market-harborough/oxfam/
-shop: Gebrauchtwaren
+shop: charity
 ---

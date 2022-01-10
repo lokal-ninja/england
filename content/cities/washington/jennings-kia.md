@@ -1,5 +1,5 @@
 ---
 title: "Jennings - Kia"
 url: /washington/jennings-kia/
-shop: Autohaus
+shop: car
 ---

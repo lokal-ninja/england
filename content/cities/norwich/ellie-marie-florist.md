@@ -1,5 +1,5 @@
 ---
 title: "Ellie Marie Florist"
 url: /norwich/ellie-marie-florist/
-shop: Blumen
+shop: florist
 ---

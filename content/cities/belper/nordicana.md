@@ -1,5 +1,5 @@
 ---
 title: "Nordicana"
 url: /belper/nordicana/
-shop: Haushaltsartikel
+shop: houseware
 ---

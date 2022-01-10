@@ -1,5 +1,5 @@
 ---
 title: "J R Motors"
 url: /ryde/j-r-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

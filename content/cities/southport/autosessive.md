@@ -1,5 +1,5 @@
 ---
 title: "Autosessive"
 url: /southport/autosessive/
-shop: Autoteile
+shop: car parts
 ---

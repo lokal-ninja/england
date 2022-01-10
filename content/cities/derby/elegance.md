@@ -1,5 +1,5 @@
 ---
 title: "Elegance"
 url: /derby/elegance/
-shop: Schneiderei
+shop: tailor
 ---

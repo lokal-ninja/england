@@ -1,5 +1,5 @@
 ---
 title: "JAP Sound Limited"
 url: /oakley/jap-sound-limited/
-shop: Hifi
+shop: hifi
 ---

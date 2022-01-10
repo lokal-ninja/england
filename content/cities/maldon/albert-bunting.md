@@ -1,5 +1,5 @@
 ---
 title: "Albert Bunting"
 url: /maldon/albert-bunting/
-shop: Metzgerei
+shop: butcher
 ---

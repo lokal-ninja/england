@@ -1,5 +1,5 @@
 ---
 title: "Nauticalia"
 url: /london/nauticalia/
-shop: Sammler
+shop: collector
 ---

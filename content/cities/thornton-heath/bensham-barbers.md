@@ -1,5 +1,5 @@
 ---
 title: "Bensham Barbers"
 url: /thornton-heath/bensham-barbers/
-shop: Friseur
+shop: hairdresser
 ---

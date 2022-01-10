@@ -1,5 +1,5 @@
 ---
 title: "Istanbul Barbers"
 url: /boldon-colliery/istanbul-barbers/
-shop: Friseur
+shop: hairdresser
 ---

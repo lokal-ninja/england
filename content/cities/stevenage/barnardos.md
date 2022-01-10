@@ -1,5 +1,5 @@
 ---
 title: "Barnardo's"
 url: /stevenage/barnardos/
-shop: Gebrauchtwaren
+shop: charity
 ---

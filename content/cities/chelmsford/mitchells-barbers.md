@@ -1,5 +1,5 @@
 ---
 title: "Mitchells Barbers"
 url: /chelmsford/mitchells-barbers/
-shop: Friseur
+shop: hairdresser
 ---

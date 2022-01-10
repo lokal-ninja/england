@@ -1,5 +1,5 @@
 ---
 title: "Little London Garage"
 url: /little-london/little-london-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

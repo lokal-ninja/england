@@ -1,5 +1,5 @@
 ---
 title: "Diamond Dogs Salon"
 url: /lancaster/diamond-dogs-salon/
-shop: Tiersalon
+shop: pet grooming
 ---

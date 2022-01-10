@@ -1,5 +1,5 @@
 ---
 title: "Inkspot Tattoo"
 url: /ulverston/inkspot-tattoo/
-shop: Tattoo
+shop: tattoo
 ---

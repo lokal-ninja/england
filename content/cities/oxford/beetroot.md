@@ -1,5 +1,5 @@
 ---
 title: "Beetroot"
 url: /oxford/beetroot/
-shop: Feinkost
+shop: deli
 ---

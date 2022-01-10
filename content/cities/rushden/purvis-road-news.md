@@ -1,5 +1,5 @@
 ---
 title: "Purvis Road News"
 url: /rushden/purvis-road-news/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "West Cornwall Pasty Company"
 url: /london/west-cornwall-pasty-company/
-shop: Bäckerei
+shop: bakery
 ---

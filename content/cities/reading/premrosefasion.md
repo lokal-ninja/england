@@ -1,5 +1,5 @@
 ---
 title: "premRosefasion"
 url: /reading/premrosefasion/
-shop: Kleidung
+shop: clothes
 ---

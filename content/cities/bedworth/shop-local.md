@@ -1,5 +1,5 @@
 ---
 title: "Shop Local"
 url: /bedworth/shop-local/
-shop: Lebensmittel
+shop: convenience
 ---

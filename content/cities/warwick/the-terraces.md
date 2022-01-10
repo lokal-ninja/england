@@ -1,5 +1,5 @@
 ---
 title: "The Terraces"
 url: /warwick/the-terraces/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Paws with Thought"
 url: /kendal/paws-with-thought/
-shop: Tiersalon
+shop: pet grooming
 ---

@@ -1,5 +1,5 @@
 ---
 title: "London Red Bus"
 url: /london/london-red-bus/
-shop: Andenken
+shop: gift
 ---

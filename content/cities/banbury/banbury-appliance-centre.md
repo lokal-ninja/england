@@ -1,5 +1,5 @@
 ---
 title: "Banbury Appliance Centre"
 url: /banbury/banbury-appliance-centre/
-shop: Haushaltsgeräte
+shop: appliance
 ---

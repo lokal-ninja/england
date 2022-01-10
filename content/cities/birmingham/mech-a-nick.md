@@ -1,5 +1,5 @@
 ---
 title: "Mech-a-Nick"
 url: /birmingham/mech-a-nick/
-shop: Autowerkstatt
+shop: car repair
 ---

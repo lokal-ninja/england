@@ -1,5 +1,5 @@
 ---
 title: "Trespass"
 url: /canterbury/trespass/
-shop: Outdoor
+shop: outdoor
 ---

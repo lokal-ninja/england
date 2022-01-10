@@ -1,5 +1,5 @@
 ---
 title: "SCS"
 url: /reading/scs/
-shop: Möbel
+shop: furniture
 ---

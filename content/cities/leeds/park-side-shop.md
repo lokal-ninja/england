@@ -1,5 +1,5 @@
 ---
 title: "Park Side Shop"
 url: /leeds/park-side-shop/
-shop: Lebensmittel
+shop: convenience
 ---

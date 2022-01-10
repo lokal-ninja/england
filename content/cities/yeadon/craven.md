@@ -1,5 +1,5 @@
 ---
 title: "Craven"
 url: /yeadon/craven/
-shop: Schmuck
+shop: jewelry
 ---

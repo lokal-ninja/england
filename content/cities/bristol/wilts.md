@@ -1,5 +1,5 @@
 ---
 title: "Wilts"
 url: /bristol/wilts/
-shop: Elektronik
+shop: electronics
 ---

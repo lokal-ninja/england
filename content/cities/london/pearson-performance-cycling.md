@@ -1,5 +1,5 @@
 ---
 title: "Pearson Performance Cycling"
 url: /london/pearson-performance-cycling/
-shop: Fahrrad
+shop: bicycle
 ---

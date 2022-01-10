@@ -1,5 +1,5 @@
 ---
 title: "Halfords"
 url: /canterbury/halfords/
-shop: Autoteile
+shop: car parts
 ---

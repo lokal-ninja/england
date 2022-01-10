@@ -1,5 +1,5 @@
 ---
 title: "Skoob Books"
 url: /london/skoob-books/
-shop: Bücher
+shop: books
 ---

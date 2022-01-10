@@ -1,5 +1,5 @@
 ---
 title: "Lush"
 url: /swindon/lush/
-shop: Kosmetik
+shop: beauty
 ---

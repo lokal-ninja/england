@@ -1,5 +1,5 @@
 ---
 title: "Thorntons"
 url: /ellesmere-port/thorntons-2/
-shop: Süßwaren
+shop: confectionery
 ---

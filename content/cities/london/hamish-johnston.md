@@ -1,5 +1,5 @@
 ---
 title: "Hamish Johnston"
 url: /london/hamish-johnston/
-shop: Käse
+shop: cheese
 ---

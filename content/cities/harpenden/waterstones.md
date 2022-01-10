@@ -1,5 +1,5 @@
 ---
 title: "Waterstones"
 url: /harpenden/waterstones/
-shop: Bücher
+shop: books
 ---

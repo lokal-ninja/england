@@ -1,5 +1,5 @@
 ---
 title: "Clean Well"
 url: /london/clean-well/
-shop: Wäscherei
+shop: laundry
 ---

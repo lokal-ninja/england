@@ -1,5 +1,5 @@
 ---
 title: "One Stop Whitfield"
 url: /dover/one-stop-whitfield/
-shop: Lebensmittel
+shop: convenience
 ---

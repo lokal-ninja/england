@@ -1,5 +1,5 @@
 ---
 title: "Richmond Atelier"
 url: /richmond/richmond-atelier/
-shop: Kunst
+shop: art
 ---

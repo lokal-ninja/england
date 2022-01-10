@@ -1,5 +1,5 @@
 ---
 title: "Salon Maier"
 url: /manchester/salon-maier/
-shop: Friseur
+shop: hairdresser
 ---

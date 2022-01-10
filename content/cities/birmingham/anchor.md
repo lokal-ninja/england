@@ -1,5 +1,5 @@
 ---
 title: "Anchor"
 url: /birmingham/anchor/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Greetings"
 url: /millom/greetings/
-shop: Schreibwaren
+shop: office supplies
 ---

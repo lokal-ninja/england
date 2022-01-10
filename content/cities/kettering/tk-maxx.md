@@ -1,5 +1,5 @@
 ---
 title: "TK Maxx"
 url: /kettering/tk-maxx/
-shop: Kleidung
+shop: clothes
 ---

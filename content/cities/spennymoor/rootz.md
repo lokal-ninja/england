@@ -1,5 +1,5 @@
 ---
 title: "Rootz"
 url: /spennymoor/rootz/
-shop: Friseur
+shop: hairdresser
 ---

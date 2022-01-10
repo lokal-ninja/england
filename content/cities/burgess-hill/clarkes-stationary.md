@@ -1,5 +1,5 @@
 ---
 title: "Clarkes Stationary"
 url: /burgess-hill/clarkes-stationary/
-shop: Schreibwaren
+shop: office supplies
 ---

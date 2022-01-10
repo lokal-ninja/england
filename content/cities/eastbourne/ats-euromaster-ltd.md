@@ -1,5 +1,5 @@
 ---
 title: "ATS Euromaster Ltd"
 url: /eastbourne/ats-euromaster-ltd/
-shop: Autowerkstatt
+shop: car repair
 ---

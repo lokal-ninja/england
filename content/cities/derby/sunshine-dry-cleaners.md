@@ -1,5 +1,5 @@
 ---
 title: "Sunshine Dry Cleaners"
 url: /derby/sunshine-dry-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hair Eleven"
 url: /fordingbridge/hair-eleven/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Welcome"
 url: /leeds/welcome/
-shop: Sport
+shop: sports
 ---

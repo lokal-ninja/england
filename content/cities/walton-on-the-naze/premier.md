@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /walton-on-the-naze/premier/
-shop: Lebensmittel
+shop: convenience
 ---

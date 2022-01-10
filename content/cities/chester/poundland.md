@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /chester/poundland/
-shop: Kramladen
+shop: variety store
 ---

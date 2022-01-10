@@ -1,5 +1,5 @@
 ---
 title: "Hyundai"
 url: /wallsend/hyundai/
-shop: Autohaus
+shop: car
 ---

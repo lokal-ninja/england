@@ -1,5 +1,5 @@
 ---
 title: "Primark"
 url: /wirral/primark/
-shop: Kleidung
+shop: clothes
 ---

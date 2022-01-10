@@ -1,5 +1,5 @@
 ---
 title: "Laurence Davison"
 url: /hexham/laurence-davison/
-shop: Autowerkstatt
+shop: car repair
 ---

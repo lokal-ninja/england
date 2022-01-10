@@ -1,5 +1,5 @@
 ---
 title: "Thornfalcon Classics"
 url: /taunton/thornfalcon-classics/
-shop: Autohaus
+shop: car
 ---

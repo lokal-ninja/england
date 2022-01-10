@@ -1,5 +1,5 @@
 ---
 title: "Poundstretcher"
 url: /fareham/poundstretcher/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Farrago"
 url: /heathfield/farrago/
-shop: Kleidung
+shop: clothes
 ---

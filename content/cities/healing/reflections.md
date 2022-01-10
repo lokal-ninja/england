@@ -1,5 +1,5 @@
 ---
 title: "Reflections"
 url: /healing/reflections/
-shop: Friseur
+shop: hairdresser
 ---

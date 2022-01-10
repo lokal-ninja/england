@@ -1,5 +1,5 @@
 ---
 title: "King Street Londis"
 url: /bradford/king-street-londis/
-shop: Lebensmittel
+shop: convenience
 ---

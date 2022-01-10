@@ -1,5 +1,5 @@
 ---
 title: "Robinson's"
 url: /durham/robinsons/
-shop: Gemüse & Obst
+shop: greengrocer
 ---

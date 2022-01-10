@@ -1,5 +1,5 @@
 ---
 title: "Steals"
 url: /blackpool/steals/
-shop: Kleidung
+shop: clothes
 ---

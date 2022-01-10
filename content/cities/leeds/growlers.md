@@ -1,5 +1,5 @@
 ---
 title: "Growlers"
 url: /leeds/growlers/
-shop: Metzgerei
+shop: butcher
 ---

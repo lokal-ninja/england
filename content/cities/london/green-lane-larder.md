@@ -1,5 +1,5 @@
 ---
 title: "Green Lane Larder"
 url: /london/green-lane-larder/
-shop: Lebensmittel
+shop: convenience
 ---

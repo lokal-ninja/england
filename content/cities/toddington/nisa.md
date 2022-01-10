@@ -1,5 +1,5 @@
 ---
 title: "Nisa"
 url: /toddington/nisa/
-shop: Lebensmittel
+shop: convenience
 ---

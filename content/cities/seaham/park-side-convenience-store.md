@@ -1,5 +1,5 @@
 ---
 title: "Park Side Convenience Store"
 url: /seaham/park-side-convenience-store/
-shop: Lebensmittel
+shop: convenience
 ---

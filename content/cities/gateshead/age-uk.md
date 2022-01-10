@@ -1,5 +1,5 @@
 ---
 title: "Age UK"
 url: /gateshead/age-uk/
-shop: Gebrauchtwaren
+shop: charity
 ---

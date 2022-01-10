@@ -1,5 +1,5 @@
 ---
 title: "Boots"
 url: /warrington/boots/
-shop: Drogerie
+shop: chemist
 ---

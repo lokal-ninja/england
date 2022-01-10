@@ -1,5 +1,5 @@
 ---
 title: "Dunelm"
 url: /nuneaton/dunelm/
-shop: Warenhaus
+shop: department store
 ---

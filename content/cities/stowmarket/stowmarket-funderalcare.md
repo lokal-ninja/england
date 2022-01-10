@@ -1,5 +1,5 @@
 ---
 title: "Stowmarket Funderalcare"
 url: /stowmarket/stowmarket-funderalcare/
-shop: Bestattungen
+shop: funeral directors
 ---

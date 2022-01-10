@@ -1,5 +1,5 @@
 ---
 title: "Superdrug"
 url: /milton-keynes/superdrug/
-shop: Drogerie
+shop: chemist
 ---

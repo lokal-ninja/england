@@ -1,5 +1,5 @@
 ---
 title: "Orton Newsagents"
 url: /peterborough/orton-newsagents/
-shop: Zeitungen
+shop: newsagent
 ---

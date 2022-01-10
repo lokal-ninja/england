@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /milton-keynes/poundland-3/
-shop: Kramladen
+shop: variety store
 ---

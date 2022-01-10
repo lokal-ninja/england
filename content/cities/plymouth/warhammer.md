@@ -1,5 +1,5 @@
 ---
 title: "Warhammer"
 url: /plymouth/warhammer/
-shop: Sport
+shop: sports
 ---

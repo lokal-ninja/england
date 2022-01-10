@@ -1,5 +1,5 @@
 ---
 title: "Shoe Zone"
 url: /sheffield/shoe-zone/
-shop: Schuhe
+shop: shoes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Brabazon Motors"
 url: /bristol/brabazon-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

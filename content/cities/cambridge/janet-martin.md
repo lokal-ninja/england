@@ -1,5 +1,5 @@
 ---
 title: "Janet Martin"
 url: /cambridge/janet-martin/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "John Cribb Electrical"
 url: /ryde/john-cribb-electrical/
-shop: Elektronik
+shop: electronics
 ---

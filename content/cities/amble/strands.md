@@ -1,5 +1,5 @@
 ---
 title: "Strands"
 url: /amble/strands/
-shop: Friseur
+shop: hairdresser
 ---

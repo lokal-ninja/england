@@ -1,5 +1,5 @@
 ---
 title: "AbbeySpring"
 url: /london/abbeyspring/
-shop: Immobilien
+shop: estate agent
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Whitecross Filling Station"
 url: /leeds/whitecross-filling-station/
-shop: Lebensmittel
+shop: convenience
 ---

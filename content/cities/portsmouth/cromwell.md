@@ -1,5 +1,5 @@
 ---
 title: "Cromwell"
 url: /portsmouth/cromwell/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cliff Garage"
 url: /scarborough/cliff-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Harry Hall Cycles"
 url: /manchester/harry-hall-cycles/
-shop: Fahrrad
+shop: bicycle
 ---

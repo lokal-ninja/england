@@ -1,5 +1,5 @@
 ---
 title: "Royston Domestic Appliances"
 url: /royston/royston-domestic-appliances/
-shop: Allgemein
+shop: shop
 ---

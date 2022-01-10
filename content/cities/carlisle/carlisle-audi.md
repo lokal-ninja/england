@@ -1,5 +1,5 @@
 ---
 title: "Carlisle Audi"
 url: /carlisle/carlisle-audi/
-shop: Autohaus
+shop: car
 ---

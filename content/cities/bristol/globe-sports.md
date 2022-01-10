@@ -1,5 +1,5 @@
 ---
 title: "Globe Sports"
 url: /bristol/globe-sports/
-shop: Sport
+shop: sports
 ---

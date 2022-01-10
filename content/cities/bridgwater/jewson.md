@@ -1,5 +1,5 @@
 ---
 title: "Jewson"
 url: /bridgwater/jewson/
-shop: Baustoffe
+shop: trade
 ---

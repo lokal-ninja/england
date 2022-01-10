@@ -1,5 +1,5 @@
 ---
 title: "Jessyca"
 url: /london/jessyca/
-shop: Supermarkt
+shop: supermarket
 ---

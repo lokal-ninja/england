@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
 url: /luton/wilko/
-shop: Kramladen
+shop: variety store
 ---

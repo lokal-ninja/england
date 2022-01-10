@@ -1,5 +1,5 @@
 ---
 title: "Bargain Booze"
 url: /kettering/bargain-booze/
-shop: Spirituosen
+shop: alcohol
 ---

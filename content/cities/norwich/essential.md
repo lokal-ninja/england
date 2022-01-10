@@ -1,5 +1,5 @@
 ---
 title: "Essential"
 url: /norwich/essential/
-shop: Kleidung
+shop: clothes
 ---

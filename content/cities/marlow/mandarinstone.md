@@ -1,5 +1,5 @@
 ---
 title: "Mandarinstone"
 url: /marlow/mandarinstone/
-shop: Raumausstattung
+shop: interior decoration
 ---

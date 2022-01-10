@@ -1,5 +1,5 @@
 ---
 title: "Natuzzi Italia"
 url: /west-thurrock/natuzzi-italia/
-shop: Möbel
+shop: furniture
 ---

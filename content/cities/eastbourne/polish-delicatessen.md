@@ -1,5 +1,5 @@
 ---
 title: "Polish Delicatessen"
 url: /eastbourne/polish-delicatessen/
-shop: Feinkost
+shop: deli
 ---

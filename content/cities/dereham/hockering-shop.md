@@ -1,5 +1,5 @@
 ---
 title: "Hockering Shop"
 url: /dereham/hockering-shop/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Austin's"
 url: /buntingford/austins/
-shop: Bestattungen
+shop: funeral directors
 ---

@@ -1,5 +1,5 @@
 ---
 title: "RSPCA"
 url: /rushden/rspca/
-shop: Gebrauchtwaren
+shop: charity
 ---

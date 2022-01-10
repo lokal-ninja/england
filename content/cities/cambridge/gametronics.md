@@ -1,5 +1,5 @@
 ---
 title: "Gametronics"
 url: /cambridge/gametronics/
-shop: Videospiele
+shop: video games
 ---

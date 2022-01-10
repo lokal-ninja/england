@@ -1,5 +1,5 @@
 ---
 title: "Martin McColl"
 url: /bedford/martin-mccoll/
-shop: Lebensmittel
+shop: convenience
 ---

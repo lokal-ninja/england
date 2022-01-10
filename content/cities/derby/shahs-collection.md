@@ -1,5 +1,5 @@
 ---
 title: "Shah's Collection"
 url: /derby/shahs-collection/
-shop: Kleidung
+shop: clothes
 ---

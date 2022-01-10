@@ -1,5 +1,5 @@
 ---
 title: "J Bowker"
 url: /bolton-le-sands/j-bowker/
-shop: Metzgerei
+shop: butcher
 ---

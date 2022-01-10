@@ -1,5 +1,5 @@
 ---
 title: "Wickes"
 url: /south-shields/wickes/
-shop: Baumarkt
+shop: doityourself
 ---

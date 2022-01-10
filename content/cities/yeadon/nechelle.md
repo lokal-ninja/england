@@ -1,5 +1,5 @@
 ---
 title: "Nechelle"
 url: /yeadon/nechelle/
-shop: Kosmetik
+shop: beauty
 ---

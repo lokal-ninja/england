@@ -1,5 +1,5 @@
 ---
 title: "Vape Locker"
 url: /hadleigh/vape-locker/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Farmfoods"
 url: /bristol/farmfoods/
-shop: Tiefkühl
+shop: frozen food
 ---

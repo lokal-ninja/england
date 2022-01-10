@@ -1,5 +1,5 @@
 ---
 title: "Rowlands Pharmacy"
 url: /trafford/rowlands-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

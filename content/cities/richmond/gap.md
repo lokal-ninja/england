@@ -1,5 +1,5 @@
 ---
 title: "Gap"
 url: /richmond/gap/
-shop: Kleidung
+shop: clothes
 ---

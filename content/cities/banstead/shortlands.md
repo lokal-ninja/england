@@ -1,5 +1,5 @@
 ---
 title: "Shortlands"
 url: /banstead/shortlands/
-shop: Schuhe
+shop: shoes
 ---

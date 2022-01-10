@@ -1,5 +1,5 @@
 ---
 title: "Platinum Kitchens"
 url: /london/platinum-kitchens/
-shop: Küchen
+shop: kitchen
 ---

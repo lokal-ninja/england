@@ -1,5 +1,5 @@
 ---
 title: "Swedish Car Clinic"
 url: /westcott/swedish-car-clinic/
-shop: Autowerkstatt
+shop: car repair
 ---

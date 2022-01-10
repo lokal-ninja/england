@@ -1,5 +1,5 @@
 ---
 title: "Autobody Repairs"
 url: /redditch/autobody-repairs/
-shop: Autowerkstatt
+shop: car repair
 ---

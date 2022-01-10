@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /south-tyneside/premier/
-shop: Lebensmittel
+shop: convenience
 ---

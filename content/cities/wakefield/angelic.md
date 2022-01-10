@@ -1,5 +1,5 @@
 ---
 title: "Angelic"
 url: /wakefield/angelic/
-shop: Leerstehend
+shop: vacant
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Garbo's"
 url: /portsmouth/garbos/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Attic"
 url: /winlaton/the-attic/
-shop: Gebrauchtwaren
+shop: charity
 ---

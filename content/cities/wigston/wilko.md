@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
 url: /wigston/wilko/
-shop: Kramladen
+shop: variety store
 ---

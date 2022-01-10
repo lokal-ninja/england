@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /sunderland/lidl-2/
-shop: Supermarkt
+shop: supermarket
 ---

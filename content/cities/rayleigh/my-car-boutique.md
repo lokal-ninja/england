@@ -1,5 +1,5 @@
 ---
 title: "My Car Boutique"
 url: /rayleigh/my-car-boutique/
-shop: Autohaus
+shop: car
 ---

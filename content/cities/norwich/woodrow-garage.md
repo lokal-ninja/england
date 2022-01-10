@@ -1,5 +1,5 @@
 ---
 title: "Woodrow Garage"
 url: /norwich/woodrow-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

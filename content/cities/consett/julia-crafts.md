@@ -1,5 +1,5 @@
 ---
 title: "Julia Crafts"
 url: /consett/julia-crafts/
-shop: Basteln
+shop: craft
 ---

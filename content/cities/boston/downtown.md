@@ -1,5 +1,5 @@
 ---
 title: "Downtown"
 url: /boston/downtown/
-shop: Warenhaus
+shop: department store
 ---

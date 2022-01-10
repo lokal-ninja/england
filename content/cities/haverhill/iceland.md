@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /haverhill/iceland/
-shop: Supermarkt
+shop: supermarket
 ---

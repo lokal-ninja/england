@@ -1,5 +1,5 @@
 ---
 title: "Perfect Kutz"
 url: /brighton/perfect-kutz/
-shop: Friseur
+shop: hairdresser
 ---

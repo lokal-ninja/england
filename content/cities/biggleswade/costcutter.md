@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /biggleswade/costcutter/
-shop: Lebensmittel
+shop: convenience
 ---

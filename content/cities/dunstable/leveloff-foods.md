@@ -1,5 +1,5 @@
 ---
 title: "Leveloff Foods"
 url: /dunstable/leveloff-foods/
-shop: Lebensmittel
+shop: convenience
 ---

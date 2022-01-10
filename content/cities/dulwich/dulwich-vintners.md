@@ -1,5 +1,5 @@
 ---
 title: "Dulwich Vintners"
 url: /dulwich/dulwich-vintners/
-shop: Wein
+shop: wine
 ---

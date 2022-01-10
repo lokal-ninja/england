@@ -1,5 +1,5 @@
 ---
 title: "Emmaus Emporium"
 url: /colchester/emmaus-emporium/
-shop: Gebrauchtwaren
+shop: charity
 ---

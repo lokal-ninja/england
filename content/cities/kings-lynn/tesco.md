@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /kings-lynn/tesco/
-shop: Supermarkt
+shop: supermarket
 ---

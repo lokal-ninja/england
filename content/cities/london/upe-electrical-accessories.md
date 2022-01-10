@@ -1,5 +1,5 @@
 ---
 title: "UPE Electrical Accessories"
 url: /london/upe-electrical-accessories/
-shop: Elektronik
+shop: electronics
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Patel News"
 url: /leeds/patel-news/
-shop: Zeitungen
+shop: newsagent
 ---

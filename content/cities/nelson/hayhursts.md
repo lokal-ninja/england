@@ -1,5 +1,5 @@
 ---
 title: "Hayhursts"
 url: /nelson/hayhursts/
-shop: Kamera
+shop: camera
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Intercity Motor Spares"
 url: /nottingham/intercity-motor-spares/
-shop: Autoteile
+shop: car parts
 ---

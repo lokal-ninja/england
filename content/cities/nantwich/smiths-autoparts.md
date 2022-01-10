@@ -1,5 +1,5 @@
 ---
 title: "Smiths Autoparts"
 url: /nantwich/smiths-autoparts/
-shop: Autoteile
+shop: car parts
 ---

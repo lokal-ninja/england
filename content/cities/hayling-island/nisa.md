@@ -1,5 +1,5 @@
 ---
 title: "Nisa"
 url: /hayling-island/nisa/
-shop: Lebensmittel
+shop: convenience
 ---

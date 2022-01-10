@@ -1,5 +1,5 @@
 ---
 title: "Yorkshire Trading Co"
 url: /cramlington/yorkshire-trading-co/
-shop: Kramladen
+shop: variety store
 ---

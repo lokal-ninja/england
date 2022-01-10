@@ -1,5 +1,5 @@
 ---
 title: "Wolseley"
 url: /london/wolseley/
-shop: Baumarkt
+shop: doityourself
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Runners World"
 url: /colchester/runners-world/
-shop: Allgemein
+shop: shop
 ---

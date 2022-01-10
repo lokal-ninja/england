@@ -1,5 +1,5 @@
 ---
 title: "Martin's"
 url: /norwich/martins-2/
-shop: Lebensmittel
+shop: convenience
 ---

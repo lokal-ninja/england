@@ -1,5 +1,5 @@
 ---
 title: "Debenhams"
 url: /workington/debenhams/
-shop: Warenhaus
+shop: department store
 ---

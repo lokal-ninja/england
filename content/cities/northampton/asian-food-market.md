@@ -1,5 +1,5 @@
 ---
 title: "Asian Food Market"
 url: /northampton/asian-food-market/
-shop: Lebensmittel
+shop: convenience
 ---

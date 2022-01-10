@@ -1,5 +1,5 @@
 ---
 title: "Bailey's"
 url: /southport/baileys/
-shop: Kleidung
+shop: clothes
 ---

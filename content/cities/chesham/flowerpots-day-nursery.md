@@ -1,5 +1,5 @@
 ---
 title: "Flowerpots Day Nursery"
 url: /chesham/flowerpots-day-nursery/
-shop: Optiker
+shop: optician
 ---

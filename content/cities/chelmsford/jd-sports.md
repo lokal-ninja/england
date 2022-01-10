@@ -1,5 +1,5 @@
 ---
 title: "JD Sports"
 url: /chelmsford/jd-sports/
-shop: Sport
+shop: sports
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Halfords"
 url: /didcot/halfords/
-shop: Autoteile
+shop: car parts
 ---

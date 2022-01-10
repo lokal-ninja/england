@@ -1,5 +1,5 @@
 ---
 title: "Un-common"
 url: /london/un-common/
-shop: Brautkleider
+shop: wedding gown
 ---

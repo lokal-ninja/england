@@ -1,5 +1,5 @@
 ---
 title: "Sostrene Grene"
 url: /nottingham/sostrene-grene/
-shop: Raumausstattung
+shop: interior decoration
 ---

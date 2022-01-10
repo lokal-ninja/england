@@ -1,5 +1,5 @@
 ---
 title: "Sipsons"
 url: /trowbridge/sipsons/
-shop: Schmuck
+shop: jewelry
 ---

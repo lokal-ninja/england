@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /midsomer-norton/tesco/
-shop: Supermarkt
+shop: supermarket
 ---

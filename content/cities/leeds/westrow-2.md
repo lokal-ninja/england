@@ -1,5 +1,5 @@
 ---
 title: "Westrow"
 url: /leeds/westrow-2/
-shop: Friseur
+shop: hairdresser
 ---

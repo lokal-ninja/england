@@ -1,5 +1,5 @@
 ---
 title: "Harvey Nichols"
 url: /manchester/harvey-nichols/
-shop: Warenhaus
+shop: department store
 ---

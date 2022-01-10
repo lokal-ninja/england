@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /warwick/tesco/
-shop: Supermarkt
+shop: supermarket
 ---

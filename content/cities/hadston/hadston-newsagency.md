@@ -1,5 +1,5 @@
 ---
 title: "Hadston Newsagency"
 url: /hadston/hadston-newsagency/
-shop: Zeitungen
+shop: newsagent
 ---

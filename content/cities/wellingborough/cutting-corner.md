@@ -1,5 +1,5 @@
 ---
 title: "Cutting Corner"
 url: /wellingborough/cutting-corner/
-shop: Friseur
+shop: hairdresser
 ---

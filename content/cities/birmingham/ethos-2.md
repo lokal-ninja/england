@@ -1,5 +1,5 @@
 ---
 title: "Ethos"
 url: /birmingham/ethos-2/
-shop: Blumen
+shop: florist
 ---

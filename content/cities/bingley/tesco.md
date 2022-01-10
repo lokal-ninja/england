@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /bingley/tesco/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nail Lounge"
 url: /huddersfield/nail-lounge/
-shop: Kosmetik
+shop: beauty
 ---

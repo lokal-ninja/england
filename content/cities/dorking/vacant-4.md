@@ -1,5 +1,5 @@
 ---
 title: "=Vacant="
 url: /dorking/vacant-4/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Woof Cuts"
 url: /corsham/woof-cuts/
-shop: Tiersalon
+shop: pet grooming
 ---

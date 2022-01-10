@@ -1,5 +1,5 @@
 ---
 title: "Golding Surplus"
 url: /canterbury/golding-surplus/
-shop: Allgemein
+shop: shop
 ---

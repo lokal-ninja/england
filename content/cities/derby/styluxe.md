@@ -1,5 +1,5 @@
 ---
 title: "Styluxe"
 url: /derby/styluxe/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "TUI"
 url: /wakefield/tui/
-shop: Reisebüro
+shop: travel agency
 ---

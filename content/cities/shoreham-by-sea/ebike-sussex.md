@@ -1,5 +1,5 @@
 ---
 title: "EBike Sussex"
 url: /shoreham-by-sea/ebike-sussex/
-shop: Fahrrad
+shop: bicycle
 ---

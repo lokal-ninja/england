@@ -1,5 +1,5 @@
 ---
 title: "Johnstones"
 url: /cambridge/johnstones/
-shop: Farben
+shop: paint
 ---

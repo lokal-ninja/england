@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /lowestoft/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

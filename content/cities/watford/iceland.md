@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /watford/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

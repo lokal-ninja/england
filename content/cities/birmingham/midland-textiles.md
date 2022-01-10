@@ -1,5 +1,5 @@
 ---
 title: "Midland Textiles"
 url: /birmingham/midland-textiles/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The London Art Shop"
 url: /london/the-london-art-shop/
-shop: Basteln
+shop: craft
 ---

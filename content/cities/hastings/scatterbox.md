@@ -1,5 +1,5 @@
 ---
 title: "Scatterbox"
 url: /hastings/scatterbox/
-shop: Andenken
+shop: gift
 ---

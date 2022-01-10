@@ -1,5 +1,5 @@
 ---
 title: "Body shop"
 url: /gainsborough-lincolnshire/body-shop/
-shop: Kosmetik
+shop: beauty
 ---

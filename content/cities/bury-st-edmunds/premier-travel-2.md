@@ -1,5 +1,5 @@
 ---
 title: "Premier Travel"
 url: /bury-st-edmunds/premier-travel-2/
-shop: Reisebüro
+shop: travel agency
 ---

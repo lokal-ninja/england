@@ -1,5 +1,5 @@
 ---
 title: "The Hair Studio"
 url: /leeds/the-hair-studio/
-shop: Friseur
+shop: hairdresser
 ---

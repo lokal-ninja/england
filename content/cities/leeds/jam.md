@@ -1,5 +1,5 @@
 ---
 title: "Jam"
 url: /leeds/jam/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /workington/savers/
-shop: Kramladen
+shop: variety store
 ---

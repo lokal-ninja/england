@@ -1,5 +1,5 @@
 ---
 title: "Zatchels"
 url: /york/zatchels/
-shop: Allgemein
+shop: shop
 ---

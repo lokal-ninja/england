@@ -1,5 +1,5 @@
 ---
 title: "Cash Converters"
 url: /bury-st-edmunds/cash-converters/
-shop: Leiher
+shop: pawnbroker
 ---

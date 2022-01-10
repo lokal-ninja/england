@@ -1,5 +1,5 @@
 ---
 title: "Tesco Wolverton"
 url: /milton-keynes/tesco-wolverton/
-shop: Supermarkt
+shop: supermarket
 ---

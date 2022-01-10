@@ -1,5 +1,5 @@
 ---
 title: "Universal Trailers"
 url: /billingshurst/universal-trailers/
-shop: Allgemein
+shop: shop
 ---

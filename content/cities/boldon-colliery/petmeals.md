@@ -1,5 +1,5 @@
 ---
 title: "Petmeals"
 url: /boldon-colliery/petmeals/
-shop: Tiere
+shop: pet
 ---

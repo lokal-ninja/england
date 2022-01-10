@@ -1,5 +1,5 @@
 ---
 title: "Paperchase"
 url: /warrington/paperchase/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bonmarche"
 url: /blyth/bonmarche/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Adam's Barbershop"
 url: /clevedon/adams-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

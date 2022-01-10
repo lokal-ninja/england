@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /hayes/asda/
-shop: Supermarkt
+shop: supermarket
 ---

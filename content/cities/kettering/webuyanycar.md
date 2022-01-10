@@ -1,5 +1,5 @@
 ---
 title: "WeBuyAnyCar"
 url: /kettering/webuyanycar/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tornari-Sports"
 url: /nottingham/tornari-sports/
-shop: Sport
+shop: sports
 ---

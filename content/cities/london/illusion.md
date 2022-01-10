@@ -1,5 +1,5 @@
 ---
 title: "Illusion"
 url: /london/illusion/
-shop: Kleidung
+shop: clothes
 ---

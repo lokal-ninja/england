@@ -1,5 +1,5 @@
 ---
 title: "Chambers Hyundai"
 url: /tamworth/chambers-hyundai/
-shop: Autohaus
+shop: car
 ---

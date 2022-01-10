@@ -1,5 +1,5 @@
 ---
 title: "Pelo Hairdressing"
 url: /salisbury/pelo-hairdressing/
-shop: Friseur
+shop: hairdresser
 ---

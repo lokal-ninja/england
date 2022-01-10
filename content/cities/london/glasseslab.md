@@ -1,5 +1,5 @@
 ---
 title: "glasseslab"
 url: /london/glasseslab/
-shop: Optiker
+shop: optician
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Eagletons"
 url: /south-shields/eagletons/
-shop: Lebensmittel
+shop: convenience
 ---

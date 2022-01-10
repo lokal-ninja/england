@@ -1,5 +1,5 @@
 ---
 title: "Orient Supermarket"
 url: /london/orient-supermarket/
-shop: Lebensmittel
+shop: convenience
 ---

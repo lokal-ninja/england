@@ -1,5 +1,5 @@
 ---
 title: "Ambience Home"
 url: /carshalton/ambience-home/
-shop: Raumausstattung
+shop: interior decoration
 ---

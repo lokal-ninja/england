@@ -1,5 +1,5 @@
 ---
 title: "Colourstone"
 url: /blackburn/colourstone/
-shop: Friseur
+shop: hairdresser
 ---

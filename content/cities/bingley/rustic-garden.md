@@ -1,5 +1,5 @@
 ---
 title: "Rustic Garden"
 url: /bingley/rustic-garden/
-shop: Blumen
+shop: florist
 ---

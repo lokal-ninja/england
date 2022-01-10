@@ -1,5 +1,5 @@
 ---
 title: "Furniture Den"
 url: /south-shields/furniture-den/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lok'nStore"
 url: /portsmouth/loknstore/
-shop: Mieten
+shop: storage rental
 ---

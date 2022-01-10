@@ -1,5 +1,5 @@
 ---
 title: "Bromyard Travel Services"
 url: /bromyard/bromyard-travel-services/
-shop: Reisebüro
+shop: travel agency
 ---

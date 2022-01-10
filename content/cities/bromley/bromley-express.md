@@ -1,5 +1,5 @@
 ---
 title: "Bromley Express"
 url: /bromley/bromley-express/
-shop: Lebensmittel
+shop: convenience
 ---

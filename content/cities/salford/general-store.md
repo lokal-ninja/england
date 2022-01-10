@@ -1,5 +1,5 @@
 ---
 title: "General Store"
 url: /salford/general-store/
-shop: Lebensmittel
+shop: convenience
 ---

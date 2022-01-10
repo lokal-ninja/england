@@ -1,5 +1,5 @@
 ---
 title: "Station Garage Services"
 url: /whitehaven/station-garage-services/
-shop: Autowerkstatt
+shop: car repair
 ---

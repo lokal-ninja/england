@@ -1,5 +1,5 @@
 ---
 title: "Noyces"
 url: /kingsbridge/noyces/
-shop: Eisenwaren
+shop: hardware
 ---

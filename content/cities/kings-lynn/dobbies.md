@@ -1,5 +1,5 @@
 ---
 title: "Dobbies"
 url: /kings-lynn/dobbies/
-shop: Garten-Center
+shop: garden centre
 ---

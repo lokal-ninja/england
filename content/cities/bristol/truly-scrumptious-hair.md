@@ -1,5 +1,5 @@
 ---
 title: "Truly Scrumptious Hair"
 url: /bristol/truly-scrumptious-hair/
-shop: Friseur
+shop: hairdresser
 ---

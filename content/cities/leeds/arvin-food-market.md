@@ -1,5 +1,5 @@
 ---
 title: "Arvin Food Market"
 url: /leeds/arvin-food-market/
-shop: Lebensmittel
+shop: convenience
 ---

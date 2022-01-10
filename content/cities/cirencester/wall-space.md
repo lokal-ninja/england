@@ -1,5 +1,5 @@
 ---
 title: "Wall Space"
 url: /cirencester/wall-space/
-shop: Farben
+shop: paint
 ---

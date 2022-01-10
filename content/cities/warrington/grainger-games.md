@@ -1,5 +1,5 @@
 ---
 title: "Grainger Games"
 url: /warrington/grainger-games/
-shop: Videospiele
+shop: video games
 ---

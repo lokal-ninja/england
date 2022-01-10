@@ -1,5 +1,5 @@
 ---
 title: "Cottonbuds"
 url: /northampton/cottonbuds/
-shop: Andenken
+shop: gift
 ---

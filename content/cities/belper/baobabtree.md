@@ -1,5 +1,5 @@
 ---
 title: "BaobabTree"
 url: /belper/baobabtree/
-shop: Kosmetik
+shop: beauty
 ---

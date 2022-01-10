@@ -1,5 +1,5 @@
 ---
 title: "Bleach"
 url: /london/bleach/
-shop: Friseur
+shop: hairdresser
 ---

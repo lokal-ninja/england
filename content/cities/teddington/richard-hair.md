@@ -1,5 +1,5 @@
 ---
 title: "Richard Hair"
 url: /teddington/richard-hair/
-shop: Friseur
+shop: hairdresser
 ---

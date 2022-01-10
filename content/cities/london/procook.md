@@ -1,5 +1,5 @@
 ---
 title: "ProCook"
 url: /london/procook/
-shop: Küchen
+shop: kitchen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tesco Metro"
 url: /romford/tesco-metro/
-shop: Supermarkt
+shop: supermarket
 ---

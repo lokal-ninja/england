@@ -1,5 +1,5 @@
 ---
 title: "The Traveller"
 url: /lancaster/the-traveller/
-shop: Reisebüro
+shop: travel agency
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
 url: /crawley/wilko/
-shop: Kramladen
+shop: variety store
 ---

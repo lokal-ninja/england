@@ -1,5 +1,5 @@
 ---
 title: "Gemele"
 url: /morecambe/gemele/
-shop: Friseur
+shop: hairdresser
 ---

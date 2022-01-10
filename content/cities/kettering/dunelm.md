@@ -1,5 +1,5 @@
 ---
 title: "Dunelm"
 url: /kettering/dunelm/
-shop: Möbel
+shop: furniture
 ---

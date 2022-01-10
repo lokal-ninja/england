@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /clacton-on-sea/lidl/
-shop: Supermarkt
+shop: supermarket
 ---

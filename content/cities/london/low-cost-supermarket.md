@@ -1,5 +1,5 @@
 ---
 title: "Low Cost Supermarket"
 url: /london/low-cost-supermarket/
-shop: Lebensmittel
+shop: convenience
 ---

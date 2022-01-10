@@ -1,5 +1,5 @@
 ---
 title: "Poundstretcher"
 url: /redcar/poundstretcher/
-shop: Warenhaus
+shop: department store
 ---

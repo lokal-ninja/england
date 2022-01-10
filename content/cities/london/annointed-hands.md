@@ -1,5 +1,5 @@
 ---
 title: "Annointed Hands"
 url: /london/annointed-hands/
-shop: Kosmetik
+shop: beauty
 ---

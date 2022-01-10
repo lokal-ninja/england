@@ -1,5 +1,5 @@
 ---
 title: "APD"
 url: /bath/apd/
-shop: Autoteile
+shop: car parts
 ---

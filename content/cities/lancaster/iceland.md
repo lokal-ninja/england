@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /lancaster/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

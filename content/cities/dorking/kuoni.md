@@ -1,5 +1,5 @@
 ---
 title: "Kuoni"
 url: /dorking/kuoni/
-shop: Reisebüro
+shop: travel agency
 ---

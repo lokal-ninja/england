@@ -1,5 +1,5 @@
 ---
 title: "Titans Auto Service"
 url: /reading/titans-auto-service/
-shop: Autowerkstatt
+shop: car repair
 ---

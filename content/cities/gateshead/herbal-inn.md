@@ -1,5 +1,5 @@
 ---
 title: "Herbal Inn"
 url: /gateshead/herbal-inn/
-shop: Allgemein
+shop: shop
 ---

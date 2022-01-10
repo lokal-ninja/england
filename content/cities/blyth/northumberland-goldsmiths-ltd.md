@@ -1,5 +1,5 @@
 ---
 title: "Northumberland Goldsmiths Ltd"
 url: /blyth/northumberland-goldsmiths-ltd/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pandora"
 url: /southport/pandora/
-shop: Schmuck
+shop: jewelry
 ---

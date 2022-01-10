@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /teignmouth/tesco-express/
-shop: Lebensmittel
+shop: convenience
 ---

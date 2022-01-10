@@ -1,5 +1,5 @@
 ---
 title: "Health Foods For You"
 url: /sudbury/health-foods-for-you/
-shop: Bioladen
+shop: health food
 ---

@@ -1,5 +1,5 @@
 ---
 title: "David Reader Car Sales"
 url: /hexham/david-reader-car-sales/
-shop: Autowerkstatt
+shop: car repair
 ---

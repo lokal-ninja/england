@@ -1,5 +1,5 @@
 ---
 title: "Eyecare opticians"
 url: /kingston/eyecare-opticians/
-shop: Optiker
+shop: optician
 ---

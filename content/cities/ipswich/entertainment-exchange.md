@@ -1,5 +1,5 @@
 ---
 title: "Entertainment Exchange"
 url: /ipswich/entertainment-exchange/
-shop: Elektronik
+shop: electronics
 ---

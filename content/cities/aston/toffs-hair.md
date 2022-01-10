@@ -1,5 +1,5 @@
 ---
 title: "Toffs Hair"
 url: /aston/toffs-hair/
-shop: Friseur
+shop: hairdresser
 ---

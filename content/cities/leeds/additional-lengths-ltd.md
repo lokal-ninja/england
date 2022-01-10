@@ -1,5 +1,5 @@
 ---
 title: "Additional Lengths Ltd"
 url: /leeds/additional-lengths-ltd/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hannah"
 url: /london/hannah/
-shop: Kosmetik
+shop: beauty
 ---

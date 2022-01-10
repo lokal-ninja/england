@@ -1,5 +1,5 @@
 ---
 title: "Avacardo"
 url: /southport/avacardo/
-shop: Andenken
+shop: gift
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Zara Perry"
 url: /bath/zara-perry/
-shop: Friseur
+shop: hairdresser
 ---

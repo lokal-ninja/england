@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /lancing/asda/
-shop: Supermarkt
+shop: supermarket
 ---

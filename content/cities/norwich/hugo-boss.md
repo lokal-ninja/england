@@ -1,5 +1,5 @@
 ---
 title: "Hugo Boss"
 url: /norwich/hugo-boss/
-shop: Kleidung
+shop: clothes
 ---

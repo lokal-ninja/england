@@ -1,5 +1,5 @@
 ---
 title: "Mind"
 url: /london/mind/
-shop: Kleidung
+shop: clothes
 ---

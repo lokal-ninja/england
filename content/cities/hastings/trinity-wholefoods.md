@@ -1,5 +1,5 @@
 ---
 title: "Trinity Wholefoods"
 url: /hastings/trinity-wholefoods/
-shop: Feinkost
+shop: deli
 ---

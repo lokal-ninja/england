@@ -1,5 +1,5 @@
 ---
 title: "Smiths TV's"
 url: /southport/smiths-tvs/
-shop: Allgemein
+shop: shop
 ---

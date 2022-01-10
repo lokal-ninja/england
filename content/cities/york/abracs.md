@@ -1,5 +1,5 @@
 ---
 title: "Abracs"
 url: /york/abracs/
-shop: Baustoffe
+shop: trade
 ---

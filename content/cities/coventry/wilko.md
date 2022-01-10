@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
 url: /coventry/wilko/
-shop: Kramladen
+shop: variety store
 ---

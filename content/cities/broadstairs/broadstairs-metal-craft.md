@@ -1,5 +1,5 @@
 ---
 title: "Broadstairs Metal Craft"
 url: /broadstairs/broadstairs-metal-craft/
-shop: Allgemein
+shop: shop
 ---

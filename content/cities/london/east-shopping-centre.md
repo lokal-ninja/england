@@ -1,5 +1,5 @@
 ---
 title: "East Shopping Centre"
 url: /london/east-shopping-centre/
-shop: Einkaufszentrum
+shop: mall
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shoe Repairs"
 url: /canterbury/shoe-repairs/
-shop: Schuhe
+shop: shoes
 ---

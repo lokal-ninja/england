@@ -1,5 +1,5 @@
 ---
 title: "Springfields"
 url: /northampton/springfields/
-shop: Lebensmittel
+shop: convenience
 ---

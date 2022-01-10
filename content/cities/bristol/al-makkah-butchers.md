@@ -1,5 +1,5 @@
 ---
 title: "Al Makkah Butchers"
 url: /bristol/al-makkah-butchers/
-shop: Metzgerei
+shop: butcher
 ---

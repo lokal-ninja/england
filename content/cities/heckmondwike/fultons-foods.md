@@ -1,5 +1,5 @@
 ---
 title: "Fultons Foods"
 url: /heckmondwike/fultons-foods/
-shop: Supermarkt
+shop: supermarket
 ---

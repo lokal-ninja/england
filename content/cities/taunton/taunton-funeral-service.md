@@ -1,5 +1,5 @@
 ---
 title: "Taunton Funeral Service"
 url: /taunton/taunton-funeral-service/
-shop: Bestattungen
+shop: funeral directors
 ---

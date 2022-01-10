@@ -1,5 +1,5 @@
 ---
 title: "Paradise Grove"
 url: /horsforth/paradise-grove/
-shop: Kleidung
+shop: clothes
 ---

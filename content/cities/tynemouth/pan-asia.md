@@ -1,5 +1,5 @@
 ---
 title: "Pan Asia"
 url: /tynemouth/pan-asia/
-shop: Feinkost
+shop: deli
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /saffron-walden/tesco-express/
-shop: Lebensmittel
+shop: convenience
 ---

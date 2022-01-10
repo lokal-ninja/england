@@ -1,5 +1,5 @@
 ---
 title: "Co-op"
 url: /melksham/co-op/
-shop: Lebensmittel
+shop: convenience
 ---
