@@ -1,6 +1,6 @@
 ---
 title: Petworth
 url: /petworth/
-latitude: 50.986
-longitude: -0.611
+latitude: 50.985
+longitude: -0.61
 ---

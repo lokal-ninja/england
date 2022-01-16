@@ -1,11 +1,11 @@
-id: 338972485
-type: way
-latitude: 51.51682
-longitude: -0.07846
-postcode: "EC2M 4AE"
+id: 9400588414
+type: node
+latitude: 51.52128
+longitude: -0.07514
+postcode: "E1 6NG"
 city: London
-street: "Devonshire Square"
-housenumber: 
-phone: ""
-opening_hours: ""
-website: "https://www.planetorganic.com/pages/devonshire-square"
+street: "Commercial Street"
+housenumber: 132
+phone: "+44 20 7247 9596"
+opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+website: ""

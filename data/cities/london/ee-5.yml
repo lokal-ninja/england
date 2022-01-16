@@ -1,11 +1,11 @@
-id: 9109378739
-type: node
-latitude: 51.48886
-longitude: 0.02124
-postcode: "SE7 7TZ"
+id: 220272364
+type: way
+latitude: 51.51424
+longitude: -0.10897
+postcode: "EC4A 2EA"
 city: London
-street: "Peninsular Park Road"
-housenumber: 4
+street: "Fleet Street"
+housenumber: 171
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 11:00-17:00"
-website: "https://ee.co.uk/stores/england/greater_london/charlton/ee_in_argos_-_charlton"
+opening_hours: ""
+website: ""

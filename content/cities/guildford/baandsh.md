@@ -1,5 +1,5 @@
 ---
-title: "ba&sh"
+title: "Ba&sh"
 url: /guildford/baandsh/
 shop: clothes
 ---

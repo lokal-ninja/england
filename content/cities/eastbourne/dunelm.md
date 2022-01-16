@@ -1,5 +1,5 @@
 ---
 title: "Dunelm"
 url: /eastbourne/dunelm/
-shop: furniture
+shop: interior decoration
 ---
