@@ -1,6 +1,6 @@
 ---
 title: Ash
 url: /ash/
-latitude: 51.302
-longitude: 1.293
+latitude: 51.246
+longitude: -0.724
 ---
