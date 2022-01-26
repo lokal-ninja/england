@@ -1,5 +1,5 @@
 ---
 title: "Sainsbury's Local"
 url: /midhurst/sainsburys-local/
-shop: supermarket
+shop: convenience
 ---

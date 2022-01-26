@@ -1,5 +1,5 @@
 ---
-title: "T.M.Lewin"
+title: "T.M. Lewin"
 url: /london/t-m-lewin/
 shop: clothes
 ---

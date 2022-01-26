@@ -1,6 +1,6 @@
 ---
 title: Wellington Road
 url: /wellington-road/
-latitude: 53.277
-longitude: -2.899
+latitude: 53.276
+longitude: -2.898
 ---

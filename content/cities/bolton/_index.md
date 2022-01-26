@@ -1,6 +1,6 @@
 ---
 title: Bolton
 url: /bolton/
-latitude: 53.522
-longitude: -1.314
+latitude: 53.574
+longitude: -2.367
 ---

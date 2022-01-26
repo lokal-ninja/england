@@ -1,5 +1,5 @@
 ---
-title: "DECIEM"
+title: "Deciem"
 url: /london/deciem/
-shop: beauty
+shop: shop
 ---
