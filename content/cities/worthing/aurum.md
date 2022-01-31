@@ -1,5 +1,5 @@
 ---
 title: "Aurum"
 url: /worthing/aurum/
-shop: shop
+shop: jewelry
 ---

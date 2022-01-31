@@ -1,5 +1,5 @@
 ---
 title: "Argos"
 url: /rushden/argos/
-shop: shop
+shop: catalogue
 ---

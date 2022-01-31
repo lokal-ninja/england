@@ -1,5 +1,5 @@
 ---
 title: "Brandon Hire"
 url: /canterbury/brandon-hire/
-shop: shop
+shop: tools
 ---

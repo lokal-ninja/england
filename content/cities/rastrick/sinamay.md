@@ -1,5 +1,5 @@
 ---
 title: "Sinamay"
 url: /rastrick/sinamay/
-shop: shop
+shop: boutique
 ---

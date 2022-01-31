@@ -1,5 +1,5 @@
 ---
 title: "Claire's"
 url: /didcot/claires/
-shop: shop
+shop: boutique
 ---

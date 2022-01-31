@@ -1,5 +1,5 @@
 ---
 title: "Parriss"
 url: /sheringham/parriss/
-shop: shop
+shop: jewelry
 ---

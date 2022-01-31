@@ -1,5 +1,5 @@
 ---
 title: "Argos"
 url: /milton-keynes/argos/
-shop: shop
+shop: catalogue
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Accessorize"
 url: /cheltenham/accessorize/
-shop: shop
+shop: boutique
 ---

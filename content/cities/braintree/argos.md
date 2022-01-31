@@ -1,5 +1,5 @@
 ---
 title: "Argos"
 url: /braintree/argos/
-shop: shop
+shop: catalogue
 ---

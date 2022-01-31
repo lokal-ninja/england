@@ -1,5 +1,5 @@
 ---
 title: "Argos"
 url: /peterlee/argos/
-shop: shop
+shop: catalogue
 ---

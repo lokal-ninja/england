@@ -1,5 +1,5 @@
 ---
 title: "Hartley Hire"
 url: /morecambe/hartley-hire/
-shop: shop
+shop: tools
 ---

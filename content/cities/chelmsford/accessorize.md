@@ -1,5 +1,5 @@
 ---
 title: "Accessorize"
 url: /chelmsford/accessorize/
-shop: shop
+shop: boutique
 ---
