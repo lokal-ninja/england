@@ -1,5 +1,0 @@
----
-title: "The Co-operative Food"
-url: /enderby/the-co-operative-food-2/
-shop: supermarket
----

@@ -1,5 +1,5 @@
 ---
 title: "Superdrug"
 url: /woking/superdrug/
-shop: beauty
+shop: chemist
 ---

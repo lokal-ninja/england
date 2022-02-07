@@ -1,6 +1,6 @@
 ---
 title: Bampton
 url: /bampton/
-latitude: 50.991
-longitude: -3.487
+latitude: 54.557
+longitude: -2.751
 ---

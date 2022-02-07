@@ -1,11 +1,11 @@
-id: 621188984
-type: node
-latitude: 52.62795
-longitude: -1.14696
-postcode: "LE3 0AB"
+id: 524925199
+type: way
+latitude: 52.61405
+longitude: -1.10358
+postcode: "LE2 2PN"
 city: Leicester
-street: "Briton Street"
-housenumber: 45
+street: "London Road"
+housenumber: 368
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
+opening_hours: "Mo-Su 07:00-23:00"
 website: ""
