@@ -1,5 +1,5 @@
 ---
-title: "CEX"
+title: "CeX"
 url: /luton/cex/
-shop: shop
+shop: electronics
 ---

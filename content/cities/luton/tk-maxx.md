@@ -1,5 +1,5 @@
 ---
 title: "TK Maxx"
 url: /luton/tk-maxx/
-shop: clothes
+shop: department store
 ---

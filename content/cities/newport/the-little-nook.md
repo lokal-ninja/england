@@ -1,5 +1,5 @@
 ---
 title: "The Little Nook"
 url: /newport/the-little-nook/
-shop: shop
+shop: gift
 ---
