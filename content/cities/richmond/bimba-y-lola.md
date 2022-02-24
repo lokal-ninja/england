@@ -1,0 +1,5 @@
+---
+title: "Bimba Y Lola"
+url: /richmond/bimba-y-lola/
+shop: clothes
+---

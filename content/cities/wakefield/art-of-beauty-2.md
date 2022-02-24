@@ -1,0 +1,5 @@
+---
+title: "Art of Beauty"
+url: /wakefield/art-of-beauty-2/
+shop: beauty
+---

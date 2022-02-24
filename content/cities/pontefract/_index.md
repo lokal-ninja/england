@@ -1,6 +1,6 @@
 ---
 title: Pontefract
 url: /pontefract/
-latitude: 53.692
-longitude: -1.311
+latitude: 53.68
+longitude: -1.336
 ---

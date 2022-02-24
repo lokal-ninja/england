@@ -1,6 +1,6 @@
 ---
 title: Baldock
 url: /baldock/
-latitude: 51.99
-longitude: -0.188
+latitude: 52.041
+longitude: -0.155
 ---

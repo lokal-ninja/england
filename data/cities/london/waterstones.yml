@@ -1,11 +1,11 @@
-id: 160678842
-type: way
-latitude: 51.4819
-longitude: -0.01018
-postcode: "SE10 9BL"
+id: 559522453
+type: node
+latitude: 51.50751
+longitude: -0.12687
+postcode: "WC2N 5EJ"
 city: London
-street: "Greenwich Church Street"
-housenumber: 51
+street: "Strand"
+housenumber: 1-5
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00; Su 11:30-17:30"
-website: "https://www.waterstones.com/bookshops/greenwich"
+opening_hours: "Mo-Sa 09:00-20:00; Su 12:00-18:00"
+website: ""

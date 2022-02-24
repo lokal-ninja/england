@@ -1,5 +1,5 @@
 ---
 title: "Fired Earth"
 url: /london/fired-earth/
-shop: bathroom
+shop: tiles
 ---

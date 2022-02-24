@@ -1,5 +1,5 @@
 ---
-title: "Philglas and Swiggot"
+title: "Philglas & Swiggot"
 url: /london/philglas-and-swiggot/
-shop: alcohol
+shop: beverages
 ---
