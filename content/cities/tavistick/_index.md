@@ -1,6 +1,6 @@
 ---
 title: Tavistick
 url: /tavistick/
-latitude: 50.538
-longitude: -4.146
+latitude: 50.539
+longitude: -4.145
 ---

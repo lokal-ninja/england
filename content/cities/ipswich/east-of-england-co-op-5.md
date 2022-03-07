@@ -1,5 +1,5 @@
 ---
-title: "East of England CO-OP"
+title: "East of England Co-op"
 url: /ipswich/east-of-england-co-op-5/
-shop: supermarket
+shop: convenience
 ---

@@ -1,11 +1,11 @@
-id: 827443542
+id: 298290446
 type: node
-latitude: 52.18824
-longitude: 0.14432
-postcode: "CB1 7BX"
+latitude: 52.204
+longitude: 0.11772
+postcode: "CB2 1SJ"
 city: Cambridge
-street: "Cherry Hinton Road"
-housenumber: 163
+street: "King's Parade"
+housenumber: 2
 phone: ""
-opening_hours: "Mo 11:00-20:00; Tu 10:00-20:00; We-Sa 10:00-21:00; Su 12:00-20:00"
-website: ""
+opening_hours: ""
+website: "https://www.cambridgewine.com/"
