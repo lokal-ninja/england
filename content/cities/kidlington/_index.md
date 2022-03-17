@@ -1,6 +1,6 @@
 ---
 title: Kidlington
 url: /kidlington/
-latitude: 51.824
-longitude: -1.292
+latitude: 51.809
+longitude: -1.278
 ---

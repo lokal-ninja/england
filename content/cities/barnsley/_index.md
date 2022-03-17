@@ -1,6 +1,6 @@
 ---
 title: Barnsley
 url: /barnsley/
-latitude: 53.561
-longitude: -1.476
+latitude: 53.509
+longitude: -1.386
 ---

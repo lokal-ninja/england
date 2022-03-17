@@ -1,6 +1,6 @@
 ---
 title: Hellingly
 url: /hellingly/
-latitude: 50.88
-longitude: 0.231
+latitude: 50.9
+longitude: 0.273
 ---

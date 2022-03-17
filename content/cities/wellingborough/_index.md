@@ -1,6 +1,6 @@
 ---
 title: Wellingborough
 url: /wellingborough/
-latitude: 52.3
-longitude: -0.697
+latitude: 52.338
+longitude: -0.6
 ---

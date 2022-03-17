@@ -1,11 +1,11 @@
-id: 1030111342
-type: way
-latitude: 53.35585
-longitude: -1.44868
-postcode: "S2 2BS"
+id: 2515505115
+type: node
+latitude: 53.37556
+longitude: -1.47432
+postcode: ""
 city: Sheffield
-street: "Gleadless Road"
-housenumber: 523
+street: "The Moor"
+housenumber: 
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 08:30-20:00; Su 10:00-18:00"
+opening_hours: ""
 website: ""
