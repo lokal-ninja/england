@@ -1,5 +1,5 @@
 ---
-title: "Pares Footware"
+title: "Parés Footware"
 url: /london/pares-footware/
 shop: shoes
 ---

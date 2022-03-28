@@ -1,5 +1,5 @@
 ---
 title: "Cliftonville Off Licence"
 url: /margate/cliftonville-off-licence/
-shop: alcohol
+shop: convenience
 ---

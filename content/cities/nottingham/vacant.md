@@ -1,5 +1,5 @@
 ---
-title: "(Vacant)"
+title: "(vacant)"
 url: /nottingham/vacant/
-shop: shop
+shop: beauty
 ---

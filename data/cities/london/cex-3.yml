@@ -1,11 +1,11 @@
-id: 230342291
-type: way
-latitude: 51.52041
-longitude: -0.13445
-postcode: "W1T 2HB"
+id: 6968954993
+type: node
+latitude: 51.46274
+longitude: -0.01057
+postcode: "SE13 5JH"
 city: London
-street: "Tottenham Court Road"
-housenumber: 70
+street: "Lewisham High Street"
+housenumber: 88
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00; Su 10:30-16:30"
-website: "https://uk.webuy.com/stores/store_details.php?branchId=1#.VE0Lw_mG-ao"
+opening_hours: "Mo-Sa 10:00-19:00; Su 11:00-18:00"
+website: "https://uk.webuy.com/site/storeDetail/?branchId=211"
