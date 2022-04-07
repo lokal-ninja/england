@@ -1,5 +1,5 @@
 ---
-title: "McColls"
+title: "McColl's"
 url: /ampthill/mccolls/
-shop: supermarket
+shop: convenience
 ---

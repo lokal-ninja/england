@@ -1,5 +1,5 @@
 ---
-title: "Martins"
+title: "Martin's"
 url: /storrington/martins/
-shop: convenience
+shop: newsagent
 ---

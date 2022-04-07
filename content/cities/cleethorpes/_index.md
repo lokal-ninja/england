@@ -1,6 +1,6 @@
 ---
 title: Cleethorpes
 url: /cleethorpes/
-latitude: 53.558
-longitude: -0.024
+latitude: 53.561
+longitude: -0.031
 ---

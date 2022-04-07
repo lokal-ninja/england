@@ -1,5 +1,5 @@
 ---
-title: "McColls"
+title: "McColl's"
 url: /sandy/mccolls/
-shop: newsagent
+shop: convenience
 ---

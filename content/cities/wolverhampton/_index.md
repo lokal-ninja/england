@@ -1,6 +1,6 @@
 ---
 title: Wolverhampton
 url: /wolverhampton/
-latitude: 52.598
-longitude: -2.131
+latitude: 52.622
+longitude: -2.146
 ---

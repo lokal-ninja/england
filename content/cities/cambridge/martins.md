@@ -1,5 +1,5 @@
 ---
-title: "Martins"
+title: "Martin's"
 url: /cambridge/martins/
-shop: estate agent
+shop: newsagent
 ---
