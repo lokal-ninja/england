@@ -1,6 +1,6 @@
 ---
 title: Salford
 url: /salford/
-latitude: 53.485
-longitude: -2.301
+latitude: 53.488
+longitude: -2.312
 ---

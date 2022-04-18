@@ -1,6 +1,6 @@
 ---
 title: Chorley
 url: /chorley/
-latitude: 53.617
-longitude: -2.598
+latitude: 53.612
+longitude: -2.605
 ---

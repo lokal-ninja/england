@@ -1,6 +1,6 @@
 ---
 title: Cannock
 url: /cannock/
-latitude: 52.686
-longitude: -2.019
+latitude: 52.657
+longitude: -1.963
 ---
