@@ -1,5 +1,5 @@
 ---
-title: "William hill"
+title: "William Hill"
 url: /maryport/william-hill/
 shop: bookmaker
 ---

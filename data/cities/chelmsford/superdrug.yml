@@ -1,11 +1,11 @@
-id: 2937152206
-type: node
-latitude: 51.73155
-longitude: 0.47641
-postcode: "CM2 6FD"
+id: 353069269
+type: way
+latitude: 51.73358
+longitude: 0.47376
+postcode: "CM1 1BE"
 city: Chelmsford
-street: "The Meadows"
-housenumber: 
-phone: "+44 1245 349484"
-opening_hours: "Mo-Sa 09:00-17:30; Su 10:30-16:30"
-website: "https://www.superdrug.com/"
+street: "High Street"
+housenumber: 17-18
+phone: ""
+opening_hours: "Mo-Sa 08:30-18:00; Su 10:30-16:30"
+website: ""

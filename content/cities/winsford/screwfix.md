@@ -1,5 +1,5 @@
 ---
 title: "Screwfix"
 url: /winsford/screwfix/
-shop: shop
+shop: doityourself
 ---

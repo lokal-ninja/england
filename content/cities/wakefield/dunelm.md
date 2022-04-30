@@ -1,5 +1,5 @@
 ---
 title: "Dunelm"
 url: /wakefield/dunelm/
-shop: furniture
+shop: interior decoration
 ---

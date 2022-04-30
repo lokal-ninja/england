@@ -1,11 +1,11 @@
-id: 329932118
-type: way
-latitude: 52.63724
-longitude: 1.28654
-postcode: "NR2 4TQ"
+id: 9453510331
+type: node
+latitude: 52.6291
+longitude: 1.38533
+postcode: "NR13 5GE"
 city: Norwich
-street: "Barker Street"
-housenumber: 121
+street: "Hawthorne Drive"
+housenumber: Unit 7
 phone: ""
-opening_hours: "Mo-Fr 07:00-20:00; Sa 08:00-18:00; Su 10:00-16:00"
-website: "https://www.screwfix.com/"
+opening_hours: "Mo-Fr 07:00-20:00, Sa 07:00-18:00, Su 09:00-16:00"
+website: "https://www.screwfix.com/jsp/tradeCounter/tradeCounterDetailsPage.jsp?id=728"

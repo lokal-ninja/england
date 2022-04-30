@@ -1,6 +1,6 @@
 ---
 title: Birkenhead
 url: /birkenhead/
-latitude: 53.39
-longitude: -3.029
+latitude: 53.392
+longitude: -3.024
 ---

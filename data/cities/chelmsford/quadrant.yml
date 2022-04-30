@@ -1,11 +1,11 @@
-id: 2595246693
-type: node
-latitude: 51.73118
-longitude: 0.47411
+id: 354412972
+type: way
+latitude: 51.73173
+longitude: 0.47365
 postcode: "CM2 0LS"
 city: Chelmsford
 street: "Moulsham Street"
 housenumber: 220
 phone: "+44 1245 490101"
-opening_hours: "Mo-Sa 09:00-17:30; Su,PH 10:30-16:30"
-website: "http://www.chelmsfordstar.coop/quadrant"
+opening_hours: "Mo-Sa 09:00-17:00; Su off; PH 10:00-16:00"
+website: "https://quadrant.chelmsfordstar.coop/"
