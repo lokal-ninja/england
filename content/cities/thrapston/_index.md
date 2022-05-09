@@ -1,6 +1,6 @@
 ---
 title: Thrapston
 url: /thrapston/
-latitude: 52.396
-longitude: -0.53
+latitude: 52.397
+longitude: -0.536
 ---

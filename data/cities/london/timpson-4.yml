@@ -1,11 +1,11 @@
-id: 1011102843
-type: way
-latitude: 51.46208
-longitude: -0.21663
-postcode: ""
+id: 9533395936
+type: node
+latitude: 51.48913
+longitude: 0.02654
+postcode: "SE7 7SA"
 city: London
-street: "Putney High Street"
-housenumber: 140
-phone: ""
-opening_hours: ""
-website: ""
+street: "Gallions Road"
+housenumber: 7-11
+phone: "+44 20 8305 9680"
+opening_hours: "Mo-Sa 09:00-18:00; Su 11:00-17:00"
+website: "https://www.timpson.co.uk/stores/charlton-sainsburys/"

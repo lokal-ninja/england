@@ -1,11 +1,11 @@
-id: 291650386
-type: way
-latitude: 51.52444
-longitude: -0.12373
-postcode: "WC1N 1AF"
+id: 9707027201
+type: node
+latitude: 51.48908
+longitude: 0.02609
+postcode: "SE7 7SA"
 city: London
-street: "Brunswick Centre"
-housenumber: 31
-phone: "+44 20 7520 0010"
-opening_hours: "Mo 10:00-19:00;Tu-Fr 08:30-19:00;Sa 10:00-19:00;Su 11:00-17:00"
-website: "https://www.specsavers.co.uk/stores/brunswickcentre"
+street: "Gallions Road"
+housenumber: 7-11
+phone: "+44 20 8293 0517"
+opening_hours: "Mo-Fr 10:00-19:00; Sa 09:00-18:00; Su 11:00-17:00"
+website: "https://www.specsavers.co.uk/stores/charltonriversidesainsburys"

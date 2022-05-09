@@ -1,6 +1,6 @@
 ---
 title: Prestbury
 url: /prestbury/
-latitude: 51.913
-longitude: -2.045
+latitude: 53.289
+longitude: -2.153
 ---

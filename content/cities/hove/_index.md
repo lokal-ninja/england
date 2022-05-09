@@ -1,6 +1,6 @@
 ---
 title: Hove
 url: /hove/
-latitude: 50.823
-longitude: -0.158
+latitude: 50.828
+longitude: -0.174
 ---

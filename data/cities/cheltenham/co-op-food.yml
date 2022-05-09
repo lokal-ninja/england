@@ -1,11 +1,11 @@
-id: 945300677
-type: way
-latitude: 51.88915
-longitude: -2.07919
-postcode: "GL53 7NE"
+id: 2191355105
+type: node
+latitude: 51.94468
+longitude: -2.05975
+postcode: "GL52 8DH"
 city: Cheltenham
-street: "Bath Road"
-housenumber: 192;194
+street: "The Green"
+housenumber: 3-5
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su 10:00-16:00"
+opening_hours: "Mo-Su 07:00-22:00"
 website: ""

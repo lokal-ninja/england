@@ -1,11 +1,11 @@
-id: 5847654063
-type: node
-latitude: 52.39389
-longitude: -2.01623
-postcode: "B45 9JA"
+id: 1053862309
+type: way
+latitude: 52.43413
+longitude: -1.89302
+postcode: "B14 7LG"
 city: Birmingham
-street: "New Road"
-housenumber: 206
+street: "High Street"
+housenumber: 
 phone: ""
-opening_hours: "Mo-Sa 09:00-17:00"
+opening_hours: ""
 website: ""

@@ -1,5 +1,5 @@
 ---
 title: "Dunelm"
 url: /taunton/dunelm/
-shop: furniture
+shop: interior decoration
 ---

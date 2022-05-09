@@ -1,6 +1,6 @@
 ---
 title: Long Eaton
 url: /long-eaton/
-latitude: 52.882
-longitude: -1.298
+latitude: 52.885
+longitude: -1.285
 ---

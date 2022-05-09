@@ -1,5 +1,5 @@
 ---
-title: "Passion hair"
+title: "Passion Hair"
 url: /herne-bay/passion-hair/
 shop: hairdresser
 ---
