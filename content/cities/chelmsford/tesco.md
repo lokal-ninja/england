@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /chelmsford/tesco/
-shop: supermarket
+shop: convenience
 ---

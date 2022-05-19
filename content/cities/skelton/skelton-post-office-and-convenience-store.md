@@ -1,5 +1,5 @@
 ---
-title: "Skelton Post Office and Convenience Store"
+title: "Skelton Post Office & Convenience Store"
 url: /skelton/skelton-post-office-and-convenience-store/
 shop: convenience
 ---

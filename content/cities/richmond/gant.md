@@ -1,5 +1,5 @@
 ---
-title: "Gant"
+title: "GANT"
 url: /richmond/gant/
 shop: clothes
 ---
