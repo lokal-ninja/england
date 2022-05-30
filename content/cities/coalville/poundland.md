@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /coalville/poundland/
-shop: shop
+shop: variety store
 ---

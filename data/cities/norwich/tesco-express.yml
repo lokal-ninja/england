@@ -1,11 +1,11 @@
-id: 88938862
-type: way
-latitude: 52.62914
-longitude: 1.24768
-postcode: "NR4 7TF"
+id: 9775439680
+type: node
+latitude: 52.62917
+longitude: 1.29444
+postcode: "NR2 1JE"
 city: Norwich
-street: "Earlham Road"
-housenumber: 
-phone: "+44 1603 508374"
-opening_hours: "24/7"
-website: ""
+street: "London Street"
+housenumber: 15-19
+phone: ""
+opening_hours: "Mo-Su 06:00-22:00"
+website: "https://www.tesco.com/store-locator/norfolk/15-19-london-street"

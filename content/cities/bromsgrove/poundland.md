@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /bromsgrove/poundland/
-shop: supermarket
+shop: variety store
 ---

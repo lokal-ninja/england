@@ -5,7 +5,7 @@ longitude: 0.45265
 postcode: "CM1 3FJ"
 city: Chelmsford
 street: "Westway"
-housenumber: 5 Clock Tower Retail Park
+housenumber: 5
 phone: "+44 1245 673030"
-opening_hours: "Mo-Fr 09:30-17:30; Sa 09:00-17:30; Su 10:30-16:30"
-website: ""
+opening_hours: "Mo-Tu 09:30-20:00; We-Fr 09:30-18:00; Sa 09:00-18:00; Su 10:00-16:00"
+website: "https://www.tapi.co.uk/"

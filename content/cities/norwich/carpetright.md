@@ -1,5 +1,5 @@
 ---
-title: "CarpetRight"
+title: "Carpetright"
 url: /norwich/carpetright/
 shop: carpet
 ---

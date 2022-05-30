@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /torquay/poundland/
-shop: department store
+shop: variety store
 ---
