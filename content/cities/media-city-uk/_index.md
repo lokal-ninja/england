@@ -1,6 +1,6 @@
 ---
 title: Media City UK
 url: /media-city-uk/
-latitude: 53.472
-longitude: -2.299
+latitude: 53.474
+longitude: -2.3
 ---

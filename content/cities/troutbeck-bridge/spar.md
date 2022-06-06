@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /troutbeck-bridge/spar/
-shop: supermarket
+shop: convenience
 ---

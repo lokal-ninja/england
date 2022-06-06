@@ -1,6 +1,6 @@
 ---
 title: Teddington
 url: /teddington/
-latitude: 51.426
-longitude: -0.339
+latitude: 51.431
+longitude: -0.347
 ---
