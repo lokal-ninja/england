@@ -1,5 +1,5 @@
 ---
-title: "Co-Op Food"
+title: "Co-op Food"
 url: /exeter/co-op-food-8/
 shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cake Heaven"
 url: /bognor-regis/cake-heaven/
-shop: pastry
+shop: bakery
 ---

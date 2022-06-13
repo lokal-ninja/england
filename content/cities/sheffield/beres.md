@@ -1,5 +1,5 @@
 ---
-title: "Béres"
+title: "Beres"
 url: /sheffield/beres/
-shop: butcher
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
-title: "CLinic Training Academy"
+title: "Clinic Training Academy"
 url: /leamington-spa/clinic-training-academy/
 shop: beauty
 ---
