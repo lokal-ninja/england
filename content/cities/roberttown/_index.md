@@ -1,6 +1,6 @@
 ---
 title: Roberttown
 url: /roberttown/
-latitude: 53.699
-longitude: -1.701
+latitude: 53.7
+longitude: -1.705
 ---
