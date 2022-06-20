@@ -1,5 +1,5 @@
 ---
 title: "Clarences"
 url: /bristol/clarences/
-shop: interior decoration
+shop: gift
 ---

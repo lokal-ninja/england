@@ -1,5 +1,5 @@
 ---
 title: "Sharps"
 url: /ipswich/sharps/
-shop: houseware
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
-title: "SPAR"
+title: "Spar"
 url: /norwich/spar/
-shop: convenience
+shop: supermarket
 ---
