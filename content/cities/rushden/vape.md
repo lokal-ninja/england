@@ -1,5 +1,5 @@
 ---
-title: "Vape"
+title: "Vape!"
 url: /rushden/vape/
-shop: vacant
+shop: e-cigarette
 ---

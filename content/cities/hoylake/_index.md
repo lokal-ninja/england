@@ -1,6 +1,6 @@
 ---
 title: Hoylake
 url: /hoylake/
-latitude: 53.391
-longitude: -3.178
+latitude: 53.394
+longitude: -3.176
 ---

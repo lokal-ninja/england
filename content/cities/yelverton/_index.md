@@ -1,6 +1,6 @@
 ---
 title: Yelverton
 url: /yelverton/
-latitude: 50.545
-longitude: -3.991
+latitude: 50.594
+longitude: -3.912
 ---

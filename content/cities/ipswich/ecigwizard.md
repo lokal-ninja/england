@@ -1,5 +1,5 @@
 ---
-title: "ecigwizard"
+title: "Ecigwizard"
 url: /ipswich/ecigwizard/
-shop: tobacco
+shop: e-cigarette
 ---
