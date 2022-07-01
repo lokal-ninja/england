@@ -1,6 +1,6 @@
 ---
 title: Meols
 url: /meols/
-latitude: 53.395
-longitude: -3.143
+latitude: 53.4
+longitude: -3.156
 ---

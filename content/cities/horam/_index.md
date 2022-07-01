@@ -1,6 +1,6 @@
 ---
 title: Horam
 url: /horam/
-latitude: 50.935
-longitude: 0.244
+latitude: 50.934
+longitude: 0.243
 ---

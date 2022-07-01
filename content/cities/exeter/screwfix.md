@@ -1,5 +1,5 @@
 ---
-title: "Screwfix"
+title: "ScrewFix"
 url: /exeter/screwfix/
-shop: hardware
+shop: doityourself
 ---
