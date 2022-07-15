@@ -1,11 +1,11 @@
-id: 104205457
-type: way
-latitude: 54.7772
-longitude: -1.57485
-postcode: "DH1 3UJ"
+id: 300057952
+type: node
+latitude: 54.80686
+longitude: -1.5833
+postcode: "DH1 5GB"
 city: Durham
-street: "High Street"
-housenumber: 10
-phone: ""
-opening_hours: ""
+street: ""
+housenumber: 
+phone: "+44 333 0055 018"
+opening_hours: "Su 11:00-17:00; Mo 09:00-18:00; Tu-Fr 09:00-20:00; Sa 09:00-19:00"
 website: ""

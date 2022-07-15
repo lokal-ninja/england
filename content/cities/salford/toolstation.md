@@ -1,5 +1,5 @@
 ---
-title: "ToolStation"
+title: "Toolstation"
 url: /salford/toolstation/
-shop: tools
+shop: doityourself
 ---

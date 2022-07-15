@@ -1,5 +1,5 @@
 ---
-title: "Homesense"
+title: "HomeSense"
 url: /milton-keynes/homesense/
-shop: variety store
+shop: interior decoration
 ---

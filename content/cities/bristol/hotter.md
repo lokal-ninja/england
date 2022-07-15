@@ -1,5 +1,5 @@
 ---
-title: "hotter"
+title: "Hotter"
 url: /bristol/hotter/
 shop: shoes
 ---

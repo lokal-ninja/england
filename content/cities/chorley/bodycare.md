@@ -1,5 +1,5 @@
 ---
-title: "bodycare"
+title: "Bodycare"
 url: /chorley/bodycare/
-shop: beauty
+shop: chemist
 ---

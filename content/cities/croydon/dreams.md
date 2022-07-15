@@ -1,5 +1,5 @@
 ---
 title: "Dreams"
 url: /croydon/dreams/
-shop: houseware
+shop: bed
 ---

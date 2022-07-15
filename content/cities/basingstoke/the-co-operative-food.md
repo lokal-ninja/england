@@ -1,5 +1,5 @@
 ---
-title: "The Co-Operative Food"
+title: "The Co-operative Food"
 url: /basingstoke/the-co-operative-food/
-shop: supermarket
+shop: convenience
 ---

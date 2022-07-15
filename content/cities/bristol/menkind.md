@@ -1,5 +1,5 @@
 ---
-title: "MenKind"
+title: "Menkind"
 url: /bristol/menkind/
 shop: toys
 ---

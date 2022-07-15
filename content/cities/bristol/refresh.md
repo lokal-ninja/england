@@ -1,5 +1,5 @@
 ---
 title: "Refresh"
 url: /bristol/refresh/
-shop: shop
+shop: beauty
 ---

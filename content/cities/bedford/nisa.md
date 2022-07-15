@@ -1,5 +1,5 @@
 ---
-title: "NISA"
+title: "Nisa"
 url: /bedford/nisa/
 shop: convenience
 ---

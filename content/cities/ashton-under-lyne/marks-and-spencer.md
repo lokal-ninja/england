@@ -1,5 +1,5 @@
 ---
 title: "Marks & Spencer"
 url: /ashton-under-lyne/marks-and-spencer/
-shop: supermarket
+shop: department store
 ---
