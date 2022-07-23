@@ -1,5 +1,5 @@
 ---
-title: "Co-Operative Food"
+title: "Co-operative Food"
 url: /london/co-operative-food/
-shop: convenience
+shop: supermarket
 ---

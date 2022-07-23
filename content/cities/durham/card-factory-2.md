@@ -1,5 +1,5 @@
 ---
 title: "Card Factory"
 url: /durham/card-factory-2/
-shop: office supplies
+shop: gift
 ---

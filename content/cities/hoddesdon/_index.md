@@ -1,6 +1,6 @@
 ---
 title: Hoddesdon
 url: /hoddesdon/
-latitude: 51.763
+latitude: 51.76
 longitude: -0.011
 ---

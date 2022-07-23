@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /derby/spar-5/
-shop: convenience
+shop: supermarket
 ---

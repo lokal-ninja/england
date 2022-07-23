@@ -1,5 +1,5 @@
 ---
 title: "Delikatesy"
 url: /nottingham/delikatesy/
-shop: deli
+shop: convenience
 ---

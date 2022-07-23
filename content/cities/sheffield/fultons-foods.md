@@ -1,5 +1,5 @@
 ---
-title: "Fultons Foods"
+title: "Fulton's Foods"
 url: /sheffield/fultons-foods/
-shop: convenience
+shop: frozen food
 ---
