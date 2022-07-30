@@ -1,11 +1,11 @@
-id: 4515560369
-type: node
-latitude: 54.97179
-longitude: -1.61724
-postcode: ""
-city: Newcastle Upon Tyne
-street: "Clayton Street"
-housenumber: 
-phone: ""
-opening_hours: ""
-website: ""
+id: 412920832
+type: way
+latitude: 54.97689
+longitude: -1.58071
+postcode: "NE6 1DT"
+city: Newcastle upon Tyne
+street: "Shields Road"
+housenumber: 172-178
+phone: "+44 191 2242773"
+opening_hours: "Mo-Sa 09:00-17:30"
+website: "https://www.brighthouse.co.uk/"

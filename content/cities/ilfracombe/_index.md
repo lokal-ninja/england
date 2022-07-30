@@ -1,6 +1,6 @@
 ---
 title: Ilfracombe
 url: /ilfracombe/
-latitude: 51.209
-longitude: -4.121
+latitude: 51.206
+longitude: -4.126
 ---

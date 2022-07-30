@@ -1,5 +1,5 @@
 ---
 title: "Forbidden Planet International"
 url: /nottingham/forbidden-planet-international/
-shop: shop
+shop: collector
 ---

@@ -1,11 +1,11 @@
-id: 5262929740
-type: node
-latitude: 50.81249
-longitude: -0.37069
-postcode: "BN11 1EG"
+id: 91013402
+type: way
+latitude: 50.8284
+longitude: -0.37421
+postcode: "BN14 9DA"
 city: Worthing
-street: "Chapel Road"
-housenumber: 23-25
+street: "Broadwater Street West"
+housenumber: 2
 phone: ""
-opening_hours: "Mo-Su 06:00-23:00"
+opening_hours: ""
 website: ""

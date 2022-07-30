@@ -1,6 +1,6 @@
 ---
 title: Basingstoke
 url: /basingstoke/
-latitude: 51.257
-longitude: -1.124
+latitude: 51.266
+longitude: -1.043
 ---

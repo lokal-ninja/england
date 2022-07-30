@@ -1,6 +1,6 @@
 ---
 title: Bridgnorth
 url: /bridgnorth/
-latitude: 52.535
-longitude: -2.42
+latitude: 52.534
+longitude: -2.413
 ---

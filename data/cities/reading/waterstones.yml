@@ -1,11 +1,11 @@
-id: 1813661407
-type: node
-latitude: 51.4555
-longitude: -0.97375
+id: 368589445
+type: way
+latitude: 51.4551
+longitude: -0.97353
 postcode: "RG1 2AP"
 city: Reading
 street: "Broad Street"
 housenumber: 89a
 phone: "+44118 958 1270"
-opening_hours: "Mo-We,Fr,Sa 09:00-18:00; Th 09:00-19:00; Su 11:00-17:00"
+opening_hours: "Mo-Sa 09:00-18:00; Su 11:00-17:00"
 website: ""

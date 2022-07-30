@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /winsford/savers/
-shop: beauty
+shop: chemist
 ---
