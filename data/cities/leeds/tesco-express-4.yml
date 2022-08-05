@@ -1,11 +1,11 @@
-id: 1710489287
+id: 1674063403
 type: node
-latitude: 53.79787
-longitude: -1.55081
-postcode: "LS1 2JG"
+latitude: 53.79773
+longitude: -1.54624
+postcode: "LS1 5BQ"
 city: Leeds
-street: "St Paul's Street"
-housenumber: 15
+street: "Bond Street"
+housenumber: 
 phone: ""
-opening_hours: "Mo-Su 06:00-23:00"
+opening_hours: "Mo-Fr 06:00-00:00; Sa 06:00-22:00; Su 11:00-17:00"
 website: ""

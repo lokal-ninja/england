@@ -1,11 +1,11 @@
-id: 9109378739
-type: node
-latitude: 51.48886
-longitude: 0.02124
-postcode: "SE7 7TZ"
+id: 72140268
+type: way
+latitude: 51.51009
+longitude: -0.1219
+postcode: "WC2R 0DW"
 city: London
-street: "Peninsular Park Road"
-housenumber: 4
+street: "Strand"
+housenumber: 81
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 11:00-17:00"
-website: "https://ee.co.uk/stores/england/greater_london/charlton/ee_in_argos_-_charlton"
+opening_hours: ""
+website: ""

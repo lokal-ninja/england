@@ -1,11 +1,11 @@
-id: 110560369
-type: way
-latitude: 52.45191
-longitude: -1.8186
-postcode: "B27 6LL"
+id: 3574870520
+type: node
+latitude: 52.50337
+longitude: -1.89941
+postcode: "B19 1SU"
 city: Birmingham
-street: "Yardley Road"
-housenumber: 61;63
+street: ""
+housenumber: 
 phone: ""
-opening_hours: "Mo-Sa 06:00-23:00; Su 07:00-22:00"
+opening_hours: ""
 website: ""

@@ -1,5 +1,5 @@
 ---
-title: "OrganicO"
+title: "Organico"
 url: /london/organico-2/
-shop: supermarket
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Gregg's"
+title: "Greggs"
 url: /hitchin/greggs/
 shop: bakery
 ---

@@ -1,6 +1,6 @@
 ---
 title: Cirencester
 url: /cirencester/
-latitude: 51.716
-longitude: -1.965
+latitude: 51.713
+longitude: -1.969
 ---

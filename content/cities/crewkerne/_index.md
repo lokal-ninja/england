@@ -2,5 +2,5 @@
 title: Crewkerne
 url: /crewkerne/
 latitude: 50.884
-longitude: -2.794
+longitude: -2.796
 ---

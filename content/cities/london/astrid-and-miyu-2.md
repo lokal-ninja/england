@@ -1,5 +1,5 @@
 ---
 title: "Astrid & Miyu"
 url: /london/astrid-and-miyu-2/
-shop: shop
+shop: jewelry
 ---

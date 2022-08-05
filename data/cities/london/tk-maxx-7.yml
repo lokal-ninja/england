@@ -1,11 +1,11 @@
-id: 9095853616
-type: node
-latitude: 51.48909
-longitude: 0.0201
-postcode: "SE7 7TZ"
+id: 30962155
+type: way
+latitude: 51.55684
+longitude: -0.0065
+postcode: "E10 5NH"
 city: London
-street: "Peninsular Park Road"
-housenumber: 1A
+street: "Leyton Mills"
+housenumber: 
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00; Su 11:00-17:00"
-website: "https://www.tkmaxx.com/uk/en/"
+opening_hours: ""
+website: ""
