@@ -1,5 +1,5 @@
 ---
 title: "Dunelm"
 url: /sheffield/dunelm/
-shop: houseware
+shop: interior decoration
 ---

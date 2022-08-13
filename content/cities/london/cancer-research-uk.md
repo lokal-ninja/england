@@ -1,5 +1,5 @@
 ---
-title: "Cancer Research Uk"
+title: "Cancer Research UK"
 url: /london/cancer-research-uk/
-shop: clothes
+shop: charity
 ---

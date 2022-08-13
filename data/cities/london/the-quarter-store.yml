@@ -7,5 +7,5 @@ city: London
 street: "Mare Street"
 housenumber: 358
 phone: "+44 20 8510 0219"
-opening_hours: "Mo,Su off; Tu-Fr 09:00-19:00; Sa 10:00-19:00"
+opening_hours: "Mo-Tu,Su off; We-Fr 12:00-19:30; Sa 11:00-19:30"
 website: "https://thequarter.store/"

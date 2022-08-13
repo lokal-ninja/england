@@ -1,5 +1,5 @@
 ---
-title: "Martin's"
+title: "Martins"
 url: /norwich/martins/
-shop: convenience
+shop: hifi
 ---
