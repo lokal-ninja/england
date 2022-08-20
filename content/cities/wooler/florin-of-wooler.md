@@ -1,5 +1,5 @@
 ---
-title: "Florin Of Wooler"
+title: "Florin of Wooler"
 url: /wooler/florin-of-wooler/
 shop: antiques
 ---

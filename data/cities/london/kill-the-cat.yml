@@ -7,5 +7,5 @@ city: London
 street: "Brick Lane"
 housenumber: 43
 phone: "+44 20 3105 8194"
-opening_hours: "Tu 16:00-22:00; We 12:00-22:00; Th-Sa 12:00-23:00; Su 12:00-21:00"
+opening_hours: "Mo-We 16:00-22:00; Th-Sa 13:00-23:00; Su 13:00-21:00"
 website: "https://www.killthecat.co.uk/"

@@ -1,5 +1,5 @@
 ---
-title: "CEX"
+title: "CeX"
 url: /bishop-auckland/cex/
 shop: pawnbroker
 ---

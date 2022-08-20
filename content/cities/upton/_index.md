@@ -1,6 +1,6 @@
 ---
 title: Upton
 url: /upton/
-latitude: 53.383
-longitude: -3.099
+latitude: 50.739
+longitude: -2.03
 ---

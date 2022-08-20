@@ -1,6 +1,6 @@
 ---
 title: Shanklin
 url: /shanklin/
-latitude: 50.626
-longitude: -1.178
+latitude: 50.628
+longitude: -1.179
 ---

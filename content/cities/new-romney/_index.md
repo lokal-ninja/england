@@ -1,6 +1,6 @@
 ---
 title: New Romney
 url: /new-romney/
-latitude: 50.988
-longitude: 0.944
+latitude: 50.983
+longitude: 0.949
 ---
