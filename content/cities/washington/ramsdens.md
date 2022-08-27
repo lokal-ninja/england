@@ -1,5 +1,5 @@
 ---
 title: "Ramsdens"
 url: /washington/ramsdens/
-shop: shop
+shop: pawnbroker
 ---

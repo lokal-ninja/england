@@ -1,5 +1,5 @@
 ---
 title: "Bodycare"
 url: /washington/bodycare/
-shop: beauty
+shop: chemist
 ---

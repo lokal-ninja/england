@@ -1,6 +1,6 @@
 ---
 title: Hayes
 url: /hayes/
-latitude: 51.501
-longitude: -0.425
+latitude: 51.504
+longitude: -0.42
 ---

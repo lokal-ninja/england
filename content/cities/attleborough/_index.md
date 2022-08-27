@@ -1,6 +1,6 @@
 ---
 title: Attleborough
 url: /attleborough/
-latitude: 52.516
-longitude: 1.014
+latitude: 52.518
+longitude: 1.016
 ---
