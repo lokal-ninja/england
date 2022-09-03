@@ -1,11 +1,11 @@
-id: 682515461
-type: way
-latitude: 52.30319
-longitude: -1.52138
-postcode: "CV32 7AH"
+id: 1577876735
+type: node
+latitude: 52.29256
+longitude: -1.53617
+postcode: "CV32 4DN"
 city: Leamington Spa
-street: "Cubbington Road"
-housenumber: 
+street: "Parade"
+housenumber: 22-24
 phone: ""
-opening_hours: "Mo-Su 06:00-23:00"
+opening_hours: "Mo-Fr 06:00-23:00; Sa 06:00-22:00; Su 10:00-16:00"
 website: ""

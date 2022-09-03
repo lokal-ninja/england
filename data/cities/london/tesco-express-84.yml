@@ -1,11 +1,11 @@
-id: 36771814
-type: way
-latitude: 51.53209
-longitude: -0.12137
-postcode: "N1 9DX"
+id: 9284011630
+type: node
+latitude: 51.60214
+longitude: -0.05438
+postcode: "N17 0HY"
 city: London
-street: "Caledonian Road"
-housenumber: 21
-phone: "+44 345 6779821"
-opening_hours: "Mo-Sa 06:00-23:00; Su 12:00-18:00"
+street: "Park Lane"
+housenumber: 220
+phone: ""
+opening_hours: "Mo-Su 06:00-23:00"
 website: ""

@@ -1,11 +1,11 @@
-id: 1151327597
+id: 698983593
 type: node
-latitude: 51.63325
-longitude: -0.09379
-postcode: "N21 2SA"
+latitude: 51.5135
+longitude: -0.11213
+postcode: "WC2R 1DA"
 city: London
-street: "Green Lanes"
-housenumber: 810
-phone: ""
-opening_hours: ""
-website: "https://www.tesco.com/store-locator/london/810-green-lanes"
+street: "Strand"
+housenumber: 231,232
+phone: "+44 345 671 9506"
+opening_hours: "Mo-Fr 06:00-23:00; Sa-Su 07:00-23:00"
+website: ""

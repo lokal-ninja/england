@@ -1,5 +1,5 @@
 ---
 title: "News on the Street"
 url: /bishop-auckland/news-on-the-street/
-shop: newsagent
+shop: convenience
 ---

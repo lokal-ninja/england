@@ -1,11 +1,11 @@
-id: 2482679705
+id: 2005041773
 type: node
-latitude: 51.52579
-longitude: -0.09659
-postcode: "EC1V 3AF"
+latitude: 51.52279
+longitude: -0.087
+postcode: "EC1Y 1AG"
 city: London
-street: "Central Street"
-housenumber: 55
-phone: "+44 345 610 2691"
-opening_hours: "Mo-Su 07:00-23:00"
+street: "City Road"
+housenumber: 21
+phone: ""
+opening_hours: "Mo-Fr 06:00-23:00; Sa,Su 07:00-23:00"
 website: ""

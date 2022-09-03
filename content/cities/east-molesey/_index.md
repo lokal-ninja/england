@@ -1,6 +1,6 @@
 ---
 title: East Molesey
 url: /east-molesey/
-latitude: 51.402
-longitude: -0.345
+latitude: 51.4
+longitude: -0.355
 ---

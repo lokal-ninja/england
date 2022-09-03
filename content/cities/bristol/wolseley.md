@@ -1,5 +1,5 @@
 ---
 title: "Wolseley"
 url: /bristol/wolseley/
-shop: shop
+shop: trade
 ---

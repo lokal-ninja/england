@@ -1,5 +1,5 @@
 ---
-title: "Claire's"
+title: "claire's"
 url: /st-albans/claires/
-shop: beauty
+shop: boutique
 ---
