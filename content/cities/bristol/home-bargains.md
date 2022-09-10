@@ -1,5 +1,5 @@
 ---
 title: "Home Bargains"
 url: /bristol/home-bargains/
-shop: supermarket
+shop: variety store
 ---

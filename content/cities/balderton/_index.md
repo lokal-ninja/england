@@ -1,6 +1,6 @@
 ---
 title: Balderton
 url: /balderton/
-latitude: 53.054
-longitude: -0.784
+latitude: 53.062
+longitude: -0.789
 ---
