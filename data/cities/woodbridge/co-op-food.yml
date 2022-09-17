@@ -1,11 +1,11 @@
-id: 7995375625
-type: node
-latitude: 52.0932
-longitude: 1.3202
-postcode: "IP12 1DE"
+id: 464624610
+type: way
+latitude: 52.1511
+longitude: 1.36292
+postcode: "IP13 0HE"
 city: Woodbridge
-street: "Hamblin Walk"
-housenumber: 3
+street: "High Street"
+housenumber: 14-18
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00, Su 10:00-16:00"
-website: "https://www.eastofengland.coop/supermarket/hamblin-walk-woodbridge"
+opening_hours: "Mo-Sa 07:00-21:00; Su 10:00-16:00"
+website: ""

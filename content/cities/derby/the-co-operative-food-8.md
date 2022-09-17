@@ -1,5 +1,5 @@
 ---
 title: "The Co-operative Food"
 url: /derby/the-co-operative-food-8/
-shop: supermarket
+shop: convenience
 ---

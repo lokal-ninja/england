@@ -1,6 +1,6 @@
 ---
 title: Hadleigh
 url: /hadleigh/
-latitude: 52.043
-longitude: 0.954
+latitude: 51.552
+longitude: 0.612
 ---

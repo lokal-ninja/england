@@ -1,6 +1,6 @@
 ---
 title: Oldham
 url: /oldham/
-latitude: 53.559
-longitude: -2.139
+latitude: 53.54
+longitude: -2.112
 ---
