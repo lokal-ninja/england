@@ -1,5 +1,5 @@
 ---
 title: "SBS Printing"
 url: /london/sbs-printing/
-shop: copyshop
+shop: craft
 ---

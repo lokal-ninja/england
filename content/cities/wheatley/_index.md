@@ -1,6 +1,6 @@
 ---
 title: Wheatley
 url: /wheatley/
-latitude: 51.747
-longitude: -1.139
+latitude: 51.748
+longitude: -1.14
 ---

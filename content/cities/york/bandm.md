@@ -1,5 +1,5 @@
 ---
 title: "B&M"
 url: /york/bandm/
-shop: garden centre
+shop: variety store
 ---
