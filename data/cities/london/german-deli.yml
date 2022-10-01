@@ -1,11 +1,11 @@
-id: 82770864
-type: way
-latitude: 51.50532
-longitude: -0.09158
-postcode: "SE1 9AB"
+id: 10050490670
+type: node
+latitude: 51.59007
+longitude: -0.0412
+postcode: "E17 6AL"
 city: London
-street: "Park Street"
-housenumber: 3
-phone: ""
-opening_hours: ""
+street: "Priestley Way"
+housenumber: 
+phone: "+44 20 8985 8000"
+opening_hours: "Mo-Su 11:00-15:00"
 website: "https://germandeli.co.uk/"

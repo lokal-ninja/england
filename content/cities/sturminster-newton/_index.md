@@ -1,6 +1,6 @@
 ---
 title: Sturminster Newton
 url: /sturminster-newton/
-latitude: 50.927
-longitude: -2.303
+latitude: 50.926
+longitude: -2.305
 ---

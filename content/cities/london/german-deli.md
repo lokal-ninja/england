@@ -1,5 +1,5 @@
 ---
 title: "German Deli"
 url: /london/german-deli/
-shop: deli
+shop: wholesale
 ---

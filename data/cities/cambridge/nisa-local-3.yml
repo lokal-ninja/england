@@ -1,11 +1,11 @@
-id: 8374528130
-type: node
-latitude: 52.17313
-longitude: 0.12237
-postcode: "CB2 9FN"
+id: 199514908
+type: way
+latitude: 52.19337
+longitude: 0.18198
+postcode: "CB1 9GP"
 city: Cambridge
-street: "Hobson Square"
-housenumber: 
+street: "Capuchin Court"
+housenumber: 1
 phone: ""
-opening_hours: "Mo-Fr 07:00-22:00, Su 08:00-20:00"
+opening_hours: ""
 website: ""
