@@ -1,5 +1,5 @@
 ---
 title: "Papersmiths"
 url: /london/papersmiths-2/
-shop: shop
+shop: office supplies
 ---

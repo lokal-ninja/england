@@ -1,6 +1,6 @@
 ---
 title: Rawtenstall
 url: /rawtenstall/
-latitude: 53.703
-longitude: -2.288
+latitude: 53.704
+longitude: -2.286
 ---

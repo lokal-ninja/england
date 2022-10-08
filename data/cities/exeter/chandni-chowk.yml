@@ -1,11 +1,11 @@
-id: 287278424
-type: way
-latitude: 50.72336
-longitude: -3.53162
+id: 10080425228
+type: node
+latitude: 50.72335
+longitude: -3.53166
 postcode: "EX4 3EB"
 city: Exeter
 street: "High Street"
-housenumber: 202
+housenumber: 204
 phone: ""
-opening_hours: "Mo-Su 10:00-17:00"
+opening_hours: "Mo-Sa 10:00-17:00"
 website: ""

@@ -1,6 +1,6 @@
 ---
 title: Lowestoft
 url: /lowestoft/
-latitude: 52.478
-longitude: 1.754
+latitude: 52.463
+longitude: 1.717
 ---

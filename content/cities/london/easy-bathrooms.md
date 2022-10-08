@@ -1,5 +1,5 @@
 ---
-title: "Easy Bathroom's"
+title: "Easy Bathrooms"
 url: /london/easy-bathrooms/
 shop: bathroom
 ---

@@ -1,11 +1,11 @@
-id: 287277090
-type: way
-latitude: 50.72356
-longitude: -3.53179
+id: 10080425225
+type: node
+latitude: 50.72346
+longitude: -3.53147
 postcode: "EX4 3EB"
 city: Exeter
 street: "High Street"
 housenumber: 207
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Sa 09:00-17:30; Su 11:00-16:00"
+website: "https://www.whitestuff.com/shop/white-stuff-exeter/"
