@@ -1,6 +1,6 @@
 ---
 title: Wickford
 url: /wickford/
-latitude: 51.604
-longitude: 0.521
+latitude: 51.615
+longitude: 0.519
 ---

@@ -1,11 +1,11 @@
-id: 1011408803
-type: way
-latitude: 51.46291
-longitude: -0.21557
-postcode: "SW15 1SS"
+id: 10095832998
+type: node
+latitude: 51.49111
+longitude: 0.0671
+postcode: "SE18 6HZ"
 city: London
-street: "Putney High Street"
-housenumber: 103
+street: "Powis Street"
+housenumber: 35
 phone: ""
-opening_hours: "Mo-Sa 09:00-18:00; Su 11:00-17:00"
+opening_hours: ""
 website: ""

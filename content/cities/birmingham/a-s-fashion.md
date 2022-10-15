@@ -1,5 +1,5 @@
 ---
-title: "A S  Fashion"
+title: "A S Fashion"
 url: /birmingham/a-s-fashion/
 shop: clothes
 ---

@@ -1,11 +1,11 @@
-id: 230342291
-type: way
-latitude: 51.52041
-longitude: -0.13445
-postcode: "W1T 2HB"
+id: 10095833225
+type: node
+latitude: 51.492
+longitude: 0.06489
+postcode: "SE18 6LQ"
 city: London
-street: "Tottenham Court Road"
-housenumber: 70
+street: "Powis Street"
+housenumber: 104
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00; Su 10:30-16:30"
+opening_hours: ""
 website: ""
