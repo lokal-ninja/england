@@ -1,6 +1,6 @@
 ---
 title: Grantham
 url: /grantham/
-latitude: 52.795
-longitude: -0.699
+latitude: 52.926
+longitude: -0.657
 ---

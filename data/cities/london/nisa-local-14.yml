@@ -1,11 +1,11 @@
-id: 8499555891
-type: node
-latitude: 51.51171
-longitude: 0.025
-postcode: "E16 3PJ"
+id: 146372916
+type: way
+latitude: 51.53041
+longitude: -0.12177
+postcode: "WC1X 8PX"
 city: London
-street: "Freemasons Road"
-housenumber: 53
+street: "Gray's Inn Road"
+housenumber: 335-337
 phone: ""
-opening_hours: "Mo-Sa 08:00-18:00; Su 09:00-13:00"
+opening_hours: ""
 website: ""

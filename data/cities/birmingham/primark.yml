@@ -1,11 +1,11 @@
-id: 97238830
-type: way
-latitude: 52.47875
-longitude: -1.8948
-postcode: "B4 7SL"
+id: 4021756435
+type: node
+latitude: 52.50846
+longitude: -1.8214
+postcode: "B24 9FP"
 city: Birmingham
-street: "High Street"
-housenumber: 38
-phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su 11:00-17:00"
-website: "https://www.primark.com/en-gb/stores/birmingham/38-high-street"
+street: "Fort Parkway"
+housenumber: Primark Birmingham Fort Parkway
+phone: "+441213847865"
+opening_hours: ""
+website: "https://www.primark.com/en-gb"

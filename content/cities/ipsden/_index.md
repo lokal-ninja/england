@@ -1,6 +1,6 @@
 ---
 title: Ipsden
 url: /ipsden/
-latitude: 51.556
-longitude: -1.061
+latitude: 51.563
+longitude: -1.083
 ---
