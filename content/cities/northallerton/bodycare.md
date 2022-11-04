@@ -1,5 +1,5 @@
 ---
 title: "Bodycare"
 url: /northallerton/bodycare/
-shop: beauty
+shop: chemist
 ---

@@ -1,6 +1,6 @@
 ---
 title: Barnstaple
 url: /barnstaple/
-latitude: 51.081
-longitude: -4.055
+latitude: 51.086
+longitude: -4.077
 ---

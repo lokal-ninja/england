@@ -1,6 +1,6 @@
 ---
 title: Welling
 url: /welling/
-latitude: 51.469
-longitude: 0.097
+latitude: 51.462
+longitude: 0.109
 ---

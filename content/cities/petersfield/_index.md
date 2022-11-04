@@ -1,6 +1,6 @@
 ---
 title: Petersfield
 url: /petersfield/
-latitude: 51.034
-longitude: -0.982
+latitude: 51.006
+longitude: -0.926
 ---

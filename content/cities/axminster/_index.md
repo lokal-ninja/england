@@ -1,6 +1,6 @@
 ---
 title: Axminster
 url: /axminster/
-latitude: 50.782
-longitude: -3.002
+latitude: 50.781
+longitude: -2.998
 ---

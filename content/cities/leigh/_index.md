@@ -1,6 +1,6 @@
 ---
 title: Leigh
 url: /leigh/
-latitude: 53.498
-longitude: -2.535
+latitude: 53.499
+longitude: -2.528
 ---

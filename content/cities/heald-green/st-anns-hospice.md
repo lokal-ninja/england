@@ -1,5 +1,5 @@
 ---
-title: "St Ann's hospice"
+title: "St Ann's Hospice"
 url: /heald-green/st-anns-hospice/
 shop: charity
 ---
