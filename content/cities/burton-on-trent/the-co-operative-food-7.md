@@ -1,5 +1,5 @@
 ---
-title: "The Co-operative Food"
+title: "The Co-operative food"
 url: /burton-on-trent/the-co-operative-food-7/
-shop: supermarket
+shop: convenience
 ---

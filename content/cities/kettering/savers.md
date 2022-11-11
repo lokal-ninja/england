@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /kettering/savers/
-shop: beauty
+shop: chemist
 ---

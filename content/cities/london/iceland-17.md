@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /london/iceland-17/
-shop: supermarket
+shop: frozen food
 ---
