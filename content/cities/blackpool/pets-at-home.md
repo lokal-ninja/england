@@ -1,5 +1,5 @@
 ---
-title: "Pets At Home"
+title: "Pets at Home"
 url: /blackpool/pets-at-home/
 shop: pet
 ---

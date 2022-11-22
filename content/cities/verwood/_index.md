@@ -1,6 +1,6 @@
 ---
 title: Verwood
 url: /verwood/
-latitude: 50.879
-longitude: -1.867
+latitude: 50.881
+longitude: -1.879
 ---

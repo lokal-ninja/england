@@ -1,6 +1,6 @@
 ---
 title: Blofield
 url: /blofield/
-latitude: 52.634
-longitude: 1.448
+latitude: 52.636
+longitude: 1.458
 ---
