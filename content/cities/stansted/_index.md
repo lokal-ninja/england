@@ -1,6 +1,6 @@
 ---
 title: Stansted
 url: /stansted/
-latitude: 51.891
-longitude: 0.264
+latitude: 51.89
+longitude: 0.261
 ---
