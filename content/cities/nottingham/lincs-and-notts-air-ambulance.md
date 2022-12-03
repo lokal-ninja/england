@@ -1,5 +1,5 @@
 ---
-title: "Lincs & Notts Air Ambulance"
+title: "Lincs and Notts Air Ambulance"
 url: /nottingham/lincs-and-notts-air-ambulance/
 shop: charity
 ---

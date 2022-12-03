@@ -1,11 +1,11 @@
-id: 206006970
-type: way
-latitude: 51.06914
-longitude: -1.31842
-postcode: "SO23 7BT"
+id: 10226029450
+type: node
+latitude: 51.06252
+longitude: -1.31376
+postcode: "SO23 9AS"
 city: Winchester
-street: "Andover Road"
-housenumber: 
-phone: ""
-opening_hours: "PH,Mo-Su 06:00-12:00"
+street: "High Street"
+housenumber: 121
+phone: "0345 610 6769"
+opening_hours: "Mon - Sun 6am - 10pm"
 website: ""
