@@ -1,5 +1,5 @@
 ---
 title: "Rituals"
 url: /norwich/rituals/
-shop: perfumery
+shop: beauty
 ---
