@@ -1,5 +1,5 @@
 ---
-title: "Ananths Store"
+title: "Ananth's Store"
 url: /hartlepool/ananths-store/
 shop: convenience
 ---

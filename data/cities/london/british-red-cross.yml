@@ -1,11 +1,11 @@
-id: 374114302
-type: way
-latitude: 51.42452
-longitude: -0.21628
-postcode: "SW19 5DX"
+id: 10253435796
+type: node
+latitude: 51.47688
+longitude: 0.01848
+postcode: "SE3 7JQ"
 city: London
-street: "High Street"
-housenumber: 11
-phone: ""
-opening_hours: "Mo-Sa 09:30-17:30"
-website: "https://www.redcross.org.uk/en/Where-we-work/In-the-UK/Southern-England/London/LocalServices/Shop/?dpid=98638385-2aab-4c76-b7b7-a5c7e2281cc9"
+street: "Vanbrugh Park"
+housenumber: 46
+phone: "+44 20 8293 0538"
+opening_hours: "Mo-Sa 09:30-17:30; Su 11:00-16:00"
+website: "https://www.redcross.org.uk/shop/find-a-charity-shop/greenwich"

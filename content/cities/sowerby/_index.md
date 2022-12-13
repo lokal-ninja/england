@@ -1,6 +1,6 @@
 ---
 title: Sowerby
 url: /sowerby/
-latitude: 54.219
-longitude: -1.352
+latitude: 54.22
+longitude: -1.35
 ---
