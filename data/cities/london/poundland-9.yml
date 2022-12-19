@@ -1,11 +1,11 @@
-id: 159853551
-type: way
-latitude: 51.58465
-longitude: -0.0212
-postcode: "E17 7BH"
+id: 10126844259
+type: node
+latitude: 51.59466
+longitude: -0.06906
+postcode: "N17 9SX"
 city: London
-street: "High Street"
-housenumber: 259
+street: "High Road"
+housenumber: 530-536
 phone: ""
-opening_hours: "Mo-Sa 09:00-18:00; Su 11:00-17:00"
+opening_hours: ""
 website: ""
