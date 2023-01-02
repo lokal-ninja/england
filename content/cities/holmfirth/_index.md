@@ -1,6 +1,6 @@
 ---
 title: Holmfirth
 url: /holmfirth/
-latitude: 53.561
-longitude: -1.811
+latitude: 53.604
+longitude: -1.788
 ---

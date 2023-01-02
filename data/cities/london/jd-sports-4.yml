@@ -1,11 +1,11 @@
-id: 105467202
-type: way
-latitude: 51.5379
-longitude: -0.19319
-postcode: "NW6 4HJ"
+id: 10095833005
+type: node
+latitude: 51.49139
+longitude: 0.06691
+postcode: "SE18 6LQ"
 city: London
-street: "Kilburn High Road"
-housenumber: 58
+street: "Powis Street"
+housenumber: 44-48
 phone: ""
-opening_hours: "Mo-Sa 09:00-18:00; Su 11:00-17:00"
+opening_hours: ""
 website: ""
