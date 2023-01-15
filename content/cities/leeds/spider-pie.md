@@ -1,5 +1,5 @@
 ---
 title: "Spider Pie"
 url: /leeds/spider-pie/
-shop: toys
+shop: vacant
 ---

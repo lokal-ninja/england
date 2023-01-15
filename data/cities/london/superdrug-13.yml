@@ -1,11 +1,11 @@
-id: 172292293
-type: way
-latitude: 51.51752
-longitude: 0.07928
-postcode: "E6 7ER"
+id: 10541908730
+type: node
+latitude: 51.54673
+longitude: 0.02531
+postcode: "E7 9HA"
 city: London
-street: "Armada Way"
-housenumber: 3
+street: "Romford Road"
+housenumber: 329
 phone: ""
-opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-20:00; Su 11:00-17:00"
+opening_hours: ""
 website: ""

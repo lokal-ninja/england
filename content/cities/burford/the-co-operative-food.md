@@ -1,5 +1,5 @@
 ---
-title: "The co-operative food"
+title: "The Co-operative Food"
 url: /burford/the-co-operative-food/
-shop: supermarket
+shop: convenience
 ---

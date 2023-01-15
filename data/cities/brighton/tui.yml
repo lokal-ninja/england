@@ -1,11 +1,11 @@
-id: 345998980
-type: way
-latitude: 50.8238
-longitude: -0.14269
-postcode: "BN1 1RG"
+id: 10313632542
+type: node
+latitude: 50.82339
+longitude: -0.14282
+postcode: "BN1 1SQ"
 city: Brighton
 street: "North Street"
-housenumber: 131-132
+housenumber: 58
 phone: ""
-opening_hours: "Mo 09:00-17:30; Tu 09:00-17:30; We-Sa 09:00-17:30; Su 11:00-17:00"
+opening_hours: "Mo-Th,Sa 09:00-17:30; Fr 09:30-17:30; Su 11:00-17:00"
 website: ""

@@ -1,5 +1,5 @@
 ---
-title: "Cornell And Varley"
+title: "Cornell & Varley"
 url: /purley/cornell-and-varley/
-shop: garden centre
+shop: hardware
 ---

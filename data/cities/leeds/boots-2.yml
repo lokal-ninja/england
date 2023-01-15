@@ -1,11 +1,11 @@
 id: 3286373980
 type: node
-latitude: 53.79506
+latitude: 53.79507
 longitude: -1.54778
 postcode: "LS1 4DT"
 city: Leeds
 street: "New Station Street"
 housenumber: 
 phone: ""
-opening_hours: "Mo-Fr 06:00-24:00; Sa 07:00-24:00; Su 09:00-24:00"
-website: ""
+opening_hours: "Mo-Fr 06:30-22:00; Sa 07:00-22:00; Su 09:00-22:00"
+website: "https://www.boots.com/stores/502-leeds-city-station-ls1-4dt"

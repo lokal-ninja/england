@@ -1,5 +1,5 @@
 ---
 title: "Leaf"
 url: /derby/leaf/
-shop: gift
+shop: vacant
 ---

@@ -1,11 +1,11 @@
-id: 23507206
-type: way
-latitude: 51.55419
-longitude: -0.2565
-postcode: "NW10 0TL"
+id: 9533980490
+type: node
+latitude: 51.42491
+longitude: -0.13162
+postcode: "SW16 6HP"
 city: London
-street: "Great Central Way"
-housenumber: 
+street: "Streatham High Road"
+housenumber: 384
 phone: ""
-opening_hours: "Mo-Sa 00:00-00:00; Su 11:00-17:00; PH open"
+opening_hours: ""
 website: ""
