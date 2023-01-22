@@ -1,6 +1,6 @@
 ---
 title: Borehamwood
 url: /borehamwood/
-latitude: 51.644
-longitude: -0.256
+latitude: 51.661
+longitude: -0.26
 ---

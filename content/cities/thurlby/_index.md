@@ -1,6 +1,6 @@
 ---
 title: Thurlby
 url: /thurlby/
-latitude: 52.725
-longitude: -0.363
+latitude: 52.739
+longitude: -0.38
 ---

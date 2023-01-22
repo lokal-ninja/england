@@ -7,5 +7,5 @@ city: Exeter
 street: "Fore Street"
 housenumber: 151-152
 phone: ""
-opening_hours: "Mo,Tu 11:00-15:00; We-Fr 11:00-16:00; Sa 10:30-16:30; Su 11:45-15:00"
+opening_hours: "Mo,We,Fr 11:00-15:00; Tu,Th,Su off; Sa 11:00-16:00"
 website: "https://frocksinswingtime.com/"

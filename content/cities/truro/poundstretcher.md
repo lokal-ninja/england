@@ -1,5 +1,5 @@
 ---
 title: "Poundstretcher"
 url: /truro/poundstretcher/
-shop: houseware
+shop: variety store
 ---

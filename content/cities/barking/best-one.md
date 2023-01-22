@@ -1,5 +1,5 @@
 ---
-title: "best-one"
+title: "Best-one"
 url: /barking/best-one/
 shop: convenience
 ---
