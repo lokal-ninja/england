@@ -1,5 +1,5 @@
 ---
 title: "ATS Euromaster"
 url: /lymington/ats-euromaster/
-shop: tyres
+shop: car repair
 ---

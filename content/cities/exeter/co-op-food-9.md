@@ -1,5 +1,5 @@
 ---
 title: "Co-op Food"
 url: /exeter/co-op-food-9/
-shop: supermarket
+shop: convenience
 ---

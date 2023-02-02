@@ -1,5 +1,5 @@
 ---
 title: "Porter Brook Deli"
 url: /sheffield/porter-brook-deli/
-shop: convenience
+shop: deli
 ---

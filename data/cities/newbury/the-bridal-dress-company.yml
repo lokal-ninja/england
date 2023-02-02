@@ -7,5 +7,5 @@ city: Newbury
 street: "Mansion House Street"
 housenumber: 4
 phone: "+447833126758"
-opening_hours: "Mo-Tu Closed, Weds-Sat 9am-5pm, Sun 10am-4pm"
+opening_hours: "Mo,Tu off; We-Sa 09:00-17:00; Su 10:00-16:00"
 website: "https://www.thebridaldresscompany.com/"
