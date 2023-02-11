@@ -1,5 +1,5 @@
 ---
 title: "Radley London"
-url: /portsmouth/radley-london-2/
+url: /portsmouth/radley-london/
 shop: boutique
 ---

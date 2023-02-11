@@ -1,5 +1,5 @@
 ---
 title: "Al-Noor"
-url: /peterborough/al-noor-2/
+url: /peterborough/al-noor/
 shop: convenience
 ---

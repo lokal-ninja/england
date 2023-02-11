@@ -1,5 +1,5 @@
 ---
 title: "Farmfoods"
-url: /derby/farmfoods-2/
+url: /derby/farmfoods/
 shop: frozen food
 ---

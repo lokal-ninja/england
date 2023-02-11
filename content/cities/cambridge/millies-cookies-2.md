@@ -1,5 +1,5 @@
 ---
 title: "Millies Cookies"
-url: /cambridge/millies-cookies-2/
+url: /cambridge/millies-cookies/
 shop: confectionery
 ---

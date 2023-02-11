@@ -1,5 +1,5 @@
 ---
 title: "Toolstation"
-url: /derby/toolstation-2/
+url: /derby/toolstation/
 shop: doityourself
 ---

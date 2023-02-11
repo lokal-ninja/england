@@ -1,5 +1,5 @@
 ---
 title: "Lola's Cupcakes"
 url: /london/lolas-cupcakes/
-shop: bakery
+shop: pastry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "selco builders warehouse"
-url: /bristol/selco-builders-warehouse-2/
+url: /bristol/selco-builders-warehouse/
 shop: doityourself
 ---

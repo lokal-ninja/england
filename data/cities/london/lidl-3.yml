@@ -1,11 +1,11 @@
-id: 610453006
-type: node
-latitude: 51.50322
-longitude: -0.21858
-postcode: "W12 8PP"
+id: 621494462
+type: way
+latitude: 51.47264
+longitude: -0.09326
+postcode: ""
 city: London
 street: ""
-housenumber: 114-125
+housenumber: 
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00; Su 11:00-17:00"
+opening_hours: ""
 website: ""

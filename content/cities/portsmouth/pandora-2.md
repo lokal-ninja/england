@@ -1,5 +1,5 @@
 ---
 title: "Pandora"
-url: /portsmouth/pandora-2/
+url: /portsmouth/pandora/
 shop: jewelry
 ---

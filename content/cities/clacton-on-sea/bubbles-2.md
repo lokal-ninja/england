@@ -1,5 +1,5 @@
 ---
 title: "Bubbles"
-url: /clacton-on-sea/bubbles-2/
+url: /clacton-on-sea/bubbles/
 shop: hairdresser
 ---

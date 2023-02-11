@@ -1,5 +1,5 @@
 ---
 title: "Kiehl's"
-url: /london/kiehls-2/
+url: /london/kiehls/
 shop: beauty
 ---

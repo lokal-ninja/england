@@ -1,5 +1,5 @@
 ---
 title: "The Range"
-url: /norwich/the-range-2/
+url: /norwich/the-range/
 shop: shop
 ---

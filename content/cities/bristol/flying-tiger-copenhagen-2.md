@@ -1,5 +1,5 @@
 ---
 title: "Flying Tiger Copenhagen"
-url: /bristol/flying-tiger-copenhagen-2/
+url: /bristol/flying-tiger-copenhagen/
 shop: variety store
 ---

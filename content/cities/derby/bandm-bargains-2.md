@@ -1,5 +1,5 @@
 ---
 title: "B&M Bargains"
-url: /derby/bandm-bargains-2/
+url: /derby/bandm-bargains/
 shop: variety store
 ---

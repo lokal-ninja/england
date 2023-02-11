@@ -1,5 +1,5 @@
 ---
 title: "William Hill"
-url: /bristol/william-hill-3/
+url: /bristol/william-hill/
 shop: bookmaker
 ---

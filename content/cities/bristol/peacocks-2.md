@@ -1,5 +1,5 @@
 ---
 title: "Peacocks"
-url: /bristol/peacocks-2/
+url: /bristol/peacocks/
 shop: clothes
 ---

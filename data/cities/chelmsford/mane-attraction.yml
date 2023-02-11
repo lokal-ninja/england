@@ -7,5 +7,5 @@ city: Chelmsford
 street: "Wood Street"
 housenumber: 
 phone: "+44 1245 268683"
-opening_hours: "Mon: Closed Tues: 9:30am - 5:30pm Wed: 9:30am - 5:30pm Thurs: 9:30am - 8:00pm Friday: 9:30am - 5:30pm Sat: 9:00am - 4:00pm Sun: Closed"
+opening_hours: "Mo,Su off; Tu,We,Fr 09:30-17:30; Th 09:30-20:00; Sa 09:00-16:00"
 website: "https://www.maneattractionhair.co.uk/"

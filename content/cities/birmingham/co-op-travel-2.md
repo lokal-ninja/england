@@ -1,5 +1,5 @@
 ---
 title: "Co-op Travel"
-url: /birmingham/co-op-travel-2/
+url: /birmingham/co-op-travel/
 shop: travel agency
 ---

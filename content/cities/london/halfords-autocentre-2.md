@@ -1,5 +1,5 @@
 ---
 title: "Halfords Autocentre"
-url: /london/halfords-autocentre-2/
+url: /london/halfords-autocentre/
 shop: car repair
 ---

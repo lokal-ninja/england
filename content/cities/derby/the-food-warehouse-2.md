@@ -1,5 +1,5 @@
 ---
 title: "The Food Warehouse"
-url: /derby/the-food-warehouse-2/
+url: /derby/the-food-warehouse/
 shop: supermarket
 ---

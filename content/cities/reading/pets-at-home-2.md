@@ -1,5 +1,5 @@
 ---
 title: "Pets At Home"
-url: /reading/pets-at-home-2/
+url: /reading/pets-at-home/
 shop: pet
 ---

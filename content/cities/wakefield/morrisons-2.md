@@ -1,5 +1,5 @@
 ---
 title: "Morrisons"
-url: /wakefield/morrisons-2/
+url: /wakefield/morrisons/
 shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CLIC Sargent"
-url: /bristol/clic-sargent-2/
+url: /bristol/clic-sargent/
 shop: charity
 ---

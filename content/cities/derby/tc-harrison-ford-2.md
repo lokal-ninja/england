@@ -1,5 +1,5 @@
 ---
 title: "TC Harrison Ford"
-url: /derby/tc-harrison-ford-2/
+url: /derby/tc-harrison-ford/
 shop: car
 ---

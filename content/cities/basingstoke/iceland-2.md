@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
-url: /basingstoke/iceland-2/
+url: /basingstoke/iceland/
 shop: frozen food
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Perfume Shop"
-url: /derby/the-perfume-shop-2/
+url: /derby/the-perfume-shop/
 shop: perfumery
 ---

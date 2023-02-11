@@ -1,5 +1,5 @@
 ---
 title: "Timpson"
-url: /exeter/timpson-2/
+url: /exeter/timpson/
 shop: locksmith
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gekko"
-url: /london/gekko-2/
+url: /london/gekko/
 shop: clothes
 ---

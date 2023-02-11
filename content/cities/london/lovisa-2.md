@@ -1,5 +1,5 @@
 ---
 title: "Lovisa"
-url: /london/lovisa-2/
+url: /london/lovisa/
 shop: shop
 ---

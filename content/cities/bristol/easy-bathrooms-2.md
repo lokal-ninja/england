@@ -1,5 +1,5 @@
 ---
 title: "Easy Bathrooms"
-url: /bristol/easy-bathrooms-2/
+url: /bristol/easy-bathrooms/
 shop: interior decoration
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /eastleigh/iceland/
-shop: supermarket
+shop: frozen food
 ---

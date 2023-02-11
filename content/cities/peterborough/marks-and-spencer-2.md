@@ -1,5 +1,5 @@
 ---
 title: "Marks & Spencer"
-url: /peterborough/marks-and-spencer-2/
+url: /peterborough/marks-and-spencer/
 shop: department store
 ---

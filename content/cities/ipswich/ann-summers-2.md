@@ -1,5 +1,5 @@
 ---
 title: "Ann Summers"
-url: /ipswich/ann-summers-2/
+url: /ipswich/ann-summers/
 shop: clothes
 ---

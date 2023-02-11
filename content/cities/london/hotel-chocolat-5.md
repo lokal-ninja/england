@@ -1,5 +1,5 @@
 ---
 title: "Hotel Chocolat"
-url: /london/hotel-chocolat-5/
+url: /london/hotel-chocolat/
 shop: confectionery
 ---

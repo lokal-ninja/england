@@ -1,5 +1,5 @@
 ---
 title: "claire's"
-url: /norwich/claires-2/
+url: /norwich/claires/
 shop: boutique
 ---

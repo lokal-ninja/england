@@ -1,5 +1,5 @@
 ---
 title: "MAX Spielman"
-url: /derby/max-spielman-2/
+url: /derby/max-spielman/
 shop: photo
 ---

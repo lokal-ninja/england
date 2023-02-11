@@ -1,11 +1,11 @@
-id: 4683826101
-type: node
-latitude: 51.51601
-longitude: -0.10804
-postcode: "EC4A 3BN"
+id: 416601715
+type: way
+latitude: 51.53138
+longitude: -0.12477
+postcode: ""
 city: London
-street: "Great New Street"
-housenumber: 10-11
+street: ""
+housenumber: 
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 07:30-21:00, Sa,Su 09:30-20:00"
 website: ""

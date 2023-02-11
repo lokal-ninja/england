@@ -1,5 +1,5 @@
 ---
 title: "Coral"
-url: /bristol/coral-3/
+url: /bristol/coral/
 shop: bookmaker
 ---

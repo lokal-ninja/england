@@ -1,5 +1,5 @@
 ---
 title: "TUI"
-url: /york/tui-2/
+url: /york/tui/
 shop: travel agency
 ---

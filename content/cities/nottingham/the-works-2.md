@@ -1,5 +1,5 @@
 ---
 title: "The Works"
-url: /nottingham/the-works-2/
+url: /nottingham/the-works/
 shop: office supplies
 ---

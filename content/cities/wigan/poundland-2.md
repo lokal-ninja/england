@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
-url: /wigan/poundland-2/
+url: /wigan/poundland/
 shop: variety store
 ---

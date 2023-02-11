@@ -1,5 +1,5 @@
 ---
 title: "Home Bargains"
-url: /scunthorpe/home-bargains-2/
+url: /scunthorpe/home-bargains/
 shop: variety store
 ---

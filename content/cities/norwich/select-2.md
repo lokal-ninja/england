@@ -1,5 +1,5 @@
 ---
 title: "Select"
-url: /norwich/select-2/
+url: /norwich/select/
 shop: clothes
 ---

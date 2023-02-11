@@ -1,5 +1,5 @@
 ---
 title: "BP"
-url: /warwick/bp-2/
+url: /warwick/bp/
 shop: convenience
 ---

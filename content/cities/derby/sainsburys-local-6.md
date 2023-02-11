@@ -1,5 +1,0 @@
----
-title: "Sainsbury's Local"
-url: /derby/sainsburys-local-6/
-shop: convenience
----

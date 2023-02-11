@@ -1,5 +1,5 @@
 ---
 title: "Premier"
-url: /hebburn/premier-2/
+url: /hebburn/premier/
 shop: convenience
 ---

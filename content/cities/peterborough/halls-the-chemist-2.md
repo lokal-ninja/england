@@ -1,5 +1,5 @@
 ---
 title: "Halls The Chemist"
-url: /peterborough/halls-the-chemist-2/
+url: /peterborough/halls-the-chemist/
 shop: chemist
 ---

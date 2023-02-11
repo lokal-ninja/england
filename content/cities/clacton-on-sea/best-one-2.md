@@ -1,5 +1,5 @@
 ---
 title: "Best-one"
-url: /clacton-on-sea/best-one-2/
+url: /clacton-on-sea/best-one/
 shop: convenience
 ---

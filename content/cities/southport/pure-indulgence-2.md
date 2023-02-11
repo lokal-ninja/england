@@ -1,5 +1,5 @@
 ---
 title: "Pure Indulgence"
-url: /southport/pure-indulgence-2/
+url: /southport/pure-indulgence/
 shop: beauty
 ---

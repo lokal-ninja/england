@@ -1,5 +1,5 @@
 ---
 title: "Jewson"
-url: /reading/jewson-2/
+url: /reading/jewson/
 shop: doityourself
 ---

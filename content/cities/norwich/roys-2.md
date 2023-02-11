@@ -1,5 +1,5 @@
 ---
-title: "Roys"
-url: /norwich/roys-2/
+title: "Roy's"
+url: /norwich/roys/
 shop: supermarket
 ---

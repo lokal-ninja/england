@@ -1,5 +1,5 @@
 ---
 title: "The Nail Spa"
-url: /london/the-nail-spa-2/
+url: /london/the-nail-spa/
 shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "B&M Bargains"
-url: /south-shields/bandm-bargains-2/
+url: /south-shields/bandm-bargains/
 shop: variety store
 ---

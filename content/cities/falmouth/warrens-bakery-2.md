@@ -1,5 +1,5 @@
 ---
 title: "Warrens Bakery"
-url: /falmouth/warrens-bakery-2/
+url: /falmouth/warrens-bakery/
 shop: bakery
 ---

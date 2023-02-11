@@ -1,5 +1,5 @@
 ---
 title: "H&M"
-url: /cambridge/handm-2/
+url: /cambridge/handm/
 shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dunelm"
-url: /reading/dunelm-2/
+url: /reading/dunelm/
 shop: interior decoration
 ---

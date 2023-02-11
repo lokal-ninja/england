@@ -1,5 +1,5 @@
 ---
 title: "Brandon Tool Hire"
-url: /bristol/brandon-tool-hire-2/
+url: /bristol/brandon-tool-hire/
 shop: hardware
 ---

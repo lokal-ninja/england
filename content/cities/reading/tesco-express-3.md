@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
-url: /reading/tesco-express-3/
+url: /reading/tesco-express/
 shop: convenience
 ---

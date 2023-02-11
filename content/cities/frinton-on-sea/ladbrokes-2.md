@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
-url: /frinton-on-sea/ladbrokes-2/
+url: /frinton-on-sea/ladbrokes/
 shop: bookmaker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Protyre"
-url: /bristol/protyre-2/
+url: /bristol/protyre/
 shop: motorcycle
 ---

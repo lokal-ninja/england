@@ -1,5 +1,5 @@
 ---
 title: "Boels"
 url: /manchester/boels/
-shop: trade
+shop: tools
 ---

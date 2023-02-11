@@ -1,6 +1,6 @@
 ---
 title: Kessingland
 url: /kessingland/
-latitude: 52.421
-longitude: 1.712
+latitude: 52.42
+longitude: 1.71
 ---
