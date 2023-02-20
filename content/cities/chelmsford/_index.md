@@ -1,6 +1,6 @@
 ---
 title: Chelmsford
 url: /chelmsford/
-latitude: 51.747
-longitude: 0.489
+latitude: 51.737
+longitude: 0.467
 ---

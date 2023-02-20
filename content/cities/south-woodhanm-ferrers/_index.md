@@ -1,6 +1,6 @@
 ---
 title: South Woodhanm Ferrers
 url: /south-woodhanm-ferrers/
-latitude: 51.644
-longitude: 0.617
+latitude: 51.643
+longitude: 0.618
 ---

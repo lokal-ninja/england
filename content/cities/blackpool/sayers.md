@@ -1,5 +1,5 @@
 ---
-title: "Sayer's"
+title: "Sayers"
 url: /blackpool/sayers/
 shop: bakery
 ---
