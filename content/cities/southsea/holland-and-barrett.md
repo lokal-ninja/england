@@ -1,5 +1,5 @@
 ---
-title: "Holland And Barrett"
+title: "Holland & Barrett"
 url: /southsea/holland-and-barrett/
-shop: health
+shop: health food
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Denmans"
 url: /taunton/denmans/
-shop: electronics
+shop: electrical
 ---

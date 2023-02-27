@@ -1,6 +1,6 @@
 ---
 title: Grays
 url: /grays/
-latitude: 51.489
-longitude: 0.342
+latitude: 51.498
+longitude: 0.33
 ---

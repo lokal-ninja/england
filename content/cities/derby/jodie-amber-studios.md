@@ -1,5 +1,5 @@
 ---
-title: "Jodie Amber studios"
+title: "Jodie Amber Studios"
 url: /derby/jodie-amber-studios/
-shop: hairdresser
+shop: beauty
 ---
