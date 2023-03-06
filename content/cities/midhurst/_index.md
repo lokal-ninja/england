@@ -1,6 +1,6 @@
 ---
 title: Midhurst
 url: /midhurst/
-latitude: 50.988
-longitude: -0.738
+latitude: 50.943
+longitude: -0.751
 ---

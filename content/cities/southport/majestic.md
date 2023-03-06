@@ -1,5 +1,5 @@
 ---
 title: "Majestic"
 url: /southport/majestic/
-shop: wine
+shop: alcohol
 ---

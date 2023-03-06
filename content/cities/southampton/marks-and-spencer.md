@@ -1,5 +1,5 @@
 ---
 title: "Marks & Spencer"
 url: /southampton/marks-and-spencer/
-shop: clothes
+shop: department store
 ---

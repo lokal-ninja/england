@@ -7,5 +7,5 @@ city: Twickenham
 street: "King Street"
 housenumber: 56
 phone: "+44 20 8892 5788"
-opening_hours: "Mo-We 07:30-18:00;Th-Fr 07:30-19:00;Sa 07:30-18:00;Su 09:00-18:00"
+opening_hours: "Su 09:00-18:00; Mo-Th 08:00-18:00; Fr 08:00-19:00; Sa 08:00-18:00"
 website: "http://www.sandysfish.net/"

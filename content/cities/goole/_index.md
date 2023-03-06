@@ -1,6 +1,6 @@
 ---
 title: Goole
 url: /goole/
-latitude: 53.705
-longitude: -0.878
+latitude: 53.71
+longitude: -0.873
 ---

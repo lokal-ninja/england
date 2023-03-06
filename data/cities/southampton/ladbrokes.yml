@@ -1,11 +1,11 @@
-id: 6573543730
-type: node
-latitude: 50.89904
-longitude: -1.34809
-postcode: "SO19 1BJ"
+id: 160630498
+type: way
+latitude: 50.92608
+longitude: -1.39258
+postcode: "SO17 2NF"
 city: Southampton
-street: "Butt's Road"
-housenumber: 138-140
+street: "Portswood Road"
+housenumber: 223;223a
 phone: ""
-opening_hours: "Mo - SU 9:00 - 22:00"
+opening_hours: ""
 website: ""

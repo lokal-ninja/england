@@ -1,5 +1,5 @@
 ---
-title: "WaterStones"
+title: "Waterstones"
 url: /romford/waterstones/
 shop: books
 ---
