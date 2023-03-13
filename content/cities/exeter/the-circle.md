@@ -1,5 +1,5 @@
 ---
 title: "The Circle"
 url: /exeter/the-circle/
-shop: shop
+shop: florist
 ---

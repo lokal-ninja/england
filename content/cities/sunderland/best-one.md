@@ -1,5 +1,5 @@
 ---
-title: "Best One"
+title: "Best-one"
 url: /sunderland/best-one/
 shop: convenience
 ---

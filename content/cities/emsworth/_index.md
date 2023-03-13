@@ -1,6 +1,6 @@
 ---
 title: Emsworth
 url: /emsworth/
-latitude: 50.847
-longitude: -0.937
+latitude: 50.85
+longitude: -0.909
 ---
