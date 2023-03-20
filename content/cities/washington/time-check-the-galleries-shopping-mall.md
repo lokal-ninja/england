@@ -1,5 +1,5 @@
 ---
 title: "Time Check"
 url: /washington/time-check/
-shop: shop
+shop: jewelry
 ---

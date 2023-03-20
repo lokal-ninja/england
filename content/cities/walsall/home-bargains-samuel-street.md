@@ -1,5 +1,5 @@
 ---
 title: "Home Bargains"
 url: /walsall/home-bargains/
-shop: houseware
+shop: variety store
 ---
