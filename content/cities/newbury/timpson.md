@@ -1,5 +1,5 @@
 ---
 title: "Timpson"
 url: /newbury/timpson/
-shop: locksmith
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Delight Wedlinka"
+title: "Delight Wędlinka"
 url: /dunstable/delight-wedlinka/
 shop: deli
 ---

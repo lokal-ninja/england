@@ -1,11 +1,11 @@
-id: 3171381673
-type: node
-latitude: 51.65489
-longitude: -0.39213
-postcode: "WD17 2TW"
+id: 168562432
+type: way
+latitude: 51.68116
+longitude: -0.39488
+postcode: "WD24 7RU"
 city: Watford
-street: "The Harlequin"
-housenumber: 52
-phone: "+44 1923 244266"
-opening_hours: "Mo-We,Fr 09:00-18:00; Th 09:00-21:00; Sa 09:00-19:00; Su 11:00-17:00; May 29,Aug 28 10:00-18:00"
-website: "https://www.waitrose.com/content/waitrose/en/bf_home/bf/781.html"
+street: "St Albans Road"
+housenumber: 
+phone: "+44 1923 819628"
+opening_hours: "Mo-Su 00:00-24:00"
+website: ""
