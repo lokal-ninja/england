@@ -1,6 +1,6 @@
 ---
 title: Barkingside, Ilford
 url: /barkingside-ilford/
-latitude: 51.59
-longitude: 0.082
+latitude: 51.588
+longitude: 0.081
 ---

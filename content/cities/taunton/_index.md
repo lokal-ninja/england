@@ -1,6 +1,6 @@
 ---
 title: Taunton
 url: /taunton/
-latitude: 51.128
-longitude: -3.291
+latitude: 51.025
+longitude: -3.118
 ---
