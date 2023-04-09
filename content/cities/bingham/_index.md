@@ -1,6 +1,6 @@
 ---
 title: Bingham
 url: /bingham/
-latitude: 52.952
-longitude: -0.953
+latitude: 52.951
+longitude: -0.955
 ---

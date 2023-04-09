@@ -7,5 +7,5 @@ city: Cambridge
 street: "High Street"
 housenumber: 6
 phone: "+441223262204"
-opening_hours: "Mo,Tu,Th,Fr 0700-1800; We 0700-1300; Sa 0730-1400; Su 0730-1300; PH off"
+opening_hours: "Mo,Tu,Th,Fr 07:00-18:00; We 07:00-13:00; Sa 07:30-14:00; Su 07:30-13:00; PH off"
 website: "https://www.toftshop.co.uk/"

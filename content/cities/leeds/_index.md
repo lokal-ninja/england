@@ -1,6 +1,6 @@
 ---
 title: Leeds
 url: /leeds/
-latitude: 53.797
-longitude: -1.545
+latitude: 53.799
+longitude: -1.541
 ---

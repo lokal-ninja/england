@@ -7,5 +7,5 @@ city: Birmingham
 street: "Pershore Road"
 housenumber: 1503
 phone: "+44 7389 090908"
-opening_hours: "Mo-Th 10:00-19:00 Fr 09:00-19:00 Sa: 09:00-18:00"
+opening_hours: "Mo-Th 10:00-19:00; Fr 09:00-19:00; Sa 09:00-18:00"
 website: "http://www.90degreebarber.com/"
