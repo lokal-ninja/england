@@ -1,5 +1,5 @@
 ---
 title: "Apple Jacks"
 url: /london/apple-jacks/
-shop: shop
+shop: health food
 ---

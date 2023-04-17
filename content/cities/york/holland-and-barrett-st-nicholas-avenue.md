@@ -1,5 +1,5 @@
 ---
 title: "Holland & Barrett"
 url: /york/holland-and-barrett/
-shop: shop
+shop: health food
 ---

@@ -1,11 +1,11 @@
-id: 276042532
-type: way
-latitude: 51.51916
-longitude: -0.07489
-postcode: "E1 6AA"
+id: 7182538929
+type: node
+latitude: 51.5422
+longitude: -0.147
+postcode: "NW1 8AH"
 city: London
-street: "Brushfield Street"
-housenumber: 71
-phone: ""
-opening_hours: "Mo-Sa 11:00-17:30; Su 11:30-17:00"
-website: ""
+street: "Chalk Farm Road"
+housenumber: 
+phone: "+44 20 3583 7627"
+opening_hours: ""
+website: "https://www.collectif.co.uk/"

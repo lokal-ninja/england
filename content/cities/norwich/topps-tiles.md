@@ -1,5 +1,5 @@
 ---
 title: "Topps Tiles"
 url: /norwich/topps-tiles/
-shop: hardware
+shop: tiles
 ---

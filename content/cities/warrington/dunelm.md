@@ -1,5 +1,5 @@
 ---
 title: "Dunelm"
 url: /warrington/dunelm/
-shop: furniture
+shop: interior decoration
 ---
