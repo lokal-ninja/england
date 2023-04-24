@@ -3,8 +3,8 @@ type: node
 latitude: 51.43332
 longitude: -0.16352
 postcode: "SW17 7EN"
-city: LONDON
-street: "108 Upper Tooting Road"
+city: London
+street: "Upper Tooting Road"
 housenumber: 108
 phone: "+44 20 8767 7000"
 opening_hours: "Mo-Su 11:00-20:00"

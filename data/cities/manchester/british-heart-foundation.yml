@@ -1,11 +1,11 @@
-id: 9277965030
+id: 7020319576
 type: node
-latitude: 53.44592
-longitude: -2.30926
-postcode: "M32 8AE"
+latitude: 53.51284
+longitude: -2.21284
+postcode: "M9 4DH"
 city: Manchester
-street: "King Street"
-housenumber: 32
-phone: ""
-opening_hours: ""
-website: "www.bhf.org.uk"
+street: ""
+housenumber: 
+phone: "0161 825 9582"
+opening_hours: "Mo-Sa 09:30-17:00; Su 10:00-16:00"
+website: "https://www.bhf.org.uk"

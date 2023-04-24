@@ -1,6 +1,6 @@
 ---
 title: Salisbury
 url: /salisbury/
-latitude: 51.076
-longitude: -1.802
+latitude: 51.069
+longitude: -1.8
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Marks & Spencer"
 url: /altrincham/marks-and-spencer/
-shop: supermarket
+shop: department store
 ---

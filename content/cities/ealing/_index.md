@@ -1,6 +1,6 @@
 ---
 title: Ealing
 url: /ealing/
-latitude: 51.504
-longitude: -0.318
+latitude: 51.529
+longitude: -0.271
 ---

@@ -1,5 +1,5 @@
 ---
-title: "John's Opticians"
+title: "Johns Opticians"
 url: /nottingham/johns-opticians/
 shop: optician
 ---

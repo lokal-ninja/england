@@ -1,6 +1,6 @@
 ---
 title: Worcester
 url: /worcester/
-latitude: 52.187
-longitude: -2.254
+latitude: 52.065
+longitude: -2.233
 ---
