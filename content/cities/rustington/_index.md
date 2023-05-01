@@ -1,6 +1,6 @@
 ---
 title: Rustington
 url: /rustington/
-latitude: 50.816
-longitude: -0.504
+latitude: 50.811
+longitude: -0.507
 ---
