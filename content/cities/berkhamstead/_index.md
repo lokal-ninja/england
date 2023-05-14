@@ -1,6 +1,6 @@
 ---
 title: Berkhamstead
 url: /berkhamstead/
-latitude: 51.76
-longitude: -0.563
+latitude: 51.761
+longitude: -0.566
 ---

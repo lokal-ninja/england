@@ -1,11 +1,11 @@
-id: 10248844814
-type: node
-latitude: 52.60033
-longitude: 1.28463
-postcode: "NR4 6EG"
+id: 32561200
+type: way
+latitude: 52.65367
+longitude: 1.17818
+postcode: "NR5 0JT"
 city: Norwich
-street: "Hall Road"
-housenumber: 2-3
-phone: ""
-opening_hours: "Mo-Sa 09:00-20:00; Th off; Su 10:00-16:00"
-website: "https://www.therange.co.uk/stores/hall-road-norwich/"
+street: ""
+housenumber: 
+phone: "+44 1603 742687"
+opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 10:30-16:30"
+website: "https://www.therange.co.uk/"

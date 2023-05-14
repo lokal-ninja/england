@@ -1,5 +1,5 @@
 ---
-title: "Dino's Barbers"
+title: "Dinos Barbers"
 url: /london/dinos-barbers/
 shop: hairdresser
 ---
