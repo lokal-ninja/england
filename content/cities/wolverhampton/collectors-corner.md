@@ -1,5 +1,5 @@
 ---
 title: "Collectors Corner"
 url: /wolverhampton/collectors-corner/
-shop: shop
+shop: collector
 ---

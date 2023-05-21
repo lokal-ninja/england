@@ -1,5 +1,5 @@
 ---
 title: "Barkers"
 url: /cottingham/barkers/
-shop: shop
+shop: gift
 ---

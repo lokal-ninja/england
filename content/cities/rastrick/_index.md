@@ -1,6 +1,6 @@
 ---
 title: Rastrick
 url: /rastrick/
-latitude: 53.691
-longitude: -1.8
+latitude: 53.697
+longitude: -1.786
 ---

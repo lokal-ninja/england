@@ -1,11 +1,11 @@
-id: 440246344
-type: way
-latitude: 52.93232
-longitude: -1.1264
-postcode: "NG2 5GQ"
+id: 1189460794
+type: node
+latitude: 52.93194
+longitude: -1.12696
+postcode: "NG2 5GR"
 city: Nottingham
 street: "Central Avenue"
-housenumber: 1
+housenumber: 
 phone: ""
-opening_hours: "Mo-We 09:00-19:00; Th 09:00-17:00; Fr off; Sa 10:00-17:00; Su 09:30-17:00"
+opening_hours: ""
 website: "https://www.oliverbonas.com/"

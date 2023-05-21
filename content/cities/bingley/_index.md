@@ -1,6 +1,6 @@
 ---
 title: Bingley
 url: /bingley/
-latitude: 53.848
-longitude: -1.838
+latitude: 53.847
+longitude: -1.837
 ---

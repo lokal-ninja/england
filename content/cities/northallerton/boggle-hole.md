@@ -1,5 +1,5 @@
 ---
 title: "Boggle Hole"
 url: /northallerton/boggle-hole/
-shop: shop
+shop: gift
 ---

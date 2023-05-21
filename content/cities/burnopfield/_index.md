@@ -1,6 +1,6 @@
 ---
 title: Burnopfield
 url: /burnopfield/
-latitude: 54.906
-longitude: -1.724
+latitude: 54.905
+longitude: -1.741
 ---
