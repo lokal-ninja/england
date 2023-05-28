@@ -1,6 +1,6 @@
 ---
 title: Lockerley
 url: /lockerley/
-latitude: 51.035
-longitude: -1.572
+latitude: 51.04
+longitude: -1.585
 ---

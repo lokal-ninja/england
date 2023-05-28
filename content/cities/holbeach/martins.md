@@ -1,5 +1,5 @@
 ---
 title: "Martin's"
 url: /holbeach/martins/
-shop: convenience
+shop: newsagent
 ---
