@@ -1,6 +1,6 @@
 ---
 title: Greenhithe
 url: /greenhithe/
-latitude: 51.45
-longitude: 0.286
+latitude: 51.438
+longitude: 0.274
 ---

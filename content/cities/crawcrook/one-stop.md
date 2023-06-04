@@ -1,5 +1,5 @@
 ---
-title: "One-Stop"
+title: "One Stop"
 url: /crawcrook/one-stop/
-shop: supermarket
+shop: convenience
 ---

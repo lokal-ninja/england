@@ -1,5 +1,5 @@
 ---
 title: "Ventnor Savers"
 url: /ventnor/ventnor-savers/
-shop: shop
+shop: variety store
 ---

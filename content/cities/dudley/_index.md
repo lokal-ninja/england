@@ -1,6 +1,6 @@
 ---
 title: Dudley
 url: /dudley/
-latitude: 55.058
-longitude: -1.593
+latitude: 55.056
+longitude: -1.587
 ---
