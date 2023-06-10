@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /doncaster/spar/
-shop: supermarket
+shop: convenience
 ---

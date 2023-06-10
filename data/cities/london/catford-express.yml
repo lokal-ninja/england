@@ -1,11 +1,11 @@
-id: 515606264
-type: way
-latitude: 51.44598
-longitude: -0.01998
-postcode: "SE6 4HQ"
+id: 8685217857
+type: node
+latitude: 51.44553
+longitude: -0.01344
+postcode: "SE6 2HF"
 city: London
-street: "Rushey Green"
-housenumber: 152
+street: "Brownhill Road"
+housenumber: 109
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 07:00-19:00; We 07:00-11:00; Sa 07:30-17:00"
+opening_hours: ""
 website: ""

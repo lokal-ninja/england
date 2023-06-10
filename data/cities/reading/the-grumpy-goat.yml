@@ -1,11 +1,11 @@
 id: 4817600451
 type: node
-latitude: 51.45731
-longitude: -0.97183
-postcode: "RG1 1DN"
+latitude: 51.45634
+longitude: -0.97352
+postcode: "RG1 1EU"
 city: Reading
-street: "Station Road"
-housenumber: 
-phone: "+44 1189581765"
-opening_hours: "Mo-Sa 10:00-18:00"
-website: "http://www.thegrumpygoat.co.uk"
+street: "Union Street"
+housenumber: 7
+phone: ""
+opening_hours: "Mo off;Tu-Th 11:00-22:00;Fr 11:00-23:00;Sa 10:00-23:00;Su 12:00-22:00"
+website: "https://www.thegrumpygoat.co.uk/"

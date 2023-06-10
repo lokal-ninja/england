@@ -1,6 +1,6 @@
 ---
 title: Hawkshead
 url: /hawkshead/
-latitude: 54.374
-longitude: -2.998
+latitude: 54.375
+longitude: -2.999
 ---

@@ -1,11 +1,11 @@
-id: 717430270
-type: way
-latitude: 51.24835
-longitude: -0.76297
-postcode: "GU11 1JE"
+id: 10959410931
+type: node
+latitude: 51.24943
+longitude: -0.76599
+postcode: "GU11 1EW"
 city: Aldershot
-street: "Victoria Road"
-housenumber: 107
-phone: "+44 1252 888630"
-opening_hours: "Mo-Sat 09:00-17:30; Su 10:00-16:00"
-website: ""
+street: "Union Street"
+housenumber: 30
+phone: "+44 1252 345746"
+opening_hours: "Mo-Sa 09:30-17:00; Su 10:00-16:00"
+website: "https://www.bhf.org.uk/what-we-do/find-bhf-near-you/aldershot-2-bhf-shop"

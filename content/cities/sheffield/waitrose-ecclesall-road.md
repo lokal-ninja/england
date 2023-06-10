@@ -1,5 +1,5 @@
 ---
 title: "Waitrose"
 url: /sheffield/waitrose/
-shop: convenience
+shop: supermarket
 ---

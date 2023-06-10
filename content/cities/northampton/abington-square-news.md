@@ -1,5 +1,5 @@
 ---
 title: "Abington Square News"
 url: /northampton/abington-square-news/
-shop: newsagent
+shop: convenience
 ---
