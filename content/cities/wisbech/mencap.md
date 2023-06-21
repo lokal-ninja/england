@@ -1,5 +1,5 @@
 ---
-title: "MENCAP"
+title: "Mencap"
 url: /wisbech/mencap/
 shop: charity
 ---

@@ -1,6 +1,6 @@
 ---
 title: Stockton-On-Tees
 url: /stockton-on-tees/
-latitude: 54.682
-longitude: -1.435
+latitude: 54.578
+longitude: -1.361
 ---

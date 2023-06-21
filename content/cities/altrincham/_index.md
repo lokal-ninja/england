@@ -1,6 +1,6 @@
 ---
 title: Altrincham
 url: /altrincham/
-latitude: 53.386
-longitude: -2.351
+latitude: 53.376
+longitude: -2.345
 ---

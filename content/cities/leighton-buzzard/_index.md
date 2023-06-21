@@ -1,6 +1,6 @@
 ---
 title: Leighton Buzzard
 url: /leighton-buzzard/
-latitude: 51.924
-longitude: -0.654
+latitude: 51.908
+longitude: -0.652
 ---
