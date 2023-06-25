@@ -1,6 +1,6 @@
 ---
 title: Holbeach
 url: /holbeach/
-latitude: 52.804
-longitude: 0.033
+latitude: 52.795
+longitude: 0.021
 ---

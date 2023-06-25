@@ -1,6 +1,6 @@
 ---
 title: Longframlington
 url: /longframlington/
-latitude: 55.304
-longitude: -1.795
+latitude: 55.302
+longitude: -1.799
 ---
