@@ -1,6 +1,6 @@
 ---
 title: Sedlescombe
 url: /sedlescombe/
-latitude: 50.924
-longitude: 0.532
+latitude: 50.911
+longitude: 0.545
 ---

@@ -7,5 +7,5 @@ city: London
 street: "Brewer Street"
 housenumber: 5-7
 phone: "+44 20 7734 4031"
-opening_hours: ""
+opening_hours: "Mo-Th 11:00-21:00; Fr,Sa 11:00-22:00; Su 12:00-22:00"
 website: "https://www.prowler.co.uk/"

@@ -1,6 +1,6 @@
 ---
 title: Knutsford
 url: /knutsford/
-latitude: 53.298
-longitude: -2.371
+latitude: 53.306
+longitude: -2.374
 ---
