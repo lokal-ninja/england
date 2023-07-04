@@ -1,6 +1,6 @@
 ---
 title: Immingham
 url: /immingham/
-latitude: 53.617
-longitude: -0.214
+latitude: 53.661
+longitude: -0.277
 ---

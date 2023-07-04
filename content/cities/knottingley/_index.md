@@ -1,6 +1,6 @@
 ---
 title: Knottingley
 url: /knottingley/
-latitude: 53.704
-longitude: -1.238
+latitude: 53.698
+longitude: -1.266
 ---

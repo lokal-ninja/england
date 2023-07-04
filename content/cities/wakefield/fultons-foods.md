@@ -1,5 +1,5 @@
 ---
-title: "Fultons Foods"
+title: "Fulton's Foods"
 url: /wakefield/fultons-foods/
-shop: supermarket
+shop: frozen food
 ---
