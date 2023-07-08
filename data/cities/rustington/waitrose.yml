@@ -7,5 +7,5 @@ city: Rustington
 street: "Broadmark Lane"
 housenumber: 1-3
 phone: "+44 1903 778772"
-opening_hours: "Mo-Sa 07:30-20:00 Su 10:00-16:00"
-website: "www.waitrose.com/rustington"
+opening_hours: "Mo-Sa 07:30-20:00; Su 10:00-16:00"
+website: "https://www.waitrose.com/rustington"
