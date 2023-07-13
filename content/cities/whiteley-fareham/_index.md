@@ -1,6 +1,6 @@
 ---
 title: Whiteley, Fareham
 url: /whiteley-fareham/
-latitude: 50.885
-longitude: -1.245
+latitude: 50.886
+longitude: -1.247
 ---

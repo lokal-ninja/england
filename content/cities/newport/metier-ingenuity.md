@@ -1,5 +1,5 @@
 ---
 title: "Métier Ingenuity"
 url: /newport/metier-ingenuity/
-shop: supermarket
+shop: gift
 ---

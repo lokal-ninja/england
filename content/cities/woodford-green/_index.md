@@ -1,6 +1,6 @@
 ---
 title: Woodford Green
 url: /woodford-green/
-latitude: 51.592
-longitude: 0.042
+latitude: 51.607
+longitude: 0.033
 ---

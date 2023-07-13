@@ -1,5 +1,5 @@
 ---
 title: "Utilita"
 url: /newport/utilita/
-shop: shop
+shop: mobile phone
 ---

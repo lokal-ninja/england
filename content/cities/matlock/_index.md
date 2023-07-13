@@ -1,6 +1,6 @@
 ---
 title: Matlock
 url: /matlock/
-latitude: 53.138
-longitude: -1.558
+latitude: 53.165
+longitude: -1.595
 ---

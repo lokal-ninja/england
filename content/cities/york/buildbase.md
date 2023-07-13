@@ -1,5 +1,5 @@
 ---
 title: "Buildbase"
 url: /york/buildbase/
-shop: doityourself
+shop: trade
 ---
