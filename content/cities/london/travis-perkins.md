@@ -1,5 +1,5 @@
 ---
 title: "Travis Perkins"
 url: /london/travis-perkins/
-shop: shop
+shop: doityourself
 ---

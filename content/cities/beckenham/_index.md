@@ -1,6 +1,6 @@
 ---
 title: Beckenham
 url: /beckenham/
-latitude: 51.409
-longitude: -0.025
+latitude: 51.399
+longitude: -0.042
 ---

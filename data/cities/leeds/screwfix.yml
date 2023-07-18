@@ -1,11 +1,11 @@
-id: 150591346
-type: way
-latitude: 53.78131
-longitude: -1.57986
-postcode: "LS12 6AL"
+id: 7126021309
+type: node
+latitude: 53.84577
+longitude: -1.633
+postcode: "LS18 5AZ"
 city: Leeds
-street: "Gelderd Lane"
-housenumber: 3
+street: "Lister Hill"
+housenumber: 
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Fr 07:00-20:00; Sa 07:00-18:00; Su 09:00-16:00"
+website: "https://www.screwfix.com/stores/TB5/horsforth"
