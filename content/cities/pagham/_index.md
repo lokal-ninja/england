@@ -1,6 +1,6 @@
 ---
 title: Pagham
 url: /pagham/
-latitude: 50.78
-longitude: -0.736
+latitude: 50.77
+longitude: -0.738
 ---

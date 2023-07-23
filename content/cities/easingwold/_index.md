@@ -1,6 +1,6 @@
 ---
 title: Easingwold
 url: /easingwold/
-latitude: 54.121
-longitude: -1.196
+latitude: 54.119
+longitude: -1.194
 ---

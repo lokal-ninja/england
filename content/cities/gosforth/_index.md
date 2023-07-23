@@ -1,6 +1,6 @@
 ---
 title: Gosforth
 url: /gosforth/
-latitude: 54.419
-longitude: -3.438
+latitude: 55.008
+longitude: -1.619
 ---
