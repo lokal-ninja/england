@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
 url: /peterborough/wilko/
-shop: hardware
+shop: variety store
 ---

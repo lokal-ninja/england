@@ -1,5 +1,5 @@
 ---
 title: "Accessorize"
 url: /cambridge/accessorize/
-shop: clothes
+shop: boutique
 ---

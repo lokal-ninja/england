@@ -1,11 +1,11 @@
-id: 1002595180
-type: way
-latitude: 51.49303
-longitude: -0.22864
-postcode: "W6 0PZ"
+id: 10621943979
+type: node
+latitude: 51.4881
+longitude: 0.01657
+postcode: "SE10 0QJ"
 city: London
 street: ""
-housenumber: 2-3
+housenumber: 
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00, Su 11:00-17:00"
+opening_hours: ""
 website: ""

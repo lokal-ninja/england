@@ -1,5 +1,5 @@
 ---
-title: "Oxfam bookshop"
+title: "Oxfam Bookshop"
 url: /lancaster/oxfam-bookshop/
-shop: charity
+shop: books
 ---

@@ -1,6 +1,6 @@
 ---
 title: Ellesmere Port
 url: /ellesmere-port/
-latitude: 53.272
-longitude: -2.898
+latitude: 53.265
+longitude: -2.91
 ---

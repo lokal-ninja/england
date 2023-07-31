@@ -1,5 +1,5 @@
 ---
-title: "Save The Children"
+title: "Save the Children"
 url: /cockermouth/save-the-children/
 shop: charity
 ---

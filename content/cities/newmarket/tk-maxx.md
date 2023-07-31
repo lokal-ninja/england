@@ -1,5 +1,5 @@
 ---
 title: "TK Maxx"
 url: /newmarket/tk-maxx/
-shop: clothes
+shop: department store
 ---

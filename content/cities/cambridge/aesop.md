@@ -1,5 +1,5 @@
 ---
-title: "Aēsop"
+title: "Aesop"
 url: /cambridge/aesop/
-shop: perfumery
+shop: beauty
 ---
