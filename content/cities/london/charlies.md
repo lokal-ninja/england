@@ -1,5 +1,5 @@
 ---
-title: "Charlie's"
+title: "Charlies"
 url: /london/charlies/
-shop: hairdresser
+shop: newsagent
 ---
