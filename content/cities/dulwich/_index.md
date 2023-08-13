@@ -1,6 +1,6 @@
 ---
 title: Dulwich
 url: /dulwich/
-latitude: 51.451
+latitude: 51.449
 longitude: -0.085
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MCRC"
 url: /london/mcrc/
-shop: shop
+shop: mobile phone
 ---
