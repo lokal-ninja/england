@@ -1,6 +1,6 @@
 ---
 title: Wednesbury
 url: /wednesbury/
-latitude: 52.553
-longitude: -2.02
+latitude: 52.554
+longitude: -2.021
 ---

@@ -1,6 +1,6 @@
 ---
 title: Wells-next-the-Sea
 url: /wells-next-the-sea/
-latitude: 52.953
-longitude: 0.856
+latitude: 52.956
+longitude: 0.852
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Multifix Direct"
 url: /oldham/multifix-direct/
-shop: supermarket
+shop: hardware
 ---

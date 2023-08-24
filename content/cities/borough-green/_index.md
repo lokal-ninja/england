@@ -1,6 +1,6 @@
 ---
 title: Borough Green
 url: /borough-green/
-latitude: 51.293
-longitude: 0.307
+latitude: 51.292
+longitude: 0.306
 ---

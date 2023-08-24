@@ -1,6 +1,6 @@
 ---
 title: Wetherby
 url: /wetherby/
-latitude: 53.908
-longitude: -1.411
+latitude: 53.929
+longitude: -1.387
 ---

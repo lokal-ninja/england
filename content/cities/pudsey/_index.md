@@ -1,6 +1,6 @@
 ---
 title: Pudsey
 url: /pudsey/
-latitude: 53.801
-longitude: -1.69
+latitude: 53.796
+longitude: -1.664
 ---

@@ -1,6 +1,6 @@
 ---
 title: Beaconsfield
 url: /beaconsfield/
-latitude: 51.61
-longitude: -0.645
+latitude: 51.588
+longitude: -0.628
 ---

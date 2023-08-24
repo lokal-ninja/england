@@ -1,11 +1,11 @@
-id: 145180508
-type: way
-latitude: 51.44076
-longitude: -0.05926
-postcode: "SE23 3PE"
+id: 8664382206
+type: node
+latitude: 51.41852
+longitude: -0.16225
+postcode: "SW17 9HP"
 city: London
 street: "London Road"
-housenumber: 86
+housenumber: 50-56
 phone: ""
-opening_hours: "Mo-Su 06:00-23:00"
+opening_hours: ""
 website: ""

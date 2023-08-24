@@ -1,5 +1,5 @@
 ---
 title: "Pobby & Blue"
 url: /sidmouth/pobby-and-blue/
-shop: boutique
+shop: clothes
 ---
