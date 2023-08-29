@@ -1,6 +1,6 @@
 ---
 title: Chinnor
 url: /chinnor/
-latitude: 51.703
-longitude: -0.911
+latitude: 51.699
+longitude: -0.914
 ---

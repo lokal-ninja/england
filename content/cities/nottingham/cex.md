@@ -1,5 +1,5 @@
 ---
-title: "Cex"
+title: "CeX"
 url: /nottingham/cex/
-shop: shop
+shop: electronics
 ---

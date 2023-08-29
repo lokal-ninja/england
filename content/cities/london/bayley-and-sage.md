@@ -1,5 +1,5 @@
 ---
-title: "Bayley & Sage"
+title: "Bayley and Sage"
 url: /london/bayley-and-sage/
-shop: convenience
+shop: deli
 ---
