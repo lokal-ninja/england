@@ -1,6 +1,6 @@
 ---
-title: Ross-on-Wye
+title: Ross-On-Wye
 url: /ross-on-wye/
-latitude: 51.932
-longitude: -2.476
+latitude: 51.894
+longitude: -2.493
 ---

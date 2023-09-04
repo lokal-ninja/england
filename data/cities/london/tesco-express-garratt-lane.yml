@@ -1,11 +1,11 @@
-id: 330953401
-type: way
-latitude: 51.44836
-longitude: -0.18966
-postcode: "SW18 4ED"
+id: 3237045516
+type: node
+latitude: 51.4427
+longitude: -0.18848
+postcode: "SW18 4SW"
 city: London
 street: "Garratt Lane"
-housenumber: 190-194
+housenumber: 493;495;497
 phone: ""
 opening_hours: ""
 website: ""
