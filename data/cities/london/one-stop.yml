@@ -1,11 +1,11 @@
-id: 616580107
-type: way
-latitude: 51.47509
-longitude: -0.0466
-postcode: "SE14 5DG"
+id: 290862247
+type: node
+latitude: 51.41747
+longitude: -0.05854
+postcode: "SE20 7HG"
 city: London
-street: "New Cross Road"
-housenumber: 165-167
+street: "High Street"
+housenumber: 14 - 16
 phone: ""
-opening_hours: "Mo-Su 05:00-02:00"
+opening_hours: "24/7"
 website: ""

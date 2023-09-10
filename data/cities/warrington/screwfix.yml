@@ -1,11 +1,11 @@
-id: 8923623471
-type: node
-latitude: 53.40172
-longitude: -2.59879
+id: 1204543478
+type: way
+latitude: 53.40165
+longitude: -2.5986
 postcode: "WA2 8NT"
 city: Warrington
 street: "Kerfoot Street"
 housenumber: Unit 30
-phone: "+443330112112"
-opening_hours: ""
-website: "https://www.screwfix.com/stores/JT7/warrington-kerfoot-street"
+phone: ""
+opening_hours: "Mo-Fr 07:00-20:00; Sa 07:00-18:00; Su 09:00-16:00"
+website: ""

@@ -1,6 +1,6 @@
 ---
 title: Jaywick
 url: /jaywick/
-latitude: 51.781
-longitude: 1.117
+latitude: 51.783
+longitude: 1.12
 ---

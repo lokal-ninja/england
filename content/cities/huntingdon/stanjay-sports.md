@@ -1,5 +1,5 @@
 ---
 title: "Stanjay Sports"
 url: /huntingdon/stanjay-sports/
-shop: fishing
+shop: trophy
 ---

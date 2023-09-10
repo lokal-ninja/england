@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
 url: /northallerton/wilko/
-shop: doityourself
+shop: variety store
 ---
