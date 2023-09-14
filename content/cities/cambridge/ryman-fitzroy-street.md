@@ -1,5 +1,5 @@
 ---
 title: "Ryman"
-url: /cambridge/ryman/
+url: /cambridge/ryman-fitzroy-street/
 shop: office supplies
 ---

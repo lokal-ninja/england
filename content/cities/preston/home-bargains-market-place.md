@@ -1,5 +1,5 @@
 ---
 title: "Home Bargains"
-url: /preston/home-bargains/
+url: /preston/home-bargains-market-place/
 shop: variety store
 ---

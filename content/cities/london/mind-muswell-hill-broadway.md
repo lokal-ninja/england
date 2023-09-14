@@ -1,5 +1,5 @@
 ---
 title: "Mind"
-url: /london/mind/
+url: /london/mind-muswell-hill-broadway/
 shop: charity
 ---

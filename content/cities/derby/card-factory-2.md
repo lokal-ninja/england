@@ -1,5 +1,5 @@
 ---
 title: "Card Factory"
-url: /derby/card-factory/
+url: /derby/card-factory-2/
 shop: gift
 ---

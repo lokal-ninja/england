@@ -1,5 +1,5 @@
 ---
 title: "L. Fulcher"
-url: /bury-st-edmunds/l-fulcher/
+url: /bury-st-edmunds/l-fulcher-st-johns-street/
 shop: funeral directors
 ---

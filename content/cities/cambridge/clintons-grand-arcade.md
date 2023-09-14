@@ -1,5 +1,5 @@
 ---
 title: "Clintons"
-url: /cambridge/clintons/
+url: /cambridge/clintons-grand-arcade/
 shop: gift
 ---

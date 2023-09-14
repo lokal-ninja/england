@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
-url: /wellingborough/betfred/
+url: /wellingborough/betfred-cannon-street/
 shop: bookmaker
 ---

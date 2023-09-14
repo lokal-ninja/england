@@ -1,5 +1,5 @@
 ---
 title: "PatientChoice"
-url: /wellington/patientchoice/
+url: /wellington/patientchoice-westpark/
 shop: trade
 ---

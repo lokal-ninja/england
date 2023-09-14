@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
-url: /whitehaven/wilko/
+url: /whitehaven/wilko-roper-street/
 shop: variety store
 ---

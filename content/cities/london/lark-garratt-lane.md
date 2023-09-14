@@ -1,5 +1,5 @@
 ---
 title: "Lark"
-url: /london/lark/
+url: /london/lark-garratt-lane/
 shop: gift
 ---

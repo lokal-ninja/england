@@ -1,5 +1,5 @@
 ---
 title: "Nawal"
-url: /london/nawal/
+url: /london/nawal-green-street/
 shop: confectionery
 ---

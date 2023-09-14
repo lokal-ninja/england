@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /birmingham/spar/
+url: /birmingham/spar-edgewood-road/
 shop: convenience
 ---

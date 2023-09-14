@@ -1,5 +1,5 @@
 ---
 title: "Timpson"
-url: /chelmsford/timpson/
+url: /chelmsford/timpson-white-hart-lane/
 shop: locksmith
 ---

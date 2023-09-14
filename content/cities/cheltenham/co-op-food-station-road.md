@@ -1,5 +1,5 @@
 ---
 title: "Co-op Food"
-url: /cheltenham/co-op-food/
+url: /cheltenham/co-op-food-station-road/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Premier"
-url: /southsea/premier/
+url: /southsea/premier-victoria-road-north/
 shop: convenience
 ---

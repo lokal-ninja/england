@@ -1,5 +1,5 @@
 ---
 title: "Waterfields"
-url: /warrington/waterfields/
+url: /warrington/waterfields-king-edward-street/
 shop: bakery
 ---

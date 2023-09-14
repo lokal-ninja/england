@@ -1,5 +1,5 @@
 ---
 title: "Londis"
-url: /burton-on-trent/londis/
+url: /burton-on-trent/londis-oak-road/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "iCut.hair"
-url: /wallsend/icut-hair/
+url: /wallsend/icut-hair-high-street-east/
 shop: hairdresser
 ---

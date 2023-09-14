@@ -1,5 +1,5 @@
 ---
 title: "Emmaus"
-url: /london/emmaus/
+url: /london/emmaus-knights-hill/
 shop: charity
 ---

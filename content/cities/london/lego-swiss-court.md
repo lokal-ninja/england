@@ -1,5 +1,5 @@
 ---
 title: "Lego"
-url: /london/lego/
+url: /london/lego-swiss-court/
 shop: toys
 ---

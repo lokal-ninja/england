@@ -1,5 +1,5 @@
 ---
 title: "Farmfoods"
-url: /milton-keynes/farmfoods/
+url: /milton-keynes/farmfoods-locke-road/
 shop: frozen food
 ---

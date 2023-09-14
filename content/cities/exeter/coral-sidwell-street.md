@@ -1,5 +1,5 @@
 ---
 title: "Coral"
-url: /exeter/coral/
+url: /exeter/coral-sidwell-street/
 shop: bookmaker
 ---

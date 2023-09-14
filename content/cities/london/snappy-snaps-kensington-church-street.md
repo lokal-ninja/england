@@ -1,5 +1,5 @@
 ---
 title: "Snappy Snaps"
-url: /london/snappy-snaps/
+url: /london/snappy-snaps-kensington-church-street/
 shop: photo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nordic Style"
-url: /london/nordic-style/
+url: /london/nordic-style-church-road/
 shop: gift
 ---

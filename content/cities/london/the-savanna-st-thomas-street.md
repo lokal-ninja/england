@@ -1,5 +1,5 @@
 ---
 title: "The Savanna"
-url: /london/the-savanna/
+url: /london/the-savanna-st-thomas-street/
 shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mind"
-url: /oldham/mind/
+url: /oldham/mind-shopping-precinct/
 shop: charity
 ---

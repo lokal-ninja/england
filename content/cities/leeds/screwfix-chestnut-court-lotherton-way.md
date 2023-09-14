@@ -1,5 +1,5 @@
 ---
 title: "Screwfix"
-url: /leeds/screwfix/
+url: /leeds/screwfix-chestnut-court-lotherton-way/
 shop: doityourself
 ---

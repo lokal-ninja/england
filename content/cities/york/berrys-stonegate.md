@@ -1,5 +1,5 @@
 ---
 title: "Berry's"
-url: /york/berrys/
+url: /york/berrys-stonegate/
 shop: jewelry
 ---

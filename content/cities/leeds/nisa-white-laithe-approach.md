@@ -1,5 +1,5 @@
 ---
 title: "Nisa"
-url: /leeds/nisa/
+url: /leeds/nisa-white-laithe-approach/
 shop: convenience
 ---

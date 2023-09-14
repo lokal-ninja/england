@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
-url: /eastbourne/poundland/
+url: /eastbourne/poundland-kingfisher-drive/
 shop: variety store
 ---

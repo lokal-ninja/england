@@ -1,5 +1,5 @@
 ---
 title: "Boots"
-url: /reading/boots/
+url: /reading/boots-2/
 shop: chemist
 ---

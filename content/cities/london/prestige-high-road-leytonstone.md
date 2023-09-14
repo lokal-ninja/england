@@ -1,5 +1,5 @@
 ---
 title: "Prestige"
-url: /london/prestige/
+url: /london/prestige-high-road-leytonstone/
 shop: hairdresser
 ---

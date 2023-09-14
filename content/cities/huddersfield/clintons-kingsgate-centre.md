@@ -1,5 +1,5 @@
 ---
 title: "Clintons"
-url: /huddersfield/clintons/
+url: /huddersfield/clintons-kingsgate-centre/
 shop: gift
 ---

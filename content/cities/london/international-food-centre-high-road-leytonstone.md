@@ -1,5 +1,5 @@
 ---
 title: "International Food Centre"
-url: /london/international-food-centre/
+url: /london/international-food-centre-high-road-leytonstone/
 shop: convenience
 ---

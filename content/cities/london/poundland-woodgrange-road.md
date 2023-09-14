@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
-url: /london/poundland/
+url: /london/poundland-woodgrange-road/
 shop: variety store
 ---

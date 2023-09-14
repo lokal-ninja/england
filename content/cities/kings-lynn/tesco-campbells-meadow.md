@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
-url: /kings-lynn/tesco/
+url: /kings-lynn/tesco-campbells-meadow/
 shop: convenience
 ---

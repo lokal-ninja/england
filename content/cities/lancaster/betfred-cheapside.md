@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
-url: /lancaster/betfred/
+url: /lancaster/betfred-cheapside/
 shop: bookmaker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Prontaprint"
-url: /london/prontaprint/
+url: /london/prontaprint-malden-road/
 shop: copyshop
 ---

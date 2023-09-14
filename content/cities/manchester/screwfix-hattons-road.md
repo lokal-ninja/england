@@ -1,5 +1,5 @@
 ---
 title: "Screwfix"
-url: /manchester/screwfix/
+url: /manchester/screwfix-hattons-road/
 shop: doityourself
 ---

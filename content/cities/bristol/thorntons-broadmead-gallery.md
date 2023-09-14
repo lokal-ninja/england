@@ -1,5 +1,5 @@
 ---
 title: "Thorntons"
-url: /bristol/thorntons/
+url: /bristol/thorntons-broadmead-gallery/
 shop: confectionery
 ---

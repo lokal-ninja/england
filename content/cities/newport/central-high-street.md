@@ -1,5 +1,5 @@
 ---
 title: "Central"
-url: /newport/central/
+url: /newport/central-high-street/
 shop: convenience
 ---

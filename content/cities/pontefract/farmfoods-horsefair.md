@@ -1,5 +1,5 @@
 ---
 title: "Farmfoods"
-url: /pontefract/farmfoods/
+url: /pontefract/farmfoods-horsefair/
 shop: frozen food
 ---

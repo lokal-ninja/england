@@ -1,5 +1,5 @@
 ---
 title: "Central"
-url: /ventnor/central/
+url: /ventnor/central-newport-road/
 shop: convenience
 ---

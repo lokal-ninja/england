@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
-url: /bristol/iceland/
+url: /bristol/iceland-crown-glass-place/
 shop: frozen food
 ---

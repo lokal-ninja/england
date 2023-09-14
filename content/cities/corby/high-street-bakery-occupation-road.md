@@ -1,5 +1,5 @@
 ---
 title: "High Street Bakery"
-url: /corby/high-street-bakery/
+url: /corby/high-street-bakery-occupation-road/
 shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nails & Spa"
-url: /london/nails-and-spa/
+url: /london/nails-and-spa-alexandra-park-road/
 shop: beauty
 ---

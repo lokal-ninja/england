@@ -1,5 +1,5 @@
 ---
 title: "Argos"
-url: /birmingham/argos/
+url: /birmingham/argos-walsall-road/
 shop: catalogue
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Premier"
-url: /wallsend/premier/
+url: /wallsend/premier-coast-road/
 shop: convenience
 ---

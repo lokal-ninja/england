@@ -1,5 +1,5 @@
 ---
 title: "Peacocks"
-url: /pontefract/peacocks/
+url: /pontefract/peacocks-beastfair/
 shop: clothes
 ---

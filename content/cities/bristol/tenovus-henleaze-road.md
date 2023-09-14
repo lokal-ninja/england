@@ -1,5 +1,5 @@
 ---
 title: "Tenovus"
-url: /bristol/tenovus/
+url: /bristol/tenovus-henleaze-road/
 shop: charity
 ---

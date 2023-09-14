@@ -1,5 +1,5 @@
 ---
 title: "Cook"
-url: /london/cook/
+url: /london/cook-upper-richmond-road-west/
 shop: frozen food
 ---

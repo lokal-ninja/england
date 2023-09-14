@@ -1,5 +1,5 @@
 ---
 title: "British Heart Foundation"
-url: /sheffield/british-heart-foundation/
+url: /sheffield/british-heart-foundation-the-moor/
 shop: charity
 ---

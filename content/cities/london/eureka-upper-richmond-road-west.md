@@ -1,5 +1,5 @@
 ---
 title: "Eureka"
-url: /london/eureka/
+url: /london/eureka-upper-richmond-road-west/
 shop: kitchen
 ---

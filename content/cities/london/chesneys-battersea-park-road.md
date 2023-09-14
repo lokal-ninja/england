@@ -1,5 +1,5 @@
 ---
 title: "Chesney's"
-url: /london/chesneys/
+url: /london/chesneys-battersea-park-road/
 shop: shop
 ---

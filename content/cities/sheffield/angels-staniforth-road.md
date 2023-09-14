@@ -1,5 +1,5 @@
 ---
 title: "Angel's"
-url: /sheffield/angels/
+url: /sheffield/angels-staniforth-road/
 shop: beauty
 ---

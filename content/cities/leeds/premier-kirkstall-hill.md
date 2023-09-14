@@ -1,5 +1,5 @@
 ---
 title: "Premier"
-url: /leeds/premier/
+url: /leeds/premier-kirkstall-hill/
 shop: convenience
 ---

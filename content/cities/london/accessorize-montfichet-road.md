@@ -1,5 +1,5 @@
 ---
 title: "Accessorize"
-url: /london/accessorize/
+url: /london/accessorize-montfichet-road/
 shop: boutique
 ---

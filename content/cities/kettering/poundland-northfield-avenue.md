@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
-url: /kettering/poundland/
+url: /kettering/poundland-northfield-avenue/
 shop: variety store
 ---

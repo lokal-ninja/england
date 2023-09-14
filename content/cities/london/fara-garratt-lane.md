@@ -1,5 +1,5 @@
 ---
 title: "Fara"
-url: /london/fara/
+url: /london/fara-garratt-lane/
 shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Supersave"
-url: /london/supersave/
+url: /london/supersave-putney-high-street/
 shop: convenience
 ---

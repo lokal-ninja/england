@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
-url: /london/costcutter/
+url: /london/costcutter-ben-jonson-road/
 shop: convenience
 ---

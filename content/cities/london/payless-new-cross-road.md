@@ -1,5 +1,5 @@
 ---
 title: "Payless"
-url: /london/payless/
+url: /london/payless-new-cross-road/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Westrow"
-url: /leeds/westrow/
+url: /leeds/westrow-thorntons-arcade/
 shop: hairdresser
 ---

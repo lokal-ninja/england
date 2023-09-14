@@ -1,5 +1,5 @@
 ---
 title: "York Gin"
-url: /york/york-gin/
+url: /york/york-gin-station-road/
 shop: alcohol
 ---

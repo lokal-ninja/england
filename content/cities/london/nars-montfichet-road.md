@@ -1,5 +1,5 @@
 ---
 title: "Nars"
-url: /london/nars/
+url: /london/nars-montfichet-road/
 shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Korzinka"
-url: /boston/korzinka/
+url: /boston/korzinka-argyle-street/
 shop: supermarket
 ---

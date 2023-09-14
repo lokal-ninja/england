@@ -1,5 +1,5 @@
 ---
 title: "Harvest"
-url: /london/harvest/
+url: /london/harvest-blackstock-road/
 shop: greengrocer
 ---

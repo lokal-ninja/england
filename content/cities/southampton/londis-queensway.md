@@ -1,5 +1,5 @@
 ---
 title: "Londis"
-url: /southampton/londis/
+url: /southampton/londis-queensway/
 shop: convenience
 ---

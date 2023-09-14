@@ -1,5 +1,5 @@
 ---
 title: "Domestic Science"
-url: /stroud/domestic-science/
+url: /stroud/domestic-science-fountain-street/
 shop: gift
 ---

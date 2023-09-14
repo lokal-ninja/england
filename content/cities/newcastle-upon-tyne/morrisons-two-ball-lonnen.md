@@ -1,5 +1,5 @@
 ---
 title: "Morrisons"
-url: /newcastle-upon-tyne/morrisons/
+url: /newcastle-upon-tyne/morrisons-two-ball-lonnen/
 shop: supermarket
 ---

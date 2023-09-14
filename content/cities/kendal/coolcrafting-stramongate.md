@@ -1,5 +1,5 @@
 ---
 title: "Coolcrafting"
-url: /kendal/coolcrafting/
+url: /kendal/coolcrafting-stramongate/
 shop: craft
 ---

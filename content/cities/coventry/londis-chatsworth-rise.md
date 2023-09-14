@@ -1,5 +1,5 @@
 ---
 title: "Londis"
-url: /coventry/londis/
+url: /coventry/londis-chatsworth-rise/
 shop: convenience
 ---

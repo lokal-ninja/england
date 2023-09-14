@@ -1,5 +1,5 @@
 ---
 title: "Cubitts"
-url: /london/cubitts/
+url: /london/cubitts-marshall-street/
 shop: optician
 ---

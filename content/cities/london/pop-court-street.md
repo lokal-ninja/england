@@ -1,5 +1,5 @@
 ---
 title: "Pop"
-url: /london/pop/
+url: /london/pop-court-street/
 shop: deli
 ---

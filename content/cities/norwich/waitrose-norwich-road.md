@@ -1,5 +1,5 @@
 ---
 title: "Waitrose"
-url: /norwich/waitrose/
+url: /norwich/waitrose-norwich-road/
 shop: supermarket
 ---

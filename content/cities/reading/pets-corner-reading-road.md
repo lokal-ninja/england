@@ -1,5 +1,5 @@
 ---
 title: "Pets Corner"
-url: /reading/pets-corner/
+url: /reading/pets-corner-reading-road/
 shop: pet
 ---

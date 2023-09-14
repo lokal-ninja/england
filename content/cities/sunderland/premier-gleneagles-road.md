@@ -1,5 +1,5 @@
 ---
 title: "Premier"
-url: /sunderland/premier/
+url: /sunderland/premier-gleneagles-road/
 shop: convenience
 ---

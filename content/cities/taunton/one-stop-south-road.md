@@ -1,5 +1,5 @@
 ---
 title: "One Stop"
-url: /taunton/one-stop/
+url: /taunton/one-stop-south-road/
 shop: convenience
 ---

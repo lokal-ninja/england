@@ -1,5 +1,5 @@
 ---
 title: "Pavers"
-url: /plymouth/pavers/
+url: /plymouth/pavers-new-george-street/
 shop: shoes
 ---

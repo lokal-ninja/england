@@ -1,5 +1,5 @@
 ---
 title: "River Island"
-url: /bristol/river-island/
+url: /bristol/river-island-the-mall/
 shop: clothes
 ---

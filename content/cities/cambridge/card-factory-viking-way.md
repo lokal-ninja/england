@@ -1,5 +1,5 @@
 ---
 title: "Card Factory"
-url: /cambridge/card-factory/
+url: /cambridge/card-factory-viking-way/
 shop: gift
 ---

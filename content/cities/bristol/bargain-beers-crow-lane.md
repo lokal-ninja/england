@@ -1,5 +1,5 @@
 ---
 title: "Bargain Beers"
-url: /bristol/bargain-beers/
+url: /bristol/bargain-beers-crow-lane/
 shop: alcohol
 ---

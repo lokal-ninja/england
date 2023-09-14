@@ -1,5 +1,5 @@
 ---
 title: "McColl's"
-url: /ipswich/mccolls/
+url: /ipswich/mccolls-stoke-park-drive/
 shop: convenience
 ---

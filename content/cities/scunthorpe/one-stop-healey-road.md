@@ -1,5 +1,5 @@
 ---
 title: "One Stop"
-url: /scunthorpe/one-stop/
+url: /scunthorpe/one-stop-healey-road/
 shop: convenience
 ---

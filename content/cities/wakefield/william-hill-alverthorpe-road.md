@@ -1,5 +1,5 @@
 ---
 title: "William Hill"
-url: /wakefield/william-hill/
+url: /wakefield/william-hill-alverthorpe-road/
 shop: bookmaker
 ---

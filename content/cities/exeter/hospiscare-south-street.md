@@ -1,5 +1,5 @@
 ---
 title: "Hospiscare"
-url: /exeter/hospiscare/
+url: /exeter/hospiscare-south-street/
 shop: charity
 ---

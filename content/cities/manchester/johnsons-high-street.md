@@ -1,5 +1,5 @@
 ---
 title: "Johnsons"
-url: /manchester/johnsons/
+url: /manchester/johnsons-high-street/
 shop: laundry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jeroboams"
-url: /london/jeroboams/
+url: /london/jeroboams-fortis-green-road/
 shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
-url: /dartford/costcutter/
+url: /dartford/costcutter-lowfield-street/
 shop: convenience
 ---

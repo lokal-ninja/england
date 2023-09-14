@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
-url: /exeter/poundland/
+url: /exeter/poundland-cowick-street/
 shop: variety store
 ---

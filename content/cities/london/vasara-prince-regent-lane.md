@@ -1,5 +1,5 @@
 ---
 title: "Vasara"
-url: /london/vasara/
+url: /london/vasara-prince-regent-lane/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Timpson"
-url: /colchester/timpson/
+url: /colchester/timpson-lion-walk/
 shop: shoes
 ---

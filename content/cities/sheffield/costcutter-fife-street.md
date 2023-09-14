@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
-url: /sheffield/costcutter/
+url: /sheffield/costcutter-fife-street/
 shop: convenience
 ---

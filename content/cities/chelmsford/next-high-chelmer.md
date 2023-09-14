@@ -1,5 +1,5 @@
 ---
 title: "Next"
-url: /chelmsford/next/
+url: /chelmsford/next-high-chelmer/
 shop: clothes
 ---

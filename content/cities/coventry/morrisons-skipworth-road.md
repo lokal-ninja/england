@@ -1,5 +1,5 @@
 ---
 title: "Morrisons"
-url: /coventry/morrisons/
+url: /coventry/morrisons-skipworth-road/
 shop: supermarket
 ---

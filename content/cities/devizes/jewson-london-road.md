@@ -1,5 +1,5 @@
 ---
 title: "Jewson"
-url: /devizes/jewson/
+url: /devizes/jewson-london-road/
 shop: trade
 ---

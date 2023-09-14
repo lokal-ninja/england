@@ -1,5 +1,5 @@
 ---
 title: "Morrisons"
-url: /leeds/morrisons/
+url: /leeds/morrisons-windsor-court/
 shop: supermarket
 ---

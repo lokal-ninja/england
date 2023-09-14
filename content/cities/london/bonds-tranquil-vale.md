@@ -1,5 +1,5 @@
 ---
 title: "Bonds"
-url: /london/bonds/
+url: /london/bonds-tranquil-vale/
 shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mace"
-url: /deal/mace/
+url: /deal/mace-high-street/
 shop: convenience
 ---

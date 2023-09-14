@@ -1,5 +1,5 @@
 ---
 title: "Costa"
-url: /blackpool/costa/
+url: /blackpool/costa-devonshire-road/
 shop: coffee
 ---

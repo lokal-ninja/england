@@ -1,5 +1,5 @@
 ---
 title: "Romantica"
-url: /bristol/romantica/
+url: /bristol/romantica-henleaze-road/
 shop: office supplies
 ---

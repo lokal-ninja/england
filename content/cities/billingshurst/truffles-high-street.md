@@ -1,5 +1,5 @@
 ---
 title: "Truffles"
-url: /billingshurst/truffles/
+url: /billingshurst/truffles-high-street/
 shop: bakery
 ---

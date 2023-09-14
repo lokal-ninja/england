@@ -1,5 +1,5 @@
 ---
 title: "Nicholas"
-url: /london/nicholas/
+url: /london/nicholas-high-road-leytonstone/
 shop: hairdresser
 ---

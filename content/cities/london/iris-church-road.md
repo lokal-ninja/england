@@ -1,5 +1,5 @@
 ---
 title: "Iris"
-url: /london/iris/
+url: /london/iris-church-road/
 shop: clothes
 ---

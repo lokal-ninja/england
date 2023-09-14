@@ -1,5 +1,5 @@
 ---
 title: "RSPCA"
-url: /oldham/rspca/
+url: /oldham/rspca-market-street/
 shop: charity
 ---

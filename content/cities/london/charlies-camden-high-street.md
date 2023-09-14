@@ -1,5 +1,5 @@
 ---
 title: "Charlie's"
-url: /london/charlies/
+url: /london/charlies-camden-high-street/
 shop: hairdresser
 ---

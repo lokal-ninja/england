@@ -1,5 +1,5 @@
 ---
 title: "Wakefields"
-url: /horsham/wakefields/
+url: /horsham/wakefields-west-street/
 shop: clothes
 ---

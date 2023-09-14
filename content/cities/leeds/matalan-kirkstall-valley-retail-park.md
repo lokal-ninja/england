@@ -1,5 +1,5 @@
 ---
 title: "Matalan"
-url: /leeds/matalan/
+url: /leeds/matalan-kirkstall-valley-retail-park/
 shop: clothes
 ---

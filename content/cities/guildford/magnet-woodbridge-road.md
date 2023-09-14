@@ -1,5 +1,5 @@
 ---
 title: "Magnet"
-url: /guildford/magnet/
+url: /guildford/magnet-woodbridge-road/
 shop: kitchen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mccoll'S"
-url: /skegness/mccolls/
+url: /skegness/mccolls-anchor-lane/
 shop: convenience
 ---

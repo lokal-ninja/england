@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /burnley/spar/
+url: /burnley/spar-st-matthew-street/
 shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Forsters"
-url: /consett/forsters/
+url: /consett/forsters-victoria-road/
 shop: electronics
 ---

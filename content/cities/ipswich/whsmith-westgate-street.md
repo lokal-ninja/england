@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
-url: /ipswich/whsmith/
+url: /ipswich/whsmith-westgate-street/
 shop: books
 ---

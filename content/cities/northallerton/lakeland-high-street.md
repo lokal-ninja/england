@@ -1,5 +1,5 @@
 ---
 title: "Lakeland"
-url: /northallerton/lakeland/
+url: /northallerton/lakeland-high-street/
 shop: houseware
 ---

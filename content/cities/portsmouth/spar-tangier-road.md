@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /portsmouth/spar/
+url: /portsmouth/spar-tangier-road/
 shop: convenience
 ---

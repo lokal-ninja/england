@@ -1,5 +1,5 @@
 ---
 title: "Euxton Sports & Prestige"
-url: /chorley/euxton-sports-and-prestige/
+url: /chorley/euxton-sports-and-prestige-wigan-road/
 shop: car
 ---

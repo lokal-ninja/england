@@ -1,5 +1,5 @@
 ---
 title: "Age UK"
-url: /york/age-uk/
+url: /york/age-uk-fossgate/
 shop: charity
 ---

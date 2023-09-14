@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
-url: /bury-st-edmunds/betfred/
+url: /bury-st-edmunds/betfred-cornhill/
 shop: bookmaker
 ---

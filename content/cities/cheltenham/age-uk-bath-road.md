@@ -1,5 +1,5 @@
 ---
 title: "Age UK"
-url: /cheltenham/age-uk/
+url: /cheltenham/age-uk-bath-road/
 shop: charity
 ---

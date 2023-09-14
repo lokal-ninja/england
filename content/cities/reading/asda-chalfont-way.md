@@ -1,5 +1,5 @@
 ---
 title: "Asda"
-url: /reading/asda/
+url: /reading/asda-chalfont-way/
 shop: supermarket
 ---

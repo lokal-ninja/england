@@ -1,5 +1,5 @@
 ---
 title: "Poundstretcher"
-url: /london/poundstretcher/
+url: /london/poundstretcher-kentish-town-road/
 shop: variety store
 ---

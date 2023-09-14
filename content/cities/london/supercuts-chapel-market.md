@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
-url: /london/supercuts/
+url: /london/supercuts-chapel-market/
 shop: hairdresser
 ---

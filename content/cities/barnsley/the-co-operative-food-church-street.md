@@ -1,5 +1,5 @@
 ---
 title: "The Co-operative Food"
-url: /barnsley/the-co-operative-food/
+url: /barnsley/the-co-operative-food-church-street/
 shop: supermarket
 ---

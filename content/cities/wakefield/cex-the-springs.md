@@ -1,5 +1,5 @@
 ---
 title: "CeX"
-url: /wakefield/cex/
+url: /wakefield/cex-the-springs/
 shop: electronics
 ---

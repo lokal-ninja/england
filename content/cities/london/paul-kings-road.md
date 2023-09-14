@@ -1,5 +1,5 @@
 ---
 title: "Paul"
-url: /london/paul/
+url: /london/paul-kings-road/
 shop: bakery
 ---

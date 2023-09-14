@@ -1,5 +1,5 @@
 ---
 title: "Go Local Extra"
-url: /durham/go-local-extra/
+url: /durham/go-local-extra-granville-terrace/
 shop: convenience
 ---

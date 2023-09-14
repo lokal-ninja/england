@@ -1,5 +1,5 @@
 ---
 title: "Premier"
-url: /pontefract/premier/
+url: /pontefract/premier-doncaster-road/
 shop: convenience
 ---

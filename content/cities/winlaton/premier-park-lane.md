@@ -1,5 +1,5 @@
 ---
 title: "Premier"
-url: /winlaton/premier/
+url: /winlaton/premier-park-lane/
 shop: convenience
 ---

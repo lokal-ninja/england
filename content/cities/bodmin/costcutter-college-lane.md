@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
-url: /bodmin/costcutter/
+url: /bodmin/costcutter-college-lane/
 shop: convenience
 ---

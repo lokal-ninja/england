@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
-url: /bootle/iceland/
+url: /bootle/iceland-marian-square/
 shop: frozen food
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nelsons"
-url: /stamford/nelsons/
+url: /stamford/nelsons-red-lion-square/
 shop: butcher
 ---

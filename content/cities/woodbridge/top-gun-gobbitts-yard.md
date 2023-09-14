@@ -1,5 +1,5 @@
 ---
 title: "Top Gun"
-url: /woodbridge/top-gun/
+url: /woodbridge/top-gun-gobbitts-yard/
 shop: hairdresser
 ---

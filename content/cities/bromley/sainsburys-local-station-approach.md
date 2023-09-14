@@ -1,5 +1,5 @@
 ---
 title: "Sainsbury's Local"
-url: /bromley/sainsburys-local/
+url: /bromley/sainsburys-local-station-approach/
 shop: convenience
 ---

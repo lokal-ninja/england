@@ -1,5 +1,5 @@
 ---
 title: "Cooplands"
-url: /scunthorpe/cooplands/
+url: /scunthorpe/cooplands-high-street/
 shop: bakery
 ---

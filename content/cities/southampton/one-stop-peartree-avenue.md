@@ -1,5 +1,5 @@
 ---
 title: "One Stop"
-url: /southampton/one-stop/
+url: /southampton/one-stop-peartree-avenue/
 shop: convenience
 ---

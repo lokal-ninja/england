@@ -1,5 +1,5 @@
 ---
 title: "M&S Simply Food"
-url: /northampton/mands-simply-food/
+url: /northampton/mands-simply-food-harborough-road/
 shop: convenience
 ---

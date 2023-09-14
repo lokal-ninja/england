@@ -1,5 +1,5 @@
 ---
 title: "SuperSave"
-url: /london/supersave/
+url: /london/supersave-upper-richmond-road-west/
 shop: convenience
 ---

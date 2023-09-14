@@ -1,5 +1,5 @@
 ---
 title: "Hairheads"
-url: /birmingham/hairheads/
+url: /birmingham/hairheads-raddlebarn-road/
 shop: hairdresser
 ---

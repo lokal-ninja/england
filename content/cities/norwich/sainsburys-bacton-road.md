@@ -1,5 +1,5 @@
 ---
 title: "Sainsbury's"
-url: /norwich/sainsburys/
+url: /norwich/sainsburys-bacton-road/
 shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sainsbury's"
-url: /attleborough/sainsburys/
+url: /attleborough/sainsburys-high-street/
 shop: convenience
 ---

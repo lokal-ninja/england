@@ -1,5 +1,5 @@
 ---
 title: "Specsavers"
-url: /great-yarmouth/specsavers/
+url: /great-yarmouth/specsavers-market-place/
 shop: optician
 ---

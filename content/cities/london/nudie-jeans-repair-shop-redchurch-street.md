@@ -1,5 +1,5 @@
 ---
 title: "Nudie Jeans Repair Shop"
-url: /london/nudie-jeans-repair-shop/
+url: /london/nudie-jeans-repair-shop-redchurch-street/
 shop: clothes
 ---

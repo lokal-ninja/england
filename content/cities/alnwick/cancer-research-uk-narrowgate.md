@@ -1,5 +1,5 @@
 ---
 title: "Cancer Research UK"
-url: /alnwick/cancer-research-uk/
+url: /alnwick/cancer-research-uk-narrowgate/
 shop: charity
 ---

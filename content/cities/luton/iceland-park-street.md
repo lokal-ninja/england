@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
-url: /luton/iceland/
+url: /luton/iceland-park-street/
 shop: frozen food
 ---

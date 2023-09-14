@@ -1,5 +1,5 @@
 ---
 title: "Budgens"
-url: /london/budgens/
+url: /london/budgens-battersea-park-road/
 shop: convenience
 ---

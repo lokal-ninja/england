@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
-url: /liverpool/iceland/
+url: /liverpool/iceland-allerton-road/
 shop: frozen food
 ---

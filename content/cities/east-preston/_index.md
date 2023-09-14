@@ -1,6 +1,6 @@
 ---
 title: East Preston
 url: /east-preston/
-latitude: 50.811
-longitude: -0.481
+latitude: 50.817
+longitude: -0.477
 ---

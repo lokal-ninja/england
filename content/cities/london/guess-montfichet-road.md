@@ -1,5 +1,5 @@
 ---
 title: "Guess"
-url: /london/guess/
+url: /london/guess-montfichet-road/
 shop: clothes
 ---

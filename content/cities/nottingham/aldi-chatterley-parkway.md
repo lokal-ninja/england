@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
-url: /nottingham/aldi/
+url: /nottingham/aldi-chatterley-parkway/
 shop: supermarket
 ---

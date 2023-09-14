@@ -1,5 +1,5 @@
 ---
 title: "Chatwins"
-url: /chester/chatwins/
+url: /chester/chatwins-the-parade/
 shop: bakery
 ---

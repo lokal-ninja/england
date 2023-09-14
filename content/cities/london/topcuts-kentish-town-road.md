@@ -1,5 +1,5 @@
 ---
 title: "Topcuts"
-url: /london/topcuts/
+url: /london/topcuts-kentish-town-road/
 shop: hairdresser
 ---

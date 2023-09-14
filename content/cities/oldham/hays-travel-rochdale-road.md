@@ -1,5 +1,5 @@
 ---
 title: "Hays Travel"
-url: /oldham/hays-travel/
+url: /oldham/hays-travel-rochdale-road/
 shop: travel agency
 ---

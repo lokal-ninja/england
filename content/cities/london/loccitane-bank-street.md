@@ -1,5 +1,5 @@
 ---
 title: "L'Occitane"
-url: /london/loccitane/
+url: /london/loccitane-bank-street/
 shop: beauty
 ---

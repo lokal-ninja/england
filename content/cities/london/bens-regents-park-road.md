@@ -1,5 +1,5 @@
 ---
 title: "Ben's"
-url: /london/bens/
+url: /london/bens-regents-park-road/
 shop: greengrocer
 ---

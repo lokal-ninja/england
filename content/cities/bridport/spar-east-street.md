@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /bridport/spar/
+url: /bridport/spar-east-street/
 shop: convenience
 ---

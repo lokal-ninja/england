@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /london/spar/
+url: /london/spar-ellesmere-street/
 shop: convenience
 ---

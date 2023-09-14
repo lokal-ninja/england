@@ -1,5 +1,5 @@
 ---
 title: "Card Factory"
-url: /gainsborough/card-factory/
+url: /gainsborough/card-factory-beaumont-street/
 shop: gift
 ---

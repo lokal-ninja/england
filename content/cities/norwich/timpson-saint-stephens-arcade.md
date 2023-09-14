@@ -1,5 +1,5 @@
 ---
 title: "Timpson"
-url: /norwich/timpson/
+url: /norwich/timpson-saint-stephens-arcade/
 shop: shop
 ---

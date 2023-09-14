@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /doncaster/spar/
+url: /doncaster/spar-ellers-lane/
 shop: supermarket
 ---

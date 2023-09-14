@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
-url: /bolton/aldi/
+url: /bolton/aldi-breightmet-fold-lane/
 shop: supermarket
 ---

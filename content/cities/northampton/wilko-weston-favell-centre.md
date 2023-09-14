@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
-url: /northampton/wilko/
+url: /northampton/wilko-weston-favell-centre/
 shop: variety store
 ---

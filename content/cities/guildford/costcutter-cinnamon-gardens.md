@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
-url: /guildford/costcutter/
+url: /guildford/costcutter-cinnamon-gardens/
 shop: convenience
 ---

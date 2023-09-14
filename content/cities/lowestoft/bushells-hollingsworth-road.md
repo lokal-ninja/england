@@ -1,5 +1,5 @@
 ---
 title: "Bushells"
-url: /lowestoft/bushells/
+url: /lowestoft/bushells-hollingsworth-road/
 shop: bakery
 ---

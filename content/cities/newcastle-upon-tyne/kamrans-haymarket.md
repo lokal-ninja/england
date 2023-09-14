@@ -1,5 +1,5 @@
 ---
 title: "Kamran's"
-url: /newcastle-upon-tyne/kamrans/
+url: /newcastle-upon-tyne/kamrans-haymarket/
 shop: hairdresser
 ---

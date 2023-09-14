@@ -1,5 +1,5 @@
 ---
 title: "Jones Bootmaker"
-url: /london/jones-bootmaker/
+url: /london/jones-bootmaker-watling-street/
 shop: shoes
 ---

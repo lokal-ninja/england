@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
-url: /pontefract/whsmith/
+url: /pontefract/whsmith-market-place/
 shop: books
 ---

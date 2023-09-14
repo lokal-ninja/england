@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
-url: /oldham/betfred/
+url: /oldham/betfred-eldon-precinct/
 shop: bookmaker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Amathus"
-url: /london/amathus/
+url: /london/amathus-muswell-hill-broadway/
 shop: alcohol
 ---

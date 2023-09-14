@@ -1,5 +1,5 @@
 ---
 title: "Jewson"
-url: /derby/jewson/
+url: /derby/jewson-alfreton-road/
 shop: trade
 ---

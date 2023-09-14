@@ -1,5 +1,5 @@
 ---
 title: "Blackwell's"
-url: /oxford/blackwells/
+url: /oxford/blackwells-leiden-square/
 shop: books
 ---

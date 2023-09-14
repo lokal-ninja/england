@@ -1,5 +1,5 @@
 ---
 title: "Central"
-url: /east-cowes/central/
+url: /east-cowes/central-well-road/
 shop: convenience
 ---

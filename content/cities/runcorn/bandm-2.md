@@ -1,5 +1,5 @@
 ---
 title: "B&M"
-url: /runcorn/bandm/
+url: /runcorn/bandm-2/
 shop: variety store
 ---

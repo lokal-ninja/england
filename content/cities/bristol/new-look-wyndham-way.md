@@ -1,5 +1,5 @@
 ---
 title: "New Look"
-url: /bristol/new-look/
+url: /bristol/new-look-wyndham-way/
 shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "auto Devotion"
-url: /norwich/auto-devotion/
+url: /norwich/auto-devotion-hall-road/
 shop: car
 ---

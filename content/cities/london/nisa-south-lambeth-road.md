@@ -1,5 +1,5 @@
 ---
 title: "Nisa"
-url: /london/nisa/
+url: /london/nisa-south-lambeth-road/
 shop: convenience
 ---

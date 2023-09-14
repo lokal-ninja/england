@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
-url: /bournemouth/wilko/
+url: /bournemouth/wilko-wimborne-road/
 shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nisa"
-url: /york/nisa/
+url: /york/nisa-garrowby-way/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /newquay/spar/
+url: /newquay/spar-tower-road/
 shop: convenience
 ---

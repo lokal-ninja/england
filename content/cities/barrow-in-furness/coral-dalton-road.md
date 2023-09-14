@@ -1,5 +1,5 @@
 ---
 title: "Coral"
-url: /barrow-in-furness/coral/
+url: /barrow-in-furness/coral-dalton-road/
 shop: bookmaker
 ---

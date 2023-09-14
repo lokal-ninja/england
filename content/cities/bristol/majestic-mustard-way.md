@@ -1,5 +1,5 @@
 ---
 title: "Majestic"
-url: /bristol/majestic/
+url: /bristol/majestic-mustard-way/
 shop: alcohol
 ---

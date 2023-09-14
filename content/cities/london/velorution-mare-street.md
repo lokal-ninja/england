@@ -1,5 +1,5 @@
 ---
 title: "Velorution"
-url: /london/velorution/
+url: /london/velorution-mare-street/
 shop: bicycle
 ---

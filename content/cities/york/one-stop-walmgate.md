@@ -1,5 +1,5 @@
 ---
 title: "One Stop"
-url: /york/one-stop/
+url: /york/one-stop-walmgate/
 shop: convenience
 ---

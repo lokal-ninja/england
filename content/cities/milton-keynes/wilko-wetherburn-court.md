@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
-url: /milton-keynes/wilko/
+url: /milton-keynes/wilko-wetherburn-court/
 shop: houseware
 ---

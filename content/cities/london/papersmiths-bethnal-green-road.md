@@ -1,5 +1,5 @@
 ---
 title: "Papersmiths"
-url: /london/papersmiths/
+url: /london/papersmiths-bethnal-green-road/
 shop: shop
 ---

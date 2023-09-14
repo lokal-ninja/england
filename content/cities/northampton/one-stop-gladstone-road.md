@@ -1,5 +1,5 @@
 ---
 title: "One Stop"
-url: /northampton/one-stop/
+url: /northampton/one-stop-gladstone-road/
 shop: convenience
 ---

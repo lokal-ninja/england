@@ -1,5 +1,5 @@
 ---
 title: "Salamander"
-url: /derby/salamander/
+url: /derby/salamander-sadler-gate/
 shop: tattoo
 ---

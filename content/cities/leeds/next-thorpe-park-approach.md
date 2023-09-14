@@ -1,5 +1,5 @@
 ---
 title: "Next"
-url: /leeds/next/
+url: /leeds/next-thorpe-park-approach/
 shop: clothes
 ---

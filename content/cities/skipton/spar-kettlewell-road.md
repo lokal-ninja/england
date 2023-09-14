@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /skipton/spar/
+url: /skipton/spar-kettlewell-road/
 shop: convenience
 ---

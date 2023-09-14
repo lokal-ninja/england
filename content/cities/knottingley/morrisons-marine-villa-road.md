@@ -1,5 +1,5 @@
 ---
 title: "Morrisons"
-url: /knottingley/morrisons/
+url: /knottingley/morrisons-marine-villa-road/
 shop: convenience
 ---

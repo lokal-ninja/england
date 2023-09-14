@@ -1,5 +1,5 @@
 ---
 title: "ProCook"
-url: /london/procook/
+url: /london/procook-tottenham-court-road/
 shop: houseware
 ---

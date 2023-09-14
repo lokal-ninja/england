@@ -1,5 +1,5 @@
 ---
 title: "Barber Shop"
-url: /south-shields/barber-shop/
+url: /south-shields/barber-shop-east-stainton-street/
 shop: hairdresser
 ---

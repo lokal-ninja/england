@@ -1,5 +1,5 @@
 ---
 title: "Headmasters"
-url: /london/headmasters/
+url: /london/headmasters-old-york-road/
 shop: hairdresser
 ---

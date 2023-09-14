@@ -1,5 +1,5 @@
 ---
 title: "European Food Store"
-url: /wakefield/european-food-store/
+url: /wakefield/european-food-store-agbrigg-road/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Simmons"
-url: /st-albans/simmons/
+url: /st-albans/simmons-hatfield-road/
 shop: bakery
 ---

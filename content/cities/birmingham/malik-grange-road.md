@@ -1,5 +1,5 @@
 ---
 title: "Malik"
-url: /birmingham/malik/
+url: /birmingham/malik-grange-road/
 shop: hairdresser
 ---

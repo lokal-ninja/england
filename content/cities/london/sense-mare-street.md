@@ -1,5 +1,5 @@
 ---
 title: "Sense"
-url: /london/sense/
+url: /london/sense-mare-street/
 shop: charity
 ---

@@ -1,6 +1,6 @@
 ---
 title: Sevenoaks
 url: /sevenoaks/
-latitude: 51.271
-longitude: 0.192
+latitude: 51.272
+longitude: 0.191
 ---

@@ -1,5 +1,5 @@
 ---
 title: "RSPCA"
-url: /coventry/rspca/
+url: /coventry/rspca-providence-street/
 shop: charity
 ---

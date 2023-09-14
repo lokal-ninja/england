@@ -1,5 +1,5 @@
 ---
 title: "Morrisons Daily"
-url: /congleton/morrisons-daily/
+url: /congleton/morrisons-daily-st-johns-road/
 shop: convenience
 ---

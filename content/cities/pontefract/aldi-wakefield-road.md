@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
-url: /pontefract/aldi/
+url: /pontefract/aldi-wakefield-road/
 shop: supermarket
 ---

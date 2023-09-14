@@ -1,5 +1,5 @@
 ---
 title: "McColl's"
-url: /guildford/mccolls/
+url: /guildford/mccolls-high-street/
 shop: convenience
 ---

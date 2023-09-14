@@ -1,5 +1,5 @@
 ---
 title: "Martin's"
-url: /peterborough/martins/
+url: /peterborough/martins-bretton-centre/
 shop: newsagent
 ---

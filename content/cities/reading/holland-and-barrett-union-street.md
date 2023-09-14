@@ -1,5 +1,5 @@
 ---
 title: "Holland & Barrett"
-url: /reading/holland-and-barrett/
+url: /reading/holland-and-barrett-union-street/
 shop: health food
 ---

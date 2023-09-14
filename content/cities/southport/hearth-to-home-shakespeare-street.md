@@ -1,5 +1,5 @@
 ---
 title: "Hearth To Home"
-url: /southport/hearth-to-home/
+url: /southport/hearth-to-home-shakespeare-street/
 shop: fireplace
 ---

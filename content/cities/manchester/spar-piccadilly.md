@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /manchester/spar/
+url: /manchester/spar-piccadilly/
 shop: convenience
 ---

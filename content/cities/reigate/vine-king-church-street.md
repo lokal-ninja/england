@@ -1,5 +1,5 @@
 ---
 title: "Vine King"
-url: /reigate/vine-king/
+url: /reigate/vine-king-church-street/
 shop: alcohol
 ---

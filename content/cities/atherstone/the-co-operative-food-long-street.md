@@ -1,5 +1,5 @@
 ---
 title: "The Co-operative Food"
-url: /atherstone/the-co-operative-food/
+url: /atherstone/the-co-operative-food-long-street/
 shop: supermarket
 ---

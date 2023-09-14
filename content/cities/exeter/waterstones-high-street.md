@@ -1,5 +1,5 @@
 ---
 title: "Waterstones"
-url: /exeter/waterstones/
+url: /exeter/waterstones-high-street/
 shop: books
 ---

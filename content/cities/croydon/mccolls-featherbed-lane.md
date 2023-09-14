@@ -1,5 +1,5 @@
 ---
 title: "McColl's"
-url: /croydon/mccolls/
+url: /croydon/mccolls-featherbed-lane/
 shop: convenience
 ---

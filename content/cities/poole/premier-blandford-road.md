@@ -1,5 +1,5 @@
 ---
 title: "Premier"
-url: /poole/premier/
+url: /poole/premier-blandford-road/
 shop: convenience
 ---

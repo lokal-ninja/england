@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
-url: /newcastle-upon-tyne/ladbrokes/
+url: /newcastle-upon-tyne/ladbrokes-adelaide-terrace/
 shop: bookmaker
 ---

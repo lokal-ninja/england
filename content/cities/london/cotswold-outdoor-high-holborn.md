@@ -1,5 +1,5 @@
 ---
 title: "Cotswold Outdoor"
-url: /london/cotswold-outdoor/
+url: /london/cotswold-outdoor-high-holborn/
 shop: outdoor
 ---

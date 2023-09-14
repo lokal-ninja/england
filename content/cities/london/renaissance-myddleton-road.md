@@ -1,5 +1,5 @@
 ---
 title: "Renaissance"
-url: /london/renaissance/
+url: /london/renaissance-myddleton-road/
 shop: musical instrument
 ---

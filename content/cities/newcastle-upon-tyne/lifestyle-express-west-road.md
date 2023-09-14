@@ -1,5 +1,5 @@
 ---
 title: "Lifestyle Express"
-url: /newcastle-upon-tyne/lifestyle-express/
+url: /newcastle-upon-tyne/lifestyle-express-west-road/
 shop: convenience
 ---

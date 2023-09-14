@@ -1,5 +1,5 @@
 ---
 title: "Coral"
-url: /grays/coral/
+url: /grays/coral-lodge-lane/
 shop: bookmaker
 ---

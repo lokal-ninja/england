@@ -1,5 +1,5 @@
 ---
 title: "Richard's Flooring"
-url: /southampton/richards-flooring/
+url: /southampton/richards-flooring-manor-road/
 shop: flooring
 ---

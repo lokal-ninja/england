@@ -1,5 +1,5 @@
 ---
 title: "Barnardo's"
-url: /chorley/barnardos/
+url: /chorley/barnardos-keepers-wood-way/
 shop: charity
 ---

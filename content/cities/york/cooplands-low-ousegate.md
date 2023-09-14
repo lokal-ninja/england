@@ -1,5 +1,5 @@
 ---
 title: "Cooplands"
-url: /york/cooplands/
+url: /york/cooplands-low-ousegate/
 shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bargain Booze"
-url: /southport/bargain-booze/
+url: /southport/bargain-booze-bispham-road/
 shop: alcohol
 ---

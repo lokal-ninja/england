@@ -1,5 +1,5 @@
 ---
 title: "Londis"
-url: /birmingham/londis/
+url: /birmingham/londis-shirley-road/
 shop: supermarket
 ---

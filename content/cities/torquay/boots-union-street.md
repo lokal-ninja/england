@@ -1,5 +1,5 @@
 ---
 title: "Boots"
-url: /torquay/boots/
+url: /torquay/boots-union-street/
 shop: chemist
 ---

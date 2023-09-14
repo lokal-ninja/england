@@ -1,5 +1,5 @@
 ---
 title: "One Stop"
-url: /chichester/one-stop/
+url: /chichester/one-stop-millfield-close/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "River Island"
-url: /chelmsford/river-island/
+url: /chelmsford/river-island-high-chelmer/
 shop: clothes
 ---

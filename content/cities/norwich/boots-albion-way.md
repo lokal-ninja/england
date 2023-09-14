@@ -1,5 +1,5 @@
 ---
 title: "Boots"
-url: /norwich/boots/
+url: /norwich/boots-albion-way/
 shop: shop
 ---

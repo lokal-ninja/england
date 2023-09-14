@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
-url: /hatfield/ladbrokes/
+url: /hatfield/ladbrokes-high-view/
 shop: bookmaker
 ---

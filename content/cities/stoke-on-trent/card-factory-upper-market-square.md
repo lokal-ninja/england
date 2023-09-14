@@ -1,5 +1,5 @@
 ---
 title: "Card Factory"
-url: /stoke-on-trent/card-factory/
+url: /stoke-on-trent/card-factory-upper-market-square/
 shop: gift
 ---

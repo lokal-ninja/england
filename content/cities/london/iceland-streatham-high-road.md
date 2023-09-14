@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
-url: /london/iceland/
+url: /london/iceland-streatham-high-road/
 shop: frozen food
 ---

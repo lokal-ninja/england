@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
-url: /middlesbrough/poundland/
+url: /middlesbrough/poundland-captain-cook-square/
 shop: variety store
 ---

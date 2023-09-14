@@ -1,5 +1,5 @@
 ---
 title: "Argos"
-url: /truro/argos/
+url: /truro/argos-treliske-retail-park/
 shop: catalogue
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Coral"
-url: /nottingham/coral/
+url: /nottingham/coral-bestwood-park-road-west/
 shop: bookmaker
 ---

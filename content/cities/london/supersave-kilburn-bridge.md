@@ -1,5 +1,5 @@
 ---
 title: "Supersave"
-url: /london/supersave/
+url: /london/supersave-kilburn-bridge/
 shop: convenience
 ---

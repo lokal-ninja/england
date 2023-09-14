@@ -1,5 +1,5 @@
 ---
 title: "McColl's"
-url: /plymouth/mccolls/
+url: /plymouth/mccolls-exeter-street/
 shop: convenience
 ---

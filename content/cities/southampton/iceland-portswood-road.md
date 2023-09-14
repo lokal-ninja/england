@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
-url: /southampton/iceland/
+url: /southampton/iceland-portswood-road/
 shop: frozen food
 ---

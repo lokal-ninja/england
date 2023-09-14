@@ -1,5 +1,5 @@
 ---
 title: "Coral"
-url: /chelmsford/coral/
+url: /chelmsford/coral-village-square/
 shop: bookmaker
 ---

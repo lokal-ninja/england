@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
-url: /nottingham/poundland/
+url: /nottingham/poundland-radford-boulevard/
 shop: variety store
 ---

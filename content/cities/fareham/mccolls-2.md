@@ -1,5 +1,5 @@
 ---
 title: "McColl's"
-url: /fareham/mccolls/
+url: /fareham/mccolls-2/
 shop: convenience
 ---

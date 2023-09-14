@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
-url: /newcastle-upon-tyne/costcutter/
+url: /newcastle-upon-tyne/costcutter-fawdon-park-road/
 shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
-url: /chichester/tesco-express/
+url: /chichester/tesco-express-cakeham-road/
 shop: convenience
 ---

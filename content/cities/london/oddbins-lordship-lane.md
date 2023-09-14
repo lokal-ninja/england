@@ -1,5 +1,5 @@
 ---
 title: "Oddbins"
-url: /london/oddbins/
+url: /london/oddbins-lordship-lane/
 shop: alcohol
 ---

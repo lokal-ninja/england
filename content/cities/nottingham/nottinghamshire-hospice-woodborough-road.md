@@ -1,5 +1,5 @@
 ---
 title: "Nottinghamshire Hospice"
-url: /nottingham/nottinghamshire-hospice/
+url: /nottingham/nottinghamshire-hospice-woodborough-road/
 shop: charity
 ---

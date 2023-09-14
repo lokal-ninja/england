@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
-url: /fareham/iceland/
+url: /fareham/iceland-stubbington-green/
 shop: frozen food
 ---

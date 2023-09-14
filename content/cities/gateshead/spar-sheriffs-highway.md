@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /gateshead/spar/
+url: /gateshead/spar-sheriffs-highway/
 shop: convenience
 ---

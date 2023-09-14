@@ -1,5 +1,5 @@
 ---
 title: "Bargain Booze"
-url: /lancaster/bargain-booze/
+url: /lancaster/bargain-booze-newby-drive/
 shop: alcohol
 ---

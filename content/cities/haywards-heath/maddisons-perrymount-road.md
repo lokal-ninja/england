@@ -1,5 +1,5 @@
 ---
 title: "Maddisons"
-url: /haywards-heath/maddisons/
+url: /haywards-heath/maddisons-perrymount-road/
 shop: shop
 ---

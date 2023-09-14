@@ -1,5 +1,5 @@
 ---
 title: "Premier"
-url: /chichester/premier/
+url: /chichester/premier-hardham-road/
 shop: convenience
 ---

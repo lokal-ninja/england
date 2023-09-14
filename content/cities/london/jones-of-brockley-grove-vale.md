@@ -1,5 +1,5 @@
 ---
 title: "Jones of Brockley"
-url: /london/jones-of-brockley/
+url: /london/jones-of-brockley-grove-vale/
 shop: deli
 ---

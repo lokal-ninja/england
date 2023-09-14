@@ -1,5 +1,5 @@
 ---
 title: "Game"
-url: /grays/game/
+url: /grays/game-weston-avenue/
 shop: video games
 ---

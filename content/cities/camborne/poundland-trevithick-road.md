@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
-url: /camborne/poundland/
+url: /camborne/poundland-trevithick-road/
 shop: variety store
 ---

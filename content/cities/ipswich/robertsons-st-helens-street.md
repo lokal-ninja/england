@@ -1,5 +1,5 @@
 ---
 title: "Robertsons"
-url: /ipswich/robertsons/
+url: /ipswich/robertsons-st-helens-street/
 shop: toys
 ---

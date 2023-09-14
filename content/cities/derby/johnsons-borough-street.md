@@ -1,5 +1,5 @@
 ---
 title: "Johnsons"
-url: /derby/johnsons/
+url: /derby/johnsons-borough-street/
 shop: hardware
 ---

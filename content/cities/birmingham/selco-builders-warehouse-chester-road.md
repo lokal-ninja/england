@@ -1,5 +1,5 @@
 ---
 title: "Selco Builders Warehouse"
-url: /birmingham/selco-builders-warehouse/
+url: /birmingham/selco-builders-warehouse-chester-road/
 shop: trade
 ---

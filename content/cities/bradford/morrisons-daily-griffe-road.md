@@ -1,5 +1,5 @@
 ---
 title: "Morrisons Daily"
-url: /bradford/morrisons-daily/
+url: /bradford/morrisons-daily-griffe-road/
 shop: convenience
 ---

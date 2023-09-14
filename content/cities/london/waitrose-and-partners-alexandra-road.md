@@ -1,5 +1,5 @@
 ---
 title: "Waitrose & Partners"
-url: /london/waitrose-and-partners/
+url: /london/waitrose-and-partners-alexandra-road/
 shop: supermarket
 ---

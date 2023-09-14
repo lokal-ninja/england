@@ -1,5 +1,5 @@
 ---
 title: "Cooplands"
-url: /grimsby/cooplands/
+url: /grimsby/cooplands-lynton-parade/
 shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "One Stop"
-url: /leeds/one-stop/
+url: /leeds/one-stop-south-parkway/
 shop: convenience
 ---

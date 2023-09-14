@@ -1,5 +1,5 @@
 ---
 title: "Premier"
-url: /london/premier/
+url: /london/premier-maple-road/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "One Stop"
-url: /bedford/one-stop/
+url: /bedford/one-stop-library-walk/
 shop: convenience
 ---

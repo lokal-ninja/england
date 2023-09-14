@@ -1,5 +1,5 @@
 ---
 title: "One Stop"
-url: /portsmouth/one-stop/
+url: /portsmouth/one-stop-copnor-road/
 shop: convenience
 ---

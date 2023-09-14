@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
-url: /peterborough/iceland/
+url: /peterborough/iceland-lincoln-road/
 shop: frozen food
 ---

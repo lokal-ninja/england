@@ -1,5 +1,5 @@
 ---
 title: "Campagna Collections"
-url: /banbury/campagna-collections/
+url: /banbury/campagna-collections-calthorpe-street/
 shop: antiques
 ---

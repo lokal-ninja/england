@@ -1,5 +1,5 @@
 ---
 title: "Kwik Fit"
-url: /darlington/kwik-fit/
+url: /darlington/kwik-fit-mcmullen-road/
 shop: car repair
 ---

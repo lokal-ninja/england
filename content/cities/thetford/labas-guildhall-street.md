@@ -1,5 +1,5 @@
 ---
 title: "Labas"
-url: /thetford/labas/
+url: /thetford/labas-guildhall-street/
 shop: hairdresser
 ---

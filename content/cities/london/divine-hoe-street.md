@@ -1,5 +1,5 @@
 ---
 title: "Divine"
-url: /london/divine/
+url: /london/divine-hoe-street/
 shop: hairdresser
 ---

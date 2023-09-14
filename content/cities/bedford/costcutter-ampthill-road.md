@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
-url: /bedford/costcutter/
+url: /bedford/costcutter-ampthill-road/
 shop: convenience
 ---

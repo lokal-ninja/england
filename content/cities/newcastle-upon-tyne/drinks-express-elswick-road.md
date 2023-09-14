@@ -1,5 +1,5 @@
 ---
 title: "Drinks Express"
-url: /newcastle-upon-tyne/drinks-express/
+url: /newcastle-upon-tyne/drinks-express-elswick-road/
 shop: alcohol
 ---

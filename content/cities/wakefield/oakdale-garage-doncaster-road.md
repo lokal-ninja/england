@@ -1,5 +1,5 @@
 ---
 title: "Oakdale Garage"
-url: /wakefield/oakdale-garage/
+url: /wakefield/oakdale-garage-doncaster-road/
 shop: car repair
 ---

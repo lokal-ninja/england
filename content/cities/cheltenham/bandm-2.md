@@ -1,5 +1,5 @@
 ---
 title: "B&M"
-url: /cheltenham/bandm/
+url: /cheltenham/bandm-2/
 shop: variety store
 ---

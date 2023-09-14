@@ -1,5 +1,5 @@
 ---
 title: "Nisa"
-url: /sunderland/nisa/
+url: /sunderland/nisa-sevenoaks-drive/
 shop: convenience
 ---

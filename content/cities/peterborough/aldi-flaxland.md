@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
-url: /peterborough/aldi/
+url: /peterborough/aldi-flaxland/
 shop: supermarket
 ---

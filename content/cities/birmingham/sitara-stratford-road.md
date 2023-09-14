@@ -1,5 +1,5 @@
 ---
 title: "Sitara"
-url: /birmingham/sitara/
+url: /birmingham/sitara-stratford-road/
 shop: clothes
 ---

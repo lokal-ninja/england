@@ -1,5 +1,5 @@
 ---
 title: "Hartleys"
-url: /tadworth/hartleys/
+url: /tadworth/hartleys-station-approach-road/
 shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Asda"
-url: /doncaster/asda/
+url: /doncaster/asda-springwell-lane/
 shop: supermarket
 ---

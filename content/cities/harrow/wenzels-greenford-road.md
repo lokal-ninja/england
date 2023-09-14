@@ -1,5 +1,5 @@
 ---
 title: "Wenzel's"
-url: /harrow/wenzels/
+url: /harrow/wenzels-greenford-road/
 shop: bakery
 ---

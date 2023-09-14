@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
-url: /hove/iceland/
+url: /hove/iceland-blatchington-road/
 shop: frozen food
 ---

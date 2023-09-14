@@ -1,5 +1,5 @@
 ---
 title: "Lloyd"
-url: /york/lloyd/
+url: /york/lloyd-lysander-close/
 shop: car
 ---

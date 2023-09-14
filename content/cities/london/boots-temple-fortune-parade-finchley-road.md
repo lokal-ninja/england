@@ -1,5 +1,5 @@
 ---
 title: "Boots"
-url: /london/boots/
+url: /london/boots-temple-fortune-parade-finchley-road/
 shop: chemist
 ---

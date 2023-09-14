@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
-url: /eastbourne/iceland/
+url: /eastbourne/iceland-kingfisher-drive/
 shop: frozen food
 ---

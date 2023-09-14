@@ -1,5 +1,5 @@
 ---
 title: "The Co-operative Food"
-url: /donington/the-co-operative-food/
+url: /donington/the-co-operative-food-market-place/
 shop: supermarket
 ---

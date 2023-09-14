@@ -1,5 +1,5 @@
 ---
 title: "Reiss"
-url: /london/reiss/
+url: /london/reiss-market-place/
 shop: clothes
 ---

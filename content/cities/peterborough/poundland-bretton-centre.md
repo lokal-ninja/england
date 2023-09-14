@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
-url: /peterborough/poundland/
+url: /peterborough/poundland-bretton-centre/
 shop: variety store
 ---

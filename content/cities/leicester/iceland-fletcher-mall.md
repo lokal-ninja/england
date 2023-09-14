@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
-url: /leicester/iceland/
+url: /leicester/iceland-fletcher-mall/
 shop: frozen food
 ---

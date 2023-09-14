@@ -1,5 +1,5 @@
 ---
 title: "Rush"
-url: /london/rush/
+url: /london/rush-2/
 shop: hairdresser
 ---

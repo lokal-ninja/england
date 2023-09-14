@@ -1,5 +1,5 @@
 ---
 title: "McColl's"
-url: /bristol/mccolls/
+url: /bristol/mccolls-arnside-road/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Coral"
-url: /portsmouth/coral/
+url: /portsmouth/coral-edinburgh-road/
 shop: bookmaker
 ---

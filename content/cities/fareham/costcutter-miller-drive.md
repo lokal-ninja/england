@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
-url: /fareham/costcutter/
+url: /fareham/costcutter-miller-drive/
 shop: convenience
 ---

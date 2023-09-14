@@ -1,5 +1,5 @@
 ---
 title: "Barnardo's"
-url: /warrington/barnardos/
+url: /warrington/barnardos-sandy-lane-west/
 shop: charity
 ---

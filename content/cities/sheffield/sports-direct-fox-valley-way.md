@@ -1,5 +1,5 @@
 ---
 title: "Sports Direct"
-url: /sheffield/sports-direct/
+url: /sheffield/sports-direct-fox-valley-way/
 shop: sports
 ---

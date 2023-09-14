@@ -1,5 +1,5 @@
 ---
 title: "Timpson"
-url: /castleford/timpson/
+url: /castleford/timpson-leeds-road/
 shop: locksmith
 ---

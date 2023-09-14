@@ -1,5 +1,5 @@
 ---
 title: "Kennelgate"
-url: /nottingham/kennelgate/
+url: /nottingham/kennelgate-ambleside/
 shop: pet
 ---

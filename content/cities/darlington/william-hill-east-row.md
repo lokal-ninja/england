@@ -1,5 +1,5 @@
 ---
 title: "William Hill"
-url: /darlington/william-hill/
+url: /darlington/william-hill-east-row/
 shop: bookmaker
 ---

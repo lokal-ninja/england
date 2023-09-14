@@ -1,5 +1,5 @@
 ---
 title: "CeX"
-url: /birmingham/cex/
+url: /birmingham/cex-warwick-road/
 shop: electronics
 ---

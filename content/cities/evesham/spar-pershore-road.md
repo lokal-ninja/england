@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /evesham/spar/
+url: /evesham/spar-pershore-road/
 shop: convenience
 ---

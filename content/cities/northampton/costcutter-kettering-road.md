@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
-url: /northampton/costcutter/
+url: /northampton/costcutter-kettering-road/
 shop: convenience
 ---

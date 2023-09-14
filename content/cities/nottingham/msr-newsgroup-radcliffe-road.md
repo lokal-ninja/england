@@ -1,5 +1,5 @@
 ---
 title: "MSR Newsgroup"
-url: /nottingham/msr-newsgroup/
+url: /nottingham/msr-newsgroup-radcliffe-road/
 shop: newsagent
 ---

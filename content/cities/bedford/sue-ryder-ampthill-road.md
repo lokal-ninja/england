@@ -1,5 +1,5 @@
 ---
 title: "Sue Ryder"
-url: /bedford/sue-ryder/
+url: /bedford/sue-ryder-ampthill-road/
 shop: charity
 ---

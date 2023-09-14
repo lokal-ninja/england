@@ -1,5 +1,5 @@
 ---
 title: "Mullens Opticians"
-url: /runcorn/mullens-opticians/
+url: /runcorn/mullens-opticians-river-walk/
 shop: optician
 ---

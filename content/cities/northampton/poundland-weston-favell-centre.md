@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
-url: /northampton/poundland/
+url: /northampton/poundland-weston-favell-centre/
 shop: variety store
 ---

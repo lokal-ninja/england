@@ -1,5 +1,5 @@
 ---
 title: "Screwfix"
-url: /exeter/screwfix/
+url: /exeter/screwfix-trusham-road/
 shop: doityourself
 ---

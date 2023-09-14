@@ -1,5 +1,5 @@
 ---
 title: "AllSaints"
-url: /london/allsaints/
+url: /london/allsaints-duke-of-york-square/
 shop: clothes
 ---

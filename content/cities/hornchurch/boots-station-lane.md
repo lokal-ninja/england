@@ -1,5 +1,5 @@
 ---
 title: "Boots"
-url: /hornchurch/boots/
+url: /hornchurch/boots-station-lane/
 shop: chemist
 ---

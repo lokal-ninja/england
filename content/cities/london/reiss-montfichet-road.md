@@ -1,5 +1,5 @@
 ---
 title: "Reiss"
-url: /london/reiss/
+url: /london/reiss-montfichet-road/
 shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "William Hill"
-url: /warrington/william-hill/
+url: /warrington/william-hill-sankey-street/
 shop: bookmaker
 ---

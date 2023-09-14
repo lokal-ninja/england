@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
-url: /ipswich/poundland/
+url: /ipswich/poundland-sailmakers/
 shop: variety store
 ---

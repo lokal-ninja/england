@@ -1,5 +1,5 @@
 ---
 title: "Jewson"
-url: /norwich/jewson/
+url: /norwich/jewson-hall-road/
 shop: doityourself
 ---

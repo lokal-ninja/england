@@ -1,5 +1,5 @@
 ---
 title: "Deli2Go"
-url: /alfreton/deli2go/
+url: /alfreton/deli2go-newtonwood-lane/
 shop: convenience
 ---

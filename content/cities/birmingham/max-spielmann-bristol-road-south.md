@@ -1,5 +1,5 @@
 ---
 title: "Max Spielmann"
-url: /birmingham/max-spielmann/
+url: /birmingham/max-spielmann-bristol-road-south/
 shop: photo
 ---

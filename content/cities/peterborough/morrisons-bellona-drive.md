@@ -1,5 +1,5 @@
 ---
 title: "Morrisons"
-url: /peterborough/morrisons/
+url: /peterborough/morrisons-bellona-drive/
 shop: supermarket
 ---

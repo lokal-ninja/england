@@ -1,5 +1,5 @@
 ---
 title: "Barnardo's"
-url: /birmingham/barnardos/
+url: /birmingham/barnardos-walsall-road/
 shop: charity
 ---

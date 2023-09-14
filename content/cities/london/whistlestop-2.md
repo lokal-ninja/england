@@ -1,5 +1,5 @@
 ---
 title: "Whistlestop"
-url: /london/whistlestop/
+url: /london/whistlestop-2/
 shop: kiosk
 ---

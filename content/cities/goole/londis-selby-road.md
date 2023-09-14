@@ -1,5 +1,5 @@
 ---
 title: "Londis"
-url: /goole/londis/
+url: /goole/londis-selby-road/
 shop: convenience
 ---

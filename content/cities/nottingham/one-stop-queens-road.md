@@ -1,5 +1,5 @@
 ---
 title: "One Stop"
-url: /nottingham/one-stop/
+url: /nottingham/one-stop-queens-road/
 shop: convenience
 ---

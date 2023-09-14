@@ -1,5 +1,5 @@
 ---
 title: "Liu Jo"
-url: /london/liu-jo/
+url: /london/liu-jo-marylebone-high-street/
 shop: clothes
 ---

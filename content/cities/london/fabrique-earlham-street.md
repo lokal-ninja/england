@@ -1,5 +1,5 @@
 ---
 title: "Fabrique"
-url: /london/fabrique/
+url: /london/fabrique-earlham-street/
 shop: vacant
 ---

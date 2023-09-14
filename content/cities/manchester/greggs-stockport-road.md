@@ -1,5 +1,5 @@
 ---
 title: "Greggs"
-url: /manchester/greggs/
+url: /manchester/greggs-stockport-road/
 shop: bakery
 ---

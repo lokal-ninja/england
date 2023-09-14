@@ -1,5 +1,5 @@
 ---
 title: "Joe Richards"
-url: /coventry/joe-richards/
+url: /coventry/joe-richards-daventry-road/
 shop: greengrocer
 ---

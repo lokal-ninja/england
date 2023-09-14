@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
-url: /bury-st-edmunds/tesco-express/
+url: /bury-st-edmunds/tesco-express-lawson-place/
 shop: supermarket
 ---

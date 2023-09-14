@@ -1,5 +1,5 @@
 ---
 title: "Glöden"
-url: /bristol/gloden/
+url: /bristol/gloden-gloucester-road/
 shop: beauty
 ---

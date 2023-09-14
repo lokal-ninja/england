@@ -1,5 +1,5 @@
 ---
 title: "Carpetright"
-url: /ipswich/carpetright/
+url: /ipswich/carpetright-the-sandlings/
 shop: carpet
 ---

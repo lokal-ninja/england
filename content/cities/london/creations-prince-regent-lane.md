@@ -1,5 +1,5 @@
 ---
 title: "Creations"
-url: /london/creations/
+url: /london/creations-prince-regent-lane/
 shop: charity
 ---

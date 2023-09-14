@@ -1,5 +1,5 @@
 ---
 title: "Londis"
-url: /warrington/londis/
+url: /warrington/londis-oakwood-gate/
 shop: convenience
 ---

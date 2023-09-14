@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
-url: /chelmsford/aldi/
+url: /chelmsford/aldi-westway/
 shop: supermarket
 ---

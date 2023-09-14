@@ -1,5 +1,5 @@
 ---
 title: "Next"
-url: /luton/next/
+url: /luton/next-luton-mall/
 shop: clothes
 ---

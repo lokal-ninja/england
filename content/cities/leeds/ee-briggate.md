@@ -1,5 +1,5 @@
 ---
 title: "EE"
-url: /leeds/ee/
+url: /leeds/ee-briggate/
 shop: mobile phone
 ---

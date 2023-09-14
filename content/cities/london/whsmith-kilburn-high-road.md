@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
-url: /london/whsmith/
+url: /london/whsmith-kilburn-high-road/
 shop: books
 ---

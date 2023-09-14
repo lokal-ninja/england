@@ -1,5 +1,5 @@
 ---
 title: "Halfords"
-url: /nottingham/halfords/
+url: /nottingham/halfords-barton-lane/
 shop: car parts
 ---

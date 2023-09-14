@@ -1,5 +1,5 @@
 ---
 title: "Wickes"
-url: /nottingham/wickes/
+url: /nottingham/wickes-mansfield-road/
 shop: doityourself
 ---

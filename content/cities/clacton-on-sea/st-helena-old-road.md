@@ -1,5 +1,5 @@
 ---
 title: "St Helena"
-url: /clacton-on-sea/st-helena/
+url: /clacton-on-sea/st-helena-old-road/
 shop: charity
 ---

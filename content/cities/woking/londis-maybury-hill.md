@@ -1,5 +1,5 @@
 ---
 title: "Londis"
-url: /woking/londis/
+url: /woking/londis-maybury-hill/
 shop: convenience
 ---

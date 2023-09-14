@@ -1,5 +1,5 @@
 ---
 title: "Londis"
-url: /barking/londis/
+url: /barking/londis-movers-lane/
 shop: supermarket
 ---

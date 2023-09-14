@@ -1,5 +1,5 @@
 ---
 title: "Max Spielmann"
-url: /leeds/max-spielmann/
+url: /leeds/max-spielmann-station-road/
 shop: photo
 ---

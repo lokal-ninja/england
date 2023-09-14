@@ -1,5 +1,5 @@
 ---
 title: "Office"
-url: /london/office/
+url: /london/office-commercial-street/
 shop: shoes
 ---

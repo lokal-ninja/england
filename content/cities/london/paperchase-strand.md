@@ -1,5 +1,5 @@
 ---
 title: "Paperchase"
-url: /london/paperchase/
+url: /london/paperchase-strand/
 shop: office supplies
 ---

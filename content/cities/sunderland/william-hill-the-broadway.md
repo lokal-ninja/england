@@ -1,5 +1,5 @@
 ---
 title: "William Hill"
-url: /sunderland/william-hill/
+url: /sunderland/william-hill-the-broadway/
 shop: bookmaker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Londis"
-url: /tadworth/londis/
+url: /tadworth/londis-the-parade/
 shop: convenience
 ---

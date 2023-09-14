@@ -1,5 +1,5 @@
 ---
 title: "Oskar Pink"
-url: /london/oskar-pink/
+url: /london/oskar-pink-kentish-town-road/
 shop: beauty
 ---

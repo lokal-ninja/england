@@ -1,5 +1,5 @@
 ---
 title: "TESLA"
-url: /london/tesla/
+url: /london/tesla-avro-way/
 shop: car repair
 ---

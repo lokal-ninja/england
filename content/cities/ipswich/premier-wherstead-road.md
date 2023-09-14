@@ -1,5 +1,5 @@
 ---
 title: "Premier"
-url: /ipswich/premier/
+url: /ipswich/premier-wherstead-road/
 shop: convenience
 ---

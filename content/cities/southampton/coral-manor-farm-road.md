@@ -1,5 +1,5 @@
 ---
 title: "Coral"
-url: /southampton/coral/
+url: /southampton/coral-manor-farm-road/
 shop: bookmaker
 ---

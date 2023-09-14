@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
-url: /coventry/costcutter/
+url: /coventry/costcutter-far-gosford-street/
 shop: convenience
 ---

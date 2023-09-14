@@ -1,5 +1,5 @@
 ---
 title: "Premier"
-url: /norwich/premier/
+url: /norwich/premier-plumstead-road-east/
 shop: convenience
 ---

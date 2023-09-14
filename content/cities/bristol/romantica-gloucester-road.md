@@ -1,5 +1,5 @@
 ---
 title: "Romantica"
-url: /bristol/romantica/
+url: /bristol/romantica-gloucester-road/
 shop: gift
 ---

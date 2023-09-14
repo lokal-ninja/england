@@ -1,5 +1,5 @@
 ---
 title: "Screwfix"
-url: /birmingham/screwfix/
+url: /birmingham/screwfix-tamebridge-industrial-estate/
 shop: doityourself
 ---

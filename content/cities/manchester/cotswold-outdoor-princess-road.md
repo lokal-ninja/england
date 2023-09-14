@@ -1,5 +1,5 @@
 ---
 title: "Cotswold Outdoor"
-url: /manchester/cotswold-outdoor/
+url: /manchester/cotswold-outdoor-princess-road/
 shop: outdoor
 ---

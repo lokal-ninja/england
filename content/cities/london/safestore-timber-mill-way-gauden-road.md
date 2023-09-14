@@ -1,5 +1,5 @@
 ---
 title: "Safestore"
-url: /london/safestore/
+url: /london/safestore-timber-mill-way-gauden-road/
 shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Glassworks"
-url: /london/glassworks/
+url: /london/glassworks-great-marlborough-street/
 shop: clothes
 ---

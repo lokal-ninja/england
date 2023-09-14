@@ -1,5 +1,5 @@
 ---
 title: "Coral"
-url: /spennymoor/coral/
+url: /spennymoor/coral-cheapside/
 shop: bookmaker
 ---

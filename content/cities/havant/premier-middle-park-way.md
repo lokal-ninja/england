@@ -1,5 +1,5 @@
 ---
 title: "Premier"
-url: /havant/premier/
+url: /havant/premier-middle-park-way/
 shop: convenience
 ---

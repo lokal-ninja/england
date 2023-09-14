@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /birmingham/spar/
+url: /birmingham/spar-brindley-place/
 shop: convenience
 ---

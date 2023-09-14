@@ -1,5 +1,5 @@
 ---
 title: "Cymes"
-url: /london/cymes/
+url: /london/cymes-high-road-leytonstone/
 shop: deli
 ---

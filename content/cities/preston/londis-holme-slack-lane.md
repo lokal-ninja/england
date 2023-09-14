@@ -1,5 +1,5 @@
 ---
 title: "Londis"
-url: /preston/londis/
+url: /preston/londis-holme-slack-lane/
 shop: convenience
 ---

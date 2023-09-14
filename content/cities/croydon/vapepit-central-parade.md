@@ -1,5 +1,5 @@
 ---
 title: "Vapepit"
-url: /croydon/vapepit/
+url: /croydon/vapepit-central-parade/
 shop: e-cigarette
 ---

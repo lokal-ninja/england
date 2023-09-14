@@ -1,5 +1,5 @@
 ---
 title: "Londis"
-url: /sutton/londis/
+url: /sutton/londis-gander-green-lane/
 shop: convenience
 ---

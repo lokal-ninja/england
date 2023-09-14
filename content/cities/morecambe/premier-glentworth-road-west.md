@@ -1,5 +1,5 @@
 ---
 title: "Premier"
-url: /morecambe/premier/
+url: /morecambe/premier-glentworth-road-west/
 shop: convenience
 ---

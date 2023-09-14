@@ -1,5 +1,5 @@
 ---
 title: "Argos"
-url: /london/argos/
+url: /london/argos-claps-gate-lane/
 shop: vacant
 ---

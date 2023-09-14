@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /middlesbrough/iceland/
-shop: supermarket
+shop: frozen food
 ---

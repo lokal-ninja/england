@@ -1,5 +1,5 @@
 ---
 title: "The Galleries"
-url: /bristol/the-galleries/
-shop: mall
+url: /bristol/the-galleries-union-street/
+shop: vacant
 ---

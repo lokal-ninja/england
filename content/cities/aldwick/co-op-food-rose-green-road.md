@@ -1,5 +1,5 @@
 ---
 title: "Co-op Food"
-url: /aldwick/co-op-food/
+url: /aldwick/co-op-food-rose-green-road/
 shop: convenience
 ---

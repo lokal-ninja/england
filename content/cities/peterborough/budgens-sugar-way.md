@@ -1,5 +1,5 @@
 ---
 title: "Budgens"
-url: /peterborough/budgens/
+url: /peterborough/budgens-sugar-way/
 shop: supermarket
 ---

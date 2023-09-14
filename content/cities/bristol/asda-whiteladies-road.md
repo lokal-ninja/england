@@ -1,5 +1,5 @@
 ---
 title: "Asda"
-url: /bristol/asda/
+url: /bristol/asda-whiteladies-road/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Konditor"
-url: /london/konditor/
+url: /london/konditor-cornwall-road/
 shop: bakery
 ---

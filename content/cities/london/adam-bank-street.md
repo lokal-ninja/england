@@ -1,5 +1,5 @@
 ---
 title: "Adam"
-url: /london/adam/
+url: /london/adam-bank-street/
 shop: hairdresser
 ---

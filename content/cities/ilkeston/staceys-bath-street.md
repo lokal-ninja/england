@@ -1,5 +1,5 @@
 ---
 title: "Stacey's"
-url: /ilkeston/staceys/
+url: /ilkeston/staceys-bath-street/
 shop: bakery
 ---

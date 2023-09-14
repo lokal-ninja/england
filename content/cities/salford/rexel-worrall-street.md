@@ -1,5 +1,5 @@
 ---
 title: "Rexel"
-url: /salford/rexel/
+url: /salford/rexel-worrall-street/
 shop: electrical
 ---

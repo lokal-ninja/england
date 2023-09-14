@@ -1,5 +1,5 @@
 ---
 title: "Londis"
-url: /gillingham/londis/
+url: /gillingham/londis-toronto-road/
 shop: convenience
 ---

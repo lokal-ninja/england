@@ -1,5 +1,5 @@
 ---
 title: "Sayers"
-url: /blackpool/sayers/
+url: /blackpool/sayers-whitegate-drive/
 shop: bakery
 ---

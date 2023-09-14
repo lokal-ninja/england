@@ -1,5 +1,5 @@
 ---
 title: "Homebase"
-url: /birmingham/homebase/
+url: /birmingham/homebase-findlay-road/
 shop: doityourself
 ---

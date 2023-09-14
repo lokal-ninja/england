@@ -1,5 +1,5 @@
 ---
 title: "SPAR"
-url: /norwich/spar/
+url: /norwich/spar-yarmouth-road/
 shop: convenience
 ---

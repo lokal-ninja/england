@@ -1,5 +1,5 @@
 ---
 title: "Musto"
-url: /portsmouth/musto/
+url: /portsmouth/musto-2/
 shop: clothes
 ---

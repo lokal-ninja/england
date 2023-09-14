@@ -1,5 +1,5 @@
 ---
 title: "Matalan"
-url: /birmingham/matalan/
+url: /birmingham/matalan-flaxley-parkway/
 shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pure Electric"
-url: /london/pure-electric/
+url: /london/pure-electric-commercial-street/
 shop: bicycle
 ---

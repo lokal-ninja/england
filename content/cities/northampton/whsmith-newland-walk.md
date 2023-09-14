@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
-url: /northampton/whsmith/
+url: /northampton/whsmith-newland-walk/
 shop: newsagent
 ---

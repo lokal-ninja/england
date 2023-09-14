@@ -1,5 +1,5 @@
 ---
 title: "Sainsbury's Local"
-url: /bristol/sainsburys-local/
+url: /bristol/sainsburys-local-whiteladies-road/
 shop: convenience
 ---

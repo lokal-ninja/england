@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
-url: /bridgwater/betfred/
+url: /bridgwater/betfred-eastover/
 shop: bookmaker
 ---

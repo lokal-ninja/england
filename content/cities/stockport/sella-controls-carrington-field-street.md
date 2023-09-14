@@ -1,5 +1,5 @@
 ---
 title: "Sella Controls"
-url: /stockport/sella-controls/
+url: /stockport/sella-controls-carrington-field-street/
 shop: trade
 ---

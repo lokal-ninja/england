@@ -1,5 +1,5 @@
 ---
 title: "Jiamart"
-url: /cambridge/jiamart/
+url: /cambridge/jiamart-regent-street/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Premier"
-url: /lincoln/premier/
+url: /lincoln/premier-st-swithins-square/
 shop: convenience
 ---

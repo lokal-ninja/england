@@ -1,5 +1,5 @@
 ---
 title: "Ideal Household Goods"
-url: /london/ideal-household-goods/
+url: /london/ideal-household-goods-fortess-road/
 shop: variety store
 ---

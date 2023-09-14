@@ -1,5 +1,5 @@
 ---
 title: "PDSA"
-url: /birmingham/pdsa/
+url: /birmingham/pdsa-warwick-road/
 shop: charity
 ---

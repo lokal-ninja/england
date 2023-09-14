@@ -1,5 +1,5 @@
 ---
 title: "Hursts"
-url: /norwich/hursts/
+url: /norwich/hursts-barrett-road/
 shop: convenience
 ---

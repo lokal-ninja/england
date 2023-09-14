@@ -1,5 +1,5 @@
 ---
 title: "SUPERGA"
-url: /london/superga/
+url: /london/superga-chalk-farm-road/
 shop: shoes
 ---

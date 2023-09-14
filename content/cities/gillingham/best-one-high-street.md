@@ -1,5 +1,5 @@
 ---
-title: "Best-one"
-url: /gillingham/best-one/
+title: "Best-One"
+url: /gillingham/best-one-high-street/
 shop: convenience
 ---

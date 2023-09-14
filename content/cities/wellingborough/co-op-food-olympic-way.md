@@ -1,5 +1,5 @@
 ---
 title: "Co-op Food"
-url: /wellingborough/co-op-food/
+url: /wellingborough/co-op-food-olympic-way/
 shop: supermarket
 ---

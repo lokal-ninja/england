@@ -1,5 +1,5 @@
 ---
 title: "Argos"
-url: /solihull/argos/
+url: /solihull/argos-oakenshaw-road/
 shop: catalogue
 ---

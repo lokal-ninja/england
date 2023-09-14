@@ -1,5 +1,5 @@
 ---
 title: "Londis"
-url: /leeds/londis/
+url: /leeds/londis-selby-road/
 shop: convenience
 ---

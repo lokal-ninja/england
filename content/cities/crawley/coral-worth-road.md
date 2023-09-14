@@ -1,5 +1,5 @@
 ---
 title: "Coral"
-url: /crawley/coral/
+url: /crawley/coral-worth-road/
 shop: bookmaker
 ---

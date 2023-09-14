@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
-url: /gravesend/costcutter/
+url: /gravesend/costcutter-whinfell-way/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dunelm"
-url: /london/dunelm/
+url: /london/dunelm-pegasus-way/
 shop: interior decoration
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /york/spar/
+url: /york/spar-brockfield-park-drive/
 shop: convenience
 ---

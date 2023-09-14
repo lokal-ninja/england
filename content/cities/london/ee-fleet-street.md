@@ -1,5 +1,5 @@
 ---
 title: "EE"
-url: /london/ee/
+url: /london/ee-fleet-street/
 shop: mobile phone
 ---

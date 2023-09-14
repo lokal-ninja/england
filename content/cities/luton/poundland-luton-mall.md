@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
-url: /luton/poundland/
+url: /luton/poundland-luton-mall/
 shop: variety store
 ---

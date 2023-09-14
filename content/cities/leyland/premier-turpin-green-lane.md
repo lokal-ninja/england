@@ -1,5 +1,5 @@
 ---
 title: "Premier"
-url: /leyland/premier/
+url: /leyland/premier-turpin-green-lane/
 shop: convenience
 ---

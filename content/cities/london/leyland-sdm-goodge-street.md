@@ -1,5 +1,5 @@
 ---
 title: "Leyland SDM"
-url: /london/leyland-sdm/
+url: /london/leyland-sdm-goodge-street/
 shop: doityourself
 ---

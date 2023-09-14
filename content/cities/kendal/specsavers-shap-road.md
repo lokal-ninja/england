@@ -1,5 +1,5 @@
 ---
 title: "Specsavers"
-url: /kendal/specsavers/
+url: /kendal/specsavers-shap-road/
 shop: optician
 ---

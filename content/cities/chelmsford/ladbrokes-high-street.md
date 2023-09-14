@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
-url: /chelmsford/ladbrokes/
+url: /chelmsford/ladbrokes-high-street/
 shop: bookmaker
 ---

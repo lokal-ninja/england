@@ -1,5 +1,5 @@
 ---
 title: "Coughlans"
-url: /caterham/coughlans/
+url: /caterham/coughlans-chaldon-road/
 shop: bakery
 ---

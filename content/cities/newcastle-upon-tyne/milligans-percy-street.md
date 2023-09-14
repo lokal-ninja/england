@@ -1,5 +1,5 @@
 ---
 title: "Milligans"
-url: /newcastle-upon-tyne/milligans/
+url: /newcastle-upon-tyne/milligans-percy-street/
 shop: bakery
 ---

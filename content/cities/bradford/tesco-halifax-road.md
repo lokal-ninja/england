@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
-url: /bradford/tesco/
+url: /bradford/tesco-halifax-road/
 shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
-url: /sheffield/betfred/
+url: /sheffield/betfred-birley-moor-road/
 shop: bookmaker
 ---

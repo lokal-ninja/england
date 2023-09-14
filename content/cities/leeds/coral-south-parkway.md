@@ -1,5 +1,5 @@
 ---
 title: "Coral"
-url: /leeds/coral/
+url: /leeds/coral-south-parkway/
 shop: bookmaker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Farmfoods"
-url: /runcorn/farmfoods/
+url: /runcorn/farmfoods-orchard-walk/
 shop: frozen food
 ---

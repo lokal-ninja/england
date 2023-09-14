@@ -1,5 +1,5 @@
 ---
 title: "SecureStore"
-url: /dunston/securestore/
+url: /dunston/securestore-wellington-road/
 shop: storage rental
 ---

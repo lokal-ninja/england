@@ -1,5 +1,5 @@
 ---
 title: "Premier"
-url: /north-shields/premier/
+url: /north-shields/premier-chirton-green/
 shop: convenience
 ---

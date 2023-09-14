@@ -1,5 +1,5 @@
 ---
 title: "Boots"
-url: /coventry/boots/
+url: /coventry/boots-farren-road/
 shop: chemist
 ---

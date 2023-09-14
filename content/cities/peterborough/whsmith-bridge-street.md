@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
-url: /peterborough/whsmith/
+url: /peterborough/whsmith-bridge-street/
 shop: newsagent
 ---

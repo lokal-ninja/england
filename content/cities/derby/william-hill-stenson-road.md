@@ -1,5 +1,5 @@
 ---
 title: "William Hill"
-url: /derby/william-hill/
+url: /derby/william-hill-stenson-road/
 shop: bookmaker
 ---

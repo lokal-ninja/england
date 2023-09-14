@@ -1,5 +1,5 @@
 ---
 title: "Asda"
-url: /woking/asda/
+url: /woking/asda-forsyth-road/
 shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bodytek"
-url: /taunton/bodytek/
+url: /taunton/bodytek-crown-close/
 shop: car repair
 ---

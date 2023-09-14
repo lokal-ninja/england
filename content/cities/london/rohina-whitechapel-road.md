@@ -1,5 +1,5 @@
 ---
 title: "Rohina"
-url: /london/rohina/
+url: /london/rohina-whitechapel-road/
 shop: clothes
 ---

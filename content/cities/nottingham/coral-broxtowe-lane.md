@@ -1,5 +1,5 @@
 ---
 title: "Coral"
-url: /nottingham/coral/
+url: /nottingham/coral-broxtowe-lane/
 shop: bookmaker
 ---

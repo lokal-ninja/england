@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
-url: /coventry/ladbrokes/
+url: /coventry/ladbrokes-robin-hood-road/
 shop: bookmaker
 ---

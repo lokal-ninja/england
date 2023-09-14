@@ -1,5 +1,5 @@
 ---
 title: "Bargain Booze"
-url: /fleetwood/bargain-booze/
+url: /fleetwood/bargain-booze-broadway/
 shop: alcohol
 ---

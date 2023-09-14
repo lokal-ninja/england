@@ -1,5 +1,5 @@
 ---
 title: "Typo"
-url: /derby/typo/
+url: /derby/typo-2/
 shop: gift
 ---

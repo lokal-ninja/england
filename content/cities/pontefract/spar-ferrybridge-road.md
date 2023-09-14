@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /pontefract/spar/
+url: /pontefract/spar-ferrybridge-road/
 shop: convenience
 ---

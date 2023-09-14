@@ -1,5 +1,5 @@
 ---
 title: "Muji"
-url: /london/muji/
+url: /london/muji-tottenham-court-road/
 shop: department store
 ---

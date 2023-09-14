@@ -1,5 +1,5 @@
 ---
 title: "Budgens"
-url: /norwich/budgens/
+url: /norwich/budgens-birchfield-lane/
 shop: convenience
 ---

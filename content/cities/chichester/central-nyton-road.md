@@ -1,5 +1,5 @@
 ---
 title: "Central"
-url: /chichester/central/
+url: /chichester/central-nyton-road/
 shop: convenience
 ---

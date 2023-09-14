@@ -1,5 +1,5 @@
 ---
 title: "Barnardo's"
-url: /exeter/barnardos/
+url: /exeter/barnardos-st-thomas-centre/
 shop: charity
 ---

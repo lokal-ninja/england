@@ -1,5 +1,5 @@
 ---
 title: "Elite"
-url: /london/elite/
+url: /london/elite-st-john-street/
 shop: furniture
 ---

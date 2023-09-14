@@ -1,5 +1,5 @@
 ---
 title: "Huntingdon Audi"
-url: /huntingdon/huntingdon-audi/
+url: /huntingdon/huntingdon-audi-washingley-road/
 shop: car
 ---

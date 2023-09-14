@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
-url: /gravesend/poundland/
+url: /gravesend/poundland-thames-way/
 shop: variety store
 ---

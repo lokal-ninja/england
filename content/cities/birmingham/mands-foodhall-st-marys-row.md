@@ -1,5 +1,5 @@
 ---
 title: "M&S Foodhall"
-url: /birmingham/mands-foodhall/
+url: /birmingham/mands-foodhall-st-marys-row/
 shop: supermarket
 ---

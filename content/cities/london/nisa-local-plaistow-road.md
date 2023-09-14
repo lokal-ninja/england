@@ -1,5 +1,5 @@
 ---
 title: "Nisa Local"
-url: /london/nisa-local/
+url: /london/nisa-local-plaistow-road/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Poundstretcher"
-url: /bristol/poundstretcher/
+url: /bristol/poundstretcher-2/
 shop: variety store
 ---

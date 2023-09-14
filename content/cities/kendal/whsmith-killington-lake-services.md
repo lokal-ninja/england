@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
-url: /kendal/whsmith/
+url: /kendal/whsmith-killington-lake-services/
 shop: newsagent
 ---

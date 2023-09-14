@@ -1,5 +1,5 @@
 ---
 title: "Currys"
-url: /nottingham/currys/
+url: /nottingham/currys-castle-bridge-road/
 shop: electronics
 ---

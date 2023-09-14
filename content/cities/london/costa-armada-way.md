@@ -1,5 +1,5 @@
 ---
 title: "Costa"
-url: /london/costa/
+url: /london/costa-armada-way/
 shop: coffee
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
-url: /coventry/tesco/
+url: /coventry/tesco-clifford-bridge-road/
 shop: supermarket
 ---

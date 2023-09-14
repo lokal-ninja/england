@@ -1,5 +1,5 @@
 ---
 title: "Wren Kitchens"
-url: /london/wren-kitchens/
+url: /london/wren-kitchens-claps-gate-lane/
 shop: kitchen
 ---

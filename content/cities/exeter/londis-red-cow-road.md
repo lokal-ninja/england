@@ -1,5 +1,5 @@
 ---
 title: "Londis"
-url: /exeter/londis/
+url: /exeter/londis-red-cow-road/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carpetright"
-url: /warrington/carpetright/
+url: /warrington/carpetright-pinners-brow/
 shop: carpet
 ---

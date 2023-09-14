@@ -1,5 +1,5 @@
 ---
 title: "Vaidas Bicycles"
-url: /london/vaidas-bicycles/
+url: /london/vaidas-bicycles-westcombe-hill/
 shop: bicycle
 ---

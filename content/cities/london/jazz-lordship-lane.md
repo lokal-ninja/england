@@ -1,5 +1,5 @@
 ---
 title: "Jazz"
-url: /london/jazz/
+url: /london/jazz-lordship-lane/
 shop: hairdresser
 ---

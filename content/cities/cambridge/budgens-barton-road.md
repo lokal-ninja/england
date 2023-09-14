@@ -1,5 +1,5 @@
 ---
 title: "Budgens"
-url: /cambridge/budgens/
+url: /cambridge/budgens-barton-road/
 shop: convenience
 ---

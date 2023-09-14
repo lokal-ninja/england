@@ -1,5 +1,5 @@
 ---
 title: "Sports Direct"
-url: /nottingham/sports-direct/
+url: /nottingham/sports-direct-clumber-street/
 shop: sports
 ---

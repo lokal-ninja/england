@@ -1,5 +1,5 @@
 ---
 title: "McColl's"
-url: /chatham/mccolls/
+url: /chatham/mccolls-silverweed-road/
 shop: convenience
 ---

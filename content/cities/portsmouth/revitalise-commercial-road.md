@@ -1,5 +1,5 @@
 ---
 title: "Revitalise"
-url: /portsmouth/revitalise/
+url: /portsmouth/revitalise-commercial-road/
 shop: charity
 ---

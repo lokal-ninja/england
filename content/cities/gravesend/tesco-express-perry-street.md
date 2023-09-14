@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
-url: /gravesend/tesco-express/
+url: /gravesend/tesco-express-perry-street/
 shop: convenience
 ---

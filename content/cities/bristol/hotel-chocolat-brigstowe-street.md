@@ -1,5 +1,5 @@
 ---
 title: "Hotel Chocolat"
-url: /bristol/hotel-chocolat/
+url: /bristol/hotel-chocolat-brigstowe-street/
 shop: confectionery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Londis"
-url: /east-grinstead/londis/
+url: /east-grinstead/londis-london-road/
 shop: convenience
 ---

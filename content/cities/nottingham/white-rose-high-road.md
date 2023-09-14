@@ -1,5 +1,5 @@
 ---
 title: "White Rose"
-url: /nottingham/white-rose/
+url: /nottingham/white-rose-high-road/
 shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Specsavers"
-url: /leicester/specsavers/
+url: /leicester/specsavers-fletcher-mall/
 shop: optician
 ---

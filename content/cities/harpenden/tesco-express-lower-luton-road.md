@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
-url: /harpenden/tesco-express/
+url: /harpenden/tesco-express-lower-luton-road/
 shop: convenience
 ---

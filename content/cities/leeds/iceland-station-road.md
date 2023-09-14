@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
-url: /leeds/iceland/
+url: /leeds/iceland-station-road/
 shop: frozen food
 ---

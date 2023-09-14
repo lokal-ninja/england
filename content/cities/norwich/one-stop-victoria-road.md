@@ -1,5 +1,5 @@
 ---
 title: "One Stop"
-url: /norwich/one-stop/
+url: /norwich/one-stop-victoria-road/
 shop: convenience
 ---

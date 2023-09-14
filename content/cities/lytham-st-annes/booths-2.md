@@ -1,5 +1,5 @@
 ---
 title: "Booths"
-url: /lytham-st-annes/booths/
+url: /lytham-st-annes/booths-2/
 shop: supermarket
 ---

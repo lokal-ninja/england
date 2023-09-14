@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
-url: /havant/poundland/
+url: /havant/poundland-greywell-road/
 shop: variety store
 ---

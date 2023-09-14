@@ -1,5 +1,5 @@
 ---
 title: "FreshGo"
-url: /london/freshgo/
+url: /london/freshgo-russell-gardens/
 shop: convenience
 ---

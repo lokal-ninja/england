@@ -1,5 +1,5 @@
 ---
 title: "Coral"
-url: /ipswich/coral/
+url: /ipswich/coral-lloyds-avenue/
 shop: bookmaker
 ---

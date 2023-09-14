@@ -1,5 +1,5 @@
 ---
 title: "One Stop"
-url: /wallsend/one-stop/
+url: /wallsend/one-stop-coast-road/
 shop: convenience
 ---

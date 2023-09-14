@@ -1,5 +1,5 @@
 ---
 title: "Schuh"
-url: /london/schuh/
+url: /london/schuh-oxford-street/
 shop: shoes
 ---

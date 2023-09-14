@@ -1,5 +1,5 @@
 ---
 title: "A Shop"
-url: /beccles/a-shop/
+url: /beccles/a-shop-blyburgate/
 shop: charity
 ---

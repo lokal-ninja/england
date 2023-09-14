@@ -1,5 +1,5 @@
 ---
 title: "Oxfam Bookshop"
-url: /york/oxfam-bookshop/
+url: /york/oxfam-bookshop-low-petergate/
 shop: books
 ---

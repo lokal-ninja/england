@@ -1,5 +1,5 @@
 ---
 title: "Juice"
-url: /ledbury/juice/
+url: /ledbury/juice-the-homend/
 shop: jewelry
 ---

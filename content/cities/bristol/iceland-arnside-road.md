@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
-url: /bristol/iceland/
+url: /bristol/iceland-arnside-road/
 shop: frozen food
 ---

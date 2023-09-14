@@ -1,5 +1,5 @@
 ---
 title: "Morrisons Daily"
-url: /kingston-upon-hull/morrisons-daily/
+url: /kingston-upon-hull/morrisons-daily-preston-road/
 shop: convenience
 ---

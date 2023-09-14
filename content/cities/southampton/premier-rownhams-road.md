@@ -1,5 +1,5 @@
 ---
 title: "Premier"
-url: /southampton/premier/
+url: /southampton/premier-rownhams-road/
 shop: convenience
 ---

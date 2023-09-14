@@ -1,5 +1,5 @@
 ---
 title: "Budgens"
-url: /bristol/budgens/
+url: /bristol/budgens-2/
 shop: convenience
 ---

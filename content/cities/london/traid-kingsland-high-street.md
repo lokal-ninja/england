@@ -1,5 +1,5 @@
 ---
 title: "Traid"
-url: /london/traid/
+url: /london/traid-kingsland-high-street/
 shop: clothes
 ---

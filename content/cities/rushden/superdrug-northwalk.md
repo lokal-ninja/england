@@ -1,5 +1,5 @@
 ---
 title: "Superdrug"
-url: /rushden/superdrug/
+url: /rushden/superdrug-northwalk/
 shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Postmark"
-url: /london/postmark/
+url: /london/postmark-blackheath-village/
 shop: gift
 ---

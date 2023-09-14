@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /cirencester/spar/
+url: /cirencester/spar-abbey-way/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /exeter/spar/
+url: /exeter/spar-myrtle-close/
 shop: convenience
 ---

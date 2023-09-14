@@ -1,5 +1,5 @@
 ---
 title: "Three."
-url: /nottingham/three/
+url: /nottingham/three-2/
 shop: mobile phone
 ---

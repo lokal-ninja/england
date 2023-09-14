@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
-url: /huddersfield/iceland/
+url: /huddersfield/iceland-trinity-street/
 shop: frozen food
 ---

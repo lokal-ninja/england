@@ -1,5 +1,5 @@
 ---
 title: "Max Spielmann"
-url: /manchester/max-spielmann/
+url: /manchester/max-spielmann-chester-road/
 shop: photo
 ---

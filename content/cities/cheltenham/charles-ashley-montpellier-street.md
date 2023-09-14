@@ -1,5 +1,5 @@
 ---
 title: "Charles Ashley"
-url: /cheltenham/charles-ashley/
+url: /cheltenham/charles-ashley-montpellier-street/
 shop: clothes
 ---

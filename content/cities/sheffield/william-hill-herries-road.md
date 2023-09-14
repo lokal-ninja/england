@@ -1,5 +1,5 @@
 ---
 title: "William Hill"
-url: /sheffield/william-hill/
+url: /sheffield/william-hill-herries-road/
 shop: bookmaker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pak Butchers"
-url: /bristol/pak-butchers/
+url: /bristol/pak-butchers-grosvenor-road/
 shop: butcher
 ---

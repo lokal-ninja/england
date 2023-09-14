@@ -1,5 +1,5 @@
 ---
 title: "Marks & Spencer"
-url: /leeds/marks-and-spencer/
+url: /leeds/marks-and-spencer-kirkgate/
 shop: deli
 ---

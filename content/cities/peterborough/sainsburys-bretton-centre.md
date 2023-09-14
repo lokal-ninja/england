@@ -1,5 +1,5 @@
 ---
 title: "Sainsbury's"
-url: /peterborough/sainsburys/
+url: /peterborough/sainsburys-bretton-centre/
 shop: supermarket
 ---

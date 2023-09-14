@@ -1,5 +1,5 @@
 ---
 title: "Fara Kids"
-url: /london/fara-kids/
+url: /london/fara-kids-the-green/
 shop: charity
 ---

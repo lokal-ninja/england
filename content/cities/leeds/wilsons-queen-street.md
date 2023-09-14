@@ -1,5 +1,5 @@
 ---
 title: "Wilsons"
-url: /leeds/wilsons/
+url: /leeds/wilsons-queen-street/
 shop: deli
 ---

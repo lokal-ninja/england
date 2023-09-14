@@ -1,5 +1,5 @@
 ---
 title: "Parsons"
-url: /bristol/parsons/
+url: /bristol/parsons-avonmouth-road/
 shop: bakery
 ---

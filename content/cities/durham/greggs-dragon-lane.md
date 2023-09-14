@@ -1,5 +1,5 @@
 ---
 title: "Greggs"
-url: /durham/greggs/
+url: /durham/greggs-dragon-lane/
 shop: bakery
 ---

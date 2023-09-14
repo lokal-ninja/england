@@ -1,5 +1,5 @@
 ---
 title: "JD Sports"
-url: /bristol/jd-sports/
+url: /bristol/jd-sports-st-philips-causeway/
 shop: sports
 ---

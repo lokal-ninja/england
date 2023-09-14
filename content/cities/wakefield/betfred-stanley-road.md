@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
-url: /wakefield/betfred/
+url: /wakefield/betfred-stanley-road/
 shop: bookmaker
 ---

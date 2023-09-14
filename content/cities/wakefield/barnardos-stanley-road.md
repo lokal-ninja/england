@@ -1,5 +1,5 @@
 ---
 title: "Barnardo's"
-url: /wakefield/barnardos/
+url: /wakefield/barnardos-stanley-road/
 shop: charity
 ---

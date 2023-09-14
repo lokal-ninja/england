@@ -1,5 +1,5 @@
 ---
 title: "Morrisons"
-url: /exeter/morrisons/
+url: /exeter/morrisons-court-royal/
 shop: supermarket
 ---

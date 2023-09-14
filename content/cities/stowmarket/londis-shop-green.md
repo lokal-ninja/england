@@ -1,5 +1,5 @@
 ---
 title: "Londis"
-url: /stowmarket/londis/
+url: /stowmarket/londis-shop-green/
 shop: convenience
 ---

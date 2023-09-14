@@ -1,5 +1,5 @@
 ---
 title: "Bargain Booze"
-url: /sheffield/bargain-booze/
+url: /sheffield/bargain-booze-chaucer-road/
 shop: alcohol
 ---

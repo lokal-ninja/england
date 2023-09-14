@@ -1,5 +1,5 @@
 ---
 title: "Somerset Bakehouse"
-url: /bridgwater/somerset-bakehouse/
+url: /bridgwater/somerset-bakehouse-taunton-road/
 shop: bakery
 ---

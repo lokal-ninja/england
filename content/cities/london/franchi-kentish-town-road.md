@@ -1,5 +1,5 @@
 ---
 title: "Franchi"
-url: /london/franchi/
+url: /london/franchi-kentish-town-road/
 shop: doityourself
 ---

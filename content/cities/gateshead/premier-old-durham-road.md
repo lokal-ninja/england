@@ -1,5 +1,5 @@
 ---
 title: "Premier"
-url: /gateshead/premier/
+url: /gateshead/premier-old-durham-road/
 shop: convenience
 ---

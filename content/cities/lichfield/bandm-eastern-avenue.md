@@ -1,5 +1,5 @@
 ---
 title: "B&M"
-url: /lichfield/bandm/
+url: /lichfield/bandm-eastern-avenue/
 shop: variety store
 ---

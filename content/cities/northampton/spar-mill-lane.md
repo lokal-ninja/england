@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /northampton/spar/
+url: /northampton/spar-mill-lane/
 shop: convenience
 ---

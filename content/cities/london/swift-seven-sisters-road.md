@@ -1,5 +1,5 @@
 ---
 title: "Swift"
-url: /london/swift/
+url: /london/swift-seven-sisters-road/
 shop: convenience
 ---

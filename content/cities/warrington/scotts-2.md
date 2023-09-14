@@ -1,5 +1,5 @@
 ---
 title: "Scott's"
-url: /warrington/scotts/
+url: /warrington/scotts-2/
 shop: clothes
 ---

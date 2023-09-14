@@ -1,5 +1,5 @@
 ---
 title: "Londis"
-url: /banbury/londis/
+url: /banbury/londis-middleton-road/
 shop: convenience
 ---

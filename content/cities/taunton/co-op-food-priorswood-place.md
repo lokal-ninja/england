@@ -1,5 +1,5 @@
 ---
 title: "Co-op Food"
-url: /taunton/co-op-food/
+url: /taunton/co-op-food-priorswood-place/
 shop: convenience
 ---

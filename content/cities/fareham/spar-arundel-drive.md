@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /fareham/spar/
+url: /fareham/spar-arundel-drive/
 shop: convenience
 ---

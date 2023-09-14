@@ -1,5 +1,5 @@
 ---
 title: "Superdry"
-url: /london/superdry/
+url: /london/superdry-montfichet-road/
 shop: clothes
 ---

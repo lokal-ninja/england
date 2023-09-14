@@ -1,5 +1,5 @@
 ---
 title: "Toolstation"
-url: /bridgwater/toolstation/
+url: /bridgwater/toolstation-express-park/
 shop: doityourself
 ---

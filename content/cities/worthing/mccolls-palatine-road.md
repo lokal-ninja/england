@@ -1,5 +1,5 @@
 ---
 title: "McColl's"
-url: /worthing/mccolls/
+url: /worthing/mccolls-palatine-road/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Foyles"
-url: /london/foyles/
+url: /london/foyles-2/
 shop: books
 ---

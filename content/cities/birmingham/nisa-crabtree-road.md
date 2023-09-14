@@ -1,5 +1,5 @@
 ---
 title: "Nisa"
-url: /birmingham/nisa/
+url: /birmingham/nisa-crabtree-road/
 shop: convenience
 ---

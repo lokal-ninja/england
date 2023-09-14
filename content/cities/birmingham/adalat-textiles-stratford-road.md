@@ -1,5 +1,5 @@
 ---
 title: "Adalat Textiles"
-url: /birmingham/adalat-textiles/
+url: /birmingham/adalat-textiles-stratford-road/
 shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /wigan/spar/
+url: /wigan/spar-wigan-road/
 shop: convenience
 ---

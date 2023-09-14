@@ -1,5 +1,5 @@
 ---
 title: "Budgens"
-url: /brighton/budgens/
+url: /brighton/budgens-queens-road/
 shop: supermarket
 ---

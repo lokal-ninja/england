@@ -1,5 +1,5 @@
 ---
 title: "Londis"
-url: /york/londis/
+url: /york/londis-blake-street/
 shop: convenience
 ---

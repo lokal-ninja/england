@@ -1,5 +1,5 @@
 ---
 title: "St Elizabeth Hospice"
-url: /ipswich/st-elizabeth-hospice/
+url: /ipswich/st-elizabeth-hospice-selkirk-road/
 shop: charity
 ---

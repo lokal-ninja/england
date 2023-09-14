@@ -1,5 +1,5 @@
 ---
 title: "Mind"
-url: /derby/mind/
+url: /derby/mind-shardlow-road/
 shop: charity
 ---

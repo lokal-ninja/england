@@ -1,5 +1,5 @@
 ---
 title: "Craven Bakery"
-url: /skipton/craven-bakery/
+url: /skipton/craven-bakery-otley-street/
 shop: bakery
 ---

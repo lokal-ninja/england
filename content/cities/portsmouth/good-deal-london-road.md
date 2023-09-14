@@ -1,5 +1,5 @@
 ---
 title: "Good Deal"
-url: /portsmouth/good-deal/
+url: /portsmouth/good-deal-london-road/
 shop: shop
 ---

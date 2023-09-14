@@ -1,5 +1,5 @@
 ---
 title: "McColl's"
-url: /jarrow/mccolls/
+url: /jarrow/mccolls-norham-terrace/
 shop: convenience
 ---

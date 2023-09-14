@@ -1,5 +1,5 @@
 ---
 title: "AllSaints"
-url: /leeds/allsaints/
+url: /leeds/allsaints-queen-victoria-street/
 shop: clothes
 ---

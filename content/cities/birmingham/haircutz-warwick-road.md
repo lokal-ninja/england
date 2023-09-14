@@ -1,5 +1,5 @@
 ---
 title: "Haircutz"
-url: /birmingham/haircutz/
+url: /birmingham/haircutz-warwick-road/
 shop: hairdresser
 ---

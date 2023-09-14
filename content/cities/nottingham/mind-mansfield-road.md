@@ -1,5 +1,5 @@
 ---
 title: "Mind"
-url: /nottingham/mind/
+url: /nottingham/mind-mansfield-road/
 shop: charity
 ---

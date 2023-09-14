@@ -1,5 +1,5 @@
 ---
 title: "B&M"
-url: /liverpool/bandm/
+url: /liverpool/bandm-clayton-square/
 shop: variety store
 ---

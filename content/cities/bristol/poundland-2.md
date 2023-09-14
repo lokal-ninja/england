@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
-url: /bristol/poundland/
+url: /bristol/poundland-2/
 shop: variety store
 ---

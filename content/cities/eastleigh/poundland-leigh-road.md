@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
-url: /eastleigh/poundland/
+url: /eastleigh/poundland-leigh-road/
 shop: variety store
 ---

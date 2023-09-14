@@ -1,5 +1,5 @@
 ---
 title: "Wolseley"
-url: /ipswich/wolseley/
+url: /ipswich/wolseley-derby-road/
 shop: trade
 ---

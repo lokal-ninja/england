@@ -1,5 +1,5 @@
 ---
 title: "Argos"
-url: /northampton/argos/
+url: /northampton/argos-weedon-road/
 shop: catalogue
 ---

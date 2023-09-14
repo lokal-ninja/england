@@ -1,5 +1,5 @@
 ---
 title: "Tian Tian Market"
-url: /london/tian-tian-market/
+url: /london/tian-tian-market-minnie-baldock-street/
 shop: supermarket
 ---

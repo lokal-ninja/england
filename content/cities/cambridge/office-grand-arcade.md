@@ -1,5 +1,5 @@
 ---
 title: "Office"
-url: /cambridge/office/
+url: /cambridge/office-grand-arcade/
 shop: shoes
 ---

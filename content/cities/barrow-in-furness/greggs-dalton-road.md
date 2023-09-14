@@ -1,5 +1,5 @@
 ---
 title: "Greggs"
-url: /barrow-in-furness/greggs/
+url: /barrow-in-furness/greggs-dalton-road/
 shop: bakery
 ---

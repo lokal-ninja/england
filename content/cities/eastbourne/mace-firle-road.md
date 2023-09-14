@@ -1,5 +1,5 @@
 ---
 title: "Mace"
-url: /eastbourne/mace/
+url: /eastbourne/mace-firle-road/
 shop: convenience
 ---

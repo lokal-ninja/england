@@ -1,5 +1,5 @@
 ---
 title: "Timpson"
-url: /huddersfield/timpson/
+url: /huddersfield/timpson-imperial-arcade/
 shop: locksmith
 ---

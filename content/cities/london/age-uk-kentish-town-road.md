@@ -1,5 +1,5 @@
 ---
 title: "Age UK"
-url: /london/age-uk/
+url: /london/age-uk-kentish-town-road/
 shop: charity
 ---

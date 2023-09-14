@@ -1,5 +1,5 @@
 ---
 title: "Kasa"
-url: /leeds/kasa/
+url: /leeds/kasa-middleton-park-road/
 shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Halfords"
-url: /southampton/halfords/
+url: /southampton/halfords-cannons-retail-park/
 shop: car parts
 ---

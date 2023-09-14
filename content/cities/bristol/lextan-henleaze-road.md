@@ -1,5 +1,5 @@
 ---
 title: "Lextan"
-url: /bristol/lextan/
+url: /bristol/lextan-henleaze-road/
 shop: beauty
 ---

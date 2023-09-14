@@ -1,5 +1,5 @@
 ---
 title: "Londis"
-url: /gravesend/londis/
+url: /gravesend/londis-old-road-west/
 shop: convenience
 ---

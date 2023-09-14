@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /southsea/spar/
+url: /southsea/spar-osborne-road/
 shop: convenience
 ---

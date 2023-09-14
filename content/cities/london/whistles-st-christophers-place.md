@@ -1,5 +1,5 @@
 ---
 title: "Whistles"
-url: /london/whistles/
+url: /london/whistles-st-christophers-place/
 shop: clothes
 ---

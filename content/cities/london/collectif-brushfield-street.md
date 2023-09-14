@@ -1,5 +1,5 @@
 ---
 title: "Collectif"
-url: /london/collectif/
+url: /london/collectif-brushfield-street/
 shop: clothes
 ---

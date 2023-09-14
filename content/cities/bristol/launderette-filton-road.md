@@ -1,5 +1,5 @@
 ---
 title: "Launderette"
-url: /bristol/launderette/
+url: /bristol/launderette-filton-road/
 shop: laundry
 ---

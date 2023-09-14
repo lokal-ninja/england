@@ -1,5 +1,5 @@
 ---
 title: "Le Labo"
-url: /london/le-labo/
+url: /london/le-labo-redchurch-street/
 shop: perfumery
 ---

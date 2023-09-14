@@ -1,5 +1,5 @@
 ---
 title: "eCloud"
-url: /sheffield/ecloud/
+url: /sheffield/ecloud-station-road/
 shop: e-cigarette
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
-url: /south-shields/iceland/
+url: /south-shields/iceland-chichester-road/
 shop: supermarket
 ---

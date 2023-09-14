@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /louth/spar/
+url: /louth/spar-market-place/
 shop: convenience
 ---

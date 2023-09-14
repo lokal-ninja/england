@@ -1,5 +1,5 @@
 ---
 title: "Select Convenience"
-url: /nottingham/select-convenience/
+url: /nottingham/select-convenience-park-road/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Clintons"
-url: /reading/clintons/
+url: /reading/clintons-2/
 shop: gift
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Alexanders"
-url: /selby/alexanders/
+url: /selby/alexanders-market-place/
 shop: newsagent
 ---

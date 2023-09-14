@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
-url: /newmarket/ladbrokes/
+url: /newmarket/ladbrokes-the-guineas-shopping-centre/
 shop: bookmaker
 ---

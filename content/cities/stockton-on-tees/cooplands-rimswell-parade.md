@@ -1,5 +1,5 @@
 ---
 title: "Cooplands"
-url: /stockton-on-tees/cooplands/
+url: /stockton-on-tees/cooplands-rimswell-parade/
 shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /coalville/spar/
+url: /coalville/spar-talbot-street/
 shop: convenience
 ---

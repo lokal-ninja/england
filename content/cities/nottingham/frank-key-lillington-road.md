@@ -1,5 +1,5 @@
 ---
 title: "Frank Key"
-url: /nottingham/frank-key/
+url: /nottingham/frank-key-lillington-road/
 shop: trade
 ---

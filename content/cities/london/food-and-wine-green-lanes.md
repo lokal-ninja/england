@@ -1,5 +1,5 @@
 ---
 title: "Food & Wine"
-url: /london/food-and-wine/
+url: /london/food-and-wine-green-lanes/
 shop: convenience
 ---

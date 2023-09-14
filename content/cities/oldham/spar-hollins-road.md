@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /oldham/spar/
+url: /oldham/spar-hollins-road/
 shop: convenience
 ---

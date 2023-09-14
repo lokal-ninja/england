@@ -1,5 +1,5 @@
 ---
 title: "Revitalise"
-url: /emsworth/revitalise/
+url: /emsworth/revitalise-high-street/
 shop: charity
 ---

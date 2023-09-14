@@ -1,5 +1,5 @@
 ---
 title: "Bike Stop"
-url: /stevenage/bike-stop/
+url: /stevenage/bike-stop-high-street/
 shop: motorcycle
 ---

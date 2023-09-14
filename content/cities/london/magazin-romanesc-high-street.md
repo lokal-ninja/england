@@ -1,5 +1,5 @@
 ---
 title: "Magazin Romanesc"
-url: /london/magazin-romanesc/
+url: /london/magazin-romanesc-high-street/
 shop: deli
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
-url: /sheerness/iceland/
+url: /sheerness/iceland-high-street/
 shop: frozen food
 ---

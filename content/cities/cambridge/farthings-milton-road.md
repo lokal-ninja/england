@@ -1,5 +1,5 @@
 ---
 title: "Farthings"
-url: /cambridge/farthings/
+url: /cambridge/farthings-milton-road/
 shop: laundry
 ---

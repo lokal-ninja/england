@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
-url: /maldon/costcutter/
+url: /maldon/costcutter-dryden-close/
 shop: convenience
 ---

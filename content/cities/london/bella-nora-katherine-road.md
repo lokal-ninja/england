@@ -1,5 +1,5 @@
 ---
 title: "Bella Nora"
-url: /london/bella-nora/
+url: /london/bella-nora-katherine-road/
 shop: hairdresser
 ---

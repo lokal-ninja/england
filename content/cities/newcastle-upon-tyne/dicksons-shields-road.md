@@ -1,5 +1,5 @@
 ---
 title: "Dicksons"
-url: /newcastle-upon-tyne/dicksons/
+url: /newcastle-upon-tyne/dicksons-shields-road/
 shop: butcher
 ---

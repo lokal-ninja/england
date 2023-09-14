@@ -1,5 +1,5 @@
 ---
 title: "William Hill"
-url: /newcastle-upon-tyne/william-hill/
+url: /newcastle-upon-tyne/william-hill-shields-road/
 shop: bookmaker
 ---

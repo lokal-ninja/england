@@ -1,5 +1,5 @@
 ---
 title: "European Foods"
-url: /leeds/european-foods/
+url: /leeds/european-foods-dewsbury-road/
 shop: convenience
 ---

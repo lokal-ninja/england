@@ -1,5 +1,5 @@
 ---
 title: "Dransfields"
-url: /pontefract/dransfields/
+url: /pontefract/dransfields-station-lane/
 shop: newsagent
 ---

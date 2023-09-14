@@ -1,5 +1,5 @@
 ---
 title: "Poundbakery"
-url: /oldham/poundbakery/
+url: /oldham/poundbakery-market-square/
 shop: bakery
 ---

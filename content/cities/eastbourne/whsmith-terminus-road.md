@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
-url: /eastbourne/whsmith/
+url: /eastbourne/whsmith-terminus-road/
 shop: newsagent
 ---

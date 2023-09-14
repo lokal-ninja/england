@@ -1,5 +1,5 @@
 ---
 title: "Bismillah Bakery"
-url: /birmingham/bismillah-bakery/
+url: /birmingham/bismillah-bakery-stratford-road/
 shop: bakery
 ---

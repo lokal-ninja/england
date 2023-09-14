@@ -1,5 +1,5 @@
 ---
 title: "OneBelow"
-url: /leeds/onebelow/
+url: /leeds/onebelow-regent-street/
 shop: variety store
 ---

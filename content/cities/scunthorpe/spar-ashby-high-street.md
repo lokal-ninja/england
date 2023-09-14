@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /scunthorpe/spar/
+url: /scunthorpe/spar-ashby-high-street/
 shop: convenience
 ---

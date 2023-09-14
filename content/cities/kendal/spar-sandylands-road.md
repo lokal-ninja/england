@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /kendal/spar/
+url: /kendal/spar-sandylands-road/
 shop: convenience
 ---

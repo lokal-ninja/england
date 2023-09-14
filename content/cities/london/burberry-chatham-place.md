@@ -1,5 +1,5 @@
 ---
 title: "Burberry"
-url: /london/burberry/
+url: /london/burberry-chatham-place/
 shop: clothes
 ---

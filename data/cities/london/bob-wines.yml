@@ -1,11 +1,11 @@
-id: 181059546
-type: way
-latitude: 51.41677
-longitude: -0.07299
-postcode: "SE19 2AS"
+id: 5842529160
+type: node
+latitude: 51.42671
+longitude: -0.05429
+postcode: "SE26 5EU"
 city: London
-street: "Anerley Road"
-housenumber: 29
-phone: ""
-opening_hours: ""
-website: "http://www.bobwines.co.uk/"
+street: "Sydenham Station Approach"
+housenumber: 4
+phone: "+44 20 8778 6100"
+opening_hours: "Mo-Th 16:00-21:00; Fr 12:00-21:00; Sa 10:00-20:00; Su 12:00-19:00"
+website: "https://bobwines.co.uk/"

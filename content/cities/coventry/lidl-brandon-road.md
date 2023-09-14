@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /coventry/lidl/
+url: /coventry/lidl-brandon-road/
 shop: supermarket
 ---

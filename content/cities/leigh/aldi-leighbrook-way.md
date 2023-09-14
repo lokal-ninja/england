@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
-url: /leigh/aldi/
+url: /leigh/aldi-leighbrook-way/
 shop: supermarket
 ---

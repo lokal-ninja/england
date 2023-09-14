@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
-url: /leeds/poundland/
+url: /leeds/poundland-station-road/
 shop: variety store
 ---

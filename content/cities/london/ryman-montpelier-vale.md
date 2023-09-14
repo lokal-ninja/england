@@ -1,5 +1,5 @@
 ---
 title: "Ryman"
-url: /london/ryman/
+url: /london/ryman-montpelier-vale/
 shop: office supplies
 ---

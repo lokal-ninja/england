@@ -1,5 +1,5 @@
 ---
 title: "Bargain Booze"
-url: /leeds/bargain-booze/
+url: /leeds/bargain-booze-cross-hills/
 shop: alcohol
 ---

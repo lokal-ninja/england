@@ -1,5 +1,5 @@
 ---
 title: "Ethos"
-url: /birmingham/ethos/
+url: /birmingham/ethos-pinfold-street/
 shop: florist
 ---

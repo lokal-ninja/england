@@ -1,5 +1,5 @@
 ---
 title: "Premier"
-url: /darlington/premier/
+url: /darlington/premier-gladstone-street/
 shop: convenience
 ---

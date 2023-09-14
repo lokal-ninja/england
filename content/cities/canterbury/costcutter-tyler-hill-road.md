@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
-url: /canterbury/costcutter/
+url: /canterbury/costcutter-tyler-hill-road/
 shop: convenience
 ---

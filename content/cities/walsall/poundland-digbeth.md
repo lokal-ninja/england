@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
-url: /walsall/poundland/
+url: /walsall/poundland-digbeth/
 shop: variety store
 ---

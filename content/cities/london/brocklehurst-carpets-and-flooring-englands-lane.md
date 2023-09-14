@@ -1,5 +1,5 @@
 ---
 title: "Brocklehurst Carpets & Flooring"
-url: /london/brocklehurst-carpets-and-flooring/
+url: /london/brocklehurst-carpets-and-flooring-englands-lane/
 shop: flooring
 ---

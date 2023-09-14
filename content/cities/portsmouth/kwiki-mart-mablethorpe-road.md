@@ -1,5 +1,5 @@
 ---
 title: "Kwiki Mart"
-url: /portsmouth/kwiki-mart/
+url: /portsmouth/kwiki-mart-mablethorpe-road/
 shop: convenience
 ---

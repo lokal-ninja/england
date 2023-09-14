@@ -1,5 +1,5 @@
 ---
 title: "Folk"
-url: /london/folk/
+url: /london/folk-dray-walk/
 shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
-url: /ipswich/poundland/
+url: /ipswich/poundland-beardmore-park/
 shop: variety store
 ---

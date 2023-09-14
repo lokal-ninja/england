@@ -1,5 +1,5 @@
 ---
 title: "Oxfam"
-url: /hereford/oxfam/
+url: /hereford/oxfam-broad-street/
 shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Istanbul Barbers"
-url: /london/istanbul-barbers/
+url: /london/istanbul-barbers-catford-road/
 shop: hairdresser
 ---

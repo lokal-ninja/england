@@ -1,5 +1,5 @@
 ---
 title: "GAIL's"
-url: /london/gails/
+url: /london/gails-swains-lane/
 shop: bakery
 ---

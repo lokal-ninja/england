@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /liverpool/spar/
+url: /liverpool/spar-scaffold-lane/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /beckenham/spar/
+url: /beckenham/spar-high-street/
 shop: convenience
 ---

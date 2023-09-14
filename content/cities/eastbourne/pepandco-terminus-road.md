@@ -1,5 +1,5 @@
 ---
 title: "Pep&Co"
-url: /eastbourne/pepandco/
+url: /eastbourne/pepandco-terminus-road/
 shop: clothes
 ---

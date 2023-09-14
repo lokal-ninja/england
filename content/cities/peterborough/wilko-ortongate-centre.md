@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
-url: /peterborough/wilko/
+url: /peterborough/wilko-ortongate-centre/
 shop: variety store
 ---

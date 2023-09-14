@@ -1,5 +1,5 @@
 ---
 title: "Premier"
-url: /portsmouth/premier/
+url: /portsmouth/premier-allaway-avenue/
 shop: convenience
 ---

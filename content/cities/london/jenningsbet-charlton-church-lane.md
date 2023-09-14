@@ -1,5 +1,5 @@
 ---
 title: "JenningsBet"
-url: /london/jenningsbet/
+url: /london/jenningsbet-charlton-church-lane/
 shop: bookmaker
 ---

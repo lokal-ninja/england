@@ -1,5 +1,5 @@
 ---
 title: "Co-op Food"
-url: /eastbourne/co-op-food/
+url: /eastbourne/co-op-food-beatty-road/
 shop: convenience
 ---

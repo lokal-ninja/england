@@ -1,5 +1,5 @@
 ---
 title: "Homecare"
-url: /ludlow/homecare/
-shop: doityourself
+url: /ludlow/homecare-temeside/
+shop: garden centre
 ---

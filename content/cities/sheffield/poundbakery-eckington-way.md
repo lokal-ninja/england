@@ -1,5 +1,5 @@
 ---
 title: "Poundbakery"
-url: /sheffield/poundbakery/
+url: /sheffield/poundbakery-eckington-way/
 shop: bakery
 ---

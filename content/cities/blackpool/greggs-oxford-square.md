@@ -1,5 +1,5 @@
 ---
 title: "Greggs"
-url: /blackpool/greggs/
+url: /blackpool/greggs-oxford-square/
 shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "B&M Bargains"
-url: /canterbury/bandm-bargains/
+url: /canterbury/bandm-bargains-marshwood-close/
 shop: variety store
 ---

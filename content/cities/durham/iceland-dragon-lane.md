@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
-url: /durham/iceland/
+url: /durham/iceland-dragon-lane/
 shop: frozen food
 ---

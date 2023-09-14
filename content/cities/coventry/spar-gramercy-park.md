@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /coventry/spar/
+url: /coventry/spar-gramercy-park/
 shop: supermarket
 ---

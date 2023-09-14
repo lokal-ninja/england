@@ -1,5 +1,5 @@
 ---
 title: "East of England Co-op"
-url: /ipswich/east-of-england-co-op/
+url: /ipswich/east-of-england-co-op-cauldwell-hall-road/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Specsavers"
-url: /derby/specsavers/
+url: /derby/specsavers-stenson-road/
 shop: optician
 ---

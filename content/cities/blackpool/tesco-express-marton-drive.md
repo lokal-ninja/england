@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
-url: /blackpool/tesco-express/
+url: /blackpool/tesco-express-marton-drive/
 shop: convenience
 ---

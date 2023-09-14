@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
-url: /northampton/poundland/
+url: /northampton/poundland-fairground-way/
 shop: variety store
 ---

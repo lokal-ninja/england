@@ -1,5 +1,5 @@
 ---
 title: "Dunelm"
-url: /bristol/dunelm/
+url: /bristol/dunelm-bath-road/
 shop: interior decoration
 ---

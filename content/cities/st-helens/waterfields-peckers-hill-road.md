@@ -1,5 +1,5 @@
 ---
 title: "Waterfields"
-url: /st-helens/waterfields/
+url: /st-helens/waterfields-peckers-hill-road/
 shop: bakery
 ---

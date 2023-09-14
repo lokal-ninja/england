@@ -1,5 +1,5 @@
 ---
 title: "Headway"
-url: /birmingham/headway/
+url: /birmingham/headway-thornbridge-avenue/
 shop: charity
 ---

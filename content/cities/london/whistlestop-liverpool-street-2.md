@@ -1,5 +1,5 @@
 ---
 title: "Whistlestop"
-url: /london/whistlestop/
+url: /london/whistlestop-liverpool-street-2/
 shop: newsagent
 ---

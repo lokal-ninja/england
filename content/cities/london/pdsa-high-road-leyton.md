@@ -1,5 +1,5 @@
 ---
 title: "PDSA"
-url: /london/pdsa/
+url: /london/pdsa-high-road-leyton/
 shop: charity
 ---

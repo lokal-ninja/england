@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
-url: /milton-keynes/poundland/
+url: /milton-keynes/poundland-silbury-arcade/
 shop: variety store
 ---

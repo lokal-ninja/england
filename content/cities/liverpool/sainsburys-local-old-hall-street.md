@@ -1,5 +1,5 @@
 ---
 title: "Sainsbury's Local"
-url: /liverpool/sainsburys-local/
+url: /liverpool/sainsburys-local-old-hall-street/
 shop: convenience
 ---

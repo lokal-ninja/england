@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /dartmouth/spar/
+url: /dartmouth/spar-victoria-road/
 shop: convenience
 ---

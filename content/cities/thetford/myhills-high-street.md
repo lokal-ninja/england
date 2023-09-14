@@ -1,5 +1,5 @@
 ---
 title: "Myhill's"
-url: /thetford/myhills/
+url: /thetford/myhills-high-street/
 shop: hardware
 ---

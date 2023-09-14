@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
-url: /bradford/iceland/
+url: /bradford/iceland-weaverthorpe-road/
 shop: frozen food
 ---

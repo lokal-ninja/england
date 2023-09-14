@@ -1,5 +1,5 @@
 ---
 title: "Card Factory"
-url: /durham/card-factory/
+url: /durham/card-factory-dragon-lane/
 shop: gift
 ---

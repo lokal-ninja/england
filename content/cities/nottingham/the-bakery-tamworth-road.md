@@ -1,5 +1,5 @@
 ---
 title: "The Bakery"
-url: /nottingham/the-bakery/
+url: /nottingham/the-bakery-tamworth-road/
 shop: confectionery
 ---

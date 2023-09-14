@@ -1,5 +1,5 @@
 ---
 title: "McColl's"
-url: /blackpool/mccolls/
+url: /blackpool/mccolls-bispham-road/
 shop: convenience
 ---

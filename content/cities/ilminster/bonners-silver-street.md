@@ -1,5 +1,5 @@
 ---
 title: "Bonners"
-url: /ilminster/bonners/
+url: /ilminster/bonners-silver-street/
 shop: butcher
 ---

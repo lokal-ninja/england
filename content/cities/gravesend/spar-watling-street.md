@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /gravesend/spar/
+url: /gravesend/spar-watling-street/
 shop: convenience
 ---

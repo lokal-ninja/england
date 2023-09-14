@@ -1,5 +1,5 @@
 ---
 title: "The Co-operative Funeralcare"
-url: /leicester/the-co-operative-funeralcare/
+url: /leicester/the-co-operative-funeralcare-wyngate-drive/
 shop: funeral directors
 ---

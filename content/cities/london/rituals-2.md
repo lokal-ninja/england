@@ -1,5 +1,5 @@
 ---
 title: "Rituals"
-url: /london/rituals/
+url: /london/rituals-2/
 shop: beauty
 ---

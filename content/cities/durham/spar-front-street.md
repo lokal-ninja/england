@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /durham/spar/
+url: /durham/spar-front-street/
 shop: convenience
 ---

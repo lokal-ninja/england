@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /exeter/spar/
+url: /exeter/spar-blakeslee-drive/
 shop: convenience
 ---

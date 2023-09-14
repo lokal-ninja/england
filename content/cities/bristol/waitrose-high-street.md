@@ -1,5 +1,5 @@
 ---
 title: "Waitrose"
-url: /bristol/waitrose/
+url: /bristol/waitrose-high-street/
 shop: convenience
 ---

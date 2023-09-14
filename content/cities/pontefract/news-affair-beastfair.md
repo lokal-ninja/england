@@ -1,5 +1,5 @@
 ---
 title: "News Affair"
-url: /pontefract/news-affair/
+url: /pontefract/news-affair-beastfair/
 shop: newsagent
 ---

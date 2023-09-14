@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /preston/spar/
+url: /preston/spar-watling-street-road/
 shop: convenience
 ---

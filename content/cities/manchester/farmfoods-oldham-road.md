@@ -1,5 +1,5 @@
 ---
 title: "Farmfoods"
-url: /manchester/farmfoods/
+url: /manchester/farmfoods-oldham-road/
 shop: frozen food
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Harveys"
-url: /london/harveys/
+url: /london/harveys-bromley-road/
 shop: furniture
 ---

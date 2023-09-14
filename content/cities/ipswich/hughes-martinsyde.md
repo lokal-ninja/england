@@ -1,5 +1,5 @@
 ---
 title: "Hughes"
-url: /ipswich/hughes/
+url: /ipswich/hughes-martinsyde/
 shop: electronics
 ---

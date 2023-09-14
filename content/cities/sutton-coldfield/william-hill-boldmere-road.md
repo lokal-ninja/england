@@ -1,5 +1,5 @@
 ---
 title: "William Hill"
-url: /sutton-coldfield/william-hill/
+url: /sutton-coldfield/william-hill-boldmere-road/
 shop: bookmaker
 ---

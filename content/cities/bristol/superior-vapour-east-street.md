@@ -1,5 +1,5 @@
 ---
 title: "Superior Vapour"
-url: /bristol/superior-vapour/
+url: /bristol/superior-vapour-east-street/
 shop: e-cigarette
 ---

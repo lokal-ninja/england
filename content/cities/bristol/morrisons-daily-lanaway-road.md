@@ -1,5 +1,5 @@
 ---
 title: "Morrisons Daily"
-url: /bristol/morrisons-daily/
+url: /bristol/morrisons-daily-lanaway-road/
 shop: convenience
 ---

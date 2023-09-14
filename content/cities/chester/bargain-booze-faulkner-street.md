@@ -1,5 +1,5 @@
 ---
 title: "Bargain Booze"
-url: /chester/bargain-booze/
+url: /chester/bargain-booze-faulkner-street/
 shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cooplands"
-url: /scarborough/cooplands/
+url: /scarborough/cooplands-newborough/
 shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Boots"
-url: /canterbury/boots/
+url: /canterbury/boots-ten-perch-road/
 shop: chemist
 ---

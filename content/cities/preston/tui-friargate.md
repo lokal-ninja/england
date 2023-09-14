@@ -1,5 +1,5 @@
 ---
 title: "TUI"
-url: /preston/tui/
+url: /preston/tui-friargate/
 shop: travel agency
 ---

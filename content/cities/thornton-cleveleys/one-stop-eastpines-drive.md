@@ -1,5 +1,5 @@
 ---
 title: "One Stop"
-url: /thornton-cleveleys/one-stop/
+url: /thornton-cleveleys/one-stop-eastpines-drive/
 shop: convenience
 ---

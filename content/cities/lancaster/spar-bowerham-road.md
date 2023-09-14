@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /lancaster/spar/
+url: /lancaster/spar-bowerham-road/
 shop: convenience
 ---

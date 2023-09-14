@@ -1,5 +1,5 @@
 ---
 title: "GAIL's"
-url: /richmond/gails/
+url: /richmond/gails-sheen-road/
 shop: bakery
 ---

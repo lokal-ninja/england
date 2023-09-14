@@ -1,5 +1,5 @@
 ---
 title: "Nisa Local"
-url: /cheltenham/nisa-local/
+url: /cheltenham/nisa-local-beaumont-road/
 shop: convenience
 ---

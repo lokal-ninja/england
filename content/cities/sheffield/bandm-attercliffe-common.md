@@ -1,5 +1,5 @@
 ---
 title: "B&M"
-url: /sheffield/bandm/
+url: /sheffield/bandm-attercliffe-common/
 shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dicksons"
-url: /wallsend/dicksons/
+url: /wallsend/dicksons-battle-hill-drive/
 shop: butcher
 ---

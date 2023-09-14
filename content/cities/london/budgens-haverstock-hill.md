@@ -1,5 +1,5 @@
 ---
 title: "Budgens"
-url: /london/budgens/
+url: /london/budgens-haverstock-hill/
 shop: convenience
 ---

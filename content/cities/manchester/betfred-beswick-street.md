@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
-url: /manchester/betfred/
+url: /manchester/betfred-beswick-street/
 shop: bookmaker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Waitrose"
-url: /london/waitrose/
+url: /london/waitrose-temple-fortune-parade/
 shop: supermarket
 ---

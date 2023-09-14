@@ -1,5 +1,5 @@
 ---
 title: "Home Bargains"
-url: /letchworth-garden-city/home-bargains/
+url: /letchworth-garden-city/home-bargains-central-approach/
 shop: variety store
 ---

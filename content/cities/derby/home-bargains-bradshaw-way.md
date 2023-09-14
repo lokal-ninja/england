@@ -1,5 +1,5 @@
 ---
 title: "Home Bargains"
-url: /derby/home-bargains/
+url: /derby/home-bargains-bradshaw-way/
 shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Barnardo's"
-url: /southampton/barnardos/
+url: /southampton/barnardos-2/
 shop: charity
 ---

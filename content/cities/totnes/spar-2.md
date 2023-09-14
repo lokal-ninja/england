@@ -1,5 +1,5 @@
 ---
 title: "SPAR"
-url: /totnes/spar/
+url: /totnes/spar-2/
 shop: convenience
 ---

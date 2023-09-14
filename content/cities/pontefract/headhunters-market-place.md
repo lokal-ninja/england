@@ -1,5 +1,5 @@
 ---
 title: "Headhunters"
-url: /pontefract/headhunters/
+url: /pontefract/headhunters-market-place/
 shop: hairdresser
 ---

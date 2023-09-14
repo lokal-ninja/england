@@ -1,5 +1,5 @@
 ---
 title: "Heron Foods"
-url: /barnsley/heron-foods/
+url: /barnsley/heron-foods-king-street/
 shop: supermarket
 ---

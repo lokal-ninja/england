@@ -1,5 +1,5 @@
 ---
 title: "Londis"
-url: /bristol/londis/
+url: /bristol/londis-frenchay-park-road/
 shop: convenience
 ---

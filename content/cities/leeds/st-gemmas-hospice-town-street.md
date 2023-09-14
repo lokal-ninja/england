@@ -1,5 +1,5 @@
 ---
 title: "St. Gemma's Hospice"
-url: /leeds/st-gemmas-hospice/
+url: /leeds/st-gemmas-hospice-town-street/
 shop: charity
 ---

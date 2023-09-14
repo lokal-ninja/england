@@ -1,5 +1,5 @@
 ---
 title: "Cooplands"
-url: /grimsby/cooplands/
+url: /grimsby/cooplands-waltham-road/
 shop: bakery
 ---

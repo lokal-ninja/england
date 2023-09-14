@@ -1,5 +1,5 @@
 ---
 title: "YMCA"
-url: /london/ymca/
+url: /london/ymca-goodge-street/
 shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Next"
-url: /eastbourne/next/
+url: /eastbourne/next-pevensey-bay-road/
 shop: clothes
 ---

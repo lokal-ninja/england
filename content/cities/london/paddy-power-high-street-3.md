@@ -1,5 +1,5 @@
 ---
 title: "Paddy Power"
-url: /london/paddy-power/
+url: /london/paddy-power-high-street-3/
 shop: bookmaker
 ---

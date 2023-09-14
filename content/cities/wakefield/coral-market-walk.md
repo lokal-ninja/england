@@ -1,5 +1,5 @@
 ---
 title: "Coral"
-url: /wakefield/coral/
+url: /wakefield/coral-market-walk/
 shop: bookmaker
 ---

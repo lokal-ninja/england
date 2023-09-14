@@ -1,5 +1,5 @@
 ---
 title: "BoozeBuster"
-url: /corby/boozebuster/
+url: /corby/boozebuster-welland-vale-road/
 shop: alcohol
 ---

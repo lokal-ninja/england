@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /leicester/spar/
+url: /leicester/spar-millstone-lane/
 shop: convenience
 ---

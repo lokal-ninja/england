@@ -1,5 +1,5 @@
 ---
 title: "The Works"
-url: /great-yarmouth/the-works/
+url: /great-yarmouth/the-works-purley-court/
 shop: books
 ---

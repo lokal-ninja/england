@@ -1,5 +1,5 @@
 ---
 title: "Oxfam"
-url: /nottingham/oxfam/
+url: /nottingham/oxfam-mansfield-road/
 shop: charity
 ---

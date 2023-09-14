@@ -1,5 +1,5 @@
 ---
 title: "Poundbakery"
-url: /leeds/poundbakery/
+url: /leeds/poundbakery-kirkgate/
 shop: bakery
 ---

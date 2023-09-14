@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /barnsley/lidl/
+url: /barnsley/lidl-wakefield-road/
 shop: supermarket
 ---

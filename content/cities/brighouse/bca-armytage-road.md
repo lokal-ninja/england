@@ -1,5 +1,5 @@
 ---
 title: "BCA"
-url: /brighouse/bca/
+url: /brighouse/bca-armytage-road/
 shop: car
 ---

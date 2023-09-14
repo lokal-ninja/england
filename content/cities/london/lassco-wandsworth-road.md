@@ -1,5 +1,5 @@
 ---
 title: "LASSCO"
-url: /london/lassco/
+url: /london/lassco-wandsworth-road/
 shop: antiques
 ---

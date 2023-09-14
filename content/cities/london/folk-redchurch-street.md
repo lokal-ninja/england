@@ -1,5 +1,5 @@
 ---
 title: "Folk"
-url: /london/folk/
+url: /london/folk-redchurch-street/
 shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /morecambe/spar/
+url: /morecambe/spar-regent-road/
 shop: convenience
 ---

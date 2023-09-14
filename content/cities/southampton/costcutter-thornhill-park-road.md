@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
-url: /southampton/costcutter/
+url: /southampton/costcutter-thornhill-park-road/
 shop: convenience
 ---

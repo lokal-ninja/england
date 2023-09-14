@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
-url: /birmingham/iceland/
+url: /birmingham/iceland-timberley-lane/
 shop: frozen food
 ---

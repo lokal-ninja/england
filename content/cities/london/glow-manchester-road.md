@@ -1,5 +1,5 @@
 ---
 title: "Glow"
-url: /london/glow/
+url: /london/glow-manchester-road/
 shop: beauty
 ---

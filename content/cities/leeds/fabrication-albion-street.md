@@ -1,5 +1,5 @@
 ---
 title: "Fabrication"
-url: /leeds/fabrication/
+url: /leeds/fabrication-albion-street/
 shop: craft
 ---

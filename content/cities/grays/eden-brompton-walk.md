@@ -1,5 +1,5 @@
 ---
 title: "Eden"
-url: /grays/eden/
+url: /grays/eden-brompton-walk/
 shop: beauty
 ---

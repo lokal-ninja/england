@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
-url: /newcastle-upon-tyne/aldi/
+url: /newcastle-upon-tyne/aldi-walker-road/
 shop: supermarket
 ---

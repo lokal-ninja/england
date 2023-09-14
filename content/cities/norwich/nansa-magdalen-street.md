@@ -1,5 +1,5 @@
 ---
 title: "Nansa"
-url: /norwich/nansa/
+url: /norwich/nansa-magdalen-street/
 shop: charity
 ---

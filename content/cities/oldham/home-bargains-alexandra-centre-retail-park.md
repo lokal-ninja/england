@@ -1,5 +1,5 @@
 ---
 title: "Home Bargains"
-url: /oldham/home-bargains/
+url: /oldham/home-bargains-alexandra-centre-retail-park/
 shop: variety store
 ---

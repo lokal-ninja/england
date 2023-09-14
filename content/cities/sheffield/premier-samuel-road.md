@@ -1,5 +1,5 @@
 ---
 title: "Premier"
-url: /sheffield/premier/
+url: /sheffield/premier-samuel-road/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /chester/spar/
+url: /chester/spar-the-parade/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Toolstation"
-url: /london/toolstation/
+url: /london/toolstation-2/
 shop: doityourself
 ---

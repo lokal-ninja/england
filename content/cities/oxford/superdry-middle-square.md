@@ -1,5 +1,5 @@
 ---
 title: "Superdry"
-url: /oxford/superdry/
+url: /oxford/superdry-middle-square/
 shop: clothes
 ---

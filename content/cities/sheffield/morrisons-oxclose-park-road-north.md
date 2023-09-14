@@ -1,5 +1,5 @@
 ---
 title: "Morrisons"
-url: /sheffield/morrisons/
+url: /sheffield/morrisons-oxclose-park-road-north/
 shop: supermarket
 ---

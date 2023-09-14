@@ -1,5 +1,5 @@
 ---
 title: "Savers"
-url: /london/savers/
+url: /london/savers-camden-high-street/
 shop: chemist
 ---

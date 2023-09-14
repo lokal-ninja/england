@@ -1,5 +1,5 @@
 ---
 title: "Best-One"
-url: /gateshead/best-one/
+url: /gateshead/best-one-2/
 shop: convenience
 ---

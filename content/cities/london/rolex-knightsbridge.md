@@ -1,5 +1,5 @@
 ---
 title: "Rolex"
-url: /london/rolex/
+url: /london/rolex-knightsbridge/
 shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
-url: /leeds/costcutter/
+url: /leeds/costcutter-york-road/
 shop: convenience
 ---

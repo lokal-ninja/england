@@ -1,5 +1,5 @@
 ---
 title: "Asda"
-url: /warrington/asda/
+url: /warrington/asda-westbrook-centre/
 shop: supermarket
 ---

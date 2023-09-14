@@ -1,5 +1,5 @@
 ---
 title: "Greggs"
-url: /newcastle-upon-tyne/greggs/
+url: /newcastle-upon-tyne/greggs-acorn-road/
 shop: bakery
 ---

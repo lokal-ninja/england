@@ -1,5 +1,5 @@
 ---
 title: "Timpson"
-url: /birmingham/timpson/
+url: /birmingham/timpson-church-road/
 shop: shoes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Golu"
-url: /birmingham/golu/
+url: /birmingham/golu-stratford-road/
 shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Coral"
-url: /darlington/coral/
+url: /darlington/coral-bondgate/
 shop: bookmaker
 ---

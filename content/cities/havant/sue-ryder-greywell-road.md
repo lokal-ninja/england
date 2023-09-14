@@ -1,5 +1,5 @@
 ---
 title: "Sue Ryder"
-url: /havant/sue-ryder/
+url: /havant/sue-ryder-greywell-road/
 shop: charity
 ---

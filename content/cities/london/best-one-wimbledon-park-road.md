@@ -1,5 +1,5 @@
 ---
 title: "Best-One"
-url: /london/best-one/
+url: /london/best-one-wimbledon-park-road/
 shop: convenience
 ---

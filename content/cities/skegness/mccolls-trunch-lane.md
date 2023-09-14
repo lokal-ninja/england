@@ -1,5 +1,5 @@
 ---
 title: "Mccolls"
-url: /skegness/mccolls/
+url: /skegness/mccolls-trunch-lane/
 shop: newsagent
 ---

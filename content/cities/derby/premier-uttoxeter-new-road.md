@@ -1,5 +1,5 @@
 ---
 title: "Premier"
-url: /derby/premier/
+url: /derby/premier-uttoxeter-new-road/
 shop: convenience
 ---

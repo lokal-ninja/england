@@ -1,5 +1,5 @@
 ---
 title: "Hopscotch"
-url: /leeds/hopscotch/
+url: /leeds/hopscotch-harrogate-road/
 shop: shoes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Good Food"
-url: /london/good-food/
+url: /london/good-food-sydenham-road/
 shop: deli
 ---

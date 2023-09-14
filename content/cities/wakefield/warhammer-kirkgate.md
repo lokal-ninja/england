@@ -1,5 +1,5 @@
 ---
 title: "Warhammer"
-url: /wakefield/warhammer/
+url: /wakefield/warhammer-kirkgate/
 shop: games
 ---

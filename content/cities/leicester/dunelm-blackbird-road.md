@@ -1,5 +1,5 @@
 ---
 title: "Dunelm"
-url: /leicester/dunelm/
+url: /leicester/dunelm-blackbird-road/
 shop: interior decoration
 ---

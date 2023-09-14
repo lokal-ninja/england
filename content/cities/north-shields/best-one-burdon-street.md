@@ -1,5 +1,5 @@
 ---
 title: "Best-One"
-url: /north-shields/best-one/
+url: /north-shields/best-one-burdon-street/
 shop: convenience
 ---

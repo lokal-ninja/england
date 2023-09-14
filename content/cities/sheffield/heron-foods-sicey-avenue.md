@@ -1,5 +1,5 @@
 ---
 title: "Heron Foods"
-url: /sheffield/heron-foods/
+url: /sheffield/heron-foods-sicey-avenue/
 shop: supermarket
 ---

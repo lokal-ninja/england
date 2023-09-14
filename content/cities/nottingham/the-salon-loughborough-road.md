@@ -1,5 +1,5 @@
 ---
 title: "The Salon"
-url: /nottingham/the-salon/
+url: /nottingham/the-salon-loughborough-road/
 shop: hairdresser
 ---

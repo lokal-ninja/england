@@ -1,5 +1,5 @@
 ---
 title: "Morrisons Daily"
-url: /alnwick/morrisons-daily/
+url: /alnwick/morrisons-daily-hawfinch-drive/
 shop: convenience
 ---

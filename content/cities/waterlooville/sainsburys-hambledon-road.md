@@ -1,5 +1,5 @@
 ---
 title: "Sainsbury's"
-url: /waterlooville/sainsburys/
+url: /waterlooville/sainsburys-hambledon-road/
 shop: convenience
 ---

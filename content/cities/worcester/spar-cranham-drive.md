@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /worcester/spar/
+url: /worcester/spar-cranham-drive/
 shop: supermarket
 ---

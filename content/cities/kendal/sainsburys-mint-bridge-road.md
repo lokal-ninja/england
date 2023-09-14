@@ -1,5 +1,5 @@
 ---
 title: "Sainsbury's"
-url: /kendal/sainsburys/
+url: /kendal/sainsburys-mint-bridge-road/
 shop: convenience
 ---

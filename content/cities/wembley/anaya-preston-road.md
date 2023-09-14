@@ -1,5 +1,5 @@
 ---
 title: "Anaya"
-url: /wembley/anaya/
+url: /wembley/anaya-preston-road/
 shop: beauty
 ---

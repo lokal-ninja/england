@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
-url: /barnsley/iceland/
+url: /barnsley/iceland-peel-street/
 shop: frozen food
 ---

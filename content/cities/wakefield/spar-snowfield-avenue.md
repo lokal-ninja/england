@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /wakefield/spar/
+url: /wakefield/spar-snowfield-avenue/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Premier"
-url: /blyth/premier/
+url: /blyth/premier-broadway-circle/
 shop: supermarket
 ---

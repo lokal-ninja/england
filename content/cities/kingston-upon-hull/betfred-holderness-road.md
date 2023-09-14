@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
-url: /kingston-upon-hull/betfred/
+url: /kingston-upon-hull/betfred-holderness-road/
 shop: bookmaker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Coral"
-url: /sunderland/coral/
+url: /sunderland/coral-parkhurst-road/
 shop: bookmaker
 ---

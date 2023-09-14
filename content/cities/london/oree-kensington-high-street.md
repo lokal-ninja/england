@@ -1,5 +1,5 @@
 ---
 title: "Orée"
-url: /london/oree/
+url: /london/oree-kensington-high-street/
 shop: bakery
 ---

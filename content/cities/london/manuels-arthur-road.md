@@ -1,5 +1,5 @@
 ---
 title: "Manuels"
-url: /london/manuels/
+url: /london/manuels-arthur-road/
 shop: bakery
 ---

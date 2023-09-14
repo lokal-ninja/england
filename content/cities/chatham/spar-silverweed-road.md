@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /chatham/spar/
+url: /chatham/spar-silverweed-road/
 shop: supermarket
 ---

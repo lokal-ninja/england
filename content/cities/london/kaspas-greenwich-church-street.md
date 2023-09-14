@@ -1,5 +1,5 @@
 ---
 title: "Kaspa's"
-url: /london/kaspas/
+url: /london/kaspas-greenwich-church-street/
 shop: confectionery
 ---

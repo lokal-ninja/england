@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /warrington/spar/
+url: /warrington/spar-lovely-lane/
 shop: convenience
 ---

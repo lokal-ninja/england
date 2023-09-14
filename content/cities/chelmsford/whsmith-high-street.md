@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
-url: /chelmsford/whsmith/
+url: /chelmsford/whsmith-high-street/
 shop: newsagent
 ---

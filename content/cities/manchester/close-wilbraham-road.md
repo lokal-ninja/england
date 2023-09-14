@@ -1,5 +1,5 @@
 ---
 title: "Close"
-url: /manchester/close/
+url: /manchester/close-wilbraham-road/
 shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
-url: /bristol/wilko/
+url: /bristol/wilko-queens-road/
 shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
-url: /gateshead/wilko/
+url: /gateshead/wilko-blue-mall/
 shop: variety store
 ---

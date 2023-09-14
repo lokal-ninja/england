@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /chorley/spar/
+url: /chorley/spar-wood-lane/
 shop: convenience
 ---

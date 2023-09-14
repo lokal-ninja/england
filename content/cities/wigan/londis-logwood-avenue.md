@@ -1,5 +1,5 @@
 ---
 title: "Londis"
-url: /wigan/londis/
+url: /wigan/londis-logwood-avenue/
 shop: convenience
 ---

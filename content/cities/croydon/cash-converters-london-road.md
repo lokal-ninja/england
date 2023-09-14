@@ -1,5 +1,5 @@
 ---
 title: "Cash Converters"
-url: /croydon/cash-converters/
+url: /croydon/cash-converters-london-road/
 shop: pawnbroker
 ---

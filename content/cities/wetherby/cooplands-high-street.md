@@ -1,5 +1,5 @@
 ---
 title: "Cooplands"
-url: /wetherby/cooplands/
+url: /wetherby/cooplands-high-street/
 shop: bakery
 ---

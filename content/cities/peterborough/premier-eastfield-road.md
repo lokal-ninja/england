@@ -1,5 +1,5 @@
 ---
 title: "Premier"
-url: /peterborough/premier/
+url: /peterborough/premier-eastfield-road/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Revital"
-url: /london/revital/
+url: /london/revital-putney-high-street/
 shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Card Factory"
-url: /wakefield/card-factory/
+url: /wakefield/card-factory-all-saints-walk-the-ridings-centre/
 shop: gift
 ---

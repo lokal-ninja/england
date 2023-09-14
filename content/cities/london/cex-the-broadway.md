@@ -1,5 +1,5 @@
 ---
 title: "CeX"
-url: /london/cex/
+url: /london/cex-the-broadway/
 shop: electronics
 ---

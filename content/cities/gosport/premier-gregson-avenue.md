@@ -1,5 +1,5 @@
 ---
 title: "Premier"
-url: /gosport/premier/
+url: /gosport/premier-gregson-avenue/
 shop: convenience
 ---

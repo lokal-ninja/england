@@ -1,5 +1,5 @@
 ---
 title: "IKEA"
-url: /london/ikea/
+url: /london/ikea-drury-way/
 shop: furniture
 ---

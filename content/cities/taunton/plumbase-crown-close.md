@@ -1,5 +1,5 @@
 ---
 title: "Plumbase"
-url: /taunton/plumbase/
+url: /taunton/plumbase-crown-close/
 shop: trade
 ---

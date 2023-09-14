@@ -1,5 +1,5 @@
 ---
 title: "B&Q"
-url: /wakefield/bandq/
+url: /wakefield/bandq-charlesworth-way/
 shop: garden centre
 ---

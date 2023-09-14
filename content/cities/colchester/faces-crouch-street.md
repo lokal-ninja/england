@@ -1,5 +1,5 @@
 ---
 title: "Faces"
-url: /colchester/faces/
+url: /colchester/faces-crouch-street/
 shop: hairdresser
 ---

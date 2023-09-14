@@ -1,5 +1,5 @@
 ---
 title: "Firehouse"
-url: /kendal/firehouse/
+url: /kendal/firehouse-station-yard/
 shop: fireplace
 ---

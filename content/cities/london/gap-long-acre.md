@@ -1,5 +1,5 @@
 ---
 title: "Gap"
-url: /london/gap/
+url: /london/gap-long-acre/
 shop: clothes
 ---

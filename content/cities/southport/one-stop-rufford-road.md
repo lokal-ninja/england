@@ -1,5 +1,5 @@
 ---
 title: "One Stop"
-url: /southport/one-stop/
+url: /southport/one-stop-rufford-road/
 shop: convenience
 ---

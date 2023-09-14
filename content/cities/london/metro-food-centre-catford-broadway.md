@@ -1,5 +1,5 @@
 ---
 title: "Metro Food Centre"
-url: /london/metro-food-centre/
+url: /london/metro-food-centre-catford-broadway/
 shop: convenience
 ---

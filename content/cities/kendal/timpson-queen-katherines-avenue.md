@@ -1,5 +1,5 @@
 ---
 title: "Timpson"
-url: /kendal/timpson/
+url: /kendal/timpson-queen-katherines-avenue/
 shop: locksmith
 ---

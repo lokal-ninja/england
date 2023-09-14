@@ -1,5 +1,5 @@
 ---
 title: "Coral"
-url: /fareham/coral/
+url: /fareham/coral-highlands-road/
 shop: bookmaker
 ---

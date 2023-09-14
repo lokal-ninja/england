@@ -1,5 +1,5 @@
 ---
 title: "Mleczko"
-url: /harrow/mleczko/
+url: /harrow/mleczko-kenton-road/
 shop: supermarket
 ---

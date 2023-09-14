@@ -1,5 +1,5 @@
 ---
 title: "Premier"
-url: /washington/premier/
+url: /washington/premier-morland-avenue/
 shop: convenience
 ---

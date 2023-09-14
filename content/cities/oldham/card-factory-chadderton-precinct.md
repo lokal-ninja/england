@@ -1,5 +1,5 @@
 ---
 title: "Card Factory"
-url: /oldham/card-factory/
+url: /oldham/card-factory-chadderton-precinct/
 shop: gift
 ---

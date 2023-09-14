@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
-url: /gateshead/poundland/
+url: /gateshead/poundland-russell-way/
 shop: variety store
 ---

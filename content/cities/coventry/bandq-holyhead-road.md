@@ -1,5 +1,5 @@
 ---
 title: "B&Q"
-url: /coventry/bandq/
+url: /coventry/bandq-holyhead-road/
 shop: doityourself
 ---

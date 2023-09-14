@@ -1,5 +1,5 @@
 ---
 title: "Prahova"
-url: /london/prahova/
+url: /london/prahova-kingsbury-road/
 shop: convenience
 ---

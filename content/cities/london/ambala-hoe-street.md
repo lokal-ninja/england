@@ -1,5 +1,5 @@
 ---
 title: "Ambala"
-url: /london/ambala/
+url: /london/ambala-hoe-street/
 shop: shop
 ---

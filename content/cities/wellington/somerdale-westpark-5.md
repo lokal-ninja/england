@@ -1,5 +1,5 @@
 ---
 title: "Somerdale"
-url: /wellington/somerdale/
+url: /wellington/somerdale-westpark-5/
 shop: wholesale
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Currys"
-url: /derby/currys/
+url: /derby/currys-2/
 shop: electronics
 ---

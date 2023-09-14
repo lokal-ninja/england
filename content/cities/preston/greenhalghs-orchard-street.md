@@ -1,5 +1,5 @@
 ---
 title: "Greenhalgh's"
-url: /preston/greenhalghs/
+url: /preston/greenhalghs-orchard-street/
 shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jennings"
-url: /london/jennings/
+url: /london/jennings-grand-parade/
 shop: bookmaker
 ---

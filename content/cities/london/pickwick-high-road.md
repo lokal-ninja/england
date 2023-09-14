@@ -1,5 +1,5 @@
 ---
 title: "Pickwick"
-url: /london/pickwick/
+url: /london/pickwick-high-road/
 shop: pawnbroker
 ---

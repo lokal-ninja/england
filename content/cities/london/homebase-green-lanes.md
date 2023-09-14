@@ -1,5 +1,5 @@
 ---
 title: "Homebase"
-url: /london/homebase/
+url: /london/homebase-green-lanes/
 shop: doityourself
 ---

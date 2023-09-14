@@ -1,5 +1,5 @@
 ---
 title: "Majestic Wine Warehouse"
-url: /london/majestic-wine-warehouse/
+url: /london/majestic-wine-warehouse-london-road/
 shop: alcohol
 ---

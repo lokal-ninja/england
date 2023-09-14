@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /grimsby/spar/
+url: /grimsby/spar-yarborough-road/
 shop: convenience
 ---

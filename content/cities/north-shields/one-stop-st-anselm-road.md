@@ -1,5 +1,5 @@
 ---
 title: "One Stop"
-url: /north-shields/one-stop/
+url: /north-shields/one-stop-st-anselm-road/
 shop: convenience
 ---

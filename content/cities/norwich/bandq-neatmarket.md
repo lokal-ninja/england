@@ -1,5 +1,5 @@
 ---
 title: "B&Q"
-url: /norwich/bandq/
+url: /norwich/bandq-neatmarket/
 shop: doityourself
 ---

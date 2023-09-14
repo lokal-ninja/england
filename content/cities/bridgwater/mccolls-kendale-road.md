@@ -1,5 +1,5 @@
 ---
 title: "McColl's"
-url: /bridgwater/mccolls/
+url: /bridgwater/mccolls-kendale-road/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Eyetech"
-url: /coventry/eyetech/
+url: /coventry/eyetech-kenpas-highway/
 shop: optician
 ---

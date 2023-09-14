@@ -1,5 +1,5 @@
 ---
 title: "Londis"
-url: /holmfirth/londis/
+url: /holmfirth/londis-woodhead-road/
 shop: convenience
 ---

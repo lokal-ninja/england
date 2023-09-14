@@ -1,5 +1,5 @@
 ---
 title: "Halfords"
-url: /reading/halfords/
+url: /reading/halfords-reading-road/
 shop: car parts
 ---

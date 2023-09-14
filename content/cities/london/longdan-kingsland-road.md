@@ -1,5 +1,5 @@
 ---
 title: "Longdan"
-url: /london/longdan/
+url: /london/longdan-kingsland-road/
 shop: supermarket
 ---

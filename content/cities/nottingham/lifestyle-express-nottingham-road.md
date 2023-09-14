@@ -1,5 +1,5 @@
 ---
 title: "Lifestyle Express"
-url: /nottingham/lifestyle-express/
+url: /nottingham/lifestyle-express-nottingham-road/
 shop: convenience
 ---

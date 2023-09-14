@@ -1,5 +1,5 @@
 ---
 title: "Grenson"
-url: /london/grenson/
+url: /london/grenson-meard-street/
 shop: shoes
 ---

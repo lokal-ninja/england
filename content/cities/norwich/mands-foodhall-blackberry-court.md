@@ -1,5 +1,5 @@
 ---
 title: "M&S Foodhall"
-url: /norwich/mands-foodhall/
+url: /norwich/mands-foodhall-blackberry-court/
 shop: supermarket
 ---

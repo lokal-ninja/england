@@ -1,5 +1,5 @@
 ---
 title: "Select"
-url: /london/select/
+url: /london/select-gipsy-hill/
 shop: convenience
 ---

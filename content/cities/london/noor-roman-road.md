@@ -1,5 +1,5 @@
 ---
 title: "Noor"
-url: /london/noor/
+url: /london/noor-roman-road/
 shop: hairdresser
 ---

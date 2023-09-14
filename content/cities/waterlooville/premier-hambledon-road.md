@@ -1,5 +1,5 @@
 ---
 title: "Premier"
-url: /waterlooville/premier/
+url: /waterlooville/premier-hambledon-road/
 shop: convenience
 ---

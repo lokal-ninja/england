@@ -1,5 +1,5 @@
 ---
 title: "McColl's"
-url: /weston-super-mare/mccolls/
+url: /weston-super-mare/mccolls-locking-road/
 shop: convenience
 ---

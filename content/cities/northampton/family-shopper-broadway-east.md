@@ -1,5 +1,5 @@
 ---
 title: "Family Shopper"
-url: /northampton/family-shopper/
+url: /northampton/family-shopper-broadway-east/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
-url: /exeter/costcutter/
+url: /exeter/costcutter-kinnerton-way/
 shop: convenience
 ---

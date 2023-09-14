@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
-url: /braintree/tesco/
+url: /braintree/tesco-notley-green/
 shop: supermarket
 ---

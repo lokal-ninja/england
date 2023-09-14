@@ -1,5 +1,5 @@
 ---
 title: "Fluke"
-url: /banstead/fluke/
+url: /banstead/fluke-high-street/
 shop: clothes
 ---

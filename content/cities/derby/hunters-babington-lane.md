@@ -1,5 +1,5 @@
 ---
 title: "Hunters"
-url: /derby/hunters/
+url: /derby/hunters-babington-lane/
 shop: furniture
 ---

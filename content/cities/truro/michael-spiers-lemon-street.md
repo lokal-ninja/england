@@ -1,5 +1,5 @@
 ---
 title: "Michael Spiers"
-url: /truro/michael-spiers/
+url: /truro/michael-spiers-lemon-street/
 shop: jewelry
 ---

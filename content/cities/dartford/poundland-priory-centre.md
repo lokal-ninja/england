@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
-url: /dartford/poundland/
+url: /dartford/poundland-priory-centre/
 shop: variety store
 ---

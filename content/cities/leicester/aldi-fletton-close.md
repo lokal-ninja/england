@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
-url: /leicester/aldi/
+url: /leicester/aldi-fletton-close/
 shop: supermarket
 ---

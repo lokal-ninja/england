@@ -1,5 +1,5 @@
 ---
 title: "RSPCA"
-url: /norwich/rspca/
+url: /norwich/rspca-magdalen-street/
 shop: charity
 ---

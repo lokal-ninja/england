@@ -1,5 +1,5 @@
 ---
 title: "Coral"
-url: /coulsdon/coral/
+url: /coulsdon/coral-chipstead-valley-road/
 shop: bookmaker
 ---

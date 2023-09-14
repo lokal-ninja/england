@@ -1,5 +1,5 @@
 ---
 title: "Asda"
-url: /sheffield/asda/
+url: /sheffield/asda-queens-road/
 shop: supermarket
 ---

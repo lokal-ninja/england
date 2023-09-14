@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
-url: /watford/ladbrokes/
+url: /watford/ladbrokes-station-approach/
 shop: bookmaker
 ---

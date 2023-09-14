@@ -1,5 +1,5 @@
 ---
 title: "MenKind"
-url: /bristol/menkind/
+url: /bristol/menkind-broadmead/
 shop: gift
 ---

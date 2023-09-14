@@ -1,5 +1,5 @@
 ---
 title: "The Card Shop"
-url: /pontefract/the-card-shop/
+url: /pontefract/the-card-shop-barnsley-road/
 shop: gift
 ---

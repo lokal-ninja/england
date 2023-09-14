@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
-url: /darlington/aldi/
+url: /darlington/aldi-invention-row/
 shop: supermarket
 ---

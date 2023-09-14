@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
-url: /wembley/costcutter/
+url: /wembley/costcutter-windermere-avenue/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Oasis"
-url: /london/oasis/
+url: /london/oasis-upper-richmond-road/
 shop: charity
 ---

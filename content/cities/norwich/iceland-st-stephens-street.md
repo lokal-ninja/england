@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
-url: /norwich/iceland/
+url: /norwich/iceland-st-stephens-street/
 shop: frozen food
 ---

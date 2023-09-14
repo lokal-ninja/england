@@ -1,5 +1,5 @@
 ---
 title: "Doufu"
-url: /london/doufu/
+url: /london/doufu-paul-street/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /keswick/spar/
+url: /keswick/spar-high-hill/
 shop: convenience
 ---

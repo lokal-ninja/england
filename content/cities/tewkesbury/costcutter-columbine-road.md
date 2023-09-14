@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
-url: /tewkesbury/costcutter/
+url: /tewkesbury/costcutter-columbine-road/
 shop: convenience
 ---

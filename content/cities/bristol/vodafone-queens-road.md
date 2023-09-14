@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
-url: /bristol/vodafone/
+url: /bristol/vodafone-queens-road/
 shop: mobile phone
 ---

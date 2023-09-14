@@ -1,5 +1,5 @@
 ---
 title: "Nisa Local"
-url: /walsall/nisa-local/
+url: /walsall/nisa-local-lichfield-road/
 shop: convenience
 ---

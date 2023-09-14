@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
-url: /worksop/betfred/
+url: /worksop/betfred-prospect-precinct/
 shop: bookmaker
 ---

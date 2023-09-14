@@ -1,5 +1,5 @@
 ---
 title: "The Works"
-url: /solihull/the-works/
+url: /solihull/the-works-high-street/
 shop: books
 ---

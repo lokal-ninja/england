@@ -1,5 +1,5 @@
 ---
 title: "Camper"
-url: /london/camper/
+url: /london/camper-commercial-street/
 shop: shoes
 ---

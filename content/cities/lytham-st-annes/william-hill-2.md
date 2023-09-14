@@ -1,5 +1,5 @@
 ---
 title: "William Hill"
-url: /lytham-st-annes/william-hill/
+url: /lytham-st-annes/william-hill-2/
 shop: bookmaker
 ---

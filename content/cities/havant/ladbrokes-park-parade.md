@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
-url: /havant/ladbrokes/
+url: /havant/ladbrokes-park-parade/
 shop: bookmaker
 ---

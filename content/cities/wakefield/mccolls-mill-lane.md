@@ -1,5 +1,5 @@
 ---
 title: "McColl's"
-url: /wakefield/mccolls/
+url: /wakefield/mccolls-mill-lane/
 shop: convenience
 ---

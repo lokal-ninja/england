@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
-url: /cheltenham/iceland/
+url: /cheltenham/iceland-edinburgh-place/
 shop: frozen food
 ---

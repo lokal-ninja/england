@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
-url: /leicester/poundland/
+url: /leicester/poundland-fletcher-mall/
 shop: variety store
 ---

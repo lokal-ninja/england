@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /brampton/spar/
+url: /brampton/spar-main-street/
 shop: convenience
 ---

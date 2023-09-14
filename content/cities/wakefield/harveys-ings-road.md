@@ -1,5 +1,5 @@
 ---
 title: "Harveys"
-url: /wakefield/harveys/
+url: /wakefield/harveys-ings-road/
 shop: furniture
 ---

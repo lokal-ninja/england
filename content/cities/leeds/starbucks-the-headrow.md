@@ -1,5 +1,5 @@
 ---
 title: "Starbucks"
-url: /leeds/starbucks/
+url: /leeds/starbucks-the-headrow/
 shop: confectionery
 ---

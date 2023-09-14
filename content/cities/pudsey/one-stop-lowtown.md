@@ -1,5 +1,5 @@
 ---
 title: "One Stop"
-url: /pudsey/one-stop/
+url: /pudsey/one-stop-lowtown/
 shop: convenience
 ---

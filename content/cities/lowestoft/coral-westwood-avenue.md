@@ -1,5 +1,5 @@
 ---
 title: "Coral"
-url: /lowestoft/coral/
+url: /lowestoft/coral-westwood-avenue/
 shop: bookmaker
 ---

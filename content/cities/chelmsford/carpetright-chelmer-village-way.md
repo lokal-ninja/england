@@ -1,5 +1,5 @@
 ---
 title: "Carpetright"
-url: /chelmsford/carpetright/
+url: /chelmsford/carpetright-chelmer-village-way/
 shop: carpet
 ---

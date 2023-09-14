@@ -1,5 +1,5 @@
 ---
 title: "Venus"
-url: /london/venus/
+url: /london/venus-watney-street/
 shop: convenience
 ---

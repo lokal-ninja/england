@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
-url: /sheffield/tesco/
+url: /sheffield/tesco-market-lane/
 shop: supermarket
 ---

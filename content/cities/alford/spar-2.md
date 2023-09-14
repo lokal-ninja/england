@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /alford/spar/
+url: /alford/spar-2/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cohens Chemist"
-url: /swindon/cohens-chemist/
+url: /swindon/cohens-chemist-borough-fields/
 shop: chemist
 ---

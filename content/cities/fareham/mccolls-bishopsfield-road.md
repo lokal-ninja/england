@@ -1,5 +1,5 @@
 ---
 title: "McColl's"
-url: /fareham/mccolls/
+url: /fareham/mccolls-bishopsfield-road/
 shop: convenience
 ---

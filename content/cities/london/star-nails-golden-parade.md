@@ -1,5 +1,5 @@
 ---
 title: "Star Nails"
-url: /london/star-nails/
+url: /london/star-nails-golden-parade/
 shop: beauty
 ---

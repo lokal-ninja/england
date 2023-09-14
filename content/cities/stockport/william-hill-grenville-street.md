@@ -1,5 +1,5 @@
 ---
 title: "William Hill"
-url: /stockport/william-hill/
+url: /stockport/william-hill-grenville-street/
 shop: bookmaker
 ---

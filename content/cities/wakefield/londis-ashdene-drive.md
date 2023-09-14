@@ -1,5 +1,5 @@
 ---
 title: "Londis"
-url: /wakefield/londis/
+url: /wakefield/londis-ashdene-drive/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Premier"
-url: /tamworth/premier/
+url: /tamworth/premier-swift/
 shop: convenience
 ---

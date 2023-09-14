@@ -1,5 +1,5 @@
 ---
 title: "Birds"
-url: /burton-on-trent/birds/
+url: /burton-on-trent/birds-station-street/
 shop: bakery
 ---

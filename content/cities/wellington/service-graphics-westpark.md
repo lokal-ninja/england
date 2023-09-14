@@ -1,5 +1,5 @@
 ---
 title: "Service Graphics"
-url: /wellington/service-graphics/
+url: /wellington/service-graphics-westpark/
 shop: copyshop
 ---

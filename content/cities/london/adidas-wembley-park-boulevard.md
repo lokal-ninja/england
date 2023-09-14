@@ -1,5 +1,5 @@
 ---
 title: "Adidas"
-url: /london/adidas/
+url: /london/adidas-wembley-park-boulevard/
 shop: sports
 ---

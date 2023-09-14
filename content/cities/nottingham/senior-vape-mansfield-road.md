@@ -1,5 +1,5 @@
 ---
 title: "Senior Vape"
-url: /nottingham/senior-vape/
+url: /nottingham/senior-vape-mansfield-road/
 shop: e-cigarette
 ---

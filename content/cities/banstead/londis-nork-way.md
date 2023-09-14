@@ -1,5 +1,5 @@
 ---
 title: "Londis"
-url: /banstead/londis/
+url: /banstead/londis-nork-way/
 shop: convenience
 ---

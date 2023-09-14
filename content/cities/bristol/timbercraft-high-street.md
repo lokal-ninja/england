@@ -1,5 +1,5 @@
 ---
 title: "Timbercraft"
-url: /bristol/timbercraft/
+url: /bristol/timbercraft-high-street/
 shop: kitchen
 ---

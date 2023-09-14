@@ -1,5 +1,5 @@
 ---
 title: "Premier"
-url: /consett/premier/
+url: /consett/premier-park-road/
 shop: convenience
 ---

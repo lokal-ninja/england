@@ -1,5 +1,5 @@
 ---
 title: "Relate"
-url: /norwich/relate/
+url: /norwich/relate-suffolk-square/
 shop: charity
 ---

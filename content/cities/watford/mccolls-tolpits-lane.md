@@ -1,5 +1,5 @@
 ---
 title: "McColl's"
-url: /watford/mccolls/
+url: /watford/mccolls-tolpits-lane/
 shop: convenience
 ---

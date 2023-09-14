@@ -1,5 +1,5 @@
 ---
 title: "Co-op Food"
-url: /luton/co-op-food/
+url: /luton/co-op-food-wigmore-lane/
 shop: supermarket
 ---

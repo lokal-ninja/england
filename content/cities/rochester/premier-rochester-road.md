@@ -1,5 +1,5 @@
 ---
 title: "Premier"
-url: /rochester/premier/
+url: /rochester/premier-rochester-road/
 shop: convenience
 ---

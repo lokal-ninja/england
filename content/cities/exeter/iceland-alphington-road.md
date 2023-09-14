@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
-url: /exeter/iceland/
+url: /exeter/iceland-alphington-road/
 shop: frozen food
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
-url: /burnley/aldi/
+url: /burnley/aldi-active-way/
 shop: supermarket
 ---

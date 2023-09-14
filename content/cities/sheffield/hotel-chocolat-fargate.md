@@ -1,5 +1,5 @@
 ---
 title: "Hotel Chocolat"
-url: /sheffield/hotel-chocolat/
+url: /sheffield/hotel-chocolat-fargate/
 shop: confectionery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Next"
-url: /leicester/next/
+url: /leicester/next-2/
 shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Laundrette"
-url: /london/laundrette/
+url: /london/laundrette-forest-road-2/
 shop: laundry
 ---

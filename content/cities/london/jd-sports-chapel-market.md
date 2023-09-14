@@ -1,5 +1,5 @@
 ---
 title: "JD Sports"
-url: /london/jd-sports/
+url: /london/jd-sports-chapel-market/
 shop: sports
 ---

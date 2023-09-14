@@ -1,5 +1,5 @@
 ---
 title: "Curtis"
-url: /boston/curtis/
+url: /boston/curtis-west-street/
 shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Higgins"
-url: /wellingborough/higgins/
+url: /wellingborough/higgins-turnells-mill-lane/
 shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fully Furnished"
-url: /york/fully-furnished/
+url: /york/fully-furnished-james-street/
 shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
-url: /morecambe/betfred/
+url: /morecambe/betfred-glentworth-road-west/
 shop: bookmaker
 ---

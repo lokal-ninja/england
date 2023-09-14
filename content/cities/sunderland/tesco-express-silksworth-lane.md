@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
-url: /sunderland/tesco-express/
+url: /sunderland/tesco-express-silksworth-lane/
 shop: convenience
 ---

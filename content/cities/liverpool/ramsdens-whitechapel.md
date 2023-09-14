@@ -1,5 +1,5 @@
 ---
 title: "Ramsdens"
-url: /liverpool/ramsdens/
+url: /liverpool/ramsdens-whitechapel/
 shop: pawnbroker
 ---

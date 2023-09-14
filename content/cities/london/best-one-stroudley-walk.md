@@ -1,5 +1,5 @@
 ---
 title: "Best-one"
-url: /london/best-one/
+url: /london/best-one-stroudley-walk/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "TUI"
-url: /lancaster/tui/
+url: /lancaster/tui-ovangle-road/
 shop: travel agency
 ---

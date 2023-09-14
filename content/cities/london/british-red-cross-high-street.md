@@ -1,5 +1,5 @@
 ---
 title: "British Red Cross"
-url: /london/british-red-cross/
+url: /london/british-red-cross-high-street/
 shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wickes"
-url: /bristol/wickes/
+url: /bristol/wickes-aldermoor-way/
 shop: doityourself
 ---

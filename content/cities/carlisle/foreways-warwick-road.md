@@ -1,5 +1,5 @@
 ---
 title: "Foreways"
-url: /carlisle/foreways/
+url: /carlisle/foreways-warwick-road/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Works"
-url: /london/the-works/
+url: /london/the-works-harben-parade/
 shop: books
 ---

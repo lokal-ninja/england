@@ -1,5 +1,5 @@
 ---
 title: "Adnams"
-url: /norwich/adnams/
+url: /norwich/adnams-unthank-road/
 shop: alcohol
 ---

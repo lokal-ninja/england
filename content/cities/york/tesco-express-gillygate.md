@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
-url: /york/tesco-express/
+url: /york/tesco-express-gillygate/
 shop: convenience
 ---

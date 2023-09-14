@@ -1,5 +1,5 @@
 ---
 title: "British Heart Foundation"
-url: /brighton/british-heart-foundation/
+url: /brighton/british-heart-foundation-london-road/
 shop: charity
 ---

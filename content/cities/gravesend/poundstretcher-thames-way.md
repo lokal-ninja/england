@@ -1,5 +1,5 @@
 ---
 title: "Poundstretcher"
-url: /gravesend/poundstretcher/
+url: /gravesend/poundstretcher-thames-way/
 shop: variety store
 ---

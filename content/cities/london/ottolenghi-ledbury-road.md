@@ -1,5 +1,5 @@
 ---
 title: "Ottolenghi"
-url: /london/ottolenghi/
+url: /london/ottolenghi-ledbury-road/
 shop: deli
 ---

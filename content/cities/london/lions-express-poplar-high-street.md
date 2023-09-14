@@ -1,5 +1,5 @@
 ---
 title: "Lions Express"
-url: /london/lions-express/
+url: /london/lions-express-poplar-high-street/
 shop: convenience
 ---

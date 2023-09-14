@@ -1,5 +1,5 @@
 ---
 title: "British Heart Foundation"
-url: /chelmsford/british-heart-foundation/
+url: /chelmsford/british-heart-foundation-high-chelmer/
 shop: charity
 ---

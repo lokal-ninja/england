@@ -1,5 +1,5 @@
 ---
 title: "Butterflies"
-url: /blackburn/butterflies/
+url: /blackburn/butterflies-whalley-new-road/
 shop: clothes
 ---

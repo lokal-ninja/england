@@ -1,5 +1,5 @@
 ---
 title: "The Range"
-url: /nottingham/the-range/
+url: /nottingham/the-range-radford-boulevard/
 shop: houseware
 ---

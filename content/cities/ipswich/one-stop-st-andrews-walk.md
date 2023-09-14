@@ -1,5 +1,5 @@
 ---
 title: "One Stop"
-url: /ipswich/one-stop/
+url: /ipswich/one-stop-st-andrews-walk/
 shop: convenience
 ---

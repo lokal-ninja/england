@@ -1,5 +1,5 @@
 ---
 title: "EE"
-url: /birmingham/ee/
+url: /birmingham/ee-warwick-road/
 shop: mobile phone
 ---

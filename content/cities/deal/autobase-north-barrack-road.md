@@ -1,5 +1,5 @@
 ---
 title: "Autobase"
-url: /deal/autobase/
+url: /deal/autobase-north-barrack-road/
 shop: car repair
 ---

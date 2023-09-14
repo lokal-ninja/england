@@ -1,5 +1,5 @@
 ---
 title: "Simmons"
-url: /harpenden/simmons/
+url: /harpenden/simmons-piggottshill-lane/
 shop: bakery
 ---

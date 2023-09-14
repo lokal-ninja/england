@@ -1,5 +1,5 @@
 ---
 title: "Boots"
-url: /dartford/boots/
+url: /dartford/boots-high-street/
 shop: chemist
 ---

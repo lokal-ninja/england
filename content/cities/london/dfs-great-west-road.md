@@ -1,5 +1,5 @@
 ---
 title: "DFS"
-url: /london/dfs/
+url: /london/dfs-great-west-road/
 shop: furniture
 ---

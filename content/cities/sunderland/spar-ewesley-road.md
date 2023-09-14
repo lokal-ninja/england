@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /sunderland/spar/
+url: /sunderland/spar-ewesley-road/
 shop: convenience
 ---

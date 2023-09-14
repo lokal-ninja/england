@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
-url: /carlisle/iceland/
+url: /carlisle/iceland-lowther-street/
 shop: frozen food
 ---

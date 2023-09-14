@@ -1,5 +1,5 @@
 ---
 title: "German Deli"
-url: /london/german-deli/
+url: /london/german-deli-park-street/
 shop: deli
 ---

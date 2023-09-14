@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /peterborough/spar/
+url: /peterborough/spar-malting-square/
 shop: convenience
 ---

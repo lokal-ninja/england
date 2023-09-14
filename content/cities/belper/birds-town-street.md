@@ -1,5 +1,5 @@
 ---
 title: "Birds"
-url: /belper/birds/
+url: /belper/birds-town-street/
 shop: bakery
 ---

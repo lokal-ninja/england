@@ -1,5 +1,5 @@
 ---
 title: "New Look"
-url: /gillingham/new-look/
+url: /gillingham/new-look-high-street/
 shop: clothes
 ---

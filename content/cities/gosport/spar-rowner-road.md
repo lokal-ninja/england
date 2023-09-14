@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /gosport/spar/
+url: /gosport/spar-rowner-road/
 shop: convenience
 ---

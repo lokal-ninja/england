@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
-url: /eastbourne/betfred/
+url: /eastbourne/betfred-kingfisher-drive/
 shop: bookmaker
 ---

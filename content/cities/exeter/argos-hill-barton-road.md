@@ -1,5 +1,5 @@
 ---
 title: "Argos"
-url: /exeter/argos/
+url: /exeter/argos-hill-barton-road/
 shop: catalogue
 ---

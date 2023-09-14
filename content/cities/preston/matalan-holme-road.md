@@ -1,5 +1,5 @@
 ---
 title: "Matalan"
-url: /preston/matalan/
+url: /preston/matalan-holme-road/
 shop: clothes
 ---

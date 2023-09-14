@@ -1,5 +1,5 @@
 ---
 title: "Asda"
-url: /wigan/asda/
+url: /wigan/asda-warrington-road/
 shop: convenience
 ---

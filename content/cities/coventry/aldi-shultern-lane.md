@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
-url: /coventry/aldi/
+url: /coventry/aldi-shultern-lane/
 shop: supermarket
 ---

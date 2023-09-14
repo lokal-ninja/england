@@ -1,5 +1,5 @@
 ---
 title: "ABC"
-url: /bristol/abc/
+url: /bristol/abc-wells-road/
 shop: deli
 ---

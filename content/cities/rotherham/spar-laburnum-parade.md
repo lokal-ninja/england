@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /rotherham/spar/
+url: /rotherham/spar-laburnum-parade/
 shop: convenience
 ---

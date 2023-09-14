@@ -1,5 +1,5 @@
 ---
 title: "Londis"
-url: /chelmsford/londis/
+url: /chelmsford/londis-broomfield-road/
 shop: convenience
 ---

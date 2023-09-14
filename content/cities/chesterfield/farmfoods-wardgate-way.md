@@ -1,5 +1,5 @@
 ---
 title: "Farmfoods"
-url: /chesterfield/farmfoods/
+url: /chesterfield/farmfoods-wardgate-way/
 shop: frozen food
 ---

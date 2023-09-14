@@ -1,5 +1,5 @@
 ---
 title: "Martlets"
-url: /brighton/martlets/
+url: /brighton/martlets-longridge-avenue/
 shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Toolstation"
-url: /taunton/toolstation/
+url: /taunton/toolstation-crown-close/
 shop: doityourself
 ---

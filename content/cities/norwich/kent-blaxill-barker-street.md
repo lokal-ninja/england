@@ -1,5 +1,5 @@
 ---
 title: "Kent Blaxill"
-url: /norwich/kent-blaxill/
+url: /norwich/kent-blaxill-barker-street/
 shop: shop
 ---

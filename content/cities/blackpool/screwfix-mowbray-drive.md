@@ -1,5 +1,5 @@
 ---
 title: "Screwfix"
-url: /blackpool/screwfix/
+url: /blackpool/screwfix-mowbray-drive/
 shop: doityourself
 ---

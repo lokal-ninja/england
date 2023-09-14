@@ -1,5 +1,5 @@
 ---
 title: "Dorringtons"
-url: /cambridge/dorringtons/
+url: /cambridge/dorringtons-high-street/
 shop: bakery
 ---

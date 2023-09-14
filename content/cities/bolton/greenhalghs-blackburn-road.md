@@ -1,5 +1,5 @@
 ---
 title: "Greenhalgh's"
-url: /bolton/greenhalghs/
+url: /bolton/greenhalghs-blackburn-road/
 shop: bakery
 ---

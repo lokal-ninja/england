@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
-url: /wallsend/costcutter/
+url: /wallsend/costcutter-station-road/
 shop: convenience
 ---

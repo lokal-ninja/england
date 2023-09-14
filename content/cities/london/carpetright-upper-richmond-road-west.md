@@ -1,5 +1,5 @@
 ---
 title: "Carpetright"
-url: /london/carpetright/
+url: /london/carpetright-upper-richmond-road-west/
 shop: carpet
 ---

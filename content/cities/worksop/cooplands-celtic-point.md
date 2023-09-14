@@ -1,5 +1,5 @@
 ---
 title: "Cooplands"
-url: /worksop/cooplands/
+url: /worksop/cooplands-celtic-point/
 shop: bakery
 ---

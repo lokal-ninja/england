@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /leeds/spar/
+url: /leeds/spar-armley-road/
 shop: convenience
 ---

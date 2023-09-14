@@ -1,5 +1,5 @@
 ---
 title: "Boots"
-url: /sheffield/boots/
+url: /sheffield/boots-ecclesall-road/
 shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gerrards"
-url: /chester/gerrards/
+url: /chester/gerrards-faulkner-street/
 shop: bakery
 ---

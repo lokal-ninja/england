@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
-url: /chelmsford/betfred/
+url: /chelmsford/betfred-moulsham-street/
 shop: bookmaker
 ---

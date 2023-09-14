@@ -1,5 +1,5 @@
 ---
 title: "Timpson"
-url: /taunton/timpson/
+url: /taunton/timpson-hankridge-farm/
 shop: locksmith
 ---

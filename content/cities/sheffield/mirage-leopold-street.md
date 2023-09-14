@@ -1,5 +1,5 @@
 ---
 title: "Mirage"
-url: /sheffield/mirage/
+url: /sheffield/mirage-leopold-street/
 shop: e-cigarette
 ---

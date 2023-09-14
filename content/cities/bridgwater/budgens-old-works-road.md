@@ -1,5 +1,5 @@
 ---
 title: "Budgens"
-url: /bridgwater/budgens/
+url: /bridgwater/budgens-old-works-road/
 shop: convenience
 ---

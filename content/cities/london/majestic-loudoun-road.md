@@ -1,5 +1,5 @@
 ---
 title: "Majestic"
-url: /london/majestic/
+url: /london/majestic-loudoun-road/
 shop: alcohol
 ---

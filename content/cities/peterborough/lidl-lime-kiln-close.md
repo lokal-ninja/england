@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /peterborough/lidl/
+url: /peterborough/lidl-lime-kiln-close/
 shop: supermarket
 ---

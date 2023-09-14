@@ -1,5 +1,5 @@
 ---
 title: "Oxfam"
-url: /woodbridge/oxfam/
+url: /woodbridge/oxfam-thoroughfare/
 shop: charity
 ---

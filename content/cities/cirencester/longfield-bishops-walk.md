@@ -1,5 +1,5 @@
 ---
 title: "Longfield"
-url: /cirencester/longfield/
+url: /cirencester/longfield-bishops-walk/
 shop: charity
 ---

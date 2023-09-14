@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
-url: /sheffield/iceland/
+url: /sheffield/iceland-the-moor/
 shop: frozen food
 ---

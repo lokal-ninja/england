@@ -1,5 +1,5 @@
 ---
 title: "Booze & Food"
-url: /bristol/booze-and-food/
+url: /bristol/booze-and-food-nags-head-hill/
 shop: alcohol
 ---

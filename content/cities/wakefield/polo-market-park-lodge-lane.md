@@ -1,5 +1,5 @@
 ---
 title: "Polo Market"
-url: /wakefield/polo-market/
+url: /wakefield/polo-market-park-lodge-lane/
 shop: convenience
 ---

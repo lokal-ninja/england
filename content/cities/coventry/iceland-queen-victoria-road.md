@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
-url: /coventry/iceland/
+url: /coventry/iceland-queen-victoria-road/
 shop: frozen food
 ---

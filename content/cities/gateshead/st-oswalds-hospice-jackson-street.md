@@ -1,5 +1,5 @@
 ---
 title: "St Oswalds Hospice"
-url: /gateshead/st-oswalds-hospice/
+url: /gateshead/st-oswalds-hospice-jackson-street/
 shop: charity
 ---

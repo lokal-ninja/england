@@ -1,5 +1,5 @@
 ---
 title: "Cooplands"
-url: /durham/cooplands/
+url: /durham/cooplands-cheveley-park-shopping-centre/
 shop: bakery
 ---

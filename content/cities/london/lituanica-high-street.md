@@ -1,5 +1,5 @@
 ---
 title: "Lituanica"
-url: /london/lituanica/
+url: /london/lituanica-high-street/
 shop: convenience
 ---

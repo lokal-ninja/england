@@ -1,5 +1,5 @@
 ---
 title: "Age UK"
-url: /skipton/age-uk/
+url: /skipton/age-uk-otley-street/
 shop: charity
 ---

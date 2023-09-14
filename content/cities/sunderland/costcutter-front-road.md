@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
-url: /sunderland/costcutter/
+url: /sunderland/costcutter-front-road/
 shop: convenience
 ---

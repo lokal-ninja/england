@@ -1,5 +1,5 @@
 ---
 title: "Birds"
-url: /nottingham/birds/
+url: /nottingham/birds-derby-road/
 shop: bakery
 ---

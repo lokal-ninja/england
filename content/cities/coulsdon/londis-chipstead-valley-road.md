@@ -1,5 +1,5 @@
 ---
 title: "Londis"
-url: /coulsdon/londis/
+url: /coulsdon/londis-chipstead-valley-road/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shoe Zone"
-url: /workington/shoe-zone/
+url: /workington/shoe-zone-campbell-savours-way/
 shop: shoes
 ---

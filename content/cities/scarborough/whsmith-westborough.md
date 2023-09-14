@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
-url: /scarborough/whsmith/
+url: /scarborough/whsmith-westborough/
 shop: books
 ---

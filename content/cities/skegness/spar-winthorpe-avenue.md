@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /skegness/spar/
+url: /skegness/spar-winthorpe-avenue/
 shop: convenience
 ---

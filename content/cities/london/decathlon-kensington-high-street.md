@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
-url: /london/decathlon/
+url: /london/decathlon-kensington-high-street/
 shop: sports
 ---

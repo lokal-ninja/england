@@ -1,5 +1,5 @@
 ---
 title: "Morrisons Daily"
-url: /great-yarmouth/morrisons-daily/
+url: /great-yarmouth/morrisons-daily-salisbury-road/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Achievers"
-url: /nottingham/achievers/
+url: /nottingham/achievers-alfreton-road/
 shop: hairdresser
 ---

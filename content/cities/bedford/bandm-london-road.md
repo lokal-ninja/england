@@ -1,5 +1,5 @@
 ---
 title: "B&M"
-url: /bedford/bandm/
+url: /bedford/bandm-london-road/
 shop: variety store
 ---

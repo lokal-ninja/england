@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /penrith/spar/
+url: /penrith/spar-burrowgate/
 shop: convenience
 ---

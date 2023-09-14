@@ -1,5 +1,5 @@
 ---
 title: "Carpetright"
-url: /london/carpetright/
+url: /london/carpetright-claps-gate-lane/
 shop: carpet
 ---

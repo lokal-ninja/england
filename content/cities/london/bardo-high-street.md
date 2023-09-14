@@ -1,5 +1,5 @@
 ---
 title: "Bardo"
-url: /london/bardo/
+url: /london/bardo-high-street/
 shop: clothes
 ---

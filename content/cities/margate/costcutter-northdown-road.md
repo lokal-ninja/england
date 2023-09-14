@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
-url: /margate/costcutter/
+url: /margate/costcutter-northdown-road/
 shop: supermarket
 ---

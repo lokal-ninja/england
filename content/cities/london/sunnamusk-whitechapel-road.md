@@ -1,5 +1,5 @@
 ---
 title: "Sunnamusk"
-url: /london/sunnamusk/
+url: /london/sunnamusk-whitechapel-road/
 shop: perfumery
 ---

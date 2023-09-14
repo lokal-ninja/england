@@ -1,5 +1,5 @@
 ---
 title: "Food City"
-url: /london/food-city/
+url: /london/food-city-denmark-hill/
 shop: convenience
 ---

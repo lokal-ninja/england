@@ -1,5 +1,5 @@
 ---
 title: "Maitre Choux"
-url: /london/maitre-choux/
+url: /london/maitre-choux-harrington-road/
 shop: confectionery
 ---

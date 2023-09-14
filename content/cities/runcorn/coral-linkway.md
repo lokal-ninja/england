@@ -1,5 +1,5 @@
 ---
 title: "Coral"
-url: /runcorn/coral/
+url: /runcorn/coral-linkway/
 shop: bookmaker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "BoConcept"
-url: /london/boconcept/
+url: /london/boconcept-finchley-road/
 shop: interior decoration
 ---

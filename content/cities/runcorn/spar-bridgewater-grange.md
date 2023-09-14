@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /runcorn/spar/
+url: /runcorn/spar-bridgewater-grange/
 shop: convenience
 ---

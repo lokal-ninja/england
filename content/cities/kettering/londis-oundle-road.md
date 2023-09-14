@@ -1,5 +1,5 @@
 ---
 title: "Londis"
-url: /kettering/londis/
+url: /kettering/londis-oundle-road/
 shop: convenience
 ---

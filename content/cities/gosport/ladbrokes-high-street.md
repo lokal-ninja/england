@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
-url: /gosport/ladbrokes/
+url: /gosport/ladbrokes-high-street/
 shop: bookmaker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vans"
-url: /london/vans/
+url: /london/vans-2/
 shop: shoes
 ---

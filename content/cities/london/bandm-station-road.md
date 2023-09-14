@@ -1,5 +1,5 @@
 ---
 title: "B&M"
-url: /london/bandm/
+url: /london/bandm-station-road/
 shop: variety store
 ---

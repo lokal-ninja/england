@@ -1,5 +1,5 @@
 ---
 title: "Londis"
-url: /margate/londis/
+url: /margate/londis-northdown-road/
 shop: convenience
 ---

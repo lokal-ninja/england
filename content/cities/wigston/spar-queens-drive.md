@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /wigston/spar/
+url: /wigston/spar-queens-drive/
 shop: convenience
 ---

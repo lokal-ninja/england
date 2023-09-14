@@ -1,5 +1,5 @@
 ---
 title: "Scope"
-url: /london/scope/
+url: /london/scope-the-broadway/
 shop: charity
 ---

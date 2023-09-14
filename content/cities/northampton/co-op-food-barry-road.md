@@ -1,5 +1,5 @@
 ---
 title: "Co-op Food"
-url: /northampton/co-op-food/
+url: /northampton/co-op-food-barry-road/
 shop: supermarket
 ---

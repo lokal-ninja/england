@@ -1,5 +1,5 @@
 ---
 title: "Clathers @Minehead"
-url: /minehead/clathers-atminehead/
+url: /minehead/clathers-atminehead-the-parade/
 shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Routledges"
-url: /carlisle/routledges/
+url: /carlisle/routledges-lonsdale-street/
 shop: bakery
 ---

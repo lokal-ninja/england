@@ -1,5 +1,5 @@
 ---
 title: "Savers"
-url: /runcorn/savers/
+url: /runcorn/savers-orchard-walk/
 shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
-url: /oldham/ladbrokes/
+url: /oldham/ladbrokes-shopping-precinct/
 shop: bookmaker
 ---

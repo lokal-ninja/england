@@ -1,5 +1,5 @@
 ---
 title: "Co-op Food"
-url: /sheffield/co-op-food/
+url: /sheffield/co-op-food-johnson-street/
 shop: supermarket
 ---

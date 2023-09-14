@@ -1,5 +1,5 @@
 ---
 title: "Molton Brown"
-url: /london/molton-brown/
+url: /london/molton-brown-fenchurch-street/
 shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Scribbler"
-url: /london/scribbler/
+url: /london/scribbler-kingsway/
 shop: gift
 ---

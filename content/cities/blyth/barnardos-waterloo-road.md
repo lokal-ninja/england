@@ -1,5 +1,5 @@
 ---
 title: "Barnardo's"
-url: /blyth/barnardos/
+url: /blyth/barnardos-waterloo-road/
 shop: charity
 ---

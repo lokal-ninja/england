@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
-url: /colchester/poundland/
+url: /colchester/poundland-petrolea-close/
 shop: variety store
 ---

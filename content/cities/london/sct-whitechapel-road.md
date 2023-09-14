@@ -1,5 +1,5 @@
 ---
 title: "SCT"
-url: /london/sct/
+url: /london/sct-whitechapel-road/
 shop: charity
 ---

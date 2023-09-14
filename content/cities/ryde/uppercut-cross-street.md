@@ -1,5 +1,5 @@
 ---
 title: "Uppercut"
-url: /ryde/uppercut/
+url: /ryde/uppercut-cross-street/
 shop: hairdresser
 ---

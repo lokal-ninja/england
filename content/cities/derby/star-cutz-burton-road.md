@@ -1,5 +1,5 @@
 ---
 title: "Star Cutz"
-url: /derby/star-cutz/
+url: /derby/star-cutz-burton-road/
 shop: hairdresser
 ---

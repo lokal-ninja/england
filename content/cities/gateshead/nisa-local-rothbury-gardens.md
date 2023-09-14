@@ -1,5 +1,5 @@
 ---
 title: "Nisa Local"
-url: /gateshead/nisa-local/
+url: /gateshead/nisa-local-rothbury-gardens/
 shop: convenience
 ---

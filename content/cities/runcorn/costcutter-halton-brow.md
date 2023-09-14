@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
-url: /runcorn/costcutter/
+url: /runcorn/costcutter-halton-brow/
 shop: convenience
 ---

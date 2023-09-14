@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
-url: /castleford/tesco-express/
+url: /castleford/tesco-express-willowbridge-court/
 shop: convenience
 ---

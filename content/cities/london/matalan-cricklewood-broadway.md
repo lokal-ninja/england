@@ -1,5 +1,5 @@
 ---
 title: "Matalan"
-url: /london/matalan/
+url: /london/matalan-cricklewood-broadway/
 shop: clothes
 ---

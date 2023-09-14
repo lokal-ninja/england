@@ -1,5 +1,5 @@
 ---
 title: "Breen Cuts"
-url: /newcastle-upon-tyne/breen-cuts/
+url: /newcastle-upon-tyne/breen-cuts-west-road/
 shop: hairdresser
 ---

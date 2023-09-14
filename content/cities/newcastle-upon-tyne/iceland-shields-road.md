@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
-url: /newcastle-upon-tyne/iceland/
+url: /newcastle-upon-tyne/iceland-shields-road/
 shop: frozen food
 ---

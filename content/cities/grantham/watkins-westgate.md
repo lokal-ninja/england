@@ -1,5 +1,5 @@
 ---
 title: "Watkins"
-url: /grantham/watkins/
+url: /grantham/watkins-westgate/
 shop: butcher
 ---
