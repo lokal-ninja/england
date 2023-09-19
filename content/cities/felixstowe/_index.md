@@ -1,6 +1,6 @@
 ---
 title: Felixstowe
 url: /felixstowe/
-latitude: 51.989
-longitude: 1.311
+latitude: 51.964
+longitude: 1.352
 ---

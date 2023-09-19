@@ -1,5 +1,5 @@
 ---
 title: "Breguet"
 url: /london/breguet/
-shop: shop
+shop: watches
 ---

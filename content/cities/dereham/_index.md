@@ -1,6 +1,6 @@
 ---
 title: Dereham
 url: /dereham/
-latitude: 52.682
-longitude: 0.94
+latitude: 52.681
+longitude: 0.942
 ---

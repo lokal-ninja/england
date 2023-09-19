@@ -1,6 +1,6 @@
 ---
 title: Swalwell
 url: /swalwell/
-latitude: 54.952
-longitude: -1.688
+latitude: 54.953
+longitude: -1.679
 ---

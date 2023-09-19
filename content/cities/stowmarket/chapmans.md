@@ -1,5 +1,5 @@
 ---
 title: "Chapmans"
 url: /stowmarket/chapmans/
-shop: shop
+shop: hairdresser
 ---

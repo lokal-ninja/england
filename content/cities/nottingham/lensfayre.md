@@ -1,5 +1,5 @@
 ---
 title: "LensFayre"
 url: /nottingham/lensfayre/
-shop: shop
+shop: camera
 ---

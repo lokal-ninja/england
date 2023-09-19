@@ -1,5 +1,5 @@
 ---
-title: "Relic x Hooked"
+title: "Relic × Hooked"
 url: /nottingham/relic-x-hooked/
 shop: clothes
 ---
