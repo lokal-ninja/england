@@ -1,6 +1,6 @@
 ---
 title: Shenstone
 url: /shenstone/
-latitude: 52.639
-longitude: -1.84
+latitude: 52.64
+longitude: -1.841
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Metal Fatigue"
 url: /bournemouth/metal-fatigue/
-shop: piercing
+shop: shop
 ---
