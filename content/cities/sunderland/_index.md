@@ -1,6 +1,6 @@
 ---
 title: Sunderland
 url: /sunderland/
-latitude: 54.902
-longitude: -1.402
+latitude: 54.906
+longitude: -1.383
 ---
