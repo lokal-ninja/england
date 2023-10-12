@@ -1,6 +1,6 @@
 ---
 title: Wadebridge
 url: /wadebridge/
-latitude: 50.567
-longitude: -4.918
+latitude: 50.55
+longitude: -4.902
 ---

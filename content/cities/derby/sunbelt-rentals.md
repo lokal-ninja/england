@@ -1,5 +1,5 @@
 ---
 title: "Sunbelt Rentals"
 url: /derby/sunbelt-rentals/
-shop: tools
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Istanbul"
 url: /london/istanbul/
-shop: supermarket
+shop: greengrocer
 ---
