@@ -1,5 +1,5 @@
 ---
 title: "Olive Green"
 url: /chorley/olive-green/
-shop: shop
+shop: deli
 ---
