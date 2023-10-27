@@ -1,6 +1,6 @@
 ---
 title: Ashby-de la-Zouch
 url: /ashby-de-la-zouch/
-latitude: 52.747
-longitude: -1.473
+latitude: 52.748
+longitude: -1.47
 ---

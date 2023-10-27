@@ -1,5 +1,5 @@
 ---
-title: "Acasa La români"
+title: "Acasa La Români"
 url: /rugby/acasa-la-romani/
 shop: supermarket
 ---

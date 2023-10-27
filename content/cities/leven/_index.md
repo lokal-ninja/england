@@ -1,6 +1,6 @@
 ---
 title: Leven
 url: /leven/
-latitude: 53.893
-longitude: -0.319
+latitude: 53.892
+longitude: -0.317
 ---

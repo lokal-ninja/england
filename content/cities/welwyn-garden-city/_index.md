@@ -1,6 +1,6 @@
 ---
 title: Welwyn Garden City
 url: /welwyn-garden-city/
-latitude: 51.815
-longitude: -0.204
+latitude: 51.802
+longitude: -0.206
 ---

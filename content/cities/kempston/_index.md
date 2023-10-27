@@ -1,6 +1,6 @@
 ---
 title: Kempston
 url: /kempston/
-latitude: 52.108
-longitude: -0.487
+latitude: 52.109
+longitude: -0.485
 ---

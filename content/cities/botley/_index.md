@@ -1,6 +1,6 @@
 ---
 title: Botley
 url: /botley/
-latitude: 51.752
-longitude: -1.298
+latitude: 51.751
+longitude: -1.299
 ---
