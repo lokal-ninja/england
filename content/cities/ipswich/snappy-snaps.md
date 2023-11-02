@@ -1,5 +1,5 @@
 ---
-title: "Snappy snaps"
+title: "Snappy Snaps"
 url: /ipswich/snappy-snaps/
-shop: copyshop
+shop: photo
 ---

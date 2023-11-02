@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /bristol/iceland-temple-street/
-shop: supermarket
+shop: frozen food
 ---

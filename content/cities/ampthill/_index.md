@@ -1,6 +1,6 @@
 ---
 title: Ampthill
 url: /ampthill/
-latitude: 52.032
-longitude: -0.493
+latitude: 52.031
+longitude: -0.494
 ---

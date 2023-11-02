@@ -1,5 +1,5 @@
 ---
-title: "McCluskey's"
+title: "McCluskeys"
 url: /london/mccluskeys/
 shop: convenience
 ---

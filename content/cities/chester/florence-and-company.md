@@ -1,5 +1,5 @@
 ---
-title: "Florence and Company"
+title: "Florence & Company"
 url: /chester/florence-and-company/
 shop: clothes
 ---

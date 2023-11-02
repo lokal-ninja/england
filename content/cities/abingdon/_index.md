@@ -1,6 +1,6 @@
 ---
 title: Abingdon
 url: /abingdon/
-latitude: 51.685
-longitude: -1.266
+latitude: 51.67
+longitude: -1.283
 ---
