@@ -7,5 +7,5 @@ city: Sheffield
 street: "Cross Turner Street"
 housenumber: 
 phone: "+44 114 273 0539"
-opening_hours: "Mo-Fr 07:00-19:00"
+opening_hours: "Mo,Fr 10:00-19:00"
 website: "https://www.russellsbicycleshed.co.uk/"

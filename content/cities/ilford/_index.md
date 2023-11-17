@@ -1,6 +1,6 @@
 ---
 title: Ilford
 url: /ilford/
-latitude: 51.547
+latitude: 51.586
 longitude: 0.082
 ---

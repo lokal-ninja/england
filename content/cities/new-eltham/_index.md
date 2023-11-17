@@ -1,6 +1,6 @@
 ---
 title: New Eltham
 url: /new-eltham/
-latitude: 51.439
-longitude: 0.071
+latitude: 51.435
+longitude: 0.063
 ---

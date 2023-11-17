@@ -1,6 +1,6 @@
 ---
 title: Willington
 url: /willington/
-latitude: 54.713
-longitude: -1.673
+latitude: 52.134
+longitude: -0.369
 ---

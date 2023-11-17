@@ -1,5 +1,5 @@
 ---
 title: "Rohan"
 url: /beverley/rohan/
-shop: outdoor
+shop: clothes
 ---

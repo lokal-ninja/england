@@ -1,5 +1,5 @@
 ---
 title: "Chaucer News"
 url: /sittingbourne/chaucer-news/
-shop: newsagent
+shop: convenience
 ---

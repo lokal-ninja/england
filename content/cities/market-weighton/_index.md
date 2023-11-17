@@ -1,6 +1,6 @@
 ---
 title: Market Weighton
 url: /market-weighton/
-latitude: 53.863
-longitude: -0.663
+latitude: 53.852
+longitude: -0.707
 ---
