@@ -1,6 +1,6 @@
 ---
 title: Henlow
 url: /henlow/
-latitude: 52.03
-longitude: -0.286
+latitude: 52.001
+longitude: -0.321
 ---

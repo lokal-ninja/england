@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /carlisle/whsmith/
-shop: shop
+shop: newsagent
 ---

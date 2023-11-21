@@ -1,5 +1,5 @@
 ---
 title: "TK Maxx"
 url: /chester/tk-maxx/
-shop: shop
+shop: department store
 ---
