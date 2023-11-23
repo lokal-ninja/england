@@ -1,6 +1,6 @@
 ---
 title: Shaw
 url: /shaw/
-latitude: 53.576
-longitude: -2.092
+latitude: 51.391
+longitude: -2.177
 ---
