@@ -1,5 +1,5 @@
 ---
-title: "Shop 'N' Drive"
+title: "Shop N Drive"
 url: /chichester/shop-n-drive/
-shop: shop
+shop: convenience
 ---

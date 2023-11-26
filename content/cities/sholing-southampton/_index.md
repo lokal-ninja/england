@@ -1,6 +1,6 @@
 ---
 title: Sholing, Southampton
 url: /sholing-southampton/
-latitude: 50.901
-longitude: -1.353
+latitude: 50.897
+longitude: -1.365
 ---
