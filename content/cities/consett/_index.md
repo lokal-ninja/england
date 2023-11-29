@@ -1,6 +1,6 @@
 ---
 title: Consett
 url: /consett/
-latitude: 54.848
-longitude: -1.825
+latitude: 54.867
+longitude: -1.855
 ---

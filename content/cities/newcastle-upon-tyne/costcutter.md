@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /newcastle-upon-tyne/costcutter/
-shop: convenience
+shop: supermarket
 ---
