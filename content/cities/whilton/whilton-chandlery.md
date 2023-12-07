@@ -1,5 +1,5 @@
 ---
 title: "Whilton Chandlery"
 url: /whilton/whilton-chandlery/
-shop: shop
+shop: ship chandler
 ---

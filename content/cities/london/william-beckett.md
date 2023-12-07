@@ -1,5 +1,5 @@
 ---
 title: "William Beckett"
 url: /london/william-beckett/
-shop: shop
+shop: funeral directors
 ---

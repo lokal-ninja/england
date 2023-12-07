@@ -1,5 +1,5 @@
 ---
 title: "Sunsational"
 url: /evesham/sunsational/
-shop: tanning
+shop: beauty
 ---
