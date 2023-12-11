@@ -1,5 +1,5 @@
 ---
 title: "Price Wise of Wollaton"
 url: /nottingham/price-wise-of-wollaton/
-shop: shop
+shop: variety store
 ---

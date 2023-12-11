@@ -1,5 +1,5 @@
 ---
 title: "Shine"
 url: /london/shine/
-shop: estate agent
+shop: hairdresser
 ---

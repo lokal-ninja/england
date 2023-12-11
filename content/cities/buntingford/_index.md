@@ -1,6 +1,6 @@
 ---
 title: Buntingford
 url: /buntingford/
-latitude: 51.945
-longitude: -0.017
+latitude: 51.947
+longitude: -0.019
 ---

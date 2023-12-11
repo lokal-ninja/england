@@ -1,5 +1,5 @@
 ---
-title: "All In A Pickle"
+title: "All In a Pickle"
 url: /london/all-in-a-pickle/
 shop: deli
 ---

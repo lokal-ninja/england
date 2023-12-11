@@ -1,5 +1,5 @@
 ---
 title: "Bitza Allsorts"
 url: /nottingham/bitza-allsorts/
-shop: shop
+shop: variety store
 ---

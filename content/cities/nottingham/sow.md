@@ -1,5 +1,5 @@
 ---
 title: "SoW"
 url: /nottingham/sow/
-shop: convenience
+shop: florist
 ---

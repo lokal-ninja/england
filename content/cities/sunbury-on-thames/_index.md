@@ -1,6 +1,6 @@
 ---
 title: Sunbury-on-Thames
 url: /sunbury-on-thames/
-latitude: 51.406
-longitude: -0.406
+latitude: 51.407
+longitude: -0.415
 ---

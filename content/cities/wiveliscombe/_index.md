@@ -1,6 +1,6 @@
 ---
 title: Wiveliscombe
 url: /wiveliscombe/
-latitude: 51.042
-longitude: -3.313
+latitude: 51.043
+longitude: -3.31
 ---
