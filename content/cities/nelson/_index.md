@@ -1,6 +1,6 @@
 ---
 title: Nelson
 url: /nelson/
-latitude: 53.833
-longitude: -2.221
+latitude: 53.85
+longitude: -2.216
 ---

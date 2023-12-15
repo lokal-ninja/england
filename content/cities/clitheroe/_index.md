@@ -1,6 +1,6 @@
 ---
 title: Clitheroe
 url: /clitheroe/
-latitude: 53.87
-longitude: -2.392
+latitude: 53.822
+longitude: -2.407
 ---
