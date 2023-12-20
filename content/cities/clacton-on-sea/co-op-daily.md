@@ -1,5 +1,5 @@
 ---
-title: "CO-OP Daily"
+title: "Co-Op Daily"
 url: /clacton-on-sea/co-op-daily/
-shop: convenience
+shop: supermarket
 ---
