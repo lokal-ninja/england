@@ -1,5 +1,5 @@
 ---
-title: "applegreen"
+title: "Applegreen"
 url: /bristol/applegreen/
 shop: convenience
 ---
