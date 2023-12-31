@@ -1,6 +1,6 @@
 ---
 title: Moreton-in-Marsh
 url: /moreton-in-marsh/
-latitude: 51.989
-longitude: -1.713
+latitude: 51.985
+longitude: -1.705
 ---

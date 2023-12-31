@@ -1,6 +1,6 @@
 ---
 title: Askam-in-Furness
 url: /askam-in-furness/
-latitude: 54.19
-longitude: -3.208
+latitude: 54.186
+longitude: -3.206
 ---

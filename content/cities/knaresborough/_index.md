@@ -1,6 +1,6 @@
 ---
 title: Knaresborough
 url: /knaresborough/
-latitude: 54.008
-longitude: -1.466
+latitude: 54.013
+longitude: -1.468
 ---

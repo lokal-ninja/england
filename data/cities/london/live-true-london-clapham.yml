@@ -7,5 +7,5 @@ city: London
 street: "Voltaire Road"
 housenumber: 2
 phone: "+44 20 7627 0169"
-opening_hours: "Mon-Thu 9:00am-9:00pm, Fri 8:00am-9:00pm, Sat 8:00am-6:00pm, Sun 9:00am-6:00pm"
+opening_hours: "Mo-Th 09:00-21:00, Fr 08:00-21:00, Sa 08:00-18:00, Su 09:00-18:00"
 website: ""
