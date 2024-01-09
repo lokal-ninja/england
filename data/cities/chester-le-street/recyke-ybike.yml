@@ -7,5 +7,5 @@ city: Chester-le-Street
 street: "Ropery Lane"
 housenumber: 
 phone: "+44 191 406 4485"
-opening_hours: "Tu-Fr 09:00-16:00; Sa 10:00-16:00"
+opening_hours: "Tu-Fr 09:00-16:00; Sa 10:00-16:00; Su,Mo off"
 website: "https://recyke.bike/"

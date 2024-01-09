@@ -1,5 +1,5 @@
 ---
 title: "Argos"
 url: /london/argos/
-shop: shop
+shop: catalogue
 ---

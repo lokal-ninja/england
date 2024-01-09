@@ -1,6 +1,6 @@
 ---
 title: Hinckley
 url: /hinckley/
-latitude: 52.537
+latitude: 52.538
 longitude: -1.406
 ---

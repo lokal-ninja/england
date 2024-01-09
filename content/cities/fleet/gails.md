@@ -1,5 +1,5 @@
 ---
-title: "Gail's"
+title: "GAIL's"
 url: /fleet/gails/
-shop: shop
+shop: bakery
 ---
