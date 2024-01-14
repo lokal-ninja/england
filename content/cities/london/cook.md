@@ -1,5 +1,5 @@
 ---
 title: "COOK"
 url: /london/cook/
-shop: convenience
+shop: frozen food
 ---
