@@ -1,5 +1,5 @@
 ---
-title: "70six"
+title: "70Six"
 url: /taunton/70six/
-shop: hairdresser
+shop: tattoo
 ---

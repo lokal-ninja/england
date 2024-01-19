@@ -1,6 +1,6 @@
 ---
 title: Tweedmouth
 url: /tweedmouth/
-latitude: 55.762
-longitude: -2.009
+latitude: 55.757
+longitude: -2.014
 ---

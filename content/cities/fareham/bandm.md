@@ -1,5 +1,5 @@
 ---
 title: "B&M"
 url: /fareham/bandm/
-shop: garden centre
+shop: variety store
 ---
