@@ -1,6 +1,6 @@
 ---
 title: Lydney
 url: /lydney/
-latitude: 51.724
-longitude: -2.536
+latitude: 51.727
+longitude: -2.529
 ---

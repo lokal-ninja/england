@@ -1,6 +1,6 @@
 ---
 title: Sittingbourne
 url: /sittingbourne/
-latitude: 51.335
-longitude: 0.753
+latitude: 51.358
+longitude: 0.745
 ---

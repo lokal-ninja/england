@@ -1,5 +1,5 @@
 ---
-title: "EXCEL DRY CLEANERS"
+title: "Excel Dry Cleaners"
 url: /gerrards-cross/excel-dry-cleaners/
 shop: laundry
 ---
