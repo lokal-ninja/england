@@ -1,11 +1,11 @@
-id: 903122971
-type: way
-latitude: 53.8065
-longitude: -1.45036
-postcode: "LS15 8ET"
+id: 5413294424
+type: node
+latitude: 53.80744
+longitude: -1.44955
+postcode: "LS15 8BA"
 city: Leeds
-street: "Crossgates Shopping Centre"
-housenumber: 20
+street: "Austhorpe Road"
+housenumber: 27
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:15, Sa 09:00-16:00"
-website: "https://www.smcnicholas.co.uk/"
+opening_hours: ""
+website: ""

@@ -1,6 +1,6 @@
 ---
 title: Stoke-on-Trent
 url: /stoke-on-trent/
-latitude: 52.992
-longitude: -2.098
+latitude: 53.087
+longitude: -2.238
 ---
