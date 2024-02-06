@@ -1,5 +1,5 @@
 ---
 title: "Cordells"
 url: /grimsby/cordells/
-shop: electrical
+shop: electronics
 ---
