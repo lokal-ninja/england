@@ -1,6 +1,6 @@
 ---
 title: Northwood
 url: /northwood/
-latitude: 51.611
-longitude: -0.425
+latitude: 51.63
+longitude: -0.434
 ---

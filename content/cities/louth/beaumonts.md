@@ -1,5 +1,5 @@
 ---
-title: "Beaumont'S"
+title: "Beaumont's"
 url: /louth/beaumonts/
 shop: deli
 ---
