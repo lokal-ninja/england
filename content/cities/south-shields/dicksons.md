@@ -1,5 +1,5 @@
 ---
 title: "Dicksons"
 url: /south-shields/dicksons/
-shop: butcher
+shop: bakery
 ---

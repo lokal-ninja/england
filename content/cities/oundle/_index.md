@@ -1,6 +1,6 @@
 ---
 title: Oundle
 url: /oundle/
-latitude: 52.481
-longitude: -0.467
+latitude: 52.487
+longitude: -0.466
 ---

@@ -1,6 +1,6 @@
 ---
 title: Belvedere
 url: /belvedere/
-latitude: 51.483
-longitude: 0.148
+latitude: 51.484
+longitude: 0.143
 ---
