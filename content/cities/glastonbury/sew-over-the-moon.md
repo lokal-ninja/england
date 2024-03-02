@@ -1,5 +1,5 @@
 ---
 title: "Sew Over the Moon"
 url: /glastonbury/sew-over-the-moon/
-shop: shop
+shop: sewing
 ---

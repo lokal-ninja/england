@@ -1,11 +1,11 @@
-id: 4381911290
-type: node
-latitude: 52.23942
-longitude: -0.93327
-postcode: "NN5 5DG"
+id: 93628604
+type: way
+latitude: 52.25579
+longitude: -0.83618
+postcode: "NN3 8JL"
 city: Northampton
-street: "Gambrel Road"
-housenumber: 39
+street: "Octagon Way"
+housenumber: 
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00; Su 10:00-16:00; PH 08:00-20:00"
-website: "https://www.lidl.co.uk/s/en-GB/store-finder/northampton/weedon-road/"
+opening_hours: ""
+website: "https://www.lidl.co.uk/s/en-GB/store-finder/weston-favell/northampton/octagon-way/"
