@@ -1,5 +1,5 @@
 ---
 title: "RS Industrial Services"
 url: /gateshead/rs-industrial-services/
-shop: shop
+shop: trade
 ---
