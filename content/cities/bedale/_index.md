@@ -1,6 +1,6 @@
 ---
 title: Bedale
 url: /bedale/
-latitude: 54.288
-longitude: -1.592
+latitude: 54.289
+longitude: -1.586
 ---

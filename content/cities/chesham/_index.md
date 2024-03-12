@@ -1,6 +1,6 @@
 ---
 title: Chesham
 url: /chesham/
-latitude: 51.711
-longitude: -0.609
+latitude: 51.707
+longitude: -0.611
 ---
