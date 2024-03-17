@@ -1,6 +1,6 @@
 ---
 title: Portsmouth
 url: /portsmouth/
-latitude: 50.83
-longitude: -1.074
+latitude: 50.836
+longitude: -1.042
 ---

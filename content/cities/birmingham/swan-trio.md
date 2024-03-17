@@ -1,5 +1,5 @@
 ---
 title: "Swan Trio"
 url: /birmingham/swan-trio/
-shop: shop
+shop: shoes
 ---

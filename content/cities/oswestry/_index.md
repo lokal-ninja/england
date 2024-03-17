@@ -1,6 +1,6 @@
 ---
 title: Oswestry
 url: /oswestry/
-latitude: 52.919
-longitude: -3.042
+latitude: 52.794
+longitude: -2.992
 ---
