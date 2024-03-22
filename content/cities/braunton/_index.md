@@ -1,6 +1,6 @@
 ---
 title: Braunton
 url: /braunton/
-latitude: 51.109
-longitude: -4.163
+latitude: 51.103
+longitude: -4.165
 ---
