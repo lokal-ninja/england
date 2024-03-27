@@ -1,5 +1,5 @@
 ---
-title: "LONDIS"
+title: "Londis"
 url: /langley/londis/
 shop: convenience
 ---
