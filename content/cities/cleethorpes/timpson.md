@@ -1,5 +1,5 @@
 ---
 title: "Timpson"
 url: /cleethorpes/timpson/
-shop: shoes
+shop: locksmith
 ---

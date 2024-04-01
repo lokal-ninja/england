@@ -1,6 +1,6 @@
 ---
 title: Broadstairs
 url: /broadstairs/
-latitude: 51.354
-longitude: 1.408
+latitude: 51.368
+longitude: 1.423
 ---

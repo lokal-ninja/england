@@ -1,5 +1,5 @@
 ---
-title: "Premier express"
+title: "Premier Express"
 url: /newbury/premier-express/
 shop: convenience
 ---
