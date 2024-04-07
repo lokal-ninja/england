@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /bolton/spar/
-shop: supermarket
+shop: convenience
 ---

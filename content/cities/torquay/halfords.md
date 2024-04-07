@@ -1,5 +1,5 @@
 ---
 title: "Halfords"
 url: /torquay/halfords/
-shop: bicycle
+shop: car parts
 ---

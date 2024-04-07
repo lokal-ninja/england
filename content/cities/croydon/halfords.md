@@ -1,5 +1,5 @@
 ---
 title: "Halfords"
 url: /croydon/halfords/
-shop: car accessories
+shop: car parts
 ---

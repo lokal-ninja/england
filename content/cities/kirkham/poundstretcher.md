@@ -1,5 +1,5 @@
 ---
 title: "Poundstretcher"
 url: /kirkham/poundstretcher/
-shop: general
+shop: variety store
 ---

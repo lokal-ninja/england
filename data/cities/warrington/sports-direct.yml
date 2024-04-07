@@ -1,11 +1,11 @@
-id: 1210534186
-type: way
-latitude: 53.38626
-longitude: -2.5864
-postcode: "WA1 2GZ"
+id: 5214536530
+type: node
+latitude: 53.41444
+longitude: -2.52707
+postcode: "WA3 7PG"
 city: Warrington
-street: "Wharf Street"
-housenumber: Unit 2
+street: "Dewhurst Road"
+housenumber: 
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 10:30-16:30"
+opening_hours: ""
 website: ""

@@ -2,5 +2,5 @@
 title: Westhoughton
 url: /westhoughton/
 latitude: 53.549
-longitude: -2.521
+longitude: -2.507
 ---

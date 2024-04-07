@@ -1,5 +1,5 @@
 ---
 title: "Poundstretcher"
 url: /alfreton/poundstretcher/
-shop: vacant
+shop: variety store
 ---

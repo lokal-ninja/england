@@ -1,6 +1,6 @@
 ---
 title: Crowland
 url: /crowland/
-latitude: 52.682
-longitude: -0.153
+latitude: 52.675
+longitude: -0.169
 ---
