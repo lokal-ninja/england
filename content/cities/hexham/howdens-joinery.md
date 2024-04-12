@@ -1,5 +1,5 @@
 ---
 title: "Howdens Joinery"
 url: /hexham/howdens-joinery/
-shop: doityourself
+shop: kitchen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Finlay's"
 url: /newcastle-upon-tyne/finlays/
-shop: butcher
+shop: convenience
 ---

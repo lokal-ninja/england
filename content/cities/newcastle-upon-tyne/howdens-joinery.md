@@ -1,5 +1,5 @@
 ---
 title: "Howdens Joinery"
 url: /newcastle-upon-tyne/howdens-joinery/
-shop: doityourself
+shop: kitchen
 ---
