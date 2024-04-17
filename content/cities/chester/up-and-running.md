@@ -1,5 +1,5 @@
 ---
-title: "Up and Running"
+title: "Up & Running"
 url: /chester/up-and-running/
-shop: outdoor
+shop: sports
 ---

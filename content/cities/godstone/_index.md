@@ -1,6 +1,6 @@
 ---
 title: Godstone
 url: /godstone/
-latitude: 51.249
-longitude: -0.049
+latitude: 51.204
+longitude: -0.056
 ---
