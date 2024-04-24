@@ -1,5 +1,5 @@
 ---
-title: "Best One"
+title: "Best-one"
 url: /barnstaple/best-one/
-shop: supermarket
+shop: convenience
 ---

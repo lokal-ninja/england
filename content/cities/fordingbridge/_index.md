@@ -1,6 +1,6 @@
 ---
 title: Fordingbridge
 url: /fordingbridge/
-latitude: 50.927
+latitude: 50.928
 longitude: -1.789
 ---

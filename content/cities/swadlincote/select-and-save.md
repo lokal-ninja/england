@@ -1,5 +1,5 @@
 ---
-title: "Select and Save"
+title: "Select & Save"
 url: /swadlincote/select-and-save/
-shop: supermarket
+shop: convenience
 ---

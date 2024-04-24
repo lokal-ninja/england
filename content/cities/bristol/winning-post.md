@@ -1,5 +1,5 @@
 ---
-title: "Winning Post"
+title: "winning post"
 url: /bristol/winning-post/
 shop: bookmaker
 ---

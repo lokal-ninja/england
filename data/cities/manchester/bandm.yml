@@ -1,11 +1,11 @@
-id: 1174839045
-type: way
-latitude: 53.46147
-longitude: -2.24761
-postcode: "M15 5AF"
+id: 11834948075
+type: node
+latitude: 53.47378
+longitude: -2.16385
+postcode: "M11 1DA"
 city: Manchester
-street: "Hulme High Street Retail Park"
-housenumber: 
-phone: "+44330 838 9282"
-opening_hours: "Mo-Sa 08:00-21:00; Su 10:30-16:30"
+street: "Ashton Old Road"
+housenumber: 1221
+phone: "+44 330 838 9283"
+opening_hours: "Mo-Sa 08:00-20:00; Su 10:30-16:30"
 website: ""

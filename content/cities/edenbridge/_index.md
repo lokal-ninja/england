@@ -1,6 +1,6 @@
 ---
 title: Edenbridge
 url: /edenbridge/
-latitude: 51.208
-longitude: 0.062
+latitude: 51.195
+longitude: 0.064
 ---

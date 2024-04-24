@@ -1,6 +1,6 @@
 ---
 title: Rowlands Gill
 url: /rowlands-gill/
-latitude: 54.922
-longitude: -1.762
+latitude: 54.923
+longitude: -1.739
 ---

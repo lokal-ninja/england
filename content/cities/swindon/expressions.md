@@ -1,5 +1,5 @@
 ---
-title: "Expressions"
+title: "expressions"
 url: /swindon/expressions/
-shop: hairdresser
+shop: gift
 ---
