@@ -1,6 +1,6 @@
 ---
 title: Selby
 url: /selby/
-latitude: 53.786
-longitude: -1.078
+latitude: 53.818
+longitude: -0.916
 ---

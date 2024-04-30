@@ -1,6 +1,6 @@
 ---
 title: Tarporley
 url: /tarporley/
-latitude: 53.16
-longitude: -2.669
+latitude: 53.123
+longitude: -2.608
 ---

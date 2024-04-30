@@ -1,5 +1,5 @@
 ---
-title: "Techlab"
+title: "Techlab+"
 url: /london/techlab/
 shop: computer
 ---

@@ -1,6 +1,6 @@
 ---
 title: Blackpool
 url: /blackpool/
-latitude: 53.807
-longitude: -3.029
+latitude: 53.829
+longitude: -3.03
 ---

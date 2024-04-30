@@ -1,5 +1,5 @@
 ---
-title: "GAIL's"
+title: "Gails"
 url: /brighton/gails/
 shop: bakery
 ---
