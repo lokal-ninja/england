@@ -1,6 +1,6 @@
 ---
 title: Redhill
 url: /redhill/
-latitude: 51.241
-longitude: -0.168
+latitude: 51.242
+longitude: -0.167
 ---

@@ -1,6 +1,6 @@
 ---
 title: Bicester
 url: /bicester/
-latitude: 51.905
-longitude: -1.16
+latitude: 51.91
+longitude: -1.156
 ---
