@@ -1,5 +1,5 @@
 ---
 title: "Polar Ford Barnsley"
 url: /barnsley/polar-ford-barnsley/
-shop: car repair
+shop: car
 ---

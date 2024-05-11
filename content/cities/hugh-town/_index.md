@@ -1,6 +1,6 @@
 ---
 title: Hugh Town
 url: /hugh-town/
-latitude: 49.915
-longitude: -6.317
+latitude: 49.916
+longitude: -6.318
 ---

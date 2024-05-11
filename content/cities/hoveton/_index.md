@@ -1,6 +1,6 @@
 ---
 title: Hoveton
 url: /hoveton/
-latitude: 52.711
-longitude: 1.41
+latitude: 52.712
+longitude: 1.409
 ---
