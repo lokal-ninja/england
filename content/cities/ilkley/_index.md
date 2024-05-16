@@ -1,6 +1,6 @@
 ---
 title: Ilkley
 url: /ilkley/
-latitude: 53.926
-longitude: -1.824
+latitude: 53.925
+longitude: -1.826
 ---

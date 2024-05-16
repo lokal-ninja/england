@@ -1,6 +1,6 @@
 ---
 title: Erith
 url: /erith/
-latitude: 51.496
-longitude: 0.145
+latitude: 51.478
+longitude: 0.186
 ---

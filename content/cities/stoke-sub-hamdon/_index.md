@@ -1,6 +1,6 @@
 ---
-title: Stoke-sub-Hamdon
+title: Stoke Sub Hamdon
 url: /stoke-sub-hamdon/
-latitude: 50.94
-longitude: -2.757
+latitude: 50.944
+longitude: -2.739
 ---

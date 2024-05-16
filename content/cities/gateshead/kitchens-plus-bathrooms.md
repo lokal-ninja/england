@@ -1,5 +1,5 @@
 ---
-title: "Kitchens Plus Bathrooms"
+title: "Kitchens plus Bathrooms"
 url: /gateshead/kitchens-plus-bathrooms/
-shop: furniture
+shop: kitchen
 ---

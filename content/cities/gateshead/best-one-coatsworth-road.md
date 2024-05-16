@@ -1,5 +1,5 @@
 ---
-title: "Best-One"
+title: "Best-one"
 url: /gateshead/best-one-coatsworth-road/
-shop: computer
+shop: convenience
 ---
