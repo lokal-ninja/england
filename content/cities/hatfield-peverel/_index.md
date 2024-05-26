@@ -1,6 +1,6 @@
 ---
 title: Hatfield Peverel
 url: /hatfield-peverel/
-latitude: 51.777
-longitude: 0.598
+latitude: 51.776
+longitude: 0.595
 ---
