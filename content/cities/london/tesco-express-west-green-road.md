@@ -1,5 +1,5 @@
 ---
-title: "Tesco express"
+title: "Tesco Express"
 url: /london/tesco-express-west-green-road/
-shop: supermarket
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Brandon Tool Hire"
 url: /grimsby/brandon-tool-hire/
-shop: tools
+shop: doityourself
 ---

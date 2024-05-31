@@ -1,6 +1,6 @@
 ---
 title: Ulverston
 url: /ulverston/
-latitude: 54.196
-longitude: -3.095
+latitude: 54.178
+longitude: -3.097
 ---

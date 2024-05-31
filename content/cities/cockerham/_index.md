@@ -1,6 +1,6 @@
 ---
 title: Cockerham
 url: /cockerham/
-latitude: 53.951
-longitude: -2.809
+latitude: 53.962
+longitude: -2.816
 ---

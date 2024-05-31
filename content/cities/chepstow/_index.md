@@ -1,6 +1,6 @@
 ---
 title: Chepstow
 url: /chepstow/
-latitude: 51.668
-longitude: -2.63
+latitude: 51.645
+longitude: -2.672
 ---

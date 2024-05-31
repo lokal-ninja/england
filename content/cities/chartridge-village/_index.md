@@ -1,6 +1,6 @@
 ---
 title: Chartridge Village
 url: /chartridge-village/
-latitude: 51.725
-longitude: -0.652
+latitude: 51.724
+longitude: -0.651
 ---
