@@ -7,5 +7,5 @@ city: Canterbury
 street: "Iron Bar Lane"
 housenumber: 5
 phone: "+44 1227 452880"
-opening_hours: "Sa-Th 10:00-18:00;Fr 10:00-20:00"
+opening_hours: "Mo-We,Fr,Sa 10:00-18:00; Th 10:00-20:00; Su 10:00-17:00"
 website: ""
