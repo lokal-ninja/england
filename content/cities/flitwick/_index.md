@@ -1,6 +1,6 @@
 ---
 title: Flitwick
 url: /flitwick/
-latitude: 52.003
-longitude: -0.498
+latitude: 52.004
+longitude: -0.495
 ---

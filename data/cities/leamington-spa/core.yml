@@ -7,5 +7,5 @@ city: Leamington Spa
 street: "Regent Street"
 housenumber: 50
 phone: ""
-opening_hours: "Tu,Th-Sa 09:00-17:00; We 09:00-18:30; Su 10:00-16:00"
+opening_hours: "Tu,Th-Sa 09:00-17:00; We 09:00-18:30; Su,Mo 10:00-16:00"
 website: "https://www.coreleamington.co.uk/"

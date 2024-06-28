@@ -1,6 +1,6 @@
 ---
 title: Hull
 url: /hull/
-latitude: 53.755
-longitude: -0.044
+latitude: 53.744
+longitude: -0.409
 ---

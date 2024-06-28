@@ -1,11 +1,11 @@
-id: 10621943979
-type: node
-latitude: 51.4881
-longitude: 0.01657
-postcode: "SE10 0QJ"
+id: 1002595180
+type: way
+latitude: 51.49303
+longitude: -0.22864
+postcode: "W6 0PZ"
 city: London
 street: ""
-housenumber: 
+housenumber: 2-3
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Sa 08:00-20:00, Su 11:00-17:00"
+website: "https://stores.sainsburys.co.uk/2124/kings-mall"

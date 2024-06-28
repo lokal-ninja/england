@@ -1,6 +1,6 @@
 ---
 title: Pewsey
 url: /pewsey/
-latitude: 51.42
-longitude: -1.733
+latitude: 51.34
+longitude: -1.764
 ---

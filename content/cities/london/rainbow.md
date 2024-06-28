@@ -1,5 +1,5 @@
 ---
 title: "Rainbow"
 url: /london/rainbow/
-shop: supermarket
+shop: convenience
 ---

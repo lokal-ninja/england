@@ -1,5 +1,5 @@
 ---
-title: "P. Johnson butchers"
+title: "P. Johnson Butchers"
 url: /bodmin/p-johnson-butchers/
 shop: butcher
 ---

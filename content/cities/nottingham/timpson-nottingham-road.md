@@ -1,5 +1,5 @@
 ---
 title: "Timpson"
 url: /nottingham/timpson-nottingham-road/
-shop: shoes
+shop: locksmith
 ---
