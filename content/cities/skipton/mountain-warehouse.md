@@ -1,5 +1,5 @@
 ---
-title: "Mountain warehouse"
+title: "Mountain Warehouse"
 url: /skipton/mountain-warehouse/
 shop: outdoor
 ---
