@@ -1,6 +1,6 @@
 ---
 title: Swavesey
 url: /swavesey/
-latitude: 52.302
+latitude: 52.301
 longitude: -0.005
 ---
