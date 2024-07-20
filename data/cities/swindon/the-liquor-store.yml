@@ -7,5 +7,5 @@ city: Swindon
 street: "Guildford Avenue"
 housenumber: 40
 phone: "+44 1793 539559"
-opening_hours: "Mo 12:00-20:00;Tu-Sa 12:00-21:00;Su 12:00-20:00"
+opening_hours: "Mo 12:00-20:00; Tu-Sa 12:00-21:00; Su 12:00-20:00"
 website: ""

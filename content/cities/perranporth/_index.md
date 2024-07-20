@@ -1,6 +1,6 @@
 ---
 title: Perranporth
 url: /perranporth/
-latitude: 50.345
-longitude: -5.155
+latitude: 50.347
+longitude: -5.154
 ---

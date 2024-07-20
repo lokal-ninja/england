@@ -1,5 +1,5 @@
 ---
 title: "Cook"
 url: /bury-st-edmunds/cook/
-shop: deli
+shop: frozen food
 ---

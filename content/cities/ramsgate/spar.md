@@ -1,5 +1,5 @@
 ---
-title: "SPAR"
+title: "Spar"
 url: /ramsgate/spar/
 shop: convenience
 ---

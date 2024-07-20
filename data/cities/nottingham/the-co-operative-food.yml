@@ -1,11 +1,11 @@
-id: 30708099
-type: way
-latitude: 52.93554
-longitude: -1.13263
-postcode: "NG2 6AB"
+id: 153410322
+type: node
+latitude: 52.94215
+longitude: -0.79209
+postcode: "NG13 0EE"
 city: Nottingham
-street: "Bridgford Road"
-housenumber: 8
+street: "Grantham Road"
+housenumber: 
 phone: ""
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.coop.co.uk/store-finder/NG2-6AB/8-bridgford-road"
+opening_hours: "Mo-Su 07:00-22:00"
+website: "https://stores.centralengland.coop/nottinghamshire/nottingham/central-england-co-operative"
