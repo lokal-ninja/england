@@ -1,5 +1,5 @@
 ---
-title: "Tailor The Foxx"
+title: "Tailor the Foxx"
 url: /kendal/tailor-the-foxx/
-shop: baby goods
+shop: gift
 ---

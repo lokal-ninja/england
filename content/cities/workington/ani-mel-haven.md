@@ -1,5 +1,5 @@
 ---
-title: "Ani-Mel Haven"
+title: "Ani-mel Haven"
 url: /workington/ani-mel-haven/
-shop: clothes
+shop: charity
 ---

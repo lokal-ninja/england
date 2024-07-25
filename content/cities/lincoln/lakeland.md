@@ -1,5 +1,5 @@
 ---
 title: "Lakeland"
 url: /lincoln/lakeland/
-shop: shop
+shop: houseware
 ---
