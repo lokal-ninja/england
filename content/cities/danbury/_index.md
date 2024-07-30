@@ -1,6 +1,6 @@
 ---
 title: Danbury
 url: /danbury/
-latitude: 51.717
-longitude: 0.579
+latitude: 51.716
+longitude: 0.59
 ---

@@ -1,6 +1,6 @@
 ---
 title: Tiptree
 url: /tiptree/
-latitude: 51.81
-longitude: 0.751
+latitude: 51.811
+longitude: 0.75
 ---

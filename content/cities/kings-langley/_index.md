@@ -1,6 +1,6 @@
 ---
 title: Kings Langley
 url: /kings-langley/
-latitude: 51.712
-longitude: -0.45
+latitude: 51.714
+longitude: -0.451
 ---
