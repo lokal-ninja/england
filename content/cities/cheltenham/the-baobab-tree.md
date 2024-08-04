@@ -1,5 +1,5 @@
 ---
 title: "The Baobab Tree"
 url: /cheltenham/the-baobab-tree/
-shop: shop
+shop: vacant
 ---

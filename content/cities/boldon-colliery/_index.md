@@ -1,6 +1,6 @@
 ---
 title: Boldon Colliery
 url: /boldon-colliery/
-latitude: 54.948
-longitude: -1.461
+latitude: 54.95
+longitude: -1.463
 ---

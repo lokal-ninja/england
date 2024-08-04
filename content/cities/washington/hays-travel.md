@@ -1,5 +1,5 @@
 ---
-title: "Hay's Travel"
+title: "Hays Travel"
 url: /washington/hays-travel/
 shop: travel agency
 ---

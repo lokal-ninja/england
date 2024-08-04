@@ -1,5 +1,5 @@
 ---
 title: "Linkage"
 url: /lincoln/linkage/
-shop: charity
+shop: shop
 ---
