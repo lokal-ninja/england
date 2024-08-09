@@ -1,5 +1,5 @@
 ---
-title: "Clairs"
+title: "Clair's"
 url: /bishop-auckland/clairs/
 shop: bakery
 ---

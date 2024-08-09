@@ -1,11 +1,11 @@
-id: 2642233017
-type: node
-latitude: 51.33691
-longitude: -0.749
-postcode: "GU15 3GH"
+id: 314088046
+type: way
+latitude: 51.33019
+longitude: -0.77895
+postcode: "GU17 9AP"
 city: Camberley
-street: "Charles Street"
-housenumber: 
+street: "London Road"
+housenumber: 21
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su 11:00-17:00; PH 08:00-20:00"
-website: ""
+opening_hours: "Mo-Sa 08:00-22:00; Su 10:00-16:00; PH 08:00-20:00"
+website: "https://www.lidl.co.uk/s/en-GB/store-finder/blackwater/camberley/london-road-21/"

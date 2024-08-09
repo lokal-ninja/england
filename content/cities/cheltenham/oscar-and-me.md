@@ -1,5 +1,5 @@
 ---
 title: "Oscar & Me"
 url: /cheltenham/oscar-and-me/
-shop: baby goods
+shop: clothes
 ---
