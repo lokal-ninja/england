@@ -1,11 +1,11 @@
-id: 5648164595
-type: node
-latitude: 53.80011
-longitude: -1.54397
-postcode: "LS2 8LQ"
+id: 639133092
+type: way
+latitude: 53.79693
+longitude: -1.54085
+postcode: "LS1 6BY"
 city: Leeds
-street: "Albion Street"
-housenumber: 110-118
+street: "Kirkgate"
+housenumber: 119
 phone: ""
 opening_hours: ""
-website: ""
+website: "https://www.poundbakery.co.uk/store/leeds-kirkgate/"

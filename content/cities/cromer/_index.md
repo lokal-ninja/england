@@ -1,6 +1,6 @@
 ---
 title: Cromer
 url: /cromer/
-latitude: 52.932
-longitude: 1.301
+latitude: 52.931
+longitude: 1.302
 ---
