@@ -1,6 +1,6 @@
 ---
 title: Stone
 url: /stone/
-latitude: 52.872
-longitude: -2.163
+latitude: 52.895
+longitude: -2.151
 ---
