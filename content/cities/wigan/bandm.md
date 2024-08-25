@@ -1,5 +1,5 @@
 ---
 title: "B&M"
 url: /wigan/bandm/
-shop: supermarket
+shop: variety store
 ---

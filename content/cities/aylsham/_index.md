@@ -1,6 +1,6 @@
 ---
 title: Aylsham
 url: /aylsham/
-latitude: 52.796
-longitude: 1.252
+latitude: 52.795
+longitude: 1.253
 ---
