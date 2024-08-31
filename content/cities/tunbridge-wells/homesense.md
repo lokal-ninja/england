@@ -1,5 +1,5 @@
 ---
-title: "Homesense"
+title: "HomeSense"
 url: /tunbridge-wells/homesense/
-shop: houseware
+shop: interior decoration
 ---

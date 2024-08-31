@@ -1,6 +1,6 @@
 ---
 title: Bitterne, Southampton
 url: /bitterne-southampton/
-latitude: 50.918
-longitude: -1.379
+latitude: 50.921
+longitude: -1.356
 ---
