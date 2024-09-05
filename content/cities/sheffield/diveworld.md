@@ -1,5 +1,5 @@
 ---
 title: "Diveworld"
 url: /sheffield/diveworld/
-shop: diving
+shop: Tauchen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Elsewhere"
 url: /margate/elsewhere/
-shop: music
+shop: Musik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /ilkeston/coral/
-shop: bookmaker
+shop: Wettbüro
 ---

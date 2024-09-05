@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /petersfield/tesco-express/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hutchinson"
 url: /south-shields/hutchinson/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

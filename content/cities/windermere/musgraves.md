@@ -1,5 +1,5 @@
 ---
 title: "Musgraves"
 url: /windermere/musgraves/
-shop: hardware
+shop: Eisenwaren
 ---

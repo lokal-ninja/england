@@ -1,5 +1,5 @@
 ---
 title: "Majestic"
 url: /bristol/majestic/
-shop: alcohol
+shop: Spirituosen
 ---

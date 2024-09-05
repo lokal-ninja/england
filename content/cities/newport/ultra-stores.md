@@ -1,5 +1,5 @@
 ---
 title: "Ultra Stores"
 url: /newport/ultra-stores/
-shop: convenience
+shop: Lebensmittel
 ---

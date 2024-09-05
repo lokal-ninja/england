@@ -1,5 +1,5 @@
 ---
 title: "The Children's Society"
 url: /sunderland/the-childrens-society-blandford-street/
-shop: charity
+shop: Gebrauchtwaren
 ---

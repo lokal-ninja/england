@@ -1,5 +1,5 @@
 ---
 title: "Saks Hair"
 url: /middlesbrough/saks-hair/
-shop: hairdresser
+shop: Friseur
 ---

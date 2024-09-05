@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /yetminster/spar/
-shop: convenience
+shop: Lebensmittel
 ---

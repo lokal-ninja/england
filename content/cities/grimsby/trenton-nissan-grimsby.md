@@ -1,5 +1,5 @@
 ---
 title: "Trenton Nissan Grimsby"
 url: /grimsby/trenton-nissan-grimsby/
-shop: car
+shop: Autohaus
 ---

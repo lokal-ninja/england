@@ -1,5 +1,5 @@
 ---
 title: "Schmidt"
 url: /croydon/schmidt/
-shop: kitchen
+shop: Küchen
 ---

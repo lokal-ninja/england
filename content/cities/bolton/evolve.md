@@ -1,5 +1,5 @@
 ---
 title: "Evolve"
 url: /bolton/evolve/
-shop: beauty
+shop: Kosmetik
 ---

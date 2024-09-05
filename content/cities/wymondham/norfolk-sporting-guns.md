@@ -1,5 +1,5 @@
 ---
 title: "Norfolk Sporting Guns"
 url: /wymondham/norfolk-sporting-guns/
-shop: shop
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Salut Coffee Shop"
 url: /blackpool/salut-coffee-shop/
-shop: coffee
+shop: Kaffee
 ---

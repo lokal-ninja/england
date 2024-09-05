@@ -1,5 +1,5 @@
 ---
 title: "Honeyzz"
 url: /southport/honeyzz/
-shop: hairdresser
+shop: Friseur
 ---

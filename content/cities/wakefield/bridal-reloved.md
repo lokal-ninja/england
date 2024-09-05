@@ -1,5 +1,5 @@
 ---
 title: "Bridal Reloved"
 url: /wakefield/bridal-reloved/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mint"
 url: /barnsley/mint/
-shop: beauty
+shop: Kosmetik
 ---

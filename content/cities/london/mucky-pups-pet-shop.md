@@ -1,5 +1,5 @@
 ---
 title: "Mucky Pups Pet Shop"
 url: /london/mucky-pups-pet-shop/
-shop: pet
+shop: Tiere
 ---

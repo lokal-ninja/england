@@ -1,5 +1,5 @@
 ---
 title: "Sandhurst Supermarket"
 url: /london/sandhurst-supermarket/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Screwfix"
 url: /dover/screwfix/
-shop: doityourself
+shop: Baumarkt
 ---

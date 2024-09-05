@@ -1,5 +1,5 @@
 ---
 title: "Dobson's Convience Store"
 url: /billingborough/dobsons-convience-store/
-shop: convenience
+shop: Lebensmittel
 ---

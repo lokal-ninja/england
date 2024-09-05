@@ -1,5 +1,5 @@
 ---
 title: "Co-op Food"
 url: /london/co-op-food-kimmeridge-road/
-shop: supermarket
+shop: Supermarkt
 ---

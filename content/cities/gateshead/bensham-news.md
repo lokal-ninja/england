@@ -1,5 +1,5 @@
 ---
 title: "Bensham News"
 url: /gateshead/bensham-news/
-shop: newsagent
+shop: Zeitungen
 ---

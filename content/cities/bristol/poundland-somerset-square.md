@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /bristol/poundland-somerset-square/
-shop: variety store
+shop: Kramladen
 ---

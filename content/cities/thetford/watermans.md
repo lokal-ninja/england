@@ -1,5 +1,5 @@
 ---
 title: "Waterman's"
 url: /thetford/watermans/
-shop: jewelry
+shop: Schmuck
 ---

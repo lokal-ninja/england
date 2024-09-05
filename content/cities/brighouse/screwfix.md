@@ -1,5 +1,5 @@
 ---
 title: "Screwfix"
 url: /brighouse/screwfix/
-shop: doityourself
+shop: Baumarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Beaverbrooks"
 url: /exeter/beaverbrooks/
-shop: jewelry
+shop: Schmuck
 ---

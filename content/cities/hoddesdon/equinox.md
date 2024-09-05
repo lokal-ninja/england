@@ -1,5 +1,5 @@
 ---
 title: "Equinox"
 url: /hoddesdon/equinox/
-shop: jewelry
+shop: Schmuck
 ---

@@ -1,5 +1,5 @@
 ---
 title: "David Clulow"
 url: /cobham/david-clulow/
-shop: optician
+shop: Optiker
 ---

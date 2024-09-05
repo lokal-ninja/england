@@ -1,5 +1,5 @@
 ---
 title: "Illustrate"
 url: /bristol/illustrate/
-shop: clothes
+shop: Kleidung
 ---

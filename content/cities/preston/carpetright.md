@@ -1,5 +1,5 @@
 ---
 title: "Carpetright"
 url: /preston/carpetright/
-shop: carpet
+shop: Teppiche
 ---

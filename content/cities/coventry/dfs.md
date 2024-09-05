@@ -1,5 +1,5 @@
 ---
 title: "DFS"
 url: /coventry/dfs/
-shop: furniture
+shop: Möbel
 ---

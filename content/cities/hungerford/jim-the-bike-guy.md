@@ -1,5 +1,5 @@
 ---
 title: "Jim The Bike Guy"
 url: /hungerford/jim-the-bike-guy/
-shop: shop
+shop: Allgemein
 ---

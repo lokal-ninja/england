@@ -1,5 +1,5 @@
 ---
 title: "Nomi"
 url: /birmingham/nomi/
-shop: hairdresser
+shop: Friseur
 ---

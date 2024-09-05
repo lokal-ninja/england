@@ -1,5 +1,5 @@
 ---
 title: "Ablefit"
 url: /bristol/ablefit/
-shop: tyres
+shop: Reifen
 ---

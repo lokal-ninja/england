@@ -1,5 +1,5 @@
 ---
 title: "Ocean Isabella"
 url: /sidcup/ocean-isabella/
-shop: clothes
+shop: Kleidung
 ---

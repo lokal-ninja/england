@@ -1,5 +1,5 @@
 ---
 title: "Rathbones"
 url: /keswick/rathbones/
-shop: outdoor
+shop: Outdoor
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Camis"
 url: /ashford/camis/
-shop: hairdresser
+shop: Friseur
 ---

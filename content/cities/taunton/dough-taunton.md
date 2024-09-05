@@ -1,5 +1,5 @@
 ---
 title: "Dough Taunton"
 url: /taunton/dough-taunton/
-shop: bakery
+shop: Bäckerei
 ---

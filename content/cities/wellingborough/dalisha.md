@@ -1,5 +1,5 @@
 ---
 title: "Dalisha"
 url: /wellingborough/dalisha/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pidcock"
 url: /nottingham/pidcock/
-shop: motorcycle
+shop: Motorrad
 ---

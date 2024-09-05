@@ -1,5 +1,5 @@
 ---
 title: "CeX"
 url: /barnstaple/cex/
-shop: electronics
+shop: Elektronik
 ---

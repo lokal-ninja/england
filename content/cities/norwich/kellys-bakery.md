@@ -1,5 +1,5 @@
 ---
 title: "Kelly's Bakery"
 url: /norwich/kellys-bakery/
-shop: bakery
+shop: Bäckerei
 ---

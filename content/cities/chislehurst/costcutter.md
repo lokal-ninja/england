@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /chislehurst/costcutter/
-shop: convenience
+shop: Lebensmittel
 ---

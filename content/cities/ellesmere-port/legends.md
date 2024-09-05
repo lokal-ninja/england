@@ -1,5 +1,5 @@
 ---
 title: "Legends"
 url: /ellesmere-port/legends/
-shop: shop
+shop: Allgemein
 ---

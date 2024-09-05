@@ -1,5 +1,5 @@
 ---
 title: "Sandlings"
 url: /leiston/sandlings/
-shop: shop
+shop: Allgemein
 ---

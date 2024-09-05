@@ -1,5 +1,5 @@
 ---
 title: "FLANNELS"
 url: /southport/flannels/
-shop: clothes
+shop: Kleidung
 ---

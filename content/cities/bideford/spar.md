@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /bideford/spar/
-shop: convenience
+shop: Lebensmittel
 ---

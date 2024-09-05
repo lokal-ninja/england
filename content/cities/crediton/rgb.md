@@ -1,5 +1,5 @@
 ---
 title: "RGB"
 url: /crediton/rgb/
-shop: shop
+shop: Allgemein
 ---

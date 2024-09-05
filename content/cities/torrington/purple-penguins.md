@@ -1,5 +1,5 @@
 ---
 title: "Purple Penguins"
 url: /torrington/purple-penguins/
-shop: jewelry
+shop: Schmuck
 ---

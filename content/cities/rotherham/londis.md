@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /rotherham/londis/
-shop: convenience
+shop: Lebensmittel
 ---

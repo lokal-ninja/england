@@ -1,5 +1,5 @@
 ---
 title: "Mercury Newshop"
 url: /leicester/mercury-newshop/
-shop: newsagent
+shop: Zeitungen
 ---

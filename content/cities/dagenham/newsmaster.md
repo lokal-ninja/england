@@ -1,5 +1,5 @@
 ---
 title: "Newsmaster"
 url: /dagenham/newsmaster/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tommy Barker"
 url: /cowes/tommy-barker/
-shop: pet
+shop: Tiere
 ---

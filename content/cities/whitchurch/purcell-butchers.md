@@ -1,5 +1,5 @@
 ---
 title: "Purcell Butchers"
 url: /whitchurch/purcell-butchers/
-shop: butcher
+shop: Metzgerei
 ---

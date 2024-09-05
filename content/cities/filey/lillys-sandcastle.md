@@ -1,5 +1,5 @@
 ---
 title: "Lilly’s Sandcastle"
 url: /filey/lillys-sandcastle/
-shop: gift
+shop: Andenken
 ---

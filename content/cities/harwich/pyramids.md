@@ -1,5 +1,5 @@
 ---
 title: "Pyramids"
 url: /harwich/pyramids/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Regenerage"
 url: /preston/regenerage/
-shop: charity
+shop: Gebrauchtwaren
 ---

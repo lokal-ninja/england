@@ -1,5 +1,5 @@
 ---
 title: "Linley"
 url: /london/linley/
-shop: furniture
+shop: Möbel
 ---

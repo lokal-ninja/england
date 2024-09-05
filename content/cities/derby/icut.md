@@ -1,5 +1,5 @@
 ---
 title: "iCut"
 url: /derby/icut/
-shop: hairdresser
+shop: Friseur
 ---

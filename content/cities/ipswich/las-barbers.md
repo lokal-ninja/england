@@ -1,5 +1,5 @@
 ---
 title: "Las Barber's"
 url: /ipswich/las-barbers/
-shop: hairdresser
+shop: Friseur
 ---

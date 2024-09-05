@@ -1,5 +1,5 @@
 ---
 title: "Nuttalls"
 url: /bolton/nuttalls/
-shop: bakery
+shop: Bäckerei
 ---

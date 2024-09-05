@@ -1,5 +1,5 @@
 ---
 title: "Kala"
 url: /worksop/kala/
-shop: hairdresser
+shop: Friseur
 ---

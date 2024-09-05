@@ -1,5 +1,5 @@
 ---
 title: "Morrisons Daily"
 url: /hove/morrisons-daily/
-shop: convenience
+shop: Lebensmittel
 ---

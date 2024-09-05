@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /accrington/spar/
-shop: convenience
+shop: Lebensmittel
 ---

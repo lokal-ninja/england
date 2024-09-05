@@ -1,5 +1,5 @@
 ---
 title: "Headquarter"
 url: /london/headquarter/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sam’s Convenience Store"
 url: /hebburn/sams-convenience-store/
-shop: convenience
+shop: Lebensmittel
 ---

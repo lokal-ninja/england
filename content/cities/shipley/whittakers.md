@@ -1,5 +1,5 @@
 ---
 title: "Whittakers"
 url: /shipley/whittakers/
-shop: clothes
+shop: Kleidung
 ---

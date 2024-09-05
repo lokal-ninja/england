@@ -1,5 +1,5 @@
 ---
 title: "Retreat"
 url: /brighouse/retreat/
-shop: beauty
+shop: Kosmetik
 ---

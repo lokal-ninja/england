@@ -1,5 +1,5 @@
 ---
 title: "Royal Vapes"
 url: /kenilworth/royal-vapes/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

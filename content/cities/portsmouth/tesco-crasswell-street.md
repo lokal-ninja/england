@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /portsmouth/tesco-crasswell-street/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Halan Grocers"
 url: /sheffield/halan-grocers/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

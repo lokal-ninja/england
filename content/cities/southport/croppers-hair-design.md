@@ -1,5 +1,5 @@
 ---
 title: "Croppers Hair Design"
 url: /southport/croppers-hair-design/
-shop: hairdresser
+shop: Friseur
 ---

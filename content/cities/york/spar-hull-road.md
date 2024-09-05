@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /york/spar-hull-road/
-shop: convenience
+shop: Lebensmittel
 ---

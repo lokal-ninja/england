@@ -1,5 +1,5 @@
 ---
 title: "Freshair"
 url: /southampton/freshair/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cardew and Co"
 url: /oxford/cardew-and-co/
-shop: coffee
+shop: Kaffee
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sabino's"
 url: /sheffield/sabinos/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Harvest"
 url: /bristol/harvest/
-shop: supermarket
+shop: Supermarkt
 ---

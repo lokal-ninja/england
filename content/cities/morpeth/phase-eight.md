@@ -1,5 +1,5 @@
 ---
 title: "Phase Eight"
 url: /morpeth/phase-eight/
-shop: clothes
+shop: Kleidung
 ---

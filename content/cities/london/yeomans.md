@@ -1,5 +1,5 @@
 ---
 title: "Yeomans"
 url: /london/yeomans/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

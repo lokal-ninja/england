@@ -1,5 +1,5 @@
 ---
 title: "Oliver Bonas"
 url: /oxford/oliver-bonas-banbury-road/
-shop: clothes
+shop: Kleidung
 ---

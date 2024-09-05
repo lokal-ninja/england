@@ -1,5 +1,5 @@
 ---
 title: "Tidal Vape"
 url: /weymouth/tidal-vape/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

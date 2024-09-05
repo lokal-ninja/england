@@ -1,5 +1,5 @@
 ---
 title: "Curtis"
 url: /wisbech/curtis/
-shop: butcher
+shop: Metzgerei
 ---

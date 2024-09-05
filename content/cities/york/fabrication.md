@@ -1,5 +1,5 @@
 ---
 title: "Fabrication"
 url: /york/fabrication/
-shop: craft
+shop: Basteln
 ---

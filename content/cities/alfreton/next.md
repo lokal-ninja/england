@@ -1,5 +1,5 @@
 ---
 title: "Next"
 url: /alfreton/next/
-shop: clothes
+shop: Kleidung
 ---

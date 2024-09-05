@@ -1,5 +1,5 @@
 ---
 title: "Pose"
 url: /manchester/pose/
-shop: wholesale
+shop: Großhandel
 ---

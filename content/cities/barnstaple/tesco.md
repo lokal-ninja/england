@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /barnstaple/tesco/
-shop: supermarket
+shop: Supermarkt
 ---

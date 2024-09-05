@@ -1,5 +1,5 @@
 ---
 title: "Skinspace"
 url: /london/skinspace/
-shop: beauty
+shop: Kosmetik
 ---

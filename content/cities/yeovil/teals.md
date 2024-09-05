@@ -1,5 +1,5 @@
 ---
 title: "Teals"
 url: /yeovil/teals/
-shop: farm
+shop: Hofladen
 ---

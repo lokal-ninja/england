@@ -1,5 +1,5 @@
 ---
 title: "Duck and Dive"
 url: /shipley/duck-and-dive/
-shop: diving
+shop: Tauchen
 ---

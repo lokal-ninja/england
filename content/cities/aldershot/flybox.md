@@ -1,5 +1,5 @@
 ---
 title: "FlyBox"
 url: /aldershot/flybox/
-shop: convenience
+shop: Lebensmittel
 ---

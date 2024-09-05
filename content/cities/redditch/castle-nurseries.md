@@ -1,5 +1,5 @@
 ---
 title: "Castle Nurseries"
 url: /redditch/castle-nurseries/
-shop: garden centre
+shop: Garten-Center
 ---

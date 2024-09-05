@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /penrith/ladbrokes/
-shop: bookmaker
+shop: Wettbüro
 ---

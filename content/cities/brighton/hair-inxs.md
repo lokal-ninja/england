@@ -1,5 +1,5 @@
 ---
 title: "Hair InXs"
 url: /brighton/hair-inxs/
-shop: shop
+shop: Allgemein
 ---

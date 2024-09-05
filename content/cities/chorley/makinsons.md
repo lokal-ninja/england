@@ -1,5 +1,5 @@
 ---
 title: "Makinsons"
 url: /chorley/makinsons/
-shop: convenience
+shop: Lebensmittel
 ---

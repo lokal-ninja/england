@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /portsmouth/premier/
-shop: convenience
+shop: Lebensmittel
 ---

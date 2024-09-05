@@ -1,5 +1,5 @@
 ---
 title: "Shoe Zone"
 url: /luton/shoe-zone/
-shop: shoes
+shop: Schuhe
 ---

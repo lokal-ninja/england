@@ -1,5 +1,5 @@
 ---
 title: "Sharps"
 url: /stevenage/sharps/
-shop: furniture
+shop: Möbel
 ---

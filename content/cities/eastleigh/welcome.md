@@ -1,5 +1,5 @@
 ---
 title: "Welcome"
 url: /eastleigh/welcome/
-shop: convenience
+shop: Lebensmittel
 ---

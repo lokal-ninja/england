@@ -1,5 +1,5 @@
 ---
 title: "Oriental Remedy"
 url: /london/oriental-remedy/
-shop: herbalist
+shop: Kräuter
 ---

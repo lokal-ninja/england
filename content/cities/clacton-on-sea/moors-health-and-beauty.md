@@ -1,5 +1,5 @@
 ---
 title: "Moors Health and Beauty"
 url: /clacton-on-sea/moors-health-and-beauty/
-shop: health
+shop: Gesundheit
 ---

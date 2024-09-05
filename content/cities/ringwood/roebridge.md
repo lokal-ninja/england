@@ -1,5 +1,5 @@
 ---
 title: "Roebridge"
 url: /ringwood/roebridge/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

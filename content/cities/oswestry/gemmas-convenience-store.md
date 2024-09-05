@@ -1,5 +1,5 @@
 ---
 title: "Gemma's Convenience Store"
 url: /oswestry/gemmas-convenience-store/
-shop: convenience
+shop: Lebensmittel
 ---

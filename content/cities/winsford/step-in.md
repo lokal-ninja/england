@@ -1,5 +1,5 @@
 ---
 title: "Step In"
 url: /winsford/step-in/
-shop: shoes
+shop: Schuhe
 ---

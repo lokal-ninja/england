@@ -1,5 +1,5 @@
 ---
 title: "Trinity Hospice"
 url: /poulton-le-fylde/trinity-hospice/
-shop: charity
+shop: Gebrauchtwaren
 ---

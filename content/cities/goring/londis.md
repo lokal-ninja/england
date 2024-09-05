@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /goring/londis/
-shop: convenience
+shop: Lebensmittel
 ---

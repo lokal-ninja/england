@@ -1,5 +1,5 @@
 ---
 title: "Park Road Store"
 url: /stanley/park-road-store/
-shop: convenience
+shop: Lebensmittel
 ---

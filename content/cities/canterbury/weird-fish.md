@@ -1,5 +1,5 @@
 ---
 title: "Weird Fish"
 url: /canterbury/weird-fish/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Merry Meats"
 url: /yapton-arundel/merry-meats/
-shop: butcher
+shop: Metzgerei
 ---

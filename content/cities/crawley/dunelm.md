@@ -1,5 +1,5 @@
 ---
 title: "Dunelm"
 url: /crawley/dunelm/
-shop: fabric
+shop: Textil
 ---

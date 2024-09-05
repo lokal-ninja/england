@@ -1,5 +1,5 @@
 ---
 title: "Jollyes"
 url: /salford/jollyes/
-shop: pet
+shop: Tiere
 ---

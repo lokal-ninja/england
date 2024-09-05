@@ -1,5 +1,5 @@
 ---
 title: "PACT"
 url: /norwich/pact/
-shop: charity
+shop: Gebrauchtwaren
 ---

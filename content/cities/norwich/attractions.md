@@ -1,5 +1,5 @@
 ---
 title: "Attractions"
 url: /norwich/attractions/
-shop: hairdresser
+shop: Friseur
 ---

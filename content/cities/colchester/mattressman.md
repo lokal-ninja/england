@@ -1,5 +1,5 @@
 ---
 title: "Mattressman"
 url: /colchester/mattressman/
-shop: bed
+shop: Betten
 ---

@@ -1,5 +1,5 @@
 ---
 title: "RSPCA"
 url: /derby/rspca/
-shop: pet
+shop: Tiere
 ---

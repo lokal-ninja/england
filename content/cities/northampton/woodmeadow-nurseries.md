@@ -1,5 +1,5 @@
 ---
 title: "Woodmeadow Nurseries"
 url: /northampton/woodmeadow-nurseries/
-shop: garden centre
+shop: Garten-Center
 ---

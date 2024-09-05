@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /colchester/aldi-cowdray-avenue/
-shop: supermarket
+shop: Supermarkt
 ---

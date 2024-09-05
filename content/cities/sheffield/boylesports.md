@@ -1,5 +1,5 @@
 ---
 title: "BoyleSports"
 url: /sheffield/boylesports/
-shop: bookmaker
+shop: Wettbüro
 ---

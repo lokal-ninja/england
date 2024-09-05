@@ -1,5 +1,5 @@
 ---
 title: "Office"
 url: /bath/office/
-shop: shoes
+shop: Schuhe
 ---

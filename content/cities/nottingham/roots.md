@@ -1,5 +1,5 @@
 ---
 title: "Roots"
 url: /nottingham/roots/
-shop: gift
+shop: Andenken
 ---

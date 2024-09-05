@@ -1,5 +1,5 @@
 ---
 title: "CeX"
 url: /scunthorpe/cex/
-shop: electronics
+shop: Elektronik
 ---

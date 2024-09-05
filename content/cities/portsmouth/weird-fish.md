@@ -1,5 +1,5 @@
 ---
 title: "Weird Fish"
 url: /portsmouth/weird-fish/
-shop: clothes
+shop: Kleidung
 ---

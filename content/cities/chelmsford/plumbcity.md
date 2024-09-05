@@ -1,5 +1,5 @@
 ---
 title: "Plumbcity"
 url: /chelmsford/plumbcity/
-shop: trade
+shop: Baustoffe
 ---

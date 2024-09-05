@@ -1,5 +1,5 @@
 ---
 title: "Rigbys Barbers"
 url: /andover/rigbys-barbers/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Thorntons"
 url: /swindon/thorntons/
-shop: confectionery
+shop: Süßwaren
 ---

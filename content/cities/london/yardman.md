@@ -1,5 +1,5 @@
 ---
 title: "Yardman"
 url: /london/yardman/
-shop: butcher
+shop: Metzgerei
 ---

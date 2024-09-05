@@ -1,5 +1,5 @@
 ---
 title: "Oxford Vapours"
 url: /witney/oxford-vapours/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

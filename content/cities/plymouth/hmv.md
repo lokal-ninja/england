@@ -1,5 +1,5 @@
 ---
 title: "HMV"
 url: /plymouth/hmv/
-shop: music
+shop: Musik
 ---

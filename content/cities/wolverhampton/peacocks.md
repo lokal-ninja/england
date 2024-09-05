@@ -1,5 +1,5 @@
 ---
 title: "Peacocks"
 url: /wolverhampton/peacocks/
-shop: clothes
+shop: Kleidung
 ---

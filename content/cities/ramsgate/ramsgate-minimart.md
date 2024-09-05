@@ -1,5 +1,5 @@
 ---
 title: "Ramsgate Minimart"
 url: /ramsgate/ramsgate-minimart/
-shop: convenience
+shop: Lebensmittel
 ---

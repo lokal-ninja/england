@@ -1,5 +1,5 @@
 ---
 title: "Saint Peter's Hospice Shop"
 url: /bristol/saint-peters-hospice-shop-westbury-hill/
-shop: charity
+shop: Gebrauchtwaren
 ---

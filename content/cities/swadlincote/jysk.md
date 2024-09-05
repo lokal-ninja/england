@@ -1,5 +1,5 @@
 ---
 title: "JYSK"
 url: /swadlincote/jysk/
-shop: furniture
+shop: Möbel
 ---

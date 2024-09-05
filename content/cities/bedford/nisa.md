@@ -1,5 +1,5 @@
 ---
 title: "Nisa"
 url: /bedford/nisa/
-shop: convenience
+shop: Lebensmittel
 ---

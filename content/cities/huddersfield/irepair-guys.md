@@ -1,5 +1,5 @@
 ---
 title: "iRepair Guys"
 url: /huddersfield/irepair-guys/
-shop: mobile phone
+shop: Handy
 ---

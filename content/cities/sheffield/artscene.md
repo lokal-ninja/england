@@ -1,5 +1,5 @@
 ---
 title: "Artscene"
 url: /sheffield/artscene/
-shop: craft
+shop: Basteln
 ---

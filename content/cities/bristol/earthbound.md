@@ -1,5 +1,5 @@
 ---
 title: "Earthbound"
 url: /bristol/earthbound/
-shop: supermarket
+shop: Supermarkt
 ---

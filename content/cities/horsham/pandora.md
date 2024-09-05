@@ -1,5 +1,5 @@
 ---
 title: "Pandora"
 url: /horsham/pandora/
-shop: jewelry
+shop: Schmuck
 ---

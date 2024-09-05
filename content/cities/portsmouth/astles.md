@@ -1,5 +1,5 @@
 ---
 title: "Astles"
 url: /portsmouth/astles/
-shop: butcher
+shop: Metzgerei
 ---

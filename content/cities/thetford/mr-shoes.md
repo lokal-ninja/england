@@ -1,5 +1,5 @@
 ---
 title: "Mr Shoes"
 url: /thetford/mr-shoes/
-shop: shoes
+shop: Schuhe
 ---

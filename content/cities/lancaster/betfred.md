@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /lancaster/betfred/
-shop: bookmaker
+shop: Wettbüro
 ---

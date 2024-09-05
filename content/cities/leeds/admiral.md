@@ -1,5 +1,5 @@
 ---
 title: "Admiral"
 url: /leeds/admiral/
-shop: shop
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sense"
 url: /pontefract/sense/
-shop: charity
+shop: Gebrauchtwaren
 ---

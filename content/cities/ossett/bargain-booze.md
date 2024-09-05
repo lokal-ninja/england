@@ -1,5 +1,5 @@
 ---
 title: "Bargain Booze"
 url: /ossett/bargain-booze/
-shop: alcohol
+shop: Spirituosen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Majestic"
 url: /wootton/majestic/
-shop: alcohol
+shop: Spirituosen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Emmaus"
 url: /purley/emmaus/
-shop: charity
+shop: Gebrauchtwaren
 ---

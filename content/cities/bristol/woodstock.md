@@ -1,5 +1,5 @@
 ---
 title: "Woodstock"
 url: /bristol/woodstock/
-shop: furniture
+shop: Möbel
 ---

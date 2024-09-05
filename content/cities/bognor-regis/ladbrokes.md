@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /bognor-regis/ladbrokes/
-shop: bookmaker
+shop: Wettbüro
 ---

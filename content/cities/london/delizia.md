@@ -1,5 +1,5 @@
 ---
 title: "Delizia"
 url: /london/delizia/
-shop: deli
+shop: Feinkost
 ---

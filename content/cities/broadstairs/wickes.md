@@ -1,5 +1,5 @@
 ---
 title: "Wickes"
 url: /broadstairs/wickes/
-shop: doityourself
+shop: Baumarkt
 ---

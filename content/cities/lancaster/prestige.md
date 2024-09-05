@@ -1,5 +1,5 @@
 ---
 title: "Prestige"
 url: /lancaster/prestige/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "RSPCA"
 url: /whitstable/rspca/
-shop: charity
+shop: Gebrauchtwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Radley London"
 url: /leeds/radley-london/
-shop: boutique
+shop: Modehaus
 ---

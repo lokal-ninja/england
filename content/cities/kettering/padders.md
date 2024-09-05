@@ -1,5 +1,5 @@
 ---
 title: "Padders"
 url: /kettering/padders/
-shop: shoes
+shop: Schuhe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Curfew Grooming"
 url: /london/curfew-grooming/
-shop: hairdresser
+shop: Friseur
 ---

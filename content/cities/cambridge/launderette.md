@@ -1,5 +1,5 @@
 ---
 title: "Launderette"
 url: /cambridge/launderette/
-shop: laundry
+shop: Wäscherei
 ---

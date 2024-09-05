@@ -1,5 +1,5 @@
 ---
 title: "Harpers"
 url: /luton/harpers/
-shop: butcher
+shop: Metzgerei
 ---

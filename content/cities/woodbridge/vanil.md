@@ -1,5 +1,5 @@
 ---
 title: "Vanil"
 url: /woodbridge/vanil/
-shop: interior decoration
+shop: Raumausstattung
 ---

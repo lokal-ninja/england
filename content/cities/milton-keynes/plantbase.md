@@ -1,5 +1,5 @@
 ---
 title: "Plantbase"
 url: /milton-keynes/plantbase/
-shop: supermarket
+shop: Supermarkt
 ---

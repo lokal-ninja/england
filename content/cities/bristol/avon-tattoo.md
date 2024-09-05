@@ -1,5 +1,5 @@
 ---
 title: "Avon Tattoo"
 url: /bristol/avon-tattoo/
-shop: tattoo
+shop: Tattoo
 ---

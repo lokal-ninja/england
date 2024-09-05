@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /leeds/whsmith-whitehouse-lane/
-shop: newsagent
+shop: Zeitungen
 ---

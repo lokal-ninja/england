@@ -1,5 +1,5 @@
 ---
 title: "Woolgar"
 url: /richmond/woolgar/
-shop: curtain
+shop: Gardinen
 ---

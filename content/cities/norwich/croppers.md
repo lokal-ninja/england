@@ -1,5 +1,5 @@
 ---
 title: "Croppers"
 url: /norwich/croppers/
-shop: hairdresser
+shop: Friseur
 ---

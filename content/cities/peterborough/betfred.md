@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /peterborough/betfred/
-shop: bookmaker
+shop: Wettbüro
 ---

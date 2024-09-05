@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /sheffield/aldi-handsworth-road/
-shop: supermarket
+shop: Supermarkt
 ---

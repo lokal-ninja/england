@@ -1,5 +1,5 @@
 ---
 title: "Gilbert's"
 url: /portsmouth/gilberts/
-shop: confectionery
+shop: Süßwaren
 ---

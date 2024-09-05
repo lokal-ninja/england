@@ -1,5 +1,5 @@
 ---
 title: "Stop And Shop"
 url: /newcastle-upon-tyne/stop-and-shop/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Castle Galleries"
 url: /reading/castle-galleries/
-shop: art
+shop: Kunst
 ---

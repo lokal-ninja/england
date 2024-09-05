@@ -1,5 +1,5 @@
 ---
 title: "Karen Williams Hair"
 url: /midhurst/karen-williams-hair/
-shop: hairdresser
+shop: Friseur
 ---

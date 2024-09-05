@@ -1,5 +1,5 @@
 ---
 title: "UK Tyres"
 url: /leigh/uk-tyres/
-shop: tyres
+shop: Reifen
 ---

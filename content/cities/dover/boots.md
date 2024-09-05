@@ -1,5 +1,5 @@
 ---
 title: "Boots"
 url: /dover/boots/
-shop: chemist
+shop: Drogerie
 ---

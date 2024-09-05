@@ -1,5 +1,5 @@
 ---
 title: "Tapi Carpets"
 url: /cambridge/tapi-carpets/
-shop: carpet
+shop: Teppiche
 ---

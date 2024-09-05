@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /london/londis-old-kent-road/
-shop: convenience
+shop: Lebensmittel
 ---

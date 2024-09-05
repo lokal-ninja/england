@@ -1,5 +1,5 @@
 ---
 title: "7 Hills"
 url: /sheffield/7-hills/
-shop: convenience
+shop: Lebensmittel
 ---

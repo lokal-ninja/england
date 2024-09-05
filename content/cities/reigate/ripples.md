@@ -1,5 +1,5 @@
 ---
 title: "Ripples"
 url: /reigate/ripples/
-shop: bathroom
+shop: Badezimmer
 ---

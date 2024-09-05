@@ -1,5 +1,5 @@
 ---
 title: "Carpetland"
 url: /banbury/carpetland/
-shop: carpet
+shop: Teppiche
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /lymm/londis/
-shop: convenience
+shop: Lebensmittel
 ---

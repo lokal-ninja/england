@@ -1,5 +1,5 @@
 ---
 title: "Tate"
 url: /ipswich/tate/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /stapleford/spar/
-shop: convenience
+shop: Lebensmittel
 ---

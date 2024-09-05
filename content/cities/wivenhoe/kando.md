@@ -1,5 +1,5 @@
 ---
 title: "Kando"
 url: /wivenhoe/kando/
-shop: convenience
+shop: Lebensmittel
 ---

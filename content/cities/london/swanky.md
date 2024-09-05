@@ -1,5 +1,5 @@
 ---
 title: "Swanky"
 url: /london/swanky/
-shop: beauty
+shop: Kosmetik
 ---

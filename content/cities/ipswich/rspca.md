@@ -1,5 +1,5 @@
 ---
 title: "RSPCA"
 url: /ipswich/rspca/
-shop: charity
+shop: Gebrauchtwaren
 ---

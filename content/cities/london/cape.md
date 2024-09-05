@@ -1,5 +1,5 @@
 ---
 title: "Cape"
 url: /london/cape/
-shop: charity
+shop: Gebrauchtwaren
 ---

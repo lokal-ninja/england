@@ -1,5 +1,5 @@
 ---
 title: "Sweeney Todd"
 url: /southport/sweeney-todd/
-shop: hairdresser
+shop: Friseur
 ---

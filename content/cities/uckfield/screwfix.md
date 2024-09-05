@@ -1,5 +1,5 @@
 ---
 title: "Screwfix"
 url: /uckfield/screwfix/
-shop: doityourself
+shop: Baumarkt
 ---

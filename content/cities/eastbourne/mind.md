@@ -1,5 +1,5 @@
 ---
 title: "Mind"
 url: /eastbourne/mind/
-shop: charity
+shop: Gebrauchtwaren
 ---

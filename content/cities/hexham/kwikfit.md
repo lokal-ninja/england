@@ -1,5 +1,5 @@
 ---
 title: "KwikFit"
 url: /hexham/kwikfit/
-shop: car repair
+shop: Autowerkstatt
 ---

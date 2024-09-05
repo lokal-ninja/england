@@ -1,5 +1,5 @@
 ---
 title: "Mysa"
 url: /ryde/mysa/
-shop: beauty
+shop: Kosmetik
 ---

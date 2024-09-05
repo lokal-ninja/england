@@ -1,5 +1,5 @@
 ---
 title: "Matalan"
 url: /consett/matalan/
-shop: clothes
+shop: Kleidung
 ---

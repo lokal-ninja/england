@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /sheffield/iceland-chesterfield-road/
-shop: frozen food
+shop: Tiefkühl
 ---

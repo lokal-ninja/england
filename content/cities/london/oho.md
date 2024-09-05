@@ -1,5 +1,5 @@
 ---
 title: "Oho"
 url: /london/oho/
-shop: convenience
+shop: Lebensmittel
 ---

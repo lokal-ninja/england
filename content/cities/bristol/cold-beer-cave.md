@@ -1,5 +1,5 @@
 ---
 title: "Cold Beer Cave"
 url: /bristol/cold-beer-cave/
-shop: alcohol
+shop: Spirituosen
 ---

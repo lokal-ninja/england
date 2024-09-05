@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /stowmarket/asda/
-shop: supermarket
+shop: Supermarkt
 ---

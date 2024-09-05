@@ -1,5 +1,5 @@
 ---
 title: "Vital"
 url: /taunton/vital/
-shop: hairdresser
+shop: Friseur
 ---

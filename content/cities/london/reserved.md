@@ -1,5 +1,5 @@
 ---
 title: "Reserved"
 url: /london/reserved/
-shop: clothes
+shop: Kleidung
 ---

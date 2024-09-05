@@ -1,5 +1,5 @@
 ---
 title: "Zaza"
 url: /richmond/zaza/
-shop: hairdresser
+shop: Friseur
 ---

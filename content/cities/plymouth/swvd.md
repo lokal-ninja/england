@@ -1,5 +1,5 @@
 ---
 title: "SWVD"
 url: /plymouth/swvd/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

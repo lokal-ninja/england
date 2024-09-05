@@ -1,5 +1,5 @@
 ---
 title: "Kings Cliffe Bakery"
 url: /peterborough/kings-cliffe-bakery/
-shop: bakery
+shop: Bäckerei
 ---

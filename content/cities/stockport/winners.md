@@ -1,5 +1,5 @@
 ---
 title: "Winners"
 url: /stockport/winners/
-shop: shop
+shop: Allgemein
 ---

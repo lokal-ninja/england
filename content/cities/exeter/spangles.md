@@ -1,5 +1,5 @@
 ---
 title: "Spangles"
 url: /exeter/spangles/
-shop: jewelry
+shop: Schmuck
 ---

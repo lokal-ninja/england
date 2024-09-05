@@ -1,5 +1,5 @@
 ---
 title: "Oxfam Bookshop"
 url: /london/oxfam-bookshop-bloomsbury-street/
-shop: books
+shop: Bücher
 ---

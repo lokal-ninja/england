@@ -1,5 +1,5 @@
 ---
 title: "Specsavers"
 url: /honiton/specsavers/
-shop: optician
+shop: Optiker
 ---

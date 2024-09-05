@@ -1,5 +1,5 @@
 ---
 title: "Hot Nails"
 url: /wallingford/hot-nails/
-shop: beauty
+shop: Kosmetik
 ---

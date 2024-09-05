@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /rainham/coral/
-shop: bookmaker
+shop: Wettbüro
 ---

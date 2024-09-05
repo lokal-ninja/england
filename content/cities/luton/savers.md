@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /luton/savers/
-shop: chemist
+shop: Drogerie
 ---

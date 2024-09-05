@@ -1,5 +1,5 @@
 ---
 title: "Next"
 url: /barnsley/next/
-shop: clothes
+shop: Kleidung
 ---

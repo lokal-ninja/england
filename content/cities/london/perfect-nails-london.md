@@ -1,5 +1,5 @@
 ---
 title: "Perfect Nails London"
 url: /london/perfect-nails-london/
-shop: beauty
+shop: Kosmetik
 ---

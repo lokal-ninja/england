@@ -1,5 +1,5 @@
 ---
 title: "AMK"
 url: /huddersfield/amk/
-shop: furniture
+shop: Möbel
 ---

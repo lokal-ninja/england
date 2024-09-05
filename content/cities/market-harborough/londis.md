@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /market-harborough/londis/
-shop: convenience
+shop: Lebensmittel
 ---

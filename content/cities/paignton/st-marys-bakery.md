@@ -1,5 +1,5 @@
 ---
 title: "St. Mary's Bakery"
 url: /paignton/st-marys-bakery/
-shop: bakery
+shop: Bäckerei
 ---

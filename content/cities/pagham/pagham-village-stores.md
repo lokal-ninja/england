@@ -1,5 +1,5 @@
 ---
 title: "Pagham Village Stores"
 url: /pagham/pagham-village-stores/
-shop: convenience
+shop: Lebensmittel
 ---

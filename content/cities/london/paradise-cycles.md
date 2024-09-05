@@ -1,5 +1,5 @@
 ---
 title: "Paradise Cycles"
 url: /london/paradise-cycles/
-shop: bicycle
+shop: Fahrrad
 ---

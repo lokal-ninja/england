@@ -1,5 +1,5 @@
 ---
 title: "#Barbers"
 url: /sheffield/barbers/
-shop: hairdresser
+shop: Friseur
 ---

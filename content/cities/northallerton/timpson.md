@@ -1,5 +1,5 @@
 ---
 title: "Timpson"
 url: /northallerton/timpson/
-shop: locksmith
+shop: Schlüsseldienst
 ---

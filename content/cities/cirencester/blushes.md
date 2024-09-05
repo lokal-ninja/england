@@ -1,5 +1,5 @@
 ---
 title: "Blushes"
 url: /cirencester/blushes/
-shop: hairdresser
+shop: Friseur
 ---

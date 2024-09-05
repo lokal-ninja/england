@@ -1,5 +1,5 @@
 ---
 title: "Grimshaw"
 url: /london/grimshaw/
-shop: shop
+shop: Allgemein
 ---

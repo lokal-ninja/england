@@ -1,5 +1,5 @@
 ---
 title: "Poundbakery"
 url: /leigh/poundbakery/
-shop: bakery
+shop: Bäckerei
 ---

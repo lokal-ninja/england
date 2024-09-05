@@ -1,5 +1,5 @@
 ---
 title: "River Island"
 url: /corby/river-island/
-shop: clothes
+shop: Kleidung
 ---

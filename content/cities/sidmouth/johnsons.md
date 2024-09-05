@@ -1,5 +1,5 @@
 ---
 title: "Johnsons"
 url: /sidmouth/johnsons/
-shop: laundry
+shop: Wäscherei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sharps"
 url: /altrincham/sharps/
-shop: furniture
+shop: Möbel
 ---

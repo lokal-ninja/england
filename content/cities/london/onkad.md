@@ -1,5 +1,5 @@
 ---
 title: "Onkad"
 url: /london/onkad/
-shop: convenience
+shop: Lebensmittel
 ---

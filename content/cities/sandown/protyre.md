@@ -1,5 +1,5 @@
 ---
 title: "Protyre"
 url: /sandown/protyre/
-shop: tyres
+shop: Reifen
 ---

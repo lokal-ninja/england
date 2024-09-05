@@ -1,5 +1,5 @@
 ---
 title: "Better Health Bikes"
 url: /london/better-health-bikes/
-shop: bicycle
+shop: Fahrrad
 ---

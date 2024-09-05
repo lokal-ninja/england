@@ -1,5 +1,5 @@
 ---
 title: "Omegahause"
 url: /london/omegahause/
-shop: copyshop
+shop: Kopieren
 ---

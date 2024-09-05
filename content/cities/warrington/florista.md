@@ -1,5 +1,5 @@
 ---
 title: "Florista"
 url: /warrington/florista/
-shop: florist
+shop: Blumen
 ---

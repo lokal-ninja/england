@@ -1,5 +1,5 @@
 ---
 title: "Hirebase"
 url: /ipswich/hirebase/
-shop: tools
+shop: Werkzeuge
 ---

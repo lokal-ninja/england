@@ -1,5 +1,5 @@
 ---
 title: "Jewson"
 url: /gateshead/jewson/
-shop: trade
+shop: Baustoffe
 ---

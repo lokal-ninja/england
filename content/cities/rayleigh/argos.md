@@ -1,5 +1,5 @@
 ---
 title: "Argos"
 url: /rayleigh/argos/
-shop: catalogue
+shop: Katalog
 ---

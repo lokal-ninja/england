@@ -1,5 +1,5 @@
 ---
 title: "ScS"
 url: /cheltenham/scs/
-shop: furniture
+shop: Möbel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tanners"
 url: /bridgnorth/tanners/
-shop: wine
+shop: Wein
 ---

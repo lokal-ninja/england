@@ -1,5 +1,5 @@
 ---
 title: "Euronics"
 url: /sheerness/euronics/
-shop: electronics
+shop: Elektronik
 ---

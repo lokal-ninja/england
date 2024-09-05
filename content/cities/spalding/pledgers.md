@@ -1,5 +1,5 @@
 ---
 title: "Pledgers"
 url: /spalding/pledgers/
-shop: electronics
+shop: Elektronik
 ---

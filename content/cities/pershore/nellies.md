@@ -1,5 +1,5 @@
 ---
 title: "Nellies"
 url: /pershore/nellies/
-shop: fabric
+shop: Textil
 ---

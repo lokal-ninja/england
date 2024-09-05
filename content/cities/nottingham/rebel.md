@@ -1,5 +1,5 @@
 ---
 title: "Rebel"
 url: /nottingham/rebel/
-shop: clothes
+shop: Kleidung
 ---

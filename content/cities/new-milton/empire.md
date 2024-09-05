@@ -1,5 +1,5 @@
 ---
 title: "Empire"
 url: /new-milton/empire/
-shop: hairdresser
+shop: Friseur
 ---

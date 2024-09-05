@@ -1,5 +1,5 @@
 ---
 title: "Cheers"
 url: /southampton/cheers/
-shop: convenience
+shop: Lebensmittel
 ---

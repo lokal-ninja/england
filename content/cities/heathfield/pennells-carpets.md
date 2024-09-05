@@ -1,5 +1,5 @@
 ---
 title: "Pennells Carpets"
 url: /heathfield/pennells-carpets/
-shop: carpet
+shop: Teppiche
 ---

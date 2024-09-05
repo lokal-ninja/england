@@ -1,5 +1,5 @@
 ---
 title: "William Hill"
 url: /south-shields/william-hill-prince-edward-road/
-shop: bookmaker
+shop: Wettbüro
 ---

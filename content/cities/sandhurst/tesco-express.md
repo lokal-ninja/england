@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /sandhurst/tesco-express/
-shop: convenience
+shop: Lebensmittel
 ---

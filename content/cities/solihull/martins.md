@@ -1,5 +1,5 @@
 ---
 title: "Martin's"
 url: /solihull/martins/
-shop: newsagent
+shop: Zeitungen
 ---

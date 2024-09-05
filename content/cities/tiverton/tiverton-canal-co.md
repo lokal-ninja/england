@@ -1,5 +1,5 @@
 ---
 title: "Tiverton Canal Co"
 url: /tiverton/tiverton-canal-co/
-shop: ticket
+shop: Tickets
 ---

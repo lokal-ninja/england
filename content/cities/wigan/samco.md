@@ -1,5 +1,5 @@
 ---
 title: "Samco"
 url: /wigan/samco/
-shop: convenience
+shop: Lebensmittel
 ---

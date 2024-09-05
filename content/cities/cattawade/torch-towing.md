@@ -1,5 +1,5 @@
 ---
 title: "Torch Towing"
 url: /cattawade/torch-towing/
-shop: car repair
+shop: Autowerkstatt
 ---

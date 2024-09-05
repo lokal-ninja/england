@@ -1,5 +1,5 @@
 ---
 title: "PCRC"
 url: /nottingham/pcrc/
-shop: shop
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Raphael"
 url: /norwich/raphael/
-shop: jewelry
+shop: Schmuck
 ---

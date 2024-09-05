@@ -1,5 +1,5 @@
 ---
 title: "Evapo"
 url: /bromley/evapo/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

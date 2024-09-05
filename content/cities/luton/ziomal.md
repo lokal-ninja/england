@@ -1,5 +1,5 @@
 ---
 title: "Ziomal"
 url: /luton/ziomal/
-shop: convenience
+shop: Lebensmittel
 ---

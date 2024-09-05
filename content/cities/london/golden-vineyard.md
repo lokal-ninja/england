@@ -1,5 +1,5 @@
 ---
 title: "Golden Vineyard"
 url: /london/golden-vineyard/
-shop: convenience
+shop: Lebensmittel
 ---

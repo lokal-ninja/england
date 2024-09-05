@@ -1,5 +1,5 @@
 ---
 title: "Bespoke"
 url: /durham/bespoke/
-shop: gift
+shop: Andenken
 ---

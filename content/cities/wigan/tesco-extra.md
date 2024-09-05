@@ -1,5 +1,5 @@
 ---
 title: "Tesco Extra"
 url: /wigan/tesco-extra/
-shop: supermarket
+shop: Supermarkt
 ---

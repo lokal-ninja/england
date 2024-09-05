@@ -1,5 +1,5 @@
 ---
 title: "Bellissima"
 url: /sale/bellissima/
-shop: beauty
+shop: Kosmetik
 ---

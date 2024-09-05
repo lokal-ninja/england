@@ -1,5 +1,5 @@
 ---
 title: "Majestic"
 url: /exeter/majestic/
-shop: alcohol
+shop: Spirituosen
 ---

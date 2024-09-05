@@ -1,5 +1,5 @@
 ---
 title: "Specsavers"
 url: /hayes/specsavers/
-shop: optician
+shop: Optiker
 ---

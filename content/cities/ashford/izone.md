@@ -1,5 +1,5 @@
 ---
 title: "IZONE"
 url: /ashford/izone/
-shop: optician
+shop: Optiker
 ---

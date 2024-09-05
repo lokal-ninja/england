@@ -1,5 +1,5 @@
 ---
 title: "Hursts"
 url: /normanton/hursts/
-shop: convenience
+shop: Lebensmittel
 ---

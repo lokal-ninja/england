@@ -1,5 +1,5 @@
 ---
 title: "Expressions"
 url: /surbiton/expressions/
-shop: hairdresser
+shop: Friseur
 ---

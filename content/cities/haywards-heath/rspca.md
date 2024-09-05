@@ -1,5 +1,5 @@
 ---
 title: "RSPCA"
 url: /haywards-heath/rspca/
-shop: charity
+shop: Gebrauchtwaren
 ---

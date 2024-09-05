@@ -1,5 +1,5 @@
 ---
 title: "Hotel Chocolat"
 url: /ellesmere-port/hotel-chocolat/
-shop: confectionery
+shop: Süßwaren
 ---

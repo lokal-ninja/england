@@ -1,5 +1,5 @@
 ---
 title: "Shuttercraft"
 url: /sheffield/shuttercraft/
-shop: curtain
+shop: Gardinen
 ---

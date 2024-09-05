@@ -1,5 +1,5 @@
 ---
 title: "Cooperative Funeralcare"
 url: /havant/cooperative-funeralcare/
-shop: funeral directors
+shop: Bestattungen
 ---

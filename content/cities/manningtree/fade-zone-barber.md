@@ -1,5 +1,5 @@
 ---
 title: "Fade Zone Barber"
 url: /manningtree/fade-zone-barber/
-shop: hairdresser
+shop: Friseur
 ---

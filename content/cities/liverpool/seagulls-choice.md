@@ -1,5 +1,5 @@
 ---
 title: "Seagull's Choice"
 url: /liverpool/seagulls-choice/
-shop: seafood
+shop: Fisch
 ---

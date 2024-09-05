@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /wisbech/lidl/
-shop: supermarket
+shop: Supermarkt
 ---

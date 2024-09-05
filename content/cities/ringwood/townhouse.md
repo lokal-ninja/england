@@ -1,5 +1,5 @@
 ---
 title: "Townhouse"
 url: /ringwood/townhouse/
-shop: hairdresser
+shop: Friseur
 ---

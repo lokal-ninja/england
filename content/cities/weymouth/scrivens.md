@@ -1,5 +1,5 @@
 ---
 title: "Scrivens"
 url: /weymouth/scrivens/
-shop: optician
+shop: Optiker
 ---

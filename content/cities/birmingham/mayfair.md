@@ -1,5 +1,5 @@
 ---
 title: "Mayfair"
 url: /birmingham/mayfair/
-shop: pawnbroker
+shop: Leiher
 ---

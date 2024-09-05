@@ -1,5 +1,5 @@
 ---
 title: "Warhammer"
 url: /chelmsford/warhammer/
-shop: games
+shop: Spiele
 ---

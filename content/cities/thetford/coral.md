@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /thetford/coral/
-shop: bookmaker
+shop: Wettbüro
 ---

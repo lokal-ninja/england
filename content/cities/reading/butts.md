@@ -1,5 +1,5 @@
 ---
 title: "Butts"
 url: /reading/butts/
-shop: convenience
+shop: Lebensmittel
 ---

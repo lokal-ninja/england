@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /luton/ladbrokes-upper-george-street/
-shop: bookmaker
+shop: Wettbüro
 ---

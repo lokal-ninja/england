@@ -1,5 +1,5 @@
 ---
 title: "Clarks"
 url: /cirencester/clarks/
-shop: shoes
+shop: Schuhe
 ---

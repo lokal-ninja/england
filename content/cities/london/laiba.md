@@ -1,5 +1,5 @@
 ---
 title: "Laiba"
 url: /london/laiba/
-shop: beauty
+shop: Kosmetik
 ---

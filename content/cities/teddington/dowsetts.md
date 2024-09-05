@@ -1,5 +1,5 @@
 ---
 title: "Dowsetts"
 url: /teddington/dowsetts/
-shop: newsagent
+shop: Zeitungen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Burg"
 url: /nottingham/burg/
-shop: vacant
+shop: Leerstehend
 ---

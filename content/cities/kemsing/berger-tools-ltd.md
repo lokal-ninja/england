@@ -1,5 +1,5 @@
 ---
 title: "Berger Tools Ltd"
 url: /kemsing/berger-tools-ltd/
-shop: shop
+shop: Allgemein
 ---

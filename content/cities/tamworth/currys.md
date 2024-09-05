@@ -1,5 +1,5 @@
 ---
 title: "Currys"
 url: /tamworth/currys/
-shop: electronics
+shop: Elektronik
 ---

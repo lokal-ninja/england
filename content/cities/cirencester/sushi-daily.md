@@ -1,5 +1,5 @@
 ---
 title: "Sushi Daily"
 url: /cirencester/sushi-daily/
-shop: deli
+shop: Feinkost
 ---

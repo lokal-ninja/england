@@ -1,5 +1,5 @@
 ---
 title: "Lush"
 url: /nottingham/lush/
-shop: beauty
+shop: Kosmetik
 ---

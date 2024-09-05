@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /colchester/premier/
-shop: convenience
+shop: Lebensmittel
 ---

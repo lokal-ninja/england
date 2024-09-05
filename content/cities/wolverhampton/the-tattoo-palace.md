@@ -1,5 +1,5 @@
 ---
 title: "The Tattoo Palace"
 url: /wolverhampton/the-tattoo-palace/
-shop: tattoo
+shop: Tattoo
 ---

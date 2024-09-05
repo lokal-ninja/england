@@ -1,5 +1,5 @@
 ---
 title: "Jake Alexander"
 url: /runcorn/jake-alexander/
-shop: hairdresser
+shop: Friseur
 ---

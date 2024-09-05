@@ -1,5 +1,5 @@
 ---
 title: "Kapada"
 url: /swindon/kapada/
-shop: clothes
+shop: Kleidung
 ---

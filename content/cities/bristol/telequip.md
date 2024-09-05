@@ -1,5 +1,5 @@
 ---
 title: "Telequip"
 url: /bristol/telequip/
-shop: shop
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hearsall Superstore"
 url: /coventry/hearsall-superstore/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "West Dean Stores"
 url: /chichester/west-dean-stores/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Stellisons"
 url: /ipswich/stellisons/
-shop: electronics
+shop: Elektronik
 ---

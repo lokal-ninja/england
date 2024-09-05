@@ -1,5 +1,5 @@
 ---
 title: "Sundus"
 url: /birmingham/sundus/
-shop: convenience
+shop: Lebensmittel
 ---

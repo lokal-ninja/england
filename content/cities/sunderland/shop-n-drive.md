@@ -1,5 +1,5 @@
 ---
 title: "Shop 'n' Drive"
 url: /sunderland/shop-n-drive/
-shop: convenience
+shop: Lebensmittel
 ---

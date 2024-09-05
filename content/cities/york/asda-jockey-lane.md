@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /york/asda-jockey-lane/
-shop: supermarket
+shop: Supermarkt
 ---

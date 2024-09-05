@@ -1,5 +1,5 @@
 ---
 title: "Pennyplain"
 url: /exmouth/pennyplain/
-shop: clothes
+shop: Kleidung
 ---

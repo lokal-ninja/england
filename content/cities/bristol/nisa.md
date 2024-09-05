@@ -1,5 +1,5 @@
 ---
 title: "Nisa"
 url: /bristol/nisa/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Utobeer"
 url: /london/utobeer/
-shop: alcohol
+shop: Spirituosen
 ---

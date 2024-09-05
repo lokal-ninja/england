@@ -1,5 +1,5 @@
 ---
 title: "Baron Vapes"
 url: /newbury/baron-vapes/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

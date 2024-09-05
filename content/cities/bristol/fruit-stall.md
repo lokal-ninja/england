@@ -1,5 +1,5 @@
 ---
 title: "Fruit Stall"
 url: /bristol/fruit-stall/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

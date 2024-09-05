@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /swanage/betfred/
-shop: bookmaker
+shop: Wettbüro
 ---

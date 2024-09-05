@@ -1,5 +1,5 @@
 ---
 title: "Rush"
 url: /chelmsford/rush/
-shop: hairdresser
+shop: Friseur
 ---

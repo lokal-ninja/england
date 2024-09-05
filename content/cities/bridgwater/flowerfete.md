@@ -1,5 +1,5 @@
 ---
 title: "Flowerfete"
 url: /bridgwater/flowerfete/
-shop: florist
+shop: Blumen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /cirencester/londis/
-shop: convenience
+shop: Lebensmittel
 ---

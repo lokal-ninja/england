@@ -1,5 +1,5 @@
 ---
 title: "Primark"
 url: /hastings/primark/
-shop: clothes
+shop: Kleidung
 ---

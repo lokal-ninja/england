@@ -1,5 +1,5 @@
 ---
 title: "Mace"
 url: /spalding/mace/
-shop: convenience
+shop: Lebensmittel
 ---

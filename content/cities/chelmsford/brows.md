@@ -1,5 +1,5 @@
 ---
 title: "Brows"
 url: /chelmsford/brows/
-shop: beauty
+shop: Kosmetik
 ---

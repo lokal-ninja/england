@@ -1,5 +1,5 @@
 ---
 title: "Pure"
 url: /liverpool/pure/
-shop: beauty
+shop: Kosmetik
 ---

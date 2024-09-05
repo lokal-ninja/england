@@ -1,5 +1,5 @@
 ---
 title: "Tranquility"
 url: /kings-lynn/tranquility/
-shop: gift
+shop: Andenken
 ---

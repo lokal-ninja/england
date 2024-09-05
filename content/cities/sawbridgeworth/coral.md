@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /sawbridgeworth/coral/
-shop: bookmaker
+shop: Wettbüro
 ---

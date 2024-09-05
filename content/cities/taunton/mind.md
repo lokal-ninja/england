@@ -1,5 +1,5 @@
 ---
 title: "Mind"
 url: /taunton/mind/
-shop: charity
+shop: Gebrauchtwaren
 ---

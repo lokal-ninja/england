@@ -1,5 +1,5 @@
 ---
 title: "Morrisons Daily"
 url: /street/morrisons-daily/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /broadstairs/asda/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lets Goo Express"
 url: /london/lets-goo-express/
-shop: convenience
+shop: Lebensmittel
 ---

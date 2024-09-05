@@ -1,5 +1,5 @@
 ---
 title: "Timpson"
 url: /lowestoft/timpson/
-shop: locksmith
+shop: Schlüsseldienst
 ---

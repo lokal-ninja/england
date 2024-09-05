@@ -1,5 +1,5 @@
 ---
 title: "Boen"
 url: /london/boen/
-shop: flooring
+shop: Fußböden
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Deichmann"
 url: /truro/deichmann/
-shop: shoes
+shop: Schuhe
 ---

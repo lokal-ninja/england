@@ -1,5 +1,5 @@
 ---
 title: "Hospice Care Shop"
 url: /wooler/hospice-care-shop/
-shop: charity
+shop: Gebrauchtwaren
 ---

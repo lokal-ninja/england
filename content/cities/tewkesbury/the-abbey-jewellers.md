@@ -1,5 +1,5 @@
 ---
 title: "The Abbey Jewellers"
 url: /tewkesbury/the-abbey-jewellers/
-shop: jewelry
+shop: Schmuck
 ---

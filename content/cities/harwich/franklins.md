@@ -1,5 +1,5 @@
 ---
 title: "Franklins"
 url: /harwich/franklins/
-shop: shop
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Porcelanosa"
 url: /warrington/porcelanosa/
-shop: tiles
+shop: Fliesen
 ---

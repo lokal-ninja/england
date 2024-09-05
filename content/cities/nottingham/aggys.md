@@ -1,5 +1,5 @@
 ---
 title: "Aggys"
 url: /nottingham/aggys/
-shop: shop
+shop: Allgemein
 ---

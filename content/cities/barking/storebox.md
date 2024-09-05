@@ -1,5 +1,5 @@
 ---
 title: "Storebox"
 url: /barking/storebox/
-shop: storage rental
+shop: Mieten
 ---

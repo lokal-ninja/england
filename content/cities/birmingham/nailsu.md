@@ -1,5 +1,5 @@
 ---
 title: "NailsU"
 url: /birmingham/nailsu/
-shop: beauty
+shop: Kosmetik
 ---

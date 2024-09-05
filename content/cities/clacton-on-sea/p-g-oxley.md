@@ -1,5 +1,5 @@
 ---
 title: "P.G.Oxley"
 url: /clacton-on-sea/p-g-oxley/
-shop: fireplace
+shop: Kamine & Öfen
 ---

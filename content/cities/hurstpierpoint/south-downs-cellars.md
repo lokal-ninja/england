@@ -1,5 +1,5 @@
 ---
 title: "South Downs Cellars"
 url: /hurstpierpoint/south-downs-cellars/
-shop: alcohol
+shop: Spirituosen
 ---

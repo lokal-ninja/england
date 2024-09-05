@@ -1,5 +1,5 @@
 ---
 title: "The Sweet Emporium"
 url: /lancaster/the-sweet-emporium/
-shop: confectionery
+shop: Süßwaren
 ---

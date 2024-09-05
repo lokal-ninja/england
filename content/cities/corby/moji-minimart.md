@@ -1,5 +1,5 @@
 ---
 title: "Moji Minimart"
 url: /corby/moji-minimart/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

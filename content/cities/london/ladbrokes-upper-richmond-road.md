@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /london/ladbrokes-upper-richmond-road/
-shop: bookmaker
+shop: Wettbüro
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Johns"
 url: /fowey/johns/
-shop: alcohol
+shop: Spirituosen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "L'Occitane"
 url: /salisbury/loccitane/
-shop: beauty
+shop: Kosmetik
 ---

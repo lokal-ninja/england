@@ -1,5 +1,5 @@
 ---
 title: "Bradgers Hill News"
 url: /luton/bradgers-hill-news/
-shop: convenience
+shop: Lebensmittel
 ---

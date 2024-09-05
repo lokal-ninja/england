@@ -1,5 +1,5 @@
 ---
 title: "Innovations"
 url: /evesham/innovations/
-shop: hairdresser
+shop: Friseur
 ---

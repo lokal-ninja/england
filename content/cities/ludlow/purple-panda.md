@@ -1,5 +1,5 @@
 ---
 title: "Purple Panda"
 url: /ludlow/purple-panda/
-shop: gift
+shop: Andenken
 ---

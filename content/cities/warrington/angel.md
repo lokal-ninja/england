@@ -1,5 +1,5 @@
 ---
 title: "Angel"
 url: /warrington/angel/
-shop: beauty
+shop: Kosmetik
 ---

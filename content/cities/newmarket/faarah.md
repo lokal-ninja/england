@@ -1,5 +1,5 @@
 ---
 title: "Faarah"
 url: /newmarket/faarah/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Johnsons"
 url: /leeds/johnsons/
-shop: laundry
+shop: Wäscherei
 ---

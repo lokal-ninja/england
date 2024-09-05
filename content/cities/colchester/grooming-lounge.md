@@ -1,5 +1,5 @@
 ---
 title: "Grooming Lounge"
 url: /colchester/grooming-lounge/
-shop: hairdresser
+shop: Friseur
 ---

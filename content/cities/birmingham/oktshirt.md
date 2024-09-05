@@ -1,5 +1,5 @@
 ---
 title: "Oktshirt"
 url: /birmingham/oktshirt/
-shop: clothes
+shop: Kleidung
 ---

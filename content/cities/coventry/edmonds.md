@@ -1,5 +1,5 @@
 ---
 title: "Edmonds"
 url: /coventry/edmonds/
-shop: gift
+shop: Andenken
 ---

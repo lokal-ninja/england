@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /leeds/coral/
-shop: bookmaker
+shop: Wettbüro
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Greenhalgh's"
 url: /warrington/greenhalghs/
-shop: bakery
+shop: Bäckerei
 ---

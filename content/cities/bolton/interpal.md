@@ -1,5 +1,5 @@
 ---
 title: "Interpal"
 url: /bolton/interpal/
-shop: charity
+shop: Gebrauchtwaren
 ---

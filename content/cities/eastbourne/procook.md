@@ -1,5 +1,5 @@
 ---
 title: "ProCook"
 url: /eastbourne/procook/
-shop: kitchen
+shop: Küchen
 ---

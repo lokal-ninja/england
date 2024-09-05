@@ -1,5 +1,5 @@
 ---
 title: "Ember Fireplaces"
 url: /waterlooville/ember-fireplaces/
-shop: fireplace
+shop: Kamine & Öfen
 ---

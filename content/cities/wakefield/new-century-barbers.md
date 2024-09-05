@@ -1,5 +1,5 @@
 ---
 title: "New Century Barbers"
 url: /wakefield/new-century-barbers/
-shop: hairdresser
+shop: Friseur
 ---

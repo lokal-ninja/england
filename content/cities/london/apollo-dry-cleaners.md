@@ -1,5 +1,5 @@
 ---
 title: "Apollo Dry Cleaners"
 url: /london/apollo-dry-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Scrivens"
 url: /newmarket/scrivens/
-shop: optician
+shop: Optiker
 ---

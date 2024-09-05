@@ -1,5 +1,5 @@
 ---
 title: "Max Spielmann"
 url: /portsmouth/max-spielmann/
-shop: photo
+shop: Foto
 ---

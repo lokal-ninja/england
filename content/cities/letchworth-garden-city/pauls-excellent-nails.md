@@ -1,5 +1,5 @@
 ---
 title: "Paul's Excellent Nails"
 url: /letchworth-garden-city/pauls-excellent-nails/
-shop: beauty
+shop: Kosmetik
 ---

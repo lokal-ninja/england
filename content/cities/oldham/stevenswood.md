@@ -1,5 +1,5 @@
 ---
 title: "Stevenswood"
 url: /oldham/stevenswood/
-shop: trade
+shop: Baustoffe
 ---

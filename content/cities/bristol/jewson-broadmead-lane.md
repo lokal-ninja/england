@@ -1,5 +1,5 @@
 ---
 title: "Jewson"
 url: /bristol/jewson-broadmead-lane/
-shop: hardware
+shop: Eisenwaren
 ---

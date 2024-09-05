@@ -1,5 +1,5 @@
 ---
 title: "Heron Foods"
 url: /salford/heron-foods/
-shop: supermarket
+shop: Supermarkt
 ---

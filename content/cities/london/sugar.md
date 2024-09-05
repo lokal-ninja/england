@@ -1,5 +1,5 @@
 ---
 title: "Sugar"
 url: /london/sugar/
-shop: beauty
+shop: Kosmetik
 ---

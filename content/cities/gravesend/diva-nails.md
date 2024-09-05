@@ -1,5 +1,5 @@
 ---
 title: "Diva Nails"
 url: /gravesend/diva-nails/
-shop: beauty
+shop: Kosmetik
 ---

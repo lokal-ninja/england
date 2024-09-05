@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /upminster/coral/
-shop: bookmaker
+shop: Wettbüro
 ---

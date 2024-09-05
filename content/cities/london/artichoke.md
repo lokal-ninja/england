@@ -1,5 +1,5 @@
 ---
 title: "Artichoke"
 url: /london/artichoke/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

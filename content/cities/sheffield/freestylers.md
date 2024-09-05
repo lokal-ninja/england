@@ -1,5 +1,5 @@
 ---
 title: "Freestylers"
 url: /sheffield/freestylers/
-shop: hairdresser
+shop: Friseur
 ---

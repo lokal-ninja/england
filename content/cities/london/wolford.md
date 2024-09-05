@@ -1,5 +1,5 @@
 ---
 title: "Wolford"
 url: /london/wolford/
-shop: clothes
+shop: Kleidung
 ---

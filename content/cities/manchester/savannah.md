@@ -1,5 +1,5 @@
 ---
 title: "Savannah"
 url: /manchester/savannah/
-shop: beauty
+shop: Kosmetik
 ---

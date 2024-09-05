@@ -1,5 +1,5 @@
 ---
 title: "Baseo"
 url: /london/baseo/
-shop: electronics
+shop: Elektronik
 ---

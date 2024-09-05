@@ -1,5 +1,5 @@
 ---
 title: "Paddy Power"
 url: /bury-st-edmunds/paddy-power/
-shop: bookmaker
+shop: Wettbüro
 ---

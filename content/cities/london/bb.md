@@ -1,5 +1,5 @@
 ---
 title: "BB"
 url: /london/bb/
-shop: hairdresser
+shop: Friseur
 ---

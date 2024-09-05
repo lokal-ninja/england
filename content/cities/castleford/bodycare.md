@@ -1,5 +1,5 @@
 ---
 title: "Bodycare"
 url: /castleford/bodycare/
-shop: chemist
+shop: Drogerie
 ---

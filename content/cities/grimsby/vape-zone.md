@@ -1,5 +1,5 @@
 ---
 title: "Vape Zone"
 url: /grimsby/vape-zone/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

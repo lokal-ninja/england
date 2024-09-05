@@ -1,5 +1,5 @@
 ---
 title: "CeX"
 url: /bromley/cex/
-shop: electronics
+shop: Elektronik
 ---

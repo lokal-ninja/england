@@ -1,5 +1,5 @@
 ---
 title: "ExSqueeze Me"
 url: /chester/exsqueeze-me/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Budgens"
 url: /felixstowe/budgens/
-shop: convenience
+shop: Lebensmittel
 ---

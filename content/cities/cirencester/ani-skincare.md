@@ -1,5 +1,5 @@
 ---
 title: "ANI Skincare"
 url: /cirencester/ani-skincare/
-shop: beauty
+shop: Kosmetik
 ---

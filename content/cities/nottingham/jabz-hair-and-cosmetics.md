@@ -1,5 +1,5 @@
 ---
 title: "Jabz Hair and Cosmetics"
 url: /nottingham/jabz-hair-and-cosmetics/
-shop: hairdresser supply
+shop: Friseurbedarf
 ---

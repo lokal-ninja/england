@@ -1,5 +1,5 @@
 ---
 title: "Game"
 url: /staines/game/
-shop: video games
+shop: Videospiele
 ---

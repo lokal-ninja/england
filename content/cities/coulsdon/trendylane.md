@@ -1,5 +1,5 @@
 ---
 title: "Trendylane"
 url: /coulsdon/trendylane/
-shop: clothes
+shop: Kleidung
 ---

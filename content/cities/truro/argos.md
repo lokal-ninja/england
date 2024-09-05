@@ -1,5 +1,5 @@
 ---
 title: "Argos"
 url: /truro/argos/
-shop: catalogue
+shop: Katalog
 ---

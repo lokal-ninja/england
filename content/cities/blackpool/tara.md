@@ -1,5 +1,5 @@
 ---
 title: "Tara"
 url: /blackpool/tara/
-shop: clothes
+shop: Kleidung
 ---

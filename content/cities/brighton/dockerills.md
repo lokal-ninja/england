@@ -1,5 +1,5 @@
 ---
 title: "Dockerills"
 url: /brighton/dockerills/
-shop: hardware
+shop: Eisenwaren
 ---

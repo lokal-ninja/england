@@ -1,5 +1,5 @@
 ---
 title: "Polished"
 url: /hove/polished/
-shop: beauty
+shop: Kosmetik
 ---

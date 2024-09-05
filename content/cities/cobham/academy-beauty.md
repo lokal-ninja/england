@@ -1,5 +1,5 @@
 ---
 title: "Academy Beauty"
 url: /cobham/academy-beauty/
-shop: beauty
+shop: Kosmetik
 ---

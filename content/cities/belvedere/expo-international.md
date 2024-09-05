@@ -1,5 +1,5 @@
 ---
 title: "Expo International"
 url: /belvedere/expo-international/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

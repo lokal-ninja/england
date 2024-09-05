@@ -1,5 +1,5 @@
 ---
 title: "Vintage Barbers"
 url: /oxford/vintage-barbers/
-shop: hairdresser
+shop: Friseur
 ---

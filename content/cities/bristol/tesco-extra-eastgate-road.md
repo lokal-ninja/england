@@ -1,5 +1,5 @@
 ---
 title: "Tesco Extra"
 url: /bristol/tesco-extra-eastgate-road/
-shop: supermarket
+shop: Supermarkt
 ---

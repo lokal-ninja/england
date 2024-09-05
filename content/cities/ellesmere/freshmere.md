@@ -1,5 +1,5 @@
 ---
 title: "Freshmere"
 url: /ellesmere/freshmere/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

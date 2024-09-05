@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /borehamwood/savers/
-shop: chemist
+shop: Drogerie
 ---

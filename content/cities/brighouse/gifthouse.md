@@ -1,5 +1,5 @@
 ---
 title: "Gifthouse"
 url: /brighouse/gifthouse/
-shop: gift
+shop: Andenken
 ---

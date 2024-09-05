@@ -1,5 +1,5 @@
 ---
 title: "Astral"
 url: /northwood/astral/
-shop: bathroom
+shop: Badezimmer
 ---

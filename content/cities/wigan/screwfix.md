@@ -1,5 +1,5 @@
 ---
 title: "Screwfix"
 url: /wigan/screwfix/
-shop: doityourself
+shop: Baumarkt
 ---

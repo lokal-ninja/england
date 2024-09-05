@@ -1,5 +1,5 @@
 ---
 title: "Data Recovery Essex"
 url: /romford/data-recovery-essex/
-shop: computer
+shop: Computer
 ---

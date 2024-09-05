@@ -1,5 +1,5 @@
 ---
 title: "G. W. Dundas"
 url: /derby/g-w-dundas-victoria-road/
-shop: butcher
+shop: Metzgerei
 ---

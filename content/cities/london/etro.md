@@ -1,5 +1,5 @@
 ---
 title: "ETRO"
 url: /london/etro/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Argos"
 url: /morecambe/argos/
-shop: catalogue
+shop: Katalog
 ---

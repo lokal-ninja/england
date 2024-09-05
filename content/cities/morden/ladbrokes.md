@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /morden/ladbrokes/
-shop: bookmaker
+shop: Wettbüro
 ---

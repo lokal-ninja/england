@@ -1,5 +1,5 @@
 ---
 title: "AJT Contractors"
 url: /bristol/ajt-contractors/
-shop: vacant
+shop: Leerstehend
 ---

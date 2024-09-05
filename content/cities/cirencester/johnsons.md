@@ -1,5 +1,5 @@
 ---
 title: "Johnsons"
 url: /cirencester/johnsons/
-shop: laundry
+shop: Wäscherei
 ---

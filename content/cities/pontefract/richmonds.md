@@ -1,5 +1,5 @@
 ---
 title: "Richmonds"
 url: /pontefract/richmonds/
-shop: butcher
+shop: Metzgerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mind"
 url: /northampton/mind/
-shop: charity
+shop: Gebrauchtwaren
 ---

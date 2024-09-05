@@ -1,5 +1,5 @@
 ---
 title: "Tapi Carpets"
 url: /stockton-on-tees/tapi-carpets/
-shop: carpet
+shop: Teppiche
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cheers"
 url: /todmorden/cheers/
-shop: alcohol
+shop: Spirituosen
 ---

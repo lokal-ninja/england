@@ -1,5 +1,5 @@
 ---
 title: "Gisha"
 url: /london/gisha/
-shop: alcohol
+shop: Spirituosen
 ---

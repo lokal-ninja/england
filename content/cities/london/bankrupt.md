@@ -1,5 +1,5 @@
 ---
 title: "Bankrupt"
 url: /london/bankrupt/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Raggs"
 url: /battle/raggs/
-shop: clothes
+shop: Kleidung
 ---

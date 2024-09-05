@@ -1,5 +1,5 @@
 ---
 title: "Rayyan Supermarket"
 url: /cambridge/rayyan-supermarket/
-shop: convenience
+shop: Lebensmittel
 ---

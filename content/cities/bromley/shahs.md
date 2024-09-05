@@ -1,5 +1,5 @@
 ---
 title: "Shah's"
 url: /bromley/shahs/
-shop: convenience
+shop: Lebensmittel
 ---

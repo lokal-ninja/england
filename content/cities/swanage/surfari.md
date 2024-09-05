@@ -1,5 +1,5 @@
 ---
 title: "Surfari"
 url: /swanage/surfari/
-shop: sports
+shop: Sport
 ---

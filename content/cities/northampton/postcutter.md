@@ -1,5 +1,5 @@
 ---
 title: "Postcutter"
 url: /northampton/postcutter/
-shop: convenience
+shop: Lebensmittel
 ---

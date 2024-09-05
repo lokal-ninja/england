@@ -1,5 +1,5 @@
 ---
 title: "Julian House"
 url: /frome/julian-house/
-shop: charity
+shop: Gebrauchtwaren
 ---

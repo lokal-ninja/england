@@ -1,5 +1,5 @@
 ---
 title: "Bifana House"
 url: /kings-lynn/bifana-house/
-shop: charity
+shop: Gebrauchtwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Boots"
 url: /whitehaven/boots/
-shop: chemist
+shop: Drogerie
 ---

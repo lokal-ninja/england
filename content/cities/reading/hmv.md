@@ -1,5 +1,5 @@
 ---
 title: "HMV"
 url: /reading/hmv/
-shop: music
+shop: Musik
 ---

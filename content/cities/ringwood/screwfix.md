@@ -1,5 +1,5 @@
 ---
 title: "Screwfix"
 url: /ringwood/screwfix/
-shop: doityourself
+shop: Baumarkt
 ---

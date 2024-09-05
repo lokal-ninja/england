@@ -1,5 +1,5 @@
 ---
 title: "Kenji"
 url: /warrington/kenji/
-shop: variety store
+shop: Kramladen
 ---

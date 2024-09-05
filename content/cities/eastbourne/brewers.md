@@ -1,5 +1,5 @@
 ---
 title: "Brewers"
 url: /eastbourne/brewers/
-shop: paint
+shop: Farben
 ---

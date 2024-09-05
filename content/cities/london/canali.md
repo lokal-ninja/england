@@ -1,5 +1,5 @@
 ---
 title: "Canali"
 url: /london/canali/
-shop: clothes
+shop: Kleidung
 ---

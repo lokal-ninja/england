@@ -1,5 +1,5 @@
 ---
 title: "Aura Organics"
 url: /london/aura-organics/
-shop: beauty
+shop: Kosmetik
 ---

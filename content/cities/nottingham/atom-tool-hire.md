@@ -1,5 +1,5 @@
 ---
 title: "Atom Tool Hire"
 url: /nottingham/atom-tool-hire/
-shop: tools
+shop: Werkzeuge
 ---

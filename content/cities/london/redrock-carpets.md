@@ -1,5 +1,5 @@
 ---
 title: "Redrock Carpets"
 url: /london/redrock-carpets/
-shop: carpet
+shop: Teppiche
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ashurst Convenience Store"
 url: /skelmersdale/ashurst-convenience-store/
-shop: convenience
+shop: Lebensmittel
 ---

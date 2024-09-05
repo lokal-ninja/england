@@ -1,5 +1,5 @@
 ---
 title: "Papaya"
 url: /manchester/papaya/
-shop: wholesale
+shop: Großhandel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Toppers"
 url: /ely/toppers/
-shop: hairdresser
+shop: Friseur
 ---

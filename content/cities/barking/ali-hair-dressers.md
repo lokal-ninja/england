@@ -1,5 +1,5 @@
 ---
 title: "Ali Hair Dressers"
 url: /barking/ali-hair-dressers/
-shop: hairdresser
+shop: Friseur
 ---

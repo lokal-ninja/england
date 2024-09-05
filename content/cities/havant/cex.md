@@ -1,5 +1,5 @@
 ---
 title: "CeX"
 url: /havant/cex/
-shop: electronics
+shop: Elektronik
 ---

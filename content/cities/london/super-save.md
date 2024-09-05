@@ -1,5 +1,5 @@
 ---
 title: "Super Save"
 url: /london/super-save/
-shop: convenience
+shop: Lebensmittel
 ---

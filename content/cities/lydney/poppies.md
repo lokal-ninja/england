@@ -1,5 +1,5 @@
 ---
 title: "Poppies"
 url: /lydney/poppies/
-shop: florist
+shop: Blumen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Haddow Stoves"
 url: /ulverston/haddow-stoves/
-shop: fireplace
+shop: Kamine & Öfen
 ---

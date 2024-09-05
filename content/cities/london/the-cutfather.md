@@ -1,5 +1,5 @@
 ---
 title: "The Cutfather"
 url: /london/the-cutfather/
-shop: hairdresser
+shop: Friseur
 ---

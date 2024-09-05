@@ -1,5 +1,5 @@
 ---
 title: "Smyths"
 url: /bristol/smyths/
-shop: toys
+shop: Spielzeug
 ---

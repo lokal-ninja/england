@@ -1,5 +1,5 @@
 ---
 title: "Honeysuckle"
 url: /banstead/honeysuckle/
-shop: gift
+shop: Andenken
 ---

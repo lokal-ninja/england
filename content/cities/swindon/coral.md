@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /swindon/coral/
-shop: bookmaker
+shop: Wettbüro
 ---

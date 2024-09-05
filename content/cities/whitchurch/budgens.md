@@ -1,5 +1,5 @@
 ---
 title: "Budgens"
 url: /whitchurch/budgens/
-shop: convenience
+shop: Lebensmittel
 ---

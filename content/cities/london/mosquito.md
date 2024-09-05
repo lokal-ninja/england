@@ -1,5 +1,5 @@
 ---
 title: "Mosquito"
 url: /london/mosquito/
-shop: vacant
+shop: Leerstehend
 ---

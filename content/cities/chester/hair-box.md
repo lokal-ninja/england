@@ -1,5 +1,5 @@
 ---
 title: "Hair Box"
 url: /chester/hair-box/
-shop: hairdresser
+shop: Friseur
 ---

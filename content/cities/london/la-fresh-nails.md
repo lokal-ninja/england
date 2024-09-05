@@ -1,5 +1,5 @@
 ---
 title: "La Fresh Nails"
 url: /london/la-fresh-nails/
-shop: beauty
+shop: Kosmetik
 ---

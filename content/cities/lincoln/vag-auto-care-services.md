@@ -1,5 +1,5 @@
 ---
 title: "VAG Auto Care Services"
 url: /lincoln/vag-auto-care-services/
-shop: car repair
+shop: Autowerkstatt
 ---

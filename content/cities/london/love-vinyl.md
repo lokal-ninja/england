@@ -1,5 +1,5 @@
 ---
 title: "Love Vinyl"
 url: /london/love-vinyl/
-shop: music
+shop: Musik
 ---

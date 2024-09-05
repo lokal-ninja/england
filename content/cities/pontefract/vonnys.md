@@ -1,5 +1,5 @@
 ---
 title: "Vonny's"
 url: /pontefract/vonnys/
-shop: baby goods
+shop: Babysachen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Madame Tan"
 url: /north-shields/madame-tan/
-shop: beauty
+shop: Kosmetik
 ---

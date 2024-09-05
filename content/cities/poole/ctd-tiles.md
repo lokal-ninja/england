@@ -1,5 +1,5 @@
 ---
 title: "CTD Tiles"
 url: /poole/ctd-tiles/
-shop: tiles
+shop: Fliesen
 ---

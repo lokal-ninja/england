@@ -1,5 +1,5 @@
 ---
 title: "WEAct"
 url: /woking/weact/
-shop: charity
+shop: Gebrauchtwaren
 ---

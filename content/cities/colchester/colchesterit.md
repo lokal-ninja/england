@@ -1,5 +1,5 @@
 ---
 title: "ColchesterIT"
 url: /colchester/colchesterit/
-shop: computer
+shop: Computer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Evolve"
 url: /manchester/evolve/
-shop: hairdresser
+shop: Friseur
 ---

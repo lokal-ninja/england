@@ -1,5 +1,5 @@
 ---
 title: "Snack Heath"
 url: /london/snack-heath/
-shop: alcohol
+shop: Spirituosen
 ---

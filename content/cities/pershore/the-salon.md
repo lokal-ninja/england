@@ -1,5 +1,5 @@
 ---
 title: "The Salon"
 url: /pershore/the-salon/
-shop: hairdresser
+shop: Friseur
 ---

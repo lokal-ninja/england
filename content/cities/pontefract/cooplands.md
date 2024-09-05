@@ -1,5 +1,5 @@
 ---
 title: "Cooplands"
 url: /pontefract/cooplands/
-shop: bakery
+shop: Bäckerei
 ---

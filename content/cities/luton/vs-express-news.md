@@ -1,5 +1,5 @@
 ---
 title: "VS Express News"
 url: /luton/vs-express-news/
-shop: newsagent
+shop: Zeitungen
 ---

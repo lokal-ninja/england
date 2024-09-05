@@ -1,5 +1,5 @@
 ---
 title: "Coco"
 url: /stroud/coco/
-shop: confectionery
+shop: Süßwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Quilters Quest"
 url: /bridgnorth/quilters-quest/
-shop: shop
+shop: Allgemein
 ---

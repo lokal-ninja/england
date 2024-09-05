@@ -1,5 +1,5 @@
 ---
 title: "Sculpture Hair Studio"
 url: /blackburn/sculpture-hair-studio/
-shop: hairdresser
+shop: Friseur
 ---

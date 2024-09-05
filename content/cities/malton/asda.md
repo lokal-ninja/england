@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /malton/asda/
-shop: supermarket
+shop: Supermarkt
 ---

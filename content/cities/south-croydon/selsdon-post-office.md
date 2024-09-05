@@ -1,5 +1,5 @@
 ---
 title: "Selsdon Post Office"
 url: /south-croydon/selsdon-post-office/
-shop: newsagent
+shop: Zeitungen
 ---

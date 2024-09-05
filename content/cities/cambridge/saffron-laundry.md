@@ -1,5 +1,5 @@
 ---
 title: "Saffron Laundry"
 url: /cambridge/saffron-laundry/
-shop: laundry
+shop: Wäscherei
 ---

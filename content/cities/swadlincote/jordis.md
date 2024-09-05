@@ -1,5 +1,5 @@
 ---
 title: "Jordis"
 url: /swadlincote/jordis/
-shop: hairdresser
+shop: Friseur
 ---

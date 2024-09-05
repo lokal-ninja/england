@@ -1,5 +1,5 @@
 ---
 title: "Nichols"
 url: /teddington/nichols/
-shop: jewelry
+shop: Schmuck
 ---

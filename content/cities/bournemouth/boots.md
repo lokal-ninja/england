@@ -1,5 +1,5 @@
 ---
 title: "Boots"
 url: /bournemouth/boots/
-shop: chemist
+shop: Drogerie
 ---

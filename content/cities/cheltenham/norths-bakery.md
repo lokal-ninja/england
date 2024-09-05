@@ -1,5 +1,5 @@
 ---
 title: "North's Bakery"
 url: /cheltenham/norths-bakery/
-shop: bakery
+shop: Bäckerei
 ---

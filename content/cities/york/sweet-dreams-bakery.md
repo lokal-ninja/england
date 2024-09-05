@@ -1,5 +1,5 @@
 ---
 title: "Sweet Dreams Bakery"
 url: /york/sweet-dreams-bakery/
-shop: pastry
+shop: Konditorei
 ---

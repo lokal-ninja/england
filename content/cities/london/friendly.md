@@ -1,5 +1,5 @@
 ---
 title: "Friendly"
 url: /london/friendly/
-shop: beauty
+shop: Kosmetik
 ---

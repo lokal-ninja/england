@@ -1,5 +1,5 @@
 ---
 title: "Impressions"
 url: /blackburn/impressions/
-shop: laundry
+shop: Wäscherei
 ---

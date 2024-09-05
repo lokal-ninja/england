@@ -1,5 +1,5 @@
 ---
 title: "ZK's"
 url: /bristol/zks/
-shop: alcohol
+shop: Spirituosen
 ---

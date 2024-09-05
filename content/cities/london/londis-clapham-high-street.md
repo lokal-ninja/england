@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /london/londis-clapham-high-street/
-shop: convenience
+shop: Lebensmittel
 ---

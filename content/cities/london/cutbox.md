@@ -1,5 +1,5 @@
 ---
 title: "Cutbox"
 url: /london/cutbox/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aya Boutique"
 url: /dorking/aya-boutique/
-shop: clothes
+shop: Kleidung
 ---

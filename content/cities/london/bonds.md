@@ -1,5 +1,5 @@
 ---
 title: "Bonds"
 url: /london/bonds/
-shop: hairdresser
+shop: Friseur
 ---

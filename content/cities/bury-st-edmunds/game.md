@@ -1,5 +1,5 @@
 ---
 title: "Game"
 url: /bury-st-edmunds/game/
-shop: video games
+shop: Videospiele
 ---

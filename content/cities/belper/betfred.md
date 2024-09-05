@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /belper/betfred/
-shop: bookmaker
+shop: Wettbüro
 ---

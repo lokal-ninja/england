@@ -1,5 +1,5 @@
 ---
 title: "Herdy"
 url: /grasmere/herdy/
-shop: gift
+shop: Andenken
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Select"
 url: /paignton/select/
-shop: clothes
+shop: Kleidung
 ---

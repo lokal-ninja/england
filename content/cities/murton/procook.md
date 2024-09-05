@@ -1,5 +1,5 @@
 ---
 title: "ProCook"
 url: /murton/procook/
-shop: houseware
+shop: Haushaltsartikel
 ---

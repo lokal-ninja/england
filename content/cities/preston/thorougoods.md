@@ -1,5 +1,5 @@
 ---
 title: "Thorougoods"
 url: /preston/thorougoods/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

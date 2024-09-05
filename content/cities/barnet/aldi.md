@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /barnet/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Waterstones"
 url: /brighton/waterstones/
-shop: books
+shop: Bücher
 ---

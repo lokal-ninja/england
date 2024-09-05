@@ -1,5 +1,5 @@
 ---
 title: "Cooplands"
 url: /brigg/cooplands/
-shop: bakery
+shop: Bäckerei
 ---

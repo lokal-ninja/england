@@ -1,5 +1,5 @@
 ---
 title: "Beaverbrooks"
 url: /norwich/beaverbrooks/
-shop: jewelry
+shop: Schmuck
 ---

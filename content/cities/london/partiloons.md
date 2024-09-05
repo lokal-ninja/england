@@ -1,5 +1,5 @@
 ---
 title: "Partiloons"
 url: /london/partiloons/
-shop: party
+shop: Partyzubehör
 ---

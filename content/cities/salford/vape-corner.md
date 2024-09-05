@@ -1,5 +1,5 @@
 ---
 title: "Vape Corner"
 url: /salford/vape-corner/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

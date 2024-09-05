@@ -1,5 +1,5 @@
 ---
 title: "Amarone"
 url: /nottingham/amarone/
-shop: vacant
+shop: Leerstehend
 ---

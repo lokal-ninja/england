@@ -1,5 +1,5 @@
 ---
 title: "Superdrug"
 url: /london/superdrug-minnie-baldock-street/
-shop: chemist
+shop: Drogerie
 ---

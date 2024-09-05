@@ -1,5 +1,5 @@
 ---
 title: "Pockets"
 url: /shrewsbury/pockets/
-shop: clothes
+shop: Kleidung
 ---

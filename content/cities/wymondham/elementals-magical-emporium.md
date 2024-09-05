@@ -1,5 +1,5 @@
 ---
 title: "Elementals Magical Emporium"
 url: /wymondham/elementals-magical-emporium/
-shop: gift
+shop: Andenken
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Malini"
 url: /london/malini/
-shop: clothes
+shop: Kleidung
 ---

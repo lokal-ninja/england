@@ -1,5 +1,5 @@
 ---
 title: "Loaf"
 url: /wilmslow/loaf/
-shop: furniture
+shop: Möbel
 ---

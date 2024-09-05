@@ -1,5 +1,5 @@
 ---
 title: "Matkins"
 url: /alfreton/matkins/
-shop: butcher
+shop: Metzgerei
 ---

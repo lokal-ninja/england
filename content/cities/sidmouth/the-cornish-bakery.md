@@ -1,5 +1,5 @@
 ---
 title: "The Cornish Bakery"
 url: /sidmouth/the-cornish-bakery/
-shop: bakery
+shop: Bäckerei
 ---

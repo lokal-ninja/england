@@ -1,5 +1,5 @@
 ---
 title: "Spectacular"
 url: /ely/spectacular/
-shop: optician
+shop: Optiker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Paradox"
 url: /london/paradox/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Brewers"
 url: /canterbury/brewers/
-shop: paint
+shop: Farben
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Waterstones"
 url: /berkhamsted/waterstones/
-shop: books
+shop: Bücher
 ---

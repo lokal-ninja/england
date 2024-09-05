@@ -1,5 +1,5 @@
 ---
 title: "Mint"
 url: /tonbridge/mint/
-shop: shop
+shop: Allgemein
 ---

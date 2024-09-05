@@ -1,5 +1,5 @@
 ---
 title: "Diamond Drinks"
 url: /birmingham/diamond-drinks/
-shop: convenience
+shop: Lebensmittel
 ---

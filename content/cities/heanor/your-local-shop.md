@@ -1,5 +1,5 @@
 ---
 title: "Your Local Shop"
 url: /heanor/your-local-shop/
-shop: convenience
+shop: Lebensmittel
 ---

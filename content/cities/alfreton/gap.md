@@ -1,5 +1,5 @@
 ---
 title: "Gap"
 url: /alfreton/gap/
-shop: clothes
+shop: Kleidung
 ---

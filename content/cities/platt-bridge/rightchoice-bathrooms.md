@@ -1,5 +1,5 @@
 ---
 title: "Rightchoice Bathrooms"
 url: /platt-bridge/rightchoice-bathrooms/
-shop: bathroom
+shop: Badezimmer
 ---

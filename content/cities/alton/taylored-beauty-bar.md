@@ -1,5 +1,5 @@
 ---
 title: "Taylored Beauty Bar"
 url: /alton/taylored-beauty-bar/
-shop: beauty
+shop: Kosmetik
 ---

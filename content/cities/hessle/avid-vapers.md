@@ -1,5 +1,5 @@
 ---
 title: "Avid Vapers"
 url: /hessle/avid-vapers/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

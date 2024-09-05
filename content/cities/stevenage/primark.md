@@ -1,5 +1,5 @@
 ---
 title: "Primark"
 url: /stevenage/primark/
-shop: clothes
+shop: Kleidung
 ---

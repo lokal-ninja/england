@@ -1,5 +1,5 @@
 ---
 title: "Bentley's"
 url: /manchester/bentleys/
-shop: trade
+shop: Baustoffe
 ---

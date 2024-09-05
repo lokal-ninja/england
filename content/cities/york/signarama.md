@@ -1,5 +1,5 @@
 ---
 title: "Signarama"
 url: /york/signarama/
-shop: copyshop
+shop: Kopieren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Atelier Four Tattoo"
 url: /truro/atelier-four-tattoo/
-shop: tattoo
+shop: Tattoo
 ---

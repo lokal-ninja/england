@@ -1,5 +1,5 @@
 ---
 title: "Amigo"
 url: /bristol/amigo/
-shop: convenience
+shop: Lebensmittel
 ---

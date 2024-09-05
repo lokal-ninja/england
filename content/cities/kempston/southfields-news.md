@@ -1,5 +1,5 @@
 ---
 title: "Southfields News"
 url: /kempston/southfields-news/
-shop: convenience
+shop: Lebensmittel
 ---

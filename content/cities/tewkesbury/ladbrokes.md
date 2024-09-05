@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /tewkesbury/ladbrokes/
-shop: bookmaker
+shop: Wettbüro
 ---

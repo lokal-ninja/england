@@ -1,5 +1,5 @@
 ---
 title: "Edible Ornamentals"
 url: /chawston/edible-ornamentals/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

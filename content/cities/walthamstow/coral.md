@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /walthamstow/coral/
-shop: bookmaker
+shop: Wettbüro
 ---

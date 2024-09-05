@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /newark/lidl/
-shop: supermarket
+shop: Supermarkt
 ---

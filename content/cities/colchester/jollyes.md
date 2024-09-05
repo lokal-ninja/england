@@ -1,5 +1,5 @@
 ---
 title: "Jollyes"
 url: /colchester/jollyes/
-shop: pet
+shop: Tiere
 ---

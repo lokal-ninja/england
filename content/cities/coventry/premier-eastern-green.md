@@ -1,5 +1,5 @@
 ---
 title: "Premier Eastern Green"
 url: /coventry/premier-eastern-green/
-shop: convenience
+shop: Lebensmittel
 ---

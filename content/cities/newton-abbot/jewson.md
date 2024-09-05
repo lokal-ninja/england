@@ -1,5 +1,5 @@
 ---
 title: "Jewson"
 url: /newton-abbot/jewson/
-shop: trade
+shop: Baustoffe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Etre Belle"
 url: /stockport/etre-belle/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Zapp"
 url: /london/zapp/
-shop: convenience
+shop: Lebensmittel
 ---

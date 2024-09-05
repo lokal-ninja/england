@@ -1,5 +1,5 @@
 ---
 title: "The Grafton"
 url: /cambridge/the-grafton/
-shop: mall
+shop: Einkaufszentrum
 ---

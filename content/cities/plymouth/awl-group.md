@@ -1,5 +1,5 @@
 ---
 title: "AWL Group"
 url: /plymouth/awl-group/
-shop: electrical
+shop: Elektrisch
 ---

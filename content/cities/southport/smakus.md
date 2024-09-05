@@ -1,5 +1,5 @@
 ---
 title: "Smakus"
 url: /southport/smakus/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PrintServe"
 url: /oldham/printserve/
-shop: copyshop
+shop: Kopieren
 ---

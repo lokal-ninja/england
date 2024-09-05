@@ -1,5 +1,5 @@
 ---
 title: "Connected Distribution"
 url: /cheltenham/connected-distribution/
-shop: hifi
+shop: Hifi
 ---

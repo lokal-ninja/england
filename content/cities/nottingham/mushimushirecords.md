@@ -1,5 +1,5 @@
 ---
 title: "mushimushirecords"
 url: /nottingham/mushimushirecords/
-shop: music
+shop: Musik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cadbury"
 url: /fleetwood/cadbury/
-shop: chocolate
+shop: Schokolade
 ---

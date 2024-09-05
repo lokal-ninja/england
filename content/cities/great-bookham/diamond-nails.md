@@ -1,5 +1,5 @@
 ---
 title: "Diamond Nails"
 url: /great-bookham/diamond-nails/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Timpson"
 url: /eastleigh/timpson/
-shop: shoes
+shop: Schuhe
 ---

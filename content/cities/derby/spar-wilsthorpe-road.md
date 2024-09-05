@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /derby/spar-wilsthorpe-road/
-shop: convenience
+shop: Lebensmittel
 ---

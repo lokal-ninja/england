@@ -1,5 +1,5 @@
 ---
 title: "Optical Express"
 url: /cambridge/optical-express/
-shop: optician
+shop: Optiker
 ---

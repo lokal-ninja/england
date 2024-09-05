@@ -1,5 +1,5 @@
 ---
 title: "Sainsbury's Local"
 url: /bolton/sainsburys-local-lee-lane/
-shop: convenience
+shop: Lebensmittel
 ---

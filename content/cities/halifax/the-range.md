@@ -1,5 +1,5 @@
 ---
 title: "The Range"
 url: /halifax/the-range/
-shop: houseware
+shop: Haushaltsartikel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Selwood's"
 url: /taunton/selwoods/
-shop: antiques
+shop: Antiquitäten
 ---

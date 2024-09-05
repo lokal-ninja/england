@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /truro/poundland/
-shop: variety store
+shop: Kramladen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "WightSight"
 url: /cowes/wightsight/
-shop: optician
+shop: Optiker
 ---

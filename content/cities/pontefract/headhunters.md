@@ -1,5 +1,5 @@
 ---
 title: "Headhunters"
 url: /pontefract/headhunters/
-shop: hairdresser
+shop: Friseur
 ---

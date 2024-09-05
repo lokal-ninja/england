@@ -1,5 +1,5 @@
 ---
 title: "Consol"
 url: /aldershot/consol/
-shop: beauty
+shop: Kosmetik
 ---

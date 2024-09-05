@@ -1,5 +1,5 @@
 ---
 title: "Pashon"
 url: /cirencester/pashon/
-shop: jewelry
+shop: Schmuck
 ---

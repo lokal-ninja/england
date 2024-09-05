@@ -1,5 +1,5 @@
 ---
 title: "Carpetright"
 url: /chesterfield/carpetright/
-shop: carpet
+shop: Teppiche
 ---

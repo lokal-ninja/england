@@ -1,5 +1,5 @@
 ---
 title: "Pal Zileri"
 url: /london/pal-zileri/
-shop: clothes
+shop: Kleidung
 ---

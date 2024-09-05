@@ -1,5 +1,5 @@
 ---
 title: "Earthfare"
 url: /glastonbury/earthfare/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Clubsport"
 url: /ledbury/clubsport/
-shop: sports
+shop: Sport
 ---

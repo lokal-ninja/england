@@ -1,5 +1,5 @@
 ---
 title: "Appleyards"
 url: /shrewsbury/appleyards/
-shop: deli
+shop: Feinkost
 ---

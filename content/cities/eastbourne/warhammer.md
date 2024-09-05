@@ -1,5 +1,5 @@
 ---
 title: "Warhammer"
 url: /eastbourne/warhammer/
-shop: games
+shop: Spiele
 ---

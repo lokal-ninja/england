@@ -1,5 +1,5 @@
 ---
 title: "Stylistic"
 url: /london/stylistic/
-shop: hairdresser
+shop: Friseur
 ---

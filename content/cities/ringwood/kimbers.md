@@ -1,5 +1,5 @@
 ---
 title: "Kimbers"
 url: /ringwood/kimbers/
-shop: carpet
+shop: Teppiche
 ---

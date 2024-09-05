@@ -1,5 +1,5 @@
 ---
 title: "Bond's"
 url: /fordingbridge/bonds/
-shop: hairdresser
+shop: Friseur
 ---

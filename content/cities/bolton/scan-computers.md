@@ -1,5 +1,5 @@
 ---
 title: "Scan Computers"
 url: /bolton/scan-computers/
-shop: electronics
+shop: Elektronik
 ---

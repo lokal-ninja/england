@@ -1,5 +1,5 @@
 ---
 title: "Solano"
 url: /harpenden/solano/
-shop: hairdresser
+shop: Friseur
 ---

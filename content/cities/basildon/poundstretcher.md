@@ -1,5 +1,5 @@
 ---
 title: "Poundstretcher"
 url: /basildon/poundstretcher/
-shop: variety store
+shop: Kramladen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /wetherby/londis/
-shop: convenience
+shop: Lebensmittel
 ---

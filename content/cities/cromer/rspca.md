@@ -1,5 +1,5 @@
 ---
 title: "RSPCA"
 url: /cromer/rspca/
-shop: charity
+shop: Gebrauchtwaren
 ---

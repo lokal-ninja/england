@@ -1,5 +1,5 @@
 ---
 title: "Cadbury"
 url: /murton/cadbury/
-shop: chocolate
+shop: Schokolade
 ---

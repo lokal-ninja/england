@@ -1,5 +1,5 @@
 ---
 title: "Eden"
 url: /grays/eden/
-shop: beauty
+shop: Kosmetik
 ---

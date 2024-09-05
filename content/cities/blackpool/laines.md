@@ -1,5 +1,5 @@
 ---
 title: "Laines"
 url: /blackpool/laines/
-shop: bakery
+shop: Bäckerei
 ---

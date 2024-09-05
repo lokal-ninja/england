@@ -1,5 +1,5 @@
 ---
 title: "Baby"
 url: /lowestoft/baby/
-shop: baby goods
+shop: Babysachen
 ---

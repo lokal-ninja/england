@@ -1,5 +1,5 @@
 ---
 title: "Eva"
 url: /london/eva/
-shop: bakery
+shop: Bäckerei
 ---

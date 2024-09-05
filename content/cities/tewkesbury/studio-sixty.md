@@ -1,5 +1,5 @@
 ---
 title: "Studio Sixty"
 url: /tewkesbury/studio-sixty/
-shop: hairdresser
+shop: Friseur
 ---

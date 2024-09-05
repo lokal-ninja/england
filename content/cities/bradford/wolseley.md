@@ -1,5 +1,5 @@
 ---
 title: "Wolseley"
 url: /bradford/wolseley/
-shop: trade
+shop: Baustoffe
 ---

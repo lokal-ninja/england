@@ -1,5 +1,5 @@
 ---
 title: "Notebook"
 url: /dorking/notebook/
-shop: clothes
+shop: Kleidung
 ---

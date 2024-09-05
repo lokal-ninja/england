@@ -1,5 +1,5 @@
 ---
 title: "Boots"
 url: /rugby/boots/
-shop: chemist
+shop: Drogerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "BATA"
 url: /tickton/bata/
-shop: general
+shop: Dorfladen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tattoos"
 url: /gateshead/tattoos/
-shop: tattoo
+shop: Tattoo
 ---

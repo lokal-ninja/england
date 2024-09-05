@@ -1,5 +1,5 @@
 ---
 title: "Peacocks"
 url: /redcar/peacocks/
-shop: clothes
+shop: Kleidung
 ---

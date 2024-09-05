@@ -1,5 +1,5 @@
 ---
 title: "Parkers"
 url: /reading/parkers/
-shop: estate agent
+shop: Immobilien
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Granthams"
 url: /blackpool/granthams/
-shop: copyshop
+shop: Kopieren
 ---

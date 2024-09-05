@@ -1,5 +1,5 @@
 ---
 title: "Ruby's"
 url: /leeds/rubys/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

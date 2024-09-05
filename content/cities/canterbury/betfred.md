@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /canterbury/betfred/
-shop: bookmaker
+shop: Wettbüro
 ---

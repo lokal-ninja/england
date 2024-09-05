@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /barton-upon-humber/tesco/
-shop: supermarket
+shop: Supermarkt
 ---

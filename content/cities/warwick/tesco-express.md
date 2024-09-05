@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /warwick/tesco-express/
-shop: convenience
+shop: Lebensmittel
 ---

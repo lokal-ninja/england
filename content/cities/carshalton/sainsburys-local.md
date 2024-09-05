@@ -1,5 +1,5 @@
 ---
 title: "Sainsbury's Local"
 url: /carshalton/sainsburys-local/
-shop: convenience
+shop: Lebensmittel
 ---

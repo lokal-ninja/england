@@ -1,5 +1,5 @@
 ---
 title: "Cooplands"
 url: /grimsby/cooplands/
-shop: bakery
+shop: Bäckerei
 ---

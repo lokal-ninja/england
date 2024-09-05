@@ -1,5 +1,5 @@
 ---
 title: "JoDee's"
 url: /warrington/jodees/
-shop: hairdresser
+shop: Friseur
 ---

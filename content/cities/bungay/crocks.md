@@ -1,5 +1,5 @@
 ---
 title: "Crocks"
 url: /bungay/crocks/
-shop: gift
+shop: Andenken
 ---

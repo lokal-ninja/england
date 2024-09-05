@@ -1,5 +1,5 @@
 ---
 title: "Exquisite"
 url: /whitstable/exquisite/
-shop: clothes
+shop: Kleidung
 ---

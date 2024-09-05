@@ -1,5 +1,5 @@
 ---
 title: "La Belle Angèle"
 url: /norwich/la-belle-angele/
-shop: clothes
+shop: Kleidung
 ---

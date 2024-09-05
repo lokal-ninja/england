@@ -1,5 +1,5 @@
 ---
 title: "Leadenhall Tailoring"
 url: /norwich/leadenhall-tailoring/
-shop: clothes
+shop: Kleidung
 ---

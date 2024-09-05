@@ -1,5 +1,5 @@
 ---
 title: "Prasad"
 url: /chichester/prasad/
-shop: shop
+shop: Allgemein
 ---

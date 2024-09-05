@@ -1,5 +1,5 @@
 ---
 title: "Toys N Trends"
 url: /whitstable/toys-n-trends/
-shop: toys
+shop: Spielzeug
 ---

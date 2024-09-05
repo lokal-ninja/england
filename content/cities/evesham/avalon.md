@@ -1,5 +1,5 @@
 ---
 title: "Avalon"
 url: /evesham/avalon/
-shop: gift
+shop: Andenken
 ---

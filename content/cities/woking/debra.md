@@ -1,5 +1,5 @@
 ---
 title: "Debra"
 url: /woking/debra/
-shop: charity
+shop: Gebrauchtwaren
 ---

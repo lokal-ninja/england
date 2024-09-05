@@ -1,5 +1,5 @@
 ---
 title: "Bonners"
 url: /ilminster/bonners/
-shop: bakery
+shop: Bäckerei
 ---

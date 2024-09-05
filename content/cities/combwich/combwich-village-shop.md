@@ -1,5 +1,5 @@
 ---
 title: "Combwich Village Shop"
 url: /combwich/combwich-village-shop/
-shop: convenience
+shop: Lebensmittel
 ---

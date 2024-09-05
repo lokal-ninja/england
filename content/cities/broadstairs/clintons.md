@@ -1,5 +1,5 @@
 ---
 title: "Clintons"
 url: /broadstairs/clintons/
-shop: gift
+shop: Andenken
 ---

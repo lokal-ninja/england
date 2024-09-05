@@ -1,5 +1,5 @@
 ---
 title: "PDSA"
 url: /brighton/pdsa/
-shop: charity
+shop: Gebrauchtwaren
 ---

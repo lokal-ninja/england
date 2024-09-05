@@ -1,5 +1,5 @@
 ---
 title: "Tool Station"
 url: /alton/tool-station/
-shop: electronics
+shop: Elektronik
 ---

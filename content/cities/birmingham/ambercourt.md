@@ -1,5 +1,5 @@
 ---
 title: "ambercourt"
 url: /birmingham/ambercourt/
-shop: shop
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Budgens"
 url: /coulsdon/budgens/
-shop: convenience
+shop: Lebensmittel
 ---

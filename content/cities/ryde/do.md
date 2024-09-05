@@ -1,5 +1,5 @@
 ---
 title: "do..."
 url: /ryde/do/
-shop: hairdresser
+shop: Friseur
 ---

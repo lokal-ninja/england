@@ -1,5 +1,5 @@
 ---
 title: "Miranas"
 url: /london/miranas/
-shop: convenience
+shop: Lebensmittel
 ---

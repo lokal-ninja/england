@@ -1,5 +1,5 @@
 ---
 title: "Denby"
 url: /york/denby/
-shop: kitchen
+shop: Küchen
 ---

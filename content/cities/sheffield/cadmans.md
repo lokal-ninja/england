@@ -1,5 +1,5 @@
 ---
 title: "Cadmans"
 url: /sheffield/cadmans/
-shop: hairdresser
+shop: Friseur
 ---

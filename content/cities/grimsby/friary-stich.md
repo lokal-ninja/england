@@ -1,5 +1,5 @@
 ---
 title: "Friary Stich"
 url: /grimsby/friary-stich/
-shop: shop
+shop: Allgemein
 ---

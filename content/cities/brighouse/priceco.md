@@ -1,5 +1,5 @@
 ---
 title: "PriceCo"
 url: /brighouse/priceco/
-shop: trade
+shop: Baustoffe
 ---

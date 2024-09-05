@@ -1,5 +1,5 @@
 ---
 title: "Amplifon"
 url: /preston/amplifon/
-shop: hearing aids
+shop: Hörgeräte
 ---

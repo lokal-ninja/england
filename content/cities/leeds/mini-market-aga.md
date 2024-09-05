@@ -1,5 +1,5 @@
 ---
 title: "Mini Market Aga"
 url: /leeds/mini-market-aga/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

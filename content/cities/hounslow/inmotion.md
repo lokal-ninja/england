@@ -1,5 +1,5 @@
 ---
 title: "InMotion"
 url: /hounslow/inmotion/
-shop: electronics
+shop: Elektronik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "EuroTruck"
 url: /ilkeston/eurotruck/
-shop: wholesale
+shop: Großhandel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tantrums and Tiaras"
 url: /london/tantrums-and-tiaras/
-shop: clothes
+shop: Kleidung
 ---

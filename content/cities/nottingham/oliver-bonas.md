@@ -1,5 +1,5 @@
 ---
 title: "Oliver Bonas"
 url: /nottingham/oliver-bonas/
-shop: houseware
+shop: Haushaltsartikel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nias"
 url: /london/nias/
-shop: charity
+shop: Gebrauchtwaren
 ---

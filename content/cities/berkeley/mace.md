@@ -1,5 +1,5 @@
 ---
 title: "Mace"
 url: /berkeley/mace/
-shop: convenience
+shop: Lebensmittel
 ---

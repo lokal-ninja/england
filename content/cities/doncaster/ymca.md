@@ -1,5 +1,5 @@
 ---
 title: "YMCA"
 url: /doncaster/ymca/
-shop: charity
+shop: Gebrauchtwaren
 ---

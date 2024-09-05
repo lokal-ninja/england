@@ -1,5 +1,5 @@
 ---
 title: "Utillita"
 url: /sheffield/utillita/
-shop: mobile phone
+shop: Handy
 ---

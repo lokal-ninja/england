@@ -1,5 +1,5 @@
 ---
 title: "Mossy's Shoe Repairs"
 url: /salisbury/mossys-shoe-repairs/
-shop: shoes
+shop: Schuhe
 ---

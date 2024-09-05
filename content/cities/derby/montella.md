@@ -1,5 +1,5 @@
 ---
 title: "Montella"
 url: /derby/montella/
-shop: clothes
+shop: Kleidung
 ---

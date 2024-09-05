@@ -1,5 +1,5 @@
 ---
 title: "Floor Street"
 url: /birmingham/floor-street/
-shop: flooring
+shop: Fußböden
 ---

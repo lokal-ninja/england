@@ -1,5 +1,5 @@
 ---
 title: "Slims"
 url: /london/slims/
-shop: hairdresser
+shop: Friseur
 ---

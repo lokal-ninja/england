@@ -1,5 +1,5 @@
 ---
 title: "SZ Motorgroup"
 url: /nottingham/sz-motorgroup/
-shop: car
+shop: Autohaus
 ---

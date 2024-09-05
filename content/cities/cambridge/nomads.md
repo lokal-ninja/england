@@ -1,5 +1,5 @@
 ---
 title: "Nomads"
 url: /cambridge/nomads/
-shop: gift
+shop: Andenken
 ---

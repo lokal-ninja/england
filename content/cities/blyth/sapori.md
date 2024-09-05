@@ -1,5 +1,5 @@
 ---
 title: "Sapori"
 url: /blyth/sapori/
-shop: deli
+shop: Feinkost
 ---

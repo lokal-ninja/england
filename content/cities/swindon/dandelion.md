@@ -1,5 +1,5 @@
 ---
 title: "Dandelion"
 url: /swindon/dandelion/
-shop: gift
+shop: Andenken
 ---

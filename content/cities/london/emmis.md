@@ -1,5 +1,5 @@
 ---
 title: "Emmi's"
 url: /london/emmis/
-shop: convenience
+shop: Lebensmittel
 ---

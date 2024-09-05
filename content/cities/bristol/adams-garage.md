@@ -1,5 +1,5 @@
 ---
 title: "Adam's Garage"
 url: /bristol/adams-garage/
-shop: motorcycle
+shop: Motorrad
 ---

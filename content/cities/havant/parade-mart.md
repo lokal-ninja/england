@@ -1,5 +1,5 @@
 ---
 title: "Parade Mart"
 url: /havant/parade-mart/
-shop: convenience
+shop: Lebensmittel
 ---

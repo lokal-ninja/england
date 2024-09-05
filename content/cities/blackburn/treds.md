@@ -1,5 +1,5 @@
 ---
 title: "Treds"
 url: /blackburn/treds/
-shop: vacant
+shop: Leerstehend
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Grange Park Stores"
 url: /guildford/grange-park-stores/
-shop: convenience
+shop: Lebensmittel
 ---

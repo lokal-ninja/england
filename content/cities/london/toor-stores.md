@@ -1,5 +1,5 @@
 ---
 title: "Toor Stores"
 url: /london/toor-stores/
-shop: convenience
+shop: Lebensmittel
 ---

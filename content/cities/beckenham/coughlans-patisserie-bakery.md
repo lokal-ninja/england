@@ -1,5 +1,5 @@
 ---
 title: "Coughlans Patisserie Bakery"
 url: /beckenham/coughlans-patisserie-bakery/
-shop: bakery
+shop: Bäckerei
 ---

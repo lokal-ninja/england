@@ -1,5 +1,5 @@
 ---
 title: "Shipmates"
 url: /wigan/shipmates/
-shop: diving
+shop: Tauchen
 ---

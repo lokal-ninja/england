@@ -1,5 +1,5 @@
 ---
 title: "Makrom"
 url: /london/makrom/
-shop: clothes
+shop: Kleidung
 ---

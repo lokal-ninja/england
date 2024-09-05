@@ -1,5 +1,5 @@
 ---
 title: "Schnapps"
 url: /leicester/schnapps/
-shop: alcohol
+shop: Spirituosen
 ---

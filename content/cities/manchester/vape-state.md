@@ -1,5 +1,5 @@
 ---
 title: "Vape State"
 url: /manchester/vape-state/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

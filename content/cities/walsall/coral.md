@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /walsall/coral/
-shop: bookmaker
+shop: Wettbüro
 ---

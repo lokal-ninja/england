@@ -1,5 +1,5 @@
 ---
 title: "Bayfields"
 url: /bristol/bayfields/
-shop: optician
+shop: Optiker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "HMV"
 url: /chelmsford/hmv/
-shop: music
+shop: Musik
 ---

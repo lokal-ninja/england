@@ -1,5 +1,5 @@
 ---
 title: "kudos"
 url: /bristol/kudos/
-shop: vacant
+shop: Leerstehend
 ---

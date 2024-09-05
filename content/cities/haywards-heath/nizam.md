@@ -1,5 +1,5 @@
 ---
 title: "Nizam"
 url: /haywards-heath/nizam/
-shop: shop
+shop: Allgemein
 ---

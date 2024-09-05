@@ -1,5 +1,5 @@
 ---
 title: "Thanalaksme Jewelers Limited"
 url: /ilford/thanalaksme-jewelers-limited/
-shop: jewelry
+shop: Schmuck
 ---

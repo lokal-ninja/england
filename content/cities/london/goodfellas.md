@@ -1,5 +1,5 @@
 ---
 title: "Goodfellas"
 url: /london/goodfellas/
-shop: hairdresser
+shop: Friseur
 ---

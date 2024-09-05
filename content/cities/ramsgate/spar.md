@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /ramsgate/spar/
-shop: convenience
+shop: Lebensmittel
 ---

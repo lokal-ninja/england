@@ -1,5 +1,5 @@
 ---
 title: "i CANDi"
 url: /blackpool/i-candi/
-shop: bag
+shop: Taschen & Koffer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "expressions"
 url: /swindon/expressions/
-shop: gift
+shop: Andenken
 ---

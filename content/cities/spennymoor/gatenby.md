@@ -1,5 +1,5 @@
 ---
 title: "Gatenby"
 url: /spennymoor/gatenby/
-shop: furniture
+shop: Möbel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "TAN CO"
 url: /hull/tan-co/
-shop: beauty
+shop: Kosmetik
 ---

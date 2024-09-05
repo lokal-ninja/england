@@ -1,5 +1,5 @@
 ---
 title: "Greggs"
 url: /penrith/greggs-devonshire-street/
-shop: bakery
+shop: Bäckerei
 ---

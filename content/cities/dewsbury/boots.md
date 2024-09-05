@@ -1,5 +1,5 @@
 ---
 title: "Boots"
 url: /dewsbury/boots/
-shop: shop
+shop: Allgemein
 ---

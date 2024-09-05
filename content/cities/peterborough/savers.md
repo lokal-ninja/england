@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /peterborough/savers/
-shop: chemist
+shop: Drogerie
 ---

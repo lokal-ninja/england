@@ -1,5 +1,5 @@
 ---
 title: "Liz Earle"
 url: /leeds/liz-earle/
-shop: beauty
+shop: Kosmetik
 ---

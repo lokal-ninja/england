@@ -1,5 +1,5 @@
 ---
 title: "Starlook"
 url: /london/starlook/
-shop: hairdresser
+shop: Friseur
 ---

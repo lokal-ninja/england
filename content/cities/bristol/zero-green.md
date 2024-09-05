@@ -1,5 +1,5 @@
 ---
 title: "Zero Green"
 url: /bristol/zero-green/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shelter"
 url: /hastings/shelter/
-shop: charity
+shop: Gebrauchtwaren
 ---

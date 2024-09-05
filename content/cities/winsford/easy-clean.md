@@ -1,5 +1,5 @@
 ---
 title: "Easy Clean"
 url: /winsford/easy-clean/
-shop: laundry
+shop: Wäscherei
 ---

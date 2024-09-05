@@ -1,5 +1,5 @@
 ---
 title: "Amplifon"
 url: /chelmsford/amplifon/
-shop: hearing aids
+shop: Hörgeräte
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spar Meopham"
 url: /meopham/spar-meopham/
-shop: convenience
+shop: Lebensmittel
 ---

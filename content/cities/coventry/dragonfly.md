@@ -1,5 +1,5 @@
 ---
 title: "Dragonfly"
 url: /coventry/dragonfly/
-shop: tattoo
+shop: Tattoo
 ---

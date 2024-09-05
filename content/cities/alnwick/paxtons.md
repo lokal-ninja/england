@@ -1,5 +1,5 @@
 ---
 title: "Paxtons"
 url: /alnwick/paxtons/
-shop: shop
+shop: Allgemein
 ---

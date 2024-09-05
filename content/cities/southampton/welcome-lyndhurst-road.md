@@ -1,5 +1,5 @@
 ---
 title: "Welcome"
 url: /southampton/welcome-lyndhurst-road/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Illyrian Barber"
 url: /aldershot/illyrian-barber/
-shop: hairdresser
+shop: Friseur
 ---

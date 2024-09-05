@@ -1,5 +1,5 @@
 ---
 title: "Mirage"
 url: /leeds/mirage/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

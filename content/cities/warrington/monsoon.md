@@ -1,5 +1,5 @@
 ---
 title: "Monsoon"
 url: /warrington/monsoon/
-shop: clothes
+shop: Kleidung
 ---

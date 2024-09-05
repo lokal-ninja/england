@@ -1,5 +1,5 @@
 ---
 title: "Bodycare"
 url: /ulverston/bodycare/
-shop: chemist
+shop: Drogerie
 ---

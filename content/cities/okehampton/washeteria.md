@@ -1,5 +1,5 @@
 ---
 title: "Washeteria"
 url: /okehampton/washeteria/
-shop: laundry
+shop: Wäscherei
 ---

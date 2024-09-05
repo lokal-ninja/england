@@ -1,5 +1,5 @@
 ---
 title: "Specsavers"
 url: /skipton/specsavers/
-shop: optician
+shop: Optiker
 ---

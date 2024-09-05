@@ -1,5 +1,5 @@
 ---
 title: "MK Gifts"
 url: /london/mk-gifts/
-shop: shop
+shop: Allgemein
 ---

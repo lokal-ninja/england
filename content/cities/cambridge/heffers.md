@@ -1,5 +1,5 @@
 ---
 title: "Heffers"
 url: /cambridge/heffers/
-shop: books
+shop: Bücher
 ---

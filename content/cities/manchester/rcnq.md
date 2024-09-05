@@ -1,5 +1,5 @@
 ---
 title: "RCNQ"
 url: /manchester/rcnq/
-shop: hairdresser
+shop: Friseur
 ---

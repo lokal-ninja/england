@@ -1,5 +1,5 @@
 ---
 title: "The Beauty Centre"
 url: /sudbury/the-beauty-centre/
-shop: beauty
+shop: Kosmetik
 ---

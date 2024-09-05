@@ -1,5 +1,5 @@
 ---
 title: "Specsavers"
 url: /goole/specsavers/
-shop: optician
+shop: Optiker
 ---

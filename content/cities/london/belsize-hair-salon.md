@@ -1,5 +1,5 @@
 ---
 title: "Belsize Hair Salon"
 url: /london/belsize-hair-salon/
-shop: hairdresser
+shop: Friseur
 ---

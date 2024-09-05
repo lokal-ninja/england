@@ -1,5 +1,5 @@
 ---
 title: "E Cigarette Zone"
 url: /yeadon/e-cigarette-zone/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

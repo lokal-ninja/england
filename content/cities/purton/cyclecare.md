@@ -1,5 +1,5 @@
 ---
 title: "Cyclecare"
 url: /purton/cyclecare/
-shop: bicycle
+shop: Fahrrad
 ---

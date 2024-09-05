@@ -1,5 +1,5 @@
 ---
 title: "Mesmerize"
 url: /rotherham/mesmerize/
-shop: gift
+shop: Andenken
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Morrisons Daily"
 url: /hartlepool/morrisons-daily-northgate/
-shop: convenience
+shop: Lebensmittel
 ---

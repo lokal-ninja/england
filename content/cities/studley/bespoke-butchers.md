@@ -1,5 +1,5 @@
 ---
 title: "Bespoke Butchers"
 url: /studley/bespoke-butchers/
-shop: butcher
+shop: Metzgerei
 ---

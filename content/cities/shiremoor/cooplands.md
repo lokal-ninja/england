@@ -1,5 +1,5 @@
 ---
 title: "Cooplands"
 url: /shiremoor/cooplands/
-shop: bakery
+shop: Bäckerei
 ---

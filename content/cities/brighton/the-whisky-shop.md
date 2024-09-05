@@ -1,5 +1,5 @@
 ---
 title: "The Whisky Shop"
 url: /brighton/the-whisky-shop/
-shop: wine
+shop: Wein
 ---

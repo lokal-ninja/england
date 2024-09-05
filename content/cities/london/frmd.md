@@ -1,5 +1,5 @@
 ---
 title: "FRMD"
 url: /london/frmd/
-shop: frame
+shop: Rahmen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sunflower"
 url: /rye/sunflower/
-shop: charity
+shop: Gebrauchtwaren
 ---

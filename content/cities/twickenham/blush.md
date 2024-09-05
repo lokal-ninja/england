@@ -1,5 +1,5 @@
 ---
 title: "Blush"
 url: /twickenham/blush/
-shop: beauty
+shop: Kosmetik
 ---

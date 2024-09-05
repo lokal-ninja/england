@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /grange-over-sands/tesco-express/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /darlington/costcutter/
-shop: convenience
+shop: Lebensmittel
 ---

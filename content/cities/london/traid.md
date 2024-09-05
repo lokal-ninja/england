@@ -1,5 +1,5 @@
 ---
 title: "Traid"
 url: /london/traid/
-shop: charity
+shop: Gebrauchtwaren
 ---

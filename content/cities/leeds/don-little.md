@@ -1,5 +1,5 @@
 ---
 title: "Don Little"
 url: /leeds/don-little/
-shop: appliance
+shop: Haushaltsgeräte
 ---

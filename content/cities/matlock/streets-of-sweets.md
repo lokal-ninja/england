@@ -1,5 +1,5 @@
 ---
 title: "Streets of Sweets"
 url: /matlock/streets-of-sweets/
-shop: confectionery
+shop: Süßwaren
 ---

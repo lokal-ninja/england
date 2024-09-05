@@ -1,5 +1,5 @@
 ---
 title: "Kuflink"
 url: /gravesend/kuflink/
-shop: pawnbroker
+shop: Leiher
 ---

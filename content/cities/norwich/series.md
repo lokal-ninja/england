@@ -1,5 +1,5 @@
 ---
 title: "Series"
 url: /norwich/series/
-shop: hairdresser
+shop: Friseur
 ---

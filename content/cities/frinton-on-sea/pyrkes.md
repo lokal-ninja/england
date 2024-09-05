@@ -1,5 +1,5 @@
 ---
 title: "Pyrkes"
 url: /frinton-on-sea/pyrkes/
-shop: shop
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hidden Oak Equine and Country"
 url: /exeter/hidden-oak-equine-and-country/
-shop: general
+shop: Dorfladen
 ---

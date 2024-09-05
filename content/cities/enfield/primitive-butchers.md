@@ -1,5 +1,5 @@
 ---
 title: "Primitive Butchers"
 url: /enfield/primitive-butchers/
-shop: butcher
+shop: Metzgerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Quality Books"
 url: /great-yarmouth/quality-books/
-shop: books
+shop: Bücher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Icicle"
 url: /windermere/icicle/
-shop: outdoor
+shop: Outdoor
 ---

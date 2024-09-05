@@ -1,5 +1,5 @@
 ---
 title: "The Vine"
 url: /bodmin/the-vine/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

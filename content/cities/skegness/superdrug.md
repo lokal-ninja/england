@@ -1,5 +1,5 @@
 ---
 title: "Superdrug"
 url: /skegness/superdrug/
-shop: chemist
+shop: Drogerie
 ---

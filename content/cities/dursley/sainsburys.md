@@ -1,5 +1,5 @@
 ---
 title: "Sainsbury's"
 url: /dursley/sainsburys/
-shop: supermarket
+shop: Supermarkt
 ---

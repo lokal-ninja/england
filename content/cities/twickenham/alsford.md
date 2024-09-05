@@ -1,5 +1,5 @@
 ---
 title: "Alsford"
 url: /twickenham/alsford/
-shop: doityourself
+shop: Baumarkt
 ---

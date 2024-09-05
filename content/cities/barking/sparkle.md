@@ -1,5 +1,5 @@
 ---
 title: "Sparkle"
 url: /barking/sparkle/
-shop: bag
+shop: Taschen & Koffer
 ---

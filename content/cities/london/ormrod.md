@@ -1,5 +1,5 @@
 ---
 title: "Ormrod"
 url: /london/ormrod/
-shop: lamps
+shop: Lampen
 ---

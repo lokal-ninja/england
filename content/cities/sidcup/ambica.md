@@ -1,5 +1,5 @@
 ---
 title: "Ambica"
 url: /sidcup/ambica/
-shop: alcohol
+shop: Spirituosen
 ---

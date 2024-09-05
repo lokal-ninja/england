@@ -1,5 +1,5 @@
 ---
 title: "Sonica"
 url: /hull/sonica/
-shop: lamps
+shop: Lampen
 ---

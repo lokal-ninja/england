@@ -1,5 +1,5 @@
 ---
 title: "Haynuf"
 url: /london/haynuf/
-shop: convenience
+shop: Lebensmittel
 ---

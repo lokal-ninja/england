@@ -1,5 +1,5 @@
 ---
 title: "Reiss"
 url: /portsmouth/reiss/
-shop: clothes
+shop: Kleidung
 ---

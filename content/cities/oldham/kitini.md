@@ -1,5 +1,5 @@
 ---
 title: "Kitini"
 url: /oldham/kitini/
-shop: kitchen
+shop: Küchen
 ---

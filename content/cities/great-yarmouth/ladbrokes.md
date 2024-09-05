@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /great-yarmouth/ladbrokes/
-shop: bookmaker
+shop: Wettbüro
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hopscotch"
 url: /ripon/hopscotch/
-shop: shoes
+shop: Schuhe
 ---

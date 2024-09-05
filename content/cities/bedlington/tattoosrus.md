@@ -1,5 +1,5 @@
 ---
 title: "TattoosRUs"
 url: /bedlington/tattoosrus/
-shop: tattoo
+shop: Tattoo
 ---

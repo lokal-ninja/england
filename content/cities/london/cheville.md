@@ -1,5 +1,5 @@
 ---
 title: "Cheville"
 url: /london/cheville/
-shop: interior decoration
+shop: Raumausstattung
 ---

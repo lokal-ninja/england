@@ -1,5 +1,5 @@
 ---
 title: "Youthstar"
 url: /manchester/youthstar/
-shop: wholesale
+shop: Großhandel
 ---

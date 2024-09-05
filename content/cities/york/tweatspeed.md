@@ -1,5 +1,5 @@
 ---
 title: "Tweatspeed"
 url: /york/tweatspeed/
-shop: car repair
+shop: Autowerkstatt
 ---

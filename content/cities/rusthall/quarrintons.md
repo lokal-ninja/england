@@ -1,5 +1,5 @@
 ---
 title: "Quarrintons"
 url: /rusthall/quarrintons/
-shop: butcher
+shop: Metzgerei
 ---

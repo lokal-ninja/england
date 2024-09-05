@@ -1,5 +1,5 @@
 ---
 title: "Westcountry Tile Centre"
 url: /pool-redruth/westcountry-tile-centre/
-shop: doityourself
+shop: Baumarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sense"
 url: /whitstable/sense/
-shop: charity
+shop: Gebrauchtwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Currys"
 url: /pontefract/currys/
-shop: electronics
+shop: Elektronik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Naanaa"
 url: /manchester/naanaa/
-shop: wholesale
+shop: Großhandel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Couture"
 url: /congleton/couture/
-shop: hairdresser
+shop: Friseur
 ---

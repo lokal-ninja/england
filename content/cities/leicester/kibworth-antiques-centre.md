@@ -1,5 +1,5 @@
 ---
 title: "Kibworth Antiques Centre"
 url: /leicester/kibworth-antiques-centre/
-shop: antiques
+shop: Antiquitäten
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Turkish Golden Scissors"
 url: /middlesbrough/turkish-golden-scissors/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rons"
 url: /sheffield/rons/
-shop: gift
+shop: Andenken
 ---

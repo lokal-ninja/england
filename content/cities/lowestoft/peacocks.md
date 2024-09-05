@@ -1,5 +1,5 @@
 ---
 title: "Peacocks"
 url: /lowestoft/peacocks/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bubble Ci Tea"
 url: /portsmouth/bubble-ci-tea/
-shop: shop
+shop: Allgemein
 ---

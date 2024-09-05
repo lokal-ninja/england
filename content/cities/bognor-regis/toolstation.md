@@ -1,5 +1,5 @@
 ---
 title: "Toolstation"
 url: /bognor-regis/toolstation/
-shop: doityourself
+shop: Baumarkt
 ---

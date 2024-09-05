@@ -1,5 +1,5 @@
 ---
 title: "Flourish"
 url: /devizes/flourish/
-shop: beauty
+shop: Kosmetik
 ---

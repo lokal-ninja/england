@@ -1,5 +1,5 @@
 ---
 title: "The Prom Shop"
 url: /morecambe/the-prom-shop/
-shop: convenience
+shop: Lebensmittel
 ---

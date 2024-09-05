@@ -1,5 +1,5 @@
 ---
 title: "Cabbage Patch"
 url: /castleford/cabbage-patch/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wotsits"
 url: /woodbridge/wotsits/
-shop: hardware
+shop: Eisenwaren
 ---

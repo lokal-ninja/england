@@ -1,5 +1,5 @@
 ---
 title: "News +"
 url: /colchester/news/
-shop: newsagent
+shop: Zeitungen
 ---

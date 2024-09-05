@@ -1,5 +1,5 @@
 ---
 title: "Bernados"
 url: /london/bernados/
-shop: charity
+shop: Gebrauchtwaren
 ---

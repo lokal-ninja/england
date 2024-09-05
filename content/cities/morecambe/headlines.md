@@ -1,5 +1,5 @@
 ---
 title: "Headlines"
 url: /morecambe/headlines/
-shop: hairdresser
+shop: Friseur
 ---

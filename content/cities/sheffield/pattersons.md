@@ -1,5 +1,5 @@
 ---
 title: "Pattersons"
 url: /sheffield/pattersons/
-shop: butcher
+shop: Metzgerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Longworths"
 url: /northwich/longworths/
-shop: hairdresser
+shop: Friseur
 ---

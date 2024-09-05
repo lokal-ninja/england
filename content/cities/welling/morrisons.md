@@ -1,5 +1,5 @@
 ---
 title: "Morrisons"
 url: /welling/morrisons/
-shop: supermarket
+shop: Supermarkt
 ---

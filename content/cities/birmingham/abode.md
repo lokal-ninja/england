@@ -1,5 +1,5 @@
 ---
 title: "Abode"
 url: /birmingham/abode/
-shop: fabric
+shop: Textil
 ---

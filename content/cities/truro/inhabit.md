@@ -1,5 +1,5 @@
 ---
 title: "Inhabit"
 url: /truro/inhabit/
-shop: gift
+shop: Andenken
 ---

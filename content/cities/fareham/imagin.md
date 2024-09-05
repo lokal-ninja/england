@@ -1,5 +1,5 @@
 ---
 title: "Imagin"
 url: /fareham/imagin/
-shop: gift
+shop: Andenken
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lexus"
 url: /swindon/lexus/
-shop: car
+shop: Autohaus
 ---

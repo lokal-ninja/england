@@ -1,5 +1,5 @@
 ---
 title: "Vans"
 url: /ellesmere-port/vans/
-shop: shoes
+shop: Schuhe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Quay Plastics"
 url: /north-shields/quay-plastics/
-shop: hardware
+shop: Eisenwaren
 ---

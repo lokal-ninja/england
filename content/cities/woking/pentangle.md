@@ -1,5 +1,5 @@
 ---
 title: "Pentangle"
 url: /woking/pentangle/
-shop: pet
+shop: Tiere
 ---

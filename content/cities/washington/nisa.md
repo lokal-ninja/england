@@ -1,5 +1,5 @@
 ---
 title: "Nisa"
 url: /washington/nisa/
-shop: convenience
+shop: Lebensmittel
 ---

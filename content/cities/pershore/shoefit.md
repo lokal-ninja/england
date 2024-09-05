@@ -1,5 +1,5 @@
 ---
 title: "Shoefit"
 url: /pershore/shoefit/
-shop: shoes
+shop: Schuhe
 ---

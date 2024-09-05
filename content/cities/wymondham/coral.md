@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /wymondham/coral/
-shop: bookmaker
+shop: Wettbüro
 ---

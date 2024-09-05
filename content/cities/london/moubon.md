@@ -1,5 +1,5 @@
 ---
 title: "Moubon"
 url: /london/moubon/
-shop: shop
+shop: Allgemein
 ---

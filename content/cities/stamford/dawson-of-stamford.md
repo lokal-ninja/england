@@ -1,5 +1,5 @@
 ---
 title: "Dawson of Stamford"
 url: /stamford/dawson-of-stamford/
-shop: jewelry
+shop: Schmuck
 ---

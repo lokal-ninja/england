@@ -1,5 +1,5 @@
 ---
 title: "Barker And Stonehouse"
 url: /darlington/barker-and-stonehouse/
-shop: furniture
+shop: Möbel
 ---

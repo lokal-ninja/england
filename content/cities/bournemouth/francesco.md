@@ -1,5 +1,5 @@
 ---
 title: "Francesco"
 url: /bournemouth/francesco/
-shop: hairdresser
+shop: Friseur
 ---

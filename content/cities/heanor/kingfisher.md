@@ -1,5 +1,5 @@
 ---
 title: "Kingfisher"
 url: /heanor/kingfisher/
-shop: wholesale
+shop: Großhandel
 ---

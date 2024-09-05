@@ -1,5 +1,5 @@
 ---
 title: "Timpson"
 url: /stroud/timpson/
-shop: locksmith
+shop: Schlüsseldienst
 ---

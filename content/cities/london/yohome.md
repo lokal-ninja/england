@@ -1,5 +1,5 @@
 ---
 title: "YoHome"
 url: /london/yohome/
-shop: supermarket
+shop: Supermarkt
 ---

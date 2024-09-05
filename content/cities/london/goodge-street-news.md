@@ -1,5 +1,5 @@
 ---
 title: "Goodge Street News"
 url: /london/goodge-street-news/
-shop: newsagent
+shop: Zeitungen
 ---

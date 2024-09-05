@@ -1,5 +1,5 @@
 ---
 title: "Hammonds"
 url: /nottingham/hammonds/
-shop: furniture
+shop: Möbel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sam Fogg"
 url: /london/sam-fogg/
-shop: art
+shop: Kunst
 ---

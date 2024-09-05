@@ -1,5 +1,5 @@
 ---
 title: "Bloomers"
 url: /bristol/bloomers/
-shop: vacant
+shop: Leerstehend
 ---

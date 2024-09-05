@@ -1,5 +1,5 @@
 ---
 title: "Waterstones"
 url: /wakefield/waterstones/
-shop: books
+shop: Bücher
 ---

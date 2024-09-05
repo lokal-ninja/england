@@ -1,5 +1,5 @@
 ---
 title: "Tufnell Park Launderette"
 url: /london/tufnell-park-launderette/
-shop: laundry
+shop: Wäscherei
 ---

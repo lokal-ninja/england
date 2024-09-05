@@ -1,5 +1,5 @@
 ---
 title: "H S Electrical Wholesalers"
 url: /stockport/h-s-electrical-wholesalers/
-shop: trade
+shop: Baustoffe
 ---

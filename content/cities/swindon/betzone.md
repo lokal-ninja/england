@@ -1,5 +1,5 @@
 ---
 title: "Betzone"
 url: /swindon/betzone/
-shop: bookmaker
+shop: Wettbüro
 ---

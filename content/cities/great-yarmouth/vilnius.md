@@ -1,5 +1,5 @@
 ---
 title: "Vilnius"
 url: /great-yarmouth/vilnius/
-shop: convenience
+shop: Lebensmittel
 ---

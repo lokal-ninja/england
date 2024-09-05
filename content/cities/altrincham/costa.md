@@ -1,5 +1,5 @@
 ---
 title: "Costa"
 url: /altrincham/costa/
-shop: coffee
+shop: Kaffee
 ---

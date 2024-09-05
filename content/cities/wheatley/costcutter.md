@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /wheatley/costcutter/
-shop: convenience
+shop: Lebensmittel
 ---

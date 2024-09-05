@@ -1,5 +1,5 @@
 ---
 title: "Balducci Jewellers"
 url: /neston/balducci-jewellers/
-shop: jewelry
+shop: Schmuck
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /london/londis-haverstock-hill/
-shop: convenience
+shop: Lebensmittel
 ---

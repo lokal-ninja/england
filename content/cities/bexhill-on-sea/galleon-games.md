@@ -1,5 +1,5 @@
 ---
 title: "Galleon Games"
 url: /bexhill-on-sea/galleon-games/
-shop: games
+shop: Spiele
 ---

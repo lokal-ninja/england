@@ -1,5 +1,5 @@
 ---
 title: "DFS"
 url: /preston/dfs/
-shop: furniture
+shop: Möbel
 ---

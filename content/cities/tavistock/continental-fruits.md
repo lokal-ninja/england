@@ -1,5 +1,5 @@
 ---
 title: "Continental Fruits"
 url: /tavistock/continental-fruits/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

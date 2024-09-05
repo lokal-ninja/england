@@ -1,5 +1,5 @@
 ---
 title: "Nisa"
 url: /sunderland/nisa/
-shop: convenience
+shop: Lebensmittel
 ---

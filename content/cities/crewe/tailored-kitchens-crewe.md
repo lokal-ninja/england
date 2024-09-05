@@ -1,5 +1,5 @@
 ---
 title: "Tailored Kitchens - Crewe"
 url: /crewe/tailored-kitchens-crewe/
-shop: kitchen
+shop: Küchen
 ---

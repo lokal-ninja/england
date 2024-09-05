@@ -1,5 +1,5 @@
 ---
 title: "Tuesdays"
 url: /bolton/tuesdays/
-shop: shop
+shop: Allgemein
 ---

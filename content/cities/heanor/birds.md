@@ -1,5 +1,5 @@
 ---
 title: "Birds"
 url: /heanor/birds/
-shop: bakery
+shop: Bäckerei
 ---

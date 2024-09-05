@@ -1,5 +1,5 @@
 ---
 title: "Love Flowers"
 url: /hertford/love-flowers/
-shop: florist
+shop: Blumen
 ---

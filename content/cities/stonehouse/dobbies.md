@@ -1,5 +1,5 @@
 ---
 title: "Dobbies"
 url: /stonehouse/dobbies/
-shop: garden centre
+shop: Garten-Center
 ---

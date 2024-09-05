@@ -1,5 +1,5 @@
 ---
 title: "Jacques"
 url: /solihull/jacques/
-shop: bathroom
+shop: Badezimmer
 ---

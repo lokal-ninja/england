@@ -1,5 +1,5 @@
 ---
 title: "Mercedes"
 url: /ipswich/mercedes/
-shop: car
+shop: Autohaus
 ---

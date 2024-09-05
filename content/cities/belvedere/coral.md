@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /belvedere/coral/
-shop: bookmaker
+shop: Wettbüro
 ---

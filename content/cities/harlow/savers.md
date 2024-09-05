@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /harlow/savers/
-shop: chemist
+shop: Drogerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "IKEA"
 url: /milton-keynes/ikea/
-shop: furniture
+shop: Möbel
 ---

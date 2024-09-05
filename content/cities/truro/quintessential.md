@@ -1,5 +1,5 @@
 ---
 title: "Quintessential"
 url: /truro/quintessential/
-shop: herbalist
+shop: Kräuter
 ---

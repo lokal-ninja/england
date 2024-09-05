@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /brightlingsea/spar/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bauhaus"
 url: /bristol/bauhaus/
-shop: bag
+shop: Taschen & Koffer
 ---

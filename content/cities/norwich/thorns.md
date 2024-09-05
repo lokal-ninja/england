@@ -1,5 +1,5 @@
 ---
 title: "Thorns"
 url: /norwich/thorns/
-shop: hardware
+shop: Eisenwaren
 ---

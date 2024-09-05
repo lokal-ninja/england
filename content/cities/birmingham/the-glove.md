@@ -1,5 +1,5 @@
 ---
 title: "The Glove"
 url: /birmingham/the-glove/
-shop: sports
+shop: Sport
 ---

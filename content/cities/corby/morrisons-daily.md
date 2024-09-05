@@ -1,5 +1,5 @@
 ---
 title: "Morrisons Daily"
 url: /corby/morrisons-daily/
-shop: convenience
+shop: Lebensmittel
 ---

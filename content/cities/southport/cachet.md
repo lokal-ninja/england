@@ -1,5 +1,5 @@
 ---
 title: "Cachet"
 url: /southport/cachet/
-shop: shoes
+shop: Schuhe
 ---

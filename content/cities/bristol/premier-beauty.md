@@ -1,5 +1,5 @@
 ---
 title: "Premier Beauty"
 url: /bristol/premier-beauty/
-shop: beauty
+shop: Kosmetik
 ---

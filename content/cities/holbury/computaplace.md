@@ -1,5 +1,5 @@
 ---
 title: "computaplace"
 url: /holbury/computaplace/
-shop: computer
+shop: Computer
 ---

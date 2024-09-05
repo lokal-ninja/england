@@ -1,5 +1,5 @@
 ---
 title: "Stella Coffee and Tea"
 url: /london/stella-coffee-and-tea/
-shop: coffee
+shop: Kaffee
 ---

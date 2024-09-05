@@ -1,5 +1,5 @@
 ---
 title: "Evmolpia"
 url: /london/evmolpia/
-shop: supermarket
+shop: Supermarkt
 ---

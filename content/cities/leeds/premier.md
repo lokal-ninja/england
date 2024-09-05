@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /leeds/premier/
-shop: convenience
+shop: Lebensmittel
 ---

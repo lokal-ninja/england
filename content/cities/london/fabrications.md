@@ -1,5 +1,5 @@
 ---
 title: "Fabrications"
 url: /london/fabrications/
-shop: fabric
+shop: Textil
 ---

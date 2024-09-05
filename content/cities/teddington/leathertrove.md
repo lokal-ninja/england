@@ -1,5 +1,5 @@
 ---
 title: "Leathertrove"
 url: /teddington/leathertrove/
-shop: bag
+shop: Taschen & Koffer
 ---

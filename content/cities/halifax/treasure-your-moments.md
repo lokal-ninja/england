@@ -1,5 +1,5 @@
 ---
 title: "Treasure Your Moments"
 url: /halifax/treasure-your-moments/
-shop: gift
+shop: Andenken
 ---

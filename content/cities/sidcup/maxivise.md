@@ -1,5 +1,5 @@
 ---
 title: "Maxivise"
 url: /sidcup/maxivise/
-shop: optician
+shop: Optiker
 ---

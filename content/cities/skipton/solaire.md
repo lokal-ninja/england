@@ -1,5 +1,5 @@
 ---
 title: "Solaire"
 url: /skipton/solaire/
-shop: beauty
+shop: Kosmetik
 ---

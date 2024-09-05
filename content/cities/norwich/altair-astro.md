@@ -1,5 +1,5 @@
 ---
 title: "Altair Astro"
 url: /norwich/altair-astro/
-shop: shop
+shop: Allgemein
 ---

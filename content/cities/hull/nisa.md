@@ -1,5 +1,5 @@
 ---
 title: "Nisa"
 url: /hull/nisa/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sense"
 url: /hunstanton/sense/
-shop: charity
+shop: Gebrauchtwaren
 ---

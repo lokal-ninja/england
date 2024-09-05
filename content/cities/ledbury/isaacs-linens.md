@@ -1,5 +1,5 @@
 ---
 title: "Isaacs Linens"
 url: /ledbury/isaacs-linens/
-shop: fabric
+shop: Textil
 ---

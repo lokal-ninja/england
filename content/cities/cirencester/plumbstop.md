@@ -1,5 +1,5 @@
 ---
 title: "Plumbstop"
 url: /cirencester/plumbstop/
-shop: bathroom
+shop: Badezimmer
 ---

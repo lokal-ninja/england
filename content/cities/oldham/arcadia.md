@@ -1,5 +1,5 @@
 ---
 title: "Arcadia"
 url: /oldham/arcadia/
-shop: model
+shop: Modellbau
 ---

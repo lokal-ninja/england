@@ -1,5 +1,5 @@
 ---
 title: "Rewind Hair Lounge"
 url: /beverley/rewind-hair-lounge/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /petersfield/coral/
-shop: bookmaker
+shop: Wettbüro
 ---

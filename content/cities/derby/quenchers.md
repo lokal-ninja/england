@@ -1,5 +1,5 @@
 ---
 title: "Quenchers"
 url: /derby/quenchers/
-shop: alcohol
+shop: Spirituosen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Willow Burn Hospice"
 url: /chester-le-street/willow-burn-hospice/
-shop: charity
+shop: Gebrauchtwaren
 ---

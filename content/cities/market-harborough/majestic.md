@@ -1,5 +1,5 @@
 ---
 title: "Majestic"
 url: /market-harborough/majestic/
-shop: alcohol
+shop: Spirituosen
 ---

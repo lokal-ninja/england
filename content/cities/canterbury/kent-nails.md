@@ -1,5 +1,5 @@
 ---
 title: "Kent Nails"
 url: /canterbury/kent-nails/
-shop: beauty
+shop: Kosmetik
 ---

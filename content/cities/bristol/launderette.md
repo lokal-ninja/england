@@ -1,5 +1,5 @@
 ---
 title: "Launderette"
 url: /bristol/launderette/
-shop: laundry
+shop: Wäscherei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Polka Dott"
 url: /sheffield/polka-dott/
-shop: gift
+shop: Andenken
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ecco"
 url: /bishops-stortford/ecco/
-shop: shoes
+shop: Schuhe
 ---

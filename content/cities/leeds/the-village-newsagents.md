@@ -1,5 +1,5 @@
 ---
 title: "The Village Newsagents"
 url: /leeds/the-village-newsagents/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /bigrigg/spar/
-shop: convenience
+shop: Lebensmittel
 ---

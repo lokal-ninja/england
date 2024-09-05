@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /castleford/coral/
-shop: bookmaker
+shop: Wettbüro
 ---

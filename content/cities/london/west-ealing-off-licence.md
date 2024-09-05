@@ -1,5 +1,5 @@
 ---
 title: "West Ealing Off Licence"
 url: /london/west-ealing-off-licence/
-shop: alcohol
+shop: Spirituosen
 ---

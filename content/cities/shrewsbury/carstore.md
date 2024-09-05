@@ -1,5 +1,5 @@
 ---
 title: "CarStore"
 url: /shrewsbury/carstore/
-shop: car
+shop: Autohaus
 ---

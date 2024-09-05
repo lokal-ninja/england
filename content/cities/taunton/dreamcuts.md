@@ -1,5 +1,5 @@
 ---
 title: "Dreamcuts"
 url: /taunton/dreamcuts/
-shop: hairdresser
+shop: Friseur
 ---

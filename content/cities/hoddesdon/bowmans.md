@@ -1,5 +1,5 @@
 ---
 title: "Bowmans"
 url: /hoddesdon/bowmans/
-shop: houseware
+shop: Haushaltsartikel
 ---

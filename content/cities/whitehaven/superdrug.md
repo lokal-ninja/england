@@ -1,5 +1,5 @@
 ---
 title: "Superdrug"
 url: /whitehaven/superdrug/
-shop: chemist
+shop: Drogerie
 ---

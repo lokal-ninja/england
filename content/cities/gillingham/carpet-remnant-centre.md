@@ -1,5 +1,5 @@
 ---
 title: "Carpet Remnant Centre"
 url: /gillingham/carpet-remnant-centre/
-shop: carpet
+shop: Teppiche
 ---

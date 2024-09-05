@@ -1,5 +1,5 @@
 ---
 title: "Sofology"
 url: /grays/sofology/
-shop: furniture
+shop: Möbel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Everlasting Impressions"
 url: /cirencester/everlasting-impressions/
-shop: tattoo
+shop: Tattoo
 ---

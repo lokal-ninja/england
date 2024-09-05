@@ -1,5 +1,5 @@
 ---
 title: "ChiselCraft"
 url: /torquay/chiselcraft/
-shop: gift
+shop: Andenken
 ---

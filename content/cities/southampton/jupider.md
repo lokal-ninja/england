@@ -1,5 +1,5 @@
 ---
 title: "Jupider"
 url: /southampton/jupider/
-shop: convenience
+shop: Lebensmittel
 ---

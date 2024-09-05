@@ -1,5 +1,5 @@
 ---
 title: "Oasis - Aquarium Supplies"
 url: /salford/oasis-aquarium-supplies/
-shop: pet
+shop: Tiere
 ---

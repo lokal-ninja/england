@@ -1,5 +1,5 @@
 ---
 title: "Cellini"
 url: /cambridge/cellini/
-shop: jewelry
+shop: Schmuck
 ---

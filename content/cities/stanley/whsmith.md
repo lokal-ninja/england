@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /stanley/whsmith/
-shop: newsagent
+shop: Zeitungen
 ---

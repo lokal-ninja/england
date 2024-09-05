@@ -1,5 +1,5 @@
 ---
 title: "Dostlar"
 url: /london/dostlar/
-shop: convenience
+shop: Lebensmittel
 ---

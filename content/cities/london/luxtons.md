@@ -1,5 +1,5 @@
 ---
 title: "Luxtons"
 url: /london/luxtons/
-shop: convenience
+shop: Lebensmittel
 ---

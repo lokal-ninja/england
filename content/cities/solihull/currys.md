@@ -1,5 +1,5 @@
 ---
 title: "Currys"
 url: /solihull/currys/
-shop: electronics
+shop: Elektronik
 ---

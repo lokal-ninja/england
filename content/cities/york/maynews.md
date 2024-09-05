@@ -1,5 +1,5 @@
 ---
 title: "Maynews"
 url: /york/maynews/
-shop: newsagent
+shop: Zeitungen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Seven"
 url: /south-croydon/seven/
-shop: shop
+shop: Allgemein
 ---

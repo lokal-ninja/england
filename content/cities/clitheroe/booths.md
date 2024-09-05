@@ -1,5 +1,5 @@
 ---
 title: "Booths"
 url: /clitheroe/booths/
-shop: supermarket
+shop: Supermarkt
 ---

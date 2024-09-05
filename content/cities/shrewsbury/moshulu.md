@@ -1,5 +1,5 @@
 ---
 title: "Moshulu"
 url: /shrewsbury/moshulu/
-shop: shoes
+shop: Schuhe
 ---

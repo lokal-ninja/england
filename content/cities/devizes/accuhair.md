@@ -1,5 +1,5 @@
 ---
 title: "Accuhair"
 url: /devizes/accuhair/
-shop: hairdresser
+shop: Friseur
 ---

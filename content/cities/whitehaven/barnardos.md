@@ -1,5 +1,5 @@
 ---
 title: "Barnardo's"
 url: /whitehaven/barnardos/
-shop: charity
+shop: Gebrauchtwaren
 ---

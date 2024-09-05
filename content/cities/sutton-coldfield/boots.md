@@ -1,5 +1,5 @@
 ---
 title: "Boots"
 url: /sutton-coldfield/boots/
-shop: chemist
+shop: Drogerie
 ---

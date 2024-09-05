@@ -1,5 +1,5 @@
 ---
 title: "Toy Planet"
 url: /wantage/toy-planet/
-shop: toys
+shop: Spielzeug
 ---

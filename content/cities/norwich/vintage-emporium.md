@@ -1,5 +1,5 @@
 ---
 title: "Vintage Emporium"
 url: /norwich/vintage-emporium/
-shop: clothes
+shop: Kleidung
 ---

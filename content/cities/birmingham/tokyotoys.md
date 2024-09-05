@@ -1,5 +1,5 @@
 ---
 title: "TokyoToys"
 url: /birmingham/tokyotoys/
-shop: toys
+shop: Spielzeug
 ---

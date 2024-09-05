@@ -1,5 +1,5 @@
 ---
 title: "BladeZ"
 url: /leigh/bladez/
-shop: hairdresser
+shop: Friseur
 ---

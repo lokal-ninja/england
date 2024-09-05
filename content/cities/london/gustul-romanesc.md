@@ -1,5 +1,5 @@
 ---
 title: "Gustul Românesc"
 url: /london/gustul-romanesc/
-shop: convenience
+shop: Lebensmittel
 ---

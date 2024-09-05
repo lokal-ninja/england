@@ -1,5 +1,5 @@
 ---
 title: "Barnardo's"
 url: /coventry/barnardos/
-shop: charity
+shop: Gebrauchtwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Upgraded"
 url: /derby/upgraded/
-shop: hairdresser
+shop: Friseur
 ---

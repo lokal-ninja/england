@@ -1,5 +1,5 @@
 ---
 title: "Wheelers"
 url: /worthing/wheelers/
-shop: jewelry
+shop: Schmuck
 ---

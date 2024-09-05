@@ -1,5 +1,5 @@
 ---
 title: "Burditts"
 url: /wellingborough/burditts/
-shop: electronics
+shop: Elektronik
 ---

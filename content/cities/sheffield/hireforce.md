@@ -1,5 +1,5 @@
 ---
 title: "Hireforce"
 url: /sheffield/hireforce/
-shop: tools
+shop: Werkzeuge
 ---

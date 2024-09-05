@@ -1,5 +1,5 @@
 ---
 title: "EMG Kia"
 url: /thetford/emg-kia/
-shop: car
+shop: Autohaus
 ---

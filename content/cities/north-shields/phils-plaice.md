@@ -1,5 +1,5 @@
 ---
 title: "Phils Plaice"
 url: /north-shields/phils-plaice/
-shop: seafood
+shop: Fisch
 ---

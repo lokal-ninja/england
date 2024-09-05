@@ -1,5 +1,5 @@
 ---
 title: "Castleford Carpet Depot"
 url: /castleford/castleford-carpet-depot/
-shop: carpet
+shop: Teppiche
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jewson"
 url: /ryde/jewson/
-shop: shop
+shop: Allgemein
 ---

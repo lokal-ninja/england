@@ -1,5 +1,5 @@
 ---
 title: "Metropolis Vintage Toys"
 url: /warwick/metropolis-vintage-toys/
-shop: toys
+shop: Spielzeug
 ---

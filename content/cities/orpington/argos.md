@@ -1,5 +1,5 @@
 ---
 title: "Argos"
 url: /orpington/argos/
-shop: catalogue
+shop: Katalog
 ---

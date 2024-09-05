@@ -1,5 +1,5 @@
 ---
 title: "Carpetright"
 url: /wellingborough/carpetright/
-shop: carpet
+shop: Teppiche
 ---

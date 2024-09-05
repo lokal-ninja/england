@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /hayes/ladbrokes/
-shop: bookmaker
+shop: Wettbüro
 ---

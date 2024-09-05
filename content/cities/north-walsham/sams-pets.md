@@ -1,5 +1,5 @@
 ---
 title: "Sam's Pets"
 url: /north-walsham/sams-pets/
-shop: pet
+shop: Tiere
 ---

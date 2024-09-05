@@ -1,5 +1,5 @@
 ---
 title: "Catwalk"
 url: /huddersfield/catwalk/
-shop: clothes
+shop: Kleidung
 ---

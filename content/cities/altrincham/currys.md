@@ -1,5 +1,5 @@
 ---
 title: "Currys"
 url: /altrincham/currys/
-shop: electronics
+shop: Elektronik
 ---

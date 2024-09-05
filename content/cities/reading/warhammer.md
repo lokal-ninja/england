@@ -1,5 +1,5 @@
 ---
 title: "Warhammer"
 url: /reading/warhammer/
-shop: games
+shop: Spiele
 ---

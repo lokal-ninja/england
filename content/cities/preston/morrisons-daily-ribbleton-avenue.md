@@ -1,5 +1,5 @@
 ---
 title: "Morrisons Daily"
 url: /preston/morrisons-daily-ribbleton-avenue/
-shop: convenience
+shop: Lebensmittel
 ---

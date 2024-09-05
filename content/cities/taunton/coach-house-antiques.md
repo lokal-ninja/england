@@ -1,5 +1,5 @@
 ---
 title: "Coach House Antiques"
 url: /taunton/coach-house-antiques/
-shop: antiques
+shop: Antiquitäten
 ---

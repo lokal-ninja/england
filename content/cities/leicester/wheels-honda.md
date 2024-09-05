@@ -1,5 +1,5 @@
 ---
 title: "Wheels Honda"
 url: /leicester/wheels-honda/
-shop: motorcycle
+shop: Motorrad
 ---

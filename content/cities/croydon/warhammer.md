@@ -1,5 +1,5 @@
 ---
 title: "Warhammer"
 url: /croydon/warhammer/
-shop: games
+shop: Spiele
 ---

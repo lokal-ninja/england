@@ -1,5 +1,5 @@
 ---
 title: "Edit"
 url: /orpington/edit/
-shop: clothes
+shop: Kleidung
 ---

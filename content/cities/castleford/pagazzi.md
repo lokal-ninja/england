@@ -1,5 +1,5 @@
 ---
 title: "Pagazzi"
 url: /castleford/pagazzi/
-shop: houseware
+shop: Haushaltsartikel
 ---

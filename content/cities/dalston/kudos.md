@@ -1,5 +1,5 @@
 ---
 title: "Kudos"
 url: /dalston/kudos/
-shop: hairdresser
+shop: Friseur
 ---

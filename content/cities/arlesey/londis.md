@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /arlesey/londis/
-shop: convenience
+shop: Lebensmittel
 ---

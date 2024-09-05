@@ -1,5 +1,5 @@
 ---
 title: "Vintopia"
 url: /stroud/vintopia/
-shop: wine
+shop: Wein
 ---

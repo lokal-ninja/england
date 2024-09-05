@@ -1,5 +1,5 @@
 ---
 title: "NU:U"
 url: /swindon/nu-u/
-shop: beauty
+shop: Kosmetik
 ---

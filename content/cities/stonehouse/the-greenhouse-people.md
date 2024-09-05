@@ -1,5 +1,5 @@
 ---
 title: "The Greenhouse People"
 url: /stonehouse/the-greenhouse-people/
-shop: trade
+shop: Baustoffe
 ---

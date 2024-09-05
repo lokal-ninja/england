@@ -1,5 +1,5 @@
 ---
 title: "Bini"
 url: /sudbury/bini/
-shop: clothes
+shop: Kleidung
 ---

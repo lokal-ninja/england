@@ -1,5 +1,5 @@
 ---
 title: "Royton Carpet Centre"
 url: /oldham/royton-carpet-centre/
-shop: carpet
+shop: Teppiche
 ---

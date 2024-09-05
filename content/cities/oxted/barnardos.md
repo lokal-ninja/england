@@ -1,5 +1,5 @@
 ---
 title: "Barnardo's"
 url: /oxted/barnardos/
-shop: charity
+shop: Gebrauchtwaren
 ---

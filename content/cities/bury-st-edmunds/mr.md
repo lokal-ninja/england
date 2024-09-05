@@ -1,5 +1,5 @@
 ---
 title: "Mr."
 url: /bury-st-edmunds/mr/
-shop: hairdresser
+shop: Friseur
 ---

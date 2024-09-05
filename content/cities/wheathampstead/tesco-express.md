@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /wheathampstead/tesco-express/
-shop: convenience
+shop: Lebensmittel
 ---

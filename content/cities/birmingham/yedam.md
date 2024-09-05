@@ -1,5 +1,5 @@
 ---
 title: "Yedam"
 url: /birmingham/yedam/
-shop: hairdresser
+shop: Friseur
 ---

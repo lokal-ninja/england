@@ -1,5 +1,5 @@
 ---
 title: "Intelligent Shading"
 url: /wythall/intelligent-shading/
-shop: shop
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Blacks"
 url: /salisbury/blacks/
-shop: outdoor
+shop: Outdoor
 ---

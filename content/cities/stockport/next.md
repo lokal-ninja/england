@@ -1,5 +1,5 @@
 ---
 title: "Next"
 url: /stockport/next/
-shop: clothes
+shop: Kleidung
 ---

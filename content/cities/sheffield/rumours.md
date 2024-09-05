@@ -1,5 +1,5 @@
 ---
 title: "Rumours"
 url: /sheffield/rumours/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Beyond Beautiful"
 url: /rushden/beyond-beautiful/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Alpkit"
 url: /ilkley/alpkit/
-shop: outdoor
+shop: Outdoor
 ---

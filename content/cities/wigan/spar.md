@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /wigan/spar/
-shop: convenience
+shop: Lebensmittel
 ---

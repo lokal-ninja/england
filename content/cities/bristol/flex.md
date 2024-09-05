@@ -1,5 +1,5 @@
 ---
 title: "flex"
 url: /bristol/flex/
-shop: shop
+shop: Allgemein
 ---

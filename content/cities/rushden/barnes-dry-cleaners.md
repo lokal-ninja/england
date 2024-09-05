@@ -1,5 +1,5 @@
 ---
 title: "Barnes Dry Cleaners"
 url: /rushden/barnes-dry-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

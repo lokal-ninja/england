@@ -1,5 +1,5 @@
 ---
 title: "iBreathe"
 url: /manchester/ibreathe/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

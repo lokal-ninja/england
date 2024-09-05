@@ -1,5 +1,5 @@
 ---
 title: "Bronzena"
 url: /clacton-on-sea/bronzena/
-shop: beauty
+shop: Kosmetik
 ---

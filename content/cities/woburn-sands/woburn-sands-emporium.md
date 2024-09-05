@@ -1,5 +1,5 @@
 ---
 title: "Woburn Sands Emporium"
 url: /woburn-sands/woburn-sands-emporium/
-shop: garden centre
+shop: Garten-Center
 ---

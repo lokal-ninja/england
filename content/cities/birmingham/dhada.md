@@ -1,5 +1,5 @@
 ---
 title: "Dhada"
 url: /birmingham/dhada/
-shop: newsagent
+shop: Zeitungen
 ---

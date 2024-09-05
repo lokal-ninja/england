@@ -1,5 +1,5 @@
 ---
 title: "The Blossom Tree"
 url: /devizes/the-blossom-tree/
-shop: florist
+shop: Blumen
 ---

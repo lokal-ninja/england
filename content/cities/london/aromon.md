@@ -1,5 +1,5 @@
 ---
 title: "Aromon"
 url: /london/aromon/
-shop: furniture
+shop: Möbel
 ---

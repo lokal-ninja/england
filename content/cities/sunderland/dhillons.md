@@ -1,5 +1,5 @@
 ---
 title: "Dhillons"
 url: /sunderland/dhillons/
-shop: newsagent
+shop: Zeitungen
 ---

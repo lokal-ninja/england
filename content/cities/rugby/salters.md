@@ -1,5 +1,5 @@
 ---
 title: "Salters"
 url: /rugby/salters/
-shop: clothes
+shop: Kleidung
 ---

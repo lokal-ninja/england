@@ -1,5 +1,5 @@
 ---
 title: "Mint"
 url: /twickenham/mint/
-shop: hairdresser
+shop: Friseur
 ---

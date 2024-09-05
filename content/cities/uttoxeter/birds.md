@@ -1,5 +1,5 @@
 ---
 title: "Birds"
 url: /uttoxeter/birds/
-shop: bakery
+shop: Bäckerei
 ---

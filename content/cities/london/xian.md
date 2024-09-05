@@ -1,5 +1,5 @@
 ---
 title: "Xian"
 url: /london/xian/
-shop: convenience
+shop: Lebensmittel
 ---

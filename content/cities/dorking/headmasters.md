@@ -1,5 +1,5 @@
 ---
 title: "Headmasters"
 url: /dorking/headmasters/
-shop: hairdresser
+shop: Friseur
 ---

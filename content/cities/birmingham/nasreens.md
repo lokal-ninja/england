@@ -1,5 +1,5 @@
 ---
 title: "Nasreens"
 url: /birmingham/nasreens/
-shop: clothes
+shop: Kleidung
 ---

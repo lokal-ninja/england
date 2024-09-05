@@ -1,5 +1,5 @@
 ---
 title: "Superdrug"
 url: /london/superdrug-bugsbys-way/
-shop: chemist
+shop: Drogerie
 ---

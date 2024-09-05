@@ -1,5 +1,5 @@
 ---
 title: "Hortus"
 url: /london/hortus/
-shop: garden centre
+shop: Garten-Center
 ---

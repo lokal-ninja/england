@@ -1,5 +1,5 @@
 ---
 title: "Chaumet"
 url: /london/chaumet/
-shop: jewelry
+shop: Schmuck
 ---

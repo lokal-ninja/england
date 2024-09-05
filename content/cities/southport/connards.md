@@ -1,5 +1,5 @@
 ---
 title: "Connards"
 url: /southport/connards/
-shop: jewelry
+shop: Schmuck
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Geo Café"
 url: /reading/geo-cafe/
-shop: bakery
+shop: Bäckerei
 ---

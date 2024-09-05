@@ -1,5 +1,5 @@
 ---
 title: "Seasons"
 url: /derby/seasons/
-shop: florist
+shop: Blumen
 ---

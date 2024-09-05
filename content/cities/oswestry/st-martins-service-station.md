@@ -1,5 +1,5 @@
 ---
 title: "St Martins Service Station"
 url: /oswestry/st-martins-service-station/
-shop: convenience
+shop: Lebensmittel
 ---

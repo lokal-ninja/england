@@ -1,5 +1,5 @@
 ---
 title: "Wan"
 url: /richmond/wan/
-shop: massage
+shop: Massage
 ---

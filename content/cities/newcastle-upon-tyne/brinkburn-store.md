@@ -1,5 +1,5 @@
 ---
 title: "Brinkburn Store"
 url: /newcastle-upon-tyne/brinkburn-store/
-shop: shop
+shop: Allgemein
 ---

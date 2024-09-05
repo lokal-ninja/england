@@ -1,5 +1,5 @@
 ---
 title: "Matalan"
 url: /southport/matalan/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cowans"
 url: /nottingham/cowans/
-shop: fabric
+shop: Textil
 ---

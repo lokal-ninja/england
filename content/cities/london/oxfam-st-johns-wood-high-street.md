@@ -1,5 +1,5 @@
 ---
 title: "Oxfam"
 url: /london/oxfam-st-johns-wood-high-street/
-shop: charity
+shop: Gebrauchtwaren
 ---

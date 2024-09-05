@@ -1,5 +1,5 @@
 ---
 title: "Co-op Food"
 url: /st-austell/co-op-food-west-hill/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Haskins"
 url: /crawley/haskins/
-shop: garden centre
+shop: Garten-Center
 ---

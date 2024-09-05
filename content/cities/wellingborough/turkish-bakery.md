@@ -1,5 +1,5 @@
 ---
 title: "Turkish Bakery"
 url: /wellingborough/turkish-bakery/
-shop: bakery
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Altrades"
 url: /guildford/altrades/
-shop: shop
+shop: Allgemein
 ---

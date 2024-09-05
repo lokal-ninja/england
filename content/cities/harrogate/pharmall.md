@@ -1,5 +1,5 @@
 ---
 title: "Pharmall"
 url: /harrogate/pharmall/
-shop: pet
+shop: Tiere
 ---

@@ -1,5 +1,5 @@
 ---
 title: "NSPCC"
 url: /cowes/nspcc/
-shop: charity
+shop: Gebrauchtwaren
 ---

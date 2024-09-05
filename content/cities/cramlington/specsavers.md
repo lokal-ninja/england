@@ -1,5 +1,5 @@
 ---
 title: "Specsavers"
 url: /cramlington/specsavers/
-shop: optician
+shop: Optiker
 ---

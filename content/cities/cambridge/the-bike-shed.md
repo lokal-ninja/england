@@ -1,5 +1,5 @@
 ---
 title: "The Bike Shed"
 url: /cambridge/the-bike-shed/
-shop: bicycle
+shop: Fahrrad
 ---

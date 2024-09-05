@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /milton-keynes/tesco-express-elthorne-way/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Smyths"
 url: /leeds/smyths/
-shop: toys
+shop: Spielzeug
 ---

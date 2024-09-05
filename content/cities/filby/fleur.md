@@ -1,5 +1,5 @@
 ---
 title: "Fleur"
 url: /filby/fleur/
-shop: hairdresser
+shop: Friseur
 ---

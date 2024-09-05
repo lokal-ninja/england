@@ -1,5 +1,5 @@
 ---
 title: "NumiScan"
 url: /london/numiscan/
-shop: shop
+shop: Allgemein
 ---

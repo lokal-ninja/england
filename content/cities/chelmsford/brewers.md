@@ -1,5 +1,5 @@
 ---
 title: "Brewers"
 url: /chelmsford/brewers/
-shop: interior decoration
+shop: Raumausstattung
 ---

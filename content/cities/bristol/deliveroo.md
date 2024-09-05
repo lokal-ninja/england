@@ -1,5 +1,5 @@
 ---
 title: "Deliveroo"
 url: /bristol/deliveroo/
-shop: supermarket
+shop: Supermarkt
 ---

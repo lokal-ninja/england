@@ -1,5 +1,5 @@
 ---
 title: "Alexandra Supermarket"
 url: /london/alexandra-supermarket/
-shop: convenience
+shop: Lebensmittel
 ---

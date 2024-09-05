@@ -1,5 +1,5 @@
 ---
 title: "Carpo"
 url: /london/carpo/
-shop: coffee
+shop: Kaffee
 ---

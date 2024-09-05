@@ -1,5 +1,5 @@
 ---
 title: "Julia"
 url: /peterborough/julia/
-shop: convenience
+shop: Lebensmittel
 ---

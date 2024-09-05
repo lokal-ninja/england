@@ -1,5 +1,5 @@
 ---
 title: "Dollyhotdogs"
 url: /lyme-regis/dollyhotdogs/
-shop: gift
+shop: Andenken
 ---

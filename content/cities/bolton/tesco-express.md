@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /bolton/tesco-express/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Joon"
 url: /wetherby/joon/
-shop: craft
+shop: Basteln
 ---

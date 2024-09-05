@@ -1,5 +1,5 @@
 ---
 title: "Primark"
 url: /broadstairs/primark/
-shop: clothes
+shop: Kleidung
 ---

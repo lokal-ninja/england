@@ -1,5 +1,5 @@
 ---
 title: "Share"
 url: /frome/share/
-shop: catalogue
+shop: Katalog
 ---

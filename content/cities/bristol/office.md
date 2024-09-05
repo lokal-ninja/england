@@ -1,5 +1,5 @@
 ---
 title: "Office"
 url: /bristol/office/
-shop: shoes
+shop: Schuhe
 ---

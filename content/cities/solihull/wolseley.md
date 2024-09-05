@@ -1,5 +1,5 @@
 ---
 title: "Wolseley"
 url: /solihull/wolseley/
-shop: trade
+shop: Baustoffe
 ---

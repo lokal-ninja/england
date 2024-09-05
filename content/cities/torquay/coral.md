@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /torquay/coral/
-shop: bookmaker
+shop: Wettbüro
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /wadebridge/betfred/
-shop: bookmaker
+shop: Wettbüro
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Launderette"
 url: /belvedere/launderette/
-shop: laundry
+shop: Wäscherei
 ---

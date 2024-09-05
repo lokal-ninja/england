@@ -1,5 +1,5 @@
 ---
 title: "Central"
 url: /blackpool/central/
-shop: convenience
+shop: Lebensmittel
 ---

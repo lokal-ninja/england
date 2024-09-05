@@ -1,5 +1,5 @@
 ---
 title: "Mummas Emporium"
 url: /shrewsbury/mummas-emporium/
-shop: antiques
+shop: Antiquitäten
 ---

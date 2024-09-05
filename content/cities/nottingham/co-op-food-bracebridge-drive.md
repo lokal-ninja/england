@@ -1,5 +1,5 @@
 ---
 title: "Co-op Food"
 url: /nottingham/co-op-food-bracebridge-drive/
-shop: supermarket
+shop: Supermarkt
 ---

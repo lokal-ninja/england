@@ -1,5 +1,5 @@
 ---
 title: "Monmouth Coffee Company"
 url: /london/monmouth-coffee-company/
-shop: deli
+shop: Feinkost
 ---

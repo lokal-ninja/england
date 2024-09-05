@@ -1,5 +1,5 @@
 ---
 title: "Wenzel's"
 url: /greenford/wenzels/
-shop: bakery
+shop: Bäckerei
 ---

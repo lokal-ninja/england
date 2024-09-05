@@ -1,5 +1,5 @@
 ---
 title: "The Village Green Grocers"
 url: /belvedere/the-village-green-grocers/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

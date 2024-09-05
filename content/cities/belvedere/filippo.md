@@ -1,5 +1,5 @@
 ---
 title: "Filippo"
 url: /belvedere/filippo/
-shop: hairdresser
+shop: Friseur
 ---

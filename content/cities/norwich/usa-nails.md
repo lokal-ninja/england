@@ -1,5 +1,5 @@
 ---
 title: "USA Nails"
 url: /norwich/usa-nails/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tempus"
 url: /exmouth/tempus/
-shop: jewelry
+shop: Schmuck
 ---

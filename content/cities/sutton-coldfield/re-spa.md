@@ -1,5 +1,5 @@
 ---
 title: "Re Spa"
 url: /sutton-coldfield/re-spa/
-shop: hairdresser
+shop: Friseur
 ---

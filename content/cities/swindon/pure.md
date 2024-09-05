@@ -1,5 +1,5 @@
 ---
 title: "Pure"
 url: /swindon/pure/
-shop: beauty
+shop: Kosmetik
 ---

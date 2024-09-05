@@ -1,5 +1,5 @@
 ---
 title: "SPR"
 url: /eastergate/spr/
-shop: pet
+shop: Tiere
 ---

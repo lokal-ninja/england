@@ -1,5 +1,5 @@
 ---
 title: "Wicor Models"
 url: /portchester-fareham/wicor-models/
-shop: model
+shop: Modellbau
 ---

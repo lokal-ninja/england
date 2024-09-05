@@ -1,5 +1,5 @@
 ---
 title: "CJ Hair"
 url: /belvedere/cj-hair/
-shop: hairdresser
+shop: Friseur
 ---

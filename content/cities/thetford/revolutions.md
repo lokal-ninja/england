@@ -1,5 +1,5 @@
 ---
 title: "Revolutions"
 url: /thetford/revolutions/
-shop: car repair
+shop: Autowerkstatt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Zam Zam Halal Meat"
 url: /nottingham/zam-zam-halal-meat/
-shop: butcher
+shop: Metzgerei
 ---

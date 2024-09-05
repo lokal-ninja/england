@@ -1,5 +1,5 @@
 ---
 title: "Coast"
 url: /chorley/coast/
-shop: beauty
+shop: Kosmetik
 ---

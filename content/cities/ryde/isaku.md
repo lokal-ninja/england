@@ -1,5 +1,5 @@
 ---
 title: "Isaku"
 url: /ryde/isaku/
-shop: beauty
+shop: Kosmetik
 ---

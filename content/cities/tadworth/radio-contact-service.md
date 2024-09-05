@@ -1,5 +1,5 @@
 ---
 title: "Radio Contact Service"
 url: /tadworth/radio-contact-service/
-shop: radiotechnics
+shop: Radiotechnik
 ---

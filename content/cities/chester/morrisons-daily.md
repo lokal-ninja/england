@@ -1,5 +1,5 @@
 ---
 title: "Morrisons Daily"
 url: /chester/morrisons-daily/
-shop: convenience
+shop: Lebensmittel
 ---

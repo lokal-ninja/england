@@ -1,5 +1,5 @@
 ---
 title: "Beauty Outlet"
 url: /castleford/beauty-outlet/
-shop: beauty
+shop: Kosmetik
 ---

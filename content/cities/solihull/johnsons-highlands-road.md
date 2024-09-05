@@ -1,5 +1,5 @@
 ---
 title: "Johnsons"
 url: /solihull/johnsons-highlands-road/
-shop: car
+shop: Autohaus
 ---

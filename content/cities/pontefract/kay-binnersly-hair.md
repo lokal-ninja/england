@@ -1,5 +1,5 @@
 ---
 title: "Kay Binnersly Hair"
 url: /pontefract/kay-binnersly-hair/
-shop: hairdresser
+shop: Friseur
 ---

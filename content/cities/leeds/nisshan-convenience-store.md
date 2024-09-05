@@ -1,5 +1,5 @@
 ---
 title: "Nisshan Convenience Store"
 url: /leeds/nisshan-convenience-store/
-shop: convenience
+shop: Lebensmittel
 ---

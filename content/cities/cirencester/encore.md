@@ -1,5 +1,5 @@
 ---
 title: "Encore"
 url: /cirencester/encore/
-shop: clothes
+shop: Kleidung
 ---

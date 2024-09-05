@@ -1,5 +1,5 @@
 ---
 title: "Beacon House"
 url: /woking/beacon-house/
-shop: laundry
+shop: Wäscherei
 ---

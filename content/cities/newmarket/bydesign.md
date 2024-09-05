@@ -1,5 +1,5 @@
 ---
 title: "ByDesign"
 url: /newmarket/bydesign/
-shop: kitchen
+shop: Küchen
 ---

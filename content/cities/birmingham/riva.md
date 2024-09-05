@@ -1,5 +1,5 @@
 ---
 title: "Riva"
 url: /birmingham/riva/
-shop: hairdresser
+shop: Friseur
 ---

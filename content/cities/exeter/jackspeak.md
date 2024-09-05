@@ -1,5 +1,5 @@
 ---
 title: "JackSpeak"
 url: /exeter/jackspeak/
-shop: clothes
+shop: Kleidung
 ---

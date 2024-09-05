@@ -1,5 +1,5 @@
 ---
 title: "Fat Face"
 url: /ellesmere-port/fat-face/
-shop: clothes
+shop: Kleidung
 ---

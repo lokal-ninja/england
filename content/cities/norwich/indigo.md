@@ -1,5 +1,5 @@
 ---
 title: "Indigo"
 url: /norwich/indigo/
-shop: tattoo
+shop: Tattoo
 ---

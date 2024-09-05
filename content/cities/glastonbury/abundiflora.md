@@ -1,5 +1,5 @@
 ---
 title: "Abundiflora"
 url: /glastonbury/abundiflora/
-shop: florist
+shop: Blumen
 ---

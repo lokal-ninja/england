@@ -1,5 +1,5 @@
 ---
 title: "Shop"
 url: /ruislip/shop/
-shop: convenience
+shop: Lebensmittel
 ---

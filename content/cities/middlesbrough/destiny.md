@@ -1,5 +1,5 @@
 ---
 title: "Destiny"
 url: /middlesbrough/destiny/
-shop: clothes
+shop: Kleidung
 ---

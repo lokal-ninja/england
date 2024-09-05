@@ -1,5 +1,5 @@
 ---
 title: "MANGO"
 url: /norwich/mango/
-shop: clothes
+shop: Kleidung
 ---

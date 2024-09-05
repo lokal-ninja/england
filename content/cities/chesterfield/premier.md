@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /chesterfield/premier/
-shop: convenience
+shop: Lebensmittel
 ---

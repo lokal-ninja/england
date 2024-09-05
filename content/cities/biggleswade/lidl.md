@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /biggleswade/lidl/
-shop: supermarket
+shop: Supermarkt
 ---

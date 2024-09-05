@@ -1,5 +1,5 @@
 ---
 title: "Jewelwork"
 url: /worthing/jewelwork/
-shop: jewelry
+shop: Schmuck
 ---

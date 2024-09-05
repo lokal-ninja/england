@@ -1,5 +1,5 @@
 ---
 title: "Viewpoints"
 url: /keswick/viewpoints/
-shop: art
+shop: Kunst
 ---

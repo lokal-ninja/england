@@ -1,5 +1,5 @@
 ---
 title: "Photo Solutions"
 url: /southampton/photo-solutions/
-shop: photo
+shop: Foto
 ---

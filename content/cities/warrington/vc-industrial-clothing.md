@@ -1,5 +1,5 @@
 ---
 title: "VC Industrial Clothing"
 url: /warrington/vc-industrial-clothing/
-shop: clothes
+shop: Kleidung
 ---

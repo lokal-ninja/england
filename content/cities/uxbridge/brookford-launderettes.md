@@ -1,5 +1,5 @@
 ---
 title: "Brookford Launderettes"
 url: /uxbridge/brookford-launderettes/
-shop: laundry
+shop: Wäscherei
 ---

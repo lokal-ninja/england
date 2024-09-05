@@ -1,5 +1,5 @@
 ---
 title: "Trek"
 url: /sheffield/trek/
-shop: bicycle
+shop: Fahrrad
 ---

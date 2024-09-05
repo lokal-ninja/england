@@ -1,5 +1,5 @@
 ---
 title: "Rachelles"
 url: /sandown/rachelles/
-shop: gift
+shop: Andenken
 ---

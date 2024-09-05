@@ -1,5 +1,5 @@
 ---
 title: "Double H Tattoo Collective"
 url: /lancaster/double-h-tattoo-collective/
-shop: tattoo
+shop: Tattoo
 ---

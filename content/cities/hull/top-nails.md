@@ -1,5 +1,5 @@
 ---
 title: "Top Nails"
 url: /hull/top-nails/
-shop: beauty
+shop: Kosmetik
 ---

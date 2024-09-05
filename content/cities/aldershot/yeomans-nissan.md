@@ -1,5 +1,5 @@
 ---
 title: "Yeomans Nissan"
 url: /aldershot/yeomans-nissan/
-shop: car
+shop: Autohaus
 ---

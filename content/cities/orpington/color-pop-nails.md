@@ -1,5 +1,5 @@
 ---
 title: "Color Pop Nails"
 url: /orpington/color-pop-nails/
-shop: beauty
+shop: Kosmetik
 ---

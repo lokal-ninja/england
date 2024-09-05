@@ -1,5 +1,5 @@
 ---
 title: "Clarks"
 url: /stroud/clarks/
-shop: shoes
+shop: Schuhe
 ---

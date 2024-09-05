@@ -1,5 +1,5 @@
 ---
 title: "YAY!"
 url: /sheffield/yay/
-shop: confectionery
+shop: Süßwaren
 ---

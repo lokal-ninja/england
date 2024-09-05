@@ -1,5 +1,5 @@
 ---
 title: "Varga's"
 url: /reading/vargas/
-shop: hairdresser
+shop: Friseur
 ---

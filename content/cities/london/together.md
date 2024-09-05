@@ -1,5 +1,5 @@
 ---
 title: "Together"
 url: /london/together/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

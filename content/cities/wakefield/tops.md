@@ -1,5 +1,5 @@
 ---
 title: "Tops"
 url: /wakefield/tops/
-shop: hairdresser
+shop: Friseur
 ---

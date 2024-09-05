@@ -1,5 +1,5 @@
 ---
 title: "Carpetright"
 url: /torquay/carpetright/
-shop: carpet
+shop: Teppiche
 ---

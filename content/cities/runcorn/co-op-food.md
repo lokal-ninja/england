@@ -1,5 +1,5 @@
 ---
 title: "Co-op Food"
 url: /runcorn/co-op-food/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chaffinch"
 url: /woodbridge/chaffinch/
-shop: clothes
+shop: Kleidung
 ---

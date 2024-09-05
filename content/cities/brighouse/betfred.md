@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /brighouse/betfred/
-shop: bookmaker
+shop: Wettbüro
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spotless"
 url: /warrington/spotless/
-shop: laundry
+shop: Wäscherei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Warhammer"
 url: /blackpool/warhammer/
-shop: games
+shop: Spiele
 ---

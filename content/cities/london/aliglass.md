@@ -1,5 +1,5 @@
 ---
 title: "Aliglass"
 url: /london/aliglass/
-shop: glaziery
+shop: Glaserei
 ---

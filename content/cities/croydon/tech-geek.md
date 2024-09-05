@@ -1,5 +1,5 @@
 ---
 title: "Tech Geek"
 url: /croydon/tech-geek/
-shop: bag
+shop: Taschen & Koffer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sense"
 url: /colchester/sense/
-shop: charity
+shop: Gebrauchtwaren
 ---

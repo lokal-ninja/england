@@ -1,5 +1,5 @@
 ---
 title: "Miloche"
 url: /york/miloche/
-shop: clothes
+shop: Kleidung
 ---

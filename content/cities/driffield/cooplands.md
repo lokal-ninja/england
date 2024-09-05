@@ -1,5 +1,5 @@
 ---
 title: "Cooplands"
 url: /driffield/cooplands/
-shop: bakery
+shop: Bäckerei
 ---

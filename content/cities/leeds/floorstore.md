@@ -1,5 +1,5 @@
 ---
 title: "Floorstore"
 url: /leeds/floorstore/
-shop: flooring
+shop: Fußböden
 ---

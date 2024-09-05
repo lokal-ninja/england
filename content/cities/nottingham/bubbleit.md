@@ -1,5 +1,5 @@
 ---
 title: "BubbleIt"
 url: /nottingham/bubbleit/
-shop: shop
+shop: Allgemein
 ---

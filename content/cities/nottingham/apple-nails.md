@@ -1,5 +1,5 @@
 ---
 title: "Apple Nails"
 url: /nottingham/apple-nails/
-shop: beauty
+shop: Kosmetik
 ---

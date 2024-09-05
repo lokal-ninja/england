@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /box/londis/
-shop: convenience
+shop: Lebensmittel
 ---

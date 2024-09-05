@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /botley/tesco-express/
-shop: convenience
+shop: Lebensmittel
 ---

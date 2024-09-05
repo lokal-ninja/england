@@ -1,5 +1,5 @@
 ---
 title: "Superoptical"
 url: /london/superoptical/
-shop: optician
+shop: Optiker
 ---

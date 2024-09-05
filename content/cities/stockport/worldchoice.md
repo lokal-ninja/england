@@ -1,5 +1,5 @@
 ---
 title: "worldchoice"
 url: /stockport/worldchoice/
-shop: travel agency
+shop: Reisebüro
 ---

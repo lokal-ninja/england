@@ -1,5 +1,5 @@
 ---
 title: "Sofology"
 url: /peterborough/sofology/
-shop: furniture
+shop: Möbel
 ---

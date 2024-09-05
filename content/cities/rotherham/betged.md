@@ -1,5 +1,5 @@
 ---
 title: "BetGed"
 url: /rotherham/betged/
-shop: bookmaker
+shop: Wettbüro
 ---

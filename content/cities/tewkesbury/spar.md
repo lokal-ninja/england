@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /tewkesbury/spar/
-shop: convenience
+shop: Lebensmittel
 ---

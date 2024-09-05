@@ -1,5 +1,5 @@
 ---
 title: "Lattitude"
 url: /horwich/lattitude/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

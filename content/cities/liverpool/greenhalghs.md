@@ -1,5 +1,5 @@
 ---
 title: "Greenhalgh's"
 url: /liverpool/greenhalghs/
-shop: bakery
+shop: Bäckerei
 ---

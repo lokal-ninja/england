@@ -1,5 +1,5 @@
 ---
 title: "Kukki"
 url: /canterbury/kukki/
-shop: convenience
+shop: Lebensmittel
 ---

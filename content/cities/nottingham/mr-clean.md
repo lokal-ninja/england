@@ -1,5 +1,5 @@
 ---
 title: "Mr Clean"
 url: /nottingham/mr-clean/
-shop: laundry
+shop: Wäscherei
 ---

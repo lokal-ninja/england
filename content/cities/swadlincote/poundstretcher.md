@@ -1,5 +1,5 @@
 ---
 title: "Poundstretcher"
 url: /swadlincote/poundstretcher/
-shop: variety store
+shop: Kramladen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Charlies"
 url: /coventry/charlies/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

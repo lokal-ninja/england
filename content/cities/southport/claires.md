@@ -1,5 +1,5 @@
 ---
 title: "claire's"
 url: /southport/claires/
-shop: boutique
+shop: Modehaus
 ---

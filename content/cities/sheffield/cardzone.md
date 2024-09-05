@@ -1,5 +1,5 @@
 ---
 title: "Cardzone"
 url: /sheffield/cardzone/
-shop: gift
+shop: Andenken
 ---

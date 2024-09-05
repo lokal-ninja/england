@@ -1,5 +1,5 @@
 ---
 title: "Exclusively Yours"
 url: /blandford-forum/exclusively-yours/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fit Cookie"
 url: /banbury/fit-cookie/
-shop: shop
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lea Bridge Express"
 url: /london/lea-bridge-express/
-shop: convenience
+shop: Lebensmittel
 ---

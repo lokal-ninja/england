@@ -1,5 +1,5 @@
 ---
 title: "A. J. Bass Opticians"
 url: /fordingbridge/a-j-bass-opticians/
-shop: optician
+shop: Optiker
 ---

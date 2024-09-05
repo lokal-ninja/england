@@ -1,5 +1,5 @@
 ---
 title: "Bellissima"
 url: /bristol/bellissima/
-shop: beauty
+shop: Kosmetik
 ---

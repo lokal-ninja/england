@@ -1,5 +1,5 @@
 ---
 title: "Bella Donna"
 url: /redhill/bella-donna/
-shop: hairdresser
+shop: Friseur
 ---

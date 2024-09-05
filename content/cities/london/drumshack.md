@@ -1,5 +1,5 @@
 ---
 title: "Drumshack"
 url: /london/drumshack/
-shop: musical instrument
+shop: Instrumente
 ---

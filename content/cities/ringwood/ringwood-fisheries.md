@@ -1,5 +1,5 @@
 ---
 title: "Ringwood Fisheries"
 url: /ringwood/ringwood-fisheries/
-shop: seafood
+shop: Fisch
 ---

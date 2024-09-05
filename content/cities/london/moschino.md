@@ -1,5 +1,5 @@
 ---
 title: "Moschino"
 url: /london/moschino/
-shop: clothes
+shop: Kleidung
 ---

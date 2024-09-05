@@ -1,5 +1,5 @@
 ---
 title: "Star Barbers"
 url: /oadby/star-barbers/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Just *"
 url: /london/just/
-shop: fabric
+shop: Textil
 ---

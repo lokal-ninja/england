@@ -1,5 +1,5 @@
 ---
 title: "One Stop"
 url: /matlock/one-stop/
-shop: convenience
+shop: Lebensmittel
 ---

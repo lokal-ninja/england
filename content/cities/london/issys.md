@@ -1,5 +1,5 @@
 ---
 title: "Issy's"
 url: /london/issys/
-shop: hairdresser
+shop: Friseur
 ---

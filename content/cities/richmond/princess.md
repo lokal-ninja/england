@@ -1,5 +1,5 @@
 ---
 title: "Princess"
 url: /richmond/princess/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /andover/whsmith/
-shop: books
+shop: Bücher
 ---

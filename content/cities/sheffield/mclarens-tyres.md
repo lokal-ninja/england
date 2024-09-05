@@ -1,5 +1,5 @@
 ---
 title: "McLarens Tyres"
 url: /sheffield/mclarens-tyres/
-shop: tyres
+shop: Reifen
 ---

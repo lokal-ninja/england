@@ -1,5 +1,5 @@
 ---
 title: "Beehive"
 url: /newark/beehive/
-shop: hairdresser
+shop: Friseur
 ---

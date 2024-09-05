@@ -1,5 +1,5 @@
 ---
 title: "The Hair Tailors"
 url: /oakham/the-hair-tailors/
-shop: hairdresser
+shop: Friseur
 ---

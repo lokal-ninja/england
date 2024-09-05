@@ -1,5 +1,5 @@
 ---
 title: "ExtraCare"
 url: /derby/extracare/
-shop: charity
+shop: Gebrauchtwaren
 ---

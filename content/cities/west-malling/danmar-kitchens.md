@@ -1,5 +1,5 @@
 ---
 title: "Danmar kitchens"
 url: /west-malling/danmar-kitchens/
-shop: kitchen
+shop: Küchen
 ---

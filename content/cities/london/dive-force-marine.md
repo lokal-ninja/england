@@ -1,5 +1,5 @@
 ---
 title: "Dive Force Marine"
 url: /london/dive-force-marine/
-shop: diving
+shop: Tauchen
 ---

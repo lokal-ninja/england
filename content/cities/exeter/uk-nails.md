@@ -1,5 +1,5 @@
 ---
 title: "UK Nails"
 url: /exeter/uk-nails/
-shop: beauty
+shop: Kosmetik
 ---

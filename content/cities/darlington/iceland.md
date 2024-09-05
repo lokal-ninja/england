@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /darlington/iceland/
-shop: frozen food
+shop: Tiefkühl
 ---

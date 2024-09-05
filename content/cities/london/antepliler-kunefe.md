@@ -1,5 +1,5 @@
 ---
 title: "Antepliler Kunefe"
 url: /london/antepliler-kunefe/
-shop: bakery
+shop: Bäckerei
 ---

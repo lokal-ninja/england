@@ -1,5 +1,5 @@
 ---
 title: "Definitions"
 url: /ulverston/definitions/
-shop: hairdresser
+shop: Friseur
 ---

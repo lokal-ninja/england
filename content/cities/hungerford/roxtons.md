@@ -1,5 +1,5 @@
 ---
 title: "Roxtons"
 url: /hungerford/roxtons/
-shop: clothes
+shop: Kleidung
 ---

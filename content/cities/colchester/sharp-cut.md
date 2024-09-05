@@ -1,5 +1,5 @@
 ---
 title: "Sharp Cut"
 url: /colchester/sharp-cut/
-shop: hairdresser
+shop: Friseur
 ---

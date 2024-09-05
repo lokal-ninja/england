@@ -1,5 +1,5 @@
 ---
 title: "Cutz"
 url: /oxford/cutz/
-shop: hairdresser
+shop: Friseur
 ---

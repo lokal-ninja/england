@@ -1,5 +1,5 @@
 ---
 title: "Martin's"
 url: /morpeth/martins/
-shop: newsagent
+shop: Zeitungen
 ---

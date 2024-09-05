@@ -1,5 +1,5 @@
 ---
 title: "We Pay Any Excess"
 url: /southport/we-pay-any-excess/
-shop: shop
+shop: Allgemein
 ---

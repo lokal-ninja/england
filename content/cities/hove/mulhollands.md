@@ -1,5 +1,5 @@
 ---
 title: "Mulholland's"
 url: /hove/mulhollands/
-shop: shop
+shop: Allgemein
 ---

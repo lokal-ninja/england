@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /lancaster/londis/
-shop: convenience
+shop: Lebensmittel
 ---

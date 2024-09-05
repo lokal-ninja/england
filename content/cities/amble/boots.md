@@ -1,5 +1,5 @@
 ---
 title: "Boots"
 url: /amble/boots/
-shop: chemist
+shop: Drogerie
 ---

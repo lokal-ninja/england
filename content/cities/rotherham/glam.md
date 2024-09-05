@@ -1,5 +1,5 @@
 ---
 title: "Glam"
 url: /rotherham/glam/
-shop: hairdresser
+shop: Friseur
 ---

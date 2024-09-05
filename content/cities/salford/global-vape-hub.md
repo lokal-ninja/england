@@ -1,5 +1,5 @@
 ---
 title: "Global Vape Hub"
 url: /salford/global-vape-hub/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

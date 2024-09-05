@@ -1,5 +1,5 @@
 ---
 title: "Dulux Decorator Centre"
 url: /leeds/dulux-decorator-centre/
-shop: paint
+shop: Farben
 ---

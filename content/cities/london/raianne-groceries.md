@@ -1,5 +1,5 @@
 ---
 title: "Raianne Groceries"
 url: /london/raianne-groceries/
-shop: convenience
+shop: Lebensmittel
 ---

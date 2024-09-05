@@ -1,5 +1,5 @@
 ---
 title: "Iford Stores"
 url: /bournemouth/iford-stores/
-shop: convenience
+shop: Lebensmittel
 ---

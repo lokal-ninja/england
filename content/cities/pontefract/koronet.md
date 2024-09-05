@@ -1,5 +1,5 @@
 ---
 title: "Koronet"
 url: /pontefract/koronet/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Demop"
 url: /oxford/demop/
-shop: hairdresser
+shop: Friseur
 ---

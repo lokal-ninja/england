@@ -1,5 +1,5 @@
 ---
 title: "Specsavers"
 url: /bingley/specsavers/
-shop: optician
+shop: Optiker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /orpington/betfred/
-shop: bookmaker
+shop: Wettbüro
 ---

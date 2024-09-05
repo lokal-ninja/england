@@ -1,5 +1,5 @@
 ---
 title: "Amazing Grace"
 url: /whitstable/amazing-grace/
-shop: esoteric
+shop: Esoterik
 ---

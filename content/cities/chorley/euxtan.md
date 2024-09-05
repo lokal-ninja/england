@@ -1,5 +1,5 @@
 ---
 title: "Euxtan"
 url: /chorley/euxtan/
-shop: beauty
+shop: Kosmetik
 ---

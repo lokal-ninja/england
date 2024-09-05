@@ -1,5 +1,5 @@
 ---
 title: "Warrington Mazda"
 url: /warrington/warrington-mazda/
-shop: car
+shop: Autohaus
 ---

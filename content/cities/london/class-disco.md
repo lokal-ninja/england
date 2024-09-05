@@ -1,5 +1,5 @@
 ---
 title: "Class Disco"
 url: /london/class-disco/
-shop: hifi
+shop: Hifi
 ---

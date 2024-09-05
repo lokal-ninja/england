@@ -1,5 +1,5 @@
 ---
 title: "Harvest"
 url: /norwich/harvest/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

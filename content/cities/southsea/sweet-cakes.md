@@ -1,5 +1,5 @@
 ---
 title: "Sweet Cakes"
 url: /southsea/sweet-cakes/
-shop: bakery
+shop: Bäckerei
 ---

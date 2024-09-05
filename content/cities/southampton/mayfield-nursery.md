@@ -1,5 +1,5 @@
 ---
 title: "Mayfield Nursery"
 url: /southampton/mayfield-nursery/
-shop: garden centre
+shop: Garten-Center
 ---

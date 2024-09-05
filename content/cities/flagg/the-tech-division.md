@@ -1,5 +1,5 @@
 ---
 title: "The Tech Division"
 url: /flagg/the-tech-division/
-shop: computer
+shop: Computer
 ---

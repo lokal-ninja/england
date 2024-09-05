@@ -1,5 +1,5 @@
 ---
 title: "LJWB"
 url: /leeds/ljwb/
-shop: charity
+shop: Gebrauchtwaren
 ---

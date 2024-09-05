@@ -1,5 +1,5 @@
 ---
 title: "Audio Design Services"
 url: /stockport/audio-design-services/
-shop: hifi
+shop: Hifi
 ---

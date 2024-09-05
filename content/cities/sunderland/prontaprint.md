@@ -1,5 +1,5 @@
 ---
 title: "Prontaprint"
 url: /sunderland/prontaprint/
-shop: shop
+shop: Allgemein
 ---

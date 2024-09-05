@@ -1,5 +1,5 @@
 ---
 title: "Sue Ryder"
 url: /london/sue-ryder-winslade-way/
-shop: charity
+shop: Gebrauchtwaren
 ---

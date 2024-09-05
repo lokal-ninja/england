@@ -1,5 +1,5 @@
 ---
 title: "Hoopers"
 url: /torquay/hoopers/
-shop: department store
+shop: Warenhaus
 ---

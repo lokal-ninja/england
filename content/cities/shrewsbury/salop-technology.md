@@ -1,5 +1,5 @@
 ---
 title: "Salop Technology"
 url: /shrewsbury/salop-technology/
-shop: computer
+shop: Computer
 ---

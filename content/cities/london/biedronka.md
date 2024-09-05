@@ -1,5 +1,5 @@
 ---
 title: "Biedronka"
 url: /london/biedronka/
-shop: convenience
+shop: Lebensmittel
 ---

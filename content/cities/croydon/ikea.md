@@ -1,5 +1,5 @@
 ---
 title: "IKEA"
 url: /croydon/ikea/
-shop: furniture
+shop: Möbel
 ---

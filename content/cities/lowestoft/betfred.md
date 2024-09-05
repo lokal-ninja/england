@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /lowestoft/betfred/
-shop: bookmaker
+shop: Wettbüro
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jade of Wollaston"
 url: /wellingborough/jade-of-wollaston/
-shop: glaziery
+shop: Glaserei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ezee Shop"
 url: /tamworth/ezee-shop/
-shop: convenience
+shop: Lebensmittel
 ---

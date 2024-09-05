@@ -1,5 +1,5 @@
 ---
 title: "Arpers"
 url: /dursley/arpers/
-shop: gift
+shop: Andenken
 ---

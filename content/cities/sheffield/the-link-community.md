@@ -1,5 +1,5 @@
 ---
 title: "The Link Community"
 url: /sheffield/the-link-community/
-shop: charity
+shop: Gebrauchtwaren
 ---

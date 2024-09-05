@@ -1,5 +1,5 @@
 ---
 title: "Allure Nails"
 url: /london/allure-nails/
-shop: beauty
+shop: Kosmetik
 ---

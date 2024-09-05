@@ -1,5 +1,5 @@
 ---
 title: "Steel Beauty"
 url: /ilford/steel-beauty/
-shop: tattoo
+shop: Tattoo
 ---

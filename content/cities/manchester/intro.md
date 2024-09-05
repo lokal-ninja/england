@@ -1,5 +1,5 @@
 ---
 title: "Intro"
 url: /manchester/intro/
-shop: clothes
+shop: Kleidung
 ---

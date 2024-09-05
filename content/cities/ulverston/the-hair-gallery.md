@@ -1,5 +1,5 @@
 ---
 title: "The Hair Gallery"
 url: /ulverston/the-hair-gallery/
-shop: hairdresser
+shop: Friseur
 ---

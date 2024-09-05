@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /shrewsbury/tesco-express/
-shop: convenience
+shop: Lebensmittel
 ---

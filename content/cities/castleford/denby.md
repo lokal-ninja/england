@@ -1,5 +1,5 @@
 ---
 title: "Denby"
 url: /castleford/denby/
-shop: houseware
+shop: Haushaltsartikel
 ---

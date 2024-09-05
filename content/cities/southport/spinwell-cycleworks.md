@@ -1,5 +1,5 @@
 ---
 title: "Spinwell Cycleworks"
 url: /southport/spinwell-cycleworks/
-shop: bicycle
+shop: Fahrrad
 ---

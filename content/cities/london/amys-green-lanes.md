@@ -1,5 +1,5 @@
 ---
 title: "Amy's"
 url: /london/amys-green-lanes/
-shop: houseware
+shop: Haushaltsartikel
 ---

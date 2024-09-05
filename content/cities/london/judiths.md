@@ -1,5 +1,5 @@
 ---
 title: "Judith's"
 url: /london/judiths/
-shop: beauty
+shop: Kosmetik
 ---

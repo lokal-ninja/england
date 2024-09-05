@@ -1,5 +1,5 @@
 ---
 title: "Bankmoor's Gifts"
 url: /morecambe/bankmoors-gifts/
-shop: gift
+shop: Andenken
 ---

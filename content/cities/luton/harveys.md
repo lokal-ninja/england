@@ -1,5 +1,5 @@
 ---
 title: "Harveys"
 url: /luton/harveys/
-shop: hairdresser
+shop: Friseur
 ---

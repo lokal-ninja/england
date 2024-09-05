@@ -1,5 +1,5 @@
 ---
 title: "Taisce"
 url: /woodbridge/taisce/
-shop: clothes
+shop: Kleidung
 ---

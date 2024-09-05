@@ -1,5 +1,5 @@
 ---
 title: "Slacks"
 url: /keston/slacks/
-shop: laundry
+shop: Wäscherei
 ---

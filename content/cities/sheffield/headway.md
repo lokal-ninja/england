@@ -1,5 +1,5 @@
 ---
 title: "Headway"
 url: /sheffield/headway/
-shop: charity
+shop: Gebrauchtwaren
 ---

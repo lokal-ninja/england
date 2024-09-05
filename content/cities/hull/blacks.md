@@ -1,5 +1,5 @@
 ---
 title: "Blacks"
 url: /hull/blacks/
-shop: outdoor
+shop: Outdoor
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Achievers"
 url: /salford/achievers/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

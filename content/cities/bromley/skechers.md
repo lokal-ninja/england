@@ -1,5 +1,5 @@
 ---
 title: "Skechers"
 url: /bromley/skechers/
-shop: shoes
+shop: Schuhe
 ---

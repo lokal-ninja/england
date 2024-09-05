@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /bourne/coral/
-shop: bookmaker
+shop: Wettbüro
 ---

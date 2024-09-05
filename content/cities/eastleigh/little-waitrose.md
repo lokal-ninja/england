@@ -1,5 +1,5 @@
 ---
 title: "Little Waitrose"
 url: /eastleigh/little-waitrose/
-shop: convenience
+shop: Lebensmittel
 ---

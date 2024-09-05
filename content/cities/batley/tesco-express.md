@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /batley/tesco-express/
-shop: convenience
+shop: Lebensmittel
 ---

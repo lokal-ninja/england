@@ -1,5 +1,5 @@
 ---
 title: "Caper"
 url: /oxford/caper/
-shop: books
+shop: Bücher
 ---

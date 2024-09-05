@@ -1,5 +1,5 @@
 ---
 title: "Syed Brothers"
 url: /woodford-green/syed-brothers/
-shop: butcher
+shop: Metzgerei
 ---

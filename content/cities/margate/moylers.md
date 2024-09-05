@@ -1,5 +1,5 @@
 ---
 title: "Moylers"
 url: /margate/moylers/
-shop: convenience
+shop: Lebensmittel
 ---

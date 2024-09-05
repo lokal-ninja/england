@@ -1,5 +1,5 @@
 ---
 title: "Trespass"
 url: /skipton/trespass/
-shop: outdoor
+shop: Outdoor
 ---

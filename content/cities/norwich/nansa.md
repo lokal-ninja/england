@@ -1,5 +1,5 @@
 ---
 title: "Nansa"
 url: /norwich/nansa/
-shop: charity
+shop: Gebrauchtwaren
 ---

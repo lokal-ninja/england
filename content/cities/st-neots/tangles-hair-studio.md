@@ -1,5 +1,5 @@
 ---
 title: "Tangles Hair Studio"
 url: /st-neots/tangles-hair-studio/
-shop: hairdresser
+shop: Friseur
 ---

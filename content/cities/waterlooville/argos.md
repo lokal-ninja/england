@@ -1,5 +1,5 @@
 ---
 title: "Argos"
 url: /waterlooville/argos/
-shop: catalogue
+shop: Katalog
 ---

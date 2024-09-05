@@ -1,5 +1,5 @@
 ---
 title: "Tradex"
 url: /folkestone/tradex/
-shop: kitchen
+shop: Küchen
 ---

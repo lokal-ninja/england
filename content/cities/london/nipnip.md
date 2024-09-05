@@ -1,5 +1,5 @@
 ---
 title: "NipNip"
 url: /london/nipnip/
-shop: bicycle
+shop: Fahrrad
 ---

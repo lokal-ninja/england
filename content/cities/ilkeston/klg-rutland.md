@@ -1,5 +1,5 @@
 ---
 title: "KLG Rutland"
 url: /ilkeston/klg-rutland/
-shop: glaziery
+shop: Glaserei
 ---

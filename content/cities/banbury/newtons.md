@@ -1,5 +1,5 @@
 ---
 title: "Newtons"
 url: /banbury/newtons/
-shop: hairdresser
+shop: Friseur
 ---

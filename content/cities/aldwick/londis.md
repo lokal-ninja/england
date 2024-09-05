@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /aldwick/londis/
-shop: convenience
+shop: Lebensmittel
 ---

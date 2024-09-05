@@ -1,5 +1,5 @@
 ---
 title: "Yankee Candle"
 url: /ellesmere-port/yankee-candle/
-shop: candles
+shop: Kerzen
 ---

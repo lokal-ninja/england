@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /nottingham/betfred-ilkeston-road/
-shop: bookmaker
+shop: Wettbüro
 ---

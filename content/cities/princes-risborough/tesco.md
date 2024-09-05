@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /princes-risborough/tesco/
-shop: supermarket
+shop: Supermarkt
 ---

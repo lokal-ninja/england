@@ -1,5 +1,5 @@
 ---
 title: "VPZ"
 url: /nottingham/vpz/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

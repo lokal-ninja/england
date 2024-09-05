@@ -1,5 +1,5 @@
 ---
 title: "Independence Restored"
 url: /chester-le-street/independence-restored/
-shop: shop
+shop: Allgemein
 ---

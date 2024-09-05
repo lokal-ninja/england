@@ -1,5 +1,5 @@
 ---
 title: "smkd"
 url: /leeds/smkd-new-briggate/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

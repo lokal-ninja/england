@@ -1,5 +1,5 @@
 ---
 title: "Vivid"
 url: /pontefract/vivid/
-shop: hairdresser
+shop: Friseur
 ---

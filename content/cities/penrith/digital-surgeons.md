@@ -1,5 +1,5 @@
 ---
 title: "Digital Surgeons"
 url: /penrith/digital-surgeons/
-shop: electronics
+shop: Elektronik
 ---

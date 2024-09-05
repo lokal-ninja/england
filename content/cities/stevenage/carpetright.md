@@ -1,5 +1,5 @@
 ---
 title: "Carpetright"
 url: /stevenage/carpetright/
-shop: carpet
+shop: Teppiche
 ---

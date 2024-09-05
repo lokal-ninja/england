@@ -1,5 +1,5 @@
 ---
 title: "Ebiz"
 url: /teddington/ebiz/
-shop: hairdresser
+shop: Friseur
 ---

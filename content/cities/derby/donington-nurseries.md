@@ -1,5 +1,5 @@
 ---
 title: "Donington Nurseries"
 url: /derby/donington-nurseries/
-shop: garden centre
+shop: Garten-Center
 ---

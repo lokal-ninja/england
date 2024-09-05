@@ -1,5 +1,5 @@
 ---
 title: "Best-one"
 url: /gillingham/best-one-watling-street/
-shop: convenience
+shop: Lebensmittel
 ---

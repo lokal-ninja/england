@@ -1,5 +1,5 @@
 ---
 title: "Green Mountain"
 url: /london/green-mountain/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

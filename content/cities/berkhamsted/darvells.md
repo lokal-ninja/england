@@ -1,5 +1,5 @@
 ---
 title: "Darvells"
 url: /berkhamsted/darvells/
-shop: bakery
+shop: Bäckerei
 ---

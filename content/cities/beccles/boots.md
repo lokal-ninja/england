@@ -1,5 +1,5 @@
 ---
 title: "Boots"
 url: /beccles/boots/
-shop: chemist
+shop: Drogerie
 ---

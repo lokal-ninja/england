@@ -1,5 +1,5 @@
 ---
 title: "Church's"
 url: /leeds/churchs/
-shop: shoes
+shop: Schuhe
 ---

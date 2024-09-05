@@ -1,5 +1,5 @@
 ---
 title: "Margaret Howell"
 url: /richmond/margaret-howell/
-shop: clothes
+shop: Kleidung
 ---

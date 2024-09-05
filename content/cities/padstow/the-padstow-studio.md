@@ -1,5 +1,5 @@
 ---
 title: "The Padstow Studio"
 url: /padstow/the-padstow-studio/
-shop: art
+shop: Kunst
 ---

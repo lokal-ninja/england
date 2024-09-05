@@ -1,5 +1,5 @@
 ---
 title: "Irepair"
 url: /dorking/irepair/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

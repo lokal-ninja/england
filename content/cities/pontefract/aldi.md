@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /pontefract/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nagina"
 url: /ilford/nagina/
-shop: confectionery
+shop: Süßwaren
 ---

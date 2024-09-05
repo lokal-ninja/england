@@ -1,5 +1,5 @@
 ---
 title: "Enchanted"
 url: /colchester/enchanted/
-shop: gift
+shop: Andenken
 ---

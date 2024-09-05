@@ -1,5 +1,5 @@
 ---
 title: "Marshland"
 url: /downham-market/marshland/
-shop: shop
+shop: Allgemein
 ---

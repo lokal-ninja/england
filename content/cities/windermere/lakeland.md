@@ -1,5 +1,5 @@
 ---
 title: "Lakeland"
 url: /windermere/lakeland/
-shop: houseware
+shop: Haushaltsartikel
 ---

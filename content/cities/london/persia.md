@@ -1,5 +1,5 @@
 ---
 title: "Persia"
 url: /london/persia/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Allspa"
 url: /farnham/allspa/
-shop: garden furniture
+shop: Gartenmöbel
 ---

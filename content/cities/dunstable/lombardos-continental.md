@@ -1,5 +1,5 @@
 ---
 title: "Lombardo's Continental"
 url: /dunstable/lombardos-continental/
-shop: deli
+shop: Feinkost
 ---

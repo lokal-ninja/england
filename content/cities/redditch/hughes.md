@@ -1,5 +1,5 @@
 ---
 title: "Hughes"
 url: /redditch/hughes/
-shop: electronics
+shop: Elektronik
 ---

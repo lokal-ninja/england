@@ -1,5 +1,5 @@
 ---
 title: "PHD"
 url: /horsham/phd/
-shop: hairdresser
+shop: Friseur
 ---

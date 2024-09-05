@@ -1,5 +1,5 @@
 ---
 title: "Mark's Tyres"
 url: /warrington/marks-tyres/
-shop: tyres
+shop: Reifen
 ---

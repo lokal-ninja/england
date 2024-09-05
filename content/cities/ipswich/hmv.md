@@ -1,5 +1,5 @@
 ---
 title: "HMV"
 url: /ipswich/hmv/
-shop: music
+shop: Musik
 ---

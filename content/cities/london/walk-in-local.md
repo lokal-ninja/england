@@ -1,5 +1,5 @@
 ---
 title: "Walk-In Local"
 url: /london/walk-in-local/
-shop: convenience
+shop: Lebensmittel
 ---

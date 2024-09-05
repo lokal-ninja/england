@@ -1,5 +1,5 @@
 ---
 title: "OneBeyond"
 url: /swindon/onebeyond/
-shop: variety store
+shop: Kramladen
 ---

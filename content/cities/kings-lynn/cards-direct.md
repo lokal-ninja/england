@@ -1,5 +1,5 @@
 ---
 title: "Cards Direct"
 url: /kings-lynn/cards-direct/
-shop: gift
+shop: Andenken
 ---

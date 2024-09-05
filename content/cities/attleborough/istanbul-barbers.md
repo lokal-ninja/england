@@ -1,5 +1,5 @@
 ---
 title: "Istanbul Barbers"
 url: /attleborough/istanbul-barbers/
-shop: hairdresser
+shop: Friseur
 ---

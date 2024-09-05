@@ -1,5 +1,5 @@
 ---
 title: "The Mardy Barber"
 url: /sheffield/the-mardy-barber/
-shop: hairdresser
+shop: Friseur
 ---

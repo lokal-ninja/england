@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /worefield/spar/
-shop: convenience
+shop: Lebensmittel
 ---

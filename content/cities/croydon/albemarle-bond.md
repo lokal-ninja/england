@@ -1,5 +1,5 @@
 ---
 title: "Albemarle Bond"
 url: /croydon/albemarle-bond/
-shop: pawnbroker
+shop: Leiher
 ---

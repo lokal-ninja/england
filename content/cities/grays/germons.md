@@ -1,5 +1,5 @@
 ---
 title: "Germons"
 url: /grays/germons/
-shop: hardware
+shop: Eisenwaren
 ---

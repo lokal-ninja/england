@@ -1,5 +1,5 @@
 ---
 title: "JD Sports"
 url: /london/jd-sports-tandem-way/
-shop: sports
+shop: Sport
 ---

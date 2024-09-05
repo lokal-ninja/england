@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /calne/tesco/
-shop: supermarket
+shop: Supermarkt
 ---

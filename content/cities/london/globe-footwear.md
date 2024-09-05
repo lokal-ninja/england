@@ -1,5 +1,5 @@
 ---
 title: "Globe Footwear"
 url: /london/globe-footwear/
-shop: shoes
+shop: Schuhe
 ---

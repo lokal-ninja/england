@@ -1,5 +1,5 @@
 ---
 title: "Dome"
 url: /southport/dome/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /liverpool/savers/
-shop: chemist
+shop: Drogerie
 ---

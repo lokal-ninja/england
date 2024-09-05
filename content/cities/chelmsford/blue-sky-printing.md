@@ -1,5 +1,5 @@
 ---
 title: "Blue Sky Printing"
 url: /chelmsford/blue-sky-printing/
-shop: copyshop
+shop: Kopieren
 ---

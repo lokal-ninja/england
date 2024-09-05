@@ -1,5 +1,5 @@
 ---
 title: "Tailor Maid"
 url: /ripley/tailor-maid/
-shop: tailor
+shop: Schneiderei
 ---

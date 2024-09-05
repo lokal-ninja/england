@@ -1,5 +1,5 @@
 ---
 title: "Suntrap"
 url: /sunderland/suntrap/
-shop: beauty
+shop: Kosmetik
 ---

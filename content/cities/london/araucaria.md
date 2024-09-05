@@ -1,5 +1,5 @@
 ---
 title: "Araucaria"
 url: /london/araucaria/
-shop: craft
+shop: Basteln
 ---

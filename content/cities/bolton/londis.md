@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /bolton/londis/
-shop: convenience
+shop: Lebensmittel
 ---

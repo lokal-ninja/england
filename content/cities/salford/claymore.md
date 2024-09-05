@@ -1,5 +1,5 @@
 ---
 title: "Claymore"
 url: /salford/claymore/
-shop: wholesale
+shop: Großhandel
 ---

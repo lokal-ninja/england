@@ -1,5 +1,5 @@
 ---
 title: "Co-op Food"
 url: /bristol/co-op-food-school-road/
-shop: convenience
+shop: Lebensmittel
 ---

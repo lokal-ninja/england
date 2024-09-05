@@ -1,5 +1,5 @@
 ---
 title: "Bubbles Hair Studio"
 url: /london/bubbles-hair-studio/
-shop: hairdresser
+shop: Friseur
 ---

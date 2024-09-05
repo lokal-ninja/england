@@ -1,5 +1,5 @@
 ---
 title: "Archie Foodstore"
 url: /london/archie-foodstore/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Little Waitrose"
 url: /london/little-waitrose-the-pavement/
-shop: convenience
+shop: Lebensmittel
 ---

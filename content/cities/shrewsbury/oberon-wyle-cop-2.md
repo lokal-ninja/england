@@ -1,5 +1,5 @@
 ---
 title: "Oberon"
 url: /shrewsbury/oberon-wyle-cop-2/
-shop: clothes
+shop: Kleidung
 ---

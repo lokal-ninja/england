@@ -1,5 +1,5 @@
 ---
 title: "Wolves Mini Market"
 url: /wolverhampton/wolves-mini-market/
-shop: convenience
+shop: Lebensmittel
 ---

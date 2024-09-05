@@ -1,5 +1,5 @@
 ---
 title: "Horzehoods"
 url: /stockport/horzehoods/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mado Bakery"
 url: /hertford/mado-bakery/
-shop: bakery
+shop: Bäckerei
 ---

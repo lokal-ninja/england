@@ -1,5 +1,5 @@
 ---
 title: "Fabriks"
 url: /leyland/fabriks/
-shop: shop
+shop: Allgemein
 ---

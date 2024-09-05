@@ -1,5 +1,5 @@
 ---
 title: "Waitrose"
 url: /new-malden/waitrose/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kashmir"
 url: /london/kashmir/
-shop: hairdresser
+shop: Friseur
 ---

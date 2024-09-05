@@ -1,5 +1,5 @@
 ---
 title: "COS"
 url: /london/cos-regent-street/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /bersted/lidl/
-shop: supermarket
+shop: Supermarkt
 ---

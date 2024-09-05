@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /london/tesco-hancock-road/
-shop: supermarket
+shop: Supermarkt
 ---

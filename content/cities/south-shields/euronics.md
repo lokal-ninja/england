@@ -1,5 +1,5 @@
 ---
 title: "Euronics"
 url: /south-shields/euronics/
-shop: shop
+shop: Allgemein
 ---

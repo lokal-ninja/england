@@ -1,5 +1,5 @@
 ---
 title: "Ford"
 url: /basingstoke/ford/
-shop: car
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Copper House"
 url: /middlesbrough/the-copper-house/
-shop: hairdresser
+shop: Friseur
 ---

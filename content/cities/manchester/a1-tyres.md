@@ -1,5 +1,5 @@
 ---
 title: "A1 Tyres"
 url: /manchester/a1-tyres/
-shop: tyres
+shop: Reifen
 ---

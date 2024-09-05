@@ -1,5 +1,5 @@
 ---
 title: "Sense"
 url: /ipswich/sense/
-shop: charity
+shop: Gebrauchtwaren
 ---

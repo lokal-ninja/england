@@ -1,5 +1,5 @@
 ---
 title: "Lilleys"
 url: /ipswich/lilleys/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

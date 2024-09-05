@@ -1,5 +1,5 @@
 ---
 title: "Union"
 url: /brighton/union/
-shop: gift
+shop: Andenken
 ---

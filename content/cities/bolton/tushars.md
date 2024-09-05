@@ -1,5 +1,5 @@
 ---
 title: "Tushar's"
 url: /bolton/tushars/
-shop: shop
+shop: Allgemein
 ---

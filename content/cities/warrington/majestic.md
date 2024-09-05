@@ -1,5 +1,5 @@
 ---
 title: "Majestic"
 url: /warrington/majestic/
-shop: alcohol
+shop: Spirituosen
 ---

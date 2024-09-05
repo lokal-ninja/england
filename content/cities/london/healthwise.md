@@ -1,5 +1,5 @@
 ---
 title: "Healthwise"
 url: /london/healthwise/
-shop: supermarket
+shop: Supermarkt
 ---

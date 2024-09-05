@@ -1,5 +1,5 @@
 ---
 title: "Kadiem"
 url: /devizes/kadiem/
-shop: hairdresser
+shop: Friseur
 ---

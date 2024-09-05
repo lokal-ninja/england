@@ -1,5 +1,5 @@
 ---
 title: "Warhammer"
 url: /nottingham/warhammer/
-shop: games
+shop: Spiele
 ---

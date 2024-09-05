@@ -1,5 +1,5 @@
 ---
 title: "The Hanger"
 url: /alfreton/the-hanger/
-shop: charity
+shop: Gebrauchtwaren
 ---

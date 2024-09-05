@@ -1,5 +1,5 @@
 ---
 title: "Aslamtex"
 url: /gravesend/aslamtex/
-shop: bag
+shop: Taschen & Koffer
 ---

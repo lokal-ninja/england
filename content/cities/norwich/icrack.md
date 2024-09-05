@@ -1,5 +1,5 @@
 ---
 title: "iCrack"
 url: /norwich/icrack/
-shop: mobile phone
+shop: Handy
 ---

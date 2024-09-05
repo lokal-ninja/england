@@ -1,5 +1,5 @@
 ---
 title: "Gatsbys Interiors"
 url: /gateshead/gatsbys-interiors/
-shop: shop
+shop: Allgemein
 ---

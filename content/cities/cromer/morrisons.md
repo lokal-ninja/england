@@ -1,5 +1,5 @@
 ---
 title: "Morrisons"
 url: /cromer/morrisons/
-shop: convenience
+shop: Lebensmittel
 ---

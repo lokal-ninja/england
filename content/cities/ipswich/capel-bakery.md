@@ -1,5 +1,5 @@
 ---
 title: "Capel Bakery"
 url: /ipswich/capel-bakery/
-shop: bakery
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nirvana Health"
 url: /london/nirvana-health/
-shop: nutrition supplements
+shop: Nahrungsergänzung
 ---

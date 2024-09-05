@@ -1,5 +1,5 @@
 ---
 title: "Bagot Opticians"
 url: /kendal/bagot-opticians/
-shop: optician
+shop: Optiker
 ---

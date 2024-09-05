@@ -1,5 +1,5 @@
 ---
 title: "Fibrecare"
 url: /eastbourne/fibrecare/
-shop: carpet
+shop: Teppiche
 ---

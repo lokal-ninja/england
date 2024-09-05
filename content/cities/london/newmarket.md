@@ -1,5 +1,5 @@
 ---
 title: "Newmarket"
 url: /london/newmarket/
-shop: convenience
+shop: Lebensmittel
 ---

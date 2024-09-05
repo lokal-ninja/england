@@ -1,5 +1,5 @@
 ---
 title: "Barnardo's"
 url: /northwich/barnardos/
-shop: charity
+shop: Gebrauchtwaren
 ---

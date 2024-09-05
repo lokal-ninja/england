@@ -1,5 +1,5 @@
 ---
 title: "Jules B Ladieswear"
 url: /kendal/jules-b-ladieswear/
-shop: clothes
+shop: Kleidung
 ---

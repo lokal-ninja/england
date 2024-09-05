@@ -1,5 +1,5 @@
 ---
 title: "Loafing"
 url: /wheathampstead/loafing/
-shop: bakery
+shop: Bäckerei
 ---

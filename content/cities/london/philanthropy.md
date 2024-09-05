@@ -1,5 +1,5 @@
 ---
 title: "Philanthropy"
 url: /london/philanthropy/
-shop: charity
+shop: Gebrauchtwaren
 ---

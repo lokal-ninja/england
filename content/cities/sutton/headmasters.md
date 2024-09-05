@@ -1,5 +1,5 @@
 ---
 title: "Headmasters"
 url: /sutton/headmasters/
-shop: hairdresser
+shop: Friseur
 ---

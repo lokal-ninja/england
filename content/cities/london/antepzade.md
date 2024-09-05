@@ -1,5 +1,5 @@
 ---
 title: "Antepzade"
 url: /london/antepzade/
-shop: bakery
+shop: Bäckerei
 ---

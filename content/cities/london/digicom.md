@@ -1,5 +1,5 @@
 ---
 title: "Digicom"
 url: /london/digicom/
-shop: electronics
+shop: Elektronik
 ---

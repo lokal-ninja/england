@@ -1,5 +1,5 @@
 ---
 title: "Austin Mowers"
 url: /london/austin-mowers-garratt-lane/
-shop: groundskeeping
+shop: Platzpflege
 ---

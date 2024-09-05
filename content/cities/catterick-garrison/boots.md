@@ -1,5 +1,5 @@
 ---
 title: "Boots"
 url: /catterick-garrison/boots/
-shop: chemist
+shop: Drogerie
 ---

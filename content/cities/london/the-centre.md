@@ -1,5 +1,5 @@
 ---
 title: "The Centre"
 url: /london/the-centre/
-shop: newsagent
+shop: Zeitungen
 ---

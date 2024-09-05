@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /stroud/tesco-express/
-shop: convenience
+shop: Lebensmittel
 ---

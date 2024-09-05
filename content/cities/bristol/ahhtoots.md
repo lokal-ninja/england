@@ -1,5 +1,5 @@
 ---
 title: "AhhToots"
 url: /bristol/ahhtoots/
-shop: pastry
+shop: Konditorei
 ---

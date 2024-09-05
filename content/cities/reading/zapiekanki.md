@@ -1,5 +1,5 @@
 ---
 title: "Zapiekanki"
 url: /reading/zapiekanki/
-shop: coffee
+shop: Kaffee
 ---

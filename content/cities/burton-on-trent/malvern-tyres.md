@@ -1,5 +1,5 @@
 ---
 title: "Malvern Tyres"
 url: /burton-on-trent/malvern-tyres/
-shop: tyres
+shop: Reifen
 ---

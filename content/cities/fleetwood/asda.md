@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /fleetwood/asda/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /halesowen/asda/
-shop: supermarket
+shop: Supermarkt
 ---

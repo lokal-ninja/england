@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /truro/whsmith/
-shop: newsagent
+shop: Zeitungen
 ---

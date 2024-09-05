@@ -1,5 +1,5 @@
 ---
 title: "Steele"
 url: /nottingham/steele/
-shop: hairdresser
+shop: Friseur
 ---

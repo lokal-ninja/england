@@ -1,5 +1,5 @@
 ---
 title: "Couture"
 url: /hull/couture/
-shop: beauty
+shop: Kosmetik
 ---

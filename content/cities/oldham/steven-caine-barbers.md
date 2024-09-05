@@ -1,5 +1,5 @@
 ---
 title: "Steven Caine Barbers"
 url: /oldham/steven-caine-barbers/
-shop: hairdresser
+shop: Friseur
 ---

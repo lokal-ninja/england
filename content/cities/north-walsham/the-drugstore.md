@@ -1,5 +1,5 @@
 ---
 title: "The Drugstore"
 url: /north-walsham/the-drugstore/
-shop: chemist
+shop: Drogerie
 ---

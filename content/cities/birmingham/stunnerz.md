@@ -1,5 +1,5 @@
 ---
 title: "Stunnerz"
 url: /birmingham/stunnerz/
-shop: hairdresser
+shop: Friseur
 ---

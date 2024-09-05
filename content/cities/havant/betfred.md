@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /havant/betfred/
-shop: bookmaker
+shop: Wettbüro
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Majestic"
 url: /newmarket/majestic/
-shop: alcohol
+shop: Spirituosen
 ---

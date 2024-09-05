@@ -1,5 +1,5 @@
 ---
 title: "Patricija"
 url: /ilford/patricija/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cutting It"
 url: /warwick/cutting-it/
-shop: hairdresser
+shop: Friseur
 ---

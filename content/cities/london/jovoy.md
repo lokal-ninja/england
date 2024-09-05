@@ -1,5 +1,5 @@
 ---
 title: "Jovoy"
 url: /london/jovoy/
-shop: beauty
+shop: Kosmetik
 ---

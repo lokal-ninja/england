@@ -1,5 +1,5 @@
 ---
 title: "SunPoint"
 url: /colchester/sunpoint/
-shop: beauty
+shop: Kosmetik
 ---

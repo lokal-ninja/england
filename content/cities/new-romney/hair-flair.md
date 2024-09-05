@@ -1,5 +1,5 @@
 ---
 title: "Hair Flair"
 url: /new-romney/hair-flair/
-shop: hairdresser
+shop: Friseur
 ---

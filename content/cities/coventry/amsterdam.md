@@ -1,5 +1,5 @@
 ---
 title: "Amsterdam"
 url: /coventry/amsterdam/
-shop: convenience
+shop: Lebensmittel
 ---

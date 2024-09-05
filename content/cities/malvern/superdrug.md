@@ -1,5 +1,5 @@
 ---
 title: "Superdrug"
 url: /malvern/superdrug/
-shop: chemist
+shop: Drogerie
 ---

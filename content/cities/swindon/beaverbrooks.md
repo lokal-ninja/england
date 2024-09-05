@@ -1,5 +1,5 @@
 ---
 title: "Beaverbrooks"
 url: /swindon/beaverbrooks/
-shop: jewelry
+shop: Schmuck
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Embelmatic Schoolwear"
 url: /bedlington/embelmatic-schoolwear/
-shop: clothes
+shop: Kleidung
 ---

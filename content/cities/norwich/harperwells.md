@@ -1,5 +1,5 @@
 ---
 title: "HarperWells"
 url: /norwich/harperwells/
-shop: wine
+shop: Wein
 ---

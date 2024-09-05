@@ -1,5 +1,5 @@
 ---
 title: "Winnies Unisex Salon"
 url: /scunthorpe/winnies-unisex-salon/
-shop: hairdresser
+shop: Friseur
 ---

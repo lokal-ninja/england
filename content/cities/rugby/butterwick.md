@@ -1,5 +1,5 @@
 ---
 title: "Butterwick"
 url: /rugby/butterwick/
-shop: bakery
+shop: Bäckerei
 ---

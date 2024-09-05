@@ -1,5 +1,5 @@
 ---
 title: "Santiagos"
 url: /norwich/santiagos/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cullens"
 url: /manchester/cullens/
-shop: florist
+shop: Blumen
 ---

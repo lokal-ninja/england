@@ -1,5 +1,5 @@
 ---
 title: "Naqsh"
 url: /birmingham/naqsh/
-shop: clothes
+shop: Kleidung
 ---

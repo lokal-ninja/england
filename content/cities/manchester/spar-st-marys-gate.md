@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /manchester/spar-st-marys-gate/
-shop: convenience
+shop: Lebensmittel
 ---

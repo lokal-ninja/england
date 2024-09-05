@@ -1,5 +1,5 @@
 ---
 title: "Sunshine Patisserie and Delicatessen"
 url: /crewe/sunshine-patisserie-and-delicatessen/
-shop: bakery
+shop: Bäckerei
 ---

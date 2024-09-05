@@ -1,5 +1,5 @@
 ---
 title: "Lillies"
 url: /southampton/lillies/
-shop: clothes
+shop: Kleidung
 ---

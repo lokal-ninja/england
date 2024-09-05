@@ -1,5 +1,5 @@
 ---
 title: "drivedirect"
 url: /york/drivedirect/
-shop: car
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Palmers"
 url: /lutterworth/palmers/
-shop: garden centre
+shop: Garten-Center
 ---

@@ -1,5 +1,5 @@
 ---
 title: "WPS Supplies"
 url: /kirkby-stephen/wps-supplies/
-shop: fuel
+shop: Treibstoff
 ---

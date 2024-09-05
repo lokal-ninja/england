@@ -1,5 +1,5 @@
 ---
 title: "Wufwuf"
 url: /richmond/wufwuf/
-shop: pet
+shop: Tiere
 ---

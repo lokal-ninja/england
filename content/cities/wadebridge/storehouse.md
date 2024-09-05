@@ -1,5 +1,5 @@
 ---
 title: "StoreHouse"
 url: /wadebridge/storehouse/
-shop: charity
+shop: Gebrauchtwaren
 ---

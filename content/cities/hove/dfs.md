@@ -1,5 +1,5 @@
 ---
 title: "DFS"
 url: /hove/dfs/
-shop: furniture
+shop: Möbel
 ---

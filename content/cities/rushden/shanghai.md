@@ -1,5 +1,5 @@
 ---
 title: "ShangHai"
 url: /rushden/shanghai/
-shop: vacant
+shop: Leerstehend
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Emily's Touch"
 url: /nottingham/emilys-touch/
-shop: beauty
+shop: Kosmetik
 ---

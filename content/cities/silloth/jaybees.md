@@ -1,5 +1,5 @@
 ---
 title: "Jaybee's"
 url: /silloth/jaybees/
-shop: hardware
+shop: Eisenwaren
 ---

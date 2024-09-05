@@ -1,5 +1,5 @@
 ---
 title: "Solen's"
 url: /nottingham/solens/
-shop: convenience
+shop: Lebensmittel
 ---

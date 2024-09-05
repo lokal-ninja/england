@@ -1,5 +1,5 @@
 ---
 title: "Surma Stores"
 url: /luton/surma-stores/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

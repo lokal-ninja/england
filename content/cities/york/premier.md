@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /york/premier/
-shop: convenience
+shop: Lebensmittel
 ---

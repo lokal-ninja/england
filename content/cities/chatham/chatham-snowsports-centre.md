@@ -1,5 +1,5 @@
 ---
 title: "Chatham Snowsports Centre"
 url: /chatham/chatham-snowsports-centre/
-shop: ski
+shop: Ski
 ---

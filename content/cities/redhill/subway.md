@@ -1,5 +1,5 @@
 ---
 title: "Subway"
 url: /redhill/subway/
-shop: bakery
+shop: Bäckerei
 ---

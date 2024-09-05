@@ -1,5 +1,5 @@
 ---
 title: "webuyanycar"
 url: /folkestone/webuyanycar/
-shop: car
+shop: Autohaus
 ---

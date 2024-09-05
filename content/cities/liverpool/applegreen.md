@@ -1,5 +1,5 @@
 ---
 title: "Applegreen"
 url: /liverpool/applegreen/
-shop: convenience
+shop: Lebensmittel
 ---

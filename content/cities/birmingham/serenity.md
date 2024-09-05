@@ -1,5 +1,5 @@
 ---
 title: "Serenity"
 url: /birmingham/serenity/
-shop: gift
+shop: Andenken
 ---

@@ -1,5 +1,5 @@
 ---
 title: "F.A. Anderson"
 url: /east-grinstead/f-a-anderson/
-shop: weapons
+shop: Waffen
 ---

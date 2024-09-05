@@ -1,5 +1,5 @@
 ---
 title: "CycleRecycle"
 url: /kessingland/cyclerecycle/
-shop: bicycle
+shop: Fahrrad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Next"
 url: /hayes/next/
-shop: clothes
+shop: Kleidung
 ---

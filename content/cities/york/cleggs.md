@@ -1,5 +1,5 @@
 ---
 title: "Cleggs"
 url: /york/cleggs/
-shop: gift
+shop: Andenken
 ---

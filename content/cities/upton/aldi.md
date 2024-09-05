@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /upton/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

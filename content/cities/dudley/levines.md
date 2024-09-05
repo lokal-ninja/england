@@ -1,5 +1,5 @@
 ---
 title: "Levines"
 url: /dudley/levines/
-shop: furniture
+shop: Möbel
 ---

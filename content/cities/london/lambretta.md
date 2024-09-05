@@ -1,5 +1,5 @@
 ---
 title: "Lambretta"
 url: /london/lambretta/
-shop: clothes
+shop: Kleidung
 ---

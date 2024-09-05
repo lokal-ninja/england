@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /selsey/asda/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bridge Tyres"
 url: /wellington/bridge-tyres/
-shop: tyres
+shop: Reifen
 ---

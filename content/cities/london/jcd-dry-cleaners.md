@@ -1,5 +1,5 @@
 ---
 title: "JCD Dry Cleaners"
 url: /london/jcd-dry-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

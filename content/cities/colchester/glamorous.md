@@ -1,5 +1,5 @@
 ---
 title: "Glamorous"
 url: /colchester/glamorous/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Scoopaway"
 url: /bristol/scoopaway/
-shop: supermarket
+shop: Supermarkt
 ---

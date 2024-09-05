@@ -1,5 +1,5 @@
 ---
 title: "Thornbury Discounts"
 url: /thornbury/thornbury-discounts/
-shop: variety store
+shop: Kramladen
 ---

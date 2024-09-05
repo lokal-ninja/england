@@ -1,5 +1,5 @@
 ---
 title: "Vaparettes"
 url: /whitstable/vaparettes/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

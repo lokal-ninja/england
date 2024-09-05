@@ -1,5 +1,5 @@
 ---
 title: "Kirsty Bridgewater"
 url: /st-ives/kirsty-bridgewater/
-shop: jewelry
+shop: Schmuck
 ---

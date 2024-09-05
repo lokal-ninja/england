@@ -1,5 +1,5 @@
 ---
 title: "Childs Family Bakery"
 url: /dunstable/childs-family-bakery/
-shop: bakery
+shop: Bäckerei
 ---

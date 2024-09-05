@@ -1,5 +1,5 @@
 ---
 title: "Airheadz"
 url: /totnes/airheadz/
-shop: hairdresser
+shop: Friseur
 ---

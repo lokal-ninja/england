@@ -1,5 +1,5 @@
 ---
 title: "Eurocell"
 url: /truro/eurocell/
-shop: trade
+shop: Baustoffe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lakeland"
 url: /cirencester/lakeland/
-shop: houseware
+shop: Haushaltsartikel
 ---

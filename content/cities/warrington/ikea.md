@@ -1,5 +1,5 @@
 ---
 title: "IKEA"
 url: /warrington/ikea/
-shop: furniture
+shop: Möbel
 ---

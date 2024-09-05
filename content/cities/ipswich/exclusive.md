@@ -1,5 +1,5 @@
 ---
 title: "Exclusive"
 url: /ipswich/exclusive/
-shop: beauty
+shop: Kosmetik
 ---

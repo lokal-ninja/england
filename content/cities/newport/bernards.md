@@ -1,5 +1,5 @@
 ---
 title: "Bernards"
 url: /newport/bernards/
-shop: shoes
+shop: Schuhe
 ---

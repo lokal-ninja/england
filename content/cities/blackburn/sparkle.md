@@ -1,5 +1,5 @@
 ---
 title: "Sparkle"
 url: /blackburn/sparkle/
-shop: beauty
+shop: Kosmetik
 ---

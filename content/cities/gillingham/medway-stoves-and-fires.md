@@ -1,5 +1,5 @@
 ---
 title: "Medway Stoves and Fires"
 url: /gillingham/medway-stoves-and-fires/
-shop: shop
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pattinsons"
 url: /gateshead/pattinsons/
-shop: gift
+shop: Andenken
 ---

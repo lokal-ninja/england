@@ -1,5 +1,5 @@
 ---
 title: "Creases"
 url: /chelmsford/creases/
-shop: laundry
+shop: Wäscherei
 ---

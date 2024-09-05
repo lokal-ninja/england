@@ -1,5 +1,5 @@
 ---
 title: "Wardrobe"
 url: /cambridge/wardrobe/
-shop: shop
+shop: Allgemein
 ---

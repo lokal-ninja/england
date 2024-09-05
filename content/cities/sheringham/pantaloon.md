@@ -1,5 +1,5 @@
 ---
 title: "Pantaloon"
 url: /sheringham/pantaloon/
-shop: clothes
+shop: Kleidung
 ---

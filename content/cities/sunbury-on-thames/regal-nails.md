@@ -1,5 +1,5 @@
 ---
 title: "Regal Nails"
 url: /sunbury-on-thames/regal-nails/
-shop: beauty
+shop: Kosmetik
 ---

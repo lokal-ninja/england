@@ -1,5 +1,5 @@
 ---
 title: "Maxwells"
 url: /lowestoft/maxwells/
-shop: hairdresser
+shop: Friseur
 ---

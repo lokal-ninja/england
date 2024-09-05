@@ -1,5 +1,5 @@
 ---
 title: "Galisa Grace"
 url: /london/galisa-grace/
-shop: clothes
+shop: Kleidung
 ---

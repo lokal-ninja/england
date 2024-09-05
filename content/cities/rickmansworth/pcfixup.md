@@ -1,5 +1,5 @@
 ---
 title: "PCFixup"
 url: /rickmansworth/pcfixup/
-shop: computer
+shop: Computer
 ---

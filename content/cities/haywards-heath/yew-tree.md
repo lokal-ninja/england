@@ -1,5 +1,5 @@
 ---
 title: "Yew Tree"
 url: /haywards-heath/yew-tree/
-shop: kitchen
+shop: Küchen
 ---

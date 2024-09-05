@@ -1,5 +1,5 @@
 ---
 title: "Sainsbury's"
 url: /hayes-middlesex/sainsburys/
-shop: supermarket
+shop: Supermarkt
 ---

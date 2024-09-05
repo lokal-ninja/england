@@ -1,5 +1,5 @@
 ---
 title: "Lan's Nails"
 url: /swindon/lans-nails/
-shop: beauty
+shop: Kosmetik
 ---

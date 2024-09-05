@@ -1,5 +1,5 @@
 ---
 title: "VapeStore"
 url: /hexham/vapestore/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

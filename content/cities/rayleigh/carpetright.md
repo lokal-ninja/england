@@ -1,5 +1,5 @@
 ---
 title: "Carpetright"
 url: /rayleigh/carpetright/
-shop: carpet
+shop: Teppiche
 ---

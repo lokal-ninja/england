@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /swindon/spar/
-shop: convenience
+shop: Lebensmittel
 ---

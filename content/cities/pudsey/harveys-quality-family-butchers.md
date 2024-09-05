@@ -1,5 +1,5 @@
 ---
 title: "Harvey's Quality Family Butchers"
 url: /pudsey/harveys-quality-family-butchers/
-shop: butcher
+shop: Metzgerei
 ---

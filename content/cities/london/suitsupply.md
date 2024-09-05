@@ -1,5 +1,5 @@
 ---
 title: "Suitsupply"
 url: /london/suitsupply/
-shop: clothes
+shop: Kleidung
 ---

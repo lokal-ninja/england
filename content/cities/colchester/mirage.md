@@ -1,5 +1,5 @@
 ---
 title: "Mirage"
 url: /colchester/mirage/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

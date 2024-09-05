@@ -1,5 +1,5 @@
 ---
 title: "Solaris"
 url: /manchester/solaris/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cristal"
 url: /solihull/cristal/
-shop: clothes
+shop: Kleidung
 ---

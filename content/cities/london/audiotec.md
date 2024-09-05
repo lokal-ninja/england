@@ -1,5 +1,5 @@
 ---
 title: "Audiotec"
 url: /london/audiotec/
-shop: electronics
+shop: Elektronik
 ---

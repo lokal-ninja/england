@@ -1,5 +1,5 @@
 ---
 title: "Jollyes"
 url: /doncaster/jollyes/
-shop: pet
+shop: Tiere
 ---

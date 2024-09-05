@@ -1,5 +1,5 @@
 ---
 title: "Unique"
 url: /nottingham/unique/
-shop: hairdresser
+shop: Friseur
 ---

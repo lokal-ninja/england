@@ -1,5 +1,5 @@
 ---
 title: "Glam"
 url: /grimsby/glam/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Styler"
 url: /evesham/styler/
-shop: hairdresser
+shop: Friseur
 ---

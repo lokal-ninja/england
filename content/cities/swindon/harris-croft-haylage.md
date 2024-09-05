@@ -1,5 +1,5 @@
 ---
 title: "Harris Croft Haylage"
 url: /swindon/harris-croft-haylage/
-shop: agrarian
+shop: Landwirtschaftlich
 ---

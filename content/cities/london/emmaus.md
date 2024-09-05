@@ -1,5 +1,5 @@
 ---
 title: "Emmaus"
 url: /london/emmaus/
-shop: charity
+shop: Gebrauchtwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Timpson"
 url: /northwich/timpson/
-shop: locksmith
+shop: Schlüsseldienst
 ---

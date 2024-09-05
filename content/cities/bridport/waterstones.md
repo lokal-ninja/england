@@ -1,5 +1,5 @@
 ---
 title: "Waterstones"
 url: /bridport/waterstones/
-shop: books
+shop: Bücher
 ---

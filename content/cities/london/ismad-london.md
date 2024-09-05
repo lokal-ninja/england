@@ -1,5 +1,5 @@
 ---
 title: "Ismad London"
 url: /london/ismad-london/
-shop: bag
+shop: Taschen & Koffer
 ---

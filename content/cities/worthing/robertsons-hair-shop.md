@@ -1,5 +1,5 @@
 ---
 title: "Robertsons Hair Shop"
 url: /worthing/robertsons-hair-shop/
-shop: shop
+shop: Allgemein
 ---

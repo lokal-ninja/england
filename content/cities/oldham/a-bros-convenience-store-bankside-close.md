@@ -1,5 +1,5 @@
 ---
 title: "A Bros Convenience Store"
 url: /oldham/a-bros-convenience-store-bankside-close/
-shop: convenience
+shop: Lebensmittel
 ---

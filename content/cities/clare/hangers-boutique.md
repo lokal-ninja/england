@@ -1,5 +1,5 @@
 ---
 title: "Hangers Boutique"
 url: /clare/hangers-boutique/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Phillip's"
 url: /heanor/phillips/
-shop: hairdresser
+shop: Friseur
 ---

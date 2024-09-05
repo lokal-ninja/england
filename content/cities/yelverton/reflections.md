@@ -1,5 +1,5 @@
 ---
 title: "Reflections"
 url: /yelverton/reflections/
-shop: hairdresser
+shop: Friseur
 ---

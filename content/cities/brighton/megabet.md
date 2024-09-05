@@ -1,5 +1,5 @@
 ---
 title: "Megabet"
 url: /brighton/megabet/
-shop: bookmaker
+shop: Wettbüro
 ---

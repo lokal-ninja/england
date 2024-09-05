@@ -1,5 +1,5 @@
 ---
 title: "Allan's"
 url: /london/allans/
-shop: bakery
+shop: Bäckerei
 ---

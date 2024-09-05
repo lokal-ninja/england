@@ -1,5 +1,5 @@
 ---
 title: "Club Sub"
 url: /stoke-on-trent/club-sub/
-shop: diving
+shop: Tauchen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Althams"
 url: /wakefield/althams/
-shop: travel agency
+shop: Reisebüro
 ---

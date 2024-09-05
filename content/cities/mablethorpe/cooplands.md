@@ -1,5 +1,5 @@
 ---
 title: "Cooplands"
 url: /mablethorpe/cooplands/
-shop: bakery
+shop: Bäckerei
 ---

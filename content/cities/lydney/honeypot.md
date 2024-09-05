@@ -1,5 +1,5 @@
 ---
 title: "Honeypot"
 url: /lydney/honeypot/
-shop: shop
+shop: Allgemein
 ---

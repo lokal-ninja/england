@@ -1,5 +1,5 @@
 ---
 title: "sunseekers"
 url: /liverpool/sunseekers/
-shop: beauty
+shop: Kosmetik
 ---

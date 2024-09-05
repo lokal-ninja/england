@@ -1,5 +1,5 @@
 ---
 title: "Allium"
 url: /cheltenham/allium/
-shop: florist
+shop: Blumen
 ---

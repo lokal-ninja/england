@@ -1,5 +1,5 @@
 ---
 title: "HMV"
 url: /huddersfield/hmv/
-shop: music
+shop: Musik
 ---

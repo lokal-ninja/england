@@ -1,5 +1,5 @@
 ---
 title: "Relate"
 url: /whitstable/relate/
-shop: charity
+shop: Gebrauchtwaren
 ---

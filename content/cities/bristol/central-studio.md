@@ -1,5 +1,5 @@
 ---
 title: "Central Studio"
 url: /bristol/central-studio/
-shop: hairdresser
+shop: Friseur
 ---

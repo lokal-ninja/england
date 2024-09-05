@@ -1,5 +1,5 @@
 ---
 title: "Gift Hair Collection"
 url: /hatfield/gift-hair-collection/
-shop: hairdresser
+shop: Friseur
 ---

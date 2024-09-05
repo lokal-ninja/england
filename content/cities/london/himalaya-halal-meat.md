@@ -1,5 +1,5 @@
 ---
 title: "Himalaya Halal Meat"
 url: /london/himalaya-halal-meat/
-shop: butcher
+shop: Metzgerei
 ---

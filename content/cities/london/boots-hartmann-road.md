@@ -1,5 +1,5 @@
 ---
 title: "Boots"
 url: /london/boots-hartmann-road/
-shop: chemist
+shop: Drogerie
 ---

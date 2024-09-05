@@ -1,5 +1,5 @@
 ---
 title: "Vapery"
 url: /bishop-auckland/vapery/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

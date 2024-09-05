@@ -1,5 +1,5 @@
 ---
 title: "Chelmsford Plastic Warehouse"
 url: /chelmsford/chelmsford-plastic-warehouse-robjohns-road/
-shop: trade
+shop: Baustoffe
 ---

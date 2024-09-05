@@ -1,5 +1,5 @@
 ---
 title: "Luxe"
 url: /manchester/luxe/
-shop: wholesale
+shop: Großhandel
 ---

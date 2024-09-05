@@ -1,5 +1,5 @@
 ---
 title: "Portland Tyres"
 url: /dagenham/portland-tyres/
-shop: tyres
+shop: Reifen
 ---

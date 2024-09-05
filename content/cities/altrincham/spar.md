@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /altrincham/spar/
-shop: convenience
+shop: Lebensmittel
 ---

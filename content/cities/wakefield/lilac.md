@@ -1,5 +1,5 @@
 ---
 title: "Lilac"
 url: /wakefield/lilac/
-shop: beauty
+shop: Kosmetik
 ---

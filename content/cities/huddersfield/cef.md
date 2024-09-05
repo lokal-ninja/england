@@ -1,5 +1,5 @@
 ---
 title: "CEF"
 url: /huddersfield/cef/
-shop: electrical
+shop: Elektrisch
 ---

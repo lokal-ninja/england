@@ -1,5 +1,5 @@
 ---
 title: "Madhouse Nut Centre"
 url: /nottingham/madhouse-nut-centre/
-shop: shop
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Richer Sounds"
 url: /reigate/richer-sounds/
-shop: hifi
+shop: Hifi
 ---

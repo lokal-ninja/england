@@ -1,5 +1,5 @@
 ---
 title: "Ismet"
 url: /london/ismet/
-shop: hairdresser
+shop: Friseur
 ---

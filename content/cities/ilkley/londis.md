@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /ilkley/londis/
-shop: convenience
+shop: Lebensmittel
 ---

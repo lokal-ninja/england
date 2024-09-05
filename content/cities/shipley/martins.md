@@ -1,5 +1,5 @@
 ---
 title: "Martin's"
 url: /shipley/martins/
-shop: newsagent
+shop: Zeitungen
 ---

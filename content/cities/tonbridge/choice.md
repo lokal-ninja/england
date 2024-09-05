@@ -1,5 +1,5 @@
 ---
 title: "Choice"
 url: /tonbridge/choice/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /bromley/costcutter/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /kendal/asda/
-shop: supermarket
+shop: Supermarkt
 ---

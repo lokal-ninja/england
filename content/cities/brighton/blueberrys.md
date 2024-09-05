@@ -1,5 +1,5 @@
 ---
 title: "Blueberrys"
 url: /brighton/blueberrys/
-shop: convenience
+shop: Lebensmittel
 ---

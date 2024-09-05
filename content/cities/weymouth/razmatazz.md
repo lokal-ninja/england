@@ -1,5 +1,5 @@
 ---
 title: "Razmatazz"
 url: /weymouth/razmatazz/
-shop: collector
+shop: Sammler
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Brandon"
 url: /bristol/brandon/
-shop: charity
+shop: Gebrauchtwaren
 ---

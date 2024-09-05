@@ -1,5 +1,5 @@
 ---
 title: "Drews"
 url: /banstead/drews/
-shop: laundry
+shop: Wäscherei
 ---

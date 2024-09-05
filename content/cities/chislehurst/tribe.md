@@ -1,5 +1,5 @@
 ---
 title: "Tribe"
 url: /chislehurst/tribe/
-shop: hairdresser
+shop: Friseur
 ---

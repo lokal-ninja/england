@@ -1,5 +1,5 @@
 ---
 title: "Derby Stores"
 url: /cambridge/derby-stores/
-shop: convenience
+shop: Lebensmittel
 ---

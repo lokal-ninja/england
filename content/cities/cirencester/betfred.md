@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /cirencester/betfred/
-shop: bookmaker
+shop: Wettbüro
 ---

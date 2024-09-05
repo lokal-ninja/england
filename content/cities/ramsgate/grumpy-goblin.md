@@ -1,5 +1,5 @@
 ---
 title: "Grumpy Goblin"
 url: /ramsgate/grumpy-goblin/
-shop: games
+shop: Spiele
 ---

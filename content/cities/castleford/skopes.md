@@ -1,5 +1,5 @@
 ---
 title: "Skopes"
 url: /castleford/skopes/
-shop: clothes
+shop: Kleidung
 ---

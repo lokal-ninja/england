@@ -1,5 +1,5 @@
 ---
 title: "Nisa"
 url: /peterborough/nisa/
-shop: convenience
+shop: Lebensmittel
 ---

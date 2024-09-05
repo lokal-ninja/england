@@ -1,5 +1,5 @@
 ---
 title: "Motrio"
 url: /chelmsford/motrio/
-shop: car repair
+shop: Autowerkstatt
 ---

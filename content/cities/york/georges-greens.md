@@ -1,5 +1,5 @@
 ---
 title: "George's Greens"
 url: /york/georges-greens/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "COOK"
 url: /midhurst/cook/
-shop: frozen food
+shop: Tiefkühl
 ---

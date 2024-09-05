@@ -1,5 +1,5 @@
 ---
 title: "Atlantic Ocean Seafood"
 url: /grimsby/atlantic-ocean-seafood/
-shop: seafood
+shop: Fisch
 ---

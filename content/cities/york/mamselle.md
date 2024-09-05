@@ -1,5 +1,5 @@
 ---
 title: "Mamselle"
 url: /york/mamselle/
-shop: hairdresser
+shop: Friseur
 ---

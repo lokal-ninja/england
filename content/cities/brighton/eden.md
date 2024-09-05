@@ -1,5 +1,5 @@
 ---
 title: "Eden"
 url: /brighton/eden/
-shop: perfumery
+shop: Parfümerie
 ---

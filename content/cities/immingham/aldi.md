@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /immingham/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

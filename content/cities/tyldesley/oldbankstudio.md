@@ -1,5 +1,5 @@
 ---
 title: "OldBankStudio"
 url: /tyldesley/oldbankstudio/
-shop: tattoo
+shop: Tattoo
 ---

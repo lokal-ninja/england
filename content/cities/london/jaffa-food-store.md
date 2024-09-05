@@ -1,5 +1,5 @@
 ---
 title: "Jaffa Food Store"
 url: /london/jaffa-food-store/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

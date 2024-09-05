@@ -1,5 +1,5 @@
 ---
 title: "Altr"
 url: /chester/altr/
-shop: hairdresser
+shop: Friseur
 ---

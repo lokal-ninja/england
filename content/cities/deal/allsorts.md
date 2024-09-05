@@ -1,5 +1,5 @@
 ---
 title: "AllSorts"
 url: /deal/allsorts/
-shop: hardware
+shop: Eisenwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Oxford Convenience Store"
 url: /oxford/oxford-convenience-store/
-shop: convenience
+shop: Lebensmittel
 ---

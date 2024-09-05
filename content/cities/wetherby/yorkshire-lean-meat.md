@@ -1,5 +1,5 @@
 ---
 title: "Yorkshire Lean Meat"
 url: /wetherby/yorkshire-lean-meat/
-shop: butcher
+shop: Metzgerei
 ---

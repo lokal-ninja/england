@@ -1,5 +1,5 @@
 ---
 title: "Glints"
 url: /nottingham/glints/
-shop: hairdresser
+shop: Friseur
 ---

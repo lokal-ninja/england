@@ -1,5 +1,5 @@
 ---
 title: "LK Bennett"
 url: /cheltenham/lk-bennett/
-shop: clothes
+shop: Kleidung
 ---

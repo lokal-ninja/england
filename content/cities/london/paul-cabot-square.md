@@ -1,5 +1,5 @@
 ---
 title: "Paul"
 url: /london/paul-cabot-square/
-shop: bakery
+shop: Bäckerei
 ---

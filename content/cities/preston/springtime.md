@@ -1,5 +1,5 @@
 ---
 title: "Springtime"
 url: /preston/springtime/
-shop: laundry
+shop: Wäscherei
 ---

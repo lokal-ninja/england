@@ -1,5 +1,5 @@
 ---
 title: "Portobello"
 url: /st-leonards-on-sea/portobello/
-shop: furniture
+shop: Möbel
 ---

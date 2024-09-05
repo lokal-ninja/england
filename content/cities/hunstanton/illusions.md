@@ -1,5 +1,5 @@
 ---
 title: "Illusions"
 url: /hunstanton/illusions/
-shop: hairdresser
+shop: Friseur
 ---

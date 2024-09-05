@@ -1,5 +1,5 @@
 ---
 title: "Bodycare"
 url: /lancaster/bodycare/
-shop: chemist
+shop: Drogerie
 ---

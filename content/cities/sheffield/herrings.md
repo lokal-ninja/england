@@ -1,5 +1,5 @@
 ---
 title: "Herrings"
 url: /sheffield/herrings/
-shop: hairdresser
+shop: Friseur
 ---

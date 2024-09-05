@@ -1,5 +1,5 @@
 ---
 title: "Thai Siam Spa Massage"
 url: /belvedere/thai-siam-spa-massage/
-shop: massage
+shop: Massage
 ---

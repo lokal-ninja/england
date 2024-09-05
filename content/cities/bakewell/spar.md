@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /bakewell/spar/
-shop: convenience
+shop: Lebensmittel
 ---

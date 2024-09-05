@@ -1,5 +1,5 @@
 ---
 title: "Union Extra"
 url: /london/union-extra/
-shop: convenience
+shop: Lebensmittel
 ---

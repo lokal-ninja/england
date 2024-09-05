@@ -1,5 +1,5 @@
 ---
 title: "TerraFUSION"
 url: /billericay/terrafusion/
-shop: frame
+shop: Rahmen
 ---

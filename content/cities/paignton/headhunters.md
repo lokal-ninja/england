@@ -1,5 +1,5 @@
 ---
 title: "Headhunters"
 url: /paignton/headhunters/
-shop: hairdresser
+shop: Friseur
 ---

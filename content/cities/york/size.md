@@ -1,5 +1,5 @@
 ---
 title: "Size"
 url: /york/size/
-shop: shoes
+shop: Schuhe
 ---

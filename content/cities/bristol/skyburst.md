@@ -1,5 +1,5 @@
 ---
 title: "skyburst"
 url: /bristol/skyburst/
-shop: shop
+shop: Allgemein
 ---

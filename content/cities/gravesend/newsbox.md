@@ -1,5 +1,5 @@
 ---
 title: "Newsbox"
 url: /gravesend/newsbox/
-shop: convenience
+shop: Lebensmittel
 ---

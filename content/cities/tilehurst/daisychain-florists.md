@@ -1,5 +1,5 @@
 ---
 title: "Daisychain Florists"
 url: /tilehurst/daisychain-florists/
-shop: florist
+shop: Blumen
 ---

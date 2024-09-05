@@ -1,5 +1,5 @@
 ---
 title: "Little Europe Mini Market"
 url: /ely/little-europe-mini-market/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Minutka Polish Shop"
 url: /bognor-regis/minutka-polish-shop/
-shop: convenience
+shop: Lebensmittel
 ---

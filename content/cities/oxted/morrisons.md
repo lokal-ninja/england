@@ -1,5 +1,5 @@
 ---
 title: "Morrisons"
 url: /oxted/morrisons/
-shop: supermarket
+shop: Supermarkt
 ---

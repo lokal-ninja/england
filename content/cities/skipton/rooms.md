@@ -1,5 +1,5 @@
 ---
 title: "Rooms"
 url: /skipton/rooms/
-shop: furniture
+shop: Möbel
 ---

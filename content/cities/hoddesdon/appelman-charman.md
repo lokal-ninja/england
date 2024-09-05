@@ -1,5 +1,5 @@
 ---
 title: "Appelman Charman"
 url: /hoddesdon/appelman-charman/
-shop: optician
+shop: Optiker
 ---

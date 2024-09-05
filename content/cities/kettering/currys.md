@@ -1,5 +1,5 @@
 ---
 title: "Currys"
 url: /kettering/currys/
-shop: electronics
+shop: Elektronik
 ---

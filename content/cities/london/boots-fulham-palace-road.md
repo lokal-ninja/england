@@ -1,5 +1,5 @@
 ---
 title: "Boots"
 url: /london/boots-fulham-palace-road/
-shop: chemist
+shop: Drogerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gorilla Firm Cycling"
 url: /peterborough/gorilla-firm-cycling/
-shop: bicycle
+shop: Fahrrad
 ---

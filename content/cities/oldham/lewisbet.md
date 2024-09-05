@@ -1,5 +1,5 @@
 ---
 title: "Lewisbet"
 url: /oldham/lewisbet/
-shop: bookmaker
+shop: Wettbüro
 ---

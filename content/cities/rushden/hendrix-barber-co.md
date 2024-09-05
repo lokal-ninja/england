@@ -1,5 +1,5 @@
 ---
 title: "Hendrix Barber Co."
 url: /rushden/hendrix-barber-co/
-shop: hairdresser
+shop: Friseur
 ---

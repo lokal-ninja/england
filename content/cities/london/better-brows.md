@@ -1,5 +1,5 @@
 ---
 title: "Better Brows"
 url: /london/better-brows/
-shop: beauty
+shop: Kosmetik
 ---

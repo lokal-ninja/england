@@ -1,5 +1,5 @@
 ---
 title: "YMCA"
 url: /felixstowe/ymca/
-shop: charity
+shop: Gebrauchtwaren
 ---

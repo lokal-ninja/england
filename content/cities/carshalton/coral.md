@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /carshalton/coral/
-shop: bookmaker
+shop: Wettbüro
 ---

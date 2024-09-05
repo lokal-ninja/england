@@ -1,5 +1,5 @@
 ---
 title: "Welcome"
 url: /cheltenham/welcome/
-shop: convenience
+shop: Lebensmittel
 ---

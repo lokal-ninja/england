@@ -1,5 +1,5 @@
 ---
 title: "Blott"
 url: /tunbridge-wells/blott/
-shop: office supplies
+shop: Schreibwaren
 ---

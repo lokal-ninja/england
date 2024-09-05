@@ -1,5 +1,5 @@
 ---
 title: "Kenji"
 url: /london/kenji/
-shop: gift
+shop: Andenken
 ---

@@ -1,5 +1,5 @@
 ---
 title: "paint pots"
 url: /brighton/paint-pots/
-shop: pottery
+shop: Töpferei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SUDA"
 url: /nottingham/suda/
-shop: deli
+shop: Feinkost
 ---

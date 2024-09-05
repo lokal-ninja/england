@@ -1,5 +1,5 @@
 ---
 title: "Bristo's"
 url: /ipswich/bristos/
-shop: car
+shop: Autohaus
 ---

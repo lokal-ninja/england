@@ -1,5 +1,5 @@
 ---
 title: "Berinsfield Shopper"
 url: /berinsfield/berinsfield-shopper/
-shop: convenience
+shop: Lebensmittel
 ---

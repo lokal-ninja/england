@@ -1,5 +1,5 @@
 ---
 title: "Dobbies"
 url: /chester-le-street/dobbies/
-shop: garden centre
+shop: Garten-Center
 ---

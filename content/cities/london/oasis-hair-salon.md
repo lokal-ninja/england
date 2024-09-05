@@ -1,5 +1,5 @@
 ---
 title: "Oasis Hair Salon"
 url: /london/oasis-hair-salon/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Crown"
 url: /reading/crown/
-shop: paint
+shop: Farben
 ---

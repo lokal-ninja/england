@@ -1,5 +1,5 @@
 ---
 title: "WCF"
 url: /ulverston/wcf/
-shop: pet
+shop: Tiere
 ---

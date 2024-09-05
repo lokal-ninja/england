@@ -1,5 +1,5 @@
 ---
 title: "Hammonds"
 url: /cheltenham/hammonds/
-shop: furniture
+shop: Möbel
 ---

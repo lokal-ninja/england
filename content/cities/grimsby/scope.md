@@ -1,5 +1,5 @@
 ---
 title: "Scope"
 url: /grimsby/scope/
-shop: charity
+shop: Gebrauchtwaren
 ---

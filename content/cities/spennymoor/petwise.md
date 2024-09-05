@@ -1,5 +1,5 @@
 ---
 title: "Petwise"
 url: /spennymoor/petwise/
-shop: pet
+shop: Tiere
 ---

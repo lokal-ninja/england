@@ -1,5 +1,5 @@
 ---
 title: "Gauntley's"
 url: /nottingham/gauntleys/
-shop: alcohol
+shop: Spirituosen
 ---

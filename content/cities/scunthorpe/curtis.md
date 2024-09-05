@@ -1,5 +1,5 @@
 ---
 title: "Curtis"
 url: /scunthorpe/curtis/
-shop: bakery
+shop: Bäckerei
 ---

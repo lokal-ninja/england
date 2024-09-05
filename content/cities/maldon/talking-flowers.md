@@ -1,5 +1,5 @@
 ---
 title: "Talking Flowers"
 url: /maldon/talking-flowers/
-shop: florist
+shop: Blumen
 ---

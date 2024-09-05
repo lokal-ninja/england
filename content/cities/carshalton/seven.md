@@ -1,5 +1,5 @@
 ---
 title: "Seven"
 url: /carshalton/seven/
-shop: hairdresser
+shop: Friseur
 ---

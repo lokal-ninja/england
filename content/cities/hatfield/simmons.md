@@ -1,5 +1,5 @@
 ---
 title: "Simmons"
 url: /hatfield/simmons/
-shop: bakery
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sangrila"
 url: /manchester/sangrila/
-shop: bag
+shop: Taschen & Koffer
 ---

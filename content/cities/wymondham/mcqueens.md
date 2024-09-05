@@ -1,5 +1,5 @@
 ---
 title: "McQueens"
 url: /wymondham/mcqueens/
-shop: hairdresser
+shop: Friseur
 ---

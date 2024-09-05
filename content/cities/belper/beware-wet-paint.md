@@ -1,5 +1,5 @@
 ---
 title: "Beware Wet Paint"
 url: /belper/beware-wet-paint/
-shop: art
+shop: Kunst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Big on Bikes"
 url: /derby/big-on-bikes/
-shop: bicycle
+shop: Fahrrad
 ---

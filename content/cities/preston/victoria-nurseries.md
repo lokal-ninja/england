@@ -1,5 +1,5 @@
 ---
 title: "Victoria Nurseries"
 url: /preston/victoria-nurseries/
-shop: garden centre
+shop: Garten-Center
 ---

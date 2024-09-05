@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /worksop/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

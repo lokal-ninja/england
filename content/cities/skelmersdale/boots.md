@@ -1,5 +1,5 @@
 ---
 title: "Boots"
 url: /skelmersdale/boots/
-shop: chemist
+shop: Drogerie
 ---

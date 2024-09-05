@@ -1,5 +1,5 @@
 ---
 title: "The Veg Stall"
 url: /grimsby/the-veg-stall/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

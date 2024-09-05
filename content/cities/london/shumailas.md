@@ -1,5 +1,5 @@
 ---
 title: "Shumaila's"
 url: /london/shumailas/
-shop: beauty
+shop: Kosmetik
 ---

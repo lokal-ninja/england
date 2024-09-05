@@ -1,5 +1,5 @@
 ---
 title: "Hamblys"
 url: /taunton/hamblys/
-shop: car
+shop: Autohaus
 ---

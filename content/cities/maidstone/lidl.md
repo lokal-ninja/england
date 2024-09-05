@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /maidstone/lidl/
-shop: supermarket
+shop: Supermarkt
 ---

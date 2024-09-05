@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /gloucester/coral/
-shop: bookmaker
+shop: Wettbüro
 ---

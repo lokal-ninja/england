@@ -1,5 +1,5 @@
 ---
 title: "BoyleSports"
 url: /pontefract/boylesports/
-shop: bookmaker
+shop: Wettbüro
 ---

@@ -1,5 +1,5 @@
 ---
 title: "gap"
 url: /warrington/gap/
-shop: trade
+shop: Baustoffe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /cosby/spar/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "JYSK"
 url: /warrington/jysk/
-shop: furniture
+shop: Möbel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /rotherham/coral/
-shop: bookmaker
+shop: Wettbüro
 ---

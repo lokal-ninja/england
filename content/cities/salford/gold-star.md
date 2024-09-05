@@ -1,5 +1,5 @@
 ---
 title: "Gold Star"
 url: /salford/gold-star/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Root"
 url: /london/root/
-shop: hairdresser
+shop: Friseur
 ---

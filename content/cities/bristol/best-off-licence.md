@@ -1,5 +1,5 @@
 ---
 title: "Best Off Licence"
 url: /bristol/best-off-licence/
-shop: alcohol
+shop: Spirituosen
 ---

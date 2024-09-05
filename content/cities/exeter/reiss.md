@@ -1,5 +1,5 @@
 ---
 title: "Reiss"
 url: /exeter/reiss/
-shop: clothes
+shop: Kleidung
 ---

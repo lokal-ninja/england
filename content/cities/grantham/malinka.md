@@ -1,5 +1,5 @@
 ---
 title: "Malinka"
 url: /grantham/malinka/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pets at Home"
 url: /ipswich/pets-at-home/
-shop: pet
+shop: Tiere
 ---

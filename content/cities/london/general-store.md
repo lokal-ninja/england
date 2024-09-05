@@ -1,5 +1,5 @@
 ---
 title: "General Store"
 url: /london/general-store/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

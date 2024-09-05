@@ -1,5 +1,5 @@
 ---
 title: "Toolstation"
 url: /exeter/toolstation/
-shop: doityourself
+shop: Baumarkt
 ---

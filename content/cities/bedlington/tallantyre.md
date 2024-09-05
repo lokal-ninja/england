@@ -1,5 +1,5 @@
 ---
 title: "Tallantyre"
 url: /bedlington/tallantyre/
-shop: shop
+shop: Allgemein
 ---

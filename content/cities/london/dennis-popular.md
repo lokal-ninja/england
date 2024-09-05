@@ -1,5 +1,5 @@
 ---
 title: "Denni's Popular"
 url: /london/dennis-popular/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lord"
 url: /alnwick/lord/
-shop: shop
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ScS"
 url: /southampton/scs/
-shop: furniture
+shop: Möbel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Seeded"
 url: /southsea/seeded-clarendon-road/
-shop: fabric
+shop: Textil
 ---

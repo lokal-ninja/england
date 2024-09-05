@@ -1,5 +1,5 @@
 ---
 title: "Poppies"
 url: /preston/poppies/
-shop: florist
+shop: Blumen
 ---

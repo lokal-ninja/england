@@ -1,5 +1,5 @@
 ---
 title: "HIAB"
 url: /oldham/hiab/
-shop: tools
+shop: Werkzeuge
 ---

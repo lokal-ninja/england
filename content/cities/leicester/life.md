@@ -1,5 +1,5 @@
 ---
 title: "Life"
 url: /leicester/life/
-shop: charity
+shop: Gebrauchtwaren
 ---

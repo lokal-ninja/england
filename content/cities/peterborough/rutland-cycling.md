@@ -1,5 +1,5 @@
 ---
 title: "Rutland Cycling"
 url: /peterborough/rutland-cycling/
-shop: bicycle
+shop: Fahrrad
 ---

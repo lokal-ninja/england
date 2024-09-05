@@ -1,5 +1,5 @@
 ---
 title: "Vinni's"
 url: /bristol/vinnis/
-shop: convenience
+shop: Lebensmittel
 ---

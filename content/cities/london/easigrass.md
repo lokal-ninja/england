@@ -1,5 +1,5 @@
 ---
 title: "easigrass"
 url: /london/easigrass/
-shop: shop
+shop: Allgemein
 ---

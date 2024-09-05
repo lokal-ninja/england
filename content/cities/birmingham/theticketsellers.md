@@ -1,5 +1,5 @@
 ---
 title: "TheTicketSellers"
 url: /birmingham/theticketsellers/
-shop: ticket
+shop: Tickets
 ---

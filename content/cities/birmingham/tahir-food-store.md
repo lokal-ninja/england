@@ -1,5 +1,5 @@
 ---
 title: "Tahir Food Store"
 url: /birmingham/tahir-food-store/
-shop: convenience
+shop: Lebensmittel
 ---

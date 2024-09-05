@@ -1,5 +1,5 @@
 ---
 title: "Westgate Bridal Studio"
 url: /halifax/westgate-bridal-studio/
-shop: clothes
+shop: Kleidung
 ---

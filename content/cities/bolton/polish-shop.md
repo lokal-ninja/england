@@ -1,5 +1,5 @@
 ---
 title: "Polish Shop"
 url: /bolton/polish-shop/
-shop: convenience
+shop: Lebensmittel
 ---

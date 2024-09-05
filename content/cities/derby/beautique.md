@@ -1,5 +1,5 @@
 ---
 title: "Beautique"
 url: /derby/beautique/
-shop: beauty
+shop: Kosmetik
 ---

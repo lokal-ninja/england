@@ -1,5 +1,5 @@
 ---
 title: "Hoylake Stores"
 url: /hoylake/hoylake-stores/
-shop: variety store
+shop: Kramladen
 ---

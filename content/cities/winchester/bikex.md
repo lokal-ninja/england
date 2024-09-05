@@ -1,5 +1,5 @@
 ---
 title: "Bikex"
 url: /winchester/bikex/
-shop: bicycle
+shop: Fahrrad
 ---

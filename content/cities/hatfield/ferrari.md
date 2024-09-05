@@ -1,5 +1,5 @@
 ---
 title: "Ferrari"
 url: /hatfield/ferrari/
-shop: car
+shop: Autohaus
 ---

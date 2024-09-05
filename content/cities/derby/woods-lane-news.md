@@ -1,5 +1,5 @@
 ---
 title: "Woods Lane News"
 url: /derby/woods-lane-news/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CTD"
 url: /cambridge/ctd/
-shop: tiles
+shop: Fliesen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Peony"
 url: /eastbourne/peony/
-shop: bag
+shop: Taschen & Koffer
 ---

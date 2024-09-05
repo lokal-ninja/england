@@ -1,5 +1,5 @@
 ---
 title: "Lovisa"
 url: /london/lovisa/
-shop: jewelry
+shop: Schmuck
 ---

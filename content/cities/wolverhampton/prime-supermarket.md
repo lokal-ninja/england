@@ -1,5 +1,5 @@
 ---
 title: "Prime Supermarket"
 url: /wolverhampton/prime-supermarket/
-shop: convenience
+shop: Lebensmittel
 ---

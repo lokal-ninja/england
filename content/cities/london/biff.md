@@ -1,5 +1,5 @@
 ---
 title: "Biff"
 url: /london/biff/
-shop: shoes
+shop: Schuhe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Abirami"
 url: /wembley/abirami/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

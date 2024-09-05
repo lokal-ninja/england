@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /cheltenham/ladbrokes/
-shop: bookmaker
+shop: Wettbüro
 ---

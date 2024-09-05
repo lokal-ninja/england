@@ -1,5 +1,5 @@
 ---
 title: "Filey Convenience Store"
 url: /filey/filey-convenience-store/
-shop: convenience
+shop: Lebensmittel
 ---

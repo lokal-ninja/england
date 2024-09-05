@@ -1,5 +1,5 @@
 ---
 title: "EcigWizard"
 url: /devizes/ecigwizard/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

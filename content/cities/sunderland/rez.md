@@ -1,5 +1,5 @@
 ---
 title: "Rez"
 url: /sunderland/rez/
-shop: hairdresser
+shop: Friseur
 ---

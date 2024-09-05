@@ -1,5 +1,5 @@
 ---
 title: "Bridal Boutique"
 url: /blackpool/bridal-boutique/
-shop: clothes
+shop: Kleidung
 ---

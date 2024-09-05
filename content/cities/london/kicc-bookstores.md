@@ -1,5 +1,5 @@
 ---
 title: "KICC Bookstores"
 url: /london/kicc-bookstores/
-shop: books
+shop: Bücher
 ---

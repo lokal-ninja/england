@@ -1,5 +1,5 @@
 ---
 title: "Morrisons"
 url: /alnwick/morrisons/
-shop: supermarket
+shop: Supermarkt
 ---

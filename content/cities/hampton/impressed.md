@@ -1,5 +1,5 @@
 ---
 title: "Impressed"
 url: /hampton/impressed/
-shop: laundry
+shop: Wäscherei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Firths"
 url: /lancaster/firths/
-shop: jewelry
+shop: Schmuck
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Alver Valley"
 url: /gosport/alver-valley/
-shop: garden centre
+shop: Garten-Center
 ---

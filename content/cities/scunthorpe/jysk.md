@@ -1,5 +1,5 @@
 ---
 title: "JYSK"
 url: /scunthorpe/jysk/
-shop: furniture
+shop: Möbel
 ---

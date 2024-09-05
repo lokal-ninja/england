@@ -1,5 +1,5 @@
 ---
 title: "NU"
 url: /london/nu/
-shop: clothes
+shop: Kleidung
 ---

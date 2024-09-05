@@ -1,5 +1,5 @@
 ---
 title: "Pinks"
 url: /henfield/pinks/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /preston/savers/
-shop: chemist
+shop: Drogerie
 ---

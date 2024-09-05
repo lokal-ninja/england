@@ -1,5 +1,5 @@
 ---
 title: "Bedazzled"
 url: /derby/bedazzled/
-shop: clothes
+shop: Kleidung
 ---

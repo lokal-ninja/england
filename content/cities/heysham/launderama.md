@@ -1,5 +1,5 @@
 ---
 title: "Launderama"
 url: /heysham/launderama/
-shop: laundry
+shop: Wäscherei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tangier Road Butchers"
 url: /portsmouth/tangier-road-butchers/
-shop: butcher
+shop: Metzgerei
 ---

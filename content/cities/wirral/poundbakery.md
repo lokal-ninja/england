@@ -1,5 +1,5 @@
 ---
 title: "Poundbakery"
 url: /wirral/poundbakery/
-shop: bakery
+shop: Bäckerei
 ---

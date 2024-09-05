@@ -1,5 +1,5 @@
 ---
 title: "Waterstones"
 url: /carlisle/waterstones/
-shop: books
+shop: Bücher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Botanique"
 url: /shrewsbury/botanique/
-shop: florist
+shop: Blumen
 ---

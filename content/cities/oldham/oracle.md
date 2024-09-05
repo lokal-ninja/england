@@ -1,5 +1,5 @@
 ---
 title: "Oracle"
 url: /oldham/oracle/
-shop: hairdresser
+shop: Friseur
 ---

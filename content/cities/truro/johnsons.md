@@ -1,5 +1,5 @@
 ---
 title: "Johnsons"
 url: /truro/johnsons/
-shop: laundry
+shop: Wäscherei
 ---

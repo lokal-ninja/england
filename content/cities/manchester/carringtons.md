@@ -1,5 +1,5 @@
 ---
 title: "Carrington's"
 url: /manchester/carringtons/
-shop: hairdresser
+shop: Friseur
 ---

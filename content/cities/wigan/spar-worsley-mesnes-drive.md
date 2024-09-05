@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /wigan/spar-worsley-mesnes-drive/
-shop: convenience
+shop: Lebensmittel
 ---

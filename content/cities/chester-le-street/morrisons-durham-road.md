@@ -1,5 +1,5 @@
 ---
 title: "Morrisons"
 url: /chester-le-street/morrisons-durham-road/
-shop: supermarket
+shop: Supermarkt
 ---

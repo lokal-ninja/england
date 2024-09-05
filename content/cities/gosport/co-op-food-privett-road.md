@@ -1,5 +1,5 @@
 ---
 title: "Co-op Food"
 url: /gosport/co-op-food-privett-road/
-shop: convenience
+shop: Lebensmittel
 ---

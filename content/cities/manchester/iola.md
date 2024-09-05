@@ -1,5 +1,5 @@
 ---
 title: "Iola"
 url: /manchester/iola/
-shop: optician
+shop: Optiker
 ---

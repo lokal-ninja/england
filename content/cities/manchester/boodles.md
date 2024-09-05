@@ -1,5 +1,5 @@
 ---
 title: "Boodles"
 url: /manchester/boodles/
-shop: jewelry
+shop: Schmuck
 ---

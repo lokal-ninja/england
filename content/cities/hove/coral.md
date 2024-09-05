@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /hove/coral/
-shop: bookmaker
+shop: Wettbüro
 ---

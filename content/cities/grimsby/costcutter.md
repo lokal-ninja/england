@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /grimsby/costcutter/
-shop: convenience
+shop: Lebensmittel
 ---

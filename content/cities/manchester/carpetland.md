@@ -1,5 +1,5 @@
 ---
 title: "Carpetland"
 url: /manchester/carpetland/
-shop: wholesale
+shop: Großhandel
 ---

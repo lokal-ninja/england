@@ -1,5 +1,5 @@
 ---
 title: "West Street Antiques"
 url: /dorking/west-street-antiques/
-shop: antiques
+shop: Antiquitäten
 ---

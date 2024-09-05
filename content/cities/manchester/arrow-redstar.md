@@ -1,5 +1,5 @@
 ---
 title: "Arrow Redstar"
 url: /manchester/arrow-redstar/
-shop: pyrotechnics
+shop: Pyrotechnik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Suds"
 url: /rushden/suds/
-shop: laundry
+shop: Wäscherei
 ---

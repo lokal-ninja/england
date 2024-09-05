@@ -1,5 +1,5 @@
 ---
 title: "Gregory"
 url: /nottingham/gregory/
-shop: convenience
+shop: Lebensmittel
 ---

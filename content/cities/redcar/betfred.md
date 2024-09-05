@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /redcar/betfred/
-shop: bookmaker
+shop: Wettbüro
 ---

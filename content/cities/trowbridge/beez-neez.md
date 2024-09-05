@@ -1,5 +1,5 @@
 ---
 title: "Bee'z Neez"
 url: /trowbridge/beez-neez/
-shop: deli
+shop: Feinkost
 ---

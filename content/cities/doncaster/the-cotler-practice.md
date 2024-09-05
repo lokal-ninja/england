@@ -1,5 +1,5 @@
 ---
 title: "The Cotler Practice"
 url: /doncaster/the-cotler-practice/
-shop: optician
+shop: Optiker
 ---

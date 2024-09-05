@@ -1,5 +1,5 @@
 ---
 title: "Hub Hair Design"
 url: /sheffield/hub-hair-design/
-shop: hairdresser
+shop: Friseur
 ---

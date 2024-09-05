@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /morpeth/lidl/
-shop: supermarket
+shop: Supermarkt
 ---

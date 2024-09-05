@@ -1,5 +1,5 @@
 ---
 title: "Patagonia"
 url: /bristol/patagonia/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kingstanding Barber Shop"
 url: /birmingham/kingstanding-barber-shop/
-shop: hairdresser
+shop: Friseur
 ---

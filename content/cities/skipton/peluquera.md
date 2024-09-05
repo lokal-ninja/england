@@ -1,5 +1,5 @@
 ---
 title: "Peluquera"
 url: /skipton/peluquera/
-shop: hairdresser
+shop: Friseur
 ---

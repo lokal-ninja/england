@@ -1,5 +1,5 @@
 ---
 title: "Factotum"
 url: /norwich/factotum/
-shop: tattoo
+shop: Tattoo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Game"
 url: /canterbury/game/
-shop: video games
+shop: Videospiele
 ---

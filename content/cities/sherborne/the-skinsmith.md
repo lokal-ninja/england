@@ -1,5 +1,5 @@
 ---
 title: "The Skinsmith"
 url: /sherborne/the-skinsmith/
-shop: beauty
+shop: Kosmetik
 ---

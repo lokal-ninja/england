@@ -1,5 +1,5 @@
 ---
 title: "Crystals"
 url: /exeter/crystals/
-shop: jewelry
+shop: Schmuck
 ---

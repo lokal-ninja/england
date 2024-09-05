@@ -1,5 +1,5 @@
 ---
 title: "Chocolat"
 url: /kirkby-lonsdale/chocolat/
-shop: chocolate
+shop: Schokolade
 ---

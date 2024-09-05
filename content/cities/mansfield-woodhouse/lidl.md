@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /mansfield-woodhouse/lidl/
-shop: supermarket
+shop: Supermarkt
 ---

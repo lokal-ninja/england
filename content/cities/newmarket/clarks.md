@@ -1,5 +1,5 @@
 ---
 title: "Clarks"
 url: /newmarket/clarks/
-shop: shoes
+shop: Schuhe
 ---

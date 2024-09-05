@@ -1,5 +1,5 @@
 ---
 title: "HMV"
 url: /colchester/hmv/
-shop: music
+shop: Musik
 ---

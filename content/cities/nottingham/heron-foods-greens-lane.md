@@ -1,5 +1,5 @@
 ---
 title: "Heron Foods"
 url: /nottingham/heron-foods-greens-lane/
-shop: supermarket
+shop: Supermarkt
 ---

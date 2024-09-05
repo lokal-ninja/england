@@ -1,5 +1,5 @@
 ---
 title: "Village Bookshop"
 url: /barnard-castle/village-bookshop/
-shop: books
+shop: Bücher
 ---

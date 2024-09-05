@@ -1,5 +1,5 @@
 ---
 title: "Tefal"
 url: /portsmouth/tefal/
-shop: houseware
+shop: Haushaltsartikel
 ---

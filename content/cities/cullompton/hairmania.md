@@ -1,5 +1,5 @@
 ---
 title: "Hairmania"
 url: /cullompton/hairmania/
-shop: hairdresser
+shop: Friseur
 ---

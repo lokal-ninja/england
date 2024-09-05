@@ -1,5 +1,5 @@
 ---
 title: "Armstrong and North"
 url: /colchester/armstrong-and-north/
-shop: optician
+shop: Optiker
 ---

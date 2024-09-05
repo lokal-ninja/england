@@ -1,5 +1,5 @@
 ---
 title: "Clarks"
 url: /gravesend/clarks/
-shop: shoes
+shop: Schuhe
 ---

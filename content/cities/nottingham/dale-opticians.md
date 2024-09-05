@@ -1,5 +1,5 @@
 ---
 title: "Dale Opticians"
 url: /nottingham/dale-opticians/
-shop: optician
+shop: Optiker
 ---

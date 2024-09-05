@@ -1,5 +1,5 @@
 ---
 title: "Whitechapel Cycles"
 url: /london/whitechapel-cycles/
-shop: bicycle
+shop: Fahrrad
 ---

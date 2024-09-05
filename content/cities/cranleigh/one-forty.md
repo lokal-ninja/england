@@ -1,5 +1,5 @@
 ---
 title: "One Forty"
 url: /cranleigh/one-forty/
-shop: shop
+shop: Allgemein
 ---

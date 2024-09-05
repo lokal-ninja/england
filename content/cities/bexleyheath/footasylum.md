@@ -1,5 +1,5 @@
 ---
 title: "Footasylum"
 url: /bexleyheath/footasylum/
-shop: shoes
+shop: Schuhe
 ---

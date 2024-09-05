@@ -1,5 +1,5 @@
 ---
 title: "Antics"
 url: /plymouth/antics/
-shop: model
+shop: Modellbau
 ---

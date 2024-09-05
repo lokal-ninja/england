@@ -1,5 +1,5 @@
 ---
 title: "Best-one"
 url: /birmingham/best-one/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kanya"
 url: /wellington/kanya/
-shop: clothes
+shop: Kleidung
 ---

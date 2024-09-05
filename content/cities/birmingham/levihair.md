@@ -1,5 +1,5 @@
 ---
 title: "Levihair"
 url: /birmingham/levihair/
-shop: hairdresser
+shop: Friseur
 ---

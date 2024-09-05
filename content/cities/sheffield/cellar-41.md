@@ -1,5 +1,5 @@
 ---
 title: "Cellar 41"
 url: /sheffield/cellar-41/
-shop: antiques
+shop: Antiquitäten
 ---

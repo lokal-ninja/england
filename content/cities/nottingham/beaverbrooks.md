@@ -1,5 +1,5 @@
 ---
 title: "Beaverbrooks"
 url: /nottingham/beaverbrooks/
-shop: jewelry
+shop: Schmuck
 ---

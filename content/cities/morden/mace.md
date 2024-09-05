@@ -1,5 +1,5 @@
 ---
 title: "Mace"
 url: /morden/mace/
-shop: convenience
+shop: Lebensmittel
 ---

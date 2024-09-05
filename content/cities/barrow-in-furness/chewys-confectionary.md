@@ -1,5 +1,5 @@
 ---
 title: "Chewys Confectionary"
 url: /barrow-in-furness/chewys-confectionary/
-shop: confectionery
+shop: Süßwaren
 ---

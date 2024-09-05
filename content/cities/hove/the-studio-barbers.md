@@ -1,5 +1,5 @@
 ---
 title: "The Studio Barbers"
 url: /hove/the-studio-barbers/
-shop: shop
+shop: Allgemein
 ---

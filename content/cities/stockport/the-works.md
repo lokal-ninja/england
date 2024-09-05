@@ -1,5 +1,5 @@
 ---
 title: "The Works"
 url: /stockport/the-works/
-shop: books
+shop: Bücher
 ---

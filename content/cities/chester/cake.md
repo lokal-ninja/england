@@ -1,5 +1,5 @@
 ---
 title: "Cake"
 url: /chester/cake/
-shop: pastry
+shop: Konditorei
 ---

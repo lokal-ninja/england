@@ -1,5 +1,5 @@
 ---
 title: "Tower"
 url: /london/tower/
-shop: shoes
+shop: Schuhe
 ---

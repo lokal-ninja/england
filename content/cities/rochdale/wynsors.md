@@ -1,5 +1,5 @@
 ---
 title: "Wynsors"
 url: /rochdale/wynsors/
-shop: shoes
+shop: Schuhe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wheelgame"
 url: /tadley/wheelgame/
-shop: tyres
+shop: Reifen
 ---

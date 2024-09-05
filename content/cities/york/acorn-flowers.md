@@ -1,5 +1,5 @@
 ---
 title: "Acorn Flowers"
 url: /york/acorn-flowers/
-shop: florist
+shop: Blumen
 ---

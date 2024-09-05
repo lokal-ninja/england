@@ -1,5 +1,5 @@
 ---
 title: "Grange Jaguar Swindon"
 url: /swindon/grange-jaguar-swindon/
-shop: car
+shop: Autohaus
 ---

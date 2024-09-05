@@ -1,5 +1,5 @@
 ---
 title: "Forrestr"
 url: /ledbury/forrestr/
-shop: optician
+shop: Optiker
 ---

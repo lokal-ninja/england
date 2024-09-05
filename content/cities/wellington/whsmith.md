@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /wellington/whsmith/
-shop: newsagent
+shop: Zeitungen
 ---

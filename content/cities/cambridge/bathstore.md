@@ -1,5 +1,5 @@
 ---
 title: "Bathstore"
 url: /cambridge/bathstore/
-shop: bathroom
+shop: Badezimmer
 ---

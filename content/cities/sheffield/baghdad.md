@@ -1,5 +1,5 @@
 ---
 title: "Baghdad"
 url: /sheffield/baghdad/
-shop: convenience
+shop: Lebensmittel
 ---

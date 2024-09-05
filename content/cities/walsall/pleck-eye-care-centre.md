@@ -1,5 +1,5 @@
 ---
 title: "Pleck Eye Care Centre"
 url: /walsall/pleck-eye-care-centre/
-shop: optician
+shop: Optiker
 ---

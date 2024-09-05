@@ -1,5 +1,5 @@
 ---
 title: "Launderette"
 url: /brighton/launderette/
-shop: laundry
+shop: Wäscherei
 ---

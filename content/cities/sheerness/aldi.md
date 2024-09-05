@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /sheerness/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

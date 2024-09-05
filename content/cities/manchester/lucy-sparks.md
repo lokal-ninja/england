@@ -1,5 +1,5 @@
 ---
 title: "Lucy Sparks"
 url: /manchester/lucy-sparks/
-shop: wholesale
+shop: Großhandel
 ---

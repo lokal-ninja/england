@@ -1,5 +1,5 @@
 ---
 title: "Kaspa's"
 url: /chelmsford/kaspas/
-shop: confectionery
+shop: Süßwaren
 ---

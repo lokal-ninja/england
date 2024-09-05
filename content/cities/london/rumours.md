@@ -1,5 +1,5 @@
 ---
 title: "Rumours"
 url: /london/rumours/
-shop: clothes
+shop: Kleidung
 ---

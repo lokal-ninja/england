@@ -1,5 +1,5 @@
 ---
 title: "Argos"
 url: /goole/argos/
-shop: catalogue
+shop: Katalog
 ---

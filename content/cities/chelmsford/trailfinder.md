@@ -1,5 +1,5 @@
 ---
 title: "Trailfinder"
 url: /chelmsford/trailfinder/
-shop: travel agency
+shop: Reisebüro
 ---

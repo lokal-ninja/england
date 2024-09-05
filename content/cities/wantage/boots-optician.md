@@ -1,5 +1,5 @@
 ---
 title: "Boots Optician"
 url: /wantage/boots-optician/
-shop: optician
+shop: Optiker
 ---

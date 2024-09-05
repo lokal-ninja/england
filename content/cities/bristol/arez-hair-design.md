@@ -1,5 +1,5 @@
 ---
 title: "Arez Hair Design"
 url: /bristol/arez-hair-design/
-shop: hairdresser
+shop: Friseur
 ---

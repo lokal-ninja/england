@@ -1,5 +1,5 @@
 ---
 title: "Star"
 url: /london/star/
-shop: convenience
+shop: Lebensmittel
 ---

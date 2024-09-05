@@ -1,5 +1,5 @@
 ---
 title: "Citeron"
 url: /newcastle-upon-tyne/citeron/
-shop: car
+shop: Autohaus
 ---

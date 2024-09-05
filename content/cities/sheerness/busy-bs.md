@@ -1,5 +1,5 @@
 ---
 title: "Busy B's"
 url: /sheerness/busy-bs/
-shop: carpet
+shop: Teppiche
 ---

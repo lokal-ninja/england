@@ -1,5 +1,5 @@
 ---
 title: "Cavendish Square Convenience Store"
 url: /swindon/cavendish-square-convenience-store/
-shop: convenience
+shop: Lebensmittel
 ---

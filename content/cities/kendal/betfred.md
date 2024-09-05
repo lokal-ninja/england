@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /kendal/betfred/
-shop: bookmaker
+shop: Wettbüro
 ---

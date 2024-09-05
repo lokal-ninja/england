@@ -1,5 +1,5 @@
 ---
 title: "Fireworld"
 url: /liverpool/fireworld/
-shop: fireplace
+shop: Kamine & Öfen
 ---

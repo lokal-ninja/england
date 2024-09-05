@@ -1,5 +1,5 @@
 ---
 title: "Kingswood Village Store"
 url: /tadworth/kingswood-village-store/
-shop: convenience
+shop: Lebensmittel
 ---

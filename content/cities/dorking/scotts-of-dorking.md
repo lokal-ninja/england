@@ -1,5 +1,5 @@
 ---
 title: "Scott's Of Dorking"
 url: /dorking/scotts-of-dorking/
-shop: jewelry
+shop: Schmuck
 ---

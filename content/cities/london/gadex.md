@@ -1,5 +1,5 @@
 ---
 title: "Gadex"
 url: /london/gadex/
-shop: electronics
+shop: Elektronik
 ---

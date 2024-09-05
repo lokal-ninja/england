@@ -1,5 +1,5 @@
 ---
 title: "Paul"
 url: /london/paul-paternoster-square/
-shop: bakery
+shop: Bäckerei
 ---

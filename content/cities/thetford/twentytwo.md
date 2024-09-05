@@ -1,5 +1,5 @@
 ---
 title: "TwentyTwo"
 url: /thetford/twentytwo/
-shop: hairdresser
+shop: Friseur
 ---

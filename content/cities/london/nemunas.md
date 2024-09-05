@@ -1,5 +1,5 @@
 ---
 title: "Nemunas"
 url: /london/nemunas/
-shop: convenience
+shop: Lebensmittel
 ---

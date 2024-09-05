@@ -1,5 +1,5 @@
 ---
 title: "VPZ"
 url: /workington/vpz/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

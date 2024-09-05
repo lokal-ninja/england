@@ -1,5 +1,5 @@
 ---
 title: "Horsforth Home Interiors"
 url: /leeds/horsforth-home-interiors/
-shop: kitchen
+shop: Küchen
 ---

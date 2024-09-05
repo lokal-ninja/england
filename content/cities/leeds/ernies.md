@@ -1,5 +1,5 @@
 ---
 title: "Ernies"
 url: /leeds/ernies/
-shop: vacant
+shop: Leerstehend
 ---

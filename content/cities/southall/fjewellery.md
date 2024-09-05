@@ -1,5 +1,5 @@
 ---
 title: "FJewellery"
 url: /southall/fjewellery/
-shop: jewelry
+shop: Schmuck
 ---

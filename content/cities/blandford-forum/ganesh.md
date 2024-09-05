@@ -1,5 +1,5 @@
 ---
 title: "Ganesh"
 url: /blandford-forum/ganesh/
-shop: gift
+shop: Andenken
 ---

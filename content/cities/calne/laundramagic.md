@@ -1,5 +1,5 @@
 ---
 title: "Laundramagic"
 url: /calne/laundramagic/
-shop: laundry
+shop: Wäscherei
 ---

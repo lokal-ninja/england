@@ -1,5 +1,5 @@
 ---
 title: "Arnold Clark"
 url: /warrington/arnold-clark/
-shop: car
+shop: Autohaus
 ---

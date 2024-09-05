@@ -1,5 +1,5 @@
 ---
 title: "Primark"
 url: /greenhithe/primark/
-shop: clothes
+shop: Kleidung
 ---

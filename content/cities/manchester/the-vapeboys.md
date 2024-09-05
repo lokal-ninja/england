@@ -1,5 +1,5 @@
 ---
 title: "The VapeBoys"
 url: /manchester/the-vapeboys/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

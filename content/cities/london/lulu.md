@@ -1,5 +1,5 @@
 ---
 title: "Lulu"
 url: /london/lulu/
-shop: beauty
+shop: Kosmetik
 ---

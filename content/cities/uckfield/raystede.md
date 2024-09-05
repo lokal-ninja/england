@@ -1,5 +1,5 @@
 ---
 title: "Raystede"
 url: /uckfield/raystede/
-shop: charity
+shop: Gebrauchtwaren
 ---

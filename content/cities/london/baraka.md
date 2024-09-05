@@ -1,5 +1,5 @@
 ---
 title: "Baraka"
 url: /london/baraka/
-shop: butcher
+shop: Metzgerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "BeHoptimystic"
 url: /warwick/behoptimystic/
-shop: shop
+shop: Allgemein
 ---

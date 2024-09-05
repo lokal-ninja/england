@@ -1,5 +1,5 @@
 ---
 title: "Entwistle"
 url: /manchester/entwistle/
-shop: copyshop
+shop: Kopieren
 ---

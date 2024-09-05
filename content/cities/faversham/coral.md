@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /faversham/coral/
-shop: bookmaker
+shop: Wettbüro
 ---

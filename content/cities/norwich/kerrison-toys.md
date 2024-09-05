@@ -1,5 +1,5 @@
 ---
 title: "Kerrison Toys"
 url: /norwich/kerrison-toys/
-shop: toys
+shop: Spielzeug
 ---

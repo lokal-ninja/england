@@ -1,5 +1,5 @@
 ---
 title: "Upstairs Downstairs"
 url: /waterlooville/upstairs-downstairs/
-shop: hairdresser
+shop: Friseur
 ---

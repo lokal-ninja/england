@@ -1,5 +1,5 @@
 ---
 title: "Taylors"
 url: /ware/taylors/
-shop: hairdresser
+shop: Friseur
 ---

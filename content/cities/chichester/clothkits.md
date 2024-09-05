@@ -1,5 +1,5 @@
 ---
 title: "Clothkits"
 url: /chichester/clothkits/
-shop: fabric
+shop: Textil
 ---

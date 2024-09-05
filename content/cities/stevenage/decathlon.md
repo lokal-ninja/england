@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /stevenage/decathlon/
-shop: sports
+shop: Sport
 ---

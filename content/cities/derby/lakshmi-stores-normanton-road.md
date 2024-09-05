@@ -1,5 +1,5 @@
 ---
 title: "Lakshmi Stores"
 url: /derby/lakshmi-stores-normanton-road/
-shop: convenience
+shop: Lebensmittel
 ---

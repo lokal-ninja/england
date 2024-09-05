@@ -1,5 +1,5 @@
 ---
 title: "BP"
 url: /luton/bp/
-shop: shop
+shop: Allgemein
 ---

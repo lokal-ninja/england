@@ -1,5 +1,5 @@
 ---
 title: "Oasis"
 url: /brading/oasis/
-shop: furniture
+shop: Möbel
 ---

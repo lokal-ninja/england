@@ -1,5 +1,5 @@
 ---
 title: "Specsavers"
 url: /derby/specsavers-crown-walk/
-shop: optician
+shop: Optiker
 ---

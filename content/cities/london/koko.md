@@ -1,5 +1,5 @@
 ---
 title: "Koko"
 url: /london/koko/
-shop: bag
+shop: Taschen & Koffer
 ---

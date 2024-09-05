@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /paignton/whsmith/
-shop: newsagent
+shop: Zeitungen
 ---

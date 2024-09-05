@@ -1,5 +1,5 @@
 ---
 title: "abi"
 url: /shanklin/abi/
-shop: clothes
+shop: Kleidung
 ---

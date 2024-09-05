@@ -1,5 +1,5 @@
 ---
 title: "Cake House Bakery"
 url: /west-drayton/cake-house-bakery/
-shop: bakery
+shop: Bäckerei
 ---

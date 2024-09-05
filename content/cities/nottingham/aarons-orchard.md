@@ -1,5 +1,5 @@
 ---
 title: "Aarons Orchard"
 url: /nottingham/aarons-orchard/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

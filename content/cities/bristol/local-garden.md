@@ -1,5 +1,5 @@
 ---
 title: "Local Garden"
 url: /bristol/local-garden/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

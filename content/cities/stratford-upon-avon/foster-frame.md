@@ -1,5 +1,5 @@
 ---
 title: "Foster Frame"
 url: /stratford-upon-avon/foster-frame/
-shop: art
+shop: Kunst
 ---

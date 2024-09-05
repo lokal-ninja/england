@@ -1,5 +1,5 @@
 ---
 title: "Just Fones"
 url: /leeds/just-fones/
-shop: mobile phone
+shop: Handy
 ---

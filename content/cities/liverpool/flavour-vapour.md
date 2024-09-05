@@ -1,5 +1,5 @@
 ---
 title: "Flavour Vapour"
 url: /liverpool/flavour-vapour/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

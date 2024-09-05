@@ -1,5 +1,5 @@
 ---
 title: "Danieli"
 url: /richmond/danieli/
-shop: clothes
+shop: Kleidung
 ---

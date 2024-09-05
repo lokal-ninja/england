@@ -1,5 +1,5 @@
 ---
 title: "Krishna's"
 url: /orpington/krishnas/
-shop: supermarket
+shop: Supermarkt
 ---

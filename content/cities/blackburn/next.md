@@ -1,5 +1,5 @@
 ---
 title: "Next"
 url: /blackburn/next/
-shop: clothes
+shop: Kleidung
 ---

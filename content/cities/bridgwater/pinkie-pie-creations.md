@@ -1,5 +1,5 @@
 ---
 title: "Pinkie Pie Creations"
 url: /bridgwater/pinkie-pie-creations/
-shop: craft
+shop: Basteln
 ---

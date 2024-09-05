@@ -1,5 +1,5 @@
 ---
 title: "The Hoylake Pantry"
 url: /hoylake/the-hoylake-pantry/
-shop: chemist
+shop: Drogerie
 ---

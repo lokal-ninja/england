@@ -1,5 +1,5 @@
 ---
 title: "Caddy's Kabin"
 url: /gainsborough/caddys-kabin/
-shop: convenience
+shop: Lebensmittel
 ---

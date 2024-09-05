@@ -1,5 +1,5 @@
 ---
 title: "Farrago"
 url: /london/farrago/
-shop: gift
+shop: Andenken
 ---

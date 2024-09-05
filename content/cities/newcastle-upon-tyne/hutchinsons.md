@@ -1,5 +1,5 @@
 ---
 title: "Hutchinsons"
 url: /newcastle-upon-tyne/hutchinsons/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

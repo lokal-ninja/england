@@ -1,5 +1,5 @@
 ---
 title: "McColl's"
 url: /bridgwater/mccolls/
-shop: convenience
+shop: Lebensmittel
 ---

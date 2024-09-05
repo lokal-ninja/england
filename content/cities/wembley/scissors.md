@@ -1,5 +1,5 @@
 ---
 title: "Scissors"
 url: /wembley/scissors/
-shop: hairdresser
+shop: Friseur
 ---

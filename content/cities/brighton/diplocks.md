@@ -1,5 +1,5 @@
 ---
 title: "Diplocks"
 url: /brighton/diplocks/
-shop: shop
+shop: Allgemein
 ---

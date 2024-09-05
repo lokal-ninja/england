@@ -1,5 +1,5 @@
 ---
 title: "Charabanc"
 url: /blackpool/charabanc/
-shop: shop
+shop: Allgemein
 ---

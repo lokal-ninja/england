@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /winlaton/coral/
-shop: bookmaker
+shop: Wettbüro
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Scarecrows"
 url: /derby/scarecrows/
-shop: gift
+shop: Andenken
 ---

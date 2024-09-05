@@ -1,5 +1,5 @@
 ---
 title: "Specsavers"
 url: /pontefract/specsavers/
-shop: optician
+shop: Optiker
 ---

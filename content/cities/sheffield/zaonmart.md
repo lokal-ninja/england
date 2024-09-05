@@ -1,5 +1,5 @@
 ---
 title: "Zaonmart"
 url: /sheffield/zaonmart/
-shop: convenience
+shop: Lebensmittel
 ---

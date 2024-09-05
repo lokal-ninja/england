@@ -1,5 +1,5 @@
 ---
 title: "Bina's"
 url: /workington/binas/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Best Gents Barbershop"
 url: /london/best-gents-barbershop/
-shop: hairdresser
+shop: Friseur
 ---

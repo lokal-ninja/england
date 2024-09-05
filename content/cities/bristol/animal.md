@@ -1,5 +1,5 @@
 ---
 title: "Animal"
 url: /bristol/animal/
-shop: clothes
+shop: Kleidung
 ---

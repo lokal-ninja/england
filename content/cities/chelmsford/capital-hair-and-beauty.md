@@ -1,5 +1,5 @@
 ---
 title: "Capital Hair and Beauty"
 url: /chelmsford/capital-hair-and-beauty/
-shop: hairdresser supply
+shop: Friseurbedarf
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Viva"
 url: /south-shields/viva/
-shop: shop
+shop: Allgemein
 ---

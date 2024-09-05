@@ -1,5 +1,5 @@
 ---
 title: "Jewson"
 url: /derby/jewson/
-shop: trade
+shop: Baustoffe
 ---

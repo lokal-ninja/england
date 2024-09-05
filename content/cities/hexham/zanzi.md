@@ -1,5 +1,5 @@
 ---
 title: "Zanzi"
 url: /hexham/zanzi/
-shop: hairdresser
+shop: Friseur
 ---

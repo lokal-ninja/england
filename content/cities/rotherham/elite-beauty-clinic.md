@@ -1,5 +1,5 @@
 ---
 title: "Elite Beauty Clinic"
 url: /rotherham/elite-beauty-clinic/
-shop: beauty
+shop: Kosmetik
 ---

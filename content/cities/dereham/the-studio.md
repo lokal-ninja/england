@@ -1,5 +1,5 @@
 ---
 title: "The Studio"
 url: /dereham/the-studio/
-shop: art
+shop: Kunst
 ---

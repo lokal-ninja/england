@@ -1,5 +1,5 @@
 ---
 title: "Green Lane Nurseries"
 url: /trimdon-station/green-lane-nurseries/
-shop: garden centre
+shop: Garten-Center
 ---

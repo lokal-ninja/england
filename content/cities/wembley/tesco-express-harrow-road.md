@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /wembley/tesco-express-harrow-road/
-shop: convenience
+shop: Lebensmittel
 ---

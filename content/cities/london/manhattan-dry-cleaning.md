@@ -1,5 +1,5 @@
 ---
 title: "Manhattan Dry Cleaning"
 url: /london/manhattan-dry-cleaning/
-shop: laundry
+shop: Wäscherei
 ---

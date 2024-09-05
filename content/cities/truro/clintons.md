@@ -1,5 +1,5 @@
 ---
 title: "Clintons"
 url: /truro/clintons/
-shop: gift
+shop: Andenken
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Esso"
 url: /swadlincote/esso/
-shop: convenience
+shop: Lebensmittel
 ---

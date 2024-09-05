@@ -1,5 +1,5 @@
 ---
 title: "PH"
 url: /cambridge/ph/
-shop: hairdresser
+shop: Friseur
 ---

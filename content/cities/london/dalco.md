@@ -1,5 +1,5 @@
 ---
 title: "Dalco"
 url: /london/dalco/
-shop: clothes
+shop: Kleidung
 ---

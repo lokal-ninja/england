@@ -1,5 +1,5 @@
 ---
 title: "AC Fixings"
 url: /chelmsford/ac-fixings/
-shop: hardware
+shop: Eisenwaren
 ---

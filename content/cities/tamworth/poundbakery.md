@@ -1,5 +1,5 @@
 ---
 title: "Poundbakery"
 url: /tamworth/poundbakery/
-shop: bakery
+shop: Bäckerei
 ---

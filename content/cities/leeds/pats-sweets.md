@@ -1,5 +1,5 @@
 ---
 title: "Pat's Sweets"
 url: /leeds/pats-sweets/
-shop: confectionery
+shop: Süßwaren
 ---

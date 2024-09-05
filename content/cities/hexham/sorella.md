@@ -1,5 +1,5 @@
 ---
 title: "Sorella"
 url: /hexham/sorella/
-shop: gift
+shop: Andenken
 ---

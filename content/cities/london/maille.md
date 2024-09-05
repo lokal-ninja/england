@@ -1,5 +1,5 @@
 ---
 title: "Maille"
 url: /london/maille/
-shop: deli
+shop: Feinkost
 ---

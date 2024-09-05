@@ -1,5 +1,5 @@
 ---
 title: "Three."
 url: /truro/three/
-shop: mobile phone
+shop: Handy
 ---

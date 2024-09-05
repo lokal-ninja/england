@@ -1,5 +1,5 @@
 ---
 title: "Mane Hair Salon"
 url: /oldham/mane-hair-salon/
-shop: hairdresser
+shop: Friseur
 ---

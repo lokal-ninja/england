@@ -1,5 +1,5 @@
 ---
 title: "Fresh ‘n’ Fruity"
 url: /south-shields/fresh-n-fruity/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

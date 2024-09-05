@@ -1,5 +1,5 @@
 ---
 title: "Hydroxpress"
 url: /birmingham/hydroxpress/
-shop: garden centre
+shop: Garten-Center
 ---

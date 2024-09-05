@@ -1,5 +1,5 @@
 ---
 title: "Botany Foodie"
 url: /cambridge/botany-foodie/
-shop: deli
+shop: Feinkost
 ---

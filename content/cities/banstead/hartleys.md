@@ -1,5 +1,5 @@
 ---
 title: "Hartley's"
 url: /banstead/hartleys/
-shop: alcohol
+shop: Spirituosen
 ---

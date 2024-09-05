@@ -1,5 +1,5 @@
 ---
 title: "Sofology"
 url: /maidstone/sofology/
-shop: furniture
+shop: Möbel
 ---

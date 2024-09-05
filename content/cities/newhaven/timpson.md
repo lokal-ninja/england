@@ -1,5 +1,5 @@
 ---
 title: "Timpson"
 url: /newhaven/timpson/
-shop: locksmith
+shop: Schlüsseldienst
 ---

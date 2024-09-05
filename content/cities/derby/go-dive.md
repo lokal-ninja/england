@@ -1,5 +1,5 @@
 ---
 title: "Go-Dive"
 url: /derby/go-dive/
-shop: diving
+shop: Tauchen
 ---

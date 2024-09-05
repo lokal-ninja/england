@@ -1,5 +1,5 @@
 ---
 title: "Blitz"
 url: /birmingham/blitz/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jones"
 url: /wiveliscombe/jones/
-shop: car
+shop: Autohaus
 ---

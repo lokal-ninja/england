@@ -1,5 +1,5 @@
 ---
 title: "Deichmann"
 url: /huddersfield/deichmann/
-shop: shoes
+shop: Schuhe
 ---

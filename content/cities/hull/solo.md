@@ -1,5 +1,5 @@
 ---
 title: "Solo"
 url: /hull/solo/
-shop: hairdresser
+shop: Friseur
 ---

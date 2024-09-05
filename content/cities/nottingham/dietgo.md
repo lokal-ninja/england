@@ -1,5 +1,5 @@
 ---
 title: "Dietgo"
 url: /nottingham/dietgo/
-shop: shop
+shop: Allgemein
 ---

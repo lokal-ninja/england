@@ -1,5 +1,5 @@
 ---
 title: "The Bushel Box"
 url: /ipswich/the-bushel-box/
-shop: gift
+shop: Andenken
 ---

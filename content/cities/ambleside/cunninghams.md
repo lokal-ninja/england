@@ -1,5 +1,5 @@
 ---
 title: "Cunninghams"
 url: /ambleside/cunninghams/
-shop: outdoor
+shop: Outdoor
 ---

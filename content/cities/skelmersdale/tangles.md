@@ -1,5 +1,5 @@
 ---
 title: "Tangles"
 url: /skelmersdale/tangles/
-shop: hairdresser
+shop: Friseur
 ---

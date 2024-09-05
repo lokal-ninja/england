@@ -1,5 +1,5 @@
 ---
 title: "Freshway"
 url: /southport/freshway/
-shop: convenience
+shop: Lebensmittel
 ---

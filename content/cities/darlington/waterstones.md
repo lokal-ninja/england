@@ -1,5 +1,5 @@
 ---
 title: "Waterstones"
 url: /darlington/waterstones/
-shop: books
+shop: Bücher
 ---

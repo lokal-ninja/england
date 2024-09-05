@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /lichfield/whsmith/
-shop: books
+shop: Bücher
 ---

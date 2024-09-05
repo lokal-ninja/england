@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /wellingborough/tesco-express-grafton-close/
-shop: convenience
+shop: Lebensmittel
 ---

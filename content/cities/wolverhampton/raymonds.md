@@ -1,5 +1,5 @@
 ---
 title: "Raymonds"
 url: /wolverhampton/raymonds/
-shop: hairdresser
+shop: Friseur
 ---

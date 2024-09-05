@@ -1,5 +1,5 @@
 ---
 title: "RSPCA"
 url: /sandown/rspca/
-shop: charity
+shop: Gebrauchtwaren
 ---

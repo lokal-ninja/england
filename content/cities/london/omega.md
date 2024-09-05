@@ -1,5 +1,5 @@
 ---
 title: "Omega"
 url: /london/omega/
-shop: watches
+shop: Uhren
 ---

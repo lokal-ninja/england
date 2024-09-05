@@ -1,5 +1,5 @@
 ---
 title: "Rubitex Ltd"
 url: /manchester/rubitex-ltd/
-shop: fabric
+shop: Textil
 ---

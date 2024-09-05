@@ -1,5 +1,5 @@
 ---
 title: "Valentina"
 url: /london/valentina/
-shop: deli
+shop: Feinkost
 ---

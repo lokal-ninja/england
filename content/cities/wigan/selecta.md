@@ -1,5 +1,5 @@
 ---
 title: "Selecta"
 url: /wigan/selecta/
-shop: carpet
+shop: Teppiche
 ---

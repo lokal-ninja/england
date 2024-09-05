@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /south-petherton/spar/
-shop: convenience
+shop: Lebensmittel
 ---

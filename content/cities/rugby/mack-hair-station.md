@@ -1,5 +1,5 @@
 ---
 title: "Mack Hair Station"
 url: /rugby/mack-hair-station/
-shop: hairdresser
+shop: Friseur
 ---

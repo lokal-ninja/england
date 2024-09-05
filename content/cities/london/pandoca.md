@@ -1,5 +1,5 @@
 ---
 title: "Pandoca"
 url: /london/pandoca/
-shop: bakery
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mane"
 url: /bristol/mane/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Clintons"
 url: /bridgwater/clintons/
-shop: gift
+shop: Andenken
 ---

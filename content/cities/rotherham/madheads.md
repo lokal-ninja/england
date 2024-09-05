@@ -1,5 +1,5 @@
 ---
 title: "Madheads"
 url: /rotherham/madheads/
-shop: hairdresser
+shop: Friseur
 ---

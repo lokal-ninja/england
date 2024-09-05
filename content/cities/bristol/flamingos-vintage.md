@@ -1,5 +1,5 @@
 ---
 title: "Flamingo's Vintage"
 url: /bristol/flamingos-vintage/
-shop: clothes
+shop: Kleidung
 ---

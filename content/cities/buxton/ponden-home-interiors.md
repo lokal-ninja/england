@@ -1,5 +1,5 @@
 ---
 title: "Ponden Home Interiors"
 url: /buxton/ponden-home-interiors/
-shop: shop
+shop: Allgemein
 ---

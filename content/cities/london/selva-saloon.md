@@ -1,5 +1,5 @@
 ---
 title: "Selva Saloon"
 url: /london/selva-saloon/
-shop: hairdresser
+shop: Friseur
 ---

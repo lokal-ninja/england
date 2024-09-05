@@ -1,5 +1,5 @@
 ---
 title: "Roman"
 url: /huddersfield/roman/
-shop: clothes
+shop: Kleidung
 ---

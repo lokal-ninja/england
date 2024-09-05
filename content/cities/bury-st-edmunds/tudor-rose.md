@@ -1,5 +1,5 @@
 ---
 title: "Tudor Rose"
 url: /bury-st-edmunds/tudor-rose/
-shop: florist
+shop: Blumen
 ---

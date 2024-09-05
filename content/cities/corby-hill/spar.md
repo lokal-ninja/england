@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /corby-hill/spar/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hamleys"
 url: /street/hamleys/
-shop: toys
+shop: Spielzeug
 ---

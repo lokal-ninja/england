@@ -1,5 +1,5 @@
 ---
 title: "Pryal's"
 url: /birkenhead/pryals/
-shop: newsagent
+shop: Zeitungen
 ---

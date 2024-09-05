@@ -1,5 +1,5 @@
 ---
 title: "Eye Opticians"
 url: /birmingham/eye-opticians/
-shop: optician
+shop: Optiker
 ---

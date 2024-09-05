@@ -1,5 +1,5 @@
 ---
 title: "Istanbul"
 url: /durham/istanbul/
-shop: hairdresser
+shop: Friseur
 ---

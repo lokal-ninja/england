@@ -1,5 +1,5 @@
 ---
 title: "Kirklands"
 url: /chichester/kirklands/
-shop: newsagent
+shop: Zeitungen
 ---

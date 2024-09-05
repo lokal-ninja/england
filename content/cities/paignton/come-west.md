@@ -1,5 +1,5 @@
 ---
 title: "Come West"
 url: /paignton/come-west/
-shop: clothes
+shop: Kleidung
 ---

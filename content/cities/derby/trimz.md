@@ -1,5 +1,5 @@
 ---
 title: "Trimz"
 url: /derby/trimz/
-shop: hairdresser
+shop: Friseur
 ---

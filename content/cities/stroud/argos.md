@@ -1,5 +1,5 @@
 ---
 title: "Argos"
 url: /stroud/argos/
-shop: catalogue
+shop: Katalog
 ---

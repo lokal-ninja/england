@@ -1,5 +1,5 @@
 ---
 title: "DingMaster"
 url: /bristol/dingmaster/
-shop: car repair
+shop: Autowerkstatt
 ---

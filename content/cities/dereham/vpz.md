@@ -1,5 +1,5 @@
 ---
 title: "VPZ"
 url: /dereham/vpz/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Diversions"
 url: /huddersfield/diversions/
-shop: collector
+shop: Sammler
 ---

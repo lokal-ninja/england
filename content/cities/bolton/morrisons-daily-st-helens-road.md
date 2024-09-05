@@ -1,5 +1,5 @@
 ---
 title: "Morrisons Daily"
 url: /bolton/morrisons-daily-st-helens-road/
-shop: convenience
+shop: Lebensmittel
 ---

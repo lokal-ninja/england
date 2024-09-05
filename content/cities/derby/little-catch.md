@@ -1,5 +1,5 @@
 ---
 title: "Little Catch"
 url: /derby/little-catch/
-shop: shop
+shop: Allgemein
 ---

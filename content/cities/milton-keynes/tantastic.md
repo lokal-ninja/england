@@ -1,5 +1,5 @@
 ---
 title: "Tantastic"
 url: /milton-keynes/tantastic/
-shop: beauty
+shop: Kosmetik
 ---

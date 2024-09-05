@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /beaconsfield/whsmith/
-shop: newsagent
+shop: Zeitungen
 ---

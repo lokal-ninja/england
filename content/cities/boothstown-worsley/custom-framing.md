@@ -1,5 +1,5 @@
 ---
 title: "Custom Framing"
 url: /boothstown-worsley/custom-framing/
-shop: frame
+shop: Rahmen
 ---

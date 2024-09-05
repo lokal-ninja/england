@@ -1,5 +1,5 @@
 ---
 title: "Patricia's"
 url: /morecambe/patricias/
-shop: hairdresser
+shop: Friseur
 ---

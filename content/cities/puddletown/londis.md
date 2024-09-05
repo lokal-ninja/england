@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /puddletown/londis/
-shop: convenience
+shop: Lebensmittel
 ---

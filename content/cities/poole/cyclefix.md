@@ -1,5 +1,5 @@
 ---
 title: "cyclefix"
 url: /poole/cyclefix/
-shop: bicycle
+shop: Fahrrad
 ---

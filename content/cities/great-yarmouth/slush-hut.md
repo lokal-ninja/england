@@ -1,5 +1,5 @@
 ---
 title: "Slush Hut"
 url: /great-yarmouth/slush-hut/
-shop: beverages
+shop: Getränke
 ---

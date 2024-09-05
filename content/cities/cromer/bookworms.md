@@ -1,5 +1,5 @@
 ---
 title: "Bookworms"
 url: /cromer/bookworms/
-shop: books
+shop: Bücher
 ---

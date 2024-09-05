@@ -1,5 +1,5 @@
 ---
 title: "Utopia"
 url: /reigate/utopia/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Coakleys"
 url: /spalding/coakleys/
-shop: optician
+shop: Optiker
 ---

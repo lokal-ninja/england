@@ -1,5 +1,5 @@
 ---
 title: "DFS"
 url: /taunton/dfs/
-shop: furniture
+shop: Möbel
 ---

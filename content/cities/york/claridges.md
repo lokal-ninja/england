@@ -1,5 +1,5 @@
 ---
 title: "Claridges"
 url: /york/claridges/
-shop: books
+shop: Bücher
 ---

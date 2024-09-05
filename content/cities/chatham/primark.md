@@ -1,5 +1,5 @@
 ---
 title: "Primark"
 url: /chatham/primark/
-shop: clothes
+shop: Kleidung
 ---

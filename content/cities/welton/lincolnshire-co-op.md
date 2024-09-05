@@ -1,5 +1,5 @@
 ---
 title: "Lincolnshire Co-op"
 url: /welton/lincolnshire-co-op/
-shop: supermarket
+shop: Supermarkt
 ---

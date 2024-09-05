@@ -1,5 +1,5 @@
 ---
 title: "Rayan"
 url: /manchester/rayan/
-shop: convenience
+shop: Lebensmittel
 ---

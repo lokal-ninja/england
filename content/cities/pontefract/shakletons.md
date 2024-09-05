@@ -1,5 +1,5 @@
 ---
 title: "Shakletons"
 url: /pontefract/shakletons/
-shop: houseware
+shop: Haushaltsartikel
 ---

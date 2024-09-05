@@ -1,5 +1,5 @@
 ---
 title: "Fisher's Hardware"
 url: /huntingdon/fishers-hardware/
-shop: hardware
+shop: Eisenwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Duma"
 url: /whitstable/duma/
-shop: gift
+shop: Andenken
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hynes"
 url: /london/hynes/
-shop: optician
+shop: Optiker
 ---

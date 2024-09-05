@@ -1,5 +1,5 @@
 ---
 title: "Princess Nails"
 url: /london/princess-nails/
-shop: beauty
+shop: Kosmetik
 ---

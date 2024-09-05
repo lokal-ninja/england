@@ -1,5 +1,5 @@
 ---
 title: "Swarovski"
 url: /manchester/swarovski/
-shop: jewelry
+shop: Schmuck
 ---

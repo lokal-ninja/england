@@ -1,5 +1,5 @@
 ---
 title: "Congratulations"
 url: /london/congratulations/
-shop: clothes
+shop: Kleidung
 ---

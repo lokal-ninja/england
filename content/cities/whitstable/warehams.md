@@ -1,5 +1,5 @@
 ---
 title: "Warehams"
 url: /whitstable/warehams/
-shop: antiques
+shop: Antiquitäten
 ---

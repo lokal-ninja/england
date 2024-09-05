@@ -1,5 +1,5 @@
 ---
 title: "Clintons"
 url: /heanor/clintons/
-shop: gift
+shop: Andenken
 ---

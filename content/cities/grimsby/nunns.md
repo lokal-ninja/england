@@ -1,5 +1,5 @@
 ---
 title: "Nunns"
 url: /grimsby/nunns/
-shop: car
+shop: Autohaus
 ---

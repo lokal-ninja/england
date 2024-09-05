@@ -1,5 +1,5 @@
 ---
 title: "Snobs"
 url: /stevenage/snobs/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Benbows"
 url: /holt/benbows/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

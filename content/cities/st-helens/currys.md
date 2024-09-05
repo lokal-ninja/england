@@ -1,5 +1,5 @@
 ---
 title: "Currys"
 url: /st-helens/currys/
-shop: electronics
+shop: Elektronik
 ---

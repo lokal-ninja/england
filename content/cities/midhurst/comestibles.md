@@ -1,5 +1,5 @@
 ---
 title: "Comestibles"
 url: /midhurst/comestibles/
-shop: deli
+shop: Feinkost
 ---

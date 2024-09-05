@@ -1,5 +1,5 @@
 ---
 title: "Snipetts"
 url: /ely/snipetts/
-shop: hairdresser
+shop: Friseur
 ---

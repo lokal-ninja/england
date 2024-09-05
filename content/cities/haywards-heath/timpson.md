@@ -1,5 +1,5 @@
 ---
 title: "Timpson"
 url: /haywards-heath/timpson/
-shop: locksmith
+shop: Schlüsseldienst
 ---

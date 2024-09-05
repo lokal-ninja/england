@@ -1,5 +1,5 @@
 ---
 title: "Schmidt"
 url: /twickenham/schmidt/
-shop: kitchen
+shop: Küchen
 ---

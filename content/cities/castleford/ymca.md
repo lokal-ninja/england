@@ -1,5 +1,5 @@
 ---
 title: "YMCA"
 url: /castleford/ymca/
-shop: charity
+shop: Gebrauchtwaren
 ---

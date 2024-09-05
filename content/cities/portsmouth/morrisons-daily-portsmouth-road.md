@@ -1,5 +1,5 @@
 ---
 title: "Morrisons Daily"
 url: /portsmouth/morrisons-daily-portsmouth-road/
-shop: convenience
+shop: Lebensmittel
 ---

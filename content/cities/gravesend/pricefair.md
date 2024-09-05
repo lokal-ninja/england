@@ -1,5 +1,5 @@
 ---
 title: "Pricefair"
 url: /gravesend/pricefair/
-shop: convenience
+shop: Lebensmittel
 ---

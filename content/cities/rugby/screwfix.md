@@ -1,5 +1,5 @@
 ---
 title: "Screwfix"
 url: /rugby/screwfix/
-shop: doityourself
+shop: Baumarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /kingsand/spar/
-shop: convenience
+shop: Lebensmittel
 ---

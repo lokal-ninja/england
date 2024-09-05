@@ -1,5 +1,5 @@
 ---
 title: "DOA"
 url: /manchester/doa/
-shop: supermarket
+shop: Supermarkt
 ---

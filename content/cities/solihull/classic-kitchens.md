@@ -1,5 +1,5 @@
 ---
 title: "Classic Kitchens"
 url: /solihull/classic-kitchens/
-shop: kitchen
+shop: Küchen
 ---

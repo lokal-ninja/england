@@ -1,5 +1,5 @@
 ---
 title: "Country Harvest"
 url: /carnforth/country-harvest/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

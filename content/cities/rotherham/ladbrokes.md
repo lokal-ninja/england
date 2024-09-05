@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /rotherham/ladbrokes/
-shop: bookmaker
+shop: Wettbüro
 ---

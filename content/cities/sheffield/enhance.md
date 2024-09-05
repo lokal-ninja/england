@@ -1,5 +1,5 @@
 ---
 title: "Enhance"
 url: /sheffield/enhance/
-shop: hairdresser
+shop: Friseur
 ---

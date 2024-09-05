@@ -1,5 +1,5 @@
 ---
 title: "Chrystalise"
 url: /london/chrystalise/
-shop: beauty
+shop: Kosmetik
 ---

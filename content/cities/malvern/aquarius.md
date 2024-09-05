@@ -1,5 +1,5 @@
 ---
 title: "Aquarius"
 url: /malvern/aquarius/
-shop: gift
+shop: Andenken
 ---

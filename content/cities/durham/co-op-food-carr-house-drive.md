@@ -1,5 +1,5 @@
 ---
 title: "Co-op Food"
 url: /durham/co-op-food-carr-house-drive/
-shop: supermarket
+shop: Supermarkt
 ---

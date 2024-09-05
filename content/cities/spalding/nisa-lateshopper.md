@@ -1,5 +1,5 @@
 ---
 title: "Nisa Lateshopper"
 url: /spalding/nisa-lateshopper/
-shop: convenience
+shop: Lebensmittel
 ---

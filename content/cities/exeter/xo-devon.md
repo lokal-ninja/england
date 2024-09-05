@@ -1,5 +1,5 @@
 ---
 title: "XO Devon"
 url: /exeter/xo-devon/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wains"
 url: /mansfield/wains/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

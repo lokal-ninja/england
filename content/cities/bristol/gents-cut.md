@@ -1,5 +1,5 @@
 ---
 title: "Gents Cut"
 url: /bristol/gents-cut/
-shop: hairdresser
+shop: Friseur
 ---

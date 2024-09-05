@@ -1,5 +1,5 @@
 ---
 title: "Melanie-Louise"
 url: /ledbury/melanie-louise/
-shop: shop
+shop: Allgemein
 ---

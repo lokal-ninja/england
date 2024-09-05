@@ -1,5 +1,5 @@
 ---
 title: "The Stanley Road"
 url: /brighton/the-stanley-road/
-shop: art
+shop: Kunst
 ---

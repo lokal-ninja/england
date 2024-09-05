@@ -1,5 +1,5 @@
 ---
 title: "Brewers"
 url: /corby/brewers/
-shop: paint
+shop: Farben
 ---

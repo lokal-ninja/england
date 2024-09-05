@@ -1,5 +1,5 @@
 ---
 title: "Sight"
 url: /peterlee/sight/
-shop: optician
+shop: Optiker
 ---

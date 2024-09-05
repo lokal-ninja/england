@@ -1,5 +1,5 @@
 ---
 title: "Averylocal"
 url: /sutton-coldfield/averylocal/
-shop: convenience
+shop: Lebensmittel
 ---

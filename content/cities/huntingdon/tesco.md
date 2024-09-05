@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /huntingdon/tesco/
-shop: supermarket
+shop: Supermarkt
 ---

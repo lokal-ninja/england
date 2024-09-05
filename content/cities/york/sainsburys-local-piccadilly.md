@@ -1,5 +1,5 @@
 ---
 title: "Sainsbury's Local"
 url: /york/sainsburys-local-piccadilly/
-shop: convenience
+shop: Lebensmittel
 ---

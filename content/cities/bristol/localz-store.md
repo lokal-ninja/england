@@ -1,5 +1,5 @@
 ---
 title: "Localz Store"
 url: /bristol/localz-store/
-shop: convenience
+shop: Lebensmittel
 ---

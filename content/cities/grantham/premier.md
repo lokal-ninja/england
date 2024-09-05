@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /grantham/premier/
-shop: convenience
+shop: Lebensmittel
 ---

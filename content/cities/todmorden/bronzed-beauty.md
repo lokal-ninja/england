@@ -1,5 +1,5 @@
 ---
 title: "Bronzed Beauty"
 url: /todmorden/bronzed-beauty/
-shop: beauty
+shop: Kosmetik
 ---

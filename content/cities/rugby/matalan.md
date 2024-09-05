@@ -1,5 +1,5 @@
 ---
 title: "Matalan"
 url: /rugby/matalan/
-shop: clothes
+shop: Kleidung
 ---

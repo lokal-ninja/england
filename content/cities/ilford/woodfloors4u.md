@@ -1,5 +1,5 @@
 ---
 title: "WoodFloors4u"
 url: /ilford/woodfloors4u/
-shop: trade
+shop: Baustoffe
 ---

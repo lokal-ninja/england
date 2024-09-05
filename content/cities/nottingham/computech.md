@@ -1,5 +1,5 @@
 ---
 title: "CompuTECH"
 url: /nottingham/computech/
-shop: computer
+shop: Computer
 ---

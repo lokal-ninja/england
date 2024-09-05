@@ -1,5 +1,5 @@
 ---
 title: "Aleks Jewellers"
 url: /norwich/aleks-jewellers/
-shop: jewelry
+shop: Schmuck
 ---

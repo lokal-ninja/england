@@ -1,5 +1,5 @@
 ---
 title: "Kabbala"
 url: /clevedon/kabbala/
-shop: art
+shop: Kunst
 ---

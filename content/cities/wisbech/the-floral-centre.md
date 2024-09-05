@@ -1,5 +1,5 @@
 ---
 title: "The Floral Centre"
 url: /wisbech/the-floral-centre/
-shop: florist
+shop: Blumen
 ---

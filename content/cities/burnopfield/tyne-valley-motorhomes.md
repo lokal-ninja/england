@@ -1,5 +1,5 @@
 ---
 title: "Tyne Valley Motorhomes"
 url: /burnopfield/tyne-valley-motorhomes/
-shop: car
+shop: Autohaus
 ---

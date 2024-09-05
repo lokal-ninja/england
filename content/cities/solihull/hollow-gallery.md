@@ -1,5 +1,5 @@
 ---
 title: "Hollow Gallery"
 url: /solihull/hollow-gallery/
-shop: art
+shop: Kunst
 ---

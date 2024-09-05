@@ -1,5 +1,5 @@
 ---
 title: "Grate Expectations"
 url: /london/grate-expectations/
-shop: fireplace
+shop: Kamine & Öfen
 ---

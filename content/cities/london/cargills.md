@@ -1,5 +1,5 @@
 ---
 title: "Cargills"
 url: /london/cargills/
-shop: convenience
+shop: Lebensmittel
 ---

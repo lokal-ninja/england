@@ -1,5 +1,5 @@
 ---
 title: "The Watered Garden"
 url: /nottingham/the-watered-garden/
-shop: garden centre
+shop: Garten-Center
 ---

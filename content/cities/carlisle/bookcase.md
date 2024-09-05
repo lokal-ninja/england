@@ -1,5 +1,5 @@
 ---
 title: "Bookcase"
 url: /carlisle/bookcase/
-shop: books
+shop: Bücher
 ---

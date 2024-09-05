@@ -1,5 +1,5 @@
 ---
 title: "Daily Savers Local"
 url: /blackpool/daily-savers-local/
-shop: convenience
+shop: Lebensmittel
 ---

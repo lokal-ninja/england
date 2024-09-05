@@ -1,5 +1,5 @@
 ---
 title: "sew."
 url: /london/sew/
-shop: sewing
+shop: Nähzubehör
 ---

@@ -1,5 +1,5 @@
 ---
 title: "HMV"
 url: /kings-lynn/hmv/
-shop: music
+shop: Musik
 ---

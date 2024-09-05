@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /twickenham/whsmith/
-shop: newsagent
+shop: Zeitungen
 ---

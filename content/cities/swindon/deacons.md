@@ -1,5 +1,5 @@
 ---
 title: "Deacons"
 url: /swindon/deacons/
-shop: jewelry
+shop: Schmuck
 ---

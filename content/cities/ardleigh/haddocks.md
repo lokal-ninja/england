@@ -1,5 +1,5 @@
 ---
 title: "Haddocks"
 url: /ardleigh/haddocks/
-shop: car
+shop: Autohaus
 ---

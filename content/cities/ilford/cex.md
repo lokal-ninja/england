@@ -1,5 +1,5 @@
 ---
 title: "CeX"
 url: /ilford/cex/
-shop: electronics
+shop: Elektronik
 ---

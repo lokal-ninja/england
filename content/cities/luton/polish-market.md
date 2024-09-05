@@ -1,5 +1,5 @@
 ---
 title: "Polish Market"
 url: /luton/polish-market/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Scandal"
 url: /leeds/scandal/
-shop: beauty
+shop: Kosmetik
 ---

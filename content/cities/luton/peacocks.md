@@ -1,5 +1,5 @@
 ---
 title: "Peacocks"
 url: /luton/peacocks/
-shop: clothes
+shop: Kleidung
 ---

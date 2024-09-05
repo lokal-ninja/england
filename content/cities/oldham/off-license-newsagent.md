@@ -1,5 +1,5 @@
 ---
 title: "Off-License Newsagent"
 url: /oldham/off-license-newsagent/
-shop: newsagent
+shop: Zeitungen
 ---

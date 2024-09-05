@@ -1,5 +1,5 @@
 ---
 title: "Amika"
 url: /aylsham/amika/
-shop: clothes
+shop: Kleidung
 ---

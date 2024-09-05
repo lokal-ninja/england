@@ -1,5 +1,5 @@
 ---
 title: "Sheffield Car Centre"
 url: /sheffield/sheffield-car-centre/
-shop: car
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bookhaus"
 url: /bristol/bookhaus/
-shop: books
+shop: Bücher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /spalding/tesco/
-shop: supermarket
+shop: Supermarkt
 ---

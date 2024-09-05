@@ -1,5 +1,5 @@
 ---
 title: "Sydenham Dry Cleaners"
 url: /london/sydenham-dry-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

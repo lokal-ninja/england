@@ -1,6 +1,6 @@
 ---
 title: Hounslow
 url: /hounslow/
-latitude: 51.469
-longitude: -0.362
+latitude: 51.476
+longitude: -0.395
 ---

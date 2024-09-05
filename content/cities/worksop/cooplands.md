@@ -1,5 +1,5 @@
 ---
 title: "Cooplands"
 url: /worksop/cooplands/
-shop: bakery
+shop: Bäckerei
 ---

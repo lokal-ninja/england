@@ -1,5 +1,5 @@
 ---
 title: "Friends"
 url: /birmingham/friends/
-shop: hairdresser
+shop: Friseur
 ---

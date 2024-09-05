@@ -1,5 +1,5 @@
 ---
 title: "Seoul Plaza"
 url: /bournemouth/seoul-plaza/
-shop: supermarket
+shop: Supermarkt
 ---

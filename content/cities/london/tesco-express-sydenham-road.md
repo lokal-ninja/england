@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /london/tesco-express-sydenham-road/
-shop: convenience
+shop: Lebensmittel
 ---

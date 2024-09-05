@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /histon/coral/
-shop: bookmaker
+shop: Wettbüro
 ---

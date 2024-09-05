@@ -1,5 +1,5 @@
 ---
 title: "VTB Mobility"
 url: /orpington/vtb-mobility/
-shop: shop
+shop: Allgemein
 ---

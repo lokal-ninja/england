@@ -1,5 +1,5 @@
 ---
 title: "Angel Dust"
 url: /widnes/angel-dust/
-shop: gift
+shop: Andenken
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mattressman"
 url: /lowestoft/mattressman/
-shop: bed
+shop: Betten
 ---

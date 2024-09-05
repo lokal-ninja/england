@@ -1,5 +1,5 @@
 ---
 title: "Hobbycraft"
 url: /cambridge/hobbycraft/
-shop: shop
+shop: Allgemein
 ---

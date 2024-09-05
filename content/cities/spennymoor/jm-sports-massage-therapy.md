@@ -1,5 +1,5 @@
 ---
 title: "JM Sports Massage Therapy"
 url: /spennymoor/jm-sports-massage-therapy/
-shop: massage
+shop: Massage
 ---

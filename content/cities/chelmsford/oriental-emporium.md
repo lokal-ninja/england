@@ -1,5 +1,5 @@
 ---
 title: "Oriental Emporium"
 url: /chelmsford/oriental-emporium/
-shop: supermarket
+shop: Supermarkt
 ---

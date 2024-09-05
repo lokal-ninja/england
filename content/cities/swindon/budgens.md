@@ -1,5 +1,5 @@
 ---
 title: "Budgens"
 url: /swindon/budgens/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chillflow"
 url: /redruth/chillflow/
-shop: shop
+shop: Allgemein
 ---

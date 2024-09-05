@@ -1,5 +1,5 @@
 ---
 title: "Ahava"
 url: /sheffield/ahava/
-shop: charity
+shop: Gebrauchtwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Frost"
 url: /chelmsford/frost/
-shop: hairdresser
+shop: Friseur
 ---

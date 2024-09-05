@@ -1,5 +1,5 @@
 ---
 title: "Chanteroy"
 url: /london/chanteroy/
-shop: deli
+shop: Feinkost
 ---

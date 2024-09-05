@@ -1,5 +1,5 @@
 ---
 title: "Majestic"
 url: /taunton/majestic/
-shop: alcohol
+shop: Spirituosen
 ---

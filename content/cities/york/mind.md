@@ -1,5 +1,5 @@
 ---
 title: "Mind"
 url: /york/mind/
-shop: charity
+shop: Gebrauchtwaren
 ---

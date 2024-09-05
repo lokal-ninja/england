@@ -1,5 +1,5 @@
 ---
 title: "Popham"
 url: /oxford/popham/
-shop: hairdresser
+shop: Friseur
 ---

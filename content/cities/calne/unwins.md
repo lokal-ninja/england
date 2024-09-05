@@ -1,5 +1,5 @@
 ---
 title: "Unwins"
 url: /calne/unwins/
-shop: hardware
+shop: Eisenwaren
 ---

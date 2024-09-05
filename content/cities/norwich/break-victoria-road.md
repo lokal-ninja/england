@@ -1,5 +1,5 @@
 ---
 title: "Break"
 url: /norwich/break-victoria-road/
-shop: charity
+shop: Gebrauchtwaren
 ---

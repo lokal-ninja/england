@@ -1,5 +1,5 @@
 ---
 title: "Ramsdens"
 url: /castleford/ramsdens/
-shop: pawnbroker
+shop: Leiher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Peacocks"
 url: /bishop-auckland/peacocks/
-shop: clothes
+shop: Kleidung
 ---

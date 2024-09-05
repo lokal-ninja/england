@@ -1,5 +1,5 @@
 ---
 title: "Carpetright"
 url: /truro/carpetright/
-shop: carpet
+shop: Teppiche
 ---

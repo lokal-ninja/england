@@ -1,5 +1,5 @@
 ---
 title: "Cards n Wrap"
 url: /yate/cards-n-wrap/
-shop: gift
+shop: Andenken
 ---

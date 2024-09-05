@@ -1,5 +1,5 @@
 ---
 title: "Beyond Bronzed Salon"
 url: /london/beyond-bronzed-salon/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wood Bros Euronics Centre"
 url: /heanor/wood-bros-euronics-centre/
-shop: electronics
+shop: Elektronik
 ---

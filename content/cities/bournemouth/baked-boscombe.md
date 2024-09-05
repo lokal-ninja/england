@@ -1,5 +1,5 @@
 ---
 title: "Baked Boscombe"
 url: /bournemouth/baked-boscombe/
-shop: bakery
+shop: Bäckerei
 ---

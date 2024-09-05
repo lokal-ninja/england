@@ -1,5 +1,5 @@
 ---
 title: "Oasis"
 url: /swadlincote/oasis/
-shop: shop
+shop: Allgemein
 ---

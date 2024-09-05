@@ -1,5 +1,5 @@
 ---
 title: "News Extra"
 url: /crewe/news-extra/
-shop: convenience
+shop: Lebensmittel
 ---

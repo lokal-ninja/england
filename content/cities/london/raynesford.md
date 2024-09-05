@@ -1,5 +1,5 @@
 ---
 title: "Raynesford"
 url: /london/raynesford/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Blushes"
 url: /cheltenham/blushes/
-shop: hairdresser
+shop: Friseur
 ---

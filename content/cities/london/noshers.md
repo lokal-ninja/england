@@ -1,5 +1,5 @@
 ---
 title: "Noshers"
 url: /london/noshers/
-shop: deli
+shop: Feinkost
 ---

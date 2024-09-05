@@ -1,5 +1,5 @@
 ---
 title: "Hardakers"
 url: /leeds/hardakers/
-shop: bakery
+shop: Bäckerei
 ---

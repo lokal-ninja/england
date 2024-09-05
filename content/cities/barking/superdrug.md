@@ -1,5 +1,5 @@
 ---
 title: "Superdrug"
 url: /barking/superdrug/
-shop: chemist
+shop: Drogerie
 ---

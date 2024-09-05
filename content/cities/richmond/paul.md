@@ -1,5 +1,5 @@
 ---
 title: "Paul"
 url: /richmond/paul/
-shop: bakery
+shop: Bäckerei
 ---

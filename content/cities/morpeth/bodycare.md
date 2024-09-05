@@ -1,5 +1,5 @@
 ---
 title: "Bodycare"
 url: /morpeth/bodycare/
-shop: chemist
+shop: Drogerie
 ---

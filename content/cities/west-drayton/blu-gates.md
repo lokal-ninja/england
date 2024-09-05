@@ -1,5 +1,5 @@
 ---
 title: "Blu-Gates"
 url: /west-drayton/blu-gates/
-shop: computer
+shop: Computer
 ---

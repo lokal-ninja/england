@@ -1,5 +1,5 @@
 ---
 title: "Market Hall"
 url: /richmond/market-hall/
-shop: mall
+shop: Einkaufszentrum
 ---

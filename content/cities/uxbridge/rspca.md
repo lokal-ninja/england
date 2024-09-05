@@ -1,5 +1,5 @@
 ---
 title: "RSPCA"
 url: /uxbridge/rspca/
-shop: charity
+shop: Gebrauchtwaren
 ---

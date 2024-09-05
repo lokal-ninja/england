@@ -1,5 +1,5 @@
 ---
 title: "The Fragrance Shop"
 url: /chelmsford/the-fragrance-shop/
-shop: perfumery
+shop: Parfümerie
 ---

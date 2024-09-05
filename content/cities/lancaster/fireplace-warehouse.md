@@ -1,5 +1,5 @@
 ---
 title: "Fireplace Warehouse"
 url: /lancaster/fireplace-warehouse/
-shop: fireplace
+shop: Kamine & Öfen
 ---

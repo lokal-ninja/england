@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /chesterfield/coral/
-shop: bookmaker
+shop: Wettbüro
 ---

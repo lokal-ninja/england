@@ -1,5 +1,5 @@
 ---
 title: "AikoTech Hybrid Technology"
 url: /salford/aikotech-hybrid-technology/
-shop: computer
+shop: Computer
 ---

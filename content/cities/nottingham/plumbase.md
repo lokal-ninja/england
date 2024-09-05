@@ -1,5 +1,5 @@
 ---
 title: "Plumbase"
 url: /nottingham/plumbase/
-shop: shop
+shop: Allgemein
 ---

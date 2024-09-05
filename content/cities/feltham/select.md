@@ -1,5 +1,5 @@
 ---
 title: "Select"
 url: /feltham/select/
-shop: clothes
+shop: Kleidung
 ---

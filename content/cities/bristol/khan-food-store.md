@@ -1,5 +1,5 @@
 ---
 title: "Khan Food Store"
 url: /bristol/khan-food-store/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

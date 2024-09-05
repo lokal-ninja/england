@@ -1,5 +1,5 @@
 ---
 title: "Coquet Island Shellfish Ltd."
 url: /north-shields/coquet-island-shellfish-ltd/
-shop: seafood
+shop: Fisch
 ---

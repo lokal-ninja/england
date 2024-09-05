@@ -1,5 +1,5 @@
 ---
 title: "Tempur"
 url: /murton/tempur/
-shop: bed
+shop: Betten
 ---

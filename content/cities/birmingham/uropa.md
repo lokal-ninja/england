@@ -1,5 +1,5 @@
 ---
 title: "Uropa"
 url: /birmingham/uropa/
-shop: jewelry
+shop: Schmuck
 ---

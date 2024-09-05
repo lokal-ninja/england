@@ -1,5 +1,5 @@
 ---
 title: "Facets"
 url: /london/facets/
-shop: jewelry
+shop: Schmuck
 ---

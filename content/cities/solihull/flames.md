@@ -1,5 +1,5 @@
 ---
 title: "Flames"
 url: /solihull/flames/
-shop: fireplace
+shop: Kamine & Öfen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Oxfam Bookshop"
 url: /sevenoaks/oxfam-bookshop/
-shop: charity
+shop: Gebrauchtwaren
 ---

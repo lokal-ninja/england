@@ -1,5 +1,5 @@
 ---
 title: "Welhams"
 url: /colchester/welhams/
-shop: hairdresser
+shop: Friseur
 ---

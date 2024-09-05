@@ -1,5 +1,5 @@
 ---
 title: "Medipharmacy"
 url: /wallington/medipharmacy/
-shop: chemist
+shop: Drogerie
 ---

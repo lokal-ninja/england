@@ -1,5 +1,5 @@
 ---
 title: "Morrisons Daily"
 url: /ashford/morrisons-daily/
-shop: convenience
+shop: Lebensmittel
 ---

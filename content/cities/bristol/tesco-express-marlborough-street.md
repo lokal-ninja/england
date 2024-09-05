@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /bristol/tesco-express-marlborough-street/
-shop: convenience
+shop: Lebensmittel
 ---

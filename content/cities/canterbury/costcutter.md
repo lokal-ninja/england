@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /canterbury/costcutter/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tantalize"
 url: /london/tantalize/
-shop: beauty
+shop: Kosmetik
 ---

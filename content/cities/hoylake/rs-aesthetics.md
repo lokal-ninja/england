@@ -1,5 +1,5 @@
 ---
 title: "RS Aesthetics"
 url: /hoylake/rs-aesthetics/
-shop: beauty
+shop: Kosmetik
 ---

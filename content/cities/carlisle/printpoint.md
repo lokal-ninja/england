@@ -1,5 +1,5 @@
 ---
 title: "Printpoint"
 url: /carlisle/printpoint/
-shop: copyshop
+shop: Kopieren
 ---

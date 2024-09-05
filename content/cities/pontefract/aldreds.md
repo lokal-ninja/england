@@ -1,5 +1,5 @@
 ---
 title: "Aldreds"
 url: /pontefract/aldreds/
-shop: optician
+shop: Optiker
 ---

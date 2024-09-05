@@ -1,5 +1,5 @@
 ---
 title: "Barberhood"
 url: /ipswich/barberhood/
-shop: hairdresser
+shop: Friseur
 ---

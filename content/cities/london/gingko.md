@@ -1,5 +1,5 @@
 ---
 title: "Gingko"
 url: /london/gingko/
-shop: shop
+shop: Allgemein
 ---

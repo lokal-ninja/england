@@ -1,5 +1,5 @@
 ---
 title: "Peacocks"
 url: /huddersfield/peacocks/
-shop: clothes
+shop: Kleidung
 ---

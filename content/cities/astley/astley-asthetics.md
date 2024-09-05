@@ -1,5 +1,5 @@
 ---
 title: "Astley Asthetics"
 url: /astley/astley-asthetics/
-shop: beauty
+shop: Kosmetik
 ---

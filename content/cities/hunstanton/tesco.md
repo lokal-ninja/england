@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /hunstanton/tesco/
-shop: supermarket
+shop: Supermarkt
 ---

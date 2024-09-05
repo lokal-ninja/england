@@ -1,5 +1,5 @@
 ---
 title: "Chadderton News"
 url: /oldham/chadderton-news/
-shop: convenience
+shop: Lebensmittel
 ---

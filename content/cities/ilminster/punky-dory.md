@@ -1,5 +1,5 @@
 ---
 title: "Punky Dory"
 url: /ilminster/punky-dory/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /chester/tesco-hartford-way/
-shop: supermarket
+shop: Supermarkt
 ---

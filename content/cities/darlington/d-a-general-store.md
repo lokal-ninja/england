@@ -1,5 +1,5 @@
 ---
 title: "D.A. General Store"
 url: /darlington/d-a-general-store/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spar Express"
 url: /blackburn/spar-express/
-shop: convenience
+shop: Lebensmittel
 ---

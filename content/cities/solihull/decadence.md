@@ -1,5 +1,5 @@
 ---
 title: "Decadence"
 url: /solihull/decadence/
-shop: clothes
+shop: Kleidung
 ---

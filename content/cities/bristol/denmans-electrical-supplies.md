@@ -1,5 +1,5 @@
 ---
 title: "Denmans Electrical Supplies"
 url: /bristol/denmans-electrical-supplies/
-shop: wholesale
+shop: Großhandel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hopsters"
 url: /ipswich/hopsters/
-shop: alcohol
+shop: Spirituosen
 ---

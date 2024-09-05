@@ -1,5 +1,5 @@
 ---
 title: "Foster"
 url: /bristol/foster/
-shop: jewelry
+shop: Schmuck
 ---

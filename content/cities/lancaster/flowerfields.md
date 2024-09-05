@@ -1,5 +1,5 @@
 ---
 title: "Flowerfields"
 url: /lancaster/flowerfields/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

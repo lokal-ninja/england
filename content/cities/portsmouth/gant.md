@@ -1,5 +1,5 @@
 ---
 title: "GANT"
 url: /portsmouth/gant/
-shop: clothes
+shop: Kleidung
 ---

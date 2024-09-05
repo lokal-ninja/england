@@ -1,5 +1,5 @@
 ---
 title: "Ironbridge Book Shop"
 url: /ironbridge/ironbridge-book-shop/
-shop: books
+shop: Bücher
 ---

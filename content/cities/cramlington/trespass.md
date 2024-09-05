@@ -1,5 +1,5 @@
 ---
 title: "Trespass"
 url: /cramlington/trespass/
-shop: outdoor
+shop: Outdoor
 ---

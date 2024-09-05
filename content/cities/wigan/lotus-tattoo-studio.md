@@ -1,5 +1,5 @@
 ---
 title: "Lotus Tattoo Studio"
 url: /wigan/lotus-tattoo-studio/
-shop: tattoo
+shop: Tattoo
 ---

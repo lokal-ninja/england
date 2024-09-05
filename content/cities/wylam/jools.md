@@ -1,5 +1,5 @@
 ---
 title: "Jools"
 url: /wylam/jools/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Food Warehouse"
 url: /thetford/the-food-warehouse/
-shop: supermarket
+shop: Supermarkt
 ---

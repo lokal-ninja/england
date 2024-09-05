@@ -1,5 +1,5 @@
 ---
 title: "Stitches"
 url: /royal-leamington-spa/stitches/
-shop: tailor
+shop: Schneiderei
 ---

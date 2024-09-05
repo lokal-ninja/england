@@ -1,5 +1,5 @@
 ---
 title: "Micks"
 url: /london/micks/
-shop: convenience
+shop: Lebensmittel
 ---

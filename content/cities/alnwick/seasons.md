@@ -1,5 +1,5 @@
 ---
 title: "Seasons"
 url: /alnwick/seasons/
-shop: clothes
+shop: Kleidung
 ---

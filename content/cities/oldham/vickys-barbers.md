@@ -1,5 +1,5 @@
 ---
 title: "Vicky's Barbers"
 url: /oldham/vickys-barbers/
-shop: hairdresser
+shop: Friseur
 ---

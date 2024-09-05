@@ -1,5 +1,5 @@
 ---
 title: "Specsavers"
 url: /swadlincote/specsavers/
-shop: optician
+shop: Optiker
 ---

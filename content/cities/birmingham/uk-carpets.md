@@ -1,5 +1,5 @@
 ---
 title: "UK Carpets"
 url: /birmingham/uk-carpets/
-shop: carpet
+shop: Teppiche
 ---

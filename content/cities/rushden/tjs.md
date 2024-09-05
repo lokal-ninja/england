@@ -1,5 +1,5 @@
 ---
 title: "Tjs"
 url: /rushden/tjs/
-shop: vacant
+shop: Leerstehend
 ---

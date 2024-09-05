@@ -1,5 +1,5 @@
 ---
 title: "J Binicki"
 url: /bolton/j-binicki/
-shop: deli
+shop: Feinkost
 ---

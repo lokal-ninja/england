@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /dartmouth/ladbrokes/
-shop: bookmaker
+shop: Wettbüro
 ---

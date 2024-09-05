@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /beverley/costcutter/
-shop: convenience
+shop: Lebensmittel
 ---

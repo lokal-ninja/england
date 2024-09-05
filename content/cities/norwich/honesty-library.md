@@ -1,5 +1,5 @@
 ---
 title: "Honesty Library"
 url: /norwich/honesty-library/
-shop: books
+shop: Bücher
 ---

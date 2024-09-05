@@ -1,5 +1,5 @@
 ---
 title: "Vandalised"
 url: /halifax/vandalised/
-shop: carpet
+shop: Teppiche
 ---

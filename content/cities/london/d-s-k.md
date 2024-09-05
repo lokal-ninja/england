@@ -1,5 +1,5 @@
 ---
 title: "D.S.K."
 url: /london/d-s-k/
-shop: convenience
+shop: Lebensmittel
 ---

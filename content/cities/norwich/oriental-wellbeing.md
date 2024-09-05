@@ -1,5 +1,5 @@
 ---
 title: "Oriental Wellbeing"
 url: /norwich/oriental-wellbeing/
-shop: massage
+shop: Massage
 ---

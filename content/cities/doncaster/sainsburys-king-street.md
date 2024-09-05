@@ -1,5 +1,5 @@
 ---
 title: "Sainsbury's"
 url: /doncaster/sainsburys-king-street/
-shop: supermarket
+shop: Supermarkt
 ---

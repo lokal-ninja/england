@@ -1,5 +1,5 @@
 ---
 title: "Budgens"
 url: /durham/budgens/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Booths"
 url: /carnforth/booths/
-shop: supermarket
+shop: Supermarkt
 ---

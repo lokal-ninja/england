@@ -1,5 +1,5 @@
 ---
 title: "Soda;HiCoffee"
 url: /altrincham/soda-hicoffee/
-shop: books
+shop: Bücher
 ---

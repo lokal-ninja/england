@@ -1,5 +1,5 @@
 ---
 title: "AW Accident Repair Centres"
 url: /nottingham/aw-accident-repair-centres/
-shop: car repair
+shop: Autowerkstatt
 ---

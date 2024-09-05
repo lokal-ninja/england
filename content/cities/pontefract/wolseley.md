@@ -1,5 +1,5 @@
 ---
 title: "Wolseley"
 url: /pontefract/wolseley/
-shop: trade
+shop: Baustoffe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Argos"
 url: /bristol/argos-bloomfield-road-link/
-shop: catalogue
+shop: Katalog
 ---

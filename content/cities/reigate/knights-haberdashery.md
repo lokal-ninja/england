@@ -1,5 +1,5 @@
 ---
 title: "Knight's Haberdashery"
 url: /reigate/knights-haberdashery/
-shop: clothes
+shop: Kleidung
 ---

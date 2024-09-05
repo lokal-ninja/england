@@ -1,5 +1,5 @@
 ---
 title: "Matalan"
 url: /truro/matalan/
-shop: clothes
+shop: Kleidung
 ---

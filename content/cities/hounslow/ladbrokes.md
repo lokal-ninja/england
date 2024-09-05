@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /hounslow/ladbrokes/
-shop: bookmaker
+shop: Wettbüro
 ---

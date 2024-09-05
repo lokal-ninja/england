@@ -1,5 +1,5 @@
 ---
 title: "Cooplands"
 url: /crook/cooplands/
-shop: bakery
+shop: Bäckerei
 ---

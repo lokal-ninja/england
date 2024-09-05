@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /bristol/aldi-fox-den-road/
-shop: supermarket
+shop: Supermarkt
 ---

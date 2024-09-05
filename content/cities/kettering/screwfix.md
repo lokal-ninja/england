@@ -1,5 +1,5 @@
 ---
 title: "Screwfix"
 url: /kettering/screwfix/
-shop: doityourself
+shop: Baumarkt
 ---

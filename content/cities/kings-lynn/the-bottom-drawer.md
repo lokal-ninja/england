@@ -1,5 +1,5 @@
 ---
 title: "The Bottom Drawer"
 url: /kings-lynn/the-bottom-drawer/
-shop: clothes
+shop: Kleidung
 ---

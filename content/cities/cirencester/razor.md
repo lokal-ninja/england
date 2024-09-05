@@ -1,5 +1,5 @@
 ---
 title: "Razor"
 url: /cirencester/razor/
-shop: hairdresser
+shop: Friseur
 ---

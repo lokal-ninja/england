@@ -1,5 +1,5 @@
 ---
 title: "Oxfam"
 url: /alnwick/oxfam/
-shop: charity
+shop: Gebrauchtwaren
 ---

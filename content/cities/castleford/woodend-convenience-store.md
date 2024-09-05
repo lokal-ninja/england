@@ -1,5 +1,5 @@
 ---
 title: "Woodend Convenience Store"
 url: /castleford/woodend-convenience-store/
-shop: convenience
+shop: Lebensmittel
 ---

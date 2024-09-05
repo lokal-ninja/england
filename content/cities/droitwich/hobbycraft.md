@@ -1,5 +1,5 @@
 ---
 title: "Hobbycraft"
 url: /droitwich/hobbycraft/
-shop: craft
+shop: Basteln
 ---

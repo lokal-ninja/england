@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /cowes/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

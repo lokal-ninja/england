@@ -1,5 +1,5 @@
 ---
 title: "St Giles shop"
 url: /sutton-coldfield/st-giles-shop/
-shop: charity
+shop: Gebrauchtwaren
 ---

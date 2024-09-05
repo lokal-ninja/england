@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /bicester/tesco/
-shop: supermarket
+shop: Supermarkt
 ---

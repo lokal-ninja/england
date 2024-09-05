@@ -1,5 +1,5 @@
 ---
 title: "Esso Shop"
 url: /worthing/esso-shop/
-shop: convenience
+shop: Lebensmittel
 ---

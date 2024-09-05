@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /wyke-regis/tesco-express/
-shop: convenience
+shop: Lebensmittel
 ---

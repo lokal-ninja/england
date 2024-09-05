@@ -1,5 +1,5 @@
 ---
 title: "Angles"
 url: /blackburn/angles/
-shop: beauty
+shop: Kosmetik
 ---

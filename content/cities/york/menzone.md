@@ -1,5 +1,5 @@
 ---
 title: "MenZone"
 url: /york/menzone/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wow"
 url: /borehamwood/wow/
-shop: beauty
+shop: Kosmetik
 ---

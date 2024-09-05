@@ -1,5 +1,5 @@
 ---
 title: "C E Adkins"
 url: /wellingborough/c-e-adkins/
-shop: bicycle
+shop: Fahrrad
 ---

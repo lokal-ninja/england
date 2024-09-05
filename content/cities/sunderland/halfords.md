@@ -1,5 +1,5 @@
 ---
 title: "Halfords"
 url: /sunderland/halfords/
-shop: car parts
+shop: Autoteile
 ---

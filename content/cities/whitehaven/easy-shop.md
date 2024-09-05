@@ -1,5 +1,5 @@
 ---
 title: "Easy Shop"
 url: /whitehaven/easy-shop/
-shop: convenience
+shop: Lebensmittel
 ---

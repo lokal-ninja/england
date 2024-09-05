@@ -1,5 +1,5 @@
 ---
 title: "PatientChoice"
 url: /wellington/patientchoice/
-shop: trade
+shop: Baustoffe
 ---

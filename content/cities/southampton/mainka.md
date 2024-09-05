@@ -1,5 +1,5 @@
 ---
 title: "Mainka"
 url: /southampton/mainka/
-shop: convenience
+shop: Lebensmittel
 ---

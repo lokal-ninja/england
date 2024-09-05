@@ -1,5 +1,5 @@
 ---
 title: "Oddbins"
 url: /twickenham/oddbins/
-shop: alcohol
+shop: Spirituosen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Argos"
 url: /east-grinstead/argos/
-shop: catalogue
+shop: Katalog
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Blue"
 url: /york/blue/
-shop: hairdresser
+shop: Friseur
 ---

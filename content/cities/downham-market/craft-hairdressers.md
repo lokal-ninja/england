@@ -1,5 +1,5 @@
 ---
 title: "Craft Hairdressers"
 url: /downham-market/craft-hairdressers/
-shop: hairdresser
+shop: Friseur
 ---

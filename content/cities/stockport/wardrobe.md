@@ -1,5 +1,5 @@
 ---
 title: "Wardrobe"
 url: /stockport/wardrobe/
-shop: clothes
+shop: Kleidung
 ---

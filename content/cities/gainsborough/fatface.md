@@ -1,5 +1,5 @@
 ---
 title: "Fatface"
 url: /gainsborough/fatface/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Dorset Bookshop"
 url: /blandford-forum/the-dorset-bookshop/
-shop: books
+shop: Bücher
 ---

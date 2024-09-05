@@ -1,5 +1,5 @@
 ---
 title: "Misstreat"
 url: /manchester/misstreat/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lookers"
 url: /colchester/lookers/
-shop: car repair
+shop: Autowerkstatt
 ---

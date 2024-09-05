@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /southampton/lidl-commercial-road/
-shop: supermarket
+shop: Supermarkt
 ---

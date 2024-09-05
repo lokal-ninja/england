@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /felpham/londis/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chingford Electrical Supplies"
 url: /london/chingford-electrical-supplies/
-shop: trade
+shop: Baustoffe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Maidstone (MSA)"
 url: /hollingbourne/maidstone-msa/
-shop: convenience
+shop: Lebensmittel
 ---

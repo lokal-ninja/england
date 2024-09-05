@@ -1,5 +1,5 @@
 ---
 title: "Sense"
 url: /orpington/sense/
-shop: charity
+shop: Gebrauchtwaren
 ---

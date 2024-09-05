@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /thetford/costcutter-brandon-road/
-shop: convenience
+shop: Lebensmittel
 ---

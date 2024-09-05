@@ -1,5 +1,5 @@
 ---
 title: "Colourfoil Ltd"
 url: /chelmsford/colourfoil-ltd/
-shop: trade
+shop: Baustoffe
 ---

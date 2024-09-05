@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /hoddesdon/savers/
-shop: chemist
+shop: Drogerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Blink"
 url: /bishops-stortford/blink/
-shop: gift
+shop: Andenken
 ---

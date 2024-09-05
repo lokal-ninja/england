@@ -1,5 +1,5 @@
 ---
 title: "Andersons Greengrocers"
 url: /durham/andersons-greengrocers/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

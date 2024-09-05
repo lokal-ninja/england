@@ -1,5 +1,5 @@
 ---
 title: "Touch Of Silk"
 url: /sheffield/touch-of-silk/
-shop: beauty
+shop: Kosmetik
 ---

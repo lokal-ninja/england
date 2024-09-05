@@ -1,5 +1,5 @@
 ---
 title: "Atakan Supermarket"
 url: /london/atakan-supermarket/
-shop: convenience
+shop: Lebensmittel
 ---

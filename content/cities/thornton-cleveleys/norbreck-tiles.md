@@ -1,5 +1,5 @@
 ---
 title: "Norbreck Tiles"
 url: /thornton-cleveleys/norbreck-tiles/
-shop: tiles
+shop: Fliesen
 ---

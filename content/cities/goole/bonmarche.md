@@ -1,5 +1,5 @@
 ---
 title: "Bonmarché"
 url: /goole/bonmarche/
-shop: clothes
+shop: Kleidung
 ---

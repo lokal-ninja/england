@@ -1,5 +1,5 @@
 ---
 title: "Ecco"
 url: /london/ecco/
-shop: shoes
+shop: Schuhe
 ---

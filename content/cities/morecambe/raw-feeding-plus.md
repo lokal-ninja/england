@@ -1,5 +1,5 @@
 ---
 title: "Raw Feeding Plus"
 url: /morecambe/raw-feeding-plus/
-shop: pet
+shop: Tiere
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Halfords Autocentre"
 url: /taunton/halfords-autocentre/
-shop: car repair
+shop: Autowerkstatt
 ---

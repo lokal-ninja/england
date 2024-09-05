@@ -1,5 +1,5 @@
 ---
 title: "Kiton"
 url: /london/kiton/
-shop: clothes
+shop: Kleidung
 ---

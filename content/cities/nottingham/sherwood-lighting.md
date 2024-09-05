@@ -1,5 +1,5 @@
 ---
 title: "Sherwood Lighting"
 url: /nottingham/sherwood-lighting/
-shop: lamps
+shop: Lampen
 ---

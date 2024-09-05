@@ -1,5 +1,5 @@
 ---
 title: "Mudpie"
 url: /brighton/mudpie/
-shop: musical instrument
+shop: Instrumente
 ---

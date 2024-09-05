@@ -1,5 +1,5 @@
 ---
 title: "Rituals"
 url: /derby/rituals/
-shop: gift
+shop: Andenken
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Boots"
 url: /bromsgrove/boots/
-shop: chemist
+shop: Drogerie
 ---

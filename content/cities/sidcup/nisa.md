@@ -1,5 +1,5 @@
 ---
 title: "Nisa"
 url: /sidcup/nisa/
-shop: convenience
+shop: Lebensmittel
 ---

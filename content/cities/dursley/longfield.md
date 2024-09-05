@@ -1,5 +1,5 @@
 ---
 title: "Longfield"
 url: /dursley/longfield/
-shop: charity
+shop: Gebrauchtwaren
 ---

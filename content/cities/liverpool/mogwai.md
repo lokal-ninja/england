@@ -1,5 +1,5 @@
 ---
 title: "Mogwai"
 url: /liverpool/mogwai/
-shop: tattoo
+shop: Tattoo
 ---

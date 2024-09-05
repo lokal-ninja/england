@@ -1,5 +1,5 @@
 ---
 title: "RSPCA"
 url: /wooler/rspca/
-shop: charity
+shop: Gebrauchtwaren
 ---

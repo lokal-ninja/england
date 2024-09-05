@@ -1,5 +1,5 @@
 ---
 title: "Cash Generator"
 url: /rotherham/cash-generator/
-shop: pawnbroker
+shop: Leiher
 ---

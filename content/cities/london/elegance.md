@@ -1,5 +1,5 @@
 ---
 title: "Elegance"
 url: /london/elegance/
-shop: laundry
+shop: Wäscherei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /andover/asda/
-shop: supermarket
+shop: Supermarkt
 ---

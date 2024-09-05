@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /weymouth/ladbrokes/
-shop: bookmaker
+shop: Wettbüro
 ---

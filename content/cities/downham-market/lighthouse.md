@@ -1,5 +1,5 @@
 ---
 title: "Lighthouse"
 url: /downham-market/lighthouse/
-shop: electrical
+shop: Elektrisch
 ---

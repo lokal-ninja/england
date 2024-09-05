@@ -1,5 +1,5 @@
 ---
 title: "Footasylum"
 url: /derby/footasylum/
-shop: shoes
+shop: Schuhe
 ---

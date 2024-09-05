@@ -1,5 +1,5 @@
 ---
 title: "Michael Robert"
 url: /bristol/michael-robert/
-shop: hairdresser
+shop: Friseur
 ---

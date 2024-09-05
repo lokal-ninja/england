@@ -1,5 +1,5 @@
 ---
 title: "Oysho"
 url: /london/oysho/
-shop: clothes
+shop: Kleidung
 ---

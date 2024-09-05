@@ -1,5 +1,5 @@
 ---
 title: "Rio"
 url: /coventry/rio/
-shop: hairdresser
+shop: Friseur
 ---

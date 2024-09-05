@@ -1,5 +1,5 @@
 ---
 title: "CarShop"
 url: /warrington/carshop/
-shop: car
+shop: Autohaus
 ---

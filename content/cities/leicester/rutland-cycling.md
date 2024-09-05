@@ -1,5 +1,5 @@
 ---
 title: "Rutland Cycling"
 url: /leicester/rutland-cycling/
-shop: bicycle
+shop: Fahrrad
 ---

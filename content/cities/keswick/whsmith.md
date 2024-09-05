@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /keswick/whsmith/
-shop: newsagent
+shop: Zeitungen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mortons"
 url: /sheffield/mortons/
-shop: laundry
+shop: Wäscherei
 ---

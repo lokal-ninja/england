@@ -1,5 +1,5 @@
 ---
 title: "Craft Cabin"
 url: /chester-le-street/craft-cabin/
-shop: craft
+shop: Basteln
 ---

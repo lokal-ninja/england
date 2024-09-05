@@ -1,5 +1,5 @@
 ---
 title: "Welcome"
 url: /stubbington-fareham/welcome/
-shop: convenience
+shop: Lebensmittel
 ---

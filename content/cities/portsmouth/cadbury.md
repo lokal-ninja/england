@@ -1,5 +1,5 @@
 ---
 title: "Cadbury"
 url: /portsmouth/cadbury/
-shop: chocolate
+shop: Schokolade
 ---

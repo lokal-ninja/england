@@ -1,5 +1,5 @@
 ---
 title: "JenningsBet"
 url: /milton-keynes/jenningsbet/
-shop: bookmaker
+shop: Wettbüro
 ---

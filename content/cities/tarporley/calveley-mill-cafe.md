@@ -1,5 +1,5 @@
 ---
 title: "Calveley Mill Cafe"
 url: /tarporley/calveley-mill-cafe/
-shop: deli
+shop: Feinkost
 ---

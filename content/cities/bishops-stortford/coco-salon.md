@@ -1,5 +1,5 @@
 ---
 title: "Coco Salon"
 url: /bishops-stortford/coco-salon/
-shop: beauty
+shop: Kosmetik
 ---

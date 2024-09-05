@@ -1,5 +1,5 @@
 ---
 title: "realeyes"
 url: /richmond/realeyes/
-shop: optician
+shop: Optiker
 ---

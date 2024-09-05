@@ -1,5 +1,5 @@
 ---
 title: "Accessorize"
 url: /horsham/accessorize/
-shop: boutique
+shop: Modehaus
 ---

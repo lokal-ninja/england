@@ -1,5 +1,5 @@
 ---
 title: "Tasneem Cargo and Travel"
 url: /birmingham/tasneem-cargo-and-travel/
-shop: travel agency
+shop: Reisebüro
 ---

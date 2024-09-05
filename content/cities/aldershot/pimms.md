@@ -1,5 +1,5 @@
 ---
 title: "Pimms"
 url: /aldershot/pimms/
-shop: hairdresser
+shop: Friseur
 ---

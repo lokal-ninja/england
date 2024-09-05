@@ -1,5 +1,5 @@
 ---
 title: "The Pink Rooster"
 url: /taunton/the-pink-rooster/
-shop: clothes
+shop: Kleidung
 ---

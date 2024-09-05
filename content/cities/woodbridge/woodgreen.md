@@ -1,5 +1,5 @@
 ---
 title: "Woodgreen"
 url: /woodbridge/woodgreen/
-shop: charity
+shop: Gebrauchtwaren
 ---

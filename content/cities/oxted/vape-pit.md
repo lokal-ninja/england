@@ -1,5 +1,5 @@
 ---
 title: "Vape Pit"
 url: /oxted/vape-pit/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

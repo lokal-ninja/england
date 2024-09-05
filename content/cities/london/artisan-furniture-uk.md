@@ -1,5 +1,5 @@
 ---
 title: "Artisan Furniture UK"
 url: /london/artisan-furniture-uk/
-shop: wholesale
+shop: Großhandel
 ---

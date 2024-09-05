@@ -1,5 +1,5 @@
 ---
 title: "Applegreen"
 url: /swindon/applegreen/
-shop: convenience
+shop: Lebensmittel
 ---

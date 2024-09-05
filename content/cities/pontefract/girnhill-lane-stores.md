@@ -1,5 +1,5 @@
 ---
 title: "Girnhill Lane Stores"
 url: /pontefract/girnhill-lane-stores/
-shop: convenience
+shop: Lebensmittel
 ---

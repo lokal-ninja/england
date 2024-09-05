@@ -1,5 +1,5 @@
 ---
 title: "RSPCA Derby Animal Shelter"
 url: /derby/rspca-derby-animal-shelter/
-shop: pet
+shop: Tiere
 ---

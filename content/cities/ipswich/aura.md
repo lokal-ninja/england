@@ -1,5 +1,5 @@
 ---
 title: "Aura"
 url: /ipswich/aura/
-shop: clothes
+shop: Kleidung
 ---

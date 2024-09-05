@@ -1,5 +1,5 @@
 ---
 title: "The Barber Shop"
 url: /shepperton/the-barber-shop/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Compass"
 url: /harwich/compass/
-shop: estate agent
+shop: Immobilien
 ---

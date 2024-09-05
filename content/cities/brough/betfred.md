@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /brough/betfred/
-shop: bookmaker
+shop: Wettbüro
 ---

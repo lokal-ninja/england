@@ -1,5 +1,5 @@
 ---
 title: "Muzzy's Barbers"
 url: /bristol/muzzys-barbers/
-shop: hairdresser
+shop: Friseur
 ---

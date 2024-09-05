@@ -1,5 +1,5 @@
 ---
 title: "Europa"
 url: /sheffield/europa/
-shop: car
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Superdrug"
 url: /ilkeston/superdrug/
-shop: chemist
+shop: Drogerie
 ---

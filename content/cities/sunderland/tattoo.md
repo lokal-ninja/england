@@ -1,5 +1,5 @@
 ---
 title: "Tattoo"
 url: /sunderland/tattoo/
-shop: tattoo
+shop: Tattoo
 ---

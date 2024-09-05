@@ -1,5 +1,5 @@
 ---
 title: "Morrisons Daily"
 url: /preston/morrisons-daily-harbour-lane/
-shop: convenience
+shop: Lebensmittel
 ---

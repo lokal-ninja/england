@@ -1,5 +1,5 @@
 ---
 title: "Costless"
 url: /bristol/costless/
-shop: alcohol
+shop: Spirituosen
 ---

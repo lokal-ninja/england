@@ -1,5 +1,5 @@
 ---
 title: "Wandahome"
 url: /knottingley/wandahome/
-shop: caravan
+shop: Wohnwagen
 ---

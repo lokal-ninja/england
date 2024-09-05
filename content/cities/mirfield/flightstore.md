@@ -1,5 +1,5 @@
 ---
 title: "Flightstore"
 url: /mirfield/flightstore/
-shop: shop
+shop: Allgemein
 ---

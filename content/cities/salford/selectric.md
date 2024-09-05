@@ -1,5 +1,5 @@
 ---
 title: "Selectric"
 url: /salford/selectric/
-shop: electronics
+shop: Elektronik
 ---

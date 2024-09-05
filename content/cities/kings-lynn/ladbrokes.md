@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /kings-lynn/ladbrokes/
-shop: bookmaker
+shop: Wettbüro
 ---

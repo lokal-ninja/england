@@ -1,5 +1,5 @@
 ---
 title: "Crown Barbers"
 url: /manchester/crown-barbers/
-shop: hairdresser
+shop: Friseur
 ---

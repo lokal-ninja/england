@@ -1,5 +1,5 @@
 ---
 title: "Browns"
 url: /mexborough/browns/
-shop: jewelry
+shop: Schmuck
 ---

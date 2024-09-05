@@ -1,5 +1,5 @@
 ---
 title: "The Range"
 url: /chelmsford/the-range/
-shop: houseware
+shop: Haushaltsartikel
 ---

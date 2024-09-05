@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /blandford-forum/whsmith/
-shop: newsagent
+shop: Zeitungen
 ---

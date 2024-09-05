@@ -1,5 +1,5 @@
 ---
 title: "Lavish"
 url: /attleborough/lavish/
-shop: beauty
+shop: Kosmetik
 ---

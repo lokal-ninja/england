@@ -1,5 +1,5 @@
 ---
 title: "Hodges"
 url: /ilfracombe/hodges/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

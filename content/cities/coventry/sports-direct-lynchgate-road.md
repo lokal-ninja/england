@@ -1,5 +1,5 @@
 ---
 title: "Sports Direct"
 url: /coventry/sports-direct-lynchgate-road/
-shop: sports
+shop: Sport
 ---

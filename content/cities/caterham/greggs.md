@@ -1,5 +1,5 @@
 ---
 title: "Greggs"
 url: /caterham/greggs/
-shop: bakery
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Peacocks"
 url: /washington/peacocks/
-shop: clothes
+shop: Kleidung
 ---

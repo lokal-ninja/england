@@ -1,5 +1,5 @@
 ---
 title: "HMV"
 url: /shrewsbury/hmv/
-shop: music
+shop: Musik
 ---

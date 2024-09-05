@@ -1,5 +1,5 @@
 ---
 title: "A Carr Butcher"
 url: /south-shields/a-carr-butcher/
-shop: butcher
+shop: Metzgerei
 ---

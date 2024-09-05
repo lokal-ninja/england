@@ -1,5 +1,5 @@
 ---
 title: "Dorringtons"
 url: /harlow/dorringtons/
-shop: bakery
+shop: Bäckerei
 ---

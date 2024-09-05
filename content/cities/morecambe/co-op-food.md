@@ -1,5 +1,5 @@
 ---
 title: "Co-op Food"
 url: /morecambe/co-op-food/
-shop: convenience
+shop: Lebensmittel
 ---

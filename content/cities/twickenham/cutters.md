@@ -1,5 +1,5 @@
 ---
 title: "Cutters"
 url: /twickenham/cutters/
-shop: houseware
+shop: Haushaltsartikel
 ---

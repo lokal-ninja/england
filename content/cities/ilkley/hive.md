@@ -1,5 +1,5 @@
 ---
 title: "Hive"
 url: /ilkley/hive/
-shop: kitchen
+shop: Küchen
 ---

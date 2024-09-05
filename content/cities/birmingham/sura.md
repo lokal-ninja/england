@@ -1,5 +1,5 @@
 ---
 title: "Sura"
 url: /birmingham/sura/
-shop: newsagent
+shop: Zeitungen
 ---

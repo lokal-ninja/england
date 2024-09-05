@@ -1,5 +1,5 @@
 ---
 title: "Scrivens"
 url: /chigwell/scrivens/
-shop: optician
+shop: Optiker
 ---

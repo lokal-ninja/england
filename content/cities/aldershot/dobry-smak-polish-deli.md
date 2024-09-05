@@ -1,5 +1,5 @@
 ---
 title: "Dobry Smak Polish Deli"
 url: /aldershot/dobry-smak-polish-deli/
-shop: convenience
+shop: Lebensmittel
 ---

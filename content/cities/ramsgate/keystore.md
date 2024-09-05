@@ -1,5 +1,5 @@
 ---
 title: "Keystore"
 url: /ramsgate/keystore/
-shop: shop
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /paignton/costcutter/
-shop: convenience
+shop: Lebensmittel
 ---

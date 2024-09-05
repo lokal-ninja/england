@@ -1,5 +1,5 @@
 ---
 title: "Camo"
 url: /evesham/camo/
-shop: hairdresser
+shop: Friseur
 ---

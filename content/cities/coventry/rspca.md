@@ -1,5 +1,5 @@
 ---
 title: "RSPCA"
 url: /coventry/rspca/
-shop: charity
+shop: Gebrauchtwaren
 ---

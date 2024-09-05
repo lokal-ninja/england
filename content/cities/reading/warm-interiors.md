@@ -1,5 +1,5 @@
 ---
 title: "Warm Interiors"
 url: /reading/warm-interiors/
-shop: fireplace
+shop: Kamine & Öfen
 ---

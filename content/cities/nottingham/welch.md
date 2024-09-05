@@ -1,5 +1,5 @@
 ---
 title: "Welch"
 url: /nottingham/welch/
-shop: florist
+shop: Blumen
 ---

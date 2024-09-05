@@ -1,5 +1,5 @@
 ---
 title: "Frankie's Salon"
 url: /cambridge/frankies-salon/
-shop: hairdresser
+shop: Friseur
 ---

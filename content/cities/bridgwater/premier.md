@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /bridgwater/premier/
-shop: convenience
+shop: Lebensmittel
 ---

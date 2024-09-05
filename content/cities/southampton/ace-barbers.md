@@ -1,5 +1,5 @@
 ---
 title: "Ace Barbers"
 url: /southampton/ace-barbers/
-shop: hairdresser
+shop: Friseur
 ---

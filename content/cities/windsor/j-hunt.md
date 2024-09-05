@@ -1,5 +1,5 @@
 ---
 title: "J. Hunt"
 url: /windsor/j-hunt/
-shop: butcher
+shop: Metzgerei
 ---

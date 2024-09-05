@@ -1,5 +1,5 @@
 ---
 title: "ShoeMaster"
 url: /chorley/shoemaster/
-shop: shoes
+shop: Schuhe
 ---

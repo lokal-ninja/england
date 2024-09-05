@@ -1,5 +1,5 @@
 ---
 title: "HeadQuarters"
 url: /exeter/headquarters/
-shop: hairdresser
+shop: Friseur
 ---

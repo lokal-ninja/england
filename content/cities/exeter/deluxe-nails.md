@@ -1,5 +1,5 @@
 ---
 title: "Deluxe Nails"
 url: /exeter/deluxe-nails/
-shop: beauty
+shop: Kosmetik
 ---

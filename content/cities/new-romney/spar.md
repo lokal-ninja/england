@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /new-romney/spar/
-shop: convenience
+shop: Lebensmittel
 ---

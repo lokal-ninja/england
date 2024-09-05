@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /daventry/tesco/
-shop: supermarket
+shop: Supermarkt
 ---

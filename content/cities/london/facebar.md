@@ -1,5 +1,5 @@
 ---
 title: "facebar"
 url: /london/facebar/
-shop: beauty
+shop: Kosmetik
 ---

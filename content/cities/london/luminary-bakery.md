@@ -1,5 +1,5 @@
 ---
 title: "Luminary Bakery"
 url: /london/luminary-bakery/
-shop: bakery
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hobbycraft"
 url: /reading/hobbycraft/
-shop: craft
+shop: Basteln
 ---

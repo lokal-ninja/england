@@ -1,5 +1,5 @@
 ---
 title: "Raysong"
 url: /london/raysong/
-shop: boutique
+shop: Modehaus
 ---

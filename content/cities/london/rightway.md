@@ -1,5 +1,5 @@
 ---
 title: "Rightway"
 url: /london/rightway/
-shop: electronics
+shop: Elektronik
 ---

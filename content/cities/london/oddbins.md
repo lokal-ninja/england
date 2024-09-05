@@ -1,5 +1,5 @@
 ---
 title: "Oddbins"
 url: /london/oddbins/
-shop: alcohol
+shop: Spirituosen
 ---

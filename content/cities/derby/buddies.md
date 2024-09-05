@@ -1,5 +1,5 @@
 ---
 title: "Buddies"
 url: /derby/buddies/
-shop: florist
+shop: Blumen
 ---

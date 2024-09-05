@@ -1,5 +1,5 @@
 ---
 title: "Setyres"
 url: /lancing/setyres/
-shop: tyres
+shop: Reifen
 ---

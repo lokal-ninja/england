@@ -1,5 +1,5 @@
 ---
 title: "Lancaster Convenience Store"
 url: /lancaster/lancaster-convenience-store/
-shop: convenience
+shop: Lebensmittel
 ---

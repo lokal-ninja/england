@@ -1,5 +1,5 @@
 ---
 title: "Oak Furnitureland"
 url: /plymouth/oak-furnitureland/
-shop: furniture
+shop: Möbel
 ---

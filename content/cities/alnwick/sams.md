@@ -1,5 +1,5 @@
 ---
 title: "Sams"
 url: /alnwick/sams/
-shop: hairdresser
+shop: Friseur
 ---

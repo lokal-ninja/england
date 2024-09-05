@@ -1,5 +1,5 @@
 ---
 title: "Waitrose"
 url: /poole/waitrose/
-shop: supermarket
+shop: Supermarkt
 ---

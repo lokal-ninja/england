@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /camborne/costcutter/
-shop: convenience
+shop: Lebensmittel
 ---

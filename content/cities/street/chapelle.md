@@ -1,5 +1,5 @@
 ---
 title: "chapelle"
 url: /street/chapelle/
-shop: jewelry
+shop: Schmuck
 ---

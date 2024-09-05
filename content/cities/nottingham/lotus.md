@@ -1,5 +1,5 @@
 ---
 title: "Lotus"
 url: /nottingham/lotus/
-shop: beauty
+shop: Kosmetik
 ---

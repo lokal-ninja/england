@@ -1,5 +1,5 @@
 ---
-title: "Hearth To Home"
+title: "Hearth to Home"
 url: /southport/hearth-to-home/
-shop: fireplace
+shop: Kamine & Öfen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "McRoberts Butchers"
 url: /blackpool/mcroberts-butchers/
-shop: butcher
+shop: Metzgerei
 ---

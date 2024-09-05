@@ -1,5 +1,5 @@
 ---
 title: "Apothespa"
 url: /exeter/apothespa/
-shop: beauty
+shop: Kosmetik
 ---

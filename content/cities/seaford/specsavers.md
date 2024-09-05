@@ -1,5 +1,5 @@
 ---
 title: "Specsavers"
 url: /seaford/specsavers/
-shop: optician
+shop: Optiker
 ---

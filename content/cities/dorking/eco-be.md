@@ -1,5 +1,5 @@
 ---
 title: "Eco Be"
 url: /dorking/eco-be/
-shop: convenience
+shop: Lebensmittel
 ---

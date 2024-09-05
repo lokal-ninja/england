@@ -1,5 +1,5 @@
 ---
 title: "Appliances"
 url: /gosport/appliances/
-shop: electrical
+shop: Elektrisch
 ---

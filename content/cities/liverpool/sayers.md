@@ -1,5 +1,5 @@
 ---
 title: "Sayers"
 url: /liverpool/sayers/
-shop: bakery
+shop: Bäckerei
 ---

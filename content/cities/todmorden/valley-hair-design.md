@@ -1,5 +1,5 @@
 ---
 title: "Valley Hair Design"
 url: /todmorden/valley-hair-design/
-shop: hairdresser
+shop: Friseur
 ---

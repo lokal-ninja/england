@@ -1,5 +1,5 @@
 ---
 title: "Fountain Trophies"
 url: /bristol/fountain-trophies/
-shop: trophy
+shop: Pokal
 ---

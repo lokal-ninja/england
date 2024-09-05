@@ -1,5 +1,5 @@
 ---
 title: "CeX"
 url: /london/cex-queensway/
-shop: electronics
+shop: Elektronik
 ---

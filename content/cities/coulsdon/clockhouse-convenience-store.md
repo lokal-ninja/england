@@ -1,5 +1,5 @@
 ---
 title: "Clockhouse Convenience Store"
 url: /coulsdon/clockhouse-convenience-store/
-shop: convenience
+shop: Lebensmittel
 ---

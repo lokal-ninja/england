@@ -1,5 +1,5 @@
 ---
 title: "Star"
 url: /northampton/star/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sainsbury's Local"
 url: /hornchurch/sainsburys-local/
-shop: convenience
+shop: Lebensmittel
 ---

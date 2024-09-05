@@ -1,5 +1,5 @@
 ---
 title: "Peng Succulents"
 url: /penzance/peng-succulents/
-shop: garden centre
+shop: Garten-Center
 ---

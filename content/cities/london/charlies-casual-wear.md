@@ -1,5 +1,5 @@
 ---
 title: "Charlies Casual Wear"
 url: /london/charlies-casual-wear/
-shop: clothes
+shop: Kleidung
 ---

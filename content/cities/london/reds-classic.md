@@ -1,5 +1,5 @@
 ---
 title: "Red's Classic"
 url: /london/reds-classic/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /nantwich/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

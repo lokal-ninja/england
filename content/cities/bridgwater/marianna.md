@@ -1,5 +1,5 @@
 ---
 title: "Marianna"
 url: /bridgwater/marianna/
-shop: convenience
+shop: Lebensmittel
 ---

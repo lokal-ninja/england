@@ -1,5 +1,5 @@
 ---
 title: "Lindt"
 url: /braintree/lindt/
-shop: chocolate
+shop: Schokolade
 ---

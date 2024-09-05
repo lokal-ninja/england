@@ -1,5 +1,5 @@
 ---
 title: "Kitchens of Desire"
 url: /barnoldswick/kitchens-of-desire/
-shop: kitchen
+shop: Küchen
 ---

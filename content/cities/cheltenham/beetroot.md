@@ -1,5 +1,5 @@
 ---
 title: "Beetroot"
 url: /cheltenham/beetroot/
-shop: clothes
+shop: Kleidung
 ---

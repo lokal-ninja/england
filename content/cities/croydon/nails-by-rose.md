@@ -1,5 +1,5 @@
 ---
 title: "Nails By Rose"
 url: /croydon/nails-by-rose/
-shop: beauty
+shop: Kosmetik
 ---

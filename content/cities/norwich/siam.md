@@ -1,5 +1,5 @@
 ---
 title: "Siam"
 url: /norwich/siam/
-shop: hairdresser
+shop: Friseur
 ---

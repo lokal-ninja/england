@@ -1,5 +1,5 @@
 ---
 title: "Swarovski"
 url: /huddersfield/swarovski/
-shop: jewelry
+shop: Schmuck
 ---

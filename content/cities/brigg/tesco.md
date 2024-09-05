@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /brigg/tesco/
-shop: supermarket
+shop: Supermarkt
 ---

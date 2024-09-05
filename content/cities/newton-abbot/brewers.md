@@ -1,5 +1,5 @@
 ---
 title: "Brewers"
 url: /newton-abbot/brewers/
-shop: trade
+shop: Baustoffe
 ---

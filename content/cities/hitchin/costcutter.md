@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /hitchin/costcutter/
-shop: convenience
+shop: Lebensmittel
 ---

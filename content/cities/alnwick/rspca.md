@@ -1,5 +1,5 @@
 ---
 title: "RSPCA"
 url: /alnwick/rspca/
-shop: charity
+shop: Gebrauchtwaren
 ---

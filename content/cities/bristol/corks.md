@@ -1,5 +1,5 @@
 ---
 title: "Corks"
 url: /bristol/corks/
-shop: alcohol
+shop: Spirituosen
 ---

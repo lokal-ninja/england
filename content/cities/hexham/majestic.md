@@ -1,5 +1,5 @@
 ---
 title: "Majestic"
 url: /hexham/majestic/
-shop: alcohol
+shop: Spirituosen
 ---

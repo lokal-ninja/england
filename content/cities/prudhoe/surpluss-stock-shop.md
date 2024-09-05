@@ -1,5 +1,5 @@
 ---
 title: "Surpluss Stock Shop"
 url: /prudhoe/surpluss-stock-shop/
-shop: clothes
+shop: Kleidung
 ---

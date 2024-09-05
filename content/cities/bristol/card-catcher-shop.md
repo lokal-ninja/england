@@ -1,5 +1,5 @@
 ---
 title: "Card Catcher Shop"
 url: /bristol/card-catcher-shop/
-shop: shop
+shop: Allgemein
 ---

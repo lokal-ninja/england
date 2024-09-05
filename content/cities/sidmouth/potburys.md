@@ -1,5 +1,5 @@
 ---
 title: "Potburys"
 url: /sidmouth/potburys/
-shop: furniture
+shop: Möbel
 ---

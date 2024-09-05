@@ -1,5 +1,5 @@
 ---
 title: "Lavinia Shop"
 url: /sheffield/lavinia-shop/
-shop: convenience
+shop: Lebensmittel
 ---

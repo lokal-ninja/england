@@ -1,5 +1,5 @@
 ---
 title: "Jewson"
 url: /huntingdon/jewson/
-shop: trade
+shop: Baustoffe
 ---

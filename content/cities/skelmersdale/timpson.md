@@ -1,5 +1,5 @@
 ---
 title: "Timpson"
 url: /skelmersdale/timpson/
-shop: locksmith
+shop: Schlüsseldienst
 ---

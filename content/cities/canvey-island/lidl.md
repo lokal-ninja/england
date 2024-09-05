@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /canvey-island/lidl/
-shop: supermarket
+shop: Supermarkt
 ---

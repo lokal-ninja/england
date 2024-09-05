@@ -1,5 +1,5 @@
 ---
 title: "Portsmouth Music Academy"
 url: /portsmouth/portsmouth-music-academy/
-shop: music
+shop: Musik
 ---

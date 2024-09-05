@@ -1,5 +1,5 @@
 ---
 title: "Clintons"
 url: /ipswich/clintons/
-shop: gift
+shop: Andenken
 ---

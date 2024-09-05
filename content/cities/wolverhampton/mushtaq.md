@@ -1,5 +1,5 @@
 ---
 title: "Mushtaq"
 url: /wolverhampton/mushtaq/
-shop: confectionery
+shop: Süßwaren
 ---

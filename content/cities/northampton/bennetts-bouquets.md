@@ -1,5 +1,5 @@
 ---
 title: "Bennetts Bouquets"
 url: /northampton/bennetts-bouquets/
-shop: florist
+shop: Blumen
 ---

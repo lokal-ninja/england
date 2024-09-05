@@ -1,5 +1,5 @@
 ---
 title: "Halwa Furqan"
 url: /wembley/halwa-furqan/
-shop: confectionery
+shop: Süßwaren
 ---

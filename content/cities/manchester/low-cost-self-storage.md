@@ -1,5 +1,5 @@
 ---
 title: "Low Cost Self Storage"
 url: /manchester/low-cost-self-storage/
-shop: storage rental
+shop: Mieten
 ---

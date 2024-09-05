@@ -1,5 +1,5 @@
 ---
 title: "Skeltons"
 url: /cromer/skeltons/
-shop: clothes
+shop: Kleidung
 ---

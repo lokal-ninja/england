@@ -1,5 +1,5 @@
 ---
 title: "Pallant Of Arundel"
 url: /arundel/pallant-of-arundel/
-shop: deli
+shop: Feinkost
 ---

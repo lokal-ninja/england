@@ -1,5 +1,5 @@
 ---
 title: "Magdalenka"
 url: /york/magdalenka/
-shop: convenience
+shop: Lebensmittel
 ---

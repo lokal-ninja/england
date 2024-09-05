@@ -1,5 +1,5 @@
 ---
 title: "Beautification"
 url: /nottingham/beautification/
-shop: beauty
+shop: Kosmetik
 ---

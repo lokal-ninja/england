@@ -1,5 +1,5 @@
 ---
 title: "Tickenham Garage"
 url: /clevedon/tickenham-garage/
-shop: car
+shop: Autohaus
 ---

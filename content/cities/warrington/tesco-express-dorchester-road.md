@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /warrington/tesco-express-dorchester-road/
-shop: convenience
+shop: Lebensmittel
 ---

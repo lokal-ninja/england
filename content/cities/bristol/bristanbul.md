@@ -1,5 +1,5 @@
 ---
 title: "Bristanbul"
 url: /bristol/bristanbul/
-shop: pastry
+shop: Konditorei
 ---

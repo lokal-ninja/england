@@ -1,5 +1,5 @@
 ---
 title: "Whirligig"
 url: /brighton/whirligig/
-shop: toys
+shop: Spielzeug
 ---

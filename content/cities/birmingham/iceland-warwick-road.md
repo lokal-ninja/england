@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /birmingham/iceland-warwick-road/
-shop: frozen food
+shop: Tiefkühl
 ---

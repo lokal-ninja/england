@@ -1,5 +1,5 @@
 ---
 title: "Morrisons Daily"
 url: /nottingham/morrisons-daily-burton-road/
-shop: convenience
+shop: Lebensmittel
 ---

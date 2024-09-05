@@ -1,5 +1,5 @@
 ---
 title: "BP"
 url: /solihull/bp/
-shop: convenience
+shop: Lebensmittel
 ---

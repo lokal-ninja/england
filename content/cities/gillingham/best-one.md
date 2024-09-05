@@ -1,5 +1,5 @@
 ---
 title: "Best-one"
 url: /gillingham/best-one/
-shop: convenience
+shop: Lebensmittel
 ---

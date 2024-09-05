@@ -1,5 +1,5 @@
 ---
 title: "Inmotion"
 url: /london/inmotion/
-shop: electronics
+shop: Elektronik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Amplifon"
 url: /warrington/amplifon/
-shop: hearing aids
+shop: Hörgeräte
 ---

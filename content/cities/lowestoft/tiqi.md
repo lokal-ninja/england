@@ -1,5 +1,5 @@
 ---
 title: "TIQI"
 url: /lowestoft/tiqi/
-shop: charity
+shop: Gebrauchtwaren
 ---

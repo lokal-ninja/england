@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /consett/londis/
-shop: convenience
+shop: Lebensmittel
 ---

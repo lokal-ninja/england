@@ -1,5 +1,5 @@
 ---
 title: "Ernie's"
 url: /norwich/ernies/
-shop: convenience
+shop: Lebensmittel
 ---

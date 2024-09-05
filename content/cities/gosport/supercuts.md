@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /gosport/supercuts/
-shop: hairdresser
+shop: Friseur
 ---

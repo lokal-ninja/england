@@ -1,5 +1,5 @@
 ---
 title: "Sole It Lock It"
 url: /workington/sole-it-lock-it/
-shop: shop
+shop: Allgemein
 ---

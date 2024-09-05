@@ -1,5 +1,5 @@
 ---
 title: "nVision"
 url: /blackpool/nvision/
-shop: charity
+shop: Gebrauchtwaren
 ---

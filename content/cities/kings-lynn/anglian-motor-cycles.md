@@ -1,5 +1,5 @@
 ---
 title: "Anglian Motor Cycles"
 url: /kings-lynn/anglian-motor-cycles/
-shop: motorcycle
+shop: Motorrad
 ---

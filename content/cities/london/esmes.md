@@ -1,5 +1,5 @@
 ---
 title: "Esme's"
 url: /london/esmes/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

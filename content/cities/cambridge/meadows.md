@@ -1,5 +1,5 @@
 ---
 title: "Meadows"
 url: /cambridge/meadows/
-shop: deli
+shop: Feinkost
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Feathers"
 url: /maldon/feathers/
-shop: hairdresser
+shop: Friseur
 ---

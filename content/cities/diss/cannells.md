@@ -1,5 +1,5 @@
 ---
 title: "Cannells"
 url: /diss/cannells/
-shop: butcher
+shop: Metzgerei
 ---

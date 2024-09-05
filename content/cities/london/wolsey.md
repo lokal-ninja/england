@@ -1,5 +1,5 @@
 ---
 title: "Wolsey"
 url: /london/wolsey/
-shop: clothes
+shop: Kleidung
 ---

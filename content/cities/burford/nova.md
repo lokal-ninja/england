@@ -1,5 +1,5 @@
 ---
 title: "Nova"
 url: /burford/nova/
-shop: art
+shop: Kunst
 ---

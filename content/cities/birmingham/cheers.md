@@ -1,5 +1,5 @@
 ---
 title: "Cheers"
 url: /birmingham/cheers/
-shop: alcohol
+shop: Spirituosen
 ---

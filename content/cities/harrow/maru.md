@@ -1,5 +1,5 @@
 ---
 title: "Maru"
 url: /harrow/maru/
-shop: hairdresser
+shop: Friseur
 ---

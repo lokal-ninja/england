@@ -1,5 +1,5 @@
 ---
 title: "Hannahs"
 url: /grays/hannahs/
-shop: bakery
+shop: Bäckerei
 ---

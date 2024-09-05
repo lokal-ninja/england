@@ -1,5 +1,5 @@
 ---
 title: "Cutsmith"
 url: /leeds/cutsmith/
-shop: hairdresser
+shop: Friseur
 ---

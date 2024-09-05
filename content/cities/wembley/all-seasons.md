@@ -1,5 +1,5 @@
 ---
 title: "All Seasons"
 url: /wembley/all-seasons/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

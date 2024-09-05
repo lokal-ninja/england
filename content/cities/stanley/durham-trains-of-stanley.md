@@ -1,5 +1,5 @@
 ---
 title: "Durham Trains of Stanley"
 url: /stanley/durham-trains-of-stanley/
-shop: model
+shop: Modellbau
 ---

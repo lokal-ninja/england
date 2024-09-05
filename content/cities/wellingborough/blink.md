@@ -1,5 +1,5 @@
 ---
 title: "Blink"
 url: /wellingborough/blink/
-shop: optician
+shop: Optiker
 ---

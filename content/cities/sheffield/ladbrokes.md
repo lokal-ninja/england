@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /sheffield/ladbrokes/
-shop: bookmaker
+shop: Wettbüro
 ---

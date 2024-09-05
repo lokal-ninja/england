@@ -1,5 +1,5 @@
 ---
 title: "South Tyneside Bathrooms"
 url: /south-shields/south-tyneside-bathrooms/
-shop: bathroom
+shop: Badezimmer
 ---

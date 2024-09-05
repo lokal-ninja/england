@@ -1,5 +1,5 @@
 ---
 title: "Wickes"
 url: /halifax/wickes/
-shop: doityourself
+shop: Baumarkt
 ---

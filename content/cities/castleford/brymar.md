@@ -1,5 +1,5 @@
 ---
 title: "Brymar"
 url: /castleford/brymar/
-shop: electronics
+shop: Elektronik
 ---

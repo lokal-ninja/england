@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /london/ladbrokes-kentish-town-road/
-shop: bookmaker
+shop: Wettbüro
 ---

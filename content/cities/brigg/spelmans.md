@@ -1,5 +1,5 @@
 ---
 title: "Spelmans"
 url: /brigg/spelmans/
-shop: butcher
+shop: Metzgerei
 ---

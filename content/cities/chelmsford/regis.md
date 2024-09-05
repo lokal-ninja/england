@@ -1,5 +1,5 @@
 ---
 title: "Regis"
 url: /chelmsford/regis/
-shop: hairdresser
+shop: Friseur
 ---

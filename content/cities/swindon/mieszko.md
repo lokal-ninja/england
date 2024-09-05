@@ -1,5 +1,5 @@
 ---
 title: "Mieszko"
 url: /swindon/mieszko/
-shop: supermarket
+shop: Supermarkt
 ---

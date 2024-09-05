@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /wellingborough/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

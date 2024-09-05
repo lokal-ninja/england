@@ -1,5 +1,5 @@
 ---
 title: "Anna Rose Wedding Hair"
 url: /billericay/anna-rose-wedding-hair/
-shop: hairdresser
+shop: Friseur
 ---

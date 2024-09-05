@@ -1,5 +1,5 @@
 ---
 title: "Chandni Bazaar"
 url: /nottingham/chandni-bazaar/
-shop: clothes
+shop: Kleidung
 ---

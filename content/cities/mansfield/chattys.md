@@ -1,5 +1,5 @@
 ---
 title: "Chatty's"
 url: /mansfield/chattys/
-shop: hairdresser
+shop: Friseur
 ---

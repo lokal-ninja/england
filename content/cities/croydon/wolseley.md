@@ -1,5 +1,5 @@
 ---
 title: "Wolseley"
 url: /croydon/wolseley/
-shop: trade
+shop: Baustoffe
 ---

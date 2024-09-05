@@ -1,5 +1,5 @@
 ---
 title: "Delta Bargain Bikes"
 url: /birmingham/delta-bargain-bikes/
-shop: bicycle
+shop: Fahrrad
 ---

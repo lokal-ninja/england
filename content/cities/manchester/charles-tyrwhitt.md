@@ -1,5 +1,5 @@
 ---
 title: "Charles Tyrwhitt"
 url: /manchester/charles-tyrwhitt/
-shop: clothes
+shop: Kleidung
 ---

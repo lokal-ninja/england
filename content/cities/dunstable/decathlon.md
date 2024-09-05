@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /dunstable/decathlon/
-shop: sports
+shop: Sport
 ---

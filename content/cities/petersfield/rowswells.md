@@ -1,5 +1,5 @@
 ---
 title: "Rowswells"
 url: /petersfield/rowswells/
-shop: newsagent
+shop: Zeitungen
 ---

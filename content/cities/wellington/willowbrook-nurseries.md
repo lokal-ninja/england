@@ -1,5 +1,5 @@
 ---
 title: "Willowbrook Nurseries"
 url: /wellington/willowbrook-nurseries/
-shop: garden centre
+shop: Garten-Center
 ---

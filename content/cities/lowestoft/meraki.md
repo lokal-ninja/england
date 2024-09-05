@@ -1,5 +1,5 @@
 ---
 title: "Meraki"
 url: /lowestoft/meraki/
-shop: hairdresser
+shop: Friseur
 ---

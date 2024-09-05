@@ -1,5 +1,5 @@
 ---
 title: "Vetraland"
 url: /london/vetraland/
-shop: trade
+shop: Baustoffe
 ---

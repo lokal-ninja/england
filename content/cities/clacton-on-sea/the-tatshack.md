@@ -1,5 +1,5 @@
 ---
 title: "The Tatshack"
 url: /clacton-on-sea/the-tatshack/
-shop: tattoo
+shop: Tattoo
 ---

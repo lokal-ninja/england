@@ -1,5 +1,5 @@
 ---
 title: "vomFASS"
 url: /stamford/vomfass/
-shop: deli
+shop: Feinkost
 ---

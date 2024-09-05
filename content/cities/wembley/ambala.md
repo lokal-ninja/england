@@ -1,5 +1,5 @@
 ---
 title: "Ambala"
 url: /wembley/ambala/
-shop: bakery
+shop: Bäckerei
 ---

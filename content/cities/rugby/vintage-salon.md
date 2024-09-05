@@ -1,5 +1,5 @@
 ---
 title: "Vintage salon"
 url: /rugby/vintage-salon/
-shop: hairdresser
+shop: Friseur
 ---

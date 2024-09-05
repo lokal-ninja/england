@@ -1,5 +1,5 @@
 ---
 title: "Lewisbet"
 url: /stockport/lewisbet/
-shop: bookmaker
+shop: Wettbüro
 ---

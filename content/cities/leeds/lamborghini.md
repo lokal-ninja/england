@@ -1,5 +1,5 @@
 ---
 title: "Lamborghini"
 url: /leeds/lamborghini/
-shop: car
+shop: Autohaus
 ---

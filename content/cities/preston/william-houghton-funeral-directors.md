@@ -1,5 +1,5 @@
 ---
 title: "William Houghton Funeral Directors"
 url: /preston/william-houghton-funeral-directors/
-shop: funeral directors
+shop: Bestattungen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "COS"
 url: /manchester/cos/
-shop: clothes
+shop: Kleidung
 ---

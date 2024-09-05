@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /shanklin/betfred/
-shop: bookmaker
+shop: Wettbüro
 ---

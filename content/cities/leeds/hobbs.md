@@ -1,5 +1,5 @@
 ---
 title: "Hobbs"
 url: /leeds/hobbs/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Transparent"
 url: /portsmouth/transparent/
-shop: shop
+shop: Allgemein
 ---

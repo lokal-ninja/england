@@ -1,5 +1,5 @@
 ---
 title: "Staniforths"
 url: /mexborough/staniforths/
-shop: bakery
+shop: Bäckerei
 ---

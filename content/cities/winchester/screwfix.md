@@ -1,5 +1,5 @@
 ---
 title: "Screwfix"
 url: /winchester/screwfix/
-shop: doityourself
+shop: Baumarkt
 ---

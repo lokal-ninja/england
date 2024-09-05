@@ -1,5 +1,5 @@
 ---
 title: "Stock Feed"
 url: /bradwell/stock-feed/
-shop: pet
+shop: Tiere
 ---

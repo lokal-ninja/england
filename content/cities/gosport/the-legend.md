@@ -1,5 +1,5 @@
 ---
 title: "The Legend"
 url: /gosport/the-legend/
-shop: hairdresser
+shop: Friseur
 ---

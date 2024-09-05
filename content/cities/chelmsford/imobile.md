@@ -1,5 +1,5 @@
 ---
 title: "iMobile"
 url: /chelmsford/imobile/
-shop: mobile phone
+shop: Handy
 ---

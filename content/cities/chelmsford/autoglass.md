@@ -1,5 +1,5 @@
 ---
 title: "Autoglass"
 url: /chelmsford/autoglass/
-shop: car repair
+shop: Autowerkstatt
 ---

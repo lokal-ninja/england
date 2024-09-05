@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /bristol/tesco-express-westbury-hill/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rose's Stores"
 url: /mansfield/roses-stores/
-shop: convenience
+shop: Lebensmittel
 ---

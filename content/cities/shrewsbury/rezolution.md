@@ -1,5 +1,5 @@
 ---
 title: "REZolution"
 url: /shrewsbury/rezolution/
-shop: hairdresser
+shop: Friseur
 ---

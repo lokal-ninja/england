@@ -1,5 +1,5 @@
 ---
 title: "Cherry's Corner"
 url: /cambridge/cherrys-corner/
-shop: hairdresser
+shop: Friseur
 ---

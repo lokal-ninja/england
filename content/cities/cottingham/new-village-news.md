@@ -1,5 +1,5 @@
 ---
 title: "New Village News"
 url: /cottingham/new-village-news/
-shop: newsagent
+shop: Zeitungen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tyre Pros"
 url: /east-grinstead/tyre-pros/
-shop: tyres
+shop: Reifen
 ---

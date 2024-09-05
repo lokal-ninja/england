@@ -1,5 +1,5 @@
 ---
 title: "Jack Wills"
 url: /manchester/jack-wills/
-shop: clothes
+shop: Kleidung
 ---

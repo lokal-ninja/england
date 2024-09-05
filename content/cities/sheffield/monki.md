@@ -1,5 +1,5 @@
 ---
 title: "Monki"
 url: /sheffield/monki/
-shop: clothes
+shop: Kleidung
 ---

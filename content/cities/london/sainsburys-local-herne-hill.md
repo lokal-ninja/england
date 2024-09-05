@@ -1,5 +1,5 @@
 ---
 title: "Sainsbury's Local"
 url: /london/sainsburys-local-herne-hill/
-shop: convenience
+shop: Lebensmittel
 ---

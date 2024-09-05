@@ -1,5 +1,5 @@
 ---
 title: "Rivals"
 url: /birmingham/rivals/
-shop: hairdresser
+shop: Friseur
 ---

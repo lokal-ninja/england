@@ -1,5 +1,5 @@
 ---
 title: "TLC"
 url: /cambridge/tlc/
-shop: hardware
+shop: Eisenwaren
 ---

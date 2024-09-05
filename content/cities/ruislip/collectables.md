@@ -1,5 +1,5 @@
 ---
 title: "Collectables"
 url: /ruislip/collectables/
-shop: antiques
+shop: Antiquitäten
 ---

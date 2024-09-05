@@ -1,5 +1,5 @@
 ---
 title: "PDSA"
 url: /nottingham/pdsa/
-shop: charity
+shop: Gebrauchtwaren
 ---

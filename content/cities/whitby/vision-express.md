@@ -1,5 +1,5 @@
 ---
 title: "Vision Express"
 url: /whitby/vision-express/
-shop: optician
+shop: Optiker
 ---

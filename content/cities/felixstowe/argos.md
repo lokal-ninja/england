@@ -1,5 +1,5 @@
 ---
 title: "Argos"
 url: /felixstowe/argos/
-shop: catalogue
+shop: Katalog
 ---

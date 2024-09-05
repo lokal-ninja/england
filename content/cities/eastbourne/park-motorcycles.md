@@ -1,5 +1,5 @@
 ---
 title: "Park Motorcycles"
 url: /eastbourne/park-motorcycles/
-shop: motorcycle
+shop: Motorrad
 ---

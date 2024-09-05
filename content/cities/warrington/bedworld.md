@@ -1,5 +1,5 @@
 ---
 title: "Bedworld"
 url: /warrington/bedworld/
-shop: bed
+shop: Betten
 ---

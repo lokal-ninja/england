@@ -1,5 +1,5 @@
 ---
 title: "The Tool Box"
 url: /leeds/the-tool-box/
-shop: hardware
+shop: Eisenwaren
 ---

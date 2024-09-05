@@ -1,5 +1,5 @@
 ---
 title: "Wallers"
 url: /london/wallers/
-shop: clothes
+shop: Kleidung
 ---

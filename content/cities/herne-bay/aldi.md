@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /herne-bay/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

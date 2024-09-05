@@ -1,5 +1,5 @@
 ---
 title: "Kids Classics"
 url: /cambridge/kids-classics/
-shop: clothes
+shop: Kleidung
 ---

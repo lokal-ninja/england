@@ -1,5 +1,5 @@
 ---
 title: "Hales"
 url: /frodsham/hales/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

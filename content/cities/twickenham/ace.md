@@ -1,5 +1,5 @@
 ---
 title: "Ace"
 url: /twickenham/ace/
-shop: beauty
+shop: Kosmetik
 ---

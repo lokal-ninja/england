@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /bromley/londis/
-shop: convenience
+shop: Lebensmittel
 ---

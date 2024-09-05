@@ -1,5 +1,5 @@
 ---
 title: "Koutas"
 url: /london/koutas/
-shop: hairdresser
+shop: Friseur
 ---

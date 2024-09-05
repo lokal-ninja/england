@@ -1,5 +1,5 @@
 ---
 title: "Jewson"
 url: /devizes/jewson-london-road/
-shop: trade
+shop: Baustoffe
 ---

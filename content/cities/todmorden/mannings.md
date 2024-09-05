@@ -1,5 +1,5 @@
 ---
 title: "Mannings"
 url: /todmorden/mannings/
-shop: bakery
+shop: Bäckerei
 ---

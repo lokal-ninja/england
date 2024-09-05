@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /walsall/costcutter/
-shop: convenience
+shop: Lebensmittel
 ---

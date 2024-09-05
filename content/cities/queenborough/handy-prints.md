@@ -1,5 +1,5 @@
 ---
 title: "Handy Prints"
 url: /queenborough/handy-prints/
-shop: copyshop
+shop: Kopieren
 ---

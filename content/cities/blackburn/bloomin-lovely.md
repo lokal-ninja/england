@@ -1,5 +1,5 @@
 ---
 title: "Bloomin' Lovely"
 url: /blackburn/bloomin-lovely/
-shop: florist
+shop: Blumen
 ---

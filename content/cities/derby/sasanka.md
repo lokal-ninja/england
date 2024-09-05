@@ -1,5 +1,5 @@
 ---
 title: "Sasanka"
 url: /derby/sasanka/
-shop: convenience
+shop: Lebensmittel
 ---

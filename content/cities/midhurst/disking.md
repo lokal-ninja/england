@@ -1,5 +1,5 @@
 ---
 title: "Disking"
 url: /midhurst/disking/
-shop: computer
+shop: Computer
 ---

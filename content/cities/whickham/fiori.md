@@ -1,5 +1,5 @@
 ---
 title: "Fiori"
 url: /whickham/fiori/
-shop: florist
+shop: Blumen
 ---

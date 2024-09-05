@@ -1,5 +1,5 @@
 ---
 title: "BGbet"
 url: /wellingborough/bgbet/
-shop: bookmaker
+shop: Wettbüro
 ---

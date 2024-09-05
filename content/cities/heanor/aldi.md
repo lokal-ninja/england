@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /heanor/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

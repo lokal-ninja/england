@@ -1,5 +1,5 @@
 ---
 title: "Granny Smiths"
 url: /taunton/granny-smiths/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Marmaris"
 url: /hartlepool/marmaris/
-shop: hairdresser
+shop: Friseur
 ---

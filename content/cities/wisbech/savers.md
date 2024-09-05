@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /wisbech/savers/
-shop: chemist
+shop: Drogerie
 ---

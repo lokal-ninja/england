@@ -1,5 +1,5 @@
 ---
 title: "The Works"
 url: /harlow/the-works/
-shop: books
+shop: Bücher
 ---

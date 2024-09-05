@@ -1,5 +1,5 @@
 ---
 title: "Lakeland"
 url: /grays/lakeland/
-shop: houseware
+shop: Haushaltsartikel
 ---

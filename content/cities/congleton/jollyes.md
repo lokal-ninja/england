@@ -1,5 +1,5 @@
 ---
 title: "Jollyes"
 url: /congleton/jollyes/
-shop: pet
+shop: Tiere
 ---

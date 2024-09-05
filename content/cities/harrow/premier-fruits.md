@@ -1,5 +1,5 @@
 ---
 title: "Premier Fruits"
 url: /harrow/premier-fruits/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

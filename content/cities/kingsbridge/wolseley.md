@@ -1,5 +1,5 @@
 ---
 title: "Wolseley"
 url: /kingsbridge/wolseley/
-shop: trade
+shop: Baustoffe
 ---

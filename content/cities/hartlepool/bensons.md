@@ -1,5 +1,5 @@
 ---
 title: "Bensons"
 url: /hartlepool/bensons/
-shop: shop
+shop: Allgemein
 ---

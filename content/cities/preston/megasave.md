@@ -1,5 +1,5 @@
 ---
 title: "Megasave"
 url: /preston/megasave/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /sheffield/aldi-parkside-shopping-centre/
-shop: supermarket
+shop: Supermarkt
 ---

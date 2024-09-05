@@ -1,5 +1,5 @@
 ---
 title: "Exchange Garage"
 url: /spalding/exchange-garage/
-shop: car
+shop: Autohaus
 ---

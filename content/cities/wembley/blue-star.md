@@ -1,5 +1,5 @@
 ---
 title: "Blue Star"
 url: /wembley/blue-star/
-shop: hairdresser
+shop: Friseur
 ---

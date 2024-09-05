@@ -1,5 +1,5 @@
 ---
 title: "HSL"
 url: /chester/hsl/
-shop: furniture
+shop: Möbel
 ---

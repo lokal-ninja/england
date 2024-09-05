@@ -1,5 +1,5 @@
 ---
 title: "SunSeekers"
 url: /wigan/sunseekers/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tradewize"
 url: /manchester/tradewize/
-shop: wholesale
+shop: Großhandel
 ---

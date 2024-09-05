@@ -1,5 +1,5 @@
 ---
 title: "Vintage Viola"
 url: /warrington/vintage-viola/
-shop: clothes
+shop: Kleidung
 ---

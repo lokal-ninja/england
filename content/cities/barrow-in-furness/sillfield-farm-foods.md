@@ -1,5 +1,5 @@
 ---
 title: "Sillfield Farm Foods"
 url: /barrow-in-furness/sillfield-farm-foods/
-shop: butcher
+shop: Metzgerei
 ---

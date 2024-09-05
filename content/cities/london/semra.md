@@ -1,5 +1,5 @@
 ---
 title: "Semra"
 url: /london/semra/
-shop: hairdresser
+shop: Friseur
 ---

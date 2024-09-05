@@ -1,5 +1,5 @@
 ---
 title: "RSPCA"
 url: /kendal/rspca/
-shop: charity
+shop: Gebrauchtwaren
 ---

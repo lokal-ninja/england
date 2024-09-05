@@ -1,5 +1,5 @@
 ---
 title: "Nature's Way"
 url: /sheffield/natures-way/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

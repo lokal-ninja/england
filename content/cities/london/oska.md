@@ -1,5 +1,5 @@
 ---
 title: "OSKA"
 url: /london/oska/
-shop: clothes
+shop: Kleidung
 ---

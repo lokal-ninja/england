@@ -1,5 +1,5 @@
 ---
 title: "Oxfam"
 url: /wigton/oxfam/
-shop: charity
+shop: Gebrauchtwaren
 ---

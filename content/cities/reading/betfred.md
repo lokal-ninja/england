@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /reading/betfred/
-shop: bookmaker
+shop: Wettbüro
 ---

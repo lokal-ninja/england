@@ -1,5 +1,5 @@
 ---
 title: "St Helena Hospice"
 url: /jaywick/st-helena-hospice/
-shop: charity
+shop: Gebrauchtwaren
 ---

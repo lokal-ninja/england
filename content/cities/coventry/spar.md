@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /coventry/spar/
-shop: supermarket
+shop: Supermarkt
 ---

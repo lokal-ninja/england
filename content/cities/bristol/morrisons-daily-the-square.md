@@ -1,5 +1,5 @@
 ---
 title: "Morrisons Daily"
 url: /bristol/morrisons-daily-the-square/
-shop: convenience
+shop: Lebensmittel
 ---

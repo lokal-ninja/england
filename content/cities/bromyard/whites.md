@@ -1,5 +1,5 @@
 ---
 title: "White's"
 url: /bromyard/whites/
-shop: hairdresser
+shop: Friseur
 ---

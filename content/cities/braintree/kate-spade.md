@@ -1,5 +1,5 @@
 ---
 title: "Kate Spade"
 url: /braintree/kate-spade/
-shop: bag
+shop: Taschen & Koffer
 ---

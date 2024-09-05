@@ -1,5 +1,5 @@
 ---
 title: "The Gold House"
 url: /stockport/the-gold-house/
-shop: pawnbroker
+shop: Leiher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Solitaire"
 url: /sudbury/solitaire/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Taylors Butchers"
 url: /coventry/taylors-butchers/
-shop: butcher
+shop: Metzgerei
 ---

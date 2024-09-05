@@ -1,5 +1,5 @@
 ---
 title: "DFS"
 url: /carlisle/dfs/
-shop: furniture
+shop: Möbel
 ---

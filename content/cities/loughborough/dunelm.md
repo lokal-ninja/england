@@ -1,5 +1,5 @@
 ---
 title: "Dunelm"
 url: /loughborough/dunelm/
-shop: interior decoration
+shop: Raumausstattung
 ---

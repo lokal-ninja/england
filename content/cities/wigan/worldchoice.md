@@ -1,5 +1,5 @@
 ---
 title: "Worldchoice"
 url: /wigan/worldchoice/
-shop: travel agency
+shop: Reisebüro
 ---

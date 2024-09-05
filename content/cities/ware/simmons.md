@@ -1,5 +1,5 @@
 ---
 title: "Simmons"
 url: /ware/simmons/
-shop: bakery
+shop: Bäckerei
 ---

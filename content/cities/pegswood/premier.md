@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /pegswood/premier/
-shop: convenience
+shop: Lebensmittel
 ---

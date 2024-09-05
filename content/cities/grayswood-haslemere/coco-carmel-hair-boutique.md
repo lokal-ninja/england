@@ -1,5 +1,5 @@
 ---
 title: "Coco Carmel Hair Boutique"
 url: /grayswood-haslemere/coco-carmel-hair-boutique/
-shop: hairdresser
+shop: Friseur
 ---

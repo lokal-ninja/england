@@ -1,5 +1,5 @@
 ---
 title: "Majestic"
 url: /beckenham/majestic/
-shop: alcohol
+shop: Spirituosen
 ---

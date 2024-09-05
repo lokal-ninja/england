@@ -1,5 +1,5 @@
 ---
 title: "CEF"
 url: /horsham/cef/
-shop: electrical
+shop: Elektrisch
 ---

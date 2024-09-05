@@ -1,5 +1,5 @@
 ---
 title: "Cook"
 url: /dorking/cook/
-shop: frozen food
+shop: Tiefkühl
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /paignton/betfred/
-shop: bookmaker
+shop: Wettbüro
 ---

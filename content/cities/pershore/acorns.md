@@ -1,5 +1,5 @@
 ---
 title: "Acorns"
 url: /pershore/acorns/
-shop: charity
+shop: Gebrauchtwaren
 ---

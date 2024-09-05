@@ -1,5 +1,5 @@
 ---
 title: "Freeborn"
 url: /horsham/freeborn/
-shop: bicycle
+shop: Fahrrad
 ---

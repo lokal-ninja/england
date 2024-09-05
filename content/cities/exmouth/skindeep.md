@@ -1,5 +1,5 @@
 ---
 title: "Skindeep"
 url: /exmouth/skindeep/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Boots"
 url: /cromer/boots/
-shop: chemist
+shop: Drogerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kleaners"
 url: /castleford/kleaners/
-shop: laundry
+shop: Wäscherei
 ---

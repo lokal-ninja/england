@@ -1,5 +1,5 @@
 ---
 title: "cbs"
 url: /warrington/cbs/
-shop: trade
+shop: Baustoffe
 ---

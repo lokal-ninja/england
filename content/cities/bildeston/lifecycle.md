@@ -1,5 +1,5 @@
 ---
 title: "Lifecycle"
 url: /bildeston/lifecycle/
-shop: bicycle
+shop: Fahrrad
 ---

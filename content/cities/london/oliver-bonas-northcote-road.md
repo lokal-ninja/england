@@ -1,5 +1,5 @@
 ---
 title: "Oliver Bonas"
 url: /london/oliver-bonas-northcote-road/
-shop: clothes
+shop: Kleidung
 ---

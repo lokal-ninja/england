@@ -1,5 +1,5 @@
 ---
 title: "Spikes"
 url: /wakefield/spikes/
-shop: hairdresser
+shop: Friseur
 ---

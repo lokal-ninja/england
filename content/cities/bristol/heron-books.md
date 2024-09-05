@@ -1,5 +1,5 @@
 ---
 title: "Heron Books"
 url: /bristol/heron-books/
-shop: books
+shop: Bücher
 ---

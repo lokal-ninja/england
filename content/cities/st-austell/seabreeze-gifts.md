@@ -1,5 +1,5 @@
 ---
 title: "Seabreeze Gifts"
 url: /st-austell/seabreeze-gifts/
-shop: gift
+shop: Andenken
 ---

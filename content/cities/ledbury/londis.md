@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /ledbury/londis/
-shop: convenience
+shop: Lebensmittel
 ---

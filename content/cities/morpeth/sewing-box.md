@@ -1,5 +1,5 @@
 ---
 title: "Sewing Box"
 url: /morpeth/sewing-box/
-shop: craft
+shop: Basteln
 ---

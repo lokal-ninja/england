@@ -1,5 +1,5 @@
 ---
 title: "Admiral Tees"
 url: /lowestoft/admiral-tees/
-shop: clothes
+shop: Kleidung
 ---

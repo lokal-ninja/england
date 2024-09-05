@@ -1,5 +1,5 @@
 ---
 title: "Salestone"
 url: /brighton/salestone/
-shop: kitchen
+shop: Küchen
 ---

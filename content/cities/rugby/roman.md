@@ -1,5 +1,5 @@
 ---
 title: "Roman"
 url: /rugby/roman/
-shop: clothes
+shop: Kleidung
 ---

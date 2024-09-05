@@ -1,5 +1,5 @@
 ---
 title: "Hobbycraft"
 url: /nottingham/hobbycraft/
-shop: craft
+shop: Basteln
 ---

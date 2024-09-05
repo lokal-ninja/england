@@ -1,5 +1,5 @@
 ---
 title: "The Works"
 url: /chorley/the-works/
-shop: books
+shop: Bücher
 ---

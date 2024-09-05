@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /syston-leicester/tesco/
-shop: supermarket
+shop: Supermarkt
 ---

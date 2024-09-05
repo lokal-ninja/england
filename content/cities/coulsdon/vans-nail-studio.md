@@ -1,5 +1,5 @@
 ---
 title: "Vans Nail Studio"
 url: /coulsdon/vans-nail-studio/
-shop: beauty
+shop: Kosmetik
 ---

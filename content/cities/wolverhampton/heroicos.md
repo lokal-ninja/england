@@ -1,5 +1,5 @@
 ---
 title: "Heroicos"
 url: /wolverhampton/heroicos/
-shop: clothes
+shop: Kleidung
 ---

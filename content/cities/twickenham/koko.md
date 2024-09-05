@@ -1,5 +1,5 @@
 ---
 title: "Koko"
 url: /twickenham/koko/
-shop: beauty
+shop: Kosmetik
 ---

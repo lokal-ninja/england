@@ -1,5 +1,5 @@
 ---
 title: "Graduates Schoolwear"
 url: /orpington/graduates-schoolwear/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Samaritans"
 url: /ipswich/samaritans/
-shop: charity
+shop: Gebrauchtwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Next"
 url: /mansfield/next/
-shop: clothes
+shop: Kleidung
 ---

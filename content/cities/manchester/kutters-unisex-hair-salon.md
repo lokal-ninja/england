@@ -1,5 +1,5 @@
 ---
 title: "Kutters Unisex Hair Salon"
 url: /manchester/kutters-unisex-hair-salon/
-shop: hairdresser
+shop: Friseur
 ---

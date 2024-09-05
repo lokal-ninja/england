@@ -1,5 +1,5 @@
 ---
 title: "claire's"
 url: /norwich/claires-saint-stephens-arcade/
-shop: boutique
+shop: Modehaus
 ---

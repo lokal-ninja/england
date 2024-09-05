@@ -1,5 +1,5 @@
 ---
 title: "Chandlers"
 url: /godalming/chandlers/
-shop: optician
+shop: Optiker
 ---

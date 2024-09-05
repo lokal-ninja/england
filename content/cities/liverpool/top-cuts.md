@@ -1,5 +1,5 @@
 ---
 title: "Top Cuts"
 url: /liverpool/top-cuts/
-shop: hairdresser
+shop: Friseur
 ---

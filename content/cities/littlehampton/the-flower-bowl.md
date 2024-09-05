@@ -1,5 +1,5 @@
 ---
 title: "The Flower Bowl"
 url: /littlehampton/the-flower-bowl/
-shop: florist
+shop: Blumen
 ---

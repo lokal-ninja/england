@@ -1,5 +1,5 @@
 ---
 title: "Paternoster Farm Shop"
 url: /yarnton/paternoster-farm-shop/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lamborghini"
 url: /chelmsford/lamborghini/
-shop: car
+shop: Autohaus
 ---

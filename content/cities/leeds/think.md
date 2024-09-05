@@ -1,5 +1,5 @@
 ---
 title: "think"
 url: /leeds/think/
-shop: shop
+shop: Allgemein
 ---

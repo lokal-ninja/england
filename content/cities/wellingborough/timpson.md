@@ -1,5 +1,5 @@
 ---
 title: "Timpson"
 url: /wellingborough/timpson/
-shop: locksmith
+shop: Schlüsseldienst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tuck Shop"
 url: /suffolk/tuck-shop/
-shop: convenience
+shop: Lebensmittel
 ---

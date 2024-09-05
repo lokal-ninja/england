@@ -1,5 +1,5 @@
 ---
 title: "Gardenman"
 url: /lowestoft/gardenman/
-shop: furniture
+shop: Möbel
 ---

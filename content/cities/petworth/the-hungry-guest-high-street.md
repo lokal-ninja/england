@@ -1,5 +1,5 @@
 ---
 title: "The Hungry Guest"
 url: /petworth/the-hungry-guest-high-street/
-shop: seafood
+shop: Fisch
 ---

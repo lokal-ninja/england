@@ -1,5 +1,5 @@
 ---
 title: "Millets"
 url: /hexham/millets/
-shop: outdoor
+shop: Outdoor
 ---

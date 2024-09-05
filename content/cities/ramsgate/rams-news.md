@@ -1,5 +1,5 @@
 ---
 title: "Rams News"
 url: /ramsgate/rams-news/
-shop: convenience
+shop: Lebensmittel
 ---

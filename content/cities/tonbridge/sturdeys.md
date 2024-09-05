@@ -1,5 +1,5 @@
 ---
 title: "Sturdeys"
 url: /tonbridge/sturdeys/
-shop: motorcycle
+shop: Motorrad
 ---

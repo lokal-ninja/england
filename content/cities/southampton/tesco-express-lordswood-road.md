@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /southampton/tesco-express-lordswood-road/
-shop: convenience
+shop: Lebensmittel
 ---

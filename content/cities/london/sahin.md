@@ -1,5 +1,5 @@
 ---
 title: "Sahin"
 url: /london/sahin/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sharps"
 url: /reading/sharps/
-shop: furniture
+shop: Möbel
 ---

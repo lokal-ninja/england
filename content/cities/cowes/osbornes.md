@@ -1,5 +1,5 @@
 ---
 title: "Osbornes"
 url: /cowes/osbornes/
-shop: clothes
+shop: Kleidung
 ---

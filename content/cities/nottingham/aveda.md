@@ -1,5 +1,5 @@
 ---
 title: "Aveda"
 url: /nottingham/aveda/
-shop: hairdresser
+shop: Friseur
 ---

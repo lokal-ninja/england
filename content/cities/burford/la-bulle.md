@@ -1,5 +1,5 @@
 ---
 title: "La Bulle"
 url: /burford/la-bulle/
-shop: bag
+shop: Taschen & Koffer
 ---

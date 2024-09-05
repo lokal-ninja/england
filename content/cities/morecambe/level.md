@@ -1,5 +1,5 @@
 ---
 title: "Level"
 url: /morecambe/level/
-shop: hairdresser
+shop: Friseur
 ---

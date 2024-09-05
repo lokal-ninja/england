@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /ely/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

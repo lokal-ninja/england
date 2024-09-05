@@ -1,5 +1,5 @@
 ---
 title: "Revival"
 url: /southwater/revival/
-shop: laundry
+shop: Wäscherei
 ---

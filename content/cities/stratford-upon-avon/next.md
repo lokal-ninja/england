@@ -1,5 +1,5 @@
 ---
 title: "Next"
 url: /stratford-upon-avon/next/
-shop: clothes
+shop: Kleidung
 ---

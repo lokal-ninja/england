@@ -1,5 +1,5 @@
 ---
 title: "Longfield"
 url: /tewkesbury/longfield/
-shop: charity
+shop: Gebrauchtwaren
 ---

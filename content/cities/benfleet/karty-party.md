@@ -1,5 +1,5 @@
 ---
 title: "Karty Party"
 url: /benfleet/karty-party/
-shop: party
+shop: Partyzubehör
 ---

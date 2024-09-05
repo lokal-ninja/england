@@ -1,5 +1,5 @@
 ---
 title: "Dimos"
 url: /warwick/dimos/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "A Plus Superstore"
 url: /wembley/a-plus-superstore/
-shop: convenience
+shop: Lebensmittel
 ---

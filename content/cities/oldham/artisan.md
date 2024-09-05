@@ -1,5 +1,5 @@
 ---
 title: "Artisan"
 url: /oldham/artisan/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /wakefield/coral/
-shop: bookmaker
+shop: Wettbüro
 ---

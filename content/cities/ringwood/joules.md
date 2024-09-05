@@ -1,5 +1,5 @@
 ---
 title: "Joules"
 url: /ringwood/joules/
-shop: clothes
+shop: Kleidung
 ---

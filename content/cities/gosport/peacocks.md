@@ -1,5 +1,5 @@
 ---
 title: "Peacocks"
 url: /gosport/peacocks/
-shop: clothes
+shop: Kleidung
 ---

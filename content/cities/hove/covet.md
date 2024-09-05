@@ -1,5 +1,5 @@
 ---
 title: "covet"
 url: /hove/covet/
-shop: clothes
+shop: Kleidung
 ---

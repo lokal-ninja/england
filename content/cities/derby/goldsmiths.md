@@ -1,5 +1,5 @@
 ---
 title: "Goldsmiths"
 url: /derby/goldsmiths/
-shop: jewelry
+shop: Schmuck
 ---

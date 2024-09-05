@@ -1,5 +1,5 @@
 ---
 title: "Magnet"
 url: /nottingham/magnet/
-shop: hardware
+shop: Eisenwaren
 ---

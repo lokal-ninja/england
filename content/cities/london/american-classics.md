@@ -1,5 +1,5 @@
 ---
 title: "American Classics"
 url: /london/american-classics/
-shop: clothes
+shop: Kleidung
 ---

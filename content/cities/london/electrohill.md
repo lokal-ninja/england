@@ -1,5 +1,5 @@
 ---
 title: "Electrohill"
 url: /london/electrohill/
-shop: musical instrument
+shop: Instrumente
 ---

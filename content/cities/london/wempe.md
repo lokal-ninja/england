@@ -1,5 +1,5 @@
 ---
 title: "Wempe"
 url: /london/wempe/
-shop: jewelry
+shop: Schmuck
 ---

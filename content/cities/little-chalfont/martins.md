@@ -1,5 +1,5 @@
 ---
 title: "Martin's"
 url: /little-chalfont/martins/
-shop: newsagent
+shop: Zeitungen
 ---

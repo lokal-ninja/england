@@ -1,5 +1,5 @@
 ---
 title: "Berties"
 url: /leiston/berties/
-shop: hairdresser
+shop: Friseur
 ---

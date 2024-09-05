@@ -1,5 +1,5 @@
 ---
 title: "The Smart Exchange"
 url: /pershore/the-smart-exchange/
-shop: clothes
+shop: Kleidung
 ---

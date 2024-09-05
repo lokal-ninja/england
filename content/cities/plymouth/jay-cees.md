@@ -1,5 +1,5 @@
 ---
 title: "Jay Cee's"
 url: /plymouth/jay-cees/
-shop: hairdresser
+shop: Friseur
 ---

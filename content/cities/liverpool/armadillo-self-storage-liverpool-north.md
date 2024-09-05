@@ -1,5 +1,5 @@
 ---
 title: "Armadillo Self Storage Liverpool North"
 url: /liverpool/armadillo-self-storage-liverpool-north/
-shop: storage rental
+shop: Mieten
 ---

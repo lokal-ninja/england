@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /birmingham/coral-high-street/
-shop: bookmaker
+shop: Wettbüro
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AllSaints"
 url: /exeter/allsaints/
-shop: clothes
+shop: Kleidung
 ---

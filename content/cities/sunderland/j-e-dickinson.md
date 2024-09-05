@@ -1,5 +1,5 @@
 ---
 title: "J E Dickinson"
 url: /sunderland/j-e-dickinson/
-shop: optician
+shop: Optiker
 ---

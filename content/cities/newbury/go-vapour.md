@@ -1,5 +1,5 @@
 ---
 title: "Go-Vapour"
 url: /newbury/go-vapour/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

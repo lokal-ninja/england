@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /whitchurch/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

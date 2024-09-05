@@ -1,5 +1,5 @@
 ---
 title: "Menkind"
 url: /eastbourne/menkind/
-shop: toys
+shop: Spielzeug
 ---

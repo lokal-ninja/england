@@ -1,5 +1,5 @@
 ---
 title: "Geisha"
 url: /matlock/geisha/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Urban"
 url: /derby/urban/
-shop: clothes
+shop: Kleidung
 ---

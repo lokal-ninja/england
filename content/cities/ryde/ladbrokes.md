@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /ryde/ladbrokes/
-shop: bookmaker
+shop: Wettbüro
 ---

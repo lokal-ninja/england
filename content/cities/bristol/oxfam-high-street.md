@@ -1,5 +1,5 @@
 ---
 title: "Oxfam"
 url: /bristol/oxfam-high-street/
-shop: charity
+shop: Gebrauchtwaren
 ---

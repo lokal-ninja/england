@@ -1,5 +1,5 @@
 ---
 title: "SMKD"
 url: /leeds/smkd/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

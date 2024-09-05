@@ -1,5 +1,5 @@
 ---
 title: "Hursts"
 url: /leeds/hursts/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Grimsby Tanning Studio"
 url: /grimsby/grimsby-tanning-studio/
-shop: beauty
+shop: Kosmetik
 ---

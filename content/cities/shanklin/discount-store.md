@@ -1,5 +1,5 @@
 ---
 title: "Discount Store"
 url: /shanklin/discount-store/
-shop: gift
+shop: Andenken
 ---

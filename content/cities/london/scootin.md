@@ -1,5 +1,5 @@
 ---
 title: "Scootin"
 url: /london/scootin/
-shop: motorcycle
+shop: Motorrad
 ---

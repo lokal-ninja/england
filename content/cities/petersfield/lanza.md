@@ -1,5 +1,5 @@
 ---
 title: "Lanza"
 url: /petersfield/lanza/
-shop: shop
+shop: Allgemein
 ---

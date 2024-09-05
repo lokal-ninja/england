@@ -1,5 +1,5 @@
 ---
 title: "exeterkitchenstore"
 url: /exeter/exeterkitchenstore/
-shop: kitchen
+shop: Küchen
 ---

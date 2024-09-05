@@ -1,5 +1,5 @@
 ---
 title: "Final Frontier"
 url: /plymouth/final-frontier/
-shop: collector
+shop: Sammler
 ---

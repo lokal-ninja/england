@@ -1,5 +1,5 @@
 ---
 title: "Gemini"
 url: /london/gemini/
-shop: beauty
+shop: Kosmetik
 ---

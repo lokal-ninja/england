@@ -1,5 +1,5 @@
 ---
 title: "World of Beds"
 url: /norwich/world-of-beds/
-shop: furniture
+shop: Möbel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Curated"
 url: /bristol/curated/
-shop: antiques
+shop: Antiquitäten
 ---

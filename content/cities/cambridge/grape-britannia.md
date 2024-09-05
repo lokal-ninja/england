@@ -1,5 +1,5 @@
 ---
 title: "Grape Britannia"
 url: /cambridge/grape-britannia/
-shop: wine
+shop: Wein
 ---

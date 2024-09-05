@@ -1,5 +1,5 @@
 ---
 title: "Majestic"
 url: /darlington/majestic/
-shop: alcohol
+shop: Spirituosen
 ---

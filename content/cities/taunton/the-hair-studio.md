@@ -1,5 +1,5 @@
 ---
 title: "The Hair Studio"
 url: /taunton/the-hair-studio/
-shop: hairdresser
+shop: Friseur
 ---

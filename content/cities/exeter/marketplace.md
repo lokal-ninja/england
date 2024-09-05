@@ -1,5 +1,5 @@
 ---
 title: "Marketplace"
 url: /exeter/marketplace/
-shop: convenience
+shop: Lebensmittel
 ---

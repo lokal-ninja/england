@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /gosport/coral/
-shop: bookmaker
+shop: Wettbüro
 ---

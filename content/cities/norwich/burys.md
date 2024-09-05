@@ -1,5 +1,5 @@
 ---
 title: "Burys"
 url: /norwich/burys/
-shop: convenience
+shop: Lebensmittel
 ---

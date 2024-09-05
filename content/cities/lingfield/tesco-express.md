@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /lingfield/tesco-express/
-shop: convenience
+shop: Lebensmittel
 ---

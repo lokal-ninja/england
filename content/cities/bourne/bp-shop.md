@@ -1,5 +1,5 @@
 ---
 title: "BP Shop"
 url: /bourne/bp-shop/
-shop: convenience
+shop: Lebensmittel
 ---

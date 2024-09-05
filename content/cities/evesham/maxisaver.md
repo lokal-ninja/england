@@ -1,5 +1,5 @@
 ---
 title: "MaxiSaver"
 url: /evesham/maxisaver/
-shop: variety store
+shop: Kramladen
 ---

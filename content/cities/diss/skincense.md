@@ -1,5 +1,5 @@
 ---
 title: "Skincense"
 url: /diss/skincense/
-shop: antiques
+shop: Antiquitäten
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Guelder Rose"
 url: /swindon/the-guelder-rose/
-shop: florist
+shop: Blumen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ShopRite"
 url: /oldham/shoprite/
-shop: convenience
+shop: Lebensmittel
 ---

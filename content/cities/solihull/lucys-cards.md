@@ -1,5 +1,5 @@
 ---
 title: "Lucy's Cards"
 url: /solihull/lucys-cards/
-shop: gift
+shop: Andenken
 ---

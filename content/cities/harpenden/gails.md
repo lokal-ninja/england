@@ -1,5 +1,5 @@
 ---
 title: "GAIL's"
 url: /harpenden/gails/
-shop: bakery
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Indulge"
 url: /ashton-in-makerfield/indulge/
-shop: hairdresser
+shop: Friseur
 ---

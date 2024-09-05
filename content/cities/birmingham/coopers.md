@@ -1,5 +1,5 @@
 ---
 title: "Coopers"
 url: /birmingham/coopers/
-shop: butcher
+shop: Metzgerei
 ---

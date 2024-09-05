@@ -1,5 +1,5 @@
 ---
 title: "JYSK"
 url: /st-helens/jysk/
-shop: furniture
+shop: Möbel
 ---

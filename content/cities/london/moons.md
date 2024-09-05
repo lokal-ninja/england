@@ -1,5 +1,5 @@
 ---
 title: "Moons"
 url: /london/moons/
-shop: hairdresser
+shop: Friseur
 ---

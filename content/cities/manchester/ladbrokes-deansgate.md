@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /manchester/ladbrokes-deansgate/
-shop: bookmaker
+shop: Wettbüro
 ---

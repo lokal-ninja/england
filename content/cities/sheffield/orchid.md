@@ -1,5 +1,5 @@
 ---
 title: "Orchid"
 url: /sheffield/orchid/
-shop: hairdresser
+shop: Friseur
 ---

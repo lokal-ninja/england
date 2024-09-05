@@ -1,5 +1,5 @@
 ---
 title: "Hammersound"
 url: /birkenhead/hammersound/
-shop: musical instrument
+shop: Instrumente
 ---

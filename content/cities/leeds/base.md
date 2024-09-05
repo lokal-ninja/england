@@ -1,5 +1,5 @@
 ---
 title: "Base"
 url: /leeds/base/
-shop: beauty
+shop: Kosmetik
 ---

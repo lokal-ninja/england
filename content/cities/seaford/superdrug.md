@@ -1,5 +1,5 @@
 ---
 title: "Superdrug"
 url: /seaford/superdrug/
-shop: chemist
+shop: Drogerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tranquility"
 url: /wakefield/tranquility/
-shop: beauty
+shop: Kosmetik
 ---

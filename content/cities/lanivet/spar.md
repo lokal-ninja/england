@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /lanivet/spar/
-shop: convenience
+shop: Lebensmittel
 ---

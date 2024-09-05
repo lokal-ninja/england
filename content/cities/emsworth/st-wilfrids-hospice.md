@@ -1,5 +1,5 @@
 ---
 title: "St Wilfrid's Hospice"
 url: /emsworth/st-wilfrids-hospice/
-shop: charity
+shop: Gebrauchtwaren
 ---

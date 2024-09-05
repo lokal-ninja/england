@@ -1,5 +1,5 @@
 ---
 title: "MADE"
 url: /batley/made/
-shop: furniture
+shop: Möbel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Plumbstop"
 url: /cirencester/plumbstop-esland-place/
-shop: trade
+shop: Baustoffe
 ---

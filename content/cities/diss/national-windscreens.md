@@ -1,5 +1,5 @@
 ---
 title: "National Windscreens"
 url: /diss/national-windscreens/
-shop: car repair
+shop: Autowerkstatt
 ---

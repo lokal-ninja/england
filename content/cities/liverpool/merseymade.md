@@ -1,5 +1,5 @@
 ---
 title: "Merseymade"
 url: /liverpool/merseymade/
-shop: gift
+shop: Andenken
 ---

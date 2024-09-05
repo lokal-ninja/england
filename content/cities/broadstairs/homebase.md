@@ -1,5 +1,5 @@
 ---
 title: "Homebase"
 url: /broadstairs/homebase/
-shop: doityourself
+shop: Baumarkt
 ---

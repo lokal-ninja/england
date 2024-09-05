@@ -1,5 +1,5 @@
 ---
 title: "Majestic"
 url: /harpenden/majestic/
-shop: alcohol
+shop: Spirituosen
 ---

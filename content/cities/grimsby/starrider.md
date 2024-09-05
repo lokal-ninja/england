@@ -1,5 +1,5 @@
 ---
 title: "StarRider"
 url: /grimsby/starrider/
-shop: books
+shop: Bücher
 ---

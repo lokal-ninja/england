@@ -1,5 +1,5 @@
 ---
 title: "Amabillia"
 url: /ilford/amabillia/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Welcome Store"
 url: /bolton/welcome-store/
-shop: convenience
+shop: Lebensmittel
 ---

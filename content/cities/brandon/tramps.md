@@ -1,5 +1,5 @@
 ---
 title: "Tramps"
 url: /brandon/tramps/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Signature"
 url: /pontefract/signature/
-shop: clothes
+shop: Kleidung
 ---

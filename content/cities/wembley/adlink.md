@@ -1,5 +1,5 @@
 ---
 title: "Adlink"
 url: /wembley/adlink/
-shop: trade
+shop: Baustoffe
 ---

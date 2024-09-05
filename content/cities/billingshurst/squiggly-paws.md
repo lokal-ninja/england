@@ -1,5 +1,5 @@
 ---
 title: "Squiggly Paws"
 url: /billingshurst/squiggly-paws/
-shop: pet grooming
+shop: Tiersalon
 ---

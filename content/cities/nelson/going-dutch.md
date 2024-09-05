@@ -1,5 +1,5 @@
 ---
 title: "Going Dutch"
 url: /nelson/going-dutch/
-shop: florist
+shop: Blumen
 ---

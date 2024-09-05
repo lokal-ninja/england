@@ -1,5 +1,5 @@
 ---
 title: "Friends Butcher"
 url: /enfield/friends-butcher/
-shop: butcher
+shop: Metzgerei
 ---

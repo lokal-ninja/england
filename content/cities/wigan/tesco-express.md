@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /wigan/tesco-express/
-shop: convenience
+shop: Lebensmittel
 ---

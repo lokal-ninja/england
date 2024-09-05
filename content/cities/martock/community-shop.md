@@ -1,5 +1,5 @@
 ---
 title: "Community Shop"
 url: /martock/community-shop/
-shop: convenience
+shop: Lebensmittel
 ---

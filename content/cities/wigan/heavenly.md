@@ -1,5 +1,5 @@
 ---
 title: "Heavenly"
 url: /wigan/heavenly/
-shop: beauty
+shop: Kosmetik
 ---

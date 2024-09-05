@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /hythe/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

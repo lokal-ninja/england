@@ -1,5 +1,5 @@
 ---
 title: "Gillams Wholesale Butchers"
 url: /leeds/gillams-wholesale-butchers/
-shop: butcher
+shop: Metzgerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SIG Roofing"
 url: /grimsby/sig-roofing/
-shop: trade
+shop: Baustoffe
 ---

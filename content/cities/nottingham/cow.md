@@ -1,5 +1,5 @@
 ---
 title: "COW"
 url: /nottingham/cow/
-shop: clothes
+shop: Kleidung
 ---

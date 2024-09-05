@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /tilbury/tesco-express/
-shop: convenience
+shop: Lebensmittel
 ---

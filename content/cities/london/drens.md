@@ -1,5 +1,5 @@
 ---
 title: "Drens"
 url: /london/drens/
-shop: curtain
+shop: Gardinen
 ---

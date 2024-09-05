@@ -1,5 +1,5 @@
 ---
 title: "Green City"
 url: /brighton/green-city/
-shop: convenience
+shop: Lebensmittel
 ---

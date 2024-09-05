@@ -1,5 +1,5 @@
 ---
 title: "Jollyes"
 url: /st-helens/jollyes/
-shop: pet
+shop: Tiere
 ---

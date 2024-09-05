@@ -1,5 +1,5 @@
 ---
 title: "DAPP"
 url: /derby/dapp/
-shop: charity
+shop: Gebrauchtwaren
 ---

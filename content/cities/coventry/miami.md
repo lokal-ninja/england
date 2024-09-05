@@ -1,5 +1,5 @@
 ---
 title: "Miami"
 url: /coventry/miami/
-shop: beauty
+shop: Kosmetik
 ---

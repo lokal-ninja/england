@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /winlaton/premier/
-shop: convenience
+shop: Lebensmittel
 ---

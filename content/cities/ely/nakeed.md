@@ -1,5 +1,5 @@
 ---
 title: "Nakeed"
 url: /ely/nakeed/
-shop: convenience
+shop: Lebensmittel
 ---

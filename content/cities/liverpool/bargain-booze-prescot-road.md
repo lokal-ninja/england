@@ -1,5 +1,5 @@
 ---
 title: "Bargain Booze"
 url: /liverpool/bargain-booze-prescot-road/
-shop: alcohol
+shop: Spirituosen
 ---

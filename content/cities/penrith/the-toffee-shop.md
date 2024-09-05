@@ -1,5 +1,5 @@
 ---
 title: "The Toffee Shop"
 url: /penrith/the-toffee-shop/
-shop: confectionery
+shop: Süßwaren
 ---

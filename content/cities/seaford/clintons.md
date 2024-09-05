@@ -1,5 +1,5 @@
 ---
 title: "Clintons"
 url: /seaford/clintons/
-shop: gift
+shop: Andenken
 ---

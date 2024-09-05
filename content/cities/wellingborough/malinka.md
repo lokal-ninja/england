@@ -1,5 +1,5 @@
 ---
 title: "Malinka"
 url: /wellingborough/malinka/
-shop: convenience
+shop: Lebensmittel
 ---

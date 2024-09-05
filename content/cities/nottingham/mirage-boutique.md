@@ -1,5 +1,5 @@
 ---
 title: "Mirage Boutique"
 url: /nottingham/mirage-boutique/
-shop: clothes
+shop: Kleidung
 ---

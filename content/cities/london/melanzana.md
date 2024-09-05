@@ -1,5 +1,5 @@
 ---
 title: "Melanzana"
 url: /london/melanzana/
-shop: deli
+shop: Feinkost
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Friary Mill"
 url: /plymouth/friary-mill-oakfield-place/
-shop: bakery
+shop: Bäckerei
 ---

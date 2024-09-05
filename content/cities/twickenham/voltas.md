@@ -1,5 +1,5 @@
 ---
 title: "Volta's"
 url: /twickenham/voltas/
-shop: beauty
+shop: Kosmetik
 ---

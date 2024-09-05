@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /abingdon/whsmith/
-shop: newsagent
+shop: Zeitungen
 ---

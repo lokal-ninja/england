@@ -1,5 +1,5 @@
 ---
 title: "Pravin's Convenience Store"
 url: /bolton/pravins-convenience-store/
-shop: convenience
+shop: Lebensmittel
 ---

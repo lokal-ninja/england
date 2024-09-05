@@ -1,5 +1,5 @@
 ---
 title: "Potters"
 url: /bristol/potters/
-shop: pottery
+shop: Töpferei
 ---

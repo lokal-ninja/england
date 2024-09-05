@@ -1,5 +1,5 @@
 ---
 title: "Mirage"
 url: /sheffield/mirage-handsworth-road/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

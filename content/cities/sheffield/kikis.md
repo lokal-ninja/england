@@ -1,5 +1,5 @@
 ---
 title: "Kiki's"
 url: /sheffield/kikis/
-shop: confectionery
+shop: Süßwaren
 ---

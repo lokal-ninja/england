@@ -1,5 +1,5 @@
 ---
 title: "żabka"
 url: /london/zabka/
-shop: deli
+shop: Feinkost
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /bedford/tesco-express-midland-road/
-shop: convenience
+shop: Lebensmittel
 ---

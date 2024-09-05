@@ -1,5 +1,5 @@
 ---
 title: "Nottingham Jewellers"
 url: /knaresborough/nottingham-jewellers/
-shop: jewelry
+shop: Schmuck
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hokum"
 url: /shrewsbury/hokum/
-shop: hairdresser
+shop: Friseur
 ---

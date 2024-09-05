@@ -1,5 +1,5 @@
 ---
 title: "Abacus"
 url: /derby/abacus/
-shop: tattoo
+shop: Tattoo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MiHome"
 url: /romford/mihome/
-shop: furniture
+shop: Möbel
 ---

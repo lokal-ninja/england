@@ -1,5 +1,5 @@
 ---
 title: "Swordfish"
 url: /birmingham/swordfish/
-shop: music
+shop: Musik
 ---

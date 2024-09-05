@@ -1,5 +1,5 @@
 ---
 title: "dry."
 url: /shrewsbury/dry/
-shop: vacant
+shop: Leerstehend
 ---

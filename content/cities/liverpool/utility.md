@@ -1,5 +1,5 @@
 ---
 title: "Utility"
 url: /liverpool/utility/
-shop: houseware
+shop: Haushaltsartikel
 ---

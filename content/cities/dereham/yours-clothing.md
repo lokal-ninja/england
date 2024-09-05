@@ -1,5 +1,5 @@
 ---
 title: "Yours Clothing"
 url: /dereham/yours-clothing/
-shop: clothes
+shop: Kleidung
 ---

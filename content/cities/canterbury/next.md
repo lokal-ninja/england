@@ -1,5 +1,5 @@
 ---
 title: "Next"
 url: /canterbury/next/
-shop: clothes
+shop: Kleidung
 ---

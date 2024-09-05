@@ -1,5 +1,5 @@
 ---
 title: "Lakeside Convenience Stores"
 url: /wellingborough/lakeside-convenience-stores/
-shop: convenience
+shop: Lebensmittel
 ---

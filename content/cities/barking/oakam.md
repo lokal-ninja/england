@@ -1,5 +1,5 @@
 ---
 title: "Oakam"
 url: /barking/oakam/
-shop: pawnbroker
+shop: Leiher
 ---

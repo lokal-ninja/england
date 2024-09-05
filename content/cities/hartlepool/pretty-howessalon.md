@@ -1,5 +1,5 @@
 ---
 title: "Pretty Howe'sSalon"
 url: /hartlepool/pretty-howessalon/
-shop: hairdresser
+shop: Friseur
 ---

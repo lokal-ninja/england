@@ -1,5 +1,5 @@
 ---
 title: "Icons"
 url: /hull/icons/
-shop: hairdresser
+shop: Friseur
 ---

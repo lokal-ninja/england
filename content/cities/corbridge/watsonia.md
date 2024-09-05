@@ -1,5 +1,5 @@
 ---
 title: "Watsonia"
 url: /corbridge/watsonia/
-shop: florist
+shop: Blumen
 ---

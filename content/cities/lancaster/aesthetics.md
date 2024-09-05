@@ -1,5 +1,5 @@
 ---
 title: "Aesthetics"
 url: /lancaster/aesthetics/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CoMoKy"
 url: /ripley/comoky/
-shop: beauty
+shop: Kosmetik
 ---

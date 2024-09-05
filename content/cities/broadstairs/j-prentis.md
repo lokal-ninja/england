@@ -1,5 +1,5 @@
 ---
 title: "J. Prentis"
 url: /broadstairs/j-prentis/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

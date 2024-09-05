@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /st-ives/tesco-express/
-shop: convenience
+shop: Lebensmittel
 ---

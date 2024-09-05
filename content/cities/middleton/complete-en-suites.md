@@ -1,5 +1,5 @@
 ---
 title: "Complete En-Suites"
 url: /middleton/complete-en-suites/
-shop: bathroom
+shop: Badezimmer
 ---

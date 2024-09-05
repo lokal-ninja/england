@@ -1,5 +1,5 @@
 ---
 title: "Delmar"
 url: /harwich/delmar/
-shop: clothes
+shop: Kleidung
 ---

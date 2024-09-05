@@ -1,5 +1,5 @@
 ---
 title: "Beacon Electrical"
 url: /south-shields/beacon-electrical/
-shop: electrical
+shop: Elektrisch
 ---

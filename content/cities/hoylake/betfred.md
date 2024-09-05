@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /hoylake/betfred/
-shop: bookmaker
+shop: Wettbüro
 ---

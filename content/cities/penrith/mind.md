@@ -1,5 +1,5 @@
 ---
 title: "Mind"
 url: /penrith/mind/
-shop: charity
+shop: Gebrauchtwaren
 ---

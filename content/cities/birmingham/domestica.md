@@ -1,5 +1,5 @@
 ---
 title: "Domestica"
 url: /birmingham/domestica/
-shop: electronics
+shop: Elektronik
 ---

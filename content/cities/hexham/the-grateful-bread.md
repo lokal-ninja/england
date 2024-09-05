@@ -1,5 +1,5 @@
 ---
 title: "The Grateful Bread"
 url: /hexham/the-grateful-bread/
-shop: bakery
+shop: Bäckerei
 ---

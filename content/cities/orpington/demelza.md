@@ -1,5 +1,5 @@
 ---
 title: "Demelza"
 url: /orpington/demelza/
-shop: charity
+shop: Gebrauchtwaren
 ---

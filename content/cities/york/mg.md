@@ -1,5 +1,5 @@
 ---
 title: "MG"
 url: /york/mg/
-shop: car
+shop: Autohaus
 ---

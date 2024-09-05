@@ -1,5 +1,5 @@
 ---
 title: "Crackpot"
 url: /louth/crackpot/
-shop: pottery
+shop: Töpferei
 ---

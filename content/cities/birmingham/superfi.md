@@ -1,5 +1,5 @@
 ---
 title: "Superfi"
 url: /birmingham/superfi/
-shop: hifi
+shop: Hifi
 ---

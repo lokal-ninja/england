@@ -1,5 +1,5 @@
 ---
 title: "Keal Teamwear"
 url: /york/keal-teamwear/
-shop: clothes
+shop: Kleidung
 ---

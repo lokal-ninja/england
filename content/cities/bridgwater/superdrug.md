@@ -1,5 +1,5 @@
 ---
 title: "Superdrug"
 url: /bridgwater/superdrug/
-shop: chemist
+shop: Drogerie
 ---

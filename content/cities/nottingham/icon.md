@@ -1,5 +1,5 @@
 ---
 title: "Icon"
 url: /nottingham/icon/
-shop: hairdresser
+shop: Friseur
 ---

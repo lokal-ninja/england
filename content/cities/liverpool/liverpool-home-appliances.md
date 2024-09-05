@@ -1,5 +1,5 @@
 ---
 title: "Liverpool Home Appliances"
 url: /liverpool/liverpool-home-appliances/
-shop: appliance
+shop: Haushaltsgeräte
 ---

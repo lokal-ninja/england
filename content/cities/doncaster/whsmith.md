@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /doncaster/whsmith/
-shop: books
+shop: Bücher
 ---

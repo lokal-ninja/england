@@ -1,5 +1,5 @@
 ---
 title: "Birketts"
 url: /grimsby/birketts/
-shop: butcher
+shop: Metzgerei
 ---

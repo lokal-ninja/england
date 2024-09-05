@@ -1,5 +1,5 @@
 ---
 title: "Tilleys"
 url: /weymouth/tilleys/
-shop: motorcycle
+shop: Motorrad
 ---

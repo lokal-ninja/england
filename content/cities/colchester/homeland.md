@@ -1,5 +1,5 @@
 ---
 title: "Homeland"
 url: /colchester/homeland/
-shop: houseware
+shop: Haushaltsartikel
 ---

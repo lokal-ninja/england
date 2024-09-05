@@ -1,5 +1,5 @@
 ---
 title: "Longdan Express"
 url: /london/longdan-express/
-shop: supermarket
+shop: Supermarkt
 ---

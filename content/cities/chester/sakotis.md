@@ -1,5 +1,5 @@
 ---
 title: "Sakotis"
 url: /chester/sakotis/
-shop: convenience
+shop: Lebensmittel
 ---

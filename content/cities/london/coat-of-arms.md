@@ -1,5 +1,5 @@
 ---
 title: "Coat of Arms"
 url: /london/coat-of-arms/
-shop: convenience
+shop: Lebensmittel
 ---

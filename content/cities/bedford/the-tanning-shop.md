@@ -1,5 +1,5 @@
 ---
 title: "The Tanning Shop"
 url: /bedford/the-tanning-shop/
-shop: beauty
+shop: Kosmetik
 ---

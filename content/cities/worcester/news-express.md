@@ -1,5 +1,5 @@
 ---
 title: "News Express"
 url: /worcester/news-express/
-shop: newsagent
+shop: Zeitungen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Boots"
 url: /sutton-coldfield/boots-princess-alice-drive/
-shop: chemist
+shop: Drogerie
 ---

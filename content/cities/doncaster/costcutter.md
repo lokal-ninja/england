@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /doncaster/costcutter/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dot Teas"
 url: /tavistock/dot-teas/
-shop: tea
+shop: Tee
 ---

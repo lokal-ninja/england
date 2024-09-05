@@ -1,5 +1,5 @@
 ---
 title: "Streamers"
 url: /exeter/streamers/
-shop: party
+shop: Partyzubehör
 ---

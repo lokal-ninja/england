@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /mitcham/betfred/
-shop: bookmaker
+shop: Wettbüro
 ---

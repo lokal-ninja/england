@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /totland/costcutter/
-shop: convenience
+shop: Lebensmittel
 ---

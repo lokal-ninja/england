@@ -1,5 +1,5 @@
 ---
 title: "Staniforths"
 url: /rotherham/staniforths/
-shop: bakery
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mirrors"
 url: /castleford/mirrors/
-shop: hairdresser
+shop: Friseur
 ---

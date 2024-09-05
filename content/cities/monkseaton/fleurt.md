@@ -1,5 +1,5 @@
 ---
 title: "Fleurt"
 url: /monkseaton/fleurt/
-shop: florist
+shop: Blumen
 ---

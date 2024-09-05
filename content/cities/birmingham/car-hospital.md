@@ -1,5 +1,5 @@
 ---
 title: "Car Hospital"
 url: /birmingham/car-hospital/
-shop: car repair
+shop: Autowerkstatt
 ---

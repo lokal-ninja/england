@@ -1,5 +1,5 @@
 ---
 title: "Millets"
 url: /solihull/millets/
-shop: outdoor
+shop: Outdoor
 ---

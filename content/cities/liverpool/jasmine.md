@@ -1,5 +1,5 @@
 ---
 title: "Jasmine"
 url: /liverpool/jasmine/
-shop: massage
+shop: Massage
 ---

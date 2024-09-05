@@ -1,5 +1,5 @@
 ---
 title: "Break"
 url: /cromer/break/
-shop: charity
+shop: Gebrauchtwaren
 ---

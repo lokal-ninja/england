@@ -1,5 +1,5 @@
 ---
 title: "Downings"
 url: /morecambe/downings/
-shop: convenience
+shop: Lebensmittel
 ---

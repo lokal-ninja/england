@@ -1,5 +1,5 @@
 ---
 title: "Vospers"
 url: /truro/vospers/
-shop: car repair
+shop: Autowerkstatt
 ---

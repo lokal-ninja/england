@@ -1,5 +1,5 @@
 ---
 title: "Fish Trade Supplies"
 url: /ipswich/fish-trade-supplies/
-shop: wholesale
+shop: Großhandel
 ---

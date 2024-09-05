@@ -1,5 +1,5 @@
 ---
 title: "Shape"
 url: /teddington/shape/
-shop: hairdresser
+shop: Friseur
 ---

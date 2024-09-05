@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /winsford/betfred/
-shop: bookmaker
+shop: Wettbüro
 ---

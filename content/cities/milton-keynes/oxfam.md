@@ -1,5 +1,5 @@
 ---
 title: "Oxfam"
 url: /milton-keynes/oxfam/
-shop: clothes
+shop: Kleidung
 ---

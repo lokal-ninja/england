@@ -1,5 +1,5 @@
 ---
 title: "Bed Factory Direct"
 url: /warrington/bed-factory-direct/
-shop: bed
+shop: Betten
 ---

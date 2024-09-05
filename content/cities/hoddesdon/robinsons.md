@@ -1,5 +1,5 @@
 ---
 title: "Robinsons"
 url: /hoddesdon/robinsons/
-shop: butcher
+shop: Metzgerei
 ---

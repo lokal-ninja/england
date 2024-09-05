@@ -1,5 +1,5 @@
 ---
 title: "House of Tweed"
 url: /worcester/house-of-tweed/
-shop: clothes
+shop: Kleidung
 ---

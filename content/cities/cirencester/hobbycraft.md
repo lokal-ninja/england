@@ -1,5 +1,5 @@
 ---
 title: "Hobbycraft"
 url: /cirencester/hobbycraft/
-shop: craft
+shop: Basteln
 ---

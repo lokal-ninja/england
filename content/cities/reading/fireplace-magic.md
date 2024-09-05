@@ -1,5 +1,5 @@
 ---
 title: "Fireplace Magic"
 url: /reading/fireplace-magic/
-shop: fireplace
+shop: Kamine & Öfen
 ---

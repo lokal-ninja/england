@@ -1,5 +1,5 @@
 ---
 title: "Specsavers"
 url: /st-austell/specsavers/
-shop: optician
+shop: Optiker
 ---

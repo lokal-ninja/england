@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /southampton/ladbrokes/
-shop: bookmaker
+shop: Wettbüro
 ---

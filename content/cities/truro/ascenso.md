@@ -1,5 +1,5 @@
 ---
 title: "Ascenso"
 url: /truro/ascenso/
-shop: hairdresser
+shop: Friseur
 ---

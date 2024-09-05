@@ -1,5 +1,5 @@
 ---
 title: "Homemade Products Oldham"
 url: /oldham/homemade-products-oldham/
-shop: wholesale
+shop: Großhandel
 ---

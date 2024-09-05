@@ -1,5 +1,5 @@
 ---
 title: "nkd()"
 url: /nottingham/nkd/
-shop: beauty
+shop: Kosmetik
 ---

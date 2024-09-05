@@ -1,5 +1,5 @@
 ---
 title: "Melinsey Mill"
 url: /truro/melinsey-mill/
-shop: gift
+shop: Andenken
 ---

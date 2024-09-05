@@ -1,5 +1,5 @@
 ---
 title: "FACE"
 url: /sheffield/face/
-shop: beauty
+shop: Kosmetik
 ---

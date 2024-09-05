@@ -1,5 +1,5 @@
 ---
 title: "Ecclesall Motor Company"
 url: /sheffield/ecclesall-motor-company/
-shop: car
+shop: Autohaus
 ---

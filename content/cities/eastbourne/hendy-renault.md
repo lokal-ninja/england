@@ -1,5 +1,5 @@
 ---
 title: "Hendy Renault"
 url: /eastbourne/hendy-renault/
-shop: car
+shop: Autohaus
 ---

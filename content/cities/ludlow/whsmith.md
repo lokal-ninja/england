@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /ludlow/whsmith/
-shop: books
+shop: Bücher
 ---

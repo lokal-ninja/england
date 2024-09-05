@@ -1,5 +1,5 @@
 ---
 title: "Space NK"
 url: /reigate/space-nk/
-shop: beauty
+shop: Kosmetik
 ---

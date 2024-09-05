@@ -1,5 +1,5 @@
 ---
 title: "John Mather Butchers"
 url: /wigan/john-mather-butchers/
-shop: butcher
+shop: Metzgerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Northome"
 url: /leeds/northome/
-shop: interior decoration
+shop: Raumausstattung
 ---

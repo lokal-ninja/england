@@ -1,5 +1,5 @@
 ---
 title: "RIva Menswear"
 url: /warrington/riva-menswear/
-shop: clothes
+shop: Kleidung
 ---

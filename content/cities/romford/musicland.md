@@ -1,5 +1,5 @@
 ---
 title: "MusicLand"
 url: /romford/musicland/
-shop: music
+shop: Musik
 ---

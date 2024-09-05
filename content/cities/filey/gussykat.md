@@ -1,5 +1,5 @@
 ---
 title: "Gussykat"
 url: /filey/gussykat/
-shop: tailor
+shop: Schneiderei
 ---

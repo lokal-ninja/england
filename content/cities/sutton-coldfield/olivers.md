@@ -1,5 +1,5 @@
 ---
 title: "Olivers"
 url: /sutton-coldfield/olivers/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Greetings"
 url: /bourne/greetings/
-shop: gift
+shop: Andenken
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Accommodate"
 url: /dartford/accommodate/
-shop: vacant
+shop: Leerstehend
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Marshall Hyundai"
 url: /cambridge/marshall-hyundai/
-shop: car
+shop: Autohaus
 ---

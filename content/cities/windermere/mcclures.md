@@ -1,5 +1,5 @@
 ---
 title: "McClures"
 url: /windermere/mcclures/
-shop: wholesale
+shop: Großhandel
 ---

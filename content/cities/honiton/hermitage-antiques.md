@@ -1,5 +1,5 @@
 ---
 title: "Hermitage Antiques"
 url: /honiton/hermitage-antiques/
-shop: antiques
+shop: Antiquitäten
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Demelza"
 url: /whitstable/demelza/
-shop: charity
+shop: Gebrauchtwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cyclescene"
 url: /york/cyclescene/
-shop: bicycle
+shop: Fahrrad
 ---

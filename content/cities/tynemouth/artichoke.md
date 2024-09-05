@@ -1,5 +1,5 @@
 ---
 title: "Artichoke"
 url: /tynemouth/artichoke/
-shop: gift
+shop: Andenken
 ---

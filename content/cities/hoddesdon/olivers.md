@@ -1,5 +1,5 @@
 ---
 title: "Oliver's"
 url: /hoddesdon/olivers/
-shop: clothes
+shop: Kleidung
 ---

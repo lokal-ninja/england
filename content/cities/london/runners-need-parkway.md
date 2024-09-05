@@ -1,5 +1,5 @@
 ---
 title: "Runners Need"
 url: /london/runners-need-parkway/
-shop: sports
+shop: Sport
 ---

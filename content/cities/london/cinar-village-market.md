@@ -1,5 +1,5 @@
 ---
 title: "Cinar Village Market"
 url: /london/cinar-village-market/
-shop: convenience
+shop: Lebensmittel
 ---

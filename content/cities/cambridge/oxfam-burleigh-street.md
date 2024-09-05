@@ -1,5 +1,5 @@
 ---
 title: "Oxfam"
 url: /cambridge/oxfam-burleigh-street/
-shop: charity
+shop: Gebrauchtwaren
 ---

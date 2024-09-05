@@ -1,5 +1,5 @@
 ---
 title: "Impact Hair"
 url: /norwich/impact-hair/
-shop: hairdresser
+shop: Friseur
 ---

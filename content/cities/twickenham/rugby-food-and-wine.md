@@ -1,5 +1,5 @@
 ---
 title: "Rugby Food and Wine"
 url: /twickenham/rugby-food-and-wine/
-shop: convenience
+shop: Lebensmittel
 ---

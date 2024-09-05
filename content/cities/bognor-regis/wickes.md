@@ -1,5 +1,5 @@
 ---
 title: "Wickes"
 url: /bognor-regis/wickes/
-shop: doityourself
+shop: Baumarkt
 ---

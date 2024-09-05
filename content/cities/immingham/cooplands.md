@@ -1,5 +1,5 @@
 ---
 title: "Cooplands"
 url: /immingham/cooplands/
-shop: bakery
+shop: Bäckerei
 ---

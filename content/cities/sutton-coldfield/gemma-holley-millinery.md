@@ -1,5 +1,5 @@
 ---
 title: "Gemma Holley Millinery"
 url: /sutton-coldfield/gemma-holley-millinery/
-shop: hat
+shop: Hüte
 ---

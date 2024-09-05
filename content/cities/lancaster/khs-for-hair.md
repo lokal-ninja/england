@@ -1,5 +1,5 @@
 ---
 title: "KHS For Hair"
 url: /lancaster/khs-for-hair/
-shop: hairdresser
+shop: Friseur
 ---

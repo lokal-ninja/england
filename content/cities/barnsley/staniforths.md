@@ -1,5 +1,5 @@
 ---
 title: "Staniforths"
 url: /barnsley/staniforths/
-shop: bakery
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bravoauto"
 url: /warrington/bravoauto/
-shop: car
+shop: Autohaus
 ---

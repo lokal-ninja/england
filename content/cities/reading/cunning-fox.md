@@ -1,5 +1,5 @@
 ---
 title: "Cunning Fox"
 url: /reading/cunning-fox/
-shop: tattoo
+shop: Tattoo
 ---

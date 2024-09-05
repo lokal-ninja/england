@@ -1,5 +1,5 @@
 ---
 title: "Flowerworks"
 url: /pontefract/flowerworks/
-shop: florist
+shop: Blumen
 ---

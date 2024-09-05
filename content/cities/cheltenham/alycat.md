@@ -1,5 +1,5 @@
 ---
 title: "Alycat"
 url: /cheltenham/alycat/
-shop: clothes
+shop: Kleidung
 ---

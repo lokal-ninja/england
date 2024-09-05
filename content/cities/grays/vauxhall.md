@@ -1,5 +1,5 @@
 ---
 title: "Vauxhall"
 url: /grays/vauxhall/
-shop: car
+shop: Autohaus
 ---

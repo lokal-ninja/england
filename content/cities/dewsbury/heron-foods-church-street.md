@@ -1,5 +1,5 @@
 ---
 title: "Heron Foods"
 url: /dewsbury/heron-foods-church-street/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Majestic"
 url: /york/majestic/
-shop: alcohol
+shop: Spirituosen
 ---

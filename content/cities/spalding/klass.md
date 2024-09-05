@@ -1,5 +1,5 @@
 ---
 title: "Klass"
 url: /spalding/klass/
-shop: clothes
+shop: Kleidung
 ---

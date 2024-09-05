@@ -1,5 +1,5 @@
 ---
 title: "OneBelow"
 url: /wakefield/onebelow/
-shop: variety store
+shop: Kramladen
 ---

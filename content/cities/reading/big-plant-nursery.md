@@ -1,5 +1,5 @@
 ---
 title: "Big Plant Nursery"
 url: /reading/big-plant-nursery/
-shop: garden centre
+shop: Garten-Center
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Knead"
 url: /tetbury/knead/
-shop: bakery
+shop: Bäckerei
 ---

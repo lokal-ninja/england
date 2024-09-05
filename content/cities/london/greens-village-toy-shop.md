@@ -1,5 +1,5 @@
 ---
 title: "Green's village Toy Shop"
 url: /london/greens-village-toy-shop/
-shop: toys
+shop: Spielzeug
 ---

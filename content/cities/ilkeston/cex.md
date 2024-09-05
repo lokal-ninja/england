@@ -1,5 +1,5 @@
 ---
 title: "CeX"
 url: /ilkeston/cex/
-shop: electronics
+shop: Elektronik
 ---

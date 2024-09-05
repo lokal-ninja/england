@@ -1,5 +1,5 @@
 ---
 title: "Millercare"
 url: /bolton/millercare/
-shop: shop
+shop: Allgemein
 ---

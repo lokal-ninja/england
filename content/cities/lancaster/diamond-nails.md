@@ -1,5 +1,5 @@
 ---
 title: "Diamond Nails"
 url: /lancaster/diamond-nails/
-shop: beauty
+shop: Kosmetik
 ---

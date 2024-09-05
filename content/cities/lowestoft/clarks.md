@@ -1,5 +1,5 @@
 ---
 title: "Clarks"
 url: /lowestoft/clarks/
-shop: shoes
+shop: Schuhe
 ---

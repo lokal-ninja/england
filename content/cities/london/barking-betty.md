@@ -1,5 +1,5 @@
 ---
 title: "Barking Betty"
 url: /london/barking-betty/
-shop: pet
+shop: Tiere
 ---

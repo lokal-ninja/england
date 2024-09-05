@@ -1,5 +1,5 @@
 ---
 title: "Nelsons"
 url: /hemel-hempstead/nelsons/
-shop: butcher
+shop: Metzgerei
 ---

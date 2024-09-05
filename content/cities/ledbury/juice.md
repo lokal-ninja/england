@@ -1,5 +1,5 @@
 ---
 title: "Juice"
 url: /ledbury/juice/
-shop: clothes
+shop: Kleidung
 ---

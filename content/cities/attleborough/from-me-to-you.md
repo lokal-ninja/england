@@ -1,5 +1,5 @@
 ---
 title: "From Me to You"
 url: /attleborough/from-me-to-you/
-shop: gift
+shop: Andenken
 ---

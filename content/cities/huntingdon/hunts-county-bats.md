@@ -1,5 +1,5 @@
 ---
 title: "Hunts County Bats"
 url: /huntingdon/hunts-county-bats/
-shop: sports
+shop: Sport
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /stroud/londis/
-shop: convenience
+shop: Lebensmittel
 ---

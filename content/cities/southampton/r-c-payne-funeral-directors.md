@@ -1,5 +1,5 @@
 ---
 title: "R C Payne Funeral Directors"
 url: /southampton/r-c-payne-funeral-directors/
-shop: funeral directors
+shop: Bestattungen
 ---

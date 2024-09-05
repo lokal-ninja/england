@@ -1,5 +1,5 @@
 ---
 title: "Gordons Florist"
 url: /castleford/gordons-florist/
-shop: florist
+shop: Blumen
 ---

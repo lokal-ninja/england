@@ -1,5 +1,5 @@
 ---
 title: "Hursts"
 url: /castleford/hursts/
-shop: convenience
+shop: Lebensmittel
 ---

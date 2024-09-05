@@ -1,5 +1,5 @@
 ---
 title: "Ledana"
 url: /nottingham/ledana/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Works"
 url: /castleford/the-works/
-shop: books
+shop: Bücher
 ---

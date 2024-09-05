@@ -1,5 +1,5 @@
 ---
 title: "Nisalocal"
 url: /walsall/nisalocal/
-shop: convenience
+shop: Lebensmittel
 ---

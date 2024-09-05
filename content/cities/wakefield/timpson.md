@@ -1,5 +1,5 @@
 ---
 title: "Timpson"
 url: /wakefield/timpson/
-shop: locksmith
+shop: Schlüsseldienst
 ---

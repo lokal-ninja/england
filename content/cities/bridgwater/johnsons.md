@@ -1,5 +1,5 @@
 ---
 title: "Johnsons"
 url: /bridgwater/johnsons/
-shop: laundry
+shop: Wäscherei
 ---

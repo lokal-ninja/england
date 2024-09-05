@@ -1,5 +1,5 @@
 ---
 title: "Sandal Castle Shop"
 url: /wakefield/sandal-castle-shop/
-shop: gift
+shop: Andenken
 ---

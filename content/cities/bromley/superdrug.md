@@ -1,5 +1,5 @@
 ---
 title: "Superdrug"
 url: /bromley/superdrug/
-shop: chemist
+shop: Drogerie
 ---

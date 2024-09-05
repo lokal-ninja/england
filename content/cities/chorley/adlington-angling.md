@@ -1,5 +1,5 @@
 ---
 title: "Adlington Angling"
 url: /chorley/adlington-angling/
-shop: fishing
+shop: Angeln
 ---

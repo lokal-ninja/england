@@ -1,5 +1,5 @@
 ---
 title: "Bonmarché"
 url: /nottingham/bonmarche/
-shop: clothes
+shop: Kleidung
 ---

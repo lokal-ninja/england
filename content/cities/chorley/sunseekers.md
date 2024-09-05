@@ -1,5 +1,5 @@
 ---
 title: "Sunseekers"
 url: /chorley/sunseekers/
-shop: beauty
+shop: Kosmetik
 ---

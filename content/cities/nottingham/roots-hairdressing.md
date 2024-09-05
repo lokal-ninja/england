@@ -1,5 +1,5 @@
 ---
 title: "Roots Hairdressing"
 url: /nottingham/roots-hairdressing/
-shop: hairdresser
+shop: Friseur
 ---

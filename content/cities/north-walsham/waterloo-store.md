@@ -1,5 +1,5 @@
 ---
 title: "Waterloo Store"
 url: /north-walsham/waterloo-store/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

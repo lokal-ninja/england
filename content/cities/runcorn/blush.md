@@ -1,5 +1,5 @@
 ---
 title: "Blush"
 url: /runcorn/blush/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Daisyroots"
 url: /beccles/daisyroots/
-shop: jewelry
+shop: Schmuck
 ---

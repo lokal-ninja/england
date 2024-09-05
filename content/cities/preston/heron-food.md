@@ -1,5 +1,5 @@
 ---
 title: "Heron Food"
 url: /preston/heron-food/
-shop: convenience
+shop: Lebensmittel
 ---

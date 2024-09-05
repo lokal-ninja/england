@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /orpington/savers/
-shop: chemist
+shop: Drogerie
 ---

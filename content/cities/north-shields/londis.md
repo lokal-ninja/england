@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /north-shields/londis/
-shop: convenience
+shop: Lebensmittel
 ---

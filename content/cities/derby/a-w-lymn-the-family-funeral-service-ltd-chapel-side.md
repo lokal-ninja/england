@@ -1,5 +1,5 @@
 ---
 title: "A. W. Lymn The Family Funeral Service Ltd."
 url: /derby/a-w-lymn-the-family-funeral-service-ltd-chapel-side/
-shop: funeral directors
+shop: Bestattungen
 ---

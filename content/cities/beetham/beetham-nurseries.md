@@ -1,5 +1,5 @@
 ---
 title: "Beetham Nurseries"
 url: /beetham/beetham-nurseries/
-shop: garden centre
+shop: Garten-Center
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Amplifon"
 url: /colchester/amplifon/
-shop: hearing aids
+shop: Hörgeräte
 ---

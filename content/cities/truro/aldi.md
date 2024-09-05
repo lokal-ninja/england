@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /truro/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

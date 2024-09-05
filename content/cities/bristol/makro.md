@@ -1,5 +1,5 @@
 ---
 title: "Makro"
 url: /bristol/makro/
-shop: wholesale
+shop: Großhandel
 ---

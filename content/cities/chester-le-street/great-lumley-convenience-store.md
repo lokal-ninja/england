@@ -1,5 +1,5 @@
 ---
 title: "Great Lumley Convenience Store"
 url: /chester-le-street/great-lumley-convenience-store/
-shop: convenience
+shop: Lebensmittel
 ---

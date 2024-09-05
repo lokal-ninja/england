@@ -1,5 +1,5 @@
 ---
 title: "The Basement"
 url: /sheffield/the-basement/
-shop: beauty
+shop: Kosmetik
 ---

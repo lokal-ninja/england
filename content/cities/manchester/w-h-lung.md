@@ -1,5 +1,5 @@
 ---
 title: "W. H. Lung"
 url: /manchester/w-h-lung/
-shop: wholesale
+shop: Großhandel
 ---

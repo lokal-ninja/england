@@ -1,5 +1,5 @@
 ---
 title: "YMCA"
 url: /hove/ymca/
-shop: charity
+shop: Gebrauchtwaren
 ---

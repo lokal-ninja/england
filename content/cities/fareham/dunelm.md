@@ -1,5 +1,5 @@
 ---
 title: "Dunelm"
 url: /fareham/dunelm/
-shop: interior decoration
+shop: Raumausstattung
 ---

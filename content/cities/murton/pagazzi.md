@@ -1,5 +1,5 @@
 ---
 title: "Pagazzi"
 url: /murton/pagazzi/
-shop: lamps
+shop: Lampen
 ---

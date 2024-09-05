@@ -1,5 +1,5 @@
 ---
 title: "Screwfix"
 url: /bicester/screwfix/
-shop: doityourself
+shop: Baumarkt
 ---

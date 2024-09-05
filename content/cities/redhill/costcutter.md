@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /redhill/costcutter/
-shop: convenience
+shop: Lebensmittel
 ---

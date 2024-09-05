@@ -1,5 +1,5 @@
 ---
 title: "Pellegrina"
 url: /belper/pellegrina/
-shop: general
+shop: Dorfladen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /new-malden/savers/
-shop: chemist
+shop: Drogerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Stirlings"
 url: /london/stirlings/
-shop: furniture
+shop: Möbel
 ---

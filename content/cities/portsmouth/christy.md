@@ -1,5 +1,5 @@
 ---
 title: "Christy"
 url: /portsmouth/christy/
-shop: houseware
+shop: Haushaltsartikel
 ---

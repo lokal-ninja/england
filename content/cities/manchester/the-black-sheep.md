@@ -1,5 +1,5 @@
 ---
 title: "The Black Sheep"
 url: /manchester/the-black-sheep/
-shop: sports
+shop: Sport
 ---

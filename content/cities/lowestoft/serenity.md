@@ -1,5 +1,5 @@
 ---
 title: "Serenity"
 url: /lowestoft/serenity/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Budgens"
 url: /warrington/budgens/
-shop: convenience
+shop: Lebensmittel
 ---

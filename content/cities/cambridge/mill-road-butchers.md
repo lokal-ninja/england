@@ -1,5 +1,5 @@
 ---
 title: "Mill Road Butchers"
 url: /cambridge/mill-road-butchers/
-shop: butcher
+shop: Metzgerei
 ---

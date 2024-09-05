@@ -1,5 +1,5 @@
 ---
 title: "RNA Barbers"
 url: /orpington/rna-barbers/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gurneys"
 url: /ledbury/gurneys/
-shop: butcher
+shop: Metzgerei
 ---

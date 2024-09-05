@@ -1,5 +1,5 @@
 ---
 title: "Zeds"
 url: /sheffield/zeds/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Blackfriars Wine Bar"
 url: /london/blackfriars-wine-bar/
-shop: wine
+shop: Wein
 ---

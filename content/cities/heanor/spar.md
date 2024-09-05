@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /heanor/spar/
-shop: convenience
+shop: Lebensmittel
 ---

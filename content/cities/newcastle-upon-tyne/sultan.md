@@ -1,5 +1,5 @@
 ---
 title: "Sultan"
 url: /newcastle-upon-tyne/sultan/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rosalie's"
 url: /cowes/rosalies/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

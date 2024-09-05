@@ -1,5 +1,5 @@
 ---
 title: "senta Aesthetics"
 url: /weston-super-mare/senta-aesthetics/
-shop: beauty
+shop: Kosmetik
 ---

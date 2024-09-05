@@ -1,5 +1,5 @@
 ---
 title: "Belstaff"
 url: /london/belstaff-regent-street/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ranya"
 url: /london/ranya/
-shop: seafood
+shop: Fisch
 ---

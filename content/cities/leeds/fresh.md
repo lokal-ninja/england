@@ -1,5 +1,5 @@
 ---
 title: "Fresh"
 url: /leeds/fresh/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

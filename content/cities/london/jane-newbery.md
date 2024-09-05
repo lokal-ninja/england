@@ -1,5 +1,5 @@
 ---
 title: "Jane Newbery"
 url: /london/jane-newbery/
-shop: houseware
+shop: Haushaltsartikel
 ---

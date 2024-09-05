@@ -1,5 +1,5 @@
 ---
 title: "Eyetech"
 url: /frome/eyetech/
-shop: optician
+shop: Optiker
 ---

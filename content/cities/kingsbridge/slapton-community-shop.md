@@ -1,5 +1,5 @@
 ---
 title: "Slapton Community Shop"
 url: /kingsbridge/slapton-community-shop/
-shop: convenience
+shop: Lebensmittel
 ---

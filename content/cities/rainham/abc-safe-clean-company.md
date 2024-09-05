@@ -1,5 +1,5 @@
 ---
 title: "ABC Safe Clean Company"
 url: /rainham/abc-safe-clean-company/
-shop: trade
+shop: Baustoffe
 ---

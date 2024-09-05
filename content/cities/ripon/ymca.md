@@ -1,5 +1,5 @@
 ---
 title: "YMCA"
 url: /ripon/ymca/
-shop: charity
+shop: Gebrauchtwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Animal Crackers"
 url: /formby/animal-crackers/
-shop: pet
+shop: Tiere
 ---

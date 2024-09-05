@@ -1,5 +1,5 @@
 ---
 title: "Nirala"
 url: /london/nirala/
-shop: confectionery
+shop: Süßwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lifestyle Express"
 url: /leamington-spa/lifestyle-express/
-shop: convenience
+shop: Lebensmittel
 ---

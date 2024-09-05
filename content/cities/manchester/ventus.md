@@ -1,5 +1,5 @@
 ---
 title: "Ventus"
 url: /manchester/ventus/
-shop: hairdresser
+shop: Friseur
 ---

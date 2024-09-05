@@ -1,5 +1,5 @@
 ---
 title: "Cycles Uk"
 url: /canterbury/cycles-uk/
-shop: bicycle
+shop: Fahrrad
 ---

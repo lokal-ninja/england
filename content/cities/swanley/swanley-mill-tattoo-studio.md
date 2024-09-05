@@ -1,5 +1,5 @@
 ---
 title: "Swanley Mill Tattoo studio"
 url: /swanley/swanley-mill-tattoo-studio/
-shop: tattoo
+shop: Tattoo
 ---

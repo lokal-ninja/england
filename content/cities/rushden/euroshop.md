@@ -1,5 +1,5 @@
 ---
 title: "Euroshop"
 url: /rushden/euroshop/
-shop: deli
+shop: Feinkost
 ---

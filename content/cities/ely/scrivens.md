@@ -1,5 +1,5 @@
 ---
 title: "Scrivens"
 url: /ely/scrivens/
-shop: optician
+shop: Optiker
 ---

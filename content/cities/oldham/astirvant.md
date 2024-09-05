@@ -1,5 +1,5 @@
 ---
 title: "Astirvant"
 url: /oldham/astirvant/
-shop: trade
+shop: Baustoffe
 ---

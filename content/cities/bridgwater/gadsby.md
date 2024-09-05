@@ -1,5 +1,5 @@
 ---
 title: "Gadsby"
 url: /bridgwater/gadsby/
-shop: wholesale
+shop: Großhandel
 ---

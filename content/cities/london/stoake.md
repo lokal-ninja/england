@@ -1,5 +1,5 @@
 ---
 title: "Stoake"
 url: /london/stoake/
-shop: fireplace
+shop: Kamine & Öfen
 ---

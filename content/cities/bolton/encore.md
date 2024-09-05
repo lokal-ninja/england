@@ -1,5 +1,5 @@
 ---
 title: "Encore"
 url: /bolton/encore/
-shop: shop
+shop: Allgemein
 ---

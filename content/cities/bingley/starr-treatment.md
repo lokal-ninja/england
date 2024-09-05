@@ -1,5 +1,5 @@
 ---
 title: "Starr Treatment"
 url: /bingley/starr-treatment/
-shop: beauty
+shop: Kosmetik
 ---

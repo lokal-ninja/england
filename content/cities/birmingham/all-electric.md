@@ -1,5 +1,5 @@
 ---
 title: "All Electric"
 url: /birmingham/all-electric/
-shop: car
+shop: Autohaus
 ---

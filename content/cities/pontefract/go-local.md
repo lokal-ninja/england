@@ -1,5 +1,5 @@
 ---
 title: "Go Local"
 url: /pontefract/go-local/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /burnley/betfred/
-shop: bookmaker
+shop: Wettbüro
 ---

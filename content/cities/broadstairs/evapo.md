@@ -1,5 +1,5 @@
 ---
 title: "Evapo"
 url: /broadstairs/evapo/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

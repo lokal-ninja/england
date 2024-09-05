@@ -1,5 +1,5 @@
 ---
 title: "Camo"
 url: /cheltenham/camo/
-shop: hairdresser
+shop: Friseur
 ---

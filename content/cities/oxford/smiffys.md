@@ -1,5 +1,5 @@
 ---
 title: "Smiffys"
 url: /oxford/smiffys/
-shop: party
+shop: Partyzubehör
 ---

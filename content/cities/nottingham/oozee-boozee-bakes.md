@@ -1,5 +1,5 @@
 ---
 title: "Oozee Boozee Bakes"
 url: /nottingham/oozee-boozee-bakes/
-shop: bakery
+shop: Bäckerei
 ---

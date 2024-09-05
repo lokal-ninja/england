@@ -1,5 +1,5 @@
 ---
 title: "Beach"
 url: /deal/beach/
-shop: furniture
+shop: Möbel
 ---

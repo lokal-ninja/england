@@ -1,5 +1,5 @@
 ---
 title: "Aldo"
 url: /grays/aldo/
-shop: shoes
+shop: Schuhe
 ---

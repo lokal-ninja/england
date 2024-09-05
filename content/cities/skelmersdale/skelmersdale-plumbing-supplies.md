@@ -1,5 +1,5 @@
 ---
 title: "Skelmersdale Plumbing Supplies"
 url: /skelmersdale/skelmersdale-plumbing-supplies/
-shop: trade
+shop: Baustoffe
 ---

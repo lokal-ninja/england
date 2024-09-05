@@ -1,5 +1,5 @@
 ---
 title: "Capalina News"
 url: /london/capalina-news/
-shop: newsagent
+shop: Zeitungen
 ---

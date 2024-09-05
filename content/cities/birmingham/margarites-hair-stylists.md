@@ -1,5 +1,5 @@
 ---
 title: "Margarite's Hair Stylists"
 url: /birmingham/margarites-hair-stylists/
-shop: hairdresser
+shop: Friseur
 ---

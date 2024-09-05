@@ -1,5 +1,5 @@
 ---
 title: "Perfect Dry Cleaners"
 url: /london/perfect-dry-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

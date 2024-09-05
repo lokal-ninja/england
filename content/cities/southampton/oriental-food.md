@@ -1,5 +1,5 @@
 ---
 title: "Oriental Food"
 url: /southampton/oriental-food/
-shop: convenience
+shop: Lebensmittel
 ---

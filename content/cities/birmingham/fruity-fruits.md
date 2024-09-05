@@ -1,5 +1,5 @@
 ---
 title: "Fruity Fruits"
 url: /birmingham/fruity-fruits/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

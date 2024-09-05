@@ -1,5 +1,5 @@
 ---
 title: "Myers Tyres"
 url: /sheffield/myers-tyres/
-shop: tyres
+shop: Reifen
 ---

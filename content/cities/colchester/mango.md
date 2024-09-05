@@ -1,5 +1,5 @@
 ---
 title: "Mango"
 url: /colchester/mango/
-shop: hairdresser
+shop: Friseur
 ---

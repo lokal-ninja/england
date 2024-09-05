@@ -1,5 +1,5 @@
 ---
 title: "Options"
 url: /birmingham/options/
-shop: supermarket
+shop: Supermarkt
 ---

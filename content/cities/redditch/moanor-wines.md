@@ -1,5 +1,5 @@
 ---
 title: "Moanor wines"
 url: /redditch/moanor-wines/
-shop: wine
+shop: Wein
 ---

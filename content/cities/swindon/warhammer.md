@@ -1,5 +1,5 @@
 ---
 title: "Warhammer"
 url: /swindon/warhammer/
-shop: games
+shop: Spiele
 ---

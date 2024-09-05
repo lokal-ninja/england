@@ -1,5 +1,5 @@
 ---
 title: "Elliots"
 url: /orpington/elliots/
-shop: shop
+shop: Allgemein
 ---

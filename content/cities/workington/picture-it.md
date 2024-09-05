@@ -1,5 +1,5 @@
 ---
 title: "Picture It"
 url: /workington/picture-it/
-shop: photo
+shop: Foto
 ---

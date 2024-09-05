@@ -1,5 +1,5 @@
 ---
 title: "VapeStore"
 url: /blackburn/vapestore/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

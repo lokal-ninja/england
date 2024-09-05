@@ -1,5 +1,5 @@
 ---
 title: "Homebase"
 url: /sutton-coldfield/homebase/
-shop: doityourself
+shop: Baumarkt
 ---

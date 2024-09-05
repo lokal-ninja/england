@@ -1,5 +1,5 @@
 ---
 title: "New Image"
 url: /swindon/new-image/
-shop: hairdresser
+shop: Friseur
 ---

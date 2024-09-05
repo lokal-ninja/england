@@ -1,5 +1,5 @@
 ---
 title: "Celly's"
 url: /waterlooville/cellys/
-shop: hairdresser
+shop: Friseur
 ---

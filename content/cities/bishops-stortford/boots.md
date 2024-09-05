@@ -1,5 +1,5 @@
 ---
 title: "Boots"
 url: /bishops-stortford/boots/
-shop: chemist
+shop: Drogerie
 ---

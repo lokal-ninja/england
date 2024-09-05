@@ -1,5 +1,5 @@
 ---
 title: "Stallingborough Paper Shop"
 url: /grimsby/stallingborough-paper-shop/
-shop: newsagent
+shop: Zeitungen
 ---

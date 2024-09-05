@@ -1,5 +1,5 @@
 ---
 title: "Shayan's Barbers"
 url: /oldham/shayans-barbers/
-shop: hairdresser
+shop: Friseur
 ---

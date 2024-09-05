@@ -1,5 +1,5 @@
 ---
 title: "Harveys"
 url: /cambridge/harveys/
-shop: furniture
+shop: Möbel
 ---

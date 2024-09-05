@@ -1,5 +1,5 @@
 ---
 title: "Transcare"
 url: /ilkeston/transcare/
-shop: shop
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jamcuts"
 url: /london/jamcuts/
-shop: hairdresser
+shop: Friseur
 ---

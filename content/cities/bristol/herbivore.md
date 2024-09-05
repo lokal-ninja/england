@@ -1,5 +1,5 @@
 ---
 title: "Herbivore"
 url: /bristol/herbivore/
-shop: deli
+shop: Feinkost
 ---

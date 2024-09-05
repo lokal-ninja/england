@@ -1,5 +1,5 @@
 ---
 title: "Fellows"
 url: /fakenham/fellows/
-shop: hairdresser
+shop: Friseur
 ---

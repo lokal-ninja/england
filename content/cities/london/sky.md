@@ -1,5 +1,5 @@
 ---
 title: "Sky"
 url: /london/sky/
-shop: shop
+shop: Allgemein
 ---

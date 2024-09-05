@@ -1,5 +1,5 @@
 ---
 title: "The Book Nook"
 url: /hove/the-book-nook/
-shop: books
+shop: Bücher
 ---

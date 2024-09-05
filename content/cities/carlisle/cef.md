@@ -1,5 +1,5 @@
 ---
 title: "CEF"
 url: /carlisle/cef/
-shop: electrical
+shop: Elektrisch
 ---

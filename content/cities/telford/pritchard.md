@@ -1,5 +1,5 @@
 ---
 title: "Pritchard"
 url: /telford/pritchard/
-shop: laundry
+shop: Wäscherei
 ---

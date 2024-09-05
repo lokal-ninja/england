@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /norwich/tesco-express-dragonfly-lane/
-shop: convenience
+shop: Lebensmittel
 ---

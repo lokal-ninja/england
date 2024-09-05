@@ -1,5 +1,5 @@
 ---
 title: "The Oaks Shopping Centre"
 url: /london/the-oaks-shopping-centre/
-shop: mall
+shop: Einkaufszentrum
 ---

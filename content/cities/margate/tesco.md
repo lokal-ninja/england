@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /margate/tesco/
-shop: supermarket
+shop: Supermarkt
 ---

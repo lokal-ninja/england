@@ -1,5 +1,5 @@
 ---
 title: "Fields"
 url: /sandown/fields/
-shop: clothes
+shop: Kleidung
 ---

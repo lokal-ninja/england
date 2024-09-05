@@ -1,5 +1,5 @@
 ---
 title: "Cannister's"
 url: /sheffield/cannisters/
-shop: butcher
+shop: Metzgerei
 ---

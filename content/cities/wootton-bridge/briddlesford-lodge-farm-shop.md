@@ -1,5 +1,5 @@
 ---
 title: "Briddlesford Lodge Farm Shop"
 url: /wootton-bridge/briddlesford-lodge-farm-shop/
-shop: farm
+shop: Hofladen
 ---

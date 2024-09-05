@@ -1,5 +1,5 @@
 ---
 title: "Meraki"
 url: /sheffield/meraki/
-shop: hairdresser
+shop: Friseur
 ---

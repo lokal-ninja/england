@@ -1,5 +1,5 @@
 ---
 title: "Lyles Of Newcastle"
 url: /newcastle-upon-tyne/lyles-of-newcastle/
-shop: car repair
+shop: Autowerkstatt
 ---

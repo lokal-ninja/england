@@ -1,5 +1,5 @@
 ---
 title: "Eye Care Optical"
 url: /nelson/eye-care-optical/
-shop: optician
+shop: Optiker
 ---

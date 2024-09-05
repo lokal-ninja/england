@@ -1,5 +1,5 @@
 ---
 title: "SBC cycles"
 url: /london/sbc-cycles/
-shop: bicycle
+shop: Fahrrad
 ---

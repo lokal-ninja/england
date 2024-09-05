@@ -1,5 +1,5 @@
 ---
 title: "Crackers"
 url: /heanor/crackers/
-shop: shop
+shop: Allgemein
 ---

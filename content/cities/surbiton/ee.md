@@ -1,5 +1,5 @@
 ---
 title: "EE"
 url: /surbiton/ee/
-shop: mobile phone
+shop: Handy
 ---

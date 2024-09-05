@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /hitchin/whsmith/
-shop: newsagent
+shop: Zeitungen
 ---

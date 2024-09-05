@@ -1,5 +1,5 @@
 ---
 title: "Myhill's"
 url: /thetford/myhills/
-shop: gift
+shop: Andenken
 ---

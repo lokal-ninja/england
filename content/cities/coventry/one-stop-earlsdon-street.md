@@ -1,5 +1,5 @@
 ---
 title: "One Stop"
 url: /coventry/one-stop-earlsdon-street/
-shop: convenience
+shop: Lebensmittel
 ---

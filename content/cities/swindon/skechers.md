@@ -1,5 +1,5 @@
 ---
 title: "Skechers"
 url: /swindon/skechers/
-shop: shoes
+shop: Schuhe
 ---

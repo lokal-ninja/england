@@ -1,5 +1,5 @@
 ---
 title: "Barbour Outlet"
 url: /braintree/barbour-outlet/
-shop: clothes
+shop: Kleidung
 ---

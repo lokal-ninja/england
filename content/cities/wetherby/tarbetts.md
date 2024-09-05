@@ -1,5 +1,5 @@
 ---
 title: "Tarbett's"
 url: /wetherby/tarbetts/
-shop: seafood
+shop: Fisch
 ---

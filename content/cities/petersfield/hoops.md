@@ -1,5 +1,5 @@
 ---
 title: "Hoops"
 url: /petersfield/hoops/
-shop: bicycle
+shop: Fahrrad
 ---

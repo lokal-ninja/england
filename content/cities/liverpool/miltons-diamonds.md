@@ -1,5 +1,5 @@
 ---
 title: "Miltons Diamonds"
 url: /liverpool/miltons-diamonds/
-shop: jewelry
+shop: Schmuck
 ---

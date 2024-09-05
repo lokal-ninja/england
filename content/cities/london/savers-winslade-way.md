@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /london/savers-winslade-way/
-shop: chemist
+shop: Drogerie
 ---

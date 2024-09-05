@@ -1,5 +1,5 @@
 ---
 title: "Amplifon"
 url: /blackpool/amplifon/
-shop: hearing aids
+shop: Hörgeräte
 ---

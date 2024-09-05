@@ -1,5 +1,5 @@
 ---
 title: "Firdows"
 url: /birmingham/firdows/
-shop: clothes
+shop: Kleidung
 ---

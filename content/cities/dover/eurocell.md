@@ -1,5 +1,5 @@
 ---
 title: "Eurocell"
 url: /dover/eurocell/
-shop: glaziery
+shop: Glaserei
 ---

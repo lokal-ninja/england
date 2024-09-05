@@ -1,5 +1,5 @@
 ---
 title: "Weldmar Hospicecare Trust"
 url: /beaminster/weldmar-hospicecare-trust/
-shop: charity
+shop: Gebrauchtwaren
 ---

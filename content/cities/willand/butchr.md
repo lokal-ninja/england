@@ -1,5 +1,5 @@
 ---
 title: "Butchr"
 url: /willand/butchr/
-shop: butcher
+shop: Metzgerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Emson Haig"
 url: /grays/emson-haig/
-shop: jewelry
+shop: Schmuck
 ---

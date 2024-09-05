@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /lancaster/coral/
-shop: bookmaker
+shop: Wettbüro
 ---

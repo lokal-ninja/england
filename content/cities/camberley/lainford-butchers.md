@@ -1,5 +1,5 @@
 ---
 title: "Lainford Butchers"
 url: /camberley/lainford-butchers/
-shop: butcher
+shop: Metzgerei
 ---

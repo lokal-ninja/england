@@ -1,5 +1,5 @@
 ---
 title: "Hairtopia"
 url: /darlington/hairtopia/
-shop: shop
+shop: Allgemein
 ---

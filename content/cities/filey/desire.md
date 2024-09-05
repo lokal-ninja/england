@@ -1,5 +1,5 @@
 ---
 title: "Desire"
 url: /filey/desire/
-shop: clothes
+shop: Kleidung
 ---

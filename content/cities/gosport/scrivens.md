@@ -1,5 +1,5 @@
 ---
 title: "Scrivens"
 url: /gosport/scrivens/
-shop: optician
+shop: Optiker
 ---

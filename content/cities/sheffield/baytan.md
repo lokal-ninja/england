@@ -1,5 +1,5 @@
 ---
 title: "BayTan"
 url: /sheffield/baytan/
-shop: beauty
+shop: Kosmetik
 ---

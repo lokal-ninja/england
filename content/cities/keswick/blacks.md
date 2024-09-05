@@ -1,5 +1,5 @@
 ---
 title: "Blacks"
 url: /keswick/blacks/
-shop: outdoor
+shop: Outdoor
 ---

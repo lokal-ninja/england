@@ -1,5 +1,5 @@
 ---
 title: "Peacocks"
 url: /chorley/peacocks/
-shop: clothes
+shop: Kleidung
 ---

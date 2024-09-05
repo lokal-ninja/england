@@ -1,5 +1,5 @@
 ---
 title: "Kutchenhaus"
 url: /bournemouth/kutchenhaus/
-shop: kitchen
+shop: Küchen
 ---

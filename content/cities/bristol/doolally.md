@@ -1,5 +1,5 @@
 ---
 title: "Doolally"
 url: /bristol/doolally/
-shop: alcohol
+shop: Spirituosen
 ---

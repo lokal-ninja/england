@@ -1,5 +1,5 @@
 ---
 title: "Greggs"
 url: /nottingham/greggs-main-street/
-shop: bakery
+shop: Bäckerei
 ---

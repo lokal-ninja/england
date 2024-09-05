@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /horsell/premier/
-shop: convenience
+shop: Lebensmittel
 ---

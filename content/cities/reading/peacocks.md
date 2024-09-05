@@ -1,5 +1,5 @@
 ---
 title: "Peacocks"
 url: /reading/peacocks/
-shop: clothes
+shop: Kleidung
 ---

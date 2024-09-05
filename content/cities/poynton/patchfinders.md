@@ -1,5 +1,5 @@
 ---
 title: "Patchfinders"
 url: /poynton/patchfinders/
-shop: shop
+shop: Allgemein
 ---

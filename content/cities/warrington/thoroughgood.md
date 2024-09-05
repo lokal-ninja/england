@@ -1,5 +1,5 @@
 ---
 title: "Thoroughgood"
 url: /warrington/thoroughgood/
-shop: convenience
+shop: Lebensmittel
 ---

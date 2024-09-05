@@ -1,5 +1,5 @@
 ---
 title: "Local Savers"
 url: /uxbridge/local-savers/
-shop: houseware
+shop: Haushaltsartikel
 ---

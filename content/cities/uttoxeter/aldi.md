@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /uttoxeter/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

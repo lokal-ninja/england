@@ -1,5 +1,5 @@
 ---
 title: "Booker"
 url: /london/booker/
-shop: wholesale
+shop: Großhandel
 ---

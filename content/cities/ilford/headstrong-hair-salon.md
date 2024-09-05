@@ -1,5 +1,5 @@
 ---
 title: "Headstrong Hair Salon"
 url: /ilford/headstrong-hair-salon/
-shop: hairdresser
+shop: Friseur
 ---

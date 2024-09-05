@@ -1,5 +1,5 @@
 ---
 title: "Crock"
 url: /cheltenham/crock/
-shop: kitchen
+shop: Küchen
 ---

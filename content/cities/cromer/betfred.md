@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /cromer/betfred/
-shop: bookmaker
+shop: Wettbüro
 ---

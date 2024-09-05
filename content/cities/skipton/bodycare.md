@@ -1,5 +1,5 @@
 ---
 title: "Bodycare"
 url: /skipton/bodycare/
-shop: chemist
+shop: Drogerie
 ---

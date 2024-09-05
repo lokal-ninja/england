@@ -1,5 +1,5 @@
 ---
 title: "Ted's"
 url: /morecambe/teds/
-shop: convenience
+shop: Lebensmittel
 ---

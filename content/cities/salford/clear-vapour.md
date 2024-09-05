@@ -1,5 +1,5 @@
 ---
 title: "Clear Vapour"
 url: /salford/clear-vapour/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

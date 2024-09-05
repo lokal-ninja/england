@@ -1,5 +1,5 @@
 ---
 title: "Footprints"
 url: /preston/footprints/
-shop: shop
+shop: Allgemein
 ---

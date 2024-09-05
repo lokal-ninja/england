@@ -1,5 +1,5 @@
 ---
 title: "Attleborough Convenience Store"
 url: /attleborough/attleborough-convenience-store/
-shop: convenience
+shop: Lebensmittel
 ---

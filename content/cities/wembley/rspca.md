@@ -1,5 +1,5 @@
 ---
 title: "RSPCA"
 url: /wembley/rspca/
-shop: charity
+shop: Gebrauchtwaren
 ---

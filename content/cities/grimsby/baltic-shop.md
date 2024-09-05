@@ -1,5 +1,5 @@
 ---
 title: "Baltic Shop"
 url: /grimsby/baltic-shop/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Guy Salmon Jaguar"
 url: /aylesford/guy-salmon-jaguar/
-shop: car
+shop: Autohaus
 ---

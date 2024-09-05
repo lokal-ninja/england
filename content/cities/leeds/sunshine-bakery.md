@@ -1,5 +1,5 @@
 ---
 title: "Sunshine Bakery"
 url: /leeds/sunshine-bakery/
-shop: bakery
+shop: Bäckerei
 ---

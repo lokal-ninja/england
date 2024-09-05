@@ -1,5 +1,5 @@
 ---
 title: "Selly Oak Superstore"
 url: /birmingham/selly-oak-superstore/
-shop: convenience
+shop: Lebensmittel
 ---

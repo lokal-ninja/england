@@ -1,5 +1,5 @@
 ---
 title: "Ramsdens"
 url: /workington/ramsdens/
-shop: pawnbroker
+shop: Leiher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mint"
 url: /cheltenham/mint/
-shop: clothes
+shop: Kleidung
 ---

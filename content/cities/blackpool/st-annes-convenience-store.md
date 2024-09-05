@@ -1,5 +1,5 @@
 ---
 title: "St Anne's Convenience Store"
 url: /blackpool/st-annes-convenience-store/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Paradigm"
 url: /teddington/paradigm/
-shop: hairdresser
+shop: Friseur
 ---

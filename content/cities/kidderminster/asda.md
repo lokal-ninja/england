@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /kidderminster/asda/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "American Diamond Nails"
 url: /london/american-diamond-nails/
-shop: beauty
+shop: Kosmetik
 ---

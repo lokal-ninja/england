@@ -1,5 +1,5 @@
 ---
 title: "Sense"
 url: /croydon/sense/
-shop: charity
+shop: Gebrauchtwaren
 ---

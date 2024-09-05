@@ -1,5 +1,5 @@
 ---
 title: "Wickes"
 url: /hemel-hempstead/wickes/
-shop: doityourself
+shop: Baumarkt
 ---

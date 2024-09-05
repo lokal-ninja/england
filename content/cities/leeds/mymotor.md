@@ -1,5 +1,5 @@
 ---
 title: "MyMotor"
 url: /leeds/mymotor/
-shop: motorcycle
+shop: Motorrad
 ---

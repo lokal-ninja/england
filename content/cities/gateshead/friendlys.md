@@ -1,5 +1,5 @@
 ---
 title: "Friendlys"
 url: /gateshead/friendlys/
-shop: convenience
+shop: Lebensmittel
 ---

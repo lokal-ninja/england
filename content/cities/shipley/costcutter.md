@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /shipley/costcutter/
-shop: convenience
+shop: Lebensmittel
 ---

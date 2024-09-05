@@ -1,5 +1,5 @@
 ---
 title: "Mind"
 url: /leyland/mind/
-shop: charity
+shop: Gebrauchtwaren
 ---

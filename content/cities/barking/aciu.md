@@ -1,5 +1,5 @@
 ---
 title: "Aciu"
 url: /barking/aciu/
-shop: shop
+shop: Allgemein
 ---

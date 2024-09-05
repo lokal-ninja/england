@@ -1,5 +1,5 @@
 ---
 title: "Inkarma"
 url: /southport/inkarma/
-shop: tattoo
+shop: Tattoo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "FMB Cycles"
 url: /leicester/fmb-cycles/
-shop: bicycle
+shop: Fahrrad
 ---

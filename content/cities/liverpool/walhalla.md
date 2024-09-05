@@ -1,5 +1,5 @@
 ---
 title: "Walhalla"
 url: /liverpool/walhalla/
-shop: tattoo
+shop: Tattoo
 ---

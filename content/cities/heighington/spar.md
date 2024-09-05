@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /heighington/spar/
-shop: supermarket
+shop: Supermarkt
 ---

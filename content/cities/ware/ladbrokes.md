@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /ware/ladbrokes/
-shop: bookmaker
+shop: Wettbüro
 ---

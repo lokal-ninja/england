@@ -1,5 +1,5 @@
 ---
 title: "Gadgetry"
 url: /london/gadgetry/
-shop: electronics
+shop: Elektronik
 ---

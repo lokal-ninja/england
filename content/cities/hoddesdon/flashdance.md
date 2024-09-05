@@ -1,5 +1,5 @@
 ---
 title: "Flashdance"
 url: /hoddesdon/flashdance/
-shop: shop
+shop: Allgemein
 ---

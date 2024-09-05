@@ -1,5 +1,5 @@
 ---
 title: "St. James Jewellers"
 url: /grimsby/st-james-jewellers/
-shop: jewelry
+shop: Schmuck
 ---

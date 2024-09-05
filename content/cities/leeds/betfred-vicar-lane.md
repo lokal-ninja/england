@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /leeds/betfred-vicar-lane/
-shop: bookmaker
+shop: Wettbüro
 ---

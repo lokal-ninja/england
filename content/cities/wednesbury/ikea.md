@@ -1,5 +1,5 @@
 ---
 title: "IKEA"
 url: /wednesbury/ikea/
-shop: furniture
+shop: Möbel
 ---

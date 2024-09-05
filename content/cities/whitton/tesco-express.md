@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /whitton/tesco-express/
-shop: convenience
+shop: Lebensmittel
 ---

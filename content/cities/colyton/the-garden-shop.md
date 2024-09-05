@@ -1,5 +1,5 @@
 ---
 title: "The Garden shop"
 url: /colyton/the-garden-shop/
-shop: garden centre
+shop: Garten-Center
 ---

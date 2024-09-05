@@ -1,5 +1,5 @@
 ---
 title: "Imogen"
 url: /swadlincote/imogen/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Scarletts"
 url: /scarborough/scarletts/
-shop: hairdresser
+shop: Friseur
 ---

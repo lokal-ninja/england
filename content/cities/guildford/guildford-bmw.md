@@ -1,5 +1,5 @@
 ---
 title: "Guildford BMW"
 url: /guildford/guildford-bmw/
-shop: car
+shop: Autohaus
 ---

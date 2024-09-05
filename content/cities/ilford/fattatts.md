@@ -1,5 +1,5 @@
 ---
 title: "Fattatts"
 url: /ilford/fattatts/
-shop: tattoo
+shop: Tattoo
 ---

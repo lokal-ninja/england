@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /sutton/londis-gander-green-lane/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Panache"
 url: /crawcrook/panache/
-shop: hairdresser
+shop: Friseur
 ---

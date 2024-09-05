@@ -1,5 +1,5 @@
 ---
 title: "Booths"
 url: /knutsford/booths/
-shop: supermarket
+shop: Supermarkt
 ---

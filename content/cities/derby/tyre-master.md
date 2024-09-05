@@ -1,5 +1,5 @@
 ---
 title: "Tyre Master"
 url: /derby/tyre-master/
-shop: tyres
+shop: Reifen
 ---

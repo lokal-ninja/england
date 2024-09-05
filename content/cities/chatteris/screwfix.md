@@ -1,5 +1,5 @@
 ---
 title: "Screwfix"
 url: /chatteris/screwfix/
-shop: doityourself
+shop: Baumarkt
 ---

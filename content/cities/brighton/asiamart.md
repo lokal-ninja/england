@@ -1,5 +1,5 @@
 ---
 title: "Asiamart"
 url: /brighton/asiamart/
-shop: supermarket
+shop: Supermarkt
 ---

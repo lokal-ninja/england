@@ -1,5 +1,5 @@
 ---
 title: "Gaskyns Wholefoods"
 url: /arundel/gaskyns-wholefoods/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

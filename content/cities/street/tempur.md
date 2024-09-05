@@ -1,5 +1,5 @@
 ---
 title: "Tempur"
 url: /street/tempur/
-shop: bed
+shop: Betten
 ---

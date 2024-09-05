@@ -1,5 +1,5 @@
 ---
 title: "Fopp"
 url: /manchester/fopp/
-shop: music
+shop: Musik
 ---

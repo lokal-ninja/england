@@ -1,5 +1,5 @@
 ---
 title: "Spectrum"
 url: /battle/spectrum/
-shop: jewelry
+shop: Schmuck
 ---

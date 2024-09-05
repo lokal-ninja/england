@@ -1,5 +1,5 @@
 ---
 title: "Clippers"
 url: /southampton/clippers/
-shop: hairdresser
+shop: Friseur
 ---

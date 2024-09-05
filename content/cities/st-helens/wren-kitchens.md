@@ -1,5 +1,5 @@
 ---
 title: "Wren Kitchens"
 url: /st-helens/wren-kitchens/
-shop: kitchen
+shop: Küchen
 ---

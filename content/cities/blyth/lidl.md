@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /blyth/lidl/
-shop: supermarket
+shop: Supermarkt
 ---

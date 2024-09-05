@@ -1,5 +1,5 @@
 ---
 title: "Diffuse"
 url: /manchester/diffuse/
-shop: wholesale
+shop: Großhandel
 ---

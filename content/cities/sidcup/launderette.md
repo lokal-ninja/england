@@ -1,5 +1,5 @@
 ---
 title: "Launderette"
 url: /sidcup/launderette/
-shop: laundry
+shop: Wäscherei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Peacocks"
 url: /wellingborough/peacocks/
-shop: clothes
+shop: Kleidung
 ---

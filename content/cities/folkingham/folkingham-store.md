@@ -1,5 +1,5 @@
 ---
 title: "Folkingham Store"
 url: /folkingham/folkingham-store/
-shop: convenience
+shop: Lebensmittel
 ---

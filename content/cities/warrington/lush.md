@@ -1,5 +1,5 @@
 ---
 title: "Lush"
 url: /warrington/lush/
-shop: beauty
+shop: Kosmetik
 ---

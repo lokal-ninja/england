@@ -1,5 +1,5 @@
 ---
 title: "Gridlock"
 url: /whitstable/gridlock/
-shop: shoes
+shop: Schuhe
 ---

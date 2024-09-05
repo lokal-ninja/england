@@ -1,5 +1,5 @@
 ---
 title: "The Range"
 url: /coventry/the-range/
-shop: houseware
+shop: Haushaltsartikel
 ---

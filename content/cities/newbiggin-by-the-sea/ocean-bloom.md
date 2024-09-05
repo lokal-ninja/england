@@ -1,5 +1,5 @@
 ---
 title: "Ocean Bloom"
 url: /newbiggin-by-the-sea/ocean-bloom/
-shop: florist
+shop: Blumen
 ---

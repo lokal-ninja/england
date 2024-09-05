@@ -1,5 +1,5 @@
 ---
 title: "Coach"
 url: /portsmouth/coach/
-shop: bag
+shop: Taschen & Koffer
 ---

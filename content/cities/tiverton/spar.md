@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /tiverton/spar/
-shop: convenience
+shop: Lebensmittel
 ---

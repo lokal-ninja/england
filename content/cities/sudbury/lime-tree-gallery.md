@@ -1,5 +1,5 @@
 ---
 title: "Lime Tree Gallery"
 url: /sudbury/lime-tree-gallery/
-shop: art
+shop: Kunst
 ---

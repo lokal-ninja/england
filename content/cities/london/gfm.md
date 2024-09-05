@@ -1,5 +1,5 @@
 ---
 title: "GFM"
 url: /london/gfm/
-shop: hairdresser
+shop: Friseur
 ---

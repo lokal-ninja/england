@@ -1,5 +1,5 @@
 ---
 title: "SharpCuts"
 url: /luton/sharpcuts/
-shop: hairdresser
+shop: Friseur
 ---

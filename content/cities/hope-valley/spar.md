@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /hope-valley/spar/
-shop: supermarket
+shop: Supermarkt
 ---

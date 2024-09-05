@@ -1,5 +1,5 @@
 ---
 title: "City Plumbing"
 url: /bridgwater/city-plumbing/
-shop: trade
+shop: Baustoffe
 ---

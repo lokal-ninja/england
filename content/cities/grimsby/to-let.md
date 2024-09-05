@@ -1,5 +1,5 @@
 ---
 title: "To Let"
 url: /grimsby/to-let/
-shop: shop
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Experience"
 url: /harwich/experience/
-shop: beauty
+shop: Kosmetik
 ---

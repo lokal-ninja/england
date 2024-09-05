@@ -1,5 +1,5 @@
 ---
 title: "Conkers"
 url: /bridgnorth/conkers/
-shop: alcohol
+shop: Spirituosen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ReINKarnation"
 url: /ilkeston/reinkarnation/
-shop: tattoo
+shop: Tattoo
 ---

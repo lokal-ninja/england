@@ -1,5 +1,5 @@
 ---
 title: "Accessorize"
 url: /grays/accessorize/
-shop: boutique
+shop: Modehaus
 ---

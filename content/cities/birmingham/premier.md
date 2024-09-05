@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /birmingham/premier/
-shop: convenience
+shop: Lebensmittel
 ---

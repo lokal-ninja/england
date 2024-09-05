@@ -1,5 +1,5 @@
 ---
 title: "Waterstones"
 url: /cirencester/waterstones/
-shop: books
+shop: Bücher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /blackpool/londis/
-shop: convenience
+shop: Lebensmittel
 ---

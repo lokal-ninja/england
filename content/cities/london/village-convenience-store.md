@@ -1,5 +1,5 @@
 ---
 title: "Village Convenience Store"
 url: /london/village-convenience-store/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aarz"
 url: /london/aarz/
-shop: shoes
+shop: Schuhe
 ---

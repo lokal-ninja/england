@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /new-romney/premier/
-shop: convenience
+shop: Lebensmittel
 ---

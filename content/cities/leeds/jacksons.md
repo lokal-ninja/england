@@ -1,5 +1,5 @@
 ---
 title: "Jackson's"
 url: /leeds/jacksons/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

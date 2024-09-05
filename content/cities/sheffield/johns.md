@@ -1,5 +1,5 @@
 ---
 title: "Johns"
 url: /sheffield/johns/
-shop: convenience
+shop: Lebensmittel
 ---

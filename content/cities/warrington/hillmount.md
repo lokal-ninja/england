@@ -1,5 +1,5 @@
 ---
 title: "Hillmount"
 url: /warrington/hillmount/
-shop: furniture
+shop: Möbel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Inspiration"
 url: /birkenhead/inspiration/
-shop: bed
+shop: Betten
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fig"
 url: /richmond/fig/
-shop: clothes
+shop: Kleidung
 ---

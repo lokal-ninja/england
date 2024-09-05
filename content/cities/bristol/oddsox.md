@@ -1,5 +1,5 @@
 ---
 title: "Oddsox"
 url: /bristol/oddsox/
-shop: shoes
+shop: Schuhe
 ---

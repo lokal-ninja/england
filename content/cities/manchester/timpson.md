@@ -1,5 +1,5 @@
 ---
 title: "Timpson"
 url: /manchester/timpson/
-shop: locksmith
+shop: Schlüsseldienst
 ---

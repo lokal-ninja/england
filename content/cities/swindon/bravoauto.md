@@ -1,5 +1,5 @@
 ---
 title: "bravoauto"
 url: /swindon/bravoauto/
-shop: car
+shop: Autohaus
 ---

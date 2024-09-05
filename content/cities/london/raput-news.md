@@ -1,5 +1,5 @@
 ---
 title: "Raput News"
 url: /london/raput-news/
-shop: newsagent
+shop: Zeitungen
 ---

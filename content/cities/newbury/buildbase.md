@@ -1,5 +1,5 @@
 ---
 title: "Buildbase"
 url: /newbury/buildbase/
-shop: doityourself
+shop: Baumarkt
 ---

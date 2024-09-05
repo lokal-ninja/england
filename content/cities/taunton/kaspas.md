@@ -1,5 +1,5 @@
 ---
 title: "Kaspa's"
 url: /taunton/kaspas/
-shop: confectionery
+shop: Süßwaren
 ---

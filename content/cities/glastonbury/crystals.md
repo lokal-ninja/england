@@ -1,5 +1,5 @@
 ---
 title: "Crystals"
 url: /glastonbury/crystals/
-shop: esoteric
+shop: Esoterik
 ---

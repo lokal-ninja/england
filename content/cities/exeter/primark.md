@@ -1,5 +1,5 @@
 ---
 title: "Primark"
 url: /exeter/primark/
-shop: clothes
+shop: Kleidung
 ---

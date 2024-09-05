@@ -1,5 +1,5 @@
 ---
 title: "Shambles"
 url: /waterlooville/shambles/
-shop: houseware
+shop: Haushaltsartikel
 ---

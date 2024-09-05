@@ -1,5 +1,5 @@
 ---
 title: "Arbons"
 url: /norwich/arbons/
-shop: flooring
+shop: Fußböden
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Casa de Lux"
 url: /radlett/casa-de-lux/
-shop: furniture
+shop: Möbel
 ---

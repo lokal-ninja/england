@@ -1,5 +1,5 @@
 ---
 title: "Spiceland"
 url: /blackpool/spiceland/
-shop: convenience
+shop: Lebensmittel
 ---

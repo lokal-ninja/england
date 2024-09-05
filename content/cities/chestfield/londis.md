@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /chestfield/londis/
-shop: convenience
+shop: Lebensmittel
 ---

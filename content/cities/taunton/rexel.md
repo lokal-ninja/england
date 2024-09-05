@@ -1,5 +1,5 @@
 ---
 title: "Rexel"
 url: /taunton/rexel/
-shop: electrical
+shop: Elektrisch
 ---

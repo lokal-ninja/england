@@ -1,5 +1,5 @@
 ---
 title: "Morrisons Daily"
 url: /weston-super-mare/morrisons-daily/
-shop: convenience
+shop: Lebensmittel
 ---

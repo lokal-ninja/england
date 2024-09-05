@@ -1,5 +1,5 @@
 ---
 title: "Little Attic"
 url: /bexhill-on-sea/little-attic/
-shop: antiques
+shop: Antiquitäten
 ---

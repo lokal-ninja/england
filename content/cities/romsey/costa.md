@@ -1,5 +1,5 @@
 ---
 title: "Costa"
 url: /romsey/costa/
-shop: coffee
+shop: Kaffee
 ---

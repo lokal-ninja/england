@@ -1,5 +1,5 @@
 ---
 title: "Flokk"
 url: /london/flokk/
-shop: furniture
+shop: Möbel
 ---

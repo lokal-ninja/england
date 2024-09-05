@@ -1,5 +1,5 @@
 ---
 title: "Johnsons"
 url: /runcorn/johnsons/
-shop: laundry
+shop: Wäscherei
 ---

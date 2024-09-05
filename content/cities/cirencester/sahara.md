@@ -1,5 +1,5 @@
 ---
 title: "Sahara"
 url: /cirencester/sahara/
-shop: clothes
+shop: Kleidung
 ---

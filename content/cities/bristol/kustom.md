@@ -1,5 +1,5 @@
 ---
 title: "Kustom"
 url: /bristol/kustom/
-shop: furniture
+shop: Möbel
 ---

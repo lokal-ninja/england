@@ -1,5 +1,5 @@
 ---
 title: "Cuore"
 url: /london/cuore/
-shop: deli
+shop: Feinkost
 ---

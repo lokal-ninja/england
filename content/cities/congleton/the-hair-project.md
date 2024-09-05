@@ -1,5 +1,5 @@
 ---
 title: "The Hair Project"
 url: /congleton/the-hair-project/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Emporium"
 url: /bolton/emporium/
-shop: shop
+shop: Allgemein
 ---

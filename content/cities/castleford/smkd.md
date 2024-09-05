@@ -1,5 +1,5 @@
 ---
 title: "SMKD"
 url: /castleford/smkd/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

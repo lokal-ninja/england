@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /ulverston/betfred/
-shop: bookmaker
+shop: Wettbüro
 ---

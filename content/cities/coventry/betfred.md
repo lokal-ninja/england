@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /coventry/betfred/
-shop: bookmaker
+shop: Wettbüro
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Select"
 url: /peterlee/select/
-shop: clothes
+shop: Kleidung
 ---

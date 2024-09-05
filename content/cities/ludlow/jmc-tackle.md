@@ -1,5 +1,5 @@
 ---
 title: "JMC Tackle"
 url: /ludlow/jmc-tackle/
-shop: fishing
+shop: Angeln
 ---

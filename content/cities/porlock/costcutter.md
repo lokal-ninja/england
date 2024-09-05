@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /porlock/costcutter/
-shop: convenience
+shop: Lebensmittel
 ---

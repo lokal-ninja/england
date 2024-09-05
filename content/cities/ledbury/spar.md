@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /ledbury/spar/
-shop: convenience
+shop: Lebensmittel
 ---

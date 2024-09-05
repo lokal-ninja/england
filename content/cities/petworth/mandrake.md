@@ -1,5 +1,5 @@
 ---
 title: "Mandrake"
 url: /petworth/mandrake/
-shop: art
+shop: Kunst
 ---

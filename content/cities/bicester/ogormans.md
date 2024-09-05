@@ -1,5 +1,5 @@
 ---
 title: "O'Gormans"
 url: /bicester/ogormans/
-shop: electrical
+shop: Elektrisch
 ---

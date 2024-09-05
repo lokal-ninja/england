@@ -1,5 +1,5 @@
 ---
 title: "And Sew We Begin"
 url: /newmarket/and-sew-we-begin/
-shop: sewing
+shop: Nähzubehör
 ---

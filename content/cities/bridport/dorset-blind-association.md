@@ -1,5 +1,5 @@
 ---
 title: "Dorset Blind Association"
 url: /bridport/dorset-blind-association/
-shop: charity
+shop: Gebrauchtwaren
 ---

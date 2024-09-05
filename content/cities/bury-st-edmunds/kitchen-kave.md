@@ -1,5 +1,5 @@
 ---
 title: "Kitchen Kave"
 url: /bury-st-edmunds/kitchen-kave/
-shop: houseware
+shop: Haushaltsartikel
 ---

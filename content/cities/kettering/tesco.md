@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /kettering/tesco/
-shop: convenience
+shop: Lebensmittel
 ---

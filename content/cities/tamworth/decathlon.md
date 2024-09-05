@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /tamworth/decathlon/
-shop: sports
+shop: Sport
 ---

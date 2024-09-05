@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /pontefract/lidl/
-shop: supermarket
+shop: Supermarkt
 ---

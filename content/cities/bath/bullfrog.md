@@ -1,5 +1,5 @@
 ---
 title: "Bullfrog"
 url: /bath/bullfrog/
-shop: gift
+shop: Andenken
 ---

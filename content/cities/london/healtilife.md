@@ -1,5 +1,5 @@
 ---
 title: "Healtilife"
 url: /london/healtilife/
-shop: shop
+shop: Allgemein
 ---

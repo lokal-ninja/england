@@ -1,5 +1,5 @@
 ---
 title: "Concept Hair"
 url: /lancaster/concept-hair/
-shop: hairdresser
+shop: Friseur
 ---

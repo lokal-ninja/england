@@ -1,5 +1,5 @@
 ---
 title: "Staple Mart"
 url: /london/staple-mart/
-shop: convenience
+shop: Lebensmittel
 ---

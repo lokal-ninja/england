@@ -1,5 +1,5 @@
 ---
 title: "Vintage"
 url: /twickenham/vintage/
-shop: massage
+shop: Massage
 ---

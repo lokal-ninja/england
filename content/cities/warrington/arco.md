@@ -1,5 +1,5 @@
 ---
 title: "Arco"
 url: /warrington/arco/
-shop: clothes
+shop: Kleidung
 ---

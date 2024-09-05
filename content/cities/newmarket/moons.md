@@ -1,5 +1,5 @@
 ---
 title: "Moons"
 url: /newmarket/moons/
-shop: toys
+shop: Spielzeug
 ---

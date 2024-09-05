@@ -1,5 +1,5 @@
 ---
 title: "Everyday Loans"
 url: /doncaster/everyday-loans/
-shop: pawnbroker
+shop: Leiher
 ---

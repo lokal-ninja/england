@@ -1,5 +1,5 @@
 ---
 title: "Waterfields"
 url: /prescot/waterfields/
-shop: bakery
+shop: Bäckerei
 ---

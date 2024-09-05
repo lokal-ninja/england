@@ -1,5 +1,5 @@
 ---
 title: "Co-op Food"
 url: /brighton/co-op-food-st-jamess-street/
-shop: supermarket
+shop: Supermarkt
 ---

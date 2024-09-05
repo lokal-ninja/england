@@ -1,5 +1,5 @@
 ---
 title: "Anarkali Collection"
 url: /nottingham/anarkali-collection/
-shop: clothes
+shop: Kleidung
 ---

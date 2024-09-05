@@ -1,5 +1,5 @@
 ---
 title: "Zen Computer Shop"
 url: /glastonbury/zen-computer-shop/
-shop: computer
+shop: Computer
 ---

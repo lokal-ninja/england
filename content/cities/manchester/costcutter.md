@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /manchester/costcutter/
-shop: convenience
+shop: Lebensmittel
 ---

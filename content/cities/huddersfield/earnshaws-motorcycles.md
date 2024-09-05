@@ -1,5 +1,5 @@
 ---
 title: "Earnshaws Motorcycles"
 url: /huddersfield/earnshaws-motorcycles/
-shop: motorcycle
+shop: Motorrad
 ---

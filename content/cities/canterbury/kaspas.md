@@ -1,5 +1,5 @@
 ---
 title: "Kaspa's"
 url: /canterbury/kaspas/
-shop: confectionery
+shop: Süßwaren
 ---

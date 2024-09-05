@@ -1,5 +1,5 @@
 ---
 title: "Gates DIY Store"
 url: /ilford/gates-diy-store/
-shop: doityourself
+shop: Baumarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Glink"
 url: /durham/glink/
-shop: tattoo
+shop: Tattoo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sabina"
 url: /croydon/sabina/
-shop: beauty
+shop: Kosmetik
 ---

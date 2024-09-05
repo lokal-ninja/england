@@ -1,5 +1,5 @@
 ---
 title: "Ryde Tyres"
 url: /ryde/ryde-tyres/
-shop: tyres
+shop: Reifen
 ---

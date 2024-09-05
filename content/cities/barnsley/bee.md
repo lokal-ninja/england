@@ -1,5 +1,5 @@
 ---
 title: "Bee"
 url: /barnsley/bee/
-shop: clothes
+shop: Kleidung
 ---

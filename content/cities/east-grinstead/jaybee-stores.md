@@ -1,5 +1,5 @@
 ---
 title: "Jaybee Stores"
 url: /east-grinstead/jaybee-stores/
-shop: convenience
+shop: Lebensmittel
 ---

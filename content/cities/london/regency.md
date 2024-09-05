@@ -1,5 +1,5 @@
 ---
 title: "Regency"
 url: /london/regency/
-shop: laundry
+shop: Wäscherei
 ---

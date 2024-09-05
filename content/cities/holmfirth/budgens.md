@@ -1,5 +1,5 @@
 ---
 title: "Budgens"
 url: /holmfirth/budgens/
-shop: convenience
+shop: Lebensmittel
 ---

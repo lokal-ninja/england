@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /newport/costcutter/
-shop: convenience
+shop: Lebensmittel
 ---

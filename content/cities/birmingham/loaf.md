@@ -1,5 +1,5 @@
 ---
 title: "Loaf"
 url: /birmingham/loaf/
-shop: bakery
+shop: Bäckerei
 ---

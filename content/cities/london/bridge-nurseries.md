@@ -1,5 +1,5 @@
 ---
 title: "Bridge Nurseries"
 url: /london/bridge-nurseries/
-shop: garden centre
+shop: Garten-Center
 ---

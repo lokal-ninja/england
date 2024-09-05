@@ -1,5 +1,5 @@
 ---
 title: "Expert Eyebrows"
 url: /cheltenham/expert-eyebrows/
-shop: beauty
+shop: Kosmetik
 ---

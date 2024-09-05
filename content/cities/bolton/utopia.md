@@ -1,5 +1,5 @@
 ---
 title: "Utopia"
 url: /bolton/utopia/
-shop: hairdresser
+shop: Friseur
 ---

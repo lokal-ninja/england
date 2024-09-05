@@ -1,5 +1,5 @@
 ---
 title: "Cherrydidi"
 url: /keswick/cherrydidi/
-shop: gift
+shop: Andenken
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Barra Organics"
 url: /sheffield/barra-organics/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

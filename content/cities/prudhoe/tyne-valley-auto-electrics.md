@@ -1,5 +1,5 @@
 ---
 title: "Tyne Valley Auto Electrics"
 url: /prudhoe/tyne-valley-auto-electrics/
-shop: car repair
+shop: Autowerkstatt
 ---

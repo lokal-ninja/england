@@ -1,5 +1,5 @@
 ---
 title: "Halo"
 url: /bishops-stortford/halo/
-shop: beauty
+shop: Kosmetik
 ---

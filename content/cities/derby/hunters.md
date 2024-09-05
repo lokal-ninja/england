@@ -1,5 +1,5 @@
 ---
 title: "Hunters"
 url: /derby/hunters/
-shop: car
+shop: Autohaus
 ---

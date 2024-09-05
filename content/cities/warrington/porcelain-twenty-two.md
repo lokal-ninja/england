@@ -1,5 +1,5 @@
 ---
 title: "Porcelain Twenty Two"
 url: /warrington/porcelain-twenty-two/
-shop: tiles
+shop: Fliesen
 ---

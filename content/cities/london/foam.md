@@ -1,5 +1,5 @@
 ---
 title: "foam"
 url: /london/foam/
-shop: hairdresser
+shop: Friseur
 ---

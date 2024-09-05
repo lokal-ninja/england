@@ -1,5 +1,5 @@
 ---
 title: "Otter Nurseries"
 url: /lymington/otter-nurseries/
-shop: garden centre
+shop: Garten-Center
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dicksons"
 url: /hebburn/dicksons/
-shop: butcher
+shop: Metzgerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /croydon/londis/
-shop: convenience
+shop: Lebensmittel
 ---

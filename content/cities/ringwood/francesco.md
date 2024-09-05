@@ -1,5 +1,5 @@
 ---
 title: "Francesco"
 url: /ringwood/francesco/
-shop: hairdresser
+shop: Friseur
 ---

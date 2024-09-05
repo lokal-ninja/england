@@ -1,5 +1,5 @@
 ---
 title: "Brunettes"
 url: /swindon/brunettes/
-shop: hairdresser
+shop: Friseur
 ---

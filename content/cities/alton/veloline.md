@@ -1,5 +1,5 @@
 ---
 title: "Veloline"
 url: /alton/veloline/
-shop: bicycle
+shop: Fahrrad
 ---

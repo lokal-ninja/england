@@ -1,5 +1,5 @@
 ---
 title: "Paint-A-Pot"
 url: /derby/paint-a-pot/
-shop: pottery
+shop: Töpferei
 ---

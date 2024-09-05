@@ -1,5 +1,5 @@
 ---
 title: "One Stop"
 url: /southampton/one-stop/
-shop: convenience
+shop: Lebensmittel
 ---

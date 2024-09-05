@@ -1,5 +1,5 @@
 ---
 title: "Stylist Barber Shop"
 url: /sheffield/stylist-barber-shop-market-street/
-shop: hairdresser
+shop: Friseur
 ---

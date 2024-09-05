@@ -1,5 +1,5 @@
 ---
 title: "Cotton Traders"
 url: /woburn-sands/cotton-traders/
-shop: clothes
+shop: Kleidung
 ---

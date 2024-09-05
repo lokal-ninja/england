@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /hunstanton/londis/
-shop: convenience
+shop: Lebensmittel
 ---

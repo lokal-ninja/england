@@ -1,5 +1,5 @@
 ---
 title: "Cranberries"
 url: /corringham/cranberries/
-shop: gift
+shop: Andenken
 ---

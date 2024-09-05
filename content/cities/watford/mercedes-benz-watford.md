@@ -1,5 +1,5 @@
 ---
 title: "Mercedes-Benz Watford"
 url: /watford/mercedes-benz-watford/
-shop: car
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gaska"
 url: /london/gaska/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Primeride"
 url: /chelmsford/primeride/
-shop: shop
+shop: Allgemein
 ---

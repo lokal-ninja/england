@@ -1,5 +1,5 @@
 ---
 title: "McCaffreys"
 url: /cheltenham/mccaffreys/
-shop: hairdresser
+shop: Friseur
 ---

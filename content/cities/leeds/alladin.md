@@ -1,5 +1,5 @@
 ---
 title: "Alladin"
 url: /leeds/alladin/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Greenside Local"
 url: /greenside/greenside-local/
-shop: supermarket
+shop: Supermarkt
 ---

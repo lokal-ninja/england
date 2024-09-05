@@ -1,5 +1,5 @@
 ---
 title: "Booka"
 url: /oswestry/booka/
-shop: books
+shop: Bücher
 ---

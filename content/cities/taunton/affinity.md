@@ -1,5 +1,5 @@
 ---
 title: "Affinity"
 url: /taunton/affinity/
-shop: hairdresser
+shop: Friseur
 ---

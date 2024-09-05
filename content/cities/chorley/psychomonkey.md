@@ -1,5 +1,5 @@
 ---
 title: "PsychoMonkey"
 url: /chorley/psychomonkey/
-shop: tattoo
+shop: Tattoo
 ---

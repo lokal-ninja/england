@@ -1,5 +1,5 @@
 ---
 title: "YMCA"
 url: /thetford/ymca/
-shop: charity
+shop: Gebrauchtwaren
 ---

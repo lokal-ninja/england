@@ -1,5 +1,5 @@
 ---
 title: "TMH Housewares Ltd"
 url: /manchester/tmh-housewares-ltd/
-shop: wholesale
+shop: Großhandel
 ---

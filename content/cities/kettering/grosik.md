@@ -1,5 +1,5 @@
 ---
 title: "Grosik"
 url: /kettering/grosik/
-shop: convenience
+shop: Lebensmittel
 ---

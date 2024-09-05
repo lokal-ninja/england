@@ -1,5 +1,5 @@
 ---
 title: "Vibram London Academy"
 url: /london/vibram-london-academy/
-shop: shoes
+shop: Schuhe
 ---

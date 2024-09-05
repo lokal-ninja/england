@@ -1,5 +1,5 @@
 ---
 title: "Panache"
 url: /battle/panache/
-shop: beauty
+shop: Kosmetik
 ---

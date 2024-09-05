@@ -1,5 +1,5 @@
 ---
 title: "Haus of Hair"
 url: /st-helens/haus-of-hair/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jesters"
 url: /london/jesters/
-shop: convenience
+shop: Lebensmittel
 ---

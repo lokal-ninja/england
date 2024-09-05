@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /spennymoor/lidl/
-shop: supermarket
+shop: Supermarkt
 ---

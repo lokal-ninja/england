@@ -1,5 +1,5 @@
 ---
 title: "Cooplands"
 url: /selby/cooplands/
-shop: bakery
+shop: Bäckerei
 ---

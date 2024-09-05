@@ -1,5 +1,5 @@
 ---
 title: "Clarks"
 url: /taunton/clarks/
-shop: shoes
+shop: Schuhe
 ---

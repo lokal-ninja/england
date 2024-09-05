@@ -1,5 +1,5 @@
 ---
 title: "Living Water"
 url: /ipswich/living-water/
-shop: charity
+shop: Gebrauchtwaren
 ---

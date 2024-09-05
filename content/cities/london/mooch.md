@@ -1,5 +1,5 @@
 ---
 title: "Mooch"
 url: /london/mooch/
-shop: gift
+shop: Andenken
 ---

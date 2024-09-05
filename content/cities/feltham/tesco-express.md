@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /feltham/tesco-express/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pasticceria"
 url: /bishops-stortford/pasticceria/
-shop: pastry
+shop: Konditorei
 ---

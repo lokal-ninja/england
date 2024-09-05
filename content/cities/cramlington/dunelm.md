@@ -1,5 +1,5 @@
 ---
 title: "Dunelm"
 url: /cramlington/dunelm/
-shop: interior decoration
+shop: Raumausstattung
 ---

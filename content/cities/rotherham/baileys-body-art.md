@@ -1,5 +1,5 @@
 ---
 title: "Bailey's Body Art"
 url: /rotherham/baileys-body-art/
-shop: tattoo
+shop: Tattoo
 ---

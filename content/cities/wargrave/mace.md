@@ -1,5 +1,5 @@
 ---
 title: "Mace"
 url: /wargrave/mace/
-shop: convenience
+shop: Lebensmittel
 ---

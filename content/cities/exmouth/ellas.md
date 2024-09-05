@@ -1,5 +1,5 @@
 ---
 title: "Ella's"
 url: /exmouth/ellas/
-shop: art
+shop: Kunst
 ---

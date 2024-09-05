@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /barnoldswick/spar/
-shop: convenience
+shop: Lebensmittel
 ---

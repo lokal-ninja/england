@@ -1,5 +1,5 @@
 ---
 title: "Cakeland"
 url: /tipton/cakeland/
-shop: bakery
+shop: Bäckerei
 ---

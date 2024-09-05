@@ -1,5 +1,5 @@
 ---
 title: "Specialized"
 url: /bristol/specialized/
-shop: bicycle
+shop: Fahrrad
 ---

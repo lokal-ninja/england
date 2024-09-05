@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
 url: /lincoln/intersport/
-shop: sports
+shop: Sport
 ---

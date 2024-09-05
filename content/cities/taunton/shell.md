@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /taunton/shell/
-shop: convenience
+shop: Lebensmittel
 ---

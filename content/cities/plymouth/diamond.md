@@ -1,5 +1,5 @@
 ---
 title: "Diamond"
 url: /plymouth/diamond/
-shop: beauty
+shop: Kosmetik
 ---

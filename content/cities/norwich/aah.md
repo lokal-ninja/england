@@ -1,5 +1,5 @@
 ---
 title: "aah!"
 url: /norwich/aah/
-shop: hairdresser
+shop: Friseur
 ---

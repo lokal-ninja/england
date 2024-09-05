@@ -1,5 +1,5 @@
 ---
 title: "Capricorn Unisex Hair Design"
 url: /blyth/capricorn-unisex-hair-design/
-shop: hairdresser
+shop: Friseur
 ---

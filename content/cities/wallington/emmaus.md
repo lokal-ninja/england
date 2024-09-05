@@ -1,5 +1,5 @@
 ---
 title: "emmaus"
 url: /wallington/emmaus/
-shop: charity
+shop: Gebrauchtwaren
 ---

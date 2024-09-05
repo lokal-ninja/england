@@ -1,5 +1,5 @@
 ---
 title: "Timpson"
 url: /woking/timpson/
-shop: locksmith
+shop: Schlüsseldienst
 ---

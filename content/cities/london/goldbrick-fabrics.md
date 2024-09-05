@@ -1,5 +1,5 @@
 ---
 title: "Goldbrick Fabrics"
 url: /london/goldbrick-fabrics/
-shop: fabric
+shop: Textil
 ---

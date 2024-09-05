@@ -1,5 +1,5 @@
 ---
 title: "Presco"
 url: /london/presco/
-shop: convenience
+shop: Lebensmittel
 ---

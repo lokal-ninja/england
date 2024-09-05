@@ -1,5 +1,5 @@
 ---
 title: "Hairworks"
 url: /evesham/hairworks/
-shop: hairdresser
+shop: Friseur
 ---

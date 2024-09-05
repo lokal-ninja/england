@@ -1,5 +1,5 @@
 ---
 title: "Warmseal"
 url: /derby/warmseal/
-shop: shop
+shop: Allgemein
 ---

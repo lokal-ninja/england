@@ -1,5 +1,5 @@
 ---
 title: "Facets"
 url: /morpeth/facets/
-shop: jewelry
+shop: Schmuck
 ---

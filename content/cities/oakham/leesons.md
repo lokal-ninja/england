@@ -1,5 +1,5 @@
 ---
 title: "Leeson's"
 url: /oakham/leesons/
-shop: butcher
+shop: Metzgerei
 ---

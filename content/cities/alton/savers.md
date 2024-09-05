@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /alton/savers/
-shop: chemist
+shop: Drogerie
 ---

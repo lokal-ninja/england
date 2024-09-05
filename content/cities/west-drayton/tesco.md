@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /west-drayton/tesco/
-shop: supermarket
+shop: Supermarkt
 ---

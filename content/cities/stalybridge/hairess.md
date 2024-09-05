@@ -1,5 +1,5 @@
 ---
 title: "Hairess"
 url: /stalybridge/hairess/
-shop: hairdresser
+shop: Friseur
 ---

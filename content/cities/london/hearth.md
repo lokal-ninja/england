@@ -1,5 +1,5 @@
 ---
 title: "Hearth"
 url: /london/hearth/
-shop: bakery
+shop: Bäckerei
 ---

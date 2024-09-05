@@ -1,5 +1,5 @@
 ---
 title: "Woodbank Nurseries"
 url: /bingley/woodbank-nurseries/
-shop: garden centre
+shop: Garten-Center
 ---

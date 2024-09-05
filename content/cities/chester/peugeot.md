@@ -1,5 +1,5 @@
 ---
 title: "Peugeot"
 url: /chester/peugeot/
-shop: car
+shop: Autohaus
 ---

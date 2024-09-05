@@ -1,5 +1,5 @@
 ---
 title: "Footasylum"
 url: /huddersfield/footasylum/
-shop: shoes
+shop: Schuhe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Primark"
 url: /bedford/primark/
-shop: clothes
+shop: Kleidung
 ---

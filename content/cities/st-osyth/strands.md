@@ -1,5 +1,5 @@
 ---
 title: "Strands"
 url: /st-osyth/strands/
-shop: hairdresser
+shop: Friseur
 ---

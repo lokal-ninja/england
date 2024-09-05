@@ -1,5 +1,5 @@
 ---
 title: "Morrisons"
 url: /pontefract/morrisons-stuart-road/
-shop: garden centre
+shop: Garten-Center
 ---

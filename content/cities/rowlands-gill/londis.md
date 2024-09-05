@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /rowlands-gill/londis/
-shop: convenience
+shop: Lebensmittel
 ---

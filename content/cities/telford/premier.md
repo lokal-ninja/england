@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /telford/premier/
-shop: convenience
+shop: Lebensmittel
 ---

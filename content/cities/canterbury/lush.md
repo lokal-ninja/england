@@ -1,5 +1,5 @@
 ---
 title: "Lush"
 url: /canterbury/lush/
-shop: beauty
+shop: Kosmetik
 ---

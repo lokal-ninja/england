@@ -1,5 +1,5 @@
 ---
 title: "CeX"
 url: /gosport/cex/
-shop: electronics
+shop: Elektronik
 ---

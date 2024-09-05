@@ -1,5 +1,5 @@
 ---
 title: "Kit and Ace"
 url: /london/kit-and-ace/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Superbia"
 url: /manchester/superbia/
-shop: wholesale
+shop: Großhandel
 ---

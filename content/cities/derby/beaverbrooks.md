@@ -1,5 +1,5 @@
 ---
 title: "Beaverbrooks"
 url: /derby/beaverbrooks/
-shop: jewelry
+shop: Schmuck
 ---

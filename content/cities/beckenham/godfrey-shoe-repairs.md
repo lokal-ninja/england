@@ -1,5 +1,5 @@
 ---
 title: "Godfrey Shoe Repairs"
 url: /beckenham/godfrey-shoe-repairs/
-shop: shop
+shop: Allgemein
 ---

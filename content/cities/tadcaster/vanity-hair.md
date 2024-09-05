@@ -1,5 +1,5 @@
 ---
 title: "Vanity Hair"
 url: /tadcaster/vanity-hair/
-shop: hairdresser
+shop: Friseur
 ---

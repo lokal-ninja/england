@@ -1,5 +1,5 @@
 ---
 title: "Vitra"
 url: /london/vitra/
-shop: furniture
+shop: Möbel
 ---

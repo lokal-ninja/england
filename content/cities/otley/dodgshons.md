@@ -1,5 +1,5 @@
 ---
 title: "Dodgshons"
 url: /otley/dodgshons/
-shop: kitchen
+shop: Küchen
 ---

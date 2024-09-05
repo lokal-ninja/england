@@ -1,5 +1,5 @@
 ---
 title: "Regatta Great Outdoors"
 url: /castleford/regatta-great-outdoors/
-shop: outdoor
+shop: Outdoor
 ---

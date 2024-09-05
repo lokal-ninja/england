@@ -1,5 +1,5 @@
 ---
 title: "Jar's"
 url: /bristol/jars/
-shop: deli
+shop: Feinkost
 ---

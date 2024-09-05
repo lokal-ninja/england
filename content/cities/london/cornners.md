@@ -1,5 +1,5 @@
 ---
 title: "Cornners"
 url: /london/cornners/
-shop: convenience
+shop: Lebensmittel
 ---

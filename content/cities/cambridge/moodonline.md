@@ -1,5 +1,5 @@
 ---
 title: "Moodonline"
 url: /cambridge/moodonline/
-shop: interior decoration
+shop: Raumausstattung
 ---

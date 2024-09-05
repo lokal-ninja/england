@@ -1,5 +1,5 @@
 ---
 title: "Look Logos"
 url: /stevenage/look-logos/
-shop: copyshop
+shop: Kopieren
 ---

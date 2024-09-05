@@ -1,5 +1,5 @@
 ---
 title: "Summertown Cycles"
 url: /oxford/summertown-cycles/
-shop: bicycle
+shop: Fahrrad
 ---

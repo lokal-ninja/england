@@ -1,5 +1,5 @@
 ---
 title: "Vapour"
 url: /ryde/vapour/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

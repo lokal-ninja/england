@@ -1,5 +1,5 @@
 ---
 title: "Evolution"
 url: /exeter/evolution/
-shop: gift
+shop: Andenken
 ---

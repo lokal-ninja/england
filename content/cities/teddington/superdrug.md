@@ -1,5 +1,5 @@
 ---
 title: "Superdrug"
 url: /teddington/superdrug/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /gravesend/tesco-express-whitehill-road/
-shop: convenience
+shop: Lebensmittel
 ---

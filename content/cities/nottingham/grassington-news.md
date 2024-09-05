@@ -1,5 +1,5 @@
 ---
 title: "Grassington News"
 url: /nottingham/grassington-news/
-shop: newsagent
+shop: Zeitungen
 ---

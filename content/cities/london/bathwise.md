@@ -1,5 +1,5 @@
 ---
 title: "Bathwise"
 url: /london/bathwise/
-shop: bathroom
+shop: Badezimmer
 ---

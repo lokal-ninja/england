@@ -1,5 +1,5 @@
 ---
 title: "Sashion"
 url: /salford/sashion/
-shop: clothes
+shop: Kleidung
 ---

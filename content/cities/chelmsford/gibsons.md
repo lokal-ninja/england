@@ -1,5 +1,5 @@
 ---
 title: "Gibsons"
 url: /chelmsford/gibsons/
-shop: convenience
+shop: Lebensmittel
 ---

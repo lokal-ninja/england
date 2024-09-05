@@ -1,5 +1,5 @@
 ---
 title: "CeX"
 url: /borehamwood/cex/
-shop: electronics
+shop: Elektronik
 ---

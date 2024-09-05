@@ -1,5 +1,5 @@
 ---
 title: "HoneyCroft Post Office"
 url: /manningtree/honeycroft-post-office/
-shop: convenience
+shop: Lebensmittel
 ---

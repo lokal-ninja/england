@@ -1,5 +1,5 @@
 ---
 title: "Ackworth Autoserve"
 url: /pontefract/ackworth-autoserve/
-shop: car repair
+shop: Autowerkstatt
 ---

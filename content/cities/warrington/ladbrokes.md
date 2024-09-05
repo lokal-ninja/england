@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /warrington/ladbrokes/
-shop: bookmaker
+shop: Wettbüro
 ---

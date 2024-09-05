@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /middlesbrough/tesco-express-high-street/
-shop: convenience
+shop: Lebensmittel
 ---

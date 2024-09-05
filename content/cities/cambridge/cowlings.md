@@ -1,5 +1,5 @@
 ---
 title: "Cowlings"
 url: /cambridge/cowlings/
-shop: butcher
+shop: Metzgerei
 ---

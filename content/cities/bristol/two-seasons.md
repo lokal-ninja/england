@@ -1,5 +1,5 @@
 ---
 title: "Two Seasons"
 url: /bristol/two-seasons/
-shop: outdoor
+shop: Outdoor
 ---

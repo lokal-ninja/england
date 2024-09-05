@@ -1,5 +1,5 @@
 ---
 title: "Ryders"
 url: /warrington/ryders/
-shop: car
+shop: Autohaus
 ---

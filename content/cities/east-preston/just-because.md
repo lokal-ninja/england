@@ -1,5 +1,5 @@
 ---
 title: "Just Because"
 url: /east-preston/just-because/
-shop: party
+shop: Partyzubehör
 ---

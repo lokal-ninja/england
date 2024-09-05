@@ -1,5 +1,5 @@
 ---
 title: "Montrose"
 url: /rotherham/montrose/
-shop: furniture
+shop: Möbel
 ---

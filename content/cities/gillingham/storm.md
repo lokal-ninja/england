@@ -1,5 +1,5 @@
 ---
 title: "Storm"
 url: /gillingham/storm/
-shop: clothes
+shop: Kleidung
 ---

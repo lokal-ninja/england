@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /pontefract/whsmith/
-shop: newsagent
+shop: Zeitungen
 ---

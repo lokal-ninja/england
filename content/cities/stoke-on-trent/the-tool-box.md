@@ -1,5 +1,5 @@
 ---
 title: "The Tool Box"
 url: /stoke-on-trent/the-tool-box/
-shop: hardware
+shop: Eisenwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jakss"
 url: /london/jakss/
-shop: clothes
+shop: Kleidung
 ---

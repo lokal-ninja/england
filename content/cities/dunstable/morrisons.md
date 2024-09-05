@@ -1,5 +1,5 @@
 ---
 title: "Morrisons"
 url: /dunstable/morrisons/
-shop: supermarket
+shop: Supermarkt
 ---

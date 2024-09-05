@@ -1,5 +1,5 @@
 ---
 title: "Greggs"
 url: /chigwell/greggs/
-shop: bakery
+shop: Bäckerei
 ---

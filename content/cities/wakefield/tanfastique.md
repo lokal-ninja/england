@@ -1,5 +1,5 @@
 ---
 title: "Tanfastique"
 url: /wakefield/tanfastique/
-shop: beauty
+shop: Kosmetik
 ---

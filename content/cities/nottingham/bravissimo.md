@@ -1,5 +1,5 @@
 ---
 title: "Bravissimo"
 url: /nottingham/bravissimo/
-shop: clothes
+shop: Kleidung
 ---

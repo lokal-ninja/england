@@ -1,5 +1,5 @@
 ---
 title: "Dunelm"
 url: /canterbury/dunelm/
-shop: furniture
+shop: Möbel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /devizes/lidl/
-shop: supermarket
+shop: Supermarkt
 ---

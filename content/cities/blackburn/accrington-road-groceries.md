@@ -1,5 +1,5 @@
 ---
 title: "Accrington Road Groceries"
 url: /blackburn/accrington-road-groceries/
-shop: convenience
+shop: Lebensmittel
 ---

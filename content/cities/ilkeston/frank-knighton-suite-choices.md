@@ -1,5 +1,5 @@
 ---
 title: "Frank Knighton Suite Choices"
 url: /ilkeston/frank-knighton-suite-choices/
-shop: furniture
+shop: Möbel
 ---

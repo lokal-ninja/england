@@ -1,5 +1,5 @@
 ---
 title: "HJS"
 url: /swindon/hjs/
-shop: trade
+shop: Baustoffe
 ---

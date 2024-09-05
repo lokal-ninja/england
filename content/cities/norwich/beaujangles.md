@@ -1,5 +1,5 @@
 ---
 title: "Beaujangles"
 url: /norwich/beaujangles/
-shop: jewelry
+shop: Schmuck
 ---

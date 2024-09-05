@@ -1,5 +1,5 @@
 ---
 title: "Halo"
 url: /devizes/halo/
-shop: hairdresser
+shop: Friseur
 ---

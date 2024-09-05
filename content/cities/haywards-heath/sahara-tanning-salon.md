@@ -1,5 +1,5 @@
 ---
 title: "Sahara Tanning Salon"
 url: /haywards-heath/sahara-tanning-salon/
-shop: beauty
+shop: Kosmetik
 ---

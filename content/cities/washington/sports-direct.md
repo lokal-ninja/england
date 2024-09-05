@@ -1,5 +1,5 @@
 ---
 title: "Sports Direct"
 url: /washington/sports-direct/
-shop: sports
+shop: Sport
 ---

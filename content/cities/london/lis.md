@@ -1,5 +1,5 @@
 ---
 title: "LIS"
 url: /london/lis/
-shop: tools
+shop: Werkzeuge
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tallulah"
 url: /swindon/tallulah/
-shop: beauty
+shop: Kosmetik
 ---

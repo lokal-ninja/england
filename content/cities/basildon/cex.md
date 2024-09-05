@@ -1,5 +1,5 @@
 ---
 title: "CeX"
 url: /basildon/cex/
-shop: electronics
+shop: Elektronik
 ---

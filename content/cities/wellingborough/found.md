@@ -1,5 +1,5 @@
 ---
 title: "Found"
 url: /wellingborough/found/
-shop: clothes
+shop: Kleidung
 ---

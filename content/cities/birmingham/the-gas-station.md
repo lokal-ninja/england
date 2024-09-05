@@ -1,5 +1,5 @@
 ---
 title: "The Gas Station"
 url: /birmingham/the-gas-station/
-shop: gas
+shop: Gasflaschen
 ---

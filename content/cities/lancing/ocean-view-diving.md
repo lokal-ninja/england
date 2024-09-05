@@ -1,5 +1,5 @@
 ---
 title: "Ocean View Diving"
 url: /lancing/ocean-view-diving/
-shop: diving
+shop: Tauchen
 ---

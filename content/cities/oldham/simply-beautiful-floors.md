@@ -1,5 +1,5 @@
 ---
 title: "Simply Beautiful Floors"
 url: /oldham/simply-beautiful-floors/
-shop: flooring
+shop: Fußböden
 ---

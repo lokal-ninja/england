@@ -1,5 +1,5 @@
 ---
 title: "Javelin"
 url: /sudbury/javelin/
-shop: clothes
+shop: Kleidung
 ---

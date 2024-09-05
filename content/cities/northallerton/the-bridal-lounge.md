@@ -1,5 +1,5 @@
 ---
 title: "The Bridal Lounge"
 url: /northallerton/the-bridal-lounge/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /sowerby/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

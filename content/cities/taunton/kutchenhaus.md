@@ -1,5 +1,5 @@
 ---
 title: "Kutchenhaus"
 url: /taunton/kutchenhaus/
-shop: kitchen
+shop: Küchen
 ---

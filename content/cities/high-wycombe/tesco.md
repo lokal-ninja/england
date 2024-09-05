@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /high-wycombe/tesco/
-shop: supermarket
+shop: Supermarkt
 ---

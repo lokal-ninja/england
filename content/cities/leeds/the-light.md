@@ -1,5 +1,5 @@
 ---
 title: "The Light"
 url: /leeds/the-light/
-shop: mall
+shop: Einkaufszentrum
 ---

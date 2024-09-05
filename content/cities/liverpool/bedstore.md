@@ -1,5 +1,5 @@
 ---
 title: "Bedstore"
 url: /liverpool/bedstore/
-shop: bed
+shop: Betten
 ---

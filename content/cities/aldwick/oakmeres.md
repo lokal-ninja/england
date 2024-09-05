@@ -1,5 +1,5 @@
 ---
 title: "Oakmeres"
 url: /aldwick/oakmeres/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

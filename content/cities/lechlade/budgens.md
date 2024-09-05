@@ -1,5 +1,5 @@
 ---
 title: "Budgens"
 url: /lechlade/budgens/
-shop: convenience
+shop: Lebensmittel
 ---

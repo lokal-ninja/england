@@ -1,5 +1,5 @@
 ---
 title: "Newspoint"
 url: /huddersfield/newspoint/
-shop: newsagent
+shop: Zeitungen
 ---

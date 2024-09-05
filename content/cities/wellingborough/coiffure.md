@@ -1,5 +1,5 @@
 ---
 title: "Coiffure"
 url: /wellingborough/coiffure/
-shop: hairdresser
+shop: Friseur
 ---

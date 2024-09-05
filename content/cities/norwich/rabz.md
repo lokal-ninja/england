@@ -1,5 +1,5 @@
 ---
 title: "Rabz"
 url: /norwich/rabz/
-shop: convenience
+shop: Lebensmittel
 ---

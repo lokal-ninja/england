@@ -1,5 +1,5 @@
 ---
 title: "RiverIsland"
 url: /grimsby/riverisland/
-shop: clothes
+shop: Kleidung
 ---

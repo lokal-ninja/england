@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /spalding/londis/
-shop: convenience
+shop: Lebensmittel
 ---

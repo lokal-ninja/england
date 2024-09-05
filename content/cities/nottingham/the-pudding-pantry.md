@@ -1,5 +1,5 @@
 ---
 title: "The Pudding Pantry"
 url: /nottingham/the-pudding-pantry/
-shop: convenience
+shop: Lebensmittel
 ---

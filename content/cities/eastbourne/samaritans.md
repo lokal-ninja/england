@@ -1,5 +1,5 @@
 ---
 title: "Samaritans"
 url: /eastbourne/samaritans/
-shop: charity
+shop: Gebrauchtwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nisbets"
 url: /exeter/nisbets/
-shop: kitchen
+shop: Küchen
 ---

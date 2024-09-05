@@ -1,5 +1,5 @@
 ---
 title: "Wickes"
 url: /redditch/wickes/
-shop: doityourself
+shop: Baumarkt
 ---

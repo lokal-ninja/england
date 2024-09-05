@@ -1,5 +1,5 @@
 ---
 title: "P'Zazz"
 url: /croydon/pzazz/
-shop: hairdresser
+shop: Friseur
 ---

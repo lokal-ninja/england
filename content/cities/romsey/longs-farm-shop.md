@@ -1,5 +1,5 @@
 ---
 title: "Longs - Farm shop"
 url: /romsey/longs-farm-shop/
-shop: farm
+shop: Hofladen
 ---

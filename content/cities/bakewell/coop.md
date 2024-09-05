@@ -1,5 +1,5 @@
 ---
 title: "Coop"
 url: /bakewell/coop/
-shop: supermarket
+shop: Supermarkt
 ---

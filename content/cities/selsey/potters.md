@@ -1,5 +1,5 @@
 ---
 title: "Potters"
 url: /selsey/potters/
-shop: seafood
+shop: Fisch
 ---

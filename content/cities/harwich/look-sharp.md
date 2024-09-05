@@ -1,5 +1,5 @@
 ---
 title: "Look Sharp"
 url: /harwich/look-sharp/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hugo Boss"
 url: /grays/hugo-boss/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hobbycraft"
 url: /plymouth/hobbycraft/
-shop: craft
+shop: Basteln
 ---

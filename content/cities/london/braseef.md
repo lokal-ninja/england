@@ -1,5 +1,5 @@
 ---
 title: "Braseef"
 url: /london/braseef/
-shop: butcher
+shop: Metzgerei
 ---

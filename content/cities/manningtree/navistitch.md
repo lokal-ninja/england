@@ -1,5 +1,5 @@
 ---
 title: "NaviStitch"
 url: /manningtree/navistitch/
-shop: antiques
+shop: Antiquitäten
 ---

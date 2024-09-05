@@ -1,5 +1,5 @@
 ---
 title: "Drinkstop"
 url: /birmingham/drinkstop/
-shop: alcohol
+shop: Spirituosen
 ---

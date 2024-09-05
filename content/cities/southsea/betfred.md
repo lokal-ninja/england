@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /southsea/betfred/
-shop: bookmaker
+shop: Wettbüro
 ---

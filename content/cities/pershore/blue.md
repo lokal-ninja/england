@@ -1,5 +1,5 @@
 ---
 title: "Blue"
 url: /pershore/blue/
-shop: clothes
+shop: Kleidung
 ---

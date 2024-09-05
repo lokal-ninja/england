@@ -1,5 +1,5 @@
 ---
 title: "The Lighting Shop"
 url: /croydon/the-lighting-shop/
-shop: electronics
+shop: Elektronik
 ---

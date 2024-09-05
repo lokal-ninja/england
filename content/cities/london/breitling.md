@@ -1,5 +1,5 @@
 ---
 title: "Breitling"
 url: /london/breitling/
-shop: watches
+shop: Uhren
 ---

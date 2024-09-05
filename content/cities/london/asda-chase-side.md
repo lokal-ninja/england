@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /london/asda-chase-side/
-shop: supermarket
+shop: Supermarkt
 ---

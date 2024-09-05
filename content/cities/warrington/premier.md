@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /warrington/premier/
-shop: convenience
+shop: Lebensmittel
 ---

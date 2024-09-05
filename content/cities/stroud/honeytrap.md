@@ -1,5 +1,5 @@
 ---
 title: "Honeytrap"
 url: /stroud/honeytrap/
-shop: clothes
+shop: Kleidung
 ---

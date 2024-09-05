@@ -1,5 +1,5 @@
 ---
 title: "Haircraft"
 url: /sheffield/haircraft/
-shop: craft
+shop: Basteln
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tesla Centre - Southampton"
 url: /southampton/tesla-centre-southampton/
-shop: car
+shop: Autohaus
 ---

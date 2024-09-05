@@ -1,5 +1,5 @@
 ---
 title: "Syrenka"
 url: /sheffield/syrenka/
-shop: convenience
+shop: Lebensmittel
 ---

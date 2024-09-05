@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /london/londis-loampit-hill/
-shop: convenience
+shop: Lebensmittel
 ---

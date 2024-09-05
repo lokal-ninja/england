@@ -1,5 +1,5 @@
 ---
 title: "Superdrug"
 url: /gateshead/superdrug/
-shop: chemist
+shop: Drogerie
 ---

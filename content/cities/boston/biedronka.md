@@ -1,5 +1,5 @@
 ---
 title: "Biedronka"
 url: /boston/biedronka/
-shop: alcohol
+shop: Spirituosen
 ---

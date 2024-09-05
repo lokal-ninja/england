@@ -1,5 +1,5 @@
 ---
 title: "Awning Depot"
 url: /broadstairs/awning-depot/
-shop: shop
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Essence"
 url: /banstead/essence/
-shop: beauty
+shop: Kosmetik
 ---

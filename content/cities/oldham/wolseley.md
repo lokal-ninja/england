@@ -1,5 +1,5 @@
 ---
 title: "Wolseley"
 url: /oldham/wolseley/
-shop: trade
+shop: Baustoffe
 ---

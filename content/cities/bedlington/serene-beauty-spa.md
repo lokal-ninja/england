@@ -1,5 +1,5 @@
 ---
 title: "Serene Beauty Spa"
 url: /bedlington/serene-beauty-spa/
-shop: beauty
+shop: Kosmetik
 ---

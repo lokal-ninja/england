@@ -1,5 +1,5 @@
 ---
 title: "Birds"
 url: /ripley/birds/
-shop: bakery
+shop: Bäckerei
 ---

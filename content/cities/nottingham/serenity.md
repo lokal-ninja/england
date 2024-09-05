@@ -1,5 +1,5 @@
 ---
 title: "Serenity"
 url: /nottingham/serenity/
-shop: beauty
+shop: Kosmetik
 ---

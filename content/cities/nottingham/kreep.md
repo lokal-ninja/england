@@ -1,5 +1,5 @@
 ---
 title: "Kreep"
 url: /nottingham/kreep/
-shop: beauty
+shop: Kosmetik
 ---

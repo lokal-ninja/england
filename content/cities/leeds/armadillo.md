@@ -1,5 +1,5 @@
 ---
 title: "Armadillo"
 url: /leeds/armadillo/
-shop: toys
+shop: Spielzeug
 ---

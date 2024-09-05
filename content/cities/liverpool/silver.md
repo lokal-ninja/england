@@ -1,5 +1,5 @@
 ---
 title: "Silver"
 url: /liverpool/silver/
-shop: hairdresser
+shop: Friseur
 ---

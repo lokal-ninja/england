@@ -1,5 +1,5 @@
 ---
 title: "Verdun Express"
 url: /london/verdun-express/
-shop: convenience
+shop: Lebensmittel
 ---

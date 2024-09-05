@@ -1,5 +1,5 @@
 ---
 title: "Swifts"
 url: /ludlow/swifts/
-shop: bakery
+shop: Bäckerei
 ---

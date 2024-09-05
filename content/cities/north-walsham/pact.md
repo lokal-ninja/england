@@ -1,5 +1,5 @@
 ---
 title: "PACT"
 url: /north-walsham/pact/
-shop: charity
+shop: Gebrauchtwaren
 ---

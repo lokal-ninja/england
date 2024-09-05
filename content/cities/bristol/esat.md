@@ -1,5 +1,5 @@
 ---
 title: "Esat"
 url: /bristol/esat/
-shop: hairdresser
+shop: Friseur
 ---

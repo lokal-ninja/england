@@ -1,5 +1,5 @@
 ---
 title: "Argos"
 url: /lowestoft/argos/
-shop: catalogue
+shop: Katalog
 ---

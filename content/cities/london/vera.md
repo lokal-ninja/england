@@ -1,5 +1,5 @@
 ---
 title: "VERA"
 url: /london/vera/
-shop: jewelry
+shop: Schmuck
 ---

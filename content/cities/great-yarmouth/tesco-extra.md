@@ -1,5 +1,5 @@
 ---
 title: "Tesco Extra"
 url: /great-yarmouth/tesco-extra/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Go Local"
 url: /bolton/go-local/
-shop: convenience
+shop: Lebensmittel
 ---

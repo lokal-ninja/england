@@ -1,5 +1,5 @@
 ---
 title: "Sports Direct"
 url: /london/sports-direct-green-lanes/
-shop: sports
+shop: Sport
 ---

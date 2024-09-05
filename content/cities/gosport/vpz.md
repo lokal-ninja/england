@@ -1,5 +1,5 @@
 ---
 title: "VPZ"
 url: /gosport/vpz/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

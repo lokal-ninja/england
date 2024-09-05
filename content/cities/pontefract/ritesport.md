@@ -1,5 +1,5 @@
 ---
 title: "Ritesport"
 url: /pontefract/ritesport/
-shop: clothes
+shop: Kleidung
 ---

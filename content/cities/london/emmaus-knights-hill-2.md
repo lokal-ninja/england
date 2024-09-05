@@ -1,5 +1,5 @@
 ---
 title: "Emmaus"
 url: /london/emmaus-knights-hill-2/
-shop: charity
+shop: Gebrauchtwaren
 ---

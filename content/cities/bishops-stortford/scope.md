@@ -1,5 +1,5 @@
 ---
 title: "Scope"
 url: /bishops-stortford/scope/
-shop: charity
+shop: Gebrauchtwaren
 ---

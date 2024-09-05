@@ -1,5 +1,5 @@
 ---
 title: "Robert Hughes Eyecare"
 url: /sheffield/robert-hughes-eyecare/
-shop: optician
+shop: Optiker
 ---

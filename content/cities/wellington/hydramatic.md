@@ -1,5 +1,5 @@
 ---
 title: "Hydramatic"
 url: /wellington/hydramatic/
-shop: trade
+shop: Baustoffe
 ---

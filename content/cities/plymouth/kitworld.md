@@ -1,5 +1,5 @@
 ---
 title: "Kitworld"
 url: /plymouth/kitworld/
-shop: sports
+shop: Sport
 ---

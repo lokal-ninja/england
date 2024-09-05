@@ -1,5 +1,5 @@
 ---
 title: "Occasions Florist"
 url: /clacton-on-sea/occasions-florist/
-shop: florist
+shop: Blumen
 ---

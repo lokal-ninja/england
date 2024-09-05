@@ -1,5 +1,5 @@
 ---
 title: "Newsmag"
 url: /emsworth/newsmag/
-shop: newsagent
+shop: Zeitungen
 ---

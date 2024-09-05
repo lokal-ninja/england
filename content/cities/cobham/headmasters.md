@@ -1,5 +1,5 @@
 ---
 title: "Headmasters"
 url: /cobham/headmasters/
-shop: hairdresser
+shop: Friseur
 ---

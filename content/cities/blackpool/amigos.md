@@ -1,5 +1,5 @@
 ---
 title: "Amigo's"
 url: /blackpool/amigos/
-shop: convenience
+shop: Lebensmittel
 ---

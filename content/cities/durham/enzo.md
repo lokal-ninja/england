@@ -1,5 +1,5 @@
 ---
 title: "Enzo"
 url: /durham/enzo/
-shop: hairdresser
+shop: Friseur
 ---

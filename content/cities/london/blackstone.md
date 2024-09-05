@@ -1,5 +1,5 @@
 ---
 title: "Blackstone"
 url: /london/blackstone/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /huddersfield/betfred/
-shop: bookmaker
+shop: Wettbüro
 ---

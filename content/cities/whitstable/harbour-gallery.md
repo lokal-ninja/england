@@ -1,5 +1,5 @@
 ---
 title: "Harbour Gallery"
 url: /whitstable/harbour-gallery/
-shop: art
+shop: Kunst
 ---

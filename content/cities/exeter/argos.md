@@ -1,5 +1,5 @@
 ---
 title: "Argos"
 url: /exeter/argos/
-shop: catalogue
+shop: Katalog
 ---

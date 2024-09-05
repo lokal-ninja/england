@@ -1,5 +1,5 @@
 ---
 title: "Johnsons"
 url: /eastbourne/johnsons/
-shop: laundry
+shop: Wäscherei
 ---

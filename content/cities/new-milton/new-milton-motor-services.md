@@ -1,5 +1,5 @@
 ---
 title: "New Milton Motor Services"
 url: /new-milton/new-milton-motor-services/
-shop: car repair
+shop: Autowerkstatt
 ---

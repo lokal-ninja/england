@@ -1,5 +1,5 @@
 ---
 title: "Phoenix Hair Studio"
 url: /louth/phoenix-hair-studio/
-shop: hairdresser
+shop: Friseur
 ---

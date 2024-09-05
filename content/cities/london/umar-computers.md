@@ -1,5 +1,5 @@
 ---
 title: "Umar Computers"
 url: /london/umar-computers/
-shop: computer
+shop: Computer
 ---

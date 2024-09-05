@@ -1,5 +1,5 @@
 ---
 title: "Westwood"
 url: /chelmsford/westwood/
-shop: hairdresser
+shop: Friseur
 ---

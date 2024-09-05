@@ -1,5 +1,5 @@
 ---
 title: "Brunel Tailoring"
 url: /bristol/brunel-tailoring/
-shop: tailor
+shop: Schneiderei
 ---

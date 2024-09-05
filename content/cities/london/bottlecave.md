@@ -1,5 +1,5 @@
 ---
 title: "BottleCave"
 url: /london/bottlecave/
-shop: alcohol
+shop: Spirituosen
 ---

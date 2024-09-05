@@ -1,5 +1,5 @@
 ---
 title: "Aria"
 url: /london/aria/
-shop: furniture
+shop: Möbel
 ---

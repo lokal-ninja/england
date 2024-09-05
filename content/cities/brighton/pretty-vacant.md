@@ -1,5 +1,5 @@
 ---
 title: "Pretty Vacant"
 url: /brighton/pretty-vacant/
-shop: clothes
+shop: Kleidung
 ---

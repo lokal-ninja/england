@@ -1,5 +1,5 @@
 ---
 title: "Vivaldi"
 url: /waterlooville/vivaldi/
-shop: hairdresser
+shop: Friseur
 ---

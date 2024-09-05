@@ -1,5 +1,5 @@
 ---
 title: "Smoosh"
 url: /preston/smoosh/
-shop: hairdresser
+shop: Friseur
 ---

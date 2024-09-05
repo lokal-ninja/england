@@ -1,5 +1,5 @@
 ---
 title: "Four Seasons"
 url: /spilsby/four-seasons/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

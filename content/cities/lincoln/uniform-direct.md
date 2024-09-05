@@ -1,5 +1,5 @@
 ---
 title: "Uniform Direct"
 url: /lincoln/uniform-direct/
-shop: clothes
+shop: Kleidung
 ---

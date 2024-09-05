@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /kempston/costcutter/
-shop: convenience
+shop: Lebensmittel
 ---

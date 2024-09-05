@@ -1,5 +1,5 @@
 ---
 title: "Arthur Hayes"
 url: /east-grinstead/arthur-hayes/
-shop: optician
+shop: Optiker
 ---

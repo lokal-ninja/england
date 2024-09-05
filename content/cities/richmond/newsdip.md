@@ -1,5 +1,5 @@
 ---
 title: "Newsdip"
 url: /richmond/newsdip/
-shop: convenience
+shop: Lebensmittel
 ---

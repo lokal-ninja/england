@@ -1,5 +1,5 @@
 ---
 title: "Oxfam"
 url: /pershore/oxfam/
-shop: charity
+shop: Gebrauchtwaren
 ---

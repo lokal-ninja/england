@@ -1,5 +1,5 @@
 ---
 title: "Paddy Power"
 url: /london/paddy-power-high-street/
-shop: bookmaker
+shop: Wettbüro
 ---

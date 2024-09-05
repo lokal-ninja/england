@@ -1,5 +1,5 @@
 ---
 title: "Herdy"
 url: /ambleside/herdy/
-shop: gift
+shop: Andenken
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Laddaw"
 url: /norwich/laddaw/
-shop: wholesale
+shop: Großhandel
 ---

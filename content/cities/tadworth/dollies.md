@@ -1,5 +1,5 @@
 ---
 title: "Dollies"
 url: /tadworth/dollies/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pandora"
 url: /weston-super-mare/pandora/
-shop: jewelry
+shop: Schmuck
 ---

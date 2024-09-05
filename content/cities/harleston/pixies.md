@@ -1,5 +1,5 @@
 ---
 title: "Pixies"
 url: /harleston/pixies/
-shop: hairdresser
+shop: Friseur
 ---

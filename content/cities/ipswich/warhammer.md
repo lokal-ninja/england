@@ -1,5 +1,5 @@
 ---
 title: "Warhammer"
 url: /ipswich/warhammer/
-shop: games
+shop: Spiele
 ---

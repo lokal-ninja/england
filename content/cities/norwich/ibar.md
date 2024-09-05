@@ -1,5 +1,5 @@
 ---
 title: "iBar"
 url: /norwich/ibar/
-shop: hairdresser
+shop: Friseur
 ---

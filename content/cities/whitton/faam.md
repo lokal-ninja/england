@@ -1,5 +1,5 @@
 ---
 title: "Faam"
 url: /whitton/faam/
-shop: frame
+shop: Rahmen
 ---

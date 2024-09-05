@@ -1,5 +1,5 @@
 ---
 title: "JYSK"
 url: /wakefield/jysk/
-shop: furniture
+shop: Möbel
 ---

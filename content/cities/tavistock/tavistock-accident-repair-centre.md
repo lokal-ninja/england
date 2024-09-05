@@ -1,5 +1,5 @@
 ---
 title: "Tavistock Accident Repair Centre"
 url: /tavistock/tavistock-accident-repair-centre/
-shop: car repair
+shop: Autowerkstatt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Toolstation"
 url: /beccles/toolstation/
-shop: doityourself
+shop: Baumarkt
 ---

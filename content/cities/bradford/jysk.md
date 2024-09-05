@@ -1,5 +1,5 @@
 ---
 title: "JYSK"
 url: /bradford/jysk/
-shop: furniture
+shop: Möbel
 ---

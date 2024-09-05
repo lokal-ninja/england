@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /rotherham/asda-welfare-road/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Joanna Graff Aesthetics"
 url: /shrewsbury/joanna-graff-aesthetics/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hibas"
 url: /birmingham/hibas/
-shop: clothes
+shop: Kleidung
 ---

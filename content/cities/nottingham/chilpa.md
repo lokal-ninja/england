@@ -1,5 +1,5 @@
 ---
 title: "Chilpa"
 url: /nottingham/chilpa/
-shop: hairdresser
+shop: Friseur
 ---

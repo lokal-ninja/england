@@ -1,5 +1,5 @@
 ---
 title: "Stilo"
 url: /cambridge/stilo/
-shop: hairdresser
+shop: Friseur
 ---

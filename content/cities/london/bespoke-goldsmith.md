@@ -1,5 +1,5 @@
 ---
 title: "Bespoke Goldsmith"
 url: /london/bespoke-goldsmith/
-shop: jewelry
+shop: Schmuck
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Grin"
 url: /liverpool/grin/
-shop: clothes
+shop: Kleidung
 ---

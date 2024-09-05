@@ -1,5 +1,5 @@
 ---
 title: "Vapella"
 url: /devizes/vapella/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

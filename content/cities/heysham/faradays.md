@@ -1,5 +1,5 @@
 ---
 title: "Faradays"
 url: /heysham/faradays/
-shop: bakery
+shop: Bäckerei
 ---

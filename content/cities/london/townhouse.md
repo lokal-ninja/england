@@ -1,5 +1,5 @@
 ---
 title: "Townhouse"
 url: /london/townhouse/
-shop: beauty
+shop: Kosmetik
 ---

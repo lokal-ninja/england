@@ -1,5 +1,5 @@
 ---
 title: "Boots"
 url: /maldon/boots/
-shop: chemist
+shop: Drogerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "RSPCA"
 url: /todmorden/rspca/
-shop: charity
+shop: Gebrauchtwaren
 ---

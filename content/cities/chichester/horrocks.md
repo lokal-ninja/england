@@ -1,5 +1,5 @@
 ---
 title: "Horrocks"
 url: /chichester/horrocks/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

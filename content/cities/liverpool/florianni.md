@@ -1,5 +1,5 @@
 ---
 title: "Florianni"
 url: /liverpool/florianni/
-shop: clothes
+shop: Kleidung
 ---

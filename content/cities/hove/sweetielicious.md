@@ -1,5 +1,5 @@
 ---
 title: "Sweetielicious"
 url: /hove/sweetielicious/
-shop: convenience
+shop: Lebensmittel
 ---

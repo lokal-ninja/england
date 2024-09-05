@@ -1,5 +1,5 @@
 ---
 title: "Alpha Boutique"
 url: /london/alpha-boutique/
-shop: clothes
+shop: Kleidung
 ---

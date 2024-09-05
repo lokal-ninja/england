@@ -1,5 +1,5 @@
 ---
 title: "Lincolnshire Co-op"
 url: /lincoln/lincolnshire-co-op/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cook"
 url: /berkhamsted/cook/
-shop: shop
+shop: Allgemein
 ---

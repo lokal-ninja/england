@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /eastbourne/londis/
-shop: convenience
+shop: Lebensmittel
 ---

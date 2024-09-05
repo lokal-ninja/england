@@ -1,5 +1,5 @@
 ---
 title: "Blackham"
 url: /rugby/blackham/
-shop: optician
+shop: Optiker
 ---

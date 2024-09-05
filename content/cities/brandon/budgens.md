@@ -1,5 +1,5 @@
 ---
 title: "Budgens"
 url: /brandon/budgens/
-shop: convenience
+shop: Lebensmittel
 ---

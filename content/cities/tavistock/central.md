@@ -1,5 +1,5 @@
 ---
 title: "Central"
 url: /tavistock/central/
-shop: convenience
+shop: Lebensmittel
 ---

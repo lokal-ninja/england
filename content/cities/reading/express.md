@@ -1,5 +1,5 @@
 ---
 title: "Express"
 url: /reading/express/
-shop: convenience
+shop: Lebensmittel
 ---

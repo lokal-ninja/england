@@ -1,5 +1,5 @@
 ---
 title: "Carol's"
 url: /leeds/carols/
-shop: bakery
+shop: Bäckerei
 ---

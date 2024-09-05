@@ -1,5 +1,5 @@
 ---
 title: "Tran's Nails"
 url: /london/trans-nails/
-shop: beauty
+shop: Kosmetik
 ---

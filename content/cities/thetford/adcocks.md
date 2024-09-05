@@ -1,5 +1,5 @@
 ---
 title: "Adcocks"
 url: /thetford/adcocks/
-shop: electronics
+shop: Elektronik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ali's Fruit and Veg"
 url: /nottingham/alis-fruit-and-veg/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

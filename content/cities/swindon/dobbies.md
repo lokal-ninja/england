@@ -1,5 +1,5 @@
 ---
 title: "Dobbies"
 url: /swindon/dobbies/
-shop: garden centre
+shop: Garten-Center
 ---

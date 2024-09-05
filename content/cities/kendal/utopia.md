@@ -1,5 +1,5 @@
 ---
 title: "Utopia"
 url: /kendal/utopia/
-shop: hairdresser
+shop: Friseur
 ---

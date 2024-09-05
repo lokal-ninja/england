@@ -1,5 +1,5 @@
 ---
 title: "VapeHQ"
 url: /chesterfield/vapehq/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

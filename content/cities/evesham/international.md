@@ -1,5 +1,5 @@
 ---
 title: "International"
 url: /evesham/international/
-shop: convenience
+shop: Lebensmittel
 ---

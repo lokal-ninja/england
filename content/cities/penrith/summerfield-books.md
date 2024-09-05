@@ -1,5 +1,5 @@
 ---
 title: "Summerfield Books"
 url: /penrith/summerfield-books/
-shop: books
+shop: Bücher
 ---

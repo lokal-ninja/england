@@ -1,5 +1,5 @@
 ---
 title: "Currys"
 url: /chelmsford/currys/
-shop: electronics
+shop: Elektronik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sofantasic"
 url: /wakefield/sofantasic/
-shop: furniture
+shop: Möbel
 ---

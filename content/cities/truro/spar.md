@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /truro/spar/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Juliana Riviera"
 url: /midhurst/juliana-riviera/
-shop: clothes
+shop: Kleidung
 ---

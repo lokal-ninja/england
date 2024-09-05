@@ -1,5 +1,5 @@
 ---
 title: "Mason's"
 url: /whitby/masons/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

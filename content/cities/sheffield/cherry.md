@@ -1,5 +1,5 @@
 ---
 title: "Cherry"
 url: /sheffield/cherry/
-shop: massage
+shop: Massage
 ---

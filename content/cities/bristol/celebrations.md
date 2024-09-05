@@ -1,5 +1,5 @@
 ---
 title: "Celebrations"
 url: /bristol/celebrations/
-shop: party
+shop: Partyzubehör
 ---

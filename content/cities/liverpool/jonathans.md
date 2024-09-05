@@ -1,5 +1,5 @@
 ---
 title: "Jonathan's"
 url: /liverpool/jonathans/
-shop: hairdresser
+shop: Friseur
 ---

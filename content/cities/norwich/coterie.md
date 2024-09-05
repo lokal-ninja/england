@@ -1,5 +1,5 @@
 ---
 title: "Coterie"
 url: /norwich/coterie/
-shop: hairdresser
+shop: Friseur
 ---

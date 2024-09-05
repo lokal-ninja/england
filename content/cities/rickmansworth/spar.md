@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /rickmansworth/spar/
-shop: convenience
+shop: Lebensmittel
 ---

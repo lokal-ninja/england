@@ -1,5 +1,5 @@
 ---
 title: "Booker"
 url: /shrewsbury/booker/
-shop: wholesale
+shop: Großhandel
 ---

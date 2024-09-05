@@ -1,5 +1,5 @@
 ---
 title: "Slovenka"
 url: /sheffield/slovenka/
-shop: shop
+shop: Allgemein
 ---

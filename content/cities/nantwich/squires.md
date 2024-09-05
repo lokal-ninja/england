@@ -1,5 +1,5 @@
 ---
 title: "Squires"
 url: /nantwich/squires/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Boots Opticians"
 url: /ilford/boots-opticians-high-street/
-shop: optician
+shop: Optiker
 ---

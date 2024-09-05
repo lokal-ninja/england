@@ -1,5 +1,5 @@
 ---
 title: "Suxceed"
 url: /bristol/suxceed/
-shop: clothes
+shop: Kleidung
 ---

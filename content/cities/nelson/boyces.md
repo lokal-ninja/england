@@ -1,5 +1,5 @@
 ---
 title: "Boyces"
 url: /nelson/boyces/
-shop: fishing
+shop: Angeln
 ---

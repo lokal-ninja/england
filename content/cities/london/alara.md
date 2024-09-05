@@ -1,5 +1,5 @@
 ---
 title: "Alara"
 url: /london/alara/
-shop: convenience
+shop: Lebensmittel
 ---

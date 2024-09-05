@@ -1,5 +1,5 @@
 ---
 title: "Currys"
 url: /workington/currys/
-shop: electronics
+shop: Elektronik
 ---

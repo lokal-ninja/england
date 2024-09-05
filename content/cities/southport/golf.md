@@ -1,5 +1,5 @@
 ---
 title: "Golf"
 url: /southport/golf/
-shop: sports
+shop: Sport
 ---

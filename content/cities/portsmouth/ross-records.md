@@ -1,5 +1,5 @@
 ---
 title: "Ross Records"
 url: /portsmouth/ross-records/
-shop: music
+shop: Musik
 ---

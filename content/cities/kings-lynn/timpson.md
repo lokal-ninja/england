@@ -1,5 +1,5 @@
 ---
 title: "Timpson"
 url: /kings-lynn/timpson/
-shop: locksmith
+shop: Schlüsseldienst
 ---

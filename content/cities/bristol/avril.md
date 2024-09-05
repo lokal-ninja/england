@@ -1,5 +1,5 @@
 ---
 title: "Avril"
 url: /bristol/avril/
-shop: beauty
+shop: Kosmetik
 ---

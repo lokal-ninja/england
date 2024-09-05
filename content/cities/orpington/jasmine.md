@@ -1,5 +1,5 @@
 ---
 title: "Jasmine"
 url: /orpington/jasmine/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

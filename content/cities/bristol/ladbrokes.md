@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /bristol/ladbrokes/
-shop: bookmaker
+shop: Wettbüro
 ---

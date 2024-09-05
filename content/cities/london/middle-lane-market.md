@@ -1,5 +1,5 @@
 ---
 title: "Middle Lane Market"
 url: /london/middle-lane-market/
-shop: farm
+shop: Hofladen
 ---

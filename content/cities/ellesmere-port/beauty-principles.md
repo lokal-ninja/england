@@ -1,5 +1,5 @@
 ---
 title: "Beauty Principles"
 url: /ellesmere-port/beauty-principles/
-shop: hairdresser
+shop: Friseur
 ---

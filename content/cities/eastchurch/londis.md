@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /eastchurch/londis/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bike It"
 url: /scarborough/bike-it/
-shop: bicycle
+shop: Fahrrad
 ---

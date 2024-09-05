@@ -1,5 +1,5 @@
 ---
 title: "Sewell's"
 url: /london/sewells/
-shop: florist
+shop: Blumen
 ---

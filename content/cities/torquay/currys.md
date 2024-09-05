@@ -1,5 +1,5 @@
 ---
 title: "Currys"
 url: /torquay/currys/
-shop: electronics
+shop: Elektronik
 ---

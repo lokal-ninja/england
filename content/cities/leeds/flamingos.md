@@ -1,5 +1,5 @@
 ---
 title: "Flamingos"
 url: /leeds/flamingos/
-shop: vacant
+shop: Leerstehend
 ---

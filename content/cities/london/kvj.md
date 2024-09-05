@@ -1,5 +1,5 @@
 ---
 title: "KVJ"
 url: /london/kvj/
-shop: electronics
+shop: Elektronik
 ---

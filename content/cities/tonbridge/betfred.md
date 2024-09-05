@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /tonbridge/betfred/
-shop: bookmaker
+shop: Wettbüro
 ---

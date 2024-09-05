@@ -1,5 +1,5 @@
 ---
 title: "Sue Ryder"
 url: /west-town-hayling-island/sue-ryder/
-shop: charity
+shop: Gebrauchtwaren
 ---

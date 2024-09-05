@@ -1,5 +1,5 @@
 ---
 title: "Turnips"
 url: /binley-woods/turnips/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

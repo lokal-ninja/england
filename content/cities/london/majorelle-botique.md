@@ -1,5 +1,5 @@
 ---
 title: "Majorelle Botique"
 url: /london/majorelle-botique/
-shop: clothes
+shop: Kleidung
 ---

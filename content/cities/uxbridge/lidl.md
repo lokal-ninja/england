@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /uxbridge/lidl/
-shop: supermarket
+shop: Supermarkt
 ---

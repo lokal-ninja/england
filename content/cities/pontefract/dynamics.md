@@ -1,5 +1,5 @@
 ---
 title: "Dynamics"
 url: /pontefract/dynamics/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Camels Head Stores"
 url: /plymouth/camels-head-stores/
-shop: convenience
+shop: Lebensmittel
 ---

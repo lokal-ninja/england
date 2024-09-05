@@ -1,5 +1,5 @@
 ---
 title: "Saltrock"
 url: /spalding/saltrock/
-shop: clothes
+shop: Kleidung
 ---

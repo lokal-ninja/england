@@ -1,5 +1,5 @@
 ---
 title: "Kitchens Complete"
 url: /bridgwater/kitchens-complete/
-shop: kitchen
+shop: Küchen
 ---

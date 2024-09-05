@@ -1,5 +1,5 @@
 ---
 title: "Hive"
 url: /peterlee/hive/
-shop: hairdresser
+shop: Friseur
 ---

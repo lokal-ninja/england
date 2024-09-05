@@ -1,5 +1,5 @@
 ---
 title: "Permatt Forklift Trucks"
 url: /penrith/permatt-forklift-trucks/
-shop: machinery
+shop: Maschinen
 ---

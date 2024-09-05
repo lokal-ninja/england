@@ -1,5 +1,5 @@
 ---
 title: "Electricshop"
 url: /potters-bar/electricshop/
-shop: electronics
+shop: Elektronik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Beacon Crafts"
 url: /dudley/beacon-crafts/
-shop: shop
+shop: Allgemein
 ---

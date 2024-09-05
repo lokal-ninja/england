@@ -1,5 +1,5 @@
 ---
 title: "Fox Valley Firearms"
 url: /sheffield/fox-valley-firearms/
-shop: weapons
+shop: Waffen
 ---

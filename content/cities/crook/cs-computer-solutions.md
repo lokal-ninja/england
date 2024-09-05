@@ -1,5 +1,5 @@
 ---
 title: "CS Computer Solutions"
 url: /crook/cs-computer-solutions/
-shop: computer
+shop: Computer
 ---

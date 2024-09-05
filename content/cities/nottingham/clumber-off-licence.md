@@ -1,5 +1,5 @@
 ---
 title: "Clumber Off Licence"
 url: /nottingham/clumber-off-licence/
-shop: newsagent
+shop: Zeitungen
 ---

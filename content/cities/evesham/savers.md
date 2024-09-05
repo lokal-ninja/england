@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /evesham/savers/
-shop: chemist
+shop: Drogerie
 ---

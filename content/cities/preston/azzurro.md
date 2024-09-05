@@ -1,5 +1,5 @@
 ---
 title: "Azzurro"
 url: /preston/azzurro/
-shop: hairdresser
+shop: Friseur
 ---

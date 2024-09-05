@@ -1,5 +1,5 @@
 ---
 title: "UgoBuild"
 url: /harleston/ugobuild/
-shop: hardware
+shop: Eisenwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Break"
 url: /beccles/break/
-shop: charity
+shop: Gebrauchtwaren
 ---

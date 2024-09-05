@@ -1,5 +1,5 @@
 ---
 title: "Bensons Hair Salon"
 url: /shepperton/bensons-hair-salon/
-shop: hairdresser
+shop: Friseur
 ---

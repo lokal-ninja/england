@@ -1,5 +1,5 @@
 ---
 title: "Mountain Warehouse"
 url: /lincoln/mountain-warehouse/
-shop: outdoor
+shop: Outdoor
 ---

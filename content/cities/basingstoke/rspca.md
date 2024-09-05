@@ -1,5 +1,5 @@
 ---
 title: "RSPCA"
 url: /basingstoke/rspca/
-shop: charity
+shop: Gebrauchtwaren
 ---

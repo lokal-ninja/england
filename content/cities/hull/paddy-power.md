@@ -1,5 +1,5 @@
 ---
 title: "Paddy Power"
 url: /hull/paddy-power/
-shop: bookmaker
+shop: Wettbüro
 ---

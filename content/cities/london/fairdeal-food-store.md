@@ -1,5 +1,5 @@
 ---
 title: "Fairdeal Food Store"
 url: /london/fairdeal-food-store/
-shop: convenience
+shop: Lebensmittel
 ---

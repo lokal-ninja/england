@@ -1,5 +1,5 @@
 ---
 title: "Ramsdens"
 url: /leeds/ramsdens/
-shop: seafood
+shop: Fisch
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Crystal Vape"
 url: /salford/crystal-vape/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

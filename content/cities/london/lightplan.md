@@ -1,5 +1,5 @@
 ---
 title: "Lightplan"
 url: /london/lightplan/
-shop: lamps
+shop: Lampen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Matalan"
 url: /morecambe/matalan/
-shop: clothes
+shop: Kleidung
 ---

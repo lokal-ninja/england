@@ -1,5 +1,5 @@
 ---
 title: "Mesopotamia"
 url: /nottingham/mesopotamia/
-shop: charity
+shop: Gebrauchtwaren
 ---

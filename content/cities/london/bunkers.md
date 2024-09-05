@@ -1,5 +1,5 @@
 ---
 title: "Bunkers"
 url: /london/bunkers/
-shop: hairdresser
+shop: Friseur
 ---

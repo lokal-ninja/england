@@ -1,5 +1,5 @@
 ---
 title: "Pricewise Convience"
 url: /fleetwood/pricewise-convience/
-shop: convenience
+shop: Lebensmittel
 ---

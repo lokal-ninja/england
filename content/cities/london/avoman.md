@@ -1,5 +1,5 @@
 ---
 title: "Avoman"
 url: /london/avoman/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

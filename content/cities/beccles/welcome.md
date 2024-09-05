@@ -1,5 +1,5 @@
 ---
 title: "Welcome"
 url: /beccles/welcome/
-shop: supermarket
+shop: Supermarkt
 ---

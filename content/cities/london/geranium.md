@@ -1,5 +1,5 @@
 ---
 title: "Geranium"
 url: /london/geranium/
-shop: supermarket
+shop: Supermarkt
 ---

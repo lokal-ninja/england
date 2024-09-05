@@ -1,5 +1,5 @@
 ---
 title: "Moshulu"
 url: /cirencester/moshulu/
-shop: shoes
+shop: Schuhe
 ---

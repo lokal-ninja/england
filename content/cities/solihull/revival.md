@@ -1,5 +1,5 @@
 ---
 title: "Revival"
 url: /solihull/revival/
-shop: beauty
+shop: Kosmetik
 ---

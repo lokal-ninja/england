@@ -1,5 +1,5 @@
 ---
 title: "Hung Up"
 url: /nottingham/hung-up/
-shop: art
+shop: Kunst
 ---

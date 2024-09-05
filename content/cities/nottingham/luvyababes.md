@@ -1,5 +1,5 @@
 ---
 title: "Luvyababes"
 url: /nottingham/luvyababes/
-shop: shop
+shop: Allgemein
 ---

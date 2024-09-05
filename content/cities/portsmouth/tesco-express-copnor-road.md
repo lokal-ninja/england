@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /portsmouth/tesco-express-copnor-road/
-shop: convenience
+shop: Lebensmittel
 ---

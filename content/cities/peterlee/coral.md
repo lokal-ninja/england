@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /peterlee/coral/
-shop: bookmaker
+shop: Wettbüro
 ---

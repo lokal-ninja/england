@@ -1,5 +1,5 @@
 ---
 title: "Cramvape"
 url: /gainsborough/cramvape/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

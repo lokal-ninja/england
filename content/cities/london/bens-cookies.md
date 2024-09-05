@@ -1,5 +1,5 @@
 ---
 title: "Ben's Cookies"
 url: /london/bens-cookies/
-shop: confectionery
+shop: Süßwaren
 ---

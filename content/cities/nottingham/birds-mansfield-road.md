@@ -1,5 +1,5 @@
 ---
 title: "Birds"
 url: /nottingham/birds-mansfield-road/
-shop: bakery
+shop: Bäckerei
 ---

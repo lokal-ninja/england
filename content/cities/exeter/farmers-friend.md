@@ -1,5 +1,5 @@
 ---
 title: "Farmers Friend"
 url: /exeter/farmers-friend/
-shop: outdoor
+shop: Outdoor
 ---

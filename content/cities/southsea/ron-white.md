@@ -1,5 +1,5 @@
 ---
 title: "Ron White"
 url: /southsea/ron-white/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

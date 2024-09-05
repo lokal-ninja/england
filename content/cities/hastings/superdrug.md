@@ -1,5 +1,5 @@
 ---
 title: "Superdrug"
 url: /hastings/superdrug/
-shop: chemist
+shop: Drogerie
 ---

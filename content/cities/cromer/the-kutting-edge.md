@@ -1,5 +1,5 @@
 ---
 title: "The Kutting Edge"
 url: /cromer/the-kutting-edge/
-shop: hairdresser
+shop: Friseur
 ---

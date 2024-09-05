@@ -1,5 +1,5 @@
 ---
 title: "JYSK"
 url: /mansfield/jysk/
-shop: furniture
+shop: Möbel
 ---

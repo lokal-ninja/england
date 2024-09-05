@@ -1,5 +1,5 @@
 ---
 title: "Hawkins"
 url: /romford/hawkins/
-shop: butcher
+shop: Metzgerei
 ---

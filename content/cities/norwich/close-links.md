@@ -1,5 +1,5 @@
 ---
 title: "Close Links"
 url: /norwich/close-links/
-shop: charity
+shop: Gebrauchtwaren
 ---

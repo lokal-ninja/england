@@ -1,5 +1,5 @@
 ---
 title: "MFX Event Planning"
 url: /swalwell/mfx-event-planning/
-shop: shop
+shop: Allgemein
 ---

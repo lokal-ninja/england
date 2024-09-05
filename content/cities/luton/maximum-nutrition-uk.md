@@ -1,5 +1,5 @@
 ---
 title: "Maximum Nutrition UK"
 url: /luton/maximum-nutrition-uk/
-shop: convenience
+shop: Lebensmittel
 ---

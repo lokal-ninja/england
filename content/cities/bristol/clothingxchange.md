@@ -1,5 +1,5 @@
 ---
 title: "ClothingXChange"
 url: /bristol/clothingxchange/
-shop: clothes
+shop: Kleidung
 ---

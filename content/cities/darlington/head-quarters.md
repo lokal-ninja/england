@@ -1,5 +1,5 @@
 ---
 title: "Head Quarters"
 url: /darlington/head-quarters/
-shop: hairdresser
+shop: Friseur
 ---

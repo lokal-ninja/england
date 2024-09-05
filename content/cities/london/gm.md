@@ -1,5 +1,5 @@
 ---
 title: "GM"
 url: /london/gm/
-shop: hairdresser
+shop: Friseur
 ---

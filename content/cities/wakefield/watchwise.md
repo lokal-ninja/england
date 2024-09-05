@@ -1,5 +1,5 @@
 ---
 title: "Watchwise"
 url: /wakefield/watchwise/
-shop: watches
+shop: Uhren
 ---

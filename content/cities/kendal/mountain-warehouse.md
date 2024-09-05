@@ -1,5 +1,5 @@
 ---
 title: "Mountain Warehouse"
 url: /kendal/mountain-warehouse/
-shop: outdoor
+shop: Outdoor
 ---

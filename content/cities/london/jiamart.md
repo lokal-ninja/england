@@ -1,5 +1,5 @@
 ---
 title: "Jiamart"
 url: /london/jiamart/
-shop: supermarket
+shop: Supermarkt
 ---

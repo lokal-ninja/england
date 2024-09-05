@@ -1,5 +1,5 @@
 ---
 title: "Chloe Ward"
 url: /manchester/chloe-ward/
-shop: bag
+shop: Taschen & Koffer
 ---

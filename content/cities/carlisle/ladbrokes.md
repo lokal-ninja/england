@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /carlisle/ladbrokes/
-shop: bookmaker
+shop: Wettbüro
 ---

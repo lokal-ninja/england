@@ -1,5 +1,5 @@
 ---
 title: "Munneries"
 url: /chichester/munneries/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

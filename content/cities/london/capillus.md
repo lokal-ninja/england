@@ -1,5 +1,5 @@
 ---
 title: "Capillus"
 url: /london/capillus/
-shop: hairdresser
+shop: Friseur
 ---

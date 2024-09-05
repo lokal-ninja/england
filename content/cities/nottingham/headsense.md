@@ -1,5 +1,5 @@
 ---
 title: "Headsense"
 url: /nottingham/headsense/
-shop: hairdresser
+shop: Friseur
 ---

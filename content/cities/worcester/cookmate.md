@@ -1,5 +1,5 @@
 ---
 title: "Cookmate"
 url: /worcester/cookmate/
-shop: kitchen
+shop: Küchen
 ---

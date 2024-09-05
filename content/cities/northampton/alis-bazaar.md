@@ -1,5 +1,5 @@
 ---
 title: "Ali's Bazaar"
 url: /northampton/alis-bazaar/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

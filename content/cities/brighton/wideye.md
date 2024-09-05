@@ -1,5 +1,5 @@
 ---
 title: "Wideye"
 url: /brighton/wideye/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Currys"
 url: /kendal/currys/
-shop: electronics
+shop: Elektronik
 ---

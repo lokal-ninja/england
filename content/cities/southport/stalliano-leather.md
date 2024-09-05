@@ -1,5 +1,5 @@
 ---
 title: "Stalliano Leather"
 url: /southport/stalliano-leather/
-shop: clothes
+shop: Kleidung
 ---

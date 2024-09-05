@@ -1,5 +1,5 @@
 ---
 title: "Meeks Shoes"
 url: /oldham/meeks-shoes/
-shop: shoes
+shop: Schuhe
 ---

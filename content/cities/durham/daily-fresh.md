@@ -1,5 +1,5 @@
 ---
 title: "Daily Fresh"
 url: /durham/daily-fresh/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

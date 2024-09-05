@@ -1,5 +1,5 @@
 ---
 title: "Terrys Cycles"
 url: /yate/terrys-cycles/
-shop: bicycle
+shop: Fahrrad
 ---

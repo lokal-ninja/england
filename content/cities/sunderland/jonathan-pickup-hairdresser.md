@@ -1,5 +1,5 @@
 ---
 title: "Jonathan Pickup Hairdresser"
 url: /sunderland/jonathan-pickup-hairdresser/
-shop: hairdresser
+shop: Friseur
 ---

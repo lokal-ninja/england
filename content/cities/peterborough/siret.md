@@ -1,5 +1,5 @@
 ---
 title: "Siret"
 url: /peterborough/siret/
-shop: supermarket
+shop: Supermarkt
 ---

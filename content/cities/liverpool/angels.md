@@ -1,5 +1,5 @@
 ---
 title: "Angels"
 url: /liverpool/angels/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Minimise"
 url: /shrewsbury/minimise/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AAA Convenience Store"
 url: /milton-keynes/aaa-convenience-store/
-shop: convenience
+shop: Lebensmittel
 ---

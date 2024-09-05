@@ -1,5 +1,5 @@
 ---
 title: "Natural Nails"
 url: /solihull/natural-nails/
-shop: beauty
+shop: Kosmetik
 ---

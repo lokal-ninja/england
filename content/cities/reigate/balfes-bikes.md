@@ -1,5 +1,5 @@
 ---
 title: "Balfe's Bikes"
 url: /reigate/balfes-bikes/
-shop: bicycle
+shop: Fahrrad
 ---

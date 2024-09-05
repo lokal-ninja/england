@@ -1,5 +1,5 @@
 ---
 title: "antiek"
 url: /ryde/antiek/
-shop: antiques
+shop: Antiquitäten
 ---

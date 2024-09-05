@@ -1,5 +1,5 @@
 ---
 title: "Lisboa"
 url: /sheffield/lisboa/
-shop: bakery
+shop: Bäckerei
 ---

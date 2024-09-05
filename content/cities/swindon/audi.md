@@ -1,5 +1,5 @@
 ---
 title: "Audi"
 url: /swindon/audi/
-shop: car
+shop: Autohaus
 ---

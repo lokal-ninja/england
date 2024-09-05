@@ -1,5 +1,5 @@
 ---
 title: "Emmaus"
 url: /stroud/emmaus/
-shop: charity
+shop: Gebrauchtwaren
 ---

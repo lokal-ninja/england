@@ -1,5 +1,5 @@
 ---
 title: "claire's"
 url: /cambridge/claires/
-shop: boutique
+shop: Modehaus
 ---

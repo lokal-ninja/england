@@ -1,5 +1,5 @@
 ---
 title: "Hawthorn Stores"
 url: /kettering/hawthorn-stores/
-shop: convenience
+shop: Lebensmittel
 ---

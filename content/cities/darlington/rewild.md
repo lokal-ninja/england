@@ -1,5 +1,5 @@
 ---
 title: "Rewild"
 url: /darlington/rewild/
-shop: hairdresser
+shop: Friseur
 ---

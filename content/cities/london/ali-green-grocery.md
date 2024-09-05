@@ -1,5 +1,5 @@
 ---
 title: "Ali green grocery"
 url: /london/ali-green-grocery/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

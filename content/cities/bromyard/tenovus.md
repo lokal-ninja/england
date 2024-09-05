@@ -1,5 +1,5 @@
 ---
 title: "Tenovus"
 url: /bromyard/tenovus/
-shop: charity
+shop: Gebrauchtwaren
 ---

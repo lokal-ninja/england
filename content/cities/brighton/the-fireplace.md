@@ -1,5 +1,5 @@
 ---
 title: "The Fireplace"
 url: /brighton/the-fireplace/
-shop: fireplace
+shop: Kamine & Öfen
 ---

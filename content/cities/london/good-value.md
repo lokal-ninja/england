@@ -1,5 +1,5 @@
 ---
 title: "Good Value"
 url: /london/good-value/
-shop: convenience
+shop: Lebensmittel
 ---

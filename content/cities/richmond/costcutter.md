@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /richmond/costcutter/
-shop: convenience
+shop: Lebensmittel
 ---

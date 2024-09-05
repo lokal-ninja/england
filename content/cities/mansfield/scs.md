@@ -1,5 +1,5 @@
 ---
 title: "ScS"
 url: /mansfield/scs/
-shop: furniture
+shop: Möbel
 ---

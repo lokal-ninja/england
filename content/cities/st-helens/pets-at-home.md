@@ -1,5 +1,5 @@
 ---
 title: "Pets at Home"
 url: /st-helens/pets-at-home/
-shop: pet
+shop: Tiere
 ---

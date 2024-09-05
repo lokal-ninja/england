@@ -1,5 +1,5 @@
 ---
 title: "Wolseley"
 url: /coventry/wolseley/
-shop: trade
+shop: Baustoffe
 ---

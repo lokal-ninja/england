@@ -1,5 +1,5 @@
 ---
 title: "Holmebilt Bathrooms"
 url: /newcastle-upon-tyne/holmebilt-bathrooms/
-shop: bathroom
+shop: Badezimmer
 ---

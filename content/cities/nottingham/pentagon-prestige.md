@@ -1,5 +1,5 @@
 ---
 title: "Pentagon Prestige"
 url: /nottingham/pentagon-prestige/
-shop: car
+shop: Autohaus
 ---

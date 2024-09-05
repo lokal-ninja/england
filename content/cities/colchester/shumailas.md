@@ -1,5 +1,5 @@
 ---
 title: "Shumailas"
 url: /colchester/shumailas/
-shop: beauty
+shop: Kosmetik
 ---

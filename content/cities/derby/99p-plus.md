@@ -1,5 +1,5 @@
 ---
 title: "99p Plus"
 url: /derby/99p-plus/
-shop: hardware
+shop: Eisenwaren
 ---

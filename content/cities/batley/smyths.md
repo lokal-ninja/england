@@ -1,5 +1,5 @@
 ---
 title: "Smyths"
 url: /batley/smyths/
-shop: toys
+shop: Spielzeug
 ---

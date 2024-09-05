@@ -1,5 +1,5 @@
 ---
 title: "Anthropologie"
 url: /st-albans/anthropologie/
-shop: clothes
+shop: Kleidung
 ---

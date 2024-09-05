@@ -1,5 +1,5 @@
 ---
 title: "YSecure"
 url: /pinner/ysecure/
-shop: doors
+shop: Türen
 ---

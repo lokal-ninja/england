@@ -1,5 +1,5 @@
 ---
 title: "Travelwise"
 url: /devizes/travelwise/
-shop: travel agency
+shop: Reisebüro
 ---

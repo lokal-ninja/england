@@ -1,5 +1,5 @@
 ---
 title: "Angry Panda Cycles"
 url: /yate/angry-panda-cycles/
-shop: bicycle
+shop: Fahrrad
 ---

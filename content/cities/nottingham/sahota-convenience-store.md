@@ -1,5 +1,5 @@
 ---
 title: "Sahota Convenience Store"
 url: /nottingham/sahota-convenience-store/
-shop: convenience
+shop: Lebensmittel
 ---

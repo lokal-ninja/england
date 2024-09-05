@@ -1,5 +1,5 @@
 ---
 title: "Choice"
 url: /reading/choice/
-shop: kitchen
+shop: Küchen
 ---

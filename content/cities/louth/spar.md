@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /louth/spar/
-shop: convenience
+shop: Lebensmittel
 ---

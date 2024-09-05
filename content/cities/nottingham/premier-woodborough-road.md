@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /nottingham/premier-woodborough-road/
-shop: convenience
+shop: Lebensmittel
 ---

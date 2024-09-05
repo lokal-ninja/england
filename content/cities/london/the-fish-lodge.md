@@ -1,5 +1,5 @@
 ---
 title: "The Fish Lodge"
 url: /london/the-fish-lodge/
-shop: pet
+shop: Tiere
 ---

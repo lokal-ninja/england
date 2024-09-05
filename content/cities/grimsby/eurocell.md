@@ -1,5 +1,5 @@
 ---
 title: "Eurocell"
 url: /grimsby/eurocell/
-shop: trade
+shop: Baustoffe
 ---

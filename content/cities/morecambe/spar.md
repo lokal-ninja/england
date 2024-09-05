@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /morecambe/spar/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Paragon"
 url: /bristol/paragon/
-shop: hairdresser
+shop: Friseur
 ---

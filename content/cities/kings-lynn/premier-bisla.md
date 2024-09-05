@@ -1,5 +1,5 @@
 ---
 title: "Premier - Bisla"
 url: /kings-lynn/premier-bisla/
-shop: convenience
+shop: Lebensmittel
 ---

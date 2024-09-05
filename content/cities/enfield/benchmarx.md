@@ -1,5 +1,5 @@
 ---
 title: "Benchmarx"
 url: /enfield/benchmarx/
-shop: kitchen
+shop: Küchen
 ---

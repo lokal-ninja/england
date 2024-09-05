@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /bicester/spar/
-shop: convenience
+shop: Lebensmittel
 ---

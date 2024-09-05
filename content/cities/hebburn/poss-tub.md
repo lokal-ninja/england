@@ -1,5 +1,5 @@
 ---
 title: "Poss Tub"
 url: /hebburn/poss-tub/
-shop: laundry
+shop: Wäscherei
 ---

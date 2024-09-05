@@ -1,5 +1,5 @@
 ---
 title: "Fresh 'N' Fruity"
 url: /beverley/fresh-n-fruity/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

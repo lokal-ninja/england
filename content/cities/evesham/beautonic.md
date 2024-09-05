@@ -1,5 +1,5 @@
 ---
 title: "Beautonic"
 url: /evesham/beautonic/
-shop: beauty
+shop: Kosmetik
 ---

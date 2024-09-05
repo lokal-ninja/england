@@ -1,5 +1,5 @@
 ---
 title: "Altonaids"
 url: /gateshead/altonaids/
-shop: shop
+shop: Allgemein
 ---

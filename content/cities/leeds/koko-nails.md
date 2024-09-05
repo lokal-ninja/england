@@ -1,5 +1,5 @@
 ---
 title: "Koko Nails"
 url: /leeds/koko-nails/
-shop: beauty
+shop: Kosmetik
 ---

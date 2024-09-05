@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /milton-keynes/tesco-express-ardwell-lane/
-shop: convenience
+shop: Lebensmittel
 ---

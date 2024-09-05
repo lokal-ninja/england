@@ -1,5 +1,5 @@
 ---
 title: "Currys"
 url: /orpington/currys/
-shop: electronics
+shop: Elektronik
 ---

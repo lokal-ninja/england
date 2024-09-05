@@ -1,5 +1,5 @@
 ---
 title: "Donna Williamson"
 url: /sheffield/donna-williamson/
-shop: beauty
+shop: Kosmetik
 ---

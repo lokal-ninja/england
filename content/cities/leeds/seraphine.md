@@ -1,5 +1,5 @@
 ---
 title: "Seraphine"
 url: /leeds/seraphine/
-shop: clothes
+shop: Kleidung
 ---

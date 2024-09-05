@@ -1,5 +1,5 @@
 ---
 title: "Church Street Off Licence"
 url: /london/church-street-off-licence/
-shop: alcohol
+shop: Spirituosen
 ---

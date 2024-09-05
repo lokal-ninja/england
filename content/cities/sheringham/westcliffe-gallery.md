@@ -1,5 +1,5 @@
 ---
 title: "Westcliffe Gallery"
 url: /sheringham/westcliffe-gallery/
-shop: art
+shop: Kunst
 ---

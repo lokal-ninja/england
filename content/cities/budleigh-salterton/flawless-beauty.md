@@ -1,5 +1,5 @@
 ---
 title: "Flawless Beauty"
 url: /budleigh-salterton/flawless-beauty/
-shop: beauty
+shop: Kosmetik
 ---

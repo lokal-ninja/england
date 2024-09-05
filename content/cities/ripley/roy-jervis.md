@@ -1,5 +1,5 @@
 ---
 title: "Roy Jervis"
 url: /ripley/roy-jervis/
-shop: motorcycle
+shop: Motorrad
 ---

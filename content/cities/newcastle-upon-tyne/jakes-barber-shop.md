@@ -1,5 +1,5 @@
 ---
 title: "Jakes Barber Shop"
 url: /newcastle-upon-tyne/jakes-barber-shop/
-shop: hairdresser
+shop: Friseur
 ---

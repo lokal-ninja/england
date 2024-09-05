@@ -1,5 +1,5 @@
 ---
 title: "Morrisons Daily"
 url: /princes-risborough/morrisons-daily/
-shop: convenience
+shop: Lebensmittel
 ---

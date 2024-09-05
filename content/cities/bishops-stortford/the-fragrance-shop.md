@@ -1,5 +1,5 @@
 ---
 title: "The Fragrance Shop"
 url: /bishops-stortford/the-fragrance-shop/
-shop: perfumery
+shop: Parfümerie
 ---

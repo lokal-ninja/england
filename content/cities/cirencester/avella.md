@@ -1,5 +1,5 @@
 ---
 title: "Avella"
 url: /cirencester/avella/
-shop: hairdresser
+shop: Friseur
 ---

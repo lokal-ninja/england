@@ -1,5 +1,5 @@
 ---
 title: "Evesham Aesthetics Clinic"
 url: /evesham/evesham-aesthetics-clinic/
-shop: beauty
+shop: Kosmetik
 ---

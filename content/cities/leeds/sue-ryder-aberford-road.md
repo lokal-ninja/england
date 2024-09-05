@@ -1,5 +1,5 @@
 ---
 title: "Sue Ryder"
 url: /leeds/sue-ryder-aberford-road/
-shop: charity
+shop: Gebrauchtwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Biketreks"
 url: /ings/biketreks/
-shop: bicycle
+shop: Fahrrad
 ---

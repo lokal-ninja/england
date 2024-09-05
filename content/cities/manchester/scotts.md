@@ -1,5 +1,5 @@
 ---
 title: "Scotts"
 url: /manchester/scotts/
-shop: clothes
+shop: Kleidung
 ---

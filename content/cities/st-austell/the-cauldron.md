@@ -1,5 +1,5 @@
 ---
 title: "The Cauldron"
 url: /st-austell/the-cauldron/
-shop: shop
+shop: Allgemein
 ---

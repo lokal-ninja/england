@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /kettering/asda/
-shop: supermarket
+shop: Supermarkt
 ---

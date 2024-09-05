@@ -1,5 +1,5 @@
 ---
 title: "Card Factory"
 url: /leeds/card-factory-town-street/
-shop: gift
+shop: Andenken
 ---

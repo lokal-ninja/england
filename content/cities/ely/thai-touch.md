@@ -1,5 +1,5 @@
 ---
 title: "Thai Touch"
 url: /ely/thai-touch/
-shop: beauty
+shop: Kosmetik
 ---

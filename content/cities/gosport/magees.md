@@ -1,5 +1,5 @@
 ---
 title: "Magee's"
 url: /gosport/magees/
-shop: bakery
+shop: Bäckerei
 ---

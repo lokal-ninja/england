@@ -1,5 +1,5 @@
 ---
 title: "Isabel Manns"
 url: /london/isabel-manns/
-shop: clothes
+shop: Kleidung
 ---

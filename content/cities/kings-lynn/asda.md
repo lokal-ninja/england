@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /kings-lynn/asda/
-shop: supermarket
+shop: Supermarkt
 ---

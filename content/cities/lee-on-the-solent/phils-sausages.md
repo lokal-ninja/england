@@ -1,5 +1,5 @@
 ---
 title: "Phil's Sausages"
 url: /lee-on-the-solent/phils-sausages/
-shop: butcher
+shop: Metzgerei
 ---

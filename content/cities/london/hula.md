@@ -1,5 +1,5 @@
 ---
 title: "Hula"
 url: /london/hula/
-shop: beauty
+shop: Kosmetik
 ---

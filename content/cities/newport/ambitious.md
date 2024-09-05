@@ -1,5 +1,5 @@
 ---
 title: "Ambitious"
 url: /newport/ambitious/
-shop: beauty
+shop: Kosmetik
 ---

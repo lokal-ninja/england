@@ -1,5 +1,5 @@
 ---
 title: "GY Cars Limited"
 url: /grimsby/gy-cars-limited/
-shop: car
+shop: Autohaus
 ---

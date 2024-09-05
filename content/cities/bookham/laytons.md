@@ -1,5 +1,5 @@
 ---
 title: "Laytons"
 url: /bookham/laytons/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

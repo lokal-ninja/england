@@ -1,5 +1,5 @@
 ---
 title: "albam"
 url: /london/albam/
-shop: clothes
+shop: Kleidung
 ---

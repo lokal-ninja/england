@@ -1,5 +1,5 @@
 ---
 title: "Macelarie"
 url: /northampton/macelarie/
-shop: butcher
+shop: Metzgerei
 ---

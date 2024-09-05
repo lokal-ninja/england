@@ -1,5 +1,5 @@
 ---
 title: "Screwfix"
 url: /dartford/screwfix/
-shop: doityourself
+shop: Baumarkt
 ---

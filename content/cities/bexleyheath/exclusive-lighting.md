@@ -1,5 +1,5 @@
 ---
 title: "Exclusive Lighting"
 url: /bexleyheath/exclusive-lighting/
-shop: lamps
+shop: Lampen
 ---

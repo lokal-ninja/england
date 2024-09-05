@@ -1,5 +1,5 @@
 ---
 title: "Quiz"
 url: /grays/quiz/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tassi Lettings"
 url: /nottingham/tassi-lettings/
-shop: shop
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Clarks"
 url: /murton/clarks/
-shop: shoes
+shop: Schuhe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sweet Corner"
 url: /harrow/sweet-corner/
-shop: confectionery
+shop: Süßwaren
 ---

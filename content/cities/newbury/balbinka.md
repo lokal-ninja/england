@@ -1,5 +1,5 @@
 ---
 title: "Balbinka"
 url: /newbury/balbinka/
-shop: convenience
+shop: Lebensmittel
 ---

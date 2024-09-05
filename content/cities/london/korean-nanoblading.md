@@ -1,5 +1,5 @@
 ---
 title: "Korean Nanoblading"
 url: /london/korean-nanoblading/
-shop: beauty
+shop: Kosmetik
 ---

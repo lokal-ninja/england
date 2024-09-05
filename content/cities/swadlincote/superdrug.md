@@ -1,5 +1,5 @@
 ---
 title: "Superdrug"
 url: /swadlincote/superdrug/
-shop: chemist
+shop: Drogerie
 ---

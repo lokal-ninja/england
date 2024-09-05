@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /warrington/betfred-poplars-avenue/
-shop: bookmaker
+shop: Wettbüro
 ---

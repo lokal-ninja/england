@@ -1,5 +1,5 @@
 ---
 title: "Adamsons Crash Repair Centre"
 url: /oldham/adamsons-crash-repair-centre/
-shop: car repair
+shop: Autowerkstatt
 ---

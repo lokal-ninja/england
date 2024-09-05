@@ -1,5 +1,5 @@
 ---
 title: "VIP Vape"
 url: /swindon/vip-vape/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

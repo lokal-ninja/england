@@ -1,5 +1,5 @@
 ---
 title: "Suzuki"
 url: /cirencester/suzuki/
-shop: car
+shop: Autohaus
 ---

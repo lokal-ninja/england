@@ -1,5 +1,5 @@
 ---
 title: "Boots"
 url: /tamworth/boots/
-shop: chemist
+shop: Drogerie
 ---

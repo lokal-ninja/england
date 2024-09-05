@@ -1,5 +1,5 @@
 ---
 title: "St Ives Soapbox"
 url: /st-ives/st-ives-soapbox/
-shop: candles
+shop: Kerzen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Apache"
 url: /rushden/apache/
-shop: hardware
+shop: Eisenwaren
 ---

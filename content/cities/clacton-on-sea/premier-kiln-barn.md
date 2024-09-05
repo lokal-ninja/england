@@ -1,5 +1,5 @@
 ---
 title: "Premier Kiln Barn"
 url: /clacton-on-sea/premier-kiln-barn/
-shop: convenience
+shop: Lebensmittel
 ---

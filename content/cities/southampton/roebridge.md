@@ -1,5 +1,5 @@
 ---
 title: "Roebridge"
 url: /southampton/roebridge/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lowell"
 url: /norwich/lowell/
-shop: clothes
+shop: Kleidung
 ---

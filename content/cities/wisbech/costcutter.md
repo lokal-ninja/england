@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /wisbech/costcutter/
-shop: convenience
+shop: Lebensmittel
 ---

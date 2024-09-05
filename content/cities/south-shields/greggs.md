@@ -1,5 +1,5 @@
 ---
 title: "Greggs"
 url: /south-shields/greggs/
-shop: bakery
+shop: Bäckerei
 ---

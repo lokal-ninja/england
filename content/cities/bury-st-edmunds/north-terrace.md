@@ -1,5 +1,5 @@
 ---
 title: "North Terrace"
 url: /bury-st-edmunds/north-terrace/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Select And Save"
 url: /leeds/select-and-save/
-shop: convenience
+shop: Lebensmittel
 ---

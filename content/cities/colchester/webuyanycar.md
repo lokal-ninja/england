@@ -1,5 +1,5 @@
 ---
 title: "WeBuyAnyCar"
 url: /colchester/webuyanycar/
-shop: car
+shop: Autohaus
 ---

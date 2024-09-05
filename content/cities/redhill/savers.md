@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /redhill/savers/
-shop: chemist
+shop: Drogerie
 ---

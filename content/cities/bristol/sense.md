@@ -1,5 +1,5 @@
 ---
 title: "Sense"
 url: /bristol/sense/
-shop: charity
+shop: Gebrauchtwaren
 ---

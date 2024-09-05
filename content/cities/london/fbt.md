@@ -1,5 +1,5 @@
 ---
 title: "FBT"
 url: /london/fbt/
-shop: electronics
+shop: Elektronik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tangles"
 url: /kirby-stephen/tangles/
-shop: hairdresser
+shop: Friseur
 ---

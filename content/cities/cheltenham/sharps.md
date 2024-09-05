@@ -1,5 +1,5 @@
 ---
 title: "Sharps"
 url: /cheltenham/sharps/
-shop: furniture
+shop: Möbel
 ---

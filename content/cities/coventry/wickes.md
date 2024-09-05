@@ -1,5 +1,5 @@
 ---
 title: "Wickes"
 url: /coventry/wickes/
-shop: doityourself
+shop: Baumarkt
 ---

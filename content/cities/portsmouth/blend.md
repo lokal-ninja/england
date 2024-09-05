@@ -1,5 +1,5 @@
 ---
 title: "Blend"
 url: /portsmouth/blend/
-shop: shop
+shop: Allgemein
 ---

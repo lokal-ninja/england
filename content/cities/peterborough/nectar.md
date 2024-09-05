@@ -1,5 +1,5 @@
 ---
 title: "Nectar"
 url: /peterborough/nectar/
-shop: convenience
+shop: Lebensmittel
 ---

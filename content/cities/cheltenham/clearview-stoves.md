@@ -1,5 +1,5 @@
 ---
 title: "Clearview Stoves"
 url: /cheltenham/clearview-stoves/
-shop: fireplace
+shop: Kamine & Öfen
 ---

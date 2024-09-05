@@ -1,5 +1,5 @@
 ---
 title: "Budgens"
 url: /bedford/budgens/
-shop: convenience
+shop: Lebensmittel
 ---

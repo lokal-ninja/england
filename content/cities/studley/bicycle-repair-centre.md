@@ -1,5 +1,5 @@
 ---
 title: "Bicycle Repair Centre"
 url: /studley/bicycle-repair-centre/
-shop: bicycle
+shop: Fahrrad
 ---

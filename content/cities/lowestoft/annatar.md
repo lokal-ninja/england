@@ -1,5 +1,5 @@
 ---
 title: "Annatar"
 url: /lowestoft/annatar/
-shop: esoteric
+shop: Esoterik
 ---

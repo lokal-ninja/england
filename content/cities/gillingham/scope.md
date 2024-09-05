@@ -1,5 +1,5 @@
 ---
 title: "Scope"
 url: /gillingham/scope/
-shop: charity
+shop: Gebrauchtwaren
 ---

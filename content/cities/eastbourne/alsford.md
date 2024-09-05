@@ -1,5 +1,5 @@
 ---
 title: "Alsford"
 url: /eastbourne/alsford/
-shop: doityourself
+shop: Baumarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Busy"
 url: /manchester/busy/
-shop: clothes
+shop: Kleidung
 ---

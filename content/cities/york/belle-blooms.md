@@ -1,5 +1,5 @@
 ---
 title: "Belle Blooms"
 url: /york/belle-blooms/
-shop: florist
+shop: Blumen
 ---

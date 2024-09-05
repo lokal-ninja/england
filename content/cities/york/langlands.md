@@ -1,5 +1,5 @@
 ---
 title: "Langlands"
 url: /york/langlands/
-shop: garden centre
+shop: Garten-Center
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Yours"
 url: /wakefield/yours/
-shop: clothes
+shop: Kleidung
 ---

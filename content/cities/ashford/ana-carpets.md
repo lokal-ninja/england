@@ -1,5 +1,5 @@
 ---
 title: "ANA Carpets"
 url: /ashford/ana-carpets/
-shop: carpet
+shop: Teppiche
 ---

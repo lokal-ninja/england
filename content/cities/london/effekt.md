@@ -1,5 +1,5 @@
 ---
 title: "Effekt"
 url: /london/effekt/
-shop: hairdresser
+shop: Friseur
 ---

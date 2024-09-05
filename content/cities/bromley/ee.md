@@ -1,5 +1,5 @@
 ---
 title: "EE"
 url: /bromley/ee/
-shop: mobile phone
+shop: Handy
 ---

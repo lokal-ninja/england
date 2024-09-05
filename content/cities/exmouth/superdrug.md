@@ -1,5 +1,5 @@
 ---
 title: "Superdrug"
 url: /exmouth/superdrug/
-shop: chemist
+shop: Drogerie
 ---

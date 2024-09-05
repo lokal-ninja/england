@@ -1,5 +1,5 @@
 ---
 title: "Hobbycraft"
 url: /high-wycombe/hobbycraft/
-shop: craft
+shop: Basteln
 ---

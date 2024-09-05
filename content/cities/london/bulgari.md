@@ -1,5 +1,5 @@
 ---
 title: "Bulgari"
 url: /london/bulgari/
-shop: jewelry
+shop: Schmuck
 ---

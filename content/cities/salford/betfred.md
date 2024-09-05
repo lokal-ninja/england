@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /salford/betfred/
-shop: bookmaker
+shop: Wettbüro
 ---

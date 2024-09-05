@@ -1,5 +1,5 @@
 ---
 title: "Five a Day"
 url: /heanor/five-a-day/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

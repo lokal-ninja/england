@@ -1,5 +1,5 @@
 ---
 title: "Earls"
 url: /burnley/earls/
-shop: deli
+shop: Feinkost
 ---

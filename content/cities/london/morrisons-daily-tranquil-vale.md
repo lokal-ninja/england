@@ -1,5 +1,5 @@
 ---
 title: "Morrisons Daily"
 url: /london/morrisons-daily-tranquil-vale/
-shop: convenience
+shop: Lebensmittel
 ---

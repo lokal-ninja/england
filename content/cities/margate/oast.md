@@ -1,5 +1,5 @@
 ---
 title: "Oast"
 url: /margate/oast/
-shop: bakery
+shop: Bäckerei
 ---

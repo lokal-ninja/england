@@ -1,5 +1,5 @@
 ---
 title: "Aspiga"
 url: /cheltenham/aspiga/
-shop: clothes
+shop: Kleidung
 ---

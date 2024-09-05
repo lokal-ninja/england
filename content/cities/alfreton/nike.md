@@ -1,5 +1,5 @@
 ---
 title: "Nike"
 url: /alfreton/nike/
-shop: clothes
+shop: Kleidung
 ---

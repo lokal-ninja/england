@@ -1,5 +1,5 @@
 ---
 title: "Bedhead"
 url: /london/bedhead/
-shop: hairdresser
+shop: Friseur
 ---

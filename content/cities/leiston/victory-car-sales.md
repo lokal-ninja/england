@@ -1,5 +1,5 @@
 ---
 title: "Victory Car Sales"
 url: /leiston/victory-car-sales/
-shop: car
+shop: Autohaus
 ---

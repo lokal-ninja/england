@@ -1,5 +1,5 @@
 ---
 title: "SIDA - Chinese Supermarket"
 url: /liverpool/sida-chinese-supermarket-london-road/
-shop: convenience
+shop: Lebensmittel
 ---

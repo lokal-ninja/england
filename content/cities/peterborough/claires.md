@@ -1,5 +1,5 @@
 ---
 title: "claire's"
 url: /peterborough/claires/
-shop: boutique
+shop: Modehaus
 ---

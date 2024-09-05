@@ -1,5 +1,5 @@
 ---
 title: "Steers Beers"
 url: /sheffield/steers-beers/
-shop: alcohol
+shop: Spirituosen
 ---

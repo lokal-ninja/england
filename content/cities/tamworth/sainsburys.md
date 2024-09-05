@@ -1,5 +1,5 @@
 ---
 title: "Sainsbury's"
 url: /tamworth/sainsburys/
-shop: supermarket
+shop: Supermarkt
 ---

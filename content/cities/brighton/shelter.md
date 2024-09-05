@@ -1,5 +1,5 @@
 ---
 title: "Shelter"
 url: /brighton/shelter/
-shop: charity
+shop: Gebrauchtwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "TAT"
 url: /scunthorpe/tat/
-shop: tattoo
+shop: Tattoo
 ---

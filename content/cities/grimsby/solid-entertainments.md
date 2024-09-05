@@ -1,5 +1,5 @@
 ---
 title: "Solid Entertainments"
 url: /grimsby/solid-entertainments/
-shop: ticket
+shop: Tickets
 ---

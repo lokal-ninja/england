@@ -1,5 +1,5 @@
 ---
 title: "Bonmarché"
 url: /saffron-walden/bonmarche/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /aldershot/coral/
-shop: bookmaker
+shop: Wettbüro
 ---

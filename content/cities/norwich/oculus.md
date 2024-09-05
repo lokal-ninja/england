@@ -1,5 +1,5 @@
 ---
 title: "Oculus"
 url: /norwich/oculus/
-shop: optician
+shop: Optiker
 ---

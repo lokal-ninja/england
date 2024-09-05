@@ -1,5 +1,5 @@
 ---
 title: "Taquitos Casazul"
 url: /brighton/taquitos-casazul/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "jamesdaniel"
 url: /ipswich/jamesdaniel/
-shop: hairdresser
+shop: Friseur
 ---

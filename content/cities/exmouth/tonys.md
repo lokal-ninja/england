@@ -1,5 +1,5 @@
 ---
 title: "Tony's"
 url: /exmouth/tonys/
-shop: hairdresser
+shop: Friseur
 ---

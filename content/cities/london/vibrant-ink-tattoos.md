@@ -1,5 +1,5 @@
 ---
 title: "Vibrant Ink Tattoos"
 url: /london/vibrant-ink-tattoos/
-shop: tattoo
+shop: Tattoo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Churchills"
 url: /louth/churchills/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

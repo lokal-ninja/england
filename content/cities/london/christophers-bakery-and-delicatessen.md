@@ -1,5 +1,5 @@
 ---
 title: "Christophers bakery and delicatessen"
 url: /london/christophers-bakery-and-delicatessen/
-shop: bakery
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Moti"
 url: /salford/moti/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rothbury Bakery"
 url: /rothbury/rothbury-bakery/
-shop: bakery
+shop: Bäckerei
 ---

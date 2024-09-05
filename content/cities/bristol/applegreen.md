@@ -1,5 +1,5 @@
 ---
 title: "Applegreen"
 url: /bristol/applegreen/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sensation"
 url: /brighton/sensation/
-shop: jewelry
+shop: Schmuck
 ---

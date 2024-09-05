@@ -1,5 +1,5 @@
 ---
 title: "Megabet"
 url: /oxford/megabet/
-shop: bookmaker
+shop: Wettbüro
 ---

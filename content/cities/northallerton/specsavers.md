@@ -1,5 +1,5 @@
 ---
 title: "Specsavers"
 url: /northallerton/specsavers/
-shop: optician
+shop: Optiker
 ---

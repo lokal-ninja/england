@@ -1,5 +1,5 @@
 ---
 title: "Mexe"
 url: /manchester/mexe/
-shop: wholesale
+shop: Großhandel
 ---

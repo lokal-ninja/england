@@ -1,5 +1,5 @@
 ---
 title: "Premier Express"
 url: /wellington/premier-express/
-shop: convenience
+shop: Lebensmittel
 ---

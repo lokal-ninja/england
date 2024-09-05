@@ -1,5 +1,5 @@
 ---
 title: "Hellaby Tyres"
 url: /rotherham/hellaby-tyres/
-shop: tyres
+shop: Reifen
 ---

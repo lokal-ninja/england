@@ -1,5 +1,5 @@
 ---
 title: "New Look"
 url: /letchworth-garden-city/new-look/
-shop: clothes
+shop: Kleidung
 ---

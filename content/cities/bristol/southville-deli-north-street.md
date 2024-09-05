@@ -1,5 +1,5 @@
 ---
 title: "Southville Deli"
 url: /bristol/southville-deli-north-street/
-shop: deli
+shop: Feinkost
 ---

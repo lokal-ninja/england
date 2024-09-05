@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /freshwater/tesco/
-shop: supermarket
+shop: Supermarkt
 ---

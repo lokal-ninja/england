@@ -1,5 +1,5 @@
 ---
 title: "Dreams"
 url: /london/dreams/
-shop: bed
+shop: Betten
 ---

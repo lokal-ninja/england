@@ -1,5 +1,5 @@
 ---
 title: "Glover's"
 url: /preston/glovers/
-shop: bakery
+shop: Bäckerei
 ---

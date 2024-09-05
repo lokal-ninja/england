@@ -1,5 +1,5 @@
 ---
 title: "York Gin"
 url: /york/york-gin/
-shop: alcohol
+shop: Spirituosen
 ---

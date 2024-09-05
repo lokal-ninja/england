@@ -1,5 +1,5 @@
 ---
 title: "Vape Junction"
 url: /manchester/vape-junction/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

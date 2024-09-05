@@ -1,5 +1,5 @@
 ---
 title: "Cookes"
 url: /norwich/cookes/
-shop: musical instrument
+shop: Instrumente
 ---

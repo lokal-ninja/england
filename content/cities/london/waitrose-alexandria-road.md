@@ -1,5 +1,5 @@
 ---
 title: "Waitrose"
 url: /london/waitrose-alexandria-road/
-shop: supermarket
+shop: Supermarkt
 ---

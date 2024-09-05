@@ -1,5 +1,5 @@
 ---
 title: "Butchers Road Newsagents"
 url: /london/butchers-road-newsagents/
-shop: newsagent
+shop: Zeitungen
 ---

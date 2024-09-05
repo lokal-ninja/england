@@ -1,5 +1,5 @@
 ---
 title: "Farplace Animal Rescue"
 url: /darlington/farplace-animal-rescue/
-shop: charity
+shop: Gebrauchtwaren
 ---

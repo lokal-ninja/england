@@ -1,5 +1,5 @@
 ---
 title: "Mountbatten"
 url: /shanklin/mountbatten/
-shop: charity
+shop: Gebrauchtwaren
 ---

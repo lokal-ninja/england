@@ -1,5 +1,5 @@
 ---
 title: "Melish's"
 url: /ryde/melishs/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pandora"
 url: /chelmsford/pandora/
-shop: jewelry
+shop: Schmuck
 ---

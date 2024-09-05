@@ -1,5 +1,5 @@
 ---
 title: "Harringtons"
 url: /shanklin/harringtons/
-shop: beauty
+shop: Kosmetik
 ---

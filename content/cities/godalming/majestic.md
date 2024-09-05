@@ -1,5 +1,5 @@
 ---
 title: "Majestic"
 url: /godalming/majestic/
-shop: alcohol
+shop: Spirituosen
 ---

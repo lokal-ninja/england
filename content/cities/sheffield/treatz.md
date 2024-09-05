@@ -1,5 +1,5 @@
 ---
 title: "Treatz"
 url: /sheffield/treatz/
-shop: confectionery
+shop: Süßwaren
 ---

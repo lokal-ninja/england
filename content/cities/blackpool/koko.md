@@ -1,5 +1,5 @@
 ---
 title: "KoKo"
 url: /blackpool/koko/
-shop: hairdresser
+shop: Friseur
 ---

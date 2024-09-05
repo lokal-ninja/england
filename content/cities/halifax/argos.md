@@ -1,5 +1,5 @@
 ---
 title: "Argos"
 url: /halifax/argos/
-shop: catalogue
+shop: Katalog
 ---

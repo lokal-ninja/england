@@ -1,5 +1,5 @@
 ---
 title: "Carpetright"
 url: /mansfield/carpetright/
-shop: carpet
+shop: Teppiche
 ---

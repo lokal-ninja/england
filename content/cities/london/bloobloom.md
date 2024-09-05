@@ -1,5 +1,5 @@
 ---
 title: "Bloobloom"
 url: /london/bloobloom/
-shop: optician
+shop: Optiker
 ---

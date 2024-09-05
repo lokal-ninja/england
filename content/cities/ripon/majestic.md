@@ -1,5 +1,5 @@
 ---
 title: "Majestic"
 url: /ripon/majestic/
-shop: alcohol
+shop: Spirituosen
 ---

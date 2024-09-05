@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /purley/londis/
-shop: convenience
+shop: Lebensmittel
 ---

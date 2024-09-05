@@ -1,5 +1,5 @@
 ---
 title: "Consol"
 url: /bristol/consol/
-shop: beauty
+shop: Kosmetik
 ---

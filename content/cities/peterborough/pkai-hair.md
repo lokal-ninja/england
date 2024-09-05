@@ -1,5 +1,5 @@
 ---
 title: "Pkai Hair"
 url: /peterborough/pkai-hair/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Peacocks"
 url: /yate/peacocks/
-shop: clothes
+shop: Kleidung
 ---

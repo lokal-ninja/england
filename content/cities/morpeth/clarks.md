@@ -1,5 +1,5 @@
 ---
 title: "Clarks"
 url: /morpeth/clarks/
-shop: shoes
+shop: Schuhe
 ---

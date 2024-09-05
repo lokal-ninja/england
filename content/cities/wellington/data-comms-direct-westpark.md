@@ -1,5 +1,5 @@
 ---
 title: "Data Comms Direct"
 url: /wellington/data-comms-direct-westpark/
-shop: electronics
+shop: Elektronik
 ---

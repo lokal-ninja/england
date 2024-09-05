@@ -1,5 +1,5 @@
 ---
 title: "Off Licence"
 url: /sheffield/off-licence/
-shop: alcohol
+shop: Spirituosen
 ---

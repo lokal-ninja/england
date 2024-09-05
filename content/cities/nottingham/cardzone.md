@@ -1,5 +1,5 @@
 ---
 title: "Cardzone"
 url: /nottingham/cardzone/
-shop: gift
+shop: Andenken
 ---

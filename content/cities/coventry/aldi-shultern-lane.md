@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /coventry/aldi-shultern-lane/
-shop: supermarket
+shop: Supermarkt
 ---

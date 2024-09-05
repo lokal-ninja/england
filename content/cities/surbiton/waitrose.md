@@ -1,5 +1,5 @@
 ---
 title: "Waitrose"
 url: /surbiton/waitrose/
-shop: supermarket
+shop: Supermarkt
 ---

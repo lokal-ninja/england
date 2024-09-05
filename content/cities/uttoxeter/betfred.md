@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /uttoxeter/betfred/
-shop: bookmaker
+shop: Wettbüro
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rainbow Herbal Medicines"
 url: /birmingham/rainbow-herbal-medicines/
-shop: herbalist
+shop: Kräuter
 ---

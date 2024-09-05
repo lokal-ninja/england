@@ -1,5 +1,5 @@
 ---
 title: "Countrylife Stoves"
 url: /ipswich/countrylife-stoves/
-shop: shop
+shop: Allgemein
 ---

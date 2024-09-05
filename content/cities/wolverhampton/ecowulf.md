@@ -1,5 +1,5 @@
 ---
 title: "Ecowulf"
 url: /wolverhampton/ecowulf/
-shop: shop
+shop: Allgemein
 ---

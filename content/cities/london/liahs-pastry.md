@@ -1,5 +1,5 @@
 ---
 title: "Liah's Pastry"
 url: /london/liahs-pastry/
-shop: bakery
+shop: Bäckerei
 ---

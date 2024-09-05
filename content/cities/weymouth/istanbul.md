@@ -1,5 +1,5 @@
 ---
 title: "Istanbul"
 url: /weymouth/istanbul/
-shop: hairdresser
+shop: Friseur
 ---

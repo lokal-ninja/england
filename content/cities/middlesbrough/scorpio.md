@@ -1,5 +1,5 @@
 ---
 title: "Scorpio"
 url: /middlesbrough/scorpio/
-shop: tattoo
+shop: Tattoo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mixta"
 url: /bromley/mixta/
-shop: art
+shop: Kunst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kula Tsurdiu"
 url: /nottingham/kula-tsurdiu/
-shop: clothes
+shop: Kleidung
 ---

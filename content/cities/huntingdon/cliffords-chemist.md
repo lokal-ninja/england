@@ -1,5 +1,5 @@
 ---
 title: "Cliffords Chemist"
 url: /huntingdon/cliffords-chemist/
-shop: chemist
+shop: Drogerie
 ---

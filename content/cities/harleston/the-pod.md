@@ -1,5 +1,5 @@
 ---
 title: "The Pod"
 url: /harleston/the-pod/
-shop: confectionery
+shop: Süßwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lotus"
 url: /barking/lotus/
-shop: convenience
+shop: Lebensmittel
 ---

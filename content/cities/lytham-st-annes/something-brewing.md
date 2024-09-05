@@ -1,5 +1,5 @@
 ---
 title: "Something Brewing"
 url: /lytham-st-annes/something-brewing/
-shop: shop
+shop: Allgemein
 ---

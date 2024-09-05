@@ -1,5 +1,5 @@
 ---
 title: "Charlocks"
 url: /cleethorpes/charlocks/
-shop: hairdresser
+shop: Friseur
 ---

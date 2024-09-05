@@ -1,5 +1,5 @@
 ---
 title: "Waterstones"
 url: /sudbury/waterstones/
-shop: books
+shop: Bücher
 ---

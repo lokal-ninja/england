@@ -1,5 +1,5 @@
 ---
 title: "Argos"
 url: /south-shields/argos/
-shop: catalogue
+shop: Katalog
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Look Now"
 url: /gillingham/look-now/
-shop: optician
+shop: Optiker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nisa Local"
 url: /bolton/nisa-local-halliwell-road/
-shop: convenience
+shop: Lebensmittel
 ---

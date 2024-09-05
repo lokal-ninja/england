@@ -1,5 +1,5 @@
 ---
 title: "Iron Hand Tattoo"
 url: /whitley-bay/iron-hand-tattoo/
-shop: tattoo
+shop: Tattoo
 ---

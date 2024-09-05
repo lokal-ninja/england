@@ -1,5 +1,5 @@
 ---
 title: "Boutique Homeware"
 url: /thornton-cleveleys/boutique-homeware/
-shop: furniture
+shop: Möbel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sweeney"
 url: /london/sweeney/
-shop: hairdresser
+shop: Friseur
 ---

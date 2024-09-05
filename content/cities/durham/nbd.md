@@ -1,5 +1,5 @@
 ---
 title: "NBD"
 url: /durham/nbd/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Beautique"
 url: /walsall/beautique/
-shop: beauty
+shop: Kosmetik
 ---

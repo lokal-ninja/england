@@ -1,5 +1,5 @@
 ---
 title: "The Classic Touch"
 url: /northallerton/the-classic-touch/
-shop: shoes
+shop: Schuhe
 ---

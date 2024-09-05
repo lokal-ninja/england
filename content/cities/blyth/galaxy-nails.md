@@ -1,5 +1,5 @@
 ---
 title: "Galaxy Nails"
 url: /blyth/galaxy-nails/
-shop: beauty
+shop: Kosmetik
 ---

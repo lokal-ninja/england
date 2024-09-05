@@ -1,5 +1,5 @@
 ---
 title: "Zeeshan"
 url: /london/zeeshan/
-shop: convenience
+shop: Lebensmittel
 ---

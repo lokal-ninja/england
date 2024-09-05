@@ -1,5 +1,5 @@
 ---
 title: "Comrepairs"
 url: /london/comrepairs/
-shop: shop
+shop: Allgemein
 ---

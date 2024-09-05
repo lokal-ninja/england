@@ -1,5 +1,5 @@
 ---
 title: "Florence Nightingale Hospice"
 url: /aylesbury/florence-nightingale-hospice/
-shop: furniture
+shop: Möbel
 ---

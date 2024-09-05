@@ -1,5 +1,5 @@
 ---
 title: "Shell Northfleet"
 url: /gravesend/shell-northfleet/
-shop: shop
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Launderette"
 url: /filby/launderette/
-shop: laundry
+shop: Wäscherei
 ---

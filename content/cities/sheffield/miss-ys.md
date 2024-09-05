@@ -1,5 +1,5 @@
 ---
 title: "Miss Y's"
 url: /sheffield/miss-ys/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Eltham Wines"
 url: /london/eltham-wines/
-shop: alcohol
+shop: Spirituosen
 ---

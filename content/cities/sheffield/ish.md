@@ -1,5 +1,5 @@
 ---
 title: "ISH"
 url: /sheffield/ish/
-shop: curtain
+shop: Gardinen
 ---

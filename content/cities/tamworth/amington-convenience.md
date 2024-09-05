@@ -1,5 +1,5 @@
 ---
 title: "Amington Convenience"
 url: /tamworth/amington-convenience/
-shop: convenience
+shop: Lebensmittel
 ---

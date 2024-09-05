@@ -1,5 +1,5 @@
 ---
 title: "Vape Shop"
 url: /redcar/vape-shop/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

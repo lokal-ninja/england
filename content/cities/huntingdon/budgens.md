@@ -1,5 +1,5 @@
 ---
 title: "Budgens"
 url: /huntingdon/budgens/
-shop: convenience
+shop: Lebensmittel
 ---

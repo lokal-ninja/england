@@ -1,5 +1,5 @@
 ---
 title: "Linacre Hire"
 url: /chorley/linacre-hire/
-shop: tools
+shop: Werkzeuge
 ---

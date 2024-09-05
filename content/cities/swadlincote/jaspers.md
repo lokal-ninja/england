@@ -1,5 +1,5 @@
 ---
 title: "Jaspers"
 url: /swadlincote/jaspers/
-shop: convenience
+shop: Lebensmittel
 ---

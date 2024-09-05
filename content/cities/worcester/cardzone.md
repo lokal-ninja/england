@@ -1,5 +1,5 @@
 ---
 title: "Cardzone"
 url: /worcester/cardzone/
-shop: gift
+shop: Andenken
 ---

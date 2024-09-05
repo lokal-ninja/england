@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /clevedon/asda/
-shop: supermarket
+shop: Supermarkt
 ---

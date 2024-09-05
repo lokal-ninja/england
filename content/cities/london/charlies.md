@@ -1,5 +1,5 @@
 ---
 title: "Charlies"
 url: /london/charlies/
-shop: newsagent
+shop: Zeitungen
 ---

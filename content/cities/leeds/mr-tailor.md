@@ -1,5 +1,5 @@
 ---
 title: "Mr. Tailor"
 url: /leeds/mr-tailor/
-shop: tailor
+shop: Schneiderei
 ---

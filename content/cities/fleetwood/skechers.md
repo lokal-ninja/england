@@ -1,5 +1,5 @@
 ---
 title: "Skechers"
 url: /fleetwood/skechers/
-shop: shoes
+shop: Schuhe
 ---

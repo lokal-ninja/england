@@ -1,5 +1,5 @@
 ---
 title: "Raferty"
 url: /nottingham/raferty/
-shop: hairdresser
+shop: Friseur
 ---

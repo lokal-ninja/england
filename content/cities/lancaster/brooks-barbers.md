@@ -1,5 +1,5 @@
 ---
 title: "Brooks Barbers"
 url: /lancaster/brooks-barbers/
-shop: hairdresser
+shop: Friseur
 ---

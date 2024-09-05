@@ -1,5 +1,5 @@
 ---
 title: "Nettie Knows"
 url: /weybridge/nettie-knows/
-shop: clothes
+shop: Kleidung
 ---

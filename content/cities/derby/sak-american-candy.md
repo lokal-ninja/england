@@ -1,5 +1,5 @@
 ---
 title: "Sak + American Candy"
 url: /derby/sak-american-candy/
-shop: convenience
+shop: Lebensmittel
 ---

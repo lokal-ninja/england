@@ -1,5 +1,5 @@
 ---
 title: "Paradise"
 url: /morecambe/paradise/
-shop: beauty
+shop: Kosmetik
 ---

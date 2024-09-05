@@ -1,5 +1,5 @@
 ---
 title: "Andrew's"
 url: /bromley/andrews/
-shop: butcher
+shop: Metzgerei
 ---

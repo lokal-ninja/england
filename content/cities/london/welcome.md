@@ -1,5 +1,5 @@
 ---
 title: "Welcome"
 url: /london/welcome/
-shop: supermarket
+shop: Supermarkt
 ---

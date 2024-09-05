@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /saffron-walden/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

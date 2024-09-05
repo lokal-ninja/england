@@ -1,5 +1,5 @@
 ---
 title: "Diptyque'"
 url: /london/diptyque/
-shop: perfumery
+shop: Parfümerie
 ---

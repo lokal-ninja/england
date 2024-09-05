@@ -1,5 +1,5 @@
 ---
 title: "Transindus"
 url: /london/transindus/
-shop: travel agency
+shop: Reisebüro
 ---

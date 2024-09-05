@@ -1,5 +1,5 @@
 ---
 title: "Tothill Service Station"
 url: /stowmarket/tothill-service-station/
-shop: shop
+shop: Allgemein
 ---

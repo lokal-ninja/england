@@ -1,5 +1,5 @@
 ---
 title: "Cooplands"
 url: /alford/cooplands/
-shop: bakery
+shop: Bäckerei
 ---

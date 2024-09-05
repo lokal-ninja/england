@@ -1,5 +1,5 @@
 ---
 title: "Taste"
 url: /bolton/taste/
-shop: bakery
+shop: Bäckerei
 ---

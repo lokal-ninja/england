@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /maidenhead/savers/
-shop: chemist
+shop: Drogerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "BMW"
 url: /swindon/bmw/
-shop: car
+shop: Autohaus
 ---

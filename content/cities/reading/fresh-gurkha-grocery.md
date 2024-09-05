@@ -1,5 +1,5 @@
 ---
 title: "Fresh Gurkha Grocery"
 url: /reading/fresh-gurkha-grocery/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

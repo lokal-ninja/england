@@ -1,5 +1,5 @@
 ---
 title: "Golden Scissors Barbers"
 url: /plymouth/golden-scissors-barbers/
-shop: hairdresser
+shop: Friseur
 ---

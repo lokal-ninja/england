@@ -1,5 +1,5 @@
 ---
 title: "Church Road Newsagents"
 url: /burgess-hill/church-road-newsagents/
-shop: newsagent
+shop: Zeitungen
 ---

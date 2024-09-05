@@ -1,5 +1,5 @@
 ---
 title: "Dyako"
 url: /ashby-de-la-zouch/dyako/
-shop: hairdresser
+shop: Friseur
 ---

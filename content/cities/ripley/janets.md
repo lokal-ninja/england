@@ -1,5 +1,5 @@
 ---
 title: "Janets"
 url: /ripley/janets/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kioskafé"
 url: /london/kioskafe/
-shop: convenience
+shop: Lebensmittel
 ---

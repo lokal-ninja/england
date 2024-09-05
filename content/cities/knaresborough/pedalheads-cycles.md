@@ -1,5 +1,5 @@
 ---
 title: "Pedalheads Cycles"
 url: /knaresborough/pedalheads-cycles/
-shop: bicycle
+shop: Fahrrad
 ---

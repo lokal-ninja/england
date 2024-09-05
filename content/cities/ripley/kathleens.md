@@ -1,5 +1,5 @@
 ---
 title: "Kathleens"
 url: /ripley/kathleens/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Optometrist"
 url: /buckhurst-hill/optometrist/
-shop: optician
+shop: Optiker
 ---

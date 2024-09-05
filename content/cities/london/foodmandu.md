@@ -1,5 +1,5 @@
 ---
 title: "Foodmandu"
 url: /london/foodmandu/
-shop: alcohol
+shop: Spirituosen
 ---

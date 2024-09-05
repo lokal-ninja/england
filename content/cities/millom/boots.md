@@ -1,5 +1,5 @@
 ---
 title: "Boots"
 url: /millom/boots/
-shop: chemist
+shop: Drogerie
 ---

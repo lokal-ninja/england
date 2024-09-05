@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /widnes/coral/
-shop: bookmaker
+shop: Wettbüro
 ---

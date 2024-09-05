@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /driffield/spar/
-shop: convenience
+shop: Lebensmittel
 ---

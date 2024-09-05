@@ -1,5 +1,5 @@
 ---
 title: "Fields"
 url: /newport/fields/
-shop: clothes
+shop: Kleidung
 ---

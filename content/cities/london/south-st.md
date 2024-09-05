@@ -1,5 +1,5 @@
 ---
 title: "South.St"
 url: /london/south-st/
-shop: clothes
+shop: Kleidung
 ---

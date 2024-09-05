@@ -1,5 +1,5 @@
 ---
 title: "Artisan"
 url: /skipton/artisan/
-shop: gift
+shop: Andenken
 ---

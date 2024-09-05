@@ -1,5 +1,5 @@
 ---
 title: "Makers"
 url: /bristol/makers/
-shop: art
+shop: Kunst
 ---

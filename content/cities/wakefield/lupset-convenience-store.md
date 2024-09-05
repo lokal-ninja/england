@@ -1,5 +1,5 @@
 ---
 title: "Lupset Convenience Store"
 url: /wakefield/lupset-convenience-store/
-shop: convenience
+shop: Lebensmittel
 ---

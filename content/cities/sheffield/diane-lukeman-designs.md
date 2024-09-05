@@ -1,5 +1,5 @@
 ---
 title: "Diane Lukeman Designs"
 url: /sheffield/diane-lukeman-designs/
-shop: kitchen
+shop: Küchen
 ---

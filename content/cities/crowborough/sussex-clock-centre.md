@@ -1,5 +1,5 @@
 ---
 title: "Sussex Clock Centre"
 url: /crowborough/sussex-clock-centre/
-shop: shop
+shop: Allgemein
 ---

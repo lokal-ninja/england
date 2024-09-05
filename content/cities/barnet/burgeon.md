@@ -1,5 +1,5 @@
 ---
 title: "Burgéon"
 url: /barnet/burgeon/
-shop: florist
+shop: Blumen
 ---

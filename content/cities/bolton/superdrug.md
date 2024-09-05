@@ -1,5 +1,5 @@
 ---
 title: "Superdrug"
 url: /bolton/superdrug/
-shop: chemist
+shop: Drogerie
 ---

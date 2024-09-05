@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /chatteris/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Deichmann"
 url: /ipswich/deichmann/
-shop: shoes
+shop: Schuhe
 ---

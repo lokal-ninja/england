@@ -1,5 +1,5 @@
 ---
 title: "London Grace"
 url: /london/london-grace/
-shop: beauty
+shop: Kosmetik
 ---

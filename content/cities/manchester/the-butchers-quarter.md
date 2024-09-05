@@ -1,5 +1,5 @@
 ---
 title: "The Butcher's Quarter"
 url: /manchester/the-butchers-quarter/
-shop: butcher
+shop: Metzgerei
 ---

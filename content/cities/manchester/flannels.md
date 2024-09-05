@@ -1,5 +1,5 @@
 ---
 title: "Flannels"
 url: /manchester/flannels/
-shop: clothes
+shop: Kleidung
 ---

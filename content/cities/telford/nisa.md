@@ -1,5 +1,5 @@
 ---
 title: "Nisa"
 url: /telford/nisa/
-shop: convenience
+shop: Lebensmittel
 ---

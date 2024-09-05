@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /great-yarmouth/coral-magdalen-way/
-shop: bookmaker
+shop: Wettbüro
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cyberbie - Community IT Services"
 url: /theale/cyberbie-community-it-services/
-shop: computer
+shop: Computer
 ---

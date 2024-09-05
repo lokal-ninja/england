@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /blackburn/londis/
-shop: convenience
+shop: Lebensmittel
 ---

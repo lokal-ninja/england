@@ -1,5 +1,5 @@
 ---
 title: "HMV"
 url: /sunderland/hmv/
-shop: music
+shop: Musik
 ---

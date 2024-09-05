@@ -1,5 +1,5 @@
 ---
 title: "Foothills"
 url: /sheffield/foothills/
-shop: outdoor
+shop: Outdoor
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dollies"
 url: /bath/dollies/
-shop: beauty
+shop: Kosmetik
 ---

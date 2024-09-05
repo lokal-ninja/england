@@ -1,5 +1,5 @@
 ---
 title: "Cherished"
 url: /north-walsham/cherished/
-shop: charity
+shop: Gebrauchtwaren
 ---

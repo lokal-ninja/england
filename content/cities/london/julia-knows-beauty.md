@@ -1,5 +1,5 @@
 ---
 title: "Julia Knows Beauty"
 url: /london/julia-knows-beauty/
-shop: beauty
+shop: Kosmetik
 ---

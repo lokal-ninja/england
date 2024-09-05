@@ -1,5 +1,5 @@
 ---
 title: "Bodycare"
 url: /rotherham/bodycare/
-shop: chemist
+shop: Drogerie
 ---

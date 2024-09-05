@@ -1,5 +1,5 @@
 ---
 title: "Superdrug"
 url: /tavistock/superdrug/
-shop: chemist
+shop: Drogerie
 ---

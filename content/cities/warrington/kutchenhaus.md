@@ -1,5 +1,5 @@
 ---
 title: "kutchenhaus"
 url: /warrington/kutchenhaus/
-shop: kitchen
+shop: Küchen
 ---

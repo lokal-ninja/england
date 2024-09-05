@@ -1,5 +1,5 @@
 ---
 title: "Express Fixings"
 url: /plymouth/express-fixings/
-shop: hardware
+shop: Eisenwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hackett"
 url: /london/hackett/
-shop: clothes
+shop: Kleidung
 ---

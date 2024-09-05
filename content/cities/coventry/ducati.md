@@ -1,5 +1,5 @@
 ---
 title: "Ducati"
 url: /coventry/ducati/
-shop: motorcycle
+shop: Motorrad
 ---

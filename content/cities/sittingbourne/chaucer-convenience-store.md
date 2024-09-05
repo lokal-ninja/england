@@ -1,5 +1,5 @@
 ---
 title: "Chaucer Convenience Store"
 url: /sittingbourne/chaucer-convenience-store/
-shop: convenience
+shop: Lebensmittel
 ---

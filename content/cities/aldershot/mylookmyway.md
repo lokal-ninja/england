@@ -1,5 +1,5 @@
 ---
 title: "Mylookmyway"
 url: /aldershot/mylookmyway/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Milligans"
 url: /shildon/milligans/
-shop: bakery
+shop: Bäckerei
 ---

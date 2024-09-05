@@ -1,5 +1,5 @@
 ---
 title: "Bodycare"
 url: /carlisle/bodycare/
-shop: chemist
+shop: Drogerie
 ---

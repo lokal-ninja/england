@@ -1,5 +1,5 @@
 ---
 title: "Banoful"
 url: /luton/banoful/
-shop: confectionery
+shop: Süßwaren
 ---

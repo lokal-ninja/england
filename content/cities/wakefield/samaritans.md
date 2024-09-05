@@ -1,5 +1,5 @@
 ---
 title: "Samaritans"
 url: /wakefield/samaritans/
-shop: charity
+shop: Gebrauchtwaren
 ---

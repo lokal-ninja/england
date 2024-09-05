@@ -1,5 +1,5 @@
 ---
 title: "Phoenix"
 url: /gosport/phoenix/
-shop: bakery
+shop: Bäckerei
 ---

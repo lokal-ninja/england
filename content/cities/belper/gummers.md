@@ -1,5 +1,5 @@
 ---
 title: "Gummer's"
 url: /belper/gummers/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

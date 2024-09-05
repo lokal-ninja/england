@@ -1,5 +1,5 @@
 ---
 title: "Jar"
 url: /exeter/jar/
-shop: bakery
+shop: Bäckerei
 ---

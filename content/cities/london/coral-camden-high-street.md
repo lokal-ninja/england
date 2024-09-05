@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /london/coral-camden-high-street/
-shop: bookmaker
+shop: Wettbüro
 ---

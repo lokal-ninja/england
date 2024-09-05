@@ -1,5 +1,5 @@
 ---
 title: "Layers Paris"
 url: /london/layers-paris/
-shop: clothes
+shop: Kleidung
 ---

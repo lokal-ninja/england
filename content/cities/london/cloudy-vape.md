@@ -1,5 +1,5 @@
 ---
 title: "Cloudy Vape"
 url: /london/cloudy-vape/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

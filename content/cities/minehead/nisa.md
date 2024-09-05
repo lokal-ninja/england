@@ -1,5 +1,5 @@
 ---
 title: "Nisa"
 url: /minehead/nisa/
-shop: convenience
+shop: Lebensmittel
 ---

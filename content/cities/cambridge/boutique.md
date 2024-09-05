@@ -1,5 +1,5 @@
 ---
 title: "Boutique"
 url: /cambridge/boutique/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /ilkley/savers/
-shop: general
+shop: Dorfladen
 ---

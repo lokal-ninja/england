@@ -1,5 +1,5 @@
 ---
 title: "Cheeses"
 url: /london/cheeses/
-shop: cheese
+shop: Käse
 ---

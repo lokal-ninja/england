@@ -1,5 +1,5 @@
 ---
 title: "Agatha"
 url: /lincoln/agatha/
-shop: clothes
+shop: Kleidung
 ---

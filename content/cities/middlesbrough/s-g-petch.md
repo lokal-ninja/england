@@ -1,5 +1,5 @@
 ---
 title: "S. G. Petch"
 url: /middlesbrough/s-g-petch/
-shop: car
+shop: Autohaus
 ---

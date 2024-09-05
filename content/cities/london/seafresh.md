@@ -1,5 +1,5 @@
 ---
 title: "Seafresh"
 url: /london/seafresh/
-shop: seafood
+shop: Fisch
 ---

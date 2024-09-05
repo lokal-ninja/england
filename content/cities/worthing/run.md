@@ -1,5 +1,5 @@
 ---
 title: "RUN"
 url: /worthing/run/
-shop: sports
+shop: Sport
 ---

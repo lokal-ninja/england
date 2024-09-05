@@ -1,5 +1,5 @@
 ---
 title: "Swanky"
 url: /london/swanky-chamberlayne-road/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Butterwick"
 url: /kettering/butterwick/
-shop: bakery
+shop: Bäckerei
 ---

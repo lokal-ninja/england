@@ -1,5 +1,5 @@
 ---
 title: "Revital"
 url: /london/revital/
-shop: nutrition supplements
+shop: Nahrungsergänzung
 ---

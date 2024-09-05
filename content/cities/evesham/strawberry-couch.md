@@ -1,5 +1,5 @@
 ---
 title: "Strawberry Couch"
 url: /evesham/strawberry-couch/
-shop: toys
+shop: Spielzeug
 ---

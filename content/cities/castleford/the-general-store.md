@@ -1,5 +1,5 @@
 ---
 title: "The General Store"
 url: /castleford/the-general-store/
-shop: convenience
+shop: Lebensmittel
 ---

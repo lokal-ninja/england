@@ -1,5 +1,5 @@
 ---
 title: "Masterclass"
 url: /southport/masterclass/
-shop: hairdresser
+shop: Friseur
 ---

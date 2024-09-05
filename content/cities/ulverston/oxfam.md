@@ -1,5 +1,5 @@
 ---
 title: "Oxfam"
 url: /ulverston/oxfam/
-shop: charity
+shop: Gebrauchtwaren
 ---

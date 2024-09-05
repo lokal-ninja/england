@@ -1,5 +1,5 @@
 ---
 title: "Joyalukkas"
 url: /london/joyalukkas/
-shop: jewelry
+shop: Schmuck
 ---

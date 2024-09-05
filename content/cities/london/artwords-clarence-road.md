@@ -1,5 +1,5 @@
 ---
 title: "Artwords"
 url: /london/artwords-clarence-road/
-shop: books
+shop: Bücher
 ---

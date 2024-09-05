@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /orpington/coral-high-street/
-shop: bookmaker
+shop: Wettbüro
 ---

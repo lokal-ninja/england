@@ -1,5 +1,5 @@
 ---
 title: "Taj the Grocer"
 url: /hove/taj-the-grocer/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sony"
 url: /london/sony/
-shop: electronics
+shop: Elektronik
 ---

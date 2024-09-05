@@ -1,5 +1,5 @@
 ---
 title: "Magnet"
 url: /skipton/magnet/
-shop: kitchen
+shop: Küchen
 ---

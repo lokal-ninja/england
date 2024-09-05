@@ -1,5 +1,5 @@
 ---
 title: "Equi-Trek/Moto-Trek"
 url: /sheffield/equi-trek-moto-trek/
-shop: caravan
+shop: Wohnwagen
 ---

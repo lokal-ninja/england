@@ -1,5 +1,5 @@
 ---
 title: "Mace"
 url: /bury-st-edmunds/mace/
-shop: convenience
+shop: Lebensmittel
 ---

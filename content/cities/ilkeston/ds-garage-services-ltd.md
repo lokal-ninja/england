@@ -1,5 +1,5 @@
 ---
 title: "DS Garage Services Ltd"
 url: /ilkeston/ds-garage-services-ltd/
-shop: car repair
+shop: Autowerkstatt
 ---

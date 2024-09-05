@@ -1,5 +1,5 @@
 ---
 title: "Roman"
 url: /basingstoke/roman/
-shop: clothes
+shop: Kleidung
 ---

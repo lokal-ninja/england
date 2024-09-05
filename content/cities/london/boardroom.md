@@ -1,5 +1,5 @@
 ---
 title: "Boardroom"
 url: /london/boardroom/
-shop: hairdresser
+shop: Friseur
 ---

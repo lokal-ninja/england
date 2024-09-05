@@ -1,5 +1,5 @@
 ---
 title: "Pumpkinz"
 url: /derby/pumpkinz/
-shop: gift
+shop: Andenken
 ---

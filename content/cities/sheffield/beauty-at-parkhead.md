@@ -1,5 +1,5 @@
 ---
 title: "Beauty at Parkhead"
 url: /sheffield/beauty-at-parkhead/
-shop: beauty
+shop: Kosmetik
 ---

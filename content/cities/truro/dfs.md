@@ -1,5 +1,5 @@
 ---
 title: "DFS"
 url: /truro/dfs/
-shop: furniture
+shop: Möbel
 ---

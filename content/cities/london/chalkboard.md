@@ -1,5 +1,5 @@
 ---
 title: "Chalkboard"
 url: /london/chalkboard/
-shop: toys
+shop: Spielzeug
 ---

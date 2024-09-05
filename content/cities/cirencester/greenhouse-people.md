@@ -1,5 +1,5 @@
 ---
 title: "Greenhouse People"
 url: /cirencester/greenhouse-people/
-shop: shop
+shop: Allgemein
 ---

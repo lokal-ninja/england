@@ -1,5 +1,5 @@
 ---
 title: "Xhale"
 url: /salford/xhale/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

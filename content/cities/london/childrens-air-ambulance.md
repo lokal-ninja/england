@@ -1,5 +1,5 @@
 ---
 title: "Children's Air Ambulance"
 url: /london/childrens-air-ambulance/
-shop: charity
+shop: Gebrauchtwaren
 ---

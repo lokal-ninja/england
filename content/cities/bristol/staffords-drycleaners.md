@@ -1,5 +1,5 @@
 ---
 title: "Staffords Drycleaners"
 url: /bristol/staffords-drycleaners/
-shop: laundry
+shop: Wäscherei
 ---

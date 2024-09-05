@@ -1,5 +1,5 @@
 ---
 title: "Peacocks"
 url: /leeds/peacocks-station-road/
-shop: clothes
+shop: Kleidung
 ---

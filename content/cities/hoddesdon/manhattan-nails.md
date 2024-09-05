@@ -1,5 +1,5 @@
 ---
 title: "Manhattan Nails"
 url: /hoddesdon/manhattan-nails/
-shop: beauty
+shop: Kosmetik
 ---

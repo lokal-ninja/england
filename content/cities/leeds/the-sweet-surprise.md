@@ -1,5 +1,5 @@
 ---
 title: "The Sweet Surprise"
 url: /leeds/the-sweet-surprise/
-shop: confectionery
+shop: Süßwaren
 ---

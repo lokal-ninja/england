@@ -1,5 +1,5 @@
 ---
 title: "Johnsons"
 url: /taunton/johnsons/
-shop: laundry
+shop: Wäscherei
 ---

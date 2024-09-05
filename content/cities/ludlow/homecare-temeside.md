@@ -1,5 +1,5 @@
 ---
 title: "Homecare"
 url: /ludlow/homecare-temeside/
-shop: garden centre
+shop: Baumarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Raj Wines"
 url: /birmingham/raj-wines/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bonmarché"
 url: /tonbridge/bonmarche/
-shop: clothes
+shop: Kleidung
 ---

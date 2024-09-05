@@ -1,5 +1,5 @@
 ---
 title: "Brownes"
 url: /sheffield/brownes/
-shop: hairdresser
+shop: Friseur
 ---

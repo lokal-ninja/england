@@ -1,5 +1,5 @@
 ---
 title: "Flower Style"
 url: /manchester/flower-style/
-shop: florist
+shop: Blumen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "iPrint"
 url: /settle/iprint/
-shop: copyshop
+shop: Kopieren
 ---

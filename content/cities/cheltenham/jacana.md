@@ -1,5 +1,5 @@
 ---
 title: "Jacana"
 url: /cheltenham/jacana/
-shop: clothes
+shop: Kleidung
 ---

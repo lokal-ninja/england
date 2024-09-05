@@ -1,5 +1,5 @@
 ---
 title: "Mail Boxes Etc."
 url: /london/mail-boxes-etc-fortess-road/
-shop: copyshop
+shop: Kopieren
 ---

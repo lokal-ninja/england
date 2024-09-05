@@ -1,5 +1,5 @@
 ---
 title: "Trudes Grocery"
 url: /london/trudes-grocery/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

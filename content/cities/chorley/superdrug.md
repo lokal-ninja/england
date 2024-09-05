@@ -1,5 +1,5 @@
 ---
 title: "Superdrug"
 url: /chorley/superdrug/
-shop: chemist
+shop: Drogerie
 ---

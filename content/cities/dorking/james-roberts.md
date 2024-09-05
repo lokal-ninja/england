@@ -1,5 +1,5 @@
 ---
 title: "James Roberts"
 url: /dorking/james-roberts/
-shop: antiques
+shop: Antiquitäten
 ---

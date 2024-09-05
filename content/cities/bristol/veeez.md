@@ -1,5 +1,5 @@
 ---
 title: "Veeez"
 url: /bristol/veeez/
-shop: clothes
+shop: Kleidung
 ---

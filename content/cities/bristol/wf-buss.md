@@ -1,5 +1,5 @@
 ---
 title: "WF Buss"
 url: /bristol/wf-buss/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

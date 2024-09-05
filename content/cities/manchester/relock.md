@@ -1,5 +1,5 @@
 ---
 title: "Relock"
 url: /manchester/relock/
-shop: locksmith
+shop: Schlüsseldienst
 ---

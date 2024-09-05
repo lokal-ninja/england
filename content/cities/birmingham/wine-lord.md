@@ -1,5 +1,5 @@
 ---
 title: "Wine Lord"
 url: /birmingham/wine-lord/
-shop: alcohol
+shop: Spirituosen
 ---

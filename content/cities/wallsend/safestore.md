@@ -1,5 +1,5 @@
 ---
 title: "safestore"
 url: /wallsend/safestore/
-shop: storage rental
+shop: Mieten
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mr."
 url: /sudbury/mr/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Beach Shop"
 url: /ventnor/beach-shop/
-shop: convenience
+shop: Lebensmittel
 ---

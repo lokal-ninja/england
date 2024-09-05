@@ -1,5 +1,5 @@
 ---
 title: "Queen's"
 url: /bolton/queens/
-shop: convenience
+shop: Lebensmittel
 ---

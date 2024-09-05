@@ -1,5 +1,5 @@
 ---
 title: "Stitches"
 url: /birmingham/stitches/
-shop: laundry
+shop: Wäscherei
 ---

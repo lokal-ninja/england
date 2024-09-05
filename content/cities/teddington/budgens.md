@@ -1,5 +1,5 @@
 ---
 title: "Budgens"
 url: /teddington/budgens/
-shop: convenience
+shop: Lebensmittel
 ---

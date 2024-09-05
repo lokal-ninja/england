@@ -1,5 +1,5 @@
 ---
 title: "Joules"
 url: /chelmsford/joules/
-shop: clothes
+shop: Kleidung
 ---

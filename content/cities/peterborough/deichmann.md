@@ -1,5 +1,5 @@
 ---
 title: "Deichmann"
 url: /peterborough/deichmann/
-shop: shoes
+shop: Schuhe
 ---

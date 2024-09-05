@@ -1,5 +1,5 @@
 ---
 title: "Majestic"
 url: /preston/majestic/
-shop: alcohol
+shop: Spirituosen
 ---

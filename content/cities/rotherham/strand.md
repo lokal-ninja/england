@@ -1,5 +1,5 @@
 ---
 title: "Strand"
 url: /rotherham/strand/
-shop: hairdresser
+shop: Friseur
 ---

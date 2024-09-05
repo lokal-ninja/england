@@ -1,5 +1,5 @@
 ---
 title: "JmB-PC"
 url: /waterlooville/jmb-pc/
-shop: computer
+shop: Computer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Washeteria"
 url: /croydon/washeteria/
-shop: laundry
+shop: Wäscherei
 ---

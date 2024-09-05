@@ -1,5 +1,5 @@
 ---
 title: "Apon Bazar"
 url: /london/apon-bazar/
-shop: convenience
+shop: Lebensmittel
 ---

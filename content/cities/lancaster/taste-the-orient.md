@@ -1,5 +1,5 @@
 ---
 title: "Taste the Orient"
 url: /lancaster/taste-the-orient/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Morrisons"
 url: /market-drayton/morrisons/
-shop: supermarket
+shop: Supermarkt
 ---

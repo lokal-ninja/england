@@ -1,5 +1,5 @@
 ---
 title: "C.P. Hart"
 url: /london/c-p-hart/
-shop: trade
+shop: Baustoffe
 ---

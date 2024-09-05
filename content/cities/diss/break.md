@@ -1,5 +1,5 @@
 ---
 title: "Break"
 url: /diss/break/
-shop: charity
+shop: Gebrauchtwaren
 ---

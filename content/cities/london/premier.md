@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /london/premier/
-shop: convenience
+shop: Lebensmittel
 ---

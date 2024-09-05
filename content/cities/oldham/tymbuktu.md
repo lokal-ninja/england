@@ -1,5 +1,5 @@
 ---
 title: "Tymbuktu"
 url: /oldham/tymbuktu/
-shop: beauty
+shop: Kosmetik
 ---

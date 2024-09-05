@@ -1,5 +1,5 @@
 ---
 title: "Hairworks"
 url: /rotherham/hairworks/
-shop: hairdresser
+shop: Friseur
 ---

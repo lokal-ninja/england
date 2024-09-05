@@ -1,5 +1,5 @@
 ---
 title: "Superdrug"
 url: /great-yarmouth/superdrug/
-shop: chemist
+shop: Drogerie
 ---

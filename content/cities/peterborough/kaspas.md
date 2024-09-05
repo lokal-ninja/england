@@ -1,5 +1,5 @@
 ---
 title: "Kaspa's"
 url: /peterborough/kaspas/
-shop: confectionery
+shop: Süßwaren
 ---

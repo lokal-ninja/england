@@ -1,5 +1,5 @@
 ---
 title: "Oscars"
 url: /grimsby/oscars/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Specsavers"
 url: /andover/specsavers/
-shop: optician
+shop: Optiker
 ---

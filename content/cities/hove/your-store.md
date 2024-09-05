@@ -1,5 +1,5 @@
 ---
 title: "Your Store"
 url: /hove/your-store/
-shop: convenience
+shop: Lebensmittel
 ---

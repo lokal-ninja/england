@@ -1,5 +1,5 @@
 ---
 title: "Butlers"
 url: /bristol/butlers/
-shop: furniture
+shop: Möbel
 ---

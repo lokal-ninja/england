@@ -1,5 +1,5 @@
 ---
 title: "Argos"
 url: /blackburn/argos/
-shop: catalogue
+shop: Katalog
 ---

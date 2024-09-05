@@ -1,5 +1,5 @@
 ---
 title: "Thanet Domestics"
 url: /margate/thanet-domestics/
-shop: houseware
+shop: Haushaltsartikel
 ---

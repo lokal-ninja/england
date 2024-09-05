@@ -1,5 +1,5 @@
 ---
 title: "John Patts"
 url: /torrington/john-patts/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

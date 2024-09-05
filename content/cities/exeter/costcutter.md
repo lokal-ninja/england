@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /exeter/costcutter/
-shop: convenience
+shop: Lebensmittel
 ---

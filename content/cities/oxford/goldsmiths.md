@@ -1,5 +1,5 @@
 ---
 title: "Goldsmiths"
 url: /oxford/goldsmiths/
-shop: jewelry
+shop: Schmuck
 ---

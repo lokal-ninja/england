@@ -1,5 +1,5 @@
 ---
 title: "Changes"
 url: /coventry/changes/
-shop: hairdresser
+shop: Friseur
 ---

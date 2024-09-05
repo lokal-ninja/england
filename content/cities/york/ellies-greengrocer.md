@@ -1,5 +1,5 @@
 ---
 title: "Ellie's Greengrocer"
 url: /york/ellies-greengrocer/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

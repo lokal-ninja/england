@@ -1,5 +1,5 @@
 ---
 title: "Cambridge Cycle Company"
 url: /pampisford/cambridge-cycle-company/
-shop: bicycle
+shop: Fahrrad
 ---

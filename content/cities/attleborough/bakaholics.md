@@ -1,5 +1,5 @@
 ---
 title: "Bakaholics"
 url: /attleborough/bakaholics/
-shop: pastry
+shop: Konditorei
 ---

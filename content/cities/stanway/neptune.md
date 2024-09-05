@@ -1,5 +1,5 @@
 ---
 title: "Neptune"
 url: /stanway/neptune/
-shop: furniture
+shop: Möbel
 ---

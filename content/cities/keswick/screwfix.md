@@ -1,5 +1,5 @@
 ---
 title: "Screwfix"
 url: /keswick/screwfix/
-shop: doityourself
+shop: Baumarkt
 ---

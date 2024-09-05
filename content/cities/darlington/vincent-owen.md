@@ -1,5 +1,5 @@
 ---
 title: "Vincent Owen"
 url: /darlington/vincent-owen/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chaiwala"
 url: /london/chaiwala/
-shop: bakery
+shop: Bäckerei
 ---

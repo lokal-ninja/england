@@ -1,5 +1,5 @@
 ---
 title: "Nilgiris"
 url: /croydon/nilgiris/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Collier's"
 url: /birmingham/colliers/
-shop: clothes
+shop: Kleidung
 ---

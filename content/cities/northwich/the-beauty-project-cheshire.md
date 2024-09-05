@@ -1,5 +1,5 @@
 ---
 title: "The Beauty Project Cheshire"
 url: /northwich/the-beauty-project-cheshire/
-shop: beauty
+shop: Kosmetik
 ---

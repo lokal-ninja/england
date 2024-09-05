@@ -1,5 +1,5 @@
 ---
 title: "Alexander's Palace"
 url: /clacton-on-sea/alexanders-palace/
-shop: antiques
+shop: Antiquitäten
 ---

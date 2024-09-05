@@ -1,5 +1,5 @@
 ---
 title: "Pandora"
 url: /oldham/pandora/
-shop: jewelry
+shop: Schmuck
 ---

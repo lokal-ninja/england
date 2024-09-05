@@ -1,5 +1,5 @@
 ---
 title: "Temptation"
 url: /newbury/temptation/
-shop: gift
+shop: Andenken
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Eurostar"
 url: /london/eurostar/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bennetts"
 url: /pontefract/bennetts/
-shop: butcher
+shop: Metzgerei
 ---

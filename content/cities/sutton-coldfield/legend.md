@@ -1,5 +1,5 @@
 ---
 title: "Legend"
 url: /sutton-coldfield/legend/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "KM"
 url: /derby/km/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Central"
 url: /lovedean-waterlooville/central/
-shop: convenience
+shop: Lebensmittel
 ---

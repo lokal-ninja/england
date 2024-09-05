@@ -1,5 +1,5 @@
 ---
 title: "Terzetto"
 url: /leamington-spa/terzetto/
-shop: tiles
+shop: Fliesen
 ---

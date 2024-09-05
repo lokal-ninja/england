@@ -1,5 +1,5 @@
 ---
 title: "Launderama"
 url: /aylesbury/launderama/
-shop: laundry
+shop: Wäscherei
 ---

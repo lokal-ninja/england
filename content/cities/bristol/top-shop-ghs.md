@@ -1,5 +1,5 @@
 ---
 title: "Top Shop GHS"
 url: /bristol/top-shop-ghs/
-shop: convenience
+shop: Lebensmittel
 ---

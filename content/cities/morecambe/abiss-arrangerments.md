@@ -1,5 +1,5 @@
 ---
 title: "Abis's Arrangerments"
 url: /morecambe/abiss-arrangerments/
-shop: florist
+shop: Blumen
 ---

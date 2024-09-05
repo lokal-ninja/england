@@ -1,5 +1,5 @@
 ---
 title: "Bookworm"
 url: /tewkesbury/bookworm/
-shop: books
+shop: Bücher
 ---

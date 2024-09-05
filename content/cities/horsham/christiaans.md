@@ -1,5 +1,5 @@
 ---
 title: "Christiaan's"
 url: /horsham/christiaans/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mosaic"
 url: /whitstable/mosaic/
-shop: clothes
+shop: Kleidung
 ---

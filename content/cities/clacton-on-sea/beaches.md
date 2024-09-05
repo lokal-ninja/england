@@ -1,5 +1,5 @@
 ---
 title: "Beaches"
 url: /clacton-on-sea/beaches/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "omnico"
 url: /norwich/omnico/
-shop: shop
+shop: Allgemein
 ---

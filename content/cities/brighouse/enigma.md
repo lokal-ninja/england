@@ -1,5 +1,5 @@
 ---
 title: "Enigma"
 url: /brighouse/enigma/
-shop: hairdresser
+shop: Friseur
 ---

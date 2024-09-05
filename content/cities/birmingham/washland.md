@@ -1,5 +1,5 @@
 ---
 title: "Washland"
 url: /birmingham/washland/
-shop: laundry
+shop: Wäscherei
 ---

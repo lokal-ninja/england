@@ -1,5 +1,5 @@
 ---
 title: "Brioni"
 url: /london/brioni/
-shop: clothes
+shop: Kleidung
 ---

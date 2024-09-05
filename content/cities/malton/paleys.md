@@ -1,5 +1,5 @@
 ---
 title: "Paleys"
 url: /malton/paleys/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Magnolia"
 url: /chesterfield/magnolia/
-shop: hairdresser
+shop: Friseur
 ---

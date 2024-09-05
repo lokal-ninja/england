@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /rustington-littlehampton/coral/
-shop: bookmaker
+shop: Wettbüro
 ---

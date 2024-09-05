@@ -1,5 +1,5 @@
 ---
 title: "One Stop"
 url: /warrington/one-stop-cinnamon-lane-north/
-shop: convenience
+shop: Lebensmittel
 ---

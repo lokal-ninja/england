@@ -1,5 +1,5 @@
 ---
 title: "Fishworld"
 url: /oldham/fishworld/
-shop: pet
+shop: Tiere
 ---

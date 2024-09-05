@@ -1,5 +1,5 @@
 ---
 title: "Loafers"
 url: /halifax/loafers/
-shop: music
+shop: Musik
 ---

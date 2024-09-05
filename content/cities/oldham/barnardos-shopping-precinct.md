@@ -1,5 +1,5 @@
 ---
 title: "Barnardo's"
 url: /oldham/barnardos-shopping-precinct/
-shop: charity
+shop: Gebrauchtwaren
 ---

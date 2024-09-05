@@ -1,5 +1,5 @@
 ---
 title: "claire's"
 url: /washington/claires/
-shop: boutique
+shop: Modehaus
 ---

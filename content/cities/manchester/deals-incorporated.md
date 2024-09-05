@@ -1,5 +1,5 @@
 ---
 title: "Deals Incorporated"
 url: /manchester/deals-incorporated/
-shop: toys
+shop: Spielzeug
 ---

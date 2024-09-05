@@ -1,5 +1,5 @@
 ---
 title: "Surprises"
 url: /cirencester/surprises/
-shop: gift
+shop: Andenken
 ---

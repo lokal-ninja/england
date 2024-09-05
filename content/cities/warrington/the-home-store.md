@@ -1,5 +1,5 @@
 ---
 title: "The Home Store"
 url: /warrington/the-home-store/
-shop: charity
+shop: Gebrauchtwaren
 ---

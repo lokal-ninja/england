@@ -1,5 +1,5 @@
 ---
 title: "Pomegranate"
 url: /london/pomegranate/
-shop: jewelry
+shop: Schmuck
 ---

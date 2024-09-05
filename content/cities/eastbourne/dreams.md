@@ -1,5 +1,5 @@
 ---
 title: "Dreams"
 url: /eastbourne/dreams/
-shop: bed
+shop: Betten
 ---

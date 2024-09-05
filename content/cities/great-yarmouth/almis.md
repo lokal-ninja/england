@@ -1,5 +1,5 @@
 ---
 title: "Almis"
 url: /great-yarmouth/almis/
-shop: convenience
+shop: Lebensmittel
 ---

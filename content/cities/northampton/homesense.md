@@ -1,5 +1,5 @@
 ---
 title: "HomeSense"
 url: /northampton/homesense/
-shop: interior decoration
+shop: Raumausstattung
 ---

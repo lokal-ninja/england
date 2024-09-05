@@ -1,5 +1,5 @@
 ---
 title: "Bonbon"
 url: /ipswich/bonbon/
-shop: pastry
+shop: Konditorei
 ---

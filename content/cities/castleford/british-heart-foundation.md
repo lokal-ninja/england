@@ -1,5 +1,5 @@
 ---
 title: "British Heart Foundation"
 url: /castleford/british-heart-foundation/
-shop: charity
+shop: Gebrauchtwaren
 ---

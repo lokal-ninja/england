@@ -1,5 +1,5 @@
 ---
 title: "Majestic"
 url: /kendal/majestic/
-shop: alcohol
+shop: Spirituosen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Works"
 url: /swindon/the-works/
-shop: books
+shop: Bücher
 ---

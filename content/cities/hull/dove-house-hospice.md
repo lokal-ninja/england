@@ -1,5 +1,5 @@
 ---
 title: "Dove House Hospice"
 url: /hull/dove-house-hospice/
-shop: charity
+shop: Gebrauchtwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Marsin Bakers"
 url: /hockley-heath/marsin-bakers/
-shop: bakery
+shop: Bäckerei
 ---

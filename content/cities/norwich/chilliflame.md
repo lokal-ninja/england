@@ -1,5 +1,5 @@
 ---
 title: "ChilliFlame"
 url: /norwich/chilliflame/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Home Foods"
 url: /birmingham/home-foods/
-shop: deli
+shop: Feinkost
 ---

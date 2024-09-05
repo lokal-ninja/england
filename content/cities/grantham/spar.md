@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /grantham/spar/
-shop: convenience
+shop: Lebensmittel
 ---

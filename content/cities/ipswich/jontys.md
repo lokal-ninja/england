@@ -1,5 +1,5 @@
 ---
 title: "Jontys"
 url: /ipswich/jontys/
-shop: clothes
+shop: Kleidung
 ---

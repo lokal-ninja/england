@@ -1,5 +1,5 @@
 ---
 title: "Specsavers"
 url: /scunthorpe/specsavers/
-shop: optician
+shop: Optiker
 ---

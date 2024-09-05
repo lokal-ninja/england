@@ -1,5 +1,5 @@
 ---
 title: "Cranstons"
 url: /hexham/cranstons/
-shop: butcher
+shop: Metzgerei
 ---

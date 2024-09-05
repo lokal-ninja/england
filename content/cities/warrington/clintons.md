@@ -1,5 +1,5 @@
 ---
 title: "Clintons"
 url: /warrington/clintons/
-shop: gift
+shop: Andenken
 ---

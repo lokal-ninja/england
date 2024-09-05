@@ -1,5 +1,5 @@
 ---
 title: "Fox"
 url: /stone/fox/
-shop: car
+shop: Autohaus
 ---

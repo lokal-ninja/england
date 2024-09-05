@@ -1,5 +1,5 @@
 ---
 title: "ScS"
 url: /basildon/scs/
-shop: furniture
+shop: Möbel
 ---

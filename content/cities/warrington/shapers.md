@@ -1,5 +1,5 @@
 ---
 title: "Shapers"
 url: /warrington/shapers/
-shop: hairdresser
+shop: Friseur
 ---

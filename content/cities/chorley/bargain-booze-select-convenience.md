@@ -1,5 +1,5 @@
 ---
 title: "Bargain Booze Select Convenience"
 url: /chorley/bargain-booze-select-convenience/
-shop: convenience
+shop: Lebensmittel
 ---

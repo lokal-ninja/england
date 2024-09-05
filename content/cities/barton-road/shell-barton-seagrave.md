@@ -1,5 +1,5 @@
 ---
 title: "Shell Barton Seagrave"
 url: /barton-road/shell-barton-seagrave/
-shop: convenience
+shop: Lebensmittel
 ---

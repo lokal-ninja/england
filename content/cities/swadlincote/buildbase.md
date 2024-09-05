@@ -1,5 +1,5 @@
 ---
 title: "Buildbase"
 url: /swadlincote/buildbase/
-shop: doityourself
+shop: Baumarkt
 ---

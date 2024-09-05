@@ -1,5 +1,5 @@
 ---
 title: "Charisma Barbershop"
 url: /warrington/charisma-barbershop/
-shop: hairdresser
+shop: Friseur
 ---

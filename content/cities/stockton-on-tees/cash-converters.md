@@ -1,5 +1,5 @@
 ---
 title: "Cash Converters"
 url: /stockton-on-tees/cash-converters/
-shop: pawnbroker
+shop: Leiher
 ---

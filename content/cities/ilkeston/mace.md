@@ -1,5 +1,5 @@
 ---
 title: "Mace"
 url: /ilkeston/mace/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /bradford/ladbrokes/
-shop: bookmaker
+shop: Wettbüro
 ---

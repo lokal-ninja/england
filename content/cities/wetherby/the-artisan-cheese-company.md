@@ -1,5 +1,5 @@
 ---
 title: "The Artisan Cheese Company"
 url: /wetherby/the-artisan-cheese-company/
-shop: cheese
+shop: Käse
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Amplifon"
 url: /canterbury/amplifon/
-shop: hearing aids
+shop: Hörgeräte
 ---

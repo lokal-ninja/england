@@ -1,5 +1,5 @@
 ---
 title: "Kents"
 url: /evesham/kents/
-shop: hairdresser
+shop: Friseur
 ---

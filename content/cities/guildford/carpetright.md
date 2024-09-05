@@ -1,5 +1,5 @@
 ---
 title: "Carpetright"
 url: /guildford/carpetright/
-shop: carpet
+shop: Teppiche
 ---

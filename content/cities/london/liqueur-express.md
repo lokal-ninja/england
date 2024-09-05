@@ -1,5 +1,5 @@
 ---
 title: "Liqueur Express"
 url: /london/liqueur-express/
-shop: convenience
+shop: Lebensmittel
 ---

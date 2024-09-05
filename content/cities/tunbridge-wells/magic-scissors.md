@@ -1,5 +1,5 @@
 ---
 title: "Magic Scissors"
 url: /tunbridge-wells/magic-scissors/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Treasures"
 url: /newmarket/treasures/
-shop: antiques
+shop: Antiquitäten
 ---

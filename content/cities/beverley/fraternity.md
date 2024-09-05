@@ -1,5 +1,5 @@
 ---
 title: "Fraternity"
 url: /beverley/fraternity/
-shop: hairdresser
+shop: Friseur
 ---

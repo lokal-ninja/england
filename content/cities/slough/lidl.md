@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /slough/lidl/
-shop: supermarket
+shop: Supermarkt
 ---

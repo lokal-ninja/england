@@ -1,5 +1,5 @@
 ---
 title: "Crack's Pet Foods"
 url: /beccles/cracks-pet-foods/
-shop: pet
+shop: Tiere
 ---

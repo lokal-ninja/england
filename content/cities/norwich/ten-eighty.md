@@ -1,5 +1,5 @@
 ---
 title: "Ten-Eighty"
 url: /norwich/ten-eighty/
-shop: shop
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "rejoy"
 url: /darlington/rejoy/
-shop: beauty
+shop: Kosmetik
 ---

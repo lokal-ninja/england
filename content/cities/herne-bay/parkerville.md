@@ -1,5 +1,5 @@
 ---
 title: "Parkerville"
 url: /herne-bay/parkerville/
-shop: alcohol
+shop: Spirituosen
 ---

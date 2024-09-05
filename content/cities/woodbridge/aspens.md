@@ -1,5 +1,5 @@
 ---
 title: "Aspens"
 url: /woodbridge/aspens/
-shop: jewelry
+shop: Schmuck
 ---

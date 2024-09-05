@@ -1,5 +1,5 @@
 ---
 title: "UK Pasha Barbers"
 url: /lancaster/uk-pasha-barbers/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "BookShrop"
 url: /whitchurch/bookshrop/
-shop: books
+shop: Bücher
 ---

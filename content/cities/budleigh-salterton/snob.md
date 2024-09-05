@@ -1,5 +1,5 @@
 ---
 title: "Snob"
 url: /budleigh-salterton/snob/
-shop: clothes
+shop: Kleidung
 ---

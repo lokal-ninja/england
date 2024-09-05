@@ -1,5 +1,5 @@
 ---
 title: "AMV Hairdressing"
 url: /derby/amv-hairdressing/
-shop: hairdresser
+shop: Friseur
 ---

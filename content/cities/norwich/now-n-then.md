@@ -1,5 +1,5 @@
 ---
 title: "Now n Then"
 url: /norwich/now-n-then/
-shop: antiques
+shop: Antiquitäten
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Winnies"
 url: /grantham/winnies/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Preemaxi"
 url: /northampton/preemaxi/
-shop: newsagent
+shop: Zeitungen
 ---

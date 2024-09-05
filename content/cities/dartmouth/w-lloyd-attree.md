@@ -1,5 +1,5 @@
 ---
 title: "W Lloyd Attree"
 url: /dartmouth/w-lloyd-attree/
-shop: jewelry
+shop: Schmuck
 ---

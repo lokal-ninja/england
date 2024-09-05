@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /crook/spar/
-shop: convenience
+shop: Lebensmittel
 ---

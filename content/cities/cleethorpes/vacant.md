@@ -1,5 +1,5 @@
 ---
 title: "vacant"
 url: /cleethorpes/vacant/
-shop: shoes
+shop: Schuhe
 ---

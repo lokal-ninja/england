@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /brighouse/londis/
-shop: convenience
+shop: Lebensmittel
 ---

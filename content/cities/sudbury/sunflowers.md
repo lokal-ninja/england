@@ -1,5 +1,5 @@
 ---
 title: "Sunflowers"
 url: /sudbury/sunflowers/
-shop: florist
+shop: Blumen
 ---

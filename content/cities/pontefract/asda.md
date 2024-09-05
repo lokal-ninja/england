@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /pontefract/asda/
-shop: supermarket
+shop: Supermarkt
 ---

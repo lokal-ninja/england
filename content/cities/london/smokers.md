@@ -1,5 +1,5 @@
 ---
 title: "Smokers"
 url: /london/smokers/
-shop: tobacco
+shop: Tabak
 ---

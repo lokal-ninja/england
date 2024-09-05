@@ -1,5 +1,5 @@
 ---
 title: "CEF"
 url: /castleford/cef/
-shop: electrical
+shop: Elektrisch
 ---

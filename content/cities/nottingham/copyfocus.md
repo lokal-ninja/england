@@ -1,5 +1,5 @@
 ---
 title: "Copyfocus"
 url: /nottingham/copyfocus/
-shop: copyshop
+shop: Kopieren
 ---

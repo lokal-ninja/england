@@ -1,5 +1,5 @@
 ---
 title: "The Whisky Shop"
 url: /stoke-on-trent/the-whisky-shop/
-shop: alcohol
+shop: Spirituosen
 ---

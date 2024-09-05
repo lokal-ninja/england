@@ -1,5 +1,5 @@
 ---
 title: "Smyths"
 url: /bromborough/smyths/
-shop: toys
+shop: Spielzeug
 ---

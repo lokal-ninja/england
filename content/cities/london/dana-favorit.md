@@ -1,5 +1,5 @@
 ---
 title: "Dana Favorit"
 url: /london/dana-favorit/
-shop: convenience
+shop: Lebensmittel
 ---

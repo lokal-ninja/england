@@ -1,5 +1,5 @@
 ---
 title: "Oddities"
 url: /bristol/oddities/
-shop: art
+shop: Kunst
 ---

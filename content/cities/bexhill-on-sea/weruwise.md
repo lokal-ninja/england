@@ -1,5 +1,5 @@
 ---
 title: "Weruwise"
 url: /bexhill-on-sea/weruwise/
-shop: craft
+shop: Basteln
 ---

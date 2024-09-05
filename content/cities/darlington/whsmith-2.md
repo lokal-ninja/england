@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /darlington/whsmith-2/
-shop: books
+shop: Bücher
 ---

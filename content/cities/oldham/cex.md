@@ -1,5 +1,5 @@
 ---
 title: "CeX"
 url: /oldham/cex/
-shop: electronics
+shop: Elektronik
 ---

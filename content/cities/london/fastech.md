@@ -1,5 +1,5 @@
 ---
 title: "Fastech"
 url: /london/fastech/
-shop: computer
+shop: Computer
 ---

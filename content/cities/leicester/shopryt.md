@@ -1,5 +1,5 @@
 ---
 title: "Shopryt"
 url: /leicester/shopryt/
-shop: convenience
+shop: Lebensmittel
 ---

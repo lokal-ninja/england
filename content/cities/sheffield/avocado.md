@@ -1,5 +1,5 @@
 ---
 title: "Avocado"
 url: /sheffield/avocado/
-shop: beauty
+shop: Kosmetik
 ---

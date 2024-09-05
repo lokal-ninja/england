@@ -1,5 +1,5 @@
 ---
 title: "Halls Newsagents"
 url: /kirkby-stephen/halls-newsagents/
-shop: newsagent
+shop: Zeitungen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Poplar MOT Centre"
 url: /cleethorpes/poplar-mot-centre/
-shop: car
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Makro"
 url: /hull/makro/
-shop: wholesale
+shop: Großhandel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Klipaz"
 url: /south-shields/klipaz/
-shop: hairdresser
+shop: Friseur
 ---

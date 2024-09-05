@@ -1,5 +1,5 @@
 ---
 title: "Warhammer"
 url: /colchester/warhammer/
-shop: games
+shop: Spiele
 ---

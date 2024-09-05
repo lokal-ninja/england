@@ -1,5 +1,5 @@
 ---
 title: "The Crafty Hobbit"
 url: /axminster/the-crafty-hobbit/
-shop: houseware
+shop: Haushaltsartikel
 ---

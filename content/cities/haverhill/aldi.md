@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /haverhill/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

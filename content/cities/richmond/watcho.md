@@ -1,5 +1,5 @@
 ---
 title: "Watcho"
 url: /richmond/watcho/
-shop: watches
+shop: Uhren
 ---

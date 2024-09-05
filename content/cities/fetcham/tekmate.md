@@ -1,5 +1,5 @@
 ---
 title: "Tekmate"
 url: /fetcham/tekmate/
-shop: computer
+shop: Computer
 ---
