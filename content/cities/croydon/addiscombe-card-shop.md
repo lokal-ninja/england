@@ -1,5 +1,5 @@
 ---
 title: "Addiscombe Card Shop"
 url: /croydon/addiscombe-card-shop/
-shop: Schreibwaren
+shop: office supplies
 ---

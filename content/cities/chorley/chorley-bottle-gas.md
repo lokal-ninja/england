@@ -1,5 +1,5 @@
 ---
 title: "Chorley Bottle Gas"
 url: /chorley/chorley-bottle-gas/
-shop: Gasflaschen
+shop: gas
 ---

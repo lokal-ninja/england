@@ -1,5 +1,5 @@
 ---
 title: "Rohan"
 url: /stratford-upon-avon/rohan/
-shop: Outdoor
+shop: outdoor
 ---

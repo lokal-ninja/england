@@ -1,5 +1,5 @@
 ---
 title: "Barbertini"
 url: /congleton/barbertini/
-shop: Friseur
+shop: hairdresser
 ---

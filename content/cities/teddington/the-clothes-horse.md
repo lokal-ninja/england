@@ -1,5 +1,5 @@
 ---
 title: "The Clothes Horse"
 url: /teddington/the-clothes-horse/
-shop: Gebrauchtwaren
+shop: charity
 ---

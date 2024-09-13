@@ -1,5 +1,5 @@
 ---
 title: "Richardsons of Woodthorpe"
 url: /york/richardsons-of-woodthorpe/
-shop: Metzgerei
+shop: butcher
 ---

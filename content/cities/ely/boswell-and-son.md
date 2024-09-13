@@ -1,5 +1,5 @@
 ---
 title: "Boswell and Son"
 url: /ely/boswell-and-son/
-shop: Bäckerei
+shop: bakery
 ---

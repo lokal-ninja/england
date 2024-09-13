@@ -1,5 +1,5 @@
 ---
 title: "Denmans"
 url: /gloucester/denmans/
-shop: Elektrisch
+shop: electrical
 ---

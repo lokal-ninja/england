@@ -1,5 +1,5 @@
 ---
 title: "The Terrace"
 url: /harleston/the-terrace/
-shop: Raumausstattung
+shop: interior decoration
 ---

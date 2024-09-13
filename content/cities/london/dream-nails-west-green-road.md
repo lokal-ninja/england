@@ -1,5 +1,5 @@
 ---
 title: "Dream Nails"
 url: /london/dream-nails-west-green-road/
-shop: Kosmetik
+shop: beauty
 ---

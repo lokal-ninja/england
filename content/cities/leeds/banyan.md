@@ -1,5 +1,5 @@
 ---
 title: "Banyan"
 url: /leeds/banyan/
-shop: Leerstehend
+shop: vacant
 ---

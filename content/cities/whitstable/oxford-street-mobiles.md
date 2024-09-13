@@ -1,5 +1,5 @@
 ---
 title: "Oxford Street Mobiles"
 url: /whitstable/oxford-street-mobiles/
-shop: Handy
+shop: mobile phone
 ---

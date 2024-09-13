@@ -1,5 +1,5 @@
 ---
 title: "Waterside Scrapstore"
 url: /totton/waterside-scrapstore/
-shop: Basteln
+shop: craft
 ---

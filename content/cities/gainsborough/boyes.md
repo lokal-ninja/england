@@ -1,5 +1,5 @@
 ---
 title: "Boyes"
 url: /gainsborough/boyes/
-shop: Warenhaus
+shop: department store
 ---

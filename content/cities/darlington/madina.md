@@ -1,5 +1,5 @@
 ---
 title: "Madina"
 url: /darlington/madina/
-shop: Supermarkt
+shop: supermarket
 ---

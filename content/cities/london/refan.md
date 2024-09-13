@@ -1,5 +1,5 @@
 ---
 title: "Refan"
 url: /london/refan/
-shop: Parfümerie
+shop: perfumery
 ---

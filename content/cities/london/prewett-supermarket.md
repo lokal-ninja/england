@@ -1,5 +1,5 @@
 ---
 title: "Prewett Supermarket"
 url: /london/prewett-supermarket/
-shop: Lebensmittel
+shop: convenience
 ---

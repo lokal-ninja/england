@@ -1,5 +1,5 @@
 ---
 title: "Catherines"
 url: /broseley/catherines/
-shop: Bäckerei
+shop: bakery
 ---

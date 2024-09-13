@@ -1,5 +1,5 @@
 ---
 title: "Stitch n Fix"
 url: /richmond/stitch-n-fix/
-shop: Wäscherei
+shop: laundry
 ---

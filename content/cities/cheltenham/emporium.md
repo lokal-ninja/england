@@ -1,5 +1,5 @@
 ---
 title: "Emporium"
 url: /cheltenham/emporium/
-shop: Andenken
+shop: gift
 ---

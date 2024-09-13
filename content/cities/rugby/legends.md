@@ -1,5 +1,5 @@
 ---
 title: "Legends"
 url: /rugby/legends/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Phonebooth"
 url: /kings-lynn/phonebooth/
-shop: Handy
+shop: mobile phone
 ---

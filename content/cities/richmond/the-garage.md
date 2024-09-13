@@ -1,5 +1,5 @@
 ---
 title: "The Garage"
 url: /richmond/the-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

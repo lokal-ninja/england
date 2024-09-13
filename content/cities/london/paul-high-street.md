@@ -1,5 +1,5 @@
 ---
 title: "Paul"
 url: /london/paul-high-street/
-shop: Bäckerei
+shop: bakery
 ---

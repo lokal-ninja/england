@@ -1,5 +1,5 @@
 ---
 title: "Kinghams"
 url: /croydon/kinghams/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dogwood"
 url: /cobham/dogwood/
-shop: Tiersalon
+shop: pet grooming
 ---

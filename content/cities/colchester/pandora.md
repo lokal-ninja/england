@@ -1,5 +1,5 @@
 ---
 title: "Pandora"
 url: /colchester/pandora/
-shop: Schmuck
+shop: jewelry
 ---

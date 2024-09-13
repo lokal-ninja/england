@@ -1,5 +1,5 @@
 ---
 title: "Moda"
 url: /chelmsford/moda/
-shop: Möbel
+shop: furniture
 ---

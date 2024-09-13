@@ -1,5 +1,5 @@
 ---
 title: "Saveway Express"
 url: /london/saveway-express/
-shop: Lebensmittel
+shop: convenience
 ---

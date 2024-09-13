@@ -1,5 +1,5 @@
 ---
 title: "Co-op Food"
 url: /leeds/co-op-food-harrogate-road/
-shop: Supermarkt
+shop: supermarket
 ---

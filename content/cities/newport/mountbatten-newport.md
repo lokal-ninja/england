@@ -1,5 +1,5 @@
 ---
 title: "Mountbatten Newport"
 url: /newport/mountbatten-newport/
-shop: Gebrauchtwaren
+shop: charity
 ---

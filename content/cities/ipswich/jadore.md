@@ -1,5 +1,5 @@
 ---
 title: "J'adore"
 url: /ipswich/jadore/
-shop: Friseur
+shop: hairdresser
 ---

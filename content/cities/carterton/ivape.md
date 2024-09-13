@@ -1,5 +1,5 @@
 ---
 title: "iVape"
 url: /carterton/ivape/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

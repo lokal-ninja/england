@@ -1,5 +1,5 @@
 ---
 title: "Cash Generator"
 url: /birmingham/cash-generator/
-shop: Leiher
+shop: pawnbroker
 ---

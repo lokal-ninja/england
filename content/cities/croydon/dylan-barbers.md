@@ -1,5 +1,5 @@
 ---
 title: "Dylan Barbers"
 url: /croydon/dylan-barbers/
-shop: Friseur
+shop: hairdresser
 ---

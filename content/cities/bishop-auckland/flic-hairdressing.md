@@ -1,5 +1,5 @@
 ---
 title: "Flic Hairdressing"
 url: /bishop-auckland/flic-hairdressing/
-shop: Friseur
+shop: hairdresser
 ---

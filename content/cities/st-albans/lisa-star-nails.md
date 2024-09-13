@@ -1,5 +1,5 @@
 ---
 title: "Lisa Star Nails"
 url: /st-albans/lisa-star-nails/
-shop: Kosmetik
+shop: beauty
 ---

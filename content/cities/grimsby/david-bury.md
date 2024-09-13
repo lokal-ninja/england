@@ -1,5 +1,5 @@
 ---
 title: "David Bury"
 url: /grimsby/david-bury/
-shop: Elektronik
+shop: electronics
 ---

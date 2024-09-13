@@ -1,5 +1,5 @@
 ---
 title: "Martin Reynolds"
 url: /bishops-stortford/martin-reynolds/
-shop: Optiker
+shop: optician
 ---

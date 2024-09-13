@@ -1,5 +1,5 @@
 ---
 title: "Roses"
 url: /devizes/roses/
-shop: Kramladen
+shop: variety store
 ---

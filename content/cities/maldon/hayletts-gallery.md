@@ -1,5 +1,5 @@
 ---
 title: "Hayletts Gallery"
 url: /maldon/hayletts-gallery/
-shop: Kunst
+shop: art
 ---

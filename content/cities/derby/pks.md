@@ -1,5 +1,5 @@
 ---
 title: "PK's"
 url: /derby/pks/
-shop: Friseur
+shop: hairdresser
 ---

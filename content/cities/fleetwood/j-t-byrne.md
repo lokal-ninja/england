@@ -1,5 +1,5 @@
 ---
 title: "J T Byrne"
 url: /fleetwood/j-t-byrne/
-shop: Bestattungen
+shop: funeral directors
 ---

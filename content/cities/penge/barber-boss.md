@@ -1,5 +1,5 @@
 ---
 title: "Barber Boss"
 url: /penge/barber-boss/
-shop: Friseur
+shop: hairdresser
 ---

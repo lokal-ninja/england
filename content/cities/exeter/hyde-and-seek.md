@@ -1,5 +1,5 @@
 ---
 title: "Hyde and Seek"
 url: /exeter/hyde-and-seek/
-shop: Andenken
+shop: gift
 ---

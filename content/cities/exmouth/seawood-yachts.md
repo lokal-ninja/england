@@ -1,5 +1,5 @@
 ---
 title: "Seawood Yachts"
 url: /exmouth/seawood-yachts/
-shop: Boot
+shop: boat
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Manoj"
 url: /sheffield/manoj/
-shop: Schneiderei
+shop: tailor
 ---

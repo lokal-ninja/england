@@ -1,5 +1,5 @@
 ---
 title: "Shaw Hardcastle"
 url: /halifax/shaw-hardcastle/
-shop: Kleidung
+shop: clothes
 ---

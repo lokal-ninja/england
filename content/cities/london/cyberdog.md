@@ -1,5 +1,5 @@
 ---
 title: "Cyberdog"
 url: /london/cyberdog/
-shop: Kleidung
+shop: clothes
 ---

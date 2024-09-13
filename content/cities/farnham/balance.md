@@ -1,5 +1,5 @@
 ---
 title: "Balance"
 url: /farnham/balance/
-shop: Friseur
+shop: hairdresser
 ---

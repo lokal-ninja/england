@@ -1,5 +1,5 @@
 ---
 title: "PetExtra"
 url: /northallerton/petextra/
-shop: Tiere
+shop: pet
 ---

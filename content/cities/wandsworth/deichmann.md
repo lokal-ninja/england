@@ -1,5 +1,5 @@
 ---
 title: "Deichmann"
 url: /wandsworth/deichmann/
-shop: Schuhe
+shop: shoes
 ---

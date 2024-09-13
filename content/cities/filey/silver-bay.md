@@ -1,5 +1,5 @@
 ---
 title: "Silver Bay"
 url: /filey/silver-bay/
-shop: Kleidung
+shop: clothes
 ---

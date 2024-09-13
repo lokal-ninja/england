@@ -1,5 +1,5 @@
 ---
 title: "Barnes"
 url: /gainsborough/barnes/
-shop: Kramladen
+shop: variety store
 ---

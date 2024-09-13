@@ -1,5 +1,5 @@
 ---
 title: "Chashni"
 url: /london/chashni/
-shop: Bäckerei
+shop: bakery
 ---

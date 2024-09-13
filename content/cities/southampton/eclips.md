@@ -1,5 +1,5 @@
 ---
 title: "E'Clips"
 url: /southampton/eclips/
-shop: Friseur
+shop: hairdresser
 ---

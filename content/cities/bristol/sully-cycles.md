@@ -1,5 +1,5 @@
 ---
 title: "Sully Cycles"
 url: /bristol/sully-cycles/
-shop: Fahrrad
+shop: bicycle
 ---

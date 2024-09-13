@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /madeley/ladbrokes/
-shop: Wettbüro
+shop: bookmaker
 ---

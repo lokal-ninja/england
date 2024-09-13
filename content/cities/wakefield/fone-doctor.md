@@ -1,5 +1,5 @@
 ---
 title: "Fone Doctor"
 url: /wakefield/fone-doctor/
-shop: Handy
+shop: mobile phone
 ---

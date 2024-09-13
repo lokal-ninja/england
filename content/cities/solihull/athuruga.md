@@ -1,5 +1,5 @@
 ---
 title: "Athuruga"
 url: /solihull/athuruga/
-shop: Friseur
+shop: hairdresser
 ---

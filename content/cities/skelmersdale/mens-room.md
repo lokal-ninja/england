@@ -1,5 +1,5 @@
 ---
 title: "Men's Room"
 url: /skelmersdale/mens-room/
-shop: Friseur
+shop: hairdresser
 ---

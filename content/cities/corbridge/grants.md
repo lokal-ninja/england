@@ -1,5 +1,5 @@
 ---
 title: "Grants"
 url: /corbridge/grants/
-shop: Bäckerei
+shop: bakery
 ---

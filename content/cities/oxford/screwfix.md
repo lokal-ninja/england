@@ -1,5 +1,5 @@
 ---
 title: "Screwfix"
 url: /oxford/screwfix/
-shop: Großhandel
+shop: wholesale
 ---

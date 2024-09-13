@@ -1,5 +1,5 @@
 ---
 title: "Bodycare"
 url: /manchester/bodycare/
-shop: Drogerie
+shop: chemist
 ---

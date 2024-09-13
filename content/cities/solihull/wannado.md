@@ -1,5 +1,5 @@
 ---
 title: "Wannado"
 url: /solihull/wannado/
-shop: Allgemein
+shop: shop
 ---

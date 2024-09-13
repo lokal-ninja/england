@@ -1,5 +1,5 @@
 ---
 title: "Make"
 url: /bristol/make/
-shop: Kleidung
+shop: clothes
 ---

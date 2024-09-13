@@ -1,5 +1,5 @@
 ---
 title: "Overton Stores"
 url: /wakefield/overton-stores/
-shop: Lebensmittel
+shop: convenience
 ---

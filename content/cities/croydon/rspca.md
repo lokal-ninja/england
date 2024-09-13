@@ -1,5 +1,5 @@
 ---
 title: "RSPCA"
 url: /croydon/rspca/
-shop: Gebrauchtwaren
+shop: charity
 ---

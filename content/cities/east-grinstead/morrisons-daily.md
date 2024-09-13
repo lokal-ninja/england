@@ -1,5 +1,5 @@
 ---
 title: "Morrisons Daily"
 url: /east-grinstead/morrisons-daily/
-shop: Lebensmittel
+shop: convenience
 ---

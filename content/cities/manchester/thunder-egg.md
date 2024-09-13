@@ -1,5 +1,5 @@
 ---
 title: "Thunder Egg"
 url: /manchester/thunder-egg/
-shop: Kleidung
+shop: clothes
 ---

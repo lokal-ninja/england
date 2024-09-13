@@ -1,5 +1,5 @@
 ---
 title: "Tyre Pros"
 url: /march/tyre-pros/
-shop: Reifen
+shop: tyres
 ---

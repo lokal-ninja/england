@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /tamworth/spar-ellerbeck/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "RSPCA"
 url: /colchester/rspca/
-shop: Gebrauchtwaren
+shop: charity
 ---

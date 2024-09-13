@@ -1,5 +1,5 @@
 ---
 title: "Virgin Media"
 url: /kingston-upon-thames/virgin-media/
-shop: Handy
+shop: mobile phone
 ---

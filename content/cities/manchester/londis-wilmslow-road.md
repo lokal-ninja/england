@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /manchester/londis-wilmslow-road/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dexters"
 url: /london/dexters/
-shop: Immobilien
+shop: estate agent
 ---

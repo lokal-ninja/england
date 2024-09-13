@@ -1,5 +1,5 @@
 ---
 title: "High How Brands"
 url: /derby/high-how-brands/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

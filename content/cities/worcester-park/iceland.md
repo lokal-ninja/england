@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /worcester-park/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

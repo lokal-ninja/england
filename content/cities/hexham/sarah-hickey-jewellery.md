@@ -1,5 +1,5 @@
 ---
 title: "Sarah Hickey Jewellery"
 url: /hexham/sarah-hickey-jewellery/
-shop: Schmuck
+shop: jewelry
 ---

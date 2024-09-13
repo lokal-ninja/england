@@ -1,5 +1,5 @@
 ---
 title: "Phone Fix / Vapes"
 url: /bury-st-edmunds/phone-fix-vapes/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Christine Clarke Clinic"
 url: /sheffield/christine-clarke-clinic/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spring Furniture"
 url: /derby/spring-furniture/
-shop: Möbel
+shop: furniture
 ---

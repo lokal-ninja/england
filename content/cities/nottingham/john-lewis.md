@@ -1,5 +1,5 @@
 ---
 title: "John Lewis"
 url: /nottingham/john-lewis/
-shop: Warenhaus
+shop: department store
 ---

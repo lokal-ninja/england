@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /poole/coral/
-shop: Wettbüro
+shop: bookmaker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Iceland Food Warehouse"
 url: /grimsby/iceland-food-warehouse/
-shop: Supermarkt
+shop: supermarket
 ---

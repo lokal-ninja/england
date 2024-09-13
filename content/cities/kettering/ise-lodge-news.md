@@ -1,5 +1,5 @@
 ---
 title: "Ise Lodge News"
 url: /kettering/ise-lodge-news/
-shop: Zeitungen
+shop: newsagent
 ---

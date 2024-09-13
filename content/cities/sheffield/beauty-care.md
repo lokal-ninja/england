@@ -1,5 +1,5 @@
 ---
 title: "Beauty Care"
 url: /sheffield/beauty-care/
-shop: Kosmetik
+shop: beauty
 ---

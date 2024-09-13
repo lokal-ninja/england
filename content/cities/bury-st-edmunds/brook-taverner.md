@@ -1,5 +1,5 @@
 ---
 title: "Brook Taverner"
 url: /bury-st-edmunds/brook-taverner/
-shop: Kleidung
+shop: clothes
 ---

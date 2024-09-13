@@ -1,5 +1,5 @@
 ---
 title: "Pimlico Grocery"
 url: /london/pimlico-grocery/
-shop: Lebensmittel
+shop: convenience
 ---

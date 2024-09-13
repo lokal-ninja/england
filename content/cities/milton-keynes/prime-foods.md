@@ -1,5 +1,5 @@
 ---
 title: "Prime Foods"
 url: /milton-keynes/prime-foods/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Watersports"
 url: /weymouth/watersports/
-shop: Sport
+shop: sports
 ---

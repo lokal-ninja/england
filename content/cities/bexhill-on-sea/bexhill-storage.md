@@ -1,5 +1,5 @@
 ---
 title: "Bexhill Storage"
 url: /bexhill-on-sea/bexhill-storage/
-shop: Mieten
+shop: storage rental
 ---

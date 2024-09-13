@@ -1,5 +1,5 @@
 ---
 title: "e-liquid paradise"
 url: /derby/e-liquid-paradise-ashbourne-road/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

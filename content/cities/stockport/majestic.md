@@ -1,5 +1,5 @@
 ---
 title: "Majestic"
 url: /stockport/majestic/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Phyllis Tuckwell"
 url: /sandhurs/phyllis-tuckwell/
-shop: Gebrauchtwaren
+shop: charity
 ---

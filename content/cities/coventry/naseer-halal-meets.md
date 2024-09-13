@@ -1,5 +1,5 @@
 ---
 title: "Naseer Halal Meets"
 url: /coventry/naseer-halal-meets/
-shop: Metzgerei
+shop: butcher
 ---

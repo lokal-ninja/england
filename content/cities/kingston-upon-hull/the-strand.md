@@ -1,5 +1,5 @@
 ---
 title: "The Strand"
 url: /kingston-upon-hull/the-strand/
-shop: Friseur
+shop: hairdresser
 ---

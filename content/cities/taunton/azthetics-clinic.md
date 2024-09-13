@@ -1,5 +1,5 @@
 ---
 title: "Azthetics Clinic"
 url: /taunton/azthetics-clinic/
-shop: Kosmetik
+shop: beauty
 ---

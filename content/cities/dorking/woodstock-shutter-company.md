@@ -1,5 +1,5 @@
 ---
 title: "Woodstock Shutter Company"
 url: /dorking/woodstock-shutter-company/
-shop: Jalousien
+shop: window blind
 ---

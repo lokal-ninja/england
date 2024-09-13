@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /eastleigh/premier/
-shop: Lebensmittel
+shop: convenience
 ---

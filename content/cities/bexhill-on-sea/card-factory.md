@@ -1,5 +1,5 @@
 ---
 title: "Card Factory"
 url: /bexhill-on-sea/card-factory/
-shop: Andenken
+shop: gift
 ---

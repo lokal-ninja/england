@@ -1,5 +1,5 @@
 ---
 title: "Ahsans Bespoke Menswear"
 url: /birmingham/ahsans-bespoke-menswear/
-shop: Kleidung
+shop: clothes
 ---

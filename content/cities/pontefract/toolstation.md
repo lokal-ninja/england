@@ -1,5 +1,5 @@
 ---
 title: "Toolstation"
 url: /pontefract/toolstation/
-shop: Baumarkt
+shop: doityourself
 ---

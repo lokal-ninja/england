@@ -1,5 +1,5 @@
 ---
 title: "CeX"
 url: /birmingham/cex-bull-street/
-shop: Elektronik
+shop: electronics
 ---

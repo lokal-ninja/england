@@ -1,5 +1,5 @@
 ---
 title: "Cook"
 url: /surbiton/cook/
-shop: Tiefkühl
+shop: frozen food
 ---

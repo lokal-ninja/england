@@ -1,5 +1,5 @@
 ---
 title: "Kwik Fit"
 url: /halifax/kwik-fit-pellon-lane/
-shop: Autowerkstatt
+shop: car repair
 ---

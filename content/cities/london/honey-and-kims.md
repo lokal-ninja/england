@@ -1,5 +1,5 @@
 ---
 title: "Honey and Kim's"
 url: /london/honey-and-kims/
-shop: Friseur
+shop: hairdresser
 ---

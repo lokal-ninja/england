@@ -1,5 +1,5 @@
 ---
 title: "Imarri"
 url: /sudbury/imarri/
-shop: Kleidung
+shop: clothes
 ---

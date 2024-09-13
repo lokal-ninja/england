@@ -1,5 +1,5 @@
 ---
 title: "Millets"
 url: /york/millets/
-shop: Outdoor
+shop: outdoor
 ---

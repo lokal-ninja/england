@@ -1,5 +1,5 @@
 ---
 title: "Trespass"
 url: /ipswich/trespass/
-shop: Outdoor
+shop: outdoor
 ---

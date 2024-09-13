@@ -1,5 +1,5 @@
 ---
 title: "Card Factory"
 url: /pontefract/card-factory/
-shop: Andenken
+shop: gift
 ---

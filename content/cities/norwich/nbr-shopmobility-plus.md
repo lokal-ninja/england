@@ -1,5 +1,5 @@
 ---
 title: "NBR Shopmobility Plus +"
 url: /norwich/nbr-shopmobility-plus/
-shop: Allgemein
+shop: shop
 ---

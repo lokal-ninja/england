@@ -1,5 +1,5 @@
 ---
 title: "Ritual Coffee"
 url: /bristol/ritual-coffee/
-shop: Allgemein
+shop: shop
 ---

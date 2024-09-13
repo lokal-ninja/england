@@ -1,5 +1,5 @@
 ---
 title: "Alice Street Service Centre"
 url: /morecambe/alice-street-service-centre/
-shop: Autowerkstatt
+shop: car repair
 ---

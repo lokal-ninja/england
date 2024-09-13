@@ -1,5 +1,5 @@
 ---
 title: "Atkinsons"
 url: /sheffield/atkinsons/
-shop: Warenhaus
+shop: department store
 ---

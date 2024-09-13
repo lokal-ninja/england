@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /chichester/londis/
-shop: Lebensmittel
+shop: convenience
 ---

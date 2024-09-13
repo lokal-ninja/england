@@ -1,5 +1,5 @@
 ---
 title: "Fez Turkish Barbers"
 url: /ventnor/fez-turkish-barbers/
-shop: Friseur
+shop: hairdresser
 ---

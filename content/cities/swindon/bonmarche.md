@@ -1,5 +1,5 @@
 ---
 title: "Bonmarché"
 url: /swindon/bonmarche/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cream"
 url: /derby/cream/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gossage"
 url: /orpington/gossage/
-shop: Allgemein
+shop: shop
 ---

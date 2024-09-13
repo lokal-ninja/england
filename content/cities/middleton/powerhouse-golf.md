@@ -1,5 +1,5 @@
 ---
 title: "Powerhouse Golf"
 url: /middleton/powerhouse-golf/
-shop: Golf
+shop: golf
 ---

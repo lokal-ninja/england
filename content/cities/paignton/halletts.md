@@ -1,5 +1,5 @@
 ---
 title: "Halletts"
 url: /paignton/halletts/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mower World"
 url: /nottingham/mower-world/
-shop: Gartenmaschinen
+shop: garden machinery
 ---

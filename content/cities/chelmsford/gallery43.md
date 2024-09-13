@@ -1,5 +1,5 @@
 ---
 title: "Gallery43"
 url: /chelmsford/gallery43/
-shop: Kunst
+shop: art
 ---

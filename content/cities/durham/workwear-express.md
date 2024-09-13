@@ -1,5 +1,5 @@
 ---
 title: "Workwear Express"
 url: /durham/workwear-express/
-shop: Kleidung
+shop: clothes
 ---

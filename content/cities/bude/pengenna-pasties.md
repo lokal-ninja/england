@@ -1,5 +1,5 @@
 ---
 title: "Pengenna Pasties"
 url: /bude/pengenna-pasties/
-shop: Konditorei
+shop: pastry
 ---

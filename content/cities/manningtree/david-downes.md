@@ -1,5 +1,5 @@
 ---
 title: "David Downes"
 url: /manningtree/david-downes/
-shop: Kunst
+shop: art
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AJ Barber"
 url: /wembley/aj-barber/
-shop: Friseur
+shop: hairdresser
 ---

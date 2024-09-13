@@ -1,5 +1,5 @@
 ---
 title: "Capelli Remi"
 url: /southport/capelli-remi/
-shop: Tattoo
+shop: tattoo
 ---

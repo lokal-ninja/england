@@ -1,5 +1,5 @@
 ---
 title: "Newspoint"
 url: /birmingham/newspoint/
-shop: Zeitungen
+shop: newsagent
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Firthfield Pet Store"
 url: /northwich/firthfield-pet-store/
-shop: Tiere
+shop: pet
 ---

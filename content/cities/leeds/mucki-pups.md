@@ -1,5 +1,5 @@
 ---
 title: "Mucki Pups"
 url: /leeds/mucki-pups/
-shop: Tiersalon
+shop: pet grooming
 ---

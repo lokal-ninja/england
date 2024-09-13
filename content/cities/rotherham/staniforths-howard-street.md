@@ -1,5 +1,5 @@
 ---
 title: "Staniforths"
 url: /rotherham/staniforths-howard-street/
-shop: Bäckerei
+shop: bakery
 ---

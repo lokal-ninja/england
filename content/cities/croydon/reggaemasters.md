@@ -1,5 +1,5 @@
 ---
 title: "ReggaeMasters"
 url: /croydon/reggaemasters/
-shop: Musik
+shop: music
 ---

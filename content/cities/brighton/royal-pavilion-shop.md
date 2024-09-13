@@ -1,5 +1,5 @@
 ---
 title: "Royal Pavilion Shop"
 url: /brighton/royal-pavilion-shop/
-shop: Andenken
+shop: gift
 ---

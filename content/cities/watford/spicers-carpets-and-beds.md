@@ -1,5 +1,5 @@
 ---
 title: "Spicers Carpets and Beds"
 url: /watford/spicers-carpets-and-beds/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Halfords"
 url: /hemel-hempstead/halfords/
-shop: Autoteile
+shop: car parts
 ---

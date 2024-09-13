@@ -1,5 +1,5 @@
 ---
 title: "Baytree Interiors"
 url: /murton/baytree-interiors/
-shop: Raumausstattung
+shop: interior decoration
 ---

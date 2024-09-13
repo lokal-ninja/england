@@ -1,5 +1,5 @@
 ---
 title: "Wentworth Kitchens"
 url: /nottingham/wentworth-kitchens/
-shop: Küchen
+shop: kitchen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lorton Street Clinic"
 url: /cockermouth/lorton-street-clinic/
-shop: Kosmetik
+shop: beauty
 ---

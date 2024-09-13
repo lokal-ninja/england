@@ -1,5 +1,5 @@
 ---
 title: "Shorts"
 url: /stowmarket/shorts/
-shop: Immobilien
+shop: estate agent
 ---

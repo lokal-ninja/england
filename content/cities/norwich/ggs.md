@@ -1,5 +1,5 @@
 ---
 title: "GGS"
 url: /norwich/ggs/
-shop: Allgemein
+shop: shop
 ---

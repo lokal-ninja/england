@@ -1,5 +1,5 @@
 ---
 title: "Booze City"
 url: /wellingborough/booze-city/
-shop: Lebensmittel
+shop: convenience
 ---

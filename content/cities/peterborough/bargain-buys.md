@@ -1,5 +1,5 @@
 ---
 title: "Bargain Buys"
 url: /peterborough/bargain-buys/
-shop: Kramladen
+shop: variety store
 ---

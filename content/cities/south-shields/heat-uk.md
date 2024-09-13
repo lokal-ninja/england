@@ -1,5 +1,5 @@
 ---
 title: "Heat UK"
 url: /south-shields/heat-uk/
-shop: Allgemein
+shop: shop
 ---

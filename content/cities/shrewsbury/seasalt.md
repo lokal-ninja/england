@@ -1,5 +1,5 @@
 ---
 title: "Seasalt"
 url: /shrewsbury/seasalt/
-shop: Kleidung
+shop: clothes
 ---

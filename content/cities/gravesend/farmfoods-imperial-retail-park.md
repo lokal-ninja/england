@@ -1,5 +1,5 @@
 ---
 title: "Farmfoods"
 url: /gravesend/farmfoods-imperial-retail-park/
-shop: Tiefkühl
+shop: frozen food
 ---

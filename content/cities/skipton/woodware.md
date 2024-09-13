@@ -1,5 +1,5 @@
 ---
 title: "Woodware"
 url: /skipton/woodware/
-shop: Basteln
+shop: craft
 ---

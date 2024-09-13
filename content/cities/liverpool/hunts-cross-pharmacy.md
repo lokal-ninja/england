@@ -1,5 +1,5 @@
 ---
 title: "Hunts Cross Pharmacy"
 url: /liverpool/hunts-cross-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

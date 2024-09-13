@@ -1,5 +1,5 @@
 ---
 title: "World Travel and Printing"
 url: /derby/world-travel-and-printing/
-shop: Reisebüro
+shop: travel agency
 ---

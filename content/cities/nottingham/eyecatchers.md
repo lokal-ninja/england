@@ -1,5 +1,5 @@
 ---
 title: "Eyecatchers"
 url: /nottingham/eyecatchers/
-shop: Optiker
+shop: optician
 ---

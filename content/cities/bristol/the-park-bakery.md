@@ -1,5 +1,5 @@
 ---
 title: "The Park Bakery"
 url: /bristol/the-park-bakery/
-shop: Bäckerei
+shop: bakery
 ---

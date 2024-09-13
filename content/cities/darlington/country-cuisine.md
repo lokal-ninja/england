@@ -1,5 +1,5 @@
 ---
 title: "Country Cuisine"
 url: /darlington/country-cuisine/
-shop: Feinkost
+shop: deli
 ---

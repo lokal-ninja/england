@@ -1,5 +1,5 @@
 ---
 title: "Sainsbury's"
 url: /derby/sainsburys-peak-drive/
-shop: Supermarkt
+shop: supermarket
 ---

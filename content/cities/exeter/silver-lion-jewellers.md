@@ -1,5 +1,5 @@
 ---
 title: "Silver Lion Jewellers"
 url: /exeter/silver-lion-jewellers/
-shop: Schmuck
+shop: jewelry
 ---

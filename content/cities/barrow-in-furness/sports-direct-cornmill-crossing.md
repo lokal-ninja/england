@@ -1,5 +1,5 @@
 ---
 title: "Sports Direct"
 url: /barrow-in-furness/sports-direct-cornmill-crossing/
-shop: Sport
+shop: sports
 ---

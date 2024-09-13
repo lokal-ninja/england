@@ -1,5 +1,5 @@
 ---
 title: "Tattooland"
 url: /blyth/tattooland/
-shop: Tattoo
+shop: tattoo
 ---

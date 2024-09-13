@@ -1,5 +1,5 @@
 ---
 title: "Oscars News"
 url: /walsall/oscars-news/
-shop: Zeitungen
+shop: newsagent
 ---

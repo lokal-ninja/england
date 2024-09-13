@@ -1,5 +1,5 @@
 ---
 title: "Open All Hours"
 url: /keswick/open-all-hours/
-shop: Lebensmittel
+shop: convenience
 ---

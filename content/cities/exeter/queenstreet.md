@@ -1,5 +1,5 @@
 ---
 title: "Queenstreet"
 url: /exeter/queenstreet/
-shop: Möbel
+shop: furniture
 ---

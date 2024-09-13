@@ -1,5 +1,5 @@
 ---
 title: "Wick Design"
 url: /london/wick-design/
-shop: Rahmen
+shop: frame
 ---

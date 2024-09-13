@@ -1,5 +1,5 @@
 ---
 title: "Millers Family Butchers"
 url: /wideopen/millers-family-butchers/
-shop: Metzgerei
+shop: butcher
 ---

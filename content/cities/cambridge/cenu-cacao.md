@@ -1,5 +1,5 @@
 ---
 title: "Cenu Cacao"
 url: /cambridge/cenu-cacao/
-shop: Süßwaren
+shop: confectionery
 ---

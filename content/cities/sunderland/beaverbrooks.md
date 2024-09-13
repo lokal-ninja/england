@@ -1,5 +1,5 @@
 ---
 title: "Beaverbrooks"
 url: /sunderland/beaverbrooks/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /northampton/poundland-fairground-way/
-shop: Kramladen
+shop: variety store
 ---

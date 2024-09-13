@@ -1,5 +1,5 @@
 ---
 title: "Dodge"
 url: /bishops-stortford/dodge/
-shop: Friseur
+shop: hairdresser
 ---

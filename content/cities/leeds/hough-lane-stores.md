@@ -1,5 +1,5 @@
 ---
 title: "Hough Lane Stores"
 url: /leeds/hough-lane-stores/
-shop: Lebensmittel
+shop: convenience
 ---

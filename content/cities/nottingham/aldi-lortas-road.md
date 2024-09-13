@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /nottingham/aldi-lortas-road/
-shop: Supermarkt
+shop: supermarket
 ---

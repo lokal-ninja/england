@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
 url: /newmarket/vodafone/
-shop: Handy
+shop: mobile phone
 ---

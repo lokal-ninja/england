@@ -1,5 +1,5 @@
 ---
 title: "Sue Ryder Care"
 url: /bury-st-edmunds/sue-ryder-care/
-shop: Gebrauchtwaren
+shop: charity
 ---

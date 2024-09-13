@@ -1,5 +1,5 @@
 ---
 title: "Ecigwizard"
 url: /cirencester/ecigwizard/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

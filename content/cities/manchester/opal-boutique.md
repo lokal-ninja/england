@@ -1,5 +1,5 @@
 ---
 title: "Opal Boutique"
 url: /manchester/opal-boutique/
-shop: Kleidung
+shop: clothes
 ---

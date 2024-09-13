@@ -1,5 +1,5 @@
 ---
 title: "Carl Dunham"
 url: /boston/carl-dunham-red-lion-street/
-shop: Metzgerei
+shop: butcher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Things"
 url: /cricklade/things/
-shop: Nähzubehör
+shop: sewing
 ---

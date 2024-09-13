@@ -1,5 +1,5 @@
 ---
 title: "Westwood Convenience Store"
 url: /peterborough/westwood-convenience-store/
-shop: Lebensmittel
+shop: convenience
 ---

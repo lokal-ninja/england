@@ -1,5 +1,5 @@
 ---
 title: "Spa Thai Centre"
 url: /leigh/spa-thai-centre/
-shop: Massage
+shop: massage
 ---

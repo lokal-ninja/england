@@ -1,5 +1,5 @@
 ---
 title: "Brewers"
 url: /peterborough/brewers/
-shop: Farben
+shop: paint
 ---

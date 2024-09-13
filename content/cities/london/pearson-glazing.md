@@ -1,5 +1,5 @@
 ---
 title: "Pearson Glazing"
 url: /london/pearson-glazing/
-shop: Glaserei
+shop: glaziery
 ---

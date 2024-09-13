@@ -1,5 +1,5 @@
 ---
 title: "SoSweet"
 url: /taunton/sosweet/
-shop: Süßwaren
+shop: confectionery
 ---

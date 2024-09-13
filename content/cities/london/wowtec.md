@@ -1,5 +1,5 @@
 ---
 title: "Wowtec"
 url: /london/wowtec/
-shop: Handy
+shop: mobile phone
 ---

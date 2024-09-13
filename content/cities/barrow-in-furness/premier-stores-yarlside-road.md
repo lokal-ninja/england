@@ -1,5 +1,5 @@
 ---
 title: "Premier Stores"
 url: /barrow-in-furness/premier-stores-yarlside-road/
-shop: Lebensmittel
+shop: convenience
 ---

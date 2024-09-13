@@ -1,5 +1,5 @@
 ---
 title: "Gelz Hair Salon"
 url: /east-end/gelz-hair-salon/
-shop: Friseur
+shop: hairdresser
 ---

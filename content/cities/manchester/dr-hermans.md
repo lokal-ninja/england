@@ -1,5 +1,5 @@
 ---
 title: "Dr Hermans"
 url: /manchester/dr-hermans/
-shop: Tabak
+shop: tobacco
 ---

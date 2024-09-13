@@ -1,5 +1,5 @@
 ---
 title: "Casablanca"
 url: /reigate/casablanca/
-shop: Friseur
+shop: hairdresser
 ---

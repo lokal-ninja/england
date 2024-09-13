@@ -1,5 +1,5 @@
 ---
 title: "Red Lion Cut"
 url: /colchester/red-lion-cut/
-shop: Friseur
+shop: hairdresser
 ---

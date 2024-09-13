@@ -1,5 +1,5 @@
 ---
 title: "Eazy Traders"
 url: /crook/eazy-traders/
-shop: Videospiele
+shop: video games
 ---

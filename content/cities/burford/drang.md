@@ -1,5 +1,5 @@
 ---
 title: "Drang"
 url: /burford/drang/
-shop: Kunst
+shop: art
 ---

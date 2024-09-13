@@ -1,5 +1,5 @@
 ---
 title: "Fakenham Eyewear"
 url: /fakenham/fakenham-eyewear/
-shop: Optiker
+shop: optician
 ---

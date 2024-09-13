@@ -1,5 +1,5 @@
 ---
 title: "Sunbond Ltd"
 url: /london/sunbond-ltd/
-shop: Kleidung
+shop: clothes
 ---

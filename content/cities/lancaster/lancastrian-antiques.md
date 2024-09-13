@@ -1,5 +1,5 @@
 ---
 title: "Lancastrian Antiques"
 url: /lancaster/lancastrian-antiques/
-shop: Antiquitäten
+shop: antiques
 ---

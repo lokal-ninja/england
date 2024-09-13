@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /norwich/iceland-st-stephens-street/
-shop: Tiefkühl
+shop: frozen food
 ---

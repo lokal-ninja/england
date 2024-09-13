@@ -1,5 +1,5 @@
 ---
 title: "SieMatic"
 url: /kendal/siematic/
-shop: Küchen
+shop: kitchen
 ---

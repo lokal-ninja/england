@@ -1,5 +1,5 @@
 ---
 title: "R.J. Wholesale"
 url: /bristol/r-j-wholesale/
-shop: Kramladen
+shop: variety store
 ---

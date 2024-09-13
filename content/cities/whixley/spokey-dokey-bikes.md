@@ -1,5 +1,5 @@
 ---
 title: "Spokey Dokey Bikes"
 url: /whixley/spokey-dokey-bikes/
-shop: Fahrrad
+shop: bicycle
 ---

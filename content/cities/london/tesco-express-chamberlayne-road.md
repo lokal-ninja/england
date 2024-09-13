@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /london/tesco-express-chamberlayne-road/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sharps"
 url: /derby/sharps/
-shop: Möbel
+shop: furniture
 ---

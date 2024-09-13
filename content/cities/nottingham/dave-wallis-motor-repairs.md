@@ -1,5 +1,5 @@
 ---
 title: "Dave Wallis Motor Repairs"
 url: /nottingham/dave-wallis-motor-repairs/
-shop: Autowerkstatt
+shop: car repair
 ---

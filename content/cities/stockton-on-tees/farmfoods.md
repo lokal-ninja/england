@@ -1,5 +1,5 @@
 ---
 title: "Farmfoods"
 url: /stockton-on-tees/farmfoods/
-shop: Tiefkühl
+shop: frozen food
 ---

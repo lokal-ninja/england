@@ -1,5 +1,5 @@
 ---
 title: "Victoriana"
 url: /rugby/victoriana/
-shop: Schmuck
+shop: jewelry
 ---

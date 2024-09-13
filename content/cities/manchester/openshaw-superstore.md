@@ -1,5 +1,5 @@
 ---
 title: "Openshaw Superstore"
 url: /manchester/openshaw-superstore/
-shop: Supermarkt
+shop: supermarket
 ---

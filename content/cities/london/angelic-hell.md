@@ -1,5 +1,5 @@
 ---
 title: "Angelic Hell"
 url: /london/angelic-hell/
-shop: Tattoo
+shop: tattoo
 ---

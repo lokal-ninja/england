@@ -1,5 +1,5 @@
 ---
 title: "Punjab Stores"
 url: /huddersfield/punjab-stores/
-shop: Lebensmittel
+shop: convenience
 ---

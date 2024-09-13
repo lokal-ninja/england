@@ -1,5 +1,5 @@
 ---
 title: "Wildwood"
 url: /glastonbury/wildwood/
-shop: Andenken
+shop: gift
 ---

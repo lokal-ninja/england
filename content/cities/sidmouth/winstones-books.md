@@ -1,5 +1,5 @@
 ---
 title: "Winstone's Books"
 url: /sidmouth/winstones-books/
-shop: Bücher
+shop: books
 ---

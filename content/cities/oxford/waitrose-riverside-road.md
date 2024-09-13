@@ -1,5 +1,5 @@
 ---
 title: "Waitrose"
 url: /oxford/waitrose-riverside-road/
-shop: Supermarkt
+shop: supermarket
 ---

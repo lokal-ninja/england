@@ -1,5 +1,5 @@
 ---
 title: "Myatt's"
 url: /hitchin/myatts/
-shop: Instrumente
+shop: musical instrument
 ---

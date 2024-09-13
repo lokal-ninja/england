@@ -1,5 +1,5 @@
 ---
 title: "Shipley Tyre Services"
 url: /shipley/shipley-tyre-services/
-shop: Autowerkstatt
+shop: car repair
 ---

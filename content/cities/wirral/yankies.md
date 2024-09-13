@@ -1,5 +1,5 @@
 ---
 title: "Yankies"
 url: /wirral/yankies/
-shop: Süßwaren
+shop: confectionery
 ---

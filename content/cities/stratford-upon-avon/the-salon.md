@@ -1,5 +1,5 @@
 ---
 title: "The Salon"
 url: /stratford-upon-avon/the-salon/
-shop: Friseur
+shop: hairdresser
 ---

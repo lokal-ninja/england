@@ -1,5 +1,5 @@
 ---
 title: "New Look"
 url: /swindon/new-look/
-shop: Kleidung
+shop: clothes
 ---

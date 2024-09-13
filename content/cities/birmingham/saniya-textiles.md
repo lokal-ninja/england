@@ -1,5 +1,5 @@
 ---
 title: "Saniya Textiles"
 url: /birmingham/saniya-textiles/
-shop: Kleidung
+shop: clothes
 ---

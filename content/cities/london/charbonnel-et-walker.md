@@ -1,5 +1,5 @@
 ---
 title: "Charbonnel et Walker"
 url: /london/charbonnel-et-walker/
-shop: Süßwaren
+shop: confectionery
 ---

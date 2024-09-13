@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /hayling-island/premier/
-shop: Lebensmittel
+shop: convenience
 ---

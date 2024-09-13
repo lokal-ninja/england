@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /accrington/lidl/
-shop: Supermarkt
+shop: supermarket
 ---

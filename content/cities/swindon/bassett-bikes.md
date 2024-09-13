@@ -1,5 +1,5 @@
 ---
 title: "Bassett Bikes"
 url: /swindon/bassett-bikes/
-shop: Fahrrad
+shop: bicycle
 ---

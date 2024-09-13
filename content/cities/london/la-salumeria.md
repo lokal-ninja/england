@@ -1,5 +1,5 @@
 ---
 title: "La Salumeria"
 url: /london/la-salumeria/
-shop: Feinkost
+shop: deli
 ---

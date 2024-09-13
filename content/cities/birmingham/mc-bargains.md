@@ -1,5 +1,5 @@
 ---
 title: "MC Bargains"
 url: /birmingham/mc-bargains/
-shop: Kramladen
+shop: variety store
 ---

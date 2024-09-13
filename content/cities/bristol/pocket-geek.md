@@ -1,5 +1,5 @@
 ---
 title: "pocket geek"
 url: /bristol/pocket-geek/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Heron Foods"
 url: /skegness/heron-foods/
-shop: Supermarkt
+shop: supermarket
 ---

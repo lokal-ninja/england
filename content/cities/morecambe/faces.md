@@ -1,5 +1,5 @@
 ---
 title: "Faces"
 url: /morecambe/faces/
-shop: Kosmetik
+shop: beauty
 ---

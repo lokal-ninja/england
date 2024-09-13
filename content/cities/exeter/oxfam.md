@@ -1,5 +1,5 @@
 ---
 title: "Oxfam"
 url: /exeter/oxfam/
-shop: Gebrauchtwaren
+shop: charity
 ---

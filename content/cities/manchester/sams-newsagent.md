@@ -1,5 +1,5 @@
 ---
 title: "Sam's Newsagent"
 url: /manchester/sams-newsagent/
-shop: Zeitungen
+shop: newsagent
 ---

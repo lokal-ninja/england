@@ -1,5 +1,5 @@
 ---
 title: "Jazz Up Your Paws"
 url: /letchworth-garden-city/jazz-up-your-paws/
-shop: Tiersalon
+shop: pet grooming
 ---

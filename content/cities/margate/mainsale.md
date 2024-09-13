@@ -1,5 +1,5 @@
 ---
 title: "Mainsale"
 url: /margate/mainsale/
-shop: Kramladen
+shop: variety store
 ---

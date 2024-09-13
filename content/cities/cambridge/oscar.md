@@ -1,5 +1,5 @@
 ---
 title: "Oscar"
 url: /cambridge/oscar/
-shop: Friseur
+shop: hairdresser
 ---

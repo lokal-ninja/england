@@ -1,5 +1,5 @@
 ---
 title: "Jack Warwick Funeral Directors"
 url: /kettering/jack-warwick-funeral-directors/
-shop: Bestattungen
+shop: funeral directors
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Thomas Moore Toymaster"
 url: /exeter/thomas-moore-toymaster/
-shop: Spielzeug
+shop: toys
 ---

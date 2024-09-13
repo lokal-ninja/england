@@ -1,5 +1,5 @@
 ---
 title: "Malletts Home Hardware"
 url: /truro/malletts-home-hardware/
-shop: Warenhaus
+shop: department store
 ---

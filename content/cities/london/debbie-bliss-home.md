@@ -1,5 +1,5 @@
 ---
 title: "Debbie Bliss Home"
 url: /london/debbie-bliss-home/
-shop: Haushaltsartikel
+shop: houseware
 ---

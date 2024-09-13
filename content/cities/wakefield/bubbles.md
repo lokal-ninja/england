@@ -1,5 +1,5 @@
 ---
 title: "Bubbles"
 url: /wakefield/bubbles/
-shop: Wäscherei
+shop: laundry
 ---

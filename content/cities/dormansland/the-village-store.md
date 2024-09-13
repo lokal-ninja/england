@@ -1,5 +1,5 @@
 ---
 title: "The Village Store"
 url: /dormansland/the-village-store/
-shop: Lebensmittel
+shop: convenience
 ---

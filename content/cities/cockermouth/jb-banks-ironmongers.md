@@ -1,5 +1,5 @@
 ---
 title: "JB Banks Ironmongers"
 url: /cockermouth/jb-banks-ironmongers/
-shop: Eisenwaren
+shop: hardware
 ---

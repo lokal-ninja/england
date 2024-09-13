@@ -1,5 +1,5 @@
 ---
 title: "The Ink Shop"
 url: /tadcaster/the-ink-shop/
-shop: Allgemein
+shop: shop
 ---

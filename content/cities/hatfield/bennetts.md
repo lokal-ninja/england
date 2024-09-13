@@ -1,5 +1,5 @@
 ---
 title: "Bennetts"
 url: /hatfield/bennetts/
-shop: Autoteile
+shop: car parts
 ---

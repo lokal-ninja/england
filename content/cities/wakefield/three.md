@@ -1,5 +1,5 @@
 ---
 title: "Three."
 url: /wakefield/three/
-shop: Handy
+shop: mobile phone
 ---

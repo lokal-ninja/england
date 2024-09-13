@@ -1,5 +1,5 @@
 ---
 title: "Cherubs Beauty Boutique"
 url: /new-romney/cherubs-beauty-boutique/
-shop: Kosmetik
+shop: beauty
 ---

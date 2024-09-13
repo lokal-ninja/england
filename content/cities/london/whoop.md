@@ -1,5 +1,5 @@
 ---
 title: "Whoop"
 url: /london/whoop/
-shop: Friseur
+shop: hairdresser
 ---

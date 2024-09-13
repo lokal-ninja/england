@@ -1,5 +1,5 @@
 ---
 title: "Home Zone"
 url: /birmingham/home-zone/
-shop: Baumarkt
+shop: doityourself
 ---

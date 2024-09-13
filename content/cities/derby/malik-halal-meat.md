@@ -1,5 +1,5 @@
 ---
 title: "Malik Halal Meat"
 url: /derby/malik-halal-meat/
-shop: Metzgerei
+shop: butcher
 ---

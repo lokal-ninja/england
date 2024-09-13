@@ -1,5 +1,5 @@
 ---
 title: "Qualis"
 url: /northallerton/qualis/
-shop: Badezimmer
+shop: bathroom
 ---

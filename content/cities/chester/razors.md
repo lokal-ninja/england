@@ -1,5 +1,5 @@
 ---
 title: "Razors"
 url: /chester/razors/
-shop: Friseur
+shop: hairdresser
 ---

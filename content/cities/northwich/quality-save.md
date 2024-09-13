@@ -1,5 +1,5 @@
 ---
 title: "Quality Save"
 url: /northwich/quality-save/
-shop: Supermarkt
+shop: supermarket
 ---

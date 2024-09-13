@@ -1,5 +1,5 @@
 ---
 title: "Simply Sweets"
 url: /milton-keynes/simply-sweets/
-shop: Süßwaren
+shop: confectionery
 ---

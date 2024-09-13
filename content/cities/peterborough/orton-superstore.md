@@ -1,5 +1,5 @@
 ---
 title: "Orton Superstore"
 url: /peterborough/orton-superstore/
-shop: Lebensmittel
+shop: convenience
 ---

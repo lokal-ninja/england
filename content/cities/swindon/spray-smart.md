@@ -1,5 +1,5 @@
 ---
 title: "Spray Smart"
 url: /swindon/spray-smart/
-shop: Autowerkstatt
+shop: car repair
 ---

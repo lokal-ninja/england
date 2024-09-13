@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /wakefield/savers/
-shop: Drogerie
+shop: chemist
 ---

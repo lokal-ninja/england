@@ -1,5 +1,5 @@
 ---
 title: "Choice Plants"
 url: /timsbury/choice-plants/
-shop: Garten-Center
+shop: garden centre
 ---

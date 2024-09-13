@@ -1,5 +1,5 @@
 ---
 title: "Akoya"
 url: /wigan/akoya/
-shop: Andenken
+shop: gift
 ---

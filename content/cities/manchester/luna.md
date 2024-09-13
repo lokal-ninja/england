@@ -1,5 +1,5 @@
 ---
 title: "Luna"
 url: /manchester/luna/
-shop: Modehaus
+shop: boutique
 ---

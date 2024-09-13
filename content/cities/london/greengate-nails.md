@@ -1,5 +1,5 @@
 ---
 title: "Greengate Nails"
 url: /london/greengate-nails/
-shop: Kosmetik
+shop: beauty
 ---

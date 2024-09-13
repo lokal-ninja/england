@@ -1,5 +1,5 @@
 ---
 title: "EE"
 url: /worcester/ee/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cash Generator"
 url: /middleton/cash-generator/
-shop: Leiher
+shop: pawnbroker
 ---

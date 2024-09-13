@@ -1,5 +1,5 @@
 ---
 title: "Ryman"
 url: /lichfield/ryman/
-shop: Schreibwaren
+shop: office supplies
 ---

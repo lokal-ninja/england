@@ -1,5 +1,5 @@
 ---
 title: "River Island"
 url: /tamworth/river-island/
-shop: Kleidung
+shop: clothes
 ---

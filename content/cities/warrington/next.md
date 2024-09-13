@@ -1,5 +1,5 @@
 ---
 title: "Next"
 url: /warrington/next/
-shop: Kleidung
+shop: clothes
 ---

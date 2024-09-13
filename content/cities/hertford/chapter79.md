@@ -1,5 +1,5 @@
 ---
 title: "chapter79"
 url: /hertford/chapter79/
-shop: Schmuck
+shop: jewelry
 ---

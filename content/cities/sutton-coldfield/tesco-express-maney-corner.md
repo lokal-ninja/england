@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /sutton-coldfield/tesco-express-maney-corner/
-shop: Lebensmittel
+shop: convenience
 ---

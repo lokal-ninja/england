@@ -1,5 +1,5 @@
 ---
 title: "Howards Hair"
 url: /north-shields/howards-hair/
-shop: Friseur
+shop: hairdresser
 ---

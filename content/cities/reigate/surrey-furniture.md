@@ -1,5 +1,5 @@
 ---
 title: "Surrey Furniture"
 url: /reigate/surrey-furniture/
-shop: Küchen
+shop: kitchen
 ---

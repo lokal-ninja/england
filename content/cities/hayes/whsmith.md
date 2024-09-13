@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /hayes/whsmith/
-shop: Bücher
+shop: books
 ---

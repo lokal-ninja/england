@@ -1,5 +1,5 @@
 ---
 title: "Farmfoods"
 url: /bradford/farmfoods-oasby-croft/
-shop: Tiefkühl
+shop: frozen food
 ---

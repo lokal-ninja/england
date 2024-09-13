@@ -1,5 +1,5 @@
 ---
 title: "Advanced Auto Parts"
 url: /pontefract/advanced-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

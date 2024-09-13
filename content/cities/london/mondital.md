@@ -1,5 +1,5 @@
 ---
 title: "Mondital"
 url: /london/mondital/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PrintWorks"
 url: /bristol/printworks/
-shop: Kopieren
+shop: copyshop
 ---

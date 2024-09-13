@@ -1,5 +1,5 @@
 ---
 title: "Oxfam"
 url: /bridgwater/oxfam/
-shop: Gebrauchtwaren
+shop: charity
 ---

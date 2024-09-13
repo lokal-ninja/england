@@ -1,5 +1,5 @@
 ---
 title: "Timeless"
 url: /kendal/timeless/
-shop: Kosmetik
+shop: beauty
 ---

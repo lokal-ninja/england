@@ -1,5 +1,5 @@
 ---
 title: "Cuts and Clobber"
 url: /lee-on-the-solent/cuts-and-clobber/
-shop: Friseur
+shop: hairdresser
 ---

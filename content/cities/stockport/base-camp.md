@@ -1,5 +1,5 @@
 ---
 title: "Base Camp"
 url: /stockport/base-camp/
-shop: Outdoor
+shop: outdoor
 ---

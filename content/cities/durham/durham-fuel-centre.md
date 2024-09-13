@@ -1,5 +1,5 @@
 ---
 title: "Durham Fuel Centre"
 url: /durham/durham-fuel-centre/
-shop: Treibstoff
+shop: fuel
 ---

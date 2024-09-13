@@ -1,5 +1,5 @@
 ---
 title: "BVP Autoparts"
 url: /swalwell/bvp-autoparts/
-shop: Autoteile
+shop: car parts
 ---

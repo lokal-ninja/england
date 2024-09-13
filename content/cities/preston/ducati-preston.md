@@ -1,5 +1,5 @@
 ---
 title: "Ducati Preston"
 url: /preston/ducati-preston/
-shop: Motorrad
+shop: motorcycle
 ---

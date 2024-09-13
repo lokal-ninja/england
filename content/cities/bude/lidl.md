@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /bude/lidl/
-shop: Supermarkt
+shop: supermarket
 ---

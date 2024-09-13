@@ -1,5 +1,5 @@
 ---
 title: "BoyleSports"
 url: /wakefield/boylesports/
-shop: Wettbüro
+shop: bookmaker
 ---

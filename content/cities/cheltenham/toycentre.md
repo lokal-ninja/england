@@ -1,5 +1,5 @@
 ---
 title: "Toycentre"
 url: /cheltenham/toycentre/
-shop: Spielzeug
+shop: toys
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /bradford/aldi-idlecroft-road/
-shop: Supermarkt
+shop: supermarket
 ---

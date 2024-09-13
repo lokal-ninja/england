@@ -1,5 +1,5 @@
 ---
 title: "The Queen Edith"
 url: /cambridge/the-queen-edith/
-shop: Spirituosen
+shop: alcohol
 ---

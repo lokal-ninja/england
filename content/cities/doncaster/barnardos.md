@@ -1,5 +1,5 @@
 ---
 title: "Barnardo's"
 url: /doncaster/barnardos/
-shop: Gebrauchtwaren
+shop: charity
 ---

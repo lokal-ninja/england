@@ -1,5 +1,5 @@
 ---
 title: "Edge Watersports"
 url: /exmouth/edge-watersports/
-shop: Tauchen
+shop: diving
 ---

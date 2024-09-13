@@ -1,5 +1,5 @@
 ---
 title: "Georgies"
 url: /sheffield/georgies/
-shop: Kleidung
+shop: clothes
 ---

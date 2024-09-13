@@ -1,5 +1,5 @@
 ---
 title: "Budgens"
 url: /bristol/budgens-newfoundland-circus/
-shop: Lebensmittel
+shop: convenience
 ---

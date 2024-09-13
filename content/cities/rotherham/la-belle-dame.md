@@ -1,5 +1,5 @@
 ---
 title: "La Belle Dame"
 url: /rotherham/la-belle-dame/
-shop: Kosmetik
+shop: beauty
 ---

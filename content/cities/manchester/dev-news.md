@@ -1,5 +1,5 @@
 ---
 title: "Dev News"
 url: /manchester/dev-news/
-shop: Zeitungen
+shop: newsagent
 ---

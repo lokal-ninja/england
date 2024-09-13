@@ -1,5 +1,5 @@
 ---
 title: "Beauty Lounge"
 url: /bristol/beauty-lounge/
-shop: Kosmetik
+shop: beauty
 ---

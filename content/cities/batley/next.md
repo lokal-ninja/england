@@ -1,5 +1,5 @@
 ---
 title: "Next"
 url: /batley/next/
-shop: Kleidung
+shop: clothes
 ---

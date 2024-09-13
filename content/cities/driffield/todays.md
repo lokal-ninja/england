@@ -1,5 +1,5 @@
 ---
 title: "Today's"
 url: /driffield/todays/
-shop: Lebensmittel
+shop: convenience
 ---

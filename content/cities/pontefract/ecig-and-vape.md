@@ -1,5 +1,5 @@
 ---
 title: "ECIg and Vape"
 url: /pontefract/ecig-and-vape/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

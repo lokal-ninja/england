@@ -1,5 +1,5 @@
 ---
 title: "Lalique"
 url: /london/lalique/
-shop: Allgemein
+shop: shop
 ---

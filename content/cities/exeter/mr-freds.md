@@ -1,5 +1,5 @@
 ---
 title: "Mr. Fred's"
 url: /exeter/mr-freds/
-shop: Friseur
+shop: hairdresser
 ---

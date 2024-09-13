@@ -1,5 +1,5 @@
 ---
 title: "Currie's Chemist"
 url: /bradford/curries-chemist/
-shop: Drogerie
+shop: chemist
 ---

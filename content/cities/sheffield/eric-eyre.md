@@ -1,5 +1,5 @@
 ---
 title: "Eric Eyre"
 url: /sheffield/eric-eyre/
-shop: Bestattungen
+shop: funeral directors
 ---

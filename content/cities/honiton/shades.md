@@ -1,5 +1,5 @@
 ---
 title: "Shades"
 url: /honiton/shades/
-shop: Friseur
+shop: hairdresser
 ---

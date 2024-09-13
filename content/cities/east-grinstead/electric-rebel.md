@@ -1,5 +1,5 @@
 ---
 title: "Electric Rebel"
 url: /east-grinstead/electric-rebel/
-shop: Tattoo
+shop: tattoo
 ---

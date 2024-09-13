@@ -1,5 +1,5 @@
 ---
 title: "Venus"
 url: /newmarket/venus/
-shop: Friseur
+shop: hairdresser
 ---

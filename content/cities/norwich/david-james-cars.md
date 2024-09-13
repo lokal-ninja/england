@@ -1,5 +1,5 @@
 ---
 title: "David James Cars"
 url: /norwich/david-james-cars/
-shop: Autohaus
+shop: car
 ---

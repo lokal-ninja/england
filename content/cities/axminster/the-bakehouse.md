@@ -1,5 +1,5 @@
 ---
 title: "The Bakehouse"
 url: /axminster/the-bakehouse/
-shop: Bäckerei
+shop: bakery
 ---

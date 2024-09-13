@@ -1,5 +1,5 @@
 ---
 title: "The Clean Laundry Co"
 url: /london/the-clean-laundry-co/
-shop: Wäscherei
+shop: laundry
 ---

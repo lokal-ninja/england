@@ -1,5 +1,5 @@
 ---
 title: "Gatefield Sounds"
 url: /whitstable/gatefield-sounds/
-shop: Musik
+shop: music
 ---

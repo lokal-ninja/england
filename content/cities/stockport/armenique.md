@@ -1,5 +1,5 @@
 ---
 title: "Armenique"
 url: /stockport/armenique/
-shop: Feinkost
+shop: deli
 ---

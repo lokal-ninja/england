@@ -1,5 +1,5 @@
 ---
 title: "Beautiful"
 url: /oldham/beautiful/
-shop: Kosmetik
+shop: beauty
 ---

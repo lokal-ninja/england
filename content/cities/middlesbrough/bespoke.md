@@ -1,5 +1,5 @@
 ---
 title: "Bespoke"
 url: /middlesbrough/bespoke/
-shop: Reifen
+shop: tyres
 ---

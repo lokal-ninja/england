@@ -1,5 +1,5 @@
 ---
 title: "One Stop"
 url: /ripley/one-stop-high-street/
-shop: Lebensmittel
+shop: convenience
 ---

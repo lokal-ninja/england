@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /uxbridge/tesco-express-pield-heath-road/
-shop: Lebensmittel
+shop: convenience
 ---

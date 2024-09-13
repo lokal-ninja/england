@@ -1,5 +1,5 @@
 ---
 title: "Lucky"
 url: /harrow/lucky/
-shop: Lebensmittel
+shop: convenience
 ---

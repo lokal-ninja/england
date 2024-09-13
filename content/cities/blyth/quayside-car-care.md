@@ -1,5 +1,5 @@
 ---
 title: "Quayside Car Care"
 url: /blyth/quayside-car-care/
-shop: Autowerkstatt
+shop: car repair
 ---

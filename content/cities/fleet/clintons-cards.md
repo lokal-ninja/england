@@ -1,5 +1,5 @@
 ---
 title: "Clintons Cards"
 url: /fleet/clintons-cards/
-shop: Schreibwaren
+shop: office supplies
 ---

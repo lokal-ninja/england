@@ -1,5 +1,5 @@
 ---
 title: "Wenzel's"
 url: /london/wenzels-the-broadway/
-shop: Bäckerei
+shop: bakery
 ---

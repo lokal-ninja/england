@@ -1,5 +1,5 @@
 ---
 title: "Heron Foods"
 url: /wellingborough/heron-foods/
-shop: Lebensmittel
+shop: convenience
 ---

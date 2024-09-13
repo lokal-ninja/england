@@ -1,5 +1,5 @@
 ---
 title: "Eclectica"
 url: /cowes/eclectica/
-shop: Antiquitäten
+shop: antiques
 ---

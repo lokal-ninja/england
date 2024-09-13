@@ -1,5 +1,5 @@
 ---
 title: "Donalds Mazda"
 url: /norwich/donalds-mazda/
-shop: Autohaus
+shop: car
 ---

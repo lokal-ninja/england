@@ -1,5 +1,5 @@
 ---
 title: "Holly Nails"
 url: /london/holly-nails/
-shop: Kosmetik
+shop: beauty
 ---

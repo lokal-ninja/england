@@ -1,5 +1,5 @@
 ---
 title: "Hoo Hing"
 url: /milton-keynes/hoo-hing/
-shop: Supermarkt
+shop: supermarket
 ---

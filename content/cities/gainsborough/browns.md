@@ -1,5 +1,5 @@
 ---
 title: "Browns"
 url: /gainsborough/browns/
-shop: Kosmetik
+shop: beauty
 ---

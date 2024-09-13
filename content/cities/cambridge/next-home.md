@@ -1,5 +1,5 @@
 ---
 title: "Next Home"
 url: /cambridge/next-home/
-shop: Raumausstattung
+shop: interior decoration
 ---

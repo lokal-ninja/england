@@ -1,5 +1,5 @@
 ---
 title: "Ultrafloor"
 url: /birmingham/ultrafloor/
-shop: Teppiche
+shop: carpet
 ---

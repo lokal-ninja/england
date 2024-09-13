@@ -1,5 +1,5 @@
 ---
 title: "Get a Grip"
 url: /london/get-a-grip/
-shop: Fahrrad
+shop: bicycle
 ---

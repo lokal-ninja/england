@@ -1,5 +1,5 @@
 ---
 title: "Gordon Grove Garage Ltd."
 url: /london/gordon-grove-garage-ltd/
-shop: Autowerkstatt
+shop: car repair
 ---

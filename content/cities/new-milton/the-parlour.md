@@ -1,5 +1,5 @@
 ---
 title: "The Parlour"
 url: /new-milton/the-parlour/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /cheltenham/iceland-edinburgh-place/
-shop: Tiefkühl
+shop: frozen food
 ---

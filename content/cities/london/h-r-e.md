@@ -1,5 +1,5 @@
 ---
 title: "H.R.E."
 url: /london/h-r-e/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Goodwins"
 url: /matlock/goodwins/
-shop: Raumausstattung
+shop: interior decoration
 ---

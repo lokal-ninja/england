@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /london/londis-brockley-road/
-shop: Lebensmittel
+shop: convenience
 ---

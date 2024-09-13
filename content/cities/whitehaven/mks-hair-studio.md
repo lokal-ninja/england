@@ -1,5 +1,5 @@
 ---
 title: "MK's Hair Studio"
 url: /whitehaven/mks-hair-studio/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mellor Spar Store"
 url: /blackburn/mellor-spar-store/
-shop: Supermarkt
+shop: supermarket
 ---

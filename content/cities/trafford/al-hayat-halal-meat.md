@@ -1,5 +1,5 @@
 ---
 title: "Al Hayat Halal Meat"
 url: /trafford/al-hayat-halal-meat/
-shop: Metzgerei
+shop: butcher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Clarks"
 url: /spalding/clarks/
-shop: Schuhe
+shop: shoes
 ---

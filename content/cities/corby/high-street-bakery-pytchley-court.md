@@ -1,5 +1,5 @@
 ---
 title: "High Street Bakery"
 url: /corby/high-street-bakery-pytchley-court/
-shop: Bäckerei
+shop: bakery
 ---

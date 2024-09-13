@@ -1,5 +1,5 @@
 ---
 title: "Ramblers"
 url: /thurne/ramblers/
-shop: Andenken
+shop: gift
 ---

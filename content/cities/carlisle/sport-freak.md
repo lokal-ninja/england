@@ -1,5 +1,5 @@
 ---
 title: "Sport Freak"
 url: /carlisle/sport-freak/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

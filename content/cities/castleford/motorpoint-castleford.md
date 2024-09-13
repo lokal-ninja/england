@@ -1,5 +1,5 @@
 ---
 title: "Motorpoint Castleford"
 url: /castleford/motorpoint-castleford/
-shop: Autohaus
+shop: car
 ---

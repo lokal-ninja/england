@@ -1,5 +1,5 @@
 ---
 title: "Andres Family Butchers"
 url: /bristol/andres-family-butchers/
-shop: Metzgerei
+shop: butcher
 ---

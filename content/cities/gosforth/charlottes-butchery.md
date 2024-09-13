@@ -1,5 +1,5 @@
 ---
 title: "Charlotte's Butchery"
 url: /gosforth/charlottes-butchery/
-shop: Metzgerei
+shop: butcher
 ---

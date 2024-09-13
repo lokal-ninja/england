@@ -1,5 +1,5 @@
 ---
 title: "Animal Magic"
 url: /colchester/animal-magic/
-shop: Tiersalon
+shop: pet grooming
 ---

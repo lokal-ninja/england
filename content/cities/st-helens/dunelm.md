@@ -1,5 +1,5 @@
 ---
 title: "Dunelm"
 url: /st-helens/dunelm/
-shop: Raumausstattung
+shop: interior decoration
 ---

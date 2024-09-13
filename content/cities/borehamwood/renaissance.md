@@ -1,5 +1,5 @@
 ---
 title: "Renaissance"
 url: /borehamwood/renaissance/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Crownhill Supermarket"
 url: /milton-keynes/crownhill-supermarket/
-shop: Lebensmittel
+shop: convenience
 ---

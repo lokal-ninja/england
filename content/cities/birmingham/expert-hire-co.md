@@ -1,5 +1,5 @@
 ---
 title: "Expert Hire Co."
 url: /birmingham/expert-hire-co/
-shop: Mieten
+shop: storage rental
 ---

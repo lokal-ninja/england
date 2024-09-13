@@ -1,5 +1,5 @@
 ---
 title: "Colwick News"
 url: /nottingham/colwick-news/
-shop: Zeitungen
+shop: newsagent
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tribe Hair Studio"
 url: /swindon/tribe-hair-studio/
-shop: Friseur
+shop: hairdresser
 ---

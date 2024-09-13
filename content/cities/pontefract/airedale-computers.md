@@ -1,5 +1,5 @@
 ---
 title: "Airedale Computers"
 url: /pontefract/airedale-computers/
-shop: Computer
+shop: computer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Montezuma"
 url: /london/montezuma/
-shop: Schokolade
+shop: chocolate
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Decor Barber"
 url: /sheffield/decor-barber/
-shop: Friseur
+shop: hairdresser
 ---

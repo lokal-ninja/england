@@ -1,5 +1,5 @@
 ---
 title: "The Spot"
 url: /bristol/the-spot/
-shop: Friseur
+shop: hairdresser
 ---

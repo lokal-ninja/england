@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /skegness/spar-roman-bank/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Peggy's Parlour"
 url: /blyth/peggys-parlour/
-shop: Tiersalon
+shop: pet grooming
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Touchstone"
 url: /paignton/touchstone/
-shop: Andenken
+shop: gift
 ---

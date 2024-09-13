@@ -1,5 +1,5 @@
 ---
 title: "Wick Express"
 url: /littlehampton/wick-express/
-shop: Lebensmittel
+shop: convenience
 ---

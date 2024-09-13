@@ -1,5 +1,5 @@
 ---
 title: "Birds"
 url: /sandbach/birds/
-shop: Metzgerei
+shop: butcher
 ---

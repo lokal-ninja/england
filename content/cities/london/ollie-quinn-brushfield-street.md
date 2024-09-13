@@ -1,5 +1,5 @@
 ---
 title: "Ollie Quinn"
 url: /london/ollie-quinn-brushfield-street/
-shop: Optiker
+shop: optician
 ---

@@ -1,5 +1,5 @@
 ---
 title: "StarLink Flight Centre Limited"
 url: /nottingham/starlink-flight-centre-limited/
-shop: Reisebüro
+shop: travel agency
 ---

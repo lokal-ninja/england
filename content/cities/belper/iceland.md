@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /belper/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

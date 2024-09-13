@@ -1,5 +1,5 @@
 ---
 title: "Elan"
 url: /lydney/elan/
-shop: Kleidung
+shop: clothes
 ---

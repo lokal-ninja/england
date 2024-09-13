@@ -1,5 +1,5 @@
 ---
 title: "Smart Phones"
 url: /bristol/smart-phones/
-shop: Handy
+shop: mobile phone
 ---

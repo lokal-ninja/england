@@ -1,5 +1,5 @@
 ---
 title: "Garden Shop"
 url: /near-sunnyside/garden-shop/
-shop: Garten-Center
+shop: garden centre
 ---

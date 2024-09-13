@@ -1,5 +1,5 @@
 ---
 title: "Morrisons Daily"
 url: /consett/morrisons-daily/
-shop: Lebensmittel
+shop: convenience
 ---

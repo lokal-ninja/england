@@ -1,5 +1,5 @@
 ---
 title: "The Knutti Store"
 url: /york/the-knutti-store/
-shop: Andenken
+shop: gift
 ---

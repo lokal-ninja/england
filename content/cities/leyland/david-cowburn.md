@@ -1,5 +1,5 @@
 ---
 title: "David Cowburn"
 url: /leyland/david-cowburn/
-shop: Bestattungen
+shop: funeral directors
 ---

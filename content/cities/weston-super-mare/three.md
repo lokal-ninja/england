@@ -1,5 +1,5 @@
 ---
 title: "Three."
 url: /weston-super-mare/three/
-shop: Handy
+shop: mobile phone
 ---

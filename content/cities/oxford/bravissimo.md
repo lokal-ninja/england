@@ -1,5 +1,5 @@
 ---
 title: "Bravissimo"
 url: /oxford/bravissimo/
-shop: Kleidung
+shop: clothes
 ---

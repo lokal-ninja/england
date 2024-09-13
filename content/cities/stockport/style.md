@@ -1,5 +1,5 @@
 ---
 title: "Style"
 url: /stockport/style/
-shop: Raumausstattung
+shop: interior decoration
 ---

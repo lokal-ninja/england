@@ -1,5 +1,5 @@
 ---
 title: "Police"
 url: /ashford/police/
-shop: Kleidung
+shop: clothes
 ---

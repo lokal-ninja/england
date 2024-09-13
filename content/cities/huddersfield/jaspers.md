@@ -1,5 +1,5 @@
 ---
 title: "Jasper's"
 url: /huddersfield/jaspers/
-shop: Friseur
+shop: hairdresser
 ---

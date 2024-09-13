@@ -1,5 +1,5 @@
 ---
 title: "Hartleys"
 url: /henfield/hartleys/
-shop: Spirituosen
+shop: alcohol
 ---

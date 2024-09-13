@@ -1,5 +1,5 @@
 ---
 title: "Ice"
 url: /gloucester/ice/
-shop: Friseur
+shop: hairdresser
 ---

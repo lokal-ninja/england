@@ -1,5 +1,5 @@
 ---
 title: "Swatch"
 url: /nottingham/swatch/
-shop: Uhren
+shop: watches
 ---

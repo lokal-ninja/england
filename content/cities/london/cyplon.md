@@ -1,5 +1,5 @@
 ---
 title: "Cyplon"
 url: /london/cyplon/
-shop: Reisebüro
+shop: travel agency
 ---

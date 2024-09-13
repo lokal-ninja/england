@@ -1,5 +1,5 @@
 ---
 title: "Purrfect"
 url: /cirencester/purrfect/
-shop: Tiere
+shop: pet
 ---

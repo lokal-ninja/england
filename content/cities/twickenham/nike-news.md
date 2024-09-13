@@ -1,5 +1,5 @@
 ---
 title: "Nike News"
 url: /twickenham/nike-news/
-shop: Zeitungen
+shop: newsagent
 ---

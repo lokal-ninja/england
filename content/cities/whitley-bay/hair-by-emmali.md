@@ -1,5 +1,5 @@
 ---
 title: "Hair by Emmali"
 url: /whitley-bay/hair-by-emmali/
-shop: Friseur
+shop: hairdresser
 ---

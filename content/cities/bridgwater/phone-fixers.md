@@ -1,5 +1,5 @@
 ---
 title: "Phone Fixers"
 url: /bridgwater/phone-fixers/
-shop: Handy
+shop: mobile phone
 ---

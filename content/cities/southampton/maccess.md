@@ -1,5 +1,5 @@
 ---
 title: "Maccess"
 url: /southampton/maccess/
-shop: Autoteile
+shop: car parts
 ---

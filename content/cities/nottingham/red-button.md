@@ -1,5 +1,5 @@
 ---
 title: "Red Button"
 url: /nottingham/red-button/
-shop: Allgemein
+shop: shop
 ---

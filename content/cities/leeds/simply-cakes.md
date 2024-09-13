@@ -1,5 +1,5 @@
 ---
 title: "Simply Cakes"
 url: /leeds/simply-cakes/
-shop: Konditorei
+shop: pastry
 ---

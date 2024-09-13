@@ -1,5 +1,5 @@
 ---
 title: "Mind"
 url: /cheadle/mind/
-shop: Gebrauchtwaren
+shop: charity
 ---

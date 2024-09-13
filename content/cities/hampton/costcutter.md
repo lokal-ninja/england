@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /hampton/costcutter/
-shop: Lebensmittel
+shop: convenience
 ---

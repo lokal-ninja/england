@@ -1,5 +1,5 @@
 ---
 title: "Ziva"
 url: /london/ziva/
-shop: Friseur
+shop: hairdresser
 ---

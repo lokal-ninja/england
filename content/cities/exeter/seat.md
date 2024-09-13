@@ -1,5 +1,5 @@
 ---
 title: "Seat"
 url: /exeter/seat/
-shop: Autohaus
+shop: car
 ---

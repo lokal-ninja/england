@@ -1,5 +1,5 @@
 ---
 title: "Poundshopper"
 url: /london/poundshopper/
-shop: Kramladen
+shop: variety store
 ---

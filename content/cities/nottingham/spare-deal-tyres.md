@@ -1,5 +1,5 @@
 ---
 title: "Spare Deal Tyres"
 url: /nottingham/spare-deal-tyres/
-shop: Autowerkstatt
+shop: car repair
 ---

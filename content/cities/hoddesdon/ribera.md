@@ -1,5 +1,5 @@
 ---
 title: "Ribera"
 url: /hoddesdon/ribera/
-shop: Friseur
+shop: hairdresser
 ---

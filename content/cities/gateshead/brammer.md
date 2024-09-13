@@ -1,5 +1,5 @@
 ---
 title: "Brammer"
 url: /gateshead/brammer/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carefully Crafted"
 url: /alnwick/carefully-crafted/
-shop: Blumen
+shop: florist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bong Shop"
 url: /margate/bong-shop/
-shop: Allgemein
+shop: shop
 ---

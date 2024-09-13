@@ -1,5 +1,5 @@
 ---
 title: "Crystal Hire"
 url: /aldershot/crystal-hire/
-shop: Mieten
+shop: storage rental
 ---

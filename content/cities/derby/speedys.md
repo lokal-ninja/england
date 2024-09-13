@@ -1,5 +1,5 @@
 ---
 title: "Speedy's"
 url: /derby/speedys/
-shop: Autowerkstatt
+shop: car repair
 ---

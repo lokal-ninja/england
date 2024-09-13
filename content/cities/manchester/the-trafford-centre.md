@@ -1,5 +1,5 @@
 ---
 title: "The Trafford Centre"
 url: /manchester/the-trafford-centre/
-shop: Einkaufszentrum
+shop: mall
 ---

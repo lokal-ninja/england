@@ -1,5 +1,5 @@
 ---
 title: "Betty Ennis Hub"
 url: /coventry/betty-ennis-hub/
-shop: Gebrauchtwaren
+shop: charity
 ---

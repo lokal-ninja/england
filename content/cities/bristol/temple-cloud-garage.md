@@ -1,5 +1,5 @@
 ---
 title: "Temple Cloud Garage"
 url: /bristol/temple-cloud-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

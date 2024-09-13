@@ -1,5 +1,5 @@
 ---
 title: "Espérer"
 url: /manchester/esperer/
-shop: Kleidung
+shop: clothes
 ---

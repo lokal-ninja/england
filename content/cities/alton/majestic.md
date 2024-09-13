@@ -1,5 +1,5 @@
 ---
 title: "Majestic"
 url: /alton/majestic/
-shop: Spirituosen
+shop: alcohol
 ---

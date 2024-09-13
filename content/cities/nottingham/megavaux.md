@@ -1,5 +1,5 @@
 ---
 title: "Megavaux"
 url: /nottingham/megavaux/
-shop: Autoteile
+shop: car parts
 ---

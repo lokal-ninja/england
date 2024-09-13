@@ -1,5 +1,5 @@
 ---
 title: "Silent Moon Tattoo"
 url: /london/silent-moon-tattoo/
-shop: Tattoo
+shop: tattoo
 ---

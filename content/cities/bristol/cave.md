@@ -1,5 +1,5 @@
 ---
 title: "Cave"
 url: /bristol/cave/
-shop: Spirituosen
+shop: alcohol
 ---

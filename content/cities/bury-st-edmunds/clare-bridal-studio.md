@@ -1,5 +1,5 @@
 ---
 title: "Clare Bridal Studio"
 url: /bury-st-edmunds/clare-bridal-studio/
-shop: Brautkleider
+shop: wedding gown
 ---

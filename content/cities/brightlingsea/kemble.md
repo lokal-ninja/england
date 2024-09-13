@@ -1,5 +1,5 @@
 ---
 title: "Kemble"
 url: /brightlingsea/kemble/
-shop: Bestattungen
+shop: funeral directors
 ---

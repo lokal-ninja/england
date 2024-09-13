@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /cowes/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

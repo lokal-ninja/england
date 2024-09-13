@@ -1,5 +1,5 @@
 ---
 title: "Cook"
 url: /horsham/cook/
-shop: Tiefkühl
+shop: frozen food
 ---

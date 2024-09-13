@@ -1,5 +1,5 @@
 ---
 title: "Maddie's Castle"
 url: /derby/maddies-castle/
-shop: Tiersalon
+shop: pet grooming
 ---

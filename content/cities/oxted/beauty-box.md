@@ -1,5 +1,5 @@
 ---
 title: "Beauty Box"
 url: /oxted/beauty-box/
-shop: Kosmetik
+shop: beauty
 ---

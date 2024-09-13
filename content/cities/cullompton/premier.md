@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /cullompton/premier/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tallboys"
 url: /brighton/tallboys/
-shop: Friseur
+shop: hairdresser
 ---

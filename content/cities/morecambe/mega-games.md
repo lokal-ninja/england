@@ -1,5 +1,5 @@
 ---
 title: "Mega Games"
 url: /morecambe/mega-games/
-shop: Videospiele
+shop: video games
 ---

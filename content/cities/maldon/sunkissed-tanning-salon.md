@@ -1,5 +1,5 @@
 ---
 title: "Sunkissed Tanning Salon"
 url: /maldon/sunkissed-tanning-salon/
-shop: Kosmetik
+shop: beauty
 ---

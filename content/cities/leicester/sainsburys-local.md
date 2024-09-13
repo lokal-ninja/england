@@ -1,5 +1,5 @@
 ---
 title: "Sainsbury's Local"
 url: /leicester/sainsburys-local/
-shop: Lebensmittel
+shop: convenience
 ---

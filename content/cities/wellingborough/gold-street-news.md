@@ -1,5 +1,5 @@
 ---
 title: "Gold Street News"
 url: /wellingborough/gold-street-news/
-shop: Zeitungen
+shop: newsagent
 ---

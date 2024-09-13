@@ -1,5 +1,5 @@
 ---
 title: "Desire"
 url: /cockermouth/desire/
-shop: Kleidung
+shop: clothes
 ---

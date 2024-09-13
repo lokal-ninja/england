@@ -1,5 +1,5 @@
 ---
 title: "MJ News"
 url: /wellingborough/mj-news/
-shop: Zeitungen
+shop: newsagent
 ---

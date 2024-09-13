@@ -1,5 +1,5 @@
 ---
 title: "Clarks"
 url: /portsmouth/clarks/
-shop: Schuhe
+shop: shoes
 ---

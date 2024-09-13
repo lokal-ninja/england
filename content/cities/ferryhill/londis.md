@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /ferryhill/londis/
-shop: Lebensmittel
+shop: convenience
 ---

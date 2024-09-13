@@ -1,5 +1,5 @@
 ---
 title: "Home Bargains"
 url: /burton-on-trent/home-bargains/
-shop: Kramladen
+shop: variety store
 ---

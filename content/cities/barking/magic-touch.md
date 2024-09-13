@@ -1,5 +1,5 @@
 ---
 title: "Magic Touch"
 url: /barking/magic-touch/
-shop: Friseur
+shop: hairdresser
 ---

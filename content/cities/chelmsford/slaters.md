@@ -1,5 +1,5 @@
 ---
 title: "Slaters"
 url: /chelmsford/slaters/
-shop: Kleidung
+shop: clothes
 ---

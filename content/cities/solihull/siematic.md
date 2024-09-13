@@ -1,5 +1,5 @@
 ---
 title: "Siematic"
 url: /solihull/siematic/
-shop: Küchen
+shop: kitchen
 ---

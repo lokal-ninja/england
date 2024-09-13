@@ -1,5 +1,5 @@
 ---
 title: "Well Hall News"
 url: /london/well-hall-news/
-shop: Lebensmittel
+shop: convenience
 ---

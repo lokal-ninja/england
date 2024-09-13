@@ -1,5 +1,5 @@
 ---
 title: "Fox Dry Cleaners"
 url: /margate/fox-dry-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

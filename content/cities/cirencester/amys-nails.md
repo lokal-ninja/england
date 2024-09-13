@@ -1,5 +1,5 @@
 ---
 title: "Amy's Nails"
 url: /cirencester/amys-nails/
-shop: Kosmetik
+shop: beauty
 ---

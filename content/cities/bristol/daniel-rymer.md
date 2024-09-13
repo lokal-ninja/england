@@ -1,5 +1,5 @@
 ---
 title: "Daniel Rymer"
 url: /bristol/daniel-rymer/
-shop: Friseur
+shop: hairdresser
 ---

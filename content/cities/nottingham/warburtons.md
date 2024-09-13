@@ -1,5 +1,5 @@
 ---
 title: "Warburtons"
 url: /nottingham/warburtons/
-shop: Bäckerei
+shop: bakery
 ---

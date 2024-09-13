@@ -1,5 +1,5 @@
 ---
 title: "Vape Selection"
 url: /hastings/vape-selection/
-shop: Zeitungen
+shop: newsagent
 ---

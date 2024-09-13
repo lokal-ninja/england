@@ -1,5 +1,5 @@
 ---
 title: "Ebony"
 url: /wymondham/ebony/
-shop: Raumausstattung
+shop: interior decoration
 ---

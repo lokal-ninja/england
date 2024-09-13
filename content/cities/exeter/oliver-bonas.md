@@ -1,5 +1,5 @@
 ---
 title: "Oliver Bonas"
 url: /exeter/oliver-bonas/
-shop: Kleidung
+shop: clothes
 ---

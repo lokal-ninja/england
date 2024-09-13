@@ -1,5 +1,5 @@
 ---
 title: "Bohemia"
 url: /london/bohemia/
-shop: Gebrauchtwaren
+shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Nut Shop"
 url: /leeds/the-nut-shop/
-shop: Allgemein
+shop: shop
 ---

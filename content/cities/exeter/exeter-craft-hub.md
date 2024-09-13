@@ -1,5 +1,5 @@
 ---
 title: "Exeter Craft Hub"
 url: /exeter/exeter-craft-hub/
-shop: Basteln
+shop: craft
 ---

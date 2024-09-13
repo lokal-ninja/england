@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /bristol/iceland-st-catherines-place/
-shop: Tiefkühl
+shop: frozen food
 ---

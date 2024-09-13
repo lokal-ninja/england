@@ -1,5 +1,5 @@
 ---
 title: "Emeny News"
 url: /ipswich/emeny-news/
-shop: Zeitungen
+shop: newsagent
 ---

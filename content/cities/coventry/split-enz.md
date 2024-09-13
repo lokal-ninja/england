@@ -1,5 +1,5 @@
 ---
 title: "Split-Enz"
 url: /coventry/split-enz/
-shop: Friseur
+shop: hairdresser
 ---

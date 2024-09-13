@@ -1,5 +1,5 @@
 ---
 title: "Kensington Domestic Appliances"
 url: /heathfield/kensington-domestic-appliances/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PB Express"
 url: /oldham/pb-express/
-shop: Reisebüro
+shop: travel agency
 ---

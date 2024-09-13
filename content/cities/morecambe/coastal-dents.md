@@ -1,5 +1,5 @@
 ---
 title: "Coastal Dents"
 url: /morecambe/coastal-dents/
-shop: Autowerkstatt
+shop: car repair
 ---

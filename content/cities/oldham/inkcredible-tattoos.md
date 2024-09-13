@@ -1,5 +1,5 @@
 ---
 title: "Inkcredible Tattoos"
 url: /oldham/inkcredible-tattoos/
-shop: Tattoo
+shop: tattoo
 ---

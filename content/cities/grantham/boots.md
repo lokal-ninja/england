@@ -1,5 +1,5 @@
 ---
 title: "Boots"
 url: /grantham/boots/
-shop: Drogerie
+shop: chemist
 ---

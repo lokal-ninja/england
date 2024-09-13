@@ -1,5 +1,5 @@
 ---
 title: "Game"
 url: /portsmouth/game/
-shop: Videospiele
+shop: video games
 ---

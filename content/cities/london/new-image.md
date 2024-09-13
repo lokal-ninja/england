@@ -1,5 +1,5 @@
 ---
 title: "New Image"
 url: /london/new-image/
-shop: Friseur
+shop: hairdresser
 ---

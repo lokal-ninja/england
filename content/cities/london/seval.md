@@ -1,5 +1,5 @@
 ---
 title: "Seval"
 url: /london/seval/
-shop: Schmuck
+shop: jewelry
 ---

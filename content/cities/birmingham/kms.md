@@ -1,5 +1,5 @@
 ---
 title: "KMS"
 url: /birmingham/kms/
-shop: Autowerkstatt
+shop: car repair
 ---

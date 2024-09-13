@@ -1,5 +1,5 @@
 ---
 title: "Ugly Bread Bakery"
 url: /nottingham/ugly-bread-bakery/
-shop: Leerstehend
+shop: vacant
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mill Lane News"
 url: /billingham/mill-lane-news/
-shop: Lebensmittel
+shop: convenience
 ---

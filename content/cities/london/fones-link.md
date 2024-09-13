@@ -1,5 +1,5 @@
 ---
 title: "Fones Link"
 url: /london/fones-link/
-shop: Handy
+shop: mobile phone
 ---

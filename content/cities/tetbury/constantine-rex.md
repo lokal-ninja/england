@@ -1,5 +1,5 @@
 ---
 title: "Constantine Rex"
 url: /tetbury/constantine-rex/
-shop: Kleidung
+shop: clothes
 ---

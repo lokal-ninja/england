@@ -1,5 +1,5 @@
 ---
 title: "Kettley's Furniture Store"
 url: /leeds/kettleys-furniture-store/
-shop: Möbel
+shop: furniture
 ---

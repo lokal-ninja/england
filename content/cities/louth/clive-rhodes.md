@@ -1,5 +1,5 @@
 ---
 title: "Clive Rhodes"
 url: /louth/clive-rhodes/
-shop: Raumausstattung
+shop: interior decoration
 ---

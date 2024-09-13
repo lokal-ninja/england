@@ -1,5 +1,5 @@
 ---
 title: "Woodland Enterprises"
 url: /great-shefford/woodland-enterprises/
-shop: Allgemein
+shop: shop
 ---

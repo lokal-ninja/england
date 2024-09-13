@@ -1,5 +1,5 @@
 ---
 title: "K C Deli"
 url: /bishop-auckland/k-c-deli/
-shop: Feinkost
+shop: deli
 ---

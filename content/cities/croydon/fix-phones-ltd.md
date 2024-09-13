@@ -1,5 +1,5 @@
 ---
 title: "Fix Phones Ltd"
 url: /croydon/fix-phones-ltd/
-shop: Handy
+shop: mobile phone
 ---

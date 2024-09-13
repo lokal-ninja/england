@@ -1,5 +1,5 @@
 ---
 title: "Birkdale Kitchen Co."
 url: /southport/birkdale-kitchen-co/
-shop: Küchen
+shop: kitchen
 ---

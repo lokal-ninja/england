@@ -1,5 +1,5 @@
 ---
 title: "Gillian Thompson Hair Studio"
 url: /beverley/gillian-thompson-hair-studio/
-shop: Friseur
+shop: hairdresser
 ---

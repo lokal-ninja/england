@@ -1,5 +1,5 @@
 ---
 title: "Pitstop Tyres"
 url: /south-shields/pitstop-tyres/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sweet Treats"
 url: /otley/sweet-treats/
-shop: Süßwaren
+shop: confectionery
 ---

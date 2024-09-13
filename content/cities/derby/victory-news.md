@@ -1,5 +1,5 @@
 ---
 title: "Victory News"
 url: /derby/victory-news/
-shop: Lebensmittel
+shop: convenience
 ---

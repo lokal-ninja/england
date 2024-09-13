@@ -1,5 +1,5 @@
 ---
 title: "Lords Opticians"
 url: /cromer/lords-opticians/
-shop: Optiker
+shop: optician
 ---

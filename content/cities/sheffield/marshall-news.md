@@ -1,5 +1,5 @@
 ---
 title: "Marshall News"
 url: /sheffield/marshall-news/
-shop: Lebensmittel
+shop: convenience
 ---

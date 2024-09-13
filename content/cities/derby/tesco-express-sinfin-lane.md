@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /derby/tesco-express-sinfin-lane/
-shop: Lebensmittel
+shop: convenience
 ---

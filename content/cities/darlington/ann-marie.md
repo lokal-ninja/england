@@ -1,5 +1,5 @@
 ---
 title: "Ann Marie"
 url: /darlington/ann-marie/
-shop: Friseur
+shop: hairdresser
 ---

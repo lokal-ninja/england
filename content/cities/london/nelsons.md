@@ -1,5 +1,5 @@
 ---
 title: "Nelsons"
 url: /london/nelsons/
-shop: Immobilien
+shop: estate agent
 ---

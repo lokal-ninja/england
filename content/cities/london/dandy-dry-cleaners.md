@@ -1,5 +1,5 @@
 ---
 title: "Dandy Dry Cleaners"
 url: /london/dandy-dry-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

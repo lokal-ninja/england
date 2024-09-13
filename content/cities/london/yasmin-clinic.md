@@ -1,5 +1,5 @@
 ---
 title: "Yasmin Clinic"
 url: /london/yasmin-clinic/
-shop: Kosmetik
+shop: beauty
 ---

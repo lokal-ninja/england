@@ -1,5 +1,5 @@
 ---
 title: "Woodsies of Ringwood"
 url: /ringwood/woodsies-of-ringwood/
-shop: Kleidung
+shop: clothes
 ---

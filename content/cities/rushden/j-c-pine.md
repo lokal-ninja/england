@@ -1,5 +1,5 @@
 ---
 title: "J C Pine"
 url: /rushden/j-c-pine/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /dartford/iceland-high-street/
-shop: Tiefkühl
+shop: frozen food
 ---

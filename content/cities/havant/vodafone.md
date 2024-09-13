@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
 url: /havant/vodafone/
-shop: Handy
+shop: mobile phone
 ---

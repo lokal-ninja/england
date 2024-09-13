@@ -1,5 +1,5 @@
 ---
 title: "The Pet Shop"
 url: /swanley/the-pet-shop/
-shop: Tiere
+shop: pet
 ---

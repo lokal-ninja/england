@@ -1,5 +1,5 @@
 ---
 title: "The Honey Pot"
 url: /cheltenham/the-honey-pot/
-shop: Raumausstattung
+shop: interior decoration
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tod Almighty"
 url: /todmorden/tod-almighty/
-shop: Bioladen
+shop: health food
 ---

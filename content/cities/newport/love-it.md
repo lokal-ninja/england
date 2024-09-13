@@ -1,5 +1,5 @@
 ---
 title: "Love It"
 url: /newport/love-it/
-shop: Friseur
+shop: hairdresser
 ---

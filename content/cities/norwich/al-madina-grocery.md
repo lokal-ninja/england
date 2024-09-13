@@ -1,5 +1,5 @@
 ---
 title: "Al Madina Grocery"
 url: /norwich/al-madina-grocery/
-shop: Metzgerei
+shop: butcher
 ---

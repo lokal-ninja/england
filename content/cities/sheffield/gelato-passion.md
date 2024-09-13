@@ -1,5 +1,5 @@
 ---
 title: "Gelato Passion"
 url: /sheffield/gelato-passion/
-shop: Süßwaren
+shop: confectionery
 ---

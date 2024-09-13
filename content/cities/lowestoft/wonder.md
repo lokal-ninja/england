@@ -1,5 +1,5 @@
 ---
 title: "Wonder"
 url: /lowestoft/wonder/
-shop: Dorfladen
+shop: general
 ---

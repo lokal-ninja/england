@@ -1,5 +1,5 @@
 ---
 title: "London Decorators Market"
 url: /london/london-decorators-market/
-shop: Farben
+shop: paint
 ---

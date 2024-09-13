@@ -1,5 +1,5 @@
 ---
 title: "Grasmere Outdoors"
 url: /grasmere/grasmere-outdoors/
-shop: Outdoor
+shop: outdoor
 ---

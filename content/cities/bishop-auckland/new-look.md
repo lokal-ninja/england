@@ -1,5 +1,5 @@
 ---
 title: "New Look"
 url: /bishop-auckland/new-look/
-shop: Kleidung
+shop: clothes
 ---

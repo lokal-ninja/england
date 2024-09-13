@@ -1,5 +1,5 @@
 ---
 title: "Poundstretcher"
 url: /feltham/poundstretcher/
-shop: Kramladen
+shop: variety store
 ---

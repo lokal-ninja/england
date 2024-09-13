@@ -1,5 +1,5 @@
 ---
 title: "E Seymour and Sons"
 url: /st-albans/e-seymour-and-sons/
-shop: Bestattungen
+shop: funeral directors
 ---

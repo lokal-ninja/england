@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /birmingham/savers-church-road/
-shop: Drogerie
+shop: chemist
 ---

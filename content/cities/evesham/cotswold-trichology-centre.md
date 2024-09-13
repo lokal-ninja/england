@@ -1,5 +1,5 @@
 ---
 title: "Cotswold Trichology Centre"
 url: /evesham/cotswold-trichology-centre/
-shop: Allgemein
+shop: shop
 ---

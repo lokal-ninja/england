@@ -1,5 +1,5 @@
 ---
 title: "Harpole News"
 url: /northampton/harpole-news/
-shop: Lebensmittel
+shop: convenience
 ---

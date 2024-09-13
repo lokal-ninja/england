@@ -1,5 +1,5 @@
 ---
 title: "Mountfields Hairdressers"
 url: /taunton/mountfields-hairdressers/
-shop: Friseur
+shop: hairdresser
 ---

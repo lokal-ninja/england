@@ -1,5 +1,5 @@
 ---
 title: "Magee’s Dry Cleaners"
 url: /widnes/magees-dry-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

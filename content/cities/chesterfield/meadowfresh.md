@@ -1,5 +1,5 @@
 ---
 title: "Meadowfresh"
 url: /chesterfield/meadowfresh/
-shop: Feinkost
+shop: deli
 ---

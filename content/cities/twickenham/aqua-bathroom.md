@@ -1,5 +1,5 @@
 ---
 title: "Aqua Bathroom"
 url: /twickenham/aqua-bathroom/
-shop: Badezimmer
+shop: bathroom
 ---

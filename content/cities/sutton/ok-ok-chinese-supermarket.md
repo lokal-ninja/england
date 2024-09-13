@@ -1,5 +1,5 @@
 ---
 title: "OK OK Chinese Supermarket"
 url: /sutton/ok-ok-chinese-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

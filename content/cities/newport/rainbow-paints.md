@@ -1,5 +1,5 @@
 ---
 title: "Rainbow Paints"
 url: /newport/rainbow-paints/
-shop: Autoteile
+shop: car parts
 ---

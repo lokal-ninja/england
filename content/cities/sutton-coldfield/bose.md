@@ -1,5 +1,5 @@
 ---
 title: "Bose"
 url: /sutton-coldfield/bose/
-shop: Elektronik
+shop: electronics
 ---

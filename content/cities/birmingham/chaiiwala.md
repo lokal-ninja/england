@@ -1,5 +1,5 @@
 ---
 title: "Chaiiwala"
 url: /birmingham/chaiiwala/
-shop: Tee
+shop: tea
 ---

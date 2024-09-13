@@ -1,5 +1,5 @@
 ---
 title: "Sakala"
 url: /steyning/sakala/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Maries Florist"
 url: /bolton/maries-florist/
-shop: Blumen
+shop: florist
 ---

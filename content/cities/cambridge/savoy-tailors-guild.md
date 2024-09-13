@@ -1,5 +1,5 @@
 ---
 title: "Savoy Tailors Guild"
 url: /cambridge/savoy-tailors-guild/
-shop: Kleidung
+shop: clothes
 ---

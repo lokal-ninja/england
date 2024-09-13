@@ -1,5 +1,5 @@
 ---
 title: "Ryman"
 url: /workington/ryman/
-shop: Schreibwaren
+shop: office supplies
 ---

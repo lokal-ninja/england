@@ -1,5 +1,5 @@
 ---
 title: "Stil"
 url: /forest-row/stil/
-shop: Kleidung
+shop: clothes
 ---

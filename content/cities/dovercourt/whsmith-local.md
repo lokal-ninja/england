@@ -1,5 +1,5 @@
 ---
 title: "WHSmith Local"
 url: /dovercourt/whsmith-local/
-shop: Zeitungen
+shop: newsagent
 ---

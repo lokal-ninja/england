@@ -1,5 +1,5 @@
 ---
 title: "Simply Pleasure"
 url: /taunton/simply-pleasure/
-shop: Erotik
+shop: erotic
 ---

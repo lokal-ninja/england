@@ -1,5 +1,5 @@
 ---
 title: "Melita Stores"
 url: /aldershot/melita-stores/
-shop: Lebensmittel
+shop: convenience
 ---

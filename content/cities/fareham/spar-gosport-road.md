@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /fareham/spar-gosport-road/
-shop: Supermarkt
+shop: supermarket
 ---

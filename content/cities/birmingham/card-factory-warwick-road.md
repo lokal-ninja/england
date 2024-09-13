@@ -1,5 +1,5 @@
 ---
 title: "Card Factory"
 url: /birmingham/card-factory-warwick-road/
-shop: Andenken
+shop: gift
 ---

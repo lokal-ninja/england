@@ -1,5 +1,5 @@
 ---
 title: "Poundstretcher"
 url: /darlington/poundstretcher/
-shop: Kramladen
+shop: variety store
 ---

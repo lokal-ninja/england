@@ -1,5 +1,5 @@
 ---
 title: "Hughes"
 url: /clacton-on-sea/hughes/
-shop: Elektronik
+shop: electronics
 ---

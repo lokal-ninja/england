@@ -1,5 +1,5 @@
 ---
 title: "Today's Local"
 url: /hunmanby/todays-local/
-shop: Lebensmittel
+shop: convenience
 ---

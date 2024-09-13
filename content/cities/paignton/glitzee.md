@@ -1,5 +1,5 @@
 ---
 title: "Glitzee"
 url: /paignton/glitzee/
-shop: Friseur
+shop: hairdresser
 ---

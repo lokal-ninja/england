@@ -1,5 +1,5 @@
 ---
 title: "Cake Alchemist"
 url: /cheltenham/cake-alchemist/
-shop: Konditorei
+shop: pastry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Any IT"
 url: /ipswich/any-it/
-shop: Computer
+shop: computer
 ---

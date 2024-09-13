@@ -1,5 +1,5 @@
 ---
 title: "Torrino"
 url: /hoddesdon/torrino/
-shop: Jalousien
+shop: window blind
 ---

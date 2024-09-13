@@ -1,5 +1,5 @@
 ---
 title: "Select"
 url: /castleford/select/
-shop: Kleidung
+shop: clothes
 ---

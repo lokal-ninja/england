@@ -1,5 +1,5 @@
 ---
 title: "Dunelm"
 url: /barrow-in-furness/dunelm/
-shop: Raumausstattung
+shop: interior decoration
 ---

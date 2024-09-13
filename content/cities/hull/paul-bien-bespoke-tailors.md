@@ -1,5 +1,5 @@
 ---
 title: "Paul Bien Bespoke Tailors"
 url: /hull/paul-bien-bespoke-tailors/
-shop: Schneiderei
+shop: tailor
 ---

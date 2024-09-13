@@ -1,5 +1,5 @@
 ---
 title: "Chambers"
 url: /beccles/chambers/
-shop: Metzgerei
+shop: butcher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kims Domestic Appliances"
 url: /bristol/kims-domestic-appliances/
-shop: Staubsauger
+shop: vacuum cleaner
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Charlotte Hair Design"
 url: /church-crookham/charlotte-hair-design/
-shop: Friseur
+shop: hairdresser
 ---

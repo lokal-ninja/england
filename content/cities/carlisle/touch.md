@@ -1,5 +1,5 @@
 ---
 title: "Touch"
 url: /carlisle/touch/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Country Baskets"
 url: /wakefield/country-baskets/
-shop: Kramladen
+shop: variety store
 ---

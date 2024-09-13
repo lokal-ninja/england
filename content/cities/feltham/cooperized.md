@@ -1,5 +1,5 @@
 ---
 title: "Cooperized"
 url: /feltham/cooperized/
-shop: Motorrad
+shop: motorcycle
 ---

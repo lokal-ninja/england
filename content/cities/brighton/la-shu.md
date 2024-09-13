@@ -1,5 +1,5 @@
 ---
 title: "La Shu"
 url: /brighton/la-shu/
-shop: Schuhe
+shop: shoes
 ---

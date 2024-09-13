@@ -1,5 +1,5 @@
 ---
 title: "Smiggle"
 url: /exeter/smiggle/
-shop: Schreibwaren
+shop: office supplies
 ---

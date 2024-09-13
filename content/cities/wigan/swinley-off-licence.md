@@ -1,5 +1,5 @@
 ---
 title: "Swinley Off Licence"
 url: /wigan/swinley-off-licence/
-shop: Lebensmittel
+shop: convenience
 ---

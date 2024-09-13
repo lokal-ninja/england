@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /northallerton/asda/
-shop: Supermarkt
+shop: supermarket
 ---

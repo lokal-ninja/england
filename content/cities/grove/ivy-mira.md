@@ -1,5 +1,5 @@
 ---
 title: "Ivy Mira"
 url: /grove/ivy-mira/
-shop: Friseur
+shop: hairdresser
 ---

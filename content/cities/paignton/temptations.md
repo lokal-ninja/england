@@ -1,5 +1,5 @@
 ---
 title: "Temptations"
 url: /paignton/temptations/
-shop: Süßwaren
+shop: confectionery
 ---

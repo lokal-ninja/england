@@ -1,5 +1,5 @@
 ---
 title: "Central"
 url: /crewkerne/central/
-shop: Lebensmittel
+shop: convenience
 ---

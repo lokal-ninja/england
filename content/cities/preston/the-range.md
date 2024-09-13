@@ -1,5 +1,5 @@
 ---
 title: "The Range"
 url: /preston/the-range/
-shop: Haushaltsartikel
+shop: houseware
 ---

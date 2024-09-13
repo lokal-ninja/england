@@ -1,5 +1,5 @@
 ---
 title: "NZ Panel Craft"
 url: /london/nz-panel-craft/
-shop: Autoteile
+shop: car parts
 ---

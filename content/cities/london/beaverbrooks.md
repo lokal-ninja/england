@@ -1,5 +1,5 @@
 ---
 title: "Beaverbrooks"
 url: /london/beaverbrooks/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vittles"
 url: /morecambe/vittles/
-shop: Lebensmittel
+shop: convenience
 ---

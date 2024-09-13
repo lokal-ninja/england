@@ -1,5 +1,5 @@
 ---
 title: "Cook"
 url: /orpington/cook/
-shop: Tiefkühl
+shop: frozen food
 ---

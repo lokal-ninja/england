@@ -1,5 +1,5 @@
 ---
 title: "Hi-Q"
 url: /ilkeston/hi-q/
-shop: Autowerkstatt
+shop: car repair
 ---

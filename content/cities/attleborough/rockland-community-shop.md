@@ -1,5 +1,5 @@
 ---
 title: "Rockland Community Shop"
 url: /attleborough/rockland-community-shop/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Furniture By Lauren"
 url: /oldham/furniture-by-lauren/
-shop: Möbel
+shop: furniture
 ---

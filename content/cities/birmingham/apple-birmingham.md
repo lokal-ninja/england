@@ -1,5 +1,5 @@
 ---
 title: "Apple Birmingham"
 url: /birmingham/apple-birmingham/
-shop: Elektronik
+shop: electronics
 ---

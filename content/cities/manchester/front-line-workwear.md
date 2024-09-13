@@ -1,5 +1,5 @@
 ---
 title: "Front Line Workwear"
 url: /manchester/front-line-workwear/
-shop: Großhandel
+shop: wholesale
 ---

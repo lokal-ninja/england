@@ -1,5 +1,5 @@
 ---
 title: "Holborns"
 url: /redhill/holborns/
-shop: Lebensmittel
+shop: convenience
 ---

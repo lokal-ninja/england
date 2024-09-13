@@ -1,5 +1,5 @@
 ---
 title: "Matalan"
 url: /doncaster/matalan/
-shop: Kleidung
+shop: clothes
 ---

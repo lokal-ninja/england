@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /walmer/londis/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shirley Acupuncture"
 url: /southampton/shirley-acupuncture/
-shop: Sanitätshaus
+shop: medical supply
 ---

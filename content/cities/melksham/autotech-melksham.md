@@ -1,5 +1,5 @@
 ---
 title: "Autotech Melksham"
 url: /melksham/autotech-melksham/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Murmur"
 url: /portsmouth/murmur/
-shop: Haushaltsartikel
+shop: houseware
 ---

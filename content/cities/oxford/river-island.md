@@ -1,5 +1,5 @@
 ---
 title: "River Island"
 url: /oxford/river-island/
-shop: Kleidung
+shop: clothes
 ---

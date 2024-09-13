@@ -1,5 +1,5 @@
 ---
 title: "Leaf and Groove"
 url: /london/leaf-and-groove/
-shop: Bücher
+shop: books
 ---

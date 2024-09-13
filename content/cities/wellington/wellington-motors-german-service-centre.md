@@ -1,5 +1,5 @@
 ---
 title: "Wellington Motors German Service Centre"
 url: /wellington/wellington-motors-german-service-centre/
-shop: Autowerkstatt
+shop: car repair
 ---

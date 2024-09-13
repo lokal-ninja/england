@@ -1,5 +1,5 @@
 ---
 title: "Scallywags"
 url: /twickenham/scallywags/
-shop: Friseur
+shop: hairdresser
 ---

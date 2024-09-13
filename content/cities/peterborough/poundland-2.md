@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /peterborough/poundland-2/
-shop: Supermarkt
+shop: supermarket
 ---

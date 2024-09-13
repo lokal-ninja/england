@@ -1,5 +1,5 @@
 ---
 title: "Flix"
 url: /east-cowes/flix/
-shop: Friseur
+shop: hairdresser
 ---

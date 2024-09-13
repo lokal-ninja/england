@@ -1,5 +1,5 @@
 ---
 title: "Dunelm"
 url: /altrincham/dunelm/
-shop: Raumausstattung
+shop: interior decoration
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Plumbline Bathrooms"
 url: /nottingham/plumbline-bathrooms/
-shop: Badezimmer
+shop: bathroom
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tropical Tanning"
 url: /beccles/tropical-tanning/
-shop: Kosmetik
+shop: beauty
 ---

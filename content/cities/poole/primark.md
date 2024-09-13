@@ -1,5 +1,5 @@
 ---
 title: "Primark"
 url: /poole/primark/
-shop: Kleidung
+shop: clothes
 ---

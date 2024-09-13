@@ -1,5 +1,5 @@
 ---
 title: "Sam's Barbers"
 url: /huddersfield/sams-barbers/
-shop: Friseur
+shop: hairdresser
 ---

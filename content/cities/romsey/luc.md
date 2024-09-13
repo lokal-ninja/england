@@ -1,5 +1,5 @@
 ---
 title: "Luc"
 url: /romsey/luc/
-shop: Feinkost
+shop: deli
 ---

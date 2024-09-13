@@ -1,5 +1,5 @@
 ---
 title: "The Glow Touch"
 url: /cirencester/the-glow-touch/
-shop: Kosmetik
+shop: beauty
 ---

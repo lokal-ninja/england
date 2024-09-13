@@ -1,5 +1,5 @@
 ---
 title: "Denby"
 url: /street/denby/
-shop: Möbel
+shop: furniture
 ---

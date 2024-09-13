@@ -1,5 +1,5 @@
 ---
 title: "Bann"
 url: /weymouth/bann/
-shop: Andenken
+shop: gift
 ---

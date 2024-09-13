@@ -1,5 +1,5 @@
 ---
 title: "Stamford Hearing Centre"
 url: /stamford/stamford-hearing-centre/
-shop: Hörgeräte
+shop: hearing aids
 ---

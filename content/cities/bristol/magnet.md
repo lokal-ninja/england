@@ -1,5 +1,5 @@
 ---
 title: "Magnet"
 url: /bristol/magnet/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Richard Gill"
 url: /downham-market/richard-gill/
-shop: Metzgerei
+shop: butcher
 ---

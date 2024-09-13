@@ -1,5 +1,5 @@
 ---
 title: "Budgens"
 url: /horsham/budgens/
-shop: Lebensmittel
+shop: convenience
 ---

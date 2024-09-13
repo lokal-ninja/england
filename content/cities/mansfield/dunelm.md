@@ -1,5 +1,5 @@
 ---
 title: "Dunelm"
 url: /mansfield/dunelm/
-shop: Raumausstattung
+shop: interior decoration
 ---

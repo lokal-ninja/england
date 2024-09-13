@@ -1,5 +1,5 @@
 ---
 title: "Chilly Billy"
 url: /birmingham/chilly-billy/
-shop: Lebensmittel
+shop: convenience
 ---

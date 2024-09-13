@@ -1,5 +1,5 @@
 ---
 title: "Currys"
 url: /southampton/currys-west-quay-retail-park/
-shop: Elektronik
+shop: electronics
 ---

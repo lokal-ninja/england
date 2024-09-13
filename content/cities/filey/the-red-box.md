@@ -1,5 +1,5 @@
 ---
 title: "The Red Box"
 url: /filey/the-red-box/
-shop: Andenken
+shop: gift
 ---

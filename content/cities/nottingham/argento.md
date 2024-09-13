@@ -1,5 +1,5 @@
 ---
 title: "Argento"
 url: /nottingham/argento/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Unia Opticians"
 url: /london/unia-opticians/
-shop: Optiker
+shop: optician
 ---

@@ -1,5 +1,5 @@
 ---
 title: "art8"
 url: /london/art8/
-shop: Friseur
+shop: hairdresser
 ---

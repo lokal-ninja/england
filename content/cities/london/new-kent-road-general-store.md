@@ -1,5 +1,5 @@
 ---
 title: "New Kent Road General Store"
 url: /london/new-kent-road-general-store/
-shop: Lebensmittel
+shop: convenience
 ---

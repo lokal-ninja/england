@@ -1,5 +1,5 @@
 ---
 title: "Bayan"
 url: /portsmouth/bayan/
-shop: Lebensmittel
+shop: convenience
 ---

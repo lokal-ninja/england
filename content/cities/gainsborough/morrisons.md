@@ -1,5 +1,5 @@
 ---
 title: "Morrisons"
 url: /gainsborough/morrisons/
-shop: Supermarkt
+shop: supermarket
 ---

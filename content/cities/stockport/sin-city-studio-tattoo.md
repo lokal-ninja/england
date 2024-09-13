@@ -1,5 +1,5 @@
 ---
 title: "Sin City Studio Tattoo"
 url: /stockport/sin-city-studio-tattoo/
-shop: Tattoo
+shop: tattoo
 ---

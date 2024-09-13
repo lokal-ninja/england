@@ -1,5 +1,5 @@
 ---
 title: "Male Territory"
 url: /dorking/male-territory/
-shop: Friseur
+shop: hairdresser
 ---

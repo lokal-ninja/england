@@ -1,5 +1,5 @@
 ---
 title: "Bubbles"
 url: /leeds/bubbles/
-shop: Wäscherei
+shop: laundry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Triumph Nuts"
 url: /frodsham/triumph-nuts/
-shop: Autowerkstatt
+shop: car repair
 ---

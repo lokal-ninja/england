@@ -1,5 +1,5 @@
 ---
 title: "Oxfam"
 url: /esher/oxfam/
-shop: Gebrauchtwaren
+shop: charity
 ---

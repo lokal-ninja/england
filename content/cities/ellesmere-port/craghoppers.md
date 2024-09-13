@@ -1,5 +1,5 @@
 ---
 title: "Craghoppers"
 url: /ellesmere-port/craghoppers/
-shop: Kleidung
+shop: clothes
 ---

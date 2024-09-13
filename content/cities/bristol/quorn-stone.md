@@ -1,5 +1,5 @@
 ---
 title: "Quorn Stone"
 url: /bristol/quorn-stone/
-shop: Raumausstattung
+shop: interior decoration
 ---

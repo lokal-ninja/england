@@ -1,5 +1,5 @@
 ---
 title: "Firwood Supplies"
 url: /blackpool/firwood-supplies/
-shop: Baustoffe
+shop: trade
 ---

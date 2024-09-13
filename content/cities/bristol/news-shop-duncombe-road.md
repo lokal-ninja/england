@@ -1,5 +1,5 @@
 ---
 title: "news shop"
 url: /bristol/news-shop-duncombe-road/
-shop: Zeitungen
+shop: newsagent
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Three."
 url: /st-austell/three/
-shop: Handy
+shop: mobile phone
 ---

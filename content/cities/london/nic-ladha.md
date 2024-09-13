@@ -1,5 +1,5 @@
 ---
 title: "Nic Ladha"
 url: /london/nic-ladha/
-shop: Friseur
+shop: hairdresser
 ---

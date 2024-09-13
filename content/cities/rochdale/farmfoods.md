@@ -1,5 +1,5 @@
 ---
 title: "Farmfoods"
 url: /rochdale/farmfoods/
-shop: Tiefkühl
+shop: frozen food
 ---

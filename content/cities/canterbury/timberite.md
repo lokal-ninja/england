@@ -1,5 +1,5 @@
 ---
 title: "Timberite"
 url: /canterbury/timberite/
-shop: Baustoffe
+shop: trade
 ---

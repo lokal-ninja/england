@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /southampton/ladbrokes-pound-tree-road/
-shop: Wettbüro
+shop: bookmaker
 ---

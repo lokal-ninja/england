@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /ilchester/costcutter/
-shop: Lebensmittel
+shop: convenience
 ---

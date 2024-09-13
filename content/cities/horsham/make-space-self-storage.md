@@ -1,5 +1,5 @@
 ---
 title: "Make Space Self Storage"
 url: /horsham/make-space-self-storage/
-shop: Mieten
+shop: storage rental
 ---

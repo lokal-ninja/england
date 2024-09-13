@@ -1,5 +1,5 @@
 ---
 title: "Paperchase"
 url: /solihull/paperchase/
-shop: Schreibwaren
+shop: office supplies
 ---

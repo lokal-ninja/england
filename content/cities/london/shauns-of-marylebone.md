@@ -1,5 +1,5 @@
 ---
 title: "Shaun's of Marylebone"
 url: /london/shauns-of-marylebone/
-shop: Friseur
+shop: hairdresser
 ---

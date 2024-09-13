@@ -1,5 +1,5 @@
 ---
 title: "Glamour Style"
 url: /london/glamour-style/
-shop: Friseur
+shop: hairdresser
 ---

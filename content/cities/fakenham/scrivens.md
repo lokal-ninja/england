@@ -1,5 +1,5 @@
 ---
 title: "Scrivens"
 url: /fakenham/scrivens/
-shop: Optiker
+shop: optician
 ---

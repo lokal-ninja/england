@@ -1,5 +1,5 @@
 ---
 title: "Wonderland"
 url: /jaywick/wonderland/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /boothstown-worsley/costcutter/
-shop: Lebensmittel
+shop: convenience
 ---

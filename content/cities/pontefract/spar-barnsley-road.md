@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /pontefract/spar-barnsley-road/
-shop: Lebensmittel
+shop: convenience
 ---

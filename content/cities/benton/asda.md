@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /benton/asda/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Endford Garage"
 url: /shebbear/endford-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

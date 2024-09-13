@@ -1,5 +1,5 @@
 ---
 title: "Digital Services"
 url: /sutton/digital-services/
-shop: Elektronik
+shop: electronics
 ---

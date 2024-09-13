@@ -1,5 +1,5 @@
 ---
 title: "Bad Wolf"
 url: /hull/bad-wolf/
-shop: Spiele
+shop: games
 ---

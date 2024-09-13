@@ -1,5 +1,5 @@
 ---
 title: "Humes Avenue Garage"
 url: /london/humes-avenue-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

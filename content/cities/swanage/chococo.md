@@ -1,5 +1,5 @@
 ---
 title: "Chococo"
 url: /swanage/chococo/
-shop: Süßwaren
+shop: confectionery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lushlocks"
 url: /wigan/lushlocks/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hydropool"
 url: /east-grinstead/hydropool/
-shop: Pool
+shop: swimming pool
 ---

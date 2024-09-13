@@ -1,5 +1,5 @@
 ---
 title: "Argento"
 url: /plymouth/argento/
-shop: Schmuck
+shop: jewelry
 ---

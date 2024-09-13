@@ -1,5 +1,5 @@
 ---
 title: "Kids Around"
 url: /london/kids-around/
-shop: Kleidung
+shop: clothes
 ---

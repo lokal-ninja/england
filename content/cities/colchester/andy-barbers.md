@@ -1,5 +1,5 @@
 ---
 title: "Andy Barbers"
 url: /colchester/andy-barbers/
-shop: Friseur
+shop: hairdresser
 ---

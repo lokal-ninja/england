@@ -1,5 +1,5 @@
 ---
 title: "ScS"
 url: /warrington/scs/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nisa Local"
 url: /wigan/nisa-local/
-shop: Lebensmittel
+shop: convenience
 ---

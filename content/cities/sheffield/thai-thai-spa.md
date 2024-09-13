@@ -1,5 +1,5 @@
 ---
 title: "Thai Thai Spa"
 url: /sheffield/thai-thai-spa/
-shop: Massage
+shop: massage
 ---

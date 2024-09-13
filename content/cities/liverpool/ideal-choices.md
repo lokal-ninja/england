@@ -1,5 +1,5 @@
 ---
 title: "Ideal Choices"
 url: /liverpool/ideal-choices/
-shop: Lebensmittel
+shop: convenience
 ---

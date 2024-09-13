@@ -1,5 +1,5 @@
 ---
 title: "Dooleys"
 url: /york/dooleys/
-shop: Lebensmittel
+shop: convenience
 ---

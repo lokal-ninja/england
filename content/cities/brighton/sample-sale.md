@@ -1,5 +1,5 @@
 ---
 title: "sample sale"
 url: /brighton/sample-sale/
-shop: Kleidung
+shop: clothes
 ---

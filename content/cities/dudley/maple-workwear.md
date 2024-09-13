@@ -1,5 +1,5 @@
 ---
 title: "Maple Workwear"
 url: /dudley/maple-workwear/
-shop: Kleidung
+shop: clothes
 ---

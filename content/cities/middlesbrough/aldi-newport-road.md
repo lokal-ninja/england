@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /middlesbrough/aldi-newport-road/
-shop: Supermarkt
+shop: supermarket
 ---

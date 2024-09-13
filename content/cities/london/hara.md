@@ -1,5 +1,5 @@
 ---
 title: "Hara"
 url: /london/hara/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

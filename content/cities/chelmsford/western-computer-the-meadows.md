@@ -1,5 +1,5 @@
 ---
 title: "Western Computer"
 url: /chelmsford/western-computer-the-meadows/
-shop: Computer
+shop: computer
 ---

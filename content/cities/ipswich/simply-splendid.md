@@ -1,5 +1,5 @@
 ---
 title: "Simply Splendid"
 url: /ipswich/simply-splendid/
-shop: Kleidung
+shop: clothes
 ---

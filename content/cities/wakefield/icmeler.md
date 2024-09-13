@@ -1,5 +1,5 @@
 ---
 title: "Icmeler"
 url: /wakefield/icmeler/
-shop: Leerstehend
+shop: vacant
 ---

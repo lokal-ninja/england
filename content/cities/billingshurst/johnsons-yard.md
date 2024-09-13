@@ -1,5 +1,5 @@
 ---
 title: "Johnson's Yard"
 url: /billingshurst/johnsons-yard/
-shop: Allgemein
+shop: shop
 ---

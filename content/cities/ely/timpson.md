@@ -1,5 +1,5 @@
 ---
 title: "Timpson"
 url: /ely/timpson/
-shop: Schlüsseldienst
+shop: locksmith
 ---

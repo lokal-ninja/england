@@ -1,5 +1,5 @@
 ---
 title: "Morrisons Daily"
 url: /leeds/morrisons-daily-south-parkway/
-shop: Lebensmittel
+shop: convenience
 ---

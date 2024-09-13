@@ -1,5 +1,5 @@
 ---
 title: "Sainsbury's Local"
 url: /hartlepool/sainsburys-local-station-lane/
-shop: Lebensmittel
+shop: convenience
 ---

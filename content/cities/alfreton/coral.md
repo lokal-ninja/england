@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /alfreton/coral/
-shop: Wettbüro
+shop: bookmaker
 ---

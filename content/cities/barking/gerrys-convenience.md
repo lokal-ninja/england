@@ -1,5 +1,5 @@
 ---
 title: "Gerry's Convenience"
 url: /barking/gerrys-convenience/
-shop: Lebensmittel
+shop: convenience
 ---

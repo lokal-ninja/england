@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /carshalton/costcutter/
-shop: Lebensmittel
+shop: convenience
 ---

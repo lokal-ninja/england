@@ -1,5 +1,5 @@
 ---
 title: "Meat Inn"
 url: /luton/meat-inn/
-shop: Metzgerei
+shop: butcher
 ---

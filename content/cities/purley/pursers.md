@@ -1,5 +1,5 @@
 ---
 title: "Pursers"
 url: /purley/pursers/
-shop: Optiker
+shop: optician
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /ilford/tesco-express/
-shop: Lebensmittel
+shop: convenience
 ---

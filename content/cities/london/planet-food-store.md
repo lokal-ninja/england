@@ -1,5 +1,5 @@
 ---
 title: "Planet Food Store"
 url: /london/planet-food-store/
-shop: Lebensmittel
+shop: convenience
 ---

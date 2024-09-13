@@ -1,5 +1,5 @@
 ---
 title: "Base"
 url: /london/base/
-shop: Immobilien
+shop: estate agent
 ---

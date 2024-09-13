@@ -1,5 +1,5 @@
 ---
 title: "Boots"
 url: /chelmsford/boots-chelmer-village-way/
-shop: Drogerie
+shop: chemist
 ---

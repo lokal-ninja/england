@@ -1,5 +1,5 @@
 ---
 title: "DIY"
 url: /gateshead/diy/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Euro Car Parts"
 url: /lincoln/euro-car-parts/
-shop: Autoteile
+shop: car parts
 ---

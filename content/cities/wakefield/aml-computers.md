@@ -1,5 +1,5 @@
 ---
 title: "AML Computers"
 url: /wakefield/aml-computers/
-shop: Computer
+shop: computer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Norwich Food Centre"
 url: /norwich/norwich-food-centre/
-shop: Lebensmittel
+shop: convenience
 ---

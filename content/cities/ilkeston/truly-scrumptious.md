@@ -1,5 +1,5 @@
 ---
 title: "Truly Scrumptious"
 url: /ilkeston/truly-scrumptious/
-shop: Feinkost
+shop: deli
 ---

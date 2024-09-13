@@ -1,5 +1,5 @@
 ---
 title: "Barnado's"
 url: /darlington/barnados/
-shop: Gebrauchtwaren
+shop: charity
 ---

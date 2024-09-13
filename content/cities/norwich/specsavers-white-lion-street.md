@@ -1,5 +1,5 @@
 ---
 title: "Specsavers"
 url: /norwich/specsavers-white-lion-street/
-shop: Optiker
+shop: optician
 ---

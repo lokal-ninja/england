@@ -1,5 +1,5 @@
 ---
 title: "Mushkoor Foods"
 url: /luton/mushkoor-foods/
-shop: Lebensmittel
+shop: convenience
 ---

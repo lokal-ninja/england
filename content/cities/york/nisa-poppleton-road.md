@@ -1,5 +1,5 @@
 ---
 title: "Nisa"
 url: /york/nisa-poppleton-road/
-shop: Lebensmittel
+shop: convenience
 ---

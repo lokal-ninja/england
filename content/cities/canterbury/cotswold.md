@@ -1,5 +1,5 @@
 ---
 title: "Cotswold"
 url: /canterbury/cotswold/
-shop: Möbel
+shop: furniture
 ---

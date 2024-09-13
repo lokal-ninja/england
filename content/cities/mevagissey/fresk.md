@@ -1,5 +1,5 @@
 ---
 title: "Fresk"
 url: /mevagissey/fresk/
-shop: Allgemein
+shop: shop
 ---

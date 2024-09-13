@@ -1,5 +1,5 @@
 ---
 title: "iMobile"
 url: /cambridge/imobile/
-shop: Handy
+shop: mobile phone
 ---

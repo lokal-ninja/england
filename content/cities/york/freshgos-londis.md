@@ -1,5 +1,5 @@
 ---
 title: "Freshgo's Londis"
 url: /york/freshgos-londis/
-shop: Lebensmittel
+shop: convenience
 ---

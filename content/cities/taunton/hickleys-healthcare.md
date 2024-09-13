@@ -1,5 +1,5 @@
 ---
 title: "Hickleys Healthcare"
 url: /taunton/hickleys-healthcare/
-shop: Sanitätshaus
+shop: medical supply
 ---

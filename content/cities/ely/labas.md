@@ -1,5 +1,5 @@
 ---
 title: "Labas"
 url: /ely/labas/
-shop: Lebensmittel
+shop: convenience
 ---

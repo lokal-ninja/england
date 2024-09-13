@@ -1,5 +1,5 @@
 ---
 title: "Jockey News"
 url: /sutton-coldfield/jockey-news/
-shop: Lebensmittel
+shop: convenience
 ---

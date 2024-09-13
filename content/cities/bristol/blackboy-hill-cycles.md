@@ -1,5 +1,5 @@
 ---
 title: "Blackboy Hill Cycles"
 url: /bristol/blackboy-hill-cycles/
-shop: Fahrrad
+shop: bicycle
 ---

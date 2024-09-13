@@ -1,5 +1,5 @@
 ---
 title: "Warren James"
 url: /portsmouth/warren-james/
-shop: Schmuck
+shop: jewelry
 ---

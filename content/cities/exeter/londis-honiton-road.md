@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /exeter/londis-honiton-road/
-shop: Lebensmittel
+shop: convenience
 ---

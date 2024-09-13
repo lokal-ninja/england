@@ -1,5 +1,5 @@
 ---
 title: "The Flowersmith"
 url: /london/the-flowersmith/
-shop: Blumen
+shop: florist
 ---

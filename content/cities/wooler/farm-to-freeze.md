@@ -1,5 +1,5 @@
 ---
 title: "Farm to Freeze"
 url: /wooler/farm-to-freeze/
-shop: Metzgerei
+shop: butcher
 ---

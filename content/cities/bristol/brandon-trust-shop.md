@@ -1,5 +1,5 @@
 ---
 title: "Brandon Trust Shop"
 url: /bristol/brandon-trust-shop/
-shop: Gebrauchtwaren
+shop: charity
 ---

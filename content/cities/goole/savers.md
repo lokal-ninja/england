@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /goole/savers/
-shop: Drogerie
+shop: chemist
 ---

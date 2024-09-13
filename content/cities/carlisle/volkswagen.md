@@ -1,5 +1,5 @@
 ---
 title: "Volkswagen"
 url: /carlisle/volkswagen/
-shop: Autohaus
+shop: car
 ---

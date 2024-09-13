@@ -1,5 +1,5 @@
 ---
 title: "Morrisons Daily"
 url: /jaywick/morrisons-daily/
-shop: Lebensmittel
+shop: convenience
 ---

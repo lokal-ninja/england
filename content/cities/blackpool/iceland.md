@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /blackpool/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cresswell Ices"
 url: /cresswell/cresswell-ices/
-shop: Eisprodukte
+shop: ice cream
 ---

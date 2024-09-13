@@ -1,5 +1,5 @@
 ---
 title: "Luv2Iron"
 url: /huddersfield/luv2iron/
-shop: Wäscherei
+shop: laundry
 ---

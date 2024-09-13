@@ -1,5 +1,5 @@
 ---
 title: "Rosemary Fashions"
 url: /colchester/rosemary-fashions/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Warhammer"
 url: /wakefield/warhammer/
-shop: Spielzeug
+shop: toys
 ---

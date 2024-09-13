@@ -1,5 +1,5 @@
 ---
 title: "One Stop"
 url: /boston/one-stop/
-shop: Lebensmittel
+shop: convenience
 ---

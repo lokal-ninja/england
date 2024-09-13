@@ -1,5 +1,5 @@
 ---
 title: "Noble and Wylie"
 url: /sheffield/noble-and-wylie/
-shop: Schuhe
+shop: shoes
 ---

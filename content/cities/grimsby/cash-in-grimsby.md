@@ -1,5 +1,5 @@
 ---
 title: "Cash-In Grimsby"
 url: /grimsby/cash-in-grimsby/
-shop: Leiher
+shop: pawnbroker
 ---

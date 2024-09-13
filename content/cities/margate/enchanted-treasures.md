@@ -1,5 +1,5 @@
 ---
 title: "Enchanted Treasures"
 url: /margate/enchanted-treasures/
-shop: Andenken
+shop: gift
 ---

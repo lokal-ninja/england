@@ -1,5 +1,5 @@
 ---
 title: "Hoppers of Watergate"
 url: /grantham/hoppers-of-watergate/
-shop: Schmuck
+shop: jewelry
 ---

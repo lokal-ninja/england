@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /brackley/tesco/
-shop: Supermarkt
+shop: supermarket
 ---

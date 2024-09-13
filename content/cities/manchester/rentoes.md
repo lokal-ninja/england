@@ -1,5 +1,5 @@
 ---
 title: "Rentoes"
 url: /manchester/rentoes/
-shop: Großhandel
+shop: wholesale
 ---

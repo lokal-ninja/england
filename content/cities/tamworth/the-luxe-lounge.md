@@ -1,5 +1,5 @@
 ---
 title: "The Luxe Lounge"
 url: /tamworth/the-luxe-lounge/
-shop: Kosmetik
+shop: beauty
 ---

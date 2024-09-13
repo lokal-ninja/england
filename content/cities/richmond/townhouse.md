@@ -1,5 +1,5 @@
 ---
 title: "Townhouse"
 url: /richmond/townhouse/
-shop: Kosmetik
+shop: beauty
 ---

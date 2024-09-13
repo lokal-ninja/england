@@ -1,5 +1,5 @@
 ---
 title: "Thomas's"
 url: /pelaw/thomass/
-shop: Friseur
+shop: hairdresser
 ---

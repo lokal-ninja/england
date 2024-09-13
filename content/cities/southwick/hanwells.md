@@ -1,5 +1,5 @@
 ---
 title: "Hanwells"
 url: /southwick/hanwells/
-shop: Dorfladen
+shop: general
 ---

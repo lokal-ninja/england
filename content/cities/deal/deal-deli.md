@@ -1,5 +1,5 @@
 ---
 title: "Deal Deli"
 url: /deal/deal-deli/
-shop: Feinkost
+shop: deli
 ---

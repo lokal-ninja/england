@@ -1,5 +1,5 @@
 ---
 title: "House of Manes"
 url: /cheltenham/house-of-manes/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Unistat Limited"
 url: /ilford/unistat-limited/
-shop: Schneiderei
+shop: tailor
 ---

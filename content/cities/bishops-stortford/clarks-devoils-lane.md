@@ -1,5 +1,5 @@
 ---
 title: "Clarks"
 url: /bishops-stortford/clarks-devoils-lane/
-shop: Schuhe
+shop: shoes
 ---

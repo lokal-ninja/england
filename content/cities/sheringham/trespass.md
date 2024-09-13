@@ -1,5 +1,5 @@
 ---
 title: "Trespass"
 url: /sheringham/trespass/
-shop: Outdoor
+shop: outdoor
 ---

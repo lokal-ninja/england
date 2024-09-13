@@ -1,5 +1,5 @@
 ---
-title: "Sida Chinese Supermarket"
+title: "SIDA - Chinese Supermarket"
 url: /liverpool/sida-chinese-supermarket/
-shop: Supermarkt
+shop: convenience
 ---

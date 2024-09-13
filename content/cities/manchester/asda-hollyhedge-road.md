@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /manchester/asda-hollyhedge-road/
-shop: Supermarkt
+shop: supermarket
 ---

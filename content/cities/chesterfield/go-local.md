@@ -1,5 +1,5 @@
 ---
 title: "Go Local"
 url: /chesterfield/go-local/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Broadway Stores"
 url: /exeter/broadway-stores/
-shop: Lebensmittel
+shop: convenience
 ---

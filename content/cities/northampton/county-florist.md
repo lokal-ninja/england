@@ -1,5 +1,5 @@
 ---
 title: "County Florist"
 url: /northampton/county-florist/
-shop: Blumen
+shop: florist
 ---

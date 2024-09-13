@@ -1,5 +1,5 @@
 ---
 title: "Poundstretcher"
 url: /peterborough/poundstretcher/
-shop: Kramladen
+shop: variety store
 ---

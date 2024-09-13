@@ -1,5 +1,5 @@
 ---
 title: "Millets"
 url: /dorking/millets/
-shop: Outdoor
+shop: outdoor
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /manchester/asda-reddish-lane/
-shop: Supermarkt
+shop: supermarket
 ---

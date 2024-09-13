@@ -1,5 +1,5 @@
 ---
 title: "Arbury Peugeot"
 url: /bromsgrove/arbury-peugeot/
-shop: Autohaus
+shop: car
 ---

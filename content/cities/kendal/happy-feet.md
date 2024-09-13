@@ -1,5 +1,5 @@
 ---
 title: "Happy Feet"
 url: /kendal/happy-feet/
-shop: Schuhe
+shop: shoes
 ---

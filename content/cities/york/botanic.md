@@ -1,5 +1,5 @@
 ---
 title: "Botanic"
 url: /york/botanic/
-shop: Garten-Center
+shop: garden centre
 ---

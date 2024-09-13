@@ -1,5 +1,5 @@
 ---
 title: "Tillius"
 url: /winchester/tillius/
-shop: Raumausstattung
+shop: interior decoration
 ---

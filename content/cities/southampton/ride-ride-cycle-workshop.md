@@ -1,5 +1,5 @@
 ---
 title: "Ride Ride Cycle Workshop"
 url: /southampton/ride-ride-cycle-workshop/
-shop: Fahrrad
+shop: bicycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Simon Boyd Interiors"
 url: /chester/simon-boyd-interiors/
-shop: Raumausstattung
+shop: interior decoration
 ---

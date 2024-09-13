@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /andover/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

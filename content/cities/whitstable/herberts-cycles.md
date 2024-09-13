@@ -1,5 +1,5 @@
 ---
 title: "Herberts Cycles"
 url: /whitstable/herberts-cycles/
-shop: Fahrrad
+shop: bicycle
 ---

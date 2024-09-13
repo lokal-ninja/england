@@ -1,5 +1,5 @@
 ---
 title: "The Phone Surgery"
 url: /brighton/the-phone-surgery/
-shop: Handy
+shop: mobile phone
 ---

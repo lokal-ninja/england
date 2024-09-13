@@ -1,5 +1,5 @@
 ---
 title: "Preston Nursery"
 url: /canterbury/preston-nursery/
-shop: Garten-Center
+shop: garden centre
 ---

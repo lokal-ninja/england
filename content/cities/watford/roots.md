@@ -1,5 +1,5 @@
 ---
 title: "Roots"
 url: /watford/roots/
-shop: Friseur
+shop: hairdresser
 ---

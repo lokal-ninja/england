@@ -1,5 +1,5 @@
 ---
 title: "EG Home Decor"
 url: /liverpool/eg-home-decor/
-shop: Raumausstattung
+shop: interior decoration
 ---

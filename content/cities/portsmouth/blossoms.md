@@ -1,5 +1,5 @@
 ---
 title: "Blossoms"
 url: /portsmouth/blossoms/
-shop: Kosmetik
+shop: beauty
 ---

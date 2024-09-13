@@ -1,5 +1,5 @@
 ---
 title: "Tower Systems"
 url: /london/tower-systems/
-shop: Möbel
+shop: furniture
 ---

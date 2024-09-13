@@ -1,5 +1,5 @@
 ---
 title: "Ice Cream Emporium"
 url: /southsea/ice-cream-emporium/
-shop: Eisprodukte
+shop: ice cream
 ---

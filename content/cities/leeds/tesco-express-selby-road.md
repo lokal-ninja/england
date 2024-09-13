@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /leeds/tesco-express-selby-road/
-shop: Lebensmittel
+shop: convenience
 ---

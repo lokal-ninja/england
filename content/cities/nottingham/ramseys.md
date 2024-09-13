@@ -1,5 +1,5 @@
 ---
 title: "Ramsey's"
 url: /nottingham/ramseys/
-shop: Allgemein
+shop: shop
 ---

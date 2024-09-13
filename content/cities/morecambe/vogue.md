@@ -1,5 +1,5 @@
 ---
 title: "Vogue"
 url: /morecambe/vogue/
-shop: Friseur
+shop: hairdresser
 ---

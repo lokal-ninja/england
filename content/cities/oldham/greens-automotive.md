@@ -1,5 +1,5 @@
 ---
 title: "Green's Automotive"
 url: /oldham/greens-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

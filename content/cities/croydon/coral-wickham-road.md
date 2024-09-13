@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /croydon/coral-wickham-road/
-shop: Wettbüro
+shop: bookmaker
 ---

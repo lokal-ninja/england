@@ -1,5 +1,5 @@
 ---
 title: "Kutchenhaus"
 url: /bishops-stortford/kutchenhaus/
-shop: Küchen
+shop: kitchen
 ---

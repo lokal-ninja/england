@@ -1,5 +1,5 @@
 ---
 title: "Al-Murad Tiles"
 url: /oldham/al-murad-tiles/
-shop: Fliesen
+shop: tiles
 ---

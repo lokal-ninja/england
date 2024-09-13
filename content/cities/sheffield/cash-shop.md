@@ -1,5 +1,5 @@
 ---
 title: "Cash Shop"
 url: /sheffield/cash-shop/
-shop: Leiher
+shop: pawnbroker
 ---

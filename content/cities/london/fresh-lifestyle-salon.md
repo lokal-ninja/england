@@ -1,5 +1,5 @@
 ---
 title: "Fresh Lifestyle Salon"
 url: /london/fresh-lifestyle-salon/
-shop: Kosmetik
+shop: beauty
 ---

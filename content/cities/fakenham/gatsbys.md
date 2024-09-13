@@ -1,5 +1,5 @@
 ---
 title: "Gatsby's"
 url: /fakenham/gatsbys/
-shop: Friseur
+shop: hairdresser
 ---

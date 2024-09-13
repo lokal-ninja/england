@@ -1,5 +1,5 @@
 ---
 title: "Dobbies"
 url: /shenstone-lichfield/dobbies/
-shop: Garten-Center
+shop: garden centre
 ---

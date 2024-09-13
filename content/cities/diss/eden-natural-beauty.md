@@ -1,5 +1,5 @@
 ---
 title: "Eden Natural Beauty"
 url: /diss/eden-natural-beauty/
-shop: Kosmetik
+shop: beauty
 ---

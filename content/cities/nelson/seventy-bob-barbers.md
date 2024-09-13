@@ -1,5 +1,5 @@
 ---
 title: "Seventy Bob Barbers"
 url: /nelson/seventy-bob-barbers/
-shop: Friseur
+shop: hairdresser
 ---

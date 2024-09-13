@@ -1,5 +1,5 @@
 ---
 title: "Sawtry Motors"
 url: /huntingdon/sawtry-motors/
-shop: Autohaus
+shop: car
 ---

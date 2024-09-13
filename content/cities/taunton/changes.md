@@ -1,5 +1,5 @@
 ---
 title: "Changes"
 url: /taunton/changes/
-shop: Friseur
+shop: hairdresser
 ---

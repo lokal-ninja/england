@@ -1,5 +1,5 @@
 ---
 title: "Mystique"
 url: /shrewsbury/mystique/
-shop: Kleidung
+shop: clothes
 ---

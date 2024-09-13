@@ -1,5 +1,5 @@
 ---
 title: "Chisholm"
 url: /bishop-auckland/chisholm/
-shop: Wettbüro
+shop: bookmaker
 ---

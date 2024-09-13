@@ -1,5 +1,5 @@
 ---
 title: "Lovisa"
 url: /london/lovisa-2/
-shop: Allgemein
+shop: shop
 ---

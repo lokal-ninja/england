@@ -1,5 +1,5 @@
 ---
 title: "O2"
 url: /london/o2-strand/
-shop: Handy
+shop: mobile phone
 ---

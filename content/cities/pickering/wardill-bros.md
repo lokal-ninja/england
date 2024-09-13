@@ -1,5 +1,5 @@
 ---
 title: "Wardill Bros"
 url: /pickering/wardill-bros/
-shop: Lebensmittel
+shop: convenience
 ---

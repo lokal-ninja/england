@@ -1,5 +1,5 @@
 ---
 title: "Thomson"
 url: /leyland/thomson/
-shop: Reisebüro
+shop: travel agency
 ---

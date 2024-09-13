@@ -1,5 +1,5 @@
 ---
 title: "Rickerby"
 url: /warton/rickerby/
-shop: Landwirtschaftlich
+shop: agrarian
 ---

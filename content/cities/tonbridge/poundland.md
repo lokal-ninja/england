@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /tonbridge/poundland/
-shop: Kramladen
+shop: variety store
 ---

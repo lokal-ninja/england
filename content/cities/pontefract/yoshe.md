@@ -1,5 +1,5 @@
 ---
 title: "Yoshe"
 url: /pontefract/yoshe/
-shop: Kosmetik
+shop: beauty
 ---

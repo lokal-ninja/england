@@ -1,5 +1,5 @@
 ---
 title: "ZARR Design Tattoo Studio"
 url: /shrewsbury/zarr-design-tattoo-studio/
-shop: Tattoo
+shop: tattoo
 ---

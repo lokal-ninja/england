@@ -1,5 +1,5 @@
 ---
 title: "Spot Auto Engineering"
 url: /derby/spot-auto-engineering/
-shop: Autowerkstatt
+shop: car repair
 ---

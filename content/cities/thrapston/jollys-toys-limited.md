@@ -1,5 +1,5 @@
 ---
 title: "Jollys Toys Limited"
 url: /thrapston/jollys-toys-limited/
-shop: Spielzeug
+shop: toys
 ---

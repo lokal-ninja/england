@@ -1,5 +1,5 @@
 ---
 title: "Morley Pianos"
 url: /london/morley-pianos/
-shop: Instrumente
+shop: musical instrument
 ---

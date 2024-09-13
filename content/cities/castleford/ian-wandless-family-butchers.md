@@ -1,5 +1,5 @@
 ---
 title: "Ian Wandless Family Butchers"
 url: /castleford/ian-wandless-family-butchers/
-shop: Metzgerei
+shop: butcher
 ---

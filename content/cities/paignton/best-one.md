@@ -1,5 +1,5 @@
 ---
 title: "Best-one"
 url: /paignton/best-one/
-shop: Lebensmittel
+shop: convenience
 ---

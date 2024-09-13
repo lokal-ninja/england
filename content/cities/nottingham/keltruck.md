@@ -1,5 +1,5 @@
 ---
 title: "Keltruck"
 url: /nottingham/keltruck/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CeX"
 url: /croydon/cex/
-shop: Elektronik
+shop: electronics
 ---

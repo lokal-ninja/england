@@ -1,5 +1,5 @@
 ---
 title: "Elizabeth Ann Shoes"
 url: /exeter/elizabeth-ann-shoes/
-shop: Schuhe
+shop: shoes
 ---

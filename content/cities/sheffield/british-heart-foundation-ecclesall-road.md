@@ -1,5 +1,5 @@
 ---
 title: "British Heart Foundation"
 url: /sheffield/british-heart-foundation-ecclesall-road/
-shop: Gebrauchtwaren
+shop: charity
 ---

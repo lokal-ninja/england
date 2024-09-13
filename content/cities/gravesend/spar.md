@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /gravesend/spar/
-shop: Lebensmittel
+shop: convenience
 ---

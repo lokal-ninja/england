@@ -1,5 +1,5 @@
 ---
 title: "Broomfield Tyres"
 url: /chelmsford/broomfield-tyres/
-shop: Reifen
+shop: tyres
 ---

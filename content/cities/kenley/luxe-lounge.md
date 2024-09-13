@@ -1,5 +1,5 @@
 ---
 title: "Luxe Lounge"
 url: /kenley/luxe-lounge/
-shop: Friseur
+shop: hairdresser
 ---

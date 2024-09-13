@@ -1,5 +1,5 @@
 ---
 title: "Hair Flicks"
 url: /eastbourne/hair-flicks/
-shop: Friseur
+shop: hairdresser
 ---

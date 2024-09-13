@@ -1,5 +1,5 @@
 ---
 title: "Gaks Wines"
 url: /london/gaks-wines/
-shop: Spirituosen
+shop: alcohol
 ---

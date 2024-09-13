@@ -1,5 +1,5 @@
 ---
 title: "Bismillah"
 url: /bradford/bismillah/
-shop: Handy
+shop: mobile phone
 ---

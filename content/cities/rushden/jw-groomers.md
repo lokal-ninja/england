@@ -1,5 +1,5 @@
 ---
 title: "JW Groomers"
 url: /rushden/jw-groomers/
-shop: Tiersalon
+shop: pet grooming
 ---

@@ -1,5 +1,5 @@
 ---
 title: "autotec"
 url: /bristol/autotec/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rawdon Local"
 url: /leeds/rawdon-local/
-shop: Lebensmittel
+shop: convenience
 ---

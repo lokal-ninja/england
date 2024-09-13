@@ -1,5 +1,5 @@
 ---
 title: "Moby'z Ink"
 url: /manningtree/mobyz-ink/
-shop: Tattoo
+shop: tattoo
 ---

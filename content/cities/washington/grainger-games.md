@@ -1,5 +1,5 @@
 ---
 title: "Grainger Games"
 url: /washington/grainger-games/
-shop: Allgemein
+shop: shop
 ---

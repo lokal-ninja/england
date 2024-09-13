@@ -1,5 +1,5 @@
 ---
 title: "Sunrise Groceries"
 url: /sheffield/sunrise-groceries/
-shop: Lebensmittel
+shop: convenience
 ---

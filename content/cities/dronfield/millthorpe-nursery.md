@@ -1,5 +1,5 @@
 ---
 title: "Millthorpe Nursery"
 url: /dronfield/millthorpe-nursery/
-shop: Garten-Center
+shop: garden centre
 ---

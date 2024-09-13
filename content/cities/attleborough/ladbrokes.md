@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /attleborough/ladbrokes/
-shop: Wettbüro
+shop: bookmaker
 ---

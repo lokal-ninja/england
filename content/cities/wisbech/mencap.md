@@ -1,5 +1,5 @@
 ---
 title: "Mencap"
 url: /wisbech/mencap/
-shop: Gebrauchtwaren
+shop: charity
 ---

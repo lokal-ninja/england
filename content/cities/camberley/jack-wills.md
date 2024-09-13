@@ -1,5 +1,5 @@
 ---
 title: "Jack Wills"
 url: /camberley/jack-wills/
-shop: Kleidung
+shop: clothes
 ---

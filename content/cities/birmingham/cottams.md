@@ -1,5 +1,5 @@
 ---
 title: "Cottams"
 url: /birmingham/cottams/
-shop: Immobilien
+shop: estate agent
 ---

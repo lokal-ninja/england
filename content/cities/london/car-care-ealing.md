@@ -1,5 +1,5 @@
 ---
 title: "Car Care Ealing"
 url: /london/car-care-ealing/
-shop: Autohaus
+shop: car
 ---

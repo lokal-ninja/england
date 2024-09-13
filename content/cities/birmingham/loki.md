@@ -1,5 +1,5 @@
 ---
 title: "Loki"
 url: /birmingham/loki/
-shop: Wein
+shop: wine
 ---

@@ -1,5 +1,5 @@
 ---
 title: "RxB"
 url: /london/rxb/
-shop: Friseur
+shop: hairdresser
 ---

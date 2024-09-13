@@ -1,5 +1,5 @@
 ---
 title: "Mysteries"
 url: /london/mysteries/
-shop: Allgemein
+shop: shop
 ---

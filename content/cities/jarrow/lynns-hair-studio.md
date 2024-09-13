@@ -1,5 +1,5 @@
 ---
 title: "Lynn's Hair Studio"
 url: /jarrow/lynns-hair-studio/
-shop: Friseur
+shop: hairdresser
 ---

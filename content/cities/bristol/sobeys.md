@@ -1,5 +1,5 @@
 ---
 title: "Sobeys"
 url: /bristol/sobeys/
-shop: Kleidung
+shop: clothes
 ---

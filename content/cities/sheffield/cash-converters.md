@@ -1,5 +1,5 @@
 ---
 title: "Cash Converters"
 url: /sheffield/cash-converters/
-shop: Leiher
+shop: pawnbroker
 ---

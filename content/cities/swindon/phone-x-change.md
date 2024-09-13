@@ -1,5 +1,5 @@
 ---
 title: "Phone X Change"
 url: /swindon/phone-x-change/
-shop: Handy
+shop: mobile phone
 ---

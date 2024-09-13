@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /burton-on-trent/asda/
-shop: Supermarkt
+shop: supermarket
 ---

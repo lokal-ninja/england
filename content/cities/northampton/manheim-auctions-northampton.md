@@ -1,5 +1,5 @@
 ---
 title: "Manheim Auctions - Northampton"
 url: /northampton/manheim-auctions-northampton/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Budgens"
 url: /aylesbury/budgens/
-shop: Supermarkt
+shop: supermarket
 ---

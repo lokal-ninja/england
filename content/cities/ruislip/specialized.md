@@ -1,5 +1,5 @@
 ---
 title: "Specialized"
 url: /ruislip/specialized/
-shop: Fahrrad
+shop: bicycle
 ---

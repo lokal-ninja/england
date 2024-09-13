@@ -1,5 +1,5 @@
 ---
 title: "IBB Builders Merchants"
 url: /birmingham/ibb-builders-merchants/
-shop: Eisenwaren
+shop: hardware
 ---

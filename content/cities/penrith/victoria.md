@@ -1,5 +1,5 @@
 ---
 title: "Victoria"
 url: /penrith/victoria/
-shop: Kleidung
+shop: clothes
 ---

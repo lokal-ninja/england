@@ -1,5 +1,5 @@
 ---
 title: "Constellation Pet Spa"
 url: /chelmsford/constellation-pet-spa/
-shop: Tiersalon
+shop: pet grooming
 ---

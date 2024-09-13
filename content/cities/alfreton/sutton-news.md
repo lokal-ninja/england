@@ -1,5 +1,5 @@
 ---
 title: "Sutton News"
 url: /alfreton/sutton-news/
-shop: Lebensmittel
+shop: convenience
 ---

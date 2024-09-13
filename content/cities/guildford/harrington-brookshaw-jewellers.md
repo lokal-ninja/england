@@ -1,5 +1,5 @@
 ---
 title: "Harrington Brookshaw Jewellers"
 url: /guildford/harrington-brookshaw-jewellers/
-shop: Schmuck
+shop: jewelry
 ---

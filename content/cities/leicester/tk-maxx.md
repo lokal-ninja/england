@@ -1,5 +1,5 @@
 ---
 title: "TK Maxx"
 url: /leicester/tk-maxx/
-shop: Warenhaus
+shop: department store
 ---

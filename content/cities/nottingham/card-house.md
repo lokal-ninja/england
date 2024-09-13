@@ -1,5 +1,5 @@
 ---
 title: "Card House"
 url: /nottingham/card-house/
-shop: Allgemein
+shop: shop
 ---

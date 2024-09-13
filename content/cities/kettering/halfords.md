@@ -1,5 +1,5 @@
 ---
 title: "Halfords"
 url: /kettering/halfords/
-shop: Autoteile
+shop: car parts
 ---

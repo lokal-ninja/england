@@ -1,5 +1,5 @@
 ---
 title: "Blades"
 url: /highcliffe/blades/
-shop: Friseur
+shop: hairdresser
 ---

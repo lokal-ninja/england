@@ -1,5 +1,5 @@
 ---
 title: "McKinnon Motors"
 url: /carshalton/mckinnon-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

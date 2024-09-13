@@ -1,5 +1,5 @@
 ---
 title: "Oxford Spires"
 url: /oxford/oxford-spires/
-shop: Andenken
+shop: gift
 ---

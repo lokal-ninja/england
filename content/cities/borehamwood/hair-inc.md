@@ -1,5 +1,5 @@
 ---
 title: "Hair Inc"
 url: /borehamwood/hair-inc/
-shop: Friseur
+shop: hairdresser
 ---

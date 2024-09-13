@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /ryde/poundland/
-shop: Kramladen
+shop: variety store
 ---

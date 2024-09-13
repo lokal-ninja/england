@@ -1,5 +1,5 @@
 ---
 title: "Isabel Hospice Charity Shop"
 url: /hertford/isabel-hospice-charity-shop/
-shop: Gebrauchtwaren
+shop: charity
 ---

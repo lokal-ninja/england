@@ -1,5 +1,5 @@
 ---
 title: "Saddlers Bakery and Bistro"
 url: /alston/saddlers-bakery-and-bistro/
-shop: Bäckerei
+shop: bakery
 ---

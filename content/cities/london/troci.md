@@ -1,5 +1,5 @@
 ---
 title: "Troci"
 url: /london/troci/
-shop: Friseur
+shop: hairdresser
 ---

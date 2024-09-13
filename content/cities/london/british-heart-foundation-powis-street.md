@@ -1,5 +1,5 @@
 ---
 title: "British Heart Foundation"
 url: /london/british-heart-foundation-powis-street/
-shop: Gebrauchtwaren
+shop: charity
 ---

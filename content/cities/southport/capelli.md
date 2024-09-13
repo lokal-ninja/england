@@ -1,5 +1,5 @@
 ---
 title: "Capelli"
 url: /southport/capelli/
-shop: Friseur
+shop: hairdresser
 ---

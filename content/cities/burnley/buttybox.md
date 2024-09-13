@@ -1,5 +1,5 @@
 ---
 title: "Buttybox"
 url: /burnley/buttybox/
-shop: Feinkost
+shop: deli
 ---

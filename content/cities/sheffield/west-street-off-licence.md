@@ -1,5 +1,5 @@
 ---
 title: "West Street Off Licence"
 url: /sheffield/west-street-off-licence/
-shop: Spirituosen
+shop: alcohol
 ---

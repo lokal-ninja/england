@@ -1,5 +1,5 @@
 ---
 title: "Saffron"
 url: /london/saffron-parkway/
-shop: Immobilien
+shop: estate agent
 ---

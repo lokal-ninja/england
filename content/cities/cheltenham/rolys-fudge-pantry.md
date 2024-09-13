@@ -1,5 +1,5 @@
 ---
 title: "Roly's Fudge Pantry"
 url: /cheltenham/rolys-fudge-pantry/
-shop: Süßwaren
+shop: confectionery
 ---

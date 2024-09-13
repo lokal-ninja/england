@@ -1,5 +1,5 @@
 ---
 title: "Thoughtful Services Ltd"
 url: /croydon/thoughtful-services-ltd/
-shop: Wäscherei
+shop: laundry
 ---

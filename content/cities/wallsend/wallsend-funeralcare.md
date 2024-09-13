@@ -1,5 +1,5 @@
 ---
 title: "Wallsend Funeralcare"
 url: /wallsend/wallsend-funeralcare/
-shop: Bestattungen
+shop: funeral directors
 ---

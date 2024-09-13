@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /alfreton/lidl/
-shop: Supermarkt
+shop: supermarket
 ---

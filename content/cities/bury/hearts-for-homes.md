@@ -1,5 +1,5 @@
 ---
 title: "Hearts For Homes"
 url: /bury/hearts-for-homes/
-shop: Andenken
+shop: gift
 ---

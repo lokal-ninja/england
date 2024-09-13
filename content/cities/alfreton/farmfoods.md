@@ -1,5 +1,5 @@
 ---
 title: "Farmfoods"
 url: /alfreton/farmfoods/
-shop: Tiefkühl
+shop: frozen food
 ---

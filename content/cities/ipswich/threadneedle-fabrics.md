@@ -1,5 +1,5 @@
 ---
 title: "Threadneedle Fabrics"
 url: /ipswich/threadneedle-fabrics/
-shop: Textil
+shop: fabric
 ---

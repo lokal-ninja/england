@@ -1,5 +1,5 @@
 ---
 title: "Poundstretcher"
 url: /truro/poundstretcher/
-shop: Kramladen
+shop: variety store
 ---

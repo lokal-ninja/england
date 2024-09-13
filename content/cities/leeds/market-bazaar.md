@@ -1,5 +1,5 @@
 ---
 title: "Market Bazaar"
 url: /leeds/market-bazaar/
-shop: Kramladen
+shop: variety store
 ---

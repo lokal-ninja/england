@@ -1,5 +1,5 @@
 ---
 title: "Picture House"
 url: /cinderford/picture-house/
-shop: Kunst
+shop: art
 ---

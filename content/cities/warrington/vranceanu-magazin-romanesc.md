@@ -1,5 +1,5 @@
 ---
 title: "Vrânceanu' Magazin Românesc"
 url: /warrington/vranceanu-magazin-romanesc/
-shop: Lebensmittel
+shop: convenience
 ---

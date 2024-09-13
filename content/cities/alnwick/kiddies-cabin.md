@@ -1,5 +1,5 @@
 ---
 title: "Kiddies Cabin"
 url: /alnwick/kiddies-cabin/
-shop: Babysachen
+shop: baby goods
 ---

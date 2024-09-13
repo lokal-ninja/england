@@ -1,5 +1,5 @@
 ---
 title: "Active Cycles"
 url: /richmond/active-cycles/
-shop: Fahrrad
+shop: bicycle
 ---

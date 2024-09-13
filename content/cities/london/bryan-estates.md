@@ -1,5 +1,5 @@
 ---
 title: "Bryan Estates"
 url: /london/bryan-estates/
-shop: Immobilien
+shop: estate agent
 ---

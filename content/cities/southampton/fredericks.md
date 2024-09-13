@@ -1,5 +1,5 @@
 ---
 title: "Fredericks"
 url: /southampton/fredericks/
-shop: Schokolade
+shop: chocolate
 ---

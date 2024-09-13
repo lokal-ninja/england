@@ -1,5 +1,5 @@
 ---
 title: "Discount Store"
 url: /ilford/discount-store/
-shop: Kramladen
+shop: variety store
 ---

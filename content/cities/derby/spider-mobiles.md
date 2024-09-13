@@ -1,5 +1,5 @@
 ---
 title: "Spider Mobiles"
 url: /derby/spider-mobiles/
-shop: Handy
+shop: mobile phone
 ---

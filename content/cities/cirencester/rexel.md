@@ -1,5 +1,5 @@
 ---
 title: "Rexel"
 url: /cirencester/rexel/
-shop: Elektrisch
+shop: electrical
 ---

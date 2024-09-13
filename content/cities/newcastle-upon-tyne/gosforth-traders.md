@@ -1,5 +1,5 @@
 ---
 title: "Gosforth Traders"
 url: /newcastle-upon-tyne/gosforth-traders/
-shop: Spirituosen
+shop: alcohol
 ---

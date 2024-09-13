@@ -1,5 +1,5 @@
 ---
 title: "Farmfoods"
 url: /leeds/farmfoods/
-shop: Tiefkühl
+shop: frozen food
 ---

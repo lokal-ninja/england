@@ -1,5 +1,5 @@
 ---
 title: "Posh Pawz"
 url: /sheffield/posh-pawz/
-shop: Tiersalon
+shop: pet grooming
 ---

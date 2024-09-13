@@ -1,5 +1,5 @@
 ---
 title: "EE"
 url: /guildford/ee/
-shop: Handy
+shop: mobile phone
 ---

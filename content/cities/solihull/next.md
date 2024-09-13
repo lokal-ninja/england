@@ -1,5 +1,5 @@
 ---
 title: "Next"
 url: /solihull/next/
-shop: Warenhaus
+shop: department store
 ---

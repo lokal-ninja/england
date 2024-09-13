@@ -1,5 +1,5 @@
 ---
 title: "Powell Funeral Service"
 url: /hoddesdon/powell-funeral-service/
-shop: Bestattungen
+shop: funeral directors
 ---

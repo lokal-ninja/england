@@ -1,5 +1,5 @@
 ---
 title: "Bodgeners"
 url: /harwich/bodgeners/
-shop: Bücher
+shop: books
 ---

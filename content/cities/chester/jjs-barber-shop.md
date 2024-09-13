@@ -1,5 +1,5 @@
 ---
 title: "JJ's Barber Shop"
 url: /chester/jjs-barber-shop/
-shop: Friseur
+shop: hairdresser
 ---

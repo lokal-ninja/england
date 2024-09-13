@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /chester/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Three6T"
 url: /clevedon/three6t/
-shop: Kleidung
+shop: clothes
 ---

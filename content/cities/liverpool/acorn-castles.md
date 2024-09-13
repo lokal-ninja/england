@@ -1,5 +1,5 @@
 ---
 title: "Acorn Castles"
 url: /liverpool/acorn-castles/
-shop: Mieten
+shop: storage rental
 ---

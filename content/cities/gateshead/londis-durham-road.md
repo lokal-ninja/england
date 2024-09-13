@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /gateshead/londis-durham-road/
-shop: Lebensmittel
+shop: convenience
 ---

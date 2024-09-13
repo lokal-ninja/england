@@ -1,5 +1,5 @@
 ---
 title: "InstaCreate"
 url: /stockport/instacreate/
-shop: Allgemein
+shop: shop
 ---

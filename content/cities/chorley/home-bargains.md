@@ -1,5 +1,5 @@
 ---
 title: "Home Bargains"
 url: /chorley/home-bargains/
-shop: Kleidung
+shop: clothes
 ---

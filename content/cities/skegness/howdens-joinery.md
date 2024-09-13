@@ -1,5 +1,5 @@
 ---
 title: "Howdens Joinery"
 url: /skegness/howdens-joinery/
-shop: Küchen
+shop: kitchen
 ---

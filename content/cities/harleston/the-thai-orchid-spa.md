@@ -1,5 +1,5 @@
 ---
 title: "The Thai Orchid Spa"
 url: /harleston/the-thai-orchid-spa/
-shop: Kosmetik
+shop: beauty
 ---

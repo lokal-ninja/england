@@ -1,5 +1,5 @@
 ---
 title: "Silverclip"
 url: /london/silverclip/
-shop: Friseur
+shop: hairdresser
 ---

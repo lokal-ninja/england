@@ -1,5 +1,5 @@
 ---
 title: "Chewton Rose"
 url: /colchester/chewton-rose/
-shop: Immobilien
+shop: estate agent
 ---

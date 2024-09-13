@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /gravesend/poundland-thames-way/
-shop: Kramladen
+shop: variety store
 ---

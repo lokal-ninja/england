@@ -1,5 +1,5 @@
 ---
 title: "Chorfaa"
 url: /london/chorfaa/
-shop: Massage
+shop: massage
 ---

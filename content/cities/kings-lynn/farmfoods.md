@@ -1,5 +1,5 @@
 ---
 title: "Farmfoods"
 url: /kings-lynn/farmfoods/
-shop: Tiefkühl
+shop: frozen food
 ---

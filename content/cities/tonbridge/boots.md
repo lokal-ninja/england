@@ -1,5 +1,5 @@
 ---
 title: "Boots"
 url: /tonbridge/boots/
-shop: Drogerie
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gorse Motors"
 url: /thetford/gorse-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

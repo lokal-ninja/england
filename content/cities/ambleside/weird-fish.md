@@ -1,5 +1,5 @@
 ---
 title: "Weird Fish"
 url: /ambleside/weird-fish/
-shop: Kleidung
+shop: clothes
 ---

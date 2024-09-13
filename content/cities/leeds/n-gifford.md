@@ -1,5 +1,5 @@
 ---
 title: "N Gifford"
 url: /leeds/n-gifford/
-shop: Metzgerei
+shop: butcher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chemist"
 url: /stratford-upon-avon/chemist/
-shop: Drogerie
+shop: chemist
 ---

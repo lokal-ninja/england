@@ -1,5 +1,5 @@
 ---
 title: "Cubitts"
 url: /cambridge/cubitts/
-shop: Optiker
+shop: optician
 ---

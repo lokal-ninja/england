@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /nottingham/londis-mansfield-road/
-shop: Lebensmittel
+shop: convenience
 ---

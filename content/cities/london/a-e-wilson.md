@@ -1,5 +1,5 @@
 ---
 title: "A. E. Wilson"
 url: /london/a-e-wilson/
-shop: Fahrrad
+shop: bicycle
 ---

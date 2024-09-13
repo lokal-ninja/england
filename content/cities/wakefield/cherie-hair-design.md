@@ -1,5 +1,5 @@
 ---
 title: "Cherie Hair Design"
 url: /wakefield/cherie-hair-design/
-shop: Friseur
+shop: hairdresser
 ---

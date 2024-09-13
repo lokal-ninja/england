@@ -1,5 +1,5 @@
 ---
 title: "Trek"
 url: /wilmslow/trek/
-shop: Fahrrad
+shop: bicycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Park View Gallery"
 url: /birmingham/park-view-gallery/
-shop: Kunst
+shop: art
 ---

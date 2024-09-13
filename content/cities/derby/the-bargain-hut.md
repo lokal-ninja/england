@@ -1,5 +1,5 @@
 ---
 title: "The Bargain Hut"
 url: /derby/the-bargain-hut/
-shop: Dorfladen
+shop: general
 ---

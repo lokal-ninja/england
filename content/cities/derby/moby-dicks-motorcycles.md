@@ -1,5 +1,5 @@
 ---
 title: "Moby Dicks Motorcycles"
 url: /derby/moby-dicks-motorcycles/
-shop: Motorrad
+shop: motorcycle
 ---

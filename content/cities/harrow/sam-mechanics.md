@@ -1,5 +1,5 @@
 ---
 title: "Sam Mechanics"
 url: /harrow/sam-mechanics/
-shop: Autowerkstatt
+shop: car repair
 ---

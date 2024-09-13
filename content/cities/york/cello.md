@@ -1,5 +1,5 @@
 ---
 title: "Cello"
 url: /york/cello/
-shop: Andenken
+shop: gift
 ---

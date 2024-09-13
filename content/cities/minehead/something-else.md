@@ -1,5 +1,5 @@
 ---
 title: "Something Else"
 url: /minehead/something-else/
-shop: Friseur
+shop: hairdresser
 ---

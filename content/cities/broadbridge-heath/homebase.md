@@ -1,5 +1,5 @@
 ---
 title: "Homebase"
 url: /broadbridge-heath/homebase/
-shop: Baumarkt
+shop: doityourself
 ---

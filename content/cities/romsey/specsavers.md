@@ -1,5 +1,5 @@
 ---
 title: "Specsavers"
 url: /romsey/specsavers/
-shop: Optiker
+shop: optician
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Phone Guru"
 url: /newcastle-upon-tyne/the-phone-guru/
-shop: Handy
+shop: mobile phone
 ---

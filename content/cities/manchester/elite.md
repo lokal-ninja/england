@@ -1,5 +1,5 @@
 ---
 title: "Elite"
 url: /manchester/elite/
-shop: Kleidung
+shop: clothes
 ---

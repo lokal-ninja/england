@@ -1,5 +1,5 @@
 ---
 title: "Bestpol Delicatessen"
 url: /bedford/bestpol-delicatessen/
-shop: Feinkost
+shop: deli
 ---

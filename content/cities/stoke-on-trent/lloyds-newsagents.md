@@ -1,5 +1,5 @@
 ---
 title: "Lloyds Newsagents"
 url: /stoke-on-trent/lloyds-newsagents/
-shop: Lebensmittel
+shop: convenience
 ---

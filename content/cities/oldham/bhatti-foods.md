@@ -1,5 +1,5 @@
 ---
 title: "Bhatti Foods"
 url: /oldham/bhatti-foods/
-shop: Lebensmittel
+shop: convenience
 ---

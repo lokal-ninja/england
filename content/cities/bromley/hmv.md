@@ -1,5 +1,5 @@
 ---
 title: "HMV"
 url: /bromley/hmv/
-shop: Musik
+shop: music
 ---

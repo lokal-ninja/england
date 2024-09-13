@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /stratford-upon-avon/poundland/
-shop: Kramladen
+shop: variety store
 ---

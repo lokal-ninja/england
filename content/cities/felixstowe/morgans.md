@@ -1,5 +1,5 @@
 ---
 title: "Morgan's"
 url: /felixstowe/morgans/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /bury/tesco-express/
-shop: Lebensmittel
+shop: convenience
 ---

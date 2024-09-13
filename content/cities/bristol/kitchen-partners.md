@@ -1,5 +1,5 @@
 ---
 title: "Kitchen Partners"
 url: /bristol/kitchen-partners/
-shop: Küchen
+shop: kitchen
 ---

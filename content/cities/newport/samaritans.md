@@ -1,5 +1,5 @@
 ---
 title: "Samaritans"
 url: /newport/samaritans/
-shop: Gebrauchtwaren
+shop: charity
 ---

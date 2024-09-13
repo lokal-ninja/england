@@ -1,5 +1,5 @@
 ---
 title: "Creams"
 url: /sheffield/creams/
-shop: Süßwaren
+shop: confectionery
 ---

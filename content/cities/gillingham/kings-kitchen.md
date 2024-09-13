@@ -1,5 +1,5 @@
 ---
 title: "Kings Kitchen"
 url: /gillingham/kings-kitchen/
-shop: Bäckerei
+shop: bakery
 ---

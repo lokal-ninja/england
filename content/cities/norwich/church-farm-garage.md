@@ -1,5 +1,5 @@
 ---
 title: "Church Farm Garage"
 url: /norwich/church-farm-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

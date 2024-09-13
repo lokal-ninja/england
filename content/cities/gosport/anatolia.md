@@ -1,5 +1,5 @@
 ---
 title: "Anatolia"
 url: /gosport/anatolia/
-shop: Friseur
+shop: hairdresser
 ---

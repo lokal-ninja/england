@@ -1,5 +1,5 @@
 ---
 title: "Nina"
 url: /harwich/nina/
-shop: Kleidung
+shop: clothes
 ---

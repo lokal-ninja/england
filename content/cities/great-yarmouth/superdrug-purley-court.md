@@ -1,5 +1,5 @@
 ---
 title: "Superdrug"
 url: /great-yarmouth/superdrug-purley-court/
-shop: Drogerie
+shop: chemist
 ---

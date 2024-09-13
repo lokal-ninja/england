@@ -1,5 +1,5 @@
 ---
 title: "Bubbles"
 url: /southwick/bubbles/
-shop: Partyzubehör
+shop: party
 ---

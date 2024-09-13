@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /derby/londis/
-shop: Lebensmittel
+shop: convenience
 ---

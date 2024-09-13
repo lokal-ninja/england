@@ -1,5 +1,5 @@
 ---
 title: "Class Barber"
 url: /ryde/class-barber/
-shop: Friseur
+shop: hairdresser
 ---

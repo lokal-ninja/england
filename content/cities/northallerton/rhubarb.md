@@ -1,5 +1,5 @@
 ---
 title: "Rhubarb"
 url: /northallerton/rhubarb/
-shop: Andenken
+shop: gift
 ---

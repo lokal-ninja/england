@@ -1,5 +1,5 @@
 ---
 title: "B Livesey Ltd"
 url: /chorley/b-livesey-ltd/
-shop: Bestattungen
+shop: funeral directors
 ---

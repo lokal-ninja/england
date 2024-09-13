@@ -1,5 +1,5 @@
 ---
 title: "Swines Meadow Garden Centre"
 url: /peterborough/swines-meadow-garden-centre/
-shop: Garten-Center
+shop: garden centre
 ---

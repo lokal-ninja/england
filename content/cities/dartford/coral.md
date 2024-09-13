@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /dartford/coral/
-shop: Wettbüro
+shop: bookmaker
 ---

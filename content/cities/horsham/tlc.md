@@ -1,5 +1,5 @@
 ---
 title: "TLC"
 url: /horsham/tlc/
-shop: Elektrisch
+shop: electrical
 ---

@@ -1,5 +1,5 @@
 ---
 title: "TUI"
 url: /runcorn/tui/
-shop: Reisebüro
+shop: travel agency
 ---

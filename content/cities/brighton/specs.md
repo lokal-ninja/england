@@ -1,5 +1,5 @@
 ---
 title: "Specs"
 url: /brighton/specs/
-shop: Optiker
+shop: optician
 ---

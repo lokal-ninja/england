@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /liverpool/tesco-hawthorne-road/
-shop: Supermarkt
+shop: supermarket
 ---

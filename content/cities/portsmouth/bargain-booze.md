@@ -1,5 +1,5 @@
 ---
 title: "Bargain Booze"
 url: /portsmouth/bargain-booze/
-shop: Spirituosen
+shop: alcohol
 ---

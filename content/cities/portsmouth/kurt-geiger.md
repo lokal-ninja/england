@@ -1,5 +1,5 @@
 ---
 title: "Kurt Geiger"
 url: /portsmouth/kurt-geiger/
-shop: Schuhe
+shop: shoes
 ---

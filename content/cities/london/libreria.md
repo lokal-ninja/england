@@ -1,5 +1,5 @@
 ---
 title: "Librería"
 url: /london/libreria/
-shop: Bücher
+shop: books
 ---

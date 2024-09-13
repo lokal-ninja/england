@@ -1,5 +1,5 @@
 ---
 title: "Hush"
 url: /todmorden/hush/
-shop: Kosmetik
+shop: beauty
 ---

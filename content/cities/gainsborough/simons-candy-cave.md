@@ -1,5 +1,5 @@
 ---
 title: "Simons Candy Cave"
 url: /gainsborough/simons-candy-cave/
-shop: Süßwaren
+shop: confectionery
 ---

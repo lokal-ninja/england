@@ -1,5 +1,5 @@
 ---
 title: "Here After"
 url: /london/here-after/
-shop: Kleidung
+shop: clothes
 ---

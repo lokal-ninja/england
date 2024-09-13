@@ -1,5 +1,5 @@
 ---
 title: "Angels"
 url: /wallington/angels/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hair Academy"
 url: /taunton/hair-academy/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Swale Auto Services"
 url: /richmond/swale-auto-services/
-shop: Autowerkstatt
+shop: car repair
 ---

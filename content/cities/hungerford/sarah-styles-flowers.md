@@ -1,5 +1,5 @@
 ---
 title: "Sarah Styles Flowers"
 url: /hungerford/sarah-styles-flowers/
-shop: Blumen
+shop: florist
 ---

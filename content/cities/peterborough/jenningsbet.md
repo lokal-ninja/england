@@ -1,5 +1,5 @@
 ---
 title: "JenningsBet"
 url: /peterborough/jenningsbet/
-shop: Wettbüro
+shop: bookmaker
 ---

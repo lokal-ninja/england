@@ -1,5 +1,5 @@
 ---
 title: "Unit 69"
 url: /lowestoft/unit-69/
-shop: Friseur
+shop: hairdresser
 ---

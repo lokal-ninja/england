@@ -1,5 +1,5 @@
 ---
 title: "JenningsBet"
 url: /pontefract/jenningsbet/
-shop: Wettbüro
+shop: bookmaker
 ---

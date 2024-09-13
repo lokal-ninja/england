@@ -1,5 +1,5 @@
 ---
 title: "Prestons"
 url: /ashbourne/prestons/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "News From Nowhere"
 url: /liverpool/news-from-nowhere/
-shop: Bücher
+shop: books
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sainsbury's"
 url: /london/sainsburys-hall-lane/
-shop: Supermarkt
+shop: supermarket
 ---

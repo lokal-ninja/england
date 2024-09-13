@@ -1,5 +1,5 @@
 ---
 title: "Sofiko"
 url: /cheltenham/sofiko/
-shop: Antiquitäten
+shop: antiques
 ---

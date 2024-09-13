@@ -1,5 +1,5 @@
 ---
 title: "Haslemere Motorcycles"
 url: /whitehill/haslemere-motorcycles/
-shop: Motorrad
+shop: motorcycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Elite"
 url: /sheffield/elite/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

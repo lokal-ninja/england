@@ -1,5 +1,5 @@
 ---
 title: "Valentino's"
 url: /london/valentinos/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ploom"
 url: /london/ploom/
-shop: Tabak
+shop: tobacco
 ---

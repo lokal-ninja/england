@@ -1,5 +1,5 @@
 ---
 title: "I Fix Mobiles"
 url: /bristol/i-fix-mobiles/
-shop: Handy
+shop: mobile phone
 ---

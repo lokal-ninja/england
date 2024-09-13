@@ -1,5 +1,5 @@
 ---
 title: "Peppi's"
 url: /oldham/peppis/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AFS Security"
 url: /london/afs-security/
-shop: Elektronik
+shop: electronics
 ---

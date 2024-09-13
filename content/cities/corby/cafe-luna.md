@@ -1,5 +1,5 @@
 ---
 title: "Cafe Luna"
 url: /corby/cafe-luna/
-shop: Leerstehend
+shop: vacant
 ---

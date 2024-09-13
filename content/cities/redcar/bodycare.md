@@ -1,5 +1,5 @@
 ---
 title: "Bodycare"
 url: /redcar/bodycare/
-shop: Drogerie
+shop: chemist
 ---

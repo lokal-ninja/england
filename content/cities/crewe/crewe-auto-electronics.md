@@ -1,5 +1,5 @@
 ---
 title: "Crewe Auto Electronics"
 url: /crewe/crewe-auto-electronics/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kreative"
 url: /darlington/kreative/
-shop: Sicherheit
+shop: security
 ---

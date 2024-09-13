@@ -1,5 +1,5 @@
 ---
 title: "Wanida Thai Spa"
 url: /london/wanida-thai-spa/
-shop: Massage
+shop: massage
 ---

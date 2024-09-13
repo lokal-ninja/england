@@ -1,5 +1,5 @@
 ---
 title: "Self Storage Consett.com"
 url: /consett/self-storage-consett-com/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sharp Interiors"
 url: /orpington/sharp-interiors/
-shop: Jalousien
+shop: window blind
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gift Shop"
 url: /worthing/gift-shop/
-shop: Allgemein
+shop: shop
 ---

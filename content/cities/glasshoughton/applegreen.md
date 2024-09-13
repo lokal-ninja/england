@@ -1,5 +1,5 @@
 ---
 title: "Applegreen"
 url: /glasshoughton/applegreen/
-shop: Lebensmittel
+shop: convenience
 ---

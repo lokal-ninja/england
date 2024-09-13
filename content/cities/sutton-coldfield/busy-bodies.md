@@ -1,5 +1,5 @@
 ---
 title: "Busy Bodies"
 url: /sutton-coldfield/busy-bodies/
-shop: Wäscherei
+shop: laundry
 ---

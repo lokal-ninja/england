@@ -1,5 +1,5 @@
 ---
 title: "Hairsmiths"
 url: /crawley/hairsmiths/
-shop: Friseur
+shop: hairdresser
 ---

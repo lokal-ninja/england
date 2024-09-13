@@ -1,5 +1,5 @@
 ---
 title: "Watertight"
 url: /rushden/watertight/
-shop: Eisenwaren
+shop: hardware
 ---

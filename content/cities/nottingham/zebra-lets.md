@@ -1,5 +1,5 @@
 ---
 title: "Zebra Lets"
 url: /nottingham/zebra-lets/
-shop: Allgemein
+shop: shop
 ---

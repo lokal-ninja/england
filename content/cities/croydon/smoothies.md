@@ -1,5 +1,5 @@
 ---
 title: "Smoothies"
 url: /croydon/smoothies/
-shop: Kosmetik
+shop: beauty
 ---

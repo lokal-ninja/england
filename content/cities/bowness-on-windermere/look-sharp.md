@@ -1,5 +1,5 @@
 ---
 title: "Look Sharp"
 url: /bowness-on-windermere/look-sharp/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Trailfinders"
 url: /exeter/trailfinders/
-shop: Reisebüro
+shop: travel agency
 ---

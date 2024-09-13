@@ -1,5 +1,5 @@
 ---
 title: "Nexgen"
 url: /birmingham/nexgen/
-shop: Handy
+shop: mobile phone
 ---

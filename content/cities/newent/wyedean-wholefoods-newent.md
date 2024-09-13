@@ -1,5 +1,5 @@
 ---
 title: "Wyedean Wholefoods Newent"
 url: /newent/wyedean-wholefoods-newent/
-shop: Lebensmittel
+shop: convenience
 ---

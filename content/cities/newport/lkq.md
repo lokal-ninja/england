@@ -1,5 +1,5 @@
 ---
 title: "LKQ"
 url: /newport/lkq/
-shop: Autoteile
+shop: car parts
 ---

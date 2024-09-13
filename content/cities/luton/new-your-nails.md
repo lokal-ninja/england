@@ -1,5 +1,5 @@
 ---
 title: "New Your Nails"
 url: /luton/new-your-nails/
-shop: Kosmetik
+shop: beauty
 ---

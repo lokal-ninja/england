@@ -1,5 +1,5 @@
 ---
 title: "Reliance Autotest"
 url: /slough/reliance-autotest/
-shop: Autowerkstatt
+shop: car repair
 ---

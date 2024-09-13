@@ -1,5 +1,5 @@
 ---
 title: "Mind"
 url: /london/mind-chatsworth-road/
-shop: Gebrauchtwaren
+shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /hastings/coral/
-shop: Wettbüro
+shop: bookmaker
 ---

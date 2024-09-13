@@ -1,5 +1,5 @@
 ---
 title: "Nail Pro"
 url: /ely/nail-pro/
-shop: Kosmetik
+shop: beauty
 ---

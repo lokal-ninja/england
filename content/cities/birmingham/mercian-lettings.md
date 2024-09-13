@@ -1,5 +1,5 @@
 ---
 title: "Mercian Lettings"
 url: /birmingham/mercian-lettings/
-shop: Immobilien
+shop: estate agent
 ---

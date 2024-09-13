@@ -1,5 +1,5 @@
 ---
 title: "Stottercliffe Garage"
 url: /sheffield/stottercliffe-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

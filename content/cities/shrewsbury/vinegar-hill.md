@@ -1,5 +1,5 @@
 ---
 title: "Vinegar Hill"
 url: /shrewsbury/vinegar-hill/
-shop: Raumausstattung
+shop: interior decoration
 ---

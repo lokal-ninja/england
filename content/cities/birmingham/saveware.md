@@ -1,5 +1,5 @@
 ---
 title: "Saveware"
 url: /birmingham/saveware/
-shop: Handy
+shop: mobile phone
 ---

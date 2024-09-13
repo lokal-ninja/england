@@ -1,5 +1,5 @@
 ---
 title: "Battle Brewery"
 url: /battle/battle-brewery/
-shop: Spirituosen
+shop: alcohol
 ---

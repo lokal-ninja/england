@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /plymouth/poundland-new-george-street/
-shop: Kramladen
+shop: variety store
 ---

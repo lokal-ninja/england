@@ -1,5 +1,5 @@
 ---
 title: "Donna May Florist"
 url: /nottingham/donna-may-florist/
-shop: Blumen
+shop: florist
 ---

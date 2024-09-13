@@ -1,5 +1,5 @@
 ---
 title: "Dovetail"
 url: /norwich/dovetail/
-shop: Raumausstattung
+shop: interior decoration
 ---

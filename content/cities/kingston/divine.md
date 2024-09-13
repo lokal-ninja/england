@@ -1,5 +1,5 @@
 ---
 title: "Divine"
 url: /kingston/divine/
-shop: Wäscherei
+shop: laundry
 ---

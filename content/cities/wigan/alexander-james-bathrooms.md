@@ -1,5 +1,5 @@
 ---
 title: "Alexander James Bathrooms"
 url: /wigan/alexander-james-bathrooms/
-shop: Raumausstattung
+shop: interior decoration
 ---

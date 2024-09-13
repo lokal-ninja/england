@@ -1,5 +1,5 @@
 ---
 title: "hairline"
 url: /nottingham/hairline/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nisa Local"
 url: /heanor/nisa-local/
-shop: Lebensmittel
+shop: convenience
 ---

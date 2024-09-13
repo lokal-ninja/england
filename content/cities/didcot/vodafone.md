@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
 url: /didcot/vodafone/
-shop: Handy
+shop: mobile phone
 ---

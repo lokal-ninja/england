@@ -1,5 +1,5 @@
 ---
 title: "Motylek"
 url: /nottingham/motylek/
-shop: Lebensmittel
+shop: convenience
 ---

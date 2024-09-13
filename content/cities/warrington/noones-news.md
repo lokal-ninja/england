@@ -1,5 +1,5 @@
 ---
 title: "Noone's News"
 url: /warrington/noones-news/
-shop: Zeitungen
+shop: newsagent
 ---

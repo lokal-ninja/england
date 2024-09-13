@@ -1,5 +1,5 @@
 ---
 title: "El Khadijat International"
 url: /london/el-khadijat-international/
-shop: Lebensmittel
+shop: convenience
 ---

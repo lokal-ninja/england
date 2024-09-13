@@ -1,5 +1,5 @@
 ---
 title: "Lews Electrical Distributors"
 url: /york/lews-electrical-distributors/
-shop: Baustoffe
+shop: trade
 ---

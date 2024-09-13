@@ -1,5 +1,5 @@
 ---
 title: "EE"
 url: /cramlington/ee/
-shop: Handy
+shop: mobile phone
 ---

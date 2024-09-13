@@ -1,5 +1,5 @@
 ---
 title: "Starfish"
 url: /brighton/starfish/
-shop: Kleidung
+shop: clothes
 ---

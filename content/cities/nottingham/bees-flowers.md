@@ -1,5 +1,5 @@
 ---
 title: "Bees Flowers"
 url: /nottingham/bees-flowers/
-shop: Blumen
+shop: florist
 ---

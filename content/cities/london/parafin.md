@@ -1,5 +1,5 @@
 ---
 title: "Parafin"
 url: /london/parafin/
-shop: Kunst
+shop: art
 ---

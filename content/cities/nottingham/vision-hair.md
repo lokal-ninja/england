@@ -1,5 +1,5 @@
 ---
 title: "Vision Hair"
 url: /nottingham/vision-hair/
-shop: Friseur
+shop: hairdresser
 ---

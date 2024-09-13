@@ -1,5 +1,5 @@
 ---
 title: "Tala"
 url: /london/tala/
-shop: Lampen
+shop: lamps
 ---

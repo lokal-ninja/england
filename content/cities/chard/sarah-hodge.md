@@ -1,5 +1,5 @@
 ---
 title: "Sarah Hodge"
 url: /chard/sarah-hodge/
-shop: Friseur
+shop: hairdresser
 ---

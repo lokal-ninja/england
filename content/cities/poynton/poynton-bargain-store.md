@@ -1,5 +1,5 @@
 ---
 title: "Poynton Bargain Store"
 url: /poynton/poynton-bargain-store/
-shop: Kramladen
+shop: variety store
 ---

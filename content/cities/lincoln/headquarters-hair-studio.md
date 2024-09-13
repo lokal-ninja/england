@@ -1,5 +1,5 @@
 ---
 title: "Headquarters Hair Studio"
 url: /lincoln/headquarters-hair-studio/
-shop: Friseur
+shop: hairdresser
 ---

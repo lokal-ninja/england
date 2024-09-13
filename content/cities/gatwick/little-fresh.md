@@ -1,5 +1,5 @@
 ---
 title: "Little Fresh"
 url: /gatwick/little-fresh/
-shop: Lebensmittel
+shop: convenience
 ---

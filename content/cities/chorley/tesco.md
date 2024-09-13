@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /chorley/tesco/
-shop: Supermarkt
+shop: supermarket
 ---

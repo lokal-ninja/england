@@ -1,5 +1,5 @@
 ---
 title: "Sweet Express"
 url: /uxbridge/sweet-express/
-shop: Kiosk
+shop: kiosk
 ---

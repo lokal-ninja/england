@@ -1,5 +1,5 @@
 ---
 title: "Fingertrix"
 url: /ilkeston/fingertrix/
-shop: Friseur
+shop: hairdresser
 ---

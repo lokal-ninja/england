@@ -1,5 +1,5 @@
 ---
 title: "Uniqorn"
 url: /liverpool/uniqorn/
-shop: Andenken
+shop: gift
 ---

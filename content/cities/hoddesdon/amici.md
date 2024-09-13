@@ -1,5 +1,5 @@
 ---
 title: "Amici"
 url: /hoddesdon/amici/
-shop: Friseur
+shop: hairdresser
 ---

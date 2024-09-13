@@ -1,5 +1,5 @@
 ---
 title: "Salon Seventeen"
 url: /swadlincote/salon-seventeen/
-shop: Friseur
+shop: hairdresser
 ---

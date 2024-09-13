@@ -1,5 +1,5 @@
 ---
 title: "Home Comforts"
 url: /bicester/home-comforts/
-shop: Möbel
+shop: furniture
 ---

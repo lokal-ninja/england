@@ -1,5 +1,5 @@
 ---
 title: "Alps Convenience Store"
 url: /bolton/alps-convenience-store/
-shop: Lebensmittel
+shop: convenience
 ---

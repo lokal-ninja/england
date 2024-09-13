@@ -1,5 +1,5 @@
 ---
 title: "Kubus Mini Market"
 url: /nottingham/kubus-mini-market/
-shop: Lebensmittel
+shop: convenience
 ---

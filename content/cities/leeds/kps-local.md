@@ -1,5 +1,5 @@
 ---
 title: "Kps Local"
 url: /leeds/kps-local/
-shop: Lebensmittel
+shop: convenience
 ---

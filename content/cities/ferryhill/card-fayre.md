@@ -1,5 +1,5 @@
 ---
 title: "Card Fayre"
 url: /ferryhill/card-fayre/
-shop: Andenken
+shop: gift
 ---

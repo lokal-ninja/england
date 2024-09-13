@@ -1,5 +1,5 @@
 ---
 title: "Shoe Stop"
 url: /wells-next-the-sea/shoe-stop/
-shop: Schuhe
+shop: shoes
 ---

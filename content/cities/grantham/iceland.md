@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /grantham/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

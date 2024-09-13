@@ -1,5 +1,5 @@
 ---
 title: "Headmasters"
 url: /sheffield/headmasters/
-shop: Friseur
+shop: hairdresser
 ---

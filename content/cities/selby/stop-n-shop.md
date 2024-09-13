@@ -1,5 +1,5 @@
 ---
 title: "Stop n Shop"
 url: /selby/stop-n-shop/
-shop: Lebensmittel
+shop: convenience
 ---

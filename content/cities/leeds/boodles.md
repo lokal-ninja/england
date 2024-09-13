@@ -1,5 +1,5 @@
 ---
 title: "Boodles"
 url: /leeds/boodles/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Co-Operative"
 url: /manchester/co-operative/
-shop: Lebensmittel
+shop: convenience
 ---

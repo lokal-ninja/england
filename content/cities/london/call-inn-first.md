@@ -1,5 +1,5 @@
 ---
 title: "Call Inn First"
 url: /london/call-inn-first/
-shop: Handy
+shop: mobile phone
 ---

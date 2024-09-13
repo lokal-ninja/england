@@ -1,5 +1,5 @@
 ---
 title: "Ben Forrest"
 url: /richmond/ben-forrest/
-shop: Friseur
+shop: hairdresser
 ---

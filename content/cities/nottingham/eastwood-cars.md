@@ -1,5 +1,5 @@
 ---
 title: "Eastwood Cars"
 url: /nottingham/eastwood-cars/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Newspot"
 url: /london/newspot/
-shop: Lebensmittel
+shop: convenience
 ---

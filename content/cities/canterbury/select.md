@@ -1,5 +1,5 @@
 ---
 title: "Select"
 url: /canterbury/select/
-shop: Elektronik
+shop: electronics
 ---

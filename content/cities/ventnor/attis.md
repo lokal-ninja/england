@@ -1,5 +1,5 @@
 ---
 title: "Attis"
 url: /ventnor/attis/
-shop: Bioladen
+shop: health food
 ---

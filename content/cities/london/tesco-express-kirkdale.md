@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /london/tesco-express-kirkdale/
-shop: Lebensmittel
+shop: convenience
 ---

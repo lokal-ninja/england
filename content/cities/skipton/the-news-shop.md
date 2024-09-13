@@ -1,5 +1,5 @@
 ---
 title: "The News Shop"
 url: /skipton/the-news-shop/
-shop: Zeitungen
+shop: newsagent
 ---

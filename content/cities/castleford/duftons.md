@@ -1,5 +1,5 @@
 ---
 title: "Duftons"
 url: /castleford/duftons/
-shop: Eisenwaren
+shop: hardware
 ---

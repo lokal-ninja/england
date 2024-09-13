@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /blackburn/tesco/
-shop: Supermarkt
+shop: supermarket
 ---

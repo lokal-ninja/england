@@ -1,5 +1,5 @@
 ---
 title: "Morecambe Tyre Specialists"
 url: /morecambe/morecambe-tyre-specialists/
-shop: Reifen
+shop: tyres
 ---

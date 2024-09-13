@@ -1,5 +1,5 @@
 ---
 title: "InTyres UK Ltd"
 url: /walsall/intyres-uk-ltd/
-shop: Reifen
+shop: tyres
 ---

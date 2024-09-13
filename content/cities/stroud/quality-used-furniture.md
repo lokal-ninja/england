@@ -1,5 +1,5 @@
 ---
 title: "Quality Used Furniture"
 url: /stroud/quality-used-furniture/
-shop: Möbel
+shop: furniture
 ---

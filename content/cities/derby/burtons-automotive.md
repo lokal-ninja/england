@@ -1,5 +1,5 @@
 ---
 title: "Burton's Automotive"
 url: /derby/burtons-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

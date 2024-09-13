@@ -1,5 +1,5 @@
 ---
 title: "ElectricVR"
 url: /london/electricvr/
-shop: Videospiele
+shop: video games
 ---

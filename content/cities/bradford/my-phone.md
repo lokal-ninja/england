@@ -1,5 +1,5 @@
 ---
 title: "My Phone"
 url: /bradford/my-phone/
-shop: Handy
+shop: mobile phone
 ---

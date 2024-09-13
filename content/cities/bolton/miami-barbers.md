@@ -1,5 +1,5 @@
 ---
 title: "Miami Barbers"
 url: /bolton/miami-barbers/
-shop: Friseur
+shop: hairdresser
 ---

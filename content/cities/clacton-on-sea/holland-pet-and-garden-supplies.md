@@ -1,5 +1,5 @@
 ---
 title: "Holland Pet and Garden Supplies"
 url: /clacton-on-sea/holland-pet-and-garden-supplies/
-shop: Garten-Center
+shop: garden centre
 ---

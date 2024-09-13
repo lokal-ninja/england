@@ -1,5 +1,5 @@
 ---
 title: "Barker"
 url: /london/barker/
-shop: Schuhe
+shop: shoes
 ---

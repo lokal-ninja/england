@@ -1,5 +1,5 @@
 ---
 title: "Game"
 url: /ilkeston/game/
-shop: Videospiele
+shop: video games
 ---

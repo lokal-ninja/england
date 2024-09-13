@@ -1,5 +1,5 @@
 ---
 title: "Europe Supermarket"
 url: /northampton/europe-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

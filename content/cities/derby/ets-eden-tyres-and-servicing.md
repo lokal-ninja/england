@@ -1,5 +1,5 @@
 ---
 title: "ETS Eden Tyres and Servicing"
 url: /derby/ets-eden-tyres-and-servicing/
-shop: Autowerkstatt
+shop: car repair
 ---

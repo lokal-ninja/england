@@ -1,5 +1,5 @@
 ---
 title: "Peacocks"
 url: /sidmouth/peacocks/
-shop: Kleidung
+shop: clothes
 ---

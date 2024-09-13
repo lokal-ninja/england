@@ -1,5 +1,5 @@
 ---
 title: "Dare"
 url: /reigate/dare/
-shop: Friseur
+shop: hairdresser
 ---

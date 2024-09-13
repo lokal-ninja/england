@@ -1,5 +1,5 @@
 ---
 title: "Carlton Cleaners"
 url: /london/carlton-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

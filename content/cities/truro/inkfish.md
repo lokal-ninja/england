@@ -1,5 +1,5 @@
 ---
 title: "Inkfish"
 url: /truro/inkfish/
-shop: Friseur
+shop: hairdresser
 ---

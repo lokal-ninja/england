@@ -1,5 +1,5 @@
 ---
 title: "Fone Care"
 url: /taunton/fone-care/
-shop: Handy
+shop: mobile phone
 ---

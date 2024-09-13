@@ -1,5 +1,5 @@
 ---
 title: "Safestore"
 url: /mitcham/safestore/
-shop: Mieten
+shop: storage rental
 ---

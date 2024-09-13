@@ -1,5 +1,5 @@
 ---
 title: "Kellys"
 url: /southport/kellys/
-shop: Elektronik
+shop: electronics
 ---

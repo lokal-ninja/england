@@ -1,5 +1,5 @@
 ---
 title: "iLuvo Beauty"
 url: /london/iluvo-beauty/
-shop: Kosmetik
+shop: beauty
 ---

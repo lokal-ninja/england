@@ -1,5 +1,5 @@
 ---
 title: "JD Sports"
 url: /chorley/jd-sports/
-shop: Sport
+shop: sports
 ---

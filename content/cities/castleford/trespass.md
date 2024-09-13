@@ -1,5 +1,5 @@
 ---
 title: "Trespass"
 url: /castleford/trespass/
-shop: Outdoor
+shop: outdoor
 ---

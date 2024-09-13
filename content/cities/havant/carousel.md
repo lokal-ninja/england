@@ -1,5 +1,5 @@
 ---
 title: "Carousel"
 url: /havant/carousel/
-shop: Spielzeug
+shop: toys
 ---

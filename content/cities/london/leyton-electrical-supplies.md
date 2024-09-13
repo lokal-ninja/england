@@ -1,5 +1,5 @@
 ---
 title: "Leyton Electrical Supplies"
 url: /london/leyton-electrical-supplies/
-shop: Baustoffe
+shop: trade
 ---

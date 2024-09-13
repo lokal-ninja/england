@@ -1,5 +1,5 @@
 ---
 title: "Best Foods"
 url: /london/best-foods/
-shop: Lebensmittel
+shop: convenience
 ---

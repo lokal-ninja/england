@@ -1,5 +1,5 @@
 ---
 title: "Zorkot Dalia Barbers"
 url: /london/zorkot-dalia-barbers/
-shop: Friseur
+shop: hairdresser
 ---

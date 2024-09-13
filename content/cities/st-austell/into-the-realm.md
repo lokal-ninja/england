@@ -1,5 +1,5 @@
 ---
 title: "Into the Realm"
 url: /st-austell/into-the-realm/
-shop: Bücher
+shop: books
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mobiles 4 All"
 url: /normanton/mobiles-4-all/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /wimborne/spar-wimborne-road-west/
-shop: Supermarkt
+shop: supermarket
 ---

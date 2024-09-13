@@ -1,5 +1,5 @@
 ---
 title: "Watton Off Licence"
 url: /thetford/watton-off-licence/
-shop: Spirituosen
+shop: alcohol
 ---

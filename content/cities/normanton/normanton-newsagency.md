@@ -1,5 +1,5 @@
 ---
 title: "Normanton Newsagency"
 url: /normanton/normanton-newsagency/
-shop: Zeitungen
+shop: newsagent
 ---

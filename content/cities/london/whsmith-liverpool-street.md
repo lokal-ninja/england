@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /london/whsmith-liverpool-street/
-shop: Zeitungen
+shop: newsagent
 ---

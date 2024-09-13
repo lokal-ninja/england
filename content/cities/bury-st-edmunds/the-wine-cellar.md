@@ -1,5 +1,5 @@
 ---
 title: "The Wine Cellar"
 url: /bury-st-edmunds/the-wine-cellar/
-shop: Wein
+shop: wine
 ---

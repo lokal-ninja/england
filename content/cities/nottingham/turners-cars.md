@@ -1,5 +1,5 @@
 ---
 title: "Turners Cars"
 url: /nottingham/turners-cars/
-shop: Autowerkstatt
+shop: car repair
 ---

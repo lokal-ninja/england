@@ -1,5 +1,5 @@
 ---
 title: "Flower World"
 url: /penrith/flower-world/
-shop: Blumen
+shop: florist
 ---

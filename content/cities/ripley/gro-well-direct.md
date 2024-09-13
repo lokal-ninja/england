@@ -1,5 +1,5 @@
 ---
 title: "Gro-well Direct"
 url: /ripley/gro-well-direct/
-shop: Garten-Center
+shop: garden centre
 ---

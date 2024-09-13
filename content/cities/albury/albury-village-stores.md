@@ -1,5 +1,5 @@
 ---
 title: "Albury Village Stores"
 url: /albury/albury-village-stores/
-shop: Lebensmittel
+shop: convenience
 ---

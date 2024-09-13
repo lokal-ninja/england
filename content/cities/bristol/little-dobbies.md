@@ -1,5 +1,5 @@
 ---
 title: "little dobbies"
 url: /bristol/little-dobbies/
-shop: Garten-Center
+shop: garden centre
 ---

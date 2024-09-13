@@ -1,5 +1,5 @@
 ---
 title: "Screwfix"
 url: /newark/screwfix/
-shop: Baumarkt
+shop: doityourself
 ---

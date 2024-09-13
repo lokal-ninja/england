@@ -1,5 +1,5 @@
 ---
 title: "Ashiq"
 url: /manchester/ashiq/
-shop: Großhandel
+shop: wholesale
 ---

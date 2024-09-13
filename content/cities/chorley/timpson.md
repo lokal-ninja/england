@@ -1,5 +1,5 @@
 ---
 title: "Timpson"
 url: /chorley/timpson/
-shop: Wäscherei
+shop: laundry
 ---

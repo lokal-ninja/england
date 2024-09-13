@@ -1,5 +1,5 @@
 ---
 title: "Honey Nails"
 url: /ware/honey-nails/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Luxe Company"
 url: /york/the-luxe-company/
-shop: Allgemein
+shop: shop
 ---

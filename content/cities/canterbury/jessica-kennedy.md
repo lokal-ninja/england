@@ -1,5 +1,5 @@
 ---
 title: "Jessica Kennedy"
 url: /canterbury/jessica-kennedy/
-shop: Kleidung
+shop: clothes
 ---

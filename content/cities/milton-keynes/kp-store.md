@@ -1,5 +1,5 @@
 ---
 title: "KP Store"
 url: /milton-keynes/kp-store/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
 url: /yate/vodafone/
-shop: Handy
+shop: mobile phone
 ---

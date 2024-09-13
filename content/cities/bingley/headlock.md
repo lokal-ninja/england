@@ -1,5 +1,5 @@
 ---
 title: "Headlock"
 url: /bingley/headlock/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ernest Jones"
 url: /castleford/ernest-jones/
-shop: Schmuck
+shop: jewelry
 ---

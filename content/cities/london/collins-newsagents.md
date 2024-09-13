@@ -1,5 +1,5 @@
 ---
 title: "Collins Newsagents"
 url: /london/collins-newsagents/
-shop: Lebensmittel
+shop: convenience
 ---

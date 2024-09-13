@@ -1,5 +1,5 @@
 ---
 title: "Phone Land"
 url: /norwich/phone-land/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Booths"
 url: /ilkley/booths/
-shop: Supermarkt
+shop: supermarket
 ---

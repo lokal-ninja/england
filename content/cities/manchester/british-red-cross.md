@@ -1,5 +1,5 @@
 ---
 title: "British Red Cross"
 url: /manchester/british-red-cross/
-shop: Gebrauchtwaren
+shop: charity
 ---

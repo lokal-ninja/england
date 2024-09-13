@@ -1,5 +1,5 @@
 ---
 title: "Suffolk Mind"
 url: /ipswich/suffolk-mind/
-shop: Gebrauchtwaren
+shop: charity
 ---

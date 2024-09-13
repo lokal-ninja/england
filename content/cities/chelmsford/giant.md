@@ -1,5 +1,5 @@
 ---
 title: "Giant"
 url: /chelmsford/giant/
-shop: Fahrrad
+shop: bicycle
 ---

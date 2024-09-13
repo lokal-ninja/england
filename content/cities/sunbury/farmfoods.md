@@ -1,5 +1,5 @@
 ---
 title: "Farmfoods"
 url: /sunbury/farmfoods/
-shop: Tiefkühl
+shop: frozen food
 ---

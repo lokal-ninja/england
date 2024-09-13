@@ -1,5 +1,5 @@
 ---
 title: "Centurion Motor Services"
 url: /cirencester/centurion-motor-services/
-shop: Autowerkstatt
+shop: car repair
 ---

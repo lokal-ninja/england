@@ -1,5 +1,5 @@
 ---
 title: "Stephen Jones"
 url: /london/stephen-jones/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Stiles Garage"
 url: /battle/stiles-garage/
-shop: Autohaus
+shop: car
 ---

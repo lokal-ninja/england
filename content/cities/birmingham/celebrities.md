@@ -1,5 +1,5 @@
 ---
 title: "Celebrities"
 url: /birmingham/celebrities/
-shop: Friseur
+shop: hairdresser
 ---

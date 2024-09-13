@@ -1,5 +1,5 @@
 ---
 title: "Tania's Barbershop"
 url: /wakefield/tanias-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

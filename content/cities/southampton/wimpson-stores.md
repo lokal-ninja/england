@@ -1,5 +1,5 @@
 ---
 title: "Wimpson Stores"
 url: /southampton/wimpson-stores/
-shop: Lebensmittel
+shop: convenience
 ---

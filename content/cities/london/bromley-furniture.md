@@ -1,5 +1,5 @@
 ---
 title: "Bromley Furniture"
 url: /london/bromley-furniture/
-shop: Möbel
+shop: furniture
 ---

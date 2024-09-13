@@ -1,5 +1,5 @@
 ---
 title: "Hobbycraft"
 url: /tamworth/hobbycraft/
-shop: Basteln
+shop: craft
 ---

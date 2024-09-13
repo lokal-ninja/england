@@ -1,5 +1,5 @@
 ---
 title: "Barakah Mall"
 url: /bristol/barakah-mall/
-shop: Elektronik
+shop: electronics
 ---

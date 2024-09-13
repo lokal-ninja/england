@@ -1,5 +1,5 @@
 ---
 title: "Aarons Surplus"
 url: /rainham/aarons-surplus/
-shop: Militär
+shop: military
 ---

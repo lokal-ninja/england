@@ -1,5 +1,5 @@
 ---
 title: "NYG Home improvements"
 url: /northallerton/nyg-home-improvements/
-shop: Allgemein
+shop: shop
 ---

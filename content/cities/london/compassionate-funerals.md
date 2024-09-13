@@ -1,5 +1,5 @@
 ---
 title: "Compassionate Funerals"
 url: /london/compassionate-funerals/
-shop: Bestattungen
+shop: funeral directors
 ---

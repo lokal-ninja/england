@@ -1,5 +1,5 @@
 ---
 title: "Prontaprint"
 url: /stratford-upon-avon/prontaprint/
-shop: Kopieren
+shop: copyshop
 ---

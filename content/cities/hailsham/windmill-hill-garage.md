@@ -1,5 +1,5 @@
 ---
 title: "Windmill Hill Garage"
 url: /hailsham/windmill-hill-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

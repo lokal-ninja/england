@@ -1,5 +1,5 @@
 ---
 title: "Cancer Research UK"
 url: /borehamwood/cancer-research-uk/
-shop: Gebrauchtwaren
+shop: charity
 ---

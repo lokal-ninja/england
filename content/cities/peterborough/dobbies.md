@@ -1,5 +1,5 @@
 ---
 title: "Dobbies"
 url: /peterborough/dobbies/
-shop: Garten-Center
+shop: garden centre
 ---

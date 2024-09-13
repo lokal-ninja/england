@@ -1,5 +1,5 @@
 ---
 title: "Roman Wholesale Company"
 url: /manchester/roman-wholesale-company/
-shop: Großhandel
+shop: wholesale
 ---

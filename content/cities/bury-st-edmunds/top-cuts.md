@@ -1,5 +1,5 @@
 ---
 title: "Top Cuts"
 url: /bury-st-edmunds/top-cuts/
-shop: Friseur
+shop: hairdresser
 ---

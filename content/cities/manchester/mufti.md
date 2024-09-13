@@ -1,5 +1,5 @@
 ---
 title: "Mufti"
 url: /manchester/mufti/
-shop: Friseur
+shop: hairdresser
 ---

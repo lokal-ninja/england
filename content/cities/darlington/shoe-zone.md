@@ -1,5 +1,5 @@
 ---
 title: "Shoe Zone"
 url: /darlington/shoe-zone/
-shop: Schuhe
+shop: shoes
 ---

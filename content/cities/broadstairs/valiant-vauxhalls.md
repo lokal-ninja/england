@@ -1,5 +1,5 @@
 ---
 title: "Valiant Vauxhalls"
 url: /broadstairs/valiant-vauxhalls/
-shop: Autoteile
+shop: car parts
 ---

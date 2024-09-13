@@ -1,5 +1,5 @@
 ---
 title: "Ocean"
 url: /bolton/ocean/
-shop: Friseur
+shop: hairdresser
 ---

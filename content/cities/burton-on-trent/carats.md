@@ -1,5 +1,5 @@
 ---
 title: "Carats"
 url: /burton-on-trent/carats/
-shop: Schmuck
+shop: jewelry
 ---

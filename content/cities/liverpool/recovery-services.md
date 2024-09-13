@@ -1,5 +1,5 @@
 ---
 title: "Recovery Services"
 url: /liverpool/recovery-services/
-shop: Autowerkstatt
+shop: car repair
 ---

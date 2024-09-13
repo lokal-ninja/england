@@ -1,5 +1,5 @@
 ---
 title: "Paul"
 url: /bolton/paul/
-shop: Bäckerei
+shop: bakery
 ---

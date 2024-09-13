@@ -1,5 +1,5 @@
 ---
 title: "Pit Stop Garage"
 url: /leeds/pit-stop-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

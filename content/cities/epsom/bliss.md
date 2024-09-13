@@ -1,5 +1,5 @@
 ---
 title: "Bliss"
 url: /epsom/bliss/
-shop: Kosmetik
+shop: beauty
 ---

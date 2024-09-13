@@ -1,5 +1,5 @@
 ---
 title: "Vapemans"
 url: /hemel-hempstead/vapemans/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

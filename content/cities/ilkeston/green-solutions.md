@@ -1,5 +1,5 @@
 ---
 title: "Green Solutions"
 url: /ilkeston/green-solutions/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Purbrook motor company"
 url: /waterlooville/purbrook-motor-company/
-shop: Autohaus
+shop: car
 ---

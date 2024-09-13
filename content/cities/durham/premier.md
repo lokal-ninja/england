@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /durham/premier/
-shop: Lebensmittel
+shop: convenience
 ---

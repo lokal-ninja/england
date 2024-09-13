@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /portsmouth/spar-copnor-road/
-shop: Lebensmittel
+shop: convenience
 ---

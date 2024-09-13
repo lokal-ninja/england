@@ -1,5 +1,5 @@
 ---
 title: "Nauman Barber"
 url: /birmingham/nauman-barber/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Goldsmith Webb Opticians"
 url: /chelmsford/goldsmith-webb-opticians/
-shop: Optiker
+shop: optician
 ---

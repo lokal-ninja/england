@@ -1,5 +1,5 @@
 ---
 title: "Rainbows"
 url: /petersfield/rainbows/
-shop: Kleidung
+shop: clothes
 ---

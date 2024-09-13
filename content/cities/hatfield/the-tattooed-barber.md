@@ -1,5 +1,5 @@
 ---
 title: "The Tattooed Barber"
 url: /hatfield/the-tattooed-barber/
-shop: Friseur
+shop: hairdresser
 ---

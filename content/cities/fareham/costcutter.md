@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /fareham/costcutter/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cleethorpes Mobility Centre"
 url: /cleethorpes/cleethorpes-mobility-centre/
-shop: Sanitätshaus
+shop: medical supply
 ---

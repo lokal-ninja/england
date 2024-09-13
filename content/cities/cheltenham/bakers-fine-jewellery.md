@@ -1,5 +1,5 @@
 ---
 title: "Bakers Fine Jewellery"
 url: /cheltenham/bakers-fine-jewellery/
-shop: Schmuck
+shop: jewelry
 ---

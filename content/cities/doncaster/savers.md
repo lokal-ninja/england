@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /doncaster/savers/
-shop: Drogerie
+shop: chemist
 ---

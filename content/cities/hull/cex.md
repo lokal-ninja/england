@@ -1,5 +1,5 @@
 ---
 title: "CeX"
 url: /hull/cex/
-shop: Elektronik
+shop: electronics
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Hackney Draper"
 url: /london/the-hackney-draper/
-shop: Andenken
+shop: gift
 ---

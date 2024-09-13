@@ -1,5 +1,5 @@
 ---
 title: "Serenity Hair Studio"
 url: /prudhoe/serenity-hair-studio/
-shop: Friseur
+shop: hairdresser
 ---

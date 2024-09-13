@@ -1,5 +1,5 @@
 ---
 title: "Priya"
 url: /evesham/priya/
-shop: Kosmetik
+shop: beauty
 ---

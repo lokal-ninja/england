@@ -1,5 +1,5 @@
 ---
 title: "The Groom Room"
 url: /grays/the-groom-room/
-shop: Tiersalon
+shop: pet grooming
 ---

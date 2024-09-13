@@ -1,5 +1,5 @@
 ---
 title: "Tiara"
 url: /sheffield/tiara/
-shop: Schmuck
+shop: jewelry
 ---

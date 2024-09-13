@@ -1,5 +1,5 @@
 ---
 title: "Inches"
 url: /oxted/inches/
-shop: Kosmetik
+shop: beauty
 ---

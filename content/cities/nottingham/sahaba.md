@@ -1,5 +1,5 @@
 ---
 title: "Sahaba"
 url: /nottingham/sahaba/
-shop: Kleidung
+shop: clothes
 ---

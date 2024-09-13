@@ -1,5 +1,5 @@
 ---
 title: "Sandicliffe: Commercial Vehicles"
 url: /nottingham/sandicliffe-commercial-vehicles/
-shop: Autohaus
+shop: car
 ---

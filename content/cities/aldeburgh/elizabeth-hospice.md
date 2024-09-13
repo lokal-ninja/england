@@ -1,5 +1,5 @@
 ---
 title: "Elizabeth Hospice"
 url: /aldeburgh/elizabeth-hospice/
-shop: Gebrauchtwaren
+shop: charity
 ---

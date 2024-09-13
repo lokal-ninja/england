@@ -1,5 +1,5 @@
 ---
 title: "Mr Tyre Tamworth"
 url: /tamworth/mr-tyre-tamworth/
-shop: Reifen
+shop: tyres
 ---

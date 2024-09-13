@@ -1,5 +1,5 @@
 ---
 title: "RS Auto Sales York"
 url: /york/rs-auto-sales-york/
-shop: Autohaus
+shop: car
 ---

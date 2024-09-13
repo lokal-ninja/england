@@ -1,5 +1,5 @@
 ---
 title: "Better Bargain"
 url: /newcastle-upon-tyne/better-bargain/
-shop: Kramladen
+shop: variety store
 ---

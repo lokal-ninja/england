@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /grays/betfred/
-shop: Wettbüro
+shop: bookmaker
 ---

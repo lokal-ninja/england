@@ -1,5 +1,5 @@
 ---
 title: "Heron Foods"
 url: /thornton-cleveleys/heron-foods/
-shop: Supermarkt
+shop: supermarket
 ---

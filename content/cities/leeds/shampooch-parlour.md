@@ -1,5 +1,5 @@
 ---
 title: "Shampooch Parlour"
 url: /leeds/shampooch-parlour/
-shop: Tiersalon
+shop: pet grooming
 ---

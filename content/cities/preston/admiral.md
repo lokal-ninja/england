@@ -1,5 +1,5 @@
 ---
 title: "Admiral"
 url: /preston/admiral/
-shop: Allgemein
+shop: shop
 ---

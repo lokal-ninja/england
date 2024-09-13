@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /telford/aldi-madeley-court-way/
-shop: Supermarkt
+shop: supermarket
 ---

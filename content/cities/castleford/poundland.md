@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /castleford/poundland/
-shop: Kramladen
+shop: variety store
 ---

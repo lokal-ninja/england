@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /gateshead/coral/
-shop: Wettbüro
+shop: bookmaker
 ---

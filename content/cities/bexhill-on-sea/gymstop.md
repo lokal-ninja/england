@@ -1,5 +1,5 @@
 ---
 title: "Gymstop"
 url: /bexhill-on-sea/gymstop/
-shop: Allgemein
+shop: shop
 ---

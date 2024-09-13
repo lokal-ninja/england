@@ -1,5 +1,5 @@
 ---
 title: "Stocksfield Motor Company"
 url: /stocksfield/stocksfield-motor-company/
-shop: Autohaus
+shop: car
 ---

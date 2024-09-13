@@ -1,5 +1,5 @@
 ---
 title: "Getpotted"
 url: /watford/getpotted/
-shop: Katalog
+shop: catalogue
 ---

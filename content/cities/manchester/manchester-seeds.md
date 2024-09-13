@@ -1,5 +1,5 @@
 ---
 title: "Manchester Seeds"
 url: /manchester/manchester-seeds/
-shop: Landwirtschaftlich
+shop: agrarian
 ---

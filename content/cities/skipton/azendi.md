@@ -1,5 +1,5 @@
 ---
 title: "Azendi"
 url: /skipton/azendi/
-shop: Schmuck
+shop: jewelry
 ---

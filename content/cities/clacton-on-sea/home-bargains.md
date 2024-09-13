@@ -1,5 +1,5 @@
 ---
 title: "Home Bargains"
 url: /clacton-on-sea/home-bargains/
-shop: Kramladen
+shop: variety store
 ---

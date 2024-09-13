@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /rossendale/premier/
-shop: Lebensmittel
+shop: convenience
 ---

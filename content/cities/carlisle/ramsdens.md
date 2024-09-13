@@ -1,5 +1,5 @@
 ---
 title: "Ramsdens"
 url: /carlisle/ramsdens/
-shop: Leiher
+shop: pawnbroker
 ---

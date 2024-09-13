@@ -1,5 +1,5 @@
 ---
 title: "Rectory Garage"
 url: /worthing/rectory-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

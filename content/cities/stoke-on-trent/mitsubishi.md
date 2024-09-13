@@ -1,5 +1,5 @@
 ---
 title: "Mitsubishi"
 url: /stoke-on-trent/mitsubishi/
-shop: Autohaus
+shop: car
 ---

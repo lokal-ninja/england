@@ -1,5 +1,5 @@
 ---
 title: "Halo Hair"
 url: /congleton/halo-hair/
-shop: Friseur
+shop: hairdresser
 ---

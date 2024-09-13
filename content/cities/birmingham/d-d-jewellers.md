@@ -1,5 +1,5 @@
 ---
 title: "D D Jewellers"
 url: /birmingham/d-d-jewellers/
-shop: Schmuck
+shop: jewelry
 ---

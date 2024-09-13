@@ -1,5 +1,5 @@
 ---
 title: "JD Sports"
 url: /london/jd-sports-powis-street/
-shop: Sport
+shop: sports
 ---

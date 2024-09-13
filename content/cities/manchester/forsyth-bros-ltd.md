@@ -1,5 +1,5 @@
 ---
 title: "Forsyth Bros Ltd"
 url: /manchester/forsyth-bros-ltd/
-shop: Instrumente
+shop: musical instrument
 ---

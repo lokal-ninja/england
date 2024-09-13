@@ -1,5 +1,5 @@
 ---
 title: "Margaret Green Animal Care"
 url: /weymouth/margaret-green-animal-care/
-shop: Gebrauchtwaren
+shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Brian Christian Hair Design"
 url: /heanor/brian-christian-hair-design/
-shop: Friseur
+shop: hairdresser
 ---

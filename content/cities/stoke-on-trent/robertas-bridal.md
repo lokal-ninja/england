@@ -1,5 +1,5 @@
 ---
 title: "Robertas Bridal"
 url: /stoke-on-trent/robertas-bridal/
-shop: Kleidung
+shop: clothes
 ---

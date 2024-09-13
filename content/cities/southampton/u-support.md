@@ -1,5 +1,5 @@
 ---
 title: "U Support"
 url: /southampton/u-support/
-shop: Gebrauchtwaren
+shop: charity
 ---

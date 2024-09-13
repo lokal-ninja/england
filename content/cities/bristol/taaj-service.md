@@ -1,5 +1,5 @@
 ---
 title: "Taaj Service"
 url: /bristol/taaj-service/
-shop: Reisebüro
+shop: travel agency
 ---

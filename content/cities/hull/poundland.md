@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /hull/poundland/
-shop: Kramladen
+shop: variety store
 ---

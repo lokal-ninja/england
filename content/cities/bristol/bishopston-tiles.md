@@ -1,5 +1,5 @@
 ---
 title: "Bishopston Tiles"
 url: /bristol/bishopston-tiles/
-shop: Baumarkt
+shop: doityourself
 ---

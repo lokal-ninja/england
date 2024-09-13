@@ -1,5 +1,5 @@
 ---
 title: "Petal Accessories"
 url: /sheffield/petal-accessories/
-shop: Modehaus
+shop: boutique
 ---

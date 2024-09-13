@@ -1,5 +1,5 @@
 ---
 title: "Specsavers"
 url: /sutton-coldfield/specsavers/
-shop: Optiker
+shop: optician
 ---

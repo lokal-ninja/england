@@ -1,5 +1,5 @@
 ---
 title: "The Bikes College"
 url: /leeds/the-bikes-college/
-shop: Fahrrad
+shop: bicycle
 ---

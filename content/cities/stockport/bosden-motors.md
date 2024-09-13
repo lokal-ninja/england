@@ -1,5 +1,5 @@
 ---
 title: "Bosden Motors"
 url: /stockport/bosden-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

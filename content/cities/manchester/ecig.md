@@ -1,5 +1,5 @@
 ---
 title: "ecig"
 url: /manchester/ecig/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

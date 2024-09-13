@@ -1,5 +1,5 @@
 ---
 title: "Candy Galore"
 url: /norwich/candy-galore/
-shop: Süßwaren
+shop: confectionery
 ---

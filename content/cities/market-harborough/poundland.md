@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /market-harborough/poundland/
-shop: Kramladen
+shop: variety store
 ---

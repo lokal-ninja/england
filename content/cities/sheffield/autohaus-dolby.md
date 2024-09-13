@@ -1,5 +1,5 @@
 ---
 title: "Autohaus Dolby"
 url: /sheffield/autohaus-dolby/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Boyes"
 url: /oldham/boyes/
-shop: Warenhaus
+shop: department store
 ---

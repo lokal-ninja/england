@@ -1,5 +1,5 @@
 ---
 title: "Hall Green Convenience Store"
 url: /birmingham/hall-green-convenience-store/
-shop: Lebensmittel
+shop: convenience
 ---

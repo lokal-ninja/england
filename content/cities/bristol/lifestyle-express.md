@@ -1,5 +1,5 @@
 ---
-title: "lifestyle express"
+title: "Lifestyle Express"
 url: /bristol/lifestyle-express/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "TheWorks"
 url: /exeter/theworks/
-shop: Kramladen
+shop: variety store
 ---

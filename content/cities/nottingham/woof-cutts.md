@@ -1,5 +1,5 @@
 ---
 title: "Woof Cutts"
 url: /nottingham/woof-cutts/
-shop: Tiersalon
+shop: pet grooming
 ---

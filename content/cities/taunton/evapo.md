@@ -1,5 +1,5 @@
 ---
 title: "Evapo"
 url: /taunton/evapo/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

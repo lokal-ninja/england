@@ -1,5 +1,5 @@
 ---
 title: "DT Nails"
 url: /widnes/dt-nails/
-shop: Kosmetik
+shop: beauty
 ---

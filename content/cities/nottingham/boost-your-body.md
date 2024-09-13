@@ -1,5 +1,5 @@
 ---
 title: "Boost Your Body"
 url: /nottingham/boost-your-body/
-shop: Massage
+shop: massage
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Eastern European Mini Market"
 url: /castleford/eastern-european-mini-market/
-shop: Lebensmittel
+shop: convenience
 ---

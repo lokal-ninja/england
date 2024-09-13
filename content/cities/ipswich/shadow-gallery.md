@@ -1,5 +1,5 @@
 ---
 title: "Shadow Gallery"
 url: /ipswich/shadow-gallery/
-shop: Friseur
+shop: hairdresser
 ---

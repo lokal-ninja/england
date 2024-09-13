@@ -1,5 +1,5 @@
 ---
 title: "iRepair"
 url: /canterbury/irepair/
-shop: Handy
+shop: mobile phone
 ---

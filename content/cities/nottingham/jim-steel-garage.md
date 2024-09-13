@@ -1,5 +1,5 @@
 ---
 title: "Jim Steel Garage"
 url: /nottingham/jim-steel-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

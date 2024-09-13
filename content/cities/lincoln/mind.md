@@ -1,5 +1,5 @@
 ---
 title: "Mind"
 url: /lincoln/mind/
-shop: Gebrauchtwaren
+shop: charity
 ---

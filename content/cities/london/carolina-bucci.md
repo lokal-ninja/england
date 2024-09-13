@@ -1,5 +1,5 @@
 ---
 title: "Carolina Bucci"
 url: /london/carolina-bucci/
-shop: Schmuck
+shop: jewelry
 ---

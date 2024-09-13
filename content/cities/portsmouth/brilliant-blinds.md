@@ -1,5 +1,5 @@
 ---
 title: "Brilliant Blinds"
 url: /portsmouth/brilliant-blinds/
-shop: Jalousien
+shop: window blind
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /ilkeston/premier/
-shop: Lebensmittel
+shop: convenience
 ---

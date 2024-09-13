@@ -1,5 +1,5 @@
 ---
 title: "Booker"
 url: /redruth/booker/
-shop: Großhandel
+shop: wholesale
 ---

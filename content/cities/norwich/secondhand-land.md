@@ -1,5 +1,5 @@
 ---
 title: "Secondhand Land"
 url: /norwich/secondhand-land/
-shop: Gebrauchtwaren
+shop: charity
 ---

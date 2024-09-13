@@ -1,5 +1,5 @@
 ---
 title: "Banyan Tree"
 url: /brighton/banyan-tree/
-shop: Kleidung
+shop: clothes
 ---

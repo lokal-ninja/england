@@ -1,5 +1,5 @@
 ---
 title: "Fara"
 url: /surbiton/fara/
-shop: Gebrauchtwaren
+shop: charity
 ---

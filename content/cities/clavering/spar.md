@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /clavering/spar/
-shop: Lebensmittel
+shop: convenience
 ---

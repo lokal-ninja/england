@@ -1,5 +1,5 @@
 ---
 title: "G. S. Needham"
 url: /altrincham/g-s-needham/
-shop: Autowerkstatt
+shop: car repair
 ---

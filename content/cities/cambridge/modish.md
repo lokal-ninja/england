@@ -1,5 +1,5 @@
 ---
 title: "Modish"
 url: /cambridge/modish/
-shop: Schuhe
+shop: shoes
 ---

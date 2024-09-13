@@ -1,5 +1,5 @@
 ---
 title: "Tracy Nails Salon"
 url: /thornton-heath/tracy-nails-salon/
-shop: Kosmetik
+shop: beauty
 ---

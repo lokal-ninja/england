@@ -1,5 +1,5 @@
 ---
 title: "DFS"
 url: /birmingham/dfs/
-shop: Möbel
+shop: furniture
 ---

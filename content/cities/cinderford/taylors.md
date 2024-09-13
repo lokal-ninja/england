@@ -1,5 +1,5 @@
 ---
 title: "Taylors"
 url: /cinderford/taylors/
-shop: Schmuck
+shop: jewelry
 ---

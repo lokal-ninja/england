@@ -1,5 +1,5 @@
 ---
 title: "Smiggle"
 url: /northampton/smiggle/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vision Express"
 url: /grimsby/vision-express/
-shop: Optiker
+shop: optician
 ---

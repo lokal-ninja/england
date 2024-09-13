@@ -1,5 +1,5 @@
 ---
 title: "Tyre Pros"
 url: /swaffham/tyre-pros/
-shop: Autowerkstatt
+shop: car repair
 ---

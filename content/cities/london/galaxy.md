@@ -1,5 +1,5 @@
 ---
 title: "Galaxy"
 url: /london/galaxy/
-shop: Wäscherei
+shop: laundry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lavender"
 url: /bristol/lavender/
-shop: Feinkost
+shop: deli
 ---

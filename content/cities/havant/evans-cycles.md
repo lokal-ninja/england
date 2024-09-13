@@ -1,5 +1,5 @@
 ---
 title: "Evans Cycles"
 url: /havant/evans-cycles/
-shop: Fahrrad
+shop: bicycle
 ---

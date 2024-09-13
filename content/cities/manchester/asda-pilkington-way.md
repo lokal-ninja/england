@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /manchester/asda-pilkington-way/
-shop: Supermarkt
+shop: supermarket
 ---

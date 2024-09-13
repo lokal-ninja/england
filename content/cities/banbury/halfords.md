@@ -1,5 +1,5 @@
 ---
 title: "Halfords"
 url: /banbury/halfords/
-shop: Autoteile
+shop: car parts
 ---

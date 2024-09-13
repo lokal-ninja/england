@@ -1,5 +1,5 @@
 ---
 title: "Connells"
 url: /leighton-buzzard/connells/
-shop: Immobilien
+shop: estate agent
 ---

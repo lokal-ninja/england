@@ -1,5 +1,5 @@
 ---
 title: "Swifties"
 url: /sheffield/swifties/
-shop: Baumarkt
+shop: doityourself
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Boldon DIY"
 url: /boldon-colliery/boldon-diy/
-shop: Baumarkt
+shop: doityourself
 ---

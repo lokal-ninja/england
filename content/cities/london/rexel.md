@@ -1,5 +1,5 @@
 ---
 title: "Rexel"
 url: /london/rexel/
-shop: Elektrisch
+shop: electrical
 ---

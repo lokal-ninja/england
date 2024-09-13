@@ -1,5 +1,5 @@
 ---
 title: "Albany Kitchens"
 url: /bishops-stortford/albany-kitchens/
-shop: Küchen
+shop: kitchen
 ---

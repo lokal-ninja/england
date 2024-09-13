@@ -1,5 +1,5 @@
 ---
 title: "ASC Ltd Newsagent"
 url: /northampton/asc-ltd-newsagent/
-shop: Zeitungen
+shop: newsagent
 ---

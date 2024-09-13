@@ -1,5 +1,5 @@
 ---
 title: "Oaktree Garage"
 url: /manningtree/oaktree-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

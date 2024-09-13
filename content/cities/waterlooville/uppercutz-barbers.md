@@ -1,5 +1,5 @@
 ---
 title: "Uppercutz Barbers"
 url: /waterlooville/uppercutz-barbers/
-shop: Friseur
+shop: hairdresser
 ---

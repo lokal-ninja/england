@@ -1,5 +1,5 @@
 ---
 title: "Camerton Auto Repairs"
 url: /bath/camerton-auto-repairs/
-shop: Autowerkstatt
+shop: car repair
 ---

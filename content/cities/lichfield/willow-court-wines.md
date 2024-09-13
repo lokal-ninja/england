@@ -1,5 +1,5 @@
 ---
 title: "Willow Court Wines"
 url: /lichfield/willow-court-wines/
-shop: Lebensmittel
+shop: convenience
 ---

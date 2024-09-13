@@ -1,5 +1,5 @@
 ---
 title: "Medowcroft Drycleaners"
 url: /york/medowcroft-drycleaners/
-shop: Wäscherei
+shop: laundry
 ---

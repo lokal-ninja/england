@@ -1,5 +1,5 @@
 ---
 title: "Ruxley Nursery"
 url: /sidcup/ruxley-nursery/
-shop: Garten-Center
+shop: garden centre
 ---

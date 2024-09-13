@@ -1,5 +1,5 @@
 ---
 title: "Ireton Road Garage"
 url: /colchester/ireton-road-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

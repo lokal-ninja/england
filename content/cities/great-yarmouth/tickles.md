@@ -1,5 +1,5 @@
 ---
 title: "Tickles"
 url: /great-yarmouth/tickles/
-shop: Allgemein
+shop: shop
 ---

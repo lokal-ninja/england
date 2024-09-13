@@ -1,5 +1,5 @@
 ---
 title: "Falcatch"
 url: /falmouth/falcatch/
-shop: Fisch
+shop: seafood
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Therapy"
 url: /preston/therapy/
-shop: Kosmetik
+shop: beauty
 ---

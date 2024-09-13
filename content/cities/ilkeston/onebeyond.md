@@ -1,5 +1,5 @@
 ---
 title: "OneBeyond"
 url: /ilkeston/onebeyond/
-shop: Kramladen
+shop: variety store
 ---

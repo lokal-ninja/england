@@ -1,5 +1,5 @@
 ---
 title: "JenningsBet"
 url: /manchester/jenningsbet/
-shop: Wettbüro
+shop: bookmaker
 ---

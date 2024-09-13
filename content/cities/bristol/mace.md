@@ -1,5 +1,5 @@
 ---
 title: "Mace"
 url: /bristol/mace/
-shop: Lebensmittel
+shop: convenience
 ---

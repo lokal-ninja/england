@@ -1,5 +1,5 @@
 ---
 title: "Elle Fashion"
 url: /manchester/elle-fashion/
-shop: Kleidung
+shop: clothes
 ---

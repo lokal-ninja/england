@@ -1,5 +1,5 @@
 ---
 title: "TK Maxx"
 url: /hounslow/tk-maxx/
-shop: Warenhaus
+shop: department store
 ---

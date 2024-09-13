@@ -1,5 +1,5 @@
 ---
 title: "Dunelm"
 url: /leicester/dunelm/
-shop: Raumausstattung
+shop: interior decoration
 ---

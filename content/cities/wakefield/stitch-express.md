@@ -1,5 +1,5 @@
 ---
 title: "Stitch Express"
 url: /wakefield/stitch-express/
-shop: Schneiderei
+shop: tailor
 ---

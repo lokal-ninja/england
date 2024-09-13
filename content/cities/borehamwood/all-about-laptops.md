@@ -1,5 +1,5 @@
 ---
 title: "all about laptops"
 url: /borehamwood/all-about-laptops/
-shop: Elektronik
+shop: electronics
 ---

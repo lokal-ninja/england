@@ -1,5 +1,5 @@
 ---
 title: "Dunelm"
 url: /beverley/dunelm/
-shop: Raumausstattung
+shop: interior decoration
 ---

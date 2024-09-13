@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /wallingford/lidl/
-shop: Supermarkt
+shop: supermarket
 ---

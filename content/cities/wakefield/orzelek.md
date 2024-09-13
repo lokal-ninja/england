@@ -1,5 +1,5 @@
 ---
 title: "Orzelek"
 url: /wakefield/orzelek/
-shop: Lebensmittel
+shop: convenience
 ---

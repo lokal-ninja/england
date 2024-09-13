@@ -1,5 +1,5 @@
 ---
 title: "Nisa"
 url: /warrington/nisa/
-shop: Lebensmittel
+shop: convenience
 ---

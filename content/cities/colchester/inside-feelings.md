@@ -1,5 +1,5 @@
 ---
 title: "Inside Feelings"
 url: /colchester/inside-feelings/
-shop: Teppiche
+shop: carpet
 ---

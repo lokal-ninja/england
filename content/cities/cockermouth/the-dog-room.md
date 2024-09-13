@@ -1,5 +1,5 @@
 ---
 title: "The Dog Room"
 url: /cockermouth/the-dog-room/
-shop: Tiersalon
+shop: pet grooming
 ---

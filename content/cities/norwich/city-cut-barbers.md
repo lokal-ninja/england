@@ -1,5 +1,5 @@
 ---
 title: "City Cut Barbers"
 url: /norwich/city-cut-barbers/
-shop: Friseur
+shop: hairdresser
 ---

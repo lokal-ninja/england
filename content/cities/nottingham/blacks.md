@@ -1,5 +1,5 @@
 ---
 title: "Blacks"
 url: /nottingham/blacks/
-shop: Outdoor
+shop: outdoor
 ---

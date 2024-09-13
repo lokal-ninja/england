@@ -1,5 +1,5 @@
 ---
 title: "Okra"
 url: /birmingham/okra/
-shop: Raumausstattung
+shop: interior decoration
 ---

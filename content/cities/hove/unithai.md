@@ -1,5 +1,5 @@
 ---
 title: "Unithai"
 url: /hove/unithai/
-shop: Supermarkt
+shop: supermarket
 ---

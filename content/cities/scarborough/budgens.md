@@ -1,5 +1,5 @@
 ---
 title: "Budgens"
 url: /scarborough/budgens/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "William Evans"
 url: /bisley-camp/william-evans/
-shop: Allgemein
+shop: shop
 ---

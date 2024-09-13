@@ -1,5 +1,5 @@
 ---
 title: "Emmaus Salford"
 url: /salford/emmaus-salford/
-shop: Gebrauchtwaren
+shop: charity
 ---

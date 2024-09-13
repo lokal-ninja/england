@@ -1,5 +1,5 @@
 ---
 title: "Greggs"
 url: /wallsend/greggs/
-shop: Bäckerei
+shop: bakery
 ---

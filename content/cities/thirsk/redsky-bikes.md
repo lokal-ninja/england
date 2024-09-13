@@ -1,5 +1,5 @@
 ---
 title: "RedSky Bikes"
 url: /thirsk/redsky-bikes/
-shop: Fahrrad
+shop: bicycle
 ---

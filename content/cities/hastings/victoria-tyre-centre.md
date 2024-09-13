@@ -1,5 +1,5 @@
 ---
 title: "Victoria Tyre Centre"
 url: /hastings/victoria-tyre-centre/
-shop: Reifen
+shop: tyres
 ---

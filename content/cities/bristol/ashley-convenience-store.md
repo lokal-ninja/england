@@ -1,5 +1,5 @@
 ---
 title: "Ashley Convenience Store"
 url: /bristol/ashley-convenience-store/
-shop: Lebensmittel
+shop: convenience
 ---

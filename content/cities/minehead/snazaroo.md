@@ -1,5 +1,5 @@
 ---
 title: "Snazaroo"
 url: /minehead/snazaroo/
-shop: Basteln
+shop: craft
 ---

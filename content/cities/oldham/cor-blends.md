@@ -1,5 +1,5 @@
 ---
 title: "COR Blends"
 url: /oldham/cor-blends/
-shop: Friseur
+shop: hairdresser
 ---

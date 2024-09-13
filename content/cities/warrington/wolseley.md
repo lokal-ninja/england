@@ -1,5 +1,5 @@
 ---
 title: "Wolseley"
 url: /warrington/wolseley/
-shop: Baustoffe
+shop: trade
 ---

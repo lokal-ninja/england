@@ -1,5 +1,5 @@
 ---
 title: "Gascoigne Bros Cycles"
 url: /coleshill/gascoigne-bros-cycles/
-shop: Fahrrad
+shop: bicycle
 ---

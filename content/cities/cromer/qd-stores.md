@@ -1,5 +1,5 @@
 ---
 title: "QD Stores"
 url: /cromer/qd-stores/
-shop: Kramladen
+shop: variety store
 ---

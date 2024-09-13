@@ -1,5 +1,5 @@
 ---
 title: "PMT Bristol Music Shop"
 url: /bristol/pmt-bristol-music-shop/
-shop: Instrumente
+shop: musical instrument
 ---

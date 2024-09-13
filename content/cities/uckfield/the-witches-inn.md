@@ -1,5 +1,5 @@
 ---
 title: "The Witches Inn"
 url: /uckfield/the-witches-inn/
-shop: Allgemein
+shop: shop
 ---

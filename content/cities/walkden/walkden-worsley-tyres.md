@@ -1,5 +1,5 @@
 ---
 title: "Walkden Worsley Tyres"
 url: /walkden/walkden-worsley-tyres/
-shop: Autowerkstatt
+shop: car repair
 ---

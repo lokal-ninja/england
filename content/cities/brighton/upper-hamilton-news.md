@@ -1,5 +1,5 @@
 ---
 title: "Upper Hamilton News"
 url: /brighton/upper-hamilton-news/
-shop: Zeitungen
+shop: newsagent
 ---

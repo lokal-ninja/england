@@ -1,5 +1,5 @@
 ---
 title: "Nursery Thyme"
 url: /sunderland/nursery-thyme/
-shop: Babysachen
+shop: baby goods
 ---

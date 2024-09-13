@@ -1,5 +1,5 @@
 ---
 title: "Clifton"
 url: /london/clifton/
-shop: Raumausstattung
+shop: interior decoration
 ---

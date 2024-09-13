@@ -1,5 +1,5 @@
 ---
 title: "Halfords"
 url: /farnham/halfords/
-shop: Autoteile
+shop: car parts
 ---

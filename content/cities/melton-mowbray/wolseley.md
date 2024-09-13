@@ -1,5 +1,5 @@
 ---
 title: "Wolseley"
 url: /melton-mowbray/wolseley/
-shop: Baustoffe
+shop: trade
 ---

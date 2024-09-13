@@ -1,5 +1,5 @@
 ---
 title: "Dreams"
 url: /wakefield/dreams/
-shop: Betten
+shop: bed
 ---

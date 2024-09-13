@@ -1,5 +1,5 @@
 ---
 title: "Asda Opticians"
 url: /altrincham/asda-opticians/
-shop: Optiker
+shop: optician
 ---

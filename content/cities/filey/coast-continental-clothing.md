@@ -1,5 +1,5 @@
 ---
 title: "Coast Continental Clothing"
 url: /filey/coast-continental-clothing/
-shop: Kleidung
+shop: clothes
 ---

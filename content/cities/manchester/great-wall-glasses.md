@@ -1,5 +1,5 @@
 ---
 title: "Great Wall Glasses"
 url: /manchester/great-wall-glasses/
-shop: Großhandel
+shop: wholesale
 ---

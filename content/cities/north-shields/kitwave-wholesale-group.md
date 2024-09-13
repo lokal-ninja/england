@@ -1,5 +1,5 @@
 ---
 title: "Kitwave Wholesale Group"
 url: /north-shields/kitwave-wholesale-group/
-shop: Großhandel
+shop: wholesale
 ---

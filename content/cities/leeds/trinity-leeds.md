@@ -1,5 +1,5 @@
 ---
 title: "Trinity Leeds"
 url: /leeds/trinity-leeds/
-shop: Einkaufszentrum
+shop: mall
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /pelaw/lidl/
-shop: Supermarkt
+shop: supermarket
 ---

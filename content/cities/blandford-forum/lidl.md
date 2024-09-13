@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /blandford-forum/lidl/
-shop: Supermarkt
+shop: supermarket
 ---

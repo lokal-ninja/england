@@ -1,5 +1,5 @@
 ---
 title: "Cooplands"
 url: /durham/cooplands/
-shop: Bäckerei
+shop: bakery
 ---

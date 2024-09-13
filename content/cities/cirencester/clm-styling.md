@@ -1,5 +1,5 @@
 ---
 title: "CLM Styling"
 url: /cirencester/clm-styling/
-shop: Kleidung
+shop: clothes
 ---

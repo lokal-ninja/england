@@ -1,5 +1,5 @@
 ---
 title: "Merlin Motors"
 url: /london/merlin-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

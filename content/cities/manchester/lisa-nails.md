@@ -1,5 +1,5 @@
 ---
 title: "Lisa Nails"
 url: /manchester/lisa-nails/
-shop: Kosmetik
+shop: beauty
 ---

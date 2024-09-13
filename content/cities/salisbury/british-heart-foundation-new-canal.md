@@ -1,5 +1,5 @@
 ---
 title: "British Heart Foundation"
 url: /salisbury/british-heart-foundation-new-canal/
-shop: Gebrauchtwaren
+shop: charity
 ---

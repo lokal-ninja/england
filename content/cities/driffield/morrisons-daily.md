@@ -1,5 +1,5 @@
 ---
 title: "Morrisons Daily"
 url: /driffield/morrisons-daily/
-shop: Lebensmittel
+shop: convenience
 ---

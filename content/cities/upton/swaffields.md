@@ -1,5 +1,5 @@
 ---
 title: "Swaffield's"
 url: /upton/swaffields/
-shop: Friseur
+shop: hairdresser
 ---

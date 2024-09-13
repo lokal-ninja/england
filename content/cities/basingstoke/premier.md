@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /basingstoke/premier/
-shop: Lebensmittel
+shop: convenience
 ---

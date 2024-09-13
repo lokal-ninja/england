@@ -1,5 +1,5 @@
 ---
 title: "3 Line"
 url: /derby/3-line/
-shop: Elektrisch
+shop: electrical
 ---

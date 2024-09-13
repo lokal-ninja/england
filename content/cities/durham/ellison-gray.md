@@ -1,5 +1,5 @@
 ---
 title: "Ellison Gray"
 url: /durham/ellison-gray/
-shop: Kleidung
+shop: clothes
 ---

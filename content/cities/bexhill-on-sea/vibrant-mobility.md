@@ -1,5 +1,5 @@
 ---
 title: "Vibrant Mobility"
 url: /bexhill-on-sea/vibrant-mobility/
-shop: Allgemein
+shop: shop
 ---

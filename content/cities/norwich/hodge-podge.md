@@ -1,5 +1,5 @@
 ---
 title: "Hodge Podge"
 url: /norwich/hodge-podge/
-shop: Haushaltsartikel
+shop: houseware
 ---

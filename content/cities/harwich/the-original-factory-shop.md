@@ -1,5 +1,5 @@
 ---
 title: "The Original Factory Shop"
 url: /harwich/the-original-factory-shop/
-shop: Warenhaus
+shop: department store
 ---

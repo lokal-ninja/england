@@ -1,5 +1,5 @@
 ---
 title: "Quadratech Diagnostics"
 url: /lewes/quadratech-diagnostics/
-shop: Sanitätshaus
+shop: medical supply
 ---

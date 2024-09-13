@@ -1,5 +1,5 @@
 ---
 title: "Sam Taylor"
 url: /blackpool/sam-taylor/
-shop: Fahrrad
+shop: bicycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Express Dry Cleaners"
 url: /london/express-dry-cleaners-lambs-conduit-street/
-shop: Wäscherei
+shop: laundry
 ---

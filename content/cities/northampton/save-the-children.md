@@ -1,5 +1,5 @@
 ---
 title: "Save the Children"
 url: /northampton/save-the-children/
-shop: Gebrauchtwaren
+shop: charity
 ---

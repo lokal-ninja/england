@@ -1,5 +1,5 @@
 ---
 title: "Fenwick"
 url: /colchester/fenwick/
-shop: Warenhaus
+shop: department store
 ---

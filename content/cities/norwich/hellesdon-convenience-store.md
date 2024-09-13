@@ -1,5 +1,5 @@
 ---
 title: "Hellesdon Convenience Store"
 url: /norwich/hellesdon-convenience-store/
-shop: Lebensmittel
+shop: convenience
 ---

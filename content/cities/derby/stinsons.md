@@ -1,5 +1,5 @@
 ---
 title: "Stinsons"
 url: /derby/stinsons/
-shop: Bestattungen
+shop: funeral directors
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Richardsons"
 url: /frinton-on-sea/richardsons/
-shop: Allgemein
+shop: shop
 ---

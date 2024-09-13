@@ -1,5 +1,5 @@
 ---
 title: "Cook"
 url: /oxted/cook/
-shop: Tiefkühl
+shop: frozen food
 ---

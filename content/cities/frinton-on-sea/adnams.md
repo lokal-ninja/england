@@ -1,5 +1,5 @@
 ---
 title: "Adnams"
 url: /frinton-on-sea/adnams/
-shop: Spirituosen
+shop: alcohol
 ---

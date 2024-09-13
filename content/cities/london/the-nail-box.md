@@ -1,5 +1,5 @@
 ---
 title: "The Nail Box"
 url: /london/the-nail-box/
-shop: Kosmetik
+shop: beauty
 ---

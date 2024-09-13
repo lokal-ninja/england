@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /wickham-fareham/shell/
-shop: Lebensmittel
+shop: convenience
 ---

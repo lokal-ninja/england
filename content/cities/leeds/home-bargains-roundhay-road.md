@@ -1,5 +1,5 @@
 ---
 title: "Home Bargains"
 url: /leeds/home-bargains-roundhay-road/
-shop: Kramladen
+shop: variety store
 ---

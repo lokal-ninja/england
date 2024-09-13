@@ -1,5 +1,5 @@
 ---
 title: "Clarendon Home Improvement"
 url: /chadwell-st-mary/clarendon-home-improvement/
-shop: Baumarkt
+shop: doityourself
 ---

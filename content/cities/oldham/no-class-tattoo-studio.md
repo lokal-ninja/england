@@ -1,5 +1,5 @@
 ---
 title: "No Class Tattoo Studio"
 url: /oldham/no-class-tattoo-studio/
-shop: Tattoo
+shop: tattoo
 ---

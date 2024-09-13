@@ -1,5 +1,5 @@
 ---
 title: "Planetis"
 url: /london/planetis/
-shop: Bioladen
+shop: health food
 ---

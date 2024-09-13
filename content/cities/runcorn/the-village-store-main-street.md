@@ -1,5 +1,5 @@
 ---
 title: "The Village Store"
 url: /runcorn/the-village-store-main-street/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Geoff's Convenience Store"
 url: /nottingham/geoffs-convenience-store/
-shop: Lebensmittel
+shop: convenience
 ---

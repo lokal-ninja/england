@@ -1,5 +1,5 @@
 ---
 title: "The Prius Centre"
 url: /london/the-prius-centre/
-shop: Autowerkstatt
+shop: car repair
 ---

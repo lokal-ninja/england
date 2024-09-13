@@ -1,5 +1,5 @@
 ---
 title: "Space NK"
 url: /nottingham/space-nk/
-shop: Kosmetik
+shop: beauty
 ---

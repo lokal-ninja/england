@@ -1,5 +1,5 @@
 ---
 title: "Moorfields News"
 url: /liverpool/moorfields-news/
-shop: Zeitungen
+shop: newsagent
 ---

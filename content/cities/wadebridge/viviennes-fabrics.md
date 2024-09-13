@@ -1,5 +1,5 @@
 ---
 title: "Vivienne's Fabrics"
 url: /wadebridge/viviennes-fabrics/
-shop: Textil
+shop: fabric
 ---

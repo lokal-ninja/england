@@ -1,5 +1,5 @@
 ---
 title: "Bromley International Food Centre"
 url: /bromley/bromley-international-food-centre/
-shop: Lebensmittel
+shop: convenience
 ---

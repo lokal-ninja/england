@@ -1,5 +1,5 @@
 ---
 title: "Stirchley Clothing Alterations"
 url: /birmingham/stirchley-clothing-alterations/
-shop: Schneiderei
+shop: tailor
 ---

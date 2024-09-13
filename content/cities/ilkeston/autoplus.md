@@ -1,5 +1,5 @@
 ---
 title: "Autoplus"
 url: /ilkeston/autoplus/
-shop: Autowerkstatt
+shop: car repair
 ---

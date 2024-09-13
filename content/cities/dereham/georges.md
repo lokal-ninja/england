@@ -1,5 +1,5 @@
 ---
 title: "George's"
 url: /dereham/georges/
-shop: Friseur
+shop: hairdresser
 ---

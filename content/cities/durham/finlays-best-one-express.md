@@ -1,5 +1,5 @@
 ---
 title: "Finlays Best-One Express"
 url: /durham/finlays-best-one-express/
-shop: Lebensmittel
+shop: convenience
 ---

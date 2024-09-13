@@ -1,5 +1,5 @@
 ---
 title: "Brands of Ely"
 url: /ely/brands-of-ely/
-shop: Tiere
+shop: pet
 ---

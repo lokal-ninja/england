@@ -1,5 +1,5 @@
 ---
 title: "Getgeared"
 url: /leeds/getgeared/
-shop: Kleidung
+shop: clothes
 ---

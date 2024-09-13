@@ -1,5 +1,5 @@
 ---
 title: "TDK"
 url: /bristol/tdk/
-shop: Bäckerei
+shop: bakery
 ---

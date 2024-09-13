@@ -1,5 +1,5 @@
 ---
 title: "Pure Beauty Point"
 url: /london/pure-beauty-point/
-shop: Kosmetik
+shop: beauty
 ---

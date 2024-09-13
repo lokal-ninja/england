@@ -1,5 +1,5 @@
 ---
 title: "Company Travel Ltd"
 url: /leeds/company-travel-ltd/
-shop: Reisebüro
+shop: travel agency
 ---

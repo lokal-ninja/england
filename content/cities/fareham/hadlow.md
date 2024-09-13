@@ -1,5 +1,5 @@
 ---
 title: "Hadlow"
 url: /fareham/hadlow/
-shop: Metzgerei
+shop: butcher
 ---

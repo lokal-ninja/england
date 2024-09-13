@@ -1,5 +1,5 @@
 ---
 title: "Million Dollar Dog Grooming"
 url: /todmorden/million-dollar-dog-grooming/
-shop: Tiersalon
+shop: pet grooming
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Neptune"
 url: /preston/neptune/
-shop: Möbel
+shop: furniture
 ---

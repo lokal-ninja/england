@@ -1,5 +1,5 @@
 ---
 title: "ND Convenience Store"
 url: /brighton/nd-convenience-store/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rivage"
 url: /nottingham/rivage/
-shop: Kosmetik
+shop: beauty
 ---

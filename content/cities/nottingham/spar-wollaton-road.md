@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /nottingham/spar-wollaton-road/
-shop: Lebensmittel
+shop: convenience
 ---

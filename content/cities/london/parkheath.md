@@ -1,5 +1,5 @@
 ---
 title: "Parkheath"
 url: /london/parkheath/
-shop: Immobilien
+shop: estate agent
 ---

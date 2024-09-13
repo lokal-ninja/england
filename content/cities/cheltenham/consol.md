@@ -1,5 +1,5 @@
 ---
 title: "Consol"
 url: /cheltenham/consol/
-shop: Kosmetik
+shop: beauty
 ---

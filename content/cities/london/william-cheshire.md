@@ -1,5 +1,5 @@
 ---
 title: "William Cheshire"
 url: /london/william-cheshire/
-shop: Schmuck
+shop: jewelry
 ---

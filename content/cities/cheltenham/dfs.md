@@ -1,5 +1,5 @@
 ---
 title: "DFS"
 url: /cheltenham/dfs/
-shop: Möbel
+shop: furniture
 ---

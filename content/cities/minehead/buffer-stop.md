@@ -1,5 +1,5 @@
 ---
 title: "Buffer Stop"
 url: /minehead/buffer-stop/
-shop: Andenken
+shop: gift
 ---

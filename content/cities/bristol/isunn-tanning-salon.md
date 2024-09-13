@@ -1,5 +1,5 @@
 ---
 title: "iSunn Tanning Salon"
 url: /bristol/isunn-tanning-salon/
-shop: Kosmetik
+shop: beauty
 ---

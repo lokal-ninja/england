@@ -1,5 +1,5 @@
 ---
 title: "Phone Box Gadgets"
 url: /cirencester/phone-box-gadgets/
-shop: Elektronik
+shop: electronics
 ---

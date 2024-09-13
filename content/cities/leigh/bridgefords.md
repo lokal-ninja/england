@@ -1,5 +1,5 @@
 ---
 title: "Bridgefords"
 url: /leigh/bridgefords/
-shop: Optiker
+shop: optician
 ---

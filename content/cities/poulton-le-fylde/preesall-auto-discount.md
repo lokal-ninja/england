@@ -1,5 +1,5 @@
 ---
 title: "Preesall Auto Discount"
 url: /poulton-le-fylde/preesall-auto-discount/
-shop: Autoteile
+shop: car parts
 ---

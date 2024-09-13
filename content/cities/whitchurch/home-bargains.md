@@ -1,5 +1,5 @@
 ---
 title: "Home Bargains"
 url: /whitchurch/home-bargains/
-shop: Kramladen
+shop: variety store
 ---

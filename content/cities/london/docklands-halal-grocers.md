@@ -1,5 +1,5 @@
 ---
 title: "Docklands Halal Grocers"
 url: /london/docklands-halal-grocers/
-shop: Lebensmittel
+shop: convenience
 ---

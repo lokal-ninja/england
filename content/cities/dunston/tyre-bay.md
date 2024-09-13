@@ -1,5 +1,5 @@
 ---
 title: "Tyre Bay"
 url: /dunston/tyre-bay/
-shop: Autowerkstatt
+shop: car repair
 ---

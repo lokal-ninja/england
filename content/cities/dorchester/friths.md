@@ -1,5 +1,5 @@
 ---
 title: "Frith’s"
 url: /dorchester/friths/
-shop: Optiker
+shop: optician
 ---

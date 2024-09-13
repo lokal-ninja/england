@@ -1,5 +1,5 @@
 ---
 title: "Hamza"
 url: /rotherham/hamza/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Choice Cards"
 url: /london/choice-cards/
-shop: Andenken
+shop: gift
 ---

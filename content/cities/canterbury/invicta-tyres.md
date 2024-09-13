@@ -1,5 +1,5 @@
 ---
 title: "Invicta Tyres"
 url: /canterbury/invicta-tyres/
-shop: Reifen
+shop: tyres
 ---

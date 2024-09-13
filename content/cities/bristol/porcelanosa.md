@@ -1,5 +1,5 @@
 ---
 title: "Porcelanosa"
 url: /bristol/porcelanosa/
-shop: Raumausstattung
+shop: interior decoration
 ---

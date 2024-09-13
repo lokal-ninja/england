@@ -1,5 +1,5 @@
 ---
 title: "Kelvins"
 url: /bristol/kelvins/
-shop: Metzgerei
+shop: butcher
 ---

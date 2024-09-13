@@ -1,5 +1,5 @@
 ---
 title: "Superdrug"
 url: /dartford/superdrug/
-shop: Drogerie
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Heron Foods"
 url: /alfreton/heron-foods/
-shop: Supermarkt
+shop: supermarket
 ---

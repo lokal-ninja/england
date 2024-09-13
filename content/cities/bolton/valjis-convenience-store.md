@@ -1,5 +1,5 @@
 ---
 title: "Valji's Convenience Store"
 url: /bolton/valjis-convenience-store/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cadows"
 url: /clacton-on-sea/cadows/
-shop: Garten-Center
+shop: garden centre
 ---

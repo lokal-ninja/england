@@ -1,5 +1,5 @@
 ---
 title: "Skreem"
 url: /manchester/skreem/
-shop: Großhandel
+shop: wholesale
 ---

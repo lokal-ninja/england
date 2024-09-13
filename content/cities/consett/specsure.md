@@ -1,5 +1,5 @@
 ---
 title: "Specsure"
 url: /consett/specsure/
-shop: Optiker
+shop: optician
 ---

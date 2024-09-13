@@ -1,5 +1,5 @@
 ---
 title: "The Puffin Hut"
 url: /swindon/the-puffin-hut-guildford-avenue/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

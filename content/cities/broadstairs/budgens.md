@@ -1,5 +1,5 @@
 ---
 title: "Budgens"
 url: /broadstairs/budgens/
-shop: Supermarkt
+shop: supermarket
 ---

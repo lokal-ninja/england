@@ -1,5 +1,5 @@
 ---
 title: "Morphe"
 url: /nottingham/morphe/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Rustic Rabbit"
 url: /skipton/the-rustic-rabbit/
-shop: Haushaltsartikel
+shop: houseware
 ---

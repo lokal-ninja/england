@@ -1,5 +1,5 @@
 ---
 title: "Mint"
 url: /birmingham/mint/
-shop: Kosmetik
+shop: beauty
 ---

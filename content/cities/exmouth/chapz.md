@@ -1,5 +1,5 @@
 ---
 title: "Chapz"
 url: /exmouth/chapz/
-shop: Friseur
+shop: hairdresser
 ---

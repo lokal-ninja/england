@@ -1,5 +1,5 @@
 ---
 title: "Toast"
 url: /brighton/toast/
-shop: Kleidung
+shop: clothes
 ---

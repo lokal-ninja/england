@@ -1,5 +1,5 @@
 ---
 title: "Game"
 url: /colchester/game/
-shop: Videospiele
+shop: video games
 ---

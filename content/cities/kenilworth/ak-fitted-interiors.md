@@ -1,5 +1,5 @@
 ---
 title: "AK Fitted Interiors"
 url: /kenilworth/ak-fitted-interiors/
-shop: Möbel
+shop: furniture
 ---

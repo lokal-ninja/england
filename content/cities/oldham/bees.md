@@ -1,5 +1,5 @@
 ---
 title: "BEES"
 url: /oldham/bees/
-shop: Baustoffe
+shop: trade
 ---

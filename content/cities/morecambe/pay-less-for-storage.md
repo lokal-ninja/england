@@ -1,5 +1,5 @@
 ---
 title: "Pay Less For Storage"
 url: /morecambe/pay-less-for-storage/
-shop: Mieten
+shop: storage rental
 ---

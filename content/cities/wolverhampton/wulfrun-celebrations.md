@@ -1,5 +1,5 @@
 ---
 title: "Wulfrun Celebrations"
 url: /wolverhampton/wulfrun-celebrations/
-shop: Andenken
+shop: gift
 ---

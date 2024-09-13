@@ -1,5 +1,5 @@
 ---
 title: "Krystals Express"
 url: /london/krystals-express-bishopsgate/
-shop: Zeitungen
+shop: newsagent
 ---

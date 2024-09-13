@@ -1,5 +1,5 @@
 ---
 title: "Cook"
 url: /tonbridge/cook/
-shop: Tiefkühl
+shop: frozen food
 ---

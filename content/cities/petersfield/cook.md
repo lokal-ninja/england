@@ -1,5 +1,5 @@
 ---
 title: "COOK"
 url: /petersfield/cook/
-shop: Tiefkühl
+shop: frozen food
 ---

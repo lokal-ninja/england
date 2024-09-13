@@ -1,5 +1,5 @@
 ---
 title: "Kloeber"
 url: /huntingdon/kloeber/
-shop: Türen
+shop: doors
 ---

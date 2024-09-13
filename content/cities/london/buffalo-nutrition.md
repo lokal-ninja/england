@@ -1,5 +1,5 @@
 ---
 title: "Buffalo Nutrition"
 url: /london/buffalo-nutrition/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

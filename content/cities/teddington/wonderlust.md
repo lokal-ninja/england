@@ -1,5 +1,5 @@
 ---
 title: "Wonderlust"
 url: /teddington/wonderlust/
-shop: Kleidung
+shop: clothes
 ---

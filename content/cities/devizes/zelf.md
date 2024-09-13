@@ -1,5 +1,5 @@
 ---
 title: "Zelf"
 url: /devizes/zelf/
-shop: Mieten
+shop: storage rental
 ---

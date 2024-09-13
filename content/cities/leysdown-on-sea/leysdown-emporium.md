@@ -1,5 +1,5 @@
 ---
 title: "Leysdown Emporium"
 url: /leysdown-on-sea/leysdown-emporium/
-shop: Kramladen
+shop: variety store
 ---

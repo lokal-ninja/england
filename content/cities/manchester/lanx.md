@@ -1,5 +1,5 @@
 ---
 title: "LANX"
 url: /manchester/lanx/
-shop: Schuhe
+shop: shoes
 ---

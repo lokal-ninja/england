@@ -1,5 +1,5 @@
 ---
 title: "The Chocolate Box"
 url: /sheringham/the-chocolate-box/
-shop: Süßwaren
+shop: confectionery
 ---

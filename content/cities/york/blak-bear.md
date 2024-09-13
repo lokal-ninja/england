@@ -1,5 +1,5 @@
 ---
 title: "Blak Bear"
 url: /york/blak-bear/
-shop: Friseur
+shop: hairdresser
 ---

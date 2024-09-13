@@ -1,5 +1,5 @@
 ---
 title: "Morgan Curtains"
 url: /penrith/morgan-curtains/
-shop: Gardinen
+shop: curtain
 ---

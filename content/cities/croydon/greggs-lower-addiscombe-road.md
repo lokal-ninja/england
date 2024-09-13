@@ -1,5 +1,5 @@
 ---
 title: "Greggs"
 url: /croydon/greggs-lower-addiscombe-road/
-shop: Bäckerei
+shop: bakery
 ---

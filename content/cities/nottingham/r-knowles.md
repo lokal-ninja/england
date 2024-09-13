@@ -1,5 +1,5 @@
 ---
 title: "R. Knowles"
 url: /nottingham/r-knowles/
-shop: Gemüse & Obst
+shop: greengrocer
 ---

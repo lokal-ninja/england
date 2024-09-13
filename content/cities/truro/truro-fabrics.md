@@ -1,5 +1,5 @@
 ---
 title: "Truro Fabrics"
 url: /truro/truro-fabrics/
-shop: Textil
+shop: fabric
 ---

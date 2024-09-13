@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /wallsend/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

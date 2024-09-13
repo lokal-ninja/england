@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /tamworth/spar-green-lane/
-shop: Lebensmittel
+shop: convenience
 ---

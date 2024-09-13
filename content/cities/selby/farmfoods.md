@@ -1,5 +1,5 @@
 ---
 title: "Farmfoods"
 url: /selby/farmfoods/
-shop: Tiefkühl
+shop: frozen food
 ---

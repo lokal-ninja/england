@@ -1,5 +1,5 @@
 ---
 title: "International Foods"
 url: /leeds/international-foods-harehills-lane/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Crown Cut"
 url: /london/crown-cut/
-shop: Friseur
+shop: hairdresser
 ---

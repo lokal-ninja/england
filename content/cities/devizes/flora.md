@@ -1,5 +1,5 @@
 ---
 title: "Flora"
 url: /devizes/flora/
-shop: Blumen
+shop: florist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Caralot"
 url: /derby/caralot/
-shop: Autohaus
+shop: car
 ---

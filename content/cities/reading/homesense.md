@@ -1,5 +1,5 @@
 ---
 title: "HomeSense"
 url: /reading/homesense/
-shop: Raumausstattung
+shop: interior decoration
 ---

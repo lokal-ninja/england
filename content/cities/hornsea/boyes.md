@@ -1,5 +1,5 @@
 ---
 title: "Boyes"
 url: /hornsea/boyes/
-shop: Warenhaus
+shop: department store
 ---

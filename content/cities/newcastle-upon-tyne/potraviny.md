@@ -1,5 +1,5 @@
 ---
 title: "Potraviny"
 url: /newcastle-upon-tyne/potraviny/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cardzone"
 url: /pontefract/cardzone/
-shop: Andenken
+shop: gift
 ---

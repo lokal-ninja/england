@@ -1,5 +1,5 @@
 ---
 title: "Sainsbury's Local"
 url: /blackburn/sainsburys-local/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /ramsgate/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

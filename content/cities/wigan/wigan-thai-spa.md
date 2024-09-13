@@ -1,5 +1,5 @@
 ---
 title: "Wigan Thai Spa"
 url: /wigan/wigan-thai-spa/
-shop: Massage
+shop: massage
 ---

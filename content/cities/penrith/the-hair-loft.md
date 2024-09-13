@@ -1,5 +1,5 @@
 ---
 title: "The Hair Loft"
 url: /penrith/the-hair-loft/
-shop: Friseur
+shop: hairdresser
 ---

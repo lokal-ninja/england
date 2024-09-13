@@ -1,5 +1,5 @@
 ---
 title: "Lodge Brothers"
 url: /addlestone/lodge-brothers/
-shop: Bestattungen
+shop: funeral directors
 ---

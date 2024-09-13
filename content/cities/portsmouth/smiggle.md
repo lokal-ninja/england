@@ -1,5 +1,5 @@
 ---
 title: "Smiggle"
 url: /portsmouth/smiggle/
-shop: Schreibwaren
+shop: office supplies
 ---

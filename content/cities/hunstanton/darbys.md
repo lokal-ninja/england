@@ -1,5 +1,5 @@
 ---
 title: "Darbys"
 url: /hunstanton/darbys/
-shop: Kleidung
+shop: clothes
 ---

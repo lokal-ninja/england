@@ -1,5 +1,5 @@
 ---
 title: "Glow"
 url: /shanklin/glow/
-shop: Kosmetik
+shop: beauty
 ---

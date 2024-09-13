@@ -1,5 +1,5 @@
 ---
 title: "Mercedes-Benz"
 url: /carlisle/mercedes-benz/
-shop: Autohaus
+shop: car
 ---

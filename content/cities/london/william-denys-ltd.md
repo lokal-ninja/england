@@ -1,5 +1,5 @@
 ---
 title: "William Denys Ltd"
 url: /london/william-denys-ltd/
-shop: Bestattungen
+shop: funeral directors
 ---

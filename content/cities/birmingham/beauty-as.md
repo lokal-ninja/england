@@ -1,5 +1,5 @@
 ---
 title: "Beauty As"
 url: /birmingham/beauty-as/
-shop: Kosmetik
+shop: beauty
 ---

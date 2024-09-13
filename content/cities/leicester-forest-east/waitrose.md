@@ -1,5 +1,5 @@
 ---
 title: "Waitrose"
 url: /leicester-forest-east/waitrose/
-shop: Lebensmittel
+shop: convenience
 ---

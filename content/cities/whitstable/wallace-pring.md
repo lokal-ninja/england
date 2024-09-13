@@ -1,5 +1,5 @@
 ---
 title: "Wallace Pring"
 url: /whitstable/wallace-pring/
-shop: Kleidung
+shop: clothes
 ---

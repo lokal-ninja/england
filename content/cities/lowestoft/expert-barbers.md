@@ -1,5 +1,5 @@
 ---
 title: "Expert Barbers"
 url: /lowestoft/expert-barbers/
-shop: Friseur
+shop: hairdresser
 ---

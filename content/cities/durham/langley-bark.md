@@ -1,5 +1,5 @@
 ---
 title: "Langley Bark"
 url: /durham/langley-bark/
-shop: Tiersalon
+shop: pet grooming
 ---

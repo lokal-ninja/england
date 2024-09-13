@@ -1,5 +1,5 @@
 ---
 title: "Marions"
 url: /southport/marions/
-shop: Friseur
+shop: hairdresser
 ---

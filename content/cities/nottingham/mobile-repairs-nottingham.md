@@ -1,5 +1,5 @@
 ---
 title: "Mobile Repairs Nottingham"
 url: /nottingham/mobile-repairs-nottingham/
-shop: Allgemein
+shop: shop
 ---

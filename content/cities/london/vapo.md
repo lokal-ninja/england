@@ -1,5 +1,5 @@
 ---
 title: "Vapo"
 url: /london/vapo/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

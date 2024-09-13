@@ -1,5 +1,5 @@
 ---
 title: "ETB Autocentres"
 url: /derby/etb-autocentres/
-shop: Autowerkstatt
+shop: car repair
 ---

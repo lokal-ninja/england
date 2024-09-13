@@ -1,5 +1,5 @@
 ---
 title: "Pilning Store"
 url: /pilning/pilning-store/
-shop: Lebensmittel
+shop: convenience
 ---

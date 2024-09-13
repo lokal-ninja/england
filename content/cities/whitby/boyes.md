@@ -1,5 +1,5 @@
 ---
 title: "Boyes"
 url: /whitby/boyes/
-shop: Warenhaus
+shop: department store
 ---

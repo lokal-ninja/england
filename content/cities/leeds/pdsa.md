@@ -1,5 +1,5 @@
 ---
 title: "PDSA"
 url: /leeds/pdsa/
-shop: Gebrauchtwaren
+shop: charity
 ---

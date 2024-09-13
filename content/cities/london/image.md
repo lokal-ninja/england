@@ -1,5 +1,5 @@
 ---
 title: "Image"
 url: /london/image/
-shop: Schneiderei
+shop: tailor
 ---

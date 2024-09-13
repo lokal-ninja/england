@@ -1,5 +1,5 @@
 ---
 title: "Framework"
 url: /ulverston/framework/
-shop: Rahmen
+shop: frame
 ---

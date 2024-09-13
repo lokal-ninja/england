@@ -1,5 +1,5 @@
 ---
 title: "Vaperites"
 url: /pontefract/vaperites/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kwik Fit"
 url: /tunbridge-wells/kwik-fit/
-shop: Autowerkstatt
+shop: car repair
 ---

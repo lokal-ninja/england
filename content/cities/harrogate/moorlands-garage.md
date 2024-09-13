@@ -1,5 +1,5 @@
 ---
 title: "Moorlands Garage"
 url: /harrogate/moorlands-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

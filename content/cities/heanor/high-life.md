@@ -1,5 +1,5 @@
 ---
 title: "High Life"
 url: /heanor/high-life/
-shop: Allgemein
+shop: shop
 ---

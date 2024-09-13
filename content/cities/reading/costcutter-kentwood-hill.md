@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /reading/costcutter-kentwood-hill/
-shop: Lebensmittel
+shop: convenience
 ---

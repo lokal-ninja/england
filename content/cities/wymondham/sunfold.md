@@ -1,5 +1,5 @@
 ---
 title: "Sunfold"
 url: /wymondham/sunfold/
-shop: Türen
+shop: doors
 ---

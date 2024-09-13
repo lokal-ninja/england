@@ -1,5 +1,5 @@
 ---
 title: "Debarge"
 url: /wellingborough/debarge/
-shop: Andenken
+shop: gift
 ---

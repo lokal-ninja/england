@@ -1,5 +1,5 @@
 ---
 title: "Ego Barbers"
 url: /chorley/ego-barbers/
-shop: Friseur
+shop: hairdresser
 ---

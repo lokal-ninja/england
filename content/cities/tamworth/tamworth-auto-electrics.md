@@ -1,5 +1,5 @@
 ---
 title: "Tamworth Auto Electrics"
 url: /tamworth/tamworth-auto-electrics/
-shop: Autowerkstatt
+shop: car repair
 ---

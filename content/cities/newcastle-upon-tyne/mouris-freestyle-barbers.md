@@ -1,5 +1,5 @@
 ---
 title: "Mouri's Freestyle Barbers"
 url: /newcastle-upon-tyne/mouris-freestyle-barbers/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mahalo"
 url: /dartmouth/mahalo-newcomen-road/
-shop: Raumausstattung
+shop: interior decoration
 ---

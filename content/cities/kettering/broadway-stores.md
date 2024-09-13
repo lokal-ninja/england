@@ -1,5 +1,5 @@
 ---
 title: "Broadway Stores"
 url: /kettering/broadway-stores/
-shop: Lebensmittel
+shop: convenience
 ---

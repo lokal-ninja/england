@@ -1,5 +1,5 @@
 ---
 title: "UltraViolet's"
 url: /oldham/ultraviolets/
-shop: Kosmetik
+shop: beauty
 ---

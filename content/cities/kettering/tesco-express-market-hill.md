@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /kettering/tesco-express-market-hill/
-shop: Lebensmittel
+shop: convenience
 ---

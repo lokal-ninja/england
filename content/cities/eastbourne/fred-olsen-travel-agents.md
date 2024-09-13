@@ -1,5 +1,5 @@
 ---
 title: "Fred. Olsen Travel Agents"
 url: /eastbourne/fred-olsen-travel-agents/
-shop: Reisebüro
+shop: travel agency
 ---

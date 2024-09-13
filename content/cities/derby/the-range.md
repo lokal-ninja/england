@@ -1,5 +1,5 @@
 ---
 title: "The Range"
 url: /derby/the-range/
-shop: Haushaltsartikel
+shop: houseware
 ---

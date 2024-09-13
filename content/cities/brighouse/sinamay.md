@@ -1,5 +1,5 @@
 ---
 title: "Sinamay"
 url: /brighouse/sinamay/
-shop: Modehaus
+shop: boutique
 ---

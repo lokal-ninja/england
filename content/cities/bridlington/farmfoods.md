@@ -1,5 +1,5 @@
 ---
 title: "Farmfoods"
 url: /bridlington/farmfoods/
-shop: Tiefkühl
+shop: frozen food
 ---

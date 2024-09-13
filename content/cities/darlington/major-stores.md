@@ -1,5 +1,5 @@
 ---
 title: "Major Stores"
 url: /darlington/major-stores/
-shop: Lebensmittel
+shop: convenience
 ---

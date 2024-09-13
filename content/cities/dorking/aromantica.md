@@ -1,5 +1,5 @@
 ---
 title: "Aromantica"
 url: /dorking/aromantica/
-shop: Bioladen
+shop: health food
 ---

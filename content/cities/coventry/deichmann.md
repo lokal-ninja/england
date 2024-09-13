@@ -1,5 +1,5 @@
 ---
 title: "Deichmann"
 url: /coventry/deichmann/
-shop: Allgemein
+shop: shop
 ---

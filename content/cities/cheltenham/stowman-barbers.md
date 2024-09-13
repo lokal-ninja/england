@@ -1,5 +1,5 @@
 ---
 title: "Stowman Barbers"
 url: /cheltenham/stowman-barbers/
-shop: Friseur
+shop: hairdresser
 ---

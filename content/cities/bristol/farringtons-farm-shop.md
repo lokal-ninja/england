@@ -1,5 +1,5 @@
 ---
 title: "Farrington's Farm Shop"
 url: /bristol/farringtons-farm-shop/
-shop: Hofladen
+shop: farm
 ---

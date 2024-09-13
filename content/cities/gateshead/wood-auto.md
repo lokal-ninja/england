@@ -1,5 +1,5 @@
 ---
 title: "Wood Auto"
 url: /gateshead/wood-auto/
-shop: Autoteile
+shop: car parts
 ---

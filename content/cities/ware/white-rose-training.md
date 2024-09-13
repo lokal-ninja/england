@@ -1,5 +1,5 @@
 ---
 title: "White Rose Training"
 url: /ware/white-rose-training/
-shop: Allgemein
+shop: shop
 ---

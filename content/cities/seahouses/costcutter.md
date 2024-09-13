@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /seahouses/costcutter/
-shop: Supermarkt
+shop: supermarket
 ---

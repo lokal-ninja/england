@@ -1,5 +1,5 @@
 ---
 title: "Cherrys Deli"
 url: /petworth/cherrys-deli/
-shop: Feinkost
+shop: deli
 ---

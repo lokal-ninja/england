@@ -1,5 +1,5 @@
 ---
 title: "Broad Street News"
 url: /rotherham/broad-street-news/
-shop: Zeitungen
+shop: newsagent
 ---

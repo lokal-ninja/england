@@ -1,5 +1,5 @@
 ---
 title: "Touchwood"
 url: /wetherby/touchwood/
-shop: Haushaltsartikel
+shop: houseware
 ---

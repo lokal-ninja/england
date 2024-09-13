@@ -1,5 +1,5 @@
 ---
 title: "SueSew"
 url: /rugby/suesew/
-shop: Nähzubehör
+shop: sewing
 ---

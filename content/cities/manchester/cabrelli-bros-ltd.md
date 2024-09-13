@@ -1,5 +1,5 @@
 ---
 title: "Cabrelli Bros Ltd"
 url: /manchester/cabrelli-bros-ltd/
-shop: Großhandel
+shop: wholesale
 ---

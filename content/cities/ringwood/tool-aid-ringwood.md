@@ -1,5 +1,5 @@
 ---
 title: "Tool Aid Ringwood"
 url: /ringwood/tool-aid-ringwood/
-shop: Allgemein
+shop: shop
 ---

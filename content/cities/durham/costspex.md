@@ -1,5 +1,5 @@
 ---
 title: "Costspex"
 url: /durham/costspex/
-shop: Optiker
+shop: optician
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sue Ryder"
 url: /london/sue-ryder-market-place/
-shop: Gebrauchtwaren
+shop: charity
 ---

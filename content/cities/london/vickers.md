@@ -1,5 +1,5 @@
 ---
 title: "Vickers"
 url: /london/vickers/
-shop: Immobilien
+shop: estate agent
 ---

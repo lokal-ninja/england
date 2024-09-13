@@ -1,5 +1,5 @@
 ---
 title: "Paddy Power"
 url: /croydon/paddy-power-london-road/
-shop: Wettbüro
+shop: bookmaker
 ---

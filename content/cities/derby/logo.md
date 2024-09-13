@@ -1,5 +1,5 @@
 ---
 title: "Logo"
 url: /derby/logo/
-shop: Allgemein
+shop: shop
 ---

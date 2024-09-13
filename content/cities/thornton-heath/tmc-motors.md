@@ -1,5 +1,5 @@
 ---
 title: "TMC Motors"
 url: /thornton-heath/tmc-motors/
-shop: Autohaus
+shop: car
 ---

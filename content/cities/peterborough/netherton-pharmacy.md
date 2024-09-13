@@ -1,5 +1,5 @@
 ---
 title: "Netherton Pharmacy"
 url: /peterborough/netherton-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Digi Print"
 url: /sheffield/digi-print/
-shop: Kopieren
+shop: copyshop
 ---

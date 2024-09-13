@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /leeds/asda-harehills-lane/
-shop: Supermarkt
+shop: supermarket
 ---

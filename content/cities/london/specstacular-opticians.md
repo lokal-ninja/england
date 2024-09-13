@@ -1,5 +1,5 @@
 ---
 title: "Specstacular Opticians"
 url: /london/specstacular-opticians/
-shop: Optiker
+shop: optician
 ---

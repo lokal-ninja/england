@@ -1,5 +1,5 @@
 ---
 title: "North Road Garage"
 url: /darlington/north-road-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

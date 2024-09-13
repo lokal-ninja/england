@@ -1,5 +1,5 @@
 ---
 title: "Eastern Bloc"
 url: /manchester/eastern-bloc/
-shop: Musik
+shop: music
 ---

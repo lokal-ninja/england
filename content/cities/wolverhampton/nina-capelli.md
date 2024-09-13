@@ -1,5 +1,5 @@
 ---
 title: "Nina Capelli"
 url: /wolverhampton/nina-capelli/
-shop: Friseur
+shop: hairdresser
 ---

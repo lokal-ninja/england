@@ -1,5 +1,5 @@
 ---
 title: "Pet Boutique"
 url: /twickenham/pet-boutique/
-shop: Tiere
+shop: pet
 ---

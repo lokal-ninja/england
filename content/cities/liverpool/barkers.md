@@ -1,5 +1,5 @@
 ---
 title: "Barkers"
 url: /liverpool/barkers/
-shop: Tiersalon
+shop: pet grooming
 ---

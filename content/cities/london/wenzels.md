@@ -1,5 +1,5 @@
 ---
 title: "Wenzels"
 url: /london/wenzels/
-shop: Bäckerei
+shop: bakery
 ---

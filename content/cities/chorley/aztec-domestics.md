@@ -1,5 +1,5 @@
 ---
 title: "Aztec Domestics"
 url: /chorley/aztec-domestics/
-shop: Elektronik
+shop: electronics
 ---

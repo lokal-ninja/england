@@ -1,5 +1,5 @@
 ---
 title: "Gould Barbers"
 url: /downham-market/gould-barbers/
-shop: Friseur
+shop: hairdresser
 ---

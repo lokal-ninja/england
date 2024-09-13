@@ -1,5 +1,5 @@
 ---
 title: "You Sweetie"
 url: /leigh/you-sweetie/
-shop: Süßwaren
+shop: confectionery
 ---

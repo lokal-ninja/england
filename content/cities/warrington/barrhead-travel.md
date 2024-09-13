@@ -1,5 +1,5 @@
 ---
 title: "Barrhead Travel"
 url: /warrington/barrhead-travel/
-shop: Reisebüro
+shop: travel agency
 ---

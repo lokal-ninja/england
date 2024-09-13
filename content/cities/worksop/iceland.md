@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /worksop/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Peaches"
 url: /buxton/peaches/
-shop: Gemüse & Obst
+shop: greengrocer
 ---

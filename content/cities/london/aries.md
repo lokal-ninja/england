@@ -1,5 +1,5 @@
 ---
 title: "Aries"
 url: /london/aries/
-shop: Kleidung
+shop: clothes
 ---

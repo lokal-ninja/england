@@ -1,5 +1,5 @@
 ---
 title: "Greenways"
 url: /wallsend/greenways/
-shop: Kramladen
+shop: variety store
 ---

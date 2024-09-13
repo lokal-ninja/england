@@ -1,5 +1,5 @@
 ---
 title: "Bickley Convenience"
 url: /bromley/bickley-convenience/
-shop: Lebensmittel
+shop: convenience
 ---

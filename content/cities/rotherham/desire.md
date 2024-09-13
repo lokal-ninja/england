@@ -1,5 +1,5 @@
 ---
 title: "Desire"
 url: /rotherham/desire/
-shop: Süßwaren
+shop: confectionery
 ---

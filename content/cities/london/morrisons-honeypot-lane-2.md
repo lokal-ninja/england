@@ -1,5 +1,5 @@
 ---
 title: "Morrisons"
 url: /london/morrisons-honeypot-lane-2/
-shop: Lebensmittel
+shop: convenience
 ---

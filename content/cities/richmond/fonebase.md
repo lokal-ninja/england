@@ -1,5 +1,5 @@
 ---
 title: "Fonebase"
 url: /richmond/fonebase/
-shop: Handy
+shop: mobile phone
 ---

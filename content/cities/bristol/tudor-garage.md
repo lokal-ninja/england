@@ -1,5 +1,5 @@
 ---
 title: "Tudor Garage"
 url: /bristol/tudor-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

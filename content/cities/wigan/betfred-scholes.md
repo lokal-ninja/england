@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /wigan/betfred-scholes/
-shop: Wettbüro
+shop: bookmaker
 ---

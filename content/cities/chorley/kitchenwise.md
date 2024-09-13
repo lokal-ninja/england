@@ -1,5 +1,5 @@
 ---
 title: "KitchenWise"
 url: /chorley/kitchenwise/
-shop: Küchen
+shop: kitchen
 ---

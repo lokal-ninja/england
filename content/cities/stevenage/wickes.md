@@ -1,5 +1,5 @@
 ---
 title: "Wickes"
 url: /stevenage/wickes/
-shop: Baumarkt
+shop: doityourself
 ---

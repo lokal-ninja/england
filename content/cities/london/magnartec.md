@@ -1,5 +1,5 @@
 ---
 title: "Magnartec"
 url: /london/magnartec/
-shop: Basteln
+shop: craft
 ---

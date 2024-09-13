@@ -1,5 +1,5 @@
 ---
 title: "Magnet"
 url: /bingley/magnet/
-shop: Küchen
+shop: kitchen
 ---

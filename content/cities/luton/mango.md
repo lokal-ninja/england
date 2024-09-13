@@ -1,5 +1,5 @@
 ---
 title: "Mango"
 url: /luton/mango/
-shop: Wäscherei
+shop: laundry
 ---

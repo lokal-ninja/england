@@ -1,5 +1,5 @@
 ---
 title: "Break Charity Shop"
 url: /norwich/break-charity-shop/
-shop: Gebrauchtwaren
+shop: charity
 ---

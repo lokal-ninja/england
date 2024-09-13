@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /upper-heyford/spar/
-shop: Lebensmittel
+shop: convenience
 ---

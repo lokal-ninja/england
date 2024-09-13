@@ -1,5 +1,5 @@
 ---
 title: "Sytner MINI"
 url: /solihull/sytner-mini/
-shop: Autohaus
+shop: car
 ---

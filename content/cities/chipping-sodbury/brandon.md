@@ -1,5 +1,5 @@
 ---
 title: "Brandon"
 url: /chipping-sodbury/brandon/
-shop: Gebrauchtwaren
+shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sheldon Bishop"
 url: /london/sheldon-bishop/
-shop: Immobilien
+shop: estate agent
 ---

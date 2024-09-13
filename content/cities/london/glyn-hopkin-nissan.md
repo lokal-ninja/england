@@ -1,5 +1,5 @@
 ---
 title: "Glyn Hopkin Nissan"
 url: /london/glyn-hopkin-nissan/
-shop: Autohaus
+shop: car
 ---

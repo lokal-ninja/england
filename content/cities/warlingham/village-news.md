@@ -1,5 +1,5 @@
 ---
 title: "Village News"
 url: /warlingham/village-news/
-shop: Lebensmittel
+shop: convenience
 ---

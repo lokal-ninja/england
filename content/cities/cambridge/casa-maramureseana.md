@@ -1,5 +1,5 @@
 ---
 title: "Casa Maramureseana"
 url: /cambridge/casa-maramureseana/
-shop: Lebensmittel
+shop: convenience
 ---

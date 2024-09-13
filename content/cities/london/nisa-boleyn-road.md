@@ -1,5 +1,5 @@
 ---
 title: "Nisa"
 url: /london/nisa-boleyn-road/
-shop: Lebensmittel
+shop: convenience
 ---

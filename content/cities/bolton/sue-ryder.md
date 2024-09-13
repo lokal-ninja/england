@@ -1,5 +1,5 @@
 ---
 title: "Sue Ryder"
 url: /bolton/sue-ryder/
-shop: Gebrauchtwaren
+shop: charity
 ---

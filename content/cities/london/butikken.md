@@ -1,5 +1,5 @@
 ---
 title: "Butikken"
 url: /london/butikken/
-shop: Allgemein
+shop: shop
 ---

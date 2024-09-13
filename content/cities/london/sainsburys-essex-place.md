@@ -1,5 +1,5 @@
 ---
 title: "Sainsbury's"
 url: /london/sainsburys-essex-place/
-shop: Supermarkt
+shop: supermarket
 ---

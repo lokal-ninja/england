@@ -1,5 +1,5 @@
 ---
 title: "The Enchanted Florist"
 url: /nottingham/the-enchanted-florist/
-shop: Blumen
+shop: florist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Osbornes Stationers"
 url: /birmingham/osbornes-stationers/
-shop: Schreibwaren
+shop: office supplies
 ---

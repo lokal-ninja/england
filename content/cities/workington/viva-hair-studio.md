@@ -1,5 +1,5 @@
 ---
 title: "Viva Hair Studio"
 url: /workington/viva-hair-studio/
-shop: Friseur
+shop: hairdresser
 ---

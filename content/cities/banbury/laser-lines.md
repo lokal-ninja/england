@@ -1,5 +1,5 @@
 ---
 title: "Laser Lines"
 url: /banbury/laser-lines/
-shop: Kopieren
+shop: copyshop
 ---

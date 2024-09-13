@@ -1,5 +1,5 @@
 ---
 title: "BoozeBuster"
 url: /corby/boozebuster-welland-vale-road/
-shop: Spirituosen
+shop: alcohol
 ---

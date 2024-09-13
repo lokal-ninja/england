@@ -1,5 +1,5 @@
 ---
 title: "Matt's Autos"
 url: /grimsby/matts-autos/
-shop: Autowerkstatt
+shop: car repair
 ---

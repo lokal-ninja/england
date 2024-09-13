@@ -1,5 +1,5 @@
 ---
 title: "Phone Boss"
 url: /portsmouth/phone-boss/
-shop: Handy
+shop: mobile phone
 ---

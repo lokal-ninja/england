@@ -1,5 +1,5 @@
 ---
 title: "Scammells Garage"
 url: /petworth/scammells-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

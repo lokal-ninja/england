@@ -1,5 +1,5 @@
 ---
 title: "Summer Lilly's"
 url: /newport/summer-lillys/
-shop: Blumen
+shop: florist
 ---

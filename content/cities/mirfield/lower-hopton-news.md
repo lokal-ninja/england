@@ -1,5 +1,5 @@
 ---
 title: "Lower Hopton News"
 url: /mirfield/lower-hopton-news/
-shop: Zeitungen
+shop: newsagent
 ---

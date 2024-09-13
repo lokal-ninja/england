@@ -1,5 +1,5 @@
 ---
 title: "Washington Auto Services"
 url: /sunderland/washington-auto-services/
-shop: Autowerkstatt
+shop: car repair
 ---

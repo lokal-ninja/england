@@ -1,5 +1,5 @@
 ---
 title: "Blacks"
 url: /newport/blacks/
-shop: Outdoor
+shop: outdoor
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sleep.8"
 url: /grays/sleep-8/
-shop: Möbel
+shop: furniture
 ---

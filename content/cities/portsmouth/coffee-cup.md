@@ -1,5 +1,5 @@
 ---
 title: "Coffee Cup"
 url: /portsmouth/coffee-cup/
-shop: Kaffee
+shop: coffee
 ---

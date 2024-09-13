@@ -1,5 +1,5 @@
 ---
 title: "Abbey Street"
 url: /ripley/abbey-street/
-shop: Gebrauchtwaren
+shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Apricot"
 url: /basingstoke/apricot/
-shop: Kleidung
+shop: clothes
 ---

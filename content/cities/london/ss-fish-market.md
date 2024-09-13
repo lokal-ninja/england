@@ -1,5 +1,5 @@
 ---
 title: "SS Fish Market"
 url: /london/ss-fish-market/
-shop: Fisch
+shop: seafood
 ---

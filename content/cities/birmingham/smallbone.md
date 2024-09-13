@@ -1,5 +1,5 @@
 ---
 title: "Smallbone"
 url: /birmingham/smallbone/
-shop: Autohaus
+shop: car
 ---

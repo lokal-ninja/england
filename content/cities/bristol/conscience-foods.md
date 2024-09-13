@@ -1,5 +1,5 @@
 ---
 title: "Conscience Foods"
 url: /bristol/conscience-foods/
-shop: Allgemein
+shop: shop
 ---

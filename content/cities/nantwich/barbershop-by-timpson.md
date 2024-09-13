@@ -1,5 +1,5 @@
 ---
 title: "Barbershop by Timpson"
 url: /nantwich/barbershop-by-timpson/
-shop: Friseur
+shop: hairdresser
 ---

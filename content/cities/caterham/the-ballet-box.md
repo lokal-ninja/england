@@ -1,5 +1,5 @@
 ---
 title: "The Ballet Box"
 url: /caterham/the-ballet-box/
-shop: Kleidung
+shop: clothes
 ---

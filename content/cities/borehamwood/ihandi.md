@@ -1,5 +1,5 @@
 ---
 title: "iHandi"
 url: /borehamwood/ihandi/
-shop: Computer
+shop: computer
 ---

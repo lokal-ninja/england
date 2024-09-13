@@ -1,5 +1,5 @@
 ---
 title: "Norton Way Skoda"
 url: /london/norton-way-skoda/
-shop: Autowerkstatt
+shop: car repair
 ---

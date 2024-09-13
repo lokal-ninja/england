@@ -1,5 +1,5 @@
 ---
 title: "Alcatraz"
 url: /sudbury/alcatraz/
-shop: Friseur
+shop: hairdresser
 ---

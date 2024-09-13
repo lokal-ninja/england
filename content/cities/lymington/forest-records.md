@@ -1,5 +1,5 @@
 ---
 title: "Forest Records"
 url: /lymington/forest-records/
-shop: Musik
+shop: music
 ---

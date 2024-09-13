@@ -1,5 +1,5 @@
 ---
 title: "La Maison"
 url: /bexhill-on-sea/la-maison/
-shop: Andenken
+shop: gift
 ---

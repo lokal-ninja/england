@@ -1,5 +1,5 @@
 ---
 title: "Jeff Banks"
 url: /murton/jeff-banks/
-shop: Kleidung
+shop: clothes
 ---

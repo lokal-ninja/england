@@ -1,5 +1,5 @@
 ---
 title: "Hobbs"
 url: /swindon/hobbs/
-shop: Kleidung
+shop: clothes
 ---

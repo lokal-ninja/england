@@ -1,5 +1,5 @@
 ---
 title: "Southport Tiles"
 url: /southport/southport-tiles/
-shop: Allgemein
+shop: shop
 ---

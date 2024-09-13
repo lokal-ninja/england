@@ -1,5 +1,5 @@
 ---
 title: "Chimpanzee"
 url: /london/chimpanzee/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Israa"
 url: /manchester/israa/
-shop: Großhandel
+shop: wholesale
 ---

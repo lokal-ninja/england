@@ -1,5 +1,5 @@
 ---
 title: "Threadz"
 url: /derby/threadz/
-shop: Kleidung
+shop: clothes
 ---

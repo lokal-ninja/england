@@ -1,5 +1,5 @@
 ---
 title: "Breitling"
 url: /bath/breitling/
-shop: Uhren
+shop: watches
 ---

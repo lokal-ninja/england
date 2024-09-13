@@ -1,5 +1,5 @@
 ---
 title: "Specsavers"
 url: /woodbridge/specsavers/
-shop: Optiker
+shop: optician
 ---

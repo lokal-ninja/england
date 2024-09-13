@@ -1,5 +1,5 @@
 ---
 title: "Sharif and Sons Superstore"
 url: /derby/sharif-and-sons-superstore/
-shop: Lebensmittel
+shop: convenience
 ---

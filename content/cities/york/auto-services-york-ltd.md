@@ -1,5 +1,5 @@
 ---
 title: "Auto Services York Ltd."
 url: /york/auto-services-york-ltd/
-shop: Autowerkstatt
+shop: car repair
 ---

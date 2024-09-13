@@ -1,5 +1,5 @@
 ---
 title: "Novares"
 url: /peterlee/novares/
-shop: Autoteile
+shop: car parts
 ---

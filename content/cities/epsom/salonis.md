@@ -1,5 +1,5 @@
 ---
 title: "Salonis"
 url: /epsom/salonis/
-shop: Friseur
+shop: hairdresser
 ---

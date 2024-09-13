@@ -1,5 +1,5 @@
 ---
 title: "Leconcepts"
 url: /gateshead/leconcepts/
-shop: Elektronik
+shop: electronics
 ---

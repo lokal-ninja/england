@@ -1,5 +1,5 @@
 ---
 title: "OneBeyond"
 url: /washington/onebeyond/
-shop: Kramladen
+shop: variety store
 ---

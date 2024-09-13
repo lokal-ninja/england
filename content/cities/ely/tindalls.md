@@ -1,5 +1,5 @@
 ---
 title: "Tindalls"
 url: /ely/tindalls/
-shop: Schreibwaren
+shop: office supplies
 ---

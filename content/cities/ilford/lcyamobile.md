@@ -1,5 +1,5 @@
 ---
 title: "Lcyamobile"
 url: /ilford/lcyamobile/
-shop: Elektrisch
+shop: electrical
 ---

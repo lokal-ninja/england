@@ -1,5 +1,5 @@
 ---
 title: "Impressions Forum"
 url: /washington/impressions-forum/
-shop: Friseur
+shop: hairdresser
 ---

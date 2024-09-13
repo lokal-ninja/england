@@ -1,5 +1,5 @@
 ---
 title: "Tutankhamun's Emporium"
 url: /swaffham/tutankhamuns-emporium/
-shop: Antiquitäten
+shop: antiques
 ---

@@ -1,5 +1,5 @@
 ---
 title: "HomeSense"
 url: /cheltenham/homesense/
-shop: Raumausstattung
+shop: interior decoration
 ---

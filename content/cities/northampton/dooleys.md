@@ -1,5 +1,5 @@
 ---
 title: "Dooleys"
 url: /northampton/dooleys/
-shop: Kiosk
+shop: kiosk
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Labyrinth"
 url: /glastonbury/labyrinth/
-shop: Bücher
+shop: books
 ---

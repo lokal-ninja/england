@@ -1,5 +1,5 @@
 ---
 title: "Newspoint"
 url: /salford/newspoint/
-shop: Zeitungen
+shop: newsagent
 ---

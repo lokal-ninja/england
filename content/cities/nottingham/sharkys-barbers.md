@@ -1,5 +1,5 @@
 ---
 title: "Sharky's Barbers"
 url: /nottingham/sharkys-barbers/
-shop: Friseur
+shop: hairdresser
 ---

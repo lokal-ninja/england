@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /newmarket/ladbrokes-the-guineas-shopping-centre/
-shop: Wettbüro
+shop: bookmaker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Enso Martial Arts"
 url: /bristol/enso-martial-arts/
-shop: Sport
+shop: sports
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Camille"
 url: /salford-quays/camille/
-shop: Kleidung
+shop: clothes
 ---

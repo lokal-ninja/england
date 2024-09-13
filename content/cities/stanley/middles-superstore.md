@@ -1,5 +1,5 @@
 ---
 title: "Middles Superstore"
 url: /stanley/middles-superstore/
-shop: Lebensmittel
+shop: convenience
 ---

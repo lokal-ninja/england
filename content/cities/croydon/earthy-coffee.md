@@ -1,5 +1,5 @@
 ---
 title: "Earthy Coffee"
 url: /croydon/earthy-coffee/
-shop: Kaffee
+shop: coffee
 ---

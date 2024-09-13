@@ -1,5 +1,5 @@
 ---
 title: "Intimissimi"
 url: /london/intimissimi-kings-road/
-shop: Kleidung
+shop: clothes
 ---

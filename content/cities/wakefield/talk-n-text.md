@@ -1,5 +1,5 @@
 ---
 title: "Talk N Text"
 url: /wakefield/talk-n-text/
-shop: Handy
+shop: mobile phone
 ---

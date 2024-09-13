@@ -1,5 +1,5 @@
 ---
 title: "Georgie MC Aesthetics"
 url: /manchester/georgie-mc-aesthetics/
-shop: Kosmetik
+shop: beauty
 ---

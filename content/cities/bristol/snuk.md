@@ -1,5 +1,5 @@
 ---
 title: "SNUK"
 url: /bristol/snuk/
-shop: Feinkost
+shop: deli
 ---

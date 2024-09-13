@@ -1,5 +1,5 @@
 ---
 title: "Burnett and Company"
 url: /aldeburgh/burnett-and-company/
-shop: Raumausstattung
+shop: interior decoration
 ---

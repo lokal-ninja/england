@@ -1,5 +1,5 @@
 ---
 title: "The Butchers Shop"
 url: /nottingham/the-butchers-shop/
-shop: Metzgerei
+shop: butcher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /portsmouth/spar/
-shop: Lebensmittel
+shop: convenience
 ---

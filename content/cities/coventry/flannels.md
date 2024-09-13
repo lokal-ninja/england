@@ -1,5 +1,5 @@
 ---
 title: "Flannels"
 url: /coventry/flannels/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jarrold"
 url: /cromer/jarrold/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Prinny's"
 url: /sheffield/prinnys/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "GSM Exchange"
 url: /london/gsm-exchange/
-shop: Computer
+shop: computer
 ---

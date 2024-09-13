@@ -1,5 +1,5 @@
 ---
 title: "Ashaeel"
 url: /birmingham/ashaeel/
-shop: Optiker
+shop: optician
 ---

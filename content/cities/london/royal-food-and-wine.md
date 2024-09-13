@@ -1,5 +1,5 @@
 ---
-title: "Royal Food and Wine"
+title: "Royal Food & Wine"
 url: /london/royal-food-and-wine/
-shop: Lebensmittel
+shop: convenience
 ---

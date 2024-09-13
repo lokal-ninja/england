@@ -1,5 +1,5 @@
 ---
 title: "Butterfly"
 url: /sheffield/butterfly/
-shop: Kleidung
+shop: clothes
 ---

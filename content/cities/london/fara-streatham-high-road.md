@@ -1,5 +1,5 @@
 ---
 title: "Fara"
 url: /london/fara-streatham-high-road/
-shop: Gebrauchtwaren
+shop: charity
 ---

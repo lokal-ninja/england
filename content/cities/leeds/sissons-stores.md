@@ -1,5 +1,5 @@
 ---
 title: "Sissons Stores"
 url: /leeds/sissons-stores/
-shop: Supermarkt
+shop: supermarket
 ---

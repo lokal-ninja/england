@@ -1,5 +1,5 @@
 ---
 title: "Hatfield Audi Service Centre"
 url: /hatfield/hatfield-audi-service-centre/
-shop: Autowerkstatt
+shop: car repair
 ---

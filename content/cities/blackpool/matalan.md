@@ -1,5 +1,5 @@
 ---
 title: "Matalan"
 url: /blackpool/matalan/
-shop: Kleidung
+shop: clothes
 ---

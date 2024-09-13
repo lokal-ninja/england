@@ -1,5 +1,5 @@
 ---
 title: "Signature"
 url: /cirencester/signature/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SecureStore"
 url: /gateshead/securestore/
-shop: Mieten
+shop: storage rental
 ---

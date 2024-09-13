@@ -1,5 +1,5 @@
 ---
 title: "Timpson"
 url: /norwich/timpson-william-frost-way/
-shop: Schlüsseldienst
+shop: locksmith
 ---

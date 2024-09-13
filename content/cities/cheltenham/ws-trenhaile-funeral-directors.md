@@ -1,5 +1,5 @@
 ---
 title: "WS Trenhaile Funeral Directors"
 url: /cheltenham/ws-trenhaile-funeral-directors/
-shop: Bestattungen
+shop: funeral directors
 ---

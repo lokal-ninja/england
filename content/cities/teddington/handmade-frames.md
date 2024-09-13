@@ -1,5 +1,5 @@
 ---
 title: "Handmade Frames"
 url: /teddington/handmade-frames/
-shop: Rahmen
+shop: frame
 ---

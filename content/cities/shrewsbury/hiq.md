@@ -1,5 +1,5 @@
 ---
 title: "HiQ"
 url: /shrewsbury/hiq/
-shop: Autowerkstatt
+shop: car repair
 ---

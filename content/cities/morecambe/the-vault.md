@@ -1,5 +1,5 @@
 ---
 title: "The Vault"
 url: /morecambe/the-vault/
-shop: Andenken
+shop: gift
 ---

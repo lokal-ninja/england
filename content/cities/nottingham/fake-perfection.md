@@ -1,5 +1,5 @@
 ---
 title: "Fake Perfection"
 url: /nottingham/fake-perfection/
-shop: Kosmetik
+shop: beauty
 ---

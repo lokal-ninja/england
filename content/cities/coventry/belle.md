@@ -1,5 +1,5 @@
 ---
 title: "Belle"
 url: /coventry/belle/
-shop: Blumen
+shop: florist
 ---

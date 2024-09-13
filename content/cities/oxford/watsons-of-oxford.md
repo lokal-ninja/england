@@ -1,5 +1,5 @@
 ---
 title: "Watsons of Oxford"
 url: /oxford/watsons-of-oxford/
-shop: Andenken
+shop: gift
 ---

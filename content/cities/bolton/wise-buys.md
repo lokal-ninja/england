@@ -1,5 +1,5 @@
 ---
 title: "Wise Buys"
 url: /bolton/wise-buys/
-shop: Kramladen
+shop: variety store
 ---

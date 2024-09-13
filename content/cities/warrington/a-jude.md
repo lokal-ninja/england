@@ -1,5 +1,5 @@
 ---
 title: "A Jude"
 url: /warrington/a-jude/
-shop: Friseur
+shop: hairdresser
 ---

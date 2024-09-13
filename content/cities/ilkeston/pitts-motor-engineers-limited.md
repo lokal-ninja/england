@@ -1,5 +1,5 @@
 ---
 title: "Pitts Motor Engineers Limited"
 url: /ilkeston/pitts-motor-engineers-limited/
-shop: Autowerkstatt
+shop: car repair
 ---

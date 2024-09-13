@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /london/costcutter-grove-road/
-shop: Lebensmittel
+shop: convenience
 ---

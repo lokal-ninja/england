@@ -1,5 +1,5 @@
 ---
 title: "Threads"
 url: /derby/threads/
-shop: Schneiderei
+shop: tailor
 ---

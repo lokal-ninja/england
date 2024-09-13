@@ -1,5 +1,5 @@
 ---
 title: "Broad Oak Motors"
 url: /exeter/broad-oak-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Origin Massage Therapy"
 url: /london/origin-massage-therapy/
-shop: Massage
+shop: massage
 ---

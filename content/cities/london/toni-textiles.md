@@ -1,5 +1,5 @@
 ---
 title: "Toni Textiles"
 url: /london/toni-textiles/
-shop: Textil
+shop: fabric
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pasha Superstore"
 url: /middlesbrough/pasha-superstore/
-shop: Lebensmittel
+shop: convenience
 ---

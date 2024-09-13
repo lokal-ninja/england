@@ -1,5 +1,5 @@
 ---
 title: "Next"
 url: /gainsborough/next/
-shop: Kleidung
+shop: clothes
 ---

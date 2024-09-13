@@ -1,5 +1,5 @@
 ---
 title: "Daddy Alterations"
 url: /bristol/daddy-alterations/
-shop: Schneiderei
+shop: tailor
 ---

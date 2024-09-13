@@ -1,5 +1,5 @@
 ---
 title: "Coach House Garage"
 url: /bridgemont/coach-house-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

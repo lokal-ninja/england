@@ -1,5 +1,5 @@
 ---
 title: "CeX"
 url: /aldershot/cex/
-shop: Elektronik
+shop: electronics
 ---

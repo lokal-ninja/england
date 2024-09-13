@@ -1,5 +1,5 @@
 ---
 title: "Layers"
 url: /london/layers/
-shop: Bäckerei
+shop: bakery
 ---

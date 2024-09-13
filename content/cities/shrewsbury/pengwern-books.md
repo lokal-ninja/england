@@ -1,5 +1,5 @@
 ---
 title: "Pengwern Books"
 url: /shrewsbury/pengwern-books/
-shop: Bücher
+shop: books
 ---

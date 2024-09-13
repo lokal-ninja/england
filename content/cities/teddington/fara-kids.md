@@ -1,5 +1,5 @@
 ---
 title: "Fara Kids"
 url: /teddington/fara-kids/
-shop: Gebrauchtwaren
+shop: charity
 ---

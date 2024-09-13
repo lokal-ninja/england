@@ -1,5 +1,5 @@
 ---
 title: "Warren James"
 url: /newcastle-upon-tyne/warren-james/
-shop: Schmuck
+shop: jewelry
 ---

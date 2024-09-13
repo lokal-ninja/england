@@ -1,5 +1,5 @@
 ---
 title: "Morrisan"
 url: /manchester/morrisan/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Seasalt"
 url: /truro/seasalt/
-shop: Kleidung
+shop: clothes
 ---

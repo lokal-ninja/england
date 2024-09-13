@@ -1,5 +1,5 @@
 ---
 title: "Auto FM Ltd"
 url: /manchester/auto-fm-ltd/
-shop: Autowerkstatt
+shop: car repair
 ---

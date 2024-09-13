@@ -1,5 +1,5 @@
 ---
 title: "Well Street Wines"
 url: /london/well-street-wines/
-shop: Spirituosen
+shop: alcohol
 ---

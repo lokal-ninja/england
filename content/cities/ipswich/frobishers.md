@@ -1,5 +1,5 @@
 ---
 title: "Frobishers"
 url: /ipswich/frobishers/
-shop: Allgemein
+shop: shop
 ---

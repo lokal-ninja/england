@@ -1,5 +1,5 @@
 ---
 title: "Morrisons"
 url: /telford/morrisons-gresham-drive/
-shop: Supermarkt
+shop: supermarket
 ---

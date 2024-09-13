@@ -1,5 +1,5 @@
 ---
 title: "Gilberts"
 url: /swindon/gilberts/
-shop: Möbel
+shop: furniture
 ---

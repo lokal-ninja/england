@@ -1,5 +1,5 @@
 ---
 title: "Cresta Motors"
 url: /london/cresta-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

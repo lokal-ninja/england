@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /bolton/coral/
-shop: Wettbüro
+shop: bookmaker
 ---

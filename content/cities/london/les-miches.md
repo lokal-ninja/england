@@ -1,5 +1,5 @@
 ---
 title: "Les Miches"
 url: /london/les-miches/
-shop: Bäckerei
+shop: bakery
 ---

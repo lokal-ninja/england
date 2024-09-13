@@ -1,5 +1,5 @@
 ---
 title: "Si Sanches"
 url: /leeds/si-sanches/
-shop: Friseur
+shop: hairdresser
 ---

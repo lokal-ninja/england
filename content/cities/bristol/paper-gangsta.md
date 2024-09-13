@@ -1,5 +1,5 @@
 ---
 title: "Paper Gangsta"
 url: /bristol/paper-gangsta/
-shop: Andenken
+shop: gift
 ---

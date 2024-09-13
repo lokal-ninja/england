@@ -1,5 +1,5 @@
 ---
 title: "YMCA"
 url: /sunderland/ymca/
-shop: Gebrauchtwaren
+shop: charity
 ---

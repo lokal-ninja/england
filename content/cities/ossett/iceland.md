@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /ossett/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

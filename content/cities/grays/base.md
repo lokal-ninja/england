@@ -1,5 +1,5 @@
 ---
 title: "Base"
 url: /grays/base/
-shop: Kleidung
+shop: clothes
 ---

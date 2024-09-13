@@ -1,5 +1,5 @@
 ---
 title: "Wakefields"
 url: /horsham/wakefields/
-shop: Schmuck
+shop: jewelry
 ---

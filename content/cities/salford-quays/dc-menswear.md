@@ -1,5 +1,5 @@
 ---
 title: "DC Menswear"
 url: /salford-quays/dc-menswear/
-shop: Kleidung
+shop: clothes
 ---

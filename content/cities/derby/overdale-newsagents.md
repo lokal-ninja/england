@@ -1,5 +1,5 @@
 ---
 title: "Overdale Newsagents"
 url: /derby/overdale-newsagents/
-shop: Zeitungen
+shop: newsagent
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Maymans"
 url: /preston/maymans/
-shop: Dorfladen
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Polarn O. Pyret"
 url: /cambridge/polarn-o-pyret/
-shop: Kleidung
+shop: clothes
 ---

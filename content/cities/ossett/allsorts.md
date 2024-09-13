@@ -1,5 +1,5 @@
 ---
 title: "Allsorts"
 url: /ossett/allsorts/
-shop: Kramladen
+shop: variety store
 ---

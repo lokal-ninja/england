@@ -1,5 +1,5 @@
 ---
 title: "Polo Market"
 url: /mansfield/polo-market/
-shop: Supermarkt
+shop: supermarket
 ---

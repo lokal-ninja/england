@@ -1,5 +1,5 @@
 ---
 title: "Slate"
 url: /aldeburgh/slate/
-shop: Feinkost
+shop: deli
 ---

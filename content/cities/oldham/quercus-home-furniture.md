@@ -1,5 +1,5 @@
 ---
 title: "Quercus Home Furniture"
 url: /oldham/quercus-home-furniture/
-shop: Möbel
+shop: furniture
 ---

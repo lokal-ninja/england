@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /workington/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

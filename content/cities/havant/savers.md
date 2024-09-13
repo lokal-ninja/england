@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /havant/savers/
-shop: Drogerie
+shop: chemist
 ---

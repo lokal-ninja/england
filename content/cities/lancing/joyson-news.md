@@ -1,5 +1,5 @@
 ---
 title: "Joyson News"
 url: /lancing/joyson-news/
-shop: Zeitungen
+shop: newsagent
 ---

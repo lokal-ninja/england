@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /romford/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

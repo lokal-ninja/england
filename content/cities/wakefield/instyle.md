@@ -1,5 +1,5 @@
 ---
 title: "Instyle"
 url: /wakefield/instyle/
-shop: Kosmetik
+shop: beauty
 ---

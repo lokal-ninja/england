@@ -1,5 +1,5 @@
 ---
 title: "Top Tunes"
 url: /shepperton/top-tunes/
-shop: Allgemein
+shop: shop
 ---

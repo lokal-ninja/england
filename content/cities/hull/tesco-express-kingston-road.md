@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /hull/tesco-express-kingston-road/
-shop: Lebensmittel
+shop: convenience
 ---

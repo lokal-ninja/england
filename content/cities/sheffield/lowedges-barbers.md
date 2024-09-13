@@ -1,5 +1,5 @@
 ---
 title: "Lowedges Barbers"
 url: /sheffield/lowedges-barbers/
-shop: Friseur
+shop: hairdresser
 ---

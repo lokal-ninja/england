@@ -1,5 +1,5 @@
 ---
 title: "Ottoman Suite"
 url: /sutton-coldfield/ottoman-suite/
-shop: Friseur
+shop: hairdresser
 ---

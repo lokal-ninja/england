@@ -1,5 +1,5 @@
 ---
 title: "Impressive"
 url: /twickenham/impressive/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

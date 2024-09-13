@@ -1,5 +1,5 @@
 ---
 title: "Golf Works"
 url: /dartford/golf-works/
-shop: Golf
+shop: golf
 ---

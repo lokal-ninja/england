@@ -1,5 +1,5 @@
 ---
 title: "Amplifon"
 url: /cheltenham/amplifon/
-shop: Hörgeräte
+shop: hearing aids
 ---

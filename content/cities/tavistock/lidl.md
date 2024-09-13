@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /tavistock/lidl/
-shop: Supermarkt
+shop: supermarket
 ---

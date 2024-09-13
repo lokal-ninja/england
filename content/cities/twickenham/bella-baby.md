@@ -1,5 +1,5 @@
 ---
 title: "Bella Baby"
 url: /twickenham/bella-baby/
-shop: Babysachen
+shop: baby goods
 ---

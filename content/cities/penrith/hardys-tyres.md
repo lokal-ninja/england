@@ -1,5 +1,5 @@
 ---
 title: "Hardys Tyres"
 url: /penrith/hardys-tyres/
-shop: Autowerkstatt
+shop: car repair
 ---

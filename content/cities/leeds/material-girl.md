@@ -1,5 +1,5 @@
 ---
 title: "Material Girl"
 url: /leeds/material-girl/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /goole/spar/
-shop: Lebensmittel
+shop: convenience
 ---

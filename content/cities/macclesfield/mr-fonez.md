@@ -1,5 +1,5 @@
 ---
 title: "Mr. Fonez"
 url: /macclesfield/mr-fonez/
-shop: Handy
+shop: mobile phone
 ---

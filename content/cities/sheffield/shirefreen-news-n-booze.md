@@ -1,5 +1,5 @@
 ---
 title: "Shirefreen News 'n' Booze"
 url: /sheffield/shirefreen-news-n-booze/
-shop: Lebensmittel
+shop: convenience
 ---

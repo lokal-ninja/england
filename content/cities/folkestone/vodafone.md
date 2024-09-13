@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
 url: /folkestone/vodafone/
-shop: Handy
+shop: mobile phone
 ---

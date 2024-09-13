@@ -1,5 +1,5 @@
 ---
 title: "Adrian Rowe Haircutters"
 url: /norwich/adrian-rowe-haircutters/
-shop: Friseur
+shop: hairdresser
 ---

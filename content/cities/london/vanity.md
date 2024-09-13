@@ -1,5 +1,5 @@
 ---
 title: "Vanity"
 url: /london/vanity/
-shop: Kosmetik
+shop: beauty
 ---

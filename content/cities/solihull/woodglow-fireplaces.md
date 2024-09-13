@@ -1,5 +1,5 @@
 ---
 title: "Woodglow Fireplaces"
 url: /solihull/woodglow-fireplaces/
-shop: Allgemein
+shop: shop
 ---

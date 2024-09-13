@@ -1,5 +1,5 @@
 ---
 title: "Remy Nails"
 url: /newmarket/remy-nails/
-shop: Kosmetik
+shop: beauty
 ---

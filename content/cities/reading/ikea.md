@@ -1,5 +1,5 @@
 ---
 title: "IKEA"
 url: /reading/ikea/
-shop: Möbel
+shop: furniture
 ---

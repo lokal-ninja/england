@@ -1,5 +1,5 @@
 ---
 title: "Polish"
 url: /lydney/polish/
-shop: Kosmetik
+shop: beauty
 ---

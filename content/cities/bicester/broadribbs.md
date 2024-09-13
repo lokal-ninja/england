@@ -1,5 +1,5 @@
 ---
 title: "Broadribbs"
 url: /bicester/broadribbs/
-shop: Fahrrad
+shop: bicycle
 ---

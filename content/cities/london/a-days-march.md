@@ -1,5 +1,5 @@
 ---
 title: "A Day's March"
 url: /london/a-days-march/
-shop: Kleidung
+shop: clothes
 ---

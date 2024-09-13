@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /south-shields/spar/
-shop: Lebensmittel
+shop: convenience
 ---

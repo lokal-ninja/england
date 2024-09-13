@@ -1,5 +1,5 @@
 ---
 title: "Lancaster Tyres"
 url: /lancaster/lancaster-tyres/
-shop: Reifen
+shop: tyres
 ---

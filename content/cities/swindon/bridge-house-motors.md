@@ -1,5 +1,5 @@
 ---
 title: "Bridge House Motors"
 url: /swindon/bridge-house-motors/
-shop: Autohaus
+shop: car
 ---

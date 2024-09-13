@@ -1,5 +1,5 @@
 ---
 title: "CR Garage"
 url: /derby/cr-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

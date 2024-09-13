@@ -1,5 +1,5 @@
 ---
 title: "Ashworths Poultry"
 url: /nottingham/ashworths-poultry/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Stepping Out"
 url: /midhurst/stepping-out/
-shop: Kleidung
+shop: clothes
 ---

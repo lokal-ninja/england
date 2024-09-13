@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /south-shields/asda/
-shop: Supermarkt
+shop: supermarket
 ---

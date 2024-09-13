@@ -1,5 +1,5 @@
 ---
 title: "Lakeland"
 url: /lincoln/lakeland/
-shop: Haushaltsartikel
+shop: houseware
 ---

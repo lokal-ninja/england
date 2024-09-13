@@ -1,5 +1,5 @@
 ---
 title: "Heavenly"
 url: /london/heavenly/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pavers"
 url: /norwich/pavers/
-shop: Schuhe
+shop: shoes
 ---

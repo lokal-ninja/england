@@ -1,5 +1,5 @@
 ---
 title: "Nile Street News"
 url: /north-shields/nile-street-news/
-shop: Zeitungen
+shop: newsagent
 ---

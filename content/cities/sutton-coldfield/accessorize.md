@@ -1,5 +1,5 @@
 ---
 title: "Accessorize"
 url: /sutton-coldfield/accessorize/
-shop: Modehaus
+shop: boutique
 ---

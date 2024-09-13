@@ -1,5 +1,5 @@
 ---
 title: "Scott Road Store"
 url: /sheffield/scott-road-store/
-shop: Lebensmittel
+shop: convenience
 ---

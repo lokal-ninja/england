@@ -1,5 +1,5 @@
 ---
 title: "Lux"
 url: /gosport/lux/
-shop: Friseur
+shop: hairdresser
 ---

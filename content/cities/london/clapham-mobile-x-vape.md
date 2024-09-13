@@ -1,5 +1,5 @@
 ---
 title: "Clapham Mobile x Vape"
 url: /london/clapham-mobile-x-vape/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

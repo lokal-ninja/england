@@ -1,5 +1,5 @@
 ---
 title: "Peak Health Food"
 url: /rugeley/peak-health-food/
-shop: Bioladen
+shop: health food
 ---

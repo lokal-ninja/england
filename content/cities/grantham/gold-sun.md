@@ -1,5 +1,5 @@
 ---
 title: "Gold Sun"
 url: /grantham/gold-sun/
-shop: Kosmetik
+shop: beauty
 ---

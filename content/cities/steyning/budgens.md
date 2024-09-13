@@ -1,5 +1,5 @@
 ---
 title: "Budgens"
 url: /steyning/budgens/
-shop: Lebensmittel
+shop: convenience
 ---

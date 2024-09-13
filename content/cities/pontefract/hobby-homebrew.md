@@ -1,5 +1,5 @@
 ---
 title: "Hobby Homebrew"
 url: /pontefract/hobby-homebrew/
-shop: Spirituosen
+shop: alcohol
 ---

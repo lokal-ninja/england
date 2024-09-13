@@ -1,5 +1,5 @@
 ---
 title: "S A Miller"
 url: /cleator-moor/s-a-miller/
-shop: Autowerkstatt
+shop: car repair
 ---

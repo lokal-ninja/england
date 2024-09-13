@@ -1,5 +1,5 @@
 ---
 title: "Camp Hopson"
 url: /newbury/camp-hopson/
-shop: Kramladen
+shop: variety store
 ---

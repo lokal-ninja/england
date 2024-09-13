@@ -1,5 +1,5 @@
 ---
 title: "Walkden's Newsagents"
 url: /bolton/walkdens-newsagents/
-shop: Zeitungen
+shop: newsagent
 ---

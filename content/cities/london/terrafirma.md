@@ -1,5 +1,5 @@
 ---
 title: "Terrafirma"
 url: /london/terrafirma/
-shop: Fliesen
+shop: tiles
 ---

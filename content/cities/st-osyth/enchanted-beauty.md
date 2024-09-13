@@ -1,5 +1,5 @@
 ---
 title: "Enchanted Beauty"
 url: /st-osyth/enchanted-beauty/
-shop: Kosmetik
+shop: beauty
 ---

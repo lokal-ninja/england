@@ -1,5 +1,5 @@
 ---
 title: "Brains Butchers"
 url: /eastbourne/brains-butchers/
-shop: Metzgerei
+shop: butcher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Profile"
 url: /wellingborough/profile/
-shop: Kleidung
+shop: clothes
 ---

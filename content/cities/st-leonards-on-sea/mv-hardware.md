@@ -1,5 +1,5 @@
 ---
 title: "MV Hardware"
 url: /st-leonards-on-sea/mv-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

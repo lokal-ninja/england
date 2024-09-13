@@ -1,5 +1,5 @@
 ---
 title: "Farmfoods"
 url: /grimsby/farmfoods/
-shop: Tiefkühl
+shop: frozen food
 ---

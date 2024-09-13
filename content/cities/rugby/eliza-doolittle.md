@@ -1,5 +1,5 @@
 ---
 title: "Eliza Doolittle"
 url: /rugby/eliza-doolittle/
-shop: Kleidung
+shop: clothes
 ---

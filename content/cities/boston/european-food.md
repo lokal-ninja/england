@@ -1,5 +1,5 @@
 ---
 title: "European Food"
 url: /boston/european-food/
-shop: Lebensmittel
+shop: convenience
 ---

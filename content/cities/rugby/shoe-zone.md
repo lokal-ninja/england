@@ -1,5 +1,5 @@
 ---
 title: "Shoe Zone"
 url: /rugby/shoe-zone/
-shop: Schuhe
+shop: shoes
 ---

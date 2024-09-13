@@ -1,5 +1,5 @@
 ---
 title: "Euromax Market"
 url: /london/euromax-market/
-shop: Supermarkt
+shop: supermarket
 ---

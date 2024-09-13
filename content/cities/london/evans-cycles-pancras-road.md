@@ -1,5 +1,5 @@
 ---
 title: "Evans Cycles"
 url: /london/evans-cycles-pancras-road/
-shop: Fahrrad
+shop: bicycle
 ---

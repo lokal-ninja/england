@@ -1,5 +1,5 @@
 ---
 title: "Redz"
 url: /bungay/redz/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Trespass"
 url: /preston/trespass/
-shop: Outdoor
+shop: outdoor
 ---

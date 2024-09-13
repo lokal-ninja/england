@@ -1,5 +1,5 @@
 ---
 title: "Winnock Stores"
 url: /colchester/winnock-stores/
-shop: Lebensmittel
+shop: convenience
 ---

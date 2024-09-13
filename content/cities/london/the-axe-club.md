@@ -1,5 +1,5 @@
 ---
 title: "The Axe Club"
 url: /london/the-axe-club/
-shop: Kosmetik
+shop: beauty
 ---

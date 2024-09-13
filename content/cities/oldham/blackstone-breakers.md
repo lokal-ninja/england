@@ -1,5 +1,5 @@
 ---
 title: "Blackstone Breakers"
 url: /oldham/blackstone-breakers/
-shop: Autowerkstatt
+shop: car repair
 ---

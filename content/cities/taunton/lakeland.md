@@ -1,5 +1,5 @@
 ---
 title: "Lakeland"
 url: /taunton/lakeland/
-shop: Haushaltsartikel
+shop: houseware
 ---

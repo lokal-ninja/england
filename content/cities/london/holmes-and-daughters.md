@@ -1,5 +1,5 @@
 ---
 title: "Holmes and Daughters"
 url: /london/holmes-and-daughters/
-shop: Bestattungen
+shop: funeral directors
 ---

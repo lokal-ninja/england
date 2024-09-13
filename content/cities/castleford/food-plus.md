@@ -1,5 +1,5 @@
 ---
 title: "Food Plus"
 url: /castleford/food-plus/
-shop: Supermarkt
+shop: supermarket
 ---

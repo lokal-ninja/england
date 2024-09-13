@@ -1,5 +1,5 @@
 ---
 title: "The Colchester Bookshop"
 url: /colchester/the-colchester-bookshop/
-shop: Bücher
+shop: books
 ---

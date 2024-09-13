@@ -1,5 +1,5 @@
 ---
 title: "Lifestyle Express"
 url: /coventry/lifestyle-express/
-shop: Lebensmittel
+shop: convenience
 ---

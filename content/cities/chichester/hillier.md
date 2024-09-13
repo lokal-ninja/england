@@ -1,5 +1,5 @@
 ---
 title: "Hillier"
 url: /chichester/hillier/
-shop: Garten-Center
+shop: garden centre
 ---

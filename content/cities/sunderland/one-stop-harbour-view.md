@@ -1,5 +1,5 @@
 ---
 title: "One Stop"
 url: /sunderland/one-stop-harbour-view/
-shop: Lebensmittel
+shop: convenience
 ---

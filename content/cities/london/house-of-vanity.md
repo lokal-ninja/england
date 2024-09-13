@@ -1,5 +1,5 @@
 ---
 title: "House of Vanity"
 url: /london/house-of-vanity/
-shop: Kosmetik
+shop: beauty
 ---

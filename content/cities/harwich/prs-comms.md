@@ -1,5 +1,5 @@
 ---
 title: "PRS Comms"
 url: /harwich/prs-comms/
-shop: Elektronik
+shop: electronics
 ---

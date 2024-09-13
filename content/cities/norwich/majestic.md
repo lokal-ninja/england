@@ -1,5 +1,5 @@
 ---
 title: "Majestic"
 url: /norwich/majestic/
-shop: Spirituosen
+shop: alcohol
 ---

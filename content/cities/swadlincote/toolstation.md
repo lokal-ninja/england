@@ -1,5 +1,5 @@
 ---
 title: "Toolstation"
 url: /swadlincote/toolstation/
-shop: Baumarkt
+shop: doityourself
 ---

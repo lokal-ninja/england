@@ -1,5 +1,5 @@
 ---
 title: "Yesterdays"
 url: /tavistock/yesterdays/
-shop: Antiquitäten
+shop: antiques
 ---

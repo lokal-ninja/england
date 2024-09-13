@@ -1,5 +1,5 @@
 ---
 title: "Akamba"
 url: /solihull/akamba/
-shop: Garten-Center
+shop: garden centre
 ---

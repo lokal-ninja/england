@@ -1,5 +1,5 @@
 ---
 title: "Marlborough"
 url: /london/marlborough/
-shop: Kunst
+shop: art
 ---

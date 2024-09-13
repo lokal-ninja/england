@@ -1,5 +1,5 @@
 ---
 title: "Safestore"
 url: /london/safestore-somerford-grove/
-shop: Mieten
+shop: storage rental
 ---

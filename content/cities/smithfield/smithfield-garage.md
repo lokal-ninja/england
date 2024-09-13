@@ -1,5 +1,5 @@
 ---
 title: "Smithfield Garage"
 url: /smithfield/smithfield-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

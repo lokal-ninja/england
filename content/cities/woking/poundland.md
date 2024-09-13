@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /woking/poundland/
-shop: Kramladen
+shop: variety store
 ---

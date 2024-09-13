@@ -1,5 +1,5 @@
 ---
 title: "Halfords"
 url: /maidenhead/halfords/
-shop: Autoteile
+shop: car parts
 ---

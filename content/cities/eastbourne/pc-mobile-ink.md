@@ -1,5 +1,5 @@
 ---
 title: "PC Mobile Ink"
 url: /eastbourne/pc-mobile-ink/
-shop: Handy
+shop: mobile phone
 ---

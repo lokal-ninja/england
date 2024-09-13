@@ -1,5 +1,5 @@
 ---
 title: "Trimm Barbers"
 url: /tetbury/trimm-barbers/
-shop: Friseur
+shop: hairdresser
 ---

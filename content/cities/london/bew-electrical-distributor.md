@@ -1,5 +1,5 @@
 ---
 title: "BEW Electrical distributor"
 url: /london/bew-electrical-distributor/
-shop: Eisenwaren
+shop: hardware
 ---

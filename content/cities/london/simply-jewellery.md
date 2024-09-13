@@ -1,5 +1,5 @@
 ---
 title: "Simply Jewellery"
 url: /london/simply-jewellery/
-shop: Schmuck
+shop: jewelry
 ---

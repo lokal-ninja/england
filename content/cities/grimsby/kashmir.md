@@ -1,5 +1,5 @@
 ---
 title: "Kashmir"
 url: /grimsby/kashmir/
-shop: Tattoo
+shop: tattoo
 ---

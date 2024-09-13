@@ -1,5 +1,5 @@
 ---
 title: "Totally Wicked"
 url: /blyth/totally-wicked/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

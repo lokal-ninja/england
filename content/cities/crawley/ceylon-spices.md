@@ -1,5 +1,5 @@
 ---
 title: "Ceylon Spices"
 url: /crawley/ceylon-spices/
-shop: Supermarkt
+shop: supermarket
 ---

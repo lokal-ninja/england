@@ -1,5 +1,5 @@
 ---
 title: "Fenella"
 url: /marlborough/fenella/
-shop: Kleidung
+shop: clothes
 ---

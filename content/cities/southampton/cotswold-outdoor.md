@@ -1,5 +1,5 @@
 ---
 title: "Cotswold Outdoor"
 url: /southampton/cotswold-outdoor/
-shop: Outdoor
+shop: outdoor
 ---

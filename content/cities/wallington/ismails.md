@@ -1,5 +1,5 @@
 ---
 title: "Ismails"
 url: /wallington/ismails/
-shop: Friseur
+shop: hairdresser
 ---

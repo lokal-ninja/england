@@ -1,5 +1,5 @@
 ---
 title: "Chancellors"
 url: /newbury/chancellors/
-shop: Immobilien
+shop: estate agent
 ---

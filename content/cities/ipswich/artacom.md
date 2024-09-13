@@ -1,5 +1,5 @@
 ---
 title: "Artacom"
 url: /ipswich/artacom/
-shop: Handy
+shop: mobile phone
 ---

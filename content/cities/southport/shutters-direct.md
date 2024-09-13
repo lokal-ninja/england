@@ -1,5 +1,5 @@
 ---
 title: "Shutters Direct"
 url: /southport/shutters-direct/
-shop: Gardinen
+shop: curtain
 ---

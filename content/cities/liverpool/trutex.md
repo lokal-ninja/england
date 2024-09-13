@@ -1,5 +1,5 @@
 ---
 title: "Trutex"
 url: /liverpool/trutex/
-shop: Kleidung
+shop: clothes
 ---

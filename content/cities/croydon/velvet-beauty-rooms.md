@@ -1,5 +1,5 @@
 ---
 title: "Velvet Beauty Rooms"
 url: /croydon/velvet-beauty-rooms/
-shop: Kosmetik
+shop: beauty
 ---

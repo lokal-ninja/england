@@ -1,5 +1,5 @@
 ---
 title: "Fitness Superstore"
 url: /gloucester/fitness-superstore/
-shop: Fitness
+shop: fitness equipment
 ---

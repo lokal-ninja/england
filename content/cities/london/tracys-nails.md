@@ -1,5 +1,5 @@
 ---
 title: "Tracy's Nails"
 url: /london/tracys-nails/
-shop: Kosmetik
+shop: beauty
 ---

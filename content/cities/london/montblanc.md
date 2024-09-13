@@ -1,5 +1,5 @@
 ---
 title: "Montblanc"
 url: /london/montblanc/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Morrisons"
 url: /london/morrisons-edgware-road/
-shop: Supermarkt
+shop: supermarket
 ---

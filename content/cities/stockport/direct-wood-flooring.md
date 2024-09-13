@@ -1,5 +1,5 @@
 ---
 title: "Direct Wood Flooring"
 url: /stockport/direct-wood-flooring/
-shop: Fußböden
+shop: flooring
 ---

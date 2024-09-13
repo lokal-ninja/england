@@ -1,5 +1,5 @@
 ---
 title: "Halton Haven Hospice"
 url: /runcorn/halton-haven-hospice/
-shop: Gebrauchtwaren
+shop: charity
 ---

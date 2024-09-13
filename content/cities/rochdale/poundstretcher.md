@@ -1,5 +1,5 @@
 ---
 title: "Poundstretcher"
 url: /rochdale/poundstretcher/
-shop: Kramladen
+shop: variety store
 ---

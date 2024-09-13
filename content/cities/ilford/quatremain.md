@@ -1,5 +1,5 @@
 ---
 title: "Quatremain"
 url: /ilford/quatremain/
-shop: Allgemein
+shop: shop
 ---

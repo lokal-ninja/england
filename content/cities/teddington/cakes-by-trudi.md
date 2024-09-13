@@ -1,5 +1,5 @@
 ---
 title: "Cakes By Trudi"
 url: /teddington/cakes-by-trudi/
-shop: Bäckerei
+shop: bakery
 ---

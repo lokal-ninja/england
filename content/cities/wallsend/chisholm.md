@@ -1,5 +1,5 @@
 ---
 title: "Chisholm"
 url: /wallsend/chisholm/
-shop: Wettbüro
+shop: bookmaker
 ---

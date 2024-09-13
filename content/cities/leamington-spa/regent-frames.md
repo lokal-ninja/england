@@ -1,5 +1,5 @@
 ---
 title: "Regent Frames"
 url: /leamington-spa/regent-frames/
-shop: Rahmen
+shop: frame
 ---

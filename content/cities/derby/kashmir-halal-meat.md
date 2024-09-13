@@ -1,5 +1,5 @@
 ---
 title: "Kashmir Halal Meat"
 url: /derby/kashmir-halal-meat/
-shop: Metzgerei
+shop: butcher
 ---

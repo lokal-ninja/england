@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
 url: /kingston-upon-thames/vodafone/
-shop: Handy
+shop: mobile phone
 ---

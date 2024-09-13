@@ -1,5 +1,5 @@
 ---
 title: "Hallmark"
 url: /murton/hallmark/
-shop: Andenken
+shop: gift
 ---

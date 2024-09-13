@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /sandbach/premier/
-shop: Lebensmittel
+shop: convenience
 ---

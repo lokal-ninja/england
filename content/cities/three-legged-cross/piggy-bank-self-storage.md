@@ -1,5 +1,5 @@
 ---
 title: "Piggy Bank Self Storage"
 url: /three-legged-cross/piggy-bank-self-storage/
-shop: Mieten
+shop: storage rental
 ---

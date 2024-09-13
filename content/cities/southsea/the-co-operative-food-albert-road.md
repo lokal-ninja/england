@@ -1,5 +1,5 @@
 ---
 title: "The Co-operative Food"
 url: /southsea/the-co-operative-food-albert-road/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /goole/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

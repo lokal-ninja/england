@@ -1,5 +1,5 @@
 ---
 title: "Nottcutts"
 url: /solihull/nottcutts/
-shop: Garten-Center
+shop: garden centre
 ---

@@ -1,5 +1,5 @@
 ---
 title: "HomeSense"
 url: /bedford/homesense/
-shop: Raumausstattung
+shop: interior decoration
 ---

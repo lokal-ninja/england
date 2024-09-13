@@ -1,5 +1,5 @@
 ---
 title: "Hillfield Garage"
 url: /london/hillfield-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

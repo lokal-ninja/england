@@ -1,5 +1,5 @@
 ---
 title: "Kin"
 url: /london/kin/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Thomas the Baker"
 url: /york/thomas-the-baker-market-street/
-shop: Bäckerei
+shop: bakery
 ---

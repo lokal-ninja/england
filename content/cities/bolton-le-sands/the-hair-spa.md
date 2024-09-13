@@ -1,5 +1,5 @@
 ---
 title: "The Hair Spa"
 url: /bolton-le-sands/the-hair-spa/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,6 +1,6 @@
 ---
 title: Sheffield
 url: /sheffield/
-latitude: 53.379
-longitude: -1.518
+latitude: 53.391
+longitude: -1.459
 ---

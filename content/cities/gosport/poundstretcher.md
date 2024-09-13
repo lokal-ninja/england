@@ -1,5 +1,5 @@
 ---
 title: "Poundstretcher"
 url: /gosport/poundstretcher/
-shop: Kramladen
+shop: variety store
 ---

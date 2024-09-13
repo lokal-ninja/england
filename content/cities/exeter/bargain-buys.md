@@ -1,5 +1,5 @@
 ---
 title: "Bargain Buys"
 url: /exeter/bargain-buys/
-shop: Kramladen
+shop: variety store
 ---

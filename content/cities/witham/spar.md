@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /witham/spar/
-shop: Lebensmittel
+shop: convenience
 ---

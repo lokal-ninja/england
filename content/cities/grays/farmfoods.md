@@ -1,5 +1,5 @@
 ---
 title: "Farmfoods"
 url: /grays/farmfoods/
-shop: Tiefkühl
+shop: frozen food
 ---

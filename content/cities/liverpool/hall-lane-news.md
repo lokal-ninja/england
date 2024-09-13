@@ -1,5 +1,5 @@
 ---
 title: "Hall Lane News"
 url: /liverpool/hall-lane-news/
-shop: Lebensmittel
+shop: convenience
 ---

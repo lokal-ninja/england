@@ -1,5 +1,5 @@
 ---
 title: "Bargain Booze"
 url: /dalton-in-furness/bargain-booze/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Brown's Newsagent"
 url: /london/browns-newsagent/
-shop: Zeitungen
+shop: newsagent
 ---

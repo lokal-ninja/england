@@ -1,5 +1,5 @@
 ---
 title: "Peak Feast"
 url: /bakewell/peak-feast/
-shop: Lebensmittel
+shop: convenience
 ---

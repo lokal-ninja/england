@@ -1,5 +1,5 @@
 ---
 title: "Poundbakery"
 url: /worksop/poundbakery/
-shop: Bäckerei
+shop: bakery
 ---

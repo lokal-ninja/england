@@ -1,5 +1,5 @@
 ---
 title: "Lawsons"
 url: /tavistock/lawsons/
-shop: Haushaltsartikel
+shop: houseware
 ---

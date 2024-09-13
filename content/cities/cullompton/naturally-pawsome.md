@@ -1,5 +1,5 @@
 ---
 title: "Naturally Pawsome"
 url: /cullompton/naturally-pawsome/
-shop: Tiere
+shop: pet
 ---

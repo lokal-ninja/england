@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /stroud/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

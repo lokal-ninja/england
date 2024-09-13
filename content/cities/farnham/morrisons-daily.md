@@ -1,5 +1,5 @@
 ---
 title: "Morrisons Daily"
 url: /farnham/morrisons-daily/
-shop: Lebensmittel
+shop: convenience
 ---

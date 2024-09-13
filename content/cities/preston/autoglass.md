@@ -1,5 +1,5 @@
 ---
 title: "AutoGlass"
 url: /preston/autoglass/
-shop: Autowerkstatt
+shop: car repair
 ---

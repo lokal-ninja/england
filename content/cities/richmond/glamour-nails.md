@@ -1,5 +1,5 @@
 ---
 title: "Glamour Nails"
 url: /richmond/glamour-nails/
-shop: Kosmetik
+shop: beauty
 ---

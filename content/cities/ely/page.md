@@ -1,5 +1,5 @@
 ---
 title: "Page"
 url: /ely/page/
-shop: Schmuck
+shop: jewelry
 ---

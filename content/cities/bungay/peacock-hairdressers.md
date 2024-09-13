@@ -1,5 +1,5 @@
 ---
 title: "Peacock Hairdressers"
 url: /bungay/peacock-hairdressers/
-shop: Friseur
+shop: hairdresser
 ---

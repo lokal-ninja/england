@@ -1,5 +1,5 @@
 ---
 title: "Renaissance"
 url: /ledbury/renaissance/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Moorgate Acoustics"
 url: /sheffield/moorgate-acoustics/
-shop: Hifi
+shop: hifi
 ---

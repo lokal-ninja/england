@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /trowbridge/coral/
-shop: Wettbüro
+shop: bookmaker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shoe Doctor"
 url: /newmarket/shoe-doctor/
-shop: Schuhe
+shop: shoes
 ---

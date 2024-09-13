@@ -1,5 +1,5 @@
 ---
 title: "Beths"
 url: /wellingborough/beths/
-shop: Bäckerei
+shop: bakery
 ---

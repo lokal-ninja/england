@@ -1,5 +1,5 @@
 ---
 title: "Wollaston Motors"
 url: /northampton/wollaston-motors/
-shop: Autohaus
+shop: car
 ---

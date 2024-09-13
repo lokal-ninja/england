@@ -1,5 +1,5 @@
 ---
 title: "Age UK"
 url: /borehamwood/age-uk/
-shop: Gebrauchtwaren
+shop: charity
 ---

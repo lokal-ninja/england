@@ -1,5 +1,5 @@
 ---
 title: "H.Samuel"
 url: /newport/h-samuel/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Falcon News"
 url: /london/falcon-news/
-shop: Zeitungen
+shop: newsagent
 ---

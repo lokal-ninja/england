@@ -1,5 +1,5 @@
 ---
 title: "Hide 'n' Suede"
 url: /sutton-coldfield/hide-n-suede/
-shop: Kleidung
+shop: clothes
 ---

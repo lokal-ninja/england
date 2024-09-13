@@ -1,5 +1,5 @@
 ---
 title: "Volvo"
 url: /wakefield/volvo/
-shop: Autohaus
+shop: car
 ---

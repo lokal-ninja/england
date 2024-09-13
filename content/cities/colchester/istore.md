@@ -1,5 +1,5 @@
 ---
 title: "iStore"
 url: /colchester/istore/
-shop: Handy
+shop: mobile phone
 ---

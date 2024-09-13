@@ -1,5 +1,5 @@
 ---
 title: "Roman"
 url: /bridgwater/roman/
-shop: Kleidung
+shop: clothes
 ---

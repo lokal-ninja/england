@@ -1,5 +1,5 @@
 ---
 title: "The Gift Company"
 url: /castleford/the-gift-company/
-shop: Andenken
+shop: gift
 ---

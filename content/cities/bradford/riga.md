@@ -1,5 +1,5 @@
 ---
 title: "Riga"
 url: /bradford/riga/
-shop: Spirituosen
+shop: alcohol
 ---

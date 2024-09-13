@@ -1,5 +1,5 @@
 ---
 title: "Dixons Vehicle Recyclers"
 url: /leeds/dixons-vehicle-recyclers/
-shop: Autoteile
+shop: car parts
 ---

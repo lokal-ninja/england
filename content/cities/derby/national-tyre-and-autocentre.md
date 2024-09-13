@@ -1,5 +1,5 @@
 ---
 title: "National Tyre and Autocentre"
 url: /derby/national-tyre-and-autocentre/
-shop: Autowerkstatt
+shop: car repair
 ---

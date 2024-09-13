@@ -1,5 +1,5 @@
 ---
 title: "Lok'nStore"
 url: /salford/loknstore/
-shop: Mieten
+shop: storage rental
 ---

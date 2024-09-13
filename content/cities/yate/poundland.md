@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /yate/poundland/
-shop: Kramladen
+shop: variety store
 ---

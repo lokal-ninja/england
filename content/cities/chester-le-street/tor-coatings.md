@@ -1,5 +1,5 @@
 ---
 title: "TOR Coatings"
 url: /chester-le-street/tor-coatings/
-shop: Farben
+shop: paint
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SIG Roofing"
 url: /birmingham/sig-roofing/
-shop: Baustoffe
+shop: trade
 ---

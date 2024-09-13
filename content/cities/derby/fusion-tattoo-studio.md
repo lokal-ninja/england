@@ -1,5 +1,5 @@
 ---
 title: "Fusion Tattoo Studio"
 url: /derby/fusion-tattoo-studio/
-shop: Tattoo
+shop: tattoo
 ---

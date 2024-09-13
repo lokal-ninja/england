@@ -1,5 +1,5 @@
 ---
 title: "Claire House"
 url: /frodsham/claire-house/
-shop: Gebrauchtwaren
+shop: charity
 ---

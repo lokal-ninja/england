@@ -1,5 +1,5 @@
 ---
 title: "REMO Eco-Superstore"
 url: /wisbech/remo-eco-superstore/
-shop: Gebrauchtwaren
+shop: charity
 ---

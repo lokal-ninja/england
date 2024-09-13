@@ -1,5 +1,5 @@
 ---
 title: "Midland Caravans"
 url: /ilkeston/midland-caravans/
-shop: Allgemein
+shop: shop
 ---

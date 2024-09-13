@@ -1,5 +1,5 @@
 ---
 title: "Budwals"
 url: /croydon/budwals/
-shop: Kleidung
+shop: clothes
 ---

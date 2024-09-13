@@ -1,5 +1,5 @@
 ---
 title: "CC Inks Ltd"
 url: /nottingham/cc-inks-ltd/
-shop: Kopieren
+shop: copyshop
 ---

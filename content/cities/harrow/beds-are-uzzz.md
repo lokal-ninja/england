@@ -1,5 +1,5 @@
 ---
 title: "Beds are Uzzz"
 url: /harrow/beds-are-uzzz/
-shop: Betten
+shop: bed
 ---

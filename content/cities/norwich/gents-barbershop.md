@@ -1,5 +1,5 @@
 ---
 title: "Gents Barbershop"
 url: /norwich/gents-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

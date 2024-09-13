@@ -1,5 +1,5 @@
 ---
 title: "Kenilworth Bathrooms"
 url: /kenilworth/kenilworth-bathrooms/
-shop: Badezimmer
+shop: bathroom
 ---

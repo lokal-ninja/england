@@ -1,5 +1,5 @@
 ---
 title: "Boots"
 url: /london/boots-upper-richmond-road-west/
-shop: Drogerie
+shop: chemist
 ---

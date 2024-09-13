@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /whitby/poundland/
-shop: Kramladen
+shop: variety store
 ---

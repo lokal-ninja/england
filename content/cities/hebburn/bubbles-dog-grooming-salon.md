@@ -1,5 +1,5 @@
 ---
 title: "Bubbles Dog Grooming Salon"
 url: /hebburn/bubbles-dog-grooming-salon/
-shop: Allgemein
+shop: shop
 ---

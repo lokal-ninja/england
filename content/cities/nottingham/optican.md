@@ -1,5 +1,5 @@
 ---
 title: "Optican"
 url: /nottingham/optican/
-shop: Optiker
+shop: optician
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Oxfam"
 url: /spalding/oxfam/
-shop: Gebrauchtwaren
+shop: charity
 ---

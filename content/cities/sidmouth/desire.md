@@ -1,5 +1,5 @@
 ---
 title: "Desire"
 url: /sidmouth/desire/
-shop: Schmuck
+shop: jewelry
 ---

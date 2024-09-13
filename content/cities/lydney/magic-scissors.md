@@ -1,5 +1,5 @@
 ---
 title: "Magic Scissors"
 url: /lydney/magic-scissors/
-shop: Friseur
+shop: hairdresser
 ---

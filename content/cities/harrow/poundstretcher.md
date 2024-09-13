@@ -1,5 +1,5 @@
 ---
 title: "Poundstretcher"
 url: /harrow/poundstretcher/
-shop: Kramladen
+shop: variety store
 ---

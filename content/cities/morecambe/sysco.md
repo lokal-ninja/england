@@ -1,5 +1,5 @@
 ---
 title: "Sysco"
 url: /morecambe/sysco/
-shop: Jalousien
+shop: window blind
 ---

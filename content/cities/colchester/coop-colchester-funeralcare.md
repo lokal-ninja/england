@@ -1,5 +1,5 @@
 ---
 title: "Coop Colchester Funeralcare"
 url: /colchester/coop-colchester-funeralcare/
-shop: Bestattungen
+shop: funeral directors
 ---

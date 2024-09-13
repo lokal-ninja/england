@@ -1,5 +1,5 @@
 ---
 title: "Hooe Mini Market"
 url: /plymouth/hooe-mini-market/
-shop: Supermarkt
+shop: supermarket
 ---

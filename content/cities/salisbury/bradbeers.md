@@ -1,5 +1,5 @@
 ---
 title: "Bradbeers"
 url: /salisbury/bradbeers/
-shop: Warenhaus
+shop: department store
 ---

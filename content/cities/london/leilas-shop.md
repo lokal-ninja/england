@@ -1,5 +1,5 @@
 ---
 title: "Leila's Shop"
 url: /london/leilas-shop/
-shop: Allgemein
+shop: shop
 ---

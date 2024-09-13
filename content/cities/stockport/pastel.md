@@ -1,5 +1,5 @@
 ---
 title: "Pastel"
 url: /stockport/pastel/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SimTec"
 url: /lancaster/simtec/
-shop: Handy
+shop: mobile phone
 ---

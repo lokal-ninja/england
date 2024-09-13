@@ -1,5 +1,5 @@
 ---
 title: "Warhammer"
 url: /cheltenham/warhammer/
-shop: Spiele
+shop: games
 ---

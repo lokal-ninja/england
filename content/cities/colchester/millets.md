@@ -1,5 +1,5 @@
 ---
 title: "Millets"
 url: /colchester/millets/
-shop: Outdoor
+shop: outdoor
 ---

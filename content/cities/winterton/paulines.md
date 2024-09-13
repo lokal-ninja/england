@@ -1,5 +1,5 @@
 ---
 title: "Paulines"
 url: /winterton/paulines/
-shop: Friseur
+shop: hairdresser
 ---

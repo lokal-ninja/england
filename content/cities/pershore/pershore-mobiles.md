@@ -1,5 +1,5 @@
 ---
 title: "Pershore Mobiles"
 url: /pershore/pershore-mobiles/
-shop: Handy
+shop: mobile phone
 ---

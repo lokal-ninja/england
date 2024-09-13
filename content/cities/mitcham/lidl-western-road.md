@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /mitcham/lidl-western-road/
-shop: Supermarkt
+shop: supermarket
 ---

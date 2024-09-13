@@ -1,5 +1,5 @@
 ---
 title: "Accessorize"
 url: /cirencester/accessorize/
-shop: Modehaus
+shop: boutique
 ---

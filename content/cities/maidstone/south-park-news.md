@@ -1,5 +1,5 @@
 ---
 title: "South Park News"
 url: /maidstone/south-park-news/
-shop: Lebensmittel
+shop: convenience
 ---

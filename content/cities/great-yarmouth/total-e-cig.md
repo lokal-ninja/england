@@ -1,5 +1,5 @@
 ---
 title: "Total E-Cig"
 url: /great-yarmouth/total-e-cig/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

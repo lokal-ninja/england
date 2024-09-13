@@ -1,5 +1,5 @@
 ---
 title: "Ryman"
 url: /nottingham/ryman-exchange-walk/
-shop: Schreibwaren
+shop: office supplies
 ---

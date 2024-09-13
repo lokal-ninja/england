@@ -1,5 +1,5 @@
 ---
 title: "Total Tan"
 url: /norwich/total-tan/
-shop: Kosmetik
+shop: beauty
 ---

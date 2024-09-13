@@ -1,5 +1,5 @@
 ---
 title: "Top Fit"
 url: /nottingham/top-fit/
-shop: Autowerkstatt
+shop: car repair
 ---

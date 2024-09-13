@@ -1,5 +1,5 @@
 ---
 title: "Just Bargains"
 url: /birmingham/just-bargains/
-shop: Kramladen
+shop: variety store
 ---

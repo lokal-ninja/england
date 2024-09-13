@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /liverpool/asda-orrell-lane/
-shop: Supermarkt
+shop: supermarket
 ---

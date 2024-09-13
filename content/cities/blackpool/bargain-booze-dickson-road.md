@@ -1,5 +1,5 @@
 ---
 title: "Bargain Booze"
 url: /blackpool/bargain-booze-dickson-road/
-shop: Spirituosen
+shop: alcohol
 ---

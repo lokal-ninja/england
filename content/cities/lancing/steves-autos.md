@@ -1,5 +1,5 @@
 ---
 title: "Steve's Autos"
 url: /lancing/steves-autos/
-shop: Autowerkstatt
+shop: car repair
 ---

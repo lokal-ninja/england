@@ -1,5 +1,5 @@
 ---
 title: "Pivot and Crop"
 url: /birmingham/pivot-and-crop/
-shop: Friseur
+shop: hairdresser
 ---

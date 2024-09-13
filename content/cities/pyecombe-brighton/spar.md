@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /pyecombe-brighton/spar/
-shop: Lebensmittel
+shop: convenience
 ---

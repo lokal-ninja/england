@@ -1,5 +1,5 @@
 ---
 title: "Waterstones"
 url: /london/waterstones-piccadilly/
-shop: Bücher
+shop: books
 ---

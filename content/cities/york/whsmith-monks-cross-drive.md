@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /york/whsmith-monks-cross-drive/
-shop: Bücher
+shop: books
 ---

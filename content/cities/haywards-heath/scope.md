@@ -1,5 +1,5 @@
 ---
 title: "Scope"
 url: /haywards-heath/scope/
-shop: Gebrauchtwaren
+shop: charity
 ---

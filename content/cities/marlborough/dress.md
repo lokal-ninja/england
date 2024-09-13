@@ -1,5 +1,5 @@
 ---
 title: "dress"
 url: /marlborough/dress/
-shop: Kleidung
+shop: clothes
 ---

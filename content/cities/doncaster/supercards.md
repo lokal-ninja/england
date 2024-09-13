@@ -1,5 +1,5 @@
 ---
 title: "SuperCards"
 url: /doncaster/supercards/
-shop: Andenken
+shop: gift
 ---

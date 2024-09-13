@@ -1,5 +1,5 @@
 ---
 title: "Farmfoods"
 url: /gateshead/farmfoods/
-shop: Tiefkühl
+shop: frozen food
 ---

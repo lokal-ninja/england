@@ -1,5 +1,5 @@
 ---
 title: "HotSpring World Wellness Superstore"
 url: /cobham/hotspring-world-wellness-superstore/
-shop: Pool
+shop: swimming pool
 ---

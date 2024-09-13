@@ -1,5 +1,5 @@
 ---
 title: "Supreme Halal Meat"
 url: /birmingham/supreme-halal-meat/
-shop: Metzgerei
+shop: butcher
 ---

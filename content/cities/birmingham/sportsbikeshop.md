@@ -1,5 +1,5 @@
 ---
 title: "SportsBikeShop"
 url: /birmingham/sportsbikeshop/
-shop: Autoteile
+shop: car parts
 ---

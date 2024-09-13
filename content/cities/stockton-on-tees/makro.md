@@ -1,5 +1,5 @@
 ---
 title: "Makro"
 url: /stockton-on-tees/makro/
-shop: Großhandel
+shop: wholesale
 ---

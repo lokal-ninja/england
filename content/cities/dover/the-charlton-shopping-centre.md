@@ -1,5 +1,5 @@
 ---
 title: "The Charlton Shopping Centre"
 url: /dover/the-charlton-shopping-centre/
-shop: Einkaufszentrum
+shop: mall
 ---

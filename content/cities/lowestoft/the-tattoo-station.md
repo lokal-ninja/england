@@ -1,5 +1,5 @@
 ---
 title: "The Tattoo Station"
 url: /lowestoft/the-tattoo-station/
-shop: Tattoo
+shop: tattoo
 ---

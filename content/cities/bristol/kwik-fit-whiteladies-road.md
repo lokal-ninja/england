@@ -1,5 +1,5 @@
 ---
 title: "Kwik Fit"
 url: /bristol/kwik-fit-whiteladies-road/
-shop: Autowerkstatt
+shop: car repair
 ---

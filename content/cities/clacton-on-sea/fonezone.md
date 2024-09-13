@@ -1,5 +1,5 @@
 ---
 title: "Fonezone"
 url: /clacton-on-sea/fonezone/
-shop: Elektronik
+shop: electronics
 ---

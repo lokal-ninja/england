@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /mirfield/lidl/
-shop: Supermarkt
+shop: supermarket
 ---

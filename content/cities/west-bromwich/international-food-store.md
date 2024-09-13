@@ -1,5 +1,5 @@
 ---
 title: "International Food Store"
 url: /west-bromwich/international-food-store/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "EE"
 url: /pontefract/ee/
-shop: Handy
+shop: mobile phone
 ---

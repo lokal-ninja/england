@@ -1,5 +1,5 @@
 ---
 title: "The Fishmongers"
 url: /tonbridge/the-fishmongers/
-shop: Fisch
+shop: seafood
 ---

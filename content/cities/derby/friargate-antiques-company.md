@@ -1,5 +1,5 @@
 ---
 title: "Friargate Antiques Company"
 url: /derby/friargate-antiques-company/
-shop: Antiquitäten
+shop: antiques
 ---

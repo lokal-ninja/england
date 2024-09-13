@@ -1,5 +1,5 @@
 ---
 title: "Mooch Interiors"
 url: /rock/mooch-interiors/
-shop: Raumausstattung
+shop: interior decoration
 ---

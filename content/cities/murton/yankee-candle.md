@@ -1,5 +1,5 @@
 ---
 title: "Yankee Candle"
 url: /murton/yankee-candle/
-shop: Kerzen
+shop: candles
 ---

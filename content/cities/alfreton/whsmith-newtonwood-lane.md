@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /alfreton/whsmith-newtonwood-lane/
-shop: Zeitungen
+shop: newsagent
 ---

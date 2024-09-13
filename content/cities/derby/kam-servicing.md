@@ -1,5 +1,5 @@
 ---
 title: "KAM Servicing"
 url: /derby/kam-servicing/
-shop: Autowerkstatt
+shop: car repair
 ---

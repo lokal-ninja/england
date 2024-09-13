@@ -1,5 +1,5 @@
 ---
 title: "Mobilise"
 url: /cambridge/mobilise/
-shop: Allgemein
+shop: shop
 ---

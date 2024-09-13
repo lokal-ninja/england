@@ -1,5 +1,5 @@
 ---
 title: "FRL Goldsmiths Motor Services"
 url: /london/frl-goldsmiths-motor-services/
-shop: Autowerkstatt
+shop: car repair
 ---

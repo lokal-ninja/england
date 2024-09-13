@@ -1,5 +1,5 @@
 ---
 title: "Metro"
 url: /woodford-bridge/metro/
-shop: Lebensmittel
+shop: convenience
 ---

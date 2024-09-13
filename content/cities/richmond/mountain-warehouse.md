@@ -1,5 +1,5 @@
 ---
 title: "Mountain Warehouse"
 url: /richmond/mountain-warehouse/
-shop: Outdoor
+shop: outdoor
 ---

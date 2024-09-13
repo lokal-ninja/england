@@ -1,5 +1,5 @@
 ---
 title: "Henstock's"
 url: /chesterfield/henstocks-west-bars/
-shop: Bäckerei
+shop: bakery
 ---

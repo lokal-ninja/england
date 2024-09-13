@@ -1,5 +1,5 @@
 ---
 title: "Brickwerks"
 url: /holmfirth/brickwerks/
-shop: Autowerkstatt
+shop: car repair
 ---

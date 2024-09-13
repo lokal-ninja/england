@@ -1,5 +1,5 @@
 ---
 title: "iTech"
 url: /didcot/itech/
-shop: Handy
+shop: mobile phone
 ---

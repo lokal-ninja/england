@@ -1,5 +1,5 @@
 ---
 title: "Game"
 url: /sheffield/game/
-shop: Videospiele
+shop: video games
 ---

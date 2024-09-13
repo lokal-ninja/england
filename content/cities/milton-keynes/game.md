@@ -1,5 +1,5 @@
 ---
 title: "Game"
 url: /milton-keynes/game/
-shop: Videospiele
+shop: video games
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fashion House"
 url: /poulton-le-fylde/fashion-house/
-shop: Schneiderei
+shop: tailor
 ---

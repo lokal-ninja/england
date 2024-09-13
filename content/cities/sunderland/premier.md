@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /sunderland/premier/
-shop: Lebensmittel
+shop: convenience
 ---

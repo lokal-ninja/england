@@ -1,5 +1,5 @@
 ---
 title: "Peaches"
 url: /sheffield/peaches/
-shop: Friseur
+shop: hairdresser
 ---

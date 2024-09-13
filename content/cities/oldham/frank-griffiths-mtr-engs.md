@@ -1,5 +1,5 @@
 ---
 title: "Frank Griffiths Mtr Engs"
 url: /oldham/frank-griffiths-mtr-engs/
-shop: Autowerkstatt
+shop: car repair
 ---

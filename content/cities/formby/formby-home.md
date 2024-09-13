@@ -1,5 +1,5 @@
 ---
 title: "Formby Home"
 url: /formby/formby-home/
-shop: Eisenwaren
+shop: hardware
 ---

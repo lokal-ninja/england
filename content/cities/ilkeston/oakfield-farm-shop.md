@@ -1,5 +1,5 @@
 ---
 title: "Oakfield Farm Shop"
 url: /ilkeston/oakfield-farm-shop/
-shop: Hofladen
+shop: farm
 ---

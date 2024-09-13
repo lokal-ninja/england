@@ -1,5 +1,5 @@
 ---
 title: "Volkswagen Studio"
 url: /nottingham/volkswagen-studio/
-shop: Autowerkstatt
+shop: car repair
 ---

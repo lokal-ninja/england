@@ -1,5 +1,5 @@
 ---
 title: "Lanterna Deli"
 url: /london/lanterna-deli/
-shop: Feinkost
+shop: deli
 ---

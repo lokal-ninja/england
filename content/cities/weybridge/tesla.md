@@ -1,5 +1,5 @@
 ---
 title: "TESLA"
 url: /weybridge/tesla/
-shop: Autowerkstatt
+shop: car repair
 ---

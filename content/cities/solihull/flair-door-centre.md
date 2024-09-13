@@ -1,5 +1,5 @@
 ---
 title: "Flair Door Centre"
 url: /solihull/flair-door-centre/
-shop: Türen
+shop: doors
 ---

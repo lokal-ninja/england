@@ -1,5 +1,5 @@
 ---
 title: "Pak"
 url: /london/pak/
-shop: Zeitungen
+shop: newsagent
 ---

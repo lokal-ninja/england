@@ -1,5 +1,5 @@
 ---
 title: "Tech Workshop"
 url: /london/tech-workshop/
-shop: Elektronik
+shop: electronics
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cheylesmore Appliances"
 url: /coventry/cheylesmore-appliances/
-shop: Hifi
+shop: hifi
 ---

@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /sheffield/whsmith/
-shop: Lebensmittel
+shop: convenience
 ---

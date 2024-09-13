@@ -1,5 +1,5 @@
 ---
 title: "Gusto Hairdressing"
 url: /london/gusto-hairdressing/
-shop: Friseur
+shop: hairdresser
 ---

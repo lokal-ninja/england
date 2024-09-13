@@ -1,5 +1,5 @@
 ---
 title: "Topps Tiles"
 url: /norwich/topps-tiles-barker-street/
-shop: Baumarkt
+shop: doityourself
 ---

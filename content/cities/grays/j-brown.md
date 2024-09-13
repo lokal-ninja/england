@@ -1,5 +1,5 @@
 ---
 title: "J Brown"
 url: /grays/j-brown/
-shop: Allgemein
+shop: shop
 ---

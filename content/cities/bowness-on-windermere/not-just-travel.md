@@ -1,5 +1,5 @@
 ---
 title: "Not Just Travel"
 url: /bowness-on-windermere/not-just-travel/
-shop: Reisebüro
+shop: travel agency
 ---

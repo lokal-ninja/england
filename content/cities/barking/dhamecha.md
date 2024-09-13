@@ -1,5 +1,5 @@
 ---
 title: "Dhamecha"
 url: /barking/dhamecha/
-shop: Großhandel
+shop: wholesale
 ---

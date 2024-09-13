@@ -1,5 +1,5 @@
 ---
 title: "Westfield Convenience Store"
 url: /mansfield/westfield-convenience-store/
-shop: Lebensmittel
+shop: convenience
 ---

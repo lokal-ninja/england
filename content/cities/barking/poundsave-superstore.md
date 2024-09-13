@@ -1,5 +1,5 @@
 ---
 title: "Poundsave Superstore"
 url: /barking/poundsave-superstore/
-shop: Kramladen
+shop: variety store
 ---

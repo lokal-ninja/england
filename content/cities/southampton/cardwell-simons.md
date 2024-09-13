@@ -1,5 +1,5 @@
 ---
 title: "Cardwell Simons"
 url: /southampton/cardwell-simons/
-shop: Foto
+shop: photo
 ---

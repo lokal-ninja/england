@@ -1,5 +1,5 @@
 ---
 title: "EE"
 url: /goole/ee/
-shop: Handy
+shop: mobile phone
 ---

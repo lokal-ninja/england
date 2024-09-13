@@ -1,5 +1,5 @@
 ---
 title: "Clarendon Press"
 url: /wotton-under-edge/clarendon-press/
-shop: Kopieren
+shop: copyshop
 ---

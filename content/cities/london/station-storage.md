@@ -1,5 +1,5 @@
 ---
 title: "Station Storage"
 url: /london/station-storage/
-shop: Mieten
+shop: storage rental
 ---

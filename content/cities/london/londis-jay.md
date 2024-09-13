@@ -1,5 +1,5 @@
 ---
 title: "Londis - Jay"
 url: /london/londis-jay/
-shop: Lebensmittel
+shop: convenience
 ---

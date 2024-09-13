@@ -1,5 +1,5 @@
 ---
 title: "Sky"
 url: /chelmsford/sky/
-shop: Handy
+shop: mobile phone
 ---

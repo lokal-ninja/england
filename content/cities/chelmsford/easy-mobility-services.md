@@ -1,5 +1,5 @@
 ---
 title: "Easy Mobility Services"
 url: /chelmsford/easy-mobility-services/
-shop: Allgemein
+shop: shop
 ---

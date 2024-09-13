@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /bradford/tesco-express/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "RICHARD HAVEN"
 url: /eastbourne/richard-haven/
-shop: Friseur
+shop: hairdresser
 ---

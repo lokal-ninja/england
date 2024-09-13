@@ -1,5 +1,5 @@
 ---
 title: "Over Under Coffee"
 url: /london/over-under-coffee/
-shop: Kiosk
+shop: kiosk
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Modern Screws"
 url: /bexley/modern-screws/
-shop: Eisenwaren
+shop: hardware
 ---

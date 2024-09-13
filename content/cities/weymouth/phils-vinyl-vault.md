@@ -1,5 +1,5 @@
 ---
 title: "Phils Vinyl Vault"
 url: /weymouth/phils-vinyl-vault/
-shop: Musik
+shop: music
 ---

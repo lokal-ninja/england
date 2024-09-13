@@ -1,5 +1,5 @@
 ---
 title: "Vision"
 url: /portsmouth/vision/
-shop: Allgemein
+shop: shop
 ---

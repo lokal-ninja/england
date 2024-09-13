@@ -1,5 +1,5 @@
 ---
 title: "Mace Express"
 url: /oswestry/mace-express/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Family Shopper"
 url: /sheffield/family-shopper/
-shop: Lebensmittel
+shop: convenience
 ---

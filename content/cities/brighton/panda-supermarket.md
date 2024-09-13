@@ -1,5 +1,5 @@
 ---
 title: "Panda Supermarket"
 url: /brighton/panda-supermarket/
-shop: Lebensmittel
+shop: convenience
 ---

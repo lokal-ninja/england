@@ -1,5 +1,5 @@
 ---
 title: "Excalibur Gaming"
 url: /taunton/excalibur-gaming/
-shop: Sport
+shop: sports
 ---

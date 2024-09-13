@@ -1,5 +1,5 @@
 ---
 title: "Steve's Barber"
 url: /birmingham/steves-barber/
-shop: Friseur
+shop: hairdresser
 ---

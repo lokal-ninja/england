@@ -1,5 +1,5 @@
 ---
 title: "Fonehut"
 url: /margate/fonehut/
-shop: Handy
+shop: mobile phone
 ---

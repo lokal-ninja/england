@@ -1,5 +1,5 @@
 ---
 title: "Samsung"
 url: /bristol/samsung/
-shop: Elektronik
+shop: electronics
 ---

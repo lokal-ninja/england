@@ -1,5 +1,5 @@
 ---
 title: "Jaba Yard"
 url: /brighton/jaba-yard/
-shop: Kleidung
+shop: clothes
 ---

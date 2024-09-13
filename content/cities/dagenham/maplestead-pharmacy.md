@@ -1,5 +1,5 @@
 ---
 title: "Maplestead Pharmacy"
 url: /dagenham/maplestead-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

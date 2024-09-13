@@ -1,5 +1,5 @@
 ---
 title: "Cig-Ease"
 url: /bolton/cig-ease/
-shop: Allgemein
+shop: shop
 ---

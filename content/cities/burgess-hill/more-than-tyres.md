@@ -1,5 +1,5 @@
 ---
 title: "More than Tyres"
 url: /burgess-hill/more-than-tyres/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "QD"
 url: /stowmarket/qd/
-shop: Kramladen
+shop: variety store
 ---

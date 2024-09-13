@@ -1,5 +1,5 @@
 ---
 title: "Machine Mart"
 url: /ipswich/machine-mart/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vision Express"
 url: /hastings/vision-express/
-shop: Optiker
+shop: optician
 ---

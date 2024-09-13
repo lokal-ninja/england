@@ -1,5 +1,5 @@
 ---
 title: "Gunns"
 url: /bedford/gunns/
-shop: Bäckerei
+shop: bakery
 ---

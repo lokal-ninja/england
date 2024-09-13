@@ -1,5 +1,5 @@
 ---
 title: "Oak Furnitureland"
 url: /tamworth/oak-furnitureland/
-shop: Möbel
+shop: furniture
 ---

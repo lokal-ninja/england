@@ -1,5 +1,5 @@
 ---
 title: "Choice Custom Curtains"
 url: /nottingham/choice-custom-curtains/
-shop: Gardinen
+shop: curtain
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Maldon Road Garage"
 url: /colchester/maldon-road-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

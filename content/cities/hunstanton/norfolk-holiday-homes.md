@@ -1,5 +1,5 @@
 ---
 title: "Norfolk Holiday Homes"
 url: /hunstanton/norfolk-holiday-homes/
-shop: Reisebüro
+shop: travel agency
 ---

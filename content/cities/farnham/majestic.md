@@ -1,5 +1,5 @@
 ---
 title: "Majestic"
 url: /farnham/majestic/
-shop: Spirituosen
+shop: alcohol
 ---

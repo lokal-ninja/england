@@ -1,5 +1,5 @@
 ---
 title: "Mousie Browns"
 url: /leeds/mousie-browns/
-shop: Leerstehend
+shop: vacant
 ---

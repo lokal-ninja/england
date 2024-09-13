@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /newcastle-upon-tyne/spar/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Peacocks"
 url: /dereham/peacocks/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Babyeze"
 url: /grays/babyeze/
-shop: Babysachen
+shop: baby goods
 ---

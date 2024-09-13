@@ -1,5 +1,5 @@
 ---
 title: "The Deli"
 url: /pershore/the-deli/
-shop: Feinkost
+shop: deli
 ---

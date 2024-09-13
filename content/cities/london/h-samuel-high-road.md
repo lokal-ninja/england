@@ -1,5 +1,5 @@
 ---
 title: "H.Samuel"
 url: /london/h-samuel-high-road/
-shop: Schmuck
+shop: jewelry
 ---

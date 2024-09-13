@@ -1,5 +1,5 @@
 ---
 title: "Moguland"
 url: /manchester/moguland/
-shop: Kleidung
+shop: clothes
 ---

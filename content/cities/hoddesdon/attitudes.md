@@ -1,5 +1,5 @@
 ---
 title: "Attitudes"
 url: /hoddesdon/attitudes/
-shop: Kosmetik
+shop: beauty
 ---

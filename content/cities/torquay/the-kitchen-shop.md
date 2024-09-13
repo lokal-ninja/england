@@ -1,5 +1,5 @@
 ---
 title: "The kitchen shop"
 url: /torquay/the-kitchen-shop/
-shop: Warenhaus
+shop: department store
 ---

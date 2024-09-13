@@ -1,5 +1,5 @@
 ---
 title: "Coco Nail Bar"
 url: /bristol/coco-nail-bar/
-shop: Friseur
+shop: hairdresser
 ---

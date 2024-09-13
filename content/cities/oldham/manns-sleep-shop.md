@@ -1,5 +1,5 @@
 ---
 title: "Mann's Sleep Shop"
 url: /oldham/manns-sleep-shop/
-shop: Betten
+shop: bed
 ---

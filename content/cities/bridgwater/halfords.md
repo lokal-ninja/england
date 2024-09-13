@@ -1,5 +1,5 @@
 ---
 title: "Halfords"
 url: /bridgwater/halfords/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Zains"
 url: /nottingham/zains/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chester Pet Stores"
 url: /chester-le-street/chester-pet-stores/
-shop: Tiersalon
+shop: pet grooming
 ---

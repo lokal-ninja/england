@@ -1,5 +1,5 @@
 ---
 title: "Cook"
 url: /rustington/cook/
-shop: Tiefkühl
+shop: frozen food
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fat Face"
 url: /colchester/fat-face/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ScS"
 url: /barnsley/scs/
-shop: Möbel
+shop: furniture
 ---

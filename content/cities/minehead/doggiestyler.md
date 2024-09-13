@@ -1,5 +1,5 @@
 ---
 title: "Doggiestyler"
 url: /minehead/doggiestyler/
-shop: Tiersalon
+shop: pet grooming
 ---

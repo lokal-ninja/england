@@ -1,5 +1,5 @@
 ---
 title: "Boots"
 url: /shipley/boots/
-shop: Bioladen
+shop: health food
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rocket Garage"
 url: /north-shields/rocket-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

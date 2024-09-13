@@ -1,5 +1,5 @@
 ---
 title: "Oxfam"
 url: /sheffield/oxfam-fulwood-road/
-shop: Gebrauchtwaren
+shop: charity
 ---

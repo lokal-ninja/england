@@ -1,5 +1,5 @@
 ---
 title: "Savoy Timber"
 url: /blackpool/savoy-timber/
-shop: Baustoffe
+shop: trade
 ---

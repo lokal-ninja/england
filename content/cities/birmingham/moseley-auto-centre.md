@@ -1,5 +1,5 @@
 ---
 title: "Moseley Auto Centre"
 url: /birmingham/moseley-auto-centre/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Milus Minimarket"
 url: /evesham/milus-minimarket/
-shop: Lebensmittel
+shop: convenience
 ---

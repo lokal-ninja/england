@@ -1,5 +1,5 @@
 ---
 title: "Typo"
 url: /canterbury/typo/
-shop: Schreibwaren
+shop: office supplies
 ---

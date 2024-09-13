@@ -1,5 +1,5 @@
 ---
 title: "Istanbul Barbershop"
 url: /warrington/istanbul-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

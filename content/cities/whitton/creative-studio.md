@@ -1,5 +1,5 @@
 ---
 title: "Creative Studio"
 url: /whitton/creative-studio/
-shop: Kosmetik
+shop: beauty
 ---

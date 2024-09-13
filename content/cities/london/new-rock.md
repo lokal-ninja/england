@@ -1,5 +1,5 @@
 ---
 title: "New Rock"
 url: /london/new-rock/
-shop: Leder
+shop: leather
 ---

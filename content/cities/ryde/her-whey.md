@@ -1,5 +1,5 @@
 ---
 title: "Her Whey"
 url: /ryde/her-whey/
-shop: Bioladen
+shop: health food
 ---

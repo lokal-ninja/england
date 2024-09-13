@@ -1,5 +1,5 @@
 ---
 title: "Hari News"
 url: /hayes/hari-news/
-shop: Zeitungen
+shop: newsagent
 ---

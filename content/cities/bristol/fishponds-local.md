@@ -1,5 +1,5 @@
 ---
 title: "Fishponds Local"
 url: /bristol/fishponds-local/
-shop: Lebensmittel
+shop: convenience
 ---

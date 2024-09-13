@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /kent/asda/
-shop: Supermarkt
+shop: supermarket
 ---

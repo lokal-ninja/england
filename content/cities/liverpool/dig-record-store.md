@@ -1,5 +1,5 @@
 ---
 title: "Dig Record Store"
 url: /liverpool/dig-record-store/
-shop: Kleidung
+shop: clothes
 ---

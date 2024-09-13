@@ -1,5 +1,5 @@
 ---
 title: "SYS Tech"
 url: /london/sys-tech/
-shop: Computer
+shop: computer
 ---

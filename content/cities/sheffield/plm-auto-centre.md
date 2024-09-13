@@ -1,5 +1,5 @@
 ---
 title: "PLM Auto Centre"
 url: /sheffield/plm-auto-centre/
-shop: Autowerkstatt
+shop: car repair
 ---

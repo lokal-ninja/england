@@ -1,5 +1,5 @@
 ---
 title: "Corner Deli"
 url: /derby/corner-deli/
-shop: Feinkost
+shop: deli
 ---

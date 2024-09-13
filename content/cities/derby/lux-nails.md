@@ -1,5 +1,5 @@
 ---
 title: "Lux Nails"
 url: /derby/lux-nails/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pandora"
 url: /birmingham/pandora/
-shop: Schmuck
+shop: jewelry
 ---

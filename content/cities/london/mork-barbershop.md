@@ -1,5 +1,5 @@
 ---
 title: "Mork Barbershop"
 url: /london/mork-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

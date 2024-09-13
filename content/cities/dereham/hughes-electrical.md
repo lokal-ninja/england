@@ -1,5 +1,5 @@
 ---
 title: "Hughes Electrical"
 url: /dereham/hughes-electrical/
-shop: Elektrisch
+shop: electrical
 ---

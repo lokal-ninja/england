@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /blaby/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

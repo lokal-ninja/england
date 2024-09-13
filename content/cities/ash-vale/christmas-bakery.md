@@ -1,5 +1,5 @@
 ---
 title: "Christmas Bakery"
 url: /ash-vale/christmas-bakery/
-shop: Bäckerei
+shop: bakery
 ---

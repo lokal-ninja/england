@@ -1,5 +1,5 @@
 ---
 title: "Clarks"
 url: /rugby/clarks/
-shop: Schuhe
+shop: shoes
 ---

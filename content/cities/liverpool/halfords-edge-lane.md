@@ -1,5 +1,5 @@
 ---
 title: "Halfords"
 url: /liverpool/halfords-edge-lane/
-shop: Autoteile
+shop: car parts
 ---

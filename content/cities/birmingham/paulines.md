@@ -1,5 +1,5 @@
 ---
 title: "Paulines"
 url: /birmingham/paulines/
-shop: Kleidung
+shop: clothes
 ---

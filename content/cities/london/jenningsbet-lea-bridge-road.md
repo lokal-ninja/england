@@ -1,5 +1,5 @@
 ---
 title: "JenningsBet"
 url: /london/jenningsbet-lea-bridge-road/
-shop: Wettbüro
+shop: bookmaker
 ---

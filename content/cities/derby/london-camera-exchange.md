@@ -1,5 +1,5 @@
 ---
 title: "London Camera Exchange"
 url: /derby/london-camera-exchange/
-shop: Kamera
+shop: camera
 ---

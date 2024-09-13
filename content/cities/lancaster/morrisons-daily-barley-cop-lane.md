@@ -1,5 +1,5 @@
 ---
 title: "Morrisons Daily"
 url: /lancaster/morrisons-daily-barley-cop-lane/
-shop: Lebensmittel
+shop: convenience
 ---

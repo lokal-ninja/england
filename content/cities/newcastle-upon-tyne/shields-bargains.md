@@ -1,5 +1,5 @@
 ---
 title: "Shields Bargains"
 url: /newcastle-upon-tyne/shields-bargains/
-shop: Möbel
+shop: furniture
 ---

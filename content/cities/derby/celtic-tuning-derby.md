@@ -1,5 +1,5 @@
 ---
 title: "Celtic Tuning Derby"
 url: /derby/celtic-tuning-derby/
-shop: Autowerkstatt
+shop: car repair
 ---

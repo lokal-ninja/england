@@ -1,5 +1,5 @@
 ---
 title: "Home Bargains"
 url: /wigan/home-bargains-gower-street/
-shop: Kramladen
+shop: variety store
 ---

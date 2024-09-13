@@ -1,5 +1,5 @@
 ---
 title: "The Dram Shop"
 url: /sheffield/the-dram-shop/
-shop: Spirituosen
+shop: alcohol
 ---

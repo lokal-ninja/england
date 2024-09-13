@@ -1,5 +1,5 @@
 ---
 title: "Poundstretcher"
 url: /gainsborough/poundstretcher/
-shop: Kramladen
+shop: variety store
 ---

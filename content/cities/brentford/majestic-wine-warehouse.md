@@ -1,5 +1,5 @@
 ---
 title: "Majestic Wine Warehouse"
 url: /brentford/majestic-wine-warehouse/
-shop: Spirituosen
+shop: alcohol
 ---

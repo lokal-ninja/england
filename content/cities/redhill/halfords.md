@@ -1,5 +1,5 @@
 ---
 title: "Halfords"
 url: /redhill/halfords/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "shrunkenTERRA"
 url: /burgess-hill/shrunkenterra/
-shop: Spiele
+shop: games
 ---

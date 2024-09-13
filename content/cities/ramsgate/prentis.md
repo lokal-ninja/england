@@ -1,5 +1,5 @@
 ---
 title: "Prentis"
 url: /ramsgate/prentis/
-shop: Gemüse & Obst
+shop: greengrocer
 ---

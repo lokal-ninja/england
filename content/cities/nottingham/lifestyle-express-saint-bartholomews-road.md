@@ -1,5 +1,5 @@
 ---
 title: "Lifestyle Express"
 url: /nottingham/lifestyle-express-saint-bartholomews-road/
-shop: Lebensmittel
+shop: convenience
 ---

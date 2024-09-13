@@ -1,5 +1,5 @@
 ---
 title: "Çiço"
 url: /london/cico/
-shop: Antiquitäten
+shop: antiques
 ---

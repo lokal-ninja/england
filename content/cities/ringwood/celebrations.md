@@ -1,5 +1,5 @@
 ---
 title: "Celebrations"
 url: /ringwood/celebrations/
-shop: Andenken
+shop: gift
 ---

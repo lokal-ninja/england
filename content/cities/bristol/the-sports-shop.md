@@ -1,5 +1,5 @@
 ---
 title: "The Sports Shop"
 url: /bristol/the-sports-shop/
-shop: Sport
+shop: sports
 ---

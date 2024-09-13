@@ -1,5 +1,5 @@
 ---
 title: "Cutting Edge"
 url: /exeter/cutting-edge/
-shop: Friseur
+shop: hairdresser
 ---

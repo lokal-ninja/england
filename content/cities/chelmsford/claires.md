@@ -1,5 +1,5 @@
 ---
 title: "claire's"
 url: /chelmsford/claires/
-shop: Modehaus
+shop: boutique
 ---

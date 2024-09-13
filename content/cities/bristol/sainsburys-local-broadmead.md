@@ -1,5 +1,5 @@
 ---
 title: "Sainsbury's Local"
 url: /bristol/sainsburys-local-broadmead/
-shop: Lebensmittel
+shop: convenience
 ---

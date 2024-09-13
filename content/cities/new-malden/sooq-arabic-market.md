@@ -1,5 +1,5 @@
 ---
 title: "Sooq - Arabic Market"
 url: /new-malden/sooq-arabic-market/
-shop: Lebensmittel
+shop: convenience
 ---

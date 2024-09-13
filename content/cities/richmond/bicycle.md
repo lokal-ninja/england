@@ -1,5 +1,5 @@
 ---
 title: "bicycle"
 url: /richmond/bicycle/
-shop: Fahrrad
+shop: bicycle
 ---

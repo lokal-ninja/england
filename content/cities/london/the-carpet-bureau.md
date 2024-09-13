@@ -1,5 +1,5 @@
 ---
 title: "The Carpet Bureau"
 url: /london/the-carpet-bureau/
-shop: Raumausstattung
+shop: interior decoration
 ---

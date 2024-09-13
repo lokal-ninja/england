@@ -1,5 +1,5 @@
 ---
 title: "One Studio"
 url: /kings-lynn/one-studio/
-shop: Friseur
+shop: hairdresser
 ---

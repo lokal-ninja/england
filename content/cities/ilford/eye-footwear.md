@@ -1,5 +1,5 @@
 ---
 title: "Eye Footwear"
 url: /ilford/eye-footwear/
-shop: Kleidung
+shop: clothes
 ---

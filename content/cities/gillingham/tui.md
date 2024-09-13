@@ -1,5 +1,5 @@
 ---
 title: "TUI"
 url: /gillingham/tui/
-shop: Reisebüro
+shop: travel agency
 ---

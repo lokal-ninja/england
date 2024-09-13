@@ -1,5 +1,5 @@
 ---
 title: "Flying Dutchman"
 url: /london/flying-dutchman/
-shop: Fahrrad
+shop: bicycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rani's"
 url: /derby/ranis/
-shop: Kosmetik
+shop: beauty
 ---

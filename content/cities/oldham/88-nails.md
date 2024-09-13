@@ -1,5 +1,5 @@
 ---
 title: "88 Nails"
 url: /oldham/88-nails/
-shop: Kosmetik
+shop: beauty
 ---

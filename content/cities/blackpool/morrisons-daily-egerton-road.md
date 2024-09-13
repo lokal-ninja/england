@@ -1,5 +1,5 @@
 ---
 title: "Morrisons Daily"
 url: /blackpool/morrisons-daily-egerton-road/
-shop: Lebensmittel
+shop: convenience
 ---

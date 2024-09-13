@@ -1,5 +1,5 @@
 ---
 title: "Thornton News"
 url: /thornton-heath/thornton-news/
-shop: Zeitungen
+shop: newsagent
 ---

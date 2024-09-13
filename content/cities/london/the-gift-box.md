@@ -1,5 +1,5 @@
 ---
 title: "The Gift Box"
 url: /london/the-gift-box/
-shop: Andenken
+shop: gift
 ---

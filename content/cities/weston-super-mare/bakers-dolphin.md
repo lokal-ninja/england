@@ -1,5 +1,5 @@
 ---
 title: "Bakers Dolphin"
 url: /weston-super-mare/bakers-dolphin/
-shop: Reisebüro
+shop: travel agency
 ---

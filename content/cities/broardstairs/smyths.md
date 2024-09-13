@@ -1,5 +1,5 @@
 ---
 title: "Smyths"
 url: /broardstairs/smyths/
-shop: Spielzeug
+shop: toys
 ---

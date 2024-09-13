@@ -1,5 +1,5 @@
 ---
 title: "Shush"
 url: /runcorn/shush/
-shop: Kleidung
+shop: clothes
 ---

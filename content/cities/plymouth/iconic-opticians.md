@@ -1,5 +1,5 @@
 ---
 title: "Iconic Opticians"
 url: /plymouth/iconic-opticians/
-shop: Optiker
+shop: optician
 ---

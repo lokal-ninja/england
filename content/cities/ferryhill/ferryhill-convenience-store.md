@@ -1,5 +1,5 @@
 ---
 title: "Ferryhill Convenience Store"
 url: /ferryhill/ferryhill-convenience-store/
-shop: Lebensmittel
+shop: convenience
 ---

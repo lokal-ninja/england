@@ -1,5 +1,5 @@
 ---
 title: "Ideal Motors"
 url: /coventry/ideal-motors/
-shop: Autohaus
+shop: car
 ---

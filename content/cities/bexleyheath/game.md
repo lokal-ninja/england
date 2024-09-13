@@ -1,5 +1,5 @@
 ---
 title: "Game"
 url: /bexleyheath/game/
-shop: Videospiele
+shop: video games
 ---

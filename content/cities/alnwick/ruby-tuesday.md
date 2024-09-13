@@ -1,5 +1,5 @@
 ---
 title: "Ruby Tuesday"
 url: /alnwick/ruby-tuesday/
-shop: Andenken
+shop: gift
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Glanvilles"
 url: /wadebridge/glanvilles/
-shop: Allgemein
+shop: shop
 ---

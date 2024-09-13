@@ -1,5 +1,5 @@
 ---
 title: "Curves"
 url: /liverpool/curves/
-shop: Kleidung
+shop: clothes
 ---

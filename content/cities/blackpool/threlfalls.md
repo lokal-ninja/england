@@ -1,5 +1,5 @@
 ---
 title: "Threlfall's"
 url: /blackpool/threlfalls/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Village Store"
 url: /grantham/the-village-store/
-shop: Lebensmittel
+shop: convenience
 ---

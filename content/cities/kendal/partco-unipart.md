@@ -1,5 +1,5 @@
 ---
 title: "Partco Unipart"
 url: /kendal/partco-unipart/
-shop: Autowerkstatt
+shop: car repair
 ---

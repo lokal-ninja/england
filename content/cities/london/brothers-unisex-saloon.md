@@ -1,5 +1,5 @@
 ---
 title: "Brother's Unisex Saloon"
 url: /london/brothers-unisex-saloon/
-shop: Friseur
+shop: hairdresser
 ---

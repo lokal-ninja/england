@@ -1,5 +1,5 @@
 ---
 title: "Middle Row Barbers"
 url: /east-grinstead/middle-row-barbers/
-shop: Friseur
+shop: hairdresser
 ---

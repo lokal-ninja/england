@@ -1,5 +1,5 @@
 ---
 title: "Urban Gent"
 url: /manchester/urban-gent/
-shop: Friseur
+shop: hairdresser
 ---

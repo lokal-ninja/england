@@ -1,5 +1,5 @@
 ---
 title: "Hobbycraft"
 url: /taunton/hobbycraft/
-shop: Basteln
+shop: craft
 ---

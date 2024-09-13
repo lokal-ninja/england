@@ -1,5 +1,5 @@
 ---
 title: "Trailfinders"
 url: /canterbury/trailfinders/
-shop: Reisebüro
+shop: travel agency
 ---

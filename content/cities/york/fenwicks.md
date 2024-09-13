@@ -1,5 +1,5 @@
 ---
 title: "Fenwicks"
 url: /york/fenwicks/
-shop: Warenhaus
+shop: department store
 ---

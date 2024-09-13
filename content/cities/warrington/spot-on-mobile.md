@@ -1,5 +1,5 @@
 ---
 title: "Spot On Mobile"
 url: /warrington/spot-on-mobile/
-shop: Handy
+shop: mobile phone
 ---

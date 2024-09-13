@@ -1,5 +1,5 @@
 ---
 title: "Getting Fresh"
 url: /leeds/getting-fresh/
-shop: Lebensmittel
+shop: convenience
 ---

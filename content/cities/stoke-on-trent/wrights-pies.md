@@ -1,5 +1,5 @@
 ---
 title: "Wrights Pies"
 url: /stoke-on-trent/wrights-pies/
-shop: Bäckerei
+shop: bakery
 ---

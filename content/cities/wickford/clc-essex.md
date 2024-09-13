@@ -1,5 +1,5 @@
 ---
 title: "CLC Essex"
 url: /wickford/clc-essex/
-shop: Videothek
+shop: video
 ---

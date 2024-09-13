@@ -1,5 +1,5 @@
 ---
 title: "Urban Ink"
 url: /morecambe/urban-ink/
-shop: Tattoo
+shop: tattoo
 ---

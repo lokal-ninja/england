@@ -1,5 +1,5 @@
 ---
 title: "Plumb Center"
 url: /london/plumb-center/
-shop: Baustoffe
+shop: trade
 ---

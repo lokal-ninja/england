@@ -1,5 +1,5 @@
 ---
 title: "Fresh Foods"
 url: /london/fresh-foods/
-shop: Lebensmittel
+shop: convenience
 ---

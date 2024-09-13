@@ -1,5 +1,5 @@
 ---
 title: "Laroussi"
 url: /bristol/laroussi/
-shop: Leerstehend
+shop: vacant
 ---

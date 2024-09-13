@@ -1,5 +1,5 @@
 ---
 title: "Heald Green MOT's"
 url: /heald-green/heald-green-mots/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kings"
 url: /brighton/kings/
-shop: Kopieren
+shop: copyshop
 ---

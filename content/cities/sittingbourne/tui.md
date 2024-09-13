@@ -1,5 +1,5 @@
 ---
 title: "TUI"
 url: /sittingbourne/tui/
-shop: Reisebüro
+shop: travel agency
 ---

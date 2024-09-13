@@ -1,5 +1,5 @@
 ---
 title: "One Stop"
 url: /morecambe/one-stop-lancaster-road/
-shop: Lebensmittel
+shop: convenience
 ---

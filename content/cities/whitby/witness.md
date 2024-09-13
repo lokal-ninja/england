@@ -1,5 +1,5 @@
 ---
 title: "Witness"
 url: /whitby/witness/
-shop: Allgemein
+shop: shop
 ---

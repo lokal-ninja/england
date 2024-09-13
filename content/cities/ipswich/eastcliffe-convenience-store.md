@@ -1,5 +1,5 @@
 ---
 title: "Eastcliffe Convenience Store"
 url: /ipswich/eastcliffe-convenience-store/
-shop: Lebensmittel
+shop: convenience
 ---

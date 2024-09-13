@@ -1,5 +1,5 @@
 ---
 title: "Big Bazaar"
 url: /reading/big-bazaar/
-shop: Lebensmittel
+shop: convenience
 ---

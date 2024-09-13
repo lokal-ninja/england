@@ -1,5 +1,5 @@
 ---
 title: "Templant"
 url: /chelmsford/templant/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lords"
 url: /ringwood/lords/
-shop: Friseur
+shop: hairdresser
 ---

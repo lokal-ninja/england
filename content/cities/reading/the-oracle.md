@@ -1,5 +1,5 @@
 ---
 title: "The Oracle"
 url: /reading/the-oracle/
-shop: Einkaufszentrum
+shop: mall
 ---

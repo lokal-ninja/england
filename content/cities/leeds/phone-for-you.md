@@ -1,5 +1,5 @@
 ---
 title: "Phone For You"
 url: /leeds/phone-for-you/
-shop: Handy
+shop: mobile phone
 ---

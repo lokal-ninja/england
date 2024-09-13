@@ -1,5 +1,5 @@
 ---
 title: "McEvoy's Meats"
 url: /bristol/mcevoys-meats/
-shop: Metzgerei
+shop: butcher
 ---

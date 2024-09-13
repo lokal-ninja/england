@@ -1,5 +1,5 @@
 ---
 title: "Dunelm"
 url: /bradford/dunelm/
-shop: Raumausstattung
+shop: interior decoration
 ---

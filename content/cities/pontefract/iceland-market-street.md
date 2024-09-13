@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /pontefract/iceland-market-street/
-shop: Tiefkühl
+shop: frozen food
 ---

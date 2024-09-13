@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /barnsley/premier/
-shop: Lebensmittel
+shop: convenience
 ---

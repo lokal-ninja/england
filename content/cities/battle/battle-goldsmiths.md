@@ -1,5 +1,5 @@
 ---
 title: "Battle Goldsmiths"
 url: /battle/battle-goldsmiths/
-shop: Schmuck
+shop: jewelry
 ---

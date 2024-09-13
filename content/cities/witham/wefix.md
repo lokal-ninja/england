@@ -1,5 +1,5 @@
 ---
 title: "Wefix"
 url: /witham/wefix/
-shop: Handy
+shop: mobile phone
 ---

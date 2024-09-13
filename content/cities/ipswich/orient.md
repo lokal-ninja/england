@@ -1,5 +1,5 @@
 ---
 title: "Orient"
 url: /ipswich/orient/
-shop: Lebensmittel
+shop: convenience
 ---

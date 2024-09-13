@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /faringdon/tesco/
-shop: Supermarkt
+shop: supermarket
 ---

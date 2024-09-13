@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /birmingham/tesco-express-stratford-road/
-shop: Lebensmittel
+shop: convenience
 ---

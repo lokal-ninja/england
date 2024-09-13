@@ -1,5 +1,5 @@
 ---
 title: "Hobbycraft"
 url: /canterbury/hobbycraft/
-shop: Basteln
+shop: craft
 ---

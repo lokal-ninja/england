@@ -1,5 +1,5 @@
 ---
 title: "CeX"
 url: /nottingham/cex/
-shop: Elektronik
+shop: electronics
 ---

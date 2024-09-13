@@ -1,5 +1,5 @@
 ---
 title: "Graham"
 url: /exeter/graham/
-shop: Allgemein
+shop: shop
 ---

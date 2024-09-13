@@ -1,5 +1,5 @@
 ---
 title: "Jim's"
 url: /clacton-on-sea/jims/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dentscratch"
 url: /aldershot/dentscratch/
-shop: Autowerkstatt
+shop: car repair
 ---

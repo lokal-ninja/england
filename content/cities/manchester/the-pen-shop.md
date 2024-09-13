@@ -1,5 +1,5 @@
 ---
 title: "The Pen Shop"
 url: /manchester/the-pen-shop/
-shop: Schreibwaren
+shop: office supplies
 ---

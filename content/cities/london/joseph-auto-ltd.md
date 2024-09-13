@@ -1,5 +1,5 @@
 ---
 title: "Joseph Auto Ltd."
 url: /london/joseph-auto-ltd/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pound Plus"
 url: /leeds/pound-plus/
-shop: Lebensmittel
+shop: convenience
 ---

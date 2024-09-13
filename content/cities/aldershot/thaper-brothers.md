@@ -1,5 +1,5 @@
 ---
 title: "Thaper Brothers"
 url: /aldershot/thaper-brothers/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Morrisons"
 url: /hull/morrisons-holderness-road/
-shop: Supermarkt
+shop: supermarket
 ---

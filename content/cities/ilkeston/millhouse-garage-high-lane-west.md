@@ -1,5 +1,5 @@
 ---
 title: "Millhouse Garage"
 url: /ilkeston/millhouse-garage-high-lane-west/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hair Design"
 url: /boothstown/hair-design/
-shop: Friseur
+shop: hairdresser
 ---

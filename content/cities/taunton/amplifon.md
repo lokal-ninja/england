@@ -1,5 +1,5 @@
 ---
 title: "Amplifon"
 url: /taunton/amplifon/
-shop: Hörgeräte
+shop: hearing aids
 ---

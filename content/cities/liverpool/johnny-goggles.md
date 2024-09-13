@@ -1,5 +1,5 @@
 ---
 title: "Johnny Goggles"
 url: /liverpool/johnny-goggles/
-shop: Optiker
+shop: optician
 ---

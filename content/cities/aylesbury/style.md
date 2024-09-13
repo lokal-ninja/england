@@ -1,5 +1,5 @@
 ---
 title: "Style"
 url: /aylesbury/style/
-shop: Friseur
+shop: hairdresser
 ---

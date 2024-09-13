@@ -1,5 +1,5 @@
 ---
 title: "The Naildy"
 url: /stroud/the-naildy/
-shop: Kosmetik
+shop: beauty
 ---

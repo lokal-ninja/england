@@ -1,5 +1,5 @@
 ---
 title: "Kitchen Provisions"
 url: /london/kitchen-provisions/
-shop: Haushaltsartikel
+shop: houseware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Holt"
 url: /gainsborough/holt/
-shop: Lebensmittel
+shop: convenience
 ---

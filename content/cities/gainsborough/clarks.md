@@ -1,5 +1,5 @@
 ---
 title: "Clarks"
 url: /gainsborough/clarks/
-shop: Schuhe
+shop: shoes
 ---

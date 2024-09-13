@@ -1,5 +1,5 @@
 ---
 title: "Mole Country Stores"
 url: /harrogate/mole-country-stores/
-shop: Dorfladen
+shop: general
 ---

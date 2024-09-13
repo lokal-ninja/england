@@ -1,5 +1,5 @@
 ---
 title: "Lilliput's"
 url: /bridport/lilliputs/
-shop: Warenhaus
+shop: department store
 ---

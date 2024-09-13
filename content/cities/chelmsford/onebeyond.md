@@ -1,5 +1,5 @@
 ---
 title: "OneBeyond"
 url: /chelmsford/onebeyond/
-shop: Kramladen
+shop: variety store
 ---

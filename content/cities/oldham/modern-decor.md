@@ -1,5 +1,5 @@
 ---
 title: "Modern Decor"
 url: /oldham/modern-decor/
-shop: Fliesen
+shop: tiles
 ---

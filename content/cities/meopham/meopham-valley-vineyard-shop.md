@@ -1,5 +1,5 @@
 ---
 title: "Meopham Valley Vineyard Shop"
 url: /meopham/meopham-valley-vineyard-shop/
-shop: Spirituosen
+shop: alcohol
 ---

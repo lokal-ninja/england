@@ -1,5 +1,5 @@
 ---
 title: "Dripgold"
 url: /birmingham/dripgold/
-shop: Schmuck
+shop: jewelry
 ---

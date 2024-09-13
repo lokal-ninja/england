@@ -1,5 +1,5 @@
 ---
 title: "Angel Nails"
 url: /derby/angel-nails/
-shop: Kosmetik
+shop: beauty
 ---

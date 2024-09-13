@@ -1,5 +1,5 @@
 ---
 title: "Game"
 url: /northwich/game/
-shop: Videospiele
+shop: video games
 ---

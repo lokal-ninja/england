@@ -1,5 +1,5 @@
 ---
 title: "Gunyadin"
 url: /london/gunyadin/
-shop: Lebensmittel
+shop: convenience
 ---

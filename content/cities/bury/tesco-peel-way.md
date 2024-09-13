@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /bury/tesco-peel-way/
-shop: Supermarkt
+shop: supermarket
 ---

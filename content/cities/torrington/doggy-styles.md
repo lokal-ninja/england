@@ -1,5 +1,5 @@
 ---
 title: "Doggy Styles"
 url: /torrington/doggy-styles/
-shop: Tiersalon
+shop: pet grooming
 ---

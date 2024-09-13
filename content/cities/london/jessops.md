@@ -1,5 +1,5 @@
 ---
 title: "Jessops"
 url: /london/jessops/
-shop: Kamera
+shop: camera
 ---

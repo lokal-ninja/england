@@ -1,5 +1,5 @@
 ---
 title: "Bellissimay"
 url: /cirencester/bellissimay/
-shop: Kosmetik
+shop: beauty
 ---

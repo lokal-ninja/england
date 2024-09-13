@@ -1,5 +1,5 @@
 ---
 title: "Appley Blossom"
 url: /wigan/appley-blossom/
-shop: Blumen
+shop: florist
 ---

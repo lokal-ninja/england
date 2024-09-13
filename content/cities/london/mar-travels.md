@@ -1,5 +1,5 @@
 ---
 title: "Mar Travels"
 url: /london/mar-travels/
-shop: Reisebüro
+shop: travel agency
 ---

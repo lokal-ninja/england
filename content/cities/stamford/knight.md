@@ -1,5 +1,5 @@
 ---
 title: "Knight"
 url: /stamford/knight/
-shop: Immobilien
+shop: estate agent
 ---

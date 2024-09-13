@@ -1,5 +1,5 @@
 ---
 title: "Cotton Traders"
 url: /stoke-on-trent/cotton-traders/
-shop: Kleidung
+shop: clothes
 ---

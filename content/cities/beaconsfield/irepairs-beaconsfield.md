@@ -1,5 +1,5 @@
 ---
 title: "iRepairs Beaconsfield"
 url: /beaconsfield/irepairs-beaconsfield/
-shop: Handy
+shop: mobile phone
 ---

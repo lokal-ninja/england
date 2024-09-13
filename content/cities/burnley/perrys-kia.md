@@ -1,5 +1,5 @@
 ---
 title: "Perrys KIA"
 url: /burnley/perrys-kia/
-shop: Autohaus
+shop: car
 ---

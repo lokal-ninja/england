@@ -1,5 +1,5 @@
 ---
 title: "Form."
 url: /manchester/form/
-shop: Haushaltsartikel
+shop: houseware
 ---

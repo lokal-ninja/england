@@ -1,5 +1,5 @@
 ---
 title: "Longview Animal Sanctury"
 url: /blackpool/longview-animal-sanctury/
-shop: Gebrauchtwaren
+shop: charity
 ---

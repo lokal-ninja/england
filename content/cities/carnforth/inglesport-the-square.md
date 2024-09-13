@@ -1,5 +1,5 @@
 ---
 title: "Inglesport"
 url: /carnforth/inglesport-the-square/
-shop: Outdoor
+shop: outdoor
 ---

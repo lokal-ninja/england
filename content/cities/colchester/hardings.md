@@ -1,5 +1,5 @@
 ---
 title: "Hardings"
 url: /colchester/hardings/
-shop: Immobilien
+shop: estate agent
 ---

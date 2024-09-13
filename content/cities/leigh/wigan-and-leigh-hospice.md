@@ -1,5 +1,5 @@
 ---
 title: "Wigan and Leigh Hospice"
 url: /leigh/wigan-and-leigh-hospice/
-shop: Gebrauchtwaren
+shop: charity
 ---

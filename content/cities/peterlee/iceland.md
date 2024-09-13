@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /peterlee/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tracts Vehicle Repair"
 url: /aldershot/tracts-vehicle-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

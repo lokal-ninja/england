@@ -1,5 +1,5 @@
 ---
 title: "Handicare"
 url: /gateshead/handicare/
-shop: Allgemein
+shop: shop
 ---

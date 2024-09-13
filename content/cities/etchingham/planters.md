@@ -1,5 +1,5 @@
 ---
 title: "Planters"
 url: /etchingham/planters/
-shop: Garten-Center
+shop: garden centre
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carvetti"
 url: /carlisle/carvetti/
-shop: Raumausstattung
+shop: interior decoration
 ---

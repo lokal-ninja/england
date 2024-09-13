@@ -1,5 +1,5 @@
 ---
 title: "Tumblewash"
 url: /ripley/tumblewash/
-shop: Wäscherei
+shop: laundry
 ---

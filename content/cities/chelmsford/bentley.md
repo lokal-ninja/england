@@ -1,5 +1,5 @@
 ---
 title: "Bentley"
 url: /chelmsford/bentley/
-shop: Autohaus
+shop: car
 ---

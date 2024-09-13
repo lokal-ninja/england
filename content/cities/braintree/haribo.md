@@ -1,5 +1,5 @@
 ---
 title: "Haribo"
 url: /braintree/haribo/
-shop: Süßwaren
+shop: confectionery
 ---

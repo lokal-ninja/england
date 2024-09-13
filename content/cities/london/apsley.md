@@ -1,5 +1,5 @@
 ---
 title: "Apsley"
 url: /london/apsley/
-shop: Schneiderei
+shop: tailor
 ---

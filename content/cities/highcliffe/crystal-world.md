@@ -1,5 +1,5 @@
 ---
 title: "Crystal World"
 url: /highcliffe/crystal-world/
-shop: Schmuck
+shop: jewelry
 ---

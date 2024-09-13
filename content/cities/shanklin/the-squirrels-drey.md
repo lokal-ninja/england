@@ -1,5 +1,5 @@
 ---
 title: "The Squirrel's Drey"
 url: /shanklin/the-squirrels-drey/
-shop: Andenken
+shop: gift
 ---

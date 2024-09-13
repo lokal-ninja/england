@@ -1,5 +1,5 @@
 ---
 title: "Chester News"
 url: /sunderland/chester-news/
-shop: Zeitungen
+shop: newsagent
 ---

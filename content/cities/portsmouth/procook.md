@@ -1,5 +1,5 @@
 ---
 title: "ProCook"
 url: /portsmouth/procook/
-shop: Haushaltsartikel
+shop: houseware
 ---

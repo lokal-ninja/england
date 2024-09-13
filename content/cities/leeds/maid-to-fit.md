@@ -1,5 +1,5 @@
 ---
 title: "Maid To Fit"
 url: /leeds/maid-to-fit/
-shop: Kleidung
+shop: clothes
 ---

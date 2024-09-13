@@ -1,5 +1,5 @@
 ---
 title: "Argos"
 url: /bishops-stortford/argos/
-shop: Katalog
+shop: catalogue
 ---

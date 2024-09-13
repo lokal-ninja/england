@@ -1,5 +1,5 @@
 ---
 title: "TK Maxx"
 url: /london/tk-maxx-tandem-way/
-shop: Warenhaus
+shop: department store
 ---

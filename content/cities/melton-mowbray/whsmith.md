@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /melton-mowbray/whsmith/
-shop: Bücher
+shop: books
 ---

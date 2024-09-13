@@ -1,5 +1,5 @@
 ---
 title: "Beeches"
 url: /congleton/beeches/
-shop: Kleidung
+shop: clothes
 ---

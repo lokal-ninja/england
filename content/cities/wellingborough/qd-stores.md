@@ -1,5 +1,5 @@
 ---
 title: "QD Stores"
 url: /wellingborough/qd-stores/
-shop: Kramladen
+shop: variety store
 ---

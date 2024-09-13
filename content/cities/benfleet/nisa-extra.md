@@ -1,5 +1,5 @@
 ---
 title: "Nisa Extra"
 url: /benfleet/nisa-extra/
-shop: Supermarkt
+shop: supermarket
 ---

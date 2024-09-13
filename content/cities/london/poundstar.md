@@ -1,5 +1,5 @@
 ---
 title: "Poundstar"
 url: /london/poundstar/
-shop: Kramladen
+shop: variety store
 ---

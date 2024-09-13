@@ -1,5 +1,5 @@
 ---
 title: "Vikings"
 url: /wilmslow/vikings/
-shop: Eisenwaren
+shop: hardware
 ---

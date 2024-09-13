@@ -1,5 +1,5 @@
 ---
 title: "The Wash Tub"
 url: /manchester/the-wash-tub/
-shop: Wäscherei
+shop: laundry
 ---

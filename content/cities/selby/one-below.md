@@ -1,5 +1,5 @@
 ---
 title: "One Below"
 url: /selby/one-below/
-shop: Kramladen
+shop: variety store
 ---

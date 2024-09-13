@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /norwich/aldi-plumstead-road/
-shop: Supermarkt
+shop: supermarket
 ---

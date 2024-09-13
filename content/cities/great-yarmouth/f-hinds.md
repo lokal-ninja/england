@@ -1,5 +1,5 @@
 ---
 title: "F.Hinds"
 url: /great-yarmouth/f-hinds/
-shop: Schmuck
+shop: jewelry
 ---

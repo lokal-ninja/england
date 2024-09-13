@@ -1,5 +1,5 @@
 ---
 title: "BWC Car Centre"
 url: /nottingham/bwc-car-centre/
-shop: Autowerkstatt
+shop: car repair
 ---

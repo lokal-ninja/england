@@ -1,5 +1,5 @@
 ---
 title: "Flintstone Tyre Services"
 url: /southampton/flintstone-tyre-services/
-shop: Reifen
+shop: tyres
 ---

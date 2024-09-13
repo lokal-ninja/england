@@ -1,5 +1,5 @@
 ---
 title: "CO-OP Daily"
 url: /ipswich/co-op-daily/
-shop: Lebensmittel
+shop: convenience
 ---

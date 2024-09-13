@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /middlesbrough/iceland-2/
-shop: Tiefkühl
+shop: frozen food
 ---

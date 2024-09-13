@@ -1,5 +1,5 @@
 ---
 title: "Shoe Shelter"
 url: /huddersfield/shoe-shelter/
-shop: Schuhe
+shop: shoes
 ---

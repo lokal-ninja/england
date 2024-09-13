@@ -1,5 +1,5 @@
 ---
 title: "Rolands"
 url: /greenford/rolands/
-shop: Lebensmittel
+shop: convenience
 ---

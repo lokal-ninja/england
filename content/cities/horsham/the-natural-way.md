@@ -1,5 +1,5 @@
 ---
 title: "The Natural Way"
 url: /horsham/the-natural-way/
-shop: Bioladen
+shop: health food
 ---

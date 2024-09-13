@@ -1,5 +1,5 @@
 ---
 title: "Foxtons"
 url: /london/foxtons/
-shop: Immobilien
+shop: estate agent
 ---

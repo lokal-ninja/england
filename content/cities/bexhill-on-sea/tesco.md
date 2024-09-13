@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /bexhill-on-sea/tesco/
-shop: Supermarkt
+shop: supermarket
 ---

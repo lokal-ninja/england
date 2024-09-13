@@ -1,5 +1,5 @@
 ---
 title: "Oldfield Discount Store"
 url: /northolt/oldfield-discount-store/
-shop: Kramladen
+shop: variety store
 ---

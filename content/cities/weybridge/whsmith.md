@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /weybridge/whsmith/
-shop: Zeitungen
+shop: newsagent
 ---

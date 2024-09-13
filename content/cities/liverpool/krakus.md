@@ -1,5 +1,5 @@
 ---
 title: "Krakus"
 url: /liverpool/krakus/
-shop: Lebensmittel
+shop: convenience
 ---

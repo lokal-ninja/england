@@ -1,5 +1,5 @@
 ---
 title: "Poundstretcher"
 url: /sheerness/poundstretcher/
-shop: Kramladen
+shop: variety store
 ---

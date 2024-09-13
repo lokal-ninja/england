@@ -1,5 +1,5 @@
 ---
 title: "Cards Direct"
 url: /derby/cards-direct/
-shop: Andenken
+shop: gift
 ---

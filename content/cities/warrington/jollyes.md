@@ -1,5 +1,5 @@
 ---
 title: "Jollyes"
 url: /warrington/jollyes/
-shop: Tiere
+shop: pet
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spacestor"
 url: /london/spacestor/
-shop: Möbel
+shop: furniture
 ---

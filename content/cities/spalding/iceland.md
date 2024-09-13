@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /spalding/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /hatfield/tesco/
-shop: Lebensmittel
+shop: convenience
 ---

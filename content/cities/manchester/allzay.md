@@ -1,5 +1,5 @@
 ---
 title: "Allzay"
 url: /manchester/allzay/
-shop: Großhandel
+shop: wholesale
 ---

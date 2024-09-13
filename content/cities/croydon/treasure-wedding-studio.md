@@ -1,5 +1,5 @@
 ---
 title: "Treasure Wedding Studio"
 url: /croydon/treasure-wedding-studio/
-shop: Brautkleider
+shop: wedding gown
 ---

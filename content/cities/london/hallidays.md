@@ -1,5 +1,5 @@
 ---
 title: "Halliday's"
 url: /london/hallidays/
-shop: Eisenwaren
+shop: hardware
 ---

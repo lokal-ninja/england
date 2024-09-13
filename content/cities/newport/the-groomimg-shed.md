@@ -1,5 +1,5 @@
 ---
 title: "The Groomimg Shed"
 url: /newport/the-groomimg-shed/
-shop: Tiersalon
+shop: pet grooming
 ---

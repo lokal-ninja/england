@@ -1,5 +1,5 @@
 ---
 title: "Posies Florist"
 url: /west-bromwich/posies-florist/
-shop: Blumen
+shop: florist
 ---

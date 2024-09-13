@@ -1,5 +1,5 @@
 ---
 title: "F.Hinds"
 url: /bexhill-on-sea/f-hinds/
-shop: Schmuck
+shop: jewelry
 ---

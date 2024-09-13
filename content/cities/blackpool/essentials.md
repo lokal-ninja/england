@@ -1,5 +1,5 @@
 ---
 title: "Essentials"
 url: /blackpool/essentials/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Specsavers"
 url: /wallington/specsavers/
-shop: Optiker
+shop: optician
 ---

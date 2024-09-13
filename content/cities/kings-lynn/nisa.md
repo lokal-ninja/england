@@ -1,5 +1,5 @@
 ---
 title: "Nisa"
 url: /kings-lynn/nisa/
-shop: Lebensmittel
+shop: convenience
 ---

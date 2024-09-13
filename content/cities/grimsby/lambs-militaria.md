@@ -1,5 +1,5 @@
 ---
 title: "Lamb's Militaria"
 url: /grimsby/lambs-militaria/
-shop: Sammler
+shop: collector
 ---

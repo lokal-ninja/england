@@ -1,5 +1,5 @@
 ---
 title: "Poundstretcher"
 url: /mansfield/poundstretcher/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /margate/betfred/
-shop: Wettbüro
+shop: bookmaker
 ---

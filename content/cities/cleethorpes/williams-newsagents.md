@@ -1,5 +1,5 @@
 ---
 title: "William's Newsagents"
 url: /cleethorpes/williams-newsagents/
-shop: Zeitungen
+shop: newsagent
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /wantage/coral/
-shop: Wettbüro
+shop: bookmaker
 ---

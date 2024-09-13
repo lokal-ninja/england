@@ -1,5 +1,5 @@
 ---
 title: "Service Graphics"
 url: /manchester/service-graphics/
-shop: Kopieren
+shop: copyshop
 ---

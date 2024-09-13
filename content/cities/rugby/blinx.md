@@ -1,5 +1,5 @@
 ---
 title: "Blinx"
 url: /rugby/blinx/
-shop: Kosmetik
+shop: beauty
 ---

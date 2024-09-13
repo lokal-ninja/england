@@ -1,5 +1,5 @@
 ---
 title: "The Entertainer"
 url: /southport/the-entertainer/
-shop: Spielzeug
+shop: toys
 ---

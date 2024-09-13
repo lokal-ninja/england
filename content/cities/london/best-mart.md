@@ -1,5 +1,5 @@
 ---
 title: "Best Mart"
 url: /london/best-mart/
-shop: Lebensmittel
+shop: convenience
 ---

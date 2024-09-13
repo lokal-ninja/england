@@ -1,5 +1,5 @@
 ---
 title: "David Clulow"
 url: /cambridge/david-clulow/
-shop: Optiker
+shop: optician
 ---

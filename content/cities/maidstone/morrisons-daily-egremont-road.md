@@ -1,5 +1,5 @@
 ---
 title: "Morrisons Daily"
 url: /maidstone/morrisons-daily-egremont-road/
-shop: Lebensmittel
+shop: convenience
 ---

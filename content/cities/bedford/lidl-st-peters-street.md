@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /bedford/lidl-st-peters-street/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Headmasters"
 url: /orpington/headmasters/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vision Express"
 url: /reigate/vision-express/
-shop: Optiker
+shop: optician
 ---

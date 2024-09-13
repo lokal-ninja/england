@@ -1,5 +1,5 @@
 ---
 title: "Made Up"
 url: /wakefield/made-up/
-shop: Kosmetik
+shop: beauty
 ---

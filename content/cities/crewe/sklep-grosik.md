@@ -1,5 +1,5 @@
 ---
 title: "Sklep Grosik"
 url: /crewe/sklep-grosik/
-shop: Supermarkt
+shop: supermarket
 ---

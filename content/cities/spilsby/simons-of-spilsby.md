@@ -1,5 +1,5 @@
 ---
 title: "Simons Of Spilsby"
 url: /spilsby/simons-of-spilsby/
-shop: Feinkost
+shop: deli
 ---

@@ -1,5 +1,5 @@
 ---
 title: "White Boar Tattoo"
 url: /sheffield/white-boar-tattoo/
-shop: Tattoo
+shop: tattoo
 ---

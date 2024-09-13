@@ -1,5 +1,5 @@
 ---
 title: "Rapidocolor"
 url: /watford/rapidocolor/
-shop: Kopieren
+shop: copyshop
 ---

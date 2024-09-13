@@ -1,5 +1,5 @@
 ---
 title: "The Herriot Gallery"
 url: /hawes/the-herriot-gallery/
-shop: Kunst
+shop: art
 ---

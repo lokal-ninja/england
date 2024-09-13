@@ -1,5 +1,5 @@
 ---
 title: "Marcella"
 url: /margate/marcella/
-shop: Friseur
+shop: hairdresser
 ---

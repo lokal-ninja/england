@@ -1,5 +1,5 @@
 ---
 title: "Autosparks"
 url: /nottingham/autosparks/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "TUI"
 url: /cleethorpes/tui/
-shop: Reisebüro
+shop: travel agency
 ---

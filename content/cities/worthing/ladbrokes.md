@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /worthing/ladbrokes/
-shop: Wettbüro
+shop: bookmaker
 ---

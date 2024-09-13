@@ -1,5 +1,5 @@
 ---
 title: "Kia"
 url: /macclesfield/kia/
-shop: Autohaus
+shop: car
 ---

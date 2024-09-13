@@ -1,5 +1,5 @@
 ---
 title: "Total VAG Ltd"
 url: /leighton-buzzard/total-vag-ltd/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Coughlans Bakery"
 url: /reigate/coughlans-bakery/
-shop: Bäckerei
+shop: bakery
 ---

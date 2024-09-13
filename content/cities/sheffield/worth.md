@@ -1,5 +1,5 @@
 ---
 title: "worth"
 url: /sheffield/worth/
-shop: Haushaltsartikel
+shop: houseware
 ---

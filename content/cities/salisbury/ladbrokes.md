@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /salisbury/ladbrokes/
-shop: Wettbüro
+shop: bookmaker
 ---

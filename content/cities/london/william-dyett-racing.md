@@ -1,5 +1,5 @@
 ---
 title: "William Dyett Racing"
 url: /london/william-dyett-racing/
-shop: Autowerkstatt
+shop: car repair
 ---

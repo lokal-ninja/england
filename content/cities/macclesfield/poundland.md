@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /macclesfield/poundland/
-shop: Kramladen
+shop: variety store
 ---

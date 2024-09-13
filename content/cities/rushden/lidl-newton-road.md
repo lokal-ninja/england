@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /rushden/lidl-newton-road/
-shop: Supermarkt
+shop: supermarket
 ---

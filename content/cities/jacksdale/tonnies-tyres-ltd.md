@@ -1,5 +1,5 @@
 ---
 title: "Tonnies Tyres Ltd"
 url: /jacksdale/tonnies-tyres-ltd/
-shop: Reifen
+shop: tyres
 ---

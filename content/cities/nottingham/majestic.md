@@ -1,5 +1,5 @@
 ---
 title: "Majestic"
 url: /nottingham/majestic/
-shop: Spirituosen
+shop: alcohol
 ---

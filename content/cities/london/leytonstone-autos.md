@@ -1,5 +1,5 @@
 ---
 title: "Leytonstone Autos"
 url: /london/leytonstone-autos/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ellerker Opticians"
 url: /shrewsbury/ellerker-opticians/
-shop: Optiker
+shop: optician
 ---

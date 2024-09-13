@@ -1,5 +1,5 @@
 ---
 title: "Mayar"
 url: /london/mayar/
-shop: Fisch
+shop: seafood
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /london/ladbrokes-sheen-lane/
-shop: Wettbüro
+shop: bookmaker
 ---

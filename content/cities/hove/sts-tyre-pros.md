@@ -1,5 +1,5 @@
 ---
 title: "STS Tyre Pros"
 url: /hove/sts-tyre-pros/
-shop: Reifen
+shop: tyres
 ---

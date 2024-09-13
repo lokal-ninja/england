@@ -1,5 +1,5 @@
 ---
 title: "Nisa Local"
 url: /dunstable/nisa-local/
-shop: Lebensmittel
+shop: convenience
 ---

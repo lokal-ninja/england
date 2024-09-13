@@ -1,5 +1,5 @@
 ---
 title: "Sayers"
 url: /bolton/sayers/
-shop: Bäckerei
+shop: bakery
 ---

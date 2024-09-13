@@ -1,5 +1,5 @@
 ---
 title: "BCD"
 url: /bolton/bcd/
-shop: Türen
+shop: doors
 ---

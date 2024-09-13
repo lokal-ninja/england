@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /gosport/poundland/
-shop: Kramladen
+shop: variety store
 ---

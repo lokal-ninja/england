@@ -1,5 +1,5 @@
 ---
 title: "Splahdem Studios"
 url: /gillingham/splahdem-studios/
-shop: Friseur
+shop: hairdresser
 ---

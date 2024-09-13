@@ -1,5 +1,5 @@
 ---
 title: "St. Elizabeth Hospice"
 url: /leiston/st-elizabeth-hospice/
-shop: Gebrauchtwaren
+shop: charity
 ---

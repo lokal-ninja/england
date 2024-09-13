@@ -1,5 +1,5 @@
 ---
 title: "Jewelry Workshop"
 url: /southport/jewelry-workshop/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cutz"
 url: /nottingham/cutz/
-shop: Friseur
+shop: hairdresser
 ---

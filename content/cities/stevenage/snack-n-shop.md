@@ -1,5 +1,5 @@
 ---
 title: "Snack N Shop"
 url: /stevenage/snack-n-shop/
-shop: Lebensmittel
+shop: convenience
 ---

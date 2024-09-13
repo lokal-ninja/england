@@ -1,5 +1,5 @@
 ---
 title: "Dunelm"
 url: /grimsby/dunelm/
-shop: Raumausstattung
+shop: interior decoration
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /headcorn/costcutter/
-shop: Lebensmittel
+shop: convenience
 ---

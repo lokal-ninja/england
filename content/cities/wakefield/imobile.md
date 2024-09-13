@@ -1,5 +1,5 @@
 ---
 title: "iMobile"
 url: /wakefield/imobile/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /hinckley/asda/
-shop: Supermarkt
+shop: supermarket
 ---

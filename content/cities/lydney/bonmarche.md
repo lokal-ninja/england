@@ -1,5 +1,5 @@
 ---
 title: "Bonmarché"
 url: /lydney/bonmarche/
-shop: Kleidung
+shop: clothes
 ---

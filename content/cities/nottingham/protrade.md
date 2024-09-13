@@ -1,5 +1,5 @@
 ---
 title: "Protrade"
 url: /nottingham/protrade/
-shop: Baustoffe
+shop: trade
 ---

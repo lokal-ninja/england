@@ -1,5 +1,5 @@
 ---
 title: "Clintons"
 url: /romford/clintons/
-shop: Andenken
+shop: gift
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Motor Bodies Widnes"
 url: /widnes/motor-bodies-widnes/
-shop: Autowerkstatt
+shop: car repair
 ---

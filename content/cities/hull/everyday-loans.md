@@ -1,5 +1,5 @@
 ---
 title: "Everyday Loans"
 url: /hull/everyday-loans/
-shop: Leiher
+shop: pawnbroker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pulsar"
 url: /redcar/pulsar/
-shop: Allgemein
+shop: shop
 ---

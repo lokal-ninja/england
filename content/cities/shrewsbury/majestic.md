@@ -1,5 +1,5 @@
 ---
 title: "Majestic"
 url: /shrewsbury/majestic/
-shop: Spirituosen
+shop: alcohol
 ---

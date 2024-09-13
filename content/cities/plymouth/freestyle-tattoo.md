@@ -1,5 +1,5 @@
 ---
 title: "Freestyle Tattoo"
 url: /plymouth/freestyle-tattoo/
-shop: Tattoo
+shop: tattoo
 ---

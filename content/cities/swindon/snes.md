@@ -1,5 +1,5 @@
 ---
 title: "SNES"
 url: /swindon/snes/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

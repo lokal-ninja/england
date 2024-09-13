@@ -1,5 +1,5 @@
 ---
 title: "Crewe Audi"
 url: /crewe/crewe-audi/
-shop: Autohaus
+shop: car
 ---

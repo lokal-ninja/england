@@ -1,5 +1,5 @@
 ---
 title: "Celtic Dawn"
 url: /london/celtic-dawn/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Greggs"
 url: /great-yarmouth/greggs/
-shop: Bäckerei
+shop: bakery
 ---

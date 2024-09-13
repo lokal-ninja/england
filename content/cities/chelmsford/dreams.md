@@ -1,5 +1,5 @@
 ---
 title: "Dreams"
 url: /chelmsford/dreams/
-shop: Betten
+shop: bed
 ---

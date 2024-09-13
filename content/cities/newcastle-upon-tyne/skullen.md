@@ -1,5 +1,5 @@
 ---
 title: "Skullen"
 url: /newcastle-upon-tyne/skullen/
-shop: Tattoo
+shop: tattoo
 ---

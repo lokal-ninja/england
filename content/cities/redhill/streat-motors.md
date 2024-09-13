@@ -1,5 +1,5 @@
 ---
 title: "Streat Motors"
 url: /redhill/streat-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

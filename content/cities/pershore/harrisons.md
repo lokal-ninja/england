@@ -1,5 +1,5 @@
 ---
 title: "Harrisons"
 url: /pershore/harrisons/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Special Occasions"
 url: /egremont/special-occasions/
-shop: Andenken
+shop: gift
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /olney/tesco-express/
-shop: Lebensmittel
+shop: convenience
 ---

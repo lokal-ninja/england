@@ -1,5 +1,5 @@
 ---
 title: "Padiciya Wine"
 url: /london/padiciya-wine/
-shop: Lebensmittel
+shop: convenience
 ---

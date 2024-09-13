@@ -1,5 +1,5 @@
 ---
 title: "N. Alderson"
 url: /durham/n-alderson/
-shop: Bestattungen
+shop: funeral directors
 ---

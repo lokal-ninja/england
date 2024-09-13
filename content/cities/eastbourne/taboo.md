@@ -1,5 +1,5 @@
 ---
 title: "Taboo"
 url: /eastbourne/taboo/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /tamworth/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

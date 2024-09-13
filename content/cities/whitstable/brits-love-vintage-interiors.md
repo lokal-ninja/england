@@ -1,5 +1,5 @@
 ---
 title: "Brits Love Vintage Interiors"
 url: /whitstable/brits-love-vintage-interiors/
-shop: Raumausstattung
+shop: interior decoration
 ---

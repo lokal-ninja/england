@@ -1,5 +1,5 @@
 ---
 title: "Lifestyle"
 url: /wantage/lifestyle/
-shop: Andenken
+shop: gift
 ---

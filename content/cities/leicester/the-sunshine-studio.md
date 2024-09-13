@@ -1,5 +1,5 @@
 ---
 title: "The Sunshine Studio"
 url: /leicester/the-sunshine-studio/
-shop: Kosmetik
+shop: beauty
 ---

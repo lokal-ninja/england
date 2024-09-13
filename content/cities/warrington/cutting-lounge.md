@@ -1,5 +1,5 @@
 ---
 title: "Cutting Lounge"
 url: /warrington/cutting-lounge/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Crystal Artistry"
 url: /bath/crystal-artistry/
-shop: Kosmetik
+shop: beauty
 ---

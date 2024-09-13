@@ -1,5 +1,5 @@
 ---
 title: "Clockwork Pharmacy"
 url: /london/clockwork-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

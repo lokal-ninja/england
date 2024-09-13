@@ -1,5 +1,5 @@
 ---
 title: "Yours Clothing"
 url: /peterborough/yours-clothing/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /lowestoft/coral/
-shop: Wettbüro
+shop: bookmaker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hilda's Egg Stall"
 url: /barrow-in-furness/hildas-egg-stall/
-shop: Allgemein
+shop: shop
 ---

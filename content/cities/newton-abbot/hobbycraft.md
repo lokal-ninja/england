@@ -1,5 +1,5 @@
 ---
 title: "Hobbycraft"
 url: /newton-abbot/hobbycraft/
-shop: Basteln
+shop: craft
 ---

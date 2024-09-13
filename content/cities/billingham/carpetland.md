@@ -1,5 +1,5 @@
 ---
 title: "Carpetland"
 url: /billingham/carpetland/
-shop: Teppiche
+shop: carpet
 ---

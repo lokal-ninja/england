@@ -1,5 +1,5 @@
 ---
 title: "City Hair Design"
 url: /nottingham/city-hair-design/
-shop: Friseur
+shop: hairdresser
 ---

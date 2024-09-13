@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /torquay/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

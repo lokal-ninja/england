@@ -1,5 +1,5 @@
 ---
 title: "Steve Bull"
 url: /devizes/steve-bull/
-shop: Autowerkstatt
+shop: car repair
 ---

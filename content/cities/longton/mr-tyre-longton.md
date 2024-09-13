@@ -1,5 +1,5 @@
 ---
 title: "Mr Tyre Longton"
 url: /longton/mr-tyre-longton/
-shop: Autowerkstatt
+shop: car repair
 ---

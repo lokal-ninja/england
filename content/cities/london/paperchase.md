@@ -1,5 +1,5 @@
 ---
 title: "Paperchase"
 url: /london/paperchase/
-shop: Basteln
+shop: craft
 ---

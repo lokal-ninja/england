@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /southampton/premier-portswood-road/
-shop: Lebensmittel
+shop: convenience
 ---

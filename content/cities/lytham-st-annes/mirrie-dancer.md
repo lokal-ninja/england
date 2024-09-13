@@ -1,5 +1,5 @@
 ---
 title: "Mirrie Dancer"
 url: /lytham-st-annes/mirrie-dancer/
-shop: Bäckerei
+shop: bakery
 ---

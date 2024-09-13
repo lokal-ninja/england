@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /chipping-norton/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

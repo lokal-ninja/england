@@ -1,5 +1,5 @@
 ---
 title: "Bargin Tyres"
 url: /grays/bargin-tyres/
-shop: Reifen
+shop: tyres
 ---

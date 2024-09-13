@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /derby/lidl-swarkestone-road/
-shop: Supermarkt
+shop: supermarket
 ---

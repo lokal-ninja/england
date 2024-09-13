@@ -1,5 +1,5 @@
 ---
 title: "Majestic"
 url: /berkhamsted/majestic/
-shop: Spirituosen
+shop: alcohol
 ---

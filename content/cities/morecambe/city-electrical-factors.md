@@ -1,5 +1,5 @@
 ---
 title: "City Electrical Factors"
 url: /morecambe/city-electrical-factors/
-shop: Elektrisch
+shop: electrical
 ---

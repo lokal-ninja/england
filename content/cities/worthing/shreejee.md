@@ -1,5 +1,5 @@
 ---
 title: "Shreejee"
 url: /worthing/shreejee/
-shop: Lebensmittel
+shop: convenience
 ---

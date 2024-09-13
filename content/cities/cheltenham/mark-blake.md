@@ -1,5 +1,5 @@
 ---
 title: "Mark Blake"
 url: /cheltenham/mark-blake/
-shop: Friseur
+shop: hairdresser
 ---

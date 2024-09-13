@@ -1,5 +1,5 @@
 ---
 title: "Gent's Barber Shop"
 url: /london/gents-barber-shop-high-road-leytonstone/
-shop: Friseur
+shop: hairdresser
 ---

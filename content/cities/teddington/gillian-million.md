@@ -1,5 +1,5 @@
 ---
 title: "Gillian Million"
 url: /teddington/gillian-million/
-shop: Kleidung
+shop: clothes
 ---

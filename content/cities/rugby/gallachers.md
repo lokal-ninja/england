@@ -1,5 +1,5 @@
 ---
 title: "Gallachers"
 url: /rugby/gallachers/
-shop: Wein
+shop: wine
 ---

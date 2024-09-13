@@ -1,5 +1,5 @@
 ---
 title: "Pothecarys"
 url: /salisbury/pothecarys/
-shop: Zeitungen
+shop: newsagent
 ---

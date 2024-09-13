@@ -1,5 +1,5 @@
 ---
 title: "Specsavers"
 url: /haverhill/specsavers/
-shop: Optiker
+shop: optician
 ---

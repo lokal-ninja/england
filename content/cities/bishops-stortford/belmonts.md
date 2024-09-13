@@ -1,5 +1,5 @@
 ---
 title: "Belmont's"
 url: /bishops-stortford/belmonts/
-shop: Friseur
+shop: hairdresser
 ---

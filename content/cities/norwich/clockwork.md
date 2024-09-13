@@ -1,5 +1,5 @@
 ---
 title: "Clockwork"
 url: /norwich/clockwork/
-shop: Friseur
+shop: hairdresser
 ---

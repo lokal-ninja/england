@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /leeds/poundland-albion-street/
-shop: Kramladen
+shop: variety store
 ---

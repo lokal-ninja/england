@@ -1,5 +1,5 @@
 ---
 title: "Oriental"
 url: /chorley/oriental/
-shop: Lebensmittel
+shop: convenience
 ---

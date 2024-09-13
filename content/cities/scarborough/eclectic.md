@@ -1,5 +1,5 @@
 ---
 title: "Eclectic"
 url: /scarborough/eclectic/
-shop: Andenken
+shop: gift
 ---

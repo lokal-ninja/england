@@ -1,5 +1,5 @@
 ---
 title: "Austin's Funeral Directors"
 url: /ware/austins-funeral-directors/
-shop: Bestattungen
+shop: funeral directors
 ---

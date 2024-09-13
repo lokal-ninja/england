@@ -1,5 +1,5 @@
 ---
 title: "Wickes"
 url: /london/wickes-catford-hill/
-shop: Baumarkt
+shop: doityourself
 ---

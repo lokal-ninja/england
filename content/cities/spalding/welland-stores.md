@@ -1,5 +1,5 @@
 ---
 title: "Welland Stores"
 url: /spalding/welland-stores/
-shop: Lebensmittel
+shop: convenience
 ---

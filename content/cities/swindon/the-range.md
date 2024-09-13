@@ -1,5 +1,5 @@
 ---
 title: "The Range"
 url: /swindon/the-range/
-shop: Haushaltsartikel
+shop: houseware
 ---

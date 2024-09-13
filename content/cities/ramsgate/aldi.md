@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /ramsgate/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

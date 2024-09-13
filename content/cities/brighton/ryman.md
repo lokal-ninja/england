@@ -1,5 +1,5 @@
 ---
 title: "Ryman"
 url: /brighton/ryman/
-shop: Schreibwaren
+shop: office supplies
 ---

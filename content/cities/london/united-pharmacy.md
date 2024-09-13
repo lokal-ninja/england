@@ -1,5 +1,5 @@
 ---
 title: "United Pharmacy"
 url: /london/united-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

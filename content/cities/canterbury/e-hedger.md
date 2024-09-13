@@ -1,5 +1,5 @@
 ---
 title: "E Hedger"
 url: /canterbury/e-hedger/
-shop: Metzgerei
+shop: butcher
 ---

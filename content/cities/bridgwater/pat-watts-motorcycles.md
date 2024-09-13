@@ -1,5 +1,5 @@
 ---
 title: "Pat Watts Motorcycles"
 url: /bridgwater/pat-watts-motorcycles/
-shop: Motorrad
+shop: motorcycle
 ---

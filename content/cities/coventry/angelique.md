@@ -1,5 +1,5 @@
 ---
 title: "Angelique"
 url: /coventry/angelique/
-shop: Kleidung
+shop: clothes
 ---

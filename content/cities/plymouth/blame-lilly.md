@@ -1,5 +1,5 @@
 ---
 title: "Blame Lilly"
 url: /plymouth/blame-lilly/
-shop: Kleidung
+shop: clothes
 ---

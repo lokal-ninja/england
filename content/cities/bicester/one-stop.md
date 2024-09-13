@@ -1,5 +1,5 @@
 ---
 title: "One Stop"
 url: /bicester/one-stop/
-shop: Lebensmittel
+shop: convenience
 ---

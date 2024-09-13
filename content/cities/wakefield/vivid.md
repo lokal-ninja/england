@@ -1,5 +1,5 @@
 ---
 title: "Vivid"
 url: /wakefield/vivid/
-shop: Friseur
+shop: hairdresser
 ---

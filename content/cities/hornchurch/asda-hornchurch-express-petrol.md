@@ -1,5 +1,5 @@
 ---
 title: "ASDA Hornchurch Express Petrol"
 url: /hornchurch/asda-hornchurch-express-petrol/
-shop: Lebensmittel
+shop: convenience
 ---

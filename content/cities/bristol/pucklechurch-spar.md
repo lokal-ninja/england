@@ -1,5 +1,5 @@
 ---
 title: "Pucklechurch Spar"
 url: /bristol/pucklechurch-spar/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Brow Base"
 url: /london/brow-base/
-shop: Kosmetik
+shop: beauty
 ---

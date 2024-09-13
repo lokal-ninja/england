@@ -1,5 +1,5 @@
 ---
 title: "Winter Road News"
 url: /southsea/winter-road-news/
-shop: Lebensmittel
+shop: convenience
 ---

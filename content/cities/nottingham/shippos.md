@@ -1,5 +1,5 @@
 ---
 title: "Shippo's"
 url: /nottingham/shippos/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Intravenous Ink"
 url: /hartlepool/intravenous-ink/
-shop: Tattoo
+shop: tattoo
 ---

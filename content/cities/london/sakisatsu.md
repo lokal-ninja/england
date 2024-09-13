@@ -1,5 +1,5 @@
 ---
 title: "Sakisatsu"
 url: /london/sakisatsu/
-shop: Lebensmittel
+shop: convenience
 ---

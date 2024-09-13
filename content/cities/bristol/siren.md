@@ -1,5 +1,5 @@
 ---
 title: "siren"
 url: /bristol/siren/
-shop: Friseur
+shop: hairdresser
 ---

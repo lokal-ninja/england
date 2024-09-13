@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /leighton-buzzard/poundland/
-shop: Kramladen
+shop: variety store
 ---

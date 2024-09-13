@@ -1,5 +1,5 @@
 ---
 title: "Rebecca Christina Hairdressing"
 url: /warrington/rebecca-christina-hairdressing/
-shop: Friseur
+shop: hairdresser
 ---

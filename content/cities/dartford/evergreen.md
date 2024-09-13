@@ -1,5 +1,5 @@
 ---
 title: "Evergreen"
 url: /dartford/evergreen/
-shop: Wäscherei
+shop: laundry
 ---

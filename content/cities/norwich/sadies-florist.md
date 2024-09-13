@@ -1,5 +1,5 @@
 ---
 title: "Sadie's Florist"
 url: /norwich/sadies-florist/
-shop: Blumen
+shop: florist
 ---

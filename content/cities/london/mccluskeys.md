@@ -1,5 +1,5 @@
 ---
 title: "McCluskeys"
 url: /london/mccluskeys/
-shop: Lebensmittel
+shop: convenience
 ---

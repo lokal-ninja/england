@@ -1,5 +1,5 @@
 ---
 title: "No Limitz"
 url: /london/no-limitz/
-shop: Friseur
+shop: hairdresser
 ---

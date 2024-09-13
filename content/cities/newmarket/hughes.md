@@ -1,5 +1,5 @@
 ---
 title: "Hughes"
 url: /newmarket/hughes/
-shop: Elektrisch
+shop: electrical
 ---

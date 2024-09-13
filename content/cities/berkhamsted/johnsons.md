@@ -1,5 +1,5 @@
 ---
 title: "Johnsons"
 url: /berkhamsted/johnsons/
-shop: Wäscherei
+shop: laundry
 ---

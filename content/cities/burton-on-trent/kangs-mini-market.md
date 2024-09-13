@@ -1,5 +1,5 @@
 ---
 title: "Kangs Mini Market"
 url: /burton-on-trent/kangs-mini-market/
-shop: Lebensmittel
+shop: convenience
 ---

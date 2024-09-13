@@ -1,5 +1,5 @@
 ---
 title: "Hymn"
 url: /london/hymn/
-shop: Allgemein
+shop: shop
 ---

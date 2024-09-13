@@ -1,5 +1,5 @@
 ---
 title: "Bulwell Convenience Store"
 url: /nottingham/bulwell-convenience-store/
-shop: Lebensmittel
+shop: convenience
 ---

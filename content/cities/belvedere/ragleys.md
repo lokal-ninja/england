@@ -1,5 +1,5 @@
 ---
 title: "Ragleys"
 url: /belvedere/ragleys/
-shop: Kleidung
+shop: clothes
 ---

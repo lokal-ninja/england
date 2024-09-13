@@ -1,5 +1,5 @@
 ---
 title: "The Wedding Gallery"
 url: /st-albans/the-wedding-gallery/
-shop: Kleidung
+shop: clothes
 ---

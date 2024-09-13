@@ -1,5 +1,5 @@
 ---
 title: "Paragon Service Point"
 url: /croydon/paragon-service-point/
-shop: Kopieren
+shop: copyshop
 ---

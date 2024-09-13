@@ -1,5 +1,5 @@
 ---
 title: "Wink"
 url: /portsmouth/wink/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Naturally"
 url: /norwich/naturally/
-shop: Bioladen
+shop: health food
 ---

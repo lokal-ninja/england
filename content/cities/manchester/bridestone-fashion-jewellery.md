@@ -1,5 +1,5 @@
 ---
 title: "Bridestone Fashion Jewellery"
 url: /manchester/bridestone-fashion-jewellery/
-shop: Großhandel
+shop: wholesale
 ---

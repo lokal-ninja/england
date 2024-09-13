@@ -1,5 +1,5 @@
 ---
 title: "Morrisons"
 url: /birmingham/morrisons-coventry-road-2/
-shop: Supermarkt
+shop: supermarket
 ---

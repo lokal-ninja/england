@@ -1,5 +1,5 @@
 ---
 title: "Cogger's Florist"
 url: /london/coggers-florist/
-shop: Blumen
+shop: florist
 ---

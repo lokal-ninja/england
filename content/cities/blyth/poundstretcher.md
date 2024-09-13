@@ -1,5 +1,5 @@
 ---
 title: "Poundstretcher"
 url: /blyth/poundstretcher/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cash Generator"
 url: /blyth/cash-generator/
-shop: Leiher
+shop: pawnbroker
 ---

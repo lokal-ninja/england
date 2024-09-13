@@ -1,5 +1,5 @@
 ---
 title: "Nisa Lanchester"
 url: /durham/nisa-lanchester/
-shop: Lebensmittel
+shop: convenience
 ---

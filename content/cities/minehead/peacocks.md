@@ -1,5 +1,5 @@
 ---
 title: "Peacocks"
 url: /minehead/peacocks/
-shop: Kleidung
+shop: clothes
 ---

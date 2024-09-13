@@ -1,5 +1,5 @@
 ---
 title: "Thorntons"
 url: /gateshead/thorntons/
-shop: Süßwaren
+shop: confectionery
 ---

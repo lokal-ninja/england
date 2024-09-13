@@ -1,5 +1,5 @@
 ---
 title: "Earthworks"
 url: /st-ives/earthworks/
-shop: Raumausstattung
+shop: interior decoration
 ---

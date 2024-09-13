@@ -1,5 +1,5 @@
 ---
 title: "Sainsbury's"
 url: /newton-abbot/sainsburys/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Zone"
 url: /bristol/zone/
-shop: Friseur
+shop: hairdresser
 ---

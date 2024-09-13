@@ -1,5 +1,5 @@
 ---
 title: "Sugar Bug"
 url: /exmouth/sugar-bug/
-shop: Süßwaren
+shop: confectionery
 ---

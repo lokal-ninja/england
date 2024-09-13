@@ -1,5 +1,5 @@
 ---
 title: "Southerton Guns"
 url: /immingham/southerton-guns/
-shop: Sport
+shop: sports
 ---

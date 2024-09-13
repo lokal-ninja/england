@@ -1,5 +1,5 @@
 ---
 title: "CDC Consultancy"
 url: /manningtree/cdc-consultancy/
-shop: Allgemein
+shop: shop
 ---

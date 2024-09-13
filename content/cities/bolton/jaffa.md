@@ -1,5 +1,5 @@
 ---
 title: "Jaffa"
 url: /bolton/jaffa/
-shop: Leerstehend
+shop: vacant
 ---

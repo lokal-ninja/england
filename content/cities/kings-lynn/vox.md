@@ -1,5 +1,5 @@
 ---
 title: "Vox"
 url: /kings-lynn/vox/
-shop: Kosmetik
+shop: beauty
 ---

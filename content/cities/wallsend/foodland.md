@@ -1,5 +1,5 @@
 ---
 title: "FoodLand"
 url: /wallsend/foodland/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Boyes"
 url: /goole/boyes/
-shop: Warenhaus
+shop: department store
 ---

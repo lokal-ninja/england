@@ -1,5 +1,5 @@
 ---
 title: "Inspiration"
 url: /sheffield/inspiration/
-shop: Friseur
+shop: hairdresser
 ---

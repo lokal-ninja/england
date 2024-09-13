@@ -1,5 +1,5 @@
 ---
 title: "White Cottage Car Centre"
 url: /mirfield/white-cottage-car-centre/
-shop: Autohaus
+shop: car
 ---

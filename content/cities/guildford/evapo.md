@@ -1,5 +1,5 @@
 ---
 title: "evapo"
 url: /guildford/evapo/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

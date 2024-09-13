@@ -1,5 +1,5 @@
 ---
 title: "Millercare Mobility Specialists"
 url: /warrington/millercare-mobility-specialists/
-shop: Sanitätshaus
+shop: medical supply
 ---

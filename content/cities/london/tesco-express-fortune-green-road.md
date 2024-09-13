@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /london/tesco-express-fortune-green-road/
-shop: Lebensmittel
+shop: convenience
 ---

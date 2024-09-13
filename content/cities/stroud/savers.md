@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /stroud/savers/
-shop: Supermarkt
+shop: supermarket
 ---

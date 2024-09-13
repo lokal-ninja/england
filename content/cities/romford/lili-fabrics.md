@@ -1,5 +1,5 @@
 ---
 title: "Lili Fabrics"
 url: /romford/lili-fabrics/
-shop: Textil
+shop: fabric
 ---

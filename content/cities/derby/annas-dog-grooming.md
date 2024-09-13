@@ -1,5 +1,5 @@
 ---
 title: "Anna's Dog Grooming"
 url: /derby/annas-dog-grooming/
-shop: Tiersalon
+shop: pet grooming
 ---

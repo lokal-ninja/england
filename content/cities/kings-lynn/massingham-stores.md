@@ -1,5 +1,5 @@
 ---
 title: "Massingham Stores"
 url: /kings-lynn/massingham-stores/
-shop: Lebensmittel
+shop: convenience
 ---

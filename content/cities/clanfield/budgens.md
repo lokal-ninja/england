@@ -1,5 +1,5 @@
 ---
 title: "Budgens"
 url: /clanfield/budgens/
-shop: Lebensmittel
+shop: convenience
 ---

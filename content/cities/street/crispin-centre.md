@@ -1,5 +1,5 @@
 ---
 title: "Crispin Centre"
 url: /street/crispin-centre/
-shop: Einkaufszentrum
+shop: mall
 ---

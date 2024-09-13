@@ -1,5 +1,5 @@
 ---
 title: "Lady Petel"
 url: /thornton-heath/lady-petel/
-shop: Friseur
+shop: hairdresser
 ---

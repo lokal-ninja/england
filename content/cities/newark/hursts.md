@@ -1,5 +1,5 @@
 ---
 title: "Hursts"
 url: /newark/hursts/
-shop: Lebensmittel
+shop: convenience
 ---

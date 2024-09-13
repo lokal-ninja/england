@@ -1,5 +1,5 @@
 ---
 title: "You First"
 url: /lancing/you-first/
-shop: Möbel
+shop: furniture
 ---

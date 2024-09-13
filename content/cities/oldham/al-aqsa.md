@@ -1,5 +1,5 @@
 ---
 title: "Al Aqsa"
 url: /oldham/al-aqsa/
-shop: Kleidung
+shop: clothes
 ---

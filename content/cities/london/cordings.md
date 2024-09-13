@@ -1,5 +1,5 @@
 ---
 title: "Cordings"
 url: /london/cordings/
-shop: Kleidung
+shop: clothes
 ---

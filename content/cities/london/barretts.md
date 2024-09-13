@@ -1,5 +1,5 @@
 ---
 title: "Barretts"
 url: /london/barretts/
-shop: Metzgerei
+shop: butcher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Abbeygate Cars"
 url: /attleborough/abbeygate-cars/
-shop: Autohaus
+shop: car
 ---

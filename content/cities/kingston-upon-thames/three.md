@@ -1,5 +1,5 @@
 ---
 title: "Three."
 url: /kingston-upon-thames/three/
-shop: Handy
+shop: mobile phone
 ---

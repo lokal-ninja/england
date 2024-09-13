@@ -1,5 +1,5 @@
 ---
 title: "Curly Barbers"
 url: /blackpool/curly-barbers/
-shop: Friseur
+shop: hairdresser
 ---

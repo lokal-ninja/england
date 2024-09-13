@@ -1,5 +1,5 @@
 ---
 title: "MCY"
 url: /london/mcy/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nevisport"
 url: /middlesbrough/nevisport/
-shop: Outdoor
+shop: outdoor
 ---

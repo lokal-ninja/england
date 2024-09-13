@@ -1,5 +1,5 @@
 ---
 title: "Ragdoll Nails"
 url: /leeds/ragdoll-nails/
-shop: Kosmetik
+shop: beauty
 ---

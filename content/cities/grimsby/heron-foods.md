@@ -1,5 +1,5 @@
 ---
 title: "Heron Foods"
 url: /grimsby/heron-foods/
-shop: Supermarkt
+shop: supermarket
 ---

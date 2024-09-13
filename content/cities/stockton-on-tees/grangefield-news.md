@@ -1,5 +1,5 @@
 ---
 title: "Grangefield News"
 url: /stockton-on-tees/grangefield-news/
-shop: Zeitungen
+shop: newsagent
 ---

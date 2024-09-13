@@ -1,5 +1,5 @@
 ---
 title: "Camberwell Daily"
 url: /london/camberwell-daily/
-shop: Lebensmittel
+shop: convenience
 ---

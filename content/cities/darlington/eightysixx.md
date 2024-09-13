@@ -1,5 +1,5 @@
 ---
 title: "EightySixx"
 url: /darlington/eightysixx/
-shop: Tattoo
+shop: tattoo
 ---

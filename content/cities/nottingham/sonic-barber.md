@@ -1,5 +1,5 @@
 ---
 title: "Sonic Barber"
 url: /nottingham/sonic-barber/
-shop: Friseur
+shop: hairdresser
 ---

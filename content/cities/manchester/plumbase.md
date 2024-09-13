@@ -1,5 +1,5 @@
 ---
 title: "Plumbase"
 url: /manchester/plumbase/
-shop: Baustoffe
+shop: trade
 ---

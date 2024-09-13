@@ -1,5 +1,5 @@
 ---
 title: "Uniquitous"
 url: /london/uniquitous/
-shop: Autowerkstatt
+shop: car repair
 ---

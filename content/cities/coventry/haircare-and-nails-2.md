@@ -1,5 +1,5 @@
 ---
 title: "Haircare and Nails 2"
 url: /coventry/haircare-and-nails-2/
-shop: Friseur
+shop: hairdresser
 ---

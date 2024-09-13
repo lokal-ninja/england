@@ -1,5 +1,5 @@
 ---
 title: "Izzys Party Shop"
 url: /haywards-heath/izzys-party-shop/
-shop: Partyzubehör
+shop: party
 ---

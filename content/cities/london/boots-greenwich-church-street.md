@@ -1,5 +1,5 @@
 ---
 title: "Boots"
 url: /london/boots-greenwich-church-street/
-shop: Drogerie
+shop: chemist
 ---

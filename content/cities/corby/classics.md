@@ -1,5 +1,5 @@
 ---
 title: "Classics"
 url: /corby/classics/
-shop: Friseur
+shop: hairdresser
 ---

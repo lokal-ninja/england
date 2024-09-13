@@ -1,5 +1,5 @@
 ---
 title: "Binns of Saltaire"
 url: /shipley/binns-of-saltaire/
-shop: Metzgerei
+shop: butcher
 ---

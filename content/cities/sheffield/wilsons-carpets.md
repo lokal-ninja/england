@@ -1,5 +1,5 @@
 ---
 title: "Wilsons Carpets"
 url: /sheffield/wilsons-carpets/
-shop: Teppiche
+shop: carpet
 ---

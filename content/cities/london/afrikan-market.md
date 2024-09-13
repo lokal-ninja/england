@@ -1,5 +1,5 @@
 ---
 title: "Afrikan Market"
 url: /london/afrikan-market/
-shop: Supermarkt
+shop: supermarket
 ---

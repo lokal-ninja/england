@@ -1,5 +1,5 @@
 ---
 title: "Soletrader"
 url: /cambridge/soletrader/
-shop: Schuhe
+shop: shoes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Matalan"
 url: /camberley/matalan/
-shop: Kleidung
+shop: clothes
 ---

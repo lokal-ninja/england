@@ -1,5 +1,5 @@
 ---
 title: "ethos"
 url: /ledbury/ethos/
-shop: Kleidung
+shop: clothes
 ---

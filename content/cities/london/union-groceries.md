@@ -1,5 +1,5 @@
 ---
 title: "Union Groceries"
 url: /london/union-groceries/
-shop: Lebensmittel
+shop: convenience
 ---

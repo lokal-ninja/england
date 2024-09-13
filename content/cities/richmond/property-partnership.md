@@ -1,5 +1,5 @@
 ---
 title: "Property Partnership"
 url: /richmond/property-partnership/
-shop: Immobilien
+shop: estate agent
 ---

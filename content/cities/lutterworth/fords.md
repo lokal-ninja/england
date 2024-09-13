@@ -1,5 +1,5 @@
 ---
 title: "Fords"
 url: /lutterworth/fords/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AutoCosmetix"
 url: /grimsby/autocosmetix/
-shop: Autowerkstatt
+shop: car repair
 ---

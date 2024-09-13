@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /crawley/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nelken Jewellers"
 url: /borehamwood/nelken-jewellers/
-shop: Schmuck
+shop: jewelry
 ---

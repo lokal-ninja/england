@@ -1,5 +1,5 @@
 ---
 title: "Hillsborough MPRC"
 url: /sheffield/hillsborough-mprc/
-shop: Handy
+shop: mobile phone
 ---

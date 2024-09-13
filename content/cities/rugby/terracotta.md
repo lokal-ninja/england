@@ -1,5 +1,5 @@
 ---
 title: "Terracotta"
 url: /rugby/terracotta/
-shop: Kleidung
+shop: clothes
 ---

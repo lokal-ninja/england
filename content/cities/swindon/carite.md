@@ -1,5 +1,5 @@
 ---
 title: "Carite"
 url: /swindon/carite/
-shop: Autohaus
+shop: car
 ---

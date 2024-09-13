@@ -1,5 +1,5 @@
 ---
 title: "Cash Makers"
 url: /norwich/cash-makers/
-shop: Leiher
+shop: pawnbroker
 ---

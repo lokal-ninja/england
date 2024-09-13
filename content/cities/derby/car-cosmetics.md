@@ -1,5 +1,5 @@
 ---
 title: "Car Cosmetics"
 url: /derby/car-cosmetics/
-shop: Autowerkstatt
+shop: car repair
 ---

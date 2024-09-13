@@ -1,5 +1,5 @@
 ---
 title: "Sports Direct"
 url: /sheerness/sports-direct/
-shop: Sport
+shop: sports
 ---

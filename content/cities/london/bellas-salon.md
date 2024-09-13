@@ -1,5 +1,5 @@
 ---
 title: "Bella's Salon"
 url: /london/bellas-salon/
-shop: Friseur
+shop: hairdresser
 ---

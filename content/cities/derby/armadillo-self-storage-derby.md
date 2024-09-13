@@ -1,5 +1,5 @@
 ---
 title: "Armadillo Self Storage Derby"
 url: /derby/armadillo-self-storage-derby/
-shop: Mieten
+shop: storage rental
 ---

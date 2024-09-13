@@ -1,5 +1,5 @@
 ---
 title: "Farmfoods"
 url: /tamworth/farmfoods/
-shop: Tiefkühl
+shop: frozen food
 ---

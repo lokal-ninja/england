@@ -1,5 +1,5 @@
 ---
 title: "Harvey Wallhanger"
 url: /kings-lynn/harvey-wallhanger/
-shop: Raumausstattung
+shop: interior decoration
 ---

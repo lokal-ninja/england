@@ -1,5 +1,5 @@
 ---
 title: "Yara Mini Market"
 url: /wolverhampton/yara-mini-market/
-shop: Lebensmittel
+shop: convenience
 ---

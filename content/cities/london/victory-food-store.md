@@ -1,5 +1,5 @@
 ---
 title: "Victory Food Store"
 url: /london/victory-food-store/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Poundstretcher"
 url: /luton/poundstretcher/
-shop: Kramladen
+shop: variety store
 ---

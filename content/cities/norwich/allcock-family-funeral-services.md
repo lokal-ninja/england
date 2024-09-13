@@ -1,5 +1,5 @@
 ---
 title: "Allcock Family Funeral Services"
 url: /norwich/allcock-family-funeral-services/
-shop: Bestattungen
+shop: funeral directors
 ---

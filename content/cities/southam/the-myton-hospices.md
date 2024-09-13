@@ -1,5 +1,5 @@
 ---
 title: "The Myton Hospices"
 url: /southam/the-myton-hospices/
-shop: Gebrauchtwaren
+shop: charity
 ---

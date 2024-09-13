@@ -1,5 +1,5 @@
 ---
 title: "Beds For Everyone"
 url: /sheffield/beds-for-everyone/
-shop: Betten
+shop: bed
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wayside"
 url: /knutsford/wayside/
-shop: Autohaus
+shop: car
 ---

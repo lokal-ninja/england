@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /hornby/londis/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Elysian Parlour"
 url: /nottingham/elysian-parlour/
-shop: Kosmetik
+shop: beauty
 ---

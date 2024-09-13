@@ -1,5 +1,5 @@
 ---
 title: "First Class"
 url: /sheffield/first-class/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Booker"
 url: /canterbury/booker/
-shop: Großhandel
+shop: wholesale
 ---

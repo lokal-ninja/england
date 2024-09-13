@@ -1,5 +1,5 @@
 ---
 title: "Cha Cha Chai"
 url: /sheffield/cha-cha-chai/
-shop: Süßwaren
+shop: confectionery
 ---

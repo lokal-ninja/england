@@ -1,5 +1,5 @@
 ---
 title: "Home Bargains"
 url: /sheffield/home-bargains-kilner-way/
-shop: Kramladen
+shop: variety store
 ---

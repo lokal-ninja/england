@@ -1,5 +1,5 @@
 ---
 title: "North London Catering Equipment"
 url: /london/north-london-catering-equipment/
-shop: Baustoffe
+shop: trade
 ---

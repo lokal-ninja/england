@@ -1,5 +1,5 @@
 ---
 title: "Keynsham Delicatessen"
 url: /bristol/keynsham-delicatessen/
-shop: Feinkost
+shop: deli
 ---

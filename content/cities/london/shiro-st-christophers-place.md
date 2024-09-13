@@ -1,5 +1,5 @@
 ---
 title: "Shiro"
 url: /london/shiro-st-christophers-place/
-shop: Kosmetik
+shop: beauty
 ---

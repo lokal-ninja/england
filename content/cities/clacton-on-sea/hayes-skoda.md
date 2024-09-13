@@ -1,5 +1,5 @@
 ---
 title: "Hayes Skoda"
 url: /clacton-on-sea/hayes-skoda/
-shop: Autohaus
+shop: car
 ---

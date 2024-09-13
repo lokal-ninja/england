@@ -1,5 +1,5 @@
 ---
 title: "Hobbs"
 url: /sheffield/hobbs-park-lane/
-shop: Kleidung
+shop: clothes
 ---

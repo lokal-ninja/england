@@ -1,5 +1,5 @@
 ---
 title: "HBBB"
 url: /pudsey/hbbb/
-shop: Lebensmittel
+shop: convenience
 ---

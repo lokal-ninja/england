@@ -1,5 +1,5 @@
 ---
 title: "Central Car Co"
 url: /grimsby/central-car-co/
-shop: Autohaus
+shop: car
 ---

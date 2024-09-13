@@ -1,5 +1,5 @@
 ---
 title: "Beer District"
 url: /buxton/beer-district/
-shop: Spirituosen
+shop: alcohol
 ---

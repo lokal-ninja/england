@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /wembley/betfred/
-shop: Wettbüro
+shop: bookmaker
 ---

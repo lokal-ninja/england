@@ -1,5 +1,5 @@
 ---
 title: "JJ Lesiure"
 url: /pontefract/jj-lesiure/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "EAST PTNY"
 url: /london/east-ptny/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "James Core Beauty"
 url: /workington/james-core-beauty/
-shop: Kosmetik
+shop: beauty
 ---

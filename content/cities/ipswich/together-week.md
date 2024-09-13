@@ -1,5 +1,5 @@
 ---
 title: "Together Week"
 url: /ipswich/together-week/
-shop: Reisebüro
+shop: travel agency
 ---

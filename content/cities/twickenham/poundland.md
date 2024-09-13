@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /twickenham/poundland/
-shop: Kramladen
+shop: variety store
 ---

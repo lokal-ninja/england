@@ -1,5 +1,5 @@
 ---
 title: "Home Bargains"
 url: /sunderland/home-bargains-blandford-street/
-shop: Kramladen
+shop: variety store
 ---

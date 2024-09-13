@@ -1,5 +1,5 @@
 ---
 title: "Portuguese Flavours"
 url: /leamington-spa/portuguese-flavours/
-shop: Lebensmittel
+shop: convenience
 ---

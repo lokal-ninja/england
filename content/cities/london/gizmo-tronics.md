@@ -1,5 +1,5 @@
 ---
 title: "Gizmo Tronics"
 url: /london/gizmo-tronics/
-shop: Elektronik
+shop: electronics
 ---

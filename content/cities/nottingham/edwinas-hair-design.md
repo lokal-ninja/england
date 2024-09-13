@@ -1,5 +1,5 @@
 ---
 title: "Edwina's Hair Design"
 url: /nottingham/edwinas-hair-design/
-shop: Friseur
+shop: hairdresser
 ---

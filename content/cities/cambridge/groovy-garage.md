@@ -1,5 +1,5 @@
 ---
 title: "Groovy Garage"
 url: /cambridge/groovy-garage/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Formula One Autocentre"
 url: /st-helens/formula-one-autocentre/
-shop: Autowerkstatt
+shop: car repair
 ---

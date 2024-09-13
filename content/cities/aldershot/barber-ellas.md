@@ -1,5 +1,5 @@
 ---
 title: "Barber Ella's"
 url: /aldershot/barber-ellas/
-shop: Friseur
+shop: hairdresser
 ---

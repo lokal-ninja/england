@@ -1,5 +1,5 @@
 ---
 title: "Mack's Garage"
 url: /leicester/macks-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

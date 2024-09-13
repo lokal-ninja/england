@@ -1,5 +1,5 @@
 ---
 title: "Hadfield Local"
 url: /hadfield/hadfield-local/
-shop: Lebensmittel
+shop: convenience
 ---

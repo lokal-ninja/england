@@ -1,5 +1,5 @@
 ---
 title: "St Helena Hospice"
 url: /colchester/st-helena-hospice/
-shop: Gebrauchtwaren
+shop: charity
 ---

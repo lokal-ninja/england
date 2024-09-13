@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /sunderland/tesco-express/
-shop: Lebensmittel
+shop: convenience
 ---

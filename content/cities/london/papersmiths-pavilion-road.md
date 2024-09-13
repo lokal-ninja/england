@@ -1,5 +1,5 @@
 ---
 title: "Papersmiths"
 url: /london/papersmiths-pavilion-road/
-shop: Schreibwaren
+shop: office supplies
 ---

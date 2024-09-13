@@ -1,5 +1,5 @@
 ---
 title: "W S Jewellers"
 url: /wakefield/w-s-jewellers/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Thrift Shop"
 url: /manchester/thrift-shop/
-shop: Gebrauchtwaren
+shop: charity
 ---

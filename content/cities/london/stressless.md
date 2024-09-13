@@ -1,5 +1,5 @@
 ---
 title: "Stressless"
 url: /london/stressless/
-shop: Möbel
+shop: furniture
 ---

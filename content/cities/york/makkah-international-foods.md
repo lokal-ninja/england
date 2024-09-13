@@ -1,5 +1,5 @@
 ---
 title: "Makkah International Foods"
 url: /york/makkah-international-foods/
-shop: Lebensmittel
+shop: convenience
 ---

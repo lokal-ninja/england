@@ -1,5 +1,5 @@
 ---
 title: "Lloyd Maunder"
 url: /dawlish/lloyd-maunder/
-shop: Metzgerei
+shop: butcher
 ---

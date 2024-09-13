@@ -1,5 +1,5 @@
 ---
 title: "TAG Heuer"
 url: /london/tag-heuer-james-street/
-shop: Uhren
+shop: watches
 ---

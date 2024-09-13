@@ -1,5 +1,5 @@
 ---
 title: "Sue Ryder"
 url: /cheltenham/sue-ryder-tewkesbury-road/
-shop: Gebrauchtwaren
+shop: charity
 ---

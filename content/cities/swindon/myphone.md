@@ -1,5 +1,5 @@
 ---
 title: "myPhone"
 url: /swindon/myphone/
-shop: Handy
+shop: mobile phone
 ---

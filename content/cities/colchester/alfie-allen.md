@@ -1,5 +1,5 @@
 ---
 title: "Alfie Allen"
 url: /colchester/alfie-allen/
-shop: Kosmetik
+shop: beauty
 ---

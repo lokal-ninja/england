@@ -1,5 +1,5 @@
 ---
 title: "Bayfields"
 url: /leeds/bayfields/
-shop: Optiker
+shop: optician
 ---

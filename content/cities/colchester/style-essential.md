@@ -1,5 +1,5 @@
 ---
 title: "Style Essential"
 url: /colchester/style-essential/
-shop: Kleidung
+shop: clothes
 ---

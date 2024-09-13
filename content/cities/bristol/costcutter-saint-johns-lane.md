@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /bristol/costcutter-saint-johns-lane/
-shop: Lebensmittel
+shop: convenience
 ---

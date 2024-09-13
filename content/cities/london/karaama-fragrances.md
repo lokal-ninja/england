@@ -1,5 +1,5 @@
 ---
 title: "Karaama Fragrances"
 url: /london/karaama-fragrances/
-shop: Parfümerie
+shop: perfumery
 ---

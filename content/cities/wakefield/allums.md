@@ -1,5 +1,5 @@
 ---
 title: "Allums"
 url: /wakefield/allums/
-shop: Metzgerei
+shop: butcher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "David Sadler"
 url: /castleford/david-sadler-carlton-street/
-shop: Metzgerei
+shop: butcher
 ---

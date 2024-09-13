@@ -1,5 +1,5 @@
 ---
 title: "Arcadia Garage"
 url: /exmouth/arcadia-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

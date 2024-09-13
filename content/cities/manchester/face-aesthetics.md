@@ -1,5 +1,5 @@
 ---
 title: "Face Aesthetics"
 url: /manchester/face-aesthetics/
-shop: Kosmetik
+shop: beauty
 ---

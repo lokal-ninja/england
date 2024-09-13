@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /telford/tesco/
-shop: Supermarkt
+shop: supermarket
 ---

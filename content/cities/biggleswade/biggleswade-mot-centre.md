@@ -1,5 +1,5 @@
 ---
 title: "Biggleswade MOT Centre"
 url: /biggleswade/biggleswade-mot-centre/
-shop: Autowerkstatt
+shop: car repair
 ---

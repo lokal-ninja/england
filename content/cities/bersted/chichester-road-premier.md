@@ -1,5 +1,5 @@
 ---
 title: "Chichester Road Premier"
 url: /bersted/chichester-road-premier/
-shop: Lebensmittel
+shop: convenience
 ---

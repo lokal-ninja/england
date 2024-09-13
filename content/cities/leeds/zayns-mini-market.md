@@ -1,5 +1,5 @@
 ---
 title: "Zayns Mini Market"
 url: /leeds/zayns-mini-market/
-shop: Lebensmittel
+shop: convenience
 ---

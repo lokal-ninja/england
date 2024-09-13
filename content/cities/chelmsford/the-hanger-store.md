@@ -1,5 +1,5 @@
 ---
 title: "The Hanger Store"
 url: /chelmsford/the-hanger-store/
-shop: Baustoffe
+shop: trade
 ---

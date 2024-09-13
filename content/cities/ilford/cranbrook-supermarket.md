@@ -1,5 +1,5 @@
 ---
 title: "Cranbrook Supermarket"
 url: /ilford/cranbrook-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Technogeeks"
 url: /skelmersdale/technogeeks/
-shop: Handy
+shop: mobile phone
 ---

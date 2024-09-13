@@ -1,5 +1,5 @@
 ---
 title: "Denmans"
 url: /birmingham/denmans/
-shop: Elektrisch
+shop: electrical
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Choice"
 url: /leeds/choice/
-shop: Allgemein
+shop: shop
 ---

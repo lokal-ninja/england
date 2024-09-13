@@ -1,5 +1,5 @@
 ---
 title: "UK Violins"
 url: /blackburn/uk-violins/
-shop: Instrumente
+shop: musical instrument
 ---

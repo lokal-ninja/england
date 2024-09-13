@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /leigh/poundland/
-shop: Kramladen
+shop: variety store
 ---

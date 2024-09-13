@@ -1,5 +1,5 @@
 ---
 title: "Keyline"
 url: /nottingham/keyline/
-shop: Baustoffe
+shop: trade
 ---

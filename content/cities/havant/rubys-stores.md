@@ -1,5 +1,5 @@
 ---
 title: "Rubys Stores"
 url: /havant/rubys-stores/
-shop: Lebensmittel
+shop: convenience
 ---

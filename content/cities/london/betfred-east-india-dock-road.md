@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /london/betfred-east-india-dock-road/
-shop: Wettbüro
+shop: bookmaker
 ---

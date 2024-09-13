@@ -1,5 +1,5 @@
 ---
 title: "Nissan"
 url: /sutton-coldfield/nissan/
-shop: Autohaus
+shop: car
 ---

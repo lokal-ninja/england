@@ -1,5 +1,5 @@
 ---
 title: "Soothing Ideas"
 url: /blaydon-on-tyne/soothing-ideas/
-shop: Baustoffe
+shop: trade
 ---

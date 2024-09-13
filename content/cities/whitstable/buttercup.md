@@ -1,5 +1,5 @@
 ---
 title: "Buttercup"
 url: /whitstable/buttercup/
-shop: Andenken
+shop: gift
 ---

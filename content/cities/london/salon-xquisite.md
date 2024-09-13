@@ -1,5 +1,5 @@
 ---
 title: "Salon Xquisite"
 url: /london/salon-xquisite/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fitshop"
 url: /wakefield/fitshop/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

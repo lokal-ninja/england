@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /thornton-heath/tesco-express/
-shop: Lebensmittel
+shop: convenience
 ---

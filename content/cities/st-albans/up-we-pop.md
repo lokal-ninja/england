@@ -1,5 +1,5 @@
 ---
 title: "Up We Pop"
 url: /st-albans/up-we-pop/
-shop: Kleidung
+shop: clothes
 ---

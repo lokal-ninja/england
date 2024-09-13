@@ -1,5 +1,5 @@
 ---
 title: "Perfect You"
 url: /teddington/perfect-you/
-shop: Kosmetik
+shop: beauty
 ---

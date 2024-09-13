@@ -1,5 +1,5 @@
 ---
 title: "Hextable Cars"
 url: /swanley/hextable-cars/
-shop: Autohaus
+shop: car
 ---

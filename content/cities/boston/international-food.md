@@ -1,5 +1,5 @@
 ---
 title: "International Food"
 url: /boston/international-food/
-shop: Lebensmittel
+shop: convenience
 ---

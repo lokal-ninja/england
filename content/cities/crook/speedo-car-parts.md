@@ -1,5 +1,5 @@
 ---
 title: "Speedo Car Parts"
 url: /crook/speedo-car-parts/
-shop: Autoteile
+shop: car parts
 ---

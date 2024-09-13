@@ -1,5 +1,5 @@
 ---
 title: "Choppington News"
 url: /choppington/choppington-news/
-shop: Lebensmittel
+shop: convenience
 ---

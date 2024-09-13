@@ -1,5 +1,5 @@
 ---
 title: "Vohra Travel"
 url: /nottingham/vohra-travel/
-shop: Reisebüro
+shop: travel agency
 ---

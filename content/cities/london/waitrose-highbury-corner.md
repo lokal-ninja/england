@@ -1,5 +1,5 @@
 ---
 title: "Waitrose"
 url: /london/waitrose-highbury-corner/
-shop: Supermarkt
+shop: supermarket
 ---

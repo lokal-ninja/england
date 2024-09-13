@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /alfreton/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

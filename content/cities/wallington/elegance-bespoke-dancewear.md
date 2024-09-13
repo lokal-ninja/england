@@ -1,5 +1,5 @@
 ---
 title: "Elegance Bespoke Dancewear"
 url: /wallington/elegance-bespoke-dancewear/
-shop: Kleidung
+shop: clothes
 ---

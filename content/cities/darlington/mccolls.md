@@ -1,5 +1,5 @@
 ---
 title: "McColl's"
 url: /darlington/mccolls/
-shop: Lebensmittel
+shop: convenience
 ---

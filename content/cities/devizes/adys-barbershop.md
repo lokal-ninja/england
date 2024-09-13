@@ -1,5 +1,5 @@
 ---
 title: "Ady's Barbershop"
 url: /devizes/adys-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

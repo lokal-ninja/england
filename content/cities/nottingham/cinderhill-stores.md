@@ -1,5 +1,5 @@
 ---
 title: "Cinderhill Stores"
 url: /nottingham/cinderhill-stores/
-shop: Lebensmittel
+shop: convenience
 ---

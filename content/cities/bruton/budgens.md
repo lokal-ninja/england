@@ -1,5 +1,5 @@
 ---
 title: "Budgens"
 url: /bruton/budgens/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ripe Post Office"
 url: /lewes/ripe-post-office/
-shop: Lebensmittel
+shop: convenience
 ---

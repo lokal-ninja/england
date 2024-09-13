@@ -1,5 +1,5 @@
 ---
 title: "Ebstone"
 url: /london/ebstone/
-shop: Küchen
+shop: kitchen
 ---

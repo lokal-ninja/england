@@ -1,5 +1,5 @@
 ---
 title: "Rishton News"
 url: /blackburn/rishton-news/
-shop: Zeitungen
+shop: newsagent
 ---

@@ -1,5 +1,5 @@
 ---
 title: "YMCA"
 url: /nottingham/ymca/
-shop: Gebrauchtwaren
+shop: charity
 ---

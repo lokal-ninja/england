@@ -1,5 +1,5 @@
 ---
 title: "Scott's"
 url: /coventry/scotts/
-shop: Metzgerei
+shop: butcher
 ---

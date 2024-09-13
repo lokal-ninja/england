@@ -1,5 +1,5 @@
 ---
 title: "Specsavers"
 url: /maldon/specsavers/
-shop: Optiker
+shop: optician
 ---

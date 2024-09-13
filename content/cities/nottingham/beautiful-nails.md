@@ -1,5 +1,5 @@
 ---
 title: "Beautiful Nails"
 url: /nottingham/beautiful-nails/
-shop: Kosmetik
+shop: beauty
 ---

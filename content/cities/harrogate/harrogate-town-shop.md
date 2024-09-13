@@ -1,5 +1,5 @@
 ---
 title: "Harrogate Town Shop"
 url: /harrogate/harrogate-town-shop/
-shop: Tickets
+shop: ticket
 ---

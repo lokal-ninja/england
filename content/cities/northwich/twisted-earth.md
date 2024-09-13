@@ -1,5 +1,5 @@
 ---
 title: "Twisted Earth"
 url: /northwich/twisted-earth/
-shop: Kleidung
+shop: clothes
 ---

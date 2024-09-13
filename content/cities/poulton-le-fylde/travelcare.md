@@ -1,5 +1,5 @@
 ---
 title: "Travelcare"
 url: /poulton-le-fylde/travelcare/
-shop: Reisebüro
+shop: travel agency
 ---

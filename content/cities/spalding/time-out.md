@@ -1,5 +1,5 @@
 ---
 title: "Time Out"
 url: /spalding/time-out/
-shop: Raumausstattung
+shop: interior decoration
 ---

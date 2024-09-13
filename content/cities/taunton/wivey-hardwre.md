@@ -1,5 +1,5 @@
 ---
 title: "Wivey Hardwre"
 url: /taunton/wivey-hardwre/
-shop: Eisenwaren
+shop: hardware
 ---

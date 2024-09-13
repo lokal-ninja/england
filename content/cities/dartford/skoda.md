@@ -1,5 +1,5 @@
 ---
 title: "Škoda"
 url: /dartford/skoda/
-shop: Autohaus
+shop: car
 ---

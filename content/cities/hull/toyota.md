@@ -1,5 +1,5 @@
 ---
 title: "Toyota"
 url: /hull/toyota/
-shop: Autohaus
+shop: car
 ---

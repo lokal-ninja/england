@@ -1,5 +1,5 @@
 ---
 title: "Jewson"
 url: /southampton/jewson-antelope-park/
-shop: Baustoffe
+shop: trade
 ---

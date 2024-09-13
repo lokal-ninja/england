@@ -1,5 +1,5 @@
 ---
 title: "The Dairy Store"
 url: /st-lawrence/the-dairy-store/
-shop: Lebensmittel
+shop: convenience
 ---

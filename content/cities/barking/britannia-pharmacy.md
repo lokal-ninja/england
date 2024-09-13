@@ -1,5 +1,5 @@
 ---
 title: "Britannia Pharmacy"
 url: /barking/britannia-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

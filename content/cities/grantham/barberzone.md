@@ -1,5 +1,5 @@
 ---
 title: "Barberzone"
 url: /grantham/barberzone/
-shop: Friseur
+shop: hairdresser
 ---

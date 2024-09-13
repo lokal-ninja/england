@@ -1,5 +1,5 @@
 ---
 title: "Millers Music"
 url: /cambridge/millers-music/
-shop: Instrumente
+shop: musical instrument
 ---

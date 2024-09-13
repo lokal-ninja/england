@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /corby/costcutter/
-shop: Lebensmittel
+shop: convenience
 ---

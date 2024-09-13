@@ -1,5 +1,5 @@
 ---
 title: "The Wardrobe"
 url: /leighton-buzzard/the-wardrobe/
-shop: Kleidung
+shop: clothes
 ---

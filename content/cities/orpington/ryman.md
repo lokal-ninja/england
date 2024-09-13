@@ -1,5 +1,5 @@
 ---
 title: "Ryman"
 url: /orpington/ryman/
-shop: Schreibwaren
+shop: office supplies
 ---

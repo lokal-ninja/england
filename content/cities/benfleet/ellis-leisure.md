@@ -1,5 +1,5 @@
 ---
 title: "Ellis Leisure"
 url: /benfleet/ellis-leisure/
-shop: Partyzubehör
+shop: party
 ---

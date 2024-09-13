@@ -1,5 +1,5 @@
 ---
 title: "Robin Elt Shoes"
 url: /ludlow/robin-elt-shoes/
-shop: Schuhe
+shop: shoes
 ---

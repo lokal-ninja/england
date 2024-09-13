@@ -1,5 +1,5 @@
 ---
 title: "John Grose"
 url: /woodbridge/john-grose/
-shop: Autohaus
+shop: car
 ---

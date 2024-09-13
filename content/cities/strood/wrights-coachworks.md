@@ -1,5 +1,5 @@
 ---
 title: "Wrights Coachworks"
 url: /strood/wrights-coachworks/
-shop: Autowerkstatt
+shop: car repair
 ---

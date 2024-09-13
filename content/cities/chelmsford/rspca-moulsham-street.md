@@ -1,5 +1,5 @@
 ---
 title: "RSPCA"
 url: /chelmsford/rspca-moulsham-street/
-shop: Gebrauchtwaren
+shop: charity
 ---

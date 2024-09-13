@@ -1,5 +1,5 @@
 ---
 title: "Dapper Dogs"
 url: /attleborough/dapper-dogs/
-shop: Tiere
+shop: pet
 ---

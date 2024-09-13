@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /worcester/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

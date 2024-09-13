@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /burton-on-trent/whsmith/
-shop: Zeitungen
+shop: newsagent
 ---

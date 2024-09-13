@@ -1,5 +1,5 @@
 ---
 title: "Ajwa Jewellers"
 url: /southall/ajwa-jewellers/
-shop: Schmuck
+shop: jewelry
 ---

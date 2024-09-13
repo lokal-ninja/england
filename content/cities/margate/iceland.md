@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /margate/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

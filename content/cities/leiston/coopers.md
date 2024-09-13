@@ -1,5 +1,5 @@
 ---
 title: "Coopers"
 url: /leiston/coopers/
-shop: Eisenwaren
+shop: hardware
 ---

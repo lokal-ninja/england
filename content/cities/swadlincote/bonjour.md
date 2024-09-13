@@ -1,5 +1,5 @@
 ---
 title: "Bonjour"
 url: /swadlincote/bonjour/
-shop: Lebensmittel
+shop: convenience
 ---

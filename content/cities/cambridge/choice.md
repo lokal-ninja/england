@@ -1,5 +1,5 @@
 ---
 title: "Choice"
 url: /cambridge/choice/
-shop: Kleidung
+shop: clothes
 ---

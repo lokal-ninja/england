@@ -1,5 +1,5 @@
 ---
 title: "Maurice Hyde"
 url: /south-croydon/maurice-hyde/
-shop: Blumen
+shop: florist
 ---

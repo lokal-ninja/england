@@ -1,5 +1,5 @@
 ---
 title: "Bahay Kuba"
 url: /chester/bahay-kuba/
-shop: Supermarkt
+shop: supermarket
 ---

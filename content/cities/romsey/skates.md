@@ -1,5 +1,5 @@
 ---
 title: "Skates"
 url: /romsey/skates/
-shop: Sport
+shop: sports
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Maxwells"
 url: /deal/maxwells/
-shop: Tiere
+shop: pet
 ---

@@ -1,5 +1,5 @@
 ---
 title: "VAPEBAR"
 url: /nottingham/vapebar/
-shop: Kiosk
+shop: kiosk
 ---

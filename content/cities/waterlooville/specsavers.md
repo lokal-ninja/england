@@ -1,5 +1,5 @@
 ---
 title: "Specsavers"
 url: /waterlooville/specsavers/
-shop: Optiker
+shop: optician
 ---

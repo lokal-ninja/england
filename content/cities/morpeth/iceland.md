@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /morpeth/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

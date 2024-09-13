@@ -1,5 +1,5 @@
 ---
 title: "Motest"
 url: /bexhill-on-sea/motest/
-shop: Autowerkstatt
+shop: car repair
 ---

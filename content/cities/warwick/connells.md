@@ -1,5 +1,5 @@
 ---
 title: "Connells"
 url: /warwick/connells/
-shop: Immobilien
+shop: estate agent
 ---

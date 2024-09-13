@@ -1,5 +1,5 @@
 ---
 title: "Borrowash Convenience"
 url: /derby/borrowash-convenience/
-shop: Lebensmittel
+shop: convenience
 ---

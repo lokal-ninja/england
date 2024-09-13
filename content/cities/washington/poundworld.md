@@ -1,5 +1,5 @@
 ---
 title: "Poundworld"
 url: /washington/poundworld/
-shop: Kramladen
+shop: variety store
 ---

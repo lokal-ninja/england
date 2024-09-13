@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /rushden/tesco-express/
-shop: Lebensmittel
+shop: convenience
 ---

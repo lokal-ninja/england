@@ -1,5 +1,5 @@
 ---
 title: "Premier Building Supplies"
 url: /london/premier-building-supplies/
-shop: Baustoffe
+shop: trade
 ---

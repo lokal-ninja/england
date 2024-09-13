@@ -1,5 +1,5 @@
 ---
 title: "Oxfam"
 url: /chester/oxfam/
-shop: Gebrauchtwaren
+shop: charity
 ---

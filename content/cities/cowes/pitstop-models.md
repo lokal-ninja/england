@@ -1,5 +1,5 @@
 ---
 title: "Pitstop Models"
 url: /cowes/pitstop-models/
-shop: Modellbau
+shop: model
 ---

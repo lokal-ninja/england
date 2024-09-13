@@ -1,5 +1,5 @@
 ---
 title: "Unity Hair Salon"
 url: /nottingham/unity-hair-salon/
-shop: Friseur
+shop: hairdresser
 ---

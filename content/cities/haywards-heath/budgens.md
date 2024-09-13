@@ -1,5 +1,5 @@
 ---
 title: "Budgens"
 url: /haywards-heath/budgens/
-shop: Lebensmittel
+shop: convenience
 ---

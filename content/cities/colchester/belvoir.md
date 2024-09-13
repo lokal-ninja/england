@@ -1,5 +1,5 @@
 ---
 title: "Belvoir"
 url: /colchester/belvoir/
-shop: Immobilien
+shop: estate agent
 ---

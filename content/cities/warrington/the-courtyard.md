@@ -1,5 +1,5 @@
 ---
 title: "The Courtyard"
 url: /warrington/the-courtyard/
-shop: Einkaufszentrum
+shop: mall
 ---

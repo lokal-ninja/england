@@ -1,5 +1,5 @@
 ---
 title: "TFC Catford"
 url: /london/tfc-catford/
-shop: Lebensmittel
+shop: convenience
 ---

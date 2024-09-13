@@ -1,5 +1,5 @@
 ---
 title: "Southfork Garage"
 url: /coventry/southfork-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

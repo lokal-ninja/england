@@ -1,5 +1,5 @@
 ---
 title: "Rieker"
 url: /cirencester/rieker/
-shop: Schuhe
+shop: shoes
 ---

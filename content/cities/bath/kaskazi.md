@@ -1,5 +1,5 @@
 ---
 title: "Kaskazi"
 url: /bath/kaskazi/
-shop: Bioladen
+shop: health food
 ---

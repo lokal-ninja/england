@@ -1,5 +1,5 @@
 ---
 title: "Autonomy"
 url: /alfreton/autonomy/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Reflections"
 url: /evesham/reflections/
-shop: Friseur
+shop: hairdresser
 ---

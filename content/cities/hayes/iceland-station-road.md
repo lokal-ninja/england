@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /hayes/iceland-station-road/
-shop: Tiefkühl
+shop: frozen food
 ---

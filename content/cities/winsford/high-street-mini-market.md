@@ -1,5 +1,5 @@
 ---
 title: "High Street Mini Market"
 url: /winsford/high-street-mini-market/
-shop: Lebensmittel
+shop: convenience
 ---

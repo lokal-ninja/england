@@ -1,5 +1,5 @@
 ---
 title: "Red Brick Retro"
 url: /matlock/red-brick-retro/
-shop: Allgemein
+shop: shop
 ---

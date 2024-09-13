@@ -1,5 +1,5 @@
 ---
 title: "Deja Vu"
 url: /clacton-on-sea/deja-vu/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Farmfoods"
 url: /lincoln/farmfoods/
-shop: Tiefkühl
+shop: frozen food
 ---

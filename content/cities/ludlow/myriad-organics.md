@@ -1,5 +1,5 @@
 ---
 title: "Myriad Organics"
 url: /ludlow/myriad-organics/
-shop: Lebensmittel
+shop: convenience
 ---

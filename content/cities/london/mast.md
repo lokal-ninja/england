@@ -1,5 +1,5 @@
 ---
 title: "Mast"
 url: /london/mast/
-shop: Schokolade
+shop: chocolate
 ---

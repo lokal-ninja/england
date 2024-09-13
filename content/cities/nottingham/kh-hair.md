@@ -1,5 +1,5 @@
 ---
 title: "KH Hair"
 url: /nottingham/kh-hair/
-shop: Friseur
+shop: hairdresser
 ---

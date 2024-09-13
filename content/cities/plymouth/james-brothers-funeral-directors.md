@@ -1,5 +1,5 @@
 ---
 title: "James Brothers Funeral Directors"
 url: /plymouth/james-brothers-funeral-directors/
-shop: Bestattungen
+shop: funeral directors
 ---

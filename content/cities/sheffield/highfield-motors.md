@@ -1,5 +1,5 @@
 ---
 title: "Highfield Motors"
 url: /sheffield/highfield-motors/
-shop: Autoteile
+shop: car parts
 ---

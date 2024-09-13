@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /grantham/spar-manthorpe-road/
-shop: Lebensmittel
+shop: convenience
 ---

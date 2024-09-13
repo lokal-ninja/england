@@ -1,5 +1,5 @@
 ---
 title: "Sportique"
 url: /hunstanton/sportique/
-shop: Sport
+shop: sports
 ---

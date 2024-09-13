@@ -1,5 +1,5 @@
 ---
 title: "Taunton Leisure"
 url: /bristol/taunton-leisure/
-shop: Outdoor
+shop: outdoor
 ---

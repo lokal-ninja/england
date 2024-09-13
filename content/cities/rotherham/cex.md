@@ -1,5 +1,5 @@
 ---
 title: "CeX"
 url: /rotherham/cex/
-shop: Elektronik
+shop: electronics
 ---

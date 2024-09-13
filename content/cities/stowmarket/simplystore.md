@@ -1,5 +1,5 @@
 ---
 title: "Simplystore"
 url: /stowmarket/simplystore/
-shop: Mieten
+shop: storage rental
 ---

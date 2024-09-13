@@ -1,5 +1,5 @@
 ---
 title: "Dotnpix Media"
 url: /london/dotnpix-media/
-shop: Kopieren
+shop: copyshop
 ---

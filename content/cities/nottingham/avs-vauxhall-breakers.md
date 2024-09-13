@@ -1,5 +1,5 @@
 ---
 title: "AVS Vauxhall Breakers"
 url: /nottingham/avs-vauxhall-breakers/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "GMS Bathrooms"
 url: /stoke-on-trent/gms-bathrooms/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "LMK Vehicle Service Centre"
 url: /clanfield/lmk-vehicle-service-centre/
-shop: Autowerkstatt
+shop: car repair
 ---

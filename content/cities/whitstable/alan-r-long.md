@@ -1,5 +1,5 @@
 ---
 title: "Alan R Long"
 url: /whitstable/alan-r-long/
-shop: Metzgerei
+shop: butcher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Costello's Bakery"
 url: /wetherby/costellos-bakery/
-shop: Bäckerei
+shop: bakery
 ---

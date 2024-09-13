@@ -1,5 +1,5 @@
 ---
 title: "Go Local"
 url: /mansfield/go-local-coxs-lane/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Teisha's"
 url: /leeds/teishas/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Diamond Boutique"
 url: /southport/diamond-boutique/
-shop: Kosmetik
+shop: beauty
 ---

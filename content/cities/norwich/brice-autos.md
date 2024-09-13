@@ -1,5 +1,5 @@
 ---
 title: "Brice Autos"
 url: /norwich/brice-autos/
-shop: Autowerkstatt
+shop: car repair
 ---

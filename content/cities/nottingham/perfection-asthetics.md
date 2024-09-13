@@ -1,5 +1,5 @@
 ---
 title: "Perfection Asthetics"
 url: /nottingham/perfection-asthetics/
-shop: Kosmetik
+shop: beauty
 ---

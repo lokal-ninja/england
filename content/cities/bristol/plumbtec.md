@@ -1,5 +1,5 @@
 ---
 title: "Plumbtec"
 url: /bristol/plumbtec/
-shop: Eisenwaren
+shop: hardware
 ---

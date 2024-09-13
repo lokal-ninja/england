@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /lancaster/spar-scale-hall-lane/
-shop: Supermarkt
+shop: supermarket
 ---

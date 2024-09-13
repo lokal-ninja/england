@@ -1,5 +1,5 @@
 ---
 title: "Kingsway Service Station"
 url: /luton/kingsway-service-station/
-shop: Kiosk
+shop: kiosk
 ---

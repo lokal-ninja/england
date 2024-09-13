@@ -1,5 +1,5 @@
 ---
 title: "Direct Local"
 url: /bristol/direct-local/
-shop: Leerstehend
+shop: vacant
 ---

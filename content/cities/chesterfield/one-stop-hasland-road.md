@@ -1,5 +1,5 @@
 ---
 title: "One Stop"
 url: /chesterfield/one-stop-hasland-road/
-shop: Lebensmittel
+shop: convenience
 ---

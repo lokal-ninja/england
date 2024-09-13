@@ -1,5 +1,5 @@
 ---
 title: "Robert James"
 url: /orpington/robert-james/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kamal Food Store"
 url: /nottingham/kamal-food-store/
-shop: Lebensmittel
+shop: convenience
 ---

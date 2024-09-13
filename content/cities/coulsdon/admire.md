@@ -1,5 +1,5 @@
 ---
 title: "Admire"
 url: /coulsdon/admire/
-shop: Friseur
+shop: hairdresser
 ---

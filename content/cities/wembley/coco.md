@@ -1,5 +1,5 @@
 ---
 title: "Coco"
 url: /wembley/coco/
-shop: Friseur
+shop: hairdresser
 ---

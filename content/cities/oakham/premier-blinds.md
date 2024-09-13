@@ -1,5 +1,5 @@
 ---
 title: "Premier Blinds"
 url: /oakham/premier-blinds/
-shop: Allgemein
+shop: shop
 ---

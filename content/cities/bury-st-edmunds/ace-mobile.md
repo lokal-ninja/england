@@ -1,5 +1,5 @@
 ---
 title: "Ace Mobile"
 url: /bury-st-edmunds/ace-mobile/
-shop: Handy
+shop: mobile phone
 ---

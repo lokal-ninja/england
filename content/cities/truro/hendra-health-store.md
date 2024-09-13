@@ -1,5 +1,5 @@
 ---
 title: "Hendra Health Store"
 url: /truro/hendra-health-store/
-shop: Bioladen
+shop: health food
 ---

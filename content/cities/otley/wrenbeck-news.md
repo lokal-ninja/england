@@ -1,5 +1,5 @@
 ---
 title: "Wrenbeck News"
 url: /otley/wrenbeck-news/
-shop: Zeitungen
+shop: newsagent
 ---

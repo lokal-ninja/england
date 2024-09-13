@@ -1,5 +1,5 @@
 ---
 title: "Quick Change"
 url: /london/quick-change/
-shop: Autowerkstatt
+shop: car repair
 ---

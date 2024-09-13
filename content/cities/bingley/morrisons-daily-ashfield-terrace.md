@@ -1,5 +1,5 @@
 ---
 title: "Morrisons Daily"
 url: /bingley/morrisons-daily-ashfield-terrace/
-shop: Lebensmittel
+shop: convenience
 ---

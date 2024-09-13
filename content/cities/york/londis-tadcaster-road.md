@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /york/londis-tadcaster-road/
-shop: Lebensmittel
+shop: convenience
 ---

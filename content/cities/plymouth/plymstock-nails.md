@@ -1,5 +1,5 @@
 ---
 title: "Plymstock Nails"
 url: /plymouth/plymstock-nails/
-shop: Kosmetik
+shop: beauty
 ---

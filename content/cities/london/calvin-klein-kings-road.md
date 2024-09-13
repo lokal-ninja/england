@@ -1,5 +1,5 @@
 ---
 title: "Calvin Klein"
 url: /london/calvin-klein-kings-road/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /teynham/premier/
-shop: Lebensmittel
+shop: convenience
 ---

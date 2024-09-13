@@ -1,5 +1,5 @@
 ---
 title: "Piccasso Hairdressing"
 url: /nottingham/piccasso-hairdressing/
-shop: Friseur
+shop: hairdresser
 ---

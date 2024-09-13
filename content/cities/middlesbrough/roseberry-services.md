@@ -1,5 +1,5 @@
 ---
 title: "Roseberry Services"
 url: /middlesbrough/roseberry-services/
-shop: Kiosk
+shop: kiosk
 ---

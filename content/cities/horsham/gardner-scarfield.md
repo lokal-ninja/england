@@ -1,5 +1,5 @@
 ---
 title: "Gardner Scarfield"
 url: /horsham/gardner-scarfield/
-shop: Elektrisch
+shop: electrical
 ---

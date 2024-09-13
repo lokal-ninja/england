@@ -1,5 +1,5 @@
 ---
 title: "FW Beauty"
 url: /london/fw-beauty/
-shop: Kosmetik
+shop: beauty
 ---

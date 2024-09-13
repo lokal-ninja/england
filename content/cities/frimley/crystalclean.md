@@ -1,5 +1,5 @@
 ---
 title: "Crystalclean"
 url: /frimley/crystalclean/
-shop: Wäscherei
+shop: laundry
 ---

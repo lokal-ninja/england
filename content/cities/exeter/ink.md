@@ -1,5 +1,5 @@
 ---
 title: "Ink"
 url: /exeter/ink/
-shop: Tattoo
+shop: tattoo
 ---

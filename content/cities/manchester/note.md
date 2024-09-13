@@ -1,5 +1,5 @@
 ---
 title: "NOTE"
 url: /manchester/note/
-shop: Kleidung
+shop: clothes
 ---

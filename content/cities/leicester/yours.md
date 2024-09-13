@@ -1,5 +1,5 @@
 ---
 title: "Yours"
 url: /leicester/yours/
-shop: Kleidung
+shop: clothes
 ---

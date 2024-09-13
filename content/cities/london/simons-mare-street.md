@@ -1,5 +1,5 @@
 ---
 title: "Simons"
 url: /london/simons-mare-street/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lesile"
 url: /eastbourne/lesile/
-shop: Friseur
+shop: hairdresser
 ---

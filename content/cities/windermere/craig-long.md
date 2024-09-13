@@ -1,5 +1,5 @@
 ---
 title: "Craig Long"
 url: /windermere/craig-long/
-shop: Kunst
+shop: art
 ---

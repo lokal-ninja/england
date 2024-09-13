@@ -1,5 +1,5 @@
 ---
 title: "Kin."
 url: /birmingham/kin/
-shop: Raumausstattung
+shop: interior decoration
 ---

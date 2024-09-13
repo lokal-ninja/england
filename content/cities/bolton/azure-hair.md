@@ -1,5 +1,5 @@
 ---
 title: "Azure Hair"
 url: /bolton/azure-hair/
-shop: Friseur
+shop: hairdresser
 ---

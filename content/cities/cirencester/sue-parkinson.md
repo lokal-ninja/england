@@ -1,5 +1,5 @@
 ---
 title: "Sue Parkinson"
 url: /cirencester/sue-parkinson/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /ripley/poundland/
-shop: Kramladen
+shop: variety store
 ---

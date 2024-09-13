@@ -1,5 +1,5 @@
 ---
 title: "Central Axle Services"
 url: /birmingham/central-axle-services/
-shop: Autowerkstatt
+shop: car repair
 ---

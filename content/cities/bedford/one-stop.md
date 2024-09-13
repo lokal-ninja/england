@@ -1,5 +1,5 @@
 ---
 title: "One Stop"
 url: /bedford/one-stop/
-shop: Lebensmittel
+shop: convenience
 ---

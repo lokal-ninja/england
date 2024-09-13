@@ -1,5 +1,5 @@
 ---
 title: "Cromer Carpets"
 url: /cromer/cromer-carpets/
-shop: Fußböden
+shop: flooring
 ---

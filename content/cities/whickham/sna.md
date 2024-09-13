@@ -1,5 +1,5 @@
 ---
 title: "SNA"
 url: /whickham/sna/
-shop: Friseur
+shop: hairdresser
 ---

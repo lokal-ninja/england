@@ -1,5 +1,5 @@
 ---
 title: "Radford's"
 url: /whitby/radfords/
-shop: Metzgerei
+shop: butcher
 ---

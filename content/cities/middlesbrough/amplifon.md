@@ -1,5 +1,5 @@
 ---
 title: "Amplifon"
 url: /middlesbrough/amplifon/
-shop: Hörgeräte
+shop: hearing aids
 ---

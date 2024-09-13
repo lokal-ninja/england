@@ -1,5 +1,5 @@
 ---
 title: "Artangell"
 url: /devizes/artangell/
-shop: Tattoo
+shop: tattoo
 ---

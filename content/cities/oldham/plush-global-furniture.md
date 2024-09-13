@@ -1,5 +1,5 @@
 ---
 title: "Plush Global Furniture"
 url: /oldham/plush-global-furniture/
-shop: Möbel
+shop: furniture
 ---

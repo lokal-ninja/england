@@ -1,5 +1,5 @@
 ---
 title: "Alvanley Agricultural Services"
 url: /frodsham/alvanley-agricultural-services/
-shop: Landwirtschaftlich
+shop: agrarian
 ---

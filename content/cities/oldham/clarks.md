@@ -1,5 +1,5 @@
 ---
 title: "Clarks"
 url: /oldham/clarks/
-shop: Schuhe
+shop: shoes
 ---

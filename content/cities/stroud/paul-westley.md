@@ -1,5 +1,5 @@
 ---
 title: "Paul Westley"
 url: /stroud/paul-westley/
-shop: Optiker
+shop: optician
 ---

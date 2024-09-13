@@ -1,5 +1,5 @@
 ---
 title: "Fresh Desh"
 url: /norwich/fresh-desh/
-shop: Supermarkt
+shop: supermarket
 ---

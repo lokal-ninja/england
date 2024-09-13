@@ -1,5 +1,5 @@
 ---
 title: "Alauna Baby Store"
 url: /whitehaven/alauna-baby-store/
-shop: Babysachen
+shop: baby goods
 ---

@@ -1,5 +1,5 @@
 ---
 title: "rsvp"
 url: /wivenhoe/rsvp/
-shop: Raumausstattung
+shop: interior decoration
 ---

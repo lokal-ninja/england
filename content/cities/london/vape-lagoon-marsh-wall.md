@@ -1,5 +1,5 @@
 ---
 title: "Vape Lagoon"
 url: /london/vape-lagoon-marsh-wall/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

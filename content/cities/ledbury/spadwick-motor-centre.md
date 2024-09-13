@@ -1,5 +1,5 @@
 ---
 title: "Spadwick Motor Centre"
 url: /ledbury/spadwick-motor-centre/
-shop: Autowerkstatt
+shop: car repair
 ---

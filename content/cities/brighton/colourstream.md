@@ -1,5 +1,5 @@
 ---
 title: "Colourstream"
 url: /brighton/colourstream/
-shop: Elektronik
+shop: electronics
 ---

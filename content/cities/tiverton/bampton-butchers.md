@@ -1,5 +1,5 @@
 ---
 title: "Bampton Butchers"
 url: /tiverton/bampton-butchers/
-shop: Metzgerei
+shop: butcher
 ---

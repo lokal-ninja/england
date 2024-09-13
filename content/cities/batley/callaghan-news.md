@@ -1,5 +1,5 @@
 ---
 title: "Callaghan News"
 url: /batley/callaghan-news/
-shop: Lebensmittel
+shop: convenience
 ---

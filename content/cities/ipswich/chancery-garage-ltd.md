@@ -1,5 +1,5 @@
 ---
 title: "Chancery Garage Ltd"
 url: /ipswich/chancery-garage-ltd/
-shop: Autowerkstatt
+shop: car repair
 ---

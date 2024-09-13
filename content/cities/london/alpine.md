@@ -1,5 +1,5 @@
 ---
 title: "Alpine"
 url: /london/alpine/
-shop: Wäscherei
+shop: laundry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Husen Moda"
 url: /st-albans/husen-moda/
-shop: Kleidung
+shop: clothes
 ---

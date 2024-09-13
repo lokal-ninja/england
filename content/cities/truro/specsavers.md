@@ -1,5 +1,5 @@
 ---
 title: "Specsavers"
 url: /truro/specsavers/
-shop: Optiker
+shop: optician
 ---

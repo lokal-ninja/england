@@ -1,5 +1,5 @@
 ---
 title: "Heron Foods"
 url: /oswestry/heron-foods/
-shop: Lebensmittel
+shop: convenience
 ---

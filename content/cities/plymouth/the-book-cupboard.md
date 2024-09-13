@@ -1,5 +1,5 @@
 ---
 title: "The Book Cupboard"
 url: /plymouth/the-book-cupboard/
-shop: Bücher
+shop: books
 ---

@@ -1,5 +1,5 @@
 ---
 title: "NDN Food City"
 url: /luton/ndn-food-city/
-shop: Lebensmittel
+shop: convenience
 ---

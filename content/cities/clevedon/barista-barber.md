@@ -1,5 +1,5 @@
 ---
 title: "Barista Barber"
 url: /clevedon/barista-barber/
-shop: Friseur
+shop: hairdresser
 ---

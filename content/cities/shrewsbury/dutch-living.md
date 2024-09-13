@@ -1,5 +1,5 @@
 ---
 title: "Dutch Living"
 url: /shrewsbury/dutch-living/
-shop: Raumausstattung
+shop: interior decoration
 ---

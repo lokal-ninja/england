@@ -1,5 +1,5 @@
 ---
 title: "Farlows"
 url: /london/farlows/
-shop: Outdoor
+shop: outdoor
 ---

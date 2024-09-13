@@ -1,5 +1,5 @@
 ---
 title: "Savoy Autocentres"
 url: /hull/savoy-autocentres/
-shop: Reifen
+shop: tyres
 ---

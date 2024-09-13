@@ -1,5 +1,5 @@
 ---
 title: "S P Motors"
 url: /leeds/s-p-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

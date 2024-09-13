@@ -1,5 +1,5 @@
 ---
 title: "M.A.D."
 url: /morecambe/m-a-d/
-shop: Sport
+shop: sports
 ---

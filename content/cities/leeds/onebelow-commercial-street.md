@@ -1,5 +1,5 @@
 ---
 title: "OneBelow"
 url: /leeds/onebelow-commercial-street/
-shop: Kramladen
+shop: variety store
 ---

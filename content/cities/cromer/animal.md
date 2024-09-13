@@ -1,5 +1,5 @@
 ---
 title: "Animal"
 url: /cromer/animal/
-shop: Kleidung
+shop: clothes
 ---

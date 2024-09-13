@@ -1,5 +1,5 @@
 ---
 title: "Tollerton Stores"
 url: /york/tollerton-stores/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Southwick Barbers"
 url: /southwick/southwick-barbers/
-shop: Friseur
+shop: hairdresser
 ---

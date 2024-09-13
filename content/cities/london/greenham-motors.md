@@ -1,5 +1,5 @@
 ---
 title: "Greenham Motors"
 url: /london/greenham-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

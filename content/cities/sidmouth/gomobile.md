@@ -1,5 +1,5 @@
 ---
 title: "GoMobile"
 url: /sidmouth/gomobile/
-shop: Handy
+shop: mobile phone
 ---

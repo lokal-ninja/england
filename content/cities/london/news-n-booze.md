@@ -1,5 +1,5 @@
 ---
 title: "News 'n' Booze"
 url: /london/news-n-booze/
-shop: Lebensmittel
+shop: convenience
 ---

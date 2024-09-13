@@ -1,5 +1,5 @@
 ---
 title: "GTi Nutrition"
 url: /knottingley/gti-nutrition/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

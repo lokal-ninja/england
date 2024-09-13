@@ -1,5 +1,5 @@
 ---
 title: "Bathtime Heanor Ltd"
 url: /heanor/bathtime-heanor-ltd/
-shop: Badezimmer
+shop: bathroom
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spicy Mary"
 url: /hounslow/spicy-mary/
-shop: Feinkost
+shop: deli
 ---

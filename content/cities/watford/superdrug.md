@@ -1,5 +1,5 @@
 ---
 title: "Superdrug"
 url: /watford/superdrug/
-shop: Drogerie
+shop: chemist
 ---

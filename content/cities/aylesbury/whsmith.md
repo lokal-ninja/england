@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /aylesbury/whsmith/
-shop: Zeitungen
+shop: newsagent
 ---

@@ -1,5 +1,5 @@
 ---
 title: "KD Carpets"
 url: /knaresborough/kd-carpets/
-shop: Teppiche
+shop: carpet
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Greggs"
 url: /sunderland/greggs-broadstairs-court/
-shop: Bäckerei
+shop: bakery
 ---

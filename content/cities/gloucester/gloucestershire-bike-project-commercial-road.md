@@ -1,5 +1,5 @@
 ---
 title: "Gloucestershire Bike Project"
 url: /gloucester/gloucestershire-bike-project-commercial-road/
-shop: Fahrrad
+shop: bicycle
 ---

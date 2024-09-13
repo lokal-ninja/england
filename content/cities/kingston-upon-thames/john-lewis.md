@@ -1,5 +1,5 @@
 ---
 title: "John Lewis"
 url: /kingston-upon-thames/john-lewis/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "KASK"
 url: /bristol/kask/
-shop: Wein
+shop: wine
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Clintons"
 url: /northallerton/clintons/
-shop: Andenken
+shop: gift
 ---

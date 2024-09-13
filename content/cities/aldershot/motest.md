@@ -1,5 +1,5 @@
 ---
 title: "Motest"
 url: /aldershot/motest/
-shop: Autowerkstatt
+shop: car repair
 ---

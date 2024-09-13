@@ -1,5 +1,5 @@
 ---
 title: "Burrows"
 url: /ely/burrows/
-shop: Zeitungen
+shop: newsagent
 ---

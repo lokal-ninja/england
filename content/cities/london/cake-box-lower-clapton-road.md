@@ -1,5 +1,5 @@
 ---
 title: "Cake Box"
 url: /london/cake-box-lower-clapton-road/
-shop: Konditorei
+shop: pastry
 ---

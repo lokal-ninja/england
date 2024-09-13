@@ -1,5 +1,5 @@
 ---
 title: "Ryan Hart"
 url: /darlington/ryan-hart/
-shop: Friseur
+shop: hairdresser
 ---

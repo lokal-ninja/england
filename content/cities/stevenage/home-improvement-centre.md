@@ -1,5 +1,5 @@
 ---
 title: "Home Improvement Centre"
 url: /stevenage/home-improvement-centre/
-shop: Baumarkt
+shop: doityourself
 ---

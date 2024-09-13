@@ -1,5 +1,5 @@
 ---
 title: "Coleshill Nutrition"
 url: /coleshill/coleshill-nutrition/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

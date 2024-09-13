@@ -1,5 +1,5 @@
 ---
 title: "Bishop Phillpott"
 url: /truro/bishop-phillpott/
-shop: Kleidung
+shop: clothes
 ---

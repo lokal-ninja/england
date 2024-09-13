@@ -1,5 +1,5 @@
 ---
 title: "Equipped Gym"
 url: /topcliffe/equipped-gym/
-shop: Sport
+shop: sports
 ---

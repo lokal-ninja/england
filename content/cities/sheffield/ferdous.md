@@ -1,5 +1,5 @@
 ---
 title: "Ferdous"
 url: /sheffield/ferdous/
-shop: Lebensmittel
+shop: convenience
 ---

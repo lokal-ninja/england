@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /sutton-coldfield/poundland/
-shop: Kramladen
+shop: variety store
 ---

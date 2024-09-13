@@ -1,5 +1,5 @@
 ---
 title: "Smartfone"
 url: /peterborough/smartfone/
-shop: Handy
+shop: mobile phone
 ---

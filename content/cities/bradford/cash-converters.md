@@ -1,5 +1,5 @@
 ---
 title: "Cash Converters"
 url: /bradford/cash-converters/
-shop: Leiher
+shop: pawnbroker
 ---

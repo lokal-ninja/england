@@ -1,5 +1,5 @@
 ---
 title: "Johnsons"
 url: /alnwick/johnsons/
-shop: Wäscherei
+shop: laundry
 ---

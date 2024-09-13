@@ -1,5 +1,5 @@
 ---
 title: "Boi Trading"
 url: /manchester/boi-trading/
-shop: Großhandel
+shop: wholesale
 ---

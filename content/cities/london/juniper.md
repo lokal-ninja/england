@@ -1,5 +1,5 @@
 ---
 title: "Juniper"
 url: /london/juniper/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Studley Green Garden Store"
 url: /studley-green/studley-green-garden-store/
-shop: Garten-Center
+shop: garden centre
 ---

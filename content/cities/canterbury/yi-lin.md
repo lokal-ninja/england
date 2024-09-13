@@ -1,5 +1,5 @@
 ---
 title: "Yi Lin"
 url: /canterbury/yi-lin/
-shop: Schmuck
+shop: jewelry
 ---

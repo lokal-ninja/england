@@ -1,5 +1,5 @@
 ---
 title: "Greenhalgh's"
 url: /bolton/greenhalghs-st-helens-road/
-shop: Bäckerei
+shop: bakery
 ---

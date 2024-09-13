@@ -1,5 +1,5 @@
 ---
 title: "Tulsi News"
 url: /london/tulsi-news/
-shop: Zeitungen
+shop: newsagent
 ---

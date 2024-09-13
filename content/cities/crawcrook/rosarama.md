@@ -1,5 +1,5 @@
 ---
 title: "Rosarama"
 url: /crawcrook/rosarama/
-shop: Basteln
+shop: craft
 ---

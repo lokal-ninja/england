@@ -1,5 +1,5 @@
 ---
 title: "The Fig"
 url: /derby/the-fig/
-shop: Allgemein
+shop: shop
 ---

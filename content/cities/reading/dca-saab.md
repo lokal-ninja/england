@@ -1,5 +1,5 @@
 ---
 title: "DCA Saab"
 url: /reading/dca-saab/
-shop: Autowerkstatt
+shop: car repair
 ---

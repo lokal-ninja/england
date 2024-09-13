@@ -1,5 +1,5 @@
 ---
 title: "MIlton Motor Co"
 url: /warrington/milton-motor-co/
-shop: Autowerkstatt
+shop: car repair
 ---

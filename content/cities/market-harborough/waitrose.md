@@ -1,5 +1,5 @@
 ---
 title: "Waitrose"
 url: /market-harborough/waitrose/
-shop: Supermarkt
+shop: supermarket
 ---

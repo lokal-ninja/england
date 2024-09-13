@@ -1,5 +1,5 @@
 ---
 title: "Handy Hardware"
 url: /london/handy-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

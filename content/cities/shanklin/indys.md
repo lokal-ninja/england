@@ -1,5 +1,5 @@
 ---
 title: "Indy's"
 url: /shanklin/indys/
-shop: Gebrauchtwaren
+shop: charity
 ---

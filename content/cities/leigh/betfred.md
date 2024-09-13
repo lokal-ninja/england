@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /leigh/betfred/
-shop: Wettbüro
+shop: bookmaker
 ---

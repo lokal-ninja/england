@@ -1,5 +1,5 @@
 ---
 title: "Max Convenience Durham"
 url: /durham/max-convenience-durham/
-shop: Lebensmittel
+shop: convenience
 ---

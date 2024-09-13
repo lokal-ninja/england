@@ -1,5 +1,5 @@
 ---
 title: "NeWays Dry Cleaners"
 url: /purley/neways-dry-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

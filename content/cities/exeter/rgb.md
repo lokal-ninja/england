@@ -1,5 +1,5 @@
 ---
 title: "RGB"
 url: /exeter/rgb/
-shop: Allgemein
+shop: shop
 ---

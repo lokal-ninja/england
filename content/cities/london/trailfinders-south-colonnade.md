@@ -1,5 +1,5 @@
 ---
 title: "Trailfinders"
 url: /london/trailfinders-south-colonnade/
-shop: Reisebüro
+shop: travel agency
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wortley Wagyu"
 url: /sheffield/wortley-wagyu/
-shop: Metzgerei
+shop: butcher
 ---

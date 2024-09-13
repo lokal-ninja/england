@@ -1,5 +1,5 @@
 ---
 title: "Cut In Time"
 url: /manchester/cut-in-time/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hiba"
 url: /london/hiba/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gales"
 url: /kendal/gales/
-shop: Möbel
+shop: furniture
 ---

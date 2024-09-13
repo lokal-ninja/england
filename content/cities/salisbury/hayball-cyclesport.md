@@ -1,5 +1,5 @@
 ---
 title: "Hayball Cyclesport"
 url: /salisbury/hayball-cyclesport/
-shop: Fahrrad
+shop: bicycle
 ---

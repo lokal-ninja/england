@@ -1,5 +1,5 @@
 ---
 title: "Pipers"
 url: /sheffield/pipers/
-shop: Metzgerei
+shop: butcher
 ---

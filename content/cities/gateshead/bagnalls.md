@@ -1,5 +1,5 @@
 ---
 title: "Bagnalls"
 url: /gateshead/bagnalls/
-shop: Raumausstattung
+shop: interior decoration
 ---

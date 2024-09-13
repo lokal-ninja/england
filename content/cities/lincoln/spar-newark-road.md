@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /lincoln/spar-newark-road/
-shop: Supermarkt
+shop: supermarket
 ---

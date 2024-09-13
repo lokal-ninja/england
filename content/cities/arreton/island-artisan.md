@@ -1,5 +1,5 @@
 ---
 title: "Island Artisan"
 url: /arreton/island-artisan/
-shop: Raumausstattung
+shop: interior decoration
 ---

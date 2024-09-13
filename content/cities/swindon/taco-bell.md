@@ -1,5 +1,5 @@
 ---
 title: "Taco Bell"
 url: /swindon/taco-bell/
-shop: Videospiele
+shop: video games
 ---

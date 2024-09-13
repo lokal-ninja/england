@@ -1,5 +1,5 @@
 ---
 title: "Blike"
 url: /london/blike/
-shop: Fahrrad
+shop: bicycle
 ---

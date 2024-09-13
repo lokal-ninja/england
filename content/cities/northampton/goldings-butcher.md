@@ -1,5 +1,5 @@
 ---
 title: "Goldings Butcher"
 url: /northampton/goldings-butcher/
-shop: Metzgerei
+shop: butcher
 ---

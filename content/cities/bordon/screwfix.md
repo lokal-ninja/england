@@ -1,5 +1,5 @@
 ---
 title: "Screwfix"
 url: /bordon/screwfix/
-shop: Baumarkt
+shop: doityourself
 ---

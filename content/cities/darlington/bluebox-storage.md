@@ -1,5 +1,5 @@
 ---
 title: "Bluebox Storage"
 url: /darlington/bluebox-storage/
-shop: Mieten
+shop: storage rental
 ---

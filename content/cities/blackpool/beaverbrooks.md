@@ -1,5 +1,5 @@
 ---
 title: "Beaverbrooks"
 url: /blackpool/beaverbrooks/
-shop: Schmuck
+shop: jewelry
 ---

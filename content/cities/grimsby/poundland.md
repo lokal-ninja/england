@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /grimsby/poundland/
-shop: Kramladen
+shop: variety store
 ---

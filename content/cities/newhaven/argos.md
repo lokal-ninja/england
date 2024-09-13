@@ -1,5 +1,5 @@
 ---
 title: "Argos"
 url: /newhaven/argos/
-shop: Katalog
+shop: catalogue
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Foot Locker"
 url: /reading/foot-locker/
-shop: Schuhe
+shop: shoes
 ---

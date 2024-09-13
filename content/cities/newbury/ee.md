@@ -1,5 +1,5 @@
 ---
 title: "EE"
 url: /newbury/ee/
-shop: Handy
+shop: mobile phone
 ---

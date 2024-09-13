@@ -1,5 +1,5 @@
 ---
 title: "The cycle works"
 url: /mossley/the-cycle-works/
-shop: Fahrrad
+shop: bicycle
 ---

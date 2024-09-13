@@ -1,5 +1,5 @@
 ---
 title: "Trudy's Sandwich Bar"
 url: /stowmarket/trudys-sandwich-bar/
-shop: Bäckerei
+shop: bakery
 ---

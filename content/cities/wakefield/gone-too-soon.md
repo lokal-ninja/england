@@ -1,5 +1,5 @@
 ---
 title: "Gone Too Soon"
 url: /wakefield/gone-too-soon/
-shop: Bestattungen
+shop: funeral directors
 ---

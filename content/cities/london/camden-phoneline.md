@@ -1,5 +1,5 @@
 ---
 title: "Camden Phoneline"
 url: /london/camden-phoneline/
-shop: Handy
+shop: mobile phone
 ---

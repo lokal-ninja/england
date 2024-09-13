@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /newmarket/savers/
-shop: Drogerie
+shop: chemist
 ---

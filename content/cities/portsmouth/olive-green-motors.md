@@ -1,5 +1,5 @@
 ---
 title: "Olive Green Motors"
 url: /portsmouth/olive-green-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

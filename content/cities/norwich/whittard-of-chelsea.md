@@ -1,5 +1,5 @@
 ---
 title: "Whittard of Chelsea"
 url: /norwich/whittard-of-chelsea/
-shop: Tee
+shop: tea
 ---

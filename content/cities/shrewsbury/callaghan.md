@@ -1,5 +1,5 @@
 ---
 title: "Callaghan"
 url: /shrewsbury/callaghan/
-shop: Kunst
+shop: art
 ---

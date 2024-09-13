@@ -1,5 +1,5 @@
 ---
 title: "Stansted Park Garden Centre"
 url: /stansted/stansted-park-garden-centre/
-shop: Garten-Center
+shop: garden centre
 ---

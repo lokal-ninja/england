@@ -1,5 +1,5 @@
 ---
 title: "Alanaka"
 url: /london/alanaka/
-shop: Textil
+shop: fabric
 ---

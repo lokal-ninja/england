@@ -1,5 +1,5 @@
 ---
 title: "Mercer News"
 url: /wigston/mercer-news/
-shop: Zeitungen
+shop: newsagent
 ---

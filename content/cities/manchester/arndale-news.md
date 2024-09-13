@@ -1,5 +1,5 @@
 ---
 title: "Arndale News"
 url: /manchester/arndale-news/
-shop: Zeitungen
+shop: newsagent
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dunelm"
 url: /southampton/dunelm/
-shop: Raumausstattung
+shop: interior decoration
 ---

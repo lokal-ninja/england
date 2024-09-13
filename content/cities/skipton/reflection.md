@@ -1,5 +1,5 @@
 ---
 title: "Reflection"
 url: /skipton/reflection/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Park Lane Garage"
 url: /poulton-le-fylde/park-lane-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lodge"
 url: /kingston/lodge/
-shop: Bestattungen
+shop: funeral directors
 ---

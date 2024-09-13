@@ -1,5 +1,5 @@
 ---
 title: "Adams Bathrooms"
 url: /darlington/adams-bathrooms/
-shop: Badezimmer
+shop: bathroom
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sharps"
 url: /exeter/sharps/
-shop: Möbel
+shop: furniture
 ---

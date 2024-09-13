@@ -1,5 +1,5 @@
 ---
 title: "SK Electronics"
 url: /oldham/sk-electronics/
-shop: Elektronik
+shop: electronics
 ---

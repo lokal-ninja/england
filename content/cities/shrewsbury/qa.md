@@ -1,5 +1,5 @@
 ---
 title: "QA"
 url: /shrewsbury/qa/
-shop: Küchen
+shop: kitchen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Heron Foods"
 url: /telford/heron-foods/
-shop: Lebensmittel
+shop: convenience
 ---

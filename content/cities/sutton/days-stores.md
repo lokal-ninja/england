@@ -1,5 +1,5 @@
 ---
 title: "Day's Stores"
 url: /sutton/days-stores/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tariqscut"
 url: /barnoldswick/tariqscut/
-shop: Friseur
+shop: hairdresser
 ---

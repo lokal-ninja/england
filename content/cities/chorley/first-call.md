@@ -1,5 +1,5 @@
 ---
 title: "First Call"
 url: /chorley/first-call/
-shop: Handy
+shop: mobile phone
 ---

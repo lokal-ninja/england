@@ -1,5 +1,5 @@
 ---
 title: "Amplifon"
 url: /twickenham/amplifon/
-shop: Hörgeräte
+shop: hearing aids
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gbolahan Foods"
 url: /bristol/gbolahan-foods/
-shop: Metzgerei
+shop: butcher
 ---

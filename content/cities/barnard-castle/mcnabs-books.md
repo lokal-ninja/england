@@ -1,5 +1,5 @@
 ---
 title: "McNabs Books"
 url: /barnard-castle/mcnabs-books/
-shop: Bücher
+shop: books
 ---

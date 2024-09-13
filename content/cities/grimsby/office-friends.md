@@ -1,5 +1,5 @@
 ---
 title: "Office Friends"
 url: /grimsby/office-friends/
-shop: Schreibwaren
+shop: office supplies
 ---

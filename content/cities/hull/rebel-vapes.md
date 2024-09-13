@@ -1,5 +1,5 @@
 ---
 title: "Rebel Vapes"
 url: /hull/rebel-vapes/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Crazy Girl Accessories"
 url: /manchester/crazy-girl-accessories/
-shop: Großhandel
+shop: wholesale
 ---

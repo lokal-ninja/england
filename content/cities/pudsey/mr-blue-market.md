@@ -1,5 +1,5 @@
 ---
 title: "Mr Blue Market"
 url: /pudsey/mr-blue-market/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /nottingham/ladbrokes-clumber-street/
-shop: Wettbüro
+shop: bookmaker
 ---

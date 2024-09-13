@@ -1,5 +1,5 @@
 ---
 title: "Headmaster"
 url: /settle/headmaster/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Peacocks"
 url: /andover/peacocks/
-shop: Kleidung
+shop: clothes
 ---

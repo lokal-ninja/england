@@ -1,5 +1,5 @@
 ---
 title: "ZAM ZAM"
 url: /luton/zam-zam/
-shop: Kleidung
+shop: clothes
 ---

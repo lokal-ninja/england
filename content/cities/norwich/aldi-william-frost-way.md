@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /norwich/aldi-william-frost-way/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dunelm"
 url: /darlington/dunelm/
-shop: Haushaltsartikel
+shop: houseware
 ---

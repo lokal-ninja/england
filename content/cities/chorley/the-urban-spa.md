@@ -1,5 +1,5 @@
 ---
 title: "The Urban Spa"
 url: /chorley/the-urban-spa/
-shop: Kosmetik
+shop: beauty
 ---

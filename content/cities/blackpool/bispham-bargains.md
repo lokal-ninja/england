@@ -1,5 +1,5 @@
 ---
 title: "Bispham Bargains"
 url: /blackpool/bispham-bargains/
-shop: Kramladen
+shop: variety store
 ---

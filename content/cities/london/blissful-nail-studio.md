@@ -1,5 +1,5 @@
 ---
 title: "Blissful Nail Studio"
 url: /london/blissful-nail-studio/
-shop: Kosmetik
+shop: beauty
 ---

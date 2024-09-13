@@ -1,5 +1,5 @@
 ---
 title: "sunrgy"
 url: /sheffield/sunrgy/
-shop: Lampen
+shop: lamps
 ---

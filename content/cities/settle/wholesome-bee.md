@@ -1,5 +1,5 @@
 ---
 title: "Wholesome Bee"
 url: /settle/wholesome-bee/
-shop: Bioladen
+shop: health food
 ---

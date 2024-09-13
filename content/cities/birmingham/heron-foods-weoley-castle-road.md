@@ -1,5 +1,5 @@
 ---
 title: "Heron Foods"
 url: /birmingham/heron-foods-weoley-castle-road/
-shop: Supermarkt
+shop: supermarket
 ---

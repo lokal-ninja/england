@@ -1,5 +1,5 @@
 ---
 title: "Elliotts"
 url: /chandlers-ford/elliotts/
-shop: Baustoffe
+shop: trade
 ---

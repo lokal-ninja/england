@@ -1,5 +1,5 @@
 ---
 title: "KSK News"
 url: /bristol/ksk-news/
-shop: Lebensmittel
+shop: convenience
 ---

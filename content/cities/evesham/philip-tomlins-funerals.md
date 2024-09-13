@@ -1,5 +1,5 @@
 ---
 title: "Philip Tomlins Funerals"
 url: /evesham/philip-tomlins-funerals/
-shop: Bestattungen
+shop: funeral directors
 ---

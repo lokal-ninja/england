@@ -1,5 +1,5 @@
 ---
 title: "Quadrant"
 url: /chelmsford/quadrant/
-shop: Warenhaus
+shop: department store
 ---

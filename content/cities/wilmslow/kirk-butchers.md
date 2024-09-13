@@ -1,5 +1,5 @@
 ---
 title: "Kirk Butchers"
 url: /wilmslow/kirk-butchers/
-shop: Metzgerei
+shop: butcher
 ---

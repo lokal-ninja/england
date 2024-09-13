@@ -1,5 +1,5 @@
 ---
 title: "Lebara"
 url: /coventry/lebara/
-shop: Allgemein
+shop: shop
 ---

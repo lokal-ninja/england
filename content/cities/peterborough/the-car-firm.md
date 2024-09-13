@@ -1,5 +1,5 @@
 ---
 title: "The Car Firm"
 url: /peterborough/the-car-firm/
-shop: Autohaus
+shop: car
 ---

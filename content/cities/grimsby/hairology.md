@@ -1,5 +1,5 @@
 ---
 title: "Hairology"
 url: /grimsby/hairology/
-shop: Friseur
+shop: hairdresser
 ---

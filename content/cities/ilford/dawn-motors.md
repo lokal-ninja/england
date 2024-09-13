@@ -1,5 +1,5 @@
 ---
 title: "Dawn Motors"
 url: /ilford/dawn-motors/
-shop: Autohaus
+shop: car
 ---

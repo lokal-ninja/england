@@ -1,5 +1,5 @@
 ---
 title: "Dodie's Cafe"
 url: /leicester/dodies-cafe/
-shop: Feinkost
+shop: deli
 ---

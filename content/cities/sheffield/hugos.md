@@ -1,5 +1,5 @@
 ---
 title: "Hugos"
 url: /sheffield/hugos/
-shop: Tiersalon
+shop: pet grooming
 ---

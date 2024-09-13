@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /middlesbrough/poundland-dalby-way/
-shop: Kramladen
+shop: variety store
 ---

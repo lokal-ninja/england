@@ -1,5 +1,5 @@
 ---
 title: "Poundstretcher"
 url: /dover/poundstretcher/
-shop: Kramladen
+shop: variety store
 ---

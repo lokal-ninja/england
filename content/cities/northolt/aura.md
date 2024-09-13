@@ -1,5 +1,5 @@
 ---
 title: "Aura"
 url: /northolt/aura/
-shop: Friseur
+shop: hairdresser
 ---

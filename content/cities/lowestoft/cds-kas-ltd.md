@@ -1,5 +1,5 @@
 ---
 title: "CDS-KAS Ltd"
 url: /lowestoft/cds-kas-ltd/
-shop: Computer
+shop: computer
 ---

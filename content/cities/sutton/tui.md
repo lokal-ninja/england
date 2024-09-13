@@ -1,5 +1,5 @@
 ---
 title: "TUI"
 url: /sutton/tui/
-shop: Reisebüro
+shop: travel agency
 ---

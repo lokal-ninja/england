@@ -1,5 +1,5 @@
 ---
 title: "Torpoint Carpets"
 url: /torpoint/torpoint-carpets/
-shop: Fußböden
+shop: flooring
 ---

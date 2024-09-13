@@ -1,5 +1,5 @@
 ---
 title: "Hexham Alloy Services"
 url: /hexham/hexham-alloy-services/
-shop: Autowerkstatt
+shop: car repair
 ---

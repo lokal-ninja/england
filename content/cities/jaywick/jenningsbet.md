@@ -1,5 +1,5 @@
 ---
 title: "JenningsBet"
 url: /jaywick/jenningsbet/
-shop: Wettbüro
+shop: bookmaker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jigsaw"
 url: /teddington/jigsaw/
-shop: Kleidung
+shop: clothes
 ---

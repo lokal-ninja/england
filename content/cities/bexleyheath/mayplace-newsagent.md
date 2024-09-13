@@ -1,5 +1,5 @@
 ---
 title: "Mayplace Newsagent"
 url: /bexleyheath/mayplace-newsagent/
-shop: Zeitungen
+shop: newsagent
 ---

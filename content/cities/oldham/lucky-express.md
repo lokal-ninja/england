@@ -1,5 +1,5 @@
 ---
 title: "Lucky Express"
 url: /oldham/lucky-express/
-shop: Reisebüro
+shop: travel agency
 ---

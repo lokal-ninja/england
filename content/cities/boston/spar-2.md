@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /boston/spar-2/
-shop: Lebensmittel
+shop: convenience
 ---

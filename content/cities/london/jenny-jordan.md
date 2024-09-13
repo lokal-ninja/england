@@ -1,5 +1,5 @@
 ---
 title: "Jenny Jordan"
 url: /london/jenny-jordan/
-shop: Kosmetik
+shop: beauty
 ---

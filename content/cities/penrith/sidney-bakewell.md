@@ -1,5 +1,5 @@
 ---
 title: "Sidney Bakewell"
 url: /penrith/sidney-bakewell/
-shop: Elektronik
+shop: electronics
 ---

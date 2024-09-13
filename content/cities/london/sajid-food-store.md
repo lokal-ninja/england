@@ -1,5 +1,5 @@
 ---
 title: "Sajid Food Store"
 url: /london/sajid-food-store/
-shop: Metzgerei
+shop: butcher
 ---

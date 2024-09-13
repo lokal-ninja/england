@@ -1,5 +1,5 @@
 ---
 title: "Eltham International Market"
 url: /london/eltham-international-market/
-shop: Lebensmittel
+shop: convenience
 ---

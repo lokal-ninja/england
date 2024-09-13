@@ -1,5 +1,5 @@
 ---
 title: "Office"
 url: /norwich/office/
-shop: Schuhe
+shop: shoes
 ---

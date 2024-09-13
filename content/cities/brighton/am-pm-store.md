@@ -1,5 +1,5 @@
 ---
 title: "AM PM Store"
 url: /brighton/am-pm-store/
-shop: Lebensmittel
+shop: convenience
 ---

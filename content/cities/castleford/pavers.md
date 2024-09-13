@@ -1,5 +1,5 @@
 ---
 title: "Pavers"
 url: /castleford/pavers/
-shop: Schuhe
+shop: shoes
 ---

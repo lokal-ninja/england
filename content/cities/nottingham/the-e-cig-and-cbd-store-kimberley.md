@@ -1,5 +1,5 @@
 ---
 title: "The E-Cig and CBD Store Kimberley"
 url: /nottingham/the-e-cig-and-cbd-store-kimberley/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

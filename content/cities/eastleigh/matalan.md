@@ -1,5 +1,5 @@
 ---
 title: "Matalan"
 url: /eastleigh/matalan/
-shop: Kleidung
+shop: clothes
 ---

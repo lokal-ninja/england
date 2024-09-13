@@ -1,5 +1,5 @@
 ---
 title: "Heima"
 url: /york/heima/
-shop: Allgemein
+shop: shop
 ---

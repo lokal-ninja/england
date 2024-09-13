@@ -1,5 +1,5 @@
 ---
 title: "Balance"
 url: /sheffield/balance/
-shop: Hanf
+shop: cannabis
 ---

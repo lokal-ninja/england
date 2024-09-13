@@ -1,5 +1,5 @@
 ---
 title: "Autocare"
 url: /gateshead/autocare/
-shop: Autowerkstatt
+shop: car repair
 ---

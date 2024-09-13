@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /bristol/tesco-express-axbridge-road/
-shop: Lebensmittel
+shop: convenience
 ---

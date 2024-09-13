@@ -1,5 +1,5 @@
 ---
 title: "Miti Beauty"
 url: /bristol/miti-beauty/
-shop: Kosmetik
+shop: beauty
 ---

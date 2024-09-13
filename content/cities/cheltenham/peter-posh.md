@@ -1,5 +1,5 @@
 ---
 title: "Peter Posh"
 url: /cheltenham/peter-posh/
-shop: Kleidung
+shop: clothes
 ---

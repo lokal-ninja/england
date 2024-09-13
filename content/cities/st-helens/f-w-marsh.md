@@ -1,5 +1,5 @@
 ---
 title: "F. W. Marsh"
 url: /st-helens/f-w-marsh/
-shop: Bestattungen
+shop: funeral directors
 ---

@@ -1,5 +1,5 @@
 ---
 title: "FairTech"
 url: /south-shields/fairtech/
-shop: Handy
+shop: mobile phone
 ---

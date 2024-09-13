@@ -1,5 +1,5 @@
 ---
 title: "Nick's Tattooz"
 url: /brandon/nicks-tattooz/
-shop: Tattoo
+shop: tattoo
 ---

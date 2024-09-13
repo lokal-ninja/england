@@ -1,5 +1,5 @@
 ---
 title: "William Hill"
 url: /chelmsford/william-hill-broomfield-road/
-shop: Wettbüro
+shop: bookmaker
 ---

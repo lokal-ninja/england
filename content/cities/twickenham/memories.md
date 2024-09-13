@@ -1,5 +1,5 @@
 ---
 title: "Memories"
 url: /twickenham/memories/
-shop: Andenken
+shop: gift
 ---

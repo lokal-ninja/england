@@ -1,5 +1,5 @@
 ---
 title: "Smyths"
 url: /cowley/smyths/
-shop: Spielzeug
+shop: toys
 ---

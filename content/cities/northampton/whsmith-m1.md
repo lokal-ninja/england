@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /northampton/whsmith-m1/
-shop: Schreibwaren
+shop: office supplies
 ---

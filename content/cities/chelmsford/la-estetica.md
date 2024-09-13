@@ -1,5 +1,5 @@
 ---
 title: "La Estetica"
 url: /chelmsford/la-estetica/
-shop: Kosmetik
+shop: beauty
 ---

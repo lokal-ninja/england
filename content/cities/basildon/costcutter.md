@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /basildon/costcutter/
-shop: Lebensmittel
+shop: convenience
 ---

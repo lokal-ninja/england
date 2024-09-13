@@ -1,5 +1,5 @@
 ---
 title: "Toolstation"
 url: /high-wycombe/toolstation/
-shop: Baumarkt
+shop: doityourself
 ---

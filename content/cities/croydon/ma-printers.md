@@ -1,5 +1,5 @@
 ---
 title: "MA Printers"
 url: /croydon/ma-printers/
-shop: Allgemein
+shop: shop
 ---

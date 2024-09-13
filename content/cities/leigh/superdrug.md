@@ -1,5 +1,5 @@
 ---
 title: "Superdrug"
 url: /leigh/superdrug/
-shop: Drogerie
+shop: chemist
 ---

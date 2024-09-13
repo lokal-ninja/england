@@ -1,5 +1,5 @@
 ---
 title: "C. S. Boswell"
 url: /bicester/c-s-boswell/
-shop: Bestattungen
+shop: funeral directors
 ---

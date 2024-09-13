@@ -1,5 +1,5 @@
 ---
 title: "Bloom"
 url: /south-petherton/bloom/
-shop: Wein
+shop: wine
 ---

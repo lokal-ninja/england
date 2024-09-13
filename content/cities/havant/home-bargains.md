@@ -1,5 +1,5 @@
 ---
 title: "Home Bargains"
 url: /havant/home-bargains/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dashing Doodles Dog Grooming"
 url: /eastbourne/dashing-doodles-dog-grooming/
-shop: Tiersalon
+shop: pet grooming
 ---

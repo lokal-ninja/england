@@ -1,5 +1,5 @@
 ---
 title: "Auburn Fox"
 url: /thrapston/auburn-fox/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dunkertons Organic Cider"
 url: /cheltenham/dunkertons-organic-cider/
-shop: Spirituosen
+shop: alcohol
 ---

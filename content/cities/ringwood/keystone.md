@@ -1,5 +1,5 @@
 ---
 title: "Keystone"
 url: /ringwood/keystone/
-shop: Autohaus
+shop: car
 ---

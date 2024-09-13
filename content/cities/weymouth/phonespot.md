@@ -1,5 +1,5 @@
 ---
 title: "Phonespot"
 url: /weymouth/phonespot/
-shop: Handy
+shop: mobile phone
 ---

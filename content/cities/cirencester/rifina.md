@@ -1,5 +1,5 @@
 ---
 title: "Rifina"
 url: /cirencester/rifina/
-shop: Elektrisch
+shop: electrical
 ---

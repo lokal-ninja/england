@@ -1,5 +1,5 @@
 ---
 title: "Screwfix"
 url: /congleton/screwfix/
-shop: Baumarkt
+shop: doityourself
 ---

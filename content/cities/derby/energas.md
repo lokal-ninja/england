@@ -1,5 +1,5 @@
 ---
 title: "Energas"
 url: /derby/energas/
-shop: Baustoffe
+shop: trade
 ---

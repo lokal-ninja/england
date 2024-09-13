@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /manchester/tesco-express-palatine-road/
-shop: Lebensmittel
+shop: convenience
 ---

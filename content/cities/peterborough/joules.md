@@ -1,5 +1,5 @@
 ---
 title: "Joules"
 url: /peterborough/joules/
-shop: Kleidung
+shop: clothes
 ---

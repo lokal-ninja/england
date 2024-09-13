@@ -1,5 +1,5 @@
 ---
 title: "Nithu's Local"
 url: /pontefract/nithus-local/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Manor Autos"
 url: /walsall/manor-autos/
-shop: Autowerkstatt
+shop: car repair
 ---

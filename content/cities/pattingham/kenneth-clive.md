@@ -1,5 +1,5 @@
 ---
 title: "Kenneth Clive"
 url: /pattingham/kenneth-clive/
-shop: Kleidung
+shop: clothes
 ---

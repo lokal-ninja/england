@@ -1,5 +1,5 @@
 ---
 title: "The Man Cave"
 url: /lancaster/the-man-cave/
-shop: Friseur
+shop: hairdresser
 ---

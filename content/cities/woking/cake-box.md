@@ -1,5 +1,5 @@
 ---
 title: "Cake Box"
 url: /woking/cake-box/
-shop: Konditorei
+shop: pastry
 ---

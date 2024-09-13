@@ -1,5 +1,5 @@
 ---
 title: "Mada Deli"
 url: /east-molesey/mada-deli/
-shop: Feinkost
+shop: deli
 ---

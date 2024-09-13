@@ -1,5 +1,5 @@
 ---
 title: "Valentina"
 url: /wantage/valentina/
-shop: Kleidung
+shop: clothes
 ---

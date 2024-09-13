@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /leeds/spar-cardigan-road/
-shop: Lebensmittel
+shop: convenience
 ---

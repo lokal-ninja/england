@@ -1,5 +1,5 @@
 ---
 title: "Cash Converters"
 url: /grimsby/cash-converters/
-shop: Leiher
+shop: pawnbroker
 ---

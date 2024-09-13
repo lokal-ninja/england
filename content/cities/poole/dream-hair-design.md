@@ -1,5 +1,5 @@
 ---
 title: "Dream Hair Design"
 url: /poole/dream-hair-design/
-shop: Friseur
+shop: hairdresser
 ---

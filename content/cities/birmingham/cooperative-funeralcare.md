@@ -1,5 +1,5 @@
 ---
 title: "Cooperative Funeralcare"
 url: /birmingham/cooperative-funeralcare/
-shop: Bestattungen
+shop: funeral directors
 ---

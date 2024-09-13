@@ -1,5 +1,5 @@
 ---
 title: "Scotties Fishing Tackle"
 url: /southwick/scotties-fishing-tackle/
-shop: Angeln
+shop: fishing
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bexley Garage"
 url: /bexley/bexley-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

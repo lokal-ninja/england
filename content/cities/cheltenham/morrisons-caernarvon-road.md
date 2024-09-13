@@ -1,5 +1,5 @@
 ---
 title: "Morrisons"
 url: /cheltenham/morrisons-caernarvon-road/
-shop: Supermarkt
+shop: supermarket
 ---

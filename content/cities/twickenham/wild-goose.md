@@ -1,5 +1,5 @@
 ---
 title: "Wild Goose"
 url: /twickenham/wild-goose/
-shop: Schuhe
+shop: shoes
 ---

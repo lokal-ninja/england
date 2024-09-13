@@ -1,5 +1,5 @@
 ---
 title: "Grimsby Model Centre"
 url: /grimsby/grimsby-model-centre/
-shop: Basteln
+shop: craft
 ---

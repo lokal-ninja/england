@@ -1,5 +1,5 @@
 ---
 title: "Shipmates"
 url: /fowey/shipmates/
-shop: Lebensmittel
+shop: convenience
 ---

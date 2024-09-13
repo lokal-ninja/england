@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /tewkesbury/betfred/
-shop: Wettbüro
+shop: bookmaker
 ---

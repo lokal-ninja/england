@@ -1,5 +1,5 @@
 ---
 title: "Evans Cycles"
 url: /cambridge/evans-cycles/
-shop: Fahrrad
+shop: bicycle
 ---

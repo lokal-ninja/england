@@ -1,5 +1,5 @@
 ---
 title: "Asda Express"
 url: /penzance/asda-express/
-shop: Lebensmittel
+shop: convenience
 ---

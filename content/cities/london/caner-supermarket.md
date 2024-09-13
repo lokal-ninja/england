@@ -1,5 +1,5 @@
 ---
 title: "Caner Supermarket"
 url: /london/caner-supermarket/
-shop: Lebensmittel
+shop: convenience
 ---

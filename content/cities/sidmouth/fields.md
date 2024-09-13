@@ -1,5 +1,5 @@
 ---
 title: "Fields"
 url: /sidmouth/fields/
-shop: Warenhaus
+shop: department store
 ---

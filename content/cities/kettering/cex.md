@@ -1,5 +1,5 @@
 ---
 title: "CeX"
 url: /kettering/cex/
-shop: Elektronik
+shop: electronics
 ---

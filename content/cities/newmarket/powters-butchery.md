@@ -1,5 +1,5 @@
 ---
 title: "Powter's Butchery"
 url: /newmarket/powters-butchery/
-shop: Metzgerei
+shop: butcher
 ---

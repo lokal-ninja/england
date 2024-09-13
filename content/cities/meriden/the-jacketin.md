@@ -1,5 +1,5 @@
 ---
 title: "The Jacketin"
 url: /meriden/the-jacketin/
-shop: Leerstehend
+shop: vacant
 ---

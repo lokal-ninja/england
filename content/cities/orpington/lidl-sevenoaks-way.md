@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /orpington/lidl-sevenoaks-way/
-shop: Supermarkt
+shop: supermarket
 ---

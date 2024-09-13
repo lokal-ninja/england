@@ -1,5 +1,5 @@
 ---
 title: "Heeley Bank Antiques"
 url: /sheffield/heeley-bank-antiques/
-shop: Möbel
+shop: furniture
 ---

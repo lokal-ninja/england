@@ -1,5 +1,5 @@
 ---
 title: "Milton Glass"
 url: /waterlooville/milton-glass/
-shop: Glaserei
+shop: glaziery
 ---

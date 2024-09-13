@@ -1,5 +1,5 @@
 ---
 title: "Welcome"
 url: /bristol/welcome/
-shop: Lebensmittel
+shop: convenience
 ---

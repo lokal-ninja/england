@@ -1,5 +1,5 @@
 ---
 title: "Southglade Convenience Store"
 url: /nottingham/southglade-convenience-store/
-shop: Lebensmittel
+shop: convenience
 ---

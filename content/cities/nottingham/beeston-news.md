@@ -1,5 +1,5 @@
 ---
 title: "Beeston News"
 url: /nottingham/beeston-news/
-shop: Zeitungen
+shop: newsagent
 ---

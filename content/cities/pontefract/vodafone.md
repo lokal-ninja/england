@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
 url: /pontefract/vodafone/
-shop: Handy
+shop: mobile phone
 ---

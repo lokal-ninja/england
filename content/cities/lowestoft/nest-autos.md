@@ -1,5 +1,5 @@
 ---
 title: "Nest Autos"
 url: /lowestoft/nest-autos/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Car and Kitchen"
 url: /settle/car-and-kitchen/
-shop: Raumausstattung
+shop: interior decoration
 ---

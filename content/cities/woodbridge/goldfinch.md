@@ -1,5 +1,5 @@
 ---
 title: "Goldfinch"
 url: /woodbridge/goldfinch/
-shop: Andenken
+shop: gift
 ---

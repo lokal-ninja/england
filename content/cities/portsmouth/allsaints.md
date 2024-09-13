@@ -1,5 +1,5 @@
 ---
 title: "AllSaints"
 url: /portsmouth/allsaints/
-shop: Kleidung
+shop: clothes
 ---

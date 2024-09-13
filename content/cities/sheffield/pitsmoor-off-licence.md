@@ -1,5 +1,5 @@
 ---
 title: "Pitsmoor Off Licence"
 url: /sheffield/pitsmoor-off-licence/
-shop: Lebensmittel
+shop: convenience
 ---

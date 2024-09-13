@@ -1,5 +1,5 @@
 ---
 title: "Rayan Store"
 url: /lincoln/rayan-store/
-shop: Lebensmittel
+shop: convenience
 ---

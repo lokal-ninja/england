@@ -1,5 +1,5 @@
 ---
 title: "Rayner"
 url: /bromyard/rayner/
-shop: Optiker
+shop: optician
 ---

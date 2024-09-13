@@ -1,5 +1,5 @@
 ---
 title: "The Bag Bar"
 url: /chelmsford/the-bag-bar/
-shop: Kiosk
+shop: kiosk
 ---

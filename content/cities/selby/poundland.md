@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /selby/poundland/
-shop: Kramladen
+shop: variety store
 ---

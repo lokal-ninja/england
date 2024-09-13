@@ -1,5 +1,5 @@
 ---
 title: "Billings"
 url: /london/billings/
-shop: Metzgerei
+shop: butcher
 ---

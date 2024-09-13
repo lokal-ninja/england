@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /diss/betfred/
-shop: Wettbüro
+shop: bookmaker
 ---

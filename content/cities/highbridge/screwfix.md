@@ -1,5 +1,5 @@
 ---
 title: "Screwfix"
 url: /highbridge/screwfix/
-shop: Baumarkt
+shop: doityourself
 ---

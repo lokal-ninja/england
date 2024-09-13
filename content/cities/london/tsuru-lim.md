@@ -1,5 +1,5 @@
 ---
 title: "Tsuru + Lim"
 url: /london/tsuru-lim/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /haywards-heath/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

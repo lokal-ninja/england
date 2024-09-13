@@ -1,5 +1,5 @@
 ---
 title: "Marvans"
 url: /brighton/marvans/
-shop: Zeitungen
+shop: newsagent
 ---

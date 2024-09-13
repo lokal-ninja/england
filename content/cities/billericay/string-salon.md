@@ -1,5 +1,5 @@
 ---
 title: "String Salon"
 url: /billericay/string-salon/
-shop: Instrumente
+shop: musical instrument
 ---

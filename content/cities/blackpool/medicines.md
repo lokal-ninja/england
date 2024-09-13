@@ -1,5 +1,5 @@
 ---
 title: "Medicines"
 url: /blackpool/medicines/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Robert Dyas"
 url: /grays/robert-dyas/
-shop: Haushaltsartikel
+shop: houseware
 ---

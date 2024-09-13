@@ -1,5 +1,5 @@
 ---
 title: "Quality Superstore"
 url: /aldershot/quality-superstore/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /brandon/tesco/
-shop: Supermarkt
+shop: supermarket
 ---

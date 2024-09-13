@@ -1,5 +1,5 @@
 ---
 title: "Lifestyle Drinks Express"
 url: /jarrow/lifestyle-drinks-express/
-shop: Spirituosen
+shop: alcohol
 ---

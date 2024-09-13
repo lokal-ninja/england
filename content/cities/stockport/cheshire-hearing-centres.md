@@ -1,5 +1,5 @@
 ---
 title: "Cheshire Hearing Centres"
 url: /stockport/cheshire-hearing-centres/
-shop: Hörgeräte
+shop: hearing aids
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Poundbakery"
 url: /widnes/poundbakery/
-shop: Bäckerei
+shop: bakery
 ---

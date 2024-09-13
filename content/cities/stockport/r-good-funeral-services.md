@@ -1,5 +1,5 @@
 ---
 title: "R. Good Funeral Services"
 url: /stockport/r-good-funeral-services/
-shop: Bestattungen
+shop: funeral directors
 ---

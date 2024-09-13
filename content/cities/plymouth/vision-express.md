@@ -1,5 +1,5 @@
 ---
 title: "Vision Express"
 url: /plymouth/vision-express/
-shop: Optiker
+shop: optician
 ---

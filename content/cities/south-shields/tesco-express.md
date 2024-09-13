@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /south-shields/tesco-express/
-shop: Lebensmittel
+shop: convenience
 ---

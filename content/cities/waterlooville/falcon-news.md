@@ -1,5 +1,5 @@
 ---
 title: "Falcon News"
 url: /waterlooville/falcon-news/
-shop: Lebensmittel
+shop: convenience
 ---

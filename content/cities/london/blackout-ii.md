@@ -1,5 +1,5 @@
 ---
 title: "Blackout II"
 url: /london/blackout-ii/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Honey Kanes"
 url: /whitstable/honey-kanes/
-shop: Süßwaren
+shop: confectionery
 ---

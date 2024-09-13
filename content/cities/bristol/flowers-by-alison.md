@@ -1,5 +1,5 @@
 ---
 title: "Flowers by Alison"
 url: /bristol/flowers-by-alison/
-shop: Blumen
+shop: florist
 ---

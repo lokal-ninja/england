@@ -1,5 +1,5 @@
 ---
 title: "Sweet Station"
 url: /brighton/sweet-station/
-shop: Lebensmittel
+shop: convenience
 ---

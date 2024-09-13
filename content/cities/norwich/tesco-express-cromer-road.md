@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /norwich/tesco-express-cromer-road/
-shop: Supermarkt
+shop: supermarket
 ---

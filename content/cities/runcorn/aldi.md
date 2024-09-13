@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /runcorn/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Paddy Power"
 url: /london/paddy-power-chalk-farm-road/
-shop: Wettbüro
+shop: bookmaker
 ---

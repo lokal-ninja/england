@@ -1,5 +1,5 @@
 ---
 title: "Dixons News"
 url: /eastbourne/dixons-news/
-shop: Lebensmittel
+shop: convenience
 ---

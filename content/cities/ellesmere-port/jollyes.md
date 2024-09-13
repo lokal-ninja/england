@@ -1,5 +1,5 @@
 ---
 title: "Jollyes"
 url: /ellesmere-port/jollyes/
-shop: Tiere
+shop: pet
 ---

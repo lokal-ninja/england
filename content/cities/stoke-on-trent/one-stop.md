@@ -1,5 +1,5 @@
 ---
 title: "One Stop"
 url: /stoke-on-trent/one-stop/
-shop: Lebensmittel
+shop: convenience
 ---

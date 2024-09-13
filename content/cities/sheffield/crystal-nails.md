@@ -1,5 +1,5 @@
 ---
 title: "Crystal Nails"
 url: /sheffield/crystal-nails/
-shop: Kosmetik
+shop: beauty
 ---

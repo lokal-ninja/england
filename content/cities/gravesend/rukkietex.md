@@ -1,5 +1,5 @@
 ---
 title: "Rukkietex"
 url: /gravesend/rukkietex/
-shop: Textil
+shop: fabric
 ---

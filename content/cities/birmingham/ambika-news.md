@@ -1,5 +1,5 @@
 ---
 title: "Ambika News"
 url: /birmingham/ambika-news/
-shop: Zeitungen
+shop: newsagent
 ---

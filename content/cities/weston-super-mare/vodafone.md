@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
 url: /weston-super-mare/vodafone/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /nottingham/aldi-daleside-road/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Edible Expressions"
 url: /leeds/edible-expressions/
-shop: Konditorei
+shop: pastry
 ---

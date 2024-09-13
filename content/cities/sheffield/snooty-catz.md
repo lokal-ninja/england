@@ -1,5 +1,5 @@
 ---
 title: "Snooty Catz"
 url: /sheffield/snooty-catz/
-shop: Andenken
+shop: gift
 ---

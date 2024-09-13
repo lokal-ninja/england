@@ -1,5 +1,5 @@
 ---
 title: "Edgars Nissan"
 url: /rowrah/edgars-nissan/
-shop: Autohaus
+shop: car
 ---

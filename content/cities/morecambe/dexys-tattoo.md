@@ -1,5 +1,5 @@
 ---
 title: "Dexy's Tattoo"
 url: /morecambe/dexys-tattoo/
-shop: Tattoo
+shop: tattoo
 ---

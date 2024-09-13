@@ -1,5 +1,5 @@
 ---
 title: "Esso"
 url: /stockport/esso/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Co-op Food"
 url: /whitstable/co-op-food-oxford-street/
-shop: Supermarkt
+shop: supermarket
 ---

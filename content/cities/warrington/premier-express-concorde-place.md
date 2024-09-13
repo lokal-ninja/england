@@ -1,5 +1,5 @@
 ---
 title: "Premier Express Concorde Place"
 url: /warrington/premier-express-concorde-place/
-shop: Lebensmittel
+shop: convenience
 ---

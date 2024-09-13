@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /cheltenham/whsmith/
-shop: Zeitungen
+shop: newsagent
 ---

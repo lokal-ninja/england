@@ -1,5 +1,5 @@
 ---
 title: "Australian Wines"
 url: /hyde/australian-wines/
-shop: Wein
+shop: wine
 ---

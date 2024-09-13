@@ -1,5 +1,5 @@
 ---
 title: "envy"
 url: /scunthorpe/envy/
-shop: Allgemein
+shop: shop
 ---

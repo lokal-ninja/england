@@ -1,5 +1,5 @@
 ---
 title: "Lambournes"
 url: /cheltenham/lambournes/
-shop: Metzgerei
+shop: butcher
 ---

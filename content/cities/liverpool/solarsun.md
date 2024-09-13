@@ -1,5 +1,5 @@
 ---
 title: "Solarsun"
 url: /liverpool/solarsun/
-shop: Kosmetik
+shop: beauty
 ---

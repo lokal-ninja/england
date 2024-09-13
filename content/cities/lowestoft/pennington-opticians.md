@@ -1,5 +1,5 @@
 ---
 title: "Pennington Opticians"
 url: /lowestoft/pennington-opticians/
-shop: Optiker
+shop: optician
 ---

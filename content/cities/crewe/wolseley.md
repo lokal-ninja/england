@@ -1,5 +1,5 @@
 ---
 title: "Wolseley"
 url: /crewe/wolseley/
-shop: Baustoffe
+shop: trade
 ---

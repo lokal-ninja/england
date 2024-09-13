@@ -1,5 +1,5 @@
 ---
 title: "Adnams"
 url: /holt/adnams/
-shop: Spirituosen
+shop: alcohol
 ---

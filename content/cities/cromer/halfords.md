@@ -1,5 +1,5 @@
 ---
 title: "Halfords"
 url: /cromer/halfords/
-shop: Autoteile
+shop: car parts
 ---

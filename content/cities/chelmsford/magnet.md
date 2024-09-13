@@ -1,5 +1,5 @@
 ---
 title: "Magnet"
 url: /chelmsford/magnet/
-shop: Küchen
+shop: kitchen
 ---

@@ -1,11 +1,11 @@
-id: 1050412645
-type: way
-latitude: 53.38231
-longitude: -1.46574
-postcode: "S1 2PN"
+id: 655448952
+type: node
+latitude: 53.36647
+longitude: -1.43727
+postcode: "S2 1GF"
 city: Sheffield
-street: "Arundel Gate"
-housenumber: 19
+street: "City Road"
+housenumber: 525
 phone: ""
-opening_hours: "24/7"
-website: ""
+opening_hours: ""
+website: "https://selectandsave.co.uk/"

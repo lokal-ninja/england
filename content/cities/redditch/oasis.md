@@ -1,5 +1,5 @@
 ---
 title: "Oasis"
 url: /redditch/oasis/
-shop: Friseur
+shop: hairdresser
 ---

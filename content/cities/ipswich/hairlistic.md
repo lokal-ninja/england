@@ -1,5 +1,5 @@
 ---
 title: "Hairlistic"
 url: /ipswich/hairlistic/
-shop: Friseur
+shop: hairdresser
 ---

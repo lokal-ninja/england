@@ -1,5 +1,5 @@
 ---
 title: "Stattooz"
 url: /great-yarmouth/stattooz/
-shop: Tattoo
+shop: tattoo
 ---

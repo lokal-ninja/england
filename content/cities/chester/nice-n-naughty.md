@@ -1,5 +1,5 @@
 ---
 title: "Nice 'n' Naughty"
 url: /chester/nice-n-naughty/
-shop: Erotik
+shop: erotic
 ---

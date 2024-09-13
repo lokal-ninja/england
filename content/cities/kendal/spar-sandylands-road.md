@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /kendal/spar-sandylands-road/
-shop: Lebensmittel
+shop: convenience
 ---

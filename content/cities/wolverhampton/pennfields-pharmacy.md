@@ -1,5 +1,5 @@
 ---
 title: "Pennfields Pharmacy"
 url: /wolverhampton/pennfields-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

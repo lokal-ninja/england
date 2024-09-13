@@ -1,5 +1,5 @@
 ---
 title: "PartyLOL"
 url: /surbiton/partylol/
-shop: Partyzubehör
+shop: party
 ---

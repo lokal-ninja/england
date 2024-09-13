@@ -1,5 +1,5 @@
 ---
 title: "Uppercuts"
 url: /stevenage/uppercuts/
-shop: Friseur
+shop: hairdresser
 ---

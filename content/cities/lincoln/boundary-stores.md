@@ -1,5 +1,5 @@
 ---
 title: "Boundary Stores"
 url: /lincoln/boundary-stores/
-shop: Lebensmittel
+shop: convenience
 ---

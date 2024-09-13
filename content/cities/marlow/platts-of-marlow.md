@@ -1,5 +1,5 @@
 ---
 title: "Platts of Marlow"
 url: /marlow/platts-of-marlow/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Blue Shop"
 url: /ashford/blue-shop/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Crustum"
 url: /chester/crustum/
-shop: Konditorei
+shop: pastry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Orwell Motorcycles"
 url: /ipswich/orwell-motorcycles/
-shop: Motorrad
+shop: motorcycle
 ---

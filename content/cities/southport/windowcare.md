@@ -1,5 +1,5 @@
 ---
 title: "Windowcare"
 url: /southport/windowcare/
-shop: Allgemein
+shop: shop
 ---

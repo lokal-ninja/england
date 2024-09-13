@@ -1,5 +1,5 @@
 ---
 title: "Gino's Barber"
 url: /northampton/ginos-barber/
-shop: Friseur
+shop: hairdresser
 ---

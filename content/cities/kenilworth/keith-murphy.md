@@ -1,5 +1,5 @@
 ---
 title: "Keith Murphy"
 url: /kenilworth/keith-murphy/
-shop: Optiker
+shop: optician
 ---

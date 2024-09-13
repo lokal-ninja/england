@@ -1,5 +1,5 @@
 ---
 title: "Harlequin"
 url: /cobham/harlequin/
-shop: Wäscherei
+shop: laundry
 ---

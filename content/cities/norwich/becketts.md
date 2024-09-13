@@ -1,5 +1,5 @@
 ---
 title: "Becketts"
 url: /norwich/becketts/
-shop: Kleidung
+shop: clothes
 ---

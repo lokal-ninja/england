@@ -1,5 +1,5 @@
 ---
 title: "Thoroughgoods"
 url: /preston/thoroughgoods/
-shop: Lebensmittel
+shop: convenience
 ---

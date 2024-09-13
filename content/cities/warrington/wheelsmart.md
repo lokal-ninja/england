@@ -1,5 +1,5 @@
 ---
 title: "WheelSmart"
 url: /warrington/wheelsmart/
-shop: Autowerkstatt
+shop: car repair
 ---

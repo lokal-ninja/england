@@ -1,5 +1,5 @@
 ---
 title: "Pollards Family Newsagent"
 url: /leeds/pollards-family-newsagent/
-shop: Zeitungen
+shop: newsagent
 ---

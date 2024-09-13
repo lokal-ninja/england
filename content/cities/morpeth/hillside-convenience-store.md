@@ -1,5 +1,5 @@
 ---
 title: "Hillside Convenience Store"
 url: /morpeth/hillside-convenience-store/
-shop: Lebensmittel
+shop: convenience
 ---

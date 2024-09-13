@@ -1,5 +1,5 @@
 ---
 title: "Empire"
 url: /banbury/empire/
-shop: Tattoo
+shop: tattoo
 ---

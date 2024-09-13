@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /eastleigh/poundland/
-shop: Kramladen
+shop: variety store
 ---

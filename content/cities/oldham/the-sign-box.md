@@ -1,5 +1,5 @@
 ---
 title: "The Sign Box"
 url: /oldham/the-sign-box/
-shop: Autowerkstatt
+shop: car repair
 ---

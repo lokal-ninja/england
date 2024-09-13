@@ -1,5 +1,5 @@
 ---
 title: "Stuart's"
 url: /ilkeston/stuarts/
-shop: Friseur
+shop: hairdresser
 ---

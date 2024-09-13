@@ -1,5 +1,5 @@
 ---
 title: "Booker Wholesale"
 url: /chelmsford/booker-wholesale/
-shop: Großhandel
+shop: wholesale
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Baltika"
 url: /kings-lynn/baltika/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Internet Cafe"
 url: /london/internet-cafe/
-shop: Handy
+shop: mobile phone
 ---

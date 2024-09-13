@@ -1,5 +1,5 @@
 ---
 title: "Purity"
 url: /london/purity/
-shop: Kosmetik
+shop: beauty
 ---

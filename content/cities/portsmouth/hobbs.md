@@ -1,5 +1,5 @@
 ---
 title: "Hobbs"
 url: /portsmouth/hobbs/
-shop: Kleidung
+shop: clothes
 ---

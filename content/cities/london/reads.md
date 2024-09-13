@@ -1,5 +1,5 @@
 ---
 title: "Reads"
 url: /london/reads/
-shop: Autowerkstatt
+shop: car repair
 ---

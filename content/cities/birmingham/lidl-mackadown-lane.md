@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /birmingham/lidl-mackadown-lane/
-shop: Supermarkt
+shop: supermarket
 ---

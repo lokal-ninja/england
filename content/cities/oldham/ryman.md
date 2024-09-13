@@ -1,5 +1,5 @@
 ---
 title: "Ryman"
 url: /oldham/ryman/
-shop: Schreibwaren
+shop: office supplies
 ---

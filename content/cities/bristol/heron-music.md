@@ -1,5 +1,5 @@
 ---
 title: "Heron Music"
 url: /bristol/heron-music/
-shop: Instrumente
+shop: musical instrument
 ---

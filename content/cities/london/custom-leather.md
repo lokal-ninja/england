@@ -1,5 +1,5 @@
 ---
 title: "Custom Leather"
 url: /london/custom-leather/
-shop: Leder
+shop: leather
 ---

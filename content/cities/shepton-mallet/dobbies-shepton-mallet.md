@@ -1,5 +1,5 @@
 ---
 title: "Dobbies Shepton Mallet"
 url: /shepton-mallet/dobbies-shepton-mallet/
-shop: Garten-Center
+shop: garden centre
 ---

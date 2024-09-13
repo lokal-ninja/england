@@ -1,5 +1,5 @@
 ---
 title: "Kabuki"
 url: /bristol/kabuki/
-shop: Kosmetik
+shop: beauty
 ---

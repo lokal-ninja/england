@@ -1,5 +1,5 @@
 ---
 title: "Bieluch Limited"
 url: /ilford/bieluch-limited/
-shop: Feinkost
+shop: deli
 ---

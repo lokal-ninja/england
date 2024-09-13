@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /huyton/decathlon/
-shop: Sport
+shop: sports
 ---

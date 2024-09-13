@@ -1,5 +1,5 @@
 ---
 title: "JW Rose"
 url: /nottingham/jw-rose/
-shop: Schmuck
+shop: jewelry
 ---

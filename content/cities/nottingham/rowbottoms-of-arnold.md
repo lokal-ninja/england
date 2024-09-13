@@ -1,5 +1,5 @@
 ---
 title: "Rowbottoms of Arnold"
 url: /nottingham/rowbottoms-of-arnold/
-shop: Metzgerei
+shop: butcher
 ---

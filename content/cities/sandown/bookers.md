@@ -1,5 +1,5 @@
 ---
 title: "Bookers"
 url: /sandown/bookers/
-shop: Großhandel
+shop: wholesale
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Boots"
 url: /eastleigh/boots/
-shop: Kosmetik
+shop: beauty
 ---

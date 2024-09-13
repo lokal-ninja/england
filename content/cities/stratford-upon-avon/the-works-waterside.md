@@ -1,5 +1,5 @@
 ---
 title: "The Works"
 url: /stratford-upon-avon/the-works-waterside/
-shop: Bücher
+shop: books
 ---

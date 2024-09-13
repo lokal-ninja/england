@@ -1,5 +1,5 @@
 ---
 title: "Ashton Vale Wine House"
 url: /bristol/ashton-vale-wine-house/
-shop: Spirituosen
+shop: alcohol
 ---

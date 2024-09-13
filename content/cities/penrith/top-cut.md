@@ -1,5 +1,5 @@
 ---
 title: "Top Cut"
 url: /penrith/top-cut/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Little Waitrose"
 url: /fakenham/little-waitrose/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /walsall/iceland-market-place/
-shop: Tiefkühl
+shop: frozen food
 ---

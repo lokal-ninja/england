@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /blackburn/coral/
-shop: Wettbüro
+shop: bookmaker
 ---

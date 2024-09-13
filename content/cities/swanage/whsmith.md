@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /swanage/whsmith/
-shop: Zeitungen
+shop: newsagent
 ---

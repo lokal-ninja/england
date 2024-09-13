@@ -1,5 +1,5 @@
 ---
 title: "Absolute"
 url: /leeds/absolute/
-shop: Kosmetik
+shop: beauty
 ---

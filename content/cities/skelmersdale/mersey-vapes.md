@@ -1,5 +1,5 @@
 ---
 title: "Mersey Vapes"
 url: /skelmersdale/mersey-vapes/
-shop: Allgemein
+shop: shop
 ---

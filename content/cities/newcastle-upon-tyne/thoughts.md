@@ -1,5 +1,5 @@
 ---
 title: "Thoughts"
 url: /newcastle-upon-tyne/thoughts/
-shop: Andenken
+shop: gift
 ---

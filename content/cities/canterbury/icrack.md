@@ -1,5 +1,5 @@
 ---
 title: "iCrack"
 url: /canterbury/icrack/
-shop: Handy
+shop: mobile phone
 ---

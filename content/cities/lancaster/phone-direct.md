@@ -1,5 +1,5 @@
 ---
 title: "Phone Direct"
 url: /lancaster/phone-direct/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Punch Opticians"
 url: /london/punch-opticians/
-shop: Optiker
+shop: optician
 ---

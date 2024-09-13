@@ -1,5 +1,5 @@
 ---
 title: "Peoples CBD"
 url: /hartlepool/peoples-cbd/
-shop: Hanf
+shop: cannabis
 ---

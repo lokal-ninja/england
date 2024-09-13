@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /pershore/londis/
-shop: Lebensmittel
+shop: convenience
 ---

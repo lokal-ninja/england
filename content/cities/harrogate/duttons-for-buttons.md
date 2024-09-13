@@ -1,5 +1,5 @@
 ---
 title: "Duttons for Buttons"
 url: /harrogate/duttons-for-buttons/
-shop: Allgemein
+shop: shop
 ---

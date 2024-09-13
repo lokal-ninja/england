@@ -1,5 +1,5 @@
 ---
 title: "Bargain Beer"
 url: /liverpool/bargain-beer/
-shop: Spirituosen
+shop: alcohol
 ---

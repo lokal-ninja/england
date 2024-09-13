@@ -1,5 +1,5 @@
 ---
 title: "Derby Mini Market"
 url: /derby/derby-mini-market/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Z Solutions"
 url: /newcastle-upon-tyne/z-solutions/
-shop: Handy
+shop: mobile phone
 ---

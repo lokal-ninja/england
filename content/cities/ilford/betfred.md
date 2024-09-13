@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /ilford/betfred/
-shop: Wettbüro
+shop: bookmaker
 ---

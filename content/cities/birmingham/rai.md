@@ -1,5 +1,5 @@
 ---
 title: "Rai"
 url: /birmingham/rai/
-shop: Supermarkt
+shop: supermarket
 ---

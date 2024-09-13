@@ -1,5 +1,5 @@
 ---
 title: "Tablites"
 url: /leeds/tablites/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

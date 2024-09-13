@@ -1,5 +1,5 @@
 ---
 title: "Saffron"
 url: /london/saffron/
-shop: Schmuck
+shop: jewelry
 ---

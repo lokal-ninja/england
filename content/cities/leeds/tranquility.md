@@ -1,5 +1,5 @@
 ---
 title: "Tranquility"
 url: /leeds/tranquility/
-shop: Kosmetik
+shop: beauty
 ---

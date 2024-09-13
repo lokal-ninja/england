@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /warrington/spar-winwick-road/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Argos"
 url: /ilford/argos/
-shop: Katalog
+shop: catalogue
 ---

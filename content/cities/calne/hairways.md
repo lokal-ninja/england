@@ -1,5 +1,5 @@
 ---
 title: "Hairways"
 url: /calne/hairways/
-shop: Friseur
+shop: hairdresser
 ---

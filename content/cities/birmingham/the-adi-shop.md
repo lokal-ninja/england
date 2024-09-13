@@ -1,5 +1,5 @@
 ---
 title: "The ADI Shop"
 url: /birmingham/the-adi-shop/
-shop: Autoteile
+shop: car parts
 ---

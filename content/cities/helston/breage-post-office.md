@@ -1,5 +1,5 @@
 ---
 title: "Breage Post Office"
 url: /helston/breage-post-office/
-shop: Zeitungen
+shop: newsagent
 ---

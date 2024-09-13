@@ -1,5 +1,5 @@
 ---
 title: "Hallmark"
 url: /hexham/hallmark/
-shop: Andenken
+shop: gift
 ---

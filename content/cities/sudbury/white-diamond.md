@@ -1,5 +1,5 @@
 ---
 title: "White Diamond"
 url: /sudbury/white-diamond/
-shop: Kosmetik
+shop: beauty
 ---

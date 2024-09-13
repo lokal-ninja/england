@@ -1,5 +1,5 @@
 ---
 title: "Pure"
 url: /london/pure/
-shop: Bioladen
+shop: health food
 ---

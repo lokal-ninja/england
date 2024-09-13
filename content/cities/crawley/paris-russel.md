@@ -1,5 +1,5 @@
 ---
 title: "Paris Russel"
 url: /crawley/paris-russel/
-shop: Friseur
+shop: hairdresser
 ---

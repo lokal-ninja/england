@@ -1,5 +1,5 @@
 ---
 title: "Cigara Vape Store"
 url: /london/cigara-vape-store/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /redruth/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

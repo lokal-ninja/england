@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /london/tesco-express-cabot-square/
-shop: Lebensmittel
+shop: convenience
 ---

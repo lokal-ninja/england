@@ -1,5 +1,5 @@
 ---
 title: "St Luke's"
 url: /tavistock/st-lukes/
-shop: Gebrauchtwaren
+shop: charity
 ---

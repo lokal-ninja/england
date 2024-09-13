@@ -1,5 +1,5 @@
 ---
 title: "ATS"
 url: /birmingham/ats/
-shop: Autowerkstatt
+shop: car repair
 ---

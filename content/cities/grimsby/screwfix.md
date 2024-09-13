@@ -1,5 +1,5 @@
 ---
 title: "Screwfix"
 url: /grimsby/screwfix/
-shop: Baumarkt
+shop: doityourself
 ---

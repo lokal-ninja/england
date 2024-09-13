@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /felixstowe/savers/
-shop: Drogerie
+shop: chemist
 ---

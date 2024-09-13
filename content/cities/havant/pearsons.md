@@ -1,5 +1,5 @@
 ---
 title: "Pearsons"
 url: /havant/pearsons/
-shop: Immobilien
+shop: estate agent
 ---

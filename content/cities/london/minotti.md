@@ -1,5 +1,5 @@
 ---
 title: "Minotti"
 url: /london/minotti/
-shop: Möbel
+shop: furniture
 ---

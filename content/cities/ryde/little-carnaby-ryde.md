@@ -1,5 +1,5 @@
 ---
 title: "Little Carnaby Ryde"
 url: /ryde/little-carnaby-ryde/
-shop: Gebrauchtwaren
+shop: charity
 ---

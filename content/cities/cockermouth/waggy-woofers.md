@@ -1,5 +1,5 @@
 ---
 title: "Waggy Woofers"
 url: /cockermouth/waggy-woofers/
-shop: Tiere
+shop: pet
 ---

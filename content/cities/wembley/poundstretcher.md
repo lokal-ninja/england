@@ -1,5 +1,5 @@
 ---
 title: "Poundstretcher"
 url: /wembley/poundstretcher/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Deckchair"
 url: /nottingham/deckchair/
-shop: Friseur
+shop: hairdresser
 ---

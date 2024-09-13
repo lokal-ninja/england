@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
 url: /cromer/vodafone/
-shop: Handy
+shop: mobile phone
 ---

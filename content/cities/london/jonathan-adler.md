@@ -1,5 +1,5 @@
 ---
 title: "Jonathan Adler"
 url: /london/jonathan-adler/
-shop: Haushaltsartikel
+shop: houseware
 ---

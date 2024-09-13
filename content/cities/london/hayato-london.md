@@ -1,5 +1,5 @@
 ---
 title: "Hayato London"
 url: /london/hayato-london/
-shop: Friseur
+shop: hairdresser
 ---

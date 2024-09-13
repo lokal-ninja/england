@@ -1,5 +1,5 @@
 ---
 title: "Pretty Knits"
 url: /darlington/pretty-knits/
-shop: Wolle
+shop: wool
 ---

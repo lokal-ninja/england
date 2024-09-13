@@ -1,5 +1,5 @@
 ---
 title: "EE"
 url: /aldershot/ee/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Farmfoods"
 url: /st-helens/farmfoods/
-shop: Tiefkühl
+shop: frozen food
 ---

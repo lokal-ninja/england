@@ -1,5 +1,5 @@
 ---
 title: "Pryor Automotive"
 url: /sheffield/pryor-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

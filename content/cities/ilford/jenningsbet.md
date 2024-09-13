@@ -1,5 +1,5 @@
 ---
 title: "JenningsBet"
 url: /ilford/jenningsbet/
-shop: Wettbüro
+shop: bookmaker
 ---

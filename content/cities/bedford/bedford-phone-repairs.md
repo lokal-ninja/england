@@ -1,5 +1,5 @@
 ---
 title: "Bedford Phone Repairs"
 url: /bedford/bedford-phone-repairs/
-shop: Handy
+shop: mobile phone
 ---

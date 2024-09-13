@@ -1,5 +1,5 @@
 ---
 title: "Kingfisher Giftwear"
 url: /ludlow/kingfisher-giftwear/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Petfood Shop"
 url: /evesham/the-petfood-shop/
-shop: Tiere
+shop: pet
 ---

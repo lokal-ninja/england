@@ -1,5 +1,5 @@
 ---
 title: "Audi Maidstone"
 url: /maidstone/audi-maidstone/
-shop: Autohaus
+shop: car
 ---

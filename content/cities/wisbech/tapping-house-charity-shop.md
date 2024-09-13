@@ -1,5 +1,5 @@
 ---
 title: "Tapping House Charity Shop"
 url: /wisbech/tapping-house-charity-shop/
-shop: Gebrauchtwaren
+shop: charity
 ---

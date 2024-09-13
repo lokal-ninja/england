@@ -1,5 +1,5 @@
 ---
 title: "Modern Line Bathrooms"
 url: /oldham/modern-line-bathrooms/
-shop: Badezimmer
+shop: bathroom
 ---

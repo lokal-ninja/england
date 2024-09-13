@@ -1,5 +1,5 @@
 ---
 title: "Cengiz"
 url: /preston/cengiz/
-shop: Friseur
+shop: hairdresser
 ---

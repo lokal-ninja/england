@@ -1,5 +1,5 @@
 ---
 title: "Stevens Pharmacy"
 url: /london/stevens-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

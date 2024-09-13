@@ -1,5 +1,5 @@
 ---
 title: "Budgens"
 url: /hordle/budgens/
-shop: Lebensmittel
+shop: convenience
 ---

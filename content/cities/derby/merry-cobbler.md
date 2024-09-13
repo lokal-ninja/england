@@ -1,5 +1,5 @@
 ---
 title: "Merry Cobbler"
 url: /derby/merry-cobbler/
-shop: Schuhe
+shop: shoes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Anti"
 url: /london/anti/
-shop: Kosmetik
+shop: beauty
 ---

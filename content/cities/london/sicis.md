@@ -1,5 +1,5 @@
 ---
 title: "Sicis"
 url: /london/sicis/
-shop: Raumausstattung
+shop: interior decoration
 ---

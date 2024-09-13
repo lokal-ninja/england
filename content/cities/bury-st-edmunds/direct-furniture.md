@@ -1,5 +1,5 @@
 ---
 title: "Direct Furniture"
 url: /bury-st-edmunds/direct-furniture/
-shop: Möbel
+shop: furniture
 ---

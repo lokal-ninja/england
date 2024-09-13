@@ -1,5 +1,5 @@
 ---
 title: "Lorimers"
 url: /coulsdon/lorimers/
-shop: Schreibwaren
+shop: office supplies
 ---

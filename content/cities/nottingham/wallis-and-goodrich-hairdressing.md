@@ -1,5 +1,5 @@
 ---
 title: "Wallis and Goodrich Hairdressing"
 url: /nottingham/wallis-and-goodrich-hairdressing/
-shop: Friseur
+shop: hairdresser
 ---

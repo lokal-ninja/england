@@ -1,5 +1,5 @@
 ---
 title: "Golden"
 url: /castleford/golden/
-shop: Friseur
+shop: hairdresser
 ---

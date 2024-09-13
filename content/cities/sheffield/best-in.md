@@ -1,5 +1,5 @@
 ---
 title: "Best-in"
 url: /sheffield/best-in/
-shop: Spirituosen
+shop: alcohol
 ---

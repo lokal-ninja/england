@@ -1,5 +1,5 @@
 ---
 title: "OMEGA Boutique"
 url: /manchester/omega-boutique/
-shop: Uhren
+shop: watches
 ---

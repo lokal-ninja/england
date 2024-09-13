@@ -1,5 +1,5 @@
 ---
 title: "Three."
 url: /gravesend/three/
-shop: Handy
+shop: mobile phone
 ---

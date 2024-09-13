@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /east-molesey/poundland/
-shop: Kramladen
+shop: variety store
 ---

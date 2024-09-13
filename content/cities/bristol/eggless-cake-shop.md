@@ -1,5 +1,5 @@
 ---
 title: "Eggless Cake Shop"
 url: /bristol/eggless-cake-shop/
-shop: Süßwaren
+shop: confectionery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /bedford/londis-london-road/
-shop: Lebensmittel
+shop: convenience
 ---

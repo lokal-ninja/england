@@ -1,5 +1,5 @@
 ---
 title: "Devon 4x4"
 url: /south-molton/devon-4x4/
-shop: Autoteile
+shop: car parts
 ---

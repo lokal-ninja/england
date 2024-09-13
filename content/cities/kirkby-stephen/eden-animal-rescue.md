@@ -1,5 +1,5 @@
 ---
 title: "Eden Animal Rescue"
 url: /kirkby-stephen/eden-animal-rescue/
-shop: Gebrauchtwaren
+shop: charity
 ---

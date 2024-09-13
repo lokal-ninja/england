@@ -1,5 +1,5 @@
 ---
 title: "Advanced Appearance"
 url: /birmingham/advanced-appearance/
-shop: Allgemein
+shop: shop
 ---

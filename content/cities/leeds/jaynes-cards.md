@@ -1,5 +1,5 @@
 ---
 title: "Jaynes Cards"
 url: /leeds/jaynes-cards/
-shop: Andenken
+shop: gift
 ---

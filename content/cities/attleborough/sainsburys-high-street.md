@@ -1,5 +1,5 @@
 ---
 title: "Sainsbury's"
 url: /attleborough/sainsburys-high-street/
-shop: Lebensmittel
+shop: convenience
 ---

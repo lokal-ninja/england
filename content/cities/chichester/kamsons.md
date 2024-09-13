@@ -1,5 +1,5 @@
 ---
 title: "Kamsons"
 url: /chichester/kamsons/
-shop: Drogerie
+shop: chemist
 ---

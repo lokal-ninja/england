@@ -1,5 +1,5 @@
 ---
 title: "Shampoodles"
 url: /sandown/shampoodles/
-shop: Tiersalon
+shop: pet grooming
 ---

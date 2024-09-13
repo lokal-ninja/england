@@ -1,5 +1,5 @@
 ---
 title: "Hays Travel"
 url: /preston/hays-travel/
-shop: Reisebüro
+shop: travel agency
 ---

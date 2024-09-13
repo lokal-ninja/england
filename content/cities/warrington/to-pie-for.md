@@ -1,5 +1,5 @@
 ---
 title: "To-Pie-For"
 url: /warrington/to-pie-for/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Safeware"
 url: /plymouth/safeware/
-shop: Kleidung
+shop: clothes
 ---

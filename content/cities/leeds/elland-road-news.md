@@ -1,5 +1,5 @@
 ---
 title: "Elland Road News"
 url: /leeds/elland-road-news/
-shop: Lebensmittel
+shop: convenience
 ---

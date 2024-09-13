@@ -1,5 +1,5 @@
 ---
 title: "Hawk Cycles"
 url: /coventry/hawk-cycles/
-shop: Fahrrad
+shop: bicycle
 ---

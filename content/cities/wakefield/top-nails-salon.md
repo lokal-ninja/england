@@ -1,5 +1,5 @@
 ---
 title: "Top Nails Salon"
 url: /wakefield/top-nails-salon/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Eyeconic London"
 url: /bolton/eyeconic-london/
-shop: Kosmetik
+shop: beauty
 ---

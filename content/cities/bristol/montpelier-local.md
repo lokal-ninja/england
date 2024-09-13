@@ -1,5 +1,5 @@
 ---
 title: "Montpelier Local"
 url: /bristol/montpelier-local/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Xtreme"
 url: /pontefract/xtreme/
-shop: Tattoo
+shop: tattoo
 ---

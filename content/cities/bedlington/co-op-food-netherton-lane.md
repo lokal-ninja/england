@@ -1,5 +1,5 @@
 ---
 title: "Co-op Food"
 url: /bedlington/co-op-food-netherton-lane/
-shop: Supermarkt
+shop: supermarket
 ---

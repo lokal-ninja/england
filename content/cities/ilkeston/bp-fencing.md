@@ -1,5 +1,5 @@
 ---
 title: "BP Fencing"
 url: /ilkeston/bp-fencing/
-shop: Allgemein
+shop: shop
 ---

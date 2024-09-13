@@ -1,5 +1,5 @@
 ---
 title: "Pelleymounters"
 url: /millom/pelleymounters/
-shop: Baumarkt
+shop: doityourself
 ---

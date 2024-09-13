@@ -1,5 +1,5 @@
 ---
 title: "Cheekee"
 url: /south-shields/cheekee/
-shop: Andenken
+shop: gift
 ---

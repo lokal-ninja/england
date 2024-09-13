@@ -1,5 +1,5 @@
 ---
 title: "Top Notch"
 url: /budleigh-salterton/top-notch/
-shop: Raumausstattung
+shop: interior decoration
 ---

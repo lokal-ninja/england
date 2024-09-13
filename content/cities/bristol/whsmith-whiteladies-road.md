@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /bristol/whsmith-whiteladies-road/
-shop: Zeitungen
+shop: newsagent
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ford"
 url: /braintree/ford/
-shop: Autohaus
+shop: car
 ---

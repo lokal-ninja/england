@@ -1,5 +1,5 @@
 ---
 title: "Fox Timber"
 url: /preston/fox-timber/
-shop: Baustoffe
+shop: trade
 ---

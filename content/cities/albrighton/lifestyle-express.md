@@ -1,5 +1,5 @@
 ---
 title: "Lifestyle Express"
 url: /albrighton/lifestyle-express/
-shop: Lebensmittel
+shop: convenience
 ---

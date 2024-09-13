@@ -1,5 +1,5 @@
 ---
 title: "Swiss Valley Garage"
 url: /clevedon/swiss-valley-garage/
-shop: Autohaus
+shop: car
 ---

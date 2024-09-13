@@ -1,5 +1,5 @@
 ---
 title: "Halfords"
 url: /aylesbury/halfords/
-shop: Autoteile
+shop: car parts
 ---

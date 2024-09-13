@@ -1,5 +1,5 @@
 ---
 title: "Rituals"
 url: /grays/rituals/
-shop: Kosmetik
+shop: beauty
 ---

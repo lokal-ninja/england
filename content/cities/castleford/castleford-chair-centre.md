@@ -1,5 +1,5 @@
 ---
 title: "Castleford Chair Centre"
 url: /castleford/castleford-chair-centre/
-shop: Möbel
+shop: furniture
 ---

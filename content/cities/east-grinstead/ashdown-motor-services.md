@@ -1,5 +1,5 @@
 ---
 title: "Ashdown Motor Services"
 url: /east-grinstead/ashdown-motor-services/
-shop: Autowerkstatt
+shop: car repair
 ---

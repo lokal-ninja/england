@@ -1,5 +1,5 @@
 ---
 title: "Mills Butchers"
 url: /hockley-heath/mills-butchers/
-shop: Metzgerei
+shop: butcher
 ---

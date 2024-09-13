@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /stockton-on-tees/lidl-yarm-road/
-shop: Supermarkt
+shop: supermarket
 ---

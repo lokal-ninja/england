@@ -1,5 +1,5 @@
 ---
 title: "Backstory"
 url: /london/backstory/
-shop: Bücher
+shop: books
 ---

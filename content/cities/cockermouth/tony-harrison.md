@@ -1,5 +1,5 @@
 ---
 title: "Tony Harrison"
 url: /cockermouth/tony-harrison/
-shop: Metzgerei
+shop: butcher
 ---

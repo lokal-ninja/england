@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /london/tesco-express-woodgrange-road/
-shop: Supermarkt
+shop: supermarket
 ---

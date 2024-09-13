@@ -1,5 +1,5 @@
 ---
 title: "Bliss"
 url: /newton-le-willows/bliss/
-shop: Kosmetik
+shop: beauty
 ---

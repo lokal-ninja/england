@@ -1,5 +1,5 @@
 ---
 title: "Cotswold Outdoor"
 url: /horsham/cotswold-outdoor/
-shop: Outdoor
+shop: outdoor
 ---

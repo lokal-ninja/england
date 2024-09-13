@@ -1,5 +1,5 @@
 ---
 title: "Boels"
 url: /leeds/boels/
-shop: Werkzeuge
+shop: tools
 ---

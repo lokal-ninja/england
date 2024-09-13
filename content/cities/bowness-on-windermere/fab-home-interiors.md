@@ -1,5 +1,5 @@
 ---
 title: "FAB Home Interiors"
 url: /bowness-on-windermere/fab-home-interiors/
-shop: Raumausstattung
+shop: interior decoration
 ---

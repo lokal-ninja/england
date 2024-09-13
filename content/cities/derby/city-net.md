@@ -1,5 +1,5 @@
 ---
 title: "City Net"
 url: /derby/city-net/
-shop: Allgemein
+shop: shop
 ---

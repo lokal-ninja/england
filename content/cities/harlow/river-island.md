@@ -1,5 +1,5 @@
 ---
 title: "River Island"
 url: /harlow/river-island/
-shop: Kleidung
+shop: clothes
 ---

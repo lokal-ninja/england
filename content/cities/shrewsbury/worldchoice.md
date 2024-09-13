@@ -1,5 +1,5 @@
 ---
 title: "Worldchoice"
 url: /shrewsbury/worldchoice/
-shop: Reisebüro
+shop: travel agency
 ---

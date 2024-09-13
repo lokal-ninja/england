@@ -1,5 +1,5 @@
 ---
 title: "Keelie's Beauty Salon"
 url: /hunstanton/keelies-beauty-salon/
-shop: Kosmetik
+shop: beauty
 ---

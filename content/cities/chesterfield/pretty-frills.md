@@ -1,5 +1,5 @@
 ---
 title: "Pretty Frills"
 url: /chesterfield/pretty-frills/
-shop: Kosmetik
+shop: beauty
 ---

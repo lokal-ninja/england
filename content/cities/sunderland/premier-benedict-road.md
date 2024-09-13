@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /sunderland/premier-benedict-road/
-shop: Lebensmittel
+shop: convenience
 ---

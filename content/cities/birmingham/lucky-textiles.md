@@ -1,5 +1,5 @@
 ---
 title: "Lucky Textiles"
 url: /birmingham/lucky-textiles/
-shop: Kleidung
+shop: clothes
 ---

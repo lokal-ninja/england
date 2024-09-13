@@ -1,5 +1,5 @@
 ---
 title: "Davies"
 url: /sheffield/davies/
-shop: Metzgerei
+shop: butcher
 ---

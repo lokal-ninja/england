@@ -1,5 +1,5 @@
 ---
 title: "Secret Ink Tattoo"
 url: /truro/secret-ink-tattoo/
-shop: Tattoo
+shop: tattoo
 ---

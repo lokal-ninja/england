@@ -1,5 +1,5 @@
 ---
 title: "WTC Walsend Test Centre"
 url: /wallsend/wtc-walsend-test-centre/
-shop: Autowerkstatt
+shop: car repair
 ---

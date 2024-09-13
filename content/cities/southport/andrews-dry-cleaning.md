@@ -1,5 +1,5 @@
 ---
-title: "andrews Dry Cleaning"
+title: "Andrews Dry Cleaning"
 url: /southport/andrews-dry-cleaning/
-shop: Wäscherei
+shop: laundry
 ---

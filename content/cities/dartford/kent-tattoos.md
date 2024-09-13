@@ -1,5 +1,5 @@
 ---
 title: "Kent Tattoos"
 url: /dartford/kent-tattoos/
-shop: Tattoo
+shop: tattoo
 ---

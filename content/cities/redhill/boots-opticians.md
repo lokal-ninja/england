@@ -1,5 +1,5 @@
 ---
 title: "Boots Opticians"
 url: /redhill/boots-opticians/
-shop: Optiker
+shop: optician
 ---

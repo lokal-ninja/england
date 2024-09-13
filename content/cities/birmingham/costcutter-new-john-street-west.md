@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /birmingham/costcutter-new-john-street-west/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Borough Wines"
 url: /london/borough-wines-battersea-park-road/
-shop: Wein
+shop: wine
 ---

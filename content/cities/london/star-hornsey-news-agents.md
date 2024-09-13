@@ -1,5 +1,5 @@
 ---
 title: "Star Hornsey News Agents"
 url: /london/star-hornsey-news-agents/
-shop: Zeitungen
+shop: newsagent
 ---

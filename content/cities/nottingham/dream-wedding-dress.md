@@ -1,5 +1,5 @@
 ---
 title: "Dream Wedding Dress"
 url: /nottingham/dream-wedding-dress/
-shop: Brautkleider
+shop: wedding gown
 ---

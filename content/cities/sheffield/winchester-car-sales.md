@@ -1,5 +1,5 @@
 ---
 title: "Winchester Car Sales"
 url: /sheffield/winchester-car-sales/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nash News"
 url: /northampton/nash-news/
-shop: Lebensmittel
+shop: convenience
 ---

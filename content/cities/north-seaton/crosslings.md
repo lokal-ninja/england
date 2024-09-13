@@ -1,5 +1,5 @@
 ---
 title: "Crosslings"
 url: /north-seaton/crosslings/
-shop: Eisenwaren
+shop: hardware
 ---

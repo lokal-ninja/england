@@ -1,5 +1,5 @@
 ---
 title: "Vivacious Nails"
 url: /hartlepool/vivacious-nails/
-shop: Kosmetik
+shop: beauty
 ---

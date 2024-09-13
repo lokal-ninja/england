@@ -1,5 +1,5 @@
 ---
 title: "Alauna Vapour Store"
 url: /whitehaven/alauna-vapour-store/
-shop: Allgemein
+shop: shop
 ---

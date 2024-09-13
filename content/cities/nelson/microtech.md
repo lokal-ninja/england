@@ -1,5 +1,5 @@
 ---
 title: "Microtech"
 url: /nelson/microtech/
-shop: Schreibwaren
+shop: office supplies
 ---

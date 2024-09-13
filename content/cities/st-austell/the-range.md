@@ -1,5 +1,5 @@
 ---
 title: "The Range"
 url: /st-austell/the-range/
-shop: Haushaltsartikel
+shop: houseware
 ---

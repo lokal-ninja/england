@@ -1,5 +1,5 @@
 ---
 title: "Market Street Stores"
 url: /blackpool/market-street-stores/
-shop: Zeitungen
+shop: newsagent
 ---

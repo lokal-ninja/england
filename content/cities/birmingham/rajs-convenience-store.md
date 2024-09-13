@@ -1,5 +1,5 @@
 ---
 title: "Raj's Convenience Store"
 url: /birmingham/rajs-convenience-store/
-shop: Lebensmittel
+shop: convenience
 ---

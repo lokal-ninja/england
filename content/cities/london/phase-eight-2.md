@@ -1,5 +1,5 @@
 ---
 title: "Phase Eight"
 url: /london/phase-eight-2/
-shop: Kleidung
+shop: clothes
 ---

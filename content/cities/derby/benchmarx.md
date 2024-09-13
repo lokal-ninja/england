@@ -1,5 +1,5 @@
 ---
 title: "Benchmarx"
 url: /derby/benchmarx/
-shop: Küchen
+shop: kitchen
 ---

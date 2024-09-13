@@ -1,5 +1,5 @@
 ---
 title: "Sea Breeze Supplies"
 url: /beadnell/sea-breeze-supplies/
-shop: Lebensmittel
+shop: convenience
 ---

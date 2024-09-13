@@ -1,5 +1,5 @@
 ---
 title: "Where Memories Meet"
 url: /maidstone/where-memories-meet/
-shop: Antiquitäten
+shop: antiques
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fone Gadgets"
 url: /twickenham/fone-gadgets/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

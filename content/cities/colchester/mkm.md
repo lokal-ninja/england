@@ -1,5 +1,5 @@
 ---
 title: "MKM"
 url: /colchester/mkm/
-shop: Küchen
+shop: kitchen
 ---

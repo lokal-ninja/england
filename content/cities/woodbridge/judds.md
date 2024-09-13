@@ -1,5 +1,5 @@
 ---
 title: "Judds"
 url: /woodbridge/judds/
-shop: Friseur
+shop: hairdresser
 ---

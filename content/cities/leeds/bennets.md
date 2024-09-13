@@ -1,5 +1,5 @@
 ---
 title: "Bennets"
 url: /leeds/bennets/
-shop: Metzgerei
+shop: butcher
 ---

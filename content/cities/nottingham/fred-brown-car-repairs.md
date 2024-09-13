@@ -1,5 +1,5 @@
 ---
 title: "Fred Brown Car Repairs"
 url: /nottingham/fred-brown-car-repairs/
-shop: Autowerkstatt
+shop: car repair
 ---

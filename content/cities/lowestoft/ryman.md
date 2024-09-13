@@ -1,5 +1,5 @@
 ---
 title: "Ryman"
 url: /lowestoft/ryman/
-shop: Schreibwaren
+shop: office supplies
 ---

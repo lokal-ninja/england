@@ -1,5 +1,5 @@
 ---
 title: "Nissan"
 url: /waterlooville/nissan/
-shop: Autohaus
+shop: car
 ---

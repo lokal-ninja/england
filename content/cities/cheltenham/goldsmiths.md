@@ -1,5 +1,5 @@
 ---
 title: "Goldsmiths"
 url: /cheltenham/goldsmiths/
-shop: Schmuck
+shop: jewelry
 ---

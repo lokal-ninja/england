@@ -1,5 +1,5 @@
 ---
 title: "Apothespa"
 url: /honiton/apothespa/
-shop: Kosmetik
+shop: beauty
 ---

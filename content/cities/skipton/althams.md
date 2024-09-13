@@ -1,5 +1,5 @@
 ---
 title: "Althams"
 url: /skipton/althams/
-shop: Reisebüro
+shop: travel agency
 ---

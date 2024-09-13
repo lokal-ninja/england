@@ -1,5 +1,5 @@
 ---
 title: "Era"
 url: /brighton/era/
-shop: Antiquitäten
+shop: antiques
 ---

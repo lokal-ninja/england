@@ -1,5 +1,5 @@
 ---
 title: "Sainsbury's"
 url: /york/sainsburys-foss-bank/
-shop: Supermarkt
+shop: supermarket
 ---

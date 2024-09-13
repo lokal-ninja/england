@@ -1,5 +1,5 @@
 ---
 title: "Fin Boys"
 url: /cambridge/fin-boys/
-shop: Fisch
+shop: seafood
 ---

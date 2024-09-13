@@ -1,5 +1,5 @@
 ---
-title: "pdsa"
+title: "PDSA"
 url: /bristol/pdsa/
-shop: Gebrauchtwaren
+shop: charity
 ---

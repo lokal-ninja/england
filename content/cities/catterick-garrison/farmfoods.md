@@ -1,5 +1,5 @@
 ---
 title: "Farmfoods"
 url: /catterick-garrison/farmfoods/
-shop: Tiefkühl
+shop: frozen food
 ---

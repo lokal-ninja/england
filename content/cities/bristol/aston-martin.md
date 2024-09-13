@@ -1,5 +1,5 @@
 ---
 title: "Aston Martin"
 url: /bristol/aston-martin/
-shop: Autohaus
+shop: car
 ---

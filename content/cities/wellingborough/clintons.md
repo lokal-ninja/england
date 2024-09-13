@@ -1,5 +1,5 @@
 ---
 title: "Clintons"
 url: /wellingborough/clintons/
-shop: Andenken
+shop: gift
 ---

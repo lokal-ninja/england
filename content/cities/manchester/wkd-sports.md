@@ -1,5 +1,5 @@
 ---
 title: "WKD Sports"
 url: /manchester/wkd-sports/
-shop: Sport
+shop: sports
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Celebrations"
 url: /saltburn-by-the-sea/celebrations/
-shop: Andenken
+shop: gift
 ---

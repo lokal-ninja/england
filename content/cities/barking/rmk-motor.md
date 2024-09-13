@@ -1,5 +1,5 @@
 ---
 title: "RMK Motor"
 url: /barking/rmk-motor/
-shop: Autowerkstatt
+shop: car repair
 ---

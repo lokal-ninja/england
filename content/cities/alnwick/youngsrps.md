@@ -1,5 +1,5 @@
 ---
 title: "youngsRPS"
 url: /alnwick/youngsrps/
-shop: Immobilien
+shop: estate agent
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hallmark"
 url: /abbots-langley/hallmark/
-shop: Schreibwaren
+shop: office supplies
 ---

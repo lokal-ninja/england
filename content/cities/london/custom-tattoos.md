@@ -1,5 +1,5 @@
 ---
 title: "Custom Tattoos"
 url: /london/custom-tattoos/
-shop: Tattoo
+shop: tattoo
 ---

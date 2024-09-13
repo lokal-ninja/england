@@ -1,5 +1,5 @@
 ---
 title: "Select"
 url: /mansfield/select/
-shop: Lebensmittel
+shop: convenience
 ---

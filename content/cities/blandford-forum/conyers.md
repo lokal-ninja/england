@@ -1,5 +1,5 @@
 ---
 title: "Conyers"
 url: /blandford-forum/conyers/
-shop: Warenhaus
+shop: department store
 ---

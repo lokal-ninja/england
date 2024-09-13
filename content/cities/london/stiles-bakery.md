@@ -1,5 +1,5 @@
 ---
 title: "Stiles Bakery"
 url: /london/stiles-bakery/
-shop: Bäckerei
+shop: bakery
 ---

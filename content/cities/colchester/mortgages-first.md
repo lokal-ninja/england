@@ -1,5 +1,5 @@
 ---
 title: "Mortgages First"
 url: /colchester/mortgages-first/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "H. Smith"
 url: /rotherham/h-smith/
-shop: Schmuck
+shop: jewelry
 ---

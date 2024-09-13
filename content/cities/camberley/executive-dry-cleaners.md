@@ -1,5 +1,5 @@
 ---
 title: "Executive Dry Cleaners"
 url: /camberley/executive-dry-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

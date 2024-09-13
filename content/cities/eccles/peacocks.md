@@ -1,5 +1,5 @@
 ---
 title: "Peacocks"
 url: /eccles/peacocks/
-shop: Kleidung
+shop: clothes
 ---

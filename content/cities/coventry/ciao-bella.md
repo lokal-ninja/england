@@ -1,5 +1,5 @@
 ---
 title: "Ciao Bella"
 url: /coventry/ciao-bella/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pricecutter"
 url: /bexhill-on-sea/pricecutter/
-shop: Lebensmittel
+shop: convenience
 ---

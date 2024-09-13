@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /embleton/londis/
-shop: Lebensmittel
+shop: convenience
 ---

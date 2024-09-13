@@ -1,5 +1,5 @@
 ---
 title: "Kilo"
 url: /leeds/kilo/
-shop: Kleidung
+shop: clothes
 ---

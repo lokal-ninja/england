@@ -1,5 +1,5 @@
 ---
 title: "Grape Tree"
 url: /exeter/grape-tree/
-shop: Bioladen
+shop: health food
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /runcorn/coral-linkway/
-shop: Wettbüro
+shop: bookmaker
 ---

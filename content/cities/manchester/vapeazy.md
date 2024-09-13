@@ -1,5 +1,5 @@
 ---
 title: "Vapeazy"
 url: /manchester/vapeazy/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Apple Bitcoins"
 url: /london/apple-bitcoins/
-shop: Computer
+shop: computer
 ---

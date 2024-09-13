@@ -1,5 +1,5 @@
 ---
 title: "Reality Hair"
 url: /filey/reality-hair/
-shop: Friseur
+shop: hairdresser
 ---

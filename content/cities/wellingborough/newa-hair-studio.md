@@ -1,5 +1,5 @@
 ---
 title: "Newa Hair Studio"
 url: /wellingborough/newa-hair-studio/
-shop: Friseur
+shop: hairdresser
 ---

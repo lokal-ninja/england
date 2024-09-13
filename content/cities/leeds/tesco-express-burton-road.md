@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /leeds/tesco-express-burton-road/
-shop: Lebensmittel
+shop: convenience
 ---

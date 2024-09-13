@@ -1,5 +1,5 @@
 ---
 title: "Skatewise"
 url: /norwich/skatewise/
-shop: Sport
+shop: sports
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bargain Brands"
 url: /ulverston/bargain-brands/
-shop: Kramladen
+shop: variety store
 ---

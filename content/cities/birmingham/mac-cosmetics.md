@@ -1,5 +1,5 @@
 ---
 title: "MAC Cosmetics"
 url: /birmingham/mac-cosmetics/
-shop: Kosmetik
+shop: beauty
 ---

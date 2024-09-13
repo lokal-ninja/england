@@ -1,5 +1,5 @@
 ---
 title: "Monsoon"
 url: /bristol/monsoon/
-shop: Kleidung
+shop: clothes
 ---

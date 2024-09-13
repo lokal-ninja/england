@@ -1,5 +1,5 @@
 ---
 title: "Aylestone Barber"
 url: /leicester/aylestone-barber/
-shop: Friseur
+shop: hairdresser
 ---

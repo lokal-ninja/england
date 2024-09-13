@@ -1,6 +1,6 @@
 ---
 title: Stubbington, Fareham
 url: /stubbington-fareham/
-latitude: 50.822
-longitude: -1.214
+latitude: 50.826
+longitude: -1.213
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PartsPlus"
 url: /chelmsford/partsplus/
-shop: Autowerkstatt
+shop: car repair
 ---

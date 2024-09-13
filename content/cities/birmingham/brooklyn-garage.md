@@ -1,5 +1,5 @@
 ---
 title: "Brooklyn Garage"
 url: /birmingham/brooklyn-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

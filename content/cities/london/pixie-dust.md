@@ -1,5 +1,5 @@
 ---
 title: "Pixie Dust"
 url: /london/pixie-dust/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Waltons"
 url: /reading/waltons/
-shop: Schmuck
+shop: jewelry
 ---

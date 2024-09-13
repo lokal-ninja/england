@@ -1,5 +1,5 @@
 ---
 title: "William Hill"
 url: /preston/william-hill-friargate/
-shop: Wettbüro
+shop: bookmaker
 ---

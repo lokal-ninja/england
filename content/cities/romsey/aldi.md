@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /romsey/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

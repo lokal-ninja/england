@@ -1,5 +1,5 @@
 ---
 title: "Humberts"
 url: /london/humberts/
-shop: Wäscherei
+shop: laundry
 ---

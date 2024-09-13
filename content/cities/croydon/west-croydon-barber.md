@@ -1,5 +1,5 @@
 ---
 title: "West Croydon Barber"
 url: /croydon/west-croydon-barber/
-shop: Friseur
+shop: hairdresser
 ---

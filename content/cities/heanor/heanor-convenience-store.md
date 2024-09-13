@@ -1,5 +1,5 @@
 ---
 title: "Heanor Convenience Store"
 url: /heanor/heanor-convenience-store/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Photographique"
 url: /bristol/photographique/
-shop: Foto
+shop: photo
 ---

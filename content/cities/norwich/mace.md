@@ -1,5 +1,5 @@
 ---
 title: "Mace"
 url: /norwich/mace/
-shop: Lebensmittel
+shop: convenience
 ---

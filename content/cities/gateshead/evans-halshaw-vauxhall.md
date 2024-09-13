@@ -1,5 +1,5 @@
 ---
 title: "Evans Halshaw - Vauxhall"
 url: /gateshead/evans-halshaw-vauxhall/
-shop: Autohaus
+shop: car
 ---

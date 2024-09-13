@@ -1,5 +1,5 @@
 ---
 title: "Penny Farthing"
 url: /east-grinstead/penny-farthing/
-shop: Schmuck
+shop: jewelry
 ---

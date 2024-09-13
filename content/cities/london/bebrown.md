@@ -1,5 +1,5 @@
 ---
 title: "BEBROWN"
 url: /london/bebrown/
-shop: Kosmetik
+shop: beauty
 ---

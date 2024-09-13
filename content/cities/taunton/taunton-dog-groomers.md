@@ -1,5 +1,5 @@
 ---
 title: "Taunton Dog Groomers"
 url: /taunton/taunton-dog-groomers/
-shop: Tiersalon
+shop: pet grooming
 ---

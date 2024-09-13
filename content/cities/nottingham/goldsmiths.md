@@ -1,5 +1,5 @@
 ---
 title: "Goldsmiths"
 url: /nottingham/goldsmiths/
-shop: Schmuck
+shop: jewelry
 ---

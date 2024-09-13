@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /barrow-in-furness/spar/
-shop: Lebensmittel
+shop: convenience
 ---

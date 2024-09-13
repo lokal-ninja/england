@@ -1,5 +1,5 @@
 ---
 title: "Pattisons"
 url: /epsom/pattisons/
-shop: Bäckerei
+shop: bakery
 ---

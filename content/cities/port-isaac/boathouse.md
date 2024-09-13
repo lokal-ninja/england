@@ -1,5 +1,5 @@
 ---
 title: "Boathouse"
 url: /port-isaac/boathouse/
-shop: Andenken
+shop: gift
 ---

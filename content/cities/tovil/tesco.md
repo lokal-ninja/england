@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /tovil/tesco/
-shop: Supermarkt
+shop: supermarket
 ---

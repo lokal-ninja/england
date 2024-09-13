@@ -1,5 +1,5 @@
 ---
 title: "OneBelow"
 url: /redcar/onebelow/
-shop: Kramladen
+shop: variety store
 ---

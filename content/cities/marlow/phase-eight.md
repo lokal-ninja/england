@@ -1,5 +1,5 @@
 ---
 title: "Phase Eight"
 url: /marlow/phase-eight/
-shop: Kleidung
+shop: clothes
 ---

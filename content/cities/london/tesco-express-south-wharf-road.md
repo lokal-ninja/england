@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /london/tesco-express-south-wharf-road/
-shop: Lebensmittel
+shop: convenience
 ---

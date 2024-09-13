@@ -1,5 +1,5 @@
 ---
 title: "Lees Optical"
 url: /oldham/lees-optical/
-shop: Optiker
+shop: optician
 ---

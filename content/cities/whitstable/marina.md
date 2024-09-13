@@ -1,5 +1,5 @@
 ---
 title: "Marina"
 url: /whitstable/marina/
-shop: Kleidung
+shop: clothes
 ---

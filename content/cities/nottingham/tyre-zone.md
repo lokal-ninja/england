@@ -1,5 +1,5 @@
 ---
 title: "Tyre Zone"
 url: /nottingham/tyre-zone/
-shop: Reifen
+shop: tyres
 ---

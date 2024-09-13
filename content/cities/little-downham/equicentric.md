@@ -1,5 +1,5 @@
 ---
 title: "Equicentric"
 url: /little-downham/equicentric/
-shop: Pferde
+shop: equestrian
 ---

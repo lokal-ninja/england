@@ -1,5 +1,5 @@
 ---
 title: "Raymonds Hair Studio"
 url: /harwich/raymonds-hair-studio/
-shop: Friseur
+shop: hairdresser
 ---

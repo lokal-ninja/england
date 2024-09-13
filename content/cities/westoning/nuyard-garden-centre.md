@@ -1,5 +1,5 @@
 ---
 title: "Nuyard Garden Centre"
 url: /westoning/nuyard-garden-centre/
-shop: Garten-Center
+shop: garden centre
 ---

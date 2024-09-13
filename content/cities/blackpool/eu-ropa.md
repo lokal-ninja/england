@@ -1,5 +1,5 @@
 ---
 title: "EU.Ropa"
 url: /blackpool/eu-ropa/
-shop: Lebensmittel
+shop: convenience
 ---

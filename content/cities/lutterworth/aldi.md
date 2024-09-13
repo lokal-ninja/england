@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /lutterworth/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

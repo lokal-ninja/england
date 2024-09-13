@@ -1,5 +1,5 @@
 ---
 title: "GMC News"
 url: /nottingham/gmc-news/
-shop: Lebensmittel
+shop: convenience
 ---

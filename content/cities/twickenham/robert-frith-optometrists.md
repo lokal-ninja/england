@@ -1,5 +1,5 @@
 ---
 title: "Robert Frith Optometrists"
 url: /twickenham/robert-frith-optometrists/
-shop: Optiker
+shop: optician
 ---

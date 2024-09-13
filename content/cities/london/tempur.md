@@ -1,5 +1,5 @@
 ---
 title: "Tempur"
 url: /london/tempur/
-shop: Betten
+shop: bed
 ---

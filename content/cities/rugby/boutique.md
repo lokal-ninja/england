@@ -1,5 +1,5 @@
 ---
 title: "Boutique"
 url: /rugby/boutique/
-shop: Friseur
+shop: hairdresser
 ---

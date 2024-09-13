@@ -1,5 +1,5 @@
 ---
 title: "TUI"
 url: /harrogate/tui/
-shop: Reisebüro
+shop: travel agency
 ---

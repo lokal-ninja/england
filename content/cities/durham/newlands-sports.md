@@ -1,5 +1,5 @@
 ---
 title: "Newlands Sports"
 url: /durham/newlands-sports/
-shop: Sport
+shop: sports
 ---

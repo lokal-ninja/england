@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /honiton/whsmith/
-shop: Bücher
+shop: books
 ---

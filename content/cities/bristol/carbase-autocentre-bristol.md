@@ -1,5 +1,5 @@
 ---
 title: "Carbase Autocentre - Bristol"
 url: /bristol/carbase-autocentre-bristol/
-shop: Autowerkstatt
+shop: car repair
 ---

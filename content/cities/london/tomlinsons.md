@@ -1,5 +1,5 @@
 ---
 title: "Tomlinsons"
 url: /london/tomlinsons/
-shop: Andenken
+shop: gift
 ---

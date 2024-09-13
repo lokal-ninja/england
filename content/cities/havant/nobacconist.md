@@ -1,5 +1,5 @@
 ---
 title: "Nobacconist"
 url: /havant/nobacconist/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Billie's Beauty"
 url: /whitehaven/billies-beauty/
-shop: Kosmetik
+shop: beauty
 ---

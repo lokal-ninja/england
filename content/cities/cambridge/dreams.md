@@ -1,5 +1,5 @@
 ---
 title: "Dreams"
 url: /cambridge/dreams/
-shop: Betten
+shop: bed
 ---

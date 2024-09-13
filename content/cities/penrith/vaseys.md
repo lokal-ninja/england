@@ -1,5 +1,5 @@
 ---
 title: "Vaseys"
 url: /penrith/vaseys/
-shop: Möbel
+shop: furniture
 ---

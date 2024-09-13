@@ -1,5 +1,5 @@
 ---
 title: "Halfords"
 url: /reading/halfords-rose-kiln-lane/
-shop: Fahrrad
+shop: car parts
 ---

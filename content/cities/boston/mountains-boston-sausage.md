@@ -1,5 +1,5 @@
 ---
 title: "Mountain's Boston Sausage"
 url: /boston/mountains-boston-sausage/
-shop: Metzgerei
+shop: butcher
 ---

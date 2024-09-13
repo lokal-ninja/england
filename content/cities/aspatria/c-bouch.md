@@ -1,5 +1,5 @@
 ---
 title: "C. Bouch"
 url: /aspatria/c-bouch/
-shop: Allgemein
+shop: shop
 ---

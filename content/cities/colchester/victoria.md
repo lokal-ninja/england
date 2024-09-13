@@ -1,5 +1,5 @@
 ---
 title: "Victoria"
 url: /colchester/victoria/
-shop: Schmuck
+shop: jewelry
 ---

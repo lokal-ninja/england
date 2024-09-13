@@ -1,5 +1,5 @@
 ---
 title: "Budgens"
 url: /kettering/budgens-gotch-road/
-shop: Supermarkt
+shop: supermarket
 ---

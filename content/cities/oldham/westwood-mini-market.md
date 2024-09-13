@@ -1,5 +1,5 @@
 ---
 title: "Westwood Mini Market"
 url: /oldham/westwood-mini-market/
-shop: Lebensmittel
+shop: convenience
 ---

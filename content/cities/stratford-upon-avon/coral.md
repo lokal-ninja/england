@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /stratford-upon-avon/coral/
-shop: Wettbüro
+shop: bookmaker
 ---

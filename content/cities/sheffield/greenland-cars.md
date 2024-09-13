@@ -1,5 +1,5 @@
 ---
 title: "Greenland Cars"
 url: /sheffield/greenland-cars/
-shop: Autohaus
+shop: car
 ---

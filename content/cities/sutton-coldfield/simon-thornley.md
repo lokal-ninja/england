@@ -1,5 +1,5 @@
 ---
 title: "Simon Thornley"
 url: /sutton-coldfield/simon-thornley/
-shop: Friseur
+shop: hairdresser
 ---

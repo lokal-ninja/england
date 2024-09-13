@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /st-austell/betfred/
-shop: Wettbüro
+shop: bookmaker
 ---

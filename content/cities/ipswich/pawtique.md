@@ -1,5 +1,5 @@
 ---
 title: "Pawtique"
 url: /ipswich/pawtique/
-shop: Tiersalon
+shop: pet grooming
 ---

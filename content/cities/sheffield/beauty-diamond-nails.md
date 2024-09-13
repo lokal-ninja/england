@@ -1,5 +1,5 @@
 ---
 title: "Beauty Diamond Nails"
 url: /sheffield/beauty-diamond-nails/
-shop: Kosmetik
+shop: beauty
 ---

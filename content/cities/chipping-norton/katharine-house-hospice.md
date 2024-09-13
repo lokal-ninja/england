@@ -1,5 +1,5 @@
 ---
 title: "Katharine House Hospice"
 url: /chipping-norton/katharine-house-hospice/
-shop: Gebrauchtwaren
+shop: charity
 ---

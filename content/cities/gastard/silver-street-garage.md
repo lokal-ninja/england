@@ -1,5 +1,5 @@
 ---
 title: "Silver Street Garage"
 url: /gastard/silver-street-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

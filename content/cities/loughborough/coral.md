@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /loughborough/coral/
-shop: Wettbüro
+shop: bookmaker
 ---

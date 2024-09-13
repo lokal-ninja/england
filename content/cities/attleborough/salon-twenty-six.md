@@ -1,5 +1,5 @@
 ---
 title: "Salon Twenty Six"
 url: /attleborough/salon-twenty-six/
-shop: Friseur
+shop: hairdresser
 ---

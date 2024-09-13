@@ -1,5 +1,5 @@
 ---
 title: "Dunelm"
 url: /bromborough/dunelm/
-shop: Raumausstattung
+shop: interior decoration
 ---

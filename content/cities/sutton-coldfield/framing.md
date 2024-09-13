@@ -1,5 +1,5 @@
 ---
 title: "Framing"
 url: /sutton-coldfield/framing/
-shop: Allgemein
+shop: shop
 ---

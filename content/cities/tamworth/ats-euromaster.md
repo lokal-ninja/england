@@ -1,5 +1,5 @@
 ---
 title: "ATS Euromaster"
 url: /tamworth/ats-euromaster/
-shop: Autowerkstatt
+shop: car repair
 ---

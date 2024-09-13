@@ -1,5 +1,5 @@
 ---
 title: "Durrants"
 url: /london/durrants/
-shop: Schmuck
+shop: jewelry
 ---

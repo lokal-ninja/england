@@ -1,5 +1,5 @@
 ---
 title: "Universal Works"
 url: /london/universal-works-lambs-conduit-street/
-shop: Kleidung
+shop: clothes
 ---

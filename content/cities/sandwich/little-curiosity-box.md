@@ -1,5 +1,5 @@
 ---
 title: "Little Curiosity Box"
 url: /sandwich/little-curiosity-box/
-shop: Andenken
+shop: gift
 ---

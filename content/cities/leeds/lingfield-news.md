@@ -1,5 +1,5 @@
 ---
 title: "Lingfield News"
 url: /leeds/lingfield-news/
-shop: Zeitungen
+shop: newsagent
 ---

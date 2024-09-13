@@ -1,5 +1,5 @@
 ---
 title: "True Gents Barbershop"
 url: /oldham/true-gents-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

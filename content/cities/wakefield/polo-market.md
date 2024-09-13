@@ -1,5 +1,5 @@
 ---
 title: "Polo Market"
 url: /wakefield/polo-market/
-shop: Lebensmittel
+shop: convenience
 ---

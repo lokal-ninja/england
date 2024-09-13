@@ -1,5 +1,5 @@
 ---
 title: "Sainsbury's Local"
 url: /london/sainsburys-local-walm-lane/
-shop: Lebensmittel
+shop: convenience
 ---

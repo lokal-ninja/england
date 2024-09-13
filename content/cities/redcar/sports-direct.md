@@ -1,5 +1,5 @@
 ---
 title: "Sports Direct"
 url: /redcar/sports-direct/
-shop: Sport
+shop: sports
 ---

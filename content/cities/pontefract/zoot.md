@@ -1,5 +1,5 @@
 ---
 title: "Zoot"
 url: /pontefract/zoot/
-shop: Kleidung
+shop: clothes
 ---

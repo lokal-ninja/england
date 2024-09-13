@@ -1,5 +1,5 @@
 ---
 title: "Farmfoods"
 url: /chesterfield/farmfoods/
-shop: Tiefkühl
+shop: frozen food
 ---

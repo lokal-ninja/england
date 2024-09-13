@@ -1,5 +1,5 @@
 ---
 title: "Allsorts"
 url: /wakefield/allsorts/
-shop: Haushaltsartikel
+shop: houseware
 ---

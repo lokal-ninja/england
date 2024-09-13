@@ -1,5 +1,5 @@
 ---
 title: "Todays Express"
 url: /york/todays-express/
-shop: Lebensmittel
+shop: convenience
 ---

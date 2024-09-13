@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /wantage/savers/
-shop: Drogerie
+shop: chemist
 ---

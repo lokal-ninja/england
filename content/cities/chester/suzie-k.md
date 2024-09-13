@@ -1,5 +1,5 @@
 ---
 title: "Suzie K"
 url: /chester/suzie-k/
-shop: Kosmetik
+shop: beauty
 ---

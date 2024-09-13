@@ -1,5 +1,5 @@
 ---
 title: "Budgens"
 url: /rugby/budgens/
-shop: Lebensmittel
+shop: convenience
 ---

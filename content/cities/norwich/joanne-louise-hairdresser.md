@@ -1,5 +1,5 @@
 ---
 title: "Joanne Louise Hairdresser"
 url: /norwich/joanne-louise-hairdresser/
-shop: Friseur
+shop: hairdresser
 ---

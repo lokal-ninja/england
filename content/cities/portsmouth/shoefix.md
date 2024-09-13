@@ -1,5 +1,5 @@
 ---
 title: "Shoefix"
 url: /portsmouth/shoefix/
-shop: Schuhe
+shop: shoes
 ---

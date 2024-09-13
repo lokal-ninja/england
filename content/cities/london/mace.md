@@ -1,5 +1,5 @@
 ---
 title: "Mace"
 url: /london/mace/
-shop: Lebensmittel
+shop: convenience
 ---

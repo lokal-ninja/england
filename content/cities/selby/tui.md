@@ -1,5 +1,5 @@
 ---
 title: "TUI"
 url: /selby/tui/
-shop: Reisebüro
+shop: travel agency
 ---

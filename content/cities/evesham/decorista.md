@@ -1,5 +1,5 @@
 ---
 title: "Decorista"
 url: /evesham/decorista/
-shop: Raumausstattung
+shop: interior decoration
 ---

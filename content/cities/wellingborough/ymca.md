@@ -1,5 +1,5 @@
 ---
 title: "YMCA"
 url: /wellingborough/ymca/
-shop: Gebrauchtwaren
+shop: charity
 ---

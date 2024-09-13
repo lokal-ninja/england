@@ -1,5 +1,5 @@
 ---
 title: "Pure Beauty"
 url: /newcastle-upon-tyne/pure-beauty/
-shop: Kosmetik
+shop: beauty
 ---

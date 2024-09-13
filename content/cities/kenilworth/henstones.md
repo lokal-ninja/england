@@ -1,5 +1,5 @@
 ---
 title: "Henstones"
 url: /kenilworth/henstones/
-shop: Friseur
+shop: hairdresser
 ---

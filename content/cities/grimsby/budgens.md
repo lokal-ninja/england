@@ -1,5 +1,5 @@
 ---
 title: "Budgens"
 url: /grimsby/budgens/
-shop: Lebensmittel
+shop: convenience
 ---

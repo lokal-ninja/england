@@ -1,5 +1,5 @@
 ---
 title: "Tony's Deli"
 url: /london/tonys-deli/
-shop: Feinkost
+shop: deli
 ---

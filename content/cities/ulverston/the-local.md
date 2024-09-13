@@ -1,5 +1,5 @@
 ---
 title: "The Local"
 url: /ulverston/the-local/
-shop: Lebensmittel
+shop: convenience
 ---

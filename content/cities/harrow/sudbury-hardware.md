@@ -1,5 +1,5 @@
 ---
 title: "Sudbury Hardware"
 url: /harrow/sudbury-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

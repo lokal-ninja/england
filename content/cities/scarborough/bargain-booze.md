@@ -1,5 +1,5 @@
 ---
 title: "Bargain Booze"
 url: /scarborough/bargain-booze/
-shop: Spirituosen
+shop: alcohol
 ---

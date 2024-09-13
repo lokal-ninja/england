@@ -1,5 +1,5 @@
 ---
 title: "PoundPlus"
 url: /bolton/poundplus/
-shop: Kramladen
+shop: variety store
 ---

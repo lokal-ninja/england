@@ -1,5 +1,5 @@
 ---
 title: "Thornbury Motors"
 url: /bristol/thornbury-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

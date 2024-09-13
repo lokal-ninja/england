@@ -1,5 +1,5 @@
 ---
 title: "Shekhinah"
 url: /plymouth/shekhinah/
-shop: Gebrauchtwaren
+shop: charity
 ---

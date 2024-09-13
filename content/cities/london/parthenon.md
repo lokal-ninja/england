@@ -1,5 +1,5 @@
 ---
 title: "Parthenon"
 url: /london/parthenon/
-shop: Antiquitäten
+shop: antiques
 ---

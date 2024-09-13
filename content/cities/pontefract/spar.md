@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /pontefract/spar/
-shop: Lebensmittel
+shop: convenience
 ---

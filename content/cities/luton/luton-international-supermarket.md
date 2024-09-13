@@ -1,5 +1,5 @@
 ---
 title: "Luton International Supermarket"
 url: /luton/luton-international-supermarket/
-shop: Spirituosen
+shop: alcohol
 ---

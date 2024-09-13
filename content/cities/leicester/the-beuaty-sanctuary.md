@@ -1,5 +1,5 @@
 ---
 title: "The beuaty sanctuary"
 url: /leicester/the-beuaty-sanctuary/
-shop: Kosmetik
+shop: beauty
 ---

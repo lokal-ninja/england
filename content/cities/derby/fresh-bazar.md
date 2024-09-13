@@ -1,5 +1,5 @@
 ---
 title: "Fresh Bazar"
 url: /derby/fresh-bazar/
-shop: Lebensmittel
+shop: convenience
 ---

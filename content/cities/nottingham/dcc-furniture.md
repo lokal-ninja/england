@@ -1,5 +1,5 @@
 ---
 title: "DCC Furniture"
 url: /nottingham/dcc-furniture/
-shop: Möbel
+shop: furniture
 ---

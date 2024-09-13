@@ -1,5 +1,5 @@
 ---
 title: "Kats Hair Design"
 url: /east-grinstead/kats-hair-design/
-shop: Friseur
+shop: hairdresser
 ---

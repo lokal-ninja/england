@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /sutton-coldfield/poundland-lichfield-road/
-shop: Kramladen
+shop: variety store
 ---

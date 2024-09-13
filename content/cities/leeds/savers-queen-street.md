@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /leeds/savers-queen-street/
-shop: Drogerie
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Edmondson's Fresh Fish"
 url: /morecambe/edmondsons-fresh-fish/
-shop: Fisch
+shop: seafood
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Novilho de Ouro"
 url: /london/novilho-de-ouro/
-shop: Metzgerei
+shop: butcher
 ---

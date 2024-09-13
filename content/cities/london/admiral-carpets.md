@@ -1,5 +1,5 @@
 ---
 title: "Admiral Carpets"
 url: /london/admiral-carpets/
-shop: Teppiche
+shop: carpet
 ---

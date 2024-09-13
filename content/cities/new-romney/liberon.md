@@ -1,5 +1,5 @@
 ---
 title: "Liberon"
 url: /new-romney/liberon/
-shop: Raumausstattung
+shop: interior decoration
 ---

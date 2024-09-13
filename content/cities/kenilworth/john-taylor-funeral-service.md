@@ -1,5 +1,5 @@
 ---
 title: "John Taylor Funeral Service"
 url: /kenilworth/john-taylor-funeral-service/
-shop: Bestattungen
+shop: funeral directors
 ---

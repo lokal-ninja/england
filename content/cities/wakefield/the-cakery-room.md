@@ -1,5 +1,5 @@
 ---
 title: "The Cakery Room"
 url: /wakefield/the-cakery-room/
-shop: Bäckerei
+shop: bakery
 ---

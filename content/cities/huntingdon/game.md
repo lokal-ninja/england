@@ -1,5 +1,5 @@
 ---
 title: "Game"
 url: /huntingdon/game/
-shop: Videospiele
+shop: video games
 ---

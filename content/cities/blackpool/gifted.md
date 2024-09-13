@@ -1,5 +1,5 @@
 ---
 title: "Gifted"
 url: /blackpool/gifted/
-shop: Andenken
+shop: gift
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hounds Kitchen"
 url: /warrington/hounds-kitchen/
-shop: Tiere
+shop: pet
 ---

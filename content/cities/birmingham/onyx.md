@@ -1,5 +1,5 @@
 ---
 title: "Onyx"
 url: /birmingham/onyx/
-shop: Schmuck
+shop: jewelry
 ---

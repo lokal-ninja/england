@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /luton/tesco-express-eaton-green-road/
-shop: Supermarkt
+shop: supermarket
 ---

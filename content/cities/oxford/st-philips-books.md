@@ -1,5 +1,5 @@
 ---
 title: "St Philip's Books"
 url: /oxford/st-philips-books/
-shop: Bücher
+shop: books
 ---

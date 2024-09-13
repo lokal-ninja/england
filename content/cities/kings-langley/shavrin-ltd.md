@@ -1,5 +1,5 @@
 ---
 title: "Shavrin Ltd"
 url: /kings-langley/shavrin-ltd/
-shop: Allgemein
+shop: shop
 ---

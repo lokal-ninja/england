@@ -1,5 +1,5 @@
 ---
 title: "Dattani Brothers"
 url: /wakefield/dattani-brothers/
-shop: Dorfladen
+shop: general
 ---

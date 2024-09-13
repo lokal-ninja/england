@@ -1,5 +1,5 @@
 ---
 title: "Mountain Warehouse"
 url: /ulverston/mountain-warehouse/
-shop: Outdoor
+shop: outdoor
 ---

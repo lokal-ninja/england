@@ -1,5 +1,5 @@
 ---
 title: "Nespresso"
 url: /bristol/nespresso/
-shop: Feinkost
+shop: deli
 ---

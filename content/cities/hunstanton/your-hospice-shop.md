@@ -1,5 +1,5 @@
 ---
 title: "Your Hospice Shop"
 url: /hunstanton/your-hospice-shop/
-shop: Gebrauchtwaren
+shop: charity
 ---

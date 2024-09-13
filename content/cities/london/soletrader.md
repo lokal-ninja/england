@@ -1,5 +1,5 @@
 ---
 title: "Soletrader"
 url: /london/soletrader/
-shop: Schuhe
+shop: shoes
 ---

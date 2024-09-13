@@ -1,5 +1,5 @@
 ---
 title: "Cutz"
 url: /attleborough/cutz/
-shop: Friseur
+shop: hairdresser
 ---

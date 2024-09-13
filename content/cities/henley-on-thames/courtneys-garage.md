@@ -1,5 +1,5 @@
 ---
 title: "Courtneys Garage"
 url: /henley-on-thames/courtneys-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jolies Fleurs"
 url: /thornbury/jolies-fleurs/
-shop: Blumen
+shop: florist
 ---

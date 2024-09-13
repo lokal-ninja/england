@@ -1,5 +1,5 @@
 ---
 title: "Lakeland"
 url: /cambridge/lakeland/
-shop: Haushaltsartikel
+shop: houseware
 ---

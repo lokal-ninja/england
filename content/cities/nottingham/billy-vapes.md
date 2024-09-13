@@ -1,5 +1,5 @@
 ---
 title: "Billy Vapes"
 url: /nottingham/billy-vapes/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

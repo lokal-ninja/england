@@ -1,5 +1,5 @@
 ---
 title: "PamPurredPets"
 url: /wantage/pampurredpets/
-shop: Tiere
+shop: pet
 ---

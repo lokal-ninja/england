@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /barton-upon-humber/lidl/
-shop: Supermarkt
+shop: supermarket
 ---

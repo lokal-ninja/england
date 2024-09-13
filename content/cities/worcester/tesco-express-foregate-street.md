@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /worcester/tesco-express-foregate-street/
-shop: Lebensmittel
+shop: convenience
 ---

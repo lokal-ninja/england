@@ -1,5 +1,5 @@
 ---
 title: "Sunshine"
 url: /manchester/sunshine/
-shop: Kleidung
+shop: clothes
 ---

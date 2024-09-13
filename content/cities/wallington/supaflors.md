@@ -1,5 +1,5 @@
 ---
 title: "Supaflors"
 url: /wallington/supaflors/
-shop: Teppiche
+shop: carpet
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Clinica"
 url: /cambridge/clinica/
-shop: Kosmetik
+shop: beauty
 ---

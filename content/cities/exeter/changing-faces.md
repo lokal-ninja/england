@@ -1,5 +1,5 @@
 ---
 title: "Changing Faces"
 url: /exeter/changing-faces/
-shop: Kosmetik
+shop: beauty
 ---

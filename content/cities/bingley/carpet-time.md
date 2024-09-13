@@ -1,5 +1,5 @@
 ---
 title: "Carpet Time"
 url: /bingley/carpet-time/
-shop: Teppiche
+shop: carpet
 ---

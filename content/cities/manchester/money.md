@@ -1,5 +1,5 @@
 ---
 title: "Money"
 url: /manchester/money/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Yuvraj's Mini Market"
 url: /reading/yuvrajs-mini-market/
-shop: Lebensmittel
+shop: convenience
 ---

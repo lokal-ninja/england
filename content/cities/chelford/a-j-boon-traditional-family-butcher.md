@@ -1,5 +1,5 @@
 ---
 title: "A. J. Boon traditional family butcher"
 url: /chelford/a-j-boon-traditional-family-butcher/
-shop: Metzgerei
+shop: butcher
 ---

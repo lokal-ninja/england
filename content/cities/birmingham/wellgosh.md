@@ -1,5 +1,5 @@
 ---
 title: "Wellgosh"
 url: /birmingham/wellgosh/
-shop: Kleidung
+shop: clothes
 ---

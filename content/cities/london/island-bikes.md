@@ -1,5 +1,5 @@
 ---
 title: "Island Bikes"
 url: /london/island-bikes/
-shop: Fahrrad
+shop: bicycle
 ---

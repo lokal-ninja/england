@@ -1,5 +1,5 @@
 ---
 title: "Traveling Man"
 url: /newcastle-upon-tyne/traveling-man/
-shop: Spiele
+shop: games
 ---

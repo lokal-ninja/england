@@ -1,5 +1,5 @@
 ---
 title: "CGX"
 url: /leigh/cgx/
-shop: Allgemein
+shop: shop
 ---

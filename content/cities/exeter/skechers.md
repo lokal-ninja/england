@@ -1,5 +1,5 @@
 ---
 title: "Skechers"
 url: /exeter/skechers/
-shop: Schuhe
+shop: shoes
 ---

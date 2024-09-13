@@ -1,5 +1,5 @@
 ---
 title: "MBM Angling Centre"
 url: /darlington/mbm-angling-centre/
-shop: Angeln
+shop: fishing
 ---

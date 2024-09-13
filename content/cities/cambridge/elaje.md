@@ -1,5 +1,5 @@
 ---
 title: "Elajé"
 url: /cambridge/elaje/
-shop: Friseur
+shop: hairdresser
 ---

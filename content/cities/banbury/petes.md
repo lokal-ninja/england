@@ -1,5 +1,5 @@
 ---
 title: "Pete's"
 url: /banbury/petes/
-shop: Autowerkstatt
+shop: car repair
 ---

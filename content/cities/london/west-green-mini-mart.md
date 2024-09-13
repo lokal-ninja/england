@@ -1,5 +1,5 @@
 ---
 title: "West Green Mini Mart"
 url: /london/west-green-mini-mart/
-shop: Lebensmittel
+shop: convenience
 ---

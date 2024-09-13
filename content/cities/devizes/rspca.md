@@ -1,5 +1,5 @@
 ---
 title: "RSPCA"
 url: /devizes/rspca/
-shop: Gebrauchtwaren
+shop: charity
 ---

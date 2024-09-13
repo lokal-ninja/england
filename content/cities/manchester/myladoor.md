@@ -1,5 +1,5 @@
 ---
 title: "Myladoor"
 url: /manchester/myladoor/
-shop: Haushaltsgeräte
+shop: appliance
 ---

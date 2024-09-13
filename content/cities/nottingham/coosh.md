@@ -1,5 +1,5 @@
 ---
 title: "Coosh"
 url: /nottingham/coosh/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

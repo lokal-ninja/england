@@ -1,5 +1,5 @@
 ---
 title: "Euxton Tiles"
 url: /euxton/euxton-tiles/
-shop: Fußböden
+shop: flooring
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dirty Laundry"
 url: /london/dirty-laundry/
-shop: Wäscherei
+shop: laundry
 ---

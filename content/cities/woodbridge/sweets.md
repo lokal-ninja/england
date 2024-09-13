@@ -1,5 +1,5 @@
 ---
 title: "Sweets"
 url: /woodbridge/sweets/
-shop: Süßwaren
+shop: confectionery
 ---

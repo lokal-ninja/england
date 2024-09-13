@@ -1,5 +1,5 @@
 ---
 title: "Cedar Therapy"
 url: /banbury/cedar-therapy/
-shop: Kosmetik
+shop: beauty
 ---

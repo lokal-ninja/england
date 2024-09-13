@@ -1,5 +1,5 @@
 ---
 title: "Birds"
 url: /ashby-de-la-zouch/birds/
-shop: Bäckerei
+shop: bakery
 ---

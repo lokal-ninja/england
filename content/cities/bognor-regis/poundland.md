@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /bognor-regis/poundland/
-shop: Kramladen
+shop: variety store
 ---

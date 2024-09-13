@@ -1,5 +1,5 @@
 ---
 title: "News Mart"
 url: /preston/news-mart/
-shop: Lebensmittel
+shop: convenience
 ---

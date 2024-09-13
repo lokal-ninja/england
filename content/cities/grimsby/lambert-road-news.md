@@ -1,5 +1,5 @@
 ---
 title: "Lambert Road News"
 url: /grimsby/lambert-road-news/
-shop: Lebensmittel
+shop: convenience
 ---

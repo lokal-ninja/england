@@ -1,5 +1,5 @@
 ---
 title: "Bygone Treasures"
 url: /worthing/bygone-treasures/
-shop: Raumausstattung
+shop: interior decoration
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carpetright"
 url: /cramlington/carpetright/
-shop: Teppiche
+shop: carpet
 ---

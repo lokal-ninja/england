@@ -1,5 +1,5 @@
 ---
 title: "New Look"
 url: /rugby/new-look/
-shop: Kleidung
+shop: clothes
 ---

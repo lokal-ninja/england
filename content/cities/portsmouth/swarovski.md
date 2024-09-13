@@ -1,5 +1,5 @@
 ---
 title: "Swarovski"
 url: /portsmouth/swarovski/
-shop: Schmuck
+shop: jewelry
 ---

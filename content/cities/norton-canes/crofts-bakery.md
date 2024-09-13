@@ -1,5 +1,5 @@
 ---
 title: "Crofts Bakery"
 url: /norton-canes/crofts-bakery/
-shop: Bäckerei
+shop: bakery
 ---

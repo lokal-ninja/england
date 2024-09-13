@@ -1,5 +1,5 @@
 ---
 title: "Silverage"
 url: /london/silverage/
-shop: Allgemein
+shop: shop
 ---

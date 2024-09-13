@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /newbury/coral/
-shop: Wettbüro
+shop: bookmaker
 ---

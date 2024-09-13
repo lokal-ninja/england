@@ -1,5 +1,5 @@
 ---
 title: "ServerSource"
 url: /corby/serversource/
-shop: Computer
+shop: computer
 ---

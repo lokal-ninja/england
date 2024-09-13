@@ -1,5 +1,5 @@
 ---
 title: "Clippers"
 url: /wisbech/clippers/
-shop: Friseur
+shop: hairdresser
 ---

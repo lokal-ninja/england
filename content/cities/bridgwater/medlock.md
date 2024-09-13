@@ -1,5 +1,5 @@
 ---
 title: "Medlock"
 url: /bridgwater/medlock/
-shop: Elektrisch
+shop: electrical
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
 url: /felixstowe/vodafone/
-shop: Handy
+shop: mobile phone
 ---

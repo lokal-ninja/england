@@ -1,5 +1,5 @@
 ---
 title: "Dano Asian Mart"
 url: /bristol/dano-asian-mart/
-shop: Lebensmittel
+shop: convenience
 ---

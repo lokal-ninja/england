@@ -1,5 +1,5 @@
 ---
 title: "Regent Garage"
 url: /heysham/regent-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Evolution"
 url: /sheffield/evolution/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /leicester/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

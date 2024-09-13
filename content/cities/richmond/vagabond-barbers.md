@@ -1,5 +1,5 @@
 ---
 title: "Vagabond Barbers"
 url: /richmond/vagabond-barbers/
-shop: Friseur
+shop: hairdresser
 ---

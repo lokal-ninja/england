@@ -1,5 +1,5 @@
 ---
 title: "Franke"
 url: /birmingham/franke/
-shop: Friseur
+shop: hairdresser
 ---

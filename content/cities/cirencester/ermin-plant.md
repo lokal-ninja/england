@@ -1,5 +1,5 @@
 ---
 title: "Ermin Plant"
 url: /cirencester/ermin-plant/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Faraday Mill Accident Repair Centre"
 url: /plymouth/faraday-mill-accident-repair-centre/
-shop: Autowerkstatt
+shop: car repair
 ---

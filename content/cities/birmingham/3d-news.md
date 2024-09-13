@@ -1,5 +1,5 @@
 ---
-title: "3D news"
+title: "3D News"
 url: /birmingham/3d-news/
-shop: Zeitungen
+shop: newsagent
 ---

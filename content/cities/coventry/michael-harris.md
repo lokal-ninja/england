@@ -1,5 +1,5 @@
 ---
 title: "Michael Harris"
 url: /coventry/michael-harris/
-shop: Optiker
+shop: optician
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rafiq's Superstore"
 url: /oldham/rafiqs-superstore/
-shop: Lebensmittel
+shop: convenience
 ---

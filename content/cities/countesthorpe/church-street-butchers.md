@@ -1,5 +1,5 @@
 ---
 title: "Church Street Butchers"
 url: /countesthorpe/church-street-butchers/
-shop: Metzgerei
+shop: butcher
 ---

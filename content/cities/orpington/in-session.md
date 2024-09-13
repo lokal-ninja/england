@@ -1,5 +1,5 @@
 ---
 title: "In Session"
 url: /orpington/in-session/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Heron Foods"
 url: /bristol/heron-foods/
-shop: Supermarkt
+shop: supermarket
 ---

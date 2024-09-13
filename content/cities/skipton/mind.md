@@ -1,5 +1,5 @@
 ---
 title: "Mind"
 url: /skipton/mind/
-shop: Gebrauchtwaren
+shop: charity
 ---

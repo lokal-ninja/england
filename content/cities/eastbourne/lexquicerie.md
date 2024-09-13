@@ -1,5 +1,5 @@
 ---
 title: "l'exquicerie"
 url: /eastbourne/lexquicerie/
-shop: Feinkost
+shop: deli
 ---

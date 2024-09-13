@@ -1,5 +1,5 @@
 ---
 title: "TradePoint"
 url: /guildford/tradepoint/
-shop: Baustoffe
+shop: trade
 ---

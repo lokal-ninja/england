@@ -1,5 +1,5 @@
 ---
 title: "Greenplant"
 url: /wheatley/greenplant/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Interiors by Tony P"
 url: /hebburn/interiors-by-tony-p/
-shop: Raumausstattung
+shop: interior decoration
 ---

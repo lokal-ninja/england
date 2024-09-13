@@ -1,5 +1,5 @@
 ---
 title: "The Co-operative Funeralcare"
 url: /chelmsford/the-co-operative-funeralcare-broomfield-road/
-shop: Bestattungen
+shop: funeral directors
 ---

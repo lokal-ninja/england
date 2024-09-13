@@ -1,5 +1,5 @@
 ---
 title: "Bang"
 url: /norwich/bang/
-shop: Friseur
+shop: hairdresser
 ---

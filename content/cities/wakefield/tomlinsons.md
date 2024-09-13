@@ -1,5 +1,5 @@
 ---
 title: "Tomlinsons"
 url: /wakefield/tomlinsons/
-shop: Tiere
+shop: pet
 ---

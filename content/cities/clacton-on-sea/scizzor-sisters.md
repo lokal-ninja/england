@@ -1,5 +1,5 @@
 ---
 title: "Scizzor Sisters"
 url: /clacton-on-sea/scizzor-sisters/
-shop: Friseur
+shop: hairdresser
 ---

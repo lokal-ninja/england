@@ -1,5 +1,5 @@
 ---
 title: "Lansdown Interiors"
 url: /cheltenham/lansdown-interiors/
-shop: Raumausstattung
+shop: interior decoration
 ---

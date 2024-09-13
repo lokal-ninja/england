@@ -1,5 +1,5 @@
 ---
 title: "Newlife"
 url: /clacton-on-sea/newlife/
-shop: Allgemein
+shop: shop
 ---

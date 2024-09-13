@@ -1,5 +1,5 @@
 ---
 title: "Treyone the Kitchenmakers"
 url: /truro/treyone-the-kitchenmakers/
-shop: Möbel
+shop: furniture
 ---

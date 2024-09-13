@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /burton-on-trent/tesco/
-shop: Supermarkt
+shop: supermarket
 ---

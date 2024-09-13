@@ -1,5 +1,5 @@
 ---
 title: "Figjam Tattoo Studio"
 url: /ashford/figjam-tattoo-studio/
-shop: Tattoo
+shop: tattoo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Folies"
 url: /cobham/folies/
-shop: Kleidung
+shop: clothes
 ---

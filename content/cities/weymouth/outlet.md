@@ -1,5 +1,5 @@
 ---
 title: "Outlet"
 url: /weymouth/outlet/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Petz"
 url: /birmingham/petz/
-shop: Tiere
+shop: pet
 ---

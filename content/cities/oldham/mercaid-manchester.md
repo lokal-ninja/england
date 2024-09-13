@@ -1,5 +1,5 @@
 ---
 title: "Mercaid Manchester"
 url: /oldham/mercaid-manchester/
-shop: Autowerkstatt
+shop: car repair
 ---

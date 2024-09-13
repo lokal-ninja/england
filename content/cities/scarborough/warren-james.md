@@ -1,5 +1,5 @@
 ---
 title: "Warren James"
 url: /scarborough/warren-james/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Smiths Equipment Hire"
 url: /blackpool/smiths-equipment-hire/
-shop: Werkzeuge
+shop: tools
 ---

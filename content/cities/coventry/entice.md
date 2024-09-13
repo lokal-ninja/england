@@ -1,5 +1,5 @@
 ---
 title: "entice"
 url: /coventry/entice/
-shop: Kosmetik
+shop: beauty
 ---

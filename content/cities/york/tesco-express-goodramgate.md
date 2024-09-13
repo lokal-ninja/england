@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /york/tesco-express-goodramgate/
-shop: Lebensmittel
+shop: convenience
 ---

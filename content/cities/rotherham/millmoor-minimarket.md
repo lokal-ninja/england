@@ -1,5 +1,5 @@
 ---
 title: "Millmoor Minimarket"
 url: /rotherham/millmoor-minimarket/
-shop: Lebensmittel
+shop: convenience
 ---

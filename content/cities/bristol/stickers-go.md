@@ -1,5 +1,5 @@
 ---
 title: "Stickers Go!"
 url: /bristol/stickers-go/
-shop: Kopieren
+shop: copyshop
 ---

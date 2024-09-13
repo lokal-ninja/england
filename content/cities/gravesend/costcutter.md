@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /gravesend/costcutter/
-shop: Lebensmittel
+shop: convenience
 ---

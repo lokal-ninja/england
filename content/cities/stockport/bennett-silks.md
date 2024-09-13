@@ -1,5 +1,5 @@
 ---
 title: "Bennett Silks"
 url: /stockport/bennett-silks/
-shop: Allgemein
+shop: shop
 ---

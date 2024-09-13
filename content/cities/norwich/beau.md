@@ -1,5 +1,5 @@
 ---
 title: "Beau"
 url: /norwich/beau/
-shop: Kosmetik
+shop: beauty
 ---

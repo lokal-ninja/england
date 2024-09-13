@@ -1,5 +1,5 @@
 ---
 title: "Howdens Joinery"
 url: /brighouse/howdens-joinery/
-shop: Küchen
+shop: kitchen
 ---

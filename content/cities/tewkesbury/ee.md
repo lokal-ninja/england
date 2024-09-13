@@ -1,5 +1,5 @@
 ---
 title: "EE"
 url: /tewkesbury/ee/
-shop: Handy
+shop: mobile phone
 ---

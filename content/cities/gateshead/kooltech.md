@@ -1,5 +1,5 @@
 ---
 title: "Kooltech"
 url: /gateshead/kooltech/
-shop: Allgemein
+shop: shop
 ---

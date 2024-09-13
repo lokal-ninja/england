@@ -1,5 +1,5 @@
 ---
 title: "Paradise"
 url: /pontefract/paradise/
-shop: Kleidung
+shop: clothes
 ---

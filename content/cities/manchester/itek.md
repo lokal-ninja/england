@@ -1,5 +1,5 @@
 ---
 title: "iTek"
 url: /manchester/itek/
-shop: Handy
+shop: mobile phone
 ---

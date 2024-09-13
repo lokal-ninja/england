@@ -1,5 +1,5 @@
 ---
 title: "Monk Bar Chocolatiers"
 url: /york/monk-bar-chocolatiers/
-shop: Süßwaren
+shop: confectionery
 ---

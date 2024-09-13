@@ -1,5 +1,5 @@
 ---
 title: "Revelations"
 url: /sheffield/revelations/
-shop: Friseur
+shop: hairdresser
 ---

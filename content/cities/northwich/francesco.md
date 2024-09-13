@@ -1,5 +1,5 @@
 ---
 title: "Francesco"
 url: /northwich/francesco/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vivid Ink"
 url: /derby/vivid-ink-iron-gate/
-shop: Tattoo
+shop: tattoo
 ---

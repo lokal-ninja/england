@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /london/ladbrokes-wimbledon-hill-road/
-shop: Wettbüro
+shop: bookmaker
 ---

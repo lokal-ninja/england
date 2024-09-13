@@ -1,5 +1,5 @@
 ---
 title: "Holiday Stylist"
 url: /stanley/holiday-stylist/
-shop: Reisebüro
+shop: travel agency
 ---

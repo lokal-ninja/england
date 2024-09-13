@@ -1,5 +1,5 @@
 ---
 title: "fonehouse"
 url: /totnes/fonehouse/
-shop: Handy
+shop: mobile phone
 ---

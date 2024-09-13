@@ -1,5 +1,5 @@
 ---
 title: "Friths Opticians"
 url: /swanage/friths-opticians/
-shop: Optiker
+shop: optician
 ---

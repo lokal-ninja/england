@@ -1,5 +1,5 @@
 ---
 title: "Cooplands"
 url: /grimsby/cooplands-lynton-parade-cromwell-road/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ysatis"
 url: /darlington/ysatis/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cooplands"
 url: /filey/cooplands/
-shop: Bäckerei
+shop: bakery
 ---

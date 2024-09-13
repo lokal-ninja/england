@@ -1,5 +1,5 @@
 ---
 title: "Timpson"
 url: /witney/timpson/
-shop: Schlüsseldienst
+shop: locksmith
 ---

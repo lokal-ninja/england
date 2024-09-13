@@ -1,5 +1,5 @@
 ---
 title: "Kennies"
 url: /stockport/kennies/
-shop: Lebensmittel
+shop: convenience
 ---

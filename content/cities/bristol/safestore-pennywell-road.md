@@ -1,5 +1,5 @@
 ---
 title: "Safestore"
 url: /bristol/safestore-pennywell-road/
-shop: Mieten
+shop: storage rental
 ---

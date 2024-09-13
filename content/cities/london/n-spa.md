@@ -1,5 +1,5 @@
 ---
 title: "N Spa"
 url: /london/n-spa/
-shop: Kosmetik
+shop: beauty
 ---

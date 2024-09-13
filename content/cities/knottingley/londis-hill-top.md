@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /knottingley/londis-hill-top/
-shop: Lebensmittel
+shop: convenience
 ---

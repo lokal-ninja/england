@@ -1,5 +1,5 @@
 ---
 title: "Thorrington Garage Ltd"
 url: /thorrington/thorrington-garage-ltd/
-shop: Autowerkstatt
+shop: car repair
 ---

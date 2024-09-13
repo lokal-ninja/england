@@ -1,5 +1,5 @@
 ---
 title: "Søstrene Grene"
 url: /norwich/sostrene-grene/
-shop: Raumausstattung
+shop: interior decoration
 ---

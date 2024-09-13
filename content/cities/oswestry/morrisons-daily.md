@@ -1,5 +1,5 @@
 ---
 title: "Morrisons Daily"
 url: /oswestry/morrisons-daily/
-shop: Lebensmittel
+shop: convenience
 ---

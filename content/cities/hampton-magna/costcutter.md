@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /hampton-magna/costcutter/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Timpson"
 url: /plymouth/timpson/
-shop: Schlüsseldienst
+shop: locksmith
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /chesterfield/spar-high-street/
-shop: Lebensmittel
+shop: convenience
 ---

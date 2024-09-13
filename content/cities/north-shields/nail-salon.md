@@ -1,5 +1,5 @@
 ---
 title: "Nail Salon"
 url: /north-shields/nail-salon/
-shop: Kosmetik
+shop: beauty
 ---

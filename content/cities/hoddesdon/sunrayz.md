@@ -1,5 +1,5 @@
 ---
 title: "Sunrayz"
 url: /hoddesdon/sunrayz/
-shop: Kosmetik
+shop: beauty
 ---

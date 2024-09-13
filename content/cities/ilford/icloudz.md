@@ -1,5 +1,5 @@
 ---
 title: "iCloudz"
 url: /ilford/icloudz/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kwik Fit"
 url: /london/kwik-fit-walworth-road/
-shop: Autowerkstatt
+shop: car repair
 ---

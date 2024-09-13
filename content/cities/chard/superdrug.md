@@ -1,5 +1,5 @@
 ---
 title: "Superdrug"
 url: /chard/superdrug/
-shop: Drogerie
+shop: chemist
 ---

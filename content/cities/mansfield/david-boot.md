@@ -1,5 +1,5 @@
 ---
 title: "David Boot"
 url: /mansfield/david-boot/
-shop: Metzgerei
+shop: butcher
 ---

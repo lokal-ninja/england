@@ -1,5 +1,5 @@
 ---
 title: "Hackett London"
 url: /portsmouth/hackett-london/
-shop: Kleidung
+shop: clothes
 ---

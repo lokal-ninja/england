@@ -1,5 +1,5 @@
 ---
 title: "The Crafted Corner"
 url: /london/the-crafted-corner/
-shop: Andenken
+shop: gift
 ---

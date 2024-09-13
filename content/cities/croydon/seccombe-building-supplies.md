@@ -1,5 +1,5 @@
 ---
 title: "Seccombe Building Supplies"
 url: /croydon/seccombe-building-supplies/
-shop: Eisenwaren
+shop: hardware
 ---

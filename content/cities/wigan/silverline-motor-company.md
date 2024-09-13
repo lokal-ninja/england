@@ -1,5 +1,5 @@
 ---
 title: "Silverline Motor Company"
 url: /wigan/silverline-motor-company/
-shop: Autohaus
+shop: car
 ---

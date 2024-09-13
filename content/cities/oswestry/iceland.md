@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /oswestry/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

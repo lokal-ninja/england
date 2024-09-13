@@ -1,5 +1,5 @@
 ---
 title: "My Dog Barber"
 url: /chester-le-street/my-dog-barber/
-shop: Tiersalon
+shop: pet grooming
 ---

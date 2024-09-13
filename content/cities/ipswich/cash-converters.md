@@ -1,5 +1,5 @@
 ---
 title: "Cash Converters"
 url: /ipswich/cash-converters/
-shop: Leiher
+shop: pawnbroker
 ---

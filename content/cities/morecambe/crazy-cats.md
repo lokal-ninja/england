@@ -1,5 +1,5 @@
 ---
 title: "Crazy Cats"
 url: /morecambe/crazy-cats/
-shop: Gebrauchtwaren
+shop: charity
 ---

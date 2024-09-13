@@ -1,5 +1,5 @@
 ---
 title: "Pollyanna"
 url: /lowestoft/pollyanna/
-shop: Friseur
+shop: hairdresser
 ---

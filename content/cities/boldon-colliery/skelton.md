@@ -1,5 +1,5 @@
 ---
 title: "Skelton"
 url: /boldon-colliery/skelton/
-shop: Lebensmittel
+shop: convenience
 ---

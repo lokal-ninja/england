@@ -1,5 +1,5 @@
 ---
 title: "Lingards"
 url: /sudbury/lingards/
-shop: Gardinen
+shop: curtain
 ---

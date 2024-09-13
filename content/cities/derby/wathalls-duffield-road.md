@@ -1,5 +1,5 @@
 ---
 title: "Wathalls"
 url: /derby/wathalls-duffield-road/
-shop: Bestattungen
+shop: funeral directors
 ---

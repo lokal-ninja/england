@@ -1,5 +1,5 @@
 ---
 title: "Fizz"
 url: /oldham/fizz/
-shop: Kleidung
+shop: clothes
 ---

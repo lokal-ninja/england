@@ -1,5 +1,5 @@
 ---
 title: "The Sapling"
 url: /blandford-forum/the-sapling/
-shop: Andenken
+shop: gift
 ---

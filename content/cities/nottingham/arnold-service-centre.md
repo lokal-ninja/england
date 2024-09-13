@@ -1,5 +1,5 @@
 ---
 title: "Arnold Service Centre"
 url: /nottingham/arnold-service-centre/
-shop: Autowerkstatt
+shop: car repair
 ---

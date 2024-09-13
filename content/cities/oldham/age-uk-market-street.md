@@ -1,5 +1,5 @@
 ---
 title: "Age UK"
 url: /oldham/age-uk-market-street/
-shop: Gebrauchtwaren
+shop: charity
 ---

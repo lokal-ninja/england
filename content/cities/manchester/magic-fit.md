@@ -1,5 +1,5 @@
 ---
 title: "Magic-Fit"
 url: /manchester/magic-fit/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Golden Touch"
 url: /colchester/golden-touch/
-shop: Friseur
+shop: hairdresser
 ---

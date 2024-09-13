@@ -1,5 +1,5 @@
 ---
 title: "Windsor Interiors"
 url: /leeds/windsor-interiors/
-shop: Raumausstattung
+shop: interior decoration
 ---

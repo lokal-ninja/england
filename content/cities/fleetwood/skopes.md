@@ -1,5 +1,5 @@
 ---
 title: "Skopes"
 url: /fleetwood/skopes/
-shop: Kleidung
+shop: clothes
 ---

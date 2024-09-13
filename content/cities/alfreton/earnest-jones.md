@@ -1,5 +1,5 @@
 ---
 title: "Earnest Jones"
 url: /alfreton/earnest-jones/
-shop: Schmuck
+shop: jewelry
 ---

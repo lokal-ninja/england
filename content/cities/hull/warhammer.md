@@ -1,5 +1,5 @@
 ---
 title: "Warhammer"
 url: /hull/warhammer/
-shop: Spiele
+shop: games
 ---

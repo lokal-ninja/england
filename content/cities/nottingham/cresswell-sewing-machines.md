@@ -1,5 +1,5 @@
 ---
 title: "Cresswell Sewing Machines"
 url: /nottingham/cresswell-sewing-machines/
-shop: Nähzubehör
+shop: sewing
 ---

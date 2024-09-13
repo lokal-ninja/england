@@ -1,5 +1,5 @@
 ---
 title: "McColl's"
 url: /colchester/mccolls/
-shop: Lebensmittel
+shop: convenience
 ---

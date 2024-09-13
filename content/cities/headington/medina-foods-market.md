@@ -1,5 +1,5 @@
 ---
 title: "Medina Foods Market"
 url: /headington/medina-foods-market/
-shop: Feinkost
+shop: deli
 ---

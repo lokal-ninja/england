@@ -1,5 +1,5 @@
 ---
 title: "Khindas"
 url: /northampton/khindas/
-shop: Lebensmittel
+shop: convenience
 ---

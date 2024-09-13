@@ -1,5 +1,5 @@
 ---
 title: "Thai Healing"
 url: /london/thai-healing/
-shop: Massage
+shop: massage
 ---

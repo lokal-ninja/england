@@ -1,5 +1,5 @@
 ---
 title: "Horizon Dry Cleaners"
 url: /hoddesdon/horizon-dry-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

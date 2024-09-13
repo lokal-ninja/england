@@ -1,5 +1,5 @@
 ---
 title: "Thom Sweeney"
 url: /london/thom-sweeney/
-shop: Schneiderei
+shop: tailor
 ---

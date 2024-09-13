@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /london/aldi-central-way/
-shop: Supermarkt
+shop: supermarket
 ---

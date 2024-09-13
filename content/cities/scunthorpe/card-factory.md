@@ -1,5 +1,5 @@
 ---
 title: "Card Factory"
 url: /scunthorpe/card-factory/
-shop: Andenken
+shop: gift
 ---

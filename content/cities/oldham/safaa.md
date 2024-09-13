@@ -1,5 +1,5 @@
 ---
 title: "Safaa"
 url: /oldham/safaa/
-shop: Kleidung
+shop: clothes
 ---

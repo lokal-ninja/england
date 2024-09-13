@@ -1,5 +1,5 @@
 ---
 title: "International Mix Potraviny"
 url: /sheffield/international-mix-potraviny/
-shop: Lebensmittel
+shop: convenience
 ---

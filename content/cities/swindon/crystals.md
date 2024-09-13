@@ -1,5 +1,5 @@
 ---
 title: "Crystals"
 url: /swindon/crystals/
-shop: Schmuck
+shop: jewelry
 ---

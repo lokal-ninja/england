@@ -1,5 +1,5 @@
 ---
 title: "Chatsworth Rd Newsagency"
 url: /chesterfield/chatsworth-rd-newsagency/
-shop: Zeitungen
+shop: newsagent
 ---

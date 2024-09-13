@@ -1,5 +1,5 @@
 ---
 title: "Ryman"
 url: /hull/ryman/
-shop: Schreibwaren
+shop: office supplies
 ---

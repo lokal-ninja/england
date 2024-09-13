@@ -1,5 +1,5 @@
 ---
 title: "Best Coulsdon Tailor"
 url: /coulsdon/best-coulsdon-tailor/
-shop: Schneiderei
+shop: tailor
 ---

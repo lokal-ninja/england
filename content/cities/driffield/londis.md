@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /driffield/londis/
-shop: Lebensmittel
+shop: convenience
 ---

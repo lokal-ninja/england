@@ -1,5 +1,5 @@
 ---
 title: "Sew Easy"
 url: /rotherham/sew-easy/
-shop: Schneiderei
+shop: tailor
 ---

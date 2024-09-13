@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /sheffield/poundland-castle-square/
-shop: Kramladen
+shop: variety store
 ---

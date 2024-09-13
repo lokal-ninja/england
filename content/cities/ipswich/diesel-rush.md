@@ -1,5 +1,5 @@
 ---
 title: "Diesel Rush"
 url: /ipswich/diesel-rush/
-shop: Autowerkstatt
+shop: car repair
 ---

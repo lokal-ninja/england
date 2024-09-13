@@ -1,5 +1,5 @@
 ---
 title: "Gio Genco"
 url: /london/gio-genco/
-shop: Schneiderei
+shop: tailor
 ---

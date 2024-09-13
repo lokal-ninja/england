@@ -1,5 +1,5 @@
 ---
 title: "Cash Shop"
 url: /hull/cash-shop/
-shop: Leiher
+shop: pawnbroker
 ---

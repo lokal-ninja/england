@@ -1,5 +1,5 @@
 ---
 title: "Gifted"
 url: /highcliffe/gifted/
-shop: Garten-Center
+shop: garden centre
 ---

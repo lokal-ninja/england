@@ -1,5 +1,5 @@
 ---
 title: "Larder"
 url: /west-wickham/larder/
-shop: Metzgerei
+shop: butcher
 ---

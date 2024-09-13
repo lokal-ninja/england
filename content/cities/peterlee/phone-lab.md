@@ -1,5 +1,5 @@
 ---
 title: "Phone Lab"
 url: /peterlee/phone-lab/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Castleford Angling Supplies"
 url: /castleford/castleford-angling-supplies/
-shop: Angeln
+shop: fishing
 ---

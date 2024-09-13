@@ -1,5 +1,5 @@
 ---
 title: "Allsop Electrical Ltd"
 url: /ashbourne/allsop-electrical-ltd/
-shop: Haushaltsgeräte
+shop: appliance
 ---

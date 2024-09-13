@@ -1,5 +1,5 @@
 ---
 title: "Co-op Food"
 url: /ashbourne/co-op-food/
-shop: Supermarkt
+shop: supermarket
 ---

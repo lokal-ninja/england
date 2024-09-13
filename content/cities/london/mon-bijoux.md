@@ -1,5 +1,5 @@
 ---
 title: "Mon Bijoux"
 url: /london/mon-bijoux/
-shop: Schmuck
+shop: jewelry
 ---

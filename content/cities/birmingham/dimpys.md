@@ -1,5 +1,5 @@
 ---
 title: "Dimpy's"
 url: /birmingham/dimpys/
-shop: Kleidung
+shop: clothes
 ---

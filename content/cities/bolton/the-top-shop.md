@@ -1,5 +1,5 @@
 ---
 title: "The Top Shop"
 url: /bolton/the-top-shop/
-shop: Zeitungen
+shop: newsagent
 ---

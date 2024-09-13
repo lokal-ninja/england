@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /hartlepool/iceland-teesbay-retail-park/
-shop: Tiefkühl
+shop: frozen food
 ---

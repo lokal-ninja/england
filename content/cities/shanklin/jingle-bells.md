@@ -1,5 +1,5 @@
 ---
 title: "Jingle Bells"
 url: /shanklin/jingle-bells/
-shop: Raumausstattung
+shop: interior decoration
 ---

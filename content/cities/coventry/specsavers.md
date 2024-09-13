@@ -1,5 +1,5 @@
 ---
 title: "Specsavers"
 url: /coventry/specsavers/
-shop: Optiker
+shop: optician
 ---

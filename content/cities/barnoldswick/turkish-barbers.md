@@ -1,5 +1,5 @@
 ---
 title: "Turkish Barbers"
 url: /barnoldswick/turkish-barbers/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /mitcham/coral/
-shop: Wettbüro
+shop: bookmaker
 ---

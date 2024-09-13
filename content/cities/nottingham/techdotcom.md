@@ -1,5 +1,5 @@
 ---
 title: "Techdotcom"
 url: /nottingham/techdotcom/
-shop: Computer
+shop: computer
 ---

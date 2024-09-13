@@ -1,5 +1,5 @@
 ---
 title: "Karwals"
 url: /oxford/karwals/
-shop: Schmuck
+shop: jewelry
 ---

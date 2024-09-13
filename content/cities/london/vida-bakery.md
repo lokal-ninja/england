@@ -1,5 +1,5 @@
 ---
 title: "Vida Bakery"
 url: /london/vida-bakery/
-shop: Bäckerei
+shop: bakery
 ---

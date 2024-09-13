@@ -1,5 +1,5 @@
 ---
 title: "Nailista Nail Bar"
 url: /manchester/nailista-nail-bar/
-shop: Kosmetik
+shop: beauty
 ---

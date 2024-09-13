@@ -1,5 +1,5 @@
 ---
 title: "OneBelow"
 url: /doncaster/onebelow/
-shop: Kramladen
+shop: variety store
 ---

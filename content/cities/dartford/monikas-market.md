@@ -1,5 +1,5 @@
 ---
 title: "Monika's Market"
 url: /dartford/monikas-market/
-shop: Lebensmittel
+shop: convenience
 ---

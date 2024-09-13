@@ -1,5 +1,5 @@
 ---
 title: "Kwik Fit"
 url: /woking/kwik-fit/
-shop: Autowerkstatt
+shop: car repair
 ---

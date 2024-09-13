@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /margate/costcutter-cecil-street/
-shop: Lebensmittel
+shop: convenience
 ---

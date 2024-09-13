@@ -1,5 +1,5 @@
 ---
 title: "Grays Tyres/Brakes/Exhausts"
 url: /twickenham/grays-tyres-brakes-exhausts/
-shop: Reifen
+shop: tyres
 ---

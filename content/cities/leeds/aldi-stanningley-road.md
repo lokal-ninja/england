@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /leeds/aldi-stanningley-road/
-shop: Supermarkt
+shop: supermarket
 ---

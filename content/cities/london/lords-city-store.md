@@ -1,5 +1,5 @@
 ---
 title: "Lords City Store"
 url: /london/lords-city-store/
-shop: Lebensmittel
+shop: convenience
 ---

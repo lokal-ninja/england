@@ -1,5 +1,5 @@
 ---
 title: "Classic Tiles"
 url: /blaydon-on-tyne/classic-tiles/
-shop: Raumausstattung
+shop: interior decoration
 ---

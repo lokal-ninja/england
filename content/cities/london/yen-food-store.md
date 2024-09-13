@@ -1,5 +1,5 @@
 ---
 title: "Yen Food Store"
 url: /london/yen-food-store/
-shop: Zeitungen
+shop: newsagent
 ---

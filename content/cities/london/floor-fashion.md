@@ -1,5 +1,5 @@
 ---
 title: "Floor Fashion"
 url: /london/floor-fashion/
-shop: Möbel
+shop: furniture
 ---

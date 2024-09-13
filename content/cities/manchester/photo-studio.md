@@ -1,5 +1,5 @@
 ---
 title: "Photo Studio"
 url: /manchester/photo-studio/
-shop: Foto
+shop: photo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Asda Express"
 url: /knutsford/asda-express/
-shop: Lebensmittel
+shop: convenience
 ---

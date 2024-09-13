@@ -1,5 +1,5 @@
 ---
 title: "Game"
 url: /warrington/game/
-shop: Videospiele
+shop: video games
 ---

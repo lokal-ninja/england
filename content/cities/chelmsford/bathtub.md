@@ -1,5 +1,5 @@
 ---
 title: "Bathtub"
 url: /chelmsford/bathtub/
-shop: Badezimmer
+shop: bathroom
 ---

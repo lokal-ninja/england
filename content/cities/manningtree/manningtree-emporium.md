@@ -1,5 +1,5 @@
 ---
 title: "Manningtree Emporium"
 url: /manningtree/manningtree-emporium/
-shop: Antiquitäten
+shop: antiques
 ---

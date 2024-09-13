@@ -1,5 +1,5 @@
 ---
 title: "IT Specialists"
 url: /richmond/it-specialists/
-shop: Computer
+shop: computer
 ---

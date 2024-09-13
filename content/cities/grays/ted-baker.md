@@ -1,5 +1,5 @@
 ---
 title: "Ted Baker"
 url: /grays/ted-baker/
-shop: Kleidung
+shop: clothes
 ---

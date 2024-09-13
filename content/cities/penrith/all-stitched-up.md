@@ -1,5 +1,5 @@
 ---
 title: "All Stitched Up"
 url: /penrith/all-stitched-up/
-shop: Möbel
+shop: furniture
 ---

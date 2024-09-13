@@ -1,5 +1,5 @@
 ---
 title: "Blacks"
 url: /london/blacks-tottenham-court-road/
-shop: Outdoor
+shop: outdoor
 ---

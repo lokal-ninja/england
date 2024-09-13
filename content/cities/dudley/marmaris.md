@@ -1,5 +1,5 @@
 ---
 title: "Marmaris"
 url: /dudley/marmaris/
-shop: Friseur
+shop: hairdresser
 ---

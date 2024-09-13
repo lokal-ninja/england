@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /billingshurst/coral/
-shop: Wettbüro
+shop: bookmaker
 ---

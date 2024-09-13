@@ -1,5 +1,5 @@
 ---
 title: "Plush"
 url: /bracknell/plush/
-shop: Möbel
+shop: furniture
 ---

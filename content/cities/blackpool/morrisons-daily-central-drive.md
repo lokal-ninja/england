@@ -1,5 +1,5 @@
 ---
 title: "Morrisons Daily"
 url: /blackpool/morrisons-daily-central-drive/
-shop: Lebensmittel
+shop: convenience
 ---

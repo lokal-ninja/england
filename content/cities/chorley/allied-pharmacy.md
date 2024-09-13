@@ -1,5 +1,5 @@
 ---
 title: "Allied Pharmacy"
 url: /chorley/allied-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

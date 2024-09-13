@@ -1,5 +1,5 @@
 ---
 title: "Next"
 url: /london/next-brocklebank-road/
-shop: Kleidung
+shop: clothes
 ---

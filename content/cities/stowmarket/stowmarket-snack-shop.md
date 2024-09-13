@@ -1,5 +1,5 @@
 ---
 title: "Stowmarket Snack Shop"
 url: /stowmarket/stowmarket-snack-shop/
-shop: Lebensmittel
+shop: convenience
 ---

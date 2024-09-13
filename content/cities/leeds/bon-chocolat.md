@@ -1,5 +1,5 @@
 ---
 title: "Bon Chocolat"
 url: /leeds/bon-chocolat/
-shop: Süßwaren
+shop: confectionery
 ---

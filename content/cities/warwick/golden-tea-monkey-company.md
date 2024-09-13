@@ -1,5 +1,5 @@
 ---
 title: "Golden Tea Monkey Company"
 url: /warwick/golden-tea-monkey-company/
-shop: Tee
+shop: tea
 ---

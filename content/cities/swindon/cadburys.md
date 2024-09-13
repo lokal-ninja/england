@@ -1,5 +1,5 @@
 ---
 title: "Cadburys"
 url: /swindon/cadburys/
-shop: Schokolade
+shop: chocolate
 ---

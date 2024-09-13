@@ -1,5 +1,5 @@
 ---
 title: "Millets"
 url: /grimsby/millets/
-shop: Outdoor
+shop: outdoor
 ---

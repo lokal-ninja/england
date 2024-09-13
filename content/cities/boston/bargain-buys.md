@@ -1,5 +1,5 @@
 ---
 title: "Bargain Buys"
 url: /boston/bargain-buys/
-shop: Kramladen
+shop: variety store
 ---

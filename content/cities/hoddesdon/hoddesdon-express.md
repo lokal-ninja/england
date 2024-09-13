@@ -1,5 +1,5 @@
 ---
 title: "Hoddesdon Express"
 url: /hoddesdon/hoddesdon-express/
-shop: Lebensmittel
+shop: convenience
 ---

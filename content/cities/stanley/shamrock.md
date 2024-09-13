@@ -1,5 +1,5 @@
 ---
 title: "Shamrock"
 url: /stanley/shamrock/
-shop: Tee
+shop: tea
 ---

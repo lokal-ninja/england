@@ -1,5 +1,5 @@
 ---
 title: "Davenports"
 url: /congleton/davenports/
-shop: Kleidung
+shop: clothes
 ---

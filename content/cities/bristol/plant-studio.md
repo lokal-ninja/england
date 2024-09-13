@@ -1,5 +1,5 @@
 ---
 title: "plant studio"
 url: /bristol/plant-studio/
-shop: Blumen
+shop: florist
 ---

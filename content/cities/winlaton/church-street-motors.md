@@ -1,5 +1,5 @@
 ---
 title: "Church Street Motors"
 url: /winlaton/church-street-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

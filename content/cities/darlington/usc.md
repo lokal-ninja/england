@@ -1,5 +1,5 @@
 ---
 title: "USC"
 url: /darlington/usc/
-shop: Kleidung
+shop: clothes
 ---

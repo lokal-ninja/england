@@ -1,5 +1,5 @@
 ---
 title: "The Tanning Lounge"
 url: /manchester/the-tanning-lounge-piccadilly/
-shop: Kosmetik
+shop: beauty
 ---

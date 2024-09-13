@@ -1,5 +1,5 @@
 ---
 title: "Jahota Boutique"
 url: /birmingham/jahota-boutique/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Kitchen Studio"
 url: /newmarket/the-kitchen-studio/
-shop: Küchen
+shop: kitchen
 ---

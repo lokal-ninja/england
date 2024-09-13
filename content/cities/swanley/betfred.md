@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /swanley/betfred/
-shop: Wettbüro
+shop: bookmaker
 ---

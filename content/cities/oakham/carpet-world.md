@@ -1,5 +1,5 @@
 ---
 title: "Carpet World"
 url: /oakham/carpet-world/
-shop: Teppiche
+shop: carpet
 ---

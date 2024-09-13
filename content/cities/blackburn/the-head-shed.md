@@ -1,5 +1,5 @@
 ---
 title: "The Head Shed"
 url: /blackburn/the-head-shed/
-shop: Friseur
+shop: hairdresser
 ---

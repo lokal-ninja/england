@@ -1,5 +1,5 @@
 ---
 title: "Sterling Restorations"
 url: /sheffield/sterling-restorations/
-shop: Nähzubehör
+shop: sewing
 ---

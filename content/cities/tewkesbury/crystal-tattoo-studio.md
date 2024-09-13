@@ -1,5 +1,5 @@
 ---
 title: "Crystal Tattoo Studio"
 url: /tewkesbury/crystal-tattoo-studio/
-shop: Tattoo
+shop: tattoo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Beauty Secrets"
 url: /horsham/beauty-secrets/
-shop: Kosmetik
+shop: beauty
 ---

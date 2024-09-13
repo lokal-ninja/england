@@ -1,5 +1,5 @@
 ---
 title: "Angela's Nails"
 url: /exmouth/angelas-nails/
-shop: Kosmetik
+shop: beauty
 ---

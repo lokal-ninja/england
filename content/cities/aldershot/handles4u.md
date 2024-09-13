@@ -1,5 +1,5 @@
 ---
 title: "Handles4U"
 url: /aldershot/handles4u/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Andrew Care"
 url: /weymouth/andrew-care/
-shop: Optiker
+shop: optician
 ---

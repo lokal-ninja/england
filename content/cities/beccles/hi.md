@@ -1,5 +1,5 @@
 ---
 title: "Hi"
 url: /beccles/hi/
-shop: Kleidung
+shop: clothes
 ---

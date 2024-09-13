@@ -1,5 +1,5 @@
 ---
 title: "Reflections"
 url: /bristol/reflections-high-street/
-shop: Friseur
+shop: hairdresser
 ---

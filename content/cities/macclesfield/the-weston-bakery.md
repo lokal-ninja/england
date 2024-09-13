@@ -1,5 +1,5 @@
 ---
 title: "The Weston Bakery"
 url: /macclesfield/the-weston-bakery/
-shop: Bäckerei
+shop: bakery
 ---

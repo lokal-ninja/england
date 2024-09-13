@@ -1,5 +1,5 @@
 ---
 title: "Nelsons"
 url: /stamford/nelsons/
-shop: Metzgerei
+shop: butcher
 ---

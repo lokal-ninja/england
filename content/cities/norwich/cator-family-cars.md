@@ -1,5 +1,5 @@
 ---
 title: "Cator Family Cars"
 url: /norwich/cator-family-cars/
-shop: Autohaus
+shop: car
 ---

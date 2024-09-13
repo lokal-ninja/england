@@ -1,5 +1,5 @@
 ---
 title: "Central Motor Company"
 url: /bridgwater/central-motor-company/
-shop: Autowerkstatt
+shop: car repair
 ---

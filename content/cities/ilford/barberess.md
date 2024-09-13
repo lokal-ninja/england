@@ -1,5 +1,5 @@
 ---
 title: "Barberess"
 url: /ilford/barberess/
-shop: Friseur
+shop: hairdresser
 ---

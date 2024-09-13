@@ -1,5 +1,5 @@
 ---
 title: "Morrisons"
 url: /bolton/morrisons-mornington-road/
-shop: Supermarkt
+shop: supermarket
 ---

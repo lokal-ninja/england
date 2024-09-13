@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /stamford/savers/
-shop: Drogerie
+shop: chemist
 ---

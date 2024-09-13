@@ -1,5 +1,5 @@
 ---
 title: "Veterans at Ease"
 url: /kings-lynn/veterans-at-ease/
-shop: Gebrauchtwaren
+shop: charity
 ---

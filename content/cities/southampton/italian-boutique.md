@@ -1,5 +1,5 @@
 ---
 title: "Italian Boutique"
 url: /southampton/italian-boutique/
-shop: Kleidung
+shop: clothes
 ---

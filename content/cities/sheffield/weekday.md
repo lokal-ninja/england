@@ -1,5 +1,5 @@
 ---
 title: "Weekday"
 url: /sheffield/weekday/
-shop: Kleidung
+shop: clothes
 ---

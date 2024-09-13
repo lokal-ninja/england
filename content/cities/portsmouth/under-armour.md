@@ -1,5 +1,5 @@
 ---
 title: "Under Armour"
 url: /portsmouth/under-armour/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Eurocell"
 url: /chelmsford/eurocell/
-shop: Baustoffe
+shop: trade
 ---

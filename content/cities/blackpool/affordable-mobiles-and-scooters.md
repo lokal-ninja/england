@@ -1,5 +1,5 @@
 ---
 title: "Affordable Mobiles and Scooters"
 url: /blackpool/affordable-mobiles-and-scooters/
-shop: Handy
+shop: mobile phone
 ---

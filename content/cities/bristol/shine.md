@@ -1,5 +1,5 @@
 ---
 title: "Shine"
 url: /bristol/shine/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Enchanted"
 url: /preston/enchanted/
-shop: Kosmetik
+shop: beauty
 ---

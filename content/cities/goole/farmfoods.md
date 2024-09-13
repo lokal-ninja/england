@@ -1,5 +1,5 @@
 ---
 title: "Farmfoods"
 url: /goole/farmfoods/
-shop: Tiefkühl
+shop: frozen food
 ---

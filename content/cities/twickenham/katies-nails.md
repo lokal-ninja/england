@@ -1,5 +1,5 @@
 ---
 title: "Katie's Nails"
 url: /twickenham/katies-nails/
-shop: Kosmetik
+shop: beauty
 ---

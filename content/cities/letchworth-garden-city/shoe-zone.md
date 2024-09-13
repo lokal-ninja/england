@@ -1,5 +1,5 @@
 ---
 title: "Shoe Zone"
 url: /letchworth-garden-city/shoe-zone/
-shop: Schuhe
+shop: shoes
 ---

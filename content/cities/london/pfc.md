@@ -1,5 +1,5 @@
 ---
 title: "PFC"
 url: /london/pfc/
-shop: Supermarkt
+shop: supermarket
 ---

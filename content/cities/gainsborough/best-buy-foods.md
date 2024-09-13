@@ -1,5 +1,5 @@
 ---
 title: "Best Buy Foods"
 url: /gainsborough/best-buy-foods/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Benbows"
 url: /fakenham/benbows/
-shop: Gemüse & Obst
+shop: greengrocer
 ---

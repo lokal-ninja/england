@@ -1,5 +1,5 @@
 ---
 title: "Hilltop Dry Cleaners"
 url: /nottingham/hilltop-dry-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

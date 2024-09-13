@@ -1,5 +1,5 @@
 ---
 title: "Solvape"
 url: /london/solvape/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

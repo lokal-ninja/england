@@ -1,5 +1,5 @@
 ---
 title: "Fat Face"
 url: /manchester/fat-face/
-shop: Kleidung
+shop: clothes
 ---

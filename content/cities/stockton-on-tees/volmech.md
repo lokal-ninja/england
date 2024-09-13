@@ -1,5 +1,5 @@
 ---
 title: "Volmech"
 url: /stockton-on-tees/volmech/
-shop: Autowerkstatt
+shop: car repair
 ---

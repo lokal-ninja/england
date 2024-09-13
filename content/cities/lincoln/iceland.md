@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /lincoln/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

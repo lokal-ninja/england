@@ -1,5 +1,5 @@
 ---
 title: "NU London"
 url: /london/nu-london/
-shop: Kleidung
+shop: clothes
 ---

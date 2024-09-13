@@ -1,5 +1,5 @@
 ---
 title: "JenningsBet"
 url: /dartford/jenningsbet/
-shop: Wettbüro
+shop: bookmaker
 ---

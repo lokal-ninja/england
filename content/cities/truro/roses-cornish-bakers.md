@@ -1,5 +1,5 @@
 ---
 title: "Rose's Cornish Bakers"
 url: /truro/roses-cornish-bakers/
-shop: Bäckerei
+shop: bakery
 ---

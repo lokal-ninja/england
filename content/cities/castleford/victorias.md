@@ -1,5 +1,5 @@
 ---
 title: "Victoria's"
 url: /castleford/victorias/
-shop: Schmuck
+shop: jewelry
 ---

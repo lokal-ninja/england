@@ -1,5 +1,5 @@
 ---
 title: "Beautiful Knitters"
 url: /london/beautiful-knitters/
-shop: Allgemein
+shop: shop
 ---

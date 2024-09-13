@@ -1,5 +1,5 @@
 ---
 title: "Co-op Food"
 url: /aylesbury/co-op-food/
-shop: Lebensmittel
+shop: convenience
 ---

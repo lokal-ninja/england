@@ -1,5 +1,5 @@
 ---
 title: "Sapphire Nails"
 url: /belper/sapphire-nails/
-shop: Kosmetik
+shop: beauty
 ---

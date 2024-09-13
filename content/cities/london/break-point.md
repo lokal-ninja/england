@@ -1,5 +1,5 @@
 ---
 title: "Break Point"
 url: /london/break-point/
-shop: Zeitungen
+shop: newsagent
 ---

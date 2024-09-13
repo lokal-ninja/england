@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /bromley/lidl-burnt-ash-lane/
-shop: Supermarkt
+shop: supermarket
 ---

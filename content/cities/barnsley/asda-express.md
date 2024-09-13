@@ -1,5 +1,5 @@
 ---
 title: "Asda Express"
 url: /barnsley/asda-express/
-shop: Lebensmittel
+shop: convenience
 ---

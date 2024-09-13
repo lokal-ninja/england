@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /lowestoft/tesco-express/
-shop: Lebensmittel
+shop: convenience
 ---

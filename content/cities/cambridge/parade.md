@@ -1,5 +1,5 @@
 ---
 title: "Parade"
 url: /cambridge/parade/
-shop: Andenken
+shop: gift
 ---

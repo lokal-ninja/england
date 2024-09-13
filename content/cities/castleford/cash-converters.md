@@ -1,5 +1,5 @@
 ---
 title: "Cash Converters"
 url: /castleford/cash-converters/
-shop: Leiher
+shop: pawnbroker
 ---

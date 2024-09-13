@@ -1,5 +1,5 @@
 ---
 title: "Green End Garage"
 url: /great-holland/green-end-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

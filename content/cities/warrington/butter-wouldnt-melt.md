@@ -1,5 +1,5 @@
 ---
 title: "Butter Wouldn't Melt"
 url: /warrington/butter-wouldnt-melt/
-shop: Bäckerei
+shop: bakery
 ---

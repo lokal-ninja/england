@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /stroud/whsmith/
-shop: Zeitungen
+shop: newsagent
 ---

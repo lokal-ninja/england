@@ -1,5 +1,5 @@
 ---
 title: "Bamfords Pharmacy"
 url: /chorley/bamfords-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

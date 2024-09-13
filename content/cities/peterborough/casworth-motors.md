@@ -1,5 +1,5 @@
 ---
 title: "Casworth Motors"
 url: /peterborough/casworth-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

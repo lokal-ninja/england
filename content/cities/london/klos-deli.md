@@ -1,5 +1,5 @@
 ---
 title: "Kłos Deli"
 url: /london/klos-deli/
-shop: Feinkost
+shop: deli
 ---

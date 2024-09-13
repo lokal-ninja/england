@@ -1,5 +1,5 @@
 ---
 title: "Hairway to Heaven"
 url: /ilkeston/hairway-to-heaven/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Uber Pleasure"
 url: /manchester/uber-pleasure/
-shop: Erotik
+shop: erotic
 ---

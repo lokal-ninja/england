@@ -1,5 +1,5 @@
 ---
 title: "Imperial Charity"
 url: /westbury/imperial-charity-warminster-road/
-shop: Gebrauchtwaren
+shop: charity
 ---

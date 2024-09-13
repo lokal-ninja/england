@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /ferndown/poundland/
-shop: Kramladen
+shop: variety store
 ---

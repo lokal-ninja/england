@@ -1,5 +1,5 @@
 ---
 title: "Mercedes-Benz"
 url: /west-thurrock/mercedes-benz/
-shop: Autohaus
+shop: car
 ---

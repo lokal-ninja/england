@@ -1,5 +1,5 @@
 ---
 title: "Leman Dry Cleaners"
 url: /london/leman-dry-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Thistles Gallery"
 url: /lowestoft/thistles-gallery/
-shop: Rahmen
+shop: frame
 ---

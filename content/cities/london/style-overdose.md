@@ -1,5 +1,5 @@
 ---
 title: "Style Overdose"
 url: /london/style-overdose/
-shop: Kleidung
+shop: clothes
 ---

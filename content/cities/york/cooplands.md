@@ -1,5 +1,5 @@
 ---
 title: "Cooplands"
 url: /york/cooplands/
-shop: Bäckerei
+shop: bakery
 ---

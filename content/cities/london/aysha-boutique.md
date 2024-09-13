@@ -1,5 +1,5 @@
 ---
 title: "Aysha Boutique"
 url: /london/aysha-boutique/
-shop: Kleidung
+shop: clothes
 ---

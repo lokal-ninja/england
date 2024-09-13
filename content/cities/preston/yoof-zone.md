@@ -1,5 +1,5 @@
 ---
 title: "YOOF ZONE"
 url: /preston/yoof-zone/
-shop: Videospiele
+shop: video games
 ---

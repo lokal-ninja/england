@@ -1,5 +1,5 @@
 ---
 title: "The Legend"
 url: /london/the-legend/
-shop: Friseur
+shop: hairdresser
 ---

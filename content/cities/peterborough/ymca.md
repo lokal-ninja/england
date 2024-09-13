@@ -1,5 +1,5 @@
 ---
 title: "YMCA"
 url: /peterborough/ymca/
-shop: Gebrauchtwaren
+shop: charity
 ---

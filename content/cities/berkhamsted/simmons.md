@@ -1,5 +1,5 @@
 ---
 title: "Simmons"
 url: /berkhamsted/simmons/
-shop: Bäckerei
+shop: bakery
 ---

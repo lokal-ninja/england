@@ -1,5 +1,5 @@
 ---
 title: "The Happy Foot Shop"
 url: /east-cowes/the-happy-foot-shop/
-shop: Kosmetik
+shop: beauty
 ---

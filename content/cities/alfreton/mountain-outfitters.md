@@ -1,5 +1,5 @@
 ---
 title: "Mountain Outfitters"
 url: /alfreton/mountain-outfitters/
-shop: Outdoor
+shop: outdoor
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Thou Art in Hampstead"
 url: /london/thou-art-in-hampstead/
-shop: Rahmen
+shop: frame
 ---

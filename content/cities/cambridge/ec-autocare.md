@@ -1,5 +1,5 @@
 ---
 title: "EC Autocare"
 url: /cambridge/ec-autocare/
-shop: Autowerkstatt
+shop: car repair
 ---

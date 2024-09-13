@@ -1,5 +1,5 @@
 ---
 title: "Seeing Solutions"
 url: /nottingham/seeing-solutions/
-shop: Allgemein
+shop: shop
 ---

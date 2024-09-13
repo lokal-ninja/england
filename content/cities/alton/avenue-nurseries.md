@@ -1,5 +1,5 @@
 ---
 title: "Avenue Nurseries"
 url: /alton/avenue-nurseries/
-shop: Garten-Center
+shop: garden centre
 ---

@@ -1,5 +1,5 @@
 ---
 title: "A J Green Printing"
 url: /cheltenham/a-j-green-printing/
-shop: Kopieren
+shop: copyshop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Beachcombers"
 url: /sandhurst/beachcombers/
-shop: Friseur
+shop: hairdresser
 ---

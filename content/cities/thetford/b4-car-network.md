@@ -1,5 +1,5 @@
 ---
 title: "B4 Car Network"
 url: /thetford/b4-car-network/
-shop: Autohaus
+shop: car
 ---

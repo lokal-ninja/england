@@ -1,5 +1,5 @@
 ---
 title: "Martin's Tyres"
 url: /london/martins-tyres/
-shop: Reifen
+shop: tyres
 ---

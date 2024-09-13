@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /nottingham/tesco-express-howbeck-road/
-shop: Lebensmittel
+shop: convenience
 ---

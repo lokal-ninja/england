@@ -1,5 +1,5 @@
 ---
 title: "Glenmill"
 url: /sheffield/glenmill/
-shop: Möbel
+shop: furniture
 ---

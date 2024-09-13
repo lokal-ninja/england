@@ -1,5 +1,5 @@
 ---
 title: "Rivus"
 url: /ipswich/rivus/
-shop: Autowerkstatt
+shop: car repair
 ---

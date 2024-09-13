@@ -1,5 +1,5 @@
 ---
 title: "ScS"
 url: /norwich/scs/
-shop: Möbel
+shop: furniture
 ---

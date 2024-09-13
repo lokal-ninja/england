@@ -1,5 +1,5 @@
 ---
 title: "Zigzags Hair"
 url: /mansfield/zigzags-hair/
-shop: Friseur
+shop: hairdresser
 ---

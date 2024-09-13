@@ -1,5 +1,5 @@
 ---
 title: "Scope"
 url: /workington/scope/
-shop: Gebrauchtwaren
+shop: charity
 ---

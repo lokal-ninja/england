@@ -1,5 +1,5 @@
 ---
 title: "Sheppy Graphics"
 url: /sheerness/sheppy-graphics/
-shop: Kopieren
+shop: copyshop
 ---

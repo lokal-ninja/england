@@ -1,5 +1,5 @@
 ---
 title: "Royal Dry Cleaners"
 url: /feltham/royal-dry-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

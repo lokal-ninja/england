@@ -1,5 +1,5 @@
 ---
 title: "HomeSense"
 url: /grays/homesense/
-shop: Raumausstattung
+shop: interior decoration
 ---

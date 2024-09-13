@@ -1,5 +1,5 @@
 ---
 title: "Dunelm"
 url: /stockport/dunelm/
-shop: Raumausstattung
+shop: interior decoration
 ---

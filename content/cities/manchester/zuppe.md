@@ -1,5 +1,5 @@
 ---
 title: "Zuppe"
 url: /manchester/zuppe/
-shop: Großhandel
+shop: wholesale
 ---

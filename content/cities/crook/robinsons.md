@@ -1,5 +1,5 @@
 ---
 title: "Robinsons"
 url: /crook/robinsons/
-shop: Leerstehend
+shop: vacant
 ---

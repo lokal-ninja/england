@@ -1,5 +1,5 @@
 ---
 title: "Pricecutter"
 url: /nottingham/pricecutter/
-shop: Supermarkt
+shop: supermarket
 ---

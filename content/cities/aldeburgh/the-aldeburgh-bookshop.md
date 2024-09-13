@@ -1,5 +1,5 @@
 ---
 title: "The Aldeburgh Bookshop"
 url: /aldeburgh/the-aldeburgh-bookshop/
-shop: Bücher
+shop: books
 ---

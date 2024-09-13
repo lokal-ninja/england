@@ -1,5 +1,5 @@
 ---
 title: "China Ark Supermarket"
 url: /london/china-ark-supermarket/
-shop: Lebensmittel
+shop: convenience
 ---

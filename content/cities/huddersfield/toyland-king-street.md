@@ -1,5 +1,5 @@
 ---
 title: "Toyland"
 url: /huddersfield/toyland-king-street/
-shop: Spielzeug
+shop: toys
 ---

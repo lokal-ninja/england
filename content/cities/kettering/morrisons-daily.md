@@ -1,5 +1,5 @@
 ---
 title: "Morrisons Daily"
 url: /kettering/morrisons-daily/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Voy Trade Centre"
 url: /oldham/voy-trade-centre/
-shop: Autohaus
+shop: car
 ---

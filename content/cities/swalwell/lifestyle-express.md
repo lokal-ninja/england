@@ -1,5 +1,5 @@
 ---
 title: "Lifestyle Express"
 url: /swalwell/lifestyle-express/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Clintons"
 url: /peterborough/clintons/
-shop: Andenken
+shop: gift
 ---

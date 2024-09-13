@@ -1,5 +1,5 @@
 ---
 title: "QD"
 url: /attleborough/qd/
-shop: Kramladen
+shop: variety store
 ---

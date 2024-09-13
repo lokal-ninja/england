@@ -1,5 +1,5 @@
 ---
 title: "Entertainment Exchange"
 url: /darlington/entertainment-exchange/
-shop: Videospiele
+shop: video games
 ---

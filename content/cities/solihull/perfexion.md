@@ -1,5 +1,5 @@
 ---
 title: "perfexion"
 url: /solihull/perfexion/
-shop: Kosmetik
+shop: beauty
 ---

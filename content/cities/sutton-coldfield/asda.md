@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /sutton-coldfield/asda/
-shop: Supermarkt
+shop: supermarket
 ---

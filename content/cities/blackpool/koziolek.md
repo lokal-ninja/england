@@ -1,5 +1,5 @@
 ---
 title: "Koziolek"
 url: /blackpool/koziolek/
-shop: Lebensmittel
+shop: convenience
 ---

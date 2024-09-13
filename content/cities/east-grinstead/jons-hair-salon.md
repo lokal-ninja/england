@@ -1,5 +1,5 @@
 ---
 title: "Jons Hair Salon"
 url: /east-grinstead/jons-hair-salon/
-shop: Friseur
+shop: hairdresser
 ---

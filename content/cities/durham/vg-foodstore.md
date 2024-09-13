@@ -1,5 +1,5 @@
 ---
 title: "VG Foodstore"
 url: /durham/vg-foodstore/
-shop: Lebensmittel
+shop: convenience
 ---

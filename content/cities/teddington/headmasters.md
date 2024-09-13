@@ -1,5 +1,5 @@
 ---
 title: "Headmasters"
 url: /teddington/headmasters/
-shop: Friseur
+shop: hairdresser
 ---

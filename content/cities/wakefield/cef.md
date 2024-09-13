@@ -1,5 +1,5 @@
 ---
 title: "CEF"
 url: /wakefield/cef/
-shop: Elektrisch
+shop: electrical
 ---

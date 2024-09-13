@@ -1,5 +1,5 @@
 ---
 title: "Palmers Papers"
 url: /durrington/palmers-papers/
-shop: Lebensmittel
+shop: convenience
 ---

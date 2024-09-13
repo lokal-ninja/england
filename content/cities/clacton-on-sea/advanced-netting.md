@@ -1,5 +1,5 @@
 ---
 title: "Advanced Netting"
 url: /clacton-on-sea/advanced-netting/
-shop: Angeln
+shop: fishing
 ---

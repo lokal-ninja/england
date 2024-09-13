@@ -1,5 +1,5 @@
 ---
 title: "Shepherd Foods"
 url: /london/shepherd-foods/
-shop: Lebensmittel
+shop: convenience
 ---

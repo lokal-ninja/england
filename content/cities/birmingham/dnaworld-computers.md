@@ -1,5 +1,5 @@
 ---
 title: "DNAworld Computers"
 url: /birmingham/dnaworld-computers/
-shop: Computer
+shop: computer
 ---

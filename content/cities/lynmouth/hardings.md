@@ -1,5 +1,5 @@
 ---
 title: "Hardings"
 url: /lynmouth/hardings/
-shop: Kleidung
+shop: clothes
 ---

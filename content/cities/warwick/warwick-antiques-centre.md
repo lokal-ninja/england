@@ -1,5 +1,5 @@
 ---
 title: "Warwick Antiques Centre"
 url: /warwick/warwick-antiques-centre/
-shop: Antiquitäten
+shop: antiques
 ---

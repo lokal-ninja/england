@@ -1,5 +1,5 @@
 ---
 title: "Camgas"
 url: /cambridge/camgas/
-shop: Treibstoff
+shop: fuel
 ---

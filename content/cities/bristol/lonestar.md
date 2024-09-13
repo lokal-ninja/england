@@ -1,5 +1,5 @@
 ---
 title: "Lonestar"
 url: /bristol/lonestar/
-shop: Süßwaren
+shop: confectionery
 ---

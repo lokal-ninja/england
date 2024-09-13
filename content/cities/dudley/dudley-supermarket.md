@@ -1,5 +1,5 @@
 ---
 title: "Dudley Supermarket"
 url: /dudley/dudley-supermarket/
-shop: Lebensmittel
+shop: convenience
 ---

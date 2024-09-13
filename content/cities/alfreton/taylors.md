@@ -1,5 +1,5 @@
 ---
 title: "Taylor's"
 url: /alfreton/taylors/
-shop: Allgemein
+shop: shop
 ---

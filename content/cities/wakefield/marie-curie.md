@@ -1,5 +1,5 @@
 ---
 title: "Marie Curie"
 url: /wakefield/marie-curie/
-shop: Gebrauchtwaren
+shop: charity
 ---

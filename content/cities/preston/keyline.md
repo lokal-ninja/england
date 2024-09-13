@@ -1,5 +1,5 @@
 ---
 title: "Keyline"
 url: /preston/keyline/
-shop: Baustoffe
+shop: trade
 ---

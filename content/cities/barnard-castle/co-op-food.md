@@ -1,5 +1,5 @@
 ---
 title: "Co-op Food"
 url: /barnard-castle/co-op-food/
-shop: Supermarkt
+shop: supermarket
 ---

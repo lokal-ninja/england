@@ -1,5 +1,5 @@
 ---
 title: "The Corner Shop"
 url: /bolton/the-corner-shop/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "EE"
 url: /north-shields/ee/
-shop: Handy
+shop: mobile phone
 ---

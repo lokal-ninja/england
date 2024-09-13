@@ -1,5 +1,5 @@
 ---
 title: "Calverton Road Store"
 url: /nottingham/calverton-road-store/
-shop: Lebensmittel
+shop: convenience
 ---

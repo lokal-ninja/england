@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /camborne/spar/
-shop: Lebensmittel
+shop: convenience
 ---

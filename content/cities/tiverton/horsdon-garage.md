@@ -1,5 +1,5 @@
 ---
 title: "Horsdon Garage"
 url: /tiverton/horsdon-garage/
-shop: Lebensmittel
+shop: convenience
 ---

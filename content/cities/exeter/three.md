@@ -1,5 +1,5 @@
 ---
 title: "Three."
 url: /exeter/three/
-shop: Handy
+shop: mobile phone
 ---

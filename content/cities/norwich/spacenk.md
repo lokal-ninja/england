@@ -1,5 +1,5 @@
 ---
 title: "SpaceNK"
 url: /norwich/spacenk/
-shop: Parfümerie
+shop: perfumery
 ---

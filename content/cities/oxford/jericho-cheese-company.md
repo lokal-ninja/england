@@ -1,5 +1,5 @@
 ---
 title: "Jericho Cheese Company"
 url: /oxford/jericho-cheese-company/
-shop: Käse
+shop: cheese
 ---

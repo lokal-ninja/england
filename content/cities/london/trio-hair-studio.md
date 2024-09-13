@@ -1,5 +1,5 @@
 ---
 title: "Trio Hair Studio"
 url: /london/trio-hair-studio/
-shop: Friseur
+shop: hairdresser
 ---

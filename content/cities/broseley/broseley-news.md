@@ -1,5 +1,5 @@
 ---
 title: "Broseley News"
 url: /broseley/broseley-news/
-shop: Zeitungen
+shop: newsagent
 ---

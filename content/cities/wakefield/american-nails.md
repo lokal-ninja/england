@@ -1,5 +1,5 @@
 ---
 title: "American Nails"
 url: /wakefield/american-nails/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aunty Nanas"
 url: /norwich/aunty-nanas/
-shop: Möbel
+shop: furniture
 ---

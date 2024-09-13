@@ -1,5 +1,5 @@
 ---
 title: "Stax Trade Centre"
 url: /bristol/stax-trade-centre/
-shop: Eisenwaren
+shop: hardware
 ---

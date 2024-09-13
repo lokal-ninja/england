@@ -1,5 +1,5 @@
 ---
 title: "Sally Beauty"
 url: /chelmsford/sally-beauty/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

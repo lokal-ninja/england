@@ -1,5 +1,5 @@
 ---
 title: "Alesso"
 url: /london/alesso/
-shop: Raumausstattung
+shop: interior decoration
 ---

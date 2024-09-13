@@ -1,5 +1,5 @@
 ---
 title: "Gentlemen's Barbershop"
 url: /hove/gentlemens-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

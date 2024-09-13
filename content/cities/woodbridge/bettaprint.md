@@ -1,5 +1,5 @@
 ---
 title: "Bettaprint"
 url: /woodbridge/bettaprint/
-shop: Schreibwaren
+shop: office supplies
 ---

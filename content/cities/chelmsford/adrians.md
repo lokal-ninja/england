@@ -1,5 +1,5 @@
 ---
 title: "Adrians"
 url: /chelmsford/adrians/
-shop: Immobilien
+shop: estate agent
 ---

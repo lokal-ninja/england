@@ -1,5 +1,5 @@
 ---
 title: "Vapubble"
 url: /waterlooville/vapubble/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Anorak"
 url: /olney/anorak/
-shop: Kleidung
+shop: clothes
 ---

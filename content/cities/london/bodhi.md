@@ -1,5 +1,5 @@
 ---
 title: "Bodhi"
 url: /london/bodhi/
-shop: Kosmetik
+shop: beauty
 ---

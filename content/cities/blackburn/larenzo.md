@@ -1,5 +1,5 @@
 ---
 title: "LareNZo"
 url: /blackburn/larenzo/
-shop: Kleidung
+shop: clothes
 ---

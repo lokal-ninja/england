@@ -1,5 +1,5 @@
 ---
 title: "Superdrug"
 url: /mexborough/superdrug/
-shop: Drogerie
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Barnet Fair"
 url: /derby/barnet-fair/
-shop: Friseur
+shop: hairdresser
 ---

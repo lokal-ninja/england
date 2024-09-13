@@ -1,5 +1,5 @@
 ---
 title: "Krafft Jewellers"
 url: /chelmsford/krafft-jewellers/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bunneys Bikes"
 url: /nottingham/bunneys-bikes/
-shop: Fahrrad
+shop: bicycle
 ---

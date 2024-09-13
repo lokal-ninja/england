@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /chesterfield/tesco-express-middle-pavement/
-shop: Lebensmittel
+shop: convenience
 ---

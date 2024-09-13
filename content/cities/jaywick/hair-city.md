@@ -1,5 +1,5 @@
 ---
 title: "Hair City"
 url: /jaywick/hair-city/
-shop: Friseur
+shop: hairdresser
 ---

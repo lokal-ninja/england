@@ -1,5 +1,5 @@
 ---
 title: "Ramson's Barbershop"
 url: /bradford/ramsons-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

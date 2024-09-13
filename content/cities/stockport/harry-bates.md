@@ -1,5 +1,5 @@
 ---
 title: "Harry Bates"
 url: /stockport/harry-bates/
-shop: Badezimmer
+shop: bathroom
 ---

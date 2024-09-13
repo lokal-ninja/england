@@ -1,5 +1,5 @@
 ---
 title: "Trafford Lowe Funeral Service"
 url: /alfreton/trafford-lowe-funeral-service/
-shop: Bestattungen
+shop: funeral directors
 ---

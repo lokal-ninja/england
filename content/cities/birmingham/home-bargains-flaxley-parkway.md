@@ -1,5 +1,5 @@
 ---
 title: "Home Bargains"
 url: /birmingham/home-bargains-flaxley-parkway/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Capital Connections"
 url: /london/capital-connections/
-shop: Handy
+shop: mobile phone
 ---

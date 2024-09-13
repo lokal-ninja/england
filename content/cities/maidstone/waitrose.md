@@ -1,5 +1,5 @@
 ---
 title: "Waitrose"
 url: /maidstone/waitrose/
-shop: Supermarkt
+shop: supermarket
 ---

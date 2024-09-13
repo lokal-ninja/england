@@ -1,5 +1,5 @@
 ---
 title: "David Masters"
 url: /twickenham/david-masters/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cook"
 url: /chichester/cook/
-shop: Tiefkühl
+shop: frozen food
 ---

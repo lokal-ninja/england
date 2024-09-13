@@ -1,5 +1,5 @@
 ---
 title: "Anglia furnishing Fabrics"
 url: /norwich/anglia-furnishing-fabrics/
-shop: Textil
+shop: fabric
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Noah Boutique"
 url: /luton/noah-boutique/
-shop: Kleidung
+shop: clothes
 ---

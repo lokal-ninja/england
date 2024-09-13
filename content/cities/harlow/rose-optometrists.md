@@ -1,5 +1,5 @@
 ---
 title: "Rose Optometrists"
 url: /harlow/rose-optometrists/
-shop: Optiker
+shop: optician
 ---

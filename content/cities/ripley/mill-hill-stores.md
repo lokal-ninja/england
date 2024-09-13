@@ -1,5 +1,5 @@
 ---
 title: "Mill Hill Stores"
 url: /ripley/mill-hill-stores/
-shop: Lebensmittel
+shop: convenience
 ---

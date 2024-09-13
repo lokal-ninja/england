@@ -1,5 +1,5 @@
 ---
 title: "ATS Euromaster Manchester Waterloo Road"
 url: /manchester/ats-euromaster-manchester-waterloo-road/
-shop: Autowerkstatt
+shop: car repair
 ---

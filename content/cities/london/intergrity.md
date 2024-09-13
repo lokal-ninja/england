@@ -1,5 +1,5 @@
 ---
 title: "Intergrity"
 url: /london/intergrity/
-shop: Handy
+shop: mobile phone
 ---

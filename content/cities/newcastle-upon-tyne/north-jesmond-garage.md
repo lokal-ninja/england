@@ -1,5 +1,5 @@
 ---
 title: "North Jesmond Garage"
 url: /newcastle-upon-tyne/north-jesmond-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

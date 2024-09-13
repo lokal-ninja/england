@@ -1,5 +1,5 @@
 ---
 title: "Novel"
 url: /sheffield/novel/
-shop: Bücher
+shop: books
 ---

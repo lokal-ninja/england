@@ -1,5 +1,5 @@
 ---
 title: "Joya"
 url: /stroud/joya/
-shop: Andenken
+shop: gift
 ---

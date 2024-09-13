@@ -1,5 +1,5 @@
 ---
 title: "Dan’s barbershop"
 url: /london/dans-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

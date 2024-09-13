@@ -1,5 +1,5 @@
 ---
 title: "Angie Scott Cakes"
 url: /ipswich/angie-scott-cakes/
-shop: Bäckerei
+shop: bakery
 ---

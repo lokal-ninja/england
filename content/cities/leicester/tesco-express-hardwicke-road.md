@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /leicester/tesco-express-hardwicke-road/
-shop: Lebensmittel
+shop: convenience
 ---

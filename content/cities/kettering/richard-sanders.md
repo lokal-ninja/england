@@ -1,5 +1,5 @@
 ---
 title: "Richard Sanders"
 url: /kettering/richard-sanders/
-shop: Autohaus
+shop: car
 ---

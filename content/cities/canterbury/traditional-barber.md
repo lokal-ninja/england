@@ -1,5 +1,5 @@
 ---
 title: "Traditional Barber"
 url: /canterbury/traditional-barber/
-shop: Friseur
+shop: hairdresser
 ---

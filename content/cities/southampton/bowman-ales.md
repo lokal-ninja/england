@@ -1,5 +1,5 @@
 ---
 title: "Bowman Ales"
 url: /southampton/bowman-ales/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tattoo Studio"
 url: /sandown/tattoo-studio/
-shop: Tattoo
+shop: tattoo
 ---

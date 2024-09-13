@@ -1,5 +1,5 @@
 ---
 title: "Suite Dreams"
 url: /weston-super-mare/suite-dreams/
-shop: Möbel
+shop: furniture
 ---

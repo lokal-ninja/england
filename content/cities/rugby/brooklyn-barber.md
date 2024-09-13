@@ -1,5 +1,5 @@
 ---
 title: "Brooklyn Barber"
 url: /rugby/brooklyn-barber/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Snapewood Express"
 url: /nottingham/snapewood-express/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "On Point Barbers"
 url: /sudbury/on-point-barbers/
-shop: Friseur
+shop: hairdresser
 ---

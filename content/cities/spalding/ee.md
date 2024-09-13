@@ -1,5 +1,5 @@
 ---
 title: "EE"
 url: /spalding/ee/
-shop: Handy
+shop: mobile phone
 ---

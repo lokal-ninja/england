@@ -1,5 +1,5 @@
 ---
 title: "GAP"
 url: /winsford/gap/
-shop: Baustoffe
+shop: trade
 ---

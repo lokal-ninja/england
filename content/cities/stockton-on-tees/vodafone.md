@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
 url: /stockton-on-tees/vodafone/
-shop: Handy
+shop: mobile phone
 ---

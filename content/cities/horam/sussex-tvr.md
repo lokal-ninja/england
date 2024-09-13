@@ -1,5 +1,5 @@
 ---
 title: "Sussex TVR"
 url: /horam/sussex-tvr/
-shop: Autowerkstatt
+shop: car repair
 ---

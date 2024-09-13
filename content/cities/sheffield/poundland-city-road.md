@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /sheffield/poundland-city-road/
-shop: Kramladen
+shop: variety store
 ---

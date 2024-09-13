@@ -1,5 +1,5 @@
 ---
 title: "Harwoods Five Oaks Audi"
 url: /billingshurst/harwoods-five-oaks-audi/
-shop: Autohaus
+shop: car
 ---

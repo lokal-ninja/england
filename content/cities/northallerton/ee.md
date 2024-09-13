@@ -1,5 +1,5 @@
 ---
 title: "EE"
 url: /northallerton/ee/
-shop: Handy
+shop: mobile phone
 ---

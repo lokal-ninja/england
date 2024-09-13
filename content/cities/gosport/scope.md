@@ -1,5 +1,5 @@
 ---
 title: "Scope"
 url: /gosport/scope/
-shop: Gebrauchtwaren
+shop: charity
 ---

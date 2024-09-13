@@ -1,5 +1,5 @@
 ---
 title: "Beauty Lounge"
 url: /darlington/beauty-lounge/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dhillon Stores"
 url: /ilkeston/dhillon-stores/
-shop: Lebensmittel
+shop: convenience
 ---

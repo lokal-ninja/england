@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /reading/asda/
-shop: Lebensmittel
+shop: convenience
 ---

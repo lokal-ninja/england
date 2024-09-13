@@ -1,5 +1,5 @@
 ---
 title: "Poundstretcher"
 url: /dronfield/poundstretcher/
-shop: Kramladen
+shop: variety store
 ---

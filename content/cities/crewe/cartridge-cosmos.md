@@ -1,5 +1,5 @@
 ---
 title: "Cartridge Cosmos"
 url: /crewe/cartridge-cosmos/
-shop: Kopieren
+shop: copyshop
 ---

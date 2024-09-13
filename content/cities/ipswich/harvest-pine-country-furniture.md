@@ -1,5 +1,5 @@
 ---
 title: "Harvest Pine Country Furniture"
 url: /ipswich/harvest-pine-country-furniture/
-shop: Leerstehend
+shop: vacant
 ---

@@ -1,5 +1,5 @@
 ---
 title: "buds"
 url: /harwich/buds/
-shop: Blumen
+shop: florist
 ---

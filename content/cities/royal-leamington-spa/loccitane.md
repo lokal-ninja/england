@@ -1,5 +1,5 @@
 ---
 title: "L'Occitane"
 url: /royal-leamington-spa/loccitane/
-shop: Kosmetik
+shop: beauty
 ---

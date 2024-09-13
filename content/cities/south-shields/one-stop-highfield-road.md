@@ -1,5 +1,5 @@
 ---
 title: "One Stop"
 url: /south-shields/one-stop-highfield-road/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dunelm"
 url: /crewe/dunelm/
-shop: Raumausstattung
+shop: interior decoration
 ---

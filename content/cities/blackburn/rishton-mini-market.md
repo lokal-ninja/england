@@ -1,5 +1,5 @@
 ---
 title: "Rishton Mini Market"
 url: /blackburn/rishton-mini-market/
-shop: Lebensmittel
+shop: convenience
 ---

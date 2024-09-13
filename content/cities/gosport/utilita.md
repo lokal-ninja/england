@@ -1,5 +1,5 @@
 ---
 title: "Utilita"
 url: /gosport/utilita/
-shop: Handy
+shop: mobile phone
 ---

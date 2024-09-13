@@ -1,5 +1,5 @@
 ---
 title: "The Cloth Shop"
 url: /seaton/the-cloth-shop/
-shop: Textil
+shop: fabric
 ---

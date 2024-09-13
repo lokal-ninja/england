@@ -1,5 +1,5 @@
 ---
 title: "Al-Dimashqi"
 url: /london/al-dimashqi/
-shop: Supermarkt
+shop: supermarket
 ---

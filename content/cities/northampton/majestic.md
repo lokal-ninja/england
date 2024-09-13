@@ -1,5 +1,5 @@
 ---
 title: "Majestic"
 url: /northampton/majestic/
-shop: Spirituosen
+shop: alcohol
 ---

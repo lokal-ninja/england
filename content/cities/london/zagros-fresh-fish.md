@@ -1,5 +1,5 @@
 ---
 title: "Zagros Fresh Fish"
 url: /london/zagros-fresh-fish/
-shop: Fisch
+shop: seafood
 ---

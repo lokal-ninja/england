@@ -1,5 +1,5 @@
 ---
 title: "Picturica"
 url: /aldershot/picturica/
-shop: Foto
+shop: photo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Charties"
 url: /seahouses/charties/
-shop: Friseur
+shop: hairdresser
 ---

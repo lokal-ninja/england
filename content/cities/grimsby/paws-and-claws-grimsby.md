@@ -1,5 +1,5 @@
 ---
 title: "Paws and Claws Grimsby"
 url: /grimsby/paws-and-claws-grimsby/
-shop: Tiersalon
+shop: pet grooming
 ---

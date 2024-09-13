@@ -1,5 +1,5 @@
 ---
 title: "Bobby's Booze"
 url: /hartlepool/bobbys-booze/
-shop: Spirituosen
+shop: alcohol
 ---

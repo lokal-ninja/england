@@ -1,5 +1,5 @@
 ---
 title: "Raven Drones"
 url: /grimsby/raven-drones/
-shop: Foto
+shop: photo
 ---

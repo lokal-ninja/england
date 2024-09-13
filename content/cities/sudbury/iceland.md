@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /sudbury/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

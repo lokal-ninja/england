@@ -1,5 +1,5 @@
 ---
 title: "Mini Euro"
 url: /clacton-on-sea/mini-euro/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ricard Harvey"
 url: /stourbridge/ricard-harvey/
-shop: Friseur
+shop: hairdresser
 ---

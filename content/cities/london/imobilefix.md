@@ -1,5 +1,5 @@
 ---
 title: "iMobileFix"
 url: /london/imobilefix/
-shop: Handy
+shop: mobile phone
 ---

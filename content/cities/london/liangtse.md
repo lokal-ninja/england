@@ -1,5 +1,5 @@
 ---
 title: "Liangtse"
 url: /london/liangtse/
-shop: Massage
+shop: massage
 ---

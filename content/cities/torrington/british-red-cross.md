@@ -1,5 +1,5 @@
 ---
 title: "British Red Cross"
 url: /torrington/british-red-cross/
-shop: Gebrauchtwaren
+shop: charity
 ---

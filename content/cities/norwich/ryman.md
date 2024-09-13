@@ -1,5 +1,5 @@
 ---
 title: "Ryman"
 url: /norwich/ryman/
-shop: Schreibwaren
+shop: office supplies
 ---

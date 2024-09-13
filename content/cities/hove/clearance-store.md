@@ -1,5 +1,5 @@
 ---
 title: "Clearance Store"
 url: /hove/clearance-store/
-shop: Allgemein
+shop: shop
 ---

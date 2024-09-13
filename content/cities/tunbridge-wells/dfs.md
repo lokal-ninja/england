@@ -1,5 +1,5 @@
 ---
 title: "DFS"
 url: /tunbridge-wells/dfs/
-shop: Möbel
+shop: furniture
 ---

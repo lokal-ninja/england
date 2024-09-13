@@ -1,5 +1,5 @@
 ---
 title: "Waitrose"
 url: /locks-heath-southampton/waitrose/
-shop: Supermarkt
+shop: supermarket
 ---

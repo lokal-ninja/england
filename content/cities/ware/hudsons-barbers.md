@@ -1,5 +1,5 @@
 ---
 title: "Hudsons Barbers"
 url: /ware/hudsons-barbers/
-shop: Friseur
+shop: hairdresser
 ---

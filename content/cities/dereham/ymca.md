@@ -1,5 +1,5 @@
 ---
 title: "YMCA"
 url: /dereham/ymca/
-shop: Gebrauchtwaren
+shop: charity
 ---

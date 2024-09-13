@@ -1,5 +1,5 @@
 ---
 title: "Autumn and May"
 url: /london/autumn-and-may/
-shop: Schmuck
+shop: jewelry
 ---

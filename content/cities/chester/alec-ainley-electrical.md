@@ -1,5 +1,5 @@
 ---
 title: "Alec Ainley Electrical"
 url: /chester/alec-ainley-electrical/
-shop: Elektrisch
+shop: electrical
 ---

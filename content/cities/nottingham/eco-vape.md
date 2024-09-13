@@ -1,5 +1,5 @@
 ---
 title: "Eco Vape"
 url: /nottingham/eco-vape/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

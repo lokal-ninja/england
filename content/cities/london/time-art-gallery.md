@@ -1,5 +1,5 @@
 ---
 title: "Time Art Gallery"
 url: /london/time-art-gallery/
-shop: Kunst
+shop: art
 ---

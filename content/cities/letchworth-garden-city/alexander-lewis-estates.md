@@ -1,5 +1,5 @@
 ---
 title: "Alexander Lewis Estates"
 url: /letchworth-garden-city/alexander-lewis-estates/
-shop: Immobilien
+shop: estate agent
 ---

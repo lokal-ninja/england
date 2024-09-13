@@ -1,5 +1,5 @@
 ---
 title: "Philip John Jewellers"
 url: /great-yarmouth/philip-john-jewellers/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /bishops-stortford/poundland/
-shop: Kramladen
+shop: variety store
 ---

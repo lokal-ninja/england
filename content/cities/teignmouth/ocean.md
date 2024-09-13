@@ -1,5 +1,5 @@
 ---
 title: "Ocean"
 url: /teignmouth/ocean/
-shop: Friseur
+shop: hairdresser
 ---

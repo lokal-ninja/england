@@ -1,5 +1,5 @@
 ---
 title: "Ian Johnson"
 url: /norwich/ian-johnson/
-shop: Friseur
+shop: hairdresser
 ---

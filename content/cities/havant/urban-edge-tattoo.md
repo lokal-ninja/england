@@ -1,5 +1,5 @@
 ---
 title: "Urban Edge Tattoo"
 url: /havant/urban-edge-tattoo/
-shop: Tattoo
+shop: tattoo
 ---

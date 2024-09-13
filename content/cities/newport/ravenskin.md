@@ -1,5 +1,5 @@
 ---
 title: "Ravenskin"
 url: /newport/ravenskin/
-shop: Tattoo
+shop: tattoo
 ---

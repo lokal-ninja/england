@@ -1,5 +1,5 @@
 ---
 title: "Halfords"
 url: /cramlington/halfords/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lister's"
 url: /leeds/listers/
-shop: Jalousien
+shop: window blind
 ---

@@ -1,5 +1,5 @@
 ---
 title: "D.P Clarke"
 url: /hemel-hempstead/d-p-clarke/
-shop: Metzgerei
+shop: butcher
 ---

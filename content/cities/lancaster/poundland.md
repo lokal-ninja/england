@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /lancaster/poundland/
-shop: Kramladen
+shop: variety store
 ---

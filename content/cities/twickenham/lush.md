@@ -1,5 +1,5 @@
 ---
 title: "Lush"
 url: /twickenham/lush/
-shop: Friseur
+shop: hairdresser
 ---

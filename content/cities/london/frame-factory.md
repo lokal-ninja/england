@@ -1,5 +1,5 @@
 ---
 title: "Frame Factory"
 url: /london/frame-factory/
-shop: Rahmen
+shop: frame
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lockwood"
 url: /leeds/lockwood/
-shop: Autoteile
+shop: car parts
 ---

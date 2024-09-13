@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /eastbourne/whsmith/
-shop: Zeitungen
+shop: newsagent
 ---

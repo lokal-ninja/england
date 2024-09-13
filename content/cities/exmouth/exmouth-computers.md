@@ -1,5 +1,5 @@
 ---
 title: "Exmouth Computers"
 url: /exmouth/exmouth-computers/
-shop: Computer
+shop: computer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Co-op Food"
 url: /charvil/co-op-food/
-shop: Lebensmittel
+shop: convenience
 ---

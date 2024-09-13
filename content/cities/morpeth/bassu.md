@@ -1,5 +1,5 @@
 ---
 title: "Bassu"
 url: /morpeth/bassu/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Alan D Box"
 url: /nottingham/alan-d-box/
-shop: Optiker
+shop: optician
 ---

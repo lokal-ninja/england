@@ -1,5 +1,5 @@
 ---
 title: "CeX"
 url: /ashford/cex/
-shop: Elektronik
+shop: electronics
 ---

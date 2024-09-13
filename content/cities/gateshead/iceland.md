@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /gateshead/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

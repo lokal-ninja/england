@@ -1,5 +1,5 @@
 ---
 title: "Phones"
 url: /northampton/phones/
-shop: Handy
+shop: mobile phone
 ---

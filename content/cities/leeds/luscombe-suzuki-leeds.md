@@ -1,5 +1,5 @@
 ---
 title: "Luscombe Suzuki Leeds"
 url: /leeds/luscombe-suzuki-leeds/
-shop: Autohaus
+shop: car
 ---

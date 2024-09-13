@@ -1,5 +1,5 @@
 ---
 title: "Blades"
 url: /launceston/blades/
-shop: Friseur
+shop: hairdresser
 ---

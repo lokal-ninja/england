@@ -1,5 +1,5 @@
 ---
 title: "NAV Mini Market"
 url: /wakefield/nav-mini-market/
-shop: Lebensmittel
+shop: convenience
 ---

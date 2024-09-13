@@ -1,5 +1,5 @@
 ---
 title: "The Village Superstore"
 url: /bingley/the-village-superstore/
-shop: Lebensmittel
+shop: convenience
 ---

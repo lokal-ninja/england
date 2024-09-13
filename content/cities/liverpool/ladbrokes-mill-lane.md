@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /liverpool/ladbrokes-mill-lane/
-shop: Wettbüro
+shop: bookmaker
 ---

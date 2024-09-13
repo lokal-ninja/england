@@ -1,5 +1,5 @@
 ---
 title: "Redbourn Eyecare"
 url: /redbourn/redbourn-eyecare/
-shop: Optiker
+shop: optician
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tripal Garage"
 url: /dunston/tripal-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

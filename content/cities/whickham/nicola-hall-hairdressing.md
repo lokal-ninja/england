@@ -1,5 +1,5 @@
 ---
 title: "Nicola Hall Hairdressing"
 url: /whickham/nicola-hall-hairdressing/
-shop: Friseur
+shop: hairdresser
 ---

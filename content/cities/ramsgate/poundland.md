@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /ramsgate/poundland/
-shop: Kramladen
+shop: variety store
 ---

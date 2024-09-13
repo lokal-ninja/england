@@ -1,5 +1,5 @@
 ---
 title: "Just Paws"
 url: /shoreham-by-sea/just-paws/
-shop: Tiersalon
+shop: pet grooming
 ---

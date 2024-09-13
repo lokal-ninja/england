@@ -1,5 +1,5 @@
 ---
 title: "Graffiti"
 url: /bristol/graffiti/
-shop: Friseur
+shop: hairdresser
 ---

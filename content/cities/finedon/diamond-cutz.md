@@ -1,5 +1,5 @@
 ---
 title: "Diamond Cutz"
 url: /finedon/diamond-cutz/
-shop: Friseur
+shop: hairdresser
 ---

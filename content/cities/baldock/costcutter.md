@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /baldock/costcutter/
-shop: Lebensmittel
+shop: convenience
 ---

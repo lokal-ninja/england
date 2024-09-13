@@ -1,5 +1,5 @@
 ---
 title: "Belleza"
 url: /colchester/belleza/
-shop: Kosmetik
+shop: beauty
 ---

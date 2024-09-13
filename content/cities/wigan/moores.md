@@ -1,5 +1,5 @@
 ---
 title: "Moores"
 url: /wigan/moores/
-shop: Autohaus
+shop: car
 ---

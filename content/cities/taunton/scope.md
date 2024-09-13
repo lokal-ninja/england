@@ -1,5 +1,5 @@
 ---
 title: "Scope"
 url: /taunton/scope/
-shop: Gebrauchtwaren
+shop: charity
 ---

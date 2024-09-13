@@ -1,5 +1,5 @@
 ---
 title: "Kaspa's"
 url: /london/kaspas-streatham-high-road/
-shop: Süßwaren
+shop: confectionery
 ---

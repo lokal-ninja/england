@@ -1,5 +1,5 @@
 ---
 title: "Mexborough Pet Supplies"
 url: /mexborough/mexborough-pet-supplies/
-shop: Tiere
+shop: pet
 ---

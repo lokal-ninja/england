@@ -1,5 +1,5 @@
 ---
 title: "Drinks Hub"
 url: /ettingshall/drinks-hub/
-shop: Lebensmittel
+shop: convenience
 ---

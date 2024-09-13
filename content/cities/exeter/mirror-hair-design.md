@@ -1,5 +1,5 @@
 ---
 title: "Mirror Hair Design"
 url: /exeter/mirror-hair-design/
-shop: Friseur
+shop: hairdresser
 ---

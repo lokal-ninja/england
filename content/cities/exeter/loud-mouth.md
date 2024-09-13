@@ -1,5 +1,5 @@
 ---
 title: "Loud Mouth"
 url: /exeter/loud-mouth/
-shop: Andenken
+shop: gift
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Greenwood Garage"
 url: /oldham/greenwood-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

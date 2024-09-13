@@ -1,5 +1,5 @@
 ---
 title: "Harvel House"
 url: /gravesend/harvel-house/
-shop: Hofladen
+shop: farm
 ---

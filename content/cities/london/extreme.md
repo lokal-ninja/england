@@ -1,5 +1,5 @@
 ---
 title: "Extreme"
 url: /london/extreme/
-shop: Raumausstattung
+shop: interior decoration
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Smart Dry Cleaners"
 url: /london/smart-dry-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vacuum Cleaner Centre"
 url: /cambridge/vacuum-cleaner-centre/
-shop: Staubsauger
+shop: vacuum cleaner
 ---

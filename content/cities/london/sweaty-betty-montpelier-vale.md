@@ -1,5 +1,5 @@
 ---
 title: "Sweaty Betty"
 url: /london/sweaty-betty-montpelier-vale/
-shop: Kleidung
+shop: clothes
 ---

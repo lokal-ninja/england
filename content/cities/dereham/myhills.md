@@ -1,5 +1,5 @@
 ---
 title: "Myhill's"
 url: /dereham/myhills/
-shop: Outdoor
+shop: outdoor
 ---

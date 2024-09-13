@@ -1,5 +1,5 @@
 ---
 title: "Phone Space"
 url: /rotherham/phone-space/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /mexborough/premier/
-shop: Lebensmittel
+shop: convenience
 ---

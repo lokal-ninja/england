@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
 url: /workington/vodafone/
-shop: Handy
+shop: mobile phone
 ---

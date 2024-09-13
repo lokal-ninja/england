@@ -1,5 +1,5 @@
 ---
 title: "Imperial hardware"
 url: /birmingham/imperial-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

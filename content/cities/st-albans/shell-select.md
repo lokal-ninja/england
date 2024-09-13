@@ -1,5 +1,5 @@
 ---
 title: "Shell Select"
 url: /st-albans/shell-select/
-shop: Lebensmittel
+shop: convenience
 ---

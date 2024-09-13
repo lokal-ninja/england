@@ -1,5 +1,5 @@
 ---
 title: "Silvers"
 url: /pontefract/silvers/
-shop: Autowerkstatt
+shop: car repair
 ---

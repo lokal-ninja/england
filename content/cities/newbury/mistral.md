@@ -1,5 +1,5 @@
 ---
 title: "Mistral"
 url: /newbury/mistral/
-shop: Kleidung
+shop: clothes
 ---

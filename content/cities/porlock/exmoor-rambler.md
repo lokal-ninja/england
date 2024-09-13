@@ -1,5 +1,5 @@
 ---
 title: "Exmoor Rambler"
 url: /porlock/exmoor-rambler/
-shop: Outdoor
+shop: outdoor
 ---

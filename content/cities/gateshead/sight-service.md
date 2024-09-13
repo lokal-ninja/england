@@ -1,5 +1,5 @@
 ---
 title: "Sight Service"
 url: /gateshead/sight-service/
-shop: Gebrauchtwaren
+shop: charity
 ---

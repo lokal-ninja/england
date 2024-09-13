@@ -1,5 +1,5 @@
 ---
 title: "Barber Shop"
 url: /london/barber-shop-lea-bridge-road/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Alvaston Stores"
 url: /derby/alvaston-stores/
-shop: Lebensmittel
+shop: convenience
 ---

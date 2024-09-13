@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /wigston/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

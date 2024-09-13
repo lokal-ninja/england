@@ -1,5 +1,5 @@
 ---
 title: "Del's"
 url: /chester-le-street/dels/
-shop: Möbel
+shop: furniture
 ---

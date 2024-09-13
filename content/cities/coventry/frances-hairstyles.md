@@ -1,5 +1,5 @@
 ---
 title: "Frances Hairstyles"
 url: /coventry/frances-hairstyles/
-shop: Friseur
+shop: hairdresser
 ---

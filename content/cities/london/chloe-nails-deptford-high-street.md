@@ -1,5 +1,5 @@
 ---
 title: "Chloe Nails"
 url: /london/chloe-nails-deptford-high-street/
-shop: Kosmetik
+shop: beauty
 ---

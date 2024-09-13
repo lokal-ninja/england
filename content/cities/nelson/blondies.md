@@ -1,5 +1,5 @@
 ---
 title: "Blondies"
 url: /nelson/blondies/
-shop: Friseur
+shop: hairdresser
 ---

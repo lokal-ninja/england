@@ -1,5 +1,5 @@
 ---
 title: "TUI"
 url: /waterlooville/tui/
-shop: Reisebüro
+shop: travel agency
 ---

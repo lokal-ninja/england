@@ -1,5 +1,5 @@
 ---
 title: "William Hill"
 url: /sutton-coldfield/william-hill-walmley-road/
-shop: Wettbüro
+shop: bookmaker
 ---

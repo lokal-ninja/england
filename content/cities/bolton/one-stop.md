@@ -1,5 +1,5 @@
 ---
 title: "One Stop"
 url: /bolton/one-stop/
-shop: Lebensmittel
+shop: convenience
 ---

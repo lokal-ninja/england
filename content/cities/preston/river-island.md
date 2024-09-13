@@ -1,5 +1,5 @@
 ---
 title: "River Island"
 url: /preston/river-island/
-shop: Kleidung
+shop: clothes
 ---

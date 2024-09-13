@@ -1,5 +1,5 @@
 ---
 title: "Tindalls"
 url: /newmarket/tindalls/
-shop: Schreibwaren
+shop: office supplies
 ---

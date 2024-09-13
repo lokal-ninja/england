@@ -1,5 +1,5 @@
 ---
 title: "Feathers Flooring And Beds"
 url: /leeds/feathers-flooring-and-beds/
-shop: Betten
+shop: bed
 ---

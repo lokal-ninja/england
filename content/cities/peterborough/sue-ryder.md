@@ -1,5 +1,5 @@
 ---
 title: "Sue Ryder"
 url: /peterborough/sue-ryder/
-shop: Gebrauchtwaren
+shop: charity
 ---

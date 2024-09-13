@@ -1,5 +1,5 @@
 ---
 title: "Roman"
 url: /fleetwood/roman/
-shop: Kleidung
+shop: clothes
 ---

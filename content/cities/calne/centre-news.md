@@ -1,5 +1,5 @@
 ---
 title: "Centre News"
 url: /calne/centre-news/
-shop: Zeitungen
+shop: newsagent
 ---

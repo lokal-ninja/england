@@ -1,5 +1,5 @@
 ---
 title: "The Works"
 url: /chelmsford/the-works-high-chelmer/
-shop: Bücher
+shop: books
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tickled Pink Boutique"
 url: /downham-market/tickled-pink-boutique/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Timpson"
 url: /barrow-in-furness/timpson/
-shop: Schlüsseldienst
+shop: locksmith
 ---

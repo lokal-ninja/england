@@ -1,5 +1,5 @@
 ---
 title: "Specsavers"
 url: /grays/specsavers/
-shop: Optiker
+shop: optician
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Game"
 url: /rushden/game/
-shop: Videospiele
+shop: video games
 ---

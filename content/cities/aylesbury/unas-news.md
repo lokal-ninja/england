@@ -1,5 +1,5 @@
 ---
 title: "Unas News"
 url: /aylesbury/unas-news/
-shop: Lebensmittel
+shop: convenience
 ---

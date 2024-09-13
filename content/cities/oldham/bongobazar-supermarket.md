@@ -1,5 +1,5 @@
 ---
 title: "Bongobazar Supermarket"
 url: /oldham/bongobazar-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

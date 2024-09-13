@@ -1,5 +1,5 @@
 ---
 title: "Whistles"
 url: /london/whistles-roman-road/
-shop: Kleidung
+shop: clothes
 ---

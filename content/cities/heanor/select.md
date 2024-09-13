@@ -1,5 +1,5 @@
 ---
 title: "Select"
 url: /heanor/select/
-shop: Kleidung
+shop: clothes
 ---

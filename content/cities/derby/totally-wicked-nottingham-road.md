@@ -1,5 +1,5 @@
 ---
 title: "Totally Wicked"
 url: /derby/totally-wicked-nottingham-road/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dunelm"
 url: /blackburn/dunelm/
-shop: Raumausstattung
+shop: interior decoration
 ---

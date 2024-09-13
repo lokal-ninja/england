@@ -1,5 +1,5 @@
 ---
 title: "Asda Express"
 url: /lymington/asda-express/
-shop: Lebensmittel
+shop: convenience
 ---

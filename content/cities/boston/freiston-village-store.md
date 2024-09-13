@@ -1,5 +1,5 @@
 ---
 title: "Freiston Village Store"
 url: /boston/freiston-village-store/
-shop: Lebensmittel
+shop: convenience
 ---

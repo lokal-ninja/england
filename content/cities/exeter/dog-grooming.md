@@ -1,5 +1,5 @@
 ---
 title: "Dog Grooming"
 url: /exeter/dog-grooming/
-shop: Tiersalon
+shop: pet grooming
 ---

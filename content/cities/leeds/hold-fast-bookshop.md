@@ -1,5 +1,5 @@
 ---
 title: "Hold Fast Bookshop"
 url: /leeds/hold-fast-bookshop/
-shop: Bücher
+shop: books
 ---

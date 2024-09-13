@@ -1,5 +1,5 @@
 ---
 title: "Beautique"
 url: /sheffield/beautique/
-shop: Friseur
+shop: hairdresser
 ---

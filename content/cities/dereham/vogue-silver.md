@@ -1,5 +1,5 @@
 ---
 title: "Vogue Silver"
 url: /dereham/vogue-silver/
-shop: Schmuck
+shop: jewelry
 ---

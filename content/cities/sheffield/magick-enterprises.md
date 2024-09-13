@@ -1,5 +1,5 @@
 ---
 title: "Magick Enterprises"
 url: /sheffield/magick-enterprises/
-shop: Allgemein
+shop: shop
 ---

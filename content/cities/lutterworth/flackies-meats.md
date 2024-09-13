@@ -1,5 +1,5 @@
 ---
 title: "Flackies Meats"
 url: /lutterworth/flackies-meats/
-shop: Metzgerei
+shop: butcher
 ---

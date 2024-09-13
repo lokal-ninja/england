@@ -1,5 +1,5 @@
 ---
 title: "Millercare"
 url: /wigan/millercare/
-shop: Sanitätshaus
+shop: medical supply
 ---

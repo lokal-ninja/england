@@ -1,5 +1,5 @@
 ---
 title: "Forever Me"
 url: /hoddesdon/forever-me/
-shop: Kosmetik
+shop: beauty
 ---

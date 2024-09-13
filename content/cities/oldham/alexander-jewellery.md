@@ -1,5 +1,5 @@
 ---
 title: "Alexander Jewellery"
 url: /oldham/alexander-jewellery/
-shop: Schmuck
+shop: jewelry
 ---

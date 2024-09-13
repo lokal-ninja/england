@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /devizes/spar/
-shop: Lebensmittel
+shop: convenience
 ---

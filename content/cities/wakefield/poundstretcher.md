@@ -1,5 +1,5 @@
 ---
 title: "Poundstretcher"
 url: /wakefield/poundstretcher/
-shop: Kramladen
+shop: variety store
 ---

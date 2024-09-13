@@ -1,5 +1,5 @@
 ---
 title: "Sweet Sensations"
 url: /birmingham/sweet-sensations/
-shop: Süßwaren
+shop: confectionery
 ---

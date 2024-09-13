@@ -1,5 +1,5 @@
 ---
 title: "Vellos Design"
 url: /london/vellos-design/
-shop: Raumausstattung
+shop: interior decoration
 ---

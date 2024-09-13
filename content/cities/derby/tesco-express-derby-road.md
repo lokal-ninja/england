@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /derby/tesco-express-derby-road/
-shop: Lebensmittel
+shop: convenience
 ---

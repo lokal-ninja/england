@@ -1,5 +1,5 @@
 ---
 title: "Wolseley"
 url: /exeter/wolseley/
-shop: Baustoffe
+shop: trade
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Brook Taverner"
 url: /stratford-upon-avon/brook-taverner/
-shop: Kleidung
+shop: clothes
 ---

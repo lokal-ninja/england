@@ -1,5 +1,5 @@
 ---
 title: "TGA Living"
 url: /farnham/tga-living/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wed4Less Outlet"
 url: /stockport/wed4less-outlet/
-shop: Kleidung
+shop: clothes
 ---

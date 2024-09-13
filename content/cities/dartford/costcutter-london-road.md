@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /dartford/costcutter-london-road/
-shop: Lebensmittel
+shop: convenience
 ---

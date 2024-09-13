@@ -1,5 +1,5 @@
 ---
 title: "Santhos Food and Wine"
 url: /luton/santhos-food-and-wine/
-shop: Lebensmittel
+shop: convenience
 ---

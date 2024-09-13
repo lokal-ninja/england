@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /wakefield/whsmith-union-street/
-shop: Zeitungen
+shop: newsagent
 ---

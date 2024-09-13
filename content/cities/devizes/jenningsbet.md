@@ -1,5 +1,5 @@
 ---
 title: "JenningsBet"
 url: /devizes/jenningsbet/
-shop: Wettbüro
+shop: bookmaker
 ---

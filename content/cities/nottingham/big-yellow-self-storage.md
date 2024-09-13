@@ -1,5 +1,5 @@
 ---
 title: "Big Yellow Self Storage"
 url: /nottingham/big-yellow-self-storage/
-shop: Mieten
+shop: storage rental
 ---

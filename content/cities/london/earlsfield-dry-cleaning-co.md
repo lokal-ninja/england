@@ -1,5 +1,5 @@
 ---
 title: "Earlsfield Dry Cleaning Co."
 url: /london/earlsfield-dry-cleaning-co/
-shop: Wäscherei
+shop: laundry
 ---

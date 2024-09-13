@@ -1,5 +1,5 @@
 ---
 title: "Consol Tanning Studio"
 url: /truro/consol-tanning-studio/
-shop: Kosmetik
+shop: beauty
 ---

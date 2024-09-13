@@ -1,5 +1,5 @@
 ---
 title: "Little Dobbies"
 url: /richmond/little-dobbies/
-shop: Garten-Center
+shop: garden centre
 ---

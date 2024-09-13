@@ -1,5 +1,5 @@
 ---
 title: "Birds"
 url: /nottingham/birds-bramcote-lane/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Freckleface"
 url: /york/freckleface/
-shop: Raumausstattung
+shop: interior decoration
 ---

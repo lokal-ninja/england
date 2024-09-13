@@ -1,5 +1,5 @@
 ---
 title: "Flushed"
 url: /hastings/flushed/
-shop: Antiquitäten
+shop: antiques
 ---

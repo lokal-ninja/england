@@ -1,5 +1,5 @@
 ---
 title: "Scamps"
 url: /lowestoft/scamps/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Canine Style"
 url: /whitstable/canine-style/
-shop: Tiersalon
+shop: pet grooming
 ---

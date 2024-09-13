@@ -1,5 +1,5 @@
 ---
 title: "Crown"
 url: /dorking/crown/
-shop: Raumausstattung
+shop: interior decoration
 ---

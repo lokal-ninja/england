@@ -1,5 +1,5 @@
 ---
 title: "Elphicks"
 url: /farnham/elphicks/
-shop: Warenhaus
+shop: department store
 ---

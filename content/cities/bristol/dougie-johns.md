@@ -1,5 +1,5 @@
 ---
 title: "Dougie Johns"
 url: /bristol/dougie-johns/
-shop: Friseur
+shop: hairdresser
 ---

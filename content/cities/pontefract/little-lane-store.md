@@ -1,5 +1,5 @@
 ---
 title: "Little Lane Store"
 url: /pontefract/little-lane-store/
-shop: Lebensmittel
+shop: convenience
 ---

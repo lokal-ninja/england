@@ -1,5 +1,5 @@
 ---
 title: "Labban Motors Ltd"
 url: /london/labban-motors-ltd/
-shop: Autowerkstatt
+shop: car repair
 ---

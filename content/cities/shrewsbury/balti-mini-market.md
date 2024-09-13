@@ -1,5 +1,5 @@
 ---
 title: "Balti Mini Market"
 url: /shrewsbury/balti-mini-market/
-shop: Lebensmittel
+shop: convenience
 ---

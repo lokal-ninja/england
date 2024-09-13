@@ -1,5 +1,5 @@
 ---
 title: "Anbu's Convenience Store"
 url: /orpington/anbus-convenience-store/
-shop: Lebensmittel
+shop: convenience
 ---

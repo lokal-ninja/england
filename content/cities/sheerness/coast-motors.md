@@ -1,5 +1,5 @@
 ---
 title: "Coast Motors"
 url: /sheerness/coast-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

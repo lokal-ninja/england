@@ -1,5 +1,5 @@
 ---
 title: "Baseline"
 url: /morecambe/baseline/
-shop: Friseur
+shop: hairdresser
 ---

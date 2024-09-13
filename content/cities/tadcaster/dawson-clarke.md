@@ -1,5 +1,5 @@
 ---
 title: "Dawson Clarke"
 url: /tadcaster/dawson-clarke/
-shop: Friseur
+shop: hairdresser
 ---

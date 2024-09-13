@@ -1,5 +1,5 @@
 ---
 title: "Morrisons Daily"
 url: /brigg/morrisons-daily/
-shop: Lebensmittel
+shop: convenience
 ---

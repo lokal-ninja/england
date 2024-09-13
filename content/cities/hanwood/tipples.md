@@ -1,5 +1,5 @@
 ---
 title: "Tipples"
 url: /hanwood/tipples/
-shop: Mieten
+shop: storage rental
 ---

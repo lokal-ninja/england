@@ -1,5 +1,5 @@
 ---
 title: "Boots"
 url: /widnes/boots/
-shop: Drogerie
+shop: chemist
 ---

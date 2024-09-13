@@ -1,5 +1,5 @@
 ---
 title: "Jacana"
 url: /burford/jacana/
-shop: Kleidung
+shop: clothes
 ---

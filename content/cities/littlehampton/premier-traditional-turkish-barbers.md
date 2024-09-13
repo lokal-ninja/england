@@ -1,5 +1,5 @@
 ---
 title: "Premier Traditional Turkish Barbers"
 url: /littlehampton/premier-traditional-turkish-barbers/
-shop: Friseur
+shop: hairdresser
 ---

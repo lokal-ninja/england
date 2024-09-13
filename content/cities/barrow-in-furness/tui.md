@@ -1,5 +1,5 @@
 ---
 title: "TUI"
 url: /barrow-in-furness/tui/
-shop: Reisebüro
+shop: travel agency
 ---

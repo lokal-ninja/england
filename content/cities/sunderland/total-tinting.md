@@ -1,5 +1,5 @@
 ---
 title: "Total Tinting"
 url: /sunderland/total-tinting/
-shop: Autowerkstatt
+shop: car repair
 ---

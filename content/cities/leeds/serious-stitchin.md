@@ -1,5 +1,5 @@
 ---
 title: "Serious Stitchin'"
 url: /leeds/serious-stitchin/
-shop: Schneiderei
+shop: tailor
 ---

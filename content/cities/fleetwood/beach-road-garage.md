@@ -1,5 +1,5 @@
 ---
 title: "Beach Road Garage"
 url: /fleetwood/beach-road-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /southampton/ladbrokes-victoria-road/
-shop: Wettbüro
+shop: bookmaker
 ---

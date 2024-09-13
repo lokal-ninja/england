@@ -1,5 +1,5 @@
 ---
 title: "Glow"
 url: /portsmouth/glow/
-shop: Friseur
+shop: hairdresser
 ---

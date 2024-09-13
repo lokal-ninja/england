@@ -1,5 +1,5 @@
 ---
 title: "Currys"
 url: /sunderland/currys/
-shop: Elektronik
+shop: electronics
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /dunstable/spar/
-shop: Lebensmittel
+shop: convenience
 ---

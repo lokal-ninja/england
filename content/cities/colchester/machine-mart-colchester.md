@@ -1,5 +1,5 @@
 ---
 title: "Machine Mart Colchester"
 url: /colchester/machine-mart-colchester/
-shop: Baumarkt
+shop: doityourself
 ---

@@ -1,5 +1,5 @@
 ---
 title: "claire's"
 url: /workington/claires/
-shop: Modehaus
+shop: boutique
 ---

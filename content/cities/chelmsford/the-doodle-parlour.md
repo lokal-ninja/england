@@ -1,5 +1,5 @@
 ---
 title: "The Doodle Parlour"
 url: /chelmsford/the-doodle-parlour/
-shop: Tiersalon
+shop: pet grooming
 ---

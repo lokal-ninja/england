@@ -1,5 +1,5 @@
 ---
 title: "Tidal vape"
 url: /southampton/tidal-vape/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

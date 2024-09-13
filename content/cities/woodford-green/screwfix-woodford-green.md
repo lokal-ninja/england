@@ -1,5 +1,5 @@
 ---
 title: "Screwfix Woodford Green"
 url: /woodford-green/screwfix-woodford-green/
-shop: Eisenwaren
+shop: hardware
 ---

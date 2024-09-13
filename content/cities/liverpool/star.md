@@ -1,5 +1,5 @@
 ---
 title: "Star"
 url: /liverpool/star/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shake Shack"
 url: /alnwick/shake-shack/
-shop: Andenken
+shop: gift
 ---

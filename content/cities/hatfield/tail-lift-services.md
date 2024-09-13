@@ -1,5 +1,5 @@
 ---
 title: "Tail Lift Services"
 url: /hatfield/tail-lift-services/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Maccombs Pet Store"
 url: /hoylake/maccombs-pet-store/
-shop: Allgemein
+shop: shop
 ---

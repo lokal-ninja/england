@@ -1,5 +1,5 @@
 ---
 title: "Corn Chandler"
 url: /harleston/corn-chandler/
-shop: Allgemein
+shop: shop
 ---

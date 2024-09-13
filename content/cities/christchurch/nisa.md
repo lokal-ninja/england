@@ -1,5 +1,5 @@
 ---
 title: "Nisa"
 url: /christchurch/nisa/
-shop: Lebensmittel
+shop: convenience
 ---

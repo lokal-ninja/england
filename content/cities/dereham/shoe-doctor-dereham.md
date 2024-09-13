@@ -1,5 +1,5 @@
 ---
 title: "Shoe Doctor Dereham"
 url: /dereham/shoe-doctor-dereham/
-shop: Allgemein
+shop: shop
 ---

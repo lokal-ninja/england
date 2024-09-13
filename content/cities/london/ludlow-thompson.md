@@ -1,5 +1,5 @@
 ---
 title: "Ludlow Thompson"
 url: /london/ludlow-thompson/
-shop: Immobilien
+shop: estate agent
 ---

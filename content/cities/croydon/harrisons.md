@@ -1,5 +1,5 @@
 ---
 title: "Harrisons"
 url: /croydon/harrisons/
-shop: Zeitungen
+shop: newsagent
 ---

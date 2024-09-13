@@ -1,5 +1,5 @@
 ---
 title: "Buy the Book"
 url: /port-isaac/buy-the-book/
-shop: Bücher
+shop: books
 ---

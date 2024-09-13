@@ -1,5 +1,5 @@
 ---
 title: "ExtraCare"
 url: /sheffield/extracare/
-shop: Gebrauchtwaren
+shop: charity
 ---

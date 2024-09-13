@@ -1,5 +1,5 @@
 ---
 title: "Scartho News Extra"
 url: /grimsby/scartho-news-extra/
-shop: Zeitungen
+shop: newsagent
 ---

@@ -1,5 +1,5 @@
 ---
 title: "J Chic"
 url: /pontefract/j-chic/
-shop: Kosmetik
+shop: beauty
 ---

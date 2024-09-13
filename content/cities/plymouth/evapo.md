@@ -1,5 +1,5 @@
 ---
 title: "evapo"
 url: /plymouth/evapo/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

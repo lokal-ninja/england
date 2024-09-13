@@ -1,5 +1,5 @@
 ---
 title: "Go Glass"
 url: /cambridge/go-glass/
-shop: Glas
+shop: glass
 ---

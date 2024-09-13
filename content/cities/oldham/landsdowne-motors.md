@@ -1,5 +1,5 @@
 ---
 title: "Landsdowne Motors"
 url: /oldham/landsdowne-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

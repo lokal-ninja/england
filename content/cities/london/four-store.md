@@ -1,5 +1,5 @@
 ---
 title: "Four Store"
 url: /london/four-store/
-shop: Garten-Center
+shop: garden centre
 ---

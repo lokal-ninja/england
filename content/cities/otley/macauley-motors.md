@@ -1,5 +1,5 @@
 ---
 title: "Macauley Motors"
 url: /otley/macauley-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

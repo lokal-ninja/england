@@ -1,5 +1,5 @@
 ---
 title: "Stags Of Hertford"
 url: /hertford/stags-of-hertford/
-shop: Kleidung
+shop: clothes
 ---

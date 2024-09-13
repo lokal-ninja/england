@@ -1,5 +1,5 @@
 ---
 title: "Activ Cycles"
 url: /folkestone/activ-cycles/
-shop: Fahrrad
+shop: bicycle
 ---

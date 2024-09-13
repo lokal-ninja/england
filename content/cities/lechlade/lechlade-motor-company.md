@@ -1,5 +1,5 @@
 ---
 title: "Lechlade Motor Company"
 url: /lechlade/lechlade-motor-company/
-shop: Autohaus
+shop: car
 ---

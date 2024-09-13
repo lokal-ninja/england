@@ -1,5 +1,5 @@
 ---
 title: "Oxfam"
 url: /wetherby/oxfam/
-shop: Gebrauchtwaren
+shop: charity
 ---

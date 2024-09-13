@@ -1,5 +1,5 @@
 ---
 title: "Town Garage"
 url: /lowestoft/town-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

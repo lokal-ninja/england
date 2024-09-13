@@ -1,5 +1,5 @@
 ---
 title: "Smyths"
 url: /warrington/smyths/
-shop: Spielzeug
+shop: toys
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sam Body Shop"
 url: /ilkeston/sam-body-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

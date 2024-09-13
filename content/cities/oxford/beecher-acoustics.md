@@ -1,5 +1,5 @@
 ---
 title: "Beecher Acoustics"
 url: /oxford/beecher-acoustics/
-shop: Instrumente
+shop: musical instrument
 ---

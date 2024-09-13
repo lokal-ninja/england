@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /leamington-spa/poundland/
-shop: Kramladen
+shop: variety store
 ---

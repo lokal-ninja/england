@@ -1,5 +1,5 @@
 ---
 title: "Clarks"
 url: /andover/clarks/
-shop: Schuhe
+shop: shoes
 ---

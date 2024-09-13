@@ -1,5 +1,5 @@
 ---
 title: "Bramcote Farm Shop"
 url: /nottingham/bramcote-farm-shop/
-shop: Hofladen
+shop: farm
 ---

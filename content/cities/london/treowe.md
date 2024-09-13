@@ -1,5 +1,5 @@
 ---
 title: "treowe"
 url: /london/treowe/
-shop: Raumausstattung
+shop: interior decoration
 ---

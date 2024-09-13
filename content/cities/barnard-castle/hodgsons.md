@@ -1,5 +1,5 @@
 ---
 title: "Hodgsons"
 url: /barnard-castle/hodgsons/
-shop: Reisebüro
+shop: travel agency
 ---

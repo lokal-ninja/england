@@ -1,5 +1,5 @@
 ---
 title: "Accessorize"
 url: /ipswich/accessorize/
-shop: Modehaus
+shop: boutique
 ---

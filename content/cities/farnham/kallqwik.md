@@ -1,5 +1,5 @@
 ---
 title: "KallQwik"
 url: /farnham/kallqwik/
-shop: Kopieren
+shop: copyshop
 ---

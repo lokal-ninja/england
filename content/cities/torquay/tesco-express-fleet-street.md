@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /torquay/tesco-express-fleet-street/
-shop: Lebensmittel
+shop: convenience
 ---

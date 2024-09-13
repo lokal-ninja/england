@@ -1,5 +1,5 @@
 ---
 title: "Giant Cookies"
 url: /great-yarmouth/giant-cookies/
-shop: Süßwaren
+shop: confectionery
 ---

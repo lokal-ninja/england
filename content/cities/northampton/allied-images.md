@@ -1,5 +1,5 @@
 ---
 title: "Allied Images"
 url: /northampton/allied-images/
-shop: Kopieren
+shop: copyshop
 ---

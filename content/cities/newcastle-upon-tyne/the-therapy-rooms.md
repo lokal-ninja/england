@@ -1,5 +1,5 @@
 ---
 title: "The Therapy Rooms"
 url: /newcastle-upon-tyne/the-therapy-rooms/
-shop: Massage
+shop: massage
 ---

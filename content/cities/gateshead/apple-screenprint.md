@@ -1,5 +1,5 @@
 ---
 title: "Apple Screenprint"
 url: /gateshead/apple-screenprint/
-shop: Elektronik
+shop: electronics
 ---

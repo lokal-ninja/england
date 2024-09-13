@@ -1,5 +1,5 @@
 ---
 title: "Chapel Hairdresser"
 url: /sevenoaks/chapel-hairdresser/
-shop: Friseur
+shop: hairdresser
 ---

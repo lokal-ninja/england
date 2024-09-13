@@ -1,5 +1,5 @@
 ---
 title: "Ecigwizard"
 url: /horsham/ecigwizard/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

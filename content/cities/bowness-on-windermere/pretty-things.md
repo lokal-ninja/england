@@ -1,5 +1,5 @@
 ---
 title: "Pretty Things"
 url: /bowness-on-windermere/pretty-things/
-shop: Kleidung
+shop: clothes
 ---

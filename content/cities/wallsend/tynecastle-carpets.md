@@ -1,5 +1,5 @@
 ---
 title: "Tynecastle Carpets"
 url: /wallsend/tynecastle-carpets/
-shop: Teppiche
+shop: carpet
 ---

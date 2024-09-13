@@ -1,5 +1,5 @@
 ---
 title: "Willowbrook Farm"
 url: /hampton-gay-kidlington/willowbrook-farm/
-shop: Hofladen
+shop: farm
 ---

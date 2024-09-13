@@ -1,5 +1,5 @@
 ---
 title: "ClickVape"
 url: /peterlee/clickvape/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

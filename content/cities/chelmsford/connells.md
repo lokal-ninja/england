@@ -1,5 +1,5 @@
 ---
 title: "Connells"
 url: /chelmsford/connells/
-shop: Immobilien
+shop: estate agent
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Simmons"
 url: /harpenden/simmons/
-shop: Bäckerei
+shop: bakery
 ---

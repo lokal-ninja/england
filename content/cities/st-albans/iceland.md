@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /st-albans/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

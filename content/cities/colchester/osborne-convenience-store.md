@@ -1,5 +1,5 @@
 ---
 title: "Osborne Convenience Store"
 url: /colchester/osborne-convenience-store/
-shop: Lebensmittel
+shop: convenience
 ---

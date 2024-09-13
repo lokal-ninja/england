@@ -1,5 +1,5 @@
 ---
 title: "Makro"
 url: /exeter/makro/
-shop: Großhandel
+shop: wholesale
 ---

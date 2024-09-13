@@ -1,5 +1,5 @@
 ---
 title: "Kaspa's"
 url: /brighton/kaspas/
-shop: Süßwaren
+shop: confectionery
 ---

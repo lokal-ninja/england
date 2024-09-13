@@ -1,5 +1,5 @@
 ---
 title: "OneBeyond"
 url: /manchester/onebeyond/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "My Hair My Beauty"
 url: /birmingham/my-hair-my-beauty/
-shop: Kosmetik
+shop: beauty
 ---

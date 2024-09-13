@@ -1,5 +1,5 @@
 ---
 title: "R A Cartwright"
 url: /wolverhampton/r-a-cartwright/
-shop: Metzgerei
+shop: butcher
 ---

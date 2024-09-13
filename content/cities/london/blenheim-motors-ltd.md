@@ -1,5 +1,5 @@
 ---
 title: "Blenheim Motors Ltd."
 url: /london/blenheim-motors-ltd/
-shop: Autowerkstatt
+shop: car repair
 ---

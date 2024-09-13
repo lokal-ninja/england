@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /crawley/iceland-queens-square/
-shop: Tiefkühl
+shop: frozen food
 ---

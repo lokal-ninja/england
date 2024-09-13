@@ -1,5 +1,5 @@
 ---
 title: "Kids World"
 url: /london/kids-world/
-shop: Spielzeug
+shop: toys
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Serenity"
 url: /aldershot/serenity/
-shop: Kosmetik
+shop: beauty
 ---

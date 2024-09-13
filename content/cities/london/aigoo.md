@@ -1,5 +1,5 @@
 ---
 title: "Aigoo"
 url: /london/aigoo/
-shop: Kramladen
+shop: variety store
 ---

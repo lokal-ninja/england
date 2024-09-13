@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /lydd/premier/
-shop: Lebensmittel
+shop: convenience
 ---

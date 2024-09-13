@@ -1,5 +1,5 @@
 ---
 title: "Turkish barbers"
 url: /southport/turkish-barbers/
-shop: Friseur
+shop: hairdresser
 ---

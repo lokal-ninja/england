@@ -1,5 +1,5 @@
 ---
 title: "little Beijing"
 url: /croydon/little-beijing/
-shop: Lebensmittel
+shop: convenience
 ---

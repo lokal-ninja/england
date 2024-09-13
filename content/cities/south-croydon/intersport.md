@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
 url: /south-croydon/intersport/
-shop: Sport
+shop: sports
 ---

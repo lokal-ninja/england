@@ -1,5 +1,5 @@
 ---
 title: "CompuDOS"
 url: /manchester/compudos/
-shop: Computer
+shop: computer
 ---

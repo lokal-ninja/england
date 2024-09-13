@@ -1,5 +1,5 @@
 ---
 title: "Ben Nevis Clothing"
 url: /london/ben-nevis-clothing/
-shop: Kleidung
+shop: clothes
 ---

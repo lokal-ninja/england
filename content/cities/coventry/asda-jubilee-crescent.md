@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /coventry/asda-jubilee-crescent/
-shop: Supermarkt
+shop: supermarket
 ---

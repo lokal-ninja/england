@@ -1,5 +1,5 @@
 ---
 title: "Jill Allman"
 url: /pontefract/jill-allman/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Urban"
 url: /castleford/urban/
-shop: Kleidung
+shop: clothes
 ---

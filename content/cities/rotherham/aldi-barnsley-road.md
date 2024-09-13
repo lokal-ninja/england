@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /rotherham/aldi-barnsley-road/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CitiTravel"
 url: /manchester/cititravel/
-shop: Reisebüro
+shop: travel agency
 ---

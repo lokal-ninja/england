@@ -1,5 +1,5 @@
 ---
 title: "Cash Generator"
 url: /warrington/cash-generator/
-shop: Leiher
+shop: pawnbroker
 ---

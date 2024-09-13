@@ -1,5 +1,5 @@
 ---
 title: "Tani Sklep"
 url: /nottingham/tani-sklep/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Glamour:Nails"
 url: /woodbridge/glamour-nails/
-shop: Kosmetik
+shop: beauty
 ---

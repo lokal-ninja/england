@@ -1,5 +1,5 @@
 ---
 title: "Rosella"
 url: /colchester/rosella/
-shop: Allgemein
+shop: shop
 ---

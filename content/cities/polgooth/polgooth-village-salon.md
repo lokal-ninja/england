@@ -1,5 +1,5 @@
 ---
 title: "Polgooth Village Salon"
 url: /polgooth/polgooth-village-salon/
-shop: Friseur
+shop: hairdresser
 ---

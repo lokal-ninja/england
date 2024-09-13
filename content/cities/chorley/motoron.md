@@ -1,5 +1,5 @@
 ---
 title: "Motoron"
 url: /chorley/motoron/
-shop: Autowerkstatt
+shop: car repair
 ---

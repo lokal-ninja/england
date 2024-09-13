@@ -1,5 +1,5 @@
 ---
 title: "Nedging Auto Centre"
 url: /nedging-tye/nedging-auto-centre/
-shop: Autohaus
+shop: car
 ---

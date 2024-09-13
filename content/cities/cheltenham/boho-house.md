@@ -1,5 +1,5 @@
 ---
 title: "Boho House"
 url: /cheltenham/boho-house/
-shop: Andenken
+shop: gift
 ---

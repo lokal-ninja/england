@@ -1,5 +1,5 @@
 ---
 title: "Clicknfly"
 url: /reading/clicknfly/
-shop: Reisebüro
+shop: travel agency
 ---

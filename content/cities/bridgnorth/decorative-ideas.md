@@ -1,5 +1,5 @@
 ---
 title: "Decorative Ideas"
 url: /bridgnorth/decorative-ideas/
-shop: Raumausstattung
+shop: interior decoration
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Styletto"
 url: /rotherham/styletto/
-shop: Friseur
+shop: hairdresser
 ---

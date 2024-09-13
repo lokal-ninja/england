@@ -1,5 +1,5 @@
 ---
 title: "Goldsmiths"
 url: /canterbury/goldsmiths/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "EE"
 url: /london/ee-putney-high-street/
-shop: Handy
+shop: mobile phone
 ---

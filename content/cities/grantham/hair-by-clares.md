@@ -1,5 +1,5 @@
 ---
 title: "Hair by Clares"
 url: /grantham/hair-by-clares/
-shop: Friseur
+shop: hairdresser
 ---

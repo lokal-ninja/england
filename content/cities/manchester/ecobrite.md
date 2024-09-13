@@ -1,5 +1,5 @@
 ---
 title: "Ecobrite"
 url: /manchester/ecobrite/
-shop: Lampen
+shop: lamps
 ---

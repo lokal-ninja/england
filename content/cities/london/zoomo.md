@@ -1,5 +1,5 @@
 ---
 title: "Zoomo"
 url: /london/zoomo/
-shop: Fahrrad
+shop: bicycle
 ---

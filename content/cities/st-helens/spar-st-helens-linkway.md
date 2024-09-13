@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /st-helens/spar-st-helens-linkway/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Co-op Food"
 url: /crediton/co-op-food/
-shop: Lebensmittel
+shop: convenience
 ---

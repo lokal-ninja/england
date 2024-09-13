@@ -1,5 +1,5 @@
 ---
 title: "Karma"
 url: /ripon/karma/
-shop: Kleidung
+shop: clothes
 ---

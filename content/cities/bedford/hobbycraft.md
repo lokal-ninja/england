@@ -1,5 +1,5 @@
 ---
 title: "Hobbycraft"
 url: /bedford/hobbycraft/
-shop: Basteln
+shop: craft
 ---

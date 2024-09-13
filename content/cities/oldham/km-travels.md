@@ -1,5 +1,5 @@
 ---
 title: "KM Travels"
 url: /oldham/km-travels/
-shop: Reisebüro
+shop: travel agency
 ---

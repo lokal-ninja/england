@@ -1,5 +1,5 @@
 ---
 title: "Beechwood Convenience Store (premier)"
 url: /grimsby/beechwood-convenience-store-premier/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Central"
 url: /shanklin/central/
-shop: Lebensmittel
+shop: convenience
 ---

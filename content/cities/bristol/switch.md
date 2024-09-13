@@ -1,5 +1,5 @@
 ---
 title: "Switch"
 url: /bristol/switch/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

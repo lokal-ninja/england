@@ -1,5 +1,5 @@
 ---
 title: "Hair Parade"
 url: /exmouth/hair-parade/
-shop: Friseur
+shop: hairdresser
 ---

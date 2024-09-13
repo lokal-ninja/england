@@ -1,5 +1,5 @@
 ---
 title: "Welcome Break Forecourt"
 url: /oxford/welcome-break-forecourt/
-shop: Lebensmittel
+shop: convenience
 ---

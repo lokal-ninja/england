@@ -1,5 +1,5 @@
 ---
 title: "Elphicks"
 url: /huntingdon/elphicks/
-shop: Möbel
+shop: furniture
 ---

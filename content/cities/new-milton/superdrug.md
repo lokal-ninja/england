@@ -1,5 +1,5 @@
 ---
 title: "Superdrug"
 url: /new-milton/superdrug/
-shop: Drogerie
+shop: chemist
 ---

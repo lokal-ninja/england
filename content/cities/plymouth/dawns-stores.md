@@ -1,5 +1,5 @@
 ---
 title: "Dawns Stores"
 url: /plymouth/dawns-stores/
-shop: Lebensmittel
+shop: convenience
 ---

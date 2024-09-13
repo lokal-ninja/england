@@ -1,5 +1,5 @@
 ---
 title: "Webb Brothers"
 url: /woodbridge/webb-brothers/
-shop: Eisenwaren
+shop: hardware
 ---

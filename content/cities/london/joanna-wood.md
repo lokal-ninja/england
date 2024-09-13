@@ -1,5 +1,5 @@
 ---
 title: "Joanna Wood"
 url: /london/joanna-wood/
-shop: Raumausstattung
+shop: interior decoration
 ---

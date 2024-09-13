@@ -1,5 +1,5 @@
 ---
 title: "Patton's"
 url: /millom/pattons/
-shop: Metzgerei
+shop: butcher
 ---

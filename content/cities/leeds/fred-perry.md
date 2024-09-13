@@ -1,5 +1,5 @@
 ---
 title: "Fred Perry"
 url: /leeds/fred-perry/
-shop: Kleidung
+shop: clothes
 ---

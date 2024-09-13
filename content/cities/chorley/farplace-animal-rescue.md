@@ -1,5 +1,5 @@
 ---
 title: "Farplace Animal Rescue"
 url: /chorley/farplace-animal-rescue/
-shop: Gebrauchtwaren
+shop: charity
 ---

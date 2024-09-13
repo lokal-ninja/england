@@ -1,5 +1,5 @@
 ---
 title: "Jones The Butcher"
 url: /london/jones-the-butcher/
-shop: Metzgerei
+shop: butcher
 ---

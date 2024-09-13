@@ -1,5 +1,5 @@
 ---
 title: "EmailFlights.com"
 url: /harrow/emailflights-com/
-shop: Reisebüro
+shop: travel agency
 ---

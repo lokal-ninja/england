@@ -1,5 +1,5 @@
 ---
 title: "Euro Mini Market"
 url: /grantham/euro-mini-market/
-shop: Lebensmittel
+shop: convenience
 ---

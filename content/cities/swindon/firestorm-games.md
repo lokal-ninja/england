@@ -1,5 +1,5 @@
 ---
 title: "Firestorm Games"
 url: /swindon/firestorm-games/
-shop: Videospiele
+shop: video games
 ---

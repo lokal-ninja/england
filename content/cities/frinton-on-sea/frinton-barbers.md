@@ -1,5 +1,5 @@
 ---
 title: "Frinton Barbers"
 url: /frinton-on-sea/frinton-barbers/
-shop: Friseur
+shop: hairdresser
 ---

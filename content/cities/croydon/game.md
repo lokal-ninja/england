@@ -1,5 +1,5 @@
 ---
 title: "Game"
 url: /croydon/game/
-shop: Videospiele
+shop: video games
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Confetti"
 url: /bedlington/confetti/
-shop: Konditorei
+shop: pastry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Catherine's"
 url: /swindon/catherines/
-shop: Kosmetik
+shop: beauty
 ---

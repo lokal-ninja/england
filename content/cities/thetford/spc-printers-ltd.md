@@ -1,5 +1,5 @@
 ---
 title: "SPC Printers Ltd"
 url: /thetford/spc-printers-ltd/
-shop: Kopieren
+shop: copyshop
 ---

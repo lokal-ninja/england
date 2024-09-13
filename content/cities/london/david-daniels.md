@@ -1,5 +1,5 @@
 ---
 title: "David Daniels"
 url: /london/david-daniels/
-shop: Immobilien
+shop: estate agent
 ---

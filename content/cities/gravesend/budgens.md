@@ -1,5 +1,5 @@
 ---
 title: "Budgens"
 url: /gravesend/budgens/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Arcade Pet Store"
 url: /penrith/arcade-pet-store/
-shop: Tiere
+shop: pet
 ---

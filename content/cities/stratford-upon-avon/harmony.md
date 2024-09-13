@@ -1,5 +1,5 @@
 ---
 title: "Harmony"
 url: /stratford-upon-avon/harmony/
-shop: Kosmetik
+shop: beauty
 ---

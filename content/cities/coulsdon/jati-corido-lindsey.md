@@ -1,5 +1,5 @@
 ---
 title: "Jati | Corido | Lindsey"
 url: /coulsdon/jati-corido-lindsey/
-shop: Gartenmöbel
+shop: garden furniture
 ---

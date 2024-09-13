@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /wallsend/spar/
-shop: Lebensmittel
+shop: convenience
 ---

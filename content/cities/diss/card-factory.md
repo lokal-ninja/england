@@ -1,5 +1,5 @@
 ---
 title: "Card Factory"
 url: /diss/card-factory/
-shop: Andenken
+shop: gift
 ---

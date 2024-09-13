@@ -1,5 +1,5 @@
 ---
 title: "Mosborough Off License"
 url: /sheffield/mosborough-off-license/
-shop: Spirituosen
+shop: alcohol
 ---

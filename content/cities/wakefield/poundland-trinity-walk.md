@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /wakefield/poundland-trinity-walk/
-shop: Kramladen
+shop: variety store
 ---

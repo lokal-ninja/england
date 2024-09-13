@@ -1,5 +1,5 @@
 ---
 title: "Staddon"
 url: /bampton/staddon/
-shop: Antiquitäten
+shop: antiques
 ---

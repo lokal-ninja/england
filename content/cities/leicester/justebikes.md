@@ -1,5 +1,5 @@
 ---
 title: "Justebikes"
 url: /leicester/justebikes/
-shop: Fahrrad
+shop: bicycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "That Picture Shop"
 url: /tewkesbury/that-picture-shop/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Perestroyka"
 url: /northampton/perestroyka/
-shop: Lebensmittel
+shop: convenience
 ---

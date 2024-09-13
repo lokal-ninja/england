@@ -1,5 +1,5 @@
 ---
 title: "Crystalise"
 url: /london/crystalise/
-shop: Friseur
+shop: hairdresser
 ---

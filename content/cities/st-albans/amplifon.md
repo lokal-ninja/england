@@ -1,5 +1,5 @@
 ---
 title: "Amplifon"
 url: /st-albans/amplifon/
-shop: Hörgeräte
+shop: hearing aids
 ---

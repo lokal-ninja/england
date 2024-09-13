@@ -1,5 +1,5 @@
 ---
 title: "Kings Butchers"
 url: /exmouth/kings-butchers/
-shop: Metzgerei
+shop: butcher
 ---

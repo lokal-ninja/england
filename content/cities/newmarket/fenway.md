@@ -1,5 +1,5 @@
 ---
 title: "Fenway"
 url: /newmarket/fenway/
-shop: Allgemein
+shop: shop
 ---

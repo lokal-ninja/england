@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /mansfield/poundland-station-street/
-shop: Kramladen
+shop: variety store
 ---

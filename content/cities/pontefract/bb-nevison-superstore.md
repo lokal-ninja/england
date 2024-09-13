@@ -1,5 +1,5 @@
 ---
 title: "BB Nevison Superstore"
 url: /pontefract/bb-nevison-superstore/
-shop: Lebensmittel
+shop: convenience
 ---

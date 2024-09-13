@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /consett/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

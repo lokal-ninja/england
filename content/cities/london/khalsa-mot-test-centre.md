@@ -1,5 +1,5 @@
 ---
 title: "Khalsa MOT Test Centre"
 url: /london/khalsa-mot-test-centre/
-shop: Autowerkstatt
+shop: car repair
 ---

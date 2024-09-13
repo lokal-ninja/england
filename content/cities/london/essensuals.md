@@ -1,5 +1,5 @@
 ---
 title: "Essensuals"
 url: /london/essensuals/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cotswold RDA"
 url: /tewkesbury/cotswold-rda/
-shop: Gebrauchtwaren
+shop: charity
 ---

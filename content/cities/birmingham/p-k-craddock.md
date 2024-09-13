@@ -1,5 +1,5 @@
 ---
 title: "P.K. Craddock"
 url: /birmingham/p-k-craddock/
-shop: Schmuck
+shop: jewelry
 ---

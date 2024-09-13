@@ -1,5 +1,5 @@
 ---
 title: "Joe's market"
 url: /chelmsford/joes-market/
-shop: Lebensmittel
+shop: convenience
 ---

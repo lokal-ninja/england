@@ -1,5 +1,5 @@
 ---
 title: "lyreco"
 url: /leeds/lyreco/
-shop: Schreibwaren
+shop: office supplies
 ---

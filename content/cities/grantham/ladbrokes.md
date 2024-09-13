@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /grantham/ladbrokes/
-shop: Wettbüro
+shop: bookmaker
 ---

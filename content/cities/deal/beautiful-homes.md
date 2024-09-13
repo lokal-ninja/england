@@ -1,5 +1,5 @@
 ---
 title: "Beautiful Homes"
 url: /deal/beautiful-homes/
-shop: Küchen
+shop: kitchen
 ---

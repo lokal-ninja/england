@@ -1,5 +1,5 @@
 ---
 title: "Coastal Groomers"
 url: /clacton-on-sea/coastal-groomers/
-shop: Tiersalon
+shop: pet grooming
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Community Shop"
 url: /ipswich/community-shop/
-shop: Gebrauchtwaren
+shop: charity
 ---

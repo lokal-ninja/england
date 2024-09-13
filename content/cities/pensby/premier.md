@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /pensby/premier/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /devizes/premier/
-shop: Lebensmittel
+shop: convenience
 ---

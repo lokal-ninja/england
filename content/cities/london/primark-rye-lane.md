@@ -1,5 +1,5 @@
 ---
 title: "Primark"
 url: /london/primark-rye-lane/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sunshine Health Shop"
 url: /stroud/sunshine-health-shop/
-shop: Bioladen
+shop: health food
 ---

@@ -1,5 +1,5 @@
 ---
 title: "TrimZ"
 url: /rotherham/trimz/
-shop: Friseur
+shop: hairdresser
 ---

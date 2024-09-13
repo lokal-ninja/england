@@ -1,5 +1,5 @@
 ---
 title: "Ryman"
 url: /kendal/ryman/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Cookies and Scream"
+title: "Cookies & Scream"
 url: /london/cookies-and-scream/
-shop: Bäckerei
+shop: bakery
 ---

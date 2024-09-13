@@ -1,5 +1,5 @@
 ---
 title: "Suzie's"
 url: /brighouse/suzies/
-shop: Kleidung
+shop: clothes
 ---

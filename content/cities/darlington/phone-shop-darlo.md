@@ -1,5 +1,5 @@
 ---
 title: "Phone Shop Darlo"
 url: /darlington/phone-shop-darlo/
-shop: Handy
+shop: mobile phone
 ---

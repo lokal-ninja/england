@@ -1,5 +1,5 @@
 ---
 title: "McKenzie Butchers"
 url: /kempston/mckenzie-butchers/
-shop: Metzgerei
+shop: butcher
 ---

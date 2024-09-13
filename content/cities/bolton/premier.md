@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /bolton/premier/
-shop: Lebensmittel
+shop: convenience
 ---

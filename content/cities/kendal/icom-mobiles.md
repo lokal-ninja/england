@@ -1,5 +1,5 @@
 ---
 title: "iCom Mobiles"
 url: /kendal/icom-mobiles/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carsi Food Centre"
 url: /london/carsi-food-centre/
-shop: Supermarkt
+shop: supermarket
 ---

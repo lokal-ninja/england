@@ -1,5 +1,5 @@
 ---
 title: "Saracen's Yard"
 url: /ashbourne/saracens-yard/
-shop: Andenken
+shop: gift
 ---

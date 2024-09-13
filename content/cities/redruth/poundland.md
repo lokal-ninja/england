@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /redruth/poundland/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Discount Tyres"
 url: /luton/discount-tyres/
-shop: Autowerkstatt
+shop: car repair
 ---

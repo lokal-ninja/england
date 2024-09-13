@@ -1,5 +1,5 @@
 ---
 title: "Foodways"
 url: /london/foodways/
-shop: Lebensmittel
+shop: convenience
 ---

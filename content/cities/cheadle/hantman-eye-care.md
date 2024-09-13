@@ -1,5 +1,5 @@
 ---
 title: "Hantman Eye Care"
 url: /cheadle/hantman-eye-care/
-shop: Optiker
+shop: optician
 ---

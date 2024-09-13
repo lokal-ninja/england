@@ -1,5 +1,5 @@
 ---
 title: "Warren James"
 url: /oldham/warren-james/
-shop: Schmuck
+shop: jewelry
 ---

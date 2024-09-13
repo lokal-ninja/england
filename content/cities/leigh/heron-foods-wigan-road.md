@@ -1,5 +1,5 @@
 ---
 title: "Heron Foods"
 url: /leigh/heron-foods-wigan-road/
-shop: Supermarkt
+shop: supermarket
 ---

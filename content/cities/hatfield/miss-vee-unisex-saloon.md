@@ -1,5 +1,5 @@
 ---
 title: "Miss Vee Unisex Saloon"
 url: /hatfield/miss-vee-unisex-saloon/
-shop: Friseur
+shop: hairdresser
 ---

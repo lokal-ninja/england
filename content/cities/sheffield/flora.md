@@ -1,5 +1,5 @@
 ---
 title: "Flora"
 url: /sheffield/flora/
-shop: Blumen
+shop: florist
 ---

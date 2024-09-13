@@ -1,5 +1,5 @@
 ---
 title: "Tangled Hair"
 url: /birmingham/tangled-hair/
-shop: Friseur
+shop: hairdresser
 ---

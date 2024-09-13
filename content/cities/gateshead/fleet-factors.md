@@ -1,5 +1,5 @@
 ---
 title: "Fleet Factors"
 url: /gateshead/fleet-factors/
-shop: Autoteile
+shop: car parts
 ---

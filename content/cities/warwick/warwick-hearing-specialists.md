@@ -1,5 +1,5 @@
 ---
 title: "Warwick Hearing Specialists"
 url: /warwick/warwick-hearing-specialists/
-shop: Hörgeräte
+shop: hearing aids
 ---

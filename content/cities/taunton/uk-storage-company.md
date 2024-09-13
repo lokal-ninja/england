@@ -1,5 +1,5 @@
 ---
 title: "UK Storage Company"
 url: /taunton/uk-storage-company/
-shop: Mieten
+shop: storage rental
 ---

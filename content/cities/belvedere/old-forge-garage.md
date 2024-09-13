@@ -1,5 +1,5 @@
 ---
 title: "Old Forge Garage"
 url: /belvedere/old-forge-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

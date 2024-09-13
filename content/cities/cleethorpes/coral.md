@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /cleethorpes/coral/
-shop: Wettbüro
+shop: bookmaker
 ---

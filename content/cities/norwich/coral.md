@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /norwich/coral/
-shop: Wettbüro
+shop: bookmaker
 ---

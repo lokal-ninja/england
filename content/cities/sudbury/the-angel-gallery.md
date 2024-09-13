@@ -1,5 +1,5 @@
 ---
 title: "The Angel Gallery"
 url: /sudbury/the-angel-gallery/
-shop: Kunst
+shop: art
 ---

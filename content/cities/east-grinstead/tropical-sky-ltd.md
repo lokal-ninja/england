@@ -1,5 +1,5 @@
 ---
 title: "Tropical Sky Ltd"
 url: /east-grinstead/tropical-sky-ltd/
-shop: Reisebüro
+shop: travel agency
 ---

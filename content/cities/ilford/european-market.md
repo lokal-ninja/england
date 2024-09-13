@@ -1,5 +1,5 @@
 ---
 title: "European Market"
 url: /ilford/european-market/
-shop: Lebensmittel
+shop: convenience
 ---

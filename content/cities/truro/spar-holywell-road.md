@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /truro/spar-holywell-road/
-shop: Lebensmittel
+shop: convenience
 ---

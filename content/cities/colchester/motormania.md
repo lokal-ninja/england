@@ -1,5 +1,5 @@
 ---
 title: "Motormania"
 url: /colchester/motormania/
-shop: Autowerkstatt
+shop: car repair
 ---

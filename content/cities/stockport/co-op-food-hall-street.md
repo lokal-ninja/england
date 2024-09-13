@@ -1,5 +1,5 @@
 ---
 title: "Co-op Food"
 url: /stockport/co-op-food-hall-street/
-shop: Lebensmittel
+shop: convenience
 ---

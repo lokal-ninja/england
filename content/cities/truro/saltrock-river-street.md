@@ -1,5 +1,5 @@
 ---
 title: "Saltrock"
 url: /truro/saltrock-river-street/
-shop: Kleidung
+shop: clothes
 ---

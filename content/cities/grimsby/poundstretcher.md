@@ -1,5 +1,5 @@
 ---
 title: "Poundstretcher"
 url: /grimsby/poundstretcher/
-shop: Kramladen
+shop: variety store
 ---

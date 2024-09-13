@@ -1,5 +1,5 @@
 ---
 title: "Dunchurch Barber Shop"
 url: /rugby/dunchurch-barber-shop/
-shop: Friseur
+shop: hairdresser
 ---

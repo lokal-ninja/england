@@ -1,5 +1,5 @@
 ---
 title: "Northcotes"
 url: /chorley/northcotes/
-shop: Friseur
+shop: hairdresser
 ---

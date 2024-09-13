@@ -1,5 +1,5 @@
 ---
 title: "The Melange"
 url: /london/the-melange/
-shop: Friseur
+shop: hairdresser
 ---

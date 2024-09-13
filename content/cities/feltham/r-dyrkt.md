@@ -1,5 +1,5 @@
 ---
 title: "R Dyrkt"
 url: /feltham/r-dyrkt/
-shop: Andenken
+shop: gift
 ---

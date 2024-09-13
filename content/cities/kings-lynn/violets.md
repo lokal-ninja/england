@@ -1,5 +1,5 @@
 ---
 title: "Violets"
 url: /kings-lynn/violets/
-shop: Blumen
+shop: florist
 ---

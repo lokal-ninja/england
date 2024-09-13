@@ -1,5 +1,5 @@
 ---
 title: "Cats Protection"
 url: /rustington-littlehampton/cats-protection/
-shop: Gebrauchtwaren
+shop: charity
 ---

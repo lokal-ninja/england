@@ -1,5 +1,5 @@
 ---
 title: "Sainsbury's Local"
 url: /wallington/sainsburys-local-manor-road/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Stanhope Travel"
 url: /bishop-auckland/stanhope-travel/
-shop: Reisebüro
+shop: travel agency
 ---

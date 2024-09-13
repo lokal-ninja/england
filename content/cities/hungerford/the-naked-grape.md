@@ -1,5 +1,5 @@
 ---
 title: "The Naked Grape"
 url: /hungerford/the-naked-grape/
-shop: Wein
+shop: wine
 ---

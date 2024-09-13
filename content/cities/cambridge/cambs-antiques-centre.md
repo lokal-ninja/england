@@ -1,5 +1,5 @@
 ---
 title: "Cambs Antiques Centre"
 url: /cambridge/cambs-antiques-centre/
-shop: Antiquitäten
+shop: antiques
 ---

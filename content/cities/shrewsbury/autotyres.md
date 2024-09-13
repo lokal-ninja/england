@@ -1,5 +1,5 @@
 ---
 title: "Autotyres"
 url: /shrewsbury/autotyres/
-shop: Autowerkstatt
+shop: car repair
 ---

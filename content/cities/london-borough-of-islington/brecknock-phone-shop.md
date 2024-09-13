@@ -1,5 +1,5 @@
 ---
 title: "Brecknock Phone Shop"
 url: /london-borough-of-islington/brecknock-phone-shop/
-shop: Handy
+shop: mobile phone
 ---

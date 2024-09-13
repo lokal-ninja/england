@@ -1,5 +1,5 @@
 ---
 title: "Specsavers"
 url: /cirencester/specsavers/
-shop: Optiker
+shop: optician
 ---

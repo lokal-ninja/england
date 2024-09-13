@@ -1,5 +1,5 @@
 ---
 title: "Mail Boxes Etc."
 url: /chelmsford/mail-boxes-etc/
-shop: Kopieren
+shop: copyshop
 ---

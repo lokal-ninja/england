@@ -1,5 +1,5 @@
 ---
 title: "David"
 url: /shrewsbury/david/
-shop: Friseur
+shop: hairdresser
 ---

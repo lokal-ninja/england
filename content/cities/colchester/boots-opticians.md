@@ -1,5 +1,5 @@
 ---
 title: "Boots Opticians"
 url: /colchester/boots-opticians/
-shop: Optiker
+shop: optician
 ---

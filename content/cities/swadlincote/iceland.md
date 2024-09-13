@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /swadlincote/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

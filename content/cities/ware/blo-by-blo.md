@@ -1,5 +1,5 @@
 ---
 title: "Blo by Blo"
 url: /ware/blo-by-blo/
-shop: Friseur
+shop: hairdresser
 ---

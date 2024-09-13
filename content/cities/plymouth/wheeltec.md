@@ -1,5 +1,5 @@
 ---
 title: "Wheeltec"
 url: /plymouth/wheeltec/
-shop: Autowerkstatt
+shop: car repair
 ---

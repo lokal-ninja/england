@@ -1,5 +1,5 @@
 ---
 title: "Velofondista"
 url: /slaithwaite/velofondista/
-shop: Fahrrad
+shop: bicycle
 ---

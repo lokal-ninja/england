@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /darlington/premier-thompson-street-east/
-shop: Lebensmittel
+shop: convenience
 ---

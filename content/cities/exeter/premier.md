@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /exeter/premier/
-shop: Lebensmittel
+shop: convenience
 ---

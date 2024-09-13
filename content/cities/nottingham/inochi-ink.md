@@ -1,5 +1,5 @@
 ---
 title: "Inochi Ink"
 url: /nottingham/inochi-ink/
-shop: Tattoo
+shop: tattoo
 ---

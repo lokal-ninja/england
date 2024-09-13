@@ -1,5 +1,5 @@
 ---
 title: "Collated"
 url: /aldeburgh/collated/
-shop: Kleidung
+shop: clothes
 ---

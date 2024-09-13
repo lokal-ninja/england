@@ -1,5 +1,5 @@
 ---
 title: "Owens"
 url: /hoylake/owens/
-shop: Bestattungen
+shop: funeral directors
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dunelm"
 url: /carlisle/dunelm/
-shop: Raumausstattung
+shop: interior decoration
 ---

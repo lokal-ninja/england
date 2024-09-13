@@ -1,5 +1,5 @@
 ---
 title: "Sainsbury's Longwater"
 url: /norwich/sainsburys-longwater/
-shop: Supermarkt
+shop: supermarket
 ---

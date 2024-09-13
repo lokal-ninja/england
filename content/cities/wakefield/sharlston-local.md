@@ -1,5 +1,5 @@
 ---
 title: "Sharlston Local"
 url: /wakefield/sharlston-local/
-shop: Lebensmittel
+shop: convenience
 ---

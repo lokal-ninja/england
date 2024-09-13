@@ -1,5 +1,5 @@
 ---
 title: "Hobson Interiors"
 url: /hobson/hobson-interiors/
-shop: Raumausstattung
+shop: interior decoration
 ---

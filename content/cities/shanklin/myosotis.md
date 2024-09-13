@@ -1,5 +1,5 @@
 ---
 title: "Myosotis"
 url: /shanklin/myosotis/
-shop: Andenken
+shop: gift
 ---

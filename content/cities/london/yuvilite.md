@@ -1,5 +1,5 @@
 ---
 title: "Yuvilite"
 url: /london/yuvilite/
-shop: Raumausstattung
+shop: interior decoration
 ---

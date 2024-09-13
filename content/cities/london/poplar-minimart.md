@@ -1,5 +1,5 @@
 ---
 title: "Poplar Minimart"
 url: /london/poplar-minimart/
-shop: Lebensmittel
+shop: convenience
 ---

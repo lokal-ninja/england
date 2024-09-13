@@ -1,5 +1,5 @@
 ---
 title: "PHX"
 url: /lowestoft/phx/
-shop: Sammler
+shop: collector
 ---

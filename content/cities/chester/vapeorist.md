@@ -1,5 +1,5 @@
 ---
 title: "Vapeorist"
 url: /chester/vapeorist/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

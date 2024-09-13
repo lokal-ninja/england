@@ -1,5 +1,5 @@
 ---
 title: "Oliver's Barbers"
 url: /salford/olivers-barbers/
-shop: Friseur
+shop: hairdresser
 ---

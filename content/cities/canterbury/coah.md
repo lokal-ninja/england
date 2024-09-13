@@ -1,5 +1,5 @@
 ---
 title: "Coah"
 url: /canterbury/coah/
-shop: Friseur
+shop: hairdresser
 ---

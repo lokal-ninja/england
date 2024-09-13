@@ -1,5 +1,5 @@
 ---
 title: "Opas"
 url: /worthing/opas/
-shop: Eisenwaren
+shop: hardware
 ---

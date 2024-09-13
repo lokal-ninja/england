@@ -1,5 +1,5 @@
 ---
 title: "Maze Hill Pottery"
 url: /london/maze-hill-pottery/
-shop: Töpferei
+shop: pottery
 ---

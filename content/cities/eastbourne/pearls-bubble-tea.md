@@ -1,5 +1,5 @@
 ---
 title: "Pearls Bubble Tea"
 url: /eastbourne/pearls-bubble-tea/
-shop: Tee
+shop: tea
 ---

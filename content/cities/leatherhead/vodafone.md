@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
 url: /leatherhead/vodafone/
-shop: Handy
+shop: mobile phone
 ---

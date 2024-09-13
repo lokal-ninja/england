@@ -1,5 +1,5 @@
 ---
 title: "Savills"
 url: /newbury/savills/
-shop: Immobilien
+shop: estate agent
 ---

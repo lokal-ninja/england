@@ -1,5 +1,5 @@
 ---
 title: "Le Kiera"
 url: /snettisham/le-kiera/
-shop: Friseur
+shop: hairdresser
 ---

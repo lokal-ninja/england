@@ -1,5 +1,5 @@
 ---
 title: "Expressions"
 url: /barrow-in-furness/expressions/
-shop: Andenken
+shop: gift
 ---

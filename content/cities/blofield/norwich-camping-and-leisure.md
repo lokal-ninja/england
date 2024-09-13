@@ -1,5 +1,5 @@
 ---
 title: "Norwich Camping and Leisure"
 url: /blofield/norwich-camping-and-leisure/
-shop: Outdoor
+shop: outdoor
 ---

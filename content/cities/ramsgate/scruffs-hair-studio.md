@@ -1,5 +1,5 @@
 ---
 title: "Scruffs Hair Studio"
 url: /ramsgate/scruffs-hair-studio/
-shop: Friseur
+shop: hairdresser
 ---

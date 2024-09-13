@@ -1,5 +1,5 @@
 ---
 title: "Fulham Palace Wines"
 url: /london/fulham-palace-wines/
-shop: Spirituosen
+shop: alcohol
 ---

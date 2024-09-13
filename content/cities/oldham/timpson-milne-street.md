@@ -1,5 +1,5 @@
 ---
 title: "Timpson"
 url: /oldham/timpson-milne-street/
-shop: Schlüsseldienst
+shop: locksmith
 ---

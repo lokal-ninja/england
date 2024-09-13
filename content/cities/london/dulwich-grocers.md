@@ -1,5 +1,5 @@
 ---
 title: "Dulwich Grocers"
 url: /london/dulwich-grocers/
-shop: Lebensmittel
+shop: convenience
 ---

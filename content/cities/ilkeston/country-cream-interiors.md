@@ -1,5 +1,5 @@
 ---
 title: "Country Cream Interiors"
 url: /ilkeston/country-cream-interiors/
-shop: Modellbau
+shop: model
 ---

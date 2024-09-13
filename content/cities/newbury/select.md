@@ -1,5 +1,5 @@
 ---
 title: "Select"
 url: /newbury/select/
-shop: Computer
+shop: computer
 ---

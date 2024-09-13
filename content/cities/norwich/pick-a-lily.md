@@ -1,5 +1,5 @@
 ---
 title: "Pick-a-Lily"
 url: /norwich/pick-a-lily/
-shop: Blumen
+shop: florist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Asda Express"
 url: /northwood/asda-express/
-shop: Lebensmittel
+shop: convenience
 ---

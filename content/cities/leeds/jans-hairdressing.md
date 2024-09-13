@@ -1,5 +1,5 @@
 ---
 title: "Jans Hairdressing"
 url: /leeds/jans-hairdressing/
-shop: Friseur
+shop: hairdresser
 ---

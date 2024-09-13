@@ -1,5 +1,5 @@
 ---
 title: "Jempsons"
 url: /rye/jempsons-station-approach/
-shop: Supermarkt
+shop: supermarket
 ---

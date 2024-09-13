@@ -1,5 +1,5 @@
 ---
 title: "Radley London"
 url: /castleford/radley-london/
-shop: Modehaus
+shop: boutique
 ---

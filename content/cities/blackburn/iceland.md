@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /blackburn/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

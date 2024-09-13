@@ -1,5 +1,5 @@
 ---
 title: "Men's"
 url: /london/mens/
-shop: Friseur
+shop: hairdresser
 ---

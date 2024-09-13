@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /droxford/premier/
-shop: Lebensmittel
+shop: convenience
 ---

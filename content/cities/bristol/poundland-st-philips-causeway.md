@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /bristol/poundland-st-philips-causeway/
-shop: Kramladen
+shop: variety store
 ---

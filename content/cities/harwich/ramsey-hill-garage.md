@@ -1,5 +1,5 @@
 ---
 title: "Ramsey Hill Garage"
 url: /harwich/ramsey-hill-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

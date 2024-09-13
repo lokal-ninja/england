@@ -1,5 +1,5 @@
 ---
 title: "Styles Hair Studio"
 url: /south-shields/styles-hair-studio/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PDSA"
 url: /sheffield/pdsa/
-shop: Gebrauchtwaren
+shop: charity
 ---

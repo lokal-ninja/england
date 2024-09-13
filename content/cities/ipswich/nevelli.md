@@ -1,5 +1,5 @@
 ---
 title: "Nevelli"
 url: /ipswich/nevelli/
-shop: Raumausstattung
+shop: interior decoration
 ---

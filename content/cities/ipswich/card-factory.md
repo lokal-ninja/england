@@ -1,5 +1,5 @@
 ---
 title: "Card Factory"
 url: /ipswich/card-factory/
-shop: Andenken
+shop: gift
 ---

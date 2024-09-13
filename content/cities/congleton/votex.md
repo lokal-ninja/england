@@ -1,5 +1,5 @@
 ---
 title: "Votex"
 url: /congleton/votex/
-shop: Autowerkstatt
+shop: car repair
 ---

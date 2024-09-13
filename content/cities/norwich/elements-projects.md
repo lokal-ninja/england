@@ -1,5 +1,5 @@
 ---
 title: "elements / projects"
 url: /norwich/elements-projects/
-shop: Kleidung
+shop: clothes
 ---

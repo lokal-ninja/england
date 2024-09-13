@@ -1,5 +1,5 @@
 ---
 title: "My Space"
 url: /london/my-space/
-shop: Motorrad
+shop: motorcycle
 ---

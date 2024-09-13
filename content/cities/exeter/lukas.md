@@ -1,5 +1,5 @@
 ---
 title: "Luka's"
 url: /exeter/lukas/
-shop: Friseur
+shop: hairdresser
 ---

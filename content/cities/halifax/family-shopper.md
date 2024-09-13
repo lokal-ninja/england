@@ -1,5 +1,5 @@
 ---
 title: "Family Shopper"
 url: /halifax/family-shopper/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "GMS Kent"
 url: /maidstone/gms-kent/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Baltic Supermarket"
 url: /southport/baltic-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

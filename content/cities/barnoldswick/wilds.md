@@ -1,5 +1,5 @@
 ---
 title: "Wild's"
 url: /barnoldswick/wilds/
-shop: Bäckerei
+shop: bakery
 ---

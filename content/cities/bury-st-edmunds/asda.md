@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /bury-st-edmunds/asda/
-shop: Supermarkt
+shop: supermarket
 ---

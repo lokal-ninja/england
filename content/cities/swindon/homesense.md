@@ -1,5 +1,5 @@
 ---
 title: "HomeSense"
 url: /swindon/homesense/
-shop: Raumausstattung
+shop: interior decoration
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Age UK"
 url: /henfield/age-uk/
-shop: Gebrauchtwaren
+shop: charity
 ---

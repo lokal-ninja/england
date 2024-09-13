@@ -1,5 +1,5 @@
 ---
 title: "Bonmarché"
 url: /fareham/bonmarche/
-shop: Kleidung
+shop: clothes
 ---

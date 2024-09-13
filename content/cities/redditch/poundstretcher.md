@@ -1,5 +1,5 @@
 ---
 title: "Poundstretcher"
 url: /redditch/poundstretcher/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "KTS"
 url: /london/kts/
-shop: Baumarkt
+shop: doityourself
 ---

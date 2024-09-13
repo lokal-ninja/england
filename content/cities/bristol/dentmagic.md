@@ -1,5 +1,5 @@
 ---
 title: "Dentmagic"
 url: /bristol/dentmagic/
-shop: Autowerkstatt
+shop: car repair
 ---

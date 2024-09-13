@@ -1,5 +1,5 @@
 ---
 title: "Creative Hairdressing"
 url: /lowestoft/creative-hairdressing/
-shop: Friseur
+shop: hairdresser
 ---

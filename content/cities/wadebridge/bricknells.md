@@ -1,5 +1,5 @@
 ---
 title: "Bricknells"
 url: /wadebridge/bricknells/
-shop: Schreibwaren
+shop: office supplies
 ---

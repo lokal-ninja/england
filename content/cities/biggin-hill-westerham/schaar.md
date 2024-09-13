@@ -1,5 +1,5 @@
 ---
 title: "Schaar"
 url: /biggin-hill-westerham/schaar/
-shop: Friseur
+shop: hairdresser
 ---

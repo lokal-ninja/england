@@ -1,5 +1,5 @@
 ---
 title: "Simon Ireland Upholstery"
 url: /keswick/simon-ireland-upholstery/
-shop: Möbel
+shop: furniture
 ---

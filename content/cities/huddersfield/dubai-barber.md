@@ -1,5 +1,5 @@
 ---
 title: "Dubai Barber"
 url: /huddersfield/dubai-barber/
-shop: Friseur
+shop: hairdresser
 ---

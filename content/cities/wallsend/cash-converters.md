@@ -1,5 +1,5 @@
 ---
 title: "Cash Converters"
 url: /wallsend/cash-converters/
-shop: Leiher
+shop: pawnbroker
 ---

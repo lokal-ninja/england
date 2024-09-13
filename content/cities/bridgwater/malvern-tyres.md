@@ -1,5 +1,5 @@
 ---
 title: "Malvern Tyres"
 url: /bridgwater/malvern-tyres/
-shop: Reifen
+shop: tyres
 ---

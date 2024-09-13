@@ -1,5 +1,5 @@
 ---
 title: "Advanced Battery Supplies"
 url: /stockport/advanced-battery-supplies/
-shop: Autoteile
+shop: car parts
 ---

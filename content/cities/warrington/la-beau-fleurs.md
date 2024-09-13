@@ -1,5 +1,5 @@
 ---
 title: "La Beau Fleurs"
 url: /warrington/la-beau-fleurs/
-shop: Blumen
+shop: florist
 ---

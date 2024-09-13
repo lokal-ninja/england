@@ -1,5 +1,5 @@
 ---
 title: "Maccas"
 url: /cambridge/maccas/
-shop: Friseur
+shop: hairdresser
 ---

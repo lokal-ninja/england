@@ -1,5 +1,5 @@
 ---
 title: "Poundbakery"
 url: /oldham/poundbakery/
-shop: Bäckerei
+shop: bakery
 ---

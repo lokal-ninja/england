@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /london/spar-aldersbrook-road/
-shop: Lebensmittel
+shop: convenience
 ---

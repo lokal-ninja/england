@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /waterlooville/spar/
-shop: Supermarkt
+shop: supermarket
 ---

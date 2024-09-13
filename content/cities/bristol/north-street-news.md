@@ -1,5 +1,5 @@
 ---
 title: "North Street News"
 url: /bristol/north-street-news/
-shop: Zeitungen
+shop: newsagent
 ---

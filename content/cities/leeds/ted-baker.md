@@ -1,5 +1,5 @@
 ---
 title: "Ted Baker"
 url: /leeds/ted-baker/
-shop: Kleidung
+shop: clothes
 ---

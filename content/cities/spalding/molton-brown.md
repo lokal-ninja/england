@@ -1,5 +1,5 @@
 ---
 title: "Molton Brown"
 url: /spalding/molton-brown/
-shop: Kosmetik
+shop: beauty
 ---

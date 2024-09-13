@@ -1,5 +1,5 @@
 ---
 title: "Delle"
 url: /preston/delle/
-shop: Kosmetik
+shop: beauty
 ---

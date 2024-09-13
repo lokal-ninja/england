@@ -1,5 +1,5 @@
 ---
 title: "Dreams"
 url: /plymouth/dreams/
-shop: Betten
+shop: bed
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /morecambe/savers/
-shop: Drogerie
+shop: chemist
 ---

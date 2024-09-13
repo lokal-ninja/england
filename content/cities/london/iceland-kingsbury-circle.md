@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /london/iceland-kingsbury-circle/
-shop: Tiefkühl
+shop: frozen food
 ---

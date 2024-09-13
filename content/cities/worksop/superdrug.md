@@ -1,5 +1,5 @@
 ---
 title: "Superdrug"
 url: /worksop/superdrug/
-shop: Drogerie
+shop: chemist
 ---

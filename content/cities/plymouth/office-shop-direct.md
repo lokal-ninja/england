@@ -1,5 +1,5 @@
 ---
 title: "Office Shop Direct"
 url: /plymouth/office-shop-direct/
-shop: Baustoffe
+shop: trade
 ---

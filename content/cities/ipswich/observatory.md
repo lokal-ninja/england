@@ -1,5 +1,5 @@
 ---
 title: "Observatory"
 url: /ipswich/observatory/
-shop: Optiker
+shop: optician
 ---

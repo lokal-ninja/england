@@ -1,5 +1,5 @@
 ---
 title: "Kringle"
 url: /sheffield/kringle/
-shop: Bäckerei
+shop: bakery
 ---

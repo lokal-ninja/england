@@ -1,5 +1,5 @@
 ---
 title: "Headcase Barbers"
 url: /coventry/headcase-barbers/
-shop: Friseur
+shop: hairdresser
 ---

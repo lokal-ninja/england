@@ -1,5 +1,5 @@
 ---
 title: "Budgens"
 url: /peterborough/budgens-peterborough-road/
-shop: Lebensmittel
+shop: convenience
 ---

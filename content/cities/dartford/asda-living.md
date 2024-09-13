@@ -1,5 +1,5 @@
 ---
 title: "Asda Living"
 url: /dartford/asda-living/
-shop: Warenhaus
+shop: department store
 ---

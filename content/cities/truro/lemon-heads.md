@@ -1,5 +1,5 @@
 ---
 title: "Lemon Heads"
 url: /truro/lemon-heads/
-shop: Friseur
+shop: hairdresser
 ---

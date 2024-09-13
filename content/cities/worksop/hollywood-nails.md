@@ -1,5 +1,5 @@
 ---
 title: "Hollywood Nails"
 url: /worksop/hollywood-nails/
-shop: Kosmetik
+shop: beauty
 ---

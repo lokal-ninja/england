@@ -1,5 +1,5 @@
 ---
 title: "JK Nails"
 url: /chester/jk-nails/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Screwfix"
 url: /manchester/screwfix-hattons-road/
-shop: Baumarkt
+shop: doityourself
 ---

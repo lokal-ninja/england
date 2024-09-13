@@ -1,5 +1,5 @@
 ---
 title: "Budgens"
 url: /bridgwater/budgens/
-shop: Lebensmittel
+shop: convenience
 ---

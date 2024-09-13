@@ -1,5 +1,5 @@
 ---
 title: "Looking Good"
 url: /washington/looking-good/
-shop: Friseur
+shop: hairdresser
 ---

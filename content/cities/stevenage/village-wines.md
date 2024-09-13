@@ -1,5 +1,5 @@
 ---
 title: "Village Wines"
 url: /stevenage/village-wines/
-shop: Spirituosen
+shop: alcohol
 ---

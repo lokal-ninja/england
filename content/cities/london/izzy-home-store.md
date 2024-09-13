@@ -1,5 +1,5 @@
 ---
 title: "Izzy Home Store"
 url: /london/izzy-home-store/
-shop: Kramladen
+shop: variety store
 ---

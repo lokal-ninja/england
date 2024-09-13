@@ -1,5 +1,5 @@
 ---
 title: "Ace Performance"
 url: /bolton/ace-performance/
-shop: Autoteile
+shop: car parts
 ---

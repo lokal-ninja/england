@@ -1,5 +1,5 @@
 ---
 title: "Schmidt"
 url: /solihull/schmidt/
-shop: Küchen
+shop: kitchen
 ---

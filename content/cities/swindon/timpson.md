@@ -1,5 +1,5 @@
 ---
 title: "Timpson"
 url: /swindon/timpson/
-shop: Schlüsseldienst
+shop: locksmith
 ---

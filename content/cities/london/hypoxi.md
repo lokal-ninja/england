@@ -1,5 +1,5 @@
 ---
 title: "Hypoxi"
 url: /london/hypoxi/
-shop: Kosmetik
+shop: beauty
 ---

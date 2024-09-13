@@ -1,5 +1,5 @@
 ---
 title: "Mario's Barbers"
 url: /gillingham/marios-barbers/
-shop: Friseur
+shop: hairdresser
 ---

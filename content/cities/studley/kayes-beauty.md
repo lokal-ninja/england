@@ -1,5 +1,5 @@
 ---
 title: "Kaye's Beauty"
 url: /studley/kayes-beauty/
-shop: Kosmetik
+shop: beauty
 ---

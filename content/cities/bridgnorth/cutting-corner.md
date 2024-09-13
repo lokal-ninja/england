@@ -1,5 +1,5 @@
 ---
 title: "Cutting Corner"
 url: /bridgnorth/cutting-corner/
-shop: Friseur
+shop: hairdresser
 ---

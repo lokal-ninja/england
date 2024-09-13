@@ -1,5 +1,5 @@
 ---
 title: "Weston Hospicecare"
 url: /weston-super-mare/weston-hospicecare/
-shop: Gebrauchtwaren
+shop: charity
 ---

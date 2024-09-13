@@ -1,5 +1,5 @@
 ---
 title: "Hutchinson"
 url: /darlington/hutchinson/
-shop: Teppiche
+shop: carpet
 ---

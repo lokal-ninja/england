@@ -1,5 +1,5 @@
 ---
 title: "LCR Systems"
 url: /morecambe/lcr-systems/
-shop: Allgemein
+shop: shop
 ---

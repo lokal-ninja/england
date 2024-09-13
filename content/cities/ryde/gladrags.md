@@ -1,5 +1,5 @@
 ---
 title: "Gladrags"
 url: /ryde/gladrags/
-shop: Kleidung
+shop: clothes
 ---

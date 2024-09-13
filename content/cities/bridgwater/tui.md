@@ -1,5 +1,5 @@
 ---
 title: "TUI"
 url: /bridgwater/tui/
-shop: Reisebüro
+shop: travel agency
 ---

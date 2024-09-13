@@ -1,5 +1,5 @@
 ---
 title: "Studio 42"
 url: /gateshead/studio-42/
-shop: Kosmetik
+shop: beauty
 ---

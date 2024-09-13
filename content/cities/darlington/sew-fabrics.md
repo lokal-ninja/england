@@ -1,5 +1,5 @@
 ---
 title: "Sew Fabrics"
 url: /darlington/sew-fabrics/
-shop: Textil
+shop: fabric
 ---

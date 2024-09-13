@@ -1,5 +1,5 @@
 ---
 title: "Clarendon"
 url: /cheltenham/clarendon/
-shop: Kunst
+shop: art
 ---

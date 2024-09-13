@@ -1,5 +1,5 @@
 ---
 title: "Aromatica"
 url: /london/aromatica/
-shop: Feinkost
+shop: deli
 ---

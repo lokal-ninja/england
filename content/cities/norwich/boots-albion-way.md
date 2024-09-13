@@ -1,5 +1,5 @@
 ---
 title: "Boots"
 url: /norwich/boots-albion-way/
-shop: Allgemein
+shop: shop
 ---

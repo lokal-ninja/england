@@ -1,5 +1,5 @@
 ---
 title: "The Larder"
 url: /fakenham/the-larder/
-shop: Feinkost
+shop: deli
 ---

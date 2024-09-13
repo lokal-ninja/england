@@ -1,5 +1,5 @@
 ---
 title: "Carl's Meats"
 url: /grimsby/carls-meats/
-shop: Metzgerei
+shop: butcher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Texaco"
 url: /exeter/texaco/
-shop: Lebensmittel
+shop: convenience
 ---

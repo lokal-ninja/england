@@ -1,5 +1,5 @@
 ---
 title: "Today's Extra"
 url: /grimsby/todays-extra-farebrother-street/
-shop: Lebensmittel
+shop: convenience
 ---

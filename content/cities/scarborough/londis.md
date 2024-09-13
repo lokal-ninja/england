@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /scarborough/londis/
-shop: Lebensmittel
+shop: convenience
 ---

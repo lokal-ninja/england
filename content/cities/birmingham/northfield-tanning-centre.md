@@ -1,5 +1,5 @@
 ---
 title: "Northfield Tanning Centre"
 url: /birmingham/northfield-tanning-centre/
-shop: Kosmetik
+shop: beauty
 ---

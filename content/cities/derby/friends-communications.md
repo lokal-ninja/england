@@ -1,5 +1,5 @@
 ---
 title: "Friends Communications"
 url: /derby/friends-communications/
-shop: Handy
+shop: mobile phone
 ---

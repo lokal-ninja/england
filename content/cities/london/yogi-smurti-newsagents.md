@@ -1,5 +1,5 @@
 ---
 title: "Yogi Smurti Newsagents"
 url: /london/yogi-smurti-newsagents/
-shop: Zeitungen
+shop: newsagent
 ---

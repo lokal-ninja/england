@@ -1,6 +1,6 @@
 ---
 title: Tavistock
 url: /tavistock/
-latitude: 50.546
-longitude: -4.153
+latitude: 50.534
+longitude: -4.131
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Yak"
 url: /lincoln/yak/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sainsbury's Local"
 url: /nottingham/sainsburys-local-arnold-lane/
-shop: Lebensmittel
+shop: convenience
 ---

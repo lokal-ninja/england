@@ -1,5 +1,5 @@
 ---
 title: "Polished"
 url: /nottingham/polished/
-shop: Kosmetik
+shop: beauty
 ---

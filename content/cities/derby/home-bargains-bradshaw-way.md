@@ -1,5 +1,5 @@
 ---
 title: "Home Bargains"
 url: /derby/home-bargains-bradshaw-way/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Safestore"
 url: /chelmsford/safestore/
-shop: Mieten
+shop: storage rental
 ---

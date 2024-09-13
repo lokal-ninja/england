@@ -1,5 +1,5 @@
 ---
 title: "Colourcraft Limited"
 url: /sheffield/colourcraft-limited/
-shop: Allgemein
+shop: shop
 ---

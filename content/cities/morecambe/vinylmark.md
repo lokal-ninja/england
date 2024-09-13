@@ -1,5 +1,5 @@
 ---
 title: "Vinylmark"
 url: /morecambe/vinylmark/
-shop: Beschriftungen
+shop: lettering
 ---

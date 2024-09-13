@@ -1,5 +1,5 @@
 ---
 title: "Premier Vision"
 url: /bradford/premier-vision/
-shop: Optiker
+shop: optician
 ---

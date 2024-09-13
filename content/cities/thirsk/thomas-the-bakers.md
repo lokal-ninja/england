@@ -1,5 +1,5 @@
 ---
 title: "Thomas the Bakers"
 url: /thirsk/thomas-the-bakers/
-shop: Bäckerei
+shop: bakery
 ---

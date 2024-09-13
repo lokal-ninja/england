@@ -1,5 +1,5 @@
 ---
 title: "Mark-Up Tools"
 url: /manchester/mark-up-tools/
-shop: Großhandel
+shop: wholesale
 ---

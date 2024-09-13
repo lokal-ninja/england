@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /cirencester/savers/
-shop: Drogerie
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Khawaja Halal"
 url: /bolton/khawaja-halal/
-shop: Lebensmittel
+shop: convenience
 ---

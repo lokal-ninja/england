@@ -1,5 +1,5 @@
 ---
 title: "Tooltrade"
 url: /gateshead/tooltrade/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Blue Inc"
 url: /southampton/blue-inc/
-shop: Kleidung
+shop: clothes
 ---

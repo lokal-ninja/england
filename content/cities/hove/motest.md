@@ -1,5 +1,5 @@
 ---
 title: "Motest"
 url: /hove/motest/
-shop: Autowerkstatt
+shop: car repair
 ---

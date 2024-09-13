@@ -1,5 +1,5 @@
 ---
 title: "Nuvo Medispa"
 url: /tamworth/nuvo-medispa/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "One Stop"
 url: /london/one-stop-norwood-road/
-shop: Lebensmittel
+shop: convenience
 ---

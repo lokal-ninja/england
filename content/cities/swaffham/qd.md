@@ -1,5 +1,5 @@
 ---
 title: "QD"
 url: /swaffham/qd/
-shop: Kramladen
+shop: variety store
 ---

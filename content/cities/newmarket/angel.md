@@ -1,5 +1,5 @@
 ---
 title: "Angel"
 url: /newmarket/angel/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "BargainBikerBrands"
 url: /chesterton/bargainbikerbrands/
-shop: Allgemein
+shop: shop
 ---

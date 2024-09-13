@@ -1,5 +1,5 @@
 ---
 title: "Morrisons Daily"
 url: /newcastle-under-lyme/morrisons-daily/
-shop: Lebensmittel
+shop: convenience
 ---

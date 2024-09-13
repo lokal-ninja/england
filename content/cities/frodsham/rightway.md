@@ -1,5 +1,5 @@
 ---
 title: "Rightway"
 url: /frodsham/rightway/
-shop: Baumarkt
+shop: doityourself
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tattoo Box"
 url: /thetford/tattoo-box/
-shop: Tattoo
+shop: tattoo
 ---

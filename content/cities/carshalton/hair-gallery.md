@@ -1,5 +1,5 @@
 ---
 title: "Hair Gallery"
 url: /carshalton/hair-gallery/
-shop: Friseur
+shop: hairdresser
 ---

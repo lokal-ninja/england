@@ -1,5 +1,5 @@
 ---
 title: "Atkins-Sutcliffe Eyecare"
 url: /stockport/atkins-sutcliffe-eyecare/
-shop: Optiker
+shop: optician
 ---

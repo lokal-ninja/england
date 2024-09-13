@@ -1,5 +1,5 @@
 ---
 title: "Folk"
 url: /london/folk-lambs-conduit-street/
-shop: Kleidung
+shop: clothes
 ---

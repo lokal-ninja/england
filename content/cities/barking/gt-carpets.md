@@ -1,5 +1,5 @@
 ---
 title: "GT Carpets"
 url: /barking/gt-carpets/
-shop: Teppiche
+shop: carpet
 ---

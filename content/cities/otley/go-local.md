@@ -1,5 +1,5 @@
 ---
 title: "Go Local"
 url: /otley/go-local/
-shop: Lebensmittel
+shop: convenience
 ---

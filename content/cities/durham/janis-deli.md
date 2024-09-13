@@ -1,5 +1,5 @@
 ---
 title: "Janis Deli"
 url: /durham/janis-deli/
-shop: Feinkost
+shop: deli
 ---

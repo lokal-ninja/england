@@ -1,5 +1,5 @@
 ---
 title: "Osna"
 url: /bristol/osna/
-shop: Massage
+shop: massage
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /bromsgrove/betfred/
-shop: Wettbüro
+shop: bookmaker
 ---

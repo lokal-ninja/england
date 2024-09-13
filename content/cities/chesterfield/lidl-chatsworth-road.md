@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /chesterfield/lidl-chatsworth-road/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Richmond Valet"
 url: /twickenham/the-richmond-valet/
-shop: Leerstehend
+shop: vacant
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /clacton-on-sea/poundland/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bed World"
 url: /ipswich/bed-world/
-shop: Betten
+shop: bed
 ---

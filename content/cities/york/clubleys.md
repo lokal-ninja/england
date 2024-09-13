@@ -1,5 +1,5 @@
 ---
 title: "Clubleys"
 url: /york/clubleys/
-shop: Immobilien
+shop: estate agent
 ---

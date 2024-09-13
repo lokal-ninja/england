@@ -1,5 +1,5 @@
 ---
 title: "CIC Autos"
 url: /gateshead/cic-autos/
-shop: Autowerkstatt
+shop: car repair
 ---

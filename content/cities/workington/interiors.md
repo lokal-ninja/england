@@ -1,5 +1,5 @@
 ---
 title: "Interiors"
 url: /workington/interiors/
-shop: Möbel
+shop: furniture
 ---

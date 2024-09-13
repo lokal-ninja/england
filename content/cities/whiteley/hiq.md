@@ -1,5 +1,5 @@
 ---
 title: "HiQ"
 url: /whiteley/hiq/
-shop: Reifen
+shop: tyres
 ---

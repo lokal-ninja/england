@@ -1,5 +1,5 @@
 ---
 title: "Otterton Community Shop"
 url: /budleigh-salterton/otterton-community-shop/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ScS"
 url: /nottingham/scs/
-shop: Möbel
+shop: furniture
 ---

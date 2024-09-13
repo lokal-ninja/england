@@ -1,5 +1,5 @@
 ---
 title: "Warrior Warehouse"
 url: /camborne/warrior-warehouse-pendarves-street/
-shop: Baumarkt
+shop: doityourself
 ---

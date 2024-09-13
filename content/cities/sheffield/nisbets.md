@@ -1,5 +1,5 @@
 ---
 title: "Nisbets"
 url: /sheffield/nisbets/
-shop: Haushaltsartikel
+shop: houseware
 ---

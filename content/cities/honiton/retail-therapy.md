@@ -1,5 +1,5 @@
 ---
 title: "Retail Therapy"
 url: /honiton/retail-therapy/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ProCook"
 url: /braintree/procook/
-shop: Haushaltsartikel
+shop: houseware
 ---

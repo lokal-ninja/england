@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /london/iceland-new-cross-road/
-shop: Tiefkühl
+shop: frozen food
 ---

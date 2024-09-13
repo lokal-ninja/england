@@ -1,5 +1,5 @@
 ---
 title: "Mojoa"
 url: /darlington/mojoa/
-shop: Friseur
+shop: hairdresser
 ---

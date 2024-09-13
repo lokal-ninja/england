@@ -1,5 +1,5 @@
 ---
 title: "Bez's Bedz"
 url: /warrington/bezs-bedz/
-shop: Kosmetik
+shop: beauty
 ---

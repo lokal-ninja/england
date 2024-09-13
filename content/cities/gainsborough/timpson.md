@@ -1,5 +1,5 @@
 ---
 title: "Timpson"
 url: /gainsborough/timpson/
-shop: Schlüsseldienst
+shop: locksmith
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Old Bridge Bakery"
 url: /holmfirth/old-bridge-bakery/
-shop: Bäckerei
+shop: bakery
 ---

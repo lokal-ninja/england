@@ -1,5 +1,5 @@
 ---
 title: "Formula One Autocentres"
 url: /dudley/formula-one-autocentres/
-shop: Autowerkstatt
+shop: car repair
 ---

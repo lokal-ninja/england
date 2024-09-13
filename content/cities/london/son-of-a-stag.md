@@ -1,5 +1,5 @@
 ---
 title: "Son of a Stag"
 url: /london/son-of-a-stag/
-shop: Kleidung
+shop: clothes
 ---

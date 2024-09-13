@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /bristol/londis-shirehampton-road/
-shop: Lebensmittel
+shop: convenience
 ---

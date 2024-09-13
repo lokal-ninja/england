@@ -1,5 +1,5 @@
 ---
 title: "Iris Optical"
 url: /richmond/iris-optical/
-shop: Optiker
+shop: optician
 ---

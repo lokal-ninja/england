@@ -1,5 +1,5 @@
 ---
 title: "Farmfoods"
 url: /birmingham/farmfoods-hazelwell-street/
-shop: Tiefkühl
+shop: frozen food
 ---

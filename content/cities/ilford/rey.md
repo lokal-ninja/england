@@ -1,5 +1,5 @@
 ---
 title: "Rey"
 url: /ilford/rey/
-shop: Feinkost
+shop: deli
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hello Home"
 url: /staveley/hello-home/
-shop: Raumausstattung
+shop: interior decoration
 ---

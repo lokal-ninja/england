@@ -1,5 +1,5 @@
 ---
 title: "Sunny Nails"
 url: /liverpool/sunny-nails/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Motofix"
 url: /swindon/motofix/
-shop: Autowerkstatt
+shop: car repair
 ---

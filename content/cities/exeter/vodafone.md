@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
 url: /exeter/vodafone/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Goring Pharmacy"
 url: /goring/goring-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

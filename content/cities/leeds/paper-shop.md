@@ -1,5 +1,5 @@
 ---
 title: "Paper Shop"
 url: /leeds/paper-shop/
-shop: Zeitungen
+shop: newsagent
 ---

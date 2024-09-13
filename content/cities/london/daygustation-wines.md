@@ -1,5 +1,5 @@
 ---
 title: "Daygustation Wines"
 url: /london/daygustation-wines/
-shop: Spirituosen
+shop: alcohol
 ---

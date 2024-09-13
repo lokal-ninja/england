@@ -1,5 +1,5 @@
 ---
 title: "Morrisons Daily"
 url: /thornton-cleveleys/morrisons-daily/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /felixstowe/betfred/
-shop: Wettbüro
+shop: bookmaker
 ---

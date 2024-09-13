@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /coventry/aldi-warwick-road/
-shop: Supermarkt
+shop: supermarket
 ---

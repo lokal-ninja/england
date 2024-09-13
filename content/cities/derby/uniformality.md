@@ -1,5 +1,5 @@
 ---
 title: "Uniformality"
 url: /derby/uniformality/
-shop: Kleidung
+shop: clothes
 ---

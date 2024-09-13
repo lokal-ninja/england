@@ -1,5 +1,5 @@
 ---
 title: "Morrisons"
 url: /hastings/morrisons-queens-road/
-shop: Lebensmittel
+shop: convenience
 ---

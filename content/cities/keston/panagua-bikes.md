@@ -1,5 +1,5 @@
 ---
 title: "Panagua Bikes"
 url: /keston/panagua-bikes/
-shop: Fahrrad
+shop: bicycle
 ---

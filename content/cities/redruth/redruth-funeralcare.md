@@ -1,5 +1,5 @@
 ---
 title: "Redruth Funeralcare"
 url: /redruth/redruth-funeralcare/
-shop: Bestattungen
+shop: funeral directors
 ---

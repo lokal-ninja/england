@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /spalding/poundland/
-shop: Kramladen
+shop: variety store
 ---

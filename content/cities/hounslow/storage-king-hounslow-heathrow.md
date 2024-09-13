@@ -1,5 +1,5 @@
 ---
 title: "Storage King Hounslow-Heathrow"
 url: /hounslow/storage-king-hounslow-heathrow/
-shop: Mieten
+shop: storage rental
 ---

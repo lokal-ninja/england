@@ -1,5 +1,5 @@
 ---
 title: "Animal Botanical"
 url: /seaton/animal-botanical/
-shop: Tiere
+shop: pet
 ---

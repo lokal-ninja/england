@@ -1,5 +1,5 @@
 ---
 title: "Millennia"
 url: /london/millennia/
-shop: Spielzeug
+shop: toys
 ---

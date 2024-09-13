@@ -1,5 +1,5 @@
 ---
 title: "Authentic"
 url: /uppermill/authentic/
-shop: Andenken
+shop: gift
 ---

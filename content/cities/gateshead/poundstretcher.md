@@ -1,5 +1,5 @@
 ---
 title: "Poundstretcher"
 url: /gateshead/poundstretcher/
-shop: Kramladen
+shop: variety store
 ---

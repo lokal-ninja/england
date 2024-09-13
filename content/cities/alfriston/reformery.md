@@ -1,5 +1,5 @@
 ---
 title: "Reformery"
 url: /alfriston/reformery/
-shop: Friseur
+shop: hairdresser
 ---

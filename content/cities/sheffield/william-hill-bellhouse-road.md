@@ -1,5 +1,5 @@
 ---
 title: "William Hill"
 url: /sheffield/william-hill-bellhouse-road/
-shop: Wettbüro
+shop: bookmaker
 ---

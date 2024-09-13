@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /coventry/poundland/
-shop: Kramladen
+shop: variety store
 ---

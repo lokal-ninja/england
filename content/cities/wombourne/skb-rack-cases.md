@@ -1,5 +1,5 @@
 ---
 title: "SKB Rack Cases"
 url: /wombourne/skb-rack-cases/
-shop: Eisenwaren
+shop: hardware
 ---

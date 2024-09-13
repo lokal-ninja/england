@@ -1,5 +1,5 @@
 ---
 title: "Hanns Professional"
 url: /chatham/hanns-professional/
-shop: Friseur
+shop: hairdresser
 ---

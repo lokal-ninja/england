@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /newcastle-upon-tyne/asda-fossway/
-shop: Supermarkt
+shop: supermarket
 ---

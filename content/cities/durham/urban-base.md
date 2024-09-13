@@ -1,5 +1,5 @@
 ---
 title: "Urban Base"
 url: /durham/urban-base/
-shop: Immobilien
+shop: estate agent
 ---

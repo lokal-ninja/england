@@ -1,5 +1,5 @@
 ---
 title: "Richmonds"
 url: /ossett/richmonds/
-shop: Metzgerei
+shop: butcher
 ---

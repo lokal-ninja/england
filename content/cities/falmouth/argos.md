@@ -1,5 +1,5 @@
 ---
 title: "Argos"
 url: /falmouth/argos/
-shop: Katalog
+shop: catalogue
 ---

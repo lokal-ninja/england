@@ -1,5 +1,5 @@
 ---
 title: "VW Golf Shop"
 url: /london/vw-golf-shop/
-shop: Autohaus
+shop: car
 ---

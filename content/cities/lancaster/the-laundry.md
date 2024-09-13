@@ -1,5 +1,5 @@
 ---
 title: "The Laundry"
 url: /lancaster/the-laundry/
-shop: Wäscherei
+shop: laundry
 ---

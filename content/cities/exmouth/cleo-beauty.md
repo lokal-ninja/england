@@ -1,5 +1,5 @@
 ---
 title: "Cleo Beauty"
 url: /exmouth/cleo-beauty/
-shop: Kosmetik
+shop: beauty
 ---

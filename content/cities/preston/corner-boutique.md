@@ -1,5 +1,5 @@
 ---
 title: "Corner Boutique"
 url: /preston/corner-boutique/
-shop: Modehaus
+shop: boutique
 ---

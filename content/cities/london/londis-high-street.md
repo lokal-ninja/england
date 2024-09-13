@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /london/londis-high-street/
-shop: Lebensmittel
+shop: convenience
 ---

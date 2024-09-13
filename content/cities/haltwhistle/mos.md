@@ -1,5 +1,5 @@
 ---
 title: "Mo's"
 url: /haltwhistle/mos/
-shop: Lebensmittel
+shop: convenience
 ---

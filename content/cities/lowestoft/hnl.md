@@ -1,5 +1,5 @@
 ---
 title: "HNL"
 url: /lowestoft/hnl/
-shop: Friseur
+shop: hairdresser
 ---

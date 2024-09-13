@@ -1,5 +1,5 @@
 ---
 title: "Reno Refills"
 url: /wymondham/reno-refills/
-shop: Lebensmittel
+shop: convenience
 ---

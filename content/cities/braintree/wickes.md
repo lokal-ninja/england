@@ -1,5 +1,5 @@
 ---
 title: "Wickes"
 url: /braintree/wickes/
-shop: Baumarkt
+shop: doityourself
 ---

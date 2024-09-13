@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /whitehaven/whsmith/
-shop: Zeitungen
+shop: newsagent
 ---

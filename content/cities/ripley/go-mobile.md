@@ -1,5 +1,5 @@
 ---
 title: "Go Mobile"
 url: /ripley/go-mobile/
-shop: Handy
+shop: mobile phone
 ---

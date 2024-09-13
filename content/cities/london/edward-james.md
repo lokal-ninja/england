@@ -1,5 +1,5 @@
 ---
 title: "Edward James"
 url: /london/edward-james/
-shop: Friseur
+shop: hairdresser
 ---

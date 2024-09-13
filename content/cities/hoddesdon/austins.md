@@ -1,5 +1,5 @@
 ---
 title: "Austin's"
 url: /hoddesdon/austins/
-shop: Bestattungen
+shop: funeral directors
 ---

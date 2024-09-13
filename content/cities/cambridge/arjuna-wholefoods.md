@@ -1,5 +1,5 @@
 ---
 title: "Arjuna Wholefoods"
 url: /cambridge/arjuna-wholefoods/
-shop: Lebensmittel
+shop: convenience
 ---

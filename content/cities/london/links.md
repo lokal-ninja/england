@@ -1,5 +1,5 @@
 ---
 title: "links"
 url: /london/links/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MacMan"
 url: /horsham/macman/
-shop: Computer
+shop: computer
 ---

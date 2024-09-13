@@ -1,5 +1,5 @@
 ---
 title: "Arrow Auto Services"
 url: /maldon/arrow-auto-services/
-shop: Autowerkstatt
+shop: car repair
 ---

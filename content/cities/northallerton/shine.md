@@ -1,5 +1,5 @@
 ---
 title: "Shine"
 url: /northallerton/shine/
-shop: Kosmetik
+shop: beauty
 ---

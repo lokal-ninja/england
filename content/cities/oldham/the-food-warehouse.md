@@ -1,5 +1,5 @@
 ---
 title: "The Food Warehouse"
 url: /oldham/the-food-warehouse/
-shop: Supermarkt
+shop: supermarket
 ---

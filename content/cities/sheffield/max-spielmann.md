@@ -1,5 +1,5 @@
 ---
 title: "Max Spielmann"
 url: /sheffield/max-spielmann/
-shop: Kopieren
+shop: copyshop
 ---

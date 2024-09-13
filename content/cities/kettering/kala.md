@@ -1,5 +1,5 @@
 ---
 title: "Kala"
 url: /kettering/kala/
-shop: Supermarkt
+shop: supermarket
 ---

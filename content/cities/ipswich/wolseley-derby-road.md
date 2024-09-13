@@ -1,5 +1,5 @@
 ---
 title: "Wolseley"
 url: /ipswich/wolseley-derby-road/
-shop: Baustoffe
+shop: trade
 ---

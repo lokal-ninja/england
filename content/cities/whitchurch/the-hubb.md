@@ -1,5 +1,5 @@
 ---
 title: "The Hubb"
 url: /whitchurch/the-hubb/
-shop: Friseur
+shop: hairdresser
 ---

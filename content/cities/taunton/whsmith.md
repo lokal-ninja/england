@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /taunton/whsmith/
-shop: Zeitungen
+shop: newsagent
 ---

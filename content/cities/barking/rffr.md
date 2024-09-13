@@ -1,5 +1,5 @@
 ---
 title: "RFFR"
 url: /barking/rffr/
-shop: Gebrauchtwaren
+shop: charity
 ---

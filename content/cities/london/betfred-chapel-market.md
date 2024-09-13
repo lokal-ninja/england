@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /london/betfred-chapel-market/
-shop: Wettbüro
+shop: bookmaker
 ---

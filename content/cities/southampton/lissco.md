@@ -1,5 +1,5 @@
 ---
 title: "Lissco"
 url: /southampton/lissco/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /exeter/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

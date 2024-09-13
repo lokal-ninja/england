@@ -1,5 +1,5 @@
 ---
 title: "Cho Viet"
 url: /nottingham/cho-viet/
-shop: Lebensmittel
+shop: convenience
 ---

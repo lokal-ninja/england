@@ -1,5 +1,5 @@
 ---
 title: "Safowa Events"
 url: /harlow/safowa-events/
-shop: Partyzubehör
+shop: party
 ---

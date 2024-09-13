@@ -1,5 +1,5 @@
 ---
 title: "Freckleton Brown"
 url: /nottingham/freckleton-brown/
-shop: Immobilien
+shop: estate agent
 ---

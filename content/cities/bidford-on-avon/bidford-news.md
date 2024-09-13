@@ -1,5 +1,5 @@
 ---
 title: "Bidford News"
 url: /bidford-on-avon/bidford-news/
-shop: Zeitungen
+shop: newsagent
 ---

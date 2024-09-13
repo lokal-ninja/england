@@ -1,5 +1,5 @@
 ---
 title: "J Ayre"
 url: /sidcup/j-ayre-blackfen-road/
-shop: Bäckerei
+shop: bakery
 ---

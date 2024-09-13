@@ -1,5 +1,5 @@
 ---
 title: "Hitech Lighting"
 url: /manchester/hitech-lighting/
-shop: Lampen
+shop: lamps
 ---

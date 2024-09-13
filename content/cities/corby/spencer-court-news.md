@@ -1,5 +1,5 @@
 ---
 title: "Spencer Court News"
 url: /corby/spencer-court-news/
-shop: Zeitungen
+shop: newsagent
 ---

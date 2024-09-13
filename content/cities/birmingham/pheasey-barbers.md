@@ -1,5 +1,5 @@
 ---
 title: "Pheasey Barbers"
 url: /birmingham/pheasey-barbers/
-shop: Friseur
+shop: hairdresser
 ---

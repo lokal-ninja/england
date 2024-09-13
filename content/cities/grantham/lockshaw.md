@@ -1,5 +1,5 @@
 ---
 title: "lockSHAW"
 url: /grantham/lockshaw/
-shop: Schlüsseldienst
+shop: locksmith
 ---

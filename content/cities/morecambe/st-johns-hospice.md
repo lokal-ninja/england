@@ -1,5 +1,5 @@
 ---
 title: "St John's Hospice"
 url: /morecambe/st-johns-hospice/
-shop: Gebrauchtwaren
+shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Whisky Business"
 url: /liverpool/whisky-business/
-shop: Spirituosen
+shop: alcohol
 ---

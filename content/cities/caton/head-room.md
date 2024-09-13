@@ -1,5 +1,5 @@
 ---
 title: "Head Room"
 url: /caton/head-room/
-shop: Friseur
+shop: hairdresser
 ---

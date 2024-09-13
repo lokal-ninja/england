@@ -1,5 +1,5 @@
 ---
 title: "YMCA"
 url: /lowestoft/ymca/
-shop: Gebrauchtwaren
+shop: charity
 ---

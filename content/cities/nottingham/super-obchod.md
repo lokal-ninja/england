@@ -1,5 +1,5 @@
 ---
 title: "Super Obchod"
 url: /nottingham/super-obchod/
-shop: Lebensmittel
+shop: convenience
 ---

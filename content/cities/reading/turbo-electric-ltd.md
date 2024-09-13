@@ -1,5 +1,5 @@
 ---
 title: "Turbo Electric Ltd"
 url: /reading/turbo-electric-ltd/
-shop: Autohaus
+shop: car
 ---

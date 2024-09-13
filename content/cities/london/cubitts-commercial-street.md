@@ -1,5 +1,5 @@
 ---
 title: "Cubitts"
 url: /london/cubitts-commercial-street/
-shop: Optiker
+shop: optician
 ---

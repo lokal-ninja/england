@@ -1,5 +1,5 @@
 ---
-title: "Farrow and Ball"
+title: "Farrow & Ball"
 url: /london/farrow-and-ball/
-shop: Kunst
+shop: paint
 ---

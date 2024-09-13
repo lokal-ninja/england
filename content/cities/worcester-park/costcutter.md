@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /worcester-park/costcutter/
-shop: Lebensmittel
+shop: convenience
 ---

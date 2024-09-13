@@ -1,5 +1,5 @@
 ---
 title: "Pandora"
 url: /norwich/pandora/
-shop: Schmuck
+shop: jewelry
 ---

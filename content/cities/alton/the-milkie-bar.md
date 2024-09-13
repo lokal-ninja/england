@@ -1,5 +1,5 @@
 ---
 title: "The Milkie Bar"
 url: /alton/the-milkie-bar/
-shop: Hofladen
+shop: farm
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gellatly Local"
 url: /london/gellatly-local/
-shop: Lebensmittel
+shop: convenience
 ---

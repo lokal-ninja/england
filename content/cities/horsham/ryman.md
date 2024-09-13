@@ -1,5 +1,5 @@
 ---
 title: "Ryman"
 url: /horsham/ryman/
-shop: Schreibwaren
+shop: office supplies
 ---

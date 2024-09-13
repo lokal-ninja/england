@@ -1,5 +1,5 @@
 ---
 title: "Boots Local"
 url: /clacton-on-sea/boots-local/
-shop: Drogerie
+shop: chemist
 ---

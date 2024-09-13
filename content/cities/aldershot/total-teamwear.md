@@ -1,5 +1,5 @@
 ---
 title: "Total Teamwear"
 url: /aldershot/total-teamwear/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kubus"
 url: /leeds/kubus/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Indespension"
 url: /bristol/indespension/
-shop: Autowerkstatt
+shop: car repair
 ---

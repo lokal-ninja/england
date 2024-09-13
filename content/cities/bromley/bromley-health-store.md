@@ -1,5 +1,5 @@
 ---
 title: "Bromley Health Store"
 url: /bromley/bromley-health-store/
-shop: Bioladen
+shop: health food
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /sutton-coldfield/coral/
-shop: Wettbüro
+shop: bookmaker
 ---

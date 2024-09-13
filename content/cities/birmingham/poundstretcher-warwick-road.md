@@ -1,5 +1,5 @@
 ---
 title: "Poundstretcher"
 url: /birmingham/poundstretcher-warwick-road/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Portway Foods"
 url: /london/portway-foods/
-shop: Lebensmittel
+shop: convenience
 ---

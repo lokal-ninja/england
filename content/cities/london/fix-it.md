@@ -1,5 +1,5 @@
 ---
 title: "Fix it"
 url: /london/fix-it/
-shop: Eisenwaren
+shop: hardware
 ---

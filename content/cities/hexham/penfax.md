@@ -1,5 +1,5 @@
 ---
 title: "Penfax"
 url: /hexham/penfax/
-shop: Allgemein
+shop: shop
 ---

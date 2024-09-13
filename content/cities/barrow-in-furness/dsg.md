@@ -1,5 +1,5 @@
 ---
 title: "DSG"
 url: /barrow-in-furness/dsg/
-shop: Autohaus
+shop: car
 ---

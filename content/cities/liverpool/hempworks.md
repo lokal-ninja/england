@@ -1,5 +1,5 @@
 ---
 title: "Hempworks"
 url: /liverpool/hempworks/
-shop: Bioladen
+shop: health food
 ---

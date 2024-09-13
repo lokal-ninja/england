@@ -1,5 +1,5 @@
 ---
 title: "Homecare"
 url: /walthamstow/homecare/
-shop: Baustoffe
+shop: trade
 ---

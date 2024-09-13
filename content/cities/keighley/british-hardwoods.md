@@ -1,5 +1,5 @@
 ---
 title: "British Hardwoods"
 url: /keighley/british-hardwoods/
-shop: Holz
+shop: wood
 ---

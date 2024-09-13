@@ -1,5 +1,5 @@
 ---
 title: "ATASA Electronics"
 url: /london/atasa-electronics/
-shop: Elektronik
+shop: electronics
 ---

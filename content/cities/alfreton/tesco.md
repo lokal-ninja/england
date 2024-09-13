@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /alfreton/tesco/
-shop: Supermarkt
+shop: supermarket
 ---

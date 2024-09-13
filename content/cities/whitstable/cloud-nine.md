@@ -1,5 +1,5 @@
 ---
 title: "Cloud Nine"
 url: /whitstable/cloud-nine/
-shop: Friseur
+shop: hairdresser
 ---

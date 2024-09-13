@@ -1,5 +1,5 @@
 ---
 title: "Peloton"
 url: /london/peloton/
-shop: Sport
+shop: sports
 ---

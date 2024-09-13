@@ -1,5 +1,5 @@
 ---
 title: "Cohen's Chemist"
 url: /bolton/cohens-chemist/
-shop: Drogerie
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Flock and Herd"
 url: /london/flock-and-herd/
-shop: Metzgerei
+shop: butcher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Hive Mind"
 url: /plymouth/the-hive-mind/
-shop: Sammler
+shop: collector
 ---

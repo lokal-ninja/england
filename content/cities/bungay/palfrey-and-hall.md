@@ -1,5 +1,5 @@
 ---
 title: "Palfrey And Hall"
 url: /bungay/palfrey-and-hall/
-shop: Metzgerei
+shop: butcher
 ---

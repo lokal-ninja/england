@@ -1,5 +1,5 @@
 ---
 title: "Newcastle Tyres"
 url: /newcastle-upon-tyne/newcastle-tyres/
-shop: Autowerkstatt
+shop: car repair
 ---

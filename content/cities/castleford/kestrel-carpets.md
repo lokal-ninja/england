@@ -1,5 +1,5 @@
 ---
 title: "Kestrel Carpets"
 url: /castleford/kestrel-carpets/
-shop: Teppiche
+shop: carpet
 ---

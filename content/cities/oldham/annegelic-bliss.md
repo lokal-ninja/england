@@ -1,5 +1,5 @@
 ---
 title: "Annegelic Bliss"
 url: /oldham/annegelic-bliss/
-shop: Allgemein
+shop: shop
 ---

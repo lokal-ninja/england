@@ -1,5 +1,5 @@
 ---
 title: "Love Bird"
 url: /cowes/love-bird/
-shop: Schmuck
+shop: jewelry
 ---

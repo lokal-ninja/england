@@ -1,5 +1,5 @@
 ---
 title: "frog orange"
 url: /oxford/frog-orange/
-shop: Andenken
+shop: gift
 ---

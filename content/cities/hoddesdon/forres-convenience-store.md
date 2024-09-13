@@ -1,5 +1,5 @@
 ---
 title: "Forres Convenience Store"
 url: /hoddesdon/forres-convenience-store/
-shop: Lebensmittel
+shop: convenience
 ---

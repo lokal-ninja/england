@@ -1,5 +1,5 @@
 ---
 title: "Corner House Stores"
 url: /minehead/corner-house-stores/
-shop: Lebensmittel
+shop: convenience
 ---

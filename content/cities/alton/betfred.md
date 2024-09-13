@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /alton/betfred/
-shop: Wettbüro
+shop: bookmaker
 ---

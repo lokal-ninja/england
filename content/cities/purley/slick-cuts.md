@@ -1,5 +1,5 @@
 ---
 title: "Slick Cuts"
 url: /purley/slick-cuts/
-shop: Friseur
+shop: hairdresser
 ---

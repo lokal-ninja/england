@@ -1,5 +1,5 @@
 ---
 title: "Roman"
 url: /evesham/roman/
-shop: Kleidung
+shop: clothes
 ---

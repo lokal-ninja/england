@@ -1,5 +1,5 @@
 ---
 title: "Barneys"
 url: /derby/barneys/
-shop: Lebensmittel
+shop: convenience
 ---

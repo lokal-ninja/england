@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /london/poundland-joyce-dawson-way/
-shop: Kramladen
+shop: variety store
 ---

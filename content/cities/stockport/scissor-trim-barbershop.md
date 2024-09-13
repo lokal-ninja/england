@@ -1,5 +1,5 @@
 ---
 title: "Scissor Trim Barbershop"
 url: /stockport/scissor-trim-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

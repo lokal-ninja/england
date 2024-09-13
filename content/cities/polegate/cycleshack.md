@@ -1,5 +1,5 @@
 ---
 title: "CycleShack"
 url: /polegate/cycleshack/
-shop: Fahrrad
+shop: bicycle
 ---

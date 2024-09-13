@@ -1,5 +1,5 @@
 ---
 title: "Minster Cycles"
 url: /beverley/minster-cycles/
-shop: Fahrrad
+shop: bicycle
 ---

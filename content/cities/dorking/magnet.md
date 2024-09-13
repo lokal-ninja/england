@@ -1,5 +1,5 @@
 ---
 title: "Magnet"
 url: /dorking/magnet/
-shop: Küchen
+shop: kitchen
 ---

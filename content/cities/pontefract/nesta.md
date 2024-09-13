@@ -1,5 +1,5 @@
 ---
 title: "Nesta"
 url: /pontefract/nesta/
-shop: Lebensmittel
+shop: convenience
 ---

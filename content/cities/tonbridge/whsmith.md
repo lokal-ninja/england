@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /tonbridge/whsmith/
-shop: Bücher
+shop: books
 ---

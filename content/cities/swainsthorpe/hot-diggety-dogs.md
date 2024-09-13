@@ -1,5 +1,5 @@
 ---
 title: "Hot Diggety Dogs"
 url: /swainsthorpe/hot-diggety-dogs/
-shop: Tiersalon
+shop: pet grooming
 ---

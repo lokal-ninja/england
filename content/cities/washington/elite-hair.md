@@ -1,5 +1,5 @@
 ---
 title: "Elite Hair"
 url: /washington/elite-hair/
-shop: Friseur
+shop: hairdresser
 ---

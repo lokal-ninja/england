@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /telford/costcutter/
-shop: Lebensmittel
+shop: convenience
 ---

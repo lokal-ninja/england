@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /margate/whsmith/
-shop: Zeitungen
+shop: newsagent
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /gosport/londis/
-shop: Lebensmittel
+shop: convenience
 ---

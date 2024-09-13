@@ -1,5 +1,5 @@
 ---
 title: "Grosvenor Wines"
 url: /london/grosvenor-wines/
-shop: Lebensmittel
+shop: convenience
 ---

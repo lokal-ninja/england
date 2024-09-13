@@ -1,5 +1,5 @@
 ---
 title: "Co-op Food"
 url: /coventry/co-op-food-woodway-lane/
-shop: Lebensmittel
+shop: convenience
 ---

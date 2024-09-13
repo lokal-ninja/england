@@ -1,5 +1,5 @@
 ---
 title: "Grange Bakery"
 url: /grange-over-sands/grange-bakery/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AR Computer Repairs"
 url: /berkhamstead/ar-computer-repairs/
-shop: Computer
+shop: computer
 ---

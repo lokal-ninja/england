@@ -1,5 +1,5 @@
 ---
 title: "Spon Gate Motorcycles"
 url: /coventry/spon-gate-motorcycles/
-shop: Motorrad
+shop: motorcycle
 ---

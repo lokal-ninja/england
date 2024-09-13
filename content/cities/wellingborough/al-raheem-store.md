@@ -1,5 +1,5 @@
 ---
 title: "Al-Raheem Store"
 url: /wellingborough/al-raheem-store/
-shop: Lebensmittel
+shop: convenience
 ---

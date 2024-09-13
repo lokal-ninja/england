@@ -1,5 +1,5 @@
 ---
 title: "Sally Ann"
 url: /bristol/sally-ann/
-shop: Gebrauchtwaren
+shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /reading/lidl-basingstoke-road/
-shop: Supermarkt
+shop: supermarket
 ---

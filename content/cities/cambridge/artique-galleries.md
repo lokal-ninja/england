@@ -1,5 +1,5 @@
 ---
 title: "Artique Galleries"
 url: /cambridge/artique-galleries/
-shop: Kunst
+shop: art
 ---

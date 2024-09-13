@@ -1,5 +1,5 @@
 ---
 title: "Elya Catering"
 url: /doncaster/elya-catering/
-shop: Haushaltsartikel
+shop: houseware
 ---

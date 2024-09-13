@@ -1,5 +1,5 @@
 ---
 title: "Shaws Butchers"
 url: /warrington/shaws-butchers/
-shop: Metzgerei
+shop: butcher
 ---

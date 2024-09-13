@@ -1,5 +1,5 @@
 ---
 title: "Nailux"
 url: /stockport/nailux/
-shop: Kosmetik
+shop: beauty
 ---

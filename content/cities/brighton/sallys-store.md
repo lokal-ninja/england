@@ -1,5 +1,5 @@
 ---
 title: "Sally's Store"
 url: /brighton/sallys-store/
-shop: Lebensmittel
+shop: convenience
 ---

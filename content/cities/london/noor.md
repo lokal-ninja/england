@@ -1,5 +1,5 @@
 ---
 title: "Noor"
 url: /london/noor/
-shop: Supermarkt
+shop: supermarket
 ---

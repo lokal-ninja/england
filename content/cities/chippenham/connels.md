@@ -1,5 +1,5 @@
 ---
 title: "Connels"
 url: /chippenham/connels/
-shop: Immobilien
+shop: estate agent
 ---

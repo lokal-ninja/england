@@ -1,5 +1,5 @@
 ---
 title: "Harleston Pet Stores"
 url: /harleston/harleston-pet-stores/
-shop: Tiere
+shop: pet
 ---

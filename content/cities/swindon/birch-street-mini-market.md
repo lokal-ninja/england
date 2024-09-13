@@ -1,5 +1,5 @@
 ---
 title: "Birch Street Mini Market"
 url: /swindon/birch-street-mini-market/
-shop: Lebensmittel
+shop: convenience
 ---

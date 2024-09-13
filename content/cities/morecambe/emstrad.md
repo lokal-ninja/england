@@ -1,5 +1,5 @@
 ---
 title: "Emstrad"
 url: /morecambe/emstrad/
-shop: Computer
+shop: computer
 ---

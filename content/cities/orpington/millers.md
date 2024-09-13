@@ -1,5 +1,5 @@
 ---
 title: "Millers"
 url: /orpington/millers/
-shop: Friseur
+shop: hairdresser
 ---

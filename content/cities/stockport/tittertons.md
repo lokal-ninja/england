@@ -1,5 +1,5 @@
 ---
 title: "Tittertons"
 url: /stockport/tittertons/
-shop: Allgemein
+shop: shop
 ---

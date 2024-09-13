@@ -1,5 +1,5 @@
 ---
 title: "Vanity"
 url: /studley/vanity/
-shop: Friseur
+shop: hairdresser
 ---

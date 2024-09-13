@@ -1,5 +1,5 @@
 ---
 title: "Harold Lilleker"
 url: /chesterfield/harold-lilleker/
-shop: Bestattungen
+shop: funeral directors
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Eyes On Soho"
 url: /london/eyes-on-soho/
-shop: Optiker
+shop: optician
 ---

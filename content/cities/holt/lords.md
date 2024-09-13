@@ -1,5 +1,5 @@
 ---
 title: "Lords"
 url: /holt/lords/
-shop: Optiker
+shop: optician
 ---

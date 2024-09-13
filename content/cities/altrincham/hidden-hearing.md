@@ -1,5 +1,5 @@
 ---
 title: "Hidden Hearing"
 url: /altrincham/hidden-hearing/
-shop: Hörgeräte
+shop: hearing aids
 ---

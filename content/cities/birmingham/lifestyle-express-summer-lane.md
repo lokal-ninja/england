@@ -1,5 +1,5 @@
 ---
 title: "Lifestyle Express"
 url: /birmingham/lifestyle-express-summer-lane/
-shop: Lebensmittel
+shop: convenience
 ---

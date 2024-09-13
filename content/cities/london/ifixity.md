@@ -1,5 +1,5 @@
 ---
 title: "iFIXity"
 url: /london/ifixity/
-shop: Allgemein
+shop: shop
 ---

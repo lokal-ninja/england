@@ -1,5 +1,5 @@
 ---
 title: "Evapo"
 url: /birmingham/evapo/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

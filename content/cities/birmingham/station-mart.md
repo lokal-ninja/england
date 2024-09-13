@@ -1,5 +1,5 @@
 ---
 title: "Station Mart"
 url: /birmingham/station-mart/
-shop: Zeitungen
+shop: newsagent
 ---

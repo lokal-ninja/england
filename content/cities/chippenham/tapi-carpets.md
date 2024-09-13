@@ -1,5 +1,5 @@
 ---
 title: "Tapi Carpets"
 url: /chippenham/tapi-carpets/
-shop: Teppiche
+shop: carpet
 ---

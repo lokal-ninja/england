@@ -1,5 +1,5 @@
 ---
 title: "Tamil's"
 url: /faversham/tamils/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /frome/poundland/
-shop: Kramladen
+shop: variety store
 ---

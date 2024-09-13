@@ -1,5 +1,5 @@
 ---
 title: "Angel Beauty"
 url: /bishops-stortford/angel-beauty/
-shop: Kosmetik
+shop: beauty
 ---

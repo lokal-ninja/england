@@ -1,5 +1,5 @@
 ---
 title: "Sovereign Travel"
 url: /london/sovereign-travel/
-shop: Reisebüro
+shop: travel agency
 ---

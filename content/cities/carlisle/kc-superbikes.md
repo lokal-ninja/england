@@ -1,5 +1,5 @@
 ---
 title: "KC Superbikes"
 url: /carlisle/kc-superbikes/
-shop: Motorrad
+shop: motorcycle
 ---

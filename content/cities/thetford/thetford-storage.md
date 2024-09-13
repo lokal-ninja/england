@@ -1,5 +1,5 @@
 ---
 title: "Thetford Storage"
 url: /thetford/thetford-storage/
-shop: Mieten
+shop: storage rental
 ---

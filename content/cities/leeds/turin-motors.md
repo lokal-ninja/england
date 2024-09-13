@@ -1,5 +1,5 @@
 ---
 title: "Turin Motors"
 url: /leeds/turin-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

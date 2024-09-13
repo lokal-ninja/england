@@ -1,5 +1,5 @@
 ---
 title: "Malinka"
 url: /london/malinka/
-shop: Lebensmittel
+shop: convenience
 ---

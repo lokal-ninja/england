@@ -1,5 +1,5 @@
 ---
 title: "New Look"
 url: /kings-lynn/new-look/
-shop: Kleidung
+shop: clothes
 ---

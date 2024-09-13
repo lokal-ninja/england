@@ -1,5 +1,5 @@
 ---
 title: "Tenovus"
 url: /highcliffe/tenovus/
-shop: Gebrauchtwaren
+shop: charity
 ---

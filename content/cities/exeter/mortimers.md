@@ -1,5 +1,5 @@
 ---
 title: "Mortimers"
 url: /exeter/mortimers/
-shop: Schmuck
+shop: jewelry
 ---

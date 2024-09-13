@@ -1,5 +1,5 @@
 ---
 title: "Barnardo's"
 url: /belvedere/barnardos/
-shop: Gebrauchtwaren
+shop: charity
 ---

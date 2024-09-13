@@ -1,5 +1,5 @@
 ---
 title: "Lakeland"
 url: /christchurch/lakeland/
-shop: Haushaltsartikel
+shop: houseware
 ---

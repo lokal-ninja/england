@@ -1,5 +1,5 @@
 ---
 title: "Abode"
 url: /brighton/abode/
-shop: Raumausstattung
+shop: interior decoration
 ---

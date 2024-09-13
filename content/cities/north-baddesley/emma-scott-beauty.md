@@ -1,5 +1,5 @@
 ---
 title: "Emma Scott Beauty"
 url: /north-baddesley/emma-scott-beauty/
-shop: Kosmetik
+shop: beauty
 ---

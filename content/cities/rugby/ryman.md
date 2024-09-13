@@ -1,5 +1,5 @@
 ---
 title: "Ryman"
 url: /rugby/ryman/
-shop: Schreibwaren
+shop: office supplies
 ---

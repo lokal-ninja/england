@@ -1,5 +1,5 @@
 ---
 title: "Knights Drycleaners"
 url: /dorking/knights-drycleaners/
-shop: Wäscherei
+shop: laundry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Luna"
 url: /walkden/luna/
-shop: Autowerkstatt
+shop: car repair
 ---

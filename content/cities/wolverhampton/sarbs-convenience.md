@@ -1,5 +1,5 @@
 ---
 title: "Sarb's Convenience"
 url: /wolverhampton/sarbs-convenience/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Timpson"
 url: /bromley/timpson/
-shop: Wäscherei
+shop: laundry
 ---

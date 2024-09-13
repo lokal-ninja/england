@@ -1,5 +1,5 @@
 ---
 title: "Blackheath Bookshop"
 url: /london/blackheath-bookshop/
-shop: Bücher
+shop: books
 ---

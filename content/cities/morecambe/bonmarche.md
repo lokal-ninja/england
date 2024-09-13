@@ -1,5 +1,5 @@
 ---
 title: "Bonmarché"
 url: /morecambe/bonmarche/
-shop: Kleidung
+shop: clothes
 ---

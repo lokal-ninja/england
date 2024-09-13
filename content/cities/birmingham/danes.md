@@ -1,5 +1,5 @@
 ---
 title: "Danes"
 url: /birmingham/danes/
-shop: Immobilien
+shop: estate agent
 ---

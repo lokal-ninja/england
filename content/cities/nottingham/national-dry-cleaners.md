@@ -1,5 +1,5 @@
 ---
 title: "National Dry Cleaners"
 url: /nottingham/national-dry-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

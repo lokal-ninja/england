@@ -1,5 +1,5 @@
 ---
 title: "Green's Newsagents"
 url: /bishop-auckland/greens-newsagents/
-shop: Zeitungen
+shop: newsagent
 ---

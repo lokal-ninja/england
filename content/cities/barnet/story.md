@@ -1,5 +1,5 @@
 ---
 title: "Story"
 url: /barnet/story/
-shop: Kleidung
+shop: clothes
 ---

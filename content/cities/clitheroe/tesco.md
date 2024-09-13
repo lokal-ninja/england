@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /clitheroe/tesco/
-shop: Supermarkt
+shop: supermarket
 ---

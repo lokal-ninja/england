@@ -1,5 +1,5 @@
 ---
 title: "Baltic Pearl"
 url: /sheffield/baltic-pearl/
-shop: Lebensmittel
+shop: convenience
 ---

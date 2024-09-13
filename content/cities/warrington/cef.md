@@ -1,5 +1,5 @@
 ---
 title: "CEF"
 url: /warrington/cef/
-shop: Elektrisch
+shop: electrical
 ---

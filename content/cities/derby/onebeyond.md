@@ -1,5 +1,5 @@
 ---
 title: "OneBeyond"
 url: /derby/onebeyond/
-shop: Kramladen
+shop: variety store
 ---

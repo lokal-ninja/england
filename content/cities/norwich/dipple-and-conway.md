@@ -1,5 +1,5 @@
 ---
 title: "Dipple and Conway"
 url: /norwich/dipple-and-conway/
-shop: Optiker
+shop: optician
 ---

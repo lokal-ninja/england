@@ -1,5 +1,5 @@
 ---
 title: "Junkyard"
 url: /newcastle-upon-tyne/junkyard/
-shop: Friseur
+shop: hairdresser
 ---

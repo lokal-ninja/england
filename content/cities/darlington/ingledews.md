@@ -1,5 +1,5 @@
 ---
 title: "Ingledews"
 url: /darlington/ingledews/
-shop: Schmuck
+shop: jewelry
 ---

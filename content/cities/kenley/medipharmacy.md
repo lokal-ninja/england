@@ -1,5 +1,5 @@
 ---
 title: "Medipharmacy"
 url: /kenley/medipharmacy/
-shop: Drogerie
+shop: chemist
 ---

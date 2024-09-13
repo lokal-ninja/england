@@ -1,5 +1,5 @@
 ---
 title: "His Knibbs"
 url: /cheltenham/his-knibbs/
-shop: Friseur
+shop: hairdresser
 ---

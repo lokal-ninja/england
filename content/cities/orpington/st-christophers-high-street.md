@@ -1,5 +1,5 @@
 ---
 title: "St Christophers"
 url: /orpington/st-christophers-high-street/
-shop: Gebrauchtwaren
+shop: charity
 ---

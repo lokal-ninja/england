@@ -1,5 +1,5 @@
 ---
 title: "Supa Saver"
 url: /leeds/supa-saver/
-shop: Spirituosen
+shop: alcohol
 ---

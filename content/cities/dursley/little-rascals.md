@@ -1,5 +1,5 @@
 ---
 title: "Little Rascals"
 url: /dursley/little-rascals/
-shop: Kleidung
+shop: clothes
 ---

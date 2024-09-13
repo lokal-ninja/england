@@ -1,5 +1,5 @@
 ---
 title: "Discount Booze"
 url: /darlington/discount-booze/
-shop: Lebensmittel
+shop: convenience
 ---

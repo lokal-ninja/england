@@ -1,5 +1,5 @@
 ---
 title: "Poziomka"
 url: /london/poziomka/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lane's Garden Centre and Open Farm"
 url: /derby/lanes-garden-centre-and-open-farm/
-shop: Garten-Center
+shop: garden centre
 ---

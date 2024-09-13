@@ -1,5 +1,5 @@
 ---
 title: "Digital Phone Company"
 url: /beccles/digital-phone-company/
-shop: Handy
+shop: mobile phone
 ---

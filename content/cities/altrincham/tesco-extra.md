@@ -1,5 +1,5 @@
 ---
 title: "Tesco Extra"
 url: /altrincham/tesco-extra/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AB Tyres"
 url: /tipton/ab-tyres/
-shop: Autowerkstatt
+shop: car repair
 ---

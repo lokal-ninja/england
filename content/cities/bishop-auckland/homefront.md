@@ -1,5 +1,5 @@
 ---
 title: "Homefront"
 url: /bishop-auckland/homefront/
-shop: Raumausstattung
+shop: interior decoration
 ---

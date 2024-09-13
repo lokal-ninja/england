@@ -1,5 +1,5 @@
 ---
 title: "Crafthouse"
 url: /woodbridge/crafthouse/
-shop: Kunst
+shop: art
 ---

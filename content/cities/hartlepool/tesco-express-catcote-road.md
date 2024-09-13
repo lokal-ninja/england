@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /hartlepool/tesco-express-catcote-road/
-shop: Lebensmittel
+shop: convenience
 ---

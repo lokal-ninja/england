@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /rugby/tesco-express-hollowell-way/
-shop: Lebensmittel
+shop: convenience
 ---

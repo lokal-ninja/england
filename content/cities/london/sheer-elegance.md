@@ -1,5 +1,5 @@
 ---
 title: "Sheer Elegance"
 url: /london/sheer-elegance/
-shop: Friseur
+shop: hairdresser
 ---

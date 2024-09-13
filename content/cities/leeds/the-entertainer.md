@@ -1,5 +1,5 @@
 ---
 title: "The Entertainer"
 url: /leeds/the-entertainer/
-shop: Spielzeug
+shop: toys
 ---

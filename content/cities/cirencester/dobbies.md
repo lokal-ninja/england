@@ -1,5 +1,5 @@
 ---
 title: "Dobbies"
 url: /cirencester/dobbies/
-shop: Garten-Center
+shop: garden centre
 ---

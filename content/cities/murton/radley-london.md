@@ -1,5 +1,5 @@
 ---
 title: "Radley London"
 url: /murton/radley-london/
-shop: Modehaus
+shop: boutique
 ---

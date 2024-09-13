@@ -1,5 +1,5 @@
 ---
 title: "Biketrail"
 url: /barnstaple/biketrail/
-shop: Fahrrad
+shop: bicycle
 ---

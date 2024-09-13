@@ -1,5 +1,5 @@
 ---
 title: "The Wives Kitchen Health Foods"
 url: /richmond/the-wives-kitchen-health-foods/
-shop: Bioladen
+shop: health food
 ---

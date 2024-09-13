@@ -1,5 +1,5 @@
 ---
 title: "Lou Lou's Yarn"
 url: /grimsby/lou-lous-yarn/
-shop: Textil
+shop: fabric
 ---

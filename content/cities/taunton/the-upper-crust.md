@@ -1,5 +1,5 @@
 ---
 title: "The Upper Crust"
 url: /taunton/the-upper-crust/
-shop: Bäckerei
+shop: bakery
 ---

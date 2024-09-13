@@ -1,5 +1,5 @@
 ---
 title: "Polski Sklep"
 url: /morecambe/polski-sklep/
-shop: Lebensmittel
+shop: convenience
 ---

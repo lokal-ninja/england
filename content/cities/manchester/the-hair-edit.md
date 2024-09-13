@@ -1,5 +1,5 @@
 ---
 title: "The Hair Edit"
 url: /manchester/the-hair-edit/
-shop: Friseur
+shop: hairdresser
 ---

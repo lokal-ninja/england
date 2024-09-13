@@ -1,5 +1,5 @@
 ---
 title: "Strettles"
 url: /shiremoor/strettles/
-shop: Bestattungen
+shop: funeral directors
 ---

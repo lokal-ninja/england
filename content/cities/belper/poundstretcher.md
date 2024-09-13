@@ -1,5 +1,5 @@
 ---
 title: "Poundstretcher"
 url: /belper/poundstretcher/
-shop: Kramladen
+shop: variety store
 ---

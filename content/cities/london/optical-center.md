@@ -1,5 +1,5 @@
 ---
 title: "Optical Center"
 url: /london/optical-center/
-shop: Optiker
+shop: optician
 ---

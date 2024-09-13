@@ -1,5 +1,5 @@
 ---
 title: "Asda Express"
 url: /chesterfield/asda-express/
-shop: Lebensmittel
+shop: convenience
 ---

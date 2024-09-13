@@ -1,5 +1,5 @@
 ---
 title: "Budgens"
 url: /greenford/budgens/
-shop: Lebensmittel
+shop: convenience
 ---

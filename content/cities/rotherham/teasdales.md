@@ -1,5 +1,5 @@
 ---
 title: "Teasdales"
 url: /rotherham/teasdales/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Bridal Lounge"
 url: /ipswich/the-bridal-lounge/
-shop: Brautkleider
+shop: wedding gown
 ---

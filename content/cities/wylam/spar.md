@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /wylam/spar/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chestertons"
 url: /richmond/chestertons/
-shop: Immobilien
+shop: estate agent
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Petek Patisserie"
 url: /london/petek-patisserie/
-shop: Konditorei
+shop: pastry
 ---

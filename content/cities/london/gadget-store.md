@@ -1,5 +1,5 @@
 ---
 title: "Gadget Store"
 url: /london/gadget-store/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Miss Sweets"
 url: /upminster/miss-sweets/
-shop: Süßwaren
+shop: confectionery
 ---

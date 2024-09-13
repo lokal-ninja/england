@@ -1,5 +1,5 @@
 ---
 title: "Croxdale Citroen"
 url: /durham/croxdale-citroen/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Oliver Thomas Kitchens"
 url: /bolton/oliver-thomas-kitchens/
-shop: Küchen
+shop: kitchen
 ---

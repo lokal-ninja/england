@@ -1,5 +1,5 @@
 ---
 title: "Warhammer"
 url: /exeter/warhammer/
-shop: Spiele
+shop: games
 ---

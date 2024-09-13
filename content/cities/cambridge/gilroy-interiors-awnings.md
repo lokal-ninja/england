@@ -1,5 +1,5 @@
 ---
 title: "Gilroy Interiors Awnings"
 url: /cambridge/gilroy-interiors-awnings/
-shop: Allgemein
+shop: shop
 ---

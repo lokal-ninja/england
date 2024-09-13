@@ -1,5 +1,5 @@
 ---
 title: "Roman"
 url: /yate/roman/
-shop: Kleidung
+shop: clothes
 ---

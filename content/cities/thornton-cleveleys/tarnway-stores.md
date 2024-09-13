@@ -1,5 +1,5 @@
 ---
 title: "Tarnway Stores"
 url: /thornton-cleveleys/tarnway-stores/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fast Fit Tyres"
 url: /feltham/fast-fit-tyres/
-shop: Reifen
+shop: tyres
 ---

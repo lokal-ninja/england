@@ -1,5 +1,5 @@
 ---
 title: "Quiz"
 url: /northampton/quiz/
-shop: Kleidung
+shop: clothes
 ---

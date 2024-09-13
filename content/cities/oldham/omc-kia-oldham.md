@@ -1,5 +1,5 @@
 ---
 title: "OMC Kia Oldham"
 url: /oldham/omc-kia-oldham/
-shop: Autohaus
+shop: car
 ---

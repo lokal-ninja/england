@@ -1,5 +1,5 @@
 ---
 title: "OneBelow"
 url: /leeds/onebelow-seacroft-avenue/
-shop: Kramladen
+shop: variety store
 ---

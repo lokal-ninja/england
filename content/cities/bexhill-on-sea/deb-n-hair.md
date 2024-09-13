@@ -1,5 +1,5 @@
 ---
 title: "Deb N Hair"
 url: /bexhill-on-sea/deb-n-hair/
-shop: Friseur
+shop: hairdresser
 ---

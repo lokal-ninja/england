@@ -1,5 +1,5 @@
 ---
 title: "Barber on the Green"
 url: /st-neots/barber-on-the-green/
-shop: Friseur
+shop: hairdresser
 ---

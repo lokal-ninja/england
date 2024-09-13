@@ -1,5 +1,5 @@
 ---
 title: "TLT"
 url: /london/tlt/
-shop: Lebensmittel
+shop: convenience
 ---

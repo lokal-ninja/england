@@ -1,5 +1,5 @@
 ---
 title: "Melrose Funeral Services"
 url: /seaton-delaval/melrose-funeral-services/
-shop: Bestattungen
+shop: funeral directors
 ---

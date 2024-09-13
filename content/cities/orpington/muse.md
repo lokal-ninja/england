@@ -1,5 +1,5 @@
 ---
 title: "Muse"
 url: /orpington/muse/
-shop: Kleidung
+shop: clothes
 ---

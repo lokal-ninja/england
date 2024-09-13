@@ -1,5 +1,5 @@
 ---
 title: "Wardell"
 url: /darlington/wardell/
-shop: Autoteile
+shop: car parts
 ---

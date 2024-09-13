@@ -1,5 +1,5 @@
 ---
 title: "The Old Stables Delicatessen"
 url: /swanage/the-old-stables-delicatessen/
-shop: Feinkost
+shop: deli
 ---

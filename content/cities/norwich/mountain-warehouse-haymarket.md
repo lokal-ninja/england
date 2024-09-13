@@ -1,5 +1,5 @@
 ---
 title: "Mountain Warehouse"
 url: /norwich/mountain-warehouse-haymarket/
-shop: Outdoor
+shop: outdoor
 ---

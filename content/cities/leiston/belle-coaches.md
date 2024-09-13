@@ -1,5 +1,5 @@
 ---
 title: "Belle Coaches"
 url: /leiston/belle-coaches/
-shop: Reisebüro
+shop: travel agency
 ---

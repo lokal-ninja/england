@@ -1,5 +1,5 @@
 ---
 title: "Mother Earth"
 url: /london/mother-earth-albion-parade/
-shop: Bioladen
+shop: health food
 ---

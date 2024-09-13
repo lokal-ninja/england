@@ -1,5 +1,5 @@
 ---
 title: "Castaway Fishing Tackle"
 url: /banbury/castaway-fishing-tackle/
-shop: Angeln
+shop: fishing
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hawkins Blackwater"
 url: /blackwater/hawkins-blackwater/
-shop: Autohaus
+shop: car
 ---

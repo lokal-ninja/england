@@ -1,5 +1,5 @@
 ---
 title: "Denner Cashmere"
 url: /london/denner-cashmere/
-shop: Kleidung
+shop: clothes
 ---

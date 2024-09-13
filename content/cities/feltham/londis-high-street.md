@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /feltham/londis-high-street/
-shop: Lebensmittel
+shop: convenience
 ---

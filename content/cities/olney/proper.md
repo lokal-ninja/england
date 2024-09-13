@@ -1,5 +1,5 @@
 ---
 title: "Proper"
 url: /olney/proper/
-shop: Friseur
+shop: hairdresser
 ---

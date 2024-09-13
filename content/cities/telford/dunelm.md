@@ -1,5 +1,5 @@
 ---
 title: "Dunelm"
 url: /telford/dunelm/
-shop: Raumausstattung
+shop: interior decoration
 ---

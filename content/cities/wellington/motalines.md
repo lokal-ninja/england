@@ -1,5 +1,5 @@
 ---
 title: "Motalines"
 url: /wellington/motalines/
-shop: Baustoffe
+shop: trade
 ---

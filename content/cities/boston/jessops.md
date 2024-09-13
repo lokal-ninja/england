@@ -1,5 +1,5 @@
 ---
 title: "Jessops"
 url: /boston/jessops/
-shop: Bäckerei
+shop: bakery
 ---

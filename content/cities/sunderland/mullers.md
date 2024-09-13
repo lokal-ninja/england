@@ -1,5 +1,5 @@
 ---
 title: "Muller's"
 url: /sunderland/mullers/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wahaya"
 url: /london/wahaya/
-shop: Lebensmittel
+shop: convenience
 ---

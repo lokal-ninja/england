@@ -1,5 +1,5 @@
 ---
 title: "Nisa Local"
 url: /oldham/nisa-local/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hobs"
 url: /weymouth/hobs/
-shop: Friseur
+shop: hairdresser
 ---

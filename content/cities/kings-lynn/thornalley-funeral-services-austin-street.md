@@ -1,5 +1,5 @@
 ---
 title: "ThornAlley Funeral Services"
 url: /kings-lynn/thornalley-funeral-services-austin-street/
-shop: Bestattungen
+shop: funeral directors
 ---

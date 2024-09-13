@@ -1,5 +1,5 @@
 ---
 title: "Arctic Spas"
 url: /norwich/arctic-spas/
-shop: Allgemein
+shop: shop
 ---

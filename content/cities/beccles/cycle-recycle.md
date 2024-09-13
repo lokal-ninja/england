@@ -1,5 +1,5 @@
 ---
 title: "Cycle Recycle"
 url: /beccles/cycle-recycle/
-shop: Fahrrad
+shop: bicycle
 ---

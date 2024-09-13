@@ -1,5 +1,5 @@
 ---
 title: "Rapid Fit"
 url: /bristol/rapid-fit/
-shop: Autowerkstatt
+shop: car repair
 ---

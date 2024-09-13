@@ -1,5 +1,5 @@
 ---
 title: "iRepair"
 url: /eastbourne/irepair/
-shop: Handy
+shop: mobile phone
 ---

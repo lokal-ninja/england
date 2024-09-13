@@ -1,5 +1,5 @@
 ---
 title: "Newsmarket"
 url: /hartlepool/newsmarket/
-shop: Zeitungen
+shop: newsagent
 ---

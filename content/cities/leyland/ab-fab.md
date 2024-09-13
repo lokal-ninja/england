@@ -1,5 +1,5 @@
 ---
 title: "Ab Fab"
 url: /leyland/ab-fab/
-shop: Blumen
+shop: florist
 ---

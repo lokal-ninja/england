@@ -1,5 +1,5 @@
 ---
 title: "Transformations"
 url: /coventry/transformations/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gazelle"
 url: /bristol/gazelle/
-shop: Möbel
+shop: furniture
 ---

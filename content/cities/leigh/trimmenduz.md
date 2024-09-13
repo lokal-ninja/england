@@ -1,5 +1,5 @@
 ---
 title: "Trimmenduz"
 url: /leigh/trimmenduz/
-shop: Autowerkstatt
+shop: car repair
 ---

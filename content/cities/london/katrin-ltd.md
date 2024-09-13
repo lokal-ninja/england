@@ -1,5 +1,5 @@
 ---
 title: "Katrin Ltd"
 url: /london/katrin-ltd/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vapestop"
 url: /whitton/vapestop/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

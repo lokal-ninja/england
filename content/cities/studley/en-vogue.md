@@ -1,5 +1,5 @@
 ---
 title: "En Vogue"
 url: /studley/en-vogue/
-shop: Raumausstattung
+shop: interior decoration
 ---

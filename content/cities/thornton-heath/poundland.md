@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /thornton-heath/poundland/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wren Kitchens"
 url: /london/wren-kitchens-brocklebank-road/
-shop: Küchen
+shop: kitchen
 ---

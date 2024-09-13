@@ -1,5 +1,5 @@
 ---
 title: "Merityre Specialists"
 url: /frimley-green/merityre-specialists/
-shop: Autowerkstatt
+shop: car repair
 ---

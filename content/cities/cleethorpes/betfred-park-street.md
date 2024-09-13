@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /cleethorpes/betfred-park-street/
-shop: Wettbüro
+shop: bookmaker
 ---

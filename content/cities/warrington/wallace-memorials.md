@@ -1,5 +1,5 @@
 ---
 title: "Wallace Memorials"
 url: /warrington/wallace-memorials/
-shop: Bestattungen
+shop: funeral directors
 ---

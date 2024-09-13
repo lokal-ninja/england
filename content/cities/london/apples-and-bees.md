@@ -1,5 +1,5 @@
 ---
-title: "Apples and Bees"
+title: "Apples & Bees"
 url: /london/apples-and-bees/
-shop: Bioladen
+shop: health food
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carbon Accountants"
 url: /southampton/carbon-accountants/
-shop: Allgemein
+shop: shop
 ---

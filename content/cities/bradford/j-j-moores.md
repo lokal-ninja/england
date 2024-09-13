@@ -1,5 +1,5 @@
 ---
 title: "J J Moores"
 url: /bradford/j-j-moores/
-shop: Bäckerei
+shop: bakery
 ---

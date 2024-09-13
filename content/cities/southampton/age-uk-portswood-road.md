@@ -1,5 +1,5 @@
 ---
 title: "Age UK"
 url: /southampton/age-uk-portswood-road/
-shop: Gebrauchtwaren
+shop: charity
 ---

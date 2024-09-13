@@ -1,5 +1,5 @@
 ---
 title: "Menkind"
 url: /nottingham/menkind/
-shop: Andenken
+shop: gift
 ---

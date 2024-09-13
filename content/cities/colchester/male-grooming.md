@@ -1,5 +1,5 @@
 ---
 title: "Male Grooming"
 url: /colchester/male-grooming/
-shop: Friseur
+shop: hairdresser
 ---

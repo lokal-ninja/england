@@ -1,5 +1,5 @@
 ---
 title: "Clouds"
 url: /darlington/clouds/
-shop: Friseur
+shop: hairdresser
 ---

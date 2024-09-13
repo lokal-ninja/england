@@ -1,5 +1,5 @@
 ---
 title: "Rainfords Logs"
 url: /st-helens/rainfords-logs/
-shop: Garten-Center
+shop: garden centre
 ---

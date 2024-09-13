@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /colchester/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

@@ -1,5 +1,5 @@
 ---
 title: "JKS"
 url: /chard/jks/
-shop: Teppiche
+shop: carpet
 ---

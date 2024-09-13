@@ -1,5 +1,5 @@
 ---
 title: "Marie Curie"
 url: /burgess-hill/marie-curie/
-shop: Gebrauchtwaren
+shop: charity
 ---

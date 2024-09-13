@@ -1,5 +1,5 @@
 ---
 title: "HR"
 url: /newcastle-upon-tyne/hr/
-shop: Allgemein
+shop: shop
 ---

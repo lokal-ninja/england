@@ -1,5 +1,5 @@
 ---
 title: "Bookends"
 url: /keswick/bookends/
-shop: Bücher
+shop: books
 ---

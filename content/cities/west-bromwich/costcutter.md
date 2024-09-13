@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /west-bromwich/costcutter/
-shop: Lebensmittel
+shop: convenience
 ---

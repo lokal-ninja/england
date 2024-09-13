@@ -1,5 +1,5 @@
 ---
 title: "Fuel n Vape"
 url: /chorley/fuel-n-vape/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

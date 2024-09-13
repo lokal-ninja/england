@@ -1,5 +1,5 @@
 ---
 title: "Standby Self Storage"
 url: /horsham/standby-self-storage/
-shop: Mieten
+shop: storage rental
 ---

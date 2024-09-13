@@ -1,5 +1,5 @@
 ---
 title: "The Avenue"
 url: /worcester-park/the-avenue/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Corner Shop"
 url: /pudsey/the-corner-shop/
-shop: Lebensmittel
+shop: convenience
 ---

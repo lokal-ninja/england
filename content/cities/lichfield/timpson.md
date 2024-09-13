@@ -1,5 +1,5 @@
 ---
 title: "Timpson"
 url: /lichfield/timpson/
-shop: Schlüsseldienst
+shop: locksmith
 ---

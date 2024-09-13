@@ -1,5 +1,5 @@
 ---
 title: "Modern Barber"
 url: /weymouth/modern-barber/
-shop: Friseur
+shop: hairdresser
 ---

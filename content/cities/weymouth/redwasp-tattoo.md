@@ -1,5 +1,5 @@
 ---
 title: "Redwasp Tattoo"
 url: /weymouth/redwasp-tattoo/
-shop: Tattoo
+shop: tattoo
 ---

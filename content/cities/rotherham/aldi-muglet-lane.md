@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /rotherham/aldi-muglet-lane/
-shop: Supermarkt
+shop: supermarket
 ---

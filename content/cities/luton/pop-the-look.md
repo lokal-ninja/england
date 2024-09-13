@@ -1,5 +1,5 @@
 ---
 title: "Pop the Look"
 url: /luton/pop-the-look/
-shop: Allgemein
+shop: shop
 ---

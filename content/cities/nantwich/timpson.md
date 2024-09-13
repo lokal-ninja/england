@@ -1,5 +1,5 @@
 ---
 title: "Timpson"
 url: /nantwich/timpson/
-shop: Schuhe
+shop: shoes
 ---

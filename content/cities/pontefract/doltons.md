@@ -1,5 +1,5 @@
 ---
 title: "Doltons"
 url: /pontefract/doltons/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Prime Houseware"
 url: /london/prime-houseware/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /st-helens/tesco-express/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Galaxy Treasures"
 url: /fordingbridge/galaxy-treasures/
-shop: Sammler
+shop: collector
 ---

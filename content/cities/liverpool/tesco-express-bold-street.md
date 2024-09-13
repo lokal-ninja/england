@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /liverpool/tesco-express-bold-street/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Angels"
 url: /canterbury/angels/
-shop: Tattoo
+shop: tattoo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cirencester Carpet Centre"
 url: /cirencester/cirencester-carpet-centre/
-shop: Teppiche
+shop: carpet
 ---

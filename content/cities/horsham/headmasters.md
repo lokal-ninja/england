@@ -1,5 +1,5 @@
 ---
 title: "Headmasters"
 url: /horsham/headmasters/
-shop: Friseur
+shop: hairdresser
 ---

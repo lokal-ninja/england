@@ -1,5 +1,5 @@
 ---
 title: "Sandown Discount Store"
 url: /sandown/sandown-discount-store/
-shop: Kramladen
+shop: variety store
 ---

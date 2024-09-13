@@ -1,5 +1,5 @@
 ---
 title: "Coles"
 url: /uckfield/coles/
-shop: Kleidung
+shop: clothes
 ---

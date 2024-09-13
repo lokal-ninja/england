@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /swindon/tesco-express-millgrove-street/
-shop: Lebensmittel
+shop: convenience
 ---

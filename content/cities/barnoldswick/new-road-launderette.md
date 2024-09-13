@@ -1,5 +1,5 @@
 ---
 title: "New Road Launderette"
 url: /barnoldswick/new-road-launderette/
-shop: Wäscherei
+shop: laundry
 ---

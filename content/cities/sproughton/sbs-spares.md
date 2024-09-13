@@ -1,5 +1,5 @@
 ---
 title: "SBS Spares"
 url: /sproughton/sbs-spares/
-shop: Autoteile
+shop: car parts
 ---

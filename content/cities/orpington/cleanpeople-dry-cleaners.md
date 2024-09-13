@@ -1,5 +1,5 @@
 ---
 title: "Cleanpeople Dry Cleaners"
 url: /orpington/cleanpeople-dry-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

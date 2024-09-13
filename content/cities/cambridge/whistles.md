@@ -1,5 +1,5 @@
 ---
 title: "Whistles"
 url: /cambridge/whistles/
-shop: Kleidung
+shop: clothes
 ---

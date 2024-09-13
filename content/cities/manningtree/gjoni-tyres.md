@@ -1,5 +1,5 @@
 ---
 title: "Gjoni Tyres"
 url: /manningtree/gjoni-tyres/
-shop: Reifen
+shop: tyres
 ---

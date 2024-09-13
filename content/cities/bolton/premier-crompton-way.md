@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /bolton/premier-crompton-way/
-shop: Lebensmittel
+shop: convenience
 ---

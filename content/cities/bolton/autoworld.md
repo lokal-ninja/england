@@ -1,5 +1,5 @@
 ---
 title: "Autoworld"
 url: /bolton/autoworld/
-shop: Allgemein
+shop: shop
 ---

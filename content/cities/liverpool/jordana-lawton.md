@@ -1,5 +1,5 @@
 ---
 title: "Jordana Lawton"
 url: /liverpool/jordana-lawton/
-shop: Friseur
+shop: hairdresser
 ---

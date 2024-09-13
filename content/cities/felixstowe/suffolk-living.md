@@ -1,5 +1,5 @@
 ---
 title: "Suffolk Living"
 url: /felixstowe/suffolk-living/
-shop: Andenken
+shop: gift
 ---

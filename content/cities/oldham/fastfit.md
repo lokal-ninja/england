@@ -1,5 +1,5 @@
 ---
 title: "FastFit"
 url: /oldham/fastfit/
-shop: Autowerkstatt
+shop: car repair
 ---

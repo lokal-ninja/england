@@ -1,5 +1,5 @@
 ---
 title: "Terzetto"
 url: /st-albans/terzetto/
-shop: Fliesen
+shop: tiles
 ---

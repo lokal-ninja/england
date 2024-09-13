@@ -1,5 +1,5 @@
 ---
 title: "You're Wonderful"
 url: /evesham/youre-wonderful/
-shop: Kosmetik
+shop: beauty
 ---

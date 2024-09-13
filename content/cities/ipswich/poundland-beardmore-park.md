@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /ipswich/poundland-beardmore-park/
-shop: Kramladen
+shop: variety store
 ---

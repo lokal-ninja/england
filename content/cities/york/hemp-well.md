@@ -1,5 +1,5 @@
 ---
 title: "Hemp Well"
 url: /york/hemp-well/
-shop: Allgemein
+shop: shop
 ---

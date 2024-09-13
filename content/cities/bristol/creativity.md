@@ -1,5 +1,5 @@
 ---
 title: "Creativity"
 url: /bristol/creativity/
-shop: Basteln
+shop: craft
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Poundstretcher"
 url: /stoke/poundstretcher/
-shop: Kramladen
+shop: variety store
 ---

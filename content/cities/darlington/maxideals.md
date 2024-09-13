@@ -1,5 +1,5 @@
 ---
 title: "MaxiDeals"
 url: /darlington/maxideals/
-shop: Kramladen
+shop: variety store
 ---

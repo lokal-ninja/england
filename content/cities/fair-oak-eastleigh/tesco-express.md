@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /fair-oak-eastleigh/tesco-express/
-shop: Lebensmittel
+shop: convenience
 ---

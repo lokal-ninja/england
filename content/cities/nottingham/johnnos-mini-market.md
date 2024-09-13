@@ -1,5 +1,5 @@
 ---
 title: "Johnno's Mini Market"
 url: /nottingham/johnnos-mini-market/
-shop: Lebensmittel
+shop: convenience
 ---

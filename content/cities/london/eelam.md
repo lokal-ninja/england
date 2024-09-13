@@ -1,5 +1,5 @@
 ---
 title: "Eelam"
 url: /london/eelam/
-shop: Lebensmittel
+shop: convenience
 ---

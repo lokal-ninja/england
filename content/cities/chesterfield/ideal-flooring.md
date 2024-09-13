@@ -1,5 +1,5 @@
 ---
 title: "iDeal Flooring"
 url: /chesterfield/ideal-flooring/
-shop: Fußböden
+shop: flooring
 ---

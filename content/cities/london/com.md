@@ -1,5 +1,5 @@
 ---
 title: "COM"
 url: /london/com/
-shop: Zeitungen
+shop: newsagent
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Loco"
 url: /bromley/loco/
-shop: Lebensmittel
+shop: convenience
 ---

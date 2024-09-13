@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /oldham/aldi-ellen-street/
-shop: Supermarkt
+shop: supermarket
 ---

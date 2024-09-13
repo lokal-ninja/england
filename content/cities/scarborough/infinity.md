@@ -1,5 +1,5 @@
 ---
 title: "Infinity"
 url: /scarborough/infinity/
-shop: Andenken
+shop: gift
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Accelerate"
 url: /sheffield/accelerate/
-shop: Sport
+shop: sports
 ---

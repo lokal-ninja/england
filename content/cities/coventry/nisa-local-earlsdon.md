@@ -1,5 +1,5 @@
 ---
 title: "Nisa Local Earlsdon"
 url: /coventry/nisa-local-earlsdon/
-shop: Supermarkt
+shop: supermarket
 ---

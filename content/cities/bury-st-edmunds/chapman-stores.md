@@ -1,5 +1,5 @@
 ---
 title: "Chapman Stores"
 url: /bury-st-edmunds/chapman-stores/
-shop: Lebensmittel
+shop: convenience
 ---

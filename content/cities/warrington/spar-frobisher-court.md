@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /warrington/spar-frobisher-court/
-shop: Lebensmittel
+shop: convenience
 ---

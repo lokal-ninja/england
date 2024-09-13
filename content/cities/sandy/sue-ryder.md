@@ -1,5 +1,5 @@
 ---
 title: "Sue Ryder"
 url: /sandy/sue-ryder/
-shop: Gebrauchtwaren
+shop: charity
 ---

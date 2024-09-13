@@ -1,5 +1,5 @@
 ---
 title: "Regis Salons"
 url: /horsham/regis-salons/
-shop: Friseur
+shop: hairdresser
 ---

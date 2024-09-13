@@ -1,5 +1,5 @@
 ---
 title: "Poundstretcher"
 url: /kettering/poundstretcher/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nisa"
 url: /whitehaven/nisa/
-shop: Lebensmittel
+shop: convenience
 ---

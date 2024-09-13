@@ -1,5 +1,5 @@
 ---
 title: "Banoful"
 url: /oldham/banoful/
-shop: Süßwaren
+shop: confectionery
 ---

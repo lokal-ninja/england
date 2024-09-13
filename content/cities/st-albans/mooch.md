@@ -1,5 +1,5 @@
 ---
 title: "Mooch"
 url: /st-albans/mooch/
-shop: Schreibwaren
+shop: office supplies
 ---

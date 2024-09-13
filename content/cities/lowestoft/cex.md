@@ -1,5 +1,5 @@
 ---
 title: "CeX"
 url: /lowestoft/cex/
-shop: Elektronik
+shop: electronics
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mottingham Food and Wine"
 url: /london/mottingham-food-and-wine/
-shop: Lebensmittel
+shop: convenience
 ---

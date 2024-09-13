@@ -1,5 +1,5 @@
 ---
 title: "The Curated Store"
 url: /cheltenham/the-curated-store/
-shop: Andenken
+shop: gift
 ---

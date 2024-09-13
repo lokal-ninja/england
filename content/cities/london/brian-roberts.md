@@ -1,5 +1,5 @@
 ---
 title: "Brian Roberts"
 url: /london/brian-roberts/
-shop: Metzgerei
+shop: butcher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "David Deyong"
 url: /london/david-deyong/
-shop: Schmuck
+shop: jewelry
 ---

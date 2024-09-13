@@ -1,5 +1,5 @@
 ---
 title: "Bodyfix"
 url: /newcastle-upon-tyne/bodyfix/
-shop: Autowerkstatt
+shop: car repair
 ---

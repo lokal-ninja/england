@@ -1,5 +1,5 @@
 ---
 title: "Indespension"
 url: /ipswich/indespension/
-shop: Autoteile
+shop: car parts
 ---

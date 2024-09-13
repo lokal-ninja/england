@@ -1,5 +1,5 @@
 ---
 title: "Home Savers"
 url: /ilford/home-savers/
-shop: Haushaltsartikel
+shop: houseware
 ---

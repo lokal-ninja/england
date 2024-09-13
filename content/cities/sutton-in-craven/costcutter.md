@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /sutton-in-craven/costcutter/
-shop: Lebensmittel
+shop: convenience
 ---

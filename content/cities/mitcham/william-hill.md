@@ -1,5 +1,5 @@
 ---
 title: "William Hill"
 url: /mitcham/william-hill/
-shop: Wettbüro
+shop: bookmaker
 ---

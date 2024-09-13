@@ -1,5 +1,5 @@
 ---
 title: "Emma O’Malley"
 url: /midhurst/emma-omalley/
-shop: Friseur
+shop: hairdresser
 ---

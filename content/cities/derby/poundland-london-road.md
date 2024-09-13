@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /derby/poundland-london-road/
-shop: Kramladen
+shop: variety store
 ---

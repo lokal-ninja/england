@@ -1,5 +1,5 @@
 ---
 title: "PS Autoparts Ltd"
 url: /ashford/ps-autoparts-ltd/
-shop: Autoteile
+shop: car parts
 ---

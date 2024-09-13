@@ -1,5 +1,5 @@
 ---
 title: "Mercia Carpets"
 url: /kenilworth/mercia-carpets/
-shop: Teppiche
+shop: carpet
 ---

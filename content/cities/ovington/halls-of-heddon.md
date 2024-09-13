@@ -1,5 +1,5 @@
 ---
 title: "Halls of Heddon"
 url: /ovington/halls-of-heddon/
-shop: Garten-Center
+shop: garden centre
 ---

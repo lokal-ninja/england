@@ -1,5 +1,5 @@
 ---
 title: "Fopp"
 url: /cambridge/fopp/
-shop: Musik
+shop: music
 ---

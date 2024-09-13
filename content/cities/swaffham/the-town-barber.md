@@ -1,5 +1,5 @@
 ---
 title: "The Town Barber"
 url: /swaffham/the-town-barber/
-shop: Friseur
+shop: hairdresser
 ---

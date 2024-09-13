@@ -1,5 +1,5 @@
 ---
 title: "Asda Express"
 url: /uxbridge/asda-express-uxbridge-road/
-shop: Lebensmittel
+shop: convenience
 ---

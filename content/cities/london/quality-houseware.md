@@ -1,5 +1,5 @@
 ---
 title: "Quality Houseware"
 url: /london/quality-houseware/
-shop: Kramladen
+shop: variety store
 ---

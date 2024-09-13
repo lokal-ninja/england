@@ -1,5 +1,5 @@
 ---
 title: "BOB Wines"
 url: /london/bob-wines/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nikolas Bakery"
 url: /northampton/nikolas-bakery/
-shop: Bäckerei
+shop: bakery
 ---

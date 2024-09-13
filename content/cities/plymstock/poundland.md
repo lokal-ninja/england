@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /plymstock/poundland/
-shop: Kramladen
+shop: variety store
 ---

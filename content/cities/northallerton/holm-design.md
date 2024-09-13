@@ -1,5 +1,5 @@
 ---
 title: "Holm Design"
 url: /northallerton/holm-design/
-shop: Küchen
+shop: kitchen
 ---

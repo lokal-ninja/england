@@ -1,5 +1,5 @@
 ---
 title: "MetaLite"
 url: /walton-on-the-naze/metalite/
-shop: Allgemein
+shop: shop
 ---

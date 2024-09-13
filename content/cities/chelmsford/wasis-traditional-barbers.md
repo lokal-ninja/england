@@ -1,5 +1,5 @@
 ---
 title: "Wasi's Traditional Barbers"
 url: /chelmsford/wasis-traditional-barbers/
-shop: Friseur
+shop: hairdresser
 ---

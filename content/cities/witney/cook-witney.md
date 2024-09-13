@@ -1,5 +1,5 @@
 ---
 title: "Cook Witney"
 url: /witney/cook-witney/
-shop: Tiefkühl
+shop: frozen food
 ---

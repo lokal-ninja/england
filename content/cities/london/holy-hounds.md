@@ -1,5 +1,5 @@
 ---
 title: "Holy Hounds"
 url: /london/holy-hounds/
-shop: Tiersalon
+shop: pet grooming
 ---

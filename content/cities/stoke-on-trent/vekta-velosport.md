@@ -1,5 +1,5 @@
 ---
 title: "Vekta Velosport"
 url: /stoke-on-trent/vekta-velosport/
-shop: Fahrrad
+shop: bicycle
 ---

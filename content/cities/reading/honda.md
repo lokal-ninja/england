@@ -1,5 +1,5 @@
 ---
 title: "Honda"
 url: /reading/honda/
-shop: Autohaus
+shop: car
 ---

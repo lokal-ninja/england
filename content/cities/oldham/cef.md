@@ -1,5 +1,5 @@
 ---
 title: "CEF"
 url: /oldham/cef/
-shop: Elektrisch
+shop: electrical
 ---

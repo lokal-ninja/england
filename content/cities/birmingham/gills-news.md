@@ -1,5 +1,5 @@
 ---
 title: "Gills News"
 url: /birmingham/gills-news/
-shop: Lebensmittel
+shop: convenience
 ---

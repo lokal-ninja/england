@@ -1,5 +1,5 @@
 ---
 title: "claire's"
 url: /wellingborough/claires/
-shop: Modehaus
+shop: boutique
 ---

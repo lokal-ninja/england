@@ -1,5 +1,5 @@
 ---
 title: "Dinghams"
 url: /winchester/dinghams/
-shop: Küchen
+shop: kitchen
 ---

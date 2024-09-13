@@ -1,5 +1,5 @@
 ---
 title: "QD"
 url: /hunstanton/qd/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Giant"
 url: /sheffield/giant/
-shop: Fahrrad
+shop: bicycle
 ---

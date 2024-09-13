@@ -1,5 +1,5 @@
 ---
 title: "Associates"
 url: /plymouth/associates/
-shop: Friseur
+shop: hairdresser
 ---

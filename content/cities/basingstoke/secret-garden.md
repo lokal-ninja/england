@@ -1,5 +1,5 @@
 ---
 title: "Secret Garden"
 url: /basingstoke/secret-garden/
-shop: Schmuck
+shop: jewelry
 ---

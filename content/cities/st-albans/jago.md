@@ -1,5 +1,5 @@
 ---
 title: "Jago"
 url: /st-albans/jago/
-shop: Schmuck
+shop: jewelry
 ---

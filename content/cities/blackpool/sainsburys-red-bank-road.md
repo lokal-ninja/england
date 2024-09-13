@@ -1,5 +1,5 @@
 ---
 title: "Sainsbury's"
 url: /blackpool/sainsburys-red-bank-road/
-shop: Supermarkt
+shop: supermarket
 ---

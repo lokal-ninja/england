@@ -1,5 +1,5 @@
 ---
 title: "Christopher James"
 url: /liverpool/christopher-james/
-shop: Schmuck
+shop: jewelry
 ---

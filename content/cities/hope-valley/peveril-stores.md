@@ -1,5 +1,5 @@
 ---
 title: "Peveril Stores"
 url: /hope-valley/peveril-stores/
-shop: Zeitungen
+shop: newsagent
 ---

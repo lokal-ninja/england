@@ -1,5 +1,5 @@
 ---
 title: "Flintoft Ironmongers"
 url: /pickering/flintoft-ironmongers/
-shop: Baumarkt
+shop: doityourself
 ---

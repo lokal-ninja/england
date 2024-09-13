@@ -1,5 +1,5 @@
 ---
 title: "Monica’s Bakes"
 url: /solihull/monicas-bakes/
-shop: Bäckerei
+shop: bakery
 ---

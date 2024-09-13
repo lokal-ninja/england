@@ -1,5 +1,5 @@
 ---
 title: "Marie Curie"
 url: /richmond/marie-curie/
-shop: Gebrauchtwaren
+shop: charity
 ---

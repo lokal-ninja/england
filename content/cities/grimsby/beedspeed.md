@@ -1,5 +1,5 @@
 ---
 title: "Beedspeed"
 url: /grimsby/beedspeed/
-shop: Motorrad
+shop: motorcycle
 ---

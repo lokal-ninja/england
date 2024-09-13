@@ -1,5 +1,5 @@
 ---
 title: "Southtown Premier Store"
 url: /great-yarmouth/southtown-premier-store/
-shop: Lebensmittel
+shop: convenience
 ---

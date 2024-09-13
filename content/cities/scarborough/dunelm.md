@@ -1,5 +1,5 @@
 ---
 title: "Dunelm"
 url: /scarborough/dunelm/
-shop: Raumausstattung
+shop: interior decoration
 ---

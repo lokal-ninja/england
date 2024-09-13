@@ -1,5 +1,5 @@
 ---
 title: "John's Club"
 url: /shanklin/johns-club/
-shop: Gebrauchtwaren
+shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hodgson Mazda"
 url: /wallsend/hodgson-mazda/
-shop: Autohaus
+shop: car
 ---

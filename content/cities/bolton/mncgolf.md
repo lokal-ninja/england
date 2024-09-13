@@ -1,5 +1,5 @@
 ---
 title: "MNCGolf"
 url: /bolton/mncgolf/
-shop: Sport
+shop: sports
 ---

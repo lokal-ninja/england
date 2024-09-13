@@ -1,5 +1,5 @@
 ---
 title: "Harwich Convenience Store"
 url: /harwich/harwich-convenience-store/
-shop: Lebensmittel
+shop: convenience
 ---

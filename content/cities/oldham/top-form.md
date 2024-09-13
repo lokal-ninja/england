@@ -1,5 +1,5 @@
 ---
 title: "Top Form"
 url: /oldham/top-form/
-shop: Kleidung
+shop: clothes
 ---

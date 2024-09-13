@@ -1,5 +1,5 @@
 ---
 title: "Morrisons Daily"
 url: /corby/morrisons-daily-rockingham-road/
-shop: Lebensmittel
+shop: convenience
 ---

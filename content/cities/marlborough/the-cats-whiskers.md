@@ -1,5 +1,5 @@
 ---
 title: "The Cats Whiskers"
 url: /marlborough/the-cats-whiskers/
-shop: Raumausstattung
+shop: interior decoration
 ---

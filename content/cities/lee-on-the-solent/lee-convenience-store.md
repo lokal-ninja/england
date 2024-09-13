@@ -1,5 +1,5 @@
 ---
 title: "Lee Convenience Store"
 url: /lee-on-the-solent/lee-convenience-store/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cape to Cairo"
 url: /derby/cape-to-cairo/
-shop: Lebensmittel
+shop: convenience
 ---

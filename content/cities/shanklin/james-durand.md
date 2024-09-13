@@ -1,5 +1,5 @@
 ---
 title: "James Durand"
 url: /shanklin/james-durand/
-shop: Friseur
+shop: hairdresser
 ---

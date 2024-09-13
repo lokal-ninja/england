@@ -1,5 +1,5 @@
 ---
 title: "PH Auto Repairs"
 url: /sutton-coldfield/ph-auto-repairs/
-shop: Autowerkstatt
+shop: car repair
 ---

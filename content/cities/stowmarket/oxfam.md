@@ -1,5 +1,5 @@
 ---
 title: "Oxfam"
 url: /stowmarket/oxfam/
-shop: Gebrauchtwaren
+shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /sandown/betfred/
-shop: Wettbüro
+shop: bookmaker
 ---

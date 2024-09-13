@@ -1,5 +1,5 @@
 ---
 title: "Beautiful Nails Cleethorpes"
 url: /cleethorpes/beautiful-nails-cleethorpes/
-shop: Kosmetik
+shop: beauty
 ---

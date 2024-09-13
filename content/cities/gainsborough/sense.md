@@ -1,5 +1,5 @@
 ---
 title: "Sense"
 url: /gainsborough/sense/
-shop: Gebrauchtwaren
+shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "HSB Plastic Centre"
 url: /slough/hsb-plastic-centre/
-shop: Glaserei
+shop: glaziery
 ---

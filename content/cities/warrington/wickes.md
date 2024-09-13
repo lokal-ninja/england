@@ -1,5 +1,5 @@
 ---
 title: "Wickes"
 url: /warrington/wickes/
-shop: Baumarkt
+shop: doityourself
 ---

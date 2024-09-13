@@ -1,5 +1,5 @@
 ---
 title: "Queen Victoria"
 url: /london/queen-victoria/
-shop: Lebensmittel
+shop: convenience
 ---

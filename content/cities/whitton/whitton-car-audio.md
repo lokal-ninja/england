@@ -1,5 +1,5 @@
 ---
 title: "Whitton Car Audio"
 url: /whitton/whitton-car-audio/
-shop: Hifi
+shop: hifi
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Boulbys"
 url: /wakefield/boulbys/
-shop: Bäckerei
+shop: bakery
 ---

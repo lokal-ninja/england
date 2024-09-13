@@ -1,5 +1,5 @@
 ---
 title: "Gill Convenience"
 url: /bristol/gill-convenience/
-shop: Lebensmittel
+shop: convenience
 ---

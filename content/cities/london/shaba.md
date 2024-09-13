@@ -1,5 +1,5 @@
 ---
 title: "Shaba"
 url: /london/shaba/
-shop: Fisch
+shop: seafood
 ---

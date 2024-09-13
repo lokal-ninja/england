@@ -1,5 +1,5 @@
 ---
 title: "Clacton Tool Hire"
 url: /clacton-on-sea/clacton-tool-hire/
-shop: Baumarkt
+shop: doityourself
 ---

@@ -1,5 +1,5 @@
 ---
 title: "EE"
 url: /bristol/ee-whiteladies-road/
-shop: Handy
+shop: mobile phone
 ---

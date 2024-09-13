@@ -1,5 +1,5 @@
 ---
 title: "Face"
 url: /southport/face/
-shop: Kosmetik
+shop: beauty
 ---

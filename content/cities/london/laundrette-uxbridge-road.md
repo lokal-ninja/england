@@ -1,5 +1,5 @@
 ---
 title: "Laundrette"
 url: /london/laundrette-uxbridge-road/
-shop: Wäscherei
+shop: laundry
 ---

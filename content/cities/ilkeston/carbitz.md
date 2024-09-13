@@ -1,5 +1,5 @@
 ---
 title: "Carbitz"
 url: /ilkeston/carbitz/
-shop: Autoteile
+shop: car parts
 ---

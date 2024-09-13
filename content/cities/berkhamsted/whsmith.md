@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /berkhamsted/whsmith/
-shop: Zeitungen
+shop: newsagent
 ---

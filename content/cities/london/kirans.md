@@ -1,5 +1,5 @@
 ---
 title: "Kiran's"
 url: /london/kirans/
-shop: Friseur
+shop: hairdresser
 ---

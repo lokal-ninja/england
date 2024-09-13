@@ -1,5 +1,5 @@
 ---
 title: "Applegreen"
 url: /boston/applegreen/
-shop: Lebensmittel
+shop: convenience
 ---

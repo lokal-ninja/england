@@ -1,5 +1,5 @@
 ---
 title: "Asda Living"
 url: /barnsley/asda-living/
-shop: Warenhaus
+shop: department store
 ---

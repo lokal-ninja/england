@@ -1,5 +1,5 @@
 ---
 title: "Dorringtons"
 url: /bishops-stortford/dorringtons/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Backstage LA"
 url: /london/backstage-la/
-shop: Friseur
+shop: hairdresser
 ---

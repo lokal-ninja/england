@@ -1,5 +1,5 @@
 ---
 title: "House of Tweed"
 url: /taunton/house-of-tweed/
-shop: Modehaus
+shop: boutique
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Amusement Caterers"
 url: /sheffield/amusement-caterers/
-shop: Allgemein
+shop: shop
 ---

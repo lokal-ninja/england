@@ -1,5 +1,5 @@
 ---
 title: "MINISO"
 url: /cambridge/miniso/
-shop: Andenken
+shop: gift
 ---

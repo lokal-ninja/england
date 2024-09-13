@@ -1,5 +1,5 @@
 ---
 title: "Galaxy Textiles Ltd"
 url: /london/galaxy-textiles-ltd/
-shop: Textil
+shop: fabric
 ---

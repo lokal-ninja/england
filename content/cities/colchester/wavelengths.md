@@ -1,5 +1,5 @@
 ---
 title: "Wavelengths"
 url: /colchester/wavelengths/
-shop: Friseur
+shop: hairdresser
 ---

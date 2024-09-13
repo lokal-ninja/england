@@ -1,5 +1,5 @@
 ---
 title: "Kiki Grocery Store"
 url: /canterbury/kiki-grocery-store/
-shop: Lebensmittel
+shop: convenience
 ---

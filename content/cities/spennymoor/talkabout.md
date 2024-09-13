@@ -1,5 +1,5 @@
 ---
 title: "Talkabout"
 url: /spennymoor/talkabout/
-shop: Handy
+shop: mobile phone
 ---

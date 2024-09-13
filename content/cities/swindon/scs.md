@@ -1,5 +1,5 @@
 ---
 title: "ScS"
 url: /swindon/scs/
-shop: Möbel
+shop: furniture
 ---

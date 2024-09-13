@@ -1,5 +1,5 @@
 ---
 title: "Kwik Fit"
 url: /croydon/kwik-fit-mitcham-road/
-shop: Autowerkstatt
+shop: car repair
 ---

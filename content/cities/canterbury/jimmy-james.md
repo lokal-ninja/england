@@ -1,5 +1,5 @@
 ---
 title: "Jimmy James"
 url: /canterbury/jimmy-james/
-shop: Friseur
+shop: hairdresser
 ---

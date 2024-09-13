@@ -1,5 +1,5 @@
 ---
 title: "Elise"
 url: /leamington-spa/elise/
-shop: Raumausstattung
+shop: interior decoration
 ---

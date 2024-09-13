@@ -1,5 +1,5 @@
 ---
 title: "RNLI Shop"
 url: /silloth/rnli-shop/
-shop: Gebrauchtwaren
+shop: charity
 ---

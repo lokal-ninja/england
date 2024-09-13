@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /great-yarmouth/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

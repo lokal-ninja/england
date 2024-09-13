@@ -1,5 +1,5 @@
 ---
 title: "A-Z Grocers"
 url: /london/a-z-grocers/
-shop: Lebensmittel
+shop: convenience
 ---

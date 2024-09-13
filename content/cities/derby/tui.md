@@ -1,5 +1,5 @@
 ---
 title: "TUI"
 url: /derby/tui/
-shop: Reisebüro
+shop: travel agency
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /croft/spar/
-shop: Lebensmittel
+shop: convenience
 ---

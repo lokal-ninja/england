@@ -1,5 +1,5 @@
 ---
 title: "Tesco Mobile"
 url: /pontefract/tesco-mobile/
-shop: Handy
+shop: mobile phone
 ---

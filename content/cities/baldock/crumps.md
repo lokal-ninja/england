@@ -1,5 +1,5 @@
 ---
 title: "Crumps"
 url: /baldock/crumps/
-shop: Metzgerei
+shop: butcher
 ---

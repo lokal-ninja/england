@@ -1,5 +1,5 @@
 ---
 title: "Parker Baits"
 url: /southampton/parker-baits/
-shop: Angeln
+shop: fishing
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Little Waitrose"
 url: /knutsford/little-waitrose/
-shop: Lebensmittel
+shop: convenience
 ---

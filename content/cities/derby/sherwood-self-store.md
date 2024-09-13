@@ -1,5 +1,5 @@
 ---
 title: "Sherwood Self Store"
 url: /derby/sherwood-self-store/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "California Nails"
 url: /bristol/california-nails/
-shop: Kosmetik
+shop: beauty
 ---

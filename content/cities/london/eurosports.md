@@ -1,5 +1,5 @@
 ---
 title: "Eurosports"
 url: /london/eurosports/
-shop: Sport
+shop: sports
 ---

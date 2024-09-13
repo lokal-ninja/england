@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /teddington/whsmith/
-shop: Bücher
+shop: books
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Revive"
 url: /grimsby/revive/
-shop: Friseur
+shop: hairdresser
 ---

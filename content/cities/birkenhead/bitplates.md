@@ -1,5 +1,5 @@
 ---
 title: "BitPLATES"
 url: /birkenhead/bitplates/
-shop: Allgemein
+shop: shop
 ---

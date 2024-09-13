@@ -1,5 +1,5 @@
 ---
 title: "Timpson"
 url: /beccles/timpson/
-shop: Schlüsseldienst
+shop: locksmith
 ---

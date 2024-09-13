@@ -1,5 +1,5 @@
 ---
 title: "Paddy Power"
 url: /london/paddy-power-sydenham-road/
-shop: Wettbüro
+shop: bookmaker
 ---

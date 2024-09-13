@@ -1,5 +1,5 @@
 ---
 title: "Cabot Motors Ltd"
 url: /bristol/cabot-motors-ltd/
-shop: Autowerkstatt
+shop: car repair
 ---

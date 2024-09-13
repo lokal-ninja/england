@@ -1,5 +1,5 @@
 ---
 title: "Superdrug"
 url: /leatherhead/superdrug/
-shop: Drogerie
+shop: chemist
 ---

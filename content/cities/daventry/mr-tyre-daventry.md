@@ -1,5 +1,5 @@
 ---
 title: "Mr Tyre Daventry"
 url: /daventry/mr-tyre-daventry/
-shop: Autowerkstatt
+shop: car repair
 ---

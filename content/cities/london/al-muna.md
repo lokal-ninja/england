@@ -1,5 +1,5 @@
 ---
 title: "Al-Muna"
 url: /london/al-muna/
-shop: Reisebüro
+shop: travel agency
 ---

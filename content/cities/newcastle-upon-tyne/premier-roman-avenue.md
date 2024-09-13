@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /newcastle-upon-tyne/premier-roman-avenue/
-shop: Lebensmittel
+shop: convenience
 ---

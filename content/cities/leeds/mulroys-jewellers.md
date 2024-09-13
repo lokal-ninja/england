@@ -1,5 +1,5 @@
 ---
 title: "Mulroys Jewellers"
 url: /leeds/mulroys-jewellers/
-shop: Schmuck
+shop: jewelry
 ---

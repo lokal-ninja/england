@@ -1,5 +1,5 @@
 ---
 title: "iMobile"
 url: /liverpool/imobile/
-shop: Handy
+shop: mobile phone
 ---

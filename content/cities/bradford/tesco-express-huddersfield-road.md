@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /bradford/tesco-express-huddersfield-road/
-shop: Supermarkt
+shop: supermarket
 ---

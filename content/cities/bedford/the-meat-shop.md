@@ -1,5 +1,5 @@
 ---
 title: "The Meat Shop"
 url: /bedford/the-meat-shop/
-shop: Metzgerei
+shop: butcher
 ---

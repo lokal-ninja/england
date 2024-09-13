@@ -1,5 +1,5 @@
 ---
 title: "Arden"
 url: /tunbridge-wells/arden/
-shop: Autohaus
+shop: car
 ---

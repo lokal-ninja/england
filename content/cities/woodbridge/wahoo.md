@@ -1,5 +1,5 @@
 ---
 title: "Wahoo"
 url: /woodbridge/wahoo/
-shop: Kleidung
+shop: clothes
 ---

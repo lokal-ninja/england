@@ -1,5 +1,5 @@
 ---
 title: "Angling Direct"
 url: /leeds/angling-direct/
-shop: Angeln
+shop: fishing
 ---

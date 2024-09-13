@@ -1,5 +1,5 @@
 ---
 title: "Putnoe Service Centre"
 url: /bedford/putnoe-service-centre/
-shop: Autowerkstatt
+shop: car repair
 ---

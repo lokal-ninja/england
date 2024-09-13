@@ -1,5 +1,5 @@
 ---
 title: "Crusader Travel"
 url: /twickenham/crusader-travel/
-shop: Reisebüro
+shop: travel agency
 ---

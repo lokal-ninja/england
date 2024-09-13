@@ -1,5 +1,5 @@
 ---
 title: "Steptoe's Yard"
 url: /pershore/steptoes-yard/
-shop: Haushaltsartikel
+shop: houseware
 ---

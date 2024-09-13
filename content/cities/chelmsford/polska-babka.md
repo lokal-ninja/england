@@ -1,5 +1,5 @@
 ---
 title: "Polska Babka"
 url: /chelmsford/polska-babka/
-shop: Lebensmittel
+shop: convenience
 ---

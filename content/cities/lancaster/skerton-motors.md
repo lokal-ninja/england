@@ -1,5 +1,5 @@
 ---
 title: "Skerton Motors"
 url: /lancaster/skerton-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

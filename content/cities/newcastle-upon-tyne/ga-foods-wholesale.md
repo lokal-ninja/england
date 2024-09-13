@@ -1,5 +1,5 @@
 ---
 title: "GA Foods Wholesale"
 url: /newcastle-upon-tyne/ga-foods-wholesale/
-shop: Großhandel
+shop: wholesale
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Brighouse Accident Repair Centre"
 url: /brighouse/brighouse-accident-repair-centre/
-shop: Autowerkstatt
+shop: car repair
 ---

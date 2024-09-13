@@ -1,5 +1,5 @@
 ---
 title: "Tyres"
 url: /felling/tyres/
-shop: Autowerkstatt
+shop: car repair
 ---

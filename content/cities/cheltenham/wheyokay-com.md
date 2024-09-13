@@ -1,5 +1,5 @@
 ---
 title: "Wheyokay.com"
 url: /cheltenham/wheyokay-com/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

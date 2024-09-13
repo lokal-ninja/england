@@ -1,5 +1,5 @@
 ---
 title: "Art"
 url: /leeds/art/
-shop: Andenken
+shop: gift
 ---

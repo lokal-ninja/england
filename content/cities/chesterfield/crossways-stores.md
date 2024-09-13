@@ -1,5 +1,5 @@
 ---
 title: "Crossways Stores"
 url: /chesterfield/crossways-stores/
-shop: Lebensmittel
+shop: convenience
 ---

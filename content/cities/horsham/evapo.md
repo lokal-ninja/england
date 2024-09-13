@@ -1,5 +1,5 @@
 ---
 title: "Evapo"
 url: /horsham/evapo/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gary Tuck Workshops"
 url: /south-shields/gary-tuck-workshops/
-shop: Autowerkstatt
+shop: car repair
 ---

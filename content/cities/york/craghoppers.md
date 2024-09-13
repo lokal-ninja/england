@@ -1,5 +1,5 @@
 ---
 title: "Craghoppers"
 url: /york/craghoppers/
-shop: Outdoor
+shop: outdoor
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Scope"
 url: /orpington/scope/
-shop: Gebrauchtwaren
+shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Morgans"
 url: /grimsby/morgans/
-shop: Friseur
+shop: hairdresser
 ---

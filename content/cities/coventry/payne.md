@@ -1,5 +1,5 @@
 ---
 title: "Payne"
 url: /coventry/payne/
-shop: Immobilien
+shop: estate agent
 ---

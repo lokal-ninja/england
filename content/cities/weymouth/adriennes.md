@@ -1,5 +1,5 @@
 ---
 title: "Adrienne's"
 url: /weymouth/adriennes/
-shop: Friseur
+shop: hairdresser
 ---

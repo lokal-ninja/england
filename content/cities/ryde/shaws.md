@@ -1,5 +1,5 @@
 ---
 title: "Shaws"
 url: /ryde/shaws/
-shop: Autowerkstatt
+shop: car repair
 ---

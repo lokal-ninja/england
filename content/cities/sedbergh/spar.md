@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /sedbergh/spar/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Figaro News"
 url: /london/figaro-news/
-shop: Lebensmittel
+shop: convenience
 ---

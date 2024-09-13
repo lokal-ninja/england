@@ -1,5 +1,5 @@
 ---
 title: "Moment In Time"
 url: /plymouth/moment-in-time/
-shop: Allgemein
+shop: shop
 ---

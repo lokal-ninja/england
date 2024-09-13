@@ -1,5 +1,5 @@
 ---
 title: "Mind"
 url: /diss/mind/
-shop: Gebrauchtwaren
+shop: charity
 ---

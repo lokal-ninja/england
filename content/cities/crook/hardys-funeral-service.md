@@ -1,5 +1,5 @@
 ---
 title: "Hardy's Funeral Service"
 url: /crook/hardys-funeral-service/
-shop: Bestattungen
+shop: funeral directors
 ---

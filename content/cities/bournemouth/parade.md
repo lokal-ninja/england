@@ -1,5 +1,5 @@
 ---
 title: "Parade"
 url: /bournemouth/parade/
-shop: Kleidung
+shop: clothes
 ---

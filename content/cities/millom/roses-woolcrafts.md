@@ -1,5 +1,5 @@
 ---
 title: "Rose's Woolcrafts"
 url: /millom/roses-woolcrafts/
-shop: Wolle
+shop: wool
 ---

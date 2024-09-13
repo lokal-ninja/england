@@ -1,5 +1,5 @@
 ---
 title: "Tim Potters"
 url: /wellington/tim-potters/
-shop: Metzgerei
+shop: butcher
 ---

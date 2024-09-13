@@ -1,5 +1,5 @@
 ---
 title: "Boots"
 url: /woking/boots/
-shop: Drogerie
+shop: chemist
 ---

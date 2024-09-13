@@ -1,5 +1,5 @@
 ---
 title: "Alberto's Antiques"
 url: /london/albertos-antiques/
-shop: Antiquitäten
+shop: antiques
 ---

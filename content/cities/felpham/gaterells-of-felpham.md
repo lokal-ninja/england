@@ -1,5 +1,5 @@
 ---
 title: "Gaterells Of Felpham"
 url: /felpham/gaterells-of-felpham/
-shop: Metzgerei
+shop: butcher
 ---

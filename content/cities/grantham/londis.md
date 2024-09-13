@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /grantham/londis/
-shop: Lebensmittel
+shop: convenience
 ---

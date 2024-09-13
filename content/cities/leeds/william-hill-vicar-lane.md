@@ -1,5 +1,5 @@
 ---
 title: "William Hill"
 url: /leeds/william-hill-vicar-lane/
-shop: Wettbüro
+shop: bookmaker
 ---

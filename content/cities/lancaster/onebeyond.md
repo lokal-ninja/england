@@ -1,5 +1,5 @@
 ---
 title: "OneBeyond"
 url: /lancaster/onebeyond/
-shop: Kramladen
+shop: variety store
 ---

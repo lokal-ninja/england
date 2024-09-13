@@ -1,5 +1,5 @@
 ---
 title: "Dexters Alterations"
 url: /prudhoe/dexters-alterations/
-shop: Schneiderei
+shop: tailor
 ---

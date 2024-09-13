@@ -1,5 +1,5 @@
 ---
 title: "Nicky Salon"
 url: /london/nicky-salon/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Vapers Shop"
 url: /east-grinstead/the-vapers-shop/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

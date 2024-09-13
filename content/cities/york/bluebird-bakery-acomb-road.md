@@ -1,5 +1,5 @@
 ---
 title: "Bluebird Bakery"
 url: /york/bluebird-bakery-acomb-road/
-shop: Bäckerei
+shop: bakery
 ---

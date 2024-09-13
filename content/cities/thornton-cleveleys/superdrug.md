@@ -1,5 +1,5 @@
 ---
 title: "Superdrug"
 url: /thornton-cleveleys/superdrug/
-shop: Drogerie
+shop: chemist
 ---

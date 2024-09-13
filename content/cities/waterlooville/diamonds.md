@@ -1,5 +1,5 @@
 ---
 title: "Diamonds"
 url: /waterlooville/diamonds/
-shop: Kosmetik
+shop: beauty
 ---

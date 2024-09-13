@@ -1,5 +1,5 @@
 ---
 title: "Ford Used Car Centre"
 url: /castleford/ford-used-car-centre/
-shop: Autohaus
+shop: car
 ---

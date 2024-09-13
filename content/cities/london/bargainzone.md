@@ -1,5 +1,5 @@
 ---
 title: "Bargainzone"
 url: /london/bargainzone/
-shop: Kramladen
+shop: variety store
 ---

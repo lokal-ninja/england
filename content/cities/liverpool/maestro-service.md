@@ -1,5 +1,5 @@
 ---
 title: "Maestro Service"
 url: /liverpool/maestro-service/
-shop: Autowerkstatt
+shop: car repair
 ---

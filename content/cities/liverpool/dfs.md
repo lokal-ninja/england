@@ -1,5 +1,5 @@
 ---
 title: "DFS"
 url: /liverpool/dfs/
-shop: Möbel
+shop: furniture
 ---

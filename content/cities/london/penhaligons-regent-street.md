@@ -1,5 +1,5 @@
 ---
 title: "Penhaligon’s"
 url: /london/penhaligons-regent-street/
-shop: Kosmetik
+shop: beauty
 ---

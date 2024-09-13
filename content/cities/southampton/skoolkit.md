@@ -1,5 +1,5 @@
 ---
 title: "Skoolkit"
 url: /southampton/skoolkit/
-shop: Kleidung
+shop: clothes
 ---

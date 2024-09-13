@@ -1,5 +1,5 @@
 ---
 title: "Tara Traders"
 url: /colchester/tara-traders/
-shop: Zeitungen
+shop: newsagent
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /peterborough/costcutter/
-shop: Lebensmittel
+shop: convenience
 ---

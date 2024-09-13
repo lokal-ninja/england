@@ -1,5 +1,5 @@
 ---
 title: "Nail Plaza"
 url: /twickenham/nail-plaza/
-shop: Kosmetik
+shop: beauty
 ---

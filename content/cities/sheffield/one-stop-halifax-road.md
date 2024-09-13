@@ -1,5 +1,5 @@
 ---
 title: "One Stop"
 url: /sheffield/one-stop-halifax-road/
-shop: Lebensmittel
+shop: convenience
 ---

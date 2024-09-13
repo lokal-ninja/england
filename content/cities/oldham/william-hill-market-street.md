@@ -1,5 +1,5 @@
 ---
 title: "William Hill"
 url: /oldham/william-hill-market-street/
-shop: Wettbüro
+shop: bookmaker
 ---

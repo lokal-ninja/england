@@ -1,5 +1,5 @@
 ---
 title: "St Elizabeth's"
 url: /hoddesdon/st-elizabeths/
-shop: Gebrauchtwaren
+shop: charity
 ---

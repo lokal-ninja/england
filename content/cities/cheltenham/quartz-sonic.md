@@ -1,5 +1,5 @@
 ---
 title: "Quartz Sonic"
 url: /cheltenham/quartz-sonic/
-shop: Uhren
+shop: watches
 ---

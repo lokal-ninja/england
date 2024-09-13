@@ -1,5 +1,5 @@
 ---
 title: "Amplifon Inc"
 url: /norwich/amplifon-inc/
-shop: Hörgeräte
+shop: hearing aids
 ---

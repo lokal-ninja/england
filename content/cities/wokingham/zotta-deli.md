@@ -1,5 +1,5 @@
 ---
 title: "Zotta Deli"
 url: /wokingham/zotta-deli/
-shop: Feinkost
+shop: deli
 ---

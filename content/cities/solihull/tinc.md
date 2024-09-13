@@ -1,5 +1,5 @@
 ---
 title: "Tinc"
 url: /solihull/tinc/
-shop: Allgemein
+shop: shop
 ---

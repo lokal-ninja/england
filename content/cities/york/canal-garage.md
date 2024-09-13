@@ -1,5 +1,5 @@
 ---
 title: "Canal Garage"
 url: /york/canal-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

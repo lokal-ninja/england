@@ -1,5 +1,5 @@
 ---
 title: "Bestwood Convenience Store"
 url: /nottingham/bestwood-convenience-store/
-shop: Lebensmittel
+shop: convenience
 ---

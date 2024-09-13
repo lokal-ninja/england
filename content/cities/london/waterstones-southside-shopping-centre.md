@@ -1,5 +1,5 @@
 ---
 title: "Waterstones"
 url: /london/waterstones-southside-shopping-centre/
-shop: Bücher
+shop: books
 ---

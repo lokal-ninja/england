@@ -1,5 +1,5 @@
 ---
 title: "Headmasters"
 url: /esher/headmasters/
-shop: Friseur
+shop: hairdresser
 ---

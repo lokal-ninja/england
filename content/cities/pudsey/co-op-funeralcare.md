@@ -1,5 +1,5 @@
 ---
 title: "Co-Op Funeralcare"
 url: /pudsey/co-op-funeralcare/
-shop: Bestattungen
+shop: funeral directors
 ---

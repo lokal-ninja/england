@@ -1,5 +1,5 @@
 ---
 title: "Andrew Fletcher Eyecare"
 url: /bolton/andrew-fletcher-eyecare/
-shop: Optiker
+shop: optician
 ---

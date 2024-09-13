@@ -1,5 +1,5 @@
 ---
 title: "Hermione Harbutt"
 url: /bristol/hermione-harbutt/
-shop: Modehaus
+shop: boutique
 ---

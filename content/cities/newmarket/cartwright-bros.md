@@ -1,5 +1,5 @@
 ---
 title: "Cartwright Bros"
 url: /newmarket/cartwright-bros/
-shop: Elektrisch
+shop: electrical
 ---

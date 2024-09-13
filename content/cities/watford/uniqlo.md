@@ -1,5 +1,5 @@
 ---
 title: "Uniqlo"
 url: /watford/uniqlo/
-shop: Kleidung
+shop: clothes
 ---

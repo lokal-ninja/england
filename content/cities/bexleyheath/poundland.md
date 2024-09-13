@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /bexleyheath/poundland/
-shop: Kramladen
+shop: variety store
 ---

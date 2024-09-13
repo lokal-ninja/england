@@ -1,5 +1,5 @@
 ---
 title: "Sports Direct"
 url: /kettering/sports-direct/
-shop: Sport
+shop: sports
 ---

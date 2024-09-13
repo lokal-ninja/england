@@ -1,5 +1,5 @@
 ---
 title: "YourNewTyres"
 url: /st-helens/yournewtyres/
-shop: Autowerkstatt
+shop: car repair
 ---

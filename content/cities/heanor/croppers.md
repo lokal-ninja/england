@@ -1,5 +1,5 @@
 ---
 title: "Croppers"
 url: /heanor/croppers/
-shop: Friseur
+shop: hairdresser
 ---

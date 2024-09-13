@@ -1,5 +1,5 @@
 ---
 title: "iGame"
 url: /london/igame/
-shop: Videospiele
+shop: video games
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Trident Garages Ltd"
 url: /chertsey/trident-garages-ltd/
-shop: Autohaus
+shop: car
 ---

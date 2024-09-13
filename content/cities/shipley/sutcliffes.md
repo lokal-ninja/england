@@ -1,5 +1,5 @@
 ---
 title: "Sutcliffe's"
 url: /shipley/sutcliffes/
-shop: Metzgerei
+shop: butcher
 ---

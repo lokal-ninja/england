@@ -1,5 +1,5 @@
 ---
 title: "Garden of Eden"
 url: /thiefside/garden-of-eden/
-shop: Garten-Center
+shop: garden centre
 ---

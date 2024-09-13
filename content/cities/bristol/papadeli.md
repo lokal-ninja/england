@@ -1,5 +1,5 @@
 ---
 title: "Papadeli"
 url: /bristol/papadeli/
-shop: Feinkost
+shop: deli
 ---

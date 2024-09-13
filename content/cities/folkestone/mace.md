@@ -1,5 +1,5 @@
 ---
 title: "Mace"
 url: /folkestone/mace/
-shop: Lebensmittel
+shop: convenience
 ---

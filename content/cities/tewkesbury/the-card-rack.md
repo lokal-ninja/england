@@ -1,5 +1,5 @@
 ---
 title: "The Card Rack"
 url: /tewkesbury/the-card-rack/
-shop: Andenken
+shop: gift
 ---

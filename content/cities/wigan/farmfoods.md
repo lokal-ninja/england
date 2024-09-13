@@ -1,5 +1,5 @@
 ---
 title: "Farmfoods"
 url: /wigan/farmfoods/
-shop: Tiefkühl
+shop: frozen food
 ---

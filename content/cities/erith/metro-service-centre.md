@@ -1,5 +1,5 @@
 ---
 title: "Metro Service Centre"
 url: /erith/metro-service-centre/
-shop: Autowerkstatt
+shop: car repair
 ---

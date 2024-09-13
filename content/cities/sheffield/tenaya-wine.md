@@ -1,5 +1,5 @@
 ---
 title: "Tenaya Wine"
 url: /sheffield/tenaya-wine/
-shop: Wein
+shop: wine
 ---

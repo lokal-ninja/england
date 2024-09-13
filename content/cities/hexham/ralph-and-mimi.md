@@ -1,5 +1,5 @@
 ---
 title: "Ralph and Mimi"
 url: /hexham/ralph-and-mimi/
-shop: Kleidung
+shop: clothes
 ---

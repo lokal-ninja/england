@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /buxton/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

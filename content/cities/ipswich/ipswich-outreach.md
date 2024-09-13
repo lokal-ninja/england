@@ -1,5 +1,5 @@
 ---
 title: "Ipswich Outreach"
 url: /ipswich/ipswich-outreach/
-shop: Gebrauchtwaren
+shop: charity
 ---

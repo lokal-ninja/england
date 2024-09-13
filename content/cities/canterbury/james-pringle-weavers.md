@@ -1,5 +1,5 @@
 ---
 title: "James Pringle Weavers"
 url: /canterbury/james-pringle-weavers/
-shop: Kleidung
+shop: clothes
 ---

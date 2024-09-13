@@ -1,5 +1,5 @@
 ---
 title: "Nisa Local"
 url: /cheshunt/nisa-local/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Provisions"
 url: /london/provisions/
-shop: Feinkost
+shop: deli
 ---

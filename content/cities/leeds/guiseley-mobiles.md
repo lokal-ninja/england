@@ -1,5 +1,5 @@
 ---
 title: "Guiseley Mobiles"
 url: /leeds/guiseley-mobiles/
-shop: Handy
+shop: mobile phone
 ---

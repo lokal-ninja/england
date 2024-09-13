@@ -1,5 +1,5 @@
 ---
 title: "CTML Locksmiths"
 url: /manchester/ctml-locksmiths/
-shop: Schlüsseldienst
+shop: locksmith
 ---

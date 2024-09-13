@@ -1,5 +1,5 @@
 ---
 title: "Thrifty's"
 url: /st-helens/thriftys/
-shop: Lebensmittel
+shop: convenience
 ---

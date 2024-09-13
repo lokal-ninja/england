@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /foston/londis/
-shop: Lebensmittel
+shop: convenience
 ---

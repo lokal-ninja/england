@@ -1,5 +1,5 @@
 ---
 title: "Salon 5"
 url: /knottingley/salon-5/
-shop: Friseur
+shop: hairdresser
 ---

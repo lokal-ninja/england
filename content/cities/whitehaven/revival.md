@@ -1,5 +1,5 @@
 ---
 title: "Revival"
 url: /whitehaven/revival/
-shop: Friseur
+shop: hairdresser
 ---

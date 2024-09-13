@@ -1,5 +1,5 @@
 ---
 title: "Sawtry Mini Market"
 url: /huntingdon/sawtry-mini-market/
-shop: Lebensmittel
+shop: convenience
 ---

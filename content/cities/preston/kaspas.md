@@ -1,5 +1,5 @@
 ---
 title: "Kaspa's"
 url: /preston/kaspas/
-shop: Süßwaren
+shop: confectionery
 ---

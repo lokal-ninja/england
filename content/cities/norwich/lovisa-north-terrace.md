@@ -1,5 +1,5 @@
 ---
 title: "Lovisa"
 url: /norwich/lovisa-north-terrace/
-shop: Schmuck
+shop: jewelry
 ---

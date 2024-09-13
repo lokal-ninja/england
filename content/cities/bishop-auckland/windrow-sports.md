@@ -1,5 +1,5 @@
 ---
 title: "Windrow Sports"
 url: /bishop-auckland/windrow-sports/
-shop: Jagd
+shop: hunting
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Powercuts"
 url: /bridgwater/powercuts/
-shop: Friseur
+shop: hairdresser
 ---

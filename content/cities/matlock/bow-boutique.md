@@ -1,5 +1,5 @@
 ---
 title: "Bow Boutique"
 url: /matlock/bow-boutique/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /hemel-hempstead/tesco-express-barnacres-road/
-shop: Lebensmittel
+shop: convenience
 ---

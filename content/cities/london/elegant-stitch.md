@@ -1,5 +1,5 @@
 ---
 title: "Elegant Stitch"
 url: /london/elegant-stitch/
-shop: Schneiderei
+shop: tailor
 ---

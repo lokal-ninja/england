@@ -1,5 +1,5 @@
 ---
 title: "KV DESIGNS Bespoke Fitted Furniture"
 url: /leeds/kv-designs-bespoke-fitted-furniture/
-shop: Möbel
+shop: furniture
 ---

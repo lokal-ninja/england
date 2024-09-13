@@ -1,5 +1,5 @@
 ---
 title: "BC Flooring"
 url: /havant/bc-flooring/
-shop: Teppiche
+shop: carpet
 ---

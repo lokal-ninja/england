@@ -1,5 +1,5 @@
 ---
 title: "Bluebell Wood Florist"
 url: /tewkesbury/bluebell-wood-florist/
-shop: Blumen
+shop: florist
 ---

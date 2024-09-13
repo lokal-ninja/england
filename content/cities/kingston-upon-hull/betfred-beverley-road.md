@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /kingston-upon-hull/betfred-beverley-road/
-shop: Wettbüro
+shop: bookmaker
 ---

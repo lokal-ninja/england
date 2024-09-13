@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /doncaster/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

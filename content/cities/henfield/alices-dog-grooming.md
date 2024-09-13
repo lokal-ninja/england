@@ -1,5 +1,5 @@
 ---
 title: "Alice’s Dog Grooming"
 url: /henfield/alices-dog-grooming/
-shop: Tiersalon
+shop: pet grooming
 ---

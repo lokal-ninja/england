@@ -1,5 +1,5 @@
 ---
 title: "EE"
 url: /gosport/ee/
-shop: Handy
+shop: mobile phone
 ---

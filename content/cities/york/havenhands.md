@@ -1,5 +1,5 @@
 ---
 title: "Havenhands"
 url: /york/havenhands/
-shop: Bäckerei
+shop: bakery
 ---

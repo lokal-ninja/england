@@ -1,5 +1,5 @@
 ---
 title: "Shire Stores"
 url: /doncaster/shire-stores/
-shop: Lebensmittel
+shop: convenience
 ---

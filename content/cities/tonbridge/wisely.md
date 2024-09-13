@@ -1,5 +1,5 @@
 ---
 title: "Wisely"
 url: /tonbridge/wisely/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "FW Burrow"
 url: /silverdale/fw-burrow/
-shop: Metzgerei
+shop: butcher
 ---

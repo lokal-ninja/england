@@ -1,5 +1,5 @@
 ---
 title: "Rocc"
 url: /twickenham/rocc/
-shop: Kleidung
+shop: clothes
 ---

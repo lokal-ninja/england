@@ -1,5 +1,5 @@
 ---
 title: "Euro Mini Market"
 url: /melton-mowbray/euro-mini-market/
-shop: Lebensmittel
+shop: convenience
 ---

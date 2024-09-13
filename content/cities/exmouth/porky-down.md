@@ -1,5 +1,5 @@
 ---
 title: "Porky Down"
 url: /exmouth/porky-down/
-shop: Metzgerei
+shop: butcher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tinkletorium"
 url: /st-albans/tinkletorium/
-shop: Badezimmer
+shop: bathroom
 ---

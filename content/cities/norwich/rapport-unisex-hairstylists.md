@@ -1,5 +1,5 @@
 ---
 title: "Rapport Unisex Hairstylists"
 url: /norwich/rapport-unisex-hairstylists/
-shop: Friseur
+shop: hairdresser
 ---

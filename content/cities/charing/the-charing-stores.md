@@ -1,5 +1,5 @@
 ---
 title: "The Charing Stores"
 url: /charing/the-charing-stores/
-shop: Lebensmittel
+shop: convenience
 ---

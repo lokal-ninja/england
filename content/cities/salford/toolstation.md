@@ -1,5 +1,5 @@
 ---
 title: "Toolstation"
 url: /salford/toolstation/
-shop: Baumarkt
+shop: doityourself
 ---

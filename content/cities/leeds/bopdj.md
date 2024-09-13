@@ -1,5 +1,5 @@
 ---
 title: "BopDJ"
 url: /leeds/bopdj/
-shop: Hifi
+shop: hifi
 ---

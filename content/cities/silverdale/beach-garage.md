@@ -1,5 +1,5 @@
 ---
 title: "Beach Garage"
 url: /silverdale/beach-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

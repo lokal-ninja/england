@@ -1,5 +1,5 @@
 ---
 title: "Three."
 url: /broadstairs/three/
-shop: Handy
+shop: mobile phone
 ---

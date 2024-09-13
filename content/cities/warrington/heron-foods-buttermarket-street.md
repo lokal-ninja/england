@@ -1,5 +1,5 @@
 ---
 title: "Heron Foods"
 url: /warrington/heron-foods-buttermarket-street/
-shop: Supermarkt
+shop: supermarket
 ---

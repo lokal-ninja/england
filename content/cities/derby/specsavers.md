@@ -1,5 +1,5 @@
 ---
 title: "Specsavers"
 url: /derby/specsavers/
-shop: Hörgeräte
+shop: hearing aids
 ---

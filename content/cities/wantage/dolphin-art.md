@@ -1,5 +1,5 @@
 ---
 title: "Dolphin Art"
 url: /wantage/dolphin-art/
-shop: Basteln
+shop: craft
 ---

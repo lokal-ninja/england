@@ -1,5 +1,5 @@
 ---
 title: "LondonOrGone"
 url: /london/londonorgone/
-shop: Raumausstattung
+shop: interior decoration
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Travis Perkins"
 url: /truro/travis-perkins/
-shop: Baumarkt
+shop: doityourself
 ---

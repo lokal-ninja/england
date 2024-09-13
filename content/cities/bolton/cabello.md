@@ -1,5 +1,5 @@
 ---
 title: "Cabello"
 url: /bolton/cabello/
-shop: Friseur
+shop: hairdresser
 ---

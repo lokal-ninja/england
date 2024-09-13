@@ -1,5 +1,5 @@
 ---
 title: "Serhat"
 url: /sheffield/serhat/
-shop: Möbel
+shop: furniture
 ---

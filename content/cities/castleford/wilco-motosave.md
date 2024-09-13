@@ -1,5 +1,5 @@
 ---
 title: "Wilco Motosave"
 url: /castleford/wilco-motosave/
-shop: Autoteile
+shop: car parts
 ---

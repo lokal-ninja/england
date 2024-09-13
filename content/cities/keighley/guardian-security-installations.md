@@ -1,5 +1,5 @@
 ---
 title: "Guardian Security Installations"
 url: /keighley/guardian-security-installations/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Abbey Bridal"
 url: /selby/abbey-bridal/
-shop: Kleidung
+shop: clothes
 ---

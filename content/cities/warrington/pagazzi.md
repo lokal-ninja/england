@@ -1,5 +1,5 @@
 ---
 title: "Pagazzi"
 url: /warrington/pagazzi/
-shop: Lampen
+shop: lamps
 ---

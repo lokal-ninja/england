@@ -1,5 +1,5 @@
 ---
 title: "Lloyd"
 url: /york/lloyd/
-shop: Autohaus
+shop: car
 ---

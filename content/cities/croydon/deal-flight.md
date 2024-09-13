@@ -1,5 +1,5 @@
 ---
 title: "Deal Flight"
 url: /croydon/deal-flight/
-shop: Reisebüro
+shop: travel agency
 ---

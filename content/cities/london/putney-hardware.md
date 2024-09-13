@@ -1,5 +1,5 @@
 ---
 title: "Putney Hardware"
 url: /london/putney-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

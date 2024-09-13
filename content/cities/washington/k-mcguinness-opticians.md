@@ -1,5 +1,5 @@
 ---
 title: "K McGuinness Opticians"
 url: /washington/k-mcguinness-opticians/
-shop: Optiker
+shop: optician
 ---

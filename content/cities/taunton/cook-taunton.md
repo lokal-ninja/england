@@ -1,5 +1,5 @@
 ---
 title: "Cook Taunton"
 url: /taunton/cook-taunton/
-shop: Tiefkühl
+shop: frozen food
 ---

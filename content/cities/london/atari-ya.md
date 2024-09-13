@@ -1,5 +1,5 @@
 ---
 title: "Atari-Ya"
 url: /london/atari-ya/
-shop: Fisch
+shop: seafood
 ---

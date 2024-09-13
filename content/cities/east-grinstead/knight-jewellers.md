@@ -1,5 +1,5 @@
 ---
 title: "Knight Jewellers"
 url: /east-grinstead/knight-jewellers/
-shop: Schmuck
+shop: jewelry
 ---

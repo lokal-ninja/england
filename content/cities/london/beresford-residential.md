@@ -1,5 +1,5 @@
 ---
 title: "Beresford Residential"
 url: /london/beresford-residential/
-shop: Immobilien
+shop: estate agent
 ---

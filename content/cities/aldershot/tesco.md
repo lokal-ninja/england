@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /aldershot/tesco/
-shop: Supermarkt
+shop: supermarket
 ---

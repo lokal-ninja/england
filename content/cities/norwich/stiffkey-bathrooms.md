@@ -1,5 +1,5 @@
 ---
 title: "Stiffkey Bathrooms"
 url: /norwich/stiffkey-bathrooms/
-shop: Badezimmer
+shop: bathroom
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bullseye"
 url: /sheffield/bullseye/
-shop: Autoteile
+shop: car parts
 ---

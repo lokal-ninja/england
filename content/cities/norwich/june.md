@@ -1,5 +1,5 @@
 ---
 title: "June"
 url: /norwich/june/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Household Domestic Appliances"
 url: /london/household-domestic-appliances/
-shop: Haushaltsgeräte
+shop: appliance
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vigo Convenience Store"
 url: /chester-le-street/vigo-convenience-store/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Abbey Auto Services"
 url: /london/abbey-auto-services/
-shop: Autowerkstatt
+shop: car repair
 ---

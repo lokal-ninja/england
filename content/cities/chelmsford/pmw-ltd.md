@@ -1,5 +1,5 @@
 ---
 title: "PMW Ltd"
 url: /chelmsford/pmw-ltd/
-shop: Autowerkstatt
+shop: car repair
 ---

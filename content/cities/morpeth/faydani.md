@@ -1,5 +1,5 @@
 ---
 title: "Faydani"
 url: /morpeth/faydani/
-shop: Kosmetik
+shop: beauty
 ---

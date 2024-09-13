@@ -1,5 +1,5 @@
 ---
 title: "Clintons"
 url: /derby/clintons/
-shop: Andenken
+shop: gift
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dynasty Barbers"
 url: /portsmouth/dynasty-barbers/
-shop: Friseur
+shop: hairdresser
 ---

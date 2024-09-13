@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /lowestoft/savers/
-shop: Drogerie
+shop: chemist
 ---

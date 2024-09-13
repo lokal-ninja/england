@@ -1,5 +1,5 @@
 ---
 title: "Recycles"
 url: /swindon/recycles/
-shop: Fahrrad
+shop: bicycle
 ---

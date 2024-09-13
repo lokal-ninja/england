@@ -1,5 +1,5 @@
 ---
 title: "Uniquitous"
 url: /london/uniquitous-dunbridge-street/
-shop: Autowerkstatt
+shop: car repair
 ---

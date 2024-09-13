@@ -1,5 +1,5 @@
 ---
 title: "KAM Servicing"
 url: /nottingham/kam-servicing-north-sherwood-street/
-shop: Autowerkstatt
+shop: car repair
 ---

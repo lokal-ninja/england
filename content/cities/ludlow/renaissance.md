@@ -1,5 +1,5 @@
 ---
 title: "Renaissance"
 url: /ludlow/renaissance/
-shop: Gebrauchtwaren
+shop: charity
 ---

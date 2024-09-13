@@ -1,5 +1,5 @@
 ---
 title: "Woven and Woods"
 url: /richmond/woven-and-woods/
-shop: Teppiche
+shop: carpet
 ---

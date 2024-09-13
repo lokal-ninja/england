@@ -1,5 +1,5 @@
 ---
 title: "Toymaster"
 url: /ryde/toymaster/
-shop: Spielzeug
+shop: toys
 ---

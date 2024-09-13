@@ -1,5 +1,5 @@
 ---
 title: "Growlers"
 url: /pudsey/growlers/
-shop: Metzgerei
+shop: butcher
 ---

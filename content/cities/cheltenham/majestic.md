@@ -1,5 +1,5 @@
 ---
 title: "Majestic"
 url: /cheltenham/majestic/
-shop: Spirituosen
+shop: alcohol
 ---

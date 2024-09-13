@@ -1,5 +1,5 @@
 ---
 title: "Mason's Local"
 url: /birmingham/masons-local/
-shop: Lebensmittel
+shop: convenience
 ---

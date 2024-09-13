@@ -1,5 +1,5 @@
 ---
 title: "Good News"
 url: /milton-keynes/good-news/
-shop: Zeitungen
+shop: newsagent
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Julie's Nails"
 url: /leamington-spa/julies-nails/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Invictis Barbers"
 url: /colchester/invictis-barbers/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gledhill's Hardware"
 url: /wembley/gledhills-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

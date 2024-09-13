@@ -1,5 +1,5 @@
 ---
 title: "Sofology"
 url: /norwich/sofology/
-shop: Möbel
+shop: furniture
 ---

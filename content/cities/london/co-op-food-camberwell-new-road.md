@@ -1,5 +1,5 @@
 ---
 title: "Co-op Food"
 url: /london/co-op-food-camberwell-new-road/
-shop: Supermarkt
+shop: supermarket
 ---

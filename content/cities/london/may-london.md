@@ -1,5 +1,5 @@
 ---
 title: "May London"
 url: /london/may-london/
-shop: Kleidung
+shop: clothes
 ---

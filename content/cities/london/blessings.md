@@ -1,5 +1,5 @@
 ---
 title: "Blessings"
 url: /london/blessings/
-shop: Metzgerei
+shop: butcher
 ---

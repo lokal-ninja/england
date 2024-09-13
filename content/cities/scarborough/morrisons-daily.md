@@ -1,5 +1,5 @@
 ---
 title: "Morrisons Daily"
 url: /scarborough/morrisons-daily/
-shop: Lebensmittel
+shop: convenience
 ---

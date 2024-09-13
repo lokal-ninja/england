@@ -1,5 +1,5 @@
 ---
 title: "Utilita Energy Hub"
 url: /derby/utilita-energy-hub/
-shop: Handy
+shop: mobile phone
 ---

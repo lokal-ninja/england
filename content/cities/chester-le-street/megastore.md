@@ -1,5 +1,5 @@
 ---
 title: "Megastore"
 url: /chester-le-street/megastore/
-shop: Lebensmittel
+shop: convenience
 ---

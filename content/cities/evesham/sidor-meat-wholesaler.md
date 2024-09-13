@@ -1,5 +1,5 @@
 ---
 title: "Sidor Meat Wholesaler"
 url: /evesham/sidor-meat-wholesaler/
-shop: Metzgerei
+shop: butcher
 ---

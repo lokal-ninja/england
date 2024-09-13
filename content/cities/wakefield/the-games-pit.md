@@ -1,5 +1,5 @@
 ---
 title: "The Games Pit"
 url: /wakefield/the-games-pit/
-shop: Spielzeug
+shop: toys
 ---

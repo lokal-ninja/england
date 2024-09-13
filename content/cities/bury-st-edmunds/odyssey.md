@@ -1,5 +1,5 @@
 ---
 title: "Odyssey"
 url: /bury-st-edmunds/odyssey/
-shop: Kleidung
+shop: clothes
 ---

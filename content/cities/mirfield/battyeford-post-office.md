@@ -1,5 +1,5 @@
 ---
 title: "Battyeford Post Office"
 url: /mirfield/battyeford-post-office/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rashvi"
 url: /london/rashvi/
-shop: Kosmetik
+shop: beauty
 ---

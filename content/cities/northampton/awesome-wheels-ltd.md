@@ -1,5 +1,5 @@
 ---
 title: "Awesome Wheels Ltd"
 url: /northampton/awesome-wheels-ltd/
-shop: Autowerkstatt
+shop: car repair
 ---

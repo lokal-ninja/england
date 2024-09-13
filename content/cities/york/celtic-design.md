@@ -1,5 +1,5 @@
 ---
 title: "Celtic Design"
 url: /york/celtic-design/
-shop: Schmuck
+shop: jewelry
 ---

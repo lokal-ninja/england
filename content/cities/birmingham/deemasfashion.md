@@ -1,5 +1,5 @@
 ---
 title: "deemasfashion"
 url: /birmingham/deemasfashion/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Humphrey's"
 url: /bishops-stortford/humphreys/
-shop: Metzgerei
+shop: butcher
 ---

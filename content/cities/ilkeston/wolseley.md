@@ -1,5 +1,5 @@
 ---
 title: "Wolseley"
 url: /ilkeston/wolseley/
-shop: Baustoffe
+shop: trade
 ---

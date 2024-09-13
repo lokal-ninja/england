@@ -1,5 +1,5 @@
 ---
 title: "Interior Transformation Studio UK"
 url: /banstead/interior-transformation-studio-uk/
-shop: Raumausstattung
+shop: interior decoration
 ---

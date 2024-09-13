@@ -1,5 +1,5 @@
 ---
 title: "OldBoy"
 url: /frome/oldboy/
-shop: Friseur
+shop: hairdresser
 ---

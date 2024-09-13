@@ -1,5 +1,5 @@
 ---
 title: "Joanne Christopher Hairdressing"
 url: /consett/joanne-christopher-hairdressing/
-shop: Friseur
+shop: hairdresser
 ---

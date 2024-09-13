@@ -1,5 +1,5 @@
 ---
 title: "Evans Halshaw Motorhouse"
 url: /gateshead/evans-halshaw-motorhouse/
-shop: Autohaus
+shop: car
 ---

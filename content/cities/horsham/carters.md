@@ -1,5 +1,5 @@
 ---
 title: "Carters"
 url: /horsham/carters/
-shop: Haushaltsgeräte
+shop: appliance
 ---

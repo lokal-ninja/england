@@ -1,5 +1,5 @@
 ---
 title: "Game"
 url: /preston/game/
-shop: Videospiele
+shop: video games
 ---

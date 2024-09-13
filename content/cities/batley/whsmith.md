@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /batley/whsmith/
-shop: Bücher
+shop: books
 ---

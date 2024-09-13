@@ -1,5 +1,5 @@
 ---
 title: "Ken's Motor Company"
 url: /nottingham/kens-motor-company/
-shop: Autowerkstatt
+shop: car repair
 ---

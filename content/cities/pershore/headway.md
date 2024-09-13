@@ -1,5 +1,5 @@
 ---
 title: "Headway"
 url: /pershore/headway/
-shop: Gebrauchtwaren
+shop: charity
 ---

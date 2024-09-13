@@ -1,5 +1,5 @@
 ---
 title: "Images"
 url: /rushden/images/
-shop: Kosmetik
+shop: beauty
 ---

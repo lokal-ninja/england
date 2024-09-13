@@ -1,5 +1,5 @@
 ---
 title: "Dolphin House"
 url: /twickenham/dolphin-house/
-shop: Kleidung
+shop: clothes
 ---

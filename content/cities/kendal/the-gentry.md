@@ -1,5 +1,5 @@
 ---
 title: "The Gentry"
 url: /kendal/the-gentry/
-shop: Friseur
+shop: hairdresser
 ---

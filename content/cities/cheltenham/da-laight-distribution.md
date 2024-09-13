@@ -1,5 +1,5 @@
 ---
 title: "DA Laight Distribution"
 url: /cheltenham/da-laight-distribution/
-shop: Baustoffe
+shop: trade
 ---

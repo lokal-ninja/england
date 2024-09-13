@@ -1,5 +1,5 @@
 ---
 title: "Cycle Stop"
 url: /london/cycle-stop/
-shop: Fahrrad
+shop: bicycle
 ---

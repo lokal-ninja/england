@@ -1,5 +1,5 @@
 ---
 title: "Ravi Food Stores"
 url: /manchester/ravi-food-stores/
-shop: Lebensmittel
+shop: convenience
 ---

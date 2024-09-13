@@ -1,5 +1,5 @@
 ---
 title: "Millennium"
 url: /london/millennium/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cycle Centre"
 url: /congleton/cycle-centre/
-shop: Fahrrad
+shop: bicycle
 ---

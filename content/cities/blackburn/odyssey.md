@@ -1,5 +1,5 @@
 ---
 title: "Odyssey"
 url: /blackburn/odyssey/
-shop: Friseur
+shop: hairdresser
 ---

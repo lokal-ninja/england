@@ -1,5 +1,5 @@
 ---
 title: "Roys"
 url: /sudbury/roys/
-shop: Warenhaus
+shop: department store
 ---

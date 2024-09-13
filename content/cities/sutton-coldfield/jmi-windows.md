@@ -1,5 +1,5 @@
 ---
 title: "JMI Windows"
 url: /sutton-coldfield/jmi-windows/
-shop: Allgemein
+shop: shop
 ---

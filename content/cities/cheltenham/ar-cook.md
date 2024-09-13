@@ -1,5 +1,5 @@
 ---
 title: "AR Cook"
 url: /cheltenham/ar-cook/
-shop: Autowerkstatt
+shop: car repair
 ---

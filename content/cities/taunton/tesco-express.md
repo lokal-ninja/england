@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /taunton/tesco-express/
-shop: Lebensmittel
+shop: convenience
 ---

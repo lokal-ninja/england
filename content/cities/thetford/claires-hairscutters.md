@@ -1,5 +1,5 @@
 ---
 title: "Claire's Hairscutters"
 url: /thetford/claires-hairscutters/
-shop: Friseur
+shop: hairdresser
 ---

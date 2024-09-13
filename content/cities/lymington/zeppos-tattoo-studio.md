@@ -1,5 +1,5 @@
 ---
 title: "Zeppos Tattoo Studio"
 url: /lymington/zeppos-tattoo-studio/
-shop: Tattoo
+shop: tattoo
 ---

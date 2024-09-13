@@ -1,5 +1,5 @@
 ---
 title: "Scrivens"
 url: /brandon/scrivens/
-shop: Optiker
+shop: optician
 ---

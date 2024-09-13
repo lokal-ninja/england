@@ -1,5 +1,5 @@
 ---
 title: "HiFi Vintage"
 url: /middlesbrough/hifi-vintage/
-shop: Hifi
+shop: hifi
 ---

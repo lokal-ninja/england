@@ -1,5 +1,5 @@
 ---
 title: "Motabitz"
 url: /ferndown/motabitz/
-shop: Autoteile
+shop: car parts
 ---

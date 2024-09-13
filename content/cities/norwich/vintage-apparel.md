@@ -1,5 +1,5 @@
 ---
 title: "Vintage Apparel"
 url: /norwich/vintage-apparel/
-shop: Kleidung
+shop: clothes
 ---

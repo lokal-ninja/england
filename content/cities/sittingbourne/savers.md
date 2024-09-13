@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /sittingbourne/savers/
-shop: Drogerie
+shop: chemist
 ---

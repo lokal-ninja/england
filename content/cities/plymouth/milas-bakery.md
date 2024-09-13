@@ -1,5 +1,5 @@
 ---
 title: "Mila's Bakery"
 url: /plymouth/milas-bakery/
-shop: Bäckerei
+shop: bakery
 ---

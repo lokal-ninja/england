@@ -1,5 +1,5 @@
 ---
 title: "Shuropody"
 url: /sutton/shuropody/
-shop: Schuhe
+shop: shoes
 ---

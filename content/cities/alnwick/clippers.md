@@ -1,5 +1,5 @@
 ---
 title: "Clippers"
 url: /alnwick/clippers/
-shop: Friseur
+shop: hairdresser
 ---

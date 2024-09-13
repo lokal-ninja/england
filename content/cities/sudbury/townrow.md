@@ -1,5 +1,5 @@
 ---
 title: "Townrow"
 url: /sudbury/townrow/
-shop: Warenhaus
+shop: department store
 ---

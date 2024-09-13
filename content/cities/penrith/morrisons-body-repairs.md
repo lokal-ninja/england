@@ -1,5 +1,5 @@
 ---
 title: "Morrisons Body Repairs"
 url: /penrith/morrisons-body-repairs/
-shop: Autowerkstatt
+shop: car repair
 ---

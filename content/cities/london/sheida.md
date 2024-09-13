@@ -1,5 +1,5 @@
 ---
 title: "Sheida"
 url: /london/sheida/
-shop: Schmuck
+shop: jewelry
 ---

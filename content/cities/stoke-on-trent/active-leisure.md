@@ -1,5 +1,5 @@
 ---
 title: "Active Leisure"
 url: /stoke-on-trent/active-leisure/
-shop: Allgemein
+shop: shop
 ---

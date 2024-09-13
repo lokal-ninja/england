@@ -1,5 +1,5 @@
 ---
 title: "Pogu"
 url: /staveley/pogu/
-shop: Outdoor
+shop: outdoor
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Anna"
 url: /ringwood/anna/
-shop: Kleidung
+shop: clothes
 ---

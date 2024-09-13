@@ -1,5 +1,5 @@
 ---
 title: "Lollypop Couture"
 url: /london/lollypop-couture/
-shop: Kleidung
+shop: clothes
 ---

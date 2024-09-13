@@ -1,5 +1,5 @@
 ---
 title: "Car Services (Grimsby)"
 url: /grimsby/car-services-grimsby/
-shop: Autowerkstatt
+shop: car repair
 ---

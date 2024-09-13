@@ -1,5 +1,5 @@
 ---
 title: "Ambassador Textiles"
 url: /oldham/ambassador-textiles/
-shop: Großhandel
+shop: wholesale
 ---

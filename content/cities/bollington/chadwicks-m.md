@@ -1,5 +1,5 @@
 ---
 title: "Chadwicks M"
 url: /bollington/chadwicks-m/
-shop: Zeitungen
+shop: newsagent
 ---

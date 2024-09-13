@@ -1,5 +1,5 @@
 ---
 title: "Andy's Salon"
 url: /london/andys-salon/
-shop: Kosmetik
+shop: beauty
 ---

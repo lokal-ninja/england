@@ -1,5 +1,5 @@
 ---
 title: "Nixon Ltd"
 url: /north-shields/nixon-ltd/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Alpine Garage"
 url: /blaydon-on-tyne/alpine-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

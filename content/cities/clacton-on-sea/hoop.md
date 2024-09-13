@@ -1,5 +1,5 @@
 ---
 title: "Hoop"
 url: /clacton-on-sea/hoop/
-shop: Friseur
+shop: hairdresser
 ---

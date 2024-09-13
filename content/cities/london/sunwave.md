@@ -1,5 +1,5 @@
 ---
 title: "Sunwave"
 url: /london/sunwave/
-shop: Zeitungen
+shop: newsagent
 ---

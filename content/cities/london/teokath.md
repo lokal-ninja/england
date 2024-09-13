@@ -1,5 +1,5 @@
 ---
 title: "Teokath"
 url: /london/teokath/
-shop: Kleidung
+shop: clothes
 ---

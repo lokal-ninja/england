@@ -1,5 +1,5 @@
 ---
 title: "Len's Barbers"
 url: /whitstable/lens-barbers/
-shop: Friseur
+shop: hairdresser
 ---

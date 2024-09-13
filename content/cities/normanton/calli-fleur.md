@@ -1,5 +1,5 @@
 ---
 title: "Calli-Fleur"
 url: /normanton/calli-fleur/
-shop: Blumen
+shop: florist
 ---

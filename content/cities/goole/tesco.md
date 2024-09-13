@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /goole/tesco/
-shop: Supermarkt
+shop: supermarket
 ---

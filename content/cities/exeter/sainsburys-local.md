@@ -1,5 +1,5 @@
 ---
 title: "Sainsbury's Local"
 url: /exeter/sainsburys-local/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PatientChoice"
 url: /wellington/patientchoice-westpark-2/
-shop: Baustoffe
+shop: trade
 ---

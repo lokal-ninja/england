@@ -1,5 +1,5 @@
 ---
 title: "Matalan"
 url: /milton-keynes/matalan/
-shop: Kleidung
+shop: clothes
 ---

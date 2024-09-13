@@ -1,5 +1,5 @@
 ---
 title: "Lisa Star"
 url: /knottingley/lisa-star/
-shop: Kosmetik
+shop: beauty
 ---

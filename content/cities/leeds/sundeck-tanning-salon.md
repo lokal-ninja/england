@@ -1,5 +1,5 @@
 ---
 title: "Sundeck Tanning Salon"
 url: /leeds/sundeck-tanning-salon/
-shop: Kosmetik
+shop: beauty
 ---

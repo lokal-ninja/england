@@ -1,5 +1,5 @@
 ---
 title: "Peacocks"
 url: /swadlincote/peacocks/
-shop: Kleidung
+shop: clothes
 ---

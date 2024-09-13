@@ -1,5 +1,5 @@
 ---
 title: "Quick Save"
 url: /blaby/quick-save/
-shop: Lebensmittel
+shop: convenience
 ---

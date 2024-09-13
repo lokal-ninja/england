@@ -1,5 +1,5 @@
 ---
 title: "Mace"
 url: /newport/mace/
-shop: Lebensmittel
+shop: convenience
 ---

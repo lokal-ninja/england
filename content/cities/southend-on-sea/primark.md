@@ -1,5 +1,5 @@
 ---
 title: "Primark"
 url: /southend-on-sea/primark/
-shop: Kleidung
+shop: clothes
 ---

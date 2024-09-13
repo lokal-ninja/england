@@ -1,5 +1,5 @@
 ---
 title: "Trafford Palazzo"
 url: /manchester/trafford-palazzo/
-shop: Einkaufszentrum
+shop: mall
 ---

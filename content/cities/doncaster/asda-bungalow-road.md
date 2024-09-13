@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /doncaster/asda-bungalow-road/
-shop: Supermarkt
+shop: supermarket
 ---

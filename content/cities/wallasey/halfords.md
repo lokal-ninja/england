@@ -1,5 +1,5 @@
 ---
 title: "Halfords"
 url: /wallasey/halfords/
-shop: Autoteile
+shop: car parts
 ---

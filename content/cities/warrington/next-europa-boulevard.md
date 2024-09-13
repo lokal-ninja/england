@@ -1,5 +1,5 @@
 ---
 title: "Next"
 url: /warrington/next-europa-boulevard/
-shop: Kleidung
+shop: clothes
 ---

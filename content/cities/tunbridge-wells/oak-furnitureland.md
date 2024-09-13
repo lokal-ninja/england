@@ -1,5 +1,5 @@
 ---
 title: "Oak Furnitureland"
 url: /tunbridge-wells/oak-furnitureland/
-shop: Möbel
+shop: furniture
 ---

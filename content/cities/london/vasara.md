@@ -1,5 +1,5 @@
 ---
 title: "Vasara"
 url: /london/vasara/
-shop: Feinkost
+shop: deli
 ---

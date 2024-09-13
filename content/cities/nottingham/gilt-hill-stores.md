@@ -1,5 +1,5 @@
 ---
 title: "Gilt Hill Stores"
 url: /nottingham/gilt-hill-stores/
-shop: Lebensmittel
+shop: convenience
 ---

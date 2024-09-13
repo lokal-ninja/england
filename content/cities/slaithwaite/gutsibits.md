@@ -1,5 +1,5 @@
 ---
 title: "Gutsibits"
 url: /slaithwaite/gutsibits/
-shop: Motorrad
+shop: motorcycle
 ---

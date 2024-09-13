@@ -1,5 +1,5 @@
 ---
 title: "Garner's Funeral Service"
 url: /worcester-park/garners-funeral-service/
-shop: Bestattungen
+shop: funeral directors
 ---

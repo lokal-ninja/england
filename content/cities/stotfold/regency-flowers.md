@@ -1,5 +1,5 @@
 ---
 title: "Regency Flowers"
 url: /stotfold/regency-flowers/
-shop: Blumen
+shop: florist
 ---

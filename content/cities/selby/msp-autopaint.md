@@ -1,5 +1,5 @@
 ---
 title: "MSP Autopaint"
 url: /selby/msp-autopaint/
-shop: Autowerkstatt
+shop: car repair
 ---

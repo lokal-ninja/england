@@ -1,5 +1,5 @@
 ---
 title: "Frithville Country Store"
 url: /boston/frithville-country-store/
-shop: Hofladen
+shop: farm
 ---

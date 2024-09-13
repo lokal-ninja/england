@@ -1,5 +1,5 @@
 ---
 title: "Core"
 url: /birmingham/core/
-shop: Lebensmittel
+shop: convenience
 ---

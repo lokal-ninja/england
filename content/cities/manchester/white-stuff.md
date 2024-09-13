@@ -1,5 +1,5 @@
 ---
 title: "White Stuff"
 url: /manchester/white-stuff/
-shop: Kleidung
+shop: clothes
 ---

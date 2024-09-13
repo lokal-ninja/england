@@ -1,5 +1,5 @@
 ---
 title: "Collectamania"
 url: /northallerton/collectamania/
-shop: Sammler
+shop: collector
 ---

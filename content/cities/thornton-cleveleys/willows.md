@@ -1,5 +1,5 @@
 ---
 title: "Willows"
 url: /thornton-cleveleys/willows/
-shop: Blumen
+shop: florist
 ---

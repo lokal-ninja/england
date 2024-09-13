@@ -1,5 +1,5 @@
 ---
 title: "Barbara Easton"
 url: /henley-on-thames/barbara-easton/
-shop: Schuhe
+shop: shoes
 ---

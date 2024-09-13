@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /london/premier-danebury-avenue/
-shop: Lebensmittel
+shop: convenience
 ---

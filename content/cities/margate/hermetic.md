@@ -1,5 +1,5 @@
 ---
 title: "Hermetic"
 url: /margate/hermetic/
-shop: Dorfladen
+shop: general
 ---

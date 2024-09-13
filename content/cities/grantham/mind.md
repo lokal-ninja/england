@@ -1,5 +1,5 @@
 ---
 title: "Mind"
 url: /grantham/mind/
-shop: Gebrauchtwaren
+shop: charity
 ---

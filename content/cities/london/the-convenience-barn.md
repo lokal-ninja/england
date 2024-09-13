@@ -1,5 +1,5 @@
 ---
 title: "The Convenience Barn"
 url: /london/the-convenience-barn/
-shop: Lebensmittel
+shop: convenience
 ---

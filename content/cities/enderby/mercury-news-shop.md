@@ -1,5 +1,5 @@
 ---
 title: "Mercury News Shop"
 url: /enderby/mercury-news-shop/
-shop: Zeitungen
+shop: newsagent
 ---

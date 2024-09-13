@@ -1,5 +1,5 @@
 ---
 title: "Amberden Estates"
 url: /london/amberden-estates/
-shop: Immobilien
+shop: estate agent
 ---

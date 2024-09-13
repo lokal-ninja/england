@@ -1,5 +1,5 @@
 ---
 title: "Sainsbury's Local"
 url: /corby/sainsburys-local/
-shop: Lebensmittel
+shop: convenience
 ---

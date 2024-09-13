@@ -1,5 +1,5 @@
 ---
 title: "Eden Hair Design"
 url: /kings-lynn/eden-hair-design/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Beaverbrooks"
 url: /huddersfield/beaverbrooks/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Arcane"
 url: /wolverhampton/arcane/
-shop: Spiele
+shop: games
 ---

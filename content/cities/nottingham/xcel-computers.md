@@ -1,5 +1,5 @@
 ---
 title: "Xcel Computers"
 url: /nottingham/xcel-computers/
-shop: Computer
+shop: computer
 ---

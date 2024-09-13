@@ -1,5 +1,5 @@
 ---
 title: "Greggs"
 url: /penrith/greggs/
-shop: Bäckerei
+shop: bakery
 ---

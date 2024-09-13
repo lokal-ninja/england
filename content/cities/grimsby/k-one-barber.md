@@ -1,5 +1,5 @@
 ---
 title: "K One Barber"
 url: /grimsby/k-one-barber/
-shop: Friseur
+shop: hairdresser
 ---

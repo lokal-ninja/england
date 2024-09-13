@@ -1,5 +1,5 @@
 ---
 title: "First Years"
 url: /rotherham/first-years/
-shop: Babysachen
+shop: baby goods
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hughes"
 url: /great-yarmouth/hughes/
-shop: Haushaltsgeräte
+shop: appliance
 ---

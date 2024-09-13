@@ -1,5 +1,5 @@
 ---
 title: "The Chapel Jewellers"
 url: /sheffield/the-chapel-jewellers/
-shop: Schmuck
+shop: jewelry
 ---

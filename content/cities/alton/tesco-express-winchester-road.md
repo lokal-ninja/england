@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /alton/tesco-express-winchester-road/
-shop: Supermarkt
+shop: supermarket
 ---

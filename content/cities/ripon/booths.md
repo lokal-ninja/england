@@ -1,5 +1,5 @@
 ---
 title: "Booths"
 url: /ripon/booths/
-shop: Supermarkt
+shop: supermarket
 ---

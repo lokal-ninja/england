@@ -1,5 +1,5 @@
 ---
 title: "Southern Mart"
 url: /kettering/southern-mart/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wolfvapes"
 url: /manchester/wolfvapes/
-shop: Großhandel
+shop: wholesale
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sofarooms"
 url: /exeter/sofarooms/
-shop: Möbel
+shop: furniture
 ---

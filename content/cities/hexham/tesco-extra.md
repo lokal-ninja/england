@@ -1,5 +1,5 @@
 ---
 title: "Tesco Extra"
 url: /hexham/tesco-extra/
-shop: Supermarkt
+shop: supermarket
 ---

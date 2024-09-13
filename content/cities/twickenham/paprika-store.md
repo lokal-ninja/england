@@ -1,5 +1,5 @@
 ---
 title: "Paprika Store"
 url: /twickenham/paprika-store/
-shop: Lebensmittel
+shop: convenience
 ---

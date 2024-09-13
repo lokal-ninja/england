@@ -1,5 +1,5 @@
 ---
 title: "Friary Gardens"
 url: /hastings/friary-gardens/
-shop: Garten-Center
+shop: garden centre
 ---

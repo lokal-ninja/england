@@ -1,5 +1,5 @@
 ---
 title: "Total Tints Wraps and Signs"
 url: /kettering/total-tints-wraps-and-signs/
-shop: Autowerkstatt
+shop: car repair
 ---

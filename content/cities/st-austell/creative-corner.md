@@ -1,5 +1,5 @@
 ---
 title: "Creative corner"
 url: /st-austell/creative-corner/
-shop: Kunst
+shop: art
 ---

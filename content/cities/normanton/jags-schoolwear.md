@@ -1,5 +1,5 @@
 ---
 title: "Jags Schoolwear"
 url: /normanton/jags-schoolwear/
-shop: Kleidung
+shop: clothes
 ---

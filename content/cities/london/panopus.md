@@ -1,5 +1,5 @@
 ---
 title: "Panopus"
 url: /london/panopus/
-shop: Schreibwaren
+shop: office supplies
 ---

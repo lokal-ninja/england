@@ -1,5 +1,5 @@
 ---
 title: "Ash Woods"
 url: /rotherham/ash-woods/
-shop: Möbel
+shop: furniture
 ---

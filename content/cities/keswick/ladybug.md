@@ -1,5 +1,5 @@
 ---
 title: "Ladybug"
 url: /keswick/ladybug/
-shop: Schmuck
+shop: jewelry
 ---

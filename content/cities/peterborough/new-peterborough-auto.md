@@ -1,5 +1,5 @@
 ---
 title: "New Peterborough Auto"
 url: /peterborough/new-peterborough-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

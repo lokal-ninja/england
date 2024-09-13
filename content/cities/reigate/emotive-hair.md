@@ -1,5 +1,5 @@
 ---
 title: "Emotive Hair"
 url: /reigate/emotive-hair/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Choice Foods"
 url: /dunstable/choice-foods/
-shop: Lebensmittel
+shop: convenience
 ---

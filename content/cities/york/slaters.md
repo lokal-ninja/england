@@ -1,5 +1,5 @@
 ---
 title: "Slaters"
 url: /york/slaters/
-shop: Kleidung
+shop: clothes
 ---

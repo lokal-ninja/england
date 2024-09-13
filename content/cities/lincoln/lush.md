@@ -1,5 +1,5 @@
 ---
 title: "Lush"
 url: /lincoln/lush/
-shop: Kosmetik
+shop: beauty
 ---

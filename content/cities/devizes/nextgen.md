@@ -1,5 +1,5 @@
 ---
 title: "NextGen"
 url: /devizes/nextgen/
-shop: Friseur
+shop: hairdresser
 ---

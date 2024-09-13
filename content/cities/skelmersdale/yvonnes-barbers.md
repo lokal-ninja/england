@@ -1,5 +1,5 @@
 ---
 title: "Yvonne's Barbers"
 url: /skelmersdale/yvonnes-barbers/
-shop: Friseur
+shop: hairdresser
 ---

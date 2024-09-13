@@ -1,5 +1,5 @@
 ---
 title: "EE"
 url: /andover/ee/
-shop: Lebensmittel
+shop: convenience
 ---

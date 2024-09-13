@@ -1,5 +1,5 @@
 ---
 title: "Greggs"
 url: /london/greggs-coombe-lane/
-shop: Bäckerei
+shop: bakery
 ---

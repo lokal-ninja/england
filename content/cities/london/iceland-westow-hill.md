@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /london/iceland-westow-hill/
-shop: Tiefkühl
+shop: frozen food
 ---

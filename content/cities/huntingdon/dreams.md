@@ -1,5 +1,5 @@
 ---
 title: "Dreams"
 url: /huntingdon/dreams/
-shop: Betten
+shop: bed
 ---

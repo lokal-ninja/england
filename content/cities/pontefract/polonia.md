@@ -1,5 +1,5 @@
 ---
 title: "Polonia"
 url: /pontefract/polonia/
-shop: Lebensmittel
+shop: convenience
 ---

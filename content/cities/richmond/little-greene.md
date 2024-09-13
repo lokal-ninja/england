@@ -1,5 +1,5 @@
 ---
 title: "Little Greene"
 url: /richmond/little-greene/
-shop: Raumausstattung
+shop: interior decoration
 ---

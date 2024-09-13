@@ -1,5 +1,5 @@
 ---
 title: "Robsons Stores"
 url: /shrewsbury/robsons-stores/
-shop: Lebensmittel
+shop: convenience
 ---

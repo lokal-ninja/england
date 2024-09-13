@@ -1,5 +1,5 @@
 ---
 title: "H.Samuel"
 url: /skipton/h-samuel/
-shop: Schmuck
+shop: jewelry
 ---

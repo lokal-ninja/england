@@ -1,5 +1,5 @@
 ---
 title: "Alnwick Industrial Supplies"
 url: /alnwick/alnwick-industrial-supplies/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Freeman Optician"
 url: /london/freeman-optician/
-shop: Optiker
+shop: optician
 ---

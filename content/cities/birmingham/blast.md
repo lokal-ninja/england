@@ -1,5 +1,5 @@
 ---
 title: "Blast"
 url: /birmingham/blast/
-shop: Kosmetik
+shop: beauty
 ---

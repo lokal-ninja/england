@@ -1,5 +1,5 @@
 ---
 title: "Rage Hair"
 url: /tewkesbury/rage-hair/
-shop: Friseur
+shop: hairdresser
 ---

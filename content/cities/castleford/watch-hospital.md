@@ -1,5 +1,5 @@
 ---
 title: "Watch Hospital"
 url: /castleford/watch-hospital/
-shop: Schmuck
+shop: jewelry
 ---

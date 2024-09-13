@@ -1,5 +1,5 @@
 ---
 title: "Amar News"
 url: /brighton/amar-news/
-shop: Lebensmittel
+shop: convenience
 ---

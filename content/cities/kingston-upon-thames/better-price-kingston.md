@@ -1,5 +1,5 @@
 ---
 title: "Better Price Kingston"
 url: /kingston-upon-thames/better-price-kingston/
-shop: Lebensmittel
+shop: convenience
 ---

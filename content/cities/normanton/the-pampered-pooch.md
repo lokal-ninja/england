@@ -1,5 +1,5 @@
 ---
 title: "The Pampered Pooch"
 url: /normanton/the-pampered-pooch/
-shop: Tiersalon
+shop: pet grooming
 ---

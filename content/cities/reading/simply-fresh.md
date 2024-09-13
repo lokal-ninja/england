@@ -1,5 +1,5 @@
 ---
 title: "Simply Fresh"
 url: /reading/simply-fresh/
-shop: Lebensmittel
+shop: convenience
 ---

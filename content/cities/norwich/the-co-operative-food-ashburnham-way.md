@@ -1,5 +1,5 @@
 ---
 title: "The Co-operative Food"
 url: /norwich/the-co-operative-food-ashburnham-way/
-shop: Supermarkt
+shop: supermarket
 ---

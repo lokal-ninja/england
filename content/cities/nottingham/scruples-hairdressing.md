@@ -1,5 +1,5 @@
 ---
 title: "Scruples Hairdressing"
 url: /nottingham/scruples-hairdressing/
-shop: Friseur
+shop: hairdresser
 ---

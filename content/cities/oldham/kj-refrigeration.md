@@ -1,5 +1,5 @@
 ---
 title: "KJ Refrigeration"
 url: /oldham/kj-refrigeration/
-shop: Haushaltsgeräte
+shop: appliance
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Amies"
 url: /fakenham/amies/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /london/poundland-saint-johns-hill/
-shop: Kramladen
+shop: variety store
 ---

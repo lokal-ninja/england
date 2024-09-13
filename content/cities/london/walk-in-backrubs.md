@@ -1,5 +1,5 @@
 ---
 title: "Walk-in backrubs"
 url: /london/walk-in-backrubs/
-shop: Massage
+shop: massage
 ---

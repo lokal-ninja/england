@@ -1,5 +1,5 @@
 ---
 title: "Today's Express"
 url: /london/todays-express-gipsy-road/
-shop: Lebensmittel
+shop: convenience
 ---

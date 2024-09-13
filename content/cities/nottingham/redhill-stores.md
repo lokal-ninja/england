@@ -1,5 +1,5 @@
 ---
 title: "Redhill Stores"
 url: /nottingham/redhill-stores/
-shop: Lebensmittel
+shop: convenience
 ---

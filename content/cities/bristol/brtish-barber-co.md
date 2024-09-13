@@ -1,5 +1,5 @@
 ---
 title: "Brtish Barber Co"
 url: /bristol/brtish-barber-co/
-shop: Friseur
+shop: hairdresser
 ---

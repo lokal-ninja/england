@@ -1,5 +1,5 @@
 ---
 title: "GemTravel"
 url: /crawley/gemtravel/
-shop: Reisebüro
+shop: travel agency
 ---

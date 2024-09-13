@@ -1,5 +1,5 @@
 ---
 title: "OB Stylists"
 url: /newcastle-upon-tyne/ob-stylists/
-shop: Friseur
+shop: hairdresser
 ---

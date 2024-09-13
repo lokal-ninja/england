@@ -1,5 +1,5 @@
 ---
 title: "Best One"
 url: /portsmouth/best-one/
-shop: Lebensmittel
+shop: convenience
 ---

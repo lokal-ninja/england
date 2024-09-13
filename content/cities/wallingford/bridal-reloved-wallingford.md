@@ -1,5 +1,5 @@
 ---
 title: "Bridal Reloved Wallingford"
 url: /wallingford/bridal-reloved-wallingford/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cuculo"
 url: /heathfield/cuculo/
-shop: Feinkost
+shop: deli
 ---

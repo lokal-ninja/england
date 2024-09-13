@@ -1,5 +1,5 @@
 ---
 title: "Park Stores"
 url: /cheltenham/park-stores/
-shop: Lebensmittel
+shop: convenience
 ---

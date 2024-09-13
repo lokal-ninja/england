@@ -1,5 +1,5 @@
 ---
 title: "GoLocalExtra"
 url: /upton/golocalextra/
-shop: Lebensmittel
+shop: convenience
 ---

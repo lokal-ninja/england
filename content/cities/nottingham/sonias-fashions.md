@@ -1,5 +1,5 @@
 ---
 title: "Sonia's Fashions"
 url: /nottingham/sonias-fashions/
-shop: Kleidung
+shop: clothes
 ---

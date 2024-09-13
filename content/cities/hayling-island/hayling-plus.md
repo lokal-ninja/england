@@ -1,5 +1,5 @@
 ---
 title: "Hayling Plus"
 url: /hayling-island/hayling-plus/
-shop: Lebensmittel
+shop: convenience
 ---

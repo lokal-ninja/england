@@ -1,5 +1,5 @@
 ---
 title: "Lady Penelope's"
 url: /canterbury/lady-penelopes/
-shop: Blumen
+shop: florist
 ---

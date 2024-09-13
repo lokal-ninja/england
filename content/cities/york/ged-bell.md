@@ -1,5 +1,5 @@
 ---
 title: "Ged Bell"
 url: /york/ged-bell/
-shop: Metzgerei
+shop: butcher
 ---

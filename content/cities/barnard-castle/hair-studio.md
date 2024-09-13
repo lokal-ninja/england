@@ -1,5 +1,5 @@
 ---
 title: "Hair Studio"
 url: /barnard-castle/hair-studio/
-shop: Friseur
+shop: hairdresser
 ---

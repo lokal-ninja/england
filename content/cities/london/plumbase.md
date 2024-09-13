@@ -1,5 +1,5 @@
 ---
 title: "Plumbase"
 url: /london/plumbase/
-shop: Allgemein
+shop: shop
 ---

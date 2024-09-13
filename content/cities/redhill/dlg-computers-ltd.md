@@ -1,5 +1,5 @@
 ---
 title: "DLG Computers Ltd"
 url: /redhill/dlg-computers-ltd/
-shop: Computer
+shop: computer
 ---

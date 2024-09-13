@@ -1,5 +1,5 @@
 ---
 title: "Budgens"
 url: /brough/budgens/
-shop: Lebensmittel
+shop: convenience
 ---

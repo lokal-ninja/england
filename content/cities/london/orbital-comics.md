@@ -1,5 +1,5 @@
 ---
 title: "Orbital Comics"
 url: /london/orbital-comics/
-shop: Bücher
+shop: books
 ---

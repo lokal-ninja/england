@@ -1,5 +1,5 @@
 ---
 title: "Pentagon Vauxhall"
 url: /sheffield/pentagon-vauxhall/
-shop: Autowerkstatt
+shop: car repair
 ---

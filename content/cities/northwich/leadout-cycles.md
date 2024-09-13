@@ -1,5 +1,5 @@
 ---
 title: "Leadout Cycles"
 url: /northwich/leadout-cycles/
-shop: Fahrrad
+shop: bicycle
 ---

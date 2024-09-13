@@ -1,5 +1,5 @@
 ---
 title: "Balch"
 url: /chelmsford/balch/
-shop: Immobilien
+shop: estate agent
 ---

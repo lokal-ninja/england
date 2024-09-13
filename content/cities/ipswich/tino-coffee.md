@@ -1,5 +1,5 @@
 ---
 title: "Tino Coffee"
 url: /ipswich/tino-coffee/
-shop: Kaffee
+shop: coffee
 ---

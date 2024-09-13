@@ -1,5 +1,5 @@
 ---
 title: "Silverprint"
 url: /london/silverprint/
-shop: Foto
+shop: photo
 ---

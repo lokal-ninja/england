@@ -1,5 +1,5 @@
 ---
 title: "tariq"
 url: /london/tariq/
-shop: Lebensmittel
+shop: convenience
 ---

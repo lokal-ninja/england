@@ -1,5 +1,5 @@
 ---
 title: "Chimes News Two"
 url: /london/chimes-news-two/
-shop: Zeitungen
+shop: newsagent
 ---

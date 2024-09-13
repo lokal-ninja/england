@@ -1,5 +1,5 @@
 ---
 title: "The Hambledon"
 url: /winchester/the-hambledon/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sophie Rose"
 url: /beaminster/sophie-rose/
-shop: Raumausstattung
+shop: interior decoration
 ---

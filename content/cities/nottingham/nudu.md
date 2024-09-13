@@ -1,5 +1,5 @@
 ---
 title: "Nudu"
 url: /nottingham/nudu/
-shop: Friseur
+shop: hairdresser
 ---

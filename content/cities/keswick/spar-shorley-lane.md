@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /keswick/spar-shorley-lane/
-shop: Supermarkt
+shop: supermarket
 ---

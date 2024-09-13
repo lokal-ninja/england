@@ -1,5 +1,5 @@
 ---
 title: "Penfolds Saddlery"
 url: /cuckfield/penfolds-saddlery/
-shop: Pferde
+shop: equestrian
 ---

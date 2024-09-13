@@ -1,5 +1,5 @@
 ---
 title: "Bird Holidays"
 url: /leeds/bird-holidays/
-shop: Reisebüro
+shop: travel agency
 ---

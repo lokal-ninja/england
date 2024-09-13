@@ -1,5 +1,5 @@
 ---
 title: "HSL"
 url: /taunton/hsl/
-shop: Möbel
+shop: furniture
 ---

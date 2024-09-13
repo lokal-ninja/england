@@ -1,5 +1,5 @@
 ---
 title: "VapeStore"
 url: /evesham/vapestore/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

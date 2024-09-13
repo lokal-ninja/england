@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /bury-st-edmunds/londis-tollgate-lane/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /jarrow/premier/
-shop: Lebensmittel
+shop: convenience
 ---

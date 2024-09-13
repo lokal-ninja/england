@@ -1,5 +1,5 @@
 ---
 title: "Snappy Snaps"
 url: /taunton/snappy-snaps/
-shop: Foto
+shop: photo
 ---

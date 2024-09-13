@@ -1,5 +1,5 @@
 ---
 title: "Smart Motorbikes"
 url: /london/smart-motorbikes/
-shop: Motorrad
+shop: motorcycle
 ---

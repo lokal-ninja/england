@@ -1,5 +1,5 @@
 ---
 title: "The Modfather"
 url: /southport/the-modfather/
-shop: Motorrad
+shop: motorcycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rotherham Computers"
 url: /rotherham/rotherham-computers/
-shop: Computer
+shop: computer
 ---

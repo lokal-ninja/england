@@ -1,5 +1,5 @@
 ---
 title: "Roys Rolls"
 url: /leeds/roys-rolls/
-shop: Friseur
+shop: hairdresser
 ---

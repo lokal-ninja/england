@@ -1,5 +1,5 @@
 ---
 title: "irepair"
 url: /leeds/irepair/
-shop: Handy
+shop: mobile phone
 ---

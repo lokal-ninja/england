@@ -1,5 +1,5 @@
 ---
 title: "North Norfolk Garden Machinery"
 url: /bodham/north-norfolk-garden-machinery/
-shop: Gartenmaschinen
+shop: garden machinery
 ---

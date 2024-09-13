@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /newcastle-upon-tyne/poundland-st-georges-way/
-shop: Kramladen
+shop: variety store
 ---

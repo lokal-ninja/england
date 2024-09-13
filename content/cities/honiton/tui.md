@@ -1,5 +1,5 @@
 ---
 title: "TUI"
 url: /honiton/tui/
-shop: Reisebüro
+shop: travel agency
 ---

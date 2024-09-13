@@ -1,5 +1,5 @@
 ---
 title: "Lloyds"
 url: /alcester/lloyds/
-shop: Möbel
+shop: furniture
 ---

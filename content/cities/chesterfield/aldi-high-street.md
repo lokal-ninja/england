@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /chesterfield/aldi-high-street/
-shop: Supermarkt
+shop: supermarket
 ---

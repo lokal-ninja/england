@@ -1,5 +1,5 @@
 ---
 title: "Halfords"
 url: /folkestone/halfords/
-shop: Autoteile
+shop: car parts
 ---

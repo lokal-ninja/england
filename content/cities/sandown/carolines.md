@@ -1,5 +1,5 @@
 ---
 title: "Carolines"
 url: /sandown/carolines/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Buttercup"
 url: /orpington/buttercup/
-shop: Andenken
+shop: gift
 ---

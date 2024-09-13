@@ -1,5 +1,5 @@
 ---
 title: "Hoey's Caravans"
 url: /morecambe/hoeys-caravans/
-shop: Wohnwagen
+shop: caravan
 ---

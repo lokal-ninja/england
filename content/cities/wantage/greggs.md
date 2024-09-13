@@ -1,5 +1,5 @@
 ---
 title: "Greggs"
 url: /wantage/greggs/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Indigo Sun"
 url: /warrington/indigo-sun/
-shop: Kosmetik
+shop: beauty
 ---

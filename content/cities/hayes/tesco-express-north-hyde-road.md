@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /hayes/tesco-express-north-hyde-road/
-shop: Lebensmittel
+shop: convenience
 ---

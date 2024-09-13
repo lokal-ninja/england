@@ -1,5 +1,5 @@
 ---
 title: "Thetford Discount Store"
 url: /thetford/thetford-discount-store/
-shop: Großhandel
+shop: wholesale
 ---

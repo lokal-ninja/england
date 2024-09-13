@@ -1,5 +1,5 @@
 ---
 title: "Dukes"
 url: /whitley-bay/dukes/
-shop: Kleidung
+shop: clothes
 ---

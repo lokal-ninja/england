@@ -1,5 +1,5 @@
 ---
 title: "Bargain Booze"
 url: /market-drayton/bargain-booze/
-shop: Spirituosen
+shop: alcohol
 ---

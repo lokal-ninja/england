@@ -1,5 +1,5 @@
 ---
 title: "Zebra Properties"
 url: /leighton-buzzard/zebra-properties/
-shop: Immobilien
+shop: estate agent
 ---

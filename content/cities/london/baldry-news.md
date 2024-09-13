@@ -1,5 +1,5 @@
 ---
 title: "Baldry News"
 url: /london/baldry-news/
-shop: Zeitungen
+shop: newsagent
 ---

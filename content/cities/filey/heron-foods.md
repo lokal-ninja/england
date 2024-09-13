@@ -1,5 +1,5 @@
 ---
 title: "Heron Foods"
 url: /filey/heron-foods/
-shop: Supermarkt
+shop: supermarket
 ---

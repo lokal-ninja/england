@@ -1,5 +1,5 @@
 ---
 title: "Dobbies"
 url: /telford/dobbies/
-shop: Garten-Center
+shop: garden centre
 ---

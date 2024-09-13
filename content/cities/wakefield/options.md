@@ -1,5 +1,5 @@
 ---
 title: "Options"
 url: /wakefield/options/
-shop: Friseur
+shop: hairdresser
 ---

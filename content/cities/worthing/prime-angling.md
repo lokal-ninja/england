@@ -1,5 +1,5 @@
 ---
 title: "Prime Angling"
 url: /worthing/prime-angling/
-shop: Angeln
+shop: fishing
 ---

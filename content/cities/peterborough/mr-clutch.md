@@ -1,5 +1,5 @@
 ---
 title: "Mr Clutch"
 url: /peterborough/mr-clutch/
-shop: Autowerkstatt
+shop: car repair
 ---

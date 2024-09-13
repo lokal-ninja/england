@@ -1,5 +1,5 @@
 ---
 title: "Farmfoods"
 url: /halifax/farmfoods/
-shop: Tiefkühl
+shop: frozen food
 ---

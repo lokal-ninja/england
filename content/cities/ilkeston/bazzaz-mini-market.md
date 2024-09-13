@@ -1,5 +1,5 @@
 ---
 title: "Bazzaz Mini Market"
 url: /ilkeston/bazzaz-mini-market/
-shop: Lebensmittel
+shop: convenience
 ---

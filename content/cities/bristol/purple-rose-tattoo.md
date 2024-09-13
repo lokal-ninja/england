@@ -1,5 +1,5 @@
 ---
 title: "Purple Rose Tattoo"
 url: /bristol/purple-rose-tattoo/
-shop: Tattoo
+shop: tattoo
 ---

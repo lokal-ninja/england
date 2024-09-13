@@ -1,5 +1,5 @@
 ---
 title: "Fabiia"
 url: /london/fabiia/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /bodmin/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

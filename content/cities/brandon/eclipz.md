@@ -1,5 +1,5 @@
 ---
 title: "Eclipz"
 url: /brandon/eclipz/
-shop: Friseur
+shop: hairdresser
 ---

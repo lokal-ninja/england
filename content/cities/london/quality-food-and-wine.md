@@ -1,5 +1,5 @@
 ---
-title: "Quality Food and Wine"
+title: "Quality Food & Wine"
 url: /london/quality-food-and-wine/
-shop: Lebensmittel
+shop: convenience
 ---

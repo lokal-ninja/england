@@ -1,5 +1,5 @@
 ---
 title: "Ridgeway Studios"
 url: /bristol/ridgeway-studios/
-shop: Kunst
+shop: art
 ---

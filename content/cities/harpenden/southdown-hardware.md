@@ -1,5 +1,5 @@
 ---
 title: "Southdown Hardware"
 url: /harpenden/southdown-hardware/
-shop: Baumarkt
+shop: doityourself
 ---

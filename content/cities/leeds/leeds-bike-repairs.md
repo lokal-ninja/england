@@ -1,5 +1,5 @@
 ---
 title: "Leeds Bike Repairs"
 url: /leeds/leeds-bike-repairs/
-shop: Fahrrad
+shop: bicycle
 ---

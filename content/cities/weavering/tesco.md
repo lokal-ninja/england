@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /weavering/tesco/
-shop: Supermarkt
+shop: supermarket
 ---

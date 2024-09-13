@@ -1,5 +1,5 @@
 ---
 title: "Floriography"
 url: /bristol/floriography/
-shop: Blumen
+shop: florist
 ---

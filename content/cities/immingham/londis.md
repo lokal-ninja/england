@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /immingham/londis/
-shop: Lebensmittel
+shop: convenience
 ---

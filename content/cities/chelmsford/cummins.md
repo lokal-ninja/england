@@ -1,5 +1,5 @@
 ---
 title: "Cummins"
 url: /chelmsford/cummins/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CR7 Barber"
 url: /kettering/cr7-barber/
-shop: Friseur
+shop: hairdresser
 ---

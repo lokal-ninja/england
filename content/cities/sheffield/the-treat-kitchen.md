@@ -1,5 +1,5 @@
 ---
 title: "The Treat Kitchen"
 url: /sheffield/the-treat-kitchen/
-shop: Süßwaren
+shop: confectionery
 ---

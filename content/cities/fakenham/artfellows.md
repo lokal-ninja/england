@@ -1,5 +1,5 @@
 ---
 title: "Artfellows"
 url: /fakenham/artfellows/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Barnet Furniture Centre"
 url: /london/barnet-furniture-centre/
-shop: Möbel
+shop: furniture
 ---

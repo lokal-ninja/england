@@ -1,5 +1,5 @@
 ---
 title: "Roseberys"
 url: /london/roseberys/
-shop: Auktionshaus
+shop: auction house
 ---

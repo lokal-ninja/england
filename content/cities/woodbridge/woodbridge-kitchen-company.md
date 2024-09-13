@@ -1,5 +1,5 @@
 ---
 title: "Woodbridge Kitchen Company"
 url: /woodbridge/woodbridge-kitchen-company/
-shop: Küchen
+shop: kitchen
 ---

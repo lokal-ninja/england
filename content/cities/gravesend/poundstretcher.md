@@ -1,5 +1,5 @@
 ---
 title: "Poundstretcher"
 url: /gravesend/poundstretcher/
-shop: Kramladen
+shop: variety store
 ---

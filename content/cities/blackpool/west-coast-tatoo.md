@@ -1,5 +1,5 @@
 ---
 title: "West Coast Tatoo"
 url: /blackpool/west-coast-tatoo/
-shop: Tattoo
+shop: tattoo
 ---

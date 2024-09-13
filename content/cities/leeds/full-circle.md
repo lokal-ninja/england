@@ -1,5 +1,5 @@
 ---
 title: "Full Circle"
 url: /leeds/full-circle/
-shop: Bestattungen
+shop: funeral directors
 ---

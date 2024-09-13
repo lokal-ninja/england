@@ -1,5 +1,5 @@
 ---
 title: "Empire Textiles"
 url: /london/empire-textiles/
-shop: Kleidung
+shop: clothes
 ---

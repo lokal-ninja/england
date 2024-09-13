@@ -1,5 +1,5 @@
 ---
 title: "Princetown Stores"
 url: /yelverton/princetown-stores/
-shop: Lebensmittel
+shop: convenience
 ---

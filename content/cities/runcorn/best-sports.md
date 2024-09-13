@@ -1,5 +1,5 @@
 ---
 title: "Best Sports"
 url: /runcorn/best-sports/
-shop: Sport
+shop: sports
 ---

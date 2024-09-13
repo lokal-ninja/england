@@ -1,5 +1,5 @@
 ---
 title: "Sainsbury's"
 url: /sheffield/sainsburys-eckington-way/
-shop: Supermarkt
+shop: supermarket
 ---

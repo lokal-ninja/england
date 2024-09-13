@@ -1,5 +1,5 @@
 ---
 title: "Doolittles"
 url: /belper/doolittles/
-shop: Tiere
+shop: pet
 ---

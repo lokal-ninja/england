@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /london/tesco-acre-lane/
-shop: Supermarkt
+shop: supermarket
 ---

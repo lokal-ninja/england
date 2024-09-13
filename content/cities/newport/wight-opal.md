@@ -1,5 +1,5 @@
 ---
 title: "Wight Opal"
 url: /newport/wight-opal/
-shop: Schmuck
+shop: jewelry
 ---

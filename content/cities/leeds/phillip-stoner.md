@@ -1,5 +1,5 @@
 ---
 title: "Phillip Stoner"
 url: /leeds/phillip-stoner/
-shop: Schmuck
+shop: jewelry
 ---

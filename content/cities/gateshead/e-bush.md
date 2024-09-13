@@ -1,5 +1,5 @@
 ---
 title: "E Bush"
 url: /gateshead/e-bush/
-shop: Bestattungen
+shop: funeral directors
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Maxwells"
 url: /london/maxwells/
-shop: Immobilien
+shop: estate agent
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Magnet"
 url: /bridgwater/magnet/
-shop: Küchen
+shop: kitchen
 ---

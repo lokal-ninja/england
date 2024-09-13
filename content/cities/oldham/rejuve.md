@@ -1,5 +1,5 @@
 ---
 title: "Rejuvé"
 url: /oldham/rejuve/
-shop: Kosmetik
+shop: beauty
 ---

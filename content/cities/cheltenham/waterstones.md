@@ -1,5 +1,5 @@
 ---
 title: "Waterstones"
 url: /cheltenham/waterstones/
-shop: Bücher
+shop: books
 ---

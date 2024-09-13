@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /london/ladbrokes-stoke-newington-road/
-shop: Wettbüro
+shop: bookmaker
 ---

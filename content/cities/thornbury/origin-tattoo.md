@@ -1,5 +1,5 @@
 ---
 title: "Origin Tattoo"
 url: /thornbury/origin-tattoo/
-shop: Tattoo
+shop: tattoo
 ---

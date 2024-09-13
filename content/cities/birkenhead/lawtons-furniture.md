@@ -1,5 +1,5 @@
 ---
 title: "Lawton's Furniture"
 url: /birkenhead/lawtons-furniture/
-shop: Möbel
+shop: furniture
 ---

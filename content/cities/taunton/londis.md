@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /taunton/londis/
-shop: Lebensmittel
+shop: convenience
 ---

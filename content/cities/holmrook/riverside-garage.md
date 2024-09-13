@@ -1,5 +1,5 @@
 ---
 title: "Riverside Garage"
 url: /holmrook/riverside-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

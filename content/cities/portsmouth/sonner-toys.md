@@ -1,5 +1,5 @@
 ---
 title: "Sonner Toys"
 url: /portsmouth/sonner-toys/
-shop: Spielzeug
+shop: toys
 ---

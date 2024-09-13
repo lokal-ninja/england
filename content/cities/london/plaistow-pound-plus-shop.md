@@ -1,5 +1,5 @@
 ---
 title: "Plaistow Pound Plus Shop"
 url: /london/plaistow-pound-plus-shop/
-shop: Kramladen
+shop: variety store
 ---

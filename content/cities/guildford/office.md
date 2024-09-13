@@ -1,5 +1,5 @@
 ---
 title: "Office"
 url: /guildford/office/
-shop: Schuhe
+shop: shoes
 ---

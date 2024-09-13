@@ -1,5 +1,5 @@
 ---
 title: "Kybernet"
 url: /kings-lynn/kybernet/
-shop: Computer
+shop: computer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Specsavers"
 url: /bridport/specsavers/
-shop: Optiker
+shop: optician
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Astons"
 url: /wadebridge/astons/
-shop: Allgemein
+shop: shop
 ---

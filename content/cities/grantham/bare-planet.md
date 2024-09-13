@@ -1,5 +1,5 @@
 ---
 title: "Bare Planet"
 url: /grantham/bare-planet/
-shop: Kräuter
+shop: herbalist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Va-Purrrrrr Lounge"
 url: /leyland/va-purrrrrr-lounge/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mulberrys"
 url: /brighton/mulberrys/
-shop: Supermarkt
+shop: supermarket
 ---

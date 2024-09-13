@@ -1,5 +1,5 @@
 ---
 title: "Quinton Parade Dry Cleaners"
 url: /coventry/quinton-parade-dry-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

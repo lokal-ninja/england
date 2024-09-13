@@ -1,5 +1,5 @@
 ---
 title: "Limes"
 url: /cirencester/limes/
-shop: Friseur
+shop: hairdresser
 ---

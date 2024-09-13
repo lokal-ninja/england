@@ -1,5 +1,5 @@
 ---
 title: "First Convenience Store"
 url: /salford/first-convenience-store/
-shop: Lebensmittel
+shop: convenience
 ---

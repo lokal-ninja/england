@@ -1,5 +1,5 @@
 ---
 title: "Top Cut"
 url: /bristol/top-cut/
-shop: Friseur
+shop: hairdresser
 ---

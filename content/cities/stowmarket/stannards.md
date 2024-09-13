@@ -1,5 +1,5 @@
 ---
 title: "Stannards"
 url: /stowmarket/stannards/
-shop: Elektronik
+shop: electronics
 ---

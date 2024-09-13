@@ -1,5 +1,5 @@
 ---
 title: "Bedales"
 url: /london/bedales/
-shop: Spirituosen
+shop: alcohol
 ---

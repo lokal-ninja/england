@@ -1,5 +1,5 @@
 ---
 title: "Brambles"
 url: /ulverston/brambles/
-shop: Raumausstattung
+shop: interior decoration
 ---

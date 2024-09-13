@@ -1,5 +1,5 @@
 ---
 title: "Smiggle"
 url: /london/smiggle/
-shop: Schreibwaren
+shop: office supplies
 ---

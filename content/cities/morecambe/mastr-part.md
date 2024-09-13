@@ -1,5 +1,5 @@
 ---
 title: "Mastr Part"
 url: /morecambe/mastr-part/
-shop: Autoteile
+shop: car parts
 ---

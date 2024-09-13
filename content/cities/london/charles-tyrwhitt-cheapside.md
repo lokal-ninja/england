@@ -1,5 +1,5 @@
 ---
 title: "Charles Tyrwhitt"
 url: /london/charles-tyrwhitt-cheapside/
-shop: Kleidung
+shop: clothes
 ---

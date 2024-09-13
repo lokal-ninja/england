@@ -1,5 +1,5 @@
 ---
 title: "Lady Godiva News"
 url: /coventry/lady-godiva-news/
-shop: Zeitungen
+shop: newsagent
 ---

@@ -1,5 +1,5 @@
 ---
 title: "G M Autocare Ltd"
 url: /brighton/g-m-autocare-ltd/
-shop: Autowerkstatt
+shop: car repair
 ---

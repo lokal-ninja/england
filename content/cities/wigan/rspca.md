@@ -1,5 +1,5 @@
 ---
 title: "RSPCA"
 url: /wigan/rspca/
-shop: Gebrauchtwaren
+shop: charity
 ---

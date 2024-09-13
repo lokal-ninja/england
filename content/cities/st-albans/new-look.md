@@ -1,5 +1,5 @@
 ---
 title: "New Look"
 url: /st-albans/new-look/
-shop: Kleidung
+shop: clothes
 ---

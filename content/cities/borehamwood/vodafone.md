@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
 url: /borehamwood/vodafone/
-shop: Handy
+shop: mobile phone
 ---

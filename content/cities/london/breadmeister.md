@@ -1,5 +1,5 @@
 ---
 title: "Breadmeister"
 url: /london/breadmeister/
-shop: Bäckerei
+shop: bakery
 ---

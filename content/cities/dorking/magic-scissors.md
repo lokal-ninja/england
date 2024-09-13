@@ -1,5 +1,5 @@
 ---
 title: "Magic Scissors"
 url: /dorking/magic-scissors/
-shop: Friseur
+shop: hairdresser
 ---

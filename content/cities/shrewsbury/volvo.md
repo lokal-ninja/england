@@ -1,5 +1,5 @@
 ---
 title: "Volvo"
 url: /shrewsbury/volvo/
-shop: Autohaus
+shop: car
 ---

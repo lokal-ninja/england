@@ -1,5 +1,5 @@
 ---
 title: "Morrisons Daily"
 url: /bromyard/morrisons-daily/
-shop: Lebensmittel
+shop: convenience
 ---

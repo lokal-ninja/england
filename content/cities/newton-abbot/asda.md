@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /newton-abbot/asda/
-shop: Supermarkt
+shop: supermarket
 ---

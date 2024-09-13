@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /rugby/whsmith-railway-terrace/
-shop: Zeitungen
+shop: newsagent
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CeX"
 url: /staines/cex/
-shop: Elektronik
+shop: electronics
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Franbels Market"
 url: /london/franbels-market/
-shop: Bioladen
+shop: health food
 ---

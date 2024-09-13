@@ -1,5 +1,5 @@
 ---
 title: "PRB Automotive"
 url: /ilkeston/prb-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

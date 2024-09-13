@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /abingdon/costcutter/
-shop: Lebensmittel
+shop: convenience
 ---

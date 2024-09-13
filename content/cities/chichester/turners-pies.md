@@ -1,5 +1,5 @@
 ---
 title: "Turner's Pies"
 url: /chichester/turners-pies/
-shop: Bäckerei
+shop: bakery
 ---

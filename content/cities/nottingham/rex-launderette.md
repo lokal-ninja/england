@@ -1,5 +1,5 @@
 ---
 title: "Rex Launderette"
 url: /nottingham/rex-launderette/
-shop: Wäscherei
+shop: laundry
 ---

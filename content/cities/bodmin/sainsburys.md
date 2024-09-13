@@ -1,5 +1,5 @@
 ---
 title: "Sainsbury's"
 url: /bodmin/sainsburys/
-shop: Supermarkt
+shop: supermarket
 ---

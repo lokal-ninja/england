@@ -1,5 +1,5 @@
 ---
 title: "La Ruca"
 url: /bristol/la-ruca/
-shop: Supermarkt
+shop: supermarket
 ---

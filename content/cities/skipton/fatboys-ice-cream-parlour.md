@@ -1,5 +1,5 @@
 ---
 title: "Fatboys Ice Cream Parlour"
 url: /skipton/fatboys-ice-cream-parlour/
-shop: Eisprodukte
+shop: ice cream
 ---

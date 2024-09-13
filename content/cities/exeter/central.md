@@ -1,5 +1,5 @@
 ---
 title: "Central"
 url: /exeter/central/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SYBS"
 url: /leeds/sybs/
-shop: Autoteile
+shop: car parts
 ---

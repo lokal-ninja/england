@@ -1,5 +1,5 @@
 ---
 title: "Skinfinity"
 url: /middlesbrough/skinfinity/
-shop: Kosmetik
+shop: beauty
 ---

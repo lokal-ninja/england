@@ -1,5 +1,5 @@
 ---
 title: "Tongues and Tails"
 url: /london/tongues-and-tails/
-shop: Tiersalon
+shop: pet grooming
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Happy Shopper"
 url: /sidcup/happy-shopper/
-shop: Lebensmittel
+shop: convenience
 ---

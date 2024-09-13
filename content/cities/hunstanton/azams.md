@@ -1,5 +1,5 @@
 ---
 title: "Azams"
 url: /hunstanton/azams/
-shop: Warenhaus
+shop: department store
 ---

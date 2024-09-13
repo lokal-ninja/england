@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /kendal/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

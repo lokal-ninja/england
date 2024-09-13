@@ -1,5 +1,5 @@
 ---
 title: "MaxiSaver"
 url: /london/maxisaver/
-shop: Kramladen
+shop: variety store
 ---

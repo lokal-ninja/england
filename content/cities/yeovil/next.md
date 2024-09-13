@@ -1,5 +1,5 @@
 ---
 title: "Next"
 url: /yeovil/next/
-shop: Kleidung
+shop: clothes
 ---

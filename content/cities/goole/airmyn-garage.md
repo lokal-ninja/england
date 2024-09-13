@@ -1,5 +1,5 @@
 ---
 title: "Airmyn Garage"
 url: /goole/airmyn-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

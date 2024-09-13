@@ -1,5 +1,5 @@
 ---
 title: "Dreams"
 url: /warrington/dreams/
-shop: Betten
+shop: bed
 ---

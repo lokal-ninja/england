@@ -1,5 +1,5 @@
 ---
 title: "Airspeed"
 url: /ipswich/airspeed/
-shop: Autowerkstatt
+shop: car repair
 ---

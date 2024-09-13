@@ -1,5 +1,5 @@
 ---
 title: "Osbornes"
 url: /ryde/osbornes/
-shop: Kleidung
+shop: clothes
 ---

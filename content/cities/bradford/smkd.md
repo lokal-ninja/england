@@ -1,5 +1,5 @@
 ---
 title: "SMKD"
 url: /bradford/smkd/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

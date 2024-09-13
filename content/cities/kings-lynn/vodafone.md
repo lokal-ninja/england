@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
 url: /kings-lynn/vodafone/
-shop: Handy
+shop: mobile phone
 ---

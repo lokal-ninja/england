@@ -1,5 +1,5 @@
 ---
 title: "William Hill"
 url: /spennymoor/william-hill/
-shop: Wettbüro
+shop: bookmaker
 ---

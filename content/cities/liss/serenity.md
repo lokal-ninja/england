@@ -1,5 +1,5 @@
 ---
 title: "Serenity"
 url: /liss/serenity/
-shop: Kosmetik
+shop: beauty
 ---

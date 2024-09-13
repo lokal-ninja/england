@@ -1,5 +1,5 @@
 ---
 title: "Dinny Hall"
 url: /london/dinny-hall/
-shop: Schmuck
+shop: jewelry
 ---

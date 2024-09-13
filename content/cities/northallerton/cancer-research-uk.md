@@ -1,5 +1,5 @@
 ---
 title: "Cancer Research UK"
 url: /northallerton/cancer-research-uk/
-shop: Gebrauchtwaren
+shop: charity
 ---

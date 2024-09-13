@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /peterborough/premier/
-shop: Lebensmittel
+shop: convenience
 ---

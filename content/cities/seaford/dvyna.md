@@ -1,5 +1,5 @@
 ---
 title: "D'vyna"
 url: /seaford/dvyna/
-shop: Friseur
+shop: hairdresser
 ---

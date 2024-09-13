@@ -1,5 +1,5 @@
 ---
 title: "Dreams"
 url: /weston-super-mare/dreams/
-shop: Betten
+shop: bed
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Christopher Michael"
 url: /east-grinstead/christopher-michael/
-shop: Friseur
+shop: hairdresser
 ---

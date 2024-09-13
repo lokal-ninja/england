@@ -1,5 +1,5 @@
 ---
 title: "Austin's Hardware"
 url: /billingshurst/austins-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /bideford/tesco/
-shop: Supermarkt
+shop: supermarket
 ---

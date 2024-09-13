@@ -1,5 +1,5 @@
 ---
 title: "Break"
 url: /holt/break/
-shop: Kleidung
+shop: clothes
 ---

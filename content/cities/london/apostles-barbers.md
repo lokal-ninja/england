@@ -1,5 +1,5 @@
 ---
 title: "Apostles Barbers"
 url: /london/apostles-barbers/
-shop: Friseur
+shop: hairdresser
 ---

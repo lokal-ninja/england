@@ -1,5 +1,5 @@
 ---
 title: "Bethel"
 url: /abbey-wood/bethel/
-shop: Lebensmittel
+shop: convenience
 ---

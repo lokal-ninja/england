@@ -1,5 +1,5 @@
 ---
 title: "Maxi Pl"
 url: /thetford/maxi-pl/
-shop: Feinkost
+shop: deli
 ---

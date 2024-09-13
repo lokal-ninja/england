@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /sheerness/iceland-high-street/
-shop: Tiefkühl
+shop: frozen food
 ---

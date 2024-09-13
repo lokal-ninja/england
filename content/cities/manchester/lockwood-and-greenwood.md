@@ -1,5 +1,5 @@
 ---
 title: "Lockwood and Greenwood"
 url: /manchester/lockwood-and-greenwood/
-shop: Autohaus
+shop: car
 ---

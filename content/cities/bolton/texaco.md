@@ -1,5 +1,5 @@
 ---
 title: "Texaco"
 url: /bolton/texaco/
-shop: Lebensmittel
+shop: convenience
 ---

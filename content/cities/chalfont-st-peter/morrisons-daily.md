@@ -1,5 +1,5 @@
 ---
 title: "Morrisons Daily"
 url: /chalfont-st-peter/morrisons-daily/
-shop: Lebensmittel
+shop: convenience
 ---

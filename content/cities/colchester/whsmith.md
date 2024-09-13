@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /colchester/whsmith/
-shop: Zeitungen
+shop: newsagent
 ---

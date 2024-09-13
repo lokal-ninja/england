@@ -1,5 +1,5 @@
 ---
 title: "Sainsbury's Local"
 url: /middlesbrough/sainsburys-local-bankfields-road/
-shop: Lebensmittel
+shop: convenience
 ---

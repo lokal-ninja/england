@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /gateshead/premier-malvern-gardens/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Neubelle"
 url: /rotherham/neubelle/
-shop: Kosmetik
+shop: beauty
 ---

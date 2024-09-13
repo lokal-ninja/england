@@ -1,5 +1,5 @@
 ---
 title: "Housewives Choice"
 url: /rushden/housewives-choice/
-shop: Elektronik
+shop: electronics
 ---

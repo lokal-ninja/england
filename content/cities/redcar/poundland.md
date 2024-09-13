@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /redcar/poundland/
-shop: Kramladen
+shop: variety store
 ---

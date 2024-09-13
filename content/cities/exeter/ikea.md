@@ -1,5 +1,5 @@
 ---
 title: "IKEA"
 url: /exeter/ikea/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "DirectExchange"
 url: /salford/directexchange/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

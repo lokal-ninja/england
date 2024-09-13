@@ -1,5 +1,5 @@
 ---
 title: "Corkville"
 url: /london/corkville/
-shop: Schuhe
+shop: shoes
 ---

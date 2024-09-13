@@ -1,5 +1,5 @@
 ---
 title: "The Book Warehouse"
 url: /london/the-book-warehouse/
-shop: Bücher
+shop: books
 ---

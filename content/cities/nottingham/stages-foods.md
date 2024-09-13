@@ -1,5 +1,5 @@
 ---
 title: "Stages Foods"
 url: /nottingham/stages-foods/
-shop: Lebensmittel
+shop: convenience
 ---

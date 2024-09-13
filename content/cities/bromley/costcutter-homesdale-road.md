@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /bromley/costcutter-homesdale-road/
-shop: Lebensmittel
+shop: convenience
 ---

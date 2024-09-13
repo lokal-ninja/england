@@ -1,5 +1,5 @@
 ---
 title: "South West Art"
 url: /sidmouth/south-west-art/
-shop: Basteln
+shop: craft
 ---

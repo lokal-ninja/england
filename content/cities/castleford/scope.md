@@ -1,5 +1,5 @@
 ---
 title: "Scope"
 url: /castleford/scope/
-shop: Gebrauchtwaren
+shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Argos"
 url: /derby/argos/
-shop: Katalog
+shop: catalogue
 ---

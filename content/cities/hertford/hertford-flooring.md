@@ -1,5 +1,5 @@
 ---
 title: "Hertford Flooring"
 url: /hertford/hertford-flooring/
-shop: Fußböden
+shop: flooring
 ---

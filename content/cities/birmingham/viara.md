@@ -1,5 +1,5 @@
 ---
 title: "Viara"
 url: /birmingham/viara/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kilo"
 url: /london/kilo/
-shop: Bioladen
+shop: health food
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Card Factory"
 url: /east-grinstead/card-factory/
-shop: Andenken
+shop: gift
 ---

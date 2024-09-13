@@ -1,5 +1,5 @@
 ---
 title: "Walkers"
 url: /oakham/walkers/
-shop: Bücher
+shop: books
 ---

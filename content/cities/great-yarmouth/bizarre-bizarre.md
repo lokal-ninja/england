@@ -1,5 +1,5 @@
 ---
 title: "Bizarre Bizarre"
 url: /great-yarmouth/bizarre-bizarre/
-shop: Andenken
+shop: gift
 ---

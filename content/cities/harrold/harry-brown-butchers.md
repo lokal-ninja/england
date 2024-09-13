@@ -1,5 +1,5 @@
 ---
 title: "Harry Brown Butchers"
 url: /harrold/harry-brown-butchers/
-shop: Metzgerei
+shop: butcher
 ---

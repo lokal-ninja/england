@@ -1,5 +1,5 @@
 ---
 title: "Denby"
 url: /braintree/denby/
-shop: Haushaltsartikel
+shop: houseware
 ---

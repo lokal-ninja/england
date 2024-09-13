@@ -1,5 +1,5 @@
 ---
 title: "Capital"
 url: /london/capital/
-shop: Elektrisch
+shop: electrical
 ---

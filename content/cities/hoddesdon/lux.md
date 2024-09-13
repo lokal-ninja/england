@@ -1,5 +1,5 @@
 ---
 title: "Lux"
 url: /hoddesdon/lux/
-shop: Friseur
+shop: hairdresser
 ---

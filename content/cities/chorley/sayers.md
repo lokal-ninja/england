@@ -1,5 +1,5 @@
 ---
 title: "Sayers"
 url: /chorley/sayers/
-shop: Bäckerei
+shop: bakery
 ---

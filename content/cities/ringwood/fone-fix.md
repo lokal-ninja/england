@@ -1,5 +1,5 @@
 ---
 title: "Fone Fix"
 url: /ringwood/fone-fix/
-shop: Handy
+shop: mobile phone
 ---

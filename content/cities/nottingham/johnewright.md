@@ -1,5 +1,5 @@
 ---
 title: "johnewright"
 url: /nottingham/johnewright/
-shop: Schreibwaren
+shop: office supplies
 ---

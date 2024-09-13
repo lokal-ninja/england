@@ -1,5 +1,5 @@
 ---
 title: "Cigara"
 url: /grimsby/cigara/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

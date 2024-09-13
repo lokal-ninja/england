@@ -1,5 +1,5 @@
 ---
 title: "Farah Fabrics"
 url: /wolverhampton/farah-fabrics/
-shop: Textil
+shop: fabric
 ---

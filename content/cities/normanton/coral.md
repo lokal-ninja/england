@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /normanton/coral/
-shop: Wettbüro
+shop: bookmaker
 ---

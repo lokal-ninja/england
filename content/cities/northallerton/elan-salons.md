@@ -1,5 +1,5 @@
 ---
 title: "Elan Salons"
 url: /northallerton/elan-salons/
-shop: Friseur
+shop: hairdresser
 ---

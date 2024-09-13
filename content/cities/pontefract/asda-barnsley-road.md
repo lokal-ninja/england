@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /pontefract/asda-barnsley-road/
-shop: Supermarkt
+shop: supermarket
 ---

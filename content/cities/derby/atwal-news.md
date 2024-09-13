@@ -1,5 +1,5 @@
 ---
 title: "Atwal News"
 url: /derby/atwal-news/
-shop: Lebensmittel
+shop: convenience
 ---

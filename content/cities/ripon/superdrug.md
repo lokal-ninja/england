@@ -1,5 +1,5 @@
 ---
 title: "Superdrug"
 url: /ripon/superdrug/
-shop: Drogerie
+shop: chemist
 ---

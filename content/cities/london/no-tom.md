@@ -1,5 +1,5 @@
 ---
 title: "No.Tom"
 url: /london/no-tom/
-shop: Instrumente
+shop: musical instrument
 ---

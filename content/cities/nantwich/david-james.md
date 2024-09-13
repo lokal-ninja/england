@@ -1,5 +1,5 @@
 ---
 title: "David James"
 url: /nantwich/david-james/
-shop: Schmuck
+shop: jewelry
 ---

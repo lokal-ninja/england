@@ -1,5 +1,5 @@
 ---
 title: "Manchester Hangars UK Ltd"
 url: /manchester/manchester-hangars-uk-ltd/
-shop: Großhandel
+shop: wholesale
 ---

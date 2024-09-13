@@ -1,5 +1,5 @@
 ---
 title: "Sainsbury's Local"
 url: /southend-on-sea/sainsburys-local/
-shop: Lebensmittel
+shop: convenience
 ---

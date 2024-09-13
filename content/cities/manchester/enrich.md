@@ -1,5 +1,5 @@
 ---
 title: "Enrich"
 url: /manchester/enrich/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

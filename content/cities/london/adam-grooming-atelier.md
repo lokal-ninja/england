@@ -1,5 +1,5 @@
 ---
 title: "Adam Grooming Atelier"
 url: /london/adam-grooming-atelier/
-shop: Friseur
+shop: hairdresser
 ---

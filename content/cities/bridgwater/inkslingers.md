@@ -1,5 +1,5 @@
 ---
 title: "Inkslingers"
 url: /bridgwater/inkslingers/
-shop: Tattoo
+shop: tattoo
 ---

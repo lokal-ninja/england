@@ -1,5 +1,5 @@
 ---
 title: "Booker Wholesale"
 url: /cambridge/booker-wholesale/
-shop: Großhandel
+shop: wholesale
 ---

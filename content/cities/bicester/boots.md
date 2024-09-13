@@ -1,5 +1,5 @@
 ---
 title: "Boots"
 url: /bicester/boots/
-shop: Drogerie
+shop: chemist
 ---

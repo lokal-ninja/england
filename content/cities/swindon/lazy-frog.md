@@ -1,5 +1,5 @@
 ---
 title: "Lazy Frog"
 url: /swindon/lazy-frog/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

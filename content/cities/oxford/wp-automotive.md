@@ -1,5 +1,5 @@
 ---
 title: "WP Automotive"
 url: /oxford/wp-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

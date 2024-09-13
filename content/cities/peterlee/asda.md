@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /peterlee/asda/
-shop: Supermarkt
+shop: supermarket
 ---

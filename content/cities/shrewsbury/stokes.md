@@ -1,5 +1,5 @@
 ---
 title: "Stokes"
 url: /shrewsbury/stokes/
-shop: Haushaltsgeräte
+shop: appliance
 ---

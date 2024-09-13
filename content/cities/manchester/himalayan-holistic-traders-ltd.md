@@ -1,5 +1,5 @@
 ---
 title: "Himalayan Holistic Traders Ltd"
 url: /manchester/himalayan-holistic-traders-ltd/
-shop: Großhandel
+shop: wholesale
 ---

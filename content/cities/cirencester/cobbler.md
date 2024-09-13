@@ -1,5 +1,5 @@
 ---
 title: "Cobbler"
 url: /cirencester/cobbler/
-shop: Schuhe
+shop: shoes
 ---

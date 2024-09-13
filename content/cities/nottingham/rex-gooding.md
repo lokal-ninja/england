@@ -1,5 +1,5 @@
 ---
 title: "Rex Gooding"
 url: /nottingham/rex-gooding/
-shop: Immobilien
+shop: estate agent
 ---

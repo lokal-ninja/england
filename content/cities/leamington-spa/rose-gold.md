@@ -1,5 +1,5 @@
 ---
 title: "Rose Gold"
 url: /leamington-spa/rose-gold/
-shop: Friseur
+shop: hairdresser
 ---

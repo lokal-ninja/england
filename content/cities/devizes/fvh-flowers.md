@@ -1,5 +1,5 @@
 ---
 title: "FVH Flowers"
 url: /devizes/fvh-flowers/
-shop: Blumen
+shop: florist
 ---

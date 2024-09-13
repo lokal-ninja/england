@@ -1,5 +1,5 @@
 ---
 title: "Torri Cantine"
 url: /chelmsford/torri-cantine/
-shop: Supermarkt
+shop: supermarket
 ---

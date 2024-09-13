@@ -1,5 +1,5 @@
 ---
 title: "Cadbury"
 url: /ellesmere-port/cadbury/
-shop: Süßwaren
+shop: confectionery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Halfords"
 url: /burton-on-trent/halfords/
-shop: Autoteile
+shop: car parts
 ---

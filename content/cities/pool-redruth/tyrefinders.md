@@ -1,5 +1,5 @@
 ---
 title: "Tyrefinders"
 url: /pool-redruth/tyrefinders/
-shop: Autowerkstatt
+shop: car repair
 ---

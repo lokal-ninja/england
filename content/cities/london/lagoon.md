@@ -1,5 +1,5 @@
 ---
 title: "Lagoon"
 url: /london/lagoon/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Boleyn Eye Centre"
 url: /london/boleyn-eye-centre/
-shop: Optiker
+shop: optician
 ---

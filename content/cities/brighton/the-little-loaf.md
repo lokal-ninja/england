@@ -1,5 +1,5 @@
 ---
 title: "The Little Loaf"
 url: /brighton/the-little-loaf/
-shop: Konditorei
+shop: pastry
 ---

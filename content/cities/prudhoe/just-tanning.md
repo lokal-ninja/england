@@ -1,5 +1,5 @@
 ---
 title: "Just Tanning"
 url: /prudhoe/just-tanning/
-shop: Kosmetik
+shop: beauty
 ---

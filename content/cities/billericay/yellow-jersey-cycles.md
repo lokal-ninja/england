@@ -1,5 +1,5 @@
 ---
 title: "Yellow Jersey Cycles"
 url: /billericay/yellow-jersey-cycles/
-shop: Fahrrad
+shop: bicycle
 ---

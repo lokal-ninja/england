@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /crawley/lidl/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hetu"
 url: /london/hetu/
-shop: Bioladen
+shop: health food
 ---

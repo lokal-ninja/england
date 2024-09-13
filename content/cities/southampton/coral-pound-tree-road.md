@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /southampton/coral-pound-tree-road/
-shop: Wettbüro
+shop: bookmaker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Millets Farm Shop"
 url: /evesham/millets-farm-shop/
-shop: Hofladen
+shop: farm
 ---

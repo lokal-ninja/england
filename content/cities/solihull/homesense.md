@@ -1,5 +1,5 @@
 ---
 title: "HomeSense"
 url: /solihull/homesense/
-shop: Raumausstattung
+shop: interior decoration
 ---

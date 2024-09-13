@@ -1,5 +1,5 @@
 ---
 title: "Furbabies"
 url: /wigan/furbabies/
-shop: Tiersalon
+shop: pet grooming
 ---

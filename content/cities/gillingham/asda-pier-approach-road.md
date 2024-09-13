@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /gillingham/asda-pier-approach-road/
-shop: Supermarkt
+shop: supermarket
 ---

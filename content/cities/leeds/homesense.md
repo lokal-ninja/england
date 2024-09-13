@@ -1,5 +1,5 @@
 ---
 title: "HomeSense"
 url: /leeds/homesense/
-shop: Raumausstattung
+shop: interior decoration
 ---

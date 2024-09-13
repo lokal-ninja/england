@@ -1,5 +1,5 @@
 ---
 title: "Crystal"
 url: /london/crystal/
-shop: Spirituosen
+shop: alcohol
 ---

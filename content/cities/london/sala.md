@@ -1,5 +1,5 @@
 ---
 title: "Sala"
 url: /london/sala/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "TUI"
 url: /taunton/tui/
-shop: Reisebüro
+shop: travel agency
 ---

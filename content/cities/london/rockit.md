@@ -1,5 +1,5 @@
 ---
 title: "Rockit"
 url: /london/rockit/
-shop: Kleidung
+shop: clothes
 ---

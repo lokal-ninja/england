@@ -1,5 +1,5 @@
 ---
 title: "Perfection"
 url: /lincoln/perfection/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nazar Food Centre"
 url: /london/nazar-food-centre/
-shop: Supermarkt
+shop: supermarket
 ---

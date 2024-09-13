@@ -1,5 +1,5 @@
 ---
 title: "Robinsons"
 url: /morecambe/robinsons/
-shop: Blumen
+shop: florist
 ---

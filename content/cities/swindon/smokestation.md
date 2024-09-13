@@ -1,5 +1,5 @@
 ---
 title: "Smokestation"
 url: /swindon/smokestation/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

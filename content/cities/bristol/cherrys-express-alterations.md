@@ -1,5 +1,5 @@
 ---
 title: "Cherrys Express Alterations"
 url: /bristol/cherrys-express-alterations/
-shop: Schneiderei
+shop: tailor
 ---

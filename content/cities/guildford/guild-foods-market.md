@@ -1,5 +1,5 @@
 ---
 title: "Guild Foods Market"
 url: /guildford/guild-foods-market/
-shop: Lebensmittel
+shop: convenience
 ---

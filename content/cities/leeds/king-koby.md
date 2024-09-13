@@ -1,5 +1,5 @@
 ---
 title: "King Koby"
 url: /leeds/king-koby/
-shop: Friseur
+shop: hairdresser
 ---

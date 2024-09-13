@@ -1,5 +1,5 @@
 ---
 title: "Bensons"
 url: /sheffield/bensons/
-shop: Teppiche
+shop: carpet
 ---

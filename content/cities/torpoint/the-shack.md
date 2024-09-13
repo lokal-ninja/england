@@ -1,5 +1,5 @@
 ---
 title: "The Shack"
 url: /torpoint/the-shack/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lancaster's"
 url: /grange-over-sands/lancasters/
-shop: Eisenwaren
+shop: hardware
 ---

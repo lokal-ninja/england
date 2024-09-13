@@ -1,5 +1,5 @@
 ---
 title: "One Stop"
 url: /manchester/one-stop/
-shop: Lebensmittel
+shop: convenience
 ---

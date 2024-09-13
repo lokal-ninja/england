@@ -1,5 +1,5 @@
 ---
 title: "Nu Image"
 url: /worthing/nu-image/
-shop: Friseur
+shop: hairdresser
 ---

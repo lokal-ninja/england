@@ -1,5 +1,5 @@
 ---
 title: "Glorious"
 url: /london/glorious/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "HollyWoofs"
 url: /christchurch/hollywoofs/
-shop: Tiersalon
+shop: pet grooming
 ---

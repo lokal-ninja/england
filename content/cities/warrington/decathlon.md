@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /warrington/decathlon/
-shop: Sport
+shop: sports
 ---

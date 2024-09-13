@@ -1,5 +1,5 @@
 ---
 title: "Acosmetics"
 url: /kettering/acosmetics/
-shop: Kosmetik
+shop: beauty
 ---

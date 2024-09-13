@@ -1,5 +1,5 @@
 ---
 title: "Be Selfish"
 url: /london/be-selfish/
-shop: Kosmetik
+shop: beauty
 ---

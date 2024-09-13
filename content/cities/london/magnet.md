@@ -1,5 +1,5 @@
 ---
 title: "Magnet"
 url: /london/magnet/
-shop: Küchen
+shop: kitchen
 ---

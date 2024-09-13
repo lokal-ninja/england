@@ -1,5 +1,5 @@
 ---
 title: "Game"
 url: /grays/game-weston-avenue/
-shop: Videospiele
+shop: video games
 ---

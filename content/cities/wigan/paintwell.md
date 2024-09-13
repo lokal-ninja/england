@@ -1,5 +1,5 @@
 ---
 title: "PaintWell"
 url: /wigan/paintwell/
-shop: Farben
+shop: paint
 ---

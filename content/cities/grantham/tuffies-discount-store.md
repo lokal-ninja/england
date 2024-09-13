@@ -1,5 +1,5 @@
 ---
 title: "Tuffies Discount Store"
 url: /grantham/tuffies-discount-store/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Best One"
 url: /gravesend/best-one-rochester-road/
-shop: Lebensmittel
+shop: convenience
 ---

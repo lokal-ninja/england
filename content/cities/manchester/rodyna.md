@@ -1,5 +1,5 @@
 ---
 title: "Rodyna"
 url: /manchester/rodyna/
-shop: Lebensmittel
+shop: convenience
 ---

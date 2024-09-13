@@ -1,5 +1,5 @@
 ---
 title: "Level Up"
 url: /devizes/level-up/
-shop: Elektronik
+shop: electronics
 ---

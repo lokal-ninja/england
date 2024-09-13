@@ -1,5 +1,5 @@
 ---
 title: "Cici Beds"
 url: /sheffield/cici-beds/
-shop: Betten
+shop: bed
 ---

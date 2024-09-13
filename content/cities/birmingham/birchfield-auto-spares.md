@@ -1,5 +1,5 @@
 ---
 title: "Birchfield Auto Spares"
 url: /birmingham/birchfield-auto-spares/
-shop: Autoteile
+shop: car parts
 ---

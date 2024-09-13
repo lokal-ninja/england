@@ -1,5 +1,5 @@
 ---
 title: "Stanleys"
 url: /southport/stanleys/
-shop: Eisenwaren
+shop: hardware
 ---

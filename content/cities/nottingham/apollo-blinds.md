@@ -1,5 +1,5 @@
 ---
 title: "Apollo Blinds"
 url: /nottingham/apollo-blinds/
-shop: Jalousien
+shop: window blind
 ---

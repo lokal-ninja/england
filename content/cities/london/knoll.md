@@ -1,5 +1,5 @@
 ---
 title: "Knoll"
 url: /london/knoll/
-shop: Raumausstattung
+shop: interior decoration
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pocklington Motor Care"
 url: /york/pocklington-motor-care/
-shop: Autowerkstatt
+shop: car repair
 ---

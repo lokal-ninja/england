@@ -1,5 +1,5 @@
 ---
 title: "Pets World"
 url: /carshalton/pets-world/
-shop: Tiere
+shop: pet
 ---

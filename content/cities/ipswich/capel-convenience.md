@@ -1,5 +1,5 @@
 ---
 title: "Capel Convenience"
 url: /ipswich/capel-convenience/
-shop: Lebensmittel
+shop: convenience
 ---

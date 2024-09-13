@@ -1,5 +1,5 @@
 ---
 title: "TWB"
 url: /sandown/twb/
-shop: Gartenmaschinen
+shop: garden machinery
 ---

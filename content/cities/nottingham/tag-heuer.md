@@ -1,5 +1,5 @@
 ---
 title: "TAG Heuer"
 url: /nottingham/tag-heuer/
-shop: Uhren
+shop: watches
 ---

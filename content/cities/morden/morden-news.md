@@ -1,5 +1,5 @@
 ---
 title: "Morden News"
 url: /morden/morden-news/
-shop: Zeitungen
+shop: newsagent
 ---

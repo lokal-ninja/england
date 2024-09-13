@@ -1,5 +1,5 @@
 ---
 title: "EaseMyTrip"
 url: /southall/easemytrip/
-shop: Reisebüro
+shop: travel agency
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hartech Ltd"
 url: /bolton/hartech-ltd/
-shop: Autowerkstatt
+shop: car repair
 ---

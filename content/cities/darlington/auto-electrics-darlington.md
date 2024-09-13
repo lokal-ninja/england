@@ -1,5 +1,5 @@
 ---
 title: "Auto Electrics Darlington"
 url: /darlington/auto-electrics-darlington/
-shop: Autowerkstatt
+shop: car repair
 ---

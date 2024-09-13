@@ -1,5 +1,5 @@
 ---
 title: "Addspeed Performance Cars"
 url: /horsham/addspeed-performance-cars/
-shop: Autowerkstatt
+shop: car repair
 ---

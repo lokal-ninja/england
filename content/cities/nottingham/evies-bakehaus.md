@@ -1,5 +1,5 @@
 ---
 title: "Evie's Bakehaus"
 url: /nottingham/evies-bakehaus/
-shop: Bäckerei
+shop: bakery
 ---

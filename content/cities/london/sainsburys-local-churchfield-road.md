@@ -1,5 +1,5 @@
 ---
 title: "Sainsbury's Local"
 url: /london/sainsburys-local-churchfield-road/
-shop: Lebensmittel
+shop: convenience
 ---

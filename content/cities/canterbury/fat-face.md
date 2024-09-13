@@ -1,5 +1,5 @@
 ---
 title: "Fat Face"
 url: /canterbury/fat-face/
-shop: Kleidung
+shop: clothes
 ---

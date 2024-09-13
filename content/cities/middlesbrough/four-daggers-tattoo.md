@@ -1,5 +1,5 @@
 ---
 title: "Four Daggers Tattoo"
 url: /middlesbrough/four-daggers-tattoo/
-shop: Tattoo
+shop: tattoo
 ---

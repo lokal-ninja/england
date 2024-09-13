@@ -1,5 +1,5 @@
 ---
 title: "Vans"
 url: /bicester/vans/
-shop: Schuhe
+shop: shoes
 ---

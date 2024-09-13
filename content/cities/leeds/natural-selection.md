@@ -1,5 +1,5 @@
 ---
 title: "Natural Selection"
 url: /leeds/natural-selection/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Clintons"
 url: /fareham/clintons/
-shop: Andenken
+shop: gift
 ---

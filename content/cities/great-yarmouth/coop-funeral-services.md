@@ -1,5 +1,5 @@
 ---
 title: "Coop Funeral Services"
 url: /great-yarmouth/coop-funeral-services/
-shop: Bestattungen
+shop: funeral directors
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Newsbox"
 url: /melksham/newsbox/
-shop: Lebensmittel
+shop: convenience
 ---

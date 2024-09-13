@@ -1,5 +1,5 @@
 ---
 title: "Queens Cosmetics"
 url: /london/queens-cosmetics/
-shop: Kosmetik
+shop: beauty
 ---

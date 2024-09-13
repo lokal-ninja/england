@@ -1,5 +1,5 @@
 ---
 title: "whittakers"
 url: /southport/whittakers/
-shop: Kleidung
+shop: clothes
 ---

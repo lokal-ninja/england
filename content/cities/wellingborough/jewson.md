@@ -1,5 +1,5 @@
 ---
 title: "Jewson"
 url: /wellingborough/jewson/
-shop: Baustoffe
+shop: trade
 ---

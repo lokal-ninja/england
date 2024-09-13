@@ -1,5 +1,5 @@
 ---
 title: "Oats"
 url: /reading/oats/
-shop: Autowerkstatt
+shop: car repair
 ---

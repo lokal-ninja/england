@@ -1,5 +1,5 @@
 ---
 title: "Knottingley DIY"
 url: /knottingley/knottingley-diy/
-shop: Baumarkt
+shop: doityourself
 ---

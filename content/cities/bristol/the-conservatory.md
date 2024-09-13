@@ -1,5 +1,5 @@
 ---
 title: "The Conservatory"
 url: /bristol/the-conservatory/
-shop: Friseur
+shop: hairdresser
 ---

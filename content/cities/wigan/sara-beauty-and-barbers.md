@@ -1,5 +1,5 @@
 ---
 title: "Sara Beauty and Barbers"
 url: /wigan/sara-beauty-and-barbers/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "goodness"
 url: /lytham-st-annes/goodness/
-shop: Raumausstattung
+shop: interior decoration
 ---

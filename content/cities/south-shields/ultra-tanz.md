@@ -1,5 +1,5 @@
 ---
 title: "Ultra Tanz"
 url: /south-shields/ultra-tanz/
-shop: Kosmetik
+shop: beauty
 ---

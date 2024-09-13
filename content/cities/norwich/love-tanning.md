@@ -1,5 +1,5 @@
 ---
 title: "Love Tanning"
 url: /norwich/love-tanning/
-shop: Kosmetik
+shop: beauty
 ---

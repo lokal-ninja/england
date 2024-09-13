@@ -1,5 +1,5 @@
 ---
 title: "David And Robinson"
 url: /castleford/david-and-robinson/
-shop: Kramladen
+shop: variety store
 ---

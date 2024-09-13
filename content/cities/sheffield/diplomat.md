@@ -1,5 +1,5 @@
 ---
 title: "Diplomat"
 url: /sheffield/diplomat/
-shop: Massage
+shop: massage
 ---

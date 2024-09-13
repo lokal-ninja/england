@@ -1,5 +1,5 @@
 ---
 title: "Sohail"
 url: /birmingham/sohail/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Station Market"
 url: /birmingham/station-market/
-shop: Lebensmittel
+shop: convenience
 ---

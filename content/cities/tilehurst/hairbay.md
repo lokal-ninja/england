@@ -1,5 +1,5 @@
 ---
 title: "Hairbay"
 url: /tilehurst/hairbay/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Great Grapes"
 url: /orpington/great-grapes/
-shop: Allgemein
+shop: shop
 ---

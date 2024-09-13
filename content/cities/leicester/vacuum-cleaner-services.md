@@ -1,5 +1,5 @@
 ---
 title: "Vacuum Cleaner Services"
 url: /leicester/vacuum-cleaner-services/
-shop: Staubsauger
+shop: vacuum cleaner
 ---

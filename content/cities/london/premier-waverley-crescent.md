@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /london/premier-waverley-crescent/
-shop: Lebensmittel
+shop: convenience
 ---

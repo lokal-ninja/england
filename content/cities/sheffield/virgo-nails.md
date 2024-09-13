@@ -1,5 +1,5 @@
 ---
 title: "Virgo Nails"
 url: /sheffield/virgo-nails/
-shop: Kosmetik
+shop: beauty
 ---

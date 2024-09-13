@@ -1,5 +1,5 @@
 ---
 title: "Purple Dot"
 url: /leeds/purple-dot/
-shop: Autohaus
+shop: car
 ---

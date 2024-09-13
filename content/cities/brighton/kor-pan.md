@@ -1,5 +1,5 @@
 ---
 title: "Kor-Pan"
 url: /brighton/kor-pan/
-shop: Bioladen
+shop: health food
 ---

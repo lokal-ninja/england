@@ -1,5 +1,5 @@
 ---
 title: "Holloways of London"
 url: /london/holloways-of-london/
-shop: Raumausstattung
+shop: interior decoration
 ---

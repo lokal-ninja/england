@@ -1,5 +1,5 @@
 ---
 title: "Polished"
 url: /ulverston/polished/
-shop: Kosmetik
+shop: beauty
 ---

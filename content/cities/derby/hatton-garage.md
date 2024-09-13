@@ -1,5 +1,5 @@
 ---
 title: "Hatton Garage"
 url: /derby/hatton-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

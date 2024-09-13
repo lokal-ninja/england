@@ -1,5 +1,5 @@
 ---
 title: "EE"
 url: /newcastle-upon-tyne/ee/
-shop: Handy
+shop: mobile phone
 ---

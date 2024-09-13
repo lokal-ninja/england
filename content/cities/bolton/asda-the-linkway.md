@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /bolton/asda-the-linkway/
-shop: Supermarkt
+shop: supermarket
 ---

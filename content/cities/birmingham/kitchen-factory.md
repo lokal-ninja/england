@@ -1,5 +1,5 @@
 ---
 title: "Kitchen Factory"
 url: /birmingham/kitchen-factory/
-shop: Küchen
+shop: kitchen
 ---

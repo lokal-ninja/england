@@ -1,5 +1,5 @@
 ---
 title: "Castles Furniture"
 url: /portsmouth/castles-furniture/
-shop: Möbel
+shop: furniture
 ---

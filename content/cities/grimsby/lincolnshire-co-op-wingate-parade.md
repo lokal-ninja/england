@@ -1,5 +1,5 @@
 ---
 title: "Lincolnshire Co-op"
 url: /grimsby/lincolnshire-co-op-wingate-parade/
-shop: Supermarkt
+shop: supermarket
 ---

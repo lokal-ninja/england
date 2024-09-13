@@ -1,5 +1,5 @@
 ---
 title: "Smartypants"
 url: /orpington/smartypants/
-shop: Wäscherei
+shop: laundry
 ---

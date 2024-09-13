@@ -1,5 +1,5 @@
 ---
 title: "Irchester Park Store"
 url: /wellingborough/irchester-park-store/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "EE"
 url: /cirencester/ee/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ghousia Foods"
 url: /peterborough/ghousia-foods/
-shop: Supermarkt
+shop: supermarket
 ---

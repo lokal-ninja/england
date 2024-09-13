@@ -1,5 +1,5 @@
 ---
 title: "ILvino"
 url: /bishop-auckland/ilvino/
-shop: Allgemein
+shop: shop
 ---

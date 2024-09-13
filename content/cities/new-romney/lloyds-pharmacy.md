@@ -1,5 +1,5 @@
 ---
 title: "Lloyds Pharmacy"
 url: /new-romney/lloyds-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

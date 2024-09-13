@@ -1,5 +1,5 @@
 ---
 title: "The Violin Shop"
 url: /dalton-in-furness/the-violin-shop/
-shop: Instrumente
+shop: musical instrument
 ---

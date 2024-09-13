@@ -1,5 +1,5 @@
 ---
 title: "Barnardo's"
 url: /rotherham/barnardos/
-shop: Gebrauchtwaren
+shop: charity
 ---

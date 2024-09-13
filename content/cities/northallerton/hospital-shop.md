@@ -1,5 +1,5 @@
 ---
 title: "Hospital Shop"
 url: /northallerton/hospital-shop/
-shop: Lebensmittel
+shop: convenience
 ---

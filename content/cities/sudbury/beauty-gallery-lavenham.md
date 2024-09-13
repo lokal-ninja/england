@@ -1,5 +1,5 @@
 ---
 title: "Beauty Gallery Lavenham"
 url: /sudbury/beauty-gallery-lavenham/
-shop: Kosmetik
+shop: beauty
 ---

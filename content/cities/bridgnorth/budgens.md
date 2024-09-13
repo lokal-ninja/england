@@ -1,5 +1,5 @@
 ---
 title: "Budgens"
 url: /bridgnorth/budgens/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Currys"
 url: /guildford/currys/
-shop: Elektronik
+shop: electronics
 ---

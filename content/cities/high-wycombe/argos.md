@@ -1,5 +1,5 @@
 ---
 title: "Argos"
 url: /high-wycombe/argos/
-shop: Warenhaus
+shop: department store
 ---

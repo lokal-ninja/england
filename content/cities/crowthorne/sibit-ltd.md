@@ -1,5 +1,5 @@
 ---
 title: "Sibit Ltd"
 url: /crowthorne/sibit-ltd/
-shop: Computer
+shop: computer
 ---

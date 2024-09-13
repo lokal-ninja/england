@@ -1,5 +1,5 @@
 ---
 title: "Diode"
 url: /whitstable/diode/
-shop: Handy
+shop: mobile phone
 ---

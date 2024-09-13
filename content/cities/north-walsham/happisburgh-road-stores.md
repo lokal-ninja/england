@@ -1,5 +1,5 @@
 ---
 title: "Happisburgh Road Stores"
 url: /north-walsham/happisburgh-road-stores/
-shop: Lebensmittel
+shop: convenience
 ---

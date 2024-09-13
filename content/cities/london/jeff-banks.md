@@ -1,5 +1,5 @@
 ---
 title: "Jeff Banks"
 url: /london/jeff-banks/
-shop: Schneiderei
+shop: tailor
 ---

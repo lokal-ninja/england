@@ -1,5 +1,5 @@
 ---
 title: "Vibe"
 url: /grange-over-sands/vibe/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Farmfoods"
 url: /walsall/farmfoods/
-shop: Tiefkühl
+shop: frozen food
 ---

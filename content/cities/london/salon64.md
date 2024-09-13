@@ -1,5 +1,5 @@
 ---
 title: "Salon64"
 url: /london/salon64/
-shop: Friseur
+shop: hairdresser
 ---

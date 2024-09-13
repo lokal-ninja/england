@@ -1,5 +1,5 @@
 ---
 title: "Exclusive Furniture"
 url: /london/exclusive-furniture/
-shop: Möbel
+shop: furniture
 ---

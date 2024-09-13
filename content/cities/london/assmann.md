@@ -1,5 +1,5 @@
 ---
 title: "Assmann"
 url: /london/assmann/
-shop: Möbel
+shop: furniture
 ---

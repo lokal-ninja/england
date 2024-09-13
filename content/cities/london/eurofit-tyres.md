@@ -1,5 +1,5 @@
 ---
 title: "Eurofit Tyres"
 url: /london/eurofit-tyres/
-shop: Reifen
+shop: tyres
 ---

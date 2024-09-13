@@ -1,5 +1,5 @@
 ---
 title: "Neptune Home Store"
 url: /bury-st-edmunds/neptune-home-store/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vision Express"
 url: /bristol/vision-express/
-shop: Optiker
+shop: optician
 ---

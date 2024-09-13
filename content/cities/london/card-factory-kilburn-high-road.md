@@ -1,5 +1,5 @@
 ---
 title: "Card Factory"
 url: /london/card-factory-kilburn-high-road/
-shop: Andenken
+shop: gift
 ---

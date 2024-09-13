@@ -1,5 +1,5 @@
 ---
 title: "Max Spielmann"
 url: /letchworth-garden-city/max-spielmann/
-shop: Foto
+shop: photo
 ---

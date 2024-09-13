@@ -1,5 +1,5 @@
 ---
 title: "One Stop"
 url: /buxton/one-stop/
-shop: Lebensmittel
+shop: convenience
 ---

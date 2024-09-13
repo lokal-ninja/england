@@ -1,5 +1,5 @@
 ---
 title: "Asda Express"
 url: /reading/asda-express/
-shop: Lebensmittel
+shop: convenience
 ---

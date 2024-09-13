@@ -1,5 +1,5 @@
 ---
 title: "First Class"
 url: /eastleigh/first-class/
-shop: Wäscherei
+shop: laundry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vape HQ"
 url: /nottingham/vape-hq-carlton-hill/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

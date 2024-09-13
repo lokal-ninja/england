@@ -1,5 +1,5 @@
 ---
 title: "Startin Kia Warwick"
 url: /warwick/startin-kia-warwick/
-shop: Autohaus
+shop: car
 ---

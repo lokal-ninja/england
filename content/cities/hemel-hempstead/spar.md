@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /hemel-hempstead/spar/
-shop: Lebensmittel
+shop: convenience
 ---

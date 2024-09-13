@@ -1,5 +1,5 @@
 ---
 title: "Jack Jordan"
 url: /leigh/jack-jordan/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cook"
 url: /stamford/cook/
-shop: Tiefkühl
+shop: frozen food
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La Boutique Jaune"
 url: /dorking/la-boutique-jaune/
-shop: Antiquitäten
+shop: antiques
 ---

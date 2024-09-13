@@ -1,5 +1,5 @@
 ---
 title: "Istanbul Barbers"
 url: /lancaster/istanbul-barbers/
-shop: Friseur
+shop: hairdresser
 ---

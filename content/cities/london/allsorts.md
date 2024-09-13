@@ -1,5 +1,5 @@
 ---
 title: "Allsorts"
 url: /london/allsorts/
-shop: Süßwaren
+shop: confectionery
 ---

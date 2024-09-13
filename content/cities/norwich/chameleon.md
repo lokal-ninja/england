@@ -1,5 +1,5 @@
 ---
 title: "Chameleon"
 url: /norwich/chameleon/
-shop: Tattoo
+shop: tattoo
 ---

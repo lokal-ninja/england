@@ -1,5 +1,5 @@
 ---
 title: "Feeney's Newsagents"
 url: /holt/feeneys-newsagents/
-shop: Zeitungen
+shop: newsagent
 ---

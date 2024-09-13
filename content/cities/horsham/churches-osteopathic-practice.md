@@ -1,5 +1,5 @@
 ---
 title: "Churches Osteopathic Practice"
 url: /horsham/churches-osteopathic-practice/
-shop: Massage
+shop: massage
 ---

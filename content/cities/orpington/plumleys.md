@@ -1,5 +1,5 @@
 ---
 title: "Plumleys"
 url: /orpington/plumleys/
-shop: Eisenwaren
+shop: hardware
 ---

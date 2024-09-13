@@ -1,5 +1,5 @@
 ---
 title: "JenningsBet"
 url: /luton/jenningsbet/
-shop: Wettbüro
+shop: bookmaker
 ---

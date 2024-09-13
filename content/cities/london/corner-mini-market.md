@@ -1,5 +1,5 @@
 ---
 title: "Corner Mini-Market"
 url: /london/corner-mini-market/
-shop: Lebensmittel
+shop: convenience
 ---

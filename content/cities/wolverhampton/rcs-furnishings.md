@@ -1,5 +1,5 @@
 ---
 title: "RCS Furnishings"
 url: /wolverhampton/rcs-furnishings/
-shop: Teppiche
+shop: carpet
 ---

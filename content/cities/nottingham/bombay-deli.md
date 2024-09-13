@@ -1,5 +1,5 @@
 ---
 title: "Bombay Deli"
 url: /nottingham/bombay-deli/
-shop: Süßwaren
+shop: confectionery
 ---

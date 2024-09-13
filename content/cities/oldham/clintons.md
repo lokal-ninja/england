@@ -1,5 +1,5 @@
 ---
 title: "Clintons"
 url: /oldham/clintons/
-shop: Andenken
+shop: gift
 ---

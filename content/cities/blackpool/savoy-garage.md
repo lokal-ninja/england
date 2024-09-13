@@ -1,5 +1,5 @@
 ---
 title: "Savoy Garage"
 url: /blackpool/savoy-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

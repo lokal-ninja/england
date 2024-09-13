@@ -1,5 +1,5 @@
 ---
 title: "The Vapour Room"
 url: /portsmouth/the-vapour-room/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

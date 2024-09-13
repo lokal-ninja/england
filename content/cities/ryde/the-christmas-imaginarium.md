@@ -1,5 +1,5 @@
 ---
 title: "The Christmas Imaginarium"
 url: /ryde/the-christmas-imaginarium/
-shop: Andenken
+shop: gift
 ---

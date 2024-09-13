@@ -1,5 +1,5 @@
 ---
 title: "Shaftesbury Fixings"
 url: /derby/shaftesbury-fixings/
-shop: Baumarkt
+shop: doityourself
 ---

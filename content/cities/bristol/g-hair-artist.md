@@ -1,5 +1,5 @@
 ---
 title: "G Hair Artist"
 url: /bristol/g-hair-artist/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Peter Hutchinson"
 url: /greenodd/peter-hutchinson/
-shop: Metzgerei
+shop: butcher
 ---

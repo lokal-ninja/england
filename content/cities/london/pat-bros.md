@@ -1,5 +1,5 @@
 ---
 title: "Pat Bros"
 url: /london/pat-bros/
-shop: Zeitungen
+shop: newsagent
 ---

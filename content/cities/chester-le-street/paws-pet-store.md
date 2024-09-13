@@ -1,5 +1,5 @@
 ---
 title: "Paws Pet Store"
 url: /chester-le-street/paws-pet-store/
-shop: Tiere
+shop: pet
 ---

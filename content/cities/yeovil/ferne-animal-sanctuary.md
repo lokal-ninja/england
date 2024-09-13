@@ -1,5 +1,5 @@
 ---
 title: "Ferne Animal Sanctuary"
 url: /yeovil/ferne-animal-sanctuary/
-shop: Gebrauchtwaren
+shop: charity
 ---

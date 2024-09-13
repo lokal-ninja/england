@@ -1,5 +1,5 @@
 ---
 title: "CRS electrical supplies"
 url: /london/crs-electrical-supplies/
-shop: Baumarkt
+shop: doityourself
 ---

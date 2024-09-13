@@ -1,5 +1,5 @@
 ---
 title: "Bishops Barbers"
 url: /consett/bishops-barbers/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lustrous Furniture"
 url: /sheffield/lustrous-furniture/
-shop: Möbel
+shop: furniture
 ---

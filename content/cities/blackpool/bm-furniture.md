@@ -1,5 +1,5 @@
 ---
 title: "BM Furniture"
 url: /blackpool/bm-furniture/
-shop: Möbel
+shop: furniture
 ---

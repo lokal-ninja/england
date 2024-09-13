@@ -1,5 +1,5 @@
 ---
 title: "Fur Fabulous"
 url: /bury-st-edmunds/fur-fabulous/
-shop: Tiersalon
+shop: pet grooming
 ---

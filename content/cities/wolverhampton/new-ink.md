@@ -1,5 +1,5 @@
 ---
 title: "New Ink"
 url: /wolverhampton/new-ink/
-shop: Tattoo
+shop: tattoo
 ---

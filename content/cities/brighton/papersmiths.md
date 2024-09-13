@@ -1,5 +1,5 @@
 ---
 title: "Papersmiths"
 url: /brighton/papersmiths/
-shop: Schreibwaren
+shop: office supplies
 ---

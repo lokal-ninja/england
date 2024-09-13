@@ -1,5 +1,5 @@
 ---
 title: "Kingsgate News"
 url: /huddersfield/kingsgate-news/
-shop: Kiosk
+shop: kiosk
 ---

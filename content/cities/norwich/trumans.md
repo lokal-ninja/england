@@ -1,5 +1,5 @@
 ---
 title: "Truman's"
 url: /norwich/trumans/
-shop: Friseur
+shop: hairdresser
 ---

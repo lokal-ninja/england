@@ -1,5 +1,5 @@
 ---
 title: "Belmont Motors"
 url: /manningtree/belmont-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

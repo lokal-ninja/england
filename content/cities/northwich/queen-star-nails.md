@@ -1,5 +1,5 @@
 ---
 title: "Queen Star Nails"
 url: /northwich/queen-star-nails/
-shop: Kosmetik
+shop: beauty
 ---

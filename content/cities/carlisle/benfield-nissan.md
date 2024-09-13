@@ -1,5 +1,5 @@
 ---
 title: "Benfield Nissan"
 url: /carlisle/benfield-nissan/
-shop: Autohaus
+shop: car
 ---

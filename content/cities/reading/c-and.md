@@ -1,5 +1,5 @@
 ---
 title: "C and $"
 url: /reading/c-and/
-shop: Kleidung
+shop: clothes
 ---

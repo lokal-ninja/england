@@ -1,5 +1,5 @@
 ---
 title: "JD Sports"
 url: /nottingham/jd-sports/
-shop: Sport
+shop: sports
 ---

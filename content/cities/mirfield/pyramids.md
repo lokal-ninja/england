@@ -1,5 +1,5 @@
 ---
 title: "Pyramids"
 url: /mirfield/pyramids/
-shop: Friseur
+shop: hairdresser
 ---

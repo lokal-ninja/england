@@ -1,5 +1,5 @@
 ---
 title: "Urban Sanctuary"
 url: /lincoln/urban-sanctuary/
-shop: Friseur
+shop: hairdresser
 ---

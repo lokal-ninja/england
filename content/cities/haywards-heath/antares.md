@@ -1,5 +1,5 @@
 ---
 title: "Antares"
 url: /haywards-heath/antares/
-shop: Teppiche
+shop: carpet
 ---

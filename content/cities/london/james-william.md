@@ -1,5 +1,5 @@
 ---
 title: "James William"
 url: /london/james-william/
-shop: Immobilien
+shop: estate agent
 ---

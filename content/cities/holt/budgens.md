@@ -1,5 +1,5 @@
 ---
 title: "Budgens"
 url: /holt/budgens/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Emmett Enterprises"
 url: /stockport/emmett-enterprises/
-shop: Allgemein
+shop: shop
 ---

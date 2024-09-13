@@ -1,5 +1,5 @@
 ---
 title: "Vino"
 url: /birmingham/vino/
-shop: Spirituosen
+shop: alcohol
 ---

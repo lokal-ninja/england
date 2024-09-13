@@ -1,5 +1,5 @@
 ---
 title: "Just Car Clinic"
 url: /ilkeston/just-car-clinic/
-shop: Autowerkstatt
+shop: car repair
 ---

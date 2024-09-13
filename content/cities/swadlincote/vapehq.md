@@ -1,5 +1,5 @@
 ---
 title: "VapeHQ"
 url: /swadlincote/vapehq/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

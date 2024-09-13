@@ -1,5 +1,5 @@
 ---
 title: "Mountbatten Hospice"
 url: /bembridge/mountbatten-hospice/
-shop: Gebrauchtwaren
+shop: charity
 ---

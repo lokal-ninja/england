@@ -1,5 +1,5 @@
 ---
 title: "Glamtan"
 url: /penrith/glamtan/
-shop: Kosmetik
+shop: beauty
 ---

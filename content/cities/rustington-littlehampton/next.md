@@ -1,5 +1,5 @@
 ---
 title: "Next"
 url: /rustington-littlehampton/next/
-shop: Kleidung
+shop: clothes
 ---

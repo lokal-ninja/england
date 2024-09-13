@@ -1,5 +1,5 @@
 ---
 title: "Old Town Barbers"
 url: /berkeley/old-town-barbers/
-shop: Friseur
+shop: hairdresser
 ---

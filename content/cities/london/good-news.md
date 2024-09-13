@@ -1,5 +1,5 @@
 ---
 title: "Good News"
 url: /london/good-news/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Regatta"
 url: /ipswich/regatta/
-shop: Möbel
+shop: furniture
 ---

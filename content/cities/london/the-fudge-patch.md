@@ -1,5 +1,5 @@
 ---
 title: "The Fudge Patch"
 url: /london/the-fudge-patch/
-shop: Süßwaren
+shop: confectionery
 ---

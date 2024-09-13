@@ -1,5 +1,5 @@
 ---
 title: "UK Barber Shops"
 url: /pershore/uk-barber-shops/
-shop: Friseur
+shop: hairdresser
 ---

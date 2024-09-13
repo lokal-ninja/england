@@ -1,5 +1,5 @@
 ---
 title: "London Cycle Workshop"
 url: /london/london-cycle-workshop/
-shop: Fahrrad
+shop: bicycle
 ---

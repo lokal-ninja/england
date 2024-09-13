@@ -1,5 +1,5 @@
 ---
 title: "Smyths"
 url: /derby/smyths/
-shop: Spielzeug
+shop: toys
 ---

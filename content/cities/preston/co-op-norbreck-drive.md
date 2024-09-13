@@ -1,5 +1,5 @@
 ---
 title: "Co-op"
 url: /preston/co-op-norbreck-drive/
-shop: Lebensmittel
+shop: convenience
 ---

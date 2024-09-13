@@ -1,5 +1,5 @@
 ---
 title: "Bucks"
 url: /north-walsham/bucks/
-shop: Friseur
+shop: hairdresser
 ---

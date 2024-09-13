@@ -1,5 +1,5 @@
 ---
 title: "Bonmarché"
 url: /weymouth/bonmarche/
-shop: Kleidung
+shop: clothes
 ---

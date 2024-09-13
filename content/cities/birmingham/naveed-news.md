@@ -1,5 +1,5 @@
 ---
 title: "Naveed News"
 url: /birmingham/naveed-news/
-shop: Zeitungen
+shop: newsagent
 ---

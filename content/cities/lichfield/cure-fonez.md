@@ -1,5 +1,5 @@
 ---
 title: "Cure Fonez"
 url: /lichfield/cure-fonez/
-shop: Handy
+shop: mobile phone
 ---

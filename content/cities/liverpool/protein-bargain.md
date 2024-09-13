@@ -1,5 +1,5 @@
 ---
 title: "Protein Bargain"
 url: /liverpool/protein-bargain/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

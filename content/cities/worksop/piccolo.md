@@ -1,5 +1,5 @@
 ---
 title: "Piccolo"
 url: /worksop/piccolo/
-shop: Kaffee
+shop: coffee
 ---

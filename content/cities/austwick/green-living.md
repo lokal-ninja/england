@@ -1,5 +1,5 @@
 ---
 title: "Green Living"
 url: /austwick/green-living/
-shop: Dorfladen
+shop: general
 ---

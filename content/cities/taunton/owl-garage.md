@@ -1,5 +1,5 @@
 ---
 title: "Owl Garage"
 url: /taunton/owl-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

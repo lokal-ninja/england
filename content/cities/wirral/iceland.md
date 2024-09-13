@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /wirral/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

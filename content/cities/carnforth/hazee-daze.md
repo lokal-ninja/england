@@ -1,5 +1,5 @@
 ---
 title: "Hazee Daze"
 url: /carnforth/hazee-daze/
-shop: Kosmetik
+shop: beauty
 ---

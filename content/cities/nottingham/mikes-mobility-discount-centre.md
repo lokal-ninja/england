@@ -1,5 +1,5 @@
 ---
 title: "Mikes Mobility Discount Centre"
 url: /nottingham/mikes-mobility-discount-centre/
-shop: Sanitätshaus
+shop: medical supply
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Eve St. Clair"
 url: /sudbury/eve-st-clair/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Brasileiro"
 url: /london/brasileiro/
-shop: Lebensmittel
+shop: convenience
 ---

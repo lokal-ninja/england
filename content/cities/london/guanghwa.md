@@ -1,5 +1,5 @@
 ---
 title: "Guanghwa"
 url: /london/guanghwa/
-shop: Bücher
+shop: books
 ---

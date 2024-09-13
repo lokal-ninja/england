@@ -1,5 +1,5 @@
 ---
 title: "Secrets"
 url: /fakenham/secrets/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Farmfoods"
 url: /torquay/farmfoods/
-shop: Tiefkühl
+shop: frozen food
 ---

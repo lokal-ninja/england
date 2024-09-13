@@ -1,5 +1,5 @@
 ---
 title: "Kwik-fit"
 url: /blackpool/kwik-fit/
-shop: Autowerkstatt
+shop: car repair
 ---

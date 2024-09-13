@@ -1,5 +1,5 @@
 ---
 title: "Second Nature"
 url: /london/second-nature/
-shop: Allgemein
+shop: shop
 ---

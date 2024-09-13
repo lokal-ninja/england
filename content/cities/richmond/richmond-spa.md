@@ -1,5 +1,5 @@
 ---
 title: "Richmond Spa"
 url: /richmond/richmond-spa/
-shop: Kosmetik
+shop: beauty
 ---

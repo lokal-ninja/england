@@ -1,5 +1,5 @@
 ---
 title: "Nailscape"
 url: /london/nailscape/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Re-Source"
 url: /burford/re-source/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "All Square Fooring"
 url: /newmarket/all-square-fooring/
-shop: Fußböden
+shop: flooring
 ---

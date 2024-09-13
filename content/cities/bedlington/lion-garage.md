@@ -1,5 +1,5 @@
 ---
 title: "Lion Garage"
 url: /bedlington/lion-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

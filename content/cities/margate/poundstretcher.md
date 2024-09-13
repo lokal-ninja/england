@@ -1,5 +1,5 @@
 ---
 title: "Poundstretcher"
 url: /margate/poundstretcher/
-shop: Kramladen
+shop: variety store
 ---

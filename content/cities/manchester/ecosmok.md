@@ -1,5 +1,5 @@
 ---
 title: "Ecosmok"
 url: /manchester/ecosmok/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

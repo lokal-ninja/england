@@ -1,5 +1,5 @@
 ---
 title: "Prince Cuts"
 url: /rotherham/prince-cuts/
-shop: Friseur
+shop: hairdresser
 ---

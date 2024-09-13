@@ -1,5 +1,5 @@
 ---
 title: "Trespass"
 url: /taunton/trespass/
-shop: Outdoor
+shop: outdoor
 ---

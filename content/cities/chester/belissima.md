@@ -1,5 +1,5 @@
 ---
 title: "Belíssima"
 url: /chester/belissima/
-shop: Friseur
+shop: hairdresser
 ---

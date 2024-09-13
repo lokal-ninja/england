@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /oxford/betfred/
-shop: Wettbüro
+shop: bookmaker
 ---

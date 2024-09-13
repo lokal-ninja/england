@@ -1,5 +1,5 @@
 ---
 title: "Your Local"
 url: /castleford/your-local/
-shop: Lebensmittel
+shop: convenience
 ---

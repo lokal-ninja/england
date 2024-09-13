@@ -1,5 +1,5 @@
 ---
 title: "Ericas"
 url: /windermere/ericas/
-shop: Friseur
+shop: hairdresser
 ---

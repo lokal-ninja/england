@@ -1,5 +1,5 @@
 ---
 title: "The Menders"
 url: /crewkerne/the-menders/
-shop: Allgemein
+shop: shop
 ---

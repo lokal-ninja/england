@@ -1,5 +1,5 @@
 ---
 title: "The Boutique"
 url: /attleborough/the-boutique/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /broadstairs/poundland/
-shop: Kramladen
+shop: variety store
 ---

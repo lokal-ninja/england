@@ -1,5 +1,5 @@
 ---
 title: "Hillcrest"
 url: /bury-st-edmunds/hillcrest/
-shop: Garten-Center
+shop: garden centre
 ---

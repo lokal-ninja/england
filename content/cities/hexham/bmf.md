@@ -1,5 +1,5 @@
 ---
 title: "BMF"
 url: /hexham/bmf/
-shop: Autoteile
+shop: car parts
 ---

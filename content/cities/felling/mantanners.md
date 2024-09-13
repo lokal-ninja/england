@@ -1,5 +1,5 @@
 ---
 title: "Mantanners"
 url: /felling/mantanners/
-shop: Kosmetik
+shop: beauty
 ---

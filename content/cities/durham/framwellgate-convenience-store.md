@@ -1,5 +1,5 @@
 ---
 title: "Framwellgate Convenience Store"
 url: /durham/framwellgate-convenience-store/
-shop: Lebensmittel
+shop: convenience
 ---

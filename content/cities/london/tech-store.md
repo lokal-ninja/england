@@ -1,5 +1,5 @@
 ---
 title: "Tech Store"
 url: /london/tech-store/
-shop: Computer
+shop: computer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /london/betfred-grove-road/
-shop: Wettbüro
+shop: bookmaker
 ---

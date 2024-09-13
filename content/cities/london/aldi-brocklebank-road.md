@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /london/aldi-brocklebank-road/
-shop: Supermarkt
+shop: supermarket
 ---

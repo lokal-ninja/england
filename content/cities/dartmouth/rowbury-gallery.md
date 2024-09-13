@@ -1,5 +1,5 @@
 ---
 title: "Rowbury Gallery"
 url: /dartmouth/rowbury-gallery/
-shop: Kunst
+shop: art
 ---

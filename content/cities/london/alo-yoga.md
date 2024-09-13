@@ -1,5 +1,5 @@
 ---
 title: "Alo Yoga"
 url: /london/alo-yoga/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Plymouth Marine Centre"
 url: /plymouth/plymouth-marine-centre/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Millennium Body Shop"
 url: /skipton/millennium-body-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

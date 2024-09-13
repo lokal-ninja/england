@@ -1,5 +1,5 @@
 ---
 title: "Divers Down"
 url: /swanage/divers-down/
-shop: Tauchen
+shop: diving
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Antoinettes"
 url: /bristol/antoinettes/
-shop: Schneiderei
+shop: tailor
 ---

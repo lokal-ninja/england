@@ -1,5 +1,5 @@
 ---
 title: "Military Emporium"
 url: /kettering/military-emporium/
-shop: Kramladen
+shop: variety store
 ---

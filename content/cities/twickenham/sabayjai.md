@@ -1,5 +1,5 @@
 ---
 title: "Sabayjai"
 url: /twickenham/sabayjai/
-shop: Massage
+shop: massage
 ---

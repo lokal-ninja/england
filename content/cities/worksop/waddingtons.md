@@ -1,5 +1,5 @@
 ---
 title: "Waddingtons"
 url: /worksop/waddingtons/
-shop: Kleidung
+shop: clothes
 ---

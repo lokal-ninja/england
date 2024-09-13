@@ -1,5 +1,5 @@
 ---
 title: "Johnsons Fiat Swindon"
 url: /swindon/johnsons-fiat-swindon/
-shop: Autohaus
+shop: car
 ---

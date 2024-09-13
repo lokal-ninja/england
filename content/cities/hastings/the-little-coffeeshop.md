@@ -1,5 +1,5 @@
 ---
 title: "The Little Coffeeshop"
 url: /hastings/the-little-coffeeshop/
-shop: Kaffee
+shop: coffee
 ---

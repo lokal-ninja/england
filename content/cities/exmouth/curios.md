@@ -1,5 +1,5 @@
 ---
 title: "Curios"
 url: /exmouth/curios/
-shop: Gebrauchtwaren
+shop: charity
 ---

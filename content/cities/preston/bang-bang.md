@@ -1,5 +1,5 @@
 ---
 title: "Bang Bang"
 url: /preston/bang-bang/
-shop: Kleidung
+shop: clothes
 ---

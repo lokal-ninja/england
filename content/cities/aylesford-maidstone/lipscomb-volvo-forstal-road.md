@@ -1,5 +1,5 @@
 ---
 title: "Lipscomb Volvo"
 url: /aylesford-maidstone/lipscomb-volvo-forstal-road/
-shop: Autohaus
+shop: car
 ---

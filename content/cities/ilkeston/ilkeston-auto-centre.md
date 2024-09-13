@@ -1,5 +1,5 @@
 ---
 title: "Ilkeston Auto Centre"
 url: /ilkeston/ilkeston-auto-centre/
-shop: Autowerkstatt
+shop: car repair
 ---

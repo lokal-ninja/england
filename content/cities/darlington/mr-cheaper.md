@@ -1,5 +1,5 @@
 ---
 title: "Mr Cheaper"
 url: /darlington/mr-cheaper/
-shop: Lebensmittel
+shop: convenience
 ---

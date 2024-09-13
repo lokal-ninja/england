@@ -1,5 +1,5 @@
 ---
 title: "Firstcall MOT"
 url: /exeter/firstcall-mot/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Stay Sharp"
 url: /horsham/stay-sharp/
-shop: Friseur
+shop: hairdresser
 ---

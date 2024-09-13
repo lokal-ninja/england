@@ -1,5 +1,5 @@
 ---
 title: "Scope"
 url: /leamington-spa/scope/
-shop: Gebrauchtwaren
+shop: charity
 ---

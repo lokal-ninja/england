@@ -1,5 +1,5 @@
 ---
 title: "The Stow Jewellers"
 url: /cheltenham/the-stow-jewellers/
-shop: Schmuck
+shop: jewelry
 ---

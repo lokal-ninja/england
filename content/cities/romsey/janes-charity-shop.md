@@ -1,5 +1,5 @@
 ---
 title: "Jane's Charity Shop"
 url: /romsey/janes-charity-shop/
-shop: Gebrauchtwaren
+shop: charity
 ---

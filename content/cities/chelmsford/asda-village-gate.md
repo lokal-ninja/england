@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /chelmsford/asda-village-gate/
-shop: Supermarkt
+shop: supermarket
 ---

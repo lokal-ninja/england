@@ -1,5 +1,5 @@
 ---
 title: "Majrona Karparts"
 url: /blackburn/majrona-karparts/
-shop: Autoteile
+shop: car parts
 ---

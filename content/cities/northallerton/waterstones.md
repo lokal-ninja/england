@@ -1,5 +1,5 @@
 ---
 title: "Waterstones"
 url: /northallerton/waterstones/
-shop: Bücher
+shop: books
 ---

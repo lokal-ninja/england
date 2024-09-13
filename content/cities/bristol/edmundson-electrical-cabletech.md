@@ -1,5 +1,5 @@
 ---
 title: "Edmundson Electrical Cabletech"
 url: /bristol/edmundson-electrical-cabletech/
-shop: Elektronik
+shop: electronics
 ---

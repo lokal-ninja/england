@@ -1,5 +1,5 @@
 ---
 title: "Lok'nStore"
 url: /leicester/loknstore/
-shop: Mieten
+shop: storage rental
 ---

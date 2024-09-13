@@ -1,5 +1,5 @@
 ---
 title: "Timpson"
 url: /addlestone/timpson/
-shop: Wäscherei
+shop: laundry
 ---

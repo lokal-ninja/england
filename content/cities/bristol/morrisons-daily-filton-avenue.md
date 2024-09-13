@@ -1,5 +1,5 @@
 ---
 title: "Morrisons Daily"
 url: /bristol/morrisons-daily-filton-avenue/
-shop: Lebensmittel
+shop: convenience
 ---

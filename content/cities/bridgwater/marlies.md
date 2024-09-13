@@ -1,5 +1,5 @@
 ---
 title: "Marlies"
 url: /bridgwater/marlies/
-shop: Friseur
+shop: hairdresser
 ---

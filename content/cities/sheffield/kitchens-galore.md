@@ -1,5 +1,5 @@
 ---
 title: "Kitchens Galore"
 url: /sheffield/kitchens-galore/
-shop: Küchen
+shop: kitchen
 ---

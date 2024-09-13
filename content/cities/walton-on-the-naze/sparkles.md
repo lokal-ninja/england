@@ -1,5 +1,5 @@
 ---
 title: "Sparkles"
 url: /walton-on-the-naze/sparkles/
-shop: Andenken
+shop: gift
 ---

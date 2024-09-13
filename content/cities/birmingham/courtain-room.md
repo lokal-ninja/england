@@ -1,5 +1,5 @@
 ---
 title: "Courtain Room"
 url: /birmingham/courtain-room/
-shop: Gardinen
+shop: curtain
 ---

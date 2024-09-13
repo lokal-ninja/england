@@ -1,5 +1,5 @@
 ---
 title: "Faces"
 url: /ventnor/faces/
-shop: Kosmetik
+shop: beauty
 ---

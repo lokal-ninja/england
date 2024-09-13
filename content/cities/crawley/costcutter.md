@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /crawley/costcutter/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Watch Doctor"
 url: /crewe-cheshire/watch-doctor/
-shop: Uhren
+shop: watches
 ---

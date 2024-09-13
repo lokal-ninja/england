@@ -1,5 +1,5 @@
 ---
 title: "Nisa Local"
 url: /pontefract/nisa-local-priory-road/
-shop: Lebensmittel
+shop: convenience
 ---

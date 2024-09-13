@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /sheffield/poundland-kilner-way/
-shop: Kramladen
+shop: variety store
 ---

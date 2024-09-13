@@ -1,5 +1,5 @@
 ---
 title: "Sanabel"
 url: /london/sanabel/
-shop: Bäckerei
+shop: bakery
 ---

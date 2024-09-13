@@ -1,5 +1,5 @@
 ---
 title: "Jones Motors Stockpor"
 url: /stockport/jones-motors-stockpor/
-shop: Autowerkstatt
+shop: car repair
 ---

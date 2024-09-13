@@ -1,5 +1,5 @@
 ---
 title: "Moonstruck"
 url: /cirencester/moonstruck/
-shop: Raumausstattung
+shop: interior decoration
 ---

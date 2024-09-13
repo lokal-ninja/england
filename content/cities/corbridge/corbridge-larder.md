@@ -1,5 +1,5 @@
 ---
 title: "Corbridge Larder"
 url: /corbridge/corbridge-larder/
-shop: Feinkost
+shop: deli
 ---

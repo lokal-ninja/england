@@ -1,5 +1,5 @@
 ---
 title: "Polskie Delikatesy"
 url: /leeds/polskie-delikatesy/
-shop: Lebensmittel
+shop: convenience
 ---

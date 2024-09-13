@@ -1,5 +1,5 @@
 ---
 title: "Tolo"
 url: /manchester/tolo/
-shop: Großhandel
+shop: wholesale
 ---

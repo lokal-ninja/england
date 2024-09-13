@@ -1,5 +1,5 @@
 ---
 title: "British Heart Foundation"
 url: /swindon/british-heart-foundation/
-shop: Gebrauchtwaren
+shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fornos Delicatessen"
 url: /london/fornos-delicatessen/
-shop: Feinkost
+shop: deli
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Obsidian Ink"
 url: /bishops-stortford/obsidian-ink/
-shop: Tattoo
+shop: tattoo
 ---

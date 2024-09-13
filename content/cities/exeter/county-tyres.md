@@ -1,5 +1,5 @@
 ---
 title: "County Tyres"
 url: /exeter/county-tyres/
-shop: Autowerkstatt
+shop: car repair
 ---

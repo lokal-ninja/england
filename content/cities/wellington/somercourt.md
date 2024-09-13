@@ -1,5 +1,5 @@
 ---
 title: "Somercourt"
 url: /wellington/somercourt/
-shop: Baustoffe
+shop: trade
 ---

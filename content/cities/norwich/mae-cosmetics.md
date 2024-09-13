@@ -1,5 +1,5 @@
 ---
 title: "Mae Cosmetics"
 url: /norwich/mae-cosmetics/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Molton Brown"
 url: /ellesmere-port/molton-brown/
-shop: Allgemein
+shop: shop
 ---

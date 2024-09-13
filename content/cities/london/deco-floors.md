@@ -1,5 +1,5 @@
 ---
 title: "Deco Floors"
 url: /london/deco-floors/
-shop: Teppiche
+shop: carpet
 ---

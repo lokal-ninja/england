@@ -1,5 +1,5 @@
 ---
 title: "Evening Mail"
 url: /birmingham/evening-mail/
-shop: Lebensmittel
+shop: convenience
 ---

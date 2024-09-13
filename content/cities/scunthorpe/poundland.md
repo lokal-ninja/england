@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /scunthorpe/poundland/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aryian Mini Market"
 url: /eastbourne/aryian-mini-market/
-shop: Lebensmittel
+shop: convenience
 ---

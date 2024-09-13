@@ -1,5 +1,5 @@
 ---
 title: "Mystique Tanning"
 url: /orpington/mystique-tanning/
-shop: Kosmetik
+shop: beauty
 ---

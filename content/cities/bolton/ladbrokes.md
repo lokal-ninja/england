@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /bolton/ladbrokes/
-shop: Wettbüro
+shop: bookmaker
 ---

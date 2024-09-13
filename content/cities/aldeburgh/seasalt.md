@@ -1,5 +1,5 @@
 ---
 title: "Seasalt"
 url: /aldeburgh/seasalt/
-shop: Kleidung
+shop: clothes
 ---

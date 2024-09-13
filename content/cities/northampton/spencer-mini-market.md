@@ -1,5 +1,5 @@
 ---
 title: "Spencer Mini Market"
 url: /northampton/spencer-mini-market/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Zoe's"
 url: /colchester/zoes/
-shop: Kosmetik
+shop: beauty
 ---

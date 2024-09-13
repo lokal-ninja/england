@@ -1,5 +1,5 @@
 ---
 title: "Carnforth Models"
 url: /carnforth/carnforth-models/
-shop: Modellbau
+shop: model
 ---

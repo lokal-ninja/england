@@ -1,5 +1,5 @@
 ---
 title: "Fashion Wheel"
 url: /sheringham/fashion-wheel/
-shop: Kleidung
+shop: clothes
 ---

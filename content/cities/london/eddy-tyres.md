@@ -1,5 +1,5 @@
 ---
 title: "Eddy Tyres"
 url: /london/eddy-tyres/
-shop: Reifen
+shop: tyres
 ---

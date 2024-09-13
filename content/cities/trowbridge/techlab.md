@@ -1,5 +1,5 @@
 ---
 title: "Techlab"
 url: /trowbridge/techlab/
-shop: Handy
+shop: mobile phone
 ---

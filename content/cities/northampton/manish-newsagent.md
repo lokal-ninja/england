@@ -1,5 +1,5 @@
 ---
 title: "Manish Newsagent"
 url: /northampton/manish-newsagent/
-shop: Lebensmittel
+shop: convenience
 ---

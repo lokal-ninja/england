@@ -1,5 +1,5 @@
 ---
 title: "Unique Beauty"
 url: /letchworth-garden-city/unique-beauty/
-shop: Kosmetik
+shop: beauty
 ---

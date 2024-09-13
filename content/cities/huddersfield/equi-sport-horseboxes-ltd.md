@@ -1,5 +1,5 @@
 ---
 title: "Equi-Sport Horseboxes Ltd"
 url: /huddersfield/equi-sport-horseboxes-ltd/
-shop: Allgemein
+shop: shop
 ---

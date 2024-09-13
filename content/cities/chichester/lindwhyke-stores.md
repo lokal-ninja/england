@@ -1,5 +1,5 @@
 ---
 title: "Lindwhyke Stores"
 url: /chichester/lindwhyke-stores/
-shop: Lebensmittel
+shop: convenience
 ---

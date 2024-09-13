@@ -1,5 +1,5 @@
 ---
 title: "Parlour"
 url: /ripley/parlour/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dressed by Dee"
 url: /west-malling/dressed-by-dee/
-shop: Kleidung
+shop: clothes
 ---

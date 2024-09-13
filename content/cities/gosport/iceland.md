@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /gosport/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

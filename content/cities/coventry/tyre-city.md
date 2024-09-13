@@ -1,5 +1,5 @@
 ---
 title: "Tyre City"
 url: /coventry/tyre-city/
-shop: Reifen
+shop: tyres
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Poundbakery"
 url: /skelmersdale/poundbakery/
-shop: Bäckerei
+shop: bakery
 ---

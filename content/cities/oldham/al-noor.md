@@ -1,5 +1,5 @@
 ---
 title: "Al Noor"
 url: /oldham/al-noor/
-shop: Kleidung
+shop: clothes
 ---

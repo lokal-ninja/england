@@ -1,5 +1,5 @@
 ---
 title: "JCB"
 url: /northfleet/jcb/
-shop: Autohaus
+shop: car
 ---

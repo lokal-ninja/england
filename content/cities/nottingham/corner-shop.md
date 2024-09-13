@@ -1,5 +1,5 @@
 ---
 title: "Corner Shop"
 url: /nottingham/corner-shop/
-shop: Spirituosen
+shop: alcohol
 ---

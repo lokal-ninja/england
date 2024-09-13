@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /congleton/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

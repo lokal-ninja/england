@@ -1,5 +1,5 @@
 ---
 title: "Kheras Store"
 url: /nottingham/kheras-store/
-shop: Lebensmittel
+shop: convenience
 ---

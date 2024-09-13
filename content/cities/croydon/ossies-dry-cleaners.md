@@ -1,5 +1,5 @@
 ---
 title: "Ossie's Dry Cleaners"
 url: /croydon/ossies-dry-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

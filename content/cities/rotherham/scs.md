@@ -1,5 +1,5 @@
 ---
 title: "ScS"
 url: /rotherham/scs/
-shop: Möbel
+shop: furniture
 ---

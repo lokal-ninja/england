@@ -1,5 +1,5 @@
 ---
 title: "Waterstones"
 url: /burton-on-trent/waterstones/
-shop: Bücher
+shop: books
 ---

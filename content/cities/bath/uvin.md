@@ -1,5 +1,5 @@
 ---
 title: "Uvin"
 url: /bath/uvin/
-shop: Lebensmittel
+shop: convenience
 ---

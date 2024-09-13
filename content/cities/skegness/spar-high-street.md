@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /skegness/spar-high-street/
-shop: Lebensmittel
+shop: convenience
 ---

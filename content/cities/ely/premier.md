@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /ely/premier/
-shop: Reisebüro
+shop: travel agency
 ---

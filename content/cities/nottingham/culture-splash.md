@@ -1,5 +1,5 @@
 ---
 title: "Culture Splash"
 url: /nottingham/culture-splash/
-shop: Friseur
+shop: hairdresser
 ---

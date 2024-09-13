@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /wallsend/asda/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Green Lane Garage"
 url: /bristol/green-lane-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

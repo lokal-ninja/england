@@ -1,5 +1,5 @@
 ---
 title: "Screwfix"
 url: /segensworth-fareham/screwfix/
-shop: Baumarkt
+shop: doityourself
 ---

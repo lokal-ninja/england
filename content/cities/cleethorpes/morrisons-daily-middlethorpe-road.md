@@ -1,5 +1,5 @@
 ---
 title: "Morrisons Daily"
 url: /cleethorpes/morrisons-daily-middlethorpe-road/
-shop: Lebensmittel
+shop: convenience
 ---

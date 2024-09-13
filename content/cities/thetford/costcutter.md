@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /thetford/costcutter/
-shop: Lebensmittel
+shop: convenience
 ---

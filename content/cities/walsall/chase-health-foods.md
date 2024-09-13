@@ -1,5 +1,5 @@
 ---
 title: "Chase Health Foods"
 url: /walsall/chase-health-foods/
-shop: Bioladen
+shop: health food
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Plymouth Alterations"
 url: /plymouth/plymouth-alterations/
-shop: Schneiderei
+shop: tailor
 ---

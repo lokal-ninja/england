@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /burntwood/spar/
-shop: Lebensmittel
+shop: convenience
 ---

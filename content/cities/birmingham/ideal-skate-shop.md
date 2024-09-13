@@ -1,5 +1,5 @@
 ---
 title: "Ideal Skate Shop"
 url: /birmingham/ideal-skate-shop/
-shop: Allgemein
+shop: shop
 ---

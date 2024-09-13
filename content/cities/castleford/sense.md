@@ -1,5 +1,5 @@
 ---
 title: "Sense"
 url: /castleford/sense/
-shop: Gebrauchtwaren
+shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Halfords"
 url: /cheltenham/halfords/
-shop: Autoteile
+shop: car parts
 ---

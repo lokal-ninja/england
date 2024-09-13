@@ -1,5 +1,5 @@
 ---
 title: "Crisis"
 url: /london/crisis/
-shop: Gebrauchtwaren
+shop: charity
 ---

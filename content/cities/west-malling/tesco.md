@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /west-malling/tesco/
-shop: Supermarkt
+shop: supermarket
 ---

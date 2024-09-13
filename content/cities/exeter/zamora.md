@@ -1,5 +1,5 @@
 ---
 title: "Zamora"
 url: /exeter/zamora/
-shop: Kosmetik
+shop: beauty
 ---

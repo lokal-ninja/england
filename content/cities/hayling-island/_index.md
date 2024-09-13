@@ -1,6 +1,6 @@
 ---
 title: Hayling Island
 url: /hayling-island/
-latitude: 50.794
-longitude: -0.976
+latitude: 50.791
+longitude: -0.99
 ---

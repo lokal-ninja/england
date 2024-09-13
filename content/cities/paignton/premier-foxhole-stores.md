@@ -1,5 +1,5 @@
 ---
 title: "Premier - Foxhole Stores"
 url: /paignton/premier-foxhole-stores/
-shop: Lebensmittel
+shop: convenience
 ---

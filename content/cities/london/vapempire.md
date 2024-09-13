@@ -1,5 +1,5 @@
 ---
 title: "Vapempire"
 url: /london/vapempire/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

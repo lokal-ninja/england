@@ -1,5 +1,5 @@
 ---
 title: "Hushound"
 url: /richmond/hushound/
-shop: Tiere
+shop: pet
 ---

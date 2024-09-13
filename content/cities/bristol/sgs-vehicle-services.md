@@ -1,5 +1,5 @@
 ---
 title: "SGS Vehicle Services"
 url: /bristol/sgs-vehicle-services/
-shop: Autowerkstatt
+shop: car repair
 ---

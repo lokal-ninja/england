@@ -1,5 +1,5 @@
 ---
 title: "Ryhill Village Store"
 url: /wakefield/ryhill-village-store/
-shop: Lebensmittel
+shop: convenience
 ---

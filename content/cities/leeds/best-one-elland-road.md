@@ -1,5 +1,5 @@
 ---
 title: "Best-one"
 url: /leeds/best-one-elland-road/
-shop: Lebensmittel
+shop: convenience
 ---

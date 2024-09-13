@@ -1,5 +1,5 @@
 ---
 title: "Lamoi"
 url: /woodbridge/lamoi/
-shop: Kleidung
+shop: clothes
 ---

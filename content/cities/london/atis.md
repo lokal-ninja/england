@@ -1,5 +1,5 @@
 ---
 title: "Atis"
 url: /london/atis/
-shop: Bioladen
+shop: health food
 ---

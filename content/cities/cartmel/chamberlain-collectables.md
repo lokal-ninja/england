@@ -1,5 +1,5 @@
 ---
 title: "Chamberlain Collectables"
 url: /cartmel/chamberlain-collectables/
-shop: Andenken
+shop: gift
 ---

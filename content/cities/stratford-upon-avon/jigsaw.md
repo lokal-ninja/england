@@ -1,5 +1,5 @@
 ---
 title: "Jigsaw"
 url: /stratford-upon-avon/jigsaw/
-shop: Kleidung
+shop: clothes
 ---

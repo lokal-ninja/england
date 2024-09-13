@@ -1,5 +1,5 @@
 ---
 title: "Convenience Corner"
 url: /brighton/convenience-corner/
-shop: Lebensmittel
+shop: convenience
 ---

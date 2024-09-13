@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /yarm/spar/
-shop: Lebensmittel
+shop: convenience
 ---

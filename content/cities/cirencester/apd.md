@@ -1,5 +1,5 @@
 ---
 title: "APD"
 url: /cirencester/apd/
-shop: Autoteile
+shop: car parts
 ---

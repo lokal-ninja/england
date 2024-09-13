@@ -1,5 +1,5 @@
 ---
 title: "Argos"
 url: /reading/argos/
-shop: Katalog
+shop: catalogue
 ---

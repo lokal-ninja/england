@@ -1,5 +1,5 @@
 ---
 title: "Poundstretcher"
 url: /leeds/poundstretcher-stile-hill-way/
-shop: Kramladen
+shop: variety store
 ---

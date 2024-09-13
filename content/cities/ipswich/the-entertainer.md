@@ -1,5 +1,5 @@
 ---
 title: "The Entertainer"
 url: /ipswich/the-entertainer/
-shop: Spielzeug
+shop: toys
 ---

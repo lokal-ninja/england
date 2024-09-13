@@ -1,5 +1,5 @@
 ---
 title: "Horsham Computer Centre"
 url: /horsham/horsham-computer-centre/
-shop: Computer
+shop: computer
 ---

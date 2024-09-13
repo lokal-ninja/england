@@ -1,5 +1,5 @@
 ---
 title: "Macsalvors"
 url: /pool-redruth/macsalvors-agar-road/
-shop: Eisenwaren
+shop: hardware
 ---

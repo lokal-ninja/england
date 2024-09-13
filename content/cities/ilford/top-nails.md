@@ -1,5 +1,5 @@
 ---
 title: "Top Nails"
 url: /ilford/top-nails/
-shop: Kosmetik
+shop: beauty
 ---

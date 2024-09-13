@@ -1,5 +1,5 @@
 ---
 title: "Andrew Earles"
 url: /brough/andrew-earles/
-shop: Reisebüro
+shop: travel agency
 ---

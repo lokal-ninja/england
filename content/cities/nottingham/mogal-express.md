@@ -1,5 +1,5 @@
 ---
 title: "Mogal Express"
 url: /nottingham/mogal-express/
-shop: Lebensmittel
+shop: convenience
 ---

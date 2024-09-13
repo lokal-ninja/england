@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /london/tesco-express-walworth-road/
-shop: Lebensmittel
+shop: convenience
 ---

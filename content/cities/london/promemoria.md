@@ -1,5 +1,5 @@
 ---
 title: "Promemoria"
 url: /london/promemoria/
-shop: Möbel
+shop: furniture
 ---

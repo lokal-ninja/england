@@ -1,5 +1,5 @@
 ---
 title: "Adrian Buizer Optometrist"
 url: /clacton-on-sea/adrian-buizer-optometrist/
-shop: Optiker
+shop: optician
 ---

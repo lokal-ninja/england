@@ -1,5 +1,5 @@
 ---
 title: "Board To Tiers"
 url: /leeds/board-to-tiers/
-shop: Konditorei
+shop: pastry
 ---

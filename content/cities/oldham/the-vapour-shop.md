@@ -1,5 +1,5 @@
 ---
 title: "The Vapour Shop"
 url: /oldham/the-vapour-shop/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

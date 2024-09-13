@@ -1,5 +1,5 @@
 ---
 title: "York Electrical"
 url: /great-yarmouth/york-electrical/
-shop: Elektrisch
+shop: electrical
 ---

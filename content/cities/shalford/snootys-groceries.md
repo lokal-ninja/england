@@ -1,5 +1,5 @@
 ---
 title: "Snooty's Groceries"
 url: /shalford/snootys-groceries/
-shop: Lebensmittel
+shop: convenience
 ---

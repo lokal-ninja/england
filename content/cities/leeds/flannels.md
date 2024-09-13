@@ -1,5 +1,5 @@
 ---
 title: "Flannels"
 url: /leeds/flannels/
-shop: Kleidung
+shop: department store
 ---

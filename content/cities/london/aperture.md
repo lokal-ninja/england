@@ -1,5 +1,5 @@
 ---
 title: "Aperture"
 url: /london/aperture/
-shop: Foto
+shop: photo
 ---

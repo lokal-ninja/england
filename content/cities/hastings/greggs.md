@@ -1,5 +1,5 @@
 ---
 title: "Greggs"
 url: /hastings/greggs/
-shop: Bäckerei
+shop: bakery
 ---

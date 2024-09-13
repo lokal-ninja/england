@@ -1,5 +1,5 @@
 ---
 title: "Waves"
 url: /lowestoft/waves/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Blackbird"
 url: /norwich/blackbird/
-shop: Tattoo
+shop: tattoo
 ---

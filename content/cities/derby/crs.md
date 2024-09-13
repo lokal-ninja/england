@@ -1,5 +1,5 @@
 ---
 title: "CRS"
 url: /derby/crs/
-shop: Autowerkstatt
+shop: car repair
 ---

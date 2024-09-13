@@ -1,5 +1,5 @@
 ---
 title: "Lighthouse"
 url: /chesterfield/lighthouse/
-shop: Gebrauchtwaren
+shop: charity
 ---

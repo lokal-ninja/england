@@ -1,5 +1,5 @@
 ---
 title: "Travis Perkins"
 url: /newark/travis-perkins/
-shop: Baumarkt
+shop: doityourself
 ---

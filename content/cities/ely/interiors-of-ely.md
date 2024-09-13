@@ -1,5 +1,5 @@
 ---
 title: "Interiors of Ely"
 url: /ely/interiors-of-ely/
-shop: Möbel
+shop: furniture
 ---

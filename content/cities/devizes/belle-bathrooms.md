@@ -1,5 +1,5 @@
 ---
 title: "Belle Bathrooms"
 url: /devizes/belle-bathrooms/
-shop: Badezimmer
+shop: bathroom
 ---

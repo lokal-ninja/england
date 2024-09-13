@@ -1,5 +1,5 @@
 ---
 title: "Sewing Queen"
 url: /southport/sewing-queen/
-shop: Nähzubehör
+shop: sewing
 ---

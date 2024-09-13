@@ -1,5 +1,5 @@
 ---
 title: "Wolseley"
 url: /bishop-auckland/wolseley/
-shop: Baustoffe
+shop: trade
 ---

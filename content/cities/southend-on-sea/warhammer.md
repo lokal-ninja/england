@@ -1,5 +1,5 @@
 ---
 title: "Warhammer"
 url: /southend-on-sea/warhammer/
-shop: Spiele
+shop: games
 ---

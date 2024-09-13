@@ -1,5 +1,5 @@
 ---
 title: "Oxfam"
 url: /stratford-upon-avon/oxfam/
-shop: Gebrauchtwaren
+shop: charity
 ---

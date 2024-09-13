@@ -1,5 +1,5 @@
 ---
 title: "Knots"
 url: /downham-market/knots/
-shop: Eisenwaren
+shop: hardware
 ---

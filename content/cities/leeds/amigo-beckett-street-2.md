@@ -1,5 +1,5 @@
 ---
 title: "Amigo"
 url: /leeds/amigo-beckett-street-2/
-shop: Supermarkt
+shop: supermarket
 ---

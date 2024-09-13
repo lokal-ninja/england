@@ -1,5 +1,5 @@
 ---
 title: "Colchester Cycle Stores"
 url: /colchester/colchester-cycle-stores/
-shop: Fahrrad
+shop: bicycle
 ---

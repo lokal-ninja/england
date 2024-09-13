@@ -1,5 +1,5 @@
 ---
 title: "Chimney Formal Menswear"
 url: /bassingbourn/chimney-formal-menswear/
-shop: Schneiderei
+shop: tailor
 ---

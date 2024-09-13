@@ -1,5 +1,5 @@
 ---
 title: "Arch"
 url: /castleford/arch/
-shop: Türen
+shop: doors
 ---

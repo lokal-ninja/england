@@ -1,5 +1,5 @@
 ---
 title: "Coffee 'N Cone"
 url: /paignton/coffee-n-cone/
-shop: Süßwaren
+shop: confectionery
 ---

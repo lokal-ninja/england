@@ -1,5 +1,5 @@
 ---
 title: "Maidens Brothers"
 url: /saltburn-by-the-sea/maidens-brothers/
-shop: Badezimmer
+shop: bathroom
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /rainham/premier/
-shop: Lebensmittel
+shop: convenience
 ---

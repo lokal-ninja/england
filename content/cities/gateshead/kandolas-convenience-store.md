@@ -1,5 +1,5 @@
 ---
 title: "Kandola's Convenience Store"
 url: /gateshead/kandolas-convenience-store/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mirabella Hair Designs"
 url: /hoddesdon/mirabella-hair-designs/
-shop: Friseur
+shop: hairdresser
 ---

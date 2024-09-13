@@ -1,5 +1,5 @@
 ---
 title: "MRFLOORS"
 url: /warrington/mrfloors/
-shop: Fußböden
+shop: flooring
 ---

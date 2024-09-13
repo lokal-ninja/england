@@ -1,5 +1,5 @@
 ---
 title: "Treblerock"
 url: /bristol/treblerock/
-shop: Instrumente
+shop: musical instrument
 ---

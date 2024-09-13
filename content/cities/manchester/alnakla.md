@@ -1,5 +1,5 @@
 ---
 title: "Alnakla"
 url: /manchester/alnakla/
-shop: Wasserpfeife
+shop: hookah
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bremont"
 url: /manchester/bremont/
-shop: Schmuck
+shop: jewelry
 ---

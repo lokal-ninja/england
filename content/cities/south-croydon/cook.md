@@ -1,5 +1,5 @@
 ---
 title: "Cook"
 url: /south-croydon/cook/
-shop: Tiefkühl
+shop: frozen food
 ---

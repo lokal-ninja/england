@@ -1,5 +1,5 @@
 ---
 title: "The Cheeseboard"
 url: /london/the-cheeseboard/
-shop: Käse
+shop: cheese
 ---

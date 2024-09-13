@@ -1,5 +1,5 @@
 ---
 title: "Dunelm"
 url: /chester/dunelm/
-shop: Raumausstattung
+shop: interior decoration
 ---

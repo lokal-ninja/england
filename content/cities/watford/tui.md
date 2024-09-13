@@ -1,5 +1,5 @@
 ---
 title: "TUI"
 url: /watford/tui/
-shop: Reisebüro
+shop: travel agency
 ---

@@ -1,5 +1,5 @@
 ---
 title: "First for Flowers"
 url: /darlington/first-for-flowers/
-shop: Blumen
+shop: florist
 ---

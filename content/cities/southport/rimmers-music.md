@@ -1,5 +1,5 @@
 ---
 title: "Rimmers Music"
 url: /southport/rimmers-music/
-shop: Instrumente
+shop: musical instrument
 ---

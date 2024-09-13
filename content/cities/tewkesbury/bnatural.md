@@ -1,5 +1,5 @@
 ---
 title: "Bnatural"
 url: /tewkesbury/bnatural/
-shop: Lebensmittel
+shop: convenience
 ---

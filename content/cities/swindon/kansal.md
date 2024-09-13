@@ -1,5 +1,5 @@
 ---
 title: "Kansal"
 url: /swindon/kansal/
-shop: Immobilien
+shop: estate agent
 ---

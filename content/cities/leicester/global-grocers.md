@@ -1,5 +1,5 @@
 ---
 title: "Global Grocers"
 url: /leicester/global-grocers/
-shop: Lebensmittel
+shop: convenience
 ---

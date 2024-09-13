@@ -1,5 +1,5 @@
 ---
 title: "Barbiere"
 url: /stockport/barbiere/
-shop: Friseur
+shop: hairdresser
 ---

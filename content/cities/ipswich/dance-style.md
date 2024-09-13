@@ -1,5 +1,5 @@
 ---
 title: "Dance Style"
 url: /ipswich/dance-style/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Drink Shop"
 url: /sidcup/the-drink-shop/
-shop: Spirituosen
+shop: alcohol
 ---

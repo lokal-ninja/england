@@ -1,5 +1,5 @@
 ---
 title: "Kay Janetta"
 url: /birmingham/kay-janetta/
-shop: Blumen
+shop: florist
 ---

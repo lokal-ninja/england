@@ -1,5 +1,5 @@
 ---
 title: "marc ashley Tanning Studios"
 url: /chorley/marc-ashley-tanning-studios/
-shop: Kosmetik
+shop: beauty
 ---

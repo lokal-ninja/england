@@ -1,5 +1,5 @@
 ---
 title: "The Salvation Army"
 url: /bury-st-edmunds/the-salvation-army/
-shop: Gebrauchtwaren
+shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Titan Computers"
 url: /london/titan-computers/
-shop: Allgemein
+shop: shop
 ---

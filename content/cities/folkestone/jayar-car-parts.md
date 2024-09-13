@@ -1,5 +1,5 @@
 ---
 title: "Jayar Car Parts"
 url: /folkestone/jayar-car-parts/
-shop: Autoteile
+shop: car parts
 ---

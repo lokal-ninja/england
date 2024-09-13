@@ -1,5 +1,5 @@
 ---
 title: "Jay Tee"
 url: /cheltenham/jay-tee/
-shop: Handy
+shop: mobile phone
 ---

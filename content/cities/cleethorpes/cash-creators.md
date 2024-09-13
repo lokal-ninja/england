@@ -1,5 +1,5 @@
 ---
 title: "Cash Creators"
 url: /cleethorpes/cash-creators/
-shop: Leiher
+shop: pawnbroker
 ---

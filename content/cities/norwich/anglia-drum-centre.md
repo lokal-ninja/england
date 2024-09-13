@@ -1,5 +1,5 @@
 ---
 title: "Anglia Drum Centre"
 url: /norwich/anglia-drum-centre/
-shop: Instrumente
+shop: musical instrument
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Recycle Shop"
 url: /heanor/recycle-shop/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gill Convenience"
 url: /bedford/gill-convenience/
-shop: Lebensmittel
+shop: convenience
 ---

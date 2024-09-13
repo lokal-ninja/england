@@ -1,5 +1,5 @@
 ---
 title: "River Island"
 url: /warrington/river-island/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Linsday Fish"
 url: /newcastle-upon-tyne/linsday-fish/
-shop: Fisch
+shop: seafood
 ---

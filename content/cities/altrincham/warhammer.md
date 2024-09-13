@@ -1,5 +1,5 @@
 ---
 title: "Warhammer"
 url: /altrincham/warhammer/
-shop: Spiele
+shop: games
 ---

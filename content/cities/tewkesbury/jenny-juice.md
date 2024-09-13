@@ -1,5 +1,5 @@
 ---
 title: "Jenny Juice"
 url: /tewkesbury/jenny-juice/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gill's Mini-Market"
 url: /lynemouth/gills-mini-market/
-shop: Lebensmittel
+shop: convenience
 ---

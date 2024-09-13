@@ -1,5 +1,5 @@
 ---
 title: "Brown's Nurseries"
 url: /wiggington/browns-nurseries/
-shop: Garten-Center
+shop: garden centre
 ---

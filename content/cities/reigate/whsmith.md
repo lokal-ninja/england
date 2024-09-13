@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /reigate/whsmith/
-shop: Bücher
+shop: books
 ---

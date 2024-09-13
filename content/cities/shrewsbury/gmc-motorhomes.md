@@ -1,5 +1,5 @@
 ---
 title: "GMC Motorhomes"
 url: /shrewsbury/gmc-motorhomes/
-shop: Autohaus
+shop: car
 ---

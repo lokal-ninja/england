@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /swindon/savers/
-shop: Drogerie
+shop: chemist
 ---

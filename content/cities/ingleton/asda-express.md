@@ -1,5 +1,5 @@
 ---
 title: "Asda Express"
 url: /ingleton/asda-express/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Original Products"
 url: /london/original-products/
-shop: Religion
+shop: religion
 ---

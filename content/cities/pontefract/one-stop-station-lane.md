@@ -1,5 +1,5 @@
 ---
 title: "One Stop"
 url: /pontefract/one-stop-station-lane/
-shop: Lebensmittel
+shop: convenience
 ---

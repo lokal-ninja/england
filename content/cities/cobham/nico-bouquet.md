@@ -1,5 +1,5 @@
 ---
 title: "Nico Bouquet"
 url: /cobham/nico-bouquet/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /maidstone/poundland/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cake Box"
 url: /london/cake-box-ballards-lane/
-shop: Konditorei
+shop: pastry
 ---

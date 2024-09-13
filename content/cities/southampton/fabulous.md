@@ -1,5 +1,5 @@
 ---
 title: "Fabulous"
 url: /southampton/fabulous/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

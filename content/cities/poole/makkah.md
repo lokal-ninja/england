@@ -1,5 +1,5 @@
 ---
 title: "Makkah"
 url: /poole/makkah/
-shop: Gemüse & Obst
+shop: greengrocer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fred Harrison Ltd."
 url: /worksop/fred-harrison-ltd/
-shop: Eisenwaren
+shop: hardware
 ---

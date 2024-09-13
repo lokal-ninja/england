@@ -1,5 +1,5 @@
 ---
 title: "Creative Image"
 url: /clacton-on-sea/creative-image/
-shop: Friseur
+shop: hairdresser
 ---

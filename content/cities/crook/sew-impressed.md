@@ -1,5 +1,5 @@
 ---
 title: "Sew Impressed"
 url: /crook/sew-impressed/
-shop: Nähzubehör
+shop: sewing
 ---

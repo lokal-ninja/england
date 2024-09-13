@@ -1,5 +1,5 @@
 ---
 title: "Henley Raw"
 url: /reading/henley-raw/
-shop: Tiere
+shop: pet
 ---

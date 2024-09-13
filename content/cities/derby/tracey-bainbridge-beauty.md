@@ -1,5 +1,5 @@
 ---
 title: "Tracey Bainbridge Beauty"
 url: /derby/tracey-bainbridge-beauty/
-shop: Kosmetik
+shop: beauty
 ---

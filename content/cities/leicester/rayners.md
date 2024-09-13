@@ -1,5 +1,5 @@
 ---
 title: "Rayners"
 url: /leicester/rayners/
-shop: Friseur
+shop: hairdresser
 ---

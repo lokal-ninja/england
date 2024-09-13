@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /blyth/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

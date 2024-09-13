@@ -1,5 +1,5 @@
 ---
 title: "House of Fraser"
 url: /carlisle/house-of-fraser/
-shop: Warenhaus
+shop: department store
 ---

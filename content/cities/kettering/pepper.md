@@ -1,5 +1,5 @@
 ---
 title: "Pepper"
 url: /kettering/pepper/
-shop: Lebensmittel
+shop: convenience
 ---

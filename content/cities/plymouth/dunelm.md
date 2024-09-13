@@ -1,5 +1,5 @@
 ---
 title: "Dunelm"
 url: /plymouth/dunelm/
-shop: Raumausstattung
+shop: interior decoration
 ---

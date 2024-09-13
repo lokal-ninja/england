@@ -1,5 +1,5 @@
 ---
 title: "Save More Mini Market"
 url: /nottingham/save-more-mini-market/
-shop: Lebensmittel
+shop: convenience
 ---

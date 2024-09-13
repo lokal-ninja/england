@@ -1,5 +1,5 @@
 ---
 title: "Freshity"
 url: /sheffield/freshity/
-shop: Parfümerie
+shop: perfumery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Crave"
 url: /brighton/crave/
-shop: Lebensmittel
+shop: convenience
 ---

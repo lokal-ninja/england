@@ -1,5 +1,5 @@
 ---
 title: "Stoneridge"
 url: /clacton-on-sea/stoneridge/
-shop: Immobilien
+shop: estate agent
 ---

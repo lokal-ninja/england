@@ -1,5 +1,5 @@
 ---
 title: "Prestige"
 url: /belper/prestige/
-shop: Kosmetik
+shop: beauty
 ---

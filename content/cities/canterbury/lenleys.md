@@ -1,5 +1,5 @@
 ---
 title: "Lenleys"
 url: /canterbury/lenleys/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Millets"
 url: /stoke-on-trent/millets/
-shop: Outdoor
+shop: outdoor
 ---

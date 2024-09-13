@@ -1,5 +1,5 @@
 ---
 title: "Loren's"
 url: /liverpool/lorens/
-shop: Kosmetik
+shop: beauty
 ---

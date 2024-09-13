@@ -1,5 +1,5 @@
 ---
 title: "Flowers by Fredricka"
 url: /derby/flowers-by-fredricka/
-shop: Blumen
+shop: florist
 ---

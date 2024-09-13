@@ -1,5 +1,5 @@
 ---
 title: "Bike House"
 url: /london/bike-house/
-shop: Fahrrad
+shop: bicycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Next"
 url: /biggleswade/next/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hidden"
 url: /bristol/hidden/
-shop: Kunst
+shop: art
 ---

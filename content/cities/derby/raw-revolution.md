@@ -1,5 +1,5 @@
 ---
 title: "Raw Revolution"
 url: /derby/raw-revolution/
-shop: Tiere
+shop: pet
 ---

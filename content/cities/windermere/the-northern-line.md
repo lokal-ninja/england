@@ -1,5 +1,5 @@
 ---
 title: "The Northern Line"
 url: /windermere/the-northern-line/
-shop: Andenken
+shop: gift
 ---

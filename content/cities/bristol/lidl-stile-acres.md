@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /bristol/lidl-stile-acres/
-shop: Supermarkt
+shop: supermarket
 ---

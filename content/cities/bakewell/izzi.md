@@ -1,5 +1,5 @@
 ---
 title: "Izzi"
 url: /bakewell/izzi/
-shop: Kleidung
+shop: clothes
 ---

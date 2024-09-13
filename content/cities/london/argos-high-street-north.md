@@ -1,5 +1,5 @@
 ---
 title: "Argos"
 url: /london/argos-high-street-north/
-shop: Katalog
+shop: catalogue
 ---

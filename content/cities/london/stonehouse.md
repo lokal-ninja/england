@@ -1,5 +1,5 @@
 ---
 title: "Stonehouse"
 url: /london/stonehouse/
-shop: Möbel
+shop: furniture
 ---

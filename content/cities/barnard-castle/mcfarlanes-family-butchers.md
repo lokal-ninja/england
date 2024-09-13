@@ -1,5 +1,5 @@
 ---
 title: "McFarlanes Family Butchers"
 url: /barnard-castle/mcfarlanes-family-butchers/
-shop: Metzgerei
+shop: butcher
 ---

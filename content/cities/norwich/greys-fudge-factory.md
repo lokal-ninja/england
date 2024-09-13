@@ -1,5 +1,5 @@
 ---
 title: "Grey's Fudge Factory"
 url: /norwich/greys-fudge-factory/
-shop: Süßwaren
+shop: confectionery
 ---

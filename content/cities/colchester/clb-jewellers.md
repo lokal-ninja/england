@@ -1,5 +1,5 @@
 ---
 title: "CLB Jewellers"
 url: /colchester/clb-jewellers/
-shop: Schmuck
+shop: jewelry
 ---

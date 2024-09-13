@@ -1,5 +1,5 @@
 ---
 title: "Bandywood Dry Cleaners"
 url: /birmingham/bandywood-dry-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Cobblers"
 url: /christchurch/the-cobblers/
-shop: Schuhe
+shop: shoes
 ---

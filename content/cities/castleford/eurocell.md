@@ -1,5 +1,5 @@
 ---
 title: "Eurocell"
 url: /castleford/eurocell/
-shop: Baustoffe
+shop: trade
 ---

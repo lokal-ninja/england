@@ -1,5 +1,5 @@
 ---
 title: "Framework"
 url: /sutton-coldfield/framework/
-shop: Allgemein
+shop: shop
 ---

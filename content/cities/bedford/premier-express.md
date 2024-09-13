@@ -1,5 +1,5 @@
 ---
 title: "Premier Express"
 url: /bedford/premier-express/
-shop: Lebensmittel
+shop: convenience
 ---

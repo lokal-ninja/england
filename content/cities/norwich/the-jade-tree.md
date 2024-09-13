@@ -1,5 +1,5 @@
 ---
 title: "The Jade Tree"
 url: /norwich/the-jade-tree/
-shop: Andenken
+shop: gift
 ---

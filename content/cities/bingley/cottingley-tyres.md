@@ -1,5 +1,5 @@
 ---
 title: "Cottingley Tyres"
 url: /bingley/cottingley-tyres/
-shop: Reifen
+shop: tyres
 ---

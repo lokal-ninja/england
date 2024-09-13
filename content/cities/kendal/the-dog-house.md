@@ -1,5 +1,5 @@
 ---
 title: "The Dog House"
 url: /kendal/the-dog-house/
-shop: Tiersalon
+shop: pet grooming
 ---

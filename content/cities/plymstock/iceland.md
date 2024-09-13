@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /plymstock/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

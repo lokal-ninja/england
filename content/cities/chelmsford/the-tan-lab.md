@@ -1,5 +1,5 @@
 ---
 title: "The Tan Lab"
 url: /chelmsford/the-tan-lab/
-shop: Kosmetik
+shop: beauty
 ---

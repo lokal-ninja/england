@@ -1,5 +1,5 @@
 ---
 title: "TUI"
 url: /london/tui-montfichet-road/
-shop: Reisebüro
+shop: travel agency
 ---

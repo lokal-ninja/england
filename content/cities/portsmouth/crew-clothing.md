@@ -1,5 +1,5 @@
 ---
 title: "Crew Clothing"
 url: /portsmouth/crew-clothing/
-shop: Kleidung
+shop: clothes
 ---

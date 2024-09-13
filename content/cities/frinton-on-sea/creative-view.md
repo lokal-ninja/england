@@ -1,5 +1,5 @@
 ---
 title: "Creative View"
 url: /frinton-on-sea/creative-view/
-shop: Glaserei
+shop: glaziery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Consol"
 url: /exmouth/consol/
-shop: Kosmetik
+shop: beauty
 ---

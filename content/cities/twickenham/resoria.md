@@ -1,5 +1,5 @@
 ---
 title: "Resoria"
 url: /twickenham/resoria/
-shop: Blumen
+shop: florist
 ---

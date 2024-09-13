@@ -1,5 +1,5 @@
 ---
 title: "DBI Value Tyres"
 url: /ilkeston/dbi-value-tyres/
-shop: Autowerkstatt
+shop: car repair
 ---

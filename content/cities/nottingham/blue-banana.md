@@ -1,5 +1,5 @@
 ---
 title: "Blue Banana"
 url: /nottingham/blue-banana/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nev's"
 url: /nottingham/nevs/
-shop: Spirituosen
+shop: alcohol
 ---

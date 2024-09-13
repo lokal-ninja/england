@@ -1,5 +1,5 @@
 ---
 title: "Blades"
 url: /spennymoor/blades/
-shop: Friseur
+shop: hairdresser
 ---

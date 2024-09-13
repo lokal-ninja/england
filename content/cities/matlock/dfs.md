@@ -1,5 +1,5 @@
 ---
 title: "DFS"
 url: /matlock/dfs/
-shop: Möbel
+shop: furniture
 ---

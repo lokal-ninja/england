@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /london/tesco-express-garratt-lane/
-shop: Lebensmittel
+shop: convenience
 ---

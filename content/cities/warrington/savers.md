@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /warrington/savers/
-shop: Drogerie
+shop: chemist
 ---

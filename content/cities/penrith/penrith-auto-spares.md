@@ -1,5 +1,5 @@
 ---
 title: "Penrith Auto Spares"
 url: /penrith/penrith-auto-spares/
-shop: Autoteile
+shop: car parts
 ---

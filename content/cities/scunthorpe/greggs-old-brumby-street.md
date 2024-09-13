@@ -1,5 +1,5 @@
 ---
 title: "Greggs"
 url: /scunthorpe/greggs-old-brumby-street/
-shop: Bäckerei
+shop: bakery
 ---

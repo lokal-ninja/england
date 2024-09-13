@@ -1,5 +1,5 @@
 ---
 title: "Nisa Local"
 url: /nottingham/nisa-local-broxtowe-lane/
-shop: Lebensmittel
+shop: convenience
 ---

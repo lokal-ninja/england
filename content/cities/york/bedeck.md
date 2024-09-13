@@ -1,5 +1,5 @@
 ---
 title: "Bedeck"
 url: /york/bedeck/
-shop: Allgemein
+shop: shop
 ---

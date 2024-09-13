@@ -1,5 +1,5 @@
 ---
 title: "Harris - Basildon"
 url: /basildon/harris-basildon/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Joseph's"
 url: /twickenham/josephs/
-shop: Friseur
+shop: hairdresser
 ---

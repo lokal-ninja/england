@@ -1,5 +1,5 @@
 ---
 title: "Harpenden Auto Services"
 url: /luton/harpenden-auto-services/
-shop: Autowerkstatt
+shop: car repair
 ---

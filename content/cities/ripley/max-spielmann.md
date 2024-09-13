@@ -1,5 +1,5 @@
 ---
 title: "Max Spielmann"
 url: /ripley/max-spielmann/
-shop: Foto
+shop: photo
 ---

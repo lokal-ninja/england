@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /hounslow/londis/
-shop: Supermarkt
+shop: supermarket
 ---

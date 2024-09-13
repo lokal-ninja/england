@@ -1,5 +1,5 @@
 ---
 title: "Little London Bodyworks"
 url: /sheffield/little-london-bodyworks/
-shop: Autowerkstatt
+shop: car repair
 ---

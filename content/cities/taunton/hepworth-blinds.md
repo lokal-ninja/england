@@ -1,5 +1,5 @@
 ---
 title: "Hepworth Blinds"
 url: /taunton/hepworth-blinds/
-shop: Jalousien
+shop: window blind
 ---

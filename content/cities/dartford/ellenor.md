@@ -1,5 +1,5 @@
 ---
 title: "Ellenor"
 url: /dartford/ellenor/
-shop: Gebrauchtwaren
+shop: charity
 ---

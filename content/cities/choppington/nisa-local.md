@@ -1,5 +1,5 @@
 ---
 title: "Nisa Local"
 url: /choppington/nisa-local/
-shop: Lebensmittel
+shop: convenience
 ---

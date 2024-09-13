@@ -1,5 +1,5 @@
 ---
 title: "Scope"
 url: /devizes/scope/
-shop: Gebrauchtwaren
+shop: charity
 ---

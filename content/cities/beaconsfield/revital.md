@@ -1,5 +1,5 @@
 ---
 title: "Revital"
 url: /beaconsfield/revital/
-shop: Bioladen
+shop: health food
 ---

@@ -1,5 +1,5 @@
 ---
 title: "White Rose"
 url: /nottingham/white-rose/
-shop: Kleidung
+shop: clothes
 ---

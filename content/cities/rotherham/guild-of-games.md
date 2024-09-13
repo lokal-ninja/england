@@ -1,5 +1,5 @@
 ---
 title: "Guild of Games"
 url: /rotherham/guild-of-games/
-shop: Videospiele
+shop: video games
 ---

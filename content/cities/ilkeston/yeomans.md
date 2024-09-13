@@ -1,5 +1,5 @@
 ---
 title: "Yeomans"
 url: /ilkeston/yeomans/
-shop: Allgemein
+shop: shop
 ---

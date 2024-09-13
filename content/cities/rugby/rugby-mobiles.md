@@ -1,5 +1,5 @@
 ---
 title: "Rugby Mobiles"
 url: /rugby/rugby-mobiles/
-shop: Handy
+shop: mobile phone
 ---

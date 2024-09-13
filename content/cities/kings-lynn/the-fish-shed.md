@@ -1,5 +1,5 @@
 ---
 title: "The Fish Shed"
 url: /kings-lynn/the-fish-shed/
-shop: Fisch
+shop: seafood
 ---

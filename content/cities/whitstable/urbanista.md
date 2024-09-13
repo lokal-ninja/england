@@ -1,5 +1,5 @@
 ---
 title: "urbanista"
 url: /whitstable/urbanista/
-shop: Kleidung
+shop: clothes
 ---

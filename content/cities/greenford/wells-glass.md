@@ -1,5 +1,5 @@
 ---
 title: "Wells Glass"
 url: /greenford/wells-glass/
-shop: Glaserei
+shop: glaziery
 ---

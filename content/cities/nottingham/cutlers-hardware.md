@@ -1,5 +1,5 @@
 ---
 title: "Cutlers Hardware"
 url: /nottingham/cutlers-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

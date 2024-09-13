@@ -1,5 +1,5 @@
 ---
 title: "Curiocity"
 url: /sandown/curiocity/
-shop: Andenken
+shop: gift
 ---

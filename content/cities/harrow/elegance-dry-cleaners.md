@@ -1,5 +1,5 @@
 ---
 title: "Elegance Dry Cleaners"
 url: /harrow/elegance-dry-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

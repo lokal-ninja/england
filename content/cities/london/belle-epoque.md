@@ -1,5 +1,5 @@
 ---
 title: "Belle Epoque"
 url: /london/belle-epoque/
-shop: Bäckerei
+shop: bakery
 ---

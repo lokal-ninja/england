@@ -1,5 +1,5 @@
 ---
 title: "Keri Ann's"
 url: /atherstone/keri-anns/
-shop: Drogerie
+shop: chemist
 ---

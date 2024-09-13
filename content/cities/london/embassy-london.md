@@ -1,5 +1,5 @@
 ---
 title: "Embassy London"
 url: /london/embassy-london/
-shop: Schuhe
+shop: shoes
 ---

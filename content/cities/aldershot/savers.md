@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /aldershot/savers/
-shop: Drogerie
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Compton's"
 url: /faversham/comptons/
-shop: Küchen
+shop: kitchen
 ---

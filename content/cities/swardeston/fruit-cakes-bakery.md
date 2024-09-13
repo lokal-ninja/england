@@ -1,5 +1,5 @@
 ---
 title: "Fruit Cakes Bakery"
 url: /swardeston/fruit-cakes-bakery/
-shop: Bäckerei
+shop: bakery
 ---

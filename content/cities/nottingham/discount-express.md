@@ -1,5 +1,5 @@
 ---
 title: "Discount Express"
 url: /nottingham/discount-express/
-shop: Lebensmittel
+shop: convenience
 ---

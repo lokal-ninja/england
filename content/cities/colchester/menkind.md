@@ -1,5 +1,5 @@
 ---
 title: "MenKind"
 url: /colchester/menkind/
-shop: Andenken
+shop: gift
 ---

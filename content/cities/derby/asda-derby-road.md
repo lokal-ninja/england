@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /derby/asda-derby-road/
-shop: Supermarkt
+shop: supermarket
 ---

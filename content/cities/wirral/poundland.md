@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /wirral/poundland/
-shop: Kramladen
+shop: variety store
 ---

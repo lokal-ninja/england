@@ -1,5 +1,5 @@
 ---
 title: "Cash Planet"
 url: /normanton/cash-planet/
-shop: Leiher
+shop: pawnbroker
 ---

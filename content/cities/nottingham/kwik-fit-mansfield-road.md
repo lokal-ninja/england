@@ -1,5 +1,5 @@
 ---
 title: "Kwik-fit"
 url: /nottingham/kwik-fit-mansfield-road/
-shop: Autowerkstatt
+shop: car repair
 ---

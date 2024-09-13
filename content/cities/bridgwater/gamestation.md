@@ -1,5 +1,5 @@
 ---
 title: "Gamestation"
 url: /bridgwater/gamestation/
-shop: Computer
+shop: computer
 ---

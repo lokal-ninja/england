@@ -1,5 +1,5 @@
 ---
 title: "Lemporium"
 url: /london/lemporium/
-shop: Lebensmittel
+shop: convenience
 ---

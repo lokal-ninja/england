@@ -1,5 +1,5 @@
 ---
 title: "Scrunch"
 url: /twickenham/scrunch/
-shop: Friseur
+shop: hairdresser
 ---

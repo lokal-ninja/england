@@ -1,5 +1,5 @@
 ---
 title: "The Grow"
 url: /london/the-grow/
-shop: Blumen
+shop: florist
 ---

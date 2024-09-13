@@ -1,5 +1,5 @@
 ---
 title: "Europa Store"
 url: /boston/europa-store/
-shop: Spirituosen
+shop: alcohol
 ---

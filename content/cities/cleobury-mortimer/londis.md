@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /cleobury-mortimer/londis/
-shop: Lebensmittel
+shop: convenience
 ---

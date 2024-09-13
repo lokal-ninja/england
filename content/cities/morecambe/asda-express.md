@@ -1,5 +1,5 @@
 ---
 title: "Asda Express"
 url: /morecambe/asda-express/
-shop: Lebensmittel
+shop: convenience
 ---

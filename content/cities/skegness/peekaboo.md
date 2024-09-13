@@ -1,5 +1,5 @@
 ---
 title: "Peekaboo"
 url: /skegness/peekaboo/
-shop: Kleidung
+shop: clothes
 ---

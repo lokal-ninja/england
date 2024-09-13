@@ -1,5 +1,5 @@
 ---
 title: "Lequest"
 url: /weybridge/lequest/
-shop: Kleidung
+shop: clothes
 ---

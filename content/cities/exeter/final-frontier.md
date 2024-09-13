@@ -1,5 +1,5 @@
 ---
 title: "Final Frontier"
 url: /exeter/final-frontier/
-shop: Bücher
+shop: books
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lush Locks"
 url: /chester-le-street/lush-locks/
-shop: Friseur
+shop: hairdresser
 ---

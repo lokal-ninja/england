@@ -1,5 +1,5 @@
 ---
 title: "Simply Nails"
 url: /colchester/simply-nails/
-shop: Kosmetik
+shop: beauty
 ---

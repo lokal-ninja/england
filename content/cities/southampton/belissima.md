@@ -1,5 +1,5 @@
 ---
 title: "Belissima"
 url: /southampton/belissima/
-shop: Friseur
+shop: hairdresser
 ---

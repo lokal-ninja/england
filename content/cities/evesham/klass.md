@@ -1,5 +1,5 @@
 ---
 title: "Klass"
 url: /evesham/klass/
-shop: Kleidung
+shop: clothes
 ---

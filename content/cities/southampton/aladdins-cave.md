@@ -1,5 +1,5 @@
 ---
 title: "Aladdin’s Cave"
 url: /southampton/aladdins-cave/
-shop: Kramladen
+shop: variety store
 ---

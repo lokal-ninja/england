@@ -1,5 +1,5 @@
 ---
 title: "Peacocks"
 url: /chard/peacocks/
-shop: Kleidung
+shop: clothes
 ---

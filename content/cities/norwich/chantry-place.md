@@ -1,5 +1,5 @@
 ---
 title: "Chantry Place"
 url: /norwich/chantry-place/
-shop: Einkaufszentrum
+shop: mall
 ---

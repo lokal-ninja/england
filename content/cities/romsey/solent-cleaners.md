@@ -1,5 +1,5 @@
 ---
 title: "Solent Cleaners"
 url: /romsey/solent-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Groveland Bon Bon"
 url: /purley/groveland-bon-bon/
-shop: Zeitungen
+shop: newsagent
 ---

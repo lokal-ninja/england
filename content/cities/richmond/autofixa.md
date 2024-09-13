@@ -1,5 +1,5 @@
 ---
 title: "Autofixa"
 url: /richmond/autofixa/
-shop: Autoteile
+shop: car parts
 ---

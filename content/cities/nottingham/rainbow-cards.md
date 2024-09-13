@@ -1,5 +1,5 @@
 ---
 title: "Rainbow Cards"
 url: /nottingham/rainbow-cards/
-shop: Allgemein
+shop: shop
 ---

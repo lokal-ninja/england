@@ -1,5 +1,5 @@
 ---
 title: "Amplifon"
 url: /croydon/amplifon/
-shop: Hörgeräte
+shop: hearing aids
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chase Tyres"
 url: /new-romney/chase-tyres/
-shop: Reifen
+shop: tyres
 ---

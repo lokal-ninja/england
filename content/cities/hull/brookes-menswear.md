@@ -1,5 +1,5 @@
 ---
 title: "Brookes Menswear"
 url: /hull/brookes-menswear/
-shop: Kleidung
+shop: clothes
 ---

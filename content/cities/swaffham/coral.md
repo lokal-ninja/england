@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /swaffham/coral/
-shop: Wettbüro
+shop: bookmaker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Singh Mini Market"
 url: /leeds/singh-mini-market/
-shop: Lebensmittel
+shop: convenience
 ---

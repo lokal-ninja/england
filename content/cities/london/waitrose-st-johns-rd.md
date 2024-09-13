@@ -1,5 +1,5 @@
 ---
 title: "Waitrose"
 url: /london/waitrose-st-johns-rd/
-shop: Supermarkt
+shop: supermarket
 ---

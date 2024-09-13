@@ -1,5 +1,5 @@
 ---
 title: "Technobiz"
 url: /london/technobiz/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "UK Pets Company"
 url: /richmond/uk-pets-company/
-shop: Tiere
+shop: pet
 ---

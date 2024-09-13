@@ -1,5 +1,5 @@
 ---
 title: "Diamond Heaven"
 url: /leeds/diamond-heaven/
-shop: Schmuck
+shop: jewelry
 ---

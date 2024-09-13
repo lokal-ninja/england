@@ -1,5 +1,5 @@
 ---
 title: "Furrows"
 url: /shrewsbury/furrows/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Budgens"
 url: /gosforth/budgens/
-shop: Lebensmittel
+shop: convenience
 ---

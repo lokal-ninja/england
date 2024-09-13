@@ -1,5 +1,5 @@
 ---
 title: "Elizabeth Ann"
 url: /wigan/elizabeth-ann/
-shop: Friseur
+shop: hairdresser
 ---

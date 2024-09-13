@@ -1,5 +1,5 @@
 ---
 title: "Hylton News"
 url: /sunderland/hylton-news/
-shop: Zeitungen
+shop: newsagent
 ---

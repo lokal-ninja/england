@@ -1,5 +1,5 @@
 ---
 title: "Delicje"
 url: /st-helens/delicje/
-shop: Supermarkt
+shop: supermarket
 ---

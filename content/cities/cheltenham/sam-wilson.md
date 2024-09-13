@@ -1,5 +1,5 @@
 ---
 title: "Sam Wilson"
 url: /cheltenham/sam-wilson/
-shop: Raumausstattung
+shop: interior decoration
 ---

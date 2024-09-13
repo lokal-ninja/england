@@ -1,5 +1,5 @@
 ---
 title: "Route One"
 url: /liverpool/route-one/
-shop: Schuhe
+shop: shoes
 ---

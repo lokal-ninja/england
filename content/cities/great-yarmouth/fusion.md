@@ -1,5 +1,5 @@
 ---
 title: "Fusion"
 url: /great-yarmouth/fusion/
-shop: Friseur
+shop: hairdresser
 ---

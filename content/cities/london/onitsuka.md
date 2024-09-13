@@ -1,5 +1,5 @@
 ---
 title: "Onitsuka"
 url: /london/onitsuka/
-shop: Schuhe
+shop: shoes
 ---

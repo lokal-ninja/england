@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
 url: /aldershot/vodafone/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Farmfoods"
 url: /crewe/farmfoods/
-shop: Tiefkühl
+shop: frozen food
 ---

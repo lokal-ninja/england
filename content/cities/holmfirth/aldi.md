@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /holmfirth/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

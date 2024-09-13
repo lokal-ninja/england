@@ -1,5 +1,5 @@
 ---
 title: "Millets"
 url: /lowestoft/millets/
-shop: Outdoor
+shop: outdoor
 ---

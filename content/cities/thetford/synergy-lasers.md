@@ -1,5 +1,5 @@
 ---
 title: "Synergy Lasers"
 url: /thetford/synergy-lasers/
-shop: Kopieren
+shop: copyshop
 ---

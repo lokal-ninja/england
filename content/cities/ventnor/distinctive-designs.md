@@ -1,5 +1,5 @@
 ---
 title: "distinctive designs"
 url: /ventnor/distinctive-designs/
-shop: Raumausstattung
+shop: interior decoration
 ---

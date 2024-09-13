@@ -1,5 +1,5 @@
 ---
 title: "Spoilt for Choice"
 url: /thetford/spoilt-for-choice/
-shop: Kramladen
+shop: variety store
 ---

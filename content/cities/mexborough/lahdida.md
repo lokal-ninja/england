@@ -1,5 +1,5 @@
 ---
 title: "Lah’Di’Da"
 url: /mexborough/lahdida/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Boots"
 url: /fleet/boots/
-shop: Drogerie
+shop: chemist
 ---

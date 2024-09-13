@@ -1,5 +1,5 @@
 ---
 title: "Robert Carl"
 url: /coventry/robert-carl/
-shop: Friseur
+shop: hairdresser
 ---

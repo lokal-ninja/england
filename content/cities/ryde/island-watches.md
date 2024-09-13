@@ -1,5 +1,5 @@
 ---
 title: "Island Watches"
 url: /ryde/island-watches/
-shop: Schmuck
+shop: jewelry
 ---

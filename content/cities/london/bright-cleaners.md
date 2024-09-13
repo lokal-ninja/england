@@ -1,5 +1,5 @@
 ---
-title: "bright cleaners"
+title: "Bright Cleaners"
 url: /london/bright-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /watford/coral/
-shop: Wettbüro
+shop: bookmaker
 ---

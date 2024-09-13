@@ -1,5 +1,5 @@
 ---
 title: "River Island"
 url: /barnsley/river-island/
-shop: Kleidung
+shop: clothes
 ---

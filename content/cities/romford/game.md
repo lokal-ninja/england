@@ -1,5 +1,5 @@
 ---
 title: "Game"
 url: /romford/game/
-shop: Videospiele
+shop: video games
 ---

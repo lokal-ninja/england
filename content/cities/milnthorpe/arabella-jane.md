@@ -1,5 +1,5 @@
 ---
 title: "Arabella Jane"
 url: /milnthorpe/arabella-jane/
-shop: Raumausstattung
+shop: interior decoration
 ---

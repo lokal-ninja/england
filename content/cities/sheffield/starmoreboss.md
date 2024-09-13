@@ -1,5 +1,5 @@
 ---
 title: "StarmoreBoss"
 url: /sheffield/starmoreboss/
-shop: Wein
+shop: wine
 ---

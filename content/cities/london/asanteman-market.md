@@ -1,5 +1,5 @@
 ---
 title: "Asanteman Market"
 url: /london/asanteman-market/
-shop: Lebensmittel
+shop: convenience
 ---

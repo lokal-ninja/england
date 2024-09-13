@@ -1,5 +1,5 @@
 ---
 title: "co-op food"
 url: /southampton/co-op-food-south-east-road/
-shop: Lebensmittel
+shop: convenience
 ---

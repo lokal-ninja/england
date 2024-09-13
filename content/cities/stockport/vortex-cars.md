@@ -1,5 +1,5 @@
 ---
 title: "Vortex Cars"
 url: /stockport/vortex-cars/
-shop: Autohaus
+shop: car
 ---

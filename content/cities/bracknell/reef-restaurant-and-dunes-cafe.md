@@ -1,5 +1,5 @@
 ---
 title: "Reef Restaurant and Dunes Cafe"
 url: /bracknell/reef-restaurant-and-dunes-cafe/
-shop: Pool
+shop: swimming pool
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lush"
 url: /hull/lush/
-shop: Kosmetik
+shop: beauty
 ---

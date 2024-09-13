@@ -1,5 +1,5 @@
 ---
 title: "Bowspeed"
 url: /bristol/bowspeed/
-shop: Instrumente
+shop: musical instrument
 ---

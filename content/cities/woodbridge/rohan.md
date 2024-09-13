@@ -1,5 +1,5 @@
 ---
 title: "Rohan"
 url: /woodbridge/rohan/
-shop: Outdoor
+shop: outdoor
 ---

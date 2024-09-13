@@ -1,5 +1,5 @@
 ---
 title: "Patrizio"
 url: /bristol/patrizio/
-shop: Friseur
+shop: hairdresser
 ---

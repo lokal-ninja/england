@@ -1,5 +1,5 @@
 ---
 title: "RS Motors"
 url: /barking/rs-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

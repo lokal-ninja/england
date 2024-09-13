@@ -1,5 +1,5 @@
 ---
 title: "Woodbridge Antiques Centre"
 url: /woodbridge/woodbridge-antiques-centre/
-shop: Antiquitäten
+shop: antiques
 ---

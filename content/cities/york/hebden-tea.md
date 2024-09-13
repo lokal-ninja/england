@@ -1,5 +1,5 @@
 ---
 title: "Hebden Tea"
 url: /york/hebden-tea/
-shop: Tee
+shop: tea
 ---

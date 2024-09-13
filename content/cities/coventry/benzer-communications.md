@@ -1,5 +1,5 @@
 ---
 title: "Benzer Communications"
 url: /coventry/benzer-communications/
-shop: Handy
+shop: mobile phone
 ---

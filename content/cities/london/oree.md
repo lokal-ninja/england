@@ -1,5 +1,5 @@
 ---
 title: "Oree"
 url: /london/oree/
-shop: Konditorei
+shop: pastry
 ---

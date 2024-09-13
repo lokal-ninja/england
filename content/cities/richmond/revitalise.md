@@ -1,5 +1,5 @@
 ---
 title: "Revitalise"
 url: /richmond/revitalise/
-shop: Friseur
+shop: hairdresser
 ---

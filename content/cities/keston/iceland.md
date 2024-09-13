@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /keston/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

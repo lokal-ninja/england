@@ -1,5 +1,5 @@
 ---
 title: "Demelza"
 url: /heathfield/demelza/
-shop: Gebrauchtwaren
+shop: charity
 ---

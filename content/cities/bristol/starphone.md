@@ -1,5 +1,5 @@
 ---
 title: "Starphone"
 url: /bristol/starphone/
-shop: Handy
+shop: mobile phone
 ---

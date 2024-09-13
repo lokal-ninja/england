@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
 url: /bolton/wilko/
-shop: Kramladen
+shop: variety store
 ---

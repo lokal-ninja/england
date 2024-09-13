@@ -1,5 +1,5 @@
 ---
 title: "Inside Magazines"
 url: /worthing/inside-magazines/
-shop: Zeitungen
+shop: newsagent
 ---

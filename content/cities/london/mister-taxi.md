@@ -1,5 +1,5 @@
 ---
 title: "Mister Taxi"
 url: /london/mister-taxi/
-shop: Autowerkstatt
+shop: car repair
 ---

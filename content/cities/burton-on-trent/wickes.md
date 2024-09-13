@@ -1,5 +1,5 @@
 ---
 title: "Wickes"
 url: /burton-on-trent/wickes/
-shop: Baumarkt
+shop: doityourself
 ---

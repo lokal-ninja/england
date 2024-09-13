@@ -1,5 +1,5 @@
 ---
 title: "Wetherells"
 url: /selby/wetherells/
-shop: Warenhaus
+shop: department store
 ---

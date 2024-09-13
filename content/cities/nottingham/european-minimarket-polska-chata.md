@@ -1,5 +1,5 @@
 ---
 title: "European Minimarket Polska Chata"
 url: /nottingham/european-minimarket-polska-chata/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Peacocks"
 url: /havant/peacocks/
-shop: Kleidung
+shop: clothes
 ---

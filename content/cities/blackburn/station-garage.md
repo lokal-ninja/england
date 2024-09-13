@@ -1,5 +1,5 @@
 ---
 title: "Station Garage"
 url: /blackburn/station-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

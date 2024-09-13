@@ -1,5 +1,5 @@
 ---
 title: "Hunky Dory"
 url: /belper/hunky-dory/
-shop: Bioladen
+shop: health food
 ---

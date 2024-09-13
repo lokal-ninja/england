@@ -1,5 +1,5 @@
 ---
 title: "Replay"
 url: /darlington/replay/
-shop: Friseur
+shop: hairdresser
 ---

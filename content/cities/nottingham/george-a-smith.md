@@ -1,5 +1,5 @@
 ---
 title: "George A Smith"
 url: /nottingham/george-a-smith/
-shop: Allgemein
+shop: shop
 ---

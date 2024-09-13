@@ -1,5 +1,5 @@
 ---
 title: "Steve Harding Cars"
 url: /cirencester/steve-harding-cars/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Albrek Travel"
 url: /london/albrek-travel/
-shop: Reisebüro
+shop: travel agency
 ---

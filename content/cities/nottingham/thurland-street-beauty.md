@@ -1,5 +1,5 @@
 ---
 title: "Thurland Street Beauty"
 url: /nottingham/thurland-street-beauty/
-shop: Friseur
+shop: hairdresser
 ---

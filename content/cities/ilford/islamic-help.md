@@ -1,5 +1,5 @@
 ---
 title: "Islamic Help"
 url: /ilford/islamic-help/
-shop: Gebrauchtwaren
+shop: charity
 ---

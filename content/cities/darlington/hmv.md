@@ -1,5 +1,5 @@
 ---
 title: "HMV"
 url: /darlington/hmv/
-shop: Musik
+shop: music
 ---

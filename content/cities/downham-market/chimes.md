@@ -1,5 +1,5 @@
 ---
 title: "Chimes"
 url: /downham-market/chimes/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /high-wycombe/coral/
-shop: Wettbüro
+shop: bookmaker
 ---

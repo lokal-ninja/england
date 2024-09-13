@@ -1,5 +1,5 @@
 ---
 title: "Vintage Paradise"
 url: /london/vintage-paradise/
-shop: Kleidung
+shop: clothes
 ---

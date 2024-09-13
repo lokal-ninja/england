@@ -1,5 +1,5 @@
 ---
 title: "Braitch Estate Agents"
 url: /wolverhampton/braitch-estate-agents/
-shop: Immobilien
+shop: estate agent
 ---

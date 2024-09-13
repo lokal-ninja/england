@@ -1,5 +1,5 @@
 ---
 title: "Chard Auctions"
 url: /chard/chard-auctions/
-shop: Auktionshaus
+shop: auction house
 ---

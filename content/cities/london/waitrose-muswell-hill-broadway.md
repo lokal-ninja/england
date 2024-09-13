@@ -1,5 +1,5 @@
 ---
 title: "Waitrose"
 url: /london/waitrose-muswell-hill-broadway/
-shop: Supermarkt
+shop: supermarket
 ---

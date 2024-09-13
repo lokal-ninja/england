@@ -1,5 +1,5 @@
 ---
 title: "Specsavers"
 url: /london/specsavers-eltham-high-street/
-shop: Optiker
+shop: optician
 ---

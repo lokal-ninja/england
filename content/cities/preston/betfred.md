@@ -1,5 +1,5 @@
 ---
 title: "BetFred"
 url: /preston/betfred/
-shop: Wettbüro
+shop: bookmaker
 ---

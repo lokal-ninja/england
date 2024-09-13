@@ -1,5 +1,5 @@
 ---
 title: "Dalesmade"
 url: /settle/dalesmade/
-shop: Küchen
+shop: kitchen
 ---

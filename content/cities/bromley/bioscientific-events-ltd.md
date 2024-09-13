@@ -1,5 +1,5 @@
 ---
 title: "Bioscientific Events Ltd"
 url: /bromley/bioscientific-events-ltd/
-shop: Allgemein
+shop: shop
 ---

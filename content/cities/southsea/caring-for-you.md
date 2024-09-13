@@ -1,5 +1,5 @@
 ---
 title: "Caring For You"
 url: /southsea/caring-for-you/
-shop: Allgemein
+shop: shop
 ---

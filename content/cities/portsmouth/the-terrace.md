@@ -1,5 +1,5 @@
 ---
 title: "the terrace"
 url: /portsmouth/the-terrace/
-shop: Friseur
+shop: hairdresser
 ---

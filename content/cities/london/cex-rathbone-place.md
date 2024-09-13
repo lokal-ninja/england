@@ -1,5 +1,5 @@
 ---
 title: "CeX"
 url: /london/cex-rathbone-place/
-shop: Elektronik
+shop: electronics
 ---

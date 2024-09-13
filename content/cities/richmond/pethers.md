@@ -1,5 +1,5 @@
 ---
 title: "Pethers"
 url: /richmond/pethers/
-shop: Metzgerei
+shop: butcher
 ---

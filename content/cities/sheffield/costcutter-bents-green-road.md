@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /sheffield/costcutter-bents-green-road/
-shop: Lebensmittel
+shop: convenience
 ---

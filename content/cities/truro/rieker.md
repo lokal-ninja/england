@@ -1,5 +1,5 @@
 ---
 title: "Rieker"
 url: /truro/rieker/
-shop: Schuhe
+shop: shoes
 ---

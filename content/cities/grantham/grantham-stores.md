@@ -1,5 +1,5 @@
 ---
 title: "Grantham Stores"
 url: /grantham/grantham-stores/
-shop: Lebensmittel
+shop: convenience
 ---

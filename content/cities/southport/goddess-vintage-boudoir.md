@@ -1,5 +1,5 @@
 ---
 title: "Goddess Vintage Boudoir"
 url: /southport/goddess-vintage-boudoir/
-shop: Allgemein
+shop: shop
 ---

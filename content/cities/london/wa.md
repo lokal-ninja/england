@@ -1,5 +1,5 @@
 ---
 title: "WA"
 url: /london/wa/
-shop: Konditorei
+shop: pastry
 ---

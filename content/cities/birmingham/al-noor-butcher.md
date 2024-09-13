@@ -1,5 +1,5 @@
 ---
 title: "Al Noor Butcher"
 url: /birmingham/al-noor-butcher/
-shop: Metzgerei
+shop: butcher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Design House"
 url: /norwich/design-house/
-shop: Möbel
+shop: furniture
 ---

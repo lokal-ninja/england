@@ -1,5 +1,5 @@
 ---
 title: "Maple"
 url: /bristol/maple/
-shop: Möbel
+shop: furniture
 ---

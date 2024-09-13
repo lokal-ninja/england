@@ -1,5 +1,5 @@
 ---
 title: "Majestic"
 url: /ipswich/majestic/
-shop: Spirituosen
+shop: alcohol
 ---

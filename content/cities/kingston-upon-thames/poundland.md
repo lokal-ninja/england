@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /kingston-upon-thames/poundland/
-shop: Kramladen
+shop: variety store
 ---

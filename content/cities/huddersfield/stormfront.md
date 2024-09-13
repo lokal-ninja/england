@@ -1,5 +1,5 @@
 ---
 title: "Stormfront"
 url: /huddersfield/stormfront/
-shop: Elektronik
+shop: electronics
 ---

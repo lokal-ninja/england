@@ -1,5 +1,5 @@
 ---
 title: "The Lions Den"
 url: /southport/the-lions-den/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Broadwalk News"
 url: /bristol/broadwalk-news/
-shop: Zeitungen
+shop: newsagent
 ---

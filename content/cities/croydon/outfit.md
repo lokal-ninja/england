@@ -1,5 +1,5 @@
 ---
 title: "Outfit"
 url: /croydon/outfit/
-shop: Kleidung
+shop: clothes
 ---

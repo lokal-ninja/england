@@ -1,5 +1,5 @@
 ---
 title: "Auto Xchange"
 url: /derby/auto-xchange/
-shop: Autohaus
+shop: car
 ---

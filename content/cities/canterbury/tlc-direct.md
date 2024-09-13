@@ -1,5 +1,5 @@
 ---
 title: "TLC Direct"
 url: /canterbury/tlc-direct/
-shop: Elektrisch
+shop: electrical
 ---

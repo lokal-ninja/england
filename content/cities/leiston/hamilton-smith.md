@@ -1,5 +1,5 @@
 ---
 title: "Hamilton Smith"
 url: /leiston/hamilton-smith/
-shop: Immobilien
+shop: estate agent
 ---

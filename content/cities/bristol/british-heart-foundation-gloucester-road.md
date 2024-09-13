@@ -1,5 +1,5 @@
 ---
 title: "British Heart Foundation"
 url: /bristol/british-heart-foundation-gloucester-road/
-shop: Gebrauchtwaren
+shop: charity
 ---

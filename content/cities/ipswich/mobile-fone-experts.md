@@ -1,5 +1,5 @@
 ---
 title: "Mobile Fone Experts"
 url: /ipswich/mobile-fone-experts/
-shop: Handy
+shop: mobile phone
 ---

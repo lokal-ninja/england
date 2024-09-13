@@ -1,5 +1,5 @@
 ---
 title: "Kathmandu"
 url: /hull/kathmandu/
-shop: Andenken
+shop: gift
 ---

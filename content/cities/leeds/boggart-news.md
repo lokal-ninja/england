@@ -1,5 +1,5 @@
 ---
 title: "Boggart News"
 url: /leeds/boggart-news/
-shop: Zeitungen
+shop: newsagent
 ---

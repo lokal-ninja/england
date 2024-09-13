@@ -1,5 +1,5 @@
 ---
 title: "Newsbox Fireworks"
 url: /loughton/newsbox-fireworks/
-shop: Pyrotechnik
+shop: pyrotechnics
 ---

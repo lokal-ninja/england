@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /rayleigh/savers/
-shop: Drogerie
+shop: chemist
 ---

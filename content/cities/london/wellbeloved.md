@@ -1,5 +1,5 @@
 ---
 title: "Wellbeloved"
 url: /london/wellbeloved/
-shop: Metzgerei
+shop: butcher
 ---

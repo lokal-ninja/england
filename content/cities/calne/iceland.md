@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /calne/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

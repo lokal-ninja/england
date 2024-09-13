@@ -1,5 +1,5 @@
 ---
 title: "Coachwork Renovations"
 url: /gravesend/coachwork-renovations-west-mill/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Daily News"
 url: /sheffield/daily-news/
-shop: Zeitungen
+shop: newsagent
 ---

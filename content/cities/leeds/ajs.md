@@ -1,5 +1,5 @@
 ---
 title: "AJs"
 url: /leeds/ajs/
-shop: Lebensmittel
+shop: convenience
 ---

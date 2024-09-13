@@ -1,5 +1,5 @@
 ---
 title: "Hungerford Bathrooms"
 url: /hungerford/hungerford-bathrooms/
-shop: Badezimmer
+shop: bathroom
 ---

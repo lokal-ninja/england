@@ -1,5 +1,5 @@
 ---
 title: "Mencap"
 url: /newport/mencap/
-shop: Gebrauchtwaren
+shop: charity
 ---

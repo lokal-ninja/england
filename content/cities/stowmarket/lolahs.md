@@ -1,5 +1,5 @@
 ---
 title: "Lolah's"
 url: /stowmarket/lolahs/
-shop: Raumausstattung
+shop: interior decoration
 ---

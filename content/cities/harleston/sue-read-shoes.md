@@ -1,5 +1,5 @@
 ---
 title: "Sue Read Shoes"
 url: /harleston/sue-read-shoes/
-shop: Schuhe
+shop: shoes
 ---

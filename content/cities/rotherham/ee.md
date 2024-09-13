@@ -1,5 +1,5 @@
 ---
 title: "EE"
 url: /rotherham/ee/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Poppins"
 url: /shanklin/poppins/
-shop: Kaffee
+shop: coffee
 ---

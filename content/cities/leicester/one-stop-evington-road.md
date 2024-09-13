@@ -1,5 +1,5 @@
 ---
 title: "One Stop"
 url: /leicester/one-stop-evington-road/
-shop: Lebensmittel
+shop: convenience
 ---

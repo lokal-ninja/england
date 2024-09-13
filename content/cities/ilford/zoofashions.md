@@ -1,5 +1,5 @@
 ---
 title: "ZOOFASHIONS"
 url: /ilford/zoofashions/
-shop: Kleidung
+shop: clothes
 ---

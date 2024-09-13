@@ -1,5 +1,5 @@
 ---
 title: "Formula One Autocentres"
 url: /bexhill-on-sea/formula-one-autocentres/
-shop: Autowerkstatt
+shop: car repair
 ---

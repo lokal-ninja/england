@@ -1,5 +1,5 @@
 ---
 title: "Co-op Food"
 url: /nottingham/co-op-food-university-boulevard/
-shop: Lebensmittel
+shop: convenience
 ---

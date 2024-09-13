@@ -1,5 +1,5 @@
 ---
 title: "Scope"
 url: /chester/scope/
-shop: Gebrauchtwaren
+shop: charity
 ---

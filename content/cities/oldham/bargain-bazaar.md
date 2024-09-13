@@ -1,5 +1,5 @@
 ---
 title: "Bargain Bazaar"
 url: /oldham/bargain-bazaar/
-shop: Kramladen
+shop: variety store
 ---

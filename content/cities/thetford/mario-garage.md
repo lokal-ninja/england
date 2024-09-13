@@ -1,5 +1,5 @@
 ---
 title: "Mario Garage"
 url: /thetford/mario-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Oxfam"
 url: /london/oxfam-garratt-lane/
-shop: Gebrauchtwaren
+shop: charity
 ---

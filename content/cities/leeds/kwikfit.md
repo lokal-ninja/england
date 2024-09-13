@@ -1,5 +1,5 @@
 ---
 title: "Kwikfit"
 url: /leeds/kwikfit/
-shop: Autowerkstatt
+shop: car repair
 ---

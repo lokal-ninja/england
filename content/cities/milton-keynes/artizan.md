@@ -1,5 +1,5 @@
 ---
 title: "Artizan"
 url: /milton-keynes/artizan/
-shop: Friseur
+shop: hairdresser
 ---

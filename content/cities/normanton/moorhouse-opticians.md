@@ -1,5 +1,5 @@
 ---
 title: "Moorhouse Opticians"
 url: /normanton/moorhouse-opticians/
-shop: Optiker
+shop: optician
 ---

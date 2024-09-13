@@ -1,5 +1,5 @@
 ---
 title: "Oxfam"
 url: /manchester/oxfam-oldham-street-2/
-shop: Gebrauchtwaren
+shop: charity
 ---

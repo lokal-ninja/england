@@ -1,5 +1,5 @@
 ---
 title: "Lizzy's Laundry"
 url: /leeds/lizzys-laundry/
-shop: Wäscherei
+shop: laundry
 ---

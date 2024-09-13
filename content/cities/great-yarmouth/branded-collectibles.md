@@ -1,5 +1,5 @@
 ---
 title: "Branded Collectibles"
 url: /great-yarmouth/branded-collectibles/
-shop: Sammler
+shop: collector
 ---

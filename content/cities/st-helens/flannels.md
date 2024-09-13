@@ -1,5 +1,5 @@
 ---
 title: "Flannels"
 url: /st-helens/flannels/
-shop: Kleidung
+shop: clothes
 ---

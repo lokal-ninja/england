@@ -1,5 +1,5 @@
 ---
 title: "Card Factory"
 url: /skipton/card-factory/
-shop: Andenken
+shop: gift
 ---

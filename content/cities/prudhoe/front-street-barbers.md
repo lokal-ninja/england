@@ -1,5 +1,5 @@
 ---
 title: "Front Street Barbers"
 url: /prudhoe/front-street-barbers/
-shop: Friseur
+shop: hairdresser
 ---

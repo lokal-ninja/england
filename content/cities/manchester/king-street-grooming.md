@@ -1,5 +1,5 @@
 ---
 title: "King Street Grooming"
 url: /manchester/king-street-grooming/
-shop: Friseur
+shop: hairdresser
 ---

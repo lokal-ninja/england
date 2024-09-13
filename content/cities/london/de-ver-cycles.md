@@ -1,5 +1,5 @@
 ---
 title: "De Ver Cycles"
 url: /london/de-ver-cycles/
-shop: Fahrrad
+shop: bicycle
 ---

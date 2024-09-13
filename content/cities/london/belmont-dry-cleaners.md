@@ -1,5 +1,5 @@
 ---
 title: "Belmont Dry Cleaners"
 url: /london/belmont-dry-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

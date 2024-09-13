@@ -1,5 +1,5 @@
 ---
 title: "EE"
 url: /redcar/ee/
-shop: Handy
+shop: mobile phone
 ---

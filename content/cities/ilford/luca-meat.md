@@ -1,5 +1,5 @@
 ---
 title: "Luca Meat"
 url: /ilford/luca-meat/
-shop: Metzgerei
+shop: butcher
 ---

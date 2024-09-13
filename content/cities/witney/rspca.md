@@ -1,5 +1,5 @@
 ---
 title: "RSPCA"
 url: /witney/rspca/
-shop: Gebrauchtwaren
+shop: charity
 ---

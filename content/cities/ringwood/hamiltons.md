@@ -1,5 +1,5 @@
 ---
 title: "Hamiltons"
 url: /ringwood/hamiltons/
-shop: Schmuck
+shop: jewelry
 ---

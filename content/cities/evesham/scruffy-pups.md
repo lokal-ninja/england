@@ -1,5 +1,5 @@
 ---
 title: "Scruffy Pups"
 url: /evesham/scruffy-pups/
-shop: Tiersalon
+shop: pet grooming
 ---

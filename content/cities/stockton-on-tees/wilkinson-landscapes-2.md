@@ -1,5 +1,5 @@
 ---
 title: "Wilkinson Landscapes"
 url: /stockton-on-tees/wilkinson-landscapes-2/
-shop: Garten-Center
+shop: garden centre
 ---

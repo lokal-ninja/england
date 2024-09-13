@@ -1,5 +1,5 @@
 ---
 title: "Asda Express"
 url: /ashton-under-lyne/asda-express/
-shop: Lebensmittel
+shop: convenience
 ---

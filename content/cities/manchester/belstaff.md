@@ -1,5 +1,5 @@
 ---
 title: "Belstaff"
 url: /manchester/belstaff/
-shop: Kleidung
+shop: clothes
 ---

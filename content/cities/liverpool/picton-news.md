@@ -1,5 +1,5 @@
 ---
 title: "Picton News"
 url: /liverpool/picton-news/
-shop: Lebensmittel
+shop: convenience
 ---

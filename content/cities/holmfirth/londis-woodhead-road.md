@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /holmfirth/londis-woodhead-road/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "bene"
 url: /london/bene/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "EliteFTS"
 url: /wellington/elitefts/
-shop: Sport
+shop: sports
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Boots"
 url: /hatfield/boots/
-shop: Drogerie
+shop: chemist
 ---

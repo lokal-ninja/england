@@ -1,5 +1,5 @@
 ---
 title: "Bargain Buys"
 url: /newton-aycliffe/bargain-buys/
-shop: Kramladen
+shop: variety store
 ---

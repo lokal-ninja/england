@@ -1,5 +1,5 @@
 ---
 title: "Uno"
 url: /glossop/uno/
-shop: Kleidung
+shop: clothes
 ---

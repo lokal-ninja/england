@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /crook/lidl/
-shop: Supermarkt
+shop: supermarket
 ---

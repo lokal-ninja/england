@@ -1,5 +1,5 @@
 ---
 title: "Phone Box"
 url: /birmingham/phone-box/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nihow"
 url: /bristol/nihow/
-shop: Lebensmittel
+shop: convenience
 ---

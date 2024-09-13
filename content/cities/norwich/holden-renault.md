@@ -1,5 +1,5 @@
 ---
 title: "Holden Renault"
 url: /norwich/holden-renault/
-shop: Autohaus
+shop: car
 ---

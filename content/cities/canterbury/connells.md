@@ -1,5 +1,5 @@
 ---
 title: "Connells"
 url: /canterbury/connells/
-shop: Immobilien
+shop: estate agent
 ---

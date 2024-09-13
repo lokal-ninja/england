@@ -1,5 +1,5 @@
 ---
 title: "Blake Car Sales"
 url: /bridgwater/blake-car-sales/
-shop: Autohaus
+shop: car
 ---

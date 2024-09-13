@@ -1,5 +1,5 @@
 ---
 title: "Thomas Coombes"
 url: /esher/thomas-coombes/
-shop: Raumausstattung
+shop: interior decoration
 ---

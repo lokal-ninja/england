@@ -1,5 +1,5 @@
 ---
 title: "Impressed Ironing"
 url: /tyldesley/impressed-ironing-elliott-street/
-shop: Wäscherei
+shop: laundry
 ---

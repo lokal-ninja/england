@@ -1,5 +1,5 @@
 ---
 title: "The Peoples Supermarket"
 url: /london/the-peoples-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

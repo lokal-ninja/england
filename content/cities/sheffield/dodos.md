@@ -1,5 +1,5 @@
 ---
 title: "Dodos"
 url: /sheffield/dodos/
-shop: Süßwaren
+shop: confectionery
 ---

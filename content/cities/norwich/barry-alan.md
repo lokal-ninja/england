@@ -1,5 +1,5 @@
 ---
 title: "Barry Alan"
 url: /norwich/barry-alan/
-shop: Friseur
+shop: hairdresser
 ---

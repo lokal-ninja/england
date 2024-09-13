@@ -1,5 +1,5 @@
 ---
 title: "Zachary Cameron Hairdressing"
 url: /reading/zachary-cameron-hairdressing/
-shop: Friseur
+shop: hairdresser
 ---

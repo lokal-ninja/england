@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /exeter/poundland/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wolseley"
 url: /folkestone/wolseley/
-shop: Baustoffe
+shop: trade
 ---

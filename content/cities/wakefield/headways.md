@@ -1,5 +1,5 @@
 ---
 title: "Headways"
 url: /wakefield/headways/
-shop: Friseur
+shop: hairdresser
 ---

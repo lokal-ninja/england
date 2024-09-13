@@ -1,5 +1,5 @@
 ---
 title: "Argos"
 url: /penrith/argos/
-shop: Katalog
+shop: catalogue
 ---

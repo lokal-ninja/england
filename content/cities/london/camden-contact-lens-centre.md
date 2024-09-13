@@ -1,5 +1,5 @@
 ---
 title: "Camden Contact Lens Centre"
 url: /london/camden-contact-lens-centre/
-shop: Optiker
+shop: optician
 ---

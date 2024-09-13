@@ -1,5 +1,5 @@
 ---
 title: "Sunbelt Rentals"
 url: /barking/sunbelt-rentals/
-shop: Mieten
+shop: storage rental
 ---

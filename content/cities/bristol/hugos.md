@@ -1,5 +1,5 @@
 ---
 title: "Hugo's"
 url: /bristol/hugos/
-shop: Feinkost
+shop: deli
 ---

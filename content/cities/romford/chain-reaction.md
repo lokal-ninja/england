@@ -1,5 +1,5 @@
 ---
 title: "Chain Reaction"
 url: /romford/chain-reaction/
-shop: Schmuck
+shop: jewelry
 ---

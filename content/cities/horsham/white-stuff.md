@@ -1,5 +1,5 @@
 ---
 title: "White Stuff"
 url: /horsham/white-stuff/
-shop: Kleidung
+shop: clothes
 ---

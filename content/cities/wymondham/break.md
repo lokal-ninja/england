@@ -1,5 +1,5 @@
 ---
 title: "Break"
 url: /wymondham/break/
-shop: Gebrauchtwaren
+shop: charity
 ---

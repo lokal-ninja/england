@@ -1,5 +1,5 @@
 ---
 title: "Majestic"
 url: /haywards-heath/majestic/
-shop: Spirituosen
+shop: alcohol
 ---

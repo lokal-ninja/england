@@ -1,5 +1,5 @@
 ---
 title: "Right Price"
 url: /south-shields/right-price/
-shop: Lebensmittel
+shop: convenience
 ---

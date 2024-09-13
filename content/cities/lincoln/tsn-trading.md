@@ -1,5 +1,5 @@
 ---
 title: "Tsn Trading"
 url: /lincoln/tsn-trading/
-shop: Zeitungen
+shop: newsagent
 ---

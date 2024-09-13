@@ -1,5 +1,5 @@
 ---
 title: "Glamour"
 url: /manchester/glamour/
-shop: Friseur
+shop: hairdresser
 ---

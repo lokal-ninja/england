@@ -1,5 +1,5 @@
 ---
 title: "Manchester House"
 url: /camborne/manchester-house/
-shop: Kleidung
+shop: clothes
 ---

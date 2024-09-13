@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /poulton-le-fylde/spar-lancaster-road/
-shop: Lebensmittel
+shop: convenience
 ---

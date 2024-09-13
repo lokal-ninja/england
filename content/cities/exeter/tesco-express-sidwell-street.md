@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /exeter/tesco-express-sidwell-street/
-shop: Lebensmittel
+shop: convenience
 ---

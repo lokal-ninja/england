@@ -1,5 +1,5 @@
 ---
 title: "Van Pelt"
 url: /kings-lynn/van-pelt/
-shop: Metzgerei
+shop: butcher
 ---

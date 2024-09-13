@@ -1,5 +1,5 @@
 ---
 title: "BeaverBrooks"
 url: /romford/beaverbrooks/
-shop: Schmuck
+shop: jewelry
 ---

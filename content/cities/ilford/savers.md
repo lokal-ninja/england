@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /ilford/savers/
-shop: Drogerie
+shop: chemist
 ---

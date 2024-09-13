@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /workington/savers/
-shop: Drogerie
+shop: chemist
 ---

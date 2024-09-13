@@ -1,5 +1,5 @@
 ---
 title: "The Muddy Paw"
 url: /london/the-muddy-paw/
-shop: Tiersalon
+shop: pet grooming
 ---

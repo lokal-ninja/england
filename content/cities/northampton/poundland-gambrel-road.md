@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /northampton/poundland-gambrel-road/
-shop: Kramladen
+shop: variety store
 ---

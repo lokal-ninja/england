@@ -1,5 +1,5 @@
 ---
 title: "Vinny's Vapes"
 url: /stockton-on-tees/vinnys-vapes/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

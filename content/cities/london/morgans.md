@@ -1,5 +1,5 @@
 ---
 title: "Morgans"
 url: /london/morgans/
-shop: Metzgerei
+shop: butcher
 ---

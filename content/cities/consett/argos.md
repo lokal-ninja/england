@@ -1,5 +1,5 @@
 ---
 title: "Argos"
 url: /consett/argos/
-shop: Katalog
+shop: catalogue
 ---

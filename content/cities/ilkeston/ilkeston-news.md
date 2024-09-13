@@ -1,5 +1,5 @@
 ---
 title: "Ilkeston News"
 url: /ilkeston/ilkeston-news/
-shop: Lebensmittel
+shop: convenience
 ---

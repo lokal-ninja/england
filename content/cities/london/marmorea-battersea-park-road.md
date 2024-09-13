@@ -1,5 +1,5 @@
 ---
 title: "Marmorea"
 url: /london/marmorea-battersea-park-road/
-shop: Möbel
+shop: furniture
 ---

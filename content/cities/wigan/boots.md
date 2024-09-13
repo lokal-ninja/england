@@ -1,5 +1,5 @@
 ---
 title: "Boots"
 url: /wigan/boots/
-shop: Drogerie
+shop: chemist
 ---

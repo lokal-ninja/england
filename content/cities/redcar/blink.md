@@ -1,5 +1,5 @@
 ---
 title: "Blink"
 url: /redcar/blink/
-shop: Optiker
+shop: optician
 ---

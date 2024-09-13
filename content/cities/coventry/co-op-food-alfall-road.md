@@ -1,5 +1,5 @@
 ---
 title: "Co-op Food"
 url: /coventry/co-op-food-alfall-road/
-shop: Supermarkt
+shop: supermarket
 ---

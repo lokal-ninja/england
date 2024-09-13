@@ -1,5 +1,5 @@
 ---
 title: "Slick"
 url: /london/slick/
-shop: Friseur
+shop: hairdresser
 ---

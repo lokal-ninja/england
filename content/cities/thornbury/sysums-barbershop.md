@@ -1,5 +1,5 @@
 ---
 title: "Sysums Barbershop"
 url: /thornbury/sysums-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pastimes"
 url: /sherborne/pastimes/
-shop: Spielzeug
+shop: toys
 ---

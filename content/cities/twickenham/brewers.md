@@ -1,5 +1,5 @@
 ---
 title: "Brewers"
 url: /twickenham/brewers/
-shop: Farben
+shop: paint
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /east-grinstead/londis/
-shop: Lebensmittel
+shop: convenience
 ---

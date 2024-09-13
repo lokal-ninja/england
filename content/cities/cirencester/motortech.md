@@ -1,5 +1,5 @@
 ---
 title: "Motortech"
 url: /cirencester/motortech/
-shop: Autowerkstatt
+shop: car repair
 ---

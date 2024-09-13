@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /london/poundland-woodgrange-road/
-shop: Kramladen
+shop: variety store
 ---

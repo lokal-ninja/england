@@ -1,5 +1,5 @@
 ---
 title: "Chandni Kiosk"
 url: /reading/chandni-kiosk/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Damans"
 url: /southall/damans/
-shop: Dorfladen
+shop: general
 ---

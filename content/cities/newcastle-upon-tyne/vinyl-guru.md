@@ -1,5 +1,5 @@
 ---
 title: "Vinyl Guru"
 url: /newcastle-upon-tyne/vinyl-guru/
-shop: Musik
+shop: music
 ---

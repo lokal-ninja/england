@@ -1,5 +1,5 @@
 ---
 title: "Barley Stores"
 url: /royston/barley-stores/
-shop: Lebensmittel
+shop: convenience
 ---

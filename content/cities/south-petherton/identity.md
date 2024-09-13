@@ -1,5 +1,5 @@
 ---
 title: "Identity"
 url: /south-petherton/identity/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Savills"
 url: /london/savills/
-shop: Immobilien
+shop: estate agent
 ---

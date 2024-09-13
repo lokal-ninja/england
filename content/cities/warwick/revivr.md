@@ -1,5 +1,5 @@
 ---
 title: "Revivr"
 url: /warwick/revivr/
-shop: Möbel
+shop: furniture
 ---

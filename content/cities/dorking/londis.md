@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /dorking/londis/
-shop: Lebensmittel
+shop: convenience
 ---

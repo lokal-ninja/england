@@ -1,5 +1,5 @@
 ---
 title: "Brighton Cookery School"
 url: /brighton/brighton-cookery-school/
-shop: Allgemein
+shop: shop
 ---

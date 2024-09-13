@@ -1,5 +1,5 @@
 ---
 title: "Deva Gem"
 url: /chester/deva-gem/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Highway Services Ltd"
 url: /nottingham/highway-services-ltd/
-shop: Autowerkstatt
+shop: car repair
 ---

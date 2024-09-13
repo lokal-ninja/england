@@ -1,5 +1,5 @@
 ---
 title: "West Hub Newsagents"
 url: /cambridge/west-hub-newsagents/
-shop: Lebensmittel
+shop: convenience
 ---

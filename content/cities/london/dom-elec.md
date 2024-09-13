@@ -1,5 +1,5 @@
 ---
 title: "Dom-Elec"
 url: /london/dom-elec/
-shop: Haushaltsartikel
+shop: houseware
 ---

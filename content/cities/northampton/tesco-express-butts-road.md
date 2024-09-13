@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /northampton/tesco-express-butts-road/
-shop: Lebensmittel
+shop: convenience
 ---

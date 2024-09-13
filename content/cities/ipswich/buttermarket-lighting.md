@@ -1,5 +1,5 @@
 ---
 title: "Buttermarket Lighting"
 url: /ipswich/buttermarket-lighting/
-shop: Lampen
+shop: lamps
 ---

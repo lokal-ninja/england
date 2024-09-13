@@ -1,5 +1,5 @@
 ---
 title: "Essentials"
 url: /gillingham/essentials/
-shop: Lebensmittel
+shop: convenience
 ---

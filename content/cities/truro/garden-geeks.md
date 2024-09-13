@@ -1,5 +1,5 @@
 ---
 title: "Garden Geeks"
 url: /truro/garden-geeks/
-shop: Garten-Center
+shop: garden centre
 ---

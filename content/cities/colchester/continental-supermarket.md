@@ -1,5 +1,5 @@
 ---
 title: "Continental Supermarket"
 url: /colchester/continental-supermarket/
-shop: Lebensmittel
+shop: convenience
 ---

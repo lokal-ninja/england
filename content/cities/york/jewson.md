@@ -1,5 +1,5 @@
 ---
 title: "Jewson"
 url: /york/jewson/
-shop: Baustoffe
+shop: trade
 ---

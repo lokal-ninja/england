@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /scunthorpe/aldi-ashby-high-street/
-shop: Supermarkt
+shop: supermarket
 ---

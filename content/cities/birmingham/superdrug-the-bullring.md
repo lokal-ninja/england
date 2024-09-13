@@ -1,5 +1,5 @@
 ---
 title: "Superdrug"
 url: /birmingham/superdrug-the-bullring/
-shop: Drogerie
+shop: chemist
 ---

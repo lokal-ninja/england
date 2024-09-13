@@ -1,5 +1,5 @@
 ---
 title: "Lassco"
 url: /london/lassco/
-shop: Antiquitäten
+shop: antiques
 ---

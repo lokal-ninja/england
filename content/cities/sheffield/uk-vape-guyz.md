@@ -1,5 +1,5 @@
 ---
 title: "UK Vape Guyz"
 url: /sheffield/uk-vape-guyz/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

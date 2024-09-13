@@ -1,5 +1,5 @@
 ---
 title: "Bandido Barbers"
 url: /orpington/bandido-barbers/
-shop: Friseur
+shop: hairdresser
 ---

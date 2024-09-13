@@ -1,5 +1,5 @@
 ---
 title: "Lawrence Barrie"
 url: /kirkby-lonsdale/lawrence-barrie/
-shop: Kleidung
+shop: clothes
 ---

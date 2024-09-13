@@ -1,5 +1,5 @@
 ---
 title: "Timpson"
 url: /sidmouth/timpson/
-shop: Schuhe
+shop: shoes
 ---

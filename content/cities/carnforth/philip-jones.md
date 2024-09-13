@@ -1,5 +1,5 @@
 ---
 title: "Philip Jones"
 url: /carnforth/philip-jones/
-shop: Optiker
+shop: optician
 ---

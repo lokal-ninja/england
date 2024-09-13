@@ -1,5 +1,5 @@
 ---
 title: "Ian Barker Butcher"
 url: /burton-on-trent/ian-barker-butcher/
-shop: Metzgerei
+shop: butcher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Genevieve"
 url: /carlisle/genevieve/
-shop: Kleidung
+shop: clothes
 ---

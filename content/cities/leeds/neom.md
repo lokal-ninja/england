@@ -1,5 +1,5 @@
 ---
 title: "Neom"
 url: /leeds/neom/
-shop: Parfümerie
+shop: perfumery
 ---

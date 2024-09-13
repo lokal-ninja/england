@@ -1,5 +1,5 @@
 ---
 title: "Matini"
 url: /frinton-on-sea/matini/
-shop: Kleidung
+shop: clothes
 ---

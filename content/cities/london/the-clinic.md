@@ -1,5 +1,5 @@
 ---
 title: "The Clinic"
 url: /london/the-clinic/
-shop: Kosmetik
+shop: beauty
 ---

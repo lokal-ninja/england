@@ -1,5 +1,5 @@
 ---
 title: "Space NK"
 url: /leeds/space-nk/
-shop: Kosmetik
+shop: beauty
 ---

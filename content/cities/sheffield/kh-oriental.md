@@ -1,5 +1,5 @@
 ---
 title: "KH Oriental"
 url: /sheffield/kh-oriental/
-shop: Supermarkt
+shop: supermarket
 ---

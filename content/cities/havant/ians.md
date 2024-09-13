@@ -1,5 +1,5 @@
 ---
 title: "Ian's"
 url: /havant/ians/
-shop: Tattoo
+shop: tattoo
 ---

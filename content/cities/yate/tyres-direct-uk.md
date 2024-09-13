@@ -1,5 +1,5 @@
 ---
 title: "Tyres Direct UK"
 url: /yate/tyres-direct-uk/
-shop: Reifen
+shop: tyres
 ---

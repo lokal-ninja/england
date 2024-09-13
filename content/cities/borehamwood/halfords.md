@@ -1,5 +1,5 @@
 ---
 title: "Halfords"
 url: /borehamwood/halfords/
-shop: Autoteile
+shop: car parts
 ---

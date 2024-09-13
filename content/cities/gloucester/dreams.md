@@ -1,5 +1,5 @@
 ---
 title: "Dreams"
 url: /gloucester/dreams/
-shop: Betten
+shop: bed
 ---

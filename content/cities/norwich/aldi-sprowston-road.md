@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /norwich/aldi-sprowston-road/
-shop: Supermarkt
+shop: supermarket
 ---

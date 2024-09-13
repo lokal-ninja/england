@@ -1,5 +1,5 @@
 ---
 title: "Lighthouse"
 url: /hunstanton/lighthouse/
-shop: Lampen
+shop: lamps
 ---

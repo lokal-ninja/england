@@ -1,5 +1,5 @@
 ---
 title: "AllSaints"
 url: /brighton/allsaints/
-shop: Kleidung
+shop: clothes
 ---

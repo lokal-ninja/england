@@ -1,5 +1,5 @@
 ---
 title: "Bake N Cakes"
 url: /thornton-cleveleys/bake-n-cakes/
-shop: Konditorei
+shop: pastry
 ---

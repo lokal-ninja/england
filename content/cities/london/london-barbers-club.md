@@ -1,5 +1,5 @@
 ---
 title: "London Barbers Club"
 url: /london/london-barbers-club/
-shop: Friseur
+shop: hairdresser
 ---

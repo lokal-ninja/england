@@ -1,5 +1,5 @@
 ---
 title: "North West Engine Centre"
 url: /oldham/north-west-engine-centre/
-shop: Autowerkstatt
+shop: car repair
 ---

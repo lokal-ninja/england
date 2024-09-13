@@ -1,5 +1,5 @@
 ---
 title: "Carolyn"
 url: /leiston/carolyn/
-shop: Textil
+shop: fabric
 ---

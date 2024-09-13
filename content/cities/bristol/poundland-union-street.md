@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /bristol/poundland-union-street/
-shop: Kramladen
+shop: variety store
 ---

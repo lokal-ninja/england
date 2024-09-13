@@ -1,5 +1,5 @@
 ---
 title: "Honeysuckle"
 url: /cobham/honeysuckle/
-shop: Raumausstattung
+shop: interior decoration
 ---

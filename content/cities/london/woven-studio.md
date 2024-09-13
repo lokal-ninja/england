@@ -1,5 +1,5 @@
 ---
 title: "Woven Studio"
 url: /london/woven-studio/
-shop: Kleidung
+shop: clothes
 ---

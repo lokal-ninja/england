@@ -1,5 +1,5 @@
 ---
 title: "Extracare"
 url: /rushden/extracare/
-shop: Gebrauchtwaren
+shop: charity
 ---

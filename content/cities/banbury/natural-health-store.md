@@ -1,5 +1,5 @@
 ---
 title: "Natural Health Store"
 url: /banbury/natural-health-store/
-shop: Bioladen
+shop: health food
 ---

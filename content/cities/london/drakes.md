@@ -1,5 +1,5 @@
 ---
 title: "Drake's"
 url: /london/drakes/
-shop: Kleidung
+shop: clothes
 ---

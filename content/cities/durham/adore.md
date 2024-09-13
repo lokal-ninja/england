@@ -1,5 +1,5 @@
 ---
 title: "Adore"
 url: /durham/adore/
-shop: Kleidung
+shop: clothes
 ---

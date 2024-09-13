@@ -1,5 +1,5 @@
 ---
 title: "Achievers"
 url: /nottingham/achievers/
-shop: Friseur
+shop: hairdresser
 ---

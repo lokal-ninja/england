@@ -1,5 +1,5 @@
 ---
 title: "Currys"
 url: /taunton/currys/
-shop: Elektronik
+shop: electronics
 ---

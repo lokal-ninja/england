@@ -1,5 +1,5 @@
 ---
 title: "Cooplands"
 url: /sheffield/cooplands/
-shop: Bäckerei
+shop: bakery
 ---

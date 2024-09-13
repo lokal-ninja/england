@@ -1,5 +1,5 @@
 ---
 title: "Excel"
 url: /bradford/excel/
-shop: Friseur
+shop: hairdresser
 ---

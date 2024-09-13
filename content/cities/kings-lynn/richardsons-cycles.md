@@ -1,5 +1,5 @@
 ---
 title: "Richardson's Cycles"
 url: /kings-lynn/richardsons-cycles/
-shop: Fahrrad
+shop: bicycle
 ---

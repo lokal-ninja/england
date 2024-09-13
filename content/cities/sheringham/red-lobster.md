@@ -1,5 +1,5 @@
 ---
 title: "Red Lobster"
 url: /sheringham/red-lobster/
-shop: Raumausstattung
+shop: interior decoration
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nike"
 url: /manchester/nike-manchester-fort-shopping-park/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /london/costcutter-westminster-bridge-road/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pyramid Pharmacy"
 url: /london/pyramid-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

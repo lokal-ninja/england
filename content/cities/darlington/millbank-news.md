@@ -1,5 +1,5 @@
 ---
 title: "Millbank News"
 url: /darlington/millbank-news/
-shop: Lebensmittel
+shop: convenience
 ---

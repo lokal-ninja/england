@@ -1,5 +1,5 @@
 ---
 title: "Newton Hill Garage"
 url: /wakefield/newton-hill-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

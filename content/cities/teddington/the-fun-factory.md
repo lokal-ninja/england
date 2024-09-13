@@ -1,5 +1,5 @@
 ---
 title: "The Fun Factory"
 url: /teddington/the-fun-factory/
-shop: Partyzubehör
+shop: party
 ---

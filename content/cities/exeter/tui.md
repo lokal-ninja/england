@@ -1,5 +1,5 @@
 ---
 title: "TUI"
 url: /exeter/tui/
-shop: Reisebüro
+shop: travel agency
 ---

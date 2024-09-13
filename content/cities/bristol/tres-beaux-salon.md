@@ -1,5 +1,5 @@
 ---
 title: "Très Beaux Salon"
 url: /bristol/tres-beaux-salon/
-shop: Friseur
+shop: hairdresser
 ---

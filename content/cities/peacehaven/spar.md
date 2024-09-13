@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /peacehaven/spar/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Amore"
 url: /woodbridge/amore/
-shop: Andenken
+shop: gift
 ---

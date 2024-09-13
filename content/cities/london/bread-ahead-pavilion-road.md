@@ -1,5 +1,5 @@
 ---
 title: "Bread Ahead"
 url: /london/bread-ahead-pavilion-road/
-shop: Bäckerei
+shop: bakery
 ---

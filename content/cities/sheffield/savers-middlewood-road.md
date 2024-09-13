@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /sheffield/savers-middlewood-road/
-shop: Drogerie
+shop: chemist
 ---

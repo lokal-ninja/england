@@ -1,5 +1,5 @@
 ---
 title: "Boyes"
 url: /grantham/boyes/
-shop: Kramladen
+shop: variety store
 ---

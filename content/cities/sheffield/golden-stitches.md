@@ -1,5 +1,5 @@
 ---
 title: "Golden Stitches"
 url: /sheffield/golden-stitches/
-shop: Schneiderei
+shop: tailor
 ---

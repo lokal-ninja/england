@@ -1,5 +1,5 @@
 ---
 title: "Emmaus"
 url: /london/emmaus-lee-high-road/
-shop: Möbel
+shop: furniture
 ---

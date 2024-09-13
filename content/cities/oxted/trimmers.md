@@ -1,5 +1,5 @@
 ---
 title: "Trimmers"
 url: /oxted/trimmers/
-shop: Friseur
+shop: hairdresser
 ---

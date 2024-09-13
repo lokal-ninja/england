@@ -1,5 +1,5 @@
 ---
 title: "YMCA"
 url: /swadlincote/ymca/
-shop: Gebrauchtwaren
+shop: charity
 ---

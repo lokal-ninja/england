@@ -1,5 +1,5 @@
 ---
 title: "Sew Cutting Edge"
 url: /warrington/sew-cutting-edge/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /sheffield/ladbrokes-ecclesall-road/
-shop: Wettbüro
+shop: bookmaker
 ---

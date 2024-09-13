@@ -1,5 +1,5 @@
 ---
 title: "Gap"
 url: /derby/gap/
-shop: Baustoffe
+shop: trade
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Go Bargain"
 url: /congleton/go-bargain/
-shop: Lebensmittel
+shop: convenience
 ---

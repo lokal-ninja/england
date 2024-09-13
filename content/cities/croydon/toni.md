@@ -1,5 +1,5 @@
 ---
 title: "Toni"
 url: /croydon/toni/
-shop: Friseur
+shop: hairdresser
 ---

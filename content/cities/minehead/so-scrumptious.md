@@ -1,5 +1,5 @@
 ---
 title: "So Scrumptious"
 url: /minehead/so-scrumptious/
-shop: Konditorei
+shop: pastry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Williams Service Centre"
 url: /trafford/williams-service-centre/
-shop: Autowerkstatt
+shop: car repair
 ---

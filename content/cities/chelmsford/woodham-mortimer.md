@@ -1,5 +1,5 @@
 ---
 title: "Woodham Mortimer"
 url: /chelmsford/woodham-mortimer/
-shop: Autohaus
+shop: car
 ---

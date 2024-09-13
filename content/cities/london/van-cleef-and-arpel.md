@@ -1,5 +1,5 @@
 ---
 title: "Van Cleef and Arpel"
 url: /london/van-cleef-and-arpel/
-shop: Schmuck
+shop: jewelry
 ---

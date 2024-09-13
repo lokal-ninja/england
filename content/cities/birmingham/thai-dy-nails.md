@@ -1,5 +1,5 @@
 ---
 title: "Thai-Dy Nails"
 url: /birmingham/thai-dy-nails/
-shop: Kosmetik
+shop: beauty
 ---

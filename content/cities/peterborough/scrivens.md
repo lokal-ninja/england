@@ -1,5 +1,5 @@
 ---
 title: "Scrivens"
 url: /peterborough/scrivens/
-shop: Optiker
+shop: optician
 ---

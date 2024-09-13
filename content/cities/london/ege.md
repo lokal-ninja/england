@@ -1,5 +1,5 @@
 ---
 title: "Ege"
 url: /london/ege/
-shop: Lebensmittel
+shop: convenience
 ---

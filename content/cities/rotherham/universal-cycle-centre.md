@@ -1,5 +1,5 @@
 ---
 title: "Universal Cycle Centre"
 url: /rotherham/universal-cycle-centre/
-shop: Fahrrad
+shop: bicycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Salts"
 url: /swadlincote/salts/
-shop: Antiquitäten
+shop: antiques
 ---

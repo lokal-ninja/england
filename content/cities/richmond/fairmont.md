@@ -1,5 +1,5 @@
 ---
 title: "Fairmont"
 url: /richmond/fairmont/
-shop: Immobilien
+shop: estate agent
 ---

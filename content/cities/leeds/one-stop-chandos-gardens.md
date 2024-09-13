@@ -1,5 +1,5 @@
 ---
 title: "One Stop"
 url: /leeds/one-stop-chandos-gardens/
-shop: Lebensmittel
+shop: convenience
 ---

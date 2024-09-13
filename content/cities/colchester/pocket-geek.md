@@ -1,5 +1,5 @@
 ---
 title: "Pocket Geek"
 url: /colchester/pocket-geek/
-shop: Handy
+shop: mobile phone
 ---

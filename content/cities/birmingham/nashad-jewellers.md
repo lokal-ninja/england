@@ -1,5 +1,5 @@
 ---
 title: "Nashad Jewellers"
 url: /birmingham/nashad-jewellers/
-shop: Schmuck
+shop: jewelry
 ---

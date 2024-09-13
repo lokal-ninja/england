@@ -1,5 +1,5 @@
 ---
 title: "Sab's Barbers"
 url: /whitstable/sabs-barbers/
-shop: Friseur
+shop: hairdresser
 ---

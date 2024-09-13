@@ -1,5 +1,5 @@
 ---
 title: "Benchmark Furniture"
 url: /kintbury/benchmark-furniture/
-shop: Möbel
+shop: furniture
 ---

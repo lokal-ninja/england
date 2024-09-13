@@ -1,5 +1,5 @@
 ---
 title: "HP Music"
 url: /ringwood/hp-music/
-shop: Musik
+shop: music
 ---

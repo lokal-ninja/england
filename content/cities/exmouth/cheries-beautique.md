@@ -1,5 +1,5 @@
 ---
 title: "Cherie's Beautique"
 url: /exmouth/cheries-beautique/
-shop: Kosmetik
+shop: beauty
 ---

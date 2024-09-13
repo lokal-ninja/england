@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /sheerness/savers/
-shop: Drogerie
+shop: chemist
 ---

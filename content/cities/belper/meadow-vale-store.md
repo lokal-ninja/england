@@ -1,5 +1,5 @@
 ---
 title: "Meadow Vale Store"
 url: /belper/meadow-vale-store/
-shop: Lebensmittel
+shop: convenience
 ---

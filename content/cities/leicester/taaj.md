@@ -1,5 +1,5 @@
 ---
 title: "taaj"
 url: /leicester/taaj/
-shop: Kleidung
+shop: clothes
 ---

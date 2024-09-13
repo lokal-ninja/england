@@ -1,5 +1,5 @@
 ---
 title: "Elanki"
 url: /birmingham/elanki/
-shop: Kleidung
+shop: clothes
 ---

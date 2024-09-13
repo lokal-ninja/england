@@ -1,5 +1,5 @@
 ---
 title: "Blu 7"
 url: /nottingham/blu-7/
-shop: Lebensmittel
+shop: convenience
 ---

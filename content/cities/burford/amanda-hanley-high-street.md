@@ -1,5 +1,5 @@
 ---
 title: "Amanda Hanley"
 url: /burford/amanda-hanley-high-street/
-shop: Feinkost
+shop: deli
 ---

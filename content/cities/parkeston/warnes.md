@@ -1,5 +1,5 @@
 ---
 title: "Warnes"
 url: /parkeston/warnes/
-shop: Metzgerei
+shop: butcher
 ---

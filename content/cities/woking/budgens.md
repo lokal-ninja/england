@@ -1,5 +1,5 @@
 ---
 title: "Budgens"
 url: /woking/budgens/
-shop: Lebensmittel
+shop: convenience
 ---

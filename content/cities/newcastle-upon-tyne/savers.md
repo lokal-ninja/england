@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /newcastle-upon-tyne/savers/
-shop: Drogerie
+shop: chemist
 ---

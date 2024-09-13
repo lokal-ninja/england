@@ -1,5 +1,5 @@
 ---
 title: "Quidsaver"
 url: /ilford/quidsaver/
-shop: Kramladen
+shop: variety store
 ---

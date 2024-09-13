@@ -1,5 +1,5 @@
 ---
 title: "Heron Foods"
 url: /newcastle-upon-tyne/heron-foods/
-shop: Supermarkt
+shop: supermarket
 ---

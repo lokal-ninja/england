@@ -1,5 +1,5 @@
 ---
 title: "Woodlands"
 url: /bridge/woodlands/
-shop: Friseur
+shop: hairdresser
 ---

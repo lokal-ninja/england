@@ -1,5 +1,5 @@
 ---
 title: "Indigo Sun"
 url: /derby/indigo-sun/
-shop: Kosmetik
+shop: beauty
 ---

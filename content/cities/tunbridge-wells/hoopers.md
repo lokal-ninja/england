@@ -1,5 +1,5 @@
 ---
 title: "Hoopers"
 url: /tunbridge-wells/hoopers/
-shop: Warenhaus
+shop: department store
 ---

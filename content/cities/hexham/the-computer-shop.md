@@ -1,5 +1,5 @@
 ---
 title: "The Computer Shop"
 url: /hexham/the-computer-shop/
-shop: Computer
+shop: computer
 ---

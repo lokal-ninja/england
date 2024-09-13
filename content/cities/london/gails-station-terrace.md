@@ -1,5 +1,5 @@
 ---
 title: "Gail's"
 url: /london/gails-station-terrace/
-shop: Bäckerei
+shop: bakery
 ---

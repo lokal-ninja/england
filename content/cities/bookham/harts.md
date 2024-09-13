@@ -1,5 +1,5 @@
 ---
 title: "Harts"
 url: /bookham/harts/
-shop: Schreibwaren
+shop: office supplies
 ---

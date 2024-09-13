@@ -1,5 +1,5 @@
 ---
 title: "Insaf Fabrics"
 url: /birmingham/insaf-fabrics/
-shop: Kleidung
+shop: clothes
 ---

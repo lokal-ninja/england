@@ -1,5 +1,5 @@
 ---
 title: "Sci Tech Planet"
 url: /birmingham/sci-tech-planet/
-shop: Handy
+shop: mobile phone
 ---

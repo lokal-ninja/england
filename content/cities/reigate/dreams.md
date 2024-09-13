@@ -1,5 +1,5 @@
 ---
 title: "Dreams"
 url: /reigate/dreams/
-shop: Betten
+shop: bed
 ---

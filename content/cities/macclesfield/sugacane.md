@@ -1,5 +1,5 @@
 ---
 title: "Sugacane"
 url: /macclesfield/sugacane/
-shop: Spielzeug
+shop: toys
 ---

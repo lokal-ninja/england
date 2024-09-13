@@ -1,5 +1,5 @@
 ---
 title: "Worldchoice"
 url: /upton/worldchoice/
-shop: Reisebüro
+shop: travel agency
 ---

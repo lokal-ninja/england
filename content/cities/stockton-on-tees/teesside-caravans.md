@@ -1,5 +1,5 @@
 ---
 title: "Teesside Caravans"
 url: /stockton-on-tees/teesside-caravans/
-shop: Wohnwagen
+shop: caravan
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
 url: /east-grinstead/vodafone/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Yaz's Flower Gallery"
 url: /london/yazs-flower-gallery/
-shop: Blumen
+shop: florist
 ---

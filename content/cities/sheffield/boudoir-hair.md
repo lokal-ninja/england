@@ -1,5 +1,5 @@
 ---
 title: "Boudoir Hair"
 url: /sheffield/boudoir-hair/
-shop: Friseur
+shop: hairdresser
 ---

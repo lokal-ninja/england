@@ -1,5 +1,5 @@
 ---
 title: "Kashi Pound Express"
 url: /nottingham/kashi-pound-express/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dormans Photo Imaging"
 url: /dunstable/dormans-photo-imaging/
-shop: Foto
+shop: photo
 ---

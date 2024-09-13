@@ -1,5 +1,5 @@
 ---
 title: "Cosmo China"
 url: /canterbury/cosmo-china/
-shop: Küchen
+shop: kitchen
 ---

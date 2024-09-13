@@ -1,5 +1,5 @@
 ---
 title: "Storagebase"
 url: /wednesbury/storagebase/
-shop: Mieten
+shop: storage rental
 ---

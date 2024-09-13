@@ -1,5 +1,5 @@
 ---
 title: "Taste the Orient"
 url: /sheffield/taste-the-orient/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pinfolds"
 url: /birmingham/pinfolds/
-shop: Wäscherei
+shop: laundry
 ---

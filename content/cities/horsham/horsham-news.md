@@ -1,5 +1,5 @@
 ---
 title: "Horsham News"
 url: /horsham/horsham-news/
-shop: Zeitungen
+shop: newsagent
 ---

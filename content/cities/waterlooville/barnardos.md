@@ -1,5 +1,5 @@
 ---
 title: "Barnardo's"
 url: /waterlooville/barnardos/
-shop: Gebrauchtwaren
+shop: charity
 ---

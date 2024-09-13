@@ -1,5 +1,5 @@
 ---
 title: "Hammonds"
 url: /leamington-spa/hammonds/
-shop: Raumausstattung
+shop: interior decoration
 ---

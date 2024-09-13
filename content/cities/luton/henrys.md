@@ -1,5 +1,5 @@
 ---
 title: "Henry's"
 url: /luton/henrys/
-shop: Lebensmittel
+shop: convenience
 ---

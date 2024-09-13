@@ -1,5 +1,5 @@
 ---
 title: "Greenspeed Autostylists"
 url: /weeley/greenspeed-autostylists/
-shop: Autowerkstatt
+shop: car repair
 ---

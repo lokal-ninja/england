@@ -1,5 +1,5 @@
 ---
 title: "Coulthard Motor Factors"
 url: /bishop-auckland/coulthard-motor-factors/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Raveka Store"
 url: /richmond/raveka-store/
-shop: Lebensmittel
+shop: convenience
 ---

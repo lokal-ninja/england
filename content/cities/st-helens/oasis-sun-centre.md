@@ -1,5 +1,5 @@
 ---
 title: "Oasis Sun Centre"
 url: /st-helens/oasis-sun-centre/
-shop: Kosmetik
+shop: beauty
 ---

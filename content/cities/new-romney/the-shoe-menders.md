@@ -1,5 +1,5 @@
 ---
 title: "The Shoe Menders"
 url: /new-romney/the-shoe-menders/
-shop: Kramladen
+shop: variety store
 ---

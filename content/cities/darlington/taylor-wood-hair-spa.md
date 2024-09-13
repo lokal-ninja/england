@@ -1,5 +1,5 @@
 ---
 title: "Taylor Wood Hair Spa"
 url: /darlington/taylor-wood-hair-spa/
-shop: Friseur
+shop: hairdresser
 ---

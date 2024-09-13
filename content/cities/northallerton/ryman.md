@@ -1,5 +1,5 @@
 ---
 title: "Ryman"
 url: /northallerton/ryman/
-shop: Schreibwaren
+shop: office supplies
 ---

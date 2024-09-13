@@ -1,5 +1,5 @@
 ---
 title: "Stokrotka"
 url: /nottingham/stokrotka/
-shop: Lebensmittel
+shop: convenience
 ---

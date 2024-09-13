@@ -1,5 +1,5 @@
 ---
 title: "Hays Travel"
 url: /catterick-garrison/hays-travel/
-shop: Reisebüro
+shop: travel agency
 ---

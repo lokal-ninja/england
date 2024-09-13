@@ -1,5 +1,5 @@
 ---
 title: "NET Cars"
 url: /ilkeston/net-cars/
-shop: Autohaus
+shop: car
 ---

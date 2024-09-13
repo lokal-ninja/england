@@ -1,5 +1,5 @@
 ---
 title: "Hollister"
 url: /solihull/hollister/
-shop: Kleidung
+shop: clothes
 ---

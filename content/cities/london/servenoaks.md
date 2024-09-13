@@ -1,5 +1,5 @@
 ---
 title: "Servenoaks"
 url: /london/servenoaks/
-shop: Elektronik
+shop: electronics
 ---

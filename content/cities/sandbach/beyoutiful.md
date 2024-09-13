@@ -1,5 +1,5 @@
 ---
 title: "Beyoutiful"
 url: /sandbach/beyoutiful/
-shop: Kosmetik
+shop: beauty
 ---

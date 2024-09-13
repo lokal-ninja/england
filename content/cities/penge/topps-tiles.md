@@ -1,5 +1,5 @@
 ---
 title: "Topps Tiles"
 url: /penge/topps-tiles/
-shop: Raumausstattung
+shop: tiles
 ---

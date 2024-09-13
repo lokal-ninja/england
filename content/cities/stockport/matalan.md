@@ -1,5 +1,5 @@
 ---
 title: "Matalan"
 url: /stockport/matalan/
-shop: Kleidung
+shop: clothes
 ---

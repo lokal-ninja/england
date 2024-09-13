@@ -1,5 +1,5 @@
 ---
 title: "Monsoon"
 url: /huddersfield/monsoon/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mrs P's"
 url: /much-wenlock/mrs-ps/
-shop: Zeitungen
+shop: newsagent
 ---

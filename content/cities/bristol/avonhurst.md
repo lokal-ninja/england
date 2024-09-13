@@ -1,5 +1,5 @@
 ---
 title: "Avonhurst"
 url: /bristol/avonhurst/
-shop: Allgemein
+shop: shop
 ---

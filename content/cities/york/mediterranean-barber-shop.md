@@ -1,5 +1,5 @@
 ---
 title: "Mediterranean Barber Shop"
 url: /york/mediterranean-barber-shop/
-shop: Friseur
+shop: hairdresser
 ---

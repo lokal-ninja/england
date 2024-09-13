@@ -1,5 +1,5 @@
 ---
 title: "Brereton Motors"
 url: /cleethorpes/brereton-motors/
-shop: Autohaus
+shop: car
 ---

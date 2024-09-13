@@ -1,5 +1,5 @@
 ---
 title: "cococheno"
 url: /bristol/cococheno/
-shop: Friseur
+shop: hairdresser
 ---

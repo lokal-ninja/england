@@ -1,5 +1,5 @@
 ---
 title: "Boots"
 url: /sutton-coldfield/boots-hollyfield-road-south/
-shop: Drogerie
+shop: chemist
 ---

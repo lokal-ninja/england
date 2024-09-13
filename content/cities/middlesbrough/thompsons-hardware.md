@@ -1,5 +1,5 @@
 ---
 title: "Thompson's Hardware"
 url: /middlesbrough/thompsons-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

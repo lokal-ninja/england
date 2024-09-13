@@ -1,5 +1,5 @@
 ---
 title: "Station Nails"
 url: /birmingham/station-nails/
-shop: Kosmetik
+shop: beauty
 ---

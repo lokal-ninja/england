@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /potton/tesco-express/
-shop: Lebensmittel
+shop: convenience
 ---

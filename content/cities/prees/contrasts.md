@@ -1,5 +1,5 @@
 ---
 title: "Contrasts"
 url: /prees/contrasts/
-shop: Friseur
+shop: hairdresser
 ---

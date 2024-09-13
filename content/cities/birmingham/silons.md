@@ -1,5 +1,5 @@
 ---
 title: "Silons"
 url: /birmingham/silons/
-shop: Kleidung
+shop: clothes
 ---

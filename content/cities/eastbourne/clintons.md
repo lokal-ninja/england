@@ -1,5 +1,5 @@
 ---
 title: "Clintons"
 url: /eastbourne/clintons/
-shop: Andenken
+shop: gift
 ---

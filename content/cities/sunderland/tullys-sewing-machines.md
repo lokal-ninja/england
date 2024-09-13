@@ -1,5 +1,5 @@
 ---
 title: "Tullys Sewing Machines"
 url: /sunderland/tullys-sewing-machines/
-shop: Nähzubehör
+shop: sewing
 ---

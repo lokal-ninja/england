@@ -1,5 +1,5 @@
 ---
 title: "Mega Sun"
 url: /morecambe/mega-sun/
-shop: Kosmetik
+shop: beauty
 ---

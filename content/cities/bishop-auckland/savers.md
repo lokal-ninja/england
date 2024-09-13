@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /bishop-auckland/savers/
-shop: Drogerie
+shop: chemist
 ---

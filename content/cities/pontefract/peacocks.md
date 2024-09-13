@@ -1,5 +1,5 @@
 ---
 title: "Peacocks"
 url: /pontefract/peacocks/
-shop: Kleidung
+shop: clothes
 ---

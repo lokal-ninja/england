@@ -1,5 +1,5 @@
 ---
 title: "EE"
 url: /bromsgrove/ee/
-shop: Handy
+shop: mobile phone
 ---

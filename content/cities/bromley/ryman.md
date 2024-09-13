@@ -1,5 +1,5 @@
 ---
 title: "Ryman"
 url: /bromley/ryman/
-shop: Schreibwaren
+shop: office supplies
 ---

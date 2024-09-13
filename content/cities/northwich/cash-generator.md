@@ -1,5 +1,5 @@
 ---
 title: "Cash Generator"
 url: /northwich/cash-generator/
-shop: Leiher
+shop: pawnbroker
 ---

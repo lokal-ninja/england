@@ -1,5 +1,5 @@
 ---
 title: "Loro Piana"
 url: /london/loro-piana/
-shop: Allgemein
+shop: shop
 ---

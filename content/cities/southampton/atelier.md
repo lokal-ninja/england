@@ -1,5 +1,5 @@
 ---
 title: "Atelier"
 url: /southampton/atelier/
-shop: Friseur
+shop: hairdresser
 ---

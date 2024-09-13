@@ -1,5 +1,5 @@
 ---
 title: "Evison's"
 url: /wisbech/evisons/
-shop: Kleidung
+shop: clothes
 ---

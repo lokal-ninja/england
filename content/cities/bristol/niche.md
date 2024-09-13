@@ -1,5 +1,5 @@
 ---
 title: "Niche"
 url: /bristol/niche/
-shop: Rahmen
+shop: frame
 ---

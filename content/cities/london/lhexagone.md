@@ -1,5 +1,5 @@
 ---
 title: "L'hexagone"
 url: /london/lhexagone/
-shop: Feinkost
+shop: deli
 ---

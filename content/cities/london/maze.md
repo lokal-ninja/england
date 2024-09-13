@@ -1,5 +1,5 @@
 ---
 title: "Maze"
 url: /london/maze/
-shop: Kunst
+shop: art
 ---

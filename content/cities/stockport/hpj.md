@@ -1,5 +1,5 @@
 ---
 title: "HPJ"
 url: /stockport/hpj/
-shop: Kosmetik
+shop: beauty
 ---

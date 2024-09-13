@@ -1,5 +1,5 @@
 ---
 title: "A City Carpets"
 url: /bristol/a-city-carpets/
-shop: Teppiche
+shop: carpet
 ---

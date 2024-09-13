@@ -1,5 +1,5 @@
 ---
 title: "The Pilgrim's Shop"
 url: /canterbury/the-pilgrims-shop/
-shop: Lebensmittel
+shop: convenience
 ---

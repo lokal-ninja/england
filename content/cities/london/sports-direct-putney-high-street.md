@@ -1,5 +1,5 @@
 ---
 title: "Sports Direct"
 url: /london/sports-direct-putney-high-street/
-shop: Sport
+shop: sports
 ---

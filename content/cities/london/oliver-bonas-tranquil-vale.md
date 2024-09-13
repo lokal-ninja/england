@@ -1,5 +1,5 @@
 ---
 title: "Oliver Bonas"
 url: /london/oliver-bonas-tranquil-vale/
-shop: Kleidung
+shop: clothes
 ---

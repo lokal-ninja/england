@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /evesham/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

@@ -1,5 +1,5 @@
 ---
 title: "HSL"
 url: /wellingborough/hsl/
-shop: Möbel
+shop: furniture
 ---

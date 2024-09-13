@@ -1,5 +1,5 @@
 ---
 title: "Co-op Food"
 url: /barnsley/co-op-food/
-shop: Lebensmittel
+shop: convenience
 ---

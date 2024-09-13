@@ -1,5 +1,5 @@
 ---
 title: "Chemtek Research Ltd"
 url: /leeds/chemtek-research-ltd/
-shop: Baustoffe
+shop: trade
 ---

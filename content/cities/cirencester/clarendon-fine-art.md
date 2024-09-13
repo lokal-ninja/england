@@ -1,5 +1,5 @@
 ---
 title: "Clarendon Fine Art"
 url: /cirencester/clarendon-fine-art/
-shop: Kunst
+shop: art
 ---

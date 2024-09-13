@@ -1,5 +1,5 @@
 ---
 title: "Paws Pet Shop"
 url: /ilminster/paws-pet-shop/
-shop: Tiere
+shop: pet
 ---

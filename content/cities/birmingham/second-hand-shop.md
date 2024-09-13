@@ -1,5 +1,5 @@
 ---
 title: "Second Hand Shop"
 url: /birmingham/second-hand-shop/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vincentius"
 url: /liverpool/vincentius/
-shop: Kleidung
+shop: clothes
 ---

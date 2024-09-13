@@ -1,5 +1,5 @@
 ---
 title: "L'Angolo"
 url: /london/langolo/
-shop: Feinkost
+shop: deli
 ---

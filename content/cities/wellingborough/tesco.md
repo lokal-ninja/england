@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /wellingborough/tesco/
-shop: Supermarkt
+shop: supermarket
 ---

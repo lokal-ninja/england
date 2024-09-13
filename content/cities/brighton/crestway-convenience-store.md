@@ -1,5 +1,5 @@
 ---
 title: "Crestway Convenience Store"
 url: /brighton/crestway-convenience-store/
-shop: Lebensmittel
+shop: convenience
 ---

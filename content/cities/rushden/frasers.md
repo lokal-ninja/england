@@ -1,5 +1,5 @@
 ---
 title: "Frasers"
 url: /rushden/frasers/
-shop: Warenhaus
+shop: department store
 ---

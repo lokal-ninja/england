@@ -1,5 +1,5 @@
 ---
 title: "Caramella"
 url: /brighton/caramella/
-shop: Süßwaren
+shop: confectionery
 ---

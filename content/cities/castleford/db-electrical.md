@@ -1,5 +1,5 @@
 ---
 title: "DB Electrical"
 url: /castleford/db-electrical/
-shop: Baustoffe
+shop: trade
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Little Waitrose"
 url: /london/little-waitrose-bondway/
-shop: Lebensmittel
+shop: convenience
 ---

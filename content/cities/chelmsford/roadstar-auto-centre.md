@@ -1,5 +1,5 @@
 ---
 title: "Roadstar Auto Centre"
 url: /chelmsford/roadstar-auto-centre/
-shop: Autowerkstatt
+shop: car repair
 ---

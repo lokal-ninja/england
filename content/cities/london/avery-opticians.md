@@ -1,5 +1,5 @@
 ---
 title: "Avery Opticians"
 url: /london/avery-opticians/
-shop: Optiker
+shop: optician
 ---

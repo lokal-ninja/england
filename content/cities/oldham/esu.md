@@ -1,5 +1,5 @@
 ---
 title: "ESU"
 url: /oldham/esu/
-shop: Kleidung
+shop: clothes
 ---

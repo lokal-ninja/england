@@ -1,5 +1,5 @@
 ---
 title: "The Artisan Bakery"
 url: /tadworth/the-artisan-bakery/
-shop: Bäckerei
+shop: bakery
 ---

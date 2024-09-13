@@ -1,5 +1,5 @@
 ---
 title: "Costa"
 url: /blackpool/costa/
-shop: Kaffee
+shop: coffee
 ---

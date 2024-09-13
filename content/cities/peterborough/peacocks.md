@@ -1,5 +1,5 @@
 ---
 title: "Peacocks"
 url: /peterborough/peacocks/
-shop: Kleidung
+shop: clothes
 ---

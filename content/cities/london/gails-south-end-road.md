@@ -1,5 +1,5 @@
 ---
 title: "Gail's"
 url: /london/gails-south-end-road/
-shop: Bäckerei
+shop: bakery
 ---

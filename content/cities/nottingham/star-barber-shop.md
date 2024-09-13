@@ -1,5 +1,5 @@
 ---
 title: "Star Barber Shop"
 url: /nottingham/star-barber-shop/
-shop: Friseur
+shop: hairdresser
 ---

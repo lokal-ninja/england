@@ -1,5 +1,5 @@
 ---
 title: "One Stop"
 url: /walsall/one-stop/
-shop: Lebensmittel
+shop: convenience
 ---

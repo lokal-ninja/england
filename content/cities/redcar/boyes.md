@@ -1,5 +1,5 @@
 ---
 title: "Boyes"
 url: /redcar/boyes/
-shop: Kramladen
+shop: variety store
 ---

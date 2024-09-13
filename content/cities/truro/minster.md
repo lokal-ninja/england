@@ -1,5 +1,5 @@
 ---
 title: "Minster"
 url: /truro/minster/
-shop: Baustoffe
+shop: trade
 ---

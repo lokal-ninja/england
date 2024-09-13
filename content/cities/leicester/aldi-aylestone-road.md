@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /leicester/aldi-aylestone-road/
-shop: Supermarkt
+shop: supermarket
 ---

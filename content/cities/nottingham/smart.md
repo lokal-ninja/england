@@ -1,5 +1,5 @@
 ---
 title: "Smart"
 url: /nottingham/smart/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "USave"
 url: /sheerness/usave/
-shop: Lebensmittel
+shop: convenience
 ---

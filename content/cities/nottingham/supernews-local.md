@@ -1,5 +1,5 @@
 ---
 title: "Supernews Local"
 url: /nottingham/supernews-local/
-shop: Zeitungen
+shop: newsagent
 ---

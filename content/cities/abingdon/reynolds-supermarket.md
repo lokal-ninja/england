@@ -1,5 +1,5 @@
 ---
 title: "Reynolds Supermarket"
 url: /abingdon/reynolds-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

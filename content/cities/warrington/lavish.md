@@ -1,5 +1,5 @@
 ---
 title: "Lavish"
 url: /warrington/lavish/
-shop: Friseur
+shop: hairdresser
 ---

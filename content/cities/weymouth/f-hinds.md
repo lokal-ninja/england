@@ -1,5 +1,5 @@
 ---
 title: "F.Hinds"
 url: /weymouth/f-hinds/
-shop: Schmuck
+shop: jewelry
 ---

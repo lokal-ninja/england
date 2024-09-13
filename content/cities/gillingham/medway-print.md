@@ -1,5 +1,5 @@
 ---
 title: "Medway Print"
 url: /gillingham/medway-print/
-shop: Kopieren
+shop: copyshop
 ---

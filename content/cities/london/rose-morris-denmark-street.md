@@ -1,5 +1,5 @@
 ---
 title: "Rose Morris"
 url: /london/rose-morris-denmark-street/
-shop: Instrumente
+shop: musical instrument
 ---

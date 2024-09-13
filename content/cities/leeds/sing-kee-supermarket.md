@@ -1,5 +1,5 @@
 ---
 title: "Sing Kee Supermarket"
 url: /leeds/sing-kee-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

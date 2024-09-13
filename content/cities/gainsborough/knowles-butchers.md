@@ -1,5 +1,5 @@
 ---
 title: "Knowles Butchers"
 url: /gainsborough/knowles-butchers/
-shop: Metzgerei
+shop: butcher
 ---

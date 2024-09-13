@@ -1,5 +1,5 @@
 ---
 title: "Fast Lane"
 url: /sheringham/fast-lane/
-shop: Autoteile
+shop: car parts
 ---

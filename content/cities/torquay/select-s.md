@@ -1,5 +1,5 @@
 ---
 title: "Select(s)"
 url: /torquay/select-s/
-shop: Kleidung
+shop: clothes
 ---

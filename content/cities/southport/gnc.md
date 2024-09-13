@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /southport/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

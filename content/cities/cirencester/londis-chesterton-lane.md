@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /cirencester/londis-chesterton-lane/
-shop: Lebensmittel
+shop: convenience
 ---

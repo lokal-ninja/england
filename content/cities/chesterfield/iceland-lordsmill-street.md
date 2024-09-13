@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /chesterfield/iceland-lordsmill-street/
-shop: Tiefkühl
+shop: frozen food
 ---

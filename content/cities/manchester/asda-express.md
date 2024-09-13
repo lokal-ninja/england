@@ -1,5 +1,5 @@
 ---
 title: "Asda Express"
 url: /manchester/asda-express/
-shop: Lebensmittel
+shop: convenience
 ---

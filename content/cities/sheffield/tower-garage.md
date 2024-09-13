@@ -1,5 +1,5 @@
 ---
 title: "Tower Garage"
 url: /sheffield/tower-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

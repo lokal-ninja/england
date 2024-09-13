@@ -1,5 +1,5 @@
 ---
 title: "Vine Street Convenience Store"
 url: /manchester/vine-street-convenience-store/
-shop: Lebensmittel
+shop: convenience
 ---

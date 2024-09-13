@@ -1,5 +1,5 @@
 ---
 title: "AP Autocare"
 url: /bristol/ap-autocare/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carwowski Motors"
 url: /southport/carwowski-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

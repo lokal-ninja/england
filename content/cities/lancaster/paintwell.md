@@ -1,5 +1,5 @@
 ---
 title: "PaintWell"
 url: /lancaster/paintwell/
-shop: Farben
+shop: paint
 ---

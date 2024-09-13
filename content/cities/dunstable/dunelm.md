@@ -1,5 +1,5 @@
 ---
 title: "Dunelm"
 url: /dunstable/dunelm/
-shop: Raumausstattung
+shop: interior decoration
 ---

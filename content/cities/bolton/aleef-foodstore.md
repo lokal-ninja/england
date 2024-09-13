@@ -1,5 +1,5 @@
 ---
 title: "Aleef Foodstore"
 url: /bolton/aleef-foodstore/
-shop: Lebensmittel
+shop: convenience
 ---

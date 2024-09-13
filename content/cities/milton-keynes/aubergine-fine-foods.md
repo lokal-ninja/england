@@ -1,5 +1,5 @@
 ---
 title: "Aubergine Fine Foods"
 url: /milton-keynes/aubergine-fine-foods/
-shop: Feinkost
+shop: deli
 ---

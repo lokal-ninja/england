@@ -1,5 +1,5 @@
 ---
 title: "Gloss"
 url: /sheffield/gloss/
-shop: Kosmetik
+shop: beauty
 ---

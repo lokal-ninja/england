@@ -1,5 +1,5 @@
 ---
 title: "Dunelm"
 url: /exeter/dunelm/
-shop: Raumausstattung
+shop: interior decoration
 ---

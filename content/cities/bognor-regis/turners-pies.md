@@ -1,5 +1,5 @@
 ---
 title: "Turners Pies"
 url: /bognor-regis/turners-pies/
-shop: Bäckerei
+shop: bakery
 ---

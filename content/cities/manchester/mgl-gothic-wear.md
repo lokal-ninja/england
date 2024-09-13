@@ -1,5 +1,5 @@
 ---
 title: "MGL Gothic Wear"
 url: /manchester/mgl-gothic-wear/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Triangle"
 url: /london/triangle/
-shop: Kleidung
+shop: clothes
 ---

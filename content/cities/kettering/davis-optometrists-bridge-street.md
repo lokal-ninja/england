@@ -1,5 +1,5 @@
 ---
 title: "Davis Optometrists"
 url: /kettering/davis-optometrists-bridge-street/
-shop: Optiker
+shop: optician
 ---

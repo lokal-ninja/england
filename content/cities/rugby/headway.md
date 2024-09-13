@@ -1,5 +1,5 @@
 ---
 title: "Headway"
 url: /rugby/headway/
-shop: Gebrauchtwaren
+shop: charity
 ---

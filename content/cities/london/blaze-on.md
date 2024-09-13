@@ -1,5 +1,5 @@
 ---
 title: "Blaze On"
 url: /london/blaze-on/
-shop: Lampen
+shop: lamps
 ---

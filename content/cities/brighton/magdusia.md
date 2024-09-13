@@ -1,5 +1,5 @@
 ---
 title: "Magdusia"
 url: /brighton/magdusia/
-shop: Lebensmittel
+shop: convenience
 ---

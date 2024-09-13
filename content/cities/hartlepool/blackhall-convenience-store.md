@@ -1,5 +1,5 @@
 ---
 title: "Blackhall Convenience Store"
 url: /hartlepool/blackhall-convenience-store/
-shop: Lebensmittel
+shop: convenience
 ---

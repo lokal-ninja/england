@@ -1,5 +1,5 @@
 ---
 title: "Bestwicks"
 url: /derby/bestwicks/
-shop: Autoteile
+shop: car parts
 ---

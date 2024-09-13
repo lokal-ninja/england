@@ -1,5 +1,5 @@
 ---
 title: "Bengal Supermarket"
 url: /london/bengal-supermarket/
-shop: Lebensmittel
+shop: convenience
 ---

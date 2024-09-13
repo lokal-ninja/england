@@ -1,5 +1,5 @@
 ---
 title: "dms garage services"
 url: /nottingham/dms-garage-services/
-shop: Autowerkstatt
+shop: car repair
 ---

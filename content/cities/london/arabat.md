@@ -1,5 +1,5 @@
 ---
 title: "Arabat"
 url: /london/arabat/
-shop: Feinkost
+shop: deli
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Halfords"
 url: /bristol/halfords-eastgate-road/
-shop: Autoteile
+shop: car parts
 ---

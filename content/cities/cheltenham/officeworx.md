@@ -1,5 +1,5 @@
 ---
 title: "Officeworx"
 url: /cheltenham/officeworx/
-shop: Schreibwaren
+shop: office supplies
 ---

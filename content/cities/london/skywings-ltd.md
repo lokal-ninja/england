@@ -1,5 +1,5 @@
 ---
 title: "SkyWings Ltd"
 url: /london/skywings-ltd/
-shop: Reisebüro
+shop: travel agency
 ---

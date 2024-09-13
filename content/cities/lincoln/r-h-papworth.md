@@ -1,5 +1,5 @@
 ---
 title: "R H Papworth"
 url: /lincoln/r-h-papworth/
-shop: Metzgerei
+shop: butcher
 ---

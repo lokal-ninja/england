@@ -1,5 +1,5 @@
 ---
 title: "Just Sew"
 url: /penrith/just-sew/
-shop: Nähzubehör
+shop: sewing
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ilminster Warehouse"
 url: /ilminster/ilminster-warehouse/
-shop: Möbel
+shop: furniture
 ---

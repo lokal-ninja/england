@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /canterbury/whsmith/
-shop: Zeitungen
+shop: newsagent
 ---

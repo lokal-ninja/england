@@ -1,5 +1,5 @@
 ---
 title: "Glasbeys Butchers"
 url: /doncaster/glasbeys-butchers/
-shop: Metzgerei
+shop: butcher
 ---

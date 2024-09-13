@@ -1,5 +1,5 @@
 ---
 title: "Deakins Family Butchers"
 url: /alfreton/deakins-family-butchers/
-shop: Metzgerei
+shop: butcher
 ---

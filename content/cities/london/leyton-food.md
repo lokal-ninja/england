@@ -1,5 +1,5 @@
 ---
 title: "Leyton Food"
 url: /london/leyton-food/
-shop: Lebensmittel
+shop: convenience
 ---

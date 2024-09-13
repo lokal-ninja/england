@@ -1,5 +1,5 @@
 ---
 title: "The Cash Exchange"
 url: /lydney/the-cash-exchange/
-shop: Leiher
+shop: pawnbroker
 ---

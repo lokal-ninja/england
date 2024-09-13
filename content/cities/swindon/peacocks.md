@@ -1,5 +1,5 @@
 ---
 title: "Peacocks"
 url: /swindon/peacocks/
-shop: Kleidung
+shop: clothes
 ---

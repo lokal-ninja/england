@@ -1,5 +1,5 @@
 ---
 title: "Arihant Foods"
 url: /rugby/arihant-foods/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sarah's Beauty Rooms"
 url: /wem/sarahs-beauty-rooms/
-shop: Kosmetik
+shop: beauty
 ---

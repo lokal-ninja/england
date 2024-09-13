@@ -1,5 +1,5 @@
 ---
 title: "Nick Motors"
 url: /london/nick-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

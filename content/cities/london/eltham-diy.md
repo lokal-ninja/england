@@ -1,5 +1,5 @@
 ---
 title: "Eltham DIY"
 url: /london/eltham-diy/
-shop: Baumarkt
+shop: doityourself
 ---

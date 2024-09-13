@@ -1,5 +1,5 @@
 ---
 title: "Smiggle"
 url: /shrewsbury/smiggle/
-shop: Schreibwaren
+shop: office supplies
 ---

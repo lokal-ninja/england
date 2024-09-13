@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /redruth/betfred/
-shop: Wettbüro
+shop: bookmaker
 ---

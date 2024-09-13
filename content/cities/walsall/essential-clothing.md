@@ -1,5 +1,5 @@
 ---
 title: "Essential Clothing"
 url: /walsall/essential-clothing/
-shop: Kleidung
+shop: clothes
 ---

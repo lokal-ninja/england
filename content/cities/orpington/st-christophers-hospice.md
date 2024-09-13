@@ -1,5 +1,5 @@
 ---
 title: "St Christopher's Hospice"
 url: /orpington/st-christophers-hospice/
-shop: Gebrauchtwaren
+shop: charity
 ---

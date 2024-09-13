@@ -1,5 +1,5 @@
 ---
 title: "Rough Handmade"
 url: /liverpool/rough-handmade/
-shop: Bäckerei
+shop: bakery
 ---

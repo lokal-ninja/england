@@ -1,5 +1,5 @@
 ---
 title: "Next"
 url: /widnes/next/
-shop: Kleidung
+shop: clothes
 ---

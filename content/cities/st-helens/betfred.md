@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /st-helens/betfred/
-shop: Wettbüro
+shop: bookmaker
 ---

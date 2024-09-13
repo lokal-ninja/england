@@ -1,5 +1,5 @@
 ---
 title: "Grimshaw Autos"
 url: /leigh/grimshaw-autos/
-shop: Autowerkstatt
+shop: car repair
 ---

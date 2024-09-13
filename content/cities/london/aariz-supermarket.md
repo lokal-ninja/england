@@ -1,5 +1,5 @@
 ---
 title: "Aariz Supermarket"
 url: /london/aariz-supermarket/
-shop: Lebensmittel
+shop: convenience
 ---

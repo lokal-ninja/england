@@ -1,5 +1,5 @@
 ---
 title: "Halal Food Store"
 url: /peterborough/halal-food-store/
-shop: Lebensmittel
+shop: convenience
 ---

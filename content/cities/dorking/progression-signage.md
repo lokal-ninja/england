@@ -1,5 +1,5 @@
 ---
 title: "Progression Signage"
 url: /dorking/progression-signage/
-shop: Kopieren
+shop: copyshop
 ---

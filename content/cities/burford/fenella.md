@@ -1,5 +1,5 @@
 ---
 title: "Fenella"
 url: /burford/fenella/
-shop: Kleidung
+shop: clothes
 ---

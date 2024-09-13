@@ -1,5 +1,5 @@
 ---
 title: "Corner Shop"
 url: /bridgwater/corner-shop/
-shop: Lebensmittel
+shop: convenience
 ---

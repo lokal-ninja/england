@@ -1,5 +1,5 @@
 ---
 title: "Baccarat"
 url: /beckenham/baccarat/
-shop: Friseur
+shop: hairdresser
 ---

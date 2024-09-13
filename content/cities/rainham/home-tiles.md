@@ -1,5 +1,5 @@
 ---
 title: "Home Tiles"
 url: /rainham/home-tiles/
-shop: Fliesen
+shop: tiles
 ---

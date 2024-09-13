@@ -1,5 +1,5 @@
 ---
 title: "Miltons"
 url: /london/miltons/
-shop: Optiker
+shop: optician
 ---

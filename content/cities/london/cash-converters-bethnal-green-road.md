@@ -1,5 +1,5 @@
 ---
 title: "Cash Converters"
 url: /london/cash-converters-bethnal-green-road/
-shop: Leiher
+shop: pawnbroker
 ---

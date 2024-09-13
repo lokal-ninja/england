@@ -1,5 +1,5 @@
 ---
 title: "Rockport"
 url: /london/rockport/
-shop: Schuhe
+shop: shoes
 ---

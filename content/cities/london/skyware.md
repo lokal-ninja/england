@@ -1,5 +1,5 @@
 ---
 title: "Skyware"
 url: /london/skyware/
-shop: Kleidung
+shop: clothes
 ---

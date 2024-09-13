@@ -1,5 +1,5 @@
 ---
 title: "Ela-Jomi"
 url: /morecambe/ela-jomi/
-shop: Spirituosen
+shop: alcohol
 ---

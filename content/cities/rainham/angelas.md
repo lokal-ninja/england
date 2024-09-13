@@ -1,5 +1,5 @@
 ---
 title: "Angela's"
 url: /rainham/angelas/
-shop: Kosmetik
+shop: beauty
 ---

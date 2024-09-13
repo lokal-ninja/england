@@ -1,5 +1,5 @@
 ---
 title: "Chickadee"
 url: /cirencester/chickadee/
-shop: Kleidung
+shop: clothes
 ---

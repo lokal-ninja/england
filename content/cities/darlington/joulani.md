@@ -1,5 +1,5 @@
 ---
 title: "Joulani"
 url: /darlington/joulani/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Springfield Garage"
 url: /nottingham/springfield-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

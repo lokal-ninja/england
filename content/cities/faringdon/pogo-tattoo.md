@@ -1,5 +1,5 @@
 ---
 title: "Pogo Tattoo"
 url: /faringdon/pogo-tattoo/
-shop: Tattoo
+shop: tattoo
 ---

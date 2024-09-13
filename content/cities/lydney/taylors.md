@@ -1,5 +1,5 @@
 ---
 title: "Taylors"
 url: /lydney/taylors/
-shop: Schmuck
+shop: jewelry
 ---

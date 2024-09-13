@@ -1,5 +1,5 @@
 ---
 title: "Fudges Cycles"
 url: /addlestone/fudges-cycles/
-shop: Fahrrad
+shop: bicycle
 ---

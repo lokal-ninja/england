@@ -1,5 +1,5 @@
 ---
 title: "Beauty Queen Salon"
 url: /croydon/beauty-queen-salon/
-shop: Kosmetik
+shop: beauty
 ---

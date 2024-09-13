@@ -1,5 +1,5 @@
 ---
 title: "Julian Charles"
 url: /stoke-on-trent/julian-charles/
-shop: Haushaltsartikel
+shop: houseware
 ---

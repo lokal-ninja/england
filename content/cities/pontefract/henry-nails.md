@@ -1,5 +1,5 @@
 ---
 title: "Henry Nails"
 url: /pontefract/henry-nails/
-shop: Kosmetik
+shop: beauty
 ---

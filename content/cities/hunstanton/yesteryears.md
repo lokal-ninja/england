@@ -1,5 +1,5 @@
 ---
 title: "Yesteryears"
 url: /hunstanton/yesteryears/
-shop: Antiquitäten
+shop: antiques
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Co-op Food"
 url: /london/co-op-food-fortess-road/
-shop: Supermarkt
+shop: supermarket
 ---

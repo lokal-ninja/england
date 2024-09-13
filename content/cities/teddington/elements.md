@@ -1,5 +1,5 @@
 ---
 title: "Elements"
 url: /teddington/elements/
-shop: Friseur
+shop: hairdresser
 ---

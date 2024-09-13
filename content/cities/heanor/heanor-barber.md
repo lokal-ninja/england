@@ -1,5 +1,5 @@
 ---
 title: "Heanor Barber"
 url: /heanor/heanor-barber/
-shop: Friseur
+shop: hairdresser
 ---

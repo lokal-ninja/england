@@ -1,5 +1,5 @@
 ---
 title: "Lavender News"
 url: /ipswich/lavender-news/
-shop: Zeitungen
+shop: newsagent
 ---

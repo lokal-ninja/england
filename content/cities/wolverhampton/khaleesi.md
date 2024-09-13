@@ -1,5 +1,5 @@
 ---
 title: "Khaleesi"
 url: /wolverhampton/khaleesi/
-shop: Friseur
+shop: hairdresser
 ---

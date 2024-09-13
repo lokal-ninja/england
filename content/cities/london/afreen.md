@@ -1,5 +1,5 @@
 ---
 title: "Afreen"
 url: /london/afreen/
-shop: Friseur
+shop: hairdresser
 ---

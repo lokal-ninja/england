@@ -1,5 +1,5 @@
 ---
 title: "MK Parts"
 url: /manchester/mk-parts/
-shop: Handy
+shop: mobile phone
 ---

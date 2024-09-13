@@ -1,5 +1,5 @@
 ---
 title: "Timpson"
 url: /morpeth/timpson/
-shop: Kiosk
+shop: kiosk
 ---

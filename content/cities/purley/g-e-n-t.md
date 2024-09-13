@@ -1,5 +1,5 @@
 ---
 title: "G.E.N.T."
 url: /purley/g-e-n-t/
-shop: Friseur
+shop: hairdresser
 ---

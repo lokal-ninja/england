@@ -1,5 +1,5 @@
 ---
 title: "Affordable Nutrition"
 url: /castleford/affordable-nutrition/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

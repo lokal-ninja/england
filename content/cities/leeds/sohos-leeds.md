@@ -1,5 +1,5 @@
 ---
 title: "Soho's Leeds"
 url: /leeds/sohos-leeds/
-shop: Kleidung
+shop: clothes
 ---

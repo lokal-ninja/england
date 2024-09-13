@@ -1,5 +1,5 @@
 ---
 title: "Anna Pharmacy"
 url: /wallington/anna-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

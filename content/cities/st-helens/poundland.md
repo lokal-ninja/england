@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /st-helens/poundland/
-shop: Kramladen
+shop: variety store
 ---

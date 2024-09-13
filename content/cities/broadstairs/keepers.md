@@ -1,5 +1,5 @@
 ---
 title: "Keepers"
 url: /broadstairs/keepers/
-shop: Elektrisch
+shop: electrical
 ---

@@ -1,5 +1,5 @@
 ---
 title: "RSPCA"
 url: /bolton/rspca/
-shop: Gebrauchtwaren
+shop: charity
 ---

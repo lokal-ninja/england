@@ -1,5 +1,5 @@
 ---
 title: "Deansgate Square General Store"
 url: /manchester/deansgate-square-general-store/
-shop: Dorfladen
+shop: general
 ---

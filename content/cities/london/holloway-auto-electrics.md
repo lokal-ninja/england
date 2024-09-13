@@ -1,5 +1,5 @@
 ---
 title: "Holloway Auto Electrics"
 url: /london/holloway-auto-electrics/
-shop: Autoteile
+shop: car parts
 ---

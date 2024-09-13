@@ -1,5 +1,5 @@
 ---
 title: "DW Refrigeration"
 url: /cambridge/dw-refrigeration/
-shop: Eisenwaren
+shop: hardware
 ---

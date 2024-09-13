@@ -1,5 +1,5 @@
 ---
 title: "Angling Direct"
 url: /sittingbourne/angling-direct/
-shop: Angeln
+shop: fishing
 ---

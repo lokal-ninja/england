@@ -1,5 +1,5 @@
 ---
 title: "Smyths"
 url: /rayleigh/smyths/
-shop: Spielzeug
+shop: toys
 ---

@@ -1,5 +1,5 @@
 ---
 title: "National Trust"
 url: /dunster/national-trust/
-shop: Andenken
+shop: gift
 ---

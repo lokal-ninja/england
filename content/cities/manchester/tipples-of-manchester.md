@@ -1,5 +1,5 @@
 ---
 title: "Tipples of Manchester"
 url: /manchester/tipples-of-manchester/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tates Hyundai"
 url: /portslade/tates-hyundai/
-shop: Autohaus
+shop: car
 ---

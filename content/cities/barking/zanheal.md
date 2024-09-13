@@ -1,5 +1,5 @@
 ---
 title: "Zanheal"
 url: /barking/zanheal/
-shop: Allgemein
+shop: shop
 ---

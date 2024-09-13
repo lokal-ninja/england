@@ -1,5 +1,5 @@
 ---
 title: "Crown"
 url: /brighton/crown/
-shop: Raumausstattung
+shop: interior decoration
 ---

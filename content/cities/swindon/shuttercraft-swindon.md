@@ -1,5 +1,5 @@
 ---
 title: "Shuttercraft Swindon"
 url: /swindon/shuttercraft-swindon/
-shop: Jalousien
+shop: window blind
 ---

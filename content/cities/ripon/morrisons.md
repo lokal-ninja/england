@@ -1,5 +1,5 @@
 ---
 title: "Morrisons"
 url: /ripon/morrisons/
-shop: Supermarkt
+shop: supermarket
 ---

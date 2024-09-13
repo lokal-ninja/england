@@ -1,5 +1,5 @@
 ---
 title: "Gadgetech"
 url: /ware/gadgetech/
-shop: Handy
+shop: mobile phone
 ---

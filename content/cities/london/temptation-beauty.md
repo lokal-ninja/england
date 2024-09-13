@@ -1,5 +1,5 @@
 ---
 title: "Temptation Beauty"
 url: /london/temptation-beauty/
-shop: Kosmetik
+shop: beauty
 ---

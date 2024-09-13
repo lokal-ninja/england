@@ -1,5 +1,5 @@
 ---
 title: "Morrisons Daily"
 url: /southport/morrisons-daily-saint-james-street/
-shop: Lebensmittel
+shop: convenience
 ---

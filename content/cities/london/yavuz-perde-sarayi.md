@@ -1,5 +1,5 @@
 ---
 title: "Yavuz Perde Sarayi"
 url: /london/yavuz-perde-sarayi/
-shop: Gardinen
+shop: curtain
 ---

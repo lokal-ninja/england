@@ -1,5 +1,5 @@
 ---
 title: "Homestyle"
 url: /london/homestyle/
-shop: Jalousien
+shop: window blind
 ---

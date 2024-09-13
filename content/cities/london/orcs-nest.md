@@ -1,5 +1,5 @@
 ---
 title: "Orcs Nest"
 url: /london/orcs-nest/
-shop: Spiele
+shop: games
 ---

@@ -1,5 +1,5 @@
 ---
 title: "mypetstop Leeds"
 url: /wakefield/mypetstop-leeds/
-shop: Tiere
+shop: pet
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Francesco"
 url: /solihull/francesco/
-shop: Friseur
+shop: hairdresser
 ---

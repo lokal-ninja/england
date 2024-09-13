@@ -1,5 +1,5 @@
 ---
 title: "Hair By Peter"
 url: /consett/hair-by-peter/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Stanley Store"
 url: /wakefield/stanley-store/
-shop: Lebensmittel
+shop: convenience
 ---

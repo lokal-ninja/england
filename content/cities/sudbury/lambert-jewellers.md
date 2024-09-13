@@ -1,5 +1,5 @@
 ---
 title: "Lambert Jewellers"
 url: /sudbury/lambert-jewellers/
-shop: Schmuck
+shop: jewelry
 ---

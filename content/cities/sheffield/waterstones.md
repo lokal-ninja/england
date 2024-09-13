@@ -1,5 +1,5 @@
 ---
 title: "Waterstones"
 url: /sheffield/waterstones/
-shop: Bücher
+shop: books
 ---

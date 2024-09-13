@@ -1,5 +1,5 @@
 ---
 title: "Nursery Goods Direct"
 url: /oldham/nursery-goods-direct/
-shop: Babysachen
+shop: baby goods
 ---

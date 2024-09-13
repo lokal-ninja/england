@@ -1,5 +1,5 @@
 ---
 title: "Magnet"
 url: /twickenham/magnet/
-shop: Küchen
+shop: kitchen
 ---

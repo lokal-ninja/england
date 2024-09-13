@@ -1,5 +1,5 @@
 ---
 title: "Nicola Donati"
 url: /london/nicola-donati/
-shop: Allgemein
+shop: shop
 ---

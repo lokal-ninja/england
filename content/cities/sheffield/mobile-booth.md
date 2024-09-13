@@ -1,5 +1,5 @@
 ---
 title: "Mobile Booth"
 url: /sheffield/mobile-booth/
-shop: Handy
+shop: mobile phone
 ---

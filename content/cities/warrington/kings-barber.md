@@ -1,5 +1,5 @@
 ---
 title: "Kings Barber"
 url: /warrington/kings-barber/
-shop: Friseur
+shop: hairdresser
 ---

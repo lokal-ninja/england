@@ -1,5 +1,5 @@
 ---
 title: "Pandora"
 url: /swindon/pandora/
-shop: Schmuck
+shop: jewelry
 ---

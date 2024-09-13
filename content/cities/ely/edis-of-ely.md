@@ -1,5 +1,5 @@
 ---
 title: "Edis of Ely"
 url: /ely/edis-of-ely/
-shop: Metzgerei
+shop: butcher
 ---

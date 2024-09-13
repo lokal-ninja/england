@@ -1,5 +1,5 @@
 ---
 title: "Cutting Bar"
 url: /swindon/cutting-bar/
-shop: Friseur
+shop: hairdresser
 ---

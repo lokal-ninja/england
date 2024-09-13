@@ -1,5 +1,5 @@
 ---
 title: "Eastender"
 url: /leicester/eastender/
-shop: Lebensmittel
+shop: convenience
 ---

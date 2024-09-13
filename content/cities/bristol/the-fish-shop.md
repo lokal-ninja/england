@@ -1,5 +1,5 @@
 ---
 title: "The Fish Shop"
 url: /bristol/the-fish-shop/
-shop: Fisch
+shop: seafood
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tile Station"
 url: /northfleet/tile-station/
-shop: Baumarkt
+shop: doityourself
 ---

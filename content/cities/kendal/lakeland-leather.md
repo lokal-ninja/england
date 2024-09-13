@@ -1,5 +1,5 @@
 ---
 title: "Lakeland Leather"
 url: /kendal/lakeland-leather/
-shop: Kleidung
+shop: clothes
 ---

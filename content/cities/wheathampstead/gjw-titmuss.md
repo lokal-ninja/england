@@ -1,5 +1,5 @@
 ---
 title: "GJW Titmuss"
 url: /wheathampstead/gjw-titmuss/
-shop: Dorfladen
+shop: general
 ---

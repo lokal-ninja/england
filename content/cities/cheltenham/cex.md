@@ -1,5 +1,5 @@
 ---
 title: "CeX"
 url: /cheltenham/cex/
-shop: Elektronik
+shop: electronics
 ---

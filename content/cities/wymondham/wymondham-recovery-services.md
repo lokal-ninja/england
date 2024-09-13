@@ -1,5 +1,5 @@
 ---
 title: "Wymondham Recovery Services"
 url: /wymondham/wymondham-recovery-services/
-shop: Autowerkstatt
+shop: car repair
 ---

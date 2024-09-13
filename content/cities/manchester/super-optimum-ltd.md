@@ -1,5 +1,5 @@
 ---
 title: "Super Optimum Ltd"
 url: /manchester/super-optimum-ltd/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

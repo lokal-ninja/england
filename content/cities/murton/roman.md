@@ -1,5 +1,5 @@
 ---
 title: "Roman"
 url: /murton/roman/
-shop: Kleidung
+shop: clothes
 ---

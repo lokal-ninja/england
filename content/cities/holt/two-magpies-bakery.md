@@ -1,5 +1,5 @@
 ---
 title: "Two Magpies Bakery"
 url: /holt/two-magpies-bakery/
-shop: Bäckerei
+shop: bakery
 ---

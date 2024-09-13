@@ -1,5 +1,5 @@
 ---
 title: "Metric Carpets"
 url: /kings-lynn/metric-carpets/
-shop: Teppiche
+shop: carpet
 ---

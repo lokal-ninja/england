@@ -1,5 +1,5 @@
 ---
 title: "The Meadow"
 url: /south-shields/the-meadow/
-shop: Blumen
+shop: florist
 ---

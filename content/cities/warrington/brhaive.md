@@ -1,5 +1,5 @@
 ---
 title: "BRHAIVE"
 url: /warrington/brhaive/
-shop: Kosmetik
+shop: beauty
 ---

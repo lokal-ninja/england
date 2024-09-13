@@ -1,5 +1,5 @@
 ---
 title: "Danaher Animal Home"
 url: /sudbury/danaher-animal-home/
-shop: Gebrauchtwaren
+shop: charity
 ---

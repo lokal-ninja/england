@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /reigate/coral/
-shop: Wettbüro
+shop: bookmaker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Waitrose"
 url: /shifnal/waitrose/
-shop: Lebensmittel
+shop: convenience
 ---

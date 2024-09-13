@@ -1,5 +1,5 @@
 ---
 title: "Roman"
 url: /castleford/roman/
-shop: Kleidung
+shop: clothes
 ---

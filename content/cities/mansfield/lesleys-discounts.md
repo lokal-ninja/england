@@ -1,5 +1,5 @@
 ---
 title: "Lesley's Discounts"
 url: /mansfield/lesleys-discounts/
-shop: Kramladen
+shop: variety store
 ---

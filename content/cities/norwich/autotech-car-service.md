@@ -1,5 +1,5 @@
 ---
 title: "Autotech Car Service"
 url: /norwich/autotech-car-service/
-shop: Autowerkstatt
+shop: car repair
 ---

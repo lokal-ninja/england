@@ -1,5 +1,5 @@
 ---
 title: "Asda Optician"
 url: /stowmarket/asda-optician/
-shop: Optiker
+shop: optician
 ---

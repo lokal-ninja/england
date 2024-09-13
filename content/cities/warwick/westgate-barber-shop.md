@@ -1,5 +1,5 @@
 ---
 title: "Westgate Barber Shop"
 url: /warwick/westgate-barber-shop/
-shop: Friseur
+shop: hairdresser
 ---

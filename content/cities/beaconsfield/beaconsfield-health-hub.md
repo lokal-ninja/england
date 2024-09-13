@@ -1,5 +1,5 @@
 ---
 title: "Beaconsfield Health Hub"
 url: /beaconsfield/beaconsfield-health-hub/
-shop: Massage
+shop: massage
 ---

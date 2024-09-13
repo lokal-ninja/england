@@ -1,5 +1,5 @@
 ---
 title: "Dappa Dogs"
 url: /waterlooville/dappa-dogs/
-shop: Tiersalon
+shop: pet grooming
 ---

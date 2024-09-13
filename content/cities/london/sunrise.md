@@ -1,5 +1,5 @@
 ---
 title: "Sunrise"
 url: /london/sunrise/
-shop: Lebensmittel
+shop: convenience
 ---

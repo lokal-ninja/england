@@ -1,5 +1,5 @@
 ---
 title: "Bohemia"
 url: /hexham/bohemia/
-shop: Andenken
+shop: gift
 ---

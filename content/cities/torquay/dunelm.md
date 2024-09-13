@@ -1,5 +1,5 @@
 ---
 title: "Dunelm"
 url: /torquay/dunelm/
-shop: Raumausstattung
+shop: interior decoration
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hestory"
 url: /london/hestory/
-shop: Friseur
+shop: hairdresser
 ---

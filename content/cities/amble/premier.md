@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /amble/premier/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /blaydon-on-tyne/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

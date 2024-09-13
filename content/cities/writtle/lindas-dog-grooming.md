@@ -1,5 +1,5 @@
 ---
 title: "Linda's Dog Grooming"
 url: /writtle/lindas-dog-grooming/
-shop: Tiersalon
+shop: pet grooming
 ---

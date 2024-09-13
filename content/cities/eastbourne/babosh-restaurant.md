@@ -1,5 +1,5 @@
 ---
 title: "Babosh Restaurant"
 url: /eastbourne/babosh-restaurant/
-shop: Allgemein
+shop: shop
 ---

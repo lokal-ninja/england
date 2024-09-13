@@ -1,5 +1,5 @@
 ---
 title: "Sugar."
 url: /bristol/sugar/
-shop: Allgemein
+shop: shop
 ---

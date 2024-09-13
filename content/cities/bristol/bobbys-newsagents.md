@@ -1,5 +1,5 @@
 ---
 title: "Bobbys Newsagents"
 url: /bristol/bobbys-newsagents/
-shop: Lebensmittel
+shop: convenience
 ---

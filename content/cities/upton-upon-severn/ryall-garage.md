@@ -1,5 +1,5 @@
 ---
 title: "Ryall Garage"
 url: /upton-upon-severn/ryall-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

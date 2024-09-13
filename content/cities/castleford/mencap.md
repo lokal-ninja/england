@@ -1,5 +1,5 @@
 ---
 title: "Mencap"
 url: /castleford/mencap/
-shop: Gebrauchtwaren
+shop: charity
 ---

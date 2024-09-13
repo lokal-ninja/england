@@ -1,5 +1,5 @@
 ---
 title: "Garland Motors Škoda"
 url: /aldershot/garland-motors-skoda/
-shop: Autohaus
+shop: car
 ---

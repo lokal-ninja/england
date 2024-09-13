@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /huddersfield/asda-bradford-road/
-shop: Supermarkt
+shop: supermarket
 ---

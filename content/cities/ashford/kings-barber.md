@@ -1,5 +1,5 @@
 ---
 title: "Kings barber"
 url: /ashford/kings-barber/
-shop: Friseur
+shop: hairdresser
 ---

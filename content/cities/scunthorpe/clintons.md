@@ -1,5 +1,5 @@
 ---
 title: "Clintons"
 url: /scunthorpe/clintons/
-shop: Andenken
+shop: gift
 ---

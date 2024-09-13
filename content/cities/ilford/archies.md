@@ -1,5 +1,5 @@
 ---
 title: "Archies"
 url: /ilford/archies/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tonys Barbers"
 url: /portsmouth/tonys-barbers/
-shop: Friseur
+shop: hairdresser
 ---

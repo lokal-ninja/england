@@ -1,5 +1,5 @@
 ---
 title: "Beamans"
 url: /southampton/beamans/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Park Motors"
 url: /coventry/park-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ayton Funeral Services"
 url: /gateshead/ayton-funeral-services/
-shop: Bestattungen
+shop: funeral directors
 ---

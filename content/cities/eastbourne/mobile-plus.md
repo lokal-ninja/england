@@ -1,5 +1,5 @@
 ---
 title: "Mobile Plus"
 url: /eastbourne/mobile-plus/
-shop: Handy
+shop: mobile phone
 ---

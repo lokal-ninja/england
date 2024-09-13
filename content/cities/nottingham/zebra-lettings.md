@@ -1,5 +1,5 @@
 ---
 title: "Zebra Lettings"
 url: /nottingham/zebra-lettings/
-shop: Immobilien
+shop: estate agent
 ---

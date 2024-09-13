@@ -1,5 +1,5 @@
 ---
 title: "Select"
 url: /sudbury/select/
-shop: Friseur
+shop: hairdresser
 ---

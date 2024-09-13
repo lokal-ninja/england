@@ -1,5 +1,5 @@
 ---
 title: "Webbs of Wychbold"
 url: /droitwich/webbs-of-wychbold/
-shop: Garten-Center
+shop: garden centre
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Solihull Lighting"
 url: /solihull/solihull-lighting/
-shop: Lampen
+shop: lamps
 ---

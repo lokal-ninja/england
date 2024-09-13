@@ -1,5 +1,5 @@
 ---
 title: "Nathan’s Convenience Store"
 url: /lowestoft/nathans-convenience-store/
-shop: Lebensmittel
+shop: convenience
 ---

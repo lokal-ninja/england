@@ -1,5 +1,5 @@
 ---
 title: "Home Foods"
 url: /london/home-foods/
-shop: Lebensmittel
+shop: convenience
 ---

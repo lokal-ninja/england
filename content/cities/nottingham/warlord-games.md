@@ -1,5 +1,5 @@
 ---
 title: "Warlord Games"
 url: /nottingham/warlord-games/
-shop: Spiele
+shop: games
 ---

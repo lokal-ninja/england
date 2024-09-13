@@ -1,5 +1,5 @@
 ---
 title: "King's News"
 url: /cambridge/kings-news/
-shop: Lebensmittel
+shop: convenience
 ---

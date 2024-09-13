@@ -1,5 +1,5 @@
 ---
 title: "Motorland"
 url: /beckenham/motorland/
-shop: Autohaus
+shop: car
 ---

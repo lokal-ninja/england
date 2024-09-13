@@ -1,5 +1,5 @@
 ---
 title: "Fones Activ"
 url: /rotherham/fones-activ/
-shop: Handy
+shop: mobile phone
 ---

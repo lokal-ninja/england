@@ -1,5 +1,5 @@
 ---
 title: "Cooplands"
 url: /hessle/cooplands/
-shop: Bäckerei
+shop: bakery
 ---

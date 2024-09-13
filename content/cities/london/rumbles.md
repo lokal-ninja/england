@@ -1,5 +1,5 @@
 ---
 title: "Rumbles"
 url: /london/rumbles/
-shop: Bäckerei
+shop: bakery
 ---

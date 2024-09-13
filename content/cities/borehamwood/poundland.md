@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /borehamwood/poundland/
-shop: Kramladen
+shop: variety store
 ---

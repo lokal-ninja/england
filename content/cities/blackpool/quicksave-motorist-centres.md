@@ -1,5 +1,5 @@
 ---
 title: "QuickSave Motorist Centres"
 url: /blackpool/quicksave-motorist-centres/
-shop: Autowerkstatt
+shop: car repair
 ---

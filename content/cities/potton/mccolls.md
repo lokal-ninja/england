@@ -1,5 +1,5 @@
 ---
 title: "McColls"
 url: /potton/mccolls/
-shop: Lebensmittel
+shop: convenience
 ---

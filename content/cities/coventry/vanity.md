@@ -1,5 +1,5 @@
 ---
 title: "Vanity"
 url: /coventry/vanity/
-shop: Kosmetik
+shop: beauty
 ---

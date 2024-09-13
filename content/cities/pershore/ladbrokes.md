@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /pershore/ladbrokes/
-shop: Wettbüro
+shop: bookmaker
 ---

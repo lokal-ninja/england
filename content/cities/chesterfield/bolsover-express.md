@@ -1,5 +1,5 @@
 ---
 title: "Bolsover Express"
 url: /chesterfield/bolsover-express/
-shop: Feinkost
+shop: deli
 ---

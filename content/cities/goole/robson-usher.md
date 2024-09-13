@@ -1,5 +1,5 @@
 ---
 title: "Robson Usher"
 url: /goole/robson-usher/
-shop: Allgemein
+shop: shop
 ---

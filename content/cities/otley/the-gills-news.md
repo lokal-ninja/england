@@ -1,5 +1,5 @@
 ---
 title: "The Gills News"
 url: /otley/the-gills-news/
-shop: Zeitungen
+shop: newsagent
 ---

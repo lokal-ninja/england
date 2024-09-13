@@ -1,5 +1,5 @@
 ---
 title: "Crystals"
 url: /swanage/crystals/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nisa Local"
 url: /whittlesey/nisa-local/
-shop: Lebensmittel
+shop: convenience
 ---

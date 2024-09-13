@@ -1,5 +1,5 @@
 ---
 title: "TUI"
 url: /burgess-hill/tui/
-shop: Reisebüro
+shop: travel agency
 ---

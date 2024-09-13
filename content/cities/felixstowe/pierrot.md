@@ -1,5 +1,5 @@
 ---
 title: "Pierrot"
 url: /felixstowe/pierrot/
-shop: Schreibwaren
+shop: office supplies
 ---

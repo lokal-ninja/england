@@ -1,5 +1,5 @@
 ---
 title: "Phone Trader"
 url: /sunderland/phone-trader/
-shop: Handy
+shop: mobile phone
 ---

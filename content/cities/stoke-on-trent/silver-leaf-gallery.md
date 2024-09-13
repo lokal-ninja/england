@@ -1,5 +1,5 @@
 ---
 title: "Silver Leaf Gallery"
 url: /stoke-on-trent/silver-leaf-gallery/
-shop: Kunst
+shop: art
 ---

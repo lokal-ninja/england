@@ -1,5 +1,5 @@
 ---
 title: "Heatwaves"
 url: /sunderland/heatwaves/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Reenas"
 url: /orpington/reenas/
-shop: Kramladen
+shop: variety store
 ---

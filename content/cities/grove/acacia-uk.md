@@ -1,5 +1,5 @@
 ---
 title: "Acacia UK"
 url: /grove/acacia-uk/
-shop: Gebrauchtwaren
+shop: charity
 ---

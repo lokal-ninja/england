@@ -1,5 +1,5 @@
 ---
 title: "Plants Galore"
 url: /newton-abbot/plants-galore/
-shop: Garten-Center
+shop: garden centre
 ---

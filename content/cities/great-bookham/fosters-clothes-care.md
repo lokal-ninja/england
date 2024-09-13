@@ -1,5 +1,5 @@
 ---
 title: "Fosters Clothes Care"
 url: /great-bookham/fosters-clothes-care/
-shop: Wäscherei
+shop: laundry
 ---

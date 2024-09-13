@@ -1,5 +1,5 @@
 ---
 title: "iVape / iMobile"
 url: /norwich/ivape-imobile/
-shop: Handy
+shop: mobile phone
 ---

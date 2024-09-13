@@ -1,5 +1,5 @@
 ---
 title: "Five Acres Garage"
 url: /five-acres/five-acres-garage/
-shop: Autohaus
+shop: car
 ---

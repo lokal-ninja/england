@@ -1,5 +1,5 @@
 ---
 title: "Smart News"
 url: /derby/smart-news/
-shop: Lebensmittel
+shop: convenience
 ---

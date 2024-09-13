@@ -1,5 +1,5 @@
 ---
 title: "Istanbul Supermarket"
 url: /london/istanbul-supermarket-sydenham-road/
-shop: Supermarkt
+shop: supermarket
 ---

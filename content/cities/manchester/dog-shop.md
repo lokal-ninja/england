@@ -1,5 +1,5 @@
 ---
 title: "Dog Shop"
 url: /manchester/dog-shop/
-shop: Tiere
+shop: pet
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Anturaj"
 url: /london/anturaj/
-shop: Friseur
+shop: hairdresser
 ---

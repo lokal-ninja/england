@@ -1,5 +1,5 @@
 ---
 title: "Central Minimarket"
 url: /rugby/central-minimarket/
-shop: Lebensmittel
+shop: convenience
 ---

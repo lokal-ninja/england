@@ -1,5 +1,5 @@
 ---
 title: "Cirencester Computer Repairs"
 url: /cirencester/cirencester-computer-repairs/
-shop: Computer
+shop: computer
 ---

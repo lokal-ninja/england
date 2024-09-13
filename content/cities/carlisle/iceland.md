@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /carlisle/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

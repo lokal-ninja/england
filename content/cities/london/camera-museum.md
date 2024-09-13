@@ -1,5 +1,5 @@
 ---
 title: "Camera Museum"
 url: /london/camera-museum/
-shop: Kamera
+shop: camera
 ---

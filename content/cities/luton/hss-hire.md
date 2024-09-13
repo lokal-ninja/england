@@ -1,5 +1,5 @@
 ---
 title: "HSS Hire"
 url: /luton/hss-hire/
-shop: Werkzeuge
+shop: tools
 ---

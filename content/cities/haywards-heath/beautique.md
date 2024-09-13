@@ -1,5 +1,5 @@
 ---
 title: "Beautique"
 url: /haywards-heath/beautique/
-shop: Kosmetik
+shop: beauty
 ---

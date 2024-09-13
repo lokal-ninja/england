@@ -1,5 +1,5 @@
 ---
 title: "Daisy Nails"
 url: /liverpool/daisy-nails/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "St Elizabeth Hospice"
 url: /woodbridge/st-elizabeth-hospice/
-shop: Gebrauchtwaren
+shop: charity
 ---

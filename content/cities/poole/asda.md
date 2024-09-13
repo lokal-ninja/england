@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /poole/asda/
-shop: Supermarkt
+shop: supermarket
 ---

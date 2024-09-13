@@ -1,5 +1,5 @@
 ---
 title: "Direct Tyres"
 url: /stockport/direct-tyres/
-shop: Reifen
+shop: tyres
 ---

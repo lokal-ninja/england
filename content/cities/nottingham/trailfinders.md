@@ -1,5 +1,5 @@
 ---
 title: "Trailfinders"
 url: /nottingham/trailfinders/
-shop: Reisebüro
+shop: travel agency
 ---

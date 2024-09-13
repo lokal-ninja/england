@@ -1,5 +1,5 @@
 ---
 title: "Zeldaland Flowers"
 url: /teddington/zeldaland-flowers/
-shop: Blumen
+shop: florist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chameleon"
 url: /louth/chameleon/
-shop: Kleidung
+shop: clothes
 ---

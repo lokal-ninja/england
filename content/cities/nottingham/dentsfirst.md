@@ -1,5 +1,5 @@
 ---
 title: "DentsFirst"
 url: /nottingham/dentsfirst/
-shop: Autowerkstatt
+shop: car repair
 ---

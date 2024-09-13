@@ -1,5 +1,5 @@
 ---
 title: "Beaumont Organic"
 url: /manchester/beaumont-organic/
-shop: Kleidung
+shop: clothes
 ---

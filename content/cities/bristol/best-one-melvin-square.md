@@ -1,5 +1,5 @@
 ---
 title: "Best-one"
 url: /bristol/best-one-melvin-square/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Moorfield German Motors"
 url: /leeds/moorfield-german-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

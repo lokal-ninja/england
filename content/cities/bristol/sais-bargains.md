@@ -1,5 +1,5 @@
 ---
 title: "Sai's Bargains"
 url: /bristol/sais-bargains/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Matthew Morris Furniture"
 url: /derby/matthew-morris-furniture/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Snippers"
 url: /feltham/snippers/
-shop: Friseur
+shop: hairdresser
 ---

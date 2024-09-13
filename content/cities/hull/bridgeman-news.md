@@ -1,5 +1,5 @@
 ---
 title: "Bridgeman News"
 url: /hull/bridgeman-news/
-shop: Zeitungen
+shop: newsagent
 ---

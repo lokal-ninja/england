@@ -1,5 +1,5 @@
 ---
 title: "Morrisons"
 url: /redditch/morrisons/
-shop: Supermarkt
+shop: supermarket
 ---

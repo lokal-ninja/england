@@ -1,5 +1,5 @@
 ---
 title: "Best 'in' Kitchens Limited"
 url: /borehamwood/best-in-kitchens-limited/
-shop: Haushaltsgeräte
+shop: appliance
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jenkinsons"
 url: /warrington/jenkinsons/
-shop: Metzgerei
+shop: butcher
 ---

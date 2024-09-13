@@ -1,5 +1,5 @@
 ---
 title: "Salon One"
 url: /lytham-st-annes/salon-one/
-shop: Friseur
+shop: hairdresser
 ---

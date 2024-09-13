@@ -1,5 +1,5 @@
 ---
 title: "Mary Russell"
 url: /london/mary-russell/
-shop: Zeitungen
+shop: newsagent
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dobbies"
 url: /huntingdon/dobbies/
-shop: Garten-Center
+shop: garden centre
 ---

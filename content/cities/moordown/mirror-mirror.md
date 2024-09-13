@@ -1,5 +1,5 @@
 ---
 title: "Mirror Mirror"
 url: /moordown/mirror-mirror/
-shop: Friseur
+shop: hairdresser
 ---

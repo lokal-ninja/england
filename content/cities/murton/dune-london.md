@@ -1,5 +1,5 @@
 ---
 title: "Dune London"
 url: /murton/dune-london/
-shop: Schuhe
+shop: shoes
 ---

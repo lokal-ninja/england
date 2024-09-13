@@ -1,5 +1,5 @@
 ---
 title: "Card Gallery"
 url: /nottingham/card-gallery/
-shop: Schreibwaren
+shop: office supplies
 ---

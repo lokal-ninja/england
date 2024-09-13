@@ -1,5 +1,5 @@
 ---
 title: "Game"
 url: /cirencester/game/
-shop: Videospiele
+shop: video games
 ---

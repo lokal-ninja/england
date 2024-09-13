@@ -1,5 +1,5 @@
 ---
 title: "Megabytes Computer Sales"
 url: /oldham/megabytes-computer-sales/
-shop: Computer
+shop: computer
 ---

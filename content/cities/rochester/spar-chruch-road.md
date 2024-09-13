@@ -1,5 +1,5 @@
 ---
 title: "SPAR"
 url: /rochester/spar-chruch-road/
-shop: Supermarkt
+shop: supermarket
 ---

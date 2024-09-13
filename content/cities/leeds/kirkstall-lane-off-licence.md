@@ -1,5 +1,5 @@
 ---
 title: "Kirkstall Lane Off-licence"
 url: /leeds/kirkstall-lane-off-licence/
-shop: Lebensmittel
+shop: convenience
 ---

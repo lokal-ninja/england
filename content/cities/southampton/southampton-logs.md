@@ -1,5 +1,5 @@
 ---
 title: "Southampton Logs"
 url: /southampton/southampton-logs/
-shop: Treibstoff
+shop: fuel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Curtis"
 url: /lincoln/curtis/
-shop: Bäckerei
+shop: bakery
 ---

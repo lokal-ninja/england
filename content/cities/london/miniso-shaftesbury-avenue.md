@@ -1,5 +1,5 @@
 ---
 title: "Miniso"
 url: /london/miniso-shaftesbury-avenue/
-shop: Kramladen
+shop: variety store
 ---

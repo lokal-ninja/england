@@ -1,5 +1,5 @@
 ---
 title: "Ziggy's"
 url: /forest-row/ziggys/
-shop: Tiere
+shop: pet
 ---

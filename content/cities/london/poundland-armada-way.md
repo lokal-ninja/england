@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /london/poundland-armada-way/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /crewkerne/spar/
-shop: Lebensmittel
+shop: convenience
 ---

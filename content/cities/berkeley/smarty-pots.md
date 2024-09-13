@@ -1,5 +1,5 @@
 ---
 title: "Smarty Pots"
 url: /berkeley/smarty-pots/
-shop: Töpferei
+shop: pottery
 ---

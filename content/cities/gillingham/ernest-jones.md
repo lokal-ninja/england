@@ -1,5 +1,5 @@
 ---
 title: "Ernest Jones"
 url: /gillingham/ernest-jones/
-shop: Schmuck
+shop: jewelry
 ---

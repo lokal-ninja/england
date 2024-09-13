@@ -1,5 +1,5 @@
 ---
 title: "Mooch"
 url: /preston/mooch/
-shop: Raumausstattung
+shop: interior decoration
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /beccles/coral/
-shop: Wettbüro
+shop: bookmaker
 ---

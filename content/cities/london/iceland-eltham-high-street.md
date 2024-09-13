@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /london/iceland-eltham-high-street/
-shop: Tiefkühl
+shop: frozen food
 ---

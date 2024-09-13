@@ -1,5 +1,5 @@
 ---
-title: "C. Michaels Drinks Store"
+title: "C Michaels Drinks Store"
 url: /sutton-coldfield/c-michaels-drinks-store/
-shop: Spirituosen
+shop: shop
 ---

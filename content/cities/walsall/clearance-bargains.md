@@ -1,5 +1,5 @@
 ---
 title: "Clearance Bargains"
 url: /walsall/clearance-bargains/
-shop: Kramladen
+shop: variety store
 ---

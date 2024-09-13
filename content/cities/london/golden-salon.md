@@ -1,5 +1,5 @@
 ---
 title: "Golden Salon"
 url: /london/golden-salon/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Essentials"
 url: /coventry/essentials/
-shop: Kramladen
+shop: variety store
 ---

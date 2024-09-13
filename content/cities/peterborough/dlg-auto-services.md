@@ -1,5 +1,5 @@
 ---
 title: "DLG Auto Services"
 url: /peterborough/dlg-auto-services/
-shop: Autowerkstatt
+shop: car repair
 ---

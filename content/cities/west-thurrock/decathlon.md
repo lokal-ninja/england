@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /west-thurrock/decathlon/
-shop: Sport
+shop: sports
 ---

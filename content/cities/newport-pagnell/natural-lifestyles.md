@@ -1,5 +1,5 @@
 ---
 title: "Natural Lifestyles"
 url: /newport-pagnell/natural-lifestyles/
-shop: Bioladen
+shop: health food
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ivan Keven Salons"
 url: /gateshead/ivan-keven-salons/
-shop: Friseur
+shop: hairdresser
 ---

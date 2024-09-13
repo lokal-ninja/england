@@ -1,5 +1,5 @@
 ---
 title: "Modus"
 url: /london/modus/
-shop: Möbel
+shop: furniture
 ---

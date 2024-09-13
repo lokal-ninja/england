@@ -1,5 +1,5 @@
 ---
 title: "Carpetright"
 url: /haywards-heath/carpetright/
-shop: Teppiche
+shop: carpet
 ---

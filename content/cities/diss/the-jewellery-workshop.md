@@ -1,5 +1,5 @@
 ---
 title: "The Jewellery Workshop"
 url: /diss/the-jewellery-workshop/
-shop: Schmuck
+shop: jewelry
 ---

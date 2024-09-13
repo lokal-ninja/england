@@ -1,5 +1,5 @@
 ---
 title: "Fresh Meat Butcher"
 url: /ipswich/fresh-meat-butcher/
-shop: Metzgerei
+shop: butcher
 ---

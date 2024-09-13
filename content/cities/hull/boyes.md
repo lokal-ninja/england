@@ -1,5 +1,5 @@
 ---
 title: "Boyes"
 url: /hull/boyes/
-shop: Warenhaus
+shop: department store
 ---

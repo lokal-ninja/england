@@ -1,5 +1,5 @@
 ---
 title: "Shampooches"
 url: /dereham/shampooches/
-shop: Tiersalon
+shop: pet grooming
 ---

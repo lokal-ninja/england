@@ -1,5 +1,5 @@
 ---
 title: "EE"
 url: /southport/ee/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lush"
 url: /taunton/lush/
-shop: Kosmetik
+shop: beauty
 ---

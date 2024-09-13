@@ -1,5 +1,5 @@
 ---
 title: "Denmans"
 url: /brackley/denmans/
-shop: Elektrisch
+shop: electrical
 ---

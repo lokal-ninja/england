@@ -1,5 +1,5 @@
 ---
 title: "Chapelle"
 url: /castleford/chapelle/
-shop: Schmuck
+shop: jewelry
 ---

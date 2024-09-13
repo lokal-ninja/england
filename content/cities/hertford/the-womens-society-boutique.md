@@ -1,5 +1,5 @@
 ---
 title: "The Women’s Society Boutique"
 url: /hertford/the-womens-society-boutique/
-shop: Kleidung
+shop: clothes
 ---

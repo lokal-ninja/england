@@ -1,5 +1,5 @@
 ---
 title: "Podgy Paws"
 url: /keswick/podgy-paws/
-shop: Tiere
+shop: pet
 ---

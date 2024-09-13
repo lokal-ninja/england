@@ -1,5 +1,5 @@
 ---
 title: "Deichmann"
 url: /london/deichmann-high-street-north/
-shop: Schuhe
+shop: shoes
 ---

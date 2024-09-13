@@ -1,5 +1,5 @@
 ---
 title: "Clarks"
 url: /broadstairs/clarks/
-shop: Schuhe
+shop: shoes
 ---

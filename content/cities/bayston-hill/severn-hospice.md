@@ -1,5 +1,5 @@
 ---
 title: "Severn Hospice"
 url: /bayston-hill/severn-hospice/
-shop: Gebrauchtwaren
+shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /wakefield/tesco-express-leeds-road/
-shop: Lebensmittel
+shop: convenience
 ---

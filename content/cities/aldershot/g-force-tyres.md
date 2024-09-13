@@ -1,5 +1,5 @@
 ---
 title: "G Force Tyres"
 url: /aldershot/g-force-tyres/
-shop: Autowerkstatt
+shop: car repair
 ---

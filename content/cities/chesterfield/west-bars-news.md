@@ -1,5 +1,5 @@
 ---
 title: "West Bars News"
 url: /chesterfield/west-bars-news/
-shop: Zeitungen
+shop: newsagent
 ---

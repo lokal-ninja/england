@@ -1,5 +1,5 @@
 ---
 title: "CeX"
 url: /cramlington/cex/
-shop: Elektronik
+shop: electronics
 ---

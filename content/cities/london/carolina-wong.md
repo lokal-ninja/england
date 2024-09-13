@@ -1,5 +1,5 @@
 ---
 title: "CAROLINA WONG"
 url: /london/carolina-wong/
-shop: Schmuck
+shop: jewelry
 ---

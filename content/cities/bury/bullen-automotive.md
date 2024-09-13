@@ -1,5 +1,5 @@
 ---
 title: "Bullen Automotive"
 url: /bury/bullen-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

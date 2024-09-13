@@ -1,5 +1,5 @@
 ---
 title: "Ozdiller"
 url: /london/ozdiller/
-shop: Großhandel
+shop: wholesale
 ---

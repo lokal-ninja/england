@@ -1,5 +1,5 @@
 ---
 title: "DSG Renault"
 url: /morecambe/dsg-renault/
-shop: Autohaus
+shop: car
 ---

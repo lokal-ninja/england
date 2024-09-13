@@ -1,5 +1,5 @@
 ---
 title: "Paint Autocraft"
 url: /runcorn/paint-autocraft/
-shop: Autowerkstatt
+shop: car repair
 ---

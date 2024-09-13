@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /cirencester/whsmith/
-shop: Bücher
+shop: books
 ---

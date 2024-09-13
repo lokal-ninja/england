@@ -1,5 +1,5 @@
 ---
 title: "the artisan"
 url: /lincoln/the-artisan/
-shop: Raumausstattung
+shop: interior decoration
 ---

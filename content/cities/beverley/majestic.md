@@ -1,5 +1,5 @@
 ---
 title: "Majestic"
 url: /beverley/majestic/
-shop: Spirituosen
+shop: alcohol
 ---

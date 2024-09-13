@@ -1,5 +1,5 @@
 ---
 title: "Jantex"
 url: /congleton/jantex/
-shop: Möbel
+shop: furniture
 ---

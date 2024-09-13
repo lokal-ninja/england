@@ -1,5 +1,5 @@
 ---
 title: "Country Style"
 url: /durham/country-style/
-shop: Blumen
+shop: florist
 ---

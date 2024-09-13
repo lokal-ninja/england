@@ -1,5 +1,5 @@
 ---
 title: "TJ Hughes"
 url: /preston/tj-hughes/
-shop: Warenhaus
+shop: department store
 ---

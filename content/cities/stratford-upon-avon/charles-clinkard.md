@@ -1,5 +1,5 @@
 ---
 title: "Charles Clinkard"
 url: /stratford-upon-avon/charles-clinkard/
-shop: Schuhe
+shop: shoes
 ---

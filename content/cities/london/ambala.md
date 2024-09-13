@@ -1,5 +1,5 @@
 ---
 title: "Ambala"
 url: /london/ambala/
-shop: Süßwaren
+shop: confectionery
 ---

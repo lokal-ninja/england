@@ -1,5 +1,5 @@
 ---
 title: "Angel Couture"
 url: /manchester/angel-couture/
-shop: Kleidung
+shop: clothes
 ---

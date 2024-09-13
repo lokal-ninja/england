@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /rock-ferry/tesco/
-shop: Supermarkt
+shop: supermarket
 ---

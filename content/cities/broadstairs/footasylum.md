@@ -1,5 +1,5 @@
 ---
 title: "Footasylum"
 url: /broadstairs/footasylum/
-shop: Schuhe
+shop: shoes
 ---

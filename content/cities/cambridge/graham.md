@@ -1,5 +1,5 @@
 ---
 title: "Graham"
 url: /cambridge/graham/
-shop: Baustoffe
+shop: trade
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fonecity"
 url: /birmingham/fonecity/
-shop: Handy
+shop: mobile phone
 ---

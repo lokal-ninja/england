@@ -1,5 +1,5 @@
 ---
 title: "Nisa Local"
 url: /birmingham/nisa-local-turves-green/
-shop: Lebensmittel
+shop: convenience
 ---

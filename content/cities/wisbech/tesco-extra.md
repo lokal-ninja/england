@@ -1,5 +1,5 @@
 ---
 title: "Tesco Extra"
 url: /wisbech/tesco-extra/
-shop: Supermarkt
+shop: supermarket
 ---

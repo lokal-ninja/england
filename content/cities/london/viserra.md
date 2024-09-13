@@ -1,5 +1,5 @@
 ---
 title: "Viserra"
 url: /london/viserra/
-shop: Großhandel
+shop: wholesale
 ---

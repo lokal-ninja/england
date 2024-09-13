@@ -1,5 +1,5 @@
 ---
 title: "United Vehicle Services"
 url: /ipswich/united-vehicle-services/
-shop: Autowerkstatt
+shop: car repair
 ---

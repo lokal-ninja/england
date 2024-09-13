@@ -1,5 +1,5 @@
 ---
 title: "Lapid Art"
 url: /lincoln/lapid-art/
-shop: Kunst
+shop: art
 ---

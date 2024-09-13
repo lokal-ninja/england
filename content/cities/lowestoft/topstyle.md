@@ -1,5 +1,5 @@
 ---
 title: "TopStyle"
 url: /lowestoft/topstyle/
-shop: Friseur
+shop: hairdresser
 ---

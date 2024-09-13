@@ -1,5 +1,5 @@
 ---
 title: "CVB Motors"
 url: /oldham/cvb-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

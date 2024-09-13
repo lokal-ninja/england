@@ -1,5 +1,5 @@
 ---
 title: "Screwfix"
 url: /worksop/screwfix/
-shop: Baumarkt
+shop: doityourself
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pinfold Garage"
 url: /ambleside/pinfold-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

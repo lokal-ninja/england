@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /ossett/londis/
-shop: Lebensmittel
+shop: convenience
 ---

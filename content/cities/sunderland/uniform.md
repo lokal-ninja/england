@@ -1,5 +1,5 @@
 ---
 title: "Uniform"
 url: /sunderland/uniform/
-shop: Kleidung
+shop: clothes
 ---

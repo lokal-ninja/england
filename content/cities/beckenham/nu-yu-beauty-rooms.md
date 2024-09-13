@@ -1,5 +1,5 @@
 ---
 title: "NU:YU Beauty Rooms"
 url: /beckenham/nu-yu-beauty-rooms/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hair Organics"
 url: /london/hair-organics/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mobile Lab"
 url: /nottingham/mobile-lab-main-street/
-shop: Handy
+shop: mobile phone
 ---

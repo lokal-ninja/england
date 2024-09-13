@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /leeds/coral-middleton-park-circus/
-shop: Wettbüro
+shop: bookmaker
 ---

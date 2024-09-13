@@ -1,5 +1,5 @@
 ---
 title: "Paultons"
 url: /london/paultons/
-shop: Raumausstattung
+shop: interior decoration
 ---

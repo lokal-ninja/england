@@ -1,5 +1,5 @@
 ---
 title: "Sana Trading"
 url: /manchester/sana-trading/
-shop: Großhandel
+shop: wholesale
 ---

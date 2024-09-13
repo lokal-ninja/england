@@ -1,5 +1,5 @@
 ---
 title: "Poundbakery"
 url: /salford/poundbakery/
-shop: Bäckerei
+shop: bakery
 ---

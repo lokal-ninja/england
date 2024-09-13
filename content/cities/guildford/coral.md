@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /guildford/coral/
-shop: Wettbüro
+shop: bookmaker
 ---

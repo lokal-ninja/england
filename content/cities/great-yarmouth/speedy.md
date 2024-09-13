@@ -1,5 +1,5 @@
 ---
 title: "Speedy"
 url: /great-yarmouth/speedy/
-shop: Werkzeuge
+shop: tools
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ghousia Foods"
 url: /nottingham/ghousia-foods/
-shop: Lebensmittel
+shop: convenience
 ---

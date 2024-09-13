@@ -1,5 +1,5 @@
 ---
 title: "Sewing Belle"
 url: /nottingham/sewing-belle/
-shop: Textil
+shop: fabric
 ---

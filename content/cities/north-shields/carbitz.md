@@ -1,5 +1,5 @@
 ---
 title: "Carbitz"
 url: /north-shields/carbitz/
-shop: Autoteile
+shop: car parts
 ---

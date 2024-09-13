@@ -1,5 +1,5 @@
 ---
 title: "Top News"
 url: /huddersfield/top-news/
-shop: Zeitungen
+shop: newsagent
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Troy's Barbers"
 url: /bolton/troys-barbers/
-shop: Friseur
+shop: hairdresser
 ---

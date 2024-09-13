@@ -1,5 +1,5 @@
 ---
 title: "Peacocks"
 url: /woodbridge/peacocks/
-shop: Kleidung
+shop: clothes
 ---

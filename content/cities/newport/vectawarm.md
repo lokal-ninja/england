@@ -1,5 +1,5 @@
 ---
 title: "Vectawarm"
 url: /newport/vectawarm/
-shop: Küchen
+shop: kitchen
 ---

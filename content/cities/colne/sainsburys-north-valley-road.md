@@ -1,5 +1,5 @@
 ---
 title: "Sainsbury's"
 url: /colne/sainsburys-north-valley-road/
-shop: Lebensmittel
+shop: convenience
 ---

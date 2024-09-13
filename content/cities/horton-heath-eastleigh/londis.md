@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /horton-heath-eastleigh/londis/
-shop: Lebensmittel
+shop: convenience
 ---

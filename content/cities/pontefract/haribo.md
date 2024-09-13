@@ -1,5 +1,5 @@
 ---
 title: "Haribo"
 url: /pontefract/haribo/
-shop: Süßwaren
+shop: confectionery
 ---

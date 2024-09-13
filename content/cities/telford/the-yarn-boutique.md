@@ -1,5 +1,5 @@
 ---
 title: "The Yarn Boutique"
 url: /telford/the-yarn-boutique/
-shop: Andenken
+shop: gift
 ---

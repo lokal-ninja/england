@@ -1,5 +1,5 @@
 ---
 title: "TravelQuest"
 url: /woodbridge/travelquest/
-shop: Reisebüro
+shop: travel agency
 ---

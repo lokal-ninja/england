@@ -1,5 +1,5 @@
 ---
 title: "Alexander's"
 url: /thetford/alexanders/
-shop: Schmuck
+shop: jewelry
 ---

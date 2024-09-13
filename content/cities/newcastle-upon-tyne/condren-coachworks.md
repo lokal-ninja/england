@@ -1,5 +1,5 @@
 ---
 title: "Condren Coachworks"
 url: /newcastle-upon-tyne/condren-coachworks/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "BottleWorks"
 url: /newcastle-upon-tyne/bottleworks/
-shop: Dorfladen
+shop: general
 ---

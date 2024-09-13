@@ -1,5 +1,5 @@
 ---
 title: "Millets"
 url: /haywards-heath/millets/
-shop: Outdoor
+shop: outdoor
 ---

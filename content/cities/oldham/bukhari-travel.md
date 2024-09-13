@@ -1,5 +1,5 @@
 ---
 title: "Bukhari Travel"
 url: /oldham/bukhari-travel/
-shop: Reisebüro
+shop: travel agency
 ---

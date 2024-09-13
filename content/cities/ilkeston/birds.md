@@ -1,5 +1,5 @@
 ---
 title: "Birds"
 url: /ilkeston/birds/
-shop: Bäckerei
+shop: bakery
 ---

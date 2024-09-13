@@ -1,5 +1,5 @@
 ---
 title: "Marhaba Jewellers"
 url: /manchester/marhaba-jewellers/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /wigan/spar-rainford-road/
-shop: Lebensmittel
+shop: convenience
 ---

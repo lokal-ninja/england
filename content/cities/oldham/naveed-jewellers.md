@@ -1,5 +1,5 @@
 ---
 title: "Naveed Jewellers"
 url: /oldham/naveed-jewellers/
-shop: Schmuck
+shop: jewelry
 ---

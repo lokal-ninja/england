@@ -1,5 +1,5 @@
 ---
 title: "Great Grass"
 url: /manchester/great-grass/
-shop: Allgemein
+shop: shop
 ---

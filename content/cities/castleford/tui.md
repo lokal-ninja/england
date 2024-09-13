@@ -1,5 +1,5 @@
 ---
 title: "TUI"
 url: /castleford/tui/
-shop: Reisebüro
+shop: travel agency
 ---

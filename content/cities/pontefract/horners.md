@@ -1,5 +1,5 @@
 ---
 title: "Horners"
 url: /pontefract/horners/
-shop: Bäckerei
+shop: bakery
 ---

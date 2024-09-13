@@ -1,5 +1,5 @@
 ---
 title: "Specialized"
 url: /chelmsford/specialized/
-shop: Fahrrad
+shop: bicycle
 ---

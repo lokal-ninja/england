@@ -1,5 +1,5 @@
 ---
 title: "DVA Beautique"
 url: /london/dva-beautique/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Steam and Moorland Garden Centre"
 url: /pickering/steam-and-moorland-garden-centre/
-shop: Garten-Center
+shop: garden centre
 ---

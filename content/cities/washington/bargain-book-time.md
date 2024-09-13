@@ -1,5 +1,5 @@
 ---
 title: "Bargain Book Time"
 url: /washington/bargain-book-time/
-shop: Bücher
+shop: books
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tan Fantastic"
 url: /darlington/tan-fantastic/
-shop: Kosmetik
+shop: beauty
 ---

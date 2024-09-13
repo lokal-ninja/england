@@ -1,5 +1,5 @@
 ---
 title: "Suziebou"
 url: /dalston/suziebou/
-shop: Andenken
+shop: gift
 ---

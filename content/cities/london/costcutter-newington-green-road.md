@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /london/costcutter-newington-green-road/
-shop: Lebensmittel
+shop: convenience
 ---

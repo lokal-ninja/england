@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /walton-on-thames/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

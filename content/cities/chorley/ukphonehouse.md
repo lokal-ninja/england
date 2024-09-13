@@ -1,5 +1,5 @@
 ---
 title: "UKPhoneHouse"
 url: /chorley/ukphonehouse/
-shop: Handy
+shop: mobile phone
 ---

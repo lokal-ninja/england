@@ -1,5 +1,5 @@
 ---
 title: "Beaverbrooks"
 url: /warrington/beaverbrooks/
-shop: Schmuck
+shop: jewelry
 ---

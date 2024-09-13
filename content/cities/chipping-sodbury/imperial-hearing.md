@@ -1,5 +1,5 @@
 ---
 title: "Imperial Hearing"
 url: /chipping-sodbury/imperial-hearing/
-shop: Hörgeräte
+shop: hearing aids
 ---

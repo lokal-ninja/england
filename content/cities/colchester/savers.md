@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /colchester/savers/
-shop: Drogerie
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Superdry"
 url: /chelmsford/superdry/
-shop: Kleidung
+shop: clothes
 ---

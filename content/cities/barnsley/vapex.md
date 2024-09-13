@@ -1,5 +1,5 @@
 ---
 title: "VAPEx"
 url: /barnsley/vapex/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

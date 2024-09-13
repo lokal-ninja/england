@@ -1,5 +1,5 @@
 ---
 title: "Parklands Honda"
 url: /gloucester/parklands-honda/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Giant"
 url: /southampton/giant/
-shop: Fahrrad
+shop: bicycle
 ---

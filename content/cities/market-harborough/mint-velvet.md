@@ -1,5 +1,5 @@
 ---
 title: "Mint Velvet"
 url: /market-harborough/mint-velvet/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "GAP"
 url: /stockport/gap/
-shop: Baustoffe
+shop: trade
 ---

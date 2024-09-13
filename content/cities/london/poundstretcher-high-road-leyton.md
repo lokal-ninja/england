@@ -1,5 +1,5 @@
 ---
 title: "Poundstretcher"
 url: /london/poundstretcher-high-road-leyton/
-shop: Kramladen
+shop: variety store
 ---

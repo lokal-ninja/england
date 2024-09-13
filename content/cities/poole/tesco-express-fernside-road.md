@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /poole/tesco-express-fernside-road/
-shop: Lebensmittel
+shop: convenience
 ---

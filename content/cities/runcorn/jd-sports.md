@@ -1,5 +1,5 @@
 ---
 title: "JD Sports"
 url: /runcorn/jd-sports/
-shop: Sport
+shop: sports
 ---

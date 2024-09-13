@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /poulner/tesco-express/
-shop: Lebensmittel
+shop: convenience
 ---

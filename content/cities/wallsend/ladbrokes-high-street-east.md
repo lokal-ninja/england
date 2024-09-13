@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /wallsend/ladbrokes-high-street-east/
-shop: Wettbüro
+shop: bookmaker
 ---

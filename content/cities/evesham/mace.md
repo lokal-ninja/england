@@ -1,5 +1,5 @@
 ---
 title: "Mace"
 url: /evesham/mace/
-shop: Lebensmittel
+shop: convenience
 ---

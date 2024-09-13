@@ -1,5 +1,5 @@
 ---
 title: "Dunelm"
 url: /blackpool/dunelm/
-shop: Raumausstattung
+shop: interior decoration
 ---

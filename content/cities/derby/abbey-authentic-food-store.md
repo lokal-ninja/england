@@ -1,5 +1,5 @@
 ---
 title: "Abbey Authentic Food Store"
 url: /derby/abbey-authentic-food-store/
-shop: Lebensmittel
+shop: convenience
 ---

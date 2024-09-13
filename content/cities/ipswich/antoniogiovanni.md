@@ -1,5 +1,5 @@
 ---
 title: "AntonioGiovanni"
 url: /ipswich/antoniogiovanni/
-shop: Friseur
+shop: hairdresser
 ---

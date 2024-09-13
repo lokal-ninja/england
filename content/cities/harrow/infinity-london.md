@@ -1,5 +1,5 @@
 ---
 title: "Infinity London"
 url: /harrow/infinity-london/
-shop: Kramladen
+shop: variety store
 ---

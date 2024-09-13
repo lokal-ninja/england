@@ -1,5 +1,5 @@
 ---
 title: "Fleetcare"
 url: /nottingham/fleetcare/
-shop: Autowerkstatt
+shop: car repair
 ---

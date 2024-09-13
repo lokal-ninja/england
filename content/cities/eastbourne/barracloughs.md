@@ -1,5 +1,5 @@
 ---
 title: "Barracloughs"
 url: /eastbourne/barracloughs/
-shop: Optiker
+shop: optician
 ---

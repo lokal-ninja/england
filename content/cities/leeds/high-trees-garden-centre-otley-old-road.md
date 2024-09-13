@@ -1,5 +1,5 @@
 ---
 title: "High Trees Garden Centre"
 url: /leeds/high-trees-garden-centre-otley-old-road/
-shop: Garten-Center
+shop: garden centre
 ---

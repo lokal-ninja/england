@@ -1,5 +1,5 @@
 ---
 title: "Parade Chemist"
 url: /london/parade-chemist/
-shop: Drogerie
+shop: chemist
 ---

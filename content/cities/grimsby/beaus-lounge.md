@@ -1,5 +1,5 @@
 ---
 title: "Beau's Lounge"
 url: /grimsby/beaus-lounge/
-shop: Kleidung
+shop: clothes
 ---

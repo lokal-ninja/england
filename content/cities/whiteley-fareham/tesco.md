@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /whiteley-fareham/tesco/
-shop: Lebensmittel
+shop: convenience
 ---

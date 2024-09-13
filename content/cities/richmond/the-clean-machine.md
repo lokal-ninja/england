@@ -1,5 +1,5 @@
 ---
 title: "The Clean Machine"
 url: /richmond/the-clean-machine/
-shop: Wäscherei
+shop: laundry
 ---

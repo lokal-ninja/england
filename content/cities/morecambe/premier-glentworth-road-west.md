@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /morecambe/premier-glentworth-road-west/
-shop: Lebensmittel
+shop: convenience
 ---

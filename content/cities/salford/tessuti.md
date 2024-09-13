@@ -1,5 +1,5 @@
 ---
 title: "Tessuti"
 url: /salford/tessuti/
-shop: Kleidung
+shop: clothes
 ---

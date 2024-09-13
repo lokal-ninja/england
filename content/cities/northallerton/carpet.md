@@ -1,5 +1,5 @@
 ---
 title: "Carpet"
 url: /northallerton/carpet/
-shop: Leerstehend
+shop: vacant
 ---

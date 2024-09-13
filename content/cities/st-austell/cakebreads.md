@@ -1,5 +1,5 @@
 ---
 title: "Cakebreads"
 url: /st-austell/cakebreads/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Superdrug"
 url: /sheffield/superdrug-sheaf-street/
-shop: Drogerie
+shop: chemist
 ---

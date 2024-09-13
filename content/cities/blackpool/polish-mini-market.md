@@ -1,5 +1,5 @@
 ---
 title: "Polish Mini-market"
 url: /blackpool/polish-mini-market/
-shop: Lebensmittel
+shop: convenience
 ---

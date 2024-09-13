@@ -1,5 +1,5 @@
 ---
 title: "Break"
 url: /stroud/break/
-shop: Gebrauchtwaren
+shop: charity
 ---

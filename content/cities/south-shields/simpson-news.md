@@ -1,5 +1,5 @@
 ---
 title: "Simpson News"
 url: /south-shields/simpson-news/
-shop: Zeitungen
+shop: newsagent
 ---

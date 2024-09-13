@@ -1,5 +1,5 @@
 ---
 title: "One Stop"
 url: /north-shields/one-stop-waterville-road/
-shop: Lebensmittel
+shop: convenience
 ---

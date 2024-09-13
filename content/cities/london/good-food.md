@@ -1,5 +1,5 @@
 ---
 title: "Good Food"
 url: /london/good-food/
-shop: Bioladen
+shop: health food
 ---

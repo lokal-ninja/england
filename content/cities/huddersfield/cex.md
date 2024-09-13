@@ -1,5 +1,5 @@
 ---
 title: "CeX"
 url: /huddersfield/cex/
-shop: Elektronik
+shop: electronics
 ---

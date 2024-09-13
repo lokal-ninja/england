@@ -1,5 +1,5 @@
 ---
 title: "Sehar Boutique"
 url: /nottingham/sehar-boutique/
-shop: Kleidung
+shop: clothes
 ---

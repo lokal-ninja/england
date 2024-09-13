@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /whitehaven/poundland/
-shop: Kramladen
+shop: variety store
 ---

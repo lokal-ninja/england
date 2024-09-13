@@ -1,5 +1,5 @@
 ---
 title: "The Frome Bookshop"
 url: /frome/the-frome-bookshop/
-shop: Bücher
+shop: books
 ---

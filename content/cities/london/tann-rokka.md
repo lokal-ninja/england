@@ -1,5 +1,5 @@
 ---
 title: "Tann Rokka"
 url: /london/tann-rokka/
-shop: Möbel
+shop: furniture
 ---

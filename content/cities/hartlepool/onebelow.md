@@ -1,5 +1,5 @@
 ---
 title: "OneBelow"
 url: /hartlepool/onebelow/
-shop: Kramladen
+shop: variety store
 ---

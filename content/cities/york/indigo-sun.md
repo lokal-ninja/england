@@ -1,5 +1,5 @@
 ---
 title: "Indigo Sun"
 url: /york/indigo-sun/
-shop: Kosmetik
+shop: beauty
 ---

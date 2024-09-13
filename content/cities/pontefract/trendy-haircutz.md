@@ -1,5 +1,5 @@
 ---
 title: "Trendy Haircutz"
 url: /pontefract/trendy-haircutz/
-shop: Friseur
+shop: hairdresser
 ---

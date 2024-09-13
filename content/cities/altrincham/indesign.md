@@ -1,5 +1,5 @@
 ---
 title: "indesign"
 url: /altrincham/indesign/
-shop: Küchen
+shop: kitchen
 ---

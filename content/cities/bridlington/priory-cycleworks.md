@@ -1,5 +1,5 @@
 ---
 title: "Priory Cycleworks"
 url: /bridlington/priory-cycleworks/
-shop: Fahrrad
+shop: bicycle
 ---

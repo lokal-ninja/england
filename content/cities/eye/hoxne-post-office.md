@@ -1,5 +1,5 @@
 ---
 title: "Hoxne Post Office"
 url: /eye/hoxne-post-office/
-shop: Lebensmittel
+shop: convenience
 ---

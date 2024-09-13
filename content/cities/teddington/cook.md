@@ -1,5 +1,5 @@
 ---
 title: "Cook"
 url: /teddington/cook/
-shop: Tiefkühl
+shop: frozen food
 ---

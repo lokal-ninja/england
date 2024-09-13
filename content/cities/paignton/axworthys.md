@@ -1,5 +1,5 @@
 ---
 title: "Axworthys"
 url: /paignton/axworthys/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Croxley Plumbing Supplies"
 url: /rickmansworth/croxley-plumbing-supplies/
-shop: Eisenwaren
+shop: hardware
 ---

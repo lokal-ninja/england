@@ -1,5 +1,5 @@
 ---
 title: "Aquatech Diving Centre"
 url: /stockport/aquatech-diving-centre/
-shop: Tauchen
+shop: diving
 ---

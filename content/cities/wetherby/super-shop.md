@@ -1,5 +1,5 @@
 ---
 title: "Super Shop"
 url: /wetherby/super-shop/
-shop: Zeitungen
+shop: newsagent
 ---

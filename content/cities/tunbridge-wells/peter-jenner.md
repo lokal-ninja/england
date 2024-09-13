@@ -1,5 +1,5 @@
 ---
 title: "Peter Jenner"
 url: /tunbridge-wells/peter-jenner/
-shop: Schmuck
+shop: jewelry
 ---

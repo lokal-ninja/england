@@ -1,5 +1,5 @@
 ---
 title: "BB Superstore"
 url: /pontefract/bb-superstore/
-shop: Lebensmittel
+shop: convenience
 ---

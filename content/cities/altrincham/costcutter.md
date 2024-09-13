@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /altrincham/costcutter/
-shop: Lebensmittel
+shop: convenience
 ---

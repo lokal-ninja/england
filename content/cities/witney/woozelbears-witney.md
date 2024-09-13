@@ -1,5 +1,5 @@
 ---
 title: "Woozelbears Witney"
 url: /witney/woozelbears-witney/
-shop: Tiersalon
+shop: pet grooming
 ---

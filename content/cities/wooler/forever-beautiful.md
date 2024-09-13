@@ -1,5 +1,5 @@
 ---
 title: "Forever Beautiful"
 url: /wooler/forever-beautiful/
-shop: Kosmetik
+shop: beauty
 ---

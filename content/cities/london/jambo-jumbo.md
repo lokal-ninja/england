@@ -1,5 +1,5 @@
 ---
 title: "Jambo Jumbo"
 url: /london/jambo-jumbo/
-shop: Lebensmittel
+shop: convenience
 ---

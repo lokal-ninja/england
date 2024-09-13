@@ -1,5 +1,5 @@
 ---
 title: "Rybrook"
 url: /hockley-heath/rybrook/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sky"
 url: /swindon/sky/
-shop: Handy
+shop: mobile phone
 ---

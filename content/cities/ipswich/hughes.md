@@ -1,5 +1,5 @@
 ---
 title: "Hughes"
 url: /ipswich/hughes/
-shop: Elektrisch
+shop: electrical
 ---

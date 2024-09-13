@@ -1,5 +1,5 @@
 ---
 title: "Folio"
 url: /london/folio/
-shop: Kleidung
+shop: clothes
 ---

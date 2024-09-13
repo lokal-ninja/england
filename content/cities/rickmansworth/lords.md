@@ -1,5 +1,5 @@
 ---
 title: "Lords"
 url: /rickmansworth/lords/
-shop: Eisenwaren
+shop: hardware
 ---

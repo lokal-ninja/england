@@ -1,5 +1,5 @@
 ---
 title: "Strand Store"
 url: /bootle/strand-store/
-shop: Lebensmittel
+shop: convenience
 ---

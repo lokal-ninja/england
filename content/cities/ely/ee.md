@@ -1,5 +1,5 @@
 ---
 title: "EE"
 url: /ely/ee/
-shop: Handy
+shop: mobile phone
 ---

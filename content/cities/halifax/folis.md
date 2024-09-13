@@ -1,5 +1,5 @@
 ---
 title: "Folis"
 url: /halifax/folis/
-shop: Friseur
+shop: hairdresser
 ---

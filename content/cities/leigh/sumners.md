@@ -1,5 +1,5 @@
 ---
 title: "Sumners"
 url: /leigh/sumners/
-shop: Metzgerei
+shop: butcher
 ---

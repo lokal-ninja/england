@@ -1,5 +1,5 @@
 ---
 title: "FoneFix"
 url: /ilford/fonefix/
-shop: Handy
+shop: mobile phone
 ---

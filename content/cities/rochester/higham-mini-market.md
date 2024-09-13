@@ -1,5 +1,5 @@
 ---
 title: "Higham Mini Market"
 url: /rochester/higham-mini-market/
-shop: Lebensmittel
+shop: convenience
 ---

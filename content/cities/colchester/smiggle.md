@@ -1,5 +1,5 @@
 ---
 title: "Smiggle"
 url: /colchester/smiggle/
-shop: Schreibwaren
+shop: office supplies
 ---

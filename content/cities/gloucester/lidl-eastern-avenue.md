@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /gloucester/lidl-eastern-avenue/
-shop: Supermarkt
+shop: supermarket
 ---

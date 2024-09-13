@@ -1,5 +1,5 @@
 ---
 title: "Albany Motors"
 url: /gateshead/albany-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

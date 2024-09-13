@@ -1,5 +1,5 @@
 ---
 title: "Reiss"
 url: /st-albans/reiss/
-shop: Kleidung
+shop: clothes
 ---

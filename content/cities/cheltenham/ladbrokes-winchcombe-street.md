@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /cheltenham/ladbrokes-winchcombe-street/
-shop: Wettbüro
+shop: bookmaker
 ---

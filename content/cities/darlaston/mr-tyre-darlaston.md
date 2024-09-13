@@ -1,5 +1,5 @@
 ---
 title: "Mr Tyre Darlaston"
 url: /darlaston/mr-tyre-darlaston/
-shop: Autowerkstatt
+shop: car repair
 ---

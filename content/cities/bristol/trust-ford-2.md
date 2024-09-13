@@ -1,5 +1,5 @@
 ---
 title: "Trust Ford"
 url: /bristol/trust-ford-2/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pegco"
 url: /wigan/pegco/
-shop: Autowerkstatt
+shop: car repair
 ---

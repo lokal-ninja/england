@@ -1,5 +1,5 @@
 ---
 title: "Manns Music"
 url: /colchester/manns-music/
-shop: Musik
+shop: music
 ---

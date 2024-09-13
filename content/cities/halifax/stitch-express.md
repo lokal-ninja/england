@@ -1,5 +1,5 @@
 ---
 title: "Stitch Express"
 url: /halifax/stitch-express/
-shop: Schneiderei
+shop: tailor
 ---

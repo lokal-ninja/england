@@ -1,5 +1,5 @@
 ---
 title: "Barbican Armoury"
 url: /durham/barbican-armoury/
-shop: Waffen
+shop: weapons
 ---

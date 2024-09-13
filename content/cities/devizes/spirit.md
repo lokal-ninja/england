@@ -1,5 +1,5 @@
 ---
 title: "Spirit"
 url: /devizes/spirit/
-shop: Kleidung
+shop: clothes
 ---

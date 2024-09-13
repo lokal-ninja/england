@@ -1,5 +1,5 @@
 ---
 title: "Crown Cycles"
 url: /twickenham/crown-cycles/
-shop: Fahrrad
+shop: bicycle
 ---

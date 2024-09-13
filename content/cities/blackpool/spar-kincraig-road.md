@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /blackpool/spar-kincraig-road/
-shop: Lebensmittel
+shop: convenience
 ---

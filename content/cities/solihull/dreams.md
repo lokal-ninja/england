@@ -1,5 +1,5 @@
 ---
 title: "Dreams"
 url: /solihull/dreams/
-shop: Betten
+shop: bed
 ---

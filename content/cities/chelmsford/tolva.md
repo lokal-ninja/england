@@ -1,5 +1,5 @@
 ---
 title: "Tolva"
 url: /chelmsford/tolva/
-shop: Computer
+shop: computer
 ---

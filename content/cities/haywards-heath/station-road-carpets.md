@@ -1,5 +1,5 @@
 ---
 title: "Station Road Carpets"
 url: /haywards-heath/station-road-carpets/
-shop: Teppiche
+shop: carpet
 ---

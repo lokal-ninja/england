@@ -1,5 +1,5 @@
 ---
 title: "Wags Boutique"
 url: /millom/wags-boutique/
-shop: Tiersalon
+shop: pet grooming
 ---

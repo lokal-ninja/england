@@ -1,5 +1,5 @@
 ---
 title: "Natalia's"
 url: /morecambe/natalias/
-shop: Tiersalon
+shop: pet grooming
 ---

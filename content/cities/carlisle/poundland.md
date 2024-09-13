@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /carlisle/poundland/
-shop: Kramladen
+shop: variety store
 ---

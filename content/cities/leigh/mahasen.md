@@ -1,5 +1,5 @@
 ---
 title: "Mahasen"
 url: /leigh/mahasen/
-shop: Lebensmittel
+shop: convenience
 ---

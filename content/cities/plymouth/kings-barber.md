@@ -1,5 +1,5 @@
 ---
 title: "Kings Barber"
 url: /plymouth/kings-barber/
-shop: Friseur
+shop: hairdresser
 ---

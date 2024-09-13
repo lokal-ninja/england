@@ -1,5 +1,5 @@
 ---
 title: "Gastronon Natali"
 url: /derby/gastronon-natali/
-shop: Lebensmittel
+shop: convenience
 ---

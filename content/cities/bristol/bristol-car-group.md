@@ -1,5 +1,5 @@
 ---
 title: "Bristol Car Group"
 url: /bristol/bristol-car-group/
-shop: Autohaus
+shop: car
 ---

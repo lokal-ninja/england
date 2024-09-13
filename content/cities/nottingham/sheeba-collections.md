@@ -1,5 +1,5 @@
 ---
 title: "Sheeba Collections"
 url: /nottingham/sheeba-collections/
-shop: Kleidung
+shop: clothes
 ---

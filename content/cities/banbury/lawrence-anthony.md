@@ -1,5 +1,5 @@
 ---
 title: "Lawrence Anthony"
 url: /banbury/lawrence-anthony/
-shop: Friseur
+shop: hairdresser
 ---

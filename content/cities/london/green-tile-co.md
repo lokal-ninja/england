@@ -1,5 +1,5 @@
 ---
 title: "Green Tile Co"
 url: /london/green-tile-co/
-shop: Garten-Center
+shop: garden centre
 ---

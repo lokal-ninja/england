@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /london/tesco-express-brewhouse-yard/
-shop: Lebensmittel
+shop: convenience
 ---

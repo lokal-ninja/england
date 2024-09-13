@@ -1,5 +1,5 @@
 ---
 title: "Harwichs For Flair"
 url: /harwich/harwichs-for-flair/
-shop: Friseur
+shop: hairdresser
 ---

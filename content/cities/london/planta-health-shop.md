@@ -1,5 +1,5 @@
 ---
 title: "Planta Health Shop"
 url: /london/planta-health-shop/
-shop: Bioladen
+shop: health food
 ---

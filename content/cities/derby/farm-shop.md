@@ -1,5 +1,5 @@
 ---
 title: "Farm Shop"
 url: /derby/farm-shop/
-shop: Lebensmittel
+shop: convenience
 ---

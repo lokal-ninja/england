@@ -1,5 +1,5 @@
 ---
 title: "Nisa Local"
 url: /london/nisa-local-chingford-mount-road/
-shop: Supermarkt
+shop: supermarket
 ---

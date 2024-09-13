@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /bowness-on-windermere/coral/
-shop: Wettbüro
+shop: bookmaker
 ---

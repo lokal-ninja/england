@@ -1,5 +1,5 @@
 ---
 title: "Wren's Auto Electrics"
 url: /london/wrens-auto-electrics/
-shop: Autoteile
+shop: car parts
 ---

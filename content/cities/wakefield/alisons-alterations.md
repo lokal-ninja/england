@@ -1,5 +1,5 @@
 ---
 title: "Alisons Alterations"
 url: /wakefield/alisons-alterations/
-shop: Schneiderei
+shop: tailor
 ---

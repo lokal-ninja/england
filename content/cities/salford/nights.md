@@ -1,5 +1,5 @@
 ---
 title: "Nights"
 url: /salford/nights/
-shop: Betten
+shop: bed
 ---

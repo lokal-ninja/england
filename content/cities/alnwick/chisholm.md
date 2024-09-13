@@ -1,5 +1,5 @@
 ---
 title: "Chisholm"
 url: /alnwick/chisholm/
-shop: Wettbüro
+shop: bookmaker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "TUI"
 url: /kings-lynn/tui/
-shop: Reisebüro
+shop: travel agency
 ---

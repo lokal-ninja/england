@@ -1,5 +1,5 @@
 ---
 title: "Sugarfinery"
 url: /windermere/sugarfinery/
-shop: Süßwaren
+shop: confectionery
 ---

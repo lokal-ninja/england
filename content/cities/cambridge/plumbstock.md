@@ -1,5 +1,5 @@
 ---
 title: "Plumbstock"
 url: /cambridge/plumbstock/
-shop: Eisenwaren
+shop: hardware
 ---

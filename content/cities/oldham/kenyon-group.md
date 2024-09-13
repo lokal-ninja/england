@@ -1,5 +1,5 @@
 ---
 title: "Kenyon Group"
 url: /oldham/kenyon-group/
-shop: Eisenwaren
+shop: hardware
 ---

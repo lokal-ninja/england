@@ -1,5 +1,5 @@
 ---
 title: "Bacchus"
 url: /eastbourne/bacchus/
-shop: Lebensmittel
+shop: convenience
 ---

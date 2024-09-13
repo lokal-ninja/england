@@ -1,5 +1,5 @@
 ---
 title: "National Park Print Shop"
 url: /windermere/national-park-print-shop/
-shop: Kunst
+shop: art
 ---

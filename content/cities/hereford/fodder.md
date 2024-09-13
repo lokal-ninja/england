@@ -1,5 +1,5 @@
 ---
 title: "Fodder"
 url: /hereford/fodder/
-shop: Bioladen
+shop: health food
 ---

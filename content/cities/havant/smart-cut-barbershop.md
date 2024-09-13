@@ -1,5 +1,5 @@
 ---
 title: "Smart Cut Barbershop"
 url: /havant/smart-cut-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

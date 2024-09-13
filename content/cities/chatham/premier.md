@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /chatham/premier/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Morrisons Daily"
 url: /abbots-langley/morrisons-daily/
-shop: Lebensmittel
+shop: convenience
 ---

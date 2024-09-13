@@ -1,5 +1,5 @@
 ---
 title: "Concept Hair"
 url: /frodsham/concept-hair/
-shop: Friseur
+shop: hairdresser
 ---

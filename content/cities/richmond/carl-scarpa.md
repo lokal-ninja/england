@@ -1,5 +1,5 @@
 ---
 title: "Carl Scarpa"
 url: /richmond/carl-scarpa/
-shop: Schuhe
+shop: shoes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kirklees Guns"
 url: /huddersfield/kirklees-guns/
-shop: Waffen
+shop: weapons
 ---

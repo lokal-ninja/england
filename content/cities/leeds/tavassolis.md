@@ -1,5 +1,5 @@
 ---
 title: "Tavassolis"
 url: /leeds/tavassolis/
-shop: Süßwaren
+shop: confectionery
 ---

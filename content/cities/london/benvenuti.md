@@ -1,5 +1,5 @@
 ---
 title: "Benvenuti"
 url: /london/benvenuti/
-shop: Allgemein
+shop: shop
 ---

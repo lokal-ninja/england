@@ -1,5 +1,5 @@
 ---
 title: "Pledgers"
 url: /kempston/pledgers/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bloomfield News"
 url: /bristol/bloomfield-news/
-shop: Zeitungen
+shop: newsagent
 ---

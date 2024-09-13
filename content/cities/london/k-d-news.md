@@ -1,5 +1,5 @@
 ---
 title: "K D News"
 url: /london/k-d-news/
-shop: Lebensmittel
+shop: convenience
 ---

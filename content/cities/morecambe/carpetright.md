@@ -1,5 +1,5 @@
 ---
 title: "Carpetright"
 url: /morecambe/carpetright/
-shop: Teppiche
+shop: carpet
 ---

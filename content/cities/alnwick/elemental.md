@@ -1,5 +1,5 @@
 ---
 title: "Elemental"
 url: /alnwick/elemental/
-shop: Tattoo
+shop: tattoo
 ---

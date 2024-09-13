@@ -1,5 +1,5 @@
 ---
 title: "Poundstretcher"
 url: /great-yarmouth/poundstretcher-fullers-hill/
-shop: Kramladen
+shop: variety store
 ---

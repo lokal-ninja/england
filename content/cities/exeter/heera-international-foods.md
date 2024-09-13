@@ -1,5 +1,5 @@
 ---
 title: "Heera International Foods"
 url: /exeter/heera-international-foods/
-shop: Lebensmittel
+shop: convenience
 ---

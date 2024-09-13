@@ -1,5 +1,5 @@
 ---
 title: "White Stuff"
 url: /taunton/white-stuff/
-shop: Kleidung
+shop: clothes
 ---

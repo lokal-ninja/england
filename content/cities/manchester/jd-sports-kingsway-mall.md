@@ -1,5 +1,5 @@
 ---
 title: "JD Sports"
 url: /manchester/jd-sports-kingsway-mall/
-shop: Sport
+shop: sports
 ---

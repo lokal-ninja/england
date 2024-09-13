@@ -1,5 +1,5 @@
 ---
 title: "Martin's"
 url: /birmingham/martins/
-shop: Zeitungen
+shop: newsagent
 ---

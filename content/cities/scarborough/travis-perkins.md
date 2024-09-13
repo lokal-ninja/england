@@ -1,5 +1,5 @@
 ---
 title: "Travis Perkins"
 url: /scarborough/travis-perkins/
-shop: Baumarkt
+shop: doityourself
 ---

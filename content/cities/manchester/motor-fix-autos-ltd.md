@@ -1,5 +1,5 @@
 ---
 title: "Motor Fix Autos Ltd"
 url: /manchester/motor-fix-autos-ltd/
-shop: Autowerkstatt
+shop: car repair
 ---

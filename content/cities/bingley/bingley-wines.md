@@ -1,5 +1,5 @@
 ---
 title: "Bingley Wines"
 url: /bingley/bingley-wines/
-shop: Wein
+shop: wine
 ---

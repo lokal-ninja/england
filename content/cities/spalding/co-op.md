@@ -1,5 +1,5 @@
 ---
 title: "Co-op"
 url: /spalding/co-op/
-shop: Lebensmittel
+shop: convenience
 ---

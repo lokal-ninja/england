@@ -1,5 +1,5 @@
 ---
 title: "Kumars Convenience Store"
 url: /bradford/kumars-convenience-store/
-shop: Lebensmittel
+shop: convenience
 ---

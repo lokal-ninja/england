@@ -1,5 +1,5 @@
 ---
 title: "Page"
 url: /newmarket/page/
-shop: Schmuck
+shop: jewelry
 ---

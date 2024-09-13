@@ -1,5 +1,5 @@
 ---
 title: "Kirkburn Filling Station"
 url: /driffield/kirkburn-filling-station/
-shop: Lebensmittel
+shop: convenience
 ---

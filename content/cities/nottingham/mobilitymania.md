@@ -1,5 +1,5 @@
 ---
 title: "Mobilitymania"
 url: /nottingham/mobilitymania/
-shop: Allgemein
+shop: shop
 ---

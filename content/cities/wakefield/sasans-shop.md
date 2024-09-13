@@ -1,5 +1,5 @@
 ---
 title: "Sasans Shop"
 url: /wakefield/sasans-shop/
-shop: Lebensmittel
+shop: convenience
 ---

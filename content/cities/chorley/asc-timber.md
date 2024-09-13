@@ -1,5 +1,5 @@
 ---
 title: "ASC Timber"
 url: /chorley/asc-timber/
-shop: Baumarkt
+shop: doityourself
 ---

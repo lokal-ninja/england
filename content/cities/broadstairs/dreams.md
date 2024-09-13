@@ -1,5 +1,5 @@
 ---
 title: "Dreams"
 url: /broadstairs/dreams/
-shop: Betten
+shop: bed
 ---

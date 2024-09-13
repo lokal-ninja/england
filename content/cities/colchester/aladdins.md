@@ -1,5 +1,5 @@
 ---
 title: "Aladdin's"
 url: /colchester/aladdins/
-shop: Kramladen
+shop: variety store
 ---

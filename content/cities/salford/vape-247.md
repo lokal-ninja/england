@@ -1,5 +1,5 @@
 ---
 title: "Vape 247"
 url: /salford/vape-247/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

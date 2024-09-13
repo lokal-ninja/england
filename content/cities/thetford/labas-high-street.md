@@ -1,5 +1,5 @@
 ---
 title: "Labas"
 url: /thetford/labas-high-street/
-shop: Lebensmittel
+shop: convenience
 ---

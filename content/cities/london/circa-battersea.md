@@ -1,5 +1,5 @@
 ---
 title: "Circa Battersea"
 url: /london/circa-battersea/
-shop: Möbel
+shop: furniture
 ---

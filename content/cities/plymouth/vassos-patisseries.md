@@ -1,5 +1,5 @@
 ---
 title: "Vassos Patisseries"
 url: /plymouth/vassos-patisseries/
-shop: Konditorei
+shop: pastry
 ---

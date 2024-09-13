@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /wakefield/spar/
-shop: Lebensmittel
+shop: convenience
 ---

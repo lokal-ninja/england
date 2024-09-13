@@ -1,5 +1,5 @@
 ---
 title: "Sakurado"
 url: /london/sakurado/
-shop: Konditorei
+shop: pastry
 ---

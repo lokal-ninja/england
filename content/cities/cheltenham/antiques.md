@@ -1,5 +1,5 @@
 ---
 title: "Antiques"
 url: /cheltenham/antiques/
-shop: Antiquitäten
+shop: antiques
 ---

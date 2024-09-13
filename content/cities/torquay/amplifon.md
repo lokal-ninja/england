@@ -1,5 +1,5 @@
 ---
 title: "Amplifon"
 url: /torquay/amplifon/
-shop: Hörgeräte
+shop: hearing aids
 ---

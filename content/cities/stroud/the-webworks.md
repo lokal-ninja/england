@@ -1,5 +1,5 @@
 ---
 title: "The Webworks"
 url: /stroud/the-webworks/
-shop: Computer
+shop: computer
 ---

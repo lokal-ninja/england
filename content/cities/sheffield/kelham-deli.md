@@ -1,5 +1,5 @@
 ---
 title: "Kelham Deli"
 url: /sheffield/kelham-deli/
-shop: Feinkost
+shop: deli
 ---

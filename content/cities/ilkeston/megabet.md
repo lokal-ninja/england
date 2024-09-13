@@ -1,5 +1,5 @@
 ---
 title: "Megabet"
 url: /ilkeston/megabet/
-shop: Wettbüro
+shop: bookmaker
 ---

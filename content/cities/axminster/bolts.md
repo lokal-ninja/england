@@ -1,5 +1,5 @@
 ---
 title: "Bolts"
 url: /axminster/bolts/
-shop: Friseur
+shop: hairdresser
 ---

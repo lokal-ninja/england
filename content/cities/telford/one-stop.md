@@ -1,5 +1,5 @@
 ---
 title: "One Stop"
 url: /telford/one-stop/
-shop: Lebensmittel
+shop: convenience
 ---

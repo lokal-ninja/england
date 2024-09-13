@@ -1,5 +1,5 @@
 ---
 title: "Martindales"
 url: /preston/martindales/
-shop: Eisenwaren
+shop: hardware
 ---

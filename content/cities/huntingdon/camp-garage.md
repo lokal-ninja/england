@@ -1,5 +1,5 @@
 ---
 title: "Camp Garage"
 url: /huntingdon/camp-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

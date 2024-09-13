@@ -1,5 +1,5 @@
 ---
 title: "Rene's Florist"
 url: /norwich/renes-florist/
-shop: Blumen
+shop: florist
 ---

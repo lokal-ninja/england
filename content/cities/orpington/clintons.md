@@ -1,5 +1,5 @@
 ---
 title: "Clintons"
 url: /orpington/clintons/
-shop: Andenken
+shop: gift
 ---

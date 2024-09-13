@@ -1,5 +1,5 @@
 ---
 title: "4Bellu Body Shapers"
 url: /london/4bellu-body-shapers/
-shop: Kleidung
+shop: clothes
 ---

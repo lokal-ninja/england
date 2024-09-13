@@ -1,5 +1,5 @@
 ---
 title: "The Beach Hut"
 url: /seahouses/the-beach-hut/
-shop: Allgemein
+shop: shop
 ---

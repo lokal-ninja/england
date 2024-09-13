@@ -1,5 +1,5 @@
 ---
 title: "Haji Taslim"
 url: /london/haji-taslim/
-shop: Bestattungen
+shop: funeral directors
 ---

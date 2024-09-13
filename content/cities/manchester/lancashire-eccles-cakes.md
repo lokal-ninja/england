@@ -1,5 +1,5 @@
 ---
 title: "Lancashire Eccles Cakes"
 url: /manchester/lancashire-eccles-cakes/
-shop: Bäckerei
+shop: bakery
 ---

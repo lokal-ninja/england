@@ -1,5 +1,5 @@
 ---
 title: "Hic!"
 url: /castleford/hic/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Top Outdoor"
 url: /bolton/top-outdoor/
-shop: Spirituosen
+shop: alcohol
 ---

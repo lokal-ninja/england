@@ -1,5 +1,5 @@
 ---
 title: "Sewcraft"
 url: /swindon/sewcraft/
-shop: Nähzubehör
+shop: sewing
 ---

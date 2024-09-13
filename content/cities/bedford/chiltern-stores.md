@@ -1,5 +1,5 @@
 ---
 title: "Chiltern Stores"
 url: /bedford/chiltern-stores/
-shop: Lebensmittel
+shop: convenience
 ---

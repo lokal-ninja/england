@@ -1,5 +1,5 @@
 ---
 title: "Pennywise Dry Cleaners"
 url: /sheffield/pennywise-dry-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

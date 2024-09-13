@@ -1,5 +1,5 @@
 ---
 title: "Asda Express"
 url: /plymouth/asda-express-plymouth-road/
-shop: Lebensmittel
+shop: convenience
 ---

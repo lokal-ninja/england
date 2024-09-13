@@ -1,5 +1,5 @@
 ---
 title: "Leonard E Smith"
 url: /taunton/leonard-e-smith/
-shop: Bestattungen
+shop: funeral directors
 ---

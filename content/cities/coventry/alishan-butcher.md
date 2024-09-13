@@ -1,5 +1,5 @@
 ---
 title: "Alishan Butcher"
 url: /coventry/alishan-butcher/
-shop: Metzgerei
+shop: butcher
 ---

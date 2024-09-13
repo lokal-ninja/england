@@ -1,5 +1,5 @@
 ---
 title: "Weegmanns"
 url: /otley/weegmanns/
-shop: Metzgerei
+shop: butcher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Buchanan Convenience Store"
 url: /sheffield/buchanan-convenience-store/
-shop: Lebensmittel
+shop: convenience
 ---

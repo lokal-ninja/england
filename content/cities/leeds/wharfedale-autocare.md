@@ -1,5 +1,5 @@
 ---
 title: "Wharfedale Autocare"
 url: /leeds/wharfedale-autocare/
-shop: Autowerkstatt
+shop: car repair
 ---

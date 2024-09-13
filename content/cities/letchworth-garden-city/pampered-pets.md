@@ -1,5 +1,5 @@
 ---
 title: "Pampered Pets"
 url: /letchworth-garden-city/pampered-pets/
-shop: Tiersalon
+shop: pet grooming
 ---

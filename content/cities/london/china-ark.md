@@ -1,5 +1,5 @@
 ---
 title: "China Ark"
 url: /london/china-ark/
-shop: Supermarkt
+shop: supermarket
 ---

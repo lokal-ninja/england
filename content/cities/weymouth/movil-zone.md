@@ -1,5 +1,5 @@
 ---
 title: "Movil Zone"
 url: /weymouth/movil-zone/
-shop: Handy
+shop: mobile phone
 ---

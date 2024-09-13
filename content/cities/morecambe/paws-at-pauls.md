@@ -1,5 +1,5 @@
 ---
 title: "Paws at Pauls"
 url: /morecambe/paws-at-pauls/
-shop: Tiersalon
+shop: pet grooming
 ---

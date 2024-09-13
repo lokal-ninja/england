@@ -1,5 +1,5 @@
 ---
 title: "Silly Goose"
 url: /whitehaven/silly-goose/
-shop: Konditorei
+shop: pastry
 ---

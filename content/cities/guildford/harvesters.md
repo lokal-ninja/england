@@ -1,5 +1,5 @@
 ---
 title: "Harvesters"
 url: /guildford/harvesters/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Oak Garage"
 url: /woodbridge/oak-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

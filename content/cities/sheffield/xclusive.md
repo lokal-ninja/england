@@ -1,5 +1,5 @@
 ---
 title: "Xclusive"
 url: /sheffield/xclusive/
-shop: Küchen
+shop: kitchen
 ---

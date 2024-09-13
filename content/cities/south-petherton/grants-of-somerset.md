@@ -1,5 +1,5 @@
 ---
 title: "Grants of Somerset"
 url: /south-petherton/grants-of-somerset/
-shop: Andenken
+shop: gift
 ---

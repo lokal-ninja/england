@@ -1,5 +1,5 @@
 ---
 title: "Prashad Sweets"
 url: /southall/prashad-sweets/
-shop: Süßwaren
+shop: confectionery
 ---

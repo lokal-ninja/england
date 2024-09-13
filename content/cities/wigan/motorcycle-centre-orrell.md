@@ -1,5 +1,5 @@
 ---
 title: "Motorcycle Centre Orrell"
 url: /wigan/motorcycle-centre-orrell/
-shop: Motorrad
+shop: motorcycle
 ---

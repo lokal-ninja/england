@@ -1,5 +1,5 @@
 ---
 title: "Spiritus"
 url: /scarborough/spiritus/
-shop: Allgemein
+shop: shop
 ---

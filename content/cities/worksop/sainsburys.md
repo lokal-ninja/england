@@ -1,5 +1,5 @@
 ---
 title: "Sainsbury's"
 url: /worksop/sainsburys/
-shop: Supermarkt
+shop: supermarket
 ---

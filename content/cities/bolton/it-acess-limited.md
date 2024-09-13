@@ -1,5 +1,5 @@
 ---
 title: "IT Acess limited"
 url: /bolton/it-acess-limited/
-shop: Computer
+shop: computer
 ---

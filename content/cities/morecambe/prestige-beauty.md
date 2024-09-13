@@ -1,5 +1,5 @@
 ---
 title: "Prestige Beauty"
 url: /morecambe/prestige-beauty/
-shop: Kosmetik
+shop: beauty
 ---

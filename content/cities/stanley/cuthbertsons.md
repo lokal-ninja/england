@@ -1,5 +1,5 @@
 ---
 title: "Cuthbertsons"
 url: /stanley/cuthbertsons/
-shop: Allgemein
+shop: shop
 ---

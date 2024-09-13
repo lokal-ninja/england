@@ -1,5 +1,5 @@
 ---
 title: "Toolstation"
 url: /ramsgate/toolstation/
-shop: Baumarkt
+shop: doityourself
 ---

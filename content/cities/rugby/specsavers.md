@@ -1,5 +1,5 @@
 ---
 title: "Specsavers"
 url: /rugby/specsavers/
-shop: Optiker
+shop: optician
 ---

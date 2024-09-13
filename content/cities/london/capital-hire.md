@@ -1,5 +1,5 @@
 ---
 title: "Capital Hire"
 url: /london/capital-hire/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vision + Eyecare"
 url: /stratford-upon-avon/vision-eyecare/
-shop: Optiker
+shop: optician
 ---

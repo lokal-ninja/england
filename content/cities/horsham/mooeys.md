@@ -1,5 +1,5 @@
 ---
 title: "Mooeys"
 url: /horsham/mooeys/
-shop: Kosmetik
+shop: beauty
 ---

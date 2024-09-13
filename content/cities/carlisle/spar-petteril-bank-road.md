@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /carlisle/spar-petteril-bank-road/
-shop: Supermarkt
+shop: supermarket
 ---

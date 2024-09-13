@@ -1,5 +1,5 @@
 ---
 title: "Sweaty Betty"
 url: /york/sweaty-betty/
-shop: Kleidung
+shop: clothes
 ---

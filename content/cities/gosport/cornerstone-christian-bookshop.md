@@ -1,5 +1,5 @@
 ---
 title: "Cornerstone Christian Bookshop"
 url: /gosport/cornerstone-christian-bookshop/
-shop: Bücher
+shop: books
 ---

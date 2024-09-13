@@ -1,5 +1,5 @@
 ---
 title: "Morrisons Daily"
 url: /peterborough/morrisons-daily-eye-roundabout/
-shop: Lebensmittel
+shop: convenience
 ---

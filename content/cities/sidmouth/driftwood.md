@@ -1,5 +1,5 @@
 ---
 title: "Driftwood"
 url: /sidmouth/driftwood/
-shop: Andenken
+shop: gift
 ---

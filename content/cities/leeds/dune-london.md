@@ -1,5 +1,5 @@
 ---
 title: "Dune London"
 url: /leeds/dune-london/
-shop: Schuhe
+shop: shoes
 ---

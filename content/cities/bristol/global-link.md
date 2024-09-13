@@ -1,5 +1,5 @@
 ---
 title: "Global Link"
 url: /bristol/global-link/
-shop: Reisebüro
+shop: travel agency
 ---

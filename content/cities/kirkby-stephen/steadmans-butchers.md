@@ -1,5 +1,5 @@
 ---
 title: "Steadmans Butchers"
 url: /kirkby-stephen/steadmans-butchers/
-shop: Metzgerei
+shop: butcher
 ---

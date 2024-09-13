@@ -1,5 +1,5 @@
 ---
 title: "Petits Fours"
 url: /birmingham/petits-fours/
-shop: Süßwaren
+shop: confectionery
 ---

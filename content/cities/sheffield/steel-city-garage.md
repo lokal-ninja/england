@@ -1,5 +1,5 @@
 ---
 title: "Steel City Garage"
 url: /sheffield/steel-city-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

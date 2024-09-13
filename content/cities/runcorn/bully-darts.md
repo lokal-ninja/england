@@ -1,5 +1,5 @@
 ---
 title: "Bully Darts"
 url: /runcorn/bully-darts/
-shop: Sport
+shop: sports
 ---

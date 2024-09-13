@@ -1,5 +1,5 @@
 ---
 title: "Ryman"
 url: /ilkeston/ryman/
-shop: Schreibwaren
+shop: office supplies
 ---

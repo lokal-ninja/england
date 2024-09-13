@@ -1,5 +1,5 @@
 ---
 title: "Mexx"
 url: /alfreton/mexx/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Specsavers"
 url: /gosport/specsavers/
-shop: Optiker
+shop: optician
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Oceans Travel"
 url: /derby/oceans-travel/
-shop: Reisebüro
+shop: travel agency
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sponge Kitchens"
 url: /keston/sponge-kitchens/
-shop: Bäckerei
+shop: bakery
 ---

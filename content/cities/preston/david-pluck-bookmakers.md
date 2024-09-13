@@ -1,5 +1,5 @@
 ---
 title: "David Pluck Bookmakers"
 url: /preston/david-pluck-bookmakers/
-shop: Wettbüro
+shop: bookmaker
 ---

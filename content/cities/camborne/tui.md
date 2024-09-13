@@ -1,5 +1,5 @@
 ---
 title: "TUI"
 url: /camborne/tui/
-shop: Reisebüro
+shop: travel agency
 ---

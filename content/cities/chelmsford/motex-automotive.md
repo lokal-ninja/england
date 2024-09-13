@@ -1,5 +1,5 @@
 ---
 title: "Motex Automotive"
 url: /chelmsford/motex-automotive/
-shop: Autoteile
+shop: car parts
 ---

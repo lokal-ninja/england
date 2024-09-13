@@ -1,5 +1,5 @@
 ---
 title: "Holts"
 url: /south-croydon/holts/
-shop: Lebensmittel
+shop: convenience
 ---

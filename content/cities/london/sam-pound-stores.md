@@ -1,5 +1,5 @@
 ---
 title: "Sam Pound Stores"
 url: /london/sam-pound-stores/
-shop: Kramladen
+shop: variety store
 ---

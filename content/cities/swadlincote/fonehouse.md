@@ -1,5 +1,5 @@
 ---
 title: "Fonehouse"
 url: /swadlincote/fonehouse/
-shop: Handy
+shop: mobile phone
 ---

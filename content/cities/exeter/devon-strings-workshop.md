@@ -1,5 +1,5 @@
 ---
 title: "Devon Strings Workshop"
 url: /exeter/devon-strings-workshop/
-shop: Instrumente
+shop: musical instrument
 ---

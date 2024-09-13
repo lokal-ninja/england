@@ -1,5 +1,5 @@
 ---
 title: "Acotis Jewellery"
 url: /wolverhampton/acotis-jewellery/
-shop: Schmuck
+shop: jewelry
 ---

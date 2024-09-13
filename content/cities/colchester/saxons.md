@@ -1,5 +1,5 @@
 ---
 title: "Saxons"
 url: /colchester/saxons/
-shop: Immobilien
+shop: estate agent
 ---

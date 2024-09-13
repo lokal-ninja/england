@@ -1,5 +1,5 @@
 ---
 title: "KiKu"
 url: /leeds/kiku/
-shop: Kosmetik
+shop: beauty
 ---

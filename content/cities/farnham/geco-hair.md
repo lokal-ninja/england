@@ -1,5 +1,5 @@
 ---
 title: "Geco Hair"
 url: /farnham/geco-hair/
-shop: Friseur
+shop: hairdresser
 ---

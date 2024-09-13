@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /warrington/lidl-fortress-boulevard/
-shop: Supermarkt
+shop: supermarket
 ---

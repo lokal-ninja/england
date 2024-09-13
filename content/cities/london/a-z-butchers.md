@@ -1,5 +1,5 @@
 ---
 title: "A-Z Butchers"
 url: /london/a-z-butchers/
-shop: Metzgerei
+shop: butcher
 ---

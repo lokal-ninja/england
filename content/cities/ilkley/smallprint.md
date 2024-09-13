@@ -1,5 +1,5 @@
 ---
 title: "Smallprint"
 url: /ilkley/smallprint/
-shop: Kopieren
+shop: copyshop
 ---

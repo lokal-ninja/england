@@ -1,5 +1,5 @@
 ---
 title: "Crest Mini Market"
 url: /nottingham/crest-mini-market/
-shop: Lebensmittel
+shop: convenience
 ---

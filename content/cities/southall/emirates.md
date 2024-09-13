@@ -1,5 +1,5 @@
 ---
 title: "Emirates"
 url: /southall/emirates/
-shop: Schmuck
+shop: jewelry
 ---

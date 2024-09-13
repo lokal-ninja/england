@@ -1,5 +1,5 @@
 ---
 title: "Next"
 url: /romford/next/
-shop: Kleidung
+shop: clothes
 ---

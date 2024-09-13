@@ -1,5 +1,5 @@
 ---
 title: "Aaina"
 url: /birmingham/aaina/
-shop: Kleidung
+shop: clothes
 ---

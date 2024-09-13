@@ -1,5 +1,5 @@
 ---
 title: "Loco"
 url: /sutton-coldfield/loco/
-shop: Lebensmittel
+shop: convenience
 ---

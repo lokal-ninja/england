@@ -1,5 +1,5 @@
 ---
 title: "Embas Express"
 url: /london/embas-express/
-shop: Lebensmittel
+shop: convenience
 ---

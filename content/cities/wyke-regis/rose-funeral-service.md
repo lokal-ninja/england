@@ -1,5 +1,5 @@
 ---
 title: "Rose Funeral Service"
 url: /wyke-regis/rose-funeral-service/
-shop: Bestattungen
+shop: funeral directors
 ---

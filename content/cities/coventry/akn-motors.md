@@ -1,5 +1,5 @@
 ---
 title: "AKN Motors"
 url: /coventry/akn-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

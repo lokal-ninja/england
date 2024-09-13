@@ -1,5 +1,5 @@
 ---
 title: "Adra"
 url: /pershore/adra/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Michael's"
 url: /cambridge/michaels/
-shop: Leder
+shop: leather
 ---

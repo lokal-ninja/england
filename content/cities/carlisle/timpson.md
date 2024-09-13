@@ -1,5 +1,5 @@
 ---
 title: "Timpson"
 url: /carlisle/timpson/
-shop: Schlüsseldienst
+shop: locksmith
 ---

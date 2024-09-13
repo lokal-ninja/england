@@ -1,5 +1,5 @@
 ---
 title: "Wisdom Hospice"
 url: /rochester/wisdom-hospice/
-shop: Gebrauchtwaren
+shop: charity
 ---

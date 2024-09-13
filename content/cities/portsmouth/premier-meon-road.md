@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /portsmouth/premier-meon-road/
-shop: Lebensmittel
+shop: convenience
 ---

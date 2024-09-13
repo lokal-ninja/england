@@ -1,5 +1,5 @@
 ---
 title: "Ciobanu Connect"
 url: /felling/ciobanu-connect/
-shop: Computer
+shop: computer
 ---

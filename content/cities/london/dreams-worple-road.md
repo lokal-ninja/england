@@ -1,5 +1,5 @@
 ---
 title: "Dreams"
 url: /london/dreams-worple-road/
-shop: Betten
+shop: bed
 ---

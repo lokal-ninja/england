@@ -1,5 +1,5 @@
 ---
 title: "Chicskin"
 url: /london/chicskin/
-shop: Kleidung
+shop: clothes
 ---

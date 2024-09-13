@@ -1,5 +1,5 @@
 ---
 title: "Legends Barbers"
 url: /nottingham/legends-barbers/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mobile Technicians"
 url: /chelmsford/mobile-technicians/
-shop: Kiosk
+shop: kiosk
 ---

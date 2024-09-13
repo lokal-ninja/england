@@ -1,5 +1,5 @@
 ---
 title: "Sussex news"
 url: /littlehampton/sussex-news/
-shop: Zeitungen
+shop: newsagent
 ---

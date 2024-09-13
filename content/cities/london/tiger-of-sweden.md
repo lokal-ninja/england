@@ -1,5 +1,5 @@
 ---
 title: "Tiger of Sweden"
 url: /london/tiger-of-sweden/
-shop: Kleidung
+shop: clothes
 ---

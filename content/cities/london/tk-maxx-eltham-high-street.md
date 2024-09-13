@@ -1,5 +1,5 @@
 ---
 title: "TK Maxx"
 url: /london/tk-maxx-eltham-high-street/
-shop: Warenhaus
+shop: department store
 ---

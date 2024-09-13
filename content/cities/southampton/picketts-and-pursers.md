@@ -1,5 +1,5 @@
 ---
 title: "Picketts And Pursers"
 url: /southampton/picketts-and-pursers/
-shop: Allgemein
+shop: shop
 ---

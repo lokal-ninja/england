@@ -1,5 +1,5 @@
 ---
 title: "Wotnots"
 url: /tewkesbury/wotnots/
-shop: Kramladen
+shop: variety store
 ---

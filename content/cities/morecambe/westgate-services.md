@@ -1,5 +1,5 @@
 ---
 title: "Westgate Services"
 url: /morecambe/westgate-services/
-shop: Autowerkstatt
+shop: car repair
 ---

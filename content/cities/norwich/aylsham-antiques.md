@@ -1,5 +1,5 @@
 ---
 title: "Aylsham Antiques"
 url: /norwich/aylsham-antiques/
-shop: Antiquitäten
+shop: antiques
 ---

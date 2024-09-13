@@ -1,5 +1,5 @@
 ---
 title: "Clapton Craft"
 url: /london/clapton-craft/
-shop: Spirituosen
+shop: alcohol
 ---

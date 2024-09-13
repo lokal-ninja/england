@@ -1,5 +1,5 @@
 ---
 title: "Supersave Express"
 url: /london/supersave-express-praed-street/
-shop: Lebensmittel
+shop: convenience
 ---

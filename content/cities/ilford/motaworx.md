@@ -1,5 +1,5 @@
 ---
 title: "Motaworx"
 url: /ilford/motaworx/
-shop: Autowerkstatt
+shop: car repair
 ---

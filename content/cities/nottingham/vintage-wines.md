@@ -1,5 +1,5 @@
 ---
 title: "Vintage Wines"
 url: /nottingham/vintage-wines/
-shop: Wein
+shop: wine
 ---

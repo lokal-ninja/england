@@ -1,5 +1,5 @@
 ---
 title: "Tisdalls Electrical"
 url: /newton-le-willows/tisdalls-electrical/
-shop: Haushaltsgeräte
+shop: appliance
 ---

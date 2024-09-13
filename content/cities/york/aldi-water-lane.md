@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /york/aldi-water-lane/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cook"
 url: /romsey/cook/
-shop: Tiefkühl
+shop: frozen food
 ---

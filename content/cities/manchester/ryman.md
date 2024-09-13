@@ -1,5 +1,5 @@
 ---
 title: "Ryman"
 url: /manchester/ryman/
-shop: Schreibwaren
+shop: office supplies
 ---

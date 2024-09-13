@@ -1,5 +1,5 @@
 ---
 title: "Dekorative Kollective"
 url: /crewkerne/dekorative-kollective/
-shop: Raumausstattung
+shop: interior decoration
 ---

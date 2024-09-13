@@ -1,5 +1,5 @@
 ---
 title: "Clacton Co-operative Funeral Services"
 url: /clacton-on-sea/clacton-co-operative-funeral-services/
-shop: Bestattungen
+shop: funeral directors
 ---

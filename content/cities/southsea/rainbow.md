@@ -1,5 +1,5 @@
 ---
 title: "Rainbow"
 url: /southsea/rainbow/
-shop: Gebrauchtwaren
+shop: charity
 ---

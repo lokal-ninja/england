@@ -1,5 +1,5 @@
 ---
 title: "Trendz Clothing"
 url: /huddersfield/trendz-clothing/
-shop: Kleidung
+shop: clothes
 ---

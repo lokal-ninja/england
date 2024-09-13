@@ -1,5 +1,5 @@
 ---
 title: "KD Barbers"
 url: /london/kd-barbers/
-shop: Friseur
+shop: hairdresser
 ---

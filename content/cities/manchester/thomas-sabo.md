@@ -1,5 +1,5 @@
 ---
 title: "Thomas Sabo"
 url: /manchester/thomas-sabo/
-shop: Schmuck
+shop: jewelry
 ---

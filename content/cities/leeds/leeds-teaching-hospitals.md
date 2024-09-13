@@ -1,5 +1,5 @@
 ---
 title: "Leeds Teaching Hospitals"
 url: /leeds/leeds-teaching-hospitals/
-shop: Gebrauchtwaren
+shop: charity
 ---

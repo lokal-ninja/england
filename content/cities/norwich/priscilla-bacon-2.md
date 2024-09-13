@@ -1,5 +1,5 @@
 ---
 title: "Priscilla Bacon"
 url: /norwich/priscilla-bacon-2/
-shop: Gebrauchtwaren
+shop: charity
 ---

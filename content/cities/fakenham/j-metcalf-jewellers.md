@@ -1,5 +1,5 @@
 ---
 title: "J Metcalf Jewellers"
 url: /fakenham/j-metcalf-jewellers/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "TUI"
 url: /luton/tui/
-shop: Reisebüro
+shop: travel agency
 ---

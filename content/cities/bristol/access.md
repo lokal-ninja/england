@@ -1,5 +1,5 @@
 ---
 title: "Access"
 url: /bristol/access/
-shop: Mieten
+shop: storage rental
 ---

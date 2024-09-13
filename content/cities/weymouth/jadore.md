@@ -1,5 +1,5 @@
 ---
 title: "J'adore"
 url: /weymouth/jadore/
-shop: Kosmetik
+shop: beauty
 ---

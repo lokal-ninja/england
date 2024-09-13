@@ -1,5 +1,5 @@
 ---
 title: "Cook"
 url: /reigate/cook/
-shop: Tiefkühl
+shop: frozen food
 ---

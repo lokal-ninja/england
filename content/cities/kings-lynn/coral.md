@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /kings-lynn/coral/
-shop: Wettbüro
+shop: bookmaker
 ---

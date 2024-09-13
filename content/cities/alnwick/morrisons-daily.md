@@ -1,5 +1,5 @@
 ---
 title: "Morrisons Daily"
 url: /alnwick/morrisons-daily/
-shop: Lebensmittel
+shop: convenience
 ---

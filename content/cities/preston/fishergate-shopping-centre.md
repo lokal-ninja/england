@@ -1,5 +1,5 @@
 ---
 title: "Fishergate Shopping Centre"
 url: /preston/fishergate-shopping-centre/
-shop: Einkaufszentrum
+shop: mall
 ---

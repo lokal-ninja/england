@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /croydon/poundland-north-end/
-shop: Kramladen
+shop: variety store
 ---

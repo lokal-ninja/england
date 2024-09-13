@@ -1,5 +1,5 @@
 ---
 title: "Brew Cavern"
 url: /nottingham/brew-cavern/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jaydees News"
 url: /high-wycombe/jaydees-news/
-shop: Lebensmittel
+shop: convenience
 ---

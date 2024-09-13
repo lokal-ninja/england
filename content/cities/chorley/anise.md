@@ -1,5 +1,5 @@
 ---
 title: "Anise"
 url: /chorley/anise/
-shop: Schmuck
+shop: jewelry
 ---

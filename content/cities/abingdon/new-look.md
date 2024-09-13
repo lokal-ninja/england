@@ -1,5 +1,5 @@
 ---
 title: "New Look"
 url: /abingdon/new-look/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /rotherham/premier/
-shop: Lebensmittel
+shop: convenience
 ---

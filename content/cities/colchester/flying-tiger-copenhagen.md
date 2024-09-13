@@ -1,5 +1,5 @@
 ---
 title: "Flying Tiger Copenhagen"
 url: /colchester/flying-tiger-copenhagen/
-shop: Kramladen
+shop: variety store
 ---

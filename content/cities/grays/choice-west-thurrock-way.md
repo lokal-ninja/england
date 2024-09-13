@@ -1,5 +1,5 @@
 ---
 title: "Choice"
 url: /grays/choice-west-thurrock-way/
-shop: Kleidung
+shop: clothes
 ---

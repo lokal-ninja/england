@@ -1,5 +1,5 @@
 ---
 title: "Lloyd Kia Carlisle"
 url: /carlisle/lloyd-kia-carlisle/
-shop: Autohaus
+shop: car
 ---

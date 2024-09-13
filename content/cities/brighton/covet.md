@@ -1,5 +1,5 @@
 ---
 title: "covet"
 url: /brighton/covet/
-shop: Kleidung
+shop: clothes
 ---

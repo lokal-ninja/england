@@ -1,5 +1,5 @@
 ---
 title: "Fonehouse"
 url: /tavistock/fonehouse/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mr Tyre Kettering"
 url: /kettering/mr-tyre-kettering/
-shop: Autowerkstatt
+shop: car repair
 ---

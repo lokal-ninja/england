@@ -1,5 +1,5 @@
 ---
 title: "Jordans"
 url: /leamington-spa/jordans/
-shop: Pyrotechnik
+shop: pyrotechnics
 ---

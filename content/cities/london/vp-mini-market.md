@@ -1,5 +1,5 @@
 ---
 title: "VP Mini Market"
 url: /london/vp-mini-market/
-shop: Lebensmittel
+shop: convenience
 ---

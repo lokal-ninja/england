@@ -1,5 +1,5 @@
 ---
 title: "Amin Butcher"
 url: /leicester/amin-butcher/
-shop: Metzgerei
+shop: butcher
 ---

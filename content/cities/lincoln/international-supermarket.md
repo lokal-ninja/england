@@ -1,5 +1,5 @@
 ---
 title: "International Supermarket"
 url: /lincoln/international-supermarket/
-shop: Lebensmittel
+shop: convenience
 ---

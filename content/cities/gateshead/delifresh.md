@@ -1,5 +1,5 @@
 ---
 title: "Delifresh"
 url: /gateshead/delifresh/
-shop: Allgemein
+shop: shop
 ---

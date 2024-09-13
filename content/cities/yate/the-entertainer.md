@@ -1,5 +1,5 @@
 ---
 title: "The Entertainer"
 url: /yate/the-entertainer/
-shop: Spielzeug
+shop: toys
 ---

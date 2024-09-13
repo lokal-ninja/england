@@ -1,5 +1,5 @@
 ---
 title: "Charity Shop"
 url: /bath/charity-shop/
-shop: Gebrauchtwaren
+shop: charity
 ---

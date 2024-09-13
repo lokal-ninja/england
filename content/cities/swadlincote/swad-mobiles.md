@@ -1,5 +1,5 @@
 ---
 title: "SWAD Mobiles"
 url: /swadlincote/swad-mobiles/
-shop: Handy
+shop: mobile phone
 ---

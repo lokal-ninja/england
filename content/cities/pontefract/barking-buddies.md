@@ -1,5 +1,5 @@
 ---
 title: "Barking Buddies"
 url: /pontefract/barking-buddies/
-shop: Tiersalon
+shop: pet grooming
 ---

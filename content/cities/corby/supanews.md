@@ -1,5 +1,5 @@
 ---
 title: "Supanews"
 url: /corby/supanews/
-shop: Zeitungen
+shop: newsagent
 ---

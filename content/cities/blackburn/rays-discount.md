@@ -1,5 +1,5 @@
 ---
 title: "Rays discount"
 url: /blackburn/rays-discount/
-shop: Allgemein
+shop: shop
 ---

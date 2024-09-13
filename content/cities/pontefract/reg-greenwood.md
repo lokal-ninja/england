@@ -1,5 +1,5 @@
 ---
 title: "Reg Greenwood"
 url: /pontefract/reg-greenwood/
-shop: Autowerkstatt
+shop: car repair
 ---

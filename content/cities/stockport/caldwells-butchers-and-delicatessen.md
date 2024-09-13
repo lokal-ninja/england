@@ -1,5 +1,5 @@
 ---
 title: "Caldwells Butchers and Delicatessen"
 url: /stockport/caldwells-butchers-and-delicatessen/
-shop: Metzgerei
+shop: butcher
 ---

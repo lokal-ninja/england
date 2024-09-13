@@ -1,5 +1,5 @@
 ---
 title: "Donnells"
 url: /oldham/donnells/
-shop: Leiher
+shop: pawnbroker
 ---

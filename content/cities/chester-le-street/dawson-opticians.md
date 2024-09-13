@@ -1,5 +1,5 @@
 ---
 title: "Dawson Opticians"
 url: /chester-le-street/dawson-opticians/
-shop: Optiker
+shop: optician
 ---

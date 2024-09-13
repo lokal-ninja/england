@@ -1,5 +1,5 @@
 ---
 title: "£poundstretcher"
 url: /london/pspoundstretcher/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mountain Warehouse"
 url: /stratford-upon-avon/mountain-warehouse/
-shop: Outdoor
+shop: outdoor
 ---

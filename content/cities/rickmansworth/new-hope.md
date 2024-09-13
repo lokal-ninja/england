@@ -1,5 +1,5 @@
 ---
 title: "New Hope"
 url: /rickmansworth/new-hope/
-shop: Gebrauchtwaren
+shop: charity
 ---

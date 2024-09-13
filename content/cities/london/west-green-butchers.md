@@ -1,5 +1,5 @@
 ---
 title: "West Green Butchers"
 url: /london/west-green-butchers/
-shop: Metzgerei
+shop: butcher
 ---

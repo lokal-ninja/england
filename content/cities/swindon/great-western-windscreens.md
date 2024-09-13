@@ -1,5 +1,5 @@
 ---
 title: "Great Western Windscreens"
 url: /swindon/great-western-windscreens/
-shop: Autowerkstatt
+shop: car repair
 ---

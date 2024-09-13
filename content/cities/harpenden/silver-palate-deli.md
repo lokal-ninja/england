@@ -1,5 +1,5 @@
 ---
 title: "Silver Palate Deli"
 url: /harpenden/silver-palate-deli/
-shop: Feinkost
+shop: deli
 ---

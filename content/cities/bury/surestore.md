@@ -1,5 +1,5 @@
 ---
 title: "SureStore"
 url: /bury/surestore/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Inkin"
 url: /oldham/inkin/
-shop: Tattoo
+shop: tattoo
 ---

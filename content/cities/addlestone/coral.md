@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /addlestone/coral/
-shop: Wettbüro
+shop: bookmaker
 ---

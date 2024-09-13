@@ -1,5 +1,5 @@
 ---
 title: "£5"
 url: /london/ps5/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Delilah Fine Food"
 url: /nottingham/delilah-fine-food/
-shop: Feinkost
+shop: deli
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Co-op Food"
 url: /milton-keynes/co-op-food-high-street-3/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Clarks"
 url: /dorking/clarks/
-shop: Schuhe
+shop: shoes
 ---

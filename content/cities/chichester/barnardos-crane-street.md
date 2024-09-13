@@ -1,5 +1,5 @@
 ---
 title: "Barnardo's"
 url: /chichester/barnardos-crane-street/
-shop: Gebrauchtwaren
+shop: charity
 ---

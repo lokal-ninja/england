@@ -1,5 +1,5 @@
 ---
 title: "Megafreak Suppliments"
 url: /sunderland/megafreak-suppliments/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "DigiClear Hearing Centre"
 url: /bishops-stortford/digiclear-hearing-centre/
-shop: Hörgeräte
+shop: hearing aids
 ---

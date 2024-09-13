@@ -1,5 +1,5 @@
 ---
 title: "Kingsway"
 url: /stockbridge/kingsway/
-shop: Lebensmittel
+shop: convenience
 ---

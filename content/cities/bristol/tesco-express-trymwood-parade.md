@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /bristol/tesco-express-trymwood-parade/
-shop: Supermarkt
+shop: supermarket
 ---

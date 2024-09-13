@@ -1,5 +1,5 @@
 ---
 title: "Sexy Hair"
 url: /nottingham/sexy-hair/
-shop: Friseur
+shop: hairdresser
 ---

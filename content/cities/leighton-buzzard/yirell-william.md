@@ -1,5 +1,5 @@
 ---
 title: "Yirell William"
 url: /leighton-buzzard/yirell-william/
-shop: Metzgerei
+shop: butcher
 ---

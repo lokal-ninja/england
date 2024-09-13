@@ -1,5 +1,5 @@
 ---
 title: "Finneys Garage"
 url: /coningsby/finneys-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

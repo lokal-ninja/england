@@ -1,5 +1,5 @@
 ---
 title: "RSPCA"
 url: /ventnor/rspca/
-shop: Gebrauchtwaren
+shop: charity
 ---

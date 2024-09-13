@@ -1,5 +1,5 @@
 ---
 title: "Thorntons"
 url: /rugby/thorntons/
-shop: Süßwaren
+shop: confectionery
 ---

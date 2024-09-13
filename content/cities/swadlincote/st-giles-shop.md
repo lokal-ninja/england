@@ -1,5 +1,5 @@
 ---
 title: "St Giles Shop"
 url: /swadlincote/st-giles-shop/
-shop: Gebrauchtwaren
+shop: charity
 ---

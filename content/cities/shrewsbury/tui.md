@@ -1,5 +1,5 @@
 ---
 title: "TUI"
 url: /shrewsbury/tui/
-shop: Reisebüro
+shop: travel agency
 ---

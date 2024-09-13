@@ -1,5 +1,5 @@
 ---
 title: "Hippo Guitars"
 url: /derby/hippo-guitars/
-shop: Instrumente
+shop: musical instrument
 ---

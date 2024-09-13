@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /bolton/iceland-manchester-road/
-shop: Tiefkühl
+shop: frozen food
 ---

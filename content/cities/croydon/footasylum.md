@@ -1,5 +1,5 @@
 ---
 title: "Footasylum"
 url: /croydon/footasylum/
-shop: Schuhe
+shop: shoes
 ---

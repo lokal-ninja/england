@@ -1,5 +1,5 @@
 ---
 title: "Sue Ryder"
 url: /sherborne/sue-ryder/
-shop: Gebrauchtwaren
+shop: charity
 ---

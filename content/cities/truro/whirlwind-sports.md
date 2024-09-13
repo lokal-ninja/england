@@ -1,5 +1,5 @@
 ---
 title: "Whirlwind Sports"
 url: /truro/whirlwind-sports/
-shop: Sport
+shop: sports
 ---

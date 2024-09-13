@@ -1,5 +1,5 @@
 ---
 title: "Sam's"
 url: /cheltenham/sams/
-shop: Gebrauchtwaren
+shop: charity
 ---

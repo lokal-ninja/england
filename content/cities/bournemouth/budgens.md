@@ -1,5 +1,5 @@
 ---
 title: "Budgens"
 url: /bournemouth/budgens/
-shop: Lebensmittel
+shop: convenience
 ---

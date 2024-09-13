@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /grimsby/ladbrokes/
-shop: Wettbüro
+shop: bookmaker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gonerby Hill Groceries"
 url: /grantham/gonerby-hill-groceries/
-shop: Lebensmittel
+shop: convenience
 ---

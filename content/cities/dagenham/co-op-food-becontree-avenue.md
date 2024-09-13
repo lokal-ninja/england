@@ -1,5 +1,5 @@
 ---
 title: "Co-op Food"
 url: /dagenham/co-op-food-becontree-avenue/
-shop: Lebensmittel
+shop: convenience
 ---

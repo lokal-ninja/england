@@ -1,5 +1,5 @@
 ---
 title: "Salon at Number 5"
 url: /cambridge/salon-at-number-5/
-shop: Kosmetik
+shop: beauty
 ---

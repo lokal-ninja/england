@@ -1,5 +1,5 @@
 ---
 title: "Crusader Carpets"
 url: /landford/crusader-carpets/
-shop: Teppiche
+shop: carpet
 ---

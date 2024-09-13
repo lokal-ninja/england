@@ -1,5 +1,5 @@
 ---
 title: "Superdrug"
 url: /otley/superdrug/
-shop: Drogerie
+shop: chemist
 ---

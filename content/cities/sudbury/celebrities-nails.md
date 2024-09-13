@@ -1,5 +1,5 @@
 ---
 title: "Celebrities Nails"
 url: /sudbury/celebrities-nails/
-shop: Kosmetik
+shop: beauty
 ---

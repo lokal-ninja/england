@@ -1,5 +1,5 @@
 ---
 title: "Bit Of Everything"
 url: /sheffield/bit-of-everything/
-shop: Haushaltsartikel
+shop: houseware
 ---

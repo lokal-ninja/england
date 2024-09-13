@@ -1,5 +1,5 @@
 ---
 title: "Cubby's"
 url: /seahouses/cubbys/
-shop: Zeitungen
+shop: newsagent
 ---

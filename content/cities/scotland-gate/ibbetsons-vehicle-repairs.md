@@ -1,5 +1,5 @@
 ---
 title: "Ibbetson's Vehicle Repairs"
 url: /scotland-gate/ibbetsons-vehicle-repairs/
-shop: Autowerkstatt
+shop: car repair
 ---

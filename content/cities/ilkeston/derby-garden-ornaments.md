@@ -1,5 +1,5 @@
 ---
 title: "Derby Garden Ornaments"
 url: /ilkeston/derby-garden-ornaments/
-shop: Garten-Center
+shop: garden centre
 ---

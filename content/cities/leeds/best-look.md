@@ -1,5 +1,5 @@
 ---
 title: "Best Look"
 url: /leeds/best-look/
-shop: Friseur
+shop: hairdresser
 ---

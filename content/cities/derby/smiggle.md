@@ -1,5 +1,5 @@
 ---
 title: "Smiggle"
 url: /derby/smiggle/
-shop: Schreibwaren
+shop: office supplies
 ---

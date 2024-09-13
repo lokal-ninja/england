@@ -1,5 +1,5 @@
 ---
 title: "Signature"
 url: /manchester/signature/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

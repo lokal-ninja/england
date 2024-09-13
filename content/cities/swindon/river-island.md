@@ -1,5 +1,5 @@
 ---
 title: "River Island"
 url: /swindon/river-island/
-shop: Kleidung
+shop: clothes
 ---

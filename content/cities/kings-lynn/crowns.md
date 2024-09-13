@@ -1,5 +1,5 @@
 ---
 title: "Crowns"
 url: /kings-lynn/crowns/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Little and Caine"
 url: /dalton-in-furness/little-and-caine/
-shop: Bestattungen
+shop: funeral directors
 ---

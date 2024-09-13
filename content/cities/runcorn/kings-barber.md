@@ -1,5 +1,5 @@
 ---
 title: "King's Barber"
 url: /runcorn/kings-barber/
-shop: Friseur
+shop: hairdresser
 ---

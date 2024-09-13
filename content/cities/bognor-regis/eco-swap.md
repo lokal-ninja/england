@@ -1,5 +1,5 @@
 ---
 title: "Eco Swap"
 url: /bognor-regis/eco-swap/
-shop: Gebrauchtwaren
+shop: charity
 ---

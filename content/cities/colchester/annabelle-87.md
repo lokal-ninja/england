@@ -1,5 +1,5 @@
 ---
 title: "Annabelle 87"
 url: /colchester/annabelle-87/
-shop: Kleidung
+shop: clothes
 ---

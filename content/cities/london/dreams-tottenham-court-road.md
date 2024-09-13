@@ -1,5 +1,5 @@
 ---
 title: "Dreams"
 url: /london/dreams-tottenham-court-road/
-shop: Betten
+shop: bed
 ---

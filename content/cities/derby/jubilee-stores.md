@@ -1,5 +1,5 @@
 ---
 title: "Jubilee Stores"
 url: /derby/jubilee-stores/
-shop: Lebensmittel
+shop: convenience
 ---

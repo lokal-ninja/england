@@ -1,5 +1,5 @@
 ---
 title: "Emma Victoria"
 url: /frinton-on-sea/emma-victoria/
-shop: Friseur
+shop: hairdresser
 ---

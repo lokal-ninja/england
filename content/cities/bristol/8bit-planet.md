@@ -1,5 +1,5 @@
 ---
 title: "8Bit Planet"
 url: /bristol/8bit-planet/
-shop: Videospiele
+shop: video games
 ---

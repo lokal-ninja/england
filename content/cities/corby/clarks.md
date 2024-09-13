@@ -1,5 +1,5 @@
 ---
 title: "Clarks"
 url: /corby/clarks/
-shop: Schuhe
+shop: shoes
 ---

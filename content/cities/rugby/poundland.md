@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /rugby/poundland/
-shop: Kramladen
+shop: variety store
 ---

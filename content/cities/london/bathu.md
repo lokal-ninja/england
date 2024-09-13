@@ -1,5 +1,5 @@
 ---
 title: "Bathu"
 url: /london/bathu/
-shop: Lebensmittel
+shop: convenience
 ---

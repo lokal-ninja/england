@@ -1,5 +1,5 @@
 ---
 title: "Budgens"
 url: /st-neots/budgens/
-shop: Lebensmittel
+shop: convenience
 ---

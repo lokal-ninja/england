@@ -1,5 +1,5 @@
 ---
 title: "RSPCA"
 url: /ipswich/rspca-reynolds-road/
-shop: Gebrauchtwaren
+shop: charity
 ---

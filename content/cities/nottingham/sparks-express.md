@@ -1,5 +1,5 @@
 ---
 title: "Sparks Express"
 url: /nottingham/sparks-express/
-shop: Lebensmittel
+shop: convenience
 ---

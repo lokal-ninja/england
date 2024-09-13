@@ -1,5 +1,5 @@
 ---
 title: "Diss Funeralcare"
 url: /diss/diss-funeralcare/
-shop: Bestattungen
+shop: funeral directors
 ---

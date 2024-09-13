@@ -1,5 +1,5 @@
 ---
 title: "Subway"
 url: /norwich/subway/
-shop: Bäckerei
+shop: bakery
 ---

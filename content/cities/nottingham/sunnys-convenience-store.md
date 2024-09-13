@@ -1,5 +1,5 @@
 ---
 title: "Sunny's Convenience Store"
 url: /nottingham/sunnys-convenience-store/
-shop: Lebensmittel
+shop: convenience
 ---

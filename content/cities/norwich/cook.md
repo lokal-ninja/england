@@ -1,5 +1,5 @@
 ---
 title: "COOK"
 url: /norwich/cook/
-shop: Tiefkühl
+shop: frozen food
 ---

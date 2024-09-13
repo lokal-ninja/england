@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /sheffield/londis-cowper-avenue/
-shop: Lebensmittel
+shop: convenience
 ---

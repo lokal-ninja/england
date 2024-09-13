@@ -1,5 +1,5 @@
 ---
 title: "Debon Hair"
 url: /harwich/debon-hair/
-shop: Friseur
+shop: hairdresser
 ---

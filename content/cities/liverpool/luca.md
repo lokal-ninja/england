@@ -1,5 +1,5 @@
 ---
 title: "Luca"
 url: /liverpool/luca/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /leicester/iceland-fletcher-mall/
-shop: Tiefkühl
+shop: frozen food
 ---

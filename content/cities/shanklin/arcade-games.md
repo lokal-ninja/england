@@ -1,5 +1,5 @@
 ---
 title: "Arcade Games"
 url: /shanklin/arcade-games/
-shop: Videospiele
+shop: video games
 ---

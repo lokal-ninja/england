@@ -1,5 +1,5 @@
 ---
 title: "GingeHairz"
 url: /bolton/gingehairz/
-shop: Friseur
+shop: hairdresser
 ---

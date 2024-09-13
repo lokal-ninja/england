@@ -1,5 +1,5 @@
 ---
 title: "Churchtown Interiors"
 url: /southport/churchtown-interiors/
-shop: Raumausstattung
+shop: interior decoration
 ---

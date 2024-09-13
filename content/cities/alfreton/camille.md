@@ -1,5 +1,5 @@
 ---
 title: "Camille"
 url: /alfreton/camille/
-shop: Kleidung
+shop: clothes
 ---

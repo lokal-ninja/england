@@ -1,5 +1,5 @@
 ---
 title: "Go Ben"
 url: /wigan/go-ben/
-shop: Reisebüro
+shop: travel agency
 ---

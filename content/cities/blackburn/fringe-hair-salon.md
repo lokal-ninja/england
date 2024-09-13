@@ -1,5 +1,5 @@
 ---
 title: "Fringe Hair Salon"
 url: /blackburn/fringe-hair-salon/
-shop: Friseur
+shop: hairdresser
 ---

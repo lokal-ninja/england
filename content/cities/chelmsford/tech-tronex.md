@@ -1,5 +1,5 @@
 ---
 title: "TECH Tronex"
 url: /chelmsford/tech-tronex/
-shop: Handy
+shop: mobile phone
 ---

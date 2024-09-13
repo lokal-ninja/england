@@ -1,5 +1,5 @@
 ---
 title: "Barcham Sewing Machinery"
 url: /whitstable/barcham-sewing-machinery/
-shop: Allgemein
+shop: shop
 ---

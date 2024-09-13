@@ -1,5 +1,5 @@
 ---
 title: "Frankies"
 url: /lydney/frankies/
-shop: Schuhe
+shop: shoes
 ---

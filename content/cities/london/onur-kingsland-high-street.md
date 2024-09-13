@@ -1,5 +1,5 @@
 ---
 title: "Onur"
 url: /london/onur-kingsland-high-street/
-shop: Schmuck
+shop: jewelry
 ---

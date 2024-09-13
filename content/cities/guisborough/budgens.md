@@ -1,5 +1,5 @@
 ---
 title: "Budgens"
 url: /guisborough/budgens/
-shop: Lebensmittel
+shop: convenience
 ---

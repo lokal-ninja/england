@@ -1,5 +1,5 @@
 ---
 title: "Profiles"
 url: /nottingham/profiles/
-shop: Friseur
+shop: hairdresser
 ---

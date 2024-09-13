@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /biggleswade/asda/
-shop: Supermarkt
+shop: supermarket
 ---

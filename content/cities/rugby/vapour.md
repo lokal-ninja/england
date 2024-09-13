@@ -1,5 +1,5 @@
 ---
 title: "Vapour"
 url: /rugby/vapour/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

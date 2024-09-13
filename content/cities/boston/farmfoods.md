@@ -1,5 +1,5 @@
 ---
 title: "Farmfoods"
 url: /boston/farmfoods/
-shop: Tiefkühl
+shop: frozen food
 ---

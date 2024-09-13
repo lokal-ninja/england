@@ -1,5 +1,5 @@
 ---
 title: "Redbeck Motors"
 url: /wakefield/redbeck-motors/
-shop: Autohaus
+shop: car
 ---

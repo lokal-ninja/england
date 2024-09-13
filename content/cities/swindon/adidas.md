@@ -1,5 +1,5 @@
 ---
 title: "Adidas"
 url: /swindon/adidas/
-shop: Sport
+shop: sports
 ---

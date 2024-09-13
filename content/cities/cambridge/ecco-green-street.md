@@ -1,5 +1,5 @@
 ---
 title: "Ecco"
 url: /cambridge/ecco-green-street/
-shop: Schuhe
+shop: shoes
 ---

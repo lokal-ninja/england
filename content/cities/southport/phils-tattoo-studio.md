@@ -1,5 +1,5 @@
 ---
 title: "Phil's Tattoo Studio"
 url: /southport/phils-tattoo-studio/
-shop: Tattoo
+shop: tattoo
 ---

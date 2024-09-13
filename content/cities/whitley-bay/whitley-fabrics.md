@@ -1,5 +1,5 @@
 ---
 title: "Whitley Fabrics"
 url: /whitley-bay/whitley-fabrics/
-shop: Basteln
+shop: craft
 ---

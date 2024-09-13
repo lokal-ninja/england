@@ -1,5 +1,5 @@
 ---
 title: "RSPCA"
 url: /bishops-stortford/rspca/
-shop: Gebrauchtwaren
+shop: charity
 ---

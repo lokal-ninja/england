@@ -1,5 +1,5 @@
 ---
 title: "Candylicious"
 url: /durham/candylicious/
-shop: Süßwaren
+shop: confectionery
 ---

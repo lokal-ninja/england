@@ -1,5 +1,5 @@
 ---
 title: "Tops Food Store"
 url: /luton/tops-food-store/
-shop: Lebensmittel
+shop: convenience
 ---

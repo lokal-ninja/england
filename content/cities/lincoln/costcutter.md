@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /lincoln/costcutter/
-shop: Lebensmittel
+shop: convenience
 ---

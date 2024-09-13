@@ -1,5 +1,5 @@
 ---
 title: "Loco"
 url: /totland/loco/
-shop: Lebensmittel
+shop: convenience
 ---

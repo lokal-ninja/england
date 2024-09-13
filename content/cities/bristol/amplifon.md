@@ -1,5 +1,5 @@
 ---
 title: "Amplifon"
 url: /bristol/amplifon/
-shop: Hörgeräte
+shop: hearing aids
 ---

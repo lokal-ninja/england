@@ -1,5 +1,5 @@
 ---
 title: "Mulberry Wines"
 url: /brighton/mulberry-wines/
-shop: Spirituosen
+shop: alcohol
 ---

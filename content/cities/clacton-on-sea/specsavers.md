@@ -1,5 +1,5 @@
 ---
 title: "Specsavers"
 url: /clacton-on-sea/specsavers/
-shop: Optiker
+shop: optician
 ---

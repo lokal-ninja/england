@@ -1,5 +1,5 @@
 ---
 title: "Primark"
 url: /milton-keynes/primark/
-shop: Kleidung
+shop: clothes
 ---

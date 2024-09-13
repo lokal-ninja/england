@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /exeter/coral/
-shop: Wettbüro
+shop: bookmaker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Outdoor Gear"
 url: /manchester/outdoor-gear/
-shop: Outdoor
+shop: outdoor
 ---

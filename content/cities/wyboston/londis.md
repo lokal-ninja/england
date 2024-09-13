@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /wyboston/londis/
-shop: Lebensmittel
+shop: convenience
 ---

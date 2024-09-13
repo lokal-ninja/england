@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /telford/whsmith/
-shop: Zeitungen
+shop: newsagent
 ---

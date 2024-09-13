@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /stevenage/londis/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Levins"
 url: /nottingham/levins/
-shop: Schmuck
+shop: jewelry
 ---

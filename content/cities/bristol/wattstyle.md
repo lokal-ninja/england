@@ -1,5 +1,5 @@
 ---
 title: "wattstyle"
 url: /bristol/wattstyle/
-shop: Friseur
+shop: hairdresser
 ---

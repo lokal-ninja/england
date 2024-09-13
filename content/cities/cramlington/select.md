@@ -1,5 +1,5 @@
 ---
 title: "Select"
 url: /cramlington/select/
-shop: Kleidung
+shop: clothes
 ---

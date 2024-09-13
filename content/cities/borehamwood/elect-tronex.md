@@ -1,5 +1,5 @@
 ---
 title: "Elect Tronex"
 url: /borehamwood/elect-tronex/
-shop: Handy
+shop: mobile phone
 ---

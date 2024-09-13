@@ -1,5 +1,5 @@
 ---
 title: "The Crockery"
 url: /eastleigh/the-crockery/
-shop: Allgemein
+shop: shop
 ---

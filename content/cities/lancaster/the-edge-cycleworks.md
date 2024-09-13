@@ -1,5 +1,5 @@
 ---
 title: "The Edge Cycleworks"
 url: /lancaster/the-edge-cycleworks/
-shop: Fahrrad
+shop: bicycle
 ---

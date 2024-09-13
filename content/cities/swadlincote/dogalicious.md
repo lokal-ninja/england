@@ -1,5 +1,5 @@
 ---
 title: "Dogalicious"
 url: /swadlincote/dogalicious/
-shop: Tiersalon
+shop: pet grooming
 ---

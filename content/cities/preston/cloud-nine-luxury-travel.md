@@ -1,5 +1,5 @@
 ---
 title: "Cloud Nine Luxury Travel"
 url: /preston/cloud-nine-luxury-travel/
-shop: Reisebüro
+shop: travel agency
 ---

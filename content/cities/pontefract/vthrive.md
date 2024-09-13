@@ -1,5 +1,5 @@
 ---
 title: "Vthrive"
 url: /pontefract/vthrive/
-shop: Kosmetik
+shop: beauty
 ---

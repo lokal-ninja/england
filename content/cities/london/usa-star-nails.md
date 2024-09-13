@@ -1,5 +1,5 @@
 ---
 title: "USA Star Nails"
 url: /london/usa-star-nails/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mr Tyre Peterborough"
 url: /peterborough/mr-tyre-peterborough/
-shop: Autowerkstatt
+shop: car repair
 ---

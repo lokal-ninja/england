@@ -1,5 +1,5 @@
 ---
 title: "Pickwick Jewellers and Pawnbrokers"
 url: /london/pickwick-jewellers-and-pawnbrokers/
-shop: Leiher
+shop: pawnbroker
 ---

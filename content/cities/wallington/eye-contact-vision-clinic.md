@@ -1,5 +1,5 @@
 ---
 title: "Eye Contact Vision Clinic"
 url: /wallington/eye-contact-vision-clinic/
-shop: Optiker
+shop: optician
 ---

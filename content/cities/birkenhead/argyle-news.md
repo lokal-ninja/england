@@ -1,5 +1,5 @@
 ---
 title: "Argyle News"
 url: /birkenhead/argyle-news/
-shop: Zeitungen
+shop: newsagent
 ---

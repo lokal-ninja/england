@@ -1,5 +1,5 @@
 ---
 title: "Grinnall Carpets"
 url: /evesham/grinnall-carpets/
-shop: Teppiche
+shop: carpet
 ---

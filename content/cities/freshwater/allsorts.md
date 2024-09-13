@@ -1,5 +1,5 @@
 ---
 title: "Allsorts"
 url: /freshwater/allsorts/
-shop: Allgemein
+shop: shop
 ---

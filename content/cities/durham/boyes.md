@@ -1,5 +1,5 @@
 ---
 title: "Boyes"
 url: /durham/boyes/
-shop: Kramladen
+shop: variety store
 ---

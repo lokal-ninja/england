@@ -1,5 +1,5 @@
 ---
 title: "Pplumz"
 url: /pershore/pplumz/
-shop: Spielzeug
+shop: toys
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Barnardo's"
 url: /taunton/barnardos/
-shop: Gebrauchtwaren
+shop: charity
 ---

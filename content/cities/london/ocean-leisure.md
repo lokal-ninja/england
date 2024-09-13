@@ -1,5 +1,5 @@
 ---
 title: "Ocean Leisure"
 url: /london/ocean-leisure/
-shop: Sport
+shop: sports
 ---

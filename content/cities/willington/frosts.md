@@ -1,5 +1,5 @@
 ---
 title: "Frosts"
 url: /willington/frosts/
-shop: Garten-Center
+shop: garden centre
 ---

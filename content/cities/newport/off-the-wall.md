@@ -1,5 +1,5 @@
 ---
 title: "Off The Wall"
 url: /newport/off-the-wall/
-shop: Friseur
+shop: hairdresser
 ---

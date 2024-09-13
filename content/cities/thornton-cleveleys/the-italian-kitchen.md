@@ -1,5 +1,5 @@
 ---
 title: "The Italian Kitchen"
 url: /thornton-cleveleys/the-italian-kitchen/
-shop: Bäckerei
+shop: bakery
 ---

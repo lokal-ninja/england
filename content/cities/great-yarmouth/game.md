@@ -1,5 +1,5 @@
 ---
 title: "Game"
 url: /great-yarmouth/game/
-shop: Videospiele
+shop: video games
 ---

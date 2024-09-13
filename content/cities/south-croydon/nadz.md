@@ -1,5 +1,5 @@
 ---
 title: "Nadz"
 url: /south-croydon/nadz/
-shop: Friseur
+shop: hairdresser
 ---

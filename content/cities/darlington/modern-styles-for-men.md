@@ -1,5 +1,5 @@
 ---
 title: "Modern Styles - For Men"
 url: /darlington/modern-styles-for-men/
-shop: Friseur
+shop: hairdresser
 ---

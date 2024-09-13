@@ -1,5 +1,5 @@
 ---
 title: "Momo"
 url: /southport/momo/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "John Grose Kia"
 url: /lowestoft/john-grose-kia/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "BoConcept"
 url: /london/boconcept/
-shop: Möbel
+shop: furniture
 ---

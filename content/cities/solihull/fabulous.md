@@ -1,5 +1,5 @@
 ---
 title: "Fabulous"
 url: /solihull/fabulous/
-shop: Schmuck
+shop: jewelry
 ---

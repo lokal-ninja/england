@@ -1,5 +1,5 @@
 ---
 title: "AVS Car Parts"
 url: /swaffham/avs-car-parts/
-shop: Autoteile
+shop: car parts
 ---

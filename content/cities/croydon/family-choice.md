@@ -1,5 +1,5 @@
 ---
 title: "Family Choice"
 url: /croydon/family-choice/
-shop: Supermarkt
+shop: supermarket
 ---

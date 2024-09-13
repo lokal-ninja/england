@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /castleford/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

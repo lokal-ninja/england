@@ -1,5 +1,5 @@
 ---
 title: "Superdrug"
 url: /london/superdrug-poultry/
-shop: Drogerie
+shop: chemist
 ---

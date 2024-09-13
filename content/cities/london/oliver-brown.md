@@ -1,5 +1,5 @@
 ---
 title: "Oliver Brown"
 url: /london/oliver-brown/
-shop: Kleidung
+shop: clothes
 ---

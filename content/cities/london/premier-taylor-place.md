@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /london/premier-taylor-place/
-shop: Lebensmittel
+shop: convenience
 ---

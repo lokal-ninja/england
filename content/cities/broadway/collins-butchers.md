@@ -1,5 +1,5 @@
 ---
 title: "Collins Butchers"
 url: /broadway/collins-butchers/
-shop: Metzgerei
+shop: butcher
 ---

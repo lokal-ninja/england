@@ -1,5 +1,5 @@
 ---
 title: "Premier Car Supermarket"
 url: /derby/premier-car-supermarket/
-shop: Autohaus
+shop: car
 ---

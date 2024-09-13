@@ -1,5 +1,5 @@
 ---
 title: "Parsons"
 url: /bristol/parsons-crown-glass-place/
-shop: Bäckerei
+shop: bakery
 ---

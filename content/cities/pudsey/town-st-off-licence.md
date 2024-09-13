@@ -1,5 +1,5 @@
 ---
 title: "Town St Off Licence"
 url: /pudsey/town-st-off-licence/
-shop: Lebensmittel
+shop: convenience
 ---

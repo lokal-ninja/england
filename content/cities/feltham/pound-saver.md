@@ -1,5 +1,5 @@
 ---
 title: "Pound Saver"
 url: /feltham/pound-saver/
-shop: Kramladen
+shop: variety store
 ---

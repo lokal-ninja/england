@@ -1,5 +1,5 @@
 ---
 title: "Cameo"
 url: /seahouses/cameo/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Arthur Howell Butchers"
 url: /wells-next-the-sea/arthur-howell-butchers/
-shop: Metzgerei
+shop: butcher
 ---

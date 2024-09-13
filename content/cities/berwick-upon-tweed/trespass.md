@@ -1,5 +1,5 @@
 ---
 title: "Trespass"
 url: /berwick-upon-tweed/trespass/
-shop: Outdoor
+shop: outdoor
 ---

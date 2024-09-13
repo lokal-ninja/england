@@ -1,5 +1,5 @@
 ---
 title: "Chocalicious"
 url: /newport/chocalicious/
-shop: Süßwaren
+shop: confectionery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Halfords"
 url: /ipswich/halfords-london-road/
-shop: Autoteile
+shop: car parts
 ---

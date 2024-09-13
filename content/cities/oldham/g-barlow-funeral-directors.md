@@ -1,5 +1,5 @@
 ---
 title: "G Barlow Funeral Directors"
 url: /oldham/g-barlow-funeral-directors/
-shop: Bestattungen
+shop: funeral directors
 ---

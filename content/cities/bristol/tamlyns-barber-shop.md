@@ -1,5 +1,5 @@
 ---
 title: "Tamlyns Barber Shop"
 url: /bristol/tamlyns-barber-shop/
-shop: Friseur
+shop: hairdresser
 ---

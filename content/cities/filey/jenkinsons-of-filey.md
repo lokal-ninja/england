@@ -1,5 +1,5 @@
 ---
 title: "Jenkinsons of Filey"
 url: /filey/jenkinsons-of-filey/
-shop: Teppiche
+shop: carpet
 ---

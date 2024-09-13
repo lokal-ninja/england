@@ -1,5 +1,5 @@
 ---
 title: "Farmfoods"
 url: /northampton/farmfoods/
-shop: Tiefkühl
+shop: frozen food
 ---

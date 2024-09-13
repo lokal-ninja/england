@@ -1,5 +1,5 @@
 ---
 title: "Hard Pressed for Time"
 url: /thornbury/hard-pressed-for-time/
-shop: Wäscherei
+shop: laundry
 ---

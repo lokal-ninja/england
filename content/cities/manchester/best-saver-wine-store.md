@@ -1,5 +1,5 @@
 ---
 title: "Best Saver Wine Store"
 url: /manchester/best-saver-wine-store/
-shop: Spirituosen
+shop: alcohol
 ---

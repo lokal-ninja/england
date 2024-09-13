@@ -1,5 +1,5 @@
 ---
 title: "Pentagon Kia"
 url: /sheffield/pentagon-kia/
-shop: Autowerkstatt
+shop: car repair
 ---

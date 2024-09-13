@@ -1,5 +1,5 @@
 ---
 title: "Acres Estate Agents"
 url: /birmingham/acres-estate-agents/
-shop: Immobilien
+shop: estate agent
 ---

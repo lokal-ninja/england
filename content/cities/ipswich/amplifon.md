@@ -1,5 +1,5 @@
 ---
 title: "Amplifon"
 url: /ipswich/amplifon/
-shop: Hörgeräte
+shop: hearing aids
 ---

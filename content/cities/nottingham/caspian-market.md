@@ -1,5 +1,5 @@
 ---
 title: "Caspian Market"
 url: /nottingham/caspian-market/
-shop: Lebensmittel
+shop: convenience
 ---

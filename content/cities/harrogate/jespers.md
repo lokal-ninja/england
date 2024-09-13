@@ -1,5 +1,5 @@
 ---
 title: "Jespers"
 url: /harrogate/jespers/
-shop: Schreibwaren
+shop: office supplies
 ---

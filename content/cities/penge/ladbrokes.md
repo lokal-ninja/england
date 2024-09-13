@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /penge/ladbrokes/
-shop: Wettbüro
+shop: bookmaker
 ---

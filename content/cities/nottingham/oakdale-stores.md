@@ -1,5 +1,5 @@
 ---
 title: "Oakdale Stores"
 url: /nottingham/oakdale-stores/
-shop: Lebensmittel
+shop: convenience
 ---

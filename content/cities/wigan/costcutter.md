@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /wigan/costcutter/
-shop: Lebensmittel
+shop: convenience
 ---

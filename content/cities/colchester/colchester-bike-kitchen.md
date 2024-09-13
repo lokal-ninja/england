@@ -1,5 +1,5 @@
 ---
 title: "Colchester Bike Kitchen"
 url: /colchester/colchester-bike-kitchen/
-shop: Fahrrad
+shop: bicycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "JD Automotive"
 url: /lowestoft/jd-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

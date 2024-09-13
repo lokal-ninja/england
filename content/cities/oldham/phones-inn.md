@@ -1,5 +1,5 @@
 ---
 title: "Phones inn"
 url: /oldham/phones-inn/
-shop: Handy
+shop: mobile phone
 ---

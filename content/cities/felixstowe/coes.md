@@ -1,5 +1,5 @@
 ---
 title: "Coes"
 url: /felixstowe/coes/
-shop: Kleidung
+shop: clothes
 ---

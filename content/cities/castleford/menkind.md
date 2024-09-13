@@ -1,5 +1,5 @@
 ---
 title: "Menkind"
 url: /castleford/menkind/
-shop: Spielzeug
+shop: toys
 ---

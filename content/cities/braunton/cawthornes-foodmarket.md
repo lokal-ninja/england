@@ -1,5 +1,5 @@
 ---
 title: "Cawthorne's Foodmarket"
 url: /braunton/cawthornes-foodmarket/
-shop: Supermarkt
+shop: supermarket
 ---

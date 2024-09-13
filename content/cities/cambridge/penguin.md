@@ -1,5 +1,5 @@
 ---
 title: "Penguin"
 url: /cambridge/penguin/
-shop: Wäscherei
+shop: laundry
 ---

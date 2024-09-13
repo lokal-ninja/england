@@ -1,5 +1,5 @@
 ---
 title: "Dana Dry Cleaners"
 url: /london/dana-dry-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

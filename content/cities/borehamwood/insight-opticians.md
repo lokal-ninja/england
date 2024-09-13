@@ -1,5 +1,5 @@
 ---
 title: "Insight Opticians"
 url: /borehamwood/insight-opticians/
-shop: Optiker
+shop: optician
 ---

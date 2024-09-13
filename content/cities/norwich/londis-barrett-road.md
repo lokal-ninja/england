@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /norwich/londis-barrett-road/
-shop: Lebensmittel
+shop: convenience
 ---

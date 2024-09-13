@@ -1,5 +1,5 @@
 ---
 title: "Atkinsons"
 url: /bristol/atkinsons/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Linda Jaine Illustrations"
 url: /cromer/linda-jaine-illustrations/
-shop: Kunst
+shop: art
 ---

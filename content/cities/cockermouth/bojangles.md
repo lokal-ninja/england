@@ -1,5 +1,5 @@
 ---
 title: "Bojangles"
 url: /cockermouth/bojangles/
-shop: Friseur
+shop: hairdresser
 ---

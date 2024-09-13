@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /goole/londis/
-shop: Lebensmittel
+shop: convenience
 ---

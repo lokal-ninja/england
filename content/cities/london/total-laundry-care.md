@@ -1,5 +1,5 @@
 ---
 title: "Total Laundry Care"
 url: /london/total-laundry-care/
-shop: Wäscherei
+shop: laundry
 ---

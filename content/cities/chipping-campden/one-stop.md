@@ -1,5 +1,5 @@
 ---
 title: "One Stop"
 url: /chipping-campden/one-stop/
-shop: Lebensmittel
+shop: convenience
 ---

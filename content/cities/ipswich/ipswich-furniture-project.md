@@ -1,5 +1,5 @@
 ---
 title: "Ipswich Furniture Project"
 url: /ipswich/ipswich-furniture-project/
-shop: Möbel
+shop: furniture
 ---

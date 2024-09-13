@@ -1,5 +1,5 @@
 ---
 title: "Folded"
 url: /twickenham/folded/
-shop: Leerstehend
+shop: vacant
 ---

@@ -1,5 +1,5 @@
 ---
 title: "VTK Grocery"
 url: /crawley/vtk-grocery/
-shop: Supermarkt
+shop: supermarket
 ---

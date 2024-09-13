@@ -1,5 +1,5 @@
 ---
 title: "Off Camber"
 url: /blandford-forum/off-camber/
-shop: Fahrrad
+shop: bicycle
 ---

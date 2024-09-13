@@ -1,5 +1,5 @@
 ---
 title: "Valley Stores"
 url: /swindon/valley-stores/
-shop: Lebensmittel
+shop: convenience
 ---

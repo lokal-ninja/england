@@ -1,5 +1,5 @@
 ---
 title: "Eyres"
 url: /worksop/eyres/
-shop: Warenhaus
+shop: department store
 ---

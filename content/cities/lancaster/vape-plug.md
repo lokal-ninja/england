@@ -1,5 +1,5 @@
 ---
 title: "Vape Plug"
 url: /lancaster/vape-plug/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

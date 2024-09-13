@@ -1,5 +1,5 @@
 ---
 title: "Calligaris"
 url: /west-thurrock/calligaris/
-shop: Möbel
+shop: furniture
 ---

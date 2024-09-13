@@ -1,5 +1,5 @@
 ---
 title: "Naked Ape"
 url: /sheffield/naked-ape/
-shop: Kleidung
+shop: clothes
 ---

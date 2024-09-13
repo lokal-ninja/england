@@ -1,5 +1,5 @@
 ---
 title: "Xtras"
 url: /newcastle-upon-tyne/xtras/
-shop: Allgemein
+shop: shop
 ---

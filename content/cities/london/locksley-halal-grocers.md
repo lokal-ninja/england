@@ -1,5 +1,5 @@
 ---
 title: "Locksley Halal Grocers"
 url: /london/locksley-halal-grocers/
-shop: Lebensmittel
+shop: convenience
 ---

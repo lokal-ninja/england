@@ -1,5 +1,5 @@
 ---
 title: "Coverup"
 url: /london/coverup/
-shop: Kleidung
+shop: clothes
 ---

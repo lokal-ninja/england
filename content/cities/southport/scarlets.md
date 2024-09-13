@@ -1,5 +1,5 @@
 ---
 title: "Scarlets"
 url: /southport/scarlets/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "TK Maxx"
 url: /london/tk-maxx-leyton-mills/
-shop: Warenhaus
+shop: department store
 ---

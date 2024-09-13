@@ -1,5 +1,5 @@
 ---
 title: "Autotech"
 url: /oldham/autotech/
-shop: Autowerkstatt
+shop: car repair
 ---

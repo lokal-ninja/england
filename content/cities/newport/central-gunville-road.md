@@ -1,5 +1,5 @@
 ---
 title: "Central"
 url: /newport/central-gunville-road/
-shop: Lebensmittel
+shop: convenience
 ---

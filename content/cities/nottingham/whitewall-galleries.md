@@ -1,5 +1,5 @@
 ---
 title: "Whitewall Galleries"
 url: /nottingham/whitewall-galleries/
-shop: Kunst
+shop: art
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lewis Norton Funeral Directors"
 url: /beverley/lewis-norton-funeral-directors/
-shop: Bestattungen
+shop: funeral directors
 ---

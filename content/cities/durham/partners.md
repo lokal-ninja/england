@@ -1,5 +1,5 @@
 ---
 title: "Partners"
 url: /durham/partners/
-shop: Friseur
+shop: hairdresser
 ---

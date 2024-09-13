@@ -1,5 +1,5 @@
 ---
 title: "Farmfoods"
 url: /southend-on-sea/farmfoods/
-shop: Tiefkühl
+shop: frozen food
 ---

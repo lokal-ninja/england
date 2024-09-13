@@ -1,5 +1,5 @@
 ---
 title: "Bathwick Tyres"
 url: /swindon/bathwick-tyres/
-shop: Autowerkstatt
+shop: car repair
 ---

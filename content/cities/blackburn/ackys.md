@@ -1,5 +1,5 @@
 ---
 title: "Ackys"
 url: /blackburn/ackys/
-shop: Lebensmittel
+shop: convenience
 ---

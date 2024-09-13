@@ -1,5 +1,5 @@
 ---
 title: "Cleeve Hill Garage"
 url: /bristol/cleeve-hill-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

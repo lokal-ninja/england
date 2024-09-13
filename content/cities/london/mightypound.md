@@ -1,5 +1,5 @@
 ---
 title: "Mightypound"
 url: /london/mightypound/
-shop: Kramladen
+shop: variety store
 ---

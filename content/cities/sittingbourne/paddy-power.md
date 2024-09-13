@@ -1,5 +1,5 @@
 ---
 title: "Paddy Power"
 url: /sittingbourne/paddy-power/
-shop: Wettbüro
+shop: bookmaker
 ---

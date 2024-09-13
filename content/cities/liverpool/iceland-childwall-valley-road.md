@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /liverpool/iceland-childwall-valley-road/
-shop: Tiefkühl
+shop: frozen food
 ---

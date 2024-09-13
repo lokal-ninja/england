@@ -1,5 +1,5 @@
 ---
 title: "Krystals Food Market"
 url: /london/krystals-food-market/
-shop: Lebensmittel
+shop: convenience
 ---

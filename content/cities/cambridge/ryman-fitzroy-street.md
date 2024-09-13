@@ -1,5 +1,5 @@
 ---
 title: "Ryman"
 url: /cambridge/ryman-fitzroy-street/
-shop: Schreibwaren
+shop: office supplies
 ---

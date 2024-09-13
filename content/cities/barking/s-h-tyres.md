@@ -1,5 +1,5 @@
 ---
 title: "S H Tyres"
 url: /barking/s-h-tyres/
-shop: Reifen
+shop: tyres
 ---

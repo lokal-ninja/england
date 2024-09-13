@@ -1,5 +1,5 @@
 ---
 title: "Harrington Charity Shop"
 url: /london/harrington-charity-shop/
-shop: Gebrauchtwaren
+shop: charity
 ---

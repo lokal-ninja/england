@@ -1,5 +1,5 @@
 ---
 title: "Afro Shop"
 url: /wellingborough/afro-shop/
-shop: Kramladen
+shop: variety store
 ---

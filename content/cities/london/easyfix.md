@@ -1,5 +1,5 @@
 ---
 title: "EasyFix"
 url: /london/easyfix/
-shop: Computer
+shop: computer
 ---

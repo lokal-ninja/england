@@ -1,5 +1,5 @@
 ---
 title: "Storybrook Permanent Makeup"
 url: /truro/storybrook-permanent-makeup/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "County Clothes"
 url: /canterbury/county-clothes/
-shop: Kleidung
+shop: clothes
 ---

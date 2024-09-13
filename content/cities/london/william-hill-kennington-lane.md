@@ -1,5 +1,5 @@
 ---
 title: "William Hill"
 url: /london/william-hill-kennington-lane/
-shop: Wettbüro
+shop: bookmaker
 ---

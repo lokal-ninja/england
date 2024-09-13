@@ -1,5 +1,5 @@
 ---
 title: "Bakerman"
 url: /darlington/bakerman/
-shop: Bäckerei
+shop: bakery
 ---

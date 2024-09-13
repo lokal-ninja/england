@@ -1,5 +1,5 @@
 ---
 title: "Carsmetic Surgery"
 url: /bolton/carsmetic-surgery/
-shop: Autowerkstatt
+shop: car repair
 ---

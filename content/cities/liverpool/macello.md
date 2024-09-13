@@ -1,5 +1,5 @@
 ---
 title: "Macello"
 url: /liverpool/macello/
-shop: Metzgerei
+shop: butcher
 ---

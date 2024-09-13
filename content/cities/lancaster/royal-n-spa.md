@@ -1,5 +1,5 @@
 ---
 title: "Royal N Spa"
 url: /lancaster/royal-n-spa/
-shop: Kosmetik
+shop: beauty
 ---

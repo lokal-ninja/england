@@ -1,5 +1,5 @@
 ---
 title: "Kwality Printer"
 url: /warrington/kwality-printer/
-shop: Kopieren
+shop: copyshop
 ---

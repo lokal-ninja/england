@@ -1,5 +1,5 @@
 ---
 title: "RSPCA"
 url: /kings-lynn/rspca/
-shop: Gebrauchtwaren
+shop: charity
 ---

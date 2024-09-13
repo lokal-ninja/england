@@ -1,5 +1,5 @@
 ---
 title: "Chanters Service Centre"
 url: /atherton/chanters-service-centre/
-shop: Autowerkstatt
+shop: car repair
 ---

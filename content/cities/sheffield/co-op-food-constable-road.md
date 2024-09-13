@@ -1,5 +1,5 @@
 ---
 title: "Co-op Food"
 url: /sheffield/co-op-food-constable-road/
-shop: Supermarkt
+shop: supermarket
 ---

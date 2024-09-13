@@ -1,5 +1,5 @@
 ---
 title: "Sanctuary Tattoo Parlor"
 url: /london/sanctuary-tattoo-parlor/
-shop: Tattoo
+shop: tattoo
 ---

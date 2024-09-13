@@ -1,5 +1,5 @@
 ---
 title: "Brunels"
 url: /portsmouth/brunels/
-shop: Lebensmittel
+shop: convenience
 ---

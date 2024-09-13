@@ -1,5 +1,5 @@
 ---
 title: "Retrouvé"
 url: /london/retrouve/
-shop: Kleidung
+shop: clothes
 ---

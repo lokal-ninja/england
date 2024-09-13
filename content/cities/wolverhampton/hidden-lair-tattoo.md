@@ -1,5 +1,5 @@
 ---
 title: "Hidden Lair Tattoo"
 url: /wolverhampton/hidden-lair-tattoo/
-shop: Tattoo
+shop: tattoo
 ---

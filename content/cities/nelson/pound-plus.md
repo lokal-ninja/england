@@ -1,5 +1,5 @@
 ---
 title: "Pound Plus"
 url: /nelson/pound-plus/
-shop: Kramladen
+shop: variety store
 ---

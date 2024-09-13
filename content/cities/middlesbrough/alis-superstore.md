@@ -1,5 +1,5 @@
 ---
 title: "Ali's Superstore"
 url: /middlesbrough/alis-superstore/
-shop: Supermarkt
+shop: supermarket
 ---

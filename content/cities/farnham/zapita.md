@@ -1,5 +1,5 @@
 ---
 title: "Zapita"
 url: /farnham/zapita/
-shop: Schuhe
+shop: shoes
 ---

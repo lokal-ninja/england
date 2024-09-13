@@ -1,5 +1,5 @@
 ---
 title: "Daves"
 url: /morpeth/daves/
-shop: Friseur
+shop: hairdresser
 ---

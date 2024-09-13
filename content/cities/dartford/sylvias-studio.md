@@ -1,5 +1,5 @@
 ---
 title: "Sylvia's Studio"
 url: /dartford/sylvias-studio/
-shop: Friseur
+shop: hairdresser
 ---

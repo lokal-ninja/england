@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /gosport/tesco/
-shop: Supermarkt
+shop: supermarket
 ---

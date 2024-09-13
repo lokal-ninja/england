@@ -1,5 +1,5 @@
 ---
 title: "Witton Express"
 url: /birmingham/witton-express/
-shop: Lebensmittel
+shop: convenience
 ---

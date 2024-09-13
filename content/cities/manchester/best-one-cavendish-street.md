@@ -1,5 +1,5 @@
 ---
 title: "Best-one"
 url: /manchester/best-one-cavendish-street/
-shop: Lebensmittel
+shop: convenience
 ---

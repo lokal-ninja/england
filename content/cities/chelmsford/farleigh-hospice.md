@@ -1,5 +1,5 @@
 ---
 title: "Farleigh Hospice"
 url: /chelmsford/farleigh-hospice/
-shop: Gebrauchtwaren
+shop: charity
 ---

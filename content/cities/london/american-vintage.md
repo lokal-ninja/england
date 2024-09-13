@@ -1,5 +1,5 @@
 ---
 title: "American Vintage"
 url: /london/american-vintage/
-shop: Kleidung
+shop: clothes
 ---

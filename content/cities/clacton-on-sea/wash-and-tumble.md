@@ -1,5 +1,5 @@
 ---
 title: "Wash and Tumble"
 url: /clacton-on-sea/wash-and-tumble/
-shop: Wäscherei
+shop: laundry
 ---

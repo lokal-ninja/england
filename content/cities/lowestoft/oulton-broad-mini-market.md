@@ -1,5 +1,5 @@
 ---
 title: "Oulton Broad Mini Market"
 url: /lowestoft/oulton-broad-mini-market/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Premier Extra Convenience Store"
 url: /grimsby/premier-extra-convenience-store/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bloww"
 url: /lowestoft/bloww/
-shop: Friseur
+shop: hairdresser
 ---

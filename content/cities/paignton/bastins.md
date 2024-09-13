@@ -1,5 +1,5 @@
 ---
 title: "Bastins"
 url: /paignton/bastins/
-shop: Andenken
+shop: gift
 ---

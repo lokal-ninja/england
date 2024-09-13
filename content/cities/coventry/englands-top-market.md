@@ -1,5 +1,5 @@
 ---
 title: "England's Top Market"
 url: /coventry/englands-top-market/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /blackfen/tesco-express/
-shop: Lebensmittel
+shop: convenience
 ---

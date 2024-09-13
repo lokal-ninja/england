@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /okehampton/spar/
-shop: Lebensmittel
+shop: convenience
 ---

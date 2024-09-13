@@ -1,5 +1,5 @@
 ---
 title: "Freshly Market"
 url: /wakefield/freshly-market/
-shop: Lebensmittel
+shop: convenience
 ---

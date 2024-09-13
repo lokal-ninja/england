@@ -1,5 +1,5 @@
 ---
 title: "Huws Gray"
 url: /whitchurch/huws-gray/
-shop: Baustoffe
+shop: trade
 ---

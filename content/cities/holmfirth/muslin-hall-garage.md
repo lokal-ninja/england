@@ -1,5 +1,5 @@
 ---
 title: "Muslin Hall Garage"
 url: /holmfirth/muslin-hall-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sports Direct"
 url: /kendal/sports-direct/
-shop: Sport
+shop: sports
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Denton Motors of Otley"
 url: /otley/denton-motors-of-otley/
-shop: Autohaus
+shop: car
 ---

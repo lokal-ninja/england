@@ -1,5 +1,5 @@
 ---
 title: "MP Automotive"
 url: /ilkeston/mp-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

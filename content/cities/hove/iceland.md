@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /hove/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

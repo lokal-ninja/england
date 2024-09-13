@@ -1,5 +1,5 @@
 ---
 title: "Fone Customise"
 url: /ringwood/fone-customise/
-shop: Handy
+shop: mobile phone
 ---

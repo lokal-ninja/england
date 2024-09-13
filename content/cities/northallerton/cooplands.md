@@ -1,5 +1,5 @@
 ---
 title: "Cooplands"
 url: /northallerton/cooplands/
-shop: Bäckerei
+shop: bakery
 ---

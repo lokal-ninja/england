@@ -1,5 +1,5 @@
 ---
 title: "Royal Nails"
 url: /thetford/royal-nails/
-shop: Kosmetik
+shop: beauty
 ---

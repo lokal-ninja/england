@@ -1,5 +1,5 @@
 ---
 title: "Rowell's"
 url: /darlington/rowells/
-shop: Friseur
+shop: hairdresser
 ---

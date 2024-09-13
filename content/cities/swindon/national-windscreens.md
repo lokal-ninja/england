@@ -1,5 +1,5 @@
 ---
 title: "National Windscreens"
 url: /swindon/national-windscreens/
-shop: Autowerkstatt
+shop: car repair
 ---

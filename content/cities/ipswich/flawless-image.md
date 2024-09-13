@@ -1,5 +1,5 @@
 ---
 title: "Flawless Image"
 url: /ipswich/flawless-image/
-shop: Kosmetik
+shop: beauty
 ---

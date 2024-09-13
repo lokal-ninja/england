@@ -1,5 +1,5 @@
 ---
 title: "Central"
 url: /cheltenham/central/
-shop: Lebensmittel
+shop: convenience
 ---

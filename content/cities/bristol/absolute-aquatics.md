@@ -1,5 +1,5 @@
 ---
 title: "Absolute Aquatics"
 url: /bristol/absolute-aquatics/
-shop: Tiere
+shop: pet
 ---

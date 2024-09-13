@@ -1,5 +1,5 @@
 ---
 title: "Peugeot"
 url: /chelmsford/peugeot-bilton-road/
-shop: Autohaus
+shop: car
 ---

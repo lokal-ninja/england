@@ -1,5 +1,5 @@
 ---
 title: "Ideal Sweets"
 url: /london/ideal-sweets/
-shop: Süßwaren
+shop: confectionery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "VAPEx"
 url: /sheffield/vapex/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

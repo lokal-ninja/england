@@ -1,5 +1,5 @@
 ---
 title: "Home Bargains"
 url: /warrington/home-bargains-wharf-street/
-shop: Kramladen
+shop: variety store
 ---

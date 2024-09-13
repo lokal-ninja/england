@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /matlock/poundland/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La Femme"
 url: /grimsby/la-femme/
-shop: Kleidung
+shop: clothes
 ---

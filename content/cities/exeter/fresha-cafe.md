@@ -1,5 +1,5 @@
 ---
 title: "Fresha Cafe"
 url: /exeter/fresha-cafe/
-shop: Allgemein
+shop: shop
 ---

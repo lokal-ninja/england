@@ -1,5 +1,5 @@
 ---
 title: "The Smallest Cog"
 url: /hereford/the-smallest-cog/
-shop: Autowerkstatt
+shop: car repair
 ---

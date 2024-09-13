@@ -1,5 +1,5 @@
 ---
 title: "Tuff Tarts Clothing"
 url: /brighton/tuff-tarts-clothing/
-shop: Kleidung
+shop: clothes
 ---

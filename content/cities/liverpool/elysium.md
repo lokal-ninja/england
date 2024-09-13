@@ -1,5 +1,5 @@
 ---
 title: "Elysium"
 url: /liverpool/elysium/
-shop: Friseur
+shop: hairdresser
 ---

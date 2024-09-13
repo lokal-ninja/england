@@ -1,5 +1,5 @@
 ---
 title: "Celebrations"
 url: /darlington/celebrations/
-shop: Süßwaren
+shop: confectionery
 ---

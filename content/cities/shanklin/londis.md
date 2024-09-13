@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /shanklin/londis/
-shop: Lebensmittel
+shop: convenience
 ---

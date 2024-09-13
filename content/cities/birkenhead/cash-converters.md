@@ -1,5 +1,5 @@
 ---
 title: "Cash Converters"
 url: /birkenhead/cash-converters/
-shop: Leiher
+shop: pawnbroker
 ---

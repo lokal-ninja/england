@@ -1,5 +1,5 @@
 ---
 title: "Jacaranda"
 url: /stroud/jacaranda/
-shop: Blumen
+shop: florist
 ---

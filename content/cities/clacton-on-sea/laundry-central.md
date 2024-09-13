@@ -1,5 +1,5 @@
 ---
 title: "Laundry Central"
 url: /clacton-on-sea/laundry-central/
-shop: Wäscherei
+shop: laundry
 ---

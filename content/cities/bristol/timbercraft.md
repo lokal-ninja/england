@@ -1,5 +1,5 @@
 ---
 title: "Timbercraft"
 url: /bristol/timbercraft/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Corthay"
 url: /london/corthay/
-shop: Schuhe
+shop: shoes
 ---

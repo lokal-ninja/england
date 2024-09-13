@@ -1,5 +1,5 @@
 ---
 title: "Julia's House"
 url: /weymouth/julias-house/
-shop: Gebrauchtwaren
+shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Trespass"
 url: /murton/trespass/
-shop: Outdoor
+shop: outdoor
 ---

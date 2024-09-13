@@ -1,5 +1,5 @@
 ---
 title: "Allen Ford Swindon"
 url: /swindon/allen-ford-swindon/
-shop: Autohaus
+shop: car
 ---

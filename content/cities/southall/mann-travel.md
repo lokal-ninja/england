@@ -1,5 +1,5 @@
 ---
 title: "Mann Travel"
 url: /southall/mann-travel/
-shop: Reisebüro
+shop: travel agency
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CeX"
 url: /swindon/cex/
-shop: Elektronik
+shop: electronics
 ---

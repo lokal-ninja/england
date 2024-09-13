@@ -1,5 +1,5 @@
 ---
 title: "Boyes"
 url: /nottingham/boyes-front-street/
-shop: Warenhaus
+shop: department store
 ---

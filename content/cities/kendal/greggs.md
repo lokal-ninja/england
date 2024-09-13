@@ -1,5 +1,5 @@
 ---
 title: "Greggs"
 url: /kendal/greggs/
-shop: Bäckerei
+shop: bakery
 ---

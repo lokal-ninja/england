@@ -1,5 +1,5 @@
 ---
 title: "A+B Fencing"
 url: /cirencester/a-b-fencing/
-shop: Baustoffe
+shop: trade
 ---

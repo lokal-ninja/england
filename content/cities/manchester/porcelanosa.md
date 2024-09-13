@@ -1,5 +1,5 @@
 ---
 title: "Porcelanosa"
 url: /manchester/porcelanosa/
-shop: Fliesen
+shop: tiles
 ---

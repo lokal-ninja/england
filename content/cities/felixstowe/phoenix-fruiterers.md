@@ -1,5 +1,5 @@
 ---
 title: "Phoenix Fruiterers"
 url: /felixstowe/phoenix-fruiterers/
-shop: Gemüse & Obst
+shop: greengrocer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "HMV"
 url: /warrington/hmv/
-shop: Musik
+shop: music
 ---

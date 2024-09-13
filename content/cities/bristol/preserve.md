@@ -1,5 +1,5 @@
 ---
 title: "Preserve"
 url: /bristol/preserve/
-shop: Feinkost
+shop: deli
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Office"
 url: /cheltenham/office/
-shop: Schuhe
+shop: shoes
 ---

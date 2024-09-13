@@ -1,5 +1,5 @@
 ---
 title: "Bristol Blacksmiths"
 url: /bristol/bristol-blacksmiths/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /preston/spar-liverpool-road/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cabsurance"
 url: /london/cabsurance/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Supernews"
 url: /leeds/supernews/
-shop: Zeitungen
+shop: newsagent
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Colin Khalid Electricals"
 url: /manchester/colin-khalid-electricals/
-shop: Großhandel
+shop: wholesale
 ---

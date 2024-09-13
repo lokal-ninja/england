@@ -1,5 +1,5 @@
 ---
 title: "Timpson"
 url: /ludlow/timpson/
-shop: Schuhe
+shop: shoes
 ---

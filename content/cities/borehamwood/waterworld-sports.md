@@ -1,5 +1,5 @@
 ---
 title: "Waterworld Sports"
 url: /borehamwood/waterworld-sports/
-shop: Sport
+shop: sports
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ember"
 url: /plymouth/ember/
-shop: Tattoo
+shop: tattoo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Stones News"
 url: /orpington/stones-news/
-shop: Zeitungen
+shop: newsagent
 ---

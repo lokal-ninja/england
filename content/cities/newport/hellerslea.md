@@ -1,5 +1,5 @@
 ---
 title: "Hellerslea"
 url: /newport/hellerslea/
-shop: Friseur
+shop: hairdresser
 ---

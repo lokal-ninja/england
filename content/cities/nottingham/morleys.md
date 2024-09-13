@@ -1,5 +1,5 @@
 ---
 title: "Morley's"
 url: /nottingham/morleys/
-shop: Kleidung
+shop: clothes
 ---

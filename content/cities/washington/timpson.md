@@ -1,5 +1,5 @@
 ---
 title: "Timpson"
 url: /washington/timpson/
-shop: Allgemein
+shop: shop
 ---

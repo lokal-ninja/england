@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /aldershot/poundland/
-shop: Kramladen
+shop: variety store
 ---

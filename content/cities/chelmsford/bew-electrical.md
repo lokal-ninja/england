@@ -1,5 +1,5 @@
 ---
 title: "BEW Electrical"
 url: /chelmsford/bew-electrical/
-shop: Elektrisch
+shop: electrical
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Beauty House"
 url: /wisbech/the-beauty-house/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Home Bargains"
 url: /salford/home-bargains-west-one-way/
-shop: Kramladen
+shop: variety store
 ---

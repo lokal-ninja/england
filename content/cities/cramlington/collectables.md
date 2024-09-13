@@ -1,5 +1,5 @@
 ---
 title: "Collectables"
 url: /cramlington/collectables/
-shop: Andenken
+shop: gift
 ---

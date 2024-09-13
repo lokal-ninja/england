@@ -1,5 +1,5 @@
 ---
 title: "Nisa Local"
 url: /knottingley/nisa-local/
-shop: Lebensmittel
+shop: convenience
 ---

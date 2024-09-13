@@ -1,5 +1,5 @@
 ---
 title: "CeX"
 url: /kendal/cex/
-shop: Elektronik
+shop: electronics
 ---

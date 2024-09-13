@@ -1,5 +1,5 @@
 ---
 title: "Cazoo"
 url: /carlisle/cazoo/
-shop: Autohaus
+shop: car
 ---

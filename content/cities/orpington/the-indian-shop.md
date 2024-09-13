@@ -1,5 +1,5 @@
 ---
 title: "The Indian Shop"
 url: /orpington/the-indian-shop/
-shop: Allgemein
+shop: shop
 ---

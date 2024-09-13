@@ -1,5 +1,5 @@
 ---
 title: "Easy Link"
 url: /london/easy-link/
-shop: Handy
+shop: mobile phone
 ---

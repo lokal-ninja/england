@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
 url: /stroud/vodafone/
-shop: Handy
+shop: mobile phone
 ---

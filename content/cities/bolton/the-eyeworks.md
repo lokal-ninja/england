@@ -1,5 +1,5 @@
 ---
 title: "The Eyeworks"
 url: /bolton/the-eyeworks/
-shop: Allgemein
+shop: shop
 ---

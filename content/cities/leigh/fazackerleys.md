@@ -1,5 +1,5 @@
 ---
 title: "Fazackerleys"
 url: /leigh/fazackerleys/
-shop: Möbel
+shop: furniture
 ---

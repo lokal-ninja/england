@@ -1,5 +1,5 @@
 ---
 title: "Reflections"
 url: /nottingham/reflections/
-shop: Küchen
+shop: kitchen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Marsdens"
 url: /matlock/marsdens/
-shop: Andenken
+shop: gift
 ---

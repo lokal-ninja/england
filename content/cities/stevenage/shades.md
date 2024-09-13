@@ -1,5 +1,5 @@
 ---
 title: "Shades"
 url: /stevenage/shades/
-shop: Friseur
+shop: hairdresser
 ---

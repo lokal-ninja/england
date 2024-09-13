@@ -1,5 +1,5 @@
 ---
 title: "Blades"
 url: /alnwick/blades/
-shop: Friseur
+shop: hairdresser
 ---

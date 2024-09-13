@@ -1,5 +1,5 @@
 ---
 title: "Wafflemeister"
 url: /london/wafflemeister/
-shop: Konditorei
+shop: pastry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Purplish London"
 url: /london/purplish-london/
-shop: Kleidung
+shop: clothes
 ---

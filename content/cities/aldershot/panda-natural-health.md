@@ -1,5 +1,5 @@
 ---
 title: "Panda Natural Health"
 url: /aldershot/panda-natural-health/
-shop: Massage
+shop: massage
 ---

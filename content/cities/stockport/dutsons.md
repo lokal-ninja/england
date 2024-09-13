@@ -1,5 +1,5 @@
 ---
 title: "Dutsons"
 url: /stockport/dutsons/
-shop: Feinkost
+shop: deli
 ---

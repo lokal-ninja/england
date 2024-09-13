@@ -1,5 +1,5 @@
 ---
 title: "Barnbury"
 url: /cheltenham/barnbury/
-shop: Haushaltsartikel
+shop: houseware
 ---

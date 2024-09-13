@@ -1,5 +1,5 @@
 ---
 title: "Fixbike"
 url: /weymouth/fixbike/
-shop: Fahrrad
+shop: bicycle
 ---

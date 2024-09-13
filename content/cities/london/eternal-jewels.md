@@ -1,5 +1,5 @@
 ---
 title: "Eternal Jewels"
 url: /london/eternal-jewels/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Birds"
 url: /derby/birds-3/
-shop: Bäckerei
+shop: bakery
 ---

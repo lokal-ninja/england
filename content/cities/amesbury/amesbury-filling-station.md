@@ -1,5 +1,5 @@
 ---
 title: "Amesbury Filling Station"
 url: /amesbury/amesbury-filling-station/
-shop: Wäscherei
+shop: laundry
 ---

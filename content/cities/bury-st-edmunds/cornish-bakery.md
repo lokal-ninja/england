@@ -1,5 +1,5 @@
 ---
 title: "Cornish Bakery"
 url: /bury-st-edmunds/cornish-bakery/
-shop: Bäckerei
+shop: bakery
 ---

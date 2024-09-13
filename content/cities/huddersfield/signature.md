@@ -1,5 +1,5 @@
 ---
 title: "Signature"
 url: /huddersfield/signature/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

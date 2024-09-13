@@ -1,5 +1,5 @@
 ---
 title: "AMAC"
 url: /northallerton/amac/
-shop: Autowerkstatt
+shop: car repair
 ---

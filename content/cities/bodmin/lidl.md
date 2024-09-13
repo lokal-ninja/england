@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /bodmin/lidl/
-shop: Supermarkt
+shop: supermarket
 ---

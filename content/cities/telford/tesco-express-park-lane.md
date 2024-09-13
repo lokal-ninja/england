@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /telford/tesco-express-park-lane/
-shop: Lebensmittel
+shop: convenience
 ---

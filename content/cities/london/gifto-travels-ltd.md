@@ -1,5 +1,5 @@
 ---
 title: "Gifto Travels Ltd"
 url: /london/gifto-travels-ltd/
-shop: Reisebüro
+shop: travel agency
 ---

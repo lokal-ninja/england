@@ -1,5 +1,5 @@
 ---
 title: "Something Wiccan"
 url: /crawley/something-wiccan/
-shop: Supermarkt
+shop: supermarket
 ---

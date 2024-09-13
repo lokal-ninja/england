@@ -1,5 +1,5 @@
 ---
 title: "TanUnique"
 url: /wakefield/tanunique/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tui"
 url: /cramlington/tui/
-shop: Reisebüro
+shop: travel agency
 ---

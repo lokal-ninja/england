@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /upper-froyle-alton/spar/
-shop: Lebensmittel
+shop: convenience
 ---

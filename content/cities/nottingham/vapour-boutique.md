@@ -1,5 +1,5 @@
 ---
 title: "Vapour Boutique"
 url: /nottingham/vapour-boutique/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

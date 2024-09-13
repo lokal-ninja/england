@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /scunthorpe/tesco-express/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Phones4All"
 url: /bingley/phones4all/
-shop: Handy
+shop: mobile phone
 ---

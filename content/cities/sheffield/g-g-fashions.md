@@ -1,5 +1,5 @@
 ---
 title: "G.G Fashions"
 url: /sheffield/g-g-fashions/
-shop: Kleidung
+shop: clothes
 ---

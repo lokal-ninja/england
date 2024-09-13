@@ -1,5 +1,5 @@
 ---
 title: "Palace News"
 url: /london/palace-news/
-shop: Zeitungen
+shop: newsagent
 ---

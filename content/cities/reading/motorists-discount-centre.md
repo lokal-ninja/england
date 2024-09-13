@@ -1,5 +1,5 @@
 ---
 title: "Motorists' Discount Centre"
 url: /reading/motorists-discount-centre/
-shop: Autoteile
+shop: car parts
 ---

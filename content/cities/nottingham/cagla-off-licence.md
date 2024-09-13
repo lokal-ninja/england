@@ -1,5 +1,5 @@
 ---
 title: "Cagla Off Licence"
 url: /nottingham/cagla-off-licence/
-shop: Lebensmittel
+shop: convenience
 ---

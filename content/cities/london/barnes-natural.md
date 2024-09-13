@@ -1,5 +1,5 @@
 ---
 title: "Barnes Natural"
 url: /london/barnes-natural/
-shop: Feinkost
+shop: deli
 ---

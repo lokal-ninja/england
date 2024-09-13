@@ -1,5 +1,5 @@
 ---
 title: "Earlams"
 url: /wilmslow/earlams/
-shop: Basteln
+shop: craft
 ---

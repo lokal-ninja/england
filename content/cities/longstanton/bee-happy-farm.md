@@ -1,5 +1,5 @@
 ---
 title: "Bee Happy Farm"
 url: /longstanton/bee-happy-farm/
-shop: Hofladen
+shop: farm
 ---

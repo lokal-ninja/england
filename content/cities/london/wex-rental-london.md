@@ -1,5 +1,5 @@
 ---
 title: "Wex Rental London"
 url: /london/wex-rental-london/
-shop: Kamera
+shop: camera
 ---

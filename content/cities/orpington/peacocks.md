@@ -1,5 +1,5 @@
 ---
 title: "Peacocks"
 url: /orpington/peacocks/
-shop: Kleidung
+shop: clothes
 ---

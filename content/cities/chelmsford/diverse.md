@@ -1,5 +1,5 @@
 ---
 title: "Diverse"
 url: /chelmsford/diverse/
-shop: Friseur
+shop: hairdresser
 ---

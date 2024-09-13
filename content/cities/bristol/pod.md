@@ -1,5 +1,5 @@
 ---
 title: "Pod"
 url: /bristol/pod/
-shop: Andenken
+shop: gift
 ---

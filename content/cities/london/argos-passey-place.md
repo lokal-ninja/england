@@ -1,5 +1,5 @@
 ---
 title: "Argos"
 url: /london/argos-passey-place/
-shop: Katalog
+shop: catalogue
 ---

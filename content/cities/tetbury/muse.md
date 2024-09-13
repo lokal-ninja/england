@@ -1,5 +1,5 @@
 ---
 title: "Muse"
 url: /tetbury/muse/
-shop: Raumausstattung
+shop: interior decoration
 ---

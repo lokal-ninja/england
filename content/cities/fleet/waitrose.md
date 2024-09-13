@@ -1,5 +1,5 @@
 ---
 title: "Waitrose"
 url: /fleet/waitrose/
-shop: Lebensmittel
+shop: convenience
 ---

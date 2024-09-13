@@ -1,5 +1,5 @@
 ---
 title: "The Works"
 url: /truro/the-works/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La Salsa"
 url: /nottingham/la-salsa/
-shop: Allgemein
+shop: shop
 ---

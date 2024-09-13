@@ -1,5 +1,5 @@
 ---
 title: "Herdy"
 url: /kendal/herdy/
-shop: Andenken
+shop: gift
 ---

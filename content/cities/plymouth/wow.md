@@ -1,5 +1,5 @@
 ---
 title: "Wow!"
 url: /plymouth/wow/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Portmeirion"
 url: /stoke-on-trent/portmeirion/
-shop: Haushaltsartikel
+shop: houseware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Coach House Books"
 url: /pershore/coach-house-books/
-shop: Bücher
+shop: books
 ---

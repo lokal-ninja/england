@@ -1,5 +1,5 @@
 ---
 title: "D.R. Peel"
 url: /london/d-r-peel/
-shop: Baustoffe
+shop: trade
 ---

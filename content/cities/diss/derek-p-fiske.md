@@ -1,5 +1,5 @@
 ---
 title: "Derek P. Fiske"
 url: /diss/derek-p-fiske/
-shop: Autohaus
+shop: car
 ---

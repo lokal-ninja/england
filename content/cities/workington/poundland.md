@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /workington/poundland/
-shop: Kramladen
+shop: variety store
 ---

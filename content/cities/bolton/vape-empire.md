@@ -1,5 +1,5 @@
 ---
 title: "Vape Empire"
 url: /bolton/vape-empire/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

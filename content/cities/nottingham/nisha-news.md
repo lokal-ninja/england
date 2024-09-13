@@ -1,5 +1,5 @@
 ---
 title: "Nisha News"
 url: /nottingham/nisha-news/
-shop: Lebensmittel
+shop: convenience
 ---

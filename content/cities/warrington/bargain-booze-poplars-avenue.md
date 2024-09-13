@@ -1,5 +1,5 @@
 ---
 title: "Bargain Booze"
 url: /warrington/bargain-booze-poplars-avenue/
-shop: Spirituosen
+shop: alcohol
 ---

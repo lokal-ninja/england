@@ -1,5 +1,5 @@
 ---
 title: "Warhammer"
 url: /kendal/warhammer/
-shop: Spiele
+shop: games
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Simboti Butchery"
 url: /sheffield/simboti-butchery/
-shop: Metzgerei
+shop: butcher
 ---

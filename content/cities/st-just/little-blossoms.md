@@ -1,5 +1,5 @@
 ---
 title: "Little Blossoms"
 url: /st-just/little-blossoms/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rooms"
 url: /london/rooms/
-shop: Möbel
+shop: furniture
 ---

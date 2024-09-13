@@ -1,5 +1,5 @@
 ---
 title: "L'Occitane"
 url: /portsmouth/loccitane/
-shop: Kosmetik
+shop: beauty
 ---

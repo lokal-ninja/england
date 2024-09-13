@@ -1,5 +1,5 @@
 ---
 title: "Breeze Beauty"
 url: /weymouth/breeze-beauty/
-shop: Kosmetik
+shop: beauty
 ---

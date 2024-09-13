@@ -1,5 +1,5 @@
 ---
 title: "Covet"
 url: /lewes/covet/
-shop: Kleidung
+shop: clothes
 ---

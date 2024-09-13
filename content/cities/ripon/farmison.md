@@ -1,5 +1,5 @@
 ---
 title: "Farmison"
 url: /ripon/farmison/
-shop: Metzgerei
+shop: butcher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Beach Hut"
 url: /bolton/the-beach-hut/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Purley Express"
 url: /purley/purley-express/
-shop: Lebensmittel
+shop: convenience
 ---

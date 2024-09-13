@@ -1,5 +1,5 @@
 ---
 title: "Jade Mountain"
 url: /southsea/jade-mountain/
-shop: Bücher
+shop: books
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Autocraft Services"
 url: /sheffield/autocraft-services/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "DRINKS 4U"
 url: /leamington-spa/drinks-4u/
-shop: Spirituosen
+shop: alcohol
 ---

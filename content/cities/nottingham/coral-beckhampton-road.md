@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /nottingham/coral-beckhampton-road/
-shop: Wettbüro
+shop: bookmaker
 ---

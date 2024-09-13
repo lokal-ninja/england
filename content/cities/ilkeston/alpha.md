@@ -1,5 +1,5 @@
 ---
 title: "Alpha"
 url: /ilkeston/alpha/
-shop: Instrumente
+shop: musical instrument
 ---

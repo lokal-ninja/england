@@ -1,5 +1,5 @@
 ---
 title: "Jordan's Garage"
 url: /tyldesley/jordans-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

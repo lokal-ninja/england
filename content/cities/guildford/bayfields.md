@@ -1,5 +1,5 @@
 ---
 title: "Bayfields"
 url: /guildford/bayfields/
-shop: Optiker
+shop: optician
 ---

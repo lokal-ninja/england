@@ -1,5 +1,5 @@
 ---
 title: "Greens Opticians"
 url: /northampton/greens-opticians/
-shop: Optiker
+shop: optician
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /gillingham/costcutter/
-shop: Lebensmittel
+shop: convenience
 ---

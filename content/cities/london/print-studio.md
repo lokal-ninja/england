@@ -1,5 +1,5 @@
 ---
 title: "Print Studio"
 url: /london/print-studio/
-shop: Kopieren
+shop: copyshop
 ---

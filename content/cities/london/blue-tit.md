@@ -1,5 +1,5 @@
 ---
 title: "Blue Tit"
 url: /london/blue-tit/
-shop: Friseur
+shop: hairdresser
 ---

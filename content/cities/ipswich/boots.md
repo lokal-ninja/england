@@ -1,5 +1,5 @@
 ---
 title: "Boots"
 url: /ipswich/boots/
-shop: Drogerie
+shop: chemist
 ---

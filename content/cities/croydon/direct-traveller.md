@@ -1,5 +1,5 @@
 ---
 title: "Direct Traveller"
 url: /croydon/direct-traveller/
-shop: Reisebüro
+shop: travel agency
 ---

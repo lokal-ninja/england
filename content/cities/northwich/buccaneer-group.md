@@ -1,5 +1,5 @@
 ---
 title: "Buccaneer Group"
 url: /northwich/buccaneer-group/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pantech"
 url: /guildford/pantech/
-shop: Autowerkstatt
+shop: car repair
 ---

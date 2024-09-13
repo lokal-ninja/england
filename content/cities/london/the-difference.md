@@ -1,5 +1,5 @@
 ---
 title: "The Difference"
 url: /london/the-difference/
-shop: Friseur
+shop: hairdresser
 ---

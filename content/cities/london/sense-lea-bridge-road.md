@@ -1,5 +1,5 @@
 ---
 title: "Sense"
 url: /london/sense-lea-bridge-road/
-shop: Gebrauchtwaren
+shop: charity
 ---

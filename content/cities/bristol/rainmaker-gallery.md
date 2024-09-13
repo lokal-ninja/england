@@ -1,5 +1,5 @@
 ---
 title: "Rainmaker Gallery"
 url: /bristol/rainmaker-gallery/
-shop: Kunst
+shop: art
 ---

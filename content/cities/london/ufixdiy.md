@@ -1,5 +1,5 @@
 ---
 title: "UfixDIY"
 url: /london/ufixdiy/
-shop: Eisenwaren
+shop: hardware
 ---

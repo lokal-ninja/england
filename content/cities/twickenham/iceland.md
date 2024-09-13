@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /twickenham/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

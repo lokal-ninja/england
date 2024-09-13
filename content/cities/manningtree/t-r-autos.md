@@ -1,5 +1,5 @@
 ---
 title: "T R Autos"
 url: /manningtree/t-r-autos/
-shop: Autowerkstatt
+shop: car repair
 ---

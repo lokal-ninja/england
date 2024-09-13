@@ -1,5 +1,5 @@
 ---
 title: "Bubbles"
 url: /newmarket/bubbles/
-shop: Tiersalon
+shop: pet grooming
 ---

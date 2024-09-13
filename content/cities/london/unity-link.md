@@ -1,5 +1,5 @@
 ---
 title: "Unity Link"
 url: /london/unity-link/
-shop: Reisebüro
+shop: travel agency
 ---

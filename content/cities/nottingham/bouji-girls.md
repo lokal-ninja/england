@@ -1,5 +1,5 @@
 ---
 title: "Bouji Girls"
 url: /nottingham/bouji-girls/
-shop: Kosmetik
+shop: beauty
 ---

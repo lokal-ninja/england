@@ -1,5 +1,5 @@
 ---
 title: "Hobbycraft"
 url: /dartford/hobbycraft/
-shop: Basteln
+shop: craft
 ---

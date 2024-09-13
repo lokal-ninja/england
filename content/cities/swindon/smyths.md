@@ -1,5 +1,5 @@
 ---
 title: "Smyths"
 url: /swindon/smyths/
-shop: Spielzeug
+shop: toys
 ---

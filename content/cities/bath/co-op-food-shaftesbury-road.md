@@ -1,5 +1,5 @@
 ---
 title: "Co-op Food"
 url: /bath/co-op-food-shaftesbury-road/
-shop: Supermarkt
+shop: supermarket
 ---

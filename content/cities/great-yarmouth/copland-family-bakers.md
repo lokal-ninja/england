@@ -1,5 +1,5 @@
 ---
 title: "Copland Family Bakers"
 url: /great-yarmouth/copland-family-bakers/
-shop: Bäckerei
+shop: bakery
 ---

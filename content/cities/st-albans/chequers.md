@@ -1,5 +1,5 @@
 ---
 title: "Chequers"
 url: /st-albans/chequers/
-shop: Kleidung
+shop: clothes
 ---

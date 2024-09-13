@@ -1,5 +1,5 @@
 ---
 title: "Headway Hair Salon"
 url: /stockton-on-tees/headway-hair-salon/
-shop: Friseur
+shop: hairdresser
 ---

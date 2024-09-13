@@ -1,5 +1,5 @@
 ---
 title: "Warburtons Funeralcare"
 url: /todmorden/warburtons-funeralcare/
-shop: Bestattungen
+shop: funeral directors
 ---

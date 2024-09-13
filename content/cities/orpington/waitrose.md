@@ -1,5 +1,5 @@
 ---
 title: "Waitrose"
 url: /orpington/waitrose/
-shop: Supermarkt
+shop: supermarket
 ---

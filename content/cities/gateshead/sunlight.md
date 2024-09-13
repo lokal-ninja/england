@@ -1,5 +1,5 @@
 ---
 title: "Sunlight"
 url: /gateshead/sunlight/
-shop: Wäscherei
+shop: laundry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fylde Mowercare"
 url: /thornton-cleveleys/fylde-mowercare/
-shop: Allgemein
+shop: shop
 ---

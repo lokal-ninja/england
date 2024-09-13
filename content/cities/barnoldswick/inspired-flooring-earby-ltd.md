@@ -1,5 +1,5 @@
 ---
 title: "Inspired Flooring Earby Ltd"
 url: /barnoldswick/inspired-flooring-earby-ltd/
-shop: Fußböden
+shop: flooring
 ---

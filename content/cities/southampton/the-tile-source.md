@@ -1,5 +1,5 @@
 ---
 title: "The Tile Source"
 url: /southampton/the-tile-source/
-shop: Fliesen
+shop: tiles
 ---

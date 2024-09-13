@@ -1,5 +1,5 @@
 ---
 title: "Georges Newsagent"
 url: /london/georges-newsagent/
-shop: Lebensmittel
+shop: convenience
 ---

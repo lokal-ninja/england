@@ -1,5 +1,5 @@
 ---
 title: "The Rowans Hospice"
 url: /bishops-waltham-southampton/the-rowans-hospice/
-shop: Gebrauchtwaren
+shop: charity
 ---

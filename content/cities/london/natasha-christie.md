@@ -1,5 +1,5 @@
 ---
 title: "Natasha Christie"
 url: /london/natasha-christie/
-shop: Friseur
+shop: hairdresser
 ---

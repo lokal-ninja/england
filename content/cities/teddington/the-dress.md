@@ -1,5 +1,5 @@
 ---
 title: "The Dress"
 url: /teddington/the-dress/
-shop: Kleidung
+shop: clothes
 ---

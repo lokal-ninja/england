@@ -1,5 +1,5 @@
 ---
 title: "Unpolished"
 url: /cheltenham/unpolished/
-shop: Raumausstattung
+shop: interior decoration
 ---

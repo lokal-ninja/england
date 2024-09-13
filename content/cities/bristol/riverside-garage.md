@@ -1,5 +1,5 @@
 ---
 title: "Riverside Garage"
 url: /bristol/riverside-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

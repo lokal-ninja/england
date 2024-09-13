@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /newton-abbot/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

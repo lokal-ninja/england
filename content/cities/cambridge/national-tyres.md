@@ -1,5 +1,5 @@
 ---
 title: "National Tyres"
 url: /cambridge/national-tyres/
-shop: Autowerkstatt
+shop: car repair
 ---

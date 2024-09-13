@@ -1,5 +1,5 @@
 ---
 title: "Mr Vape"
 url: /ledbury/mr-vape/
-shop: Lebensmittel
+shop: convenience
 ---

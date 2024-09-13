@@ -1,5 +1,5 @@
 ---
 title: "Stylewise"
 url: /manchester/stylewise/
-shop: Kleidung
+shop: clothes
 ---

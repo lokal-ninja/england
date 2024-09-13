@@ -1,5 +1,5 @@
 ---
 title: "Lok'nStore"
 url: /gloucester/loknstore/
-shop: Mieten
+shop: storage rental
 ---

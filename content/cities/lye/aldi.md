@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /lye/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

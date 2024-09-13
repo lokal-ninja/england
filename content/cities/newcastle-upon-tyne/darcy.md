@@ -1,5 +1,5 @@
 ---
 title: "Darcy"
 url: /newcastle-upon-tyne/darcy/
-shop: Kleidung
+shop: clothes
 ---

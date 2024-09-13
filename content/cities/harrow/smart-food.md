@@ -1,5 +1,5 @@
 ---
 title: "Smart Food"
 url: /harrow/smart-food/
-shop: Lebensmittel
+shop: convenience
 ---

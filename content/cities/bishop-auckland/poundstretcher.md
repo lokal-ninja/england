@@ -1,5 +1,5 @@
 ---
 title: "Poundstretcher"
 url: /bishop-auckland/poundstretcher/
-shop: Kramladen
+shop: variety store
 ---

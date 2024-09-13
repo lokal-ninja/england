@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /carlisle/whsmith-court-square/
-shop: Zeitungen
+shop: newsagent
 ---

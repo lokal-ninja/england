@@ -1,5 +1,5 @@
 ---
 title: "Pandora"
 url: /newcastle-upon-tyne/pandora/
-shop: Schmuck
+shop: jewelry
 ---

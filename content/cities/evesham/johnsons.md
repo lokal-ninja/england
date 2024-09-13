@@ -1,5 +1,5 @@
 ---
 title: "Johnsons"
 url: /evesham/johnsons/
-shop: Immobilien
+shop: estate agent
 ---

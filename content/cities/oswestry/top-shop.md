@@ -1,5 +1,5 @@
 ---
 title: "Top Shop"
 url: /oswestry/top-shop/
-shop: Lebensmittel
+shop: convenience
 ---

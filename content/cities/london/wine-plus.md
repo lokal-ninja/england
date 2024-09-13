@@ -1,5 +1,5 @@
 ---
 title: "Wine Plus"
 url: /london/wine-plus/
-shop: Spirituosen
+shop: alcohol
 ---

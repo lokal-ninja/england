@@ -1,5 +1,5 @@
 ---
 title: "Ashby Motors"
 url: /chorley/ashby-motors/
-shop: Autohaus
+shop: car
 ---

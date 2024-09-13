@@ -1,5 +1,5 @@
 ---
 title: "Photogift"
 url: /london/photogift/
-shop: Foto
+shop: photo
 ---

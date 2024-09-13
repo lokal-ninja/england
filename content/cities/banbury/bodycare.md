@@ -1,5 +1,5 @@
 ---
 title: "Bodycare"
 url: /banbury/bodycare/
-shop: Drogerie
+shop: chemist
 ---

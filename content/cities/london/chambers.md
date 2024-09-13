@@ -1,5 +1,5 @@
 ---
 title: "Chambers"
 url: /london/chambers/
-shop: Schneiderei
+shop: tailor
 ---

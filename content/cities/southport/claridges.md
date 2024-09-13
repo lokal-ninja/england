@@ -1,5 +1,5 @@
 ---
 title: "Claridges"
 url: /southport/claridges/
-shop: Autowerkstatt
+shop: car repair
 ---

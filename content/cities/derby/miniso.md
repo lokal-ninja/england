@@ -1,5 +1,5 @@
 ---
 title: "Miniso"
 url: /derby/miniso/
-shop: Andenken
+shop: gift
 ---

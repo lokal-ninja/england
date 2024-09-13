@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /london/costcutter-court-road/
-shop: Supermarkt
+shop: supermarket
 ---

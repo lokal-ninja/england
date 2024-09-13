@@ -1,5 +1,5 @@
 ---
 title: "Edwards"
 url: /preston/edwards/
-shop: Wäscherei
+shop: laundry
 ---

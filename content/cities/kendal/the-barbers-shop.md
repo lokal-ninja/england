@@ -1,5 +1,5 @@
 ---
 title: "The Barbers Shop"
 url: /kendal/the-barbers-shop/
-shop: Friseur
+shop: hairdresser
 ---

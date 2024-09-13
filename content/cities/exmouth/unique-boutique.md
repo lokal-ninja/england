@@ -1,5 +1,5 @@
 ---
 title: "Unique Boutique"
 url: /exmouth/unique-boutique/
-shop: Kleidung
+shop: clothes
 ---

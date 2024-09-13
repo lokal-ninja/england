@@ -1,5 +1,5 @@
 ---
 title: "Pastures Green"
 url: /castleford/pastures-green/
-shop: Metzgerei
+shop: butcher
 ---

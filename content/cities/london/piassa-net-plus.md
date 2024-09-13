@@ -1,5 +1,5 @@
 ---
 title: "Piassa net plus"
 url: /london/piassa-net-plus/
-shop: Allgemein
+shop: shop
 ---

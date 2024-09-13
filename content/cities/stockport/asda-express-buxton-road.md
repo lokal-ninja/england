@@ -1,5 +1,5 @@
 ---
 title: "Asda Express"
 url: /stockport/asda-express-buxton-road/
-shop: Lebensmittel
+shop: convenience
 ---

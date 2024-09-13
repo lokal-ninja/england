@@ -1,5 +1,5 @@
 ---
 title: "Lorimers"
 url: /oxted/lorimers/
-shop: Spielzeug
+shop: toys
 ---

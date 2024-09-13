@@ -1,5 +1,5 @@
 ---
 title: "Spartan"
 url: /morecambe/spartan/
-shop: Autoteile
+shop: car parts
 ---

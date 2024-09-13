@@ -1,5 +1,5 @@
 ---
 title: "Specsavers"
 url: /solihull/specsavers/
-shop: Optiker
+shop: optician
 ---

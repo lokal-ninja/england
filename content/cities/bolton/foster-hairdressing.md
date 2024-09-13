@@ -1,5 +1,5 @@
 ---
 title: "Foster Hairdressing"
 url: /bolton/foster-hairdressing/
-shop: Friseur
+shop: hairdresser
 ---

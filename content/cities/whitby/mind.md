@@ -1,5 +1,5 @@
 ---
 title: "Mind"
 url: /whitby/mind/
-shop: Gebrauchtwaren
+shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Barbican Chimes Music Shop"
 url: /london/barbican-chimes-music-shop/
-shop: Instrumente
+shop: musical instrument
 ---

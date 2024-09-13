@@ -1,5 +1,5 @@
 ---
 title: "Simpsons"
 url: /norwich/simpsons/
-shop: Schmuck
+shop: jewelry
 ---

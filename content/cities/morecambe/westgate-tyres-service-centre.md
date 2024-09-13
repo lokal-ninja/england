@@ -1,5 +1,5 @@
 ---
 title: "Westgate Tyres Service Centre"
 url: /morecambe/westgate-tyres-service-centre/
-shop: Autowerkstatt
+shop: car repair
 ---

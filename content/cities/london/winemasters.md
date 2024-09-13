@@ -1,5 +1,5 @@
 ---
 title: "Winemasters"
 url: /london/winemasters/
-shop: Lebensmittel
+shop: convenience
 ---

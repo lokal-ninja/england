@@ -1,5 +1,5 @@
 ---
 title: "Spice of Life"
 url: /bourne/spice-of-life/
-shop: Bioladen
+shop: health food
 ---

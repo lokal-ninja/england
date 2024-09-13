@@ -1,5 +1,5 @@
 ---
 title: "Halfords"
 url: /watford/halfords/
-shop: Autoteile
+shop: car parts
 ---

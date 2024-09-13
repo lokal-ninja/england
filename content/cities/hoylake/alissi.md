@@ -1,5 +1,5 @@
 ---
 title: "Alissi"
 url: /hoylake/alissi/
-shop: Friseur
+shop: hairdresser
 ---

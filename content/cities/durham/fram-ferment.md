@@ -1,5 +1,5 @@
 ---
 title: "Fram Ferment"
 url: /durham/fram-ferment/
-shop: Spirituosen
+shop: alcohol
 ---

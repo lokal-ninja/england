@@ -1,5 +1,5 @@
 ---
 title: "Tessuti"
 url: /ipswich/tessuti/
-shop: Kleidung
+shop: clothes
 ---

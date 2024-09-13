@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /uxbridge/lidl-high-street/
-shop: Supermarkt
+shop: supermarket
 ---

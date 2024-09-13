@@ -1,5 +1,5 @@
 ---
 title: "Comley Cameras"
 url: /cleethorpes/comley-cameras/
-shop: Kamera
+shop: camera
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /huntingdon/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

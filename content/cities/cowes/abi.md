@@ -1,5 +1,5 @@
 ---
 title: "Abi"
 url: /cowes/abi/
-shop: Kleidung
+shop: clothes
 ---

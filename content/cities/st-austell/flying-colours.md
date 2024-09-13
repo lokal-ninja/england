@@ -1,5 +1,5 @@
 ---
 title: "Flying Colours"
 url: /st-austell/flying-colours/
-shop: Tattoo
+shop: tattoo
 ---

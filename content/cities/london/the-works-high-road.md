@@ -1,5 +1,5 @@
 ---
 title: "The Works"
 url: /london/the-works-high-road/
-shop: Bücher
+shop: books
 ---

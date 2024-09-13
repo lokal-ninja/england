@@ -1,5 +1,5 @@
 ---
 title: "Innerglass"
 url: /peterlee/innerglass/
-shop: Allgemein
+shop: shop
 ---

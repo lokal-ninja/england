@@ -1,5 +1,5 @@
 ---
 title: "Rumblers Farm Shop"
 url: /hemel-hempstead/rumblers-farm-shop/
-shop: Hofladen
+shop: farm
 ---

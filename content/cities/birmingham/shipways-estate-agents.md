@@ -1,5 +1,5 @@
 ---
 title: "Shipways Estate Agents"
 url: /birmingham/shipways-estate-agents/
-shop: Immobilien
+shop: estate agent
 ---

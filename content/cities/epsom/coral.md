@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /epsom/coral/
-shop: Wettbüro
+shop: bookmaker
 ---

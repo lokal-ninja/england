@@ -1,5 +1,5 @@
 ---
 title: "Hyde Chambers"
 url: /bury-st-edmunds/hyde-chambers/
-shop: Bestattungen
+shop: funeral directors
 ---

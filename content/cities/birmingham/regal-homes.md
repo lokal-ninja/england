@@ -1,5 +1,5 @@
 ---
 title: "Regal Homes"
 url: /birmingham/regal-homes/
-shop: Immobilien
+shop: estate agent
 ---

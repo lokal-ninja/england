@@ -1,5 +1,5 @@
 ---
 title: "Devenports"
 url: /twickenham/devenports/
-shop: Immobilien
+shop: estate agent
 ---

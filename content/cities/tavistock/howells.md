@@ -1,5 +1,5 @@
 ---
 title: "Howells"
 url: /tavistock/howells/
-shop: Metzgerei
+shop: butcher
 ---

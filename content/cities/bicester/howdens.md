@@ -1,5 +1,5 @@
 ---
 title: "Howdens"
 url: /bicester/howdens/
-shop: Küchen
+shop: kitchen
 ---

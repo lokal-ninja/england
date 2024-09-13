@@ -1,5 +1,5 @@
 ---
 title: "acme lithographic"
 url: /bristol/acme-lithographic/
-shop: Kopieren
+shop: copyshop
 ---

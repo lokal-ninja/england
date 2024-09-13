@@ -1,5 +1,5 @@
 ---
 title: "Lightworks"
 url: /solihull/lightworks/
-shop: Friseur
+shop: hairdresser
 ---

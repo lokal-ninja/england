@@ -1,5 +1,5 @@
 ---
 title: "King Baba-Dee"
 url: /bristol/king-baba-dee/
-shop: Friseur
+shop: hairdresser
 ---

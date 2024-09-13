@@ -1,5 +1,5 @@
 ---
 title: "Autofit Motorist Centre"
 url: /ipswich/autofit-motorist-centre/
-shop: Autowerkstatt
+shop: car repair
 ---

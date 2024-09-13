@@ -1,5 +1,5 @@
 ---
 title: "Farmfoods"
 url: /runcorn/farmfoods/
-shop: Tiefkühl
+shop: frozen food
 ---

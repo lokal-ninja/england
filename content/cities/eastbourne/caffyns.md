@@ -1,5 +1,5 @@
 ---
 title: "Caffyns"
 url: /eastbourne/caffyns/
-shop: Autowerkstatt
+shop: car repair
 ---

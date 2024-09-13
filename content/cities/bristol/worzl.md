@@ -1,5 +1,5 @@
 ---
 title: "Worzl"
 url: /bristol/worzl/
-shop: Andenken
+shop: gift
 ---

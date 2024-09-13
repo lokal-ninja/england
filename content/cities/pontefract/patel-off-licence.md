@@ -1,5 +1,5 @@
 ---
 title: "Patel Off Licence"
 url: /pontefract/patel-off-licence/
-shop: Lebensmittel
+shop: convenience
 ---

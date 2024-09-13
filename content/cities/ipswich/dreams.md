@@ -1,5 +1,5 @@
 ---
 title: "Dreams"
 url: /ipswich/dreams/
-shop: Betten
+shop: bed
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Hair Room"
 url: /holmfirth/the-hair-room/
-shop: Friseur
+shop: hairdresser
 ---

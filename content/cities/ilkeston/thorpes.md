@@ -1,5 +1,5 @@
 ---
 title: "Thorpes"
 url: /ilkeston/thorpes/
-shop: Möbel
+shop: furniture
 ---

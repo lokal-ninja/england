@@ -1,5 +1,5 @@
 ---
 title: "Only Joking Ltd"
 url: /derby/only-joking-ltd/
-shop: Partyzubehör
+shop: party
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Withywood Stores"
 url: /leyburn/withywood-stores/
-shop: Lebensmittel
+shop: convenience
 ---

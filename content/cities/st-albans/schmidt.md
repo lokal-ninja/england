@@ -1,5 +1,5 @@
 ---
 title: "Schmidt"
 url: /st-albans/schmidt/
-shop: Küchen
+shop: kitchen
 ---

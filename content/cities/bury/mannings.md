@@ -1,5 +1,5 @@
 ---
 title: "Mannings"
 url: /bury/mannings/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Halfords"
 url: /rayleigh/halfords/
-shop: Autoteile
+shop: car parts
 ---

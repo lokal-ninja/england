@@ -1,5 +1,5 @@
 ---
 title: "Nisa"
 url: /sheffield/nisa/
-shop: Lebensmittel
+shop: convenience
 ---

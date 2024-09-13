@@ -1,5 +1,5 @@
 ---
 title: "Star Shop"
 url: /sheffield/star-shop/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "D Ward Automotive"
 url: /bishop-auckland/d-ward-automotive/
-shop: Autoteile
+shop: car parts
 ---

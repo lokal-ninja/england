@@ -1,5 +1,5 @@
 ---
 title: "Warrington Anglers Association"
 url: /warrington/warrington-anglers-association/
-shop: Angeln
+shop: fishing
 ---

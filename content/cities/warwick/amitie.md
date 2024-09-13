@@ -1,5 +1,5 @@
 ---
 title: "Amitie"
 url: /warwick/amitie/
-shop: Friseur
+shop: hairdresser
 ---

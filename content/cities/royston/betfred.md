@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /royston/betfred/
-shop: Wettbüro
+shop: bookmaker
 ---

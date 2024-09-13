@@ -1,5 +1,5 @@
 ---
 title: "Bayer Food Centre"
 url: /london/bayer-food-centre/
-shop: Gemüse & Obst
+shop: greengrocer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Poundbakery"
 url: /chesterfield/poundbakery/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Stuff Box"
 url: /great-yarmouth/the-stuff-box/
-shop: Allgemein
+shop: shop
 ---

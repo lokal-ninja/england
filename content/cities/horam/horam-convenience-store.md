@@ -1,5 +1,5 @@
 ---
 title: "Horam Convenience Store"
 url: /horam/horam-convenience-store/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SIMS Flooring"
 url: /thetford/sims-flooring/
-shop: Fußböden
+shop: flooring
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hanks"
 url: /london/hanks/
-shop: Instrumente
+shop: musical instrument
 ---

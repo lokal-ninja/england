@@ -1,5 +1,5 @@
 ---
 title: "Valentines"
 url: /whitstable/valentines/
-shop: Möbel
+shop: furniture
 ---

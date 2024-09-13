@@ -1,5 +1,5 @@
 ---
 title: "Perfect Parties"
 url: /leighton-buzzard/perfect-parties/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "anglo welsh waterway holidays"
 url: /bristol/anglo-welsh-waterway-holidays/
-shop: Reisebüro
+shop: travel agency
 ---

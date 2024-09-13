@@ -1,5 +1,5 @@
 ---
 title: "Johnsons"
 url: /ely/johnsons/
-shop: Wäscherei
+shop: laundry
 ---

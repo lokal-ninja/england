@@ -1,5 +1,5 @@
 ---
 title: "Affordable Wedding Company"
 url: /southampton/affordable-wedding-company/
-shop: Kleidung
+shop: clothes
 ---

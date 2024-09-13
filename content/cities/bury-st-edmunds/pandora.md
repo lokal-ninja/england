@@ -1,5 +1,5 @@
 ---
 title: "Pandora"
 url: /bury-st-edmunds/pandora/
-shop: Schmuck
+shop: jewelry
 ---

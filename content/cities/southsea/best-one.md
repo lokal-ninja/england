@@ -1,5 +1,5 @@
 ---
 title: "Best-one"
 url: /southsea/best-one/
-shop: Lebensmittel
+shop: convenience
 ---

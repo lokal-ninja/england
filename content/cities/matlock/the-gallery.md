@@ -1,5 +1,5 @@
 ---
 title: "The Gallery"
 url: /matlock/the-gallery/
-shop: Andenken
+shop: gift
 ---

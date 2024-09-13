@@ -1,5 +1,5 @@
 ---
 title: "Speedy Wheels and Tyres"
 url: /derby/speedy-wheels-and-tyres/
-shop: Reifen
+shop: tyres
 ---

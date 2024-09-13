@@ -1,5 +1,5 @@
 ---
 title: "Northwest Cosmetics"
 url: /manchester/northwest-cosmetics/
-shop: Großhandel
+shop: wholesale
 ---

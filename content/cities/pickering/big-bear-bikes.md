@@ -1,5 +1,5 @@
 ---
 title: "Big Bear Bikes"
 url: /pickering/big-bear-bikes/
-shop: Fahrrad
+shop: bicycle
 ---

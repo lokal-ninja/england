@@ -1,5 +1,5 @@
 ---
 title: "Kacuzi Hair Studio"
 url: /kendal/kacuzi-hair-studio/
-shop: Friseur
+shop: hairdresser
 ---

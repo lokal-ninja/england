@@ -1,5 +1,5 @@
 ---
 title: "StarPlan"
 url: /warrington/starplan/
-shop: Möbel
+shop: furniture
 ---

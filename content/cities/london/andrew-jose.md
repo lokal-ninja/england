@@ -1,5 +1,5 @@
 ---
 title: "Andrew Jose"
 url: /london/andrew-jose/
-shop: Friseur
+shop: hairdresser
 ---

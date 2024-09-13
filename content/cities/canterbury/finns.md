@@ -1,5 +1,5 @@
 ---
 title: "Finn's"
 url: /canterbury/finns/
-shop: Immobilien
+shop: estate agent
 ---

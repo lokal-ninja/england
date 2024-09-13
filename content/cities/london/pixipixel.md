@@ -1,5 +1,5 @@
 ---
 title: "Pixipixel"
 url: /london/pixipixel/
-shop: Mieten
+shop: storage rental
 ---

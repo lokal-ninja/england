@@ -1,5 +1,5 @@
 ---
 title: "The Nail Village"
 url: /birmingham/the-nail-village/
-shop: Kosmetik
+shop: beauty
 ---

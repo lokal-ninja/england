@@ -1,5 +1,5 @@
 ---
 title: "Kiln Craft"
 url: /wadebridge/kiln-craft/
-shop: Allgemein
+shop: shop
 ---

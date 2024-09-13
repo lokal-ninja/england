@@ -1,5 +1,5 @@
 ---
 title: "Kwik Save"
 url: /leicester/kwik-save/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ManKind"
 url: /sheffield/mankind/
-shop: Friseur
+shop: hairdresser
 ---

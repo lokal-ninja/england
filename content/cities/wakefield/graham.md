@@ -1,5 +1,5 @@
 ---
 title: "Graham"
 url: /wakefield/graham/
-shop: Baustoffe
+shop: trade
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ramsdens"
 url: /skelmersdale/ramsdens/
-shop: Leiher
+shop: pawnbroker
 ---

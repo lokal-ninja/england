@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /northampton/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

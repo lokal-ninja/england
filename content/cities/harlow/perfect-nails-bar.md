@@ -1,5 +1,5 @@
 ---
 title: "Perfect Nails Bar"
 url: /harlow/perfect-nails-bar/
-shop: Kosmetik
+shop: beauty
 ---

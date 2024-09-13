@@ -1,5 +1,5 @@
 ---
 title: "J.J.'s"
 url: /london/j-j-s/
-shop: Kleidung
+shop: clothes
 ---

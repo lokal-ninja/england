@@ -1,5 +1,5 @@
 ---
 title: "George Lesley Flowers"
 url: /swindon/george-lesley-flowers/
-shop: Blumen
+shop: florist
 ---

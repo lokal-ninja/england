@@ -1,5 +1,5 @@
 ---
 title: "The Body Shop"
 url: /walthamstow/the-body-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "claire's"
 url: /huddersfield/claires/
-shop: Modehaus
+shop: boutique
 ---

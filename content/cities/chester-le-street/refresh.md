@@ -1,5 +1,5 @@
 ---
 title: "Refresh"
 url: /chester-le-street/refresh/
-shop: Haushaltsartikel
+shop: houseware
 ---

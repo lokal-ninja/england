@@ -1,5 +1,5 @@
 ---
 title: "Golding"
 url: /newmarket/golding/
-shop: Kleidung
+shop: clothes
 ---

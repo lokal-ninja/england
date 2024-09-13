@@ -1,5 +1,5 @@
 ---
 title: "Jay's Fashion"
 url: /oldham/jays-fashion/
-shop: Kleidung
+shop: clothes
 ---

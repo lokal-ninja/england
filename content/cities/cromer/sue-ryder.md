@@ -1,5 +1,5 @@
 ---
 title: "Sue Ryder"
 url: /cromer/sue-ryder/
-shop: Gebrauchtwaren
+shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Original Bathrooms"
 url: /richmond/original-bathrooms/
-shop: Badezimmer
+shop: bathroom
 ---

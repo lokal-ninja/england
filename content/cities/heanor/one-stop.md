@@ -1,5 +1,5 @@
 ---
 title: "One Stop"
 url: /heanor/one-stop/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Doggy Bags"
 url: /sheringham/doggy-bags/
-shop: Taschen & Koffer
+shop: bag
 ---

@@ -1,5 +1,5 @@
 ---
 title: "All Sorts"
 url: /hartlepool/all-sorts/
-shop: Spirituosen
+shop: alcohol
 ---

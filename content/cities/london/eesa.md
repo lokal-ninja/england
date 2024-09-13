@@ -1,5 +1,5 @@
 ---
 title: "Eesa"
 url: /london/eesa/
-shop: Supermarkt
+shop: supermarket
 ---

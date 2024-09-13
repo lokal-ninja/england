@@ -1,5 +1,5 @@
 ---
 title: "The Lighthouse"
 url: /shrewsbury/the-lighthouse/
-shop: Lampen
+shop: lamps
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Premier Express"
 url: /bristol/premier-express/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "TUI"
 url: /warrington/tui/
-shop: Reisebüro
+shop: travel agency
 ---

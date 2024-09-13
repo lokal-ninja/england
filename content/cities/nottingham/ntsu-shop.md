@@ -1,5 +1,5 @@
 ---
 title: "NTSU Shop"
 url: /nottingham/ntsu-shop/
-shop: Lebensmittel
+shop: convenience
 ---

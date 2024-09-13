@@ -1,5 +1,5 @@
 ---
 title: "Ryans"
 url: /huddersfield/ryans/
-shop: Lebensmittel
+shop: convenience
 ---

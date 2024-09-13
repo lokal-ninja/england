@@ -1,5 +1,5 @@
 ---
 title: "Four Seasons"
 url: /clacton-on-sea/four-seasons/
-shop: Kramladen
+shop: variety store
 ---

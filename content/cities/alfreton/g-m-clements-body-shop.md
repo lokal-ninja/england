@@ -1,5 +1,5 @@
 ---
 title: "G.M. Clements Body Shop"
 url: /alfreton/g-m-clements-body-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Calvin Klein"
 url: /braintree/calvin-klein/
-shop: Kleidung
+shop: clothes
 ---

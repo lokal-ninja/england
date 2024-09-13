@@ -1,5 +1,5 @@
 ---
 title: "Converse"
 url: /ellesmere-port/converse/
-shop: Schuhe
+shop: shoes
 ---

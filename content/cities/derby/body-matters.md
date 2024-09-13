@@ -1,5 +1,5 @@
 ---
 title: "Body Matters"
 url: /derby/body-matters/
-shop: Kosmetik
+shop: beauty
 ---

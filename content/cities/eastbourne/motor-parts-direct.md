@@ -1,5 +1,5 @@
 ---
 title: "Motor Parts Direct"
 url: /eastbourne/motor-parts-direct/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Unbolted"
 url: /london/unbolted/
-shop: Leiher
+shop: pawnbroker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /wakefield/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

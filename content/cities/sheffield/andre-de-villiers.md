@@ -1,5 +1,5 @@
 ---
 title: "Andre De Villiers"
 url: /sheffield/andre-de-villiers/
-shop: Friseur
+shop: hairdresser
 ---

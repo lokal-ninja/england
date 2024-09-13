@@ -1,5 +1,5 @@
 ---
 title: "Mitch's Wheel Repairs"
 url: /derby/mitchs-wheel-repairs/
-shop: Autowerkstatt
+shop: car repair
 ---

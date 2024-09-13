@@ -1,5 +1,5 @@
 ---
 title: "Pound Planet"
 url: /margate/pound-planet/
-shop: Kramladen
+shop: variety store
 ---

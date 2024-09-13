@@ -1,5 +1,5 @@
 ---
 title: "Dreams"
 url: /spennymoor/dreams/
-shop: Möbel
+shop: furniture
 ---

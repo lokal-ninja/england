@@ -1,5 +1,5 @@
 ---
 title: "The Origin Arts"
 url: /loughborough/the-origin-arts/
-shop: Kunst
+shop: art
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ringroad Recue"
 url: /darlington/ringroad-recue/
-shop: Autowerkstatt
+shop: car repair
 ---

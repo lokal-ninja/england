@@ -1,5 +1,5 @@
 ---
 title: "Eggless Cake Shop"
 url: /derby/eggless-cake-shop/
-shop: Bäckerei
+shop: bakery
 ---

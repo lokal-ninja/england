@@ -1,5 +1,5 @@
 ---
 title: "Evans Halshaw"
 url: /nottingham/evans-halshaw/
-shop: Autohaus
+shop: car
 ---

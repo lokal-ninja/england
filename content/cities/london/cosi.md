@@ -1,5 +1,5 @@
 ---
 title: "Cosi"
 url: /london/cosi/
-shop: Raumausstattung
+shop: interior decoration
 ---

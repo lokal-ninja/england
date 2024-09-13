@@ -1,5 +1,5 @@
 ---
 title: "Equichoice"
 url: /spalding/equichoice/
-shop: Tiere
+shop: pet
 ---

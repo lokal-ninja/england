@@ -1,5 +1,5 @@
 ---
 title: "Radiance Lounge"
 url: /oldham/radiance-lounge/
-shop: Friseur
+shop: hairdresser
 ---

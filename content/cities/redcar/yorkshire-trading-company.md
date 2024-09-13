@@ -1,5 +1,5 @@
 ---
 title: "Yorkshire Trading Company"
 url: /redcar/yorkshire-trading-company/
-shop: Kramladen
+shop: variety store
 ---

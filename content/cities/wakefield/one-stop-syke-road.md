@@ -1,5 +1,5 @@
 ---
 title: "One Stop"
 url: /wakefield/one-stop-syke-road/
-shop: Lebensmittel
+shop: convenience
 ---

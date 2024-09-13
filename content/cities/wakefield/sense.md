@@ -1,5 +1,5 @@
 ---
 title: "Sense"
 url: /wakefield/sense/
-shop: Gebrauchtwaren
+shop: charity
 ---

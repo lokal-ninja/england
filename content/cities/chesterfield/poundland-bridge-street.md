@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /chesterfield/poundland-bridge-street/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dunelm"
 url: /worcester/dunelm/
-shop: Raumausstattung
+shop: interior decoration
 ---

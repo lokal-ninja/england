@@ -1,5 +1,5 @@
 ---
 title: "Bailey's"
 url: /crawley/baileys/
-shop: Zeitungen
+shop: newsagent
 ---

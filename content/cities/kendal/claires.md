@@ -1,5 +1,5 @@
 ---
 title: "claire's"
 url: /kendal/claires/
-shop: Modehaus
+shop: boutique
 ---

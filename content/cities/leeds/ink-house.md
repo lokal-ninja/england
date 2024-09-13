@@ -1,5 +1,5 @@
 ---
 title: "Ink House"
 url: /leeds/ink-house/
-shop: Tattoo
+shop: tattoo
 ---

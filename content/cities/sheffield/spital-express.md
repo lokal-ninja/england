@@ -1,5 +1,5 @@
 ---
 title: "Spital Express"
 url: /sheffield/spital-express/
-shop: Lebensmittel
+shop: convenience
 ---

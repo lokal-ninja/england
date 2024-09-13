@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /southport/poundland/
-shop: Kramladen
+shop: variety store
 ---

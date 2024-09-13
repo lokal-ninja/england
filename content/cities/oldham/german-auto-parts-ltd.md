@@ -1,5 +1,5 @@
 ---
 title: "German Auto Parts Ltd"
 url: /oldham/german-auto-parts-ltd/
-shop: Autoteile
+shop: car parts
 ---

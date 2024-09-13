@@ -1,5 +1,5 @@
 ---
 title: "techexpress"
 url: /braintree/techexpress/
-shop: Elektronik
+shop: electronics
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Zana"
 url: /london/zana/
-shop: Metzgerei
+shop: butcher
 ---

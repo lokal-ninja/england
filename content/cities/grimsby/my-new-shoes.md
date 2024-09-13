@@ -1,5 +1,5 @@
 ---
 title: "My New Shoes"
 url: /grimsby/my-new-shoes/
-shop: Schuhe
+shop: shoes
 ---

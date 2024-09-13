@@ -1,5 +1,5 @@
 ---
 title: "Designer Menswear"
 url: /walthamstow/designer-menswear/
-shop: Kleidung
+shop: clothes
 ---

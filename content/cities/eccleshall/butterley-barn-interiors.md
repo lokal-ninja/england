@@ -1,5 +1,5 @@
 ---
 title: "Butterley Barn Interiors"
 url: /eccleshall/butterley-barn-interiors/
-shop: Raumausstattung
+shop: interior decoration
 ---

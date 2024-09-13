@@ -1,5 +1,5 @@
 ---
 title: "Fat Face"
 url: /kirkby-lonsdale/fat-face/
-shop: Kleidung
+shop: clothes
 ---

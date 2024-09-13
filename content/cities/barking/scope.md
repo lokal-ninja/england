@@ -1,5 +1,5 @@
 ---
 title: "Scope"
 url: /barking/scope/
-shop: Gebrauchtwaren
+shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Langyu"
 url: /bristol/langyu/
-shop: Feinkost
+shop: deli
 ---

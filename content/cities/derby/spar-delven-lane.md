@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /derby/spar-delven-lane/
-shop: Lebensmittel
+shop: convenience
 ---

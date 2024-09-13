@@ -1,5 +1,5 @@
 ---
 title: "Babylicious"
 url: /hoylake/babylicious/
-shop: Babysachen
+shop: baby goods
 ---

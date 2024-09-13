@@ -1,5 +1,5 @@
 ---
 title: "Monroe's"
 url: /richmond/monroes/
-shop: Schmuck
+shop: jewelry
 ---

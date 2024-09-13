@@ -1,5 +1,5 @@
 ---
 title: "Tow-Win"
 url: /norwich/tow-win/
-shop: Autoteile
+shop: car parts
 ---

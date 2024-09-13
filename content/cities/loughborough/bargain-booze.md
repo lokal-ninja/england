@@ -1,5 +1,5 @@
 ---
 title: "Bargain Booze"
 url: /loughborough/bargain-booze/
-shop: Spirituosen
+shop: alcohol
 ---

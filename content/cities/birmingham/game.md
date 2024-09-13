@@ -1,5 +1,5 @@
 ---
 title: "Game"
 url: /birmingham/game/
-shop: Videospiele
+shop: video games
 ---

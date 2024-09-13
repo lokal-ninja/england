@@ -1,5 +1,5 @@
 ---
 title: "Complete Eyecare"
 url: /banbury/complete-eyecare/
-shop: Optiker
+shop: optician
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Penhaligon's"
 url: /leeds/penhaligons/
-shop: Parfümerie
+shop: perfumery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tonge Moor Barbers"
 url: /bolton/tonge-moor-barbers/
-shop: Friseur
+shop: hairdresser
 ---

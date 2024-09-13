@@ -1,5 +1,5 @@
 ---
 title: "TK Stores"
 url: /lowestoft/tk-stores/
-shop: Lebensmittel
+shop: convenience
 ---

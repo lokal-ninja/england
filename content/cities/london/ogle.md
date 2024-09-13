@@ -1,5 +1,5 @@
 ---
 title: "Ogle"
 url: /london/ogle/
-shop: Badezimmer
+shop: bathroom
 ---

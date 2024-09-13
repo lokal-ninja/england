@@ -1,5 +1,5 @@
 ---
 title: "Budgens"
 url: /sudbury/budgens/
-shop: Lebensmittel
+shop: convenience
 ---

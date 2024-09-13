@@ -1,5 +1,5 @@
 ---
 title: "KVS Superstore"
 url: /london/kvs-superstore/
-shop: Lebensmittel
+shop: convenience
 ---

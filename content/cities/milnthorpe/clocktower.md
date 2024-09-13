@@ -1,5 +1,5 @@
 ---
 title: "Clocktower"
 url: /milnthorpe/clocktower/
-shop: Elektronik
+shop: electronics
 ---

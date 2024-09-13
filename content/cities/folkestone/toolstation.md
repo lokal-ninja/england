@@ -1,5 +1,5 @@
 ---
 title: "Toolstation"
 url: /folkestone/toolstation/
-shop: Baumarkt
+shop: doityourself
 ---

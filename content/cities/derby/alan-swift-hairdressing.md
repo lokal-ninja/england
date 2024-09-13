@@ -1,5 +1,5 @@
 ---
 title: "Alan Swift Hairdressing"
 url: /derby/alan-swift-hairdressing/
-shop: Friseur
+shop: hairdresser
 ---

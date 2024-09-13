@@ -1,5 +1,5 @@
 ---
 title: "Farrants"
 url: /cobham/farrants/
-shop: Schreibwaren
+shop: office supplies
 ---

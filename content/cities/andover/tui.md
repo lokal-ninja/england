@@ -1,5 +1,5 @@
 ---
 title: "TUI"
 url: /andover/tui/
-shop: Reisebüro
+shop: travel agency
 ---

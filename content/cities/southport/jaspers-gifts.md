@@ -1,5 +1,5 @@
 ---
 title: "Jaspers Gifts"
 url: /southport/jaspers-gifts/
-shop: Andenken
+shop: gift
 ---

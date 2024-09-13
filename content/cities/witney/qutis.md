@@ -1,5 +1,5 @@
 ---
 title: "Qutis"
 url: /witney/qutis/
-shop: Kosmetik
+shop: beauty
 ---

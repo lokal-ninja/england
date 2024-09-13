@@ -1,5 +1,5 @@
 ---
 title: "Main Style"
 url: /chelmsford/main-style/
-shop: Friseur
+shop: hairdresser
 ---

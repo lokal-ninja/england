@@ -1,5 +1,5 @@
 ---
 title: "Cooplands"
 url: /redcar/cooplands/
-shop: Bäckerei
+shop: bakery
 ---

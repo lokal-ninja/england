@@ -1,5 +1,5 @@
 ---
 title: "LCM Automotive"
 url: /bristol/lcm-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

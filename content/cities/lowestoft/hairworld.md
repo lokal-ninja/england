@@ -1,5 +1,5 @@
 ---
 title: "HairWorld"
 url: /lowestoft/hairworld/
-shop: Friseur
+shop: hairdresser
 ---

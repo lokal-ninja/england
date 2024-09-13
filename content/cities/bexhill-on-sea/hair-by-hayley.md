@@ -1,5 +1,5 @@
 ---
 title: "Hair by Hayley"
 url: /bexhill-on-sea/hair-by-hayley/
-shop: Friseur
+shop: hairdresser
 ---

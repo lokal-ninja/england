@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /london/ladbrokes-colney-hatch-lane/
-shop: Wettbüro
+shop: bookmaker
 ---

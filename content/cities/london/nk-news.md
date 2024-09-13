@@ -1,5 +1,5 @@
 ---
 title: "NK News"
 url: /london/nk-news/
-shop: Lebensmittel
+shop: convenience
 ---

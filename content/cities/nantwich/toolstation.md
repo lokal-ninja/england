@@ -1,5 +1,5 @@
 ---
 title: "Toolstation"
 url: /nantwich/toolstation/
-shop: Baumarkt
+shop: doityourself
 ---

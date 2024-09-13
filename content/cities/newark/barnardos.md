@@ -1,5 +1,5 @@
 ---
 title: "Barnardo's"
 url: /newark/barnardos/
-shop: Gebrauchtwaren
+shop: charity
 ---

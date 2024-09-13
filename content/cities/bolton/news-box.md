@@ -1,5 +1,5 @@
 ---
 title: "News Box"
 url: /bolton/news-box/
-shop: Zeitungen
+shop: newsagent
 ---

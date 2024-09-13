@@ -1,5 +1,5 @@
 ---
 title: "Perkins Motor Accessories"
 url: /fordingbridge/perkins-motor-accessories/
-shop: Autoteile
+shop: car parts
 ---

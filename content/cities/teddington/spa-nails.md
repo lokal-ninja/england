@@ -1,5 +1,5 @@
 ---
 title: "Spa Nails"
 url: /teddington/spa-nails/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Olivers Plants"
 url: /colchester/olivers-plants/
-shop: Garten-Center
+shop: garden centre
 ---

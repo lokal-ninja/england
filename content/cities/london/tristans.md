@@ -1,5 +1,5 @@
 ---
 title: "Tristan's"
 url: /london/tristans/
-shop: Kosmetik
+shop: beauty
 ---

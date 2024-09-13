@@ -1,5 +1,5 @@
 ---
 title: "TUI"
 url: /torquay/tui/
-shop: Reisebüro
+shop: travel agency
 ---

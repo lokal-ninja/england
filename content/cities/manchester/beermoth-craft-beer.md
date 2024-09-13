@@ -1,5 +1,5 @@
 ---
 title: "Beermoth Craft Beer"
 url: /manchester/beermoth-craft-beer/
-shop: Spirituosen
+shop: alcohol
 ---

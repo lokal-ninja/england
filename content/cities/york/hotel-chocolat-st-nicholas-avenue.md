@@ -1,5 +1,5 @@
 ---
 title: "Hotel Chocolat"
 url: /york/hotel-chocolat-st-nicholas-avenue/
-shop: Süßwaren
+shop: confectionery
 ---

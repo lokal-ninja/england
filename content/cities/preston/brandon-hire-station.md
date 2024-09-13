@@ -1,5 +1,5 @@
 ---
 title: "Brandon Hire Station"
 url: /preston/brandon-hire-station/
-shop: Werkzeuge
+shop: tools
 ---

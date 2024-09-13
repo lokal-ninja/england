@@ -1,5 +1,5 @@
 ---
 title: "Superdrug"
 url: /east-grinstead/superdrug/
-shop: Drogerie
+shop: chemist
 ---

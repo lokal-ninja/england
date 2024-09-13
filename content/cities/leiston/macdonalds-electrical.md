@@ -1,5 +1,5 @@
 ---
 title: "Macdonald's Electrical"
 url: /leiston/macdonalds-electrical/
-shop: Elektronik
+shop: electronics
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Damaged Society"
 url: /derby/damaged-society/
-shop: Kleidung
+shop: clothes
 ---

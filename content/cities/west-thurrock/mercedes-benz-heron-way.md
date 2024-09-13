@@ -1,5 +1,5 @@
 ---
 title: "Mercedes-Benz"
 url: /west-thurrock/mercedes-benz-heron-way/
-shop: Autohaus
+shop: car
 ---

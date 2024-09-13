@@ -1,5 +1,5 @@
 ---
 title: "Refill"
 url: /chelmsford/refill/
-shop: Kosmetik
+shop: beauty
 ---

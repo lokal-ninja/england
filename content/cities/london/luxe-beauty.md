@@ -1,5 +1,5 @@
 ---
 title: "Luxe Beauty"
 url: /london/luxe-beauty/
-shop: Kosmetik
+shop: beauty
 ---

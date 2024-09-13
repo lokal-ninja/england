@@ -1,5 +1,5 @@
 ---
 title: "LLoyds Mini"
 url: /cockermouth/lloyds-mini/
-shop: Autohaus
+shop: car
 ---

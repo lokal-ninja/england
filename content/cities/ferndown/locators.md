@@ -1,5 +1,5 @@
 ---
 title: "Locators"
 url: /ferndown/locators/
-shop: Maschinen
+shop: machinery
 ---

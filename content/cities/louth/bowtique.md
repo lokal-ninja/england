@@ -1,5 +1,5 @@
 ---
 title: "Bowtique"
 url: /louth/bowtique/
-shop: Kosmetik
+shop: beauty
 ---

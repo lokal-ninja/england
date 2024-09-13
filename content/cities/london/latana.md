@@ -1,5 +1,5 @@
 ---
 title: "Latana"
 url: /london/latana/
-shop: Immobilien
+shop: estate agent
 ---

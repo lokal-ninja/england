@@ -1,5 +1,5 @@
 ---
 title: "Granada Dry Cleaners"
 url: /manchester/granada-dry-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

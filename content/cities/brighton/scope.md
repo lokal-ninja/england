@@ -1,5 +1,5 @@
 ---
 title: "Scope"
 url: /brighton/scope/
-shop: Gebrauchtwaren
+shop: charity
 ---

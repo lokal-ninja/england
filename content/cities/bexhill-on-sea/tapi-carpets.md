@@ -1,5 +1,5 @@
 ---
 title: "Tapi Carpets"
 url: /bexhill-on-sea/tapi-carpets/
-shop: Teppiche
+shop: carpet
 ---

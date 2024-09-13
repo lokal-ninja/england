@@ -1,5 +1,5 @@
 ---
 title: "CLIC Sargent"
 url: /bristol/clic-sargent/
-shop: Gebrauchtwaren
+shop: charity
 ---

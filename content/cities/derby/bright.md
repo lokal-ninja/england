@@ -1,5 +1,5 @@
 ---
 title: "Bright"
 url: /derby/bright/
-shop: Wäscherei
+shop: laundry
 ---

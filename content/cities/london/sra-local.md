@@ -1,5 +1,5 @@
 ---
 title: "SRA Local"
 url: /london/sra-local/
-shop: Lebensmittel
+shop: convenience
 ---

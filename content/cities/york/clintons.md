@@ -1,5 +1,5 @@
 ---
 title: "Clintons"
 url: /york/clintons/
-shop: Andenken
+shop: gift
 ---

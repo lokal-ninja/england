@@ -1,5 +1,5 @@
 ---
 title: "Heroes"
 url: /newport/heroes/
-shop: Spiele
+shop: games
 ---

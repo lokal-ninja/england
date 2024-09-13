@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /chester/spar-green-lane/
-shop: Lebensmittel
+shop: convenience
 ---

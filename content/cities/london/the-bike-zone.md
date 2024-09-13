@@ -1,5 +1,5 @@
 ---
 title: "The Bike Zone"
 url: /london/the-bike-zone/
-shop: Fahrrad
+shop: bicycle
 ---

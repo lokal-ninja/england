@@ -1,5 +1,5 @@
 ---
 title: "One Stop"
 url: /colchester/one-stop-plume-avenue/
-shop: Lebensmittel
+shop: convenience
 ---

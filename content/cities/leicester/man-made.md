@@ -1,5 +1,5 @@
 ---
 title: "Man Made"
 url: /leicester/man-made/
-shop: Friseur
+shop: hairdresser
 ---

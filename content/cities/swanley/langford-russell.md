@@ -1,5 +1,5 @@
 ---
 title: "Langford Russell"
 url: /swanley/langford-russell/
-shop: Immobilien
+shop: estate agent
 ---

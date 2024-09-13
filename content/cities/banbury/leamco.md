@@ -1,5 +1,5 @@
 ---
 title: "Leamco"
 url: /banbury/leamco/
-shop: Autoteile
+shop: car parts
 ---

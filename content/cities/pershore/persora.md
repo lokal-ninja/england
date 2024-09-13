@@ -1,5 +1,5 @@
 ---
 title: "Persora"
 url: /pershore/persora/
-shop: Andenken
+shop: gift
 ---

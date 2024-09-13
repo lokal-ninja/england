@@ -1,5 +1,5 @@
 ---
 title: "Ferne Animal Sanctuary"
 url: /honiton/ferne-animal-sanctuary/
-shop: Gebrauchtwaren
+shop: charity
 ---

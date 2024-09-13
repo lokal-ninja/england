@@ -1,5 +1,5 @@
 ---
 title: "James Street Hairdressers"
 url: /cambridge/james-street-hairdressers/
-shop: Friseur
+shop: hairdresser
 ---

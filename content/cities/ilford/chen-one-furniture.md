@@ -1,5 +1,5 @@
 ---
 title: "Chen One Furniture"
 url: /ilford/chen-one-furniture/
-shop: Möbel
+shop: furniture
 ---

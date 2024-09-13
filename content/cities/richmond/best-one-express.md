@@ -1,5 +1,5 @@
 ---
 title: "Best-one Express"
 url: /richmond/best-one-express/
-shop: Lebensmittel
+shop: convenience
 ---

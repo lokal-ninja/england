@@ -1,5 +1,5 @@
 ---
 title: "Norfolk Hospice"
 url: /kings-lynn/norfolk-hospice/
-shop: Gebrauchtwaren
+shop: charity
 ---

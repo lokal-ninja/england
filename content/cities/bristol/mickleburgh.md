@@ -1,5 +1,5 @@
 ---
 title: "Mickleburgh"
 url: /bristol/mickleburgh/
-shop: Instrumente
+shop: musical instrument
 ---

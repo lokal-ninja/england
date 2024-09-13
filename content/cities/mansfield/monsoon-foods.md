@@ -1,5 +1,5 @@
 ---
 title: "Monsoon Foods"
 url: /mansfield/monsoon-foods/
-shop: Lebensmittel
+shop: convenience
 ---

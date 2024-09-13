@@ -1,5 +1,5 @@
 ---
 title: "Self.Westhoughton"
 url: /bolton/self-westhoughton/
-shop: Kaffee
+shop: coffee
 ---

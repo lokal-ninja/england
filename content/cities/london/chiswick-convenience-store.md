@@ -1,5 +1,5 @@
 ---
 title: "Chiswick Convenience Store"
 url: /london/chiswick-convenience-store/
-shop: Lebensmittel
+shop: convenience
 ---

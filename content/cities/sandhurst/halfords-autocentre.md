@@ -1,5 +1,5 @@
 ---
 title: "Halfords Autocentre"
 url: /sandhurst/halfords-autocentre/
-shop: Autowerkstatt
+shop: car repair
 ---

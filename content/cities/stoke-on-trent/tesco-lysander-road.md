@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /stoke-on-trent/tesco-lysander-road/
-shop: Supermarkt
+shop: supermarket
 ---

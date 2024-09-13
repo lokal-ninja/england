@@ -1,5 +1,5 @@
 ---
 title: "Cellphones"
 url: /cheltenham/cellphones/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /beverley/spar/
-shop: Lebensmittel
+shop: convenience
 ---

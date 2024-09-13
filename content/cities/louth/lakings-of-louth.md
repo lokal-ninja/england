@@ -1,5 +1,5 @@
 ---
 title: "Lakings of Louth"
 url: /louth/lakings-of-louth/
-shop: Metzgerei
+shop: butcher
 ---

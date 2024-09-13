@@ -1,5 +1,5 @@
 ---
 title: "Homebase"
 url: /maidstone/homebase/
-shop: Baumarkt
+shop: doityourself
 ---

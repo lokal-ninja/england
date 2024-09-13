@@ -1,5 +1,5 @@
 ---
 title: "SPAR"
 url: /corpusty/spar/
-shop: Lebensmittel
+shop: convenience
 ---

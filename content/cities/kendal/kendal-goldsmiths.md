@@ -1,5 +1,5 @@
 ---
 title: "Kendal Goldsmiths"
 url: /kendal/kendal-goldsmiths/
-shop: Schmuck
+shop: jewelry
 ---

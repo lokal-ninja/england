@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /falmouth/poundland/
-shop: Kramladen
+shop: variety store
 ---

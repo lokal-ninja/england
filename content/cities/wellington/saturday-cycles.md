@@ -1,5 +1,5 @@
 ---
 title: "Saturday Cycles"
 url: /wellington/saturday-cycles/
-shop: Fahrrad
+shop: bicycle
 ---

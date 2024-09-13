@@ -1,5 +1,5 @@
 ---
 title: "HMV"
 url: /coventry/hmv/
-shop: Musik
+shop: music
 ---

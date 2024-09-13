@@ -1,5 +1,5 @@
 ---
 title: "Hi-lites"
 url: /southsea/hi-lites/
-shop: Friseur
+shop: hairdresser
 ---

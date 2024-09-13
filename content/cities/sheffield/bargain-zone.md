@@ -1,5 +1,5 @@
 ---
 title: "Bargain Zone"
 url: /sheffield/bargain-zone/
-shop: Kramladen
+shop: variety store
 ---

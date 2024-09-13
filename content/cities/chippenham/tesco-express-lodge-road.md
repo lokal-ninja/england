@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /chippenham/tesco-express-lodge-road/
-shop: Lebensmittel
+shop: convenience
 ---

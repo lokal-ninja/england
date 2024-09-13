@@ -1,5 +1,5 @@
 ---
 title: "Allbits Plumbing Supplies"
 url: /new-romney/allbits-plumbing-supplies/
-shop: Baustoffe
+shop: trade
 ---

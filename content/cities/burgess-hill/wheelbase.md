@@ -1,5 +1,5 @@
 ---
 title: "Wheelbase"
 url: /burgess-hill/wheelbase/
-shop: Autowerkstatt
+shop: car repair
 ---

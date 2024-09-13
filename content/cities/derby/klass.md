@@ -1,5 +1,5 @@
 ---
 title: "Klass"
 url: /derby/klass/
-shop: Friseur
+shop: hairdresser
 ---

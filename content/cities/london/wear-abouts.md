@@ -1,5 +1,5 @@
 ---
 title: "Wear Abouts"
 url: /london/wear-abouts/
-shop: Kleidung
+shop: clothes
 ---

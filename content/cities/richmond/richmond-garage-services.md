@@ -1,5 +1,5 @@
 ---
 title: "Richmond Garage Services"
 url: /richmond/richmond-garage-services/
-shop: Autowerkstatt
+shop: car repair
 ---

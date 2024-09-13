@@ -1,5 +1,5 @@
 ---
 title: "Iphones Repairs"
 url: /nottingham/iphones-repairs/
-shop: Elektronik
+shop: electronics
 ---

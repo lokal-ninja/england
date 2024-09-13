@@ -1,5 +1,5 @@
 ---
 title: "Haskins"
 url: /swindon/haskins/
-shop: Autowerkstatt
+shop: car repair
 ---

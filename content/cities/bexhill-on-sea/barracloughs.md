@@ -1,5 +1,5 @@
 ---
 title: "Barracloughs"
 url: /bexhill-on-sea/barracloughs/
-shop: Optiker
+shop: optician
 ---

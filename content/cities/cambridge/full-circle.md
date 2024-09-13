@@ -1,5 +1,5 @@
 ---
 title: "Full Circle"
 url: /cambridge/full-circle/
-shop: Lebensmittel
+shop: convenience
 ---

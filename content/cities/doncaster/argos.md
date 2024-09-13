@@ -1,5 +1,5 @@
 ---
 title: "Argos"
 url: /doncaster/argos/
-shop: Katalog
+shop: catalogue
 ---

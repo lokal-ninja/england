@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /kendal/ladbrokes/
-shop: Wettbüro
+shop: bookmaker
 ---

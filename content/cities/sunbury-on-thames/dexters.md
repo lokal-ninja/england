@@ -1,5 +1,5 @@
 ---
 title: "Dexters"
 url: /sunbury-on-thames/dexters/
-shop: Immobilien
+shop: estate agent
 ---

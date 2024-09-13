@@ -1,5 +1,5 @@
 ---
 title: "Imagitec"
 url: /lydney/imagitec/
-shop: Computer
+shop: computer
 ---

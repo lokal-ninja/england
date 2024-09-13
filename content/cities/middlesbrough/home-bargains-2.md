@@ -1,5 +1,5 @@
 ---
 title: "Home Bargains"
 url: /middlesbrough/home-bargains-2/
-shop: Kramladen
+shop: variety store
 ---

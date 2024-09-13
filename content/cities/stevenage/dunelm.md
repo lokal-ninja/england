@@ -1,5 +1,5 @@
 ---
 title: "Dunelm"
 url: /stevenage/dunelm/
-shop: Raumausstattung
+shop: interior decoration
 ---

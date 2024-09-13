@@ -1,5 +1,5 @@
 ---
 title: "Needlecraft"
 url: /wymondham/needlecraft/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "TUI"
 url: /widnes/tui/
-shop: Reisebüro
+shop: travel agency
 ---

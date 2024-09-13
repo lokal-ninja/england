@@ -1,5 +1,5 @@
 ---
 title: "Total Bounce"
 url: /weston-super-mare/total-bounce/
-shop: Mieten
+shop: storage rental
 ---

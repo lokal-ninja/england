@@ -1,5 +1,5 @@
 ---
 title: "Sofas4Less"
 url: /castleford/sofas4less/
-shop: Möbel
+shop: furniture
 ---

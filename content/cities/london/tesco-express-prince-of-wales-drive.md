@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /london/tesco-express-prince-of-wales-drive/
-shop: Lebensmittel
+shop: convenience
 ---

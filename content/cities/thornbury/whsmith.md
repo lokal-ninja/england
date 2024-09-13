@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /thornbury/whsmith/
-shop: Zeitungen
+shop: newsagent
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cornucopia"
 url: /weymouth/cornucopia/
-shop: Antiquitäten
+shop: antiques
 ---

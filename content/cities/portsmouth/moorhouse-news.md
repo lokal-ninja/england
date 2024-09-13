@@ -1,5 +1,5 @@
 ---
 title: "Moorhouse News"
 url: /portsmouth/moorhouse-news/
-shop: Lebensmittel
+shop: convenience
 ---

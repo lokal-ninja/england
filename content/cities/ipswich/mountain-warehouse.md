@@ -1,5 +1,5 @@
 ---
 title: "Mountain Warehouse"
 url: /ipswich/mountain-warehouse/
-shop: Outdoor
+shop: outdoor
 ---

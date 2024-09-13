@@ -1,5 +1,5 @@
 ---
 title: "Quickstart Garage"
 url: /newcastle-upon-tyne/quickstart-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

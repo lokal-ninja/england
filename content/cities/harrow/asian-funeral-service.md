@@ -1,5 +1,5 @@
 ---
 title: "Asian Funeral Service"
 url: /harrow/asian-funeral-service/
-shop: Bestattungen
+shop: funeral directors
 ---

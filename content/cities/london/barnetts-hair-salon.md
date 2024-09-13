@@ -1,5 +1,5 @@
 ---
 title: "Barnetts Hair Salon"
 url: /london/barnetts-hair-salon/
-shop: Friseur
+shop: hairdresser
 ---

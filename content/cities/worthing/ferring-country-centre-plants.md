@@ -1,5 +1,5 @@
 ---
 title: "Ferring Country Centre Plants"
 url: /worthing/ferring-country-centre-plants/
-shop: Garten-Center
+shop: garden centre
 ---

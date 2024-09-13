@@ -1,5 +1,5 @@
 ---
 title: "Best Bargain"
 url: /manchester/best-bargain/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "EE"
 url: /batley/ee/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sheffield Photographic Centre"
 url: /sheffield/sheffield-photographic-centre/
-shop: Foto
+shop: photo
 ---

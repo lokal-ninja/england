@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /crewe/londis/
-shop: Lebensmittel
+shop: convenience
 ---

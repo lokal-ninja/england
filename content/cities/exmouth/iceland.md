@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /exmouth/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

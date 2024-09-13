@@ -1,5 +1,5 @@
 ---
 title: "Wensum DIY"
 url: /norwich/wensum-diy/
-shop: Baumarkt
+shop: doityourself
 ---

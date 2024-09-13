@@ -1,5 +1,5 @@
 ---
 title: "Clean Stitch"
 url: /east-grinstead/clean-stitch/
-shop: Schneiderei
+shop: tailor
 ---

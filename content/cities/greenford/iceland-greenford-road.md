@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /greenford/iceland-greenford-road/
-shop: Supermarkt
+shop: supermarket
 ---

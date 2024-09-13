@@ -1,5 +1,5 @@
 ---
 title: "Thomas's Cycle Revolution"
 url: /ipswich/thomass-cycle-revolution/
-shop: Fahrrad
+shop: bicycle
 ---

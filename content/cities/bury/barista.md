@@ -1,5 +1,5 @@
 ---
 title: "Barista"
 url: /bury/barista/
-shop: Kaffee
+shop: coffee
 ---

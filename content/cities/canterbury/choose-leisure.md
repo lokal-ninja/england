@@ -1,5 +1,5 @@
 ---
 title: "Choose Leisure"
 url: /canterbury/choose-leisure/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /petersfield/poundland/
-shop: Kramladen
+shop: variety store
 ---

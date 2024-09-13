@@ -1,5 +1,5 @@
 ---
 title: "The Food Warehouse"
 url: /sittingbourne/the-food-warehouse/
-shop: Supermarkt
+shop: supermarket
 ---

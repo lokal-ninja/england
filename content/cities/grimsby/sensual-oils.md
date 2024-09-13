@@ -1,5 +1,5 @@
 ---
 title: "Sensual Oils"
 url: /grimsby/sensual-oils/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Jewelry Bench"
 url: /southport/the-jewelry-bench/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "White Rose"
 url: /derby/white-rose/
-shop: Kleidung
+shop: clothes
 ---

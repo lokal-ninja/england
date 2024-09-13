@@ -1,5 +1,5 @@
 ---
 title: "Stuart Wiltshire Glass"
 url: /weymouth/stuart-wiltshire-glass/
-shop: Allgemein
+shop: shop
 ---

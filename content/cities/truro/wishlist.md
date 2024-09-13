@@ -1,5 +1,5 @@
 ---
 title: "Wishlist"
 url: /truro/wishlist/
-shop: Haushaltsartikel
+shop: houseware
 ---

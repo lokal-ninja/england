@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /southsea/spar-devonshire-avenue/
-shop: Lebensmittel
+shop: convenience
 ---

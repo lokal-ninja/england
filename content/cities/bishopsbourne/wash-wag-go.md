@@ -1,5 +1,5 @@
 ---
 title: "Wash Wag Go"
 url: /bishopsbourne/wash-wag-go/
-shop: Tiersalon
+shop: pet grooming
 ---

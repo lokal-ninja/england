@@ -1,5 +1,5 @@
 ---
 title: "First Choice Travel"
 url: /preston/first-choice-travel/
-shop: Reisebüro
+shop: travel agency
 ---

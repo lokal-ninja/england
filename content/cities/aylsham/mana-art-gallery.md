@@ -1,5 +1,5 @@
 ---
 title: "Maná Art Gallery"
 url: /aylsham/mana-art-gallery/
-shop: Kunst
+shop: art
 ---

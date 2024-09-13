@@ -1,5 +1,5 @@
 ---
 title: "Beaverbrooks"
 url: /grays/beaverbrooks/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shipping To China"
 url: /manchester/shipping-to-china/
-shop: Großhandel
+shop: wholesale
 ---

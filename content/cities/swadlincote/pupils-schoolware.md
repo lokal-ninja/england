@@ -1,5 +1,5 @@
 ---
 title: "Pupils Schoolware"
 url: /swadlincote/pupils-schoolware/
-shop: Kleidung
+shop: clothes
 ---

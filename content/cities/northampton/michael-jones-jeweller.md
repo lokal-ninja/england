@@ -1,5 +1,5 @@
 ---
 title: "Michael Jones Jeweller"
 url: /northampton/michael-jones-jeweller/
-shop: Schmuck
+shop: jewelry
 ---

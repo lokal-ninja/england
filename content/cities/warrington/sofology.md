@@ -1,5 +1,5 @@
 ---
 title: "Sofology"
 url: /warrington/sofology/
-shop: Möbel
+shop: furniture
 ---

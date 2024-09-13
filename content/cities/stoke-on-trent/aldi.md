@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /stoke-on-trent/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

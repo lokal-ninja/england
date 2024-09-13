@@ -1,5 +1,5 @@
 ---
 title: "F.Hinds"
 url: /gosport/f-hinds/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Alma Bella Beauty"
 url: /bishop-auckland/alma-bella-beauty/
-shop: Kosmetik
+shop: beauty
 ---

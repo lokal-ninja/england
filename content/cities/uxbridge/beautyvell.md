@@ -1,5 +1,5 @@
 ---
 title: "Beautyvell"
 url: /uxbridge/beautyvell/
-shop: Kosmetik
+shop: beauty
 ---

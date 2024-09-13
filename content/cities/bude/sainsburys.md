@@ -1,5 +1,5 @@
 ---
 title: "Sainsbury's"
 url: /bude/sainsburys/
-shop: Supermarkt
+shop: supermarket
 ---

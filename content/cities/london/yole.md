@@ -1,5 +1,5 @@
 ---
 title: "Yolé"
 url: /london/yole/
-shop: Eisprodukte
+shop: ice cream
 ---

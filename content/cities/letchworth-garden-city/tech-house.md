@@ -1,5 +1,5 @@
 ---
 title: "Tech House"
 url: /letchworth-garden-city/tech-house/
-shop: Elektronik
+shop: electronics
 ---

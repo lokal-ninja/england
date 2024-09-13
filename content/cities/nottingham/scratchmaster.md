@@ -1,5 +1,5 @@
 ---
 title: "Scratchmaster"
 url: /nottingham/scratchmaster/
-shop: Autowerkstatt
+shop: car repair
 ---

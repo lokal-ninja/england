@@ -1,5 +1,5 @@
 ---
 title: "Waitrose"
 url: /truro/waitrose/
-shop: Supermarkt
+shop: supermarket
 ---

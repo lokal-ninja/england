@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /pontefract/betfred/
-shop: Wettbüro
+shop: bookmaker
 ---

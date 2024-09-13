@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /waterlooville/betfred/
-shop: Wettbüro
+shop: bookmaker
 ---

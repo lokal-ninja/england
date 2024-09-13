@@ -1,5 +1,5 @@
 ---
 title: "Shop Indie"
 url: /chesterfield/shop-indie/
-shop: Andenken
+shop: gift
 ---

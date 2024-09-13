@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /driffield/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

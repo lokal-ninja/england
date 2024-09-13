@@ -1,5 +1,5 @@
 ---
 title: "Jayley"
 url: /stoke-on-trent/jayley/
-shop: Kleidung
+shop: clothes
 ---

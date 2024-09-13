@@ -1,5 +1,5 @@
 ---
 title: "Beaujolais"
 url: /bristol/beaujolais/
-shop: Friseur
+shop: hairdresser
 ---

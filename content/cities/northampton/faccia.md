@@ -1,5 +1,5 @@
 ---
 title: "Faccia"
 url: /northampton/faccia/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Fade"
 url: /horsham/the-fade/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mattressman"
 url: /norwich/mattressman/
-shop: Betten
+shop: bed
 ---

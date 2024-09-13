@@ -1,5 +1,5 @@
 ---
 title: "Conran Carpets"
 url: /bristol/conran-carpets/
-shop: Teppiche
+shop: carpet
 ---

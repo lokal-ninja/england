@@ -1,5 +1,5 @@
 ---
 title: "Cirencester Motor Company"
 url: /cirencester/cirencester-motor-company/
-shop: Autowerkstatt
+shop: car repair
 ---

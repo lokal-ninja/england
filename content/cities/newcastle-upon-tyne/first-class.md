@@ -1,5 +1,5 @@
 ---
 title: "First Class"
 url: /newcastle-upon-tyne/first-class/
-shop: Friseur
+shop: hairdresser
 ---

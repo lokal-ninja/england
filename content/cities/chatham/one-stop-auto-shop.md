@@ -1,5 +1,5 @@
 ---
 title: "One Stop Auto Shop"
 url: /chatham/one-stop-auto-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

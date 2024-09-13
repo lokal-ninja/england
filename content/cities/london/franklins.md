@@ -1,5 +1,5 @@
 ---
 title: "Franklins"
 url: /london/franklins/
-shop: Supermarkt
+shop: supermarket
 ---

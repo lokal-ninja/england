@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /plymouth/coral/
-shop: Wettbüro
+shop: bookmaker
 ---

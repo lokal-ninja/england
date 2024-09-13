@@ -1,5 +1,5 @@
 ---
 title: "Morrisons Daily"
 url: /cheltenham/morrisons-daily-edinburgh-place/
-shop: Lebensmittel
+shop: convenience
 ---

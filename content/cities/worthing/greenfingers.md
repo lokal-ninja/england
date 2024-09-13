@@ -1,5 +1,5 @@
 ---
 title: "Greenfingers"
 url: /worthing/greenfingers/
-shop: Blumen
+shop: florist
 ---

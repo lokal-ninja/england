@@ -1,5 +1,5 @@
 ---
 title: "Westcombe Hill News"
 url: /london/westcombe-hill-news/
-shop: Zeitungen
+shop: newsagent
 ---

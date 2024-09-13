@@ -1,5 +1,5 @@
 ---
 title: "KERB"
 url: /manchester/kerb/
-shop: Wein
+shop: wine
 ---

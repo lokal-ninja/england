@@ -1,5 +1,5 @@
 ---
 title: "The Sweet Emporium"
 url: /spalding/the-sweet-emporium/
-shop: Süßwaren
+shop: confectionery
 ---

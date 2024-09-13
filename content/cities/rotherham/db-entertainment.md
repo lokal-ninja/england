@@ -1,5 +1,5 @@
 ---
 title: "DB Entertainment"
 url: /rotherham/db-entertainment/
-shop: Mieten
+shop: storage rental
 ---

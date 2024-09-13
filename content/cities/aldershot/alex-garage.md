@@ -1,5 +1,5 @@
 ---
 title: "Alex Garage"
 url: /aldershot/alex-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Brighton Silver"
 url: /brighton/brighton-silver/
-shop: Schmuck
+shop: jewelry
 ---

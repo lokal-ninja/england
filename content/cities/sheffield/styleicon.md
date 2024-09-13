@@ -1,5 +1,5 @@
 ---
 title: "Styleicon"
 url: /sheffield/styleicon/
-shop: Friseur
+shop: hairdresser
 ---

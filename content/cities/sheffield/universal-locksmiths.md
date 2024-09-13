@@ -1,5 +1,5 @@
 ---
 title: "Universal Locksmiths"
 url: /sheffield/universal-locksmiths/
-shop: Schlüsseldienst
+shop: locksmith
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bucovina"
 url: /leeds/bucovina/
-shop: Lebensmittel
+shop: convenience
 ---

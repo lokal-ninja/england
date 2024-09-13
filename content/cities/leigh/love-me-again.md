@@ -1,5 +1,5 @@
 ---
 title: "Love Me Again"
 url: /leigh/love-me-again/
-shop: Kleidung
+shop: clothes
 ---

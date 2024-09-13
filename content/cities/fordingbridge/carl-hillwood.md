@@ -1,5 +1,5 @@
 ---
 title: "Carl Hillwood"
 url: /fordingbridge/carl-hillwood/
-shop: Friseur
+shop: hairdresser
 ---

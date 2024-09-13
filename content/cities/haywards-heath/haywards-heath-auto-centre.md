@@ -1,5 +1,5 @@
 ---
 title: "Haywards Heath Auto Centre"
 url: /haywards-heath/haywards-heath-auto-centre/
-shop: Autowerkstatt
+shop: car repair
 ---

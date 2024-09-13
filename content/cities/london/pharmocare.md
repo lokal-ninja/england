@@ -1,5 +1,5 @@
 ---
 title: "Pharmocare"
 url: /london/pharmocare/
-shop: Drogerie
+shop: chemist
 ---

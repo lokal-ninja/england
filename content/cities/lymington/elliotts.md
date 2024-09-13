@@ -1,5 +1,5 @@
 ---
 title: "Elliotts"
 url: /lymington/elliotts/
-shop: Warenhaus
+shop: department store
 ---

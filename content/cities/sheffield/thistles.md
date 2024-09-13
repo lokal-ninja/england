@@ -1,5 +1,5 @@
 ---
 title: "Thistles"
 url: /sheffield/thistles/
-shop: Blumen
+shop: florist
 ---

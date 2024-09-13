@@ -1,5 +1,5 @@
 ---
 title: "New Era"
 url: /london/new-era/
-shop: Kleidung
+shop: clothes
 ---

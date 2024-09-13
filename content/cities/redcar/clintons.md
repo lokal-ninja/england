@@ -1,5 +1,5 @@
 ---
 title: "Clintons"
 url: /redcar/clintons/
-shop: Andenken
+shop: gift
 ---

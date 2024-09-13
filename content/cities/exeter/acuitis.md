@@ -1,5 +1,5 @@
 ---
 title: "Acuitis"
 url: /exeter/acuitis/
-shop: Optiker
+shop: optician
 ---

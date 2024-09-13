@@ -1,5 +1,5 @@
 ---
 title: "Ashleigh"
 url: /romsey/ashleigh/
-shop: Optiker
+shop: optician
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Value"
 url: /mansfield/value/
-shop: Lebensmittel
+shop: convenience
 ---

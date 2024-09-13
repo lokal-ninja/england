@@ -1,5 +1,5 @@
 ---
 title: "Dicksons"
 url: /pelaw/dicksons/
-shop: Metzgerei
+shop: butcher
 ---

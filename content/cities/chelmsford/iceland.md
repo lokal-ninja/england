@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /chelmsford/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cartmel Barbers"
 url: /preston/cartmel-barbers/
-shop: Friseur
+shop: hairdresser
 ---

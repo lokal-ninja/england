@@ -1,5 +1,5 @@
 ---
 title: "Select Security Solutions"
 url: /yate/select-security-solutions/
-shop: Allgemein
+shop: shop
 ---

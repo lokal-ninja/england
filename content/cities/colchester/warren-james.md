@@ -1,5 +1,5 @@
 ---
 title: "Warren James"
 url: /colchester/warren-james/
-shop: Schmuck
+shop: jewelry
 ---

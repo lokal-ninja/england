@@ -1,5 +1,5 @@
 ---
 title: "Totally Wicked"
 url: /new-romney/totally-wicked/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Willowpool Nurseries and Reclamation Centre"
 url: /warrington/willowpool-nurseries-and-reclamation-centre/
-shop: Garten-Center
+shop: garden centre
 ---

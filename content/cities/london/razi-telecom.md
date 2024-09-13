@@ -1,5 +1,5 @@
 ---
 title: "Razi Telecom"
 url: /london/razi-telecom/
-shop: Handy
+shop: mobile phone
 ---

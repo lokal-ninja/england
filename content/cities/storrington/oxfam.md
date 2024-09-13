@@ -1,5 +1,5 @@
 ---
 title: "Oxfam"
 url: /storrington/oxfam/
-shop: Gebrauchtwaren
+shop: charity
 ---

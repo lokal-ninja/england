@@ -1,5 +1,5 @@
 ---
 title: "Newsagent"
 url: /crawley/newsagent/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "GAIL's"
 url: /london/gails-chiswick-high-road/
-shop: Bäckerei
+shop: bakery
 ---

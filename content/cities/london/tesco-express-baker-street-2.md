@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /london/tesco-express-baker-street-2/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jenny Hall"
 url: /gateshead/jenny-hall/
-shop: Lebensmittel
+shop: convenience
 ---

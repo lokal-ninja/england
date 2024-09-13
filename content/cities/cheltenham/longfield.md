@@ -1,5 +1,5 @@
 ---
 title: "Longfield"
 url: /cheltenham/longfield/
-shop: Gebrauchtwaren
+shop: charity
 ---

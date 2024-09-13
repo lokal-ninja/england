@@ -1,5 +1,5 @@
 ---
 title: "Dales"
 url: /scorrier/dales/
-shop: Autohaus
+shop: car
 ---

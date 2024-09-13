@@ -1,5 +1,5 @@
 ---
 title: "TMS"
 url: /penrith/tms/
-shop: Autoteile
+shop: car parts
 ---

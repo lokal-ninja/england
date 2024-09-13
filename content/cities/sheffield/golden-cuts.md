@@ -1,5 +1,5 @@
 ---
 title: "Golden Cuts"
 url: /sheffield/golden-cuts/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "William Hill"
 url: /woking/william-hill/
-shop: Wettbüro
+shop: bookmaker
 ---

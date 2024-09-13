@@ -1,5 +1,5 @@
 ---
 title: "MyElec"
 url: /oldham/myelec/
-shop: Baustoffe
+shop: trade
 ---

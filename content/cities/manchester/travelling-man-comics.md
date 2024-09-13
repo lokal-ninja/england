@@ -1,5 +1,5 @@
 ---
 title: "Travelling Man Comics"
 url: /manchester/travelling-man-comics/
-shop: Bücher
+shop: books
 ---

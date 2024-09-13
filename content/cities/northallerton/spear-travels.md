@@ -1,5 +1,5 @@
 ---
 title: "Spear Travels"
 url: /northallerton/spear-travels/
-shop: Reisebüro
+shop: travel agency
 ---

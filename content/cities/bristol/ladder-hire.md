@@ -1,5 +1,5 @@
 ---
 title: "Ladder Hire"
 url: /bristol/ladder-hire/
-shop: Baumarkt
+shop: doityourself
 ---

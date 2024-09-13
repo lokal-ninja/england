@@ -1,5 +1,5 @@
 ---
 title: "Axminster Tools"
 url: /axminster/axminster-tools/
-shop: Eisenwaren
+shop: hardware
 ---

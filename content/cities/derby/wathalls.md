@@ -1,5 +1,5 @@
 ---
 title: "Wathall's"
 url: /derby/wathalls/
-shop: Bestattungen
+shop: funeral directors
 ---

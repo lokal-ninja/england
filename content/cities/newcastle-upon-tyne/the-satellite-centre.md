@@ -1,5 +1,5 @@
 ---
 title: "The Satellite Centre"
 url: /newcastle-upon-tyne/the-satellite-centre/
-shop: Allgemein
+shop: shop
 ---

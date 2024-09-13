@@ -1,5 +1,5 @@
 ---
 title: "Cyver"
 url: /northampton/cyver/
-shop: Lebensmittel
+shop: convenience
 ---

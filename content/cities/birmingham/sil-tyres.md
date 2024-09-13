@@ -1,5 +1,5 @@
 ---
 title: "SIL Tyres"
 url: /birmingham/sil-tyres/
-shop: Reifen
+shop: tyres
 ---

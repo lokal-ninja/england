@@ -1,5 +1,5 @@
 ---
 title: "Paul’s Traditional Deli"
 url: /london/pauls-traditional-deli/
-shop: Metzgerei
+shop: butcher
 ---

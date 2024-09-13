@@ -1,5 +1,5 @@
 ---
 title: "Top Form Schoolwear"
 url: /harlow/top-form-schoolwear/
-shop: Kleidung
+shop: clothes
 ---

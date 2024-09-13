@@ -1,5 +1,5 @@
 ---
 title: "Reidys Barber"
 url: /reigate/reidys-barber/
-shop: Friseur
+shop: hairdresser
 ---

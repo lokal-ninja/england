@@ -1,5 +1,5 @@
 ---
 title: "Simon's"
 url: /london/simons/
-shop: Haushaltsartikel
+shop: houseware
 ---

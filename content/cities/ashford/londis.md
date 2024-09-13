@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /ashford/londis/
-shop: Lebensmittel
+shop: convenience
 ---

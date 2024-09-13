@@ -1,5 +1,5 @@
 ---
 title: "Dragon Asian Foods"
 url: /gainsborough/dragon-asian-foods/
-shop: Allgemein
+shop: shop
 ---

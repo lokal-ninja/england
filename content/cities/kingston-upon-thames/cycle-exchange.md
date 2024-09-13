@@ -1,5 +1,5 @@
 ---
 title: "Cycle Exchange"
 url: /kingston-upon-thames/cycle-exchange/
-shop: Fahrrad
+shop: bicycle
 ---

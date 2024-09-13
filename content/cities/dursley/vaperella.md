@@ -1,5 +1,5 @@
 ---
 title: "Vaperella"
 url: /dursley/vaperella/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

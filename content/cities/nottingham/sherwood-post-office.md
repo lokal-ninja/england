@@ -1,5 +1,5 @@
 ---
 title: "Sherwood Post Office"
 url: /nottingham/sherwood-post-office/
-shop: Lebensmittel
+shop: convenience
 ---

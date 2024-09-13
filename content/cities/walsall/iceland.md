@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /walsall/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Forever Together Funeral Care Ltd."
 url: /denmead-waterlooville/forever-together-funeral-care-ltd/
-shop: Bestattungen
+shop: funeral directors
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Penhaligon's"
 url: /london/penhaligons/
-shop: Kosmetik
+shop: beauty
 ---

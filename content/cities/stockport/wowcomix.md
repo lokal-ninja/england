@@ -1,5 +1,5 @@
 ---
 title: "Wowcomix"
 url: /stockport/wowcomix/
-shop: Sammler
+shop: collector
 ---

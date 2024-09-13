@@ -1,5 +1,5 @@
 ---
 title: "Colney Dry Cleaners"
 url: /london/colney-dry-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

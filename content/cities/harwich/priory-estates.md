@@ -1,5 +1,5 @@
 ---
 title: "Priory Estates"
 url: /harwich/priory-estates/
-shop: Immobilien
+shop: estate agent
 ---

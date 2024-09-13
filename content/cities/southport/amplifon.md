@@ -1,5 +1,5 @@
 ---
 title: "Amplifon"
 url: /southport/amplifon/
-shop: Hörgeräte
+shop: hearing aids
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /leicester/tesco-express-ryder-road/
-shop: Lebensmittel
+shop: convenience
 ---

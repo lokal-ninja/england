@@ -1,5 +1,5 @@
 ---
 title: "O'Neill"
 url: /ellesmere-port/oneill/
-shop: Kleidung
+shop: clothes
 ---

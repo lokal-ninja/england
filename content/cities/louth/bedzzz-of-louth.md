@@ -1,5 +1,5 @@
 ---
 title: "Bedzzz of Louth"
 url: /louth/bedzzz-of-louth/
-shop: Betten
+shop: bed
 ---

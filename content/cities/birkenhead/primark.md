@@ -1,5 +1,5 @@
 ---
 title: "Primark"
 url: /birkenhead/primark/
-shop: Kleidung
+shop: clothes
 ---

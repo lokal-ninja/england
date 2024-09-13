@@ -1,5 +1,5 @@
 ---
 title: "Cynthia Mitchell"
 url: /london/cynthia-mitchell/
-shop: Friseur
+shop: hairdresser
 ---

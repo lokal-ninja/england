@@ -1,5 +1,5 @@
 ---
 title: "Eurokeg"
 url: /gateshead/eurokeg/
-shop: Großhandel
+shop: wholesale
 ---

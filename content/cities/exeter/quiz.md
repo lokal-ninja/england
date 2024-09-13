@@ -1,5 +1,5 @@
 ---
 title: "Quiz"
 url: /exeter/quiz/
-shop: Kleidung
+shop: clothes
 ---

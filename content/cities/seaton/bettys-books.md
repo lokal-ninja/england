@@ -1,5 +1,5 @@
 ---
 title: "Betty's Books"
 url: /seaton/bettys-books/
-shop: Bücher
+shop: books
 ---

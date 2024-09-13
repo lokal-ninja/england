@@ -1,5 +1,5 @@
 ---
 title: "Ruskin"
 url: /whitstable/ruskin/
-shop: Kleidung
+shop: clothes
 ---

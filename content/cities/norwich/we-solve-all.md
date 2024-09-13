@@ -1,5 +1,5 @@
 ---
 title: "We Solve All"
 url: /norwich/we-solve-all/
-shop: Handy
+shop: mobile phone
 ---

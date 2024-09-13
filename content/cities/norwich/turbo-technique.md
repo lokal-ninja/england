@@ -1,5 +1,5 @@
 ---
 title: "Turbo Technique"
 url: /norwich/turbo-technique/
-shop: Autoteile
+shop: car parts
 ---

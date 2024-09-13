@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /swindon/whsmith-station-road/
-shop: Zeitungen
+shop: newsagent
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hourglass"
 url: /sheffield/hourglass/
-shop: Kleidung
+shop: clothes
 ---

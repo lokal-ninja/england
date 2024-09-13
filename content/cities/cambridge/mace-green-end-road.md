@@ -1,5 +1,5 @@
 ---
 title: "Mace"
 url: /cambridge/mace-green-end-road/
-shop: Lebensmittel
+shop: convenience
 ---

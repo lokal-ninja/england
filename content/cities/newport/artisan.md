@@ -1,5 +1,5 @@
 ---
 title: "Artisan"
 url: /newport/artisan/
-shop: Andenken
+shop: gift
 ---

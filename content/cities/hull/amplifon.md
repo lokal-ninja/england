@@ -1,5 +1,5 @@
 ---
 title: "Amplifon"
 url: /hull/amplifon/
-shop: Hörgeräte
+shop: hearing aids
 ---

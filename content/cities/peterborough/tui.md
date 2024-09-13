@@ -1,5 +1,5 @@
 ---
 title: "TUI"
 url: /peterborough/tui/
-shop: Reisebüro
+shop: travel agency
 ---

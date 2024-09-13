@@ -1,5 +1,5 @@
 ---
 title: "Mr Fifty"
 url: /sheringham/mr-fifty/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /harlow/whsmith/
-shop: Zeitungen
+shop: newsagent
 ---

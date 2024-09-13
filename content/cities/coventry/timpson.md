@@ -1,5 +1,5 @@
 ---
 title: "Timpson"
 url: /coventry/timpson/
-shop: Schlüsseldienst
+shop: locksmith
 ---

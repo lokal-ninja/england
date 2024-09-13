@@ -1,5 +1,5 @@
 ---
 title: "EPS"
 url: /ambleside/eps/
-shop: Baustoffe
+shop: trade
 ---

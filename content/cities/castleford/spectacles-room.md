@@ -1,5 +1,5 @@
 ---
 title: "Spectacles Room"
 url: /castleford/spectacles-room/
-shop: Optiker
+shop: optician
 ---

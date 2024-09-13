@@ -1,5 +1,5 @@
 ---
 title: "Elliott's"
 url: /huddersfield/elliotts/
-shop: Fußböden
+shop: flooring
 ---

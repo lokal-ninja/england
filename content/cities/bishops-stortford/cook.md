@@ -1,5 +1,5 @@
 ---
 title: "Cook"
 url: /bishops-stortford/cook/
-shop: Tiefkühl
+shop: frozen food
 ---

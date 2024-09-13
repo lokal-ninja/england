@@ -1,5 +1,5 @@
 ---
 title: "Barracloughs"
 url: /seaford/barracloughs/
-shop: Optiker
+shop: optician
 ---

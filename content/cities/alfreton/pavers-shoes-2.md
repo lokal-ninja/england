@@ -1,5 +1,5 @@
 ---
 title: "Pavers Shoes"
 url: /alfreton/pavers-shoes-2/
-shop: Schuhe
+shop: shoes
 ---

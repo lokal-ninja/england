@@ -1,5 +1,5 @@
 ---
 title: "Topps Tiles"
 url: /kettering/topps-tiles/
-shop: Fliesen
+shop: tiles
 ---

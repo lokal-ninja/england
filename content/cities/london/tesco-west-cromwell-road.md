@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /london/tesco-west-cromwell-road/
-shop: Supermarkt
+shop: supermarket
 ---

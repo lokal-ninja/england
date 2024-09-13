@@ -1,5 +1,5 @@
 ---
 title: "Warwick Superstore"
 url: /warwick/warwick-superstore/
-shop: Lebensmittel
+shop: convenience
 ---

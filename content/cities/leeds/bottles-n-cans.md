@@ -1,5 +1,5 @@
 ---
 title: "Bottles N Cans"
 url: /leeds/bottles-n-cans/
-shop: Spirituosen
+shop: alcohol
 ---

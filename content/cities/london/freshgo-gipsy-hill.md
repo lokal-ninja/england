@@ -1,5 +1,5 @@
 ---
 title: "FreshGo"
 url: /london/freshgo-gipsy-hill/
-shop: Lebensmittel
+shop: convenience
 ---

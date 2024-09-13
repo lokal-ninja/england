@@ -1,5 +1,5 @@
 ---
 title: "Limelight"
 url: /weymouth/limelight/
-shop: Kleidung
+shop: clothes
 ---

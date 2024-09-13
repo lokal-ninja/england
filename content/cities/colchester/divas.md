@@ -1,5 +1,5 @@
 ---
 title: "Divas"
 url: /colchester/divas/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Boots"
 url: /derby/boots/
-shop: Drogerie
+shop: chemist
 ---

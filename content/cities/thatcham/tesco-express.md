@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /thatcham/tesco-express/
-shop: Lebensmittel
+shop: convenience
 ---

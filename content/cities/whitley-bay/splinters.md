@@ -1,5 +1,5 @@
 ---
 title: "Splinters"
 url: /whitley-bay/splinters/
-shop: Friseur
+shop: hairdresser
 ---

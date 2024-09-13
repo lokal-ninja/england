@@ -1,5 +1,5 @@
 ---
 title: "Northern Lights Gallery"
 url: /keswick/northern-lights-gallery/
-shop: Kunst
+shop: art
 ---

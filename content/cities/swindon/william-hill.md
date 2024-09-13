@@ -1,5 +1,5 @@
 ---
 title: "William Hill"
 url: /swindon/william-hill/
-shop: Wettbüro
+shop: bookmaker
 ---

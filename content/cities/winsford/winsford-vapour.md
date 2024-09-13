@@ -1,5 +1,5 @@
 ---
 title: "Winsford Vapour"
 url: /winsford/winsford-vapour/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

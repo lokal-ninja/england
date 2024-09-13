@@ -1,5 +1,5 @@
 ---
 title: "Eye Society"
 url: /birmingham/eye-society/
-shop: Optiker
+shop: optician
 ---

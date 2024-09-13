@@ -1,5 +1,5 @@
 ---
 title: "French Connection"
 url: /manchester/french-connection/
-shop: Kleidung
+shop: clothes
 ---

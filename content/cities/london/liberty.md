@@ -1,5 +1,5 @@
 ---
 title: "Liberty"
 url: /london/liberty/
-shop: Warenhaus
+shop: department store
 ---

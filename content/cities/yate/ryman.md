@@ -1,5 +1,5 @@
 ---
 title: "Ryman"
 url: /yate/ryman/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Watling Tyres"
 url: /sittingbourne/watling-tyres/
-shop: Autowerkstatt
+shop: car repair
 ---

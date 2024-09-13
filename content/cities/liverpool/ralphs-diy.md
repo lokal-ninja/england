@@ -1,5 +1,5 @@
 ---
 title: "Ralph's DIY"
 url: /liverpool/ralphs-diy/
-shop: Eisenwaren
+shop: hardware
 ---

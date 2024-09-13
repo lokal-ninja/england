@@ -1,5 +1,5 @@
 ---
 title: "Pets and Friends"
 url: /wakefield/pets-and-friends/
-shop: Tiere
+shop: pet
 ---

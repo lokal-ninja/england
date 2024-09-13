@@ -1,5 +1,5 @@
 ---
 title: "Magpie"
 url: /evesham/magpie/
-shop: Andenken
+shop: gift
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vagabond Wines"
 url: /london/vagabond-wines/
-shop: Spirituosen
+shop: alcohol
 ---

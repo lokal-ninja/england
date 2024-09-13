@@ -1,5 +1,5 @@
 ---
 title: "Oakbrook Electrical"
 url: /sheffield/oakbrook-electrical/
-shop: Elektrisch
+shop: electrical
 ---

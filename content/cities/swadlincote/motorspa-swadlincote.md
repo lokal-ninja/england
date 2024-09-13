@@ -1,5 +1,5 @@
 ---
 title: "MotorSpa Swadlincote"
 url: /swadlincote/motorspa-swadlincote/
-shop: Autowerkstatt
+shop: car repair
 ---

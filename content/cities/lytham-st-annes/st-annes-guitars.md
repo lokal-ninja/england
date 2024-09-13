@@ -1,5 +1,5 @@
 ---
 title: "St Annes Guitars"
 url: /lytham-st-annes/st-annes-guitars/
-shop: Instrumente
+shop: musical instrument
 ---

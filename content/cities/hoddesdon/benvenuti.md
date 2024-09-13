@@ -1,5 +1,5 @@
 ---
 title: "Benvenuti"
 url: /hoddesdon/benvenuti/
-shop: Friseur
+shop: hairdresser
 ---

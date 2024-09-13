@@ -1,5 +1,5 @@
 ---
 title: "COOK"
 url: /cranleigh/cook/
-shop: Tiefkühl
+shop: frozen food
 ---

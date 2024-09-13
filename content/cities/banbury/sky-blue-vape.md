@@ -1,5 +1,5 @@
 ---
 title: "Sky Blue Vape"
 url: /banbury/sky-blue-vape/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

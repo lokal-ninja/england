@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /birmingham/londis-baldwins-lane/
-shop: Lebensmittel
+shop: convenience
 ---

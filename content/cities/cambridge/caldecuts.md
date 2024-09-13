@@ -1,5 +1,5 @@
 ---
 title: "CaldeCuts"
 url: /cambridge/caldecuts/
-shop: Friseur
+shop: hairdresser
 ---

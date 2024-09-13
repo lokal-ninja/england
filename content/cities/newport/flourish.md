@@ -1,5 +1,5 @@
 ---
 title: "Flourish"
 url: /newport/flourish/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cavani"
 url: /murton/cavani/
-shop: Kleidung
+shop: clothes
 ---

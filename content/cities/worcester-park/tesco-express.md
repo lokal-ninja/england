@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /worcester-park/tesco-express/
-shop: Lebensmittel
+shop: convenience
 ---

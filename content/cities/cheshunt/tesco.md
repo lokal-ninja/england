@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /cheshunt/tesco/
-shop: Supermarkt
+shop: supermarket
 ---

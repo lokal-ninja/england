@@ -1,5 +1,5 @@
 ---
 title: "CeX"
 url: /hertford/cex/
-shop: Elektronik
+shop: electronics
 ---

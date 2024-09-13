@@ -1,5 +1,5 @@
 ---
 title: "Morrisons Daily"
 url: /bath/morrisons-daily-bathwick-street/
-shop: Lebensmittel
+shop: convenience
 ---

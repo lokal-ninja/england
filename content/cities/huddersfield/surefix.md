@@ -1,5 +1,5 @@
 ---
 title: "Surefix"
 url: /huddersfield/surefix/
-shop: Autowerkstatt
+shop: car repair
 ---

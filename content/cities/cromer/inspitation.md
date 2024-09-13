@@ -1,5 +1,5 @@
 ---
 title: "Inspitation"
 url: /cromer/inspitation/
-shop: Andenken
+shop: gift
 ---

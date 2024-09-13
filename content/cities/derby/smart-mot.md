@@ -1,5 +1,5 @@
 ---
 title: "Smart MOT"
 url: /derby/smart-mot/
-shop: Autowerkstatt
+shop: car repair
 ---

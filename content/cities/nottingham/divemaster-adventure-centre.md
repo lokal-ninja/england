@@ -1,5 +1,5 @@
 ---
 title: "Divemaster Adventure Centre"
 url: /nottingham/divemaster-adventure-centre/
-shop: Tauchen
+shop: diving
 ---

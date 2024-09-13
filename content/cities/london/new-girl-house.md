@@ -1,5 +1,5 @@
 ---
 title: "New Girl House"
 url: /london/new-girl-house/
-shop: Kleidung
+shop: clothes
 ---

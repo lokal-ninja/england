@@ -1,5 +1,5 @@
 ---
 title: "Seasons Garden Centre Chatteris"
 url: /chatteris/seasons-garden-centre-chatteris/
-shop: Garten-Center
+shop: garden centre
 ---

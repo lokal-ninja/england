@@ -1,5 +1,5 @@
 ---
 title: "Sainsbury's Local"
 url: /woodhall-spa/sainsburys-local/
-shop: Lebensmittel
+shop: convenience
 ---

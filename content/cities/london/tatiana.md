@@ -1,5 +1,5 @@
 ---
 title: "Tatiana"
 url: /london/tatiana/
-shop: Kosmetik
+shop: beauty
 ---

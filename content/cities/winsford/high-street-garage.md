@@ -1,5 +1,5 @@
 ---
 title: "High Street Garage"
 url: /winsford/high-street-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

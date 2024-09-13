@@ -1,5 +1,5 @@
 ---
 title: "The Beauty Shelf"
 url: /wallsend/the-beauty-shelf/
-shop: Friseur
+shop: hairdresser
 ---

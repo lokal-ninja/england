@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /shrewsbury/spar/
-shop: Lebensmittel
+shop: convenience
 ---

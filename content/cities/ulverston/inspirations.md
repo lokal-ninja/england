@@ -1,5 +1,5 @@
 ---
 title: "Inspirations"
 url: /ulverston/inspirations/
-shop: Andenken
+shop: gift
 ---

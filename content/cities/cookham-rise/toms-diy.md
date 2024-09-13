@@ -1,5 +1,5 @@
 ---
 title: "Tom's DIY"
 url: /cookham-rise/toms-diy/
-shop: Baumarkt
+shop: doityourself
 ---

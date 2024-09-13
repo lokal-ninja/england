@@ -1,5 +1,5 @@
 ---
 title: "Taylor's Paints"
 url: /rossendale/taylors-paints/
-shop: Farben
+shop: paint
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Johnsons"
 url: /farnham/johnsons/
-shop: Wäscherei
+shop: laundry
 ---

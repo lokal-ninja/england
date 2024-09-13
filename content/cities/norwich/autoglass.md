@@ -1,5 +1,5 @@
 ---
 title: "AutoGlass"
 url: /norwich/autoglass/
-shop: Autowerkstatt
+shop: car repair
 ---

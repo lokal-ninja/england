@@ -1,5 +1,5 @@
 ---
 title: "Bargain Essentials"
 url: /newcastle-upon-tyne/bargain-essentials/
-shop: Kramladen
+shop: variety store
 ---

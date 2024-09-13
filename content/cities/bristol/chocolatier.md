@@ -1,5 +1,5 @@
 ---
 title: "Chocolatier"
 url: /bristol/chocolatier/
-shop: Süßwaren
+shop: confectionery
 ---

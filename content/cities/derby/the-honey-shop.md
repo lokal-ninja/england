@@ -1,5 +1,5 @@
 ---
 title: "The Honey Shop"
 url: /derby/the-honey-shop/
-shop: Lebensmittel
+shop: convenience
 ---

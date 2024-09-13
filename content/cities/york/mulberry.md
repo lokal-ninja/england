@@ -1,5 +1,5 @@
 ---
 title: "Mulberry"
 url: /york/mulberry/
-shop: Modehaus
+shop: boutique
 ---

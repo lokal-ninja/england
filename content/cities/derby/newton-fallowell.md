@@ -1,5 +1,5 @@
 ---
 title: "Newton Fallowell"
 url: /derby/newton-fallowell/
-shop: Immobilien
+shop: estate agent
 ---

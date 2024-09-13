@@ -1,5 +1,5 @@
 ---
 title: "Cambridge Food and Wine"
 url: /london/cambridge-food-and-wine/
-shop: Spirituosen
+shop: alcohol
 ---

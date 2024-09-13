@@ -1,5 +1,5 @@
 ---
 title: "Hair By Sapphire"
 url: /hull/hair-by-sapphire/
-shop: Friseur
+shop: hairdresser
 ---

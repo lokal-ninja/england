@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /sheffield/betfred-buchanan-road/
-shop: Wettbüro
+shop: bookmaker
 ---

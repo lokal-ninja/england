@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /withernsea/tesco/
-shop: Supermarkt
+shop: supermarket
 ---

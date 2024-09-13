@@ -1,5 +1,5 @@
 ---
 title: "Local Store Food and Wine"
 url: /london/local-store-food-and-wine/
-shop: Lebensmittel
+shop: convenience
 ---

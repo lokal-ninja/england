@@ -1,5 +1,5 @@
 ---
 title: "Huddlestons"
 url: /windermere/huddlestons/
-shop: Metzgerei
+shop: butcher
 ---

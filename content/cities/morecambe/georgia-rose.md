@@ -1,5 +1,5 @@
 ---
 title: "Georgia Rose"
 url: /morecambe/georgia-rose/
-shop: Friseur
+shop: hairdresser
 ---

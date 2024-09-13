@@ -1,5 +1,5 @@
 ---
 title: "Truro Galleries"
 url: /truro/truro-galleries/
-shop: Andenken
+shop: gift
 ---

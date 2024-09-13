@@ -1,5 +1,5 @@
 ---
 title: "Children's Boutique"
 url: /oldham/childrens-boutique/
-shop: Kleidung
+shop: clothes
 ---

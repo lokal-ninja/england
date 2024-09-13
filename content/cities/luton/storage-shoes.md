@@ -1,5 +1,5 @@
 ---
 title: "Storage Shoes"
 url: /luton/storage-shoes/
-shop: Schuhe
+shop: shoes
 ---

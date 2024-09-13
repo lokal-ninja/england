@@ -1,5 +1,5 @@
 ---
 title: "NatureWorld"
 url: /cobham/natureworld/
-shop: Tiere
+shop: pet
 ---

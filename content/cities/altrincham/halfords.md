@@ -1,5 +1,5 @@
 ---
 title: "Halfords"
 url: /altrincham/halfords/
-shop: Autoteile
+shop: car parts
 ---

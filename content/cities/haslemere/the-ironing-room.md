@@ -1,5 +1,5 @@
 ---
 title: "The Ironing Room"
 url: /haslemere/the-ironing-room/
-shop: Wäscherei
+shop: laundry
 ---

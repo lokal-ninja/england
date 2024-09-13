@@ -1,5 +1,5 @@
 ---
 title: "Dash4it"
 url: /redruth/dash4it/
-shop: Outdoor
+shop: outdoor
 ---

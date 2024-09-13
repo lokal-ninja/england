@@ -1,5 +1,5 @@
 ---
 title: "Lathams"
 url: /great-yarmouth/lathams/
-shop: Kramladen
+shop: variety store
 ---

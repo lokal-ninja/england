@@ -1,5 +1,5 @@
 ---
 title: "Bravissimo"
 url: /chester/bravissimo/
-shop: Kleidung
+shop: clothes
 ---

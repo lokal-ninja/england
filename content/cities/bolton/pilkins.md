@@ -1,5 +1,5 @@
 ---
 title: "Pilkins"
 url: /bolton/pilkins/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lavender Room"
 url: /brighton/lavender-room/
-shop: Andenken
+shop: gift
 ---

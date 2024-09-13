@@ -1,5 +1,5 @@
 ---
 title: "Buck"
 url: /london/buck/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mackworth Hardware"
 url: /derby/mackworth-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

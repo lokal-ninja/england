@@ -1,5 +1,5 @@
 ---
 title: "Community Super Save"
 url: /manchester/community-super-save/
-shop: Lebensmittel
+shop: convenience
 ---

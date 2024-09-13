@@ -1,5 +1,5 @@
 ---
 title: "photovogue"
 url: /frinton-on-sea/photovogue/
-shop: Foto
+shop: photo
 ---

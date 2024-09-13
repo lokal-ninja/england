@@ -1,5 +1,5 @@
 ---
 title: "Fresh Cuts"
 url: /bristol/fresh-cuts/
-shop: Friseur
+shop: hairdresser
 ---

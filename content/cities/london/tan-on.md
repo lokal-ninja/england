@@ -1,5 +1,5 @@
 ---
 title: "Tan On"
 url: /london/tan-on/
-shop: Kosmetik
+shop: beauty
 ---

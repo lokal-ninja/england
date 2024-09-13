@@ -1,5 +1,5 @@
 ---
 title: "Hypno Island"
 url: /shanklin/hypno-island/
-shop: Massage
+shop: massage
 ---

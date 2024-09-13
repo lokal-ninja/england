@@ -1,5 +1,5 @@
 ---
 title: "Status Office Services Ltd"
 url: /manningtree/status-office-services-ltd/
-shop: Schreibwaren
+shop: office supplies
 ---

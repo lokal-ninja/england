@@ -1,5 +1,5 @@
 ---
 title: "Sea View Angling"
 url: /plymouth/sea-view-angling/
-shop: Angeln
+shop: fishing
 ---

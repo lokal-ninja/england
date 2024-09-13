@@ -1,5 +1,5 @@
 ---
 title: "Superlites"
 url: /london/superlites/
-shop: Lampen
+shop: lamps
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mega PC's"
 url: /south-shields/mega-pcs/
-shop: Computer
+shop: computer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Felthams"
 url: /waterlooville/felthams/
-shop: Friseur
+shop: hairdresser
 ---

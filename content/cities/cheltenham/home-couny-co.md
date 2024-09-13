@@ -1,5 +1,5 @@
 ---
 title: "Home Couny Co."
 url: /cheltenham/home-couny-co/
-shop: Parfümerie
+shop: perfumery
 ---

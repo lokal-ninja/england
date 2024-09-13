@@ -1,5 +1,5 @@
 ---
 title: "Atelier Galleries"
 url: /ellesmere-port/atelier-galleries/
-shop: Kunst
+shop: art
 ---

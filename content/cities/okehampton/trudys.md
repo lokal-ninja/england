@@ -1,5 +1,5 @@
 ---
 title: "Trudy’s"
 url: /okehampton/trudys/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "FGS"
 url: /newcastle-upon-tyne/fgs/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mick's Garage"
 url: /london/micks-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Revive"
 url: /sheffield/revive/
-shop: Kosmetik
+shop: beauty
 ---

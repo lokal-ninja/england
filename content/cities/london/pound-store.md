@@ -1,5 +1,5 @@
 ---
 title: "Pound Store"
 url: /london/pound-store/
-shop: Haushaltsartikel
+shop: houseware
 ---

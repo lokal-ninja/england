@@ -1,5 +1,5 @@
 ---
 title: "Croxdale Fast-Fit"
 url: /durham/croxdale-fast-fit/
-shop: Autowerkstatt
+shop: car repair
 ---

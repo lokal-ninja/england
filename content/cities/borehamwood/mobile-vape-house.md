@@ -1,5 +1,5 @@
 ---
 title: "Mobile Vape House"
 url: /borehamwood/mobile-vape-house/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

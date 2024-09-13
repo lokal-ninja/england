@@ -1,5 +1,5 @@
 ---
 title: "EE"
 url: /swindon/ee/
-shop: Handy
+shop: mobile phone
 ---

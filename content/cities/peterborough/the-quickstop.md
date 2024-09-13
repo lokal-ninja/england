@@ -1,5 +1,5 @@
 ---
 title: "The Quickstop"
 url: /peterborough/the-quickstop/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hair by Lisa Prescott"
 url: /preston/hair-by-lisa-prescott/
-shop: Friseur
+shop: hairdresser
 ---

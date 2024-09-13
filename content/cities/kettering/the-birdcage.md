@@ -1,5 +1,5 @@
 ---
 title: "The Birdcage"
 url: /kettering/the-birdcage/
-shop: Friseur
+shop: hairdresser
 ---

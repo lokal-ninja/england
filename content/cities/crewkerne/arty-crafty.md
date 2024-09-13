@@ -1,5 +1,5 @@
 ---
 title: "Arty Crafty"
 url: /crewkerne/arty-crafty/
-shop: Allgemein
+shop: shop
 ---

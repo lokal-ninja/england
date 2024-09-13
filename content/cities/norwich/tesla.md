@@ -1,5 +1,5 @@
 ---
 title: "TESLA"
 url: /norwich/tesla/
-shop: Autohaus
+shop: car
 ---

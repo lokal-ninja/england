@@ -1,5 +1,5 @@
 ---
 title: "Scope"
 url: /hayes/scope/
-shop: Gebrauchtwaren
+shop: charity
 ---

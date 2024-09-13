@@ -1,5 +1,5 @@
 ---
 title: "Dogs Trust"
 url: /newbury/dogs-trust/
-shop: Gebrauchtwaren
+shop: charity
 ---

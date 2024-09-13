@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /bolton/premier-bradshaw-brow/
-shop: Lebensmittel
+shop: convenience
 ---

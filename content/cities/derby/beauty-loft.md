@@ -1,5 +1,5 @@
 ---
 title: "Beauty Loft"
 url: /derby/beauty-loft/
-shop: Kosmetik
+shop: beauty
 ---

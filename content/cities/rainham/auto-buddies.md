@@ -1,5 +1,5 @@
 ---
 title: "Auto Buddies"
 url: /rainham/auto-buddies/
-shop: Autohaus
+shop: car
 ---

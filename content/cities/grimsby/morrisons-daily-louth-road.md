@@ -1,5 +1,5 @@
 ---
 title: "Morrisons Daily"
 url: /grimsby/morrisons-daily-louth-road/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "John Gawthorpe"
 url: /huddersfield/john-gawthorpe/
-shop: Metzgerei
+shop: butcher
 ---

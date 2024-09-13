@@ -1,5 +1,5 @@
 ---
 title: "Team Valley Autos"
 url: /gateshead/team-valley-autos/
-shop: Autowerkstatt
+shop: car repair
 ---

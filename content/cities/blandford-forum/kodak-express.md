@@ -1,5 +1,5 @@
 ---
 title: "Kodak Express"
 url: /blandford-forum/kodak-express/
-shop: Foto
+shop: photo
 ---

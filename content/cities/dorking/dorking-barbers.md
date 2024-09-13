@@ -1,5 +1,5 @@
 ---
 title: "Dorking Barbers"
 url: /dorking/dorking-barbers/
-shop: Friseur
+shop: hairdresser
 ---

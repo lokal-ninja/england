@@ -1,5 +1,5 @@
 ---
 title: "Havana"
 url: /blackpool/havana/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Doble Jewellers"
 url: /exeter/doble-jewellers/
-shop: Schmuck
+shop: jewelry
 ---

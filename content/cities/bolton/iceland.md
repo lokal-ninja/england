@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /bolton/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

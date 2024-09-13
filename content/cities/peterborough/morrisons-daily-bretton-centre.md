@@ -1,5 +1,5 @@
 ---
 title: "Morrisons Daily"
 url: /peterborough/morrisons-daily-bretton-centre/
-shop: Lebensmittel
+shop: convenience
 ---

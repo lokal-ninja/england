@@ -1,5 +1,5 @@
 ---
 title: "Cook"
 url: /northampton/cook/
-shop: Tiefkühl
+shop: frozen food
 ---

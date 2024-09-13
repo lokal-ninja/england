@@ -1,5 +1,5 @@
 ---
 title: "Wahoo"
 url: /ipswich/wahoo/
-shop: Kleidung
+shop: clothes
 ---

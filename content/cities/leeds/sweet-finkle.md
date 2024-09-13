@@ -1,5 +1,5 @@
 ---
 title: "Sweet Finkle"
 url: /leeds/sweet-finkle/
-shop: Süßwaren
+shop: confectionery
 ---

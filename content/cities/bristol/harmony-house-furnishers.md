@@ -1,5 +1,5 @@
 ---
 title: "Harmony House Furnishers"
 url: /bristol/harmony-house-furnishers/
-shop: Möbel
+shop: furniture
 ---

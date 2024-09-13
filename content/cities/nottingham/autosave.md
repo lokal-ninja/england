@@ -1,5 +1,5 @@
 ---
 title: "Autosave"
 url: /nottingham/autosave/
-shop: Autoteile
+shop: car parts
 ---

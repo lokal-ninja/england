@@ -1,5 +1,5 @@
 ---
 title: "Bargain Booze"
 url: /frodsham/bargain-booze/
-shop: Spirituosen
+shop: alcohol
 ---

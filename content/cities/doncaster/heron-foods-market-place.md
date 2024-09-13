@@ -1,5 +1,5 @@
 ---
 title: "Heron Foods"
 url: /doncaster/heron-foods-market-place/
-shop: Supermarkt
+shop: supermarket
 ---

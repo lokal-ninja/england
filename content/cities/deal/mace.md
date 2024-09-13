@@ -1,5 +1,5 @@
 ---
 title: "Mace"
 url: /deal/mace/
-shop: Lebensmittel
+shop: convenience
 ---

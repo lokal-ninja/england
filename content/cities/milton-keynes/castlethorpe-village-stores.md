@@ -1,5 +1,5 @@
 ---
 title: "Castlethorpe Village Stores"
 url: /milton-keynes/castlethorpe-village-stores/
-shop: Lebensmittel
+shop: convenience
 ---

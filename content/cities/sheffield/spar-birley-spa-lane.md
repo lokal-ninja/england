@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /sheffield/spar-birley-spa-lane/
-shop: Lebensmittel
+shop: convenience
 ---

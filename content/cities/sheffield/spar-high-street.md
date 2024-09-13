@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /sheffield/spar-high-street/
-shop: Supermarkt
+shop: supermarket
 ---

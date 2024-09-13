@@ -1,5 +1,5 @@
 ---
 title: "Fabb Furniture"
 url: /leicester/fabb-furniture/
-shop: Möbel
+shop: furniture
 ---

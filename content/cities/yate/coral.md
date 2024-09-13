@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /yate/coral/
-shop: Wettbüro
+shop: bookmaker
 ---

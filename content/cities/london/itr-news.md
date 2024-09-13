@@ -1,5 +1,5 @@
 ---
 title: "ITR News"
 url: /london/itr-news/
-shop: Lebensmittel
+shop: convenience
 ---

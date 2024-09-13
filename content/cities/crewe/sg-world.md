@@ -1,5 +1,5 @@
 ---
 title: "SG World"
 url: /crewe/sg-world/
-shop: Schreibwaren
+shop: office supplies
 ---

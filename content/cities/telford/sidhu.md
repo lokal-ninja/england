@@ -1,5 +1,5 @@
 ---
 title: "Sidhu"
 url: /telford/sidhu/
-shop: Zeitungen
+shop: newsagent
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Autoshine Motors"
 url: /bristol/autoshine-motors/
-shop: Autohaus
+shop: car
 ---

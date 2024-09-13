@@ -1,5 +1,5 @@
 ---
 title: "Nichares"
 url: /taunton/nichares/
-shop: Friseur
+shop: hairdresser
 ---

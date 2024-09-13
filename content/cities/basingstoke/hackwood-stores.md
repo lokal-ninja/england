@@ -1,5 +1,5 @@
 ---
 title: "Hackwood Stores"
 url: /basingstoke/hackwood-stores/
-shop: Lebensmittel
+shop: convenience
 ---

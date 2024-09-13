@@ -1,5 +1,5 @@
 ---
 title: "Kernow Artisan"
 url: /wadebridge/kernow-artisan/
-shop: Andenken
+shop: gift
 ---

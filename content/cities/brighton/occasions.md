@@ -1,5 +1,5 @@
 ---
 title: "Occasions"
 url: /brighton/occasions/
-shop: Kleidung
+shop: clothes
 ---

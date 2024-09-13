@@ -1,5 +1,5 @@
 ---
 title: "Asda Express"
 url: /burton-on-trent/asda-express/
-shop: Lebensmittel
+shop: convenience
 ---

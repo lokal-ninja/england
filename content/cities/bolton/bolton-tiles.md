@@ -1,5 +1,5 @@
 ---
 title: "Bolton Tiles"
 url: /bolton/bolton-tiles/
-shop: Fliesen
+shop: tiles
 ---

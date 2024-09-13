@@ -1,5 +1,5 @@
 ---
 title: "Burnsides"
 url: /birmingham/burnsides/
-shop: Friseur
+shop: hairdresser
 ---

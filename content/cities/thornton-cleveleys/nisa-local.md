@@ -1,5 +1,5 @@
 ---
 title: "Nisa Local"
 url: /thornton-cleveleys/nisa-local/
-shop: Lebensmittel
+shop: convenience
 ---

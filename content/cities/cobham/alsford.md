@@ -1,5 +1,5 @@
 ---
 title: "Alsford"
 url: /cobham/alsford/
-shop: Baumarkt
+shop: doityourself
 ---

@@ -1,5 +1,5 @@
 ---
 title: "New Look"
 url: /taunton/new-look/
-shop: Kleidung
+shop: clothes
 ---

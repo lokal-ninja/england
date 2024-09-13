@@ -1,5 +1,5 @@
 ---
 title: "Booze King"
 url: /swadlincote/booze-king/
-shop: Lebensmittel
+shop: convenience
 ---

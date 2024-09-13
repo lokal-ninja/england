@@ -1,5 +1,5 @@
 ---
 title: "Blushes"
 url: /oxford/blushes/
-shop: Friseur
+shop: hairdresser
 ---

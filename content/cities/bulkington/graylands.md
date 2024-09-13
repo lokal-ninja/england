@@ -1,5 +1,5 @@
 ---
 title: "Graylands"
 url: /bulkington/graylands/
-shop: Autohaus
+shop: car
 ---

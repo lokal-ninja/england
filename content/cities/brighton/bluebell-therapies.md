@@ -1,5 +1,5 @@
 ---
 title: "Bluebell Therapies"
 url: /brighton/bluebell-therapies/
-shop: Massage
+shop: massage
 ---

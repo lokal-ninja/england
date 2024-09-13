@@ -1,5 +1,5 @@
 ---
 title: "24 Hour Club"
 url: /cambridge/24-hour-club/
-shop: Kleidung
+shop: clothes
 ---

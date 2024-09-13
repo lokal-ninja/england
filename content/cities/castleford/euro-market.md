@@ -1,5 +1,5 @@
 ---
 title: "Euro Market"
 url: /castleford/euro-market/
-shop: Lebensmittel
+shop: convenience
 ---

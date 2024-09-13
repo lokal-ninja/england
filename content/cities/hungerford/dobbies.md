@@ -1,5 +1,5 @@
 ---
 title: "Dobbies"
 url: /hungerford/dobbies/
-shop: Garten-Center
+shop: garden centre
 ---

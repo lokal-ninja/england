@@ -1,5 +1,5 @@
 ---
 title: "Spacemaker Self Storage"
 url: /colchester/spacemaker-self-storage/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Essential Convenience Store"
 url: /dartford/essential-convenience-store/
-shop: Lebensmittel
+shop: convenience
 ---

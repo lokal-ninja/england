@@ -1,5 +1,5 @@
 ---
 title: "Studio 5"
 url: /manningtree/studio-5/
-shop: Friseur
+shop: hairdresser
 ---

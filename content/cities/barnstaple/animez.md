@@ -1,5 +1,5 @@
 ---
 title: "AnimeZ"
 url: /barnstaple/animez/
-shop: Sammler
+shop: collector
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vapes Direct Ltd"
 url: /helston/vapes-direct-ltd/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tantastic"
 url: /gateshead/tantastic/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CYJ Therapy Centre"
 url: /oxford/cyj-therapy-centre/
-shop: Massage
+shop: massage
 ---

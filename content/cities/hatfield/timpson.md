@@ -1,5 +1,5 @@
 ---
 title: "Timpson"
 url: /hatfield/timpson/
-shop: Schlüsseldienst
+shop: locksmith
 ---

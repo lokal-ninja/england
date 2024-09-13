@@ -1,5 +1,5 @@
 ---
 title: "Covers"
 url: /aldershot/covers/
-shop: Baustoffe
+shop: trade
 ---

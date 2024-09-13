@@ -1,5 +1,5 @@
 ---
 title: "Clintons"
 url: /barrow-in-furness/clintons/
-shop: Andenken
+shop: gift
 ---

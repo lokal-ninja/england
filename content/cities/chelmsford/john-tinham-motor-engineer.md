@@ -1,5 +1,5 @@
 ---
 title: "John Tinham Motor Engineer"
 url: /chelmsford/john-tinham-motor-engineer/
-shop: Autowerkstatt
+shop: car repair
 ---

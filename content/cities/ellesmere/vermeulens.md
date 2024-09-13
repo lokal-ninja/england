@@ -1,5 +1,5 @@
 ---
 title: "Vermeulens"
 url: /ellesmere/vermeulens/
-shop: Feinkost
+shop: deli
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bentley's"
 url: /ludlow/bentleys/
-shop: Wein
+shop: wine
 ---

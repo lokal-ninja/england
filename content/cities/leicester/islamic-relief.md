@@ -1,5 +1,5 @@
 ---
 title: "Islamic Relief"
 url: /leicester/islamic-relief/
-shop: Gebrauchtwaren
+shop: charity
 ---

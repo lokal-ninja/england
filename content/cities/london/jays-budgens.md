@@ -1,5 +1,5 @@
 ---
 title: "Jay's Budgens"
 url: /london/jays-budgens/
-shop: Supermarkt
+shop: supermarket
 ---

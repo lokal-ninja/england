@@ -1,5 +1,5 @@
 ---
 title: "Trespass"
 url: /exeter/trespass/
-shop: Outdoor
+shop: outdoor
 ---

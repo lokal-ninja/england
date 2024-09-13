@@ -1,5 +1,5 @@
 ---
 title: "Mak-a-home"
 url: /wakefield/mak-a-home/
-shop: Baumarkt
+shop: doityourself
 ---

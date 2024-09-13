@@ -1,5 +1,5 @@
 ---
 title: "The Commercial"
 url: /ventnor/the-commercial/
-shop: Allgemein
+shop: shop
 ---

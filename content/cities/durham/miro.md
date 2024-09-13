@@ -1,5 +1,5 @@
 ---
 title: "Miro"
 url: /durham/miro/
-shop: Friseur
+shop: hairdresser
 ---

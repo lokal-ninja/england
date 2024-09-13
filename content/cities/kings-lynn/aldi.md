@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /kings-lynn/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

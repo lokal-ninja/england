@@ -1,5 +1,5 @@
 ---
 title: "Bodycraft"
 url: /nottingham/bodycraft/
-shop: Tattoo
+shop: tattoo
 ---

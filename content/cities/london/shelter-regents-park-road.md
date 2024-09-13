@@ -1,5 +1,5 @@
 ---
 title: "Shelter"
 url: /london/shelter-regents-park-road/
-shop: Gebrauchtwaren
+shop: charity
 ---

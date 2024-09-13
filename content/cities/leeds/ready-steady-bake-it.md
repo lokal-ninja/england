@@ -1,5 +1,5 @@
 ---
 title: "Ready, Steady, Bake It"
 url: /leeds/ready-steady-bake-it/
-shop: Allgemein
+shop: shop
 ---

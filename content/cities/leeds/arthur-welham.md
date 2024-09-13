@@ -1,5 +1,5 @@
 ---
 title: "Arthur Welham"
 url: /leeds/arthur-welham/
-shop: Fisch
+shop: seafood
 ---

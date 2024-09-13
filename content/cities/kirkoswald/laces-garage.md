@@ -1,5 +1,5 @@
 ---
 title: "Laces Garage"
 url: /kirkoswald/laces-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

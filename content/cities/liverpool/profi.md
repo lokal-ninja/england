@@ -1,5 +1,5 @@
 ---
 title: "Profi"
 url: /liverpool/profi/
-shop: Lebensmittel
+shop: convenience
 ---

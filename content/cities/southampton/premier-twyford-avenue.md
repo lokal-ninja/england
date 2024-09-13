@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /southampton/premier-twyford-avenue/
-shop: Lebensmittel
+shop: convenience
 ---

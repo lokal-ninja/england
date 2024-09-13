@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
 url: /worksop/vodafone/
-shop: Handy
+shop: mobile phone
 ---

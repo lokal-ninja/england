@@ -1,5 +1,5 @@
 ---
 title: "Greggs"
 url: /bromley/greggs-high-street/
-shop: Bäckerei
+shop: bakery
 ---

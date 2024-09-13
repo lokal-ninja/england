@@ -1,5 +1,5 @@
 ---
 title: "Azendi"
 url: /leeds/azendi/
-shop: Schmuck
+shop: jewelry
 ---

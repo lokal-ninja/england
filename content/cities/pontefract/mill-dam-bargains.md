@@ -1,5 +1,5 @@
 ---
 title: "Mill Dam Bargains"
 url: /pontefract/mill-dam-bargains/
-shop: Kramladen
+shop: variety store
 ---

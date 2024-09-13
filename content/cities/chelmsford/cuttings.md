@@ -1,5 +1,5 @@
 ---
 title: "Cuttings"
 url: /chelmsford/cuttings/
-shop: Elektrisch
+shop: electrical
 ---

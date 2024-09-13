@@ -1,5 +1,5 @@
 ---
 title: "Cutting Corner"
 url: /harleston/cutting-corner/
-shop: Friseur
+shop: hairdresser
 ---

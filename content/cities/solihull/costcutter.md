@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /solihull/costcutter/
-shop: Supermarkt
+shop: supermarket
 ---

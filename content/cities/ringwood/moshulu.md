@@ -1,5 +1,5 @@
 ---
 title: "Moshulu"
 url: /ringwood/moshulu/
-shop: Schuhe
+shop: shoes
 ---

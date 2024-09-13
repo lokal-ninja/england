@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /leamington-spa/savers/
-shop: Drogerie
+shop: chemist
 ---

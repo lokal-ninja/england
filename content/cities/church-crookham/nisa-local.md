@@ -1,5 +1,5 @@
 ---
 title: "Nisa Local"
 url: /church-crookham/nisa-local/
-shop: Lebensmittel
+shop: convenience
 ---

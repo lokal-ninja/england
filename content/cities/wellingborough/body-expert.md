@@ -1,5 +1,5 @@
 ---
 title: "Body Expert"
 url: /wellingborough/body-expert/
-shop: Kräuter
+shop: herbalist
 ---

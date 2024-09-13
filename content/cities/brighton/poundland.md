@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /brighton/poundland/
-shop: Kramladen
+shop: variety store
 ---

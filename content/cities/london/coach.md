@@ -1,5 +1,5 @@
 ---
 title: "Coach"
 url: /london/coach/
-shop: Taschen & Koffer
+shop: bag
 ---

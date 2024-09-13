@@ -1,5 +1,5 @@
 ---
 title: "A Cut Above"
 url: /watford/a-cut-above/
-shop: Friseur
+shop: hairdresser
 ---

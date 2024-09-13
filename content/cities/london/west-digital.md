@@ -1,5 +1,5 @@
 ---
 title: "West Digital"
 url: /london/west-digital/
-shop: Allgemein
+shop: shop
 ---

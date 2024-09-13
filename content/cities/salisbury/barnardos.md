@@ -1,5 +1,5 @@
 ---
 title: "Barnardo's"
 url: /salisbury/barnardos/
-shop: Gebrauchtwaren
+shop: charity
 ---

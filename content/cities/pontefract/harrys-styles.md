@@ -1,5 +1,5 @@
 ---
 title: "Harry's Styles"
 url: /pontefract/harrys-styles/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Park Street Pets"
 url: /cleethorpes/park-street-pets/
-shop: Tiere
+shop: pet
 ---

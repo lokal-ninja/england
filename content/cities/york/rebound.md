@@ -1,5 +1,5 @@
 ---
 title: "Rebound"
 url: /york/rebound/
-shop: Musik
+shop: music
 ---

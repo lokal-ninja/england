@@ -1,5 +1,5 @@
 ---
 title: "Wallis"
 url: /southport/wallis/
-shop: Kleidung
+shop: clothes
 ---

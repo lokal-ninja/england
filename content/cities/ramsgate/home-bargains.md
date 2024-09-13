@@ -1,5 +1,5 @@
 ---
 title: "Home Bargains"
 url: /ramsgate/home-bargains/
-shop: Kramladen
+shop: variety store
 ---

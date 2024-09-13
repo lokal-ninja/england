@@ -1,5 +1,5 @@
 ---
 title: "Cornerweighs"
 url: /henfield/cornerweighs/
-shop: Bioladen
+shop: health food
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Magnet"
 url: /cheltenham/magnet/
-shop: Küchen
+shop: kitchen
 ---

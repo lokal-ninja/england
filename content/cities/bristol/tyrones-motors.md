@@ -1,5 +1,5 @@
 ---
 title: "Tyrones Motors"
 url: /bristol/tyrones-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

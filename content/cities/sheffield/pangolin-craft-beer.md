@@ -1,5 +1,5 @@
 ---
 title: "Pangolin Craft Beer"
 url: /sheffield/pangolin-craft-beer/
-shop: Spirituosen
+shop: alcohol
 ---

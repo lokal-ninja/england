@@ -1,5 +1,5 @@
 ---
 title: "Timber"
 url: /ringwood/timber/
-shop: Andenken
+shop: gift
 ---

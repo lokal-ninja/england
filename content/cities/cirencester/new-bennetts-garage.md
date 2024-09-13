@@ -1,5 +1,5 @@
 ---
 title: "New Bennetts Garage"
 url: /cirencester/new-bennetts-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Helios Tanning Studio"
 url: /grimsby/helios-tanning-studio/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /watford/tesco-express-colnhurst-road/
-shop: Lebensmittel
+shop: convenience
 ---

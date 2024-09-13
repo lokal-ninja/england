@@ -1,5 +1,5 @@
 ---
 title: "Demart"
 url: /london/demart/
-shop: Teppiche
+shop: carpet
 ---

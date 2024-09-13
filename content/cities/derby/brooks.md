@@ -1,5 +1,5 @@
 ---
 title: "Brooks"
 url: /derby/brooks/
-shop: Feinkost
+shop: deli
 ---

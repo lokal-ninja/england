@@ -1,5 +1,5 @@
 ---
 title: "Waitrose"
 url: /gosport/waitrose/
-shop: Supermarkt
+shop: supermarket
 ---

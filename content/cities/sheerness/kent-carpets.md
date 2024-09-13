@@ -1,5 +1,5 @@
 ---
 title: "Kent Carpets"
 url: /sheerness/kent-carpets/
-shop: Teppiche
+shop: carpet
 ---

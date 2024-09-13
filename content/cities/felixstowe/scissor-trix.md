@@ -1,5 +1,5 @@
 ---
 title: "Scissor-Trix"
 url: /felixstowe/scissor-trix/
-shop: Friseur
+shop: hairdresser
 ---

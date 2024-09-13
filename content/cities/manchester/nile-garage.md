@@ -1,5 +1,5 @@
 ---
 title: "Nile Garage"
 url: /manchester/nile-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

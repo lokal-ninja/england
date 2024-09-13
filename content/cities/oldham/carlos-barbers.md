@@ -1,5 +1,5 @@
 ---
 title: "Carlo's Barbers"
 url: /oldham/carlos-barbers/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pure Electric"
 url: /manchester/pure-electric/
-shop: Fahrrad
+shop: bicycle
 ---

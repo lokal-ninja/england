@@ -1,5 +1,5 @@
 ---
 title: "MSR Newsgroup"
 url: /nottingham/msr-newsgroup/
-shop: Lebensmittel
+shop: convenience
 ---

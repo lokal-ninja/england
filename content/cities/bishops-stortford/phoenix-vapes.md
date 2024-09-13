@@ -1,5 +1,5 @@
 ---
 title: "Phoenix Vapes"
 url: /bishops-stortford/phoenix-vapes/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

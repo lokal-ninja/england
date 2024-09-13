@@ -1,5 +1,5 @@
 ---
 title: "Scouts Nottingham"
 url: /nottingham/scouts-nottingham/
-shop: Gebrauchtwaren
+shop: charity
 ---

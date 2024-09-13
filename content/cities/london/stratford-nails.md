@@ -1,5 +1,5 @@
 ---
 title: "Stratford Nails"
 url: /london/stratford-nails/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /nottingham/poundland-radford-boulevard/
-shop: Kramladen
+shop: variety store
 ---

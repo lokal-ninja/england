@@ -1,5 +1,5 @@
 ---
 title: "C L M Accident Repairs"
 url: /york/c-l-m-accident-repairs/
-shop: Autowerkstatt
+shop: car repair
 ---

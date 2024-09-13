@@ -1,5 +1,5 @@
 ---
 title: "Beauty Boutique"
 url: /shrewsbury/beauty-boutique/
-shop: Kosmetik
+shop: beauty
 ---

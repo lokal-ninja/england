@@ -1,5 +1,5 @@
 ---
 title: "Bains Supermarket"
 url: /alfreton/bains-supermarket/
-shop: Lebensmittel
+shop: convenience
 ---

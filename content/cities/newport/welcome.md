@@ -1,5 +1,5 @@
 ---
 title: "Welcome"
 url: /newport/welcome/
-shop: Lebensmittel
+shop: convenience
 ---

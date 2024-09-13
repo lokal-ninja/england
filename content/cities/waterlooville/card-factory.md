@@ -1,5 +1,5 @@
 ---
 title: "Card Factory"
 url: /waterlooville/card-factory/
-shop: Andenken
+shop: gift
 ---

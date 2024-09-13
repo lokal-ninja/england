@@ -1,5 +1,5 @@
 ---
 title: "Dock Lane Garage"
 url: /bingley/dock-lane-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mencap"
 url: /chorley/mencap/
-shop: Gebrauchtwaren
+shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hurst"
 url: /ripley/hurst/
-shop: Drogerie
+shop: chemist
 ---

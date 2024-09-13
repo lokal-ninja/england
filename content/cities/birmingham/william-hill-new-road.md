@@ -1,5 +1,5 @@
 ---
 title: "William Hill"
 url: /birmingham/william-hill-new-road/
-shop: Wettbüro
+shop: bookmaker
 ---

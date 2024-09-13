@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /haywards-heath/whsmith/
-shop: Bücher
+shop: books
 ---

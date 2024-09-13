@@ -1,5 +1,5 @@
 ---
 title: "Super Grocers"
 url: /wellingborough/super-grocers/
-shop: Lebensmittel
+shop: convenience
 ---

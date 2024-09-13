@@ -1,5 +1,5 @@
 ---
 title: "RAS Sport"
 url: /brighouse/ras-sport/
-shop: Motorrad
+shop: motorcycle
 ---

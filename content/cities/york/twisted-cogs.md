@@ -1,5 +1,5 @@
 ---
 title: "Twisted Cogs"
 url: /york/twisted-cogs/
-shop: Fahrrad
+shop: bicycle
 ---

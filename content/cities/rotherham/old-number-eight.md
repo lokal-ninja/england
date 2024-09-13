@@ -1,5 +1,5 @@
 ---
 title: "Old Number Eight"
 url: /rotherham/old-number-eight/
-shop: Tattoo
+shop: tattoo
 ---

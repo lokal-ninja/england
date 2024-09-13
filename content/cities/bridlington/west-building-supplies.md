@@ -1,5 +1,5 @@
 ---
 title: "West Building Supplies"
 url: /bridlington/west-building-supplies/
-shop: Baumarkt
+shop: doityourself
 ---

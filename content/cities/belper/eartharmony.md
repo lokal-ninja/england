@@ -1,5 +1,5 @@
 ---
 title: "Eartharmony"
 url: /belper/eartharmony/
-shop: Bioladen
+shop: health food
 ---

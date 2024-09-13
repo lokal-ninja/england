@@ -1,5 +1,5 @@
 ---
 title: "Skechers"
 url: /ellesmere-port/skechers-kinsey-road/
-shop: Schuhe
+shop: shoes
 ---

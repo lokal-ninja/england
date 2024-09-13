@@ -1,5 +1,5 @@
 ---
 title: "The Destination Lounge"
 url: /barnstaple/the-destination-lounge/
-shop: Reisebüro
+shop: travel agency
 ---

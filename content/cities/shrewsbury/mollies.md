@@ -1,5 +1,5 @@
 ---
 title: "Mollie's"
 url: /shrewsbury/mollies/
-shop: Süßwaren
+shop: confectionery
 ---

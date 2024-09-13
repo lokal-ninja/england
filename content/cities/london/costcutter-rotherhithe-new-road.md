@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /london/costcutter-rotherhithe-new-road/
-shop: Lebensmittel
+shop: convenience
 ---

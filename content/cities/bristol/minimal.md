@@ -1,5 +1,5 @@
 ---
 title: "minimal"
 url: /bristol/minimal/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Framework"
 url: /nottingham/framework/
-shop: Kunst
+shop: art
 ---

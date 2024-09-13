@@ -1,5 +1,5 @@
 ---
 title: "Jans"
 url: /rushden/jans/
-shop: Blumen
+shop: florist
 ---

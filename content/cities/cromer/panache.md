@@ -1,5 +1,5 @@
 ---
 title: "Panache"
 url: /cromer/panache/
-shop: Friseur
+shop: hairdresser
 ---

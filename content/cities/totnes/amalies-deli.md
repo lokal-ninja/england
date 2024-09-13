@@ -1,5 +1,5 @@
 ---
 title: "Amalie's Deli"
 url: /totnes/amalies-deli/
-shop: Feinkost
+shop: deli
 ---

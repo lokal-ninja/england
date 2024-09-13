@@ -1,5 +1,5 @@
 ---
 title: "Elegance"
 url: /weymouth/elegance/
-shop: Friseur
+shop: hairdresser
 ---

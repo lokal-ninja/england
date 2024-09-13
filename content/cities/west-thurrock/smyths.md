@@ -1,5 +1,5 @@
 ---
 title: "Smyths"
 url: /west-thurrock/smyths/
-shop: Spielzeug
+shop: toys
 ---

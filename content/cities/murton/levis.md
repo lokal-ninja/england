@@ -1,5 +1,5 @@
 ---
 title: "Levi's"
 url: /murton/levis/
-shop: Kleidung
+shop: clothes
 ---

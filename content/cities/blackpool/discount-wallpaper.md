@@ -1,5 +1,5 @@
 ---
 title: "Discount Wallpaper"
 url: /blackpool/discount-wallpaper/
-shop: Raumausstattung
+shop: interior decoration
 ---

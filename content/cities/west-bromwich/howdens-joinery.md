@@ -1,5 +1,5 @@
 ---
 title: "Howdens Joinery"
 url: /west-bromwich/howdens-joinery/
-shop: Küchen
+shop: kitchen
 ---

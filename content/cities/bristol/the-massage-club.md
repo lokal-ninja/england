@@ -1,5 +1,5 @@
 ---
 title: "The Massage Club"
 url: /bristol/the-massage-club/
-shop: Massage
+shop: massage
 ---

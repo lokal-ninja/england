@@ -1,5 +1,5 @@
 ---
 title: "iVape"
 url: /sheffield/ivape/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

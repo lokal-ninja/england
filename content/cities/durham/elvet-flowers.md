@@ -1,5 +1,5 @@
 ---
 title: "Elvet Flowers"
 url: /durham/elvet-flowers/
-shop: Blumen
+shop: florist
 ---

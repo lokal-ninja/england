@@ -1,5 +1,5 @@
 ---
 title: "LSK Convenience Store"
 url: /newcastle-upon-tyne/lsk-convenience-store/
-shop: Lebensmittel
+shop: convenience
 ---

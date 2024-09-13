@@ -1,5 +1,5 @@
 ---
 title: "Standens MOT Centre"
 url: /morecambe/standens-mot-centre/
-shop: Autowerkstatt
+shop: car repair
 ---

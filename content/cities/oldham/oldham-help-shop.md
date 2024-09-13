@@ -1,5 +1,5 @@
 ---
 title: "Oldham Help Shop"
 url: /oldham/oldham-help-shop/
-shop: Allgemein
+shop: shop
 ---

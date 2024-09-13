@@ -1,5 +1,5 @@
 ---
 title: "Delight"
 url: /london/delight/
-shop: Lebensmittel
+shop: convenience
 ---

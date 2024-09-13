@@ -1,5 +1,5 @@
 ---
 title: "About The Dog"
 url: /wotton-under-edge/about-the-dog/
-shop: Tiersalon
+shop: pet grooming
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pimlico Trove"
 url: /london/pimlico-trove/
-shop: Andenken
+shop: gift
 ---

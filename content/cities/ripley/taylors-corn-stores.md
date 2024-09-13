@@ -1,5 +1,5 @@
 ---
 title: "Taylors Corn Stores"
 url: /ripley/taylors-corn-stores/
-shop: Tiere
+shop: pet
 ---

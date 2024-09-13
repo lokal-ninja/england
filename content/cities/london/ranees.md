@@ -1,5 +1,5 @@
 ---
 title: "Ranees"
 url: /london/ranees/
-shop: Lebensmittel
+shop: convenience
 ---

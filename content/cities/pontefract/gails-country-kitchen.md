@@ -1,5 +1,5 @@
 ---
 title: "Gail's Country Kitchen"
 url: /pontefract/gails-country-kitchen/
-shop: Bäckerei
+shop: bakery
 ---

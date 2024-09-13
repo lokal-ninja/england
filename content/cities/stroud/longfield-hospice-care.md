@@ -1,5 +1,5 @@
 ---
 title: "Longfield Hospice Care"
 url: /stroud/longfield-hospice-care/
-shop: Gebrauchtwaren
+shop: charity
 ---

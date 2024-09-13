@@ -1,5 +1,5 @@
 ---
 title: "EACH"
 url: /great-clacton/each/
-shop: Gebrauchtwaren
+shop: charity
 ---

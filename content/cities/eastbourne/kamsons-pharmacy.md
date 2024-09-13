@@ -1,5 +1,5 @@
 ---
 title: "Kamsons Pharmacy"
 url: /eastbourne/kamsons-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

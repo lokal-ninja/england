@@ -1,5 +1,5 @@
 ---
 title: "Diamond cut barbers"
 url: /swanley/diamond-cut-barbers/
-shop: Friseur
+shop: hairdresser
 ---

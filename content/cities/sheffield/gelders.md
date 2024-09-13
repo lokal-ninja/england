@@ -1,5 +1,5 @@
 ---
 title: "Gelders"
 url: /sheffield/gelders/
-shop: Autowerkstatt
+shop: car repair
 ---

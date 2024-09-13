@@ -1,5 +1,5 @@
 ---
 title: "Kolare Newsagent"
 url: /leeds/kolare-newsagent/
-shop: Zeitungen
+shop: newsagent
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tru Aesthetics"
 url: /darlington/tru-aesthetics/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Crafty Locals"
 url: /exeter/crafty-locals/
-shop: Andenken
+shop: gift
 ---

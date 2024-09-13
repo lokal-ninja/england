@@ -1,5 +1,5 @@
 ---
 title: "Royal Smokehouse"
 url: /leeds/royal-smokehouse-branch-road/
-shop: Metzgerei
+shop: butcher
 ---

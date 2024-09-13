@@ -1,5 +1,5 @@
 ---
 title: "Kas"
 url: /london/kas/
-shop: Handy
+shop: mobile phone
 ---

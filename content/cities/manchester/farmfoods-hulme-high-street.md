@@ -1,5 +1,5 @@
 ---
 title: "Farmfoods"
 url: /manchester/farmfoods-hulme-high-street/
-shop: Tiefkühl
+shop: frozen food
 ---

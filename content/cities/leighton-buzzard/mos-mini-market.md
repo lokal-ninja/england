@@ -1,5 +1,5 @@
 ---
 title: "Mo's Mini Market"
 url: /leighton-buzzard/mos-mini-market/
-shop: Lebensmittel
+shop: convenience
 ---

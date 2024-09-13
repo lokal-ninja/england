@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /stanley/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

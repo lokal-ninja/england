@@ -1,5 +1,5 @@
 ---
 title: "TUI"
 url: /consett/tui/
-shop: Reisebüro
+shop: travel agency
 ---

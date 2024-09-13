@@ -1,5 +1,5 @@
 ---
 title: "Blackpool Market"
 url: /blackpool/blackpool-market/
-shop: Andenken
+shop: gift
 ---

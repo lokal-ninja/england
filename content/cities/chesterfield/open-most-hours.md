@@ -1,5 +1,5 @@
 ---
 title: "Open Most Hours"
 url: /chesterfield/open-most-hours/
-shop: Lebensmittel
+shop: convenience
 ---

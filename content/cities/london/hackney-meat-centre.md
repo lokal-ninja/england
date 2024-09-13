@@ -1,5 +1,5 @@
 ---
 title: "Hackney Meat Centre"
 url: /london/hackney-meat-centre/
-shop: Metzgerei
+shop: butcher
 ---

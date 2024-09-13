@@ -1,5 +1,5 @@
 ---
 title: "Postmark"
 url: /richmond/postmark/
-shop: Schreibwaren
+shop: office supplies
 ---

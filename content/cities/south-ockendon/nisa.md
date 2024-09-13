@@ -1,5 +1,5 @@
 ---
 title: "Nisa"
 url: /south-ockendon/nisa/
-shop: Lebensmittel
+shop: convenience
 ---

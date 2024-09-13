@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /trewoon/premier/
-shop: Lebensmittel
+shop: convenience
 ---

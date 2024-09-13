@@ -1,5 +1,5 @@
 ---
 title: "Shepleys Butchers"
 url: /market-drayton/shepleys-butchers/
-shop: Metzgerei
+shop: butcher
 ---

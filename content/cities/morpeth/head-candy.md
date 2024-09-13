@@ -1,5 +1,5 @@
 ---
 title: "Head Candy"
 url: /morpeth/head-candy/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Allcare"
 url: /castleford/allcare/
-shop: Sanitätshaus
+shop: medical supply
 ---

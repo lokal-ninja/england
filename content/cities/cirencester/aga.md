@@ -1,5 +1,5 @@
 ---
 title: "AGA"
 url: /cirencester/aga/
-shop: Haushaltsartikel
+shop: houseware
 ---

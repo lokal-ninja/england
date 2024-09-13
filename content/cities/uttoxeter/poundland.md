@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /uttoxeter/poundland/
-shop: Kramladen
+shop: variety store
 ---

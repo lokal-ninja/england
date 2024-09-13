@@ -1,5 +1,5 @@
 ---
 title: "FoneFix"
 url: /leicester/fonefix/
-shop: Handy
+shop: mobile phone
 ---

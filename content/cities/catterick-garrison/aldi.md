@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /catterick-garrison/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

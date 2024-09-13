@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /london/whsmith-streatham-high-road/
-shop: Bücher
+shop: books
 ---

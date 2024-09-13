@@ -1,5 +1,5 @@
 ---
 title: "Morrisons"
 url: /cheltenham/morrisons/
-shop: Lebensmittel
+shop: convenience
 ---

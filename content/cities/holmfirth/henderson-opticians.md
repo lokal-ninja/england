@@ -1,5 +1,5 @@
 ---
 title: "Henderson Opticians"
 url: /holmfirth/henderson-opticians/
-shop: Optiker
+shop: optician
 ---

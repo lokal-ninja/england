@@ -1,5 +1,5 @@
 ---
 title: "Boyes"
 url: /heanor/boyes/
-shop: Kramladen
+shop: variety store
 ---

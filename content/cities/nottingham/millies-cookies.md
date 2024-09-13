@@ -1,5 +1,5 @@
 ---
 title: "Millie's Cookies"
 url: /nottingham/millies-cookies/
-shop: Bäckerei
+shop: bakery
 ---

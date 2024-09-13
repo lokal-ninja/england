@@ -1,5 +1,5 @@
 ---
 title: "Reflections"
 url: /axminster/reflections/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Victoria Market"
 url: /diss/victoria-market/
-shop: Lebensmittel
+shop: convenience
 ---

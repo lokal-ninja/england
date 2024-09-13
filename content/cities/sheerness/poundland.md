@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /sheerness/poundland/
-shop: Kramladen
+shop: variety store
 ---

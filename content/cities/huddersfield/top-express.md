@@ -1,5 +1,5 @@
 ---
 title: "Top Express"
 url: /huddersfield/top-express/
-shop: Supermarkt
+shop: supermarket
 ---

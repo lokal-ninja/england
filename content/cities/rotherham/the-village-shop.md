@@ -1,5 +1,5 @@
 ---
 title: "The Village Shop"
 url: /rotherham/the-village-shop/
-shop: Dorfladen
+shop: general
 ---

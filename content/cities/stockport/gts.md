@@ -1,5 +1,5 @@
 ---
 title: "GTS"
 url: /stockport/gts/
-shop: Elektronik
+shop: electronics
 ---

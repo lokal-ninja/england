@@ -1,5 +1,5 @@
 ---
 title: "RS Southampton"
 url: /southampton/rs-southampton/
-shop: Elektronik
+shop: electronics
 ---

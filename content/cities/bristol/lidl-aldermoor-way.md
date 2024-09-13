@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /bristol/lidl-aldermoor-way/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Farmfoods"
 url: /coventry/farmfoods/
-shop: Tiefkühl
+shop: frozen food
 ---

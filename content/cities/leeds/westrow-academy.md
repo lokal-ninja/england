@@ -1,5 +1,5 @@
 ---
 title: "Westrow Academy"
 url: /leeds/westrow-academy/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "EE"
 url: /grays/ee/
-shop: Handy
+shop: mobile phone
 ---

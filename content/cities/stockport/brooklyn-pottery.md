@@ -1,5 +1,5 @@
 ---
 title: "Brooklyn Pottery"
 url: /stockport/brooklyn-pottery/
-shop: Basteln
+shop: craft
 ---

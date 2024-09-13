@@ -1,5 +1,5 @@
 ---
 title: "Biral"
 url: /bristol/biral/
-shop: Baustoffe
+shop: trade
 ---

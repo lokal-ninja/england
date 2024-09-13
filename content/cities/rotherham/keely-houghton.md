@@ -1,5 +1,5 @@
 ---
 title: "Keely Houghton"
 url: /rotherham/keely-houghton/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pophams"
 url: /london/pophams/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Farmfoods"
 url: /milton-keynes/farmfoods/
-shop: Tiefkühl
+shop: frozen food
 ---

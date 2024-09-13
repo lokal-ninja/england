@@ -1,5 +1,5 @@
 ---
 title: "The Vehicle Bodyshop"
 url: /cirencester/the-vehicle-bodyshop/
-shop: Autowerkstatt
+shop: car repair
 ---

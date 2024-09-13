@@ -1,5 +1,5 @@
 ---
 title: "Scope"
 url: /portsmouth/scope/
-shop: Gebrauchtwaren
+shop: charity
 ---

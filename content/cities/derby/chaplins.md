@@ -1,5 +1,5 @@
 ---
 title: "Chaplin's"
 url: /derby/chaplins/
-shop: Friseur
+shop: hairdresser
 ---

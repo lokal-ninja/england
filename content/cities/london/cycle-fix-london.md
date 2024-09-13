@@ -1,5 +1,5 @@
 ---
 title: "Cycle Fix London"
 url: /london/cycle-fix-london/
-shop: Fahrrad
+shop: bicycle
 ---

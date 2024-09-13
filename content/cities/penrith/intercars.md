@@ -1,5 +1,5 @@
 ---
 title: "Intercars"
 url: /penrith/intercars/
-shop: Autohaus
+shop: car
 ---

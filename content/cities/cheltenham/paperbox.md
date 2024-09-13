@@ -1,5 +1,5 @@
 ---
 title: "Paperbox"
 url: /cheltenham/paperbox/
-shop: Schreibwaren
+shop: office supplies
 ---

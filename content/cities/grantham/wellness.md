@@ -1,5 +1,5 @@
 ---
 title: "Wellness"
 url: /grantham/wellness/
-shop: Kosmetik
+shop: beauty
 ---

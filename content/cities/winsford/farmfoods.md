@@ -1,5 +1,5 @@
 ---
 title: "Farmfoods"
 url: /winsford/farmfoods/
-shop: Tiefkühl
+shop: frozen food
 ---

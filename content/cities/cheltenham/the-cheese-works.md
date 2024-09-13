@@ -1,5 +1,5 @@
 ---
 title: "The Cheese Works"
 url: /cheltenham/the-cheese-works/
-shop: Käse
+shop: cheese
 ---

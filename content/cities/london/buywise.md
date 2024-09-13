@@ -1,5 +1,5 @@
 ---
 title: "Buywise"
 url: /london/buywise/
-shop: Allgemein
+shop: shop
 ---

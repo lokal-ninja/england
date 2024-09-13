@@ -1,5 +1,5 @@
 ---
 title: "Premier Meats"
 url: /gateshead/premier-meats/
-shop: Metzgerei
+shop: butcher
 ---

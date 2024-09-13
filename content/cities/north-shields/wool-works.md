@@ -1,5 +1,5 @@
 ---
 title: "Wool Works"
 url: /north-shields/wool-works/
-shop: Allgemein
+shop: shop
 ---

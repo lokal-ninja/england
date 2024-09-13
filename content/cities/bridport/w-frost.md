@@ -1,5 +1,5 @@
 ---
 title: "W Frost"
 url: /bridport/w-frost/
-shop: Zeitungen
+shop: newsagent
 ---

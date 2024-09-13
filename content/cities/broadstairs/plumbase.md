@@ -1,5 +1,5 @@
 ---
 title: "PlumBase"
 url: /broadstairs/plumbase/
-shop: Allgemein
+shop: shop
 ---

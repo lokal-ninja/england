@@ -1,5 +1,5 @@
 ---
 title: "Cathjas"
 url: /feltham/cathjas/
-shop: Gebrauchtwaren
+shop: charity
 ---

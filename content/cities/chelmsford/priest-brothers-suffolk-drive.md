@@ -1,5 +1,5 @@
 ---
 title: "Priest Brothers"
 url: /chelmsford/priest-brothers-suffolk-drive/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Robert Holmes"
 url: /london/robert-holmes/
-shop: Immobilien
+shop: estate agent
 ---

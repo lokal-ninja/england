@@ -1,5 +1,5 @@
 ---
 title: "Fingertips"
 url: /london/fingertips/
-shop: Kosmetik
+shop: beauty
 ---

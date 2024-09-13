@@ -1,5 +1,5 @@
 ---
 title: "Bucks"
 url: /stowmarket/bucks/
-shop: Immobilien
+shop: estate agent
 ---

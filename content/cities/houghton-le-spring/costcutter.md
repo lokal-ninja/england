@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /houghton-le-spring/costcutter/
-shop: Lebensmittel
+shop: convenience
 ---

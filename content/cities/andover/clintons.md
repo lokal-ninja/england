@@ -1,5 +1,5 @@
 ---
 title: "Clintons"
 url: /andover/clintons/
-shop: Andenken
+shop: gift
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dobbies"
 url: /tewkesbury/dobbies/
-shop: Garten-Center
+shop: garden centre
 ---

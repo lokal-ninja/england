@@ -1,5 +1,5 @@
 ---
 title: "Urban Outfitters"
 url: /norwich/urban-outfitters/
-shop: Kleidung
+shop: clothes
 ---

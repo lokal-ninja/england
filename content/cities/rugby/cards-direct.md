@@ -1,5 +1,5 @@
 ---
 title: "Cards Direct"
 url: /rugby/cards-direct/
-shop: Andenken
+shop: gift
 ---

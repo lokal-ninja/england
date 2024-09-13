@@ -1,5 +1,5 @@
 ---
 title: "Superdrug"
 url: /peterborough/superdrug/
-shop: Drogerie
+shop: chemist
 ---

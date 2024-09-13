@@ -1,5 +1,5 @@
 ---
 title: "Michael Haycock"
 url: /leyland/michael-haycock/
-shop: Metzgerei
+shop: butcher
 ---

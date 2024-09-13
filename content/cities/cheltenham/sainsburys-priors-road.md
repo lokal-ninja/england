@@ -1,5 +1,5 @@
 ---
 title: "Sainsbury's"
 url: /cheltenham/sainsburys-priors-road/
-shop: Supermarkt
+shop: supermarket
 ---

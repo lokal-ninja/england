@@ -1,5 +1,5 @@
 ---
 title: "Ashmole Stores"
 url: /london/ashmole-stores/
-shop: Lebensmittel
+shop: convenience
 ---

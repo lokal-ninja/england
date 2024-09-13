@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /gravesend/poundland/
-shop: Kramladen
+shop: variety store
 ---

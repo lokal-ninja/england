@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /tiverton/spar-bridge-street/
-shop: Lebensmittel
+shop: convenience
 ---

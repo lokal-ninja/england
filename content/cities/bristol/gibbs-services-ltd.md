@@ -1,5 +1,5 @@
 ---
 title: "Gibbs Services Ltd"
 url: /bristol/gibbs-services-ltd/
-shop: Autowerkstatt
+shop: car repair
 ---

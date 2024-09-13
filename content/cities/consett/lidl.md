@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /consett/lidl/
-shop: Supermarkt
+shop: supermarket
 ---

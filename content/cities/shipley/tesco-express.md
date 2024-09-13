@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /shipley/tesco-express/
-shop: Lebensmittel
+shop: convenience
 ---

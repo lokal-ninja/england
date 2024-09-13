@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /nottingham/poundland-barton-lane/
-shop: Kramladen
+shop: variety store
 ---

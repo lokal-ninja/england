@@ -1,5 +1,5 @@
 ---
 title: "A One Choice"
 url: /london/a-one-choice/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "One Stop"
 url: /coventry/one-stop-westhill-road/
-shop: Lebensmittel
+shop: convenience
 ---

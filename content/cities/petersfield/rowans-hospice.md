@@ -1,5 +1,5 @@
 ---
 title: "Rowans Hospice"
 url: /petersfield/rowans-hospice/
-shop: Gebrauchtwaren
+shop: charity
 ---

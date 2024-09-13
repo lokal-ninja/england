@@ -1,5 +1,5 @@
 ---
 title: "Mercy 2 The World"
 url: /london/mercy-2-the-world/
-shop: Gebrauchtwaren
+shop: charity
 ---

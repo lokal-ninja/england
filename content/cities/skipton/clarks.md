@@ -1,5 +1,5 @@
 ---
 title: "Clarks"
 url: /skipton/clarks/
-shop: Schuhe
+shop: shoes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /guildford/spar/
-shop: Lebensmittel
+shop: convenience
 ---

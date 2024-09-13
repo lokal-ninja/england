@@ -1,5 +1,5 @@
 ---
 title: "The Kiosk"
 url: /kings-lynn/the-kiosk/
-shop: Zeitungen
+shop: newsagent
 ---

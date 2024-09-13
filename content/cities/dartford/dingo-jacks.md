@@ -1,5 +1,5 @@
 ---
 title: "Dingo Jacks"
 url: /dartford/dingo-jacks/
-shop: Instrumente
+shop: musical instrument
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tauntfield"
 url: /taunton/tauntfield/
-shop: Autoteile
+shop: car parts
 ---

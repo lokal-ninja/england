@@ -1,5 +1,5 @@
 ---
 title: "Bilton"
 url: /downham-market/bilton/
-shop: Friseur
+shop: hairdresser
 ---

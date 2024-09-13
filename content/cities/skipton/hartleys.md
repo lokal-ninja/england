@@ -1,5 +1,5 @@
 ---
 title: "Hartleys"
 url: /skipton/hartleys/
-shop: Betten
+shop: bed
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Eclipse Hair Studio"
 url: /aylsham/eclipse-hair-studio/
-shop: Friseur
+shop: hairdresser
 ---

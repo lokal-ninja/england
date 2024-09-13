@@ -1,5 +1,5 @@
 ---
 title: "Mane Attraction"
 url: /wakefield/mane-attraction/
-shop: Friseur
+shop: hairdresser
 ---

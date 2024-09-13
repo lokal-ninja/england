@@ -1,5 +1,5 @@
 ---
 title: "Wild Thyme"
 url: /southsea/wild-thyme/
-shop: Allgemein
+shop: shop
 ---

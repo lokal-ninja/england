@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /camberley/coral/
-shop: Wettbüro
+shop: bookmaker
 ---

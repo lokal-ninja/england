@@ -1,5 +1,5 @@
 ---
 title: "ImpressedLondon"
 url: /london/impressedlondon/
-shop: Fahrrad
+shop: bicycle
 ---

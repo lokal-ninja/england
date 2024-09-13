@@ -1,5 +1,5 @@
 ---
 title: "Welcome"
 url: /southwater/welcome/
-shop: Lebensmittel
+shop: convenience
 ---

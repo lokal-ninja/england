@@ -1,5 +1,5 @@
 ---
 title: "Chalk"
 url: /brighton/chalk/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /derby/ladbrokes/
-shop: Wettbüro
+shop: bookmaker
 ---

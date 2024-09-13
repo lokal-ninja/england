@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /sheffield/ladbrokes-attercliffe-road/
-shop: Wettbüro
+shop: bookmaker
 ---

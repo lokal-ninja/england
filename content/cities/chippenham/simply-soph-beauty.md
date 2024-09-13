@@ -1,5 +1,5 @@
 ---
 title: "Simply Soph Beauty"
 url: /chippenham/simply-soph-beauty/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Welcome Supermarket"
 url: /luton/welcome-supermarket/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kaspa's"
 url: /newcastle-upon-tyne/kaspas/
-shop: Süßwaren
+shop: confectionery
 ---

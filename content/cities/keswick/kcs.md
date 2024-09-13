@@ -1,5 +1,5 @@
 ---
 title: "KCS"
 url: /keswick/kcs/
-shop: Computer
+shop: computer
 ---

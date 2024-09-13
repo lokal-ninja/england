@@ -1,5 +1,5 @@
 ---
 title: "Hawkshead"
 url: /buxton/hawkshead/
-shop: Outdoor
+shop: outdoor
 ---

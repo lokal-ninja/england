@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /chorley/betfred/
-shop: Wettbüro
+shop: bookmaker
 ---

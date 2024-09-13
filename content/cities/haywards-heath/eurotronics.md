@@ -1,5 +1,5 @@
 ---
 title: "Eurotronics"
 url: /haywards-heath/eurotronics/
-shop: Haushaltsgeräte
+shop: appliance
 ---

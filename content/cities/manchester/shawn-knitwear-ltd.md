@@ -1,5 +1,5 @@
 ---
 title: "Shawn Knitwear Ltd"
 url: /manchester/shawn-knitwear-ltd/
-shop: Großhandel
+shop: wholesale
 ---

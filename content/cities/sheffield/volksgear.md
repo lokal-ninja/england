@@ -1,5 +1,5 @@
 ---
 title: "Volksgear"
 url: /sheffield/volksgear/
-shop: Autowerkstatt
+shop: car repair
 ---

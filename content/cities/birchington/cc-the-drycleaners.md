@@ -1,5 +1,5 @@
 ---
 title: "CC The Drycleaners"
 url: /birchington/cc-the-drycleaners/
-shop: Wäscherei
+shop: laundry
 ---

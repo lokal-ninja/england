@@ -1,5 +1,5 @@
 ---
 title: "Shaw Domestics"
 url: /oldham/shaw-domestics/
-shop: Staubsauger
+shop: vacuum cleaner
 ---

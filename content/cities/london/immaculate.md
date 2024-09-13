@@ -1,5 +1,5 @@
 ---
 title: "Immaculate"
 url: /london/immaculate/
-shop: Wäscherei
+shop: laundry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Penningtons"
 url: /castleford/penningtons/
-shop: Waffen
+shop: weapons
 ---

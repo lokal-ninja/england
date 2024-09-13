@@ -1,5 +1,5 @@
 ---
 title: "Cash Generator"
 url: /preston/cash-generator/
-shop: Leiher
+shop: pawnbroker
 ---

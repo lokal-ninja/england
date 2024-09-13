@@ -1,5 +1,5 @@
 ---
 title: "St Mary's Hospice"
 url: /ulverston/st-marys-hospice/
-shop: Gebrauchtwaren
+shop: charity
 ---

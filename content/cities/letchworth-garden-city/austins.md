@@ -1,5 +1,5 @@
 ---
 title: "Austin's"
 url: /letchworth-garden-city/austins/
-shop: Bestattungen
+shop: funeral directors
 ---

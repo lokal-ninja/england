@@ -1,5 +1,5 @@
 ---
 title: "Unique Fabrics"
 url: /london/unique-fabrics/
-shop: Textil
+shop: fabric
 ---

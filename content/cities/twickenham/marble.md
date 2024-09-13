@@ -1,5 +1,5 @@
 ---
 title: "Marble"
 url: /twickenham/marble/
-shop: Wäscherei
+shop: laundry
 ---

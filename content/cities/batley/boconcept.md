@@ -1,5 +1,5 @@
 ---
 title: "BoConcept"
 url: /batley/boconcept/
-shop: Möbel
+shop: furniture
 ---

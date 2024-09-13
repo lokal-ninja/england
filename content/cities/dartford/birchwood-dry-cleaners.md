@@ -1,5 +1,5 @@
 ---
 title: "Birchwood Dry Cleaners"
 url: /dartford/birchwood-dry-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

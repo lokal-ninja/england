@@ -1,5 +1,5 @@
 ---
 title: "dentelle"
 url: /solihull/dentelle/
-shop: Kosmetik
+shop: beauty
 ---

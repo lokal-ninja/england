@@ -1,5 +1,5 @@
 ---
 title: "Virgin"
 url: /lincoln/virgin/
-shop: Handy
+shop: mobile phone
 ---

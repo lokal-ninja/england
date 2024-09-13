@@ -1,5 +1,5 @@
 ---
 title: "Volvo"
 url: /ipswich/volvo/
-shop: Autowerkstatt
+shop: car repair
 ---

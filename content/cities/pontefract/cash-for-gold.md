@@ -1,5 +1,5 @@
 ---
 title: "Cash for Gold"
 url: /pontefract/cash-for-gold/
-shop: Leiher
+shop: pawnbroker
 ---

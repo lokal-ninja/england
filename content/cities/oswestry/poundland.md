@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /oswestry/poundland/
-shop: Kramladen
+shop: variety store
 ---

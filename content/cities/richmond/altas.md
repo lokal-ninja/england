@@ -1,5 +1,5 @@
 ---
 title: "Altas"
 url: /richmond/altas/
-shop: Metzgerei
+shop: butcher
 ---

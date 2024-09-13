@@ -1,5 +1,5 @@
 ---
 title: "South Central Barbers"
 url: /bristol/south-central-barbers/
-shop: Kosmetik
+shop: beauty
 ---

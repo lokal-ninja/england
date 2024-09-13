@@ -1,5 +1,5 @@
 ---
 title: "Racespace Sporthomes"
 url: /wellington/racespace-sporthomes/
-shop: Autohaus
+shop: car
 ---

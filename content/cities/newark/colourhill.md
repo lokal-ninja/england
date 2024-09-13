@@ -1,5 +1,5 @@
 ---
 title: "Colourhill"
 url: /newark/colourhill/
-shop: Küchen
+shop: kitchen
 ---

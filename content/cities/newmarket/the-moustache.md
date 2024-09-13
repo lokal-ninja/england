@@ -1,5 +1,5 @@
 ---
 title: "The Moustache"
 url: /newmarket/the-moustache/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Khan's"
 url: /birmingham/khans/
-shop: Lebensmittel
+shop: convenience
 ---

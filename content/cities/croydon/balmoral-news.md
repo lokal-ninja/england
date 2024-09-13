@@ -1,5 +1,5 @@
 ---
 title: "Balmoral News"
 url: /croydon/balmoral-news/
-shop: Lebensmittel
+shop: convenience
 ---

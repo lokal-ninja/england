@@ -1,5 +1,5 @@
 ---
 title: "Fone Revive"
 url: /bristol/fone-revive/
-shop: Handy
+shop: mobile phone
 ---

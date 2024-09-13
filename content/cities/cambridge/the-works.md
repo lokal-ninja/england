@@ -1,5 +1,5 @@
 ---
 title: "The Works"
 url: /cambridge/the-works/
-shop: Schreibwaren
+shop: office supplies
 ---

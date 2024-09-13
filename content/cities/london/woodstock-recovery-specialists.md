@@ -1,5 +1,5 @@
 ---
 title: "Woodstock Recovery Specialists"
 url: /london/woodstock-recovery-specialists/
-shop: Autowerkstatt
+shop: car repair
 ---

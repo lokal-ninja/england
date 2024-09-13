@@ -1,5 +1,5 @@
 ---
 title: "AngloCypria Ltd"
 url: /croydon/anglocypria-ltd/
-shop: Immobilien
+shop: estate agent
 ---

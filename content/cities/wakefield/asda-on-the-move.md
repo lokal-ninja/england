@@ -1,5 +1,5 @@
 ---
-title: "Asda On the Move"
+title: "Asda On The Move"
 url: /wakefield/asda-on-the-move/
-shop: Lebensmittel
+shop: convenience
 ---

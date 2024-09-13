@@ -1,5 +1,5 @@
 ---
 title: "Safestore"
 url: /barking/safestore/
-shop: Mieten
+shop: storage rental
 ---

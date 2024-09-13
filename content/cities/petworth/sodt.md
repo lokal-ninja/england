@@ -1,5 +1,5 @@
 ---
 title: "Sødt"
 url: /petworth/sodt/
-shop: Bäckerei
+shop: bakery
 ---

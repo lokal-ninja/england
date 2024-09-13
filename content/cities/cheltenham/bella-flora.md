@@ -1,5 +1,5 @@
 ---
 title: "Bella Flora"
 url: /cheltenham/bella-flora/
-shop: Blumen
+shop: florist
 ---

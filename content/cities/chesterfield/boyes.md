@@ -1,5 +1,5 @@
 ---
 title: "Boyes"
 url: /chesterfield/boyes/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rolex"
 url: /london/rolex/
-shop: Schmuck
+shop: jewelry
 ---

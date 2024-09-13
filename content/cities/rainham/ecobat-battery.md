@@ -1,5 +1,5 @@
 ---
 title: "Ecobat Battery"
 url: /rainham/ecobat-battery/
-shop: Autoteile
+shop: car parts
 ---

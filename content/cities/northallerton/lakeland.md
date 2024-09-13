@@ -1,5 +1,5 @@
 ---
 title: "Lakeland"
 url: /northallerton/lakeland/
-shop: Kleidung
+shop: clothes
 ---

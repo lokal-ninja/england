@@ -1,5 +1,5 @@
 ---
 title: "Whitehorse Stores"
 url: /croydon/whitehorse-stores/
-shop: Lebensmittel
+shop: convenience
 ---

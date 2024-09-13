@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /benfleet/ladbrokes/
-shop: Wettbüro
+shop: bookmaker
 ---

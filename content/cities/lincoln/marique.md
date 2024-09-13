@@ -1,5 +1,5 @@
 ---
 title: "Marique"
 url: /lincoln/marique/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bargain Booze"
 url: /ellesmere-port/bargain-booze-chester-road/
-shop: Spirituosen
+shop: alcohol
 ---

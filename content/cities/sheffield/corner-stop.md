@@ -1,5 +1,5 @@
 ---
 title: "Corner Stop"
 url: /sheffield/corner-stop/
-shop: Lebensmittel
+shop: convenience
 ---

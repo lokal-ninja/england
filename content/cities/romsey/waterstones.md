@@ -1,5 +1,5 @@
 ---
 title: "Waterstones"
 url: /romsey/waterstones/
-shop: Bücher
+shop: books
 ---

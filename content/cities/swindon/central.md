@@ -1,5 +1,5 @@
 ---
 title: "Central"
 url: /swindon/central/
-shop: Lebensmittel
+shop: convenience
 ---

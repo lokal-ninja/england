@@ -1,5 +1,5 @@
 ---
 title: "The English Beauty"
 url: /warrington/the-english-beauty/
-shop: Kosmetik
+shop: beauty
 ---

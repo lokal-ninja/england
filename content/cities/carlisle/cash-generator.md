@@ -1,5 +1,5 @@
 ---
 title: "Cash Generator"
 url: /carlisle/cash-generator/
-shop: Leiher
+shop: pawnbroker
 ---

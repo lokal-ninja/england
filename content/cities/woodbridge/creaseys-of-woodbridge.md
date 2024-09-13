@@ -1,5 +1,5 @@
 ---
 title: "Creaseys of Woodbridge"
 url: /woodbridge/creaseys-of-woodbridge/
-shop: Metzgerei
+shop: butcher
 ---

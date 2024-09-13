@@ -1,5 +1,5 @@
 ---
 title: "Glamorous Nails"
 url: /london/glamorous-nails/
-shop: Kosmetik
+shop: beauty
 ---

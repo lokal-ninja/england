@@ -1,5 +1,5 @@
 ---
 title: "Pandora"
 url: /bristol/pandora/
-shop: Schmuck
+shop: jewelry
 ---

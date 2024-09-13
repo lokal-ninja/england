@@ -1,5 +1,5 @@
 ---
 title: "Glow"
 url: /caterham/glow/
-shop: Kosmetik
+shop: beauty
 ---

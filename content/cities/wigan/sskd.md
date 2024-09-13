@@ -1,5 +1,5 @@
 ---
 title: "SSKD"
 url: /wigan/sskd/
-shop: Küchen
+shop: kitchen
 ---

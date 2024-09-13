@@ -1,5 +1,5 @@
 ---
 title: "Charisma"
 url: /sheffield/charisma/
-shop: Andenken
+shop: gift
 ---

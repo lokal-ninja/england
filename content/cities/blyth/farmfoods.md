@@ -1,5 +1,5 @@
 ---
 title: "Farmfoods"
 url: /blyth/farmfoods/
-shop: Tiefkühl
+shop: frozen food
 ---

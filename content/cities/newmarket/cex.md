@@ -1,5 +1,5 @@
 ---
 title: "CeX"
 url: /newmarket/cex/
-shop: Elektronik
+shop: electronics
 ---

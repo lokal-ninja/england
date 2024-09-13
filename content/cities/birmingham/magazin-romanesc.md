@@ -1,5 +1,5 @@
 ---
 title: "Magazin Romanesc"
 url: /birmingham/magazin-romanesc/
-shop: Lebensmittel
+shop: convenience
 ---

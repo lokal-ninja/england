@@ -1,5 +1,5 @@
 ---
 title: "So"
 url: /leamington-spa/so/
-shop: Friseur
+shop: hairdresser
 ---

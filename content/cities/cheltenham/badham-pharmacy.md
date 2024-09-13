@@ -1,5 +1,5 @@
 ---
 title: "Badham Pharmacy"
 url: /cheltenham/badham-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

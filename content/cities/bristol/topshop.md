@@ -1,5 +1,5 @@
 ---
 title: "Topshop"
 url: /bristol/topshop/
-shop: Kleidung
+shop: clothes
 ---

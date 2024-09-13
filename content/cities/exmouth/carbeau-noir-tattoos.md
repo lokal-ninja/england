@@ -1,5 +1,5 @@
 ---
 title: "Carbeau Noir Tattoos"
 url: /exmouth/carbeau-noir-tattoos/
-shop: Tattoo
+shop: tattoo
 ---

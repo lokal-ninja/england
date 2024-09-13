@@ -1,5 +1,5 @@
 ---
 title: "Forest"
 url: /london/forest/
-shop: Blumen
+shop: florist
 ---

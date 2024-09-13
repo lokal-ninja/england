@@ -1,5 +1,5 @@
 ---
 title: "Peak Stores"
 url: /chesterfield/peak-stores/
-shop: Lebensmittel
+shop: convenience
 ---

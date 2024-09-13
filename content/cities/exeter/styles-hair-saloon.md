@@ -1,5 +1,5 @@
 ---
 title: "Styles Hair Saloon"
 url: /exeter/styles-hair-saloon/
-shop: Friseur
+shop: hairdresser
 ---

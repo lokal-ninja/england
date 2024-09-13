@@ -1,5 +1,5 @@
 ---
 title: "Cambridge Lambretta"
 url: /st-ives/cambridge-lambretta/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Exeter Exotics"
 url: /exeter/exeter-exotics/
-shop: Tiere
+shop: pet
 ---

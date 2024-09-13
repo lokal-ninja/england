@@ -1,5 +1,5 @@
 ---
 title: "Halo"
 url: /heanor/halo/
-shop: Friseur
+shop: hairdresser
 ---

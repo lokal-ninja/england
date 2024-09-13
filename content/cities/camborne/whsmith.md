@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /camborne/whsmith/
-shop: Zeitungen
+shop: newsagent
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Emscote Motors"
 url: /warwick/emscote-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

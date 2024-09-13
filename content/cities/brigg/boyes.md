@@ -1,5 +1,5 @@
 ---
 title: "Boyes"
 url: /brigg/boyes/
-shop: Kramladen
+shop: variety store
 ---

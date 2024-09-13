@@ -1,5 +1,5 @@
 ---
 title: "Flairline"
 url: /london/flairline/
-shop: Raumausstattung
+shop: interior decoration
 ---

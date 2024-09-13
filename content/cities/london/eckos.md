@@ -1,5 +1,5 @@
 ---
 title: "Eckos"
 url: /london/eckos/
-shop: Tiefkühl
+shop: frozen food
 ---

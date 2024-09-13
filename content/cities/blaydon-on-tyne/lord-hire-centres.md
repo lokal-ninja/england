@@ -1,5 +1,5 @@
 ---
 title: "Lord Hire Centres"
 url: /blaydon-on-tyne/lord-hire-centres/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rowley Fine Art"
 url: /ely/rowley-fine-art/
-shop: Auktionshaus
+shop: auction house
 ---

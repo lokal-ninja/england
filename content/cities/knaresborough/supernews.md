@@ -1,5 +1,5 @@
 ---
 title: "Supernews"
 url: /knaresborough/supernews/
-shop: Zeitungen
+shop: newsagent
 ---

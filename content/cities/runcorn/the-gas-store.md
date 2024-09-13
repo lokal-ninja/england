@@ -1,5 +1,5 @@
 ---
 title: "The Gas Store"
 url: /runcorn/the-gas-store/
-shop: Möbel
+shop: furniture
 ---

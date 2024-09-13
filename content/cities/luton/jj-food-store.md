@@ -1,5 +1,5 @@
 ---
 title: "JJ Food Store"
 url: /luton/jj-food-store/
-shop: Lebensmittel
+shop: convenience
 ---

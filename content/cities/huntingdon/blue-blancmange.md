@@ -1,5 +1,5 @@
 ---
 title: "Blue Blancmange"
 url: /huntingdon/blue-blancmange/
-shop: Kleidung
+shop: clothes
 ---

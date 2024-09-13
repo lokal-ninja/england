@@ -1,5 +1,5 @@
 ---
 title: "The Vegan Hub"
 url: /shrewsbury/the-vegan-hub/
-shop: Bioladen
+shop: health food
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Heron Foods"
 url: /sunderland/heron-foods-anthony-road/
-shop: Supermarkt
+shop: supermarket
 ---

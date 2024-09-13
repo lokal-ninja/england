@@ -1,5 +1,5 @@
 ---
 title: "Domesticare Products"
 url: /ware/domesticare-products/
-shop: Eisenwaren
+shop: hardware
 ---

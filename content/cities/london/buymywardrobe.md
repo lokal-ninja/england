@@ -1,5 +1,5 @@
 ---
 title: "buymywardrobe"
 url: /london/buymywardrobe/
-shop: Gebrauchtwaren
+shop: charity
 ---

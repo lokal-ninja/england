@@ -1,5 +1,5 @@
 ---
 title: "Allmart"
 url: /london/allmart/
-shop: Lebensmittel
+shop: convenience
 ---

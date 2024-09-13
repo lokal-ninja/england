@@ -1,5 +1,5 @@
 ---
 title: "Osah"
 url: /chelmsford/osah/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Origins"
 url: /cambridge/origins/
-shop: Drogerie
+shop: chemist
 ---

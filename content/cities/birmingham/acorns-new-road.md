@@ -1,5 +1,5 @@
 ---
 title: "Acorns"
 url: /birmingham/acorns-new-road/
-shop: Gebrauchtwaren
+shop: charity
 ---

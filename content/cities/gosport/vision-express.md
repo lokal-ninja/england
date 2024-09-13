@@ -1,5 +1,5 @@
 ---
 title: "Vision Express"
 url: /gosport/vision-express/
-shop: Optiker
+shop: optician
 ---

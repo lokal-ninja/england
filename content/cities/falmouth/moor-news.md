@@ -1,5 +1,5 @@
 ---
 title: "Moor News"
 url: /falmouth/moor-news/
-shop: Zeitungen
+shop: newsagent
 ---

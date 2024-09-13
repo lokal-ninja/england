@@ -1,5 +1,5 @@
 ---
 title: "Darlington Carpet Centre"
 url: /darlington/darlington-carpet-centre/
-shop: Teppiche
+shop: carpet
 ---

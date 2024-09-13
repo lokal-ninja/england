@@ -1,5 +1,5 @@
 ---
 title: "Halfords"
 url: /halifax/halfords/
-shop: Autoteile
+shop: car parts
 ---

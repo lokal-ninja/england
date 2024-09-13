@@ -1,5 +1,5 @@
 ---
 title: "Interesting"
 url: /liverpool/interesting/
-shop: Allgemein
+shop: shop
 ---

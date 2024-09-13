@@ -1,5 +1,5 @@
 ---
 title: "Case"
 url: /london/case/
-shop: Möbel
+shop: furniture
 ---

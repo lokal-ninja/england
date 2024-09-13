@@ -1,5 +1,5 @@
 ---
 title: "Strings and Things"
 url: /bridgwater/strings-and-things/
-shop: Instrumente
+shop: musical instrument
 ---

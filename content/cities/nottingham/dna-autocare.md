@@ -1,5 +1,5 @@
 ---
 title: "DNA Autocare"
 url: /nottingham/dna-autocare/
-shop: Autowerkstatt
+shop: car repair
 ---

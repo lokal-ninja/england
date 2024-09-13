@@ -1,5 +1,5 @@
 ---
 title: "Knottingley Garage"
 url: /knottingley/knottingley-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

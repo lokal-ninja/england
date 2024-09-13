@@ -1,5 +1,5 @@
 ---
 title: "Bespoke Flowers"
 url: /dagenham/bespoke-flowers/
-shop: Blumen
+shop: florist
 ---

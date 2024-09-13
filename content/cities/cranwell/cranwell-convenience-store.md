@@ -1,5 +1,5 @@
 ---
 title: "Cranwell Convenience Store"
 url: /cranwell/cranwell-convenience-store/
-shop: Lebensmittel
+shop: convenience
 ---

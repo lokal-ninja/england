@@ -1,5 +1,5 @@
 ---
 title: "Castle Garage"
 url: /penrith/castle-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

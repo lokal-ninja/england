@@ -1,5 +1,5 @@
 ---
 title: "Afro Butcher Emma"
 url: /derby/afro-butcher-emma/
-shop: Metzgerei
+shop: butcher
 ---

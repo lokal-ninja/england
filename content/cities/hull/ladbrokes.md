@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /hull/ladbrokes/
-shop: Wettbüro
+shop: bookmaker
 ---

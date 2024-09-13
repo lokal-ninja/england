@@ -1,5 +1,5 @@
 ---
 title: "The Hair Group"
 url: /cirencester/the-hair-group/
-shop: Friseur
+shop: hairdresser
 ---

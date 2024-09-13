@@ -1,5 +1,5 @@
 ---
 title: "Prominence Estates"
 url: /coventry/prominence-estates/
-shop: Immobilien
+shop: estate agent
 ---

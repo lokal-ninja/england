@@ -1,5 +1,5 @@
 ---
 title: "Launderette"
 url: /greenford/launderette/
-shop: Wäscherei
+shop: laundry
 ---

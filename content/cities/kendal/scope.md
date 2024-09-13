@@ -1,5 +1,5 @@
 ---
 title: "Scope"
 url: /kendal/scope/
-shop: Gebrauchtwaren
+shop: charity
 ---

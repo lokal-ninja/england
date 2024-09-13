@@ -1,5 +1,5 @@
 ---
 title: "Evans Marquee Hire"
 url: /lancaster/evans-marquee-hire/
-shop: Mieten
+shop: storage rental
 ---

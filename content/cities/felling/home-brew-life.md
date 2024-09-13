@@ -1,5 +1,5 @@
 ---
 title: "Home Brew Life"
 url: /felling/home-brew-life/
-shop: Allgemein
+shop: shop
 ---

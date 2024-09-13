@@ -1,5 +1,5 @@
 ---
 title: "Primark"
 url: /burton-on-trent/primark/
-shop: Kleidung
+shop: clothes
 ---

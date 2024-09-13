@@ -1,5 +1,5 @@
 ---
 title: "Robert Dyas"
 url: /richmond/robert-dyas/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rivus"
 url: /reading/rivus/
-shop: Autowerkstatt
+shop: car repair
 ---

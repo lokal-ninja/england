@@ -1,5 +1,5 @@
 ---
 title: "Phonestop"
 url: /london/phonestop/
-shop: Handy
+shop: mobile phone
 ---

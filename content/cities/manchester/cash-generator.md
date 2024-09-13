@@ -1,5 +1,5 @@
 ---
 title: "Cash Generator"
 url: /manchester/cash-generator/
-shop: Gebrauchtwaren
+shop: charity
 ---

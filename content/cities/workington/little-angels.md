@@ -1,5 +1,5 @@
 ---
 title: "Little Angels"
 url: /workington/little-angels/
-shop: Babysachen
+shop: baby goods
 ---

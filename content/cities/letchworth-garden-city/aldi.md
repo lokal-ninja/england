@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /letchworth-garden-city/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

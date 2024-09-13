@@ -1,5 +1,5 @@
 ---
 title: "Sophisticuts"
 url: /dereham/sophisticuts/
-shop: Friseur
+shop: hairdresser
 ---

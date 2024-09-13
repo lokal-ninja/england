@@ -1,5 +1,5 @@
 ---
 title: "pczone uk"
 url: /warrington/pczone-uk/
-shop: Computer
+shop: computer
 ---

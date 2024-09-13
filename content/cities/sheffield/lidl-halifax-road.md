@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /sheffield/lidl-halifax-road/
-shop: Supermarkt
+shop: supermarket
 ---

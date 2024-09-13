@@ -1,5 +1,5 @@
 ---
 title: "Haus of Wildes"
 url: /warrington/haus-of-wildes/
-shop: Kosmetik
+shop: beauty
 ---

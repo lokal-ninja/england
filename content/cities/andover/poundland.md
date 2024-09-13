@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /andover/poundland/
-shop: Kramladen
+shop: variety store
 ---

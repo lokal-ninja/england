@@ -1,5 +1,5 @@
 ---
 title: "Eclipz"
 url: /kings-lynn/eclipz/
-shop: Friseur
+shop: hairdresser
 ---

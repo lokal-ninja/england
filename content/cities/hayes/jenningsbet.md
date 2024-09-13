@@ -1,5 +1,5 @@
 ---
 title: "JenningsBet"
 url: /hayes/jenningsbet/
-shop: Wettbüro
+shop: bookmaker
 ---

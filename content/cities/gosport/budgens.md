@@ -1,5 +1,5 @@
 ---
 title: "Budgens"
 url: /gosport/budgens/
-shop: Supermarkt
+shop: supermarket
 ---

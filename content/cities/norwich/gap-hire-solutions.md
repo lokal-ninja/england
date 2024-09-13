@@ -1,5 +1,5 @@
 ---
 title: "GAP Hire Solutions"
 url: /norwich/gap-hire-solutions/
-shop: Allgemein
+shop: shop
 ---

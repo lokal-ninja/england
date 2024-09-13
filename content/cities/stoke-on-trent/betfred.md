@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /stoke-on-trent/betfred/
-shop: Wettbüro
+shop: bookmaker
 ---

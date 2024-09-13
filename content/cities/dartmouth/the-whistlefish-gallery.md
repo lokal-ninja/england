@@ -1,5 +1,5 @@
 ---
 title: "The Whistlefish Gallery"
 url: /dartmouth/the-whistlefish-gallery/
-shop: Kunst
+shop: art
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Woofmans"
 url: /brighton/woofmans/
-shop: Tiersalon
+shop: pet grooming
 ---

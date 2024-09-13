@@ -1,5 +1,5 @@
 ---
 title: "Patsons"
 url: /london/patsons/
-shop: Lebensmittel
+shop: convenience
 ---

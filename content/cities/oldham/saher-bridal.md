@@ -1,5 +1,5 @@
 ---
 title: "Saher Bridal"
 url: /oldham/saher-bridal/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hair Lounge"
 url: /dagenham/hair-lounge/
-shop: Friseur
+shop: hairdresser
 ---

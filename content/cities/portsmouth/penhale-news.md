@@ -1,5 +1,5 @@
 ---
 title: "Penhale News"
 url: /portsmouth/penhale-news/
-shop: Lebensmittel
+shop: convenience
 ---

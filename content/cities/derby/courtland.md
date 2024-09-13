@@ -1,5 +1,5 @@
 ---
 title: "Courtland"
 url: /derby/courtland/
-shop: Schmuck
+shop: jewelry
 ---

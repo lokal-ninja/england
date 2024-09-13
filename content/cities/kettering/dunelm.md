@@ -1,5 +1,5 @@
 ---
 title: "Dunelm"
 url: /kettering/dunelm/
-shop: Raumausstattung
+shop: interior decoration
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rimblades"
 url: /wellington/rimblades/
-shop: Autoteile
+shop: car parts
 ---

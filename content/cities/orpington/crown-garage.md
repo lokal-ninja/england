@@ -1,5 +1,5 @@
 ---
 title: "Crown Garage"
 url: /orpington/crown-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

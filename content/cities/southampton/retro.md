@@ -1,5 +1,5 @@
 ---
 title: "Retro"
 url: /southampton/retro/
-shop: Friseur
+shop: hairdresser
 ---

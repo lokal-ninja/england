@@ -1,5 +1,5 @@
 ---
 title: "TopGift"
 url: /newmarket/topgift/
-shop: Handy
+shop: mobile phone
 ---

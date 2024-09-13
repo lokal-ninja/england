@@ -1,5 +1,5 @@
 ---
 title: "Dwell"
 url: /grays/dwell/
-shop: Möbel
+shop: furniture
 ---

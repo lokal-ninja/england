@@ -1,5 +1,5 @@
 ---
 title: "Home Farm Bakery"
 url: /pontefract/home-farm-bakery/
-shop: Bäckerei
+shop: bakery
 ---

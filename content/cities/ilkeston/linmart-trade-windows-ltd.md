@@ -1,5 +1,5 @@
 ---
 title: "Linmart Trade Windows Ltd"
 url: /ilkeston/linmart-trade-windows-ltd/
-shop: Baustoffe
+shop: trade
 ---

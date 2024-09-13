@@ -1,5 +1,5 @@
 ---
 title: "The Well Charity Shop"
 url: /london/the-well-charity-shop/
-shop: Gebrauchtwaren
+shop: charity
 ---

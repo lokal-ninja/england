@@ -1,5 +1,5 @@
 ---
 title: "Storefirst.com"
 url: /preston/storefirst-com/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Partrigdes"
 url: /london/partrigdes/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shelf Life"
 url: /axminster/shelf-life/
-shop: Gebrauchtwaren
+shop: charity
 ---

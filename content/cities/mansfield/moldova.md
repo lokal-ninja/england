@@ -1,5 +1,5 @@
 ---
 title: "Moldova"
 url: /mansfield/moldova/
-shop: Lebensmittel
+shop: convenience
 ---

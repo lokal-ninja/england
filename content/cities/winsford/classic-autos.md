@@ -1,5 +1,5 @@
 ---
 title: "Classic Autos"
 url: /winsford/classic-autos/
-shop: Autowerkstatt
+shop: car repair
 ---

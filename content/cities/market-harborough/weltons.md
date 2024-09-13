@@ -1,5 +1,5 @@
 ---
 title: "Welton's"
 url: /market-harborough/weltons/
-shop: Lebensmittel
+shop: convenience
 ---

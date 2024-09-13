@@ -1,5 +1,5 @@
 ---
 title: "Williams Garage"
 url: /warrington/williams-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

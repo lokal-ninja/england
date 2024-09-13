@@ -1,5 +1,5 @@
 ---
 title: "Mansur Barbers"
 url: /exeter/mansur-barbers/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Timpson"
 url: /st-albans/timpson/
-shop: Schlüsseldienst
+shop: locksmith
 ---

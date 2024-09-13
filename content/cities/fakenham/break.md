@@ -1,5 +1,5 @@
 ---
 title: "Break"
 url: /fakenham/break/
-shop: Gebrauchtwaren
+shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Iconic"
 url: /exmouth/iconic/
-shop: Friseur
+shop: hairdresser
 ---

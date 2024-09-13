@@ -1,5 +1,5 @@
 ---
 title: "Farmfoods"
 url: /portsmouth/farmfoods/
-shop: Tiefkühl
+shop: frozen food
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Illeys Food Store"
 url: /sheffield/illeys-food-store/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /london/poundland-kilburn-high-road/
-shop: Kramladen
+shop: variety store
 ---

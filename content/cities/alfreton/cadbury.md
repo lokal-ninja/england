@@ -1,5 +1,5 @@
 ---
 title: "Cadbury"
 url: /alfreton/cadbury/
-shop: Süßwaren
+shop: confectionery
 ---

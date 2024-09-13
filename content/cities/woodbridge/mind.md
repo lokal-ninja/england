@@ -1,5 +1,5 @@
 ---
 title: "Mind"
 url: /woodbridge/mind/
-shop: Gebrauchtwaren
+shop: charity
 ---

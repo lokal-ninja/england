@@ -1,5 +1,5 @@
 ---
 title: "Boyes"
 url: /melton-mowbray/boyes/
-shop: Kramladen
+shop: variety store
 ---

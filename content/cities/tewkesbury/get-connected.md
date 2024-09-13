@@ -1,5 +1,5 @@
 ---
 title: "Get Connected"
 url: /tewkesbury/get-connected/
-shop: Handy
+shop: mobile phone
 ---

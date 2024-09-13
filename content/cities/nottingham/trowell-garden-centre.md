@@ -1,5 +1,5 @@
 ---
 title: "Trowell Garden Centre"
 url: /nottingham/trowell-garden-centre/
-shop: Garten-Center
+shop: garden centre
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Autoglass"
 url: /colchester/autoglass/
-shop: Autowerkstatt
+shop: car repair
 ---

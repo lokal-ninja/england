@@ -1,5 +1,5 @@
 ---
 title: "Fashionmark"
 url: /manchester/fashionmark/
-shop: Kleidung
+shop: clothes
 ---

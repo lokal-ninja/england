@@ -1,5 +1,5 @@
 ---
 title: "Careys"
 url: /bristol/careys/
-shop: Baumarkt
+shop: doityourself
 ---

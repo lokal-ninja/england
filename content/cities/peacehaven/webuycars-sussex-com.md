@@ -1,5 +1,5 @@
 ---
 title: "Webuycars-sussex.com"
 url: /peacehaven/webuycars-sussex-com/
-shop: Autohaus
+shop: car
 ---

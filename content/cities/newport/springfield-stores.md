@@ -1,5 +1,5 @@
 ---
 title: "Springfield Stores"
 url: /newport/springfield-stores/
-shop: Lebensmittel
+shop: convenience
 ---

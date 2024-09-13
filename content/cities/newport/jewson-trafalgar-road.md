@@ -1,5 +1,5 @@
 ---
 title: "Jewson"
 url: /newport/jewson-trafalgar-road/
-shop: Baustoffe
+shop: trade
 ---

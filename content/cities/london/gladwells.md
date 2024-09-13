@@ -1,5 +1,5 @@
 ---
 title: "Gladwell's"
 url: /london/gladwells/
-shop: Lebensmittel
+shop: convenience
 ---

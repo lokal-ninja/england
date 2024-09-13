@@ -1,5 +1,5 @@
 ---
 title: "Specsavers"
 url: /borehamwood/specsavers/
-shop: Optiker
+shop: optician
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /huntingdon/spar/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Phone Doctor"
 url: /colchester/phone-doctor/
-shop: Handy
+shop: mobile phone
 ---

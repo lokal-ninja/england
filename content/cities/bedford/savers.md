@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /bedford/savers/
-shop: Drogerie
+shop: chemist
 ---

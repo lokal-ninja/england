@@ -1,5 +1,5 @@
 ---
 title: "Gigi’s Dressing Room"
 url: /london/gigis-dressing-room/
-shop: Kleidung
+shop: clothes
 ---

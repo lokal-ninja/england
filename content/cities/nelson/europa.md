@@ -1,5 +1,5 @@
 ---
 title: "Europa"
 url: /nelson/europa/
-shop: Lebensmittel
+shop: convenience
 ---

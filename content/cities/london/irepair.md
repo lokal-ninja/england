@@ -1,5 +1,5 @@
 ---
 title: "iRepair"
 url: /london/irepair/
-shop: Computer
+shop: computer
 ---

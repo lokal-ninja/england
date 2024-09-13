@@ -1,5 +1,5 @@
 ---
 title: "Kettle Club"
 url: /london/kettle-club/
-shop: Schmuck
+shop: jewelry
 ---

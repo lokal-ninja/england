@@ -1,5 +1,5 @@
 ---
 title: "The Market"
 url: /london/the-market/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Beck Steps Gallery"
 url: /grasmere/beck-steps-gallery/
-shop: Andenken
+shop: gift
 ---

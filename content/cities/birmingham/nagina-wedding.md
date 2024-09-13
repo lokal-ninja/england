@@ -1,5 +1,5 @@
 ---
 title: "Nagina Wedding"
 url: /birmingham/nagina-wedding/
-shop: Kleidung
+shop: clothes
 ---

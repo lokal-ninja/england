@@ -1,5 +1,5 @@
 ---
 title: "Smiggle"
 url: /peterborough/smiggle/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Union"
 url: /banbury/union/
-shop: Kleidung
+shop: clothes
 ---

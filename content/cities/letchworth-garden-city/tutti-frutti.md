@@ -1,5 +1,5 @@
 ---
 title: "Tutti Frutti"
 url: /letchworth-garden-city/tutti-frutti/
-shop: Kleidung
+shop: clothes
 ---

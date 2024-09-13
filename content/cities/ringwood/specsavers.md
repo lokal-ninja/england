@@ -1,5 +1,5 @@
 ---
 title: "Specsavers"
 url: /ringwood/specsavers/
-shop: Optiker
+shop: optician
 ---

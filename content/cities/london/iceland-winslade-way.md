@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /london/iceland-winslade-way/
-shop: Tiefkühl
+shop: frozen food
 ---

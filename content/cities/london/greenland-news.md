@@ -1,5 +1,5 @@
 ---
 title: "Greenland News"
 url: /london/greenland-news/
-shop: Zeitungen
+shop: newsagent
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /congleton/tesco/
-shop: Supermarkt
+shop: supermarket
 ---

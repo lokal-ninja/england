@@ -1,5 +1,5 @@
 ---
 title: "Pandora"
 url: /corby/pandora/
-shop: Schmuck
+shop: jewelry
 ---

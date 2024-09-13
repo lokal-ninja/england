@@ -1,5 +1,5 @@
 ---
 title: "AM Stores"
 url: /london/am-stores/
-shop: Lebensmittel
+shop: convenience
 ---

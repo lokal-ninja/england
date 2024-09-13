@@ -1,5 +1,5 @@
 ---
 title: "Dentcraft"
 url: /birmingham/dentcraft/
-shop: Autowerkstatt
+shop: car repair
 ---

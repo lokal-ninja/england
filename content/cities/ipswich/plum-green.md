@@ -1,5 +1,5 @@
 ---
 title: "Plum Green"
 url: /ipswich/plum-green/
-shop: Andenken
+shop: gift
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Homeleigh Vintage"
 url: /arnside/homeleigh-vintage/
-shop: Raumausstattung
+shop: interior decoration
 ---

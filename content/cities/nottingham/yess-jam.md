@@ -1,5 +1,5 @@
 ---
 title: "Yess Jam"
 url: /nottingham/yess-jam/
-shop: Friseur
+shop: hairdresser
 ---

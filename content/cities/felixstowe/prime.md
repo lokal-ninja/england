@@ -1,5 +1,5 @@
 ---
 title: "Prime"
 url: /felixstowe/prime/
-shop: Lebensmittel
+shop: convenience
 ---

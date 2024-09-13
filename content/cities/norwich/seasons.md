@@ -1,5 +1,5 @@
 ---
 title: "Seasons"
 url: /norwich/seasons/
-shop: Bäckerei
+shop: bakery
 ---

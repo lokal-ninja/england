@@ -1,5 +1,5 @@
 ---
 title: "Aleef"
 url: /preston/aleef/
-shop: Zeitungen
+shop: newsagent
 ---

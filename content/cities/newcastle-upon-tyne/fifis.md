@@ -1,5 +1,5 @@
 ---
 title: "FiFi's"
 url: /newcastle-upon-tyne/fifis/
-shop: Kleidung
+shop: clothes
 ---

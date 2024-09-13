@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /wigan/londis/
-shop: Lebensmittel
+shop: convenience
 ---

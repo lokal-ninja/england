@@ -1,5 +1,5 @@
 ---
 title: "Zachary's"
 url: /hull/zacharys/
-shop: Eisprodukte
+shop: ice cream
 ---

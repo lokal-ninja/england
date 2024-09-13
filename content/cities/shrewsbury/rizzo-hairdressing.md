@@ -1,5 +1,5 @@
 ---
 title: "Rizzo Hairdressing"
 url: /shrewsbury/rizzo-hairdressing/
-shop: Friseur
+shop: hairdresser
 ---

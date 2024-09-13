@@ -1,5 +1,5 @@
 ---
 title: "Homebase"
 url: /leeds/homebase/
-shop: Baumarkt
+shop: doityourself
 ---

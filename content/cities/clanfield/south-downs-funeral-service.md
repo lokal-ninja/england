@@ -1,5 +1,5 @@
 ---
 title: "South Downs Funeral Service"
 url: /clanfield/south-downs-funeral-service/
-shop: Bestattungen
+shop: funeral directors
 ---

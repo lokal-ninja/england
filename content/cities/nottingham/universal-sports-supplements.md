@@ -1,5 +1,5 @@
 ---
 title: "Universal Sports Supplements"
 url: /nottingham/universal-sports-supplements/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

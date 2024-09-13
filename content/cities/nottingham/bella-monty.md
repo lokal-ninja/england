@@ -1,5 +1,5 @@
 ---
 title: "Bella Monty"
 url: /nottingham/bella-monty/
-shop: Friseur
+shop: hairdresser
 ---

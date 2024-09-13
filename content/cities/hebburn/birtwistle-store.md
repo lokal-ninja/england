@@ -1,5 +1,5 @@
 ---
 title: "Birtwistle Store"
 url: /hebburn/birtwistle-store/
-shop: Lebensmittel
+shop: convenience
 ---

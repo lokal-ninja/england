@@ -1,5 +1,5 @@
 ---
 title: "Trailfinders"
 url: /york/trailfinders/
-shop: Reisebüro
+shop: travel agency
 ---

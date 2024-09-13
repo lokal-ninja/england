@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /yate/lidl/
-shop: Supermarkt
+shop: supermarket
 ---

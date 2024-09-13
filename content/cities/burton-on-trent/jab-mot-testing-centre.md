@@ -1,5 +1,5 @@
 ---
 title: "JAB MOT Testing Centre"
 url: /burton-on-trent/jab-mot-testing-centre/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Top Cut"
 url: /reading/top-cut/
-shop: Friseur
+shop: hairdresser
 ---

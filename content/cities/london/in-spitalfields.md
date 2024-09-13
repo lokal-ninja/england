@@ -1,5 +1,5 @@
 ---
 title: "In Spitalfields"
 url: /london/in-spitalfields/
-shop: Andenken
+shop: gift
 ---

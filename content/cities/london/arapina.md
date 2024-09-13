@@ -1,5 +1,5 @@
 ---
 title: "Arapina"
 url: /london/arapina/
-shop: Bäckerei
+shop: bakery
 ---

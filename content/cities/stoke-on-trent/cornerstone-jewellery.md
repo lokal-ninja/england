@@ -1,5 +1,5 @@
 ---
 title: "Cornerstone Jewellery"
 url: /stoke-on-trent/cornerstone-jewellery/
-shop: Schmuck
+shop: jewelry
 ---

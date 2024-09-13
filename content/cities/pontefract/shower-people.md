@@ -1,5 +1,5 @@
 ---
 title: "Shower People"
 url: /pontefract/shower-people/
-shop: Badezimmer
+shop: bathroom
 ---

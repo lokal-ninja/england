@@ -1,5 +1,5 @@
 ---
 title: "Alfa"
 url: /nottingham/alfa/
-shop: Lebensmittel
+shop: convenience
 ---

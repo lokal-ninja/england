@@ -1,5 +1,5 @@
 ---
 title: "Phone Empire"
 url: /leeds/phone-empire/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Portman"
 url: /chippenham/portman/
-shop: Immobilien
+shop: estate agent
 ---

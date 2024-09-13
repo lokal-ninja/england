@@ -1,5 +1,5 @@
 ---
 title: "Budgens"
 url: /milton-keynes/budgens-dodkin/
-shop: Lebensmittel
+shop: convenience
 ---

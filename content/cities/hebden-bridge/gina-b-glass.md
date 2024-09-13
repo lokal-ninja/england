@@ -1,5 +1,5 @@
 ---
 title: "Gina B Glass"
 url: /hebden-bridge/gina-b-glass/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Foxstar Academy"
 url: /derby/foxstar-academy/
-shop: Kosmetik
+shop: beauty
 ---

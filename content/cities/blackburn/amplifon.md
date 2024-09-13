@@ -1,5 +1,5 @@
 ---
 title: "Amplifon"
 url: /blackburn/amplifon/
-shop: Hörgeräte
+shop: hearing aids
 ---

@@ -1,5 +1,5 @@
 ---
 title: "VJN Queen Nails"
 url: /tamworth/vjn-queen-nails/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ladak"
 url: /london/ladak/
-shop: Kunst
+shop: art
 ---

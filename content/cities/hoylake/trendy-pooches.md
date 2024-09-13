@@ -1,5 +1,5 @@
 ---
 title: "Trendy Pooches"
 url: /hoylake/trendy-pooches/
-shop: Tiersalon
+shop: pet grooming
 ---

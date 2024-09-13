@@ -1,5 +1,5 @@
 ---
 title: "Inspirations Picture Framing"
 url: /lydney/inspirations-picture-framing/
-shop: Rahmen
+shop: frame
 ---

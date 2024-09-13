@@ -1,5 +1,5 @@
 ---
 title: "E Ward"
 url: /hoddesdon/e-ward/
-shop: Zeitungen
+shop: newsagent
 ---

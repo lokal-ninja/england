@@ -1,5 +1,5 @@
 ---
 title: "Langrick Bridge Stores"
 url: /boston/langrick-bridge-stores/
-shop: Lebensmittel
+shop: convenience
 ---

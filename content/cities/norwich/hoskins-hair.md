@@ -1,5 +1,5 @@
 ---
 title: "Hoskins Hair"
 url: /norwich/hoskins-hair/
-shop: Friseur
+shop: hairdresser
 ---

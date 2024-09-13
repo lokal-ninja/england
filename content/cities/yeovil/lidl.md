@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /yeovil/lidl/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Argos"
 url: /minehead/argos/
-shop: Katalog
+shop: catalogue
 ---

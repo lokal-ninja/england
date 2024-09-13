@@ -1,5 +1,5 @@
 ---
 title: "Bantuway Express"
 url: /london/bantuway-express/
-shop: Lebensmittel
+shop: convenience
 ---

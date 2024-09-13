@@ -1,5 +1,5 @@
 ---
 title: "S C Bodyshop"
 url: /grimsby/s-c-bodyshop/
-shop: Autowerkstatt
+shop: car repair
 ---

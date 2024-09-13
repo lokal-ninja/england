@@ -1,5 +1,5 @@
 ---
 title: "Roy Barbers"
 url: /hayes/roy-barbers/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /orpington/costcutter/
-shop: Lebensmittel
+shop: convenience
 ---

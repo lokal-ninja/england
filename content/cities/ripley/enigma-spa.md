@@ -1,5 +1,5 @@
 ---
 title: "Enigma Spa"
 url: /ripley/enigma-spa/
-shop: Massage
+shop: massage
 ---

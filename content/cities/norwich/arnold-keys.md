@@ -1,5 +1,5 @@
 ---
 title: "Arnold Keys"
 url: /norwich/arnold-keys/
-shop: Immobilien
+shop: estate agent
 ---

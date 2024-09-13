@@ -1,5 +1,5 @@
 ---
 title: "Ibrahims"
 url: /sheffield/ibrahims/
-shop: Lebensmittel
+shop: convenience
 ---

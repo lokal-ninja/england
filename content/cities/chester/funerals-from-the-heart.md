@@ -1,5 +1,5 @@
 ---
 title: "Funerals from the heart"
 url: /chester/funerals-from-the-heart/
-shop: Bestattungen
+shop: funeral directors
 ---

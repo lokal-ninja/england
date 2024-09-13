@@ -1,5 +1,5 @@
 ---
 title: "Headcase Ink"
 url: /london/headcase-ink/
-shop: Tattoo
+shop: tattoo
 ---

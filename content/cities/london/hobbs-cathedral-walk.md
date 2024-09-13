@@ -1,5 +1,5 @@
 ---
 title: "Hobbs"
 url: /london/hobbs-cathedral-walk/
-shop: Kleidung
+shop: clothes
 ---

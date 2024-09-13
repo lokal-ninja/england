@@ -1,5 +1,5 @@
 ---
 title: "Khan's Halal Meats"
 url: /nottingham/khans-halal-meats/
-shop: Metzgerei
+shop: butcher
 ---

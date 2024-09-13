@@ -1,5 +1,5 @@
 ---
 title: "Yvonne Damant"
 url: /richmond/yvonne-damant/
-shop: Kleidung
+shop: clothes
 ---

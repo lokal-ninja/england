@@ -1,5 +1,5 @@
 ---
 title: "Milligans"
 url: /whickham/milligans/
-shop: Bäckerei
+shop: bakery
 ---

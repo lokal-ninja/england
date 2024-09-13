@@ -1,5 +1,5 @@
 ---
 title: "Mingo"
 url: /london/mingo/
-shop: Nähzubehör
+shop: sewing
 ---

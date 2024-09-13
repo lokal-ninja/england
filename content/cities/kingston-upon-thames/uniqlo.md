@@ -1,5 +1,5 @@
 ---
 title: "Uniqlo"
 url: /kingston-upon-thames/uniqlo/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cambridge Local"
 url: /cambridge/cambridge-local/
-shop: Zeitungen
+shop: newsagent
 ---

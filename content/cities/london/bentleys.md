@@ -1,5 +1,5 @@
 ---
 title: "Bentleys"
 url: /london/bentleys/
-shop: Antiquitäten
+shop: antiques
 ---

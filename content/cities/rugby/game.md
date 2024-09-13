@@ -1,5 +1,5 @@
 ---
 title: "Game"
 url: /rugby/game/
-shop: Videospiele
+shop: video games
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Robert Gatward"
 url: /ipswich/robert-gatward/
-shop: Schmuck
+shop: jewelry
 ---

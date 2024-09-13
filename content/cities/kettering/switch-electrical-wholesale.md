@@ -1,5 +1,5 @@
 ---
 title: "Switch Electrical Wholesale"
 url: /kettering/switch-electrical-wholesale/
-shop: Haushaltsgeräte
+shop: appliance
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Barnardo's"
 url: /southampton/barnardos-townhill-way/
-shop: Gebrauchtwaren
+shop: charity
 ---

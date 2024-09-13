@@ -1,5 +1,5 @@
 ---
 title: "Brushstrokes"
 url: /camberley/brushstrokes/
-shop: Friseur
+shop: hairdresser
 ---

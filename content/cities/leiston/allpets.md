@@ -1,5 +1,5 @@
 ---
 title: "Allpets"
 url: /leiston/allpets/
-shop: Tiere
+shop: pet
 ---

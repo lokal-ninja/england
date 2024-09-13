@@ -1,5 +1,5 @@
 ---
 title: "Chris White"
 url: /salisbury/chris-white/
-shop: Bestattungen
+shop: funeral directors
 ---

@@ -1,5 +1,5 @@
 ---
 title: "All Star Barbers"
 url: /mitcham/all-star-barbers/
-shop: Friseur
+shop: hairdresser
 ---

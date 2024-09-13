@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /wellingborough/londis/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Little Waitrose"
 url: /solihull/little-waitrose/
-shop: Lebensmittel
+shop: convenience
 ---

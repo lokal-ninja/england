@@ -1,5 +1,5 @@
 ---
 title: "Premier CJC Convenience Store"
 url: /gravesend/premier-cjc-convenience-store/
-shop: Lebensmittel
+shop: convenience
 ---

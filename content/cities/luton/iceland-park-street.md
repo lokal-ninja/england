@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /luton/iceland-park-street/
-shop: Tiefkühl
+shop: frozen food
 ---

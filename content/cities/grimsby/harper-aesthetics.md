@@ -1,5 +1,5 @@
 ---
 title: "Harper Aesthetics"
 url: /grimsby/harper-aesthetics/
-shop: Kosmetik
+shop: beauty
 ---

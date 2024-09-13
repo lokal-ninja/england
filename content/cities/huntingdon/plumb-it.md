@@ -1,5 +1,5 @@
 ---
 title: "Plumb-it"
 url: /huntingdon/plumb-it/
-shop: Baumarkt
+shop: doityourself
 ---

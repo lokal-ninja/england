@@ -1,5 +1,5 @@
 ---
 title: "Tanfield Body Repairs"
 url: /gateshead/tanfield-body-repairs/
-shop: Autowerkstatt
+shop: car repair
 ---

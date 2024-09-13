@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /bristol/savers-east-street/
-shop: Drogerie
+shop: chemist
 ---

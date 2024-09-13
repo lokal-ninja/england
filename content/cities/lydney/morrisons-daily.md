@@ -1,5 +1,5 @@
 ---
 title: "Morrisons Daily"
 url: /lydney/morrisons-daily/
-shop: Lebensmittel
+shop: convenience
 ---

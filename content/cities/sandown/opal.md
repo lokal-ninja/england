@@ -1,5 +1,5 @@
 ---
 title: "Opal"
 url: /sandown/opal/
-shop: Reisebüro
+shop: travel agency
 ---

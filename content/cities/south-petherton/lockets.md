@@ -1,5 +1,5 @@
 ---
 title: "Lockets"
 url: /south-petherton/lockets/
-shop: Friseur
+shop: hairdresser
 ---

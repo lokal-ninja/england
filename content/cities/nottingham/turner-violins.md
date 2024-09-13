@@ -1,5 +1,5 @@
 ---
 title: "Turner Violins"
 url: /nottingham/turner-violins/
-shop: Instrumente
+shop: musical instrument
 ---

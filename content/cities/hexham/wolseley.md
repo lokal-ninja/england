@@ -1,5 +1,5 @@
 ---
 title: "Wolseley"
 url: /hexham/wolseley/
-shop: Baustoffe
+shop: trade
 ---

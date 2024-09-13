@@ -1,5 +1,5 @@
 ---
 title: "Cinderhill Pharmacy"
 url: /nottingham/cinderhill-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

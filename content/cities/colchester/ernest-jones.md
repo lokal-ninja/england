@@ -1,5 +1,5 @@
 ---
 title: "Ernest Jones"
 url: /colchester/ernest-jones/
-shop: Schmuck
+shop: jewelry
 ---

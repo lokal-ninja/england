@@ -1,5 +1,5 @@
 ---
 title: "Perfume Price"
 url: /wellington/perfume-price/
-shop: Kosmetik
+shop: beauty
 ---

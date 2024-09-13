@@ -1,5 +1,5 @@
 ---
 title: "Klass"
 url: /murton/klass/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Snack Shop"
 url: /northampton/snack-shop/
-shop: Lebensmittel
+shop: convenience
 ---

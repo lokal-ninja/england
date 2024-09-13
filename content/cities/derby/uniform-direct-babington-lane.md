@@ -1,5 +1,5 @@
 ---
 title: "Uniform Direct"
 url: /derby/uniform-direct-babington-lane/
-shop: Kleidung
+shop: clothes
 ---

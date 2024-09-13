@@ -1,5 +1,5 @@
 ---
 title: "Normoss Motors"
 url: /blackpool/normoss-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

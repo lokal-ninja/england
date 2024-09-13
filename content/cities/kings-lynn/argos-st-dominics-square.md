@@ -1,5 +1,5 @@
 ---
 title: "Argos"
 url: /kings-lynn/argos-st-dominics-square/
-shop: Katalog
+shop: catalogue
 ---

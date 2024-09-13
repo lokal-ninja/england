@@ -1,5 +1,5 @@
 ---
 title: "Carters Butchers And Bakers"
 url: /darlington/carters-butchers-and-bakers/
-shop: Metzgerei
+shop: butcher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "iLaser"
 url: /manchester/ilaser/
-shop: Kosmetik
+shop: beauty
 ---

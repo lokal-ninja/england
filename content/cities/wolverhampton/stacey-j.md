@@ -1,5 +1,5 @@
 ---
 title: "Stacey J"
 url: /wolverhampton/stacey-j/
-shop: Kosmetik
+shop: beauty
 ---

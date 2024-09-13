@@ -1,5 +1,5 @@
 ---
 title: "Dogtooth"
 url: /chester/dogtooth/
-shop: Kunst
+shop: art
 ---

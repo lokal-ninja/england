@@ -1,5 +1,5 @@
 ---
 title: "Amplifon"
 url: /wigan/amplifon/
-shop: Hörgeräte
+shop: hearing aids
 ---

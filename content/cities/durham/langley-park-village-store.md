@@ -1,5 +1,5 @@
 ---
 title: "Langley Park Village Store"
 url: /durham/langley-park-village-store/
-shop: Lebensmittel
+shop: convenience
 ---

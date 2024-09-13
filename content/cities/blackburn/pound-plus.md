@@ -1,5 +1,5 @@
 ---
 title: "Pound Plus"
 url: /blackburn/pound-plus/
-shop: Lebensmittel
+shop: convenience
 ---

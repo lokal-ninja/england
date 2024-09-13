@@ -1,5 +1,5 @@
 ---
 title: "Abbey Cleaners"
 url: /southampton/abbey-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

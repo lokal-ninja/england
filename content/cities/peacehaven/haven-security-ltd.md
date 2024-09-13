@@ -1,5 +1,5 @@
 ---
 title: "Haven Security Ltd"
 url: /peacehaven/haven-security-ltd/
-shop: Sicherheit
+shop: security
 ---

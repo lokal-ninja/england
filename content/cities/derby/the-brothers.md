@@ -1,5 +1,5 @@
 ---
 title: "The Brothers"
 url: /derby/the-brothers/
-shop: Friseur
+shop: hairdresser
 ---

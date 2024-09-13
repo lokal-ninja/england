@@ -1,5 +1,5 @@
 ---
 title: "Proud Lion"
 url: /cheltenham/proud-lion/
-shop: Bücher
+shop: books
 ---

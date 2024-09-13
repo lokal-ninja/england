@@ -1,5 +1,5 @@
 ---
 title: "Alison Zuccaro Hairdressing"
 url: /farnham/alison-zuccaro-hairdressing/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Halfords"
 url: /frome/halfords/
-shop: Autoteile
+shop: car parts
 ---

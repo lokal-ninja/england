@@ -1,5 +1,5 @@
 ---
 title: "Stak's DIY"
 url: /orpington/staks-diy/
-shop: Raumausstattung
+shop: interior decoration
 ---

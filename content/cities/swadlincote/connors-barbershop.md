@@ -1,5 +1,5 @@
 ---
 title: "Connors Barbershop"
 url: /swadlincote/connors-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

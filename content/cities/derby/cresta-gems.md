@@ -1,5 +1,5 @@
 ---
 title: "Cresta Gems"
 url: /derby/cresta-gems/
-shop: Schmuck
+shop: jewelry
 ---

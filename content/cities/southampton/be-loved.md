@@ -1,5 +1,5 @@
 ---
 title: "Be Loved"
 url: /southampton/be-loved/
-shop: Kosmetik
+shop: beauty
 ---

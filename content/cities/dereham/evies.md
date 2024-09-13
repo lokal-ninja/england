@@ -1,5 +1,5 @@
 ---
 title: "Evie's"
 url: /dereham/evies/
-shop: Andenken
+shop: gift
 ---

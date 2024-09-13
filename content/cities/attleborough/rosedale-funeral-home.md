@@ -1,5 +1,5 @@
 ---
 title: "Rosedale Funeral Home"
 url: /attleborough/rosedale-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

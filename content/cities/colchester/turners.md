@@ -1,5 +1,5 @@
 ---
 title: "Turners"
 url: /colchester/turners/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "TCSS Food"
 url: /stockport/tcss-food/
-shop: Großhandel
+shop: wholesale
 ---

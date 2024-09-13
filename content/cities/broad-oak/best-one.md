@@ -1,5 +1,5 @@
 ---
 title: "Best-one"
 url: /broad-oak/best-one/
-shop: Lebensmittel
+shop: convenience
 ---

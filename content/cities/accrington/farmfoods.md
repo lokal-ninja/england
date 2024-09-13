@@ -1,5 +1,5 @@
 ---
 title: "Farmfoods"
 url: /accrington/farmfoods/
-shop: Tiefkühl
+shop: frozen food
 ---

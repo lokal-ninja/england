@@ -1,5 +1,5 @@
 ---
 title: "Morrisons Daily"
 url: /york/morrisons-daily-barley-rise/
-shop: Lebensmittel
+shop: convenience
 ---

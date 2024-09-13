@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /barrow-in-furness/coral-risedale-road/
-shop: Wettbüro
+shop: bookmaker
 ---

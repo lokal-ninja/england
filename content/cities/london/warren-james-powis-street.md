@@ -1,5 +1,5 @@
 ---
 title: "Warren James"
 url: /london/warren-james-powis-street/
-shop: Schmuck
+shop: jewelry
 ---

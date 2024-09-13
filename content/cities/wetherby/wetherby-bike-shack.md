@@ -1,5 +1,5 @@
 ---
 title: "Wetherby Bike Shack"
 url: /wetherby/wetherby-bike-shack/
-shop: Fahrrad
+shop: bicycle
 ---

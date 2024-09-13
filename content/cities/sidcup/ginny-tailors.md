@@ -1,5 +1,5 @@
 ---
 title: "Ginny Tailors"
 url: /sidcup/ginny-tailors/
-shop: Schneiderei
+shop: tailor
 ---

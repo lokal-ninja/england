@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /aylesbury/poundland/
-shop: Kramladen
+shop: variety store
 ---

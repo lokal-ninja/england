@@ -1,5 +1,5 @@
 ---
 title: "Bath MOT centre"
 url: /bath/bath-mot-centre/
-shop: Autowerkstatt
+shop: car repair
 ---

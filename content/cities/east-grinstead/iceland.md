@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /east-grinstead/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

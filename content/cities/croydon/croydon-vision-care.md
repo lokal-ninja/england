@@ -1,5 +1,5 @@
 ---
 title: "Croydon Vision Care"
 url: /croydon/croydon-vision-care/
-shop: Optiker
+shop: optician
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Run"
 url: /hove/run/
-shop: Allgemein
+shop: shop
 ---

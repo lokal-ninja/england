@@ -1,5 +1,5 @@
 ---
 title: "Sainsbury's Local"
 url: /london/sainsburys-local-great-dover-street/
-shop: Lebensmittel
+shop: convenience
 ---

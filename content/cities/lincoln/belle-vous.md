@@ -1,5 +1,5 @@
 ---
 title: "Belle Vous"
 url: /lincoln/belle-vous/
-shop: Kosmetik
+shop: beauty
 ---

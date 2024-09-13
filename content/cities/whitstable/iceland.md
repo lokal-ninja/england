@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /whitstable/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

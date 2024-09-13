@@ -1,5 +1,5 @@
 ---
 title: "Euro Accessories"
 url: /london/euro-accessories/
-shop: Modehaus
+shop: boutique
 ---

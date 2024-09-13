@@ -1,5 +1,5 @@
 ---
 title: "Pigmental"
 url: /lowestoft/pigmental/
-shop: Tattoo
+shop: tattoo
 ---

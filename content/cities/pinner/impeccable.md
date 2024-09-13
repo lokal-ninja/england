@@ -1,5 +1,5 @@
 ---
 title: "Impeccable"
 url: /pinner/impeccable/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /dartford/whsmith/
-shop: Zeitungen
+shop: newsagent
 ---

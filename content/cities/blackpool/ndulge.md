@@ -1,5 +1,5 @@
 ---
 title: "nDulge"
 url: /blackpool/ndulge/
-shop: Kosmetik
+shop: beauty
 ---

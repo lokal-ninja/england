@@ -1,5 +1,5 @@
 ---
 title: "Mind"
 url: /twickenham/mind/
-shop: Gebrauchtwaren
+shop: charity
 ---

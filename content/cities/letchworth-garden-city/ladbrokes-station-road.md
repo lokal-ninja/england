@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /letchworth-garden-city/ladbrokes-station-road/
-shop: Wettbüro
+shop: bookmaker
 ---

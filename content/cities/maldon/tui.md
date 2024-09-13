@@ -1,5 +1,5 @@
 ---
 title: "TUI"
 url: /maldon/tui/
-shop: Reisebüro
+shop: travel agency
 ---

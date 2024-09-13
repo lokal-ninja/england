@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /milford-on-sea/spar/
-shop: Lebensmittel
+shop: convenience
 ---

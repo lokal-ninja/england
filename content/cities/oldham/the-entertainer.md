@@ -1,5 +1,5 @@
 ---
 title: "The Entertainer"
 url: /oldham/the-entertainer/
-shop: Spielzeug
+shop: toys
 ---

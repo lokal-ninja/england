@@ -1,5 +1,5 @@
 ---
 title: "Ryman"
 url: /sutton-coldfield/ryman/
-shop: Schreibwaren
+shop: office supplies
 ---

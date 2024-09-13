@@ -1,5 +1,5 @@
 ---
 title: "Irene"
 url: /london/irene/
-shop: Bäckerei
+shop: bakery
 ---

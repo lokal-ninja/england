@@ -1,5 +1,5 @@
 ---
 title: "Nomination"
 url: /york/nomination/
-shop: Schmuck
+shop: jewelry
 ---

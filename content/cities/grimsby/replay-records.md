@@ -1,5 +1,5 @@
 ---
 title: "Replay Records"
 url: /grimsby/replay-records/
-shop: Musik
+shop: music
 ---

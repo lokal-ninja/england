@@ -1,5 +1,5 @@
 ---
 title: "ALS Tyres"
 url: /farnborough/als-tyres/
-shop: Autohaus
+shop: car
 ---

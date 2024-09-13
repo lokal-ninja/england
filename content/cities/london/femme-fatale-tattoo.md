@@ -1,5 +1,5 @@
 ---
 title: "Femme Fatale Tattoo"
 url: /london/femme-fatale-tattoo/
-shop: Tattoo
+shop: tattoo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Smiffies"
 url: /leeds/smiffies/
-shop: Lebensmittel
+shop: convenience
 ---

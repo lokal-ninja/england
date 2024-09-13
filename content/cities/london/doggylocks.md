@@ -1,5 +1,5 @@
 ---
 title: "Doggylocks"
 url: /london/doggylocks/
-shop: Tiersalon
+shop: pet grooming
 ---

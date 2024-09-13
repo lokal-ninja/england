@@ -1,5 +1,5 @@
 ---
 title: "Nem Motors MOT Centre"
 url: /london/nem-motors-mot-centre/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /hull/asda-bude-road/
-shop: Supermarkt
+shop: supermarket
 ---

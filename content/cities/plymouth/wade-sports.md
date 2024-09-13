@@ -1,5 +1,5 @@
 ---
 title: "Wade Sports"
 url: /plymouth/wade-sports/
-shop: Sport
+shop: sports
 ---

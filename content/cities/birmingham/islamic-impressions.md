@@ -1,5 +1,5 @@
 ---
 title: "Islamic Impressions"
 url: /birmingham/islamic-impressions/
-shop: Religion
+shop: religion
 ---

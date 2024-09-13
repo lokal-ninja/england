@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /waterlooville/poundland/
-shop: Kramladen
+shop: variety store
 ---

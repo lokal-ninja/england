@@ -1,5 +1,5 @@
 ---
 title: "Barnes"
 url: /bingley/barnes/
-shop: Metzgerei
+shop: butcher
 ---

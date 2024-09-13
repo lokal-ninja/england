@@ -1,5 +1,5 @@
 ---
 title: "Specialized Norwich"
 url: /norwich/specialized-norwich/
-shop: Fahrrad
+shop: bicycle
 ---

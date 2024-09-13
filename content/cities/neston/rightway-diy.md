@@ -1,5 +1,5 @@
 ---
 title: "Rightway DIY"
 url: /neston/rightway-diy/
-shop: Baumarkt
+shop: doityourself
 ---

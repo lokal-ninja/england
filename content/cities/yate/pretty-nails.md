@@ -1,5 +1,5 @@
 ---
 title: "Pretty Nails"
 url: /yate/pretty-nails/
-shop: Kosmetik
+shop: beauty
 ---

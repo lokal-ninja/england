@@ -1,5 +1,5 @@
 ---
 title: "Provençale"
 url: /swadlincote/provencale/
-shop: Küchen
+shop: kitchen
 ---

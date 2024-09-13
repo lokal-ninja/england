@@ -1,5 +1,5 @@
 ---
 title: "Amplifon"
 url: /darlington/amplifon/
-shop: Hörgeräte
+shop: hearing aids
 ---

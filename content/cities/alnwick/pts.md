@@ -1,5 +1,5 @@
 ---
 title: "PTS"
 url: /alnwick/pts/
-shop: Allgemein
+shop: shop
 ---

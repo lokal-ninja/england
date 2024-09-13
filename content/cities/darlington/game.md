@@ -1,5 +1,5 @@
 ---
 title: "GAME"
 url: /darlington/game/
-shop: Videospiele
+shop: video games
 ---

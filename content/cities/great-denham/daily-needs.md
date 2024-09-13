@@ -1,5 +1,5 @@
 ---
 title: "Daily Needs"
 url: /great-denham/daily-needs/
-shop: Lebensmittel
+shop: convenience
 ---

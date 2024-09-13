@@ -1,5 +1,5 @@
 ---
 title: "CeX"
 url: /kings-lynn/cex/
-shop: Elektronik
+shop: electronics
 ---

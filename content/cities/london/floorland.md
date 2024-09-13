@@ -1,5 +1,5 @@
 ---
 title: "Floorland"
 url: /london/floorland/
-shop: Fußböden
+shop: flooring
 ---

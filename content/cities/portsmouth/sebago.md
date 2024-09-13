@@ -1,5 +1,5 @@
 ---
 title: "Sebago"
 url: /portsmouth/sebago/
-shop: Schuhe
+shop: shoes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Clacton Electronics"
 url: /clacton-on-sea/clacton-electronics/
-shop: Elektronik
+shop: electronics
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Burton Community Shop"
 url: /carnforth/burton-community-shop/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sexyher Dresses"
 url: /croydon/sexyher-dresses/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SoSweet"
 url: /bideford/sosweet/
-shop: Süßwaren
+shop: confectionery
 ---

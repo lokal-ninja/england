@@ -1,5 +1,5 @@
 ---
 title: "Nightingale"
 url: /york/nightingale/
-shop: Schmuck
+shop: jewelry
 ---

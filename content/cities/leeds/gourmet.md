@@ -1,5 +1,5 @@
 ---
 title: "Gourmet"
 url: /leeds/gourmet/
-shop: Metzgerei
+shop: butcher
 ---

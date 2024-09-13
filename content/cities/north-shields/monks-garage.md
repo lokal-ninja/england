@@ -1,5 +1,5 @@
 ---
 title: "Monks Garage"
 url: /north-shields/monks-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /leeds/aldi-middleton-park-road/
-shop: Supermarkt
+shop: supermarket
 ---

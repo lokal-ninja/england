@@ -1,5 +1,5 @@
 ---
 title: "Banbury Hearing Centre"
 url: /banbury/banbury-hearing-centre/
-shop: Hörgeräte
+shop: hearing aids
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ridgeons"
 url: /march/ridgeons/
-shop: Baumarkt
+shop: doityourself
 ---

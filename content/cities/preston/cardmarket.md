@@ -1,5 +1,5 @@
 ---
 title: "CardMarket"
 url: /preston/cardmarket/
-shop: Allgemein
+shop: shop
 ---

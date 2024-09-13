@@ -1,5 +1,5 @@
 ---
 title: "Gibson's Funeral Services"
 url: /crook/gibsons-funeral-services/
-shop: Bestattungen
+shop: funeral directors
 ---

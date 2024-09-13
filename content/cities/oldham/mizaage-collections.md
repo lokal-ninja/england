@@ -1,5 +1,5 @@
 ---
 title: "Mizaage Collections"
 url: /oldham/mizaage-collections/
-shop: Kleidung
+shop: clothes
 ---

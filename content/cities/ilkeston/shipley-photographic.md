@@ -1,5 +1,5 @@
 ---
 title: "Shipley Photographic"
 url: /ilkeston/shipley-photographic/
-shop: Foto
+shop: photo
 ---

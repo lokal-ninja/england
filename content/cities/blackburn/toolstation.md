@@ -1,5 +1,5 @@
 ---
 title: "Toolstation"
 url: /blackburn/toolstation/
-shop: Baumarkt
+shop: doityourself
 ---

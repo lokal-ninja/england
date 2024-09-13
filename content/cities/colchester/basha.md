@@ -1,5 +1,5 @@
 ---
 title: "Basha"
 url: /colchester/basha/
-shop: Feinkost
+shop: deli
 ---
