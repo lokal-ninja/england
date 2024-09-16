@@ -1,11 +1,11 @@
 id: 468159093
-type: way
+type: node
 latitude: 51.13123
 longitude: -2.98299
-postcode: "TA6 4RA"
+postcode: TA6 4RA
 city: Bridgwater
-street: "Parkway"
-housenumber: 7
+street: Parkway
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

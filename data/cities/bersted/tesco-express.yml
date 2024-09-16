@@ -1,11 +1,11 @@
 id: 213878642
-type: way
+type: node
 latitude: 50.79905
 longitude: -0.69258
-postcode: "PO21 5AN"
+postcode: PO21 5AN
 city: Bersted
-street: "Chichester Road"
-housenumber: 351
+street: Chichester Road
+housenumber: "351"
 phone: ""
-opening_hours: "06:00-23:00"
+opening_hours: 06:00-23:00
 website: ""

@@ -1,11 +1,11 @@
 id: 4076656
-type: way
+type: node
 latitude: 51.43065
 longitude: -0.03422
-postcode: "SE26 4PU"
+postcode: SE26 4PU
 city: London
-street: "Southend Lane"
-housenumber: 
+street: Southend Lane
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:00-24:00; Su 11:00-17:00; PH 07:00-22:00"
+opening_hours: Mo-Sa 07:00-24:00; Su 11:00-17:00; PH 07:00-22:00
 website: ""

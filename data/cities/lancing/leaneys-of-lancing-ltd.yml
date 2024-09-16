@@ -1,11 +1,11 @@
 id: 1010376685
-type: way
+type: node
 latitude: 50.82481
 longitude: -0.30147
 postcode: ""
 city: Lancing
-street: "Brighton Road"
-housenumber: 
-phone: "+44 1903 752475"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-16:00"
+street: Brighton Road
+housenumber: ""
+phone: +44 1903 752475
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-16:00
 website: ""

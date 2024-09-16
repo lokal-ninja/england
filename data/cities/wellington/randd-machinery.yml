@@ -1,11 +1,11 @@
 id: 1119268952
-type: way
+type: node
 latitude: 50.97975
 longitude: -3.2066
-postcode: "TA21 9GZ"
+postcode: TA21 9GZ
 city: Wellington
-street: "Westpark"
-housenumber: 
-phone: "+44 1823 215820"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-12:30; Su off"
-website: "https://www.rdmachinery.co.uk/"
+street: Westpark
+housenumber: ""
+phone: +44 1823 215820
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-12:30; Su off
+website: https://www.rdmachinery.co.uk/

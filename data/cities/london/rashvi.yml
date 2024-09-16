@@ -1,11 +1,11 @@
 id: 107710488
-type: way
+type: node
 latitude: 51.53705
 longitude: -0.19263
-postcode: "NW6 6HT"
+postcode: NW6 6HT
 city: London
-street: "Kilburn Bridge"
-housenumber: 4
+street: Kilburn Bridge
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

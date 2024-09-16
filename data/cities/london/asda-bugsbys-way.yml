@@ -1,11 +1,11 @@
 id: 285156063
-type: way
+type: node
 latitude: 51.489
 longitude: 0.02159
-postcode: "SE7 7ST"
+postcode: SE7 7ST
 city: London
-street: "Bugsby's Way"
-housenumber: 
+street: Bugsby's Way
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 06:00-24:00; Sa 06:00-22:00; Su 11:00-17:00"
+opening_hours: Mo-Fr 06:00-24:00; Sa 06:00-22:00; Su 11:00-17:00
 website: ""

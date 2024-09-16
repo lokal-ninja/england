@@ -2,10 +2,10 @@ id: 4985231304
 type: node
 latitude: 50.78494
 longitude: -0.67401
-postcode: "PO21 1PQ"
+postcode: PO21 1PQ
 city: Bognor Regis
-street: "London Road"
-housenumber: 43
+street: London Road
+housenumber: "43"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.57118
 longitude: -0.29494
 postcode: ""
 city: Wembley
-street: "Preston Road"
-housenumber: 227
-phone: "+44 20 8904 4545"
-opening_hours: "Mo-Fr 09:00-19:00;Su 09:00-15:00"
+street: Preston Road
+housenumber: "227"
+phone: +44 20 8904 4545
+opening_hours: Mo-Fr 09:00-19:00;Su 09:00-15:00
 website: ""

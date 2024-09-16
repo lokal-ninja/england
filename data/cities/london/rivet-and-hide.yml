@@ -1,11 +1,11 @@
 id: 425662550
-type: way
+type: node
 latitude: 51.51859
 longitude: -0.1343
-postcode: "W1T 2JA"
+postcode: W1T 2JA
 city: London
-street: "Windmill Street"
-housenumber: 5
+street: Windmill Street
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://rivetandhide.com/"
+website: https://rivetandhide.com/

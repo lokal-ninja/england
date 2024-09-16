@@ -1,11 +1,11 @@
 id: 29381331
-type: way
+type: node
 latitude: 52.90252
 longitude: -1.24484
-postcode: "NG9 6DS"
+postcode: NG9 6DS
 city: Nottingham
-street: "Barton Lane"
-housenumber: 
+street: Barton Lane
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su 10:30-16:30"
+opening_hours: Mo-Sa 08:00-20:00; Su 10:30-16:30
 website: ""

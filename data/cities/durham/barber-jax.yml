@@ -1,11 +1,11 @@
 id: 827702018
-type: way
+type: node
 latitude: 54.79922
 longitude: -1.67098
-postcode: "DH7 9XA"
+postcode: DH7 9XA
 city: Durham
-street: "Quebec Street End"
-housenumber: 2
+street: Quebec Street End
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

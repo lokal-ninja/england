@@ -1,11 +1,11 @@
 id: 446908883
-type: way
+type: node
 latitude: 54.97636
 longitude: -1.61582
-postcode: "NE1 7RW"
+postcode: NE1 7RW
 city: Newcastle upon Tyne
-street: "Percy Street"
-housenumber: 87
+street: Percy Street
+housenumber: "87"
 phone: ""
 opening_hours: ""
 website: ""

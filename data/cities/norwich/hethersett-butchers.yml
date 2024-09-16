@@ -1,11 +1,11 @@
 id: 343095290
-type: way
+type: node
 latitude: 52.60063
 longitude: 1.17446
-postcode: "NR9 3AB"
+postcode: NR9 3AB
 city: Norwich
-street: "Great Melton Road"
+street: Great Melton Road
 housenumber: 35a
-phone: "+44 1603 810293"
-opening_hours: "Mo-Tu,Th-Fr 07:30-17:30; We,Sa 07:30-13:00; Su closed"
-website: "https://thehethersettbutchers.co.uk/"
+phone: +44 1603 810293
+opening_hours: Mo-Tu,Th-Fr 07:30-17:30; We,Sa 07:30-13:00; Su closed
+website: https://thehethersettbutchers.co.uk/

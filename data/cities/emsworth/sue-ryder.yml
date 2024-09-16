@@ -2,10 +2,10 @@ id: 5661653333
 type: node
 latitude: 50.84648
 longitude: -0.93643
-postcode: "PO10 7AW"
+postcode: PO10 7AW
 city: Emsworth
-street: "High Street"
-housenumber: 26
+street: High Street
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

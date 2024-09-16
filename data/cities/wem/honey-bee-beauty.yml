@@ -1,11 +1,11 @@
 id: 204717374
-type: way
+type: node
 latitude: 52.85556
 longitude: -2.72438
-postcode: "SY4 5DG"
+postcode: SY4 5DG
 city: Wem
-street: "High Street"
-housenumber: 28
-phone: "+44 1939 233294"
+street: High Street
+housenumber: "28"
+phone: +44 1939 233294
 opening_hours: ""
-website: "https://www.honeybeewem.com/"
+website: https://www.honeybeewem.com/

@@ -1,11 +1,11 @@
 id: 224191966
-type: way
+type: node
 latitude: 51.55107
 longitude: -0.07538
-postcode: "N16 8BH"
+postcode: N16 8BH
 city: London
-street: "Stoke Newington Road"
-housenumber: 13
+street: Stoke Newington Road
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

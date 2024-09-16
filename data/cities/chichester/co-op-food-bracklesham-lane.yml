@@ -1,11 +1,11 @@
 id: 1001709672
-type: way
+type: node
 latitude: 50.76451
 longitude: -0.85844
-postcode: "PO20 8JA"
+postcode: PO20 8JA
 city: Chichester
-street: "Bracklesham Lane"
-housenumber: 
+street: Bracklesham Lane
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.coop.co.uk/store-finder/PO20-8JA/bracklesham-lane"
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.coop.co.uk/store-finder/PO20-8JA/bracklesham-lane

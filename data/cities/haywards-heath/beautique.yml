@@ -1,11 +1,11 @@
 id: 612367785
-type: way
+type: node
 latitude: 50.99795
 longitude: -0.10395
-postcode: "RH16 4LP"
+postcode: RH16 4LP
 city: Haywards Heath
-street: "South Road"
-housenumber: 128
+street: South Road
+housenumber: "128"
 phone: ""
 opening_hours: ""
 website: ""

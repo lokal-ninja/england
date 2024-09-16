@@ -1,11 +1,12 @@
 id: 710612364
-type: way
+type: node
 latitude: 51.3594
 longitude: 1.44305
 postcode: ""
 city: Broadstairs
-street: "Albion Street"
-housenumber: 38
-phone: "+44 1843 609559"
-opening_hours: "Tu,We 09:30-17:00; Th 09:30-19:00; Fr 09:30-18:00; Sa 09:00-14:00; Su,Mo off"
+street: Albion Street
+housenumber: "38"
+phone: +44 1843 609559
+opening_hours: Tu,We 09:30-17:00; Th 09:30-19:00; Fr 09:30-18:00; Sa 09:00-14:00;
+    Su,Mo off
 website: ""

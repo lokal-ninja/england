@@ -1,11 +1,11 @@
 id: 84593475
-type: way
+type: node
 latitude: 51.47351
 longitude: -0.08108
-postcode: "SE5 8PX"
+postcode: SE5 8PX
 city: London
-street: "Peckham Road"
-housenumber: 46
+street: Peckham Road
+housenumber: "46"
 phone: ""
 opening_hours: ""
 website: ""

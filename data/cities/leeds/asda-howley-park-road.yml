@@ -1,11 +1,11 @@
 id: 164959877
-type: way
+type: node
 latitude: 53.73578
 longitude: -1.61094
-postcode: "LS27 0BP"
+postcode: LS27 0BP
 city: Leeds
-street: "Howley Park Road"
-housenumber: 
-phone: "+44 113 253 7518"
-opening_hours: "Mo 07:00-24:00; Tu-Fr 00:00-24:00; Sa 00:00-22:00; Su 10:00-16:00"
+street: Howley Park Road
+housenumber: ""
+phone: +44 113 253 7518
+opening_hours: Mo 07:00-24:00; Tu-Fr 00:00-24:00; Sa 00:00-22:00; Su 10:00-16:00
 website: ""

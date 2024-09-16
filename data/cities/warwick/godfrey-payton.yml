@@ -1,11 +1,11 @@
 id: 244100192
-type: way
+type: node
 latitude: 52.2805
 longitude: -1.58902
-postcode: "CV34 4BB"
+postcode: CV34 4BB
 city: Warwick
-street: "High Street"
-housenumber: 25
+street: High Street
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

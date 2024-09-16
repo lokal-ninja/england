@@ -1,11 +1,11 @@
 id: 1107769821
-type: way
+type: node
 latitude: 52.70898
 longitude: -2.52262
-postcode: "TF1 3LN"
+postcode: TF1 3LN
 city: Telford
-street: "Roden Close"
-housenumber: 1
+street: Roden Close
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

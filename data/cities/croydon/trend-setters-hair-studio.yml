@@ -1,11 +1,11 @@
 id: 196385666
-type: way
+type: node
 latitude: 51.37855
 longitude: -0.10196
-postcode: "CR0 2RD"
+postcode: CR0 2RD
 city: Croydon
-street: "Station Road"
-housenumber: 15
+street: Station Road
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

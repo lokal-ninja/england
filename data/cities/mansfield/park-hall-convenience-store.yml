@@ -1,11 +1,11 @@
 id: 739006923
-type: way
+type: node
 latitude: 53.17423
 longitude: -1.19211
-postcode: "NG19 8PY"
+postcode: NG19 8PY
 city: Mansfield
-street: "Park Hall Road"
-housenumber: 92
-phone: "+44 1623 424109"
+street: Park Hall Road
+housenumber: "92"
+phone: +44 1623 424109
 opening_hours: ""
-website: "https://www.premier-stores.co.uk/our-stores/park-hall-convenience-store"
+website: https://www.premier-stores.co.uk/our-stores/park-hall-convenience-store

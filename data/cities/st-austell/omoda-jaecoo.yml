@@ -1,11 +1,11 @@
 id: 1194723223
-type: way
+type: node
 latitude: 50.33765
 longitude: -4.78903
-postcode: "PL25 4TR"
+postcode: PL25 4TR
 city: St Austell
-street: "East Hill"
-housenumber: 
+street: East Hill
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

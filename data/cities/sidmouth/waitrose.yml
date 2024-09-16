@@ -1,11 +1,11 @@
 id: 32022720
-type: way
+type: node
 latitude: 50.6998
 longitude: -3.2448
-postcode: "EX10 9GA"
+postcode: EX10 9GA
 city: Sidmouth
-street: "Stowford Rise"
-housenumber: 
+street: Stowford Rise
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su 10:00-16:00"
-website: "https://www.waitrose.com/find-a-store/sidmouth"
+opening_hours: Mo-Sa 08:00-21:00; Su 10:00-16:00
+website: https://www.waitrose.com/find-a-store/sidmouth

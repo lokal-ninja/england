@@ -1,11 +1,11 @@
 id: 952083277
-type: way
+type: node
 latitude: 53.83692
 longitude: -2.20506
-postcode: "BB9 9EU"
+postcode: BB9 9EU
 city: Nelson
-street: "Barkerhouse Road"
-housenumber: 70
+street: Barkerhouse Road
+housenumber: "70"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-14:00; Su 11:00-19:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-14:00; Su 11:00-19:00
 website: ""

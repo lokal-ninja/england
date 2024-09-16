@@ -1,11 +1,11 @@
 id: 628410624
-type: way
+type: node
 latitude: 51.60759
 longitude: -0.37538
-postcode: "HA5 4HP"
+postcode: HA5 4HP
 city: Pinner
-street: "The Broadway"
-housenumber: 366
+street: The Broadway
+housenumber: "366"
 phone: ""
-opening_hours: "Tu-Sa 09:30-18:00"
+opening_hours: Tu-Sa 09:30-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 1171014335
-type: way
+type: node
 latitude: 53.50006
 longitude: -2.45887
 postcode: ""
 city: Blackmoor, Astley
-street: "Manchester Road"
-housenumber: 385
-phone: "+44 1942 897919"
+street: Manchester Road
+housenumber: "385"
+phone: +44 1942 897919
 opening_hours: ""
-website: "https://www.carriagesfuneralservice.co.uk/locations/astley/"
+website: https://www.carriagesfuneralservice.co.uk/locations/astley/

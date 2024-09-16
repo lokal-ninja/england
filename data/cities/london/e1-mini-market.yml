@@ -2,10 +2,10 @@ id: 6530449113
 type: node
 latitude: 51.51489
 longitude: -0.06255
-postcode: "E1 1PX"
+postcode: E1 1PX
 city: London
-street: "Commercial Road"
-housenumber: 141
+street: Commercial Road
+housenumber: "141"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

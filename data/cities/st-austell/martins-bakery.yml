@@ -1,11 +1,11 @@
 id: 1005995615
-type: way
+type: node
 latitude: 50.27026
 longitude: -4.7873
-postcode: "PL26 6UB"
+postcode: PL26 6UB
 city: St Austell
-street: "St Georges Square"
-housenumber: 2
+street: St Georges Square
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

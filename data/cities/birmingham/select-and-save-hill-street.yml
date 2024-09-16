@@ -1,11 +1,11 @@
 id: 162581827
-type: way
+type: node
 latitude: 52.47712
 longitude: -1.9011
-postcode: "B5 4AH"
+postcode: B5 4AH
 city: Birmingham
-street: "Hill Street"
-housenumber: 78
+street: Hill Street
+housenumber: "78"
 phone: ""
 opening_hours: ""
 website: ""

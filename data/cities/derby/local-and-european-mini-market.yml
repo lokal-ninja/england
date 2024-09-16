@@ -1,11 +1,11 @@
 id: 70433387
-type: way
+type: node
 latitude: 52.90726
 longitude: -1.48557
-postcode: "DE23 6RB"
+postcode: DE23 6RB
 city: Derby
-street: "Porter Road"
-housenumber: 57
+street: Porter Road
+housenumber: "57"
 phone: ""
 opening_hours: ""
 website: ""

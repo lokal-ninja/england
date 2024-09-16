@@ -2,10 +2,11 @@ id: 4752751025
 type: node
 latitude: 51.88921
 longitude: 0.89833
-postcode: "CO1 1JG"
+postcode: CO1 1JG
 city: Colchester
-street: "Culver Street West"
-housenumber: 
+street: Culver Street West
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Tu 09:00-17:30; We 09:30-17:30; Th 09:00-17:30; Fr 09:00-18:00; Sa 09:00-17:30; Su 10:00-17:00"
-website: "https://www.office.co.uk/view/content/storelocator?storename=Office%20Colchester"
+opening_hours: Mo-Tu 09:00-17:30; We 09:30-17:30; Th 09:00-17:30; Fr 09:00-18:00;
+    Sa 09:00-17:30; Su 10:00-17:00
+website: https://www.office.co.uk/view/content/storelocator?storename=Office%20Colchester

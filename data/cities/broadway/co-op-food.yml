@@ -1,11 +1,11 @@
 id: 202710922
-type: way
+type: node
 latitude: 52.03665
 longitude: -1.86231
-postcode: "WR12 7AP"
+postcode: WR12 7AP
 city: Broadway
-street: "Russell Square"
-housenumber: 16
+street: Russell Square
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

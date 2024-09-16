@@ -1,11 +1,11 @@
 id: 127972402
-type: way
+type: node
 latitude: 53.95487
 longitude: -1.06778
-postcode: "YO10 3WW"
+postcode: YO10 3WW
 city: York
-street: "James Street"
-housenumber: 1
-phone: "+44 1904 673 030"
+street: James Street
+housenumber: "1"
+phone: +44 1904 673 030
 opening_hours: ""
-website: "https://www.focus4print.co.uk/"
+website: https://www.focus4print.co.uk/

@@ -1,11 +1,11 @@
 id: 1170957457
-type: way
+type: node
 latitude: 53.74429
 longitude: -0.34215
-postcode: "HU1 3PA"
+postcode: HU1 3PA
 city: Hull
-street: "Chapel Street"
-housenumber: 3
+street: Chapel Street
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

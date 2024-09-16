@@ -1,11 +1,11 @@
 id: 460736255
-type: way
+type: node
 latitude: 51.53428
 longitude: 0.05286
-postcode: "E6 1HU"
+postcode: E6 1HU
 city: London
-street: "Myrtle Road"
+street: Myrtle Road
 housenumber: 2-10
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su 11:00-17:00"
-website: "https://stores.sainsburys.co.uk/0014/east-ham"
+opening_hours: Mo-Sa 08:00-20:00; Su 11:00-17:00
+website: https://stores.sainsburys.co.uk/0014/east-ham

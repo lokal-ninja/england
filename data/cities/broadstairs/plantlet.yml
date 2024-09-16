@@ -1,11 +1,11 @@
 id: 710495962
-type: way
+type: node
 latitude: 51.35979
 longitude: 1.43707
 postcode: ""
 city: Broadstairs
-street: "High Street"
-housenumber: 102
+street: High Street
+housenumber: "102"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 130987869
-type: way
+type: node
 latitude: 51.54291
 longitude: -0.00636
-postcode: "E20 1EN"
+postcode: E20 1EN
 city: London
-street: "Montfichet Road"
-housenumber: 121
+street: Montfichet Road
+housenumber: "121"
 phone: ""
 opening_hours: ""
 website: ""

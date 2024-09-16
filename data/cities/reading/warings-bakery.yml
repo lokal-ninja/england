@@ -1,11 +1,11 @@
 id: 70463485
-type: way
+type: node
 latitude: 51.45839
 longitude: -1.04102
-postcode: "RG31 5AW"
+postcode: RG31 5AW
 city: Reading
-street: "School Road"
-housenumber: 80
-phone: "+44 118 941 4511"
+street: School Road
+housenumber: "80"
+phone: +44 118 941 4511
 opening_hours: ""
-website: "https://www.waringsbakery.co.uk/"
+website: https://www.waringsbakery.co.uk/

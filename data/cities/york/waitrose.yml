@@ -1,11 +1,11 @@
 id: 59294522
-type: way
+type: node
 latitude: 53.95638
 longitude: -1.07025
-postcode: "YO31 7UL"
+postcode: YO31 7UL
 city: York
-street: "Foss Islands Road"
-housenumber: 
+street: Foss Islands Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 08:00-21:00; Sa 08:00-20:00; Su 11:00-17:00"
-website: "https://www.waitrose.com/find-a-store/york"
+opening_hours: Mo-Fr 08:00-21:00; Sa 08:00-20:00; Su 11:00-17:00
+website: https://www.waitrose.com/find-a-store/york

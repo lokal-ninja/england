@@ -1,11 +1,11 @@
 id: 318423558
-type: way
+type: node
 latitude: 53.19173
 longitude: -2.52733
-postcode: "CW7 1BA"
+postcode: CW7 1BA
 city: Winsford
-street: "Dingle Walk"
-housenumber: 30
-phone: "+44 1606 590890"
+street: Dingle Walk
+housenumber: "30"
+phone: +44 1606 590890
 opening_hours: ""
-website: "https://hollinsandhollinshead.com/"
+website: https://hollinsandhollinshead.com/

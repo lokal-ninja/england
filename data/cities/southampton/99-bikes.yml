@@ -1,11 +1,11 @@
 id: 366403624
-type: way
+type: node
 latitude: 50.91889
 longitude: -1.48131
-postcode: "SO40 3AA"
+postcode: SO40 3AA
 city: Southampton
-street: "Commercial Road"
-housenumber: 150
+street: Commercial Road
+housenumber: "150"
 phone: ""
 opening_hours: ""
-website: "https://www.99bikes.co.uk/store-locations/southampton/"
+website: https://www.99bikes.co.uk/store-locations/southampton/

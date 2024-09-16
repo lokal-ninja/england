@@ -1,11 +1,11 @@
 id: 447919932
-type: way
+type: node
 latitude: 51.49196
 longitude: -0.13997
 postcode: ""
 city: London
-street: "Denbigh Street"
-housenumber: 7
+street: Denbigh Street
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

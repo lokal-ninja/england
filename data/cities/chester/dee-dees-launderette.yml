@@ -1,11 +1,11 @@
 id: 294873968
-type: way
+type: node
 latitude: 53.19727
 longitude: -2.88322
-postcode: "CH1 3DU"
+postcode: CH1 3DU
 city: Chester
-street: "Brook Street"
-housenumber: 143
+street: Brook Street
+housenumber: "143"
 phone: ""
 opening_hours: ""
 website: ""

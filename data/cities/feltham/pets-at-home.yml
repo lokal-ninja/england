@@ -1,11 +1,11 @@
 id: 252962105
-type: way
+type: node
 latitude: 51.44225
 longitude: -0.41441
 postcode: ""
 city: Feltham
-street: "High Street"
-housenumber: 
+street: High Street
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://community.petsathome.com/store/feltham/"
+website: https://community.petsathome.com/store/feltham/

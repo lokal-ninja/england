@@ -1,11 +1,11 @@
 id: 678788550
-type: way
+type: node
 latitude: 51.76325
 longitude: -0.22588
-postcode: "AL10 0JY"
+postcode: AL10 0JY
 city: Hatfield
-street: "The Arcade"
-housenumber: 6
-phone: "+44 1707 270978"
+street: The Arcade
+housenumber: "6"
+phone: +44 1707 270978
 opening_hours: ""
 website: ""

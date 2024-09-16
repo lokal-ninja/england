@@ -1,11 +1,11 @@
 id: 1202432398
-type: way
+type: node
 latitude: 50.60802
 longitude: -2.45497
-postcode: "DT4 8AR"
+postcode: DT4 8AR
 city: Weymouth
-street: "St Edmund Street"
-housenumber: 15
+street: St Edmund Street
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

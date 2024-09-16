@@ -1,11 +1,11 @@
 id: 862793368
-type: way
+type: node
 latitude: 53.85576
 longitude: -1.59154
-postcode: "LS16 7NR"
+postcode: LS16 7NR
 city: Leeds
-street: "Otley Road"
-housenumber: 503
+street: Otley Road
+housenumber: "503"
 phone: ""
 opening_hours: ""
 website: ""

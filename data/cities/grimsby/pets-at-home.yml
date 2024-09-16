@@ -1,11 +1,11 @@
 id: 185368451
-type: way
+type: node
 latitude: 53.57233
 longitude: -0.08495
-postcode: "DN31 1SG"
+postcode: DN31 1SG
 city: Grimsby
-street: "Corporation Road"
-housenumber: 
-phone: "+44 1472 241 221"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 10:00-16:00"
-website: "https://community.petsathome.com/store/grimsby/"
+street: Corporation Road
+housenumber: ""
+phone: +44 1472 241 221
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 10:00-16:00
+website: https://community.petsathome.com/store/grimsby/

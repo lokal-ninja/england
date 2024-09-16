@@ -1,11 +1,11 @@
 id: 846123585
-type: way
+type: node
 latitude: 53.72734
 longitude: -1.36068
-postcode: "WF10 1BJ"
+postcode: WF10 1BJ
 city: Castleford
-street: "Savile Road"
-housenumber: 1
+street: Savile Road
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

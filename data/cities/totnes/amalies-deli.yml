@@ -1,11 +1,11 @@
 id: 254083709
-type: way
+type: node
 latitude: 50.43121
 longitude: -3.68573
-postcode: "TQ9 5RP"
+postcode: TQ9 5RP
 city: Totnes
-street: "Fore Street"
-housenumber: 50
+street: Fore Street
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

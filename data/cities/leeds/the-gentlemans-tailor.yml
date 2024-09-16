@@ -2,10 +2,10 @@ id: 5940390389
 type: node
 latitude: 53.80031
 longitude: -1.54041
-postcode: "LS1 6PG"
+postcode: LS1 6PG
 city: Leeds
-street: "Grand Arcade"
-housenumber: 23
+street: Grand Arcade
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

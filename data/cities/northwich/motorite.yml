@@ -1,11 +1,11 @@
 id: 319072190
-type: way
+type: node
 latitude: 53.27087
 longitude: -2.4655
-postcode: "CW9 7QA"
+postcode: CW9 7QA
 city: Northwich
-street: "Manchester Road"
-housenumber: 413
-phone: "+44 1606 42915"
+street: Manchester Road
+housenumber: "413"
+phone: +44 1606 42915
 opening_hours: ""
-website: "https://www.motorite.co.uk/"
+website: https://www.motorite.co.uk/

@@ -1,11 +1,12 @@
 id: 431280289
-type: way
+type: node
 latitude: 51.47105
 longitude: -2.59272
-postcode: "BS7 8AA"
+postcode: BS7 8AA
 city: Bristol
-street: "Gloucester Road"
-housenumber: 31
+street: Gloucester Road
+housenumber: "31"
 phone: ""
-opening_hours: "Mo 09:00-17:30; Tu-Th 09:00-19:00; Fr 07:30-19:00; Sa 08:00-16:30; Su 10:30-16:00"
+opening_hours: Mo 09:00-17:30; Tu-Th 09:00-19:00; Fr 07:30-19:00; Sa 08:00-16:30;
+    Su 10:30-16:00
 website: ""

@@ -1,11 +1,11 @@
 id: 320723333
-type: way
+type: node
 latitude: 53.26218
 longitude: -2.50899
-postcode: "CW9 5AB"
+postcode: CW9 5AB
 city: Northwich
-street: "Witton Street"
+street: Witton Street
 housenumber: 102A
-phone: "+44 1606 352682"
-opening_hours: "Mo,Tu,Th,Fr 09:30-16:30; Sa 09:30-16:00; We,Su off"
-website: "https://www.trophysales.co.uk/"
+phone: +44 1606 352682
+opening_hours: Mo,Tu,Th,Fr 09:30-16:30; Sa 09:30-16:00; We,Su off
+website: https://www.trophysales.co.uk/

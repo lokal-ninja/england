@@ -1,11 +1,11 @@
 id: 845768823
-type: way
+type: node
 latitude: 52.85804
 longitude: -3.05197
-postcode: "SY11 2NU"
+postcode: SY11 2NU
 city: Oswestry
-street: "Salop Road"
-housenumber: 32
+street: Salop Road
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

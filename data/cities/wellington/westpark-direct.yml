@@ -1,11 +1,11 @@
 id: 871856480
-type: way
+type: node
 latitude: 50.98101
 longitude: -3.20512
-postcode: "TA21 9AD"
+postcode: TA21 9AD
 city: Wellington
-street: "Westpark"
-housenumber: 
-phone: "+44 1823 795437"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su || by appointment"
-website: "https://www.usedcarsalesdirect.co.uk/westpark-direct/"
+street: Westpark
+housenumber: ""
+phone: +44 1823 795437
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su || "by appointment"
+website: https://www.usedcarsalesdirect.co.uk/westpark-direct/

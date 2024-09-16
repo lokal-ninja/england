@@ -1,11 +1,11 @@
 id: 733736308
-type: way
+type: node
 latitude: 51.89527
 longitude: 0.92907
-postcode: "CO4 3DQ"
+postcode: CO4 3DQ
 city: Colchester
-street: "Harwich Road"
-housenumber: 243
+street: Harwich Road
+housenumber: "243"
 phone: ""
 opening_hours: ""
 website: ""

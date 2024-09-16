@@ -1,11 +1,11 @@
 id: 389814590
-type: way
+type: node
 latitude: 53.01461
 longitude: -1.35701
-postcode: "DE75 7EX"
+postcode: DE75 7EX
 city: Heanor
-street: "High Street"
-housenumber: 6
+street: High Street
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

@@ -2,10 +2,10 @@ id: 2286053100
 type: node
 latitude: 52.57332
 longitude: 1.71458
-postcode: "NR31 7AA"
+postcode: NR31 7AA
 city: Great Yarmouth
-street: "Magdalen Way"
-housenumber: 99
+street: Magdalen Way
+housenumber: "99"
 phone: ""
 opening_hours: ""
 website: ""

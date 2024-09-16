@@ -2,10 +2,10 @@ id: 566662100
 type: node
 latitude: 51.49767
 longitude: -0.1038
-postcode: "SE1 6JZ"
+postcode: SE1 6JZ
 city: London
-street: "London Road"
-housenumber: 16
+street: London Road
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

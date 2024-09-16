@@ -1,11 +1,11 @@
 id: 383523897
-type: way
+type: node
 latitude: 52.56758
 longitude: 1.23444
-postcode: "NR14 8JT"
+postcode: NR14 8JT
 city: Norwich
-street: "Norwich Road"
-housenumber: 
-phone: "+44 1508 578892"
-opening_hours: "Mo-Sa 09:00-17:00; Su closed"
+street: Norwich Road
+housenumber: ""
+phone: +44 1508 578892
+opening_hours: Mo-Sa 09:00-17:00; Su closed
 website: ""

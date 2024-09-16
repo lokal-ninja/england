@@ -2,10 +2,10 @@ id: 4302809427
 type: node
 latitude: 53.48166
 longitude: -2.24889
-postcode: "M3 2PW"
+postcode: M3 2PW
 city: Manchester
-street: "King Street West"
-housenumber: 45
+street: King Street West
+housenumber: "45"
 phone: ""
 opening_hours: ""
 website: ""

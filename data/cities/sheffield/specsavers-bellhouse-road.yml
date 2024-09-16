@@ -1,11 +1,11 @@
 id: 1242585577
-type: way
+type: node
 latitude: 53.41921
 longitude: -1.44672
-postcode: "S5 6HJ"
+postcode: S5 6HJ
 city: Sheffield
-street: "Bellhouse Road"
-housenumber: 59
+street: Bellhouse Road
+housenumber: "59"
 phone: ""
 opening_hours: ""
 website: ""

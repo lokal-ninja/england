@@ -1,11 +1,11 @@
 id: 125803500
-type: way
+type: node
 latitude: 51.44773
 longitude: -2.56014
-postcode: "BS2 0SP"
+postcode: BS2 0SP
 city: Bristol
-street: "St Philips Causeway"
-housenumber: 
+street: St Philips Causeway
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su 10:00-16:00"
+opening_hours: Mo-Sa 08:00-20:00; Su 10:00-16:00
 website: ""

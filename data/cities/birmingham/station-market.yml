@@ -1,11 +1,11 @@
 id: 144121282
-type: way
+type: node
 latitude: 52.52809
 longitude: -1.84142
-postcode: "B23 6UE"
+postcode: B23 6UE
 city: Birmingham
-street: "Station Road"
-housenumber: 70
+street: Station Road
+housenumber: "70"
 phone: ""
 opening_hours: ""
 website: ""

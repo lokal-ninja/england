@@ -1,11 +1,11 @@
 id: 1222062011
-type: way
+type: node
 latitude: 53.48492
 longitude: -2.33454
-postcode: "M30 0DF"
+postcode: M30 0DF
 city: Manchester
-street: "Church Street"
-housenumber: 11
+street: Church Street
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

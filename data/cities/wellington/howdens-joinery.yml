@@ -1,11 +1,11 @@
 id: 1119373215
-type: way
+type: node
 latitude: 50.98086
 longitude: -3.20631
-postcode: "TA21 9AD"
+postcode: TA21 9AD
 city: Wellington
-street: "Westpark"
-housenumber: 
-phone: "+44 1823 200100"
-opening_hours: "Mo-Fr 07:30-17:00; Sa 08:00-12:00; Su off"
-website: "https://www.howdens.com/find-a-depot/wellington"
+street: Westpark
+housenumber: ""
+phone: +44 1823 200100
+opening_hours: Mo-Fr 07:30-17:00; Sa 08:00-12:00; Su off
+website: https://www.howdens.com/find-a-depot/wellington

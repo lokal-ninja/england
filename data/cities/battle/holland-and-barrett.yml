@@ -1,11 +1,11 @@
 id: 849488089
-type: way
+type: node
 latitude: 50.91647
 longitude: 0.48462
-postcode: "TN33 0AE"
+postcode: TN33 0AE
 city: Battle
-street: "High Street"
-housenumber: 19
+street: High Street
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

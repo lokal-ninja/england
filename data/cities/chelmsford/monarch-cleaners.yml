@@ -1,11 +1,11 @@
 id: 218565430
-type: way
+type: node
 latitude: 51.74748
 longitude: 0.49712
-postcode: "CM1 6JP"
+postcode: CM1 6JP
 city: Chelmsford
-street: "Havengore"
-housenumber: 9
-phone: "+44 1245 267438"
-opening_hours: "Mo-Fr 08:30-19:00; Sa 08:30-18:00; Su 10:30-16:30"
+street: Havengore
+housenumber: "9"
+phone: +44 1245 267438
+opening_hours: Mo-Fr 08:30-19:00; Sa 08:30-18:00; Su 10:30-16:30
 website: ""

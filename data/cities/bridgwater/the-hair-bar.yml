@@ -1,11 +1,11 @@
 id: 1098002136
-type: way
+type: node
 latitude: 51.09274
 longitude: -3.01342
-postcode: "TA6 6QA"
+postcode: TA6 6QA
 city: Bridgwater
-street: "Fore Street"
-housenumber: 48
-phone: "+44 1278 662261"
-opening_hours: "Mo 09:00-18:00; Tu 10:00-20:00; We-Fr 09:00-20:00; Sa 09:00-14:00"
-website: "https://www.thehairbarsomerset.co.uk/"
+street: Fore Street
+housenumber: "48"
+phone: +44 1278 662261
+opening_hours: Mo 09:00-18:00; Tu 10:00-20:00; We-Fr 09:00-20:00; Sa 09:00-14:00
+website: https://www.thehairbarsomerset.co.uk/

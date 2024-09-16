@@ -1,11 +1,11 @@
 id: 540068519
-type: way
+type: node
 latitude: 52.77322
 longitude: -1.55874
-postcode: "DE11 9DE"
+postcode: DE11 9DE
 city: Swadlincote
-street: "West Street"
-housenumber: 20
-phone: "+44 1283 215969"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://stores.centralengland.coop/derbyshire/swadlincote/20-west-street"
+street: West Street
+housenumber: "20"
+phone: +44 1283 215969
+opening_hours: Mo-Fr 09:00-17:00
+website: https://stores.centralengland.coop/derbyshire/swadlincote/20-west-street

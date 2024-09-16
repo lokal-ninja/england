@@ -1,11 +1,11 @@
 id: 1039675553
-type: way
+type: node
 latitude: 51.59117
 longitude: -0.14846
-postcode: "N10 3DU"
+postcode: N10 3DU
 city: London
-street: "Fortis Green Road"
-housenumber: 214
+street: Fortis Green Road
+housenumber: "214"
 phone: ""
-opening_hours: "Mo,Sa 09:00-18:00; Tu-Fr 09:00-20:00"
-website: "https://beautyrehablondon.co.uk"
+opening_hours: Mo,Sa 09:00-18:00; Tu-Fr 09:00-20:00
+website: https://beautyrehablondon.co.uk

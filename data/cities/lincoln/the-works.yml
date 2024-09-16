@@ -1,11 +1,11 @@
 id: 723576002
-type: way
+type: node
 latitude: 53.22965
 longitude: -0.53991
-postcode: "LN2 1AJ"
+postcode: LN2 1AJ
 city: Lincoln
-street: "High Street"
-housenumber: 4
+street: High Street
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.theworks.co.uk/Store?storeId=0065"
+website: https://www.theworks.co.uk/Store?storeId=0065

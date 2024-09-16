@@ -1,11 +1,11 @@
 id: 672766880
-type: way
+type: node
 latitude: 52.2498
 longitude: 0.68162
-postcode: "IP33 3HP"
+postcode: IP33 3HP
 city: Bury St Edmunds
-street: "The Parade"
-housenumber: 6
+street: The Parade
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

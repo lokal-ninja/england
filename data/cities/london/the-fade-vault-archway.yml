@@ -1,11 +1,11 @@
 id: 70609540
-type: way
+type: node
 latitude: 51.56147
 longitude: -0.1364
-postcode: "N19 5PX"
+postcode: N19 5PX
 city: London
-street: "Junction Road"
-housenumber: 143
+street: Junction Road
+housenumber: "143"
 phone: ""
-opening_hours: "Tu-We 10:00-19:00; Th-Sa 10:00-20:00; Su 10:00-17:00"
-website: "https://www.thefadevault.com"
+opening_hours: Tu-We 10:00-19:00; Th-Sa 10:00-20:00; Su 10:00-17:00
+website: https://www.thefadevault.com

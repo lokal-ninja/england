@@ -1,11 +1,11 @@
 id: 308595020
-type: way
+type: node
 latitude: 54.28244
 longitude: -0.39907
 postcode: ""
 city: Scarborough
-street: "Saint Nicholas Street"
-housenumber: 36
+street: Saint Nicholas Street
+housenumber: "36"
 phone: ""
 opening_hours: ""
-website: "https://www.violetlux.co.uk/"
+website: https://www.violetlux.co.uk/

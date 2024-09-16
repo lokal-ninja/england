@@ -1,11 +1,11 @@
 id: 422726709
-type: way
+type: node
 latitude: 51.68134
 longitude: -2.35436
-postcode: "GL11 4AA"
+postcode: GL11 4AA
 city: Dursley
-street: "Parsonage Street"
-housenumber: 78
+street: Parsonage Street
+housenumber: "78"
 phone: ""
 opening_hours: ""
-website: "https://www.longfield.org.uk/store/dursley/"
+website: https://www.longfield.org.uk/store/dursley/

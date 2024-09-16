@@ -1,11 +1,11 @@
 id: 99617833
-type: way
+type: node
 latitude: 52.55754
 longitude: -1.89217
-postcode: "B44 9LT"
+postcode: B44 9LT
 city: Birmingham
-street: "Bandywood Road"
-housenumber: 80
+street: Bandywood Road
+housenumber: "80"
 phone: ""
 opening_hours: ""
 website: ""

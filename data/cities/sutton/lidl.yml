@@ -1,11 +1,11 @@
 id: 24862496
-type: way
+type: node
 latitude: 51.36816
 longitude: -0.19501
-postcode: "SM1 1PG"
+postcode: SM1 1PG
 city: Sutton
-street: "High Street"
+street: High Street
 housenumber: 262-270
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su 11:00-17:00; PH 07:00-22:00"
-website: "https://www.lidl.co.uk/s/en-GB/store-finder/sutton/high-street/"
+opening_hours: Mo-Sa 07:00-22:00; Su 11:00-17:00; PH 07:00-22:00
+website: https://www.lidl.co.uk/s/en-GB/store-finder/sutton/high-street/

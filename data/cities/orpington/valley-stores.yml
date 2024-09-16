@@ -1,11 +1,11 @@
 id: 963749101
-type: way
+type: node
 latitude: 51.40093
 longitude: 0.11667
-postcode: "BR5 3HG"
+postcode: BR5 3HG
 city: Orpington
-street: "Main Road"
-housenumber: 10
+street: Main Road
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

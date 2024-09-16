@@ -1,11 +1,11 @@
 id: 217635408
-type: way
+type: node
 latitude: 52.91918
 longitude: -1.20495
-postcode: "NG9 1JT"
+postcode: NG9 1JT
 city: Nottingham
-street: "Meadow Road"
-housenumber: 48
+street: Meadow Road
+housenumber: "48"
 phone: ""
 opening_hours: ""
 website: ""

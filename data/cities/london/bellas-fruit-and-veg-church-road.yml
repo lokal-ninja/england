@@ -1,11 +1,11 @@
 id: 595216675
-type: way
+type: node
 latitude: 51.47532
 longitude: -0.2402
-postcode: "SW13 9HR"
+postcode: SW13 9HR
 city: London
-street: "Church Road"
-housenumber: 125
+street: Church Road
+housenumber: "125"
 phone: ""
 opening_hours: ""
 website: ""

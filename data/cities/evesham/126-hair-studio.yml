@@ -1,11 +1,11 @@
 id: 292053443
-type: way
+type: node
 latitude: 52.09199
 longitude: -1.94862
 postcode: ""
 city: Evesham
-street: "Vine Street"
-housenumber: 12
+street: Vine Street
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

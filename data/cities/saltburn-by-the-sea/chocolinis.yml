@@ -2,10 +2,10 @@ id: 8218645822
 type: node
 latitude: 54.58224
 longitude: -0.97394
-postcode: "TS12 1AX"
+postcode: TS12 1AX
 city: Saltburn-by-the-Sea
-street: "Windsor Road"
-housenumber: 3
-phone: "+44 1287 626 141"
-opening_hours: "Mo-Sa 11:00-16:00; Su 11:00-15:00"
-website: "https://www.chocolinissaltburn.com/"
+street: Windsor Road
+housenumber: "3"
+phone: +44 1287 626 141
+opening_hours: Mo-Sa 11:00-16:00; Su 11:00-15:00
+website: https://www.chocolinissaltburn.com/

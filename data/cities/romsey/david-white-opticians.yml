@@ -1,11 +1,11 @@
 id: 681354418
-type: way
+type: node
 latitude: 50.98893
 longitude: -1.49894
 postcode: ""
 city: Romsey
-street: "Market Place"
-housenumber: 23
+street: Market Place
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

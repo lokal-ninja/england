@@ -1,11 +1,11 @@
 id: 291257166
-type: way
+type: node
 latitude: 51.45788
 longitude: -2.56532
-postcode: "BS5 0DR"
+postcode: BS5 0DR
 city: Bristol
-street: "Lawrence Hill"
-housenumber: 198
+street: Lawrence Hill
+housenumber: "198"
 phone: ""
 opening_hours: ""
 website: ""

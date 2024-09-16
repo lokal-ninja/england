@@ -1,11 +1,11 @@
 id: 235328589
-type: way
+type: node
 latitude: 52.40502
 longitude: -1.5345
 postcode: ""
 city: Coventry
-street: "Hearsall Lane"
-housenumber: 179
+street: Hearsall Lane
+housenumber: "179"
 phone: ""
 opening_hours: ""
 website: ""

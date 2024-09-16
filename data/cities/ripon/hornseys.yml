@@ -1,11 +1,11 @@
 id: 992269814
-type: way
+type: node
 latitude: 54.13565
 longitude: -1.52293
-postcode: "HG4 1PA"
+postcode: HG4 1PA
 city: Ripon
-street: "Kirkgate"
-housenumber: 3
+street: Kirkgate
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://hornseys.com/"
+website: https://hornseys.com/

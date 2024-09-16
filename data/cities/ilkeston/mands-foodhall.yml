@@ -1,11 +1,11 @@
 id: 59337355
-type: way
+type: node
 latitude: 52.9771
 longitude: -1.29958
-postcode: "DE7 5LF"
+postcode: DE7 5LF
 city: Ilkeston
-street: "Station Road"
-housenumber: 
+street: Station Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su 10:00-16:00"
+opening_hours: Mo-Sa 08:00-20:00; Su 10:00-16:00
 website: ""

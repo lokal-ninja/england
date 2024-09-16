@@ -2,10 +2,10 @@ id: 4544944702
 type: node
 latitude: 53.79954
 longitude: -3.05429
-postcode: "FY1 6AA"
+postcode: FY1 6AA
 city: Blackpool
-street: "Bolton Street"
-housenumber: 98
+street: Bolton Street
+housenumber: "98"
 phone: ""
 opening_hours: ""
 website: ""

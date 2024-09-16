@@ -1,11 +1,11 @@
 id: 917508996
-type: way
+type: node
 latitude: 51.61039
 longitude: -0.01838
-postcode: "E4 8LU"
+postcode: E4 8LU
 city: London
-street: "Chingford Mount Road"
-housenumber: 65
+street: Chingford Mount Road
+housenumber: "65"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 238079584
-type: way
+type: node
 latitude: 53.03145
 longitude: 0.09846
-postcode: "PE22 9NS"
+postcode: PE22 9NS
 city: Boston
-street: "Church Street"
-housenumber: 29
+street: Church Street
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 713398807
-type: way
+type: node
 latitude: 52.65135
 longitude: 1.29173
-postcode: "NR3 3NS"
+postcode: NR3 3NS
 city: Norwich
-street: "Woodgrove Parade"
-housenumber: 5
+street: Woodgrove Parade
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

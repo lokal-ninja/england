@@ -1,11 +1,11 @@
 id: 292870711
-type: way
+type: node
 latitude: 51.06049
 longitude: -0.32269
-postcode: "RH13 5AA"
+postcode: RH13 5AA
 city: Horsham
-street: "Queen Street"
-housenumber: 33
+street: Queen Street
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

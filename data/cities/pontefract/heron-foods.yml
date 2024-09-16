@@ -1,11 +1,11 @@
 id: 970320333
-type: way
+type: node
 latitude: 53.59502
 longitude: -1.28987
-postcode: "WF9 2SE"
+postcode: WF9 2SE
 city: Pontefract
-street: "Barnsley Road"
-housenumber: 
+street: Barnsley Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 255860856
-type: way
+type: node
 latitude: 52.92083
 longitude: -1.47453
-postcode: "DE1 2PR"
+postcode: DE1 2PR
 city: Derby
-street: "Albion Street"
-housenumber: 4
+street: Albion Street
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1075359635
-type: way
+type: node
 latitude: 53.3685
 longitude: -1.49754
-postcode: "S11 8QF"
+postcode: S11 8QF
 city: Sheffield
-street: "Hickmott Road"
-housenumber: 8
+street: Hickmott Road
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

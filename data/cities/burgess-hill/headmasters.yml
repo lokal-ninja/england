@@ -1,11 +1,11 @@
 id: 908853166
-type: way
+type: node
 latitude: 50.9565
 longitude: -0.12854
-postcode: "RH15 8DX"
+postcode: RH15 8DX
 city: Burgess Hill
-street: "Cyprus Road"
-housenumber: 10
+street: Cyprus Road
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

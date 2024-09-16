@@ -1,11 +1,11 @@
 id: 82274284
-type: way
+type: node
 latitude: 51.76056
 longitude: -1.21095
-postcode: "OX3 9HP"
+postcode: OX3 9HP
 city: Headington
-street: "Old High Street"
+street: Old High Street
 housenumber: 9,11
 phone: ""
-opening_hours: "Mo-Th 08:30-20:00; Fr 08:30-21:00; Sa 08:30-19:00; Su 10:00-16:00"
-website: "https://www.waitrose.com/find-a-store/headington"
+opening_hours: Mo-Th 08:30-20:00; Fr 08:30-21:00; Sa 08:30-19:00; Su 10:00-16:00
+website: https://www.waitrose.com/find-a-store/headington

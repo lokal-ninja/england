@@ -1,11 +1,11 @@
 id: 404540133
-type: way
+type: node
 latitude: 54.97404
 longitude: -1.62247
-postcode: "NE1 4BT"
+postcode: NE1 4BT
 city: Newcastle upon Tyne
-street: "Barrack Road"
-housenumber: 
+street: Barrack Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 06:00-24:00"
+opening_hours: Mo-Su 06:00-24:00
 website: ""

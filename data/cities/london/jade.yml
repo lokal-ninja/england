@@ -1,11 +1,11 @@
 id: 199402882
-type: way
+type: node
 latitude: 51.55575
 longitude: -0.17625
 postcode: ""
 city: London
-street: "Hampstead High Street"
-housenumber: 22
+street: Hampstead High Street
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

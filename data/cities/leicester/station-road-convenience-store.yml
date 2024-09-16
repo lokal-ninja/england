@@ -2,10 +2,10 @@ id: 7661469202
 type: node
 latitude: 52.52384
 longitude: -1.21353
-postcode: "LE9 6PW"
+postcode: LE9 6PW
 city: Leicester
-street: "Station Road"
-housenumber: 134
+street: Station Road
+housenumber: "134"
 phone: ""
 opening_hours: ""
 website: ""

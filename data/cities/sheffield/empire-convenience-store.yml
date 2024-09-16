@@ -1,11 +1,11 @@
 id: 1060048198
-type: way
+type: node
 latitude: 53.43183
 longitude: -1.47883
-postcode: "S5 9ND"
+postcode: S5 9ND
 city: Sheffield
-street: "Margetson Crescent"
-housenumber: 39
+street: Margetson Crescent
+housenumber: "39"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 275133719
-type: way
+type: node
 latitude: 51.46478
 longitude: -2.58712
-postcode: "BS6 5NP"
+postcode: BS6 5NP
 city: Bristol
-street: "Ashley Road"
-housenumber: 30
-phone: "+44117 9248137"
+street: Ashley Road
+housenumber: "30"
+phone: +44117 9248137
 opening_hours: ""
 website: ""

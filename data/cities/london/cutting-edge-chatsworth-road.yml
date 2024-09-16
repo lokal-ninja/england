@@ -1,11 +1,11 @@
 id: 851943950
-type: way
+type: node
 latitude: 51.55342
 longitude: -0.04461
-postcode: "E5 0LS"
+postcode: E5 0LS
 city: London
-street: "Chatsworth Road"
-housenumber: 58
+street: Chatsworth Road
+housenumber: "58"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1232525168
-type: way
+type: node
 latitude: 51.46443
 longitude: -2.58971
-postcode: "BS6 5RW"
+postcode: BS6 5RW
 city: Bristol
-street: "Cheltenham Road"
-housenumber: 
+street: Cheltenham Road
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

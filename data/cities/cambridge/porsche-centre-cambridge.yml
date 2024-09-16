@@ -1,11 +1,11 @@
 id: 170363035
-type: way
+type: node
 latitude: 52.14313
 longitude: 0.08689
-postcode: "CB22 7QD"
+postcode: CB22 7QD
 city: Cambridge
-street: "High Street"
-housenumber: 
-phone: "+44 1223 964084"
-opening_hours: "Mo-Fr 08:30-18:00; Sa 09:00-17:00"
-website: "https://www.porschecambridge.co.uk"
+street: High Street
+housenumber: ""
+phone: +44 1223 964084
+opening_hours: Mo-Fr 08:30-18:00; Sa 09:00-17:00
+website: https://www.porschecambridge.co.uk

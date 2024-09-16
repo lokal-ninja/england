@@ -1,11 +1,11 @@
 id: 815853930
-type: way
+type: node
 latitude: 51.46936
 longitude: -0.25526
-postcode: "SW13 0PY"
+postcode: SW13 0PY
 city: London
-street: "White Hart Lane"
-housenumber: 34
+street: White Hart Lane
+housenumber: "34"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 323000494
-type: way
+type: node
 latitude: 53.20368
 longitude: -2.49851
-postcode: "CW7 3RL"
+postcode: CW7 3RL
 city: Winsford
-street: "Road One"
-housenumber: 
-phone: "+44 1606 559414"
-opening_hours: "Mo-Fr 07:30-17:00; Sa 08:00-12:00; PH off"
-website: "https://www.howdens.com/find-a-depot/winsford"
+street: Road One
+housenumber: ""
+phone: +44 1606 559414
+opening_hours: Mo-Fr 07:30-17:00; Sa 08:00-12:00; PH off
+website: https://www.howdens.com/find-a-depot/winsford

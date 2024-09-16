@@ -1,11 +1,11 @@
 id: 408060338
-type: way
+type: node
 latitude: 52.3041
 longitude: -0.68459
-postcode: "NN8 1PQ"
+postcode: NN8 1PQ
 city: Wellingborough
-street: "Mill Road"
-housenumber: 104
+street: Mill Road
+housenumber: "104"
 phone: ""
 opening_hours: ""
 website: ""

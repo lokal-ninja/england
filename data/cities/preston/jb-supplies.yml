@@ -1,11 +1,11 @@
 id: 236255024
-type: way
+type: node
 latitude: 53.75962
 longitude: -2.70005
-postcode: "PR1 2EL"
+postcode: PR1 2EL
 city: Preston
-street: "Market Street"
-housenumber: 1
+street: Market Street
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

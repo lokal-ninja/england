@@ -2,10 +2,10 @@ id: 1104655167
 type: node
 latitude: 52.95343
 longitude: -1.14457
-postcode: "NG1 1NN"
+postcode: NG1 1NN
 city: Nottingham
-street: "Carlton Street"
-housenumber: 20
+street: Carlton Street
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.52321
 longitude: -0.10157
 postcode: ""
 city: London
-street: "Great Sutton Street"
-housenumber: 32
+street: Great Sutton Street
+housenumber: "32"
 phone: ""
 opening_hours: ""
-website: "https://metroimaging.co.uk/"
+website: https://metroimaging.co.uk/

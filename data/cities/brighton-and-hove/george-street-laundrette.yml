@@ -2,10 +2,10 @@ id: 2428528731
 type: node
 latitude: 50.82137
 longitude: -0.13478
-postcode: "BN2 1RH"
+postcode: BN2 1RH
 city: Brighton & Hove
-street: "George Street"
-housenumber: 4
+street: George Street
+housenumber: "4"
 phone: ""
-opening_hours: "PH,Mo-Su 09:00-17:00"
+opening_hours: PH,Mo-Su 09:00-17:00
 website: ""

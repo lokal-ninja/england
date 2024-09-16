@@ -1,11 +1,11 @@
 id: 245716236
-type: way
+type: node
 latitude: 51.29483
 longitude: 0.40892
-postcode: "ME19 6LD"
+postcode: ME19 6LD
 city: West Malling
-street: "Swan Street"
-housenumber: 1
+street: Swan Street
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

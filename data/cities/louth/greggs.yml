@@ -1,11 +1,11 @@
 id: 951425578
-type: way
+type: node
 latitude: 53.36623
 longitude: -0.00429
-postcode: "LN11 9PB"
+postcode: LN11 9PB
 city: Louth
-street: "Market Place"
-housenumber: 16
+street: Market Place
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

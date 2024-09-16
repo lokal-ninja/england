@@ -1,11 +1,11 @@
 id: 967801737
-type: way
+type: node
 latitude: 51.45098
 longitude: 0.10133
-postcode: "DA15 8PR"
+postcode: DA15 8PR
 city: Sidcup
-street: "Blackfen Road"
-housenumber: 245
+street: Blackfen Road
+housenumber: "245"
 phone: ""
 opening_hours: ""
 website: ""

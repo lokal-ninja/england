@@ -1,11 +1,11 @@
 id: 1047433946
-type: way
+type: node
 latitude: 50.81237
 longitude: 0.35133
-postcode: "BN24 6ES"
+postcode: BN24 6ES
 city: Pevensey Bay
-street: "Eastbourne Road"
-housenumber: 12
+street: Eastbourne Road
+housenumber: "12"
 phone: ""
 opening_hours: ""
-website: "https://www.premier-stores.co.uk/our-stores/1066-convenience-store"
+website: https://www.premier-stores.co.uk/our-stores/1066-convenience-store

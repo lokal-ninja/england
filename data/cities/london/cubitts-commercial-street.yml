@@ -1,11 +1,11 @@
 id: 157322966
-type: way
+type: node
 latitude: 51.5194
 longitude: -0.07435
-postcode: "E1 6LY"
+postcode: E1 6LY
 city: London
-street: "Commercial Street"
-housenumber: 86
-phone: "+44 20 7375 2439"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 12:00-18:00"
-website: "https://www.cubitts.com/"
+street: Commercial Street
+housenumber: "86"
+phone: +44 20 7375 2439
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 12:00-18:00
+website: https://www.cubitts.com/

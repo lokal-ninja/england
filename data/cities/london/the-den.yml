@@ -1,11 +1,11 @@
 id: 197880560
-type: way
+type: node
 latitude: 51.59163
 longitude: -0.00544
 postcode: ""
 city: London
-street: "Forest Road"
-housenumber: 855
+street: Forest Road
+housenumber: "855"
 phone: ""
 opening_hours: ""
 website: ""

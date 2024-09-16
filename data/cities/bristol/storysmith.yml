@@ -1,11 +1,11 @@
 id: 304280248
-type: way
+type: node
 latitude: 51.44122
 longitude: -2.6118
-postcode: "BS3 1JD"
+postcode: BS3 1JD
 city: Bristol
-street: "North Street"
-housenumber: 236
+street: North Street
+housenumber: "236"
 phone: ""
 opening_hours: ""
 website: ""

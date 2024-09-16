@@ -1,11 +1,11 @@
 id: 170731908
-type: way
+type: node
 latitude: 52.51699
 longitude: -1.81822
 postcode: ""
 city: Birmingham
-street: "Tyburn Road"
-housenumber: 983
+street: Tyburn Road
+housenumber: "983"
 phone: ""
 opening_hours: ""
 website: ""

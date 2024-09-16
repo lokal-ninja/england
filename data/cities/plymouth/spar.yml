@@ -1,11 +1,11 @@
 id: 874085367
-type: way
+type: node
 latitude: 50.38022
 longitude: -4.14189
-postcode: "PL4 6PG"
+postcode: PL4 6PG
 city: Plymouth
-street: "Green Park Avenue"
-housenumber: 32
+street: Green Park Avenue
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Sa 06:00-21:00; Su 07:00-21:00"
+opening_hours: Mo-Sa 06:00-21:00; Su 07:00-21:00
 website: ""

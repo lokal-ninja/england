@@ -1,11 +1,11 @@
 id: 1155085826
-type: way
+type: node
 latitude: 53.44225
 longitude: -1.47014
-postcode: "S35 9YT"
+postcode: S35 9YT
 city: Sheffield
-street: "Stocks Hill"
-housenumber: 3
+street: Stocks Hill
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

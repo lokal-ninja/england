@@ -1,11 +1,11 @@
 id: 229118055
-type: way
+type: node
 latitude: 52.94019
 longitude: -1.14753
-postcode: "NG2 2FB"
+postcode: NG2 2FB
 city: Nottingham
-street: "Woolmer Road"
-housenumber: 44
+street: Woolmer Road
+housenumber: "44"
 phone: ""
 opening_hours: ""
 website: ""

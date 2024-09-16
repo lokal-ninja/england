@@ -1,11 +1,11 @@
 id: 790848618
-type: way
+type: node
 latitude: 50.92661
 longitude: -2.91037
-postcode: "TA19 0DH"
+postcode: TA19 0DH
 city: Ilminster
-street: "Silver Street"
-housenumber: 5
+street: Silver Street
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

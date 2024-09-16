@@ -1,11 +1,11 @@
 id: 74272160
-type: way
+type: node
 latitude: 51.79133
 longitude: 1.14836
-postcode: "CO15 1HH"
+postcode: CO15 1HH
 city: Clacton-on-Sea
 street: ""
-housenumber: 60
+housenumber: "60"
 phone: ""
 opening_hours: ""
 website: ""

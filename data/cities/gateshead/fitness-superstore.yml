@@ -1,11 +1,11 @@
 id: 60827596
-type: way
+type: node
 latitude: 54.95647
 longitude: -1.67614
-postcode: "NE11 9YS"
+postcode: NE11 9YS
 city: Gateshead
-street: "Allison Court"
-housenumber: 4
-phone: "+44 191 338 5380"
+street: Allison Court
+housenumber: "4"
+phone: +44 191 338 5380
 opening_hours: ""
-website: "https://www.fitness-superstore.co.uk/newcastle-(metrocentre)"
+website: https://www.fitness-superstore.co.uk/newcastle-(metrocentre)

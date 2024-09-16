@@ -1,11 +1,11 @@
 id: 232282192
-type: way
+type: node
 latitude: 51.38536
 longitude: -0.10996
-postcode: "CR0 3PA"
+postcode: CR0 3PA
 city: Croydon
-street: "London Road"
-housenumber: 347
+street: London Road
+housenumber: "347"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 189057227
-type: way
+type: node
 latitude: 51.41961
 longitude: -0.08351
-postcode: "SE19 1BG"
+postcode: SE19 1BG
 city: London
-street: "Central Hill"
-housenumber: 9
+street: Central Hill
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

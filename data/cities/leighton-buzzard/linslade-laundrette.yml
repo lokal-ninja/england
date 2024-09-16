@@ -2,10 +2,11 @@ id: 6675358240
 type: node
 latitude: 51.91664
 longitude: -0.67385
-postcode: "LU7 2LS"
+postcode: LU7 2LS
 city: Leighton Buzzard
-street: "New Road"
-housenumber: 37
+street: New Road
+housenumber: "37"
 phone: "+441525375575"
-opening_hours: "Mo 09:00-16:00; Tu 09:00-17:00; We 09:00-16:00; Th 09:00-17:00; Fr 09:00-19:00; Sa 10:00-16:00"
+opening_hours: Mo 09:00-16:00; Tu 09:00-17:00; We 09:00-16:00; Th 09:00-17:00; Fr
+    09:00-19:00; Sa 10:00-16:00
 website: ""

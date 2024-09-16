@@ -1,11 +1,11 @@
 id: 55342519
-type: way
+type: node
 latitude: 51.80547
 longitude: 1.15573
-postcode: "CO15 4DD"
+postcode: CO15 4DD
 city: Great Clacton
-street: "North Road"
-housenumber: 30
+street: North Road
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

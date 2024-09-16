@@ -1,11 +1,11 @@
 id: 636667851
-type: way
+type: node
 latitude: 51.43369
 longitude: -2.75641
-postcode: "BS48 1AH"
+postcode: BS48 1AH
 city: Bristol
-street: "High Street"
-housenumber: 118
+street: High Street
+housenumber: "118"
 phone: ""
 opening_hours: ""
 website: ""

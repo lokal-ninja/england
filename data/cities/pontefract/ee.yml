@@ -1,11 +1,11 @@
 id: 887452724
-type: way
+type: node
 latitude: 53.69159
 longitude: -1.31142
-postcode: "WF8 1AT"
+postcode: WF8 1AT
 city: Pontefract
-street: "Market Place"
-housenumber: 24
+street: Market Place
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 946052431
-type: way
+type: node
 latitude: 53.7671
 longitude: -1.77387
-postcode: "BD6 1QP"
+postcode: BD6 1QP
 city: Bradford
-street: "High Street"
-housenumber: 202
+street: High Street
+housenumber: "202"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 98456499
-type: way
+type: node
 latitude: 50.92451
 longitude: -1.31381
-postcode: "SO30 2UH"
+postcode: SO30 2UH
 city: Southampton
-street: "Tollbar Way"
-housenumber: 2
+street: Tollbar Way
+housenumber: "2"
 phone: "+443445610000"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 10:30-16:30"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 10:30-16:30
 website: ""

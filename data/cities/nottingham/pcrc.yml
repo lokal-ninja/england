@@ -1,11 +1,11 @@
 id: 79093027
-type: way
+type: node
 latitude: 52.93473
 longitude: -1.13341
-postcode: "NG2 7PL"
+postcode: NG2 7PL
 city: Nottingham
-street: "Musters Road"
-housenumber: 30
+street: Musters Road
+housenumber: "30"
 phone: ""
 opening_hours: ""
-website: "https://www.pcrc.co.uk/"
+website: https://www.pcrc.co.uk/

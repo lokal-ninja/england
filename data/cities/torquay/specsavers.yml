@@ -2,10 +2,10 @@ id: 2376054789
 type: node
 latitude: 50.46712
 longitude: -3.52999
-postcode: "TQ1 3DG"
+postcode: TQ1 3DG
 city: Torquay
-street: "Union Street"
-housenumber: 
+street: Union Street
+housenumber: ""
 phone: ""
-opening_hours: "By appointment currently"
+opening_hours: '"By appointment currently"'
 website: ""

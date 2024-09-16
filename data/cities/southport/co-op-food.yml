@@ -2,10 +2,10 @@ id: 304349526
 type: node
 latitude: 53.60212
 longitude: -3.03586
-postcode: "PR8 3HR"
+postcode: PR8 3HR
 city: Southport
-street: "Station Road"
-housenumber: 1
+street: Station Road
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su 10:00-16:00"
-website: "https://www.coop.co.uk/store-finder/PR8-3HR/station-road"
+opening_hours: Mo-Sa 07:00-22:00; Su 10:00-16:00
+website: https://www.coop.co.uk/store-finder/PR8-3HR/station-road

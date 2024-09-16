@@ -1,11 +1,11 @@
 id: 131549754
-type: way
+type: node
 latitude: 51.12845
 longitude: -3.00146
-postcode: "TA6 3NJ"
+postcode: TA6 3NJ
 city: Bridgwater
-street: "Binford Place"
-housenumber: 6
+street: Binford Place
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 09:00-17:00"
+opening_hours: Mo-Sa 09:00-17:00
 website: ""

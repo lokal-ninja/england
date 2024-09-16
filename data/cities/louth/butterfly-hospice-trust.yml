@@ -1,11 +1,11 @@
 id: 949225181
-type: way
+type: node
 latitude: 53.36597
 longitude: -0.00581
-postcode: "LN11 9JQ"
+postcode: LN11 9JQ
 city: Louth
-street: "Mercer Row"
-housenumber: 14
+street: Mercer Row
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

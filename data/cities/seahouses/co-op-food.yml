@@ -1,11 +1,11 @@
 id: 260361024
-type: way
+type: node
 latitude: 55.58067
 longitude: -1.65471
-postcode: "NE68 7RF"
+postcode: NE68 7RF
 city: Seahouses
-street: "Main Street"
-housenumber: 41
-phone: "+44 1665 720245"
-opening_hours: "Mo-Sa 07:00-22:00; Su 10:00-16:00"
-website: "https://www.coop.co.uk/store-finder/NE68-7RF/41-main-street"
+street: Main Street
+housenumber: "41"
+phone: +44 1665 720245
+opening_hours: Mo-Sa 07:00-22:00; Su 10:00-16:00
+website: https://www.coop.co.uk/store-finder/NE68-7RF/41-main-street

@@ -1,11 +1,11 @@
 id: 171931899
-type: way
+type: node
 latitude: 52.20923
 longitude: 0.14368
-postcode: "CB5 8JL"
+postcode: CB5 8JL
 city: Cambridge
-street: "Newmarket Road"
-housenumber: 228
+street: Newmarket Road
+housenumber: "228"
 phone: ""
 opening_hours: ""
-website: "https://www.majestic.co.uk/stores/cambridge"
+website: https://www.majestic.co.uk/stores/cambridge

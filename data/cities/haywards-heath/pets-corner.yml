@@ -1,11 +1,11 @@
 id: 509808664
-type: way
+type: node
 latitude: 50.99111
 longitude: -0.09995
-postcode: "RH16 4EF"
+postcode: RH16 4EF
 city: Haywards Heath
-street: "Wivelsfield Road"
-housenumber: 27
+street: Wivelsfield Road
+housenumber: "27"
 phone: ""
 opening_hours: ""
-website: "https://www.petscorner.co.uk/haywards-heath"
+website: https://www.petscorner.co.uk/haywards-heath

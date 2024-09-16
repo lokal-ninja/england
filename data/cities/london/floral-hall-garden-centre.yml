@@ -1,11 +1,11 @@
 id: 452839477
-type: way
+type: node
 latitude: 51.43417
 longitude: -0.10523
-postcode: "SE27 0AR"
+postcode: SE27 0AR
 city: London
-street: "Lansdowne Hill"
-housenumber: 1
+street: Lansdowne Hill
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

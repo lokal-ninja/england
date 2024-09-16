@@ -1,11 +1,11 @@
 id: 938601787
-type: way
+type: node
 latitude: 51.43275
 longitude: -0.16423
-postcode: "SW17 7EN"
+postcode: SW17 7EN
 city: London
-street: "Upper Tooting Road"
-housenumber: 130
+street: Upper Tooting Road
+housenumber: "130"
 phone: ""
 opening_hours: ""
 website: ""

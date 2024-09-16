@@ -1,11 +1,11 @@
 id: 505623850
-type: way
+type: node
 latitude: 50.9527
 longitude: -0.14351
-postcode: "RH15 9NB"
+postcode: RH15 9NB
 city: Burgess Hill
-street: "Victoria Gardens"
-housenumber: 
-phone: "+44 345 073 1044"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://www.woolovers.com/factory-shop"
+street: Victoria Gardens
+housenumber: ""
+phone: +44 345 073 1044
+opening_hours: Mo-Fr 09:00-17:00
+website: https://www.woolovers.com/factory-shop

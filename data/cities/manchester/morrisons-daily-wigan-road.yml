@@ -1,11 +1,11 @@
 id: 1045538756
-type: way
+type: node
 latitude: 53.52495
 longitude: -2.50208
-postcode: "M46 0LN"
+postcode: M46 0LN
 city: Manchester
-street: "Wigan Road"
-housenumber: 104
+street: Wigan Road
+housenumber: "104"
 phone: ""
 opening_hours: ""
 website: ""

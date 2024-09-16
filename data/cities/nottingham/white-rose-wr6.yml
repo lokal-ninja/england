@@ -2,10 +2,10 @@ id: 2175171969
 type: node
 latitude: 52.95376
 longitude: -1.14962
-postcode: "NG1 2DR"
+postcode: NG1 2DR
 city: Nottingham
-street: "Long Row"
-housenumber: 25
+street: Long Row
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 160581291
-type: way
+type: node
 latitude: 50.60871
 longitude: -2.45541
-postcode: "DT4 8EQ"
+postcode: DT4 8EQ
 city: Weymouth
-street: "St Thomas Street"
-housenumber: 63
+street: St Thomas Street
+housenumber: "63"
 phone: ""
 opening_hours: ""
-website: "https://www.tesco.com/store-locator/weymouth/63-st-thomas-st"
+website: https://www.tesco.com/store-locator/weymouth/63-st-thomas-st

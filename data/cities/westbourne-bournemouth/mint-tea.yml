@@ -1,11 +1,11 @@
 id: 117298412
-type: way
+type: node
 latitude: 50.72275
 longitude: -1.90275
-postcode: "BH4 9AY"
+postcode: BH4 9AY
 city: Westbourne, Bournemouth
-street: "Westbourne Arcade"
-housenumber: 7
-phone: "+44 1202 017000"
+street: Westbourne Arcade
+housenumber: "7"
+phone: +44 1202 017000
 opening_hours: ""
-website: "https://mint-teaboutique.com/"
+website: https://mint-teaboutique.com/

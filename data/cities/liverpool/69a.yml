@@ -1,11 +1,11 @@
 id: 1248932335
-type: way
+type: node
 latitude: 53.40297
 longitude: -2.9761
-postcode: "L1 2SJ"
+postcode: L1 2SJ
 city: Liverpool
-street: "Renshaw Street"
-housenumber: 75
+street: Renshaw Street
+housenumber: "75"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 49430830
-type: way
+type: node
 latitude: 52.62062
 longitude: -1.13412
-postcode: "LE2 7LT"
+postcode: LE2 7LT
 city: Leicester
-street: "Counting House Road"
-housenumber: 9
+street: Counting House Road
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 07:00-23:00; Su 11:00-17:00"
-website: "https://my.morrisons.com/storefinder/234/leicester"
+opening_hours: Mo-Sa 07:00-23:00; Su 11:00-17:00
+website: https://my.morrisons.com/storefinder/234/leicester

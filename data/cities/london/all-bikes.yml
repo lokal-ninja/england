@@ -1,11 +1,11 @@
 id: 934243330
-type: way
+type: node
 latitude: 51.51975
 longitude: 0.01655
-postcode: "E16 4HJ"
+postcode: E16 4HJ
 city: London
-street: "Newhaven Lane"
-housenumber: 279
+street: Newhaven Lane
+housenumber: "279"
 phone: ""
 opening_hours: ""
 website: ""

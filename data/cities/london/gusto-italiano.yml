@@ -1,11 +1,11 @@
 id: 125758851
-type: way
+type: node
 latitude: 51.45323
 longitude: -0.09371
-postcode: "SE24 9JY"
+postcode: SE24 9JY
 city: London
-street: "Half Moon Lane"
-housenumber: 135
+street: Half Moon Lane
+housenumber: "135"
 phone: ""
 opening_hours: ""
-website: "http://www.lagastronomia.com/"
+website: http://www.lagastronomia.com/

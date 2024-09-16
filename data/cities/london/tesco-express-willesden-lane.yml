@@ -1,11 +1,11 @@
 id: 77664690
-type: way
+type: node
 latitude: 51.54079
 longitude: -0.20325
-postcode: "NW6 7TA"
+postcode: NW6 7TA
 city: London
-street: "Willesden Lane"
-housenumber: 100
+street: Willesden Lane
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

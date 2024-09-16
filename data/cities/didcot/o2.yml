@@ -1,11 +1,11 @@
 id: 755628235
-type: way
+type: node
 latitude: 51.60736
 longitude: -1.23862
-postcode: "OX11 7LG"
+postcode: OX11 7LG
 city: Didcot
-street: "Orchard Street"
-housenumber: 
+street: Orchard Street
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://stores.o2.co.uk/o2-store-didcot"
+website: https://stores.o2.co.uk/o2-store-didcot

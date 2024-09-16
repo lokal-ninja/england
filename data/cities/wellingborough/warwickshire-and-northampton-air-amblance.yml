@@ -1,11 +1,11 @@
 id: 321560257
-type: way
+type: node
 latitude: 52.30188
 longitude: -0.69229
-postcode: "NN8 1AN"
+postcode: NN8 1AN
 city: Wellingborough
-street: "Market Street"
-housenumber: 15
+street: Market Street
+housenumber: "15"
 phone: ""
 opening_hours: ""
-website: "http://www.wnaa.co.uk"
+website: http://www.wnaa.co.uk

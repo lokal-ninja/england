@@ -1,11 +1,11 @@
 id: 1102250295
-type: way
+type: node
 latitude: 52.95431
 longitude: -1.14436
-postcode: "NG1 3AJ"
+postcode: NG1 3AJ
 city: Nottingham
-street: "Broad Street"
-housenumber: 13
+street: Broad Street
+housenumber: "13"
 phone: ""
 opening_hours: ""
-website: "https://www.mimm.co.uk/"
+website: https://www.mimm.co.uk/

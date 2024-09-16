@@ -1,11 +1,11 @@
 id: 330328850
-type: way
+type: node
 latitude: 51.63242
 longitude: -0.17597
-postcode: "N20 9HR"
+postcode: N20 9HR
 city: London
-street: "High Road"
-housenumber: 1353
+street: High Road
+housenumber: "1353"
 phone: ""
 opening_hours: ""
 website: ""

@@ -2,10 +2,10 @@ id: 10678662632
 type: node
 latitude: 51.61374
 longitude: -0.17588
-postcode: "N12 9QD"
+postcode: N12 9QD
 city: London
-street: "High Road"
-housenumber: 710
+street: High Road
+housenumber: "710"
 phone: ""
 opening_hours: ""
 website: ""

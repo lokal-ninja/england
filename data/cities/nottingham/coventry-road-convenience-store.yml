@@ -1,11 +1,11 @@
 id: 424361975
-type: way
+type: node
 latitude: 52.99797
 longitude: -1.19754
-postcode: "NG6 8PS"
+postcode: NG6 8PS
 city: Nottingham
-street: "Coventry Road"
-housenumber: 124
+street: Coventry Road
+housenumber: "124"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 197262521
-type: way
+type: node
 latitude: 51.72129
 longitude: -0.36354
-postcode: "AL2 3EH"
+postcode: AL2 3EH
 city: St Albans
-street: "Watford Road"
-housenumber: 551
-phone: "+44 1727 866099"
+street: Watford Road
+housenumber: "551"
+phone: +44 1727 866099
 opening_hours: ""
-website: "https://www.waitrose.com/find-a-store/chiswell"
+website: https://www.waitrose.com/find-a-store/chiswell

@@ -2,10 +2,10 @@ id: 7783311965
 type: node
 latitude: 53.61664
 longitude: -0.21434
-postcode: "DN40 2AB"
+postcode: DN40 2AB
 city: Immingham
-street: "Kennedy Way"
-housenumber: 35
+street: Kennedy Way
+housenumber: "35"
 phone: ""
-opening_hours: "Mo-Sa 07:00-23:00; Su 10:00-16:00"
-website: "https://www.tesco.com/store-locator/immingham/kennedy-way"
+opening_hours: Mo-Sa 07:00-23:00; Su 10:00-16:00
+website: https://www.tesco.com/store-locator/immingham/kennedy-way

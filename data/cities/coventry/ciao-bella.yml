@@ -1,11 +1,11 @@
 id: 234282058
-type: way
+type: node
 latitude: 52.42734
 longitude: -1.44449
-postcode: "CV2 2ER"
+postcode: CV2 2ER
 city: Coventry
-street: "Woodway Lane"
-housenumber: 62
-phone: "+44 24 7661 2857"
-opening_hours: "Mo 13:00-19:30; Tu-Fr 09:00-19:30; Sa 09:00-15:00; Su off"
+street: Woodway Lane
+housenumber: "62"
+phone: +44 24 7661 2857
+opening_hours: Mo 13:00-19:30; Tu-Fr 09:00-19:30; Sa 09:00-15:00; Su off
 website: ""

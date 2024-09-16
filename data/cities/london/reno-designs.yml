@@ -1,11 +1,11 @@
 id: 460408479
-type: way
+type: node
 latitude: 51.46457
 longitude: -0.26698
 postcode: ""
 city: London
-street: "Upper Richmond Road West"
-housenumber: 367
+street: Upper Richmond Road West
+housenumber: "367"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1259214787
-type: way
+type: node
 latitude: 51.60561
 longitude: -1.25545
-postcode: "OX11 0BT"
+postcode: OX11 0BT
 city: Didcot
-street: "Wantage Road"
-housenumber: 44
+street: Wantage Road
+housenumber: "44"
 phone: ""
 opening_hours: ""
 website: ""

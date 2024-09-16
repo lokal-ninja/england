@@ -1,11 +1,11 @@
 id: 136620476
-type: way
+type: node
 latitude: 52.21516
 longitude: 0.11791
-postcode: "CB4 3BS"
+postcode: CB4 3BS
 city: Cambridge
-street: "Victoria Road"
-housenumber: 95
-phone: "+44 1223 300600"
-opening_hours: "Mo-Fr 09:30-05:30, Sa 09:00-16:00"
+street: Victoria Road
+housenumber: "95"
+phone: +44 1223 300600
+opening_hours: Mo-Fr 09:30-05:30, Sa 09:00-16:00
 website: ""

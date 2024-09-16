@@ -1,11 +1,11 @@
 id: 835085815
-type: way
+type: node
 latitude: 52.46288
 longitude: 1.56717
-postcode: "NR34 9BN"
+postcode: NR34 9BN
 city: Beccles
-street: "Common Lane North"
-housenumber: 
+street: Common Lane North
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.lidl.co.uk/s/en-GB/store-finder/beccles/common-lane-north/"
+website: https://www.lidl.co.uk/s/en-GB/store-finder/beccles/common-lane-north/

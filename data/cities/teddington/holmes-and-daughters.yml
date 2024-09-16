@@ -1,11 +1,11 @@
 id: 708005540
-type: way
+type: node
 latitude: 51.42787
 longitude: -0.3262
-postcode: "TW11 8HH"
+postcode: TW11 8HH
 city: Teddington
-street: "High Street"
-housenumber: 161
+street: High Street
+housenumber: "161"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00"
+opening_hours: Mo-Fr 09:00-17:00
 website: ""

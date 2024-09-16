@@ -1,11 +1,11 @@
 id: 1112064119
-type: way
+type: node
 latitude: 50.91779
 longitude: -0.45207
-postcode: "RH20 4DR"
+postcode: RH20 4DR
 city: Pulborough
-street: "High Street"
-housenumber: 23
+street: High Street
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

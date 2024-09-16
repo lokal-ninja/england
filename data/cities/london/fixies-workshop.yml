@@ -2,10 +2,10 @@ id: 11001788765
 type: node
 latitude: 51.51465
 longitude: -0.02004
-postcode: "E14 6DT"
+postcode: E14 6DT
 city: London
-street: "Upper North Street"
-housenumber: 99
+street: Upper North Street
+housenumber: "99"
 phone: ""
-opening_hours: "Tu-Sa 10:00-19:00"
-website: "https://www.fixiesworkshop.uk/"
+opening_hours: Tu-Sa 10:00-19:00
+website: https://www.fixiesworkshop.uk/

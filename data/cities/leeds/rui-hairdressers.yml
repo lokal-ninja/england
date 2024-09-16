@@ -1,11 +1,11 @@
 id: 903122957
-type: way
+type: node
 latitude: 53.80685
 longitude: -1.45043
-postcode: "LS15 8ET"
+postcode: LS15 8ET
 city: Leeds
-street: "Station Road"
-housenumber: 28
+street: Station Road
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

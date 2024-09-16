@@ -1,11 +1,11 @@
 id: 376298112
-type: way
+type: node
 latitude: 51.43465
 longitude: -2.56668
-postcode: "BS4 2QG"
+postcode: BS4 2QG
 city: Bristol
-street: "Wells Road"
-housenumber: 306
+street: Wells Road
+housenumber: "306"
 phone: ""
 opening_hours: ""
 website: ""

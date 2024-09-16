@@ -1,11 +1,11 @@
 id: 1213722257
-type: way
+type: node
 latitude: 50.84666
 longitude: -1.7959
-postcode: "BH24 1DY"
+postcode: BH24 1DY
 city: Ringwood
-street: "West Street"
-housenumber: 15
+street: West Street
+housenumber: "15"
 phone: ""
 opening_hours: ""
-website: "https://thework-shop.co.uk"
+website: https://thework-shop.co.uk

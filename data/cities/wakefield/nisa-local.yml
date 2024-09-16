@@ -1,11 +1,11 @@
 id: 77176572
-type: way
+type: node
 latitude: 53.69009
 longitude: -1.47784
-postcode: "WF1 4DA"
+postcode: WF1 4DA
 city: Wakefield
-street: "Windhill Road"
-housenumber: 52
+street: Windhill Road
+housenumber: "52"
 phone: ""
 opening_hours: ""
 website: ""

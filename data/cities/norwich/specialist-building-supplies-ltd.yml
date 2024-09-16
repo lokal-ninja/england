@@ -1,11 +1,11 @@
 id: 589680613
-type: way
+type: node
 latitude: 52.4852
 longitude: 1.22076
-postcode: "NR15 2PD"
+postcode: NR15 2PD
 city: Norwich
-street: "Wellesley Road"
-housenumber: 15
-phone: "+44 1508 535102"
+street: Wellesley Road
+housenumber: "15"
+phone: +44 1508 535102
 opening_hours: ""
-website: "http://www.specialist-building-supplies.co.uk/"
+website: http://www.specialist-building-supplies.co.uk/

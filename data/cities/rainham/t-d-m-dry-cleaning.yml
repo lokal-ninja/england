@@ -1,11 +1,11 @@
 id: 676221096
-type: way
+type: node
 latitude: 51.52875
 longitude: 0.18896
-postcode: "RM13 8TU"
+postcode: RM13 8TU
 city: Rainham
-street: "Cherry Tree Lane"
-housenumber: 207
+street: Cherry Tree Lane
+housenumber: "207"
 phone: ""
 opening_hours: ""
 website: ""

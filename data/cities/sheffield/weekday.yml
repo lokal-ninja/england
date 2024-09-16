@@ -1,11 +1,11 @@
 id: 1192968782
-type: way
+type: node
 latitude: 53.3786
 longitude: -1.47246
-postcode: "S1 4HQ"
+postcode: S1 4HQ
 city: Sheffield
-street: "Pinstone Street"
-housenumber: 108
+street: Pinstone Street
+housenumber: "108"
 phone: ""
 opening_hours: ""
 website: ""

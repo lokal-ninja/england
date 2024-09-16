@@ -1,11 +1,11 @@
 id: 1220220839
-type: way
+type: node
 latitude: 53.30222
 longitude: -1.1246
-postcode: "S80 1DL"
+postcode: S80 1DL
 city: Worksop
-street: "Bridge Street"
-housenumber: 91
+street: Bridge Street
+housenumber: "91"
 phone: ""
 opening_hours: ""
-website: "https://www.taniqueuk.co.uk/"
+website: https://www.taniqueuk.co.uk/

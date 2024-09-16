@@ -1,11 +1,11 @@
 id: 355526180
-type: way
+type: node
 latitude: 52.99846
 longitude: -1.13799
-postcode: "NG5 6BH"
+postcode: NG5 6BH
 city: Nottingham
-street: "Mansfield Road"
-housenumber: 85
+street: Mansfield Road
+housenumber: "85"
 phone: ""
-opening_hours: "Tu,Th 09:30-17:30; We 09:30-18:00; Fr 09:30-17:00; Sa 09:30-16:00"
+opening_hours: Tu,Th 09:30-17:30; We 09:30-18:00; Fr 09:30-17:00; Sa 09:30-16:00
 website: ""

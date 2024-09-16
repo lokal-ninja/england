@@ -1,11 +1,11 @@
 id: 621553804
-type: way
+type: node
 latitude: 52.0845
 longitude: 0.01732
-postcode: "SG8 6DZ"
+postcode: SG8 6DZ
 city: Melbourn
-street: "High Street"
-housenumber: 49
+street: High Street
+housenumber: "49"
 phone: ""
-opening_hours: "Mo-Su 06:00-20:00"
+opening_hours: Mo-Su 06:00-20:00
 website: ""

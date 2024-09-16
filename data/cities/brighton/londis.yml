@@ -2,10 +2,10 @@ id: 1130208171
 type: node
 latitude: 50.84406
 longitude: -0.14257
-postcode: "BN1 6EW"
+postcode: BN1 6EW
 city: Brighton
-street: "Preston Drove"
-housenumber: 108
+street: Preston Drove
+housenumber: "108"
 phone: ""
 opening_hours: ""
 website: ""

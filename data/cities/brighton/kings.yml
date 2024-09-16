@@ -2,10 +2,10 @@ id: 6764025191
 type: node
 latitude: 50.83329
 longitude: -0.13874
-postcode: "BN1 4JE"
+postcode: BN1 4JE
 city: Brighton
-street: "London Road"
-housenumber: 71
+street: London Road
+housenumber: "71"
 phone: ""
 opening_hours: ""
-website: "http://www.kingscartridgesandprinters.co.uk/"
+website: http://www.kingscartridgesandprinters.co.uk/

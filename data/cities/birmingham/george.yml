@@ -1,11 +1,11 @@
 id: 1217149371
-type: way
+type: node
 latitude: 52.47438
 longitude: -1.89718
-postcode: "B5 4TE"
+postcode: B5 4TE
 city: Birmingham
-street: "Hurst Street"
-housenumber: 57
+street: Hurst Street
+housenumber: "57"
 phone: ""
 opening_hours: ""
 website: ""

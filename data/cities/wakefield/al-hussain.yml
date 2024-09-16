@@ -1,11 +1,11 @@
 id: 431012926
-type: way
+type: node
 latitude: 53.67828
 longitude: -1.51206
-postcode: "WF2 8TQ"
+postcode: WF2 8TQ
 city: Wakefield
-street: "Carlton Street"
-housenumber: 25
+street: Carlton Street
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

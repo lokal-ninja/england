@@ -1,11 +1,11 @@
 id: 683753118
-type: way
+type: node
 latitude: 50.98886
 longitude: -1.50011
-postcode: "SO51 8NB"
+postcode: SO51 8NB
 city: Romsey
-street: "Market Place"
-housenumber: 3
+street: Market Place
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

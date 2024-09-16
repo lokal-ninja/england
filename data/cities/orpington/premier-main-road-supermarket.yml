@@ -1,11 +1,11 @@
 id: 963749102
-type: way
+type: node
 latitude: 51.40117
 longitude: 0.11683
-postcode: "BR5 3HG"
+postcode: BR5 3HG
 city: Orpington
-street: "Main Road"
-housenumber: 6
+street: Main Road
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "https://www.premier-stores.co.uk/our-stores/main-road-supermarket"
+website: https://www.premier-stores.co.uk/our-stores/main-road-supermarket

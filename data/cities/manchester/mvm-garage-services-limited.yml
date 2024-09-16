@@ -1,11 +1,11 @@
 id: 1002997290
-type: way
+type: node
 latitude: 53.46775
 longitude: -2.3191
-postcode: "M17 1AD"
+postcode: M17 1AD
 city: Manchester
-street: "Village Way"
-housenumber: 
-phone: "+44 161 865 8754"
+street: Village Way
+housenumber: ""
+phone: +44 161 865 8754
 opening_hours: ""
 website: ""

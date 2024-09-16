@@ -4,8 +4,8 @@ latitude: 51.25774
 longitude: -0.00518
 postcode: ""
 city: Oxted
-street: "Station Road West"
-housenumber: 29
-phone: "+44 1883 722727"
-opening_hours: "Mo-Fr 08:30-18:00; Sa 09:00-17:00"
-website: "https://www.sew-perfect.co.uk/"
+street: Station Road West
+housenumber: "29"
+phone: +44 1883 722727
+opening_hours: Mo-Fr 08:30-18:00; Sa 09:00-17:00
+website: https://www.sew-perfect.co.uk/

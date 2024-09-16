@@ -1,11 +1,11 @@
 id: 224833426
-type: way
+type: node
 latitude: 53.91274
 longitude: -1.75118
-postcode: "LS29 7NE"
+postcode: LS29 7NE
 city: Ilkley
-street: "Station Road"
-housenumber: 36
+street: Station Road
+housenumber: "36"
 phone: ""
 opening_hours: ""
 website: ""

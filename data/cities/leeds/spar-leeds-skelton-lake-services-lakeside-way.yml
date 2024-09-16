@@ -1,11 +1,11 @@
 id: 754993507
-type: way
+type: node
 latitude: 53.77401
 longitude: -1.46981
-postcode: "LS9 0AS"
+postcode: LS9 0AS
 city: Leeds
-street: "Leeds Skelton Lake Services, Lakeside Way"
-housenumber: 21
+street: Leeds Skelton Lake Services, Lakeside Way
+housenumber: "21"
 phone: ""
 opening_hours: ""
-website: "https://www.spar.co.uk/store-locator/hal21977-spar-richardson-skelton/"
+website: https://www.spar.co.uk/store-locator/hal21977-spar-richardson-skelton/

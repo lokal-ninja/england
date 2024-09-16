@@ -1,11 +1,11 @@
 id: 936408307
-type: way
+type: node
 latitude: 53.79827
 longitude: -1.58948
-postcode: "LS12 3AP"
+postcode: LS12 3AP
 city: Leeds
-street: "Stanningley Road"
-housenumber: 
-phone: "+44 113 2636960"
-opening_hours: "Mo-Sa 09:30-17:00; Su 10:00-16:00"
-website: "https://www.barnardos.org.uk/shops/our-shops/armley-donation-centre"
+street: Stanningley Road
+housenumber: ""
+phone: +44 113 2636960
+opening_hours: Mo-Sa 09:30-17:00; Su 10:00-16:00
+website: https://shop.barnardos.org.uk/shop/armley-donation-centre

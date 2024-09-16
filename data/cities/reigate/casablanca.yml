@@ -2,10 +2,10 @@ id: 6807451970
 type: node
 latitude: 51.23814
 longitude: -0.21046
-postcode: "RH2 9BL"
+postcode: RH2 9BL
 city: Reigate
-street: "West Street"
-housenumber: 3
+street: West Street
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

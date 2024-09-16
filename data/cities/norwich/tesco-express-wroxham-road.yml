@@ -1,11 +1,11 @@
 id: 137846579
-type: way
+type: node
 latitude: 52.65849
 longitude: 1.32468
-postcode: "NR7 8AG"
+postcode: NR7 8AG
 city: Norwich
-street: "Wroxham Road"
-housenumber: 201
+street: Wroxham Road
+housenumber: "201"
 phone: ""
-opening_hours: "07:00-22:00"
+opening_hours: 07:00-22:00
 website: ""

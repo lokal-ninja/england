@@ -1,11 +1,11 @@
 id: 142371468
-type: way
+type: node
 latitude: 51.53618
 longitude: -0.05729
-postcode: "E8 4RG"
+postcode: E8 4RG
 city: London
-street: "Mare Street"
-housenumber: 51
+street: Mare Street
+housenumber: "51"
 phone: ""
 opening_hours: ""
 website: ""

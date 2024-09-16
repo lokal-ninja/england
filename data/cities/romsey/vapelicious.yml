@@ -1,11 +1,11 @@
 id: 684257438
-type: way
+type: node
 latitude: 50.98883
 longitude: -1.49701
-postcode: "SO51 8BX"
+postcode: SO51 8BX
 city: Romsey
-street: "The Hundred"
-housenumber: 46
+street: The Hundred
+housenumber: "46"
 phone: ""
 opening_hours: ""
 website: ""

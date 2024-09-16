@@ -1,11 +1,11 @@
 id: 208908061
-type: way
+type: node
 latitude: 51.514
 longitude: -0.14704
 postcode: ""
 city: London
-street: "Blenheim Street"
-housenumber: 5
+street: Blenheim Street
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://www.newbondstreetpawnbrokers.com/"
+website: https://www.newbondstreetpawnbrokers.com/

@@ -1,11 +1,11 @@
 id: 488939450
-type: way
+type: node
 latitude: 53.78792
 longitude: -2.24368
-postcode: "BB11 1HJ"
+postcode: BB11 1HJ
 city: Burnley
-street: "Manchester Road"
-housenumber: 42
+street: Manchester Road
+housenumber: "42"
 phone: ""
 opening_hours: ""
-website: "https://themoneyshop.com/"
+website: https://themoneyshop.com/

@@ -1,11 +1,11 @@
 id: 534816713
-type: way
+type: node
 latitude: 51.01512
 longitude: -3.09409
-postcode: "TA1 3NH"
+postcode: TA1 3NH
 city: Taunton
-street: "East Reach"
-housenumber: 130
-phone: "+44 7757 719128"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://becciewoods.wixsite.com/boniandguy"
+street: East Reach
+housenumber: "130"
+phone: +44 7757 719128
+opening_hours: Mo-Fr 09:00-17:00
+website: https://becciewoods.wixsite.com/boniandguy

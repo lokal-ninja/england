@@ -1,11 +1,11 @@
 id: 232073926
-type: way
+type: node
 latitude: 51.44439
 longitude: -0.0432
-postcode: "SE23 1JG"
+postcode: SE23 1JG
 city: London
-street: "Brockley Rise"
-housenumber: 53
+street: Brockley Rise
+housenumber: "53"
 phone: ""
 opening_hours: ""
 website: ""

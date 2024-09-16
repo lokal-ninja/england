@@ -2,10 +2,10 @@ id: 10261263860
 type: node
 latitude: 51.59292
 longitude: -0.06989
-postcode: "N17 6QA"
+postcode: N17 6QA
 city: London
-street: "High Road"
-housenumber: 485
+street: High Road
+housenumber: "485"
 phone: ""
 opening_hours: ""
 website: ""

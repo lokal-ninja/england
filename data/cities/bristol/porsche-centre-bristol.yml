@@ -1,11 +1,11 @@
 id: 200619649
-type: way
+type: node
 latitude: 51.5204
 longitude: -2.61888
-postcode: "BS10 7UH"
+postcode: BS10 7UH
 city: Bristol
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

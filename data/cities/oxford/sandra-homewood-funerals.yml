@@ -1,11 +1,11 @@
 id: 135885550
-type: way
+type: node
 latitude: 51.75979
 longitude: -1.21031
-postcode: "OX3 7BL"
+postcode: OX3 7BL
 city: Oxford
-street: "Windmill Road"
-housenumber: 5
-phone: "+44 1865 570700"
-opening_hours: "Mo-Th 09:00-17:00;Fr 09:00-16:30"
-website: "https://homewoodfunerals.co.uk/"
+street: Windmill Road
+housenumber: "5"
+phone: +44 1865 570700
+opening_hours: Mo-Th 09:00-17:00;Fr 09:00-16:30
+website: https://homewoodfunerals.co.uk/

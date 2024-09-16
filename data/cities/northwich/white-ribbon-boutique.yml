@@ -1,11 +1,11 @@
 id: 321067256
-type: way
+type: node
 latitude: 53.26175
 longitude: -2.51481
-postcode: "CW9 5DD"
+postcode: CW9 5DD
 city: Northwich
-street: "High Street"
-housenumber: 47
+street: High Street
+housenumber: "47"
 phone: ""
 opening_hours: ""
 website: ""

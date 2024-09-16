@@ -1,11 +1,11 @@
 id: 648513209
-type: way
+type: node
 latitude: 51.49491
 longitude: -2.57437
-postcode: "BS7 0BE"
+postcode: BS7 0BE
 city: Bristol
-street: "Filton Avenue"
-housenumber: 374
+street: Filton Avenue
+housenumber: "374"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 33310117
-type: way
+type: node
 latitude: 51.64802
 longitude: -0.13034
-postcode: "N14 4XA"
+postcode: N14 4XA
 city: London
-street: "Bramley Road"
-housenumber: 153
+street: Bramley Road
+housenumber: "153"
 phone: ""
-opening_hours: "Mo-Su 06:00-24:00"
+opening_hours: Mo-Su 06:00-24:00
 website: ""

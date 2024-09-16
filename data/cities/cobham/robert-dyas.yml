@@ -2,10 +2,10 @@ id: 9251213594
 type: node
 latitude: 51.32855
 longitude: -0.41081
-postcode: "KT11 3DY"
+postcode: KT11 3DY
 city: Cobham
-street: "High Street"
-housenumber: 12
+street: High Street
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 08:30-17:30; Su 10:00-16:00"
+opening_hours: Mo-Sa 08:30-17:30; Su 10:00-16:00
 website: ""

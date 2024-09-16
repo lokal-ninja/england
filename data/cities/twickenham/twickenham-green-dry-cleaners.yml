@@ -2,10 +2,11 @@ id: 3563741144
 type: node
 latitude: 51.44428
 longitude: -0.34552
-postcode: "TW2 5AH"
+postcode: TW2 5AH
 city: Twickenham
-street: "Staines Road"
-housenumber: 4
+street: Staines Road
+housenumber: "4"
 phone: ""
-opening_hours: "Mo 08:00-18:00; Tu 08:00-18:30; We 08:00-18:00; Th 08:00-18:30; Fr 08:00-18:00; Sa 09:00-16:30"
+opening_hours: Mo 08:00-18:00; Tu 08:00-18:30; We 08:00-18:00; Th 08:00-18:30; Fr
+    08:00-18:00; Sa 09:00-16:30
 website: ""

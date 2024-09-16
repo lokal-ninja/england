@@ -2,10 +2,10 @@ id: 5136125221
 type: node
 latitude: 50.72505
 longitude: -3.52741
-postcode: "EX1 1GB"
+postcode: EX1 1GB
 city: Exeter
-street: "Eastgate"
-housenumber: 3
+street: Eastgate
+housenumber: "3"
 phone: "+441392438821"
-opening_hours: "Mo-Sa 09:30-18:30; Th 09:30-20:30; Su 11:00-17:00"
-website: "https://www.lush.com/uk/en/shops/lush-exeter?id=UK044"
+opening_hours: Mo-Sa 09:30-18:30; Th 09:30-20:30; Su 11:00-17:00
+website: https://www.lush.com/uk/en/shops/lush-exeter?id=UK044

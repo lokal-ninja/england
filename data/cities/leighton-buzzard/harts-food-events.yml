@@ -1,11 +1,11 @@
 id: 463071057
-type: way
+type: node
 latitude: 51.91866
 longitude: -0.66027
-postcode: "LU7 1EN"
+postcode: LU7 1EN
 city: Leighton Buzzard
-street: "North Street"
-housenumber: 66
+street: North Street
+housenumber: "66"
 phone: ""
 opening_hours: ""
 website: ""

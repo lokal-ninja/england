@@ -1,11 +1,11 @@
 id: 516852412
-type: way
+type: node
 latitude: 53.79522
 longitude: -1.58512
-postcode: "LS12 2BX"
+postcode: LS12 2BX
 city: Leeds
-street: "Brooklyn Terrace"
-housenumber: 2
+street: Brooklyn Terrace
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

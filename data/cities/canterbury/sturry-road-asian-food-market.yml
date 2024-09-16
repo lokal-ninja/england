@@ -1,11 +1,11 @@
 id: 1020219967
-type: way
+type: node
 latitude: 51.29116
 longitude: 1.10238
-postcode: "CT1 1DT"
+postcode: CT1 1DT
 city: Canterbury
-street: "Sturry Road"
-housenumber: 254
+street: Sturry Road
+housenumber: "254"
 phone: ""
 opening_hours: ""
 website: ""

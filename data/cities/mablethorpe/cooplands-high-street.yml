@@ -1,11 +1,11 @@
 id: 74131614
-type: way
+type: node
 latitude: 53.31318
 longitude: 0.28084
-postcode: "LN12 2HB"
+postcode: LN12 2HB
 city: Mablethorpe
-street: "High Street"
-housenumber: 36
+street: High Street
+housenumber: "36"
 phone: ""
 opening_hours: ""
 website: ""

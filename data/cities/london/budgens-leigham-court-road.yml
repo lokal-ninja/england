@@ -2,10 +2,10 @@ id: 523082107
 type: node
 latitude: 51.43272
 longitude: -0.11728
-postcode: "SW16 2RW"
+postcode: SW16 2RW
 city: London
-street: "Leigham Court Road"
-housenumber: 120
+street: Leigham Court Road
+housenumber: "120"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.budgens.co.uk/our-stores/mfg-streatham-leigham"
+opening_hours: 24/7
+website: https://www.budgens.co.uk/our-stores/mfg-streatham-leigham

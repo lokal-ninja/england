@@ -1,11 +1,11 @@
 id: 502555930
-type: way
+type: node
 latitude: 52.42153
 longitude: -1.89184
-postcode: "B14 6EB"
+postcode: B14 6EB
 city: Birmingham
-street: "Alcester Road South"
-housenumber: 273
+street: Alcester Road South
+housenumber: "273"
 phone: ""
 opening_hours: ""
 website: ""

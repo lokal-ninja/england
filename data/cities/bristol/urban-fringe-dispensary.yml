@@ -1,11 +1,11 @@
 id: 175406714
-type: way
+type: node
 latitude: 51.45635
 longitude: -2.59749
-postcode: "BS1 5AZ"
+postcode: BS1 5AZ
 city: Bristol
-street: "Colston Street"
-housenumber: 58
+street: Colston Street
+housenumber: "58"
 phone: ""
 opening_hours: ""
-website: "http://www.urbanfringe.org/"
+website: http://www.urbanfringe.org/

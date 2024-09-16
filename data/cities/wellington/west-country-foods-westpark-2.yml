@@ -1,11 +1,11 @@
 id: 1190069639
-type: way
+type: node
 latitude: 50.97995
 longitude: -3.2081
-postcode: "TA21 9FH"
+postcode: TA21 9FH
 city: Wellington
-street: "Westpark"
-housenumber: 
-phone: "+44 1823 653900"
-opening_hours: "Mo-Fr 04:00-18:00, Sa 04:00-12:00, Su off"
-website: "https://www.westcountryfoods.com/"
+street: Westpark
+housenumber: ""
+phone: +44 1823 653900
+opening_hours: Mo-Fr 04:00-18:00, Sa 04:00-12:00, Su off
+website: https://www.westcountryfoods.com/

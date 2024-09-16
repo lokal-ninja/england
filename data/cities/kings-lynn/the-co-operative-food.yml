@@ -1,11 +1,11 @@
 id: 244395292
-type: way
+type: node
 latitude: 52.84516
 longitude: 0.50169
-postcode: "PE31 6JX"
+postcode: PE31 6JX
 city: King's Lynn
-street: "Lynn Road"
-housenumber: 10
-phone: "+44 1485 544055"
-opening_hours: "Mo-Fr 07:00-21:00; Sa 07:00-20:00; Su 10:00-16:00"
-website: "https://stores.centralengland.coop/norfolk/kings-lynn/lynn-road"
+street: Lynn Road
+housenumber: "10"
+phone: +44 1485 544055
+opening_hours: Mo-Fr 07:00-21:00; Sa 07:00-20:00; Su 10:00-16:00
+website: https://stores.centralengland.coop/norfolk/kings-lynn/lynn-road

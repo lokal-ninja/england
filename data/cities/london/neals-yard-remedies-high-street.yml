@@ -1,11 +1,11 @@
 id: 378013981
-type: way
+type: node
 latitude: 51.4247
 longitude: -0.21591
-postcode: "SW19 5EG"
+postcode: SW19 5EG
 city: London
-street: "High Street"
-housenumber: 95
+street: High Street
+housenumber: "95"
 phone: ""
-opening_hours: "Mo-Sa 09:30-18:00; Th-Fr 09:30-18:30; Su 11:00-17:00"
+opening_hours: Mo-Sa 09:30-18:00; Th-Fr 09:30-18:30; Su 11:00-17:00
 website: ""

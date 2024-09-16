@@ -1,11 +1,11 @@
 id: 199893447
-type: way
+type: node
 latitude: 50.74983
 longitude: -3.39551
-postcode: "EX5 2FP"
+postcode: EX5 2FP
 city: Exeter
-street: "London Road"
-housenumber: 
-phone: "+44 1404 822252"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:30; Su on appointment"
-website: "https://www.dgautos.net/"
+street: London Road
+housenumber: ""
+phone: +44 1404 822252
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-17:30; Su "on appointment"
+website: https://www.dgautos.net/

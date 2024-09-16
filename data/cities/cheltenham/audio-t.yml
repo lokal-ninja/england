@@ -1,11 +1,11 @@
 id: 166221049
-type: way
+type: node
 latitude: 51.90125
 longitude: -2.07219
-postcode: "GL52 2LZ"
+postcode: GL52 2LZ
 city: Cheltenham
-street: "Winchcombe Street"
-housenumber: 38
+street: Winchcombe Street
+housenumber: "38"
 phone: ""
-opening_hours: "Tu-Sa 09:30-17:30; Su,Mo off"
-website: "https://www.audiot.co.uk/storefinder/cheltenham/"
+opening_hours: Tu-Sa 09:30-17:30; Su,Mo off
+website: https://www.audiot.co.uk/storefinder/cheltenham/

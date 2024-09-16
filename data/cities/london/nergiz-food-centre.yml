@@ -1,11 +1,11 @@
 id: 452984751
-type: way
+type: node
 latitude: 51.57561
 longitude: -0.0135
-postcode: "E17 9AH"
+postcode: E17 9AH
 city: London
-street: "Hoe Street"
-housenumber: 498
+street: Hoe Street
+housenumber: "498"
 phone: ""
 opening_hours: ""
 website: ""

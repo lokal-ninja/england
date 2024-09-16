@@ -1,11 +1,11 @@
 id: 305073286
-type: way
+type: node
 latitude: 51.3425
 longitude: -0.82146
-postcode: "GU46 7TJ"
+postcode: GU46 7TJ
 city: Yateley
-street: "Fry's Lane"
-housenumber: 2
-phone: "+44 1252 872167"
+street: Fry's Lane
+housenumber: "2"
+phone: +44 1252 872167
 opening_hours: ""
-website: "https://www.hairboutiqueyateley.co.uk/"
+website: https://www.hairboutiqueyateley.co.uk/

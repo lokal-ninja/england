@@ -1,11 +1,11 @@
 id: 166001367
-type: way
+type: node
 latitude: 51.90061
 longitude: -2.07279
-postcode: "GL52 2LX"
+postcode: GL52 2LX
 city: Cheltenham
-street: "Winchcombe Street"
-housenumber: 16
+street: Winchcombe Street
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Sa 09:00-17:00; Su 10:00-16:00"
-website: "https://www.childrenssociety.org.uk/"
+opening_hours: Mo-Sa 09:00-17:00; Su 10:00-16:00
+website: https://www.childrenssociety.org.uk/

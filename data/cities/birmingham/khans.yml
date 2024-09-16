@@ -1,11 +1,11 @@
 id: 228236438
-type: way
+type: node
 latitude: 52.45923
 longitude: -1.86355
-postcode: "B11 1TX"
+postcode: B11 1TX
 city: Birmingham
-street: "Benton Road"
-housenumber: 82
+street: Benton Road
+housenumber: "82"
 phone: ""
 opening_hours: ""
 website: ""

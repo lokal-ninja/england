@@ -1,11 +1,11 @@
 id: 200487293
-type: way
+type: node
 latitude: 51.69132
 longitude: -2.45997
-postcode: "GL13 9BS"
+postcode: GL13 9BS
 city: Berkeley
-street: "Salter Street"
-housenumber: 15
+street: Salter Street
+housenumber: "15"
 phone: ""
 opening_hours: ""
-website: "https://www.onestop.co.uk/store?store=b0f10990-7549-4645-8e5d-e29e332f19ff"
+website: https://www.onestop.co.uk/store?store=b0f10990-7549-4645-8e5d-e29e332f19ff

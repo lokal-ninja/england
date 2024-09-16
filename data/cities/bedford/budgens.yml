@@ -2,10 +2,10 @@ id: 8085701
 type: node
 latitude: 52.14342
 longitude: -0.45939
-postcode: "MK40 2NZ"
+postcode: MK40 2NZ
 city: Bedford
-street: "Kimbolton Road"
-housenumber: 82
+street: Kimbolton Road
+housenumber: "82"
 phone: ""
-opening_hours: "Mo-Sa 09:00-17:30, Sa 09:00-13:00"
-website: "https://www.budgens.co.uk/our-stores/bedford-lane"
+opening_hours: Mo-Sa 09:00-17:30, Sa 09:00-13:00
+website: https://www.budgens.co.uk/our-stores/bedford-lane

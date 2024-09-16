@@ -1,11 +1,11 @@
 id: 621494458
-type: way
+type: node
 latitude: 51.47304
 longitude: -0.09331
-postcode: "SE5 8RZ"
+postcode: SE5 8RZ
 city: London
-street: "Denmark Hill"
-housenumber: 46
-phone: "+44 20 7738 5017"
-opening_hours: "Mo-Sa 09:30-17:30"
+street: Denmark Hill
+housenumber: "46"
+phone: +44 20 7738 5017
+opening_hours: Mo-Sa 09:30-17:30
 website: ""

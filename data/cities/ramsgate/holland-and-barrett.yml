@@ -1,11 +1,11 @@
 id: 278571393
-type: way
+type: node
 latitude: 51.33394
 longitude: 1.4193
-postcode: "CT11 9AB"
+postcode: CT11 9AB
 city: Ramsgate
-street: "High Street"
-housenumber: 15
-phone: "+441843 852568"
-opening_hours: "Mo-Sa 09:00-17:30; Su 10:00-16:00"
-website: "https://www.hollandandbarrett.com/stores/ramsgate-3495/"
+street: High Street
+housenumber: "15"
+phone: +441843 852568
+opening_hours: Mo-Sa 09:00-17:30; Su 10:00-16:00
+website: https://www.hollandandbarrett.com/stores/ramsgate-3495/

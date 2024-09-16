@@ -1,11 +1,11 @@
 id: 896195817
-type: way
+type: node
 latitude: 50.95701
 longitude: -0.1233
-postcode: "RH15 0JN"
+postcode: RH15 0JN
 city: Burgess Hill
-street: "Junction Road"
-housenumber: 48
+street: Junction Road
+housenumber: "48"
 phone: ""
 opening_hours: ""
 website: ""

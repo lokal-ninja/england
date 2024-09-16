@@ -1,11 +1,11 @@
 id: 1099920945
-type: way
+type: node
 latitude: 53.4003
 longitude: -2.15992
-postcode: "SK2 6QS"
+postcode: SK2 6QS
 city: Stockport
-street: "Shaw Heath"
-housenumber: 106
-phone: "+44 161 292 2020"
+street: Shaw Heath
+housenumber: "106"
+phone: +44 161 292 2020
 opening_hours: ""
-website: "https://www.harrybates.co.uk/"
+website: https://www.harrybates.co.uk/

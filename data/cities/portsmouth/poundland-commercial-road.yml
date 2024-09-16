@@ -2,10 +2,10 @@ id: 4267249686
 type: node
 latitude: 50.80168
 longitude: -1.08835
-postcode: "PO1 1HG"
+postcode: PO1 1HG
 city: Portsmouth
-street: "Commercial Road"
-housenumber: 226
+street: Commercial Road
+housenumber: "226"
 phone: ""
 opening_hours: ""
 website: ""

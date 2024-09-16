@@ -1,11 +1,11 @@
 id: 268425389
-type: way
+type: node
 latitude: 53.35844
 longitude: -1.4825
-postcode: "S7 1FR"
+postcode: S7 1FR
 city: Sheffield
-street: "Abbeydale Road"
-housenumber: 448
+street: Abbeydale Road
+housenumber: "448"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 759895105
-type: way
+type: node
 latitude: 51.27905
 longitude: 1.08007
-postcode: "CT1 2JH"
+postcode: CT1 2JH
 city: Canterbury
-street: "High Street"
-housenumber: 8
+street: High Street
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "https://www.lush.com/uk/en/shops/lush-canterbury?id=UK123"
+website: https://www.lush.com/uk/en/shops/lush-canterbury?id=UK123

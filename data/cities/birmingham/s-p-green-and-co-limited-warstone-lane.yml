@@ -1,11 +1,11 @@
 id: 111300694
-type: way
+type: node
 latitude: 52.48717
 longitude: -1.91103
-postcode: "B18 6JQ"
+postcode: B18 6JQ
 city: Birmingham
-street: "Warstone Lane"
-housenumber: 34
-phone: "+44 121 233 0486"
-opening_hours: "Mo-Sa 10:30-16:00; Su 11:00-14:00"
-website: "https://www.spgreen.com/"
+street: Warstone Lane
+housenumber: "34"
+phone: +44 121 233 0486
+opening_hours: Mo-Sa 10:30-16:00; Su 11:00-14:00
+website: https://www.spgreen.com/

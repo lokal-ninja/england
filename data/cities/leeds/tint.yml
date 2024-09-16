@@ -2,10 +2,10 @@ id: 4488841941
 type: node
 latitude: 53.8016
 longitude: -1.53803
-postcode: "LS2 7PN"
+postcode: LS2 7PN
 city: Leeds
-street: "North Street"
-housenumber: 70
+street: North Street
+housenumber: "70"
 phone: ""
 opening_hours: ""
 website: ""

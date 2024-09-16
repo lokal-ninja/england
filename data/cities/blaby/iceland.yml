@@ -1,11 +1,11 @@
 id: 233260887
-type: way
+type: node
 latitude: 52.57481
 longitude: -1.16408
-postcode: "LE8 4DJ"
+postcode: LE8 4DJ
 city: Blaby
-street: "Johns Court"
-housenumber: 8
+street: Johns Court
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 08:00-19:00; Su 10:00-16:00"
+opening_hours: Mo-Sa 08:00-19:00; Su 10:00-16:00
 website: ""

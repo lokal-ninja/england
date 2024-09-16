@@ -2,10 +2,10 @@ id: 6405139592
 type: node
 latitude: 53.48181
 longitude: -2.23208
-postcode: "M1 2EQ"
+postcode: M1 2EQ
 city: Manchester
-street: "Port Street"
-housenumber: 50
+street: Port Street
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

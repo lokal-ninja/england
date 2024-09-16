@@ -1,11 +1,11 @@
 id: 1005060559
-type: way
+type: node
 latitude: 53.40673
 longitude: -2.57962
-postcode: "WA2 8PQ"
+postcode: WA2 8PQ
 city: Warrington
-street: "Orford Green"
-housenumber: 43
+street: Orford Green
+housenumber: "43"
 phone: ""
 opening_hours: ""
-website: "https://d-m-g-motors.business.site"
+website: https://d-m-g-motors.business.site

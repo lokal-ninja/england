@@ -1,11 +1,11 @@
 id: 170611082
-type: way
+type: node
 latitude: 50.71761
 longitude: -3.49193
-postcode: "EX2 5NG"
+postcode: EX2 5NG
 city: Exeter
-street: "Woodwater Lane"
-housenumber: 
-phone: "+44 1392 274755"
-opening_hours: "Mo-Su 07:00-23:00"
+street: Woodwater Lane
+housenumber: ""
+phone: +44 1392 274755
+opening_hours: Mo-Su 07:00-23:00
 website: ""

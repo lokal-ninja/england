@@ -1,11 +1,11 @@
 id: 547030584
-type: way
+type: node
 latitude: 51.89263
 longitude: -0.20147
-postcode: "SG1 1XW"
+postcode: SG1 1XW
 city: Stevenage
-street: "London Road"
-housenumber: 
-phone: "+44 1438 359207"
+street: London Road
+housenumber: ""
+phone: +44 1438 359207
 opening_hours: ""
-website: "https://www.cancerresearchuk.org/get-involved/find-a-shop/stevenage-superstore"
+website: https://www.cancerresearchuk.org/get-involved/find-a-shop/stevenage-superstore

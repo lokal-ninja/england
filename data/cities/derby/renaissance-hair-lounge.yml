@@ -1,11 +1,11 @@
 id: 614486313
-type: way
+type: node
 latitude: 52.87319
 longitude: -1.63633
-postcode: "DE65 5FF"
+postcode: DE65 5FF
 city: Derby
-street: "Main Street"
-housenumber: 2
-phone: "+44 1283 733903"
+street: Main Street
+housenumber: "2"
+phone: +44 1283 733903
 opening_hours: ""
 website: ""

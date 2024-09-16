@@ -2,10 +2,10 @@ id: 10887209894
 type: node
 latitude: 53.40578
 longitude: -2.99031
-postcode: "L2 9SH"
+postcode: L2 9SH
 city: Liverpool
-street: "Castle Street"
-housenumber: 45
+street: Castle Street
+housenumber: "45"
 phone: "+441512272366"
-opening_hours: "Mo-Su 09:00-19:00"
+opening_hours: Mo-Su 09:00-19:00
 website: ""

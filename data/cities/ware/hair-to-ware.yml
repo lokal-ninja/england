@@ -1,11 +1,11 @@
 id: 1227658298
-type: way
+type: node
 latitude: 51.81093
 longitude: -0.03252
-postcode: "SG12 9AD"
+postcode: SG12 9AD
 city: Ware
-street: "High Street"
-housenumber: 67
+street: High Street
+housenumber: "67"
 phone: "01920460099"
-opening_hours: "Mo-Sa 10:00-17:00"
-website: "https://hairtoware.co.uk/"
+opening_hours: Mo-Sa 10:00-17:00
+website: https://hairtoware.co.uk/

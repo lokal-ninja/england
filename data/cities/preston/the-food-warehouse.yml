@@ -1,11 +1,11 @@
 id: 344818211
-type: way
+type: node
 latitude: 53.72899
 longitude: -2.66058
-postcode: "PR5 6LA"
+postcode: PR5 6LA
 city: Preston
-street: "Station Road"
-housenumber: 191
+street: Station Road
+housenumber: "191"
 phone: ""
 opening_hours: ""
-website: "https://www.thefoodwarehouse.com/store-locator/bamber-bridge"
+website: https://www.thefoodwarehouse.com/store-locator/bamber-bridge

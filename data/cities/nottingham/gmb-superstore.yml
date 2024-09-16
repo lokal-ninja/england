@@ -1,11 +1,11 @@
 id: 344365412
-type: way
+type: node
 latitude: 52.99711
 longitude: -1.24525
-postcode: "NG16 1EY"
+postcode: NG16 1EY
 city: Nottingham
-street: "Ash Crescent"
-housenumber: 3
+street: Ash Crescent
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

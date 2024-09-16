@@ -1,11 +1,11 @@
 id: 125402782
-type: way
+type: node
 latitude: 52.9549
 longitude: -1.14233
-postcode: "NG1 1EH"
+postcode: NG1 1EH
 city: Nottingham
-street: "Lower Parliament Street"
-housenumber: 72
+street: Lower Parliament Street
+housenumber: "72"
 phone: ""
 opening_hours: ""
-website: "https://www.rvsgroup.co.uk/"
+website: https://www.rvsgroup.co.uk/

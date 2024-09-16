@@ -1,11 +1,11 @@
 id: 166015192
-type: way
+type: node
 latitude: 51.90313
 longitude: -2.07725
-postcode: "GL50 4AA"
+postcode: GL50 4AA
 city: Cheltenham
-street: "Henrietta Street"
-housenumber: 7
+street: Henrietta Street
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1119725225
-type: way
+type: node
 latitude: 51.47697
 longitude: 0.02072
-postcode: "SE3 7BT"
+postcode: SE3 7BT
 city: London
-street: "Old Dover Road"
+street: Old Dover Road
 housenumber: 1-3
-phone: "+44 75 4345 5948"
-opening_hours: "Mo-Sa 10:00-17:00; Su 11:00-16:00"
-website: "https://www.blackheathmotorgroup.co.uk/"
+phone: +44 75 4345 5948
+opening_hours: Mo-Sa 10:00-17:00; Su 11:00-16:00
+website: https://www.blackheathmotorgroup.co.uk/

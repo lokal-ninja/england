@@ -1,11 +1,11 @@
 id: 11846131
-type: way
+type: node
 latitude: 51.39894
 longitude: 0.01868
-postcode: "BR2 9HD"
+postcode: BR2 9HD
 city: Bromley
-street: "Masons Hill"
-housenumber: 45
+street: Masons Hill
+housenumber: "45"
 phone: ""
 opening_hours: ""
-website: "https://www.waitrose.com/find-a-store/bromley-south"
+website: https://www.waitrose.com/find-a-store/bromley-south

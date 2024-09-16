@@ -1,11 +1,11 @@
 id: 962278110
-type: way
+type: node
 latitude: 53.40823
 longitude: -2.59652
-postcode: "WA2 8TW"
+postcode: WA2 8TW
 city: Warrington
-street: "Winwick Road"
-housenumber: 
+street: Winwick Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 10:00-18:00; Su 10:00-16:00"
+opening_hours: Mo-Sa 10:00-18:00; Su 10:00-16:00
 website: ""

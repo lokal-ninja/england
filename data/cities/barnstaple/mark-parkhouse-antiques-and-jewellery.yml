@@ -1,11 +1,11 @@
 id: 1142312385
-type: way
+type: node
 latitude: 51.07898
 longitude: -4.05911
-postcode: "EX31 1HP"
+postcode: EX31 1HP
 city: Barnstaple
-street: "High Street"
-housenumber: 106
-phone: "+44 1271 374 504"
-opening_hours: "Mo-Sa 09:00-17:00"
+street: High Street
+housenumber: "106"
+phone: +44 1271 374 504
+opening_hours: Mo-Sa 09:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 227569654
-type: way
+type: node
 latitude: 52.58862
 longitude: -1.20984
-postcode: "LE19 4NJ"
+postcode: LE19 4NJ
 city: Enderby
-street: "Cross Street"
-housenumber: 19
+street: Cross Street
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Sa 06:00-22:00; Su 10:00-16:00"
-website: "https://www.coop.co.uk/store-finder/LE19-4NJ/19-cross-street"
+opening_hours: Mo-Sa 06:00-22:00; Su 10:00-16:00
+website: https://www.coop.co.uk/store-finder/LE19-4NJ/19-cross-street

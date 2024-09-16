@@ -1,11 +1,11 @@
 id: 352173580
-type: way
+type: node
 latitude: 52.96618
 longitude: -1.10803
-postcode: "NG4 1GD"
+postcode: NG4 1GD
 city: Nottingham
-street: "Carlton Hill"
-housenumber: 312
+street: Carlton Hill
+housenumber: "312"
 phone: ""
 opening_hours: ""
 website: ""

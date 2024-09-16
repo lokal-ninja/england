@@ -1,11 +1,11 @@
 id: 1039689359
-type: way
+type: node
 latitude: 51.58983
 longitude: -0.146
-postcode: "N10 3HP"
+postcode: N10 3HP
 city: London
-street: "Fortis Green Road"
-housenumber: 1
+street: Fortis Green Road
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 09:00-18:00; Su 10:00-14:00"
-website: "https://the-flower-seller.ueniweb.com"
+opening_hours: Mo-Sa 09:00-18:00; Su 10:00-14:00
+website: https://the-flower-seller.ueniweb.com

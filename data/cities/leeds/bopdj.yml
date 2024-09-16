@@ -2,10 +2,10 @@ id: 5395936330
 type: node
 latitude: 53.79583
 longitude: -1.53692
-postcode: "LS2 7EG"
+postcode: LS2 7EG
 city: Leeds
-street: "Church Walk"
-housenumber: 2
+street: Church Walk
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

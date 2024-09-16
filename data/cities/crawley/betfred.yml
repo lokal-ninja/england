@@ -1,11 +1,11 @@
 id: 354120302
-type: way
+type: node
 latitude: 51.11609
 longitude: -0.18845
-postcode: "RH10 1DS"
+postcode: RH10 1DS
 city: Crawley
-street: "The Broadway"
-housenumber: 6
+street: The Broadway
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

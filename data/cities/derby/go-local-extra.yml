@@ -1,11 +1,11 @@
 id: 630957133
-type: way
+type: node
 latitude: 52.8918
 longitude: -1.48919
-postcode: "DE23 1RH"
+postcode: DE23 1RH
 city: Derby
-street: "Underhill Close"
-housenumber: 25
+street: Underhill Close
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

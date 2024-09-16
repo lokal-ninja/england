@@ -1,11 +1,11 @@
 id: 150427136
-type: way
+type: node
 latitude: 51.12028
 longitude: -2.98975
-postcode: "TA6 5LJ"
+postcode: TA6 5LJ
 city: Bridgwater
-street: "Axe Road"
-housenumber: 
+street: Axe Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-13:00"
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-13:00
 website: ""

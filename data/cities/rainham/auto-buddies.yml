@@ -1,11 +1,11 @@
 id: 858900204
-type: way
+type: node
 latitude: 51.52602
 longitude: 0.1684
-postcode: "RM13 8DR"
+postcode: RM13 8DR
 city: Rainham
-street: "New Road"
-housenumber: 43
+street: New Road
+housenumber: "43"
 phone: ""
 opening_hours: ""
 website: ""

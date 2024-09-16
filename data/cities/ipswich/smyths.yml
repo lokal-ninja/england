@@ -1,11 +1,11 @@
 id: 292241200
-type: way
+type: node
 latitude: 52.08427
 longitude: 1.11905
-postcode: "IP1 5QP"
+postcode: IP1 5QP
 city: Ipswich
-street: "Anglia Parkway South"
+street: Anglia Parkway South
 housenumber: Unit 6
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 10:30-16:30"
-website: "https://www.smythstoys.com/uk/en-gb/store-finder"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 10:30-16:30
+website: https://www.smythstoys.com/uk/en-gb/store-finder

@@ -1,11 +1,11 @@
 id: 673921698
-type: way
+type: node
 latitude: 54.99516
 longitude: -1.71683
-postcode: "NE5 1DT"
+postcode: NE5 1DT
 city: Newcastle Upon Tyne
 street: ""
-housenumber: 1
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

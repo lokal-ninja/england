@@ -1,11 +1,11 @@
 id: 246289648
-type: way
+type: node
 latitude: 50.97813
 longitude: -3.22775
-postcode: "TA21 8AQ"
+postcode: TA21 8AQ
 city: Wellington
-street: "Fore Street"
-housenumber: 6
+street: Fore Street
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su 10:00-16:00"
-website: "https://www.coop.co.uk/store-finder/TA21-8AQ/4-6-fore-street"
+opening_hours: Mo-Sa 07:00-22:00; Su 10:00-16:00
+website: https://www.coop.co.uk/store-finder/TA21-8AQ/4-6-fore-street

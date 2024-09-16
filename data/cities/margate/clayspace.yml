@@ -1,11 +1,11 @@
 id: 1043622638
-type: way
+type: node
 latitude: 51.3898
 longitude: 1.39038
-postcode: "CT9 2RJ"
+postcode: CT9 2RJ
 city: Margate
-street: "Northdown Road"
-housenumber: 61
-phone: "+44 7753 640 719"
+street: Northdown Road
+housenumber: "61"
+phone: +44 7753 640 719
 opening_hours: ""
-website: "https://www.clayspace.org.uk"
+website: https://www.clayspace.org.uk

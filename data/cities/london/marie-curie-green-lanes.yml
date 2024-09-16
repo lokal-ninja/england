@@ -1,11 +1,11 @@
 id: 223934679
-type: way
+type: node
 latitude: 51.58085
 longitude: -0.09983
-postcode: "N4 1AL"
+postcode: N4 1AL
 city: London
-street: "Green Lanes"
-housenumber: 489
-phone: "+44 20 8348 6076"
-opening_hours: "Mo-Sa 10:00-18:00; Su 10:00-16:00"
-website: "https://www.mariecurie.org.uk/local/charity-shops/harringay"
+street: Green Lanes
+housenumber: "489"
+phone: +44 20 8348 6076
+opening_hours: Mo-Sa 10:00-18:00; Su 10:00-16:00
+website: https://www.mariecurie.org.uk/local/charity-shops/harringay

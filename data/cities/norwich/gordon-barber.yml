@@ -1,11 +1,11 @@
 id: 71297099
-type: way
+type: node
 latitude: 52.60829
 longitude: 1.25182
-postcode: "NR4 6NZ"
+postcode: NR4 6NZ
 city: Norwich
-street: "Church Lane"
-housenumber: 2
-phone: "+44 1603 456250"
+street: Church Lane
+housenumber: "2"
+phone: +44 1603 456250
 opening_hours: ""
 website: ""

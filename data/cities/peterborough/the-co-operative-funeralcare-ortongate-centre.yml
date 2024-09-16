@@ -1,11 +1,11 @@
 id: 639470431
-type: way
+type: node
 latitude: 52.5435
 longitude: -0.3031
-postcode: "PE2 5TD"
+postcode: PE2 5TD
 city: Peterborough
-street: "Ortongate Centre"
-housenumber: 4
+street: Ortongate Centre
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 10:00-14:00"
-website: "https://stores.centralengland.coop/cambridgeshire/peterborough/unit-4"
+opening_hours: Mo-Fr 10:00-14:00
+website: https://stores.centralengland.coop/cambridgeshire/peterborough/unit-4

@@ -1,11 +1,11 @@
 id: 438660827
-type: way
+type: node
 latitude: 50.89581
 longitude: -2.58175
-postcode: "DT9 6LF"
+postcode: DT9 6LF
 city: Yetminster
-street: "Sunnyside Court"
-housenumber: 2
+street: Sunnyside Court
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Su 07:00-19:00"
-website: "https://www.spar.co.uk/store-locator/awl24789-spar-yetminister/"
+opening_hours: Mo-Su 07:00-19:00
+website: https://www.spar.co.uk/store-locator/awl24789-spar-yetminister/

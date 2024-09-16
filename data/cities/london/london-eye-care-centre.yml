@@ -1,11 +1,11 @@
 id: 289555882
-type: way
+type: node
 latitude: 51.43983
 longitude: -0.05596
-postcode: "SE23 3HF"
+postcode: SE23 3HF
 city: London
-street: "London Road"
-housenumber: 50
-phone: "+44 20 8699 3196"
-opening_hours: "Mo-Fr 09:00-17:00, Sa 09:00-15:00"
-website: "https://www.londoneyecarecentre.co.uk/index.html"
+street: London Road
+housenumber: "50"
+phone: +44 20 8699 3196
+opening_hours: Mo-Fr 09:00-17:00, Sa 09:00-15:00
+website: https://www.londoneyecarecentre.co.uk/index.html

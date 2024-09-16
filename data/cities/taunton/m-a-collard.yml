@@ -1,11 +1,11 @@
 id: 285958313
-type: way
+type: node
 latitude: 51.00509
 longitude: -3.08804
-postcode: "TA1 3BP"
+postcode: TA1 3BP
 city: Taunton
-street: "South Road"
-housenumber: 108
+street: South Road
+housenumber: "108"
 phone: ""
 opening_hours: ""
 website: ""

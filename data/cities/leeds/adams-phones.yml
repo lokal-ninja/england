@@ -2,10 +2,10 @@ id: 6349524095
 type: node
 latitude: 53.80014
 longitude: -1.5415
-postcode: "LS2 8JD"
+postcode: LS2 8JD
 city: Leeds
-street: "New Briggate"
-housenumber: 49
+street: New Briggate
+housenumber: "49"
 phone: ""
 opening_hours: ""
 website: ""

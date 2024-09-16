@@ -1,11 +1,11 @@
 id: 233084794
-type: way
+type: node
 latitude: 52.67304
 longitude: 0.95526
-postcode: "NR19 1WB"
+postcode: NR19 1WB
 city: Dereham
-street: "Kingston Road"
-housenumber: 
+street: Kingston Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 00:00-24:00; Su 10:00-16:00"
-website: "https://www.tesco.com/store-locator/dereham/kingston-rd"
+opening_hours: Mo-Sa 00:00-24:00; Su 10:00-16:00
+website: https://www.tesco.com/store-locator/dereham/kingston-rd

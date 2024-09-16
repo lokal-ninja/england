@@ -1,11 +1,11 @@
 id: 1134950586
-type: way
+type: node
 latitude: 53.37157
 longitude: -1.41912
-postcode: "S2 1FH"
+postcode: S2 1FH
 city: Sheffield
-street: "Prince of Wales Road"
-housenumber: 289
+street: Prince of Wales Road
+housenumber: "289"
 phone: ""
 opening_hours: ""
 website: ""

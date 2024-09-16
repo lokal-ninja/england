@@ -1,11 +1,11 @@
 id: 1219287407
-type: way
+type: node
 latitude: 52.9794
 longitude: -1.14727
-postcode: "NG5 4AB"
+postcode: NG5 4AB
 city: Nottingham
-street: "Mansfield Road"
-housenumber: 503
+street: Mansfield Road
+housenumber: "503"
 phone: ""
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://stores.sainsburys.co.uk/5107/sherwood-mansfield-road-local"
+opening_hours: Mo-Su 07:00-23:00
+website: https://stores.sainsburys.co.uk/5107/sherwood-mansfield-road-local

@@ -1,11 +1,11 @@
 id: 434774475
-type: way
+type: node
 latitude: 53.67144
 longitude: -1.48108
-postcode: "WF1 5EX"
+postcode: WF1 5EX
 city: Wakefield
-street: "Clarion Street"
-housenumber: 2
+street: Clarion Street
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

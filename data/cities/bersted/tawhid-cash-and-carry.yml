@@ -2,10 +2,10 @@ id: 5849713944
 type: node
 latitude: 50.7975
 longitude: -0.69078
-postcode: "PO21 5AL"
+postcode: PO21 5AL
 city: Bersted
-street: "Chichester Road"
-housenumber: 303
-phone: "+44 1243 823573"
+street: Chichester Road
+housenumber: "303"
+phone: +44 1243 823573
 opening_hours: ""
 website: ""

@@ -2,10 +2,10 @@ id: 1337582867
 type: node
 latitude: 51.53545
 longitude: 0.05717
-postcode: "E6 2LB"
+postcode: E6 2LB
 city: London
-street: "Kempton Road"
-housenumber: 88
+street: Kempton Road
+housenumber: "88"
 phone: ""
 opening_hours: ""
 website: ""

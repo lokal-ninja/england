@@ -1,11 +1,11 @@
 id: 1242781932
-type: way
+type: node
 latitude: 51.47985
 longitude: 0.03131
 postcode: ""
 city: London
-street: "Charlton Road"
-housenumber: 213
+street: Charlton Road
+housenumber: "213"
 phone: ""
 opening_hours: ""
-website: "http://www.pageandsmallopticians.co.uk/"
+website: http://www.pageandsmallopticians.co.uk/

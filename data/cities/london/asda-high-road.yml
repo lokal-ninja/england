@@ -1,11 +1,11 @@
 id: 178815210
-type: way
+type: node
 latitude: 51.59363
 longitude: -0.06943
-postcode: "N17 9JF"
+postcode: N17 9JF
 city: London
-street: "High Road"
-housenumber: 490
+street: High Road
+housenumber: "490"
 phone: ""
-opening_hours: "Mo-Sa 07:00-23:00; Su 11:00-17:00"
+opening_hours: Mo-Sa 07:00-23:00; Su 11:00-17:00
 website: ""

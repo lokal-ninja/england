@@ -1,11 +1,11 @@
 id: 1257911467
-type: way
+type: node
 latitude: 54.48549
 longitude: -0.61561
-postcode: "YO21 1DY"
+postcode: YO21 1DY
 city: Whitby
-street: "Wellington Road"
-housenumber: 2
+street: Wellington Road
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

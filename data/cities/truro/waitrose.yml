@@ -1,11 +1,11 @@
 id: 565557400
-type: way
+type: node
 latitude: 50.27308
 longitude: -5.03471
-postcode: "TR1 1RH"
+postcode: TR1 1RH
 city: Truro
-street: "Union Hill"
-housenumber: 
+street: Union Hill
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00, Su 10:00-16:00"
-website: "https://www.waitrose.com/find-a-store/truro"
+opening_hours: Mo-Sa 08:00-20:00, Su 10:00-16:00
+website: https://www.waitrose.com/find-a-store/truro

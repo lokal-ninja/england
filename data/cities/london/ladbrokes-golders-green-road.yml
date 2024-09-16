@@ -2,10 +2,10 @@ id: 8869671202
 type: node
 latitude: 51.57202
 longitude: -0.1972
-postcode: "NW11 8EE"
+postcode: NW11 8EE
 city: London
-street: "Golders Green Road"
-housenumber: 31
+street: Golders Green Road
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

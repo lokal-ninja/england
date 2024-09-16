@@ -1,11 +1,11 @@
 id: 792718738
-type: way
+type: node
 latitude: 53.42727
 longitude: -2.44852
-postcode: "M44 5YB"
+postcode: M44 5YB
 city: Salford
-street: "Lord Street"
-housenumber: 142
+street: Lord Street
+housenumber: "142"
 phone: ""
 opening_hours: ""
 website: ""

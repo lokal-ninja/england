@@ -1,11 +1,11 @@
 id: 889257874
-type: way
+type: node
 latitude: 52.6406
 longitude: 1.34084
-postcode: "NR7 0AU"
+postcode: NR7 0AU
 city: Norwich
-street: "Furze Road"
-housenumber: 158
+street: Furze Road
+housenumber: "158"
 phone: ""
 opening_hours: ""
 website: ""

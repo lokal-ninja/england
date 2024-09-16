@@ -2,10 +2,10 @@ id: 1668952889
 type: node
 latitude: 54.40339
 longitude: -1.7368
-postcode: "DL10 4HU"
+postcode: DL10 4HU
 city: Richmond
-street: "Market Place"
-housenumber: 6
+street: Market Place
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.coop.co.uk/store-finder/DL10-4HU/6-market-place"
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.coop.co.uk/store-finder/DL10-4HU/6-market-place

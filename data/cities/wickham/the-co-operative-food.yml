@@ -2,10 +2,10 @@ id: 3239780113
 type: node
 latitude: 50.8998
 longitude: -1.18813
-postcode: "PO17 5JN"
+postcode: PO17 5JN
 city: Wickham
-street: "The Square"
-housenumber: 4
+street: The Square
+housenumber: "4"
 phone: "+441329832151"
-opening_hours: "Mo-Sa 07:00-22:00; Su 11:00-17:00"
-website: "https://stores.southern.coop/hampshire/fareham/4-the-square.html"
+opening_hours: Mo-Sa 07:00-22:00; Su 11:00-17:00
+website: https://stores.southern.coop/hampshire/fareham/4-the-square.html

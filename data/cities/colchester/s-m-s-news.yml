@@ -1,11 +1,11 @@
 id: 436905139
-type: way
+type: node
 latitude: 51.88788
 longitude: 0.89941
-postcode: "CO2 7AS"
+postcode: CO2 7AS
 city: Colchester
-street: "Scheregate Steps"
-housenumber: 2
+street: Scheregate Steps
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

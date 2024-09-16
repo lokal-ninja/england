@@ -1,11 +1,11 @@
 id: 451402257
-type: way
+type: node
 latitude: 52.41362
 longitude: 0.75056
-postcode: "IP24 2AH"
+postcode: IP24 2AH
 city: Thetford
-street: "Market Place"
-housenumber: 2
+street: Market Place
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

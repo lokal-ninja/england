@@ -1,11 +1,11 @@
 id: 854086907
-type: way
+type: node
 latitude: 51.54825
 longitude: -0.04333
-postcode: "E9 6AG"
+postcode: E9 6AG
 city: London
-street: "Homerton High Street"
-housenumber: 174
+street: Homerton High Street
+housenumber: "174"
 phone: ""
 opening_hours: ""
-website: "https://www.hackneybabybank.com/"
+website: https://www.hackneybabybank.com/

@@ -1,11 +1,11 @@
 id: 1210078462
-type: way
+type: node
 latitude: 54.07052
 longitude: -2.8646
-postcode: "LA4 5LL"
+postcode: LA4 5LL
 city: Morecambe
-street: "Euston Grove"
-housenumber: 
-phone: "+44 1524 410056"
-opening_hours: "Mo-Fr 07:30-17:00; Sa 08:00-12:00; Su closed"
-website: "https://www.travisperkins.co.uk/branch-locator/9286"
+street: Euston Grove
+housenumber: ""
+phone: +44 1524 410056
+opening_hours: Mo-Fr 07:30-17:00; Sa 08:00-12:00; Su closed
+website: https://www.travisperkins.co.uk/branch-locator/9286

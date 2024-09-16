@@ -1,11 +1,11 @@
 id: 972632101
-type: way
+type: node
 latitude: 53.3909
 longitude: -2.5948
-postcode: "WA1 1QE"
+postcode: WA1 1QE
 city: Warrington
-street: "Midland Way"
-housenumber: 3
+street: Midland Way
+housenumber: "3"
 phone: "+441925633619"
-opening_hours: "Mo-Sa 09:00-18:00; Su 10:00-16:00"
-website: "https://www.iceland.co.uk/store-finder/store?StoreID=1320&StoreName=WARRINGTON%202"
+opening_hours: Mo-Sa 09:00-18:00; Su 10:00-16:00
+website: https://www.iceland.co.uk/store-finder/store?StoreID=1320&StoreName=WARRINGTON%202

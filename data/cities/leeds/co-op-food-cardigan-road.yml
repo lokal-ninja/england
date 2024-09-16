@@ -1,11 +1,11 @@
 id: 151866044
-type: way
+type: node
 latitude: 53.81218
 longitude: -1.57685
-postcode: "LS6 1LU"
+postcode: LS6 1LU
 city: Leeds
-street: "Cardigan Road"
-housenumber: 132
+street: Cardigan Road
+housenumber: "132"
 phone: ""
-opening_hours: "Mo-Sa 00:00-24:00; Su 12:00-18:00"
-website: "https://www.coop.co.uk/store-finder/LS6-1LU/132-cardigan-road"
+opening_hours: Mo-Sa 00:00-24:00; Su 12:00-18:00
+website: https://www.coop.co.uk/store-finder/LS6-1LU/132-cardigan-road

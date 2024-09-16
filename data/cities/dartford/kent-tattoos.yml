@@ -1,11 +1,11 @@
 id: 830418493
-type: way
+type: node
 latitude: 51.44377
 longitude: 0.21997
-postcode: "DA1 1DJ"
+postcode: DA1 1DJ
 city: Dartford
-street: "High Street"
-housenumber: 59
+street: High Street
+housenumber: "59"
 phone: ""
 opening_hours: ""
 website: ""

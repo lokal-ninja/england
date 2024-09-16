@@ -1,11 +1,11 @@
 id: 163861633
-type: way
+type: node
 latitude: 50.91894
 longitude: -1.40108
-postcode: "SO14 6QT"
+postcode: SO14 6QT
 city: Southampton
-street: "Lodge Road"
-housenumber: 115
+street: Lodge Road
+housenumber: "115"
 phone: ""
 opening_hours: ""
 website: ""

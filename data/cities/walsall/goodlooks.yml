@@ -1,11 +1,11 @@
 id: 816903777
-type: way
+type: node
 latitude: 52.60148
 longitude: -2.00897
-postcode: "WS2 7DY"
+postcode: WS2 7DY
 city: Walsall
-street: "Stephenson Square"
-housenumber: 2
+street: Stephenson Square
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

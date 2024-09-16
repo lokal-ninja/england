@@ -2,10 +2,11 @@ id: 11939496058
 type: node
 latitude: 52.94416
 longitude: -1.49627
-postcode: "DE22 2QN"
+postcode: DE22 2QN
 city: Derby
 street: ""
-housenumber: 
-phone: "+44 1332 897041"
-opening_hours: "Mo 09:15-17:30; Tu 09:30-17:30; We-Fr 09:15-17:30; Sa 09:15-17:00; Su,PH off"
-website: "https://www.haystravel.co.uk/branches/allestree/"
+housenumber: ""
+phone: +44 1332 897041
+opening_hours: Mo 09:15-17:30; Tu 09:30-17:30; We-Fr 09:15-17:30; Sa 09:15-17:00;
+    Su,PH off
+website: https://www.haystravel.co.uk/branches/allestree/

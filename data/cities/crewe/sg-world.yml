@@ -1,11 +1,11 @@
 id: 148316138
-type: way
+type: node
 latitude: 53.08236
 longitude: -2.41502
-postcode: "CW1 6ND"
+postcode: CW1 6ND
 city: Crewe
-street: "Duchy Road"
-housenumber: 2
-phone: "01270 588211"
+street: Duchy Road
+housenumber: "2"
+phone: 01270 588211
 opening_hours: ""
-website: "https://www.sgworld.com/"
+website: https://www.sgworld.com/

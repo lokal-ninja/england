@@ -1,11 +1,11 @@
 id: 612390564
-type: way
+type: node
 latitude: 51.00563
 longitude: -0.10325
-postcode: "RH16 1DW"
+postcode: RH16 1DW
 city: Haywards Heath
-street: "Commercial Square"
-housenumber: 7
+street: Commercial Square
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

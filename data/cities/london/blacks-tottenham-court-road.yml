@@ -1,11 +1,11 @@
 id: 294640988
-type: way
+type: node
 latitude: 51.51815
 longitude: -0.13126
-postcode: "W1T 7QZ"
+postcode: W1T 7QZ
 city: London
-street: "Tottenham Court Road"
-housenumber: 248
+street: Tottenham Court Road
+housenumber: "248"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 10:00-20:00; Su 12:00-18:00"
-website: "https://www.blacks.co.uk/google/store-locator"
+opening_hours: Mo-Fr 09:00-20:00; Sa 10:00-20:00; Su 12:00-18:00
+website: https://www.blacks.co.uk/google/store-locator

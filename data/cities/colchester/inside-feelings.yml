@@ -1,11 +1,11 @@
 id: 623782777
-type: way
+type: node
 latitude: 51.90285
 longitude: 0.93
-postcode: "CO4 0NA"
+postcode: CO4 0NA
 city: Colchester
-street: "St Christopher Road"
-housenumber: 42
+street: St Christopher Road
+housenumber: "42"
 phone: ""
 opening_hours: ""
 website: ""

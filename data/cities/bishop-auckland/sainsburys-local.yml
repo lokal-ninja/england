@@ -1,11 +1,11 @@
 id: 1291572034
-type: way
+type: node
 latitude: 54.66084
 longitude: -1.62602
-postcode: "DL14 8LL"
+postcode: DL14 8LL
 city: Bishop Auckland
-street: "Collingwood Street"
-housenumber: 111
+street: Collingwood Street
+housenumber: "111"
 phone: ""
 opening_hours: ""
 website: ""

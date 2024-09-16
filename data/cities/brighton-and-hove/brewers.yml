@@ -1,11 +1,11 @@
 id: 234740123
-type: way
+type: node
 latitude: 50.82248
 longitude: -0.12349
-postcode: "BN2 0DF"
+postcode: BN2 0DF
 city: Brighton & Hove
-street: "Stevenson Road"
-housenumber: 
+street: Stevenson Road
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

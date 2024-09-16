@@ -1,11 +1,11 @@
 id: 741011644
-type: way
+type: node
 latitude: 51.47892
 longitude: -0.06463
-postcode: "SE15 1BA"
+postcode: SE15 1BA
 city: London
-street: "Ledbury Street"
-housenumber: 1
+street: Ledbury Street
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

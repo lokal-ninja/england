@@ -1,11 +1,11 @@
 id: 943899005
-type: way
+type: node
 latitude: 50.95964
 longitude: -0.14885
-postcode: "RH15 9TD"
+postcode: RH15 9TD
 city: Burgess Hill
-street: "Royal George Road"
-housenumber: 133
+street: Royal George Road
+housenumber: "133"
 phone: ""
 opening_hours: ""
 website: ""

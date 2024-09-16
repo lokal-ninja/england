@@ -2,10 +2,10 @@ id: 454343968
 type: node
 latitude: 52.16062
 longitude: -0.49396
-postcode: "MK41 6BW"
+postcode: MK41 6BW
 city: Clapham
-street: "High Street"
-housenumber: 78
+street: High Street
+housenumber: "78"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1024968423
-type: way
+type: node
 latitude: 50.85746
 longitude: 0.58009
-postcode: "TN34 1PH"
+postcode: TN34 1PH
 city: Hastings
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-17:30; Su 10:00-16:00"
-website: "https://www.primark.com/en-gb/stores/hastings/queens-square-priory"
+opening_hours: Mo-Sa 09:00-17:30; Su 10:00-16:00
+website: https://www.primark.com/en-gb/stores/hastings/queens-square-priory

@@ -1,11 +1,11 @@
 id: 696150016
-type: way
+type: node
 latitude: 51.55961
 longitude: -0.00865
-postcode: "E10 5QN"
+postcode: E10 5QN
 city: London
-street: "High Road Leyton"
-housenumber: 295
+street: High Road Leyton
+housenumber: "295"
 phone: ""
 opening_hours: ""
 website: ""

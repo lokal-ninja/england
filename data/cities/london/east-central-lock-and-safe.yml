@@ -1,11 +1,11 @@
 id: 257334522
-type: way
+type: node
 latitude: 51.51194
 longitude: -0.06874
-postcode: "E1 8BP"
+postcode: E1 8BP
 city: London
-street: "Hooper Street"
-housenumber: 13
+street: Hooper Street
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

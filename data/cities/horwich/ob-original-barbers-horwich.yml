@@ -1,11 +1,11 @@
 id: 666972696
-type: way
+type: node
 latitude: 53.59338
 longitude: -2.5438
-postcode: "BL6 5NY"
+postcode: BL6 5NY
 city: Horwich
-street: "Chorley New Road"
-housenumber: 268
+street: Chorley New Road
+housenumber: "268"
 phone: "07951872378"
-opening_hours: "Mo-Th 9:30-17:30 Fr 9:30-18:00 Sa 9:30-16:00"
+opening_hours: Mo-Th 9:30-17:30 Fr 9:30-18:00 Sa 9:30-16:00
 website: ""

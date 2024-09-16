@@ -1,11 +1,11 @@
 id: 245716248
-type: way
+type: node
 latitude: 51.29496
 longitude: 0.4091
-postcode: "ME19 6QH"
+postcode: ME19 6QH
 city: West Malling
-street: "High Street"
-housenumber: 51
+street: High Street
+housenumber: "51"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 61318209
-type: way
+type: node
 latitude: 50.87176
 longitude: -1.26904
-postcode: "SO31 7GG"
+postcode: SO31 7GG
 city: Southampton
-street: "Bridge Road"
-housenumber: 51
+street: Bridge Road
+housenumber: "51"
 phone: ""
 opening_hours: ""
 website: ""

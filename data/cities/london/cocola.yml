@@ -1,11 +1,11 @@
 id: 332915211
-type: way
+type: node
 latitude: 51.48969
 longitude: -0.13563
 postcode: ""
 city: London
-street: "Moreton Street"
-housenumber: 29
+street: Moreton Street
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

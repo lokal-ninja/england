@@ -1,11 +1,11 @@
 id: 767951402
-type: way
+type: node
 latitude: 51.54988
 longitude: -0.16435
-postcode: "NW3 4QT"
+postcode: NW3 4QT
 city: London
-street: "Haverstock Hill"
-housenumber: 165
+street: Haverstock Hill
+housenumber: "165"
 phone: ""
 opening_hours: ""
 website: ""

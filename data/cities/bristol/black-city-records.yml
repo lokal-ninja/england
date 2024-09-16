@@ -1,11 +1,11 @@
 id: 160205273
-type: way
+type: node
 latitude: 51.45504
 longitude: -2.59856
-postcode: "BS1 5AN"
+postcode: BS1 5AN
 city: Bristol
-street: "Trenchard Street"
-housenumber: 16
+street: Trenchard Street
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

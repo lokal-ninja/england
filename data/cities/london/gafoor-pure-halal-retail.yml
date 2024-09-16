@@ -1,11 +1,11 @@
 id: 1007414713
-type: way
+type: node
 latitude: 51.54319
 longitude: 0.03234
-postcode: "E7 8JQ"
+postcode: E7 8JQ
 city: London
-street: "Green Street"
-housenumber: 134
+street: Green Street
+housenumber: "134"
 phone: ""
 opening_hours: ""
 website: ""

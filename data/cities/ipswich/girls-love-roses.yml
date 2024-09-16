@@ -1,11 +1,11 @@
 id: 1298999440
-type: way
+type: node
 latitude: 52.04404
 longitude: 0.95348
-postcode: "IP7 5DY"
+postcode: IP7 5DY
 city: Ipswich
-street: "High Street"
-housenumber: 61
+street: High Street
+housenumber: "61"
 phone: ""
 opening_hours: ""
 website: ""

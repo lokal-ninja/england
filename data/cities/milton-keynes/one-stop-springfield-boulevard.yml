@@ -1,11 +1,11 @@
 id: 34547278
-type: way
+type: node
 latitude: 52.04026
 longitude: -0.73692
-postcode: "MK6 3JH"
+postcode: MK6 3JH
 city: Milton Keynes
-street: "Springfield Boulevard"
-housenumber: 41
+street: Springfield Boulevard
+housenumber: "41"
 phone: ""
 opening_hours: ""
 website: ""

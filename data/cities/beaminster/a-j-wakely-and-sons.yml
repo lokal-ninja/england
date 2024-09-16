@@ -1,11 +1,11 @@
 id: 263945941
-type: way
+type: node
 latitude: 50.80914
 longitude: -2.73779
 postcode: ""
 city: Beaminster
-street: "North Street"
-housenumber: 7
+street: North Street
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

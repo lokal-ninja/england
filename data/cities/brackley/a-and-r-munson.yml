@@ -1,11 +1,11 @@
 id: 1139758277
-type: way
+type: node
 latitude: 52.02783
 longitude: -1.14895
-postcode: "NN13 7DP"
+postcode: NN13 7DP
 city: Brackley
-street: "Market Place"
-housenumber: 46
+street: Market Place
+housenumber: "46"
 phone: ""
 opening_hours: ""
 website: ""

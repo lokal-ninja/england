@@ -1,11 +1,11 @@
 id: 586270060
-type: way
+type: node
 latitude: 51.53296
 longitude: -0.05732
-postcode: "E2 9BU"
+postcode: E2 9BU
 city: London
-street: "Cambridge Heath Road"
-housenumber: 485
+street: Cambridge Heath Road
+housenumber: "485"
 phone: ""
 opening_hours: ""
 website: ""

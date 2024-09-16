@@ -4,8 +4,9 @@ latitude: 50.699
 longitude: -1.29806
 postcode: ""
 city: Newport
-street: "High Street"
-housenumber: 
+street: High Street
+housenumber: ""
 phone: ""
-opening_hours: "Tu 09:30-20:00; We 09:30-17:30; Th 09:30-19:00; Fr 09:30-18:00; Sa 09:30-16:00; Su,Mo off"
+opening_hours: Tu 09:30-20:00; We 09:30-17:30; Th 09:30-19:00; Fr 09:30-18:00; Sa
+    09:30-16:00; Su,Mo off
 website: ""

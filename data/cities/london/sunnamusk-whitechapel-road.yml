@@ -1,11 +1,11 @@
 id: 204345189
-type: way
+type: node
 latitude: 51.51752
 longitude: -0.06705
-postcode: "E1 1DU"
+postcode: E1 1DU
 city: London
-street: "Whitechapel Road"
-housenumber: 75
+street: Whitechapel Road
+housenumber: "75"
 phone: ""
 opening_hours: ""
-website: "https://sunnamusk.com/"
+website: https://sunnamusk.com/

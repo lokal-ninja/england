@@ -2,10 +2,10 @@ id: 10989315624
 type: node
 latitude: 51.40928
 longitude: -0.30309
-postcode: "KT1 1EF"
+postcode: KT1 1EF
 city: Kingston upon Thames
-street: "Eden Street"
-housenumber: 58
+street: Eden Street
+housenumber: "58"
 phone: ""
 opening_hours: ""
-website: "https://kingston.salon/"
+website: https://kingston.salon/

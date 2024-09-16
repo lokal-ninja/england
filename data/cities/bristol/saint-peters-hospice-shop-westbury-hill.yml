@@ -1,11 +1,11 @@
 id: 251087603
-type: way
+type: node
 latitude: 51.49278
 longitude: -2.61779
-postcode: "BS9 3AD"
+postcode: BS9 3AD
 city: Bristol
-street: "Westbury Hill"
-housenumber: 69
+street: Westbury Hill
+housenumber: "69"
 phone: ""
-opening_hours: "Mo-Sa 09:00-17:00"
+opening_hours: Mo-Sa 09:00-17:00
 website: ""

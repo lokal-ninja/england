@@ -1,11 +1,11 @@
 id: 1065238751
-type: way
+type: node
 latitude: 51.43137
 longitude: -0.30681
-postcode: "TW10 5LF"
+postcode: TW10 5LF
 city: Richmond
-street: "Parkleys Parade"
-housenumber: 3
+street: Parkleys Parade
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://thehampantry.com"
+website: https://thehampantry.com

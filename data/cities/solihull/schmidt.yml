@@ -1,11 +1,11 @@
 id: 155169361
-type: way
+type: node
 latitude: 52.38816
 longitude: -1.73469
 postcode: ""
 city: Solihull
-street: "High Street"
-housenumber: 1660
+street: High Street
+housenumber: "1660"
 phone: ""
 opening_hours: ""
 website: ""

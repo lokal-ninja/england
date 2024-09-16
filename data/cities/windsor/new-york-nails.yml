@@ -1,11 +1,11 @@
 id: 264890357
-type: way
+type: node
 latitude: 51.47987
 longitude: -0.61178
-postcode: "SL4 1EH"
+postcode: SL4 1EH
 city: Windsor
-street: "Victoria Street"
-housenumber: 85
-phone: "+44 1753 854337"
+street: Victoria Street
+housenumber: "85"
+phone: +44 1753 854337
 opening_hours: ""
 website: ""

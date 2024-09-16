@@ -1,11 +1,11 @@
 id: 73032541
-type: way
+type: node
 latitude: 52.47018
 longitude: -1.87253
-postcode: "B10 0BT"
+postcode: B10 0BT
 city: Birmingham
-street: "Small Heath Highway"
-housenumber: 100
+street: Small Heath Highway
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

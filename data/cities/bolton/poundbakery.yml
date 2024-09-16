@@ -1,11 +1,11 @@
 id: 733578194
-type: way
+type: node
 latitude: 53.57737
 longitude: -2.42988
-postcode: "BL1 1NB"
+postcode: BL1 1NB
 city: Bolton
-street: "Newport Street"
-housenumber: 14
+street: Newport Street
+housenumber: "14"
 phone: ""
 opening_hours: ""
-website: "https://www.poundbakery.co.uk/store/bolton-newport-street/"
+website: https://www.poundbakery.co.uk/store/bolton-newport-street/

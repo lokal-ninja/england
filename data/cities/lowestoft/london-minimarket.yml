@@ -1,11 +1,11 @@
 id: 1314683545
-type: way
+type: node
 latitude: 52.4673
 longitude: 1.74453
-postcode: "NR33 0BB"
+postcode: NR33 0BB
 city: Lowestoft
-street: "London Road South"
-housenumber: 184
+street: London Road South
+housenumber: "184"
 phone: ""
 opening_hours: ""
 website: ""

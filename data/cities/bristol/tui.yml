@@ -1,11 +1,11 @@
 id: 257425646
-type: way
+type: node
 latitude: 51.45784
 longitude: -2.58832
-postcode: "BS1 3EU"
+postcode: BS1 3EU
 city: Bristol
-street: "Broadmead"
-housenumber: 37
+street: Broadmead
+housenumber: "37"
 phone: ""
 opening_hours: ""
 website: ""

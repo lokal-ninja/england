@@ -1,11 +1,11 @@
 id: 233042525
-type: way
+type: node
 latitude: 51.06293
 longitude: -1.31445
-postcode: "SO23 9AH"
+postcode: SO23 9AH
 city: Winchester
-street: "High Street"
-housenumber: 110
+street: High Street
+housenumber: "110"
 phone: ""
 opening_hours: ""
-website: "https://www.whsmith.co.uk/pws/StoreFinder.ice?country=GB&storedetails=true&findStore=findStore&page=store7718"
+website: https://www.whsmith.co.uk/pws/StoreFinder.ice?country=GB&storedetails=true&findStore=findStore&page=store7718

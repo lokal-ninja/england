@@ -1,11 +1,11 @@
 id: 395184535
-type: way
+type: node
 latitude: 51.55012
 longitude: -0.07529
-postcode: "E8 2PB"
+postcode: E8 2PB
 city: London
-street: "Kingsland High Street"
-housenumber: 119
+street: Kingsland High Street
+housenumber: "119"
 phone: ""
 opening_hours: ""
 website: ""

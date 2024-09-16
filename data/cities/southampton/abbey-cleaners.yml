@@ -1,11 +1,11 @@
 id: 1026717975
-type: way
+type: node
 latitude: 50.87483
 longitude: -1.35484
-postcode: "SO31 5DG"
+postcode: SO31 5DG
 city: Southampton
-street: "Victoria Road"
-housenumber: 32
+street: Victoria Road
+housenumber: "32"
 phone: ""
 opening_hours: ""
-website: "https://www.abbeycleanersandlaundry.co.uk/"
+website: https://www.abbeycleanersandlaundry.co.uk/

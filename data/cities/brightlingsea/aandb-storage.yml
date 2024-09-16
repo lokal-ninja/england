@@ -1,11 +1,11 @@
 id: 238455877
-type: way
+type: node
 latitude: 51.80646
 longitude: 1.02413
-postcode: "CO7 0AW"
+postcode: CO7 0AW
 city: Brightlingsea
-street: "Tower Street"
-housenumber: 160
+street: Tower Street
+housenumber: "160"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 160432370
-type: way
+type: node
 latitude: 52.03824
 longitude: -0.80237
-postcode: "MK8 8HG"
+postcode: MK8 8HG
 city: Milton Keynes
-street: "The High Street"
-housenumber: 63
+street: The High Street
+housenumber: "63"
 phone: ""
 opening_hours: ""
 website: ""

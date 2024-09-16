@@ -2,10 +2,10 @@ id: 11619853861
 type: node
 latitude: 51.52189
 longitude: -0.12439
-postcode: "WC1N 3AF"
+postcode: WC1N 3AF
 city: London
-street: "Old Gloucester Street"
-housenumber: 27
-phone: "+44 871 873 3081"
+street: Old Gloucester Street
+housenumber: "27"
+phone: +44 871 873 3081
 opening_hours: ""
 website: ""

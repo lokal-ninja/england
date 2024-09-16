@@ -1,11 +1,11 @@
 id: 706070369
-type: way
+type: node
 latitude: 54.23239
 longitude: -1.3437
-postcode: "YO7 1HQ"
+postcode: YO7 1HQ
 city: Thirsk
-street: "Market Place"
-housenumber: 11
+street: Market Place
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

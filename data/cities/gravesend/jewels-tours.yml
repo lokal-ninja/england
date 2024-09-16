@@ -1,11 +1,11 @@
 id: 988657641
-type: way
+type: node
 latitude: 51.44251
 longitude: 0.36491
-postcode: "DA11 0AD"
+postcode: DA11 0AD
 city: Gravesend
-street: "New Road"
-housenumber: 56
+street: New Road
+housenumber: "56"
 phone: ""
 opening_hours: ""
 website: ""

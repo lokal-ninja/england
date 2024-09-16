@@ -1,11 +1,11 @@
 id: 372526971
-type: way
+type: node
 latitude: 52.30308
 longitude: -0.69205
 postcode: ""
 city: Wellingborough
-street: "Cambridge Street"
-housenumber: 1
+street: Cambridge Street
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

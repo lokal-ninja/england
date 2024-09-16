@@ -1,11 +1,11 @@
 id: 55136516
-type: way
+type: node
 latitude: 53.54753
 longitude: -2.39715
-postcode: "BL4 9DT"
+postcode: BL4 9DT
 city: Bolton
-street: "Brackley Street"
-housenumber: 
+street: Brackley Street
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:30-22:00; Su 10:00-16:00"
+opening_hours: Mo-Sa 07:30-22:00; Su 10:00-16:00
 website: ""

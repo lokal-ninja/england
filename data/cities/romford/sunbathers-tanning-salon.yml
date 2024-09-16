@@ -2,10 +2,10 @@ id: 5377811699
 type: node
 latitude: 51.58148
 longitude: 0.17742
-postcode: "RM1 1DL"
+postcode: RM1 1DL
 city: Romford
-street: "North Street"
-housenumber: 120
+street: North Street
+housenumber: "120"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 673551660
-type: way
+type: node
 latitude: 51.41209
 longitude: -0.06421
-postcode: "SE20 8PY"
+postcode: SE20 8PY
 city: London
-street: "Anerley Station Road"
-housenumber: 14
+street: Anerley Station Road
+housenumber: "14"
 phone: ""
 opening_hours: ""
-website: "https://www.wickes.co.uk/store/8480"
+website: https://www.wickes.co.uk/store/8480

@@ -1,11 +1,11 @@
 id: 201338069
-type: way
+type: node
 latitude: 51.36952
 longitude: -0.09991
-postcode: "CR0 1NE"
+postcode: CR0 1NE
 city: Croydon
-street: "High Street"
-housenumber: 212
+street: High Street
+housenumber: "212"
 phone: ""
 opening_hours: ""
 website: ""

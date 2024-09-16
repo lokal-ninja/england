@@ -1,11 +1,11 @@
 id: 290465761
-type: way
+type: node
 latitude: 51.51066
 longitude: -0.13905
-postcode: "W1B 4HT"
+postcode: W1B 4HT
 city: London
-street: "Regent Street"
-housenumber: 125
+street: Regent Street
+housenumber: "125"
 phone: ""
 opening_hours: ""
-website: "https://www.penhaligons.com/"
+website: https://www.penhaligons.com/

@@ -1,11 +1,11 @@
 id: 33424444
-type: way
+type: node
 latitude: 52.60923
 longitude: 1.2929
-postcode: "NR4 6DH"
+postcode: NR4 6DH
 city: Norwich
-street: "Hall Road Business Park"
-housenumber: 
-phone: "+44 8452 303388"
-opening_hours: "Mo-We,Fr,Sa 10:00-17:00; Th 10:00-18:00; Su 10:30-16:30"
-website: "https://www.aldiss.com/ourstores"
+street: Hall Road Business Park
+housenumber: ""
+phone: +44 8452 303388
+opening_hours: Mo-We,Fr,Sa 10:00-17:00; Th 10:00-18:00; Su 10:30-16:30
+website: https://www.aldiss.com/ourstores

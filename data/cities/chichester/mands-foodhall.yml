@@ -1,11 +1,11 @@
 id: 71881291
-type: way
+type: node
 latitude: 50.84133
 longitude: -0.7564
-postcode: "PO19 7YH"
+postcode: PO19 7YH
 city: Chichester
-street: "Portfield Way"
+street: Portfield Way
 housenumber: 3A
-phone: "+44 1243 624519"
-opening_hours: "Mo-Sa 08:00-20:00; Su 10:30-16:30"
-website: "https://www.marksandspencer.com/stores/chichester-portfield-foodhall-1992"
+phone: +44 1243 624519
+opening_hours: Mo-Sa 08:00-20:00; Su 10:30-16:30
+website: https://www.marksandspencer.com/stores/chichester-portfield-foodhall-1992

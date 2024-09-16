@@ -1,11 +1,11 @@
 id: 764661983
-type: way
+type: node
 latitude: 51.43141
 longitude: -0.34576
-postcode: "TW11 8UB"
+postcode: TW11 8UB
 city: Teddington
-street: "Stanley Road"
-housenumber: 107
+street: Stanley Road
+housenumber: "107"
 phone: ""
 opening_hours: ""
 website: ""

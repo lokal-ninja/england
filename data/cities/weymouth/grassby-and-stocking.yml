@@ -1,11 +1,11 @@
 id: 1264762204
-type: way
+type: node
 latitude: 50.61616
 longitude: -2.45276
-postcode: "DT4 7BX"
+postcode: DT4 7BX
 city: Weymouth
-street: "Crescent Street"
-housenumber: 22
+street: Crescent Street
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

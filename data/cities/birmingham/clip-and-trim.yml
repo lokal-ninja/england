@@ -1,11 +1,11 @@
 id: 183596641
-type: way
+type: node
 latitude: 52.45516
 longitude: -1.85896
-postcode: "B11 2ND"
+postcode: B11 2ND
 city: Birmingham
-street: "Warwick Road"
-housenumber: 244
+street: Warwick Road
+housenumber: "244"
 phone: ""
 opening_hours: ""
 website: ""

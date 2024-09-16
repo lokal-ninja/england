@@ -1,11 +1,11 @@
 id: 110265979
-type: way
+type: node
 latitude: 53.96574
 longitude: -1.04587
-postcode: "YO31 0PF"
+postcode: YO31 0PF
 city: York
-street: "Bad Bargain Lane"
-housenumber: 125
+street: Bad Bargain Lane
+housenumber: "125"
 phone: ""
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.spar.co.uk/store-locator/afb49230-spar-bad-bargain-lane/"
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.spar.co.uk/store-locator/afb49230-spar-bad-bargain-lane/

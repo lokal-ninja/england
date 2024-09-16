@@ -1,11 +1,11 @@
 id: 977428832
-type: way
+type: node
 latitude: 52.75189
 longitude: 0.39779
-postcode: "PE30 5DA"
+postcode: PE30 5DA
 city: King's Lynn
-street: "St James Street"
-housenumber: 25
+street: St James Street
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

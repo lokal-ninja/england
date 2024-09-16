@@ -1,11 +1,11 @@
 id: 657053185
-type: way
+type: node
 latitude: 52.60894
 longitude: -0.18994
-postcode: "PE6 7UX"
+postcode: PE6 7UX
 city: Peterborough
-street: "High Street"
-housenumber: 49
+street: High Street
+housenumber: "49"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://stores.centralengland.coop/cambridgeshire/peterborough/49-high-street"
+opening_hours: Mo-Su 07:00-22:00
+website: https://stores.centralengland.coop/cambridgeshire/peterborough/49-high-street

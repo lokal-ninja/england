@@ -1,11 +1,11 @@
 id: 241808468
-type: way
+type: node
 latitude: 51.58721
 longitude: -0.33225
-postcode: "HA1 2TY"
+postcode: HA1 2TY
 city: Harrow
-street: "Station Road"
-housenumber: 61
+street: Station Road
+housenumber: "61"
 phone: ""
 opening_hours: ""
 website: ""

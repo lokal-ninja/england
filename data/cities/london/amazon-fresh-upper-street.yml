@@ -1,11 +1,11 @@
 id: 30451817
-type: way
+type: node
 latitude: 51.53402
 longitude: -0.10516
-postcode: "N1 0PD"
+postcode: N1 0PD
 city: London
-street: "Upper Street"
-housenumber: 359
+street: Upper Street
+housenumber: "359"
 phone: ""
-opening_hours: "Mo-Su 07:00-23:00"
+opening_hours: Mo-Su 07:00-23:00
 website: ""

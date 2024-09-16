@@ -1,11 +1,11 @@
 id: 840265431
-type: way
+type: node
 latitude: 51.46194
 longitude: -0.03713
-postcode: "SE4 2SS"
+postcode: SE4 2SS
 city: London
-street: "Foxberry Road"
-housenumber: 79
-phone: "+44 20 8691 5953"
+street: Foxberry Road
+housenumber: "79"
+phone: +44 20 8691 5953
 opening_hours: ""
-website: "http://www.helicalgearboxes.com/"
+website: http://www.helicalgearboxes.com/

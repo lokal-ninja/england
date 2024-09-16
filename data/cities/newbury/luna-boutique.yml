@@ -1,11 +1,11 @@
 id: 302819524
-type: way
+type: node
 latitude: 51.404
 longitude: -1.32434
-postcode: "RG14 1DJ"
+postcode: RG14 1DJ
 city: Newbury
-street: "Northbrook Street"
-housenumber: 34
-phone: "+44 1635 622 385"
+street: Northbrook Street
+housenumber: "34"
+phone: +44 1635 622 385
 opening_hours: ""
-website: "https://www.lunaboutiques.co.uk/newbury-store"
+website: https://www.lunaboutiques.co.uk/newbury-store

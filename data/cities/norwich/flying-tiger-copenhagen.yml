@@ -1,11 +1,11 @@
 id: 107046069
-type: way
+type: node
 latitude: 52.62799
 longitude: 1.29494
-postcode: "NR1 3DD"
+postcode: NR1 3DD
 city: Norwich
 street: ""
 housenumber: 1-2
-phone: "+44 1603 633 899"
-opening_hours: "Mo-Sa 09:00-18:00; Su 10:30-16:30"
+phone: +44 1603 633 899
+opening_hours: Mo-Sa 09:00-18:00; Su 10:30-16:30
 website: ""

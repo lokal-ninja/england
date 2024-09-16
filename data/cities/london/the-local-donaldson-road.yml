@@ -1,11 +1,11 @@
 id: 65658407
-type: way
+type: node
 latitude: 51.53788
 longitude: -0.20235
-postcode: "NW6 6NG"
+postcode: NW6 6NG
 city: London
-street: "Donaldson Road"
-housenumber: 42
+street: Donaldson Road
+housenumber: "42"
 phone: ""
 opening_hours: ""
 website: ""

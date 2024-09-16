@@ -1,11 +1,11 @@
 id: 388908530
-type: way
+type: node
 latitude: 52.773
 longitude: -0.89789
-postcode: "LE13 0ST"
+postcode: LE13 0ST
 city: Melton Mowbray
-street: "Welby Lane"
-housenumber: 73
+street: Welby Lane
+housenumber: "73"
 phone: ""
-opening_hours: "Mo-Sa 06:00-21:00; Su 07:00-21:00"
-website: "https://www.premier-stores.co.uk/our-stores/welby-lane-post-office"
+opening_hours: Mo-Sa 06:00-21:00; Su 07:00-21:00
+website: https://www.premier-stores.co.uk/our-stores/welby-lane-post-office

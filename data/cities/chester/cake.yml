@@ -2,10 +2,10 @@ id: 11295345103
 type: node
 latitude: 53.1889
 longitude: -2.89089
-postcode: "CH1 1NW"
+postcode: CH1 1NW
 city: Chester
-street: "Bridge Street East Row"
-housenumber: 69
+street: Bridge Street East Row
+housenumber: "69"
 phone: ""
 opening_hours: ""
 website: ""

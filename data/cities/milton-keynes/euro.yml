@@ -2,10 +2,10 @@ id: 1400919022
 type: node
 latitude: 52.0604
 longitude: -0.74717
-postcode: "MK14 6JY"
+postcode: MK14 6JY
 city: Milton Keynes
-street: "Tower Crescent"
-housenumber: 4
+street: Tower Crescent
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

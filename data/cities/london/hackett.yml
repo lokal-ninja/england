@@ -1,11 +1,11 @@
 id: 291435931
-type: way
+type: node
 latitude: 51.51287
 longitude: -0.14064
 postcode: ""
 city: London
-street: "Regent Street"
-housenumber: 197
-phone: "+44 20 7494 4917"
+street: Regent Street
+housenumber: "197"
+phone: +44 20 7494 4917
 opening_hours: ""
-website: "https://www.hackett.com/gb"
+website: https://www.hackett.com/gb

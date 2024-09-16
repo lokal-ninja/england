@@ -1,11 +1,11 @@
 id: 1198870173
-type: way
+type: node
 latitude: 50.96173
 longitude: 0.09947
 postcode: ""
 city: Uckfield
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.coop.co.uk/store-finder/TN22-5SP/eastbourne-road"
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.coop.co.uk/store-finder/TN22-5SP/eastbourne-road

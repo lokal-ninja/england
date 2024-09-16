@@ -1,11 +1,11 @@
 id: 121022832
-type: way
+type: node
 latitude: 51.53785
 longitude: -2.39407
 postcode: ""
 city: Chipping Sodbury
-street: "High Street"
-housenumber: 42
+street: High Street
+housenumber: "42"
 phone: ""
 opening_hours: ""
 website: ""

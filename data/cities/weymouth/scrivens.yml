@@ -1,11 +1,11 @@
 id: 1038205919
-type: way
+type: node
 latitude: 50.6104
 longitude: -2.45397
-postcode: "DT4 8NY"
+postcode: DT4 8NY
 city: Weymouth
-street: "St Mary Street"
-housenumber: 95
+street: St Mary Street
+housenumber: "95"
 phone: ""
 opening_hours: ""
 website: ""

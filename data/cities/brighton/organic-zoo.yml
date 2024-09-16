@@ -2,10 +2,10 @@ id: 8486223935
 type: node
 latitude: 50.81773
 longitude: -0.11859
-postcode: "BN2 1EF"
+postcode: BN2 1EF
 city: Brighton
-street: "St. Georges Road"
-housenumber: 81
+street: St. Georges Road
+housenumber: "81"
 phone: ""
-opening_hours: "Th,Fr 10:00-16:00; Sa 10:00-15:00; Su-We off"
-website: "https://www.organic-zoo.com"
+opening_hours: Th,Fr 10:00-16:00; Sa 10:00-15:00; Su-We off
+website: https://www.organic-zoo.com

@@ -1,11 +1,11 @@
 id: 279397173
-type: way
+type: node
 latitude: 53.40304
 longitude: -2.97834
 postcode: ""
 city: Liverpool
-street: "Bold Street"
-housenumber: 76
+street: Bold Street
+housenumber: "76"
 phone: ""
 opening_hours: ""
 website: ""

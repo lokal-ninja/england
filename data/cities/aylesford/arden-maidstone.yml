@@ -1,11 +1,11 @@
 id: 55840109
-type: way
+type: node
 latitude: 51.29247
 longitude: 0.47136
 postcode: ""
 city: Aylesford
-street: "Wood Close"
-housenumber: 12
+street: Wood Close
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

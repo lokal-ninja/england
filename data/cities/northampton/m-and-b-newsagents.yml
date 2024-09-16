@@ -1,11 +1,11 @@
 id: 450681977
-type: way
+type: node
 latitude: 52.26469
 longitude: -0.74618
-postcode: "NN6 0NF"
+postcode: NN6 0NF
 city: Northampton
-street: "Doddington Road"
-housenumber: 42
+street: Doddington Road
+housenumber: "42"
 phone: ""
 opening_hours: ""
 website: ""

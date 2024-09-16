@@ -2,10 +2,11 @@ id: 2713635568
 type: node
 latitude: 51.82455
 longitude: -1.38928
-postcode: "OX29 8JX"
+postcode: OX29 8JX
 city: Witney
-street: "Main Road"
+street: Main Road
 housenumber: 71A
-phone: "+44 1993 881 020"
-opening_hours: "Mo, Tu, Th, Fr 09:00-13:00, 14:00-17:30; Sa 09:00-13:00, 14:00-16:00; We, Su closed"
+phone: +44 1993 881 020
+opening_hours: Mo, Tu, Th, Fr 09:00-13:00, 14:00-17:30; Sa 09:00-13:00, 14:00-16:00;
+    We, Su closed
 website: ""

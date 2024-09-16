@@ -1,11 +1,11 @@
 id: 698037073
-type: way
+type: node
 latitude: 50.84656
 longitude: -1.7933
-postcode: "BH24 1AG"
+postcode: BH24 1AG
 city: Ringwood
-street: "High Street"
-housenumber: 56
+street: High Street
+housenumber: "56"
 phone: ""
 opening_hours: ""
 website: ""

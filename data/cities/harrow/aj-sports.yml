@@ -1,11 +1,11 @@
 id: 243983815
-type: way
+type: node
 latitude: 51.58352
 longitude: -0.31412
 postcode: ""
 city: Harrow
-street: "Kenton Road"
-housenumber: 221
-phone: "+44 20 3161 0275"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 09:30-17:00; Su 11:00-16:00"
-website: "https://ajsports.co.uk/"
+street: Kenton Road
+housenumber: "221"
+phone: +44 20 3161 0275
+opening_hours: Mo-Fr 10:00-18:00; Sa 09:30-17:00; Su 11:00-16:00
+website: https://ajsports.co.uk/

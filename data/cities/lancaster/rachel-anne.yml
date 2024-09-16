@@ -1,11 +1,11 @@
 id: 738985760
-type: way
+type: node
 latitude: 54.04828
 longitude: -2.80076
-postcode: "LA1 1JT"
+postcode: LA1 1JT
 city: Lancaster
-street: "Slip Inn Lane"
-housenumber: 16
-phone: "+44 1524 844884"
+street: Slip Inn Lane
+housenumber: "16"
+phone: +44 1524 844884
 opening_hours: ""
 website: ""

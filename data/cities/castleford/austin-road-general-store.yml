@@ -1,11 +1,11 @@
 id: 652896793
-type: way
+type: node
 latitude: 53.7239
 longitude: -1.30558
-postcode: "WF10 3NW"
+postcode: WF10 3NW
 city: Castleford
-street: "Austin Road"
-housenumber: 66
+street: Austin Road
+housenumber: "66"
 phone: ""
 opening_hours: ""
 website: ""

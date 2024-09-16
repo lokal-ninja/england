@@ -1,11 +1,11 @@
 id: 1103152927
-type: way
+type: node
 latitude: 51.31598
 longitude: -2.67328
-postcode: "BS40 6PG"
+postcode: BS40 6PG
 city: Bristol
-street: "Cleeve Hill"
-housenumber: 
-phone: "+44 1761 462 275"
-opening_hours: "Mo-Th 07:30-18:30; Fr-Sa 07:30-18:00"
-website: "https://ubleymotors.co.uk/"
+street: Cleeve Hill
+housenumber: ""
+phone: +44 1761 462 275
+opening_hours: Mo-Th 07:30-18:30; Fr-Sa 07:30-18:00
+website: https://ubleymotors.co.uk/

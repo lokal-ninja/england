@@ -2,10 +2,10 @@ id: 3227257883
 type: node
 latitude: 50.80076
 longitude: -1.07378
-postcode: "PO1 5DR"
+postcode: PO1 5DR
 city: Portsmouth
-street: "Newcome Road"
-housenumber: 95
+street: Newcome Road
+housenumber: "95"
 phone: ""
 opening_hours: ""
 website: ""

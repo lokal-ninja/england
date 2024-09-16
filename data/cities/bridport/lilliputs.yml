@@ -1,11 +1,11 @@
 id: 520967237
-type: way
+type: node
 latitude: 50.73395
 longitude: -2.76115
 postcode: ""
 city: Bridport
-street: "West Street"
-housenumber: 58
+street: West Street
+housenumber: "58"
 phone: ""
 opening_hours: ""
 website: ""

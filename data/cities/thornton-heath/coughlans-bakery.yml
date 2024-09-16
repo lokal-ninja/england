@@ -1,11 +1,11 @@
 id: 256099080
-type: way
+type: node
 latitude: 51.38792
 longitude: -0.11123
-postcode: "CR7 7HQ"
+postcode: CR7 7HQ
 city: Thornton Heath
-street: "London Road"
-housenumber: 502
+street: London Road
+housenumber: "502"
 phone: ""
 opening_hours: ""
-website: "https://www.coughlansbakery.co.uk/"
+website: https://www.coughlansbakery.co.uk/

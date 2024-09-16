@@ -1,11 +1,11 @@
 id: 778087099
-type: way
+type: node
 latitude: 50.74135
 longitude: -1.70058
-postcode: "BH23 5ET"
+postcode: BH23 5ET
 city: Highcliffe
-street: "Lymington Road"
-housenumber: 314
-phone: "+44 1425 273888"
-opening_hours: "Mo-Sa 08:00-15:00"
-website: "https://www.shelleysbakery.co.uk/"
+street: Lymington Road
+housenumber: "314"
+phone: +44 1425 273888
+opening_hours: Mo-Sa 08:00-15:00
+website: https://www.shelleysbakery.co.uk/

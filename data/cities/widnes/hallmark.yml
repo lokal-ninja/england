@@ -1,11 +1,11 @@
 id: 1185405352
-type: way
+type: node
 latitude: 53.36826
 longitude: -2.72633
-postcode: "WA8 6JA"
+postcode: WA8 6JA
 city: Widnes
-street: "Albert Road"
-housenumber: 13
+street: Albert Road
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

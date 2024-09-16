@@ -1,11 +1,11 @@
 id: 1055977247
-type: way
+type: node
 latitude: 52.47383
 longitude: 1.70933
-postcode: "NR33 9JU"
+postcode: NR33 9JU
 city: Lowestoft
-street: "Bridge Road"
-housenumber: 111
+street: Bridge Road
+housenumber: "111"
 phone: ""
-opening_hours: "Th-Sa 09:00-16:00"
-website: "https://www.tillosdeli.co.uk/"
+opening_hours: Th-Sa 09:00-16:00
+website: https://www.tillosdeli.co.uk/

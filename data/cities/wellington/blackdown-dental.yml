@@ -1,11 +1,11 @@
 id: 1208650935
-type: way
+type: node
 latitude: 50.9838
 longitude: -3.20095
-postcode: "TA21 9JQ"
+postcode: TA21 9JQ
 city: Wellington
-street: "Castle Road"
-housenumber: 
-phone: "+44 1823 278334"
+street: Castle Road
+housenumber: ""
+phone: +44 1823 278334
 opening_hours: ""
-website: "https://www.blackdowndental.co.uk/"
+website: https://www.blackdowndental.co.uk/

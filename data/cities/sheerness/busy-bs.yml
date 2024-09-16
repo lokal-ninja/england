@@ -1,11 +1,11 @@
 id: 60554625
-type: way
+type: node
 latitude: 51.4403
 longitude: 0.76037
-postcode: "ME12 1PL"
+postcode: ME12 1PL
 city: Sheerness
-street: "Russell Street"
-housenumber: 
-phone: "+44 1795 583965"
-opening_hours: "Mo-Sa 09:00-16:00; Su off"
-website: "https://www.busybs.co.uk/"
+street: Russell Street
+housenumber: ""
+phone: +44 1795 583965
+opening_hours: Mo-Sa 09:00-16:00; Su off
+website: https://www.busybs.co.uk/

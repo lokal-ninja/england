@@ -1,11 +1,11 @@
 id: 414956993
-type: way
+type: node
 latitude: 51.42679
 longitude: -0.19104
-postcode: "SW19 8JZ"
+postcode: SW19 8JZ
 city: London
-street: "Haydons Road"
-housenumber: 298
+street: Haydons Road
+housenumber: "298"
 phone: ""
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.coop.co.uk/store-finder/SW19-8JZ/298-haydons-road"
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.coop.co.uk/store-finder/SW19-8JZ/298-haydons-road

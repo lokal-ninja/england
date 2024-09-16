@@ -1,11 +1,11 @@
 id: 1208650570
-type: way
+type: node
 latitude: 50.98481
 longitude: -3.20797
-postcode: "TA21 9ND"
+postcode: TA21 9ND
 city: Wellington
-street: "Monument View"
-housenumber: 
-phone: "+44 1823 662777"
-opening_hours: "Mo-Fr 08:30-17:00; Sa 08:30-13:00; Su, PH off"
-website: "https://www.thetyrewarehousesw.co.uk"
+street: Monument View
+housenumber: ""
+phone: +44 1823 662777
+opening_hours: Mo-Fr 08:30-17:00; Sa 08:30-13:00; Su, PH off
+website: https://www.thetyrewarehousesw.co.uk

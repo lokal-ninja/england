@@ -1,11 +1,11 @@
 id: 599464566
-type: way
+type: node
 latitude: 51.94317
 longitude: -1.54432
-postcode: "OX7 5AQ"
+postcode: OX7 5AQ
 city: Chipping Norton
-street: "Horsefair"
-housenumber: 4
-phone: "+44 1608 646900."
+street: Horsefair
+housenumber: "4"
+phone: +44 1608 646900.
 opening_hours: ""
-website: "https://www.reynoldsblinds.net/"
+website: https://www.reynoldsblinds.net/

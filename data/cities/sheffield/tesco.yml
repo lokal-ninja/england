@@ -1,11 +1,11 @@
 id: 16160782
-type: way
+type: node
 latitude: 53.3898
 longitude: -1.48263
-postcode: "S6 3BU"
+postcode: S6 3BU
 city: Sheffield
-street: "Montgomery Terrace Road"
-housenumber: 50
+street: Montgomery Terrace Road
+housenumber: "50"
 phone: ""
-opening_hours: "Mo-Th 06:00-22:00; Fr,Sa 06:00-24:00; Su 10:00-16:00"
+opening_hours: Mo-Th 06:00-22:00; Fr,Sa 06:00-24:00; Su 10:00-16:00
 website: ""

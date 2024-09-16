@@ -2,10 +2,10 @@ id: 7908733411
 type: node
 latitude: 51.54356
 longitude: -0.05764
-postcode: "E8 3NJ"
+postcode: E8 3NJ
 city: London
-street: "Richmond Road"
-housenumber: 197
+street: Richmond Road
+housenumber: "197"
 phone: ""
-opening_hours: "Mo off; Tu-Fr 07:30-16:00, Sa 08:00-16:00, We-Sa 18:00-23:00; Su 08:30-16:00"
-website: "https://www.pophamsbakery.com/"
+opening_hours: Mo off; Tu-Fr 07:30-16:00, Sa 08:00-16:00, We-Sa 18:00-23:00; Su 08:30-16:00
+website: https://www.pophamsbakery.com/

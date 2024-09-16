@@ -2,10 +2,10 @@ id: 9415569164
 type: node
 latitude: 51.61249
 longitude: -0.16
-postcode: "N12 9AY"
+postcode: N12 9AY
 city: London
-street: "Woodhouse Road"
-housenumber: 205
+street: Woodhouse Road
+housenumber: "205"
 phone: ""
 opening_hours: ""
 website: ""

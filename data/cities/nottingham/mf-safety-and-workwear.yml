@@ -1,11 +1,11 @@
 id: 223078947
-type: way
+type: node
 latitude: 52.92464
 longitude: -1.23285
-postcode: "NG9 4BE"
+postcode: NG9 4BE
 city: Nottingham
-street: "Cator Lane"
-housenumber: 198
+street: Cator Lane
+housenumber: "198"
 phone: ""
 opening_hours: ""
-website: "https://www.mfsafety.co.uk/"
+website: https://www.mfsafety.co.uk/

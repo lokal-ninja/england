@@ -1,11 +1,11 @@
 id: 263512232
-type: way
+type: node
 latitude: 51.85678
 longitude: 1.11627
-postcode: "CO16 9JA"
+postcode: CO16 9JA
 city: Weeley
-street: "The Street"
-housenumber: 53
+street: The Street
+housenumber: "53"
 phone: ""
 opening_hours: ""
-website: "https://www.premier-stores.co.uk/our-stores/weeley-po-conv-store"
+website: https://www.premier-stores.co.uk/our-stores/weeley-po-conv-store

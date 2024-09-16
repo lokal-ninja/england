@@ -1,11 +1,11 @@
 id: 1251601052
-type: way
+type: node
 latitude: 53.36721
 longitude: -0.00879
-postcode: "LN11 0DR"
+postcode: LN11 0DR
 city: Louth
-street: "Bridge Street"
-housenumber: 11
+street: Bridge Street
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

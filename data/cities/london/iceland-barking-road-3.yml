@@ -1,11 +1,11 @@
 id: 1039299254
-type: way
+type: node
 latitude: 51.52379
 longitude: 0.02596
-postcode: "E13 8QB"
+postcode: E13 8QB
 city: London
-street: "Barking Road"
-housenumber: 480
+street: Barking Road
+housenumber: "480"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:30; Su 11:00-17:00"
+opening_hours: Mo-Sa 08:00-20:30; Su 11:00-17:00
 website: ""

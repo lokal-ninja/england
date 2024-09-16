@@ -1,11 +1,11 @@
 id: 1274705486
-type: way
+type: node
 latitude: 51.57119
 longitude: -1.7771
-postcode: "SN2 1AA"
+postcode: SN2 1AA
 city: Swindon
-street: "Cricklade Road"
-housenumber: 75
+street: Cricklade Road
+housenumber: "75"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 157236289
-type: way
+type: node
 latitude: 51.52449
 longitude: -0.08128
 postcode: ""
 city: London
-street: "Leonard Street"
-housenumber: 108
-phone: "+44 20 7729 2866"
+street: Leonard Street
+housenumber: "108"
+phone: +44 20 7729 2866
 opening_hours: ""
-website: "https://pureevilgallery.com/"
+website: https://pureevilgallery.com/

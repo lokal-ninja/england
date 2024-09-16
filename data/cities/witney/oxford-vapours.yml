@@ -1,11 +1,11 @@
 id: 1062463264
-type: way
+type: node
 latitude: 51.78671
 longitude: -1.48275
-postcode: "OX28 6FY"
+postcode: OX28 6FY
 city: witney
-street: "Mill Walk"
-housenumber: 5
+street: Mill Walk
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 09:30-17:30; Su off"
+opening_hours: Mo-Sa 09:30-17:30; Su off
 website: ""

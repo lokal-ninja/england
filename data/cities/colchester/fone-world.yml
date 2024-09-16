@@ -1,11 +1,11 @@
 id: 527518659
-type: way
+type: node
 latitude: 51.88901
 longitude: 0.89896
-postcode: "CO1 1JG"
+postcode: CO1 1JG
 city: Colchester
-street: "Culver Street West"
-housenumber: 16
+street: Culver Street West
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

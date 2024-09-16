@@ -2,10 +2,10 @@ id: 2617935346
 type: node
 latitude: 51.3853
 longitude: -0.10992
-postcode: "CR0 3PA"
+postcode: CR0 3PA
 city: Croydon
-street: "London Road"
-housenumber: 343
+street: London Road
+housenumber: "343"
 phone: ""
 opening_hours: ""
 website: ""

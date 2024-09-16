@@ -2,10 +2,10 @@ id: 4221818851
 type: node
 latitude: 51.41354
 longitude: -0.05166
-postcode: "SE20 7TN"
+postcode: SE20 7TN
 city: London
-street: "High Street"
-housenumber: 7
+street: High Street
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

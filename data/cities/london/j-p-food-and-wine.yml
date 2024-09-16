@@ -1,11 +1,11 @@
 id: 904751516
-type: way
+type: node
 latitude: 51.53296
 longitude: 0.02225
-postcode: "E13 0LP"
+postcode: E13 0LP
 city: London
-street: "Terrace Road"
-housenumber: 7
+street: Terrace Road
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

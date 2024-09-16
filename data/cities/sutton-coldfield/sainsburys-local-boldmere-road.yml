@@ -1,11 +1,11 @@
 id: 153792044
-type: way
+type: node
 latitude: 52.54961
 longitude: -1.84171
 postcode: ""
 city: Sutton Coldfield
-street: "Boldmere Road"
-housenumber: 36
+street: Boldmere Road
+housenumber: "36"
 phone: ""
 opening_hours: ""
-website: "https://stores.sainsburys.co.uk/4488/sutton-coldfield-boldmere-road-local"
+website: https://stores.sainsburys.co.uk/4488/sutton-coldfield-boldmere-road-local

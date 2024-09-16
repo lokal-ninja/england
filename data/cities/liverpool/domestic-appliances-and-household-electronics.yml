@@ -1,11 +1,11 @@
 id: 1220630379
-type: way
+type: node
 latitude: 53.44124
 longitude: -2.9709
-postcode: "L4 3QD"
+postcode: L4 3QD
 city: Liverpool
-street: "County Road"
-housenumber: 87
+street: County Road
+housenumber: "87"
 phone: ""
 opening_hours: ""
 website: ""

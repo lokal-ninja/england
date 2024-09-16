@@ -1,11 +1,11 @@
 id: 38484318
-type: way
+type: node
 latitude: 51.63142
 longitude: 0.00345
-postcode: "E4 7BE"
+postcode: E4 7BE
 city: London
-street: "Station Road"
-housenumber: 2
+street: Station Road
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.budgens.co.uk/our-stores/chingford"
+website: https://www.budgens.co.uk/our-stores/chingford

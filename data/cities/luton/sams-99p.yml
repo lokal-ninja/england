@@ -2,10 +2,10 @@ id: 4219412690
 type: node
 latitude: 51.87976
 longitude: -0.41708
-postcode: "LU1 2BD"
+postcode: LU1 2BD
 city: Luton
-street: "George Street"
-housenumber: 74
+street: George Street
+housenumber: "74"
 phone: ""
 opening_hours: ""
 website: ""

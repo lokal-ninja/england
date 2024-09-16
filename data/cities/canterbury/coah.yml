@@ -1,11 +1,11 @@
 id: 150518486
-type: way
+type: node
 latitude: 51.27767
 longitude: 1.07815
-postcode: "CT1 2QD"
+postcode: CT1 2QD
 city: Canterbury
-street: "Castle Street"
+street: Castle Street
 housenumber: 81a
-phone: "+44 1227 455724"
-opening_hours: "Mo off;Tu,Th,Fr 09:00-17:30;We 09:00-19:00;Sa 09:00-17:00"
-website: "https://coahhair.co.uk/"
+phone: +44 1227 455724
+opening_hours: Mo off;Tu,Th,Fr 09:00-17:30;We 09:00-19:00;Sa 09:00-17:00
+website: https://coahhair.co.uk/

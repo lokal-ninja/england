@@ -1,11 +1,11 @@
 id: 413490063
-type: way
+type: node
 latitude: 51.48536
 longitude: 0.269
-postcode: "RM20 3LP"
+postcode: RM20 3LP
 city: Grays
-street: "Weston Avenue"
-housenumber: 
-phone: "+44 344 387 6838"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 10:30-16:30"
+street: Weston Avenue
+housenumber: ""
+phone: +44 344 387 6838
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 10:30-16:30
 website: ""

@@ -2,10 +2,10 @@ id: 1123696451
 type: node
 latitude: 51.46373
 longitude: -0.16926
-postcode: "SW11 1SA"
+postcode: SW11 1SA
 city: London
-street: "Saint John's Hill"
-housenumber: 20
+street: Saint John's Hill
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Sa 07:00-23:00; Su 09:00-22:00"
+opening_hours: Mo-Sa 07:00-23:00; Su 09:00-22:00
 website: ""

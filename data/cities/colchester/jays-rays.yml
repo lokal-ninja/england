@@ -1,11 +1,11 @@
 id: 190031539
-type: way
+type: node
 latitude: 51.88439
 longitude: 0.90792
-postcode: "CO1 2AJ"
+postcode: CO1 2AJ
 city: Colchester
-street: "Military Road"
-housenumber: 32
+street: Military Road
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

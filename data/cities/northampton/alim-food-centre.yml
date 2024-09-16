@@ -2,10 +2,10 @@ id: 5158002523
 type: node
 latitude: 52.24299
 longitude: -0.88468
-postcode: "NN1 4AZ"
+postcode: NN1 4AZ
 city: Northampton
-street: "Kettering Road"
-housenumber: 111
+street: Kettering Road
+housenumber: "111"
 phone: ""
 opening_hours: ""
 website: ""

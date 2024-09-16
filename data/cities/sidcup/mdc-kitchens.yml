@@ -1,11 +1,11 @@
 id: 954864183
-type: way
+type: node
 latitude: 51.42987
 longitude: 0.08733
-postcode: "DA14 6QS"
+postcode: DA14 6QS
 city: Sidcup
-street: "Main Road"
-housenumber: 259
+street: Main Road
+housenumber: "259"
 phone: ""
 opening_hours: ""
 website: ""

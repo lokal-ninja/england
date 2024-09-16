@@ -1,11 +1,11 @@
 id: 423433489
-type: way
+type: node
 latitude: 51.42873
 longitude: -0.35462
-postcode: "TW12 1NL"
+postcode: TW12 1NL
 city: Hampton Hill
-street: "High Street"
-housenumber: 187
+street: High Street
+housenumber: "187"
 phone: ""
 opening_hours: ""
 website: ""

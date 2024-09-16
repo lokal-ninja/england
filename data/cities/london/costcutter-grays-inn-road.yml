@@ -1,11 +1,11 @@
 id: 146372918
-type: way
+type: node
 latitude: 51.53036
 longitude: -0.12174
-postcode: "WC1X 8PX"
+postcode: WC1X 8PX
 city: London
-street: "Gray's Inn Road"
-housenumber: 333
+street: Gray's Inn Road
+housenumber: "333"
 phone: ""
 opening_hours: ""
 website: ""

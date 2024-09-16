@@ -1,11 +1,11 @@
 id: 1131145555
-type: way
+type: node
 latitude: 53.6458
 longitude: -1.78089
 postcode: ""
 city: Huddersfield
-street: "King Street"
-housenumber: 7
+street: King Street
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

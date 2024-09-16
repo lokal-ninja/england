@@ -1,11 +1,11 @@
 id: 104396487
-type: way
+type: node
 latitude: 51.46124
 longitude: 0.49818
-postcode: "ME3 7QD"
+postcode: ME3 7QD
 city: Rochester
-street: "Church Street"
-housenumber: 168
+street: Church Street
+housenumber: "168"
 phone: ""
 opening_hours: ""
 website: ""

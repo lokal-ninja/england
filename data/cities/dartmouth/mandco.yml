@@ -1,11 +1,11 @@
 id: 516822967
-type: way
+type: node
 latitude: 50.35144
 longitude: -3.58007
 postcode: ""
 city: Dartmouth
-street: "Victoria Road"
-housenumber: 13
+street: Victoria Road
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

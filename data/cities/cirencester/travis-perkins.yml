@@ -1,11 +1,11 @@
 id: 373920287
-type: way
+type: node
 latitude: 51.70473
 longitude: -1.95952
-postcode: "GL7 1WW"
+postcode: GL7 1WW
 city: Cirencester
-street: "Love Lane"
-housenumber: 12
-phone: "+44 1285 652157"
-opening_hours: "Mo-Fr 07:30-17:00; Sa 08:00-12:00; Su off"
-website: "https://www.travisperkins.co.uk/branch-locator/9229"
+street: Love Lane
+housenumber: "12"
+phone: +44 1285 652157
+opening_hours: Mo-Fr 07:30-17:00; Sa 08:00-12:00; Su off
+website: https://www.travisperkins.co.uk/branch-locator/9229

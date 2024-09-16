@@ -1,11 +1,11 @@
 id: 778076085
-type: way
+type: node
 latitude: 53.79746
 longitude: -1.57694
-postcode: "LS12 2QN"
+postcode: LS12 2QN
 city: Leeds
-street: "Armley Road"
-housenumber: 
+street: Armley Road
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.farmfoods.co.uk/store-finder.php?branch_code=319"
+website: https://www.farmfoods.co.uk/store-finder.php?branch_code=319

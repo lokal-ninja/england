@@ -1,11 +1,11 @@
 id: 215470977
-type: way
+type: node
 latitude: 53.52585
 longitude: -1.13836
-postcode: "DN1 1RE"
+postcode: DN1 1RE
 city: Doncaster
-street: "Church View"
-housenumber: 
-phone: "+44 330 838 9557"
-opening_hours: "Mo-Sa 08:00-20:00; Su 10:30-16:30"
-website: "https://www.bmstores.co.uk/stores/doncaster-church-view-557"
+street: Church View
+housenumber: ""
+phone: +44 330 838 9557
+opening_hours: Mo-Sa 08:00-20:00; Su 10:30-16:30
+website: https://www.bmstores.co.uk/stores/doncaster-church-view-557

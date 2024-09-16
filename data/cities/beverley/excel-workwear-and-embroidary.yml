@@ -1,11 +1,11 @@
 id: 1221785430
-type: way
+type: node
 latitude: 53.84079
 longitude: -0.41872
-postcode: "HU17 0EW"
+postcode: HU17 0EW
 city: Beverley
-street: "Priory Road"
-housenumber: 17
+street: Priory Road
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

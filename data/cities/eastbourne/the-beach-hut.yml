@@ -1,11 +1,11 @@
 id: 576501712
-type: way
+type: node
 latitude: 50.76645
 longitude: 0.29057
 postcode: ""
 city: Eastbourne
-street: "Terminus Road"
-housenumber: 256
+street: Terminus Road
+housenumber: "256"
 phone: ""
 opening_hours: ""
 website: ""

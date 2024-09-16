@@ -1,11 +1,11 @@
 id: 231737039
-type: way
+type: node
 latitude: 51.94362
 longitude: -0.88125
-postcode: "MK18 3DQ"
+postcode: MK18 3DQ
 city: Winslow
-street: "High Street"
-housenumber: 60
+street: High Street
+housenumber: "60"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.coop.co.uk/store-finder/MK18-3DQ/60-high-street"
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.coop.co.uk/store-finder/MK18-3DQ/60-high-street

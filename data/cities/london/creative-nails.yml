@@ -1,11 +1,11 @@
 id: 164483508
-type: way
+type: node
 latitude: 51.5305
 longitude: -0.077
-postcode: "E2 8DP"
+postcode: E2 8DP
 city: London
-street: "Kingsland Road"
-housenumber: 128
+street: Kingsland Road
+housenumber: "128"
 phone: ""
 opening_hours: ""
 website: ""

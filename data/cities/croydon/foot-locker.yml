@@ -1,11 +1,11 @@
 id: 197065372
-type: way
+type: node
 latitude: 51.37607
 longitude: -0.10133
-postcode: "CR0 1UJ"
+postcode: CR0 1UJ
 city: Croydon
-street: "North End"
-housenumber: 70
+street: North End
+housenumber: "70"
 phone: ""
-opening_hours: "Mo-We 10:00-18:00; Th-Sa 10:00-19:00; Su 11:00-17:00"
-website: "https://stores.footlocker.co.uk/gb-lnd/croydon/78-74-north-end-44_31_04335.html"
+opening_hours: Mo-We 10:00-18:00; Th-Sa 10:00-19:00; Su 11:00-17:00
+website: https://stores.footlocker.co.uk/gb-lnd/croydon/78-74-north-end-44_31_04335.html

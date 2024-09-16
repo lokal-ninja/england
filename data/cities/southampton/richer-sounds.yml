@@ -1,11 +1,11 @@
 id: 190849461
-type: way
+type: node
 latitude: 50.91268
 longitude: -1.40336
-postcode: "SO15 2AA"
+postcode: SO15 2AA
 city: Southampton
-street: "London Road"
-housenumber: 77
+street: London Road
+housenumber: "77"
 phone: ""
 opening_hours: ""
-website: "https://www.richersounds.com/stores/southampton"
+website: https://www.richersounds.com/stores/southampton

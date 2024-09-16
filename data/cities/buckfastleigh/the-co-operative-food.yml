@@ -1,11 +1,11 @@
 id: 326214941
-type: way
+type: node
 latitude: 50.48131
 longitude: -3.77919
-postcode: "TQ11 0AB"
+postcode: TQ11 0AB
 city: Buckfastleigh
-street: "Chapel Street"
-housenumber: 33
+street: Chapel Street
+housenumber: "33"
 phone: ""
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.coop.co.uk/store-finder/TQ11-0AB/33-chapel-street"
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.coop.co.uk/store-finder/TQ11-0AB/33-chapel-street

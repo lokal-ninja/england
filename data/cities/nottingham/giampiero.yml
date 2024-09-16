@@ -1,11 +1,11 @@
 id: 353944461
-type: way
+type: node
 latitude: 53.00609
 longitude: -1.12641
-postcode: "NG5 7GQ"
+postcode: NG5 7GQ
 city: Nottingham
-street: "Coppice Road"
-housenumber: 6
+street: Coppice Road
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

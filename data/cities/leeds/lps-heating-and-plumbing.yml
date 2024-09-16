@@ -1,11 +1,11 @@
 id: 1033594824
-type: way
+type: node
 latitude: 53.87303
 longitude: -1.71008
-postcode: "LS20 8AH"
+postcode: LS20 8AH
 city: Leeds
-street: "Otley Road"
-housenumber: 20
-phone: "+44 1943 879 932"
-opening_hours: "Mo-Fr 08:00-17:00; Sa,Su off"
-website: "https://lpsheatingandplumbing.co.uk/"
+street: Otley Road
+housenumber: "20"
+phone: +44 1943 879 932
+opening_hours: Mo-Fr 08:00-17:00; Sa,Su off
+website: https://lpsheatingandplumbing.co.uk/

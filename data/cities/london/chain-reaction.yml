@@ -2,10 +2,10 @@ id: 4440565063
 type: node
 latitude: 51.54154
 longitude: -0.14562
-postcode: "NW1 8AB"
+postcode: NW1 8AB
 city: London
-street: "Chalk Farm Road"
-housenumber: 208
+street: Chalk Farm Road
+housenumber: "208"
 phone: ""
 opening_hours: ""
 website: ""

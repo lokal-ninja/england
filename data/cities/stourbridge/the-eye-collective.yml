@@ -1,11 +1,11 @@
 id: 984746386
-type: way
+type: node
 latitude: 52.45515
 longitude: -2.14373
-postcode: "DY8 1ED"
+postcode: DY8 1ED
 city: Stourbridge
-street: "High Street"
-housenumber: 84
-phone: "+44 1384 394300"
+street: High Street
+housenumber: "84"
+phone: +44 1384 394300
 opening_hours: ""
-website: "https://eyecollective.co.uk/branch/stourbridge/"
+website: https://eyecollective.co.uk/branch/stourbridge/

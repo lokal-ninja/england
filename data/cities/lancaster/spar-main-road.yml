@@ -1,11 +1,11 @@
 id: 381201584
-type: way
+type: node
 latitude: 53.99162
 longitude: -2.7888
-postcode: "LA2 0LA"
+postcode: LA2 0LA
 city: Lancaster
-street: "Main Road"
-housenumber: 71
+street: Main Road
+housenumber: "71"
 phone: ""
 opening_hours: ""
-website: "https://www.spar.co.uk/store-locator/hal21367-spar-slee-galgate/"
+website: https://www.spar.co.uk/store-locator/hal21367-spar-slee-galgate/

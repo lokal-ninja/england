@@ -1,11 +1,11 @@
 id: 352574075
-type: way
+type: node
 latitude: 52.04758
 longitude: 1.18127
-postcode: "IP3 8EE"
+postcode: IP3 8EE
 city: Ipswich
-street: "Felixstowe Road"
-housenumber: 188
+street: Felixstowe Road
+housenumber: "188"
 phone: "+441473254488"
-opening_hours: "Mo-Fr 09:00-17:30; Sa 09:00-16:00"
-website: "https://www.daveybros.co.uk/"
+opening_hours: Mo-Fr 09:00-17:30; Sa 09:00-16:00
+website: https://www.daveybros.co.uk/

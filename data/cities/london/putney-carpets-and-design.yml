@@ -1,11 +1,11 @@
 id: 793608686
-type: way
+type: node
 latitude: 51.45681
 longitude: -0.20405
-postcode: "SW15 2RX"
+postcode: SW15 2RX
 city: London
-street: "Upper Richmond Road"
-housenumber: 28
+street: Upper Richmond Road
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

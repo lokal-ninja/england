@@ -1,11 +1,11 @@
 id: 181351220
-type: way
+type: node
 latitude: 52.38339
 longitude: -1.50453
-postcode: "CV3 5NA"
+postcode: CV3 5NA
 city: Coventry
-street: "Dawlish Drive"
-housenumber: 76
+street: Dawlish Drive
+housenumber: "76"
 phone: ""
 opening_hours: ""
 website: ""

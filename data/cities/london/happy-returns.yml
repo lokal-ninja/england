@@ -1,11 +1,11 @@
 id: 126219041
-type: way
+type: node
 latitude: 51.55476
 longitude: -0.17231
-postcode: "NW3 1NH"
+postcode: NW3 1NH
 city: London
-street: "Rosslyn Hill"
-housenumber: 36
+street: Rosslyn Hill
+housenumber: "36"
 phone: ""
 opening_hours: ""
 website: ""

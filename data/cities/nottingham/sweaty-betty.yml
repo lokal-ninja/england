@@ -2,10 +2,10 @@ id: 2942220230
 type: node
 latitude: 52.95336
 longitude: -1.14767
-postcode: "NG1 2ET"
+postcode: NG1 2ET
 city: Nottingham
-street: "High Street"
-housenumber: 8
+street: High Street
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

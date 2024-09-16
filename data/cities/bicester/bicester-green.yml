@@ -1,11 +1,11 @@
 id: 1184138158
-type: way
+type: node
 latitude: 51.89774
 longitude: -1.15047
 postcode: ""
 city: Bicester
-street: "Sheep Street"
-housenumber: 16
+street: Sheep Street
+housenumber: "16"
 phone: ""
 opening_hours: ""
-website: "https://www.bicestergreen.org.uk/"
+website: https://www.bicestergreen.org.uk/

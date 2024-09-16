@@ -1,11 +1,11 @@
 id: 984914611
-type: way
+type: node
 latitude: 52.06166
 longitude: -1.33803
-postcode: "OX16 5NY"
+postcode: OX16 5NY
 city: Banbury
-street: "Church Walk"
-housenumber: 7
+street: Church Walk
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

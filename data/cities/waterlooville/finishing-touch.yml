@@ -1,11 +1,11 @@
 id: 1312916506
-type: way
+type: node
 latitude: 50.8801
 longitude: -1.03138
 postcode: ""
 city: Waterlooville
-street: "London Road"
-housenumber: 103
-phone: "+44 2392 263228"
-opening_hours: "Mo,Tu,Th-Sa 10:00-16:00; PH,We,Su off"
+street: London Road
+housenumber: "103"
+phone: +44 2392 263228
+opening_hours: Mo,Tu,Th-Sa 10:00-16:00; PH,We,Su off
 website: ""

@@ -1,11 +1,11 @@
 id: 915811636
-type: way
+type: node
 latitude: 50.3828
 longitude: -4.13433
-postcode: "PL4 6LF"
+postcode: PL4 6LF
 city: Plymouth
-street: "Mutley Plain"
-housenumber: 58
+street: Mutley Plain
+housenumber: "58"
 phone: ""
 opening_hours: ""
 website: ""

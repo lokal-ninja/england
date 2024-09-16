@@ -1,11 +1,11 @@
 id: 627551226
-type: way
+type: node
 latitude: 51.8879
 longitude: 0.89185
-postcode: "CO3 3EZ"
+postcode: CO3 3EZ
 city: Colchester
-street: "Crouch Street"
-housenumber: 79
+street: Crouch Street
+housenumber: "79"
 phone: ""
 opening_hours: ""
 website: ""

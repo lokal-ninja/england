@@ -1,11 +1,11 @@
 id: 807302344
-type: way
+type: node
 latitude: 51.13171
 longitude: -3.0052
-postcode: "TA6 3EU"
+postcode: TA6 3EU
 city: Bridgwater
-street: "Northgate"
-housenumber: 
+street: Northgate
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su 10:00-16:00"
+opening_hours: Mo-Sa 08:00-20:00; Su 10:00-16:00
 website: ""

@@ -1,11 +1,11 @@
 id: 350960213
-type: way
+type: node
 latitude: 51.61687
 longitude: -0.14047
-postcode: "N11 1NL"
+postcode: N11 1NL
 city: London
-street: "Bowes Road"
+street: Bowes Road
 housenumber: 462-464
-phone: "+44 20 8361 5151"
-opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-17:00; Su off; PH off"
-website: "https://www.1stlinemotorcycles.co.uk/"
+phone: +44 20 8361 5151
+opening_hours: Mo-Fr 08:30-18:00; Sa 08:30-17:00; Su off; PH off
+website: https://www.1stlinemotorcycles.co.uk/

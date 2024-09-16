@@ -1,11 +1,11 @@
 id: 60712602
-type: way
+type: node
 latitude: 52.92271
 longitude: -1.2877
-postcode: "NG10 5BG"
+postcode: NG10 5BG
 city: Nottingham
-street: "Station Road"
-housenumber: 4
+street: Station Road
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

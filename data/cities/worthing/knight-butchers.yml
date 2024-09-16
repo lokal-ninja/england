@@ -1,11 +1,11 @@
 id: 1002130760
-type: way
+type: node
 latitude: 50.81973
 longitude: -0.41134
 postcode: ""
 city: Worthing
-street: "The Strand"
-housenumber: 
-phone: "+44 1903 244348"
+street: The Strand
+housenumber: ""
+phone: +44 1903 244348
 opening_hours: ""
-website: "https://www.knightbutchers.co.uk/"
+website: https://www.knightbutchers.co.uk/

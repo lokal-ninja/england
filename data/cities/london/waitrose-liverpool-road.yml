@@ -1,11 +1,11 @@
 id: 119438298
-type: way
+type: node
 latitude: 51.53401
 longitude: -0.10709
-postcode: "N1 0RW"
+postcode: N1 0RW
 city: London
-street: "Liverpool Road"
-housenumber: 21
+street: Liverpool Road
+housenumber: "21"
 phone: ""
 opening_hours: ""
-website: "https://www.waitrose.com/find-a-store/islington"
+website: https://www.waitrose.com/find-a-store/islington

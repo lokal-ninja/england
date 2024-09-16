@@ -1,11 +1,11 @@
 id: 445490035
-type: way
+type: node
 latitude: 54.90637
 longitude: -1.73965
-postcode: "NE16 6HR"
+postcode: NE16 6HR
 city: Burnopfield
-street: "The Leazes"
-housenumber: 20
+street: The Leazes
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.coop.co.uk/store-finder/NE16-6HR/20-the-leazes"
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.coop.co.uk/store-finder/NE16-6HR/20-the-leazes

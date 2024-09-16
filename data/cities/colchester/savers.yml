@@ -1,11 +1,11 @@
 id: 332254756
-type: way
+type: node
 latitude: 51.88922
 longitude: 0.90242
-postcode: "CO1 1LH"
+postcode: CO1 1LH
 city: Colchester
-street: "Long Wyre Street"
-housenumber: 2
-phone: "+44 1206 368319"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:30-18:00; Su 10:00-16:00"
+street: Long Wyre Street
+housenumber: "2"
+phone: +44 1206 368319
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:30-18:00; Su 10:00-16:00
 website: ""

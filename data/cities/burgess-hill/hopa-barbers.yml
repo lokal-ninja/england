@@ -1,11 +1,11 @@
 id: 909312097
-type: way
+type: node
 latitude: 50.95563
 longitude: -0.13034
-postcode: "RH15 9AE"
+postcode: RH15 9AE
 city: Burgess Hill
-street: "Church Road"
-housenumber: 50
+street: Church Road
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

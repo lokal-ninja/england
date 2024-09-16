@@ -1,11 +1,11 @@
 id: 89817614
-type: way
+type: node
 latitude: 52.48239
 longitude: -1.89716
-postcode: "B3 2QX"
+postcode: B3 2QX
 city: Birmingham
-street: "Colmore Row"
-housenumber: 8
+street: Colmore Row
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Su 06:00-23:00"
+opening_hours: Mo-Su 06:00-23:00
 website: ""

@@ -1,11 +1,11 @@
 id: 727587782
-type: way
+type: node
 latitude: 53.22883
 longitude: -0.5405
-postcode: "LN2 1AF"
+postcode: LN2 1AF
 city: Lincoln
-street: "High Street"
-housenumber: 300
+street: High Street
+housenumber: "300"
 phone: ""
 opening_hours: ""
 website: ""

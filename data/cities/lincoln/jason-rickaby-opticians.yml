@@ -1,11 +1,11 @@
 id: 238335228
-type: way
+type: node
 latitude: 53.22883
 longitude: -0.5425
-postcode: "LN1 1TY"
+postcode: LN1 1TY
 city: Lincoln
-street: "Water Lane"
-housenumber: 5
+street: Water Lane
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

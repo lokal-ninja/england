@@ -1,11 +1,11 @@
 id: 320765082
-type: way
+type: node
 latitude: 53.26216
 longitude: -2.51248
-postcode: "CW9 5LA"
+postcode: CW9 5LA
 city: Northwich
-street: "Leicester Street"
-housenumber: 6
+street: Leicester Street
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

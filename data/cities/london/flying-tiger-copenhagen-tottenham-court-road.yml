@@ -1,11 +1,11 @@
 id: 425013556
-type: way
+type: node
 latitude: 51.51781
 longitude: -0.13177
-postcode: "W1T 7QP"
+postcode: W1T 7QP
 city: London
-street: "Tottenham Court Road"
-housenumber: 22
+street: Tottenham Court Road
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 437767457
-type: way
+type: node
 latitude: 51.51878
 longitude: -0.06224
 postcode: ""
 city: London
-street: "Whitechapel Road"
-housenumber: 207
+street: Whitechapel Road
+housenumber: "207"
 phone: ""
 opening_hours: ""
-website: "http://www.cuckoofashion.com"
+website: http://www.cuckoofashion.com

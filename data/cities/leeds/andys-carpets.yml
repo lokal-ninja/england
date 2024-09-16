@@ -1,11 +1,11 @@
 id: 687834845
-type: way
+type: node
 latitude: 53.75555
 longitude: -1.48934
-postcode: "LS26 0PH"
+postcode: LS26 0PH
 city: Leeds
-street: "Wood Lane"
-housenumber: 238
+street: Wood Lane
+housenumber: "238"
 phone: ""
 opening_hours: ""
 website: ""

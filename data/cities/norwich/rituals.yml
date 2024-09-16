@@ -1,11 +1,11 @@
 id: 108866036
-type: way
+type: node
 latitude: 52.62566
 longitude: 1.29015
-postcode: "NR2 1SU"
+postcode: NR2 1SU
 city: Norwich
-street: "Merchants' Hall"
-housenumber: 211
+street: Merchants' Hall
+housenumber: "211"
 phone: ""
 opening_hours: ""
 website: ""

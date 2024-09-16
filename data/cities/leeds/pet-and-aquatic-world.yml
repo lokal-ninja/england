@@ -1,11 +1,11 @@
 id: 936329251
-type: way
+type: node
 latitude: 53.79866
 longitude: -1.58586
-postcode: "LS12 2LS"
+postcode: LS12 2LS
 city: Leeds
-street: "Armley Road"
-housenumber: 206
-phone: "+44 113 2631509"
-opening_hours: "Mo-Th 08:00-17:00; Fr 09:00-20:00; Sa 09:00 - 18:00; Su 10:00 - 17:00"
+street: Armley Road
+housenumber: "206"
+phone: +44 113 2631509
+opening_hours: Mo-Th 08:00-17:00; Fr 09:00-20:00; Sa 09:00 - 18:00; Su 10:00 - 17:00
 website: ""

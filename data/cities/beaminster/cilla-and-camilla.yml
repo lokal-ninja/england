@@ -1,11 +1,11 @@
 id: 491757309
-type: way
+type: node
 latitude: 50.80886
 longitude: -2.7392
 postcode: ""
 city: Beaminster
-street: "The Square"
-housenumber: 22
+street: The Square
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

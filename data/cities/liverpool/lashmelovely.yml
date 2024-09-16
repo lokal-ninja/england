@@ -1,11 +1,11 @@
 id: 1066737154
-type: way
+type: node
 latitude: 53.43558
 longitude: -2.9727
-postcode: "L4 4AH"
+postcode: L4 4AH
 city: Liverpool
-street: "Walton Road"
-housenumber: 165
+street: Walton Road
+housenumber: "165"
 phone: ""
 opening_hours: ""
 website: ""

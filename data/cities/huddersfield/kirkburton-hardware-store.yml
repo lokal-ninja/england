@@ -1,11 +1,11 @@
 id: 710058150
-type: way
+type: node
 latitude: 53.61049
 longitude: -1.70273
 postcode: ""
 city: Huddersfield
-street: "North Road"
-housenumber: 155
+street: North Road
+housenumber: "155"
 phone: ""
 opening_hours: ""
 website: ""

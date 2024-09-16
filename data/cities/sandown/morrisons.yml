@@ -1,11 +1,11 @@
 id: 173445381
-type: way
+type: node
 latitude: 50.64668
 longitude: -1.18177
-postcode: "PO36 9PA"
+postcode: PO36 9PA
 city: Sandown
-street: "Newport Road"
-housenumber: 
+street: Newport Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su 10:00-16:00"
-website: "https://my.morrisons.com/storefinder/361/isle-of-wight-lake"
+opening_hours: Mo-Sa 07:00-22:00; Su 10:00-16:00
+website: https://my.morrisons.com/storefinder/361/isle-of-wight-lake

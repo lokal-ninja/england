@@ -1,11 +1,11 @@
 id: 520967223
-type: way
+type: node
 latitude: 50.73382
 longitude: -2.76031
-postcode: "DT6 3QP"
+postcode: DT6 3QP
 city: Bridport
-street: "West Street"
-housenumber: 38
+street: West Street
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

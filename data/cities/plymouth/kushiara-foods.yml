@@ -1,11 +1,11 @@
 id: 736577355
-type: way
+type: node
 latitude: 50.3705
 longitude: -4.12024
 postcode: ""
 city: Plymouth
-street: "Embankment Road"
-housenumber: 80
+street: Embankment Road
+housenumber: "80"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 394093245
-type: way
+type: node
 latitude: 51.52095
 longitude: -0.04968
-postcode: "E1 4LJ"
+postcode: E1 4LJ
 city: London
-street: "Mile End Road"
-housenumber: 154
+street: Mile End Road
+housenumber: "154"
 phone: "+442072659999"
-opening_hours: "Mo-Fr 09:00-18:30"
+opening_hours: Mo-Fr 09:00-18:30
 website: ""

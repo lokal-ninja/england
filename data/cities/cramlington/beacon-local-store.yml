@@ -1,11 +1,11 @@
 id: 87967884
-type: way
+type: node
 latitude: 55.08625
 longitude: -1.61468
-postcode: "NE23 8JT"
+postcode: NE23 8JT
 city: Cramlington
-street: "Kielder Avenue"
-housenumber: 26
+street: Kielder Avenue
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

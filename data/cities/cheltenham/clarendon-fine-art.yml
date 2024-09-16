@@ -1,11 +1,11 @@
 id: 166043532
-type: way
+type: node
 latitude: 51.89852
 longitude: -2.07764
-postcode: "GL50 1NB"
+postcode: GL50 1NB
 city: Cheltenham
-street: "Promenade"
-housenumber: 94
-phone: "+44 1242 964000"
-opening_hours: "Mo-Sa 09:30-17:30; Su 11:00-16:00"
+street: Promenade
+housenumber: "94"
+phone: +44 1242 964000
+opening_hours: Mo-Sa 09:30-17:30; Su 11:00-16:00
 website: ""

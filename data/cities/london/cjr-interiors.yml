@@ -1,11 +1,11 @@
 id: 460102245
-type: way
+type: node
 latitude: 51.4663
 longitude: -0.26723
-postcode: "SW14 8LP"
+postcode: SW14 8LP
 city: London
-street: "Sheen Lane"
-housenumber: 46
-phone: "+44 20 8045 2555"
-opening_hours: "Mo-Fr 09:15-17:15"
-website: "https://www.cjrcontracts.co.uk/interiors/"
+street: Sheen Lane
+housenumber: "46"
+phone: +44 20 8045 2555
+opening_hours: Mo-Fr 09:15-17:15
+website: https://www.cjrcontracts.co.uk/interiors/

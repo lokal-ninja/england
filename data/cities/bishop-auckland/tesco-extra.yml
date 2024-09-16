@@ -1,11 +1,11 @@
 id: 159509349
-type: way
+type: node
 latitude: 54.64081
 longitude: -1.69913
-postcode: "DL14 9AB"
+postcode: DL14 9AB
 city: Bishop Auckland
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 00:00-24:00; Sa 00:00-23:30; Su 11:00-16:00"
+opening_hours: Mo-Fr 00:00-24:00; Sa 00:00-23:30; Su 11:00-16:00
 website: ""

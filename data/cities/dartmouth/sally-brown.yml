@@ -1,11 +1,11 @@
 id: 516855196
-type: way
+type: node
 latitude: 50.35198
 longitude: -3.57986
-postcode: "TQ6 9DP"
+postcode: TQ6 9DP
 city: Dartmouth
-street: "Union Street"
-housenumber: 3
+street: Union Street
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

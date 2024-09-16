@@ -2,10 +2,10 @@ id: 11455203328
 type: node
 latitude: 51.61547
 longitude: -0.242
-postcode: "NW7 2PT"
+postcode: NW7 2PT
 city: London
-street: "Watford Way"
-housenumber: 520
+street: Watford Way
+housenumber: "520"
 phone: ""
-opening_hours: "24/7"
-website: "https://storelocator.asda.com/london/greater-london/520-522-watford-way"
+opening_hours: 24/7
+website: https://storelocator.asda.com/london/greater-london/520-522-watford-way

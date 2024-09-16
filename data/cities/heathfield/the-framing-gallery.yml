@@ -1,11 +1,11 @@
 id: 711387537
-type: way
+type: node
 latitude: 50.97127
 longitude: 0.24961
-postcode: "TN21 8JB"
+postcode: TN21 8JB
 city: Heathfield
-street: "High Street"
-housenumber: 62
+street: High Street
+housenumber: "62"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 702882401
-type: way
+type: node
 latitude: 53.72581
 longitude: -1.35233
-postcode: "WF10 1DG"
+postcode: WF10 1DG
 city: Castleford
-street: "Commercial Street"
-housenumber: 4
+street: Commercial Street
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

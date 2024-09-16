@@ -1,11 +1,11 @@
 id: 1109765982
-type: way
+type: node
 latitude: 51.46729
 longitude: -0.2197
-postcode: "SW15 1EU"
+postcode: SW15 1EU
 city: London
-street: "Lower Richmond Road"
-housenumber: 85
-phone: "+44 20 8788 1407"
-opening_hours: "We-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://www.clockclinic.co.uk/"
+street: Lower Richmond Road
+housenumber: "85"
+phone: +44 20 8788 1407
+opening_hours: We-Fr 09:00-18:00; Sa 09:00-13:00
+website: https://www.clockclinic.co.uk/

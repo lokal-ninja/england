@@ -1,11 +1,11 @@
 id: 134706996
-type: way
+type: node
 latitude: 51.12885
 longitude: -2.99959
-postcode: "TA6 5AB"
+postcode: TA6 5AB
 city: Bridgwater
-street: "Eastover"
-housenumber: 24
+street: Eastover
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

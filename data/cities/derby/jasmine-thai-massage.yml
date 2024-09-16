@@ -1,11 +1,11 @@
 id: 111675757
-type: way
+type: node
 latitude: 52.92049
 longitude: -1.47827
-postcode: "DE1 1RP"
+postcode: DE1 1RP
 city: Derby
-street: "Green Lane"
-housenumber: 54
+street: Green Lane
+housenumber: "54"
 phone: ""
 opening_hours: ""
-website: "https://www.jasminethaimassagecentre.co.uk/"
+website: https://www.jasminethaimassagecentre.co.uk/

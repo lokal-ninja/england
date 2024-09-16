@@ -1,11 +1,11 @@
 id: 288355244
-type: way
+type: node
 latitude: 51.54051
 longitude: -0.10296
-postcode: "N1 1US"
+postcode: N1 1US
 city: London
-street: "Upper Street"
-housenumber: 159
+street: Upper Street
+housenumber: "159"
 phone: ""
 opening_hours: ""
 website: ""

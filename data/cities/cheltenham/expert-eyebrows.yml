@@ -1,11 +1,11 @@
 id: 166001361
-type: way
+type: node
 latitude: 51.90073
 longitude: -2.07266
-postcode: "GL52 2LX"
+postcode: GL52 2LX
 city: Cheltenham
-street: "Winchcombe Street"
-housenumber: 22
+street: Winchcombe Street
+housenumber: "22"
 phone: ""
 opening_hours: ""
-website: "http://www.millennium-music.com/"
+website: http://www.millennium-music.com/

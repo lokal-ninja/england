@@ -1,11 +1,11 @@
 id: 403543842
-type: way
+type: node
 latitude: 52.39843
 longitude: -1.5322
-postcode: "CV5 6ED"
+postcode: CV5 6ED
 city: Coventry
-street: "Providence Street"
-housenumber: 9
+street: Providence Street
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

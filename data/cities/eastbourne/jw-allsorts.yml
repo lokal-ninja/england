@@ -1,11 +1,11 @@
 id: 1094780152
-type: way
+type: node
 latitude: 50.80692
 longitude: 0.25256
-postcode: "BN22 0PR"
+postcode: BN22 0PR
 city: Eastbourne
-street: "Freshwater Square"
-housenumber: 1
+street: Freshwater Square
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

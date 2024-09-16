@@ -1,11 +1,11 @@
 id: 972972379
-type: way
+type: node
 latitude: 52.64559
 longitude: 1.27679
-postcode: "NR3 2AA"
+postcode: NR3 2AA
 city: Norwich
-street: "Drayton Road"
-housenumber: 181
+street: Drayton Road
+housenumber: "181"
 phone: ""
 opening_hours: ""
 website: ""

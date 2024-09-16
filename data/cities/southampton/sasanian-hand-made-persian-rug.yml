@@ -1,11 +1,11 @@
 id: 755424710
-type: way
+type: node
 latitude: 50.92424
 longitude: -1.37623
-postcode: "SO18 1FZ"
+postcode: SO18 1FZ
 city: Southampton
-street: "The Triangle"
-housenumber: 6
+street: The Triangle
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

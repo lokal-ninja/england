@@ -1,11 +1,11 @@
 id: 1299360296
-type: way
+type: node
 latitude: 54.55755
 longitude: -1.24777
-postcode: "TS5 6DZ"
+postcode: TS5 6DZ
 city: Middlesbrough
-street: "Roman Road"
-housenumber: 35
-phone: "+44 1642 820 478"
-opening_hours: "We 09:00-17:00; Th 09:00-19:00; Fr 09:00-20:00; Sa 09:00-16:00"
-website: "https://www.anthonyjameshairdressing.co.uk/"
+street: Roman Road
+housenumber: "35"
+phone: +44 1642 820 478
+opening_hours: We 09:00-17:00; Th 09:00-19:00; Fr 09:00-20:00; Sa 09:00-16:00
+website: https://www.anthonyjameshairdressing.co.uk/

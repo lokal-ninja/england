@@ -1,11 +1,11 @@
 id: 1314410401
-type: way
+type: node
 latitude: 52.4678
 longitude: 1.74442
 postcode: ""
 city: Lowestoft
-street: "London Road South"
-housenumber: 185
+street: London Road South
+housenumber: "185"
 phone: ""
-opening_hours: "Tu-Fr 09:00-17:00; Sa 08:30-17:00"
+opening_hours: Tu-Fr 09:00-17:00; Sa 08:30-17:00
 website: ""

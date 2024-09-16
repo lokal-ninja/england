@@ -1,11 +1,11 @@
 id: 987013244
-type: way
+type: node
 latitude: 51.3792
 longitude: -0.24251
-postcode: "KT4 8HT"
+postcode: KT4 8HT
 city: Worcester Park
-street: "Central Road"
-housenumber: 134
+street: Central Road
+housenumber: "134"
 phone: ""
 opening_hours: ""
 website: ""

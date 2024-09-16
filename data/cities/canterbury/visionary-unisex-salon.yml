@@ -1,11 +1,11 @@
 id: 370953094
-type: way
+type: node
 latitude: 51.28234
 longitude: 1.08369
 postcode: ""
 city: Canterbury
-street: "Broad Street"
-housenumber: 78
+street: Broad Street
+housenumber: "78"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
+opening_hours: Mo-Sa 10:00-19:00
 website: ""

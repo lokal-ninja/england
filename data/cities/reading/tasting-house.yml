@@ -2,10 +2,11 @@ id: 4950854531
 type: node
 latitude: 51.45522
 longitude: -0.97302
-postcode: "RG1 2HX"
+postcode: RG1 2HX
 city: Reading
-street: "Chain Street"
+street: Chain Street
 housenumber: 30A
-phone: "+44118 9571 531"
-opening_hours: "Mo 11:00-17:00; Tu 10:00-21:00; We 10:00-21:00; Th 10:00-21:00; Fr,Sa 10:00-23:00; Su 12:00-18:00"
-website: "https://www.tastinghouse.co.uk/"
+phone: +44118 9571 531
+opening_hours: Mo 11:00-17:00; Tu 10:00-21:00; We 10:00-21:00; Th 10:00-21:00; Fr,Sa
+    10:00-23:00; Su 12:00-18:00
+website: https://www.tastinghouse.co.uk/

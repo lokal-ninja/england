@@ -1,11 +1,11 @@
 id: 1223281345
-type: way
+type: node
 latitude: 54.57542
 longitude: -1.24231
-postcode: "TS1 5EF"
+postcode: TS1 5EF
 city: Middlesbrough
-street: "Harris Street"
-housenumber: 9
+street: Harris Street
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

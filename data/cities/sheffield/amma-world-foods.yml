@@ -1,11 +1,11 @@
 id: 1167232205
-type: way
+type: node
 latitude: 53.38354
 longitude: -1.47108
-postcode: "S1 2EG"
+postcode: S1 2EG
 city: Sheffield
-street: "Campo Lane"
-housenumber: 66
+street: Campo Lane
+housenumber: "66"
 phone: ""
 opening_hours: ""
 website: ""

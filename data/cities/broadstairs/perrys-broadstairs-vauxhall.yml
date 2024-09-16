@@ -1,11 +1,11 @@
 id: 481466472
-type: way
+type: node
 latitude: 51.36041
 longitude: 1.40248
 postcode: ""
 city: Broadstairs
-street: "Westwood Road"
-housenumber: 109
+street: Westwood Road
+housenumber: "109"
 phone: ""
-opening_hours: "Mo-Fr 08:30-19:00; Sa 09:00-17:00; Su 10:00-16:00"
+opening_hours: Mo-Fr 08:30-19:00; Sa 09:00-17:00; Su 10:00-16:00
 website: ""

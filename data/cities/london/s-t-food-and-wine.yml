@@ -2,10 +2,10 @@ id: 2529567296
 type: node
 latitude: 51.5462
 longitude: -0.10215
-postcode: "N1 2LF"
+postcode: N1 2LF
 city: London
-street: "St. Paul's Road"
-housenumber: 308
+street: St. Paul's Road
+housenumber: "308"
 phone: ""
 opening_hours: ""
 website: ""

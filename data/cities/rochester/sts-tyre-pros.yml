@@ -1,11 +1,11 @@
 id: 121721903
-type: way
+type: node
 latitude: 51.39413
 longitude: 0.49765
-postcode: "ME2 4AB"
+postcode: ME2 4AB
 city: Rochester
-street: "High Street"
-housenumber: 19
+street: High Street
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

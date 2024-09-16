@@ -1,11 +1,11 @@
 id: 937316675
-type: way
+type: node
 latitude: 51.55089
 longitude: -0.05307
-postcode: "E5 0NS"
+postcode: E5 0NS
 city: London
-street: "Lower Clapton Road"
-housenumber: 23
+street: Lower Clapton Road
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Fr 07:30-21:30; Sa,Su 08:30-21:30"
-website: "https://farm-hill-fruit-and-vegetable-store.business.site/"
+opening_hours: Mo-Fr 07:30-21:30; Sa,Su 08:30-21:30
+website: https://farm-hill-fruit-and-vegetable-store.business.site/

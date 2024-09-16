@@ -1,11 +1,11 @@
 id: 372739347
-type: way
+type: node
 latitude: 51.54871
 longitude: -0.05517
-postcode: "E8 1HY"
+postcode: E8 1HY
 city: London
-street: "Mare Street"
-housenumber: 391
+street: Mare Street
+housenumber: "391"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 321304152
-type: way
+type: node
 latitude: 51.00572
 longitude: -0.10633
-postcode: "RH16 1DB"
+postcode: RH16 1DB
 city: Haywards Heath
-street: "Market Place"
-housenumber: 
-phone: "+44 1444 650251"
+street: Market Place
+housenumber: ""
+phone: +44 1444 650251
 opening_hours: ""
-website: "https://www.caffyns.co.uk/"
+website: https://www.caffyns.co.uk/

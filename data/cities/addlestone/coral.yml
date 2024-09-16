@@ -2,10 +2,10 @@ id: 6143298544
 type: node
 latitude: 51.37144
 longitude: -0.48813
-postcode: "KT15 2AD"
+postcode: KT15 2AD
 city: Addlestone
-street: "Station Road"
-housenumber: 100
+street: Station Road
+housenumber: "100"
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00; Su 09:00-22:00"
-website: "https://sports.coral.co.uk/shop-locator"
+opening_hours: Mo-Sa 08:00-22:00; Su 09:00-22:00
+website: https://sports.coral.co.uk/shop-locator

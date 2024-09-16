@@ -2,10 +2,10 @@ id: 5643242586
 type: node
 latitude: 51.51219
 longitude: -0.14276
-postcode: "W1S 2EA"
+postcode: W1S 2EA
 city: London
-street: "St George Street"
-housenumber: 32
+street: St George Street
+housenumber: "32"
 phone: ""
 opening_hours: ""
-website: "https://shapero.com/"
+website: https://shapero.com/

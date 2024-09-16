@@ -1,11 +1,11 @@
 id: 97538827
-type: way
+type: node
 latitude: 54.58168
 longitude: -1.17734
-postcode: "TS6 6AB"
+postcode: TS6 6AB
 city: Middlesbrough
-street: "North Street"
-housenumber: 2
+street: North Street
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 06:00-22:00; Su 10:00-16:00"
+opening_hours: Mo-Sa 06:00-22:00; Su 10:00-16:00
 website: ""

@@ -1,11 +1,11 @@
 id: 58541635
-type: way
+type: node
 latitude: 51.15449
 longitude: 0.28657
-postcode: "TN2 3BF"
+postcode: TN2 3BF
 city: Tunbridge Wells
-street: "Longfield Road"
-housenumber: 
+street: Longfield Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-17:00; Su 10:00-16:00"
+opening_hours: Mo-Fr 08:30-18:00; Sa 08:30-17:00; Su 10:00-16:00
 website: ""

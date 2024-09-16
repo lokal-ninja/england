@@ -1,11 +1,11 @@
 id: 903224556
-type: way
+type: node
 latitude: 52.81327
 longitude: -2.11919
-postcode: "ST16 3AX"
+postcode: ST16 3AX
 city: Stafford
-street: "Browning Street"
-housenumber: 25
+street: Browning Street
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

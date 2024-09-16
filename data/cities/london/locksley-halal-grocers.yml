@@ -1,11 +1,11 @@
 id: 190983532
-type: way
+type: node
 latitude: 51.5134
 longitude: -0.03286
-postcode: "E14 7PG"
+postcode: E14 7PG
 city: London
-street: "Salmon Lane"
-housenumber: 137
-phone: "+44 20 7538 8393"
+street: Salmon Lane
+housenumber: "137"
+phone: +44 20 7538 8393
 opening_hours: ""
 website: ""

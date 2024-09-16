@@ -1,11 +1,11 @@
 id: 984963563
-type: way
+type: node
 latitude: 52.06227
 longitude: -1.33862
-postcode: "OX16 5NA"
+postcode: OX16 5NA
 city: Banbury
-street: "Parsons Street"
-housenumber: 38
+street: Parsons Street
+housenumber: "38"
 phone: ""
 opening_hours: ""
-website: "http://banburyartframing.com/"
+website: http://banburyartframing.com/

@@ -2,10 +2,10 @@ id: 11123910997
 type: node
 latitude: 54.68372
 longitude: -1.2134
-postcode: "TS24 7RY"
+postcode: TS24 7RY
 city: Hartlepool
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-18:00; Su 10:00-16:00"
-website: "https://www.iceland.co.uk/store-finder/store?StoreID=100&StoreName=HARTLEPOOL"
+opening_hours: Mo-Sa 08:00-18:00; Su 10:00-16:00
+website: https://www.iceland.co.uk/store-finder/store?StoreID=100&StoreName=HARTLEPOOL

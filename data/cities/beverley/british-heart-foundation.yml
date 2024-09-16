@@ -1,11 +1,11 @@
 id: 1218599460
-type: way
+type: node
 latitude: 53.84193
 longitude: -0.42942
-postcode: "HU17 9AA"
+postcode: HU17 9AA
 city: Beverley
-street: "Toll Gavel"
-housenumber: 49
-phone: "01482 868346"
+street: Toll Gavel
+housenumber: "49"
+phone: 01482 868346
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 163755375
-type: way
+type: node
 latitude: 51.01571
 longitude: -3.09244
-postcode: "TA1 3ES"
+postcode: TA1 3ES
 city: Taunton
-street: "East Reach"
-housenumber: 40
+street: East Reach
+housenumber: "40"
 phone: ""
 opening_hours: ""
-website: "https://www.tauntonleisure.com/"
+website: https://www.tauntonleisure.com/

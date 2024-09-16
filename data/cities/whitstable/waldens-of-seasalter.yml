@@ -1,11 +1,11 @@
 id: 147374042
-type: way
+type: node
 latitude: 51.34597
 longitude: 0.97119
-postcode: "CT5 4BW"
+postcode: CT5 4BW
 city: Whitstable
-street: "Faversham Road"
-housenumber: 400
+street: Faversham Road
+housenumber: "400"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 521369847
-type: way
+type: node
 latitude: 50.73318
 longitude: -2.75636
-postcode: "DT6 3LF"
+postcode: DT6 3LF
 city: Bridport
-street: "East Street"
-housenumber: 32
+street: East Street
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

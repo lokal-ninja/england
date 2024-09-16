@@ -1,11 +1,11 @@
 id: 171357363
-type: way
+type: node
 latitude: 52.62933
 longitude: 1.2934
-postcode: "NR2 1AT"
+postcode: NR2 1AT
 city: Norwich
-street: "Exchange Street"
-housenumber: 6
+street: Exchange Street
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "https://norwichcosmeticclinic.com/"
+website: https://norwichcosmeticclinic.com/

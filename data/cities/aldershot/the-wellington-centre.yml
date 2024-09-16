@@ -1,11 +1,11 @@
 id: 1178811825
-type: way
+type: node
 latitude: 51.24889
 longitude: -0.76404
-postcode: "GU11 1DB"
+postcode: GU11 1DB
 city: Aldershot
-street: "Wellington Centre"
-housenumber: 
-phone: "+44 1252 315315"
-opening_hours: "Mo-Sa 09:00-17:30; Su 10:00-16:00"
-website: "https://www.thewellingtoncentre.co.uk/"
+street: Wellington Centre
+housenumber: ""
+phone: +44 1252 315315
+opening_hours: Mo-Sa 09:00-17:30; Su 10:00-16:00
+website: https://www.thewellingtoncentre.co.uk/

@@ -1,11 +1,11 @@
 id: 256055841
-type: way
+type: node
 latitude: 52.28407
 longitude: -1.58118
-postcode: "CV34 4NE"
+postcode: CV34 4NE
 city: Warwick
-street: "St John's"
-housenumber: 33
-phone: "+44 1926 494161"
-opening_hours: "06:00-23:00"
+street: St John's
+housenumber: "33"
+phone: +44 1926 494161
+opening_hours: 06:00-23:00
 website: ""

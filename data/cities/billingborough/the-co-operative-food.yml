@@ -1,11 +1,11 @@
 id: 362085692
-type: way
+type: node
 latitude: 52.89368
 longitude: -0.34184
-postcode: "NG34 0QA"
+postcode: NG34 0QA
 city: Billingborough
-street: "High Street"
-housenumber: 32
+street: High Street
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.coop.co.uk/store-finder/NG34-0QA/34-high-street"
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.coop.co.uk/store-finder/NG34-0QA/34-high-street

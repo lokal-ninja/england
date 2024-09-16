@@ -1,11 +1,11 @@
 id: 1223281337
-type: way
+type: node
 latitude: 54.57557
 longitude: -1.2427
-postcode: "TS1 5JD"
+postcode: TS1 5JD
 city: Middlesbrough
-street: "Newport Road"
-housenumber: 94
+street: Newport Road
+housenumber: "94"
 phone: ""
 opening_hours: ""
 website: ""

@@ -2,10 +2,10 @@ id: 5157012195
 type: node
 latitude: 50.6553
 longitude: -1.15183
-postcode: "PO36 8AQ"
+postcode: PO36 8AQ
 city: Sandown
-street: "High Street"
-housenumber: 87
+street: High Street
+housenumber: "87"
 phone: ""
 opening_hours: ""
 website: ""

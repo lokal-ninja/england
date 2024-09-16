@@ -1,11 +1,11 @@
 id: 150568027
-type: way
+type: node
 latitude: 51.48408
 longitude: -0.2016
-postcode: "SW6 1NJ"
+postcode: SW6 1NJ
 city: London
-street: "North End Road"
-housenumber: 266
+street: North End Road
+housenumber: "266"
 phone: ""
 opening_hours: ""
 website: ""

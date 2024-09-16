@@ -1,11 +1,11 @@
 id: 936224661
-type: way
+type: node
 latitude: 53.79826
 longitude: -1.57632
-postcode: "LS12 2QN"
+postcode: LS12 2QN
 city: Leeds
-street: "Armley Road"
-housenumber: 120
-phone: "+44 113 2798606"
-opening_hours: "24/7"
-website: "https://www.spar.co.uk/store-locator/hal27716-spar-euro-garage-armley-road"
+street: Armley Road
+housenumber: "120"
+phone: +44 113 2798606
+opening_hours: 24/7
+website: https://www.spar.co.uk/store-locator/hal27716-spar-euro-garage-armley-road

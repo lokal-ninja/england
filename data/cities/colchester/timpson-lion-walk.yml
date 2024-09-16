@@ -1,11 +1,11 @@
 id: 687432113
-type: way
+type: node
 latitude: 51.88805
 longitude: 0.90036
-postcode: "CO1 1LX"
+postcode: CO1 1LX
 city: Colchester
-street: "Lion Walk"
-housenumber: 1
+street: Lion Walk
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

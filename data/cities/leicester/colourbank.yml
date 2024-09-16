@@ -1,11 +1,12 @@
 id: 523296328
-type: way
+type: node
 latitude: 52.6549
 longitude: -1.08972
-postcode: "LE4 9EX"
+postcode: LE4 9EX
 city: Leicester
-street: "Crest Rise"
-housenumber: 45
-phone: "+44 116 276 7660"
-opening_hours: "Mo-Th 09:00-18:00; Fr 09:00-19:00; Sa 09:00-18:00; Su 10:00-16:00; PH 10:00-16:00"
-website: "https://www.colourbank.net/"
+street: Crest Rise
+housenumber: "45"
+phone: +44 116 276 7660
+opening_hours: Mo-Th 09:00-18:00; Fr 09:00-19:00; Sa 09:00-18:00; Su 10:00-16:00;
+    PH 10:00-16:00
+website: https://www.colourbank.net/

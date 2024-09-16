@@ -1,11 +1,11 @@
 id: 203291558
-type: way
+type: node
 latitude: 51.57947
 longitude: -0.02139
-postcode: "E17 8PX"
+postcode: E17 8PX
 city: London
-street: "Queens Road"
-housenumber: 50
+street: Queens Road
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

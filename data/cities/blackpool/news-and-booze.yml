@@ -1,11 +1,11 @@
 id: 1134078926
-type: way
+type: node
 latitude: 53.81988
 longitude: -3.05272
-postcode: "FY1 1LL"
+postcode: FY1 1LL
 city: Blackpool
-street: "Talbot Road"
-housenumber: 25
+street: Talbot Road
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

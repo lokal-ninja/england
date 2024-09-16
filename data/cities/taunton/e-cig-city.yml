@@ -1,11 +1,11 @@
 id: 273064166
-type: way
+type: node
 latitude: 51.01459
 longitude: -3.10006
-postcode: "TA1 3LP"
+postcode: TA1 3LP
 city: Taunton
-street: "East Street"
-housenumber: 17
+street: East Street
+housenumber: "17"
 phone: ""
 opening_hours: ""
-website: "https://ecigcity.co.uk"
+website: https://ecigcity.co.uk

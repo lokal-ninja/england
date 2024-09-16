@@ -1,11 +1,11 @@
 id: 554973194
-type: way
+type: node
 latitude: 53.86217
 longitude: -1.68779
-postcode: "LS19 7RW"
+postcode: LS19 7RW
 city: Leeds
-street: "Henshaw Lane"
-housenumber: 38
+street: Henshaw Lane
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

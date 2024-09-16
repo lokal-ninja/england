@@ -1,11 +1,11 @@
 id: 1190069588
-type: way
+type: node
 latitude: 50.98054
 longitude: -3.20744
-postcode: "TA21 9FN"
+postcode: TA21 9FN
 city: Wellington
-street: "Westpark"
-housenumber: 
-phone: "+44 1823 653100"
-opening_hours: "Mo-Fr 08:30-17:30, Sa, Su, PH off"
-website: "https://www.dcdi.co.uk"
+street: Westpark
+housenumber: ""
+phone: +44 1823 653100
+opening_hours: Mo-Fr 08:30-17:30, Sa, Su, PH off
+website: https://www.dcdi.co.uk

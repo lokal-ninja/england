@@ -1,11 +1,11 @@
 id: 98768025
-type: way
+type: node
 latitude: 51.7313
 longitude: 0.67734
-postcode: "CM9 5PN"
+postcode: CM9 5PN
 city: Maldon
-street: "High Street"
+street: High Street
 housenumber: 40;42
 phone: ""
-opening_hours: "Mo-Sa 08:00-18:00; Su 10:00-16:00"
+opening_hours: Mo-Sa 08:00-18:00; Su 10:00-16:00
 website: ""

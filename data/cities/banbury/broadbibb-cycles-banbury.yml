@@ -1,11 +1,11 @@
 id: 930965046
-type: way
+type: node
 latitude: 52.06022
 longitude: -1.33271
-postcode: "OX16 5BH"
+postcode: OX16 5BH
 city: Banbury
-street: "George Street"
-housenumber: 1
+street: George Street
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

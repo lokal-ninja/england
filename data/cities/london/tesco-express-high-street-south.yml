@@ -1,11 +1,11 @@
 id: 624408121
-type: way
+type: node
 latitude: 51.52606
 longitude: 0.05689
-postcode: "E6 3PA"
+postcode: E6 3PA
 city: London
-street: "High Street South"
-housenumber: 189
+street: High Street South
+housenumber: "189"
 phone: ""
-opening_hours: "Mo-Su 06:00-23:00"
+opening_hours: Mo-Su 06:00-23:00
 website: ""

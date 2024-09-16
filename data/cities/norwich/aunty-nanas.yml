@@ -1,11 +1,11 @@
 id: 123525352
-type: way
+type: node
 latitude: 52.63083
 longitude: 1.29007
-postcode: "NR2 4AQ"
+postcode: NR2 4AQ
 city: Norwich
-street: "Saint Benedicts Street"
-housenumber: 
+street: Saint Benedicts Street
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

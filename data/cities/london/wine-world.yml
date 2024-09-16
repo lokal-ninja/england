@@ -1,11 +1,11 @@
 id: 204729884
-type: way
+type: node
 latitude: 51.46043
 longitude: -0.17594
-postcode: "SW11 1TD"
+postcode: SW11 1TD
 city: London
-street: "Saint John's Hill"
-housenumber: 141
+street: Saint John's Hill
+housenumber: "141"
 phone: ""
 opening_hours: ""
 website: ""

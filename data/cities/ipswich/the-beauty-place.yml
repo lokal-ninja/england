@@ -2,10 +2,10 @@ id: 5712151955
 type: node
 latitude: 52.04474
 longitude: 1.17242
-postcode: "IP3 0PQ"
+postcode: IP3 0PQ
 city: Ipswich
-street: "Cliff Lane"
-housenumber: 97
-phone: "+44 1473 232353"
-opening_hours: "Mo-Fr 9:00-17:00; Th 9:00-19:00; Sa 9:00-16:00"
-website: "https://thebeauty.place/"
+street: Cliff Lane
+housenumber: "97"
+phone: +44 1473 232353
+opening_hours: Mo-Fr 9:00-17:00; Th 9:00-19:00; Sa 9:00-16:00
+website: https://thebeauty.place/

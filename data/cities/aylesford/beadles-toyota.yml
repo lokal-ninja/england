@@ -1,11 +1,11 @@
 id: 475463426
-type: way
+type: node
 latitude: 51.29234
 longitude: 0.4702
-postcode: "ME20 7UB"
+postcode: ME20 7UB
 city: Aylesford
-street: "Wood Close"
-housenumber: 13
-phone: "+44 1622 525939"
+street: Wood Close
+housenumber: "13"
+phone: +44 1622 525939
 opening_hours: ""
-website: "http://www.beadles-vauxhall.co.uk/"
+website: http://www.beadles-vauxhall.co.uk/

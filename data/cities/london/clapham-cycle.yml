@@ -1,11 +1,11 @@
 id: 1078760611
-type: way
+type: node
 latitude: 51.46401
 longitude: -0.16367
-postcode: "SW11 1JD"
+postcode: SW11 1JD
 city: London
-street: "Lavender Hill"
-housenumber: 255
-phone: "+44 20 3305 8261"
-opening_hours: "Mo-Fr 10:00-18:30; Sa 09:00-16:30"
-website: "https://www.claphamcycle.com"
+street: Lavender Hill
+housenumber: "255"
+phone: +44 20 3305 8261
+opening_hours: Mo-Fr 10:00-18:30; Sa 09:00-16:30
+website: https://www.claphamcycle.com

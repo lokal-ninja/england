@@ -1,11 +1,11 @@
 id: 464811691
-type: way
+type: node
 latitude: 51.44689
 longitude: -2.59913
-postcode: "BS1 6WP"
+postcode: BS1 6WP
 city: Bristol
-street: "Gaol Ferry Steps"
-housenumber: 
+street: Gaol Ferry Steps
+housenumber: ""
 phone: ""
-opening_hours: "We-Th 16:00-19:00; Fr-Sa 12:00-19:00; Su 12:00-17:00"
-website: "https://corksofbristol.com/cargo/"
+opening_hours: We-Th 16:00-19:00; Fr-Sa 12:00-19:00; Su 12:00-17:00
+website: https://corksofbristol.com/cargo/

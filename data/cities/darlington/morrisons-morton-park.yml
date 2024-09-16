@@ -1,11 +1,11 @@
 id: 92723658
-type: way
+type: node
 latitude: 54.52011
 longitude: -1.50148
-postcode: "DL1 4PJ"
+postcode: DL1 4PJ
 city: Darlington
-street: "Morton Park"
-housenumber: 
+street: Morton Park
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 06:00-10:00; Su 10:00-16:00"
-website: "https://my.morrisons.com/storefinder/124/darlington-morton-park"
+opening_hours: Mo-Sa 06:00-10:00; Su 10:00-16:00
+website: https://my.morrisons.com/storefinder/124/darlington-morton-park

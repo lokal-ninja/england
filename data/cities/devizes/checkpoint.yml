@@ -1,11 +1,11 @@
 id: 262020988
-type: way
+type: node
 latitude: 51.35408
 longitude: -1.99441
 postcode: ""
 city: Devizes
-street: "New Park Street"
-housenumber: 42
+street: New Park Street
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Fr 08:30-17:00; Sa 08:30-12:30"
+opening_hours: Mo-Fr 08:30-17:00; Sa 08:30-12:30
 website: ""

@@ -1,11 +1,11 @@
 id: 314019578
-type: way
+type: node
 latitude: 50.83894
 longitude: 0.47333
-postcode: "TN40 1BA"
+postcode: TN40 1BA
 city: Bexhill-on-Sea
-street: "Devonshire Road"
-housenumber: 36
+street: Devonshire Road
+housenumber: "36"
 phone: ""
-opening_hours: "Mo-Sa 09:00-17:00"
+opening_hours: Mo-Sa 09:00-17:00
 website: ""

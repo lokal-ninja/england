@@ -1,11 +1,11 @@
 id: 116105474
-type: way
+type: node
 latitude: 53.36406
 longitude: -1.54556
-postcode: "S10 4GA"
+postcode: S10 4GA
 city: Sheffield
-street: "Brooklands Avenue"
-housenumber: 2
+street: Brooklands Avenue
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.coop.co.uk/store-finder/S10-4GA/2-brooklands-avenue"
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.coop.co.uk/store-finder/S10-4GA/2-brooklands-avenue

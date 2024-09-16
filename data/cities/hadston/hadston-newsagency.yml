@@ -2,10 +2,10 @@ id: 2324645277
 type: node
 latitude: 55.29401
 longitude: -1.6031
-postcode: "NE65 9YF"
+postcode: NE65 9YF
 city: Hadston
 street: ""
-housenumber: 16
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1148906999
-type: way
+type: node
 latitude: 53.42633
 longitude: -1.48409
-postcode: "S5 8AU"
+postcode: S5 8AU
 city: Sheffield
-street: "Buchanan Road"
-housenumber: 277
+street: Buchanan Road
+housenumber: "277"
 phone: ""
 opening_hours: ""
 website: ""

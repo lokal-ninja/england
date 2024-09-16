@@ -1,11 +1,11 @@
 id: 968530786
-type: way
+type: node
 latitude: 52.43649
 longitude: 0.60673
-postcode: "IP27 0NZ"
+postcode: IP27 0NZ
 city: Brandon
-street: "Wimbledon Avenue"
-housenumber: 40
+street: Wimbledon Avenue
+housenumber: "40"
 phone: ""
-opening_hours: "Mo-Fr 07:30-17:00; Sa 08:00-12:00; Su closed"
-website: "https://www.travisperkins.co.uk/branch-locator/3754"
+opening_hours: Mo-Fr 07:30-17:00; Sa 08:00-12:00; Su closed
+website: https://www.travisperkins.co.uk/branch-locator/3754

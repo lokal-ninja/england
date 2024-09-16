@@ -2,10 +2,10 @@ id: 6758815841
 type: node
 latitude: 50.82463
 longitude: -0.15172
-postcode: "BN1 2LB"
+postcode: BN1 2LB
 city: Brighton
-street: "Western Road"
-housenumber: 92
+street: Western Road
+housenumber: "92"
 phone: ""
 opening_hours: ""
 website: ""

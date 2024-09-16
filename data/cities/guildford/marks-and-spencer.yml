@@ -2,10 +2,11 @@ id: 281457874
 type: node
 latitude: 51.23539
 longitude: -0.5748
-postcode: "GU1 3EB"
+postcode: GU1 3EB
 city: Guildford
-street: "High Street"
-housenumber: 61
-phone: "+44 1483 502420"
-opening_hours: "Mo-We 08:30-19:00; Th 08:30-20:00; Fr 08:30-19:00; Sa 08:00-19:00; Su 11:00-17:00"
+street: High Street
+housenumber: "61"
+phone: +44 1483 502420
+opening_hours: Mo-We 08:30-19:00; Th 08:30-20:00; Fr 08:30-19:00; Sa 08:00-19:00;
+    Su 11:00-17:00
 website: ""

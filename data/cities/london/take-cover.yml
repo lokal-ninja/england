@@ -1,11 +1,11 @@
 id: 367067237
-type: way
+type: node
 latitude: 51.52177
 longitude: -0.17197
-postcode: "W2 1EB"
+postcode: W2 1EB
 city: London
-street: "Edgware Road"
-housenumber: 376
+street: Edgware Road
+housenumber: "376"
 phone: ""
 opening_hours: ""
 website: ""

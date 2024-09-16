@@ -1,11 +1,11 @@
 id: 108746228
-type: way
+type: node
 latitude: 54.77696
 longitude: -1.58125
-postcode: "DH1 4EY"
+postcode: DH1 4EY
 city: Durham
-street: "Neville Street"
-housenumber: 34
+street: Neville Street
+housenumber: "34"
 phone: ""
 opening_hours: ""
-website: "https://barberofneville.nearcut.com/"
+website: https://barberofneville.nearcut.com/

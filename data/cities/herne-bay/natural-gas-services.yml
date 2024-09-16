@@ -1,11 +1,11 @@
 id: 567929594
-type: way
+type: node
 latitude: 51.36626
 longitude: 1.11056
-postcode: "CT6 8RY"
+postcode: CT6 8RY
 city: Herne Bay
-street: "Central Avenue"
-housenumber: 1
+street: Central Avenue
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

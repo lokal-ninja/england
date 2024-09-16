@@ -1,11 +1,11 @@
 id: 264127752
-type: way
+type: node
 latitude: 51.51653
 longitude: -0.06899
-postcode: "E1 1DU"
+postcode: E1 1DU
 city: London
-street: "Whitechapel Road"
-housenumber: 21
+street: Whitechapel Road
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

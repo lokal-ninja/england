@@ -1,11 +1,11 @@
 id: 1257911464
-type: way
+type: node
 latitude: 54.48638
 longitude: -0.6142
-postcode: "YO21 1BL"
+postcode: YO21 1BL
 city: Whitby
-street: "Baxtergate"
-housenumber: 71
+street: Baxtergate
+housenumber: "71"
 phone: ""
 opening_hours: ""
 website: ""

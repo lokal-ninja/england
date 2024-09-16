@@ -1,11 +1,11 @@
 id: 263295813
-type: way
+type: node
 latitude: 51.4711
 longitude: -2.59284
-postcode: "BS7 8AA"
+postcode: BS7 8AA
 city: Bristol
-street: "Gloucester Road"
-housenumber: 33
-phone: "+44 117 942 9370"
-opening_hours: "Mo-Sa 10:00-18:00"
-website: "http://www.paulrobertshifi.co.uk/"
+street: Gloucester Road
+housenumber: "33"
+phone: +44 117 942 9370
+opening_hours: Mo-Sa 10:00-18:00
+website: http://www.paulrobertshifi.co.uk/

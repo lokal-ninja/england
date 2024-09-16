@@ -1,11 +1,11 @@
 id: 377388283
-type: way
+type: node
 latitude: 51.43798
 longitude: -2.60376
 postcode: ""
 city: Bristol
-street: "West Street"
-housenumber: 82
+street: West Street
+housenumber: "82"
 phone: ""
 opening_hours: ""
 website: ""

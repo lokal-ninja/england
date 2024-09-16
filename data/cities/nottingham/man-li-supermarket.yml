@@ -2,10 +2,10 @@ id: 1264748064
 type: node
 latitude: 52.95903
 longitude: -1.14384
-postcode: "NG3 1FN"
+postcode: NG3 1FN
 city: Nottingham
-street: "Union Road"
-housenumber: 49
+street: Union Road
+housenumber: "49"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1238331945
-type: way
+type: node
 latitude: 50.61232
 longitude: -2.45532
-postcode: "DT4 7DQ"
+postcode: DT4 7DQ
 city: Weymouth
-street: "Park Street"
-housenumber: 18
+street: Park Street
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

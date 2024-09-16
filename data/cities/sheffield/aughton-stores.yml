@@ -1,11 +1,11 @@
 id: 656097395
-type: way
+type: node
 latitude: 53.37256
 longitude: -1.31832
-postcode: "S26 3XJ"
+postcode: S26 3XJ
 city: Sheffield
-street: "Main Street"
-housenumber: 14
+street: Main Street
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

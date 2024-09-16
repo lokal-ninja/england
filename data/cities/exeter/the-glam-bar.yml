@@ -2,10 +2,10 @@ id: 10086021910
 type: node
 latitude: 50.72498
 longitude: -3.53185
-postcode: "EX4 3NB"
+postcode: EX4 3NB
 city: Exeter
-street: "Upper Paul Street"
-housenumber: 2
+street: Upper Paul Street
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.theglambarexeter.co.uk/"
+website: https://www.theglambarexeter.co.uk/

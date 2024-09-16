@@ -1,11 +1,11 @@
 id: 222493841
-type: way
+type: node
 latitude: 53.51352
 longitude: -2.3358
-postcode: "M27 4BT"
+postcode: M27 4BT
 city: Swinton
-street: "Swinton Hall Road"
-housenumber: 49
+street: Swinton Hall Road
+housenumber: "49"
 phone: ""
 opening_hours: ""
-website: "https://my.morrisons.com/storefinder/217/swinton"
+website: https://my.morrisons.com/storefinder/217/swinton

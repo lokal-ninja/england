@@ -1,11 +1,11 @@
 id: 566375761
-type: way
+type: node
 latitude: 51.51475
 longitude: -0.12705
-postcode: "WC2H 9EA"
+postcode: WC2H 9EA
 city: London
-street: "Monmouth Street"
-housenumber: 4
+street: Monmouth Street
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

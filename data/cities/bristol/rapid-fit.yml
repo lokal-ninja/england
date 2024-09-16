@@ -1,11 +1,11 @@
 id: 627894690
-type: way
+type: node
 latitude: 51.48618
 longitude: -2.76798
-postcode: "BS20 7HW"
+postcode: BS20 7HW
 city: Bristol
-street: "Cabstand"
-housenumber: 6
+street: Cabstand
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

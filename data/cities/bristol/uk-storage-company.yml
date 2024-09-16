@@ -1,11 +1,11 @@
 id: 128137468
-type: way
+type: node
 latitude: 51.44374
 longitude: -2.59079
-postcode: "BS3 4AY"
+postcode: BS3 4AY
 city: Bristol
-street: "Whitehouse Street"
-housenumber: 10
-phone: "+44 117 9660277"
-opening_hours: "Mo-Sa 08:30-19:00; Su 09:00-17:00"
-website: "https://www.ukstoragecompany.co.uk/storage-central-bristol"
+street: Whitehouse Street
+housenumber: "10"
+phone: +44 117 9660277
+opening_hours: Mo-Sa 08:30-19:00; Su 09:00-17:00
+website: https://www.ukstoragecompany.co.uk/storage-central-bristol

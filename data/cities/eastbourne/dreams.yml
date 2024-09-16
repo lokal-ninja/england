@@ -1,11 +1,12 @@
 id: 821625189
-type: way
+type: node
 latitude: 50.79531
 longitude: 0.28399
-postcode: "BN23 6QU"
+postcode: BN23 6QU
 city: Eastbourne
-street: "Marshall Road"
+street: Marshall Road
 housenumber: Unit 2B
-phone: "+44 1323 520813"
-opening_hours: ""
-website: ""
+phone: +44 1323 520813
+opening_hours: Mo 10:00-20:00; Tu-We 10:00-18:00; Th-Fr 10:00-20:00; Sa 09:00-18:00;
+    Su 11:00-17:00
+website: https://www.dreams.co.uk/store/eastbourne

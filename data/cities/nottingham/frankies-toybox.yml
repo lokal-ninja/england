@@ -1,11 +1,11 @@
 id: 319457671
-type: way
+type: node
 latitude: 52.90473
 longitude: -1.28326
-postcode: "NG10 4NN"
+postcode: NG10 4NN
 city: Nottingham
-street: "College Street"
-housenumber: 81
+street: College Street
+housenumber: "81"
 phone: ""
 opening_hours: ""
 website: ""

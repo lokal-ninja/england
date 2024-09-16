@@ -1,11 +1,11 @@
 id: 346359655
-type: way
+type: node
 latitude: 51.51561
 longitude: -0.13552
-postcode: "W1F 8FZ"
+postcode: W1F 8FZ
 city: London
-street: "Wardour Street"
-housenumber: 180
+street: Wardour Street
+housenumber: "180"
 phone: ""
 opening_hours: ""
-website: "https://www.ryman.co.uk/storefinder/ryman-wardour-street/"
+website: https://www.ryman.co.uk/storefinder/ryman-wardour-street/

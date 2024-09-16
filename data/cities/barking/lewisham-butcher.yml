@@ -1,11 +1,11 @@
 id: 313767028
-type: way
+type: node
 latitude: 51.53649
 longitude: 0.0773
-postcode: "IG11 8ET"
+postcode: IG11 8ET
 city: Barking
-street: "East Street"
-housenumber: 3
+street: East Street
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

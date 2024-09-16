@@ -1,11 +1,11 @@
 id: 222694904
-type: way
+type: node
 latitude: 51.47703
 longitude: -0.05846
-postcode: "SE15 2LW"
+postcode: SE15 2LW
 city: London
-street: "Asylum Road"
-housenumber: 46
+street: Asylum Road
+housenumber: "46"
 phone: ""
 opening_hours: ""
 website: ""

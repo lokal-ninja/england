@@ -1,11 +1,11 @@
 id: 549827414
-type: way
+type: node
 latitude: 52.77338
 longitude: -1.55788
-postcode: "DE11 9DG"
+postcode: DE11 9DG
 city: Swadlincote
-street: "West Street"
-housenumber: 13
-phone: "+441283 212072"
-opening_hours: "Mo-Sa 09:00-16:00"
-website: "https://www.forevermobility.co.uk/"
+street: West Street
+housenumber: "13"
+phone: +441283 212072
+opening_hours: Mo-Sa 09:00-16:00
+website: https://www.forevermobility.co.uk/

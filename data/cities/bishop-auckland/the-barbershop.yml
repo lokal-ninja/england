@@ -1,11 +1,11 @@
 id: 969284163
-type: way
+type: node
 latitude: 54.66545
 longitude: -1.6766
-postcode: "DL14 7PG"
+postcode: DL14 7PG
 city: Bishop Auckland
-street: "North Bondgate"
-housenumber: 27
+street: North Bondgate
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

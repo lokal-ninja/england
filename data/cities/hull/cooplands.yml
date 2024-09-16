@@ -1,11 +1,11 @@
 id: 200324535
-type: way
+type: node
 latitude: 53.75698
 longitude: -0.44629
-postcode: "HU10 7UA"
+postcode: HU10 7UA
 city: Hull
-street: "The Square"
-housenumber: 5
+street: The Square
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

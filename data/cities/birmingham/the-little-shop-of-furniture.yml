@@ -1,11 +1,11 @@
 id: 372866761
-type: way
+type: node
 latitude: 52.48452
 longitude: -1.81029
-postcode: "B33 8BA"
+postcode: B33 8BA
 city: Birmingham
-street: "Station Road"
-housenumber: 151
+street: Station Road
+housenumber: "151"
 phone: ""
 opening_hours: ""
 website: ""

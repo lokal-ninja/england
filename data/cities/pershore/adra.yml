@@ -1,11 +1,11 @@
 id: 358698512
-type: way
+type: node
 latitude: 52.11144
 longitude: -2.07612
-postcode: "WR10 1DT"
+postcode: WR10 1DT
 city: Pershore
-street: "Church Street"
-housenumber: 5
+street: Church Street
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

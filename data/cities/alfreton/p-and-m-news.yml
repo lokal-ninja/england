@@ -1,11 +1,11 @@
 id: 279479346
-type: way
+type: node
 latitude: 53.10551
 longitude: -1.34248
-postcode: "DE55 2AA"
+postcode: DE55 2AA
 city: Alfreton
-street: "Market Street"
-housenumber: 129
+street: Market Street
+housenumber: "129"
 phone: ""
 opening_hours: ""
 website: ""

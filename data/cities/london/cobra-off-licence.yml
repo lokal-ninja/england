@@ -2,10 +2,10 @@ id: 7841140124
 type: node
 latitude: 51.51771
 longitude: -0.06276
-postcode: "E1 1HJ"
+postcode: E1 1HJ
 city: London
-street: "New Road"
-housenumber: 109
+street: New Road
+housenumber: "109"
 phone: ""
 opening_hours: ""
 website: ""

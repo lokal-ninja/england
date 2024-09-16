@@ -1,11 +1,11 @@
 id: 186827622
-type: way
+type: node
 latitude: 53.74848
 longitude: -0.42398
-postcode: "HU10 6RJ"
+postcode: HU10 6RJ
 city: Hull
-street: "Springfield Way"
-housenumber: 
+street: Springfield Way
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 10:00-16:00"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 10:00-16:00
 website: ""

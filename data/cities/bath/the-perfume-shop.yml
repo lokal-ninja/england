@@ -1,11 +1,11 @@
 id: 380826084
-type: way
+type: node
 latitude: 51.37987
 longitude: -2.35995
-postcode: "BA1 1QF"
+postcode: BA1 1QF
 city: Bath
-street: "Stall Street"
-housenumber: 22
+street: Stall Street
+housenumber: "22"
 phone: "+441225447750"
-opening_hours: "Mo-Sa 09:00-18:00; Su 11:00-17:00"
-website: "https://www.theperfumeshop.com/store/bath-the-perfume-shop"
+opening_hours: Mo-Sa 09:00-18:00; Su 11:00-17:00
+website: https://www.theperfumeshop.com/store/bath-the-perfume-shop

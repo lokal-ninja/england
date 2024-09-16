@@ -1,11 +1,11 @@
 id: 694135247
-type: way
+type: node
 latitude: 51.45619
 longitude: -0.30896
-postcode: "TW1 2EB"
+postcode: TW1 2EB
 city: Twickenham
-street: "Richmond Road"
-housenumber: 414
+street: Richmond Road
+housenumber: "414"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00; Su 11:00-17:00"
+opening_hours: Mo-Sa 10:00-19:00; Su 11:00-17:00
 website: ""

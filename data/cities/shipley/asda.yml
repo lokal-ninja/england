@@ -1,11 +1,11 @@
 id: 42619337
-type: way
+type: node
 latitude: 53.83209
 longitude: -1.78058
-postcode: "BD18 3RY"
+postcode: BD18 3RY
 city: Shipley
-street: "Manor Lane"
-housenumber: 
+street: Manor Lane
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 06:00-24:00; Sa 06:00-22:00; Su 10:00-16:00"
+opening_hours: Mo-Fr 06:00-24:00; Sa 06:00-22:00; Su 10:00-16:00
 website: ""

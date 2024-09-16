@@ -1,11 +1,11 @@
 id: 993023574
-type: way
+type: node
 latitude: 52.07242
 longitude: -0.24218
-postcode: "SG18 8TQ"
+postcode: SG18 8TQ
 city: Biggleswade
-street: "Pegasus Drive"
-housenumber: 
-phone: "+44 3456 070276"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 10:00-16:00"
-website: "https://community.petsathome.com/store/biggleswade/"
+street: Pegasus Drive
+housenumber: ""
+phone: +44 3456 070276
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 10:00-16:00
+website: https://community.petsathome.com/store/biggleswade/

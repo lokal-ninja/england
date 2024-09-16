@@ -1,11 +1,11 @@
 id: 885710621
-type: way
+type: node
 latitude: 51.34455
 longitude: 1.39889
-postcode: "CT12 6PP"
+postcode: CT12 6PP
 city: Ramsgate
-street: "Newington Road"
-housenumber: 73
+street: Newington Road
+housenumber: "73"
 phone: ""
 opening_hours: ""
 website: ""

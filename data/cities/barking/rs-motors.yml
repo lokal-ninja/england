@@ -1,11 +1,11 @@
 id: 1127335034
-type: way
+type: node
 latitude: 51.52768
 longitude: 0.09426
-postcode: "IG11 0HE"
+postcode: IG11 0HE
 city: Barking
-street: "River Road"
-housenumber: 17
+street: River Road
+housenumber: "17"
 phone: ""
 opening_hours: ""
-website: "http://www.rs-motors.co.uk"
+website: http://www.rs-motors.co.uk

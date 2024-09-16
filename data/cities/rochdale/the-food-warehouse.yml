@@ -1,11 +1,11 @@
 id: 268961124
-type: way
+type: node
 latitude: 53.62245
 longitude: -2.15518
-postcode: "OL12 0UW"
+postcode: OL12 0UW
 city: Rochdale
-street: "Whitworth Road"
-housenumber: 
-phone: "+44 1706 646616"
-opening_hours: "Mo-Sa 08:00-21:00; Su 10:00-16:00"
-website: "https://www.thefoodwarehouse.com/store-locator/whitworth-road-rochdale"
+street: Whitworth Road
+housenumber: ""
+phone: +44 1706 646616
+opening_hours: Mo-Sa 08:00-21:00; Su 10:00-16:00
+website: https://www.thefoodwarehouse.com/store-locator/whitworth-road-rochdale

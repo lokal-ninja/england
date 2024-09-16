@@ -2,10 +2,10 @@ id: 1832280859
 type: node
 latitude: 52.20726
 longitude: 0.12479
-postcode: "CB1 1LN"
+postcode: CB1 1LN
 city: Cambridge
-street: "King Street"
-housenumber: 76
+street: King Street
+housenumber: "76"
 phone: ""
 opening_hours: ""
-website: "https://webberhairdressing.com/"
+website: https://webberhairdressing.com/

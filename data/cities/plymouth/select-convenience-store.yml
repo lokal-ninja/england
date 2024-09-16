@@ -1,11 +1,11 @@
 id: 917565264
-type: way
+type: node
 latitude: 50.40726
 longitude: -4.13281
-postcode: "PL6 5AH"
+postcode: PL6 5AH
 city: Plymouth
-street: "Morshead Road"
-housenumber: 32
+street: Morshead Road
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://branches.bargainbooze.co.uk/plymouth/32-morshead-road.html"
+opening_hours: Mo-Su 06:00-22:00
+website: https://branches.bargainbooze.co.uk/plymouth/32-morshead-road.html

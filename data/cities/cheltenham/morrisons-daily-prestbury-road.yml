@@ -1,11 +1,11 @@
 id: 169074420
-type: way
+type: node
 latitude: 51.908
 longitude: -2.06133
-postcode: "GL52 2DP"
+postcode: GL52 2DP
 city: Cheltenham
-street: "Prestbury Road"
-housenumber: 116
+street: Prestbury Road
+housenumber: "116"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su 07:00-21:00"
-website: "https://my.morrisons.com/storefinder/30044/morrisons-daily-cheltenham-prestbury-road"
+opening_hours: Mo-Sa 07:00-22:00; Su 07:00-21:00
+website: https://my.morrisons.com/storefinder/30044/morrisons-daily-cheltenham-prestbury-road

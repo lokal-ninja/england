@@ -1,11 +1,11 @@
 id: 412588422
-type: way
+type: node
 latitude: 51.59162
 longitude: -0.03992
 postcode: ""
 city: London
-street: "Blackhorse Lane"
-housenumber: 101
+street: Blackhorse Lane
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

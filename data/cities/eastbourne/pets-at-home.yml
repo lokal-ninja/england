@@ -1,11 +1,11 @@
 id: 683865128
-type: way
+type: node
 latitude: 50.78649
 longitude: 0.3026
-postcode: "BN23 6QD"
+postcode: BN23 6QD
 city: Eastbourne
-street: "Lottbridge Drove"
-housenumber: 
-phone: "+44 345 6009281"
-opening_hours: "Mo-Fr 09:00-20:00, Su 10:00-16:00; Sa 09:00-19:00"
-website: "https://community.petsathome.com/store/eastbourne/"
+street: Lottbridge Drove
+housenumber: ""
+phone: +44 345 6009281
+opening_hours: Mo-Fr 09:00-20:00, Su 10:00-16:00; Sa 09:00-19:00
+website: https://community.petsathome.com/store/eastbourne/

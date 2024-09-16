@@ -1,11 +1,11 @@
 id: 296991208
-type: way
+type: node
 latitude: 51.35107
 longitude: -0.0991
-postcode: "CR2 6ER"
+postcode: CR2 6ER
 city: South Croydon
-street: "Brighton Road"
-housenumber: 365
-phone: "+44 20 8037 5010"
+street: Brighton Road
+housenumber: "365"
+phone: +44 20 8037 5010
 opening_hours: ""
 website: ""

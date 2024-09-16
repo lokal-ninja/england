@@ -2,10 +2,10 @@ id: 11944983987
 type: node
 latitude: 51.58677
 longitude: -0.09598
-postcode: "N15 3PU"
+postcode: N15 3PU
 city: London
-street: "West Green Road"
-housenumber: 418
+street: West Green Road
+housenumber: "418"
 phone: ""
 opening_hours: ""
 website: ""

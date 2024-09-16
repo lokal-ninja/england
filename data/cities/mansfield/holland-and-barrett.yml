@@ -1,11 +1,11 @@
 id: 722349950
-type: way
+type: node
 latitude: 53.14551
 longitude: -1.19831
-postcode: "NG18 1SX"
+postcode: NG18 1SX
 city: Mansfield
 street: ""
-housenumber: 60
+housenumber: "60"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 85639630
-type: way
+type: node
 latitude: 51.80135
 longitude: 1.15271
-postcode: "CO15 3RN"
+postcode: CO15 3RN
 city: Clacton-on-Sea
-street: "Old Road"
-housenumber: 360
+street: Old Road
+housenumber: "360"
 phone: ""
 opening_hours: ""
 website: ""

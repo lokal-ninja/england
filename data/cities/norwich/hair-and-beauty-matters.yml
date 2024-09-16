@@ -1,11 +1,11 @@
 id: 119331014
-type: way
+type: node
 latitude: 52.6237
 longitude: 1.28982
-postcode: "NR1 3SP"
+postcode: NR1 3SP
 city: Norwich
-street: "St Stephens Road"
-housenumber: 11
+street: St Stephens Road
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

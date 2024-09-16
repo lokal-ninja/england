@@ -1,11 +1,11 @@
 id: 434694848
-type: way
+type: node
 latitude: 51.44224
 longitude: -0.03307
-postcode: "SE6 4UE"
+postcode: SE6 4UE
 city: London
-street: "Stanstead Road"
-housenumber: 333
+street: Stanstead Road
+housenumber: "333"
 phone: ""
 opening_hours: ""
 website: ""

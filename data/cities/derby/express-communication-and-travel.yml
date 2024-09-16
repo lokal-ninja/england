@@ -1,11 +1,11 @@
 id: 135737317
-type: way
+type: node
 latitude: 52.91007
 longitude: -1.47805
-postcode: "DE23 6UU"
+postcode: DE23 6UU
 city: Derby
-street: "Normanton Road"
-housenumber: 287
-phone: "+44 1332 224461"
+street: Normanton Road
+housenumber: "287"
+phone: +44 1332 224461
 opening_hours: ""
 website: ""

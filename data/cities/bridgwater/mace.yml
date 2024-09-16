@@ -1,11 +1,11 @@
 id: 78569824
-type: way
+type: node
 latitude: 51.12835
 longitude: -3.00524
-postcode: "TA6 3TQ"
+postcode: TA6 3TQ
 city: Bridgwater
-street: "Angel Place"
-housenumber: 24
+street: Angel Place
+housenumber: "24"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

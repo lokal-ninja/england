@@ -1,11 +1,11 @@
 id: 759895110
-type: way
+type: node
 latitude: 51.27906
 longitude: 1.07979
-postcode: "CT1 2RY"
+postcode: CT1 2RY
 city: Canterbury
-street: "High Street"
-housenumber: 42
-phone: "+44 1227 785395"
-opening_hours: "Mo-Sa 09:00-17:30;Su 10:30-16:30"
-website: "https://www.tui.co.uk/shop-finder/tui-holiday-store-42-high-street-canterbury"
+street: High Street
+housenumber: "42"
+phone: +44 1227 785395
+opening_hours: Mo-Sa 09:00-17:30;Su 10:30-16:30
+website: https://www.tui.co.uk/shop-finder/tui-holiday-store-42-high-street-canterbury

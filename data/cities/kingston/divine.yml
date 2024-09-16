@@ -1,11 +1,11 @@
 id: 1065238775
-type: way
+type: node
 latitude: 51.43089
 longitude: -0.30686
-postcode: "KT2 5PU"
+postcode: KT2 5PU
 city: Kingston
-street: "Richmond Road"
-housenumber: 424
+street: Richmond Road
+housenumber: "424"
 phone: ""
 opening_hours: ""
 website: ""

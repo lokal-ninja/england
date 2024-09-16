@@ -2,10 +2,10 @@ id: 12109215549
 type: node
 latitude: 52.22907
 longitude: -0.98384
-postcode: "NN7 4AS"
+postcode: NN7 4AS
 city: Kislingbury
-street: "Mill Road"
-housenumber: 48
+street: Mill Road
+housenumber: "48"
 phone: ""
-opening_hours: "if the table is out"
+opening_hours: '"if the table is out"'
 website: ""

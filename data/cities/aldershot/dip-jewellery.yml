@@ -1,11 +1,11 @@
 id: 1185690917
-type: way
+type: node
 latitude: 51.24751
 longitude: -0.76122
-postcode: "GU11 1HT"
+postcode: GU11 1HT
 city: Aldershot
-street: "Station Road"
-housenumber: 12
-phone: "+44 1252 319279"
+street: Station Road
+housenumber: "12"
+phone: +44 1252 319279
 opening_hours: ""
 website: ""

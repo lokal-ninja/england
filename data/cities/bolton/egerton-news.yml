@@ -1,11 +1,11 @@
 id: 664603640
-type: way
+type: node
 latitude: 53.63025
 longitude: -2.44182
-postcode: "BL7 9SN"
+postcode: BL7 9SN
 city: Bolton
-street: "Blackburn Road"
-housenumber: 257
+street: Blackburn Road
+housenumber: "257"
 phone: ""
 opening_hours: ""
 website: ""

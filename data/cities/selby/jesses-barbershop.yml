@@ -1,11 +1,11 @@
 id: 1236849825
-type: way
+type: node
 latitude: 53.78355
 longitude: -1.06968
-postcode: "YO8 4QA"
+postcode: YO8 4QA
 city: Selby
-street: "Market Lane"
-housenumber: 5
+street: Market Lane
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

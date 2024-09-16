@@ -1,11 +1,11 @@
 id: 618004598
-type: way
+type: node
 latitude: 51.53244
 longitude: -0.03096
-postcode: "E3 5ES"
+postcode: E3 5ES
 city: London
-street: "Roman Road"
-housenumber: 536
+street: Roman Road
+housenumber: "536"
 phone: ""
 opening_hours: ""
 website: ""

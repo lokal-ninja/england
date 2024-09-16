@@ -1,11 +1,11 @@
 id: 177636870
-type: way
+type: node
 latitude: 51.41517
 longitude: -0.0714
-postcode: "SE20 8DL"
+postcode: SE20 8DL
 city: London
-street: "Anerley Road"
-housenumber: 126
+street: Anerley Road
+housenumber: "126"
 phone: ""
 opening_hours: ""
 website: ""

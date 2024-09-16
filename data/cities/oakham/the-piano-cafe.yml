@@ -1,11 +1,11 @@
 id: 1107384080
-type: way
+type: node
 latitude: 52.66898
 longitude: -0.73069
-postcode: "LE15 6BG"
+postcode: LE15 6BG
 city: Oakham
-street: "South Street"
-housenumber: 61
-phone: "+44 1572 756386"
-opening_hours: "Tu-Sa 10:00-17:30"
-website: "https://www.thepianocafe.com"
+street: South Street
+housenumber: "61"
+phone: +44 1572 756386
+opening_hours: Tu-Sa 10:00-17:30
+website: https://www.thepianocafe.com

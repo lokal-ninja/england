@@ -1,11 +1,11 @@
 id: 1250884018
-type: way
+type: node
 latitude: 52.43611
 longitude: -1.20871
-postcode: "LE17 4HX"
+postcode: LE17 4HX
 city: Lutterworth
-street: "Main Street"
-housenumber: 
+street: Main Street
+housenumber: ""
 phone: ""
-opening_hours: "We-Sa 10:00-16:00; "
-website: "https://www.idletorque.com"
+opening_hours: 'We-Sa 10:00-16:00; '
+website: https://www.idletorque.com

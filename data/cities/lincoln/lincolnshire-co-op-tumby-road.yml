@@ -1,11 +1,11 @@
 id: 202708785
-type: way
+type: node
 latitude: 53.11303
 longitude: -0.15667
-postcode: "LN4 4RQ"
+postcode: LN4 4RQ
 city: Lincoln
-street: "Tumby Road"
-housenumber: 
+street: Tumby Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 06:30-22:00"
+opening_hours: Mo-Su 06:30-22:00
 website: ""

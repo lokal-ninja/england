@@ -1,11 +1,11 @@
 id: 507312569
-type: way
+type: node
 latitude: 51.47542
 longitude: 0.3308
-postcode: "RM17 6BU"
+postcode: RM17 6BU
 city: Grays
-street: "Bridge Road"
-housenumber: 42
+street: Bridge Road
+housenumber: "42"
 phone: ""
 opening_hours: ""
 website: ""

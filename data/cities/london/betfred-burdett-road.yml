@@ -1,11 +1,11 @@
 id: 607798990
-type: way
+type: node
 latitude: 51.51218
 longitude: -0.02812
-postcode: "E14 7DL"
+postcode: E14 7DL
 city: London
-street: "Burdett Road"
-housenumber: 334
+street: Burdett Road
+housenumber: "334"
 phone: ""
 opening_hours: ""
 website: ""

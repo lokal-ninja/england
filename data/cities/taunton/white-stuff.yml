@@ -1,11 +1,11 @@
 id: 273913828
-type: way
+type: node
 latitude: 51.01645
 longitude: -3.10327
-postcode: "TA1 1LW"
+postcode: TA1 1LW
 city: Taunton
-street: "North Street"
-housenumber: 33
-phone: "+44 1823 253301"
-opening_hours: "Mo-Sa 09:30-17:30; Su 11:00-17:00"
-website: "https://www.whitestuff.com/"
+street: North Street
+housenumber: "33"
+phone: +44 1823 253301
+opening_hours: Mo-Sa 09:30-17:30; Su 11:00-17:00
+website: https://www.whitestuff.com/

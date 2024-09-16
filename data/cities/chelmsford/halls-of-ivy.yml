@@ -1,11 +1,11 @@
 id: 1053786586
-type: way
+type: node
 latitude: 51.7346
 longitude: 0.47334
-postcode: "CM1 1BE"
+postcode: CM1 1BE
 city: Chelmsford
-street: "High Street"
-housenumber: 1
-phone: "+44 1708 766395"
-opening_hours: "Mo-Fr 09:00-17:00; Sa-Su off"
-website: "https://www.hallsofivy.co.uk/"
+street: High Street
+housenumber: "1"
+phone: +44 1708 766395
+opening_hours: Mo-Fr 09:00-17:00; Sa-Su off
+website: https://www.hallsofivy.co.uk/

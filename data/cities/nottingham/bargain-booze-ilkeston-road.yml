@@ -1,11 +1,11 @@
 id: 217789114
-type: way
+type: node
 latitude: 52.95569
 longitude: -1.17047
-postcode: "NG7 3HE"
+postcode: NG7 3HE
 city: Nottingham
-street: "Ilkeston Road"
-housenumber: 111
+street: Ilkeston Road
+housenumber: "111"
 phone: ""
 opening_hours: ""
 website: ""

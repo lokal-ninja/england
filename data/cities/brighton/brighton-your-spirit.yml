@@ -1,11 +1,11 @@
 id: 138143364
-type: way
+type: node
 latitude: 50.8276
 longitude: -0.13759
-postcode: "BN1 4EP"
+postcode: BN1 4EP
 city: Brighton
-street: "Sydney Street"
-housenumber: 33
+street: Sydney Street
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

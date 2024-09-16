@@ -1,11 +1,11 @@
 id: 435284972
-type: way
+type: node
 latitude: 50.84187
 longitude: -0.16328
-postcode: "BN3 6LE"
+postcode: BN3 6LE
 city: Hove
-street: "The Droveway"
-housenumber: 26
+street: The Droveway
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Su 06:00-23:00"
+opening_hours: Mo-Su 06:00-23:00
 website: ""

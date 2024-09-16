@@ -1,11 +1,11 @@
 id: 291910592
-type: way
+type: node
 latitude: 52.09175
 longitude: -1.94504
 postcode: ""
 city: Evesham
-street: "Bridge Street"
-housenumber: 58
+street: Bridge Street
+housenumber: "58"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 332736444
-type: way
+type: node
 latitude: 54.2095
 longitude: -3.26714
-postcode: "LA18 4DE"
+postcode: LA18 4DE
 city: Millom
-street: "Wellington Street"
-housenumber: 10
+street: Wellington Street
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

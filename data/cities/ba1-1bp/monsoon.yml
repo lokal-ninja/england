@@ -1,11 +1,11 @@
 id: 474927600
-type: way
+type: node
 latitude: 51.38272
 longitude: -2.36112
 postcode: ""
 city: BA1 1BP
-street: "Old Bond Street"
-housenumber: 12
+street: Old Bond Street
+housenumber: "12"
 phone: ""
 opening_hours: ""
-website: "https://stores.monsoon.co.uk"
+website: https://stores.monsoon.co.uk

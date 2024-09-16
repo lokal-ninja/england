@@ -1,11 +1,11 @@
 id: 595832365
-type: way
+type: node
 latitude: 51.52202
 longitude: -0.03369
-postcode: "E3 4TN"
+postcode: E3 4TN
 city: London
-street: "Burdett Road"
-housenumber: 71
+street: Burdett Road
+housenumber: "71"
 phone: ""
 opening_hours: ""
 website: ""

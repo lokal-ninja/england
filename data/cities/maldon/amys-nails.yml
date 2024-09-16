@@ -1,11 +1,11 @@
 id: 97972195
-type: way
+type: node
 latitude: 51.73071
 longitude: 0.68196
 postcode: ""
 city: Maldon
-street: "High Street"
-housenumber: 117
-phone: "+44 1621 843980"
+street: High Street
+housenumber: "117"
+phone: +44 1621 843980
 opening_hours: ""
 website: ""

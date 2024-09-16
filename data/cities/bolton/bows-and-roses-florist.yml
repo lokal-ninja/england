@@ -1,11 +1,11 @@
 id: 700369032
-type: way
+type: node
 latitude: 53.54202
 longitude: -2.5473
-postcode: "BL5 2BX"
+postcode: BL5 2BX
 city: Bolton
-street: "Wigan Road"
-housenumber: 533
+street: Wigan Road
+housenumber: "533"
 phone: ""
 opening_hours: ""
 website: ""

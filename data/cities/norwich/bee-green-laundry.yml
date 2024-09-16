@@ -1,11 +1,11 @@
 id: 1313934913
-type: way
+type: node
 latitude: 52.54178
 longitude: 1.4813
-postcode: "NR14 6HE"
+postcode: NR14 6HE
 city: Norwich
-street: "Langley Road"
-housenumber: 58
+street: Langley Road
+housenumber: "58"
 phone: ""
 opening_hours: ""
-website: "http://beegreenlaundry.co.uk/"
+website: http://beegreenlaundry.co.uk/

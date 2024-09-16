@@ -1,11 +1,11 @@
 id: 191730697
-type: way
-latitude: 51.84914
-longitude: 1.27162
-postcode: "CO14 8AE"
+type: node
+latitude: 51.8491
+longitude: 1.27176
+postcode: CO14 8AE
 city: Walton-on-the-Naze
-street: "High Street"
-housenumber: 
+street: High Street
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

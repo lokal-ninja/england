@@ -1,11 +1,11 @@
 id: 1058724317
-type: way
+type: node
 latitude: 51.43283
 longitude: -0.33838
-postcode: "TW11 8NA"
+postcode: TW11 8NA
 city: Teddington
-street: "Waldegrave Road"
-housenumber: 150
+street: Waldegrave Road
+housenumber: "150"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1196981889
-type: way
+type: node
 latitude: 53.45274
 longitude: -2.76304
-postcode: "WA10 4PY"
+postcode: WA10 4PY
 city: St Helens
-street: "Knowsley Road"
-housenumber: 168
+street: Knowsley Road
+housenumber: "168"
 phone: ""
 opening_hours: ""
 website: ""

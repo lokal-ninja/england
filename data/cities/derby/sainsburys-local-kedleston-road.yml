@@ -1,11 +1,11 @@
 id: 450195944
-type: way
+type: node
 latitude: 52.93191
 longitude: -1.4904
-postcode: "DE22 1FS"
+postcode: DE22 1FS
 city: Derby
-street: "Kedleston Road"
-housenumber: 125
+street: Kedleston Road
+housenumber: "125"
 phone: ""
 opening_hours: ""
-website: "https://stores.sainsburys.co.uk/4741/kedleston-road-local"
+website: https://stores.sainsburys.co.uk/4741/kedleston-road-local

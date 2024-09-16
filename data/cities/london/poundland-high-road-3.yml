@@ -1,11 +1,11 @@
 id: 191631078
-type: way
+type: node
 latitude: 51.59094
 longitude: -0.1037
-postcode: "N22 6BX"
+postcode: N22 6BX
 city: London
-street: "High Road"
-housenumber: 
+street: High Road
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

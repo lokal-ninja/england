@@ -1,11 +1,11 @@
 id: 669101559
-type: way
+type: node
 latitude: 53.61724
 longitude: -2.59605
-postcode: "PR6 9NA"
+postcode: PR6 9NA
 city: Chorley
-street: "Bolton Road"
-housenumber: 
+street: Bolton Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 06:00-22:00; Su 11:00-17:00"
-website: "https://www.coop.co.uk/store-finder/PR6-9NA/bolton-road"
+opening_hours: Mo-Sa 06:00-22:00; Su 11:00-17:00
+website: https://www.coop.co.uk/store-finder/PR6-9NA/bolton-road

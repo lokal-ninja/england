@@ -1,11 +1,11 @@
 id: 338030808
-type: way
+type: node
 latitude: 53.72578
 longitude: -1.35327
-postcode: "WF10 1BP"
+postcode: WF10 1BP
 city: Castleford
-street: "Carlton Street"
-housenumber: 87
+street: Carlton Street
+housenumber: "87"
 phone: ""
 opening_hours: ""
 website: ""

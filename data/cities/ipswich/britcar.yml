@@ -1,11 +1,11 @@
 id: 1132598620
-type: way
+type: node
 latitude: 52.04435
 longitude: 1.15621
-postcode: "IP2 8JX"
+postcode: IP2 8JX
 city: Ipswich
-street: "Riverside Industrial Estate"
-housenumber: 2
+street: Riverside Industrial Estate
+housenumber: "2"
 phone: "+441473907444"
 opening_hours: ""
-website: "https://britcar.com/"
+website: https://britcar.com/

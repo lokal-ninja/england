@@ -1,11 +1,11 @@
 id: 540715220
-type: way
+type: node
 latitude: 53.88997
 longitude: -1.73017
-postcode: "LS29 6BX"
+postcode: LS29 6BX
 city: Ilkley
-street: "Bradford Road"
-housenumber: 110
+street: Bradford Road
+housenumber: "110"
 phone: ""
 opening_hours: ""
 website: ""

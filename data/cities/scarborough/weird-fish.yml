@@ -1,11 +1,11 @@
 id: 308318824
-type: way
+type: node
 latitude: 54.28215
 longitude: -0.40047
-postcode: "YO11 1UH"
+postcode: YO11 1UH
 city: Scarborough
-street: "Westborough"
-housenumber: 1
+street: Westborough
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

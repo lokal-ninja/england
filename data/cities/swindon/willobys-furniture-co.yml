@@ -2,10 +2,10 @@ id: 11371503782
 type: node
 latitude: 51.55256
 longitude: -1.77661
-postcode: "SN1 4AB"
+postcode: SN1 4AB
 city: Swindon
-street: "Wood Street"
-housenumber: 34
+street: Wood Street
+housenumber: "34"
 phone: ""
 opening_hours: ""
 website: ""

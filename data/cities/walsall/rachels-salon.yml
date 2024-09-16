@@ -1,11 +1,11 @@
 id: 489120039
-type: way
+type: node
 latitude: 52.62537
 longitude: -1.97949
 postcode: ""
 city: Walsall
-street: "Mouse Hill"
-housenumber: 3
+street: Mouse Hill
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

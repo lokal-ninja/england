@@ -1,11 +1,11 @@
 id: 903910917
-type: way
+type: node
 latitude: 51.35194
 longitude: -1.99118
 postcode: ""
 city: Devizes
-street: "Sidmouth Street"
-housenumber: 28
+street: Sidmouth Street
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

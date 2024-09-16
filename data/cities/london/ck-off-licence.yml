@@ -1,11 +1,12 @@
 id: 568721550
-type: way
+type: node
 latitude: 51.5434
 longitude: 0.01062
-postcode: "E15 4LY"
+postcode: E15 4LY
 city: London
-street: "Romford Road"
-housenumber: 111
+street: Romford Road
+housenumber: "111"
 phone: ""
-opening_hours: "Mo-Tu 06:00-23:00; We-Th 06:30-23:00; Fr 06:30-23:15; Sa 07:00-23:15; Su 08:30-22:30"
+opening_hours: Mo-Tu 06:00-23:00; We-Th 06:30-23:00; Fr 06:30-23:15; Sa 07:00-23:15;
+    Su 08:30-22:30
 website: ""

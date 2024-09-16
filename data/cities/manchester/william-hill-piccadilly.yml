@@ -2,10 +2,10 @@ id: 6410195735
 type: node
 latitude: 53.48034
 longitude: -2.2337
-postcode: "M1 2DA"
+postcode: M1 2DA
 city: Manchester
-street: "Piccadilly"
-housenumber: 85
+street: Piccadilly
+housenumber: "85"
 phone: ""
 opening_hours: ""
 website: ""

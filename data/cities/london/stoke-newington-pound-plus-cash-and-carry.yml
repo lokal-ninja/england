@@ -2,10 +2,10 @@ id: 369975045
 type: node
 latitude: 51.56023
 longitude: -0.07376
-postcode: "N16 7NY"
+postcode: N16 7NY
 city: London
-street: "Stoke Newington High Street"
-housenumber: 112
+street: Stoke Newington High Street
+housenumber: "112"
 phone: ""
 opening_hours: ""
 website: ""

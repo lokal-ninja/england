@@ -1,11 +1,11 @@
 id: 303180229
-type: way
+type: node
 latitude: 51.43622
 longitude: -0.5114
-postcode: "TW18 4WB"
+postcode: TW18 4WB
 city: Staines-upon-Thames
-street: "Mustard Mill Road"
-housenumber: 
+street: Mustard Mill Road
+housenumber: ""
 phone: "+441784775867"
-opening_hours: "Mo-Sa 08:00-21:00; Su 10:30-16:30"
-website: "https://www.marksandspencer.com/stores/staines-two-rivers-fh-1492"
+opening_hours: Mo-Sa 08:00-21:00; Su 10:30-16:30
+website: https://www.marksandspencer.com/stores/staines-two-rivers-fh-1492

@@ -1,11 +1,11 @@
 id: 860491531
-type: way
+type: node
 latitude: 51.51327
 longitude: -0.01546
-postcode: "E14 6AH"
+postcode: E14 6AH
 city: London
-street: "Market Way"
-housenumber: 21
+street: Market Way
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

@@ -2,10 +2,10 @@ id: 9341000118
 type: node
 latitude: 50.62065
 longitude: -3.41215
-postcode: "EX8 1RD"
+postcode: EX8 1RD
 city: Exmouth
-street: "Parade"
-housenumber: 49
+street: Parade
+housenumber: "49"
 phone: ""
-opening_hours: "Mo-Sa 09:30-16:45; Su off"
+opening_hours: Mo-Sa 09:30-16:45; Su off
 website: ""

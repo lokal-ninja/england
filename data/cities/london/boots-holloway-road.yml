@@ -1,11 +1,11 @@
 id: 481694388
-type: way
+type: node
 latitude: 51.55716
 longitude: -0.1177
-postcode: "N7 6QA"
+postcode: N7 6QA
 city: London
-street: "Holloway Road"
-housenumber: 410
+street: Holloway Road
+housenumber: "410"
 phone: ""
 opening_hours: ""
 website: ""

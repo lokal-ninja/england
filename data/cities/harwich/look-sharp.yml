@@ -1,11 +1,11 @@
 id: 196964451
-type: way
+type: node
 latitude: 51.93682
 longitude: 1.27926
-postcode: "CO12 3PT"
+postcode: CO12 3PT
 city: Harwich
 street: ""
-housenumber: 3
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

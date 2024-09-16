@@ -1,11 +1,11 @@
 id: 167414093
-type: way
+type: node
 latitude: 51.73303
 longitude: 0.47301
-postcode: "CM1 1XB"
+postcode: CM1 1XB
 city: Chelmsford
-street: "High Chelmer"
+street: High Chelmer
 housenumber: 2a
-phone: "+44 1245 259797"
-opening_hours: "Mo-Sa 09:00-18:00; Su 10:00-16:00"
-website: "https://www.office.co.uk/view/content/storelocator?storename=Office%20Chelmsford"
+phone: +44 1245 259797
+opening_hours: Mo-Sa 09:00-18:00; Su 10:00-16:00
+website: https://www.office.co.uk/view/content/storelocator?storename=Office%20Chelmsford

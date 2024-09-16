@@ -1,11 +1,11 @@
 id: 736524504
-type: way
+type: node
 latitude: 51.49647
 longitude: -2.49482
-postcode: "BS16 6RX"
+postcode: BS16 6RX
 city: Bristol
-street: "Westbourne Road"
-housenumber: 36
+street: Westbourne Road
+housenumber: "36"
 phone: ""
 opening_hours: ""
 website: ""

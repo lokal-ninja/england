@@ -1,11 +1,11 @@
 id: 926721095
-type: way
+type: node
 latitude: 50.37232
 longitude: -4.14135
-postcode: "PL1 1NW"
+postcode: PL1 1NW
 city: Plymouth
-street: "Cornwall Street"
-housenumber: 31
-phone: "+44 2036 409998"
-opening_hours: "Mo-Sa 09:00-17:30; Su 11:00-16:00"
-website: "https://www.rieker.co.uk/map/rieker-plymouth"
+street: Cornwall Street
+housenumber: "31"
+phone: +44 2036 409998
+opening_hours: Mo-Sa 09:00-17:30; Su 11:00-16:00
+website: https://www.rieker.co.uk/map/rieker-plymouth

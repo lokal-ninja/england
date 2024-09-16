@@ -1,11 +1,11 @@
 id: 1056668952
-type: way
+type: node
 latitude: 51.46027
 longitude: -0.36289
 postcode: ""
 city: Hounslow
-street: "Whitton Road"
-housenumber: 95
+street: Whitton Road
+housenumber: "95"
 phone: ""
 opening_hours: ""
 website: ""

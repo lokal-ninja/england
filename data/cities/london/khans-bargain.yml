@@ -1,11 +1,11 @@
 id: 78342504
-type: way
+type: node
 latitude: 51.46955
 longitude: -0.06808
-postcode: "SE15 4ST"
+postcode: SE15 4ST
 city: London
-street: "Rye Lane"
-housenumber: 135
+street: Rye Lane
+housenumber: "135"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 295298417
-type: way
+type: node
 latitude: 53.47676
 longitude: -0.58799
-postcode: "DN21 4LU"
+postcode: DN21 4LU
 city: Gainsborough
-street: "High Street"
-housenumber: 5
+street: High Street
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

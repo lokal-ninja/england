@@ -1,11 +1,11 @@
 id: 1138956815
-type: way
+type: node
 latitude: 51.74697
 longitude: 0.48882
-postcode: "CM1 6NF"
+postcode: CM1 6NF
 city: Chelmsford
-street: "Torquay Road"
-housenumber: 8
+street: Torquay Road
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 09:00-15:00; PH,Su off"
+opening_hours: Mo-Sa 09:00-15:00; PH,Su off
 website: ""

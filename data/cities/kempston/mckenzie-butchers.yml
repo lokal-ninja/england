@@ -2,10 +2,10 @@ id: 1291812753
 type: node
 latitude: 52.11482
 longitude: -0.50633
-postcode: "MK42 7AR"
+postcode: MK42 7AR
 city: Kempston
-street: "High Street"
-housenumber: 100
+street: High Street
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

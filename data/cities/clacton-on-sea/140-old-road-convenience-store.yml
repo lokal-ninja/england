@@ -1,11 +1,11 @@
 id: 75421281
-type: way
+type: node
 latitude: 51.79427
 longitude: 1.14862
-postcode: "CO15 3AZ"
+postcode: CO15 3AZ
 city: Clacton-on-Sea
-street: "Old Road"
-housenumber: 140
+street: Old Road
+housenumber: "140"
 phone: ""
 opening_hours: ""
 website: ""

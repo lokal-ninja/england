@@ -1,11 +1,11 @@
 id: 484356048
-type: way
+type: node
 latitude: 51.14808
 longitude: -0.97572
-postcode: "GU34 1AG"
+postcode: GU34 1AG
 city: Alton
-street: "Turk Street"
-housenumber: 7
+street: Turk Street
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

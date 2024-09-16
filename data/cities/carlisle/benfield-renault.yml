@@ -1,11 +1,11 @@
 id: 353374381
-type: way
+type: node
 latitude: 54.89392
 longitude: -2.89788
-postcode: "CA1 2UR"
+postcode: CA1 2UR
 city: Carlisle
-street: "Auchinleck Drive"
-housenumber: 
-phone: "+44 1228 554550"
+street: Auchinleck Drive
+housenumber: ""
+phone: +44 1228 554550
 opening_hours: ""
-website: "https://www.drivebenfield.com/renault"
+website: https://www.drivebenfield.com/renault

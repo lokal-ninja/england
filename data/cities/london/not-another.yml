@@ -1,11 +1,11 @@
 id: 271625705
-type: way
+type: node
 latitude: 51.52367
 longitude: -0.07138
 postcode: ""
 city: London
-street: "Brick Lane"
-housenumber: 188
+street: Brick Lane
+housenumber: "188"
 phone: ""
 opening_hours: ""
-website: "https://www.notanothersalon.com/"
+website: https://www.notanothersalon.com/

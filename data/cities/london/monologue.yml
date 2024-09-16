@@ -1,11 +1,11 @@
 id: 373262261
-type: way
+type: node
 latitude: 51.5247
 longitude: -0.07301
 postcode: ""
 city: London
-street: "Redchurch Street"
-housenumber: 93
+street: Redchurch Street
+housenumber: "93"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1189221627
-type: way
+type: node
 latitude: 54.56428
 longitude: -1.31368
-postcode: "TS18 1AY"
+postcode: TS18 1AY
 city: Stockton-on-Tees
-street: "High Street"
-housenumber: 128
+street: High Street
+housenumber: "128"
 phone: ""
 opening_hours: ""
 website: ""

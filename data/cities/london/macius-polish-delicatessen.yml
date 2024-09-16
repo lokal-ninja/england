@@ -1,11 +1,11 @@
 id: 357561874
-type: way
+type: node
 latitude: 51.53921
 longitude: -0.11685
-postcode: "N1 1ED"
+postcode: N1 1ED
 city: London
-street: "Caledonian Road"
-housenumber: 256
+street: Caledonian Road
+housenumber: "256"
 phone: ""
 opening_hours: ""
 website: ""

@@ -2,10 +2,10 @@ id: 9932732115
 type: node
 latitude: 53.47798
 longitude: -2.2479
-postcode: "M2 5GP"
+postcode: M2 5GP
 city: Manchester
-street: "Peter Street"
-housenumber: 42
+street: Peter Street
+housenumber: "42"
 phone: ""
 opening_hours: ""
 website: ""

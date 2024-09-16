@@ -1,11 +1,11 @@
 id: 136895221
-type: way
+type: node
 latitude: 52.62574
 longitude: 1.29348
-postcode: "NR1 3QL"
+postcode: NR1 3QL
 city: Norwich
-street: "St Stephens Street"
-housenumber: 5
+street: St Stephens Street
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://www.jonathantrumbull.co.uk/"
+website: https://www.jonathantrumbull.co.uk/

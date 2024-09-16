@@ -1,11 +1,11 @@
 id: 224040370
-type: way
+type: node
 latitude: 51.5921
 longitude: -0.1432
-postcode: "N10 1BY"
+postcode: N10 1BY
 city: London
-street: "Muswell Hill Broadway"
-housenumber: 299
-phone: "+44 20 8444 5454"
-opening_hours: "Mo-Sa 09:30-17:00"
-website: "http://www.gallalock.com"
+street: Muswell Hill Broadway
+housenumber: "299"
+phone: +44 20 8444 5454
+opening_hours: Mo-Sa 09:30-17:00
+website: http://www.gallalock.com

@@ -1,11 +1,11 @@
 id: 1150004003
-type: way
+type: node
 latitude: 53.79495
 longitude: -1.75644
-postcode: "BD1 3PP"
+postcode: BD1 3PP
 city: Bradford
-street: "Godwin Street"
-housenumber: 95
+street: Godwin Street
+housenumber: "95"
 phone: ""
 opening_hours: ""
 website: ""

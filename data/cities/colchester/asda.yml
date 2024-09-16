@@ -1,11 +1,11 @@
 id: 90273921
-type: way
+type: node
 latitude: 51.81456
 longitude: 0.74787
-postcode: "CO5 0LA"
+postcode: CO5 0LA
 city: Colchester
-street: "Church Road"
-housenumber: 25
+street: Church Road
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su 10:00-16:00"
+opening_hours: Mo-Sa 07:00-22:00; Su 10:00-16:00
 website: ""

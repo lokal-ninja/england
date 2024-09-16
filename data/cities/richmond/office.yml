@@ -1,11 +1,11 @@
 id: 431995383
-type: way
+type: node
 latitude: 51.46074
 longitude: -0.30442
-postcode: "TW9 1HY"
+postcode: TW9 1HY
 city: Richmond
-street: "George Street"
-housenumber: 
+street: George Street
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:30-18:00; Su 11:00-17:00"
-website: "https://www.office.co.uk/view/content/storelocator?storename=Office%20Richmond"
+opening_hours: Mo-Sa 09:30-18:00; Su 11:00-17:00
+website: https://www.office.co.uk/view/content/storelocator?storename=Office%20Richmond

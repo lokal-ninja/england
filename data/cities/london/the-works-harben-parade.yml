@@ -4,8 +4,8 @@ latitude: 51.54478
 longitude: -0.17668
 postcode: ""
 city: London
-street: "Harben Parade"
-housenumber: 8
+street: Harben Parade
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "https://www.theworks.co.uk/Store?storeId=1166"
+website: https://www.theworks.co.uk/Store?storeId=1166

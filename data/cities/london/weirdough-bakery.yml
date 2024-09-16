@@ -1,11 +1,11 @@
 id: 462651178
-type: way
+type: node
 latitude: 51.5792
 longitude: -0.03269
-postcode: "E17 8AA"
+postcode: E17 8AA
 city: London
-street: "Station Road"
-housenumber: 20
+street: Station Road
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

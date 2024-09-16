@@ -1,11 +1,11 @@
 id: 1042718308
-type: way
+type: node
 latitude: 53.37785
 longitude: -1.50278
-postcode: "S10 5BR"
+postcode: S10 5BR
 city: Sheffield
-street: "Taptonville Road"
-housenumber: 10
-phone: "+44 7926 528970"
-opening_hours: "Tu,We,Fr 09:30-17:30; Sa 09:30-15:00"
-website: "www.vernonbarkercycles.co.uk"
+street: Taptonville Road
+housenumber: "10"
+phone: +44 7926 528970
+opening_hours: Tu,We,Fr 09:30-17:30; Sa 09:30-15:00
+website: www.vernonbarkercycles.co.uk

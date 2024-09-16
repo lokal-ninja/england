@@ -1,11 +1,11 @@
 id: 60256398
-type: way
+type: node
 latitude: 51.24181
 longitude: -0.60415
-postcode: "GU2 7XU"
+postcode: GU2 7XU
 city: Guildford
-street: "Egerton Road"
-housenumber: 
+street: Egerton Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo 06:00-24:00; Tu-Sa 00:00-24:00; Su 10:00-16:00"
+opening_hours: Mo 06:00-24:00; Tu-Sa 00:00-24:00; Su 10:00-16:00
 website: ""

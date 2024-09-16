@@ -1,11 +1,11 @@
 id: 288537536
-type: way
+type: node
 latitude: 51.45907
 longitude: -2.58934
-postcode: "BS1 3LU"
+postcode: BS1 3LU
 city: Bristol
-street: "Bond Street"
-housenumber: 18
+street: Bond Street
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

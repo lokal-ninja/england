@@ -1,11 +1,11 @@
 id: 114511721
-type: way
+type: node
 latitude: 52.63698
 longitude: 1.32687
-postcode: "NR1 4AB"
+postcode: NR1 4AB
 city: Norwich
-street: "Plumstead Road"
-housenumber: 197
+street: Plumstead Road
+housenumber: "197"
 phone: ""
-opening_hours: "06:00-23:00"
+opening_hours: 06:00-23:00
 website: ""

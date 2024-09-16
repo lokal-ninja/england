@@ -1,11 +1,11 @@
 id: 1187041620
-type: way
+type: node
 latitude: 53.36707
 longitude: -2.72739
-postcode: "WA8 6AZ"
+postcode: WA8 6AZ
 city: Widnes
-street: "Widnes Road"
-housenumber: 67
+street: Widnes Road
+housenumber: "67"
 phone: ""
 opening_hours: ""
 website: ""

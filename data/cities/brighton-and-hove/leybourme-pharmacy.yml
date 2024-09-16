@@ -1,11 +1,11 @@
 id: 1050832130
-type: way
+type: node
 latitude: 50.84259
 longitude: -0.09614
-postcode: "BN2 4LW"
+postcode: BN2 4LW
 city: Brighton & Hove
-street: "Leybourne Parade"
-housenumber: 9
+street: Leybourne Parade
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

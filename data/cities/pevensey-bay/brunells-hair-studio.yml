@@ -1,11 +1,11 @@
 id: 1047433944
-type: way
+type: node
 latitude: 50.81253
 longitude: 0.3514
-postcode: "BN24 6EJ"
+postcode: BN24 6EJ
 city: Pevensey Bay
-street: "Eastbourne Road"
-housenumber: 6
+street: Eastbourne Road
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 442182065
-type: way
+type: node
 latitude: 53.38076
 longitude: -1.46941
-postcode: "S1 2LG"
+postcode: S1 2LG
 city: Sheffield
-street: "Surrey Street"
-housenumber: 23
+street: Surrey Street
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

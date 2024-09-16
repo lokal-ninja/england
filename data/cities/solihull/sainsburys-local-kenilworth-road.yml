@@ -1,11 +1,11 @@
 id: 191002050
-type: way
+type: node
 latitude: 52.39911
 longitude: -1.655
-postcode: "CV7 7EU"
+postcode: CV7 7EU
 city: Solihull
-street: "Kenilworth Road"
-housenumber: 107
+street: Kenilworth Road
+housenumber: "107"
 phone: ""
 opening_hours: ""
-website: "https://stores.sainsburys.co.uk/4526/balsall-kenilworth-road-local"
+website: https://stores.sainsburys.co.uk/4526/balsall-kenilworth-road-local

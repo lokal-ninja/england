@@ -1,11 +1,11 @@
 id: 508394407
-type: way
+type: node
 latitude: 54.86467
 longitude: -1.7463
-postcode: "DH9 8EF"
+postcode: DH9 8EF
 city: Stanley
-street: "North Road"
-housenumber: 1
+street: North Road
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

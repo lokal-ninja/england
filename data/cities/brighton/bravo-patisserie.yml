@@ -2,10 +2,10 @@ id: 6764025188
 type: node
 latitude: 50.83293
 longitude: -0.13831
-postcode: "BN1 4JE"
+postcode: BN1 4JE
 city: Brighton
-street: "London Road"
-housenumber: 62
+street: London Road
+housenumber: "62"
 phone: ""
 opening_hours: ""
 website: ""

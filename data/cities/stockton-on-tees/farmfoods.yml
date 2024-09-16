@@ -1,11 +1,11 @@
 id: 99353487
-type: way
+type: node
 latitude: 54.56813
 longitude: -1.30833
-postcode: "TS18 2DS"
+postcode: TS18 2DS
 city: Stockton-on-Tees
-street: "Bath Lane"
-housenumber: 3
+street: Bath Lane
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

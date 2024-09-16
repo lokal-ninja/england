@@ -1,11 +1,11 @@
 id: 1028116744
-type: way
+type: node
 latitude: 53.051
 longitude: -1.40556
-postcode: "DE5 3BU"
+postcode: DE5 3BU
 city: Ripley
-street: "Church Street"
-housenumber: 22
+street: Church Street
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

@@ -2,10 +2,10 @@ id: 6034123201
 type: node
 latitude: 51.40551
 longitude: -0.1646
-postcode: "CR4 3NA"
+postcode: CR4 3NA
 city: Mitcham
-street: "London Road"
-housenumber: 3
+street: London Road
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 554355074
-type: way
+type: node
 latitude: 53.42946
 longitude: -2.5281
-postcode: "WA3 6AU"
+postcode: WA3 6AU
 city: Warrington
-street: "Warrington Road"
-housenumber: 714
-phone: "+44 1925 251252"
-opening_hours: "Mo-Sa 07:00-22:00; Su 08:00-22:00"
-website: "https://www.spar.co.uk/store-locator/hal30508-spar-risley/"
+street: Warrington Road
+housenumber: "714"
+phone: +44 1925 251252
+opening_hours: Mo-Sa 07:00-22:00; Su 08:00-22:00
+website: https://www.spar.co.uk/store-locator/hal30508-spar-risley/

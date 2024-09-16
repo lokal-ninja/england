@@ -1,11 +1,11 @@
 id: 277793666
-type: way
+type: node
 latitude: 51.45548
 longitude: -2.61866
-postcode: "BS8 4AB"
+postcode: BS8 4AB
 city: Bristol
-street: "Kings Road"
-housenumber: 14
+street: Kings Road
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

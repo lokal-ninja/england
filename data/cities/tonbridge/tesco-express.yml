@@ -2,10 +2,10 @@ id: 3643005835
 type: node
 latitude: 51.18116
 longitude: 0.38868
-postcode: "TN12 6EL"
+postcode: TN12 6EL
 city: Tonbridge
-street: "Commercial Road"
-housenumber: 14
+street: Commercial Road
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
+opening_hours: Mo-Su 08:00-22:00
 website: ""

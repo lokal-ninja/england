@@ -2,10 +2,10 @@ id: 6174696117
 type: node
 latitude: 52.01185
 longitude: -0.64717
-postcode: "MK17 8RB"
+postcode: MK17 8RB
 city: Milton Keynes
-street: "High Street"
-housenumber: 45
+street: High Street
+housenumber: "45"
 phone: ""
 opening_hours: ""
 website: ""

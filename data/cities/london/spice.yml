@@ -1,11 +1,11 @@
 id: 1028386410
-type: way
+type: node
 latitude: 51.54155
 longitude: -0.15672
-postcode: "NW1 8XN"
+postcode: NW1 8XN
 city: London
-street: "Regent's Park Road"
-housenumber: 162
+street: Regent's Park Road
+housenumber: "162"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 50128522
-type: way
+type: node
 latitude: 50.71665
 longitude: -3.53588
-postcode: "EX2 8BT"
+postcode: EX2 8BT
 city: Exeter
-street: "Haven Road"
-housenumber: 3
+street: Haven Road
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

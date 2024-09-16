@@ -1,11 +1,11 @@
 id: 123225220
-type: way
+type: node
 latitude: 51.12632
 longitude: -2.75642
-postcode: "BA16 0HW"
+postcode: BA16 0HW
 city: Street
-street: "Gravenchon Way"
-housenumber: 
+street: Gravenchon Way
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.lidl.co.uk/s/en-GB/store-finder/street/somerset/gravenchon-way/"
+website: https://www.lidl.co.uk/s/en-GB/store-finder/street/somerset/gravenchon-way/

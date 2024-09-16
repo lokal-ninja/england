@@ -1,11 +1,11 @@
 id: 1121556666
-type: way
+type: node
 latitude: 51.42705
 longitude: -0.08872
-postcode: "SE27 9QY"
+postcode: SE27 9QY
 city: London
-street: "Gipsy Road"
-housenumber: 207
+street: Gipsy Road
+housenumber: "207"
 phone: ""
 opening_hours: ""
-website: "https://www.budgens.co.uk/our-stores/gipsy-hill"
+website: https://www.budgens.co.uk/our-stores/gipsy-hill

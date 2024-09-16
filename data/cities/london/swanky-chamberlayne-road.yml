@@ -1,11 +1,11 @@
 id: 439037568
-type: way
+type: node
 latitude: 51.53079
 longitude: -0.21675
-postcode: "NW10 3JD"
+postcode: NW10 3JD
 city: London
-street: "Chamberlayne Road"
-housenumber: 26
+street: Chamberlayne Road
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

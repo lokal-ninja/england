@@ -1,11 +1,11 @@
 id: 963996542
-type: way
+type: node
 latitude: 51.40915
 longitude: -0.0588
-postcode: "SE20 7AA"
+postcode: SE20 7AA
 city: London
-street: "The Parade, Croydon Road"
-housenumber: 5
+street: The Parade, Croydon Road
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00"
+opening_hours: Mo-Sa 09:00-19:00
 website: ""

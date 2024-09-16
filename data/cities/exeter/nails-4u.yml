@@ -2,10 +2,10 @@ id: 2081520951
 type: node
 latitude: 50.72279
 longitude: -3.5329
-postcode: "EX4 3QR"
+postcode: EX4 3QR
 city: Exeter
-street: "North Street"
-housenumber: 49
+street: North Street
+housenumber: "49"
 phone: ""
-opening_hours: "Mo-Sa 09:00-18:30; Su 11:00-16:00"
+opening_hours: Mo-Sa 09:00-18:30; Su 11:00-16:00
 website: ""

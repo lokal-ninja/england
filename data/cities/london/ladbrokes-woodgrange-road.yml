@@ -1,11 +1,11 @@
 id: 879875225
-type: way
+type: node
 latitude: 51.54935
 longitude: 0.02528
 postcode: ""
 city: London
-street: "Woodgrange Road"
-housenumber: 64
+street: Woodgrange Road
+housenumber: "64"
 phone: ""
 opening_hours: ""
 website: ""

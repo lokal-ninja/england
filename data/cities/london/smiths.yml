@@ -1,11 +1,11 @@
 id: 282571336
-type: way
+type: node
 latitude: 51.51389
 longitude: -0.13662
 postcode: ""
 city: London
-street: "Poland Street"
-housenumber: 57
+street: Poland Street
+housenumber: "57"
 phone: ""
 opening_hours: ""
 website: ""

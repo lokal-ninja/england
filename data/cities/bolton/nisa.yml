@@ -1,11 +1,11 @@
 id: 507747382
-type: way
+type: node
 latitude: 53.59636
 longitude: -2.4107
-postcode: "BL2 3AE"
+postcode: BL2 3AE
 city: Bolton
-street: "Crompton Way"
-housenumber: 417
+street: Crompton Way
+housenumber: "417"
 phone: ""
 opening_hours: ""
 website: ""

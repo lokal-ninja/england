@@ -1,11 +1,11 @@
 id: 1112099386
-type: way
+type: node
 latitude: 53.35397
 longitude: -2.89871
-postcode: "L19 2NJ"
+postcode: L19 2NJ
 city: Liverpool
-street: "Saint Mary's Road"
-housenumber: 35
+street: Saint Mary's Road
+housenumber: "35"
 phone: ""
 opening_hours: ""
 website: ""

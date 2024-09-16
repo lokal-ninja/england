@@ -1,11 +1,11 @@
 id: 695023212
-type: way
+type: node
 latitude: 54.13881
 longitude: -1.51977
-postcode: "HG4 1LH"
+postcode: HG4 1LH
 city: Ripon
-street: "Stonebridgegate"
-housenumber: 34
+street: Stonebridgegate
+housenumber: "34"
 phone: ""
 opening_hours: ""
 website: ""

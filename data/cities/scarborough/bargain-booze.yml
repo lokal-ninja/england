@@ -2,10 +2,10 @@ id: 4955808026
 type: node
 latitude: 54.23982
 longitude: -0.398
-postcode: "YO11 3LL"
+postcode: YO11 3LL
 city: Scarborough
-street: "High Street"
-housenumber: 5
+street: High Street
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

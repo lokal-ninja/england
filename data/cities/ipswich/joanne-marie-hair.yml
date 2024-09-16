@@ -2,10 +2,11 @@ id: 7995439892
 type: node
 latitude: 52.05563
 longitude: 1.19487
-postcode: "IP4 5EY"
+postcode: IP4 5EY
 city: Ipswich
-street: "Newbury Road"
-housenumber: 
-phone: "+44 7941 635290"
-opening_hours: "Mo 09:00-15:00; Tu 09:30-15:00; Th 09:30-15:00; Fr 09:00-15:00; Sa 09:00-17:00"
+street: Newbury Road
+housenumber: ""
+phone: +44 7941 635290
+opening_hours: Mo 09:00-15:00; Tu 09:30-15:00; Th 09:30-15:00; Fr 09:00-15:00; Sa
+    09:00-17:00
 website: ""

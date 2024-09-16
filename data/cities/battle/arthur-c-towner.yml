@@ -1,11 +1,11 @@
 id: 849750680
-type: way
+type: node
 latitude: 50.91767
 longitude: 0.48361
 postcode: ""
 city: Battle
-street: "High Street"
-housenumber: 43
+street: High Street
+housenumber: "43"
 phone: ""
 opening_hours: ""
 website: ""

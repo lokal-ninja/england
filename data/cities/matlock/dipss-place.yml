@@ -1,11 +1,11 @@
 id: 160271391
-type: way
+type: node
 latitude: 53.08125
 longitude: -1.57286
-postcode: "DE4 4DS"
+postcode: DE4 4DS
 city: Matlock
-street: "St. John's Street"
-housenumber: 35
+street: St. John's Street
+housenumber: "35"
 phone: ""
 opening_hours: ""
 website: ""

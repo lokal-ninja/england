@@ -1,11 +1,11 @@
 id: 277793691
-type: way
+type: node
 latitude: 51.45512
 longitude: -2.61884
-postcode: "BS8 4AA"
+postcode: BS8 4AA
 city: Bristol
-street: "Boyces Avenue"
-housenumber: 9
+street: Boyces Avenue
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 97354330
-type: way
+type: node
 latitude: 52.53622
 longitude: -1.82684
-postcode: "B72 1AU"
+postcode: B72 1AU
 city: Sutton Coldfield
-street: "Birmingham Road"
-housenumber: 405
+street: Birmingham Road
+housenumber: "405"
 phone: ""
 opening_hours: ""
 website: ""

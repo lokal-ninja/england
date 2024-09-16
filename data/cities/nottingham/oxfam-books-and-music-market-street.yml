@@ -1,11 +1,11 @@
 id: 120036347
-type: way
+type: node
 latitude: 52.95445
 longitude: -1.15142
-postcode: "NG1 6HX"
+postcode: NG1 6HX
 city: Nottingham
-street: "Market Street"
-housenumber: 19
+street: Market Street
+housenumber: "19"
 phone: ""
 opening_hours: ""
-website: "https://www.oxfam.org.uk/shops/oxfam-books-music-nottingham/"
+website: https://www.oxfam.org.uk/shops/oxfam-books-music-nottingham/

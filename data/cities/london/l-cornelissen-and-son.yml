@@ -1,11 +1,11 @@
 id: 424643464
-type: way
+type: node
 latitude: 51.51765
 longitude: -0.12915
-postcode: "WC1B 3RY"
+postcode: WC1B 3RY
 city: London
-street: "Great Russell Street"
-housenumber: 105
-phone: "+44 20 7636 1045"
-opening_hours: "Mo-Sa 10:30-18:00"
-website: "https://www.cornelissen.com/"
+street: Great Russell Street
+housenumber: "105"
+phone: +44 20 7636 1045
+opening_hours: Mo-Sa 10:30-18:00
+website: https://www.cornelissen.com/

@@ -1,11 +1,11 @@
 id: 194680115
-type: way
+type: node
 latitude: 50.93621
 longitude: -1.44727
-postcode: "SO16 5EB"
+postcode: SO16 5EB
 city: Southampton
-street: "Rownhams Road"
-housenumber: 103
+street: Rownhams Road
+housenumber: "103"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1158511370
-type: way
+type: node
 latitude: 54.57355
 longitude: -1.23609
-postcode: "TS1 2LH"
+postcode: TS1 2LH
 city: Middlesbrough
-street: "Baker Street"
-housenumber: 26
+street: Baker Street
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

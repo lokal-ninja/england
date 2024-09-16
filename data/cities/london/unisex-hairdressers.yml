@@ -1,11 +1,11 @@
 id: 190840468
-type: way
+type: node
 latitude: 51.51286
 longitude: -0.03959
-postcode: "E14 7NT"
+postcode: E14 7NT
 city: London
-street: "Commercial Road"
-housenumber: 639
-phone: "+44 20 7709 8338"
+street: Commercial Road
+housenumber: "639"
+phone: +44 20 7709 8338
 opening_hours: ""
 website: ""

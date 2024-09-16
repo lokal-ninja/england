@@ -1,11 +1,11 @@
 id: 1217523979
-type: way
+type: node
 latitude: 50.92037
 longitude: -0.99925
-postcode: "PO8 0BJ"
+postcode: PO8 0BJ
 city: Horndean
-street: "London Road"
-housenumber: 113
+street: London Road
+housenumber: "113"
 phone: ""
 opening_hours: ""
-website: "https://www.fordmears.uk/funeral-directors/michael-miller-partners-horndean-clanfield#contact-us"
+website: https://www.fordmears.uk/funeral-directors/michael-miller-partners-horndean-clanfield#contact-us

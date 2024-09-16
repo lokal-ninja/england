@@ -1,11 +1,11 @@
 id: 216213931
-type: way
+type: node
 latitude: 52.4161
 longitude: -1.50914
 postcode: ""
 city: Coventry
-street: "Foleshill Road"
-housenumber: 36
+street: Foleshill Road
+housenumber: "36"
 phone: ""
 opening_hours: ""
-website: "https://www.halfords.com/locations/foleshill-road-store/"
+website: https://www.halfords.com/locations/foleshill-road-store/

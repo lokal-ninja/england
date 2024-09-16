@@ -1,11 +1,11 @@
 id: 283788936
-type: way
+type: node
 latitude: 51.28078
 longitude: -0.07676
-postcode: "CR3 6RT"
+postcode: CR3 6RT
 city: Caterham
-street: "Church Walk"
-housenumber: 28
+street: Church Walk
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su 10:00-16:00"
-website: "https://my.morrisons.com/storefinder/294/caterham"
+opening_hours: Mo-Sa 07:00-21:00; Su 10:00-16:00
+website: https://my.morrisons.com/storefinder/294/caterham

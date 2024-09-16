@@ -2,10 +2,10 @@ id: 9062592920
 type: node
 latitude: 52.63137
 longitude: 1.28788
-postcode: "NR2 4PG"
+postcode: NR2 4PG
 city: Norwich
-street: "Saint Benedicts Street"
-housenumber: 49
+street: Saint Benedicts Street
+housenumber: "49"
 phone: ""
 opening_hours: ""
 website: ""

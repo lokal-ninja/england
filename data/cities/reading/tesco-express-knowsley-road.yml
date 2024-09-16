@@ -1,11 +1,11 @@
 id: 134235251
-type: way
+type: node
 latitude: 51.47342
 longitude: -1.04965
-postcode: "RG31 6FA"
+postcode: RG31 6FA
 city: Reading
-street: "Knowsley Road"
-housenumber: 
+street: Knowsley Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
+opening_hours: Mo-Su 07:00-22:00
 website: ""

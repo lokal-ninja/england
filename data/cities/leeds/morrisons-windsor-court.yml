@@ -1,11 +1,11 @@
 id: 27815114
-type: way
+type: node
 latitude: 53.74593
 longitude: -1.60368
-postcode: "LS27 9BG"
+postcode: LS27 9BG
 city: Leeds
-street: "Windsor Court"
-housenumber: 
+street: Windsor Court
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://my.morrisons.com/storefinder/11/leeds-morley"
+website: https://my.morrisons.com/storefinder/11/leeds-morley

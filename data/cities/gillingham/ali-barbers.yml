@@ -1,11 +1,11 @@
 id: 293830489
-type: way
+type: node
 latitude: 51.38798
 longitude: 0.5452
-postcode: "ME7 1HD"
+postcode: ME7 1HD
 city: Gillingham
-street: "Skinner Street"
-housenumber: 25
-phone: "+44 1634 576371"
+street: Skinner Street
+housenumber: "25"
+phone: +44 1634 576371
 opening_hours: ""
 website: ""

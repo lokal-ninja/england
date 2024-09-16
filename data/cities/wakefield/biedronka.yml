@@ -1,11 +1,11 @@
 id: 85712128
-type: way
+type: node
 latitude: 53.68675
 longitude: -1.49827
-postcode: "WF1 3LJ"
+postcode: WF1 3LJ
 city: Wakefield
-street: "Lower York Street"
-housenumber: 39
+street: Lower York Street
+housenumber: "39"
 phone: ""
 opening_hours: ""
 website: ""

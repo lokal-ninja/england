@@ -1,11 +1,11 @@
 id: 1090298134
-type: way
+type: node
 latitude: 52.02293
 longitude: 0.24022
-postcode: "CB10 1EX"
+postcode: CB10 1EX
 city: Saffron Walden
-street: "Cross Street"
-housenumber: 4
+street: Cross Street
+housenumber: "4"
 phone: "+441799522093"
-opening_hours: "Mo-Sa 7:30-4:30"
+opening_hours: Mo-Sa 7:30-4:30
 website: ""

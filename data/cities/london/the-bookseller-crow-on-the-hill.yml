@@ -1,11 +1,11 @@
 id: 194081481
-type: way
+type: node
 latitude: 51.41834
 longitude: -0.08277
-postcode: "SE19 3RW"
+postcode: SE19 3RW
 city: London
-street: "Westow Street"
-housenumber: 50
+street: Westow Street
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

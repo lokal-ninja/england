@@ -1,11 +1,11 @@
 id: 39649465
-type: way
+type: node
 latitude: 50.90896
 longitude: -1.01862
-postcode: "PO8 9QL"
+postcode: PO8 9QL
 city: Lovedean, Waterlooville
-street: "Frogmore Lane"
-housenumber: 48
-phone: "+44 2392 594466"
-opening_hours: "Mo-Su 06:00-21:00"
+street: Frogmore Lane
+housenumber: "48"
+phone: +44 2392 594466
+opening_hours: Mo-Su 06:00-21:00
 website: ""

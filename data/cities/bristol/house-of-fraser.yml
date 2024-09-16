@@ -1,11 +1,11 @@
 id: 203094529
-type: way
+type: node
 latitude: 51.45928
 longitude: -2.58464
-postcode: "BS1 3BD"
+postcode: BS1 3BD
 city: Bristol
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 10:00-20:00; Sa 09:00-20:00; Su 11:00-17:30"
+opening_hours: Mo-Fr 10:00-20:00; Sa 09:00-20:00; Su 11:00-17:30
 website: ""

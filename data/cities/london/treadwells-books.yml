@@ -1,11 +1,11 @@
 id: 422540682
-type: way
+type: node
 latitude: 51.51993
 longitude: -0.13116
 postcode: ""
 city: London
-street: "Store Street"
-housenumber: 33
+street: Store Street
+housenumber: "33"
 phone: ""
 opening_hours: ""
-website: "https://www.treadwells-london.com/"
+website: https://www.treadwells-london.com/

@@ -1,11 +1,11 @@
 id: 701713719
-type: way
+type: node
 latitude: 52.62349
 longitude: 1.29805
-postcode: "NR1 3EY"
+postcode: NR1 3EY
 city: Norwich
-street: "Ber Street"
-housenumber: 103
+street: Ber Street
+housenumber: "103"
 phone: ""
 opening_hours: ""
-website: "http://trinitystainedglass.co.uk/"
+website: http://trinitystainedglass.co.uk/

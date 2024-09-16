@@ -1,11 +1,11 @@
 id: 138339556
-type: way
+type: node
 latitude: 51.51875
 longitude: -0.13488
-postcode: "W1T 2NA"
+postcode: W1T 2NA
 city: London
-street: "Charlotte Street"
-housenumber: 20
+street: Charlotte Street
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-We 09:00-18:30; Tu-Fr 09:00-19:30; Sa 09:00-18:00; Su 10:00-17:00"
+opening_hours: Mo-We 09:00-18:30; Tu-Fr 09:00-19:30; Sa 09:00-18:00; Su 10:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 83737206
-type: way
+type: node
 latitude: 53.56761
 longitude: -0.07808
-postcode: "DN32 9DL"
+postcode: DN32 9DL
 city: Grimsby
-street: "Holles Street"
-housenumber: 
+street: Holles Street
+housenumber: ""
 phone: ""
-opening_hours: "Mo 07:00-24:00; Tu-Fr 00:00-24:00; Sa 00:00-22:00; Su 10:00-16:00"
+opening_hours: Mo 07:00-24:00; Tu-Fr 00:00-24:00; Sa 00:00-22:00; Su 10:00-16:00
 website: ""

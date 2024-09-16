@@ -1,11 +1,11 @@
 id: 668568685
-type: way
+type: node
 latitude: 51.54694
 longitude: -0.02428
-postcode: "E15 2GW"
+postcode: E15 2GW
 city: London
-street: "East Bay Lane"
-housenumber: 25
+street: East Bay Lane
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 235142339
-type: way
+type: node
 latitude: 51.46392
 longitude: -2.57577
-postcode: "BS5 0TT"
+postcode: BS5 0TT
 city: Bristol
-street: "Pennywell Road"
-housenumber: 
+street: Pennywell Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo 08:30-18:30;Tu-Fr 08:30-18:00;Sa 09:00-17:00;Su 10:00-16:00"
+opening_hours: Mo 08:30-18:30;Tu-Fr 08:30-18:00;Sa 09:00-17:00;Su 10:00-16:00
 website: ""

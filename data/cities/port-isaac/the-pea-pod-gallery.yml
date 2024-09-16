@@ -1,11 +1,11 @@
 id: 755507023
-type: way
+type: node
 latitude: 50.59401
 longitude: -4.82985
-postcode: "PL29 3SB"
+postcode: PL29 3SB
 city: Port Isaac
-street: "New Road"
-housenumber: 26
+street: New Road
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

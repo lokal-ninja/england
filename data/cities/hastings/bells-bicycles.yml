@@ -1,11 +1,11 @@
 id: 1025573791
-type: way
+type: node
 latitude: 50.85631
 longitude: 0.59012
-postcode: "TN34 3EG"
+postcode: TN34 3EG
 city: Hastings
-street: "George Street"
-housenumber: 4
+street: George Street
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 170476479
-type: way
+type: node
 latitude: 52.54139
 longitude: -1.79997
-postcode: "B76 1QN"
+postcode: B76 1QN
 city: Sutton Coldfield
-street: "Walmley Road"
-housenumber: 42
+street: Walmley Road
+housenumber: "42"
 phone: ""
 opening_hours: ""
 website: ""

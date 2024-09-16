@@ -1,11 +1,11 @@
 id: 111222267
-type: way
+type: node
 latitude: 52.91477
 longitude: -1.48561
 postcode: ""
 city: Derby
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

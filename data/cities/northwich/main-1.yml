@@ -1,11 +1,11 @@
 id: 307370787
-type: way
+type: node
 latitude: 53.22279
 longitude: -2.51578
-postcode: "CW9 8NY"
+postcode: CW9 8NY
 city: Northwich
-street: "Regent Street"
-housenumber: 2
+street: Regent Street
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 51801064
-type: way
+type: node
 latitude: 51.37198
 longitude: -2.3965
-postcode: "BA2 1LN"
+postcode: BA2 1LN
 city: Bath
-street: "Mount Road"
-housenumber: 110
-phone: "+44 1225 429666"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.coop.co.uk/store-finder/BA2-1LN/110-mount-road"
+street: Mount Road
+housenumber: "110"
+phone: +44 1225 429666
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.coop.co.uk/store-finder/BA2-1LN/110-mount-road

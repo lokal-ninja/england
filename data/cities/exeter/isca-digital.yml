@@ -2,10 +2,10 @@ id: 4522000120
 type: node
 latitude: 50.70398
 longitude: -3.50012
-postcode: "EX2 6HG"
+postcode: EX2 6HG
 city: Exeter
-street: "Topsham Road"
-housenumber: 300
+street: Topsham Road
+housenumber: "300"
 phone: ""
 opening_hours: ""
 website: ""

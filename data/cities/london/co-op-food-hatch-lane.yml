@@ -1,11 +1,11 @@
 id: 926312504
-type: way
+type: node
 latitude: 51.61925
 longitude: 0.00547
-postcode: "E4 6LQ"
+postcode: E4 6LQ
 city: London
-street: "Hatch Lane"
-housenumber: 
+street: Hatch Lane
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.coop.co.uk/store-finder/E4-6LQ/16-hatch-lane"
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.coop.co.uk/store-finder/E4-6LQ/16-hatch-lane

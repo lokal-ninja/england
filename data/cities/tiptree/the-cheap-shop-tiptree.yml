@@ -1,11 +1,11 @@
 id: 320969179
-type: way
+type: node
 latitude: 51.80865
 longitude: 0.75249
-postcode: "CO5 0AB"
+postcode: CO5 0AB
 city: Tiptree
-street: "Church Road"
-housenumber: 108
-phone: "+44 1621 815576"
-opening_hours: "Mo-Fr 09:00-17:30; We 09:00-13:00; Sa 09:00-17:00"
-website: "https://www.thecheapshoptiptree.co.uk/"
+street: Church Road
+housenumber: "108"
+phone: +44 1621 815576
+opening_hours: Mo-Fr 09:00-17:30; We 09:00-13:00; Sa 09:00-17:00
+website: https://www.thecheapshoptiptree.co.uk/

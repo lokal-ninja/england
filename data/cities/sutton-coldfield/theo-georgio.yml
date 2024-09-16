@@ -1,11 +1,11 @@
 id: 44146037
-type: way
+type: node
 latitude: 52.56149
 longitude: -1.8257
-postcode: "B72 1PH"
+postcode: B72 1PH
 city: Sutton Coldfield
-street: "Parade"
-housenumber: 106
+street: Parade
+housenumber: "106"
 phone: ""
 opening_hours: ""
 website: ""

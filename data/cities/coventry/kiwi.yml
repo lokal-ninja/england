@@ -1,11 +1,11 @@
 id: 154358114
-type: way
+type: node
 latitude: 52.3992
 longitude: -1.59545
-postcode: "CV4 9HS"
+postcode: CV4 9HS
 city: Coventry
-street: "Station Avenue"
-housenumber: 42
+street: Station Avenue
+housenumber: "42"
 phone: ""
 opening_hours: ""
 website: ""

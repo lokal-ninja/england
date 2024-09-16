@@ -1,11 +1,11 @@
 id: 289339325
-type: way
+type: node
 latitude: 51.01792
 longitude: -3.10451
-postcode: "TA1 1TG"
+postcode: TA1 1TG
 city: Taunton
-street: "Bridge Street"
-housenumber: 9
-phone: "+44 7440 486 048"
-opening_hours: "Tu-Sa 09:00-19:00; Su 09:00-14:00"
-website: "https://www.alinascakesandmore.co.uk"
+street: Bridge Street
+housenumber: "9"
+phone: +44 7440 486 048
+opening_hours: Tu-Sa 09:00-19:00; Su 09:00-14:00
+website: https://www.alinascakesandmore.co.uk

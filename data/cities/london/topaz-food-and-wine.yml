@@ -2,10 +2,10 @@ id: 1337646217
 type: node
 latitude: 51.5411
 longitude: 0.0381
-postcode: "E7 8LT"
+postcode: E7 8LT
 city: London
-street: "Katherine Road"
-housenumber: 353
+street: Katherine Road
+housenumber: "353"
 phone: ""
-opening_hours: "Mo-Su 10:00-23:00"
+opening_hours: Mo-Su 10:00-23:00
 website: ""

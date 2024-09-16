@@ -1,11 +1,11 @@
 id: 188608789
-type: way
+type: node
 latitude: 52.40748
 longitude: -1.96403
 postcode: ""
 city: Birmingham
-street: "West Heath Road"
-housenumber: 
+street: West Heath Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su 10:00-16:00; PH 10:00-16:00"
-website: "https://stores.centralengland.coop/west-midlands/birmingham/30-west-heath-road"
+opening_hours: Mo-Sa 07:00-22:00; Su 10:00-16:00; PH 10:00-16:00
+website: https://stores.centralengland.coop/west-midlands/birmingham/30-west-heath-road

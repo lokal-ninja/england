@@ -1,11 +1,11 @@
 id: 68442890
-type: way
+type: node
 latitude: 51.54069
 longitude: -0.09527
-postcode: "N1 3AP"
+postcode: N1 3AP
 city: London
-street: "Essex Road"
-housenumber: 200
+street: Essex Road
+housenumber: "200"
 phone: ""
 opening_hours: ""
 website: ""

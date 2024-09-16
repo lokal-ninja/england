@@ -1,11 +1,11 @@
 id: 59518696
-type: way
+type: node
 latitude: 51.72644
 longitude: -2.52791
-postcode: "GL15 5PE"
+postcode: GL15 5PE
 city: Lydney
-street: "Hams Road"
-housenumber: 3
-phone: "+44 330 838 9635"
-opening_hours: "Nisa Extra now permanently CLOSED"
-website: "https://www.bmstores.co.uk/stores/lydney-635"
+street: Hams Road
+housenumber: "3"
+phone: +44 330 838 9635
+opening_hours: '"Nisa Extra now permanently CLOSED"'
+website: https://www.bmstores.co.uk/stores/lydney-635

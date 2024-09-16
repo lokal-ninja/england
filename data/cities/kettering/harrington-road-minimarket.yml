@@ -1,11 +1,11 @@
 id: 330871400
-type: way
+type: node
 latitude: 52.42074
 longitude: -0.80596
-postcode: "NN14 6AP"
+postcode: NN14 6AP
 city: Kettering
-street: "Harrington Road"
-housenumber: 1
+street: Harrington Road
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

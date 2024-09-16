@@ -1,11 +1,11 @@
 id: 170398904
-type: way
+type: node
 latitude: 51.8986
 longitude: -2.07065
-postcode: "GL52 2SG"
+postcode: GL52 2SG
 city: Cheltenham
-street: "Grosvenor Street"
-housenumber: 26
+street: Grosvenor Street
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00"
+opening_hours: Mo-Fr 09:00-17:00
 website: ""

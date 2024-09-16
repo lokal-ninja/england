@@ -1,11 +1,11 @@
 id: 475504012
-type: way
+type: node
 latitude: 51.72374
 longitude: 0.45177
-postcode: "CM1 3FJ"
+postcode: CM1 3FJ
 city: Chelmsford
-street: "Westway"
-housenumber: 1
-phone: "+44 1245 847895"
-opening_hours: "Mo-Sa 08:00-21:00; Su 10:00-16:00"
-website: "https://www.marksandspencer.com/stores/chelmsford-westway-foodhall-2124"
+street: Westway
+housenumber: "1"
+phone: +44 1245 847895
+opening_hours: Mo-Sa 08:00-21:00; Su 10:00-16:00
+website: https://www.marksandspencer.com/stores/chelmsford-westway-foodhall-2124

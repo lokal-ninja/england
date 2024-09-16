@@ -1,11 +1,11 @@
 id: 110186973
-type: way
+type: node
 latitude: 52.85251
 longitude: -1.56556
-postcode: "DE65 6BX"
+postcode: DE65 6BX
 city: Derby
-street: "Repton Road"
-housenumber: 4
+street: Repton Road
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://stores.centralengland.coop/derbyshire/derby/repton-road"
+opening_hours: Mo-Su 07:00-22:00
+website: https://stores.centralengland.coop/derbyshire/derby/repton-road

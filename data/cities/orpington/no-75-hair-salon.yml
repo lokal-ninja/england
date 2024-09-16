@@ -1,11 +1,11 @@
 id: 1060351674
-type: way
+type: node
 latitude: 51.38003
 longitude: 0.10343
 postcode: ""
 city: Orpington
-street: "High Street"
-housenumber: 75
-phone: "+44 1689 821 002"
+street: High Street
+housenumber: "75"
+phone: +44 1689 821 002
 opening_hours: ""
 website: ""

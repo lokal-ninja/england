@@ -1,11 +1,11 @@
 id: 143124529
-type: way
+type: node
 latitude: 52.15261
 longitude: -0.7008
-postcode: "MK46 4AJ"
+postcode: MK46 4AJ
 city: Olney
-street: "Market Place"
-housenumber: 27
+street: Market Place
+housenumber: "27"
 phone: ""
-opening_hours: "Mo-Sa 09:00-17:30"
+opening_hours: Mo-Sa 09:00-17:30
 website: ""

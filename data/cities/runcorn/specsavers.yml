@@ -1,11 +1,11 @@
 id: 624455534
-type: way
+type: node
 latitude: 53.32702
 longitude: -2.6992
-postcode: "WA7 2BY"
+postcode: WA7 2BY
 city: Runcorn
-street: "Bridge Walk"
-housenumber: 104
+street: Bridge Walk
+housenumber: "104"
 phone: ""
 opening_hours: ""
 website: ""

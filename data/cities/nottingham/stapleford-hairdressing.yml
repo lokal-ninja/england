@@ -1,11 +1,11 @@
 id: 60738296
-type: way
+type: node
 latitude: 52.9258
 longitude: -1.28044
-postcode: "NG9 7AY"
+postcode: NG9 7AY
 city: Nottingham
-street: "Derby Road"
-housenumber: 162
+street: Derby Road
+housenumber: "162"
 phone: ""
 opening_hours: ""
 website: ""

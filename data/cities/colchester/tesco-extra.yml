@@ -1,11 +1,11 @@
 id: 190080692
-type: way
+type: node
 latitude: 51.90941
 longitude: 0.91803
-postcode: "CO4 9ED"
+postcode: CO4 9ED
 city: Colchester
-street: "Highwoods Square"
-housenumber: 
+street: Highwoods Square
+housenumber: ""
 phone: "+443456779188"
-opening_hours: "Mo-Sa 06:00-24:00, Su 10:00-16:00"
-website: "https://www.tesco.com/store-locator/colchester/highwoods-square"
+opening_hours: Mo-Sa 06:00-24:00, Su 10:00-16:00
+website: https://www.tesco.com/store-locator/colchester/highwoods-square

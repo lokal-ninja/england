@@ -1,11 +1,11 @@
 id: 460796373
-type: way
+type: node
 latitude: 51.42054
 longitude: -0.20465
-postcode: "SW19 1RF"
+postcode: SW19 1RF
 city: London
-street: "The Broadway"
-housenumber: 4
+street: The Broadway
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00; Su 09:00-22:00"
+opening_hours: Mo-Sa 08:00-22:00; Su 09:00-22:00
 website: ""

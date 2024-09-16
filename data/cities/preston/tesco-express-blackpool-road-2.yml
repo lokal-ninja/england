@@ -1,11 +1,11 @@
 id: 465597602
-type: way
+type: node
 latitude: 53.77193
 longitude: -2.72416
-postcode: "PR2 2DZ"
+postcode: PR2 2DZ
 city: Preston
-street: "Blackpool Road"
-housenumber: 
+street: Blackpool Road
+housenumber: ""
 phone: ""
-opening_hours: "07:00-23:00"
+opening_hours: 07:00-23:00
 website: ""

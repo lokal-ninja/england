@@ -1,11 +1,11 @@
 id: 1229794523
-type: way
+type: node
 latitude: 53.36567
 longitude: -1.31076
-postcode: "S26 2DB"
+postcode: S26 2DB
 city: Sheffield
-street: "Rose Garth Avenue"
-housenumber: 95
+street: Rose Garth Avenue
+housenumber: "95"
 phone: ""
 opening_hours: ""
 website: ""

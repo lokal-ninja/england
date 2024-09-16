@@ -1,11 +1,11 @@
 id: 256959288
-type: way
+type: node
 latitude: 52.50398
 longitude: -1.93742
-postcode: "B21 9LX"
+postcode: B21 9LX
 city: Birmingham
-street: "Soho Road"
-housenumber: 262
+street: Soho Road
+housenumber: "262"
 phone: ""
 opening_hours: ""
 website: ""

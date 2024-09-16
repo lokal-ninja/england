@@ -1,11 +1,11 @@
 id: 865416122
-type: way
+type: node
 latitude: 52.7553
 longitude: 0.39749
-postcode: "PE30 1AN"
+postcode: PE30 1AN
 city: King's Lynn
-street: "Norfolk Street"
-housenumber: 16
+street: Norfolk Street
+housenumber: "16"
 phone: ""
 opening_hours: ""
-website: "https://www.mossandleakey.com/"
+website: https://www.mossandleakey.com/

@@ -1,11 +1,11 @@
 id: 293858617
-type: way
+type: node
 latitude: 51.38789
 longitude: 0.54747
-postcode: "ME7 1DD"
+postcode: ME7 1DD
 city: Gillingham
-street: "Jeffery Street"
-housenumber: 44
-phone: "+44 1634 850947"
+street: Jeffery Street
+housenumber: "44"
+phone: +44 1634 850947
 opening_hours: ""
 website: ""

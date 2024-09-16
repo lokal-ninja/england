@@ -1,11 +1,11 @@
 id: 330597272
-type: way
+type: node
 latitude: 51.75204
 longitude: -0.33938
-postcode: "AL3 5DG"
+postcode: AL3 5DG
 city: St Albans
-street: "Market Place"
-housenumber: 34
-phone: "+44 370 1925641"
-opening_hours: "Mo-Sa 09:30-17:30; Su 11:00-16:00"
-website: "https://www.jomalone.co.uk/"
+street: Market Place
+housenumber: "34"
+phone: +44 370 1925641
+opening_hours: Mo-Sa 09:30-17:30; Su 11:00-16:00
+website: https://www.jomalone.co.uk/

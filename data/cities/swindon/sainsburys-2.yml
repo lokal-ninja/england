@@ -1,11 +1,11 @@
 id: 201484494
-type: way
+type: node
 latitude: 51.5771
 longitude: -1.72934
-postcode: "SN3 4EW"
+postcode: SN3 4EW
 city: Swindon
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su 10:00-16:00"
-website: "https://stores.sainsburys.co.uk/0745/stratton"
+opening_hours: Mo-Sa 07:00-22:00; Su 10:00-16:00
+website: https://stores.sainsburys.co.uk/0745/stratton

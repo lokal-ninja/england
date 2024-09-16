@@ -1,11 +1,11 @@
 id: 51249224
-type: way
+type: node
 latitude: 51.76447
 longitude: -0.22773
-postcode: "AL10 0ND"
+postcode: AL10 0ND
 city: Hatfield
-street: "The Common"
-housenumber: 20
+street: The Common
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

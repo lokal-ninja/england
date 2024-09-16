@@ -1,11 +1,11 @@
 id: 425416147
-type: way
+type: node
 latitude: 51.53794
 longitude: -2.39344
 postcode: ""
 city: Chipping Sodbury
-street: "Broad Street"
-housenumber: 54
+street: Broad Street
+housenumber: "54"
 phone: ""
 opening_hours: ""
 website: ""

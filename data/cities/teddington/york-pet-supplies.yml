@@ -1,11 +1,11 @@
 id: 766557621
-type: way
+type: node
 latitude: 51.4315
 longitude: -0.34525
-postcode: "TW11 8UD"
+postcode: TW11 8UD
 city: Teddington
-street: "Stanley Road"
-housenumber: 184
-phone: "+44 20 8977 8977"
+street: Stanley Road
+housenumber: "184"
+phone: +44 20 8977 8977
 opening_hours: ""
-website: "https://www.yorkpetsupplies.co.uk/"
+website: https://www.yorkpetsupplies.co.uk/

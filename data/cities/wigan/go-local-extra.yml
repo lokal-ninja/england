@@ -1,11 +1,11 @@
 id: 1201810189
-type: way
+type: node
 latitude: 53.56942
 longitude: -2.58518
-postcode: "WN2 1XW"
+postcode: WN2 1XW
 city: Wigan
-street: "Moorside"
-housenumber: 6
+street: Moorside
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

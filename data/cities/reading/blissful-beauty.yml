@@ -1,11 +1,11 @@
 id: 59038072
-type: way
+type: node
 latitude: 51.42623
 longitude: -0.9471
-postcode: "RG2 8EY"
+postcode: RG2 8EY
 city: Reading
-street: "Shinfield Road"
-housenumber: 254
+street: Shinfield Road
+housenumber: "254"
 phone: ""
-opening_hours: "Tu,Th 09:30-20:30; We-Sa 09:30-17:30"
-website: "https://www.blissfulbeauty.me.uk"
+opening_hours: Tu,Th 09:30-20:30; We-Sa 09:30-17:30
+website: https://www.blissfulbeauty.me.uk

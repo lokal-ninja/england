@@ -1,11 +1,11 @@
 id: 699577936
-type: way
+type: node
 latitude: 50.78087
 longitude: 0.30089
-postcode: "BN22 7RJ"
+postcode: BN22 7RJ
 city: Eastbourne
-street: "Seaside"
-housenumber: 340
-phone: "+44 1323 732522"
-opening_hours: "Mo-Su 08:00-17:00"
-website: "https://sapphirelights.co.uk/"
+street: Seaside
+housenumber: "340"
+phone: +44 1323 732522
+opening_hours: Mo-Su 08:00-17:00
+website: https://sapphirelights.co.uk/

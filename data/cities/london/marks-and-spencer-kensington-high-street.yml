@@ -4,8 +4,8 @@ latitude: 51.50115
 longitude: -0.19228
 postcode: ""
 city: London
-street: "Kensington High Street"
-housenumber: 113
+street: Kensington High Street
+housenumber: "113"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su 12:00-18:00"
+opening_hours: Mo-Sa 08:00-21:00; Su 12:00-18:00
 website: ""

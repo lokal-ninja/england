@@ -1,11 +1,11 @@
 id: 822219103
-type: way
+type: node
 latitude: 50.78363
 longitude: 0.26745
-postcode: "BN21 2RB"
+postcode: BN21 2RB
 city: Eastbourne
-street: "Framfield Way"
-housenumber: 34
+street: Framfield Way
+housenumber: "34"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00 Su 10:00-21:00"
-website: "https://www.betfred.com/"
+opening_hours: Mo-Sa 09:00-21:00 Su 10:00-21:00
+website: https://www.betfred.com/

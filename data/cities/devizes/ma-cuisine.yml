@@ -1,11 +1,11 @@
 id: 903753736
-type: way
+type: node
 latitude: 51.35281
 longitude: -1.99464
-postcode: "SN10 1JG"
+postcode: SN10 1JG
 city: Devizes
-street: "The Market Place"
-housenumber: 40
+street: The Market Place
+housenumber: "40"
 phone: ""
-opening_hours: "Mo-Sa 09:00-17:30"
+opening_hours: Mo-Sa 09:00-17:30
 website: ""

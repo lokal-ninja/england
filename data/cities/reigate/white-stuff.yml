@@ -2,10 +2,10 @@ id: 6805873662
 type: node
 latitude: 51.23796
 longitude: -0.20936
-postcode: "RH2 9AP"
+postcode: RH2 9AP
 city: Reigate
-street: "High Street"
-housenumber: 84
+street: High Street
+housenumber: "84"
 phone: ""
 opening_hours: ""
 website: ""

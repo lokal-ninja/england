@@ -1,11 +1,11 @@
 id: 1227239592
-type: way
+type: node
 latitude: 53.43755
 longitude: -1.43643
-postcode: "S5 0DP"
+postcode: S5 0DP
 city: Sheffield
-street: "Deep Lane"
-housenumber: 
+street: Deep Lane
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

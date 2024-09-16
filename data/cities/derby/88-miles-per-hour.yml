@@ -1,11 +1,11 @@
 id: 312282987
-type: way
+type: node
 latitude: 52.89462
 longitude: -1.34162
-postcode: "DE72 3PS"
+postcode: DE72 3PS
 city: Derby
-street: "Victoria Road"
-housenumber: 23
+street: Victoria Road
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

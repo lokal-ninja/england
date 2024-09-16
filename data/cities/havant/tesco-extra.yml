@@ -1,11 +1,11 @@
 id: 27145658
-type: way
+type: node
 latitude: 50.84955
 longitude: -0.98549
-postcode: "PO9 1TR"
+postcode: PO9 1TR
 city: Havant
-street: "Solent Road"
-housenumber: 
-phone: "+44 345 026 9570"
-opening_hours: "Mo-Sa 06:00-24:00; Su 10:00-16:00"
-website: "https://www.tesco.com/store-locator/havant/solent-rd"
+street: Solent Road
+housenumber: ""
+phone: +44 345 026 9570
+opening_hours: Mo-Sa 06:00-24:00; Su 10:00-16:00
+website: https://www.tesco.com/store-locator/havant/solent-rd

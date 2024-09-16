@@ -1,11 +1,11 @@
 id: 204334201
-type: way
+type: node
 latitude: 50.33431
 longitude: -4.77547
-postcode: "PL25 4PR"
+postcode: PL25 4PR
 city: St Austell
-street: "Cromwell Road"
-housenumber: 
+street: Cromwell Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo 07:00-24:00; Tu-Fr 00:00-24:00; Sa 00:00-22:00; Su 10:00-16:00"
+opening_hours: Mo 07:00-24:00; Tu-Fr 00:00-24:00; Sa 00:00-22:00; Su 10:00-16:00
 website: ""

@@ -1,11 +1,11 @@
 id: 589649639
-type: way
+type: node
 latitude: 51.47423
 longitude: -0.24438
-postcode: "SW13 9HH"
+postcode: SW13 9HH
 city: London
-street: "Church Road"
-housenumber: 55
+street: Church Road
+housenumber: "55"
 phone: ""
-opening_hours: "Mo-Sa 9:00-17:00"
-website: "https://shopnina.co.uk/"
+opening_hours: Mo-Sa 9:00-17:00
+website: https://shopnina.co.uk/

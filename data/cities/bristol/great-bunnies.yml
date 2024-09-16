@@ -1,11 +1,11 @@
 id: 186297206
-type: way
+type: node
 latitude: 51.45642
 longitude: -2.59843
-postcode: "BS1 5BQ"
+postcode: BS1 5BQ
 city: Bristol
-street: "Perry Road"
-housenumber: 5
+street: Perry Road
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

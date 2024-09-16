@@ -1,11 +1,11 @@
 id: 337769196
-type: way
+type: node
 latitude: 54.34262
 longitude: -1.42655
-postcode: "DL6 1JZ"
+postcode: DL6 1JZ
 city: Northallerton
-street: "Forest Road"
-housenumber: 18
+street: Forest Road
+housenumber: "18"
 phone: ""
 opening_hours: ""
-website: "https://my.morrisons.com/storefinder/64932/morrisons-daily-northallerton-forest-road"
+website: https://my.morrisons.com/storefinder/64932/morrisons-daily-northallerton-forest-road

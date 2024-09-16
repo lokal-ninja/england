@@ -1,11 +1,11 @@
 id: 232592403
-type: way
+type: node
 latitude: 51.53751
 longitude: -0.14511
-postcode: "NW1 7PP"
+postcode: NW1 7PP
 city: London
-street: "Parkway"
-housenumber: 67
+street: Parkway
+housenumber: "67"
 phone: ""
 opening_hours: ""
-website: "https://www.hotblackdesiato.co.uk/"
+website: https://www.hotblackdesiato.co.uk/

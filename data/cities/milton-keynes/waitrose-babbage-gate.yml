@@ -1,11 +1,11 @@
 id: 446674738
-type: way
+type: node
 latitude: 52.03805
 longitude: -0.71418
-postcode: "MK10 9SU"
+postcode: MK10 9SU
 city: Milton Keynes
-street: "Babbage Gate"
-housenumber: 3
-phone: "+44 1908 230565"
-opening_hours: "Mo-Sa 07:00-22:00; Su 11:00-17:00"
-website: "https://www.waitrose.com/find-a-store/oakgrove-milton-keynes"
+street: Babbage Gate
+housenumber: "3"
+phone: +44 1908 230565
+opening_hours: Mo-Sa 07:00-22:00; Su 11:00-17:00
+website: https://www.waitrose.com/find-a-store/oakgrove-milton-keynes

@@ -1,11 +1,11 @@
 id: 314185249
-type: way
+type: node
 latitude: 51.53597
 longitude: 0.08212
-postcode: "IG11 7NY"
+postcode: IG11 7NY
 city: Barking
-street: "Ripple Road"
-housenumber: 107
+street: Ripple Road
+housenumber: "107"
 phone: ""
 opening_hours: ""
 website: ""

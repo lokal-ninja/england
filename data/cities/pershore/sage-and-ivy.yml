@@ -1,11 +1,11 @@
 id: 358599451
-type: way
+type: node
 latitude: 52.11077
 longitude: -2.075
-postcode: "WR10 1AA"
+postcode: WR10 1AA
 city: Pershore
-street: "High Street"
-housenumber: 25
+street: High Street
+housenumber: "25"
 phone: ""
 opening_hours: ""
-website: "https://www.sageandivy.co.uk/"
+website: https://www.sageandivy.co.uk/

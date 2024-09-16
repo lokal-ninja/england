@@ -1,11 +1,11 @@
 id: 395171832
-type: way
+type: node
 latitude: 51.46769
 longitude: -2.56478
-postcode: "BS5 6HX"
+postcode: BS5 6HX
 city: Bristol
-street: "Saint Marks Road"
-housenumber: 71
+street: Saint Marks Road
+housenumber: "71"
 phone: ""
 opening_hours: ""
 website: ""

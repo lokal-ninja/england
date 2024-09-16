@@ -1,11 +1,11 @@
 id: 986455566
-type: way
+type: node
 latitude: 50.82574
 longitude: -0.29738
-postcode: "BN15 8JX"
+postcode: BN15 8JX
 city: Lancing
-street: "Brighton Road"
-housenumber: 401
+street: Brighton Road
+housenumber: "401"
 phone: ""
 opening_hours: ""
 website: ""

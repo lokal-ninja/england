@@ -1,11 +1,11 @@
 id: 643123059
-type: way
+type: node
 latitude: 52.62681
 longitude: 1.29517
-postcode: "NR1 3JZ"
+postcode: NR1 3JZ
 city: Norwich
-street: "Timberhill"
-housenumber: 5
+street: Timberhill
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://www.fir-salon.co.uk/"
+website: https://www.fir-salon.co.uk/

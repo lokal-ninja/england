@@ -2,10 +2,10 @@ id: 4302617029
 type: node
 latitude: 53.48088
 longitude: -2.24892
-postcode: "M3 3BN"
+postcode: M3 3BN
 city: Manchester
-street: "Bridge Street"
-housenumber: 64
+street: Bridge Street
+housenumber: "64"
 phone: ""
 opening_hours: ""
 website: ""

@@ -2,10 +2,10 @@ id: 4495225233
 type: node
 latitude: 51.43199
 longitude: -0.54659
-postcode: "TW20 9HN"
+postcode: TW20 9HN
 city: Egham
-street: "High Street"
-housenumber: 35
+street: High Street
+housenumber: "35"
 phone: ""
-opening_hours: "Mo-Sa 09:00-17:30; Su 10:00-16:00"
+opening_hours: Mo-Sa 09:00-17:30; Su 10:00-16:00
 website: ""

@@ -1,11 +1,11 @@
 id: 428130541
-type: way
+type: node
 latitude: 51.48398
 longitude: -0.32135
-postcode: "TW8 9DN"
+postcode: TW8 9DN
 city: Brentford
-street: "Great West Road"
-housenumber: 971
-phone: "+44 333 999 9827"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 11:00-17:00"
-website: "https://www.dfs.co.uk/"
+street: Great West Road
+housenumber: "971"
+phone: +44 333 999 9827
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 11:00-17:00
+website: https://www.dfs.co.uk/

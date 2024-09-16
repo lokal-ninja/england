@@ -1,11 +1,11 @@
 id: 106423523
-type: way
+type: node
 latitude: 52.66686
 longitude: 1.27383
-postcode: "NR6 6BB"
+postcode: NR6 6BB
 city: Norwich
-street: "Delft Way"
-housenumber: 
-phone: "+44 1603 480000"
-opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-17:30; Su 10:00-16:00"
-website: "https://slmnorwich.toyota.co.uk/"
+street: Delft Way
+housenumber: ""
+phone: +44 1603 480000
+opening_hours: Mo-Fr 08:30-18:00; Sa 08:30-17:30; Su 10:00-16:00
+website: https://slmnorwich.toyota.co.uk/

@@ -1,11 +1,11 @@
 id: 821090951
-type: way
+type: node
 latitude: 52.57925
 longitude: -1.98153
-postcode: "WS1 3NR"
+postcode: WS1 3NR
 city: Walsall
-street: "Caldmore Road"
-housenumber: 93
+street: Caldmore Road
+housenumber: "93"
 phone: ""
 opening_hours: ""
 website: ""

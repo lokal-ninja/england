@@ -1,11 +1,11 @@
 id: 665994700
-type: way
+type: node
 latitude: 51.38615
 longitude: 0.50722
 postcode: ""
 city: Rochester
-street: "High Street"
+street: High Street
 housenumber: 163a
-phone: "+44 1634 814760"
+phone: +44 1634 814760
 opening_hours: ""
-website: "https://www.rochesterhair.co.uk/"
+website: https://www.rochesterhair.co.uk/

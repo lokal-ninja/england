@@ -1,11 +1,11 @@
 id: 1009372937
-type: way
+type: node
 latitude: 53.38433
 longitude: -2.62071
-postcode: "WA5 1BS"
+postcode: WA5 1BS
 city: Warrington
-street: "Princess Street"
-housenumber: 
-phone: "+44 1925 413793"
-opening_hours: "Mo-Fr 08:30-17:00; Sa 08:30-12:00"
+street: Princess Street
+housenumber: ""
+phone: +44 1925 413793
+opening_hours: Mo-Fr 08:30-17:00; Sa 08:30-12:00
 website: ""

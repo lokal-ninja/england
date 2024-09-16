@@ -1,11 +1,11 @@
 id: 32842347
-type: way
+type: node
 latitude: 52.51522
 longitude: -2.06553
-postcode: "DY1 4RP"
+postcode: DY1 4RP
 city: Dudley
-street: "Birmingham New Road"
-housenumber: 
+street: Birmingham New Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 00:00-24:00, Su 10:00-16:00"
+opening_hours: Mo-Sa 00:00-24:00, Su 10:00-16:00
 website: ""

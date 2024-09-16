@@ -1,11 +1,11 @@
 id: 189718586
-type: way
+type: node
 latitude: 52.58854
 longitude: -0.72088
-postcode: "LE15 9QL"
+postcode: LE15 9QL
 city: Uppingham
-street: "North Street East"
-housenumber: 22
+street: North Street East
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Sa 06:00-22:00; Su 10:00-16:00"
-website: "https://www.coop.co.uk/store-finder/LE15-9QL/22-north-street-east"
+opening_hours: Mo-Sa 06:00-22:00; Su 10:00-16:00
+website: https://www.coop.co.uk/store-finder/LE15-9QL/22-north-street-east

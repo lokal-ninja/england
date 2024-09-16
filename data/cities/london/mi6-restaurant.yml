@@ -1,11 +1,11 @@
 id: 122020339
-type: way
+type: node
 latitude: 51.51826
 longitude: -0.13421
-postcode: "W1T 2LP"
+postcode: W1T 2LP
 city: London
-street: "Charlotte Street"
-housenumber: 4
+street: Charlotte Street
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

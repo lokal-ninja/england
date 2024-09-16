@@ -1,11 +1,11 @@
 id: 1132971266
-type: way
+type: node
 latitude: 52.02932
 longitude: 1.22253
-postcode: "IP3 9GU"
+postcode: IP3 9GU
 city: Ipswich
-street: "Edison Close"
-housenumber: 3
+street: Edison Close
+housenumber: "3"
 phone: "+443330323155"
 opening_hours: ""
-website: "https://www.eurocell.co.uk/branch-finder/ipswich"
+website: https://www.eurocell.co.uk/branch-finder/ipswich

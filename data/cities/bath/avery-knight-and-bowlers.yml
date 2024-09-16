@@ -1,11 +1,11 @@
 id: 90942471
-type: way
+type: node
 latitude: 51.38186
 longitude: -2.36656
 postcode: ""
 city: Bath
-street: "James Street West"
-housenumber: 33
+street: James Street West
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 799599535
-type: way
+type: node
 latitude: 52.38349
 longitude: 0.71671
-postcode: "IP24 2PH"
+postcode: IP24 2PH
 city: Thetford
 street: ""
-housenumber: 84
+housenumber: "84"
 phone: ""
 opening_hours: ""
-website: "https://www.gorsemotors.co.uk/"
+website: https://www.gorsemotors.co.uk/

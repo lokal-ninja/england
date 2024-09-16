@@ -2,10 +2,10 @@ id: 3906862939
 type: node
 latitude: 53.83345
 longitude: -1.6476
-postcode: "LS18 4DP"
+postcode: LS18 4DP
 city: Leeds
-street: "New Road Side"
-housenumber: 194
-phone: "+44 113 281 8128"
-opening_hours: "Mo-Sa 10:00-17:00"
-website: "http://www.wharfedalefurniture.com/"
+street: New Road Side
+housenumber: "194"
+phone: +44 113 281 8128
+opening_hours: Mo-Sa 10:00-17:00
+website: http://www.wharfedalefurniture.com/

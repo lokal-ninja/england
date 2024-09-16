@@ -1,11 +1,11 @@
 id: 166568825
-type: way
+type: node
 latitude: 50.79962
 longitude: -1.98599
-postcode: "BH21 1ED"
+postcode: BH21 1ED
 city: Wimborne Minster
-street: "Crown Mead"
-housenumber: 1
+street: Crown Mead
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 06:00-22:00; Su 10:00-16:00"
-website: "https://www.coop.co.uk/store-finder/BH21-1ED/crown-mead"
+opening_hours: Mo-Sa 06:00-22:00; Su 10:00-16:00
+website: https://www.coop.co.uk/store-finder/BH21-1ED/crown-mead

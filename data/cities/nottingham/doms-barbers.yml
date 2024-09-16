@@ -1,11 +1,11 @@
 id: 442285803
-type: way
+type: node
 latitude: 52.9721
 longitude: -1.09654
-postcode: "NG4 3SB"
+postcode: NG4 3SB
 city: Nottingham
-street: "Cavendish Road"
-housenumber: 206
+street: Cavendish Road
+housenumber: "206"
 phone: ""
 opening_hours: ""
 website: ""

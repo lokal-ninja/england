@@ -1,11 +1,11 @@
 id: 707209095
-type: way
+type: node
 latitude: 53.56742
 longitude: -2.44233
-postcode: "BL3 6LH"
+postcode: BL3 6LH
 city: Bolton
-street: "Derby Street"
-housenumber: 313
+street: Derby Street
+housenumber: "313"
 phone: ""
 opening_hours: ""
 website: ""

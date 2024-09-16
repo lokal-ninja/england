@@ -1,11 +1,11 @@
 id: 1097385457
-type: way
+type: node
 latitude: 50.39669
 longitude: -4.18054
-postcode: "PL5 1BL"
+postcode: PL5 1BL
 city: Plymouth
-street: "Wolseley Road"
-housenumber: 447
+street: Wolseley Road
+housenumber: "447"
 phone: ""
 opening_hours: ""
 website: ""

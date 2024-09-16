@@ -2,10 +2,10 @@ id: 307478288
 type: node
 latitude: 52.21406
 longitude: 0.12586
-postcode: "CB4 1EG"
+postcode: CB4 1EG
 city: Cambridge
-street: "Victoria Avenue"
-housenumber: 11
-phone: "+44 1223 350042"
-opening_hours: "Mo,We,Fr,Sa 10:00-18:00; Tu,Th 12:00-18:00; Su off"
+street: Victoria Avenue
+housenumber: "11"
+phone: +44 1223 350042
+opening_hours: Mo,We,Fr,Sa 10:00-18:00; Tu,Th 12:00-18:00; Su off
 website: ""

@@ -1,11 +1,11 @@
 id: 1039675529
-type: way
+type: node
 latitude: 51.59019
 longitude: -0.14632
-postcode: "N10 3HN"
+postcode: N10 3HN
 city: London
-street: "Fortis Green Road"
-housenumber: 72
+street: Fortis Green Road
+housenumber: "72"
 phone: ""
 opening_hours: ""
-website: "https://londonworks.com"
+website: https://londonworks.com

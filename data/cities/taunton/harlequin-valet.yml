@@ -1,11 +1,11 @@
 id: 279311649
-type: way
+type: node
 latitude: 51.00788
 longitude: -3.11777
-postcode: "TA1 4SS"
+postcode: TA1 4SS
 city: Taunton
-street: "Galmington Road"
-housenumber: 195
+street: Galmington Road
+housenumber: "195"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00, Sa 09:00-13:00"
+opening_hours: Mo-Fr 09:00-17:00, Sa 09:00-13:00
 website: ""

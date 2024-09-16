@@ -1,11 +1,11 @@
 id: 456681772
-type: way
+type: node
 latitude: 51.52605
 longitude: -2.59685
-postcode: "BS34 5GG"
+postcode: BS34 5GG
 city: Bristol
-street: "The Mall"
-housenumber: 49
+street: The Mall
+housenumber: "49"
 phone: ""
 opening_hours: ""
 website: ""

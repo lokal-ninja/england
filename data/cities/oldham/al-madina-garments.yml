@@ -2,10 +2,10 @@ id: 10002140620
 type: node
 latitude: 53.5406
 longitude: -2.11634
-postcode: "OL1 1LP"
+postcode: OL1 1LP
 city: Oldham
-street: "Barn Street"
-housenumber: 5
+street: Barn Street
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

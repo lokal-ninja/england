@@ -1,11 +1,11 @@
 id: 76770675
-type: way
+type: node
 latitude: 53.34136
 longitude: -2.73515
-postcode: "WA7 1AW"
+postcode: WA7 1AW
 city: Runcorn
-street: "High Street"
-housenumber: 60
+street: High Street
+housenumber: "60"
 phone: ""
 opening_hours: ""
 website: ""

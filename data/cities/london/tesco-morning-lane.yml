@@ -1,11 +1,11 @@
 id: 29635140
-type: way
+type: node
 latitude: 51.54665
 longitude: -0.05327
-postcode: "E9 6ND"
+postcode: E9 6ND
 city: London
-street: "Morning Lane"
-housenumber: 55
+street: Morning Lane
+housenumber: "55"
 phone: ""
-opening_hours: "Mo 06:00-00:00, Tu-Fr 00:00-24:00, Sa 00:00-22:00,Su 11:00-17:00"
+opening_hours: Mo 06:00-00:00, Tu-Fr 00:00-24:00, Sa 00:00-22:00,Su 11:00-17:00
 website: ""

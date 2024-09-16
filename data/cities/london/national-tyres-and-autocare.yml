@@ -1,11 +1,11 @@
 id: 902303824
-type: way
+type: node
 latitude: 51.41549
 longitude: -0.19558
-postcode: "SW19 1JN"
+postcode: SW19 1JN
 city: London
-street: "Kingston Road"
-housenumber: 57
+street: Kingston Road
+housenumber: "57"
 phone: ""
 opening_hours: ""
 website: ""

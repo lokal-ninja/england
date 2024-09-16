@@ -1,11 +1,11 @@
 id: 59993515
-type: way
+type: node
 latitude: 51.45758
 longitude: -0.07255
-postcode: "SE22 9EU"
+postcode: SE22 9EU
 city: London
-street: "North Cross Road"
-housenumber: 22
+street: North Cross Road
+housenumber: "22"
 phone: ""
 opening_hours: ""
-website: "https://www.drboo.co.uk/"
+website: https://www.drboo.co.uk/

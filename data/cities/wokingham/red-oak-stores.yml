@@ -1,11 +1,11 @@
 id: 652392583
-type: way
+type: node
 latitude: 51.3773
 longitude: -0.85604
-postcode: "RG40 3RL"
+postcode: RG40 3RL
 city: Wokingham
-street: "Finchampstead Road"
-housenumber: 425
-phone: "+44 118 973 7500"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-22:00"
-website: "https://www.londis.co.uk/our-stores/londis-wokingham"
+street: Finchampstead Road
+housenumber: "425"
+phone: +44 118 973 7500
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-22:00
+website: https://www.londis.co.uk/our-stores/londis-wokingham

@@ -1,11 +1,11 @@
 id: 204735070
-type: way
+type: node
 latitude: 51.46085
 longitude: -0.17475
-postcode: "SW11 1SZ"
+postcode: SW11 1SZ
 city: London
-street: "Saint John's Hill"
-housenumber: 125
-phone: "+44 20 3441 1044"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 10:00-18:00; Su 10:00-16:00"
-website: "www.thelondoncycleworkshop.co.uk"
+street: Saint John's Hill
+housenumber: "125"
+phone: +44 20 3441 1044
+opening_hours: Mo-Fr 07:00-19:00; Sa 10:00-18:00; Su 10:00-16:00
+website: www.thelondoncycleworkshop.co.uk

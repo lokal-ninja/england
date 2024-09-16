@@ -2,10 +2,10 @@ id: 4579324674
 type: node
 latitude: 52.44298
 longitude: -0.81963
-postcode: "NN14 2RL"
+postcode: NN14 2RL
 city: Kettering
-street: "Station Road"
-housenumber: 44
+street: Station Road
+housenumber: "44"
 phone: ""
 opening_hours: ""
 website: ""

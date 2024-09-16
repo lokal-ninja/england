@@ -1,11 +1,11 @@
 id: 415467430
-type: way
+type: node
 latitude: 51.50727
 longitude: -0.13296
-postcode: "SW1Y 5NP"
+postcode: SW1Y 5NP
 city: London
-street: "Pall Mall"
-housenumber: 9
+street: Pall Mall
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

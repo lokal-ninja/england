@@ -1,11 +1,11 @@
 id: 164725820
-type: way
+type: node
 latitude: 52.24658
 longitude: 0.40795
-postcode: "CB8 8NY"
+postcode: CB8 8NY
 city: Newmarket
-street: "Fred Archer Way"
-housenumber: 
+street: Fred Archer Way
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su 10:00-16:00"
-website: "https://www.waitrose.com/find-a-store/newmarket"
+opening_hours: Mo-Sa 07:00-20:00; Su 10:00-16:00
+website: https://www.waitrose.com/find-a-store/newmarket

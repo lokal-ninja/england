@@ -2,10 +2,10 @@ id: 3535822301
 type: node
 latitude: 55.54576
 longitude: -2.015
-postcode: "NE71 6LE"
+postcode: NE71 6LE
 city: Wooler
-street: "Market Place"
-housenumber: 21
+street: Market Place
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

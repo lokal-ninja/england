@@ -1,11 +1,11 @@
 id: 1287724673
-type: way
+type: node
 latitude: 53.30955
 longitude: -1.35599
-postcode: "S21 4FU"
+postcode: S21 4FU
 city: Sheffield
-street: "Southgate"
-housenumber: 3
+street: Southgate
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

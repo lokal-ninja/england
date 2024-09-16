@@ -4,8 +4,8 @@ latitude: 50.65657
 longitude: -1.15008
 postcode: ""
 city: Sandown
-street: "Avenue Road"
-housenumber: 4
+street: Avenue Road
+housenumber: "4"
 phone: ""
-opening_hours: "by appointment"
+opening_hours: '"by appointment"'
 website: ""

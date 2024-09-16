@@ -2,10 +2,10 @@ id: 6405139642
 type: node
 latitude: 53.48104
 longitude: -2.23383
-postcode: "M1 2AN"
+postcode: M1 2AN
 city: Manchester
-street: "Newton Street"
-housenumber: 8
+street: Newton Street
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

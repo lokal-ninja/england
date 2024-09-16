@@ -2,10 +2,10 @@ id: 7188946421
 type: node
 latitude: 51.87519
 longitude: -0.43894
-postcode: "LU1 5RD"
+postcode: LU1 5RD
 city: Luton
-street: "Market Square"
-housenumber: 8
+street: Market Square
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

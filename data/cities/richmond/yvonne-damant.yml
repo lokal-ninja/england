@@ -1,11 +1,11 @@
 id: 432808226
-type: way
+type: node
 latitude: 51.45666
 longitude: -0.3031
-postcode: "TW10 6RE"
+postcode: TW10 6RE
 city: Richmond
-street: "Richmond Hill"
-housenumber: 
+street: Richmond Hill
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -2,10 +2,10 @@ id: 10076043548
 type: node
 latitude: 50.72449
 longitude: -3.53165
-postcode: "EX4 3RP"
+postcode: EX4 3RP
 city: Exeter
-street: "Queen Street"
-housenumber: 86
+street: Queen Street
+housenumber: "86"
 phone: ""
 opening_hours: ""
 website: ""

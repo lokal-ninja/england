@@ -1,11 +1,11 @@
 id: 616173052
-type: way
+type: node
 latitude: 51.88341
 longitude: -2.07391
-postcode: "GL53 7EH"
+postcode: GL53 7EH
 city: Cheltenham
-street: "Churchill Road"
-housenumber: 
-phone: "+44 1242 523 310"
-opening_hours: "Mo-Fr 08:00-17:30"
-website: "https://www.croftgarage-cheltenham.co.uk/"
+street: Churchill Road
+housenumber: ""
+phone: +44 1242 523 310
+opening_hours: Mo-Fr 08:00-17:30
+website: https://www.croftgarage-cheltenham.co.uk/

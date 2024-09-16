@@ -1,11 +1,11 @@
 id: 1226574934
-type: way
+type: node
 latitude: 50.90524
 longitude: -1.35309
-postcode: "SO19 8AJ"
+postcode: SO19 8AJ
 city: Southampton
-street: "North East Road"
-housenumber: 119
+street: North East Road
+housenumber: "119"
 phone: ""
 opening_hours: ""
 website: ""

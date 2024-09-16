@@ -2,10 +2,10 @@ id: 4317395285
 type: node
 latitude: 51.45816
 longitude: -0.306
-postcode: "TW9 1TQ"
+postcode: TW9 1TQ
 city: Richmond
-street: "Bridge Street"
-housenumber: 2
+street: Bridge Street
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

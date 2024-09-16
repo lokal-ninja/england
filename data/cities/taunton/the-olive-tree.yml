@@ -1,11 +1,11 @@
 id: 374830910
-type: way
+type: node
 latitude: 51.01727
 longitude: -3.10368
-postcode: "TA1 1UG"
+postcode: TA1 1UG
 city: Taunton
-street: "The Bridge"
-housenumber: 10
+street: The Bridge
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

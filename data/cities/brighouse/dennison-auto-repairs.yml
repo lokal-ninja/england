@@ -1,11 +1,11 @@
 id: 990176167
-type: way
+type: node
 latitude: 53.69586
 longitude: -1.78418
-postcode: "HD6 3DR"
+postcode: HD6 3DR
 city: Brighouse
-street: "Rastrick Common"
-housenumber: 27
-phone: "+44 1484 710800"
+street: Rastrick Common
+housenumber: "27"
+phone: +44 1484 710800
 opening_hours: ""
 website: ""

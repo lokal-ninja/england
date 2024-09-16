@@ -1,11 +1,11 @@
 id: 289724123
-type: way
+type: node
 latitude: 51.43613
 longitude: -0.05507
-postcode: "SE23 3HT"
+postcode: SE23 3HT
 city: London
-street: "Dartmouth Road"
-housenumber: 97
+street: Dartmouth Road
+housenumber: "97"
 phone: ""
 opening_hours: ""
 website: ""

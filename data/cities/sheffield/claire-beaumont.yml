@@ -1,11 +1,11 @@
 id: 1059691346
-type: way
+type: node
 latitude: 53.36765
 longitude: -1.52515
-postcode: "S11 7ER"
+postcode: S11 7ER
 city: Sheffield
-street: "Hangingwater Road"
-housenumber: 98
+street: Hangingwater Road
+housenumber: "98"
 phone: ""
 opening_hours: ""
 website: ""

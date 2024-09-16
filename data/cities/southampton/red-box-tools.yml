@@ -1,11 +1,11 @@
 id: 760540030
-type: way
+type: node
 latitude: 50.93328
 longitude: -1.50587
-postcode: "SO40 3SA"
+postcode: SO40 3SA
 city: Southampton
-street: "Eddystone Road"
-housenumber: 
+street: Eddystone Road
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.redboxtools.com/"
+website: https://www.redboxtools.com/

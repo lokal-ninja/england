@@ -1,11 +1,11 @@
 id: 164682937
-type: way
+type: node
 latitude: 51.41418
 longitude: -0.12401
-postcode: "SW16 3LH"
+postcode: SW16 3LH
 city: London
-street: "Hermitage Lane"
-housenumber: 1
+street: Hermitage Lane
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.lidl.co.uk/s/en-GB/store-finder/london/norbury/hermitage-lane-1/"
+website: https://www.lidl.co.uk/s/en-GB/store-finder/london/norbury/hermitage-lane-1/

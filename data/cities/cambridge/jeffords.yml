@@ -1,11 +1,11 @@
 id: 135915835
-type: way
+type: node
 latitude: 52.22021
 longitude: 0.14414
-postcode: "CB4 1QL"
+postcode: CB4 1QL
 city: Cambridge
-street: "Scotland Road"
-housenumber: 125
+street: Scotland Road
+housenumber: "125"
 phone: ""
 opening_hours: ""
-website: "https://www.jeffordcarpets.co.uk/"
+website: https://www.jeffordcarpets.co.uk/

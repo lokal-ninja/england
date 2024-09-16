@@ -1,11 +1,11 @@
 id: 598886979
-type: way
+type: node
 latitude: 50.74044
 longitude: -1.79403
-postcode: "BH23 2BD"
+postcode: BH23 2BD
 city: Christchurch
-street: "Barrack Road"
-housenumber: 148
+street: Barrack Road
+housenumber: "148"
 phone: ""
 opening_hours: ""
 website: ""

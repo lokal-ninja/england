@@ -1,11 +1,11 @@
 id: 254467876
-type: way
+type: node
 latitude: 53.38999
 longitude: -3.02004
-postcode: "CH41 6AG"
+postcode: CH41 6AG
 city: Birkenhead
-street: "Argyle Street"
-housenumber: 108
+street: Argyle Street
+housenumber: "108"
 phone: ""
 opening_hours: ""
 website: ""

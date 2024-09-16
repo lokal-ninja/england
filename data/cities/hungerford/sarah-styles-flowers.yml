@@ -1,11 +1,11 @@
 id: 313482050
-type: way
+type: node
 latitude: 51.41769
 longitude: -1.51355
 postcode: ""
 city: Hungerford
-street: "Bridge Street"
-housenumber: 2
+street: Bridge Street
+housenumber: "2"
 phone: ""
-opening_hours: "by Appointment"
+opening_hours: '"by Appointment"'
 website: ""

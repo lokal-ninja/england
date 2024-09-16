@@ -1,11 +1,11 @@
 id: 729970792
-type: way
+type: node
 latitude: 50.98957
 longitude: -1.49777
-postcode: "SO51 8DF;SO51 8DG"
+postcode: SO51 8DF;SO51 8DG
 city: Romsey
-street: "Latimer Street"
-housenumber: 17
+street: Latimer Street
+housenumber: "17"
 phone: ""
 opening_hours: ""
-website: "https://romseybridal.co.uk/"
+website: https://romseybridal.co.uk/

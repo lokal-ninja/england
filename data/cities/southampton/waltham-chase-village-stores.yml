@@ -1,11 +1,11 @@
 id: 197665478
-type: way
+type: node
 latitude: 50.93586
 longitude: -1.20122
-postcode: "SO32 2LG"
+postcode: SO32 2LG
 city: Southampton
-street: "Winchester Road"
-housenumber: 1
+street: Winchester Road
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 132619799
-type: way
+type: node
 latitude: 51.75962
 longitude: -1.21372
-postcode: "OX3 7RD"
+postcode: OX3 7RD
 city: Oxford
-street: "London Road"
-housenumber: 67
+street: London Road
+housenumber: "67"
 phone: ""
 opening_hours: ""
-website: "http://www.oxfordframing.co.uk/"
+website: http://www.oxfordframing.co.uk/

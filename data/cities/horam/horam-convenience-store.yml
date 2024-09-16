@@ -1,11 +1,11 @@
 id: 1073916041
-type: way
+type: node
 latitude: 50.93396
 longitude: 0.24335
-postcode: "TN21 0EH"
+postcode: TN21 0EH
 city: Horam
-street: "High Street"
-housenumber: 2
+street: High Street
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

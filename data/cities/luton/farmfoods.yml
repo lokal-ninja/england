@@ -2,10 +2,10 @@ id: 4223529561
 type: node
 latitude: 51.87833
 longitude: -0.41306
-postcode: "LU1 2TE"
+postcode: LU1 2TE
 city: Luton
-street: "The Mall"
-housenumber: 54
+street: The Mall
+housenumber: "54"
 phone: ""
 opening_hours: ""
 website: ""

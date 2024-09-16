@@ -1,11 +1,11 @@
 id: 171300320
-type: way
+type: node
 latitude: 51.47089
 longitude: -0.09322
-postcode: "SE5 8RX"
+postcode: SE5 8RX
 city: London
-street: "Denmark Hill"
-housenumber: 106
+street: Denmark Hill
+housenumber: "106"
 phone: ""
 opening_hours: ""
 website: ""

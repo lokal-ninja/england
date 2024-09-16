@@ -1,11 +1,11 @@
 id: 875681532
-type: way
+type: node
 latitude: 53.69229
 longitude: -1.31006
-postcode: "WF8 1AZ"
+postcode: WF8 1AZ
 city: Pontefract
-street: "Woolmarket"
-housenumber: 15
+street: Woolmarket
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

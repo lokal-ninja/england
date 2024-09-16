@@ -1,11 +1,11 @@
 id: 164241245
-type: way
+type: node
 latitude: 51.52601
 longitude: -0.08149
-postcode: "EC2A 3LX"
+postcode: EC2A 3LX
 city: London
-street: "Rivington Street"
-housenumber: 40
+street: Rivington Street
+housenumber: "40"
 phone: ""
 opening_hours: ""
-website: "https://eu.tala.co.uk/pages/flagship-showroom"
+website: https://eu.tala.co.uk/pages/flagship-showroom

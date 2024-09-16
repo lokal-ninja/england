@@ -1,11 +1,11 @@
 id: 316688348
-type: way
+type: node
 latitude: 51.52378
 longitude: 0.07116
 postcode: ""
 city: London
-street: "Claps Gate Lane"
-housenumber: 5
+street: Claps Gate Lane
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-18:00; Su 11:00-17:00"
+opening_hours: Mo-Fr 10:00-20:00; Sa 10:00-18:00; Su 11:00-17:00
 website: ""

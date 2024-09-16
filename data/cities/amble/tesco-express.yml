@@ -1,11 +1,11 @@
 id: 229051477
-type: way
+type: node
 latitude: 55.33449
 longitude: -1.5827
-postcode: "NE65 0DA"
+postcode: NE65 0DA
 city: Amble
-street: "Queen Street"
-housenumber: 93
+street: Queen Street
+housenumber: "93"
 phone: ""
 opening_hours: ""
 website: ""

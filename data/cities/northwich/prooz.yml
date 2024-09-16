@@ -1,11 +1,11 @@
 id: 319054161
-type: way
+type: node
 latitude: 53.26128
 longitude: -2.51397
-postcode: "CW9 5AY"
+postcode: CW9 5AY
 city: Northwich
-street: "Market Way"
-housenumber: 3
-phone: "+44 1606 333811"
+street: Market Way
+housenumber: "3"
+phone: +44 1606 333811
 opening_hours: ""
-website: "http://www.prooz.com/"
+website: http://www.prooz.com/

@@ -2,10 +2,10 @@ id: 5238673476
 type: node
 latitude: 51.21429
 longitude: -0.80133
-postcode: "GU9 7HH"
+postcode: GU9 7HH
 city: Farnham
-street: "West Street"
-housenumber: 109
-phone: "+44 1252 715390"
-opening_hours: "Mo-Sa 09:00-17:30"
-website: "https://www.pullingers.com/farnhamstore"
+street: West Street
+housenumber: "109"
+phone: +44 1252 715390
+opening_hours: Mo-Sa 09:00-17:30
+website: https://www.pullingers.com/farnhamstore

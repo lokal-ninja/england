@@ -1,11 +1,11 @@
 id: 166814306
-type: way
+type: node
 latitude: 51.75625
 longitude: -0.34923
-postcode: "AL3 4DR"
+postcode: AL3 4DR
 city: St Albans
-street: "Verulam Road"
-housenumber: 179
-phone: "+44 1727 858000"
+street: Verulam Road
+housenumber: "179"
+phone: +44 1727 858000
 opening_hours: ""
-website: "http://www.romansofstalbans.co.uk/"
+website: http://www.romansofstalbans.co.uk/

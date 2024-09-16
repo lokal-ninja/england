@@ -1,11 +1,11 @@
 id: 595580609
-type: way
+type: node
 latitude: 53.72373
 longitude: -1.56742
-postcode: "WF3 1AA"
+postcode: WF3 1AA
 city: Wakefield
-street: "Haigh Moor Road"
-housenumber: 2
+street: Haigh Moor Road
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

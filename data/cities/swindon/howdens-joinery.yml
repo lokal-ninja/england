@@ -1,11 +1,11 @@
 id: 1268780894
-type: way
+type: node
 latitude: 51.56269
 longitude: -1.81779
-postcode: "SN5 7YT"
+postcode: SN5 7YT
 city: Swindon
-street: "Bridgemead Close"
-housenumber: 
-phone: "+44 1793 240100"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-12:00"
-website: "https://www.howdens.com/find-a-depot/swindon-west"
+street: Bridgemead Close
+housenumber: ""
+phone: +44 1793 240100
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-12:00
+website: https://www.howdens.com/find-a-depot/swindon-west

@@ -1,11 +1,11 @@
 id: 362067142
-type: way
+type: node
 latitude: 54.97002
 longitude: -2.10258
-postcode: "NE46 1BA"
+postcode: NE46 1BA
 city: Hexham
-street: "Battle Hill"
-housenumber: 15
+street: Battle Hill
+housenumber: "15"
 phone: ""
 opening_hours: ""
-website: "https://www.nhs.uk/Services/opticians/MapsAndDirections/DefaultView.aspx?id=20357"
+website: https://www.nhs.uk/Services/opticians/MapsAndDirections/DefaultView.aspx?id=20357

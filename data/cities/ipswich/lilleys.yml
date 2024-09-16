@@ -1,11 +1,11 @@
 id: 859031799
-type: way
+type: node
 latitude: 52.03561
 longitude: 1.1794
-postcode: "IP3 0JJ"
+postcode: IP3 0JJ
 city: Ipswich
-street: "Reynolds Road"
-housenumber: 8
+street: Reynolds Road
+housenumber: "8"
 phone: "+441473728340"
-opening_hours: "Mo-Tu 07:00-16:00; We 07:00-13:00; Th-Sa 07:00-16:00"
+opening_hours: Mo-Tu 07:00-16:00; We 07:00-13:00; Th-Sa 07:00-16:00
 website: ""

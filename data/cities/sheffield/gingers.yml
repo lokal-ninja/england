@@ -1,11 +1,11 @@
 id: 1241467463
-type: way
+type: node
 latitude: 53.43203
 longitude: -1.45098
-postcode: "S5 0AW"
+postcode: S5 0AW
 city: Sheffield
-street: "Hartley Brook Road"
-housenumber: 121
+street: Hartley Brook Road
+housenumber: "121"
 phone: ""
 opening_hours: ""
 website: ""

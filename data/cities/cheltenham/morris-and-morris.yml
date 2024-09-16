@@ -1,11 +1,11 @@
 id: 170478935
-type: way
+type: node
 latitude: 51.90721
 longitude: -2.08425
-postcode: "GL51 9HG"
+postcode: GL51 9HG
 city: Cheltenham
-street: "Baker Street"
-housenumber: 5
+street: Baker Street
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

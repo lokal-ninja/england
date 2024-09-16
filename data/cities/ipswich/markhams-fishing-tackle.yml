@@ -1,11 +1,12 @@
 id: 1126792567
-type: way
+type: node
 latitude: 52.06162
 longitude: 1.18413
-postcode: "IP4 4NB"
+postcode: IP4 4NB
 city: Ipswich
-street: "Woodbridge Road"
-housenumber: 717
+street: Woodbridge Road
+housenumber: "717"
 phone: "+441473727841"
-opening_hours: "Mo 08:300-16:00; Tu 08:30-13:00; We-Fr 08:30-16:00; Sa 08:30-16:00; Su 08:30-12:00"
-website: "https://www.markhamsfishingtackle.co.uk/"
+opening_hours: Mo 08:300-16:00; Tu 08:30-13:00; We-Fr 08:30-16:00; Sa 08:30-16:00;
+    Su 08:30-12:00
+website: https://www.markhamsfishingtackle.co.uk/

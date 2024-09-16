@@ -1,11 +1,11 @@
 id: 1278186325
-type: way
+type: node
 latitude: 52.56856
 longitude: -2.0951
-postcode: "WV2 2NT"
+postcode: WV2 2NT
 city: Ettingshall
-street: "Ward Street"
-housenumber: 50
+street: Ward Street
+housenumber: "50"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
+opening_hours: Mo-Su 07:00-22:00
 website: ""

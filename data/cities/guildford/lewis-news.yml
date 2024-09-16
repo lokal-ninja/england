@@ -2,10 +2,10 @@ id: 290205905
 type: node
 latitude: 51.25588
 longitude: -0.5943
-postcode: "GU2 9XA"
+postcode: GU2 9XA
 city: Guildford
-street: "Worplesdon Road"
-housenumber: 123
+street: Worplesdon Road
+housenumber: "123"
 phone: ""
 opening_hours: ""
 website: ""

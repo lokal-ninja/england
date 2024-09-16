@@ -1,11 +1,11 @@
 id: 254018646
-type: way
+type: node
 latitude: 51.44242
 longitude: -1.60517
 postcode: ""
 city: Marlborough
-street: "High Street"
-housenumber: 
+street: High Street
+housenumber: ""
 phone: ""
-opening_hours: "Tu,Th 10:00-12:30,14:00-16:30; We,Sa 10:00-12:30"
+opening_hours: Tu,Th 10:00-12:30,14:00-16:30; We,Sa 10:00-12:30
 website: ""

@@ -1,11 +1,11 @@
 id: 171824445
-type: way
+type: node
 latitude: 51.48836
 longitude: -2.62542
-postcode: "BS9 3RL"
+postcode: BS9 3RL
 city: Bristol
-street: "Stoke Lane"
-housenumber: 7
+street: Stoke Lane
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

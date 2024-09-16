@@ -1,11 +1,11 @@
 id: 741697110
-type: way
+type: node
 latitude: 53.23092
 longitude: -0.53947
-postcode: "LN2 1JG"
+postcode: LN2 1JG
 city: Lincoln
-street: "High Street"
-housenumber: 278
+street: High Street
+housenumber: "278"
 phone: ""
 opening_hours: ""
-website: "https://geremenswear.co.uk/"
+website: https://geremenswear.co.uk/

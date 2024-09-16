@@ -1,11 +1,11 @@
 id: 199634678
-type: way
+type: node
 latitude: 51.58355
 longitude: -0.02838
-postcode: "E17 6PD"
+postcode: E17 6PD
 city: London
-street: "Palmerston Road"
-housenumber: 14
+street: Palmerston Road
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

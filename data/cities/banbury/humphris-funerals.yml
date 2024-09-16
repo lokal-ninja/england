@@ -1,11 +1,11 @@
 id: 930208718
-type: way
+type: node
 latitude: 52.06072
 longitude: -1.33662
-postcode: "OX16 5DG"
+postcode: OX16 5DG
 city: Banbury
-street: "Albert Street"
-housenumber: 32
-phone: "+441295 265424"
-opening_hours: "24/7"
-website: "https://humphrisfunerals.co.uk/"
+street: Albert Street
+housenumber: "32"
+phone: +441295 265424
+opening_hours: 24/7
+website: https://humphrisfunerals.co.uk/

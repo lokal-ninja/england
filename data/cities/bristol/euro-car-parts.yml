@@ -1,11 +1,11 @@
 id: 200512834
-type: way
+type: node
 latitude: 51.50365
 longitude: -2.67475
-postcode: "BS11 8DT"
+postcode: BS11 8DT
 city: Bristol
-street: "Fifth Way"
-housenumber: 
+street: Fifth Way
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 396968978
-type: way
+type: node
 latitude: 50.90837
 longitude: -1.40417
-postcode: "SO14 7DU"
+postcode: SO14 7DU
 city: Southampton
-street: "Above Bar Street"
-housenumber: 148
+street: Above Bar Street
+housenumber: "148"
 phone: ""
 opening_hours: ""
 website: ""

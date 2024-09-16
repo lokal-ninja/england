@@ -1,11 +1,11 @@
 id: 173589578
-type: way
+type: node
 latitude: 52.49126
 longitude: -2.99855
-postcode: "SY9 5AE"
+postcode: SY9 5AE
 city: Bishop's Castle
-street: "Church Street"
-housenumber: 
+street: Church Street
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.spar.co.uk/store-locator/afb14439-spar-bishops-castle/"
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.spar.co.uk/store-locator/afb14439-spar-bishops-castle/

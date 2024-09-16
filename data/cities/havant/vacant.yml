@@ -2,10 +2,10 @@ id: 11212611143
 type: node
 latitude: 50.85195
 longitude: -0.98437
-postcode: "PO9 1PG"
+postcode: PO9 1PG
 city: Havant
-street: "West Street"
-housenumber: 58
+street: West Street
+housenumber: "58"
 phone: ""
 opening_hours: ""
 website: ""

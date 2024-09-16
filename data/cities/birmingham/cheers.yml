@@ -1,11 +1,11 @@
 id: 100611926
-type: way
+type: node
 latitude: 52.4402
 longitude: -1.82561
-postcode: "B27 7RB"
+postcode: B27 7RB
 city: Birmingham
-street: "Greenwood Avenue"
-housenumber: 114
+street: Greenwood Avenue
+housenumber: "114"
 phone: ""
 opening_hours: ""
 website: ""

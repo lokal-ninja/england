@@ -1,11 +1,11 @@
 id: 389589901
-type: way
+type: node
 latitude: 53.0134
 longitude: -1.35061
-postcode: "DE75 7AH"
+postcode: DE75 7AH
 city: Heanor
-street: "Church Street"
-housenumber: 10
+street: Church Street
+housenumber: "10"
 phone: ""
 opening_hours: ""
-website: "https://www.bathtimeheanor.co.uk/"
+website: https://www.bathtimeheanor.co.uk/

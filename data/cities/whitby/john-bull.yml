@@ -2,10 +2,10 @@ id: 2031071006
 type: node
 latitude: 54.48703
 longitude: -0.614
-postcode: "YO21 3PW"
+postcode: YO21 3PW
 city: Whitby
-street: "St. Ann's Staith"
-housenumber: 4
+street: St. Ann's Staith
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "http://www.john-bull.com/store-locations"
+website: http://www.john-bull.com/store-locations

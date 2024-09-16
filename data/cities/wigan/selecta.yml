@@ -1,11 +1,11 @@
 id: 983704343
-type: way
+type: node
 latitude: 53.48808
 longitude: -2.63695
 postcode: ""
 city: Wigan
-street: "Wigan Road"
-housenumber: 13
+street: Wigan Road
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

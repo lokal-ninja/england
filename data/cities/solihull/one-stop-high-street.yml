@@ -1,11 +1,11 @@
 id: 155169331
-type: way
+type: node
 latitude: 52.38824
 longitude: -1.73491
-postcode: "B93 0NA"
+postcode: B93 0NA
 city: Solihull
-street: "High Street"
-housenumber: 1656
+street: High Street
+housenumber: "1656"
 phone: ""
-opening_hours: "06:00-22:00"
+opening_hours: 06:00-22:00
 website: ""

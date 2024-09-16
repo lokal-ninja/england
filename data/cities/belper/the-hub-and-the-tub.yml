@@ -1,11 +1,11 @@
 id: 129243856
-type: way
+type: node
 latitude: 52.986
 longitude: -1.4875
-postcode: "DE56 4GD"
+postcode: DE56 4GD
 city: Belper
-street: "Town Street"
-housenumber: 31
-phone: "+44 1332 842534"
+street: Town Street
+housenumber: "31"
+phone: +44 1332 842534
 opening_hours: ""
-website: "https://www.hubandthetub.net/"
+website: https://www.hubandthetub.net/

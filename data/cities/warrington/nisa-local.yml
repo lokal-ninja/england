@@ -1,11 +1,11 @@
 id: 98180991
-type: way
+type: node
 latitude: 53.42164
 longitude: -2.53484
-postcode: "WA3 7PH"
+postcode: WA3 7PH
 city: Warrington
-street: "Glover Road"
-housenumber: 
-phone: "+44 1925 817974"
-opening_hours: "Mo-Th 08:00-20:00; Fr-Sa 08:00-20:30; Su 08:30-20:00"
+street: Glover Road
+housenumber: ""
+phone: +44 1925 817974
+opening_hours: Mo-Th 08:00-20:00; Fr-Sa 08:00-20:30; Su 08:30-20:00
 website: ""

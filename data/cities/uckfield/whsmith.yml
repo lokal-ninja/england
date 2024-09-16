@@ -1,11 +1,11 @@
 id: 417085893
-type: way
+type: node
 latitude: 50.97034
 longitude: 0.09608
 postcode: ""
 city: Uckfield
-street: "High Street"
-housenumber: 33
+street: High Street
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

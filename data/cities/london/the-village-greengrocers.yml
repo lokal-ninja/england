@@ -2,10 +2,10 @@ id: 5274473906
 type: node
 latitude: 51.48136
 longitude: 0.03629
-postcode: "SE7 8UD"
+postcode: SE7 8UD
 city: London
-street: "The Village"
-housenumber: 2
+street: The Village
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00; Su 11:00-16:00"
+opening_hours: Mo-Sa 09:00-19:00; Su 11:00-16:00
 website: ""

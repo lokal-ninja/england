@@ -1,11 +1,11 @@
 id: 143829825
-type: way
+type: node
 latitude: 52.24917
 longitude: -1.14912
-postcode: "NN11 4HB"
+postcode: NN11 4HB
 city: Daventry
-street: "High March"
-housenumber: 19
-phone: "+44 1327 878878"
-opening_hours: "Mo-Fr 08:30-17:30"
-website: "https://www.mrtyre.com/branches/daventry"
+street: High March
+housenumber: "19"
+phone: +44 1327 878878
+opening_hours: Mo-Fr 08:30-17:30
+website: https://www.mrtyre.com/branches/daventry

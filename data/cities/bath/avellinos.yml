@@ -1,11 +1,11 @@
 id: 474338605
-type: way
+type: node
 latitude: 51.39011
 longitude: -2.35639
-postcode: "BA1 5DJ"
+postcode: BA1 5DJ
 city: Bath
-street: "Cleveland Place"
-housenumber: 5
-phone: "+44 1225 470194"
+street: Cleveland Place
+housenumber: "5"
+phone: +44 1225 470194
 opening_hours: ""
-website: "https://www.avellinosdelibath.co.uk/"
+website: https://www.avellinosdelibath.co.uk/

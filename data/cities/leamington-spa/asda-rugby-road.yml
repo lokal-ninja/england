@@ -1,11 +1,11 @@
 id: 434856381
-type: way
+type: node
 latitude: 52.29326
 longitude: -1.54776
-postcode: "CV32 6DN"
+postcode: CV32 6DN
 city: Leamington Spa
-street: "Rugby Road"
-housenumber: 130
+street: Rugby Road
+housenumber: "130"
 phone: ""
-opening_hours: "Mo-Su 07:00-23:00"
+opening_hours: Mo-Su 07:00-23:00
 website: ""

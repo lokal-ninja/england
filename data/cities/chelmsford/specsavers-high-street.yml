@@ -1,11 +1,11 @@
 id: 927299832
-type: way
+type: node
 latitude: 51.73402
 longitude: 0.47287
-postcode: "CM1 1DX"
+postcode: CM1 1DX
 city: Chelmsford
-street: "High Street"
+street: High Street
 housenumber: 92-93
-phone: "+44 1245 600000"
-opening_hours: "Mo-Sa 09:00-18:00; Su 09:00-17:00"
+phone: +44 1245 600000
+opening_hours: Mo-Sa 09:00-18:00; Su 09:00-17:00
 website: ""

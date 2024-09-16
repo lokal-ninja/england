@@ -2,10 +2,10 @@ id: 4339936023
 type: node
 latitude: 51.53551
 longitude: 0.03548
-postcode: "E13 9AT"
+postcode: E13 9AT
 city: London
-street: "Station Parade"
-housenumber: 1
+street: Station Parade
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

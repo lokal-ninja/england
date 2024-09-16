@@ -1,11 +1,11 @@
 id: 1218025151
-type: way
+type: node
 latitude: 53.49108
 longitude: -3.02647
-postcode: "L23 5SR"
+postcode: L23 5SR
 city: Liverpool
-street: "Coronation Road"
-housenumber: 72
+street: Coronation Road
+housenumber: "72"
 phone: ""
 opening_hours: ""
 website: ""

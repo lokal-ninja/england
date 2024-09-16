@@ -2,10 +2,10 @@ id: 8388258248
 type: node
 latitude: 52.45665
 longitude: 1.5637
-postcode: "NR34 9TL"
+postcode: NR34 9TL
 city: Beccles
-street: "Hungate"
-housenumber: 6
+street: Hungate
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

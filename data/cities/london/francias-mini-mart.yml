@@ -2,10 +2,10 @@ id: 420293957
 type: node
 latitude: 51.47643
 longitude: -0.06285
-postcode: "SE15 2TX"
+postcode: SE15 2TX
 city: London
-street: "Meeting House Lane"
-housenumber: 84
+street: Meeting House Lane
+housenumber: "84"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
 website: ""

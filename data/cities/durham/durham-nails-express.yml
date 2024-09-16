@@ -1,11 +1,11 @@
 id: 95596527
-type: way
+type: node
 latitude: 54.77792
 longitude: -1.57372
-postcode: "DH1 1RG"
+postcode: DH1 1RG
 city: Durham
-street: "Claypath"
-housenumber: 90
+street: Claypath
+housenumber: "90"
 phone: ""
 opening_hours: ""
 website: ""

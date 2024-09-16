@@ -1,11 +1,11 @@
 id: 1286445064
-type: way
+type: node
 latitude: 52.52965
 longitude: -2.03262
-postcode: "DY4 7EW"
+postcode: DY4 7EW
 city: Tipton
-street: "Great Bridge"
-housenumber: 42
+street: Great Bridge
+housenumber: "42"
 phone: ""
 opening_hours: ""
 website: ""

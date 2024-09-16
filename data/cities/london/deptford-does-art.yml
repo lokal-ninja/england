@@ -1,11 +1,11 @@
 id: 618372362
-type: way
+type: node
 latitude: 51.47572
 longitude: -0.02568
-postcode: "SE8 4AF"
+postcode: SE8 4AF
 city: London
-street: "Deptford High Street"
-housenumber: 28
+street: Deptford High Street
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

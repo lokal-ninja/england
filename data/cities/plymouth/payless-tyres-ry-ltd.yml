@@ -1,11 +1,11 @@
 id: 705105913
-type: way
+type: node
 latitude: 50.36953
 longitude: -4.11502
-postcode: "PL4 0SF"
+postcode: PL4 0SF
 city: Plymouth
-street: "Cattewater Road"
-housenumber: 371
+street: Cattewater Road
+housenumber: "371"
 phone: ""
 opening_hours: ""
 website: ""

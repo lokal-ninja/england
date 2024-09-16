@@ -1,11 +1,11 @@
 id: 274708777
-type: way
+type: node
 latitude: 51.48957
 longitude: -2.58453
-postcode: "BS7 0AB"
+postcode: BS7 0AB
 city: Bristol
-street: "Muller Road"
-housenumber: 5
+street: Muller Road
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

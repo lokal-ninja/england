@@ -1,11 +1,11 @@
 id: 124182549
-type: way
+type: node
 latitude: 51.01576
 longitude: -3.11058
-postcode: "TA1 4AU"
+postcode: TA1 4AU
 city: Taunton
-street: "Tangier"
-housenumber: 
-phone: "+44 1823 328600"
-opening_hours: "Mo-Fr 08:30-17:30; Sa 08:30-12:30"
-website: "https://www.hickleysautocentre.com"
+street: Tangier
+housenumber: ""
+phone: +44 1823 328600
+opening_hours: Mo-Fr 08:30-17:30; Sa 08:30-12:30
+website: https://www.hickleysautocentre.com

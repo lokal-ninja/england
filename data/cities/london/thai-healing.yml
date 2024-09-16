@@ -1,11 +1,11 @@
 id: 587565088
-type: way
+type: node
 latitude: 51.43642
 longitude: 0.04529
-postcode: "SE9 4TU"
+postcode: SE9 4TU
 city: London
-street: "Court Road"
-housenumber: 286
+street: Court Road
+housenumber: "286"
 phone: ""
 opening_hours: ""
 website: ""

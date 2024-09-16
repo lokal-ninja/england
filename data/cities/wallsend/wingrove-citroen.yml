@@ -1,11 +1,11 @@
 id: 100550412
-type: way
+type: node
 latitude: 55.01523
 longitude: -1.49723
-postcode: "NE28 9ND"
+postcode: NE28 9ND
 city: Wallsend
-street: "The Silverlink"
-housenumber: 
-phone: "+44 191 295 3000"
+street: The Silverlink
+housenumber: ""
+phone: +44 191 295 3000
 opening_hours: ""
-website: "http://www.wingrovesilverlink.citroen.co.uk/"
+website: http://www.wingrovesilverlink.citroen.co.uk/

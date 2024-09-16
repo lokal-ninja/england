@@ -1,11 +1,11 @@
 id: 190054103
-type: way
+type: node
 latitude: 51.45461
 longitude: -2.60253
-postcode: "BS1 5JN"
+postcode: BS1 5JN
 city: Bristol
-street: "Park Street"
-housenumber: 52
+street: Park Street
+housenumber: "52"
 phone: ""
 opening_hours: ""
 website: ""

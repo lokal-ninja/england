@@ -1,11 +1,11 @@
 id: 802664733
-type: way
+type: node
 latitude: 52.69115
 longitude: -2.49326
-postcode: "TF1 2DE"
+postcode: TF1 2DE
 city: Telford
-street: "Whitchurch Drive"
-housenumber: 
+street: Whitchurch Drive
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 09:30-16:00"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 09:30-16:00
 website: ""

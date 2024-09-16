@@ -1,11 +1,11 @@
 id: 107444609
-type: way
+type: node
 latitude: 52.50902
 longitude: -1.95705
-postcode: "B21 0AP"
+postcode: B21 0AP
 city: Birmingham
-street: "Holyhead Road"
-housenumber: 235
+street: Holyhead Road
+housenumber: "235"
 phone: ""
 opening_hours: ""
-website: "https://www.therange.co.uk/stores/west-bromwich"
+website: https://www.therange.co.uk/stores/west-bromwich

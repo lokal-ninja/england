@@ -1,11 +1,11 @@
 id: 217993502
-type: way
+type: node
 latitude: 51.51583
 longitude: -0.15065
-postcode: "W1U 1NJ"
+postcode: W1U 1NJ
 city: London
-street: "St. Christopher's Place"
-housenumber: 15
+street: St. Christopher's Place
+housenumber: "15"
 phone: ""
 opening_hours: ""
-website: "https://shiro-shiro.uk/"
+website: https://shiro-shiro.uk/

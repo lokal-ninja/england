@@ -1,11 +1,11 @@
 id: 586085695
-type: way
+type: node
 latitude: 51.46643
 longitude: -0.29743
-postcode: "TW9 2PQ"
+postcode: TW9 2PQ
 city: Richmond
-street: "Kew Road"
-housenumber: 112
+street: Kew Road
+housenumber: "112"
 phone: ""
 opening_hours: ""
 website: ""

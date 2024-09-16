@@ -1,11 +1,11 @@
 id: 42226808
-type: way
+type: node
 latitude: 53.34232
 longitude: -2.73321
-postcode: "WA7 1NE"
+postcode: WA7 1NE
 city: Runcorn
-street: "Granville Street"
-housenumber: 1
+street: Granville Street
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

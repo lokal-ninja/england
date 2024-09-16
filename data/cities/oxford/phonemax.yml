@@ -1,11 +1,11 @@
 id: 132619798
-type: way
+type: node
 latitude: 51.75976
 longitude: -1.21278
-postcode: "OX3 9AA"
+postcode: OX3 9AA
 city: Oxford
-street: "London Road"
-housenumber: 79
+street: London Road
+housenumber: "79"
 phone: ""
-opening_hours: "Mo-Sa 10:00-18:00; Su 11:00-17:00"
+opening_hours: Mo-Sa 10:00-18:00; Su 11:00-17:00
 website: ""

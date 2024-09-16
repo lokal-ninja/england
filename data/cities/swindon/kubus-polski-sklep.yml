@@ -1,11 +1,11 @@
 id: 165760942
-type: way
+type: node
 latitude: 51.56527
 longitude: -1.77939
 postcode: ""
 city: Swindon
-street: "Manchester Road"
-housenumber: 126
+street: Manchester Road
+housenumber: "126"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1266943407
-type: way
+type: node
 latitude: 51.77109
 longitude: -2.32364
-postcode: "GL2 7NY"
+postcode: GL2 7NY
 city: Whitminster
 street: ""
-housenumber: 6
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

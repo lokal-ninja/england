@@ -1,11 +1,11 @@
 id: 362084329
-type: way
+type: node
 latitude: 52.9199
 longitude: -0.62013
-postcode: "NG31 9QN"
+postcode: NG31 9QN
 city: Grantham
-street: "Princess Drive"
-housenumber: 143
+street: Princess Drive
+housenumber: "143"
 phone: ""
 opening_hours: ""
 website: ""

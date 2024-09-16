@@ -1,11 +1,11 @@
 id: 1284407567
-type: way
+type: node
 latitude: 53.45746
 longitude: -2.14951
-postcode: "M34 2NA"
+postcode: M34 2NA
 city: Manchester
-street: "Manchester Road"
-housenumber: 659
-phone: "+44 161 367 7944"
+street: Manchester Road
+housenumber: "659"
+phone: +44 161 367 7944
 opening_hours: ""
 website: ""

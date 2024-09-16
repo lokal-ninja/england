@@ -1,11 +1,11 @@
 id: 395231457
-type: way
+type: node
 latitude: 54.90075
 longitude: -1.5336
-postcode: "NE38 7RU"
+postcode: NE38 7RU
 city: Washington
 street: ""
-housenumber: 
-phone: "+44 191 5414050"
-opening_hours: "Mo-Fr 08:00-22:00; Sa 08:00-21:00; Su 10:00-16:00"
-website: "https://stores.sainsburys.co.uk/0555/washington"
+housenumber: ""
+phone: +44 191 5414050
+opening_hours: Mo-Fr 08:00-22:00; Sa 08:00-21:00; Su 10:00-16:00
+website: https://stores.sainsburys.co.uk/0555/washington

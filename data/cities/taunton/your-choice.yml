@@ -1,11 +1,11 @@
 id: 361585293
-type: way
+type: node
 latitude: 51.02612
 longitude: -3.10454
-postcode: "TA2 7SE"
+postcode: TA2 7SE
 city: Taunton
-street: "Kingston Road"
-housenumber: 32
+street: Kingston Road
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

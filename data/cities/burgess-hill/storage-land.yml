@@ -1,11 +1,11 @@
 id: 505623887
-type: way
+type: node
 latitude: 50.95501
 longitude: -0.14198
-postcode: "RH15 9NF"
+postcode: RH15 9NF
 city: Burgess Hill
-street: "Victoria Way"
-housenumber: 16
+street: Victoria Way
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

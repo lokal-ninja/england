@@ -1,11 +1,11 @@
 id: 678788518
-type: way
+type: node
 latitude: 51.76309
 longitude: -0.22734
-postcode: "AL10 0JJ"
+postcode: AL10 0JJ
 city: Hatfield
-street: "Town Centre"
-housenumber: 41
+street: Town Centre
+housenumber: "41"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 343519562
-type: way
+type: node
 latitude: 51.46746
 longitude: -0.37272
-postcode: "TW3 3HY"
+postcode: TW3 3HY
 city: Hounslow
-street: "Hospital Road"
-housenumber: 
+street: Hospital Road
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

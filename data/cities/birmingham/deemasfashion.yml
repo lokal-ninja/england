@@ -1,11 +1,11 @@
 id: 239781609
-type: way
+type: node
 latitude: 52.43551
 longitude: -1.89901
-postcode: "B14 7TE"
+postcode: B14 7TE
 city: Birmingham
-street: "Station Road"
-housenumber: 208
+street: Station Road
+housenumber: "208"
 phone: "+441212884400"
 opening_hours: ""
-website: "https://deemasfashion.com/"
+website: https://deemasfashion.com/

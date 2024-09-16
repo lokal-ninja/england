@@ -1,11 +1,11 @@
 id: 219244941
-type: way
+type: node
 latitude: 53.69793
 longitude: -1.61591
-postcode: "WF12 7DR"
+postcode: WF12 7DR
 city: Dewsbury
-street: "Leeds Road"
-housenumber: 303
+street: Leeds Road
+housenumber: "303"
 phone: ""
 opening_hours: ""
 website: ""

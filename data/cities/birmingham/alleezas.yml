@@ -1,11 +1,11 @@
 id: 339133066
-type: way
+type: node
 latitude: 52.4591
 longitude: -1.87642
-postcode: "B12 8JA"
+postcode: B12 8JA
 city: Birmingham
-street: "Ladypool Road"
-housenumber: 122
+street: Ladypool Road
+housenumber: "122"
 phone: ""
 opening_hours: ""
 website: ""

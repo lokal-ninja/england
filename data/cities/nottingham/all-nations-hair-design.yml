@@ -1,11 +1,11 @@
 id: 1125125188
-type: way
+type: node
 latitude: 52.99546
 longitude: -1.19081
-postcode: "NG6 9FF"
+postcode: NG6 9FF
 city: Nottingham
-street: "Highbury Road"
-housenumber: 180
+street: Highbury Road
+housenumber: "180"
 phone: ""
 opening_hours: ""
 website: ""

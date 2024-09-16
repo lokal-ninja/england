@@ -1,11 +1,11 @@
 id: 627812324
-type: way
+type: node
 latitude: 53.65833
 longitude: -1.54682
-postcode: "WF4 5DW"
+postcode: WF4 5DW
 city: Wakefield
-street: "Northfield Lane"
-housenumber: 8
+street: Northfield Lane
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

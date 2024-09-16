@@ -1,11 +1,11 @@
 id: 670959540
-type: way
+type: node
 latitude: 52.6273
 longitude: 1.29338
-postcode: "NR2 1QD"
+postcode: NR2 1QD
 city: Norwich
-street: "Haymarket"
-housenumber: 10
+street: Haymarket
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

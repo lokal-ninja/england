@@ -1,11 +1,11 @@
 id: 190393740
-type: way
+type: node
 latitude: 50.90574
 longitude: -1.39664
-postcode: "SO14 1PG"
+postcode: SO14 1PG
 city: Southampton
-street: "St Mary Street"
-housenumber: 120
+street: St Mary Street
+housenumber: "120"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 253393670
-type: way
+type: node
 latitude: 51.91604
 longitude: -0.67103
-postcode: "LU7 2NG"
+postcode: LU7 2NG
 city: Leighton Buzzard
-street: "Wing Road"
-housenumber: 7
+street: Wing Road
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

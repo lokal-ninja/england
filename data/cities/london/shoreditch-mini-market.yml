@@ -1,11 +1,11 @@
 id: 476399171
-type: way
+type: node
 latitude: 51.52748
 longitude: -0.07673
-postcode: "E2 7NS"
+postcode: E2 7NS
 city: London
-street: "Hackney Road"
-housenumber: 12
+street: Hackney Road
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Su,PH 00:00-00:00"
+opening_hours: Mo-Su,PH 00:00-00:00
 website: ""

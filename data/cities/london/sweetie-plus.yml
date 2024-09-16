@@ -2,10 +2,10 @@ id: 5165768021
 type: node
 latitude: 51.51506
 longitude: -0.08436
-postcode: "EC2N 1HQ"
+postcode: EC2N 1HQ
 city: London
-street: "Old Broad Street"
-housenumber: 25
+street: Old Broad Street
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

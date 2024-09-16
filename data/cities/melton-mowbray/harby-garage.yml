@@ -1,11 +1,11 @@
 id: 498294882
-type: way
+type: node
 latitude: 52.87398
 longitude: -0.89598
-postcode: "LE14 4BW"
+postcode: LE14 4BW
 city: Melton Mowbray
-street: "Nether Street"
-housenumber: 41
+street: Nether Street
+housenumber: "41"
 phone: ""
 opening_hours: ""
 website: ""

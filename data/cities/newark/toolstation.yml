@@ -1,11 +1,11 @@
 id: 200666374
-type: way
+type: node
 latitude: 53.09164
 longitude: -0.78915
-postcode: "NG24 2DZ"
+postcode: NG24 2DZ
 city: Newark
-street: "Brunel Drive"
-housenumber: 
-phone: "+44 3303333303"
+street: Brunel Drive
+housenumber: ""
+phone: +44 3303333303
 opening_hours: ""
 website: ""

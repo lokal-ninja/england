@@ -2,10 +2,10 @@ id: 8283444573
 type: node
 latitude: 53.19262
 longitude: -2.88174
-postcode: "CH1 3AE"
+postcode: CH1 3AE
 city: Chester
-street: "City Road"
-housenumber: 30
-phone: "+44 1244 342768"
-opening_hours: "Mo,Fr,Sa 11:00-17:00; Tu,Th 11:00-20:00"
-website: "https://www.cityaestheticschester.com/"
+street: City Road
+housenumber: "30"
+phone: +44 1244 342768
+opening_hours: Mo,Fr,Sa 11:00-17:00; Tu,Th 11:00-20:00
+website: https://www.cityaestheticschester.com/

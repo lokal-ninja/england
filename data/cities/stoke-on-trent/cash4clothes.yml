@@ -1,11 +1,11 @@
 id: 911052176
-type: way
+type: node
 latitude: 52.97098
 longitude: -2.05437
 postcode: ""
 city: Stoke-on-Trent
-street: "Chapel Street"
-housenumber: 2
+street: Chapel Street
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

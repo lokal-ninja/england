@@ -1,11 +1,11 @@
 id: 412517294
-type: way
+type: node
 latitude: 54.97683
 longitude: -1.58235
 postcode: ""
 city: Newcastle upon Tyne
-street: "Shields Road"
-housenumber: 120
+street: Shields Road
+housenumber: "120"
 phone: ""
 opening_hours: ""
 website: ""

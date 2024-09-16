@@ -1,11 +1,11 @@
 id: 121708534
-type: way
+type: node
 latitude: 52.48108
 longitude: -1.7717
-postcode: "B33 0AP"
+postcode: B33 0AP
 city: Birmingham
-street: "East Meadway"
-housenumber: 36
+street: East Meadway
+housenumber: "36"
 phone: ""
 opening_hours: ""
-website: "https://stores.centralengland.coop/west-midlands/birmingham/36-east-meadway"
+website: https://stores.centralengland.coop/west-midlands/birmingham/36-east-meadway

@@ -1,11 +1,11 @@
 id: 1170957452
-type: way
+type: node
 latitude: 53.74442
 longitude: -0.34268
-postcode: "HU1 3RA"
+postcode: HU1 3RA
 city: Hull
-street: "Little Queen Street"
-housenumber: 3
+street: Little Queen Street
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

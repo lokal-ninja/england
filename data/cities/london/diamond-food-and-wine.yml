@@ -1,11 +1,11 @@
 id: 1312813841
-type: way
+type: node
 latitude: 51.54655
 longitude: -0.15856
-postcode: "NW3 4RL"
+postcode: NW3 4RL
 city: London
-street: "Haverstock Hill"
-housenumber: 87
+street: Haverstock Hill
+housenumber: "87"
 phone: ""
 opening_hours: ""
 website: ""

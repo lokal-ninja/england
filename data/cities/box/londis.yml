@@ -1,11 +1,11 @@
 id: 377070832
-type: way
+type: node
 latitude: 51.41553
 longitude: -2.25162
-postcode: "SN13 8NQ"
+postcode: SN13 8NQ
 city: Box
-street: "High Street"
-housenumber: 
+street: High Street
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

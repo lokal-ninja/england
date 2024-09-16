@@ -1,11 +1,11 @@
 id: 128760704
-type: way
+type: node
 latitude: 51.80262
 longitude: 1.18195
-postcode: "CO15 5EP"
+postcode: CO15 5EP
 city: Clacton-on-Sea
-street: "Kings Avenue"
-housenumber: 96
+street: Kings Avenue
+housenumber: "96"
 phone: ""
 opening_hours: ""
 website: ""

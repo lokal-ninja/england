@@ -2,10 +2,10 @@ id: 10073490912
 type: node
 latitude: 51.49387
 longitude: -0.15902
-postcode: "SW1X 0AW"
+postcode: SW1X 0AW
 city: London
-street: "Pavilion Road"
-housenumber: 170
-phone: "+44 20 7730 3433"
-opening_hours: "Mo-Sa 08:00-19:00; Su 10:00-18:00"
-website: "https://www.papersmiths.co.uk/"
+street: Pavilion Road
+housenumber: "170"
+phone: +44 20 7730 3433
+opening_hours: Mo-Sa 08:00-19:00; Su 10:00-18:00
+website: https://www.papersmiths.co.uk/

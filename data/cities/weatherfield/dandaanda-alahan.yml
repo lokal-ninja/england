@@ -1,11 +1,11 @@
 id: 498630552
-type: way
+type: node
 latitude: 53.47057
 longitude: -2.302
 postcode: ""
 city: Weatherfield
-street: "Coronation Street"
-housenumber: 15
+street: Coronation Street
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Su off Part of the Coronation Street set"
+opening_hours: Mo-Su off "Part of the Coronation Street set"
 website: ""

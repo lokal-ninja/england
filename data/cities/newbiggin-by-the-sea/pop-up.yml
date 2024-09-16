@@ -1,11 +1,11 @@
 id: 88034942
-type: way
+type: node
 latitude: 55.18496
 longitude: -1.51214
-postcode: "NE64 6NJ"
+postcode: NE64 6NJ
 city: Newbiggin by the Sea
-street: "Front Street"
-housenumber: 45
+street: Front Street
+housenumber: "45"
 phone: ""
 opening_hours: ""
 website: ""

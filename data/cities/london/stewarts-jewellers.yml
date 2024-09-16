@@ -1,11 +1,11 @@
 id: 156501803
-type: way
+type: node
 latitude: 51.63045
 longitude: -0.17477
-postcode: "N20 9HH"
+postcode: N20 9HH
 city: London
-street: "High Road"
-housenumber: 1272
+street: High Road
+housenumber: "1272"
 phone: ""
-opening_hours: "Mo-Sa 09:30-17:00"
+opening_hours: Mo-Sa 09:30-17:00
 website: ""

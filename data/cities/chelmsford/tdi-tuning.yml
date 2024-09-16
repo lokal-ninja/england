@@ -1,11 +1,11 @@
 id: 502899568
-type: way
+type: node
 latitude: 51.72878
 longitude: 0.45775
-postcode: "CM1 2QX"
+postcode: CM1 2QX
 city: Chelmsford
-street: "Cromar Way"
-housenumber: 
-phone: "+44 1245 806446"
-opening_hours: "Mo-Fr 09:00-17:30; Sa-Su off"
-website: "https://tdi-tuning.com/"
+street: Cromar Way
+housenumber: ""
+phone: +44 1245 806446
+opening_hours: Mo-Fr 09:00-17:30; Sa-Su off
+website: https://tdi-tuning.com/

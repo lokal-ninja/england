@@ -1,11 +1,11 @@
 id: 64743248
-type: way
+type: node
 latitude: 52.48124
 longitude: -2.08061
-postcode: "DY2 9RR"
+postcode: DY2 9RR
 city: Dudley
-street: "Saltwells Road"
-housenumber: 
+street: Saltwells Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su 10:00-16:00"
+opening_hours: Mo-Sa 07:00-22:00; Su 10:00-16:00
 website: ""

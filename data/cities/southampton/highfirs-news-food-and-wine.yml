@@ -1,11 +1,11 @@
 id: 237088691
-type: way
+type: node
 latitude: 50.90675
 longitude: -1.34281
 postcode: ""
 city: Southampton
-street: "Bursledon Road"
-housenumber: 300
+street: Bursledon Road
+housenumber: "300"
 phone: ""
-opening_hours: "Mo-Sa 06:15-22:00; PH,Su 07:00-22:00"
-website: "https://www.premier-stores.co.uk/our-stores/highfirs-news"
+opening_hours: Mo-Sa 06:15-22:00; PH,Su 07:00-22:00
+website: https://www.premier-stores.co.uk/our-stores/highfirs-news

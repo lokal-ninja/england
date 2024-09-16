@@ -1,11 +1,11 @@
 id: 1068664225
-type: way
+type: node
 latitude: 53.3611
 longitude: -1.39453
-postcode: "S13 8SE"
+postcode: S13 8SE
 city: Sheffield
-street: "Stradbroke Drive"
-housenumber: 83
+street: Stradbroke Drive
+housenumber: "83"
 phone: ""
 opening_hours: ""
 website: ""

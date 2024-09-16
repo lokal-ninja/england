@@ -2,10 +2,10 @@ id: 1462955712
 type: node
 latitude: 52.12544
 longitude: -0.48082
-postcode: "MK42 8AD"
+postcode: MK42 8AD
 city: Kempston
-street: "Bedford Road"
-housenumber: 8
+street: Bedford Road
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

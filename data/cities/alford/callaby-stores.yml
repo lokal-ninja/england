@@ -1,11 +1,11 @@
 id: 863439686
-type: way
+type: node
 latitude: 53.2571
 longitude: 0.178
-postcode: "LN13 9AX"
+postcode: LN13 9AX
 city: Alford
-street: "Hamilton Road"
-housenumber: 72
+street: Hamilton Road
+housenumber: "72"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 858284651
-type: way
+type: node
 latitude: 51.52651
 longitude: 0.16667
-postcode: "RM13 8DJ"
+postcode: RM13 8DJ
 city: London Borough of Havering
-street: "New Road"
-housenumber: 21
+street: New Road
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-16:00; Su closed"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-16:00; Su closed
 website: ""

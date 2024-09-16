@@ -1,11 +1,11 @@
 id: 273191047
-type: way
+type: node
 latitude: 52.34329
 longitude: 0.51
-postcode: "IP28 7EF"
+postcode: IP28 7EF
 city: Bury St Edmunds
-street: "Market Place"
-housenumber: 33
+street: Market Place
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

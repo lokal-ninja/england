@@ -1,11 +1,11 @@
 id: 1112095294
-type: way
+type: node
 latitude: 51.5207
 longitude: 0.00727
-postcode: "E16 4RF"
+postcode: E16 4RF
 city: London
-street: "Star Lane"
-housenumber: 35
+street: Star Lane
+housenumber: "35"
 phone: ""
 opening_hours: ""
 website: ""

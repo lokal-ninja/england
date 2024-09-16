@@ -1,11 +1,11 @@
 id: 425382898
-type: way
+type: node
 latitude: 51.58268
 longitude: -0.02906
-postcode: "E17 7DB"
+postcode: E17 7DB
 city: London
-street: "High Street"
-housenumber: 109
+street: High Street
+housenumber: "109"
 phone: ""
 opening_hours: ""
-website: "https://www.cashconverters.co.uk/stores/walthamstow-high-street"
+website: https://www.cashconverters.co.uk/stores/walthamstow-high-street

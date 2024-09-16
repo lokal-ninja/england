@@ -1,11 +1,11 @@
 id: 385027827
-type: way
+type: node
 latitude: 52.95829
 longitude: -1.12745
-postcode: "NG3 2FX"
+postcode: NG3 2FX
 city: Nottingham
-street: "Carlton Road"
-housenumber: 189
+street: Carlton Road
+housenumber: "189"
 phone: ""
 opening_hours: ""
 website: ""

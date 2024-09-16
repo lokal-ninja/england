@@ -1,11 +1,11 @@
 id: 946165824
-type: way
+type: node
 latitude: 53.76855
 longitude: -1.76293
-postcode: "BD5 8NN"
+postcode: BD5 8NN
 city: Bradford
-street: "Manchester Road"
-housenumber: 1056
+street: Manchester Road
+housenumber: "1056"
 phone: ""
 opening_hours: ""
 website: ""

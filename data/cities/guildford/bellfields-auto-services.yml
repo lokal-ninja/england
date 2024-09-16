@@ -1,11 +1,11 @@
 id: 60623672
-type: way
+type: node
 latitude: 51.26355
 longitude: -0.56425
-postcode: "GU1 1SE"
+postcode: GU1 1SE
 city: Guildford
-street: "North Moors"
-housenumber: 
-phone: "+44 1483 560 251"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 07:30-14:00; Su,Bank Holidays closed"
-website: "https://www.bellfieldsautos.co.uk/"
+street: North Moors
+housenumber: ""
+phone: +44 1483 560 251
+opening_hours: Mo-Fr 07:30-18:00; Sa 07:30-14:00; Su,Bank Holidays closed
+website: https://www.bellfieldsautos.co.uk/

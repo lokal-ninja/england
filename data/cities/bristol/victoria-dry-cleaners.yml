@@ -1,11 +1,11 @@
 id: 309658479
-type: way
+type: node
 latitude: 51.45174
 longitude: -2.58769
-postcode: "BS1 6AH"
+postcode: BS1 6AH
 city: Bristol
-street: "Victoria Street"
-housenumber: 7
+street: Victoria Street
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "https://www.victoriadrycleaners.co.uk/"
+website: https://www.victoriadrycleaners.co.uk/

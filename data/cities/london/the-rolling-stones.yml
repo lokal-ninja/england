@@ -1,11 +1,11 @@
 id: 273610351
-type: way
+type: node
 latitude: 51.51271
 longitude: -0.13826
-postcode: "W1F 9PE"
+postcode: W1F 9PE
 city: London
-street: "Carnaby Street"
-housenumber: 9
+street: Carnaby Street
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

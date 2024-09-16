@@ -1,11 +1,11 @@
 id: 370682228
-type: way
+type: node
 latitude: 51.28283
 longitude: 1.08433
 postcode: ""
 city: Canterbury
-street: "Northgate"
-housenumber: 89
+street: Northgate
+housenumber: "89"
 phone: ""
-opening_hours: "Mo-Sa 08:30-18:30; Su 09:30-17:00"
+opening_hours: Mo-Sa 08:30-18:30; Su 09:30-17:00
 website: ""

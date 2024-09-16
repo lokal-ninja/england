@@ -1,11 +1,11 @@
 id: 482053675
-type: way
+type: node
 latitude: 53.44303
 longitude: -0.84473
-postcode: "DN10 4BU"
+postcode: DN10 4BU
 city: Doncaster
-street: "High Street"
-housenumber: 31
+street: High Street
+housenumber: "31"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
+opening_hours: Mo-Su 07:00-22:00
 website: ""

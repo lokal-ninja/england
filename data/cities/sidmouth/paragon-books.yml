@@ -1,11 +1,11 @@
 id: 1080974025
-type: way
+type: node
 latitude: 50.68056
 longitude: -3.23726
-postcode: "EX10 8EJ"
+postcode: EX10 8EJ
 city: Sidmouth
-street: "High Street"
-housenumber: 38
+street: High Street
+housenumber: "38"
 phone: ""
 opening_hours: ""
-website: "https://paragonbooks.wordpress.com/"
+website: https://paragonbooks.wordpress.com/

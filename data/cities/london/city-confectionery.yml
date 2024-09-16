@@ -1,11 +1,11 @@
 id: 60890312
-type: way
+type: node
 latitude: 51.51263
 longitude: -0.10679
-postcode: "EC4Y 0AY"
+postcode: EC4Y 0AY
 city: London
-street: "Tudor Street"
-housenumber: 24
+street: Tudor Street
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

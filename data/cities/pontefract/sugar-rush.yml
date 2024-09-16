@@ -1,11 +1,11 @@
 id: 970320346
-type: way
+type: node
 latitude: 53.59473
 longitude: -1.28936
-postcode: "WF9 2RN"
+postcode: WF9 2RN
 city: Pontefract
-street: "Barnsley Road"
-housenumber: 21
+street: Barnsley Road
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

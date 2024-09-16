@@ -1,11 +1,11 @@
 id: 236244831
-type: way
+type: node
 latitude: 53.75951
 longitude: -2.70082
-postcode: "PR1 2AU"
+postcode: PR1 2AU
 city: Preston
-street: "Friargate"
-housenumber: 9
+street: Friargate
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

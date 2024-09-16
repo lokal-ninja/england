@@ -1,11 +1,11 @@
 id: 30923001
-type: way
+type: node
 latitude: 53.41723
 longitude: -2.61711
-postcode: "WA5 7TP"
+postcode: WA5 7TP
 city: Warrington
-street: "Europa Boulevard"
-housenumber: 551
-phone: "+44 1925 658833"
-opening_hours: "Mo-Fr 10:00-16:00"
-website: "https://www.warringtonauction.co.uk/"
+street: Europa Boulevard
+housenumber: "551"
+phone: +44 1925 658833
+opening_hours: Mo-Fr 10:00-16:00
+website: https://www.warringtonauction.co.uk/

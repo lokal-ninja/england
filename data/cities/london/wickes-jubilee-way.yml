@@ -1,11 +1,11 @@
 id: 364029784
-type: way
+type: node
 latitude: 51.41228
 longitude: -0.1921
-postcode: "SW19 3XD"
+postcode: SW19 3XD
 city: London
-street: "Jubilee Way"
-housenumber: 
+street: Jubilee Way
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su 10:00-16:00"
+opening_hours: Mo-Sa 07:00-20:00; Su 10:00-16:00
 website: ""

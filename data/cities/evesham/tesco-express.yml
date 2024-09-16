@@ -1,11 +1,11 @@
 id: 145164617
-type: way
+type: node
 latitude: 52.08273
 longitude: -1.95063
-postcode: "WR11 1LE"
+postcode: WR11 1LE
 city: Evesham
-street: "Cheltenham Road"
-housenumber: 47
+street: Cheltenham Road
+housenumber: "47"
 phone: ""
 opening_hours: ""
 website: ""

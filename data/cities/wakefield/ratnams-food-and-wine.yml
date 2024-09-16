@@ -1,11 +1,11 @@
 id: 85712437
-type: way
+type: node
 latitude: 53.6866
 longitude: -1.49536
-postcode: "WF1 3NW"
+postcode: WF1 3NW
 city: Wakefield
-street: "Hambleton Street"
-housenumber: 1
+street: Hambleton Street
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

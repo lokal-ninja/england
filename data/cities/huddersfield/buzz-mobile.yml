@@ -1,11 +1,11 @@
 id: 334181479
-type: way
+type: node
 latitude: 53.64581
 longitude: -1.78237
-postcode: "HD1 2QE"
+postcode: HD1 2QE
 city: Huddersfield
-street: "King Street"
-housenumber: 4
+street: King Street
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

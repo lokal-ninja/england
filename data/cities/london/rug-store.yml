@@ -1,11 +1,11 @@
 id: 460104511
-type: way
+type: node
 latitude: 51.4643
 longitude: -0.26988
-postcode: "SW14 7JN"
+postcode: SW14 7JN
 city: London
-street: "Upper Richmond Road West"
-housenumber: 312
+street: Upper Richmond Road West
+housenumber: "312"
 phone: ""
-opening_hours: "Mo-Sa 10:00-18:00"
-website: "https://www.rugstoreonline.co.uk/"
+opening_hours: Mo-Sa 10:00-18:00
+website: https://www.rugstoreonline.co.uk/

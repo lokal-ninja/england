@@ -1,11 +1,11 @@
 id: 49011091
-type: way
+type: node
 latitude: 53.33896
 longitude: -2.73104
-postcode: "WA7 5AQ"
+postcode: WA7 5AQ
 city: Runcorn
-street: "Thomas Jones Way"
-housenumber: 
+street: Thomas Jones Way
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.spar.co.uk/store-locator/hal26045-spar-runcorn/"
+website: https://www.spar.co.uk/store-locator/hal26045-spar-runcorn/

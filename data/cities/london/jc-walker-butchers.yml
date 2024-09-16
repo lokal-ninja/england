@@ -2,10 +2,10 @@ id: 12091890893
 type: node
 latitude: 51.55841
 longitude: -0.14323
-postcode: "NW5 1DA"
+postcode: NW5 1DA
 city: London
-street: "Chetwynd Road"
-housenumber: 69
+street: Chetwynd Road
+housenumber: "69"
 phone: ""
 opening_hours: ""
 website: ""

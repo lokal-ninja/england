@@ -2,10 +2,11 @@ id: 5626680664
 type: node
 latitude: 53.83578
 longitude: -1.79327
-postcode: "BD18 4NB"
+postcode: BD18 4NB
 city: Shipley
-street: "Saltaire Road"
-housenumber: 1
+street: Saltaire Road
+housenumber: "1"
 phone: ""
-opening_hours: "Fr 12:00-14:00; Sa 10:00+; Su 10:00+ || On Saturdays and Sundays - till sell out"
+opening_hours: Fr 12:00-14:00; Sa 10:00+; Su 10:00+ || "On Saturdays and Sundays -
+    till sell out"
 website: ""

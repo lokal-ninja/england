@@ -1,11 +1,11 @@
 id: 601409871
-type: way
+type: node
 latitude: 52.97473
 longitude: -1.30915
-postcode: "DE7 8AP"
+postcode: DE7 8AP
 city: Ilkeston
-street: "Bath Street"
-housenumber: 85
+street: Bath Street
+housenumber: "85"
 phone: ""
 opening_hours: ""
-website: "http://www.shipleyphotographic.co.uk/"
+website: http://www.shipleyphotographic.co.uk/

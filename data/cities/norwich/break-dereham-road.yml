@@ -1,11 +1,11 @@
 id: 119460907
-type: way
+type: node
 latitude: 52.63344
 longitude: 1.28011
-postcode: "NR2 4HT"
+postcode: NR2 4HT
 city: Norwich
-street: "Dereham Road"
-housenumber: 99
+street: Dereham Road
+housenumber: "99"
 phone: ""
 opening_hours: ""
 website: ""

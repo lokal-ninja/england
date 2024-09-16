@@ -1,11 +1,11 @@
 id: 533222128
-type: way
+type: node
 latitude: 51.42456
 longitude: 0.10674
 postcode: ""
 city: Sidcup
-street: "High Street"
-housenumber: 
+street: High Street
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -2,10 +2,10 @@ id: 3883540046
 type: node
 latitude: 54.54321
 longitude: -1.52839
-postcode: "DL1 2AY"
+postcode: DL1 2AY
 city: Darlington
-street: "Nightingale Avenue"
-housenumber: 25
+street: Nightingale Avenue
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

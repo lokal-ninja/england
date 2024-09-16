@@ -1,11 +1,11 @@
 id: 612722851
-type: way
+type: node
 latitude: 50.99412
 longitude: -0.09997
-postcode: "RH16 4DZ"
+postcode: RH16 4DZ
 city: Haywards Heath
-street: "Sussex Road"
-housenumber: 33
+street: Sussex Road
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

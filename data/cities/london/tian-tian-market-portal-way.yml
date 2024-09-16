@@ -2,10 +2,10 @@ id: 12051811616
 type: node
 latitude: 51.52233
 longitude: -0.26141
-postcode: "W3 6RT"
+postcode: W3 6RT
 city: London
-street: "Portal Way"
-housenumber: 10
+street: Portal Way
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Su 12:00-20:30"
-website: "https://www.tiantian.london"
+opening_hours: Mo-Su 12:00-20:30
+website: https://www.tiantian.london

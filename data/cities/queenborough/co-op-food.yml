@@ -1,11 +1,11 @@
 id: 60554463
-type: way
+type: node
 latitude: 51.41541
 longitude: 0.75094
-postcode: "ME11 5BA"
+postcode: ME11 5BA
 city: Queenborough
-street: "Main Road"
-housenumber: 3
-phone: "+44 1795 663426"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.coop.co.uk/store-finder/ME11-5BA/1-3-main-road"
+street: Main Road
+housenumber: "3"
+phone: +44 1795 663426
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.coop.co.uk/store-finder/ME11-5BA/1-3-main-road

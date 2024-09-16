@@ -1,11 +1,11 @@
 id: 67555371
-type: way
+type: node
 latitude: 51.5554
 longitude: -0.16684
-postcode: "NW3 2RR"
+postcode: NW3 2RR
 city: London
-street: "South End Road"
-housenumber: 51
+street: South End Road
+housenumber: "51"
 phone: ""
-opening_hours: "Mo-Sa 09:00-18:00; Su 11:00-18:00"
+opening_hours: Mo-Sa 09:00-18:00; Su 11:00-18:00
 website: ""

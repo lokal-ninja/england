@@ -1,11 +1,11 @@
 id: 389362003
-type: way
+type: node
 latitude: 53.45747
 longitude: -2.15007
-postcode: "M34 2NA"
+postcode: M34 2NA
 city: Manchester
-street: "Manchester Road"
-housenumber: 665
+street: Manchester Road
+housenumber: "665"
 phone: ""
-opening_hours: "Mo-Fr 09:30-22:00; Sa-Su 10:00-22:00"
+opening_hours: Mo-Fr 09:30-22:00; Sa-Su 10:00-22:00
 website: ""

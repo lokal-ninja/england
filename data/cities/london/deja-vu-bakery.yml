@@ -2,10 +2,10 @@ id: 4252190301
 type: node
 latitude: 51.58243
 longitude: -0.03016
-postcode: "E17 7DB"
+postcode: E17 7DB
 city: London
-street: "High Street"
-housenumber: 87
+street: High Street
+housenumber: "87"
 phone: ""
 opening_hours: ""
 website: ""

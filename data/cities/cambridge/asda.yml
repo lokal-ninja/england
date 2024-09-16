@@ -1,11 +1,11 @@
 id: 126358284
-type: way
+type: node
 latitude: 52.20587
 longitude: 0.14487
-postcode: "CB1 3ER"
+postcode: CB1 3ER
 city: Cambridge
 street: ""
-housenumber: 9
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 07:00-24:00; Sa 07:00-22:00; Su 10:00-16:00"
+opening_hours: Mo-Fr 07:00-24:00; Sa 07:00-22:00; Su 10:00-16:00
 website: ""

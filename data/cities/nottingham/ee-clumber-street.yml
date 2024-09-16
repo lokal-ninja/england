@@ -1,11 +1,11 @@
 id: 225180357
-type: way
+type: node
 latitude: 52.95412
 longitude: -1.14744
-postcode: "NG1 3GA"
+postcode: NG1 3GA
 city: Nottingham
-street: "Clumber Street"
-housenumber: 16
+street: Clumber Street
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

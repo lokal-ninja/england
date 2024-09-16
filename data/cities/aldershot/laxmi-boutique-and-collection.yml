@@ -1,11 +1,11 @@
 id: 1183912132
-type: way
+type: node
 latitude: 51.24829
 longitude: -0.76226
-postcode: "GU11 1JE"
+postcode: GU11 1JE
 city: Aldershot
-street: "Victoria Road"
-housenumber: 99
-phone: "+44 1252 591038"
-opening_hours: "Mo-Fri 10:00-18:00"
+street: Victoria Road
+housenumber: "99"
+phone: +44 1252 591038
+opening_hours: Mo-Fri 10:00-18:00
 website: ""

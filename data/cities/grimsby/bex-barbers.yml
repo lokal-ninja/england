@@ -2,10 +2,10 @@ id: 10593721105
 type: node
 latitude: 53.56272
 longitude: -0.08754
-postcode: "DN32 0RA"
+postcode: DN32 0RA
 city: Grimsby
-street: "Wellowgate"
-housenumber: 18
-phone: "+44 1472 251 029"
-opening_hours: "Mo-We,Fr 09:00-17:00; Th 09:00-20:00; Sa 09:00-16:00; Su closed"
+street: Wellowgate
+housenumber: "18"
+phone: +44 1472 251 029
+opening_hours: Mo-We,Fr 09:00-17:00; Th 09:00-20:00; Sa 09:00-16:00; Su closed
 website: ""

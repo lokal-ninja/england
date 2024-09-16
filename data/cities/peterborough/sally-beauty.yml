@@ -1,11 +1,11 @@
 id: 87304701
-type: way
+type: node
 latitude: 52.59266
 longitude: -0.2579
-postcode: "PE1 2AS"
+postcode: PE1 2AS
 city: Peterborough
-street: "Maskew Avenue"
-housenumber: 
-phone: "+44 1733 891765"
-opening_hours: "Mo-Sa 08:30-17:30; Su 10:00-16:00"
-website: "https://www.sallybeauty.co.uk/storeinfo?StoreID=4168"
+street: Maskew Avenue
+housenumber: ""
+phone: +44 1733 891765
+opening_hours: Mo-Sa 08:30-17:30; Su 10:00-16:00
+website: https://www.sallybeauty.co.uk/storeinfo?StoreID=4168

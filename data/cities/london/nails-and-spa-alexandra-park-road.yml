@@ -1,11 +1,11 @@
 id: 1037802471
-type: way
+type: node
 latitude: 51.59892
 longitude: -0.13811
-postcode: "N10 2DP"
+postcode: N10 2DP
 city: London
-street: "Alexandra Park Road"
-housenumber: 117
-phone: "+44 20 8444 3705"
+street: Alexandra Park Road
+housenumber: "117"
+phone: +44 20 8444 3705
 opening_hours: ""
 website: ""

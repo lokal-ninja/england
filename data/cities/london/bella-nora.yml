@@ -1,11 +1,11 @@
 id: 510025852
-type: way
+type: node
 latitude: 51.5684
 longitude: 0.01116
-postcode: "E11 3AA"
+postcode: E11 3AA
 city: London
-street: "High Road Leytonstone"
-housenumber: 656
-phone: "+44 20 3601 3383"
+street: High Road Leytonstone
+housenumber: "656"
+phone: +44 20 3601 3383
 opening_hours: ""
 website: ""

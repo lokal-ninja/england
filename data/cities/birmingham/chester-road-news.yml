@@ -1,11 +1,11 @@
 id: 146636282
-type: way
+type: node
 latitude: 52.5225
 longitude: -1.80551
-postcode: "B24 0PP"
+postcode: B24 0PP
 city: Birmingham
-street: "Chester Road"
-housenumber: 1091
+street: Chester Road
+housenumber: "1091"
 phone: ""
 opening_hours: ""
 website: ""

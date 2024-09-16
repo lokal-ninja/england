@@ -1,11 +1,11 @@
 id: 579042685
-type: way
+type: node
 latitude: 50.76881
 longitude: 0.28771
-postcode: "BN21 3QA"
+postcode: BN21 3QA
 city: Eastbourne
-street: "Langney Road"
-housenumber: 11
+street: Langney Road
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

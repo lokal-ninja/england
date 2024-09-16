@@ -1,11 +1,11 @@
 id: 469259813
-type: way
+type: node
 latitude: 50.82529
 longitude: -1.21381
-postcode: "PO14 2LE"
+postcode: PO14 2LE
 city: Fareham
-street: "Stubbington Green"
-housenumber: 42
+street: Stubbington Green
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su 10:00-16:00"
-website: "https://www.coop.co.uk/store-finder/PO14-2LE/42-the-green"
+opening_hours: Mo-Sa 07:00-22:00; Su 10:00-16:00
+website: https://www.coop.co.uk/store-finder/PO14-2LE/42-the-green

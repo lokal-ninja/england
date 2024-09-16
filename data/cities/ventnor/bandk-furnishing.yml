@@ -4,8 +4,8 @@ latitude: 50.59527
 longitude: -1.20505
 postcode: ""
 city: Ventnor
-street: "High Street"
-housenumber: 22
+street: High Street
+housenumber: "22"
 phone: ""
-opening_hours: "Mo,Tu,Th-Sa 10:00-14:00; We 10:00-13:00"
+opening_hours: Mo,Tu,Th-Sa 10:00-14:00; We 10:00-13:00
 website: ""

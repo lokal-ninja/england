@@ -1,11 +1,11 @@
 id: 436520501
-type: way
+type: node
 latitude: 52.62821
 longitude: -1.2982
-postcode: "LE9 9GT"
+postcode: LE9 9GT
 city: Desford
-street: "Newbold Road"
-housenumber: 23
+street: Newbold Road
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su 08:00-20:00"
-website: "https://stores.centralengland.coop/leicestershire/leicester/23-newbold-road"
+opening_hours: Mo-Sa 07:00-20:00; Su 08:00-20:00
+website: https://stores.centralengland.coop/leicestershire/leicester/23-newbold-road

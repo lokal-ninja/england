@@ -1,11 +1,11 @@
 id: 420166738
-type: way
+type: node
 latitude: 51.48434
 longitude: 0.27236
-postcode: "RM20 3LP"
+postcode: RM20 3LP
 city: Grays
-street: "Weston Avenue"
-housenumber: 
+street: Weston Avenue
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 09:30-20:00; Sa 09:00-18:00; Su 10:30-17:00"
-website: "https://ncf.co.uk/"
+opening_hours: Mo-Fr 09:30-20:00; Sa 09:00-18:00; Su 10:30-17:00
+website: https://ncf.co.uk/

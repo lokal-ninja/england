@@ -2,10 +2,10 @@ id: 12060907257
 type: node
 latitude: 52.9214
 longitude: -1.47766
-postcode: "DE1 1RS"
+postcode: DE1 1RS
 city: Derby
-street: "Green Lane"
-housenumber: 3
+street: Green Lane
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

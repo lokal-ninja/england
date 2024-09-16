@@ -1,11 +1,11 @@
 id: 589268363
-type: way
+type: node
 latitude: 53.7572
 longitude: -1.52252
-postcode: "LS10 3JP"
+postcode: LS10 3JP
 city: Leeds
-street: "Broom Place"
-housenumber: 19
+street: Broom Place
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

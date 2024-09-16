@@ -2,10 +2,10 @@ id: 5164793489
 type: node
 latitude: 53.73702
 longitude: -2.71987
-postcode: "PR1 9BA"
+postcode: PR1 9BA
 city: Preston
-street: "Pope Lane"
-housenumber: 89
+street: Pope Lane
+housenumber: "89"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.coop.co.uk/store-finder/PR1-9BY/79-pope-lane"
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.coop.co.uk/store-finder/PR1-9BY/79-pope-lane

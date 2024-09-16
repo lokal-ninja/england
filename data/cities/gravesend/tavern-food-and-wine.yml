@@ -1,11 +1,11 @@
 id: 391020314
-type: way
+type: node
 latitude: 51.44363
 longitude: 0.37447
-postcode: "DA12 2BJ"
+postcode: DA12 2BJ
 city: Gravesend
-street: "The Terrace"
-housenumber: 46
+street: The Terrace
+housenumber: "46"
 phone: ""
 opening_hours: ""
 website: ""

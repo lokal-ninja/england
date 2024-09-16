@@ -1,11 +1,11 @@
 id: 1040055615
-type: way
+type: node
 latitude: 54.83612
 longitude: -1.54817
-postcode: "DH3 4JE"
+postcode: DH3 4JE
 city: Chester-le-Street
-street: "Front Street"
-housenumber: 40
+street: Front Street
+housenumber: "40"
 phone: ""
 opening_hours: ""
 website: ""

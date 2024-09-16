@@ -1,11 +1,11 @@
 id: 516316175
-type: way
+type: node
 latitude: 52.63322
 longitude: -1.67625
-postcode: "B77 3LW"
+postcode: B77 3LW
 city: Tamworth
-street: "Amington Road"
-housenumber: 133
-phone: "+44 1827 65398"
-opening_hours: "Mo-Th 09:30-18:00, Fr 09:30-19:00, Sa 09:00-17:00, Su closed"
-website: "https://cutsnclippers.nearcut.com/"
+street: Amington Road
+housenumber: "133"
+phone: +44 1827 65398
+opening_hours: Mo-Th 09:30-18:00, Fr 09:30-19:00, Sa 09:00-17:00, Su closed
+website: https://cutsnclippers.nearcut.com/

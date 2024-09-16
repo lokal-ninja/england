@@ -1,11 +1,11 @@
 id: 567935241
-type: way
+type: node
 latitude: 54.04621
 longitude: -2.80063
-postcode: "LA1 1RH"
+postcode: LA1 1RH
 city: Lancaster
-street: "King Street"
-housenumber: 99
+street: King Street
+housenumber: "99"
 phone: ""
 opening_hours: ""
 website: ""

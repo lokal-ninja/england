@@ -2,10 +2,10 @@ id: 6347528374
 type: node
 latitude: 52.84225
 longitude: -0.12519
-postcode: "PE11 4DG"
+postcode: PE11 4DG
 city: Spalding
-street: "Station Road"
-housenumber: 123
+street: Station Road
+housenumber: "123"
 phone: ""
-opening_hours: "Mo-Sa 07:00-19:00; Su 08:00-17:00"
+opening_hours: Mo-Sa 07:00-19:00; Su 08:00-17:00
 website: ""

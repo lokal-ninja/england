@@ -1,11 +1,11 @@
 id: 338388724
-type: way
+type: node
 latitude: 51.51399
 longitude: -0.14734
 postcode: ""
 city: London
-street: "Woodstock Street"
-housenumber: 17
-phone: "+44 20 7766 0100"
+street: Woodstock Street
+housenumber: "17"
+phone: +44 20 7766 0100
 opening_hours: ""
-website: "http://www.bbride.com"
+website: http://www.bbride.com

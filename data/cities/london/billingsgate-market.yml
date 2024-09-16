@@ -1,11 +1,11 @@
 id: 5987139
-type: way
+type: node
 latitude: 51.50642
 longitude: -0.01535
-postcode: "E14 5ST;E14 5SW;E14 5TD;E14 5TQ"
+postcode: E14 5ST;E14 5SW;E14 5TD;E14 5TQ
 city: London
-street: "Trafalgar Way"
-housenumber: 
-phone: "+44 20 7987 1118"
-opening_hours: "Tu-Sa 04:00-09:30"
-website: "https://www.billingsgatefishmarket.org/"
+street: Trafalgar Way
+housenumber: ""
+phone: +44 20 7987 1118
+opening_hours: Tu-Sa 04:00-09:30
+website: https://www.billingsgatefishmarket.org/

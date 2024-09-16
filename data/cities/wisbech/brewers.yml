@@ -1,11 +1,11 @@
 id: 1019268652
-type: way
+type: node
 latitude: 52.66556
 longitude: 0.16076
-postcode: "PE13 1BD"
+postcode: PE13 1BD
 city: Wisbech
-street: "Hill Street"
-housenumber: 33
+street: Hill Street
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

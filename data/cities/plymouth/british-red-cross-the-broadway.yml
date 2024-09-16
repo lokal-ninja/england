@@ -1,11 +1,11 @@
 id: 1246468484
-type: way
+type: node
 latitude: 50.3601
 longitude: -4.09169
-postcode: "PL9 7AX"
+postcode: PL9 7AX
 city: Plymouth
-street: "The Broadway"
-housenumber: 23
+street: The Broadway
+housenumber: "23"
 phone: ""
 opening_hours: ""
-website: "https://www.redcross.org.uk/shop/find-a-charity-shop/plymstock-clothing"
+website: https://www.redcross.org.uk/shop/find-a-charity-shop/plymstock-clothing

@@ -1,11 +1,11 @@
 id: 127767124
-type: way
+type: node
 latitude: 52.92377
 longitude: -1.47736
-postcode: "DE1 3FJ"
+postcode: DE1 3FJ
 city: Derby
-street: "Iron Gate"
-housenumber: 5
-phone: "+44 1332 345016"
-opening_hours: "Mo-Sa 09:30-17:00; Su 10:30-16:30"
-website: "https://www.brigdens.com/"
+street: Iron Gate
+housenumber: "5"
+phone: +44 1332 345016
+opening_hours: Mo-Sa 09:30-17:00; Su 10:30-16:30
+website: https://www.brigdens.com/

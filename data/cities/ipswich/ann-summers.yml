@@ -1,11 +1,12 @@
 id: 105153755
-type: way
+type: node
 latitude: 52.05891
 longitude: 1.15056
-postcode: "IP1 3ED"
+postcode: IP1 3ED
 city: Ipswich
-street: "Westgate Street"
-housenumber: 36
+street: Westgate Street
+housenumber: "36"
 phone: ""
-opening_hours: "Mo-We 09:30-17:30; Th 09:30-21:00; Fr 09:00-19:00; Sa 09:30-18:00; Su 10:30-16:30; PH 10:30-16:30"
-website: "https://www.annsummers.com/stores/ipswich"
+opening_hours: Mo-We 09:30-17:30; Th 09:30-21:00; Fr 09:00-19:00; Sa 09:30-18:00;
+    Su 10:30-16:30; PH 10:30-16:30
+website: https://www.annsummers.com/stores/ipswich

@@ -1,11 +1,11 @@
 id: 139300320
-type: way
+type: node
 latitude: 53.46712
 longitude: -2.35222
-postcode: "M17 8AA"
+postcode: M17 8AA
 city: Manchester
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 10:00-22:00; Sa 10:00-21:00; Su 12:00-18:00"
-website: "https://traffordcentre.co.uk/"
+opening_hours: Mo-Fr 10:00-22:00; Sa 10:00-21:00; Su 12:00-18:00
+website: https://traffordcentre.co.uk/

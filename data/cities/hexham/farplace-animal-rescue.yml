@@ -1,11 +1,11 @@
 id: 362067730
-type: way
+type: node
 latitude: 54.96997
 longitude: -2.10192
-postcode: "NE46 1BA"
+postcode: NE46 1BA
 city: Hexham
-street: "Battle Hill"
-housenumber: 9
-phone: "+44 1434 602909"
-opening_hours: "Mo 10:00-15:00, Tu-Sa 09:00-17:00"
-website: "https://www.farplace.org.uk/farplacestore/farplace-shop-hexham/"
+street: Battle Hill
+housenumber: "9"
+phone: +44 1434 602909
+opening_hours: Mo 10:00-15:00, Tu-Sa 09:00-17:00
+website: https://www.farplace.org.uk/farplacestore/farplace-shop-hexham/

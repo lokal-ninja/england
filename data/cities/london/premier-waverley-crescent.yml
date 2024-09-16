@@ -1,11 +1,11 @@
 id: 232841637
-type: way
+type: node
 latitude: 51.4825
 longitude: 0.08299
-postcode: "SE18 7QU"
+postcode: SE18 7QU
 city: London
-street: "Waverley Crescent"
-housenumber: 59
+street: Waverley Crescent
+housenumber: "59"
 phone: ""
 opening_hours: ""
 website: ""

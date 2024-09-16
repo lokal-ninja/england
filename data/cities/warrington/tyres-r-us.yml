@@ -1,11 +1,11 @@
 id: 1088444861
-type: way
+type: node
 latitude: 53.39687
 longitude: -2.57269
-postcode: "WA1 3RB"
+postcode: WA1 3RB
 city: Warrington
-street: "Manchester Road"
-housenumber: 262
+street: Manchester Road
+housenumber: "262"
 phone: ""
 opening_hours: ""
 website: ""

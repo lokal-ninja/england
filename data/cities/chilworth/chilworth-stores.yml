@@ -1,11 +1,11 @@
 id: 150543622
-type: way
+type: node
 latitude: 51.21385
 longitude: -0.54047
-postcode: "GU4 8LU"
+postcode: GU4 8LU
 city: Chilworth
-street: "New Road"
-housenumber: 92
+street: New Road
+housenumber: "92"
 phone: ""
 opening_hours: ""
 website: ""

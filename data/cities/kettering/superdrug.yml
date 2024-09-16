@@ -2,10 +2,10 @@ id: 4613147040
 type: node
 latitude: 52.39984
 longitude: -0.72846
-postcode: "NN16 8SY"
+postcode: NN16 8SY
 city: Kettering
-street: "High Street"
-housenumber: 69
+street: High Street
+housenumber: "69"
 phone: ""
 opening_hours: ""
-website: "https://www.superdrug.com/store/kettering"
+website: https://www.superdrug.com/store/kettering

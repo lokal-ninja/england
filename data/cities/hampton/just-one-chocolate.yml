@@ -1,11 +1,11 @@
 id: 1065845288
-type: way
+type: node
 latitude: 51.42139
 longitude: -0.37696
-postcode: "TW12 2JL"
+postcode: TW12 2JL
 city: Hampton
-street: "Cambridge Road"
-housenumber: 19
+street: Cambridge Road
+housenumber: "19"
 phone: ""
 opening_hours: ""
-website: "https://www.justonechocolate.com/"
+website: https://www.justonechocolate.com/

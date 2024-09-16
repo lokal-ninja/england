@@ -1,11 +1,11 @@
 id: 397431925
-type: way
+type: node
 latitude: 52.04844
 longitude: -0.80093
-postcode: "MK12 6HU"
+postcode: MK12 6HU
 city: Milton Keynes
-street: "Monks Way"
-housenumber: 
+street: Monks Way
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 00:00-24:00"
-website: "https://www.marksandspencer.com/stores/milton-keynes-bradwell-abbey-bp-21"
+opening_hours: Mo-Su 00:00-24:00
+website: https://www.marksandspencer.com/stores/milton-keynes-bradwell-abbey-bp-21

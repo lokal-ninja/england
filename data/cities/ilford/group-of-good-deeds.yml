@@ -2,10 +2,10 @@ id: 10783333809
 type: node
 latitude: 51.59182
 longitude: 0.08371
-postcode: "IG6 2DU"
+postcode: IG6 2DU
 city: Ilford
-street: "High Street"
-housenumber: 124
-phone: "+44 1708 540032"
+street: High Street
+housenumber: "124"
+phone: +44 1708 540032
 opening_hours: ""
-website: "https://www.ggd-charity.org"
+website: https://www.ggd-charity.org

@@ -1,11 +1,11 @@
 id: 236684346
-type: way
+type: node
 latitude: 50.83778
 longitude: -0.1822
-postcode: "BN3 7EX"
+postcode: BN3 7EX
 city: Hove
-street: "Old Shoreham Rd"
-housenumber: 196
-phone: "+44 1273 693 239"
+street: Old Shoreham Rd
+housenumber: "196"
+phone: +44 1273 693 239
 opening_hours: ""
 website: ""

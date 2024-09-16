@@ -1,11 +1,11 @@
 id: 1189425314
-type: way
+type: node
 latitude: 53.40646
 longitude: -1.43466
-postcode: "S4 8AN"
+postcode: S4 8AN
 city: Sheffield
-street: "Upwell Street"
-housenumber: 127
+street: Upwell Street
+housenumber: "127"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 632295802
-type: way
+type: node
 latitude: 53.59146
 longitude: -1.64824
-postcode: "HD8 9DX"
+postcode: HD8 9DX
 city: Huddersfield
-street: "Commercial Road"
-housenumber: 61
+street: Commercial Road
+housenumber: "61"
 phone: ""
-opening_hours: "Tu-Sa 09:00-17:00"
+opening_hours: Tu-Sa 09:00-17:00
 website: ""

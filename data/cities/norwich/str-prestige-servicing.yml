@@ -1,11 +1,11 @@
 id: 160986559
-type: way
+type: node
 latitude: 52.62448
 longitude: 1.29936
-postcode: "NR1 1QU"
+postcode: NR1 1QU
 city: Norwich
-street: "Garden Street"
-housenumber: 10
-phone: "+44 1603 626668"
-opening_hours: "Mo-Fr 08:30-17:30; Sa 08:30-12:30"
-website: "http://www.str.gb.com/"
+street: Garden Street
+housenumber: "10"
+phone: +44 1603 626668
+opening_hours: Mo-Fr 08:30-17:30; Sa 08:30-12:30
+website: http://www.str.gb.com/

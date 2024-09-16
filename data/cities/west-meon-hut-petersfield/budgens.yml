@@ -1,11 +1,11 @@
 id: 220630911
-type: way
+type: node
 latitude: 51.03116
 longitude: -1.07556
-postcode: "GU32 1JX"
+postcode: GU32 1JX
 city: West Meon Hut, Petersfield
 street: ""
-housenumber: 
-phone: "+44 1730 829411"
-opening_hours: "06:00-22:00"
-website: "https://www.budgens.co.uk/our-stores/west-meon"
+housenumber: ""
+phone: +44 1730 829411
+opening_hours: 06:00-22:00
+website: https://www.budgens.co.uk/our-stores/west-meon

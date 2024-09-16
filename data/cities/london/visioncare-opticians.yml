@@ -1,11 +1,11 @@
 id: 148011249
-type: way
+type: node
 latitude: 51.51938
 longitude: -0.15597
-postcode: "W1U 7LB"
+postcode: W1U 7LB
 city: London
-street: "Baker Street"
-housenumber: 70
+street: Baker Street
+housenumber: "70"
 phone: ""
 opening_hours: ""
 website: ""

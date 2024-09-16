@@ -1,11 +1,11 @@
 id: 108832800
-type: way
+type: node
 latitude: 51.464
 longitude: -2.59018
-postcode: "BS1 3SB"
+postcode: BS1 3SB
 city: Bristol
-street: "Ninetree Hill"
-housenumber: 1
+street: Ninetree Hill
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1106662058
-type: way
+type: node
 latitude: 53.38493
 longitude: -2.62788
-postcode: "WA5 1EQ"
+postcode: WA5 1EQ
 city: Warrington
-street: "Huntley Street"
-housenumber: 9
+street: Huntley Street
+housenumber: "9"
 phone: ""
-opening_hours: "Tu-Th 10:00-20:00; Fr 10:00-16:30; Sa 09:00-14:00"
+opening_hours: Tu-Th 10:00-20:00; Fr 10:00-16:30; Sa 09:00-14:00
 website: ""

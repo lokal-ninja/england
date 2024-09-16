@@ -1,11 +1,11 @@
 id: 151555187
-type: way
+type: node
 latitude: 51.48476
 longitude: -0.20331
-postcode: "SW6 7SX"
+postcode: SW6 7SX
 city: London
-street: "Lillie Road"
-housenumber: 113
+street: Lillie Road
+housenumber: "113"
 phone: ""
 opening_hours: ""
 website: ""

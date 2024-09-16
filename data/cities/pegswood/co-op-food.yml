@@ -1,11 +1,11 @@
 id: 222919365
-type: way
+type: node
 latitude: 55.18114
 longitude: -1.64889
-postcode: "NE61 6RE"
+postcode: NE61 6RE
 city: Pegswood
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.coop.co.uk/store-finder/NE61-6RE/morpeth-road"
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.coop.co.uk/store-finder/NE61-6RE/morpeth-road

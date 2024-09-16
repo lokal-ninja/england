@@ -2,10 +2,10 @@ id: 8440591921
 type: node
 latitude: 51.58651
 longitude: 0.20016
-postcode: "RM2 5HA"
+postcode: RM2 5HA
 city: Romford
-street: "Main Road"
-housenumber: 190
-phone: "+44 1708 740414"
-opening_hours: "Mo-Sa 08:30-14:00"
+street: Main Road
+housenumber: "190"
+phone: +44 1708 740414
+opening_hours: Mo-Sa 08:30-14:00
 website: ""

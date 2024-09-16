@@ -1,11 +1,11 @@
 id: 127972424
-type: way
+type: node
 latitude: 53.95525
 longitude: -1.06748
-postcode: "YO10 3WW"
+postcode: YO10 3WW
 city: York
-street: "James Street"
-housenumber: 2
+street: James Street
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:30-17:30"
+opening_hours: Mo-Fr 08:30-17:30
 website: ""

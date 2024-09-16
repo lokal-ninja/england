@@ -1,11 +1,11 @@
 id: 441200282
-type: way
+type: node
 latitude: 51.42958
 longitude: -0.1411
-postcode: "SW16 1SD"
+postcode: SW16 1SD
 city: London
-street: "Colson Way"
-housenumber: 11
+street: Colson Way
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

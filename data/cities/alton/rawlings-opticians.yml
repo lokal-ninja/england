@@ -1,11 +1,11 @@
 id: 482930173
-type: way
+type: node
 latitude: 51.14903
 longitude: -0.97547
-postcode: "GU34 1BD"
+postcode: GU34 1BD
 city: Alton
-street: "High Street"
-housenumber: 36
-phone: "+44 142084230"
+street: High Street
+housenumber: "36"
+phone: +44 142084230
 opening_hours: ""
 website: ""

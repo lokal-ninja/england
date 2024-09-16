@@ -1,11 +1,11 @@
 id: 132013221
-type: way
+type: node
 latitude: 54.97082
 longitude: -1.58742
-postcode: "NE6 1BU"
+postcode: NE6 1BU
 city: Newcastle upon Tyne
-street: "Quayside"
-housenumber: 
+street: Quayside
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.thecyclehub.org/"
+website: https://www.thecyclehub.org/

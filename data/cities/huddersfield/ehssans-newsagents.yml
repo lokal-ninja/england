@@ -1,11 +1,11 @@
 id: 1126932539
-type: way
+type: node
 latitude: 53.6467
 longitude: -1.78655
 postcode: ""
 city: Huddersfield
-street: "Henry Street"
-housenumber: 4
+street: Henry Street
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

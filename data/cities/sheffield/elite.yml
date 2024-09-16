@@ -1,11 +1,11 @@
 id: 1040376476
-type: way
+type: node
 latitude: 53.3817
 longitude: -1.46929
-postcode: "S1 2HE"
+postcode: S1 2HE
 city: Sheffield
-street: "Fargate"
-housenumber: 32
+street: Fargate
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

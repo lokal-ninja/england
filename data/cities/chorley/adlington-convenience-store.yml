@@ -1,11 +1,11 @@
 id: 1043610719
-type: way
+type: node
 latitude: 53.61052
 longitude: -2.60582
-postcode: "PR7 4HF"
+postcode: PR7 4HF
 city: Chorley
-street: "Market Street"
-housenumber: 48
-phone: "+44 1257 480835"
+street: Market Street
+housenumber: "48"
+phone: +44 1257 480835
 opening_hours: ""
-website: "https://www.premier-stores.co.uk/our-stores/adlington-convenience-store-total-petrol-station"
+website: https://www.premier-stores.co.uk/our-stores/adlington-convenience-store-total-petrol-station

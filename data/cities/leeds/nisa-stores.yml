@@ -1,11 +1,11 @@
 id: 678479620
-type: way
+type: node
 latitude: 53.81871
 longitude: -1.50186
-postcode: "LS8 3AD"
+postcode: LS8 3AD
 city: Leeds
-street: "Easterley Road"
-housenumber: 178
+street: Easterley Road
+housenumber: "178"
 phone: ""
 opening_hours: ""
 website: ""

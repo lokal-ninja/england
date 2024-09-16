@@ -1,11 +1,11 @@
 id: 328480374
-type: way
+type: node
 latitude: 53.01133
 longitude: -1.28516
-postcode: "NG16 2DT"
+postcode: NG16 2DT
 city: Nottingham
-street: "Valley Drive"
-housenumber: 54
+street: Valley Drive
+housenumber: "54"
 phone: ""
 opening_hours: ""
-website: "https://pbmracing.co.uk/"
+website: https://pbmracing.co.uk/

@@ -1,11 +1,11 @@
 id: 694995883
-type: way
+type: node
 latitude: 53.55064
 longitude: -2.49863
-postcode: "BL5 3HX"
+postcode: BL5 3HX
 city: Bolton
-street: "Park Road"
-housenumber: 360
+street: Park Road
+housenumber: "360"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 318409129
-type: way
+type: node
 latitude: 53.19144
 longitude: -2.52844
-postcode: "CW7 1BA"
+postcode: CW7 1BA
 city: Winsford
-street: "Dingle Walk"
-housenumber: 4
+street: Dingle Walk
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 595513138
-type: way
+type: node
 latitude: 50.84533
 longitude: -0.76467
-postcode: "PO19 6UR"
+postcode: PO19 6UR
 city: Chichester
-street: "Millfield Close"
-housenumber: 1
+street: Millfield Close
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

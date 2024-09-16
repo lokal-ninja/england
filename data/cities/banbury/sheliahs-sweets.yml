@@ -1,11 +1,11 @@
 id: 395942121
-type: way
+type: node
 latitude: 52.06214
 longitude: -1.33782
-postcode: "OX16 5NA"
+postcode: OX16 5NA
 city: Banbury
-street: "Parsons Street"
-housenumber: 46
+street: Parsons Street
+housenumber: "46"
 phone: ""
 opening_hours: ""
 website: ""

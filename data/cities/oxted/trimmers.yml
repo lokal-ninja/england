@@ -2,10 +2,10 @@ id: 6351241895
 type: node
 latitude: 51.25691
 longitude: -0.00091
-postcode: "RH8 0BD"
+postcode: RH8 0BD
 city: Oxted
-street: "Station Road East"
-housenumber: 13
-phone: "+44 1883 712981"
+street: Station Road East
+housenumber: "13"
+phone: +44 1883 712981
 opening_hours: ""
 website: ""

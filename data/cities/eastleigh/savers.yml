@@ -4,8 +4,8 @@ latitude: 50.96799
 longitude: -1.35187
 postcode: ""
 city: Eastleigh
-street: "Market Street"
-housenumber: 70
-phone: "+44 23 8065 1652"
-opening_hours: "Mo-Sa 08:30-18:00; Su 10:00-16:00"
+street: Market Street
+housenumber: "70"
+phone: +44 23 8065 1652
+opening_hours: Mo-Sa 08:30-18:00; Su 10:00-16:00
 website: ""

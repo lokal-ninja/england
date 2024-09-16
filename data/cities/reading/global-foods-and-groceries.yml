@@ -1,11 +1,11 @@
 id: 79474998
-type: way
+type: node
 latitude: 51.44232
 longitude: -0.92982
 postcode: ""
 city: Reading
-street: "Wokingham Road"
-housenumber: 203
+street: Wokingham Road
+housenumber: "203"
 phone: ""
 opening_hours: ""
 website: ""

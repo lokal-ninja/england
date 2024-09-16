@@ -4,8 +4,8 @@ latitude: 51.52861
 longitude: -0.14331
 postcode: ""
 city: London
-street: "Robert Street"
-housenumber: 98
+street: Robert Street
+housenumber: "98"
 phone: ""
-opening_hours: "Mo-Fr 07:00-16:00"
+opening_hours: Mo-Fr 07:00-16:00
 website: ""

@@ -1,11 +1,11 @@
 id: 462643846
-type: way
+type: node
 latitude: 51.20887
 longitude: -1.50643
-postcode: "SP10 3BH"
+postcode: SP10 3BH
 city: Andover
-street: "Weyhill Road"
-housenumber: 155
+street: Weyhill Road
+housenumber: "155"
 phone: ""
-opening_hours: "Mo-Su 06:00-22:00"
+opening_hours: Mo-Su 06:00-22:00
 website: ""

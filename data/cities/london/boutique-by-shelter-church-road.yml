@@ -1,11 +1,11 @@
 id: 589649641
-type: way
+type: node
 latitude: 51.47421
 longitude: -0.2445
-postcode: "SW13 9HH"
+postcode: SW13 9HH
 city: London
-street: "Church Road"
-housenumber: 51
+street: Church Road
+housenumber: "51"
 phone: ""
 opening_hours: ""
-website: "https://england.shelter.org.uk/support_us/shops/barnes_boutique"
+website: https://england.shelter.org.uk/support_us/shops/barnes_boutique

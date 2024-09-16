@@ -1,11 +1,11 @@
 id: 28972970
-type: way
+type: node
 latitude: 52.02897
 longitude: 1.21782
-postcode: "IP3 9SJ"
+postcode: IP3 9SJ
 city: Ipswich
-street: "The Havens"
-housenumber: 21
-phone: "+44 1473 321171"
-opening_hours: "Mo-Sa 07:00-16:00; Su 09:30-15:00"
-website: "https://www.booker.co.uk/branch-locator/ransomes-europark/21-the-havens"
+street: The Havens
+housenumber: "21"
+phone: +44 1473 321171
+opening_hours: Mo-Sa 07:00-16:00; Su 09:30-15:00
+website: https://www.booker.co.uk/branch-locator/ransomes-europark/21-the-havens

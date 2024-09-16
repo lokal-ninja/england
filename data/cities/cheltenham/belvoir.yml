@@ -1,11 +1,11 @@
 id: 166174817
-type: way
+type: node
 latitude: 51.89763
 longitude: -2.0727
-postcode: "GL53 7HG"
+postcode: GL53 7HG
 city: Cheltenham
-street: "Bath Road"
-housenumber: 15
+street: Bath Road
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 09:30-17:30; PH,Su off"
+opening_hours: Mo-Fr 09:30-17:30; PH,Su off
 website: ""

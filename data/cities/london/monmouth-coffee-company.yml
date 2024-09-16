@@ -1,11 +1,11 @@
 id: 232232236
-type: way
+type: node
 latitude: 51.51435
 longitude: -0.12684
-postcode: "WC2H 9EU"
+postcode: WC2H 9EU
 city: London
-street: "Monmouth Street"
-housenumber: 27
+street: Monmouth Street
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

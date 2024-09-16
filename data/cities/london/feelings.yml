@@ -1,11 +1,11 @@
 id: 834042552
-type: way
+type: node
 latitude: 51.51465
 longitude: -0.06207
 postcode: ""
 city: London
-street: "New Road"
-housenumber: 158
+street: New Road
+housenumber: "158"
 phone: ""
 opening_hours: ""
 website: ""

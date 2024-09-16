@@ -1,11 +1,11 @@
 id: 1011068938
-type: way
+type: node
 latitude: 51.46252
 longitude: -0.22228
-postcode: "SW15 6TL"
+postcode: SW15 6TL
 city: London
-street: "Upper Richmond Road"
-housenumber: 324
+street: Upper Richmond Road
+housenumber: "324"
 phone: ""
 opening_hours: ""
-website: "https://casanora.uk/"
+website: https://casanora.uk/

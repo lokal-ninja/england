@@ -1,11 +1,11 @@
 id: 169781058
-type: way
+type: node
 latitude: 52.06386
 longitude: 1.12069
-postcode: "IP1 5AF"
+postcode: IP1 5AF
 city: Ipswich
-street: "Sproughton Road"
-housenumber: 
+street: Sproughton Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su 10:00-16:00"
-website: "https://my.morrisons.com/storefinder/81/ipswich"
+opening_hours: Mo-Sa 07:00-22:00; Su 10:00-16:00
+website: https://my.morrisons.com/storefinder/81/ipswich

@@ -1,11 +1,11 @@
 id: 139806321
-type: way
+type: node
 latitude: 51.39533
 longitude: 0.17721
-postcode: "BR8 8BE"
+postcode: BR8 8BE
 city: Swanley
-street: "High Street"
-housenumber: 
+street: High Street
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:00"
+opening_hours: Mo-Sa 09:30-19:00
 website: ""

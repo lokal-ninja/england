@@ -2,10 +2,10 @@ id: 11993312625
 type: node
 latitude: 53.48511
 longitude: -2.23584
-postcode: "M4 1HQ"
+postcode: M4 1HQ
 city: Manchester
-street: "High Street"
-housenumber: 116
+street: High Street
+housenumber: "116"
 phone: ""
 opening_hours: ""
 website: ""

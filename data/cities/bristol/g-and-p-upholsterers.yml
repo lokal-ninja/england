@@ -1,11 +1,11 @@
 id: 674736251
-type: way
+type: node
 latitude: 51.4616
 longitude: -2.57335
 postcode: ""
 city: Bristol
-street: "Stapleton Road"
-housenumber: 112
+street: Stapleton Road
+housenumber: "112"
 phone: ""
 opening_hours: ""
 website: ""

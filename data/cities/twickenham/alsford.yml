@@ -1,11 +1,11 @@
 id: 391835737
-type: way
+type: node
 latitude: 51.44507
 longitude: -0.33324
 postcode: ""
 city: Twickenham
-street: "Heath Road"
-housenumber: 
+street: Heath Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 07:00-17:00; Sa 08:00-13:00"
-website: "https://www.alsfordtimber.com"
+opening_hours: Mo-Fr 07:00-17:00; Sa 08:00-13:00
+website: https://www.alsfordtimber.com

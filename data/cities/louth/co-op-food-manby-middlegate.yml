@@ -1,11 +1,11 @@
 id: 1206219163
-type: way
+type: node
 latitude: 53.3665
 longitude: 0.0933
-postcode: "LN11 8SU"
+postcode: LN11 8SU
 city: Louth
-street: "Manby Middlegate"
-housenumber: 
+street: Manby Middlegate
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.coop.co.uk/store-finder/LN11-8SU/manby-middlegate"
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.coop.co.uk/store-finder/LN11-8SU/manby-middlegate

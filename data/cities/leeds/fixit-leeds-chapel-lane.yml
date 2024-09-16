@@ -1,11 +1,11 @@
 id: 516784044
-type: way
+type: node
 latitude: 53.79709
 longitude: -1.58712
-postcode: "LS12 2DJ"
+postcode: LS12 2DJ
 city: Leeds
-street: "Chapel Lane"
+street: Chapel Lane
 housenumber: 1a
-phone: "+44 113 350 2007"
-opening_hours: "Mo 10:00-18:00, We-Fr 10:00-16:00"
-website: "http://www.fixit-leeds.com"
+phone: +44 113 350 2007
+opening_hours: Mo 10:00-18:00, We-Fr 10:00-16:00
+website: http://www.fixit-leeds.com

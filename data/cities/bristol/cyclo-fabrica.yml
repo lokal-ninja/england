@@ -1,11 +1,11 @@
 id: 268782679
-type: way
+type: node
 latitude: 51.47693
 longitude: -2.59039
-postcode: "BS7 8NT"
+postcode: BS7 8NT
 city: Bristol
-street: "Gloucester Road"
-housenumber: 146
+street: Gloucester Road
+housenumber: "146"
 phone: "+447969901090"
-opening_hours: "Mo-Fr 10:00-18:00"
-website: "https://www.cyclofabrica.co.uk/"
+opening_hours: Mo-Fr 10:00-18:00
+website: https://www.cyclofabrica.co.uk/

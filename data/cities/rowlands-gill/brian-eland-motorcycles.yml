@@ -1,11 +1,12 @@
 id: 449337283
-type: way
+type: node
 latitude: 54.91884
 longitude: -1.76124
-postcode: "NE39 2JE"
+postcode: NE39 2JE
 city: Rowlands Gill
-street: "Whinfield Way"
+street: Whinfield Way
 housenumber: 8a
-phone: "+44 7711 231417"
-opening_hours: "Fr,Sa 09:30-18:00; Su,PH off || outside of those hours ring for an appointment"
+phone: +44 7711 231417
+opening_hours: Fr,Sa 09:30-18:00; Su,PH off || "outside of those hours ring for an
+    appointment"
 website: ""

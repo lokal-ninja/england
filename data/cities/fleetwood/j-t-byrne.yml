@@ -1,11 +1,11 @@
 id: 277040018
-type: way
+type: node
 latitude: 53.91424
 longitude: -3.03453
-postcode: "FY7 8PS"
+postcode: FY7 8PS
 city: Fleetwood
-street: "Beach Road"
-housenumber: 1
+street: Beach Road
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

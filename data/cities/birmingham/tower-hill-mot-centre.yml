@@ -1,11 +1,11 @@
 id: 92794430
-type: way
+type: node
 latitude: 52.5342
 longitude: -1.91992
-postcode: "B42 1LG"
+postcode: B42 1LG
 city: Birmingham
-street: "Tower Hill"
-housenumber: 27
+street: Tower Hill
+housenumber: "27"
 phone: ""
-opening_hours: "Mo-Fr 08:30-17:30"
+opening_hours: Mo-Fr 08:30-17:30
 website: ""

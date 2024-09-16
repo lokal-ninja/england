@@ -1,11 +1,11 @@
 id: 728194077
-type: way
+type: node
 latitude: 53.22935
 longitude: -0.54243
-postcode: "LN1 1XD"
+postcode: LN1 1XD
 city: Lincoln
-street: "Newland"
-housenumber: 2
+street: Newland
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

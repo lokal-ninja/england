@@ -1,11 +1,11 @@
 id: 458711689
-type: way
+type: node
 latitude: 53.69983
 longitude: -1.41888
-postcode: "WF6 2AB"
+postcode: WF6 2AB
 city: Normanton
-street: "High Street"
-housenumber: 30
+street: High Street
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

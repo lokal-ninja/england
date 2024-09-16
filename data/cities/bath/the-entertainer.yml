@@ -1,11 +1,11 @@
 id: 816252053
-type: way
+type: node
 latitude: 51.37988
 longitude: -2.35916
-postcode: "BA1 1BY"
+postcode: BA1 1BY
 city: Bath
-street: "New Orchard Street"
-housenumber: 1
+street: New Orchard Street
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.thetoyshop.com/store/Bath"
+website: https://www.thetoyshop.com/store/Bath

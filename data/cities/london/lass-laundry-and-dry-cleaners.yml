@@ -2,10 +2,10 @@ id: 7794844081
 type: node
 latitude: 51.60863
 longitude: -0.11045
-postcode: "N13 4TT"
+postcode: N13 4TT
 city: London
-street: "Green Lanes"
-housenumber: 15
+street: Green Lanes
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

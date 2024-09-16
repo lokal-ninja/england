@@ -1,11 +1,11 @@
 id: 548178159
-type: way
+type: node
 latitude: 52.12877
 longitude: -0.46053
-postcode: "MK42 0NW"
+postcode: MK42 0NW
 city: Bedford
-street: "London Road"
-housenumber: 4
+street: London Road
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

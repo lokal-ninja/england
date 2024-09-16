@@ -1,11 +1,11 @@
 id: 1135984014
-type: way
+type: node
 latitude: 51.68125
 longitude: -2.35408
-postcode: "GL11 4ND"
+postcode: GL11 4ND
 city: Dursley
-street: "Silver Street"
-housenumber: 6
+street: Silver Street
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

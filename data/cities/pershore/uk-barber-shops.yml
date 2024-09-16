@@ -1,11 +1,11 @@
 id: 358871464
-type: way
+type: node
 latitude: 52.1094
 longitude: -2.07396
-postcode: "WR10 1AJ"
+postcode: WR10 1AJ
 city: Pershore
-street: "Bridge Street"
-housenumber: 15
+street: Bridge Street
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

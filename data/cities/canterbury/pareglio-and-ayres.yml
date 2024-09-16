@@ -1,11 +1,11 @@
 id: 1229024193
-type: way
+type: node
 latitude: 51.2733
 longitude: 1.0706
-postcode: "CT1 3RS"
+postcode: CT1 3RS
 city: Canterbury
-street: "Wincheap"
-housenumber: 102
+street: Wincheap
+housenumber: "102"
 phone: ""
 opening_hours: ""
-website: "https://www.pareglioayresantiques.com/"
+website: https://www.pareglioayresantiques.com/

@@ -1,11 +1,11 @@
 id: 417591087
-type: way
+type: node
 latitude: 50.35259
 longitude: -3.59378
-postcode: "TQ6 9JP"
+postcode: TQ6 9JP
 city: Dartmouth
-street: "Mayflower Close"
-housenumber: 25
+street: Mayflower Close
+housenumber: "25"
 phone: ""
-opening_hours: "7:00 - 22:00"
-website: "https://www.spar.co.uk/store-locator/awl10706-spar-dartmouth/"
+opening_hours: 7:00 - 22:00
+website: https://www.spar.co.uk/store-locator/awl10706-spar-dartmouth/

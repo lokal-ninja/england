@@ -1,11 +1,11 @@
 id: 685303159
-type: way
+type: node
 latitude: 51.45082
 longitude: -2.59283
-postcode: "BS1 4NT"
+postcode: BS1 4NT
 city: Bristol
-street: "Queen Square"
-housenumber: 13
+street: Queen Square
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

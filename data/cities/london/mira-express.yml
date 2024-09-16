@@ -1,11 +1,11 @@
 id: 853545255
-type: way
+type: node
 latitude: 51.55045
 longitude: -0.04304
-postcode: "E9 6DA"
+postcode: E9 6DA
 city: London
-street: "Brooksby's Walk"
-housenumber: 48
+street: Brooksby's Walk
+housenumber: "48"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 161932207
-type: way
+type: node
 latitude: 53.8731
 longitude: -1.71204
-postcode: "LS20 8AR"
+postcode: LS20 8AR
 city: Leeds
-street: "Otley Road"
-housenumber: 89
+street: Otley Road
+housenumber: "89"
 phone: ""
-opening_hours: "Mo-Sa 06:00-23:00; Su 10:00-16:00"
-website: "https://my.morrisons.com/storefinder/36/leeds-guiseley"
+opening_hours: Mo-Sa 06:00-23:00; Su 10:00-16:00
+website: https://my.morrisons.com/storefinder/36/leeds-guiseley

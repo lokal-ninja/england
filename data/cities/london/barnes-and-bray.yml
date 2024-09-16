@@ -1,11 +1,11 @@
 id: 204019337
-type: way
+type: node
 latitude: 51.46006
 longitude: -0.18889
-postcode: "SW18 1SS"
+postcode: SW18 1SS
 city: London
-street: "Old York Road"
-housenumber: 352
-phone: "+44 20 8870 8229"
-opening_hours: "Mo-Fr 10:00-21:00; Sa 09:00-18:00; Su 10:00-18:00"
-website: "http://www.barnesandbray.com"
+street: Old York Road
+housenumber: "352"
+phone: +44 20 8870 8229
+opening_hours: Mo-Fr 10:00-21:00; Sa 09:00-18:00; Su 10:00-18:00
+website: http://www.barnesandbray.com

@@ -1,11 +1,11 @@
 id: 240924054
-type: way
+type: node
 latitude: 51.88641
 longitude: -0.457
-postcode: "LU1 1HJ"
+postcode: LU1 1HJ
 city: Luton
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

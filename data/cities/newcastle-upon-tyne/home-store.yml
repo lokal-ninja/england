@@ -1,11 +1,11 @@
 id: 411107025
-type: way
+type: node
 latitude: 54.97668
 longitude: -1.58445
-postcode: "NE6 1DW"
+postcode: NE6 1DW
 city: Newcastle upon Tyne
-street: "Shields Road"
-housenumber: 61
-phone: "+44 191 2657988"
-opening_hours: "Mo-Sa 09:00-17:00; Su off"
-website: "https://homestoreliving.co.uk/"
+street: Shields Road
+housenumber: "61"
+phone: +44 191 2657988
+opening_hours: Mo-Sa 09:00-17:00; Su off
+website: https://homestoreliving.co.uk/

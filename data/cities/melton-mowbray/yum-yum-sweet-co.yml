@@ -1,11 +1,11 @@
 id: 696621106
-type: way
+type: node
 latitude: 52.76471
 longitude: -0.88694
-postcode: "LE13 0PU"
+postcode: LE13 0PU
 city: Melton Mowbray
-street: "South Parade"
-housenumber: 5
+street: South Parade
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

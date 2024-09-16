@@ -2,10 +2,10 @@ id: 10614080705
 type: node
 latitude: 53.48584
 longitude: -2.23001
-postcode: "M4 5EE"
+postcode: M4 5EE
 city: Manchester
-street: "Oldham Road"
-housenumber: 64
+street: Oldham Road
+housenumber: "64"
 phone: ""
 opening_hours: ""
 website: ""

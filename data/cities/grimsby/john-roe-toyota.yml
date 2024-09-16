@@ -1,11 +1,11 @@
 id: 1056930201
-type: way
+type: node
 latitude: 53.56648
 longitude: -0.10285
-postcode: "DN31 2BA"
+postcode: DN31 2BA
 city: Grimsby
-street: "Cromwell Road"
-housenumber: 174
-phone: "+44 1472 352 191"
+street: Cromwell Road
+housenumber: "174"
+phone: +44 1472 352 191
 opening_hours: ""
-website: "https://johnroegrimsby.toyota.co.uk"
+website: https://johnroegrimsby.toyota.co.uk

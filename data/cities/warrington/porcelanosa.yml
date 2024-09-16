@@ -1,11 +1,11 @@
 id: 30914286
-type: way
+type: node
 latitude: 53.41612
 longitude: -2.6265
-postcode: "WA5 7ZR"
+postcode: WA5 7ZR
 city: Warrington
-street: "Europa Boulevard"
-housenumber: 850
+street: Europa Boulevard
+housenumber: "850"
 phone: ""
 opening_hours: ""
 website: ""

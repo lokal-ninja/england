@@ -2,10 +2,10 @@ id: 4608735077
 type: node
 latitude: 51.53263
 longitude: -0.00931
-postcode: "E15 2QB"
+postcode: E15 2QB
 city: London
-street: "High Street"
-housenumber: 72
+street: High Street
+housenumber: "72"
 phone: ""
-opening_hours: "Su-Fr 09:00-19:30"
-website: "https://stratford-bikes.business.site/"
+opening_hours: Su-Fr 09:00-19:30
+website: https://stratford-bikes.business.site/

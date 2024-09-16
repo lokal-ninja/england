@@ -1,11 +1,11 @@
 id: 689914787
-type: way
+type: node
 latitude: 50.8269
 longitude: -0.13968
-postcode: "BN1 4AQ"
+postcode: BN1 4AQ
 city: Brighton
-street: "Gloucester Road"
-housenumber: 37
+street: Gloucester Road
+housenumber: "37"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 161977170
-type: way
+type: node
 latitude: 51.4537
 longitude: -0.06235
-postcode: "SE22 0RR"
+postcode: SE22 0RR
 city: London
-street: "Forest Hill Road"
-housenumber: 26
+street: Forest Hill Road
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.coop.co.uk/store-finder/SE22-0RR/26-forest-hill-road"
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.coop.co.uk/store-finder/SE22-0RR/26-forest-hill-road

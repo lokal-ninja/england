@@ -1,11 +1,11 @@
 id: 660155903
-type: way
+type: node
 latitude: 52.32254
 longitude: -0.07079
-postcode: "PE27 5HJ"
+postcode: PE27 5HJ
 city: St Ives
-street: "Station Road"
-housenumber: 5
+street: Station Road
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

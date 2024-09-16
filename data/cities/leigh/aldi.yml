@@ -1,11 +1,11 @@
 id: 186655057
-type: way
+type: node
 latitude: 53.49448
 longitude: -2.52064
-postcode: "WN7 4LJ"
+postcode: WN7 4LJ
 city: Leigh
-street: "King Street"
-housenumber: 70
+street: King Street
+housenumber: "70"
 phone: ""
 opening_hours: ""
 website: ""

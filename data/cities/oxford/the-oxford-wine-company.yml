@@ -1,11 +1,11 @@
 id: 355813189
-type: way
+type: node
 latitude: 51.75866
 longitude: -1.2617
-postcode: "OX1 2HP"
+postcode: OX1 2HP
 city: Oxford
-street: "Little Clarendon Street"
-housenumber: 7
+street: Little Clarendon Street
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "https://oxfordwine.co.uk/owc/our-shops-2/"
+website: https://oxfordwine.co.uk/owc/our-shops-2/

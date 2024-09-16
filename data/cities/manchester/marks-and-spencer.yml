@@ -1,11 +1,11 @@
 id: 250151462
-type: way
+type: node
 latitude: 53.48355
 longitude: -2.24349
-postcode: "M1 1WT"
+postcode: M1 1WT
 city: Manchester
-street: "Market Street"
-housenumber: 7
+street: Market Street
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su 11:30-17:30"
+opening_hours: Mo-Sa 08:00-20:00; Su 11:30-17:30
 website: ""

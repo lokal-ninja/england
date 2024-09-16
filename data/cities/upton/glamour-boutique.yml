@@ -1,11 +1,11 @@
 id: 276983098
-type: way
+type: node
 latitude: 53.3848
 longitude: -3.09687
-postcode: "CH49 0TA"
+postcode: CH49 0TA
 city: Upton
-street: "Ford Road"
-housenumber: 102
+street: Ford Road
+housenumber: "102"
 phone: ""
 opening_hours: ""
 website: ""

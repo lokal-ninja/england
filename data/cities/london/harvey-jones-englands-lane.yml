@@ -1,11 +1,11 @@
 id: 1018329287
-type: way
+type: node
 latitude: 51.54554
 longitude: -0.16255
 postcode: ""
 city: London
-street: "England's Lane"
-housenumber: 53
+street: England's Lane
+housenumber: "53"
 phone: ""
 opening_hours: ""
-website: "https://harveyjones.com/"
+website: https://harveyjones.com/

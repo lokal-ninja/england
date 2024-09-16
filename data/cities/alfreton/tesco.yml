@@ -1,11 +1,11 @@
 id: 161118315
-type: way
+type: node
 latitude: 53.09532
 longitude: -1.38968
-postcode: "DE55 7BQ"
+postcode: DE55 7BQ
 city: Alfreton
-street: "Hall Street"
-housenumber: 
+street: Hall Street
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 06:00-24:00; PH,Su 10:00-16:00"
+opening_hours: Mo-Sa 06:00-24:00; PH,Su 10:00-16:00
 website: ""

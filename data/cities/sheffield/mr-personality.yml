@@ -1,11 +1,11 @@
 id: 233959715
-type: way
+type: node
 latitude: 53.34214
 longitude: -1.47819
-postcode: "S8 0SF"
+postcode: S8 0SF
 city: Sheffield
-street: "Chesterfield Road"
-housenumber: 776
+street: Chesterfield Road
+housenumber: "776"
 phone: ""
 opening_hours: ""
 website: ""

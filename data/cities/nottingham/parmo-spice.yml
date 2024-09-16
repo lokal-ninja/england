@@ -1,11 +1,11 @@
 id: 60676409
-type: way
+type: node
 latitude: 52.92268
 longitude: -1.2841
-postcode: "NG10 5AP"
+postcode: NG10 5AP
 city: Nottingham
-street: "Station Road"
-housenumber: 66
+street: Station Road
+housenumber: "66"
 phone: ""
 opening_hours: ""
-website: "https://parmospice.co.uk/"
+website: https://parmospice.co.uk/

@@ -1,11 +1,11 @@
 id: 837831801
-type: way
+type: node
 latitude: 52.59626
 longitude: -2.08666
-postcode: "WV11 3DR"
+postcode: WV11 3DR
 city: Wolverhampton
-street: "Sidings Close"
-housenumber: 6
+street: Sidings Close
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-16:00"
-website: "https://midlandstruckvan.com"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-16:00
+website: https://midlandstruckvan.com

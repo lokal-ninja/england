@@ -1,11 +1,11 @@
 id: 85023342
-type: way
+type: node
 latitude: 52.92577
 longitude: -1.47864
-postcode: "DE1 3DS"
+postcode: DE1 3DS
 city: Derby
-street: "Queen Street"
-housenumber: 33
+street: Queen Street
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

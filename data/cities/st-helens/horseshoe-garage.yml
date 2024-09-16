@@ -1,11 +1,11 @@
 id: 943794324
-type: way
+type: node
 latitude: 53.45216
 longitude: -2.69555
-postcode: "WA9 2LH"
+postcode: WA9 2LH
 city: St Helens
-street: "Derbyshire Hill Road"
-housenumber: 2
-phone: "+44 1744 27867"
-opening_hours: "Mo-Sa 08:30-17:00"
+street: Derbyshire Hill Road
+housenumber: "2"
+phone: +44 1744 27867
+opening_hours: Mo-Sa 08:30-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 106458562
-type: way
+type: node
 latitude: 51.52223
 longitude: -0.17351
-postcode: "W2 1BS"
+postcode: W2 1BS
 city: London
-street: "Edgware Road"
-housenumber: 349
-phone: "+44 20 7258 0200"
+street: Edgware Road
+housenumber: "349"
+phone: +44 20 7258 0200
 opening_hours: ""
-website: "https://www.arrowelectricals.co.uk/"
+website: https://www.arrowelectricals.co.uk/

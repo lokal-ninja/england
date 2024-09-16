@@ -1,11 +1,11 @@
 id: 644391122
-type: way
+type: node
 latitude: 53.76031
 longitude: -2.69105
-postcode: "PR1 4HZ"
+postcode: PR1 4HZ
 city: Preston
-street: "Queen Street"
-housenumber: 
+street: Queen Street
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.thefoodwarehouse.com/store-locator/preston"
+website: https://www.thefoodwarehouse.com/store-locator/preston

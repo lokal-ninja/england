@@ -1,11 +1,11 @@
 id: 293729181
-type: way
+type: node
 latitude: 51.38728
 longitude: 0.54544
-postcode: "ME7 1BL"
+postcode: ME7 1BL
 city: Gillingham
-street: "High Street"
-housenumber: 85
+street: High Street
+housenumber: "85"
 phone: ""
 opening_hours: ""
 website: ""

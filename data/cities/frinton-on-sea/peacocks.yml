@@ -1,11 +1,11 @@
 id: 198734147
-type: way
+type: node
 latitude: 51.83212
 longitude: 1.24545
-postcode: "CO13 9PR"
+postcode: CO13 9PR
 city: Frinton-on-Sea
-street: "Connaught Avenue"
-housenumber: 
-phone: "+44 1255 670462"
-opening_hours: "Mo-Fr 09:00-17:30; Sa 09:00-18:00; Su 10:00-16:30"
-website: "https://www.peacocks.co.uk/store-detail?storeID=6124&storeName=PEACOCKS-FRINTON-ON-SEA"
+street: Connaught Avenue
+housenumber: ""
+phone: +44 1255 670462
+opening_hours: Mo-Fr 09:00-17:30; Sa 09:00-18:00; Su 10:00-16:30
+website: https://www.peacocks.co.uk/store-detail?storeID=6124&storeName=PEACOCKS-FRINTON-ON-SEA

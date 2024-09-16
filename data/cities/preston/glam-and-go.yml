@@ -1,11 +1,11 @@
 id: 344833466
-type: way
+type: node
 latitude: 53.7261
 longitude: -2.66035
-postcode: "PR5 6DZ"
+postcode: PR5 6DZ
 city: Preston
-street: "Station Road"
-housenumber: 277
+street: Station Road
+housenumber: "277"
 phone: ""
 opening_hours: ""
 website: ""

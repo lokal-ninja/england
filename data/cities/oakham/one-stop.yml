@@ -1,11 +1,11 @@
 id: 189721066
-type: way
+type: node
 latitude: 52.58823
 longitude: -0.72505
-postcode: "LE15 9QD"
+postcode: LE15 9QD
 city: Oakham
-street: "High Street West"
-housenumber: 32
+street: High Street West
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

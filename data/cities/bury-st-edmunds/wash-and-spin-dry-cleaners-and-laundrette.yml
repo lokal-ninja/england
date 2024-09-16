@@ -1,11 +1,11 @@
 id: 460382363
-type: way
+type: node
 latitude: 52.24323
 longitude: 0.68731
-postcode: "IP33 3QJ"
+postcode: IP33 3QJ
 city: Bury St Edmunds
-street: "Cadogan Road"
-housenumber: 30
-phone: "+44 7588 543014"
-opening_hours: "07:00-18:00"
-website: "http://wash-and-spin.co.uk/index.php?id=cadogan-road"
+street: Cadogan Road
+housenumber: "30"
+phone: +44 7588 543014
+opening_hours: 07:00-18:00
+website: http://wash-and-spin.co.uk/index.php?id=cadogan-road

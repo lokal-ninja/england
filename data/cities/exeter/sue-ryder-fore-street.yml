@@ -2,10 +2,10 @@ id: 2136106574
 type: node
 latitude: 50.72151
 longitude: -3.5053
-postcode: "EX1 2RJ"
+postcode: EX1 2RJ
 city: Exeter
-street: "Fore Street"
-housenumber: 51
+street: Fore Street
+housenumber: "51"
 phone: ""
 opening_hours: ""
 website: ""

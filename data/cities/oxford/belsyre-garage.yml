@@ -1,11 +1,11 @@
 id: 117365967
-type: way
+type: node
 latitude: 51.76264
 longitude: -1.26386
-postcode: "OX2 6HL"
+postcode: OX2 6HL
 city: Oxford
-street: "Woodstock Road"
-housenumber: 75
+street: Woodstock Road
+housenumber: "75"
 phone: ""
-opening_hours: "Mo-Fr 8:00-17:00;Sa 8:00-12:00"
+opening_hours: Mo-Fr 8:00-17:00;Sa 8:00-12:00
 website: ""

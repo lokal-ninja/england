@@ -1,11 +1,11 @@
 id: 92232162
-type: way
+type: node
 latitude: 54.97261
 longitude: -1.75965
-postcode: "NE40 3RA"
+postcode: NE40 3RA
 city: Ryton
-street: "Parsons Drive"
-housenumber: 
+street: Parsons Drive
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su 10:00-16:00"
-website: "https://www.coop.co.uk/store-finder/NE40-3RA/parsons-drive"
+opening_hours: Mo-Sa 07:00-22:00; Su 10:00-16:00
+website: https://www.coop.co.uk/store-finder/NE40-3RA/parsons-drive

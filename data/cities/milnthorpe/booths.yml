@@ -1,11 +1,12 @@
 id: 361034914
-type: way
+type: node
 latitude: 54.22769
 longitude: -2.77548
-postcode: "LA7 7AD"
+postcode: LA7 7AD
 city: Milnthorpe
-street: "Park Road"
-housenumber: 
+street: Park Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00, Su 09:30-10:00 open Open for browsing, Su 10:00-16:00 open"
+opening_hours: Mo-Sa 07:00-22:00, Su 09:30-10:00 open "Open for browsing", Su 10:00-16:00
+    open
 website: ""

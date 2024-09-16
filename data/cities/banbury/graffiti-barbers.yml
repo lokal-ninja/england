@@ -1,11 +1,11 @@
 id: 778970220
-type: way
+type: node
 latitude: 52.06186
 longitude: -1.33199
 postcode: ""
 city: Banbury
-street: "Bridge Street"
-housenumber: 14
+street: Bridge Street
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

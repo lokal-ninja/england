@@ -1,11 +1,11 @@
 id: 669602396
-type: way
+type: node
 latitude: 52.63772
 longitude: -1.1325
-postcode: "LE1 3GP"
+postcode: LE1 3GP
 city: Leicester
-street: "Belgrave Gate"
-housenumber: 30
-phone: "+44 116 253 2120"
-opening_hours: "Su 10:00-16:00; Mo-Fr 09:00-19:00; Sa 08:00-19:00"
-website: "http://delikatesysmaczek.co.uk/"
+street: Belgrave Gate
+housenumber: "30"
+phone: +44 116 253 2120
+opening_hours: Su 10:00-16:00; Mo-Fr 09:00-19:00; Sa 08:00-19:00
+website: http://delikatesysmaczek.co.uk/

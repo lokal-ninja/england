@@ -1,11 +1,11 @@
 id: 434853686
-type: way
+type: node
 latitude: 50.97804
 longitude: -3.22792
-postcode: "TA21 8AQ"
+postcode: TA21 8AQ
 city: Wellington
-street: "Fore Street"
-housenumber: 10
+street: Fore Street
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 144196162
-type: way
+type: node
 latitude: 52.52208
 longitude: -1.84456
-postcode: "B23 6DA"
+postcode: B23 6DA
 city: Birmingham
-street: "Reservoir Road"
-housenumber: 1
+street: Reservoir Road
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

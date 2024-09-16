@@ -1,11 +1,11 @@
 id: 130299882
-type: way
+type: node
 latitude: 53.78291
 longitude: -1.56105
-postcode: "LS11 0AS"
+postcode: LS11 0AS
 city: Leeds
-street: "Recreation Mount"
-housenumber: 30
+street: Recreation Mount
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

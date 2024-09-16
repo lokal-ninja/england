@@ -1,11 +1,11 @@
 id: 392131250
-type: way
+type: node
 latitude: 50.8408
 longitude: 0.46321
-postcode: "TN39 3LR"
+postcode: TN39 3LR
 city: Bexhill-on-Sea
-street: "Terminus Road"
-housenumber: 16
+street: Terminus Road
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Sa 09:00-17:00; Su 11:00-16:00"
+opening_hours: Mo-Sa 09:00-17:00; Su 11:00-16:00
 website: ""

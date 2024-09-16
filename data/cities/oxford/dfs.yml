@@ -1,11 +1,11 @@
 id: 27922751
-type: way
+type: node
 latitude: 51.75187
 longitude: -1.28427
-postcode: "OX2 0HA"
+postcode: OX2 0HA
 city: Oxford
-street: "Botley Road"
+street: Botley Road
 housenumber: Unit 1 Hartwell Grange
-phone: "+44 3339 999770"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 10:00-18:00; Su 11:00-17:00"
+phone: +44 3339 999770
+opening_hours: Mo-Fr 09:00-20:00; Sa 10:00-18:00; Su 11:00-17:00
 website: ""

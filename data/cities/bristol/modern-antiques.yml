@@ -1,11 +1,11 @@
 id: 279457776
-type: way
+type: node
 latitude: 51.45097
 longitude: -2.60712
-postcode: "BS1 5UW"
+postcode: BS1 5UW
 city: Bristol
-street: "Saint Georges Road"
-housenumber: 121
+street: Saint Georges Road
+housenumber: "121"
 phone: ""
 opening_hours: ""
-website: "https://www.modernantiques.com/"
+website: https://www.modernantiques.com/

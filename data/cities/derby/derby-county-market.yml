@@ -1,11 +1,11 @@
 id: 1076262345
-type: way
+type: node
 latitude: 52.91945
 longitude: -1.47571
-postcode: "DE1 1SR"
+postcode: DE1 1SR
 city: Derby
-street: "Saint Peter's Street"
-housenumber: 84
+street: Saint Peter's Street
+housenumber: "84"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 441619601
-type: way
+type: node
 latitude: 50.76964
 longitude: -0.87347
-postcode: "PO20 8BJ"
+postcode: PO20 8BJ
 city: Chichester
-street: "Cakeham Road"
-housenumber: 5
+street: Cakeham Road
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Su 06:00-23:00"
+opening_hours: Mo-Su 06:00-23:00
 website: ""

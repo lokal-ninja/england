@@ -1,11 +1,11 @@
 id: 950375797
-type: way
+type: node
 latitude: 50.37048
 longitude: -4.14437
-postcode: "PL1 1EW"
+postcode: PL1 1EW
 city: Plymouth
-street: "Royal Parade"
-housenumber: 82
+street: Royal Parade
+housenumber: "82"
 phone: ""
 opening_hours: ""
-website: "https://www.spar.co.uk/store-locator/awl20330-spar-derrys-cross/"
+website: https://www.spar.co.uk/store-locator/awl20330-spar-derrys-cross/

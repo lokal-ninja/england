@@ -2,10 +2,10 @@ id: 1111888926
 type: node
 latitude: 53.79986
 longitude: -1.44048
-postcode: "LS15 8PB"
+postcode: LS15 8PB
 city: Leeds
-street: "Kingswear Crescent"
-housenumber: 6
+street: Kingswear Crescent
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

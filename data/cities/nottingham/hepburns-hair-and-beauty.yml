@@ -1,11 +1,11 @@
 id: 79504222
-type: way
+type: node
 latitude: 52.92051
 longitude: -1.29368
-postcode: "NG10 5LL"
+postcode: NG10 5LL
 city: Nottingham
-street: "Hayworth Road"
-housenumber: 27
+street: Hayworth Road
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

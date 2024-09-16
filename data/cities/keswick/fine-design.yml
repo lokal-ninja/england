@@ -1,11 +1,11 @@
 id: 389567254
-type: way
+type: node
 latitude: 54.59899
 longitude: -3.13714
-postcode: "CA12 5DQ"
+postcode: CA12 5DQ
 city: Keswick
-street: "Lake Road"
-housenumber: 35
-phone: "+44 17687 73034"
+street: Lake Road
+housenumber: "35"
+phone: +44 17687 73034
 opening_hours: ""
 website: ""

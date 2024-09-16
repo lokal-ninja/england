@@ -1,11 +1,12 @@
 id: 854270569
-type: way
+type: node
 latitude: 50.60943
 longitude: -1.95809
 postcode: ""
 city: Swanage
-street: "Station Road"
-housenumber: 
-phone: "+44 1929 423771"
-opening_hours: "Mo 09:15-17:30; Tu 09:30-17:30; We-Fr 09:15-17:30; Sa 09:15-17:00; Su closed"
-website: "https://www.haystravel.co.uk/branches/swanage/"
+street: Station Road
+housenumber: ""
+phone: +44 1929 423771
+opening_hours: Mo 09:15-17:30; Tu 09:30-17:30; We-Fr 09:15-17:30; Sa 09:15-17:00;
+    Su closed
+website: https://www.haystravel.co.uk/branches/swanage/

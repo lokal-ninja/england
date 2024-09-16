@@ -1,11 +1,11 @@
 id: 65382162
-type: way
+type: node
 latitude: 51.47387
 longitude: -0.06924
-postcode: "SE15 5RS"
+postcode: SE15 5RS
 city: London
-street: "Peckham High Street"
-housenumber: 93
+street: Peckham High Street
+housenumber: "93"
 phone: ""
 opening_hours: ""
-website: "https://www.thisisdrummerboy.com/"
+website: https://www.thisisdrummerboy.com/

@@ -1,11 +1,11 @@
 id: 105831056
-type: way
+type: node
 latitude: 52.77388
 longitude: 0.44719
-postcode: "PE30 3UG"
+postcode: PE30 3UG
 city: King's Lynn
-street: "Rainbow Centre"
-housenumber: 5
+street: Rainbow Centre
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su 10:00-16:00"
+opening_hours: Mo-Sa 07:00-22:00; Su 10:00-16:00
 website: ""

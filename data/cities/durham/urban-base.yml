@@ -1,11 +1,11 @@
 id: 334673688
-type: way
+type: node
 latitude: 54.77589
 longitude: -1.57493
-postcode: "DH1 3NU"
+postcode: DH1 3NU
 city: Durham
-street: "Saddler Street"
-housenumber: 61
+street: Saddler Street
+housenumber: "61"
 phone: ""
 opening_hours: ""
 website: ""

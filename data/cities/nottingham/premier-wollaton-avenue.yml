@@ -1,11 +1,11 @@
 id: 240503620
-type: way
+type: node
 latitude: 52.98154
 longitude: -1.09334
-postcode: "NG4 4HX"
+postcode: NG4 4HX
 city: Nottingham
-street: "Wollaton Avenue"
-housenumber: 4
+street: Wollaton Avenue
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

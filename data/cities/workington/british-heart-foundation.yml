@@ -4,8 +4,8 @@ latitude: 54.64405
 longitude: -3.5448
 postcode: ""
 city: Workington
-street: "Pow Street"
-housenumber: 
+street: Pow Street
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:30-17:00; Su 11:00-16:00"
-website: "https://www.bhf.org.uk/what-we-do/find-bhf-near-you/workington-bhf-shop"
+opening_hours: Mo-Sa 09:30-17:00; Su 11:00-16:00
+website: https://www.bhf.org.uk/what-we-do/find-bhf-near-you/workington-bhf-shop

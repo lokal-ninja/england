@@ -1,11 +1,11 @@
 id: 93710860
-type: way
+type: node
 latitude: 51.50297
 longitude: -0.07692
-postcode: "SE1 2UP"
+postcode: SE1 2UP
 city: London
-street: "Tower Bridge Road"
-housenumber: 210
+street: Tower Bridge Road
+housenumber: "210"
 phone: ""
 opening_hours: ""
 website: ""

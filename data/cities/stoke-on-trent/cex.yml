@@ -1,11 +1,11 @@
 id: 1117117000
-type: way
+type: node
 latitude: 53.02612
 longitude: -2.1768
-postcode: "ST1 5SA"
+postcode: ST1 5SA
 city: Stoke-on-Trent
-street: "Stafford Street"
-housenumber: 59
+street: Stafford Street
+housenumber: "59"
 phone: ""
 opening_hours: ""
 website: ""

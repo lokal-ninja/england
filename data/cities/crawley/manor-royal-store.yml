@@ -1,11 +1,11 @@
 id: 1204323706
-type: way
+type: node
 latitude: 51.12765
 longitude: -0.18665
-postcode: "RH10 8LD"
+postcode: RH10 8LD
 city: Crawley
-street: "London Road"
-housenumber: 134
+street: London Road
+housenumber: "134"
 phone: ""
 opening_hours: ""
 website: ""

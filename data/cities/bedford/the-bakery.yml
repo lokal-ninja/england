@@ -2,10 +2,10 @@ id: 1305155078
 type: node
 latitude: 52.13709
 longitude: -0.45517
-postcode: "MK40 3QR"
+postcode: MK40 3QR
 city: Bedford
-street: "Castle Road"
-housenumber: 106
+street: Castle Road
+housenumber: "106"
 phone: ""
-opening_hours: "Mo-Sa 07:00-17:00; Su 10:00-15:00"
+opening_hours: Mo-Sa 07:00-17:00; Su 10:00-15:00
 website: ""

@@ -1,11 +1,11 @@
 id: 496706209
-type: way
+type: node
 latitude: 51.45957
 longitude: -2.54804
-postcode: "BS5 8AA"
+postcode: BS5 8AA
 city: Bristol
-street: "Church Road"
-housenumber: 347
+street: Church Road
+housenumber: "347"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://stores.southern.coop/bristol/bristol/345-347-church-road.html"
+opening_hours: Mo-Su 07:00-22:00
+website: https://stores.southern.coop/bristol/bristol/345-347-church-road.html

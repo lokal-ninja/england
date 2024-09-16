@@ -1,11 +1,11 @@
 id: 322140361
-type: way
+type: node
 latitude: 51.46157
 longitude: -0.11327
-postcode: "SW9 8LH"
+postcode: SW9 8LH
 city: London
-street: "Coldharbour Lane"
-housenumber: 421
+street: Coldharbour Lane
+housenumber: "421"
 phone: ""
 opening_hours: ""
 website: ""

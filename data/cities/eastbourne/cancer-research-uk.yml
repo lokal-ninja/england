@@ -1,11 +1,11 @@
 id: 576100515
-type: way
+type: node
 latitude: 50.76789
 longitude: 0.28785
-postcode: "BN21 3BB"
+postcode: BN21 3BB
 city: Eastbourne
-street: "Terminus Road"
-housenumber: 172
+street: Terminus Road
+housenumber: "172"
 phone: ""
 opening_hours: ""
-website: "https://www.cancerresearchuk.org/get-involved/find-a-shop/eastbourne"
+website: https://www.cancerresearchuk.org/get-involved/find-a-shop/eastbourne

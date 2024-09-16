@@ -1,11 +1,11 @@
 id: 685590809
-type: way
+type: node
 latitude: 52.03584
 longitude: 0.72184
-postcode: "CO10 2DL"
+postcode: CO10 2DL
 city: Sudbury
-street: "Cross Street"
-housenumber: 50
+street: Cross Street
+housenumber: "50"
 phone: ""
-opening_hours: "Mo-Fr 08:15-16:00, Sa 08:15-16:00"
+opening_hours: Mo-Fr 08:15-16:00, Sa 08:15-16:00
 website: ""

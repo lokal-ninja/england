@@ -1,11 +1,11 @@
 id: 1010006817
-type: way
+type: node
 latitude: 50.41145
 longitude: -4.10267
 postcode: ""
 city: Plymouth
-street: "Keswick Crescent"
-housenumber: 
+street: Keswick Crescent
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 06:00-20:00; Sa,Su 07:00-20:00"
+opening_hours: Mo-Fr 06:00-20:00; Sa,Su 07:00-20:00
 website: ""

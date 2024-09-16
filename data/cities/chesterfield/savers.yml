@@ -1,11 +1,11 @@
 id: 1279208867
-type: way
+type: node
 latitude: 53.23531
 longitude: -1.42717
-postcode: "S40 1RB"
+postcode: S40 1RB
 city: Chesterfield
-street: "Packers Row"
-housenumber: 14
-phone: "+44 1246 204364"
-opening_hours: "Mo-Sa 08:00-17:30; Su 10:00-16:00"
-website: "https://www.savers.co.uk/store-finder/#store-details/Chesterfield"
+street: Packers Row
+housenumber: "14"
+phone: +44 1246 204364
+opening_hours: Mo-Sa 08:00-17:30; Su 10:00-16:00
+website: https://www.savers.co.uk/store-finder/#store-details/Chesterfield

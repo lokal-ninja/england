@@ -1,11 +1,11 @@
 id: 1068771626
-type: way
+type: node
 latitude: 53.40381
 longitude: -2.9799
-postcode: "L1 4DS"
+postcode: L1 4DS
 city: Liverpool
-street: "Bold Street"
-housenumber: 42
+street: Bold Street
+housenumber: "42"
 phone: ""
 opening_hours: ""
 website: ""

@@ -2,10 +2,10 @@ id: 3153411942
 type: node
 latitude: 53.85736
 longitude: -1.4285
-postcode: "LS14 3DX"
+postcode: LS14 3DX
 city: Leeds
-street: "Main Street"
-housenumber: 44
+street: Main Street
+housenumber: "44"
 phone: ""
 opening_hours: ""
 website: ""

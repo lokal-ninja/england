@@ -2,10 +2,10 @@ id: 11727181084
 type: node
 latitude: 53.74299
 longitude: -1.60114
-postcode: "LS27 9AE"
+postcode: LS27 9AE
 city: Leeds
-street: "Fountain Street"
-housenumber: 21
-phone: "07787 726417"
-opening_hours: "Wed-15:20, Thur-15:21, Fri-10:14, Sat-10:14"
+street: Fountain Street
+housenumber: "21"
+phone: 07787 726417
+opening_hours: Wed-15:20, Thur-15:21, Fri-10:14, Sat-10:14
 website: ""

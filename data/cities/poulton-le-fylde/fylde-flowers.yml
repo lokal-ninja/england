@@ -1,11 +1,11 @@
 id: 452108964
-type: way
+type: node
 latitude: 53.85312
 longitude: -2.96409
-postcode: "FY6 7LD"
+postcode: FY6 7LD
 city: Poulton-le-Fylde
-street: "Mains Lane"
-housenumber: 102
+street: Mains Lane
+housenumber: "102"
 phone: ""
-opening_hours: "09:00 - 17:00"
+opening_hours: 09:00 - 17:00
 website: ""

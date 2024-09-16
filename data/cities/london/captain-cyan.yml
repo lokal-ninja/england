@@ -2,10 +2,10 @@ id: 3868880057
 type: node
 latitude: 51.4981
 longitude: -0.10375
-postcode: "SE1 6LF"
+postcode: SE1 6LF
 city: London
-street: "London Road"
-housenumber: 124
+street: London Road
+housenumber: "124"
 phone: ""
 opening_hours: ""
-website: "https://captaincyan.com"
+website: https://captaincyan.com

@@ -1,11 +1,11 @@
 id: 1125052957
-type: way
+type: node
 latitude: 53.35917
 longitude: -1.42176
-postcode: "S12 2AE"
+postcode: S12 2AE
 city: Sheffield
-street: "Mansfield Road"
-housenumber: 27
+street: Mansfield Road
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

@@ -2,10 +2,10 @@ id: 11210995372
 type: node
 latitude: 51.55269
 longitude: -1.77714
-postcode: "SN1 3BD"
+postcode: SN1 3BD
 city: Swindon
-street: "Victoria Road"
-housenumber: 106
+street: Victoria Road
+housenumber: "106"
 phone: ""
-opening_hours: "Mo-Sa 09:00-18:00; Su 10:00-16:00"
+opening_hours: Mo-Sa 09:00-18:00; Su 10:00-16:00
 website: ""

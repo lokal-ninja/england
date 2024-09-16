@@ -1,11 +1,11 @@
 id: 55890686
-type: way
+type: node
 latitude: 51.45919
 longitude: -0.99963
-postcode: "RG30 1AW"
+postcode: RG30 1AW
 city: Reading
-street: "Portman Road"
-housenumber: 
+street: Portman Road
+housenumber: ""
 phone: "+443450269558"
-opening_hours: "Mo-Sa 00:00-24:00; Su 10:00-16:00"
+opening_hours: Mo-Sa 00:00-24:00; Su 10:00-16:00
 website: ""

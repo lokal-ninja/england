@@ -2,10 +2,10 @@ id: 2301748924
 type: node
 latitude: 52.95535
 longitude: -1.14942
-postcode: "NG1 2AE"
+postcode: NG1 2AE
 city: Nottingham
-street: "Kings Walk"
-housenumber: 6
+street: Kings Walk
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

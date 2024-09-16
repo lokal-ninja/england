@@ -1,11 +1,11 @@
 id: 339795479
-type: way
+type: node
 latitude: 52.11046
 longitude: 0.79603
-postcode: "CO10 9PY"
+postcode: CO10 9PY
 city: Sudbury
-street: "High Street"
-housenumber: 46
+street: High Street
+housenumber: "46"
 phone: ""
-opening_hours: "We-Sa 10:00-16:00"
-website: "https://thegardenershome.co.uk/"
+opening_hours: We-Sa 10:00-16:00
+website: https://thegardenershome.co.uk/

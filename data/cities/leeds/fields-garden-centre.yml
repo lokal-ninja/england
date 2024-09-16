@@ -1,11 +1,11 @@
 id: 1159225542
-type: way
+type: node
 latitude: 53.80204
 longitude: -1.25389
-postcode: "LS25 6EJ"
+postcode: LS25 6EJ
 city: Leeds
-street: "Finkle Hill"
-housenumber: 
-phone: "+44 1977 685000"
-opening_hours: "Mo-Sa 09:00-17:00, Su 10:00-16:00"
+street: Finkle Hill
+housenumber: ""
+phone: +44 1977 685000
+opening_hours: Mo-Sa 09:00-17:00, Su 10:00-16:00
 website: ""

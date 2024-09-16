@@ -2,10 +2,10 @@ id: 4792387389
 type: node
 latitude: 53.96145
 longitude: -1.08255
-postcode: "YO1 8AS"
+postcode: YO1 8AS
 city: York
-street: "Stonegate"
-housenumber: 60
+street: Stonegate
+housenumber: "60"
 phone: ""
 opening_hours: ""
 website: ""

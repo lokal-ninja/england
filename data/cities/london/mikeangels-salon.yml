@@ -1,11 +1,11 @@
 id: 827584383
-type: way
+type: node
 latitude: 51.52881
 longitude: 0.0259
-postcode: "E13 0AS"
+postcode: E13 0AS
 city: London
-street: "Greengate Street"
-housenumber: 10
+street: Greengate Street
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

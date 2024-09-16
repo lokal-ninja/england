@@ -1,11 +1,11 @@
 id: 234938956
-type: way
+type: node
 latitude: 50.83262
 longitude: -0.20781
-postcode: "BN41 1AG"
+postcode: BN41 1AG
 city: Portslade
-street: "Station Road"
-housenumber: 43
+street: Station Road
+housenumber: "43"
 phone: ""
 opening_hours: ""
 website: ""

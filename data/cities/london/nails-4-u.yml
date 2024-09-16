@@ -1,11 +1,11 @@
 id: 267306016
-type: way
+type: node
 latitude: 51.51717
 longitude: -0.07032
-postcode: "E1 6TD"
+postcode: E1 6TD
 city: London
-street: "Osborn Street"
-housenumber: 40
+street: Osborn Street
+housenumber: "40"
 phone: ""
-opening_hours: "Mo-Fr 10:30-19:30; Sa 10:00-18:00; Su 11:00-17:00"
+opening_hours: Mo-Fr 10:30-19:30; Sa 10:00-18:00; Su 11:00-17:00
 website: ""

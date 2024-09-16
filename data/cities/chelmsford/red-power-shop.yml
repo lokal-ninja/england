@@ -1,11 +1,11 @@
 id: 270154127
-type: way
+type: node
 latitude: 51.73525
 longitude: 0.4714
-postcode: "CM1 1HL"
+postcode: CM1 1HL
 city: Chelmsford
-street: "Duke Street"
-housenumber: 13
+street: Duke Street
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

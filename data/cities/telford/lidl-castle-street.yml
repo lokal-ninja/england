@@ -1,11 +1,11 @@
 id: 388641337
-type: way
+type: node
 latitude: 52.70675
 longitude: -2.47758
-postcode: "TF1 5GH"
+postcode: TF1 5GH
 city: Telford
-street: "Castle Street"
-housenumber: 
+street: Castle Street
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su 11:00-16:00"
-website: "https://www.lidl.co.uk/s/en-GB/store-finder/telford/hadley/castle-street/"
+opening_hours: Mo-Sa 08:00-21:00; Su 11:00-16:00
+website: https://www.lidl.co.uk/s/en-GB/store-finder/telford/hadley/castle-street/

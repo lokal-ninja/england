@@ -1,11 +1,11 @@
 id: 856044900
-type: way
+type: node
 latitude: 51.53321
 longitude: 0.01384
-postcode: "E15 3ET"
+postcode: E15 3ET
 city: London
-street: "Plaistow Road"
-housenumber: 171
+street: Plaistow Road
+housenumber: "171"
 phone: ""
 opening_hours: ""
 website: ""

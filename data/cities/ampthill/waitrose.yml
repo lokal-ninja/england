@@ -1,11 +1,11 @@
 id: 94355065
-type: way
+type: node
 latitude: 52.03338
 longitude: -0.4944
-postcode: "MK45 2LU"
+postcode: MK45 2LU
 city: Ampthill
-street: "Bedford Street"
-housenumber: 25
+street: Bedford Street
+housenumber: "25"
 phone: ""
 opening_hours: ""
-website: "https://www.waitrose.com/find-a-store/ampthill"
+website: https://www.waitrose.com/find-a-store/ampthill

@@ -1,11 +1,11 @@
 id: 136312591
-type: way
+type: node
 latitude: 52.21734
 longitude: 0.11123
-postcode: "CB4 3JP"
+postcode: CB4 3JP
 city: Cambridge
-street: "Histon Road"
-housenumber: 98
-phone: "+44 1223 315648"
+street: Histon Road
+housenumber: "98"
+phone: +44 1223 315648
 opening_hours: ""
 website: ""

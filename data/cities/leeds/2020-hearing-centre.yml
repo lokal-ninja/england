@@ -1,11 +1,11 @@
 id: 532750301
-type: way
+type: node
 latitude: 53.78283
 longitude: -1.58636
-postcode: "LS12 4AD"
+postcode: LS12 4AD
 city: Leeds
-street: "Dixon Lane"
-housenumber: 102
+street: Dixon Lane
+housenumber: "102"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 295395558
-type: way
+type: node
 latitude: 51.20305
 longitude: -0.16735
-postcode: "RH1 5BX"
+postcode: RH1 5BX
 city: Redhill
-street: "Brighton Road"
-housenumber: 50
+street: Brighton Road
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

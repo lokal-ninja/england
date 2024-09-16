@@ -1,11 +1,11 @@
 id: 199250517
-type: way
+type: node
 latitude: 51.88646
 longitude: 0.83016
-postcode: "CO3 8AA"
+postcode: CO3 8AA
 city: Colchester
-street: "Western Approach"
-housenumber: 1
+street: Western Approach
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://stores.sainsburys.co.uk/2168/stanway"
+website: https://stores.sainsburys.co.uk/2168/stanway

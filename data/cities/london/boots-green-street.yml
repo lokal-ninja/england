@@ -1,11 +1,11 @@
 id: 459555180
-type: way
+type: node
 latitude: 51.5359
 longitude: 0.03507
-postcode: "E13 9AP"
+postcode: E13 9AP
 city: London
-street: "Green Street"
-housenumber: 384
+street: Green Street
+housenumber: "384"
 phone: ""
 opening_hours: ""
-website: "https://www.boots.com/stores/718-london-upton-park-e13-9ap"
+website: https://www.boots.com/stores/718-london-upton-park-e13-9ap

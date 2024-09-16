@@ -1,11 +1,11 @@
 id: 436635654
-type: way
+type: node
 latitude: 50.78727
 longitude: -0.97514
-postcode: "PO11 9LB"
+postcode: PO11 9LB
 city: Hayling Island
-street: "Selsmore Road"
-housenumber: 4
-phone: "+44 23 9246 6013"
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.coop.co.uk/"
+street: Selsmore Road
+housenumber: "4"
+phone: +44 23 9246 6013
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.coop.co.uk/

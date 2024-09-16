@@ -1,11 +1,11 @@
 id: 299140188
-type: way
+type: node
 latitude: 51.20437
 longitude: -0.16643
-postcode: "RH1 5DG"
+postcode: RH1 5DG
 city: Redhill
-street: "Honeycrock Lane"
-housenumber: 7
+street: Honeycrock Lane
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

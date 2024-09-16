@@ -1,11 +1,11 @@
 id: 1034231434
-type: way
+type: node
 latitude: 53.04603
 longitude: -1.41346
-postcode: "DE5 3PY"
+postcode: DE5 3PY
 city: Ripley
-street: "Maple Avenue"
-housenumber: 37
+street: Maple Avenue
+housenumber: "37"
 phone: ""
 opening_hours: ""
 website: ""

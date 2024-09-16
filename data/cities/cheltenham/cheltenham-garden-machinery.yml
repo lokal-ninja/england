@@ -1,11 +1,11 @@
 id: 168199991
-type: way
+type: node
 latitude: 51.90515
 longitude: -2.08312
-postcode: "GL50 3HU"
+postcode: GL50 3HU
 city: Cheltenham
-street: "High Street"
+street: High Street
 housenumber: 437;439
-phone: "+44 1242 238342"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-16:30"
-website: "https://www.cheltenhamgardenmachinery.com/"
+phone: +44 1242 238342
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-16:30
+website: https://www.cheltenhamgardenmachinery.com/

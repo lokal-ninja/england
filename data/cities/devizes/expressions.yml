@@ -1,11 +1,11 @@
 id: 905810589
-type: way
+type: node
 latitude: 51.35174
 longitude: -1.99468
 postcode: ""
 city: Devizes
-street: "High Street"
-housenumber: 22
+street: High Street
+housenumber: "22"
 phone: ""
-opening_hours: "Su off; Mo-Fr 09:00-19:00; Sa 09:00-16:00"
+opening_hours: Su off; Mo-Fr 09:00-19:00; Sa 09:00-16:00
 website: ""

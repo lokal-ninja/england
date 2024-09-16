@@ -1,11 +1,11 @@
 id: 433276899
-type: way
+type: node
 latitude: 53.80769
 longitude: -1.53449
-postcode: "LS7 1AD"
+postcode: LS7 1AD
 city: Leeds
-street: "Sheepscar Street South"
-housenumber: 5
+street: Sheepscar Street South
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

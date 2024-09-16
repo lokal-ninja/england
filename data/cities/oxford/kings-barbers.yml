@@ -1,11 +1,11 @@
 id: 227231839
-type: way
+type: node
 latitude: 51.73557
 longitude: -1.21669
-postcode: "OX4 2DU"
+postcode: OX4 2DU
 city: Oxford
-street: "Oxford Road"
-housenumber: 128
+street: Oxford Road
+housenumber: "128"
 phone: ""
 opening_hours: ""
 website: ""

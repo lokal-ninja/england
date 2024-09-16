@@ -1,11 +1,11 @@
 id: 993023570
-type: way
+type: node
 latitude: 52.07397
 longitude: -0.24351
-postcode: "SG18 8PS"
+postcode: SG18 8PS
 city: Biggleswade
-street: "London Road"
-housenumber: 
-phone: "+44 1767 660462"
-opening_hours: "Mo-Sa 09:00-20:00; Su 11:00-17:00"
-website: "https://www.jdsports.co.uk/store-locator/biggleswade/1310/"
+street: London Road
+housenumber: ""
+phone: +44 1767 660462
+opening_hours: Mo-Sa 09:00-20:00; Su 11:00-17:00
+website: https://www.jdsports.co.uk/store-locator/biggleswade/1310/

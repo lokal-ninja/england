@@ -1,11 +1,11 @@
 id: 454663252
-type: way
+type: node
 latitude: 51.57444
 longitude: -0.01048
-postcode: "E10 6AE"
+postcode: E10 6AE
 city: London
-street: "High Road Leyton"
-housenumber: 790
+street: High Road Leyton
+housenumber: "790"
 phone: ""
 opening_hours: ""
 website: ""

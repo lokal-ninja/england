@@ -1,11 +1,11 @@
 id: 242083304
-type: way
+type: node
 latitude: 50.82888
 longitude: -0.14191
-postcode: "BN1 3PD"
+postcode: BN1 3PD
 city: Brighton & Hove
-street: "Terminus Road"
-housenumber: 2
+street: Terminus Road
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

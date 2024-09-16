@@ -1,11 +1,11 @@
 id: 888995674
-type: way
+type: node
 latitude: 51.97837
 longitude: -0.22709
-postcode: "SG6 3DN"
+postcode: SG6 3DN
 city: Letchworth Garden City
-street: "Commerce Way"
-housenumber: 17
-phone: "+44 1462 671611"
+street: Commerce Way
+housenumber: "17"
+phone: +44 1462 671611
 opening_hours: ""
 website: ""

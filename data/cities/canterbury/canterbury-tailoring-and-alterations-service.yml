@@ -1,11 +1,11 @@
 id: 226144797
-type: way
+type: node
 latitude: 51.28222
 longitude: 1.08316
-postcode: "CT1 1BB"
+postcode: CT1 1BB
 city: Canterbury
-street: "Northgate"
-housenumber: 73
-phone: "+44 1227 639731"
-opening_hours: "Mo-Fr 09:00-18:00; Su 09:30-16:00"
+street: Northgate
+housenumber: "73"
+phone: +44 1227 639731
+opening_hours: Mo-Fr 09:00-18:00; Su 09:30-16:00
 website: ""

@@ -1,11 +1,11 @@
 id: 359643856
-type: way
+type: node
 latitude: 53.68792
 longitude: -1.69281
-postcode: "WF14 0JA"
+postcode: WF14 0JA
 city: Mirfield
-street: "Old Bank Road"
-housenumber: 54
+street: Old Bank Road
+housenumber: "54"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.coop.co.uk/store-finder/WF14-0JA/54-old-bank-road"
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.coop.co.uk/store-finder/WF14-0JA/54-old-bank-road

@@ -1,11 +1,11 @@
 id: 977365161
-type: way
+type: node
 latitude: 52.20826
 longitude: 0.1365
-postcode: "CB5 8DZ"
+postcode: CB5 8DZ
 city: Cambridge
-street: "Newmarket Road"
-housenumber: 72
+street: Newmarket Road
+housenumber: "72"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 865403207
-type: way
+type: node
 latitude: 52.75555
 longitude: 0.39511
-postcode: "PE30 1AY"
+postcode: PE30 1AY
 city: King's Lynn
-street: "High Street"
-housenumber: 61
+street: High Street
+housenumber: "61"
 phone: ""
 opening_hours: ""
-website: "https://www.cancerresearchuk.org/get-involved/find-a-shop/kings-lynn"
+website: https://www.cancerresearchuk.org/get-involved/find-a-shop/kings-lynn

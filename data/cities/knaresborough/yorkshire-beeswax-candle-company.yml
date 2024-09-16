@@ -1,11 +1,11 @@
 id: 1080016924
-type: way
+type: node
 latitude: 54.0071
 longitude: -1.46689
 postcode: ""
 city: Knaresborough
-street: "Green Dragon Yard"
-housenumber: 2
+street: Green Dragon Yard
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

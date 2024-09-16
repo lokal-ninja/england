@@ -1,11 +1,11 @@
 id: 362050045
-type: way
+type: node
 latitude: 51.02665
 longitude: -3.10124
-postcode: "TA2 7DP"
+postcode: TA2 7DP
 city: Taunton
-street: "Cheddon Road"
-housenumber: 66
+street: Cheddon Road
+housenumber: "66"
 phone: ""
 opening_hours: ""
-website: "https://tacticalassault.co.uk/"
+website: https://tacticalassault.co.uk/

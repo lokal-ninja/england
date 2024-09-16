@@ -1,11 +1,11 @@
 id: 1210526975
-type: way
+type: node
 latitude: 53.38136
 longitude: -2.56579
-postcode: "WA4 1PN"
+postcode: WA4 1PN
 city: Warrington
-street: "Grange Avenue"
-housenumber: 1
+street: Grange Avenue
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

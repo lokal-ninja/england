@@ -2,10 +2,10 @@ id: 4569163897
 type: node
 latitude: 50.82057
 longitude: -0.14409
-postcode: "BN1 1NA"
+postcode: BN1 1NA
 city: Brighton
-street: "King's Road"
-housenumber: 57
+street: King's Road
+housenumber: "57"
 phone: ""
 opening_hours: ""
 website: ""

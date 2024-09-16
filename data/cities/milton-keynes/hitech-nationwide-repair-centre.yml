@@ -1,11 +1,11 @@
 id: 687378214
-type: way
+type: node
 latitude: 52.01187
 longitude: -0.72721
-postcode: "MK1 1LG"
+postcode: MK1 1LG
 city: Milton Keynes
-street: "Clarke Road"
-housenumber: 
-phone: "+44 1908 277744"
-opening_hours: "Mo-Fr 08:00-17:00; Sa-Su closed"
-website: "https://www.nationwiderepairs.co.uk/store/milton-keynes-2/"
+street: Clarke Road
+housenumber: ""
+phone: +44 1908 277744
+opening_hours: Mo-Fr 08:00-17:00; Sa-Su closed
+website: https://www.nationwiderepairs.co.uk/store/milton-keynes-2/

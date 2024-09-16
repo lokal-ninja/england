@@ -1,11 +1,11 @@
 id: 195390042
-type: way
+type: node
 latitude: 51.58963
 longitude: -0.01834
 postcode: ""
 city: London
-street: "Hoe Street"
-housenumber: 36
+street: Hoe Street
+housenumber: "36"
 phone: ""
 opening_hours: ""
 website: ""

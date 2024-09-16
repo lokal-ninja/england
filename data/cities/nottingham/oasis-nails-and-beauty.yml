@@ -1,11 +1,11 @@
 id: 288712973
-type: way
+type: node
 latitude: 52.95022
 longitude: -1.22941
-postcode: "NG8 2GB"
+postcode: NG8 2GB
 city: Nottingham
-street: "Arleston Drive"
-housenumber: 105
+street: Arleston Drive
+housenumber: "105"
 phone: ""
 opening_hours: ""
 website: ""

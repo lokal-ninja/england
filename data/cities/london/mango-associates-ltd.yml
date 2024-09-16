@@ -1,11 +1,11 @@
 id: 292120500
-type: way
+type: node
 latitude: 51.47421
 longitude: -0.06665
-postcode: "SE15 5SL"
+postcode: SE15 5SL
 city: London
-street: "Peckham High Street"
-housenumber: 145
+street: Peckham High Street
+housenumber: "145"
 phone: ""
 opening_hours: ""
 website: ""

@@ -2,10 +2,10 @@ id: 11358559871
 type: node
 latitude: 51.14505
 longitude: -0.08849
-postcode: "RH10 3HG"
+postcode: RH10 3HG
 city: Crawley
-street: "West Park Road"
-housenumber: 
-phone: "+44 1342 659823"
-opening_hours: "Mo,Tu,We,Sa 09:00-18:00; Th,Fr 09:00-20:00; Su 10:30-16:30"
-website: "https://www.lakeland.co.uk/StoreDetail.action?storeId=SN&distanceValue=3.6899438"
+street: West Park Road
+housenumber: ""
+phone: +44 1342 659823
+opening_hours: Mo,Tu,We,Sa 09:00-18:00; Th,Fr 09:00-20:00; Su 10:30-16:30
+website: https://www.lakeland.co.uk/StoreDetail.action?storeId=SN&distanceValue=3.6899438

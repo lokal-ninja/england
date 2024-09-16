@@ -1,11 +1,11 @@
 id: 1053085727
-type: way
+type: node
 latitude: 50.93318
 longitude: -0.99583
-postcode: "PO8 0JE"
+postcode: PO8 0JE
 city: Clanfield
-street: "London Road"
-housenumber: 299
+street: London Road
+housenumber: "299"
 phone: ""
 opening_hours: ""
-website: "https://www.hilltopgarageservices.co.uk/"
+website: https://www.hilltopgarageservices.co.uk/

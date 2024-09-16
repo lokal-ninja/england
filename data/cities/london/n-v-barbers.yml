@@ -1,11 +1,11 @@
 id: 157322987
-type: way
+type: node
 latitude: 51.5227
 longitude: -0.07801
 postcode: ""
 city: London
-street: "Shoreditch High Street"
-housenumber: 223
-phone: "+44 20 7247 7629"
+street: Shoreditch High Street
+housenumber: "223"
+phone: +44 20 7247 7629
 opening_hours: ""
 website: ""

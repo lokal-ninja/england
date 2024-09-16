@@ -2,10 +2,11 @@ id: 5634986900
 type: node
 latitude: 51.43765
 longitude: -2.00358
-postcode: "SN11 0HU"
+postcode: SN11 0HU
 city: Calne
-street: "Church Street"
-housenumber: 11
-phone: "+44 1249 812 002"
-opening_hours: "Tu 09:00-17:00; We 10:00-19:00; Th 10:00-20:00; Fr 09:00-19:00; Sa 09:00-16:00"
-website: "https://www.pamplemouse.net/"
+street: Church Street
+housenumber: "11"
+phone: +44 1249 812 002
+opening_hours: Tu 09:00-17:00; We 10:00-19:00; Th 10:00-20:00; Fr 09:00-19:00; Sa
+    09:00-16:00
+website: https://www.pamplemouse.net/

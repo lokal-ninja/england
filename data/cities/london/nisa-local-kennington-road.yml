@@ -1,11 +1,11 @@
 id: 224555048
-type: way
+type: node
 latitude: 51.48513
 longitude: -0.11021
-postcode: "SE11 4PT"
+postcode: SE11 4PT
 city: London
-street: "Kennington Road"
-housenumber: 407
+street: Kennington Road
+housenumber: "407"
 phone: ""
 opening_hours: ""
 website: ""

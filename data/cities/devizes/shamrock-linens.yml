@@ -1,11 +1,11 @@
 id: 906212761
-type: way
+type: node
 latitude: 51.35238
 longitude: -1.99352
 postcode: ""
 city: Devizes
-street: "The Brittox"
-housenumber: 13
+street: The Brittox
+housenumber: "13"
 phone: ""
-opening_hours: "Su off; Sa 10:00-16:00; Mo-Fr 09:00-17:00"
+opening_hours: Su off; Sa 10:00-16:00; Mo-Fr 09:00-17:00
 website: ""

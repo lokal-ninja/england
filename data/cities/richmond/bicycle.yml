@@ -1,11 +1,11 @@
 id: 568582153
-type: way
+type: node
 latitude: 51.46237
 longitude: -0.29488
-postcode: "TW9 1UR"
+postcode: TW9 1UR
 city: Richmond
-street: "Sheen Road"
-housenumber: 120
-phone: "+44 20 8940 2274"
-opening_hours: "Tu-We 9:30-18:30; Th 9:30-19:00; Fr 9:30-18:30; Sa 10:00-18:00"
+street: Sheen Road
+housenumber: "120"
+phone: +44 20 8940 2274
+opening_hours: Tu-We 9:30-18:30; Th 9:30-19:00; Fr 9:30-18:30; Sa 10:00-18:00
 website: ""

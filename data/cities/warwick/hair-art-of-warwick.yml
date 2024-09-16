@@ -1,11 +1,11 @@
 id: 244966755
-type: way
+type: node
 latitude: 52.28313
 longitude: -1.58208
-postcode: "CV34 4HU"
+postcode: CV34 4HU
 city: Warwick
-street: "Smith Street"
-housenumber: 72
+street: Smith Street
+housenumber: "72"
 phone: ""
 opening_hours: ""
 website: ""

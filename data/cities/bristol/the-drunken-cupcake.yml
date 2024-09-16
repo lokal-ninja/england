@@ -1,11 +1,11 @@
 id: 289801669
-type: way
+type: node
 latitude: 51.45709
 longitude: -2.57826
-postcode: "BS2 0BZ"
+postcode: BS2 0BZ
 city: Bristol
-street: "West Street"
-housenumber: 43
+street: West Street
+housenumber: "43"
 phone: ""
 opening_hours: ""
 website: ""

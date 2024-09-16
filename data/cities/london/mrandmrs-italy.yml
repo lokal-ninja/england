@@ -1,11 +1,11 @@
 id: 290135532
-type: way
+type: node
 latitude: 51.50863
 longitude: -0.14066
 postcode: ""
 city: London
-street: "Old Bond Street"
-housenumber: 38
+street: Old Bond Street
+housenumber: "38"
 phone: ""
 opening_hours: ""
-website: "https://www.mmi.it/en/"
+website: https://www.mmi.it/en/

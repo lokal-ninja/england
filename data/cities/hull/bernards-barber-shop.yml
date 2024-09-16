@@ -1,11 +1,11 @@
 id: 1171278523
-type: way
+type: node
 latitude: 53.74612
 longitude: -0.33652
-postcode: "HU1 3AB"
+postcode: HU1 3AB
 city: Hull
-street: "George Street"
-housenumber: 92
+street: George Street
+housenumber: "92"
 phone: ""
 opening_hours: ""
 website: ""

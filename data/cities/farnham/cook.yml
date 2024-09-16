@@ -1,11 +1,11 @@
 id: 203425855
-type: way
+type: node
 latitude: 51.21727
 longitude: -0.79523
-postcode: "GU9 7TP"
+postcode: GU9 7TP
 city: Farnham
-street: "East Street"
-housenumber: 88
+street: East Street
+housenumber: "88"
 phone: ""
-opening_hours: "Mo-Sa 09:00-17:30; Su 10:00-16:00"
+opening_hours: Mo-Sa 09:00-17:30; Su 10:00-16:00
 website: ""

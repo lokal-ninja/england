@@ -1,11 +1,11 @@
 id: 216244106
-type: way
+type: node
 latitude: 52.96356
 longitude: -1.16919
-postcode: "NG7 5FS"
+postcode: NG7 5FS
 city: Nottingham
-street: "Radford Road"
-housenumber: 42
+street: Radford Road
+housenumber: "42"
 phone: ""
 opening_hours: ""
 website: ""

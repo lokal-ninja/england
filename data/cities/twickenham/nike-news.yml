@@ -1,11 +1,11 @@
 id: 1058412594
-type: way
+type: node
 latitude: 51.45617
 longitude: -0.3212
-postcode: "TW1 1RG"
+postcode: TW1 1RG
 city: Twickenham
-street: "St Margarets Road"
-housenumber: 151
+street: St Margarets Road
+housenumber: "151"
 phone: ""
 opening_hours: ""
 website: ""

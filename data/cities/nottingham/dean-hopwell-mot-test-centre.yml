@@ -1,11 +1,11 @@
 id: 98554862
-type: way
+type: node
 latitude: 52.92185
 longitude: -1.22096
-postcode: "NG9 4AA"
+postcode: NG9 4AA
 city: Nottingham
-street: "Factory Lane"
-housenumber: 8
+street: Factory Lane
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

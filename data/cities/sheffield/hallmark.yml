@@ -1,11 +1,11 @@
 id: 275434959
-type: way
+type: node
 latitude: 53.52507
 longitude: -1.6308
-postcode: "S36 6BR"
+postcode: S36 6BR
 city: Sheffield
-street: "High Street"
-housenumber: 5
+street: High Street
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

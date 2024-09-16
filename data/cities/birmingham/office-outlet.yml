@@ -1,11 +1,11 @@
 id: 75451153
-type: way
+type: node
 latitude: 52.49772
 longitude: -1.88371
-postcode: "B6 5RQ"
+postcode: B6 5RQ
 city: Birmingham
-street: "Rocky Lane"
-housenumber: 1
+street: Rocky Lane
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

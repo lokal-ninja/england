@@ -1,11 +1,11 @@
 id: 252251159
-type: way
+type: node
 latitude: 51.4992
 longitude: -0.15684
-postcode: "SW1X 8GG"
+postcode: SW1X 8GG
 city: London
-street: "Motcomb Street"
-housenumber: 27
-phone: "+44 20 7235 4958"
-opening_hours: "Mo-Sa 07:30-21:00; Su 11:00-17:00"
-website: "https://www.waitrose.com/find-a-store/belgravia"
+street: Motcomb Street
+housenumber: "27"
+phone: +44 20 7235 4958
+opening_hours: Mo-Sa 07:30-21:00; Su 11:00-17:00
+website: https://www.waitrose.com/find-a-store/belgravia

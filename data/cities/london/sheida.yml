@@ -1,11 +1,11 @@
 id: 106458561
-type: way
+type: node
 latitude: 51.52226
 longitude: -0.17356
-postcode: "W2 1BS"
+postcode: W2 1BS
 city: London
-street: "Edgware Road"
-housenumber: 351
+street: Edgware Road
+housenumber: "351"
 phone: ""
 opening_hours: ""
 website: ""

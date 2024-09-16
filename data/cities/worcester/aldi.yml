@@ -1,11 +1,11 @@
 id: 66770953
-type: way
+type: node
 latitude: 52.19059
 longitude: -2.23148
-postcode: "WR2 5BA"
+postcode: WR2 5BA
 city: Worcester
-street: "Tybridge Street"
-housenumber: 
+street: Tybridge Street
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00; Su 10:00-16:00"
+opening_hours: Mo-Sa 08:00-22:00; Su 10:00-16:00
 website: ""

@@ -1,11 +1,11 @@
 id: 305491003
-type: way
+type: node
 latitude: 53.55931
 longitude: -1.46774
-postcode: "S71 1DN"
+postcode: S71 1DN
 city: Barnsley
-street: "Twibell Street"
-housenumber: 
-phone: "+44 1226 243556"
-opening_hours: "Mo,Th 06:30-19:00; Tu-We,Fr-Sa 06:30-16:30; Su 09:00-13:00"
-website: "https://www.booker.co.uk/"
+street: Twibell Street
+housenumber: ""
+phone: +44 1226 243556
+opening_hours: Mo,Th 06:30-19:00; Tu-We,Fr-Sa 06:30-16:30; Su 09:00-13:00
+website: https://www.booker.co.uk/

@@ -1,11 +1,11 @@
 id: 737650191
-type: way
+type: node
 latitude: 50.37114
 longitude: -4.12541
-postcode: "PL4 9HU"
+postcode: PL4 9HU
 city: Plymouth
-street: "Tothill Road"
-housenumber: 4
+street: Tothill Road
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.clutchcarecentre.co.uk/"
+website: https://www.clutchcarecentre.co.uk/

@@ -1,11 +1,11 @@
 id: 878938089
-type: way
+type: node
 latitude: 51.53346
 longitude: 0.05592
-postcode: "E6 2JT"
+postcode: E6 2JT
 city: London
-street: "Barking Road"
-housenumber: 413
-phone: "+44 20 8552 5868"
-opening_hours: "Mo-Sa 09:00-20:00; Su 09:00-19:00"
-website: "https://skipperfishmongers.co.uk"
+street: Barking Road
+housenumber: "413"
+phone: +44 20 8552 5868
+opening_hours: Mo-Sa 09:00-20:00; Su 09:00-19:00
+website: https://skipperfishmongers.co.uk

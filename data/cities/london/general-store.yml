@@ -1,11 +1,11 @@
 id: 74134107
-type: way
+type: node
 latitude: 51.46721
 longitude: -0.07266
-postcode: "SE15 4BW"
+postcode: SE15 4BW
 city: London
-street: "Bellenden Road"
-housenumber: 174
+street: Bellenden Road
+housenumber: "174"
 phone: ""
 opening_hours: ""
-website: "https://www.generalsto.re/"
+website: https://www.generalsto.re/

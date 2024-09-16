@@ -1,11 +1,11 @@
 id: 715062009
-type: way
+type: node
 latitude: 53.41475
 longitude: -2.45603
-postcode: "WA3 6JU"
+postcode: WA3 6JU
 city: Warrington
-street: "Manchester Road"
-housenumber: 533
+street: Manchester Road
+housenumber: "533"
 phone: ""
 opening_hours: ""
 website: ""

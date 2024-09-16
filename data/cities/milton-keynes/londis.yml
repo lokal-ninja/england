@@ -1,11 +1,11 @@
 id: 223332081
-type: way
+type: node
 latitude: 52.08372
 longitude: -0.71331
-postcode: "MK16 9BA"
+postcode: MK16 9BA
 city: Milton Keynes
-street: "Tickford Street"
-housenumber: 103
+street: Tickford Street
+housenumber: "103"
 phone: ""
 opening_hours: ""
 website: ""

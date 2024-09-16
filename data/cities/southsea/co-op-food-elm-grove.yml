@@ -1,11 +1,11 @@
 id: 311162464
-type: way
+type: node
 latitude: 50.7896
 longitude: -1.08528
-postcode: "PO5 1LP"
+postcode: PO5 1LP
 city: Southsea
-street: "Elm Grove"
+street: Elm Grove
 housenumber: 100,102
-phone: "+44 2392 750018"
-opening_hours: "Mo-Sa 06:30-22:00; Su 10:00-16:00"
-website: "https://stores.southern.coop/hampshire/southsea/100---102-elm-grove.html"
+phone: +44 2392 750018
+opening_hours: Mo-Sa 06:30-22:00; Su 10:00-16:00
+website: https://stores.southern.coop/hampshire/southsea/100---102-elm-grove.html

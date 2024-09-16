@@ -1,11 +1,11 @@
 id: 275133743
-type: way
+type: node
 latitude: 51.46661
 longitude: -2.57914
-postcode: "BS2 9QA"
+postcode: BS2 9QA
 city: Bristol
-street: "Lower Ashley Road"
-housenumber: 7
+street: Lower Ashley Road
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

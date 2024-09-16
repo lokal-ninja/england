@@ -1,11 +1,11 @@
 id: 439037536
-type: way
+type: node
 latitude: 51.52827
 longitude: -0.21611
-postcode: "W10 4AE"
+postcode: W10 4AE
 city: London
-street: "Kilburn Lane"
-housenumber: 1
+street: Kilburn Lane
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://chantelleandlewis.co.uk/"
+website: https://chantelleandlewis.co.uk/

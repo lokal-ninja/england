@@ -1,11 +1,11 @@
 id: 1125228036
-type: way
+type: node
 latitude: 53.56642
 longitude: -0.07872
-postcode: "DN32 9AD"
+postcode: DN32 9AD
 city: Grimsby
-street: "Holme Street"
-housenumber: 
-phone: "+44 1472 361 601"
+street: Holme Street
+housenumber: ""
+phone: +44 1472 361 601
 opening_hours: ""
-website: "https://dna-products.co.uk/"
+website: https://dna-products.co.uk/

@@ -1,11 +1,11 @@
 id: 240640428
-type: way
+type: node
 latitude: 50.91836
 longitude: -1.37582
-postcode: "SO18 1GH"
+postcode: SO18 1GH
 city: Southampton
-street: "Macnaghten Road"
-housenumber: 126
+street: Macnaghten Road
+housenumber: "126"
 phone: ""
 opening_hours: ""
 website: ""

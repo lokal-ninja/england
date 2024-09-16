@@ -2,10 +2,10 @@ id: 10929291660
 type: node
 latitude: 50.36719
 longitude: -4.13438
-postcode: "PL1 2LS"
+postcode: PL1 2LS
 city: Plymouth
-street: "The Barbican"
-housenumber: 20
+street: The Barbican
+housenumber: "20"
 phone: ""
 opening_hours: ""
-website: "https://thecornishbakery.com/"
+website: https://thecornishbakery.com/

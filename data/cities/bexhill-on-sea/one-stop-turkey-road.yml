@@ -1,11 +1,11 @@
 id: 402535564
-type: way
+type: node
 latitude: 50.8573
 longitude: 0.46177
-postcode: "TN39 5HE"
+postcode: TN39 5HE
 city: Bexhill-on-Sea
-street: "Turkey Road"
-housenumber: 114
+street: Turkey Road
+housenumber: "114"
 phone: ""
-opening_hours: "Mo-Sa 06:00-23:00; Su 07:00-23:00"
+opening_hours: Mo-Sa 06:00-23:00; Su 07:00-23:00
 website: ""

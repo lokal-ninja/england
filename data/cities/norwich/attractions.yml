@@ -1,11 +1,11 @@
 id: 339974456
-type: way
+type: node
 latitude: 52.60111
 longitude: 1.17595
-postcode: "NR9 3AB"
+postcode: NR9 3AB
 city: Norwich
-street: "Great Melton Road"
-housenumber: 22
+street: Great Melton Road
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

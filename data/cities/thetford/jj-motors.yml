@@ -1,11 +1,11 @@
 id: 412431230
-type: way
+type: node
 latitude: 52.42889
 longitude: 0.74579
-postcode: "IP24 1HG"
+postcode: IP24 1HG
 city: Thetford
-street: "Saint Helens Way"
-housenumber: 7
+street: Saint Helens Way
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

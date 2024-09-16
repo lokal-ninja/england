@@ -1,11 +1,11 @@
 id: 917565256
-type: way
+type: node
 latitude: 50.40756
 longitude: -4.1334
-postcode: "PL6 5AE"
+postcode: PL6 5AE
 city: Plymouth
-street: "Alexandra Road"
-housenumber: 6
+street: Alexandra Road
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 08:30-17:30"
-website: "http://www.crownhillmot.com/"
+opening_hours: Mo-Fr 08:30-17:30
+website: http://www.crownhillmot.com/

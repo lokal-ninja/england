@@ -1,11 +1,11 @@
 id: 334674001
-type: way
+type: node
 latitude: 50.96801
 longitude: -1.35167
 postcode: ""
 city: Eastleigh
-street: "Market Street"
-housenumber: 68
+street: Market Street
+housenumber: "68"
 phone: ""
 opening_hours: ""
 website: ""

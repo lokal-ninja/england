@@ -1,11 +1,11 @@
 id: 469584662
-type: way
+type: node
 latitude: 52.63195
 longitude: -1.13778
-postcode: "LE1 5JN"
+postcode: LE1 5JN
 city: Leicester
-street: "Millstone Lane"
-housenumber: 41
+street: Millstone Lane
+housenumber: "41"
 phone: ""
 opening_hours: ""
 website: ""

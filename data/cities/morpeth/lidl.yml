@@ -1,11 +1,11 @@
 id: 127008245
-type: way
+type: node
 latitude: 55.1678
 longitude: -1.68798
-postcode: "NE61 1PA"
+postcode: NE61 1PA
 city: Morpeth
-street: "Stanley Terrace"
-housenumber: 
+street: Stanley Terrace
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.lidl.co.uk/s/en-GB/store-finder/morpeth/stanley-terrace/"
+website: https://www.lidl.co.uk/s/en-GB/store-finder/morpeth/stanley-terrace/

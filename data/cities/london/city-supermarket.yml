@@ -2,10 +2,10 @@ id: 3384334003
 type: node
 latitude: 51.52221
 longitude: -0.07531
-postcode: "E1 6SZ"
+postcode: E1 6SZ
 city: London
-street: "Quaker Street"
-housenumber: 10
+street: Quaker Street
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

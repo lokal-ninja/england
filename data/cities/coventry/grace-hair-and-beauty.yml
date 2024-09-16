@@ -1,11 +1,11 @@
 id: 550102764
-type: way
+type: node
 latitude: 52.39864
 longitude: -1.53476
-postcode: "CV5 6ET"
+postcode: CV5 6ET
 city: Coventry
-street: "Warwick Street"
-housenumber: 61
+street: Warwick Street
+housenumber: "61"
 phone: ""
 opening_hours: ""
 website: ""

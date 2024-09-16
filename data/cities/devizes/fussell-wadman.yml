@@ -1,11 +1,11 @@
 id: 260427345
-type: way
+type: node
 latitude: 51.36452
 longitude: -1.9725
 postcode: ""
 city: Devizes
-street: "London Road"
-housenumber: 
+street: London Road
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

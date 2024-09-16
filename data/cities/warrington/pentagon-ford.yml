@@ -1,11 +1,11 @@
 id: 83705053
-type: way
+type: node
 latitude: 53.39889
 longitude: -2.59547
-postcode: "WA2 7NY"
+postcode: WA2 7NY
 city: Warrington
-street: "Winwick Road"
-housenumber: 
+street: Winwick Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:00"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 457107671
-type: way
+type: node
 latitude: 50.79772
 longitude: 0.28839
-postcode: "BN23 8AS"
+postcode: BN23 8AS
 city: Eastbourne
-street: "Edward Road"
-housenumber: 2
+street: Edward Road
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00 Sa 08:30-17:00 Su CLOSED"
-website: "https://www.caffyns.co.uk/audi/locations/123182/audi-eastbourne/"
+opening_hours: Mo-Fr 08:00-18:00 Sa 08:30-17:00 Su CLOSED
+website: https://www.caffyns.co.uk/audi/locations/123182/audi-eastbourne/

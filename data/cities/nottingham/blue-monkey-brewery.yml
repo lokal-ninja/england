@@ -1,11 +1,11 @@
 id: 328480363
-type: way
+type: node
 latitude: 53.00404
 longitude: -1.28029
-postcode: "NG16 2UZ"
+postcode: NG16 2UZ
 city: Nottingham
-street: "Pentrich Road"
-housenumber: 10
+street: Pentrich Road
+housenumber: "10"
 phone: ""
 opening_hours: ""
-website: "https://www.bluemonkeybrewery.com/"
+website: https://www.bluemonkeybrewery.com/

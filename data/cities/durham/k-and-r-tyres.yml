@@ -1,11 +1,11 @@
 id: 987621029
-type: way
+type: node
 latitude: 54.7464
 longitude: -1.41474
-postcode: "DH6 3QZ"
+postcode: DH6 3QZ
 city: Durham
-street: "Front Street Industrial Estate"
-housenumber: 7
-phone: "+44 1429 597231"
-opening_hours: "Mo-Fr 08:30-17:00; Sa 08:30-13:00"
+street: Front Street Industrial Estate
+housenumber: "7"
+phone: +44 1429 597231
+opening_hours: Mo-Fr 08:30-17:00; Sa 08:30-13:00
 website: ""

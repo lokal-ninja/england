@@ -1,11 +1,12 @@
 id: 506729358
-type: way
+type: node
 latitude: 51.45548
 longitude: -0.97171
-postcode: "RG1 2BD"
+postcode: RG1 2BD
 city: Reading
-street: "Broad Street"
+street: Broad Street
 housenumber: 116-117
 phone: ""
-opening_hours: "Mo-Fr 08:30-20:00; Sa 09:00-19:00; Su 10:30-11:00 browsing only, 11:00-17:00"
+opening_hours: Mo-Fr 08:30-20:00; Sa 09:00-19:00; Su 10:30-11:00 "browsing only",
+    11:00-17:00
 website: ""

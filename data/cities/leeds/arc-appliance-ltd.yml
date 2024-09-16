@@ -1,11 +1,11 @@
 id: 615599589
-type: way
+type: node
 latitude: 53.82802
 longitude: -1.53695
-postcode: "LS7 4LZ"
+postcode: LS7 4LZ
 city: Leeds
-street: "Harrogate Road"
-housenumber: 92
+street: Harrogate Road
+housenumber: "92"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 504637141
-type: way
+type: node
 latitude: 51.59066
 longitude: -0.14357
-postcode: "N10 3RS"
+postcode: N10 3RS
 city: London
-street: "Muswell Hill Broadway"
-housenumber: 135
+street: Muswell Hill Broadway
+housenumber: "135"
 phone: ""
-opening_hours: "Mo-Sa 09:30-17:30; Su 12:00-16:00"
-website: "https://www.wmartyn.co.uk"
+opening_hours: Mo-Sa 09:30-17:30; Su 12:00-16:00
+website: https://www.wmartyn.co.uk

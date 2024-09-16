@@ -1,11 +1,11 @@
 id: 247065278
-type: way
+type: node
 latitude: 52.95136
 longitude: -1.15359
-postcode: "NG1 6EB"
+postcode: NG1 6EB
 city: Nottingham
-street: "Friar Lane"
-housenumber: 92
+street: Friar Lane
+housenumber: "92"
 phone: ""
 opening_hours: ""
 website: ""

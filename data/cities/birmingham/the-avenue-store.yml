@@ -1,11 +1,11 @@
 id: 65181450
-type: way
+type: node
 latitude: 52.44753
 longitude: -1.81341
-postcode: "B27 6NP"
+postcode: B27 6NP
 city: Birmingham
-street: "The Avenue"
-housenumber: 147
+street: The Avenue
+housenumber: "147"
 phone: ""
 opening_hours: ""
 website: ""

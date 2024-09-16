@@ -2,10 +2,10 @@ id: 11943184086
 type: node
 latitude: 51.58128
 longitude: -0.09969
-postcode: "N4 1AL"
+postcode: N4 1AL
 city: London
-street: "Green Lanes"
-housenumber: 505
+street: Green Lanes
+housenumber: "505"
 phone: ""
 opening_hours: ""
 website: ""

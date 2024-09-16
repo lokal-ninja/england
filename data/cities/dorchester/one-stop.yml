@@ -1,11 +1,11 @@
 id: 1290463831
-type: way
+type: node
 latitude: 50.71246
 longitude: -2.4263
-postcode: "DT1 1NJ"
+postcode: DT1 1NJ
 city: Dorchester
-street: "Kings Road"
-housenumber: 1
+street: Kings Road
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

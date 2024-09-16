@@ -1,11 +1,11 @@
 id: 59140565
-type: way
+type: node
 latitude: 52.48024
 longitude: -1.89802
-postcode: "B2 5EF"
+postcode: B2 5EF
 city: Birmingham
-street: "Cannon Street"
-housenumber: 47
+street: Cannon Street
+housenumber: "47"
 phone: ""
 opening_hours: ""
 website: ""

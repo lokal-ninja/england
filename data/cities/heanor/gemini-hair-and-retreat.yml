@@ -1,11 +1,11 @@
 id: 389814558
-type: way
+type: node
 latitude: 53.01425
 longitude: -1.35558
-postcode: "DE75 7NR"
+postcode: DE75 7NR
 city: Heanor
-street: "Market Street"
-housenumber: 22
+street: Market Street
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1242085211
-type: way
+type: node
 latitude: 53.3255
 longitude: -1.36255
-postcode: "S20 5AE"
+postcode: S20 5AE
 city: Sheffield
-street: "High Street"
-housenumber: 50
+street: High Street
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

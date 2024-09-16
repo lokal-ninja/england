@@ -2,10 +2,10 @@ id: 6172768500
 type: node
 latitude: 52.08117
 longitude: -0.73547
-postcode: "MK16 0BG"
+postcode: MK16 0BG
 city: Milton Keynes
-street: "Annesley Road"
-housenumber: 42
+street: Annesley Road
+housenumber: "42"
 phone: ""
 opening_hours: ""
 website: ""

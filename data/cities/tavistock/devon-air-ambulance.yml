@@ -1,11 +1,11 @@
 id: 872025554
-type: way
+type: node
 latitude: 50.55042
 longitude: -4.14616
-postcode: "PL19 0DB"
+postcode: PL19 0DB
 city: Tavistock
-street: "Market Street"
-housenumber: 9
+street: Market Street
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

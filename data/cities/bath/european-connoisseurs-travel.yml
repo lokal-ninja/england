@@ -1,11 +1,11 @@
 id: 949776456
-type: way
+type: node
 latitude: 51.381
 longitude: -2.37532
-postcode: "BA2 3BZ"
+postcode: BA2 3BZ
 city: Bath
-street: "Lorne Road"
-housenumber: 76
+street: Lorne Road
+housenumber: "76"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00"
+opening_hours: Mo-Fr 09:00-17:00
 website: ""

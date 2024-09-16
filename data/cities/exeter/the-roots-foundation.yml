@@ -2,10 +2,10 @@ id: 984713940
 type: node
 latitude: 50.71973
 longitude: -3.53605
-postcode: "EX4 3JW"
+postcode: EX4 3JW
 city: Exeter
-street: "New Bridge Street"
-housenumber: 6
+street: New Bridge Street
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "https://www.therootsfoundation.co.uk/"
+website: https://www.therootsfoundation.co.uk/

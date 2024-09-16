@@ -1,11 +1,11 @@
 id: 1281447534
-type: way
+type: node
 latitude: 51.55356
 longitude: -1.78492
-postcode: "SN1 3NY"
+postcode: SN1 3NY
 city: Swindon
-street: "Hythe Road"
-housenumber: 51
+street: Hythe Road
+housenumber: "51"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
+opening_hours: Mo-Su 07:00-22:00
 website: ""

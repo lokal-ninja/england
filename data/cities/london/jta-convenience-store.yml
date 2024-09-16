@@ -1,11 +1,11 @@
 id: 350350451
-type: way
+type: node
 latitude: 51.51044
 longitude: -0.02099
-postcode: "E14 0DQ"
+postcode: E14 0DQ
 city: London
-street: "Saltwell Street"
-housenumber: 5
+street: Saltwell Street
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

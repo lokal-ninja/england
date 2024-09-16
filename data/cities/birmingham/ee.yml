@@ -1,11 +1,11 @@
 id: 56633493
-type: way
+type: node
 latitude: 52.44677
 longitude: -1.82166
-postcode: "B27 6BL"
+postcode: B27 6BL
 city: Birmingham
-street: "Warwick Road"
-housenumber: 1114
+street: Warwick Road
+housenumber: "1114"
 phone: ""
 opening_hours: ""
 website: ""

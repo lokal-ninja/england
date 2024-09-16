@@ -1,11 +1,11 @@
 id: 1028517697
-type: way
+type: node
 latitude: 52.81047
 longitude: -1.62563
-postcode: "DE14 1QR"
+postcode: DE14 1QR
 city: Burton-on-Trent
-street: "Wetmore Road"
-housenumber: 2
+street: Wetmore Road
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

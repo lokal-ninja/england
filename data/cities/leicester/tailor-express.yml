@@ -1,11 +1,11 @@
 id: 499627810
-type: way
+type: node
 latitude: 52.66553
 longitude: -1.16764
-postcode: "LE4 1DF"
+postcode: LE4 1DF
 city: Leicester
-street: "Fletcher Mall"
-housenumber: 11
+street: Fletcher Mall
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

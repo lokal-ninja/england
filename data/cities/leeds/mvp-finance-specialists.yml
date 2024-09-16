@@ -1,11 +1,11 @@
 id: 147519006
-type: way
+type: node
 latitude: 53.80861
 longitude: -1.46398
-postcode: "LS15 7NR"
+postcode: LS15 7NR
 city: Leeds
-street: "Cross Gates Road"
-housenumber: 7
+street: Cross Gates Road
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

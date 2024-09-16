@@ -1,11 +1,11 @@
 id: 119557425
-type: way
+type: node
 latitude: 52.63956
 longitude: 1.32289
-postcode: "NR1 4NS"
+postcode: NR1 4NS
 city: Norwich
-street: "Borrowdale Drive"
-housenumber: 65
-phone: "+44 1603 516408"
+street: Borrowdale Drive
+housenumber: "65"
+phone: +44 1603 516408
 opening_hours: ""
-website: "http://www.inlineevents.co.uk/"
+website: http://www.inlineevents.co.uk/

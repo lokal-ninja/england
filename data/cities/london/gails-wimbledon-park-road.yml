@@ -1,11 +1,11 @@
 id: 431675300
-type: way
+type: node
 latitude: 51.44461
 longitude: -0.20686
-postcode: "SW19 6NL"
+postcode: SW19 6NL
 city: London
-street: "Wimbledon Park Road"
-housenumber: 250
+street: Wimbledon Park Road
+housenumber: "250"
 phone: ""
 opening_hours: ""
-website: "https://gails.com/pages/southfields"
+website: https://gails.com/pages/southfields

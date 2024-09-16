@@ -1,11 +1,11 @@
 id: 551694220
-type: way
+type: node
 latitude: 50.84803
 longitude: -1.13805
-postcode: "PO16 9UA"
+postcode: PO16 9UA
 city: Fareham
-street: "West Street"
-housenumber: 225
-phone: "+44 1329 823796"
-opening_hours: "Mo-Su 00:00-24:00"
-website: "https://www.marksandspencer.com/stores/portchester-a27-bp-74"
+street: West Street
+housenumber: "225"
+phone: +44 1329 823796
+opening_hours: Mo-Su 00:00-24:00
+website: https://www.marksandspencer.com/stores/portchester-a27-bp-74

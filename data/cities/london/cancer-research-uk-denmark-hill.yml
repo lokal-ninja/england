@@ -1,11 +1,11 @@
 id: 613834629
-type: way
+type: node
 latitude: 51.47327
 longitude: -0.09244
-postcode: "SE5 8RW"
+postcode: SE5 8RW
 city: London
-street: "Denmark Hill"
-housenumber: 
-phone: "+44 20 7701 2500"
-opening_hours: "Mo-Sa 09:00-17:30; Su 10:00-16:00"
-website: "https://www.cancerresearchuk.org/get-involved/find-a-shop/camberwell-green"
+street: Denmark Hill
+housenumber: ""
+phone: +44 20 7701 2500
+opening_hours: Mo-Sa 09:00-17:30; Su 10:00-16:00
+website: https://www.cancerresearchuk.org/get-involved/find-a-shop/camberwell-green

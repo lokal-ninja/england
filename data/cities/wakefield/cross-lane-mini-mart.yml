@@ -1,11 +1,11 @@
 id: 430387325
-type: way
+type: node
 latitude: 53.67606
 longitude: -1.51773
-postcode: "WF2 8BQ"
+postcode: WF2 8BQ
 city: Wakefield
-street: "Horbury Road"
-housenumber: 124
+street: Horbury Road
+housenumber: "124"
 phone: ""
 opening_hours: ""
 website: ""

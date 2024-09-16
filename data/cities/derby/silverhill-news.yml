@@ -1,11 +1,11 @@
 id: 356573782
-type: way
+type: node
 latitude: 52.91299
 longitude: -1.55247
-postcode: "DE3 0QF"
+postcode: DE3 0QF
 city: Derby
-street: "Ladybank Road"
-housenumber: 161
+street: Ladybank Road
+housenumber: "161"
 phone: ""
 opening_hours: ""
 website: ""

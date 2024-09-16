@@ -1,11 +1,11 @@
 id: 255906892
-type: way
+type: node
 latitude: 52.27942
 longitude: -1.59172
-postcode: "CV34 6AN"
+postcode: CV34 6AN
 city: Warwick
-street: "West Street"
-housenumber: 10
+street: West Street
+housenumber: "10"
 phone: ""
 opening_hours: ""
-website: "https://www.warwickfurnishers.co.uk/"
+website: https://www.warwickfurnishers.co.uk/

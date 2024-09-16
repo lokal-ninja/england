@@ -1,11 +1,11 @@
 id: 1047154777
-type: way
+type: node
 latitude: 50.80322
 longitude: 0.30623
-postcode: "BN23 7PW"
+postcode: BN23 7PW
 city: Eastbourne
-street: "Langney Rise"
-housenumber: 
-phone: "+44 1323 741411"
-opening_hours: "24/7"
-website: "https://www.londis.co.uk"
+street: Langney Rise
+housenumber: ""
+phone: +44 1323 741411
+opening_hours: 24/7
+website: https://www.londis.co.uk

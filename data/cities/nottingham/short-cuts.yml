@@ -1,11 +1,11 @@
 id: 230062131
-type: way
+type: node
 latitude: 52.93828
 longitude: -1.14443
-postcode: "NG2 2EP"
+postcode: NG2 2EP
 city: Nottingham
 street: ""
-housenumber: 81
+housenumber: "81"
 phone: ""
 opening_hours: ""
 website: ""

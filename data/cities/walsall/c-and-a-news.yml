@@ -1,11 +1,11 @@
 id: 803794641
-type: way
+type: node
 latitude: 52.62016
 longitude: -1.96831
-postcode: "WS3 4LF"
+postcode: WS3 4LF
 city: Walsall
-street: "Allens Lane"
-housenumber: 26
+street: Allens Lane
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

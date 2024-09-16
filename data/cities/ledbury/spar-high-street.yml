@@ -1,11 +1,11 @@
 id: 591857342
-type: way
+type: node
 latitude: 52.03648
 longitude: -2.42243
-postcode: "HR8 1DS"
+postcode: HR8 1DS
 city: Ledbury
-street: "High Street"
-housenumber: 10
+street: High Street
+housenumber: "10"
 phone: ""
 opening_hours: ""
-website: "https://www.spar.co.uk/store-locator/afb29674-spar-ledbury/"
+website: https://www.spar.co.uk/store-locator/afb29674-spar-ledbury/

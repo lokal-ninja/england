@@ -1,11 +1,11 @@
 id: 136367780
-type: way
+type: node
 latitude: 51.12875
 longitude: -2.99536
-postcode: "TA6 5HR"
+postcode: TA6 5HR
 city: Bridgwater
-street: "St John Street"
-housenumber: 45
+street: St John Street
+housenumber: "45"
 phone: ""
-opening_hours: "Mo-Su 07:00-00:00"
+opening_hours: Mo-Su 07:00-00:00
 website: ""

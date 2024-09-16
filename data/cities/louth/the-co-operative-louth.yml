@@ -1,11 +1,11 @@
 id: 91911544
-type: way
+type: node
 latitude: 53.36891
 longitude: -0.00463
-postcode: "LN11 0LT"
+postcode: LN11 0LT
 city: Louth
-street: "Northgate"
-housenumber: 
+street: Northgate
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su 10:00-16:00"
-website: "https://www.coop.co.uk/store-finder/LN11-0LT/northgate"
+opening_hours: Mo-Sa 07:00-22:00; Su 10:00-16:00
+website: https://www.coop.co.uk/store-finder/LN11-0LT/northgate

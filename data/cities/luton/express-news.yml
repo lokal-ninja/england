@@ -2,10 +2,10 @@ id: 5437853490
 type: node
 latitude: 51.87679
 longitude: -0.41078
-postcode: "LU1 3ET"
+postcode: LU1 3ET
 city: Luton
-street: "Park Street"
-housenumber: 62
+street: Park Street
+housenumber: "62"
 phone: ""
 opening_hours: ""
 website: ""

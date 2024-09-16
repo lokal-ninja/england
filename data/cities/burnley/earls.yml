@@ -1,11 +1,11 @@
 id: 488939448
-type: way
+type: node
 latitude: 53.78787
 longitude: -2.24374
-postcode: "BB11 1HJ"
+postcode: BB11 1HJ
 city: Burnley
-street: "Manchester Road"
-housenumber: 48
+street: Manchester Road
+housenumber: "48"
 phone: ""
 opening_hours: ""
 website: ""

@@ -2,10 +2,10 @@ id: 1657769222
 type: node
 latitude: 51.53125
 longitude: -0.10654
-postcode: "EC1V 4AB"
+postcode: EC1V 4AB
 city: London
-street: "St. John Street"
-housenumber: 407
+street: St. John Street
+housenumber: "407"
 phone: ""
-opening_hours: "Mo-Fr 09:30-19:00; Sa 10:00-19:00; Su 11:00-18:00"
+opening_hours: Mo-Fr 09:30-19:00; Sa 10:00-19:00; Su 11:00-18:00
 website: ""

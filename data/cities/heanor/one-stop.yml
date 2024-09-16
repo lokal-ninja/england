@@ -1,11 +1,11 @@
 id: 389622267
-type: way
+type: node
 latitude: 53.01351
 longitude: -1.35282
-postcode: "DE75 7EG"
+postcode: DE75 7EG
 city: Heanor
-street: "Market Place"
-housenumber: 38
+street: Market Place
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

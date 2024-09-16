@@ -1,11 +1,11 @@
 id: 448331904
-type: way
+type: node
 latitude: 53.68303
 longitude: -1.49361
-postcode: "WF1 1HX"
+postcode: WF1 1HX
 city: Wakefield
-street: "Kirkgate"
-housenumber: 45
+street: Kirkgate
+housenumber: "45"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1137405738
-type: way
+type: node
 latitude: 53.81751
 longitude: -3.05336
-postcode: "FY1 1HP"
+postcode: FY1 1HP
 city: Blackpool
-street: "Church Street"
-housenumber: 52
+street: Church Street
+housenumber: "52"
 phone: ""
 opening_hours: ""
-website: "https://www.theworks.co.uk/Store?storeId=0102"
+website: https://www.theworks.co.uk/Store?storeId=0102

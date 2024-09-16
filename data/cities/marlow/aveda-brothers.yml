@@ -1,11 +1,11 @@
 id: 588729771
-type: way
+type: node
 latitude: 51.57073
 longitude: -0.77959
-postcode: "SL7 2BP"
+postcode: SL7 2BP
 city: Marlow
-street: "West Street"
-housenumber: 70
+street: West Street
+housenumber: "70"
 phone: ""
 opening_hours: ""
-website: "https://brotherssalons.co.uk/brothers-marlow/"
+website: https://brotherssalons.co.uk/brothers-marlow/

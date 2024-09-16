@@ -1,11 +1,11 @@
 id: 1218599488
-type: way
+type: node
 latitude: 53.84147
 longitude: -0.42745
-postcode: "HU17 0AB"
+postcode: HU17 0AB
 city: Beverley
-street: "Butcher Row"
-housenumber: 26
-phone: "01482 880205"
+street: Butcher Row
+housenumber: "26"
+phone: 01482 880205
 opening_hours: ""
 website: ""

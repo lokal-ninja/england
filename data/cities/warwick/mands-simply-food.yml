@@ -1,11 +1,11 @@
 id: 60615469
-type: way
+type: node
 latitude: 52.29261
 longitude: -1.57709
-postcode: "CV34 5YH"
+postcode: CV34 5YH
 city: Warwick
-street: "Coventry Road"
-housenumber: 
+street: Coventry Road
+housenumber: ""
 phone: ""
-opening_hours: "PH,Mo-Su 00:00-24:00"
+opening_hours: PH,Mo-Su 00:00-24:00
 website: ""

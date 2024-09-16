@@ -1,11 +1,11 @@
 id: 678926180
-type: way
+type: node
 latitude: 51.76304
 longitude: -0.22538
-postcode: "AL10 0JY"
+postcode: AL10 0JY
 city: Hatfield
-street: "The Arcade"
-housenumber: 15
+street: The Arcade
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

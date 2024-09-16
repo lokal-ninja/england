@@ -1,11 +1,11 @@
 id: 117106928
-type: way
+type: node
 latitude: 52.73682
 longitude: -1.15038
-postcode: "LE12 7TZ"
+postcode: LE12 7TZ
 city: Mountsorrel
-street: "Granite Way"
-housenumber: 
+street: Granite Way
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su 10:00-16:00"
-website: "https://www.waitrose.com/find-a-store/mountsorrell"
+opening_hours: Mo-Sa 08:00-21:00; Su 10:00-16:00
+website: https://www.waitrose.com/find-a-store/mountsorrell

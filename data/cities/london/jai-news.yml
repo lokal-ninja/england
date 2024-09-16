@@ -1,11 +1,11 @@
 id: 427341992
-type: way
+type: node
 latitude: 51.52424
 longitude: -0.13867
-postcode: "W1T 5LE"
+postcode: W1T 5LE
 city: London
-street: "Warren Street"
-housenumber: 9
+street: Warren Street
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

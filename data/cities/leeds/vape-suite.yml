@@ -2,10 +2,10 @@ id: 2128107697
 type: node
 latitude: 53.79893
 longitude: -1.54158
-postcode: "LS1 6PU"
+postcode: LS1 6PU
 city: Leeds
-street: "The Headrow"
-housenumber: 37
+street: The Headrow
+housenumber: "37"
 phone: ""
 opening_hours: ""
 website: ""

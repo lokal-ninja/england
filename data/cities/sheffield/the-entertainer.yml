@@ -1,11 +1,11 @@
 id: 1030991279
-type: way
+type: node
 latitude: 53.37571
 longitude: -1.47376
-postcode: "S1 4PF"
+postcode: S1 4PF
 city: Sheffield
-street: "The Moor"
-housenumber: 
+street: The Moor
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:30-17:30"
+opening_hours: Mo-Sa 09:30-17:30
 website: ""

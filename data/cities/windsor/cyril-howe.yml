@@ -2,10 +2,10 @@ id: 5371328180
 type: node
 latitude: 51.48251
 longitude: -0.60723
-postcode: "SL4 1PD"
+postcode: SL4 1PD
 city: Windsor
-street: "Castle Hill"
-housenumber: 2
+street: Castle Hill
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 294081133
-type: way
+type: node
 latitude: 51.49625
 longitude: -2.5811
-postcode: "BS7 0PB"
+postcode: BS7 0PB
 city: Bristol
-street: "Filton Road"
-housenumber: 46
+street: Filton Road
+housenumber: "46"
 phone: ""
 opening_hours: ""
 website: ""

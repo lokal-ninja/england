@@ -1,11 +1,11 @@
 id: 307627350
-type: way
+type: node
 latitude: 53.42507
 longitude: -2.32295
-postcode: "M33 7YE"
+postcode: M33 7YE
 city: Sale
-street: "School Road"
-housenumber: 45
+street: School Road
+housenumber: "45"
 phone: ""
 opening_hours: ""
 website: ""

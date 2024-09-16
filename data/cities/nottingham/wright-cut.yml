@@ -1,11 +1,11 @@
 id: 326159721
-type: way
+type: node
 latitude: 52.99779
 longitude: -1.25787
 postcode: ""
 city: Nottingham
-street: "Main Street"
-housenumber: 22
+street: Main Street
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

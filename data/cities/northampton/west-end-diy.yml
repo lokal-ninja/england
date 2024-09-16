@@ -1,11 +1,11 @@
 id: 135271181
-type: way
+type: node
 latitude: 52.23778
 longitude: -0.89824
 postcode: ""
 city: Northampton
-street: "College Street"
-housenumber: 24
+street: College Street
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

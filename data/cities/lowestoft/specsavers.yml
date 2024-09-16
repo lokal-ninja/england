@@ -1,11 +1,11 @@
 id: 1100957977
-type: way
+type: node
 latitude: 52.47681
 longitude: 1.7524
-postcode: "NR32 1LX"
+postcode: NR32 1LX
 city: Lowestoft
-street: "London Road North"
-housenumber: 101
+street: London Road North
+housenumber: "101"
 phone: ""
 opening_hours: ""
-website: "https://www.specsavers.co.uk/stores/lowestoft"
+website: https://www.specsavers.co.uk/stores/lowestoft

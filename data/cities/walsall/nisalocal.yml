@@ -1,11 +1,11 @@
 id: 461732435
-type: way
+type: node
 latitude: 52.6308
 longitude: -1.97641
-postcode: "WS3 4AD"
+postcode: WS3 4AD
 city: Walsall
-street: "Wolverhampton Road"
-housenumber: 175
+street: Wolverhampton Road
+housenumber: "175"
 phone: ""
 opening_hours: ""
 website: ""

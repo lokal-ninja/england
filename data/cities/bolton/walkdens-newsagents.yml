@@ -1,11 +1,11 @@
 id: 690249787
-type: way
+type: node
 latitude: 53.60519
 longitude: -2.39684
-postcode: "BL2 4BQ"
+postcode: BL2 4BQ
 city: Bolton
-street: "Lea Gate"
-housenumber: 111
+street: Lea Gate
+housenumber: "111"
 phone: ""
 opening_hours: ""
 website: ""

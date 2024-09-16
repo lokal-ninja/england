@@ -1,11 +1,11 @@
 id: 476184928
-type: way
+type: node
 latitude: 51.31926
 longitude: -0.55929
-postcode: "GU21 6XX"
+postcode: GU21 6XX
 city: Woking
-street: "Wolsey Walk"
-housenumber: 26
-phone: "+441483 750972"
-opening_hours: "Mo-Sa 09:00-18:00; Th 09:00-20:00; Su 11:00-17:00"
-website: "http://www.thebodyshop.co.uk"
+street: Wolsey Walk
+housenumber: "26"
+phone: +441483 750972
+opening_hours: Mo-Sa 09:00-18:00; Th 09:00-20:00; Su 11:00-17:00
+website: http://www.thebodyshop.co.uk

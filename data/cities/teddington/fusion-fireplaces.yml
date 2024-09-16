@@ -1,11 +1,11 @@
 id: 708237856
-type: way
+type: node
 latitude: 51.42666
 longitude: -0.33686
-postcode: "TW11 8PF"
+postcode: TW11 8PF
 city: Teddington
-street: "Church Road"
-housenumber: 9
+street: Church Road
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 10:00-16:00"
+opening_hours: Mo-Sa 10:00-16:00
 website: ""

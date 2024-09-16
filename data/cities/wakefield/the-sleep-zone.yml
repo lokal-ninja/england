@@ -1,11 +1,11 @@
 id: 390262848
-type: way
+type: node
 latitude: 53.67808
 longitude: -1.53029
-postcode: "WF2 9DD"
+postcode: WF2 9DD
 city: Wakefield
-street: "Dewsbury Road"
-housenumber: 283
+street: Dewsbury Road
+housenumber: "283"
 phone: ""
 opening_hours: ""
 website: ""

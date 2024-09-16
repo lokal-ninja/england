@@ -1,11 +1,11 @@
 id: 450025383
-type: way
+type: node
 latitude: 51.53157
 longitude: -0.00024
-postcode: "E15 2RW"
+postcode: E15 2RW
 city: London
-street: "Abbey Lane"
-housenumber: 140
+street: Abbey Lane
+housenumber: "140"
 phone: ""
 opening_hours: ""
-website: "https://www.sigroofing.co.uk/stores/sig-roofing-stratford/"
+website: https://www.sigroofing.co.uk/stores/sig-roofing-stratford/

@@ -1,11 +1,11 @@
 id: 649604848
-type: way
+type: node
 latitude: 53.81119
 longitude: -1.54216
-postcode: "LS7 1JW"
+postcode: LS7 1JW
 city: Leeds
-street: "Meanwood Road"
-housenumber: 173
+street: Meanwood Road
+housenumber: "173"
 phone: ""
-opening_hours: "Mo-Th 09:00-22:00; Fr,Sa 09:00-04:00, Su 10:00-22:00"
+opening_hours: Mo-Th 09:00-22:00; Fr,Sa 09:00-04:00, Su 10:00-22:00
 website: ""

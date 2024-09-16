@@ -1,11 +1,11 @@
 id: 927797175
-type: way
+type: node
 latitude: 51.63108
 longitude: 0.00312
-postcode: "E4 7BJ"
+postcode: E4 7BJ
 city: London
-street: "Station Road"
-housenumber: 29
+street: Station Road
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

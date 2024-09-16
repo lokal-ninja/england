@@ -1,11 +1,11 @@
 id: 1212585511
-type: way
+type: node
 latitude: 52.70518
 longitude: -2.51709
-postcode: "TF1 3AJ"
+postcode: TF1 3AJ
 city: Telford
-street: "King Street"
+street: King Street
 housenumber: 1-3
 phone: ""
-opening_hours: "Mo-Sa 10:00-17:00, Su 10:00-16:00"
+opening_hours: Mo-Sa 10:00-17:00, Su 10:00-16:00
 website: ""

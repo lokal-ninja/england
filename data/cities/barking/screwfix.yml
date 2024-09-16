@@ -1,11 +1,11 @@
 id: 711268287
-type: way
+type: node
 latitude: 51.53146
 longitude: 0.12721
-postcode: "IG11 0TP"
+postcode: IG11 0TP
 city: Barking
-street: "Ripple Road"
-housenumber: 
+street: Ripple Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 06:00-21:00; Sa 07:00-18:00; Su 09:00-16:00"
-website: "https://www.screwfix.com/stores/DT7/barking"
+opening_hours: Mo-Fr 06:00-21:00; Sa 07:00-18:00; Su 09:00-16:00
+website: https://www.screwfix.com/stores/DT7/barking

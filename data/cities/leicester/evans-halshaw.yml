@@ -1,11 +1,11 @@
 id: 123650863
-type: way
+type: node
 latitude: 52.64577
 longitude: -1.14172
-postcode: "LE4 0BX"
+postcode: LE4 0BX
 city: Leicester
-street: "Ravensbridge Drive"
-housenumber: 1
+street: Ravensbridge Drive
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

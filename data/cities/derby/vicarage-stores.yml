@@ -1,11 +1,11 @@
 id: 185117399
-type: way
+type: node
 latitude: 52.90996
 longitude: -1.54918
-postcode: "DE3 0EG"
+postcode: DE3 0EG
 city: Derby
-street: "Vicarage Road"
-housenumber: 122
+street: Vicarage Road
+housenumber: "122"
 phone: ""
 opening_hours: ""
 website: ""

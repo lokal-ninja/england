@@ -1,11 +1,11 @@
 id: 853739946
-type: way
+type: node
 latitude: 52.7114
 longitude: -2.76017
 postcode: ""
 city: Shrewsbury
-street: "Frankwell"
-housenumber: 25
+street: Frankwell
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

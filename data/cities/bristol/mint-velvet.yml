@@ -1,11 +1,11 @@
 id: 270761090
-type: way
+type: node
 latitude: 51.45503
 longitude: -2.61896
-postcode: "BS8 4HU"
+postcode: BS8 4HU
 city: Bristol
-street: "Regent Street"
-housenumber: 44
+street: Regent Street
+housenumber: "44"
 phone: ""
 opening_hours: ""
-website: "https://www.mintvelvet.co.uk/pws/StoreFinder.ice?findStore=true&storeId=119&country=GB"
+website: https://www.mintvelvet.co.uk/pws/StoreFinder.ice?findStore=true&storeId=119&country=GB

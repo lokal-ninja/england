@@ -1,11 +1,11 @@
 id: 173188479
-type: way
+type: node
 latitude: 53.6621
 longitude: -1.56477
-postcode: "WF4 6EJ"
+postcode: WF4 6EJ
 city: Wakefield
-street: "Westfield Road"
-housenumber: 97
+street: Westfield Road
+housenumber: "97"
 phone: ""
 opening_hours: ""
 website: ""

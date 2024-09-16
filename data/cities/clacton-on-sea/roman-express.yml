@@ -1,11 +1,11 @@
 id: 73909375
-type: way
+type: node
 latitude: 51.79278
 longitude: 1.15402
-postcode: "CO15 1TW"
+postcode: CO15 1TW
 city: Clacton-on-Sea
-street: "Station Road"
-housenumber: 105
+street: Station Road
+housenumber: "105"
 phone: ""
 opening_hours: ""
 website: ""

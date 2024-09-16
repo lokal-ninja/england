@@ -1,11 +1,11 @@
 id: 295313533
-type: way
+type: node
 latitude: 52.63938
 longitude: -1.84039
-postcode: "WS14 0LZ"
+postcode: WS14 0LZ
 city: Shenstone
-street: "Main Street"
-housenumber: 25
+street: Main Street
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

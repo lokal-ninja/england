@@ -1,11 +1,11 @@
 id: 846641328
-type: way
+type: node
 latitude: 53.90522
 longitude: -1.69317
-postcode: "LS21 3NX"
+postcode: LS21 3NX
 city: Otley
-street: "Orchard Gate"
-housenumber: 14
+street: Orchard Gate
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Sa 09:00-17:00; Su closed; Sa[4] 09:00-13:00"
-website: "https://www.likenanadid.co.uk"
+opening_hours: Mo-Sa 09:00-17:00; Su closed; Sa[4] 09:00-13:00
+website: https://www.likenanadid.co.uk

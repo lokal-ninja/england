@@ -1,11 +1,11 @@
 id: 683338563
-type: way
+type: node
 latitude: 51.93795
 longitude: -0.9867
-postcode: "MK18 2NT"
+postcode: MK18 2NT
 city: Steeple Claydon
-street: "West Street"
-housenumber: 12
-phone: "+441296 730134"
+street: West Street
+housenumber: "12"
+phone: +441296 730134
 opening_hours: ""
-website: "https://karlsbakery.co.uk"
+website: https://karlsbakery.co.uk

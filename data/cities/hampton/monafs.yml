@@ -1,11 +1,11 @@
 id: 1020040571
-type: way
+type: node
 latitude: 51.41567
 longitude: -0.37031
-postcode: "TW12 2AL"
+postcode: TW12 2AL
 city: Hampton
-street: "Station Road"
-housenumber: 119
+street: Station Road
+housenumber: "119"
 phone: ""
 opening_hours: ""
-website: "https://www.monafs.co.uk/"
+website: https://www.monafs.co.uk/

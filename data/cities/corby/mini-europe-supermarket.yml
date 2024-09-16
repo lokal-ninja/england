@@ -1,11 +1,11 @@
 id: 477383924
-type: way
+type: node
 latitude: 52.48899
 longitude: -0.7038
-postcode: "NN17 1QE"
+postcode: NN17 1QE
 city: Corby
-street: "George Street"
-housenumber: 62
+street: George Street
+housenumber: "62"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 126351943
-type: way
+type: node
 latitude: 52.20663
 longitude: 1.57744
 postcode: ""
 city: Leiston
-street: "High Street"
-housenumber: 45
+street: High Street
+housenumber: "45"
 phone: ""
 opening_hours: ""
 website: ""

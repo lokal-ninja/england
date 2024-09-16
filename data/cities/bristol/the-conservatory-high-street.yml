@@ -1,11 +1,11 @@
 id: 553649177
-type: way
+type: node
 latitude: 51.48142
 longitude: -2.5092
-postcode: "BS16 5HE"
+postcode: BS16 5HE
 city: Bristol
-street: "High Street"
-housenumber: 97
+street: High Street
+housenumber: "97"
 phone: ""
 opening_hours: ""
 website: ""

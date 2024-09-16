@@ -1,11 +1,12 @@
 id: 332625308
-type: way
+type: node
 latitude: 51.74246
 longitude: -0.3413
 postcode: ""
 city: St Albans
-street: "Griffiths Way"
+street: Griffiths Way
 housenumber: Unit 4B
-phone: "+44 1727 226760"
-opening_hours: "We-Fr 09:30-18:00; Sa 09:00-18:00; Su 10:00-16:00; Mo 09:30-18:00; Tu 09:30-20:00"
-website: "https://www.tapi.co.uk/stores/st-albans"
+phone: +44 1727 226760
+opening_hours: We-Fr 09:30-18:00; Sa 09:00-18:00; Su 10:00-16:00; Mo 09:30-18:00;
+    Tu 09:30-20:00
+website: https://www.tapi.co.uk/stores/st-albans

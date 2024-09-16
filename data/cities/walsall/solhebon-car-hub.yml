@@ -1,11 +1,11 @@
 id: 1205491511
-type: way
+type: node
 latitude: 52.58733
 longitude: -1.99441
-postcode: "WS2 8PT"
+postcode: WS2 8PT
 city: Walsall
-street: "Hollyhedge Lane"
-housenumber: 28
+street: Hollyhedge Lane
+housenumber: "28"
 phone: "+441922334670"
 opening_hours: ""
-website: "https://www.solheboncarhub.co.uk"
+website: https://www.solheboncarhub.co.uk

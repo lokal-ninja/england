@@ -1,11 +1,11 @@
 id: 231275934
-type: way
+type: node
 latitude: 51.55724
 longitude: -0.12047
-postcode: "N7 0LP"
+postcode: N7 0LP
 city: London
-street: "Parkhurst Road"
-housenumber: 83
+street: Parkhurst Road
+housenumber: "83"
 phone: ""
 opening_hours: ""
 website: ""

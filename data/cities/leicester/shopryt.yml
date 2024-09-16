@@ -1,11 +1,11 @@
 id: 1292621226
-type: way
+type: node
 latitude: 52.61171
 longitude: -1.13642
-postcode: "LE2 6LG"
+postcode: LE2 6LG
 city: Leicester
-street: "Knighton Fields Road West"
-housenumber: 2
+street: Knighton Fields Road West
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

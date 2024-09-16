@@ -1,11 +1,11 @@
 id: 243282117
-type: way
+type: node
 latitude: 50.92097
 longitude: -1.3956
-postcode: "SO17 2ET"
+postcode: SO17 2ET
 city: Southampton
-street: "Portswood Road"
-housenumber: 35
+street: Portswood Road
+housenumber: "35"
 phone: ""
 opening_hours: ""
 website: ""

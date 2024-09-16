@@ -2,10 +2,10 @@ id: 5998125909
 type: node
 latitude: 51.51389
 longitude: -0.0338
-postcode: "E14 7PQ"
+postcode: E14 7PQ
 city: London
-street: "Salmon Lane"
-housenumber: 110
+street: Salmon Lane
+housenumber: "110"
 phone: ""
 opening_hours: ""
 website: ""

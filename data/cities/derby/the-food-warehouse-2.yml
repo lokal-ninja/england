@@ -1,11 +1,11 @@
 id: 65621700
-type: way
+type: node
 latitude: 52.9214
 longitude: -1.50468
-postcode: "DE22 3FA"
+postcode: DE22 3FA
 city: Derby
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su 10:00-16:00"
-website: "https://www.thefoodwarehouse.com/store-locator/derby"
+opening_hours: Mo-Sa 08:00-20:00; Su 10:00-16:00
+website: https://www.thefoodwarehouse.com/store-locator/derby

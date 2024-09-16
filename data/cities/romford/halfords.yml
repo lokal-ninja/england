@@ -1,11 +1,11 @@
 id: 858925601
-type: way
+type: node
 latitude: 51.57017
 longitude: 0.12207
-postcode: "RM6 4AU"
+postcode: RM6 4AU
 city: Romford
-street: "High Road"
-housenumber: 1015
+street: High Road
+housenumber: "1015"
 phone: ""
 opening_hours: ""
-website: "https://www.halfords.com/locations/chadwell-heath-store/"
+website: https://www.halfords.com/locations/chadwell-heath-store/

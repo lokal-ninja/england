@@ -1,11 +1,11 @@
 id: 300775289
-type: way
+type: node
 latitude: 52.65357
 longitude: 1.25628
-postcode: "NR6 5DR"
+postcode: NR6 5DR
 city: Norwich
-street: "Hellesdon Park Road"
-housenumber: 102
-phone: "+44 1603 778255"
+street: Hellesdon Park Road
+housenumber: "102"
+phone: +44 1603 778255
 opening_hours: ""
-website: "https://www.dignetsol.co.uk/"
+website: https://www.dignetsol.co.uk/

@@ -1,11 +1,11 @@
 id: 31111777
-type: way
+type: node
 latitude: 51.57655
 longitude: -0.10433
-postcode: "N4 1RD"
+postcode: N4 1RD
 city: London
-street: "Wightman Road"
-housenumber: 
-phone: "+44 20 8341 6141"
+street: Wightman Road
+housenumber: ""
+phone: +44 20 8341 6141
 opening_hours: ""
-website: "https://www.jewson.co.uk/branch-finder/haringey-branch/"
+website: https://www.jewson.co.uk/branch-finder/haringey-branch/

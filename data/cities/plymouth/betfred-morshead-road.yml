@@ -1,11 +1,11 @@
 id: 917565246
-type: way
+type: node
 latitude: 50.40774
 longitude: -4.13281
-postcode: "PL6 5AD"
+postcode: PL6 5AD
 city: Plymouth
-street: "Morshead Road"
-housenumber: 27
+street: Morshead Road
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

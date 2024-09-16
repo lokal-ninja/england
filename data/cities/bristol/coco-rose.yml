@@ -1,11 +1,11 @@
 id: 233184940
-type: way
+type: node
 latitude: 51.48141
 longitude: -2.63426
-postcode: "BS9 1EW"
+postcode: BS9 1EW
 city: Bristol
-street: "Druid Hill"
-housenumber: 17
+street: Druid Hill
+housenumber: "17"
 phone: ""
-opening_hours: "Tu,We 09:30-18:00; Th,Fr 09:30-20:00; Sa 09:00-18:00"
+opening_hours: Tu,We 09:30-18:00; Th,Fr 09:30-20:00; Sa 09:00-18:00
 website: ""

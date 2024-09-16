@@ -1,11 +1,11 @@
 id: 140033242
-type: way
+type: node
 latitude: 51.93637
 longitude: 1.28148
-postcode: "CO12 3JT"
+postcode: CO12 3JT
 city: Dovercourt
-street: "Kingsway"
-housenumber: 41
+street: Kingsway
+housenumber: "41"
 phone: ""
 opening_hours: ""
 website: ""

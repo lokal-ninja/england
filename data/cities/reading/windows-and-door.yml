@@ -1,11 +1,11 @@
 id: 61031932
-type: way
+type: node
 latitude: 51.45838
 longitude: -0.92193
-postcode: "RG6 1BA"
+postcode: RG6 1BA
 city: Reading
-street: "London Road"
-housenumber: 396
+street: London Road
+housenumber: "396"
 phone: ""
 opening_hours: ""
 website: ""

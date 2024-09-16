@@ -1,11 +1,11 @@
 id: 256222376
-type: way
+type: node
 latitude: 50.81142
 longitude: -0.77573
-postcode: "PO20 1NX"
+postcode: PO20 1NX
 city: Chichester
-street: "Selsey Road"
-housenumber: 
+street: Selsey Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:00-19:00; Su 08:00-16:00"
-website: "https://www.londis.co.uk/our-stores/londis-hunston"
+opening_hours: Mo-Sa 07:00-19:00; Su 08:00-16:00
+website: https://www.londis.co.uk/our-stores/londis-hunston

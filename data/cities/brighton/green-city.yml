@@ -1,11 +1,11 @@
 id: 137733612
-type: way
+type: node
 latitude: 50.82065
 longitude: -0.13315
-postcode: "BN2 1TP"
+postcode: BN2 1TP
 city: Brighton
-street: "St James's Street"
-housenumber: 95
+street: St James's Street
+housenumber: "95"
 phone: ""
 opening_hours: ""
 website: ""

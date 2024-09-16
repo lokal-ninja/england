@@ -1,11 +1,11 @@
 id: 1215817463
-type: way
+type: node
 latitude: 53.43119
 longitude: -2.52668
-postcode: "WA3 6AY"
+postcode: WA3 6AY
 city: Warrington
-street: "Warrington Road"
-housenumber: 693
+street: Warrington Road
+housenumber: "693"
 phone: ""
 opening_hours: ""
 website: ""

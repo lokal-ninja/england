@@ -1,11 +1,11 @@
 id: 452820425
-type: way
+type: node
 latitude: 51.57608
 longitude: -0.0121
 postcode: ""
 city: London
-street: "Lea Bridge Road"
-housenumber: 599
-phone: "+44 20 7998 9210"
+street: Lea Bridge Road
+housenumber: "599"
+phone: +44 20 7998 9210
 opening_hours: ""
-website: "https://cyclespirit.com/"
+website: https://cyclespirit.com/

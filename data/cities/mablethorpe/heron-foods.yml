@@ -1,11 +1,11 @@
 id: 232393143
-type: way
+type: node
 latitude: 53.34147
 longitude: 0.25913
-postcode: "LN12 1AT"
+postcode: LN12 1AT
 city: Mablethorpe
-street: "High Street"
-housenumber: 100
+street: High Street
+housenumber: "100"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
-website: "https://heronfoods.com/store/mablethorpe/"
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
+website: https://heronfoods.com/store/mablethorpe/

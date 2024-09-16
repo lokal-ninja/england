@@ -1,11 +1,11 @@
 id: 316730823
-type: way
+type: node
 latitude: 52.90094
 longitude: -1.27756
-postcode: "NG10 4LB"
+postcode: NG10 4LB
 city: Nottingham
-street: "Derby Road"
-housenumber: 74
+street: Derby Road
+housenumber: "74"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 543716237
-type: way
+type: node
 latitude: 53.80569
 longitude: -1.44829
-postcode: "LS15 8DY"
+postcode: LS15 8DY
 city: Leeds
-street: "Marshall Street"
-housenumber: 47
+street: Marshall Street
+housenumber: "47"
 phone: ""
 opening_hours: ""
 website: ""

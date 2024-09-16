@@ -1,11 +1,11 @@
 id: 55383234
-type: way
+type: node
 latitude: 51.37945
 longitude: -2.35933
-postcode: "BA1 1AN"
+postcode: BA1 1AN
 city: Bath
-street: "St. Lawrence Street"
-housenumber: 3
+street: St. Lawrence Street
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 09:00-18:00; Su 11:00-17:00"
-website: "https://stores.pandora.net/en-gb/gb-chw/bath/pandora-jewellery-gbb5851829.html"
+opening_hours: Mo-Sa 09:00-18:00; Su 11:00-17:00
+website: https://stores.pandora.net/en-gb/gb-chw/bath/pandora-jewellery-gbb5851829.html

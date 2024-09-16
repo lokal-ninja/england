@@ -2,10 +2,10 @@ id: 4681022535
 type: node
 latitude: 51.53649
 longitude: 0.05241
-postcode: "E6 2HT"
+postcode: E6 2HT
 city: London
-street: "High Street North"
-housenumber: 114
+street: High Street North
+housenumber: "114"
 phone: ""
 opening_hours: ""
 website: ""

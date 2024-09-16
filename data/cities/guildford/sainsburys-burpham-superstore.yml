@@ -1,11 +1,11 @@
 id: 22991605
-type: way
+type: node
 latitude: 51.26172
 longitude: -0.54411
-postcode: "GU4 7JU"
+postcode: GU4 7JU
 city: Guildford
-street: "Clay Lane"
-housenumber: 
-phone: "+44 1483 506767"
-opening_hours: "Mo-Fr 07:00-22:00; Sa 07:00-21:00; Su 10:00-16:00"
-website: "https://stores.sainsburys.co.uk/0652/burpham"
+street: Clay Lane
+housenumber: ""
+phone: +44 1483 506767
+opening_hours: Mo-Fr 07:00-22:00; Sa 07:00-21:00; Su 10:00-16:00
+website: https://stores.sainsburys.co.uk/0652/burpham

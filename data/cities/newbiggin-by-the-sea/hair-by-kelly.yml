@@ -1,11 +1,11 @@
 id: 195983181
-type: way
+type: node
 latitude: 55.18521
 longitude: -1.51062
 postcode: ""
 city: Newbiggin by the Sea
-street: "Bridge Street"
-housenumber: 3
+street: Bridge Street
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

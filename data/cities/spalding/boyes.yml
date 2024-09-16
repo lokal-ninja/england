@@ -1,11 +1,11 @@
 id: 195399237
-type: way
+type: node
 latitude: 52.80557
 longitude: 0.01359
-postcode: "PE12 7LR"
+postcode: PE12 7LR
 city: Spalding
-street: "Boston Road"
-housenumber: 16
+street: Boston Road
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

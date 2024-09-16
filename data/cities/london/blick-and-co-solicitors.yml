@@ -1,11 +1,11 @@
 id: 107796323
-type: way
+type: node
 latitude: 51.51813
 longitude: -0.07727
-postcode: "E1 7LJ"
+postcode: E1 7LJ
 city: London
-street: "Artillery Passage"
-housenumber: 6
+street: Artillery Passage
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

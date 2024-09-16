@@ -1,11 +1,11 @@
 id: 547437888
-type: way
+type: node
 latitude: 52.64818
 longitude: 1.25865
-postcode: "NR6 5BD"
+postcode: NR6 5BD
 city: Norwich
-street: "Turnpike Close"
-housenumber: 2
-phone: "+44 1603 418000"
-opening_hours: "Mo-Sa 07:00-20:00; Su 10:00-16:00"
+street: Turnpike Close
+housenumber: "2"
+phone: +44 1603 418000
+opening_hours: Mo-Sa 07:00-20:00; Su 10:00-16:00
 website: ""

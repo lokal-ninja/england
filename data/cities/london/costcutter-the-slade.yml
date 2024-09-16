@@ -1,11 +1,11 @@
 id: 232841636
-type: way
+type: node
 latitude: 51.47928
 longitude: 0.08734
-postcode: "SE18 2NB"
+postcode: SE18 2NB
 city: London
-street: "The Slade"
-housenumber: 2
+street: The Slade
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

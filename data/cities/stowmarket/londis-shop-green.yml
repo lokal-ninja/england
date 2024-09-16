@@ -1,11 +1,11 @@
 id: 544768742
-type: way
+type: node
 latitude: 52.263
 longitude: 0.99914
-postcode: "IP14 4LG"
+postcode: IP14 4LG
 city: Stowmarket
-street: "Shop Green"
-housenumber: 
+street: Shop Green
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 07:30-20:00; Sa 8:00-20:00; Su 9:00-20:00"
-website: "https://www.londis.co.uk/our-stores/bacton-stores"
+opening_hours: Mo-Fr 07:30-20:00; Sa 8:00-20:00; Su 9:00-20:00
+website: https://www.londis.co.uk/our-stores/bacton-stores

@@ -2,10 +2,10 @@ id: 3672268861
 type: node
 latitude: 54.23193
 longitude: -1.34402
-postcode: "YO7 1LB"
+postcode: YO7 1LB
 city: Thirsk
-street: "Market Place"
-housenumber: 2
-phone: "+44 1845 868 080"
+street: Market Place
+housenumber: "2"
+phone: +44 1845 868 080
 opening_hours: ""
 website: ""

@@ -2,10 +2,10 @@ id: 1533600085
 type: node
 latitude: 53.95719
 longitude: -1.08487
-postcode: "YO1 6DD"
+postcode: YO1 6DD
 city: York
-street: "Bridge Street"
-housenumber: 8
+street: Bridge Street
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 10:00-17:30"
-website: "https://www.yorkdigitalimage.co.uk/"
+opening_hours: Mo-Fr 10:00-17:30
+website: https://www.yorkdigitalimage.co.uk/

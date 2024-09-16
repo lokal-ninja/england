@@ -1,11 +1,11 @@
 id: 128882947
-type: way
+type: node
 latitude: 54.06152
 longitude: -2.85351
-postcode: "LA4 4SZ"
+postcode: LA4 4SZ
 city: Morecambe
-street: "Glentworth Road West"
-housenumber: 22
+street: Glentworth Road West
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Su 06:00-23:00"
+opening_hours: Mo-Su 06:00-23:00
 website: ""

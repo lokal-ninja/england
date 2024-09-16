@@ -1,11 +1,11 @@
 id: 361637363
-type: way
+type: node
 latitude: 51.49761
 longitude: -2.59722
-postcode: "BS10 5LW"
+postcode: BS10 5LW
 city: Bristol
-street: "Southmead Road"
-housenumber: 331
+street: Southmead Road
+housenumber: "331"
 phone: ""
 opening_hours: ""
 website: ""

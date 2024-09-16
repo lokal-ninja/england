@@ -1,11 +1,11 @@
 id: 578378076
-type: way
+type: node
 latitude: 53.5936
 longitude: -2.41236
-postcode: "BL2 2JR"
+postcode: BL2 2JR
 city: Bolton
-street: "Tonge Moor Road"
-housenumber: 363
+street: Tonge Moor Road
+housenumber: "363"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 369378800
-type: way
+type: node
 latitude: 50.92484
 longitude: -1.43781
-postcode: "SO16 4DB"
+postcode: SO16 4DB
 city: Southampton
-street: "Romsey Road"
-housenumber: 58
+street: Romsey Road
+housenumber: "58"
 phone: ""
 opening_hours: ""
 website: ""

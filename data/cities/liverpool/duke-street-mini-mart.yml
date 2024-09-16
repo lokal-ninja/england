@@ -1,11 +1,11 @@
 id: 887649251
-type: way
+type: node
 latitude: 53.40251
 longitude: -2.98423
-postcode: "L1 5AP"
+postcode: L1 5AP
 city: Liverpool
-street: "Duke Street"
-housenumber: 25
+street: Duke Street
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

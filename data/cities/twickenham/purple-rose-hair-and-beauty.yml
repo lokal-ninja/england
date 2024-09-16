@@ -1,11 +1,11 @@
 id: 354182376
-type: way
+type: node
 latitude: 51.44173
 longitude: -0.34451
-postcode: "TW2 5QE"
+postcode: TW2 5QE
 city: Twickenham
-street: "Hampton Road"
-housenumber: 25
+street: Hampton Road
+housenumber: "25"
 phone: ""
 opening_hours: ""
-website: "http://www.purplerosesalon.com/"
+website: http://www.purplerosesalon.com/

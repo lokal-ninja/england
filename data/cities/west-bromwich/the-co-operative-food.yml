@@ -1,11 +1,11 @@
 id: 497642779
-type: way
+type: node
 latitude: 52.53912
 longitude: -2.01102
-postcode: "B70 0RZ"
+postcode: B70 0RZ
 city: West Bromwich
-street: "Hill Top"
-housenumber: 139
+street: Hill Top
+housenumber: "139"
 phone: ""
-opening_hours: "Mo-Su 07:00-21:00"
-website: "https://stores.centralengland.coop/west-midlands/west-bromwich/139-hill-top"
+opening_hours: Mo-Su 07:00-21:00
+website: https://stores.centralengland.coop/west-midlands/west-bromwich/139-hill-top

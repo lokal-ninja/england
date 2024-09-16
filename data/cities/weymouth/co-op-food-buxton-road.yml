@@ -1,11 +1,11 @@
 id: 1235236595
-type: way
+type: node
 latitude: 50.60075
 longitude: -2.46164
-postcode: "DT4 9PF"
+postcode: DT4 9PF
 city: Weymouth
-street: "Buxton Road"
-housenumber: 10
+street: Buxton Road
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.coop.co.uk/store-finder/DT4-9PF/10-buxton-road"
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.coop.co.uk/store-finder/DT4-9PF/10-buxton-road

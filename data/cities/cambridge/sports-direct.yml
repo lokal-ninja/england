@@ -2,10 +2,10 @@ id: 2377969471
 type: node
 latitude: 52.20488
 longitude: 0.12139
-postcode: "CB2 3NA"
+postcode: CB2 3NA
 city: Cambridge
-street: "Lion Yard"
-housenumber: 34
+street: Lion Yard
+housenumber: "34"
 phone: ""
-opening_hours: "Mo-Sa 09:00-18:00; Su 11:00-17:00"
+opening_hours: Mo-Sa 09:00-18:00; Su 11:00-17:00
 website: ""

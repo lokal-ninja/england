@@ -1,11 +1,11 @@
 id: 602667100
-type: way
+type: node
 latitude: 53.87918
 longitude: -1.72515
-postcode: "LS20 8FA"
+postcode: LS20 8FA
 city: Leeds
-street: "Bradford Road"
-housenumber: 
+street: Bradford Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00; Su 10:00-16:00; PH 08:00-20:00"
+opening_hours: Mo-Sa 08:00-22:00; Su 10:00-16:00; PH 08:00-20:00
 website: ""

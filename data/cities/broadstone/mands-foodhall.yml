@@ -1,11 +1,11 @@
 id: 199423481
-type: way
+type: node
 latitude: 50.75965
 longitude: -1.9938
-postcode: "BH18 8DP"
+postcode: BH18 8DP
 city: Broadstone
-street: "Lower Blandford Road"
-housenumber: 182
+street: Lower Blandford Road
+housenumber: "182"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su 10:00-16:00"
+opening_hours: Mo-Sa 08:00-20:00; Su 10:00-16:00
 website: ""

@@ -1,11 +1,11 @@
 id: 199305448
-type: way
+type: node
 latitude: 53.82813
 longitude: -1.95281
-postcode: "BD22 8PY"
+postcode: BD22 8PY
 city: Keighley
-street: "Hall Street"
-housenumber: 5
+street: Hall Street
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

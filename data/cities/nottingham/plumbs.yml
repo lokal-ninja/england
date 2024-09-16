@@ -1,11 +1,11 @@
 id: 212934049
-type: way
+type: node
 latitude: 52.91894
 longitude: -1.22814
-postcode: "NG9 5BA"
+postcode: NG9 5BA
 city: Nottingham
-street: "High Road"
-housenumber: 179
+street: High Road
+housenumber: "179"
 phone: ""
 opening_hours: ""
 website: ""

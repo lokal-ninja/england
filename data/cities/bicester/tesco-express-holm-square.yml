@@ -1,11 +1,11 @@
 id: 330805288
-type: way
+type: node
 latitude: 51.91253
 longitude: -1.15044
-postcode: "OX26 3YQ"
+postcode: OX26 3YQ
 city: Bicester
-street: "Holm Square"
-housenumber: 1
+street: Holm Square
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 332006241
-type: way
+type: node
 latitude: 54.5567
 longitude: -2.75119
-postcode: "CA10 2RQ"
+postcode: CA10 2RQ
 city: Bampton
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 09:00-14:00"
-website: "http://www.bamptonlakedistrict.org.uk/bampton-valley-stores.html"
+opening_hours: Mo-Su 09:00-14:00
+website: http://www.bamptonlakedistrict.org.uk/bampton-valley-stores.html

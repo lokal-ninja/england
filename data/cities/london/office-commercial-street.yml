@@ -1,11 +1,11 @@
 id: 157322989
-type: way
+type: node
 latitude: 51.51989
 longitude: -0.07432
-postcode: "E1 6LZ"
+postcode: E1 6LZ
 city: London
-street: "Commercial Street"
-housenumber: 100
+street: Commercial Street
+housenumber: "100"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00; Su 11:00-18:00"
-website: "https://www.office.co.uk/view/content/storelocator?storename=Office%20Commercial%20Street"
+opening_hours: Mo-Sa 10:00-19:00; Su 11:00-18:00
+website: https://www.office.co.uk/view/content/storelocator?storename=Office%20Commercial%20Street

@@ -1,11 +1,11 @@
 id: 1149303940
-type: way
+type: node
 latitude: 53.41736
 longitude: -1.47238
-postcode: "S5 7NN"
+postcode: S5 7NN
 city: Sheffield
-street: "Southey Avenue"
-housenumber: 47
+street: Southey Avenue
+housenumber: "47"
 phone: ""
 opening_hours: ""
 website: ""

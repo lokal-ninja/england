@@ -1,11 +1,11 @@
 id: 93590042
-type: way
+type: node
 latitude: 50.70866
 longitude: -3.53572
-postcode: "EX2 8LW"
+postcode: EX2 8LW
 city: Exeter
-street: "Marsh Barton Road"
-housenumber: 8
-phone: "+44 1392 202800"
-opening_hours: "Mo,We,Fr,Sa 08:30-18:00; Tu,Th 08:30-21:00"
-website: "https://www.edenmotorgroup.com/vauxhall/contact-us/eden-exeter/"
+street: Marsh Barton Road
+housenumber: "8"
+phone: +44 1392 202800
+opening_hours: Mo,We,Fr,Sa 08:30-18:00; Tu,Th 08:30-21:00
+website: https://www.edenmotorgroup.com/vauxhall/contact-us/eden-exeter/

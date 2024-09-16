@@ -1,11 +1,11 @@
 id: 1102915006
-type: way
+type: node
 latitude: 52.47514
 longitude: 1.7537
-postcode: "NR32 1DE"
+postcode: NR32 1DE
 city: Lowestoft
-street: "Battery Green Road"
-housenumber: 9
-phone: "+44 1502 390502"
-opening_hours: "Tu-Sa 10:00-18:00"
-website: "https://www.sagatattooandartstudio.co.uk/"
+street: Battery Green Road
+housenumber: "9"
+phone: +44 1502 390502
+opening_hours: Tu-Sa 10:00-18:00
+website: https://www.sagatattooandartstudio.co.uk/

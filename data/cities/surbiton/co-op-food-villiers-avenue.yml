@@ -1,11 +1,11 @@
 id: 965614427
-type: way
+type: node
 latitude: 51.40116
 longitude: -0.29487
-postcode: "KT5 8BH"
+postcode: KT5 8BH
 city: Surbiton
-street: "Villiers Avenue"
-housenumber: 120
+street: Villiers Avenue
+housenumber: "120"
 phone: ""
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.coop.co.uk/store-finder/KT5-8BH/120-villiers-avenue"
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.coop.co.uk/store-finder/KT5-8BH/120-villiers-avenue

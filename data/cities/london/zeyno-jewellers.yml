@@ -2,10 +2,10 @@ id: 1277073236
 type: node
 latitude: 51.57843
 longitude: -0.09914
-postcode: "N4 1EY"
+postcode: N4 1EY
 city: London
-street: "Green Lanes"
-housenumber: 415
-phone: "+44 20 8348 1114"
+street: Green Lanes
+housenumber: "415"
+phone: +44 20 8348 1114
 opening_hours: ""
 website: ""

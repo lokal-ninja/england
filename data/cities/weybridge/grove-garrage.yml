@@ -1,11 +1,11 @@
 id: 150195279
-type: way
+type: node
 latitude: 51.36724
 longitude: -0.44837
-postcode: "KT13 9BL"
+postcode: KT13 9BL
 city: Weybridge
-street: "Grove Place"
-housenumber: 8
+street: Grove Place
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

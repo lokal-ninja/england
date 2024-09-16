@@ -1,11 +1,11 @@
 id: 390268203
-type: way
+type: node
 latitude: 53.67185
 longitude: -1.53054
-postcode: "WF2 8RT"
+postcode: WF2 8RT
 city: Wakefield
-street: "Townley Road"
-housenumber: 10
+street: Townley Road
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

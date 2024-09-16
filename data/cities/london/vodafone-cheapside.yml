@@ -1,11 +1,11 @@
 id: 160093289
-type: way
+type: node
 latitude: 51.51414
 longitude: -0.09361
-postcode: "EC2V 6DN"
+postcode: EC2V 6DN
 city: London
-street: "Cheapside"
-housenumber: 107
+street: Cheapside
+housenumber: "107"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 10:00-19:00; Su 10:30-17:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 10:00-19:00; Su 10:30-17:00
 website: ""

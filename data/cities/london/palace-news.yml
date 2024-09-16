@@ -1,11 +1,11 @@
 id: 252108590
-type: way
+type: node
 latitude: 51.42035
 longitude: -0.07858
-postcode: "SE19 1UA"
+postcode: SE19 1UA
 city: London
-street: "Crystal Palace Parade"
-housenumber: 15
+street: Crystal Palace Parade
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

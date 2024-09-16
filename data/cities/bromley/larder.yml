@@ -1,11 +1,11 @@
 id: 966322631
-type: way
+type: node
 latitude: 51.41436
 longitude: 0.02093
-postcode: "BR1 4DT"
+postcode: BR1 4DT
 city: Bromley
-street: "Plaistow Lane"
-housenumber: 2
+street: Plaistow Lane
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

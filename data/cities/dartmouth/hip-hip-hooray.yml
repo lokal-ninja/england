@@ -1,11 +1,11 @@
 id: 517703439
-type: way
+type: node
 latitude: 50.35007
 longitude: -3.57812
-postcode: "TQ6 9AJ"
+postcode: TQ6 9AJ
 city: Dartmouth
-street: "Lower Street"
-housenumber: 3
+street: Lower Street
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

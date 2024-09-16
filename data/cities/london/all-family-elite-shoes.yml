@@ -1,11 +1,11 @@
 id: 86678032
-type: way
+type: node
 latitude: 51.4738
 longitude: -0.09035
-postcode: "SE5 8QZ"
+postcode: SE5 8QZ
 city: London
-street: "Camberwell Church Street"
-housenumber: 30
+street: Camberwell Church Street
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

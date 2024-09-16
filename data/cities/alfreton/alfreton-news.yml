@@ -1,11 +1,11 @@
 id: 121930234
-type: way
+type: node
 latitude: 53.09696
 longitude: -1.38173
-postcode: "DE55 7HL"
+postcode: DE55 7HL
 city: Alfreton
-street: "Nottingham Road"
-housenumber: 43
+street: Nottingham Road
+housenumber: "43"
 phone: ""
 opening_hours: ""
 website: ""

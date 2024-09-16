@@ -1,11 +1,11 @@
 id: 65621371
-type: way
+type: node
 latitude: 52.92082
 longitude: -1.50866
-postcode: "DE22 3FA"
+postcode: DE22 3FA
 city: Derby
-street: "Kingsway"
-housenumber: 
-phone: "+44 133 229 1180"
-opening_hours: "Mo-Sa 07:00-22:00; Su 10:00-16:00"
-website: "https://stores.sainsburys.co.uk/0871/kingsway"
+street: Kingsway
+housenumber: ""
+phone: +44 133 229 1180
+opening_hours: Mo-Sa 07:00-22:00; Su 10:00-16:00
+website: https://stores.sainsburys.co.uk/0871/kingsway

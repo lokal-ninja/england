@@ -1,11 +1,11 @@
 id: 987076103
-type: way
-latitude: 51.37934
-longitude: -0.24295
-postcode: "KT4 8HH"
+type: node
+latitude: 51.37937
+longitude: -0.24302
+postcode: KT4 8HH
 city: London
-street: "Central Road"
-housenumber: 146
+street: Central Road
+housenumber: "146"
 phone: ""
 opening_hours: ""
 website: ""

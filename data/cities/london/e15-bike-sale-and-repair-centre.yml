@@ -1,11 +1,11 @@
 id: 611608458
-type: way
+type: node
 latitude: 51.54093
 longitude: 0.01064
-postcode: "E15 4HG"
+postcode: E15 4HG
 city: London
-street: "Vicarage Lane"
-housenumber: 43
+street: Vicarage Lane
+housenumber: "43"
 phone: ""
 opening_hours: ""
 website: ""

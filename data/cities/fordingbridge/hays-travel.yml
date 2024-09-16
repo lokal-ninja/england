@@ -1,11 +1,11 @@
 id: 1016647635
-type: way
+type: node
 latitude: 50.92682
 longitude: -1.7918
-postcode: "SP6 1AX"
+postcode: SP6 1AX
 city: Fordingbridge
-street: "High Street"
-housenumber: 58
-phone: "+44 1425 654410"
-opening_hours: "Mo-Fr 09:15-17:30; Sa 09:15-17:00; Su closed"
-website: "https://www.haystravel.co.uk/branches/fordingbridge/"
+street: High Street
+housenumber: "58"
+phone: +44 1425 654410
+opening_hours: Mo-Fr 09:15-17:30; Sa 09:15-17:00; Su closed
+website: https://www.haystravel.co.uk/branches/fordingbridge/

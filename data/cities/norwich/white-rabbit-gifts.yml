@@ -1,11 +1,11 @@
 id: 119566562
-type: way
+type: node
 latitude: 52.63351
 longitude: 1.30947
-postcode: "NR1 4ET"
+postcode: NR1 4ET
 city: Norwich
-street: "Bishop Bridge Road"
-housenumber: 10
-phone: "+44 7415 602748"
+street: Bishop Bridge Road
+housenumber: "10"
+phone: +44 7415 602748
 opening_hours: ""
 website: ""

@@ -2,10 +2,10 @@ id: 7114885622
 type: node
 latitude: 51.23551
 longitude: -0.57604
-postcode: "GU1 4EH"
+postcode: GU1 4EH
 city: Guildford
-street: "Friary Street"
-housenumber: 5
+street: Friary Street
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Tu 09:00-21:00; Sa 09:00-18:30; Su 10:00-17:00"
+opening_hours: Mo-Fr 09:00-20:00; Tu 09:00-21:00; Sa 09:00-18:30; Su 10:00-17:00
 website: ""

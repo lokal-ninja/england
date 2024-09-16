@@ -1,11 +1,11 @@
 id: 110459957
-type: way
+type: node
 latitude: 53.38464
 longitude: -2.6467
-postcode: "WA5 2JW"
+postcode: WA5 2JW
 city: Warrington
-street: "Warrington Road"
-housenumber: 52
+street: Warrington Road
+housenumber: "52"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
+opening_hours: Mo-Su 07:00-22:00
 website: ""

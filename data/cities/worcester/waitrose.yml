@@ -1,11 +1,11 @@
 id: 442565952
-type: way
+type: node
 latitude: 52.18244
 longitude: -2.19515
-postcode: "WR5 2JG"
+postcode: WR5 2JG
 city: Worcester
-street: "London Road"
-housenumber: 223
+street: London Road
+housenumber: "223"
 phone: ""
 opening_hours: ""
-website: "https://www.waitrose.com/find-a-store/worcester"
+website: https://www.waitrose.com/find-a-store/worcester

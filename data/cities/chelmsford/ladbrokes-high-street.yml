@@ -1,11 +1,11 @@
 id: 927299820
-type: way
+type: node
 latitude: 51.73361
 longitude: 0.47333
-postcode: "CM1 1DX"
+postcode: CM1 1DX
 city: Chelmsford
-street: "High Street"
-housenumber: 86
+street: High Street
+housenumber: "86"
 phone: ""
-opening_hours: "Mo-Fr,Su 08:30-22:00; Sa 07:30-22:00"
-website: "https://sports.ladbrokes.com/"
+opening_hours: Mo-Fr,Su 08:30-22:00; Sa 07:30-22:00
+website: https://sports.ladbrokes.com/

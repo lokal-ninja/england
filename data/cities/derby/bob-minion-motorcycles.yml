@@ -1,11 +1,11 @@
 id: 55805403
-type: way
+type: node
 latitude: 52.91376
 longitude: -1.46617
-postcode: "DE1 2ST"
+postcode: DE1 2ST
 city: Derby
-street: "London Road"
-housenumber: 
+street: London Road
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

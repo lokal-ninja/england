@@ -1,11 +1,11 @@
 id: 275448324
-type: way
+type: node
 latitude: 51.54813
 longitude: -0.14082
-postcode: "NW5 2AD"
+postcode: NW5 2AD
 city: London
-street: "Kentish Town Road"
-housenumber: 204
+street: Kentish Town Road
+housenumber: "204"
 phone: ""
 opening_hours: ""
-website: "https://gails.com/pages/kentish-town"
+website: https://gails.com/pages/kentish-town

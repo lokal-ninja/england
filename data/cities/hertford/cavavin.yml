@@ -1,11 +1,11 @@
 id: 899254372
-type: way
+type: node
 latitude: 51.79645
 longitude: -0.07898
-postcode: "SG14 1DR"
+postcode: SG14 1DR
 city: Hertford
-street: "Maidenhead Street"
-housenumber: 22
-phone: "+44 1992 558311"
+street: Maidenhead Street
+housenumber: "22"
+phone: +44 1992 558311
 opening_hours: ""
-website: "https://hertford.cavavin.co.uk"
+website: https://hertford.cavavin.co.uk

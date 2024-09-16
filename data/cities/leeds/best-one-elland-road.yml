@@ -1,11 +1,11 @@
 id: 113468971
-type: way
+type: node
 latitude: 53.78142
 longitude: -1.56116
-postcode: "LS11 0AB"
+postcode: LS11 0AB
 city: Leeds
-street: "Elland Road"
-housenumber: 86
+street: Elland Road
+housenumber: "86"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1220610012
-type: way
+type: node
 latitude: 51.81157
 longitude: -0.03325
-postcode: "SG12 9AP"
+postcode: SG12 9AP
 city: Ware
-street: "High Street"
-housenumber: 108
-phone: "08705 181 715"
-opening_hours: "Mo-Fr 08:30-21:30; Sa 08:30-21:00; Su 10:00-20:00"
+street: High Street
+housenumber: "108"
+phone: 08705 181 715
+opening_hours: Mo-Fr 08:30-21:30; Sa 08:30-21:00; Su 10:00-20:00
 website: ""

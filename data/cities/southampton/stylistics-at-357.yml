@@ -1,11 +1,11 @@
 id: 372020575
-type: way
+type: node
 latitude: 50.93451
 longitude: -1.41825
-postcode: "SO16 7DJ"
+postcode: SO16 7DJ
 city: Southampton
-street: "Winchester Road"
-housenumber: 357
+street: Winchester Road
+housenumber: "357"
 phone: ""
 opening_hours: ""
 website: ""

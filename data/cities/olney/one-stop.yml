@@ -2,10 +2,10 @@ id: 1923379937
 type: node
 latitude: 52.15688
 longitude: -0.7018
-postcode: "MK46 4EF"
+postcode: MK46 4EF
 city: Olney
-street: "High Street"
-housenumber: 99
+street: High Street
+housenumber: "99"
 phone: ""
 opening_hours: ""
 website: ""

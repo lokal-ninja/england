@@ -1,11 +1,11 @@
 id: 1003517966
-type: way
+type: node
 latitude: 53.7884
 longitude: -3.03168
-postcode: "FY4 3JX"
+postcode: FY4 3JX
 city: Blackpool
-street: "Highfield Road"
-housenumber: 302
+street: Highfield Road
+housenumber: "302"
 phone: ""
 opening_hours: ""
 website: ""

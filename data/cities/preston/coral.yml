@@ -1,11 +1,11 @@
 id: 236255005
-type: way
+type: node
 latitude: 53.7601
 longitude: -2.70034
-postcode: "PR1 2EN"
+postcode: PR1 2EN
 city: Preston
-street: "Orchard Street"
-housenumber: 16
+street: Orchard Street
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

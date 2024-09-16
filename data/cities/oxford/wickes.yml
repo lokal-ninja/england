@@ -1,11 +1,11 @@
 id: 27922803
-type: way
+type: node
 latitude: 51.75295
 longitude: -1.28985
-postcode: "OX2 0HA"
+postcode: OX2 0HA
 city: Oxford
-street: "Botley Road"
-housenumber: 
-phone: "+44 1865 202030"
-opening_hours: "Mo-Sa 07:00-20:00; Su 10:00-16:00"
+street: Botley Road
+housenumber: ""
+phone: +44 1865 202030
+opening_hours: Mo-Sa 07:00-20:00; Su 10:00-16:00
 website: ""

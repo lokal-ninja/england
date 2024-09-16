@@ -1,11 +1,11 @@
 id: 229921191
-type: way
+type: node
 latitude: 51.20086
 longitude: 1.38828
-postcode: "CT14 7NX"
+postcode: CT14 7NX
 city: Deal
-street: "Dover Road"
-housenumber: 331
+street: Dover Road
+housenumber: "331"
 phone: ""
 opening_hours: ""
 website: ""

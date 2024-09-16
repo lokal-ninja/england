@@ -1,11 +1,11 @@
 id: 111259630
-type: way
+type: node
 latitude: 54.75918
 longitude: -1.55469
-postcode: "DH1 2NG"
+postcode: DH1 2NG
 city: Durham
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

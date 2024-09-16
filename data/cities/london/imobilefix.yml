@@ -1,11 +1,11 @@
 id: 593917847
-type: way
+type: node
 latitude: 51.55328
 longitude: -0.05282
-postcode: "E5 0QR"
+postcode: E5 0QR
 city: London
-street: "Lower Clapton Road"
-housenumber: 92
+street: Lower Clapton Road
+housenumber: "92"
 phone: ""
 opening_hours: ""
 website: ""

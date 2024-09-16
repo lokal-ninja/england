@@ -1,11 +1,11 @@
 id: 477598136
-type: way
+type: node
 latitude: 51.51411
 longitude: -0.13526
-postcode: "W1F 8RG"
+postcode: W1F 8RG
 city: London
-street: "Berwick Street"
-housenumber: 26
+street: Berwick Street
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 12:00-17:00"
-website: "https://sohobikes.co.uk/"
+opening_hours: Mo-Fr 08:00-19:00; Sa 12:00-17:00
+website: https://sohobikes.co.uk/

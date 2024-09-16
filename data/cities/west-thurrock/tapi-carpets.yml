@@ -1,11 +1,11 @@
 id: 24920945
-type: way
+type: node
 latitude: 51.48595
 longitude: 0.27854
-postcode: "RM20 1WN"
+postcode: RM20 1WN
 city: West Thurrock
-street: "Lakeside Retail Park"
-housenumber: 
-phone: "+44 1708 208420"
-opening_hours: "Mo-Tu 09:30-20:00; We-Fr 09:30-18:00; Sa 09:00-18:00; Su 10:30-16:30"
+street: Lakeside Retail Park
+housenumber: ""
+phone: +44 1708 208420
+opening_hours: Mo-Tu 09:30-20:00; We-Fr 09:30-18:00; Sa 09:00-18:00; Su 10:30-16:30
 website: ""

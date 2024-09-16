@@ -1,11 +1,11 @@
 id: 300037227
-type: way
+type: node
 latitude: 51.4734
 longitude: -0.12093
-postcode: "SW9 0QE"
+postcode: SW9 0QE
 city: London
-street: "Clapham Road"
-housenumber: 189
+street: Clapham Road
+housenumber: "189"
 phone: ""
 opening_hours: ""
-website: "https://www.lidl.co.uk/s/en-GB/store-finder/london/stockwell/clapham-road-189/"
+website: https://www.lidl.co.uk/s/en-GB/store-finder/london/stockwell/clapham-road-189/

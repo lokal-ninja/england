@@ -1,11 +1,11 @@
 id: 1300789533
-type: way
+type: node
 latitude: 52.55285
 longitude: -2.02066
-postcode: "WS10 7HB"
+postcode: WS10 7HB
 city: Wednesbury
-street: "Union Street"
-housenumber: 60
+street: Union Street
+housenumber: "60"
 phone: ""
 opening_hours: ""
 website: ""

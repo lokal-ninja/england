@@ -1,11 +1,11 @@
 id: 110256316
-type: way
+type: node
 latitude: 52.21468
 longitude: 0.12776
-postcode: "CB4 1EP"
+postcode: CB4 1EP
 city: Cambridge
-street: "Chesterton Road"
-housenumber: 72
-phone: "+44 1223 315845"
-opening_hours: "Mo-Sa 08:30-17:30"
-website: "https://www.townsends-lb.co.uk/"
+street: Chesterton Road
+housenumber: "72"
+phone: +44 1223 315845
+opening_hours: Mo-Sa 08:30-17:30
+website: https://www.townsends-lb.co.uk/

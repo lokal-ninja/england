@@ -1,11 +1,11 @@
 id: 211776108
-type: way
+type: node
 latitude: 52.47666
 longitude: 1.75367
-postcode: "NR32 1HA"
+postcode: NR32 1HA
 city: Lowestoft
-street: "London Road North"
-housenumber: 112
-phone: "+44 1502 819501"
-opening_hours: "Mo-Sa 09:30-17:00; Su 10:00-16:00"
-website: "https://www.peacocks.co.uk/store-detail?storeID=6644&storeName=PEACOCKS-LOWESTOFT"
+street: London Road North
+housenumber: "112"
+phone: +44 1502 819501
+opening_hours: Mo-Sa 09:30-17:00; Su 10:00-16:00
+website: https://www.peacocks.co.uk/store-detail?storeID=6644&storeName=PEACOCKS-LOWESTOFT

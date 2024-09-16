@@ -1,11 +1,11 @@
 id: 601090181
-type: way
+type: node
 latitude: 53.85363
 longitude: -1.76594
-postcode: "BD17 6JZ"
+postcode: BD17 6JZ
 city: Shipley
-street: "Northgate"
-housenumber: 13
+street: Northgate
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

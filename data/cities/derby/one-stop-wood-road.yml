@@ -1,11 +1,11 @@
 id: 114423084
-type: way
+type: node
 latitude: 52.93637
 longitude: -1.43249
-postcode: "DE21 4LZ"
+postcode: DE21 4LZ
 city: Derby
-street: "Wood Road"
-housenumber: 96
+street: Wood Road
+housenumber: "96"
 phone: ""
-opening_hours: "Mo-Su 06:00-22:00"
+opening_hours: Mo-Su 06:00-22:00
 website: ""

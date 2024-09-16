@@ -1,11 +1,11 @@
 id: 409459433
-type: way
+type: node
 latitude: 51.05448
 longitude: -3.19221
-postcode: "TA4 3RU"
+postcode: TA4 3RU
 city: Taunton
-street: "Westridge Way"
-housenumber: 7
-phone: "+44 1823 433925"
+street: Westridge Way
+housenumber: "7"
+phone: +44 1823 433925
 opening_hours: ""
 website: ""

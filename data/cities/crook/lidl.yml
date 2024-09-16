@@ -1,11 +1,11 @@
 id: 717050003
-type: way
+type: node
 latitude: 54.71358
 longitude: -1.74581
-postcode: "DL15 8ND"
+postcode: DL15 8ND
 city: Crook
-street: "New Road"
-housenumber: 
+street: New Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00; Su 10:00-16:00"
-website: "https://www.lidl.co.uk/s/en-GB/store-finder/crook/new-road/"
+opening_hours: Mo-Sa 08:00-22:00; Su 10:00-16:00
+website: https://www.lidl.co.uk/s/en-GB/store-finder/crook/new-road/

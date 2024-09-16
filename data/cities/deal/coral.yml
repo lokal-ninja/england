@@ -4,8 +4,8 @@ latitude: 51.22471
 longitude: 1.40261
 postcode: ""
 city: Deal
-street: "High Street"
-housenumber: 75
+street: High Street
+housenumber: "75"
 phone: ""
-opening_hours: "Mo-Fr 08:30-21:30; Sa 08:00-21:00; Su 08:00-20:00"
+opening_hours: Mo-Fr 08:30-21:30; Sa 08:00-21:00; Su 08:00-20:00
 website: ""

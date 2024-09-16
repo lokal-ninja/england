@@ -2,10 +2,11 @@ id: 10031218514
 type: node
 latitude: 51.5055
 longitude: -0.09088
-postcode: "SE1 9AH"
+postcode: SE1 9AH
 city: London
-street: "Borough High Street"
-housenumber: 
+street: Borough High Street
+housenumber: ""
 phone: ""
-opening_hours: "Mo, Tu 11:00-17:00; We, Th 11:00-18:00; Fr 10:00-18:00; Sa 09:00-17:00; Su 10:00-15:00"
-website: "https://www.utobeer.co.uk/"
+opening_hours: Mo, Tu 11:00-17:00; We, Th 11:00-18:00; Fr 10:00-18:00; Sa 09:00-17:00;
+    Su 10:00-15:00
+website: https://www.utobeer.co.uk/

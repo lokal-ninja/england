@@ -1,11 +1,11 @@
 id: 334545882
-type: way
+type: node
 latitude: 53.75682
 longitude: -0.25479
-postcode: "HU9 4JU"
+postcode: HU9 4JU
 city: Kingston upon Hull
-street: "Elmbridge Parade"
-housenumber: 46
+street: Elmbridge Parade
+housenumber: "46"
 phone: ""
 opening_hours: ""
 website: ""

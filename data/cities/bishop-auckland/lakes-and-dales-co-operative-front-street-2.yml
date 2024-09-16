@@ -1,11 +1,11 @@
 id: 346837682
-type: way
+type: node
 latitude: 54.72781
 longitude: -1.96102
-postcode: "DL13 2QW"
+postcode: DL13 2QW
 city: Bishop Auckland
-street: "Front Street"
-housenumber: 21
-phone: "+44 1388 527321"
+street: Front Street
+housenumber: "21"
+phone: +44 1388 527321
 opening_hours: ""
-website: "https://scotmid.coop/store/frosterley/"
+website: https://scotmid.coop/store/frosterley/

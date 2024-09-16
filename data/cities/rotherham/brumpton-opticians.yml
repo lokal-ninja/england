@@ -1,11 +1,11 @@
 id: 1228292812
-type: way
+type: node
 latitude: 53.42301
 longitude: -1.20121
-postcode: "S66 8LG"
+postcode: S66 8LG
 city: Rotherham
-street: "High Street"
-housenumber: 33
+street: High Street
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

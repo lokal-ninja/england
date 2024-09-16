@@ -1,11 +1,11 @@
 id: 984753825
-type: way
+type: node
 latitude: 53.05058
 longitude: -1.44641
-postcode: "DE56 2HU"
+postcode: DE56 2HU
 city: Belper
-street: "Ripley Road"
-housenumber: 117
+street: Ripley Road
+housenumber: "117"
 phone: ""
 opening_hours: ""
 website: ""

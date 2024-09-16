@@ -1,11 +1,11 @@
 id: 161420183
-type: way
+type: node
 latitude: 51.5139
 longitude: -0.11026
-postcode: "EC4Y 1AA"
+postcode: EC4Y 1AA
 city: London
-street: "Fleet Street"
-housenumber: 29
+street: Fleet Street
+housenumber: "29"
 phone: ""
 opening_hours: ""
-website: "https://www.whitbyonline.com/"
+website: https://www.whitbyonline.com/

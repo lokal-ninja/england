@@ -1,11 +1,11 @@
 id: 136894922
-type: way
+type: node
 latitude: 51.52686
 longitude: -0.12465
-postcode: "WC1H 9QX"
+postcode: WC1H 9QX
 city: London
-street: "Leigh Street"
-housenumber: 4
-phone: "+44 20 3033 0032"
+street: Leigh Street
+housenumber: "4"
+phone: +44 20 3033 0032
 opening_hours: ""
-website: "https://vitalflowers.co.uk/"
+website: https://vitalflowers.co.uk/

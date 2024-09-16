@@ -1,11 +1,11 @@
 id: 123960475
-type: way
+type: node
 latitude: 51.45254
 longitude: -2.59333
-postcode: "BS1 1DQ"
+postcode: BS1 1DQ
 city: Bristol
-street: "Queen Charlotte Street"
-housenumber: 
+street: Queen Charlotte Street
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

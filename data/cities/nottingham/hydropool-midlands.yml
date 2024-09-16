@@ -1,11 +1,11 @@
 id: 60825804
-type: way
+type: node
 latitude: 52.9198
 longitude: -1.26385
-postcode: "NG9 7JA"
+postcode: NG9 7JA
 city: Nottingham
-street: "Toton Lane"
-housenumber: 251
+street: Toton Lane
+housenumber: "251"
 phone: ""
 opening_hours: ""
-website: "https://www.hydropoolmidlands.co.uk/"
+website: https://www.hydropoolmidlands.co.uk/

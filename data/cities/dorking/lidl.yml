@@ -1,11 +1,11 @@
 id: 241008938
-type: way
+type: node
 latitude: 51.22908
 longitude: -0.33854
-postcode: "RH4 3JD"
+postcode: RH4 3JD
 city: Dorking
-street: "Vincent Lane"
-housenumber: 
+street: Vincent Lane
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su 10:00-16:00"
-website: "https://www.lidl.co.uk/s/en-GB/store-finder/dorking/vincent-lane/"
+opening_hours: Mo-Sa 08:00-20:00; Su 10:00-16:00
+website: https://www.lidl.co.uk/s/en-GB/store-finder/dorking/vincent-lane/

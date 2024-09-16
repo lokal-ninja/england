@@ -1,11 +1,11 @@
 id: 1220395308
-type: way
+type: node
 latitude: 53.30244
 longitude: -1.12481
-postcode: "S80 1JA"
+postcode: S80 1JA
 city: Worksop
-street: "Bridge Street"
-housenumber: 96
+street: Bridge Street
+housenumber: "96"
 phone: ""
 opening_hours: ""
-website: "https://www.salvationarmy.org.uk/worksop-charity-shop"
+website: https://www.salvationarmy.org.uk/worksop-charity-shop

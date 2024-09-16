@@ -1,11 +1,11 @@
 id: 37222314
-type: way
+type: node
 latitude: 50.63188
 longitude: -1.18061
-postcode: "PO37 7JR"
+postcode: PO37 7JR
 city: Shanklin
-street: "Landguard Road"
-housenumber: 50
+street: Landguard Road
+housenumber: "50"
 phone: ""
-opening_hours: "PH,Mo-Sa 06:00-22:00; Su 10:00-16:00"
-website: "https://www.coop.co.uk/store-finder/PO37-7JR/landguard-road"
+opening_hours: PH,Mo-Sa 06:00-22:00; Su 10:00-16:00
+website: https://www.coop.co.uk/store-finder/PO37-7JR/landguard-road

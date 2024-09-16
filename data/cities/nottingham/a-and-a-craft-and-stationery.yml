@@ -1,11 +1,11 @@
 id: 353944491
-type: way
+type: node
 latitude: 53.00532
 longitude: -1.12691
-postcode: "NG5 7EG"
+postcode: NG5 7EG
 city: Nottingham
-street: "Front Street"
-housenumber: 138
+street: Front Street
+housenumber: "138"
 phone: ""
 opening_hours: ""
 website: ""

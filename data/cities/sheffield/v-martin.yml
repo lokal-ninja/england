@@ -1,11 +1,11 @@
 id: 106061262
-type: way
+type: node
 latitude: 53.32163
 longitude: -1.52403
 postcode: ""
 city: Sheffield
-street: "Abbeydale Road South"
-housenumber: 288
+street: Abbeydale Road South
+housenumber: "288"
 phone: ""
 opening_hours: ""
 website: ""

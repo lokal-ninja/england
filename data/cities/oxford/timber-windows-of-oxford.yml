@@ -1,11 +1,11 @@
 id: 916480725
-type: way
+type: node
 latitude: 51.75988
 longitude: -1.23606
 postcode: ""
 city: Oxford
-street: "Marston Road"
-housenumber: 255
+street: Marston Road
+housenumber: "255"
 phone: ""
-opening_hours: "Saturday by appointment (Tuesday-Friday 10-2)"
+opening_hours: '"Saturday by appointment (Tuesday-Friday 10-2)"'
 website: ""

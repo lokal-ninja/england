@@ -1,11 +1,11 @@
 id: 590295311
-type: way
+type: node
 latitude: 52.96031
 longitude: -1.29504
-postcode: "DE7 4AP"
+postcode: DE7 4AP
 city: Ilkeston
-street: "The Triangle"
-housenumber: 4
+street: The Triangle
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

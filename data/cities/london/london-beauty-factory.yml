@@ -1,11 +1,11 @@
 id: 593917836
-type: way
+type: node
 latitude: 51.5536
 longitude: -0.05331
-postcode: "E5 0QR"
+postcode: E5 0QR
 city: London
-street: "Lower Clapton Road"
-housenumber: 110
+street: Lower Clapton Road
+housenumber: "110"
 phone: ""
 opening_hours: ""
-website: "http://www.londonbeautyfactory.co.uk"
+website: http://www.londonbeautyfactory.co.uk

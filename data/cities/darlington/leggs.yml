@@ -1,11 +1,11 @@
 id: 1123157830
-type: way
+type: node
 latitude: 54.52495
 longitude: -1.55786
-postcode: "DL3 7NW"
+postcode: DL3 7NW
 city: Darlington
-street: "Skinnergate"
-housenumber: 21
+street: Skinnergate
+housenumber: "21"
 phone: ""
 opening_hours: ""
-website: "https://leggsfashion.co.uk/"
+website: https://leggsfashion.co.uk/

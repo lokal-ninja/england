@@ -2,10 +2,10 @@ id: 12158627132
 type: node
 latitude: 51.51683
 longitude: -0.2911
-postcode: "W5 3HU"
+postcode: W5 3HU
 city: London
-street: "Queens Parade"
-housenumber: 21
+street: Queens Parade
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

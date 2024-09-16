@@ -1,11 +1,11 @@
 id: 68830968
-type: way
+type: node
 latitude: 52.60293
 longitude: -1.08613
-postcode: "LE2 4AH"
+postcode: LE2 4AH
 city: Oadby, Leicester
-street: "Leicester Road"
-housenumber: 
+street: Leicester Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 06:00-24:00; Sa 06:00-22:00; Su 10:00-16:00"
+opening_hours: Mo-Fr 06:00-24:00; Sa 06:00-22:00; Su 10:00-16:00
 website: ""

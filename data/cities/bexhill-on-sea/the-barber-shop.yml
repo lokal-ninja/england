@@ -1,11 +1,11 @@
 id: 313477183
-type: way
+type: node
 latitude: 50.84024
 longitude: 0.47033
-postcode: "TN40 1DY"
+postcode: TN40 1DY
 city: Bexhill-on-Sea
-street: "Western Road"
-housenumber: 56
+street: Western Road
+housenumber: "56"
 phone: ""
-opening_hours: "Mo,Tu,We,Fr 09:00-17:30; Th 09:00-18:30; Sa 08:00-16:00"
+opening_hours: Mo,Tu,We,Fr 09:00-17:30; Th 09:00-18:30; Sa 08:00-16:00
 website: ""

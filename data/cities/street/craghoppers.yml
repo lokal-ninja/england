@@ -1,11 +1,11 @@
 id: 317544498
-type: way
+type: node
 latitude: 51.12742
 longitude: -2.74136
-postcode: "BA16 0HN"
+postcode: BA16 0HN
 city: Street
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 10:00-18:00"
-website: "https://www.craghoppers.com/store-finder/store_page/view/id/4071/"
+opening_hours: Mo-Su 10:00-18:00
+website: https://www.craghoppers.com/store-finder/store_page/view/id/4071/

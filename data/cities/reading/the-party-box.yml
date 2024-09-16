@@ -1,11 +1,11 @@
 id: 161463068
-type: way
+type: node
 latitude: 51.43882
 longitude: -0.9123
-postcode: "RG6 7EH"
+postcode: RG6 7EH
 city: Reading
-street: "Wokingham Road"
-housenumber: 367
-phone: "+44 118 966 4400"
-opening_hours: "Mo-Fr 09:00-17:30; Sa 09:00-17:00"
-website: "https://www.partygoodsandfancydress.com/"
+street: Wokingham Road
+housenumber: "367"
+phone: +44 118 966 4400
+opening_hours: Mo-Fr 09:00-17:30; Sa 09:00-17:00
+website: https://www.partygoodsandfancydress.com/

@@ -2,10 +2,10 @@ id: 1832349232
 type: node
 latitude: 52.2074
 longitude: 0.12519
-postcode: "CB1 1LD"
+postcode: CB1 1LD
 city: Cambridge
-street: "King Street"
-housenumber: 93
+street: King Street
+housenumber: "93"
 phone: ""
 opening_hours: ""
-website: "https://www.cambslockandsafe.co.uk/"
+website: https://www.cambslockandsafe.co.uk/

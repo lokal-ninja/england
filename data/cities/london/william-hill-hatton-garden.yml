@@ -1,11 +1,11 @@
 id: 570498387
-type: way
+type: node
 latitude: 51.52078
 longitude: -0.10871
-postcode: "EC1N 8JT"
+postcode: EC1N 8JT
 city: London
-street: "Hatton Garden"
-housenumber: 69
+street: Hatton Garden
+housenumber: "69"
 phone: ""
 opening_hours: ""
 website: ""

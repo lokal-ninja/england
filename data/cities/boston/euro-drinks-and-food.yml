@@ -2,10 +2,10 @@ id: 7320553333
 type: node
 latitude: 52.97623
 longitude: -0.03
-postcode: "PE21 8RE"
+postcode: PE21 8RE
 city: Boston
-street: "West Street"
-housenumber: 85
+street: West Street
+housenumber: "85"
 phone: ""
 opening_hours: ""
 website: ""

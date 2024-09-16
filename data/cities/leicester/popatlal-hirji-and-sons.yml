@@ -1,11 +1,11 @@
 id: 494773897
-type: way
+type: node
 latitude: 52.64873
 longitude: -1.12293
-postcode: "LE4 6AS"
+postcode: LE4 6AS
 city: Leicester
-street: "Belgrave Road"
-housenumber: 65
+street: Belgrave Road
+housenumber: "65"
 phone: ""
 opening_hours: ""
 website: ""

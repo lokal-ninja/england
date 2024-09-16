@@ -1,11 +1,11 @@
 id: 158653144
-type: way
+type: node
 latitude: 51.59377
 longitude: -0.01736
-postcode: "E17 4PL"
+postcode: E17 4PL
 city: London
-street: "Chingford Road"
-housenumber: 150
+street: Chingford Road
+housenumber: "150"
 phone: ""
 opening_hours: ""
 website: ""

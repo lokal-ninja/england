@@ -1,11 +1,11 @@
 id: 191449603
-type: way
+type: node
 latitude: 51.76994
 longitude: -0.29834
 postcode: ""
 city: St Albans
-street: "St Brelades Place"
-housenumber: 4
+street: St Brelades Place
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

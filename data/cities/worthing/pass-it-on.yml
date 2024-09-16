@@ -1,11 +1,11 @@
 id: 987674308
-type: way
+type: node
 latitude: 50.80974
 longitude: -0.38186
 postcode: ""
 city: Worthing
-street: "Rowlands Road"
-housenumber: 73
+street: Rowlands Road
+housenumber: "73"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 30320563
-type: way
+type: node
 latitude: 50.78959
 longitude: -3.64996
-postcode: "EX17 1EY"
+postcode: EX17 1EY
 city: Crediton
-street: "Mill Street"
-housenumber: 
+street: Mill Street
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://my.morrisons.com/storefinder/490/crediton"
+website: https://my.morrisons.com/storefinder/490/crediton

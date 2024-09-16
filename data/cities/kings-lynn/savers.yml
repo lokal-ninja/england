@@ -1,11 +1,11 @@
 id: 865403239
-type: way
+type: node
 latitude: 52.75469
 longitude: 0.39518
-postcode: "PE30 1BL"
+postcode: PE30 1BL
 city: King's Lynn
-street: "High Street"
-housenumber: 82
-phone: "+44 1553 605552"
-opening_hours: "Mo-Th 08:30-17:30; Fr-Sa 08:30-18:00; Su 10:00-16:00"
+street: High Street
+housenumber: "82"
+phone: +44 1553 605552
+opening_hours: Mo-Th 08:30-17:30; Fr-Sa 08:30-18:00; Su 10:00-16:00
 website: ""

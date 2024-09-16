@@ -1,11 +1,11 @@
 id: 1147700442
-type: way
+type: node
 latitude: 53.50067
 longitude: -1.43756
-postcode: "S74 9JU"
+postcode: S74 9JU
 city: Barnsley
-street: "King Street"
-housenumber: 5
+street: King Street
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

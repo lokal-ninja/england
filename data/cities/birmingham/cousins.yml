@@ -1,11 +1,11 @@
 id: 57786563
-type: way
+type: node
 latitude: 52.45334
 longitude: -1.83776
-postcode: "B11 2EW"
+postcode: B11 2EW
 city: Birmingham
-street: "Warwick Road"
-housenumber: 770
+street: Warwick Road
+housenumber: "770"
 phone: ""
 opening_hours: ""
 website: ""

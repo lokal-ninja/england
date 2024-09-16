@@ -1,11 +1,11 @@
 id: 376425806
-type: way
+type: node
 latitude: 52.85509
 longitude: -2.72536
-postcode: "SY4 5ED"
+postcode: SY4 5ED
 city: Wem
-street: "Mill Street"
-housenumber: 3
+street: Mill Street
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

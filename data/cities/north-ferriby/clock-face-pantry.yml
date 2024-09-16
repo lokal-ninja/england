@@ -1,11 +1,11 @@
 id: 100471416
-type: way
+type: node
 latitude: 53.71915
 longitude: -0.50348
-postcode: "HU14 3BU"
+postcode: HU14 3BU
 city: North Ferriby
-street: "Church Road"
-housenumber: 42
+street: Church Road
+housenumber: "42"
 phone: ""
 opening_hours: ""
 website: ""

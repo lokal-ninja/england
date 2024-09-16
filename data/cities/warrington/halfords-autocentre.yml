@@ -1,11 +1,11 @@
 id: 781305621
-type: way
+type: node
 latitude: 53.38491
 longitude: -2.58768
-postcode: "WA4 1AB"
+postcode: WA4 1AB
 city: Warrington
-street: "Knutsford Road"
-housenumber: 73
+street: Knutsford Road
+housenumber: "73"
 phone: ""
 opening_hours: ""
-website: "https://www.halfords.com/locations/warrington-knutsford-rd-autocentre/"
+website: https://www.halfords.com/locations/warrington-knutsford-rd-autocentre/

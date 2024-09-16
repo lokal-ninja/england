@@ -1,11 +1,11 @@
 id: 609808892
-type: way
+type: node
 latitude: 51.6083
 longitude: -0.3718
 postcode: ""
 city: Pinner
-street: "Uxbridge Road"
-housenumber: 347
+street: Uxbridge Road
+housenumber: "347"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 291650386
-type: way
+type: node
 latitude: 51.52444
 longitude: -0.12373
-postcode: "WC1N 1AF"
+postcode: WC1N 1AF
 city: London
-street: "Brunswick Centre"
-housenumber: 31
-phone: "+44 20 7520 0010"
-opening_hours: "Mo-Sa 09:30-18:00; Su 11:00-18:00"
-website: "https://www.specsavers.co.uk/stores/brunswickcentre"
+street: Brunswick Centre
+housenumber: "31"
+phone: +44 20 7520 0010
+opening_hours: Mo-Sa 09:30-18:00; Su 11:00-18:00
+website: https://www.specsavers.co.uk/stores/brunswickcentre

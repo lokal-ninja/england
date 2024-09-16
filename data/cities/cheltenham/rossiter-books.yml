@@ -1,11 +1,11 @@
 id: 166264700
-type: way
+type: node
 latitude: 51.89555
 longitude: -2.08295
-postcode: "GL50 1SW"
+postcode: GL50 1SW
 city: Cheltenham
-street: "Montpellier Street"
-housenumber: 7
-phone: "+44 1242 373815"
-opening_hours: "Mo-Sa 09:30-17:30; Su 10:30-16:30"
+street: Montpellier Street
+housenumber: "7"
+phone: +44 1242 373815
+opening_hours: Mo-Sa 09:30-17:30; Su 10:30-16:30
 website: ""

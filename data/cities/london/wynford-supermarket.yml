@@ -1,11 +1,11 @@
 id: 352905275
-type: way
+type: node
 latitude: 51.53432
 longitude: -0.11684
-postcode: "N1 9QN"
+postcode: N1 9QN
 city: London
-street: "Wynford Road"
-housenumber: 5
+street: Wynford Road
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

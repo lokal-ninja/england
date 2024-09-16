@@ -1,11 +1,11 @@
 id: 438499032
-type: way
+type: node
 latitude: 50.97567
 longitude: -3.22039
-postcode: "TA21 8ER"
+postcode: TA21 8ER
 city: Wellington
-street: "Beech Hill"
-housenumber: 67
+street: Beech Hill
+housenumber: "67"
 phone: ""
-opening_hours: "Mo-Su 06:00-22:00"
+opening_hours: Mo-Su 06:00-22:00
 website: ""

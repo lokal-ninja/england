@@ -1,11 +1,11 @@
 id: 1226352661
-type: way
+type: node
 latitude: 53.81423
 longitude: -3.05079
-postcode: "FY1 4QE"
+postcode: FY1 4QE
 city: Blackpool
-street: "Coronation Street"
-housenumber: 89
+street: Coronation Street
+housenumber: "89"
 phone: ""
 opening_hours: ""
 website: ""

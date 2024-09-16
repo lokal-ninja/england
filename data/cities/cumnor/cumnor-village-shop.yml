@@ -2,10 +2,10 @@ id: 1963592442
 type: node
 latitude: 51.7344
 longitude: -1.33368
-postcode: "OX2 9PE"
+postcode: OX2 9PE
 city: Cumnor
-street: "High Street"
-housenumber: 7
-phone: "+44 1865 863 394"
-opening_hours: "Mo-Sa 09:00-18:00"
+street: High Street
+housenumber: "7"
+phone: +44 1865 863 394
+opening_hours: Mo-Sa 09:00-18:00
 website: ""

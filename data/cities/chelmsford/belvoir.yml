@@ -1,11 +1,11 @@
 id: 270154099
-type: way
+type: node
 latitude: 51.73542
 longitude: 0.47094
-postcode: "CM1 1HL"
+postcode: CM1 1HL
 city: Chelmsford
-street: "Duke Street"
-housenumber: 19
-phone: "+44 1245 808398"
-opening_hours: "Mo-Fr 09:30-17:30; Sa 09:00-11:30; Su off"
-website: "https://www.belvoir.co.uk/"
+street: Duke Street
+housenumber: "19"
+phone: +44 1245 808398
+opening_hours: Mo-Fr 09:30-17:30; Sa 09:00-11:30; Su off
+website: https://www.belvoir.co.uk/

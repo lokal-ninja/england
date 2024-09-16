@@ -1,11 +1,11 @@
 id: 238055451
-type: way
+type: node
 latitude: 53.2072
 longitude: -0.61379
-postcode: "LN6 3RS"
+postcode: LN6 3RS
 city: Lincoln
-street: "Doddington Road"
-housenumber: 950
+street: Doddington Road
+housenumber: "950"
 phone: ""
 opening_hours: ""
 website: ""

@@ -2,10 +2,10 @@ id: 1410302635
 type: node
 latitude: 51.09098
 longitude: -3.0172
-postcode: "TA6 6SB"
+postcode: TA6 6SB
 city: Bridgwater
-street: "Fore Street"
-housenumber: 125
+street: Fore Street
+housenumber: "125"
 phone: ""
-opening_hours: "Mo-Su 06:00-22:00"
+opening_hours: Mo-Su 06:00-22:00
 website: ""

@@ -1,11 +1,11 @@
 id: 968175962
-type: way
+type: node
 latitude: 53.44828
 longitude: -2.70306
-postcode: "WA9 2RJ"
+postcode: WA9 2RJ
 city: St Helens
-street: "Fleet Lane"
-housenumber: 184
+street: Fleet Lane
+housenumber: "184"
 phone: ""
 opening_hours: ""
 website: ""

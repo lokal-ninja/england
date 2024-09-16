@@ -1,11 +1,11 @@
 id: 467753575
-type: way
+type: node
 latitude: 51.76186
 longitude: -0.74477
-postcode: "HP22 6EJ"
+postcode: HP22 6EJ
 city: Wendover
-street: "Pound Street"
-housenumber: 2
+street: Pound Street
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-We 10:00-17:00; Th-Sa 10:00-23:00; Su 10:00-17:00"
+opening_hours: Mo-We 10:00-17:00; Th-Sa 10:00-23:00; Su 10:00-17:00
 website: ""

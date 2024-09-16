@@ -1,11 +1,11 @@
 id: 187728236
-type: way
+type: node
 latitude: 51.60691
 longitude: -0.14664
-postcode: "N10 2PD"
+postcode: N10 2PD
 city: London
-street: "Cromwell Road"
-housenumber: 60
-phone: "+44 20 8444 4007"
-opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-13:00"
-website: "https://tlmotors-london.co.uk"
+street: Cromwell Road
+housenumber: "60"
+phone: +44 20 8444 4007
+opening_hours: Mo-Fr 08:30-18:00; Sa 08:30-13:00
+website: https://tlmotors-london.co.uk

@@ -1,11 +1,11 @@
 id: 240172116
-type: way
+type: node
 latitude: 53.7433
 longitude: -0.3521
-postcode: "HU3 2JH"
+postcode: HU3 2JH
 city: Hull
-street: "Anlaby Road"
-housenumber: 114
+street: Anlaby Road
+housenumber: "114"
 phone: ""
 opening_hours: ""
 website: ""

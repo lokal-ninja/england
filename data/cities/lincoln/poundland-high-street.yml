@@ -2,10 +2,10 @@ id: 5859561585
 type: node
 latitude: 53.22611
 longitude: -0.54221
-postcode: "LN5 7AF"
+postcode: LN5 7AF
 city: Lincoln
-street: "High Street"
-housenumber: 170
+street: High Street
+housenumber: "170"
 phone: ""
 opening_hours: ""
 website: ""

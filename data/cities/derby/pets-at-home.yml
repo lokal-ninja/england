@@ -1,11 +1,11 @@
 id: 75673015
-type: way
+type: node
 latitude: 52.94323
 longitude: -1.46275
 postcode: ""
 city: Derby
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://community.petsathome.com/store/derby-meteor/"
+website: https://community.petsathome.com/store/derby-meteor/

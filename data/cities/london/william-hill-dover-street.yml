@@ -1,11 +1,11 @@
 id: 211553275
-type: way
+type: node
 latitude: 51.50851
 longitude: -0.14216
 postcode: ""
 city: London
-street: "Dover Street"
-housenumber: 16
+street: Dover Street
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

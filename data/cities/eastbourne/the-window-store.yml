@@ -1,11 +1,11 @@
 id: 1116918372
-type: way
+type: node
 latitude: 50.79005
 longitude: 0.29717
-postcode: "BN23 6PW"
+postcode: BN23 6PW
 city: Eastbourne
-street: "Hammonds Drive"
-housenumber: 44
-phone: "+44 1323 647374"
+street: Hammonds Drive
+housenumber: "44"
+phone: +44 1323 647374
 opening_hours: ""
-website: "https://www.windowstoreplastics.co.uk/store-locator/eastbourne/"
+website: https://www.windowstoreplastics.co.uk/store-locator/eastbourne/

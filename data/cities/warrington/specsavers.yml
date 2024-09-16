@@ -1,11 +1,11 @@
 id: 972721683
-type: way
+type: node
 latitude: 53.38888
 longitude: -2.59606
-postcode: "WA1 1TD"
+postcode: WA1 1TD
 city: Warrington
-street: "Sankey Street"
-housenumber: 34
+street: Sankey Street
+housenumber: "34"
 phone: ""
 opening_hours: ""
 website: ""

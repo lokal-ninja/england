@@ -1,11 +1,11 @@
 id: 340730831
-type: way
+type: node
 latitude: 52.30224
 longitude: -0.69613
-postcode: "NN8 4HR"
+postcode: NN8 4HR
 city: Wellingborough
-street: "High Street"
+street: High Street
 housenumber: 2b
-phone: "+44 3444 889 629"
-opening_hours: "Mo-Fr 10:00-15:00"
-website: "https://www.cencab.org.uk"
+phone: +44 3444 889 629
+opening_hours: Mo-Fr 10:00-15:00
+website: https://www.cencab.org.uk

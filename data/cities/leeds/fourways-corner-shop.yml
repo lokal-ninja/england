@@ -1,11 +1,11 @@
 id: 462586443
-type: way
+type: node
 latitude: 53.80389
 longitude: -1.63964
-postcode: "LS13 4NY"
+postcode: LS13 4NY
 city: Leeds
-street: "Swinnow Road"
-housenumber: 47
+street: Swinnow Road
+housenumber: "47"
 phone: ""
 opening_hours: ""
 website: ""

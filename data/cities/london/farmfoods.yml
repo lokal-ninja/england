@@ -1,11 +1,11 @@
 id: 199637292
-type: way
+type: node
 latitude: 51.58173
 longitude: -0.03099
-postcode: "E17 7LD"
+postcode: E17 7LD
 city: London
-street: "High Street"
-housenumber: 46
+street: High Street
+housenumber: "46"
 phone: ""
 opening_hours: ""
 website: ""

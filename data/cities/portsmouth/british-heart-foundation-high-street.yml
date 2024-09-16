@@ -4,8 +4,8 @@ latitude: 50.84622
 longitude: -1.06664
 postcode: ""
 city: Portsmouth
-street: "High Street"
-housenumber: 
+street: High Street
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:30-17:00; Su 10:00-16:00"
-website: "https://www.bhf.org.uk/what-we-do/find-bhf-near-you/cosham-bhf-shop"
+opening_hours: Mo-Sa 09:30-17:00; Su 10:00-16:00
+website: https://www.bhf.org.uk/what-we-do/find-bhf-near-you/cosham-bhf-shop

@@ -1,11 +1,11 @@
 id: 287795685
-type: way
+type: node
 latitude: 51.31814
 longitude: -0.55965
-postcode: "GU21 6ET"
+postcode: GU21 6ET
 city: Woking
-street: "Commercial Way"
-housenumber: 2
+street: Commercial Way
+housenumber: "2"
 phone: "+441483766444"
-opening_hours: "Mo-Sa 09:30-17:00; Su 10:30-16:30"
-website: "https://www.wsbhospices.co.uk/"
+opening_hours: Mo-Sa 09:30-17:00; Su 10:30-16:30
+website: https://www.wsbhospices.co.uk/

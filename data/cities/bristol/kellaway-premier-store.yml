@@ -1,11 +1,11 @@
 id: 268169596
-type: way
+type: node
 latitude: 51.48107
 longitude: -2.6041
-postcode: "BS6 7XR"
+postcode: BS6 7XR
 city: Bristol
-street: "Kellaway Avenue"
-housenumber: 16
-phone: "+44 117 924 8335"
+street: Kellaway Avenue
+housenumber: "16"
+phone: +44 117 924 8335
 opening_hours: ""
 website: ""

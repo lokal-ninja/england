@@ -1,11 +1,11 @@
 id: 979875461
-type: way
+type: node
 latitude: 53.49123
 longitude: -2.63148
 postcode: ""
 city: Wigan
-street: "Bolton Road"
-housenumber: 127
+street: Bolton Road
+housenumber: "127"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1205297818
-type: way
+type: node
 latitude: 51.45043
 longitude: 0.18516
 postcode: ""
 city: Dartford
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.screwfix.com/stores/KT3/dartford-acorn-ind-est"
+website: https://www.screwfix.com/stores/KT3/dartford-acorn-ind-est

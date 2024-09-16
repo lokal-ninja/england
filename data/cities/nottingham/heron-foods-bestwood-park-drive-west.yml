@@ -1,11 +1,11 @@
 id: 228376012
-type: way
+type: node
 latitude: 53.01041
 longitude: -1.17406
-postcode: "NG5 5EJ"
+postcode: NG5 5EJ
 city: Nottingham
-street: "Bestwood Park Drive West"
-housenumber: 17
+street: Bestwood Park Drive West
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su 10:00-16:00"
+opening_hours: Mo-Sa 08:00-20:00; Su 10:00-16:00
 website: ""

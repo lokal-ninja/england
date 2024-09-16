@@ -1,11 +1,11 @@
 id: 537514555
-type: way
+type: node
 latitude: 52.24193
 longitude: -0.93056
-postcode: "NN5 5AW"
+postcode: NN5 5AW
 city: Northampton
-street: "Windsor Crescent"
-housenumber: 94
+street: Windsor Crescent
+housenumber: "94"
 phone: ""
 opening_hours: ""
 website: ""

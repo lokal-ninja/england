@@ -1,11 +1,11 @@
 id: 112559452
-type: way
+type: node
 latitude: 51.80019
 longitude: 1.15844
-postcode: "CO15 3TH"
+postcode: CO15 3TH
 city: Clacton-on-Sea
-street: "Oxford Road"
-housenumber: 104
+street: Oxford Road
+housenumber: "104"
 phone: ""
 opening_hours: ""
 website: ""

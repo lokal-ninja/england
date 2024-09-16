@@ -1,11 +1,11 @@
 id: 120468325
-type: way
+type: node
 latitude: 51.01418
 longitude: -3.0989
-postcode: "TA1 3NE"
+postcode: TA1 3NE
 city: Taunton
-street: "Billet Street"
-housenumber: 
+street: Billet Street
+housenumber: ""
 phone: ""
-opening_hours: "Mo-We 07:00-20:00, Th-Sa 07:00-21:00; Su 10:30-16:30"
-website: "https://stores.sainsburys.co.uk/0655/taunton"
+opening_hours: Mo-We 07:00-20:00, Th-Sa 07:00-21:00; Su 10:30-16:30
+website: https://stores.sainsburys.co.uk/0655/taunton

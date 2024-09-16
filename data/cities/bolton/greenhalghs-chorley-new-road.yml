@@ -1,11 +1,11 @@
 id: 663130430
-type: way
+type: node
 latitude: 53.58933
 longitude: -2.5331
-postcode: "BL6 6JZ"
+postcode: BL6 6JZ
 city: Bolton
-street: "Chorley New Road"
-housenumber: 567
+street: Chorley New Road
+housenumber: "567"
 phone: ""
 opening_hours: ""
 website: ""

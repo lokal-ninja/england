@@ -1,11 +1,11 @@
 id: 135067872
-type: way
+type: node
 latitude: 53.3288
 longitude: -2.71717
-postcode: "WA7 5LY"
+postcode: WA7 5LY
 city: Runcorn
-street: "Grangeway"
+street: Grangeway
 housenumber: 7;21;23
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.coop.co.uk/store-finder/WA7-5LY/7-grangeway"
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.coop.co.uk/store-finder/WA7-5LY/7-grangeway

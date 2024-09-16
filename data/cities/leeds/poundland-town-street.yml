@@ -1,11 +1,11 @@
 id: 240731088
-type: way
+type: node
 latitude: 53.7971
 longitude: -1.5898
-postcode: "LS12 1UX"
+postcode: LS12 1UX
 city: Leeds
-street: "Town Street"
-housenumber: 29
+street: Town Street
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

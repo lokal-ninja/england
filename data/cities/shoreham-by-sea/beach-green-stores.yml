@@ -1,11 +1,11 @@
 id: 1013403420
-type: way
+type: node
 latitude: 50.82806
 longitude: -0.28709
 postcode: ""
 city: Shoreham-by-Sea
-street: "Beach Green"
-housenumber: 134
+street: Beach Green
+housenumber: "134"
 phone: ""
 opening_hours: ""
 website: ""

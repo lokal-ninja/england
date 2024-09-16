@@ -1,11 +1,11 @@
 id: 429832357
-type: way
+type: node
 latitude: 52.62982
 longitude: -1.33892
-postcode: "LE9 9NP"
+postcode: LE9 9NP
 city: Newbold Verdon
-street: "Main Street"
-housenumber: 103
+street: Main Street
+housenumber: "103"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su 08:00-22:00"
-website: "https://stores.centralengland.coop/leicestershire/leicester/103-main-street"
+opening_hours: Mo-Sa 07:00-22:00; Su 08:00-22:00
+website: https://stores.centralengland.coop/leicestershire/leicester/103-main-street

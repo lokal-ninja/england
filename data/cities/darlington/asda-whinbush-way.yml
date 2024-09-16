@@ -1,11 +1,11 @@
 id: 55431708
-type: way
+type: node
 latitude: 54.54571
 longitude: -1.5235
-postcode: "DL1 3RB"
+postcode: DL1 3RB
 city: Darlington
-street: "Whinbush Way"
-housenumber: 
+street: Whinbush Way
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su 10:00-16:00"
+opening_hours: Mo-Sa 07:00-22:00; Su 10:00-16:00
 website: ""

@@ -1,11 +1,11 @@
 id: 324559442
-type: way
+type: node
 latitude: 54.87653
 longitude: -1.42054
-postcode: "SR3 3DS"
+postcode: SR3 3DS
 city: Sunderland
-street: "The Strand"
-housenumber: 65
+street: The Strand
+housenumber: "65"
 phone: ""
 opening_hours: ""
 website: ""

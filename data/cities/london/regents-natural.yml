@@ -2,10 +2,10 @@ id: 2216576544
 type: node
 latitude: 51.52868
 longitude: -0.14451
-postcode: "NW1 4BU"
+postcode: NW1 4BU
 city: London
-street: "Albany Street"
-housenumber: 1
+street: Albany Street
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

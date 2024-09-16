@@ -1,11 +1,11 @@
 id: 376590375
-type: way
+type: node
 latitude: 51.43619
 longitude: -2.5937
-postcode: "BS3 5AY"
+postcode: BS3 5AY
 city: Bristol
-street: "St John's Lane"
-housenumber: 282
+street: St John's Lane
+housenumber: "282"
 phone: ""
 opening_hours: ""
 website: ""

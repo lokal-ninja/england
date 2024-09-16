@@ -1,11 +1,11 @@
 id: 85866543
-type: way
+type: node
 latitude: 52.94102
 longitude: -1.27216
-postcode: "NG9 8HZ"
+postcode: NG9 8HZ
 city: Nottingham
-street: "Pasture Road"
-housenumber: 193
+street: Pasture Road
+housenumber: "193"
 phone: ""
 opening_hours: ""
 website: ""

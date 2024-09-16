@@ -1,11 +1,11 @@
 id: 201140025
-type: way
+type: node
 latitude: 52.62005
 longitude: -1.7288
-postcode: "B78 3NF"
+postcode: B78 3NF
 city: Tamworth
-street: "Watling Street"
-housenumber: 543
+street: Watling Street
+housenumber: "543"
 phone: ""
 opening_hours: ""
 website: ""

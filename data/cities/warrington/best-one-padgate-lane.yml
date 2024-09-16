@@ -1,11 +1,11 @@
 id: 1088638236
-type: way
+type: node
 latitude: 53.40235
 longitude: -2.56551
-postcode: "WA1 3LB"
+postcode: WA1 3LB
 city: Warrington
-street: "Padgate Lane"
-housenumber: 267
+street: Padgate Lane
+housenumber: "267"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su 08:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00; Su 08:00-22:00
 website: ""

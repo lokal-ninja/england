@@ -1,11 +1,11 @@
 id: 853739943
-type: way
+type: node
 latitude: 52.71158
 longitude: -2.76018
-postcode: "SY3 8JS"
+postcode: SY3 8JS
 city: Shrewsbury
-street: "Frankwell"
-housenumber: 100
+street: Frankwell
+housenumber: "100"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:30; Su 10:30-18:30"
+opening_hours: Mo-Sa 09:00-20:30; Su 10:30-18:30
 website: ""

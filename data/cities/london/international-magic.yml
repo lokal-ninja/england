@@ -1,11 +1,11 @@
 id: 571479618
-type: way
+type: node
 latitude: 51.5218
 longitude: -0.11062
-postcode: "EC1R 5BX"
+postcode: EC1R 5BX
 city: London
-street: "Clerkenwell Road"
-housenumber: 89
+street: Clerkenwell Road
+housenumber: "89"
 phone: ""
 opening_hours: ""
-website: "https://www.internationalmagic.com/"
+website: https://www.internationalmagic.com/

@@ -1,11 +1,11 @@
 id: 1035800919
-type: way
+type: node
 latitude: 51.55284
 longitude: -0.13924
-postcode: "NW5 2PD"
+postcode: NW5 2PD
 city: London
-street: "Ascham Street"
-housenumber: 
+street: Ascham Street
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.mdamotors.co.uk/"
+website: https://www.mdamotors.co.uk/

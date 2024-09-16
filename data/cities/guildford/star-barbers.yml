@@ -2,10 +2,10 @@ id: 5156823583
 type: node
 latitude: 51.24884
 longitude: -0.58596
-postcode: "GU2 9AA"
+postcode: GU2 9AA
 city: Guildford
-street: "Woodbridge Hill"
-housenumber: 35
+street: Woodbridge Hill
+housenumber: "35"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 08:00-18:00; Su,PH 10:00-17:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 08:00-18:00; Su,PH 10:00-17:00
 website: ""

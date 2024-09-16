@@ -1,11 +1,11 @@
 id: 445665731
-type: way
+type: node
 latitude: 50.73394
 longitude: -1.95162
 postcode: ""
 city: Poole
-street: "Sea View Road"
-housenumber: 58
+street: Sea View Road
+housenumber: "58"
 phone: ""
 opening_hours: ""
 website: ""

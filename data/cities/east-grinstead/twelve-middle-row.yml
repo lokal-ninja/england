@@ -2,10 +2,10 @@ id: 7982108577
 type: node
 latitude: 51.1238
 longitude: -0.00582
-postcode: "RH19 3AX"
+postcode: RH19 3AX
 city: East Grinstead
-street: "Middle Row"
-housenumber: 12
-phone: "+44 1342 321187"
-opening_hours: "Mo-Sa 10:00-17:00; Su off"
-website: "https://twelvemiddlerow.co.uk/"
+street: Middle Row
+housenumber: "12"
+phone: +44 1342 321187
+opening_hours: Mo-Sa 10:00-17:00; Su off
+website: https://twelvemiddlerow.co.uk/

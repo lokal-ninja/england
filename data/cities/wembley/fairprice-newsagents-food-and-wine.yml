@@ -1,11 +1,11 @@
 id: 260029809
-type: way
+type: node
 latitude: 51.55209
 longitude: -0.30112
-postcode: "HA0 2DW"
+postcode: HA0 2DW
 city: Wembley
-street: "High Road"
-housenumber: 559
+street: High Road
+housenumber: "559"
 phone: ""
 opening_hours: ""
 website: ""

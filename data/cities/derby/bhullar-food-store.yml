@@ -1,11 +1,11 @@
 id: 58739120
-type: way
+type: node
 latitude: 52.9011
 longitude: -1.47819
-postcode: "DE23 8SY"
+postcode: DE23 8SY
 city: Derby
-street: "Saint Thomas Road"
-housenumber: 232
+street: Saint Thomas Road
+housenumber: "232"
 phone: ""
 opening_hours: ""
 website: ""

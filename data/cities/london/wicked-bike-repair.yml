@@ -1,11 +1,11 @@
 id: 964301936
-type: way
+type: node
 latitude: 51.54455
 longitude: -0.02112
 postcode: ""
 city: London
-street: "East Bay Lane"
-housenumber: 
+street: East Bay Lane
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

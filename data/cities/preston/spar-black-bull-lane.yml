@@ -1,11 +1,11 @@
 id: 501744468
-type: way
+type: node
 latitude: 53.77717
 longitude: -2.71637
-postcode: "PR2 3PT"
+postcode: PR2 3PT
 city: Preston
-street: "Black Bull Lane"
-housenumber: 1
+street: Black Bull Lane
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.spar.co.uk/store-locator/hal22210-spar-fulwood/"
+website: https://www.spar.co.uk/store-locator/hal22210-spar-fulwood/

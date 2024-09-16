@@ -1,11 +1,11 @@
 id: 982161209
-type: way
+type: node
 latitude: 53.67595
 longitude: -1.35926
-postcode: "WF7 5BE"
+postcode: WF7 5BE
 city: Pontefract
-street: "Station Lane"
-housenumber: 35
+street: Station Lane
+housenumber: "35"
 phone: ""
 opening_hours: ""
 website: ""

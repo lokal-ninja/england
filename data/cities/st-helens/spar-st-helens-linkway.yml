@@ -1,11 +1,11 @@
 id: 1043615832
-type: way
+type: node
 latitude: 53.44156
 longitude: -2.73124
-postcode: "WA9 5DT"
+postcode: WA9 5DT
 city: St Helens
-street: "St Helens Linkway"
-housenumber: 102
+street: St Helens Linkway
+housenumber: "102"
 phone: ""
 opening_hours: ""
-website: "https://www.spar.co.uk/store-locator/hal25083-spar-euro-garage-sherdley-park"
+website: https://www.spar.co.uk/store-locator/hal25083-spar-euro-garage-sherdley-park

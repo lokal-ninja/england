@@ -2,10 +2,10 @@ id: 1977784268
 type: node
 latitude: 50.81377
 longitude: -1.05926
-postcode: "PO3 6LA"
+postcode: PO3 6LA
 city: Portsmouth
-street: "Moneyfield Avenue"
-housenumber: 13
+street: Moneyfield Avenue
+housenumber: "13"
 phone: ""
-opening_hours: "06:00-20:00"
+opening_hours: 06:00-20:00
 website: ""

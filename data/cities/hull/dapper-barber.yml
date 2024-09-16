@@ -1,11 +1,11 @@
 id: 696070072
-type: way
+type: node
 latitude: 53.74324
 longitude: -0.33495
-postcode: "HU1 2HU"
+postcode: HU1 2HU
 city: Hull
-street: "Whitefriargate"
-housenumber: 61
+street: Whitefriargate
+housenumber: "61"
 phone: ""
 opening_hours: ""
 website: ""

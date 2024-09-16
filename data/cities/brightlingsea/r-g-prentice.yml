@@ -1,11 +1,11 @@
 id: 262058423
-type: way
+type: node
 latitude: 51.81079
 longitude: 1.02546
-postcode: "CO7 0BX"
+postcode: CO7 0BX
 city: Brightlingsea
-street: "Victoria Place"
-housenumber: 4
+street: Victoria Place
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

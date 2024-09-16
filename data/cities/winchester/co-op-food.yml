@@ -1,11 +1,11 @@
 id: 206008948
-type: way
+type: node
 latitude: 51.06674
 longitude: -1.31747
-postcode: "SO23 8SD"
+postcode: SO23 8SD
 city: Winchester
-street: "City Road"
-housenumber: 16
+street: City Road
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://stores.southern.coop/hampshire/winchester/16-city-road.html"
+opening_hours: Mo-Su 07:00-22:00
+website: https://stores.southern.coop/hampshire/winchester/16-city-road.html

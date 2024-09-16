@@ -1,11 +1,11 @@
 id: 38281456
-type: way
+type: node
 latitude: 51.56112
 longitude: -0.22087
-postcode: "NW2 6JN"
+postcode: NW2 6JN
 city: London
-street: "Cricklewood Broadway"
-housenumber: 317
-phone: "+44 20 8450 9025"
-opening_hours: "Mo-Fr 06:30-21:00; Sa 07:00-20:00; Su 10:00-16:00"
+street: Cricklewood Broadway
+housenumber: "317"
+phone: +44 20 8450 9025
+opening_hours: Mo-Fr 06:30-21:00; Sa 07:00-20:00; Su 10:00-16:00
 website: ""

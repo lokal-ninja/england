@@ -1,11 +1,11 @@
 id: 1200586115
-type: way
+type: node
 latitude: 50.80346
 longitude: 0.30304
-postcode: "BN23 7RT"
+postcode: BN23 7RT
 city: Eastbourne
-street: "Kingfisher Drive"
-housenumber: 64
+street: Kingfisher Drive
+housenumber: "64"
 phone: ""
 opening_hours: ""
-website: "https://www.eastbournemg.co.uk"
+website: https://www.eastbournemg.co.uk

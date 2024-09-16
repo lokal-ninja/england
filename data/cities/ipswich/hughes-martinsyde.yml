@@ -1,11 +1,11 @@
 id: 821108667
-type: way
+type: node
 latitude: 52.06351
 longitude: 1.27717
-postcode: "IP5 3QA"
+postcode: IP5 3QA
 city: Ipswich
-street: "Martinsyde"
-housenumber: 2
+street: Martinsyde
+housenumber: "2"
 phone: "+441473636894"
-opening_hours: "Mo 10:00-16:00; Tu-Fr 09:00-17:30; Sa 09:00-15:00; Su 10:00-16:00"
-website: "https://www.hughes.co.uk/store-page/ipswich-martlesham"
+opening_hours: Mo 10:00-16:00; Tu-Fr 09:00-17:30; Sa 09:00-15:00; Su 10:00-16:00
+website: https://www.hughes.co.uk/store-page/ipswich-martlesham

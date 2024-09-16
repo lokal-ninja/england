@@ -1,11 +1,11 @@
 id: 143748663
-type: way
+type: node
 latitude: 52.54132
 longitude: -1.84965
 postcode: ""
 city: Sutton Coldfield
-street: "Court Lane"
-housenumber: 363
+street: Court Lane
+housenumber: "363"
 phone: ""
 opening_hours: ""
 website: ""

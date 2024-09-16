@@ -1,11 +1,11 @@
 id: 911523360
-type: way
+type: node
 latitude: 51.79641
 longitude: -0.07793
-postcode: "SG14 1DF"
+postcode: SG14 1DF
 city: Hertford
-street: "Market Place"
-housenumber: 7
+street: Market Place
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

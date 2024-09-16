@@ -1,11 +1,11 @@
 id: 313482060
-type: way
+type: node
 latitude: 51.41751
 longitude: -1.51365
-postcode: "RG17 0EH"
+postcode: RG17 0EH
 city: Hungerford
-street: "Bridge Street"
-housenumber: 6
-phone: "+44 1488646287"
-opening_hours: "Mo-Sa 09:30-18:00"
-website: "https://bridgestreetskinclinic.co.uk/"
+street: Bridge Street
+housenumber: "6"
+phone: +44 1488646287
+opening_hours: Mo-Sa 09:30-18:00
+website: https://bridgestreetskinclinic.co.uk/

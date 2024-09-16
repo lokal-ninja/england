@@ -1,11 +1,11 @@
 id: 454760050
-type: way
+type: node
 latitude: 51.4643
 longitude: -0.27262
-postcode: "SW14 7JT"
+postcode: SW14 7JT
 city: London
-street: "Upper Richmond Road West"
-housenumber: 352
+street: Upper Richmond Road West
+housenumber: "352"
 phone: ""
 opening_hours: ""
 website: ""

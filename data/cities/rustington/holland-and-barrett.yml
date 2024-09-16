@@ -2,10 +2,10 @@ id: 10844669489
 type: node
 latitude: 50.81013
 longitude: -0.50617
-postcode: "BN16 3DN"
+postcode: BN16 3DN
 city: Rustington
-street: "The Street"
-housenumber: 123
+street: The Street
+housenumber: "123"
 phone: ""
 opening_hours: ""
 website: ""

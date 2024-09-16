@@ -1,11 +1,11 @@
 id: 171417014
-type: way
+type: node
 latitude: 51.61231
 longitude: -0.15947
-postcode: "N12 0LH"
+postcode: N12 0LH
 city: London
-street: "Woodhouse Road"
-housenumber: 308
-phone: "+44 20 8211 3359"
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.coop.co.uk/store-finder/N12-0LH/woodhouse-road"
+street: Woodhouse Road
+housenumber: "308"
+phone: +44 20 8211 3359
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.coop.co.uk/store-finder/N12-0LH/woodhouse-road

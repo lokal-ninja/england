@@ -1,11 +1,11 @@
 id: 164621554
-type: way
+type: node
 latitude: 51.58389
 longitude: -0.02593
-postcode: "E17 7BX"
+postcode: E17 7BX
 city: London
-street: "High Street"
-housenumber: 161
+street: High Street
+housenumber: "161"
 phone: ""
 opening_hours: ""
 website: ""

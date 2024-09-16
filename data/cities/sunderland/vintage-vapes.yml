@@ -1,11 +1,11 @@
 id: 1209209203
-type: way
+type: node
 latitude: 54.90388
 longitude: -1.38639
-postcode: "SR1 3NE"
+postcode: SR1 3NE
 city: Sunderland
-street: "Vine Place"
-housenumber: 5
+street: Vine Place
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

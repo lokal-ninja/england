@@ -1,11 +1,11 @@
 id: 291917412
-type: way
+type: node
 latitude: 52.09201
 longitude: -1.94533
 postcode: ""
 city: Evesham
-street: "Bridge Street"
-housenumber: 
-phone: "+44 1386 48824"
-opening_hours: "Mo-Sa 09:00-17:30; Su 10:00-16:00"
-website: "https://www.peacocks.co.uk/store-detail?storeID=6113&storeName=PEACOCKS-EVESHAM"
+street: Bridge Street
+housenumber: ""
+phone: +44 1386 48824
+opening_hours: Mo-Sa 09:00-17:30; Su 10:00-16:00
+website: https://www.peacocks.co.uk/store-detail?storeID=6113&storeName=PEACOCKS-EVESHAM

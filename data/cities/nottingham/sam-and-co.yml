@@ -1,11 +1,11 @@
 id: 214388343
-type: way
+type: node
 latitude: 52.90298
 longitude: -1.25193
-postcode: "NG9 6EG"
+postcode: NG9 6EG
 city: Nottingham
-street: "Nottingham Road"
-housenumber: 357
+street: Nottingham Road
+housenumber: "357"
 phone: ""
 opening_hours: ""
 website: ""

@@ -2,10 +2,10 @@ id: 8283444574
 type: node
 latitude: 53.19282
 longitude: -2.88214
-postcode: "CH1 3AS"
+postcode: CH1 3AS
 city: Chester
-street: "The Square"
-housenumber: 1
+street: The Square
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

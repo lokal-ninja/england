@@ -1,11 +1,11 @@
 id: 302599761
-type: way
+type: node
 latitude: 53.76862
 longitude: -0.35536
-postcode: "HU6 7RA"
+postcode: HU6 7RA
 city: Kingston upon Hull
-street: "Cottingham Road"
-housenumber: 34
+street: Cottingham Road
+housenumber: "34"
 phone: ""
-opening_hours: "Mo-Sa 09:00-17:30"
+opening_hours: Mo-Sa 09:00-17:30
 website: ""

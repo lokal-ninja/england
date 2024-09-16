@@ -2,10 +2,10 @@ id: 7019961012
 type: node
 latitude: 51.48883
 longitude: -0.00727
-postcode: "E14 3DN"
+postcode: E14 3DN
 city: London
-street: "Manchester Road"
-housenumber: 149
+street: Manchester Road
+housenumber: "149"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-17:00"
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-17:00
 website: ""

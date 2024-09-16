@@ -1,11 +1,11 @@
 id: 211187819
-type: way
+type: node
 latitude: 51.52691
 longitude: -0.01045
-postcode: "E3 3DA"
+postcode: E3 3DA
 city: London
-street: "Hancock Road"
-housenumber: 
-phone: "+44 3456 779085"
-opening_hours: "Mo-Sa 06:00-00:00, Su 12:00-18:00"
+street: Hancock Road
+housenumber: ""
+phone: +44 3456 779085
+opening_hours: Mo-Sa 06:00-00:00, Su 12:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 623533506
-type: way
+type: node
 latitude: 51.87248
 longitude: 0.91471
-postcode: "CO2 8BG"
+postcode: CO2 8BG
 city: Colchester
-street: "Abbot's Road"
-housenumber: 118
+street: Abbot's Road
+housenumber: "118"
 phone: ""
 opening_hours: ""
-website: "https://www.lidl.co.uk/s/en-GB/store-finder/colchester/abbots-road/"
+website: https://www.lidl.co.uk/s/en-GB/store-finder/colchester/abbots-road/

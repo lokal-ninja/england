@@ -1,11 +1,11 @@
 id: 258448617
-type: way
+type: node
 latitude: 51.01845
 longitude: -3.10483
-postcode: "TA1 1UD"
+postcode: TA1 1UD
 city: Taunton
-street: "Bridge Street"
-housenumber: 34
+street: Bridge Street
+housenumber: "34"
 phone: ""
 opening_hours: ""
 website: ""

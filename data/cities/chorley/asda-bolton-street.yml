@@ -1,11 +1,11 @@
 id: 554493843
-type: way
+type: node
 latitude: 53.64764
 longitude: -2.6307
-postcode: "PR7 3DL"
+postcode: PR7 3DL
 city: Chorley
-street: "Bolton Street"
-housenumber: 
+street: Bolton Street
+housenumber: ""
 phone: ""
-opening_hours: "Mo 07:00-24:00; Tu-Fr 05:00-24:00; Sa 05:00-22:00; Su 11:00-17:00"
+opening_hours: Mo 07:00-24:00; Tu-Fr 05:00-24:00; Sa 05:00-22:00; Su 11:00-17:00
 website: ""

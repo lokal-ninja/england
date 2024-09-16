@@ -1,11 +1,11 @@
 id: 1041730507
-type: way
+type: node
 latitude: 50.60847
 longitude: -2.45434
-postcode: "DT4 8PP"
+postcode: DT4 8PP
 city: Weymouth
-street: "St Mary Street"
-housenumber: 62
+street: St Mary Street
+housenumber: "62"
 phone: ""
 opening_hours: ""
 website: ""

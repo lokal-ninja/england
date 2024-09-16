@@ -1,11 +1,11 @@
 id: 435319718
-type: way
+type: node
 latitude: 53.66644
 longitude: -1.47963
-postcode: "WF1 5AP"
+postcode: WF1 5AP
 city: Wakefield
-street: "Agbrigg Road"
-housenumber: 131
+street: Agbrigg Road
+housenumber: "131"
 phone: ""
 opening_hours: ""
 website: ""

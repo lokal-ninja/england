@@ -1,11 +1,11 @@
 id: 1265316534
-type: way
+type: node
 latitude: 53.35093
 longitude: -1.42452
-postcode: "S12 2TA"
+postcode: S12 2TA
 city: Sheffield
-street: "Ridgeway Road"
-housenumber: 204
+street: Ridgeway Road
+housenumber: "204"
 phone: ""
 opening_hours: ""
 website: ""

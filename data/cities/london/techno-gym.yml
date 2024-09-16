@@ -1,11 +1,11 @@
 id: 289859694
-type: way
+type: node
 latitude: 51.50757
 longitude: -0.14178
-postcode: "W1J 8HP"
+postcode: W1J 8HP
 city: London
-street: "Piccadilly"
-housenumber: 70
+street: Piccadilly
+housenumber: "70"
 phone: ""
 opening_hours: ""
 website: ""

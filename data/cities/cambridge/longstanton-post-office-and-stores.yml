@@ -1,11 +1,11 @@
 id: 213579633
-type: way
+type: node
 latitude: 52.27868
 longitude: 0.04823
-postcode: "CB24 3BP"
+postcode: CB24 3BP
 city: Cambridge
-street: "High Street"
-housenumber: 10
+street: High Street
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 123636544
-type: way
+type: node
 latitude: 52.13862
 longitude: -0.46621
-postcode: "MK40 2PN"
+postcode: MK40 2PN
 city: Bedford
-street: "St. Peter's Street"
+street: St. Peter's Street
 housenumber: 5,7,9
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00; Su 10:00-16:00"
-website: "https://www.lidl.co.uk/s/en-GB/store-finder/bedford/lurke-street/"
+opening_hours: Mo-Sa 08:00-22:00; Su 10:00-16:00
+website: https://www.lidl.co.uk/s/en-GB/store-finder/bedford/lurke-street/

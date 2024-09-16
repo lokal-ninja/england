@@ -1,11 +1,11 @@
 id: 186877182
-type: way
+type: node
 latitude: 51.47536
 longitude: -0.0389
-postcode: "SE14 6AS"
+postcode: SE14 6AS
 city: London
-street: "New Cross Road"
+street: New Cross Road
 housenumber: 277;279;281
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su 11:00-17:00"
+opening_hours: Mo-Sa 08:00-21:00; Su 11:00-17:00
 website: ""

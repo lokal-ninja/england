@@ -1,11 +1,11 @@
 id: 582343965
-type: way
+type: node
 latitude: 52.18555
 longitude: 0.15994
-postcode: "CB1 8DH"
+postcode: CB1 8DH
 city: Cambridge
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
-website: "https://www.budgens.co.uk/our-stores/cherry-hinton"
+opening_hours: 24/7
+website: https://www.budgens.co.uk/our-stores/cherry-hinton

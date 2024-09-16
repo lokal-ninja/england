@@ -1,11 +1,11 @@
 id: 73079700
-type: way
+type: node
 latitude: 52.48567
 longitude: -1.90819
-postcode: "B3 1TH"
+postcode: B3 1TH
 city: Birmingham
-street: "Northwood Street"
-housenumber: 94
+street: Northwood Street
+housenumber: "94"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 163286181
-type: way
+type: node
 latitude: 51.53316
 longitude: -0.10957
 postcode: ""
 city: London
-street: "Baron Street"
-housenumber: 25
+street: Baron Street
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

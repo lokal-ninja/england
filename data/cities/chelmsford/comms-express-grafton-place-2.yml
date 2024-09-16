@@ -1,11 +1,11 @@
 id: 1025388796
-type: way
+type: node
 latitude: 51.741
 longitude: 0.50571
-postcode: "CM2 6TG"
+postcode: CM2 6TG
 city: Chelmsford
-street: "Grafton Place"
-housenumber: 
-phone: "+44 800 488 0000"
-opening_hours: "Mo-Fr 08:30-17:30; Sa-Su off"
-website: "https://www.comms-express.com/"
+street: Grafton Place
+housenumber: ""
+phone: +44 800 488 0000
+opening_hours: Mo-Fr 08:30-17:30; Sa-Su off
+website: https://www.comms-express.com/

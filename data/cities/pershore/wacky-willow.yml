@@ -1,11 +1,11 @@
 id: 360168384
-type: way
+type: node
 latitude: 52.11187
 longitude: -2.07573
-postcode: "WR10 1EU"
+postcode: WR10 1EU
 city: Pershore
-street: "High Street"
-housenumber: 51
+street: High Street
+housenumber: "51"
 phone: ""
 opening_hours: ""
 website: ""

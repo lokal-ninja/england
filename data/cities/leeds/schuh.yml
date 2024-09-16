@@ -2,10 +2,10 @@ id: 333799011
 type: node
 latitude: 53.79853
 longitude: -1.5423
-postcode: "LS1 6LH"
+postcode: LS1 6LH
 city: Leeds
-street: "Briggate"
-housenumber: 77
+street: Briggate
+housenumber: "77"
 phone: ""
 opening_hours: ""
 website: ""

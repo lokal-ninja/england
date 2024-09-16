@@ -1,11 +1,11 @@
 id: 706233247
-type: way
+type: node
 latitude: 53.23461
 longitude: -0.53881
-postcode: "LN1 3AE"
+postcode: LN1 3AE
 city: Lincoln
-street: "Bailgate"
-housenumber: 3
-phone: "+44 1522 511447"
+street: Bailgate
+housenumber: "3"
+phone: +44 1522 511447
 opening_hours: ""
 website: ""

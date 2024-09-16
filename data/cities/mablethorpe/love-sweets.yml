@@ -1,11 +1,11 @@
 id: 127788933
-type: way
+type: node
 latitude: 53.31344
 longitude: 0.28133
-postcode: "LN12 2HA"
+postcode: LN12 2HA
 city: Mablethorpe
-street: "Cromer Avenue"
-housenumber: 2
+street: Cromer Avenue
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

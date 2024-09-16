@@ -1,11 +1,11 @@
 id: 120946684
-type: way
+type: node
 latitude: 52.96936
 longitude: -1.30911
-postcode: "DE7 5QT"
+postcode: DE7 5QT
 city: Ilkeston
-street: "South Street"
-housenumber: 43
+street: South Street
+housenumber: "43"
 phone: ""
 opening_hours: ""
 website: ""

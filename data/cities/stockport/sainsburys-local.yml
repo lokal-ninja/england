@@ -1,11 +1,11 @@
 id: 239255108
-type: way
+type: node
 latitude: 53.41383
 longitude: -2.08713
-postcode: "SK6 4EA"
+postcode: SK6 4EA
 city: Stockport
-street: "The Precinct"
-housenumber: 2
+street: The Precinct
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://stores.sainsburys.co.uk/4899/romiley-local"
+website: https://stores.sainsburys.co.uk/4899/romiley-local

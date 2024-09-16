@@ -1,11 +1,11 @@
 id: 1175400831
-type: way
+type: node
 latitude: 51.38656
 longitude: -2.78274
-postcode: "BS49 4NR"
+postcode: BS49 4NR
 city: Cleeve
-street: "Main Road"
-housenumber: 
-phone: "+44 1934 477982"
-opening_hours: "Mo-Su 07:00-23:00"
+street: Main Road
+housenumber: ""
+phone: +44 1934 477982
+opening_hours: Mo-Su 07:00-23:00
 website: ""

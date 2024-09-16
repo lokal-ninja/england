@@ -1,11 +1,11 @@
 id: 136090705
-type: way
+type: node
 latitude: 52.62644
 longitude: 1.29259
-postcode: "NR2 1QR"
+postcode: NR2 1QR
 city: Norwich
-street: "Rampant Horse Street"
-housenumber: 
+street: Rampant Horse Street
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-19:00; Su 10:30-16:30"
+opening_hours: Mo-Sa 08:00-19:00; Su 10:30-16:30
 website: ""

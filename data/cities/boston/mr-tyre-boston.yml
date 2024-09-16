@@ -1,11 +1,11 @@
 id: 321205080
-type: way
+type: node
 latitude: 52.97447
 longitude: -0.02911
-postcode: "PE21 8UW"
+postcode: PE21 8UW
 city: Boston
-street: "Blue Street"
+street: Blue Street
 housenumber: 39-41
-phone: "+44 1205 310022"
-opening_hours: "Mo-Fr 08:30-17:30"
-website: "https://www.mrtyre.com/branches/boston"
+phone: +44 1205 310022
+opening_hours: Mo-Fr 08:30-17:30
+website: https://www.mrtyre.com/branches/boston

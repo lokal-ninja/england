@@ -1,11 +1,11 @@
 id: 197695799
-type: way
+type: node
 latitude: 51.54438
 longitude: -0.08919
-postcode: "N1 3PD"
+postcode: N1 3PD
 city: London
-street: "Essex Road"
-housenumber: 360
+street: Essex Road
+housenumber: "360"
 phone: ""
 opening_hours: ""
 website: ""

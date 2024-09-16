@@ -1,11 +1,11 @@
 id: 992787545
-type: way
+type: node
 latitude: 52.07479
 longitude: -0.24481
-postcode: "SG18 8NE"
+postcode: SG18 8NE
 city: Biggleswade
-street: "London Road"
-housenumber: 
+street: London Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 10:30-16:30"
-website: "https://www.hm.com/"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 10:30-16:30
+website: https://www.hm.com/

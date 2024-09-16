@@ -2,10 +2,10 @@ id: 10087528000
 type: node
 latitude: 50.7222
 longitude: -3.53335
-postcode: "EX4 3AX"
+postcode: EX4 3AX
 city: Exeter
-street: "Fore Street"
-housenumber: 176
+street: Fore Street
+housenumber: "176"
 phone: ""
-opening_hours: "Mo-Sa 09:00-17:30; Su 09:45-16:00"
-website: "https://www.ryman.co.uk/storefinder/ryman-exeter/"
+opening_hours: Mo-Sa 09:00-17:30; Su 09:45-16:00
+website: https://www.ryman.co.uk/storefinder/ryman-exeter/

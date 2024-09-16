@@ -1,11 +1,11 @@
 id: 1036505616
-type: way
+type: node
 latitude: 51.29028
 longitude: 1.10013
-postcode: "CT1 1DT"
+postcode: CT1 1DT
 city: Canterbury
-street: "Sturry Road"
-housenumber: 210
-phone: "+44 1227 455196"
-opening_hours: "Mo-Fr 08:30-17:00;Sa 08:30-15:00;Su off"
-website: "https://www.kenttilecentre.co.uk/"
+street: Sturry Road
+housenumber: "210"
+phone: +44 1227 455196
+opening_hours: Mo-Fr 08:30-17:00;Sa 08:30-15:00;Su off
+website: https://www.kenttilecentre.co.uk/

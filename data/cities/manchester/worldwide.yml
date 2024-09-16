@@ -1,11 +1,11 @@
 id: 188335845
-type: way
+type: node
 latitude: 53.45737
 longitude: -2.22733
-postcode: "M14 4AH"
+postcode: M14 4AH
 city: Manchester
-street: "Great Western Street"
-housenumber: 401
+street: Great Western Street
+housenumber: "401"
 phone: ""
 opening_hours: ""
 website: ""

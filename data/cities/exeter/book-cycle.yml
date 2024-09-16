@@ -2,10 +2,10 @@ id: 10119124018
 type: node
 latitude: 50.71979
 longitude: -3.53451
-postcode: "EX1 1BB"
+postcode: EX1 1BB
 city: Exeter
-street: "West Street"
-housenumber: 7
+street: West Street
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "https://www.book-cycle.org"
+website: https://www.book-cycle.org

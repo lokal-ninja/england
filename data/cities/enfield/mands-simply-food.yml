@@ -1,11 +1,11 @@
 id: 142269138
-type: way
+type: node
 latitude: 51.64802
 longitude: -0.02973
-postcode: "EN3 7UA"
+postcode: EN3 7UA
 city: Enfield
-street: "Jeffreys Road"
-housenumber: 125
+street: Jeffreys Road
+housenumber: "125"
 phone: ""
-opening_hours: "Mo-Su 00:00-24:00"
+opening_hours: Mo-Su 00:00-24:00
 website: ""

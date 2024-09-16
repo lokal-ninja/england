@@ -1,11 +1,11 @@
 id: 515246207
-type: way
+type: node
 latitude: 50.35108
 longitude: -3.57799
-postcode: "TQ6 9PS"
+postcode: TQ6 9PS
 city: Dartmouth
-street: "The Quay"
-housenumber: 3
+street: The Quay
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://reefknots.com/"
+website: https://reefknots.com/

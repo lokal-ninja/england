@@ -1,11 +1,11 @@
 id: 385277886
-type: way
+type: node
 latitude: 53.83754
 longitude: -1.64153
-postcode: "LS18 5LJ"
+postcode: LS18 5LJ
 city: Leeds
-street: "Town Street"
-housenumber: 29
-phone: "+44 113 258 5761"
-opening_hours: "Mo-Sa 09:00-17:00"
+street: Town Street
+housenumber: "29"
+phone: +44 113 258 5761
+opening_hours: Mo-Sa 09:00-17:00
 website: ""

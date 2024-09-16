@@ -1,11 +1,11 @@
 id: 1176713704
-type: way
+type: node
 latitude: 53.40786
 longitude: -2.98925
-postcode: "L2 2HF"
+postcode: L2 2HF
 city: Liverpool
-street: "Dale Street"
-housenumber: 33
+street: Dale Street
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

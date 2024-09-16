@@ -1,11 +1,11 @@
 id: 1146462446
-type: way
+type: node
 latitude: 53.36477
 longitude: -1.43526
-postcode: "S2 1GJ"
+postcode: S2 1GJ
 city: Sheffield
-street: "City Road"
-housenumber: 716
-phone: "+44 114 239 0514"
-opening_hours: "Mo,Th,Fr 09:00-18:00; Tu,We,Sa 09:00-17:00; Su 10:00-16:00"
+street: City Road
+housenumber: "716"
+phone: +44 114 239 0514
+opening_hours: Mo,Th,Fr 09:00-18:00; Tu,We,Sa 09:00-17:00; Su 10:00-16:00
 website: ""

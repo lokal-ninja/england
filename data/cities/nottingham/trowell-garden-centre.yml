@@ -1,11 +1,11 @@
 id: 50250067
-type: way
+type: node
 latitude: 52.94977
 longitude: -1.27246
-postcode: "NG9 3TG"
+postcode: NG9 3TG
 city: Nottingham
-street: "Stapleford Road"
-housenumber: 
+street: Stapleford Road
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://trowellgardencentre.co.uk/"
+website: https://trowellgardencentre.co.uk/

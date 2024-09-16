@@ -1,11 +1,11 @@
 id: 1109765978
-type: way
+type: node
 latitude: 51.4678
 longitude: -0.22055
-postcode: "SW15 1LL"
+postcode: SW15 1LL
 city: London
-street: "Lower Richmond Road"
-housenumber: 68
+street: Lower Richmond Road
+housenumber: "68"
 phone: ""
 opening_hours: ""
 website: ""

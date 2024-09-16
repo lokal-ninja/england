@@ -1,11 +1,11 @@
 id: 605724751
-type: way
+type: node
 latitude: 52.06131
 longitude: 1.18645
-postcode: "IP4 4NN"
+postcode: IP4 4NN
 city: Ipswich
-street: "Woodbridge Road"
-housenumber: 785
+street: Woodbridge Road
+housenumber: "785"
 phone: "+441473805480"
 opening_hours: ""
 website: ""

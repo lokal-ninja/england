@@ -1,11 +1,11 @@
 id: 320462319
-type: way
+type: node
 latitude: 52.89665
 longitude: -1.26414
-postcode: "NG10 2DF"
+postcode: NG10 2DF
 city: Nottingham
-street: "Station Road"
-housenumber: 35
+street: Station Road
+housenumber: "35"
 phone: ""
 opening_hours: ""
 website: ""

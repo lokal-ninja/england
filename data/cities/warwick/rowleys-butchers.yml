@@ -1,11 +1,11 @@
 id: 256578840
-type: way
+type: node
 latitude: 52.28126
 longitude: -1.59009
-postcode: "CV34 4BL"
+postcode: CV34 4BL
 city: Warwick
-street: "Brook Street"
-housenumber: 49
+street: Brook Street
+housenumber: "49"
 phone: ""
 opening_hours: ""
-website: "https://rowleysbutchers.com/"
+website: https://rowleysbutchers.com/

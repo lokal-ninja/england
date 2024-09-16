@@ -1,11 +1,11 @@
 id: 312685385
-type: way
+type: node
 latitude: 51.41467
 longitude: -1.51547
-postcode: "RG17 0LU"
+postcode: RG17 0LU
 city: Hungerford
-street: "High Street"
-housenumber: 115
-phone: "+44 1488 680692"
+street: High Street
+housenumber: "115"
+phone: +44 1488 680692
 opening_hours: ""
 website: ""

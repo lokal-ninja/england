@@ -1,11 +1,11 @@
 id: 95832067
-type: way
+type: node
 latitude: 52.99145
 longitude: -1.16771
-postcode: "NG5 5HB"
+postcode: NG5 5HB
 city: Nottingham
-street: "Arnold Road"
-housenumber: 244
+street: Arnold Road
+housenumber: "244"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.coop.co.uk/store-finder/NG5-5HB/244-arnold-road"
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.coop.co.uk/store-finder/NG5-5HB/244-arnold-road

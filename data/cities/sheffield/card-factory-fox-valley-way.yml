@@ -1,11 +1,11 @@
 id: 1049142673
-type: way
+type: node
 latitude: 53.48215
 longitude: -1.58629
-postcode: "S36 2AD"
+postcode: S36 2AD
 city: Sheffield
-street: "Fox Valley Way"
-housenumber: 4
+street: Fox Valley Way
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

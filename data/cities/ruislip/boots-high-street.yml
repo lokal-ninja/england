@@ -1,11 +1,11 @@
 id: 967688445
-type: way
+type: node
 latitude: 51.57442
 longitude: -0.42457
-postcode: "HA4 8JB"
+postcode: HA4 8JB
 city: Ruislip
-street: "High Street"
-housenumber: 67
+street: High Street
+housenumber: "67"
 phone: ""
 opening_hours: ""
 website: ""

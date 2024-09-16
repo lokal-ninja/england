@@ -1,11 +1,11 @@
 id: 379568890
-type: way
+type: node
 latitude: 54.63668
 longitude: -1.6986
-postcode: "DL14 9AD"
+postcode: DL14 9AD
 city: Bishop Auckland
 street: ""
-housenumber: 
-phone: "+44 1388 660 300"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-12:00"
-website: "https://www.lloyd.ltd.uk/"
+housenumber: ""
+phone: +44 1388 660 300
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-12:00
+website: https://www.lloyd.ltd.uk/

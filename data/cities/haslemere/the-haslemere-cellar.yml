@@ -1,11 +1,11 @@
 id: 133739763
-type: way
+type: node
 latitude: 51.08874
 longitude: -0.70966
-postcode: "GU27 2AB"
+postcode: GU27 2AB
 city: Haslemere
-street: "West Street"
-housenumber: 16
+street: West Street
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

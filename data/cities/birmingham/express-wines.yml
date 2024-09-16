@@ -1,11 +1,11 @@
 id: 140911148
-type: way
+type: node
 latitude: 52.53354
 longitude: -1.82984
-postcode: "B23 5TE"
+postcode: B23 5TE
 city: Birmingham
-street: "Chester Road"
-housenumber: 714
+street: Chester Road
+housenumber: "714"
 phone: ""
 opening_hours: ""
 website: ""

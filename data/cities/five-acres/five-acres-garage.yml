@@ -1,11 +1,11 @@
 id: 1235487529
-type: way
+type: node
 latitude: 51.80761
 longitude: -2.60989
-postcode: "GL16 7QN"
+postcode: GL16 7QN
 city: Five Acres
-street: "Lower Lane"
-housenumber: 
+street: Lower Lane
+housenumber: ""
 phone: "+441594833517"
-opening_hours: "Mo-Sa 08:30-18:00; Sa 08:30-16:30; PH 11:00-16:00"
-website: "https://www.fiveacresgarage.co.uk/"
+opening_hours: Mo-Sa 08:30-18:00; Sa 08:30-16:30; PH 11:00-16:00
+website: https://www.fiveacresgarage.co.uk/

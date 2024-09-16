@@ -1,11 +1,11 @@
 id: 354395224
-type: way
+type: node
 latitude: 51.46658
 longitude: -2.56892
-postcode: "BS5 0NW"
+postcode: BS5 0NW
 city: Bristol
-street: "Stapleton Road"
-housenumber: 274
+street: Stapleton Road
+housenumber: "274"
 phone: ""
 opening_hours: ""
 website: ""

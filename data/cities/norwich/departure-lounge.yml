@@ -1,11 +1,11 @@
 id: 190708486
-type: way
+type: node
 latitude: 52.62831
 longitude: 1.30407
-postcode: "NR1 1DW"
+postcode: NR1 1DW
 city: Norwich
-street: "Prince of Wales Road"
-housenumber: 99
+street: Prince of Wales Road
+housenumber: "99"
 phone: ""
-opening_hours: "Mo-Fr 07:30-16:00"
+opening_hours: Mo-Fr 07:30-16:00
 website: ""

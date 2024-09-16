@@ -1,11 +1,11 @@
 id: 837408793
-type: way
+type: node
 latitude: 51.51804
 longitude: -0.07927
 postcode: ""
 city: London
-street: "Middlesex Street"
-housenumber: 133
+street: Middlesex Street
+housenumber: "133"
 phone: ""
 opening_hours: ""
 website: ""

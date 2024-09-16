@@ -1,11 +1,11 @@
 id: 241729866
-type: way
+type: node
 latitude: 52.90154
 longitude: -1.50525
-postcode: "DE23 6GT"
+postcode: DE23 6GT
 city: Derby
-street: "Brayfield Road"
-housenumber: 55
+street: Brayfield Road
+housenumber: "55"
 phone: ""
 opening_hours: ""
 website: ""

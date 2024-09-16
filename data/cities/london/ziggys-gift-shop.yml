@@ -1,11 +1,11 @@
 id: 913318929
-type: way
+type: node
 latitude: 51.60774
 longitude: -0.00157
-postcode: "E4 9BW"
+postcode: E4 9BW
 city: London
-street: "Signal Walk"
-housenumber: 3
+street: Signal Walk
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

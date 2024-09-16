@@ -1,11 +1,11 @@
 id: 128925814
-type: way
+type: node
 latitude: 51.44903
 longitude: -2.57403
-postcode: "BS2 0SE"
+postcode: BS2 0SE
 city: Bristol
-street: "Feeder Road"
-housenumber: 36
+street: Feeder Road
+housenumber: "36"
 phone: ""
 opening_hours: ""
 website: ""

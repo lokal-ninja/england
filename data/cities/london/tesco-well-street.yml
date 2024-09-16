@@ -1,11 +1,11 @@
 id: 273181996
-type: way
+type: node
 latitude: 51.5433
 longitude: -0.04759
-postcode: "E9 6QU"
+postcode: E9 6QU
 city: London
-street: "Well Street"
-housenumber: 180
+street: Well Street
+housenumber: "180"
 phone: ""
-opening_hours: "Mo-Sa 06:00-23:00; Su 10:00-16:00"
+opening_hours: Mo-Sa 06:00-23:00; Su 10:00-16:00
 website: ""

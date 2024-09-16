@@ -1,11 +1,11 @@
 id: 1123762793
-type: way
+type: node
 latitude: 51.48289
 longitude: 0.14686
-postcode: "DA17 5JE"
+postcode: DA17 5JE
 city: Belvedere
-street: "Nuxley Road"
-housenumber: 25
+street: Nuxley Road
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.45558
 longitude: -0.15804
 postcode: ""
 city: London
-street: "Alfriston Road"
-housenumber: 99
+street: Alfriston Road
+housenumber: "99"
 phone: ""
 opening_hours: ""
-website: "https://www.londis.co.uk/our-stores/alfriston-post-office"
+website: https://www.londis.co.uk/our-stores/alfriston-post-office

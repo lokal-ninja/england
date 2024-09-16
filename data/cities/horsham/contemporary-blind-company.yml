@@ -2,10 +2,10 @@ id: 2968699563
 type: node
 latitude: 51.06139
 longitude: -0.32496
-postcode: "RH12 1HR"
+postcode: RH12 1HR
 city: Horsham
-street: "East Street"
-housenumber: 53
+street: East Street
+housenumber: "53"
 phone: ""
 opening_hours: ""
 website: ""

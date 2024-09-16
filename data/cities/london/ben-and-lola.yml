@@ -1,11 +1,11 @@
 id: 1011245213
-type: way
+type: node
 latitude: 51.46388
 longitude: -0.21621
-postcode: "SW15 1TW"
+postcode: SW15 1TW
 city: London
-street: "Putney High Street"
-housenumber: 
+street: Putney High Street
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://benandlola.com/"
+website: https://benandlola.com/

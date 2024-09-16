@@ -1,11 +1,11 @@
 id: 1126732407
-type: way
+type: node
 latitude: 50.99297
 longitude: -1.75198
-postcode: "SP5 3LX"
+postcode: SP5 3LX
 city: Downton, Salisbury
-street: "The Borough"
-housenumber: 53
+street: The Borough
+housenumber: "53"
 phone: "+441725512058"
 opening_hours: ""
 website: ""

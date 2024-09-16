@@ -1,11 +1,11 @@
 id: 1017434259
-type: way
+type: node
 latitude: 53.31719
 longitude: -0.93902
-postcode: "DN22 6DS"
+postcode: DN22 6DS
 city: Retford
-street: "London Road"
-housenumber: 
+street: London Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su 10:00-16:00"
-website: "https://www.lidl.co.uk/s/en-GB/store-finder/retford/london-road/"
+opening_hours: Mo-Sa 08:00-20:00; Su 10:00-16:00
+website: https://www.lidl.co.uk/s/en-GB/store-finder/retford/london-road/

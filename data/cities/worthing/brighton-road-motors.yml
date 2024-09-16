@@ -1,11 +1,11 @@
 id: 998760247
-type: way
+type: node
 latitude: 50.81251
 longitude: -0.35784
-postcode: "BN11 2EN"
+postcode: BN11 2EN
 city: Worthing
-street: "Brighton Road"
-housenumber: 102
+street: Brighton Road
+housenumber: "102"
 phone: ""
 opening_hours: ""
 website: ""

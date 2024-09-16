@@ -1,11 +1,11 @@
 id: 1072571806
-type: way
+type: node
 latitude: 51.51304
 longitude: -0.13131
-postcode: "W1D 5JN"
+postcode: W1D 5JN
 city: London
-street: "Old Compton Street"
-housenumber: 25
+street: Old Compton Street
+housenumber: "25"
 phone: ""
 opening_hours: ""
-website: "https://www.cafedenata.com/"
+website: https://www.cafedenata.com/

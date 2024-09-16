@@ -1,11 +1,11 @@
 id: 992787547
-type: way
+type: node
 latitude: 52.07534
 longitude: -0.24447
-postcode: "SG18 8PS"
+postcode: SG18 8PS
 city: Biggleswade
-street: "London Road"
-housenumber: 
-phone: "+44 1767 318065"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:30-16:30"
+street: London Road
+housenumber: ""
+phone: +44 1767 318065
+opening_hours: Mo-Sa 09:00-20:00; Su 10:30-16:30
 website: ""

@@ -1,11 +1,11 @@
 id: 164241244
-type: way
+type: node
 latitude: 51.52605
 longitude: -0.08248
-postcode: "EC2A 3DU"
+postcode: EC2A 3DU
 city: London
-street: "Rivington Street"
-housenumber: 14
+street: Rivington Street
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

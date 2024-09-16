@@ -1,11 +1,11 @@
 id: 1213287689
-type: way
+type: node
 latitude: 50.60855
 longitude: -2.45551
-postcode: "DT4 8EQ"
+postcode: DT4 8EQ
 city: Weymouth
-street: "St Nicholas Street"
-housenumber: 61
+street: St Nicholas Street
+housenumber: "61"
 phone: ""
 opening_hours: ""
 website: ""

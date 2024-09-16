@@ -1,11 +1,11 @@
 id: 470074295
-type: way
+type: node
 latitude: 52.40862
 longitude: -0.71667
-postcode: "NN16 9PT"
+postcode: NN16 9PT
 city: Kettering
-street: "Cedar Road"
-housenumber: 4
+street: Cedar Road
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

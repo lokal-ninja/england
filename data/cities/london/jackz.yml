@@ -1,11 +1,11 @@
 id: 589059080
-type: way
+type: node
 latitude: 51.4696
 longitude: -0.09694
-postcode: "SE5 9PU"
+postcode: SE5 9PU
 city: London
-street: "Coldharbour Lane"
-housenumber: 94
+street: Coldharbour Lane
+housenumber: "94"
 phone: ""
 opening_hours: ""
 website: ""

@@ -2,10 +2,10 @@ id: 1890241982
 type: node
 latitude: 52.18715
 longitude: 0.17348
-postcode: "CB1 9HX"
+postcode: CB1 9HX
 city: Cambridge
-street: "High Street"
-housenumber: 41
-phone: "+44 1223 412604"
+street: High Street
+housenumber: "41"
+phone: +44 1223 412604
 opening_hours: ""
-website: "https://www.each.org.uk/"
+website: https://www.each.org.uk/

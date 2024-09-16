@@ -1,11 +1,11 @@
 id: 696102705
-type: way
+type: node
 latitude: 53.74306
 longitude: -0.34665
-postcode: "HU1 2PG"
+postcode: HU1 2PG
 city: Hull
-street: "Anlaby Road"
-housenumber: 45
+street: Anlaby Road
+housenumber: "45"
 phone: ""
 opening_hours: ""
 website: ""

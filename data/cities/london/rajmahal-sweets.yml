@@ -1,11 +1,11 @@
 id: 268479463
-type: way
+type: node
 latitude: 51.51923
 longitude: -0.0719
-postcode: "E1 6PU"
+postcode: E1 6PU
 city: London
-street: "Brick Lane"
-housenumber: 57
+street: Brick Lane
+housenumber: "57"
 phone: ""
 opening_hours: ""
 website: ""

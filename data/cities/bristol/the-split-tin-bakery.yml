@@ -1,11 +1,11 @@
 id: 277906402
-type: way
+type: node
 latitude: 51.47793
 longitude: -2.60751
-postcode: "BS6 7SL"
+postcode: BS6 7SL
 city: Bristol
-street: "Coldharbour Road"
-housenumber: 118
-phone: "+44 117 942 2764"
-opening_hours: "Mo-Fr 06:30-16:00; Sa 07:00-15:00"
+street: Coldharbour Road
+housenumber: "118"
+phone: +44 117 942 2764
+opening_hours: Mo-Fr 06:30-16:00; Sa 07:00-15:00
 website: ""

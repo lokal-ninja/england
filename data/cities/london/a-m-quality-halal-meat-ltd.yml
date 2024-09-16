@@ -1,11 +1,11 @@
 id: 322145261
-type: way
+type: node
 latitude: 51.46232
 longitude: -0.11275
-postcode: "SW9 8JW"
+postcode: SW9 8JW
 city: London
-street: "Atlantic Road"
-housenumber: 32
+street: Atlantic Road
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

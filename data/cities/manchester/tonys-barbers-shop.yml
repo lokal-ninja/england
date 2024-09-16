@@ -1,11 +1,11 @@
 id: 482327445
-type: way
+type: node
 latitude: 53.44275
 longitude: -2.19047
-postcode: "M19 3PG"
+postcode: M19 3PG
 city: Manchester
-street: "Stockport Road"
-housenumber: 913
+street: Stockport Road
+housenumber: "913"
 phone: ""
-opening_hours: "Th-Sa"
-website: "https://www.tonysbarbers.co.uk/"
+opening_hours: Th-Sa
+website: https://www.tonysbarbers.co.uk/

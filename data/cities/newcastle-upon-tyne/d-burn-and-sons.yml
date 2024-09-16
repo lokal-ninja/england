@@ -1,11 +1,11 @@
 id: 414966404
-type: way
+type: node
 latitude: 54.97771
 longitude: -1.57747
-postcode: "NE6 1DQ"
+postcode: NE6 1DQ
 city: Newcastle upon Tyne
-street: "Shields Road"
-housenumber: 213
-phone: "+44 191 2761458"
-opening_hours: "Mo-Sa 07:00-17:00"
+street: Shields Road
+housenumber: "213"
+phone: +44 191 2761458
+opening_hours: Mo-Sa 07:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 1116577913
-type: way
+type: node
 latitude: 53.39348
 longitude: -1.43272
-postcode: "S9 3RD"
+postcode: S9 3RD
 city: Sheffield
-street: "Attercliffe Road"
-housenumber: 627
+street: Attercliffe Road
+housenumber: "627"
 phone: ""
 opening_hours: ""
 website: ""

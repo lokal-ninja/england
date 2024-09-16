@@ -1,11 +1,11 @@
 id: 402979493
-type: way
+type: node
 latitude: 51.45957
 longitude: -2.55044
-postcode: "BS5 8AD"
+postcode: BS5 8AD
 city: Bristol
-street: "Church Road"
-housenumber: 200
+street: Church Road
+housenumber: "200"
 phone: ""
 opening_hours: ""
 website: ""

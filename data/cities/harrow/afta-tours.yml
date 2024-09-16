@@ -1,11 +1,11 @@
 id: 244764985
-type: way
+type: node
 latitude: 51.58118
 longitude: -0.3179
 postcode: ""
 city: Harrow
-street: "Kenton Road"
-housenumber: 111
-phone: "+44 20 8561 0610"
+street: Kenton Road
+housenumber: "111"
+phone: +44 20 8561 0610
 opening_hours: ""
-website: "https://www.aftatours.com/"
+website: https://www.aftatours.com/

@@ -1,11 +1,11 @@
 id: 710535294
-type: way
+type: node
 latitude: 50.94012
 longitude: -2.75668
-postcode: "TA14 6SG"
+postcode: TA14 6SG
 city: Stoke-sub-Hamdon
-street: "Great Street"
-housenumber: 
+street: Great Street
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-18:00"
+opening_hours: Mo-Sa 08:00-18:00
 website: ""

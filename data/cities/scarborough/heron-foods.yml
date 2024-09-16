@@ -1,11 +1,11 @@
 id: 308668080
-type: way
+type: node
 latitude: 54.28296
 longitude: -0.39923
-postcode: "YO11 1ET"
+postcode: YO11 1ET
 city: Scarborough
-street: "Newborough"
-housenumber: 71
+street: Newborough
+housenumber: "71"
 phone: ""
-opening_hours: "Mo-Sa 08:00-19:00; Su 09:00-17:00"
+opening_hours: Mo-Sa 08:00-19:00; Su 09:00-17:00
 website: ""

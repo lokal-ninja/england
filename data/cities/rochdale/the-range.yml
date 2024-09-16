@@ -1,11 +1,11 @@
 id: 522075195
-type: way
+type: node
 latitude: 53.61563
 longitude: -2.12872
-postcode: "OL16 5AF"
+postcode: OL16 5AF
 city: Rochdale
-street: "Wallhead Road"
-housenumber: 
-phone: "+44 1706 347940"
-opening_hours: "Mo-Sa 08:00-20:00; Su 10:30-16:30"
-website: "https://www.therange.co.uk/stores/rochdale"
+street: Wallhead Road
+housenumber: ""
+phone: +44 1706 347940
+opening_hours: Mo-Sa 08:00-20:00; Su 10:30-16:30
+website: https://www.therange.co.uk/stores/rochdale

@@ -1,11 +1,11 @@
 id: 583359796
-type: way
+type: node
 latitude: 53.19119
 longitude: -2.89191
-postcode: "CH1 2HA"
+postcode: CH1 2HA
 city: Chester
-street: "Northgate Street"
-housenumber: 29
+street: Northgate Street
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

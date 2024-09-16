@@ -2,10 +2,10 @@ id: 5633797133
 type: node
 latitude: 52.23759
 longitude: -0.89321
-postcode: "NN1 2AA"
+postcode: NN1 2AA
 city: Northampton
-street: "Fish Street"
-housenumber: 24
+street: Fish Street
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

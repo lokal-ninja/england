@@ -1,11 +1,11 @@
 id: 939236062
-type: way
+type: node
 latitude: 53.70865
 longitude: -1.25566
 postcode: ""
 city: Knottingley
-street: "Hill Top"
-housenumber: 13
-phone: "+44 7976 403867"
-opening_hours: "Mo-Sa 10:00-18:00; Su 11:00-15:00"
+street: Hill Top
+housenumber: "13"
+phone: +44 7976 403867
+opening_hours: Mo-Sa 10:00-18:00; Su 11:00-15:00
 website: ""

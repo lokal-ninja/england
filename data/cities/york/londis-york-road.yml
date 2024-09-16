@@ -1,11 +1,11 @@
 id: 313841577
-type: way
+type: node
 latitude: 53.87414
 longitude: -0.70174
-postcode: "YO43 3PN"
+postcode: YO43 3PN
 city: York
-street: "York Road"
-housenumber: 
+street: York Road
+housenumber: ""
 phone: ""
-opening_hours: "00:00-24:00"
+opening_hours: 00:00-24:00
 website: ""

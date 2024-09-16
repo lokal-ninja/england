@@ -1,11 +1,11 @@
 id: 478985332
-type: way
+type: node
 latitude: 52.6132
 longitude: -1.98977
-postcode: "WS3 1LJ"
+postcode: WS3 1LJ
 city: Walsall
-street: "Chapel Street"
-housenumber: 23
+street: Chapel Street
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Sa 07:00-23:00; Su 08:00-22:30"
+opening_hours: Mo-Sa 07:00-23:00; Su 08:00-22:30
 website: ""

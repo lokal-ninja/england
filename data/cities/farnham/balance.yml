@@ -1,11 +1,11 @@
 id: 487059324
-type: way
+type: node
 latitude: 51.21261
 longitude: -0.79326
-postcode: "GU9 8AA"
+postcode: GU9 8AA
 city: Farnham
-street: "Station Hill"
-housenumber: 2
+street: Station Hill
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

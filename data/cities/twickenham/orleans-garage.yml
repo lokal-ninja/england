@@ -1,11 +1,11 @@
 id: 707876200
-type: way
+type: node
 latitude: 51.45014
 longitude: -0.32212
-postcode: "TW1 3AW"
+postcode: TW1 3AW
 city: Twickenham
-street: "Richmond Road"
-housenumber: 93
+street: Richmond Road
+housenumber: "93"
 phone: ""
 opening_hours: ""
 website: ""

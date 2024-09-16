@@ -1,11 +1,11 @@
 id: 472840951
-type: way
+type: node
 latitude: 51.11546
 longitude: -0.18639
-postcode: "RH10 1HA"
+postcode: RH10 1HA
 city: Crawley
-street: "Queens Square"
-housenumber: 
+street: Queens Square
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00; Su 11:00-17:00"
-website: "https://www.decathlon.co.uk/"
+opening_hours: Mo-Sa 09:00-20:00; Su 11:00-17:00
+website: https://www.decathlon.co.uk/

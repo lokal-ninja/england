@@ -1,11 +1,11 @@
 id: 1027127841
-type: way
+type: node
 latitude: 53.45272
 longitude: -2.51897
-postcode: "WA3 4EG"
+postcode: WA3 4EG
 city: Warrington
-street: "Common Lane"
-housenumber: 2
+street: Common Lane
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.coop.co.uk/store-finder/WA3-4EG/2-common-lane"
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.coop.co.uk/store-finder/WA3-4EG/2-common-lane

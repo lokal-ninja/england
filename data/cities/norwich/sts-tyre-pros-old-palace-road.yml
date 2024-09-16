@@ -1,11 +1,11 @@
 id: 137702361
-type: way
+type: node
 latitude: 52.63413
 longitude: 1.27833
-postcode: "NR2 4JE"
+postcode: NR2 4JE
 city: Norwich
-street: "Old Palace Road"
-housenumber: 15
-phone: "+44 1603 614940"
+street: Old Palace Road
+housenumber: "15"
+phone: +44 1603 614940
 opening_hours: ""
-website: "https://www.tyrepros.co.uk/our-centres"
+website: https://www.tyrepros.co.uk/our-centres

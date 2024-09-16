@@ -1,11 +1,11 @@
 id: 911052180
-type: way
+type: node
 latitude: 52.9707
 longitude: -2.05442
 postcode: ""
 city: Stoke-on-Trent
-street: "Cheadle Road"
-housenumber: 42
+street: Cheadle Road
+housenumber: "42"
 phone: ""
 opening_hours: ""
 website: ""

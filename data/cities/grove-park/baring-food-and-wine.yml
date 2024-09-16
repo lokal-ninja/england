@@ -1,11 +1,11 @@
 id: 1306445180
-type: way
+type: node
 latitude: 51.44366
 longitude: 0.01489
 postcode: ""
 city: Grove Park
-street: "Baring Road"
-housenumber: 54
+street: Baring Road
+housenumber: "54"
 phone: ""
 opening_hours: ""
 website: ""

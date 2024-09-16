@@ -1,11 +1,11 @@
 id: 200223462
-type: way
+type: node
 latitude: 51.48935
 longitude: -2.54003
-postcode: "BS16 1YT"
+postcode: BS16 1YT
 city: Bristol
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

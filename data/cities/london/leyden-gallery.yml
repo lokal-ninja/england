@@ -1,5 +1,5 @@
 id: 161720548
-type: way
+type: node
 latitude: 51.51694
 longitude: -0.07617
 postcode: ""
@@ -8,4 +8,4 @@ street: ""
 housenumber: 9A
 phone: ""
 opening_hours: ""
-website: "https://leydengallery.com/"
+website: https://leydengallery.com/

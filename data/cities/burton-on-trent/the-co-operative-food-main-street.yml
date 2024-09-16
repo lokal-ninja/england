@@ -1,11 +1,11 @@
 id: 273949084
-type: way
+type: node
 latitude: 52.73258
 longitude: -1.74552
-postcode: "DE13 7AE"
+postcode: DE13 7AE
 city: Burton-on-Trent
-street: "Main Street"
-housenumber: 43
+street: Main Street
+housenumber: "43"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://stores.centralengland.coop/staffordshire/burton-on-trent/41-43-main-street"
+opening_hours: Mo-Su 07:00-22:00
+website: https://stores.centralengland.coop/staffordshire/burton-on-trent/41-43-main-street

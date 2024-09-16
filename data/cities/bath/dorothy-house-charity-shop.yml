@@ -1,11 +1,11 @@
 id: 164651994
-type: way
+type: node
 latitude: 51.37752
 longitude: -2.37931
-postcode: "BA2 3PL"
+postcode: BA2 3PL
 city: Bath
-street: "Moorland Road"
-housenumber: 15
+street: Moorland Road
+housenumber: "15"
 phone: ""
-opening_hours: "Su 10:00-16:00; Mo-Sa 09:00-17:00"
-website: "https://www.dorothyhouse.org.uk/shops/bath-moorland-road/"
+opening_hours: Su 10:00-16:00; Mo-Sa 09:00-17:00
+website: https://www.dorothyhouse.org.uk/shops/bath-moorland-road/

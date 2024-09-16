@@ -2,10 +2,10 @@ id: 4392553746
 type: node
 latitude: 51.441
 longitude: -0.22185
-postcode: "SW19 6DA"
+postcode: SW19 6DA
 city: London
-street: "Inner Park Road"
-housenumber: 90
+street: Inner Park Road
+housenumber: "90"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.coop.co.uk/store-finder/SW19-6DA/90-inner-park-road"
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.coop.co.uk/store-finder/SW19-6DA/90-inner-park-road

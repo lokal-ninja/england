@@ -2,10 +2,10 @@ id: 1526754381
 type: node
 latitude: 52.21131
 longitude: 0.11437
-postcode: "CB3 0AJ"
+postcode: CB3 0AJ
 city: Cambridge
-street: "Castle Street"
-housenumber: 12
+street: Castle Street
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 09:30-18:30"
+opening_hours: Mo-Sa 09:30-18:30
 website: ""

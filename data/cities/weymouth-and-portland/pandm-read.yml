@@ -1,11 +1,11 @@
 id: 529689879
-type: way
-latitude: 50.65315
-longitude: -2.47058
-postcode: "DT3 5LH"
+type: node
+latitude: 50.65316
+longitude: -2.47056
+postcode: DT3 5LH
 city: Weymouth and Portland
-street: "Dorchester Road"
-housenumber: 685
+street: Dorchester Road
+housenumber: "685"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-14:00"
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-14:00
 website: ""

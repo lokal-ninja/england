@@ -1,11 +1,11 @@
 id: 678929421
-type: way
+type: node
 latitude: 51.7634
 longitude: -0.22553
-postcode: "AL10 0JY"
+postcode: AL10 0JY
 city: Hatfield
-street: "The Arcade"
-housenumber: 3
+street: The Arcade
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

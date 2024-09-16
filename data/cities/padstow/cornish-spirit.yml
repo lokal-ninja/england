@@ -1,11 +1,11 @@
 id: 1191574092
-type: way
+type: node
 latitude: 50.54102
 longitude: -4.93942
 postcode: ""
 city: Padstow
-street: "Lanadwell Street"
-housenumber: 9
+street: Lanadwell Street
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

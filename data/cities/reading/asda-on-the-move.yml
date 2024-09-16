@@ -1,11 +1,11 @@
 id: 185533964
-type: way
+type: node
 latitude: 51.40552
 longitude: -0.9446
-postcode: "RG2 9DY"
+postcode: RG2 9DY
 city: Reading
-street: "Arborfield Road"
-housenumber: 
+street: Arborfield Road
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
-website: "https://storelocator.asda.com/south-east/reading/arborfield-road"
+opening_hours: 24/7
+website: https://storelocator.asda.com/south-east/reading/arborfield-road

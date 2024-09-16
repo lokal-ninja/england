@@ -1,11 +1,11 @@
 id: 451361264
-type: way
+type: node
 latitude: 53.66724
 longitude: -1.48717
-postcode: "WF1 5NX"
+postcode: WF1 5NX
 city: Wakefield
-street: "Barnsley Road"
-housenumber: 100
+street: Barnsley Road
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

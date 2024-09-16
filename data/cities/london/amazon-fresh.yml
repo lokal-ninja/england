@@ -2,10 +2,10 @@ id: 2006375680
 type: node
 latitude: 51.51791
 longitude: -0.08444
-postcode: "EC2M 7AW"
+postcode: EC2M 7AW
 city: London
-street: "Blomfield Street"
-housenumber: 35
+street: Blomfield Street
+housenumber: "35"
 phone: ""
 opening_hours: ""
 website: ""

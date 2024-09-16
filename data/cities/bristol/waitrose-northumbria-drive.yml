@@ -1,11 +1,11 @@
 id: 267327528
-type: way
+type: node
 latitude: 51.48062
 longitude: -2.6123
-postcode: "BS9 4HN"
+postcode: BS9 4HN
 city: Bristol
-street: "Northumbria Drive"
-housenumber: 51
+street: Northumbria Drive
+housenumber: "51"
 phone: ""
 opening_hours: ""
-website: "https://www.waitrose.com/find-a-store/westbury-park"
+website: https://www.waitrose.com/find-a-store/westbury-park

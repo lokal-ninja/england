@@ -1,11 +1,11 @@
 id: 156958405
-type: way
+type: node
 latitude: 53.53038
 longitude: -2.15855
-postcode: "OL9 8AU"
+postcode: OL9 8AU
 city: Oldham
-street: "Broadway"
-housenumber: 430
+street: Broadway
+housenumber: "430"
 phone: ""
 opening_hours: ""
-website: "https://www.costco.co.uk/store-finder/Oldham"
+website: https://www.costco.co.uk/store-finder/Oldham

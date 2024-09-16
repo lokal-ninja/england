@@ -1,11 +1,11 @@
 id: 219186104
-type: way
+type: node
 latitude: 50.82266
 longitude: -0.54611
-postcode: "BN17 7LT"
+postcode: BN17 7LT
 city: Littlehampton
-street: "Hawthorn Road"
-housenumber: 
-phone: "+44 1903 716818"
-opening_hours: "Mo-Sa 07:00-22:00; Su 10:00-16:00"
-website: "https://my.morrisons.com/storefinder/630/littlehampton"
+street: Hawthorn Road
+housenumber: ""
+phone: +44 1903 716818
+opening_hours: Mo-Sa 07:00-22:00; Su 10:00-16:00
+website: https://my.morrisons.com/storefinder/630/littlehampton

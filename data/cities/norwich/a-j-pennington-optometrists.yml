@@ -1,11 +1,11 @@
 id: 204899353
-type: way
+type: node
 latitude: 52.63933
 longitude: 1.5486
-postcode: "NR13 3QX"
+postcode: NR13 3QX
 city: Norwich
-street: "The Green"
-housenumber: 
+street: The Green
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

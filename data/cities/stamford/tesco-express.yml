@@ -1,11 +1,11 @@
 id: 187067043
-type: way
+type: node
 latitude: 52.6528
 longitude: -0.47672
-postcode: "PE9 2BD"
+postcode: PE9 2BD
 city: Stamford
-street: "High Street"
-housenumber: 46
+street: High Street
+housenumber: "46"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,12 @@
 id: 34387691
-type: way
+type: node
 latitude: 51.42176
 longitude: -0.20844
-postcode: "SW19 4DP"
+postcode: SW19 4DP
 city: London
-street: "St George's Road"
-housenumber: 16
+street: St George's Road
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-We 09:30-19:00; Th 09:30-20:00; Fr 09:30-19:00; Sa 09:00-19:00; Su 11:00-17:00"
+opening_hours: Mo-We 09:30-19:00; Th 09:30-20:00; Fr 09:30-19:00; Sa 09:00-19:00;
+    Su 11:00-17:00
 website: ""

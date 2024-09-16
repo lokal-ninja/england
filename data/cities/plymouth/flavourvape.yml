@@ -1,11 +1,11 @@
 id: 950375811
-type: way
+type: node
 latitude: 50.37227
 longitude: -4.14474
-postcode: "PL1 1NX"
+postcode: PL1 1NX
 city: Plymouth
-street: "Cornwall Street"
-housenumber: 83
+street: Cornwall Street
+housenumber: "83"
 phone: ""
 opening_hours: ""
 website: ""

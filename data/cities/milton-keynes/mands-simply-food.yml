@@ -2,10 +2,10 @@ id: 410318260
 type: node
 latitude: 52.03483
 longitude: -0.77409
-postcode: "MK9 1BB"
+postcode: MK9 1BB
 city: Milton Keynes
-street: "Elder Gate"
-housenumber: 500
+street: Elder Gate
+housenumber: "500"
 phone: "+441908609840"
-opening_hours: "Mo-Sa 07:00-20:30; Su 00:00-24:00"
-website: "https://www.marksandspencer.com/stores/milton-keynes-rail-simply-food-7113"
+opening_hours: Mo-Sa 07:00-20:30; Su 00:00-24:00
+website: https://www.marksandspencer.com/stores/milton-keynes-rail-simply-food-7113

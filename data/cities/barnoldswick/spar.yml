@@ -1,11 +1,11 @@
 id: 359728100
-type: way
+type: node
 latitude: 53.89583
 longitude: -2.15295
-postcode: "BB18 6TG"
+postcode: BB18 6TG
 city: Barnoldswick
-street: "Colne Road"
-housenumber: 445
+street: Colne Road
+housenumber: "445"
 phone: ""
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.spar.co.uk"
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.spar.co.uk

@@ -1,11 +1,11 @@
 id: 1034475883
-type: way
+type: node
 latitude: 52.42204
 longitude: -1.85548
-postcode: "B28 0BX"
+postcode: B28 0BX
 city: Birmingham
-street: "Highfield Road"
-housenumber: 295
+street: Highfield Road
+housenumber: "295"
 phone: ""
 opening_hours: ""
 website: ""

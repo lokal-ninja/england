@@ -1,11 +1,11 @@
 id: 90527456
-type: way
+type: node
 latitude: 51.73329
 longitude: 0.4747
-postcode: "CM1 1BE"
+postcode: CM1 1BE
 city: Chelmsford
-street: "High Street"
-housenumber: 23
+street: High Street
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Sa 09:00-17:30; Su 10:00-16:30"
-website: "https://www.vodafone.co.uk/"
+opening_hours: Mo-Sa 09:00-17:30; Su 10:00-16:30
+website: https://www.vodafone.co.uk/

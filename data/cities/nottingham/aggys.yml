@@ -1,11 +1,11 @@
 id: 327495162
-type: way
+type: node
 latitude: 53.01405
 longitude: -1.29253
-postcode: "NG16 3EZ"
+postcode: NG16 3EZ
 city: Nottingham
-street: "Dovecote Road"
-housenumber: 22
+street: Dovecote Road
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

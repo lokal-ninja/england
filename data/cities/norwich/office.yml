@@ -1,11 +1,11 @@
 id: 108865876
-type: way
+type: node
 latitude: 52.62603
 longitude: 1.28935
-postcode: "NR2 1SU"
+postcode: NR2 1SU
 city: Norwich
-street: "Merchants' Hall"
-housenumber: 220
+street: Merchants' Hall
+housenumber: "220"
 phone: ""
-opening_hours: "Mo-Sa 09:00-18:00; Su 10:30-16:30"
-website: "https://www.office.co.uk/view/content/storelocator?storename=Office%20Norwich"
+opening_hours: Mo-Sa 09:00-18:00; Su 10:30-16:30
+website: https://www.office.co.uk/view/content/storelocator?storename=Office%20Norwich

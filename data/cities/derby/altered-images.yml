@@ -1,11 +1,11 @@
 id: 312009630
-type: way
+type: node
 latitude: 52.89474
 longitude: -1.33734
-postcode: "DE72 3QB"
+postcode: DE72 3QB
 city: Derby
-street: "Station Road"
-housenumber: 61
-phone: "+44 1332 871666"
-opening_hours: "Tu 09:00-13:00; We 09:00-17:00; Th,Fr 09:00-19:00; Sa 08:00-16:00"
-website: "https://altered-images.business.site/"
+street: Station Road
+housenumber: "61"
+phone: +44 1332 871666
+opening_hours: Tu 09:00-13:00; We 09:00-17:00; Th,Fr 09:00-19:00; Sa 08:00-16:00
+website: https://altered-images.business.site/

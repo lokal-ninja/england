@@ -1,11 +1,11 @@
 id: 1121029549
-type: way
+type: node
 latitude: 50.86856
 longitude: -1.04399
 postcode: ""
 city: Waterlooville
-street: "London Road"
-housenumber: 74
-phone: "+44 23 9226 1077"
+street: London Road
+housenumber: "74"
+phone: +44 23 9226 1077
 opening_hours: ""
-website: "https://www.roadracer-purbrook.co.uk/"
+website: https://www.roadracer-purbrook.co.uk/

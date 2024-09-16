@@ -1,11 +1,11 @@
 id: 374832866
-type: way
+type: node
 latitude: 51.24241
 longitude: -0.20464
-postcode: "RH2 0BA"
+postcode: RH2 0BA
 city: Reigate
-street: "Holmesdale Road"
-housenumber: 5
-phone: "+44 1737 242942"
+street: Holmesdale Road
+housenumber: "5"
+phone: +44 1737 242942
 opening_hours: ""
 website: ""

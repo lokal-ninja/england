@@ -1,11 +1,11 @@
 id: 510963931
-type: way
+type: node
 latitude: 53.80431
 longitude: -1.61394
-postcode: "LS12 2RF"
+postcode: LS12 2RF
 city: Leeds
-street: "Stanningley Road"
-housenumber: 148
+street: Stanningley Road
+housenumber: "148"
 phone: ""
 opening_hours: ""
 website: ""

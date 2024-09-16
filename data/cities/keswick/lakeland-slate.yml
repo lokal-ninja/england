@@ -1,11 +1,11 @@
 id: 427890641
-type: way
+type: node
 latitude: 54.60001
 longitude: -3.13647
 postcode: ""
 city: Keswick
-street: "Lake Road"
-housenumber: 
+street: Lake Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-We,Fr 09:30-17:00; Su 10:00-16:00; Th,Sa off"
+opening_hours: Mo-We,Fr 09:30-17:00; Su 10:00-16:00; Th,Sa off
 website: ""

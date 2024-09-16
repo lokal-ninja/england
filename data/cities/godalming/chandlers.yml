@@ -1,11 +1,11 @@
 id: 598645780
-type: way
+type: node
 latitude: 51.18572
 longitude: -0.61191
-postcode: "GU7 1DY"
+postcode: GU7 1DY
 city: Godalming
-street: "High Street"
-housenumber: 40
+street: High Street
+housenumber: "40"
 phone: ""
 opening_hours: ""
 website: ""

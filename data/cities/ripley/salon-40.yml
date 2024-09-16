@@ -1,11 +1,11 @@
 id: 1026807863
-type: way
+type: node
 latitude: 53.05032
 longitude: -1.40452
-postcode: "DE5 3JF"
+postcode: DE5 3JF
 city: Ripley
-street: "Grosvenor Road"
-housenumber: 40
+street: Grosvenor Road
+housenumber: "40"
 phone: ""
 opening_hours: ""
 website: ""

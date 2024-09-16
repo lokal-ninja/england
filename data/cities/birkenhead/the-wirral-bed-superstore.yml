@@ -1,11 +1,11 @@
 id: 235492895
-type: way
+type: node
 latitude: 53.39649
 longitude: -3.01783
-postcode: "CH41 1BJ"
+postcode: CH41 1BJ
 city: Birkenhead
-street: "Lord Street"
-housenumber: 5
+street: Lord Street
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

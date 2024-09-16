@@ -2,10 +2,10 @@ id: 9560677034
 type: node
 latitude: 52.16428
 longitude: -2.887
-postcode: "HR4 8QE"
+postcode: HR4 8QE
 city: Hereford
-street: "Whitehill Park Industrial Estate"
-housenumber: 
+street: Whitehill Park Industrial Estate
+housenumber: ""
 phone: ""
-opening_hours: "by appointment"
-website: "https://www.blindspares.net/"
+opening_hours: '"by appointment"'
+website: https://www.blindspares.net/

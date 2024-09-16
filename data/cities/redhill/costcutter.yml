@@ -1,11 +1,11 @@
 id: 296684531
-type: way
+type: node
 latitude: 51.21376
 longitude: -0.1699
-postcode: "RH1 5AL"
+postcode: RH1 5AL
 city: Redhill
-street: "Horley Road"
-housenumber: 63
+street: Horley Road
+housenumber: "63"
 phone: ""
 opening_hours: ""
 website: ""

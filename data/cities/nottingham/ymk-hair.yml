@@ -1,11 +1,11 @@
 id: 275138652
-type: way
+type: node
 latitude: 52.95529
 longitude: -1.22315
-postcode: "NG8 2BE"
+postcode: NG8 2BE
 city: Nottingham
-street: "Russell Drive"
-housenumber: 160
+street: Russell Drive
+housenumber: "160"
 phone: ""
 opening_hours: ""
 website: ""

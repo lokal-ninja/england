@@ -1,11 +1,11 @@
 id: 973607695
-type: way
+type: node
 latitude: 51.56964
 longitude: -0.77356
 postcode: ""
 city: Marlow
-street: "Station Road"
-housenumber: 13
+street: Station Road
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

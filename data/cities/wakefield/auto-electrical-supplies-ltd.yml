@@ -1,11 +1,11 @@
 id: 391619656
-type: way
+type: node
 latitude: 53.67371
 longitude: -1.4989
-postcode: "WF2 7RE"
+postcode: WF2 7RE
 city: Wakefield
-street: "Thornes Lane"
-housenumber: 128
+street: Thornes Lane
+housenumber: "128"
 phone: ""
 opening_hours: ""
 website: ""

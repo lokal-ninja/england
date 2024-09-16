@@ -1,11 +1,11 @@
 id: 371265184
-type: way
+type: node
 latitude: 51.50434
 longitude: -2.62108
-postcode: "BS10 7BG"
+postcode: BS10 7BG
 city: Bristol
-street: "Satchfield Crescent"
-housenumber: 50
+street: Satchfield Crescent
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

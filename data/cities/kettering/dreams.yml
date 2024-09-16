@@ -1,11 +1,11 @@
 id: 470340110
-type: way
+type: node
 latitude: 52.4028
 longitude: -0.73663
-postcode: "NN16 9TS"
+postcode: NN16 9TS
 city: Kettering
-street: "Northfield Avenue"
-housenumber: 
-phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 09:00-18:00; Su 10:00-16:00"
-website: ""
+street: Northfield Avenue
+housenumber: ""
+phone: +44 1536 684354
+opening_hours: Mo-Fr 10:00-18:00; Sa 09:00-18:00; Su 10:00-16:00
+website: https://www.dreams.co.uk/store/kettering

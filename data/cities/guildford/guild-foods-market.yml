@@ -2,10 +2,10 @@ id: 1546026320
 type: node
 latitude: 51.24288
 longitude: -0.57597
-postcode: "GU1 4RN"
+postcode: GU1 4RN
 city: Guildford
-street: "Woodbridge Road"
-housenumber: 45
+street: Woodbridge Road
+housenumber: "45"
 phone: ""
 opening_hours: ""
 website: ""

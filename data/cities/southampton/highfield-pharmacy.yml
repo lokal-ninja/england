@@ -1,11 +1,11 @@
 id: 173807231
-type: way
+type: node
 latitude: 50.93285
 longitude: -1.39588
-postcode: "SO17 1TL"
+postcode: SO17 1TL
 city: Southampton
-street: "University Road"
-housenumber: 29
+street: University Road
+housenumber: "29"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-13:00"
-website: "http://www.highfieldpharmacy.co.uk/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-13:00
+website: http://www.highfieldpharmacy.co.uk/

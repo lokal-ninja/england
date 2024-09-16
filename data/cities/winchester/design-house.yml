@@ -1,11 +1,12 @@
 id: 988960556
-type: way
+type: node
 latitude: 51.06188
 longitude: -1.31557
-postcode: "SO23 9HA"
+postcode: SO23 9HA
 city: Winchester
-street: "Great Minster Street"
-housenumber: 7
+street: Great Minster Street
+housenumber: "7"
 phone: "+441962840949"
-opening_hours: "Mo 10:00-17:00, Tu 10:00-17:00, We closed, Th 10:30-17:00, Fr 10:00-17:00, Sa 10:00-17:00, Su closed"
-website: "https://www.designhousewinchester.co.uk/"
+opening_hours: Mo 10:00-17:00, Tu 10:00-17:00, We closed, Th 10:30-17:00, Fr 10:00-17:00,
+    Sa 10:00-17:00, Su closed
+website: https://www.designhousewinchester.co.uk/

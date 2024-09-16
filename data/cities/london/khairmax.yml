@@ -1,11 +1,11 @@
 id: 612391508
-type: way
+type: node
 latitude: 51.53979
 longitude: 0.01102
 postcode: ""
 city: London
-street: "Vicarage Lane"
-housenumber: 91
+street: Vicarage Lane
+housenumber: "91"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 514531392
-type: way
+type: node
 latitude: 54.77622
 longitude: -1.54052
-postcode: "DH1 2WP"
+postcode: DH1 2WP
 city: Durham
-street: "Dragon Lane"
-housenumber: 
+street: Dragon Lane
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 10:00-16:00"
-website: "https://www.poundstretcher.co.uk/durham-205"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 10:00-16:00
+website: https://www.poundstretcher.co.uk/durham-205

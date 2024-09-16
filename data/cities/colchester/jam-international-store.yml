@@ -1,11 +1,11 @@
 id: 860364926
-type: way
+type: node
 latitude: 51.89503
 longitude: 0.89598
-postcode: "CO1 1RQ"
+postcode: CO1 1RQ
 city: Colchester
-street: "North Station Road"
-housenumber: 35
+street: North Station Road
+housenumber: "35"
 phone: ""
 opening_hours: ""
 website: ""

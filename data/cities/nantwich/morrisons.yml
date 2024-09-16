@@ -1,11 +1,11 @@
 id: 150274270
-type: way
+type: node
 latitude: 53.06496
 longitude: -2.51982
-postcode: "CW5 5SP"
+postcode: CW5 5SP
 city: Nantwich
-street: "Station Road"
-housenumber: 
+street: Station Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su 10:00-16:00"
-website: "https://my.morrisons.com/storefinder/255/nantwich"
+opening_hours: Mo-Sa 07:00-22:00; Su 10:00-16:00
+website: https://my.morrisons.com/storefinder/255/nantwich

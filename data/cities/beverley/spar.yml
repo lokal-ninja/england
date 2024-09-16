@@ -1,11 +1,11 @@
 id: 204967386
-type: way
+type: node
 latitude: 53.83891
 longitude: -0.41143
-postcode: "HU17 0PN"
+postcode: HU17 0PN
 city: Beverley
-street: "Hull Road"
-housenumber: 1
+street: Hull Road
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.spar.co.uk/store-locator/hal41259-spar-waterside-service-station/"
+website: https://www.spar.co.uk/store-locator/hal41259-spar-waterside-service-station/

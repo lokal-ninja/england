@@ -1,11 +1,11 @@
 id: 499161068
-type: way
+type: node
 latitude: 51.44234
 longitude: -2.56303
-postcode: "BS4 3EU"
+postcode: BS4 3EU
 city: Bristol
-street: "Bath Road"
-housenumber: 387
+street: Bath Road
+housenumber: "387"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1096323723
-type: way
+type: node
 latitude: 51.47867
 longitude: -0.36527
 postcode: ""
 city: Hounslow
-street: "Great West Road"
-housenumber: 433
+street: Great West Road
+housenumber: "433"
 phone: ""
 opening_hours: ""
 website: ""

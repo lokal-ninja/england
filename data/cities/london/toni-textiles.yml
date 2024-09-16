@@ -1,11 +1,11 @@
 id: 974179302
-type: way
+type: node
 latitude: 51.50233
 longitude: -0.22606
-postcode: "W12 8QP"
+postcode: W12 8QP
 city: London
-street: "Goldhawk Road"
-housenumber: 51
-phone: "+44 20 8743 1488"
+street: Goldhawk Road
+housenumber: "51"
+phone: +44 20 8743 1488
 opening_hours: ""
-website: "https://www.tonystextiles.co.uk/"
+website: https://www.tonystextiles.co.uk/

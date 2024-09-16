@@ -1,11 +1,11 @@
 id: 781337439
-type: way
+type: node
 latitude: 51.4325
 longitude: -0.33856
-postcode: "TW11 8LX"
+postcode: TW11 8LX
 city: Teddington
-street: "Waldegrave Road"
-housenumber: 201
+street: Waldegrave Road
+housenumber: "201"
 phone: ""
-opening_hours: "Mo-Sa 12:00-19:00; Su 13:00-17:00"
+opening_hours: Mo-Sa 12:00-19:00; Su 13:00-17:00
 website: ""

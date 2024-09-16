@@ -1,11 +1,11 @@
 id: 328159748
-type: way
+type: node
 latitude: 53.26663
 longitude: -2.91041
-postcode: "CH65 6SA"
+postcode: CH65 6SA
 city: Ellesmere Port
-street: "Chester Road"
-housenumber: 140
-phone: "+44 151 317 3445"
+street: Chester Road
+housenumber: "140"
+phone: +44 151 317 3445
 opening_hours: ""
 website: ""

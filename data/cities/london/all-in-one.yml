@@ -1,11 +1,11 @@
 id: 422151785
-type: way
+type: node
 latitude: 51.51919
 longitude: -0.06121
-postcode: "E1 1DG"
+postcode: E1 1DG
 city: London
-street: "Court Street"
-housenumber: 
+street: Court Street
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

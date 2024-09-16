@@ -1,11 +1,11 @@
 id: 1151221809
-type: way
+type: node
 latitude: 53.74538
 longitude: -0.34096
-postcode: "HU1 3SQ"
+postcode: HU1 3SQ
 city: Hull
-street: "King Edward Street"
-housenumber: 46
+street: King Edward Street
+housenumber: "46"
 phone: ""
 opening_hours: ""
 website: ""

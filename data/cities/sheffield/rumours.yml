@@ -1,11 +1,11 @@
 id: 1159731759
-type: way
+type: node
 latitude: 53.34446
 longitude: -1.42413
-postcode: "S12 3GF"
+postcode: S12 3GF
 city: Sheffield
-street: "White Lane"
-housenumber: 173
+street: White Lane
+housenumber: "173"
 phone: ""
 opening_hours: ""
 website: ""

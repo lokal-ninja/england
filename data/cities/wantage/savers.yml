@@ -1,11 +1,11 @@
 id: 479345616
-type: way
+type: node
 latitude: 51.5888
 longitude: -1.42575
-postcode: "OX12 8AW"
+postcode: OX12 8AW
 city: Wantage
-street: "Market Place"
+street: Market Place
 housenumber: 48-49
-phone: "+44 1235 771645"
-opening_hours: "Mo-Th 09:00-17:30; Fr 09:00-18:30; Sa 09:00-17:30; Su 10:00-16:00"
+phone: +44 1235 771645
+opening_hours: Mo-Th 09:00-17:30; Fr 09:00-18:30; Sa 09:00-17:30; Su 10:00-16:00
 website: ""

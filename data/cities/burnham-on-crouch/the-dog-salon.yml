@@ -1,11 +1,11 @@
 id: 161797144
-type: way
+type: node
 latitude: 51.62676
 longitude: 0.81503
-postcode: "CM0 8HJ"
+postcode: CM0 8HJ
 city: Burnham-On-Crouch
-street: "Station Road"
-housenumber: 153
+street: Station Road
+housenumber: "153"
 phone: ""
 opening_hours: ""
 website: ""

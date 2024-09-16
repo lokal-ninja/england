@@ -1,11 +1,11 @@
 id: 199078631
-type: way
+type: node
 latitude: 51.94787
 longitude: -0.27876
-postcode: "SG5 1AT"
+postcode: SG5 1AT
 city: Hitchin
-street: "High Street"
-housenumber: 28
-phone: "+44 1462 432277"
-opening_hours: "8:00 - 17:30"
+street: High Street
+housenumber: "28"
+phone: +44 1462 432277
+opening_hours: 8:00 - 17:30
 website: ""

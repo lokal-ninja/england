@@ -1,11 +1,11 @@
 id: 245445196
-type: way
+type: node
 latitude: 52.61285
 longitude: 1.30819
-postcode: "NR1 2JA"
+postcode: NR1 2JA
 city: Norwich
-street: "Martineau Lane"
-housenumber: 
+street: Martineau Lane
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

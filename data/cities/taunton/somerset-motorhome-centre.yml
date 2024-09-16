@@ -1,11 +1,11 @@
 id: 211033918
-type: way
+type: node
 latitude: 50.9999
 longitude: -3.02
-postcode: "TA3 5NN"
+postcode: TA3 5NN
 city: Taunton
-street: "Langport Road"
-housenumber: 
+street: Langport Road
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

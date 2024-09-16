@@ -2,10 +2,10 @@ id: 10063979924
 type: node
 latitude: 52.47666
 longitude: 1.75315
-postcode: "NR32 1HA"
+postcode: NR32 1HA
 city: Lowestoft
-street: "London Road North"
-housenumber: 112
+street: London Road North
+housenumber: "112"
 phone: ""
 opening_hours: ""
-website: "https://www.cancerresearchuk.org/get-involved/find-a-shop/lowestoft"
+website: https://www.cancerresearchuk.org/get-involved/find-a-shop/lowestoft

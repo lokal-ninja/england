@@ -2,10 +2,10 @@ id: 2147605893
 type: node
 latitude: 51.45523
 longitude: -0.01606
-postcode: "SE13 6LE"
+postcode: SE13 6LE
 city: London
-street: "Lewisham High Street"
-housenumber: 350
+street: Lewisham High Street
+housenumber: "350"
 phone: ""
 opening_hours: ""
 website: ""

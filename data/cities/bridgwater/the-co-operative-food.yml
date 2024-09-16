@@ -1,11 +1,11 @@
 id: 460841938
-type: way
+type: node
 latitude: 51.12621
 longitude: -2.98668
-postcode: "TA6 5BJ"
+postcode: TA6 5BJ
 city: Bridgwater
-street: "Westonzoyland Road"
-housenumber: 
+street: Westonzoyland Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su 10:00-16:00"
-website: "https://www.coop.co.uk/store-finder/TA6-5BJ/the-redgate-centre"
+opening_hours: Mo-Sa 07:00-22:00; Su 10:00-16:00
+website: https://www.coop.co.uk/store-finder/TA6-5BJ/the-redgate-centre

@@ -1,11 +1,11 @@
 id: 550970151
-type: way
+type: node
 latitude: 51.93011
 longitude: -0.34203
-postcode: "SG5 3DD"
+postcode: SG5 3DD
 city: Hitchin
-street: "Luton Road"
-housenumber: 
-phone: "+44 1462 768352"
-opening_hours: "Mo-Fr 09:00-17:30; Sa 09:00-12:30; Su off"
+street: Luton Road
+housenumber: ""
+phone: +44 1462 768352
+opening_hours: Mo-Fr 09:00-17:30; Sa 09:00-12:30; Su off
 website: ""

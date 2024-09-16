@@ -1,11 +1,11 @@
 id: 1266780890
-type: way
+type: node
 latitude: 53.23581
 longitude: -1.43663
-postcode: "S40 1BA"
+postcode: S40 1BA
 city: Chesterfield
-street: "West Bars"
-housenumber: 63
+street: West Bars
+housenumber: "63"
 phone: ""
 opening_hours: ""
 website: ""

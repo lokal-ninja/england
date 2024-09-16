@@ -1,11 +1,11 @@
 id: 297966727
-type: way
+type: node
 latitude: 51.32291
 longitude: -2.85521
-postcode: "BS29 6NX"
+postcode: BS29 6NX
 city: Banwell
-street: "Castle Hill"
-housenumber: 
-phone: "+44 1934 822246"
-opening_hours: "Mo-Fr 08:30-17:30; Sa 09:00-17:30; Su 10:00-16:30"
-website: "https://www.banwellgardencentre.co.uk/"
+street: Castle Hill
+housenumber: ""
+phone: +44 1934 822246
+opening_hours: Mo-Fr 08:30-17:30; Sa 09:00-17:30; Su 10:00-16:30
+website: https://www.banwellgardencentre.co.uk/

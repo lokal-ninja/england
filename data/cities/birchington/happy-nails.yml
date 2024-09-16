@@ -1,11 +1,11 @@
 id: 288294235
-type: way
+type: node
 latitude: 51.37495
 longitude: 1.30525
-postcode: "CT7 9DQ"
+postcode: CT7 9DQ
 city: Birchington
-street: "Station Road"
-housenumber: 36
+street: Station Road
+housenumber: "36"
 phone: ""
 opening_hours: ""
 website: ""

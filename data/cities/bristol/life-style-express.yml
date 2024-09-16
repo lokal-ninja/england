@@ -1,11 +1,11 @@
 id: 405395743
-type: way
+type: node
 latitude: 51.44561
 longitude: -2.54861
 postcode: ""
 city: Bristol
-street: "Wick Road"
-housenumber: 296
+street: Wick Road
+housenumber: "296"
 phone: ""
 opening_hours: ""
 website: ""

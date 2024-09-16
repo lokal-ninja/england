@@ -1,11 +1,11 @@
 id: 366735035
-type: way
+type: node
 latitude: 51.42986
 longitude: -0.54776
-postcode: "TW20 9LF"
+postcode: TW20 9LF
 city: Egham
-street: "Station Road"
-housenumber: 58
+street: Station Road
+housenumber: "58"
 phone: ""
 opening_hours: ""
-website: "https://www.tantropic.co.uk/"
+website: https://www.tantropic.co.uk/

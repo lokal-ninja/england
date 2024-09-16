@@ -1,11 +1,11 @@
 id: 472661235
-type: way
+type: node
 latitude: 51.88861
 longitude: 0.90282
-postcode: "CO1 1LG"
+postcode: CO1 1LG
 city: Colchester
-street: "Priory Walk"
-housenumber: 29
+street: Priory Walk
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

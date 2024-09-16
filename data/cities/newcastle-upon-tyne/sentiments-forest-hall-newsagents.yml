@@ -2,10 +2,10 @@ id: 7685286262
 type: node
 latitude: 55.0217
 longitude: -1.56574
-postcode: "NE12 7AR"
+postcode: NE12 7AR
 city: Newcastle Upon Tyne
-street: "Station Road North"
-housenumber: 31
+street: Station Road North
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

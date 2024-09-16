@@ -1,11 +1,11 @@
 id: 1082201450
-type: way
+type: node
 latitude: 50.98512
 longitude: 0.95437
-postcode: "TN28 8LN"
+postcode: TN28 8LN
 city: New Romney
-street: "Littlestone Road"
-housenumber: 7
-phone: "+44 01797 458070"
+street: Littlestone Road
+housenumber: "7"
+phone: +44 01797 458070
 opening_hours: ""
-website: "https://www.genxsports.co.uk/"
+website: https://www.genxsports.co.uk/

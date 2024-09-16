@@ -1,11 +1,11 @@
 id: 1306030724
-type: way
+type: node
 latitude: 53.79628
 longitude: -1.54212
-postcode: "LS1 6DQ"
+postcode: LS1 6DQ
 city: Leeds
-street: "Duncan Street"
-housenumber: 5
+street: Duncan Street
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

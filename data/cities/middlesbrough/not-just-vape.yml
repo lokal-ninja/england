@@ -1,11 +1,11 @@
 id: 1219567245
-type: way
+type: node
 latitude: 54.5733
 longitude: -1.2382
-postcode: "TS1 5DE"
+postcode: TS1 5DE
 city: Middlesbrough
-street: "Linthorpe Road"
-housenumber: 135
+street: Linthorpe Road
+housenumber: "135"
 phone: ""
 opening_hours: ""
 website: ""

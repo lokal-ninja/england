@@ -1,11 +1,11 @@
 id: 1034521304
-type: way
+type: node
 latitude: 50.63833
 longitude: -1.1722
-postcode: "PO37 6HP"
+postcode: PO37 6HP
 city: Shanklin
-street: "Sandown Road"
-housenumber: 175
+street: Sandown Road
+housenumber: "175"
 phone: ""
 opening_hours: ""
 website: ""

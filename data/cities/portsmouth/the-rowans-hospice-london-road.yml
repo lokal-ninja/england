@@ -4,8 +4,8 @@ latitude: 50.81488
 longitude: -1.07956
 postcode: ""
 city: Portsmouth
-street: "London Road"
-housenumber: 60
+street: London Road
+housenumber: "60"
 phone: ""
-opening_hours: "Mo-Sa 09:30-16:30"
+opening_hours: Mo-Sa 09:30-16:30
 website: ""

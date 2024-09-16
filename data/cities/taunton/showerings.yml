@@ -1,11 +1,11 @@
 id: 689304951
-type: way
+type: node
 latitude: 51.01718
 longitude: -3.10258
-postcode: "TA1 1JR"
+postcode: TA1 1JR
 city: Taunton
-street: "St James Street"
-housenumber: 49
+street: St James Street
+housenumber: "49"
 phone: ""
-opening_hours: "Tu-Sa 10:00-16:30"
+opening_hours: Tu-Sa 10:00-16:30
 website: ""

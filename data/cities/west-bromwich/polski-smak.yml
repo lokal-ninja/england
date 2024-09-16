@@ -1,11 +1,11 @@
 id: 497642766
-type: way
+type: node
 latitude: 52.53791
 longitude: -2.01129
-postcode: "B70 0RU"
+postcode: B70 0RU
 city: West Bromwich
-street: "Hill Top"
-housenumber: 109
+street: Hill Top
+housenumber: "109"
 phone: ""
 opening_hours: ""
 website: ""

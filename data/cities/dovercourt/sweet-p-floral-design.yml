@@ -1,11 +1,11 @@
 id: 204008814
-type: way
+type: node
 latitude: 51.93064
 longitude: 1.24308
-postcode: "CO12 4LU"
+postcode: CO12 4LU
 city: Dovercourt
-street: "Main Road"
-housenumber: 764
+street: Main Road
+housenumber: "764"
 phone: ""
 opening_hours: ""
 website: ""

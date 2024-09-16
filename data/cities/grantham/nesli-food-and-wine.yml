@@ -2,10 +2,10 @@ id: 10085073264
 type: node
 latitude: 52.90932
 longitude: -0.63932
-postcode: "NG31 6EY"
+postcode: NG31 6EY
 city: Grantham
-street: "London Road"
-housenumber: 9
+street: London Road
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

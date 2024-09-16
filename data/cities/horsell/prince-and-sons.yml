@@ -1,11 +1,11 @@
 id: 269872430
-type: way
+type: node
 latitude: 51.32404
 longitude: -0.57449
-postcode: "GU21 4SY"
+postcode: GU21 4SY
 city: Horsell
-street: "High Street"
-housenumber: 107
-phone: "+441483 767114"
-opening_hours: "Mo-Th 07:00-17:30, Fr 07:00-18:00, Sa 07:00-17:30"
-website: "https://www.princeandsons.co.uk/"
+street: High Street
+housenumber: "107"
+phone: +441483 767114
+opening_hours: Mo-Th 07:00-17:30, Fr 07:00-18:00, Sa 07:00-17:30
+website: https://www.princeandsons.co.uk/

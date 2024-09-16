@@ -1,11 +1,11 @@
 id: 1296208901
-type: way
+type: node
 latitude: 51.48361
 longitude: -0.06132
-postcode: "SE15 1LR"
+postcode: SE15 1LR
 city: London
-street: "Ruby Street"
-housenumber: 
+street: Ruby Street
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

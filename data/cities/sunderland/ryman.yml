@@ -1,11 +1,11 @@
 id: 1207483333
-type: way
+type: node
 latitude: 54.90709
 longitude: -1.38434
 postcode: ""
 city: Sunderland
-street: "High Street West"
-housenumber: 
+street: High Street West
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.ryman.co.uk/storefinder/ryman-sunderland/"
+website: https://www.ryman.co.uk/storefinder/ryman-sunderland/

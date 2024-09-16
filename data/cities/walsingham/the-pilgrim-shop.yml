@@ -1,11 +1,11 @@
 id: 671793783
-type: way
+type: node
 latitude: 52.8935
 longitude: 0.87353
-postcode: "NR22 6AA"
+postcode: NR22 6AA
 city: Walsingham
-street: "High Street"
-housenumber: 32
+street: High Street
+housenumber: "32"
 phone: ""
 opening_hours: ""
-website: "https://www.pilgrimgifts.co.uk/"
+website: https://www.pilgrimgifts.co.uk/

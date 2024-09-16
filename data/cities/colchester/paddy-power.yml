@@ -1,11 +1,11 @@
 id: 332126379
-type: way
+type: node
 latitude: 51.8897
 longitude: 0.9007
-postcode: "CO1 1DH"
+postcode: CO1 1DH
 city: Colchester
-street: "High Street"
-housenumber: 49
+street: High Street
+housenumber: "49"
 phone: ""
 opening_hours: ""
 website: ""

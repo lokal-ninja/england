@@ -1,11 +1,11 @@
 id: 382541282
-type: way
+type: node
 latitude: 52.63682
 longitude: 1.3269
-postcode: "NR1 4AB"
+postcode: NR1 4AB
 city: Norwich
-street: "Plumstead Road"
-housenumber: 195
-phone: "+44 1603 432804"
-opening_hours: "Mo-Fr 09:00-17:30; Sa 09:00-17:00; Su off"
-website: "https://scrivensopticians.com/branches/norwich-plumstead-road/"
+street: Plumstead Road
+housenumber: "195"
+phone: +44 1603 432804
+opening_hours: Mo-Fr 09:00-17:30; Sa 09:00-17:00; Su off
+website: https://scrivensopticians.com/branches/norwich-plumstead-road/

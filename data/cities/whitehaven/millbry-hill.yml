@@ -1,11 +1,11 @@
 id: 329897552
-type: way
+type: node
 latitude: 54.54522
 longitude: -3.59076
-postcode: "CA28 7HU"
+postcode: CA28 7HU
 city: Whitehaven
-street: "Preston Street"
-housenumber: 3
-phone: "+44 1946 690114"
-opening_hours: "Mo-Sa 09:00-17:30; Su 10:00-16:00"
-website: "https://www.millbryhill.co.uk/"
+street: Preston Street
+housenumber: "3"
+phone: +44 1946 690114
+opening_hours: Mo-Sa 09:00-17:30; Su 10:00-16:00
+website: https://www.millbryhill.co.uk/

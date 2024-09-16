@@ -1,11 +1,11 @@
 id: 78649129
-type: way
+type: node
 latitude: 54.77892
 longitude: -1.55639
-postcode: "DH1 1QF"
+postcode: DH1 1QF
 city: Durham
-street: "Gilesgate"
-housenumber: 1
-phone: "+44 191 3831000"
+street: Gilesgate
+housenumber: "1"
+phone: +44 191 3831000
 opening_hours: ""
 website: ""

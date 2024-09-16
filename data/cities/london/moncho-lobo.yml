@@ -1,11 +1,11 @@
 id: 159404452
-type: way
+type: node
 latitude: 51.49384
 longitude: -0.15152
 postcode: ""
 city: London
-street: "Elizabeth Street"
-housenumber: 73
+street: Elizabeth Street
+housenumber: "73"
 phone: ""
 opening_hours: ""
 website: ""

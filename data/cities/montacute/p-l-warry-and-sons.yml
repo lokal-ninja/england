@@ -1,11 +1,11 @@
 id: 1284485968
-type: way
+type: node
 latitude: 50.94801
 longitude: -2.7123
-postcode: "TA15 6XG"
+postcode: TA15 6XG
 city: Montacute
-street: "Yeovil Road"
-housenumber: 
+street: Yeovil Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 06:00-19:30; Sa 06:00-18:30; Su 08:30-17:00"
-website: "https://www.montacuteservicestation.co.uk"
+opening_hours: Mo-Fr 06:00-19:30; Sa 06:00-18:30; Su 08:30-17:00
+website: https://www.montacuteservicestation.co.uk

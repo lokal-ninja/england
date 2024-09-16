@@ -1,11 +1,11 @@
 id: 737650194
-type: way
+type: node
 latitude: 50.37102
 longitude: -4.12539
-postcode: "PL4 9HU"
+postcode: PL4 9HU
 city: Plymouth
-street: "Tothill Road"
-housenumber: 4
+street: Tothill Road
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 09:30-16:30, Sa 10:00-16:00"
+opening_hours: Mo-Fr 09:30-16:30, Sa 10:00-16:00
 website: ""

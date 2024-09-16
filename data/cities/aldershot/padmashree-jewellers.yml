@@ -1,11 +1,11 @@
 id: 1181190435
-type: way
+type: node
 latitude: 51.24952
 longitude: -0.76422
-postcode: "GU11 1DX"
+postcode: GU11 1DX
 city: Aldershot
-street: "Wellington Street"
-housenumber: 3
-phone: "+44 1252 448467"
-opening_hours: "Mo-Su 10:00-18:30"
+street: Wellington Street
+housenumber: "3"
+phone: +44 1252 448467
+opening_hours: Mo-Su 10:00-18:30
 website: ""

@@ -1,11 +1,11 @@
 id: 145820739
-type: way
+type: node
 latitude: 51.49308
 longitude: -0.20851
 postcode: ""
 city: London
-street: "North End Parade"
-housenumber: 7
+street: North End Parade
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

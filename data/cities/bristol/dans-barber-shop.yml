@@ -1,11 +1,11 @@
 id: 378568953
-type: way
+type: node
 latitude: 51.44584
 longitude: -2.61088
 postcode: ""
 city: Bristol
-street: "Coronation Road"
-housenumber: 181
+street: Coronation Road
+housenumber: "181"
 phone: ""
 opening_hours: ""
 website: ""

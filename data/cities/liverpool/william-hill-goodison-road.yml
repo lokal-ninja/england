@@ -1,11 +1,11 @@
 id: 1177645506
-type: way
+type: node
 latitude: 53.44012
 longitude: -2.96748
-postcode: "L4 4EP"
+postcode: L4 4EP
 city: Liverpool
-street: "Goodison Road"
-housenumber: 74
+street: Goodison Road
+housenumber: "74"
 phone: ""
 opening_hours: ""
 website: ""

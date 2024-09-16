@@ -1,11 +1,11 @@
 id: 206097295
-type: way
+type: node
 latitude: 52.58657
 longitude: 1.69949
-postcode: "NR31 9ER"
+postcode: NR31 9ER
 city: Bradwell
-street: "Blackbird Close"
-housenumber: 
-phone: "+441493 656102"
-opening_hours: "Mo-Sa 09:00-17:00"
+street: Blackbird Close
+housenumber: ""
+phone: +441493 656102
+opening_hours: Mo-Sa 09:00-17:00
 website: ""

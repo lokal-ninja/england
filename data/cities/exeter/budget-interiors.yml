@@ -2,10 +2,10 @@ id: 10226133720
 type: node
 latitude: 50.72798
 longitude: -3.52233
-postcode: "EX4 6RY"
+postcode: EX4 6RY
 city: Exeter
-street: "Sidwell Street"
-housenumber: 123
+street: Sidwell Street
+housenumber: "123"
 phone: ""
 opening_hours: ""
 website: ""

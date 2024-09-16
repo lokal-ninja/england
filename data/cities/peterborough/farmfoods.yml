@@ -1,11 +1,11 @@
 id: 1223296103
-type: way
+type: node
 latitude: 52.6014
 longitude: -0.26407
-postcode: "PE4 6AF"
+postcode: PE4 6AF
 city: Peterborough
-street: "Lincoln Road"
-housenumber: 961
+street: Lincoln Road
+housenumber: "961"
 phone: ""
 opening_hours: ""
 website: ""

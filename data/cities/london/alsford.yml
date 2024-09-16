@@ -1,11 +1,11 @@
 id: 460097965
-type: way
+type: node
 latitude: 51.46766
 longitude: -0.26729
-postcode: "SW14 8LW"
+postcode: SW14 8LW
 city: London
-street: "Sheen Lane"
-housenumber: 14
-phone: "+44 20 8876 2257"
-opening_hours: "Mo-Fr 07:00-17:00; Sa 08:00-13:00"
-website: "https://www.alsford.co.uk/branch-locator/mortlake"
+street: Sheen Lane
+housenumber: "14"
+phone: +44 20 8876 2257
+opening_hours: Mo-Fr 07:00-17:00; Sa 08:00-13:00
+website: https://www.alsford.co.uk/branch-locator/mortlake

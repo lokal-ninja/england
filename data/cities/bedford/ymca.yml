@@ -1,11 +1,11 @@
 id: 262498499
-type: way
+type: node
 latitude: 52.137
 longitude: -0.46754
-postcode: "MK40 1SY"
+postcode: MK40 1SY
 city: Bedford
-street: "Silver Street"
-housenumber: 5
+street: Silver Street
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

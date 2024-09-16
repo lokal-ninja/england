@@ -1,11 +1,11 @@
 id: 349589469
-type: way
+type: node
 latitude: 51.1178
 longitude: -0.15401
-postcode: "RH10 7EA"
+postcode: RH10 7EA
 city: Crawley
-street: "Pound Hill Parade"
-housenumber: 10
+street: Pound Hill Parade
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Sa 09:00-18:00; Su off"
+opening_hours: Mo-Sa 09:00-18:00; Su off
 website: ""

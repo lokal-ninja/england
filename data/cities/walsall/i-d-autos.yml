@@ -1,11 +1,11 @@
 id: 886247600
-type: way
+type: node
 latitude: 52.60586
 longitude: -2.00795
-postcode: "WS2 7QZ"
+postcode: WS2 7QZ
 city: Walsall
-street: "Reaymer Close"
-housenumber: 5
+street: Reaymer Close
+housenumber: "5"
 phone: "+441922409692"
-opening_hours: "Mo-Fr 08:30-17:30; Sa 08:30-13:30"
+opening_hours: Mo-Fr 08:30-17:30; Sa 08:30-13:30
 website: ""

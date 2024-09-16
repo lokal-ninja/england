@@ -1,11 +1,11 @@
 id: 315072595
-type: way
+type: node
 latitude: 52.96511
 longitude: -1.30578
-postcode: "DE7 5NN"
+postcode: DE7 5NN
 city: Ilkeston
-street: "Nottingham Road"
-housenumber: 107
+street: Nottingham Road
+housenumber: "107"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su 10:00-16:00"
-website: "https://my.morrisons.com/storefinder/674/ilkeston"
+opening_hours: Mo-Sa 07:00-22:00; Su 10:00-16:00
+website: https://my.morrisons.com/storefinder/674/ilkeston

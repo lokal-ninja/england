@@ -1,11 +1,11 @@
 id: 259626007
-type: way
+type: node
 latitude: 51.4648
 longitude: -0.26494
-postcode: "SW14 8QR"
+postcode: SW14 8QR
 city: London
-street: "Upper Richmond Road West"
-housenumber: 337
+street: Upper Richmond Road West
+housenumber: "337"
 phone: ""
-opening_hours: "Mo-Sa 09:00-17:00; Su 10:00-16:00"
-website: "https://england.shelter.org.uk/support_us/shops/east_sheen"
+opening_hours: Mo-Sa 09:00-17:00; Su 10:00-16:00
+website: https://england.shelter.org.uk/support_us/shops/east_sheen

@@ -1,11 +1,11 @@
 id: 77739163
-type: way
+type: node
 latitude: 51.5069
 longitude: -0.11073
-postcode: "SE1 9NS"
+postcode: SE1 9NS
 city: London
-street: "Coin Street"
-housenumber: 2
+street: Coin Street
+housenumber: "2"
 phone: ""
-opening_hours: "Mo 07:00-16:00; Tu-Fr 09:00-18:00"
+opening_hours: Mo 07:00-16:00; Tu-Fr 09:00-18:00
 website: ""

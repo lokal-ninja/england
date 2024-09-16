@@ -1,11 +1,11 @@
 id: 865403317
-type: way
+type: node
 latitude: 52.75557
 longitude: 0.39499
-postcode: "PE30 1AY"
+postcode: PE30 1AY
 city: King's Lynn
-street: "High Street"
-housenumber: 67
+street: High Street
+housenumber: "67"
 phone: ""
 opening_hours: ""
 website: ""

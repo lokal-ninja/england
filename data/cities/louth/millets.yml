@@ -1,11 +1,11 @@
 id: 935900712
-type: way
+type: node
 latitude: 53.36715
 longitude: -0.00346
-postcode: "LN11 9PG"
+postcode: LN11 9PG
 city: Louth
-street: "Eastgate"
-housenumber: 78
+street: Eastgate
+housenumber: "78"
 phone: "+441507308711"
-opening_hours: "Mo-Sa 09:00-05:30"
-website: "https://www.millets.co.uk/"
+opening_hours: Mo-Sa 09:00-05:30
+website: https://www.millets.co.uk/

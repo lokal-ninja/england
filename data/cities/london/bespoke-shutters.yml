@@ -1,11 +1,11 @@
 id: 1061091496
-type: way
+type: node
 latitude: 51.58751
 longitude: -0.13414
-postcode: "N10 3TH"
+postcode: N10 3TH
 city: London
-street: "Muswell Hill"
-housenumber: 3
-phone: "+44 20 3131 3155"
+street: Muswell Hill
+housenumber: "3"
+phone: +44 20 3131 3155
 opening_hours: ""
-website: "https://www.bespokeshutters.com"
+website: https://www.bespokeshutters.com

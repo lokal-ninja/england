@@ -1,11 +1,11 @@
 id: 1122709434
-type: way
+type: node
 latitude: 52.58902
 longitude: -1.12284
-postcode: "LE18 2FL"
+postcode: LE18 2FL
 city: Wigston
-street: "Chartwell Drive"
-housenumber: 
+street: Chartwell Drive
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 07:00-20:00; Sa 07:00-18:00; Su 09:00-16:00"
-website: "https://www.screwfix.com/stores/NB2/wigston"
+opening_hours: Mo-Fr 07:00-20:00; Sa 07:00-18:00; Su 09:00-16:00
+website: https://www.screwfix.com/stores/NB2/wigston

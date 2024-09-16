@@ -1,11 +1,11 @@
 id: 815454492
-type: way
+type: node
 latitude: 50.89673
 longitude: -1.38022
-postcode: "SO19 9DX"
+postcode: SO19 9DX
 city: Southampton
-street: "Victoria Road"
-housenumber: 46
+street: Victoria Road
+housenumber: "46"
 phone: ""
 opening_hours: ""
 website: ""

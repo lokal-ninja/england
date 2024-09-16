@@ -1,11 +1,11 @@
 id: 315829739
-type: way
+type: node
 latitude: 53.76486
 longitude: -0.61911
-postcode: "HU15 2EZ"
+postcode: HU15 2EZ
 city: Brough
-street: "Pinfold"
-housenumber: 4
-phone: "+44 1430 423160"
-opening_hours: "Mo-Sa 08:30-22:00; Su 10:00-21:00"
+street: Pinfold
+housenumber: "4"
+phone: +44 1430 423160
+opening_hours: Mo-Sa 08:30-22:00; Su 10:00-21:00
 website: ""

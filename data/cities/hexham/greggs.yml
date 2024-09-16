@@ -1,11 +1,11 @@
 id: 363147911
-type: way
+type: node
 latitude: 54.97017
 longitude: -2.10088
-postcode: "NE46 1LU"
+postcode: NE46 1LU
 city: Hexham
-street: "Fore Street"
-housenumber: 41
+street: Fore Street
+housenumber: "41"
 phone: ""
 opening_hours: ""
 website: ""

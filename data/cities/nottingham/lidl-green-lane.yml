@@ -1,11 +1,11 @@
 id: 616453702
-type: way
+type: node
 latitude: 52.9039
 longitude: -1.18092
-postcode: "NG11 9LN"
+postcode: NG11 9LN
 city: Nottingham
-street: "Green Lane"
-housenumber: 
-phone: "+44 8009777766"
-opening_hours: "Mo-Sa 08:00-22:00; Su 10:00-16:00"
-website: "https://www.lidl.co.uk/s/en-GB/store-finder/clifton/nottingham/green-lane/"
+street: Green Lane
+housenumber: ""
+phone: +44 8009777766
+opening_hours: Mo-Sa 08:00-22:00; Su 10:00-16:00
+website: https://www.lidl.co.uk/s/en-GB/store-finder/clifton/nottingham/green-lane/

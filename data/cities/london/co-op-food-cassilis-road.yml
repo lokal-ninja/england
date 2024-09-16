@@ -1,11 +1,11 @@
 id: 269439725
-type: way
+type: node
 latitude: 51.49878
 longitude: -0.02154
-postcode: "E14 9LQ"
+postcode: E14 9LQ
 city: London
-street: "Cassilis Road"
-housenumber: 
+street: Cassilis Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.coop.co.uk/store-finder/E14-9LQ/cassilis-road"
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.coop.co.uk/store-finder/E14-9LQ/cassilis-road

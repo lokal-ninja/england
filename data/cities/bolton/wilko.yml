@@ -1,11 +1,11 @@
 id: 507404820
-type: way
+type: node
 latitude: 53.58535
 longitude: -2.53659
-postcode: "BL6 6JA"
+postcode: BL6 6JA
 city: Bolton
-street: "The Linkway"
-housenumber: 3
+street: The Linkway
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 201234922
-type: way
+type: node
 latitude: 53.75939
 longitude: -1.68539
-postcode: "BD11 2PS"
+postcode: BD11 2PS
 city: Bradford
-street: "Inmoor Road"
-housenumber: 
+street: Inmoor Road
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.cclonline.com/"
+website: https://www.cclonline.com/

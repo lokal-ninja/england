@@ -1,11 +1,11 @@
 id: 651737763
-type: way
+type: node
 latitude: 52.58646
 longitude: -0.24637
-postcode: "PE1 2PL"
+postcode: PE1 2PL
 city: Peterborough
-street: "Lincoln Road"
-housenumber: 281
+street: Lincoln Road
+housenumber: "281"
 phone: ""
 opening_hours: ""
 website: ""

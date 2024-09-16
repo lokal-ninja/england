@@ -1,11 +1,11 @@
 id: 377488671
-type: way
+type: node
 latitude: 51.51846
 longitude: -0.08229
-postcode: "EC2M 7PY"
+postcode: EC2M 7PY
 city: London
-street: "Liverpool Street"
-housenumber: 
+street: Liverpool Street
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

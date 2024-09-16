@@ -1,11 +1,11 @@
 id: 945401272
-type: way
+type: node
 latitude: 51.2756
 longitude: -2.77816
-postcode: "BS27 3AG"
+postcode: BS27 3AG
 city: Bristol
-street: "Saxon Place"
-housenumber: 1
+street: Saxon Place
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

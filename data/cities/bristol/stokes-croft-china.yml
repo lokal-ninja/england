@@ -1,11 +1,11 @@
 id: 108792412
-type: way
+type: node
 latitude: 51.46258
 longitude: -2.59058
-postcode: "BS2 8JP"
+postcode: BS2 8JP
 city: Bristol
-street: "Jamaica Street"
-housenumber: 35
+street: Jamaica Street
+housenumber: "35"
 phone: ""
 opening_hours: ""
 website: ""

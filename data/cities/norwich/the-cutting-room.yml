@@ -1,11 +1,11 @@
 id: 119469622
-type: way
+type: node
 latitude: 52.65081
 longitude: 1.30821
-postcode: "NR3 4DT"
+postcode: NR3 4DT
 city: Norwich
-street: "Shipfield"
-housenumber: 108
-phone: "+44 1603 410370"
+street: Shipfield
+housenumber: "108"
+phone: +44 1603 410370
 opening_hours: ""
 website: ""

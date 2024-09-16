@@ -1,11 +1,11 @@
 id: 194739940
-type: way
+type: node
 latitude: 51.40384
 longitude: -0.86261
-postcode: "RG41 4BY"
+postcode: RG41 4BY
 city: Wokingham
-street: "Barkham Road"
-housenumber: 263
-phone: "+44 118 9780250"
+street: Barkham Road
+housenumber: "263"
+phone: +44 118 9780250
 opening_hours: ""
-website: "http://www.ajperrettmowers.co.uk/"
+website: http://www.ajperrettmowers.co.uk/

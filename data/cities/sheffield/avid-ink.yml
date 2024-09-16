@@ -1,11 +1,11 @@
 id: 1265010786
-type: way
+type: node
 latitude: 53.37842
 longitude: -1.47077
-postcode: "S1 2JP"
+postcode: S1 2JP
 city: Sheffield
-street: "Union Street"
-housenumber: 
+street: Union Street
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

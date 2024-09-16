@@ -1,11 +1,11 @@
 id: 170421991
-type: way
+type: node
 latitude: 51.89838
 longitude: -2.07021
-postcode: "GL52 2SH"
+postcode: GL52 2SH
 city: Cheltenham
-street: "St James Street"
-housenumber: 24
+street: St James Street
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

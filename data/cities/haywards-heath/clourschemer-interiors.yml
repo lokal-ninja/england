@@ -1,11 +1,11 @@
 id: 587157640
-type: way
+type: node
 latitude: 51.0051
 longitude: -0.10327
-postcode: "RH16 3DT"
+postcode: RH16 3DT
 city: Haywards Heath
-street: "Perrymount Road"
-housenumber: 52
+street: Perrymount Road
+housenumber: "52"
 phone: ""
 opening_hours: ""
 website: ""

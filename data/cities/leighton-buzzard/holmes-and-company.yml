@@ -1,11 +1,11 @@
 id: 253392499
-type: way
+type: node
 latitude: 51.91626
 longitude: -0.67182
 postcode: ""
 city: Leighton Buzzard
-street: "New Road"
-housenumber: 8
+street: New Road
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

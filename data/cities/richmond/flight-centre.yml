@@ -1,11 +1,11 @@
 id: 432916768
-type: way
+type: node
 latitude: 51.46205
 longitude: -0.30283
-postcode: "TW9 1DN"
+postcode: TW9 1DN
 city: Richmond
-street: "The Quadrant"
-housenumber: 
+street: The Quadrant
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-17:00; Su 10:00-16:00"
+opening_hours: Mo-Sa 09:00-17:00; Su 10:00-16:00
 website: ""

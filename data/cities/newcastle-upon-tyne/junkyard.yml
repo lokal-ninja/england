@@ -2,10 +2,11 @@ id: 3633984430
 type: node
 latitude: 54.9705
 longitude: -1.60988
-postcode: "NE1 1PG"
+postcode: NE1 1PG
 city: Newcastle upon Tyne
-street: "Dean Street"
-housenumber: 38
-phone: "+44 191 2221466"
-opening_hours: "Tu-We 10:00-18:00; Th 10:00-20:00; Fr 10:00-19:00; Sa 09:00-17:00; Su-Mo off"
-website: "https://www.thejunkyardstudios.co.uk/"
+street: Dean Street
+housenumber: "38"
+phone: +44 191 2221466
+opening_hours: Tu-We 10:00-18:00; Th 10:00-20:00; Fr 10:00-19:00; Sa 09:00-17:00;
+    Su-Mo off
+website: https://www.thejunkyardstudios.co.uk/

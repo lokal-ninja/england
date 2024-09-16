@@ -1,11 +1,11 @@
 id: 110041324
-type: way
+type: node
 latitude: 53.20863
 longitude: -0.1173
-postcode: "LN9 5HD"
+postcode: LN9 5HD
 city: Horncastle
-street: "Market Place"
-housenumber: 1
+street: Market Place
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-17:00"
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-17:00
 website: ""

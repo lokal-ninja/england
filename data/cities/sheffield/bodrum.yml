@@ -1,11 +1,11 @@
 id: 1133550645
-type: way
+type: node
 latitude: 53.36853
 longitude: -1.47596
-postcode: "S2 4LJ"
+postcode: S2 4LJ
 city: Sheffield
-street: "London Road"
-housenumber: 191
+street: London Road
+housenumber: "191"
 phone: ""
 opening_hours: ""
 website: ""

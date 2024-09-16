@@ -1,11 +1,11 @@
 id: 147700426
-type: way
+type: node
 latitude: 53.01503
 longitude: -2.26746
-postcode: "ST5 6LY"
+postcode: ST5 6LY
 city: Newcastle-under-Lyme
-street: "High Street"
-housenumber: 63
+street: High Street
+housenumber: "63"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:30; Sa 09:00-14:00"
+opening_hours: Mo-Fr 09:00-17:30; Sa 09:00-14:00
 website: ""

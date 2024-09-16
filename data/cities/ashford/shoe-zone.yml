@@ -4,8 +4,8 @@ latitude: 51.14952
 longitude: 0.87186
 postcode: ""
 city: Ashford
-street: "High Street"
-housenumber: 78
-phone: "+44 1233 661050"
+street: High Street
+housenumber: "78"
+phone: +44 1233 661050
 opening_hours: ""
-website: "https://www.shoezone.com/StoreLocator"
+website: https://www.shoezone.com/StoreLocator

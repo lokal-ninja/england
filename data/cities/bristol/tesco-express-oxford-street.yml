@@ -1,11 +1,11 @@
 id: 302511999
-type: way
+type: node
 latitude: 51.44213
 longitude: -2.57866
-postcode: "BS3 4RJ"
+postcode: BS3 4RJ
 city: Bristol
-street: "Oxford Street"
-housenumber: 33
+street: Oxford Street
+housenumber: "33"
 phone: ""
-opening_hours: "Mo-Su 06:00-22:00"
+opening_hours: Mo-Su 06:00-22:00
 website: ""

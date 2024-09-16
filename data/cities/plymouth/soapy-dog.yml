@@ -1,11 +1,11 @@
 id: 1247741834
-type: way
+type: node
 latitude: 50.39259
 longitude: -4.05439
-postcode: "PL7 4AD"
+postcode: PL7 4AD
 city: Plymouth
-street: "Holborn Place"
-housenumber: 4
+street: Holborn Place
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

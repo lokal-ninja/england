@@ -1,11 +1,11 @@
 id: 109387982
-type: way
+type: node
 latitude: 52.66184
 longitude: -1.15345
-postcode: "LE4 0RX"
+postcode: LE4 0RX
 city: Leicester
-street: "Old Barn Walk"
-housenumber: 1
+street: Old Barn Walk
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su 10:00-16:00"
+opening_hours: Mo-Sa 08:00-20:00; Su 10:00-16:00
 website: ""

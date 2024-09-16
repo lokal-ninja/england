@@ -1,11 +1,11 @@
 id: 215659600
-type: way
+type: node
 latitude: 52.91129
 longitude: -1.26337
-postcode: "NG9 6HW"
+postcode: NG9 6HW
 city: Nottingham
-street: "Woodstock Road"
-housenumber: 23
+street: Woodstock Road
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

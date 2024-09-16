@@ -1,11 +1,11 @@
 id: 143029748
-type: way
+type: node
 latitude: 53.23951
 longitude: -0.51497
-postcode: "LN2 4QQ"
+postcode: LN2 4QQ
 city: Lincoln
-street: "Wragby Road"
-housenumber: 186
+street: Wragby Road
+housenumber: "186"
 phone: ""
-opening_hours: "Mo-Sa 00:00-24:00; Su 10:00-16:00"
+opening_hours: Mo-Sa 00:00-24:00; Su 10:00-16:00
 website: ""

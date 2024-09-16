@@ -1,11 +1,11 @@
 id: 508491368
-type: way
+type: node
 latitude: 53.16792
 longitude: -1.41578
-postcode: "S45 9DY"
+postcode: S45 9DY
 city: Chesterfield
-street: "High Street"
-housenumber: 8
+street: High Street
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00; Su 10:00-16:00"
+opening_hours: Mo-Sa 08:00-22:00; Su 10:00-16:00
 website: ""

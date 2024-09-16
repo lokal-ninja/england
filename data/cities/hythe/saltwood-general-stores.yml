@@ -1,11 +1,11 @@
 id: 844362772
-type: way
+type: node
 latitude: 51.08047
 longitude: 1.07637
 postcode: ""
 city: Hythe
-street: "The Green"
-housenumber: 
+street: The Green
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:00; Sa 07:15-18:00; Su 07:15-13:00"
-website: "http://hythelife.org.uk/saltwood-general-stores/"
+opening_hours: Mo-Fr 06:00-18:00; Sa 07:15-18:00; Su 07:15-13:00
+website: http://hythelife.org.uk/saltwood-general-stores/

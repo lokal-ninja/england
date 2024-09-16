@@ -1,11 +1,11 @@
 id: 323662184
-type: way
+type: node
 latitude: 50.92708
 longitude: -2.30316
-postcode: "DT10 1BD"
+postcode: DT10 1BD
 city: Sturminster Newton
-street: "Station Road"
-housenumber: 1
+street: Station Road
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

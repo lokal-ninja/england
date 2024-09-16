@@ -2,10 +2,10 @@ id: 4943019744
 type: node
 latitude: 50.87928
 longitude: -1.03194
-postcode: "PO7 7DS"
+postcode: PO7 7DS
 city: Waterlooville
-street: "London Road"
-housenumber: 278
+street: London Road
+housenumber: "278"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 394213282
-type: way
+type: node
 latitude: 52.71573
 longitude: 0.41423
-postcode: "PE33 0NP"
+postcode: PE33 0NP
 city: King's Lynn
-street: "Main Road"
-housenumber: 212
+street: Main Road
+housenumber: "212"
 phone: ""
-opening_hours: "Mo-Su 06:00-21:00"
+opening_hours: Mo-Su 06:00-21:00
 website: ""

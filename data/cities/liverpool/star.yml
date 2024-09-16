@@ -2,10 +2,11 @@ id: 11248177741
 type: node
 latitude: 53.36336
 longitude: -2.91664
-postcode: "L19 3QG"
+postcode: L19 3QG
 city: Liverpool
-street: "Aigburth Road"
-housenumber: 542
+street: Aigburth Road
+housenumber: "542"
 phone: "+441514277526"
-opening_hours: "Mo Off; Tu 10:00-17:00; We Off; Th 10:00-20:00; Fr 10:00-18:00; Sa 10:00-17:00; Su Off"
+opening_hours: Mo Off; Tu 10:00-17:00; We Off; Th 10:00-20:00; Fr 10:00-18:00; Sa
+    10:00-17:00; Su Off
 website: ""

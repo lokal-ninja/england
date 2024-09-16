@@ -1,11 +1,11 @@
 id: 148435527
-type: way
+type: node
 latitude: 50.90739
 longitude: -3.49201
-postcode: "EX16 6RZ"
+postcode: EX16 6RZ
 city: Tiverton
-street: "Kennedy Way"
-housenumber: 
+street: Kennedy Way
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su 10:00-16:00"
-website: "https://my.morrisons.com/storefinder/338/tiverton"
+opening_hours: Mo-Sa 07:00-22:00; Su 10:00-16:00
+website: https://my.morrisons.com/storefinder/338/tiverton

@@ -1,11 +1,11 @@
 id: 973054719
-type: way
+type: node
 latitude: 51.90054
 longitude: -0.45261
-postcode: "LU4 9BS"
+postcode: LU4 9BS
 city: Luton
-street: "Dordans Road"
-housenumber: 87
+street: Dordans Road
+housenumber: "87"
 phone: ""
 opening_hours: ""
 website: ""

@@ -2,10 +2,10 @@ id: 3131242151
 type: node
 latitude: 51.49556
 longitude: -0.14187
-postcode: "SW1V 1AA"
+postcode: SW1V 1AA
 city: London
-street: "Vauxhall Bridge Road"
-housenumber: 300
+street: Vauxhall Bridge Road
+housenumber: "300"
 phone: ""
 opening_hours: ""
 website: ""

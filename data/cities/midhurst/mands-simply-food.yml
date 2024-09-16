@@ -1,11 +1,11 @@
 id: 224009811
-type: way
+type: node
 latitude: 50.99221
 longitude: -0.73225
-postcode: "GU29 9AZ"
+postcode: GU29 9AZ
 city: Midhurst
-street: "Easebourne Lane"
-housenumber: 
+street: Easebourne Lane
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 06:30-22:00"
-website: "https://www.marksandspencer.com/stores/midhurst-bp-828"
+opening_hours: Mo-Su 06:30-22:00
+website: https://www.marksandspencer.com/stores/midhurst-bp-828

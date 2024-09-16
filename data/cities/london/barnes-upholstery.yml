@@ -1,11 +1,11 @@
 id: 592373224
-type: way
+type: node
 latitude: 51.47042
 longitude: -0.25588
-postcode: "SW13 0NY"
+postcode: SW13 0NY
 city: London
-street: "The Broadway"
-housenumber: 4
+street: The Broadway
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

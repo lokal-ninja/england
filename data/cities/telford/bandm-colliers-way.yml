@@ -1,11 +1,11 @@
 id: 164173130
-type: way
+type: node
 latitude: 52.68325
 longitude: -2.45294
-postcode: "TF3 4AG"
+postcode: TF3 4AG
 city: Telford
-street: "Colliers Way"
-housenumber: 
-phone: "+44 330 838 9320"
-opening_hours: "Mo-Sa 08:00-22:00; Su 10:30-16:30"
+street: Colliers Way
+housenumber: ""
+phone: +44 330 838 9320
+opening_hours: Mo-Sa 08:00-22:00; Su 10:30-16:30
 website: ""

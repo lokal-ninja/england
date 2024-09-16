@@ -1,11 +1,11 @@
 id: 42255309
-type: way
+type: node
 latitude: 53.36239
 longitude: -2.7223
-postcode: "WA8 0TA"
+postcode: WA8 0TA
 city: Widnes
-street: "Earle Road"
-housenumber: 
+street: Earle Road
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

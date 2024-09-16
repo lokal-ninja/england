@@ -1,11 +1,11 @@
 id: 906582814
-type: way
+type: node
 latitude: 50.86688
 longitude: -0.98373
-postcode: "PO9 5AA"
+postcode: PO9 5AA
 city: Havant
-street: "Park Parade"
-housenumber: 10
-phone: "+44 2393 072128"
+street: Park Parade
+housenumber: "10"
+phone: +44 2393 072128
 opening_hours: ""
 website: ""

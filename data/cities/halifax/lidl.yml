@@ -1,11 +1,11 @@
 id: 202093191
-type: way
+type: node
 latitude: 53.72917
 longitude: -1.86235
-postcode: "HX3 6ED"
+postcode: HX3 6ED
 city: Halifax
-street: "Haley Hill"
-housenumber: 83
+street: Haley Hill
+housenumber: "83"
 phone: ""
 opening_hours: ""
-website: "https://www.lidl.co.uk/s/en-GB/store-finder/halifax/haley-hill-83/"
+website: https://www.lidl.co.uk/s/en-GB/store-finder/halifax/haley-hill-83/

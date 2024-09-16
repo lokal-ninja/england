@@ -1,11 +1,11 @@
 id: 836947894
-type: way
+type: node
 latitude: 51.51883
 longitude: -0.07785
-postcode: "E1 6AN"
+postcode: E1 6AN
 city: London
-street: "Brushfield Street"
-housenumber: 20
+street: Brushfield Street
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00; Su 12:00-18:00"
+opening_hours: Mo-Sa 10:00-19:00; Su 12:00-18:00
 website: ""

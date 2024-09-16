@@ -1,11 +1,11 @@
 id: 318695484
-type: way
+type: node
 latitude: 50.82198
 longitude: -0.37277
-postcode: "BN14 8AG"
+postcode: BN14 8AG
 city: Worthing
-street: "Broadwater Road"
-housenumber: 64
+street: Broadwater Road
+housenumber: "64"
 phone: ""
-opening_hours: "09:30-23:00"
+opening_hours: 09:30-23:00
 website: ""

@@ -1,11 +1,11 @@
 id: 998028304
-type: way
+type: node
 latitude: 50.82434
 longitude: -0.37982
-postcode: "BN14 7AX"
+postcode: BN14 7AX
 city: Worthing
-street: "South Farm Road"
-housenumber: 115
-phone: "+44 1903 520 959"
-opening_hours: "Th-Sa 10:00-16:00"
-website: "https://sussexfancydress.wixsite.com/fancydress"
+street: South Farm Road
+housenumber: "115"
+phone: +44 1903 520 959
+opening_hours: Th-Sa 10:00-16:00
+website: https://sussexfancydress.wixsite.com/fancydress

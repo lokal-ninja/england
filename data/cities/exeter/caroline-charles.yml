@@ -2,10 +2,10 @@ id: 6384352416
 type: node
 latitude: 50.72409
 longitude: -3.52736
-postcode: "EX1 1GN"
+postcode: EX1 1GN
 city: Exeter
-street: "Roman Walk"
-housenumber: 2
+street: Roman Walk
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:30-17:30"
-website: "https://www.carolinecharles.co.uk/"
+opening_hours: Mo-Fr 09:30-17:30
+website: https://www.carolinecharles.co.uk/

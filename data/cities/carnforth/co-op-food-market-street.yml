@@ -1,11 +1,11 @@
 id: 366671976
-type: way
+type: node
 latitude: 54.12946
 longitude: -2.76962
-postcode: "LA5 9JU"
+postcode: LA5 9JU
 city: Carnforth
-street: "Market Street"
-housenumber: 
-phone: "+44 1524 733095"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-22:00"
-website: "https://www.coop.co.uk/store-finder/LA5-9JU/market-street"
+street: Market Street
+housenumber: ""
+phone: +44 1524 733095
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-22:00
+website: https://www.coop.co.uk/store-finder/LA5-9JU/market-street

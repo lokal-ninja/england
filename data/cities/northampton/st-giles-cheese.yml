@@ -2,10 +2,10 @@ id: 5148481666
 type: node
 latitude: 52.23781
 longitude: -0.89058
-postcode: "NN1 1JF"
+postcode: NN1 1JF
 city: Northampton
-street: "St Giles Street"
-housenumber: 77
+street: St Giles Street
+housenumber: "77"
 phone: ""
 opening_hours: ""
 website: ""

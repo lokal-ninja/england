@@ -1,11 +1,11 @@
 id: 906582780
-type: way
+type: node
 latitude: 50.86662
 longitude: -0.98329
-postcode: "PO9 5AA"
+postcode: PO9 5AA
 city: Havant
-street: "Park Parade"
-housenumber: 1
+street: Park Parade
+housenumber: "1"
 phone: "+442392480389"
 opening_hours: ""
-website: "https://www.ageuk.org.uk/"
+website: https://www.ageuk.org.uk/

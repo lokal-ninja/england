@@ -1,11 +1,11 @@
 id: 119621860
-type: way
+type: node
 latitude: 50.71393
 longitude: -3.49834
-postcode: "EX2 6NF"
+postcode: EX2 6NF
 city: Exeter
-street: "Burnthouse Lane"
-housenumber: 
+street: Burnthouse Lane
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su 10:00-16:00; PH 08:00-20:00"
-website: "https://www.lidl.co.uk/s/en-GB/store-finder/exeter/burnthouse-lane/"
+opening_hours: Mo-Sa 07:00-22:00; Su 10:00-16:00; PH 08:00-20:00
+website: https://www.lidl.co.uk/s/en-GB/store-finder/exeter/burnthouse-lane/

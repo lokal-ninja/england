@@ -1,11 +1,11 @@
 id: 1192425089
-type: way
+type: node
 latitude: 51.44215
 longitude: -2.57521
 postcode: ""
 city: Bristol
-street: "Stanley Hill"
-housenumber: 3
-phone: "01179 074 299"
+street: Stanley Hill
+housenumber: "3"
+phone: 01179 074 299
 opening_hours: ""
-website: "https://www.threelampsgarage.co.uk/"
+website: https://www.threelampsgarage.co.uk/

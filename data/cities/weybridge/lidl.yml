@@ -1,11 +1,11 @@
 id: 200208151
-type: way
+type: node
 latitude: 51.34545
 longitude: -0.47359
-postcode: "KT13 0XR"
+postcode: KT13 0XR
 city: Weybridge
-street: "Sopwith Drive"
-housenumber: 
+street: Sopwith Drive
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.lidl.co.uk/s/en-GB/store-finder/london/weybridge/paddocks-retail-park/"
+website: https://www.lidl.co.uk/s/en-GB/store-finder/london/weybridge/paddocks-retail-park/

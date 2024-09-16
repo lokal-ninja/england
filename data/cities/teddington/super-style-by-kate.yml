@@ -1,11 +1,11 @@
 id: 764661976
-type: way
+type: node
 latitude: 51.43175
 longitude: -0.34582
-postcode: "TW11 8UB"
+postcode: TW11 8UB
 city: Teddington
-street: "Stanley Road"
-housenumber: 121
-phone: "+44 20 8614 1118"
-opening_hours: "Sa 11:00-17:00; Tu-Fr 11:00-19:00"
+street: Stanley Road
+housenumber: "121"
+phone: +44 20 8614 1118
+opening_hours: Sa 11:00-17:00; Tu-Fr 11:00-19:00
 website: ""

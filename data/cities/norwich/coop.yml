@@ -1,11 +1,11 @@
 id: 1258972767
-type: way
+type: node
 latitude: 52.6058
 longitude: 1.17986
-postcode: "NR9 3SE"
+postcode: NR9 3SE
 city: Norwich
-street: "Coachmaker Way"
-housenumber: 
+street: Coachmaker Way
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://stores.centralengland.coop/norfolk/norwich/hethersett-local-centre"
+opening_hours: Mo-Su 07:00-22:00
+website: https://stores.centralengland.coop/norfolk/norwich/hethersett-local-centre

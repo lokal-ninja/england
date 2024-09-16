@@ -1,11 +1,11 @@
 id: 475504004
-type: way
+type: node
 latitude: 51.72311
 longitude: 0.45278
-postcode: "CM1 3FJ"
+postcode: CM1 3FJ
 city: Chelmsford
-street: "Westway"
-housenumber: 6
-phone: "+44 1245 806712"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 10:30-16:30"
-website: "https://www.dunelm.com/"
+street: Westway
+housenumber: "6"
+phone: +44 1245 806712
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 10:30-16:30
+website: https://www.dunelm.com/

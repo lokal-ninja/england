@@ -1,11 +1,11 @@
 id: 140315681
-type: way
+type: node
 latitude: 51.51589
 longitude: -0.59165
 postcode: ""
 city: Slough
 street: ""
-housenumber: 91
+housenumber: "91"
 phone: ""
 opening_hours: ""
 website: ""

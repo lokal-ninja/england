@@ -1,11 +1,11 @@
 id: 759615320
-type: way
+type: node
 latitude: 51.28015
 longitude: 1.07779
-postcode: "CT1 2BE"
+postcode: CT1 2BE
 city: Canterbury
-street: "St. Peter's Street"
-housenumber: 56
+street: St. Peter's Street
+housenumber: "56"
 phone: ""
 opening_hours: ""
-website: "https://www.thepawnbrokers.co.uk/"
+website: https://www.thepawnbrokers.co.uk/

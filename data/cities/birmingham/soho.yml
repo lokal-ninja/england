@@ -1,11 +1,11 @@
 id: 336776446
-type: way
+type: node
 latitude: 52.50247
 longitude: -1.93152
-postcode: "B21 9SU"
+postcode: B21 9SU
 city: Birmingham
-street: "Soho Road"
-housenumber: 165
+street: Soho Road
+housenumber: "165"
 phone: ""
 opening_hours: ""
 website: ""

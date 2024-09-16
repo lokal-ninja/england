@@ -1,11 +1,11 @@
 id: 133501200
-type: way
+type: node
 latitude: 51.52303
 longitude: -2.60805
-postcode: "BS10 7TY"
+postcode: BS10 7TY
 city: Bristol
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

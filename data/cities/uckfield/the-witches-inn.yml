@@ -1,11 +1,11 @@
 id: 420045096
-type: way
+type: node
 latitude: 50.97312
 longitude: 0.09686
-postcode: "TN22 1RG"
+postcode: TN22 1RG
 city: Uckfield
-street: "High Street"
-housenumber: 91
+street: High Street
+housenumber: "91"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 219028558
-type: way
+type: node
 latitude: 53.2345
 longitude: -0.50736
-postcode: "LN2 4HU"
+postcode: LN2 4HU
 city: Lincoln
-street: "Outer Circle Road"
-housenumber: 
+street: Outer Circle Road
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

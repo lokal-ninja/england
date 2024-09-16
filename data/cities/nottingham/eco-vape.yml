@@ -1,11 +1,11 @@
 id: 116824704
-type: way
+type: node
 latitude: 52.95519
 longitude: -1.14946
-postcode: "NG1 2AG"
+postcode: NG1 2AG
 city: Nottingham
-street: "Upper Parliament Street"
-housenumber: 32
+street: Upper Parliament Street
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

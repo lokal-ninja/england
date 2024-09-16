@@ -1,11 +1,11 @@
 id: 834909713
-type: way
+type: node
 latitude: 53.59525
 longitude: -2.45006
-postcode: "BL1 3LG"
+postcode: BL1 3LG
 city: Bolton
-street: "Adrian Road"
-housenumber: 8
+street: Adrian Road
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

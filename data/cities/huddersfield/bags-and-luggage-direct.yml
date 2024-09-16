@@ -1,11 +1,11 @@
 id: 1126912183
-type: way
+type: node
 latitude: 53.64531
 longitude: -1.78381
-postcode: "HD1 2BR"
+postcode: HD1 2BR
 city: Huddersfield
-street: "Imperial Arcade"
-housenumber: 12
+street: Imperial Arcade
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

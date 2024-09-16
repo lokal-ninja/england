@@ -1,11 +1,11 @@
 id: 1024236408
-type: way
+type: node
 latitude: 51.46572
 longitude: -0.01128
-postcode: "SE13 7PA"
+postcode: SE13 7PA
 city: London
-street: "Lewisham Road"
-housenumber: 308
+street: Lewisham Road
+housenumber: "308"
 phone: ""
 opening_hours: ""
 website: ""

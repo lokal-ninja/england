@@ -1,11 +1,11 @@
 id: 305083135
-type: way
+type: node
 latitude: 51.53395
 longitude: -2.56457
-postcode: "BS34 6DD"
+postcode: BS34 6DD
 city: Bristol
-street: "Chelford Grove"
-housenumber: 7
+street: Chelford Grove
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

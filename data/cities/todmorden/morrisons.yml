@@ -1,11 +1,11 @@
 id: 102848228
-type: way
+type: node
 latitude: 53.7109
 longitude: -2.10147
-postcode: "OL14 6LG"
+postcode: OL14 6LG
 city: Todmorden
-street: "Rochdale Road"
-housenumber: 
+street: Rochdale Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su 10:00-16:00"
-website: "https://my.morrisons.com/storefinder/219/todmorden"
+opening_hours: Mo-Sa 07:00-22:00; Su 10:00-16:00
+website: https://my.morrisons.com/storefinder/219/todmorden

@@ -2,10 +2,10 @@ id: 4063248711
 type: node
 latitude: 51.5117
 longitude: -0.12458
-postcode: "WC2E 8JG"
+postcode: WC2E 8JG
 city: London
-street: "King Street"
-housenumber: 35
+street: King Street
+housenumber: "35"
 phone: ""
 opening_hours: ""
 website: ""

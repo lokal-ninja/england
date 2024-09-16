@@ -1,11 +1,11 @@
 id: 1193113133
-type: way
+type: node
 latitude: 50.54156
 longitude: -4.93992
-postcode: "PL28 8AP"
+postcode: PL28 8AP
 city: Padstow
-street: "Middle Street"
-housenumber: 2
+street: Middle Street
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.spar.co.uk/store-locator/awl40160-spar-padstow/"
+website: https://www.spar.co.uk/store-locator/awl40160-spar-padstow/

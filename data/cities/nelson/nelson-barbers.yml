@@ -1,11 +1,12 @@
 id: 972302120
-type: way
+type: node
 latitude: 53.83406
 longitude: -2.21292
-postcode: "BB9 9AH"
+postcode: BB9 9AH
 city: Nelson
-street: "Railway Street"
-housenumber: 68
-phone: "+44 77448 149749"
-opening_hours: "Tu-We, 10:00-14:00; 16:00-19:00; Th 10:00-14:00,18:00-20:00; Fr 10:00-13:00,16:00-19:00; Sa-Su 10:00-17:00"
+street: Railway Street
+housenumber: "68"
+phone: +44 77448 149749
+opening_hours: Tu-We, 10:00-14:00; 16:00-19:00; Th 10:00-14:00,18:00-20:00; Fr 10:00-13:00,16:00-19:00;
+    Sa-Su 10:00-17:00
 website: ""

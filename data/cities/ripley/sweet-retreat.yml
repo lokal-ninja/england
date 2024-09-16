@@ -1,11 +1,11 @@
 id: 1026894236
-type: way
+type: node
 latitude: 53.05041
 longitude: -1.40502
-postcode: "DE5 3JE"
+postcode: DE5 3JE
 city: Ripley
-street: "Grosvenor Road"
-housenumber: 27
-phone: "+44 1773 743145"
-opening_hours: "Mo 11:00-16:30; Tu-Sa 09:00-16:30"
-website: "https://sweetretreatripley.co.uk/"
+street: Grosvenor Road
+housenumber: "27"
+phone: +44 1773 743145
+opening_hours: Mo 11:00-16:30; Tu-Sa 09:00-16:30
+website: https://sweetretreatripley.co.uk/

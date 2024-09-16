@@ -1,11 +1,11 @@
 id: 434278319
-type: way
+type: node
 latitude: 53.29555
 longitude: -2.72729
-postcode: "WA6 7AB"
+postcode: WA6 7AB
 city: Frodsham
-street: "Main Street"
-housenumber: 101
+street: Main Street
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

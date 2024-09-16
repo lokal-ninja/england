@@ -4,8 +4,8 @@ latitude: 50.84626
 longitude: -0.93603
 postcode: ""
 city: Emsworth
-street: "High Street"
-housenumber: 34
-phone: "+44 1243 389944"
-opening_hours: "Mo-Sa 10:00-17:00"
+street: High Street
+housenumber: "34"
+phone: +44 1243 389944
+opening_hours: Mo-Sa 10:00-17:00
 website: ""

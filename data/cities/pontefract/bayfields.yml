@@ -1,11 +1,11 @@
 id: 927490276
-type: way
+type: node
 latitude: 53.69018
 longitude: -1.31339
-postcode: "WF8 1LY"
+postcode: WF8 1LY
 city: Pontefract
-street: "Ropergate"
-housenumber: 32
+street: Ropergate
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

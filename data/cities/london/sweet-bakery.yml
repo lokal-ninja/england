@@ -1,11 +1,11 @@
 id: 1207430675
-type: way
+type: node
 latitude: 51.54663
 longitude: 0.00578
-postcode: "E15 1JA"
+postcode: E15 1JA
 city: London
-street: "Leytonstone Road"
-housenumber: 49
+street: Leytonstone Road
+housenumber: "49"
 phone: ""
 opening_hours: ""
 website: ""

@@ -2,10 +2,10 @@ id: 6416338352
 type: node
 latitude: 52.13576
 longitude: -0.46485
-postcode: "MK40 3US"
+postcode: MK40 3US
 city: Bedford
-street: "Castle Lane"
-housenumber: 24
+street: Castle Lane
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

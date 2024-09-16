@@ -1,11 +1,11 @@
 id: 56204897
-type: way
+type: node
 latitude: 52.39879
 longitude: -1.56157
-postcode: "CV4 9AQ"
+postcode: CV4 9AQ
 city: Coventry
-street: "Torrington Avenue"
-housenumber: 51
+street: Torrington Avenue
+housenumber: "51"
 phone: ""
 opening_hours: ""
-website: "https://www.costco.co.uk/store-finder/Coventry"
+website: https://www.costco.co.uk/store-finder/Coventry

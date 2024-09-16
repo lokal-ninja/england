@@ -2,10 +2,10 @@ id: 9833951587
 type: node
 latitude: 53.47072
 longitude: -2.23738
-postcode: "M1 7DU"
+postcode: M1 7DU
 city: Manchester
-street: "Oxford Road"
-housenumber: 123
+street: Oxford Road
+housenumber: "123"
 phone: ""
-opening_hours: "Mo-Sa 09:30-17:30"
+opening_hours: Mo-Sa 09:30-17:30
 website: ""

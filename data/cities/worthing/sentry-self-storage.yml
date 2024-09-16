@@ -1,11 +1,11 @@
 id: 981000551
-type: way
+type: node
 latitude: 50.82033
 longitude: -0.45858
-postcode: "BN12 6PW"
+postcode: BN12 6PW
 city: Worthing
-street: "Coopers Industrial Estate"
-housenumber: 1
+street: Coopers Industrial Estate
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

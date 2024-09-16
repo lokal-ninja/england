@@ -1,11 +1,11 @@
 id: 273064176
-type: way
+type: node
 latitude: 51.01507
 longitude: -3.09765
-postcode: "TA1 3LS"
+postcode: TA1 3LS
 city: Taunton
-street: "East Street"
-housenumber: 42
+street: East Street
+housenumber: "42"
 phone: ""
 opening_hours: ""
 website: ""

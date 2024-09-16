@@ -1,11 +1,11 @@
 id: 332503501
-type: way
+type: node
 latitude: 53.77528
 longitude: -2.47993
 postcode: ""
 city: Blackburn
-street: "Whalley New Road"
-housenumber: 619
-phone: "+44 1254 248501"
+street: Whalley New Road
+housenumber: "619"
+phone: +44 1254 248501
 opening_hours: ""
 website: ""

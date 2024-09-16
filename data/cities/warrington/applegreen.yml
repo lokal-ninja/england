@@ -1,11 +1,11 @@
 id: 1026843337
-type: way
+type: node
 latitude: 53.3984
 longitude: -2.5424
-postcode: "WA1 4AE"
+postcode: WA1 4AE
 city: Warrington
-street: "Manchester Road"
-housenumber: 43
+street: Manchester Road
+housenumber: "43"
 phone: ""
 opening_hours: ""
 website: ""

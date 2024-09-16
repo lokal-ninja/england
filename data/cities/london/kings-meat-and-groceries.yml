@@ -1,11 +1,11 @@
 id: 372808118
-type: way
+type: node
 latitude: 51.54935
 longitude: -0.05462
-postcode: "E8 1HP"
+postcode: E8 1HP
 city: London
-street: "Mare Street"
-housenumber: 410
+street: Mare Street
+housenumber: "410"
 phone: ""
 opening_hours: ""
 website: ""

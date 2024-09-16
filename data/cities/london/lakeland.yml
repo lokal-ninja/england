@@ -1,11 +1,11 @@
 id: 434028018
-type: way
+type: node
 latitude: 51.42126
 longitude: -0.20404
-postcode: "SW19 8YA"
+postcode: SW19 8YA
 city: London
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 09:30-19:00; Th 09:30-20:00; Sa 09:00-18:00; Su 11:00-17:00"
-website: "https://www.lakeland.co.uk/stores/wimbledon"
+opening_hours: Mo-Fr 09:30-19:00; Th 09:30-20:00; Sa 09:00-18:00; Su 11:00-17:00
+website: https://www.lakeland.co.uk/stores/wimbledon

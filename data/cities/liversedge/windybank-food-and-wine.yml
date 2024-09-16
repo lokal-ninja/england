@@ -1,11 +1,11 @@
 id: 601101654
-type: way
+type: node
 latitude: 53.713
 longitude: -1.73103
-postcode: "WF15 8LA"
+postcode: WF15 8LA
 city: Liversedge
-street: "Fourth Avenue"
-housenumber: 13
+street: Fourth Avenue
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

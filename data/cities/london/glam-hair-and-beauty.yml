@@ -1,11 +1,11 @@
 id: 497027462
-type: way
+type: node
 latitude: 51.5635
 longitude: -0.11852
 postcode: ""
 city: London
-street: "Hornsey Road"
-housenumber: 287
+street: Hornsey Road
+housenumber: "287"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 193904546
-type: way
+type: node
 latitude: 51.72271
 longitude: 0.44935
-postcode: "CM1 3AG"
+postcode: CM1 3AG
 city: Chelmsford
-street: "Robjohns Road"
-housenumber: 41
-phone: "+44 1245 255799"
-opening_hours: "Mo-Fr 07:30-17:30; Sa 09:00-17:00; Su 10:00-16:00"
-website: "https://www.toppstiles.co.uk/"
+street: Robjohns Road
+housenumber: "41"
+phone: +44 1245 255799
+opening_hours: Mo-Fr 07:30-17:30; Sa 09:00-17:00; Su 10:00-16:00
+website: https://www.toppstiles.co.uk/

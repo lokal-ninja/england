@@ -1,11 +1,11 @@
 id: 204409712
-type: way
+type: node
 latitude: 53.46679
 longitude: -2.26885
-postcode: "M16 9EJ"
+postcode: M16 9EJ
 city: Trafford
-street: "Lund Street"
-housenumber: 1
+street: Lund Street
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 10:00-18:00"
+opening_hours: Mo-Sa 10:00-18:00
 website: ""

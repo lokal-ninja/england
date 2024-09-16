@@ -1,11 +1,11 @@
 id: 597368961
-type: way
+type: node
 latitude: 51.53877
 longitude: 0.03337
-postcode: "E7 8LH"
+postcode: E7 8LH
 city: London
-street: "Carlton Terrace"
-housenumber: 8
+street: Carlton Terrace
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

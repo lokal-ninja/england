@@ -2,10 +2,10 @@ id: 6357034221
 type: node
 latitude: 53.45689
 longitude: -2.27615
-postcode: "M16 0LT"
+postcode: M16 0LT
 city: Manchester
-street: "Skerton Road"
-housenumber: 123
+street: Skerton Road
+housenumber: "123"
 phone: ""
 opening_hours: ""
 website: ""

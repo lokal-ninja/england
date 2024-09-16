@@ -1,11 +1,11 @@
 id: 104118060
-type: way
+type: node
 latitude: 54.95957
 longitude: -1.68064
 postcode: ""
 city: Gateshead
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://community.petsathome.com/store/gateshead/"
+website: https://community.petsathome.com/store/gateshead/

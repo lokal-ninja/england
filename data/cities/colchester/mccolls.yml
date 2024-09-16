@@ -1,11 +1,11 @@
 id: 488635582
-type: way
+type: node
 latitude: 51.88065
 longitude: 0.86522
-postcode: "CO3 4NW"
+postcode: CO3 4NW
 city: Colchester
-street: "The Commons"
-housenumber: 100
+street: The Commons
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

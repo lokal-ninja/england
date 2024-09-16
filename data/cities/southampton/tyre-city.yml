@@ -1,11 +1,11 @@
 id: 172703299
-type: way
+type: node
 latitude: 50.92619
 longitude: -1.43621
-postcode: "SO16 6UP"
+postcode: SO16 6UP
 city: Southampton
-street: "Winchester Road"
-housenumber: 59
+street: Winchester Road
+housenumber: "59"
 phone: ""
 opening_hours: ""
 website: ""

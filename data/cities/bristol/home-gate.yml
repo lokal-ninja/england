@@ -1,11 +1,11 @@
 id: 685125041
-type: way
+type: node
 latitude: 51.46039
 longitude: -2.57471
-postcode: "BS5 0RB"
+postcode: BS5 0RB
 city: Bristol
-street: "Stapleton Road"
-housenumber: 56
+street: Stapleton Road
+housenumber: "56"
 phone: ""
 opening_hours: ""
 website: ""

@@ -2,10 +2,10 @@ id: 12020552462
 type: node
 latitude: 51.24941
 longitude: -0.76615
-postcode: "GU11 1EW"
+postcode: GU11 1EW
 city: Aldershot
-street: "Union Street"
-housenumber: 26
-phone: "+44 1252 333713"
-opening_hours: "Tu-Sa 09:00-18:00; Su 10:00-17:00"
+street: Union Street
+housenumber: "26"
+phone: +44 1252 333713
+opening_hours: Tu-Sa 09:00-18:00; Su 10:00-17:00
 website: ""

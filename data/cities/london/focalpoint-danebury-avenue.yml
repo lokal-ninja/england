@@ -1,11 +1,11 @@
 id: 932193703
-type: way
+type: node
 latitude: 51.44958
 longitude: -0.24215
-postcode: "SW15 4DQ"
+postcode: SW15 4DQ
 city: London
-street: "Danebury Avenue"
-housenumber: 45
+street: Danebury Avenue
+housenumber: "45"
 phone: ""
 opening_hours: ""
 website: ""

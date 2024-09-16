@@ -1,11 +1,11 @@
 id: 906582832
-type: way
+type: node
 latitude: 50.86676
 longitude: -0.98474
-postcode: "PO9 5AL"
+postcode: PO9 5AL
 city: Havant
-street: "Greywell Road"
-housenumber: 4
+street: Greywell Road
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

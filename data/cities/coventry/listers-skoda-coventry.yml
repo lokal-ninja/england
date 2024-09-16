@@ -1,11 +1,12 @@
 id: 56818357
-type: way
+type: node
 latitude: 52.40094
 longitude: -1.55906
-postcode: "CV4 9XH"
+postcode: CV4 9XH
 city: Coventry
-street: "Fletchamstead Highway"
-housenumber: 
-phone: "+44 24 7668 6699"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:30-17:00; Su 10:00-16:00; PH 10:00-16:00; Jan 1 off; Dec 25 off; Dec 26 off; "
+street: Fletchamstead Highway
+housenumber: ""
+phone: +44 24 7668 6699
+opening_hours: 'Mo-Fr 08:00-18:00; Sa 08:30-17:00; Su 10:00-16:00; PH 10:00-16:00;
+    Jan 1 off; Dec 25 off; Dec 26 off; '
 website: ""

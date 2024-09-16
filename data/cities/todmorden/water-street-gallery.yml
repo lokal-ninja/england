@@ -2,10 +2,10 @@ id: 11720140578
 type: node
 latitude: 53.7129
 longitude: -2.09791
-postcode: "OL14 5AB"
+postcode: OL14 5AB
 city: Todmorden
-street: "Water Street"
-housenumber: 25
+street: Water Street
+housenumber: "25"
 phone: ""
-opening_hours: "Mo,We-Fr 10:00-16:30; Tu off; Sa 09:30-17:00; Su 11:00-15:30"
-website: "https://wsgallery.uk"
+opening_hours: Mo,We-Fr 10:00-16:30; Tu off; Sa 09:30-17:00; Su 11:00-15:30
+website: https://wsgallery.uk

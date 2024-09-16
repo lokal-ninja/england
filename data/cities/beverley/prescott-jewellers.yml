@@ -1,11 +1,11 @@
 id: 1090593101
-type: way
+type: node
 latitude: 53.84356
 longitude: -0.43322
 postcode: ""
 city: Beverley
-street: "Saturday Market"
-housenumber: 7
+street: Saturday Market
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

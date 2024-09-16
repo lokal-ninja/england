@@ -2,10 +2,10 @@ id: 4431642491
 type: node
 latitude: 52.57146
 longitude: 0.82273
-postcode: "IP25 6AH"
+postcode: IP25 6AH
 city: Thetford
-street: "High Street"
-housenumber: 64
-phone: "+441953 883448"
-opening_hours: "Mo-Fr 09:30-17:00; Sa 09:30-16:00"
+street: High Street
+housenumber: "64"
+phone: +441953 883448
+opening_hours: Mo-Fr 09:30-17:00; Sa 09:30-16:00
 website: ""

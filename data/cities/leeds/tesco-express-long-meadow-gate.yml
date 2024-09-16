@@ -1,11 +1,11 @@
 id: 199904715
-type: way
+type: node
 latitude: 53.78351
 longitude: -1.37982
-postcode: "LS25 2BX"
+postcode: LS25 2BX
 city: Leeds
-street: "Long Meadow Gate"
-housenumber: 11
+street: Long Meadow Gate
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

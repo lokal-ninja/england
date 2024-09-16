@@ -1,11 +1,11 @@
 id: 219481920
-type: way
+type: node
 latitude: 53.84372
 longitude: -1.53346
-postcode: "LS17 6PY"
+postcode: LS17 6PY
 city: Leeds
-street: "Harrogate Road"
-housenumber: 396
+street: Harrogate Road
+housenumber: "396"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 446429904
-type: way
+type: node
 latitude: 51.63233
 longitude: 0.00707
-postcode: "E4 7BU"
+postcode: E4 7BU
 city: London
-street: "Station Road"
-housenumber: 111
+street: Station Road
+housenumber: "111"
 phone: ""
 opening_hours: ""
 website: ""

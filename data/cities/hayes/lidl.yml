@@ -1,11 +1,11 @@
 id: 658909723
-type: way
+type: node
 latitude: 51.509
 longitude: -0.42012
-postcode: "UB3 2BN"
+postcode: UB3 2BN
 city: Hayes
-street: "Central Avenue"
-housenumber: 1
+street: Central Avenue
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.lidl.co.uk/s/en-GB/store-finder/hayes/central-avenue/"
+website: https://www.lidl.co.uk/s/en-GB/store-finder/hayes/central-avenue/

@@ -2,10 +2,10 @@ id: 4505062889
 type: node
 latitude: 51.60395
 longitude: -0.05148
-postcode: "N17 0UL"
+postcode: N17 0UL
 city: London
-street: "Garman Road"
-housenumber: 42
+street: Garman Road
+housenumber: "42"
 phone: ""
 opening_hours: ""
 website: ""

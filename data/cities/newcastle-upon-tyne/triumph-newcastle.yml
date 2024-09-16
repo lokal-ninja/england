@@ -2,10 +2,10 @@ id: 4554150460
 type: node
 latitude: 54.96479
 longitude: -1.62552
-postcode: "NE4 7AB"
+postcode: NE4 7AB
 city: Newcastle upon Tyne
-street: "Plummer Street"
-housenumber: 2
-phone: "+44 191 282 2864"
+street: Plummer Street
+housenumber: "2"
+phone: +44 191 282 2864
 opening_hours: ""
-website: "https://www.triumphnewcastle.co.uk/"
+website: https://www.triumphnewcastle.co.uk/

@@ -2,10 +2,10 @@ id: 2384090803
 type: node
 latitude: 52.95284
 longitude: -1.14855
-postcode: "NG1 2HN"
+postcode: NG1 2HN
 city: Nottingham
-street: "Flying Horse Walk"
-housenumber: 12
+street: Flying Horse Walk
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

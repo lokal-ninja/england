@@ -1,11 +1,11 @@
 id: 314934176
-type: way
+type: node
 latitude: 51.54045
 longitude: 0.08295
 postcode: ""
 city: Barking
-street: "Longbridge Road"
-housenumber: 52
+street: Longbridge Road
+housenumber: "52"
 phone: ""
 opening_hours: ""
-website: "http://www.londontechnicalservices.com/"
+website: http://www.londontechnicalservices.com/

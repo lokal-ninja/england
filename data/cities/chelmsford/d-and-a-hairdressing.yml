@@ -1,11 +1,11 @@
 id: 218411056
-type: way
+type: node
 latitude: 51.73639
 longitude: 0.48282
-postcode: "CM2 6JP"
+postcode: CM2 6JP
 city: Chelmsford
-street: "Springfield Road"
-housenumber: 199
-phone: "+44 1245 257925"
+street: Springfield Road
+housenumber: "199"
+phone: +44 1245 257925
 opening_hours: ""
 website: ""

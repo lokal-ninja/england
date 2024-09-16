@@ -2,10 +2,10 @@ id: 4777152512
 type: node
 latitude: 54.99522
 longitude: -1.60581
-postcode: "NE2 2DN"
+postcode: NE2 2DN
 city: Newcastle upon Tyne
-street: "St Georges Terrace"
-housenumber: 113
+street: St Georges Terrace
+housenumber: "113"
 phone: ""
 opening_hours: ""
 website: ""

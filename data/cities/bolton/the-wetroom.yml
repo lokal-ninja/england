@@ -1,11 +1,11 @@
 id: 541484388
-type: way
+type: node
 latitude: 53.57995
 longitude: -2.38195
-postcode: "BL2 6NX"
+postcode: BL2 6NX
 city: Bolton
-street: "Bury Road"
-housenumber: 910
+street: Bury Road
+housenumber: "910"
 phone: ""
 opening_hours: ""
 website: ""

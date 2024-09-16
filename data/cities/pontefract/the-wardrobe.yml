@@ -1,11 +1,11 @@
 id: 927490282
-type: way
+type: node
 latitude: 53.69039
 longitude: -1.31289
-postcode: "WF8 1LY"
+postcode: WF8 1LY
 city: Pontefract
-street: "Ropergate"
-housenumber: 22
-phone: "+44 7803 372561"
-opening_hours: "Tu,We,Fr,Sa 10:00-15:00"
-website: "https://thewardrobeladiesfashion.co.uk/"
+street: Ropergate
+housenumber: "22"
+phone: +44 7803 372561
+opening_hours: Tu,We,Fr,Sa 10:00-15:00
+website: https://thewardrobeladiesfashion.co.uk/

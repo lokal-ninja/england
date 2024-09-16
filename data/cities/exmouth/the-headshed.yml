@@ -2,10 +2,10 @@ id: 9349131095
 type: node
 latitude: 50.61934
 longitude: -3.41564
-postcode: "EX8 1DL"
+postcode: EX8 1DL
 city: Exmouth
-street: "Victoria Road"
-housenumber: 6
+street: Victoria Road
+housenumber: "6"
 phone: ""
-opening_hours: "Mo,Sa-Su,PH off; Tu-We,Fr 09:30-13:00; Th 14:00-19:00"
+opening_hours: Mo,Sa-Su,PH off; Tu-We,Fr 09:30-13:00; Th 14:00-19:00
 website: ""

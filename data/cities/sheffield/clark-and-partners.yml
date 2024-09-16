@@ -1,11 +1,11 @@
 id: 1159714684
-type: way
+type: node
 latitude: 53.3456
 longitude: -1.42687
-postcode: "S12 2JX"
+postcode: S12 2JX
 city: Sheffield
-street: "Gleadless Road"
-housenumber: 496
+street: Gleadless Road
+housenumber: "496"
 phone: ""
 opening_hours: ""
 website: ""

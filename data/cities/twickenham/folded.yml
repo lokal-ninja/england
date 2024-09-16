@@ -1,11 +1,11 @@
 id: 630380807
-type: way
+type: node
 latitude: 51.44671
 longitude: -0.32832
-postcode: "TW1 3SX"
+postcode: TW1 3SX
 city: Twickenham
-street: "London Road"
-housenumber: 1
+street: London Road
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 09:00-17:00"
+opening_hours: Mo-Sa 09:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 174658259
-type: way
+type: node
 latitude: 53.68642
 longitude: -1.85631
-postcode: "HX4 8BD"
+postcode: HX4 8BD
 city: Halifax
-street: "Stainland Road"
-housenumber: 45
+street: Stainland Road
+housenumber: "45"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.54152
 longitude: 0.00049
 postcode: ""
 city: London
-street: "The Mall"
-housenumber: 82
+street: The Mall
+housenumber: "82"
 phone: ""
 opening_hours: ""
-website: "https://baseo.co.uk/"
+website: https://baseo.co.uk/

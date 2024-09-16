@@ -1,11 +1,11 @@
 id: 1272209666
-type: way
+type: node
 latitude: 53.46597
 longitude: -2.99942
-postcode: "L21 6NP"
+postcode: L21 6NP
 city: Liverpool
-street: "Linacre Road"
-housenumber: 75
+street: Linacre Road
+housenumber: "75"
 phone: ""
 opening_hours: ""
 website: ""

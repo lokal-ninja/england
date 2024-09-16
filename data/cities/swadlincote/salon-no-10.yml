@@ -1,11 +1,11 @@
 id: 540068522
-type: way
+type: node
 latitude: 52.77339
 longitude: -1.55827
 postcode: ""
 city: Swadlincote
-street: "West Street"
-housenumber: 10
+street: West Street
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

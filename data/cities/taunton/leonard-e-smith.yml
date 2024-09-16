@@ -1,11 +1,11 @@
 id: 163793311
-type: way
+type: node
 latitude: 51.01592
 longitude: -3.09428
-postcode: "TA1 1SY"
+postcode: TA1 1SY
 city: Taunton
-street: "Haydon Road"
-housenumber: 1
+street: Haydon Road
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

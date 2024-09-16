@@ -1,11 +1,11 @@
 id: 300442211
-type: way
+type: node
 latitude: 53.37157
 longitude: -3.06047
-postcode: "CH43 0TX"
+postcode: CH43 0TX
 city: Wirral
-street: "Holmlands Drive"
-housenumber: 4
+street: Holmlands Drive
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

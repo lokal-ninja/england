@@ -1,11 +1,11 @@
 id: 563078585
-type: way
+type: node
 latitude: 53.81001
 longitude: -1.53014
-postcode: "LS7 3AJ"
+postcode: LS7 3AJ
 city: Leeds
-street: "Roundhay Road"
-housenumber: 5
+street: Roundhay Road
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://www.brewers.co.uk/stores/leeds/lds"
+website: https://www.brewers.co.uk/stores/leeds/lds

@@ -2,10 +2,10 @@ id: 379024045
 type: node
 latitude: 52.64006
 longitude: 1.54936
-postcode: "NR13 3QL"
+postcode: NR13 3QL
 city: Norwich
-street: "Old Road"
-housenumber: 31
+street: Old Road
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

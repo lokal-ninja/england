@@ -1,11 +1,11 @@
 id: 1038327231
-type: way
+type: node
 latitude: 50.61138
 longitude: -2.45344
-postcode: "DT4 8DE"
+postcode: DT4 8DE
 city: Weymouth
-street: "The Esplanade"
-housenumber: 62
+street: The Esplanade
+housenumber: "62"
 phone: ""
 opening_hours: ""
 website: ""

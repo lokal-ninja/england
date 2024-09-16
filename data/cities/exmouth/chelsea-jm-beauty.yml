@@ -2,10 +2,10 @@ id: 9609526461
 type: node
 latitude: 50.61895
 longitude: -3.41439
-postcode: "EX8 1AL"
+postcode: EX8 1AL
 city: Exmouth
-street: "The Strand"
-housenumber: 42
+street: The Strand
+housenumber: "42"
 phone: ""
-opening_hours: "Mo,Su,PH off; Tu,Th 10:00-19:00; We,Fr 10:00-17:30; Sa 10:00-15:30"
+opening_hours: Mo,Su,PH off; Tu,Th 10:00-19:00; We,Fr 10:00-17:30; Sa 10:00-15:30
 website: ""

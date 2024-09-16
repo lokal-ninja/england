@@ -1,11 +1,11 @@
 id: 31415726
-type: way
+type: node
 latitude: 52.43739
 longitude: -1.84757
-postcode: "B28 8BX"
+postcode: B28 8BX
 city: Birmingham
-street: "Stratford Road"
-housenumber: 1151
+street: Stratford Road
+housenumber: "1151"
 phone: ""
 opening_hours: ""
 website: ""

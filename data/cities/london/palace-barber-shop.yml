@@ -1,11 +1,11 @@
 id: 189046129
-type: way
+type: node
 latitude: 51.41961
 longitude: -0.08015
-postcode: "SE19 1RX"
+postcode: SE19 1RX
 city: London
-street: "Westow Hill"
-housenumber: 62
-phone: "+44 20 8761 5835"
+street: Westow Hill
+housenumber: "62"
+phone: +44 20 8761 5835
 opening_hours: ""
 website: ""

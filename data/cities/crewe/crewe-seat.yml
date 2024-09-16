@@ -1,11 +1,11 @@
 id: 148319814
-type: way
+type: node
 latitude: 53.08655
 longitude: -2.42408
-postcode: "CW1 6XZ"
+postcode: CW1 6XZ
 city: Crewe
-street: "Weston Road"
-housenumber: 
-phone: "+44 1270 507040"
-opening_hours: "08:00-19:00"
-website: "http://www.creweseat.co.uk"
+street: Weston Road
+housenumber: ""
+phone: +44 1270 507040
+opening_hours: 08:00-19:00
+website: http://www.creweseat.co.uk

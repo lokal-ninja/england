@@ -1,11 +1,11 @@
 id: 389933396
-type: way
+type: node
 latitude: 53.01121
 longitude: -1.36466
-postcode: "DE75 7QL"
+postcode: DE75 7QL
 city: Heanor
-street: "Derby Road"
-housenumber: 129
+street: Derby Road
+housenumber: "129"
 phone: ""
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.nisalocally.co.uk/stores/derbyshire/heanor/129-derby-rd"
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.nisalocally.co.uk/stores/derbyshire/heanor/129-derby-rd

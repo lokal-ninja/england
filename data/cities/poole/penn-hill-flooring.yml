@@ -1,11 +1,11 @@
 id: 364704832
-type: way
+type: node
 latitude: 50.72312
 longitude: -1.92625
-postcode: "BH14 9NB"
+postcode: BH14 9NB
 city: Poole
-street: "Bank Chambers, Penn Hill Avenue"
-housenumber: 9
-phone: "+44 1202 064366"
-opening_hours: "Mo-Fr 9:30-17:30; Sa 9:30-13:30"
-website: "http://www.pennhillflooring.co.uk/"
+street: Bank Chambers, Penn Hill Avenue
+housenumber: "9"
+phone: +44 1202 064366
+opening_hours: Mo-Fr 9:30-17:30; Sa 9:30-13:30
+website: http://www.pennhillflooring.co.uk/

@@ -1,11 +1,11 @@
 id: 323268267
-type: way
+type: node
 latitude: 52.24158
 longitude: -0.89205
-postcode: "NN1 3AU"
+postcode: NN1 3AU
 city: Northampton
-street: "Earl Street"
-housenumber: 2
+street: Earl Street
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

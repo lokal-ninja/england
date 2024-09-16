@@ -1,11 +1,11 @@
 id: 986245562
-type: way
+type: node
 latitude: 50.81018
 longitude: -0.37052
 postcode: ""
 city: Worthing
-street: "Montague Street"
-housenumber: 13
+street: Montague Street
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

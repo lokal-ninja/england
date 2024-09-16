@@ -4,8 +4,8 @@ latitude: 52.18354
 longitude: 0.22149
 postcode: ""
 city: Fulbourn
-street: "High Street"
-housenumber: 11
+street: High Street
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.coop.co.uk/store-finder/CB21-5DH/11-high-street"
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.coop.co.uk/store-finder/CB21-5DH/11-high-street

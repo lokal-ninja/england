@@ -1,11 +1,11 @@
 id: 554522092
-type: way
+type: node
 latitude: 51.48131
 longitude: -2.50499
-postcode: "BS16 5LP"
+postcode: BS16 5LP
 city: Bristol
-street: "Broad Street"
-housenumber: 37
+street: Broad Street
+housenumber: "37"
 phone: ""
 opening_hours: ""
 website: ""

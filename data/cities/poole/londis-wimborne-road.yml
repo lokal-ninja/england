@@ -1,11 +1,11 @@
 id: 1213241096
-type: way
+type: node
 latitude: 50.734
 longitude: -1.9795
-postcode: "BH15 3ED"
+postcode: BH15 3ED
 city: Poole
-street: "Wimborne Road"
-housenumber: 347
+street: Wimborne Road
+housenumber: "347"
 phone: ""
 opening_hours: ""
 website: ""

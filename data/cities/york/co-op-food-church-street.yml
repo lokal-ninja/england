@@ -1,11 +1,11 @@
 id: 319274634
-type: way
+type: node
 latitude: 53.91503
 longitude: -1.14095
-postcode: "YO23 3SE"
+postcode: YO23 3SE
 city: York
-street: "Church Street"
-housenumber: 
+street: Church Street
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.coop.co.uk/store-finder/YO23-3SE/17-church-street"
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.coop.co.uk/store-finder/YO23-3SE/17-church-street

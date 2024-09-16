@@ -1,11 +1,11 @@
 id: 436862105
-type: way
+type: node
 latitude: 54.99923
 longitude: -1.43023
-postcode: "NE33 2AA"
+postcode: NE33 2AA
 city: South Shields
-street: "Ocean Road"
-housenumber: 
-phone: "+44 191 456 9139"
+street: Ocean Road
+housenumber: ""
+phone: +44 191 456 9139
 opening_hours: ""
-website: "https://my.morrisons.com/storefinder/389/south-shields"
+website: https://my.morrisons.com/storefinder/389/south-shields

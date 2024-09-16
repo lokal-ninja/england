@@ -1,11 +1,11 @@
 id: 128332446
-type: way
+type: node
 latitude: 55.15935
 longitude: -1.68097
-postcode: "NE61 2SB"
+postcode: NE61 2SB
 city: Morpeth
-street: "Shields Road"
-housenumber: 
+street: Shields Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 07:00-23:00"
+opening_hours: Mo-Su 07:00-23:00
 website: ""

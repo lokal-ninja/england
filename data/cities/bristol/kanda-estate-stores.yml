@@ -1,11 +1,11 @@
 id: 210227579
-type: way
+type: node
 latitude: 51.44586
 longitude: -2.48372
-postcode: "BS30 8EN"
+postcode: BS30 8EN
 city: Bristol
-street: "School Road"
-housenumber: 5
+street: School Road
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

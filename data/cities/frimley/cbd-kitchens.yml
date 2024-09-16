@@ -4,8 +4,8 @@ latitude: 51.31398
 longitude: -0.74433
 postcode: ""
 city: Frimley
-street: "High Street"
-housenumber: 42
+street: High Street
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Sa 09:00-17:00"
+opening_hours: Mo-Sa 09:00-17:00
 website: ""

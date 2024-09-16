@@ -1,11 +1,11 @@
 id: 303538855
-type: way
+type: node
 latitude: 51.40362
 longitude: -1.32484
-postcode: "RG14 1AE"
+postcode: RG14 1AE
 city: Newbury
-street: "Northbrook Street"
-housenumber: 72
+street: Northbrook Street
+housenumber: "72"
 phone: ""
 opening_hours: ""
 website: ""

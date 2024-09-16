@@ -1,11 +1,11 @@
 id: 596656658
-type: way
+type: node
 latitude: 53.41009
 longitude: -2.92644
-postcode: "L13 1FA"
+postcode: L13 1FA
 city: Liverpool
-street: "Montrose Way"
-housenumber: 12
+street: Montrose Way
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su 11:00-17:00"
+opening_hours: Mo-Sa 08:00-20:00; Su 11:00-17:00
 website: ""

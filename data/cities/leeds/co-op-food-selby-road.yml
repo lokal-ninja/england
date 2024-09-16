@@ -4,8 +4,8 @@ latitude: 53.79813
 longitude: -1.44928
 postcode: ""
 city: Leeds
-street: "Selby Road"
-housenumber: 401
+street: Selby Road
+housenumber: "401"
 phone: ""
-opening_hours: "PH,Mo-Su 06:00-21:00"
-website: "https://www.coop.co.uk/store-finder/LS15-7AY/401-selby-road"
+opening_hours: PH,Mo-Su 06:00-21:00
+website: https://www.coop.co.uk/store-finder/LS15-7AY/401-selby-road

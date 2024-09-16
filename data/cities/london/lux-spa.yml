@@ -1,11 +1,11 @@
 id: 600875404
-type: way
+type: node
 latitude: 51.46853
 longitude: -0.2547
-postcode: "SW13 0PZ"
+postcode: SW13 0PZ
 city: London
-street: "White Hart Lane"
-housenumber: 64
-phone: "+44 20 8487 5889"
-opening_hours: "Mo-Sa 10:00-19:00"
+street: White Hart Lane
+housenumber: "64"
+phone: +44 20 8487 5889
+opening_hours: Mo-Sa 10:00-19:00
 website: ""

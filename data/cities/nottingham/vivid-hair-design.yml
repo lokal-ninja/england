@@ -1,11 +1,11 @@
 id: 220076021
-type: way
+type: node
 latitude: 52.90763
 longitude: -1.25924
-postcode: "NG9 6FZ"
+postcode: NG9 6FZ
 city: Nottingham
-street: "Stapleford Lane"
-housenumber: 107
+street: Stapleford Lane
+housenumber: "107"
 phone: ""
 opening_hours: ""
 website: ""

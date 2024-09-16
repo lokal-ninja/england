@@ -1,11 +1,11 @@
 id: 252424433
-type: way
+type: node
 latitude: 52.95162
 longitude: -1.14725
-postcode: "NG1 2GP"
+postcode: NG1 2GP
 city: Nottingham
-street: "Bridlesmith Gate"
-housenumber: 58
+street: Bridlesmith Gate
+housenumber: "58"
 phone: ""
 opening_hours: ""
 website: ""

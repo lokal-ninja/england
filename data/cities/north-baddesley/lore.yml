@@ -1,11 +1,11 @@
 id: 234185075
-type: way
+type: node
 latitude: 50.97611
 longitude: -1.44873
-postcode: "SO52 9FN"
+postcode: SO52 9FN
 city: North Baddesley
-street: "Seymour Lane"
-housenumber: 9
+street: Seymour Lane
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

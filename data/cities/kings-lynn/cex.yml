@@ -1,11 +1,11 @@
 id: 865403202
-type: way
+type: node
 latitude: 52.7552
 longitude: 0.39686
-postcode: "PE30 1AR"
+postcode: PE30 1AR
 city: King's Lynn
-street: "Norfolk Street"
-housenumber: 
+street: Norfolk Street
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://uk.webuy.com/site/storeDetail/?branchId=190"
+website: https://uk.webuy.com/site/storeDetail/?branchId=190

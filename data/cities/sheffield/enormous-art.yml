@@ -1,11 +1,11 @@
 id: 1044499895
-type: way
+type: node
 latitude: 53.36403
 longitude: -1.54498
-postcode: "S10 3TE"
+postcode: S10 3TE
 city: Sheffield
-street: "Brookhouse Hill"
-housenumber: 95
+street: Brookhouse Hill
+housenumber: "95"
 phone: ""
 opening_hours: ""
 website: ""

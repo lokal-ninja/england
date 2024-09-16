@@ -1,11 +1,11 @@
 id: 1180247942
-type: way
+type: node
 latitude: 50.8136
 longitude: 0.2396
-postcode: "BN26 5LR"
+postcode: BN26 5LR
 city: Polegate
-street: "Farmlands Way"
-housenumber: 45
+street: Farmlands Way
+housenumber: "45"
 phone: ""
 opening_hours: ""
 website: ""

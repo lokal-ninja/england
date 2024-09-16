@@ -1,11 +1,11 @@
 id: 1225002557
-type: way
+type: node
 latitude: 51.81074
 longitude: -0.03042
-postcode: "SG12 9BY"
+postcode: SG12 9BY
 city: Ware
-street: "High Street"
-housenumber: 42
+street: High Street
+housenumber: "42"
 phone: "01920318615"
-opening_hours: "Mo-Sa 09:00-17:00; Su 10:00-16:00"
-website: "https://www.mind.org.uk/"
+opening_hours: Mo-Sa 09:00-17:00; Su 10:00-16:00
+website: https://www.mind.org.uk/

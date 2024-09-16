@@ -1,11 +1,11 @@
 id: 147546392
-type: way
+type: node
 latitude: 52.46751
 longitude: -1.80837
-postcode: "B25 8UT"
+postcode: B25 8UT
 city: Birmingham
-street: "Church Road"
-housenumber: 144
+street: Church Road
+housenumber: "144"
 phone: ""
 opening_hours: ""
 website: ""

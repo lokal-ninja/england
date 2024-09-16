@@ -1,11 +1,11 @@
 id: 972241280
-type: way
+type: node
 latitude: 51.54739
 longitude: 0.0326
-postcode: "E7 8AB"
+postcode: E7 8AB
 city: London
-street: "Romford Road"
-housenumber: 397
+street: Romford Road
+housenumber: "397"
 phone: ""
 opening_hours: ""
-website: "https://chamberstimber.com/"
+website: https://chamberstimber.com/

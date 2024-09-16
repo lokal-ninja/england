@@ -1,11 +1,11 @@
 id: 329446330
-type: way
+type: node
 latitude: 51.51582
 longitude: -0.07213
-postcode: "E1 6LP"
+postcode: E1 6LP
 city: London
-street: "Commercial Street"
+street: Commercial Street
 housenumber: 4a
-phone: "+44 20 7247 0062"
-opening_hours: "Mo-Sa"
+phone: +44 20 7247 0062
+opening_hours: Mo-Sa
 website: ""

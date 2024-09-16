@@ -1,11 +1,11 @@
 id: 577255605
-type: way
+type: node
 latitude: 51.75989
 longitude: -0.56283
-postcode: "HP4 3AT"
+postcode: HP4 3AT
 city: Berkhamstead
-street: "High Street"
-housenumber: 140
+street: High Street
+housenumber: "140"
 phone: ""
 opening_hours: ""
 website: ""

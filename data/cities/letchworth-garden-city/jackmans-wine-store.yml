@@ -1,11 +1,11 @@
 id: 135970063
-type: way
+type: node
 latitude: 51.97002
 longitude: -0.21047
-postcode: "SG6 2NH"
+postcode: SG6 2NH
 city: Letchworth Garden City
-street: "Ivel Court"
-housenumber: 1
-phone: "+44 1462 539977"
-opening_hours: "Mo-Su 11:00-22:00"
+street: Ivel Court
+housenumber: "1"
+phone: +44 1462 539977
+opening_hours: Mo-Su 11:00-22:00
 website: ""

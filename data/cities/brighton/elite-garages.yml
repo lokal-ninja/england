@@ -1,11 +1,11 @@
 id: 875899647
-type: way
+type: node
 latitude: 50.83912
 longitude: -0.155
-postcode: "BN1 5PT"
+postcode: BN1 5PT
 city: Brighton
-street: "Highcroft Villas"
-housenumber: 46
+street: Highcroft Villas
+housenumber: "46"
 phone: ""
 opening_hours: ""
-website: "https://www.elitegarages.co.uk/brighton"
+website: https://www.elitegarages.co.uk/brighton

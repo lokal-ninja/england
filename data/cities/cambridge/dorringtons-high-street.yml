@@ -2,10 +2,10 @@ id: 2048042496
 type: node
 latitude: 52.18739
 longitude: 0.17497
-postcode: "CB1 9HT"
+postcode: CB1 9HT
 city: Cambridge
-street: "High Street"
-housenumber: 100
+street: High Street
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

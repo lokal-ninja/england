@@ -1,11 +1,11 @@
 id: 1015967985
-type: way
+type: node
 latitude: 53.03214
 longitude: -1.40592
-postcode: "DE5 8JN"
+postcode: DE5 8JN
 city: Ripley
-street: "Derby Road"
-housenumber: 300
+street: Derby Road
+housenumber: "300"
 phone: ""
 opening_hours: ""
 website: ""

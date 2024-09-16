@@ -1,11 +1,11 @@
 id: 159519923
-type: way
+type: node
 latitude: 54.54487
 longitude: -1.92337
-postcode: "DL12 8JJ"
+postcode: DL12 8JJ
 city: Barnard Castle
-street: "Galgate"
-housenumber: 23
+street: Galgate
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su 10:00-16:00"
-website: "https://my.morrisons.com/storefinder/202/barnard-castle"
+opening_hours: Mo-Sa 07:00-22:00; Su 10:00-16:00
+website: https://my.morrisons.com/storefinder/202/barnard-castle

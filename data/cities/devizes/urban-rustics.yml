@@ -1,11 +1,11 @@
 id: 904772651
-type: way
+type: node
 latitude: 51.35187
 longitude: -1.99419
 postcode: ""
 city: Devizes
-street: "Old Swan Yard"
-housenumber: 7
+street: Old Swan Yard
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

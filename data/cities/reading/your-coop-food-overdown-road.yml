@@ -1,11 +1,11 @@
 id: 70517058
-type: way
+type: node
 latitude: 51.46975
 longitude: -1.04493
-postcode: "RG31 6PR"
+postcode: RG31 6PR
 city: Reading
-street: "Overdown Road"
-housenumber: 
+street: Overdown Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su 08:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00; Su 08:00-22:00
 website: ""

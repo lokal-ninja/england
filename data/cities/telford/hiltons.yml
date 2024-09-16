@@ -1,11 +1,11 @@
 id: 358546734
-type: way
+type: node
 latitude: 52.72401
 longitude: -2.43205
-postcode: "TF2 8NQ"
+postcode: TF2 8NQ
 city: Telford
-street: "Wellington Road"
-housenumber: 18
+street: Wellington Road
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00"
+opening_hours: Mo-Fr 09:00-17:00
 website: ""

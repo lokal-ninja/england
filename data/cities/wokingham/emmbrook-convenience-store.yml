@@ -1,11 +1,11 @@
 id: 1052670712
-type: way
+type: node
 latitude: 51.41913
 longitude: -0.85415
-postcode: "RG41 1HD"
+postcode: RG41 1HD
 city: Wokingham
-street: "Reading Road"
-housenumber: 139
+street: Reading Road
+housenumber: "139"
 phone: ""
-opening_hours: "Mo-Sa 06:00-22:00; Su 06:30-22:00"
-website: "https://www.premier-stores.co.uk/our-stores/emmbrook-convenience-store"
+opening_hours: Mo-Sa 06:00-22:00; Su 06:30-22:00
+website: https://www.premier-stores.co.uk/our-stores/emmbrook-convenience-store

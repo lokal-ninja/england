@@ -1,11 +1,11 @@
 id: 196918956
-type: way
+type: node
 latitude: 51.50145
 longitude: -2.57019
 postcode: ""
 city: Bristol
-street: "Filton Avenue"
-housenumber: 526
+street: Filton Avenue
+housenumber: "526"
 phone: ""
 opening_hours: ""
 website: ""

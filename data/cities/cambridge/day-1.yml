@@ -2,10 +2,10 @@ id: 821007683
 type: node
 latitude: 52.20468
 longitude: 0.13741
-postcode: "CB1 2LF"
+postcode: CB1 2LF
 city: Cambridge
-street: "Norfolk Street"
-housenumber: 20
+street: Norfolk Street
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Su 08:00-20:00"
+opening_hours: Mo-Su 08:00-20:00
 website: ""

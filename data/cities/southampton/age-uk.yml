@@ -1,11 +1,11 @@
 id: 160630495
-type: way
+type: node
 latitude: 50.92622
 longitude: -1.39241
-postcode: "SO17 2NF"
+postcode: SO17 2NF
 city: Southampton
-street: "Portswood Road"
-housenumber: 229
+street: Portswood Road
+housenumber: "229"
 phone: ""
 opening_hours: ""
-website: "https://directory.ageuk.org.uk/charity-shops/"
+website: https://directory.ageuk.org.uk/charity-shops/

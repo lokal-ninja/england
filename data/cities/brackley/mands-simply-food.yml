@@ -1,11 +1,11 @@
 id: 89273359
-type: way
+type: node
 latitude: 52.04226
 longitude: -1.13755
-postcode: "NN13 5SZ"
+postcode: NN13 5SZ
 city: Brackley
-street: "Northampton Road"
-housenumber: 
+street: Northampton Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 00:00-24:00"
-website: "https://www.marksandspencer.com/stores/brackley-bp-15"
+opening_hours: Mo-Su 00:00-24:00
+website: https://www.marksandspencer.com/stores/brackley-bp-15

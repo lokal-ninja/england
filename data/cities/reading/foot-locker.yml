@@ -1,11 +1,11 @@
 id: 888702339
-type: way
+type: node
 latitude: 51.45548
 longitude: -0.97448
-postcode: "RG1 2AP"
+postcode: RG1 2AP
 city: Reading
-street: "Broad Street"
-housenumber: 
+street: Broad Street
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00; Su 11:00-17:00"
-website: "https://stores.footlocker.co.uk/gb-rdg/reading/83-broad-street-1322_31_04277.html"
+opening_hours: Mo-Sa 10:00-19:00; Su 11:00-17:00
+website: https://stores.footlocker.co.uk/gb-rdg/reading/83-broad-street-1322_31_04277.html

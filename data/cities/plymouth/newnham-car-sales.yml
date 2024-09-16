@@ -1,11 +1,11 @@
 id: 1247741844
-type: way
+type: node
 latitude: 50.39354
 longitude: -4.05369
-postcode: "PL7 4AN"
+postcode: PL7 4AN
 city: Plymouth
-street: "Newnham Road"
-housenumber: 2
+street: Newnham Road
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

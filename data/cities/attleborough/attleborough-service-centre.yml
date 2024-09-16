@@ -1,11 +1,11 @@
 id: 307436869
-type: way
+type: node
 latitude: 52.45053
 longitude: 0.90798
-postcode: "NR16 2QN"
+postcode: NR16 2QN
 city: Attleborough
-street: "Roudham Road"
-housenumber: 
+street: Roudham Road
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://attleboroughservicecentre.co.uk/"
+website: https://attleboroughservicecentre.co.uk/

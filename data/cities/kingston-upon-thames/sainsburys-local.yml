@@ -1,11 +1,11 @@
 id: 554242059
-type: way
+type: node
 latitude: 51.40216
 longitude: -0.30432
-postcode: "KT1 2EQ"
+postcode: KT1 2EQ
 city: Kingston upon Thames
-street: "Penrhyn Road"
-housenumber: 75
+street: Penrhyn Road
+housenumber: "75"
 phone: ""
 opening_hours: ""
 website: ""

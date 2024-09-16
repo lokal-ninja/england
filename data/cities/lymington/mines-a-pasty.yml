@@ -1,11 +1,11 @@
 id: 331407095
-type: way
+type: node
 latitude: 50.75893
 longitude: -1.53868
-postcode: "SO41 9AA"
+postcode: SO41 9AA
 city: Lymington
-street: "High Street"
-housenumber: 9
+street: High Street
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

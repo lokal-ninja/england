@@ -1,11 +1,11 @@
 id: 1068469251
-type: way
+type: node
 latitude: 54.04876
 longitude: -2.79946
-postcode: "LA1 1NB"
+postcode: LA1 1NB
 city: Lancaster
-street: "Lancaster Gate"
-housenumber: 4
+street: Lancaster Gate
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

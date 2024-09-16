@@ -1,11 +1,11 @@
 id: 141937396
-type: way
+type: node
 latitude: 52.46365
 longitude: -1.81334
-postcode: "B25 8XE"
+postcode: B25 8XE
 city: Birmingham
-street: "Church Road"
-housenumber: 34
+street: Church Road
+housenumber: "34"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1263586508
-type: way
+type: node
 latitude: 53.43509
 longitude: -2.97213
-postcode: "L4 4JX"
+postcode: L4 4JX
 city: Liverpool
-street: "Christopher Street"
-housenumber: 4
+street: Christopher Street
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

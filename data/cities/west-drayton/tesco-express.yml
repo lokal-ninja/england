@@ -1,11 +1,11 @@
 id: 320232003
-type: way
+type: node
 latitude: 51.50284
 longitude: -0.46664
-postcode: "UB7 7JF"
+postcode: UB7 7JF
 city: West Drayton
-street: "Station Road"
-housenumber: 223
+street: Station Road
+housenumber: "223"
 phone: ""
-opening_hours: "mo-su 06:00-00:00"
+opening_hours: mo-su 06:00-00:00
 website: ""

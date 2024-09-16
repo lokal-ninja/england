@@ -1,11 +1,11 @@
 id: 490672677
-type: way
+type: node
 latitude: 52.58657
 longitude: -1.10604
-postcode: "LE18 1NR"
+postcode: LE18 1NR
 city: Wigston
-street: "Leicester Road"
-housenumber: 23
+street: Leicester Road
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

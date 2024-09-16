@@ -1,11 +1,11 @@
 id: 448331936
-type: way
+type: node
 latitude: 53.68219
 longitude: -1.49412
-postcode: "WF1 1US"
+postcode: WF1 1US
 city: Wakefield
-street: "All Saints Walk"
-housenumber: 1
+street: All Saints Walk
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

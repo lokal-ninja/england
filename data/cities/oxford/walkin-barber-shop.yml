@@ -1,11 +1,11 @@
 id: 135885537
-type: way
+type: node
 latitude: 51.75953
 longitude: -1.21069
-postcode: "OX3 7BU"
+postcode: OX3 7BU
 city: Oxford
-street: "Windmill Road"
-housenumber: 1
+street: Windmill Road
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

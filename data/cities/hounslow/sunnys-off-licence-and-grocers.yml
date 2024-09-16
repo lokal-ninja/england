@@ -1,11 +1,11 @@
 id: 1009723055
-type: way
+type: node
 latitude: 51.45792
 longitude: -0.36277
-postcode: "TW3 2EN"
+postcode: TW3 2EN
 city: Hounslow
-street: "Whitton Road"
-housenumber: 2
+street: Whitton Road
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

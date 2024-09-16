@@ -1,11 +1,11 @@
 id: 130642652
-type: way
+type: node
 latitude: 52.92316
 longitude: -1.47922
-postcode: "DE1 3NL"
+postcode: DE1 3NL
 city: Derby
-street: "Sadler Gate"
-housenumber: 25
+street: Sadler Gate
+housenumber: "25"
 phone: ""
 opening_hours: ""
-website: "https://www.sallymontague.co.uk/"
+website: https://www.sallymontague.co.uk/

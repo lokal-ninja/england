@@ -2,10 +2,10 @@ id: 6700540760
 type: node
 latitude: 50.82569
 longitude: -0.1382
-postcode: "BN1 1YE"
+postcode: BN1 1YE
 city: Brighton
-street: "North Road"
-housenumber: 93
+street: North Road
+housenumber: "93"
 phone: ""
 opening_hours: ""
-website: "https://gails.com/pages/brighton"
+website: https://gails.com/pages/brighton

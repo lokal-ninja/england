@@ -1,11 +1,11 @@
 id: 5219530
-type: way
+type: node
 latitude: 52.14461
 longitude: -0.41968
-postcode: "MK41 0GX"
+postcode: MK41 0GX
 city: Bedford
-street: "Goldington Road"
-housenumber: 
+street: Goldington Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 07:30-21:00; Sa 07:30-20:00; Su 11:00-17:00"
-website: "https://www.waitrose.com/find-a-store/bedford"
+opening_hours: Mo-Fr 07:30-21:00; Sa 07:30-20:00; Su 11:00-17:00
+website: https://www.waitrose.com/find-a-store/bedford

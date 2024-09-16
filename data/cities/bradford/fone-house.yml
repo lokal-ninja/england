@@ -1,11 +1,11 @@
 id: 1148006558
-type: way
+type: node
 latitude: 53.79418
 longitude: -1.75498
-postcode: "BD1 1PZ"
+postcode: BD1 1PZ
 city: Bradford
-street: "Kirkgate"
-housenumber: 79
+street: Kirkgate
+housenumber: "79"
 phone: ""
 opening_hours: ""
 website: ""

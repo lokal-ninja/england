@@ -1,11 +1,11 @@
 id: 776186467
-type: way
+type: node
 latitude: 51.56933
 longitude: 0.21304
-postcode: "RM11 1JW"
+postcode: RM11 1JW
 city: Hornchurch
-street: "Lyndhurst Drive"
-housenumber: 208
+street: Lyndhurst Drive
+housenumber: "208"
 phone: ""
 opening_hours: ""
 website: ""

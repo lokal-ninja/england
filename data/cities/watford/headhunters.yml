@@ -2,10 +2,10 @@ id: 10951567329
 type: node
 latitude: 51.65325
 longitude: -0.39252
-postcode: "WD17 2EG"
+postcode: WD17 2EG
 city: Watford
-street: "High Street"
-housenumber: 160
-phone: "01923 227 657"
-opening_hours: "Mo-We 09:00-18:00; Th 09:00-19:00; Fr 09:00-18:00"
-website: "http://www.headhuntersuk.com/"
+street: High Street
+housenumber: "160"
+phone: 01923 227 657
+opening_hours: Mo-We 09:00-18:00; Th 09:00-19:00; Fr 09:00-18:00
+website: http://www.headhuntersuk.com/

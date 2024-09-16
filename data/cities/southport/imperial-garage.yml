@@ -1,11 +1,11 @@
 id: 376079554
-type: way
+type: node
 latitude: 53.65493
 longitude: -2.99223
-postcode: "PR9 9JA"
+postcode: PR9 9JA
 city: Southport
-street: "Leyland Road"
-housenumber: 80
-phone: "+44 1704 533000"
+street: Leyland Road
+housenumber: "80"
+phone: +44 1704 533000
 opening_hours: ""
 website: ""

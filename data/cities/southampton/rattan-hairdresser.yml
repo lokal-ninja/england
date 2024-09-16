@@ -1,11 +1,11 @@
 id: 365294126
-type: way
+type: node
 latitude: 50.9193
 longitude: -1.42092
-postcode: "SO15 5EY"
+postcode: SO15 5EY
 city: Southampton
-street: "Malmesbury Road"
-housenumber: 152
+street: Malmesbury Road
+housenumber: "152"
 phone: ""
 opening_hours: ""
 website: ""

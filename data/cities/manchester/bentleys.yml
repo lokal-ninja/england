@@ -1,11 +1,11 @@
 id: 289948361
-type: way
+type: node
 latitude: 53.44156
 longitude: -2.21678
-postcode: "M14 6WN"
+postcode: M14 6WN
 city: Manchester
-street: "Ladybarn Road"
-housenumber: 11
+street: Ladybarn Road
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

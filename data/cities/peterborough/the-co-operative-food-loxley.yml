@@ -1,11 +1,11 @@
 id: 362088524
-type: way
+type: node
 latitude: 52.61916
 longitude: -0.28596
-postcode: "PE4 5BW"
+postcode: PE4 5BW
 city: Peterborough
-street: "Loxley"
-housenumber: 5
+street: Loxley
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.coop.co.uk/store-finder/PE4-5BW/5-loxley-centre"
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.coop.co.uk/store-finder/PE4-5BW/5-loxley-centre

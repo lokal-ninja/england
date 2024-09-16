@@ -1,11 +1,11 @@
 id: 161115474
-type: way
+type: node
 latitude: 53.36008
 longitude: -1.42801
-postcode: "S12 2AB"
+postcode: S12 2AB
 city: Sheffield
-street: "City Road"
-housenumber: 978
+street: City Road
+housenumber: "978"
 phone: ""
-opening_hours: "Mo-Sa 07:00-23:00; Su 10:00-16:00"
+opening_hours: Mo-Sa 07:00-23:00; Su 10:00-16:00
 website: ""

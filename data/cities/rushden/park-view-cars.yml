@@ -1,11 +1,11 @@
 id: 680783529
-type: way
+type: node
 latitude: 52.29585
 longitude: -0.60098
-postcode: "NN10 6AA"
+postcode: NN10 6AA
 city: Rushden
-street: "Washbrook Road"
-housenumber: 168
+street: Washbrook Road
+housenumber: "168"
 phone: ""
 opening_hours: ""
 website: ""

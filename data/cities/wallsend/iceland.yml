@@ -2,10 +2,10 @@ id: 7206599777
 type: node
 latitude: 54.99155
 longitude: -1.53557
-postcode: "NE28 8JP"
+postcode: NE28 8JP
 city: Wallsend
-street: "Segedunum Way"
-housenumber: 30
-phone: "+44 191 263 5213"
-opening_hours: "Mo-We 08:00-17:30; Th-Fr 08:00-18:00; Sa 08:00-17:30; Su 10:00-16:00"
+street: Segedunum Way
+housenumber: "30"
+phone: +44 191 263 5213
+opening_hours: Mo-We 08:00-17:30; Th-Fr 08:00-18:00; Sa 08:00-17:30; Su 10:00-16:00
 website: ""

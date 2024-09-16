@@ -1,11 +1,11 @@
 id: 34964945
-type: way
+type: node
 latitude: 52.03319
 longitude: -0.76939
-postcode: "MK9 1DL"
+postcode: MK9 1DL
 city: Milton Keynes
-street: "Grafton Gate"
-housenumber: 700
+street: Grafton Gate
+housenumber: "700"
 phone: ""
 opening_hours: ""
 website: ""

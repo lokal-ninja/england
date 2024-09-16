@@ -1,11 +1,11 @@
 id: 214220869
-type: way
+type: node
 latitude: 53.46248
 longitude: -2.17454
-postcode: "M18 8LD"
+postcode: M18 8LD
 city: Manchester
-street: "Garratt Way"
-housenumber: 
+street: Garratt Way
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 06:00-24:00, Su 11:00-17:00"
+opening_hours: Mo-Sa 06:00-24:00, Su 11:00-17:00
 website: ""

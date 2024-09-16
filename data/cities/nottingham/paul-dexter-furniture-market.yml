@@ -1,11 +1,11 @@
 id: 295752074
-type: way
+type: node
 latitude: 52.95514
 longitude: -1.13757
-postcode: "NG1 1DF"
+postcode: NG1 1DF
 city: Nottingham
-street: "Bath Street"
+street: Bath Street
 housenumber: 48;50
-phone: "+44 115 950 3849"
-opening_hours: "Mo-Su 09:00-17:00"
+phone: +44 115 950 3849
+opening_hours: Mo-Su 09:00-17:00
 website: ""

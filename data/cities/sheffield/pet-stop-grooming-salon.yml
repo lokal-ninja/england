@@ -1,11 +1,11 @@
 id: 320229591
-type: way
+type: node
 latitude: 53.48192
 longitude: -1.59145
-postcode: "S36 1DH"
+postcode: S36 1DH
 city: Sheffield
-street: "Manchester Road"
-housenumber: 457
+street: Manchester Road
+housenumber: "457"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 470246174
-type: way
+type: node
 latitude: 51.88757
 longitude: 0.89748
-postcode: "CO2 7AN"
+postcode: CO2 7AN
 city: Colchester
-street: "St Johns Street"
-housenumber: 12
+street: St Johns Street
+housenumber: "12"
 phone: ""
 opening_hours: ""
-website: "https://jeslifestyle.com/"
+website: https://jeslifestyle.com/

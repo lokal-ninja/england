@@ -2,10 +2,10 @@ id: 2514953112
 type: node
 latitude: 51.52859
 longitude: -0.1255
-postcode: "WC1H 9NS"
+postcode: WC1H 9NS
 city: London
-street: "Judd Street"
-housenumber: 120
+street: Judd Street
+housenumber: "120"
 phone: ""
 opening_hours: ""
 website: ""

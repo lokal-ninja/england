@@ -1,11 +1,11 @@
 id: 1236014532
-type: way
+type: node
 latitude: 53.55374
 longitude: -0.13455
-postcode: "DN34 5XE"
+postcode: DN34 5XE
 city: Grimsby
-street: "Gunners Way"
-housenumber: 4
-phone: "+44 1472 230 777"
-opening_hours: "Tu, We, Fr, Sa 09:00-17:00; Th 09:30-18:00; Su-Mo closed"
+street: Gunners Way
+housenumber: "4"
+phone: +44 1472 230 777
+opening_hours: Tu, We, Fr, Sa 09:00-17:00; Th 09:30-18:00; Su-Mo closed
 website: ""

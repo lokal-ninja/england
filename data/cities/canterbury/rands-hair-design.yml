@@ -1,11 +1,11 @@
 id: 759998363
-type: way
+type: node
 latitude: 51.27801
 longitude: 1.08429
-postcode: "CT1 2HJ"
+postcode: CT1 2HJ
 city: Canterbury
-street: "Burgate"
-housenumber: 69
+street: Burgate
+housenumber: "69"
 phone: ""
-opening_hours: "Mo-Sa 09:00-18:00; Su 10:00-16:00"
+opening_hours: Mo-Sa 09:00-18:00; Su 10:00-16:00
 website: ""

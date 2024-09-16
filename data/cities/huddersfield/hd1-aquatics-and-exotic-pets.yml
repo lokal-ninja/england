@@ -1,11 +1,11 @@
 id: 201621372
-type: way
+type: node
 latitude: 53.65635
 longitude: -1.7662
 postcode: ""
 city: Huddersfield
-street: "Bradley Mills Road"
-housenumber: 5
-phone: "+44 1484 420400"
+street: Bradley Mills Road
+housenumber: "5"
+phone: +44 1484 420400
 opening_hours: ""
 website: ""

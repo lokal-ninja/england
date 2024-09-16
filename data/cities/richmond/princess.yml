@@ -1,11 +1,11 @@
 id: 1160568041
-type: way
+type: node
 latitude: 51.46165
 longitude: -0.30243
-postcode: "TW9 1EB"
+postcode: TW9 1EB
 city: Richmond
-street: "Waterloo Place"
-housenumber: 1
+street: Waterloo Place
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

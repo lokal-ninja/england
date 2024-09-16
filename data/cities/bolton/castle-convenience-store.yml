@@ -1,11 +1,11 @@
 id: 564604560
-type: way
+type: node
 latitude: 53.57833
 longitude: -2.41786
-postcode: "BL2 1AD"
+postcode: BL2 1AD
 city: Bolton
-street: "Castle Street"
-housenumber: 57
+street: Castle Street
+housenumber: "57"
 phone: ""
 opening_hours: ""
 website: ""

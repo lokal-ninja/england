@@ -1,11 +1,11 @@
 id: 856442796
-type: way
+type: node
 latitude: 54.04857
 longitude: -2.79979
-postcode: "LA1 1UA"
+postcode: LA1 1UA
 city: Lancaster
-street: "Penny Street"
-housenumber: 5
+street: Penny Street
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 09:00-17:30; Su 10:00-16:00"
-website: "https://stores.o2.co.uk/o2-store-lancaster"
+opening_hours: Mo-Sa 09:00-17:30; Su 10:00-16:00
+website: https://stores.o2.co.uk/o2-store-lancaster

@@ -1,11 +1,11 @@
 id: 117007218
-type: way
+type: node
 latitude: 52.63757
 longitude: 1.28461
-postcode: "NR2 4TQ"
+postcode: NR2 4TQ
 city: Norwich
-street: "Barker Street"
-housenumber: 72
+street: Barker Street
+housenumber: "72"
 phone: ""
-opening_hours: "Mo-Sa 09:00-17:00"
+opening_hours: Mo-Sa 09:00-17:00
 website: ""

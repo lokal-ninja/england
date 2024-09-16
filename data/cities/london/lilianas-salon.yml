@@ -1,11 +1,11 @@
 id: 845858070
-type: way
+type: node
 latitude: 51.54341
 longitude: -0.14189
 postcode: ""
 city: London
-street: "Kentish Town Road"
-housenumber: 89
+street: Kentish Town Road
+housenumber: "89"
 phone: ""
 opening_hours: ""
 website: ""

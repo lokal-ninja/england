@@ -1,11 +1,11 @@
 id: 258363013
-type: way
+type: node
 latitude: 52.71186
 longitude: -0.3543
-postcode: "PE6 9PA"
+postcode: PE6 9PA
 city: Peterborough
-street: "Main Street"
-housenumber: 16
+street: Main Street
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Fr 05:30-18:30; Sa 05:30-18:00; Su 09:00-16:00"
+opening_hours: Mo-Fr 05:30-18:30; Sa 05:30-18:00; Su 09:00-16:00
 website: ""

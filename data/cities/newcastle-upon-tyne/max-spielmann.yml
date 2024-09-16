@@ -1,11 +1,11 @@
 id: 414966412
-type: way
+type: node
 latitude: 54.97768
 longitude: -1.57774
-postcode: "NE6 1DQ"
+postcode: NE6 1DQ
 city: Newcastle upon Tyne
-street: "Shields Road"
-housenumber: 207
-phone: "+44 191 2763605"
-opening_hours: "Tu-Sa 09:00-17:30"
-website: "https://www.maxphoto.co.uk"
+street: Shields Road
+housenumber: "207"
+phone: +44 191 2763605
+opening_hours: Tu-Sa 09:00-17:30
+website: https://www.maxphoto.co.uk

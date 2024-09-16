@@ -1,11 +1,11 @@
 id: 192246304
-type: way
+type: node
 latitude: 54.97342
 longitude: -2.24781
-postcode: "NE47 6ET"
+postcode: NE47 6ET
 city: Haydon Bridge
-street: "Ratcliffe Road"
-housenumber: 4
+street: Ratcliffe Road
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.coop.co.uk/store-finder/NE47-6ET/4-ratcliffe-road"
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.coop.co.uk/store-finder/NE47-6ET/4-ratcliffe-road

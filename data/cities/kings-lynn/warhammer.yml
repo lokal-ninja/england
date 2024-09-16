@@ -1,11 +1,11 @@
 id: 865416126
-type: way
+type: node
 latitude: 52.7555
 longitude: 0.39821
-postcode: "PE30 1AN"
+postcode: PE30 1AN
 city: King's Lynn
-street: "Norfolk Street"
-housenumber: 23
+street: Norfolk Street
+housenumber: "23"
 phone: ""
 opening_hours: ""
-website: "https://www.games-workshop.com/en-GB/Warhammer-Kings-Lynn"
+website: https://www.games-workshop.com/en-GB/Warhammer-Kings-Lynn

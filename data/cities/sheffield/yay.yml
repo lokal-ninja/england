@@ -1,11 +1,11 @@
 id: 1225522402
-type: way
+type: node
 latitude: 53.35368
 longitude: -1.48588
-postcode: "S7 2BG"
+postcode: S7 2BG
 city: Sheffield
-street: "Abbeydale Road"
-housenumber: 749
+street: Abbeydale Road
+housenumber: "749"
 phone: ""
 opening_hours: ""
 website: ""

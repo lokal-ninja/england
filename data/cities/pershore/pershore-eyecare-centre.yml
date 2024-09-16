@@ -1,11 +1,11 @@
 id: 358605532
-type: way
+type: node
 latitude: 52.10919
 longitude: -2.07405
-postcode: "WR10 1AT"
+postcode: WR10 1AT
 city: Pershore
-street: "Bridge Street"
-housenumber: 16
+street: Bridge Street
+housenumber: "16"
 phone: ""
 opening_hours: ""
-website: "https://pershoreeyecare.co.uk/"
+website: https://pershoreeyecare.co.uk/

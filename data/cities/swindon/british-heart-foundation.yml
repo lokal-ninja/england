@@ -2,10 +2,10 @@ id: 7923851954
 type: node
 latitude: 51.55952
 longitude: -1.78559
-postcode: "SN1 1SD"
+postcode: SN1 1SD
 city: Swindon
-street: "Havelock Street"
-housenumber: 44
+street: Havelock Street
+housenumber: "44"
 phone: ""
-opening_hours: "Mo-Sa 09:30-05:00, Su 10:00-04:00"
-website: "https://www.bhf.org.uk/what-we-do/find-bhf-near-you/swindon-bhf-shop"
+opening_hours: Mo-Sa 09:30-05:00, Su 10:00-04:00
+website: https://www.bhf.org.uk/what-we-do/find-bhf-near-you/swindon-bhf-shop

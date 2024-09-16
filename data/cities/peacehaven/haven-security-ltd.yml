@@ -1,11 +1,11 @@
 id: 1044510868
-type: way
+type: node
 latitude: 50.78895
 longitude: 0.01204
-postcode: "BN10 8SL"
+postcode: BN10 8SL
 city: Peacehaven
-street: "South Coast Road"
-housenumber: 86
+street: South Coast Road
+housenumber: "86"
 phone: ""
 opening_hours: ""
 website: ""

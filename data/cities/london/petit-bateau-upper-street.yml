@@ -1,11 +1,11 @@
 id: 31307502
-type: way
+type: node
 latitude: 51.53876
 longitude: -0.10255
-postcode: "N1 1QP"
+postcode: N1 1QP
 city: London
-street: "Upper Street"
-housenumber: 125
+street: Upper Street
+housenumber: "125"
 phone: ""
 opening_hours: ""
-website: "https://stores.petit-bateau.com/united-kingdom/london/125-upper-street"
+website: https://stores.petit-bateau.com/united-kingdom/london/125-upper-street

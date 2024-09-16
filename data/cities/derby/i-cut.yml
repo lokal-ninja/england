@@ -1,11 +1,11 @@
 id: 131705445
-type: way
+type: node
 latitude: 52.90995
 longitude: -1.47837
-postcode: "DE23 6WE"
+postcode: DE23 6WE
 city: Derby
-street: "Normanton Road"
-housenumber: 312
+street: Normanton Road
+housenumber: "312"
 phone: ""
 opening_hours: ""
 website: ""

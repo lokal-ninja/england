@@ -1,11 +1,11 @@
 id: 97972256
-type: way
+type: node
 latitude: 51.73047
 longitude: 0.68249
-postcode: "CM9 5BS"
+postcode: CM9 5BS
 city: Maldon
-street: "High Street"
-housenumber: 131
+street: High Street
+housenumber: "131"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr,Sa 09:30-18:00; Su 11:00-16:00; We off"
+opening_hours: Mo,Tu,Th,Fr,Sa 09:30-18:00; Su 11:00-16:00; We off
 website: ""

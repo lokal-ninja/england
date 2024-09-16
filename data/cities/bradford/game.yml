@@ -1,11 +1,11 @@
 id: 1115286748
-type: way
+type: node
 latitude: 53.79443
 longitude: -1.74899
-postcode: "BD1 1AH"
+postcode: BD1 1AH
 city: Bradford
-street: "Petergate Mall"
-housenumber: 17
+street: Petergate Mall
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

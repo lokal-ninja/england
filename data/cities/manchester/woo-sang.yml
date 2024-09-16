@@ -2,10 +2,10 @@ id: 2692887714
 type: node
 latitude: 53.47899
 longitude: -2.24011
-postcode: "M1 4HE"
+postcode: M1 4HE
 city: Manchester
-street: "George Street"
-housenumber: 21
+street: George Street
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

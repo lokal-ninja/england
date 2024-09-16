@@ -1,11 +1,11 @@
 id: 432808176
-type: way
+type: node
 latitude: 51.45758
 longitude: -0.30436
-postcode: "TW10 6UB"
+postcode: TW10 6UB
 city: Richmond
-street: "Hill Rise"
-housenumber: 
+street: Hill Rise
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 10:00-18:00; Su 12:00-17:00"
+opening_hours: Mo-Sa 10:00-18:00; Su 12:00-17:00
 website: ""

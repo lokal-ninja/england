@@ -1,11 +1,11 @@
 id: 275133698
-type: way
+type: node
 latitude: 51.46831
 longitude: -2.57447
-postcode: "BS2 9XJ"
+postcode: BS2 9XJ
 city: Bristol
-street: "Mina Road"
-housenumber: 46
+street: Mina Road
+housenumber: "46"
 phone: ""
 opening_hours: ""
 website: ""

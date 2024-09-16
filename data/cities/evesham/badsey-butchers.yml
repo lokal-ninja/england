@@ -1,11 +1,11 @@
 id: 94163330
-type: way
+type: node
 latitude: 52.08831
 longitude: -1.89933
-postcode: "WR11 7EW"
+postcode: WR11 7EW
 city: Evesham
-street: "High Street"
-housenumber: 14
+street: High Street
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

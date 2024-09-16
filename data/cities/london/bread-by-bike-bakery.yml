@@ -2,10 +2,10 @@ id: 9402952048
 type: node
 latitude: 51.54966
 longitude: -0.13001
-postcode: "N7 0DD"
+postcode: N7 0DD
 city: London
-street: "Brecknock Road"
-housenumber: 30
+street: Brecknock Road
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Su 08:00-16:00"
-website: "https://breadbybike.com/home"
+opening_hours: Mo-Su 08:00-16:00
+website: https://breadbybike.com/home

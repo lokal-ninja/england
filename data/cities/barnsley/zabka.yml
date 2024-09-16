@@ -1,11 +1,11 @@
 id: 355283321
-type: way
+type: node
 latitude: 53.55307
 longitude: -1.4818
-postcode: "S70 2PX"
+postcode: S70 2PX
 city: Barnsley
-street: "Market Hill"
-housenumber: 11
+street: Market Hill
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

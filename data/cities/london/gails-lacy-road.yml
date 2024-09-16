@@ -1,11 +1,11 @@
 id: 1011224071
-type: way
+type: node
 latitude: 51.46408
 longitude: -0.21615
-postcode: "SW15 1NH"
+postcode: SW15 1NH
 city: London
-street: "Lacy Road"
-housenumber: 5
+street: Lacy Road
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://gails.com/pages/putney"
+website: https://gails.com/pages/putney

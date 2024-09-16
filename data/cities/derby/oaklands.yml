@@ -1,11 +1,11 @@
 id: 103635393
-type: way
+type: node
 latitude: 52.8358
 longitude: -1.27876
-postcode: "DE74 2ED"
+postcode: DE74 2ED
 city: Derby
-street: "Church Gate"
-housenumber: 3
+street: Church Gate
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

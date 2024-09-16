@@ -1,11 +1,11 @@
 id: 172292293
-type: way
+type: node
 latitude: 51.51752
 longitude: 0.07928
-postcode: "E6 7ER"
+postcode: E6 7ER
 city: London
-street: "Armada Way"
-housenumber: 3
+street: Armada Way
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-20:00; Su 11:00-17:00"
+opening_hours: Mo-Fr 10:00-20:00; Sa 10:00-20:00; Su 11:00-17:00
 website: ""

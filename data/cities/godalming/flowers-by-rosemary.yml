@@ -1,11 +1,11 @@
 id: 403703564
-type: way
+type: node
 latitude: 51.1862
 longitude: -0.61004
-postcode: "GU7 1HL"
+postcode: GU7 1HL
 city: Godalming
-street: "Bridge Street"
-housenumber: 43
+street: Bridge Street
+housenumber: "43"
 phone: ""
 opening_hours: ""
-website: "https://www.flowersbyrosemary.co.uk/"
+website: https://www.flowersbyrosemary.co.uk/

@@ -1,11 +1,11 @@
 id: 67555380
-type: way
+type: node
 latitude: 51.55488
 longitude: -0.16615
-postcode: "NW3 2PY"
+postcode: NW3 2PY
 city: London
-street: "South End Road"
-housenumber: 31
+street: South End Road
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

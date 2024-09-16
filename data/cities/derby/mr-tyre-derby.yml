@@ -1,11 +1,11 @@
 id: 55990587
-type: way
+type: node
 latitude: 52.91407
 longitude: -1.47644
-postcode: "DE23 6UR"
+postcode: DE23 6UR
 city: Derby
-street: "Normanton Road"
-housenumber: 153
-phone: "+44 1332 361717"
+street: Normanton Road
+housenumber: "153"
+phone: +44 1332 361717
 opening_hours: ""
-website: "https://www.mrtyre.com/branches/derby-rinkway/"
+website: https://www.mrtyre.com/branches/derby-rinkway/

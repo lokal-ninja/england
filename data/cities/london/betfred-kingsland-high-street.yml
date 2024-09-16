@@ -1,11 +1,11 @@
 id: 321722645
-type: way
+type: node
 latitude: 51.54861
 longitude: -0.07563
-postcode: "E8 2PB"
+postcode: E8 2PB
 city: London
-street: "Kingsland High Street"
-housenumber: 71
+street: Kingsland High Street
+housenumber: "71"
 phone: ""
 opening_hours: ""
 website: ""

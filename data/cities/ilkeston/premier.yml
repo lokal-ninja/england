@@ -1,11 +1,11 @@
 id: 351964419
-type: way
+type: node
 latitude: 52.98722
 longitude: -1.30791
-postcode: "DE7 8NZ"
+postcode: DE7 8NZ
 city: Ilkeston
-street: "Cotmanhay Road"
-housenumber: 123
+street: Cotmanhay Road
+housenumber: "123"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1174024620
-type: way
+type: node
 latitude: 53.40604
 longitude: -2.98472
-postcode: "L1 1EB"
+postcode: L1 1EB
 city: Liverpool
-street: "Williamson Street"
-housenumber: 17
+street: Williamson Street
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

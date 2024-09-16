@@ -1,11 +1,11 @@
 id: 124182129
-type: way
+type: node
 latitude: 51.01482
 longitude: -3.10765
-postcode: "TA1 4AS"
+postcode: TA1 4AS
 city: Taunton
-street: "Castle Street"
-housenumber: 
+street: Castle Street
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.halfords.com/locations/taunton-autocentre/"
+website: https://www.halfords.com/locations/taunton-autocentre/

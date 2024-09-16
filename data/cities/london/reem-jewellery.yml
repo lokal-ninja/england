@@ -1,11 +1,11 @@
 id: 350934113
-type: way
+type: node
 latitude: 51.52229
 longitude: -0.17359
-postcode: "W2 1BS"
+postcode: W2 1BS
 city: London
-street: "Edgware Road"
-housenumber: 353
+street: Edgware Road
+housenumber: "353"
 phone: ""
 opening_hours: ""
-website: "https://reemgold.com/"
+website: https://reemgold.com/

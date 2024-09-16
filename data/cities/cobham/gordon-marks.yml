@@ -2,10 +2,10 @@ id: 8251085618
 type: node
 latitude: 51.32777
 longitude: -0.41009
-postcode: "KT11 3DP"
+postcode: KT11 3DP
 city: Cobham
-street: "High Street"
-housenumber: 37
-phone: "+44 1932 860 630"
-opening_hours: "Mo-Sa 09:00-17:00"
-website: "https://www.gordonmarks.com/"
+street: High Street
+housenumber: "37"
+phone: +44 1932 860 630
+opening_hours: Mo-Sa 09:00-17:00
+website: https://www.gordonmarks.com/

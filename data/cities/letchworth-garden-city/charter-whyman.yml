@@ -1,11 +1,11 @@
 id: 884314868
-type: way
+type: node
 latitude: 51.97992
 longitude: -0.22713
-postcode: "SG6 3BQ"
+postcode: SG6 3BQ
 city: Letchworth Garden City
-street: "Station Road"
-housenumber: 37
-phone: "+44 1462 685 808"
-opening_hours: "Mo-Fr 08:30-18:00; Sa 09:00-16:00"
-website: "https://www.charterwhyman.co.uk/"
+street: Station Road
+housenumber: "37"
+phone: +44 1462 685 808
+opening_hours: Mo-Fr 08:30-18:00; Sa 09:00-16:00
+website: https://www.charterwhyman.co.uk/

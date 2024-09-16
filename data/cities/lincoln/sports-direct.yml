@@ -2,10 +2,10 @@ id: 11801142078
 type: node
 latitude: 53.22498
 longitude: -0.54395
-postcode: "LN5 7EX"
+postcode: LN5 7EX
 city: Lincoln
-street: "Station Street"
-housenumber: 5
+street: Station Street
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

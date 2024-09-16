@@ -1,11 +1,11 @@
 id: 148485103
-type: way
+type: node
 latitude: 51.27784
 longitude: 1.08071
-postcode: "CT1 2SJ"
+postcode: CT1 2SJ
 city: Canterbury
-street: "Rose Lane"
-housenumber: 8
+street: Rose Lane
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 09:00-18:00; Su 10:30-16:30"
-website: "https://www.waterstones.com/bookshops/canterbury-rose-lane"
+opening_hours: Mo-Sa 09:00-18:00; Su 10:30-16:30
+website: https://www.waterstones.com/bookshops/canterbury-rose-lane

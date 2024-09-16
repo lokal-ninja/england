@@ -1,11 +1,11 @@
 id: 256972421
-type: way
+type: node
 latitude: 53.35933
 longitude: -1.48752
-postcode: "S7 1RU"
+postcode: S7 1RU
 city: Sheffield
-street: "Nether Edge Road"
-housenumber: 3
+street: Nether Edge Road
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00; Su 10:30-17:00"
+opening_hours: Mo-Sa 09:00-19:00; Su 10:30-17:00
 website: ""

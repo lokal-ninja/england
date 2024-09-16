@@ -1,11 +1,11 @@
 id: 166184312
-type: way
+type: node
 latitude: 52.94607
 longitude: -1.14725
-postcode: "NG2 2GD"
+postcode: NG2 2GD
 city: Nottingham
-street: "Arkwright Street"
-housenumber: 2
+street: Arkwright Street
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "http://www.thefireplacecompany.uk.com/"
+website: http://www.thefireplacecompany.uk.com/

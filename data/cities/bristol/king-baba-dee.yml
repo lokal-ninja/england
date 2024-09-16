@@ -1,11 +1,11 @@
 id: 291382770
-type: way
+type: node
 latitude: 51.45854
 longitude: -2.55888
-postcode: "BS5 9JR"
+postcode: BS5 9JR
 city: Bristol
-street: "Church Road"
-housenumber: 127
+street: Church Road
+housenumber: "127"
 phone: ""
 opening_hours: ""
 website: ""

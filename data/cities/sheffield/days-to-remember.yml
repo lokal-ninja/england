@@ -1,11 +1,11 @@
 id: 1044043915
-type: way
+type: node
 latitude: 53.41295
 longitude: -1.47264
-postcode: "S5 7HF"
+postcode: S5 7HF
 city: Sheffield
-street: "Herries Road"
-housenumber: 429
+street: Herries Road
+housenumber: "429"
 phone: ""
 opening_hours: ""
 website: ""

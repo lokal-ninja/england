@@ -1,11 +1,11 @@
 id: 617506814
-type: way
+type: node
 latitude: 51.52722
 longitude: -0.02586
-postcode: "E3 2AD"
+postcode: E3 2AD
 city: London
-street: "Bow Road"
-housenumber: 65
+street: Bow Road
+housenumber: "65"
 phone: ""
 opening_hours: ""
 website: ""

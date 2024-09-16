@@ -1,11 +1,11 @@
 id: 1068370959
-type: way
+type: node
 latitude: 51.47859
 longitude: -0.22054
-postcode: "SW6 6LB"
+postcode: SW6 6LB
 city: London
-street: "Kenyon Street"
-housenumber: 58
+street: Kenyon Street
+housenumber: "58"
 phone: ""
 opening_hours: ""
 website: ""

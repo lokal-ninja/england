@@ -1,11 +1,11 @@
 id: 862870558
-type: way
+type: node
 latitude: 51.51829
 longitude: 0.1915
 postcode: ""
 city: Rainham
-street: "Upminster Road South"
-housenumber: 2
+street: Upminster Road South
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

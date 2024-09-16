@@ -1,11 +1,11 @@
 id: 228952327
-type: way
+type: node
 latitude: 51.60089
 longitude: -0.31706
-postcode: "HA3 8RQ"
+postcode: HA3 8RQ
 city: Harrow
-street: "Kenton Lane"
-housenumber: 404
-phone: "+44 345 677 9334"
-opening_hours: "Mo-Su 06:00-23:00"
+street: Kenton Lane
+housenumber: "404"
+phone: +44 345 677 9334
+opening_hours: Mo-Su 06:00-23:00
 website: ""

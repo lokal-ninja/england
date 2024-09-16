@@ -1,11 +1,11 @@
 id: 283103153
-type: way
+type: node
 latitude: 51.00678
 longitude: -0.9401
-postcode: "GU32 3EJ"
+postcode: GU32 3EJ
 city: Petersfield
-street: "Charles Street"
-housenumber: 11
+street: Charles Street
+housenumber: "11"
 phone: ""
-opening_hours: "06:00-23:00"
+opening_hours: 06:00-23:00
 website: ""

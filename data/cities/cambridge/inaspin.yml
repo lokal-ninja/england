@@ -1,11 +1,11 @@
 id: 178474826
-type: way
+type: node
 latitude: 52.18509
 longitude: 0.17212
-postcode: "CB1 9HY"
+postcode: CB1 9HY
 city: Cambridge
-street: "High Street"
-housenumber: 5
+street: High Street
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

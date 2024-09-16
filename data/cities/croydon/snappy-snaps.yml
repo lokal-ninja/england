@@ -1,11 +1,11 @@
 id: 200340682
-type: way
+type: node
 latitude: 51.37229
 longitude: -0.10049
-postcode: "CR0 1YB"
+postcode: CR0 1YB
 city: Croydon
-street: "High Street"
-housenumber: 44
+street: High Street
+housenumber: "44"
 phone: ""
 opening_hours: ""
 website: ""

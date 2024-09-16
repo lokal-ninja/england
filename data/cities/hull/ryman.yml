@@ -1,11 +1,11 @@
 id: 1152243723
-type: way
+type: node
 latitude: 53.74572
 longitude: -0.34267
-postcode: "HU2 8PW"
+postcode: HU2 8PW
 city: Hull
-street: "Prospect Street"
-housenumber: 77
+street: Prospect Street
+housenumber: "77"
 phone: ""
 opening_hours: ""
-website: "https://www.ryman.co.uk/storefinder/ryman-hull/"
+website: https://www.ryman.co.uk/storefinder/ryman-hull/

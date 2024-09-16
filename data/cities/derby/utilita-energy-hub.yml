@@ -2,10 +2,10 @@ id: 5344857551
 type: node
 latitude: 52.92009
 longitude: -1.47515
-postcode: "DE1 2NR"
+postcode: DE1 2NR
 city: Derby
-street: "Saint Peter's Way"
-housenumber: 8
+street: Saint Peter's Way
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "https://utilita.co.uk/energy-hub/derby"
+website: https://utilita.co.uk/energy-hub/derby

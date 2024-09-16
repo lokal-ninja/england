@@ -1,11 +1,11 @@
 id: 821950034
-type: way
+type: node
 latitude: 50.79298
 longitude: 0.28311
-postcode: "BN22 9AF"
+postcode: BN22 9AF
 city: Eastbourne
-street: "Brampton Road"
-housenumber: 55
+street: Brampton Road
+housenumber: "55"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 903910922
-type: way
+type: node
 latitude: 51.35178
 longitude: -1.99138
 postcode: ""
 city: Devizes
-street: "Albion Place"
-housenumber: 2
+street: Albion Place
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 10:00-17:00"
+opening_hours: Mo-Sa 10:00-17:00
 website: ""

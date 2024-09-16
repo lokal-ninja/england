@@ -1,11 +1,11 @@
 id: 155787316
-type: way
+type: node
 latitude: 52.01514
 longitude: -0.69521
-postcode: "MK7 7ED"
+postcode: MK7 7ED
 city: Milton Keynes
-street: "Wadesmill Lane"
-housenumber: 1
+street: Wadesmill Lane
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

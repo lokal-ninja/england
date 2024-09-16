@@ -2,10 +2,11 @@ id: 2595246692
 type: node
 latitude: 51.73141
 longitude: 0.47448
-postcode: "CM2 0LR"
+postcode: CM2 0LR
 city: Chelmsford
-street: "Moulsham Street"
+street: Moulsham Street
 housenumber: 225-226
-phone: "+44 1245 256460"
-opening_hours: "Mo-We 09:00-18:00; Th 09:00-20:00; Fr 09:00-19:00; Sa 08:00-18:00; Su 10:00-16:00"
-website: "https://toniandguy.com/"
+phone: +44 1245 256460
+opening_hours: Mo-We 09:00-18:00; Th 09:00-20:00; Fr 09:00-19:00; Sa 08:00-18:00;
+    Su 10:00-16:00
+website: https://toniandguy.com/

@@ -1,11 +1,11 @@
 id: 868400610
-type: way
+type: node
 latitude: 50.93041
 longitude: -0.27249
-postcode: "BN5 9DA"
+postcode: BN5 9DA
 city: Henfield
-street: "High Street"
-housenumber: 3
+street: High Street
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

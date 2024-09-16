@@ -1,11 +1,11 @@
 id: 802142015
-type: way
+type: node
 latitude: 52.17459
 longitude: -1.24495
-postcode: "NN11 6XQ"
+postcode: NN11 6XQ
 city: Daventry
-street: "High Street"
-housenumber: 29
+street: High Street
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

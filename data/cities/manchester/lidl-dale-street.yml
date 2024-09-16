@@ -1,11 +1,11 @@
 id: 853037363
-type: way
+type: node
 latitude: 53.5579
 longitude: -2.32601
-postcode: "M26 1AB"
+postcode: M26 1AB
 city: Manchester
-street: "Dale Street"
-housenumber: 
+street: Dale Street
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00; Su 10:00-16:00"
-website: "https://www.lidl.co.uk/s/en-GB/store-finder/radcliffe/dale-street/"
+opening_hours: Mo-Sa 08:00-22:00; Su 10:00-16:00
+website: https://www.lidl.co.uk/s/en-GB/store-finder/radcliffe/dale-street/

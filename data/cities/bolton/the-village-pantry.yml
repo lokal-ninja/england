@@ -1,11 +1,11 @@
 id: 689900157
-type: way
+type: node
 latitude: 53.60483
 longitude: -2.39301
-postcode: "BL2 3HY"
+postcode: BL2 3HY
 city: Bolton
-street: "Longsight"
-housenumber: 51
+street: Longsight
+housenumber: "51"
 phone: ""
 opening_hours: ""
 website: ""

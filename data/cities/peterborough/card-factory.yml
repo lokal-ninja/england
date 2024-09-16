@@ -1,11 +1,11 @@
 id: 639470430
-type: way
+type: node
 latitude: 52.54388
 longitude: -0.30329
-postcode: "PE2 5TD"
+postcode: PE2 5TD
 city: Peterborough
-street: "Ortongate Centre"
-housenumber: 1
+street: Ortongate Centre
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 09:00-18:00; Su 10:00-16:00"
+opening_hours: Mo-Sa 09:00-18:00; Su 10:00-16:00
 website: ""

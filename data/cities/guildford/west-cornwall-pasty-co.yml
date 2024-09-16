@@ -2,10 +2,10 @@ id: 290368510
 type: node
 latitude: 51.23636
 longitude: -0.57439
-postcode: "GU1 4AH"
+postcode: GU1 4AH
 city: Guildford
-street: "North Street"
-housenumber: 54
+street: North Street
+housenumber: "54"
 phone: ""
 opening_hours: ""
 website: ""

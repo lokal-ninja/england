@@ -1,11 +1,11 @@
 id: 170704184
-type: way
+type: node
 latitude: 52.51671
 longitude: -1.81503
-postcode: "B24 9PN"
+postcode: B24 9PN
 city: Birmingham
-street: "Kingsbury Road"
-housenumber: 728
+street: Kingsbury Road
+housenumber: "728"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 589649642
-type: way
+type: node
 latitude: 51.47419
 longitude: -0.24457
-postcode: "SW13 9HH"
+postcode: SW13 9HH
 city: London
-street: "Church Road"
-housenumber: 49
+street: Church Road
+housenumber: "49"
 phone: ""
 opening_hours: ""
-website: "https://gails.com/pages/barnes"
+website: https://gails.com/pages/barnes

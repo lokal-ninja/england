@@ -1,11 +1,11 @@
 id: 821950018
-type: way
+type: node
 latitude: 50.79942
 longitude: 0.26622
-postcode: "BN22 0AS"
+postcode: BN22 0AS
 city: Eastbourne
-street: "The Broadway"
-housenumber: 16
+street: The Broadway
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

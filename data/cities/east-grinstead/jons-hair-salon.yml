@@ -1,11 +1,11 @@
 id: 958926964
-type: way
+type: node
 latitude: 51.11311
 longitude: 0.02928
-postcode: "RH19 3QY"
+postcode: RH19 3QY
 city: East Grinstead
-street: "Maypole Road"
-housenumber: 62
-phone: "+44 1342 823110"
+street: Maypole Road
+housenumber: "62"
+phone: +44 1342 823110
 opening_hours: ""
-website: "https://www.jonhairsalon.co.uk/"
+website: https://www.jonhairsalon.co.uk/

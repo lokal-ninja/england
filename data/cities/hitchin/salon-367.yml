@@ -1,11 +1,11 @@
 id: 552488456
-type: way
+type: node
 latitude: 51.93052
 longitude: -0.34016
-postcode: "SG5 3AA"
+postcode: SG5 3AA
 city: Hitchin
-street: "High Street"
-housenumber: 8
-phone: "+44 1462 768367"
+street: High Street
+housenumber: "8"
+phone: +44 1462 768367
 opening_hours: ""
 website: ""

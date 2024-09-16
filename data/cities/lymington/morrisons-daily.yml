@@ -1,11 +1,11 @@
 id: 180018771
-type: way
+type: node
 latitude: 50.74977
 longitude: -1.55655
-postcode: "SO41 8DW"
+postcode: SO41 8DW
 city: Lymington
-street: "Milford Road"
-housenumber: 30
+street: Milford Road
+housenumber: "30"
 phone: ""
 opening_hours: ""
-website: "https://my.morrisons.com/storefinder/60941/morrisons-daily-lymington-milford-rd"
+website: https://my.morrisons.com/storefinder/60941/morrisons-daily-lymington-milford-rd

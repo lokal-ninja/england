@@ -1,11 +1,11 @@
 id: 591553614
-type: way
+type: node
 latitude: 51.4739
 longitude: -0.24997
-postcode: "SW13 9LN"
+postcode: SW13 9LN
 city: London
-street: "Barnes High Street"
-housenumber: 50
+street: Barnes High Street
+housenumber: "50"
 phone: ""
-opening_hours: "Mo-Sa 09:00-18:00; Su 11:00-17:00"
-website: "https://www.cookfood.net/shops/Barnes"
+opening_hours: Mo-Sa 09:00-18:00; Su 11:00-17:00
+website: https://www.cookfood.net/shops/Barnes

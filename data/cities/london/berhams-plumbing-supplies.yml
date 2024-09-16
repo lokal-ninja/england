@@ -2,10 +2,10 @@ id: 5541432289
 type: node
 latitude: 51.45873
 longitude: 0.00373
-postcode: "SE13 5PQ"
+postcode: SE13 5PQ
 city: London
-street: "Lee High Road"
-housenumber: 181
-phone: "+44 20 8691 4546"
+street: Lee High Road
+housenumber: "181"
+phone: +44 20 8691 4546
 opening_hours: ""
-website: "http://www.berhams.co.uk/"
+website: http://www.berhams.co.uk/

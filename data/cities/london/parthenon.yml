@@ -1,11 +1,11 @@
 id: 552483805
-type: way
+type: node
 latitude: 51.51859
 longitude: -0.12465
 postcode: ""
 city: London
-street: "Bury Place"
-housenumber: 25
+street: Bury Place
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

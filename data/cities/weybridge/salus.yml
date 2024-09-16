@@ -1,11 +1,11 @@
 id: 1257600815
-type: way
+type: node
 latitude: 51.37241
 longitude: -0.45787
-postcode: "KT13 8AU"
+postcode: KT13 8AU
 city: Weybridge
-street: "Baker Street"
-housenumber: 12
+street: Baker Street
+housenumber: "12"
 phone: ""
 opening_hours: ""
-website: "https://saluswellbeing.co.uk/"
+website: https://saluswellbeing.co.uk/

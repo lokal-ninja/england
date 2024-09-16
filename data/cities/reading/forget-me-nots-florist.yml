@@ -1,11 +1,11 @@
 id: 222053953
-type: way
+type: node
 latitude: 51.44779
 longitude: -0.93543
-postcode: "RG6 1NS"
+postcode: RG6 1NS
 city: Reading
-street: "St Peters Road"
-housenumber: 9
-phone: "+44 118 966 8022"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-15:00; Su 09:00-14:00"
-website: "http://www.florists-reading.co.uk"
+street: St Peters Road
+housenumber: "9"
+phone: +44 118 966 8022
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-15:00; Su 09:00-14:00
+website: http://www.florists-reading.co.uk

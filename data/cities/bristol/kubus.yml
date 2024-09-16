@@ -1,11 +1,11 @@
 id: 338067614
-type: way
+type: node
 latitude: 51.50926
 longitude: -2.62098
-postcode: "BS10 7DR"
+postcode: BS10 7DR
 city: Bristol
-street: "Crow Lane"
-housenumber: 155
+street: Crow Lane
+housenumber: "155"
 phone: ""
 opening_hours: ""
 website: ""

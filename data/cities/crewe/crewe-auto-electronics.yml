@@ -1,11 +1,11 @@
 id: 1110274890
-type: way
+type: node
 latitude: 53.09724
 longitude: -2.43673
-postcode: "CW1 2AU"
+postcode: CW1 2AU
 city: Crewe
-street: "Rainbow Street"
-housenumber: 11
+street: Rainbow Street
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

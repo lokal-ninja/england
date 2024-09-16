@@ -1,11 +1,11 @@
 id: 79045876
-type: way
+type: node
 latitude: 51.87124
 longitude: 0.16017
-postcode: "CM23 3XH"
+postcode: CM23 3XH
 city: Bishop's Stortford
-street: "Devoils Lane"
-housenumber: 11
+street: Devoils Lane
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 09:00-17:30, Su 10:00-16:00"
-website: "https://www.jacksonsquareshopping.co.uk/"
+opening_hours: Mo-Sa 09:00-17:30, Su 10:00-16:00
+website: https://www.jacksonsquareshopping.co.uk/

@@ -1,11 +1,11 @@
 id: 969582184
-type: way
+type: node
 latitude: 51.53545
 longitude: -0.00497
-postcode: "E15 2LS"
+postcode: E15 2LS
 city: London
-street: "High Street"
-housenumber: 253
+street: High Street
+housenumber: "253"
 phone: ""
-opening_hours: "Mo-Fr 10:00-20:00; Sa 12:00-19:30"
+opening_hours: Mo-Fr 10:00-20:00; Sa 12:00-19:30
 website: ""

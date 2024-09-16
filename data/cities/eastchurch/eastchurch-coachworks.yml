@@ -1,11 +1,11 @@
 id: 60485843
-type: way
+type: node
 latitude: 51.40674
 longitude: 0.85701
-postcode: "ME12 4DF"
+postcode: ME12 4DF
 city: Eastchurch
-street: "High Street"
-housenumber: 90
-phone: "+44 1795 880594;+44 1795 880352"
+street: High Street
+housenumber: "90"
+phone: +44 1795 880594;+44 1795 880352
 opening_hours: ""
-website: "https://www.eastchurchcoachworks.co.uk/"
+website: https://www.eastchurchcoachworks.co.uk/

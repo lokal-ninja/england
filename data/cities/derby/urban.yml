@@ -1,11 +1,11 @@
 id: 130642605
-type: way
+type: node
 latitude: 52.92331
 longitude: -1.47832
-postcode: "DE1 3NF"
+postcode: DE1 3NF
 city: Derby
-street: "Sadler Gate"
-housenumber: 13
-phone: "+44 1332 381515"
+street: Sadler Gate
+housenumber: "13"
+phone: +44 1332 381515
 opening_hours: ""
-website: "https://urbanmenswear.uk/"
+website: https://urbanmenswear.uk/

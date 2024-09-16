@@ -1,11 +1,11 @@
 id: 183404704
-type: way
+type: node
 latitude: 52.48656
 longitude: -0.7015
-postcode: "NN17 1BH"
+postcode: NN17 1BH
 city: Corby
-street: "Willow Place"
-housenumber: 21
+street: Willow Place
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

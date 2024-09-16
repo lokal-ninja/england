@@ -1,11 +1,11 @@
 id: 161716836
-type: way
+type: node
 latitude: 51.51637
 longitude: -0.0752
-postcode: "E1 7TP"
+postcode: E1 7TP
 city: London
-street: "Goulston Street"
-housenumber: 41
-phone: "+44 20 7426 0880"
+street: Goulston Street
+housenumber: "41"
+phone: +44 20 7426 0880
 opening_hours: ""
 website: ""

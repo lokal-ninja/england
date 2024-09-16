@@ -1,11 +1,11 @@
 id: 432785673
-type: way
+type: node
 latitude: 51.45997
 longitude: -0.3069
-postcode: "TW9 1ND"
+postcode: TW9 1ND
 city: Richmond
-street: "King Street"
-housenumber: 
+street: King Street
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

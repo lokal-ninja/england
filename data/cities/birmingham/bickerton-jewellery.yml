@@ -1,11 +1,11 @@
 id: 110774280
-type: way
+type: node
 latitude: 52.48928
 longitude: -1.91281
-postcode: "B18 6LE"
+postcode: B18 6LE
 city: Birmingham
-street: "Vyse Street"
-housenumber: 23
+street: Vyse Street
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

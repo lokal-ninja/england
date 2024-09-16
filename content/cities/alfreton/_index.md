@@ -1,6 +1,6 @@
 ---
 title: Alfreton
 url: /alfreton/
-latitude: 53.136
-longitude: -1.332
+latitude: 53.099
+longitude: -1.375
 ---

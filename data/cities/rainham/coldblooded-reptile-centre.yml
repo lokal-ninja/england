@@ -1,11 +1,11 @@
 id: 183211409
-type: way
+type: node
 latitude: 51.51771
 longitude: 0.19081
 postcode: ""
 city: Rainham
-street: "Broadway"
-housenumber: 6
+street: Broadway
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 117389489
-type: way
+type: node
 latitude: 52.64919
 longitude: 1.28146
-postcode: "NR3 2RE"
+postcode: NR3 2RE
 city: Norwich
-street: "Aylsham Road"
-housenumber: 277
+street: Aylsham Road
+housenumber: "277"
 phone: ""
-opening_hours: "06:00-23:00"
+opening_hours: 06:00-23:00
 website: ""

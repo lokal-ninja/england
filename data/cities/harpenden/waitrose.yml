@@ -1,11 +1,11 @@
 id: 236063456
-type: way
+type: node
 latitude: 51.81553
 longitude: -0.35759
-postcode: "AL5 2TJ"
+postcode: AL5 2TJ
 city: Harpenden
-street: "Leyton Road"
-housenumber: 3
+street: Leyton Road
+housenumber: "3"
 phone: ""
-opening_hours: "Su 10:00-16:00; Mo-Fr 08:00-21:00; Sa 08:00-20:00; PH 09:00-18:00"
-website: "https://www.waitrose.com/find-a-store/harpenden"
+opening_hours: Su 10:00-16:00; Mo-Fr 08:00-21:00; Sa 08:00-20:00; PH 09:00-18:00
+website: https://www.waitrose.com/find-a-store/harpenden

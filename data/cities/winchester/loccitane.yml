@@ -1,11 +1,11 @@
 id: 988780839
-type: way
+type: node
 latitude: 51.0626
 longitude: -1.31494
-postcode: "SO23 9BL"
+postcode: SO23 9BL
 city: Winchester
-street: "High Street"
-housenumber: 42
+street: High Street
+housenumber: "42"
 phone: "+441962851678"
-opening_hours: "Mo-Fr 09:30-17:30, Sa 09:00-17:30, Su 10:30-16:30"
-website: "https://uk.loccitane.com/"
+opening_hours: Mo-Fr 09:30-17:30, Sa 09:00-17:30, Su 10:30-16:30
+website: https://uk.loccitane.com/

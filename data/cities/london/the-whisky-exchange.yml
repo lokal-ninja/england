@@ -1,11 +1,11 @@
 id: 558576328
-type: way
+type: node
 latitude: 51.50992
 longitude: -0.1237
-postcode: "WC2E 9HH"
+postcode: WC2E 9HH
 city: London
-street: "Bedford Street"
-housenumber: 2
+street: Bedford Street
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Tu 10:30-19:00; We-Fr 10:00-20:00; Sa 10:00-22:00; Su 12:00-18:00"
+opening_hours: Mo-Tu 10:30-19:00; We-Fr 10:00-20:00; Sa 10:00-22:00; Su 12:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 253654452
-type: way
+type: node
 latitude: 52.6481
 longitude: 0.68863
-postcode: "PE37 7AQ"
+postcode: PE37 7AQ
 city: Swaffham
-street: "Market Place"
+street: Market Place
 housenumber: 77-81
 phone: ""
-opening_hours: "Mo-Sa 08:00-19:00; Su 10:00-16:00"
-website: "https://www.iceland.co.uk/store-finder/store?StoreID=1247&StoreName=SWAFFHAM"
+opening_hours: Mo-Sa 08:00-19:00; Su 10:00-16:00
+website: https://www.iceland.co.uk/store-finder/store?StoreID=1247&StoreName=SWAFFHAM

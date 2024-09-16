@@ -1,11 +1,11 @@
 id: 355393474
-type: way
+type: node
 latitude: 51.87272
 longitude: -2.24088
 postcode: ""
 city: Gloucester
-street: "Kingsholm Road"
-housenumber: 76
+street: Kingsholm Road
+housenumber: "76"
 phone: ""
 opening_hours: ""
 website: ""

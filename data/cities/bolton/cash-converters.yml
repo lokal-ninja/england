@@ -1,11 +1,11 @@
 id: 733534195
-type: way
+type: node
 latitude: 53.57935
 longitude: -2.43208
-postcode: "BL1 2AB"
+postcode: BL1 2AB
 city: Bolton
-street: "Deansgate"
-housenumber: 102
+street: Deansgate
+housenumber: "102"
 phone: ""
 opening_hours: ""
-website: "https://www.cashconverters.co.uk/stores/bolton"
+website: https://www.cashconverters.co.uk/stores/bolton

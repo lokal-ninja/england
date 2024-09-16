@@ -2,10 +2,10 @@ id: 3975939565
 type: node
 latitude: 54.89956
 longitude: -1.53314
-postcode: "NE38 7SA"
+postcode: NE38 7SA
 city: Washington
 street: ""
-housenumber: 15
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

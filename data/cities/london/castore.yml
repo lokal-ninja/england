@@ -4,8 +4,8 @@ latitude: 51.49177
 longitude: -0.15921
 postcode: ""
 city: London
-street: "King's Road"
-housenumber: 31
+street: King's Road
+housenumber: "31"
 phone: ""
 opening_hours: ""
-website: "https://castore.com/"
+website: https://castore.com/

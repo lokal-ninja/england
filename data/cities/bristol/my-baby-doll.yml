@@ -1,11 +1,11 @@
 id: 578252376
-type: way
+type: node
 latitude: 51.43617
 longitude: -2.60618
-postcode: "BS3 3LY"
+postcode: BS3 3LY
 city: Bristol
-street: "West Street"
-housenumber: 158
+street: West Street
+housenumber: "158"
 phone: ""
 opening_hours: ""
 website: ""

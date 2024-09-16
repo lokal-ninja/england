@@ -2,10 +2,10 @@ id: 3338533974
 type: node
 latitude: 50.84952
 longitude: -1.23419
-postcode: "PO14 4RU"
+postcode: PO14 4RU
 city: Fareham
-street: "High Street"
-housenumber: 32
+street: High Street
+housenumber: "32"
 phone: "+441329843238"
-opening_hours: "Mo-Su 06:00-22:00"
+opening_hours: Mo-Su 06:00-22:00
 website: ""

@@ -1,11 +1,11 @@
 id: 1148074941
-type: way
+type: node
 latitude: 53.79555
 longitude: -1.75747
-postcode: "BD1 3JU"
+postcode: BD1 3JU
 city: Bradford
-street: "John Street"
-housenumber: 2
+street: John Street
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

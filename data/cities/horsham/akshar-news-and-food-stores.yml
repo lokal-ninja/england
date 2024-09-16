@@ -2,10 +2,10 @@ id: 5409880083
 type: node
 latitude: 51.05879
 longitude: -0.34189
-postcode: "RH12 1SA"
+postcode: RH12 1SA
 city: Horsham
-street: "Blackbridge Lane"
-housenumber: 102
+street: Blackbridge Lane
+housenumber: "102"
 phone: ""
 opening_hours: ""
 website: ""

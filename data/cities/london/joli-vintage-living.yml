@@ -2,10 +2,10 @@ id: 10266440571
 type: node
 latitude: 51.48103
 longitude: -0.00884
-postcode: "SE10 9JB"
+postcode: SE10 9JB
 city: London
-street: "Nelson Road"
-housenumber: 7
-phone: "+44 20 3417 5790"
-opening_hours: "Mo-Su 11:30-18:00"
-website: "http://www.jolivintageliving.com/"
+street: Nelson Road
+housenumber: "7"
+phone: +44 20 3417 5790
+opening_hours: Mo-Su 11:30-18:00
+website: http://www.jolivintageliving.com/

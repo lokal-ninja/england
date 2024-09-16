@@ -1,11 +1,11 @@
 id: 336668282
-type: way
+type: node
 latitude: 51.63077
 longitude: 0.00223
-postcode: "E4 7BJ"
+postcode: E4 7BJ
 city: London
-street: "Station Road"
-housenumber: 1
+street: Station Road
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su 11:00-17:00"
-website: "https://www.coop.co.uk/store-finder/E4-7BJ/1-station-road"
+opening_hours: Mo-Sa 07:00-22:00; Su 11:00-17:00
+website: https://www.coop.co.uk/store-finder/E4-7BJ/1-station-road

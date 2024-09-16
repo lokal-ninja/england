@@ -1,11 +1,11 @@
 id: 325568672
-type: way
+type: node
 latitude: 51.4629
 longitude: -0.11257
-postcode: "SW9 7PR"
+postcode: SW9 7PR
 city: London
-street: "Pope's Road"
-housenumber: 20
-phone: "+44 3437771807"
+street: Pope's Road
+housenumber: "20"
+phone: +44 3437771807
 opening_hours: ""
 website: ""

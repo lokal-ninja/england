@@ -1,11 +1,11 @@
 id: 324480280
-type: way
+type: node
 latitude: 54.7636
 longitude: -3.33221
-postcode: "CA7 3HB"
+postcode: CA7 3HB
 city: Aspatria
-street: "Market Square"
-housenumber: 12
+street: Market Square
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

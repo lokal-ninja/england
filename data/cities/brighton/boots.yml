@@ -1,11 +1,11 @@
 id: 242182984
-type: way
+type: node
 latitude: 50.82406
 longitude: -0.14313
-postcode: "BN1 2BE"
+postcode: BN1 2BE
 city: Brighton
-street: "North Street"
-housenumber: 129
+street: North Street
+housenumber: "129"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00, Su 11:00-17:00, PH 09:00-18:00"
-website: "https://www.boots.com/stores/970-brighton-north-street-bn1-2be"
+opening_hours: Mo-Sa 08:00-20:00, Su 11:00-17:00, PH 09:00-18:00
+website: https://www.boots.com/stores/970-brighton-north-street-bn1-2be

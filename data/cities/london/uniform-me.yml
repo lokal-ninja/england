@@ -4,8 +4,8 @@ latitude: 51.58538
 longitude: -0.07976
 postcode: ""
 city: London
-street: "West Green Road"
-housenumber: 136
-phone: "+44 20 8800 8909"
+street: West Green Road
+housenumber: "136"
+phone: +44 20 8800 8909
 opening_hours: ""
-website: "https://uniform-me.com/"
+website: https://uniform-me.com/

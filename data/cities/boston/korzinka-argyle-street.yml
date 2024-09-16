@@ -1,11 +1,11 @@
 id: 779550554
-type: way
+type: node
 latitude: 52.98133
 longitude: -0.04036
-postcode: "PE21 8PJ"
+postcode: PE21 8PJ
 city: Boston
-street: "Argyle Street"
-housenumber: 69
+street: Argyle Street
+housenumber: "69"
 phone: ""
 opening_hours: ""
 website: ""

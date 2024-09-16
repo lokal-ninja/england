@@ -1,11 +1,11 @@
 id: 257124909
-type: way
+type: node
 latitude: 51.47967
 longitude: -2.61322
-postcode: "BS6 7PY"
+postcode: BS6 7PY
 city: Bristol
-street: "North View"
-housenumber: 39
+street: North View
+housenumber: "39"
 phone: ""
 opening_hours: ""
 website: ""

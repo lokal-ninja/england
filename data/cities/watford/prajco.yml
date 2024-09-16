@@ -1,11 +1,11 @@
 id: 491854239
-type: way
+type: node
 latitude: 51.65334
 longitude: -0.40753
-postcode: "WD18 7NB"
+postcode: WD18 7NB
 city: Watford
-street: "Whippendell Road"
-housenumber: 150
+street: Whippendell Road
+housenumber: "150"
 phone: ""
 opening_hours: ""
 website: ""

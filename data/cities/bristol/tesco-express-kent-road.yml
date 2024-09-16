@@ -1,11 +1,11 @@
 id: 131287980
-type: way
+type: node
 latitude: 51.37481
 longitude: -2.80577
-postcode: "BS49 5BA"
+postcode: BS49 5BA
 city: Bristol
-street: "Kent Road"
-housenumber: 2
+street: Kent Road
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
+opening_hours: Mo-Su 07:00-22:00
 website: ""

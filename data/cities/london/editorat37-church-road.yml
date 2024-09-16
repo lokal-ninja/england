@@ -1,11 +1,11 @@
 id: 589649625
-type: way
+type: node
 latitude: 51.47477
 longitude: -0.2411
-postcode: "SW13 0DQ"
+postcode: SW13 0DQ
 city: London
-street: "Church Road"
-housenumber: 60
+street: Church Road
+housenumber: "60"
 phone: ""
-opening_hours: "Tu-Sa 10:30-17:00; Su 11:30-16:00; PH closed"
+opening_hours: Tu-Sa 10:30-17:00; Su 11:30-16:00; PH closed
 website: ""

@@ -1,11 +1,11 @@
 id: 670901424
-type: way
+type: node
 latitude: 53.44553
 longitude: -1.4637
-postcode: "S35 9WN"
+postcode: S35 9WN
 city: Sheffield
-street: "The Common"
-housenumber: 82
+street: The Common
+housenumber: "82"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 326294853
-type: way
+type: node
 latitude: 53.0002
 longitude: -1.27084
 postcode: ""
 city: Nottingham
-street: "Eastwood Road"
-housenumber: 90
+street: Eastwood Road
+housenumber: "90"
 phone: ""
 opening_hours: ""
 website: ""

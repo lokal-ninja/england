@@ -1,11 +1,11 @@
 id: 576421904
-type: way
+type: node
 latitude: 53.58602
 longitude: -2.40828
-postcode: "BL2 2QQ"
+postcode: BL2 2QQ
 city: Bolton
-street: "Ainsworth Lane"
-housenumber: 227
+street: Ainsworth Lane
+housenumber: "227"
 phone: ""
 opening_hours: ""
 website: ""

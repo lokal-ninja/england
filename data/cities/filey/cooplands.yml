@@ -2,10 +2,10 @@ id: 1923813023
 type: node
 latitude: 54.20949
 longitude: -0.28867
-postcode: "YO14 9DG"
+postcode: YO14 9DG
 city: Filey
-street: "Murray Street"
-housenumber: 6
+street: Murray Street
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

@@ -2,10 +2,10 @@ id: 5154754872
 type: node
 latitude: 52.24351
 longitude: -0.89759
-postcode: "NN1 3RQ"
+postcode: NN1 3RQ
 city: Northampton
-street: "Wellington Place"
-housenumber: 10
+street: Wellington Place
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

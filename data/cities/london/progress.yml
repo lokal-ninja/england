@@ -1,11 +1,11 @@
 id: 672007153
-type: way
+type: node
 latitude: 51.63322
 longitude: -0.10005
-postcode: "N21 3NB"
+postcode: N21 3NB
 city: London
-street: "Station Road"
-housenumber: 45
+street: Station Road
+housenumber: "45"
 phone: ""
 opening_hours: ""
 website: ""

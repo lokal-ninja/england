@@ -1,11 +1,11 @@
 id: 243007238
-type: way
+type: node
 latitude: 51.59694
 longitude: -0.3356
-postcode: "HA3 7AL"
+postcode: HA3 7AL
 city: Harrow
-street: "High Street"
-housenumber: 126
+street: High Street
+housenumber: "126"
 phone: ""
 opening_hours: ""
 website: ""

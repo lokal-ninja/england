@@ -1,11 +1,11 @@
 id: 8928196
-type: way
+type: node
 latitude: 50.70249
 longitude: -1.29536
-postcode: "PO30 5GL"
+postcode: PO30 5GL
 city: Newport
-street: "River Way"
-housenumber: 
+street: River Way
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su 10:00-16:00; PH 08:00-20:00"
-website: "https://www.lidl.co.uk/s/en-GB/store-finder/newport/river-way/"
+opening_hours: Mo-Sa 07:00-22:00; Su 10:00-16:00; PH 08:00-20:00
+website: https://www.lidl.co.uk/s/en-GB/store-finder/newport/river-way/

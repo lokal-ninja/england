@@ -1,11 +1,11 @@
 id: 389698857
-type: way
+type: node
 latitude: 54.60181
 longitude: -3.13879
-postcode: "CA12 5JS"
+postcode: CA12 5JS
 city: Keswick
-street: "Main Street"
-housenumber: 56
-phone: "+44 17687 72227"
+street: Main Street
+housenumber: "56"
+phone: +44 17687 72227
 opening_hours: ""
-website: "https://www.needlesports.com/"
+website: https://www.needlesports.com/

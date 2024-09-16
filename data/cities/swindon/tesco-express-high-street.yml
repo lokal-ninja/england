@@ -1,11 +1,11 @@
 id: 189263925
-type: way
+type: node
 latitude: 51.64175
 longitude: -1.85614
-postcode: "SN6 6BX"
+postcode: SN6 6BX
 city: Swindon
-street: "High Street"
+street: High Street
 housenumber: 39-40
 phone: ""
-opening_hours: "Mo-Sa 06:00-23:00; Su 07:00-22:30"
-website: "https://www.tesco.com/store-locator/swindon/39-40-high-st"
+opening_hours: Mo-Sa 06:00-23:00; Su 07:00-22:30
+website: https://www.tesco.com/store-locator/swindon/39-40-high-st

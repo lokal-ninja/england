@@ -1,11 +1,11 @@
 id: 926721109
-type: way
+type: node
 latitude: 50.37181
 longitude: -4.13975
-postcode: "PL1 1RL"
+postcode: PL1 1RL
 city: Plymouth
-street: "New George Street"
-housenumber: 8
+street: New George Street
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

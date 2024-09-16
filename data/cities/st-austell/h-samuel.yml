@@ -1,11 +1,11 @@
 id: 1191941086
-type: way
+type: node
 latitude: 50.33818
 longitude: -4.79468
-postcode: "PL25 5PY"
+postcode: PL25 5PY
 city: St Austell
-street: "Fore Street"
-housenumber: 37
+street: Fore Street
+housenumber: "37"
 phone: ""
-opening_hours: "Mo-Sa 09:00-17:00"
-website: "https://www.hsamuel.co.uk/store/HS4333-St%20Austell"
+opening_hours: Mo-Sa 09:00-17:00
+website: https://www.hsamuel.co.uk/store/HS4333-St%20Austell

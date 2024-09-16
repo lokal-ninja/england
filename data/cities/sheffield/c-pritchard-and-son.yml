@@ -1,11 +1,11 @@
 id: 684902887
-type: way
+type: node
 latitude: 53.36338
 longitude: -1.3207
-postcode: "S26 4TT"
+postcode: S26 4TT
 city: Sheffield
-street: "High Street"
-housenumber: 15
+street: High Street
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 320753928
-type: way
+type: node
 latitude: 52.84292
 longitude: -1.33713
-postcode: "DE74 2LB"
+postcode: DE74 2LB
 city: Derby
-street: "Borough Street"
-housenumber: 69
+street: Borough Street
+housenumber: "69"
 phone: ""
 opening_hours: ""
 website: ""

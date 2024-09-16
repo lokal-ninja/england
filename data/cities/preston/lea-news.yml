@@ -1,11 +1,11 @@
 id: 80863156
-type: way
+type: node
 latitude: 53.76725
 longitude: -2.75961
-postcode: "PR2 1QQ"
+postcode: PR2 1QQ
 city: Preston
-street: "Blackpool Road"
-housenumber: 781
+street: Blackpool Road
+housenumber: "781"
 phone: ""
 opening_hours: ""
 website: ""

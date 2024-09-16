@@ -1,11 +1,11 @@
 id: 444338197
-type: way
+type: node
 latitude: 54.75899
 longitude: -1.60891
-postcode: "DH7 8JW"
+postcode: DH7 8JW
 city: Durham
-street: "High Street South"
-housenumber: 34
+street: High Street South
+housenumber: "34"
 phone: ""
 opening_hours: ""
-website: "https://newlands-sports.store/"
+website: https://newlands-sports.store/

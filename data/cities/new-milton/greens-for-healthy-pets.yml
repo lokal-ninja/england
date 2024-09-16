@@ -2,10 +2,11 @@ id: 7318076321
 type: node
 latitude: 50.75184
 longitude: -1.66963
-postcode: "BH25 6TQ"
+postcode: BH25 6TQ
 city: New Milton
-street: "Hamilton Way"
-housenumber: 17
-phone: "+44 1425 207022"
-opening_hours: "Mo 09:30-17:00, Tu 09:30-15:30, Th 09:30-15:30, Fr 09:30-19:00, Sa 09:30-15:50, Su 10:00-13:00"
-website: "https://www.greensforhealthypets.co.uk"
+street: Hamilton Way
+housenumber: "17"
+phone: +44 1425 207022
+opening_hours: Mo 09:30-17:00, Tu 09:30-15:30, Th 09:30-15:30, Fr 09:30-19:00, Sa
+    09:30-15:50, Su 10:00-13:00
+website: https://www.greensforhealthypets.co.uk

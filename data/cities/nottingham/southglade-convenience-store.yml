@@ -1,11 +1,11 @@
 id: 228288745
-type: way
+type: node
 latitude: 52.99844
 longitude: -1.17212
-postcode: "NG5 5GF"
+postcode: NG5 5GF
 city: Nottingham
-street: "Southglade Road"
-housenumber: 108
+street: Southglade Road
+housenumber: "108"
 phone: ""
 opening_hours: ""
-website: "https://www.premier-stores.co.uk/our-stores/southglade-convenience-store"
+website: https://www.premier-stores.co.uk/our-stores/southglade-convenience-store

@@ -2,10 +2,10 @@ id: 2376330050
 type: node
 latitude: 51.73629
 longitude: 0.46911
-postcode: "CM1 1HT"
+postcode: CM1 1HT
 city: Chelmsford
-street: "Duke Street"
-housenumber: 27
+street: Duke Street
+housenumber: "27"
 phone: ""
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.coop.co.uk/store-finder/CM1-1HT/27-duke-street"
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.coop.co.uk/store-finder/CM1-1HT/27-duke-street

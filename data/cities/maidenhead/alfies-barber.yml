@@ -1,11 +1,11 @@
 id: 1257177516
-type: way
+type: node
 latitude: 51.52604
 longitude: -0.74023
-postcode: "SL6 6LZ"
+postcode: SL6 6LZ
 city: Maidenhead
-street: "All Saints Avenue"
-housenumber: 112
+street: All Saints Avenue
+housenumber: "112"
 phone: ""
 opening_hours: ""
 website: ""

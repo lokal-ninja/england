@@ -2,10 +2,10 @@ id: 1501251972
 type: node
 latitude: 50.72907
 longitude: -3.53032
-postcode: "EX4 4LY"
+postcode: EX4 4LY
 city: Exeter
-street: "Hoopern Street"
-housenumber: 2
+street: Hoopern Street
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

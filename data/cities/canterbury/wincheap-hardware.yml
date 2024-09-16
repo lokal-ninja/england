@@ -1,11 +1,11 @@
 id: 568720965
-type: way
+type: node
 latitude: 51.27179
 longitude: 1.06823
-postcode: "CT1 3SE"
+postcode: CT1 3SE
 city: Canterbury
-street: "Wincheap"
-housenumber: 151
+street: Wincheap
+housenumber: "151"
 phone: ""
-opening_hours: "Mo-Sa 09:00-17:30"
+opening_hours: Mo-Sa 09:00-17:30
 website: ""

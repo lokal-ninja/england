@@ -1,11 +1,11 @@
 id: 768310886
-type: way
+type: node
 latitude: 53.5531
 longitude: -2.61694
-postcode: "WN1 3UB"
+postcode: WN1 3UB
 city: Wigan
-street: "Whelley"
-housenumber: 124
-phone: "+44 1942 494040"
-opening_hours: "Mo-Sa 08:00-17:00; Su 10:00-16:00"
+street: Whelley
+housenumber: "124"
+phone: +44 1942 494040
+opening_hours: Mo-Sa 08:00-17:00; Su 10:00-16:00
 website: ""

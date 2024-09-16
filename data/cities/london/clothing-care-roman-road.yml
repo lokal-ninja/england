@@ -1,11 +1,11 @@
 id: 745292440
-type: way
+type: node
 latitude: 51.53174
 longitude: -0.03623
 postcode: ""
 city: London
-street: "Roman Road"
-housenumber: 423
+street: Roman Road
+housenumber: "423"
 phone: ""
 opening_hours: ""
 website: ""

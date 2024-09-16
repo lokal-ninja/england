@@ -1,11 +1,11 @@
 id: 15461032
-type: way
+type: node
 latitude: 51.12351
 longitude: -0.19319
-postcode: "RH10 8NF"
+postcode: RH10 8NF
 city: Crawley
-street: "Crawley Avenue"
-housenumber: 
+street: Crawley Avenue
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 07:00-22:00; Sa 07:00-21:00; Su 10:00-16:00"
-website: "https://stores.sainsburys.co.uk/0026/west-green"
+opening_hours: Mo-Fr 07:00-22:00; Sa 07:00-21:00; Su 10:00-16:00
+website: https://stores.sainsburys.co.uk/0026/west-green

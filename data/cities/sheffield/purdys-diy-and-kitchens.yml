@@ -1,11 +1,11 @@
 id: 1075349017
-type: way
+type: node
 latitude: 53.36566
 longitude: -1.35282
-postcode: "S13 9XD"
+postcode: S13 9XD
 city: Sheffield
-street: "Furnace Lane"
-housenumber: 99
+street: Furnace Lane
+housenumber: "99"
 phone: ""
 opening_hours: ""
 website: ""

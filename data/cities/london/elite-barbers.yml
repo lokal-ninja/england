@@ -1,11 +1,11 @@
 id: 802707388
-type: way
+type: node
 latitude: 51.52539
 longitude: -0.12551
-postcode: "WC1N 1AP"
+postcode: WC1N 1AP
 city: London
-street: "Marchmont Street"
-housenumber: 69
+street: Marchmont Street
+housenumber: "69"
 phone: ""
 opening_hours: ""
 website: ""

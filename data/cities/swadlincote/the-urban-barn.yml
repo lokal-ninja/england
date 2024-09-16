@@ -1,11 +1,11 @@
 id: 1279962263
-type: way
+type: node
 latitude: 52.77345
 longitude: -1.5574
-postcode: "DE11 9DG"
+postcode: DE11 9DG
 city: Swadlincote
-street: "West Street"
+street: West Street
 housenumber: 3B
-phone: "+44 7788 753535"
-opening_hours: "Tu-Fr 10:00-15:00; Sa 10:00-16:00"
+phone: +44 7788 753535
+opening_hours: Tu-Fr 10:00-15:00; Sa 10:00-16:00
 website: ""

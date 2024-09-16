@@ -1,11 +1,11 @@
 id: 327073047
-type: way
+type: node
 latitude: 51.6986
 longitude: -0.17404
-postcode: "EN6 5DA"
+postcode: EN6 5DA
 city: Potters Bar
-street: "High Street"
-housenumber: 199
-phone: "+44 1707656560"
-opening_hours: "Mo-Fr 10:00-19:00; Sa-Su 11:00-19:00"
-website: "https://www.royalthaispa.co.uk/"
+street: High Street
+housenumber: "199"
+phone: +44 1707656560
+opening_hours: Mo-Fr 10:00-19:00; Sa-Su 11:00-19:00
+website: https://www.royalthaispa.co.uk/

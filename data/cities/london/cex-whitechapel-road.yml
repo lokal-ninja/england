@@ -1,11 +1,11 @@
 id: 422640134
-type: way
+type: node
 latitude: 51.51911
 longitude: -0.06076
-postcode: "E1 1DB"
+postcode: E1 1DB
 city: London
-street: "Whitechapel Road"
-housenumber: 249
+street: Whitechapel Road
+housenumber: "249"
 phone: ""
-opening_hours: "Mo-Th,Sa 10:00-18:30; Fr 10:00-19:00; Su 11:00-17:00"
+opening_hours: Mo-Th,Sa 10:00-18:30; Fr 10:00-19:00; Su 11:00-17:00
 website: ""

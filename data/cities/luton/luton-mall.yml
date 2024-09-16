@@ -1,11 +1,11 @@
 id: 49919420
-type: way
+type: node
 latitude: 51.88069
 longitude: -0.41641
 postcode: ""
 city: Luton
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.themall.co.uk/luton/"
+website: https://www.themall.co.uk/luton/

@@ -1,11 +1,11 @@
 id: 106127395
-type: way
+type: node
 latitude: 53.32642
 longitude: -1.54017
-postcode: "S17 3GD"
+postcode: S17 3GD
 city: Sheffield
-street: "Townhead Road"
-housenumber: 31
+street: Townhead Road
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

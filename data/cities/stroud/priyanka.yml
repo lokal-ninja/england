@@ -1,11 +1,11 @@
 id: 261107424
-type: way
+type: node
 latitude: 51.74581
 longitude: -2.21785
-postcode: "GL5 3BX"
+postcode: GL5 3BX
 city: Stroud
-street: "King Street"
-housenumber: 23
+street: King Street
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

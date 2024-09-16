@@ -1,11 +1,11 @@
 id: 1144969032
-type: way
+type: node
 latitude: 53.38649
 longitude: -1.41223
-postcode: "S9 4RE"
+postcode: S9 4RE
 city: Sheffield
-street: "Staniforth Road"
-housenumber: 685
+street: Staniforth Road
+housenumber: "685"
 phone: ""
 opening_hours: ""
 website: ""

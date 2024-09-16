@@ -1,11 +1,11 @@
 id: 1058016193
-type: way
+type: node
 latitude: 53.52416
 longitude: -1.13306
-postcode: "DN1 1NJ"
+postcode: DN1 1NJ
 city: Doncaster
-street: "Market Place"
-housenumber: 44
+street: Market Place
+housenumber: "44"
 phone: ""
 opening_hours: ""
 website: ""

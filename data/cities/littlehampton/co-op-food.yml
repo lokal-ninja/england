@@ -1,11 +1,11 @@
 id: 1206968960
-type: way
+type: node
 latitude: 50.81582
 longitude: -0.49012
 postcode: ""
 city: Littlehampton
-street: "Station Road"
-housenumber: 
-phone: "+44 1903 772051"
-opening_hours: "Mo-Su 06:30-22:00"
-website: "https://stores.southern.coop/west-sussex/rustington/station-parade.html"
+street: Station Road
+housenumber: ""
+phone: +44 1903 772051
+opening_hours: Mo-Su 06:30-22:00
+website: https://stores.southern.coop/west-sussex/rustington/station-parade.html

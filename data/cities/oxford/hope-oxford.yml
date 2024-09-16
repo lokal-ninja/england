@@ -4,8 +4,8 @@ latitude: 51.7318
 longitude: -1.21586
 postcode: ""
 city: Oxford
-street: "The Square"
-housenumber: 4
+street: The Square
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.hopeoxford.org"
+website: https://www.hopeoxford.org

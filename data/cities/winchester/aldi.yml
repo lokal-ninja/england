@@ -1,11 +1,11 @@
 id: 560602115
-type: way
+type: node
 latitude: 51.07499
 longitude: -1.33773
-postcode: "SO22 5JQ"
+postcode: SO22 5JQ
 city: Winchester
-street: "Burnett Close"
-housenumber: 2
+street: Burnett Close
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00; Su 10:00-16:00"
+opening_hours: Mo-Sa 08:00-22:00; Su 10:00-16:00
 website: ""

@@ -1,11 +1,11 @@
 id: 499046080
-type: way
+type: node
 latitude: 50.41571
 longitude: -4.09987
-postcode: "PL6 8UL"
+postcode: PL6 8UL
 city: Plymouth
-street: "Miller Way"
-housenumber: 
+street: Miller Way
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 06:00-22:00"
+opening_hours: Mo-Su 06:00-22:00
 website: ""

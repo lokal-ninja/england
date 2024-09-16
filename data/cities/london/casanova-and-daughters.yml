@@ -1,11 +1,11 @@
 id: 175155072
-type: way
+type: node
 latitude: 51.51436
 longitude: -0.12651
-postcode: "WC2H 9DP"
+postcode: WC2H 9DP
 city: London
-street: "Neal's Yard"
-housenumber: 6
+street: Neal's Yard
+housenumber: "6"
 phone: ""
-opening_hours: "Tu-We 12:00-20:00; Th-Sa 12:00-22:00; Su 12:00-20:00"
-website: "https://www.casanovaanddaughters.com/"
+opening_hours: Tu-We 12:00-20:00; Th-Sa 12:00-22:00; Su 12:00-20:00
+website: https://www.casanovaanddaughters.com/

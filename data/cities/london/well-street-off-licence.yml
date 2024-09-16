@@ -1,11 +1,11 @@
 id: 928248539
-type: way
+type: node
 latitude: 51.54413
 longitude: -0.04742
-postcode: "E9 6RG"
+postcode: E9 6RG
 city: London
-street: "Well Street"
-housenumber: 229
+street: Well Street
+housenumber: "229"
 phone: ""
 opening_hours: ""
 website: ""

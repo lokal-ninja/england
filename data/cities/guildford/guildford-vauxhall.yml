@@ -1,11 +1,11 @@
 id: 60623663
-type: way
+type: node
 latitude: 51.26242
 longitude: -0.56861
-postcode: "GU1 1RT"
+postcode: GU1 1RT
 city: Guildford
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

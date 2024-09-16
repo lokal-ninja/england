@@ -2,10 +2,10 @@ id: 4173275589
 type: node
 latitude: 50.88526
 longitude: -1.02728
-postcode: "PO7 7RL"
+postcode: PO7 7RL
 city: Waterlooville
-street: "London Road"
-housenumber: 179
+street: London Road
+housenumber: "179"
 phone: ""
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.tesco.com/store-locator/waterlooville/179-london-rd"
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.tesco.com/store-locator/waterlooville/179-london-rd

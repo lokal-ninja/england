@@ -2,10 +2,10 @@ id: 5382875219
 type: node
 latitude: 51.58
 longitude: 0.18214
-postcode: "RM1 3AB"
+postcode: RM1 3AB
 city: Romford
-street: "Market Place"
-housenumber: 43
+street: Market Place
+housenumber: "43"
 phone: ""
 opening_hours: ""
 website: ""

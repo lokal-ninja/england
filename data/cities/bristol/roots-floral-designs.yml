@@ -1,11 +1,11 @@
 id: 291700174
-type: way
+type: node
 latitude: 51.45327
 longitude: -2.59701
-postcode: "BS1 4DA"
+postcode: BS1 4DA
 city: Bristol
-street: "Broad Quay"
-housenumber: 1
+street: Broad Quay
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

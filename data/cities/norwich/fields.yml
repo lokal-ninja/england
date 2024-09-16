@@ -1,11 +1,11 @@
 id: 1186881888
-type: way
+type: node
 latitude: 52.63131
 longitude: 1.29885
-postcode: "NR3 1HF"
+postcode: NR3 1HF
 city: Norwich
-street: "Tombland"
-housenumber: 9
+street: Tombland
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

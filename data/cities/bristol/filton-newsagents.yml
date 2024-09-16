@@ -1,11 +1,11 @@
 id: 1128061614
-type: way
+type: node
 latitude: 51.51006
 longitude: -2.57266
-postcode: "BS34 7BT"
+postcode: BS34 7BT
 city: Bristol
-street: "Church Road"
-housenumber: 2
+street: Church Road
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 153481048
-type: way
+type: node
 latitude: 50.90336
 longitude: -1.404
-postcode: "SO14 7DQ"
+postcode: SO14 7DQ
 city: Southampton
-street: "Above Bar Street"
-housenumber: 20
+street: Above Bar Street
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

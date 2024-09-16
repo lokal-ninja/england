@@ -1,11 +1,11 @@
 id: 170166971
-type: way
+type: node
 latitude: 51.02006
 longitude: -3.07714
-postcode: "TA1 2BJ"
+postcode: TA1 2BJ
 city: Taunton
-street: "Roman Road"
-housenumber: 106
+street: Roman Road
+housenumber: "106"
 phone: ""
 opening_hours: ""
 website: ""

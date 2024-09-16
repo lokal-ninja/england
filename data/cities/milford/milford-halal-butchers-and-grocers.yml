@@ -1,11 +1,11 @@
 id: 1017552515
-type: way
+type: node
 latitude: 51.1719
 longitude: -0.64186
-postcode: "GU7 2JU"
+postcode: GU7 2JU
 city: Milford
-street: "Portsmouth Road"
-housenumber: 
-phone: "+44 1483 808610"
-opening_hours: "Mo-Sa 09:00-17:00; Su 10:30-17:00"
+street: Portsmouth Road
+housenumber: ""
+phone: +44 1483 808610
+opening_hours: Mo-Sa 09:00-17:00; Su 10:30-17:00
 website: ""

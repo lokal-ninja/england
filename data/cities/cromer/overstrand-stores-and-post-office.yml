@@ -2,10 +2,10 @@ id: 3004531954
 type: node
 latitude: 52.91707
 longitude: 1.3426
-postcode: "NR27 0AB"
+postcode: NR27 0AB
 city: Cromer
-street: "High Street"
-housenumber: 36
+street: High Street
+housenumber: "36"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1096373885
-type: way
+type: node
 latitude: 51.43183
 longitude: 0.03053
-postcode: "SE12 9QL"
+postcode: SE12 9QL
 city: London
-street: "Chinbrook Road"
-housenumber: 107
+street: Chinbrook Road
+housenumber: "107"
 phone: ""
 opening_hours: ""
 website: ""

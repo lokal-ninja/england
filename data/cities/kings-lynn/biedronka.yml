@@ -1,11 +1,11 @@
 id: 610285527
-type: way
+type: node
 latitude: 52.75113
 longitude: 0.39843
-postcode: "PE30 5DF"
+postcode: PE30 5DF
 city: King's Lynn
-street: "Tower Place"
-housenumber: 6
+street: Tower Place
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 267551340
-type: way
+type: node
 latitude: 51.5173
 longitude: -0.07028
-postcode: "E1 5NG"
+postcode: E1 5NG
 city: London
-street: "Old Montague Street"
-housenumber: 2
+street: Old Montague Street
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -2,10 +2,10 @@ id: 10002121997
 type: node
 latitude: 53.54006
 longitude: -2.11689
-postcode: "OL8 1DP"
+postcode: OL8 1DP
 city: Oldham
-street: "King Street"
-housenumber: 31
+street: King Street
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

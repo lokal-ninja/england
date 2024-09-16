@@ -1,11 +1,11 @@
 id: 284525632
-type: way
+type: node
 latitude: 52.91356
 longitude: -1.40678
-postcode: "DE21 7NL"
+postcode: DE21 7NL
 city: Derby
-street: "Nottingham Road"
-housenumber: 50
+street: Nottingham Road
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

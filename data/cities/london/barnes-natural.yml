@@ -1,11 +1,11 @@
 id: 594331202
-type: way
+type: node
 latitude: 51.47338
 longitude: -0.24821
-postcode: "SW13 9LB"
+postcode: SW13 9LB
 city: London
-street: "Barnes High Street"
-housenumber: 3
+street: Barnes High Street
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

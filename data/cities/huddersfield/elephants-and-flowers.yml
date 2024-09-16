@@ -1,11 +1,11 @@
 id: 1237833784
-type: way
+type: node
 latitude: 53.58443
 longitude: -1.70955
-postcode: "HD8 8AA"
+postcode: HD8 8AA
 city: Huddersfield
-street: "Station Road"
-housenumber: 3
+street: Station Road
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

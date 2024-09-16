@@ -1,11 +1,11 @@
 id: 1313934909
-type: way
+type: node
 latitude: 52.54173
 longitude: 1.4812
-postcode: "NR14 6HE"
+postcode: NR14 6HE
 city: Norwich
-street: "Langley Road"
-housenumber: 56
-phone: "+44 1508 521159"
+street: Langley Road
+housenumber: "56"
+phone: +44 1508 521159
 opening_hours: ""
-website: "https://coppingfunerals.co.uk/"
+website: https://coppingfunerals.co.uk/

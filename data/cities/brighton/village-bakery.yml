@@ -2,10 +2,10 @@ id: 2424693543
 type: node
 latitude: 50.80458
 longitude: -0.05809
-postcode: "BN2 7HE"
+postcode: BN2 7HE
 city: Brighton
-street: "High Street"
-housenumber: 61
+street: High Street
+housenumber: "61"
 phone: ""
 opening_hours: ""
 website: ""

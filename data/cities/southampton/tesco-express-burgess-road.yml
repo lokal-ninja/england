@@ -1,11 +1,11 @@
 id: 148503577
-type: way
+type: node
 latitude: 50.93834
 longitude: -1.38571
-postcode: "SO16 3BE"
+postcode: SO16 3BE
 city: Southampton
-street: "Burgess Road"
-housenumber: 278
+street: Burgess Road
+housenumber: "278"
 phone: ""
 opening_hours: ""
 website: ""

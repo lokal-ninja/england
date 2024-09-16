@@ -2,10 +2,11 @@ id: 6022850234
 type: node
 latitude: 53.79638
 longitude: -1.54195
-postcode: "LS1 6DX"
+postcode: LS1 6DX
 city: Leeds
-street: "Central Arcade"
-housenumber: 8
+street: Central Arcade
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-We 10:30-17:00; Th 11:00-18:00; Fr 10:30-17:30; Sa 11:00-17:00; Su 12:00-15:30"
-website: "https://www.ecotopiaonline.co.uk/"
+opening_hours: Mo-We 10:30-17:00; Th 11:00-18:00; Fr 10:30-17:30; Sa 11:00-17:00;
+    Su 12:00-15:30
+website: https://www.ecotopiaonline.co.uk/

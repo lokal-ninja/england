@@ -1,11 +1,11 @@
 id: 328876588
-type: way
+type: node
 latitude: 51.45558
 longitude: -2.62151
-postcode: "BS8 4JB"
+postcode: BS8 4JB
 city: Bristol
-street: "Portland Street"
-housenumber: 25
+street: Portland Street
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

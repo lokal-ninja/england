@@ -1,11 +1,11 @@
 id: 307319381
-type: way
+type: node
 latitude: 54.28199
 longitude: -0.40242
 postcode: ""
 city: Scarborough
-street: "Westborough"
-housenumber: 111
+street: Westborough
+housenumber: "111"
 phone: ""
 opening_hours: ""
 website: ""

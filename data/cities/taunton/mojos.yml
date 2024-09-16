@@ -1,11 +1,11 @@
 id: 662673032
-type: way
+type: node
 latitude: 51.01693
 longitude: -3.10223
-postcode: "TA1 1SF"
+postcode: TA1 1SF
 city: Taunton
-street: "Lower Middle Street"
-housenumber: 17
+street: Lower Middle Street
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

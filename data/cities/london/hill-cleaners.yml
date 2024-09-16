@@ -2,10 +2,10 @@ id: 2333408428
 type: node
 latitude: 51.58308
 longitude: -0.10001
-postcode: "N8 0RL"
+postcode: N8 0RL
 city: London
-street: "Green Lanes"
-housenumber: 565
+street: Green Lanes
+housenumber: "565"
 phone: ""
 opening_hours: ""
 website: ""

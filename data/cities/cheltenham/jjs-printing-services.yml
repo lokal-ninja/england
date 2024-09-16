@@ -1,11 +1,11 @@
 id: 166141139
-type: way
+type: node
 latitude: 51.90394
 longitude: -2.08103
-postcode: "GL50 3HT"
+postcode: GL50 3HT
 city: Cheltenham
-street: "High Street"
-housenumber: 363
+street: High Street
+housenumber: "363"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 273720747
-type: way
+type: node
 latitude: 51.51319
 longitude: -0.13571
-postcode: "W1F 0JG"
+postcode: W1F 0JG
 city: London
-street: "Ingestre Place"
-housenumber: 13
+street: Ingestre Place
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

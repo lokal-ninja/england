@@ -1,11 +1,11 @@
 id: 159924469
-type: way
+type: node
 latitude: 51.51334
 longitude: -0.09347
 postcode: ""
 city: London
-street: "Bow Lane"
-housenumber: 47
+street: Bow Lane
+housenumber: "47"
 phone: ""
 opening_hours: ""
 website: ""

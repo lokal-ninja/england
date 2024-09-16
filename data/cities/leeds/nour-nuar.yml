@@ -1,11 +1,11 @@
 id: 385277880
-type: way
+type: node
 latitude: 53.83711
 longitude: -1.64208
-postcode: "LS18 5LJ"
+postcode: LS18 5LJ
 city: Leeds
-street: "Town Street"
-housenumber: 13
+street: Town Street
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Su 12:00-21:00"
-website: "https://www.nournuarhorsforth.co.uk/"
+opening_hours: Mo-Su 12:00-21:00
+website: https://www.nournuarhorsforth.co.uk/

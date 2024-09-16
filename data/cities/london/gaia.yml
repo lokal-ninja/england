@@ -1,11 +1,11 @@
 id: 460103672
-type: way
+type: node
 latitude: 51.46428
 longitude: -0.26931
-postcode: "SW14 7JG"
+postcode: SW14 7JG
 city: London
-street: "Upper Richmond Road West"
-housenumber: 306
+street: Upper Richmond Road West
+housenumber: "306"
 phone: ""
-opening_hours: "Tu-Su 10:00-19:00"
+opening_hours: Tu-Su 10:00-19:00
 website: ""

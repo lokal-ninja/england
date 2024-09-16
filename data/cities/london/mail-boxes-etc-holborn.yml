@@ -2,10 +2,10 @@ id: 11288690670
 type: node
 latitude: 51.51849
 longitude: -0.12457
-postcode: "WC1A 2JB"
+postcode: WC1A 2JB
 city: London
-street: "Bury Place"
-housenumber: 19
+street: Bury Place
+housenumber: "19"
 phone: "442045996741"
-opening_hours: "Mo-Fr 09:00-18:00;Sa 10:00-15:00"
-website: "https://www.mbe.co.uk/londonholborn"
+opening_hours: Mo-Fr 09:00-18:00;Sa 10:00-15:00
+website: https://www.mbe.co.uk/londonholborn

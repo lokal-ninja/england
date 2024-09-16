@@ -1,11 +1,11 @@
 id: 232180451
-type: way
+type: node
 latitude: 51.28261
 longitude: 1.08364
-postcode: "CT1 1BB"
+postcode: CT1 1BB
 city: Canterbury
-street: "Northgate"
-housenumber: 65
+street: Northgate
+housenumber: "65"
 phone: ""
-opening_hours: "Mo-Su 10:00-19:45"
+opening_hours: Mo-Su 10:00-19:45
 website: ""

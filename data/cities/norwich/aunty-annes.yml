@@ -1,11 +1,11 @@
 id: 108865921
-type: way
+type: node
 latitude: 52.62526
 longitude: 1.29133
-postcode: "NR2 1SB"
+postcode: NR2 1SB
 city: Norwich
-street: "Saint Stephen's Arcade"
-housenumber: 106
+street: Saint Stephen's Arcade
+housenumber: "106"
 phone: ""
 opening_hours: ""
 website: ""

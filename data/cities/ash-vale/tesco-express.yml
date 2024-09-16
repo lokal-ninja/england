@@ -1,11 +1,11 @@
 id: 545709010
-type: way
+type: node
 latitude: 51.27248
 longitude: -0.72302
-postcode: "GU12 5QF"
+postcode: GU12 5QF
 city: Ash Vale
-street: "Lysons Avenue"
-housenumber: 
+street: Lysons Avenue
+housenumber: ""
 phone: ""
-opening_hours: "PH,Mo-Su 07:00-22:00"
+opening_hours: PH,Mo-Su 07:00-22:00
 website: ""

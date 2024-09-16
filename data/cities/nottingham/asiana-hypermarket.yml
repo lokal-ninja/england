@@ -1,11 +1,11 @@
 id: 111504867
-type: way
+type: node
 latitude: 52.96211
 longitude: -1.14653
-postcode: "NG3 1AR"
+postcode: NG3 1AR
 city: Nottingham
-street: "Woodborough Road"
-housenumber: 108
+street: Woodborough Road
+housenumber: "108"
 phone: ""
 opening_hours: ""
 website: ""

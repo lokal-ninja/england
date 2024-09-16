@@ -1,11 +1,11 @@
 id: 27363286
-type: way
+type: node
 latitude: 50.84184
 longitude: -0.75699
-postcode: "PO19 7YH"
+postcode: PO19 7YH
 city: Chichester
-street: "Portfield Way"
-housenumber: 4
+street: Portfield Way
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 513669454
-type: way
+type: node
 latitude: 51.88892
 longitude: 0.90252
-postcode: "CO1 1LH"
+postcode: CO1 1LH
 city: Colchester
-street: "Long Wyre Street"
-housenumber: 8
+street: Long Wyre Street
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "https://www.theworks.co.uk/Store?storeId=0164"
+website: https://www.theworks.co.uk/Store?storeId=0164

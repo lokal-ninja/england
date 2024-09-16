@@ -1,11 +1,11 @@
 id: 85763253
-type: way
+type: node
 latitude: 53.68758
 longitude: -1.50133
-postcode: "WF1 3QT"
+postcode: WF1 3QT
 city: Wakefield
-street: "Northgate"
-housenumber: 142
+street: Northgate
+housenumber: "142"
 phone: ""
 opening_hours: ""
 website: ""

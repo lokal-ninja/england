@@ -1,11 +1,11 @@
 id: 30914400
-type: way
+type: node
 latitude: 50.90358
 longitude: -1.41186
-postcode: "SO15 1GY"
+postcode: SO15 1GY
 city: Southampton
-street: "West Quay Road"
-housenumber: 
-phone: "+44 20 3645 0000"
-opening_hours: "Mo-Fr 09:30-21:00; Sa 09:00-21:00; Su 10:00-17:00"
-website: "https://www.ikea.com/gb/en/stores/southampton/"
+street: West Quay Road
+housenumber: ""
+phone: +44 20 3645 0000
+opening_hours: Mo-Fr 09:30-21:00; Sa 09:00-21:00; Su 10:00-17:00
+website: https://www.ikea.com/gb/en/stores/southampton/

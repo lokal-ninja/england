@@ -1,11 +1,11 @@
 id: 1089090478
-type: way
+type: node
 latitude: 51.55889
 longitude: -1.78561
-postcode: "SN1 5NX"
+postcode: SN1 5NX
 city: Swindon
-street: "Commercial Road"
-housenumber: 44
+street: Commercial Road
+housenumber: "44"
 phone: ""
 opening_hours: ""
 website: ""

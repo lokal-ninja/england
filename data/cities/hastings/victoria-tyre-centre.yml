@@ -1,11 +1,11 @@
 id: 1089187441
-type: way
+type: node
 latitude: 50.87558
 longitude: 0.60261
-postcode: "TN35 5BS"
+postcode: TN35 5BS
 city: Hastings
-street: "Victoria Avenue"
-housenumber: 162
-phone: "+44 1424 460838"
-opening_hours: "Mo-Fr 08:30-16:30; Sa 08:30-11:30; Su off"
+street: Victoria Avenue
+housenumber: "162"
+phone: +44 1424 460838
+opening_hours: Mo-Fr 08:30-16:30; Sa 08:30-11:30; Su off
 website: ""

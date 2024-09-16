@@ -1,11 +1,11 @@
 id: 65724443
-type: way
+type: node
 latitude: 52.91117
 longitude: -1.50724
-postcode: "DE23 6BR"
+postcode: DE23 6BR
 city: Derby
-street: "Manor Road"
-housenumber: 58
+street: Manor Road
+housenumber: "58"
 phone: ""
 opening_hours: ""
-website: "https://www.petsandfriends.co.uk/pages/littleover-store"
+website: https://www.petsandfriends.co.uk/pages/littleover-store

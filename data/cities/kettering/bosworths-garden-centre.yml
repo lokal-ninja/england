@@ -1,11 +1,11 @@
 id: 419743442
-type: way
+type: node
 latitude: 52.35595
 longitude: -0.68592
-postcode: "NN15 5QA"
+postcode: NN15 5QA
 city: Kettering
-street: "Finedon Road"
-housenumber: 110
+street: Finedon Road
+housenumber: "110"
 phone: ""
 opening_hours: ""
 website: ""

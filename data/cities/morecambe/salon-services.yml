@@ -1,11 +1,11 @@
 id: 436358214
-type: way
+type: node
 latitude: 54.05634
 longitude: -2.83911
-postcode: "LA3 3PE"
+postcode: LA3 3PE
 city: Morecambe
-street: "Fellgate"
-housenumber: 
-phone: "+44 1524 843371"
-opening_hours: "Mo-Fr 08:30-17:30; Sa 08:30-14:30; Su 11:00-16:00"
-website: "https://www.salon-services.com/storeinfo?StoreID=4113"
+street: Fellgate
+housenumber: ""
+phone: +44 1524 843371
+opening_hours: Mo-Fr 08:30-17:30; Sa 08:30-14:30; Su 11:00-16:00
+website: https://www.salon-services.com/storeinfo?StoreID=4113

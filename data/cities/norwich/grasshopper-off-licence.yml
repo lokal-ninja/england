@@ -2,10 +2,10 @@ id: 10316414897
 type: node
 latitude: 52.62533
 longitude: 1.30128
-postcode: "NR1 1QE"
+postcode: NR1 1QE
 city: Norwich
-street: "King Street"
-housenumber: 116
+street: King Street
+housenumber: "116"
 phone: ""
 opening_hours: ""
 website: ""

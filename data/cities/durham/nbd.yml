@@ -1,11 +1,11 @@
 id: 444338189
-type: way
+type: node
 latitude: 54.75981
 longitude: -1.60795
-postcode: "DH7 8JN"
+postcode: DH7 8JN
 city: Durham
-street: "High Street South"
-housenumber: 16
+street: High Street South
+housenumber: "16"
 phone: ""
 opening_hours: ""
-website: "https://nbd.bookinbeautiful.com/"
+website: https://nbd.bookinbeautiful.com/

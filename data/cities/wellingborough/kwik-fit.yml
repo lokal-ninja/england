@@ -1,11 +1,11 @@
 id: 341316720
-type: way
+type: node
 latitude: 52.30039
 longitude: -0.70167
-postcode: "NN8 4JG"
+postcode: NN8 4JG
 city: Wellingborough
-street: "Oxford Street"
-housenumber: 37
-phone: "+44 1933 276316"
-opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-17:00; Su 10:00-16:00"
+street: Oxford Street
+housenumber: "37"
+phone: +44 1933 276316
+opening_hours: Mo-Fr 08:30-18:00; Sa 08:30-17:00; Su 10:00-16:00
 website: ""

@@ -1,11 +1,11 @@
 id: 844976999
-type: way
+type: node
 latitude: 51.4609
 longitude: -2.5311
-postcode: "BS5 7NF"
+postcode: BS5 7NF
 city: Bristol
-street: "Bell Hill Road"
-housenumber: 112
+street: Bell Hill Road
+housenumber: "112"
 phone: ""
 opening_hours: ""
 website: ""

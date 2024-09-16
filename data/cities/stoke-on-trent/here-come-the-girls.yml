@@ -1,11 +1,11 @@
 id: 998176629
-type: way
+type: node
 latitude: 52.9665
 longitude: -2.06013
-postcode: "ST11 9QA"
+postcode: ST11 9QA
 city: Stoke-on-Trent
-street: "Uttoxeter Road"
-housenumber: 317
+street: Uttoxeter Road
+housenumber: "317"
 phone: ""
 opening_hours: ""
 website: ""

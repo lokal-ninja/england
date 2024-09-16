@@ -1,11 +1,11 @@
 id: 931373343
-type: way
+type: node
 latitude: 50.74524
 longitude: -1.87843
-postcode: "BH9 2ER"
+postcode: BH9 2ER
 city: Bournemouth
-street: "Wimborne Road"
-housenumber: 554
-phone: "+44 1202 332567"
-opening_hours: "Mo-Sa 09:00-19:00; Su 10:00-19:00"
-website: "http://r1barbers95.booksy.com/"
+street: Wimborne Road
+housenumber: "554"
+phone: +44 1202 332567
+opening_hours: Mo-Sa 09:00-19:00; Su 10:00-19:00
+website: http://r1barbers95.booksy.com/

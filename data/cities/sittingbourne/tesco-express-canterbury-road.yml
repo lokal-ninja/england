@@ -1,11 +1,11 @@
 id: 67091055
-type: way
+type: node
 latitude: 51.33818
 longitude: 0.7479
-postcode: "ME10 4SG"
+postcode: ME10 4SG
 city: Sittingbourne
-street: "Canterbury Road"
-housenumber: 1
+street: Canterbury Road
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.tesco.com/store-locator/sittingbourne/1-canterbury-rd"
+website: https://www.tesco.com/store-locator/sittingbourne/1-canterbury-rd

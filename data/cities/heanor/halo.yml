@@ -1,11 +1,11 @@
 id: 389814565
-type: way
+type: node
 latitude: 53.01333
 longitude: -1.35599
-postcode: "DE75 7GE"
+postcode: DE75 7GE
 city: Heanor
-street: "Ray Street"
-housenumber: 31
+street: Ray Street
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

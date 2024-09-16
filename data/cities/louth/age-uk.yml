@@ -1,11 +1,11 @@
 id: 949217026
-type: way
+type: node
 latitude: 53.36689
 longitude: -0.00411
-postcode: "LN11 9PG"
+postcode: LN11 9PG
 city: Louth
-street: "Eastgate"
-housenumber: 54
-phone: "+44 1507 524242"
-opening_hours: "Mo-Sa 09:00-17:00"
-website: "https://www.ageuk.org.uk/lindsey/"
+street: Eastgate
+housenumber: "54"
+phone: +44 1507 524242
+opening_hours: Mo-Sa 09:00-17:00
+website: https://www.ageuk.org.uk/lindsey/

@@ -1,11 +1,11 @@
 id: 408113137
-type: way
+type: node
 latitude: 51.5491
 longitude: -0.12966
-postcode: "N7 0BL"
+postcode: N7 0BL
 city: London
-street: "Brecknock Road"
-housenumber: 5
+street: Brecknock Road
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

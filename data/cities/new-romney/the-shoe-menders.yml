@@ -1,11 +1,11 @@
 id: 1089774679
-type: way
+type: node
 latitude: 50.98582
 longitude: 0.94051
-postcode: "TN28 8AH"
+postcode: TN28 8AH
 city: New Romney
-street: "High Street"
-housenumber: 47
-phone: "+44 7966984452"
+street: High Street
+housenumber: "47"
+phone: +44 7966984452
 opening_hours: ""
-website: "https://www.shoemenders.co.uk/"
+website: https://www.shoemenders.co.uk/

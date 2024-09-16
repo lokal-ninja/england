@@ -1,11 +1,11 @@
 id: 137552625
-type: way
+type: node
 latitude: 53.37008
 longitude: -1.47512
-postcode: "S2 4SZ"
+postcode: S2 4SZ
 city: Sheffield
-street: "Hill Street"
-housenumber: 
+street: Hill Street
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 10:30-16:30"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 10:30-16:30
 website: ""

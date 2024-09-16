@@ -2,10 +2,10 @@ id: 433047883
 type: node
 latitude: 51.46268
 longitude: -2.1179
-postcode: "SN15 1HS"
+postcode: SN15 1HS
 city: Chippenham
-street: "New Road"
-housenumber: 20
-phone: "01249 461997"
-opening_hours: "Mo-Fr 09:00-17:30; Sa 09:00-16:00"
-website: "https://www.cycologybikes.co.uk"
+street: New Road
+housenumber: "20"
+phone: 01249 461997
+opening_hours: Mo-Fr 09:00-17:30; Sa 09:00-16:00
+website: https://www.cycologybikes.co.uk

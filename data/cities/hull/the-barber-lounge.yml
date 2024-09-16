@@ -1,11 +1,11 @@
 id: 917866116
-type: way
+type: node
 latitude: 53.80413
 longitude: -0.33521
-postcode: "HU7 3NS"
+postcode: HU7 3NS
 city: Hull
 street: ""
-housenumber: 
-phone: "+44 1482 689543"
-opening_hours: "Mo-We 09:00-17:00; Th-Fr 09:00-18:00; Sa 08:00-16:00; Su 10:00-15:00"
-website: "https://thebarberloungehull.com/"
+housenumber: ""
+phone: +44 1482 689543
+opening_hours: Mo-We 09:00-17:00; Th-Fr 09:00-18:00; Sa 08:00-16:00; Su 10:00-15:00
+website: https://thebarberloungehull.com/

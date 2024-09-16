@@ -1,11 +1,11 @@
 id: 1208651021
-type: way
+type: node
 latitude: 50.98464
 longitude: -3.20018
-postcode: "TA21 9JQ"
+postcode: TA21 9JQ
 city: Wellington
-street: "Castle Road"
-housenumber: 
-phone: "+44 1823 660033"
+street: Castle Road
+housenumber: ""
+phone: +44 1823 660033
 opening_hours: ""
-website: "http://www.sealsandmounts.co.uk/"
+website: http://www.sealsandmounts.co.uk/

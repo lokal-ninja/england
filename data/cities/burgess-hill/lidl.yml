@@ -1,11 +1,11 @@
 id: 1303991728
-type: way
+type: node
 latitude: 50.96464
 longitude: -0.12848
-postcode: "RH15 8AB"
+postcode: RH15 8AB
 city: Burgess Hill
-street: "Leylands Road"
-housenumber: 130
+street: Leylands Road
+housenumber: "130"
 phone: ""
 opening_hours: ""
-website: "https://www.lidl.co.uk/s/en-GB/store-finder/burgess-hill/leylands-road/"
+website: https://www.lidl.co.uk/s/en-GB/store-finder/burgess-hill/leylands-road/

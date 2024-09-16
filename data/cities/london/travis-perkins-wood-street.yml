@@ -1,11 +1,11 @@
 id: 219840330
-type: way
+type: node
 latitude: 51.58664
 longitude: -0.00285
-postcode: "E17 3LX"
+postcode: E17 3LX
 city: London
-street: "Wood Street"
-housenumber: 171
+street: Wood Street
+housenumber: "171"
 phone: ""
-opening_hours: "Mo-Fr 07:00-17:00; Sa 08:00-12:00; Su closed"
-website: "https://www.travisperkins.co.uk/branch-locator/0306"
+opening_hours: Mo-Fr 07:00-17:00; Sa 08:00-12:00; Su closed
+website: https://www.travisperkins.co.uk/branch-locator/0306

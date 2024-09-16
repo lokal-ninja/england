@@ -1,11 +1,11 @@
 id: 338141367
-type: way
+type: node
 latitude: 52.50347
 longitude: -1.9341
-postcode: "B21 9LR"
+postcode: B21 9LR
 city: Birmingham
-street: "Soho Road"
-housenumber: 188
+street: Soho Road
+housenumber: "188"
 phone: ""
 opening_hours: ""
 website: ""

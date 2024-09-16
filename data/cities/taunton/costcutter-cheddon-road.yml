@@ -1,11 +1,11 @@
 id: 138738769
-type: way
+type: node
 latitude: 51.03659
 longitude: -3.1016
-postcode: "TA2 7BA"
+postcode: TA2 7BA
 city: Taunton
-street: "Cheddon Road"
-housenumber: 301
+street: Cheddon Road
+housenumber: "301"
 phone: ""
 opening_hours: ""
 website: ""

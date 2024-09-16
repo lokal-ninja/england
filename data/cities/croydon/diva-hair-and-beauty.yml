@@ -1,11 +1,11 @@
 id: 223399888
-type: way
+type: node
 latitude: 51.37921
 longitude: -0.10418
-postcode: "CR0 2RF"
+postcode: CR0 2RF
 city: Croydon
-street: "London Road"
-housenumber: 57
+street: London Road
+housenumber: "57"
 phone: ""
 opening_hours: ""
 website: ""

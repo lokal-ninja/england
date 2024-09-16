@@ -1,11 +1,11 @@
 id: 1021913642
-type: way
+type: node
 latitude: 51.54573
 longitude: -0.06155
-postcode: "E8 1BG"
+postcode: E8 1BG
 city: London
-street: "Wilton Way"
-housenumber: 63
+street: Wilton Way
+housenumber: "63"
 phone: ""
 opening_hours: ""
 website: ""

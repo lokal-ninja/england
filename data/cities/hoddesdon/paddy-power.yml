@@ -1,11 +1,11 @@
 id: 123232814
-type: way
+type: node
 latitude: 51.76032
 longitude: -0.01222
-postcode: "EN11 8TJ"
+postcode: EN11 8TJ
 city: Hoddesdon
-street: "Fawkon Walk"
-housenumber: 2
+street: Fawkon Walk
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00; Su 09:00-22:00"
+opening_hours: Mo-Sa 08:00-22:00; Su 09:00-22:00
 website: ""

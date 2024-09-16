@@ -1,11 +1,11 @@
 id: 302936259
-type: way
+type: node
 latitude: 53.15997
 longitude: -2.66872
-postcode: "CW6 0DP"
+postcode: CW6 0DP
 city: Tarporley
-street: "High Street"
-housenumber: 53
+street: High Street
+housenumber: "53"
 phone: ""
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.coop.co.uk/store-finder/CW6-0DP/53-high-street"
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.coop.co.uk/store-finder/CW6-0DP/53-high-street

@@ -1,11 +1,11 @@
 id: 241551338
-type: way
+type: node
 latitude: 51.54321
 longitude: 0.0046
-postcode: "E15 1EN"
+postcode: E15 1EN
 city: London
-street: "The Grove"
+street: The Grove
 housenumber: 112-118
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su 11:00-17:00"
-website: "https://my.morrisons.com/storefinder/309/stratford"
+opening_hours: Mo-Sa 07:00-22:00; Su 11:00-17:00
+website: https://my.morrisons.com/storefinder/309/stratford

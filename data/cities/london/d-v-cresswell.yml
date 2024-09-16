@@ -1,11 +1,11 @@
 id: 437783170
-type: way
+type: node
 latitude: 51.53114
 longitude: -0.21703
-postcode: "NW10 3JE"
+postcode: NW10 3JE
 city: London
-street: "Chamberlayne Road"
-housenumber: 34
+street: Chamberlayne Road
+housenumber: "34"
 phone: ""
 opening_hours: ""
 website: ""

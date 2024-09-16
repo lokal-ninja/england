@@ -1,11 +1,11 @@
 id: 1271933835
-type: way
+type: node
 latitude: 51.17381
 longitude: -1.77919
-postcode: "SP4 7DY"
+postcode: SP4 7DY
 city: Amesbury
-street: "London Road"
-housenumber: 2
+street: London Road
+housenumber: "2"
 phone: ""
-opening_hours: "24/7"
-website: "https://stores.revolution-laundry.com/en-uk/england-gbr/Amesbury,_Wiltshire,_England,_United_Kingdom"
+opening_hours: 24/7
+website: https://stores.revolution-laundry.com/en-uk/england-gbr/Amesbury,_Wiltshire,_England,_United_Kingdom

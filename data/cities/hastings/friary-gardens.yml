@@ -1,11 +1,11 @@
 id: 1285189788
-type: way
+type: node
 latitude: 50.88028
 longitude: 0.58602
-postcode: "TN34 2RA"
+postcode: TN34 2RA
 city: Hastings
-street: "The Ridge"
-housenumber: 
+street: The Ridge
+housenumber: ""
 phone: ""
-opening_hours: "Tu-Fr 09:00-15:00; Sa,Su 09:00-13:00; Mo off"
+opening_hours: Tu-Fr 09:00-15:00; Sa,Su 09:00-13:00; Mo off
 website: ""

@@ -1,11 +1,11 @@
 id: 218259615
-type: way
+type: node
 latitude: 51.49015
 longitude: 0.015
-postcode: "SE10 0QJ"
+postcode: SE10 0QJ
 city: London
-street: "Bugsby's Way"
-housenumber: 59
-phone: "+44 20 8312 8000"
-opening_hours: "Mo-Sa 07:00-20:00; Su 11:00-17:00"
-website: "https://www.diy.com/store/1233"
+street: Bugsby's Way
+housenumber: "59"
+phone: +44 20 8312 8000
+opening_hours: Mo-Sa 07:00-20:00; Su 11:00-17:00
+website: https://www.diy.com/store/1233

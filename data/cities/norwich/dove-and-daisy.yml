@@ -1,11 +1,11 @@
 id: 217529559
-type: way
+type: node
 latitude: 52.65554
 longitude: 1.27291
-postcode: "NR6 5HZ"
+postcode: NR6 5HZ
 city: Norwich
-street: "Boundary Road"
-housenumber: 40
+street: Boundary Road
+housenumber: "40"
 phone: ""
 opening_hours: ""
 website: ""

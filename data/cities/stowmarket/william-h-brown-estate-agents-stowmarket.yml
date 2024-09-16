@@ -1,11 +1,11 @@
 id: 90517830
-type: way
+type: node
 latitude: 52.18749
 longitude: 0.99418
-postcode: "IP14 1DE"
+postcode: IP14 1DE
 city: Stowmarket
-street: "The Meadow Centre"
-housenumber: 
+street: The Meadow Centre
+housenumber: ""
 phone: ""
-opening_hours: "Mo-We,Fr 08:30-18:00; Th 08:30-19:00; Sa 09:00-16:00; Su closed"
+opening_hours: Mo-We,Fr 08:30-18:00; Th 08:30-19:00; Sa 09:00-16:00; Su closed
 website: ""

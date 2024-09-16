@@ -1,11 +1,11 @@
 id: 55081208
-type: way
+type: node
 latitude: 51.76676
 longitude: -0.21785
-postcode: "AL10 0EY"
+postcode: AL10 0EY
 city: Hatfield
-street: "St Albans Road East"
-housenumber: 2
+street: St Albans Road East
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

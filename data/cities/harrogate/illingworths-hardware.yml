@@ -1,11 +1,11 @@
 id: 297420673
-type: way
+type: node
 latitude: 53.98912
 longitude: -1.54883
-postcode: "HG2 0NU"
+postcode: HG2 0NU
 city: Harrogate
-street: "Cold Bath Road"
-housenumber: 113
-phone: "+44 1423 506605"
-opening_hours: "09:00-16:30 Approx"
+street: Cold Bath Road
+housenumber: "113"
+phone: +44 1423 506605
+opening_hours: 09:00-16:30 "Approx"
 website: ""

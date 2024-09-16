@@ -1,11 +1,11 @@
 id: 338696808
-type: way
+type: node
 latitude: 51.51041
 longitude: -0.14518
 postcode: ""
 city: London
-street: "Bruton Street"
-housenumber: 24
+street: Bruton Street
+housenumber: "24"
 phone: ""
 opening_hours: ""
-website: "https://www.eliesaab.com/"
+website: https://www.eliesaab.com/

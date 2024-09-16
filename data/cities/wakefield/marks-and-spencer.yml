@@ -1,11 +1,11 @@
 id: 1073218355
-type: way
+type: node
 latitude: 53.6826
 longitude: -1.49685
-postcode: "WF1 1SS"
+postcode: WF1 1SS
 city: Wakefield
-street: "Kirkgate"
-housenumber: 18
+street: Kirkgate
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Sa 08:30-17:30; Su 10:30-16:30"
-website: "https://www.marksandspencer.com/stores/wakefield-1863"
+opening_hours: Mo-Sa 08:30-17:30; Su 10:30-16:30
+website: https://www.marksandspencer.com/stores/wakefield-1863

@@ -1,11 +1,11 @@
 id: 651632916
-type: way
+type: node
 latitude: 50.81809
 longitude: -1.05353
-postcode: "PO3 5NP"
+postcode: PO3 5NP
 city: Portsmouth
-street: "Burrfields Road"
-housenumber: 
-phone: "+44 2393 879996"
-opening_hours: "Mo-Sa 08:00-20:00; Su 10:00-16:00"
+street: Burrfields Road
+housenumber: ""
+phone: +44 2393 879996
+opening_hours: Mo-Sa 08:00-20:00; Su 10:00-16:00
 website: ""

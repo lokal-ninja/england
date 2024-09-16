@@ -1,11 +1,11 @@
 id: 460796365
-type: way
+type: node
 latitude: 51.41981
 longitude: -0.20288
-postcode: "SW19 1RQ"
+postcode: SW19 1RQ
 city: London
-street: "The Broadway"
-housenumber: 58
+street: The Broadway
+housenumber: "58"
 phone: ""
 opening_hours: ""
-website: "https://www.cancerresearchuk.org/get-involved/find-a-shop/wimbledon"
+website: https://www.cancerresearchuk.org/get-involved/find-a-shop/wimbledon

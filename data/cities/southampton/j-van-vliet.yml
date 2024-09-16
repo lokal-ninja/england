@@ -1,11 +1,11 @@
 id: 691522141
-type: way
+type: node
 latitude: 50.9341
 longitude: -1.50851
-postcode: "SO40 3SA"
+postcode: SO40 3SA
 city: Southampton
-street: "Brunel Road"
-housenumber: 
+street: Brunel Road
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

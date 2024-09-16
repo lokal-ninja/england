@@ -1,11 +1,11 @@
 id: 486786800
-type: way
+type: node
 latitude: 53.4202
 longitude: -2.25928
-postcode: "M20 2ZF"
+postcode: M20 2ZF
 city: Manchester
-street: "Princess Road"
-housenumber: 849
+street: Princess Road
+housenumber: "849"
 phone: ""
 opening_hours: ""
-website: "https://storelocator.asda.com/north-west/manchester/849-princess-road"
+website: https://storelocator.asda.com/north-west/manchester/849-princess-road

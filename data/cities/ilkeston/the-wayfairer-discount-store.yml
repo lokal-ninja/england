@@ -1,11 +1,11 @@
 id: 777536101
-type: way
+type: node
 latitude: 52.96153
 longitude: -1.2971
-postcode: "DE7 5BB"
+postcode: DE7 5BB
 city: Ilkeston
-street: "Nottingham Road"
-housenumber: 307
+street: Nottingham Road
+housenumber: "307"
 phone: ""
 opening_hours: ""
 website: ""

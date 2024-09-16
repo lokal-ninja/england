@@ -1,11 +1,11 @@
 id: 133732730
-type: way
+type: node
 latitude: 52.90893
 longitude: -1.47952
-postcode: "DE23 6WY"
+postcode: DE23 6WY
 city: Derby
-street: "Lower Dale Road"
-housenumber: 4
+street: Lower Dale Road
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

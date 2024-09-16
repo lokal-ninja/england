@@ -1,11 +1,11 @@
 id: 42232572
-type: way
+type: node
 latitude: 52.20973
 longitude: 0.14672
-postcode: "CB5 8WR"
+postcode: CB5 8WR
 city: Cambridge
-street: "Cambridge Retail Park"
+street: Cambridge Retail Park
 housenumber: Unit 6
-phone: "+44 1223 454280"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su 10:00-17:00"
-website: "https://www.halfords.com/locations/cambridge-store/"
+phone: +44 1223 454280
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su 10:00-17:00
+website: https://www.halfords.com/locations/cambridge-store/

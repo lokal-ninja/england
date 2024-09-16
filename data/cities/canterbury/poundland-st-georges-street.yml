@@ -1,11 +1,11 @@
 id: 760010264
-type: way
+type: node
 latitude: 51.27803
 longitude: 1.08285
-postcode: "CT1 2SS"
+postcode: CT1 2SS
 city: Canterbury
-street: "St. George's Street"
-housenumber: 21
+street: St. George's Street
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Sa 08:00-19:00;Su 10:00-16:00"
+opening_hours: Mo-Sa 08:00-19:00;Su 10:00-16:00
 website: ""

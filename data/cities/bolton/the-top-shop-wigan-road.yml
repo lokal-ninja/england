@@ -1,11 +1,11 @@
 id: 717053567
-type: way
+type: node
 latitude: 53.56546
 longitude: -2.46939
-postcode: "BL3 4QW"
+postcode: BL3 4QW
 city: Bolton
-street: "Wigan Road"
-housenumber: 502
+street: Wigan Road
+housenumber: "502"
 phone: ""
 opening_hours: ""
 website: ""

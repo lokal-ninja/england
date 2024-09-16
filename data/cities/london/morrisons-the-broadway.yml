@@ -1,11 +1,11 @@
 id: 159709417
-type: way
+type: node
 latitude: 51.41991
 longitude: -0.2041
-postcode: "SW19 1QD"
+postcode: SW19 1QD
 city: London
-street: "The Broadway"
-housenumber: 51
-phone: "+44 20 8879 3353"
-opening_hours: "Mo-Sa 07:00-23:00; Su 11:00-17:00"
-website: "https://my.morrisons.com/storefinder/411/wimbledon"
+street: The Broadway
+housenumber: "51"
+phone: +44 20 8879 3353
+opening_hours: Mo-Sa 07:00-23:00; Su 11:00-17:00
+website: https://my.morrisons.com/storefinder/411/wimbledon

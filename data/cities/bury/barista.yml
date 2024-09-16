@@ -1,11 +1,11 @@
 id: 375764398
-type: way
+type: node
 latitude: 53.59463
 longitude: -2.29386
-postcode: "BL9 0PJ"
+postcode: BL9 0PJ
 city: Bury
-street: "The Rock"
-housenumber: 108
+street: The Rock
+housenumber: "108"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 490291469
-type: way
+type: node
 latitude: 52.58299
 longitude: -1.12114
-postcode: "LE18 2DA"
+postcode: LE18 2DA
 city: Wigston
-street: "Pullman Road"
-housenumber: 44
+street: Pullman Road
+housenumber: "44"
 phone: ""
 opening_hours: ""
 website: ""

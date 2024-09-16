@@ -4,8 +4,8 @@ latitude: 50.70075
 longitude: -1.29394
 postcode: ""
 city: Newport
-street: "Holyrood Street"
-housenumber: 25
-phone: "+44 1983 716162"
-opening_hours: "Mo-We,Fr,Sa 10:00-17:00; Th,Su off"
-website: "https://www.adriennewroath.com/"
+street: Holyrood Street
+housenumber: "25"
+phone: +44 1983 716162
+opening_hours: Mo-We,Fr,Sa 10:00-17:00; Th,Su off
+website: https://www.adriennewroath.com/

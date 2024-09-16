@@ -1,11 +1,11 @@
 id: 1154584608
-type: way
+type: node
 latitude: 53.40722
 longitude: -1.4522
-postcode: "S5 7AE"
+postcode: S5 7AE
 city: Sheffield
-street: "Barnsley Road"
-housenumber: 506
+street: Barnsley Road
+housenumber: "506"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1271800572
-type: way
+type: node
 latitude: 53.46662
 longitude: -2.16335
-postcode: "M18 8GA"
+postcode: M18 8GA
 city: Manchester
-street: "Lees Street"
-housenumber: 205
+street: Lees Street
+housenumber: "205"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 304102019
-type: way
+type: node
 latitude: 51.61816
 longitude: 0.07431
-postcode: "IG7 6NU"
+postcode: IG7 6NU
 city: Chigwell
-street: "High Road"
-housenumber: 185
+street: High Road
+housenumber: "185"
 phone: ""
 opening_hours: ""
 website: ""

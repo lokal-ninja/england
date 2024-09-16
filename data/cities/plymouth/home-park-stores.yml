@@ -1,11 +1,11 @@
 id: 990272095
-type: way
+type: node
 latitude: 50.39013
 longitude: -4.15524
 postcode: ""
 city: Plymouth
-street: "Seagrave Road"
-housenumber: 33
+street: Seagrave Road
+housenumber: "33"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su 07:00-18:00"
+opening_hours: Mo-Sa 07:00-21:00; Su 07:00-18:00
 website: ""

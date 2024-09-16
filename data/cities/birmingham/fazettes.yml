@@ -1,11 +1,11 @@
 id: 156292991
-type: way
+type: node
 latitude: 52.52838
 longitude: -1.84376
 postcode: ""
 city: Birmingham
-street: "Short Heath Road"
-housenumber: 4
+street: Short Heath Road
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

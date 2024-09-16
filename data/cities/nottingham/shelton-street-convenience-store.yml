@@ -1,11 +1,11 @@
 id: 85473829
-type: way
+type: node
 latitude: 52.96007
 longitude: -1.1447
-postcode: "NG3 1DY"
+postcode: NG3 1DY
 city: Nottingham
-street: "Shelton Street"
-housenumber: 34
+street: Shelton Street
+housenumber: "34"
 phone: ""
 opening_hours: ""
-website: "https://www.premier-stores.co.uk/our-stores/shelton-street-convenience-store"
+website: https://www.premier-stores.co.uk/our-stores/shelton-street-convenience-store

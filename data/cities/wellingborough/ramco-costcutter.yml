@@ -1,11 +1,11 @@
 id: 341316707
-type: way
+type: node
 latitude: 52.29986
 longitude: -0.70232
-postcode: "NN8 3HG"
+postcode: NN8 3HG
 city: Wellingborough
-street: "Northampton Road"
-housenumber: 1
+street: Northampton Road
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Su 08:00-23:00"
-website: "https://www.costcutter.co.uk/"
+opening_hours: Mo-Su 08:00-23:00
+website: https://www.costcutter.co.uk/

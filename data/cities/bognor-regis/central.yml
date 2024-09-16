@@ -1,11 +1,11 @@
 id: 256490069
-type: way
+type: node
 latitude: 50.79057
 longitude: -0.64277
-postcode: "PO22 7HX"
+postcode: PO22 7HX
 city: Bognor Regis
-street: "Summerley Lane"
-housenumber: 44
+street: Summerley Lane
+housenumber: "44"
 phone: ""
-opening_hours: "Mo-Su 06:30-21:00"
+opening_hours: Mo-Su 06:30-21:00
 website: ""

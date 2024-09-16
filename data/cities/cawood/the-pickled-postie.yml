@@ -1,11 +1,11 @@
 id: 836213837
-type: way
+type: node
 latitude: 53.83285
 longitude: -1.1293
-postcode: "YO8 3TH"
+postcode: YO8 3TH
 city: Cawood
-street: "High Street"
-housenumber: 2
+street: High Street
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

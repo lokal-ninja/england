@@ -1,11 +1,11 @@
 id: 460796363
-type: way
+type: node
 latitude: 51.41979
 longitude: -0.2028
-postcode: "SW19 1RQ"
+postcode: SW19 1RQ
 city: London
-street: "The Broadway"
-housenumber: 60
+street: The Broadway
+housenumber: "60"
 phone: ""
-opening_hours: "Mo-Fr 09:00-21:00; Sa,Su 09:00-18:00"
-website: "https://www.headmasters.com/salons/wimbledon-broadway/"
+opening_hours: Mo-Fr 09:00-21:00; Sa,Su 09:00-18:00
+website: https://www.headmasters.com/salons/wimbledon-broadway/

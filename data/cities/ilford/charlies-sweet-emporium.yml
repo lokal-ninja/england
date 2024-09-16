@@ -2,10 +2,10 @@ id: 2629340892
 type: node
 latitude: 51.58985
 longitude: 0.08193
-postcode: "IG6 2DQ"
+postcode: IG6 2DQ
 city: Ilford
-street: "High Street"
-housenumber: 58
-phone: "+44 20 8550 7988"
-opening_hours: "Mo-Fr 09:30-17:30; Sa 09:30-18:00; Su 11:00-17:00"
-website: "www.charliessweets.co.uk"
+street: High Street
+housenumber: "58"
+phone: +44 20 8550 7988
+opening_hours: Mo-Fr 09:30-17:30; Sa 09:30-18:00; Su 11:00-17:00
+website: www.charliessweets.co.uk

@@ -1,11 +1,11 @@
 id: 875699554
-type: way
+type: node
 latitude: 53.69224
 longitude: -1.31094
-postcode: "WF8 1BA"
+postcode: WF8 1BA
 city: Pontefract
-street: "Salter Row"
-housenumber: 20
+street: Salter Row
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

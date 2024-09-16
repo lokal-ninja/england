@@ -1,11 +1,11 @@
 id: 568257542
-type: way
+type: node
 latitude: 52.49736
 longitude: -0.68104
-postcode: "NN17 5AT"
+postcode: NN17 5AT
 city: Corby
-street: "Courier Road"
-housenumber: 1
+street: Courier Road
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.wickes.co.uk/store/8378"
+website: https://www.wickes.co.uk/store/8378

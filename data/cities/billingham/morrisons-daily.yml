@@ -2,10 +2,10 @@ id: 1183153381
 type: node
 latitude: 54.60752
 longitude: -1.2906
-postcode: "TS23 2LY"
+postcode: TS23 2LY
 city: Billingham
-street: "Town Square"
-housenumber: 12
+street: Town Square
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

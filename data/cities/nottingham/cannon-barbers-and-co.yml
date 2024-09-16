@@ -1,11 +1,11 @@
 id: 280039057
-type: way
+type: node
 latitude: 52.955
 longitude: -1.15203
-postcode: "NG1 5FW"
+postcode: NG1 5FW
 city: Nottingham
-street: "Wollaton Street"
-housenumber: 7
+street: Wollaton Street
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

@@ -2,10 +2,10 @@ id: 2260511353
 type: node
 latitude: 52.95525
 longitude: -1.15797
-postcode: "NG1 5FD"
+postcode: NG1 5FD
 city: Nottingham
-street: "Derby Road"
-housenumber: 60
+street: Derby Road
+housenumber: "60"
 phone: ""
 opening_hours: ""
-website: "https://loc8me.co.uk/"
+website: https://loc8me.co.uk/

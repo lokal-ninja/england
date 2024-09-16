@@ -2,10 +2,10 @@ id: 4321212600
 type: node
 latitude: 51.54125
 longitude: -0.14623
-postcode: "NW1 8AF"
+postcode: NW1 8AF
 city: London
-street: "Camden Lock Place"
-housenumber: 42
+street: Camden Lock Place
+housenumber: "42"
 phone: ""
 opening_hours: ""
 website: ""

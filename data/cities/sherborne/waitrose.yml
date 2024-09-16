@@ -1,11 +1,11 @@
 id: 157581056
-type: way
+type: node
 latitude: 50.94971
 longitude: -2.51618
-postcode: "DT9 3PU"
+postcode: DT9 3PU
 city: Sherborne
-street: "Cheap Street"
-housenumber: 
+street: Cheap Street
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su 10:00-16:00"
-website: "https://www.waitrose.com/find-a-store/sherborne"
+opening_hours: Mo-Sa 08:00-21:00; Su 10:00-16:00
+website: https://www.waitrose.com/find-a-store/sherborne

@@ -1,11 +1,11 @@
 id: 693400642
-type: way
+type: node
 latitude: 51.11316
 longitude: -1.04247
-postcode: "GU34 5HG"
+postcode: GU34 5HG
 city: Alton
-street: "Winchester Road"
-housenumber: 30
+street: Winchester Road
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Su 06:30-22:00"
-website: "https://stores.southern.coop/hampshire/alton/30-winchester-road.html"
+opening_hours: Mo-Su 06:30-22:00
+website: https://stores.southern.coop/hampshire/alton/30-winchester-road.html

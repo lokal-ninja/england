@@ -1,11 +1,11 @@
 id: 150821908
-type: way
+type: node
 latitude: 53.9835
 longitude: -2.10447
-postcode: "BD23 3RA"
+postcode: BD23 3RA
 city: Gargrave
-street: "High Street"
-housenumber: 21
+street: High Street
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.coop.co.uk/store-finder/BD23-3RA/21-high-street"
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.coop.co.uk/store-finder/BD23-3RA/21-high-street

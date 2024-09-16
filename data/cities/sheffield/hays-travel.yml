@@ -1,11 +1,12 @@
 id: 1198499813
-type: way
+type: node
 latitude: 53.46264
 longitude: -1.46783
-postcode: "S35 2UQ"
+postcode: S35 2UQ
 city: Sheffield
-street: "Lound Side"
-housenumber: 
-phone: "+44 114 257 0891"
-opening_hours: "Mo-Tu 09:15-17:30; We 10:00-17:00; Th-Fr 09:15-17:30; Sa 09:15-16:00; Su closed"
-website: "https://www.haystravel.co.uk/branches/chapeltown/"
+street: Lound Side
+housenumber: ""
+phone: +44 114 257 0891
+opening_hours: Mo-Tu 09:15-17:30; We 10:00-17:00; Th-Fr 09:15-17:30; Sa 09:15-16:00;
+    Su closed
+website: https://www.haystravel.co.uk/branches/chapeltown/

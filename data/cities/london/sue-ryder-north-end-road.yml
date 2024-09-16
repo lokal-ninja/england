@@ -1,11 +1,11 @@
 id: 150571902
-type: way
+type: node
 latitude: 51.48226
 longitude: -0.20046
 postcode: ""
 city: London
-street: "North End Road"
-housenumber: 330
+street: North End Road
+housenumber: "330"
 phone: ""
 opening_hours: ""
 website: ""

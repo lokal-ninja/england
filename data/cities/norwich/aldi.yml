@@ -1,11 +1,11 @@
 id: 31979229
-type: way
+type: node
 latitude: 52.63918
 longitude: 1.2416
-postcode: "NR5 8TZ"
+postcode: NR5 8TZ
 city: Norwich
-street: "Larkman Lane"
-housenumber: 1
+street: Larkman Lane
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00; Su 10:00-16:00"
+opening_hours: Mo-Sa 08:00-22:00; Su 10:00-16:00
 website: ""

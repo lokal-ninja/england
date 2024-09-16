@@ -2,10 +2,10 @@ id: 250250974
 type: node
 latitude: 53.79741
 longitude: -1.58903
-postcode: "LS12 3AB"
+postcode: LS12 3AB
 city: Leeds
-street: "Town Street"
-housenumber: 12
+street: Town Street
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

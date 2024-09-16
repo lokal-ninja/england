@@ -1,11 +1,11 @@
 id: 409294237
-type: way
+type: node
 latitude: 54.99058
 longitude: -1.60544
-postcode: "NE2 2DX"
+postcode: NE2 2DX
 city: Newcastle upon Tyne
-street: "Mistletoe Road"
-housenumber: 13
+street: Mistletoe Road
+housenumber: "13"
 phone: ""
 opening_hours: ""
-website: "http://www.randbsalon.co.uk/"
+website: http://www.randbsalon.co.uk/

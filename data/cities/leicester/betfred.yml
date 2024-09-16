@@ -1,11 +1,11 @@
 id: 465062535
-type: way
+type: node
 latitude: 52.63408
 longitude: -1.13258
-postcode: "LE1 5BP"
+postcode: LE1 5BP
 city: Leicester
-street: "Horsefair Street"
-housenumber: 11
+street: Horsefair Street
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 08:00-22:00; Sa 08:00-22:00; Su 09:00-20:00"
+opening_hours: Mo-Fr 08:00-22:00; Sa 08:00-22:00; Su 09:00-20:00
 website: ""

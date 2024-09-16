@@ -4,8 +4,8 @@ latitude: 51.51068
 longitude: -0.12711
 postcode: ""
 city: London
-street: "St Martin's Lane"
-housenumber: 94
+street: St Martin's Lane
+housenumber: "94"
 phone: ""
 opening_hours: ""
-website: "http://www.freedshop.com"
+website: http://www.freedshop.com

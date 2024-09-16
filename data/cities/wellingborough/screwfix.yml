@@ -1,11 +1,11 @@
 id: 316609031
-type: way
+type: node
 latitude: 52.29404
 longitude: -0.68898
-postcode: "NN8 2QH"
+postcode: NN8 2QH
 city: Wellingborough
-street: "Denington Road"
-housenumber: 
+street: Denington Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 07:00-20:00; Sa 08:00-20:00; Su 10:00-16:00"
-website: "https://www.screwfix.com/stores/KA9/wellingborough"
+opening_hours: Mo-Fr 07:00-20:00; Sa 08:00-20:00; Su 10:00-16:00
+website: https://www.screwfix.com/stores/KA9/wellingborough

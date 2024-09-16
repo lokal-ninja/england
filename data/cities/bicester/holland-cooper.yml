@@ -1,11 +1,11 @@
 id: 935738922
-type: way
+type: node
 latitude: 51.89291
 longitude: -1.15978
-postcode: "OX26 6WD"
+postcode: OX26 6WD
 city: Bicester
-street: "Bicester Village"
-housenumber: 141
+street: Bicester Village
+housenumber: "141"
 phone: ""
 opening_hours: ""
 website: ""

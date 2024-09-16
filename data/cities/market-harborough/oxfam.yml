@@ -1,11 +1,11 @@
 id: 49789759
-type: way
+type: node
 latitude: 52.4781
 longitude: -0.922
-postcode: "LE16 7NJ"
+postcode: LE16 7NJ
 city: Market Harborough
-street: "High Street"
-housenumber: 5
+street: High Street
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

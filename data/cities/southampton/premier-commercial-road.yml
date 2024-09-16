@@ -1,11 +1,11 @@
 id: 382215627
-type: way
+type: node
 latitude: 50.90909
 longitude: -1.41343
-postcode: "SO15 1GH"
+postcode: SO15 1GH
 city: Southampton
-street: "Commercial Road"
-housenumber: 
+street: Commercial Road
+housenumber: ""
 phone: ""
-opening_hours: "Su-Th 07:00-23:00; Fr-Sa 07:00-00:00"
-website: "https://www.premier-stores.co.uk/our-stores/commercial-convenience"
+opening_hours: Su-Th 07:00-23:00; Fr-Sa 07:00-00:00
+website: https://www.premier-stores.co.uk/our-stores/commercial-convenience

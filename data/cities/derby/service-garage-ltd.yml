@@ -1,11 +1,11 @@
 id: 172706969
-type: way
+type: node
 latitude: 52.90737
 longitude: -1.3846
-postcode: "DE72 3HA"
+postcode: DE72 3HA
 city: Derby
-street: "Derby Road"
-housenumber: 51
+street: Derby Road
+housenumber: "51"
 phone: ""
 opening_hours: ""
 website: ""

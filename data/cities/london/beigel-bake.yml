@@ -1,11 +1,11 @@
 id: 271641402
-type: way
+type: node
 latitude: 51.52455
 longitude: -0.0717
-postcode: "E1 6SB"
+postcode: E1 6SB
 city: London
-street: "Brick Lane"
-housenumber: 159
-phone: "+44 20 7729 0616"
-opening_hours: "24/7"
-website: "https://bricklanebeigel.co.uk/"
+street: Brick Lane
+housenumber: "159"
+phone: +44 20 7729 0616
+opening_hours: 24/7
+website: https://bricklanebeigel.co.uk/

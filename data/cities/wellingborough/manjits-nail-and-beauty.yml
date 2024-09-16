@@ -1,11 +1,11 @@
 id: 409135280
-type: way
+type: node
 latitude: 52.30611
 longitude: -0.68562
 postcode: ""
 city: Wellingborough
-street: "Alexandra Road"
-housenumber: 88
+street: Alexandra Road
+housenumber: "88"
 phone: ""
 opening_hours: ""
 website: ""

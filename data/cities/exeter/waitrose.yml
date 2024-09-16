@@ -1,11 +1,11 @@
 id: 152407173
-type: way
+type: node
 latitude: 50.72446
 longitude: -3.51488
-postcode: "EX1 2EB"
+postcode: EX1 2EB
 city: Exeter
-street: "Gladstone Road"
-housenumber: 2
+street: Gladstone Road
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:30-21:30; Su 11:00-17:00"
-website: "https://www.waitrose.com/find-a-store/exeter"
+opening_hours: Mo-Sa 07:30-21:30; Su 11:00-17:00
+website: https://www.waitrose.com/find-a-store/exeter

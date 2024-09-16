@@ -1,11 +1,11 @@
 id: 673321768
-type: way
+type: node
 latitude: 53.54858
 longitude: -2.39372
-postcode: "BL4 9AE"
+postcode: BL4 9AE
 city: Bolton
-street: "Market Street"
-housenumber: 120
+street: Market Street
+housenumber: "120"
 phone: ""
 opening_hours: ""
 website: ""

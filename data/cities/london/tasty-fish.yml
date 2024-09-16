@@ -1,11 +1,11 @@
 id: 371760162
-type: way
+type: node
 latitude: 51.55364
 longitude: -0.04532
-postcode: "E5 0LH"
+postcode: E5 0LH
 city: London
-street: "Chatsworth Road"
-housenumber: 71
+street: Chatsworth Road
+housenumber: "71"
 phone: ""
 opening_hours: ""
 website: ""

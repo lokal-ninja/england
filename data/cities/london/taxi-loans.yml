@@ -1,11 +1,11 @@
 id: 257334027
-type: way
+type: node
 latitude: 51.51181
 longitude: -0.0689
-postcode: "E1 8EY"
+postcode: E1 8EY
 city: London
-street: "Leman Street"
-housenumber: 119
+street: Leman Street
+housenumber: "119"
 phone: ""
 opening_hours: ""
 website: ""

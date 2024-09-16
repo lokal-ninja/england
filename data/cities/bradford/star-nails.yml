@@ -1,11 +1,11 @@
 id: 1195589278
-type: way
+type: node
 latitude: 53.79333
 longitude: -1.75313
-postcode: "BD1 1NF"
+postcode: BD1 1NF
 city: Bradford
-street: "Market Street"
-housenumber: 36
+street: Market Street
+housenumber: "36"
 phone: ""
 opening_hours: ""
 website: ""

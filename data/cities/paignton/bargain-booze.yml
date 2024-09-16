@@ -1,11 +1,11 @@
 id: 566198109
-type: way
+type: node
 latitude: 50.43977
 longitude: -3.58504
-postcode: "TQ3 3SU"
+postcode: TQ3 3SU
 city: Paignton
-street: "Foxhole Road"
-housenumber: 105
+street: Foxhole Road
+housenumber: "105"
 phone: ""
 opening_hours: ""
 website: ""

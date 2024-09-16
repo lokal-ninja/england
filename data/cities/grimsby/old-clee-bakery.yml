@@ -1,11 +1,11 @@
 id: 1232450782
-type: way
+type: node
 latitude: 53.55662
 longitude: -0.04908
-postcode: "DN32 8NG"
+postcode: DN32 8NG
 city: Grimsby
-street: "Clee Road"
+street: Clee Road
 housenumber: 178B
-phone: "+44 1472 290 400"
-opening_hours: "Mo-Sa 07:00-14:00; Su closed"
-website: "https://oldcleebakery.co.uk/"
+phone: +44 1472 290 400
+opening_hours: Mo-Sa 07:00-14:00; Su closed
+website: https://oldcleebakery.co.uk/

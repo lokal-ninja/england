@@ -1,11 +1,11 @@
 id: 631937609
-type: way
+type: node
 latitude: 53.59144
 longitude: -1.65307
 postcode: ""
 city: Huddersfield
-street: "Commercial Road"
-housenumber: 8
+street: Commercial Road
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

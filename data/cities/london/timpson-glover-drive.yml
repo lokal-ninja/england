@@ -2,10 +2,10 @@ id: 10155567231
 type: node
 latitude: 51.61019
 longitude: -0.04794
-postcode: "N18 3HF"
+postcode: N18 3HF
 city: London
-street: "Glover Drive"
-housenumber: 1
+street: Glover Drive
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 09:00-18:00; Su 11:00-17:00"
+opening_hours: Mo-Sa 09:00-18:00; Su 11:00-17:00
 website: ""

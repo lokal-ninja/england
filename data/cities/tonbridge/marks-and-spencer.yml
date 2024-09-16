@@ -1,11 +1,11 @@
 id: 116454522
-type: way
+type: node
 latitude: 51.13533
 longitude: 0.3528
-postcode: "TN12 7HE"
+postcode: TN12 7HE
 city: Tonbridge
-street: "Hastings Road"
-housenumber: 
+street: Hastings Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 00:00-24:00"
+opening_hours: Mo-Su 00:00-24:00
 website: ""

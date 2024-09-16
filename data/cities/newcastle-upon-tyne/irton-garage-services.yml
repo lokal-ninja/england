@@ -1,11 +1,11 @@
 id: 445836492
-type: way
+type: node
 latitude: 55.00993
 longitude: -1.62143
-postcode: "NE3 1HU"
+postcode: NE3 1HU
 city: Newcastle upon Tyne
-street: "Irton Street"
-housenumber: 
-phone: "+44191 285 1185"
+street: Irton Street
+housenumber: ""
+phone: +44191 285 1185
 opening_hours: ""
-website: "https://www.irtongarage.co.uk/"
+website: https://www.irtongarage.co.uk/

@@ -1,11 +1,11 @@
 id: 143920528
-type: way
+type: node
 latitude: 54.77664
 longitude: -1.57645
-postcode: "DH1 3RD"
+postcode: DH1 3RD
 city: Durham
-street: "Silver Street"
-housenumber: 36
+street: Silver Street
+housenumber: "36"
 phone: ""
 opening_hours: ""
 website: ""

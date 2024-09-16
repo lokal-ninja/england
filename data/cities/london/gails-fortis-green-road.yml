@@ -1,11 +1,11 @@
 id: 1039675528
-type: way
+type: node
 latitude: 51.59015
 longitude: -0.14624
-postcode: "N10 3HN"
+postcode: N10 3HN
 city: London
-street: "Fortis Green Road"
-housenumber: 70
+street: Fortis Green Road
+housenumber: "70"
 phone: ""
 opening_hours: ""
-website: "https://gails.com/pages/muswell-hill"
+website: https://gails.com/pages/muswell-hill

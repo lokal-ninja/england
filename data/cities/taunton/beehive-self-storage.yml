@@ -1,11 +1,11 @@
 id: 239222119
-type: way
+type: node
 latitude: 51.02853
 longitude: -3.08536
-postcode: "TA2 8DU"
+postcode: TA2 8DU
 city: Taunton
-street: "Priorswood Road"
-housenumber: 150
-phone: "+44 1823 323575"
+street: Priorswood Road
+housenumber: "150"
+phone: +44 1823 323575
 opening_hours: ""
-website: "https://beehiveselfstorage.co.uk/"
+website: https://beehiveselfstorage.co.uk/

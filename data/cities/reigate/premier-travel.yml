@@ -4,8 +4,8 @@ latitude: 51.23818
 longitude: -0.21054
 postcode: ""
 city: Reigate
-street: "West Street"
-housenumber: 5
+street: West Street
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://www.premiertravelreigate.co.uk/"
+website: https://www.premiertravelreigate.co.uk/

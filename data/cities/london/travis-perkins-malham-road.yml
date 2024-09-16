@@ -2,10 +2,10 @@ id: 5703850375
 type: node
 latitude: 51.44254
 longitude: -0.04927
-postcode: "SE23 1HF"
+postcode: SE23 1HF
 city: London
-street: "Malham Road"
-housenumber: 4
+street: Malham Road
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 07:00-17:00; Sa 08:00-12:00; Su closed"
-website: "https://www.travisperkins.co.uk/branch-locator/0342"
+opening_hours: Mo-Fr 07:00-17:00; Sa 08:00-12:00; Su closed
+website: https://www.travisperkins.co.uk/branch-locator/0342

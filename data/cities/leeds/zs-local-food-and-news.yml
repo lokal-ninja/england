@@ -1,11 +1,11 @@
 id: 514961190
-type: way
+type: node
 latitude: 53.79984
 longitude: -1.62458
-postcode: "LS13 4TD"
+postcode: LS13 4TD
 city: Leeds
-street: "Gamble Hill Place"
-housenumber: 8
+street: Gamble Hill Place
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

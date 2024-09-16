@@ -1,11 +1,11 @@
 id: 412431228
-type: way
+type: node
 latitude: 52.42872
 longitude: 0.74578
-postcode: "IP24 1HG"
+postcode: IP24 1HG
 city: Thetford
-street: "Saint Helens Way"
-housenumber: 11
+street: Saint Helens Way
+housenumber: "11"
 phone: ""
 opening_hours: ""
-website: "https://www.lodgetyre.com/branch/thetford/"
+website: https://www.lodgetyre.com/branch/thetford/

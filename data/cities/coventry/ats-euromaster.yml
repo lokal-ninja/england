@@ -1,11 +1,11 @@
 id: 38541958
-type: way
+type: node
 latitude: 52.39372
 longitude: -1.50787
-postcode: "CV3 5DG"
+postcode: CV3 5DG
 city: Coventry
-street: "Daventry Road"
-housenumber: 136
+street: Daventry Road
+housenumber: "136"
 phone: ""
-opening_hours: "Mo-Fr 08:30-17:30; Sa 08:00-17:00"
+opening_hours: Mo-Fr 08:30-17:30; Sa 08:00-17:00
 website: ""

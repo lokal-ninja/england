@@ -1,11 +1,11 @@
 id: 226054118
-type: way
+type: node
 latitude: 51.53463
 longitude: -0.13916
-postcode: "NW1 7JE"
+postcode: NW1 7JE
 city: London
-street: "Camden High Street"
-housenumber: 5
+street: Camden High Street
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

@@ -2,10 +2,10 @@ id: 320988940
 type: node
 latitude: 52.958
 longitude: -1.1475
-postcode: "NG1 3QE"
+postcode: NG1 3QE
 city: Nottingham
 street: ""
-housenumber: 93
+housenumber: "93"
 phone: ""
 opening_hours: ""
-website: "https://www.tesco.com/store-locator/nottingham/93-victoria-centre"
+website: https://www.tesco.com/store-locator/nottingham/93-victoria-centre

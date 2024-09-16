@@ -1,11 +1,11 @@
 id: 111137611
-type: way
+type: node
 latitude: 51.48712
 longitude: -0.17858
-postcode: "SW10 9PZ"
+postcode: SW10 9PZ
 city: London
-street: "Fulham Road"
+street: Fulham Road
 housenumber: 289-291
-phone: "+44 20 7352 6073"
-opening_hours: "Mo-Su 08:00-21:00"
+phone: +44 20 7352 6073
+opening_hours: Mo-Su 08:00-21:00
 website: ""

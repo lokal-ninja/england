@@ -1,11 +1,11 @@
 id: 709670723
-type: way
+type: node
 latitude: 53.39998
 longitude: -2.59376
-postcode: "WA2 7PE"
+postcode: WA2 7PE
 city: Warrington
-street: "Winwick Road"
-housenumber: 201
+street: Winwick Road
+housenumber: "201"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:30; Sa 08:30-17:30; Su 10:00-16:00"
+opening_hours: Mo-Fr 08:30-18:30; Sa 08:30-17:30; Su 10:00-16:00
 website: ""

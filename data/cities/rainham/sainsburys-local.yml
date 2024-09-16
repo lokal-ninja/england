@@ -1,11 +1,11 @@
 id: 1209376634
-type: way
+type: node
 latitude: 51.52417
 longitude: 0.17045
-postcode: "RM13 8RR"
+postcode: RM13 8RR
 city: Rainham
-street: "Halewood Way"
-housenumber: 14
-phone: "0800 636 262"
-opening_hours: "Mo-Su 07:00-23:00"
+street: Halewood Way
+housenumber: "14"
+phone: 0800 636 262
+opening_hours: Mo-Su 07:00-23:00
 website: ""

@@ -1,11 +1,11 @@
 id: 1132275217
-type: way
+type: node
 latitude: 53.74347
 longitude: -0.34301
-postcode: "HU1 3RF"
+postcode: HU1 3RF
 city: Hull
-street: "Carr Lane"
-housenumber: 40
+street: Carr Lane
+housenumber: "40"
 phone: ""
 opening_hours: ""
 website: ""

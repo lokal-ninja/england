@@ -4,8 +4,8 @@ latitude: 51.59076
 longitude: -0.10344
 postcode: ""
 city: London
-street: "High Road"
-housenumber: 4
+street: High Road
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Su 06:00-5:30"
-website: "https://delta-bakery.com/"
+opening_hours: Mo-Su 06:00-5:30
+website: https://delta-bakery.com/

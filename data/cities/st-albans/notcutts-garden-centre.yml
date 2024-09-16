@@ -1,11 +1,11 @@
 id: 34291120
-type: way
+type: node
 latitude: 51.75564
 longitude: -0.26738
-postcode: "AL4 0HN"
+postcode: AL4 0HN
 city: St Albans
-street: "Hatfield Road"
-housenumber: 
-phone: "+44 1727 853224"
-opening_hours: "Mo-Sa,PH 09:00-17:00; Su 10:30-16:30"
-website: "https://www.notcutts.co.uk/"
+street: Hatfield Road
+housenumber: ""
+phone: +44 1727 853224
+opening_hours: Mo-Sa,PH 09:00-17:00; Su 10:30-16:30
+website: https://www.notcutts.co.uk/

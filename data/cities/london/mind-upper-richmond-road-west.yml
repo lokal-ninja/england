@@ -1,11 +1,11 @@
 id: 462837341
-type: way
+type: node
 latitude: 51.46504
 longitude: -0.26163
-postcode: "SW14 8QT"
+postcode: SW14 8QT
 city: London
-street: "Upper Richmond Road West"
-housenumber: 211
+street: Upper Richmond Road West
+housenumber: "211"
 phone: ""
 opening_hours: ""
 website: ""

@@ -2,10 +2,10 @@ id: 4503283593
 type: node
 latitude: 52.29103
 longitude: -0.60034
-postcode: "NN10 9SD"
+postcode: NN10 9SD
 city: Rushden
-street: "Duck Street"
-housenumber: 44
+street: Duck Street
+housenumber: "44"
 phone: ""
 opening_hours: ""
 website: ""

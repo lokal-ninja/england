@@ -1,11 +1,11 @@
 id: 1096731890
-type: way
+type: node
 latitude: 50.72897
 longitude: -1.93813
-postcode: "BH14 9DQ"
+postcode: BH14 9DQ
 city: Poole
-street: "Ashley Road"
-housenumber: 372
+street: Ashley Road
+housenumber: "372"
 phone: ""
 opening_hours: ""
 website: ""

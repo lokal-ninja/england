@@ -1,11 +1,11 @@
 id: 390418995
-type: way
+type: node
 latitude: 52.79037
 longitude: 0.96308
-postcode: "NR20 5AJ"
+postcode: NR20 5AJ
 city: Guist
-street: "Norwich Road"
-housenumber: 
-phone: "+44 1362 683340"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-18:00; Su 09:00-14:00"
-website: "https://www.guistgeneralstore.co.uk/"
+street: Norwich Road
+housenumber: ""
+phone: +44 1362 683340
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-18:00; Su 09:00-14:00
+website: https://www.guistgeneralstore.co.uk/

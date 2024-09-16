@@ -1,11 +1,11 @@
 id: 232974002
-type: way
+type: node
 latitude: 53.80891
 longitude: -1.58261
-postcode: "LS4 2NY"
+postcode: LS4 2NY
 city: Leeds
-street: "Burley Road"
-housenumber: 284
+street: Burley Road
+housenumber: "284"
 phone: ""
 opening_hours: ""
 website: ""

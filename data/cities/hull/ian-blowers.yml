@@ -1,11 +1,11 @@
 id: 1169334062
-type: way
+type: node
 latitude: 53.7443
 longitude: -0.33873
-postcode: "HU1 3EA"
+postcode: HU1 3EA
 city: Hull
-street: "Savile Street"
-housenumber: 43
+street: Savile Street
+housenumber: "43"
 phone: ""
 opening_hours: ""
 website: ""

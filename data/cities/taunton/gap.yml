@@ -1,11 +1,11 @@
 id: 532907207
-type: way
+type: node
 latitude: 51.02822
 longitude: -3.08099
-postcode: "TA2 8RX"
+postcode: TA2 8RX
 city: Taunton
-street: "Crown Close"
-housenumber: 
-phone: "+44 1823 210 794"
-opening_hours: "Mo-Fr 07:30-18:30; Sa 08:00-11:00"
-website: "https://www.gap.uk.com/depot-network/taunton"
+street: Crown Close
+housenumber: ""
+phone: +44 1823 210 794
+opening_hours: Mo-Fr 07:30-18:30; Sa 08:00-11:00
+website: https://www.gap.uk.com/depot-network/taunton

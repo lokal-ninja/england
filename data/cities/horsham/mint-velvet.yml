@@ -1,11 +1,11 @@
 id: 325996520
-type: way
+type: node
 latitude: 51.06285
 longitude: -0.33086
 postcode: ""
 city: Horsham
-street: "West Street"
-housenumber: 19
+street: West Street
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Fr 09:30-17:30; Sa 09:00-17:30; Su 10:00-16:00"
+opening_hours: Mo-Fr 09:30-17:30; Sa 09:00-17:30; Su 10:00-16:00
 website: ""

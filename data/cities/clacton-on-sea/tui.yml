@@ -1,11 +1,11 @@
 id: 72921834
-type: way
+type: node
 latitude: 51.78967
 longitude: 1.15175
-postcode: "CO15 1QN"
+postcode: CO15 1QN
 city: Clacton-on-Sea
 street: ""
-housenumber: 64
+housenumber: "64"
 phone: ""
 opening_hours: ""
 website: ""

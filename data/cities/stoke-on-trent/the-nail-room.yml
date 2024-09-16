@@ -1,11 +1,11 @@
 id: 1244219034
-type: way
+type: node
 latitude: 53.06866
 longitude: -2.04225
-postcode: "ST13 7HN"
+postcode: ST13 7HN
 city: Stoke-on-Trent
-street: "Cheadle Road"
-housenumber: 55
+street: Cheadle Road
+housenumber: "55"
 phone: "+441538361888"
 opening_hours: ""
 website: ""

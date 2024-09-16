@@ -1,11 +1,11 @@
 id: 1016639247
-type: way
+type: node
 latitude: 50.92647
 longitude: -1.79273
-postcode: "SP6 1AY"
+postcode: SP6 1AY
 city: Fordingbridge
-street: "Provost Street"
-housenumber: 2
+street: Provost Street
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

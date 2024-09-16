@@ -1,11 +1,11 @@
 id: 656362489
-type: way
+type: node
 latitude: 52.63173
 longitude: -1.15344
-postcode: "LE3 0LP"
+postcode: LE3 0LP
 city: Leicester
-street: "Fosse Road South"
-housenumber: 7
-phone: "+44 116 254 8509"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-13:00; PH off"
+street: Fosse Road South
+housenumber: "7"
+phone: +44 116 254 8509
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-13:00; PH off
 website: ""

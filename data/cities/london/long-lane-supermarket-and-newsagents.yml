@@ -2,10 +2,10 @@ id: 12123047076
 type: node
 latitude: 51.59436
 longitude: -0.17446
-postcode: "N2 8JN"
+postcode: N2 8JN
 city: London
-street: "Long Lane"
-housenumber: 385
+street: Long Lane
+housenumber: "385"
 phone: ""
 opening_hours: ""
 website: ""

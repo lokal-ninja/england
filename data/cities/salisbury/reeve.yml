@@ -1,11 +1,11 @@
 id: 291749626
-type: way
+type: node
 latitude: 51.06847
 longitude: -1.79707
-postcode: "SP1 2NE"
+postcode: SP1 2NE
 city: Salisbury
-street: "Silver Street"
-housenumber: 61
+street: Silver Street
+housenumber: "61"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 346293767
-type: way
+type: node
 latitude: 51.33626
 longitude: 1.40479
-postcode: "CT11 9PR"
+postcode: CT11 9PR
 city: Ramsgate
-street: "Grange Road"
-housenumber: 148
+street: Grange Road
+housenumber: "148"
 phone: ""
 opening_hours: ""
 website: ""

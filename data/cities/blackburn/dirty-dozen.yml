@@ -1,11 +1,11 @@
 id: 275817433
-type: way
+type: node
 latitude: 53.74905
 longitude: -2.48548
 postcode: ""
 city: Blackburn
-street: "Northgate"
-housenumber: 70
+street: Northgate
+housenumber: "70"
 phone: ""
 opening_hours: ""
 website: ""

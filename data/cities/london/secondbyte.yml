@@ -1,11 +1,11 @@
 id: 1106704837
-type: way
+type: node
 latitude: 51.43919
 longitude: -0.1971
 postcode: ""
 city: London
-street: "Durnsford Road"
-housenumber: 391
+street: Durnsford Road
+housenumber: "391"
 phone: ""
 opening_hours: ""
 website: ""

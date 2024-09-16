@@ -2,10 +2,10 @@ id: 8807038364
 type: node
 latitude: 53.76034
 longitude: -2.69242
-postcode: "PR1 3BS"
+postcode: PR1 3BS
 city: Preston
-street: "Church Street"
-housenumber: 101
+street: Church Street
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

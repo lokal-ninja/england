@@ -1,11 +1,11 @@
 id: 324331054
-type: way
+type: node
 latitude: 52.19372
 longitude: -1.70773
-postcode: "CV37 6QW"
+postcode: CV37 6QW
 city: Stratford-upon-Avon
-street: "Henley Street"
-housenumber: 
-phone: "+44 1789 204016"
+street: Henley Street
+housenumber: ""
+phone: +44 1789 204016
 opening_hours: ""
-website: "https://www.shakespeare.org.uk/onlineshop"
+website: https://www.shakespeare.org.uk/onlineshop

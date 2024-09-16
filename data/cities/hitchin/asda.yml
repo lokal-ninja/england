@@ -1,11 +1,11 @@
 id: 32206219
-type: way
+type: node
 latitude: 51.94575
 longitude: -0.27633
-postcode: "SG4 9TY"
+postcode: SG4 9TY
 city: Hitchin
-street: "Queen Street"
-housenumber: 
+street: Queen Street
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su 10:00-16:00"
+opening_hours: Mo-Sa 07:00-22:00; Su 10:00-16:00
 website: ""

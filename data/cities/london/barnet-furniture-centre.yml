@@ -1,11 +1,11 @@
 id: 187885813
-type: way
+type: node
 latitude: 51.6127
 longitude: -0.15764
-postcode: "N11 3FY"
+postcode: N11 3FY
 city: London
-street: "Queens Parade Close"
-housenumber: 4
-phone: "+44 20 8361 6802"
-opening_hours: "Mo-Fr 09:30-17:30; Sa 09:00-17:00"
-website: "https://www.barnetfurniturecentre.org"
+street: Queens Parade Close
+housenumber: "4"
+phone: +44 20 8361 6802
+opening_hours: Mo-Fr 09:30-17:30; Sa 09:00-17:00
+website: https://www.barnetfurniturecentre.org

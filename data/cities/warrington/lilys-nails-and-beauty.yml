@@ -1,11 +1,11 @@
 id: 972947392
-type: way
+type: node
 latitude: 53.38948
 longitude: -2.59335
-postcode: "WA1 1XL"
+postcode: WA1 1XL
 city: Warrington
-street: "Horsemarket Street"
-housenumber: 10
+street: Horsemarket Street
+housenumber: "10"
 phone: ""
-opening_hours: "Sa 09:00-18:00"
+opening_hours: Sa 09:00-18:00
 website: ""

@@ -2,10 +2,10 @@ id: 5448497855
 type: node
 latitude: 52.91872
 longitude: -1.47415
-postcode: "DE1 2PA"
+postcode: DE1 2PA
 city: Derby
-street: "London Road"
-housenumber: 28
+street: London Road
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

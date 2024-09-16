@@ -1,11 +1,11 @@
 id: 158344593
-type: way
+type: node
 latitude: 53.45041
 longitude: -1.34509
-postcode: "S62 6EE"
+postcode: S62 6EE
 city: Rotherham
-street: "Taylors Lane"
-housenumber: 
+street: Taylors Lane
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su 10:00-16:00"
-website: "https://storelocator.asda.com/yorkshire-&-humber/rotherham/taylors-lane-parkgate"
+opening_hours: Mo-Sa 07:00-22:00; Su 10:00-16:00
+website: https://storelocator.asda.com/yorkshire-&-humber/rotherham/taylors-lane-parkgate

@@ -1,11 +1,11 @@
 id: 1060570825
-type: way
+type: node
 latitude: 53.3769
 longitude: -2.54306
-postcode: "WA4 2QU"
+postcode: WA4 2QU
 city: Warrington
-street: "Knutsford Road"
-housenumber: 190
+street: Knutsford Road
+housenumber: "190"
 phone: ""
 opening_hours: ""
 website: ""

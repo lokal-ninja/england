@@ -1,11 +1,11 @@
 id: 833078923
-type: way
+type: node
 latitude: 51.54048
 longitude: -0.06992
-postcode: "E8 3NB"
+postcode: E8 3NB
 city: London
-street: "Queensbridge Road"
-housenumber: 240
+street: Queensbridge Road
+housenumber: "240"
 phone: ""
 opening_hours: ""
 website: ""

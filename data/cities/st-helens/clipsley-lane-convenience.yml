@@ -1,11 +1,11 @@
 id: 355480890
-type: way
+type: node
 latitude: 53.46639
 longitude: -2.67908
-postcode: "WA11 0JG"
+postcode: WA11 0JG
 city: St Helens
-street: "Clipsley Lane"
-housenumber: 235
+street: Clipsley Lane
+housenumber: "235"
 phone: ""
-opening_hours: "06:00-23:00"
+opening_hours: 06:00-23:00
 website: ""

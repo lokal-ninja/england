@@ -1,11 +1,11 @@
 id: 667975887
-type: way
+type: node
 latitude: 51.3892
 longitude: 0.50409
-postcode: "ME1 1JY"
+postcode: ME1 1JY
 city: Rochester
-street: "High Street"
-housenumber: 74
+street: High Street
+housenumber: "74"
 phone: ""
-opening_hours: "Mo-Su 09:00-16:00"
+opening_hours: Mo-Su 09:00-16:00
 website: ""

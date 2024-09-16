@@ -1,11 +1,11 @@
 id: 263697069
-type: way
+type: node
 latitude: 54.80581
 longitude: -1.57946
-postcode: "DH1 5GF"
+postcode: DH1 5GF
 city: Durham
-street: "Abbey Road"
-housenumber: 
+street: Abbey Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 10:00-16:00"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 10:00-16:00
 website: ""

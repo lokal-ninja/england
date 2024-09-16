@@ -1,11 +1,11 @@
 id: 849701055
-type: way
+type: node
 latitude: 51.63291
 longitude: 0.00857
-postcode: "E4 6AG"
+postcode: E4 6AG
 city: London
-street: "Station Road"
-housenumber: 149
+street: Station Road
+housenumber: "149"
 phone: ""
 opening_hours: ""
-website: "https://my.morrisons.com/storefinder/66711/martins-chingford-149-station-road"
+website: https://my.morrisons.com/storefinder/66711/martins-chingford-149-station-road

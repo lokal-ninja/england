@@ -1,11 +1,11 @@
 id: 532909113
-type: way
+type: node
 latitude: 51.06101
 longitude: -1.30753
-postcode: "SO23 9BH"
+postcode: SO23 9BH
 city: Winchester
-street: "Bridge Street"
-housenumber: 4
+street: Bridge Street
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

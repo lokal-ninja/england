@@ -1,11 +1,11 @@
 id: 317258576
-type: way
+type: node
 latitude: 51.36009
 longitude: -2.92692
-postcode: "BS22 6JD"
+postcode: BS22 6JD
 city: Bristol
-street: "High Street"
-housenumber: 178
-phone: "+44 01934516600"
-opening_hours: "Mo-Sa 08:00-20:00; Su 10:00-16:00"
+street: High Street
+housenumber: "178"
+phone: +44 01934516600
+opening_hours: Mo-Sa 08:00-20:00; Su 10:00-16:00
 website: ""

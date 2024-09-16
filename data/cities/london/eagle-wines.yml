@@ -1,11 +1,11 @@
 id: 458736351
-type: way
+type: node
 latitude: 51.57309
 longitude: -0.01215
-postcode: "E10 7HA"
+postcode: E10 7HA
 city: London
-street: "Capworth Street"
-housenumber: 54
+street: Capworth Street
+housenumber: "54"
 phone: ""
 opening_hours: ""
 website: ""

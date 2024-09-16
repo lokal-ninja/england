@@ -1,11 +1,11 @@
 id: 178548294
-type: way
+type: node
 latitude: 51.60957
 longitude: -2.5259
 postcode: ""
 city: Thornbury
-street: "The Plain"
-housenumber: 15
+street: The Plain
+housenumber: "15"
 phone: ""
 opening_hours: ""
-website: "https://www.castlecraftsandclinic.co.uk/"
+website: https://www.castlecraftsandclinic.co.uk/

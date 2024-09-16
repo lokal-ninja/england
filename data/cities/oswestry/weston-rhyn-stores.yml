@@ -1,11 +1,11 @@
 id: 1210506288
-type: way
+type: node
 latitude: 52.914
 longitude: -3.06708
-postcode: "SY10 7RP"
+postcode: SY10 7RP
 city: Oswestry
-street: "High Street"
-housenumber: 
+street: High Street
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

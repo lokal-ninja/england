@@ -1,11 +1,11 @@
 id: 135806248
-type: way
+type: node
 latitude: 52.62967
 longitude: 1.29296
-postcode: "NR2 1AT"
+postcode: NR2 1AT
 city: Norwich
-street: "Exchange Street"
-housenumber: 22
-phone: "+44 1603 622891"
-opening_hours: "Mo-Fr 08:30-17:30; Sa 08:30-18:00; Su 10:30-16:30"
-website: "https://www.thornsdiy.com/"
+street: Exchange Street
+housenumber: "22"
+phone: +44 1603 622891
+opening_hours: Mo-Fr 08:30-17:30; Sa 08:30-18:00; Su 10:30-16:30
+website: https://www.thornsdiy.com/

@@ -1,11 +1,11 @@
-id: 377488601
-type: way
-latitude: 51.51801
-longitude: -0.08253
-postcode: "EC2M 7PY"
+id: 377595859
+type: node
+latitude: 51.51773
+longitude: -0.08302
+postcode: EC2M 7QA
 city: London
-street: "Liverpool Street"
-housenumber: 
+street: Liverpool Street
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 07:00-23:45; Sa,Su 08:00-23:00"
+opening_hours: ""
 website: ""

@@ -5,7 +5,7 @@ longitude: -0.96739
 postcode: ""
 city: Reading
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "by appointment"
+opening_hours: '"by appointment"'
 website: ""

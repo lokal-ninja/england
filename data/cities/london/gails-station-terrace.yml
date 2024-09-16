@@ -1,11 +1,11 @@
 id: 72570665
-type: way
+type: node
 latitude: 51.53429
 longitude: -0.21944
-postcode: "NW10 5RQ"
+postcode: NW10 5RQ
 city: London
-street: "Station Terrace"
-housenumber: 
+street: Station Terrace
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

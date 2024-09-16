@@ -2,10 +2,10 @@ id: 11945356083
 type: node
 latitude: 51.58444
 longitude: -0.07641
-postcode: "N15 5DA"
+postcode: N15 5DA
 city: London
-street: "West Green Road"
-housenumber: 65
+street: West Green Road
+housenumber: "65"
 phone: ""
 opening_hours: ""
 website: ""

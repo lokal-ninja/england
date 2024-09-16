@@ -1,11 +1,11 @@
 id: 1303346949
-type: way
+type: node
 latitude: 50.37212
 longitude: -4.14735
-postcode: "PL1 1PG"
+postcode: PL1 1PG
 city: Plymouth
-street: "Market Avenue"
-housenumber: 21
+street: Market Avenue
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

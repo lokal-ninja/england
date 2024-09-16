@@ -1,11 +1,11 @@
 id: 239180462
-type: way
+type: node
 latitude: 50.92443
 longitude: -1.38101
-postcode: "SO17 2JY"
+postcode: SO17 2JY
 city: Southampton
-street: "St Denys Road"
-housenumber: 115
+street: St Denys Road
+housenumber: "115"
 phone: ""
 opening_hours: ""
 website: ""

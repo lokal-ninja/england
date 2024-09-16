@@ -2,10 +2,10 @@ id: 11581777083
 type: node
 latitude: 51.6066
 longitude: -1.24124
-postcode: "OX11 7LE"
+postcode: OX11 7LE
 city: Didcot
-street: "Market Place"
-housenumber: 2
+street: Market Place
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:00-16:30; Sa 09:00-15:45"
-website: "https://truemobility.co.uk/"
+opening_hours: Mo-Fr 09:00-16:30; Sa 09:00-15:45
+website: https://truemobility.co.uk/

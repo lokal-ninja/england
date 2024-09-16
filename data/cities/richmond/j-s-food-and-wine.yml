@@ -1,11 +1,11 @@
 id: 585940474
-type: way
+type: node
 latitude: 51.46652
 longitude: -0.29294
-postcode: "TW9 2LP"
+postcode: TW9 2LP
 city: Richmond
-street: "Lower Mortlake Road"
-housenumber: 209
+street: Lower Mortlake Road
+housenumber: "209"
 phone: ""
 opening_hours: ""
 website: ""

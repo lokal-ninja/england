@@ -1,11 +1,11 @@
 id: 553633781
-type: way
+type: node
 latitude: 51.45391
 longitude: -2.60217
-postcode: "BS1 5NH"
+postcode: BS1 5NH
 city: Bristol
-street: "Park Street"
-housenumber: 33
-phone: "+44 117 9090225"
+street: Park Street
+housenumber: "33"
+phone: +44 117 9090225
 opening_hours: ""
-website: "https://www.dianaporter.co.uk/"
+website: https://www.dianaporter.co.uk/

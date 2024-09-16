@@ -1,11 +1,11 @@
 id: 892265206
-type: way
+type: node
 latitude: 50.76636
 longitude: 0.28065
 postcode: ""
 city: Eastbourne
-street: "South Street"
-housenumber: 45
+street: South Street
+housenumber: "45"
 phone: ""
 opening_hours: ""
 website: ""

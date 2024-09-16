@@ -1,11 +1,11 @@
 id: 202308300
-type: way
+type: node
 latitude: 50.31033
 longitude: -3.62938
-postcode: "TQ6 0RW"
+postcode: TQ6 0RW
 city: Dartmouth
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

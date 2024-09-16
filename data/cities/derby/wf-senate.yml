@@ -1,11 +1,11 @@
 id: 155929073
-type: way
+type: node
 latitude: 52.9173
 longitude: -1.44896
-postcode: "DE24 8HZ"
+postcode: DE24 8HZ
 city: Derby
-street: "Millennium Way"
-housenumber: 4
-phone: "+44 1332 366001"
-opening_hours: "Mo-Fr 07:00-19:00"
+street: Millennium Way
+housenumber: "4"
+phone: +44 1332 366001
+opening_hours: Mo-Fr 07:00-19:00
 website: ""

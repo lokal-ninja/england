@@ -1,11 +1,11 @@
 id: 595656383
-type: way
+type: node
 latitude: 51.53779
 longitude: -0.04459
-postcode: "E9 7HJ"
+postcode: E9 7HJ
 city: London
-street: "Lauriston Road"
-housenumber: 89
+street: Lauriston Road
+housenumber: "89"
 phone: ""
-opening_hours: "Mo-Sa 10:00-17:00; Su 11:00-17:00"
+opening_hours: Mo-Sa 10:00-17:00; Su 11:00-17:00
 website: ""

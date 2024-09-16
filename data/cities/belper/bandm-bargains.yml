@@ -1,11 +1,11 @@
 id: 86595225
-type: way
+type: node
 latitude: 53.02195
 longitude: -1.48739
-postcode: "DE56 1AR"
+postcode: DE56 1AR
 city: Belper
-street: "Chapel Street"
-housenumber: 
-phone: "+44 330 838 9415"
-opening_hours: "Mo-Sa 08:00-22:00; Su 10:00-16:00"
+street: Chapel Street
+housenumber: ""
+phone: +44 330 838 9415
+opening_hours: Mo-Sa 08:00-22:00; Su 10:00-16:00
 website: ""

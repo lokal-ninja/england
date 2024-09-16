@@ -1,11 +1,11 @@
 id: 147495182
-type: way
+type: node
 latitude: 51.51811
 longitude: -0.10198
-postcode: "EC1A 9HY"
+postcode: EC1A 9HY
 city: London
-street: "West Smithfield"
-housenumber: 16
+street: West Smithfield
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

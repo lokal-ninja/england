@@ -1,11 +1,11 @@
 id: 169753275
-type: way
+type: node
 latitude: 53.57123
 longitude: -2.45207
-postcode: "BL3 5PZ"
+postcode: BL3 5PZ
 city: Bolton
-street: "Wigan Road"
-housenumber: 4
+street: Wigan Road
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.boltonblinds.co.uk/"
+website: https://www.boltonblinds.co.uk/

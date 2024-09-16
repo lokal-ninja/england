@@ -4,8 +4,8 @@ latitude: 50.81946
 longitude: -0.12414
 postcode: ""
 city: Brighton
-street: "St. Georges Road"
-housenumber: 4
+street: St. Georges Road
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Th,Sa 09:00-19:00; Fr 09:00-20:00; PH,Su 10:00-16:00"
-website: "https://www.sharp-scissors.co.uk"
+opening_hours: Mo-Th,Sa 09:00-19:00; Fr 09:00-20:00; PH,Su 10:00-16:00
+website: https://www.sharp-scissors.co.uk

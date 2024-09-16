@@ -2,10 +2,10 @@ id: 420783206
 type: node
 latitude: 51.40062
 longitude: 0.01716
-postcode: "BR1 1LF"
+postcode: BR1 1LF
 city: Bromley
-street: "High Street"
-housenumber: 11
+street: High Street
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 40691579
-type: way
+type: node
 latitude: 52.62298
 longitude: 1.3076
-postcode: "NR1 1WR"
+postcode: NR1 1WR
 city: Norwich
-street: "Albion Way"
-housenumber: 1
+street: Albion Way
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

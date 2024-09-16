@@ -2,10 +2,10 @@ id: 1666673499
 type: node
 latitude: 53.26138
 longitude: 0.17852
-postcode: "LN13 9DG"
+postcode: LN13 9DG
 city: Alford
-street: "West Street"
-housenumber: 6
+street: West Street
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "https://www.spar.co.uk/store-locator/afb24081-spar-alford/"
+website: https://www.spar.co.uk/store-locator/afb24081-spar-alford/

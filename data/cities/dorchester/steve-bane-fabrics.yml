@@ -1,11 +1,11 @@
 id: 446736317
-type: way
+type: node
 latitude: 50.71516
 longitude: -2.43906
-postcode: "DT1 1UW"
+postcode: DT1 1UW
 city: Dorchester
-street: "High West Street"
-housenumber: 19
+street: High West Street
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

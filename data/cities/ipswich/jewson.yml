@@ -1,11 +1,11 @@
 id: 1166193284
-type: way
+type: node
 latitude: 52.05334
 longitude: 1.1521
-postcode: "IP1 1UP"
+postcode: IP1 1UP
 city: Ipswich
-street: "Grey Friars Road"
-housenumber: 
-phone: "+44 1473231231"
-opening_hours: "Mo-Fr 07:30-17:00; Sa 08:00-12:00"
-website: "https://www.jewson.co.uk/branch-finder/ipswich-greyfriars-road-branch"
+street: Grey Friars Road
+housenumber: ""
+phone: +44 1473231231
+opening_hours: Mo-Fr 07:30-17:00; Sa 08:00-12:00
+website: https://www.jewson.co.uk/branch-finder/ipswich-greyfriars-road-branch

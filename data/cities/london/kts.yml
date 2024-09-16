@@ -1,11 +1,11 @@
 id: 1006104734
-type: way
+type: node
 latitude: 51.54249
 longitude: -0.07685
-postcode: "E8 4AU"
+postcode: E8 4AU
 city: London
-street: "Kingsland Road"
-housenumber: 415
+street: Kingsland Road
+housenumber: "415"
 phone: ""
 opening_hours: ""
 website: ""

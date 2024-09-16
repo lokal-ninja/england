@@ -1,11 +1,11 @@
 id: 135155125
-type: way
+type: node
 latitude: 52.23777
 longitude: -0.89709
-postcode: "NN1 2HG"
+postcode: NN1 2HG
 city: Northampton
-street: "The Drapery"
-housenumber: 24
+street: The Drapery
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

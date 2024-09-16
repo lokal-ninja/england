@@ -1,11 +1,11 @@
 id: 143415097
-type: way
+type: node
 latitude: 53.00431
 longitude: -0.4133
-postcode: "NG34 7AQ"
+postcode: NG34 7AQ
 city: Sleaford
-street: "North Gate"
-housenumber: 
+street: North Gate
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su 10:00-16:00"
-website: "https://www.lidl.co.uk/s/en-GB/store-finder/sleaford/northgate-centre-galley-hill/"
+opening_hours: Mo-Sa 08:00-20:00; Su 10:00-16:00
+website: https://www.lidl.co.uk/s/en-GB/store-finder/sleaford/northgate-centre-galley-hill/

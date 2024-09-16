@@ -1,11 +1,11 @@
 id: 427907118
-type: way
+type: node
 latitude: 52.85029
 longitude: -1.33507
-postcode: "DE74 2NL"
+postcode: DE74 2NL
 city: Derby
-street: "Station Road"
-housenumber: 88
+street: Station Road
+housenumber: "88"
 phone: ""
 opening_hours: ""
 website: ""

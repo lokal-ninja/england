@@ -1,11 +1,11 @@
 id: 336126208
-type: way
+type: node
 latitude: 51.2459
 longitude: -0.78329
-postcode: "GU11 3NX"
+postcode: GU11 3NX
 city: Aldershot
-street: "Pavilion Road"
-housenumber: 
-phone: "+44 1252 323456"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://tractsvr.co.uk/"
+street: Pavilion Road
+housenumber: ""
+phone: +44 1252 323456
+opening_hours: Mo-Fr 08:00-17:00
+website: https://tractsvr.co.uk/

@@ -1,11 +1,11 @@
 id: 1005950861
-type: way
+type: node
 latitude: 51.54568
 longitude: 0.02647
-postcode: "E7 9PA"
+postcode: E7 9PA
 city: London
-street: "Upton Lane"
-housenumber: 7
+street: Upton Lane
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 767323987
-type: way
+type: node
 latitude: 51.73868
 longitude: 0.47873
-postcode: "CM1 1AN"
+postcode: CM1 1AN
 city: Chelmsford
-street: "Victoria Road"
-housenumber: 2
-phone: "+44 1245 263335"
-opening_hours: "Mo-Sa 08:00-20:00; Su 10:30-16:30"
-website: "https://www.thefoodwarehouse.com/store-locator/Chelmsford"
+street: Victoria Road
+housenumber: "2"
+phone: +44 1245 263335
+opening_hours: Mo-Sa 08:00-20:00; Su 10:30-16:30
+website: https://www.thefoodwarehouse.com/store-locator/Chelmsford

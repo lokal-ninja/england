@@ -1,11 +1,11 @@
 id: 702243725
-type: way
+type: node
 latitude: 51.01439
 longitude: -3.10242
-postcode: "TA1 1HX"
+postcode: TA1 1HX
 city: Taunton
-street: "Fore Street"
-housenumber: 8
-phone: "+44 1823 351111"
-opening_hours: "Tu-Sa 09:30-17:00"
+street: Fore Street
+housenumber: "8"
+phone: +44 1823 351111
+opening_hours: Tu-Sa 09:30-17:00
 website: ""

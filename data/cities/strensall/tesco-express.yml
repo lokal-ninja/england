@@ -1,11 +1,11 @@
 id: 313007548
-type: way
+type: node
 latitude: 54.03993
 longitude: -1.03451
-postcode: "YO32 5XR"
+postcode: YO32 5XR
 city: Strensall
-street: "The Village"
-housenumber: 40
+street: The Village
+housenumber: "40"
 phone: ""
 opening_hours: ""
 website: ""

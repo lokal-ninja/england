@@ -1,11 +1,11 @@
 id: 1128014389
-type: way
+type: node
 latitude: 51.12667
 longitude: -2.74016
-postcode: "BA16 0EN"
+postcode: BA16 0EN
 city: Street
-street: "High Street"
-housenumber: 74
-phone: "+44 1458 888118"
-opening_hours: "Mo-Sa 09:00-17:00"
-website: "https://www.cooptravel.co.uk/contact/branches-experts/street/"
+street: High Street
+housenumber: "74"
+phone: +44 1458 888118
+opening_hours: Mo-Sa 09:00-17:00
+website: https://www.cooptravel.co.uk/contact/branches-experts/street/

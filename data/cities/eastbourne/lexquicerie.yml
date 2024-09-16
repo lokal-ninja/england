@@ -1,11 +1,11 @@
 id: 578643053
-type: way
+type: node
 latitude: 50.7691
 longitude: 0.28964
-postcode: "BN21 3HP"
+postcode: BN21 3HP
 city: Eastbourne
-street: "Pevensey Road"
-housenumber: 22
+street: Pevensey Road
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

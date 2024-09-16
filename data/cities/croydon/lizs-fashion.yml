@@ -1,11 +1,11 @@
 id: 223399892
-type: way
+type: node
 latitude: 51.37906
 longitude: -0.10422
-postcode: "CR0 3SQ"
+postcode: CR0 3SQ
 city: Croydon
-street: "The Parade"
-housenumber: 5
+street: The Parade
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

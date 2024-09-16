@@ -1,11 +1,11 @@
 id: 338963880
-type: way
+type: node
 latitude: 52.62918
 longitude: 1.29222
-postcode: "NR2 1JH"
+postcode: NR2 1JH
 city: Norwich
-street: "Guildhall Hill"
-housenumber: 3
+street: Guildhall Hill
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

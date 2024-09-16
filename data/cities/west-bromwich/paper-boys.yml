@@ -1,11 +1,11 @@
 id: 161077756
-type: way
+type: node
 latitude: 52.5193
 longitude: -1.99396
-postcode: "B70 7PN"
+postcode: B70 7PN
 city: West Bromwich
-street: "New Street"
-housenumber: 8
+street: New Street
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

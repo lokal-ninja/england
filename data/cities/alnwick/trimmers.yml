@@ -2,10 +2,10 @@ id: 1587301128
 type: node
 latitude: 55.41263
 longitude: -1.70825
-postcode: "NE66 1LA"
+postcode: NE66 1LA
 city: Alnwick
-street: "Clayport Street"
-housenumber: 5
+street: Clayport Street
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

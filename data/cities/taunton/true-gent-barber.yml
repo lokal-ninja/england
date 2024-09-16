@@ -1,11 +1,11 @@
 id: 374794851
-type: way
+type: node
 latitude: 51.01825
 longitude: -3.1046
-postcode: "TA1 1UB"
+postcode: TA1 1UB
 city: Taunton
-street: "Bridge Street"
-housenumber: 26
+street: Bridge Street
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 359736420
-type: way
+type: node
 latitude: 53.60855
 longitude: -2.29229
-postcode: "BL9 6NX"
+postcode: BL9 6NX
 city: Bury
-street: "Walmersley Road"
-housenumber: 295
-phone: "+44 161 762 1018"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://my.morrisons.com/storefinder/64776/morrisons-daily-bury-295-walmersley-rd"
+street: Walmersley Road
+housenumber: "295"
+phone: +44 161 762 1018
+opening_hours: Mo-Su 06:00-22:00
+website: https://my.morrisons.com/storefinder/64776/morrisons-daily-bury-295-walmersley-rd

@@ -1,11 +1,11 @@
 id: 711128592
-type: way
+type: node
 latitude: 51.34054
 longitude: -0.81857
 postcode: ""
 city: Yateley
-street: "Reading Road"
-housenumber: 14
+street: Reading Road
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

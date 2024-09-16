@@ -1,11 +1,11 @@
 id: 288384837
-type: way
+type: node
 latitude: 50.72669
 longitude: -3.52411
-postcode: "EX4 6RT"
+postcode: EX4 6RT
 city: Exeter
-street: "Sidwell Street"
-housenumber: 158
+street: Sidwell Street
+housenumber: "158"
 phone: ""
 opening_hours: ""
-website: "http://www.cellys.co.uk"
+website: http://www.cellys.co.uk

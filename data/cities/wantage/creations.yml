@@ -1,11 +1,11 @@
 id: 480054635
-type: way
+type: node
 latitude: 51.58864
 longitude: -1.42756
-postcode: "OX12 8AE"
+postcode: OX12 8AE
 city: Wantage
-street: "Market Place"
-housenumber: 22
+street: Market Place
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 347324040
-type: way
+type: node
 latitude: 52.94344
 longitude: 1.14
-postcode: "NR25 7AH"
+postcode: NR25 7AH
 city: Holt
-street: "Beach Lane"
-housenumber: 2
-phone: "+44 1263 588219"
-opening_hours: "Mo-Sa 08:00-18:00; Su 08:30-16:00"
+street: Beach Lane
+housenumber: "2"
+phone: +44 1263 588219
+opening_hours: Mo-Sa 08:00-18:00; Su 08:30-16:00
 website: ""

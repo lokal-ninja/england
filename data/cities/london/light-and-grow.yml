@@ -1,11 +1,11 @@
 id: 1051329054
-type: way
+type: node
 latitude: 51.45093
 longitude: 0.06377
-postcode: "SE9 1TY"
+postcode: SE9 1TY
 city: London
-street: "Eltham High Street"
-housenumber: 273
+street: Eltham High Street
+housenumber: "273"
 phone: ""
 opening_hours: ""
 website: ""

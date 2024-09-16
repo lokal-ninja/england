@@ -1,11 +1,11 @@
 id: 1129256239
-type: way
+type: node
 latitude: 53.43326
 longitude: -1.3567
-postcode: "S60 1QB"
+postcode: S60 1QB
 city: Rotherham
-street: "College Walk"
-housenumber: 10
+street: College Walk
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

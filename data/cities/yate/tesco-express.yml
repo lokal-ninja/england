@@ -1,11 +1,11 @@
 id: 89037720
-type: way
+type: node
 latitude: 51.5406
 longitude: -2.42321
-postcode: "BS37 4PH"
+postcode: BS37 4PH
 city: Yate
-street: "Station Road"
-housenumber: 96
+street: Station Road
+housenumber: "96"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 764454562
-type: way
+type: node
 latitude: 51.45195
 longitude: -0.35765
-postcode: "TW2 7LB"
+postcode: TW2 7LB
 city: Whitton
-street: "High Street Whitton"
-housenumber: 39
+street: High Street Whitton
+housenumber: "39"
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:00; Su 10:00-17:00"
+opening_hours: Mo-Sa 09:30-19:00; Su 10:00-17:00
 website: ""

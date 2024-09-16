@@ -1,11 +1,11 @@
 id: 701085859
-type: way
+type: node
 latitude: 52.03533
 longitude: -2.42471
-postcode: "HR8 2EZ"
+postcode: HR8 2EZ
 city: Ledbury
-street: "New Street"
-housenumber: 
+street: New Street
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 06:00-22:00; Su 10:00-16:00"
-website: "https://www.coop.co.uk/store-finder/HR8-2EZ/new-street"
+opening_hours: Mo-Sa 06:00-22:00; Su 10:00-16:00
+website: https://www.coop.co.uk/store-finder/HR8-2EZ/new-street

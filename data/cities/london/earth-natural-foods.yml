@@ -1,11 +1,11 @@
 id: 864003580
-type: way
+type: node
 latitude: 51.54794
 longitude: -0.14095
-postcode: "NW5 2AE"
+postcode: NW5 2AE
 city: London
-street: "Kentish Town Road"
-housenumber: 200
-phone: "020 7482 2211"
-opening_hours: "Mo-Sa 08:30-19:00; Su 11:00-17:00"
+street: Kentish Town Road
+housenumber: "200"
+phone: 020 7482 2211
+opening_hours: Mo-Sa 08:30-19:00; Su 11:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 304260006
-type: way
+type: node
 latitude: 53.75286
 longitude: -0.40973
-postcode: "HU5 5JR"
+postcode: HU5 5JR
 city: Kingston upon Hull
-street: "Willerby Road"
-housenumber: 225
+street: Willerby Road
+housenumber: "225"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1200615217
-type: way
+type: node
 latitude: 51.97885
 longitude: -0.22543
-postcode: "SG6 3EQ"
+postcode: SG6 3EQ
 city: Letchworth Garden City
-street: "Leys Avenue"
-housenumber: 48
+street: Leys Avenue
+housenumber: "48"
 phone: ""
 opening_hours: ""
 website: ""

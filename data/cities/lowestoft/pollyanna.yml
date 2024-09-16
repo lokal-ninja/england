@@ -1,11 +1,11 @@
 id: 1101066337
-type: way
+type: node
 latitude: 52.47947
 longitude: 1.75554
-postcode: "NR32 1XW"
+postcode: NR32 1XW
 city: Lowestoft
-street: "High Street"
-housenumber: 104
-phone: "+44 1502 390967"
+street: High Street
+housenumber: "104"
+phone: +44 1502 390967
 opening_hours: ""
-website: "https://www.pollyanna-salon.com/"
+website: https://www.pollyanna-salon.com/

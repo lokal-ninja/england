@@ -1,11 +1,11 @@
 id: 290069845
-type: way
+type: node
 latitude: 52.78182
 longitude: 0.12652
-postcode: "PE12 9ED"
+postcode: PE12 9ED
 city: Spalding
-street: "London Road"
-housenumber: 76
+street: London Road
+housenumber: "76"
 phone: ""
 opening_hours: ""
-website: "https://www.spar.co.uk/store-locator/afb48101-spar-long-sutton/"
+website: https://www.spar.co.uk/store-locator/afb48101-spar-long-sutton/

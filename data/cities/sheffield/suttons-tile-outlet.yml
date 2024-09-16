@@ -1,11 +1,11 @@
 id: 1222627297
-type: way
+type: node
 latitude: 53.42169
 longitude: -1.4917
-postcode: "S6 1LH"
+postcode: S6 1LH
 city: Sheffield
-street: "Halifax Road"
-housenumber: 158
+street: Halifax Road
+housenumber: "158"
 phone: ""
 opening_hours: ""
 website: ""

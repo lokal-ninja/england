@@ -1,11 +1,11 @@
 id: 254009237
-type: way
+type: node
 latitude: 55.75792
 longitude: -2.00918
-postcode: "TD15 2AS"
+postcode: TD15 2AS
 city: Berwick Upon Tweed
-street: "Northumberland Road"
-housenumber: 52
+street: Northumberland Road
+housenumber: "52"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su 10:00-16:00"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su 10:00-16:00
 website: ""

@@ -1,11 +1,11 @@
 id: 119439277
-type: way
+type: node
 latitude: 51.53349
 longitude: -0.10777
-postcode: "N1 9EW"
+postcode: N1 9EW
 city: London
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 123243529
-type: way
+type: node
 latitude: 51.76208
 longitude: -0.01171
-postcode: "EN11 8TN"
+postcode: EN11 8TN
 city: Hoddesdon
-street: "High Street"
-housenumber: 121
+street: High Street
+housenumber: "121"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 76582499
-type: way
+type: node
 latitude: 53.70173
 longitude: -1.47982
-postcode: "WF3 4NN"
+postcode: WF3 4NN
 city: Wakefield
-street: "Aberford Road"
-housenumber: 106
+street: Aberford Road
+housenumber: "106"
 phone: ""
 opening_hours: ""
 website: ""

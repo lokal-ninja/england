@@ -1,11 +1,11 @@
 id: 1016540488
-type: way
+type: node
 latitude: 50.92701
 longitude: -1.79133
-postcode: "SP6 1AX"
+postcode: SP6 1AX
 city: Fordingbridge
-street: "High Street"
-housenumber: 36
+street: High Street
+housenumber: "36"
 phone: ""
 opening_hours: ""
 website: ""

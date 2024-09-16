@@ -1,11 +1,11 @@
 id: 1058162415
-type: way
+type: node
 latitude: 53.40902
 longitude: -1.44805
-postcode: "S4 8GT"
+postcode: S4 8GT
 city: Sheffield
-street: "Page Hall Road"
-housenumber: 12
+street: Page Hall Road
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

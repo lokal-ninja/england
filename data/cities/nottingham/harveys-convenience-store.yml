@@ -1,11 +1,11 @@
 id: 326294850
-type: way
+type: node
 latitude: 53.0005
 longitude: -1.27229
-postcode: "NG16 2HQ"
+postcode: NG16 2HQ
 city: Nottingham
-street: "Eastwood Road"
-housenumber: 125
+street: Eastwood Road
+housenumber: "125"
 phone: ""
 opening_hours: ""
 website: ""

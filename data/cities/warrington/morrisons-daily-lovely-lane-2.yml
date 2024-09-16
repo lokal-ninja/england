@@ -1,11 +1,11 @@
 id: 1090587618
-type: way
+type: node
 latitude: 53.38949
 longitude: -2.61185
-postcode: "WA5 1NF"
+postcode: WA5 1NF
 city: Warrington
-street: "Lovely Lane"
-housenumber: 2
-phone: "+44 1925 639847"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-22:00"
-website: "https://my.morrisons.com/storefinder/61432/morrisons-daily-warrington-2-lovely-lane"
+street: Lovely Lane
+housenumber: "2"
+phone: +44 1925 639847
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-22:00
+website: https://my.morrisons.com/storefinder/61432/morrisons-daily-warrington-2-lovely-lane

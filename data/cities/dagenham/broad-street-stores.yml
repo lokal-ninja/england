@@ -1,11 +1,11 @@
 id: 119396033
-type: way
+type: node
 latitude: 51.53682
 longitude: 0.15129
-postcode: "RM10 9HP"
+postcode: RM10 9HP
 city: Dagenham
-street: "Broad Street"
-housenumber: 87
+street: Broad Street
+housenumber: "87"
 phone: ""
 opening_hours: ""
 website: ""

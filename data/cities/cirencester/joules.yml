@@ -2,10 +2,10 @@ id: 9919903175
 type: node
 latitude: 51.717
 longitude: -1.96776
-postcode: "GL7 2NW"
+postcode: GL7 2NW
 city: Cirencester
-street: "Market Place"
-housenumber: 10
+street: Market Place
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Sa 09:30-17:30; Su 10:00-16:00"
-website: "https://www.joules.com/store-locator/store/joules-of-cirencester"
+opening_hours: Mo-Sa 09:30-17:30; Su 10:00-16:00
+website: https://www.joules.com/store-locator/store/joules-of-cirencester

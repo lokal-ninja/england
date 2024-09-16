@@ -1,11 +1,11 @@
 id: 697995889
-type: way
+type: node
 latitude: 50.84583
 longitude: -1.79096
-postcode: "BH24 1DN"
+postcode: BH24 1DN
 city: Ringwood
-street: "Christchurch Road"
-housenumber: 6
+street: Christchurch Road
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1141797694
-type: way
+type: node
 latitude: 51.43594
 longitude: 0.04586
-postcode: "SE9 4TJ"
+postcode: SE9 4TJ
 city: London
-street: "Mottingham Road"
-housenumber: 93
+street: Mottingham Road
+housenumber: "93"
 phone: "08705181715"
 opening_hours: ""
 website: ""

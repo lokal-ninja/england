@@ -1,11 +1,11 @@
 id: 1198644548
-type: way
+type: node
 latitude: 53.40864
 longitude: -2.95882
-postcode: "L7 8TE"
+postcode: L7 8TE
 city: Liverpool
-street: "Hall Lane"
-housenumber: 75
+street: Hall Lane
+housenumber: "75"
 phone: ""
 opening_hours: ""
 website: ""

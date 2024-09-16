@@ -1,11 +1,11 @@
 id: 1090591121
-type: way
+type: node
 latitude: 53.39
 longitude: -2.61205
-postcode: "WA5 1NE"
+postcode: WA5 1NE
 city: Warrington
-street: "Lovely Lane"
-housenumber: 20
+street: Lovely Lane
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

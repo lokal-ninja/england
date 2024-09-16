@@ -1,11 +1,11 @@
 id: 1088192015
-type: way
+type: node
 latitude: 51.4505
 longitude: -0.19894
-postcode: "SW18 5EF"
+postcode: SW18 5EF
 city: London
-street: "Merton Road"
-housenumber: 173
+street: Merton Road
+housenumber: "173"
 phone: ""
 opening_hours: ""
 website: ""

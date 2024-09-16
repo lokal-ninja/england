@@ -1,11 +1,11 @@
 id: 264139842
-type: way
+type: node
 latitude: 51.44024
 longitude: -0.24505
-postcode: "SW15 3DX"
+postcode: SW15 3DX
 city: London
-street: "Roehampton Vale"
-housenumber: 29
+street: Roehampton Vale
+housenumber: "29"
 phone: ""
-opening_hours: "24/7"
-website: "https://storelocator.asda.com/london/london/29-roehampton-vale"
+opening_hours: 24/7
+website: https://storelocator.asda.com/london/london/29-roehampton-vale

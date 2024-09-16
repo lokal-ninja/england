@@ -1,11 +1,11 @@
 id: 704120357
-type: way
+type: node
 latitude: 53.5358
 longitude: -2.51756
-postcode: "BL5 2JH"
+postcode: BL5 2JH
 city: Bolton
-street: "Leigh Road"
-housenumber: 473
+street: Leigh Road
+housenumber: "473"
 phone: ""
 opening_hours: ""
 website: ""

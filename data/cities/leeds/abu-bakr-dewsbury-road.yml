@@ -1,11 +1,11 @@
 id: 610597478
-type: way
+type: node
 latitude: 53.7748
 longitude: -1.5455
-postcode: "LS11 5HZ"
+postcode: LS11 5HZ
 city: Leeds
-street: "Dewsbury Road"
-housenumber: 259
+street: Dewsbury Road
+housenumber: "259"
 phone: ""
 opening_hours: ""
 website: ""

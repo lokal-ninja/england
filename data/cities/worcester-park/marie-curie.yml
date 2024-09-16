@@ -1,11 +1,11 @@
 id: 901272251
-type: way
+type: node
 latitude: 51.37914
 longitude: -0.24338
-postcode: "KT4 8DT"
+postcode: KT4 8DT
 city: Worcester Park
-street: "Central Road"
-housenumber: 151
+street: Central Road
+housenumber: "151"
 phone: ""
 opening_hours: ""
-website: "https://www.mariecurie.org.uk/local/charity-shops/worcester-park"
+website: https://www.mariecurie.org.uk/local/charity-shops/worcester-park

@@ -1,11 +1,11 @@
 id: 563805989
-type: way
+type: node
 latitude: 53.58447
 longitude: -2.425
-postcode: "BL1 2SG"
+postcode: BL1 2SG
 city: Bolton
-street: "Cable Street"
-housenumber: 2
+street: Cable Street
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

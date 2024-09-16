@@ -1,11 +1,11 @@
 id: 338002244
-type: way
+type: node
 latitude: 52.63274
 longitude: 1.29749
-postcode: "NR3 1LA"
+postcode: NR3 1LA
 city: Norwich
-street: "Wensum Street"
-housenumber: 27
+street: Wensum Street
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 725041403
-type: way
+type: node
 latitude: 53.81451
 longitude: -1.5621
-postcode: "LS6 1AG"
+postcode: LS6 1AG
 city: Leeds
-street: "Hyde Park Road"
-housenumber: 265
+street: Hyde Park Road
+housenumber: "265"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
+opening_hours: Mo-Su 07:00-22:00
 website: ""

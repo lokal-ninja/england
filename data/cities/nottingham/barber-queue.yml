@@ -1,11 +1,11 @@
 id: 346045246
-type: way
+type: node
 latitude: 52.97483
 longitude: -1.07677
-postcode: "NG4 3HE"
+postcode: NG4 3HE
 city: Nottingham
-street: "Main Road"
-housenumber: 96
-phone: "+44 115 940 4505"
-opening_hours: "Mo, We-Fr 08:30-17:30; Sa 08:00-16:00"
+street: Main Road
+housenumber: "96"
+phone: +44 115 940 4505
+opening_hours: Mo, We-Fr 08:30-17:30; Sa 08:00-16:00
 website: ""

@@ -1,11 +1,11 @@
 id: 549825892
-type: way
+type: node
 latitude: 52.7758
 longitude: -1.55538
-postcode: "DE11 8JU"
+postcode: DE11 8JU
 city: Swadlincote
-street: "Belmont Street"
-housenumber: 
-phone: "+44 1283227520"
-opening_hours: "Mo-Fr 09:00-18:00, Sa-Su 10:00-17:00"
-website: "https://www.halfords.com/locations/swadlincote-store/"
+street: Belmont Street
+housenumber: ""
+phone: +44 1283227520
+opening_hours: Mo-Fr 09:00-18:00, Sa-Su 10:00-17:00
+website: https://www.halfords.com/locations/swadlincote-store/

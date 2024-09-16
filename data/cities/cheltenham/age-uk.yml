@@ -1,11 +1,11 @@
 id: 370784748
-type: way
+type: node
 latitude: 51.9023
 longitude: -2.11378
-postcode: "GL51 7SF"
+postcode: GL51 7SF
 city: Cheltenham
-street: "Edinburgh Place"
-housenumber: 44
+street: Edinburgh Place
+housenumber: "44"
 phone: ""
-opening_hours: "Mo-Sa 09:00-17:00; Su 09:00-16:00"
+opening_hours: Mo-Sa 09:00-17:00; Su 09:00-16:00
 website: ""

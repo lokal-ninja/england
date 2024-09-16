@@ -1,11 +1,11 @@
 id: 428337519
-type: way
+type: node
 latitude: 51.50246
 longitude: -0.1114
-postcode: "SE1 7LY"
+postcode: SE1 7LY
 city: London
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 06:30-00:00; Su 07:00-23:00"
+opening_hours: Mo-Sa 06:30-00:00; Su 07:00-23:00
 website: ""

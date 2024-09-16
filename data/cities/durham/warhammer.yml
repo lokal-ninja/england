@@ -1,11 +1,11 @@
 id: 374565602
-type: way
+type: node
 latitude: 54.77728
 longitude: -1.58118
-postcode: "DH1 4SQ"
+postcode: DH1 4SQ
 city: Durham
-street: "North Road"
-housenumber: 64
+street: North Road
+housenumber: "64"
 phone: ""
 opening_hours: ""
 website: ""

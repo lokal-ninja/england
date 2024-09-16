@@ -2,10 +2,10 @@ id: 11966353548
 type: node
 latitude: 51.65867
 longitude: -1.58345
-postcode: "SN7 7HL"
+postcode: SN7 7HL
 city: Faringdon
-street: "Market Place"
-housenumber: 3
-phone: "+44 1367 240 551"
-opening_hours: "Mo 08:00-12:30; Tu-Fr 08:00-15:00; Sa 08:00-13:00; Su off"
-website: "https://www.patthomasbutchers.co.uk/"
+street: Market Place
+housenumber: "3"
+phone: +44 1367 240 551
+opening_hours: Mo 08:00-12:30; Tu-Fr 08:00-15:00; Sa 08:00-13:00; Su off
+website: https://www.patthomasbutchers.co.uk/

@@ -1,11 +1,11 @@
 id: 888682847
-type: way
+type: node
 latitude: 50.9788
 longitude: -3.22376
-postcode: "TA21 8ST"
+postcode: TA21 8ST
 city: Wellington
-street: "Scott's Lane"
-housenumber: 
-phone: "+44 7837 372606"
+street: Scott's Lane
+housenumber: ""
+phone: +44 7837 372606
 opening_hours: ""
-website: "https://mrtlc.co.uk"
+website: https://mrtlc.co.uk

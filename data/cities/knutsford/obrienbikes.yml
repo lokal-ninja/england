@@ -2,10 +2,10 @@ id: 11761771308
 type: node
 latitude: 53.30097
 longitude: -2.37819
-postcode: "WA16 0DP"
+postcode: WA16 0DP
 city: Knutsford
-street: "St. John's Road"
-housenumber: 16
-phone: "+44 7989392329"
-opening_hours: "24/7"
-website: "https://www.obrienbikes.co.uk/"
+street: St. John's Road
+housenumber: "16"
+phone: +44 7989392329
+opening_hours: 24/7
+website: https://www.obrienbikes.co.uk/

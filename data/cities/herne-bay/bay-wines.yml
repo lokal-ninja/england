@@ -1,11 +1,11 @@
 id: 640892387
-type: way
+type: node
 latitude: 51.37146
 longitude: 1.13025
-postcode: "CT6 5AQ"
+postcode: CT6 5AQ
 city: Herne Bay
-street: "High Street"
-housenumber: 167
+street: High Street
+housenumber: "167"
 phone: ""
 opening_hours: ""
 website: ""

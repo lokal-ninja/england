@@ -1,11 +1,11 @@
 id: 336749958
-type: way
+type: node
 latitude: 52.302
 longitude: -0.69568
-postcode: "NN8 4HL"
+postcode: NN8 4HL
 city: Wellingborough
-street: "High Street"
-housenumber: 43
+street: High Street
+housenumber: "43"
 phone: ""
 opening_hours: ""
 website: ""

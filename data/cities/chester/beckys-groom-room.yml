@@ -1,11 +1,11 @@
 id: 1262718880
-type: way
+type: node
 latitude: 53.21427
 longitude: -2.87554
-postcode: "CH2 1SR"
+postcode: CH2 1SR
 city: Chester
-street: "Aldford Road"
-housenumber: 44
-phone: "+44 7577989839"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "www.Facebook.com/beckysgroomroom"
+street: Aldford Road
+housenumber: "44"
+phone: +44 7577989839
+opening_hours: Mo-Fr 09:00-17:00
+website: www.Facebook.com/beckysgroomroom

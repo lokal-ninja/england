@@ -1,11 +1,11 @@
 id: 548638612
-type: way
+type: node
 latitude: 51.56965
 longitude: -0.77479
 postcode: ""
 city: Marlow
-street: "High Street"
-housenumber: 90
+street: High Street
+housenumber: "90"
 phone: ""
 opening_hours: ""
-website: "https://www.buckinghamsofmarlow.co.uk/"
+website: https://www.buckinghamsofmarlow.co.uk/

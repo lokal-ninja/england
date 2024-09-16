@@ -1,11 +1,11 @@
 id: 1185606496
-type: way
+type: node
 latitude: 53.36758
 longitude: -2.72636
-postcode: "WA8 6BJ"
+postcode: WA8 6BJ
 city: Widnes
-street: "Widnes Road"
-housenumber: 95
+street: Widnes Road
+housenumber: "95"
 phone: ""
 opening_hours: ""
 website: ""

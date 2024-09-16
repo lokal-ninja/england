@@ -1,11 +1,11 @@
 id: 289660509
-type: way
+type: node
 latitude: 51.50952
 longitude: -0.13574
-postcode: "W1J 0DE"
+postcode: W1J 0DE
 city: London
-street: "Piccadilly"
-housenumber: 16
+street: Piccadilly
+housenumber: "16"
 phone: ""
 opening_hours: ""
-website: "http://www.carpolondon.co.uk/"
+website: http://www.carpolondon.co.uk/

@@ -1,11 +1,11 @@
 id: 161746355
-type: way
+type: node
 latitude: 51.6303
 longitude: -0.17796
-postcode: "N20 9QJ"
+postcode: N20 9QJ
 city: London
-street: "Totteridge Lane"
-housenumber: 32
+street: Totteridge Lane
+housenumber: "32"
 phone: ""
 opening_hours: ""
-website: "https://kiki-john-hairdressing.business.site/"
+website: https://kiki-john-hairdressing.business.site/

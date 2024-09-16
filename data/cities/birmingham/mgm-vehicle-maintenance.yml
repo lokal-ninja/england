@@ -1,11 +1,11 @@
 id: 58369429
-type: way
+type: node
 latitude: 52.45374
 longitude: -1.85314
-postcode: "B11 2HX"
+postcode: B11 2HX
 city: Birmingham
-street: "Manor Farm Road"
-housenumber: 116
+street: Manor Farm Road
+housenumber: "116"
 phone: ""
 opening_hours: ""
 website: ""

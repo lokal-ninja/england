@@ -1,11 +1,11 @@
 id: 957167821
-type: way
-latitude: 52.47783
-longitude: 1.73483
-postcode: "NR32 2ED"
+type: node
+latitude: 52.47782
+longitude: 1.73478
+postcode: NR32 2ED
 city: Lowestoft
 street: ""
-housenumber: 
-phone: "+44 1502 589038"
-opening_hours: "Mo-Sa 08:00-20:00; Su 10:00-16:00"
+housenumber: ""
+phone: +44 1502 589038
+opening_hours: Mo-Sa 08:00-20:00; Su 10:00-16:00
 website: ""

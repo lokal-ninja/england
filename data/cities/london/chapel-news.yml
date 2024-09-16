@@ -1,11 +1,11 @@
 id: 119439279
-type: way
+type: node
 latitude: 51.53348
 longitude: -0.10798
-postcode: "N1 9ER"
+postcode: N1 9ER
 city: London
-street: "Chapel Market"
-housenumber: 60
+street: Chapel Market
+housenumber: "60"
 phone: ""
 opening_hours: ""
 website: ""

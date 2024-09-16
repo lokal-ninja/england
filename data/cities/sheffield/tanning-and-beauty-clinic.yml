@@ -1,11 +1,11 @@
 id: 1187709541
-type: way
+type: node
 latitude: 53.38234
 longitude: -1.47148
-postcode: "S1 2GL"
+postcode: S1 2GL
 city: Sheffield
-street: "Church Street"
-housenumber: 49
+street: Church Street
+housenumber: "49"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 224264759
-type: way
-latitude: 52.47691
-longitude: 1.73459
-postcode: "NR32 2ED"
+type: node
+latitude: 52.47689
+longitude: 1.73453
+postcode: NR32 2ED
 city: Lowestoft
 street: ""
-housenumber: 
-phone: "+44 800 254 0900"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 09:00-18:00; Su 10:30-16:30"
-website: "https://www.fabbfurniture.com/"
+housenumber: ""
+phone: +44 800 254 0900
+opening_hours: Mo-Fr 10:00-20:00; Sa 09:00-18:00; Su 10:30-16:30
+website: https://www.fabbfurniture.com/

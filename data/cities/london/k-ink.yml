@@ -1,11 +1,11 @@
 id: 596687010
-type: way
+type: node
 latitude: 51.46978
 longitude: -0.06632
-postcode: "SE15 3SN"
+postcode: SE15 3SN
 city: London
-street: "Copeland Road"
-housenumber: 133
+street: Copeland Road
+housenumber: "133"
 phone: ""
-opening_hours: "Tu-Sa 13:00-19:00"
+opening_hours: Tu-Sa 13:00-19:00
 website: ""

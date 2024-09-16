@@ -1,11 +1,11 @@
 id: 203185935
-type: way
+type: node
 latitude: 51.5134
 longitude: -0.14112
 postcode: ""
 city: London
-street: "Regent Street"
-housenumber: 213
+street: Regent Street
+housenumber: "213"
 phone: ""
 opening_hours: ""
-website: "https://uk.tumi.com/"
+website: https://uk.tumi.com/

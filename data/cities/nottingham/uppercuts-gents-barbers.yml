@@ -1,11 +1,11 @@
 id: 346045161
-type: way
+type: node
 latitude: 52.97253
 longitude: -1.08163
-postcode: "NG4 3HQ"
+postcode: NG4 3HQ
 city: Nottingham
-street: "Main Road"
-housenumber: 9
+street: Main Road
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-We 09:00-17:00; Fr 09:00-18:00; Sa 09:00-16:00"
+opening_hours: Mo-We 09:00-17:00; Fr 09:00-18:00; Sa 09:00-16:00
 website: ""

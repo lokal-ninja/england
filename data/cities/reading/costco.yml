@@ -1,11 +1,11 @@
 id: 168509493
-type: way
+type: node
 latitude: 51.42124
 longitude: -0.98453
-postcode: "RG2 6UE"
+postcode: RG2 6UE
 city: Reading
-street: "South Oak Way"
-housenumber: 100
-phone: "+44 118 920 7105"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 11:00-17:00"
-website: "https://www.costco.co.uk/store-finder/Reading"
+street: South Oak Way
+housenumber: "100"
+phone: +44 118 920 7105
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 11:00-17:00
+website: https://www.costco.co.uk/store-finder/Reading

@@ -2,10 +2,10 @@ id: 6019922880
 type: node
 latitude: 51.55919
 longitude: -0.24996
-postcode: "NW10 1QG"
+postcode: NW10 1QG
 city: London
-street: "Neasden Lane"
-housenumber: 239
+street: Neasden Lane
+housenumber: "239"
 phone: ""
 opening_hours: ""
 website: ""

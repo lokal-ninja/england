@@ -1,11 +1,11 @@
 id: 446338943
-type: way
+type: node
 latitude: 53.68329
 longitude: -1.49991
-postcode: "WF1 2EL"
+postcode: WF1 2EL
 city: Wakefield
-street: "Wood Street"
-housenumber: 9
+street: Wood Street
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

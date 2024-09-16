@@ -1,11 +1,11 @@
 id: 1313120992
-type: way
+type: node
 latitude: 50.87998
 longitude: -1.03073
-postcode: "PO7 7DT"
+postcode: PO7 7DT
 city: Waterlooville
-street: "The Precinct"
-housenumber: 
-phone: "+44 2392 258793"
-opening_hours: "Mo-Fr 07:00-18:30; Sa 07:00-17:30; Su 08:00-16:30"
+street: The Precinct
+housenumber: ""
+phone: +44 2392 258793
+opening_hours: Mo-Fr 07:00-18:30; Sa 07:00-17:30; Su 08:00-16:30
 website: ""

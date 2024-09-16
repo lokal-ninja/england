@@ -1,11 +1,11 @@
 id: 285523758
-type: way
+type: node
 latitude: 50.92699
 longitude: -1.39154
-postcode: "SO17 2NG"
+postcode: SO17 2NG
 city: Southampton
-street: "Portswood Road"
-housenumber: 261
+street: Portswood Road
+housenumber: "261"
 phone: ""
-opening_hours: "Mo-Sa 09:00-17:00, Sa 10:00-16:00"
-website: "https://www.ageuk.org.uk/about-us/local-services-search/shops/age-uk-shop-southampton-england/"
+opening_hours: Mo-Sa 09:00-17:00, Sa 10:00-16:00
+website: https://www.ageuk.org.uk/about-us/local-services-search/shops/age-uk-shop-southampton-england/

@@ -1,11 +1,11 @@
 id: 134753086
-type: way
+type: node
 latitude: 52.47213
 longitude: -1.93156
-postcode: "B16 9RD"
+postcode: B16 9RD
 city: Birmingham
-street: "Hagley Road"
-housenumber: 187
+street: Hagley Road
+housenumber: "187"
 phone: ""
 opening_hours: ""
 website: ""

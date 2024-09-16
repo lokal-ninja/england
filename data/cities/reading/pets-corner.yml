@@ -1,11 +1,11 @@
 id: 68649182
-type: way
+type: node
 latitude: 51.44453
 longitude: -1.0249
-postcode: "RG30 2HJ"
+postcode: RG30 2HJ
 city: Reading
-street: "Bath Road"
-housenumber: 208
+street: Bath Road
+housenumber: "208"
 phone: ""
-opening_hours: "Mo-Sa 09:00-18:00; Su 10:30-16:30"
+opening_hours: Mo-Sa 09:00-18:00; Su 10:30-16:30
 website: ""

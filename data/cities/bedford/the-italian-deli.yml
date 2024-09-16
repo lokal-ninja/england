@@ -2,10 +2,10 @@ id: 6275486899
 type: node
 latitude: 52.13201
 longitude: -0.48402
-postcode: "MK40 4JW"
+postcode: MK40 4JW
 city: Bedford
-street: "Ford End Road"
-housenumber: 50
+street: Ford End Road
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

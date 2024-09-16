@@ -1,11 +1,11 @@
 id: 683581621
-type: way
+type: node
 latitude: 51.48493
 longitude: -2.76469
-postcode: "BS20 7BX"
+postcode: BS20 7BX
 city: Bristol
-street: "Old Mill Road"
-housenumber: 8
+street: Old Mill Road
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

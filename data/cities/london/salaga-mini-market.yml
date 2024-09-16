@@ -1,11 +1,11 @@
 id: 436146453
-type: way
+type: node
 latitude: 51.53044
 longitude: 0.0378
-postcode: "E13 9ER"
+postcode: E13 9ER
 city: London
-street: "Barking Road"
-housenumber: 751
+street: Barking Road
+housenumber: "751"
 phone: ""
 opening_hours: ""
 website: ""

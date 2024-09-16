@@ -1,11 +1,11 @@
 id: 62332807
-type: way
+type: node
 latitude: 51.43769
 longitude: -0.9685
-postcode: "RG2 0HH"
+postcode: RG2 0HH
 city: Reading
-street: "Basingstoke Road"
-housenumber: 196
+street: Basingstoke Road
+housenumber: "196"
 phone: ""
 opening_hours: ""
 website: ""

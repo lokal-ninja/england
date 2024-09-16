@@ -2,10 +2,10 @@ id: 10119115547
 type: node
 latitude: 50.71977
 longitude: -3.53482
-postcode: "EX1 1BA"
+postcode: EX1 1BA
 city: Exeter
-street: "West Street"
-housenumber: 24
+street: West Street
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

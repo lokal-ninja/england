@@ -1,11 +1,11 @@
 id: 199561801
-type: way
+type: node
 latitude: 51.55616
 longitude: -0.17744
-postcode: "NW3 1QE"
+postcode: NW3 1QE
 city: London
-street: "Hampstead High Street"
-housenumber: 35
+street: Hampstead High Street
+housenumber: "35"
 phone: ""
 opening_hours: ""
-website: "https://stores.sainsburys.co.uk/6270/hampstead-high-street-local"
+website: https://stores.sainsburys.co.uk/6270/hampstead-high-street-local

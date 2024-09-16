@@ -1,11 +1,11 @@
 id: 1001569778
-type: way
+type: node
 latitude: 53.49504
 longitude: -2.49531
-postcode: "WN7 2JJ"
+postcode: WN7 2JJ
 city: Leigh
-street: "Holden Road"
-housenumber: 511
+street: Holden Road
+housenumber: "511"
 phone: ""
 opening_hours: ""
 website: ""

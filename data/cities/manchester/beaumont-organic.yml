@@ -2,10 +2,10 @@ id: 6405139594
 type: node
 latitude: 53.48162
 longitude: -2.23195
-postcode: "M1 2EF"
+postcode: M1 2EF
 city: Manchester
-street: "Hilton Street"
-housenumber: 49
+street: Hilton Street
+housenumber: "49"
 phone: ""
 opening_hours: ""
 website: ""

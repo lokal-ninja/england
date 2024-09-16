@@ -1,11 +1,11 @@
 id: 1153335618
-type: way
+type: node
 latitude: 53.37692
 longitude: -1.50128
-postcode: "S10 2QE"
+postcode: S10 2QE
 city: Sheffield
-street: "Glossop Road"
-housenumber: 483
+street: Glossop Road
+housenumber: "483"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1175759298
-type: way
+type: node
 latitude: 50.83525
 longitude: -0.1259
-postcode: "BN2 3LG"
+postcode: BN2 3LG
 city: Brighton & Hove
-street: "Lewes Road"
-housenumber: 148
+street: Lewes Road
+housenumber: "148"
 phone: ""
 opening_hours: ""
 website: ""

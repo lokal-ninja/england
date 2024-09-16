@@ -1,11 +1,11 @@
 id: 111704462
-type: way
+type: node
 latitude: 52.38731
 longitude: -1.25687
-postcode: "CV21 1RG"
+postcode: CV21 1RG
 city: Rugby
-street: "Leicester Road"
-housenumber: 1
+street: Leicester Road
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

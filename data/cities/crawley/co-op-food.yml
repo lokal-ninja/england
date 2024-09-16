@@ -1,11 +1,11 @@
 id: 319896794
-type: way
+type: node
 latitude: 51.10186
 longitude: -0.18135
-postcode: "RH10 5EQ"
+postcode: RH10 5EQ
 city: Crawley
-street: "Tilgate Parade"
-housenumber: 1
+street: Tilgate Parade
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
+opening_hours: Mo-Su 07:00-22:00
 website: ""

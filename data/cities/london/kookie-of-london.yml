@@ -1,11 +1,11 @@
 id: 449451835
-type: way
+type: node
 latitude: 51.49293
 longitude: -0.13941
-postcode: "SW1V 1SW"
+postcode: SW1V 1SW
 city: London
-street: "Upper Tachbrook Street"
-housenumber: 24
+street: Upper Tachbrook Street
+housenumber: "24"
 phone: ""
-opening_hours: "Tu-Fr 10:30-17:30; Sa 10:00-14:00; Su,Mo off"
+opening_hours: Tu-Fr 10:30-17:30; Sa 10:00-14:00; Su,Mo off
 website: ""

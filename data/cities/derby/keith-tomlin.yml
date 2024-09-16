@@ -1,11 +1,11 @@
 id: 108840600
-type: way
+type: node
 latitude: 52.88746
 longitude: -1.49908
-postcode: "DE23 1LN"
+postcode: DE23 1LN
 city: Derby
-street: "Stenson Road"
-housenumber: 434
+street: Stenson Road
+housenumber: "434"
 phone: ""
 opening_hours: ""
 website: ""

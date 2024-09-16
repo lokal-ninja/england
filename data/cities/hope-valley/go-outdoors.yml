@@ -1,11 +1,11 @@
 id: 238426619
-type: way
+type: node
 latitude: 53.33028
 longitude: -1.65548
-postcode: "S32 1BB"
+postcode: S32 1BB
 city: Hope Valley
-street: "Main Road"
-housenumber: 6
+street: Main Road
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Su 09:00-18:00"
+opening_hours: Mo-Su 09:00-18:00
 website: ""

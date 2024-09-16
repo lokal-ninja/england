@@ -1,11 +1,11 @@
 id: 761766213
-type: way
+type: node
 latitude: 50.75122
 longitude: -1.92938
-postcode: "BH12 5HD"
+postcode: BH12 5HD
 city: Poole
-street: "Wallisdown Road"
-housenumber: 565
-phone: "+44 01202 110966"
-opening_hours: "Mo-Fr 07:00-17:00; Sa 07:30-12:00"
+street: Wallisdown Road
+housenumber: "565"
+phone: +44 01202 110966
+opening_hours: Mo-Fr 07:00-17:00; Sa 07:30-12:00
 website: ""

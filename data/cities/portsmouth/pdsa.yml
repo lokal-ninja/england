@@ -1,11 +1,11 @@
 id: 666551141
-type: way
+type: node
 latitude: 50.81448
 longitude: -1.07956
-postcode: "PO2 0LN"
+postcode: PO2 0LN
 city: Portsmouth
-street: "London Road"
-housenumber: 46
+street: London Road
+housenumber: "46"
 phone: ""
-opening_hours: "Mo-Sa 09:00-17:00"
+opening_hours: Mo-Sa 09:00-17:00
 website: ""

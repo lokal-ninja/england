@@ -1,11 +1,11 @@
 id: 363996362
-type: way
+type: node
 latitude: 51.42715
 longitude: -0.2008
-postcode: "SW19 7BB"
+postcode: SW19 7BB
 city: London
-street: "Leopold Road"
-housenumber: 9
+street: Leopold Road
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

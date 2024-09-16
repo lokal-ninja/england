@@ -1,11 +1,11 @@
 id: 828037594
-type: way
+type: node
 latitude: 53.6728
 longitude: -1.48455
-postcode: "WF1 5DX"
+postcode: WF1 5DX
 city: Wakefield
-street: "Doncaster Road"
-housenumber: 31
+street: Doncaster Road
+housenumber: "31"
 phone: ""
 opening_hours: ""
-website: "https://www.spar.co.uk/store-locator/hal30391-spar-doncaster-road-wakefield/"
+website: https://www.spar.co.uk/store-locator/hal30391-spar-doncaster-road-wakefield/

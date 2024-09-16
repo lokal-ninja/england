@@ -1,11 +1,11 @@
 id: 184840409
-type: way
+type: node
 latitude: 51.49338
 longitude: -2.62013
-postcode: "BS9 3DF"
+postcode: BS9 3DF
 city: Bristol
-street: "Carlton Court"
-housenumber: 4
+street: Carlton Court
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

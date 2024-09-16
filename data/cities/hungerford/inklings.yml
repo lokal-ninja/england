@@ -1,11 +1,11 @@
 id: 310877519
-type: way
+type: node
 latitude: 51.41567
 longitude: -1.515
-postcode: "RG17 0DL"
+postcode: RG17 0DL
 city: Hungerford
-street: "High Street"
-housenumber: 122
+street: High Street
+housenumber: "122"
 phone: ""
 opening_hours: ""
 website: ""

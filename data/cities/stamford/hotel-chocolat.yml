@@ -1,11 +1,11 @@
 id: 771121573
-type: way
+type: node
 latitude: 52.65202
 longitude: -0.47961
-postcode: "PE9 2AW"
+postcode: PE9 2AW
 city: Stamford
-street: "High Street"
-housenumber: 68
+street: High Street
+housenumber: "68"
 phone: ""
 opening_hours: ""
 website: ""

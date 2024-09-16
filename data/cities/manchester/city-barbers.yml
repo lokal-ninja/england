@@ -2,10 +2,10 @@ id: 3050523433
 type: node
 latitude: 53.48147
 longitude: -2.23512
-postcode: "M1 1LN"
+postcode: M1 1LN
 city: Manchester
-street: "Lever Street"
-housenumber: 8
+street: Lever Street
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

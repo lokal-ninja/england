@@ -1,11 +1,11 @@
 id: 194680110
-type: way
+type: node
 latitude: 50.93631
 longitude: -1.44725
-postcode: "SO16 5EB"
+postcode: SO16 5EB
 city: Southampton
-street: "Rownhams Road"
-housenumber: 105
+street: Rownhams Road
+housenumber: "105"
 phone: ""
 opening_hours: ""
-website: "https://www.premier-stores.co.uk/our-stores/maybush-convenience-store"
+website: https://www.premier-stores.co.uk/our-stores/maybush-convenience-store

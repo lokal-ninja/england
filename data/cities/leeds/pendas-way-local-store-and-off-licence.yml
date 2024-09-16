@@ -1,11 +1,11 @@
 id: 566754984
-type: way
+type: node
 latitude: 53.81091
 longitude: -1.43925
-postcode: "LS15 8HN"
+postcode: LS15 8HN
 city: Leeds
-street: "Pendas Way"
-housenumber: 85
+street: Pendas Way
+housenumber: "85"
 phone: ""
 opening_hours: ""
 website: ""

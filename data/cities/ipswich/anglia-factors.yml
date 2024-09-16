@@ -1,11 +1,11 @@
 id: 25808022
-type: way
+type: node
 latitude: 52.06342
 longitude: 1.27923
-postcode: "IP5 3RD"
+postcode: IP5 3RD
 city: Ipswich
-street: "Gloster Road"
-housenumber: 34
+street: Gloster Road
+housenumber: "34"
 phone: "+441473610192"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 10:00-16:00"
-website: "https://angliafactors.co.uk/"
+opening_hours: Mo-Fr 09:00-17:00; Sa 10:00-16:00
+website: https://angliafactors.co.uk/

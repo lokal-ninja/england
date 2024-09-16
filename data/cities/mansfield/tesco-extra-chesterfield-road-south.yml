@@ -1,11 +1,11 @@
 id: 172990534
-type: way
+type: node
 latitude: 53.15042
 longitude: -1.20239
-postcode: "NG19 7TS"
+postcode: NG19 7TS
 city: Mansfield
-street: "Chesterfield Road South"
-housenumber: 
+street: Chesterfield Road South
+housenumber: ""
 phone: "+443456779451"
-opening_hours: "Mo 08:00-18:00; Tu-Sa 06:00-22:00; Su 10:00-16:00"
-website: "https://www.tesco.com/store-locator/mansfield/chesterfield-road-south"
+opening_hours: Mo 08:00-18:00; Tu-Sa 06:00-22:00; Su 10:00-16:00
+website: https://www.tesco.com/store-locator/mansfield/chesterfield-road-south

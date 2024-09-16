@@ -1,11 +1,11 @@
 id: 1011408824
-type: way
+type: node
 latitude: 51.46388
 longitude: -0.21507
 postcode: ""
 city: London
-street: "Putney High Street"
-housenumber: 63
+street: Putney High Street
+housenumber: "63"
 phone: ""
 opening_hours: ""
 website: ""

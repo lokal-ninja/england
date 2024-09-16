@@ -1,11 +1,11 @@
 id: 361556320
-type: way
+type: node
 latitude: 54.19521
 longitude: -3.09495
 postcode: ""
 city: Ulverston
-street: "New Market Street"
-housenumber: 23
+street: New Market Street
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

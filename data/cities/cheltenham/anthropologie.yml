@@ -1,11 +1,11 @@
 id: 166043513
-type: way
+type: node
 latitude: 51.89858
 longitude: -2.07757
-postcode: "GL50 1NB"
+postcode: GL50 1NB
 city: Cheltenham
-street: "Promenade"
-housenumber: 92
+street: Promenade
+housenumber: "92"
 phone: ""
-opening_hours: "Mo-Sa 09:30-17:30; Su 10:30-16:30"
+opening_hours: Mo-Sa 09:30-17:30; Su 10:30-16:30
 website: ""

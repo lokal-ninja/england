@@ -1,11 +1,11 @@
 id: 325568684
-type: way
+type: node
 latitude: 51.4622
 longitude: -0.11335
-postcode: "SW9 8JP"
+postcode: SW9 8JP
 city: London
-street: "Electric Avenue"
-housenumber: 29
+street: Electric Avenue
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

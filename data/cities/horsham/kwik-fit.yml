@@ -1,11 +1,11 @@
 id: 60820708
-type: way
+type: node
 latitude: 51.06011
 longitude: -0.32241
-postcode: "RH13 5BA"
+postcode: RH13 5BA
 city: Horsham
-street: "Brighton Road"
-housenumber: 2
+street: Brighton Road
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1021488458
-type: way
+type: node
 latitude: 50.76937
 longitude: 0.28007
-postcode: "BN21 1BE"
+postcode: BN21 1BE
 city: Eastbourne
-street: "Station Parade"
-housenumber: 1
+street: Station Parade
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "http://expressdryclean.co.uk/"
+website: http://expressdryclean.co.uk/

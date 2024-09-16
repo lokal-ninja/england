@@ -1,11 +1,11 @@
 id: 1123932205
-type: way
+type: node
 latitude: 51.48227
 longitude: 0.14389
-postcode: "DA17 5LJ"
+postcode: DA17 5LJ
 city: Belvedere
-street: "Albert Road"
-housenumber: 38
+street: Albert Road
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

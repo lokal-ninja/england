@@ -1,11 +1,11 @@
 id: 1058319117
-type: way
+type: node
 latitude: 51.44937
 longitude: -0.37779
-postcode: "TW2 6EJ"
+postcode: TW2 6EJ
 city: Twickenham
-street: "Powder Mill Lane"
-housenumber: 224
+street: Powder Mill Lane
+housenumber: "224"
 phone: ""
 opening_hours: ""
 website: ""

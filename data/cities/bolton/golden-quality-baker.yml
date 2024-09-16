@@ -1,11 +1,11 @@
 id: 724516673
-type: way
+type: node
 latitude: 53.57326
 longitude: -2.44209
-postcode: "BL3 5DL"
+postcode: BL3 5DL
 city: Bolton
-street: "Deane Road"
-housenumber: 162
+street: Deane Road
+housenumber: "162"
 phone: ""
 opening_hours: ""
 website: ""

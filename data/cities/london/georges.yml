@@ -1,11 +1,11 @@
 id: 73423356
-type: way
+type: node
 latitude: 51.47332
 longitude: -0.07142
-postcode: "SE15 5DP"
+postcode: SE15 5DP
 city: London
-street: "Peckham High Street"
-housenumber: 36
+street: Peckham High Street
+housenumber: "36"
 phone: ""
 opening_hours: ""
 website: ""

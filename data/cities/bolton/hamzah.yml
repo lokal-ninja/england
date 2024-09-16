@@ -1,11 +1,11 @@
 id: 722681232
-type: way
+type: node
 latitude: 53.56569
 longitude: -2.44646
-postcode: "BL3 3NH"
+postcode: BL3 3NH
 city: Bolton
-street: "St Helens Road"
-housenumber: 28
+street: St Helens Road
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

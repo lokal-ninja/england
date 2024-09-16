@@ -1,11 +1,11 @@
 id: 359178467
-type: way
+type: node
 latitude: 52.61147
 longitude: -1.13635
-postcode: "LE2 7NE"
+postcode: LE2 7NE
 city: Leicester
-street: "Saffron Lane"
-housenumber: 210
+street: Saffron Lane
+housenumber: "210"
 phone: ""
-opening_hours: "Mo-Sa 09:00-17:30; Su 10:00-16:00"
+opening_hours: Mo-Sa 09:00-17:30; Su 10:00-16:00
 website: ""

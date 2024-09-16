@@ -1,11 +1,11 @@
 id: 124709999
-type: way
+type: node
 latitude: 52.97623
 longitude: -1.30899
-postcode: "DE7 8FJ"
+postcode: DE7 8FJ
 city: Ilkeston
-street: "Bath Street"
-housenumber: 138
+street: Bath Street
+housenumber: "138"
 phone: ""
 opening_hours: ""
-website: "https://www.bonafidesupplystore.com/"
+website: https://www.bonafidesupplystore.com/

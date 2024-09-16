@@ -1,11 +1,11 @@
 id: 733427229
-type: way
+type: node
 latitude: 51.89342
 longitude: 0.92374
-postcode: "CO4 3BZ"
+postcode: CO4 3BZ
 city: Colchester
-street: "Harwich Road"
-housenumber: 116
+street: Harwich Road
+housenumber: "116"
 phone: ""
 opening_hours: ""
 website: ""

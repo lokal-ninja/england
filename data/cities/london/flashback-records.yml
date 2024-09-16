@@ -2,10 +2,10 @@ id: 4567348592
 type: node
 latitude: 51.52519
 longitude: -0.07135
-postcode: "E2 7DG"
+postcode: E2 7DG
 city: London
-street: "Bethnal Green Road"
-housenumber: 131
+street: Bethnal Green Road
+housenumber: "131"
 phone: ""
 opening_hours: ""
 website: ""

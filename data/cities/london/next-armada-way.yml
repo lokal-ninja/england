@@ -1,11 +1,11 @@
 id: 316725116
-type: way
+type: node
 latitude: 51.51693
 longitude: 0.08049
 postcode: ""
 city: London
-street: "Armada Way"
-housenumber: 3
+street: Armada Way
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 09:30-20:00; Sa 09:00-20:00; Su 11:00-17:00"
+opening_hours: Mo-Fr 09:30-20:00; Sa 09:00-20:00; Su 11:00-17:00
 website: ""

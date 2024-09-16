@@ -2,10 +2,10 @@ id: 10043248655
 type: node
 latitude: 53.541
 longitude: -2.10787
-postcode: "OL1 1DU"
+postcode: OL1 1DU
 city: Oldham
-street: "Union Street"
-housenumber: 100
+street: Union Street
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

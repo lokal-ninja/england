@@ -1,11 +1,11 @@
 id: 1020628643
-type: way
+type: node
 latitude: 50.95847
 longitude: -0.3055
-postcode: "RH13 8AU"
+postcode: RH13 8AU
 city: Horsham
-street: "Huffwood Trading Estate"
-housenumber: 15
+street: Huffwood Trading Estate
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Sa 09:00-17:00; Su 09:00-14:00"
+opening_hours: Mo-Sa 09:00-17:00; Su 09:00-14:00
 website: ""

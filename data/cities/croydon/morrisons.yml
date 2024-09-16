@@ -1,11 +1,11 @@
 id: 180779603
-type: way
+type: node
 latitude: 51.36502
 longitude: -0.12084
-postcode: "CR0 4NZ"
+postcode: CR0 4NZ
 city: Croydon
-street: "Purley Way"
-housenumber: 500
+street: Purley Way
+housenumber: "500"
 phone: ""
-opening_hours: "Mo-Sa 06:00-23:00; Su 10:00-16:00"
-website: "https://my.morrisons.com/storefinder/576/croydon"
+opening_hours: Mo-Sa 06:00-23:00; Su 10:00-16:00
+website: https://my.morrisons.com/storefinder/576/croydon

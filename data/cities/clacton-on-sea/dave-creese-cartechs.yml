@@ -1,11 +1,11 @@
 id: 80433248
-type: way
+type: node
 latitude: 51.79219
 longitude: 1.14223
-postcode: "CO15 1EY"
+postcode: CO15 1EY
 city: Clacton-on-Sea
 street: ""
-housenumber: 20
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

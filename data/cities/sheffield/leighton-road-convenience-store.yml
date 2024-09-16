@@ -1,11 +1,11 @@
 id: 109012048
-type: way
+type: node
 latitude: 53.34896
 longitude: -1.44037
-postcode: "S14 1QD"
+postcode: S14 1QD
 city: Sheffield
-street: "Leighton Road"
-housenumber: 300
+street: Leighton Road
+housenumber: "300"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su 09:00-21:00"
-website: "https://www.premier-stores.co.uk/our-stores/leighton-road-convenience"
+opening_hours: Mo-Sa 07:00-21:00; Su 09:00-21:00
+website: https://www.premier-stores.co.uk/our-stores/leighton-road-convenience

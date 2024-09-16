@@ -1,11 +1,11 @@
 id: 1067895041
-type: way
+type: node
 latitude: 52.47841
 longitude: 1.71554
-postcode: "NR32 3AG"
+postcode: NR32 3AG
 city: Lowestoft
-street: "Gorleston Road"
-housenumber: 2
-phone: "+44 1502 538820"
-opening_hours: "Mo-Fr 09:00-16:30"
-website: "https://www.arthurjary.co.uk/"
+street: Gorleston Road
+housenumber: "2"
+phone: +44 1502 538820
+opening_hours: Mo-Fr 09:00-16:30
+website: https://www.arthurjary.co.uk/

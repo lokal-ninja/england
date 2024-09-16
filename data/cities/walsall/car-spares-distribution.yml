@@ -1,11 +1,11 @@
 id: 271258247
-type: way
+type: node
 latitude: 52.58332
 longitude: -1.98886
-postcode: "WS2 9DY"
+postcode: WS2 9DY
 city: Walsall
-street: "Long Street"
-housenumber: 
-phone: "+44 345 2089241"
-opening_hours: "Mo-Fr 08:00-17:30; Sa 09:00-16:00"
-website: "https://www.carsparesltd.com/"
+street: Long Street
+housenumber: ""
+phone: +44 345 2089241
+opening_hours: Mo-Fr 08:00-17:30; Sa 09:00-16:00
+website: https://www.carsparesltd.com/

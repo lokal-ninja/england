@@ -1,11 +1,12 @@
 id: 972674223
-type: way
+type: node
 latitude: 53.3893
 longitude: -2.59371
-postcode: "WA1 1TW"
+postcode: WA1 1TW
 city: Warrington
-street: "Market Gate"
-housenumber: 
-phone: "+44 1925 399535"
-opening_hours: "Mo 09:15-17:30; Tu 09:30-17:30; We-Fr 09:15-17:30; Sa 09:15-17:00; Su 11:00-16:00"
-website: "https://www.haystravel.co.uk/branches/warrington-market-gate/"
+street: Market Gate
+housenumber: ""
+phone: +44 1925 399535
+opening_hours: Mo 09:15-17:30; Tu 09:30-17:30; We-Fr 09:15-17:30; Sa 09:15-17:00;
+    Su 11:00-16:00
+website: https://www.haystravel.co.uk/branches/warrington-market-gate/

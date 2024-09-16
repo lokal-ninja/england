@@ -1,11 +1,11 @@
 id: 889217803
-type: way
+type: node
 latitude: 51.52295
 longitude: 0.03051
-postcode: "E13 8RW"
+postcode: E13 8RW
 city: London
-street: "Prince Regent Lane"
-housenumber: 66
+street: Prince Regent Lane
+housenumber: "66"
 phone: ""
 opening_hours: ""
 website: ""

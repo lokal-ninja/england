@@ -1,11 +1,11 @@
 id: 943799236
-type: way
+type: node
 latitude: 52.74068
 longitude: -1.35606
-postcode: "LE67 5DT"
+postcode: LE67 5DT
 city: Whitwick
-street: "Market Place"
-housenumber: 3
+street: Market Place
+housenumber: "3"
 phone: "+441530587655"
 opening_hours: ""
 website: ""

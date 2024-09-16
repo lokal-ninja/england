@@ -2,10 +2,10 @@ id: 2520604587
 type: node
 latitude: 50.95134
 longitude: 0.73458
-postcode: "TN31 7JE"
+postcode: TN31 7JE
 city: Rye
-street: "High Street"
-housenumber: 105
+street: High Street
+housenumber: "105"
 phone: ""
 opening_hours: ""
 website: ""

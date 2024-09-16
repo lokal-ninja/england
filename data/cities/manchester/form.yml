@@ -2,10 +2,10 @@ id: 6405139596
 type: node
 latitude: 53.4815
 longitude: -2.23183
-postcode: "M1 2FF"
+postcode: M1 2FF
 city: Manchester
-street: "Tariff Street"
-housenumber: 3
+street: Tariff Street
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

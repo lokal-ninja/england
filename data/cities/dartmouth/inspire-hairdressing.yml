@@ -1,11 +1,11 @@
 id: 515322068
-type: way
+type: node
 latitude: 50.35082
 longitude: -3.57903
-postcode: "TQ6 9QR"
+postcode: TQ6 9QR
 city: Dartmouth
-street: "Smith Street"
-housenumber: 7
+street: Smith Street
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

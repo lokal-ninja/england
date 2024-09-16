@@ -1,11 +1,11 @@
 id: 589073076
-type: way
+type: node
 latitude: 51.47276
 longitude: -0.28667
-postcode: "TW9 2EW"
+postcode: TW9 2EW
 city: Richmond
-street: "Sandycombe Road"
-housenumber: 231
+street: Sandycombe Road
+housenumber: "231"
 phone: ""
 opening_hours: ""
 website: ""

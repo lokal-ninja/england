@@ -1,11 +1,11 @@
 id: 843913435
-type: way
+type: node
 latitude: 51.44006
 longitude: -0.10696
-postcode: "SE27 9AU"
+postcode: SE27 9AU
 city: London
-street: "Norwood Road"
-housenumber: 178
+street: Norwood Road
+housenumber: "178"
 phone: ""
-opening_hours: "Mo-Sa 07:00-23:00; Su 12:00-18:00"
-website: "https://www.coop.co.uk/store-finder/SE27-9AU/178-norwood-road"
+opening_hours: Mo-Sa 07:00-23:00; Su 12:00-18:00
+website: https://www.coop.co.uk/store-finder/SE27-9AU/178-norwood-road

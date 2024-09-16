@@ -1,11 +1,11 @@
 id: 389629751
-type: way
+type: node
 latitude: 51.90518
 longitude: -0.51923
-postcode: "LU5 5ES"
+postcode: LU5 5ES
 city: Dunstable
-street: "Bedford Square"
-housenumber: 14
+street: Bedford Square
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

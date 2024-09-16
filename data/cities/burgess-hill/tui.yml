@@ -1,11 +1,11 @@
 id: 910441383
-type: way
+type: node
 latitude: 50.95598
 longitude: -0.13144
-postcode: "RH15 9BQ"
+postcode: RH15 9BQ
 city: Burgess Hill
-street: "Church Walk"
-housenumber: 63
+street: Church Walk
+housenumber: "63"
 phone: ""
 opening_hours: ""
 website: ""

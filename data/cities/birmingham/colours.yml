@@ -1,11 +1,11 @@
 id: 125361835
-type: way
+type: node
 latitude: 52.44293
 longitude: -1.84727
-postcode: "B28 8SX"
+postcode: B28 8SX
 city: Birmingham
-street: "Shaftmoor Lane"
-housenumber: 334
+street: Shaftmoor Lane
+housenumber: "334"
 phone: ""
 opening_hours: ""
 website: ""

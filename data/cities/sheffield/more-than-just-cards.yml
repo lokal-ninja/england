@@ -1,11 +1,11 @@
 id: 1198499806
-type: way
+type: node
 latitude: 53.46208
 longitude: -1.46849
-postcode: "S35 1SF"
+postcode: S35 1SF
 city: Sheffield
-street: "Burncross Road"
-housenumber: 30
+street: Burncross Road
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

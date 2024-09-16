@@ -1,11 +1,11 @@
 id: 58528313
-type: way
+type: node
 latitude: 52.68592
 longitude: -1.82122
-postcode: "WS13 6DZ"
+postcode: WS13 6DZ
 city: Lichfield
-street: "Church Street"
-housenumber: 
+street: Church Street
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 06:00-24:00; Su 10:00-16:00"
-website: "https://www.tesco.com/store-locator/lichfield/church-st"
+opening_hours: Mo-Sa 06:00-24:00; Su 10:00-16:00
+website: https://www.tesco.com/store-locator/lichfield/church-st

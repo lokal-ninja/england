@@ -1,11 +1,11 @@
 id: 99473954
-type: way
+type: node
 latitude: 52.56151
 longitude: -1.82443
-postcode: "B72 1PL"
+postcode: B72 1PL
 city: Sutton Coldfield
-street: "Parade"
-housenumber: 83
+street: Parade
+housenumber: "83"
 phone: ""
 opening_hours: ""
-website: "https://www.theworks.co.uk/Store?storeId=0785"
+website: https://www.theworks.co.uk/Store?storeId=0785

@@ -1,11 +1,11 @@
 id: 1307010903
-type: way
+type: node
 latitude: 52.32639
 longitude: 1.67885
-postcode: "IP18 6DP"
+postcode: IP18 6DP
 city: Southwold
-street: "High Street"
-housenumber: 96
+street: High Street
+housenumber: "96"
 phone: ""
-opening_hours: "Mo-Sa 09:30-17:00; Su 10:00-16:00"
+opening_hours: Mo-Sa 09:30-17:00; Su 10:00-16:00
 website: ""

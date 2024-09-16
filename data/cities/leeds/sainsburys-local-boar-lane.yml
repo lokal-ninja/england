@@ -2,10 +2,10 @@ id: 2125610532
 type: node
 latitude: 53.79595
 longitude: -1.54436
-postcode: "LS1 6HW"
+postcode: LS1 6HW
 city: Leeds
-street: "Boar Lane"
-housenumber: 63
+street: Boar Lane
+housenumber: "63"
 phone: ""
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://stores.sainsburys.co.uk/4282/leeds-boar-lane-local"
+opening_hours: Mo-Su 07:00-23:00
+website: https://stores.sainsburys.co.uk/4282/leeds-boar-lane-local

@@ -1,11 +1,11 @@
 id: 180930606
-type: way
+type: node
 latitude: 51.0804
 longitude: -0.80464
-postcode: "GU30 7NP"
+postcode: GU30 7NP
 city: Liphook
-street: "Headley Road"
-housenumber: 64
-phone: "+44 1428 722905"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://stores.southern.coop/hampshire/liphook/64-headley-road.html"
+street: Headley Road
+housenumber: "64"
+phone: +44 1428 722905
+opening_hours: Mo-Su 07:00-22:00
+website: https://stores.southern.coop/hampshire/liphook/64-headley-road.html

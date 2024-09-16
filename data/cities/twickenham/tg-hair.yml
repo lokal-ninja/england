@@ -1,11 +1,11 @@
 id: 350625904
-type: way
+type: node
 latitude: 51.44421
 longitude: -0.34632
-postcode: "TW2 5AH"
+postcode: TW2 5AH
 city: Twickenham
-street: "Staines Road"
-housenumber: 22
-phone: "+44 20 8894 2134"
+street: Staines Road
+housenumber: "22"
+phone: +44 20 8894 2134
 opening_hours: ""
-website: "http://www.tg-hair.co.uk/"
+website: http://www.tg-hair.co.uk/

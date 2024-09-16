@@ -1,11 +1,11 @@
 id: 1202984990
-type: way
+type: node
 latitude: 50.61099
 longitude: -2.45454
-postcode: "DT4 8HQ"
+postcode: DT4 8HQ
 city: Weymouth
-street: "Frederick Place"
-housenumber: 12
+street: Frederick Place
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

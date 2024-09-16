@@ -1,11 +1,11 @@
 id: 183088009
-type: way
+type: node
 latitude: 52.48802
 longitude: -0.70067
-postcode: "NN17 1PB"
+postcode: NN17 1PB
 city: Corby
-street: "New Post Office Square"
-housenumber: 25
+street: New Post Office Square
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

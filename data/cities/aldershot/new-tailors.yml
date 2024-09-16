@@ -1,11 +1,11 @@
 id: 1180297262
-type: way
+type: node
 latitude: 51.24953
 longitude: -0.76475
-postcode: "GU11 1EP"
+postcode: GU11 1EP
 city: Aldershot
-street: "Union Street"
-housenumber: 45
-phone: "+44 7900 920756"
+street: Union Street
+housenumber: "45"
+phone: +44 7900 920756
 opening_hours: ""
 website: ""

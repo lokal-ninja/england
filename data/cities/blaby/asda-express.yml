@@ -1,11 +1,11 @@
 id: 317109537
-type: way
+type: node
 latitude: 52.57052
 longitude: -1.16654
-postcode: "LE8 4DX"
+postcode: LE8 4DX
 city: Blaby
-street: "Lutterworth Road"
-housenumber: 77
+street: Lutterworth Road
+housenumber: "77"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://storelocator.asda.com/east-midlands/blaby/77-lutterworth-road"
+opening_hours: Mo-Su 07:00-22:00
+website: https://storelocator.asda.com/east-midlands/blaby/77-lutterworth-road

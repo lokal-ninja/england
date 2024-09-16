@@ -2,10 +2,10 @@ id: 362881272
 type: node
 latitude: 50.79324
 longitude: -1.09048
-postcode: "PO5 4HZ"
+postcode: PO5 4HZ
 city: Southsea
-street: "St James's Road"
-housenumber: 88
+street: St James's Road
+housenumber: "88"
 phone: ""
-opening_hours: "06:00-23:00"
-website: "https://www.spar.co.uk/store-locator/awl30002-spar-st-james-s-road/"
+opening_hours: 06:00-23:00
+website: https://www.spar.co.uk/store-locator/awl30002-spar-st-james-s-road/

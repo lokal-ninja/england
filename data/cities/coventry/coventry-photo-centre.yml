@@ -1,11 +1,11 @@
 id: 403543854
-type: way
+type: node
 latitude: 52.39862
 longitude: -1.53232
-postcode: "CV5 6EP"
+postcode: CV5 6EP
 city: Coventry
-street: "Earlsdon Street"
-housenumber: 43
+street: Earlsdon Street
+housenumber: "43"
 phone: ""
-opening_hours: "Mo-Sa 08:30-16:30; Su 09:00-16:00"
+opening_hours: Mo-Sa 08:30-16:30; Su 09:00-16:00
 website: ""

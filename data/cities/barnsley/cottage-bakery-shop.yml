@@ -1,11 +1,11 @@
 id: 278019675
-type: way
+type: node
 latitude: 53.53656
 longitude: -1.56029
-postcode: "S75 4PB"
+postcode: S75 4PB
 city: Barnsley
-street: "Ben Bank Road"
-housenumber: 36
+street: Ben Bank Road
+housenumber: "36"
 phone: ""
-opening_hours: "Mo-Fr 08:30-14:00; Sa 09:00-12:00"
+opening_hours: Mo-Fr 08:30-14:00; Sa 09:00-12:00
 website: ""

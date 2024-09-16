@@ -2,10 +2,10 @@ id: 10082800031
 type: node
 latitude: 53.54128
 longitude: -2.11286
-postcode: "OL1 1XF"
+postcode: OL1 1XF
 city: Oldham
-street: "Town Square Shopping Centre"
-housenumber: 24
+street: Town Square Shopping Centre
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

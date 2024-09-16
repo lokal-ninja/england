@@ -4,8 +4,8 @@ latitude: 51.41071
 longitude: 0.18249
 postcode: ""
 city: Swanley
-street: "Main Road"
-housenumber: 11
+street: Main Road
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-We 09:00-18:30; Th,Fr 10:00-20:00; Sa 09:00-17:30"
+opening_hours: Mo-We 09:00-18:30; Th,Fr 10:00-20:00; Sa 09:00-17:30
 website: ""

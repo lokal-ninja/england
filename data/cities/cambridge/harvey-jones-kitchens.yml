@@ -2,10 +2,10 @@ id: 2026726435
 type: node
 latitude: 52.20118
 longitude: 0.1254
-postcode: "CB2 1DP"
+postcode: CB2 1DP
 city: Cambridge
-street: "Regent Street"
-housenumber: 44
+street: Regent Street
+housenumber: "44"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00; Sa 10:00-17:00; PH off"
-website: "https://www.harveyjones.com/showrooms/cambridge"
+opening_hours: Mo-Fr 09:30-18:00; Sa 10:00-17:00; PH off
+website: https://www.harveyjones.com/showrooms/cambridge

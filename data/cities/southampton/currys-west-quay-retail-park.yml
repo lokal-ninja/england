@@ -1,11 +1,11 @@
 id: 191972363
-type: way
+type: node
 latitude: 50.90432
 longitude: -1.41109
-postcode: "SO15 1BA"
+postcode: SO15 1BA
 city: Southampton
-street: "West Quay Retail Park"
-housenumber: 
+street: West Quay Retail Park
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 10:30-16:30"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 10:30-16:30
 website: ""

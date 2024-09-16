@@ -1,11 +1,11 @@
 id: 201276379
-type: way
+type: node
 latitude: 53.78184
 longitude: -1.77067
-postcode: "BD5 0PX"
+postcode: BD5 0PX
 city: Bradford
-street: "Canterbury Avenue"
-housenumber: 76
+street: Canterbury Avenue
+housenumber: "76"
 phone: ""
-opening_hours: "Mo-Sa 07:00-23:00; Su 11:00-17:00"
+opening_hours: Mo-Sa 07:00-23:00; Su 11:00-17:00
 website: ""

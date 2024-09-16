@@ -1,11 +1,11 @@
 id: 1011224075
-type: way
+type: node
 latitude: 51.46406
 longitude: -0.21588
 postcode: ""
 city: London
-street: "Lacy Road"
-housenumber: 1
+street: Lacy Road
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

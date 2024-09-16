@@ -1,11 +1,11 @@
 id: 255448262
-type: way
+type: node
 latitude: 53.41866
 longitude: -2.56248
 postcode: ""
 city: Warrington
-street: "Cinnamon Lane North"
-housenumber: 
-phone: "+44 1925 354671"
-opening_hours: ""
-website: "https://www.onestop.co.uk/store/?store=37491bfe-b4bc-4c8b-a096-3acb3169bbcf"
+street: Cinnamon Lane North
+housenumber: ""
+phone: +44 1925 354671
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.onestop.co.uk/store/?store=37491bfe-b4bc-4c8b-a096-3acb3169bbcf

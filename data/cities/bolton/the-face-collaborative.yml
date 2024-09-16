@@ -1,11 +1,11 @@
 id: 698963783
-type: way
+type: node
 latitude: 53.54848
 longitude: -2.52052
-postcode: "BL5 3AH"
+postcode: BL5 3AH
 city: Bolton
-street: "Market Street"
-housenumber: 9
+street: Market Street
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

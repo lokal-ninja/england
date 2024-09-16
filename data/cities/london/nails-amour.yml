@@ -1,11 +1,11 @@
 id: 598181052
-type: way
+type: node
 latitude: 51.47366
 longitude: -0.24837
-postcode: "SW13 9LD"
+postcode: SW13 9LD
 city: London
-street: "Barnes High Street"
+street: Barnes High Street
 housenumber: 66a
-phone: "+44 20 8487 2170"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:30-19:00; Su 11:00-17:00"
+phone: +44 20 8487 2170
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:30-19:00; Su 11:00-17:00
 website: ""

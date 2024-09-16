@@ -2,10 +2,10 @@ id: 6022850206
 type: node
 latitude: 53.79745
 longitude: -1.54472
-postcode: "LS1 6AL"
+postcode: LS1 6AL
 city: Leeds
-street: "Commercial Street"
-housenumber: 21
+street: Commercial Street
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

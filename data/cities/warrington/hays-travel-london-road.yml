@@ -1,11 +1,11 @@
 id: 1207648537
-type: way
+type: node
 latitude: 53.37192
 longitude: -2.58145
-postcode: "WA4 6SG"
+postcode: WA4 6SG
 city: Warrington
-street: "London Road"
-housenumber: 41
-phone: "+44 1925 399541"
-opening_hours: "Mo-Fr 09:15-17:30; Sa 09:15-17:00; Su closed"
-website: "https://www.haystravel.co.uk/branches/stockton-heath/"
+street: London Road
+housenumber: "41"
+phone: +44 1925 399541
+opening_hours: Mo-Fr 09:15-17:30; Sa 09:15-17:00; Su closed
+website: https://www.haystravel.co.uk/branches/stockton-heath/

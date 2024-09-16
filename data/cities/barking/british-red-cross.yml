@@ -1,11 +1,11 @@
 id: 314651771
-type: way
+type: node
 latitude: 51.53682
 longitude: 0.08094
 postcode: ""
 city: Barking
-street: "Ripple Road"
-housenumber: 34
+street: Ripple Road
+housenumber: "34"
 phone: ""
 opening_hours: ""
-website: "https://www.redcross.org.uk/shop/find-a-charity-shop/barking"
+website: https://www.redcross.org.uk/shop/find-a-charity-shop/barking

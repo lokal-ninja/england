@@ -2,10 +2,10 @@ id: 8181376321
 type: node
 latitude: 51.21606
 longitude: 1.40247
-postcode: "CT14 7DP"
+postcode: CT14 7DP
 city: Deal
-street: "The Strand"
-housenumber: 61
-phone: "+44 1304 368656"
-opening_hours: "We-Sa"
-website: "https://www.pomegranatedeal.com/"
+street: The Strand
+housenumber: "61"
+phone: +44 1304 368656
+opening_hours: We-Sa
+website: https://www.pomegranatedeal.com/

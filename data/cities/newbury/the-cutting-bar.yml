@@ -1,11 +1,11 @@
 id: 304111032
-type: way
+type: node
 latitude: 51.40191
 longitude: -1.32451
-postcode: "RG14 1AA"
+postcode: RG14 1AA
 city: Newbury
-street: "Northbrook Street"
-housenumber: 101
-phone: "+44 1635 551935"
+street: Northbrook Street
+housenumber: "101"
+phone: +44 1635 551935
 opening_hours: ""
-website: "https://thecuttingbar.com/"
+website: https://thecuttingbar.com/

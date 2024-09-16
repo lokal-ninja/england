@@ -1,11 +1,11 @@
 id: 165277677
-type: way
+type: node
 latitude: 51.4769
 longitude: -0.27852
-postcode: "TW9 4AD"
+postcode: TW9 4AD
 city: Richmond
-street: "Kew Retail Park"
-housenumber: 
+street: Kew Retail Park
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su 11:00-17:00"
+opening_hours: Mo-Sa 08:00-21:00; Su 11:00-17:00
 website: ""

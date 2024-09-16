@@ -1,11 +1,11 @@
 id: 674120563
-type: way
+type: node
 latitude: 52.6278
 longitude: 1.29396
-postcode: "NR2 1QA"
+postcode: NR2 1QA
 city: Norwich
-street: "White Lion Street"
-housenumber: 9
+street: White Lion Street
+housenumber: "9"
 phone: ""
 opening_hours: ""
-website: "https://www.specsavers.co.uk/stores/norwich"
+website: https://www.specsavers.co.uk/stores/norwich

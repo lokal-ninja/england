@@ -1,11 +1,11 @@
 id: 758405123
-type: way
+type: node
 latitude: 50.92475
 longitude: -1.37574
-postcode: "SO18 1NN"
+postcode: SO18 1NN
 city: Southampton
-street: "Manor Farm Road"
-housenumber: 19
+street: Manor Farm Road
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 304529430
-type: way
+type: node
 latitude: 50.8852
 longitude: -0.92233
-postcode: "PO9 6DX"
+postcode: PO9 6DX
 city: Stansted
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "http://www.stanstedparkgardencentre.co.uk/"
+website: http://www.stanstedparkgardencentre.co.uk/

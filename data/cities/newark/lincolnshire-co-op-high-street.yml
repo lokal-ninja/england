@@ -1,11 +1,11 @@
 id: 670515496
-type: way
+type: node
 latitude: 53.14612
 longitude: -0.75767
-postcode: "NG23 7LB"
+postcode: NG23 7LB
 city: Newark
-street: "High Street"
-housenumber: 
+street: High Street
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su 10:00-16:00"
+opening_hours: Mo-Sa 07:00-22:00; Su 10:00-16:00
 website: ""

@@ -1,11 +1,11 @@
 id: 554499319
-type: way
+type: node
 latitude: 51.16082
 longitude: 0.25708
-postcode: "TN4 0PB"
+postcode: TN4 0PB
 city: Tunbridge Wells
-street: "London Road"
-housenumber: 53
+street: London Road
+housenumber: "53"
 phone: ""
 opening_hours: ""
 website: ""

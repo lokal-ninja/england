@@ -1,11 +1,11 @@
 id: 107044534
-type: way
+type: node
 latitude: 51.53567
 longitude: -0.20543
-postcode: "NW6 6NN"
+postcode: NW6 6NN
 city: London
-street: "Salusbury Road"
-housenumber: 56
+street: Salusbury Road
+housenumber: "56"
 phone: ""
 opening_hours: ""
 website: ""

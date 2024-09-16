@@ -1,11 +1,11 @@
 id: 1001833335
-type: way
+type: node
 latitude: 51.44953
 longitude: -0.23818
-postcode: "SW15 4LB"
+postcode: SW15 4LB
 city: London
-street: "Roehampton Lane"
+street: Roehampton Lane
 housenumber: 237-239
 phone: ""
-opening_hours: "24/7"
-website: "https://www.waitrose.com/find-a-store/roehampton"
+opening_hours: 24/7
+website: https://www.waitrose.com/find-a-store/roehampton

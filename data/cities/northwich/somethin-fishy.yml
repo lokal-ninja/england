@@ -1,11 +1,11 @@
 id: 757685934
-type: way
+type: node
 latitude: 53.2617
 longitude: -2.50492
-postcode: "CW9 5NT"
+postcode: CW9 5NT
 city: Northwich
-street: "Church Road"
-housenumber: 42
+street: Church Road
+housenumber: "42"
 phone: ""
 opening_hours: ""
 website: ""

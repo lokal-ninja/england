@@ -1,11 +1,11 @@
 id: 956045174
-type: way
+type: node
 latitude: 51.44489
 longitude: -0.20515
 postcode: ""
 city: London
-street: "Replingham Road"
-housenumber: 23
+street: Replingham Road
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

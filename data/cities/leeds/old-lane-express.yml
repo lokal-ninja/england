@@ -2,10 +2,10 @@ id: 272005878
 type: node
 latitude: 53.76442
 longitude: -1.56296
-postcode: "LS11 8AG"
+postcode: LS11 8AG
 city: Leeds
-street: "Old Lane"
-housenumber: 184
+street: Old Lane
+housenumber: "184"
 phone: ""
 opening_hours: ""
 website: ""

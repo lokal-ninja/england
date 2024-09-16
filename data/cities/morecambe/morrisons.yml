@@ -1,11 +1,11 @@
 id: 23472470
-type: way
+type: node
 latitude: 54.06942
 longitude: -2.87332
-postcode: "LA4 4DD"
+postcode: LA4 4DD
 city: Morecambe
-street: "Hilmore Way"
-housenumber: 
+street: Hilmore Way
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://my.morrisons.com/storefinder/74/morecambe"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://my.morrisons.com/storefinder/74/morecambe

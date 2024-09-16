@@ -2,10 +2,10 @@ id: 2313137731
 type: node
 latitude: 51.90204
 longitude: -0.39668
-postcode: "LU2 7UG"
+postcode: LU2 7UG
 city: Luton
-street: "Hitchin Road"
-housenumber: 628
+street: Hitchin Road
+housenumber: "628"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su 10:00-16:00"
-website: "https://www.coop.co.uk/store-finder/LU2-7UG/628-hitchin-road"
+opening_hours: Mo-Sa 07:00-22:00; Su 10:00-16:00
+website: https://www.coop.co.uk/store-finder/LU2-7UG/628-hitchin-road

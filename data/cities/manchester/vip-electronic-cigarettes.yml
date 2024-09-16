@@ -2,10 +2,10 @@ id: 4302895170
 type: node
 latitude: 53.4812
 longitude: -2.24758
-postcode: "M3 2BQ"
+postcode: M3 2BQ
 city: Manchester
-street: "Deansgate"
-housenumber: 101
+street: Deansgate
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 910509182
-type: way
+type: node
 latitude: 51.72247
 longitude: 0.4871
-postcode: "CM2 9QZ"
+postcode: CM2 9QZ
 city: Chelmsford
-street: "Baddow Road"
-housenumber: 
-phone: "+44 1245 353434"
-opening_hours: "24/7"
-website: "https://www.bp.com/en_gb/united-kingdom/home.html"
+street: Baddow Road
+housenumber: ""
+phone: +44 1245 353434
+opening_hours: 24/7
+website: https://www.bp.com/en_gb/united-kingdom/home.html

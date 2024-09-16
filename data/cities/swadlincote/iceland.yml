@@ -1,11 +1,11 @@
 id: 1282239206
-type: way
+type: node
 latitude: 52.77099
 longitude: -1.55556
-postcode: "DE11 9FQ"
+postcode: DE11 9FQ
 city: Swadlincote
 street: ""
-housenumber: 3
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 08:00-19:00; Sa 10:00-16:00"
+opening_hours: Mo-Sa 08:00-19:00; Sa 10:00-16:00
 website: ""

@@ -1,11 +1,11 @@
 id: 199550678
-type: way
+type: node
 latitude: 51.55622
 longitude: -0.17764
-postcode: "NW3 1QE"
+postcode: NW3 1QE
 city: London
-street: "Hampstead High Street"
-housenumber: 40
+street: Hampstead High Street
+housenumber: "40"
 phone: ""
 opening_hours: ""
 website: ""

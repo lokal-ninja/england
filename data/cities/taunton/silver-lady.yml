@@ -1,11 +1,11 @@
 id: 273301394
-type: way
+type: node
 latitude: 51.01452
 longitude: -3.09885
-postcode: "TA1 3TZ"
+postcode: TA1 3TZ
 city: Taunton
-street: "County Walk"
-housenumber: 4
+street: County Walk
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

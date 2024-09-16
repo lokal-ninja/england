@@ -2,10 +2,10 @@ id: 1312936946
 type: node
 latitude: 51.12635
 longitude: -0.01213
-postcode: "RH19 1BP"
+postcode: RH19 1BP
 city: East Grinstead
-street: "Railway Approach"
-housenumber: 28
-phone: "+44 1342 317481"
-opening_hours: "Mo,Tu,We,Fr 09:00-18:00; Th 09:00-19:00; Sa 08:00-16:00; Su 09:00-14:00"
+street: Railway Approach
+housenumber: "28"
+phone: +44 1342 317481
+opening_hours: Mo,Tu,We,Fr 09:00-18:00; Th 09:00-19:00; Sa 08:00-16:00; Su 09:00-14:00
 website: ""

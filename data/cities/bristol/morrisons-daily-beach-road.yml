@@ -1,11 +1,11 @@
 id: 276137143
-type: way
+type: node
 latitude: 51.56152
 longitude: -2.6657
-postcode: "BS35 4PQ"
+postcode: BS35 4PQ
 city: Bristol
-street: "Beach Road"
-housenumber: 103
-phone: "+44 1454 632413"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://my.morrisons.com/storefinder/65944/morrisons-daily-bristol-severn-beach"
+street: Beach Road
+housenumber: "103"
+phone: +44 1454 632413
+opening_hours: Mo-Su 06:00-22:00
+website: https://my.morrisons.com/storefinder/65944/morrisons-daily-bristol-severn-beach

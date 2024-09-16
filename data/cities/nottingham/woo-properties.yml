@@ -1,11 +1,11 @@
 id: 352173626
-type: way
+type: node
 latitude: 52.96583
 longitude: -1.11153
-postcode: "NG4 1JA"
+postcode: NG4 1JA
 city: Nottingham
-street: "Carlton Hill"
-housenumber: 376
-phone: "+44 115 987 3337"
+street: Carlton Hill
+housenumber: "376"
+phone: +44 115 987 3337
 opening_hours: ""
-website: "https://www.wooproperties.com/"
+website: https://www.wooproperties.com/

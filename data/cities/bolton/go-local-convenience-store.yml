@@ -1,11 +1,11 @@
 id: 672454114
-type: way
+type: node
 latitude: 53.54121
 longitude: -2.4077
-postcode: "BL4 9SH"
+postcode: BL4 9SH
 city: Bolton
-street: "Buckley Lane"
-housenumber: 215
+street: Buckley Lane
+housenumber: "215"
 phone: ""
 opening_hours: ""
 website: ""

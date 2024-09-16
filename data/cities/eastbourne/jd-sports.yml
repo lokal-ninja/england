@@ -1,11 +1,11 @@
 id: 1305577380
-type: way
+type: node
 latitude: 50.76911
 longitude: 0.28632
-postcode: "BN21 3NW"
+postcode: BN21 3NW
 city: Eastbourne
 street: ""
-housenumber: 
-phone: "+44 1323 720394"
-opening_hours: "Mo 10:30-16:30;Tu-Su 09:00-17:30"
-website: "https://www.jdsports.co.uk/store-locator/eastbourne/385/"
+housenumber: ""
+phone: +44 1323 720394
+opening_hours: Mo 10:30-16:30;Tu-Su 09:00-17:30
+website: https://www.jdsports.co.uk/store-locator/eastbourne/385/

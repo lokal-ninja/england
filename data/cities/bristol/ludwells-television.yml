@@ -1,11 +1,11 @@
 id: 401508493
-type: way
+type: node
 latitude: 51.4722
 longitude: -2.52477
-postcode: "BS16 3RD"
+postcode: BS16 3RD
 city: Bristol
-street: "Lodge Causeway"
-housenumber: 288
+street: Lodge Causeway
+housenumber: "288"
 phone: ""
 opening_hours: ""
 website: ""

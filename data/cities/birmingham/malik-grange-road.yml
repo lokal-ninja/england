@@ -1,11 +1,11 @@
 id: 201760650
-type: way
+type: node
 latitude: 52.43547
 longitude: -1.89555
-postcode: "B14 7RX"
+postcode: B14 7RX
 city: Birmingham
-street: "Grange Road"
-housenumber: 89
+street: Grange Road
+housenumber: "89"
 phone: ""
 opening_hours: ""
 website: ""

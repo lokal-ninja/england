@@ -2,10 +2,10 @@ id: 9746962420
 type: node
 latitude: 51.60236
 longitude: -0.05442
-postcode: "N17 0HU"
+postcode: N17 0HU
 city: London
-street: "Park Lane"
-housenumber: 267
+street: Park Lane
+housenumber: "267"
 phone: ""
 opening_hours: ""
 website: ""

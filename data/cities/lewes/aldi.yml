@@ -1,11 +1,11 @@
 id: 253110600
-type: way
+type: node
 latitude: 50.877
 longitude: 0.01631
-postcode: "BN7 2BY"
+postcode: BN7 2BY
 city: Lewes
-street: "Brooks Road"
-housenumber: 
+street: Brooks Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00; Su 10:00-16:00"
+opening_hours: Mo-Sa 08:00-22:00; Su 10:00-16:00
 website: ""

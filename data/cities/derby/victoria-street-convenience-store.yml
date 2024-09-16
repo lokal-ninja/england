@@ -1,11 +1,11 @@
 id: 116042879
-type: way
+type: node
 latitude: 52.92189
 longitude: -1.47906
-postcode: "DE1 1ES"
+postcode: DE1 1ES
 city: Derby
-street: "Victoria Street"
-housenumber: 15
-phone: "+44 1332 205133"
-opening_hours: "07:00-23:00"
-website: "https://www.premier-stores.co.uk/our-stores/victoria-street-convenience"
+street: Victoria Street
+housenumber: "15"
+phone: +44 1332 205133
+opening_hours: 07:00-23:00
+website: https://www.premier-stores.co.uk/our-stores/victoria-street-convenience

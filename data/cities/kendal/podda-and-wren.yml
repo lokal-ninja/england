@@ -1,11 +1,11 @@
 id: 425516594
-type: way
+type: node
 latitude: 54.32913
 longitude: -2.74821
-postcode: "LA9 4QQ"
+postcode: LA9 4QQ
 city: Kendal
-street: "Elephant Yard"
-housenumber: 6
+street: Elephant Yard
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 09:30-14:30; Sa 10:00-16:00"
+opening_hours: Mo-Fr 09:30-14:30; Sa 10:00-16:00
 website: ""

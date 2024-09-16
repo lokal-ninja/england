@@ -1,11 +1,11 @@
 id: 1012628451
-type: way
+type: node
 latitude: 53.3889
 longitude: -2.59682
-postcode: "WA1 1SB"
+postcode: WA1 1SB
 city: Warrington
-street: "Sankey Street"
-housenumber: 64
+street: Sankey Street
+housenumber: "64"
 phone: ""
 opening_hours: ""
 website: ""

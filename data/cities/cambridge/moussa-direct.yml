@@ -1,11 +1,11 @@
 id: 133378405
-type: way
+type: node
 latitude: 52.20997
 longitude: 0.14985
-postcode: "CB1 3EW"
+postcode: CB1 3EW
 city: Cambridge
-street: "Coldhams Road"
-housenumber: 31
+street: Coldhams Road
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

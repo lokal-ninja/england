@@ -1,11 +1,11 @@
 id: 350655745
-type: way
+type: node
 latitude: 52.70152
 longitude: 1.39878
-postcode: "NR12 8SL"
+postcode: NR12 8SL
 city: Norwich
-street: "Norwich Road"
-housenumber: 
-phone: "+44 1603 782961"
+street: Norwich Road
+housenumber: ""
+phone: +44 1603 782961
 opening_hours: ""
 website: ""

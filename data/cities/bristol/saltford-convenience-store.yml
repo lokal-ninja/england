@@ -1,11 +1,11 @@
 id: 1161666815
-type: way
+type: node
 latitude: 51.40082
 longitude: -2.45523
-postcode: "BS31 3HJ"
+postcode: BS31 3HJ
 city: Bristol
-street: "Bath Road"
-housenumber: 504
+street: Bath Road
+housenumber: "504"
 phone: ""
 opening_hours: ""
 website: ""

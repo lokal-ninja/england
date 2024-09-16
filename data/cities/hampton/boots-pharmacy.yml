@@ -1,11 +1,11 @@
 id: 60147033
-type: way
+type: node
 latitude: 51.41695
 longitude: -0.3706
-postcode: "TW12 2HZ"
+postcode: TW12 2HZ
 city: Hampton
-street: "Station Approach"
-housenumber: 3
+street: Station Approach
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://www.boots.com/stores/5740-hampton-station-approach-tw12-2hz"
+website: https://www.boots.com/stores/5740-hampton-station-approach-tw12-2hz

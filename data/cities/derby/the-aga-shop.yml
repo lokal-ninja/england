@@ -1,11 +1,11 @@
 id: 84736790
-type: way
+type: node
 latitude: 52.92614
 longitude: -1.47903
-postcode: "DE1 3DS"
+postcode: DE1 3DS
 city: Derby
-street: "Queen Street"
-housenumber: 23
+street: Queen Street
+housenumber: "23"
 phone: ""
 opening_hours: ""
-website: "http://www.aga-web.co.uk/midlands_derby.asp"
+website: http://www.aga-web.co.uk/midlands_derby.asp

@@ -1,11 +1,12 @@
 id: 490488184
-type: way
+type: node
 latitude: 51.86809
 longitude: 0.57432
-postcode: "CM77 8YJ"
+postcode: CM77 8YJ
 city: Braintree
-street: "Charter Way"
+street: Charter Way
 housenumber: Unit 8
-phone: "+44 1376 310560"
-opening_hours: "Mo-We 09:00-18:30; Th 09:00-20:00; Fr 09:00-19:00; Sa 09:00-18:30; Su 10:00-16:00"
-website: "https://www.americangolf.co.uk/stores?store=S104"
+phone: +44 1376 310560
+opening_hours: Mo-We 09:00-18:30; Th 09:00-20:00; Fr 09:00-19:00; Sa 09:00-18:30;
+    Su 10:00-16:00
+website: https://www.americangolf.co.uk/stores?store=S104

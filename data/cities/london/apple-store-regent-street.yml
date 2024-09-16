@@ -1,11 +1,11 @@
 id: 291263216
-type: way
+type: node
 latitude: 51.51439
 longitude: -0.14188
-postcode: "W1B 2EL"
+postcode: W1B 2EL
 city: London
-street: "Regent Street"
-housenumber: 235
+street: Regent Street
+housenumber: "235"
 phone: ""
 opening_hours: ""
-website: "https://www.apple.com/uk/retail/regentstreet/"
+website: https://www.apple.com/uk/retail/regentstreet/

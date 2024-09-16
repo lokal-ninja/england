@@ -1,11 +1,11 @@
 id: 669594738
-type: way
+type: node
 latitude: 51.39557
 longitude: 0.4953
-postcode: "ME2 4TJ"
+postcode: ME2 4TJ
 city: Rochester
-street: "High Street"
-housenumber: 95
-phone: "+44 1634 710837"
-opening_hours: "Mo-Sa 09:00-17:30; Su 10:00-16:00"
+street: High Street
+housenumber: "95"
+phone: +44 1634 710837
+opening_hours: Mo-Sa 09:00-17:30; Su 10:00-16:00
 website: ""

@@ -2,10 +2,10 @@ id: 11919311570
 type: node
 latitude: 51.51866
 longitude: -0.08548
-postcode: "EC2M 7LS"
+postcode: EC2M 7LS
 city: London
-street: "Eldon Street"
-housenumber: 8
+street: Eldon Street
+housenumber: "8"
 phone: "07823446552"
-opening_hours: "Mo-Fr 06:30-17:30; Sa 08:00-17:00; Su 08:00-16:00"
-website: "https://charlesartisanbread.co.uk/locations"
+opening_hours: Mo-Fr 06:30-17:30; Sa 08:00-17:00; Su 08:00-16:00
+website: https://charlesartisanbread.co.uk/locations

@@ -1,11 +1,11 @@
 id: 1108023605
-type: way
+type: node
 latitude: 51.47904
 longitude: 0.10377
-postcode: "SE18 2BG"
+postcode: SE18 2BG
 city: London
-street: "Kings Highway"
-housenumber: 94
+street: Kings Highway
+housenumber: "94"
 phone: ""
 opening_hours: ""
 website: ""

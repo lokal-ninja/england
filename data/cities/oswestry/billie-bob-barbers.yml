@@ -1,11 +1,11 @@
 id: 675884922
-type: way
+type: node
 latitude: 52.85648
 longitude: -3.05732
-postcode: "SY11 2HG"
+postcode: SY11 2HG
 city: Oswestry
-street: "Lower Brook Street"
-housenumber: 1
+street: Lower Brook Street
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

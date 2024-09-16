@@ -1,11 +1,11 @@
 id: 76040053
-type: way
+type: node
 latitude: 53.71411
 longitude: -1.47501
-postcode: "WF3 4HS"
+postcode: WF3 4HS
 city: Wakefield
-street: "Lake Lock Road"
-housenumber: 70
+street: Lake Lock Road
+housenumber: "70"
 phone: ""
 opening_hours: ""
 website: ""

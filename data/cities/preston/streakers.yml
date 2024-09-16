@@ -1,11 +1,11 @@
 id: 185543442
-type: way
+type: node
 latitude: 53.73334
 longitude: -2.61791
 postcode: ""
 city: Preston
-street: "Gregson Lane"
-housenumber: 335
-phone: "+44 1254 851999"
+street: Gregson Lane
+housenumber: "335"
+phone: +44 1254 851999
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 857571776
-type: way
+type: node
 latitude: 51.54654
 longitude: -0.1442
 postcode: ""
 city: London
-street: "Prince of Wales Road"
-housenumber: 17
+street: Prince of Wales Road
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

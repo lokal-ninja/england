@@ -1,11 +1,11 @@
 id: 169687681
-type: way
+type: node
 latitude: 53.58052
 longitude: -2.53292
-postcode: "BL6 6JS"
+postcode: BL6 6JS
 city: Bolton
-street: "Mansell Way"
-housenumber: 
+street: Mansell Way
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 06:00-00:00; Su 10:00-16:00"
-website: "https://www.tesco.com/store-locator/bolton/mansell-way"
+opening_hours: Mo-Sa 06:00-00:00; Su 10:00-16:00
+website: https://www.tesco.com/store-locator/bolton/mansell-way

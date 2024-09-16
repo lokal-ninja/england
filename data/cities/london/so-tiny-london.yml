@@ -1,11 +1,11 @@
 id: 345696148
-type: way
+type: node
 latitude: 51.51844
 longitude: -0.14026
 postcode: ""
 city: London
-street: "Great Titchfield Street"
-housenumber: 64
+street: Great Titchfield Street
+housenumber: "64"
 phone: ""
 opening_hours: ""
 website: ""

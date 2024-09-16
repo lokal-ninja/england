@@ -1,11 +1,11 @@
 id: 291687159
-type: way
+type: node
 latitude: 51.54725
 longitude: -0.14168
 postcode: ""
 city: London
-street: "Kentish Town Road"
-housenumber: 211
+street: Kentish Town Road
+housenumber: "211"
 phone: ""
 opening_hours: ""
 website: ""

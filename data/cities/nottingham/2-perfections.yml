@@ -1,11 +1,11 @@
 id: 326159703
-type: way
+type: node
 latitude: 52.99719
 longitude: -1.25639
-postcode: "NG16 2LY"
+postcode: NG16 2LY
 city: Nottingham
-street: "Main Street"
-housenumber: 56
+street: Main Street
+housenumber: "56"
 phone: ""
 opening_hours: ""
 website: ""

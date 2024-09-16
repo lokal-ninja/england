@@ -1,11 +1,11 @@
 id: 1143946978
-type: way
+type: node
 latitude: 53.38571
 longitude: -1.41002
-postcode: "S9 4QB"
+postcode: S9 4QB
 city: Sheffield
-street: "Main Road"
-housenumber: 236
+street: Main Road
+housenumber: "236"
 phone: ""
 opening_hours: ""
 website: ""

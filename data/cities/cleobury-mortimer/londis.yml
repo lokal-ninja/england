@@ -1,11 +1,11 @@
 id: 215425326
-type: way
+type: node
 latitude: 52.37846
 longitude: -2.48169
-postcode: "DY14 8BY"
+postcode: DY14 8BY
 city: Cleobury Mortimer
-street: "High Street"
-housenumber: 23
+street: High Street
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

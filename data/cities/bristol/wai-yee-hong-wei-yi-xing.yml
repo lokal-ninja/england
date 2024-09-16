@@ -1,11 +1,11 @@
 id: 422591722
-type: way
+type: node
 latitude: 51.47287
 longitude: -2.56907
-postcode: "BS5 6XX"
+postcode: BS5 6XX
 city: Bristol
-street: "Eastgate Road"
-housenumber: 
-phone: "+44 117 952 4240"
-opening_hours: "Mo-Sa 10:30-18:00, Su 11:00-17:00"
-website: "https://www.waiyeehong.com"
+street: Eastgate Road
+housenumber: ""
+phone: +44 117 952 4240
+opening_hours: Mo-Sa 10:30-18:00, Su 11:00-17:00
+website: https://www.waiyeehong.com

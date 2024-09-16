@@ -1,11 +1,11 @@
 id: 327345165
-type: way
+type: node
 latitude: 53.0171
 longitude: -1.30185
-postcode: "NG16 3GD"
+postcode: NG16 3GD
 city: Nottingham
-street: "Nottingham Road"
-housenumber: 140
+street: Nottingham Road
+housenumber: "140"
 phone: ""
 opening_hours: ""
-website: "https://www.timpson.co.uk/stores/eastwood-nottingham-road"
+website: https://www.timpson.co.uk/stores/eastwood-nottingham-road

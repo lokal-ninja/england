@@ -1,11 +1,11 @@
 id: 160282629
-type: way
+type: node
 latitude: 53.08206
 longitude: -1.57352
 postcode: ""
 city: Matlock
-street: "Market Place"
-housenumber: 27
+street: Market Place
+housenumber: "27"
 phone: ""
 opening_hours: ""
-website: "https://www.upcycledcreative.co.uk/"
+website: https://www.upcycledcreative.co.uk/

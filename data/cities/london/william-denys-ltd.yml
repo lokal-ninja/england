@@ -1,11 +1,11 @@
 id: 458057371
-type: way
+type: node
 latitude: 51.54961
 longitude: 0.00465
-postcode: "E15 1LH"
+postcode: E15 1LH
 city: London
-street: "Leytonstone Road"
-housenumber: 159
+street: Leytonstone Road
+housenumber: "159"
 phone: ""
 opening_hours: ""
 website: ""

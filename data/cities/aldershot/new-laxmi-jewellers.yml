@@ -1,11 +1,11 @@
 id: 1183912133
-type: way
+type: node
 latitude: 51.24828
 longitude: -0.76212
-postcode: "GU11 1JE"
+postcode: GU11 1JE
 city: Aldershot
-street: "Victoria Road"
-housenumber: 95
-phone: "+44 1252 299049"
-opening_hours: "Mo-Su 10:30-18:00"
-website: "https://newlaxmijewellers.com"
+street: Victoria Road
+housenumber: "95"
+phone: +44 1252 299049
+opening_hours: Mo-Su 10:30-18:00
+website: https://newlaxmijewellers.com

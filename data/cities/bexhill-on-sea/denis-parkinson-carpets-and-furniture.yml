@@ -1,11 +1,11 @@
 id: 457906251
-type: way
+type: node
 latitude: 50.85904
 longitude: 0.46298
-postcode: "TN39 5BD"
+postcode: TN39 5BD
 city: Bexhill-on-Sea
-street: "Ninfield Road"
-housenumber: 169
+street: Ninfield Road
+housenumber: "169"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:30; Sa 09:00-16:30"
+opening_hours: Mo-Fr 09:00-17:30; Sa 09:00-16:30
 website: ""

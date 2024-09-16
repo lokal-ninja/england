@@ -2,10 +2,10 @@ id: 6488024585
 type: node
 latitude: 53.80855
 longitude: -1.45453
-postcode: "LS15 7PB"
+postcode: LS15 7PB
 city: Leeds
-street: "Cross Gates Road"
-housenumber: 123
+street: Cross Gates Road
+housenumber: "123"
 phone: ""
 opening_hours: ""
 website: ""

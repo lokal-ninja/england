@@ -2,10 +2,10 @@ id: 6528610855
 type: node
 latitude: 54.04822
 longitude: -2.80533
-postcode: "LA1 1TJ"
+postcode: LA1 1TJ
 city: Lancaster
-street: "Meeting House Lane"
-housenumber: 7
+street: Meeting House Lane
+housenumber: "7"
 phone: ""
-opening_hours: "Varies. See social media"
-website: "https://www.lonewolfbakery.co.uk/"
+opening_hours: '"Varies. See social media"'
+website: https://www.lonewolfbakery.co.uk/

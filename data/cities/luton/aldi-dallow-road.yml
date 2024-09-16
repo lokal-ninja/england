@@ -1,11 +1,11 @@
 id: 240924531
-type: way
+type: node
 latitude: 51.88711
 longitude: -0.45522
-postcode: "LU1 1HJ"
+postcode: LU1 1HJ
 city: Luton
-street: "Dallow Road"
-housenumber: 
+street: Dallow Road
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

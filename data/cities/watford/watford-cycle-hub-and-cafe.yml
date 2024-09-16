@@ -1,11 +1,11 @@
 id: 96597060
-type: way
+type: node
 latitude: 51.64212
 longitude: -0.4165
-postcode: "WD18 9QD"
+postcode: WD18 9QD
 city: Watford
-street: "Chaffinch Lane"
+street: Chaffinch Lane
 housenumber: Holywell Community Centre
 phone: ""
-opening_hours: "Tu-Sa 09:00-17:00"
-website: "https://watfordcyclehub.org.uk/"
+opening_hours: Tu-Sa 09:00-17:00
+website: https://watfordcyclehub.org.uk/

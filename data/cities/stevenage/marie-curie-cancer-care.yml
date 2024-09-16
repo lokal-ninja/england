@@ -1,11 +1,11 @@
 id: 717178064
-type: way
+type: node
 latitude: 51.89287
 longitude: -0.16917
-postcode: "SG2 9SD"
+postcode: SG2 9SD
 city: Stevenage
-street: "The Hyde"
-housenumber: 27
+street: The Hyde
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

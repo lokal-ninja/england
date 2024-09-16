@@ -1,11 +1,11 @@
 id: 251407290
-type: way
+type: node
 latitude: 51.55208
 longitude: -0.29775
 postcode: ""
 city: Wembley
-street: "High Road"
-housenumber: 509
+street: High Road
+housenumber: "509"
 phone: ""
 opening_hours: ""
 website: ""

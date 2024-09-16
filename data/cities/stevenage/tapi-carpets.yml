@@ -1,11 +1,11 @@
 id: 957216914
-type: way
+type: node
 latitude: 51.89326
 longitude: -0.19846
-postcode: "SG1 1XN"
+postcode: SG1 1XN
 city: Stevenage
-street: "Roaring Meg Retail Park"
-housenumber: 
-phone: "+44 1438 905860"
-opening_hours: "Mo-Tu 09:30-20:00; We-Fr 09:30-18:00; Sa 09:00-18:00; Su 10:30-16:30"
-website: "https://www.tapi.co.uk/stores/stevenage"
+street: Roaring Meg Retail Park
+housenumber: ""
+phone: +44 1438 905860
+opening_hours: Mo-Tu 09:30-20:00; We-Fr 09:30-18:00; Sa 09:00-18:00; Su 10:30-16:30
+website: https://www.tapi.co.uk/stores/stevenage

@@ -1,11 +1,11 @@
 id: 290037624
-type: way
+type: node
 latitude: 52.59413
 longitude: -2.12898
-postcode: "WV1 1QL"
+postcode: WV1 1QL
 city: Wolverhampton
-street: "North Road"
-housenumber: 28
+street: North Road
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

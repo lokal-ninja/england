@@ -2,10 +2,10 @@ id: 1531498243
 type: node
 latitude: 51.75068
 longitude: -0.33141
-postcode: "AL1 3TG"
+postcode: AL1 3TG
 city: St Albans
-street: "Victoria Street"
-housenumber: 102
+street: Victoria Street
+housenumber: "102"
 phone: ""
-opening_hours: "Mo-Fr 08:00-14:00; Sa 08:00-12:30; Su off"
+opening_hours: Mo-Fr 08:00-14:00; Sa 08:00-12:30; Su off
 website: ""

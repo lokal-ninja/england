@@ -1,11 +1,11 @@
 id: 394983683
-type: way
+type: node
 latitude: 52.68222
 longitude: 0.94338
 postcode: ""
 city: Dereham
-street: "Wellington Road"
-housenumber: 27
+street: Wellington Road
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

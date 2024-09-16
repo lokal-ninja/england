@@ -1,11 +1,11 @@
 id: 389302393
-type: way
+type: node
 latitude: 51.16161
 longitude: -0.97236
-postcode: "GU34 2LL"
+postcode: GU34 2LL
 city: Alton
-street: "Raven Square"
-housenumber: 28
+street: Raven Square
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

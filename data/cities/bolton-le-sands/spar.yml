@@ -1,11 +1,11 @@
 id: 418740262
-type: way
+type: node
 latitude: 54.09721
 longitude: -2.80227
-postcode: "LA5 8JW"
+postcode: LA5 8JW
 city: Bolton-le-Sands
-street: "Coastal Road"
-housenumber: 160
+street: Coastal Road
+housenumber: "160"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su 08:00-19:00"
-website: "https://www.spar.co.uk/store-locator/hal29178-spar-coastal-road/"
+opening_hours: Mo-Sa 07:00-22:00; Su 08:00-19:00
+website: https://www.spar.co.uk/store-locator/hal29178-spar-coastal-road/

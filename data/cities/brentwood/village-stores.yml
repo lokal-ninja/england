@@ -1,11 +1,11 @@
 id: 583202546
-type: way
+type: node
 latitude: 51.66738
 longitude: 0.26753
-postcode: "CM14 5TS"
+postcode: CM14 5TS
 city: Brentwood
-street: "Church Road"
-housenumber: 1
+street: Church Road
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

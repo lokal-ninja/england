@@ -1,11 +1,11 @@
 id: 322731625
-type: way
+type: node
 latitude: 52.89411
 longitude: -1.26561
 postcode: ""
 city: Nottingham
-street: "Main Street"
-housenumber: 
+street: Main Street
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.ramseysonline.co.uk/"
+website: https://www.ramseysonline.co.uk/

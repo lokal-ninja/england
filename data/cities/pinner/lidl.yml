@@ -2,10 +2,10 @@ id: 1312678769
 type: node
 latitude: 51.59537
 longitude: -0.38493
-postcode: "HA5 3HZ"
+postcode: HA5 3HZ
 city: Pinner
-street: "Bridge Street"
-housenumber: 69
+street: Bridge Street
+housenumber: "69"
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00; Su 11:00-17:00"
-website: "https://www.lidl.co.uk/s/en-GB/store-finder/pinner/bridge-street-69/"
+opening_hours: Mo-Sa 08:00-22:00; Su 11:00-17:00
+website: https://www.lidl.co.uk/s/en-GB/store-finder/pinner/bridge-street-69/

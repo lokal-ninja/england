@@ -1,11 +1,11 @@
 id: 409244431
-type: way
+type: node
 latitude: 51.42726
 longitude: -0.19063
-postcode: "SW19 8LA"
+postcode: SW19 8LA
 city: London
-street: "Haydons Road"
-housenumber: 347
+street: Haydons Road
+housenumber: "347"
 phone: ""
 opening_hours: ""
 website: ""

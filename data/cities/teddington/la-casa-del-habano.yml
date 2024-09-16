@@ -1,11 +1,11 @@
 id: 707994817
-type: way
+type: node
 latitude: 51.42701
 longitude: -0.32991
-postcode: "TW11 8JD"
+postcode: TW11 8JD
 city: Teddington
-street: "High Street"
-housenumber: 76
-phone: "+44 20 8977 3793"
+street: High Street
+housenumber: "76"
+phone: +44 20 8977 3793
 opening_hours: ""
 website: ""

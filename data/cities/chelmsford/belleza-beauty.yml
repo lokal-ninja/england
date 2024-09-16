@@ -1,11 +1,11 @@
 id: 167414052
-type: way
+type: node
 latitude: 51.73372
 longitude: 0.47236
-postcode: "CM1 1XB"
+postcode: CM1 1XB
 city: Chelmsford
-street: "Exchange Way"
-housenumber: 12
-phone: "+44 1245 698363"
-opening_hours: "Mo-Sa 09:00-18:00; Su 10:30-16:30"
-website: "https://www.treatwell.co.uk/place/belleza-beauty-salon-chelmsford/"
+street: Exchange Way
+housenumber: "12"
+phone: +44 1245 698363
+opening_hours: Mo-Sa 09:00-18:00; Su 10:30-16:30
+website: https://www.treatwell.co.uk/place/belleza-beauty-salon-chelmsford/

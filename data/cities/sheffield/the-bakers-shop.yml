@@ -1,11 +1,11 @@
 id: 93159334
-type: way
+type: node
 latitude: 53.39099
 longitude: -1.49876
-postcode: "S6 3RU"
+postcode: S6 3RU
 city: Sheffield
-street: "Howard Road"
-housenumber: 163
+street: Howard Road
+housenumber: "163"
 phone: ""
 opening_hours: ""
 website: ""

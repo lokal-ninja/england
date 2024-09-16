@@ -1,11 +1,11 @@
 id: 605094712
-type: way
+type: node
 latitude: 51.80682
 longitude: -1.63687
-postcode: "OX18 4RG"
+postcode: OX18 4RG
 city: Burford
-street: "High Street"
-housenumber: 125
+street: High Street
+housenumber: "125"
 phone: ""
 opening_hours: ""
-website: "https://thedranggallery.com/"
+website: https://thedranggallery.com/

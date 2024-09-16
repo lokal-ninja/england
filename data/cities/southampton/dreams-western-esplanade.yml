@@ -1,11 +1,11 @@
 id: 191973285
-type: way
+type: node
 latitude: 50.90602
 longitude: -1.4137
-postcode: "SO15 1QJ"
+postcode: SO15 1QJ
 city: Southampton
-street: "Western Esplanade"
-housenumber: 
-phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:00-18:00; Su 11:00-17:00"
-website: ""
+street: Western Esplanade
+housenumber: ""
+phone: +44 23 8212 7809
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:00-18:00; Su 11:00-17:00
+website: https://www.dreams.co.uk/store/southampton

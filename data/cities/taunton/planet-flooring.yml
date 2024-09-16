@@ -1,11 +1,11 @@
 id: 261243667
-type: way
+type: node
 latitude: 51.01444
 longitude: -3.12233
-postcode: "TA1 5LA"
+postcode: TA1 5LA
 city: Taunton
-street: "Wellington Road"
-housenumber: 90
-phone: "+44 1823 277770"
+street: Wellington Road
+housenumber: "90"
+phone: +44 1823 277770
 opening_hours: ""
-website: "https://www.planetflooring.net/"
+website: https://www.planetflooring.net/

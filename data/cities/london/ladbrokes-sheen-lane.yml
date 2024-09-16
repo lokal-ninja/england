@@ -1,11 +1,11 @@
 id: 460102261
-type: way
+type: node
 latitude: 51.46529
 longitude: -0.26691
-postcode: "SW14 8LP"
+postcode: SW14 8LP
 city: London
-street: "Sheen Lane"
-housenumber: 78
+street: Sheen Lane
+housenumber: "78"
 phone: ""
-opening_hours: "Mo-Fr 09:30-22:00; Sa 08:30-21:00; Su 09:30-22:00"
+opening_hours: Mo-Fr 09:30-22:00; Sa 08:30-21:00; Su 09:30-22:00
 website: ""

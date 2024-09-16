@@ -1,11 +1,11 @@
 id: 148389687
-type: way
+type: node
 latitude: 53.35899
 longitude: -1.37084
-postcode: "S13 7JQ"
+postcode: S13 7JQ
 city: Sheffield
-street: "Cross Street"
-housenumber: 9
+street: Cross Street
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

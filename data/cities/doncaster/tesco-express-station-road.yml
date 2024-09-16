@@ -1,11 +1,11 @@
 id: 485023020
-type: way
+type: node
 latitude: 53.57933
 longitude: -1.00113
-postcode: "DN7 6QD"
+postcode: DN7 6QD
 city: Doncaster
-street: "Station Road"
-housenumber: 456
+street: Station Road
+housenumber: "456"
 phone: ""
-opening_hours: "Mo-Su 06:00-23:00"
+opening_hours: Mo-Su 06:00-23:00
 website: ""

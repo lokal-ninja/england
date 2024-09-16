@@ -1,11 +1,11 @@
 id: 160495080
-type: way
+type: node
 latitude: 52.20272
 longitude: -1.71746
-postcode: "CV37 0AX"
+postcode: CV37 0AX
 city: Stratford-upon-Avon
-street: "Birmingham Road"
-housenumber: 230
+street: Birmingham Road
+housenumber: "230"
 phone: ""
-opening_hours: "Mo-Su 06:00-21:00"
-website: "https://www.premier-stores.co.uk/our-stores/local-1"
+opening_hours: Mo-Su 06:00-21:00
+website: https://www.premier-stores.co.uk/our-stores/local-1

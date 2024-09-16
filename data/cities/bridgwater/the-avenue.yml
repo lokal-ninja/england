@@ -1,11 +1,11 @@
 id: 117142675
-type: way
+type: node
 latitude: 51.12869
 longitude: -3.00503
-postcode: "TA6 3BW"
+postcode: TA6 3BW
 city: Bridgwater
-street: "High Street"
-housenumber: 14
+street: High Street
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

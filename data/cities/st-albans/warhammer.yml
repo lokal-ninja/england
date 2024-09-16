@@ -2,10 +2,11 @@ id: 3595578722
 type: node
 latitude: 51.75085
 longitude: -0.34148
-postcode: "AL3 4EB"
+postcode: AL3 4EB
 city: St Albans
-street: "Heritage Close"
-housenumber: 18
-phone: "+44 1727 861193"
-opening_hours: "Mo-Tu off; We 11:00-18:00; Th 12:00-20:00; Fr 11:00-19:00; Sa 10:00-18:00; Su 11:00-17:00"
-website: "https://www.games-workshop.com/"
+street: Heritage Close
+housenumber: "18"
+phone: +44 1727 861193
+opening_hours: Mo-Tu off; We 11:00-18:00; Th 12:00-20:00; Fr 11:00-19:00; Sa 10:00-18:00;
+    Su 11:00-17:00
+website: https://www.games-workshop.com/

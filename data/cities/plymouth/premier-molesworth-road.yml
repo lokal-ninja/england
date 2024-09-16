@@ -1,11 +1,11 @@
 id: 961868893
-type: way
+type: node
 latitude: 50.37527
 longitude: -4.15901
 postcode: ""
 city: Plymouth
-street: "Molesworth Road"
-housenumber: 16
+street: Molesworth Road
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

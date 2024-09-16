@@ -1,11 +1,11 @@
 id: 201338078
-type: way
+type: node
 latitude: 51.36996
 longitude: -0.10017
 postcode: ""
 city: Croydon
-street: "High Street"
-housenumber: 110
+street: High Street
+housenumber: "110"
 phone: ""
 opening_hours: ""
 website: ""

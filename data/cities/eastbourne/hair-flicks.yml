@@ -1,11 +1,11 @@
 id: 1075549112
-type: way
+type: node
 latitude: 50.77833
 longitude: 0.29879
-postcode: "BN22 7RD"
+postcode: BN22 7RD
 city: Eastbourne
-street: "Seaside"
-housenumber: 268
+street: Seaside
+housenumber: "268"
 phone: ""
 opening_hours: ""
 website: ""

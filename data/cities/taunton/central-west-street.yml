@@ -1,11 +1,11 @@
 id: 702424590
-type: way
+type: node
 latitude: 51.04237
 longitude: -3.31329
-postcode: "TA4 2JP"
+postcode: TA4 2JP
 city: Taunton
-street: "West Street"
-housenumber: 8
+street: West Street
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 137228594
-type: way
+type: node
 latitude: 53.37412
 longitude: -1.39058
-postcode: "S13 9BL"
+postcode: S13 9BL
 city: Sheffield
-street: "Handsworth Road"
-housenumber: 265
+street: Handsworth Road
+housenumber: "265"
 phone: ""
 opening_hours: ""
 website: ""

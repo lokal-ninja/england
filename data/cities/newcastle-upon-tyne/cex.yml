@@ -2,10 +2,10 @@ id: 3325580026
 type: node
 latitude: 54.97179
 longitude: -1.61494
-postcode: "NE1 5JF"
+postcode: NE1 5JF
 city: Newcastle upon Tyne
-street: "Grainger Street"
-housenumber: 81
+street: Grainger Street
+housenumber: "81"
 phone: ""
-opening_hours: "Mo-We 09:00-19:00; Th 09:00-20:00; Fr-Sa 09:00-19:00; Su 11:00-17:00"
+opening_hours: Mo-We 09:00-19:00; Th 09:00-20:00; Fr-Sa 09:00-19:00; Su 11:00-17:00
 website: ""

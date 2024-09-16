@@ -1,11 +1,11 @@
 id: 296045523
-type: way
+type: node
 latitude: 53.46989
 longitude: -2.34876
-postcode: "M41 7TB"
+postcode: M41 7TB
 city: Trafford
-street: "Barton Dock Road"
-housenumber: 
-phone: "+44 161 672 9470"
-opening_hours: "Mo-Fr 10:00-20:00, Sa 10:00-18:00, Su 10:00-17:00"
-website: "https://www.fow.co.uk/"
+street: Barton Dock Road
+housenumber: ""
+phone: +44 161 672 9470
+opening_hours: Mo-Fr 10:00-20:00, Sa 10:00-18:00, Su 10:00-17:00
+website: https://www.fow.co.uk/

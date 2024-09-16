@@ -1,11 +1,11 @@
 id: 275961624
-type: way
+type: node
 latitude: 52.87422
 longitude: 0.48799
-postcode: "PE31 7PF"
+postcode: PE31 7PF
 city: King's Lynn
-street: "Common Road"
-housenumber: 
+street: Common Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 08:30-17:30; Sa 08:30-17:00; Su 10:00-13:00"
-website: "https://www.kc2000.co.uk/"
+opening_hours: Mo-Fr 08:30-17:30; Sa 08:30-17:00; Su 10:00-13:00
+website: https://www.kc2000.co.uk/

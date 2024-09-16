@@ -1,11 +1,11 @@
 id: 816475707
-type: way
+type: node
 latitude: 53.3534
 longitude: -2.89428
-postcode: "L19 2PA"
+postcode: L19 2PA
 city: Liverpool
-street: "Speke Road"
-housenumber: 38
+street: Speke Road
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

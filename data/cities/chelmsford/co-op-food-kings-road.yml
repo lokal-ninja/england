@@ -1,11 +1,11 @@
 id: 352677808
-type: way
+type: node
 latitude: 51.74462
 longitude: 0.45919
-postcode: "CM1 2BB"
+postcode: CM1 2BB
 city: Chelmsford
-street: "Kings Road"
-housenumber: 108
-phone: "+44 1245 353630"
-opening_hours: "Mo-Sa 06:00-22:00; Su 10:00-16:00"
-website: "https://www.chelmsfordstar.coop/store/kings-road-collect/"
+street: Kings Road
+housenumber: "108"
+phone: +44 1245 353630
+opening_hours: Mo-Sa 06:00-22:00; Su 10:00-16:00
+website: https://www.chelmsfordstar.coop/store/kings-road-collect/

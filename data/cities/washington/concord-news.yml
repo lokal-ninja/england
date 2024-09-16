@@ -2,10 +2,10 @@ id: 4045772056
 type: node
 latitude: 54.91305
 longitude: -1.52236
-postcode: "NE37 2SW"
+postcode: NE37 2SW
 city: Washington
-street: "Victoria Road"
-housenumber: 5
+street: Victoria Road
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 191430269
-type: way
+type: node
 latitude: 52.39456
 longitude: -0.72439
-postcode: "NN15 7QD"
+postcode: NN15 7QD
 city: Kettering
-street: "London Road"
-housenumber: 
+street: London Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 06:00-22:00"
+opening_hours: Mo-Su 06:00-22:00
 website: ""

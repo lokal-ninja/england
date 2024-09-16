@@ -1,11 +1,11 @@
 id: 955813335
-type: way
+type: node
 latitude: 52.07472
 longitude: -1.35584
-postcode: "OX16 1XE"
+postcode: OX16 1XE
 city: Banbury
-street: "Ferriston"
-housenumber: 68
+street: Ferriston
+housenumber: "68"
 phone: ""
 opening_hours: ""
 website: ""

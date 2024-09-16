@@ -2,10 +2,10 @@ id: 1151327597
 type: node
 latitude: 51.63325
 longitude: -0.09379
-postcode: "N21 2SA"
+postcode: N21 2SA
 city: London
-street: "Green Lanes"
-housenumber: 810
+street: Green Lanes
+housenumber: "810"
 phone: ""
 opening_hours: ""
-website: "https://www.tesco.com/store-locator/london/810-green-lanes"
+website: https://www.tesco.com/store-locator/london/810-green-lanes

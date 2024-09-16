@@ -1,11 +1,11 @@
 id: 1198113119
-type: way
+type: node
 latitude: 53.55997
 longitude: -2.64773
-postcode: "WN6 7QA"
+postcode: WN6 7QA
 city: Wigan
-street: "Beech Hill Avenue"
-housenumber: 196
+street: Beech Hill Avenue
+housenumber: "196"
 phone: ""
-opening_hours: "Mo-Sa 09:00-18:00"
+opening_hours: Mo-Sa 09:00-18:00
 website: ""

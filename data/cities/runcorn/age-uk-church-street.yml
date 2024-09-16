@@ -1,11 +1,11 @@
 id: 76770678
-type: way
+type: node
 latitude: 53.34287
 longitude: -2.73313
-postcode: "WA7 1LR"
+postcode: WA7 1LR
 city: Runcorn
-street: "Church Street"
-housenumber: 44
+street: Church Street
+housenumber: "44"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 319616231
-type: way
+type: node
 latitude: 54.18656
 longitude: -3.0882
 postcode: ""
 city: Ulverston
-street: "Priory Road"
-housenumber: 
+street: Priory Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.coop.co.uk/store-finder/LA12-9HR/priory-road"
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.coop.co.uk/store-finder/LA12-9HR/priory-road

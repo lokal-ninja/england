@@ -1,11 +1,11 @@
 id: 876047300
-type: way
+type: node
 latitude: 53.6915
 longitude: -1.30928
-postcode: "WF8 1PH"
+postcode: WF8 1PH
 city: Pontefract
-street: "Gillygate"
-housenumber: 17
+street: Gillygate
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

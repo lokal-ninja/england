@@ -1,11 +1,11 @@
 id: 460057236
-type: way
+type: node
 latitude: 53.68911
 longitude: -1.41593
-postcode: "WF6 1JG"
+postcode: WF6 1JG
 city: Normanton
-street: "Queen Elizabeth Drive"
-housenumber: 66
+street: Queen Elizabeth Drive
+housenumber: "66"
 phone: ""
 opening_hours: ""
-website: "https://stores.sainsburys.co.uk/4763/normanton-local"
+website: https://stores.sainsburys.co.uk/4763/normanton-local

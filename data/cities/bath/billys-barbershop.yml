@@ -2,10 +2,11 @@ id: 7005030666
 type: node
 latitude: 51.37179
 longitude: -2.39639
-postcode: "BA2 1LN"
+postcode: BA2 1LN
 city: Bath
-street: "Mount Road"
+street: Mount Road
 housenumber: 110c
-phone: "+44 1225 465223"
-opening_hours: "Tu 09:00-17:00; We 10:00-19:00; Th 10:30-19:00; Fr 09:00-18:00; Sa 08:30-16:00"
-website: "https://barbershopbillys.com/"
+phone: +44 1225 465223
+opening_hours: Tu 09:00-17:00; We 10:00-19:00; Th 10:30-19:00; Fr 09:00-18:00; Sa
+    08:30-16:00
+website: https://barbershopbillys.com/

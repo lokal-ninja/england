@@ -1,11 +1,11 @@
 id: 248700078
-type: way
+type: node
 latitude: 51.13218
 longitude: -2.99531
-postcode: "TA6 4AU"
+postcode: TA6 4AU
 city: Bridgwater
-street: "Bristol Road"
-housenumber: 15
+street: Bristol Road
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

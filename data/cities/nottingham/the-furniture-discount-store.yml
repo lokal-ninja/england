@@ -1,11 +1,11 @@
 id: 217459956
-type: way
+type: node
 latitude: 52.92508
 longitude: -1.20667
-postcode: "NG9 2DB"
+postcode: NG9 2DB
 city: Nottingham
-street: "Queens Road"
-housenumber: 214
+street: Queens Road
+housenumber: "214"
 phone: ""
 opening_hours: ""
 website: ""

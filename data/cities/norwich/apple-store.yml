@@ -1,11 +1,12 @@
 id: 108865992
-type: way
+type: node
 latitude: 52.62591
 longitude: 1.28961
-postcode: "NR2 1SU"
+postcode: NR2 1SU
 city: Norwich
-street: "Merchants' Hall"
+street: Merchants' Hall
 housenumber: 216-217
-phone: "+44 1603 216600"
-opening_hours: "Mo-We 09:00-18:00; Th 09:00-20:00; Fr-Sa 09:00-19:00; Su 11:00-17:00; PH 10:00-18:00"
-website: "https://www.apple.com/uk/retail/norwich/"
+phone: +44 1603 216600
+opening_hours: Mo-We 09:00-18:00; Th 09:00-20:00; Fr-Sa 09:00-19:00; Su 11:00-17:00;
+    PH 10:00-18:00
+website: https://www.apple.com/uk/retail/norwich/

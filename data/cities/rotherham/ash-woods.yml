@@ -1,11 +1,11 @@
 id: 1077804603
-type: way
+type: node
 latitude: 53.43162
 longitude: -1.3574
-postcode: "S60 1PQ"
+postcode: S60 1PQ
 city: Rotherham
-street: "Bridgegate"
-housenumber: 36
+street: Bridgegate
+housenumber: "36"
 phone: ""
 opening_hours: ""
 website: ""

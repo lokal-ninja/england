@@ -1,11 +1,11 @@
 id: 272198110
-type: way
+type: node
 latitude: 51.5138
 longitude: -0.14064
-postcode: "W1B 5AH"
+postcode: W1B 5AH
 city: London
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa,PH 10:00-20:00; Su 12:00-18:00"
-website: "https://www.liberty.co.uk/"
+opening_hours: Mo-Sa,PH 10:00-20:00; Su 12:00-18:00
+website: https://www.liberty.co.uk/

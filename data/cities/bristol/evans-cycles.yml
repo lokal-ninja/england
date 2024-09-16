@@ -1,11 +1,11 @@
 id: 123978455
-type: way
+type: node
 latitude: 51.45739
 longitude: -2.59478
-postcode: "BS1 2PY"
+postcode: BS1 2PY
 city: Bristol
-street: "Lewins Mead"
-housenumber: 
+street: Lewins Mead
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

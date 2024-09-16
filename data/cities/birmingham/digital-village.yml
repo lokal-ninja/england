@@ -1,11 +1,11 @@
 id: 117941000
-type: way
+type: node
 latitude: 52.48499
 longitude: -1.90769
-postcode: "B3 1SD"
+postcode: B3 1SD
 city: Birmingham
-street: "James Street"
-housenumber: 2
+street: James Street
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

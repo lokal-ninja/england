@@ -1,11 +1,11 @@
 id: 1218599499
-type: way
+type: node
 latitude: 53.84125
 longitude: -0.42694
-postcode: "HU17 0DJ"
+postcode: HU17 0DJ
 city: Beverley
-street: "Wednesday Market"
-housenumber: 21
-phone: "01482 873309"
+street: Wednesday Market
+housenumber: "21"
+phone: 01482 873309
 opening_hours: ""
 website: ""

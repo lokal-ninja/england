@@ -2,10 +2,10 @@ id: 9003608447
 type: node
 latitude: 50.79491
 longitude: -1.1196
-postcode: "PO12 1DS"
+postcode: PO12 1DS
 city: Gosport
-street: "High Street"
-housenumber: 93
+street: High Street
+housenumber: "93"
 phone: ""
 opening_hours: ""
 website: ""

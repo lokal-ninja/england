@@ -1,11 +1,11 @@
 id: 287795509
-type: way
+type: node
 latitude: 51.31985
 longitude: -0.55756
-postcode: "GU21 6HN"
+postcode: GU21 6HN
 city: Woking
-street: "Commercial Way"
-housenumber: 65
-phone: "+441483 399252"
+street: Commercial Way
+housenumber: "65"
+phone: +441483 399252
 opening_hours: ""
-website: "https://www.eggfreecake.co.uk/"
+website: https://www.eggfreecake.co.uk/

@@ -1,11 +1,11 @@
 id: 321282537
-type: way
+type: node
 latitude: 51.54868
 longitude: -0.0759
-postcode: "N16 8JN"
+postcode: N16 8JN
 city: London
-street: "Bradbury Street"
-housenumber: 2
+street: Bradbury Street
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

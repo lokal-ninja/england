@@ -1,11 +1,11 @@
 id: 610506999
-type: way
+type: node
 latitude: 53.46998
 longitude: -2.26412
-postcode: "M15 4EY"
+postcode: M15 4EY
 city: Manchester
-street: "Chester Road"
-housenumber: 291
+street: Chester Road
+housenumber: "291"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 484207806
-type: way
+type: node
 latitude: 50.79398
 longitude: -0.63809
-postcode: "PO22 8QL"
+postcode: PO22 8QL
 city: Felpham, Bognor Regis
-street: "Felpham Way"
-housenumber: 126
+street: Felpham Way
+housenumber: "126"
 phone: ""
-opening_hours: "06:00-23:00"
+opening_hours: 06:00-23:00
 website: ""

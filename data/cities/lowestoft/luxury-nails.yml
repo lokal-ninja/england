@@ -1,11 +1,11 @@
 id: 1314683517
-type: way
+type: node
 latitude: 52.46865
 longitude: 1.74588
-postcode: "NR33 0AZ"
+postcode: NR33 0AZ
 city: Lowestoft
-street: "London Road South"
-housenumber: 142
+street: London Road South
+housenumber: "142"
 phone: ""
-opening_hours: "Mo-Sa 09:00-18:30"
+opening_hours: Mo-Sa 09:00-18:30
 website: ""

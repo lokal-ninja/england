@@ -1,11 +1,11 @@
 id: 297025218
-type: way
+type: node
 latitude: 53.73832
 longitude: -0.49236
-postcode: "HU14 3PE"
+postcode: HU14 3PE
 city: North Ferriby
-street: "West End"
-housenumber: 14
+street: West End
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

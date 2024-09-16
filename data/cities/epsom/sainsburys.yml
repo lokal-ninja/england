@@ -1,11 +1,11 @@
 id: 4978336
-type: way
+type: node
 latitude: 51.34187
 longitude: -0.2586
-postcode: "KT17 1EQ"
+postcode: KT17 1EQ
 city: Epsom
-street: "Kiln Lane"
-housenumber: 
-phone: "+44 1372 745240"
-opening_hours: "Mo-We 07:00-22:00; Th-Fr 07:00-23:00; Sa 07:00-22:00; Su 10:00-16:00"
-website: "https://stores.sainsburys.co.uk/0683/kiln-lane"
+street: Kiln Lane
+housenumber: ""
+phone: +44 1372 745240
+opening_hours: Mo-We 07:00-22:00; Th-Fr 07:00-23:00; Sa 07:00-22:00; Su 10:00-16:00
+website: https://stores.sainsburys.co.uk/0683/kiln-lane

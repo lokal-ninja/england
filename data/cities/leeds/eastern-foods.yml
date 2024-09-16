@@ -1,11 +1,11 @@
 id: 655081528
-type: way
+type: node
 latitude: 53.81936
 longitude: -1.5147
-postcode: "LS8 4HT"
+postcode: LS8 4HT
 city: Leeds
-street: "Roundhay Road"
-housenumber: 329
+street: Roundhay Road
+housenumber: "329"
 phone: ""
 opening_hours: ""
 website: ""

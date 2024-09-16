@@ -1,11 +1,11 @@
 id: 180216409
-type: way
+type: node
 latitude: 52.32765
 longitude: -0.90382
-postcode: "NN6 9DY"
+postcode: NN6 9DY
 city: Northampton
-street: "Northampton Road"
-housenumber: 90
+street: Northampton Road
+housenumber: "90"
 phone: ""
 opening_hours: ""
 website: ""

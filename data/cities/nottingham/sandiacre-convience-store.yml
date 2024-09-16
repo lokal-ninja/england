@@ -1,11 +1,11 @@
 id: 58893069
-type: way
+type: node
 latitude: 52.92582
 longitude: -1.28768
-postcode: "NG10 5DU"
+postcode: NG10 5DU
 city: Nottingham
-street: "Town Street"
-housenumber: 71
+street: Town Street
+housenumber: "71"
 phone: ""
 opening_hours: ""
 website: ""

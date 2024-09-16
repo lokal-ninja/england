@@ -1,11 +1,11 @@
 id: 56246505
-type: way
+type: node
 latitude: 53.57375
 longitude: -2.42385
-postcode: "BL2 1HQ"
+postcode: BL2 1HQ
 city: Bolton
-street: "Manchester Road"
-housenumber: 
-phone: "+44 330 838 9452"
-opening_hours: "Mo-Sa 08:00-22:00; Su 10:30-16:30"
+street: Manchester Road
+housenumber: ""
+phone: +44 330 838 9452
+opening_hours: Mo-Sa 08:00-22:00; Su 10:30-16:30
 website: ""

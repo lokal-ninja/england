@@ -1,11 +1,11 @@
 id: 500102697
-type: way
+type: node
 latitude: 52.90548
 longitude: -1.54341
-postcode: "DE3 9GH"
+postcode: DE3 9GH
 city: Derby
-street: "Station Road"
-housenumber: 10
+street: Station Road
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

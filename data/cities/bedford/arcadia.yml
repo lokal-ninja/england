@@ -1,11 +1,11 @@
 id: 1206722773
-type: way
+type: node
 latitude: 52.13749
 longitude: -0.4677
-postcode: "MK40 1NS"
+postcode: MK40 1NS
 city: Bedford
-street: "The Arcade"
-housenumber: 11
+street: The Arcade
+housenumber: "11"
 phone: ""
 opening_hours: ""
-website: "https://arcadiasweetshop.com/"
+website: https://arcadiasweetshop.com/

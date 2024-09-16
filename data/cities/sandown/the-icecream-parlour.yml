@@ -2,10 +2,10 @@ id: 6718397257
 type: node
 latitude: 50.65272
 longitude: -1.15551
-postcode: "PO36 8JT"
+postcode: PO36 8JT
 city: Sandown
-street: "Esplanade"
-housenumber: 
+street: Esplanade
+housenumber: ""
 phone: ""
-opening_hours: "High Season: 09:00-21:00; Low Season: 10:00-17:00"
+opening_hours: '"High Season": 09:00-21:00; "Low Season": 10:00-17:00'
 website: ""

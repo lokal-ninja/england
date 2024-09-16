@@ -1,11 +1,11 @@
 id: 389394549
-type: way
+type: node
 latitude: 53.59343
 longitude: -1.62081
-postcode: "HD8 9HU"
+postcode: HD8 9HU
 city: Huddersfield
-street: "Wakefield Road"
-housenumber: 108
+street: Wakefield Road
+housenumber: "108"
 phone: ""
-opening_hours: "Mo-Su 06:00-23:00"
+opening_hours: Mo-Su 06:00-23:00
 website: ""

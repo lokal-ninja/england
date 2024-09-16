@@ -2,10 +2,10 @@ id: 4699403068
 type: node
 latitude: 51.44198
 longitude: -0.14931
-postcode: "SW12 9HR"
+postcode: SW12 9HR
 city: London
-street: "Bedford Hill"
-housenumber: 84
+street: Bedford Hill
+housenumber: "84"
 phone: ""
-opening_hours: "06:00-23:00"
+opening_hours: 06:00-23:00
 website: ""

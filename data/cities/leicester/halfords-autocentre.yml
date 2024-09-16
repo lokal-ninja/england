@@ -1,11 +1,11 @@
 id: 664651762
-type: way
+type: node
 latitude: 52.64364
 longitude: -1.14421
-postcode: "LE4 0BP"
+postcode: LE4 0BP
 city: Leicester
-street: "Littleton Street"
-housenumber: 1
-phone: "+44 116 251 5245"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su off"
-website: "https://www.halfords.com/locations/leicester-woodgate-autocentre/"
+street: Littleton Street
+housenumber: "1"
+phone: +44 116 251 5245
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su off
+website: https://www.halfords.com/locations/leicester-woodgate-autocentre/

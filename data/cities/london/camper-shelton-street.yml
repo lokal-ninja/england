@@ -1,11 +1,11 @@
 id: 232232234
-type: way
+type: node
 latitude: 51.51373
 longitude: -0.12509
-postcode: "WC2H 9HP"
+postcode: WC2H 9HP
 city: London
-street: "Shelton Street"
-housenumber: 34
+street: Shelton Street
+housenumber: "34"
 phone: ""
 opening_hours: ""
 website: ""

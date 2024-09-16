@@ -1,11 +1,11 @@
 id: 881471160
-type: way
+type: node
 latitude: 51.39454
 longitude: 0.17895
 postcode: ""
 city: Swanley
-street: "High Street"
-housenumber: 42
-phone: "+44 1322 761 118"
+street: High Street
+housenumber: "42"
+phone: +44 1322 761 118
 opening_hours: ""
-website: "https://blackivyaesthetics.com"
+website: https://blackivyaesthetics.com

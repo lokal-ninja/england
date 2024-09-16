@@ -1,11 +1,11 @@
 id: 256925930
-type: way
+type: node
 latitude: 52.8979
 longitude: -1.45803
-postcode: "DE24 8GS"
+postcode: DE24 8GS
 city: Derby
-street: "Osmaston Road"
-housenumber: 622
+street: Osmaston Road
+housenumber: "622"
 phone: ""
-opening_hours: "Mo-Sa 06:30-22:00; Su 08:00-22:00"
-website: "https://stores.centralengland.coop/derbyshire/derby/622-osmaston-road"
+opening_hours: Mo-Sa 06:30-22:00; Su 08:00-22:00
+website: https://stores.centralengland.coop/derbyshire/derby/622-osmaston-road

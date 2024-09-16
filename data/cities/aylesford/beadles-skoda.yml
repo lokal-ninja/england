@@ -1,11 +1,11 @@
 id: 55840165
-type: way
+type: node
 latitude: 51.29236
 longitude: 0.4697
-postcode: "ME20 7UB"
+postcode: ME20 7UB
 city: Aylesford
-street: "Wood Close"
-housenumber: 12
-phone: "+44 8444 701335"
+street: Wood Close
+housenumber: "12"
+phone: +44 8444 701335
 opening_hours: ""
-website: "https://www.skoda.co.uk/dealers/beadles/"
+website: https://www.skoda.co.uk/dealers/beadles/

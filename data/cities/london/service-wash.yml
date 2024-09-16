@@ -1,11 +1,11 @@
 id: 365884020
-type: way
+type: node
 latitude: 51.51337
 longitude: -0.06355
-postcode: "E1 2LL"
+postcode: E1 2LL
 city: London
-street: "Burslem Street"
-housenumber: 1
+street: Burslem Street
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

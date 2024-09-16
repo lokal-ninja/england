@@ -1,11 +1,11 @@
 id: 532907210
-type: way
+type: node
 latitude: 51.02785
 longitude: -3.08114
-postcode: "TA2 8RX"
+postcode: TA2 8RX
 city: Taunton
-street: "Crown Close"
-housenumber: 
-phone: "+44 1823 259 177"
-opening_hours: "Mo-Fr 07:30-17:30; Sa 08:30-12:00"
-website: "https://www.cef.co.uk/stores/taunton"
+street: Crown Close
+housenumber: ""
+phone: +44 1823 259 177
+opening_hours: Mo-Fr 07:30-17:30; Sa 08:30-12:00
+website: https://www.cef.co.uk/stores/taunton

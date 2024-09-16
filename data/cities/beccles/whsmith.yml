@@ -1,11 +1,11 @@
 id: 154508148
-type: way
+type: node
 latitude: 52.45726
 longitude: 1.56304
-postcode: "NR34 9HQ"
+postcode: NR34 9HQ
 city: Beccles
-street: "New Market"
-housenumber: 9
+street: New Market
+housenumber: "9"
 phone: ""
 opening_hours: ""
-website: "https://www.whsmith.co.uk/stores/details/?StoreID=1394"
+website: https://www.whsmith.co.uk/stores/details/?StoreID=1394

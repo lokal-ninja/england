@@ -1,11 +1,11 @@
 id: 72140261
-type: way
+type: node
 latitude: 51.50994
 longitude: -0.12205
-postcode: "WC2R 0DW"
+postcode: WC2R 0DW
 city: London
-street: "Strand"
-housenumber: 77
+street: Strand
+housenumber: "77"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 313558843
-type: way
+type: node
 latitude: 50.83984
 longitude: 0.46901
-postcode: "TN39 3EP"
+postcode: TN39 3EP
 city: Bexhill-on-Sea
-street: "Wickham Avenue"
-housenumber: 17
+street: Wickham Avenue
+housenumber: "17"
 phone: ""
-opening_hours: "please telephone"
+opening_hours: '"please telephone"'
 website: ""

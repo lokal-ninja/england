@@ -1,11 +1,11 @@
 id: 304278193
-type: way
+type: node
 latitude: 53.75521
 longitude: -0.39868
-postcode: "HU5 5NA"
+postcode: HU5 5NA
 city: Kingston upon Hull
-street: "County Road South"
-housenumber: 148
+street: County Road South
+housenumber: "148"
 phone: ""
 opening_hours: ""
 website: ""

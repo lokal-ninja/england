@@ -1,11 +1,11 @@
 id: 1043250937
-type: way
+type: node
 latitude: 53.38631
 longitude: -2.63799
-postcode: "WA5 2TA"
+postcode: WA5 2TA
 city: Warrington
-street: "Penketh Road"
-housenumber: 4
-phone: "+44 1925 871907"
+street: Penketh Road
+housenumber: "4"
+phone: +44 1925 871907
 opening_hours: ""
 website: ""

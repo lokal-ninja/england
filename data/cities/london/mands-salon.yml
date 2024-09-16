@@ -2,10 +2,10 @@ id: 6955053467
 type: node
 latitude: 51.54993
 longitude: -0.22037
-postcode: "NW2 4QR"
+postcode: NW2 4QR
 city: London
-street: "Walm Lane"
-housenumber: 67
+street: Walm Lane
+housenumber: "67"
 phone: ""
 opening_hours: ""
 website: ""

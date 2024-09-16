@@ -1,11 +1,11 @@
 id: 306327419
-type: way
+type: node
 latitude: 51.91816
 longitude: -2.09679
-postcode: "GL51 9NQ"
+postcode: GL51 9NQ
 city: Cheltenham
-street: "Runnings Road"
-housenumber: 
+street: Runnings Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 07:00-20:00; Sa 07:00-18:00; Su 09:00-16:00"
-website: "https://www.screwfix.com/stores/CT5/cheltenham"
+opening_hours: Mo-Fr 07:00-20:00; Sa 07:00-18:00; Su 09:00-16:00
+website: https://www.screwfix.com/stores/CT5/cheltenham

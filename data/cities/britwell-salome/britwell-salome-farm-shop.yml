@@ -1,11 +1,11 @@
 id: 1044726129
-type: way
+type: node
 latitude: 51.63371
 longitude: -1.03145
-postcode: "OX49 5LG"
+postcode: OX49 5LG
 city: Britwell Salome
 street: ""
-housenumber: 
-phone: "+44 1491 612070"
-opening_hours: "Tu-Fr 08:30-17:00; Sa 08:30-16:00; Su 09; 00-12:00"
-website: "https://www.britwellfarmshop.co.uk/"
+housenumber: ""
+phone: +44 1491 612070
+opening_hours: Tu-Fr 08:30-17:00; Sa 08:30-16:00; Su 09; 00-12:00
+website: https://www.britwellfarmshop.co.uk/

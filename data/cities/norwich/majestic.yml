@@ -1,11 +1,11 @@
 id: 121499474
-type: way
+type: node
 latitude: 52.63222
 longitude: 1.28473
-postcode: "NR2 4HX"
+postcode: NR2 4HX
 city: Norwich
-street: "Dereham Road"
-housenumber: 9
+street: Dereham Road
+housenumber: "9"
 phone: ""
 opening_hours: ""
-website: "https://www.majestic.co.uk/stores/norwich"
+website: https://www.majestic.co.uk/stores/norwich

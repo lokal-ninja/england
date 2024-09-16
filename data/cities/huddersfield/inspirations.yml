@@ -1,11 +1,11 @@
 id: 631937577
-type: way
+type: node
 latitude: 53.59167
 longitude: -1.65026
-postcode: "HD8 9DA"
+postcode: HD8 9DA
 city: Huddersfield
-street: "Commercial Road"
-housenumber: 35
-phone: "+44 1484 861018"
+street: Commercial Road
+housenumber: "35"
+phone: +44 1484 861018
 opening_hours: ""
 website: ""

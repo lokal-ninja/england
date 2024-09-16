@@ -1,11 +1,11 @@
 id: 535799340
-type: way
+type: node
 latitude: 51.4903
 longitude: -0.15423
-postcode: "SW1W 8LP"
+postcode: SW1W 8LP
 city: London
-street: "Pimlico Road"
-housenumber: 60
+street: Pimlico Road
+housenumber: "60"
 phone: ""
 opening_hours: ""
-website: "https://www.davidlinley.com/"
+website: https://www.davidlinley.com/

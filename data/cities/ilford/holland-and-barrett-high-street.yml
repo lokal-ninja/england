@@ -2,10 +2,10 @@ id: 10899713260
 type: node
 latitude: 51.5904
 longitude: 0.08198
-postcode: "IG6 2AF"
+postcode: IG6 2AF
 city: Ilford
-street: "High Street"
-housenumber: 65
+street: High Street
+housenumber: "65"
 phone: ""
 opening_hours: ""
 website: ""

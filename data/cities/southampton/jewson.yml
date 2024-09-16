@@ -1,11 +1,11 @@
 id: 161904345
-type: way
+type: node
 latitude: 50.89471
 longitude: -1.36868
 postcode: ""
 city: Southampton
-street: "St Anne's Road"
-housenumber: 51
+street: St Anne's Road
+housenumber: "51"
 phone: ""
 opening_hours: ""
-website: "https://www.jewson.co.uk/branch-finder/southampton-woolston-branch/"
+website: https://www.jewson.co.uk/branch-finder/southampton-woolston-branch/

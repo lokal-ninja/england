@@ -2,10 +2,10 @@ id: 8969269522
 type: node
 latitude: 53.2602
 longitude: 0.17529
-postcode: "LN13 9HA"
+postcode: LN13 9HA
 city: Alford
-street: "West Street"
-housenumber: 107
+street: West Street
+housenumber: "107"
 phone: ""
 opening_hours: ""
 website: ""

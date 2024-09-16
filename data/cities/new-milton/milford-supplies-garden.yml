@@ -1,11 +1,11 @@
 id: 713928418
-type: way
+type: node
 latitude: 50.75179
 longitude: -1.66854
-postcode: "BH25 6SJ"
+postcode: BH25 6SJ
 city: New Milton
-street: "Gore Road"
-housenumber: 114
+street: Gore Road
+housenumber: "114"
 phone: ""
-opening_hours: "Mo-Sa 08:30-17:15"
+opening_hours: Mo-Sa 08:30-17:15
 website: ""

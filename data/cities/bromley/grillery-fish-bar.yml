@@ -1,11 +1,11 @@
 id: 966045314
-type: way
+type: node
 latitude: 51.4119
 longitude: 0.01427
-postcode: "BR1 3PU"
+postcode: BR1 3PU
 city: Bromley
-street: "College Road"
-housenumber: 39
+street: College Road
+housenumber: "39"
 phone: ""
 opening_hours: ""
 website: ""

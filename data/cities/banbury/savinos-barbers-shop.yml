@@ -1,11 +1,11 @@
 id: 173040817
-type: way
+type: node
 latitude: 52.06394
 longitude: -1.33956
-postcode: "OX16 2ED"
+postcode: OX16 2ED
 city: Banbury
-street: "Southam Road"
-housenumber: 8
+street: Southam Road
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

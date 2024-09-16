@@ -1,11 +1,11 @@
 id: 260419922
-type: way
+type: node
 latitude: 51.3607
 longitude: -1.97899
 postcode: ""
 city: Devizes
-street: "London Road"
-housenumber: 
+street: London Road
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.jewson.co.uk/branch-finder/devizes-branch/"
+website: https://www.jewson.co.uk/branch-finder/devizes-branch/

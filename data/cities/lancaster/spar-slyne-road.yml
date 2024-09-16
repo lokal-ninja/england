@@ -1,11 +1,11 @@
 id: 385392964
-type: way
-latitude: 54.06601
-longitude: -2.80168
-postcode: "LA1 2HL"
+type: node
+latitude: 54.06593
+longitude: -2.80213
+postcode: LA1 2HL
 city: Lancaster
-street: "Slyne Road"
-housenumber: 79
+street: Slyne Road
+housenumber: "79"
 phone: ""
 opening_hours: ""
-website: "https://www.spar.co.uk/store-locator/hal12513-spar-slyne-road-lancaster/"
+website: https://www.spar.co.uk/store-locator/hal12513-spar-slyne-road-lancaster/

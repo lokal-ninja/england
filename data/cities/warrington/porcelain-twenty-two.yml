@@ -1,11 +1,11 @@
 id: 1090587619
-type: way
+type: node
 latitude: 53.38963
 longitude: -2.6119
-postcode: "WA5 1NF"
+postcode: WA5 1NF
 city: Warrington
-street: "Lovely Lane"
-housenumber: 6
-phone: "+44 7555 763894"
+street: Lovely Lane
+housenumber: "6"
+phone: +44 7555 763894
 opening_hours: ""
-website: "https://www.porcelaintwentytwo.co.uk"
+website: https://www.porcelaintwentytwo.co.uk

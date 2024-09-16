@@ -1,11 +1,11 @@
 id: 563078584
-type: way
+type: node
 latitude: 53.80996
 longitude: -1.53032
-postcode: "LS7 3AJ"
+postcode: LS7 3AJ
 city: Leeds
-street: "Roundhay Road"
-housenumber: 5
+street: Roundhay Road
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

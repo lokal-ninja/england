@@ -1,11 +1,11 @@
 id: 250584978
-type: way
+type: node
 latitude: 51.90987
 longitude: -2.11755
-postcode: "GL51 0LA"
+postcode: GL51 0LA
 city: Cheltenham
-street: "Beaumont Road"
-housenumber: 4
+street: Beaumont Road
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

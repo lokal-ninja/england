@@ -1,11 +1,11 @@
 id: 590503978
-type: way
+type: node
 latitude: 53.84392
 longitude: -1.83454
-postcode: "BD16 1EQ"
+postcode: BD16 1EQ
 city: Bingley
-street: "Ashfield Terrace"
-housenumber: 2
+street: Ashfield Terrace
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-We,Fr 08:00-18:00; Th 08:00-19:00; Sa 08:00-17:00; Su 09:00-14:00"
+opening_hours: Mo-We,Fr 08:00-18:00; Th 08:00-19:00; Sa 08:00-17:00; Su 09:00-14:00
 website: ""

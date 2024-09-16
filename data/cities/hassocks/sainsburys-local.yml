@@ -1,11 +1,11 @@
 id: 620378065
-type: way
+type: node
 latitude: 50.9243
 longitude: -0.14324
 postcode: ""
 city: Hassocks
-street: "Keymer Road"
-housenumber: 
-phone: "+44 1273 842430"
-opening_hours: "07:00-23:00"
-website: "https://stores.sainsburys.co.uk/4306/hassocks-keymer-road-local"
+street: Keymer Road
+housenumber: ""
+phone: +44 1273 842430
+opening_hours: 07:00-23:00
+website: https://stores.sainsburys.co.uk/4306/hassocks-keymer-road-local

@@ -1,11 +1,11 @@
 id: 4380265
-type: way
+type: node
 latitude: 51.47999
 longitude: 0.28399
-postcode: "RM20 3WJ"
+postcode: RM20 3WJ
 city: West Thurrock
-street: "Heron Way"
-housenumber: 
-phone: "+44 845 355 2262"
-opening_hours: "Mo-Fr 10:00-22:00; Sa 09:00-22:00; Su 11:00-17:00; PH 10:00-20:00"
+street: Heron Way
+housenumber: ""
+phone: +44 845 355 2262
+opening_hours: Mo-Fr 10:00-22:00; Sa 09:00-22:00; Su 11:00-17:00; PH 10:00-20:00
 website: ""

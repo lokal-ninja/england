@@ -2,10 +2,11 @@ id: 3595488329
 type: node
 latitude: 51.75215
 longitude: -0.34044
-postcode: "AL3 5DQ"
+postcode: AL3 5DQ
 city: St Albans
-street: "Christopher Place"
-housenumber: 19
-phone: "+44 1727 838909"
-opening_hours: "Mo-Tu 09:00-18:00; We-Th 09:30-20:30; Fr 08:15-18:00; Sa 08:00-17:30; Su off"
-website: "https://www.greyshairdressing.co.uk/"
+street: Christopher Place
+housenumber: "19"
+phone: +44 1727 838909
+opening_hours: Mo-Tu 09:00-18:00; We-Th 09:30-20:30; Fr 08:15-18:00; Sa 08:00-17:30;
+    Su off
+website: https://www.greyshairdressing.co.uk/

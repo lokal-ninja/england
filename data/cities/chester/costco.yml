@@ -1,11 +1,11 @@
 id: 256764284
-type: way
+type: node
 latitude: 53.24612
 longitude: -2.9332
-postcode: "CH1 6LT"
+postcode: CH1 6LT
 city: Chester
-street: "Chester Gates"
-housenumber: 
+street: Chester Gates
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:30-19:00; Su 11:00-17:00"
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:30-19:00; Su 11:00-17:00
 website: ""

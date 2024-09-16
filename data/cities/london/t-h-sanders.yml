@@ -1,11 +1,11 @@
 id: 460420110
-type: way
+type: node
 latitude: 51.46404
 longitude: -0.2708
-postcode: "SW14 7PR"
+postcode: SW14 7PR
 city: London
-street: "Upper Richmond Road West"
-housenumber: 447
-phone: "+44 20 8876 4673"
-opening_hours: "Mo-Fr 9:00-17:00"
+street: Upper Richmond Road West
+housenumber: "447"
+phone: +44 20 8876 4673
+opening_hours: Mo-Fr 9:00-17:00
 website: ""

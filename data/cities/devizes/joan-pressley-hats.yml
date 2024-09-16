@@ -1,11 +1,11 @@
 id: 262019649
-type: way
+type: node
 latitude: 51.35171
 longitude: -1.99487
 postcode: ""
 city: Devizes
-street: "St Johns Alley"
-housenumber: 2
+street: St Johns Alley
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

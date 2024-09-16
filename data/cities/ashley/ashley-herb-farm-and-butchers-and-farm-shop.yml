@@ -1,11 +1,11 @@
 id: 351498043
-type: way
+type: node
 latitude: 52.51131
 longitude: -0.82627
-postcode: "LE16 8HG"
+postcode: LE16 8HG
 city: Ashley
-street: "Main Street"
-housenumber: 47
+street: Main Street
+housenumber: "47"
 phone: ""
 opening_hours: ""
 website: ""

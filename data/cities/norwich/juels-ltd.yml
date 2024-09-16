@@ -2,10 +2,10 @@ id: 10315379888
 type: node
 latitude: 52.62922
 longitude: 1.29512
-postcode: "NR2 1LD"
+postcode: NR2 1LD
 city: Norwich
-street: "London Street"
-housenumber: 32
+street: London Street
+housenumber: "32"
 phone: ""
 opening_hours: ""
-website: "https://juelslimited.co.uk/"
+website: https://juelslimited.co.uk/

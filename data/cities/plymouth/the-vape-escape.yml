@@ -1,11 +1,11 @@
 id: 1246468483
-type: way
+type: node
 latitude: 50.36007
 longitude: -4.09177
-postcode: "PL9 7AX"
+postcode: PL9 7AX
 city: Plymouth
-street: "The Broadway"
-housenumber: 21
+street: The Broadway
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Sa 08:30-17:30, Su 10:00-16:00"
-website: "https://thevapeescape.co.uk/"
+opening_hours: Mo-Sa 08:30-17:30, Su 10:00-16:00
+website: https://thevapeescape.co.uk/

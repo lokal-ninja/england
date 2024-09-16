@@ -1,11 +1,11 @@
 id: 161710614
-type: way
+type: node
 latitude: 51.51815
 longitude: -0.10302
-postcode: "EC1A 9LA"
+postcode: EC1A 9LA
 city: London
-street: "Smithfield Street"
-housenumber: 10
+street: Smithfield Street
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Su 06:00-23:00"
+opening_hours: Mo-Su 06:00-23:00
 website: ""

@@ -1,11 +1,11 @@
 id: 741697111
-type: way
+type: node
 latitude: 53.23073
 longitude: -0.53948
-postcode: "LN2 1JG"
+postcode: LN2 1JG
 city: Lincoln
-street: "High Street"
-housenumber: 279
+street: High Street
+housenumber: "279"
 phone: ""
 opening_hours: ""
-website: "https://www.redcross.org.uk/shop/find-a-charity-shop/lincoln"
+website: https://www.redcross.org.uk/shop/find-a-charity-shop/lincoln

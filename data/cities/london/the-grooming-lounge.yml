@@ -1,11 +1,11 @@
 id: 146989369
-type: way
+type: node
 latitude: 51.51938
 longitude: -0.09927
-postcode: "EC1A 9EJ"
+postcode: EC1A 9EJ
 city: London
-street: "Long Lane"
-housenumber: 69
+street: Long Lane
+housenumber: "69"
 phone: ""
 opening_hours: ""
 website: ""

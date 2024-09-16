@@ -1,11 +1,11 @@
 id: 788039936
-type: way
+type: node
 latitude: 52.26492
 longitude: -0.75245
-postcode: "NN6 0NA"
+postcode: NN6 0NA
 city: Earls Barton
-street: "The Square"
-housenumber: 37
+street: The Square
+housenumber: "37"
 phone: ""
 opening_hours: ""
 website: ""

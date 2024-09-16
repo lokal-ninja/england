@@ -1,11 +1,11 @@
 id: 405875142
-type: way
+type: node
 latitude: 51.44059
 longitude: -2.55508
-postcode: "BS4 3PH"
+postcode: BS4 3PH
 city: Bristol
-street: "Sandy Park Road"
-housenumber: 47
+street: Sandy Park Road
+housenumber: "47"
 phone: ""
 opening_hours: ""
 website: ""

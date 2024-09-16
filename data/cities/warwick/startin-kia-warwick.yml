@@ -1,11 +1,11 @@
 id: 333663420
-type: way
+type: node
 latitude: 52.27129
 longitude: -1.55713
-postcode: "CV34 6SP"
+postcode: CV34 6SP
 city: Warwick
-street: "Heathcote Lane"
-housenumber: 
+street: Heathcote Lane
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.startingroup.co.uk/kia/"
+website: https://www.startingroup.co.uk/kia/

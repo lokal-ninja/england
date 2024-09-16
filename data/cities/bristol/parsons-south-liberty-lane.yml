@@ -1,11 +1,11 @@
 id: 402545056
-type: way
+type: node
 latitude: 51.43005
 longitude: -2.62163
-postcode: "BS3 2SZ"
+postcode: BS3 2SZ
 city: Bristol
-street: "South Liberty Lane"
-housenumber: 105
+street: South Liberty Lane
+housenumber: "105"
 phone: ""
 opening_hours: ""
 website: ""

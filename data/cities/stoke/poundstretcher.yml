@@ -1,11 +1,11 @@
 id: 324499264
-type: way
+type: node
 latitude: 53.00345
 longitude: -2.18689
-postcode: "ST4 1NF"
+postcode: ST4 1NF
 city: Stoke
-street: "Hide Street"
-housenumber: 5
+street: Hide Street
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://www.poundstretcher.co.uk/stoke-120"
+website: https://www.poundstretcher.co.uk/stoke-120

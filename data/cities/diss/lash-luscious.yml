@@ -2,10 +2,11 @@ id: 7033761071
 type: node
 latitude: 52.37571
 longitude: 1.10992
-postcode: "IP22 4AP"
+postcode: IP22 4AP
 city: Diss
-street: "Wills Yard"
-housenumber: 4
-phone: "+44 1379 641309"
-opening_hours: "Mo 09:00-20:30; Tu-We 09:00-18:00; Th 09:00-20:30; Fr 09:00-18:00; Sa 09:00-15:00"
-website: "https://lashluscious.co.uk/"
+street: Wills Yard
+housenumber: "4"
+phone: +44 1379 641309
+opening_hours: Mo 09:00-20:30; Tu-We 09:00-18:00; Th 09:00-20:30; Fr 09:00-18:00;
+    Sa 09:00-15:00
+website: https://lashluscious.co.uk/

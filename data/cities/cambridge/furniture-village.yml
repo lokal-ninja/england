@@ -1,11 +1,11 @@
 id: 42232570
-type: way
+type: node
 latitude: 52.20952
 longitude: 0.14636
-postcode: "CB5 8WR"
+postcode: CB5 8WR
 city: Cambridge
-street: "Cambridge Retail Park"
-housenumber: 
+street: Cambridge Retail Park
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 09:30-20:00; Sa 09:00-18:00; Su 11:00-17:00"
+opening_hours: Mo-Fr 09:30-20:00; Sa 09:00-18:00; Su 11:00-17:00
 website: ""

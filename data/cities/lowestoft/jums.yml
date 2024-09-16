@@ -1,11 +1,11 @@
 id: 1103327956
-type: way
+type: node
 latitude: 52.47524
 longitude: 1.74982
-postcode: "NR32 2AQ"
+postcode: NR32 2AQ
 city: Lowestoft
-street: "Bevan Street East"
-housenumber: 123
+street: Bevan Street East
+housenumber: "123"
 phone: ""
-opening_hours: "Mo-Su 10:00-19:00"
+opening_hours: Mo-Su 10:00-19:00
 website: ""

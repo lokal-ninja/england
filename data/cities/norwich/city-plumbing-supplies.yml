@@ -1,11 +1,11 @@
 id: 638271974
-type: way
+type: node
 latitude: 52.60362
 longitude: 1.28766
-postcode: "NR4 6DG"
+postcode: NR4 6DG
 city: Norwich
-street: "Hall Road"
-housenumber: 46
-phone: "+44 1603 674250"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-12:00; Su off"
-website: "https://www.cityplumbing.co.uk/branch/2134"
+street: Hall Road
+housenumber: "46"
+phone: +44 1603 674250
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-12:00; Su off
+website: https://www.cityplumbing.co.uk/branch/2134

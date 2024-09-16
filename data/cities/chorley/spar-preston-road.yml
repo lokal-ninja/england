@@ -1,11 +1,11 @@
 id: 586095678
-type: way
+type: node
 latitude: 53.67663
 longitude: -2.6357
-postcode: "PR6 7PG"
+postcode: PR6 7PG
 city: Chorley
-street: "Preston Road"
-housenumber: 65
+street: Preston Road
+housenumber: "65"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.spar.co.uk/store-locator/hal26118-spar-mercury-chorley/"
+opening_hours: 24/7
+website: https://www.spar.co.uk/store-locator/hal26118-spar-mercury-chorley/

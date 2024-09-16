@@ -1,11 +1,11 @@
 id: 1109765863
-type: way
+type: node
 latitude: 51.4678
 longitude: -0.22255
 postcode: ""
 city: London
-street: "Lower Richmond Road"
-housenumber: 133
+street: Lower Richmond Road
+housenumber: "133"
 phone: ""
 opening_hours: ""
 website: ""

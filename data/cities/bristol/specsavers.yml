@@ -1,11 +1,11 @@
 id: 376308050
-type: way
+type: node
 latitude: 51.43395
 longitude: -2.56794
-postcode: "BS4 2RA"
+postcode: BS4 2RA
 city: Bristol
-street: "Broad Walk"
-housenumber: 17
+street: Broad Walk
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:30; Sa,Su 09:00-17:00"
+opening_hours: Mo-Fr 09:00-17:30; Sa,Su 09:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 926721122
-type: way
+type: node
 latitude: 50.37164
 longitude: -4.1419
-postcode: "PL1 1RL"
+postcode: PL1 1RL
 city: Plymouth
-street: "New George Street"
-housenumber: 42
+street: New George Street
+housenumber: "42"
 phone: ""
 opening_hours: ""
-website: "https://www.yoursclothing.co.uk/store-finder/plus-size-plymouth-125"
+website: https://www.yoursclothing.co.uk/store-finder/plus-size-plymouth-125

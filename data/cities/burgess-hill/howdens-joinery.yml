@@ -1,11 +1,11 @@
 id: 505623886
-type: way
+type: node
 latitude: 50.95549
 longitude: -0.14274
-postcode: "RH15 9NF"
+postcode: RH15 9NF
 city: Burgess Hill
-street: "Victoria Way"
-housenumber: 18
+street: Victoria Way
+housenumber: "18"
 phone: ""
 opening_hours: ""
-website: "https://www.howdens.com/find-a-depot/burgess-hill"
+website: https://www.howdens.com/find-a-depot/burgess-hill

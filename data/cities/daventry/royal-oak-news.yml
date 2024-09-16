@@ -1,11 +1,11 @@
 id: 936526636
-type: way
+type: node
 latitude: 52.25978
 longitude: -1.17112
-postcode: "NN11 9EY"
+postcode: NN11 9EY
 city: Daventry
-street: "Western Avenue"
-housenumber: 2
+street: Western Avenue
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 158279801
-type: way
+type: node
 latitude: 54.47062
 longitude: -0.5996
-postcode: "YO22 4NL"
+postcode: YO22 4NL
 city: Whitby
-street: "Fairfield Way"
-housenumber: 
-phone: "+44 330 838 9649"
-opening_hours: "Mo-Sa 08:00-21:00; Su 10:00-16:00"
+street: Fairfield Way
+housenumber: ""
+phone: +44 330 838 9649
+opening_hours: Mo-Sa 08:00-21:00; Su 10:00-16:00
 website: ""

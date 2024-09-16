@@ -1,11 +1,11 @@
 id: 910955652
-type: way
+type: node
 latitude: 50.95527
 longitude: -0.13229
-postcode: "RH15 9NN"
+postcode: RH15 9NN
 city: Burgess Hill
-street: "The Martlets"
-housenumber: 53
+street: The Martlets
+housenumber: "53"
 phone: ""
 opening_hours: ""
 website: ""

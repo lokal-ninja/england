@@ -1,11 +1,11 @@
 id: 33812011
-type: way
+type: node
 latitude: 52.60937
 longitude: 1.29364
-postcode: "NR4 6DH"
+postcode: NR4 6DH
 city: Norwich
-street: "Hall Road"
-housenumber: 
-phone: "+44 1603 767717"
-opening_hours: "Mo-Fr 09:00-20:00; We,Sa 09:00-1:00; Su 10:30-16:30"
-website: "https://www.hughes.co.uk/store-page/norwich-hall-road"
+street: Hall Road
+housenumber: ""
+phone: +44 1603 767717
+opening_hours: Mo-Fr 09:00-20:00; We,Sa 09:00-1:00; Su 10:30-16:30
+website: https://www.hughes.co.uk/store-page/norwich-hall-road

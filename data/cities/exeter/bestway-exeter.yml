@@ -1,11 +1,11 @@
 id: 150619385
-type: way
+type: node
 latitude: 50.69714
 longitude: -3.51569
-postcode: "EX2 8LB"
+postcode: EX2 8LB
 city: Exeter
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 10:00-16:00"
+opening_hours: Mo-Fr 10:00-16:00
 website: ""

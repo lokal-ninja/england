@@ -1,11 +1,11 @@
 id: 273180108
-type: way
+type: node
 latitude: 51.52586
 longitude: -0.07187
-postcode: "E2 7EB"
+postcode: E2 7EB
 city: London
-street: "Brick Lane"
-housenumber: 240
+street: Brick Lane
+housenumber: "240"
 phone: ""
 opening_hours: ""
 website: ""

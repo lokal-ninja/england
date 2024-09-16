@@ -1,11 +1,11 @@
 id: 52078909
-type: way
+type: node
 latitude: 52.92716
 longitude: -1.27897
-postcode: "NG9 7AS"
+postcode: NG9 7AS
 city: Nottingham
-street: "Derby Road"
-housenumber: 111
+street: Derby Road
+housenumber: "111"
 phone: ""
 opening_hours: ""
-website: "https://stores.sainsburys.co.uk/4812/stapleford-derby-road-local"
+website: https://stores.sainsburys.co.uk/4812/stapleford-derby-road-local

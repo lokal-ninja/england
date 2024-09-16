@@ -2,10 +2,10 @@ id: 488443291
 type: node
 latitude: 51.51424
 longitude: -0.09969
-postcode: "EC4M 8BU"
+postcode: EC4M 8BU
 city: London
-street: "Saint Paul's Church Yard"
-housenumber: 100
+street: Saint Paul's Church Yard
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 423681605
-type: way
+type: node
 latitude: 51.42887
 longitude: -0.35365
-postcode: "TW12 1JG"
+postcode: TW12 1JG
 city: Hampton Hill
-street: "New Broadway, Hampton Road"
-housenumber: 3
+street: New Broadway, Hampton Road
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 275353327
-type: way
+type: node
 latitude: 53.52531
 longitude: -1.63122
-postcode: "S36 6BZ"
+postcode: S36 6BZ
 city: Sheffield
-street: "Market Street"
-housenumber: 26
-phone: "+44 1226 762225"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.coop.co.uk/store-finder/S36-6BZ/26-market-street"
+street: Market Street
+housenumber: "26"
+phone: +44 1226 762225
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.coop.co.uk/store-finder/S36-6BZ/26-market-street

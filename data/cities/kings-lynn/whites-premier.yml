@@ -2,10 +2,10 @@ id: 5165835799
 type: node
 latitude: 52.74814
 longitude: 0.40288
-postcode: "PE30 5QE"
+postcode: PE30 5QE
 city: King's Lynn
-street: "London Road"
-housenumber: 32
+street: London Road
+housenumber: "32"
 phone: ""
 opening_hours: ""
-website: "https://www.premier-stores.co.uk/our-stores/whites"
+website: https://www.premier-stores.co.uk/our-stores/whites

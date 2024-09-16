@@ -1,11 +1,11 @@
 id: 1215482151
-type: way
+type: node
 latitude: 50.74706
 longitude: -1.82442
-postcode: "BH7 7DP"
+postcode: BH7 7DP
 city: Bournemouth
-street: "Castle Lane East"
-housenumber: 771
+street: Castle Lane East
+housenumber: "771"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.budgens.co.uk/our-stores/spur-end"
+opening_hours: 24/7
+website: https://www.budgens.co.uk/our-stores/spur-end

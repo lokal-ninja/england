@@ -2,10 +2,10 @@ id: 6345933555
 type: node
 latitude: 51.63533
 longitude: -0.09397
-postcode: "N21 2QP"
+postcode: N21 2QP
 city: London
-street: "Green Lanes"
-housenumber: 889
-phone: "+44 20 8360 3373"
+street: Green Lanes
+housenumber: "889"
+phone: +44 20 8360 3373
 opening_hours: ""
-website: "https://www.waitrose.com/find-a-store/winchmore-hill"
+website: https://www.waitrose.com/find-a-store/winchmore-hill

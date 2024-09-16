@@ -1,11 +1,11 @@
 id: 460392159
-type: way
+type: node
 latitude: 51.42206
 longitude: -0.20853
-postcode: "SW19 7PA"
+postcode: SW19 7PA
 city: London
-street: "Wimbledon Hill Road"
-housenumber: 30
+street: Wimbledon Hill Road
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00; Su 11:00-17:00"
-website: "https://www.healthzoneclinic.co.uk/"
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-18:00; Su 11:00-17:00
+website: https://www.healthzoneclinic.co.uk/

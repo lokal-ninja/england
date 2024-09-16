@@ -1,11 +1,11 @@
 id: 806811009
-type: way
+type: node
 latitude: 51.47766
 longitude: -0.12323
-postcode: "SW8 1XW"
+postcode: SW8 1XW
 city: London
-street: "South Lambeth Road"
-housenumber: 163
+street: South Lambeth Road
+housenumber: "163"
 phone: ""
 opening_hours: ""
 website: ""

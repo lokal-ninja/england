@@ -1,11 +1,11 @@
 id: 61740629
-type: way
+type: node
 latitude: 53.71195
 longitude: -1.50027
-postcode: "WF1 2LU"
+postcode: WF1 2LU
 city: Wakefield
-street: "Leeds Road"
-housenumber: 623
+street: Leeds Road
+housenumber: "623"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.premier-stores.co.uk/our-stores/outwood-express"
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.premier-stores.co.uk/our-stores/outwood-express

@@ -1,11 +1,11 @@
 id: 1279924193
-type: way
+type: node
 latitude: 52.03016
 longitude: 0.75562
-postcode: "CO10 0EU"
+postcode: CO10 0EU
 city: Sudbury
-street: "The Drift"
-housenumber: 
+street: The Drift
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.eastofengland.coop/foodstores/great-cornard"
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.eastofengland.coop/foodstores/great-cornard

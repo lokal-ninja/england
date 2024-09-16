@@ -1,11 +1,11 @@
 id: 218288155
-type: way
+type: node
 latitude: 52.75553
 longitude: 0.39831
-postcode: "PE30 1AN"
+postcode: PE30 1AN
 city: King's Lynn
-street: "Norfolk Street"
-housenumber: 24
+street: Norfolk Street
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

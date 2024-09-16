@@ -1,11 +1,11 @@
 id: 384838389
-type: way
+type: node
 latitude: 52.45318
 longitude: -2.15609
-postcode: "DY8 3XS"
+postcode: DY8 3XS
 city: Stourbridge
-street: "Clifton Street"
-housenumber: 49
+street: Clifton Street
+housenumber: "49"
 phone: ""
 opening_hours: ""
 website: ""

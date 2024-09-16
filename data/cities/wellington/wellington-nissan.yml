@@ -1,11 +1,11 @@
 id: 241980404
-type: way
+type: node
 latitude: 50.9824
 longitude: -3.20553
-postcode: "TA21 9JE"
+postcode: TA21 9JE
 city: Wellington
-street: "Summerfield Way"
-housenumber: 
-phone: "+44 1823 667511"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:30-17:00; Su 10:00-16:00"
-website: "https://www.southwestnissan.co.uk/"
+street: Summerfield Way
+housenumber: ""
+phone: +44 1823 667511
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:30-17:00; Su 10:00-16:00
+website: https://www.southwestnissan.co.uk/

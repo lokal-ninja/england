@@ -1,11 +1,11 @@
 id: 135037195
-type: way
+type: node
 latitude: 52.20115
 longitude: 0.13419
-postcode: "CB1 2AD"
+postcode: CB1 2AD
 city: Cambridge
-street: "Mill Road"
-housenumber: 30
+street: Mill Road
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

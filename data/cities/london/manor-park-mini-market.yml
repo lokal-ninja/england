@@ -1,11 +1,11 @@
 id: 986625289
-type: way
+type: node
 latitude: 51.54989
 longitude: 0.04469
-postcode: "E12 5AD"
+postcode: E12 5AD
 city: London
-street: "Romford Road"
-housenumber: 631
+street: Romford Road
+housenumber: "631"
 phone: ""
 opening_hours: ""
 website: ""

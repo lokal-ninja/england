@@ -2,10 +2,10 @@ id: 10280308617
 type: node
 latitude: 51.46738
 longitude: 0.00745
-postcode: "SE3 0TL"
+postcode: SE3 0TL
 city: London
-street: "Royal Parade"
-housenumber: 14
+street: Royal Parade
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

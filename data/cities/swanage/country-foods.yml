@@ -1,11 +1,11 @@
 id: 854270571
-type: way
+type: node
 latitude: 50.60939
 longitude: -1.95795
-postcode: "BH19 1AB"
+postcode: BH19 1AB
 city: Swanage
-street: "Station Road"
-housenumber: 15
+street: Station Road
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

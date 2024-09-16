@@ -1,11 +1,11 @@
 id: 963706288
-type: way
+type: node
 latitude: 51.76062
 longitude: 0.47317
-postcode: "CM1 7DJ"
+postcode: CM1 7DJ
 city: Chelmsford
-street: "Main Road"
-housenumber: 157
-phone: "+44 1245 443330"
-opening_hours: "Mo-Sa 08:00-17:30; Su off"
-website: "https://broomfield-tyres-ltd.business.site/"
+street: Main Road
+housenumber: "157"
+phone: +44 1245 443330
+opening_hours: Mo-Sa 08:00-17:30; Su off
+website: https://broomfield-tyres-ltd.business.site/

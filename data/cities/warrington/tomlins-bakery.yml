@@ -1,11 +1,11 @@
 id: 1256750867
-type: way
+type: node
 latitude: 53.39995
 longitude: -2.58567
-postcode: "WA2 7QB"
+postcode: WA2 7QB
 city: Warrington
-street: "Synge Street"
-housenumber: 16
+street: Synge Street
+housenumber: "16"
 phone: ""
-opening_hours: "Tu-Fr 09:00-15:30; Sa 09:00-14:00"
+opening_hours: Tu-Fr 09:00-15:30; Sa 09:00-14:00
 website: ""

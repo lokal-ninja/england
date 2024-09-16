@@ -1,11 +1,11 @@
 id: 462437688
-type: way
+type: node
 latitude: 52.6288
 longitude: -1.14898
-postcode: "LE3 0BR"
+postcode: LE3 0BR
 city: Leicester
-street: "Narborough Road"
-housenumber: 62
+street: Narborough Road
+housenumber: "62"
 phone: ""
 opening_hours: ""
 website: ""

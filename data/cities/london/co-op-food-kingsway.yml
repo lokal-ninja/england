@@ -1,11 +1,11 @@
 id: 670990648
-type: way
+type: node
 latitude: 51.51393
 longitude: -0.11774
-postcode: "WC2B 6LH"
+postcode: WC2B 6LH
 city: London
-street: "Kingsway"
-housenumber: 18
+street: Kingsway
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.coop.co.uk/store-finder/WC2B-6LH/18-kingsway"
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.coop.co.uk/store-finder/WC2B-6LH/18-kingsway

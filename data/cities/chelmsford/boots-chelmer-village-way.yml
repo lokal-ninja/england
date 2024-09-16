@@ -1,11 +1,11 @@
 id: 281935524
-type: way
+type: node
 latitude: 51.7322
 longitude: 0.49592
-postcode: "CM2 6XE"
+postcode: CM2 6XE
 city: Chelmsford
-street: "Chelmer Village Way"
-housenumber: 4
-phone: "+44 1245 349986"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:30-16:30"
-website: "https://www.boots.com/stores/6553-chelmsford-chelmer-vill-cm2-6xe"
+street: Chelmer Village Way
+housenumber: "4"
+phone: +44 1245 349986
+opening_hours: Mo-Sa 09:00-20:00; Su 10:30-16:30
+website: https://www.boots.com/stores/6553-chelmsford-chelmer-vill-cm2-6xe

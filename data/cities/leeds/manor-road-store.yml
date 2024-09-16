@@ -2,10 +2,10 @@ id: 4583120992
 type: node
 latitude: 53.75276
 longitude: -1.4859
-postcode: "LS26 0RD"
+postcode: LS26 0RD
 city: Leeds
-street: "Manor Road"
-housenumber: 22
+street: Manor Road
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

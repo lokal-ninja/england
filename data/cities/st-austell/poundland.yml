@@ -1,11 +1,11 @@
 id: 1191941061
-type: way
+type: node
 latitude: 50.33813
 longitude: -4.79375
-postcode: "PL25 5PX"
+postcode: PL25 5PX
 city: St Austell
-street: "Fore Street"
-housenumber: 23
+street: Fore Street
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Sa 08:00-18:00; Su 10:00-16:00"
+opening_hours: Mo-Sa 08:00-18:00; Su 10:00-16:00
 website: ""

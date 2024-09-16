@@ -1,11 +1,11 @@
 id: 121410165
-type: way
+type: node
 latitude: 52.2904
 longitude: -0.61227
-postcode: "NN10 9RQ"
+postcode: NN10 9RQ
 city: Rushden
-street: "Birchall Road"
-housenumber: 7
+street: Birchall Road
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

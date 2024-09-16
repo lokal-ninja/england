@@ -1,11 +1,11 @@
 id: 261943906
-type: way
+type: node
 latitude: 53.15895
 longitude: -1.2214
-postcode: "NG19 7JD"
+postcode: NG19 7JD
 city: Mansfield
-street: "Chesterfield Road North"
-housenumber: 114
+street: Chesterfield Road North
+housenumber: "114"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su 08:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00; Su 08:00-21:00
 website: ""

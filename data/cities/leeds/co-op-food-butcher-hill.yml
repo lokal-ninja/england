@@ -2,10 +2,10 @@ id: 3001019967
 type: node
 latitude: 53.83284
 longitude: -1.60389
-postcode: "LS16 5BG"
+postcode: LS16 5BG
 city: Leeds
-street: "Butcher Hill"
-housenumber: 206
+street: Butcher Hill
+housenumber: "206"
 phone: ""
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.coop.co.uk/store-finder/LS16-5BG/206-butcher-hill"
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.coop.co.uk/store-finder/LS16-5BG/206-butcher-hill

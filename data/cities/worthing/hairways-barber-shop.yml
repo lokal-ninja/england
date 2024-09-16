@@ -1,11 +1,11 @@
 id: 987771172
-type: way
+type: node
 latitude: 50.81675
 longitude: -0.44623
-postcode: "BN12 5RN"
+postcode: BN12 5RN
 city: Worthing
-street: "Elm Park"
-housenumber: 3
-phone: "+44 1903 501920"
+street: Elm Park
+housenumber: "3"
+phone: +44 1903 501920
 opening_hours: ""
 website: ""

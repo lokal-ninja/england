@@ -2,10 +2,10 @@ id: 420783188
 type: node
 latitude: 51.4018
 longitude: 0.01631
-postcode: "BR1 1JY"
+postcode: BR1 1JY
 city: Bromley
-street: "High Street"
-housenumber: 59
+street: High Street
+housenumber: "59"
 phone: ""
 opening_hours: ""
-website: "https://www.bhf.org.uk/what-we-do/find-bhf-near-you/bromley-bhf-shop"
+website: https://www.bhf.org.uk/what-we-do/find-bhf-near-you/bromley-bhf-shop

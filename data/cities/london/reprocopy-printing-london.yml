@@ -1,11 +1,11 @@
 id: 468562251
-type: way
+type: node
 latitude: 51.51377
 longitude: -0.10233
-postcode: "EC4M 7JN"
+postcode: EC4M 7JN
 city: London
-street: "Ludgate Hill"
-housenumber: 39
+street: Ludgate Hill
+housenumber: "39"
 phone: ""
 opening_hours: ""
 website: ""

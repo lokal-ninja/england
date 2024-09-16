@@ -1,11 +1,11 @@
 id: 207900941
-type: way
+type: node
 latitude: 51.39465
 longitude: 0.17526
 postcode: ""
 city: Swanley
-street: "Station Road"
-housenumber: 
-phone: "+44 7473 384148"
-opening_hours: "Mo-Th 09:00-18:30, Fr-Sa 09:00-19:00, Su 10:00-16:00"
+street: Station Road
+housenumber: ""
+phone: +44 7473 384148
+opening_hours: Mo-Th 09:00-18:30, Fr-Sa 09:00-19:00, Su 10:00-16:00
 website: ""

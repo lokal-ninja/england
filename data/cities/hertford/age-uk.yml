@@ -1,11 +1,11 @@
 id: 894424670
-type: way
+type: node
 latitude: 51.79669
 longitude: -0.07654
-postcode: "SG14 1BD"
+postcode: SG14 1BD
 city: Hertford
-street: "Market Street"
-housenumber: 8
+street: Market Street
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "https://www.ageuk.org.uk/"
+website: https://www.ageuk.org.uk/

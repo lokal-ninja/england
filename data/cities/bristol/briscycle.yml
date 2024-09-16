@@ -1,11 +1,11 @@
 id: 405875154
-type: way
+type: node
 latitude: 51.44081
 longitude: -2.55516
-postcode: "BS4 3PE"
+postcode: BS4 3PE
 city: Bristol
-street: "Sandy Park Road"
-housenumber: 12
-phone: "+44117 977 1118"
+street: Sandy Park Road
+housenumber: "12"
+phone: +44117 977 1118
 opening_hours: ""
-website: "https://briscycle.co.uk/"
+website: https://briscycle.co.uk/

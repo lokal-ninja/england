@@ -1,11 +1,11 @@
 id: 133501199
-type: way
+type: node
 latitude: 51.523
 longitude: -2.60891
-postcode: "BS10 7UB"
+postcode: BS10 7UB
 city: Bristol
-street: "Lysander Road"
-housenumber: 
-phone: "+44 1173 136332"
-opening_hours: "Mo-Fr 08:30-17:30; Sa-Su off"
-website: "https://www.tesla.com/en_GB/findus/location/service/bristolservice"
+street: Lysander Road
+housenumber: ""
+phone: +44 1173 136332
+opening_hours: Mo-Fr 08:30-17:30; Sa-Su off
+website: https://www.tesla.com/en_GB/findus/location/service/bristolservice

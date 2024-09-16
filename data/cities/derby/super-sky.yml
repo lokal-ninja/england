@@ -1,11 +1,11 @@
 id: 128979987
-type: way
+type: node
 latitude: 52.91328
 longitude: -1.47692
-postcode: "DE23 6SS"
+postcode: DE23 6SS
 city: Derby
-street: "Belgrave Street"
-housenumber: 2
+street: Belgrave Street
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

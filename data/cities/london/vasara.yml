@@ -1,11 +1,11 @@
 id: 875103910
-type: way
+type: node
 latitude: 51.54977
 longitude: 0.0244
-postcode: "E7 9BB"
+postcode: E7 9BB
 city: London
-street: "Forest Lane"
-housenumber: 171
+street: Forest Lane
+housenumber: "171"
 phone: ""
 opening_hours: ""
 website: ""

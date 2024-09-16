@@ -1,11 +1,11 @@
 id: 188376336
-type: way
+type: node
 latitude: 52.97667
 longitude: -0.03313
-postcode: "PE21 8EG"
+postcode: PE21 8EG
 city: Boston
-street: "Sleaford Road"
-housenumber: 2
+street: Sleaford Road
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

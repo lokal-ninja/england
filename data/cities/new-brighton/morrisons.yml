@@ -1,11 +1,11 @@
 id: 545331669
-type: way
+type: node
 latitude: 53.44059
 longitude: -3.0458
-postcode: "CH45 2PB"
+postcode: CH45 2PB
 city: New Brighton
-street: "Marine Point"
-housenumber: 22
+street: Marine Point
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su 10:00-16:00"
-website: "https://my.morrisons.com/storefinder/509/new-brighton"
+opening_hours: Mo-Sa 07:00-22:00; Su 10:00-16:00
+website: https://my.morrisons.com/storefinder/509/new-brighton

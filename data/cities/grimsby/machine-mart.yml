@@ -1,11 +1,11 @@
 id: 114817896
-type: way
+type: node
 latitude: 53.56693
 longitude: -0.07618
-postcode: "DN32 9BD"
+postcode: DN32 9BD
 city: Grimsby
-street: "Ellis way"
-housenumber: 
-phone: "+44 1472 354 435"
-opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-17:30; Su 10:30-16:00"
-website: "https://www.machinemart.co.uk/stores/grimsby/"
+street: Ellis way
+housenumber: ""
+phone: +44 1472 354 435
+opening_hours: Mo-Fr 08:30-18:00; Sa 08:30-17:30; Su 10:30-16:00
+website: https://www.machinemart.co.uk/stores/grimsby/

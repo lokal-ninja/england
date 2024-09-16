@@ -1,11 +1,11 @@
 id: 224239953
-type: way
+type: node
 latitude: 52.39663
 longitude: 0.26751
-postcode: "CB7 4AJ"
+postcode: CB7 4AJ
 city: Ely
-street: "Broad Street"
-housenumber: 11
-phone: "+44 1353 66 24 33"
-opening_hours: "Tu-Su 09:30-17:30"
-website: "https://www.elyorientalgroceries.co.uk/"
+street: Broad Street
+housenumber: "11"
+phone: +44 1353 66 24 33
+opening_hours: Tu-Su 09:30-17:30
+website: https://www.elyorientalgroceries.co.uk/

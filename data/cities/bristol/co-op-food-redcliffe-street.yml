@@ -1,11 +1,11 @@
 id: 210367872
-type: way
+type: node
 latitude: 51.4506
 longitude: -2.59026
-postcode: "BS1 6LT"
+postcode: BS1 6LT
 city: Bristol
-street: "Redcliffe Street"
-housenumber: 108
+street: Redcliffe Street
+housenumber: "108"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://stores.southern.coop/bristol/bristol/the-square.html"
+opening_hours: Mo-Su 07:00-22:00
+website: https://stores.southern.coop/bristol/bristol/the-square.html

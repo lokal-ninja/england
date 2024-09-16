@@ -2,10 +2,10 @@ id: 2580257552
 type: node
 latitude: 50.37413
 longitude: -4.15149
-postcode: "PL1 5HP"
+postcode: PL1 5HP
 city: Plymouth
-street: "Cecil Street"
-housenumber: 51
+street: Cecil Street
+housenumber: "51"
 phone: ""
 opening_hours: ""
 website: ""

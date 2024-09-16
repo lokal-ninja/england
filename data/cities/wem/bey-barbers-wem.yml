@@ -1,11 +1,11 @@
 id: 1081828760
-type: way
+type: node
 latitude: 52.85557
 longitude: -2.7237
-postcode: "SY4 5AA"
+postcode: SY4 5AA
 city: Wem
-street: "High Street"
-housenumber: 17
+street: High Street
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00; Su 10:00-16:00"
+opening_hours: Mo-Sa 09:00-19:00; Su 10:00-16:00
 website: ""

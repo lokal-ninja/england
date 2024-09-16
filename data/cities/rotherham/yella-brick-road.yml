@@ -1,11 +1,11 @@
 id: 1105303064
-type: way
+type: node
 latitude: 53.43038
 longitude: -1.35586
-postcode: "S60 1PT"
+postcode: S60 1PT
 city: Rotherham
-street: "High Street"
-housenumber: 19
+street: High Street
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

@@ -2,10 +2,10 @@ id: 4564898431
 type: node
 latitude: 51.45879
 longitude: -0.1664
-postcode: "SW11 1PA"
+postcode: SW11 1PA
 city: London
-street: "Northcote Road"
-housenumber: 58
+street: Northcote Road
+housenumber: "58"
 phone: ""
 opening_hours: ""
-website: "https://newbiestore.com"
+website: https://newbiestore.com

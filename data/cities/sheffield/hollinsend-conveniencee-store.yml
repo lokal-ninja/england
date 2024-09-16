@@ -1,11 +1,11 @@
 id: 1274273315
-type: way
+type: node
 latitude: 53.36495
 longitude: -1.41121
-postcode: "S13 8DB"
+postcode: S13 8DB
 city: Sheffield
-street: "Nodder Road"
-housenumber: 2
+street: Nodder Road
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

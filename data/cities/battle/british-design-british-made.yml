@@ -2,10 +2,10 @@ id: 9103612638
 type: node
 latitude: 50.91668
 longitude: 0.48463
-postcode: "TN33 0AG"
+postcode: TN33 0AG
 city: Battle
-street: "High Street"
-housenumber: 64
+street: High Street
+housenumber: "64"
 phone: ""
-opening_hours: "Mo-Sa 10:00-17:00"
+opening_hours: Mo-Sa 10:00-17:00
 website: ""

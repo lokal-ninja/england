@@ -1,11 +1,11 @@
 id: 378235352
-type: way
+type: node
 latitude: 54.15658
 longitude: -3.18132
-postcode: "LA15 8DL"
+postcode: LA15 8DL
 city: Dalton-in-Furness
-street: "Market Street"
-housenumber: 71
+street: Market Street
+housenumber: "71"
 phone: ""
 opening_hours: ""
 website: ""

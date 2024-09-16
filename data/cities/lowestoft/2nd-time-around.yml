@@ -1,11 +1,11 @@
 id: 1102676765
-type: way
+type: node
 latitude: 52.47433
 longitude: 1.75208
-postcode: "NR32 1DZ"
+postcode: NR32 1DZ
 city: Lowestoft
-street: "Suffolk Road"
-housenumber: 16
+street: Suffolk Road
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

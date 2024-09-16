@@ -1,11 +1,11 @@
 id: 1224630793
-type: way
+type: node
 latitude: 53.26536
 longitude: -2.48715
-postcode: "CW9 7LS"
+postcode: CW9 7LS
 city: Northwich
-street: "Manchester Road"
-housenumber: 145
+street: Manchester Road
+housenumber: "145"
 phone: ""
 opening_hours: ""
 website: ""

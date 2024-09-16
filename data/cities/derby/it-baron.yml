@@ -1,11 +1,11 @@
 id: 1023083717
-type: way
+type: node
 latitude: 52.93009
 longitude: -1.43431
-postcode: "DE21 6NJ"
+postcode: DE21 6NJ
 city: Derby
-street: "Reginald Road South"
-housenumber: 131
+street: Reginald Road South
+housenumber: "131"
 phone: ""
 opening_hours: ""
-website: "https://www.itbaron.com/"
+website: https://www.itbaron.com/

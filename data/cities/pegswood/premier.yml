@@ -1,11 +1,11 @@
 id: 222829661
-type: way
+type: node
 latitude: 55.18062
 longitude: -1.64931
-postcode: "NE61 6RG"
+postcode: NE61 6RG
 city: Pegswood
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-21:00"
-website: "https://www.premier-stores.co.uk/our-stores/pegswood-village-store"
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-21:00
+website: https://www.premier-stores.co.uk/our-stores/pegswood-village-store

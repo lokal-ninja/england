@@ -2,10 +2,10 @@ id: 2961924697
 type: node
 latitude: 52.30128
 longitude: -0.69186
-postcode: "NN8 1EX"
+postcode: NN8 1EX
 city: Wellingborough
-street: "Cheese Lane"
-housenumber: 44
-phone: "+44 1933 277333"
-opening_hours: "Mo-Sa 09:00-17:30"
+street: Cheese Lane
+housenumber: "44"
+phone: +44 1933 277333
+opening_hours: Mo-Sa 09:00-17:30
 website: ""

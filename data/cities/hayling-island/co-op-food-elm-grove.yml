@@ -1,11 +1,11 @@
 id: 1287484618
-type: way
+type: node
 latitude: 50.79352
 longitude: -0.97668
-postcode: "PO11 9EH"
+postcode: PO11 9EH
 city: Hayling Island
-street: "Elm Grove"
-housenumber: 140
-phone: "+44 23 9246 3730"
-opening_hours: "Mo-Sa 07:00-22:00; Su 10:00-16:00"
-website: "https://www.coop.co.uk/"
+street: Elm Grove
+housenumber: "140"
+phone: +44 23 9246 3730
+opening_hours: Mo-Sa 07:00-22:00; Su 10:00-16:00
+website: https://www.coop.co.uk/

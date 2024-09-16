@@ -1,11 +1,11 @@
 id: 262069577
-type: way
+type: node
 latitude: 53.92807
 longitude: -1.38423
-postcode: "LS22 6JB"
+postcode: LS22 6JB
 city: Wetherby
-street: "Victoria Court"
-housenumber: 2
+street: Victoria Court
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su 10:30-16:30"
+opening_hours: Mo-Sa 08:00-20:00; Su 10:30-16:30
 website: ""

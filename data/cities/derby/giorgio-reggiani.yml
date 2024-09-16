@@ -1,11 +1,11 @@
 id: 130642590
-type: way
+type: node
 latitude: 52.92317
 longitude: -1.47946
-postcode: "DE1 3NL"
+postcode: DE1 3NL
 city: Derby
-street: "Sadler Gate"
-housenumber: 28
-phone: "+44 1332 381161"
+street: Sadler Gate
+housenumber: "28"
+phone: +44 1332 381161
 opening_hours: ""
-website: "https://www.giorgioreggiani.co.uk/"
+website: https://www.giorgioreggiani.co.uk/

@@ -2,10 +2,10 @@ id: 10083466731
 type: node
 latitude: 53.54221
 longitude: -2.11058
-postcode: "OL1 3RZ"
+postcode: OL1 3RZ
 city: Oldham
-street: "Yorkshire Street"
-housenumber: 25
+street: Yorkshire Street
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

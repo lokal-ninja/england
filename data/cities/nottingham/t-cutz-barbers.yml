@@ -1,11 +1,11 @@
 id: 1066720279
-type: way
+type: node
 latitude: 52.97997
 longitude: -1.14686
-postcode: "NG5 2FR"
+postcode: NG5 2FR
 city: Nottingham
-street: "Mansfield Road"
-housenumber: 530
+street: Mansfield Road
+housenumber: "530"
 phone: ""
-opening_hours: "Tu-Th 09:00-15:00; Fr 09:00-16:00; Sa 08:00-14:00; Su,Mo off"
+opening_hours: Tu-Th 09:00-15:00; Fr 09:00-16:00; Sa 08:00-14:00; Su,Mo off
 website: ""

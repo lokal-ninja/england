@@ -1,11 +1,11 @@
 id: 1267933100
-type: way
+type: node
 latitude: 51.71409
 longitude: 0.48877
-postcode: "CM2 8YX"
+postcode: CM2 8YX
 city: Chelmsford
-street: "Purbeck Court"
-housenumber: 8
+street: Purbeck Court
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.tesco.com/store-locator/chelmsford/8-purbeck-court-dorset-ave"
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.tesco.com/store-locator/chelmsford/8-purbeck-court-dorset-ave

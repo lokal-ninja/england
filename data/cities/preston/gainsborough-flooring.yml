@@ -1,11 +1,11 @@
 id: 366052268
-type: way
+type: node
 latitude: 53.76003
 longitude: -2.70649
 postcode: ""
 city: Preston
-street: "Heatley Street"
-housenumber: 26
+street: Heatley Street
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

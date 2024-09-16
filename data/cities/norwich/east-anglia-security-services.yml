@@ -1,11 +1,11 @@
 id: 249024153
-type: way
+type: node
 latitude: 52.64274
 longitude: 1.21022
-postcode: "NR5 9JF"
+postcode: NR5 9JF
 city: Norwich
-street: "Robberds Way"
-housenumber: 6
+street: Robberds Way
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

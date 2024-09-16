@@ -2,10 +2,10 @@ id: 5299651327
 type: node
 latitude: 51.98908
 longitude: -0.61895
-postcode: "MK17 9PZ"
+postcode: MK17 9PZ
 city: Woburn
-street: "Market Place"
-housenumber: 11
+street: Market Place
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

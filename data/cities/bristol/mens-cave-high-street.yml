@@ -1,11 +1,11 @@
 id: 280997077
-type: way
+type: node
 latitude: 51.45487
 longitude: -2.59305
-postcode: "BS1 2AZ"
+postcode: BS1 2AZ
 city: Bristol
-street: "High Street"
-housenumber: 49
+street: High Street
+housenumber: "49"
 phone: ""
 opening_hours: ""
 website: ""

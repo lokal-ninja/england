@@ -1,11 +1,11 @@
 id: 309215643
-type: way
+type: node
 latitude: 51.54315
 longitude: -0.19996
-postcode: "NW6 7JR"
+postcode: NW6 7JR
 city: London
-street: "Kilburn High Road"
-housenumber: 261
+street: Kilburn High Road
+housenumber: "261"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1127808816
-type: way
+type: node
 latitude: 51.54182
 longitude: 0.16562
 postcode: ""
 city: Dagenham
-street: "Rainham Road South"
-housenumber: 628
+street: Rainham Road South
+housenumber: "628"
 phone: ""
 opening_hours: ""
 website: ""

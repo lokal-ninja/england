@@ -1,11 +1,11 @@
 id: 1118436143
-type: way
+type: node
 latitude: 53.42983
 longitude: -1.35434
-postcode: "S60 2LR"
+postcode: S60 2LR
 city: Rotherham
-street: "Wellgate"
-housenumber: 24
+street: Wellgate
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

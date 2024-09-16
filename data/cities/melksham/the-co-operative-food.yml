@@ -1,11 +1,11 @@
 id: 353293097
-type: way
+type: node
 latitude: 51.37642
 longitude: -2.12513
-postcode: "SN12 7HU"
+postcode: SN12 7HU
 city: Melksham
-street: "Blackmore Road"
-housenumber: 2
+street: Blackmore Road
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.coop.co.uk/store-finder/SN12-7HS/2-blackmore-road"
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.coop.co.uk/store-finder/SN12-7HS/2-blackmore-road

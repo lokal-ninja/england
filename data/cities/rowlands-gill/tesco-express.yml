@@ -1,11 +1,11 @@
 id: 252666737
-type: way
+type: node
 latitude: 54.91927
 longitude: -1.74451
-postcode: "NE39 1PY"
+postcode: NE39 1PY
 city: Rowlands Gill
-street: "Station Road"
-housenumber: 1
+street: Station Road
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su 10:00-16:00"
-website: "https://www.tesco.com/store-locator/rowlands-gill/1-station-rd"
+opening_hours: Mo-Sa 07:00-22:00; Su 10:00-16:00
+website: https://www.tesco.com/store-locator/rowlands-gill/1-station-rd

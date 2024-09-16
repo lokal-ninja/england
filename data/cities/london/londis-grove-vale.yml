@@ -1,11 +1,11 @@
 id: 72062726
-type: way
+type: node
 latitude: 51.46132
 longitude: -0.07562
-postcode: "SE22 8EN"
+postcode: SE22 8EN
 city: London
-street: "Grove Vale"
-housenumber: 115
+street: Grove Vale
+housenumber: "115"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 665247214
-type: way
+type: node
 latitude: 53.59884
 longitude: -2.54785
-postcode: "BL6 7NX"
+postcode: BL6 7NX
 city: Bolton
-street: "Winter Hey Lane"
-housenumber: 46
+street: Winter Hey Lane
+housenumber: "46"
 phone: ""
 opening_hours: ""
 website: ""

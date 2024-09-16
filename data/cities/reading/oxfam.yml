@@ -1,11 +1,11 @@
 id: 79872140
-type: way
+type: node
 latitude: 51.45289
 longitude: -0.90584
-postcode: "RG5 3JZ"
+postcode: RG5 3JZ
 city: Reading
-street: "Crockhamwell Road"
-housenumber: 103
+street: Crockhamwell Road
+housenumber: "103"
 phone: ""
 opening_hours: ""
 website: ""

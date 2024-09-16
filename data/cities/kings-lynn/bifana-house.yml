@@ -1,11 +1,11 @@
 id: 1099384193
-type: way
+type: node
 latitude: 52.755
 longitude: 0.39759
-postcode: "PE30 1DP"
+postcode: PE30 1DP
 city: King's Lynn
-street: "Broad Street"
-housenumber: 40
+street: Broad Street
+housenumber: "40"
 phone: ""
 opening_hours: ""
 website: ""

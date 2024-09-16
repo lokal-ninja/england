@@ -2,10 +2,10 @@ id: 4815148828
 type: node
 latitude: 50.8203
 longitude: -0.13938
-postcode: "BN1 1HP"
+postcode: BN1 1HP
 city: Brighton
-street: "East Street"
-housenumber: 11
+street: East Street
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

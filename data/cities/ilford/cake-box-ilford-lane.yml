@@ -2,10 +2,10 @@ id: 10771841557
 type: node
 latitude: 51.55451
 longitude: 0.07223
-postcode: "IG1 2LD"
+postcode: IG1 2LD
 city: Ilford
-street: "Ilford Lane"
-housenumber: 90
+street: Ilford Lane
+housenumber: "90"
 phone: ""
 opening_hours: ""
 website: ""

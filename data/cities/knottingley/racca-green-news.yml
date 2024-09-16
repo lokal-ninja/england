@@ -1,11 +1,11 @@
 id: 896551850
-type: way
+type: node
 latitude: 53.70748
 longitude: -1.23784
-postcode: "WF11 8AT"
+postcode: WF11 8AT
 city: Knottingley
-street: "Racca Green"
-housenumber: 31
+street: Racca Green
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

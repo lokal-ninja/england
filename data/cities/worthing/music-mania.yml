@@ -1,11 +1,11 @@
 id: 987640893
-type: way
+type: node
 latitude: 50.80944
 longitude: -0.37639
 postcode: ""
 city: Worthing
-street: "West Buildings"
-housenumber: 21
+street: West Buildings
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

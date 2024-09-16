@@ -1,11 +1,11 @@
 id: 743673697
-type: way
+type: node
 latitude: 53.75913
 longitude: -0.35001
-postcode: "HU5 2ST"
+postcode: HU5 2ST
 city: Hull
-street: "Beverley Road"
-housenumber: 255
+street: Beverley Road
+housenumber: "255"
 phone: ""
-opening_hours: "Mo-Su 06:00-23:00"
+opening_hours: Mo-Su 06:00-23:00
 website: ""

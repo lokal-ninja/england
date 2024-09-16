@@ -2,10 +2,10 @@ id: 7004807343
 type: node
 latitude: 51.43989
 longitude: -0.41582
-postcode: "TW13 4HJ"
+postcode: TW13 4HJ
 city: Feltham
-street: "High Street"
-housenumber: 5
+street: High Street
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 574490791
-type: way
+type: node
 latitude: 51.52382
 longitude: 0.03057
-postcode: "E13 8RH"
+postcode: E13 8RH
 city: London
-street: "Prince Regent Lane"
-housenumber: 39
+street: Prince Regent Lane
+housenumber: "39"
 phone: ""
 opening_hours: ""
-website: "http://sirwilliam.org/"
+website: http://sirwilliam.org/

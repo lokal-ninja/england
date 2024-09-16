@@ -1,11 +1,11 @@
 id: 120361017
-type: way
+type: node
 latitude: 51.53998
 longitude: 0.15699
-postcode: "RM10 9RR"
+postcode: RM10 9RR
 city: Dagenham
-street: "Church Elm Lane"
-housenumber: 171
+street: Church Elm Lane
+housenumber: "171"
 phone: ""
 opening_hours: ""
 website: ""

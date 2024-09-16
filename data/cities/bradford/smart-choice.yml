@@ -1,11 +1,11 @@
 id: 1150004005
-type: way
+type: node
 latitude: 53.79512
 longitude: -1.75673
-postcode: "BD1 2QR"
+postcode: BD1 2QR
 city: Bradford
-street: "Westgate"
-housenumber: 46
+street: Westgate
+housenumber: "46"
 phone: ""
 opening_hours: ""
 website: ""

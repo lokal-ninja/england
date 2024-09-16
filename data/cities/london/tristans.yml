@@ -1,11 +1,11 @@
 id: 62223071
-type: way
+type: node
 latitude: 51.46134
 longitude: -0.07885
-postcode: "SE22 8DY"
+postcode: SE22 8DY
 city: London
-street: "Grove Vale"
-housenumber: 38
+street: Grove Vale
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 204558180
-type: way
+type: node
 latitude: 53.82078
 longitude: -1.57734
-postcode: "LS6 3AB"
+postcode: LS6 3AB
 city: Leeds
-street: "Otley Road"
-housenumber: 43
+street: Otley Road
+housenumber: "43"
 phone: ""
 opening_hours: ""
 website: ""

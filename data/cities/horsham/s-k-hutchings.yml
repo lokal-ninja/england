@@ -1,11 +1,11 @@
 id: 1022873069
-type: way
+type: node
 latitude: 50.95955
 longitude: -0.30457
-postcode: "RH13 8HU"
+postcode: RH13 8HU
 city: Horsham
-street: "High Street"
-housenumber: 
+street: High Street
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

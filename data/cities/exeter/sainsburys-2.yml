@@ -1,11 +1,11 @@
 id: 538847877
-type: way
+type: node
 latitude: 50.72319
 longitude: -3.53355
-postcode: "EX4 3HH"
+postcode: EX4 3HH
 city: Exeter
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 07:30-19:00; Su 11:00-17:00"
-website: "https://stores.sainsburys.co.uk/0799/exeter"
+opening_hours: Mo-Fr 08:00-19:00; Sa 07:30-19:00; Su 11:00-17:00
+website: https://stores.sainsburys.co.uk/0799/exeter

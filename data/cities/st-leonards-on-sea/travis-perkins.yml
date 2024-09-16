@@ -1,11 +1,11 @@
 id: 912467636
-type: way
+type: node
 latitude: 50.86224
 longitude: 0.55531
 postcode: ""
 city: St Leonards-on-Sea
-street: "Springfield Valley Road"
-housenumber: 
+street: Springfield Valley Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 07:30-17:00; Sa 08:00-12:00; Su closed"
-website: "https://www.travisperkins.co.uk/branch-locator/0104"
+opening_hours: Mo-Fr 07:30-17:00; Sa 08:00-12:00; Su closed
+website: https://www.travisperkins.co.uk/branch-locator/0104

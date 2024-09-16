@@ -1,11 +1,11 @@
 id: 148523759
-type: way
+type: node
 latitude: 51.5115
 longitude: -0.11836
-postcode: "WC2R 1JA"
+postcode: WC2R 1JA
 city: London
-street: "Strand"
-housenumber: 145
+street: Strand
+housenumber: "145"
 phone: ""
 opening_hours: ""
 website: ""

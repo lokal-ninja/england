@@ -1,11 +1,11 @@
 id: 136626213
-type: way
+type: node
 latitude: 52.21552
 longitude: 0.11545
-postcode: "CB4 3BU"
+postcode: CB4 3BU
 city: Cambridge
-street: "Victoria Road"
-housenumber: 143
+street: Victoria Road
+housenumber: "143"
 phone: ""
 opening_hours: ""
-website: "https://victoriaroadtattoo.com/"
+website: https://victoriaroadtattoo.com/

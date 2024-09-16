@@ -1,11 +1,11 @@
 id: 1094969017
-type: way
+type: node
 latitude: 53.40182
 longitude: -2.58687
-postcode: "WA2 8AE"
+postcode: WA2 8AE
 city: Warrington
-street: "Central Avenue"
-housenumber: 10
+street: Central Avenue
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

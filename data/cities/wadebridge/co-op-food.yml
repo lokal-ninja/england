@@ -1,11 +1,11 @@
 id: 223606961
-type: way
+type: node
 latitude: 50.51652
 longitude: -4.83596
-postcode: "PL27 7DA"
+postcode: PL27 7DA
 city: Wadebridge
-street: "Jubilee Road"
-housenumber: 
+street: Jubilee Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su 10:00-16:00"
-website: "https://www.coop.co.uk/store-finder/PL27-7DA/jubilee-road"
+opening_hours: Mo-Sa 07:00-22:00; Su 10:00-16:00
+website: https://www.coop.co.uk/store-finder/PL27-7DA/jubilee-road

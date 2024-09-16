@@ -1,11 +1,11 @@
 id: 1013389952
-type: way
+type: node
 latitude: 54.61311
 longitude: -1.80569
-postcode: "DL13 5DQ"
+postcode: DL13 5DQ
 city: Bishop Auckland
-street: "Front Street"
-housenumber: 77
+street: Front Street
+housenumber: "77"
 phone: ""
 opening_hours: ""
 website: ""

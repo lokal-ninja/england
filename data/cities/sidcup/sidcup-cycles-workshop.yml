@@ -1,11 +1,11 @@
 id: 767578822
-type: way
+type: node
 latitude: 51.43514
 longitude: 0.10208
-postcode: "DA15 7AA"
+postcode: DA15 7AA
 city: Sidcup
-street: "Station Road"
-housenumber: 141
+street: Station Road
+housenumber: "141"
 phone: ""
 opening_hours: ""
 website: ""

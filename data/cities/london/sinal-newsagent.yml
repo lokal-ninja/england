@@ -1,11 +1,11 @@
 id: 874060449
-type: way
+type: node
 latitude: 51.5466
 longitude: 0.02417
-postcode: "E7 9HA"
+postcode: E7 9HA
 city: London
-street: "Romford Road"
-housenumber: 309
+street: Romford Road
+housenumber: "309"
 phone: ""
 opening_hours: ""
 website: ""

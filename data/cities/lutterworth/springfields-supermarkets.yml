@@ -1,11 +1,11 @@
 id: 95211650
-type: way
+type: node
 latitude: 52.45235
 longitude: -1.05623
-postcode: "LE17 6LH"
+postcode: LE17 6LH
 city: Lutterworth
-street: "High Street"
-housenumber: 2
+street: High Street
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

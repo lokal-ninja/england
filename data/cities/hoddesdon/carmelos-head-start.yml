@@ -1,11 +1,11 @@
 id: 89216772
-type: way
+type: node
 latitude: 51.76697
 longitude: -0.00307
-postcode: "EN11 0JL"
+postcode: EN11 0JL
 city: Hoddesdon
-street: "Rye Road"
-housenumber: 103
-phone: "+44 1992 461370"
+street: Rye Road
+housenumber: "103"
+phone: +44 1992 461370
 opening_hours: ""
 website: ""

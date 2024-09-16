@@ -1,11 +1,11 @@
 id: 55801491
-type: way
+type: node
 latitude: 52.90915
 longitude: -1.46587
-postcode: "DE23 8LB"
+postcode: DE23 8LB
 city: Derby
-street: "Osmaston Road"
-housenumber: 
+street: Osmaston Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-17:00; Su 10:00-16:00"
-website: "https://www.kwik-fit.com/locate-a-centre/derby-osmaston-road"
+opening_hours: Mo-Fr 08:30-18:00; Sa 08:30-17:00; Su 10:00-16:00
+website: https://www.kwik-fit.com/locate-a-centre/derby-osmaston-road

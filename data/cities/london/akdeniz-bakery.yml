@@ -1,11 +1,11 @@
 id: 536399609
-type: way
+type: node
 latitude: 51.5585
 longitude: -0.07416
-postcode: "N16 7PB"
+postcode: N16 7PB
 city: London
-street: "Stoke Newington High Street"
-housenumber: 60
+street: Stoke Newington High Street
+housenumber: "60"
 phone: ""
 opening_hours: ""
 website: ""

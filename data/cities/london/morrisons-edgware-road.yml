@@ -1,11 +1,11 @@
 id: 462933277
-type: way
+type: node
 latitude: 51.59402
 longitude: -0.25994
-postcode: "NW9 0AS"
+postcode: NW9 0AS
 city: London
-street: "Edgware Road"
-housenumber: 399
+street: Edgware Road
+housenumber: "399"
 phone: ""
-opening_hours: "Mo-Sa 07:00-23:00; Su 10:00-16:00"
-website: "https://my.morrisons.com/storefinder/373/colindale"
+opening_hours: Mo-Sa 07:00-23:00; Su 10:00-16:00
+website: https://my.morrisons.com/storefinder/373/colindale

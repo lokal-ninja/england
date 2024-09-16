@@ -1,11 +1,11 @@
 id: 26377741
-type: way
+type: node
 latitude: 53.70654
 longitude: -1.67601
-postcode: "WF16 0HL"
+postcode: WF16 0HL
 city: Heckmondwike
-street: "Union Street"
-housenumber: 17
+street: Union Street
+housenumber: "17"
 phone: ""
 opening_hours: ""
-website: "https://my.morrisons.com/storefinder/42/heckmondwike"
+website: https://my.morrisons.com/storefinder/42/heckmondwike

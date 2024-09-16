@@ -1,11 +1,11 @@
 id: 1313120991
-type: way
+type: node
 latitude: 50.88001
 longitude: -1.03098
-postcode: "PO7 7DT"
+postcode: PO7 7DT
 city: Waterlooville
-street: "The Precinct"
-housenumber: 
+street: The Precinct
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:30-17:00; Su 10:00-16:00"
-website: "https://www.bhf.org.uk/what-we-do/find-bhf-near-you/waterlooville-bhf-shop"
+opening_hours: Mo-Sa 09:30-17:00; Su 10:00-16:00
+website: https://www.bhf.org.uk/what-we-do/find-bhf-near-you/waterlooville-bhf-shop

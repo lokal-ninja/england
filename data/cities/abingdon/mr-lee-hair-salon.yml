@@ -1,11 +1,11 @@
 id: 1038296246
-type: way
+type: node
 latitude: 51.67407
 longitude: -1.27885
-postcode: "OX14 3PB"
+postcode: OX14 3PB
 city: Abingdon
-street: "Vineyard"
-housenumber: 94
+street: Vineyard
+housenumber: "94"
 phone: ""
 opening_hours: ""
 website: ""

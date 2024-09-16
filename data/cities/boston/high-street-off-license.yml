@@ -2,10 +2,10 @@ id: 7320092955
 type: node
 latitude: 52.97273
 longitude: -0.02494
-postcode: "PE21 8TG"
+postcode: PE21 8TG
 city: Boston
-street: "High Street"
-housenumber: 105
+street: High Street
+housenumber: "105"
 phone: ""
 opening_hours: ""
 website: ""

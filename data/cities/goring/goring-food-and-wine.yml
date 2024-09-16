@@ -1,11 +1,11 @@
 id: 159525557
-type: way
+type: node
 latitude: 51.52273
 longitude: -1.1374
-postcode: "RG8 9AR"
+postcode: RG8 9AR
 city: Goring
-street: "High Street"
-housenumber: 14
+street: High Street
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su 08:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00; Su 08:00-22:00
 website: ""

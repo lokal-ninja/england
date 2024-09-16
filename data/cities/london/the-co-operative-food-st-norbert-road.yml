@@ -2,10 +2,10 @@ id: 3889304773
 type: node
 latitude: 51.45878
 longitude: -0.04377
-postcode: "SE4 2BN"
+postcode: SE4 2BN
 city: London
-street: "St Norbert Road"
-housenumber: 100
+street: St Norbert Road
+housenumber: "100"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.coop.co.uk/store-finder/SE4-2BN/100-st-norbert-road"
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.coop.co.uk/store-finder/SE4-2BN/100-st-norbert-road

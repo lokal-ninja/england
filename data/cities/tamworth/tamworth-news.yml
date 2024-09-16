@@ -1,11 +1,11 @@
 id: 390659135
-type: way
+type: node
 latitude: 52.63358
 longitude: -1.69498
-postcode: "B79 7NJ"
+postcode: B79 7NJ
 city: Tamworth
-street: "Middle Entry"
-housenumber: 20
-phone: "+44 1827 769975"
+street: Middle Entry
+housenumber: "20"
+phone: +44 1827 769975
 opening_hours: ""
 website: ""

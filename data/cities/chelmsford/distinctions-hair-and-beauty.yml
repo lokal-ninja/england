@@ -1,11 +1,11 @@
 id: 378558631
-type: way
+type: node
 latitude: 51.75859
 longitude: 0.54005
-postcode: "CM3 3BT"
+postcode: CM3 3BT
 city: Chelmsford
-street: "Butterfield Road"
-housenumber: 6
+street: Butterfield Road
+housenumber: "6"
 phone: ""
-opening_hours: "Tu-We,Fr 09:00-17:00; Th 09:00-20:00; Sa 09:00-16:00"
+opening_hours: Tu-We,Fr 09:00-17:00; Th 09:00-20:00; Sa 09:00-16:00
 website: ""

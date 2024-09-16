@@ -1,11 +1,11 @@
 id: 447751699
-type: way
+type: node
 latitude: 51.15539
 longitude: 0.28968
-postcode: "TN2 3XQ"
+postcode: TN2 3XQ
 city: Tunbridge Wells
-street: "Longfield Road"
-housenumber: 
-phone: "+44 1892 576190"
-opening_hours: "Mo-Fr 09:30-18:00, Sa 09:00-18:00, Su 10:30-16:30"
-website: "https://www.tapi.co.uk/stores/tunbridge-wells"
+street: Longfield Road
+housenumber: ""
+phone: +44 1892 576190
+opening_hours: Mo-Fr 09:30-18:00, Sa 09:00-18:00, Su 10:30-16:30
+website: https://www.tapi.co.uk/stores/tunbridge-wells

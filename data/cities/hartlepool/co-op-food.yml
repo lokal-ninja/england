@@ -1,11 +1,11 @@
 id: 1222362925
-type: way
+type: node
 latitude: 54.74738
 longitude: -1.28911
-postcode: "TS27 4EA"
+postcode: TS27 4EA
 city: Hartlepool
-street: "Middle Street"
-housenumber: 2
+street: Middle Street
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.coop.co.uk/store-finder/TS27-4EA/middle-street"
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.coop.co.uk/store-finder/TS27-4EA/middle-street

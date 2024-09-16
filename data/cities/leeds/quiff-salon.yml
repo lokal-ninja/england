@@ -2,10 +2,11 @@ id: 5439861938
 type: node
 latitude: 53.82002
 longitude: -1.58096
-postcode: "LS6 3HW"
+postcode: LS6 3HW
 city: Leeds
-street: "North Lane"
-housenumber: 19
-phone: "+44 113 278 4442"
-opening_hours: "Mo 09:30-17:00; We 09:30-19:00; Th 09:30-18:00; Fr 09:30-16:00; Sa 09:00-16:00; Tu, Su off"
-website: "https://www.quiffsalon.co.uk/"
+street: North Lane
+housenumber: "19"
+phone: +44 113 278 4442
+opening_hours: Mo 09:30-17:00; We 09:30-19:00; Th 09:30-18:00; Fr 09:30-16:00; Sa
+    09:00-16:00; Tu, Su off
+website: https://www.quiffsalon.co.uk/

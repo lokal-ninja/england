@@ -1,11 +1,11 @@
 id: 200666338
-type: way
+type: node
 latitude: 53.08723
 longitude: -0.78562
-postcode: "NG24 2DE"
+postcode: NG24 2DE
 city: Newark
-street: "Brunel Drive"
-housenumber: 
-phone: "+44 3330112112"
+street: Brunel Drive
+housenumber: ""
+phone: +44 3330112112
 opening_hours: ""
-website: "https://www.screwfix.com/stores/JT8/newark"
+website: https://www.screwfix.com/stores/JT8/newark

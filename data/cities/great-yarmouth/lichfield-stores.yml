@@ -1,11 +1,11 @@
 id: 216759449
-type: way
+type: node
 latitude: 52.60139
 longitude: 1.72075
-postcode: "NR31 0AB"
+postcode: NR31 0AB
 city: Great Yarmouth
-street: "Lichfield Road"
-housenumber: 35
+street: Lichfield Road
+housenumber: "35"
 phone: ""
 opening_hours: ""
 website: ""

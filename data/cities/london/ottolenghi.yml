@@ -2,10 +2,10 @@ id: 348310263
 type: node
 latitude: 51.53975
 longitude: -0.10225
-postcode: "N1 2TZ"
+postcode: N1 2TZ
 city: London
-street: "Upper Street"
-housenumber: 287
+street: Upper Street
+housenumber: "287"
 phone: ""
 opening_hours: ""
 website: ""

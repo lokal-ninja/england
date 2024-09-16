@@ -1,11 +1,11 @@
 id: 930738525
-type: way
+type: node
 latitude: 50.95848
 longitude: -0.13899
-postcode: "RH15 8LH"
+postcode: RH15 8LH
 city: Burgess Hill
-street: "London Road"
-housenumber: 153
-phone: "+44 7542287493"
+street: London Road
+housenumber: "153"
+phone: +44 7542287493
 opening_hours: ""
-website: "www.sweetoneuk.co.uk"
+website: www.sweetoneuk.co.uk

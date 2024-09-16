@@ -1,11 +1,11 @@
 id: 267321543
-type: way
+type: node
 latitude: 51.48521
 longitude: -2.61209
-postcode: "BS9 4JT"
+postcode: BS9 4JT
 city: Bristol
-street: "Henleaze Road"
-housenumber: 63
+street: Henleaze Road
+housenumber: "63"
 phone: ""
-opening_hours: "Mo-Sa 09:00-17:00; Su 10:00-16:00"
+opening_hours: Mo-Sa 09:00-17:00; Su 10:00-16:00
 website: ""

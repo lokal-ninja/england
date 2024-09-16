@@ -2,10 +2,10 @@ id: 10704533315
 type: node
 latitude: 53.95806
 longitude: -1.08723
-postcode: "YO1 6JL"
+postcode: YO1 6JL
 city: York
-street: "George Hudson Street"
-housenumber: 27
+street: George Hudson Street
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

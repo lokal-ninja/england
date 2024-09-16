@@ -1,11 +1,11 @@
 id: 61568124
-type: way
+type: node
 latitude: 52.90371
 longitude: -1.4516
-postcode: "DE24 8EH"
+postcode: DE24 8EH
 city: Derby
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.howdens.com/find-a-depot/derby"
+website: https://www.howdens.com/find-a-depot/derby

@@ -1,11 +1,11 @@
 id: 1225007287
-type: way
+type: node
 latitude: 53.39729
 longitude: -2.57392
-postcode: "WA1 3QY"
+postcode: WA1 3QY
 city: Warrington
-street: "Marsh House Lane"
-housenumber: 6
+street: Marsh House Lane
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

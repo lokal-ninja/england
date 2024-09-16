@@ -1,11 +1,11 @@
 id: 579380663
-type: way
+type: node
 latitude: 53.25253
 longitude: -1.44824
-postcode: "S41 8RJ"
+postcode: S41 8RJ
 city: Chesterfield
 street: ""
-housenumber: 74
+housenumber: "74"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.coop.co.uk/store-finder/S41-8RJ/74-newbold-village"
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.coop.co.uk/store-finder/S41-8RJ/74-newbold-village

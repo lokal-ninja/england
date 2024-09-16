@@ -1,11 +1,11 @@
 id: 249961869
-type: way
+type: node
 latitude: 53.10482
 longitude: -0.19041
-postcode: "LN4 4LJ"
+postcode: LN4 4LJ
 city: Lincoln
-street: "Market Place"
-housenumber: 33
+street: Market Place
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

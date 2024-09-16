@@ -1,11 +1,11 @@
 id: 272299403
-type: way
+type: node
 latitude: 51.51366
 longitude: -0.1391
 postcode: ""
 city: London
-street: "Carnaby Street"
-housenumber: 29
+street: Carnaby Street
+housenumber: "29"
 phone: ""
 opening_hours: ""
-website: "https://www.lambrettaclothing.co.uk/"
+website: https://www.lambrettaclothing.co.uk/

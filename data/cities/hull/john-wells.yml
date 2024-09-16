@@ -1,11 +1,11 @@
 id: 200324542
-type: way
+type: node
 latitude: 53.75714
 longitude: -0.44623
-postcode: "HU10 7UA"
+postcode: HU10 7UA
 city: Hull
-street: "Kingston Road"
-housenumber: 
+street: Kingston Road
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

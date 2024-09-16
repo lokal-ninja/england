@@ -2,10 +2,10 @@ id: 709276943
 type: node
 latitude: 53.79606
 longitude: -1.53808
-postcode: "LS2 7DR"
+postcode: LS2 7DR
 city: Leeds
-street: "Kirkgate"
-housenumber: 34
+street: Kirkgate
+housenumber: "34"
 phone: "+441612364224"
-opening_hours: "Mo-Sa 09:00-17:30; Su 11:00-17:00"
-website: "https://www.fredaldous.co.uk/pages/leeds"
+opening_hours: Mo-Sa 09:00-17:30; Su 11:00-17:00
+website: https://www.fredaldous.co.uk/pages/leeds

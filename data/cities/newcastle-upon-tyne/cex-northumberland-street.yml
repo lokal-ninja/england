@@ -1,11 +1,11 @@
 id: 410649731
-type: way
+type: node
 latitude: 54.97687
 longitude: -1.61306
-postcode: "NE1 7DG"
+postcode: NE1 7DG
 city: Newcastle upon Tyne
-street: "Northumberland Street"
-housenumber: 120
+street: Northumberland Street
+housenumber: "120"
 phone: ""
 opening_hours: ""
-website: "https://uk.webuy.com/site/storeDetail/?branchId=3150"
+website: https://uk.webuy.com/site/storeDetail/?branchId=3150

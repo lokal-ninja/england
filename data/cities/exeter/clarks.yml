@@ -2,10 +2,10 @@ id: 1976887208
 type: node
 latitude: 50.72441
 longitude: -3.52987
-postcode: "EX4 3NE"
+postcode: EX4 3NE
 city: Exeter
-street: "High Street"
-housenumber: 231
+street: High Street
+housenumber: "231"
 phone: ""
 opening_hours: ""
 website: ""

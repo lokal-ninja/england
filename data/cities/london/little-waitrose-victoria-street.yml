@@ -2,10 +2,10 @@ id: 2437583466
 type: node
 latitude: 51.4974
 longitude: -0.13716
-postcode: "SW1E 6QP"
+postcode: SW1E 6QP
 city: London
-street: "Victoria Street"
-housenumber: 62
+street: Victoria Street
+housenumber: "62"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.waitrose.com/find-a-store/victoria-street"
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.waitrose.com/find-a-store/victoria-street

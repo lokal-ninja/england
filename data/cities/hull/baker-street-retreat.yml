@@ -1,11 +1,11 @@
 id: 1152999190
-type: way
+type: node
 latitude: 53.74706
 longitude: -0.34273
-postcode: "HU2 8HP"
+postcode: HU2 8HP
 city: Hull
-street: "Baker Street"
-housenumber: 43
+street: Baker Street
+housenumber: "43"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1303436045
-type: way
+type: node
 latitude: 50.3717
 longitude: -4.14804
-postcode: "PL1 1QD"
+postcode: PL1 1QD
 city: Plymouth
-street: "Frankfort Gate"
-housenumber: 26
+street: Frankfort Gate
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

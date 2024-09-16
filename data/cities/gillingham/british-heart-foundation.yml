@@ -1,11 +1,11 @@
 id: 293473651
-type: way
+type: node
 latitude: 51.38706
 longitude: 0.54767
-postcode: "ME7 1AS"
+postcode: ME7 1AS
 city: Gillingham
-street: "High Street"
-housenumber: 128
+street: High Street
+housenumber: "128"
 phone: ""
 opening_hours: ""
-website: "https://www.bhf.org.uk/what-we-do/find-bhf-near-you/gillingham-bhf-shop"
+website: https://www.bhf.org.uk/what-we-do/find-bhf-near-you/gillingham-bhf-shop

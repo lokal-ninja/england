@@ -1,11 +1,11 @@
 id: 134838037
-type: way
+type: node
 latitude: 51.12887
 longitude: -2.99911
-postcode: "TA6 5AR"
+postcode: TA6 5AR
 city: Bridgwater
-street: "Eastover"
-housenumber: 36
-phone: "+44 1278 439569"
+street: Eastover
+housenumber: "36"
+phone: +44 1278 439569
 opening_hours: ""
 website: ""

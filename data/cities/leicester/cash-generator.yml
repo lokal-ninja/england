@@ -1,11 +1,11 @@
 id: 669602395
-type: way
+type: node
 latitude: 52.63765
 longitude: -1.13256
-postcode: "LE1 3GP"
+postcode: LE1 3GP
 city: Leicester
-street: "Belgrave Gate"
-housenumber: 28
+street: Belgrave Gate
+housenumber: "28"
 phone: ""
-opening_hours: "Mo,We-Sa 09:00-17:30; Tu 09:30-17:30; Su off"
+opening_hours: Mo,We-Sa 09:00-17:30; Tu 09:30-17:30; Su off
 website: ""

@@ -1,11 +1,11 @@
 id: 158465414
-type: way
+type: node
 latitude: 51.46968
 longitude: -2.59522
-postcode: "BS6 7AH"
+postcode: BS6 7AH
 city: Bristol
-street: "Zetland Road"
-housenumber: 27
-phone: "+44 117 942 8732"
-opening_hours: "We-Sa 10:30-17:00"
-website: "https://greenwoodsfurniture.co.uk"
+street: Zetland Road
+housenumber: "27"
+phone: +44 117 942 8732
+opening_hours: We-Sa 10:30-17:00
+website: https://greenwoodsfurniture.co.uk

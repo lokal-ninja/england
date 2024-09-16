@@ -1,11 +1,11 @@
 id: 555523004
-type: way
+type: node
 latitude: 51.30727
 longitude: -0.33195
-postcode: "KT22 7PB"
+postcode: KT22 7PB
 city: Leatherhead
-street: "Kingston Road"
-housenumber: 211
+street: Kingston Road
+housenumber: "211"
 phone: ""
-opening_hours: "Mo-Su 06:00-22:00"
+opening_hours: Mo-Su 06:00-22:00
 website: ""

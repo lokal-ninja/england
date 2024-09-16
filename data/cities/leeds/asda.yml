@@ -2,10 +2,10 @@ id: 301022545
 type: node
 latitude: 53.80725
 longitude: -1.5871
-postcode: "LS4 2EZ"
+postcode: LS4 2EZ
 city: Leeds
-street: "Kirkstall Road"
-housenumber: 385
+street: Kirkstall Road
+housenumber: "385"
 phone: ""
-opening_hours: "Mo-Sa 07:00-23:00; Su 10:00-16:00"
+opening_hours: Mo-Sa 07:00-23:00; Su 10:00-16:00
 website: ""

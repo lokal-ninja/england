@@ -1,11 +1,11 @@
 id: 55380673
-type: way
+type: node
 latitude: 51.37913
 longitude: -2.35911
-postcode: "BA1 1AN"
+postcode: BA1 1AN
 city: Bath
-street: "St. Lawrence Street"
-housenumber: 14
-phone: "+44 1225 314178"
-opening_hours: "Mo-Sa 09:30-18:00. Su 11:00- 17:00"
-website: "https://www.accessorize.com/uk/"
+street: St. Lawrence Street
+housenumber: "14"
+phone: +44 1225 314178
+opening_hours: Mo-Sa 09:30-18:00. Su 11:00- 17:00
+website: https://www.accessorize.com/uk/

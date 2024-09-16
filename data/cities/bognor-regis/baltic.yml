@@ -2,10 +2,10 @@ id: 5060301642
 type: node
 latitude: 50.78629
 longitude: -0.67589
-postcode: "PO21 1BU"
+postcode: PO21 1BU
 city: Bognor Regis
-street: "Richmond Road"
-housenumber: 3
+street: Richmond Road
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

@@ -2,10 +2,10 @@ id: 7019512946
 type: node
 latitude: 50.82165
 longitude: -0.14153
-postcode: "BN1 1AB"
+postcode: BN1 1AB
 city: Brighton
-street: "Ship Street"
-housenumber: 14
+street: Ship Street
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

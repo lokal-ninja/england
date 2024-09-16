@@ -1,11 +1,11 @@
 id: 698002843
-type: way
+type: node
 latitude: 51.4723
 longitude: -2.52611
-postcode: "BS16 3LY"
+postcode: BS16 3LY
 city: Bristol
-street: "Berkeley Road"
-housenumber: 10
-phone: "0117 9657677"
+street: Berkeley Road
+housenumber: "10"
+phone: 0117 9657677
 opening_hours: ""
-website: "https://berkeley-road-garage.business.site/"
+website: https://berkeley-road-garage.business.site/

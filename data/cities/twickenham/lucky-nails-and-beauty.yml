@@ -1,11 +1,11 @@
 id: 705581309
-type: way
+type: node
 latitude: 51.45532
 longitude: -0.31062
-postcode: "TW1 2DX"
+postcode: TW1 2DX
 city: Twickenham
-street: "Richmond Road"
-housenumber: 372
+street: Richmond Road
+housenumber: "372"
 phone: ""
 opening_hours: ""
 website: ""

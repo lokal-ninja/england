@@ -2,10 +2,10 @@ id: 6092510503
 type: node
 latitude: 53.80256
 longitude: -1.53332
-postcode: "LS2 7QN"
+postcode: LS2 7QN
 city: Leeds
-street: "Regent Street"
-housenumber: 11
+street: Regent Street
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

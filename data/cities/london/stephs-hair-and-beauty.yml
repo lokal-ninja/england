@@ -1,11 +1,11 @@
 id: 724801908
-type: way
+type: node
 latitude: 51.54701
 longitude: 0.00605
-postcode: "E15 1JA"
+postcode: E15 1JA
 city: London
-street: "Leytonstone Road"
-housenumber: 63
+street: Leytonstone Road
+housenumber: "63"
 phone: ""
 opening_hours: ""
-website: "https://stephsalon.co.uk/"
+website: https://stephsalon.co.uk/

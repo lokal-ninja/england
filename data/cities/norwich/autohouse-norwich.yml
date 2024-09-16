@@ -1,11 +1,11 @@
 id: 148092851
-type: way
+type: node
 latitude: 52.64537
 longitude: 1.21076
-postcode: "NR5 0SE"
+postcode: NR5 0SE
 city: Norwich
-street: "Dereham Road"
-housenumber: 399
-phone: "+44 1603 479000"
+street: Dereham Road
+housenumber: "399"
+phone: +44 1603 479000
 opening_hours: ""
-website: "http://autohousenorwich.co.uk/"
+website: http://autohousenorwich.co.uk/

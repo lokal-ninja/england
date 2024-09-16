@@ -2,10 +2,10 @@ id: 347693542
 type: node
 latitude: 51.47847
 longitude: 0.18617
-postcode: "DA8 2AQ"
+postcode: DA8 2AQ
 city: Erith
-street: "Manor Road"
-housenumber: 101
+street: Manor Road
+housenumber: "101"
 phone: ""
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-19:00"
-website: "https://www.premier-stores.co.uk/our-stores/royal-alfred"
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-19:00
+website: https://www.premier-stores.co.uk/our-stores/royal-alfred

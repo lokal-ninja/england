@@ -1,11 +1,11 @@
 id: 842022963
-type: way
+type: node
 latitude: 51.48668
 longitude: -0.11702
-postcode: "SE11 5QY"
+postcode: SE11 5QY
 city: London
-street: "Kennington Lane"
-housenumber: 289
+street: Kennington Lane
+housenumber: "289"
 phone: ""
 opening_hours: ""
 website: ""

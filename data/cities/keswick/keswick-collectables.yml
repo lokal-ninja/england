@@ -1,11 +1,11 @@
 id: 428801140
-type: way
+type: node
 latitude: 54.60007
 longitude: -3.13601
-postcode: "CA12 5AS"
+postcode: CA12 5AS
 city: Keswick
-street: "Saint John's Street"
-housenumber: 18
-phone: "+44 17687 74928"
-opening_hours: "Tu-Fr 12:00-16:00; Sa 11:00-17:00; Su,Mo off"
+street: Saint John's Street
+housenumber: "18"
+phone: +44 17687 74928
+opening_hours: Tu-Fr 12:00-16:00; Sa 11:00-17:00; Su,Mo off
 website: ""

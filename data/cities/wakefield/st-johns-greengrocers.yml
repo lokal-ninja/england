@@ -1,11 +1,11 @@
 id: 150941388
-type: way
+type: node
 latitude: 53.69161
 longitude: -1.5085
-postcode: "WF1 2AA"
+postcode: WF1 2AA
 city: Wakefield
-street: "Bradford Road"
-housenumber: 53
+street: Bradford Road
+housenumber: "53"
 phone: ""
 opening_hours: ""
 website: ""

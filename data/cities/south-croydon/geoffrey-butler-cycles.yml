@@ -1,11 +1,11 @@
 id: 271629761
-type: way
+type: node
 latitude: 51.34894
 longitude: -0.10081
-postcode: "CR2 6EU"
+postcode: CR2 6EU
 city: South Croydon
-street: "Brighton Road"
-housenumber: 429
-phone: "+44 20 8688 5094"
+street: Brighton Road
+housenumber: "429"
+phone: +44 20 8688 5094
 opening_hours: ""
 website: ""

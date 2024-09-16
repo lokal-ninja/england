@@ -1,11 +1,11 @@
 id: 399702895
-type: way
+type: node
 latitude: 51.20635
 longitude: -4.12599
-postcode: "EX34 9QE"
+postcode: EX34 9QE
 city: Ilfracombe
-street: "High Street"
-housenumber: 69
+street: High Street
+housenumber: "69"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.coop.co.uk/store-finder/EX34-9QE/69-high-street"
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.coop.co.uk/store-finder/EX34-9QE/69-high-street

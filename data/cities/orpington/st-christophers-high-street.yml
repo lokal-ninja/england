@@ -1,11 +1,11 @@
 id: 1104184016
-type: way
+type: node
 latitude: 51.37758
 longitude: 0.1011
 postcode: ""
 city: Orpington
-street: "High Street"
-housenumber: 
+street: High Street
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

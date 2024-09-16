@@ -2,10 +2,10 @@ id: 540436000
 type: node
 latitude: 52.2524
 longitude: -0.81366
-postcode: "NN3 9AQ"
+postcode: NN3 9AQ
 city: Northampton
-street: "Fieldmill Square"
-housenumber: 1
+street: Fieldmill Square
+housenumber: "1"
 phone: ""
-opening_hours: "Su 07:00-22:00; Mo-Sa 06:30-22:00"
-website: "https://www.coop.co.uk/store-finder/NN3-9DG/field-mill-road"
+opening_hours: Su 07:00-22:00; Mo-Sa 06:30-22:00
+website: https://www.coop.co.uk/store-finder/NN3-9DG/field-mill-road

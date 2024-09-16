@@ -1,11 +1,11 @@
 id: 4993828
-type: way
+type: node
 latitude: 51.41202
 longitude: -0.1589
-postcode: "CR4 2AD"
+postcode: CR4 2AD
 city: Mitcham
-street: "Streatham Road"
-housenumber: 23
+street: Streatham Road
+housenumber: "23"
 phone: ""
 opening_hours: ""
-website: "https://www.lidl.co.uk/s/en-GB/store-finder/london/streatham-road-23/"
+website: https://www.lidl.co.uk/s/en-GB/store-finder/london/streatham-road-23/

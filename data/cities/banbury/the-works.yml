@@ -1,11 +1,11 @@
 id: 993464054
-type: way
+type: node
 latitude: 52.06176
 longitude: -1.33512
-postcode: "OX16 5DZ"
+postcode: OX16 5DZ
 city: Banbury
-street: "High Street"
-housenumber: 3
+street: High Street
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://www.theworks.co.uk/Store?storeId=0300"
+website: https://www.theworks.co.uk/Store?storeId=0300

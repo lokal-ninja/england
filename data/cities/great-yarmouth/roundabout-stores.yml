@@ -1,11 +1,11 @@
 id: 211168360
-type: way
+type: node
 latitude: 52.60278
 longitude: 1.73291
-postcode: "NR30 3BQ"
+postcode: NR30 3BQ
 city: Great Yarmouth
-street: "St Peters Road"
-housenumber: 18
+street: St Peters Road
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

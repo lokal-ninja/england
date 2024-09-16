@@ -1,11 +1,11 @@
 id: 1234811378
-type: way
+type: node
 latitude: 51.56866
 longitude: -1.91984
-postcode: "SN5 0AL"
+postcode: SN5 0AL
 city: Swindon
-street: "Lydiard Plain"
-housenumber: 
+street: Lydiard Plain
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 08:00-19:00; Oct 02-Mar 01 Mo-Su 08:00-17:00"
-website: "http://www.wiltscaravanstorage.co.uk/"
+opening_hours: Mo-Su 08:00-19:00; Oct 02-Mar 01 Mo-Su 08:00-17:00
+website: http://www.wiltscaravanstorage.co.uk/

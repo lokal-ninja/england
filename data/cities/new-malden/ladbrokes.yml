@@ -1,11 +1,11 @@
 id: 881439939
-type: way
+type: node
 latitude: 51.40298
 longitude: -0.27388
-postcode: "KT3 3RN"
+postcode: KT3 3RN
 city: New Malden
-street: "Kingston Road"
-housenumber: 232
+street: Kingston Road
+housenumber: "232"
 phone: ""
 opening_hours: ""
 website: ""

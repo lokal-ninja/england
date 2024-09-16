@@ -1,11 +1,11 @@
 id: 1213660080
-type: way
+type: node
 latitude: 53.39324
 longitude: -1.45788
-postcode: "S4 7HA"
+postcode: S4 7HA
 city: Sheffield
-street: "Gower Street"
-housenumber: 5
+street: Gower Street
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

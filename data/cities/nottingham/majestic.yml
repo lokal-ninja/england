@@ -1,11 +1,11 @@
 id: 244682803
-type: way
+type: node
 latitude: 52.9471
 longitude: -1.16609
-postcode: "NG7 1FN"
+postcode: NG7 1FN
 city: Nottingham
-street: "Castle Boulevard"
-housenumber: 80
+street: Castle Boulevard
+housenumber: "80"
 phone: ""
 opening_hours: ""
-website: "https://www.majestic.co.uk/stores/nottingham"
+website: https://www.majestic.co.uk/stores/nottingham

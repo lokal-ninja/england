@@ -2,10 +2,10 @@ id: 317020599
 type: node
 latitude: 53.78983
 longitude: -1.53156
-postcode: "LS10 1PZ"
+postcode: LS10 1PZ
 city: Leeds
-street: "The Boulevard"
-housenumber: 2
+street: The Boulevard
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Su 06:00-23:00"
+opening_hours: Mo-Su 06:00-23:00
 website: ""

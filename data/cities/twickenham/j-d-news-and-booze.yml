@@ -1,11 +1,11 @@
 id: 1058386439
-type: way
+type: node
 latitude: 51.4534
 longitude: -0.33617
-postcode: "TW1 1BZ"
+postcode: TW1 1BZ
 city: Twickenham
-street: "Whitton Road"
-housenumber: 101
+street: Whitton Road
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

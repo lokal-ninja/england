@@ -1,11 +1,11 @@
 id: 147096432
-type: way
+type: node
 latitude: 51.52657
 longitude: -0.10365
-postcode: "EC1V 4PE"
+postcode: EC1V 4PE
 city: London
-street: "St. John Street"
-housenumber: 270
+street: St. John Street
+housenumber: "270"
 phone: ""
-opening_hours: "Mo-Fr 11:00-19:00,Sa 12:00-17:00"
+opening_hours: Mo-Fr 11:00-19:00,Sa 12:00-17:00
 website: ""

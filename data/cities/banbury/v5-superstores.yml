@@ -1,11 +1,11 @@
 id: 939272392
-type: way
+type: node
 latitude: 52.06017
 longitude: -1.33968
-postcode: "OX16 0AA"
+postcode: OX16 0AA
 city: Banbury
-street: "Horsefair"
-housenumber: 2
+street: Horsefair
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 06:00-24:00; Su 07:00-22:00"
+opening_hours: Mo-Sa 06:00-24:00; Su 07:00-22:00
 website: ""

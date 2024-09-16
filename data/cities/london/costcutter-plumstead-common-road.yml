@@ -1,11 +1,11 @@
 id: 232841635
-type: way
+type: node
 latitude: 51.48138
 longitude: 0.07729
-postcode: "SE18 2UQ"
+postcode: SE18 2UQ
 city: London
-street: "Plumstead Common Road"
-housenumber: 121
+street: Plumstead Common Road
+housenumber: "121"
 phone: ""
 opening_hours: ""
 website: ""

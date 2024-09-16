@@ -1,11 +1,11 @@
 id: 122444091
-type: way
+type: node
 latitude: 53.39331
 longitude: -1.48466
-postcode: "S6 3BL"
+postcode: S6 3BL
 city: Sheffield
-street: "Gilpin Street"
-housenumber: 1
+street: Gilpin Street
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

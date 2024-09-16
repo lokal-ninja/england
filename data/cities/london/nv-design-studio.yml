@@ -1,11 +1,11 @@
 id: 508020416
-type: way
+type: node
 latitude: 51.55837
 longitude: 0.00686
-postcode: "E11 4JU"
+postcode: E11 4JU
 city: London
-street: "High Road Leytonstone"
-housenumber: 467
+street: High Road Leytonstone
+housenumber: "467"
 phone: ""
 opening_hours: ""
 website: ""

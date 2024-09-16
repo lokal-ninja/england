@@ -1,11 +1,11 @@
 id: 282123974
-type: way
+type: node
 latitude: 51.72906
 longitude: 0.47082
-postcode: "CM2 0LD"
+postcode: CM2 0LD
 city: Chelmsford
-street: "Moulsham Street"
-housenumber: 174
-phone: "+44 1245 600245"
-opening_hours: "Mo-Sa 09:00-17:30; Su off"
-website: "https://www.thistledrycleanerschelmsford.com/"
+street: Moulsham Street
+housenumber: "174"
+phone: +44 1245 600245
+opening_hours: Mo-Sa 09:00-17:30; Su off
+website: https://www.thistledrycleanerschelmsford.com/

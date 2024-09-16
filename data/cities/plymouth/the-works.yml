@@ -1,11 +1,11 @@
 id: 926721097
-type: way
+type: node
 latitude: 50.37234
 longitude: -4.14054
-postcode: "PL1 1NL"
+postcode: PL1 1NL
 city: Plymouth
-street: "Cornwall Street"
-housenumber: 15
+street: Cornwall Street
+housenumber: "15"
 phone: ""
 opening_hours: ""
-website: "https://www.theworks.co.uk/Store?storeId=1213"
+website: https://www.theworks.co.uk/Store?storeId=1213

@@ -2,10 +2,10 @@ id: 2578599116
 type: node
 latitude: 53.39207
 longitude: -2.64958
-postcode: "WA5 1RQ"
+postcode: WA5 1RQ
 city: Warrington
-street: "Station Road"
-housenumber: 12
+street: Station Road
+housenumber: "12"
 phone: ""
-opening_hours: "Tu,Fr 09:00-18:00; We 13:00-18:00; Th 10:00-19:00; Sa 08:00-16:00"
+opening_hours: Tu,Fr 09:00-18:00; We 13:00-18:00; Th 10:00-19:00; Sa 08:00-16:00
 website: ""

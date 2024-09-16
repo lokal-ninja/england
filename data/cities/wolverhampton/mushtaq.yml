@@ -1,11 +1,11 @@
 id: 118496185
-type: way
+type: node
 latitude: 52.58392
 longitude: -2.12995
-postcode: "WV1 3PW"
+postcode: WV1 3PW
 city: Wolverhampton
-street: "Victoria Street"
-housenumber: 25
+street: Victoria Street
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

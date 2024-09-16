@@ -1,11 +1,11 @@
 id: 112001353
-type: way
+type: node
 latitude: 52.03589
 longitude: -0.30562
-postcode: "SG17 5RG"
+postcode: SG17 5RG
 city: Clifton
-street: "Shefford Road"
-housenumber: 27
+street: Shefford Road
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

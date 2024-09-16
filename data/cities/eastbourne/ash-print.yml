@@ -1,11 +1,11 @@
 id: 868461893
-type: way
+type: node
 latitude: 50.76635
 longitude: 0.27976
 postcode: ""
 city: Eastbourne
-street: "South Street"
-housenumber: 22
-phone: "+44 1323 734645"
+street: South Street
+housenumber: "22"
+phone: +44 1323 734645
 opening_hours: ""
-website: "https://www.ashprint.co.uk/"
+website: https://www.ashprint.co.uk/

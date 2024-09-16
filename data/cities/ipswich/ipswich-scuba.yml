@@ -1,11 +1,11 @@
 id: 352302786
-type: way
+type: node
 latitude: 52.04788
 longitude: 1.18421
-postcode: "IP3 9BG"
+postcode: IP3 9BG
 city: Ipswich
-street: "Hines Road"
-housenumber: 22
+street: Hines Road
+housenumber: "22"
 phone: "+441473711818"
-opening_hours: "Sa 09:00-18:00"
-website: "https://www.ipswichscuba.co.uk/"
+opening_hours: Sa 09:00-18:00
+website: https://www.ipswichscuba.co.uk/

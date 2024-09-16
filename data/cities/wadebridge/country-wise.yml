@@ -1,11 +1,11 @@
 id: 1202990987
-type: way
+type: node
 latitude: 50.51755
 longitude: -4.83706
-postcode: "PL27 7AL"
+postcode: PL27 7AL
 city: Wadebridge
-street: "Eddystone Road"
-housenumber: 5
+street: Eddystone Road
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://www.countrywisewadebridge.co.uk/"
+website: https://www.countrywisewadebridge.co.uk/

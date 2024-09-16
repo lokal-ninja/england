@@ -1,11 +1,11 @@
 id: 338792205
-type: way
+type: node
 latitude: 50.73105
 longitude: -3.50341
-postcode: "EX4 7HZ"
+postcode: EX4 7HZ
 city: Exeter
-street: "Pinhoe Road"
-housenumber: 169
+street: Pinhoe Road
+housenumber: "169"
 phone: ""
 opening_hours: ""
 website: ""

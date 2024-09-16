@@ -1,11 +1,11 @@
 id: 220809347
-type: way
+type: node
 latitude: 52.9056
 longitude: -1.25395
-postcode: "NG9 6EN"
+postcode: NG9 6EN
 city: Nottingham
-street: "High Road"
-housenumber: 81
+street: High Road
+housenumber: "81"
 phone: ""
 opening_hours: ""
-website: "https://www.t-s-autos.co.uk/"
+website: https://www.t-s-autos.co.uk/

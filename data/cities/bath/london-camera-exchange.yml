@@ -1,11 +1,11 @@
 id: 373343727
-type: way
+type: node
 latitude: 51.38163
 longitude: -2.35938
-postcode: "BA1 1NA"
+postcode: BA1 1NA
 city: Bath
-street: "Cheap Street"
-housenumber: 13
+street: Cheap Street
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

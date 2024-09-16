@@ -1,11 +1,11 @@
 id: 428516155
-type: way
+type: node
 latitude: 52.90488
 longitude: -1.44594
-postcode: "DE24 8UU"
+postcode: DE24 8UU
 city: Derby
-street: "London Road"
-housenumber: 819
+street: London Road
+housenumber: "819"
 phone: ""
 opening_hours: ""
 website: ""

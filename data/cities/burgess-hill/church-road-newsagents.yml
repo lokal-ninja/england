@@ -1,11 +1,11 @@
 id: 915935998
-type: way
+type: node
 latitude: 50.95723
 longitude: -0.13621
-postcode: "RH15 9AA"
+postcode: RH15 9AA
 city: Burgess Hill
-street: "Lower Church Road"
-housenumber: 137
+street: Lower Church Road
+housenumber: "137"
 phone: ""
 opening_hours: ""
 website: ""

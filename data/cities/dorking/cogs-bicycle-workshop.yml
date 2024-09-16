@@ -2,10 +2,10 @@ id: 6869224378
 type: node
 latitude: 51.22971
 longitude: -0.33453
-postcode: "RH4 2JX"
+postcode: RH4 2JX
 city: Dorking
-street: "South Street"
-housenumber: 43
-phone: "+44 1306 735364"
+street: South Street
+housenumber: "43"
+phone: +44 1306 735364
 opening_hours: ""
-website: "https://cogsworkshop.com/"
+website: https://cogsworkshop.com/

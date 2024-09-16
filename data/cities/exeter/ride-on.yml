@@ -2,10 +2,10 @@ id: 5680094831
 type: node
 latitude: 50.71626
 longitude: -3.52985
-postcode: "EX2 8DP"
+postcode: EX2 8DP
 city: Exeter
-street: "Haven Road"
-housenumber: 61
-phone: "+44 7544 314749"
-opening_hours: "Mo-Su 10:00-17:00; PH closed"
-website: "https://rideoncycling.org/"
+street: Haven Road
+housenumber: "61"
+phone: +44 7544 314749
+opening_hours: Mo-Su 10:00-17:00; PH closed
+website: https://rideoncycling.org/

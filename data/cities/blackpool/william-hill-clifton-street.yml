@@ -1,11 +1,11 @@
 id: 1210641750
-type: way
+type: node
 latitude: 53.81768
 longitude: -3.04949
-postcode: "FY1 1HZ"
+postcode: FY1 1HZ
 city: Blackpool
-street: "Clifton Street"
-housenumber: 121
+street: Clifton Street
+housenumber: "121"
 phone: ""
 opening_hours: ""
 website: ""

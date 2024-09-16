@@ -1,11 +1,11 @@
 id: 28973015
-type: way
+type: node
 latitude: 52.03019
 longitude: 1.21514
-postcode: "IP3 9SL"
+postcode: IP3 9SL
 city: Ipswich
-street: "Central Avenue"
-housenumber: 11
+street: Central Avenue
+housenumber: "11"
 phone: "+441473321193"
-opening_hours: "Mo-Fr 07:00-17:00; Sa 08:00-12:00"
-website: "https://www.hirebase.uk/branchlocator/ipswich"
+opening_hours: Mo-Fr 07:00-17:00; Sa 08:00-12:00
+website: https://www.hirebase.uk/branchlocator/ipswich

@@ -1,11 +1,11 @@
 id: 565172827
-type: way
+type: node
 latitude: 50.44558
 longitude: -3.58336
-postcode: "TQ3 3NJ"
+postcode: TQ3 3NJ
 city: Paignton
-street: "Marldon Road"
-housenumber: 120
+street: Marldon Road
+housenumber: "120"
 phone: ""
 opening_hours: ""
 website: ""

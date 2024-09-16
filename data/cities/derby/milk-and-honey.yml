@@ -1,11 +1,11 @@
 id: 130642644
-type: way
+type: node
 latitude: 52.92327
 longitude: -1.47848
-postcode: "DE1 3NF"
+postcode: DE1 3NF
 city: Derby
-street: "Sadler Gate"
-housenumber: 15
+street: Sadler Gate
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 459061748
-type: way
+type: node
 latitude: 51.5771
 longitude: -0.00973
 postcode: ""
 city: London
-street: "Lea Bridge Road"
-housenumber: 716
+street: Lea Bridge Road
+housenumber: "716"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 123092671
-type: way
+type: node
 latitude: 51.5405
 longitude: -0.196
-postcode: "NW6 4JD"
+postcode: NW6 4JD
 city: London
-street: "Kilburn High Road"
+street: Kilburn High Road
 housenumber: 142-146
 phone: ""
-opening_hours: "Mo-Sa 07:00-23:00; Su 11:00-17:00; PH 08:00-20:00"
+opening_hours: Mo-Sa 07:00-23:00; Su 11:00-17:00; PH 08:00-20:00
 website: ""

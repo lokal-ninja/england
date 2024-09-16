@@ -1,11 +1,11 @@
 id: 184454670
-type: way
+type: node
 latitude: 50.81343
 longitude: -0.10446
-postcode: "BN2 5UT"
+postcode: BN2 5UT
 city: Brighton
-street: "Brighton Marina"
-housenumber: 
+street: Brighton Marina
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 06:00-24:00; Sa 06:00-22:00; Su 11:00-17:00"
+opening_hours: Mo-Fr 06:00-24:00; Sa 06:00-22:00; Su 11:00-17:00
 website: ""

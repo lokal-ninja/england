@@ -1,11 +1,11 @@
 id: 1257542074
-type: way
+type: node
 latitude: 53.39267
 longitude: -3.01742
-postcode: "CH41 5BT"
+postcode: CH41 5BT
 city: Birkenhead
-street: "Market Street"
-housenumber: 76
+street: Market Street
+housenumber: "76"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 259810336
-type: way
+type: node
 latitude: 53.47375
 longitude: -2.18497
-postcode: "M11 2FB"
+postcode: M11 2FB
 city: Manchester
-street: "Wood Street"
-housenumber: 5
-phone: "+44 161 333 2000"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-12:00"
-website: "https://smithshire.com/find-your-nearest-hire-it-centre/manchester/"
+street: Wood Street
+housenumber: "5"
+phone: +44 161 333 2000
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-12:00
+website: https://smithshire.com/find-your-nearest-hire-it-centre/manchester/

@@ -1,11 +1,11 @@
 id: 135349965
-type: way
+type: node
 latitude: 52.53865
 longitude: -1.88047
 postcode: ""
 city: Birmingham
-street: "Hawthorn Road"
-housenumber: 
-phone: "+44 121 373 1562"
-opening_hours: "Mo-Sa 07:00-21:00; Su 10:00-16:00"
-website: "https://stores.centralengland.coop/west-midlands/birmingham/109-119-hawthorn-road"
+street: Hawthorn Road
+housenumber: ""
+phone: +44 121 373 1562
+opening_hours: Mo-Sa 07:00-21:00; Su 10:00-16:00
+website: https://stores.centralengland.coop/west-midlands/birmingham/109-119-hawthorn-road

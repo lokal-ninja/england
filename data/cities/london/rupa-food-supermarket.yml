@@ -1,11 +1,11 @@
 id: 818051642
-type: way
+type: node
 latitude: 51.51421
 longitude: -0.05027
-postcode: "E1 0SG"
+postcode: E1 0SG
 city: London
-street: "Brayford Square"
-housenumber: 2
+street: Brayford Square
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

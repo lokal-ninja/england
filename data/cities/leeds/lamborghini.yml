@@ -1,11 +1,11 @@
 id: 754993475
-type: way
+type: node
 latitude: 53.7789
 longitude: -1.47934
-postcode: "LS9 0AA"
+postcode: LS9 0AA
 city: Leeds
-street: "Aire Valley Drive"
-housenumber: 2
+street: Aire Valley Drive
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

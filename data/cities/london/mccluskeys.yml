@@ -1,11 +1,11 @@
 id: 954428091
-type: way
+type: node
 latitude: 51.43915
 longitude: -0.20385
-postcode: "SW18 5NW"
+postcode: SW18 5NW
 city: London
-street: "Revelstoke Road"
-housenumber: 200
+street: Revelstoke Road
+housenumber: "200"
 phone: ""
 opening_hours: ""
 website: ""

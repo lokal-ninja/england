@@ -1,11 +1,11 @@
 id: 773123991
-type: way
+type: node
 latitude: 53.75089
 longitude: -1.44852
-postcode: "LS26 8HP"
+postcode: LS26 8HP
 city: Leeds
-street: "Aberford Road"
-housenumber: 
+street: Aberford Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00; Su 10:00-16:00; PH 08:00-20:00"
-website: "https://www.lidl.co.uk/s/en-GB/store-finder/leeds/oulton/aberford-road/"
+opening_hours: Mo-Sa 08:00-22:00; Su 10:00-16:00; PH 08:00-20:00
+website: https://www.lidl.co.uk/s/en-GB/store-finder/leeds/oulton/aberford-road/

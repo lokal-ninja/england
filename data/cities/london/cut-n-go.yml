@@ -1,11 +1,11 @@
 id: 76507124
-type: way
+type: node
 latitude: 51.56401
 longitude: -0.1355
-postcode: "N19 5RD"
+postcode: N19 5RD
 city: London
-street: "Junction Road"
-housenumber: 44
+street: Junction Road
+housenumber: "44"
 phone: ""
 opening_hours: ""
 website: ""

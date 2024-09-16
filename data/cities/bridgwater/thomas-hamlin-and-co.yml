@@ -1,11 +1,11 @@
 id: 158518139
-type: way
+type: node
 latitude: 51.13101
 longitude: -2.99518
-postcode: "TA6 5EJ"
+postcode: TA6 5EJ
 city: Bridgwater
-street: "Monmouth Street"
-housenumber: 64
+street: Monmouth Street
+housenumber: "64"
 phone: ""
-opening_hours: "Mo-Sa 09:00-18:00"
+opening_hours: Mo-Sa 09:00-18:00
 website: ""

@@ -2,10 +2,10 @@ id: 4983666418
 type: node
 latitude: 51.73584
 longitude: 0.46993
-postcode: "CM1 1TB"
+postcode: CM1 1TB
 city: Chelmsford
-street: "Duke Street"
-housenumber: 25
-phone: "+44 1245 262527"
-opening_hours: "Mo-Fr 09:00-16:00; Sa-Su off"
-website: "https://www.mbe.co.uk/"
+street: Duke Street
+housenumber: "25"
+phone: +44 1245 262527
+opening_hours: Mo-Fr 09:00-16:00; Sa-Su off
+website: https://www.mbe.co.uk/

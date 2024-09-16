@@ -1,11 +1,11 @@
 id: 290457609
-type: way
+type: node
 latitude: 51.52513
 longitude: -0.12537
 postcode: ""
 city: London
-street: "Marchmont Street"
-housenumber: 57
+street: Marchmont Street
+housenumber: "57"
 phone: ""
 opening_hours: ""
 website: ""

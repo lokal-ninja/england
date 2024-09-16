@@ -1,11 +1,11 @@
 id: 431686158
-type: way
+type: node
 latitude: 51.4738
 longitude: -0.05848
-postcode: "SE15 2ND"
+postcode: SE15 2ND
 city: London
-street: "Queen's Road"
-housenumber: 131
+street: Queen's Road
+housenumber: "131"
 phone: ""
 opening_hours: ""
 website: ""

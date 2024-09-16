@@ -1,11 +1,11 @@
 id: 403116700
-type: way
+type: node
 latitude: 52.90485
 longitude: -2.48263
-postcode: "TF9 1HY"
+postcode: TF9 1HY
 city: Market Drayton
-street: "Stafford Street"
-housenumber: 32
+street: Stafford Street
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su 10:00-16:00"
+opening_hours: Mo-Sa 07:00-22:00; Su 10:00-16:00
 website: ""

@@ -1,11 +1,11 @@
 id: 313501589
-type: way
+type: node
 latitude: 51.53819
 longitude: 0.07973
-postcode: "IG11 8ED"
+postcode: IG11 8ED
 city: Barking
-street: "Station Parade"
-housenumber: 1
+street: Station Parade
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

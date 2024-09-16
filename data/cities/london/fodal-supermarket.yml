@@ -1,11 +1,11 @@
 id: 611974192
-type: way
+type: node
 latitude: 51.5179
 longitude: -0.03926
-postcode: "E1 3NN"
+postcode: E1 3NN
 city: London
-street: "Ben Jonson Road"
-housenumber: 74
+street: Ben Jonson Road
+housenumber: "74"
 phone: ""
 opening_hours: ""
 website: ""

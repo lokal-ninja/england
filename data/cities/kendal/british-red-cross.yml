@@ -4,8 +4,8 @@ latitude: 54.32767
 longitude: -2.74692
 postcode: ""
 city: Kendal
-street: "Finkle Street"
-housenumber: 7
+street: Finkle Street
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 09:00-17:00"
-website: "https://www.redcross.org.uk/shop/find-a-charity-shop/kendal"
+opening_hours: Mo-Sa 09:00-17:00
+website: https://www.redcross.org.uk/shop/find-a-charity-shop/kendal

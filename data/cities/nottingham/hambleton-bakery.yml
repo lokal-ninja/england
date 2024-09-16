@@ -1,11 +1,11 @@
 id: 404807839
-type: way
+type: node
 latitude: 52.92642
 longitude: -1.12813
-postcode: "NG2 6ET"
+postcode: NG2 6ET
 city: Nottingham
-street: "Melton Road"
-housenumber: 101
+street: Melton Road
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

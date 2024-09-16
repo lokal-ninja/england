@@ -1,11 +1,11 @@
 id: 562999848
-type: way
+type: node
 latitude: 50.21359
 longitude: -5.30068
-postcode: "TR14 8JY"
+postcode: TR14 8JY
 city: Camborne
-street: "Commercial Street"
-housenumber: 24
+street: Commercial Street
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

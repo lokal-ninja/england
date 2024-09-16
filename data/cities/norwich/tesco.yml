@@ -1,11 +1,11 @@
 id: 122124614
-type: way
+type: node
 latitude: 52.59556
 longitude: 1.27693
-postcode: "NR4 6DZ"
+postcode: NR4 6DZ
 city: Norwich
-street: "Ipswich Road"
-housenumber: 
-phone: "+44 8456 779507"
-opening_hours: "Mo-Sa 06:00-24:00; Su 10:00-16:00; PH 09:00-18:00"
-website: "https://www.tesco.com/store-locator/norwich/ipswich-rd"
+street: Ipswich Road
+housenumber: ""
+phone: +44 8456 779507
+opening_hours: Mo-Sa 06:00-24:00; Su 10:00-16:00; PH 09:00-18:00
+website: https://www.tesco.com/store-locator/norwich/ipswich-rd

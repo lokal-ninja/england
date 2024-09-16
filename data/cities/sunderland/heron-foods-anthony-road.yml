@@ -1,11 +1,11 @@
 id: 400751902
-type: way
+type: node
 latitude: 54.8755
 longitude: -1.42661
-postcode: "SR3 3HG"
+postcode: SR3 3HG
 city: Sunderland
-street: "Anthony Road"
-housenumber: 
+street: Anthony Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su 10:00-16:00"
-website: "https://heronfoods.com/store/farringdon/"
+opening_hours: Mo-Sa 08:00-20:00; Su 10:00-16:00
+website: https://heronfoods.com/store/farringdon/

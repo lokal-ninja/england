@@ -1,11 +1,11 @@
 id: 204000356
-type: way
+type: node
 latitude: 51.51626
 longitude: -0.07685
-postcode: "E1 7DA"
+postcode: E1 7DA
 city: London
-street: "Middlesex Street"
-housenumber: 95
+street: Middlesex Street
+housenumber: "95"
 phone: ""
 opening_hours: ""
 website: ""

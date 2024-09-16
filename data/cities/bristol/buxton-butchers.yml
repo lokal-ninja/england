@@ -1,11 +1,11 @@
 id: 580387042
-type: way
+type: node
 latitude: 51.51851
 longitude: -2.504
-postcode: "BS36 1HS"
+postcode: BS36 1HS
 city: Bristol
-street: "Bradley Avenue"
-housenumber: 62
+street: Bradley Avenue
+housenumber: "62"
 phone: ""
 opening_hours: ""
 website: ""

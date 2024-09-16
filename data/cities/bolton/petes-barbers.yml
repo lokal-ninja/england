@@ -1,11 +1,11 @@
 id: 844698986
-type: way
+type: node
 latitude: 53.58646
 longitude: -2.45118
-postcode: "BL1 4JE"
+postcode: BL1 4JE
 city: Bolton
-street: "Chorley Old Road"
-housenumber: 264
+street: Chorley Old Road
+housenumber: "264"
 phone: ""
 opening_hours: ""
 website: ""

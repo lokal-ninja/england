@@ -1,11 +1,11 @@
 id: 87266678
-type: way
+type: node
 latitude: 53.68447
 longitude: -1.49662
-postcode: "WF1 1QW"
+postcode: WF1 1QW
 city: Wakefield
-street: "Brook Street"
-housenumber: 43
+street: Brook Street
+housenumber: "43"
 phone: ""
 opening_hours: ""
 website: ""

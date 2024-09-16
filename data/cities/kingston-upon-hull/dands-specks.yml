@@ -1,11 +1,11 @@
 id: 300055058
-type: way
+type: node
 latitude: 53.75687
 longitude: -0.40878
-postcode: "HU5 5XG"
+postcode: HU5 5XG
 city: Kingston upon Hull
-street: "Wold Road"
-housenumber: 242
+street: Wold Road
+housenumber: "242"
 phone: ""
 opening_hours: ""
 website: ""

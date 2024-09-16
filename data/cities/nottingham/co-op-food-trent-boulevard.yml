@@ -1,11 +1,11 @@
 id: 78191460
-type: way
+type: node
 latitude: 52.93874
 longitude: -1.11936
-postcode: "NG2 5BN"
+postcode: NG2 5BN
 city: Nottingham
-street: "Trent Boulevard"
-housenumber: 111
+street: Trent Boulevard
+housenumber: "111"
 phone: ""
-opening_hours: "07:00-23:00"
+opening_hours: 07:00-23:00
 website: ""

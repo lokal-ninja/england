@@ -1,11 +1,11 @@
 id: 80217764
-type: way
+type: node
 latitude: 51.45261
 longitude: -0.90501
 postcode: ""
 city: Reading
 street: ""
-housenumber: 
-phone: "+44 118 944 8883"
-opening_hours: "Mo-Sa 09:00-17:30"
+housenumber: ""
+phone: +44 118 944 8883
+opening_hours: Mo-Sa 09:00-17:30
 website: ""

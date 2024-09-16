@@ -1,11 +1,11 @@
 id: 708212649
-type: way
+type: node
 latitude: 51.42614
 longitude: -0.33868
-postcode: "TW11 8QZ"
+postcode: TW11 8QZ
 city: Teddington
-street: "Broad Street"
-housenumber: 25
+street: Broad Street
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00"
+opening_hours: Mo-Fr 09:00-17:00
 website: ""

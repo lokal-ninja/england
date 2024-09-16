@@ -1,11 +1,11 @@
 id: 28094084
-type: way
+type: node
 latitude: 51.45449
 longitude: 0.24666
-postcode: "DA2 6SB"
+postcode: DA2 6SB
 city: Dartford
-street: "Capstan Court"
-housenumber: 3
-phone: "+44 1322 643211"
-opening_hours: "Mo-Fr 08:00-18:00; Sa-Su closed"
-website: "https://www.tesla.com/en_GB/findus/location/service/londondartford"
+street: Capstan Court
+housenumber: "3"
+phone: +44 1322 643211
+opening_hours: Mo-Fr 08:00-18:00; Sa-Su closed
+website: https://www.tesla.com/en_GB/findus/location/service/londondartford

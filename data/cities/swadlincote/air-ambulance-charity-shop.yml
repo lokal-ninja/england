@@ -1,11 +1,11 @@
 id: 1282580582
-type: way
+type: node
 latitude: 52.77378
 longitude: -1.55709
-postcode: "DE11 8JG"
+postcode: DE11 8JG
 city: Swadlincote
-street: "High Street"
-housenumber: 5
-phone: "+44 1283 219220"
-opening_hours: "Mo-Sa 09:00-17:00"
+street: High Street
+housenumber: "5"
+phone: +44 1283 219220
+opening_hours: Mo-Sa 09:00-17:00
 website: ""

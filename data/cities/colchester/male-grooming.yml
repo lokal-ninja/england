@@ -1,11 +1,11 @@
 id: 484971506
-type: way
+type: node
 latitude: 51.8894
 longitude: 0.89952
-postcode: "CO1 1JT"
+postcode: CO1 1JT
 city: Colchester
-street: "Pelham's Lane"
-housenumber: 6
+street: Pelham's Lane
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

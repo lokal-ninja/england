@@ -1,11 +1,11 @@
 id: 1013403416
-type: way
+type: node
 latitude: 50.82799
 longitude: -0.28671
 postcode: ""
 city: Shoreham-by-Sea
-street: "Beach Green"
-housenumber: 130
-phone: "+44 1273 977449"
-opening_hours: "Mo-Fr 08:00-15:00; Sa,PH 09:00-14:00"
-website: "http://beachdeli.co.uk/"
+street: Beach Green
+housenumber: "130"
+phone: +44 1273 977449
+opening_hours: Mo-Fr 08:00-15:00; Sa,PH 09:00-14:00
+website: http://beachdeli.co.uk/

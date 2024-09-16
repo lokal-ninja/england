@@ -1,11 +1,11 @@
 id: 336042622
-type: way
+type: node
 latitude: 54.60435
 longitude: -3.11851
-postcode: "CA12 4LH"
+postcode: CA12 4LH
 city: Keswick
-street: "Penrith Road"
-housenumber: 
-phone: "+44 17687 64700"
-opening_hours: "Mo-Fr 07:30-17:00; Sa 08:00-12:00; Su closed"
-website: "https://www.travisperkins.co.uk/branch-locator/3768"
+street: Penrith Road
+housenumber: ""
+phone: +44 17687 64700
+opening_hours: Mo-Fr 07:30-17:00; Sa 08:00-12:00; Su closed
+website: https://www.travisperkins.co.uk/branch-locator/3768

@@ -1,11 +1,11 @@
 id: 1040913232
-type: way
+type: node
 latitude: 53.39797
 longitude: -2.58777
-postcode: "WA2 7AZ"
+postcode: WA2 7AZ
 city: Warrington
-street: "Orford Lane"
-housenumber: 133
+street: Orford Lane
+housenumber: "133"
 phone: ""
 opening_hours: ""
 website: ""

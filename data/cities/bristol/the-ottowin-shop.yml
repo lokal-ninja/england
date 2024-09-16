@@ -1,11 +1,11 @@
 id: 468150388
-type: way
+type: node
 latitude: 51.45385
 longitude: -2.59436
-postcode: "BS1 1TG"
+postcode: BS1 1TG
 city: Bristol
-street: "Saint Nicholas Street"
-housenumber: 34
+street: Saint Nicholas Street
+housenumber: "34"
 phone: ""
 opening_hours: ""
 website: ""

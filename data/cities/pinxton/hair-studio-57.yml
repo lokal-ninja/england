@@ -2,10 +2,11 @@ id: 5678152555
 type: node
 latitude: 53.09287
 longitude: -1.31912
-postcode: "NG16 6ND"
+postcode: NG16 6ND
 city: Pinxton
-street: "Church Street West"
-housenumber: 57
-phone: "+44 7415 686187"
-opening_hours: "Mo Appointment Only; Tu 09:30-18:00; We,Fr 09:30-14:00; Th 09:30-19:00; Sa 08:30-14:00"
+street: Church Street West
+housenumber: "57"
+phone: +44 7415 686187
+opening_hours: Mo "Appointment Only"; Tu 09:30-18:00; We,Fr 09:30-14:00; Th 09:30-19:00;
+    Sa 08:30-14:00
 website: ""

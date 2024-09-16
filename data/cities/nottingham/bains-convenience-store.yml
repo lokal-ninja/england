@@ -1,11 +1,11 @@
 id: 326999217
-type: way
+type: node
 latitude: 52.88441
 longitude: -1.28694
-postcode: "NG10 3GL"
+postcode: NG10 3GL
 city: Nottingham
-street: "Tamworth Road"
-housenumber: 459
+street: Tamworth Road
+housenumber: "459"
 phone: ""
 opening_hours: ""
 website: ""

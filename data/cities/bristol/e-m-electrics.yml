@@ -1,11 +1,11 @@
 id: 332983341
-type: way
+type: node
 latitude: 51.46185
 longitude: -2.57517
-postcode: "BS5 0SX"
+postcode: BS5 0SX
 city: Bristol
-street: "Goodhind Street"
-housenumber: 64
+street: Goodhind Street
+housenumber: "64"
 phone: ""
 opening_hours: ""
 website: ""

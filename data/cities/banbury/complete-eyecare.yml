@@ -1,11 +1,11 @@
 id: 993460443
-type: way
+type: node
 latitude: 52.06144
 longitude: -1.33637
-postcode: "OX16 5EE"
+postcode: OX16 5EE
 city: Banbury
-street: "High Street"
-housenumber: 13
+street: High Street
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

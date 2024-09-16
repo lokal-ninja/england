@@ -1,11 +1,11 @@
 id: 1124291429
-type: way
+type: node
 latitude: 53.38268
 longitude: -1.47023
-postcode: "S1 2EU"
+postcode: S1 2EU
 city: Sheffield
-street: "Saint James Row"
-housenumber: 5
+street: Saint James Row
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://utilita.co.uk/energy-hub/sheffield"
+website: https://utilita.co.uk/energy-hub/sheffield

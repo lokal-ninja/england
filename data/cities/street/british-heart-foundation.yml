@@ -1,11 +1,11 @@
 id: 1128014392
-type: way
+type: node
 latitude: 51.1266
 longitude: -2.74029
-postcode: "BA16 0EN"
+postcode: BA16 0EN
 city: Street
-street: "High Street"
-housenumber: 78
+street: High Street
+housenumber: "78"
 phone: ""
 opening_hours: ""
-website: "https://www.bhf.org.uk/what-we-do/find-bhf-near-you/street-bhf-shop"
+website: https://www.bhf.org.uk/what-we-do/find-bhf-near-you/street-bhf-shop

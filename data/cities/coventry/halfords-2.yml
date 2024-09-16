@@ -1,11 +1,11 @@
 id: 456808378
-type: way
+type: node
 latitude: 52.38042
 longitude: -1.46241
-postcode: "CV3 4RP"
+postcode: CV3 4RP
 city: Coventry
 street: ""
-housenumber: 6
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "https://www.halfords.com/locations/orchard-rtl-pk-store/"
+website: https://www.halfords.com/locations/orchard-rtl-pk-store/

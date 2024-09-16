@@ -1,11 +1,11 @@
 id: 116320088
-type: way
+type: node
 latitude: 53.09768
 longitude: -1.38706
-postcode: "DE55 7DP"
+postcode: DE55 7DP
 city: Alfreton
-street: "High Street"
-housenumber: 85
+street: High Street
+housenumber: "85"
 phone: ""
 opening_hours: ""
 website: ""

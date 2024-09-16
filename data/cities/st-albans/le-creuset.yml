@@ -1,11 +1,11 @@
 id: 163988741
-type: way
+type: node
 latitude: 51.7522
 longitude: -0.33938
 postcode: ""
 city: St Albans
-street: "Market Place"
-housenumber: 
+street: Market Place
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:30-18:00; Su 11:00-17:00"
+opening_hours: Mo-Sa 09:30-18:00; Su 11:00-17:00
 website: ""

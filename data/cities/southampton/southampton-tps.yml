@@ -1,11 +1,11 @@
 id: 229185604
-type: way
+type: node
 latitude: 50.97408
 longitude: -1.37247
 postcode: ""
 city: Southampton
-street: "Manor Road"
-housenumber: 3
+street: Manor Road
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

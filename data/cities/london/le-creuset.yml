@@ -1,11 +1,11 @@
 id: 380480097
-type: way
+type: node
 latitude: 51.42558
 longitude: -0.21722
-postcode: "SW19 5DL"
+postcode: SW19 5DL
 city: London
-street: "Church Road"
-housenumber: 4
+street: Church Road
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 09:00-18:00; Su 11:00-17:00"
-website: "https://www.lecreuset.co.uk/stores/wimbledon-village-store"
+opening_hours: Mo-Sa 09:00-18:00; Su 11:00-17:00
+website: https://www.lecreuset.co.uk/stores/wimbledon-village-store

@@ -1,11 +1,11 @@
 id: 284531800
-type: way
+type: node
 latitude: 51.47049
 longitude: -2.60641
-postcode: "BS6 6SW"
+postcode: BS6 6SW
 city: Bristol
-street: "Lower Redland Road"
-housenumber: 111
+street: Lower Redland Road
+housenumber: "111"
 phone: ""
 opening_hours: ""
-website: "https://www.premier-stores.co.uk/our-stores/redland-mini-market"
+website: https://www.premier-stores.co.uk/our-stores/redland-mini-market

@@ -1,11 +1,11 @@
 id: 196701374
-type: way
+type: node
 latitude: 51.37696
 longitude: -0.10211
-postcode: "CR0 1TL"
+postcode: CR0 1TL
 city: Croydon
-street: "North End"
-housenumber: 133
+street: North End
+housenumber: "133"
 phone: ""
 opening_hours: ""
 website: ""

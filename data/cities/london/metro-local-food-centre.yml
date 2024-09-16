@@ -2,10 +2,10 @@ id: 9788356271
 type: node
 latitude: 51.50646
 longitude: -0.26522
-postcode: "W3 6ND"
+postcode: W3 6ND
 city: London
-street: "High Street"
-housenumber: 23
+street: High Street
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

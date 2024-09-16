@@ -2,10 +2,10 @@ id: 5121407414
 type: node
 latitude: 50.69743
 longitude: -1.2953
-postcode: "PO30 1LQ"
+postcode: PO30 1LQ
 city: Newport
-street: "Saint James's Street"
-housenumber: 76
+street: Saint James's Street
+housenumber: "76"
 phone: ""
 opening_hours: ""
 website: ""

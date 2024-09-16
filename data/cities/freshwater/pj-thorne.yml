@@ -2,10 +2,10 @@ id: 6064344981
 type: node
 latitude: 50.68338
 longitude: -1.52744
-postcode: "PO40 9UU"
+postcode: PO40 9UU
 city: Freshwater
-street: "Avenue Road"
-housenumber: 7
+street: Avenue Road
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 335736147
-type: way
+type: node
 latitude: 52.5791
 longitude: -2.14409
-postcode: "WV3 0AL"
+postcode: WV3 0AL
 city: Wolverhampton
-street: "Owen Road"
-housenumber: 61
+street: Owen Road
+housenumber: "61"
 phone: ""
 opening_hours: ""
 website: ""

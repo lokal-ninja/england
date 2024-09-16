@@ -1,11 +1,11 @@
 id: 124489823
-type: way
+type: node
 latitude: 51.02521
 longitude: -3.122
-postcode: "TA2 6AA"
+postcode: TA2 6AA
 city: Taunton
-street: "Bindon Road"
-housenumber: 
+street: Bindon Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00; Su 10:30-16:30"
-website: "https://store.matalan.co.uk/taunton"
+opening_hours: Mo-Sa 09:00-19:00; Su 10:30-16:30
+website: https://store.matalan.co.uk/taunton

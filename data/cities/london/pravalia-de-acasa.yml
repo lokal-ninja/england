@@ -2,10 +2,10 @@ id: 6295568735
 type: node
 latitude: 51.62234
 longitude: -0.10494
-postcode: "N13 5XG"
+postcode: N13 5XG
 city: London
-street: "Green Lanes"
-housenumber: 428
+street: Green Lanes
+housenumber: "428"
 phone: ""
 opening_hours: ""
 website: ""

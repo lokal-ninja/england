@@ -1,11 +1,11 @@
 id: 76809077
-type: way
+type: node
 latitude: 51.4432
 longitude: -0.93226
-postcode: "RG6 1LT"
+postcode: RG6 1LT
 city: Reading
-street: "Wokingham Road"
-housenumber: 173
-phone: "+44 780 376 4985"
+street: Wokingham Road
+housenumber: "173"
+phone: +44 780 376 4985
 opening_hours: ""
 website: ""

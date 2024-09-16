@@ -1,11 +1,11 @@
 id: 401969870
-type: way
+type: node
 latitude: 50.72918
 longitude: -1.93861
 postcode: ""
 city: Poole
-street: "Ashley Road"
-housenumber: 
-phone: "+44 1202 748546"
-opening_hours: "Mo-Sa 09:30-17:00; Su 10:00-16:00"
-website: "https://www.peacocks.co.uk/store-detail?storeID=6476&storeName=PEACOCKS-PARKSTONE"
+street: Ashley Road
+housenumber: ""
+phone: +44 1202 748546
+opening_hours: Mo-Sa 09:30-17:00; Su 10:00-16:00
+website: https://www.peacocks.co.uk/store-detail?storeID=6476&storeName=PEACOCKS-PARKSTONE

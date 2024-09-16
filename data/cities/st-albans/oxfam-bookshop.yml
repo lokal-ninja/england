@@ -1,11 +1,11 @@
 id: 164341743
-type: way
+type: node
 latitude: 51.75505
 longitude: -0.33677
 postcode: ""
 city: St Albans
-street: "Catherine Street"
-housenumber: 
+street: Catherine Street
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-17:00; Su 12:00-16:00"
-website: "https://www.oxfam.org.uk/shops/oxfam-bookshop-st-albans/"
+opening_hours: Mo-Sa 09:00-17:00; Su 12:00-16:00
+website: https://www.oxfam.org.uk/shops/oxfam-bookshop-st-albans/

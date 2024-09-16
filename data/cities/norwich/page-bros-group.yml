@@ -1,11 +1,11 @@
 id: 132697763
-type: way
+type: node
 latitude: 52.65689
 longitude: 1.28406
-postcode: "NR6 6SA"
+postcode: NR6 6SA
 city: Norwich
-street: "Mile Cross Lane"
-housenumber: 
-phone: "+44 1603 778800"
+street: Mile Cross Lane
+housenumber: ""
+phone: +44 1603 778800
 opening_hours: ""
-website: "https://www.pagebros.co.uk/"
+website: https://www.pagebros.co.uk/

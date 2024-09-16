@@ -1,11 +1,11 @@
 id: 183321851
-type: way
+type: node
 latitude: 53.39118
 longitude: -1.48239
-postcode: "S6 3DG"
+postcode: S6 3DG
 city: Sheffield
-street: "Infirmary Road"
-housenumber: 108
+street: Infirmary Road
+housenumber: "108"
 phone: ""
 opening_hours: ""
 website: ""

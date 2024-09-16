@@ -1,11 +1,11 @@
 id: 121766381
-type: way
+type: node
 latitude: 50.8319
 longitude: -0.63846
-postcode: "PO22 0ES"
+postcode: PO22 0ES
 city: Barnham, Bognor Regis
-street: "Barnham Road"
-housenumber: 10
+street: Barnham Road
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Sa 08:00-18:00; Su 10:00-16:00"
-website: "https://www.barnhamtradingpost.com"
+opening_hours: Mo-Sa 08:00-18:00; Su 10:00-16:00
+website: https://www.barnhamtradingpost.com

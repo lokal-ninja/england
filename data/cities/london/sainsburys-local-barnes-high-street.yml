@@ -1,11 +1,11 @@
 id: 593123260
-type: way
+type: node
 latitude: 51.47363
 longitude: -0.24899
-postcode: "SW13 9LW"
+postcode: SW13 9LW
 city: London
-street: "Barnes High Street"
-housenumber: 11
+street: Barnes High Street
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://stores.sainsburys.co.uk/4226/barnes-high-street-local"
+opening_hours: Mo-Su 07:00-23:00
+website: https://stores.sainsburys.co.uk/4226/barnes-high-street-local

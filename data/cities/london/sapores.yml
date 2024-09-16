@@ -1,11 +1,11 @@
 id: 226063414
-type: way
+type: node
 latitude: 51.53559
 longitude: -0.13998
-postcode: "NW1 7JH"
+postcode: NW1 7JH
 city: London
-street: "Camden High Street"
-housenumber: 51
+street: Camden High Street
+housenumber: "51"
 phone: ""
 opening_hours: ""
-website: "http://www.saporescamden.co.uk/"
+website: http://www.saporescamden.co.uk/

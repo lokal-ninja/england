@@ -2,10 +2,10 @@ id: 11271112352
 type: node
 latitude: 51.12111
 longitude: -0.18036
-postcode: "RH10 8DT"
+postcode: RH10 8DT
 city: Crawley
-street: "The Parade"
-housenumber: 20
+street: The Parade
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

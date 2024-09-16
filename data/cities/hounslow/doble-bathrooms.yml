@@ -1,11 +1,11 @@
 id: 764465743
-type: way
+type: node
 latitude: 51.45102
 longitude: -0.37838
-postcode: "TW4 5NP"
+postcode: TW4 5NP
 city: Hounslow
-street: "Hanworth Road"
-housenumber: 634
+street: Hanworth Road
+housenumber: "634"
 phone: ""
 opening_hours: ""
-website: "https://www.doblebathrooms.com/"
+website: https://www.doblebathrooms.com/

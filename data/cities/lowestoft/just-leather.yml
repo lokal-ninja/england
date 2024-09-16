@@ -1,11 +1,11 @@
 id: 1101051071
-type: way
+type: node
 latitude: 52.47961
 longitude: 1.75506
-postcode: "NR32 1HN"
+postcode: NR32 1HN
 city: Lowestoft
-street: "High Street"
-housenumber: 116
+street: High Street
+housenumber: "116"
 phone: ""
 opening_hours: ""
 website: ""

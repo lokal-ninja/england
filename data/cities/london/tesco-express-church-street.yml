@@ -2,10 +2,10 @@ id: 34578754
 type: node
 latitude: 51.52229
 longitude: -0.17224
-postcode: "NW8 8EX"
+postcode: NW8 8EX
 city: London
-street: "Church Street"
-housenumber: 94
+street: Church Street
+housenumber: "94"
 phone: ""
 opening_hours: ""
-website: "https://www.tesco.com/store-locator/london/94-church-st"
+website: https://www.tesco.com/store-locator/london/94-church-st

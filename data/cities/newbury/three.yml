@@ -1,11 +1,11 @@
 id: 303538858
-type: way
+type: node
 latitude: 51.40313
 longitude: -1.32481
 postcode: ""
 city: Newbury
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://locator.three.co.uk/south/newbury/80-northbrook-street"
+website: https://locator.three.co.uk/south/newbury/80-northbrook-street

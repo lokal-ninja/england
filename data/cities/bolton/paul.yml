@@ -1,11 +1,11 @@
 id: 582470325
-type: way
+type: node
 latitude: 53.57529
 longitude: -2.42189
-postcode: "BL2 1DE"
+postcode: BL2 1DE
 city: Bolton
-street: "Bridgeman Place"
-housenumber: 47
+street: Bridgeman Place
+housenumber: "47"
 phone: ""
 opening_hours: ""
 website: ""

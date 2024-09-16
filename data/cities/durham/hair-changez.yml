@@ -1,11 +1,11 @@
 id: 986137736
-type: way
+type: node
 latitude: 54.74715
 longitude: -1.41148
-postcode: "DH6 3PT"
+postcode: DH6 3PT
 city: Durham
-street: "Church Street"
-housenumber: 
-phone: "+44 1429 820521"
-opening_hours: "Mo-Tu 09:00-17:00; Th-Fr 09:00-17:00"
+street: Church Street
+housenumber: ""
+phone: +44 1429 820521
+opening_hours: Mo-Tu 09:00-17:00; Th-Fr 09:00-17:00
 website: ""

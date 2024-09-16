@@ -2,10 +2,11 @@ id: 5278520654
 type: node
 latitude: 53.84722
 longitude: -1.83651
-postcode: "BD16 1GL"
+postcode: BD16 1GL
 city: Bingley
-street: "Main Street"
+street: Main Street
 housenumber: Unit 7A-8B
 phone: ""
-opening_hours: "Sign on door with the text Closed Will Return and a clock face with movable hands set to the time the shop is next open."
+opening_hours: '"Sign on door with the text Closed Will Return and a clock face with
+    movable hands set to the time the shop is next open."'
 website: ""

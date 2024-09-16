@@ -4,8 +4,9 @@ latitude: 54.64404
 longitude: -3.54643
 postcode: ""
 city: Workington
-street: "Murray Road"
-housenumber: 35
-phone: "+44 1900 837909"
-opening_hours: "Mo-Tu 09:15-17:30; We 09:30-17:30; Th-Fr 09:15-17:30; Sa 09:15-17:00; Su closed"
-website: "https://www.haystravel.co.uk/branches/workington/"
+street: Murray Road
+housenumber: "35"
+phone: +44 1900 837909
+opening_hours: Mo-Tu 09:15-17:30; We 09:30-17:30; Th-Fr 09:15-17:30; Sa 09:15-17:00;
+    Su closed
+website: https://www.haystravel.co.uk/branches/workington/

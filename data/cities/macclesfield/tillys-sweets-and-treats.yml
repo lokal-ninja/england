@@ -1,11 +1,11 @@
 id: 542544170
-type: way
+type: node
 latitude: 53.25883
 longitude: -2.12592
 postcode: ""
 city: Macclesfield
-street: "Mill Street"
-housenumber: 54
+street: Mill Street
+housenumber: "54"
 phone: ""
 opening_hours: ""
 website: ""

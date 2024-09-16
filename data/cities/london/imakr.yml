@@ -1,11 +1,11 @@
 id: 152897625
-type: way
+type: node
 latitude: 51.52194
 longitude: -0.10899
-postcode: "EC1R 5AR"
+postcode: EC1R 5AR
 city: London
-street: "Clerkenwell Road"
-housenumber: 79
+street: Clerkenwell Road
+housenumber: "79"
 phone: ""
 opening_hours: ""
-website: "http://imakr.co.uk/visit-us/"
+website: http://imakr.co.uk/visit-us/

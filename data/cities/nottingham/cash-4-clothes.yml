@@ -1,11 +1,11 @@
 id: 351273441
-type: way
+type: node
 latitude: 52.98199
 longitude: -1.12444
-postcode: "NG3 5QQ"
+postcode: NG3 5QQ
 city: Nottingham
-street: "Woodborough Road"
-housenumber: 848
-phone: "+44 800 028 7514"
+street: Woodborough Road
+housenumber: "848"
+phone: +44 800 028 7514
 opening_hours: ""
-website: "https://www.recycle-shops.co.uk/"
+website: https://www.recycle-shops.co.uk/

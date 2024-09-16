@@ -1,11 +1,11 @@
 id: 197278011
-type: way
+type: node
 latitude: 51.37328
 longitude: -0.10147
-postcode: "CR0 1RJ"
+postcode: CR0 1RJ
 city: Croydon
-street: "Surrey Street"
-housenumber: 36
+street: Surrey Street
+housenumber: "36"
 phone: ""
 opening_hours: ""
 website: ""

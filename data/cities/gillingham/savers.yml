@@ -1,11 +1,11 @@
 id: 293473653
-type: way
+type: node
 latitude: 51.38695
 longitude: 0.54779
-postcode: "ME7 1AS"
+postcode: ME7 1AS
 city: Gillingham
-street: "High Street"
-housenumber: 132
+street: High Street
+housenumber: "132"
 phone: ""
-opening_hours: "closed"
+opening_hours: closed
 website: ""

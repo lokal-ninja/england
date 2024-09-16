@@ -1,11 +1,11 @@
 id: 1124278094
-type: way
+type: node
 latitude: 52.0313
 longitude: 1.20028
-postcode: "IP3 9SQ"
+postcode: IP3 9SQ
 city: Ipswich
-street: "Crane Boulevard"
-housenumber: 
+street: Crane Boulevard
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 07:00-22:00; Sa 07:00-18:00; Su 10:00-16:00"
-website: "https://www.lidl.co.uk/s/en-GB/store-finder/ipswich/crane-boulevard/"
+opening_hours: Mo-Fr 07:00-22:00; Sa 07:00-18:00; Su 10:00-16:00
+website: https://www.lidl.co.uk/s/en-GB/store-finder/ipswich/crane-boulevard/

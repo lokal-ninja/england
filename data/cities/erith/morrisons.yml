@@ -1,11 +1,11 @@
 id: 24281408
-type: way
+type: node
 latitude: 51.4806
 longitude: 0.1841
-postcode: "DA8 2AH"
+postcode: DA8 2AH
 city: Erith
-street: "James Watt Way"
-housenumber: 
+street: James Watt Way
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su 10:00-16:00"
-website: "https://my.morrisons.com/storefinder/113/erith"
+opening_hours: Mo-Sa 07:00-22:00; Su 10:00-16:00
+website: https://my.morrisons.com/storefinder/113/erith

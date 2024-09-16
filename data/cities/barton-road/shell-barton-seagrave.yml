@@ -1,11 +1,11 @@
 id: 1192183098
-type: way
+type: node
 latitude: 52.38269
 longitude: -0.6867
-postcode: "NN15 6RT"
+postcode: NN15 6RT
 city: Barton Road
-street: "Barton Road"
-housenumber: 153
+street: Barton Road
+housenumber: "153"
 phone: ""
 opening_hours: ""
 website: ""

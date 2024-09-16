@@ -1,11 +1,11 @@
 id: 107046086
-type: way
+type: node
 latitude: 52.62765
 longitude: 1.29554
-postcode: "NR1 3DD"
+postcode: NR1 3DD
 city: Norwich
 street: ""
-housenumber: 47
+housenumber: "47"
 phone: ""
 opening_hours: ""
 website: ""

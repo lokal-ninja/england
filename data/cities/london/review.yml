@@ -1,11 +1,11 @@
 id: 73045963
-type: way
+type: node
 latitude: 51.46762
 longitude: -0.07234
-postcode: "SE15 4QY"
+postcode: SE15 4QY
 city: London
-street: "Bellenden Road"
-housenumber: 131
+street: Bellenden Road
+housenumber: "131"
 phone: ""
 opening_hours: ""
 website: ""

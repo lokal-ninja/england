@@ -1,11 +1,11 @@
 id: 567941575
-type: way
+type: node
 latitude: 54.04623
 longitude: -2.7985
-postcode: "LA1 1XU"
+postcode: LA1 1XU
 city: Lancaster
-street: "Thurnham Street"
-housenumber: 16
+street: Thurnham Street
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

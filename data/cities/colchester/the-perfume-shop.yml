@@ -1,11 +1,11 @@
 id: 469610364
-type: way
+type: node
 latitude: 51.88913
 longitude: 0.89994
-postcode: "CO1 1JR"
+postcode: CO1 1JR
 city: Colchester
-street: "Trinity Square"
-housenumber: 9
+street: Trinity Square
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 09:00-17:30; Su 10:00-16:00"
-website: "https://www.theperfumeshop.com/store/colchester-the-perfume-shop"
+opening_hours: Mo-Sa 09:00-17:30; Su 10:00-16:00
+website: https://www.theperfumeshop.com/store/colchester-the-perfume-shop

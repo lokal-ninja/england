@@ -4,8 +4,8 @@ latitude: 51.54808
 longitude: -0.06844
 postcode: ""
 city: London
-street: "Dalston Lane"
-housenumber: 124
+street: Dalston Lane
+housenumber: "124"
 phone: ""
 opening_hours: ""
-website: "https://www.aboutthe.bike"
+website: https://www.aboutthe.bike

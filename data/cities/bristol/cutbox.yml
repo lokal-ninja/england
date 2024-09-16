@@ -1,11 +1,11 @@
 id: 392174319
-type: way
+type: node
 latitude: 51.45758
 longitude: -2.59239
-postcode: "BS1 2DU"
+postcode: BS1 2DU
 city: Bristol
-street: "Union Street"
-housenumber: 61
+street: Union Street
+housenumber: "61"
 phone: ""
 opening_hours: ""
 website: ""

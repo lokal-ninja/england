@@ -1,11 +1,11 @@
 id: 116100243
-type: way
+type: node
 latitude: 52.92262
 longitude: -1.48094
-postcode: "DE1 1HJ"
+postcode: DE1 1HJ
 city: Derby
-street: "Wardwick"
-housenumber: 61
+street: Wardwick
+housenumber: "61"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 340439135
-type: way
+type: node
 latitude: 52.30129
 longitude: -0.6938
-postcode: "NN8 1AY"
+postcode: NN8 1AY
 city: Wellingborough
-street: "Silver Street"
-housenumber: 25
-phone: "+44 1944226445"
-opening_hours: "Mo-Sa 09:00-17:00"
-website: "https://www.redcross.org.uk/shop/find-a-charity-shop/wellingborough"
+street: Silver Street
+housenumber: "25"
+phone: +44 1944226445
+opening_hours: Mo-Sa 09:00-17:00
+website: https://www.redcross.org.uk/shop/find-a-charity-shop/wellingborough

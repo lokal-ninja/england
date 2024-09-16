@@ -1,11 +1,11 @@
 id: 431995377
-type: way
+type: node
 latitude: 51.462
 longitude: -0.30307
-postcode: "TW9 1BP"
+postcode: TW9 1BP
 city: Richmond
-street: "The Quadrant"
-housenumber: 12
-phone: "020 3474 0988"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://trevorsorbie.com/salon/richmond-hair-salon/"
+street: The Quadrant
+housenumber: "12"
+phone: 020 3474 0988
+opening_hours: Mo-Sa 09:00-19:00
+website: https://trevorsorbie.com/salon/richmond-hair-salon/

@@ -1,11 +1,11 @@
 id: 317874317
-type: way
+type: node
 latitude: 52.92594
 longitude: -1.48992
-postcode: "DE1 3LS"
+postcode: DE1 3LS
 city: Derby
-street: "Nuns Street"
-housenumber: 152
+street: Nuns Street
+housenumber: "152"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 599464533
-type: way
+type: node
 latitude: 51.94255
 longitude: -1.54504
-postcode: "OX7 5NH"
+postcode: OX7 5NH
 city: Chipping Norton
-street: "Middle Row"
-housenumber: 10
+street: Middle Row
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

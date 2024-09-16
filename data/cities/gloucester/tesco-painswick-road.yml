@@ -1,11 +1,11 @@
 id: 243485643
-type: way
+type: node
 latitude: 51.84263
 longitude: -2.2181
-postcode: "GL4 6BS"
+postcode: GL4 6BS
 city: Gloucester
-street: "Painswick Road"
-housenumber: 254
+street: Painswick Road
+housenumber: "254"
 phone: ""
 opening_hours: ""
 website: ""

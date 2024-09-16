@@ -1,11 +1,11 @@
 id: 227101491
-type: way
+type: node
 latitude: 51.76236
 longitude: -1.19573
-postcode: "OX3 8DH"
+postcode: OX3 8DH
 city: Oxford
-street: "The Roundway"
-housenumber: 2
+street: The Roundway
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.52467
 longitude: -0.09352
 postcode: ""
 city: London
-street: "Old Street"
-housenumber: 100
+street: Old Street
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 126610379
-type: way
+type: node
 latitude: 51.45281
 longitude: -0.10047
-postcode: "SE24 9HU"
+postcode: SE24 9HU
 city: London
-street: "Half Moon Lane"
-housenumber: 14
+street: Half Moon Lane
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

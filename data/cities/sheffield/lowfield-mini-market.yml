@@ -1,11 +1,11 @@
 id: 170359259
-type: way
+type: node
 latitude: 53.36463
 longitude: -1.47276
-postcode: "S2 4ND"
+postcode: S2 4ND
 city: Sheffield
-street: "London Road"
-housenumber: 414
+street: London Road
+housenumber: "414"
 phone: ""
 opening_hours: ""
 website: ""

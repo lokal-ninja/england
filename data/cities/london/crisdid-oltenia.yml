@@ -1,11 +1,11 @@
 id: 1011727915
-type: way
+type: node
 latitude: 51.53746
 longitude: 0.03561
-postcode: "E6 1AD"
+postcode: E6 1AD
 city: London
-street: "Plashet Grove"
-housenumber: 23
+street: Plashet Grove
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

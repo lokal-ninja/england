@@ -1,11 +1,11 @@
 id: 357266783
-type: way
+type: node
 latitude: 52.66835
 longitude: 1.27082
-postcode: "NR6 6XS"
+postcode: NR6 6XS
 city: Norwich
-street: "Holt Road"
-housenumber: 59
-phone: "+44 1603 425247"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-17:30; Su off"
-website: "https://www.acesport.co.uk/"
+street: Holt Road
+housenumber: "59"
+phone: +44 1603 425247
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-17:30; Su off
+website: https://www.acesport.co.uk/

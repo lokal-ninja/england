@@ -1,11 +1,11 @@
 id: 1075532349
-type: way
+type: node
 latitude: 52.97963
 longitude: -1.1527
-postcode: "NG5 2LA"
+postcode: NG5 2LA
 city: Nottingham
-street: "Haydn Road"
-housenumber: 69
+street: Haydn Road
+housenumber: "69"
 phone: ""
-opening_hours: "We-Sa 10:00-16:30"
+opening_hours: We-Sa 10:00-16:30
 website: ""

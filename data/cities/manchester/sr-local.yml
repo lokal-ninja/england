@@ -2,10 +2,10 @@ id: 9978496932
 type: node
 latitude: 53.49955
 longitude: -2.24648
-postcode: "M8 8BT"
+postcode: M8 8BT
 city: Manchester
-street: "Waterloo Road"
-housenumber: 123
+street: Waterloo Road
+housenumber: "123"
 phone: ""
 opening_hours: ""
 website: ""

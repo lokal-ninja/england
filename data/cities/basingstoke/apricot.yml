@@ -1,11 +1,11 @@
 id: 701381015
-type: way
+type: node
 latitude: 51.26586
 longitude: -1.08602
-postcode: "RG21 7BE"
+postcode: RG21 7BE
 city: Basingstoke
-street: "Festival Place"
-housenumber: 6
+street: Festival Place
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

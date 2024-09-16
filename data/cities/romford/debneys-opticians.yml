@@ -1,11 +1,11 @@
 id: 743346042
-type: way
+type: node
 latitude: 51.5995
 longitude: 0.16423
-postcode: "RM5 3PR"
+postcode: RM5 3PR
 city: Romford
-street: "Chase Cross Road"
-housenumber: 16
+street: Chase Cross Road
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

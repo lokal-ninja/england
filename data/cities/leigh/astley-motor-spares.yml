@@ -1,11 +1,11 @@
 id: 1001981347
-type: way
+type: node
 latitude: 53.49005
 longitude: -2.4991
-postcode: "WN7 3EA"
+postcode: WN7 3EA
 city: Leigh
-street: "Warrington Road"
-housenumber: 47
-phone: "+44 1942 672203"
+street: Warrington Road
+housenumber: "47"
+phone: +44 1942 672203
 opening_hours: ""
 website: ""

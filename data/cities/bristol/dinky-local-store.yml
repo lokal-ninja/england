@@ -1,11 +1,11 @@
 id: 759064535
-type: way
+type: node
 latitude: 51.53812
 longitude: -2.61672
-postcode: "BS35 5SJ"
+postcode: BS35 5SJ
 city: Bristol
-street: "Main Road"
-housenumber: 1
+street: Main Road
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

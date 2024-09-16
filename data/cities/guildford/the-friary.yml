@@ -1,11 +1,11 @@
 id: 50732604
-type: way
+type: node
 latitude: 51.23839
 longitude: -0.57611
-postcode: "GU1 4YT"
+postcode: GU1 4YT
 city: Guildford
-street: "North Street"
-housenumber: 
+street: North Street
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.thefriaryguildford.com/"
+website: https://www.thefriaryguildford.com/

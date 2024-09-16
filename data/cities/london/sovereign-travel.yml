@@ -1,11 +1,11 @@
 id: 380200998
-type: way
+type: node
 latitude: 51.42549
 longitude: -0.21731
-postcode: "SW19 5EG"
+postcode: SW19 5EG
 city: London
-street: "High Street"
-housenumber: 74
+street: High Street
+housenumber: "74"
 phone: ""
 opening_hours: ""
-website: "https://sovereigntravel.co.uk/"
+website: https://sovereigntravel.co.uk/

@@ -1,11 +1,11 @@
 id: 844175663
-type: way
+type: node
 latitude: 54.75804
 longitude: -1.33345
-postcode: "SR8 1AB"
+postcode: SR8 1AB
 city: Peterlee
-street: "Hailsham Place"
-housenumber: 1
+street: Hailsham Place
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:30-21:30; Su 10:00-19:00"
-website: "https://sports.coral.co.uk/"
+opening_hours: Mo-Sa 08:30-21:30; Su 10:00-19:00
+website: https://sports.coral.co.uk/

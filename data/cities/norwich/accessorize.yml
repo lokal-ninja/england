@@ -1,11 +1,11 @@
 id: 108866019
-type: way
+type: node
 latitude: 52.62601
 longitude: 1.28988
-postcode: "NR2 1SU"
+postcode: NR2 1SU
 city: Norwich
-street: "Merchants' Hall"
-housenumber: 232
-phone: "+44 1603 619312"
-opening_hours: "24/7 closed"
-website: "https://stores-uk.accessorize.com/accessorize-236449b5c675"
+street: Merchants' Hall
+housenumber: "232"
+phone: +44 1603 619312
+opening_hours: 24/7 closed
+website: https://stores-uk.accessorize.com/accessorize-236449b5c675

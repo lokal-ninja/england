@@ -1,11 +1,11 @@
 id: 998220661
-type: way
+type: node
 latitude: 53.50439
 longitude: -2.53465
-postcode: "WN7 5EL"
+postcode: WN7 5EL
 city: Leigh
-street: "Wigan Road"
-housenumber: 327
-phone: "+44 1942 604489"
+street: Wigan Road
+housenumber: "327"
+phone: +44 1942 604489
 opening_hours: ""
-website: "https://www.premier-stores.co.uk/our-stores/easy-save-convenience-store"
+website: https://www.premier-stores.co.uk/our-stores/easy-save-convenience-store

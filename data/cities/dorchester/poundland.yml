@@ -1,11 +1,11 @@
 id: 446429999
-type: way
+type: node
 latitude: 50.7137
 longitude: -2.4375
-postcode: "DT1 1DL"
+postcode: DT1 1DL
 city: Dorchester
-street: "South Street"
-housenumber: 47
+street: South Street
+housenumber: "47"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 456641789
-type: way
+type: node
 latitude: 53.80365
 longitude: -3.0067
-postcode: "FY3 9TN"
+postcode: FY3 9TN
 city: Blackpool
-street: "Preston New Road"
-housenumber: 
+street: Preston New Road
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

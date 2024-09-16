@@ -1,11 +1,11 @@
 id: 1273486620
-type: way
+type: node
 latitude: 53.47276
 longitude: -2.16277
-postcode: "M11 1JG"
+postcode: M11 1JG
 city: Manchester
-street: "Ashton Old Road"
-housenumber: 1300
-phone: "+44 161 371 5522"
-opening_hours: "Mo-Fr 10:00-16:00"
-website: "https://therivermanchester.org.uk"
+street: Ashton Old Road
+housenumber: "1300"
+phone: +44 161 371 5522
+opening_hours: Mo-Fr 10:00-16:00
+website: https://therivermanchester.org.uk

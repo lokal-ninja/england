@@ -1,11 +1,11 @@
 id: 317166416
-type: way
+type: node
 latitude: 52.13887
 longitude: -0.47458
-postcode: "MK40 1JF"
+postcode: MK40 1JF
 city: Bedford
-street: "North Parade"
-housenumber: 3
+street: North Parade
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

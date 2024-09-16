@@ -1,11 +1,11 @@
 id: 372723899
-type: way
+type: node
 latitude: 51.54826
 longitude: -0.05678
-postcode: "E8 1JN"
+postcode: E8 1JN
 city: London
-street: "Amhurst Road"
+street: Amhurst Road
 housenumber: 40-42
-phone: "+44 20 3441 5355"
-opening_hours: "Mo-Sa 09:00-18:00; Su 11:00-17:00"
+phone: +44 20 3441 5355
+opening_hours: Mo-Sa 09:00-18:00; Su 11:00-17:00
 website: ""

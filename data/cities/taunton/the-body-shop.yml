@@ -1,11 +1,11 @@
 id: 274268365
-type: way
+type: node
 latitude: 51.01383
 longitude: -3.10388
-postcode: "TA1 3PT"
+postcode: TA1 3PT
 city: Taunton
-street: "High Street"
-housenumber: 60
+street: High Street
+housenumber: "60"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1195288181
-type: way
+type: node
 latitude: 53.79649
 longitude: -1.75603
-postcode: "BD1 3JP"
+postcode: BD1 3JP
 city: Bradford
-street: "Rawson Square"
-housenumber: 14
+street: Rawson Square
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

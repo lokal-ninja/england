@@ -1,11 +1,11 @@
 id: 276131951
-type: way
+type: node
 latitude: 51.32408
 longitude: -0.57551
-postcode: "GU21 4SZ"
+postcode: GU21 4SZ
 city: Horsell
-street: "High Street"
-housenumber: 74
+street: High Street
+housenumber: "74"
 phone: ""
 opening_hours: ""
-website: "https://www.norsworthys.co.uk/"
+website: https://www.norsworthys.co.uk/

@@ -1,11 +1,11 @@
 id: 246270681
-type: way
+type: node
 latitude: 52.13672
 longitude: -0.47174
 postcode: ""
 city: Bedford
-street: "Greyfriars"
-housenumber: 23
+street: Greyfriars
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00"
+opening_hours: Mo-Fr 09:00-19:00
 website: ""

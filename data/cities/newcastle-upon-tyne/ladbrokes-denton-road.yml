@@ -1,11 +1,11 @@
 id: 479454181
-type: way
+type: node
 latitude: 54.9802
 longitude: -1.68961
-postcode: "NE15 7HE"
+postcode: NE15 7HE
 city: Newcastle Upon Tyne
-street: "Denton Road"
-housenumber: 390
+street: Denton Road
+housenumber: "390"
 phone: ""
 opening_hours: ""
 website: ""

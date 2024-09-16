@@ -1,11 +1,11 @@
 id: 391999505
-type: way
+type: node
 latitude: 52.95424
 longitude: -1.13656
-postcode: "NG3 2DG"
+postcode: NG3 2DG
 city: Nottingham
-street: "Carlton Road"
-housenumber: 9
+street: Carlton Road
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 10:00-18:00"
+opening_hours: Mo-Sa 10:00-18:00
 website: ""

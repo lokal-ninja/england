@@ -1,11 +1,11 @@
 id: 842974885
-type: way
+type: node
 latitude: 54.75966
 longitude: -1.3328
-postcode: "SR8 1AS"
+postcode: SR8 1AS
 city: Peterlee
-street: "Yoden Way"
-housenumber: 37
-phone: "+44 191 586 2895"
-opening_hours: "Mo-Th 07:30-17:00; Fr 07:00-18:00; Sa 07:30-17:00; Su 09:00-15:00"
+street: Yoden Way
+housenumber: "37"
+phone: +44 191 586 2895
+opening_hours: Mo-Th 07:30-17:00; Fr 07:00-18:00; Sa 07:30-17:00; Su 09:00-15:00
 website: ""

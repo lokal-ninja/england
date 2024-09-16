@@ -1,11 +1,11 @@
 id: 82311584
-type: way
+type: node
 latitude: 51.45395
 longitude: -0.90088
 postcode: ""
 city: Reading
-street: "Headley Road"
-housenumber: 60
-phone: "+44 118 9272 422"
+street: Headley Road
+housenumber: "60"
+phone: +44 118 9272 422
 opening_hours: ""
-website: "https://www.addstyleuk.com/"
+website: https://www.addstyleuk.com/

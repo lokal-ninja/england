@@ -1,11 +1,11 @@
 id: 998130458
-type: way
+type: node
 latitude: 51.18626
 longitude: -0.60995
-postcode: "GU7 1HL"
+postcode: GU7 1HL
 city: Godalming
-street: "Bridge Street"
-housenumber: 41
+street: Bridge Street
+housenumber: "41"
 phone: ""
 opening_hours: ""
 website: ""

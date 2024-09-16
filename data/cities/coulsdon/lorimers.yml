@@ -1,11 +1,11 @@
 id: 610164120
-type: way
+type: node
 latitude: 51.32119
 longitude: -0.13803
-postcode: "CR5 2ND"
+postcode: CR5 2ND
 city: Coulsdon
-street: "Brighton Road"
-housenumber: 140
-phone: "+44 20 8668 9186"
-opening_hours: "Mo-Sa 09:00-17:30; Su off"
-website: "https://lorimers.co.uk/"
+street: Brighton Road
+housenumber: "140"
+phone: +44 20 8668 9186
+opening_hours: Mo-Sa 09:00-17:30; Su off
+website: https://lorimers.co.uk/

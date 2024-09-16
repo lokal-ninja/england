@@ -1,11 +1,11 @@
 id: 56419014
-type: way
+type: node
 latitude: 51.43569
 longitude: -0.89462
-postcode: "RG41 5HH"
+postcode: RG41 5HH
 city: Winnersh
-street: "Gazelle Close"
-housenumber: 1
-phone: "+44 1189 893717"
-opening_hours: "Mo-Sa 08:00-20:00; Su 10:00-16:00"
+street: Gazelle Close
+housenumber: "1"
+phone: +44 1189 893717
+opening_hours: Mo-Sa 08:00-20:00; Su 10:00-16:00
 website: ""

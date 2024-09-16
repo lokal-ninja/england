@@ -1,11 +1,11 @@
 id: 807532928
-type: way
+type: node
 latitude: 54.45753
 longitude: -3.02565
-postcode: "LA22 9SW"
+postcode: LA22 9SW
 city: Grasmere
-street: "Red Bank Road"
-housenumber: 
-phone: "+44 15394 35255"
+street: Red Bank Road
+housenumber: ""
+phone: +44 15394 35255
 opening_hours: ""
-website: "https://www.grasmeregather.co.uk/"
+website: https://www.grasmeregather.co.uk/

@@ -2,10 +2,10 @@ id: 3624879488
 type: node
 latitude: 51.54075
 longitude: -0.25387
-postcode: "NW10 8QE"
+postcode: NW10 8QE
 city: London
-street: "Craven Park"
-housenumber: 104
+street: Craven Park
+housenumber: "104"
 phone: ""
 opening_hours: ""
 website: ""

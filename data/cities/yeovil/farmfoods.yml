@@ -1,11 +1,11 @@
 id: 416525359
-type: way
+type: node
 latitude: 50.94265
 longitude: -2.62393
-postcode: "BA21 4HA"
+postcode: BA21 4HA
 city: Yeovil
-street: "Sherborne Road"
-housenumber: 
+street: Sherborne Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 08:00-21:00; Sa 08:00-19:00; Su 10:00-16:00"
-website: "https://www.farmfoods.co.uk/store-finder.php?branch_code=843"
+opening_hours: Mo-Fr 08:00-21:00; Sa 08:00-19:00; Su 10:00-16:00
+website: https://www.farmfoods.co.uk/store-finder.php?branch_code=843

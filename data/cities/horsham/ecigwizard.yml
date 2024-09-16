@@ -1,11 +1,11 @@
 id: 432963183
-type: way
+type: node
 latitude: 51.06265
 longitude: -0.32829
-postcode: "RH12 1EQ"
+postcode: RH12 1EQ
 city: Horsham
-street: "Carfax"
-housenumber: 38
+street: Carfax
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

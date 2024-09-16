@@ -1,11 +1,11 @@
 id: 1026243425
-type: way
+type: node
 latitude: 53.25692
 longitude: -2.51241
-postcode: "CW9 5HQ"
+postcode: CW9 5HQ
 city: Northwich
-street: "London Road"
-housenumber: 57
+street: London Road
+housenumber: "57"
 phone: "+441606350858"
 opening_hours: ""
 website: ""

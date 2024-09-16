@@ -1,11 +1,11 @@
 id: 197448057
-type: way
+type: node
 latitude: 51.37369
 longitude: -0.10268
-postcode: "CR0 1RB"
+postcode: CR0 1RB
 city: Croydon
-street: "Church Street"
-housenumber: 38
+street: Church Street
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

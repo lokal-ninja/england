@@ -1,11 +1,11 @@
 id: 822219087
-type: way
+type: node
 latitude: 50.77275
 longitude: 0.28766
-postcode: "BN21 3SE"
+postcode: BN21 3SE
 city: Eastbourne
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.emcgroup.co.uk/vauxhall/"
+website: https://www.emcgroup.co.uk/vauxhall/

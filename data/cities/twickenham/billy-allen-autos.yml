@@ -1,11 +1,11 @@
 id: 347654009
-type: way
+type: node
 latitude: 51.44482
 longitude: -0.34228
-postcode: "TW2 5AB"
+postcode: TW2 5AB
 city: Twickenham
-street: "The Green"
-housenumber: 56
+street: The Green
+housenumber: "56"
 phone: ""
 opening_hours: ""
-website: "http://www.billyallenautos.co.uk/"
+website: http://www.billyallenautos.co.uk/

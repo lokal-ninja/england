@@ -1,11 +1,11 @@
 id: 1103589914
-type: way
+type: node
 latitude: 53.35214
 longitude: -2.57159
-postcode: "WA4 5EQ"
+postcode: WA4 5EQ
 city: Warrington
-street: "Dudlow Green Road"
-housenumber: 39
+street: Dudlow Green Road
+housenumber: "39"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.coop.co.uk/store-finder/WA4-5EQ/39-dudlow-green-road"
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.coop.co.uk/store-finder/WA4-5EQ/39-dudlow-green-road

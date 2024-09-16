@@ -1,11 +1,11 @@
 id: 367067239
-type: way
+type: node
 latitude: 51.52155
 longitude: -0.17164
-postcode: "W2 1EB"
+postcode: W2 1EB
 city: London
-street: "Edgware Road"
-housenumber: 360
-phone: "+44 20 7724 2221"
+street: Edgware Road
+housenumber: "360"
+phone: +44 20 7724 2221
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1100957979
-type: way
+type: node
 latitude: 52.47666
 longitude: 1.75283
-postcode: "NR32 1LX"
+postcode: NR32 1LX
 city: Lowestoft
-street: "London Road North"
-housenumber: 103
+street: London Road North
+housenumber: "103"
 phone: ""
 opening_hours: ""
 website: ""

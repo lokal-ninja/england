@@ -1,11 +1,11 @@
 id: 1075549108
-type: way
+type: node
 latitude: 50.78076
 longitude: 0.30078
-postcode: "BN22 7RJ"
+postcode: BN22 7RJ
 city: Eastbourne
-street: "Seaside"
+street: Seaside
 housenumber: 336-338
-phone: "+44 1323 484060"
-opening_hours: "Mo-Sa 09:00-17:00 Su CLOSED"
-website: "https://www.clearwellmobility.co.uk/showroom/eastbourne"
+phone: +44 1323 484060
+opening_hours: Mo-Sa 09:00-17:00 Su CLOSED
+website: https://www.clearwellmobility.co.uk/showroom/eastbourne

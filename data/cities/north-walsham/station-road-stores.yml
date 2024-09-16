@@ -1,11 +1,11 @@
 id: 203601065
-type: way
+type: node
 latitude: 52.81895
 longitude: 1.37779
-postcode: "NR28 0EA"
+postcode: NR28 0EA
 city: North Walsham
-street: "Station Road"
-housenumber: 28
+street: Station Road
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Su 05:30-23:00"
+opening_hours: Mo-Su 05:30-23:00
 website: ""

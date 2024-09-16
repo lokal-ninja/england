@@ -1,11 +1,11 @@
 id: 1303652947
-type: way
+type: node
 latitude: 50.87991
 longitude: -1.03246
-postcode: "PO7 7ED"
+postcode: PO7 7ED
 city: Waterlooville
-street: "Wellington Way"
-housenumber: 13
+street: Wellington Way
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

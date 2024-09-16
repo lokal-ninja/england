@@ -1,11 +1,11 @@
 id: 372354334
-type: way
+type: node
 latitude: 52.37464
 longitude: 1.10902
-postcode: "IP22 4AD"
+postcode: IP22 4AD
 city: Diss
-street: "Mere Street"
-housenumber: 26
+street: Mere Street
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

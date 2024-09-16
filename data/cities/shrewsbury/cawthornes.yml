@@ -1,11 +1,11 @@
 id: 854047126
-type: way
+type: node
 latitude: 52.71175
 longitude: -2.76036
-postcode: "SY3 8JS"
+postcode: SY3 8JS
 city: Shrewsbury
-street: "Frankwell"
-housenumber: 95
-phone: "+44 7971406721"
+street: Frankwell
+housenumber: "95"
+phone: +44 7971406721
 opening_hours: ""
 website: ""

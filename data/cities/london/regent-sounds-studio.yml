@@ -1,11 +1,11 @@
 id: 279007852
-type: way
+type: node
 latitude: 51.51531
 longitude: -0.12925
 postcode: ""
 city: London
-street: "Denmark Street"
-housenumber: 4
+street: Denmark Street
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://regentsounds.com/"
+website: https://regentsounds.com/

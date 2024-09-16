@@ -2,10 +2,10 @@ id: 10159892688
 type: node
 latitude: 50.72594
 longitude: -3.50941
-postcode: "EX1 2PR"
+postcode: EX1 2PR
 city: Exeter
-street: "Lower Avenue"
-housenumber: 25
+street: Lower Avenue
+housenumber: "25"
 phone: "+447541555598"
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

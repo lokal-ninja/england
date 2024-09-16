@@ -1,11 +1,11 @@
 id: 282427824
-type: way
+type: node
 latitude: 53.08079
 longitude: -1.36955
-postcode: "DE55 4JG"
+postcode: DE55 4JG
 city: Alfreton
-street: "Nottingham Road"
-housenumber: 195
+street: Nottingham Road
+housenumber: "195"
 phone: ""
 opening_hours: ""
 website: ""

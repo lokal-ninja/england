@@ -1,11 +1,11 @@
 id: 77858026
-type: way
+type: node
 latitude: 51.43781
 longitude: -0.90859
 postcode: ""
 city: Reading
 street: ""
-housenumber: 572
-phone: "+44 118 966 7922"
+housenumber: "572"
+phone: +44 118 966 7922
 opening_hours: ""
 website: ""

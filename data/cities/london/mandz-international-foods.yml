@@ -2,10 +2,10 @@ id: 4452488067
 type: node
 latitude: 51.58673
 longitude: -0.10108
-postcode: "N8 0RD"
+postcode: N8 0RD
 city: London
-street: "Queens Parade"
-housenumber: 6
+street: Queens Parade
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

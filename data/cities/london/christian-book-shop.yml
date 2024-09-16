@@ -1,11 +1,11 @@
 id: 206166105
-type: way
+type: node
 latitude: 51.58896
 longitude: -0.00387
 postcode: ""
 city: London
-street: "Wood Street"
-housenumber: 93
+street: Wood Street
+housenumber: "93"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 576100403
-type: way
+type: node
 latitude: 50.76792
 longitude: 0.28815
-postcode: "BN21 3BB"
+postcode: BN21 3BB
 city: Eastbourne
-street: "Terminus Road"
-housenumber: 174
+street: Terminus Road
+housenumber: "174"
 phone: ""
 opening_hours: ""
 website: ""

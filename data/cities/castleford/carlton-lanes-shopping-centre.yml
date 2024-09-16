@@ -1,11 +1,11 @@
 id: 27850009
-type: way
+type: node
 latitude: 53.72609
 longitude: -1.35186
-postcode: "WF10 1AD"
+postcode: WF10 1AD
 city: Castleford
-street: "Carlton Street"
-housenumber: 
-phone: "+44 1977 603338"
-opening_hours: "Mo-Sa 09:00-17:30; Su 10:00-16:00"
-website: "https://www.carltonlanes.co.uk/"
+street: Carlton Street
+housenumber: ""
+phone: +44 1977 603338
+opening_hours: Mo-Sa 09:00-17:30; Su 10:00-16:00
+website: https://www.carltonlanes.co.uk/

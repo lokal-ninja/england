@@ -1,11 +1,11 @@
 id: 245635286
-type: way
+type: node
 latitude: 51.02334
 longitude: -3.1124
-postcode: "TA1 1BZ"
+postcode: TA1 1BZ
 city: Taunton
-street: "Chip Lane"
-housenumber: 4
-phone: "+44 1823 806494"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://willowfuneralservices.co.uk"
+street: Chip Lane
+housenumber: "4"
+phone: +44 1823 806494
+opening_hours: Mo-Fr 09:00-17:00
+website: https://willowfuneralservices.co.uk

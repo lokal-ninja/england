@@ -1,11 +1,11 @@
 id: 464222159
-type: way
+type: node
 latitude: 51.56123
 longitude: -0.09558
-postcode: "N5 2LS"
+postcode: N5 2LS
 city: London
-street: "Mountgrove Road"
-housenumber: 56
+street: Mountgrove Road
+housenumber: "56"
 phone: ""
 opening_hours: ""
-website: "https://tinyhairandbeauty.co.uk/"
+website: https://tinyhairandbeauty.co.uk/

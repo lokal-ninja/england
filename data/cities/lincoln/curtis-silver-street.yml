@@ -1,11 +1,11 @@
 id: 725978957
-type: way
+type: node
 latitude: 53.22943
 longitude: -0.54009
-postcode: "LN2 1DY"
+postcode: LN2 1DY
 city: Lincoln
-street: "Silver Street"
-housenumber: 2
+street: Silver Street
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

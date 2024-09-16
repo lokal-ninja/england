@@ -1,11 +1,11 @@
 id: 116309827
-type: way
+type: node
 latitude: 53.82759
 longitude: -1.54682
-postcode: "LS7 3RA"
+postcode: LS7 3RA
 city: Leeds
-street: "Scott Hall Road"
-housenumber: 540
+street: Scott Hall Road
+housenumber: "540"
 phone: ""
 opening_hours: ""
 website: ""

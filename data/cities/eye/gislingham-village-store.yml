@@ -1,11 +1,11 @@
 id: 230723844
-type: way
+type: node
 latitude: 52.30236
 longitude: 1.04177
-postcode: "IP23 8HS"
+postcode: IP23 8HS
 city: Eye
-street: "High Street"
-housenumber: 
+street: High Street
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

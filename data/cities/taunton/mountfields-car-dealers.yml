@@ -1,11 +1,11 @@
 id: 390034496
-type: way
+type: node
 latitude: 51.00508
 longitude: -3.088
-postcode: "TA1 3BL"
+postcode: TA1 3BL
 city: Taunton
-street: "Mountfields Road"
-housenumber: 1
+street: Mountfields Road
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

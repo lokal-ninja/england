@@ -1,11 +1,11 @@
 id: 134641511
-type: way
+type: node
 latitude: 52.20757
 longitude: 0.13766
-postcode: "CB1 1BX"
+postcode: CB1 1BX
 city: Cambridge
-street: "East Road"
-housenumber: 87
+street: East Road
+housenumber: "87"
 phone: ""
 opening_hours: ""
 website: ""

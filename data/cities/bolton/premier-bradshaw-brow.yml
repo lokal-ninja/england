@@ -1,11 +1,11 @@
 id: 579625441
-type: way
+type: node
 latitude: 53.60321
 longitude: -2.40575
-postcode: "BL2 3DD"
+postcode: BL2 3DD
 city: Bolton
-street: "Bradshaw Brow"
-housenumber: 112
+street: Bradshaw Brow
+housenumber: "112"
 phone: ""
 opening_hours: ""
 website: ""

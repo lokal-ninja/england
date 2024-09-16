@@ -1,11 +1,11 @@
 id: 433014404
-type: way
+type: node
 latitude: 54.98074
 longitude: -1.42282
-postcode: "NE34 0RU"
+postcode: NE34 0RU
 city: South Shields
-street: "Mortimer Road"
-housenumber: 
+street: Mortimer Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.coop.co.uk/store-finder/NE34-0RU/mortimer-road"
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.coop.co.uk/store-finder/NE34-0RU/mortimer-road

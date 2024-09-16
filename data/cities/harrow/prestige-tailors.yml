@@ -1,11 +1,11 @@
 id: 243002748
-type: way
+type: node
 latitude: 51.59606
 longitude: -0.33517
-postcode: "HA3 7AH"
+postcode: HA3 7AH
 city: Harrow
-street: "High Street"
-housenumber: 94
-phone: "+44 20 8427 0581"
+street: High Street
+housenumber: "94"
+phone: +44 20 8427 0581
 opening_hours: ""
 website: ""

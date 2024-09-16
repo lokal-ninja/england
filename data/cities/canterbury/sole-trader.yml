@@ -1,11 +1,11 @@
 id: 759789288
-type: way
+type: node
 latitude: 51.27941
 longitude: 1.07946
-postcode: "CT1 2JE"
+postcode: CT1 2JE
 city: Canterbury
-street: "High Street"
-housenumber: 15
-phone: "+44 1227 762763"
-opening_hours: "Mo-Fr 09:30-18:00;Sa 09:00-18:00;Su 10:30-16:30"
-website: "https://www.soletrader.co.uk/"
+street: High Street
+housenumber: "15"
+phone: +44 1227 762763
+opening_hours: Mo-Fr 09:30-18:00;Sa 09:00-18:00;Su 10:30-16:30
+website: https://www.soletrader.co.uk/

@@ -1,11 +1,11 @@
 id: 338545411
-type: way
+type: node
 latitude: 51.5118
 longitude: -0.14343
 postcode: ""
 city: London
-street: "New Bond Street"
-housenumber: 33
+street: New Bond Street
+housenumber: "33"
 phone: ""
 opening_hours: ""
-website: "https://www.richardgreen.com/"
+website: https://www.richardgreen.com/

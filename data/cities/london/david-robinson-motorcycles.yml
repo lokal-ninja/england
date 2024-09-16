@@ -1,11 +1,11 @@
 id: 204019335
-type: way
+type: node
 latitude: 51.45994
 longitude: -0.18913
-postcode: "SW18 1SS"
+postcode: SW18 1SS
 city: London
-street: "Old York Road"
-housenumber: 360
+street: Old York Road
+housenumber: "360"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 401118633
-type: way
+type: node
 latitude: 51.46316
 longitude: -2.55355
-postcode: "BS5 9AP"
+postcode: BS5 9AP
 city: Bristol
-street: "Neath Road"
-housenumber: 7
+street: Neath Road
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

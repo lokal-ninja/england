@@ -1,11 +1,11 @@
 id: 1305489331
-type: way
+type: node
 latitude: 50.76905
 longitude: 0.28352
-postcode: "BN21 3NW"
+postcode: BN21 3NW
 city: Eastbourne
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 188243297
-type: way
+type: node
 latitude: 52.4536
 longitude: -1.86572
-postcode: "B11 4AH"
+postcode: B11 4AH
 city: Birmingham
-street: "Stratford Road"
-housenumber: 506
+street: Stratford Road
+housenumber: "506"
 phone: ""
 opening_hours: ""
 website: ""

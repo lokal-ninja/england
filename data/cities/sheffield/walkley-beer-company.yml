@@ -2,10 +2,10 @@ id: 1937684020
 type: node
 latitude: 53.39429
 longitude: -1.50194
-postcode: "S6 3TF"
+postcode: S6 3TF
 city: Sheffield
-street: "South Road"
-housenumber: 362
+street: South Road
+housenumber: "362"
 phone: ""
-opening_hours: "Tu-Fr 16:00-22:00; Sa-Su 14:00-22:00"
-website: "https://www.walkleybeer.co.uk/"
+opening_hours: Tu-Fr 16:00-22:00; Sa-Su 14:00-22:00
+website: https://www.walkleybeer.co.uk/

@@ -1,11 +1,11 @@
 id: 503122476
-type: way
+type: node
 latitude: 52.66559
 longitude: -1.15502
-postcode: "LE4 0UE"
+postcode: LE4 0UE
 city: Leicester
-street: "Cross Hedge Close"
-housenumber: 11
+street: Cross Hedge Close
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

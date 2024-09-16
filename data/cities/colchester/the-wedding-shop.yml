@@ -1,11 +1,11 @@
 id: 477081838
-type: way
+type: node
 latitude: 51.88957
 longitude: 0.89678
-postcode: "CO1 1DA"
+postcode: CO1 1DA
 city: Colchester
-street: "High Street"
-housenumber: 4
+street: High Street
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://theweddingshop.uk/"
+website: https://theweddingshop.uk/

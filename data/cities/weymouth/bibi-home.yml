@@ -1,11 +1,11 @@
 id: 1038327192
-type: way
+type: node
 latitude: 50.60894
 longitude: -2.45289
-postcode: "DT4 8BZ"
+postcode: DT4 8BZ
 city: Weymouth
-street: "St Alban Street"
-housenumber: 24
+street: St Alban Street
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

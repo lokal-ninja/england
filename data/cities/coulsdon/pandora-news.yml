@@ -1,11 +1,11 @@
 id: 598376901
-type: way
+type: node
 latitude: 51.3212
 longitude: -0.13758
-postcode: "CR5 2NH"
+postcode: CR5 2NH
 city: Coulsdon
-street: "Brighton Road"
-housenumber: 155
+street: Brighton Road
+housenumber: "155"
 phone: ""
 opening_hours: ""
 website: ""

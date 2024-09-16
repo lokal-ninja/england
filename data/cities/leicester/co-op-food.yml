@@ -1,11 +1,11 @@
 id: 524925199
-type: way
+type: node
 latitude: 52.61405
 longitude: -1.10358
-postcode: "LE2 2PN"
+postcode: LE2 2PN
 city: Leicester
-street: "London Road"
-housenumber: 368
+street: London Road
+housenumber: "368"
 phone: ""
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.coop.co.uk/store-finder/LE2-2PN/368-london-road"
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.coop.co.uk/store-finder/LE2-2PN/368-london-road

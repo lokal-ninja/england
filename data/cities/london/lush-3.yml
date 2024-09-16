@@ -1,11 +1,11 @@
 id: 428337497
-type: way
+type: node
 latitude: 51.50259
 longitude: -0.1112
 postcode: ""
 city: London
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.lush.co.uk/"
+website: https://www.lush.co.uk/

@@ -1,11 +1,11 @@
 id: 374453214
-type: way
+type: node
 latitude: 51.70747
 longitude: -1.96068
-postcode: "GL7 1PZ"
+postcode: GL7 1PZ
 city: Cirencester
-street: "Emmervale Court"
-housenumber: 2
-phone: "+44 1285 842715"
-opening_hours: "Mo-Fr 10:00-17:00; Sa 10:00-16:00; Su off"
+street: Emmervale Court
+housenumber: "2"
+phone: +44 1285 842715
+opening_hours: Mo-Fr 10:00-17:00; Sa 10:00-16:00; Su off
 website: ""

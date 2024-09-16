@@ -1,11 +1,11 @@
 id: 1163035979
-type: way
+type: node
 latitude: 51.29624
 longitude: -2.45062
-postcode: "BA3 3AJ"
+postcode: BA3 3AJ
 city: Radstock
-street: "Coomb End"
-housenumber: 18
-phone: "+44 1761 555555"
+street: Coomb End
+housenumber: "18"
+phone: +44 1761 555555
 opening_hours: ""
 website: ""

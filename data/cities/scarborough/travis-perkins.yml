@@ -1,11 +1,11 @@
 id: 501700108
-type: way
+type: node
 latitude: 54.23998
 longitude: -0.41346
-postcode: "YO11 3UT"
+postcode: YO11 3UT
 city: Scarborough
-street: "Dunslow Road"
-housenumber: 
+street: Dunslow Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 07:30-17:00; Sa 07:30-11:30; Su closed"
-website: "https://www.travisperkins.co.uk/branch-locator/3580"
+opening_hours: Mo-Fr 07:30-17:00; Sa 07:30-11:30; Su closed
+website: https://www.travisperkins.co.uk/branch-locator/3580

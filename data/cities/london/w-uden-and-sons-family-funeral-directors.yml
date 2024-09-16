@@ -1,11 +1,11 @@
 id: 65389300
-type: way
+type: node
 latitude: 51.47622
 longitude: -0.07814
-postcode: "SE5 7EN"
+postcode: SE5 7EN
 city: London
-street: "Southampton Way"
-housenumber: 265
-phone: "+44 20 7703 3212"
+street: Southampton Way
+housenumber: "265"
+phone: +44 20 7703 3212
 opening_hours: ""
 website: ""

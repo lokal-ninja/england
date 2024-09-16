@@ -1,11 +1,11 @@
 id: 1075808164
-type: way
+type: node
 latitude: 53.41957
 longitude: -3.04392
-postcode: "CH44 5XU"
+postcode: CH44 5XU
 city: Wirral
-street: "Liscard Way"
-housenumber: 15
+street: Liscard Way
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Sa 08:00-17:30; Su 10:00-16:00"
-website: "https://heronfoods.com/store/cherry-tree/"
+opening_hours: Mo-Sa 08:00-17:30; Su 10:00-16:00
+website: https://heronfoods.com/store/cherry-tree/

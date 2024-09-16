@@ -1,11 +1,11 @@
 id: 1011505778
-type: way
+type: node
 latitude: 52.89747
 longitude: -2.66493
-postcode: "SY13 2DQ"
+postcode: SY13 2DQ
 city: Prees
-street: "Church Street"
-housenumber: 3
+street: Church Street
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

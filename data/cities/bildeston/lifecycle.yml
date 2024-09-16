@@ -1,11 +1,11 @@
 id: 1215457458
-type: way
+type: node
 latitude: 52.10753
 longitude: 0.90911
-postcode: "IP7 7EB"
+postcode: IP7 7EB
 city: Bildeston
-street: "High Street"
-housenumber: 108
+street: High Street
+housenumber: "108"
 phone: ""
 opening_hours: ""
 website: ""

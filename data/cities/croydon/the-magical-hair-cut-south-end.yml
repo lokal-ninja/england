@@ -1,11 +1,11 @@
 id: 213915816
-type: way
+type: node
 latitude: 51.36443
 longitude: -0.09903
-postcode: "CR0 1DQ"
+postcode: CR0 1DQ
 city: Croydon
-street: "South End"
-housenumber: 92
+street: South End
+housenumber: "92"
 phone: ""
 opening_hours: ""
 website: ""

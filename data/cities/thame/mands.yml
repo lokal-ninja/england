@@ -1,11 +1,11 @@
 id: 331926939
-type: way
+type: node
 latitude: 51.74335
 longitude: -0.97014
-postcode: "OX9 3HS"
+postcode: OX9 3HS
 city: Thame
-street: "Park Street"
-housenumber: 50
+street: Park Street
+housenumber: "50"
 phone: ""
-opening_hours: "Mo-Su 00:00-24:00"
+opening_hours: Mo-Su 00:00-24:00
 website: ""

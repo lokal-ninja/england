@@ -1,11 +1,11 @@
 id: 376003993
-type: way
+type: node
 latitude: 51.63775
 longitude: -2.35256
-postcode: "GL12 7BT"
+postcode: GL12 7BT
 city: Wotton-under-Edge
-street: "Long Street"
-housenumber: 36
+street: Long Street
+housenumber: "36"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00; Sa 08:30-16:00"
+opening_hours: Mo-Fr 09:00-17:00; Sa 08:30-16:00
 website: ""

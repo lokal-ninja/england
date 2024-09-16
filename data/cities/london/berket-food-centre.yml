@@ -1,11 +1,11 @@
 id: 976066144
-type: way
+type: node
 latitude: 51.55144
 longitude: 0.02539
-postcode: "E7 0EW"
+postcode: E7 0EW
 city: London
-street: "Woodgrange Road"
-housenumber: 116
+street: Woodgrange Road
+housenumber: "116"
 phone: ""
 opening_hours: ""
 website: ""

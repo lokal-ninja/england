@@ -1,11 +1,11 @@
 id: 288715409
-type: way
+type: node
 latitude: 52.47633
 longitude: -1.88747
-postcode: "B5 5NH"
+postcode: B5 5NH
 city: Birmingham
-street: "Coventry Street"
-housenumber: 34
+street: Coventry Street
+housenumber: "34"
 phone: ""
 opening_hours: ""
 website: ""

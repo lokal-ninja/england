@@ -1,11 +1,11 @@
 id: 338043915
-type: way
+type: node
 latitude: 52.65408
 longitude: 1.26807
-postcode: "NR6 5JE"
+postcode: NR6 5JE
 city: Norwich
-street: "Boundary Road"
-housenumber: 112
+street: Boundary Road
+housenumber: "112"
 phone: ""
 opening_hours: ""
 website: ""

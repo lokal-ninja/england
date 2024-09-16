@@ -1,11 +1,11 @@
 id: 1135952518
-type: way
+type: node
 latitude: 51.5495
 longitude: -0.01415
-postcode: "E20 1FU"
+postcode: E20 1FU
 city: London
-street: "Abercrombie Road"
-housenumber: 8
+street: Abercrombie Road
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr,Su 08:00-16:00; Sa 08:00-17:00"
+opening_hours: Mo-Fr,Su 08:00-16:00; Sa 08:00-17:00
 website: ""

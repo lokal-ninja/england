@@ -1,11 +1,11 @@
 id: 373706265
-type: way
+type: node
 latitude: 51.54282
 longitude: -0.14807
 postcode: ""
 city: London
-street: "Chalk Farm Road"
-housenumber: 36
+street: Chalk Farm Road
+housenumber: "36"
 phone: ""
 opening_hours: ""
 website: ""

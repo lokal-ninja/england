@@ -2,10 +2,11 @@ id: 3678477910
 type: node
 latitude: 55.41409
 longitude: -1.70723
-postcode: "NE66 1JD"
+postcode: NE66 1JD
 city: Alnwick
-street: "Bondgate Within"
-housenumber: 
-phone: "+44 1665 465026"
-opening_hours: "Mo-Tu 09:15-17:30; We 09:30-17:30; Th-Fr 09:15-17:30; Sa 09:15-17:00; Su closed"
-website: "https://www.haystravel.co.uk/branches/alnwick/"
+street: Bondgate Within
+housenumber: ""
+phone: +44 1665 465026
+opening_hours: Mo-Tu 09:15-17:30; We 09:30-17:30; Th-Fr 09:15-17:30; Sa 09:15-17:00;
+    Su closed
+website: https://www.haystravel.co.uk/branches/alnwick/

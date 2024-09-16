@@ -1,11 +1,11 @@
 id: 111300687
-type: way
+type: node
 latitude: 52.4874
 longitude: -1.90986
-postcode: "B18 6HP"
+postcode: B18 6HP
 city: Birmingham
-street: "Warstone Lane"
-housenumber: 
+street: Warstone Lane
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

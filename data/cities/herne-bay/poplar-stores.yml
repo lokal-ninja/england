@@ -1,11 +1,11 @@
 id: 567580211
-type: way
+type: node
 latitude: 51.36251
 longitude: 1.10938
-postcode: "CT6 7PX"
+postcode: CT6 7PX
 city: Herne Bay
-street: "Poplar Drive"
-housenumber: 4
+street: Poplar Drive
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

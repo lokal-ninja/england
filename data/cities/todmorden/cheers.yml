@@ -1,11 +1,11 @@
 id: 788250007
-type: way
+type: node
 latitude: 53.71369
 longitude: -2.09608
-postcode: "OL14 5QG"
+postcode: OL14 5QG
 city: Todmorden
-street: "Halifax Road"
-housenumber: 28
+street: Halifax Road
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

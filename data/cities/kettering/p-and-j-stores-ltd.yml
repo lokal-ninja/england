@@ -1,11 +1,11 @@
 id: 465923415
-type: way
+type: node
 latitude: 52.40737
 longitude: -0.70701
-postcode: "NN16 0NT"
+postcode: NN16 0NT
 city: Kettering
-street: "Grange Place"
-housenumber: 4
+street: Grange Place
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

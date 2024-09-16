@@ -1,11 +1,11 @@
 id: 276048957
-type: way
+type: node
 latitude: 51.51914
 longitude: -0.07573
-postcode: "E1 6AA"
+postcode: E1 6AA
 city: London
-street: "Brushfield Street"
-housenumber: 57
+street: Brushfield Street
+housenumber: "57"
 phone: ""
 opening_hours: ""
 website: ""

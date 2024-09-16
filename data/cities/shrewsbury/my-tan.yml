@@ -1,11 +1,11 @@
 id: 557456802
-type: way
+type: node
 latitude: 52.70959
 longitude: -2.75171
-postcode: "SY1 2BB"
+postcode: SY1 2BB
 city: Shrewsbury
-street: "Castle Street"
-housenumber: 12
+street: Castle Street
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

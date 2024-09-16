@@ -1,11 +1,11 @@
 id: 530393389
-type: way
+type: node
 latitude: 51.51944
 longitude: -0.13329
-postcode: "W1T 2EQ"
+postcode: W1T 2EQ
 city: London
-street: "Tottenham Court Road"
-housenumber: 51
+street: Tottenham Court Road
+housenumber: "51"
 phone: ""
 opening_hours: ""
 website: ""

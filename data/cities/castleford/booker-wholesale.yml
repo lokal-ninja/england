@@ -1,11 +1,11 @@
 id: 150004166
-type: way
+type: node
 latitude: 53.71413
 longitude: -1.39708
-postcode: "WF10 5QH"
+postcode: WF10 5QH
 city: Castleford
-street: "California Drive"
-housenumber: 
+street: California Drive
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

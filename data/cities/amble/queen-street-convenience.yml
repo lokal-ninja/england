@@ -2,10 +2,10 @@ id: 3605839734
 type: node
 latitude: 55.33346
 longitude: -1.58438
-postcode: "NE65 0BZ"
+postcode: NE65 0BZ
 city: Amble
-street: "Queen Street"
-housenumber: 58
+street: Queen Street
+housenumber: "58"
 phone: ""
 opening_hours: ""
 website: ""

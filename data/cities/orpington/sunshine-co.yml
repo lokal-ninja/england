@@ -1,11 +1,11 @@
 id: 1080920310
-type: way
+type: node
 latitude: 51.37525
 longitude: 0.09885
-postcode: "BR6 0ND"
+postcode: BR6 0ND
 city: Orpington
-street: "High Street"
-housenumber: 276
+street: High Street
+housenumber: "276"
 phone: ""
 opening_hours: ""
-website: "https://www.thesunshineco.co.uk"
+website: https://www.thesunshineco.co.uk

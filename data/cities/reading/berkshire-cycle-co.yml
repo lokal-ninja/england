@@ -1,11 +1,11 @@
 id: 82884554
-type: way
+type: node
 latitude: 51.44703
 longitude: -0.89809
-postcode: "RG5 4BS"
+postcode: RG5 4BS
 city: Reading
-street: "Loddon Bridge Road"
-housenumber: 186
-phone: "+44 1189695776"
-opening_hours: "Mo-Sa 09:00-17:30; Su 10:00-16:00"
-website: "http://www.berkshirecycles.com"
+street: Loddon Bridge Road
+housenumber: "186"
+phone: +44 1189695776
+opening_hours: Mo-Sa 09:00-17:30; Su 10:00-16:00
+website: http://www.berkshirecycles.com

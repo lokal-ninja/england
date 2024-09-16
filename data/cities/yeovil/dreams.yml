@@ -1,11 +1,12 @@
 id: 700681444
-type: way
+type: node
 latitude: 50.94125
 longitude: -2.60737
-postcode: "BA21 5BT"
+postcode: BA21 5BT
 city: Yeovil
-street: "Babylon Hill"
-housenumber: 
-phone: ""
-opening_hours: ""
-website: ""
+street: Babylon Hill
+housenumber: ""
+phone: +44 1935 676277
+opening_hours: Mo-We 10:00-18:00; Th 10:00-20:00; Fr 10:00-18:00; Sa 09:00-18:00;
+    Su 10:00-16:00
+website: https://www.dreams.co.uk/store/yeovil

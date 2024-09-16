@@ -1,11 +1,11 @@
 id: 1009689399
-type: way
+type: node
 latitude: 51.5377
 longitude: 0.03131
-postcode: "E13 0QZ"
+postcode: E13 0QZ
 city: London
-street: "Plashet Road"
-housenumber: 195
+street: Plashet Road
+housenumber: "195"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1214776471
-type: way
+type: node
 latitude: 50.61175
 longitude: -2.45535
-postcode: "DT4 8NP"
+postcode: DT4 8NP
 city: Weymouth
-street: "Westham Road"
-housenumber: 7
+street: Westham Road
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

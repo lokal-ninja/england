@@ -2,10 +2,10 @@ id: 6399045600
 type: node
 latitude: 52.28278
 longitude: -1.58378
-postcode: "CV34 4JA"
+postcode: CV34 4JA
 city: Warwick
-street: "Smith Street"
-housenumber: 23
+street: Smith Street
+housenumber: "23"
 phone: ""
 opening_hours: ""
-website: "https://www.smithery.space/"
+website: https://www.smithery.space/

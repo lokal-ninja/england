@@ -2,10 +2,10 @@ id: 1650746936
 type: node
 latitude: 51.37171
 longitude: -0.46213
-postcode: "KT13 8DL"
+postcode: KT13 8DL
 city: Weybridge
-street: "Church Street"
-housenumber: 64
-phone: "+44 333 9000083"
-opening_hours: "Mo-Fr 12:00-17:00; Sa 10:00-17:00; Su 12:00-16:00"
+street: Church Street
+housenumber: "64"
+phone: +44 333 9000083
+opening_hours: Mo-Fr 12:00-17:00; Sa 10:00-17:00; Su 12:00-16:00
 website: ""

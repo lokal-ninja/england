@@ -1,11 +1,11 @@
 id: 289751231
-type: way
+type: node
 latitude: 51.50839
 longitude: -0.13967
 postcode: ""
 city: London
-street: "Piccadilly"
-housenumber: 52
+street: Piccadilly
+housenumber: "52"
 phone: ""
 opening_hours: ""
-website: "https://www.drharris.co.uk/"
+website: https://www.drharris.co.uk/

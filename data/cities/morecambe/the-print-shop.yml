@@ -4,8 +4,8 @@ latitude: 54.06455
 longitude: -2.88205
 postcode: ""
 city: Morecambe
-street: "Yorkshire Street West"
-housenumber: 70
+street: Yorkshire Street West
+housenumber: "70"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://www.autistec.org.uk"
+opening_hours: Mo-Fr 09:00-17:00
+website: https://www.autistec.org.uk

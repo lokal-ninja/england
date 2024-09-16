@@ -1,11 +1,11 @@
 id: 492854646
-type: way
+type: node
 latitude: 50.98844
 longitude: 0.09868
 postcode: ""
 city: Uckfield
-street: "London Road"
-housenumber: 
-phone: "+44 1825 748710"
+street: London Road
+housenumber: ""
+phone: +44 1825 748710
 opening_hours: ""
-website: "https://www.lesliecars.co.uk/"
+website: https://www.lesliecars.co.uk/

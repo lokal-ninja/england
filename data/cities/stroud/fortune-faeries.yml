@@ -1,11 +1,11 @@
 id: 232800986
-type: way
+type: node
 latitude: 51.745
 longitude: -2.215
-postcode: "GL5 1AJ"
+postcode: GL5 1AJ
 city: Stroud
-street: "High Street"
-housenumber: 32
+street: High Street
+housenumber: "32"
 phone: ""
-opening_hours: "We-Sa 10:00-17:00"
+opening_hours: We-Sa 10:00-17:00
 website: ""

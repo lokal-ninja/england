@@ -1,11 +1,11 @@
 id: 227528981
-type: way
+type: node
 latitude: 53.13916
 longitude: -1.5568
-postcode: "DE4 3AU"
+postcode: DE4 3AU
 city: Matlock
-street: "Bakewell Road"
-housenumber: 4
+street: Bakewell Road
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su 10:00-16:00"
+opening_hours: Mo-Sa 08:00-20:00; Su 10:00-16:00
 website: ""

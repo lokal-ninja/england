@@ -2,10 +2,10 @@ id: 298844542
 type: node
 latitude: 52.1968
 longitude: 0.12943
-postcode: "CB2 1LA"
+postcode: CB2 1LA
 city: Cambridge
-street: "Hills Road"
-housenumber: 52
+street: Hills Road
+housenumber: "52"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.coop.co.uk/store-finder/CB2-1LA/52-hills-road"
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.coop.co.uk/store-finder/CB2-1LA/52-hills-road

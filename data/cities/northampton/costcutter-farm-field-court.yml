@@ -1,11 +1,11 @@
 id: 531249968
-type: way
+type: node
 latitude: 52.27161
 longitude: -0.84026
-postcode: "NN3 8AJ"
+postcode: NN3 8AJ
 city: Northampton
-street: "Farm Field Court"
-housenumber: 37
+street: Farm Field Court
+housenumber: "37"
 phone: ""
 opening_hours: ""
 website: ""

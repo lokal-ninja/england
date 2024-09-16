@@ -1,11 +1,11 @@
 id: 93648433
-type: way
+type: node
 latitude: 52.04123
 longitude: 0.7543
-postcode: "CO10 2BG"
+postcode: CO10 2BG
 city: Sudbury
 street: ""
-housenumber: 5
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

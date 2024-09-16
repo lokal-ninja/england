@@ -1,11 +1,11 @@
 id: 504797793
-type: way
+type: node
 latitude: 53.789
 longitude: -2.24298
-postcode: "BB11 1NH"
+postcode: BB11 1NH
 city: Burnley
-street: "St James's Lane"
-housenumber: 50
+street: St James's Lane
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 57827208
-type: way
+type: node
 latitude: 52.91779
 longitude: -1.48493
-postcode: "DE22 3UA"
+postcode: DE22 3UA
 city: Derby
-street: "Woods Lane"
-housenumber: 2
+street: Woods Lane
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

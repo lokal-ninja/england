@@ -1,11 +1,11 @@
 id: 787080507
-type: way
+type: node
 latitude: 53.38311
 longitude: -2.66486
-postcode: "WA5 2RZ"
+postcode: WA5 2RZ
 city: Warrington
-street: "Farnworth Road"
-housenumber: 25
-phone: "+44 1925 722144"
+street: Farnworth Road
+housenumber: "25"
+phone: +44 1925 722144
 opening_hours: ""
 website: ""

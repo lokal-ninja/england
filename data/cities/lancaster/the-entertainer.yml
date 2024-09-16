@@ -1,11 +1,11 @@
 id: 737995017
-type: way
+type: node
 latitude: 54.04914
 longitude: -2.79866
-postcode: "LA1 1NE"
+postcode: LA1 1NE
 city: Lancaster
-street: "Perpignan Way"
-housenumber: 4
+street: Perpignan Way
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 09:00-17:30; Su off"
+opening_hours: Mo-Sa 09:00-17:30; Su off
 website: ""

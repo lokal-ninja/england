@@ -1,11 +1,11 @@
 id: 387486333
-type: way
+type: node
 latitude: 51.01331
 longitude: -3.0772
-postcode: "TA1 2PD"
+postcode: TA1 2PD
 city: Taunton
-street: "Lisieux Way"
-housenumber: 6
-phone: "+44 1823 352586"
+street: Lisieux Way
+housenumber: "6"
+phone: +44 1823 352586
 opening_hours: ""
-website: "https://www.sueryder.org/shop-with-us/find-a-shop/taunton/"
+website: https://www.sueryder.org/shop-with-us/find-a-shop/taunton/

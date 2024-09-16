@@ -1,11 +1,11 @@
 id: 1191941074
-type: way
+type: node
 latitude: 50.33781
 longitude: -4.79531
-postcode: "PL25 5LS"
+postcode: PL25 5LS
 city: St Austell
-street: "Trinity Street"
-housenumber: 25
+street: Trinity Street
+housenumber: "25"
 phone: ""
-opening_hours: "By appointment"
+opening_hours: By appointment
 website: ""

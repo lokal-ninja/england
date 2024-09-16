@@ -1,11 +1,11 @@
 id: 201351895
-type: way
+type: node
 latitude: 51.58677
 longitude: -0.2196
-postcode: "NW4 2BP"
+postcode: NW4 2BP
 city: London
-street: "Bell Lane"
-housenumber: 3
+street: Bell Lane
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 312494722
-type: way
+type: node
 latitude: 52.89431
 longitude: -1.33849
-postcode: "DE72 3QB"
+postcode: DE72 3QB
 city: Derby
-street: "Station Road"
-housenumber: 30
+street: Station Road
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

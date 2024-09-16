@@ -1,11 +1,11 @@
 id: 857939193
-type: way
+type: node
 latitude: 51.53816
 longitude: -0.02905
-postcode: "E3 2LA"
+postcode: E3 2LA
 city: London
-street: "Jodrell Road"
-housenumber: 52
+street: Jodrell Road
+housenumber: "52"
 phone: ""
-opening_hours: "08:00-20:00"
+opening_hours: 08:00-20:00
 website: ""

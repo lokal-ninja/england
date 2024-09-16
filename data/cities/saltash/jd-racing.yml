@@ -1,11 +1,11 @@
 id: 240662597
-type: way
+type: node
 latitude: 50.42227
 longitude: -4.23406
-postcode: "PL12 6LD"
+postcode: PL12 6LD
 city: Saltash
-street: "Prideaux Close"
-housenumber: 15
-phone: "+44 1752 848888"
-opening_hours: "Mo-Fr 09:00-17:30; Sa 09:00-16:00; Su,PH off"
-website: "https://www.johndeaconracing.co.uk"
+street: Prideaux Close
+housenumber: "15"
+phone: +44 1752 848888
+opening_hours: Mo-Fr 09:00-17:30; Sa 09:00-16:00; Su,PH off
+website: https://www.johndeaconracing.co.uk

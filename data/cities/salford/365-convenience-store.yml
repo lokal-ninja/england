@@ -2,10 +2,10 @@ id: 4438213391
 type: node
 latitude: 53.48293
 longitude: -2.26387
-postcode: "M3 5JT"
+postcode: M3 5JT
 city: Salford
-street: "Chapel Street"
-housenumber: 365
+street: Chapel Street
+housenumber: "365"
 phone: ""
-opening_hours: "Mo-Su 10:00-24:00"
-website: "https://www.premier-stores.co.uk/our-stores/365-convenience"
+opening_hours: Mo-Su 10:00-24:00
+website: https://www.premier-stores.co.uk/our-stores/365-convenience

@@ -1,11 +1,11 @@
 id: 30064465
-type: way
+type: node
 latitude: 50.8938
 longitude: -1.36085
-postcode: "SO19 9HL"
+postcode: SO19 9HL
 city: Southampton
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

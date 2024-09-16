@@ -1,11 +1,11 @@
 id: 1169131107
-type: way
+type: node
 latitude: 53.74366
 longitude: -0.34443
-postcode: "HU1 3UA"
+postcode: HU1 3UA
 city: Hull
-street: "Ferensway"
-housenumber: 177
+street: Ferensway
+housenumber: "177"
 phone: ""
 opening_hours: ""
 website: ""

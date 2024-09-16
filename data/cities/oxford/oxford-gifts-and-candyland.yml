@@ -1,11 +1,11 @@
 id: 277042421
-type: way
+type: node
 latitude: 51.75389
 longitude: -1.25858
-postcode: "OX1 3EY"
+postcode: OX1 3EY
 city: Oxford
-street: "Cornmarket Street"
-housenumber: 30
+street: Cornmarket Street
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 814926739
-type: way
+type: node
 latitude: 50.89791
 longitude: -1.37822
-postcode: "SO19 9AB"
+postcode: SO19 9AB
 city: Southampton
-street: "Portsmouth Road"
-housenumber: 30
+street: Portsmouth Road
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Fr 07:00-17:00; Sa 08:00-17:00"
-website: "https://www.brewers.co.uk/stores/southampton/wsn"
+opening_hours: Mo-Fr 07:00-17:00; Sa 08:00-17:00
+website: https://www.brewers.co.uk/stores/southampton/wsn

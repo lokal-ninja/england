@@ -1,11 +1,11 @@
 id: 720003741
-type: way
+type: node
 latitude: 54.79946
 longitude: -1.57469
-postcode: "DH1 5LT"
+postcode: DH1 5LT
 city: Durham
-street: "Carr House Drive"
-housenumber: 
+street: Carr House Drive
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su 10:00-16:00"
-website: "https://www.coop.co.uk/store-finder/DH1-5LT/carr-house-drive"
+opening_hours: Mo-Sa 07:00-22:00; Su 10:00-16:00
+website: https://www.coop.co.uk/store-finder/DH1-5LT/carr-house-drive

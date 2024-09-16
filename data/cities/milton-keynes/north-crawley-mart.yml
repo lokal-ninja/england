@@ -2,10 +2,10 @@ id: 3569960217
 type: node
 latitude: 52.09319
 longitude: -0.64723
-postcode: "MK16 9LH"
+postcode: MK16 9LH
 city: Milton Keynes
-street: "High Street"
-housenumber: 25
+street: High Street
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

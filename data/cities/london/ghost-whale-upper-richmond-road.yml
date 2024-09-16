@@ -1,11 +1,11 @@
 id: 1010368000
-type: way
+type: node
 latitude: 51.46006
 longitude: -0.21242
-postcode: "SW15 2SP"
+postcode: SW15 2SP
 city: London
-street: "Upper Richmond Road"
-housenumber: 134
-phone: "+44 20 8780 3168"
+street: Upper Richmond Road
+housenumber: "134"
+phone: +44 20 8780 3168
 opening_hours: ""
-website: "https://www.ghostwhalelondon.com"
+website: https://www.ghostwhalelondon.com

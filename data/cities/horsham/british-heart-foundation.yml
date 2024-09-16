@@ -4,8 +4,8 @@ latitude: 51.06303
 longitude: -0.33155
 postcode: ""
 city: Horsham
-street: "West Street"
-housenumber: 26
+street: West Street
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Sa 09:30-17:00; Su 10:00-16:00"
-website: "https://www.bhf.org.uk/what-we-do/find-bhf-near-you/horsham-bhf-shop"
+opening_hours: Mo-Sa 09:30-17:00; Su 10:00-16:00
+website: https://www.bhf.org.uk/what-we-do/find-bhf-near-you/horsham-bhf-shop

@@ -1,11 +1,11 @@
 id: 1049435215
-type: way
+type: node
 latitude: 51.60578
 longitude: -0.24068
-postcode: "NW7 2ET"
+postcode: NW7 2ET
 city: London
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 00:00-24:00"
+opening_hours: Mo-Su 00:00-24:00
 website: ""

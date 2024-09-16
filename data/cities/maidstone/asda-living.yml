@@ -1,11 +1,11 @@
 id: 238965493
-type: way
+type: node
 latitude: 51.27307
 longitude: 0.5164
-postcode: "ME16 0SN"
+postcode: ME16 0SN
 city: Maidstone
-street: "St Peters Street"
-housenumber: 
+street: St Peters Street
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 10:30-16:30"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 10:30-16:30
 website: ""

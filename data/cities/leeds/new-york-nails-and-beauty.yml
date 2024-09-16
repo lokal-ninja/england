@@ -2,10 +2,10 @@ id: 2091013188
 type: node
 latitude: 53.79713
 longitude: -1.54053
-postcode: "LS1 6DS"
+postcode: LS1 6DS
 city: Leeds
-street: "Vicar Lane"
-housenumber: 35
+street: Vicar Lane
+housenumber: "35"
 phone: ""
 opening_hours: ""
 website: ""

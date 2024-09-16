@@ -1,11 +1,11 @@
 id: 8928482
-type: way
+type: node
 latitude: 50.70764
 longitude: -1.29874
-postcode: "PO30 5AW"
+postcode: PO30 5AW
 city: Newport
-street: "Dodnor Lane"
-housenumber: 
+street: Dodnor Lane
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 07:00-21:00; Sa 07:00-20:00; Su 10:00-16:00"
+opening_hours: Mo-Fr 07:00-21:00; Sa 07:00-20:00; Su 10:00-16:00
 website: ""

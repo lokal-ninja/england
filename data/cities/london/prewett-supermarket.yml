@@ -2,10 +2,10 @@ id: 12144256518
 type: node
 latitude: 51.54279
 longitude: -0.22492
-postcode: "NW2 5HG"
+postcode: NW2 5HG
 city: London
-street: "Sidmouth Parade"
-housenumber: 5
+street: Sidmouth Parade
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

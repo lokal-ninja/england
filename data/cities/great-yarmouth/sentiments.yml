@@ -2,10 +2,10 @@ id: 9952135242
 type: node
 latitude: 52.57906
 longitude: 1.72771
-postcode: "NR31 6RB"
+postcode: NR31 6RB
 city: Great Yarmouth
-street: "High Street"
-housenumber: 148
+street: High Street
+housenumber: "148"
 phone: ""
 opening_hours: ""
 website: ""

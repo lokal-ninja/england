@@ -1,11 +1,11 @@
 id: 963243441
-type: way
+type: node
 latitude: 50.86187
 longitude: 0.25794
-postcode: "BN27 1AA"
+postcode: BN27 1AA
 city: Hailsham
-street: "George Street"
-housenumber: 11
+street: George Street
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

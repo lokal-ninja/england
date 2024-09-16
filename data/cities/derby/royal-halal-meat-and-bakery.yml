@@ -1,11 +1,11 @@
 id: 133021279
-type: way
+type: node
 latitude: 52.90882
 longitude: -1.47917
-postcode: "DE23 6PY"
+postcode: DE23 6PY
 city: Derby
-street: "Pear Tree Road"
-housenumber: 4
+street: Pear Tree Road
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

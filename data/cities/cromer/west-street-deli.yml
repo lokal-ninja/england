@@ -2,10 +2,10 @@ id: 11198302725
 type: node
 latitude: 52.93115
 longitude: 1.2983
-postcode: "NR27 9HZ"
+postcode: NR27 9HZ
 city: Cromer
-street: "West Street"
-housenumber: 6
+street: West Street
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

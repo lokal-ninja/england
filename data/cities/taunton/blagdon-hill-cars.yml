@@ -1,11 +1,11 @@
 id: 394101275
-type: way
+type: node
 latitude: 50.96104
 longitude: -3.12531
-postcode: "TA3 7SG"
+postcode: TA3 7SG
 city: Taunton
-street: "Blagdon Hill"
-housenumber: 
-phone: "+44 1823 420128"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:00"
-website: "https://www.blagdonhillcars.co.uk/"
+street: Blagdon Hill
+housenumber: ""
+phone: +44 1823 420128
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-17:00
+website: https://www.blagdonhillcars.co.uk/

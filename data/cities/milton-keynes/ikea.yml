@@ -1,11 +1,11 @@
 id: 30876896
-type: way
+type: node
 latitude: 52.00462
 longitude: -0.72922
-postcode: "MK1 1QB"
+postcode: MK1 1QB
 city: Milton Keynes
-street: "Goslington"
-housenumber: 
-phone: "+44 845 355 2185"
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-17:00"
-website: "https://www.ikea.com/gb/en/stores/milton-keynes/"
+street: Goslington
+housenumber: ""
+phone: +44 845 355 2185
+opening_hours: Mo-Sa 10:00-21:00; Su 11:00-17:00
+website: https://www.ikea.com/gb/en/stores/milton-keynes/

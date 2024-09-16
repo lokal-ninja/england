@@ -1,11 +1,11 @@
 id: 906212744
-type: way
+type: node
 latitude: 51.35229
 longitude: -1.99484
 postcode: ""
 city: Devizes
-street: "Little Brittox"
-housenumber: 2
+street: Little Brittox
+housenumber: "2"
 phone: ""
-opening_hours: "Mo,Tu,Th 09:30-17:00; Sa 09:30-16:00"
+opening_hours: Mo,Tu,Th 09:30-17:00; Sa 09:30-16:00
 website: ""

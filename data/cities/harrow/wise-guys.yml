@@ -1,11 +1,11 @@
 id: 243231705
-type: way
+type: node
 latitude: 51.59593
 longitude: -0.33561
-postcode: "HA3 5DQ"
+postcode: HA3 5DQ
 city: Harrow
-street: "High Street"
-housenumber: 73
+street: High Street
+housenumber: "73"
 phone: ""
 opening_hours: ""
 website: ""

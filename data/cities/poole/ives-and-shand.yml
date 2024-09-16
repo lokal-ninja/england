@@ -1,11 +1,11 @@
 id: 419897521
-type: way
+type: node
 latitude: 50.72984
 longitude: -1.94755
 postcode: ""
 city: Poole
-street: "Ashley Road"
-housenumber: 568
+street: Ashley Road
+housenumber: "568"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 730180393
-type: way
+type: node
 latitude: 53.74489
 longitude: -0.4146
-postcode: "HU4 7RY"
+postcode: HU4 7RY
 city: Hull
-street: "Hull Road"
-housenumber: 243
+street: Hull Road
+housenumber: "243"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 798177502
-type: way
+type: node
 latitude: 50.97154
 longitude: -0.18646
-postcode: "RH17 5PB"
+postcode: RH17 5PB
 city: Haywards Heath
-street: "Bolney Grange Industrial Park"
-housenumber: 3
-phone: "+44 1444 872 200"
+street: Bolney Grange Industrial Park
+housenumber: "3"
+phone: +44 1444 872 200
 opening_hours: ""
-website: "https://www.designholidays.co.uk/"
+website: https://www.designholidays.co.uk/

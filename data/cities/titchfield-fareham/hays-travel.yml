@@ -4,8 +4,9 @@ latitude: 50.84928
 longitude: -1.23451
 postcode: ""
 city: Titchfield, Fareham
-street: "High Street"
-housenumber: 
-phone: "+44 1329 843358"
-opening_hours: "Mo-Tu 09:15-17:30; We 09:30-17:30; Th-Fr 09:15-17:30; Sa 09:15-17:00; Su closed"
-website: "https://www.haystravel.co.uk/branches/titchfield/"
+street: High Street
+housenumber: ""
+phone: +44 1329 843358
+opening_hours: Mo-Tu 09:15-17:30; We 09:30-17:30; Th-Fr 09:15-17:30; Sa 09:15-17:00;
+    Su closed
+website: https://www.haystravel.co.uk/branches/titchfield/

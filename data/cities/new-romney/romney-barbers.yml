@@ -1,11 +1,11 @@
 id: 1090348056
-type: way
+type: node
 latitude: 50.9854
 longitude: 0.9392
-postcode: "TN28 8BN"
+postcode: TN28 8BN
 city: New Romney
-street: "High Street"
-housenumber: 29
+street: High Street
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

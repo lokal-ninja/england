@@ -1,11 +1,11 @@
 id: 64128385
-type: way
+type: node
 latitude: 52.38209
 longitude: -2.25046
-postcode: "DY10 1HG"
+postcode: DY10 1HG
 city: Kidderminster
-street: "New Road"
-housenumber: 
+street: New Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su 10:00-16:00"
+opening_hours: Mo-Sa 07:00-22:00; Su 10:00-16:00
 website: ""

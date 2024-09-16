@@ -1,11 +1,11 @@
 id: 345749366
-type: way
+type: node
 latitude: 52.97374
 longitude: -1.10012
-postcode: "NG4 3SF"
+postcode: NG4 3SF
 city: Nottingham
-street: "Coningswath Road"
+street: Coningswath Road
 housenumber: 1-3
-phone: "+44 115 987 2323"
-opening_hours: "Mo-Fr 09:30-16:30; Su 09:30-12:30"
+phone: +44 115 987 2323
+opening_hours: Mo-Fr 09:30-16:30; Su 09:30-12:30
 website: ""

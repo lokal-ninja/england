@@ -1,11 +1,11 @@
 id: 993282932
-type: way
+type: node
 latitude: 51.51205
 longitude: -0.12975
-postcode: "WC2H 7JR"
+postcode: WC2H 7JR
 city: London
-street: "Newport Place"
-housenumber: 7
+street: Newport Place
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

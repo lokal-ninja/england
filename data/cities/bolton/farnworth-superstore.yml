@@ -1,11 +1,11 @@
 id: 671283220
-type: way
+type: node
 latitude: 53.55499
 longitude: -2.40992
-postcode: "BL4 7HX"
+postcode: BL4 7HX
 city: Bolton
-street: "Cawdor Street"
-housenumber: 123
+street: Cawdor Street
+housenumber: "123"
 phone: ""
 opening_hours: ""
 website: ""

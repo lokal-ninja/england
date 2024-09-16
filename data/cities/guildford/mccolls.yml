@@ -2,10 +2,10 @@ id: 4548258405
 type: node
 latitude: 51.23715
 longitude: -0.56769
-postcode: "GU1 3JG"
+postcode: GU1 3JG
 city: Guildford
-street: "High Street"
-housenumber: 252
+street: High Street
+housenumber: "252"
 phone: ""
 opening_hours: ""
 website: ""

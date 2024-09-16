@@ -1,11 +1,11 @@
 id: 1039675557
-type: way
+type: node
 latitude: 51.59135
 longitude: -0.14849
-postcode: "N10 3DU"
+postcode: N10 3DU
 city: London
-street: "Fortis Green Road"
-housenumber: 230
+street: Fortis Green Road
+housenumber: "230"
 phone: ""
-opening_hours: "Mo-Sa 11:00-18:00; Su 11:00-16:00"
-website: "https://www.elsa-london.com"
+opening_hours: Mo-Sa 11:00-18:00; Su 11:00-16:00
+website: https://www.elsa-london.com

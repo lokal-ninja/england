@@ -1,11 +1,11 @@
 id: 992503340
-type: way
+type: node
 latitude: 51.43766
 longitude: 0.36686
-postcode: "DA11 0QB"
+postcode: DA11 0QB
 city: Gravesend
-street: "Wrotham Road"
-housenumber: 75
+street: Wrotham Road
+housenumber: "75"
 phone: ""
 opening_hours: ""
 website: ""

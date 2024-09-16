@@ -1,11 +1,11 @@
 id: 243077543
-type: way
+type: node
 latitude: 52.94913
 longitude: -1.17498
-postcode: "NG7 2FQ"
+postcode: NG7 2FQ
 city: Nottingham
-street: "Lenton Boulevard"
-housenumber: 65
+street: Lenton Boulevard
+housenumber: "65"
 phone: ""
 opening_hours: ""
 website: ""

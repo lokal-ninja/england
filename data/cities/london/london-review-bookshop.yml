@@ -1,11 +1,11 @@
 id: 553097400
-type: way
+type: node
 latitude: 51.51855
 longitude: -0.12436
-postcode: "WC1A 2JL"
+postcode: WC1A 2JL
 city: London
-street: "Bury Place"
-housenumber: 14
+street: Bury Place
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

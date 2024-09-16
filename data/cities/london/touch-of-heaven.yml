@@ -1,11 +1,11 @@
 id: 207885734
-type: way
+type: node
 latitude: 51.49147
 longitude: -0.25565
 postcode: ""
 city: London
-street: "Devonshire Road"
-housenumber: 36
-phone: "+44 20 8987 8474"
+street: Devonshire Road
+housenumber: "36"
+phone: +44 20 8987 8474
 opening_hours: ""
-website: "https://www.touchofheaven.co.uk/"
+website: https://www.touchofheaven.co.uk/

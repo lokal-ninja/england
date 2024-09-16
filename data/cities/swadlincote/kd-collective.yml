@@ -1,11 +1,11 @@
 id: 1281444892
-type: way
+type: node
 latitude: 52.7733
 longitude: -1.55493
-postcode: "DE11 8JE"
+postcode: DE11 8JE
 city: Swadlincote
-street: "High Street"
-housenumber: 45
+street: High Street
+housenumber: "45"
 phone: ""
 opening_hours: ""
-website: "https://www.kdcollective.co.uk/"
+website: https://www.kdcollective.co.uk/

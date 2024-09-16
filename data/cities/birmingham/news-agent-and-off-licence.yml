@@ -1,11 +1,11 @@
 id: 148007851
-type: way
+type: node
 latitude: 52.52758
 longitude: -1.8452
 postcode: ""
 city: Birmingham
-street: "Marsh Lane"
-housenumber: 48
+street: Marsh Lane
+housenumber: "48"
 phone: ""
 opening_hours: ""
 website: ""

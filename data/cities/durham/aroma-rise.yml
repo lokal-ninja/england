@@ -1,11 +1,11 @@
 id: 374565550
-type: way
+type: node
 latitude: 54.77754
 longitude: -1.58173
-postcode: "DH1 4SF"
+postcode: DH1 4SF
 city: Durham
-street: "North Road"
-housenumber: 57
+street: North Road
+housenumber: "57"
 phone: ""
 opening_hours: ""
-website: "https://aroma-rise.business.site/"
+website: https://aroma-rise.business.site/

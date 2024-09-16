@@ -1,11 +1,11 @@
 id: 995009104
-type: way
+type: node
 latitude: 51.69415
 longitude: -1.69184
-postcode: "GL7 3AE"
+postcode: GL7 3AE
 city: Lechlade
-street: "High Street"
-housenumber: 2
+street: High Street
+housenumber: "2"
 phone: "+441367253122"
-opening_hours: "We,Fr-Sa 09:00-14:30,17:00-21:00; Mo-Tu,Th 09:00-14:30; Su 08:30-15:00"
-website: "https://sourdoughrevolution.co.uk/"
+opening_hours: We,Fr-Sa 09:00-14:30,17:00-21:00; Mo-Tu,Th 09:00-14:30; Su 08:30-15:00
+website: https://sourdoughrevolution.co.uk/

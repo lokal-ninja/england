@@ -1,11 +1,11 @@
 id: 992703764
-type: way
+type: node
 latitude: 52.65613
 longitude: 1.28746
-postcode: "NR6 6TX"
+postcode: NR6 6TX
 city: Norwich
-street: "Mile Cross Lane"
-housenumber: 79
+street: Mile Cross Lane
+housenumber: "79"
 phone: ""
-opening_hours: "Mo-Sa 09:00-17:00; Su 10:00-16:00"
-website: "https://www.tesla.com/findus/location/service/norwichmilecrosslane"
+opening_hours: Mo-Sa 09:00-17:00; Su 10:00-16:00
+website: https://www.tesla.com/findus/location/service/norwichmilecrosslane

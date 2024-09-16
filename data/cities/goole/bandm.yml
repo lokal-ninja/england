@@ -1,11 +1,11 @@
 id: 190624408
-type: way
+type: node
 latitude: 53.70579
 longitude: -0.87059
-postcode: "DN14 5EZ"
+postcode: DN14 5EZ
 city: Goole
-street: "Wesley Square"
-housenumber: 
-phone: "+44 330 838 9715"
-opening_hours: "Mo-Sa 08:00-20:00; Su 10:00-16:00"
-website: "https://www.bmstores.co.uk/stores/goole-715"
+street: Wesley Square
+housenumber: ""
+phone: +44 330 838 9715
+opening_hours: Mo-Sa 08:00-20:00; Su 10:00-16:00
+website: https://www.bmstores.co.uk/stores/goole-715

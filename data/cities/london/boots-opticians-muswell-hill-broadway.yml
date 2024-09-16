@@ -1,11 +1,11 @@
 id: 224040377
-type: way
+type: node
 latitude: 51.59247
 longitude: -0.14312
-postcode: "N10 1BS"
+postcode: N10 1BS
 city: London
-street: "Muswell Hill Broadway"
-housenumber: 450
+street: Muswell Hill Broadway
+housenumber: "450"
 phone: ""
-opening_hours: "Mo-Sa 09:00-17:30; Su 10:00-16:00"
+opening_hours: Mo-Sa 09:00-17:30; Su 10:00-16:00
 website: ""

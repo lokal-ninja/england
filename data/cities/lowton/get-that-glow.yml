@@ -1,11 +1,11 @@
 id: 1123138175
-type: way
+type: node
 latitude: 53.47698
 longitude: -2.54978
 postcode: ""
 city: Lowton
-street: "Newton Road"
-housenumber: 79
+street: Newton Road
+housenumber: "79"
 phone: ""
 opening_hours: ""
 website: ""

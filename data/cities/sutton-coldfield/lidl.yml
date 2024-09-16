@@ -1,11 +1,11 @@
 id: 81631003
-type: way
+type: node
 latitude: 52.54837
 longitude: -1.86068
-postcode: "B73 5AB"
+postcode: B73 5AB
 city: Sutton Coldfield
-street: "Kings Road"
-housenumber: 33
+street: Kings Road
+housenumber: "33"
 phone: ""
 opening_hours: ""
-website: "https://www.lidl.co.uk/s/en-GB/store-finder/birmingham/sutton-coldfield/kings-road-33/"
+website: https://www.lidl.co.uk/s/en-GB/store-finder/birmingham/sutton-coldfield/kings-road-33/

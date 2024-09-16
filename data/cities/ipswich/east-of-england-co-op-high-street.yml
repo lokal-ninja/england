@@ -1,11 +1,11 @@
 id: 290175826
-type: way
+type: node
 latitude: 52.04477
 longitude: 0.95406
-postcode: "IP7 5EF"
+postcode: IP7 5EF
 city: Ipswich
-street: "High Street"
-housenumber: 72
+street: High Street
+housenumber: "72"
 phone: ""
 opening_hours: ""
 website: ""

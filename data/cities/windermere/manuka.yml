@@ -1,11 +1,11 @@
 id: 407273447
-type: way
+type: node
 latitude: 54.37848
 longitude: -2.90649
-postcode: "LA23 1DX"
+postcode: LA23 1DX
 city: Windermere
-street: "Main Road"
-housenumber: 44
+street: Main Road
+housenumber: "44"
 phone: ""
 opening_hours: ""
 website: ""

@@ -2,10 +2,10 @@ id: 3903235193
 type: node
 latitude: 54.05067
 longitude: -2.79954
-postcode: "LA1 1NZ"
+postcode: LA1 1NZ
 city: Lancaster
-street: "Chapel Street"
-housenumber: 4
+street: Chapel Street
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

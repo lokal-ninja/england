@@ -1,11 +1,11 @@
 id: 935900717
-type: way
+type: node
 latitude: 53.3672
 longitude: -0.00291
-postcode: "LN11 9PG"
+postcode: LN11 9PG
 city: Louth
-street: "Eastgate"
-housenumber: 92
+street: Eastgate
+housenumber: "92"
 phone: "+441507602959"
-opening_hours: "Mo-Sa 09:30-17:30"
-website: "https://www.whitestuff.com/"
+opening_hours: Mo-Sa 09:30-17:30
+website: https://www.whitestuff.com/

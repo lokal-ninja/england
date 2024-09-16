@@ -1,11 +1,11 @@
 id: 476379713
-type: way
+type: node
 latitude: 50.64989
 longitude: -1.1686
-postcode: "PO36 9JN"
+postcode: PO36 9JN
 city: Sandown
-street: "New Road"
-housenumber: 8
+street: New Road
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

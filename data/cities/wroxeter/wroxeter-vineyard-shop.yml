@@ -1,11 +1,11 @@
 id: 379337233
-type: way
+type: node
 latitude: 52.6679
 longitude: -2.64358
-postcode: "SY5 6PQ"
+postcode: SY5 6PQ
 city: Wroxeter
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-17:00; Su 10:30-16:00"
-website: "https://wroxetervineyard.co.uk/wroxeter-shop/"
+opening_hours: Mo-Sa 09:00-17:00; Su 10:30-16:00
+website: https://wroxetervineyard.co.uk/wroxeter-shop/

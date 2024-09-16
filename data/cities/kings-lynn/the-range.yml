@@ -1,11 +1,11 @@
 id: 533911135
-type: way
+type: node
 latitude: 52.73727
 longitude: 0.41199
-postcode: "PE30 4NA"
+postcode: PE30 4NA
 city: King's Lynn
 street: ""
-housenumber: 
-phone: "+44 1553 764019"
-opening_hours: "Mo-Sa 09:00-20:00, Su 10:30-16:30"
-website: "https://www.therange.co.uk/stores/kings-lynn"
+housenumber: ""
+phone: +44 1553 764019
+opening_hours: Mo-Sa 09:00-20:00, Su 10:30-16:30
+website: https://www.therange.co.uk/stores/kings-lynn

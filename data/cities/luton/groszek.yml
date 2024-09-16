@@ -2,10 +2,10 @@ id: 7191917993
 type: node
 latitude: 51.88413
 longitude: -0.41243
-postcode: "LU2 0DE"
+postcode: LU2 0DE
 city: Luton
-street: "High Town Road"
-housenumber: 44
+street: High Town Road
+housenumber: "44"
 phone: ""
 opening_hours: ""
 website: ""

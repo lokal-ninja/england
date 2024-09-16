@@ -1,11 +1,11 @@
 id: 302401209
-type: way
+type: node
 latitude: 53.20435
 longitude: -2.90239
-postcode: "CH1 4BE"
+postcode: CH1 4BE
 city: Chester
-street: "Parkgate Road"
-housenumber: 
-phone: "+44 1244 399575"
+street: Parkgate Road
+housenumber: ""
+phone: +44 1244 399575
 opening_hours: ""
-website: "https://www.spar.co.uk/store-locator/hal27579-spar-euro-garage-chester"
+website: https://www.spar.co.uk/store-locator/hal27579-spar-euro-garage-chester

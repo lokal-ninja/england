@@ -2,10 +2,10 @@ id: 6022850196
 type: node
 latitude: 53.79654
 longitude: -1.54606
-postcode: "LS1 5AR"
+postcode: LS1 5AR
 city: Leeds
-street: "Albion Street"
-housenumber: 202
+street: Albion Street
+housenumber: "202"
 phone: ""
 opening_hours: ""
 website: ""

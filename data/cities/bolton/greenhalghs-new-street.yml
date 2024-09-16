@@ -1,11 +1,11 @@
 id: 590920882
-type: way
+type: node
 latitude: 53.59343
 longitude: -2.583
-postcode: "BL6 5AG"
+postcode: BL6 5AG
 city: Bolton
-street: "New Street"
-housenumber: 111
+street: New Street
+housenumber: "111"
 phone: ""
 opening_hours: ""
 website: ""

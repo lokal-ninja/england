@@ -1,11 +1,11 @@
 id: 903857916
-type: way
+type: node
 latitude: 50.95438
 longitude: -0.12922
-postcode: "RH15 9DE"
+postcode: RH15 9DE
 city: Burgess Hill
-street: "Station Road"
-housenumber: 43
+street: Station Road
+housenumber: "43"
 phone: ""
 opening_hours: ""
 website: ""

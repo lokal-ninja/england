@@ -1,11 +1,11 @@
 id: 911482837
-type: way
+type: node
 latitude: 51.79653
 longitude: -0.07617
 postcode: ""
 city: Hertford
-street: "Fore Street"
-housenumber: 49
-phone: "+44 1992 677371"
+street: Fore Street
+housenumber: "49"
+phone: +44 1992 677371
 opening_hours: ""
 website: ""

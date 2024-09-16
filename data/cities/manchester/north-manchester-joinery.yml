@@ -1,11 +1,11 @@
 id: 763246404
-type: way
+type: node
 latitude: 53.53475
 longitude: -2.28331
-postcode: "M25 3BX"
+postcode: M25 3BX
 city: Manchester
-street: "Poppythorn Lane"
-housenumber: 31
+street: Poppythorn Lane
+housenumber: "31"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.northmanchesterjoinery.co.uk/"
+opening_hours: 24/7
+website: https://www.northmanchesterjoinery.co.uk/

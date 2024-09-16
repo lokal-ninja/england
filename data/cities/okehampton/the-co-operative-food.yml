@@ -1,11 +1,11 @@
 id: 272180918
-type: way
+type: node
 latitude: 50.82049
 longitude: -4.07247
-postcode: "EX20 3HY"
+postcode: EX20 3HY
 city: Okehampton
-street: "Bridge Street"
-housenumber: 24
+street: Bridge Street
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.coop.co.uk/store-finder/EX20-3HY/24-bridge-street"
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.coop.co.uk/store-finder/EX20-3HY/24-bridge-street

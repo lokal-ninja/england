@@ -1,11 +1,11 @@
 id: 596211782
-type: way
+type: node
 latitude: 51.484
 longitude: -0.24419
-postcode: "SW13 9AN"
+postcode: SW13 9AN
 city: London
-street: "Verdun Road"
-housenumber: 1
+street: Verdun Road
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 356065731
-type: way
+type: node
 latitude: 51.29882
 longitude: 0.44298
-postcode: "ME20 6BG"
+postcode: ME20 6BG
 city: Larkfield
-street: "London Road"
-housenumber: 736
+street: London Road
+housenumber: "736"
 phone: "+441732870368"
-opening_hours: "Mo-Fr 08:30-17:30; Sa 08:30-12:30; Su 09:00-12:00"
-website: "https://www.acemotcentremaidstone.co.uk/"
+opening_hours: Mo-Fr 08:30-17:30; Sa 08:30-12:30; Su 09:00-12:00
+website: https://www.acemotcentremaidstone.co.uk/

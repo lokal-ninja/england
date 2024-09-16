@@ -1,11 +1,11 @@
 id: 420166747
-type: way
+type: node
 latitude: 51.48511
 longitude: 0.27288
-postcode: "RM20 3LP"
+postcode: RM20 3LP
 city: Grays
-street: "Weston Avenue"
-housenumber: 8
-phone: "+44 1708 200031"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:00-18:00; Su 10:00-16:00"
-website: "https://www.americangolf.co.uk/stores?store=S073"
+street: Weston Avenue
+housenumber: "8"
+phone: +44 1708 200031
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:00-18:00; Su 10:00-16:00
+website: https://www.americangolf.co.uk/stores?store=S073

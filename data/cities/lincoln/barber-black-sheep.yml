@@ -1,11 +1,11 @@
 id: 723248517
-type: way
+type: node
 latitude: 53.23067
 longitude: -0.54181
-postcode: "LN1 1UQ"
+postcode: LN1 1UQ
 city: Lincoln
-street: "Park Street"
-housenumber: 38
+street: Park Street
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 241507414
-type: way
+type: node
 latitude: 52.46201
 longitude: -1.86244
-postcode: "B11 1DG"
+postcode: B11 1DG
 city: Birmingham
-street: "Sydenham Road"
-housenumber: 43
+street: Sydenham Road
+housenumber: "43"
 phone: ""
 opening_hours: ""
 website: ""

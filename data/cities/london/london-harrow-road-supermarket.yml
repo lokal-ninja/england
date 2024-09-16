@@ -2,10 +2,10 @@ id: 5939230280
 type: node
 latitude: 51.53117
 longitude: -0.23053
-postcode: "NW10 5NN"
+postcode: NW10 5NN
 city: London
-street: "Harrow Road"
-housenumber: 1032
+street: Harrow Road
+housenumber: "1032"
 phone: ""
 opening_hours: ""
 website: ""

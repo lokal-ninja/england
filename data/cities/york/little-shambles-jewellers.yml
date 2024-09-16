@@ -2,10 +2,10 @@ id: 6279009551
 type: node
 latitude: 53.95952
 longitude: -1.08023
-postcode: "YO1 7LX"
+postcode: YO1 7LX
 city: York
-street: "Shambles"
-housenumber: 42
+street: Shambles
+housenumber: "42"
 phone: ""
 opening_hours: ""
 website: ""

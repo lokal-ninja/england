@@ -1,11 +1,11 @@
 id: 1289690242
-type: way
+type: node
 latitude: 53.43203
 longitude: -2.90996
-postcode: "L12 7JB"
+postcode: L12 7JB
 city: Liverpool
-street: "Mill Lane"
-housenumber: 22
+street: Mill Lane
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

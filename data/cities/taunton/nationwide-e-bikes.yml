@@ -1,11 +1,11 @@
 id: 151728041
-type: way
+type: node
 latitude: 51.01978
 longitude: -3.09807
-postcode: "TA1 1QA"
+postcode: TA1 1QA
 city: Taunton
-street: "Priory Bridge Road"
-housenumber: 84
+street: Priory Bridge Road
+housenumber: "84"
 phone: ""
 opening_hours: ""
 website: ""

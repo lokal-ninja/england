@@ -2,10 +2,10 @@ id: 3761504660
 type: node
 latitude: 51.55093
 longitude: -0.08622
-postcode: "N1 4RA"
+postcode: N1 4RA
 city: London
-street: "Newington Green Road"
-housenumber: 139
+street: Newington Green Road
+housenumber: "139"
 phone: ""
-opening_hours: "Mo-Th 11:00-02:30, Fr,Sa 11:00-03:00, Su 11:30-02:30"
+opening_hours: Mo-Th 11:00-02:30, Fr,Sa 11:00-03:00, Su 11:30-02:30
 website: ""

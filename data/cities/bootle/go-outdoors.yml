@@ -1,11 +1,11 @@
 id: 271172624
-type: way
+type: node
 latitude: 53.45397
 longitude: -3.00629
-postcode: "L20 4HN"
+postcode: L20 4HN
 city: Bootle
-street: "Rimrose Road"
-housenumber: 107
+street: Rimrose Road
+housenumber: "107"
 phone: ""
 opening_hours: ""
 website: ""

@@ -2,10 +2,10 @@ id: 7859534337
 type: node
 latitude: 51.62097
 longitude: -0.10596
-postcode: "N13 5EX"
+postcode: N13 5EX
 city: London
-street: "Green Lanes"
-housenumber: 372
-phone: "+44 7472 874290"
-opening_hours: "Mo-Su 09:00-20:00"
+street: Green Lanes
+housenumber: "372"
+phone: +44 7472 874290
+opening_hours: Mo-Su 09:00-20:00
 website: ""

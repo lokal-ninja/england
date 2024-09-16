@@ -1,11 +1,11 @@
 id: 987021509
-type: way
+type: node
 latitude: 50.81794
 longitude: -0.37824
-postcode: "BN14 7AA"
+postcode: BN14 7AA
 city: Worthing
-street: "South Farm Road"
-housenumber: 2
-phone: "+44 1903 369903"
+street: South Farm Road
+housenumber: "2"
+phone: +44 1903 369903
 opening_hours: ""
 website: ""

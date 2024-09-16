@@ -2,10 +2,10 @@ id: 2193333988
 type: node
 latitude: 52.95307
 longitude: -1.147
-postcode: "NG1 2EX"
+postcode: NG1 2EX
 city: Nottingham
-street: "Victoria Street"
-housenumber: 2
+street: Victoria Street
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.goldsmiths.co.uk/store/126"
+website: https://www.goldsmiths.co.uk/store/126

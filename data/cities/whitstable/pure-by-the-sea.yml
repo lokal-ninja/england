@@ -2,10 +2,10 @@ id: 1598907896
 type: node
 latitude: 51.35732
 longitude: 1.02463
-postcode: "CT5 1AZ"
+postcode: CT5 1AZ
 city: Whitstable
-street: "High Street"
-housenumber: 110
-phone: "+44 1227 772 176"
-opening_hours: "Mo-Fr 09:00-19:00; Tu,Th 10:00-20:00; Sa 09:00-17:00; Su 10:00-16:00"
-website: "https://purebythesea.co.uk/"
+street: High Street
+housenumber: "110"
+phone: +44 1227 772 176
+opening_hours: Mo-Fr 09:00-19:00; Tu,Th 10:00-20:00; Sa 09:00-17:00; Su 10:00-16:00
+website: https://purebythesea.co.uk/

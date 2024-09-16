@@ -1,11 +1,11 @@
 id: 191580387
-type: way
+type: node
 latitude: 51.51334
 longitude: -0.01407
-postcode: "E14 6LR"
+postcode: E14 6LR
 city: London
-street: "Chrisp Street"
-housenumber: 62
+street: Chrisp Street
+housenumber: "62"
 phone: ""
 opening_hours: ""
 website: ""

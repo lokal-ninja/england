@@ -2,10 +2,10 @@ id: 4985231362
 type: node
 latitude: 50.78292
 longitude: -0.67438
-postcode: "PO21 1RX"
+postcode: PO21 1RX
 city: Bognor Regis
-street: "High Street"
-housenumber: 49
+street: High Street
+housenumber: "49"
 phone: ""
 opening_hours: ""
 website: ""

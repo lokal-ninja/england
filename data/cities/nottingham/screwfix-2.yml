@@ -1,11 +1,11 @@
 id: 322777130
-type: way
+type: node
 latitude: 52.89373
 longitude: -1.26514
 postcode: ""
 city: Nottingham
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.screwfix.com/stores/GA7/long-eaton"
+website: https://www.screwfix.com/stores/GA7/long-eaton

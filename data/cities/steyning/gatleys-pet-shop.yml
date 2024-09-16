@@ -1,11 +1,11 @@
 id: 711884840
-type: way
+type: node
 latitude: 50.88824
 longitude: -0.32893
-postcode: "BN44 3RD"
+postcode: BN44 3RD
 city: Steyning
-street: "High Street"
-housenumber: 46
-phone: "+44 1903 813125"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-16:00"
-website: "https://www.gatleys.co.uk/static/gatleys-pet-shop-steyning.html"
+street: High Street
+housenumber: "46"
+phone: +44 1903 813125
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-16:00
+website: https://www.gatleys.co.uk/static/gatleys-pet-shop-steyning.html

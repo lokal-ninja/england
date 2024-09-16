@@ -1,11 +1,11 @@
 id: 331909150
-type: way
+type: node
 latitude: 53.01414
 longitude: -2.21891
-postcode: "ST5 1HX"
+postcode: ST5 1HX
 city: Newcastle-under-Lyme
-street: "King Street"
-housenumber: 52
+street: King Street
+housenumber: "52"
 phone: "+441782662828"
 opening_hours: ""
-website: "https://www.johnbelfield.co.uk/"
+website: https://www.johnbelfield.co.uk/

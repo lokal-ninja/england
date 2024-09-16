@@ -1,11 +1,11 @@
 id: 117236240
-type: way
+type: node
 latitude: 52.92313
 longitude: -1.48195
-postcode: "DE1 1EX"
+postcode: DE1 1EX
 city: Derby
-street: "Friar Gate"
-housenumber: 117
+street: Friar Gate
+housenumber: "117"
 phone: ""
 opening_hours: ""
 website: ""

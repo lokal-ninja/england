@@ -1,11 +1,11 @@
 id: 620475748
-type: way
+type: node
 latitude: 51.89009
 longitude: -2.05964
-postcode: "GL52 6HN"
+postcode: GL52 6HN
 city: Cheltenham
-street: "London Road"
-housenumber: 175
+street: London Road
+housenumber: "175"
 phone: ""
 opening_hours: ""
 website: ""

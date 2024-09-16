@@ -2,10 +2,10 @@ id: 5643631661
 type: node
 latitude: 52.89717
 longitude: -1.42975
-postcode: "DE24 8QP"
+postcode: DE24 8QP
 city: Derby
-street: "London Road"
-housenumber: 1260
+street: London Road
+housenumber: "1260"
 phone: ""
 opening_hours: ""
 website: ""

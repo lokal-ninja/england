@@ -1,11 +1,11 @@
 id: 836249092
-type: way
+type: node
 latitude: 51.51919
 longitude: -0.07833
-postcode: "E1 6EG"
+postcode: E1 6EG
 city: London
-street: "Bishops Square"
-housenumber: 11
+street: Bishops Square
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 09:30-18:00; Su 09:30-18:00"
+opening_hours: Mo-Fr 07:00-19:00; Sa 09:30-18:00; Su 09:30-18:00
 website: ""

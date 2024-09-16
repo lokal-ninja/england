@@ -1,11 +1,11 @@
 id: 1032045423
-type: way
+type: node
 latitude: 53.36888
 longitude: -1.49392
-postcode: "S11 8PN"
+postcode: S11 8PN
 city: Sheffield
-street: "Berkeley Precinct"
-housenumber: 14
+street: Berkeley Precinct
+housenumber: "14"
 phone: ""
 opening_hours: ""
-website: "https://www.mariecurie.org.uk/local/charity-shops/sheffield"
+website: https://www.mariecurie.org.uk/local/charity-shops/sheffield

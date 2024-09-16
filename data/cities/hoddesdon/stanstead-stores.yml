@@ -1,11 +1,11 @@
 id: 90537077
-type: way
+type: node
 latitude: 51.76904
 longitude: -0.00757
-postcode: "EN11 0RL"
+postcode: EN11 0RL
 city: Hoddesdon
-street: "Stanstead Road"
-housenumber: 66
-phone: "+44 1992 450144"
+street: Stanstead Road
+housenumber: "66"
+phone: +44 1992 450144
 opening_hours: ""
 website: ""

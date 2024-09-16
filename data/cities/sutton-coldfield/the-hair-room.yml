@@ -1,11 +1,11 @@
 id: 89960213
-type: way
+type: node
 latitude: 52.55759
 longitude: -1.82322
-postcode: "B72 1NE"
+postcode: B72 1NE
 city: Sutton Coldfield
-street: "Coles Lane"
-housenumber: 6
+street: Coles Lane
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

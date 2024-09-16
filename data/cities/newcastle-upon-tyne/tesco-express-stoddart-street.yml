@@ -1,11 +1,11 @@
 id: 245349857
-type: way
+type: node
 latitude: 54.97758
 longitude: -1.59835
-postcode: "NE2 1AA"
+postcode: NE2 1AA
 city: Newcastle upon Tyne
-street: "Stoddart Street"
-housenumber: 
-phone: "+44 345 610 2926"
-opening_hours: "Mo-Su 06:00-23:00"
+street: Stoddart Street
+housenumber: ""
+phone: +44 345 610 2926
+opening_hours: Mo-Su 06:00-23:00
 website: ""

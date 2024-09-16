@@ -1,11 +1,11 @@
 id: 463312141
-type: way
+type: node
 latitude: 52.20145
 longitude: -0.60924
-postcode: "MK43 7DA"
+postcode: MK43 7DA
 city: Harrold
-street: "High Street"
-housenumber: 66
+street: High Street
+housenumber: "66"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.coop.co.uk/store-finder/MK43-7DA/66-high-street"
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.coop.co.uk/store-finder/MK43-7DA/66-high-street

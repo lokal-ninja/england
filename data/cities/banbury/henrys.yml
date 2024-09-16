@@ -1,11 +1,11 @@
 id: 938780788
-type: way
+type: node
 latitude: 52.06071
 longitude: -1.33854
-postcode: "OX16 5JJ"
+postcode: OX16 5JJ
 city: Banbury
-street: "High Street"
-housenumber: 52
+street: High Street
+housenumber: "52"
 phone: ""
 opening_hours: ""
 website: ""

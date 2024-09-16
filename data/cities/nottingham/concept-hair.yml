@@ -1,11 +1,11 @@
 id: 327129647
-type: way
+type: node
 latitude: 53.018
 longitude: -1.30778
 postcode: ""
 city: Nottingham
-street: "Nottingham Road"
-housenumber: 22
+street: Nottingham Road
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

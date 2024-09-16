@@ -1,11 +1,11 @@
 id: 586417898
-type: way
+type: node
 latitude: 51.43793
 longitude: 0.043
-postcode: "SE9 4QN"
+postcode: SE9 4QN
 city: London
-street: "Mottingham Road"
-housenumber: 21
+street: Mottingham Road
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Su 00:00-24:00"
+opening_hours: Mo-Su 00:00-24:00
 website: ""

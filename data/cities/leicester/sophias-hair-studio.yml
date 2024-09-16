@@ -2,10 +2,10 @@ id: 11987529682
 type: node
 latitude: 52.58694
 longitude: -1.10612
-postcode: "LE18 1DR"
+postcode: LE18 1DR
 city: Leicester
-street: "Leicester Road"
-housenumber: 52
+street: Leicester Road
+housenumber: "52"
 phone: ""
 opening_hours: ""
 website: ""

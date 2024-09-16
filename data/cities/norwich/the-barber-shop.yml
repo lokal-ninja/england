@@ -2,10 +2,10 @@ id: 9503218783
 type: node
 latitude: 52.6277
 longitude: 1.29431
-postcode: "NR2 1QA"
+postcode: NR2 1QA
 city: Norwich
-street: "White Lion Street"
-housenumber: 15
+street: White Lion Street
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

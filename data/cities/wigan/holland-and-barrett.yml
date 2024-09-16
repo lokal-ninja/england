@@ -1,11 +1,11 @@
 id: 581252015
-type: way
+type: node
 latitude: 53.54634
 longitude: -2.62869
-postcode: "WN1 1BH"
+postcode: WN1 1BH
 city: Wigan
-street: "The Grand Arcade"
-housenumber: 33
+street: The Grand Arcade
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

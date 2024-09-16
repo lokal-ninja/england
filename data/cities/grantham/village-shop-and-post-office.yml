@@ -1,11 +1,12 @@
 id: 388682800
-type: way
+type: node
 latitude: 52.89807
 longitude: -0.75712
-postcode: "NG32 1LY"
+postcode: NG32 1LY
 city: Grantham
-street: "Main Street"
-housenumber: 
+street: Main Street
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Tu,Fr 08:00-17:30; We 08:00-13:30; Th 08:00-14:30,15:30-17:30; Sa 08:30-16:30; Su off"
+opening_hours: Mo-Tu,Fr 08:00-17:30; We 08:00-13:30; Th 08:00-14:30,15:30-17:30; Sa
+    08:30-16:30; Su off
 website: ""

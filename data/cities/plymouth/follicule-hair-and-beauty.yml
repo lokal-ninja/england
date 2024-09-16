@@ -1,11 +1,11 @@
 id: 933776124
-type: way
+type: node
 latitude: 50.37469
 longitude: -4.11596
 postcode: ""
 city: Plymouth
-street: "Lanhydrock Road"
-housenumber: 51
+street: Lanhydrock Road
+housenumber: "51"
 phone: ""
 opening_hours: ""
 website: ""

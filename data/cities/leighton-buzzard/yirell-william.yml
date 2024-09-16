@@ -1,11 +1,11 @@
 id: 253392492
-type: way
+type: node
 latitude: 51.9167
 longitude: -0.67183
-postcode: "LU7 2RB"
+postcode: LU7 2RB
 city: Leighton Buzzard
-street: "Old Road"
-housenumber: 7
+street: Old Road
+housenumber: "7"
 phone: ""
-opening_hours: "Tu-Sa 07:00-15:00"
+opening_hours: Tu-Sa 07:00-15:00
 website: ""

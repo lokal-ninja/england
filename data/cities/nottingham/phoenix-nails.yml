@@ -2,10 +2,10 @@ id: 2303455858
 type: node
 latitude: 53.00221
 longitude: -1.19631
-postcode: "NG6 8EZ"
+postcode: NG6 8EZ
 city: Nottingham
-street: "Main Street"
-housenumber: 239
+street: Main Street
+housenumber: "239"
 phone: ""
-opening_hours: "Mo-Sa 09:00-18:00; Su 10:00-16:00"
+opening_hours: Mo-Sa 09:00-18:00; Su 10:00-16:00
 website: ""

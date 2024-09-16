@@ -1,11 +1,11 @@
 id: 129773141
-type: way
+type: node
 latitude: 51.79733
 longitude: 1.14451
-postcode: "CO15 3HT"
+postcode: CO15 3HT
 city: Clacton-on-Sea
 street: ""
-housenumber: 65
+housenumber: "65"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 431460311
-type: way
+type: node
 latitude: 50.72496
 longitude: -1.93663
-postcode: "BH14 9HT"
+postcode: BH14 9HT
 city: Poole
-street: "Bournemouth Road"
-housenumber: 137
+street: Bournemouth Road
+housenumber: "137"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-17:30; Su 10:00-16:00"
+opening_hours: Mo-Fr 08:30-18:00; Sa 08:30-17:30; Su 10:00-16:00
 website: ""

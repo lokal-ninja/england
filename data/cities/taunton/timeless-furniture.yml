@@ -1,11 +1,11 @@
 id: 297950353
-type: way
+type: node
 latitude: 51.03321
 longitude: -3.1425
-postcode: "TA2 6NS"
+postcode: TA2 6NS
 city: Taunton
 street: ""
-housenumber: 
-phone: "+44 1823 752053"
-opening_hours: "Su-Th by appointment, Fr-Sa 10:00-16:00"
-website: "https://timelessfurniture.co.uk/"
+housenumber: ""
+phone: +44 1823 752053
+opening_hours: Su-Th "by appointment", Fr-Sa 10:00-16:00
+website: https://timelessfurniture.co.uk/

@@ -1,11 +1,11 @@
 id: 313296614
-type: way
+type: node
 latitude: 50.83672
 longitude: 0.46829
-postcode: "TN39 3HF"
+postcode: TN39 3HF
 city: Bexhill-on-Sea
-street: "West Parade"
-housenumber: 
+street: West Parade
+housenumber: ""
 phone: ""
-opening_hours: "when the sun shines"
+opening_hours: '"when the sun shines"'
 website: ""

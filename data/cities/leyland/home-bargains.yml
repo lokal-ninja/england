@@ -1,11 +1,11 @@
 id: 215404950
-type: way
+type: node
 latitude: 53.69128
 longitude: -2.69841
-postcode: "PR25 2LR"
+postcode: PR25 2LR
 city: Leyland
-street: "Towngate"
-housenumber: 89
+street: Towngate
+housenumber: "89"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00, Su 10:00-16:00"
+opening_hours: Mo-Sa 08:00-20:00, Su 10:00-16:00
 website: ""

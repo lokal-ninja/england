@@ -1,11 +1,11 @@
 id: 758994002
-type: way
+type: node
 latitude: 51.46797
 longitude: -0.06845
-postcode: "SE15 4SE"
+postcode: SE15 4SE
 city: London
-street: "Choumert Road"
-housenumber: 5
+street: Choumert Road
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

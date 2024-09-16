@@ -1,11 +1,11 @@
 id: 700132756
-type: way
+type: node
 latitude: 52.63172
 longitude: 1.2407
-postcode: "NR5 8AD"
+postcode: NR5 8AD
 city: Norwich
-street: "Earlham West Centre"
-housenumber: 19
+street: Earlham West Centre
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

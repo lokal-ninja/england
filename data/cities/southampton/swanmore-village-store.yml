@@ -1,11 +1,11 @@
 id: 190504890
-type: way
+type: node
 latitude: 50.94387
 longitude: -1.18016
-postcode: "SO32 2PE"
+postcode: SO32 2PE
 city: Southampton
-street: "New Road"
-housenumber: 
+street: New Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 06:00-22:00"
+opening_hours: Mo-Su 06:00-22:00
 website: ""

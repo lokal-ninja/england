@@ -1,11 +1,11 @@
 id: 702590434
-type: way
+type: node
 latitude: 51.53232
 longitude: -0.17813
-postcode: "NW8 9AY"
+postcode: NW8 9AY
 city: London
-street: "Abbey Road"
-housenumber: 3
+street: Abbey Road
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 09:30-17:30; Sa 09:30-18:00; Su 10:00-17:00"
+opening_hours: Mo-Fr 09:30-17:30; Sa 09:30-18:00; Su 10:00-17:00
 website: ""

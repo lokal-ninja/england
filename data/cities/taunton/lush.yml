@@ -1,11 +1,11 @@
 id: 274215216
-type: way
+type: node
 latitude: 51.01559
 longitude: -3.10332
-postcode: "TA1 1LH"
+postcode: TA1 1LH
 city: Taunton
-street: "North Street"
-housenumber: 2
+street: North Street
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

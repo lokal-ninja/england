@@ -1,11 +1,11 @@
 id: 62249238
-type: way
+type: node
 latitude: 51.43793
 longitude: -0.97254
-postcode: "RG2 0NH"
+postcode: RG2 0NH
 city: Reading
-street: "Boulton Road"
-housenumber: 4
+street: Boulton Road
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

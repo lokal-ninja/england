@@ -1,11 +1,11 @@
 id: 479912389
-type: way
+type: node
 latitude: 51.58782
 longitude: -1.42631
-postcode: "OX12 8BL"
+postcode: OX12 8BL
 city: Wantage
-street: "Church Street"
-housenumber: 4
+street: Church Street
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

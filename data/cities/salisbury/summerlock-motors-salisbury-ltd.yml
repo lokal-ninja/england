@@ -1,11 +1,11 @@
 id: 672489558
-type: way
+type: node
 latitude: 51.07456
 longitude: -1.80314
-postcode: "SP2 7AY"
+postcode: SP2 7AY
 city: Salisbury
-street: "Middleton Road"
-housenumber: 38
+street: Middleton Road
+housenumber: "38"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

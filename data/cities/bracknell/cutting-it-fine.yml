@@ -1,11 +1,11 @@
 id: 964570294
-type: way
+type: node
 latitude: 51.42635
 longitude: -0.73149
-postcode: "RG42 3JP"
+postcode: RG42 3JP
 city: Bracknell
-street: "County Lane"
-housenumber: 13
+street: County Lane
+housenumber: "13"
 phone: ""
 opening_hours: ""
-website: "https://cuttingitfine.online/"
+website: https://cuttingitfine.online/

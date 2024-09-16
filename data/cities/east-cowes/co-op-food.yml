@@ -1,11 +1,11 @@
 id: 314740410
-type: way
+type: node
 latitude: 50.75807
 longitude: -1.28839
-postcode: "PO32 6QY"
+postcode: PO32 6QY
 city: East Cowes
-street: "York Avenue"
+street: York Avenue
 housenumber: 16,18,20,22,24
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.coop.co.uk/store-finder/PO32-6QY/york-avenue"
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.coop.co.uk/store-finder/PO32-6QY/york-avenue

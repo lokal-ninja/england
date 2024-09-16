@@ -1,11 +1,11 @@
 id: 972957720
-type: way
+type: node
 latitude: 53.38909
 longitude: -2.59313
 postcode: ""
 city: Warrington
-street: "Buttermarket Street"
-housenumber: 2
+street: Buttermarket Street
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 273711572
-type: way
+type: node
 latitude: 51.01711
 longitude: -3.10259
-postcode: "TA1 1JR"
+postcode: TA1 1JR
 city: Taunton
-street: "St James Street"
-housenumber: 50
+street: St James Street
+housenumber: "50"
 phone: ""
-opening_hours: "Mo-Sa 10:00-17:00; Su 11:00-15:00"
-website: "https://www.rocketandbird.com"
+opening_hours: Mo-Sa 10:00-17:00; Su 11:00-15:00
+website: https://www.rocketandbird.com

@@ -1,11 +1,11 @@
 id: 1297747450
-type: way
+type: node
 latitude: 53.49348
 longitude: -1.28978
-postcode: "S64 9AS"
+postcode: S64 9AS
 city: Mexborough
-street: "High Street"
-housenumber: 42
+street: High Street
+housenumber: "42"
 phone: ""
 opening_hours: ""
 website: ""

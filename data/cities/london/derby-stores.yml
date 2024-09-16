@@ -1,11 +1,11 @@
 id: 33626142
-type: way
+type: node
 latitude: 51.46411
 longitude: -0.27732
-postcode: "SW14 7ED"
+postcode: SW14 7ED
 city: London
-street: "Upper Richmond Road West"
-housenumber: 561
+street: Upper Richmond Road West
+housenumber: "561"
 phone: ""
 opening_hours: ""
 website: ""

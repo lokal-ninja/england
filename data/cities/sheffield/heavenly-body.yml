@@ -1,11 +1,11 @@
 id: 100663059
-type: way
+type: node
 latitude: 53.36471
 longitude: -1.51638
-postcode: "S11 7BR"
+postcode: S11 7BR
 city: Sheffield
-street: "Greystones Road"
-housenumber: 230
+street: Greystones Road
+housenumber: "230"
 phone: ""
 opening_hours: ""
 website: ""

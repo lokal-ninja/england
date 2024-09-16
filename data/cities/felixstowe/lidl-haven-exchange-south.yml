@@ -1,11 +1,11 @@
 id: 506439194
-type: way
+type: node
 latitude: 51.95599
 longitude: 1.32833
-postcode: "IP11 2QE"
+postcode: IP11 2QE
 city: Felixstowe
-street: "Haven Exchange South"
-housenumber: 
+street: Haven Exchange South
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su 10:00-16:00"
-website: "https://www.lidl.co.uk/s/en-GB/store-finder/felixstowe/haven-exchange/"
+opening_hours: Mo-Sa 08:00-21:00; Su 10:00-16:00
+website: https://www.lidl.co.uk/s/en-GB/store-finder/felixstowe/haven-exchange/

@@ -1,11 +1,11 @@
 id: 169728439
-type: way
+type: node
 latitude: 52.46316
 longitude: 0.54928
-postcode: "IP26 4LW"
+postcode: IP26 4LW
 city: Thetford
-street: "Main Street"
-housenumber: 88
+street: Main Street
+housenumber: "88"
 phone: ""
-opening_hours: "Mo-Sa 06:00-20:00; Su 07:00-20:00"
+opening_hours: Mo-Sa 06:00-20:00; Su 07:00-20:00
 website: ""

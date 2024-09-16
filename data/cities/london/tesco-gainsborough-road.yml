@@ -1,11 +1,11 @@
 id: 28808114
-type: way
+type: node
 latitude: 51.57163
 longitude: 0.0129
-postcode: "E11 1HT"
+postcode: E11 1HT
 city: London
-street: "Gainsborough Road"
-housenumber: 8
+street: Gainsborough Road
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 06:00-24:00; Su 10:00-16:00"
+opening_hours: Mo-Sa 06:00-24:00; Su 10:00-16:00
 website: ""

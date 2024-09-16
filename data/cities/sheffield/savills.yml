@@ -1,11 +1,11 @@
 id: 1050335701
-type: way
+type: node
 latitude: 53.37948
 longitude: -1.47744
-postcode: "S3 7SF"
+postcode: S3 7SF
 city: Sheffield
-street: "Devonshire Street"
-housenumber: 114
+street: Devonshire Street
+housenumber: "114"
 phone: ""
-opening_hours: "Tu-Fr 10:00-19:00; Sa 08:00-16:00"
+opening_hours: Tu-Fr 10:00-19:00; Sa 08:00-16:00
 website: ""

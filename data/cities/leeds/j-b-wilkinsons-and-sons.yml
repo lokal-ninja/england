@@ -1,11 +1,11 @@
 id: 628579401
-type: way
+type: node
 latitude: 53.88235
 longitude: -1.61135
-postcode: "LS16 9BU"
+postcode: LS16 9BU
 city: Leeds
-street: "Tredgold Avenue"
-housenumber: 2
+street: Tredgold Avenue
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

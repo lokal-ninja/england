@@ -1,11 +1,11 @@
 id: 411512485
-type: way
+type: node
 latitude: 52.42775
 longitude: 0.74323
-postcode: "IP24 1HS"
+postcode: IP24 1HS
 city: Thetford
-street: "Hill Fort Close"
-housenumber: 6
+street: Hill Fort Close
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "http://www.more-go.com/"
+website: http://www.more-go.com/

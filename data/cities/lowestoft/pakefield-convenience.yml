@@ -1,11 +1,11 @@
 id: 499888737
-type: way
+type: node
 latitude: 52.45415
 longitude: 1.73188
-postcode: "NR33 0JT"
+postcode: NR33 0JT
 city: Lowestoft
-street: "Pakefield Street"
-housenumber: 
+street: Pakefield Street
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.premier-stores.co.uk/our-stores/pakefield-convenience"
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.premier-stores.co.uk/our-stores/pakefield-convenience

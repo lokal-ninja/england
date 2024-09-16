@@ -1,11 +1,11 @@
 id: 481289936
-type: way
+type: node
 latitude: 51.93027
 longitude: -1.72242
 postcode: ""
 city: Cheltenham
-street: "The Square"
-housenumber: 
+street: The Square
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:30-16:30"
-website: "https://www.sueryder.org/shop-with-us/find-a-shop/stow-on-the-wold/"
+opening_hours: Mo-Sa 09:30-16:30
+website: https://www.sueryder.org/shop-with-us/find-a-shop/stow-on-the-wold/

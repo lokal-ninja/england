@@ -1,11 +1,11 @@
 id: 536215713
-type: way
+type: node
 latitude: 51.49096
 longitude: -0.15292
-postcode: "SW1W 8UN"
+postcode: SW1W 8UN
 city: London
-street: "Ebury Strreet"
-housenumber: 198
+street: Ebury Strreet
+housenumber: "198"
 phone: ""
 opening_hours: ""
-website: "https://www.openstreetmap.org/note/2842513"
+website: https://www.openstreetmap.org/note/2842513

@@ -1,11 +1,11 @@
 id: 569082368
-type: way
+type: node
 latitude: 53.60186
 longitude: -2.43254
-postcode: "BL1 7AL"
+postcode: BL1 7AL
 city: Bolton
-street: "Blackburn Road"
-housenumber: 588
+street: Blackburn Road
+housenumber: "588"
 phone: ""
 opening_hours: ""
 website: ""

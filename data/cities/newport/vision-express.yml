@@ -4,8 +4,8 @@ latitude: 50.70008
 longitude: -1.29487
 postcode: ""
 city: Newport
-street: "High Street"
-housenumber: 120
+street: High Street
+housenumber: "120"
 phone: ""
-opening_hours: "Mo-Sa 09:00-17:30; Su off"
-website: "https://www.visionexpress.com/opticians/newport/newport-isle-of-wight"
+opening_hours: Mo-Sa 09:00-17:30; Su off
+website: https://www.visionexpress.com/opticians/newport/newport-isle-of-wight

@@ -1,11 +1,11 @@
 id: 1114977952
-type: way
+type: node
 latitude: 53.52211
 longitude: -1.12954
-postcode: "DN1 3NR"
+postcode: DN1 3NR
 city: Doncaster
-street: "Hall Gate"
-housenumber: 42
+street: Hall Gate
+housenumber: "42"
 phone: ""
 opening_hours: ""
 website: ""

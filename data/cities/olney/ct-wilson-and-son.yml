@@ -1,11 +1,11 @@
 id: 589328178
-type: way
+type: node
 latitude: 52.15641
 longitude: -0.70135
-postcode: "MK46 4BE"
+postcode: MK46 4BE
 city: Olney
-street: "High Street"
-housenumber: 84
+street: High Street
+housenumber: "84"
 phone: ""
-opening_hours: "Mo-Sa 09:00-16:30, Closed bank holidays"
+opening_hours: Mo-Sa 09:00-16:30, Closed bank holidays
 website: ""

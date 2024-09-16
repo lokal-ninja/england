@@ -1,11 +1,11 @@
 id: 543381982
-type: way
+type: node
 latitude: 53.1613
 longitude: 0.24555
-postcode: "PE24 5JT"
+postcode: PE24 5JT
 city: Skegness
-street: "High Street"
-housenumber: 26
+street: High Street
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

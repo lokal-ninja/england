@@ -2,10 +2,10 @@ id: 8280974921
 type: node
 latitude: 50.82565
 longitude: -0.14914
-postcode: "BN1 3FL"
+postcode: BN1 3FL
 city: Brighton
-street: "Upper North Street"
-housenumber: 67
+street: Upper North Street
+housenumber: "67"
 phone: ""
 opening_hours: ""
-website: "https://www.betweentwothorns.com/"
+website: https://www.betweentwothorns.com/

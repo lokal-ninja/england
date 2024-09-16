@@ -2,10 +2,10 @@ id: 5816647824
 type: node
 latitude: 53.48368
 longitude: -2.24484
-postcode: "M1 1AD"
+postcode: M1 1AD
 city: Manchester
-street: "New Cathedral Street"
-housenumber: 7
+street: New Cathedral Street
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1279701382
-type: way
+type: node
 latitude: 51.895
 longitude: 0.91588
-postcode: "CO1 1YA"
+postcode: CO1 1YA
 city: Colchester
-street: "Cowdray Avenue"
-housenumber: 360
-phone: "01206 855018"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 10:00-16:00"
-website: "https://www.persha.co.uk/"
+street: Cowdray Avenue
+housenumber: "360"
+phone: 01206 855018
+opening_hours: Mo-Fr 09:00-17:00; Sa 10:00-16:00
+website: https://www.persha.co.uk/

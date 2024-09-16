@@ -1,11 +1,11 @@
 id: 41190235
-type: way
+type: node
 latitude: 50.36672
 longitude: -4.0982
-postcode: "PL9 7BH"
+postcode: PL9 7BH
 city: Plymstock
-street: "Pomphlett Road"
-housenumber: 
+street: Pomphlett Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su 11:00-17:00"
-website: "https://my.morrisons.com/storefinder/333/plymstock"
+opening_hours: Mo-Sa 07:00-22:00; Su 11:00-17:00
+website: https://my.morrisons.com/storefinder/333/plymstock

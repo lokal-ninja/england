@@ -1,11 +1,11 @@
 id: 61903833
-type: way
+type: node
 latitude: 52.88446
 longitude: -1.4472
-postcode: "DE24 9DL"
+postcode: DE24 9DL
 city: Derby
-street: "Boulton Lane"
-housenumber: 421
+street: Boulton Lane
+housenumber: "421"
 phone: ""
 opening_hours: ""
 website: ""

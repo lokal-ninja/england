@@ -1,11 +1,11 @@
 id: 202704588
-type: way
+type: node
 latitude: 52.36777
 longitude: -2.71876
-postcode: "SY8 1AQ"
+postcode: SY8 1AQ
 city: Ludlow
-street: "King Street"
-housenumber: 18
+street: King Street
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

@@ -2,10 +2,10 @@ id: 11015666121
 type: node
 latitude: 50.33499
 longitude: -4.63577
-postcode: "PL23 1BD"
+postcode: PL23 1BD
 city: Fowey
-street: "Lostwithiel Street"
-housenumber: 14
+street: Lostwithiel Street
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 11:00-16:00; Sa 11:00-17:00; Su 12:00-16:00"
-website: "https://anyoldvintage.com"
+opening_hours: Mo-Fr 11:00-16:00; Sa 11:00-17:00; Su 12:00-16:00
+website: https://anyoldvintage.com

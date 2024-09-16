@@ -2,10 +2,10 @@ id: 474842086
 type: node
 latitude: 51.47194
 longitude: -0.09359
-postcode: "SE5 9PR"
+postcode: SE5 9PR
 city: London
-street: "Coldharbour Lane"
-housenumber: 6
-phone: "+44 20 7738 4983"
-opening_hours: "08:00-00:00"
+street: Coldharbour Lane
+housenumber: "6"
+phone: +44 20 7738 4983
+opening_hours: 08:00-00:00
 website: ""

@@ -1,11 +1,11 @@
 id: 1069846907
-type: way
+type: node
 latitude: 55.21945
 longitude: -1.55879
-postcode: "NE61 5JF"
+postcode: NE61 5JF
 city: Ellington
-street: "Primrose Way"
-housenumber: 
+street: Primrose Way
+housenumber: ""
 phone: ""
-opening_hours: "06:00-22:00"
-website: "https://www.coop.co.uk/store-finder/NE61-5BR/primrose-way"
+opening_hours: 06:00-22:00
+website: https://www.coop.co.uk/store-finder/NE61-5BR/primrose-way

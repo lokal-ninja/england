@@ -1,11 +1,11 @@
 id: 320031238
-type: way
+type: node
 latitude: 52.92964
 longitude: -1.1208
-postcode: "NG2 5NG"
+postcode: NG2 5NG
 city: Nottingham
-street: "Abbey Road"
-housenumber: 41
+street: Abbey Road
+housenumber: "41"
 phone: ""
 opening_hours: ""
 website: ""

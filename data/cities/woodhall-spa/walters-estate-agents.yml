@@ -1,11 +1,11 @@
 id: 150428312
-type: way
+type: node
 latitude: 53.15193
 longitude: -0.21634
-postcode: "LN10 6QL"
+postcode: LN10 6QL
 city: Woodhall Spa
-street: "Station Road"
-housenumber: 3
+street: Station Road
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

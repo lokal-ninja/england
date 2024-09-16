@@ -1,11 +1,11 @@
 id: 543899091
-type: way
+type: node
 latitude: 51.71715
 longitude: 0.57924
-postcode: "CM3 4NQ"
+postcode: CM3 4NQ
 city: Danbury
-street: "Main Road"
-housenumber: 16
+street: Main Road
+housenumber: "16"
 phone: ""
 opening_hours: ""
-website: "https://www.chelmsfordstar.coop/store/danbury-post-office/"
+website: https://www.chelmsfordstar.coop/store/danbury-post-office/

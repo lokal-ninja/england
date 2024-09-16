@@ -1,11 +1,11 @@
 id: 1065238754
-type: way
+type: node
 latitude: 51.43127
 longitude: -0.30683
-postcode: "TW10 5LF"
+postcode: TW10 5LF
 city: Richmond
-street: "Ham Parade"
-housenumber: 6
+street: Ham Parade
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

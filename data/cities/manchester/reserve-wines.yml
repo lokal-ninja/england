@@ -1,11 +1,11 @@
 id: 612339939
-type: way
+type: node
 latitude: 53.42742
 longitude: -2.24203
-postcode: "M20 1LH"
+postcode: M20 1LH
 city: Manchester
-street: "Burton Road"
-housenumber: 176
+street: Burton Road
+housenumber: "176"
 phone: ""
 opening_hours: ""
 website: ""

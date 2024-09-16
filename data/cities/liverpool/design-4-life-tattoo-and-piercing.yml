@@ -1,11 +1,11 @@
 id: 1119040244
-type: way
+type: node
 latitude: 53.4057
 longitude: -2.97862
-postcode: "L1 1JN"
+postcode: L1 1JN
 city: Liverpool
-street: "Lime Street"
-housenumber: 70
+street: Lime Street
+housenumber: "70"
 phone: ""
 opening_hours: ""
 website: ""

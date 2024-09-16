@@ -1,11 +1,11 @@
 id: 95246603
-type: way
+type: node
 latitude: 53.35686
 longitude: -1.47745
-postcode: "S8 8UB"
+postcode: S8 8UB
 city: Sheffield
-street: "Windsor Road"
-housenumber: 2
-phone: "+441142 29 01 90"
-opening_hours: "Mo-Fr 09:00-17:30, Sa 09:30-16:30, Su,PH 10:30-16:00"
-website: "https://www.porcelanosa.com/uk/showroom-porcelanosa-sheffield-692"
+street: Windsor Road
+housenumber: "2"
+phone: +441142 29 01 90
+opening_hours: Mo-Fr 09:00-17:30, Sa 09:30-16:30, Su,PH 10:30-16:00
+website: https://www.porcelanosa.com/uk/showroom-porcelanosa-sheffield-692

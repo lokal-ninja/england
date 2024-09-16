@@ -1,11 +1,11 @@
 id: 307182121
-type: way
+type: node
 latitude: 52.09212
 longitude: -1.94934
 postcode: ""
 city: Evesham
-street: "Vine Mews"
-housenumber: 18
+street: Vine Mews
+housenumber: "18"
 phone: ""
 opening_hours: ""
-website: "https://ceramicsandmore.co.uk/"
+website: https://ceramicsandmore.co.uk/

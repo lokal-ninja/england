@@ -1,11 +1,11 @@
 id: 431510907
-type: way
+type: node
 latitude: 51.40756
 longitude: -0.22341
-postcode: "SW20 8BP"
+postcode: SW20 8BP
 city: London
-street: "Bushey Road"
-housenumber: 
-phone: "+44 20 8543 4321"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:30-12:30; Su,PH off"
-website: "http://www.wimbledon.landrover.co.uk"
+street: Bushey Road
+housenumber: ""
+phone: +44 20 8543 4321
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:30-12:30; Su,PH off
+website: http://www.wimbledon.landrover.co.uk

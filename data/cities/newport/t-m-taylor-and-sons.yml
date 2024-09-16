@@ -2,10 +2,10 @@ id: 9061221766
 type: node
 latitude: 50.69996
 longitude: -1.29592
-postcode: "PO30 5HB"
+postcode: PO30 5HB
 city: Newport
-street: "Saint James's Street"
-housenumber: 110
+street: Saint James's Street
+housenumber: "110"
 phone: ""
 opening_hours: ""
 website: ""

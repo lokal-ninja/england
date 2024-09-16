@@ -1,11 +1,11 @@
 id: 1169450725
-type: way
+type: node
 latitude: 51.10886
 longitude: -4.16343
-postcode: "EX33 1AA"
+postcode: EX33 1AA
 city: Braunton
-street: "Caen Street"
-housenumber: 22
-phone: "+44 1271 812053"
+street: Caen Street
+housenumber: "22"
+phone: +44 1271 812053
 opening_hours: ""
 website: ""

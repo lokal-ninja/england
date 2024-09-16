@@ -1,11 +1,11 @@
 id: 186310108
-type: way
+type: node
 latitude: 51.45481
 longitude: -2.60334
-postcode: "BS1 5NU"
+postcode: BS1 5NU
 city: Bristol
-street: "Park Street"
-housenumber: 63
-phone: "+44 1179 298099"
+street: Park Street
+housenumber: "63"
+phone: +44 1179 298099
 opening_hours: ""
-website: "http://www.stationeryworldclifton.co.uk/"
+website: http://www.stationeryworldclifton.co.uk/

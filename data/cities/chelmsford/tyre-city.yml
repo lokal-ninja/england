@@ -1,11 +1,11 @@
 id: 963706291
-type: way
+type: node
 latitude: 51.75912
 longitude: 0.47397
-postcode: "CM1 7AF"
+postcode: CM1 7AF
 city: Chelmsford
-street: "Main Road"
-housenumber: 106
-phone: "+44 1245 440578"
+street: Main Road
+housenumber: "106"
+phone: +44 1245 440578
 opening_hours: ""
-website: "https://www.tyrecity.co.uk/"
+website: https://www.tyrecity.co.uk/

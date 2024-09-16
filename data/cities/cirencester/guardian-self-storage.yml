@@ -1,11 +1,11 @@
 id: 373914879
-type: way
+type: node
 latitude: 51.70734
 longitude: -1.95966
-postcode: "GL7 1NJ"
+postcode: GL7 1NJ
 city: Cirencester
-street: "Bridge Road"
-housenumber: 16
-phone: "+44 333 577 9600"
-opening_hours: "Mo-Su 8:30-17:30"
-website: "https://www.guardian-selfstore.co.uk/"
+street: Bridge Road
+housenumber: "16"
+phone: +44 333 577 9600
+opening_hours: Mo-Su 8:30-17:30
+website: https://www.guardian-selfstore.co.uk/

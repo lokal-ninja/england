@@ -1,11 +1,11 @@
 id: 1047391674
-type: way
+type: node
 latitude: 53.34721
 longitude: -1.41749
-postcode: "S12 3DZ"
+postcode: S12 3DZ
 city: Sheffield
-street: "Jaunty Way"
-housenumber: 5
+street: Jaunty Way
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

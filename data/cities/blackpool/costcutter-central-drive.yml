@@ -1,11 +1,11 @@
 id: 1226352684
-type: way
+type: node
 latitude: 53.81369
 longitude: -3.05203
-postcode: "FY1 5QA"
+postcode: FY1 5QA
 city: Blackpool
-street: "Central Drive"
-housenumber: 50
+street: Central Drive
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

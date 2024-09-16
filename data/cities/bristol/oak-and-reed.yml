@@ -1,11 +1,11 @@
 id: 280997087
-type: way
+type: node
 latitude: 51.45103
 longitude: -2.60661
-postcode: "BS1 5UW"
+postcode: BS1 5UW
 city: Bristol
-street: "Saint Georges Road"
-housenumber: 109
+street: Saint Georges Road
+housenumber: "109"
 phone: ""
 opening_hours: ""
-website: "https://www.oakandreed.co.uk/"
+website: https://www.oakandreed.co.uk/

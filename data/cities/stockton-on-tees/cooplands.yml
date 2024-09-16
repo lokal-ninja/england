@@ -2,10 +2,10 @@ id: 3549985875
 type: node
 latitude: 54.53919
 longitude: -1.29126
-postcode: "TS17 9EP"
+postcode: TS17 9EP
 city: Stockton-on-Tees
 street: ""
-housenumber: 4
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

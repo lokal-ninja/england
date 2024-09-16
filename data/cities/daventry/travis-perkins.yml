@@ -1,11 +1,11 @@
 id: 704919056
-type: way
+type: node
 latitude: 52.24745
 longitude: -1.15463
-postcode: "NN11 4SD"
+postcode: NN11 4SD
 city: Daventry
 street: ""
-housenumber: 
+housenumber: ""
 phone: "+441327300722"
-opening_hours: "Mo-Fr 07:30-17:00; Sa 08:00-12:00; Su closed"
-website: "https://www.travisperkins.co.uk/branch-locator/3348"
+opening_hours: Mo-Fr 07:30-17:00; Sa 08:00-12:00; Su closed
+website: https://www.travisperkins.co.uk/branch-locator/3348

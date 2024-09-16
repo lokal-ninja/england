@@ -1,11 +1,11 @@
 id: 532084539
-type: way
+type: node
 latitude: 51.2289
 longitude: -1.33834
-postcode: "RG28 7AH"
+postcode: RG28 7AH
 city: Whitchurch
-street: "Winchester Street"
-housenumber: 25
+street: Winchester Street
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Su,PH 07:00-22:00"
+opening_hours: Mo-Su,PH 07:00-22:00
 website: ""

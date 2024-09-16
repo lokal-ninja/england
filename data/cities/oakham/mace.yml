@@ -1,11 +1,11 @@
 id: 1203137064
-type: way
+type: node
 latitude: 52.71945
 longitude: -0.77686
-postcode: "LE15 7ES"
+postcode: LE15 7ES
 city: Oakham
-street: "Main Street"
-housenumber: 39
+street: Main Street
+housenumber: "39"
 phone: ""
 opening_hours: ""
 website: ""

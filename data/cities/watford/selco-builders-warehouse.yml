@@ -1,11 +1,11 @@
 id: 709241193
-type: way
+type: node
 latitude: 51.66957
 longitude: -0.39395
-postcode: "WD24 4PP"
+postcode: WD24 4PP
 city: Watford
-street: "Imperial Park"
-housenumber: 7
+street: Imperial Park
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

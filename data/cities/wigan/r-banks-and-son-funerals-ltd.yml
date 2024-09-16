@@ -1,11 +1,11 @@
 id: 767980435
-type: way
+type: node
 latitude: 53.54993
 longitude: -2.61963
-postcode: "WN1 3NH"
+postcode: WN1 3NH
 city: Wigan
-street: "Scholes"
-housenumber: 232
+street: Scholes
+housenumber: "232"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 429260751
-type: way
+type: node
 latitude: 50.978
 longitude: -3.22714
-postcode: "TA21 8NS"
+postcode: TA21 8NS
 city: Wellington
-street: "South Street"
-housenumber: 12
+street: South Street
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

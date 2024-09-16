@@ -1,11 +1,11 @@
 id: 546914564
-type: way
+type: node
 latitude: 53.36716
 longitude: -0.00621
-postcode: "LN11 9NB"
+postcode: LN11 9NB
 city: Louth
-street: "Eastgate"
-housenumber: 33
+street: Eastgate
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

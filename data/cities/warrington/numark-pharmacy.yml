@@ -1,11 +1,11 @@
 id: 1152815891
-type: way
+type: node
 latitude: 53.43079
 longitude: -2.65839
-postcode: "WA5 4HF"
+postcode: WA5 4HF
 city: Warrington
-street: "Chapel Lane"
-housenumber: 16
+street: Chapel Lane
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

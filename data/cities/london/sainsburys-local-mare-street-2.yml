@@ -1,11 +1,11 @@
 id: 589635858
-type: way
+type: node
 latitude: 51.54429
 longitude: -0.05551
-postcode: "E8 1GR"
+postcode: E8 1GR
 city: London
-street: "Mare Street"
-housenumber: 277
+street: Mare Street
+housenumber: "277"
 phone: ""
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://stores.sainsburys.co.uk/4279/hackney-town-hall-local"
+opening_hours: Mo-Su 07:00-23:00
+website: https://stores.sainsburys.co.uk/4279/hackney-town-hall-local

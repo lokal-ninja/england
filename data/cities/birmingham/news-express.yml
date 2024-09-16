@@ -1,11 +1,11 @@
 id: 99870976
-type: way
+type: node
 latitude: 52.47931
 longitude: -1.8974
-postcode: "B2 4RN"
+postcode: B2 4RN
 city: Birmingham
-street: "Corporation Street"
-housenumber: 12
+street: Corporation Street
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

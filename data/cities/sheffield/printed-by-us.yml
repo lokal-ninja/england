@@ -1,11 +1,11 @@
 id: 103117901
-type: way
+type: node
 latitude: 53.38161
 longitude: -1.47086
-postcode: "S1 2FB"
+postcode: S1 2FB
 city: Sheffield
-street: "Orchard Square"
-housenumber: 7
+street: Orchard Square
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

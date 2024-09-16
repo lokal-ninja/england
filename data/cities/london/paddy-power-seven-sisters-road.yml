@@ -2,10 +2,10 @@ id: 5657476052
 type: node
 latitude: 51.56417
 longitude: -0.10529
-postcode: "N4 2HY"
+postcode: N4 2HY
 city: London
-street: "Seven Sisters Road"
-housenumber: 260
+street: Seven Sisters Road
+housenumber: "260"
 phone: ""
-opening_hours: "Mo-Fr 08:00-22:00; Sa 07:30-22:00; Su 08:00-22:00"
+opening_hours: Mo-Fr 08:00-22:00; Sa 07:30-22:00; Su 08:00-22:00
 website: ""

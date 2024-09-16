@@ -2,10 +2,10 @@ id: 10109645172
 type: node
 latitude: 52.83016
 longitude: 0.84987
-postcode: "NR21 9AE"
+postcode: NR21 9AE
 city: Fakenham
-street: "Norwich Street"
-housenumber: 32
+street: Norwich Street
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

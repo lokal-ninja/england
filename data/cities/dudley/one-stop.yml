@@ -1,11 +1,11 @@
 id: 427850647
-type: way
+type: node
 latitude: 55.0571
 longitude: -1.59256
-postcode: "NE23 7AD"
+postcode: NE23 7AD
 city: Dudley
-street: "West View"
-housenumber: 
+street: West View
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
+opening_hours: Mo-Su 07:00-22:00
 website: ""

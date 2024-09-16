@@ -1,11 +1,11 @@
 id: 960887889
-type: way
+type: node
 latitude: 51.58993
 longitude: -0.10539
-postcode: "N8 0EP"
+postcode: N8 0EP
 city: London
-street: "Turnpike Lane"
-housenumber: 34
+street: Turnpike Lane
+housenumber: "34"
 phone: ""
 opening_hours: ""
 website: ""

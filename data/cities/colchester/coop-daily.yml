@@ -1,11 +1,11 @@
 id: 93385818
-type: way
+type: node
 latitude: 51.8741
 longitude: 0.92379
-postcode: "CO2 8AT"
+postcode: CO2 8AT
 city: Colchester
-street: "Old Heath Road"
-housenumber: 193
+street: Old Heath Road
+housenumber: "193"
 phone: ""
 opening_hours: ""
 website: ""

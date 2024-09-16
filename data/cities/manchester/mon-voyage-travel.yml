@@ -2,10 +2,10 @@ id: 6565132930
 type: node
 latitude: 53.47804
 longitude: -2.24075
-postcode: "M1 4HT"
+postcode: M1 4HT
 city: Manchester
-street: "Princess Street"
-housenumber: 85
+street: Princess Street
+housenumber: "85"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 660132815
-type: way
+type: node
 latitude: 53.54754
 longitude: -2.46902
-postcode: "BL5 1EL"
+postcode: BL5 1EL
 city: Bolton
-street: "Newbrook Road"
-housenumber: 3
+street: Newbrook Road
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

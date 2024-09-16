@@ -1,11 +1,11 @@
 id: 230103228
-type: way
+type: node
 latitude: 52.61618
 longitude: 1.72798
-postcode: "NR30 1BY"
+postcode: NR30 1BY
 city: Great Yarmouth
-street: "Northgate Street"
-housenumber: 155
+street: Northgate Street
+housenumber: "155"
 phone: ""
 opening_hours: ""
 website: ""

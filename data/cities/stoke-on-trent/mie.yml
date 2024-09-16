@@ -1,11 +1,11 @@
 id: 998165330
-type: way
+type: node
 latitude: 52.96829
 longitude: -2.06955
 postcode: ""
 city: Stoke-on-Trent
-street: "Uttoxeter Road"
-housenumber: 160
+street: Uttoxeter Road
+housenumber: "160"
 phone: ""
 opening_hours: ""
 website: ""

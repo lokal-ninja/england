@@ -1,11 +1,11 @@
 id: 367890306
-type: way
+type: node
 latitude: 51.63724
 longitude: -2.15991
-postcode: "GL8 8AA"
+postcode: GL8 8AA
 city: Tetbury
-street: "Long Street"
-housenumber: 13
+street: Long Street
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

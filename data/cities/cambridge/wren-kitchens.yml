@@ -1,11 +1,11 @@
 id: 42867746
-type: way
+type: node
 latitude: 52.20667
 longitude: 0.14638
-postcode: "CB1 3ET"
+postcode: CB1 3ET
 city: Cambridge
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

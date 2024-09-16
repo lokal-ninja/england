@@ -2,10 +2,10 @@ id: 5801919049
 type: node
 latitude: 50.62579
 longitude: -1.17857
-postcode: "PO37 6NS"
+postcode: PO37 6NS
 city: Shanklin
-street: "High Street"
-housenumber: 103
+street: High Street
+housenumber: "103"
 phone: ""
-opening_hours: "Mo-Su 10:00-16:00"
+opening_hours: Mo-Su 10:00-16:00
 website: ""

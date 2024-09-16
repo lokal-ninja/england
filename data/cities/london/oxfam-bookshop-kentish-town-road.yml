@@ -1,11 +1,11 @@
 id: 845842073
-type: way
+type: node
 latitude: 51.54696
 longitude: -0.14154
 postcode: ""
 city: London
-street: "Kentish Town Road"
-housenumber: 166
+street: Kentish Town Road
+housenumber: "166"
 phone: ""
 opening_hours: ""
-website: "https://www.oxfam.org.uk/shops/oxfam-books-music-kentish-town/"
+website: https://www.oxfam.org.uk/shops/oxfam-books-music-kentish-town/

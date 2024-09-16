@@ -2,10 +2,10 @@ id: 10004728210
 type: node
 latitude: 53.5404
 longitude: -2.11589
-postcode: "OL1 1LT"
+postcode: OL1 1LT
 city: Oldham
-street: "George Street"
-housenumber: 53
+street: George Street
+housenumber: "53"
 phone: ""
 opening_hours: ""
 website: ""

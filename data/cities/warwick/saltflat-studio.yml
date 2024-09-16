@@ -1,11 +1,11 @@
 id: 256446309
-type: way
+type: node
 latitude: 52.28329
 longitude: -1.58206
-postcode: "CV34 4HU"
+postcode: CV34 4HU
 city: Warwick
-street: "Smith Street"
-housenumber: 57
+street: Smith Street
+housenumber: "57"
 phone: ""
 opening_hours: ""
-website: "https://saltflat.studio/"
+website: https://saltflat.studio/

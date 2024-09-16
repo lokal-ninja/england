@@ -1,11 +1,11 @@
 id: 228445336
-type: way
+type: node
 latitude: 51.59784
 longitude: -1.80825
-postcode: "SN25 4BG"
+postcode: SN25 4BG
 city: Swindon
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-19:00; Su 10:30-16:30"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-19:00; Su 10:30-16:30
 website: ""

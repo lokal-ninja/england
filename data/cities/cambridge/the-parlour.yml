@@ -1,11 +1,11 @@
 id: 132278338
-type: way
+type: node
 latitude: 52.24212
 longitude: 0.15823
-postcode: "CB24 6ZL"
+postcode: CB24 6ZL
 city: Cambridge
-street: "The Rowans"
-housenumber: 286
+street: The Rowans
+housenumber: "286"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 664355837
-type: way
+type: node
 latitude: 52.6256
 longitude: 1.29522
-postcode: "NR1 3NA"
+postcode: NR1 3NA
 city: Norwich
-street: "All Saints Green"
-housenumber: 12
+street: All Saints Green
+housenumber: "12"
 phone: ""
 opening_hours: ""
-website: "https://cottagesalon.co.uk/"
+website: https://cottagesalon.co.uk/

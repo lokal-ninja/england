@@ -2,10 +2,10 @@ id: 9970304027
 type: node
 latitude: 53.40831
 longitude: -2.57213
-postcode: "WA2 0HQ"
+postcode: WA2 0HQ
 city: Warrington
-street: "Martin Avenue"
-housenumber: 8
-phone: "+44 7385 923506"
-opening_hours: "Mo 09:00-17:00; Tu-Th 09:00-18:00; Fr 09:00-19:00; Sa 08:00-16:00"
+street: Martin Avenue
+housenumber: "8"
+phone: +44 7385 923506
+opening_hours: Mo 09:00-17:00; Tu-Th 09:00-18:00; Fr 09:00-19:00; Sa 08:00-16:00
 website: ""

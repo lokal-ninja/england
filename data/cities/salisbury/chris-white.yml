@@ -1,11 +1,11 @@
 id: 263728079
-type: way
+type: node
 latitude: 51.07035
 longitude: -1.79474
 postcode: ""
 city: Salisbury
-street: "Endless Street"
-housenumber: 15
-phone: "+44 1722 411919"
+street: Endless Street
+housenumber: "15"
+phone: +44 1722 411919
 opening_hours: ""
-website: "https://www.chriswhitefunerals.co.uk/"
+website: https://www.chriswhitefunerals.co.uk/

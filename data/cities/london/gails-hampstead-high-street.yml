@@ -1,11 +1,11 @@
 id: 199398427
-type: way
+type: node
 latitude: 51.55617
 longitude: -0.17792
-postcode: "NW3 1QH"
+postcode: NW3 1QH
 city: London
-street: "Hampstead High Street"
-housenumber: 64
+street: Hampstead High Street
+housenumber: "64"
 phone: ""
 opening_hours: ""
-website: "https://gails.com/pages/hampstead"
+website: https://gails.com/pages/hampstead

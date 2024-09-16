@@ -1,11 +1,11 @@
 id: 108866020
-type: way
+type: node
 latitude: 52.62522
 longitude: 1.2914
-postcode: "NR2 1SB"
+postcode: NR2 1SB
 city: Norwich
-street: "Saint Stephen's Arcade"
-housenumber: 105
+street: Saint Stephen's Arcade
+housenumber: "105"
 phone: ""
-opening_hours: "Mo-Sa 08:00-19:00; Su 10:00-17:00"
-website: "https://www.krispykreme.co.uk/find-store/norwich-chappelfield"
+opening_hours: Mo-Sa 08:00-19:00; Su 10:00-17:00
+website: https://www.krispykreme.co.uk/find-store/norwich-chappelfield

@@ -1,11 +1,11 @@
 id: 246820297
-type: way
+type: node
 latitude: 52.62937
 longitude: 1.29499
-postcode: "NR2 1HU"
+postcode: NR2 1HU
 city: Norwich
-street: "London Street"
-housenumber: 29
+street: London Street
+housenumber: "29"
 phone: ""
 opening_hours: ""
-website: "https://www.bullensjewellers.co.uk/"
+website: https://www.bullensjewellers.co.uk/

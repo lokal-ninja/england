@@ -1,11 +1,11 @@
 id: 126492725
-type: way
+type: node
 latitude: 51.45191
 longitude: -2.58707
-postcode: "BS1 6DE"
+postcode: BS1 6DE
 city: Bristol
-street: "Victoria Street"
-housenumber: 62
+street: Victoria Street
+housenumber: "62"
 phone: ""
 opening_hours: ""
 website: ""

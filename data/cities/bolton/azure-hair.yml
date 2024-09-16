@@ -1,11 +1,11 @@
 id: 665289403
-type: way
+type: node
 latitude: 53.59824
 longitude: -2.55032
-postcode: "BL6 5QE"
+postcode: BL6 5QE
 city: Bolton
-street: "Chorley New Road"
-housenumber: 159
+street: Chorley New Road
+housenumber: "159"
 phone: ""
 opening_hours: ""
 website: ""

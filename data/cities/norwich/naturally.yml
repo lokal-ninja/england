@@ -1,11 +1,11 @@
 id: 699468985
-type: way
+type: node
 latitude: 52.62918
 longitude: 1.29337
-postcode: "NR2 1AT"
+postcode: NR2 1AT
 city: Norwich
-street: "Exchange Street"
-housenumber: 4
+street: Exchange Street
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://shopnaturally.com/"
+website: https://shopnaturally.com/

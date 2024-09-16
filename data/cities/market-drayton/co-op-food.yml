@@ -1,11 +1,11 @@
 id: 123745151
-type: way
+type: node
 latitude: 52.91938
 longitude: -2.38954
-postcode: "TF9 4NX"
+postcode: TF9 4NX
 city: Market Drayton
-street: "Eccleshall Road"
-housenumber: 
+street: Eccleshall Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.coop.co.uk/store-finder/TF9-4NX/eccleshall-road"
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.coop.co.uk/store-finder/TF9-4NX/eccleshall-road

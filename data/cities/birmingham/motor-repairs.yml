@@ -1,11 +1,11 @@
 id: 183691422
-type: way
+type: node
 latitude: 52.45349
 longitude: -1.85232
-postcode: "B11 2HT"
+postcode: B11 2HT
 city: Birmingham
-street: "Manor Farm Road"
-housenumber: 137
+street: Manor Farm Road
+housenumber: "137"
 phone: ""
 opening_hours: ""
 website: ""

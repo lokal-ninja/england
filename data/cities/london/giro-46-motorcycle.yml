@@ -1,11 +1,11 @@
 id: 1126557727
-type: way
+type: node
 latitude: 51.53014
 longitude: 0.03579
-postcode: "E13 9EU"
+postcode: E13 9EU
 city: London
-street: "Barking Road"
-housenumber: 711
+street: Barking Road
+housenumber: "711"
 phone: ""
 opening_hours: ""
-website: "https://giro-motorcycle.business.site"
+website: https://giro-motorcycle.business.site

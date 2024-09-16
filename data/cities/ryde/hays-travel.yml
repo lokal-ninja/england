@@ -4,8 +4,8 @@ latitude: 50.72885
 longitude: -1.1632
 postcode: ""
 city: Ryde
-street: "High Street"
-housenumber: 17
-phone: "+44 1983 565292"
-opening_hours: "Mo-Fr 09:15-17:30; Sa 09:15-17:00; Su off"
-website: "https://www.haystravel.co.uk/branches/ryde/"
+street: High Street
+housenumber: "17"
+phone: +44 1983 565292
+opening_hours: Mo-Fr 09:15-17:30; Sa 09:15-17:00; Su off
+website: https://www.haystravel.co.uk/branches/ryde/

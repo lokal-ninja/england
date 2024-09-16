@@ -1,11 +1,11 @@
 id: 1032619574
-type: way
+type: node
 latitude: 50.81809
 longitude: -0.0728
-postcode: "BN2 7BD"
+postcode: BN2 7BD
 city: Ovingdean, Brighton
-street: "Longhill Road"
-housenumber: 118
+street: Longhill Road
+housenumber: "118"
 phone: ""
 opening_hours: ""
 website: ""

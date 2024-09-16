@@ -1,11 +1,11 @@
 id: 60203749
-type: way
+type: node
 latitude: 51.82634
 longitude: 1.14262
-postcode: "CO16 9LQ"
+postcode: CO16 9LQ
 city: Clacton-on-Sea
-street: "The Street"
-housenumber: 14
+street: The Street
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

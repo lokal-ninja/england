@@ -1,11 +1,11 @@
 id: 693886514
-type: way
+type: node
 latitude: 52.62814
 longitude: 1.29486
-postcode: "NR2 1PT"
+postcode: NR2 1PT
 city: Norwich
-street: "Back of the Inns"
-housenumber: 13
+street: Back of the Inns
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

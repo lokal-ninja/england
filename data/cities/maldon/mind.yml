@@ -1,11 +1,11 @@
 id: 97760426
-type: way
+type: node
 latitude: 51.73125
 longitude: 0.67878
 postcode: ""
 city: Maldon
-street: "High Street"
-housenumber: 70
+street: High Street
+housenumber: "70"
 phone: ""
 opening_hours: ""
 website: ""

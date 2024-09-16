@@ -1,11 +1,11 @@
 id: 384336753
-type: way
+type: node
 latitude: 51.01527
 longitude: -3.09705
-postcode: "TA1 3NB"
+postcode: TA1 3NB
 city: Taunton
-street: "Eastgate"
-housenumber: 5
+street: Eastgate
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

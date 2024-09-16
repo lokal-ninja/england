@@ -1,11 +1,11 @@
 id: 149701471
-type: way
+type: node
 latitude: 51.558
 longitude: -1.78624
-postcode: "SN1 5QN"
+postcode: SN1 5QN
 city: Swindon
-street: "Crombey Street"
-housenumber: 41
+street: Crombey Street
+housenumber: "41"
 phone: ""
 opening_hours: ""
 website: ""

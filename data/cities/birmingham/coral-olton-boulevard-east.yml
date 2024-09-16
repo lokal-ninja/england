@@ -1,11 +1,11 @@
 id: 98320929
-type: way
+type: node
 latitude: 52.44328
 longitude: -1.83436
-postcode: "B27 7RR"
+postcode: B27 7RR
 city: Birmingham
-street: "Olton Boulevard East"
-housenumber: 27
+street: Olton Boulevard East
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

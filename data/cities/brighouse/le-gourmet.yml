@@ -1,11 +1,11 @@
 id: 990561033
-type: way
+type: node
 latitude: 53.70115
 longitude: -1.78143
-postcode: "HD6 1JR"
+postcode: HD6 1JR
 city: Brighouse
-street: "Bethel Street"
-housenumber: 39
-phone: "+44 1484 714962"
+street: Bethel Street
+housenumber: "39"
+phone: +44 1484 714962
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1311966749
-type: way
+type: node
 latitude: 51.53578
 longitude: -0.22637
-postcode: "NW10 5HD"
+postcode: NW10 5HD
 city: London
-street: "College Road"
-housenumber: 120
+street: College Road
+housenumber: "120"
 phone: ""
 opening_hours: ""
-website: "https://www.langolodeli.com/"
+website: https://www.langolodeli.com/

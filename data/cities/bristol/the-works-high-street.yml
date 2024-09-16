@@ -1,11 +1,11 @@
 id: 325224843
-type: way
+type: node
 latitude: 51.36024
 longitude: -2.92866
-postcode: "BS22 6HQ"
+postcode: BS22 6HQ
 city: Bristol
-street: "High Street"
-housenumber: 139
+street: High Street
+housenumber: "139"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 151481461
-type: way
+type: node
 latitude: 52.89916
 longitude: -1.47476
-postcode: "DE23 8UP"
+postcode: DE23 8UP
 city: Derby
-street: "Balfour Road"
-housenumber: 111
+street: Balfour Road
+housenumber: "111"
 phone: ""
 opening_hours: ""
 website: ""

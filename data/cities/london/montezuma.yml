@@ -1,11 +1,11 @@
 id: 276100270
-type: way
+type: node
 latitude: 51.51937
 longitude: -0.07682
-postcode: "E1 6DT"
+postcode: E1 6DT
 city: London
-street: "Market Street"
-housenumber: 8
+street: Market Street
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

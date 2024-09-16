@@ -1,11 +1,11 @@
 id: 120192607
-type: way
+type: node
 latitude: 50.72021
 longitude: -1.88361
 postcode: ""
 city: Bournemouth
-street: "Commercial Road"
-housenumber: 55
+street: Commercial Road
+housenumber: "55"
 phone: ""
 opening_hours: ""
 website: ""

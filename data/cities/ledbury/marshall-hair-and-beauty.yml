@@ -1,11 +1,11 @@
 id: 930621947
-type: way
+type: node
 latitude: 52.03958
 longitude: -2.42451
-postcode: "HR8 1BP"
+postcode: HR8 1BP
 city: Ledbury
-street: "The Homend"
-housenumber: 143
+street: The Homend
+housenumber: "143"
 phone: ""
 opening_hours: ""
 website: ""

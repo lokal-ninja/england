@@ -2,10 +2,10 @@ id: 3838023409
 type: node
 latitude: 51.53609
 longitude: -0.12351
-postcode: "N1C 4BZ"
+postcode: N1C 4BZ
 city: London
-street: "Wharf Road"
-housenumber: 1
+street: Wharf Road
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00; Su 12:00-18:00"
-website: "https://www.waitrose.com/find-a-store/kings-cross"
+opening_hours: Mo-Sa 08:00-22:00; Su 12:00-18:00
+website: https://www.waitrose.com/find-a-store/kings-cross

@@ -1,11 +1,11 @@
 id: 280997078
-type: way
+type: node
 latitude: 51.45122
 longitude: -2.60547
-postcode: "BS1 5UR"
+postcode: BS1 5UR
 city: Bristol
-street: "Saint Georges Road"
-housenumber: 87
+street: Saint Georges Road
+housenumber: "87"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 366302158
-type: way
+type: node
 latitude: 51.53588
 longitude: -0.06229
-postcode: "E8 4PH"
+postcode: E8 4PH
 city: London
-street: "Broadway Market"
-housenumber: 7
-phone: "+44 20 7275 8043"
-opening_hours: "Tu-Fr 12:00-17:30; Sa 10:00-17:30; Su 12:00-17:00"
-website: "https://fabrications1.co.uk/"
+street: Broadway Market
+housenumber: "7"
+phone: +44 20 7275 8043
+opening_hours: Tu-Fr 12:00-17:30; Sa 10:00-17:30; Su 12:00-17:00
+website: https://fabrications1.co.uk/

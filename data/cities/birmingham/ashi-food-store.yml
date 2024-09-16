@@ -1,11 +1,11 @@
 id: 1016616020
-type: way
+type: node
 latitude: 52.4377
 longitude: -1.92824
-postcode: "B29 6HQ"
+postcode: B29 6HQ
 city: Birmingham
-street: "Raddlebarn Road"
-housenumber: 122
+street: Raddlebarn Road
+housenumber: "122"
 phone: ""
 opening_hours: ""
 website: ""

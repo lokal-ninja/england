@@ -1,11 +1,11 @@
 id: 558226106
-type: way
+type: node
 latitude: 51.2779
 longitude: 1.08079
 postcode: ""
 city: Canterbury
-street: "Rose Lane"
-housenumber: 7
+street: Rose Lane
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 09:00-17:30"
-website: "https://www.visionexpress.com/opticians/canterbury/canterbury"
+opening_hours: Mo-Sa 09:00-17:30
+website: https://www.visionexpress.com/opticians/canterbury/canterbury

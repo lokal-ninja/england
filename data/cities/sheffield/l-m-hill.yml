@@ -1,11 +1,11 @@
 id: 1281788456
-type: way
+type: node
 latitude: 53.41138
 longitude: -1.5047
-postcode: "S6 1TG"
+postcode: S6 1TG
 city: Sheffield
-street: "Middlewood Road"
-housenumber: 315
+street: Middlewood Road
+housenumber: "315"
 phone: ""
 opening_hours: ""
 website: ""

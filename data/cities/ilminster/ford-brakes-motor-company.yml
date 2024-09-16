@@ -1,11 +1,11 @@
 id: 713794132
-type: way
+type: node
 latitude: 50.93059
 longitude: -2.92479
-postcode: "TA19 9BQ"
+postcode: TA19 9BQ
 city: Ilminster
-street: "Station Road"
-housenumber: 90
+street: Station Road
+housenumber: "90"
 phone: ""
 opening_hours: ""
 website: ""

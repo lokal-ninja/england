@@ -1,11 +1,11 @@
 id: 358538897
-type: way
+type: node
 latitude: 52.11032
 longitude: -2.07496
-postcode: "WR10 1BG"
+postcode: WR10 1BG
 city: Pershore
-street: "High Street"
-housenumber: 10
+street: High Street
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

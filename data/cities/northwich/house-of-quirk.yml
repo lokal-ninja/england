@@ -1,11 +1,11 @@
 id: 321067253
-type: way
+type: node
 latitude: 53.26185
 longitude: -2.5147
-postcode: "CW9 5DD"
+postcode: CW9 5DD
 city: Northwich
-street: "High Street"
-housenumber: 49
+street: High Street
+housenumber: "49"
 phone: ""
 opening_hours: ""
-website: "http://www.cafeterrazzo.co.uk/"
+website: http://www.cafeterrazzo.co.uk/

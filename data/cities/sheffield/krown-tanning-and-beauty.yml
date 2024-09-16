@@ -1,11 +1,11 @@
 id: 1254567145
-type: way
+type: node
 latitude: 53.37547
 longitude: -1.42889
-postcode: "S2 1WE"
+postcode: S2 1WE
 city: Sheffield
-street: "Manor Park Centre"
-housenumber: 26
+street: Manor Park Centre
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

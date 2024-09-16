@@ -1,11 +1,11 @@
 id: 95230873
-type: way
+type: node
 latitude: 52.95385
 longitude: -1.14396
-postcode: "NG1 3AJ"
+postcode: NG1 3AJ
 city: Nottingham
-street: "Broad Street"
-housenumber: 5
+street: Broad Street
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://www.roughtrade.com/"
+website: https://www.roughtrade.com/

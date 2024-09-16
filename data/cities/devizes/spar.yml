@@ -1,11 +1,11 @@
 id: 899848282
-type: way
+type: node
 latitude: 51.35186
 longitude: -2.015
-postcode: "SN10 1QG"
+postcode: SN10 1QG
 city: Devizes
-street: "Bath Road"
-housenumber: 
+street: Bath Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.spar.co.uk/store-locator/awl12174-spar-devizes/"
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.spar.co.uk/store-locator/awl12174-spar-devizes/

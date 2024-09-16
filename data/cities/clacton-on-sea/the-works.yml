@@ -1,11 +1,11 @@
 id: 72924862
-type: way
+type: node
 latitude: 51.78913
 longitude: 1.15274
-postcode: "CO15 1TD"
+postcode: CO15 1TD
 city: Clacton-on-Sea
-street: "Station Road"
-housenumber: 15
+street: Station Road
+housenumber: "15"
 phone: ""
 opening_hours: ""
-website: "https://www.theworks.co.uk/Store?storeId=0784"
+website: https://www.theworks.co.uk/Store?storeId=0784

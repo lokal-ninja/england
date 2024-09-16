@@ -2,10 +2,10 @@ id: 5634986898
 type: node
 latitude: 51.43717
 longitude: -2.00369
-postcode: "SN11 0QZ"
+postcode: SN11 0QZ
 city: Calne
-street: "St Mary's Courtyard"
-housenumber: 6
-phone: "+44 1249 813 331"
-opening_hours: "Tu 09:00-17:00; We 09:00-19:00; Th, Fr 09:00-18:00; Sa 08:00-13:00"
+street: St Mary's Courtyard
+housenumber: "6"
+phone: +44 1249 813 331
+opening_hours: Tu 09:00-17:00; We 09:00-19:00; Th, Fr 09:00-18:00; Sa 08:00-13:00
 website: ""

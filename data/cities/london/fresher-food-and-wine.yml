@@ -1,11 +1,11 @@
 id: 165491343
-type: way
+type: node
 latitude: 51.52689
 longitude: -0.08183
-postcode: "EC1V 9LA"
+postcode: EC1V 9LA
 city: London
-street: "Old Street"
-housenumber: 299
+street: Old Street
+housenumber: "299"
 phone: ""
 opening_hours: ""
 website: ""

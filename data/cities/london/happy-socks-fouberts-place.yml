@@ -1,11 +1,11 @@
 id: 272198103
-type: way
+type: node
 latitude: 51.51339
 longitude: -0.13996
 postcode: ""
 city: London
-street: "Fouberts Place"
-housenumber: 8
+street: Fouberts Place
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

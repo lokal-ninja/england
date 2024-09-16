@@ -1,11 +1,11 @@
 id: 1254567138
-type: way
+type: node
 latitude: 53.37527
 longitude: -1.4293
-postcode: "S2 1WE"
+postcode: S2 1WE
 city: Sheffield
-street: "Manor Park Centre"
-housenumber: 40
+street: Manor Park Centre
+housenumber: "40"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.coop.co.uk/store-finder/S2-1WE/40-manor-park-centre"
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.coop.co.uk/store-finder/S2-1WE/40-manor-park-centre

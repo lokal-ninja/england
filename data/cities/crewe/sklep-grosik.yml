@@ -2,10 +2,10 @@ id: 255856624
 type: node
 latitude: 53.10186
 longitude: -2.45309
-postcode: "CW1 3HG"
+postcode: CW1 3HG
 city: Crewe
-street: "West Street"
-housenumber: 120
+street: West Street
+housenumber: "120"
 phone: ""
 opening_hours: ""
 website: ""

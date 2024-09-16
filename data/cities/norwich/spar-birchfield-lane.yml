@@ -1,11 +1,11 @@
 id: 346289721
-type: way
+type: node
 latitude: 52.55896
 longitude: 1.23292
-postcode: "NR14 8AA"
+postcode: NR14 8AA
 city: Norwich
-street: "Birchfield Lane"
-housenumber: 45
+street: Birchfield Lane
+housenumber: "45"
 phone: ""
 opening_hours: ""
-website: "https://www.spar.co.uk/store-locator/afb31168-spar-mulberton/"
+website: https://www.spar.co.uk/store-locator/afb31168-spar-mulberton/

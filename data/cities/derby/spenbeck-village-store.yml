@@ -1,11 +1,11 @@
 id: 345601909
-type: way
+type: node
 latitude: 52.95599
 longitude: -1.4731
-postcode: "DE22 2UH"
+postcode: DE22 2UH
 city: Derby
-street: "Spenbeck Drive"
-housenumber: 2
+street: Spenbeck Drive
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

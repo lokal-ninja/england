@@ -2,10 +2,10 @@ id: 12105934001
 type: node
 latitude: 51.49246
 longitude: -0.22962
-postcode: "W6 9JG"
+postcode: W6 9JG
 city: London
-street: "King Street"
-housenumber: 109
+street: King Street
+housenumber: "109"
 phone: ""
-opening_hours: "Mo-Su 09:00-17:00"
-website: "https://uk.webuy.com/site/storeDetail?branchId=3032"
+opening_hours: Mo-Su 09:00-17:00
+website: https://uk.webuy.com/site/storeDetail?branchId=3032

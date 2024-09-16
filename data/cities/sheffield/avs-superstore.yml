@@ -1,11 +1,11 @@
 id: 104299796
-type: way
+type: node
 latitude: 53.35153
 longitude: -1.44454
-postcode: "S14 1QB"
+postcode: S14 1QB
 city: Sheffield
-street: "Leighton Road"
-housenumber: 379
+street: Leighton Road
+housenumber: "379"
 phone: ""
-opening_hours: "Su-Th 06:00-23:00, Fr,Sa 06:00-24:00"
+opening_hours: Su-Th 06:00-23:00, Fr,Sa 06:00-24:00
 website: ""

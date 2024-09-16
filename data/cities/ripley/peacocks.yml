@@ -1,11 +1,11 @@
 id: 1026347279
-type: way
+type: node
 latitude: 53.04933
 longitude: -1.40672
-postcode: "DE5 3AA"
+postcode: DE5 3AA
 city: Ripley
-street: "High Street"
+street: High Street
 housenumber: 11-13
-phone: "+44 1773 513870"
-opening_hours: "Mo-Sa 09:00-17:30; Su 11:00-15:00"
-website: "https://www.peacocks.co.uk/store-detail?storeID=6226&storeName=PEACOCKS-RIPLEY"
+phone: +44 1773 513870
+opening_hours: Mo-Sa 09:00-17:30; Su 11:00-15:00
+website: https://www.peacocks.co.uk/store-detail?storeID=6226&storeName=PEACOCKS-RIPLEY

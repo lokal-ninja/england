@@ -1,11 +1,11 @@
 id: 579951484
-type: way
+type: node
 latitude: 50.76728
 longitude: 0.2847
-postcode: "BN21 4QG"
+postcode: BN21 4QG
 city: Eastbourne
-street: "Cornfield Road"
-housenumber: 33
+street: Cornfield Road
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

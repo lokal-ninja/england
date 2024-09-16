@@ -1,11 +1,11 @@
 id: 374687268
-type: way
+type: node
 latitude: 51.42491
 longitude: -0.21686
-postcode: "SW19 5DX"
+postcode: SW19 5DX
 city: London
-street: "High Street"
-housenumber: 19
+street: High Street
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 196688886
-type: way
+type: node
 latitude: 51.53903
 longitude: -0.90582
-postcode: "RG9 2BA"
+postcode: RG9 2BA
 city: Henley-on-Thames
-street: "Bell Street"
-housenumber: 33
-phone: "+44 1491 410 440"
+street: Bell Street
+housenumber: "33"
+phone: +44 1491 410 440
 opening_hours: ""
-website: "https://www.waitrose.com/find-a-store/henley"
+website: https://www.waitrose.com/find-a-store/henley

@@ -1,11 +1,11 @@
 id: 328682703
-type: way
+type: node
 latitude: 51.64844
 longitude: -0.147
-postcode: "EN4 0DW"
+postcode: EN4 0DW
 city: Barnet
-street: "Station Parade, Cockfosters Road"
-housenumber: 19
-phone: "+44 20 8441 4754"
+street: Station Parade, Cockfosters Road
+housenumber: "19"
+phone: +44 20 8441 4754
 opening_hours: ""
-website: "http://www.cockfostersdeli.co.uk"
+website: http://www.cockfostersdeli.co.uk

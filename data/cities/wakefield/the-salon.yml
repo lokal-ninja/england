@@ -1,11 +1,11 @@
 id: 61722253
-type: way
+type: node
 latitude: 53.70949
 longitude: -1.50286
-postcode: "WF1 2JL"
+postcode: WF1 2JL
 city: Wakefield
-street: "Leeds Road"
-housenumber: 573
+street: Leeds Road
+housenumber: "573"
 phone: ""
 opening_hours: ""
 website: ""

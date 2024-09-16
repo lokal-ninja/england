@@ -1,11 +1,11 @@
 id: 281838580
-type: way
+type: node
 latitude: 53.42858
 longitude: -2.50484
-postcode: "WA3 6UG"
+postcode: WA3 6UG
 city: Warrington
-street: "Gorse Covert Road"
-housenumber: 44
-phone: "+44 1925 963018"
-opening_hours: "07:00-22:00"
-website: "https://www.onestop.co.uk/store/?store=df934c6e-3a23-4049-9bf8-191323c83472"
+street: Gorse Covert Road
+housenumber: "44"
+phone: +44 1925 963018
+opening_hours: 07:00-22:00
+website: https://www.onestop.co.uk/store/?store=df934c6e-3a23-4049-9bf8-191323c83472

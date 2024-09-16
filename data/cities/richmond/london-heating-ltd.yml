@@ -1,11 +1,11 @@
 id: 1282608085
-type: way
+type: node
 latitude: 51.46796
 longitude: -0.2862
-postcode: "TW9 4LE"
+postcode: TW9 4LE
 city: Richmond
-street: "Lower Richmond Road"
-housenumber: 360
+street: Lower Richmond Road
+housenumber: "360"
 phone: ""
-opening_hours: "Mo-Fr 08:30-17:00; Sa 09:00-13:00"
-website: "https://www.londonheatingltd.co.uk/"
+opening_hours: Mo-Fr 08:30-17:00; Sa 09:00-13:00
+website: https://www.londonheatingltd.co.uk/

@@ -1,11 +1,11 @@
 id: 462304992
-type: way
+type: node
 latitude: 51.37973
 longitude: 1.35307
-postcode: "CT9 5JP"
+postcode: CT9 5JP
 city: Margate
-street: "Canterbury Road"
-housenumber: 233
-phone: "+44 1843 831195"
-opening_hours: "24/7"
+street: Canterbury Road
+housenumber: "233"
+phone: +44 1843 831195
+opening_hours: 24/7
 website: ""

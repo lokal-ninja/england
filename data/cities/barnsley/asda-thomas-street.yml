@@ -1,11 +1,11 @@
 id: 211486214
-type: way
+type: node
 latitude: 53.53125
 longitude: -1.46951
-postcode: "S70 5AU"
+postcode: S70 5AU
 city: Barnsley
-street: "Thomas Street"
-housenumber: 
+street: Thomas Street
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su 10:00-16:00"
+opening_hours: Mo-Sa 07:00-22:00; Su 10:00-16:00
 website: ""

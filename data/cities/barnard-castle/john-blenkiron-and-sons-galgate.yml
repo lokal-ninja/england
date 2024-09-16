@@ -1,11 +1,11 @@
 id: 1033636604
-type: way
+type: node
 latitude: 54.54483
 longitude: -1.92371
-postcode: "DL12 8EQ"
+postcode: DL12 8EQ
 city: Barnard Castle
-street: "Galgate"
-housenumber: 19
+street: Galgate
+housenumber: "19"
 phone: ""
 opening_hours: ""
-website: "https://www.blenkirons.co.uk/locations/barnard-castle/"
+website: https://www.blenkirons.co.uk/locations/barnard-castle/

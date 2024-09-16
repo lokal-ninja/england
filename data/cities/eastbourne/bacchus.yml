@@ -1,11 +1,11 @@
 id: 577716880
-type: way
+type: node
 latitude: 50.76799
 longitude: 0.29059
-postcode: "BN21 3PL"
+postcode: BN21 3PL
 city: Eastbourne
-street: "Seaside Road"
-housenumber: 53
+street: Seaside Road
+housenumber: "53"
 phone: ""
 opening_hours: ""
 website: ""

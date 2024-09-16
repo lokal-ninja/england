@@ -1,11 +1,11 @@
 id: 435285430
-type: way
+type: node
 latitude: 50.84945
 longitude: -0.17269
-postcode: "BN3 6DR"
+postcode: BN3 6DR
 city: Hove
-street: "The Parade"
-housenumber: 5
+street: The Parade
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

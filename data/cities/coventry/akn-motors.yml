@@ -1,11 +1,11 @@
 id: 320397013
-type: way
+type: node
 latitude: 52.40469
 longitude: -1.49965
-postcode: "CV1 2JH"
+postcode: CV1 2JH
 city: Coventry
-street: "Gulson Road"
-housenumber: 22
+street: Gulson Road
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

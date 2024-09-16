@@ -1,11 +1,11 @@
 id: 427302990
-type: way
+type: node
 latitude: 54.66412
 longitude: -2.75281
-postcode: "CA11 7SR"
+postcode: CA11 7SR
 city: Penrith
-street: "Devonshire Street"
-housenumber: 3
-phone: "+44 343 538 1127"
+street: Devonshire Street
+housenumber: "3"
+phone: +44 343 538 1127
 opening_hours: ""
-website: "https://www.carphonewarehouse.com/store-locator/penrith_devonshire_st.html?saddr=penrith"
+website: https://www.carphonewarehouse.com/store-locator/penrith_devonshire_st.html?saddr=penrith

@@ -1,11 +1,11 @@
 id: 364259213
-type: way
+type: node
 latitude: 50.83964
 longitude: 0.47631
-postcode: "TN40 1JB"
+postcode: TN40 1JB
 city: Bexhill-on-Sea
-street: "St. Leonards Road"
-housenumber: 42
+street: St. Leonards Road
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Sa 09:00-17:30"
+opening_hours: Mo-Sa 09:00-17:30
 website: ""

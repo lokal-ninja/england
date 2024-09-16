@@ -2,10 +2,10 @@ id: 1631437774
 type: node
 latitude: 54.81523
 longitude: -1.37442
-postcode: "SR7 9HU"
+postcode: SR7 9HU
 city: Seaham
 street: ""
-housenumber: 85
+housenumber: "85"
 phone: ""
 opening_hours: ""
 website: ""

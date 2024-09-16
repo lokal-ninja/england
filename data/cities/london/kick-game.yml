@@ -1,11 +1,11 @@
 id: 559566130
-type: way
+type: node
 latitude: 51.51259
 longitude: -0.12337
-postcode: "WC2E 8BH"
+postcode: WC2E 8BH
 city: London
-street: "James Street"
-housenumber: 4
+street: James Street
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

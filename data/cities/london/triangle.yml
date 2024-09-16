@@ -1,11 +1,11 @@
 id: 853427629
-type: way
+type: node
 latitude: 51.55226
 longitude: -0.04404
 postcode: ""
 city: London
-street: "Chatsworth Road"
-housenumber: 20
+street: Chatsworth Road
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

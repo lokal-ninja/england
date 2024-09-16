@@ -1,11 +1,11 @@
 id: 333840352
-type: way
+type: node
 latitude: 54.89209
 longitude: -2.90302
-postcode: "CA1 2SJ"
+postcode: CA1 2SJ
 city: Carlisle
-street: "Victoria Road"
-housenumber: 38
-phone: "+44 1228 541177"
+street: Victoria Road
+housenumber: "38"
+phone: +44 1228 541177
 opening_hours: ""
 website: ""

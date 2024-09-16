@@ -1,11 +1,11 @@
 id: 357117095
-type: way
+type: node
 latitude: 51.4456
 longitude: -0.33614
-postcode: "TW1 4BN"
+postcode: TW1 4BN
 city: Twickenham
-street: "Heath Road"
-housenumber: 132
+street: Heath Road
+housenumber: "132"
 phone: ""
 opening_hours: ""
 website: ""

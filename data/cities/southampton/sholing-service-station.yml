@@ -1,11 +1,11 @@
 id: 1226564585
-type: way
+type: node
 latitude: 50.90055
 longitude: -1.3528
-postcode: "SO19 8LT"
+postcode: SO19 8LT
 city: Southampton
-street: "Botany Bay Road"
-housenumber: 
+street: Botany Bay Road
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "http://www.sholingservicestation.co.uk/"
+website: http://www.sholingservicestation.co.uk/

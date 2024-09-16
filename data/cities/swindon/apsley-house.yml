@@ -1,11 +1,11 @@
 id: 1110587612
-type: way
+type: node
 latitude: 51.54312
 longitude: -1.90339
 postcode: ""
 city: Swindon
-street: "High Street"
-housenumber: 50
+street: High Street
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

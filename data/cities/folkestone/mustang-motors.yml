@@ -1,11 +1,11 @@
 id: 969876163
-type: way
+type: node
 latitude: 51.08749
 longitude: 1.14426
-postcode: "CT19 4DG"
+postcode: CT19 4DG
 city: Folkestone
-street: "Park Road"
-housenumber: 3
-phone: "+44 1303 311628"
+street: Park Road
+housenumber: "3"
+phone: +44 1303 311628
 opening_hours: ""
-website: "https://www.mustangmotors.co.uk/"
+website: https://www.mustangmotors.co.uk/

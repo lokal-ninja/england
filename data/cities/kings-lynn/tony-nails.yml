@@ -1,11 +1,11 @@
 id: 865403243
-type: way
+type: node
 latitude: 52.75491
 longitude: 0.39515
-postcode: "PE30 1BB"
+postcode: PE30 1BB
 city: King's Lynn
-street: "High Street"
-housenumber: 79
+street: High Street
+housenumber: "79"
 phone: ""
 opening_hours: ""
 website: ""

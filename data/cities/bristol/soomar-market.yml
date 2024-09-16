@@ -1,11 +1,11 @@
 id: 400895447
-type: way
+type: node
 latitude: 51.46619
 longitude: -2.57977
-postcode: "BS6 5PA"
+postcode: BS6 5PA
 city: Bristol
-street: "Ashley Road"
-housenumber: 142
+street: Ashley Road
+housenumber: "142"
 phone: ""
 opening_hours: ""
 website: ""

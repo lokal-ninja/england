@@ -2,10 +2,10 @@ id: 5647781971
 type: node
 latitude: 50.84435
 longitude: -0.13506
-postcode: "BN1 6JT"
+postcode: BN1 6JT
 city: Brighton
-street: "Kings Parade"
-housenumber: 5
+street: Kings Parade
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://quaffwine.com/"
+website: https://quaffwine.com/

@@ -1,11 +1,11 @@
 id: 485163929
-type: way
+type: node
 latitude: 51.37702
 longitude: -2.37841
-postcode: "BA2 3PN"
+postcode: BA2 3PN
 city: Bath
-street: "Moorland Road"
-housenumber: 39
+street: Moorland Road
+housenumber: "39"
 phone: ""
-opening_hours: "Su 09:00-16:00; Mo-Sa 07:00-18:00"
-website: "https://www.francisdiy.com/"
+opening_hours: Su 09:00-16:00; Mo-Sa 07:00-18:00
+website: https://www.francisdiy.com/

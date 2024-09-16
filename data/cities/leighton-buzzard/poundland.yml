@@ -1,11 +1,11 @@
 id: 135086911
-type: way
+type: node
 latitude: 51.9163
 longitude: -0.66274
-postcode: "LU7 1DN"
+postcode: LU7 1DN
 city: Leighton Buzzard
-street: "High Street"
-housenumber: 37
+street: High Street
+housenumber: "37"
 phone: ""
 opening_hours: ""
 website: ""

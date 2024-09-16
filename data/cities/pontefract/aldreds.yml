@@ -1,11 +1,11 @@
 id: 970320319
-type: way
+type: node
 latitude: 53.59514
 longitude: -1.29156
-postcode: "WF9 2RT"
+postcode: WF9 2RT
 city: Pontefract
-street: "Brookside Street"
-housenumber: 2
+street: Brookside Street
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

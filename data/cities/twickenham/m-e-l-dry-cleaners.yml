@@ -1,11 +1,11 @@
 id: 636621701
-type: way
+type: node
 latitude: 51.44548
 longitude: -0.33102
 postcode: ""
 city: Twickenham
-street: "Heath Road"
-housenumber: 24
+street: Heath Road
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Sa 08:00-18:00"
+opening_hours: Mo-Sa 08:00-18:00
 website: ""

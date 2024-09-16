@@ -1,11 +1,11 @@
 id: 702243723
-type: way
+type: node
 latitude: 51.01435
 longitude: -3.10194
-postcode: "TA1 1HX"
+postcode: TA1 1HX
 city: Taunton
-street: "Fore Street"
-housenumber: 3
+street: Fore Street
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

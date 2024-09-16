@@ -1,11 +1,11 @@
 id: 1057849588
-type: way
+type: node
 latitude: 52.70597
 longitude: -2.73506
-postcode: "SY2 5EN"
+postcode: SY2 5EN
 city: Shrewsbury
-street: "Bell Lane"
-housenumber: 
-phone: "+441743 232896"
-opening_hours: "Mo-Fr 08:30-17:30; Sa 08:30-12:30"
-website: "https://hiqonline.co.uk/"
+street: Bell Lane
+housenumber: ""
+phone: +441743 232896
+opening_hours: Mo-Fr 08:30-17:30; Sa 08:30-12:30
+website: https://hiqonline.co.uk/

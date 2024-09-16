@@ -2,10 +2,10 @@ id: 10262400358
 type: node
 latitude: 52.6365
 longitude: 1.29665
-postcode: "NR3 1AA"
+postcode: NR3 1AA
 city: Norwich
-street: "Magdalen Street"
-housenumber: 91
+street: Magdalen Street
+housenumber: "91"
 phone: ""
 opening_hours: ""
 website: ""

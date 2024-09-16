@@ -2,10 +2,10 @@ id: 4788724028
 type: node
 latitude: 53.47945
 longitude: -2.23281
-postcode: "M1 2HY"
+postcode: M1 2HY
 city: Manchester
-street: "Piccadilly"
-housenumber: 111
+street: Piccadilly
+housenumber: "111"
 phone: ""
-opening_hours: "PH,Mo-Su 07:00-23:00"
-website: "https://stores.sainsburys.co.uk/4596/manchester-station-approach-local"
+opening_hours: PH,Mo-Su 07:00-23:00
+website: https://stores.sainsburys.co.uk/4596/manchester-station-approach-local

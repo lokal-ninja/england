@@ -1,11 +1,11 @@
 id: 548726582
-type: way
+type: node
 latitude: 51.44816
 longitude: -0.97989
-postcode: "RG1 6JT"
+postcode: RG1 6JT
 city: Reading
-street: "Berkeley Avenue"
-housenumber: 10
+street: Berkeley Avenue
+housenumber: "10"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

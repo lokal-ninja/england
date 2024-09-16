@@ -1,11 +1,11 @@
 id: 331977220
-type: way
+type: node
 latitude: 51.88797
 longitude: 0.90122
-postcode: "CO1 1LS"
+postcode: CO1 1LS
 city: Colchester
-street: "Eld Lane"
-housenumber: 13
+street: Eld Lane
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

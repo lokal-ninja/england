@@ -1,11 +1,11 @@
 id: 34997921
-type: way
+type: node
 latitude: 52.0366
 longitude: -0.76258
-postcode: "MK9 2FW"
+postcode: MK9 2FW
 city: Milton Keynes
-street: "Witan Gate"
-housenumber: 799
-phone: "+44 1908 674154"
+street: Witan Gate
+housenumber: "799"
+phone: +44 1908 674154
 opening_hours: ""
-website: "https://stores.sainsburys.co.uk/2175/milton-keynes"
+website: https://stores.sainsburys.co.uk/2175/milton-keynes

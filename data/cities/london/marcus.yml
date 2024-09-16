@@ -1,11 +1,11 @@
 id: 290081136
-type: way
+type: node
 latitude: 51.50998
 longitude: -0.14205
 postcode: ""
 city: London
-street: "New Bond Street"
-housenumber: 170
+street: New Bond Street
+housenumber: "170"
 phone: ""
 opening_hours: ""
-website: "https://www.marcuswatches.com/"
+website: https://www.marcuswatches.com/

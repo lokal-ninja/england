@@ -2,10 +2,10 @@ id: 11203177704
 type: node
 latitude: 51.52911
 longitude: -0.1325
-postcode: "NW1 1AD"
+postcode: NW1 1AD
 city: London
-street: "Eversholt Street"
-housenumber: 42
+street: Eversholt Street
+housenumber: "42"
 phone: ""
 opening_hours: ""
 website: ""

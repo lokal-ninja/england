@@ -1,11 +1,11 @@
 id: 109246712
-type: way
+type: node
 latitude: 51.46589
 longitude: -2.58826
-postcode: "BS6 5PZ"
+postcode: BS6 5PZ
 city: Bristol
-street: "Picton Street"
-housenumber: 41
-phone: "+44 117 9426644"
+street: Picton Street
+housenumber: "41"
+phone: +44 117 9426644
 opening_hours: ""
-website: "http://www.radfordmillfarm.com"
+website: http://www.radfordmillfarm.com

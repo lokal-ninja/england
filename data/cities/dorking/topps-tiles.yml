@@ -1,11 +1,11 @@
 id: 1018279289
-type: way
+type: node
 latitude: 51.22762
 longitude: -0.33473
-postcode: "RH4 2JU"
+postcode: RH4 2JU
 city: Dorking
-street: "South Street"
-housenumber: 105
+street: South Street
+housenumber: "105"
 phone: ""
 opening_hours: ""
 website: ""

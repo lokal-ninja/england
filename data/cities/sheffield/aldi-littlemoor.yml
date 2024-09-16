@@ -1,11 +1,11 @@
 id: 1287727128
-type: way
+type: node
 latitude: 53.31092
 longitude: -1.35148
-postcode: "S21 4EF"
+postcode: S21 4EF
 city: Sheffield
-street: "Littlemoor"
-housenumber: 21
+street: Littlemoor
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

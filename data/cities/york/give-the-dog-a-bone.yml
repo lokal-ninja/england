@@ -2,10 +2,10 @@ id: 4567868803
 type: node
 latitude: 53.95852
 longitude: -1.0787
-postcode: "YO1 9TA"
+postcode: YO1 9TA
 city: York
-street: "Fossgate"
-housenumber: 17
+street: Fossgate
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

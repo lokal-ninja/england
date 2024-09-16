@@ -1,11 +1,11 @@
 id: 104278025
-type: way
+type: node
 latitude: 52.90584
 longitude: -1.36571
-postcode: "DE72 3FR"
+postcode: DE72 3FR
 city: Derby
-street: "Nottingham Road"
-housenumber: 260
+street: Nottingham Road
+housenumber: "260"
 phone: ""
 opening_hours: ""
-website: "https://www.collyersnurseries.co.uk/"
+website: https://www.collyersnurseries.co.uk/

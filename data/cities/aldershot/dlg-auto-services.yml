@@ -1,11 +1,11 @@
 id: 540172677
-type: way
+type: node
 latitude: 51.24594
 longitude: -0.73773
-postcode: "GU12 4PQ"
+postcode: GU12 4PQ
 city: Aldershot
-street: "Blackwater Park"
-housenumber: 5
+street: Blackwater Park
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

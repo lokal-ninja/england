@@ -1,11 +1,11 @@
 id: 496294263
-type: way
+type: node
 latitude: 51.14921
 longitude: -0.97492
-postcode: "GU34 1AW"
+postcode: GU34 1AW
 city: Alton
-street: "High Street"
+street: High Street
 housenumber: 21a
-phone: "+44 1420 89195"
-opening_hours: "Mo-Sa 08:30-18:00; Su 10:00-16:00"
+phone: +44 1420 89195
+opening_hours: Mo-Sa 08:30-18:00; Su 10:00-16:00
 website: ""

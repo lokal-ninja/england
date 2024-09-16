@@ -1,11 +1,11 @@
 id: 219763536
-type: way
+type: node
 latitude: 50.91235
 longitude: -1.40413
-postcode: "SO15 2WW"
+postcode: SO15 2WW
 city: Southampton
-street: "London Road"
-housenumber: 57
+street: London Road
+housenumber: "57"
 phone: ""
 opening_hours: ""
-website: "https://www.ryman.co.uk/storefinder/ryman-southampton/"
+website: https://www.ryman.co.uk/storefinder/ryman-southampton/

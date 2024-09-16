@@ -1,11 +1,11 @@
 id: 1008106356
-type: way
+type: node
 latitude: 51.4479
 longitude: 0.12064
-postcode: "DA5 1BT"
+postcode: DA5 1BT
 city: Bexley
-street: "Blendon Road"
-housenumber: 163
+street: Blendon Road
+housenumber: "163"
 phone: ""
 opening_hours: ""
 website: ""

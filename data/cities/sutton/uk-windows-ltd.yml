@@ -1,11 +1,11 @@
 id: 531564671
-type: way
+type: node
 latitude: 51.3436
 longitude: -0.1999
-postcode: "SM2 6BH"
+postcode: SM2 6BH
 city: Sutton
-street: "Station Road"
-housenumber: 10
+street: Station Road
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

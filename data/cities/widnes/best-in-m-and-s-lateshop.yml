@@ -1,11 +1,11 @@
 id: 350364868
-type: way
+type: node
 latitude: 53.3811
 longitude: -2.72807
-postcode: "WA8 9LQ"
+postcode: WA8 9LQ
 city: Widnes
-street: "Derby Road"
-housenumber: 45
+street: Derby Road
+housenumber: "45"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 608747037
-type: way
+type: node
 latitude: 52.75491
 longitude: 0.39545
-postcode: "PE30 1BE"
+postcode: PE30 1BE
 city: King's Lynn
-street: "High Street"
-housenumber: 52
+street: High Street
+housenumber: "52"
 phone: ""
 opening_hours: ""
-website: "https://www.thebodyshop.com/en-gb/store-details/kings-lynn/2181"
+website: https://www.thebodyshop.com/en-gb/store-details/kings-lynn/2181

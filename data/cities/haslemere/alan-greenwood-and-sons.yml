@@ -1,11 +1,11 @@
 id: 141061229
-type: way
+type: node
 latitude: 51.0876
 longitude: -0.73392
-postcode: "GU27 1LE"
+postcode: GU27 1LE
 city: Haslemere
-street: "Junction Place"
-housenumber: 19
+street: Junction Place
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

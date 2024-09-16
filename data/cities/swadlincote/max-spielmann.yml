@@ -1,11 +1,11 @@
 id: 1281444889
-type: way
+type: node
 latitude: 52.77348
 longitude: -1.55599
-postcode: "DE11 8JE"
+postcode: DE11 8JE
 city: Swadlincote
-street: "High Street"
-housenumber: 33
+street: High Street
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

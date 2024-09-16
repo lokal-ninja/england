@@ -1,11 +1,11 @@
 id: 586115160
-type: way
+type: node
 latitude: 51.46542
 longitude: -0.29892
-postcode: "TW9 2PQ"
+postcode: TW9 2PQ
 city: Richmond
-street: "Kew Road"
-housenumber: 58
-phone: "+44 20 8948 2106"
+street: Kew Road
+housenumber: "58"
+phone: +44 20 8948 2106
 opening_hours: ""
-website: "https://minorcasailing.co.uk/"
+website: https://minorcasailing.co.uk/

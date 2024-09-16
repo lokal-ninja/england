@@ -1,11 +1,11 @@
 id: 541840942
-type: way
+type: node
 latitude: 53.97537
 longitude: -1.13362
-postcode: "YO26 6PB"
+postcode: YO26 6PB
 city: York
-street: "Millfield Lane"
-housenumber: 
+street: Millfield Lane
+housenumber: ""
 phone: "+441904334000"
-opening_hours: "Mo-Fr 08:00-17:30; Sa 08:00-12:30; PH off"
-website: "http://www.blenkengineering.co.uk/"
+opening_hours: Mo-Fr 08:00-17:30; Sa 08:00-12:30; PH off
+website: http://www.blenkengineering.co.uk/

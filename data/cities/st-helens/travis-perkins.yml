@@ -1,11 +1,11 @@
 id: 1118588695
-type: way
+type: node
 latitude: 53.45119
 longitude: -2.72358
-postcode: "WA9 1AN"
+postcode: WA9 1AN
 city: St Helens
-street: "Jackson Street"
-housenumber: 
+street: Jackson Street
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 07:30-17:00; Sa 08:00-12:00; Su closed"
-website: "https://www.travisperkins.co.uk/branch-locator/3274"
+opening_hours: Mo-Fr 07:30-17:00; Sa 08:00-12:00; Su closed
+website: https://www.travisperkins.co.uk/branch-locator/3274

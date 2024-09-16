@@ -1,11 +1,11 @@
 id: 515181225
-type: way
+type: node
 latitude: 50.34998
 longitude: -3.57831
-postcode: "TQ6 9AJ"
+postcode: TQ6 9AJ
 city: Dartmouth
-street: "Lower Street"
-housenumber: 4
+street: Lower Street
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.dart-gallery.com/"
+website: https://www.dart-gallery.com/

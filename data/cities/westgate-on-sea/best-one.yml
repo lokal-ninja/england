@@ -1,11 +1,11 @@
 id: 750970924
-type: way
+type: node
 latitude: 51.38189
 longitude: 1.33727
-postcode: "CT8 8RF"
+postcode: CT8 8RF
 city: Westgate-On-Sea
-street: "St. Mildreds Road"
-housenumber: 56
+street: St. Mildreds Road
+housenumber: "56"
 phone: ""
-opening_hours: "Su-Th 08:00-20:00; Fr,Sa 08:00-21:00"
+opening_hours: Su-Th 08:00-20:00; Fr,Sa 08:00-21:00
 website: ""

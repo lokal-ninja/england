@@ -1,11 +1,11 @@
 id: 548075456
-type: way
+type: node
 latitude: 53.39675
 longitude: -2.07806
-postcode: "SK6 6EY"
+postcode: SK6 6EY
 city: Stockport
-street: "Stockport Road"
-housenumber: 202
+street: Stockport Road
+housenumber: "202"
 phone: ""
 opening_hours: ""
 website: ""

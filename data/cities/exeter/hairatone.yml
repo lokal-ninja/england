@@ -1,11 +1,11 @@
 id: 340913676
-type: way
+type: node
 latitude: 50.72534
 longitude: -3.50288
-postcode: "EX1 2TB"
+postcode: EX1 2TB
 city: Exeter
-street: "Hanover Road"
-housenumber: 1
+street: Hanover Road
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 133482615
-type: way
+type: node
 latitude: 52.9061
 longitude: -1.47745
-postcode: "DE23 6QF"
+postcode: DE23 6QF
 city: Derby
-street: "Pear Tree Road"
-housenumber: 129
-phone: "+44 1332 380000"
+street: Pear Tree Road
+housenumber: "129"
+phone: +44 1332 380000
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 432267479
-type: way
+type: node
 latitude: 51.45989
 longitude: -0.30606
-postcode: "TW9 1JY"
+postcode: TW9 1JY
 city: Richmond
-street: "George Street"
-housenumber: 5
+street: George Street
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

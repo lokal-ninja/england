@@ -2,10 +2,10 @@ id: 11639490352
 type: node
 latitude: 53.71663
 longitude: -2.09781
-postcode: "OL14 5EY"
+postcode: OL14 5EY
 city: Todmorden
 street: ""
-housenumber: 50
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

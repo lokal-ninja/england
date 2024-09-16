@@ -1,11 +1,11 @@
 id: 68083200
-type: way
+type: node
 latitude: 52.45245
 longitude: -1.84959
-postcode: "B11 3RH"
+postcode: B11 3RH
 city: Birmingham
-street: "Boscombe Road"
-housenumber: 59
+street: Boscombe Road
+housenumber: "59"
 phone: ""
 opening_hours: ""
 website: ""

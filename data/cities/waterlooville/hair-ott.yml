@@ -1,11 +1,11 @@
 id: 1313117982
-type: way
+type: node
 latitude: 50.87946
 longitude: -1.03017
-postcode: "PO7 7HS"
+postcode: PO7 7HS
 city: Waterlooville
-street: "Dukes Walk"
-housenumber: 8
-phone: "+44 2392 232360"
+street: Dukes Walk
+housenumber: "8"
+phone: +44 2392 232360
 opening_hours: ""
-website: "https://www.hairott.co.uk/"
+website: https://www.hairott.co.uk/

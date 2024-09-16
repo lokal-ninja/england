@@ -2,10 +2,10 @@ id: 4707493548
 type: node
 latitude: 52.48872
 longitude: -0.6996
-postcode: "NN17 1PN"
+postcode: NN17 1PN
 city: Corby
-street: "Elizabeth Street"
-housenumber: 44
+street: Elizabeth Street
+housenumber: "44"
 phone: ""
 opening_hours: ""
 website: ""

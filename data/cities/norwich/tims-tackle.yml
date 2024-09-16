@@ -1,11 +1,11 @@
 id: 119557426
-type: way
+type: node
 latitude: 52.63975
 longitude: 1.32246
-postcode: "NR1 4NS"
+postcode: NR1 4NS
 city: Norwich
-street: "Borrowdale Drive"
-housenumber: 71
+street: Borrowdale Drive
+housenumber: "71"
 phone: ""
 opening_hours: ""
 website: ""

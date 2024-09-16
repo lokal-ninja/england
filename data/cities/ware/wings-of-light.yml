@@ -1,11 +1,11 @@
 id: 314015681
-type: way
+type: node
 latitude: 51.8108
 longitude: -0.03051
-postcode: "SG12 9HJ"
+postcode: SG12 9HJ
 city: Ware
-street: "East Street"
-housenumber: 9
+street: East Street
+housenumber: "9"
 phone: "01920461517"
-opening_hours: "Tu-Sa 10:00-17:30; Su 11:00-17:00"
-website: "https://www.wingsoflightware.co.uk"
+opening_hours: Tu-Sa 10:00-17:30; Su 11:00-17:00
+website: https://www.wingsoflightware.co.uk

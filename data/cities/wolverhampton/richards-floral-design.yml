@@ -1,11 +1,11 @@
 id: 1018769892
-type: way
+type: node
 latitude: 52.57705
 longitude: -2.156
-postcode: "WV3 9BN"
+postcode: WV3 9BN
 city: Wolverhampton
-street: "Broad Lane"
-housenumber: 15
+street: Broad Lane
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

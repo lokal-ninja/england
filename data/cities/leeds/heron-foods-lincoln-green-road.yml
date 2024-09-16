@@ -1,11 +1,11 @@
 id: 701110482
-type: way
+type: node
 latitude: 53.80262
 longitude: -1.52459
-postcode: "LS9 7SR"
+postcode: LS9 7SR
 city: Leeds
-street: "Lincoln Green Road"
-housenumber: 101
+street: Lincoln Green Road
+housenumber: "101"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-17:00"
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-17:00
 website: ""

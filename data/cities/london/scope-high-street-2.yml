@@ -1,11 +1,11 @@
 id: 159466939
-type: way
+type: node
 latitude: 51.58445
 longitude: -0.02071
 postcode: ""
 city: London
-street: "High Street"
-housenumber: 
+street: High Street
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

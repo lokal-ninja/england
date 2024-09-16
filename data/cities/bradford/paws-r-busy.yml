@@ -1,11 +1,11 @@
 id: 219022530
-type: way
+type: node
 latitude: 53.75075
 longitude: -1.753
-postcode: "BD12 0LH"
+postcode: BD12 0LH
 city: Bradford
-street: "Clackheaton Road"
-housenumber: 646
+street: Clackheaton Road
+housenumber: "646"
 phone: ""
 opening_hours: ""
 website: ""

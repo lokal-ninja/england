@@ -1,11 +1,11 @@
 id: 326999220
-type: way
+type: node
 latitude: 52.88453
 longitude: -1.28673
 postcode: ""
 city: Nottingham
-street: "Tamworth Road"
-housenumber: 
-phone: "+44 115 972 5333"
-opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-17:00; Su 10:00-16:00"
-website: "https://www.f1autocentres.co.uk/branch/car-tyres-service-mot-Long-Eaton"
+street: Tamworth Road
+housenumber: ""
+phone: +44 115 972 5333
+opening_hours: Mo-Fr 08:30-18:00; Sa 08:30-17:00; Su 10:00-16:00
+website: https://www.f1autocentres.co.uk/branch/car-tyres-service-mot-Long-Eaton

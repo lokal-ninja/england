@@ -1,11 +1,11 @@
 id: 1190069657
-type: way
+type: node
 latitude: 50.97961
 longitude: -3.20715
-postcode: "TA21 9FN"
+postcode: TA21 9FN
 city: Wellington
-street: "Westpark"
-housenumber: 
-phone: "+44 1823 240910"
+street: Westpark
+housenumber: ""
+phone: +44 1823 240910
 opening_hours: ""
-website: "https://bricktanks.co.uk/"
+website: https://bricktanks.co.uk/

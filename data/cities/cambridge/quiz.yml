@@ -2,10 +2,10 @@ id: 3774789854
 type: node
 latitude: 52.20693
 longitude: 0.13381
-postcode: "CB1 1PS"
+postcode: CB1 1PS
 city: Cambridge
 street: ""
-housenumber: 24
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 244132903
-type: way
+type: node
 latitude: 52.28123
 longitude: -1.58993
-postcode: "CV34 4BL"
+postcode: CV34 4BL
 city: Warwick
-street: "Brook Street"
-housenumber: 40
+street: Brook Street
+housenumber: "40"
 phone: ""
 opening_hours: ""
-website: "https://crazynbold.com/"
+website: https://crazynbold.com/

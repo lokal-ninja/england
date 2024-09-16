@@ -1,11 +1,11 @@
 id: 1189221629
-type: way
+type: node
 latitude: 54.56442
 longitude: -1.31365
-postcode: "TS18 1LH"
+postcode: TS18 1LH
 city: Stockton-on-Tees
-street: "Dovecot Street"
-housenumber: 3
+street: Dovecot Street
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 206175259
-type: way
+type: node
 latitude: 53.75002
 longitude: -0.35413
-postcode: "HU3 1BH"
+postcode: HU3 1BH
 city: Hull
-street: "Spring Bank"
-housenumber: 129
+street: Spring Bank
+housenumber: "129"
 phone: ""
-opening_hours: "Mo-Su,PH 07:00-23:00"
-website: "https://www.budgens.co.uk/our-stores/spring-bank"
+opening_hours: Mo-Su,PH 07:00-23:00
+website: https://www.budgens.co.uk/our-stores/spring-bank

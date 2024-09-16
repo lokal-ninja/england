@@ -1,11 +1,11 @@
 id: 1005588291
-type: way
+type: node
 latitude: 51.88897
 longitude: 0.90376
-postcode: "CO1 2PJ"
+postcode: CO1 2PJ
 city: Colchester
-street: "Queen Street"
-housenumber: 6
+street: Queen Street
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

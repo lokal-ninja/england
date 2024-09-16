@@ -1,11 +1,11 @@
 id: 346609395
-type: way
+type: node
 latitude: 51.41973
 longitude: -0.42004
 postcode: ""
 city: Sunbury-on-Thames
-street: "The Parade"
-housenumber: 15
+street: The Parade
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

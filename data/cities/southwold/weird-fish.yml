@@ -1,11 +1,11 @@
 id: 1305209386
-type: way
+type: node
 latitude: 52.32584
 longitude: 1.67993
-postcode: "IP18 6EH"
+postcode: IP18 6EH
 city: Southwold
-street: "East Street"
-housenumber: 5
+street: East Street
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 09:30-17:30; Su 10:00-16:00; PH 10:00-16:00"
+opening_hours: Mo-Sa 09:30-17:30; Su 10:00-16:00; PH 10:00-16:00
 website: ""

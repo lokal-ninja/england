@@ -1,11 +1,11 @@
 id: 949218993
-type: way
+type: node
 latitude: 53.54645
 longitude: -2.00747
-postcode: "OL3 6HT"
+postcode: OL3 6HT
 city: Uppermill
-street: "High Street"
-housenumber: 24
+street: High Street
+housenumber: "24"
 phone: ""
 opening_hours: ""
-website: "https://www.authenticuppermill.com/"
+website: https://www.authenticuppermill.com/

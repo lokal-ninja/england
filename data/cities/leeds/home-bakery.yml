@@ -2,10 +2,10 @@ id: 5543102038
 type: node
 latitude: 53.74085
 longitude: -1.60979
-postcode: "LS27 0PH"
+postcode: LS27 0PH
 city: Leeds
-street: "Fountain Street"
-housenumber: 78
+street: Fountain Street
+housenumber: "78"
 phone: ""
 opening_hours: ""
 website: ""

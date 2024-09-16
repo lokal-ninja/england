@@ -1,11 +1,11 @@
 id: 1242484264
-type: way
+type: node
 latitude: 52.71202
 longitude: -2.46295
 postcode: ""
 city: Telford
-street: "Trench Road"
-housenumber: 
+street: Trench Road
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.telfordenginecentre.co.uk/"
+website: https://www.telfordenginecentre.co.uk/

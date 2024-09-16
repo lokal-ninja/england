@@ -1,11 +1,11 @@
 id: 57935971
-type: way
+type: node
 latitude: 52.46408
 longitude: -1.84322
-postcode: "B10 0HH"
+postcode: B10 0HH
 city: Birmingham
-street: "Coventry Road"
-housenumber: 859
+street: Coventry Road
+housenumber: "859"
 phone: ""
-opening_hours: "Mo-Fr 06:00-24:00; Sa 06:00-22:00; Su 11:00-17:00"
-website: "https://storelocator.asda.com/west-midlands/small-heath/859-coventry-road"
+opening_hours: Mo-Fr 06:00-24:00; Sa 06:00-22:00; Su 11:00-17:00
+website: https://storelocator.asda.com/west-midlands/small-heath/859-coventry-road

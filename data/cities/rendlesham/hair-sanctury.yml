@@ -2,10 +2,11 @@ id: 10280944297
 type: node
 latitude: 52.12996
 longitude: 1.41471
-postcode: "IP12 2GG"
+postcode: IP12 2GG
 city: Rendlesham
-street: "Walnut Tree Avenue"
-housenumber: 2
+street: Walnut Tree Avenue
+housenumber: "2"
 phone: "+441394420101"
-opening_hours: "Mo 09:00-18:00; Tu-We 09:00-21:00; Th 09:00-18:00; Fr 09:00-19:00; Sa 09:00-16:00"
-website: "https://www.hair-sanctuary.co.uk/"
+opening_hours: Mo 09:00-18:00; Tu-We 09:00-21:00; Th 09:00-18:00; Fr 09:00-19:00;
+    Sa 09:00-16:00
+website: https://www.hair-sanctuary.co.uk/

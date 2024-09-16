@@ -1,11 +1,11 @@
 id: 1210154465
-type: way
+type: node
 latitude: 54.47302
 longitude: -2.34891
-postcode: "CA17 4QW"
+postcode: CA17 4QW
 city: Kirby Stephen
-street: "Market Street"
-housenumber: 28
+street: Market Street
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

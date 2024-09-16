@@ -1,11 +1,11 @@
 id: 682451692
-type: way
+type: node
 latitude: 53.74266
 longitude: -1.54369
-postcode: "LS10 4EZ"
+postcode: LS10 4EZ
 city: Leeds
-street: "Thorpe Street"
-housenumber: 14
+street: Thorpe Street
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

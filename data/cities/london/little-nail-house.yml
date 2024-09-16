@@ -1,11 +1,11 @@
 id: 190837481
-type: way
+type: node
 latitude: 51.51333
 longitude: -0.04316
-postcode: "E1 0HJ"
+postcode: E1 0HJ
 city: London
-street: "Commercial Road"
-housenumber: 579
+street: Commercial Road
+housenumber: "579"
 phone: ""
 opening_hours: ""
 website: ""

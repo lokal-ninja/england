@@ -1,11 +1,11 @@
 id: 341731247
-type: way
+type: node
 latitude: 51.45689
 longitude: -0.19882
 postcode: ""
 city: London
-street: "West Hill"
-housenumber: 3
+street: West Hill
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

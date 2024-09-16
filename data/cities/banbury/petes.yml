@@ -1,11 +1,11 @@
 id: 526093633
-type: way
+type: node
 latitude: 52.05963
 longitude: -1.33132
-postcode: "OX16 5AY"
+postcode: OX16 5AY
 city: Banbury
-street: "Lower Cherwell Street"
-housenumber: 16
-phone: "+44 7737 650534"
+street: Lower Cherwell Street
+housenumber: "16"
+phone: +44 7737 650534
 opening_hours: ""
-website: "https://www.petesgarage.co.uk/"
+website: https://www.petesgarage.co.uk/

@@ -1,11 +1,11 @@
 id: 911321226
-type: way
+type: node
 latitude: 50.9552
 longitude: -0.13118
-postcode: "RH15 9NP"
+postcode: RH15 9NP
 city: Burgess Hill
-street: "Market Place, The Martletts"
-housenumber: 18
-phone: "+44 7836 266667"
+street: Market Place, The Martletts
+housenumber: "18"
+phone: +44 7836 266667
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 380480095
-type: way
+type: node
 latitude: 51.42575
 longitude: -0.21715
-postcode: "SW19 5DL"
+postcode: SW19 5DL
 city: London
-street: "Church Road"
-housenumber: 8
+street: Church Road
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:30; Sa 08:30-17:00; Su,PH off"
-website: "https://www.johnsoncleaners.com/branch/wimbledon-village/"
+opening_hours: Mo-Fr 08:00-17:30; Sa 08:30-17:00; Su,PH off
+website: https://www.johnsoncleaners.com/branch/wimbledon-village/

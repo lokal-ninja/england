@@ -1,11 +1,11 @@
 id: 934729743
-type: way
+type: node
 latitude: 50.37063
 longitude: -4.1392
-postcode: "PL1 1DN"
+postcode: PL1 1DN
 city: Plymouth
-street: "St Andrew's Cross"
-housenumber: 3
+street: St Andrew's Cross
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

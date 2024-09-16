@@ -1,11 +1,11 @@
 id: 730294804
-type: way
+type: node
 latitude: 53.23091
 longitude: -0.54115
-postcode: "LN1 1JT"
+postcode: LN1 1JT
 city: Lincoln
-street: "West Parade"
-housenumber: 4
+street: West Parade
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

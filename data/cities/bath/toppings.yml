@@ -1,11 +1,11 @@
 id: 373843888
-type: way
+type: node
 latitude: 51.38094
 longitude: -2.3582
-postcode: "BA1 1NG"
+postcode: BA1 1NG
 city: Bath
-street: "York Street"
-housenumber: 
-phone: "+44 1225 428111"
-opening_hours: "Mo-Su 08:30-21:00"
-website: "https://www.toppingbooks.co.uk/"
+street: York Street
+housenumber: ""
+phone: +44 1225 428111
+opening_hours: Mo-Su 08:30-21:00
+website: https://www.toppingbooks.co.uk/

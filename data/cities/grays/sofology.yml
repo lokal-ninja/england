@@ -1,11 +1,11 @@
 id: 413391989
-type: way
+type: node
 latitude: 51.48586
 longitude: 0.27648
-postcode: "RM20 1WN"
+postcode: RM20 1WN
 city: Grays
-street: "West Thurrock Way"
-housenumber: 
-phone: "+44 344 481 8044"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-18:00; Su 11:00-17:00"
-website: "https://www.sofology.co.uk/stores/thurrock"
+street: West Thurrock Way
+housenumber: ""
+phone: +44 344 481 8044
+opening_hours: Mo-Fr 10:00-20:00; Sa 10:00-18:00; Su 11:00-17:00
+website: https://www.sofology.co.uk/stores/thurrock

@@ -1,11 +1,11 @@
 id: 1206691049
-type: way
+type: node
 latitude: 51.12822
 longitude: -3.00418
-postcode: "TA6 3BY"
+postcode: TA6 3BY
 city: Bridgwater
-street: "Cornhill"
-housenumber: 33
+street: Cornhill
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 359668645
-type: way
+type: node
 latitude: 52.14699
 longitude: -0.31643
-postcode: "MK44 3NL"
+postcode: MK44 3NL
 city: Blunham
-street: "High Street"
-housenumber: 23
+street: High Street
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 116815552
-type: way
+type: node
 latitude: 51.52604
 longitude: -0.13816
-postcode: "NW1 2PY"
+postcode: NW1 2PY
 city: London
-street: "Hampstead Road"
-housenumber: 42
+street: Hampstead Road
+housenumber: "42"
 phone: ""
 opening_hours: ""
 website: ""

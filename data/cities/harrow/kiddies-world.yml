@@ -1,11 +1,11 @@
 id: 243231697
-type: way
+type: node
 latitude: 51.59609
 longitude: -0.33543
-postcode: "HA3 5DQ"
+postcode: HA3 5DQ
 city: Harrow
-street: "High Street"
-housenumber: 81
+street: High Street
+housenumber: "81"
 phone: ""
 opening_hours: ""
-website: "http://kiddiesworld-harrow.com/"
+website: http://kiddiesworld-harrow.com/

@@ -1,11 +1,11 @@
 id: 1190069654
-type: way
+type: node
 latitude: 50.97956
 longitude: -3.20736
-postcode: "TA21 9FN"
+postcode: TA21 9FN
 city: Wellington
-street: "Westpark"
-housenumber: 
-phone: "+44 1823 662800"
-opening_hours: "Mo-Fr || by appointment onky; Sa-Su off"
-website: "https://rimblades.com/"
+street: Westpark
+housenumber: ""
+phone: +44 1823 662800
+opening_hours: Mo-Fr || "by appointment onky"; Sa-Su off
+website: https://rimblades.com/

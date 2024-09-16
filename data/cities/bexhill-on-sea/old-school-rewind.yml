@@ -1,11 +1,11 @@
 id: 313634222
-type: way
+type: node
 latitude: 50.83888
 longitude: 0.47006
-postcode: "TN39 3JD"
+postcode: TN39 3JD
 city: Bexhill-on-Sea
-street: "Sackville Road"
-housenumber: 25
+street: Sackville Road
+housenumber: "25"
 phone: ""
-opening_hours: "Tu,Th,Fr 10:00-17:30; We 10:00-16:00; Sa 10:00-18:00; Su 11:00-16:00"
+opening_hours: Tu,Th,Fr 10:00-17:30; We 10:00-16:00; Sa 10:00-18:00; Su 11:00-16:00
 website: ""

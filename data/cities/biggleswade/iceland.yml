@@ -1,11 +1,11 @@
 id: 954021577
-type: way
+type: node
 latitude: 52.08633
 longitude: -0.26353
-postcode: "SG18 8AS"
+postcode: SG18 8AS
 city: Biggleswade
-street: "Market Place"
-housenumber: 22
+street: Market Place
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

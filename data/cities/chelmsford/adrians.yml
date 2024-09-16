@@ -1,11 +1,11 @@
 id: 270154091
-type: way
+type: node
 latitude: 51.73535
 longitude: 0.47125
-postcode: "CM1 1UP"
+postcode: CM1 1UP
 city: Chelmsford
-street: "Duke Street"
-housenumber: 16
-phone: "+44 1245 265303;+44 1245 265621"
-opening_hours: "Mo-Fr 08:00-17:00; Sa-Su off"
-website: "https://www.adrians-property.co.uk/"
+street: Duke Street
+housenumber: "16"
+phone: +44 1245 265303;+44 1245 265621
+opening_hours: Mo-Fr 08:00-17:00; Sa-Su off
+website: https://www.adrians-property.co.uk/

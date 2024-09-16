@@ -1,11 +1,11 @@
 id: 205406210
-type: way
+type: node
 latitude: 51.36582
 longitude: -0.09931
-postcode: "CR0 1DP"
+postcode: CR0 1DP
 city: Croydon
-street: "South End"
-housenumber: 46
+street: South End
+housenumber: "46"
 phone: ""
 opening_hours: ""
-website: "https://www.justflutes.com/"
+website: https://www.justflutes.com/

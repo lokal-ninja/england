@@ -1,11 +1,11 @@
 id: 99003289
-type: way
+type: node
 latitude: 51.73127
 longitude: 0.67489
 postcode: ""
 city: Maldon
-street: "High Street"
-housenumber: 2
+street: High Street
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

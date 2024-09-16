@@ -1,11 +1,11 @@
 id: 517379339
-type: way
+type: node
 latitude: 50.91913
 longitude: -1.48802
-postcode: "SO40 3BX"
+postcode: SO40 3BX
 city: Southampton
-street: "Commercial Road"
-housenumber: 39
+street: Commercial Road
+housenumber: "39"
 phone: ""
 opening_hours: ""
 website: ""

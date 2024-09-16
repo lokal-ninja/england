@@ -2,10 +2,10 @@ id: 5204146710
 type: node
 latitude: 51.49718
 longitude: -0.14053
-postcode: "SW1E 5JH"
+postcode: SW1E 5JH
 city: London
-street: "Cathedral Walk"
-housenumber: 3
-phone: "+44 20 7834 1481"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 11:00-17:00"
-website: "http://hobbs.co.uk"
+street: Cathedral Walk
+housenumber: "3"
+phone: +44 20 7834 1481
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 11:00-17:00
+website: http://hobbs.co.uk

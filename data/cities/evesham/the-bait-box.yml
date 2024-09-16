@@ -1,11 +1,11 @@
 id: 291764148
-type: way
+type: node
 latitude: 52.09679
 longitude: -1.94639
-postcode: "WR11 4EJ"
+postcode: WR11 4EJ
 city: Evesham
-street: "High Street"
-housenumber: 124
+street: High Street
+housenumber: "124"
 phone: ""
-opening_hours: "Tu-Sa 08:00-16:00; Mo 08:00-12:00"
-website: "http://www.thebaitboxevesham.co.uk/"
+opening_hours: Tu-Sa 08:00-16:00; Mo 08:00-12:00
+website: http://www.thebaitboxevesham.co.uk/

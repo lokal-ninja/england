@@ -1,11 +1,11 @@
 id: 594905262
-type: way
+type: node
 latitude: 53.67771
 longitude: -1.4971
-postcode: "WF1 1RF"
+postcode: WF1 1RF
 city: Wakefield
-street: "Ings Road"
-housenumber: 4
+street: Ings Road
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

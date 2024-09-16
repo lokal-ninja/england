@@ -1,11 +1,11 @@
 id: 708090715
-type: way
+type: node
 latitude: 53.5657
 longitude: -2.44097
-postcode: "BL3 6TJ"
+postcode: BL3 6TJ
 city: Bolton
-street: "Bridgeman Street"
-housenumber: 462
+street: Bridgeman Street
+housenumber: "462"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 78455399
-type: way
+type: node
 latitude: 50.48975
 longitude: -3.5552
-postcode: "TQ2 7XA"
+postcode: TQ2 7XA
 city: Torquay
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su 10:00-16:00"
+opening_hours: Mo-Sa 08:00-20:00; Su 10:00-16:00
 website: ""

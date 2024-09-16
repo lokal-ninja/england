@@ -2,10 +2,10 @@ id: 6984756864
 type: node
 latitude: 54.9878
 longitude: -1.59399
-postcode: "NE2 1LB"
+postcode: NE2 1LB
 city: Newcastle upon Tyne
-street: "Jesmond Road"
-housenumber: 265
+street: Jesmond Road
+housenumber: "265"
 phone: ""
-opening_hours: "Mo 11:00-19:00; We-Th 11:00-19:00; Fr-Su 10:00-17:00"
-website: "https://www.somethinggoodnewcastle.com/"
+opening_hours: Mo 11:00-19:00; We-Th 11:00-19:00; Fr-Su 10:00-17:00
+website: https://www.somethinggoodnewcastle.com/

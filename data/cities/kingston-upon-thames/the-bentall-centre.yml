@@ -1,11 +1,11 @@
 id: 22917418
-type: way
+type: node
 latitude: 51.41099
 longitude: -0.30531
-postcode: "KT1 1TP"
+postcode: KT1 1TP
 city: Kingston upon Thames
-street: "Wood Street"
-housenumber: 
-phone: "+44 20 8541 5066"
-opening_hours: "Mo-Fr 09:30-21:00; Sa 09:00-19:00; Su 11:00-17:00"
-website: "https://www.bentallcentre.co.uk/"
+street: Wood Street
+housenumber: ""
+phone: +44 20 8541 5066
+opening_hours: Mo-Fr 09:30-21:00; Sa 09:00-19:00; Su 11:00-17:00
+website: https://www.bentallcentre.co.uk/

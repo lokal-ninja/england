@@ -1,11 +1,11 @@
 id: 1186330078
-type: way
+type: node
 latitude: 51.09224
 longitude: -0.26399
 postcode: ""
 city: Faygate
-street: "Faygate lane"
-housenumber: 
+street: Faygate lane
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 00:00-24:00"
-website: "https://www.marksandspencer.com/stores/faygate-bp-1642"
+opening_hours: Mo-Su 00:00-24:00
+website: https://www.marksandspencer.com/stores/faygate-bp-1642

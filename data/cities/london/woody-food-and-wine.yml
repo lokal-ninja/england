@@ -2,10 +2,10 @@ id: 2147835472
 type: node
 latitude: 51.59652
 longitude: 0.02144
-postcode: "E18 2PA"
+postcode: E18 2PA
 city: London
-street: "High Road"
-housenumber: 135
+street: High Road
+housenumber: "135"
 phone: ""
 opening_hours: ""
 website: ""

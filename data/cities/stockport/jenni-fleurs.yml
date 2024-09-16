@@ -2,10 +2,10 @@ id: 5812534728
 type: node
 latitude: 53.40123
 longitude: -2.0535
-postcode: "SK6 5AA"
+postcode: SK6 5AA
 city: Stockport
-street: "Town Street"
-housenumber: 20
+street: Town Street
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

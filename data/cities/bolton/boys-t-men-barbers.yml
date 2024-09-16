@@ -1,11 +1,11 @@
 id: 494682587
-type: way
+type: node
 latitude: 53.54911
 longitude: -2.52424
-postcode: "BL5 3BD"
+postcode: BL5 3BD
 city: Bolton
-street: "Market Street"
-housenumber: 84
-phone: "+44 1942 810941"
+street: Market Street
+housenumber: "84"
+phone: +44 1942 810941
 opening_hours: ""
 website: ""

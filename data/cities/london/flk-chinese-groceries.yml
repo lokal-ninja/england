@@ -1,11 +1,11 @@
 id: 771351208
-type: way
+type: node
 latitude: 51.44463
 longitude: -0.02377
-postcode: "SE6 4QZ"
+postcode: SE6 4QZ
 city: London
-street: "Catford Road"
-housenumber: 3
+street: Catford Road
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

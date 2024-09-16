@@ -1,11 +1,11 @@
 id: 1252126304
-type: way
+type: node
 latitude: 53.42258
 longitude: -2.96014
-postcode: "L5 6PT"
+postcode: L5 6PT
 city: Liverpool
-street: "Breck Road"
-housenumber: 205
+street: Breck Road
+housenumber: "205"
 phone: ""
 opening_hours: ""
 website: ""

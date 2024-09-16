@@ -1,11 +1,11 @@
 id: 151524261
-type: way
+type: node
 latitude: 51.49143
 longitude: -0.20709
-postcode: "W14 9NH"
+postcode: W14 9NH
 city: London
-street: "North End Road"
-housenumber: 153
-phone: "+44 20 7602 1150"
+street: North End Road
+housenumber: "153"
+phone: +44 20 7602 1150
 opening_hours: ""
-website: "http://www.kenfcentre.co.uk"
+website: http://www.kenfcentre.co.uk

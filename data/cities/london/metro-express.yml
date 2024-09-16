@@ -1,11 +1,11 @@
 id: 195390054
-type: way
+type: node
 latitude: 51.58984
 longitude: -0.01827
-postcode: "E17 4PH"
+postcode: E17 4PH
 city: London
-street: "Hoe Street"
-housenumber: 26
+street: Hoe Street
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

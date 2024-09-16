@@ -1,11 +1,11 @@
 id: 1258973099
-type: way
+type: node
 latitude: 55.07968
 longitude: -1.57014
-postcode: "NE23 6RQ"
+postcode: NE23 6RQ
 city: Cramlington
-street: "Hastings Street"
-housenumber: 1
+street: Hastings Street
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

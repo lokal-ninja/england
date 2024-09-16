@@ -1,11 +1,11 @@
 id: 977777469
-type: way
+type: node
 latitude: 53.45078
 longitude: -2.71088
-postcode: "WA9 1PA"
+postcode: WA9 1PA
 city: St Helens
-street: "Parr Stocks Road"
-housenumber: 175
+street: Parr Stocks Road
+housenumber: "175"
 phone: "+44174427799"
 opening_hours: ""
 website: ""

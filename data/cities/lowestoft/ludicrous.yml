@@ -1,11 +1,11 @@
 id: 1305079017
-type: way
+type: node
 latitude: 52.48155
 longitude: 1.75547
-postcode: "NR32 1JY"
+postcode: NR32 1JY
 city: Lowestoft
-street: "Dukes Head Street"
-housenumber: 2
+street: Dukes Head Street
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

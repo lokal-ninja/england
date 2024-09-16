@@ -1,11 +1,11 @@
 id: 364028364
-type: way
+type: node
 latitude: 50.91479
 longitude: -1.35451
-postcode: "SO18 5EQ"
+postcode: SO18 5EQ
 city: Southampton
-street: "Bitterne Road East"
-housenumber: 491
+street: Bitterne Road East
+housenumber: "491"
 phone: ""
 opening_hours: ""
 website: ""

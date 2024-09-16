@@ -1,11 +1,11 @@
 id: 241257581
-type: way
+type: node
 latitude: 53.22516
 longitude: -0.54306
-postcode: "LN5 7AA"
+postcode: LN5 7AA
 city: Lincoln
-street: "High Street"
-housenumber: 155
+street: High Street
+housenumber: "155"
 phone: ""
 opening_hours: ""
 website: ""

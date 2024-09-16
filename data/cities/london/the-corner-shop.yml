@@ -1,11 +1,11 @@
 id: 934910698
-type: way
+type: node
 latitude: 51.60625
 longitude: -0.00477
-postcode: "E4 9LP"
+postcode: E4 9LP
 city: London
-street: "Selwyn Avenue"
-housenumber: 95
+street: Selwyn Avenue
+housenumber: "95"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 166264720
-type: way
+type: node
 latitude: 51.89562
 longitude: -2.08286
-postcode: "GL50 1SW"
+postcode: GL50 1SW
 city: Cheltenham
-street: "Montpellier Street"
-housenumber: 9
+street: Montpellier Street
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 09:00-18:00; Su 11:00-16:00"
+opening_hours: Mo-Sa 09:00-18:00; Su 11:00-16:00
 website: ""

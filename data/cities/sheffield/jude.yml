@@ -1,11 +1,11 @@
 id: 1033222955
-type: way
+type: node
 latitude: 53.36176
 longitude: -1.50866
-postcode: "S11 8TR"
+postcode: S11 8TR
 city: Sheffield
-street: "Ecclesall Road"
-housenumber: 906
+street: Ecclesall Road
+housenumber: "906"
 phone: ""
 opening_hours: ""
 website: ""

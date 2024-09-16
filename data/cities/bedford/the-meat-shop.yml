@@ -2,10 +2,10 @@ id: 1309490430
 type: node
 latitude: 52.1492
 longitude: -0.43949
-postcode: "MK41 9BS"
+postcode: MK41 9BS
 city: Bedford
-street: "Queens Drive"
-housenumber: 82
+street: Queens Drive
+housenumber: "82"
 phone: ""
 opening_hours: ""
 website: ""

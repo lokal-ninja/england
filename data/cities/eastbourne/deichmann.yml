@@ -1,11 +1,11 @@
 id: 1305577370
-type: way
+type: node
 latitude: 50.76936
 longitude: 0.2851
-postcode: "BN21 3NW"
+postcode: BN21 3NW
 city: Eastbourne
 street: ""
-housenumber: 
-phone: "+44 1323 748868"
-opening_hours: "Mo-Sa 09:00-18:00; Su 10:30-16:30"
-website: "https://www.deichmann.com/en-gb/"
+housenumber: ""
+phone: +44 1323 748868
+opening_hours: Mo-Sa 09:00-18:00; Su 10:30-16:30
+website: https://www.deichmann.com/en-gb/

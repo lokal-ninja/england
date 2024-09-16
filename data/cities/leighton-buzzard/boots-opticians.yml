@@ -1,11 +1,11 @@
 id: 135079345
-type: way
+type: node
 latitude: 51.91685
 longitude: -0.66333
-postcode: "LU7 1DH"
+postcode: LU7 1DH
 city: Leighton Buzzard
-street: "Waterborne Walk"
-housenumber: 22
+street: Waterborne Walk
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Sa 09:00-17:30; Su 10:00-16:00"
+opening_hours: Mo-Sa 09:00-17:30; Su 10:00-16:00
 website: ""

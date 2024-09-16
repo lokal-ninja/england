@@ -1,11 +1,11 @@
 id: 1040520748
-type: way
+type: node
 latitude: 50.92402
 longitude: 0.53238
-postcode: "TN33 0RJ"
+postcode: TN33 0RJ
 city: Sedlescombe
-street: "New Road"
-housenumber: 
+street: New Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:30, Sa 08:00-18:00, Su 10:00-16:00"
-website: "https://www.blackbrooks.co.uk/"
+opening_hours: Mo-Fr 08:00-17:30, Sa 08:00-18:00, Su 10:00-16:00
+website: https://www.blackbrooks.co.uk/

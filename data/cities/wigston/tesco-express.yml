@@ -1,11 +1,11 @@
 id: 186789064
-type: way
+type: node
 latitude: 52.59187
 longitude: -1.12329
-postcode: "LE18 1BD"
+postcode: LE18 1BD
 city: Wigston
-street: "Aylestone Lane"
-housenumber: 234
+street: Aylestone Lane
+housenumber: "234"
 phone: ""
 opening_hours: ""
-website: "https://www.tesco.com/store-locator/leicester/234-aylestone-lane"
+website: https://www.tesco.com/store-locator/leicester/234-aylestone-lane

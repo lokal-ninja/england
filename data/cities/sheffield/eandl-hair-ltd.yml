@@ -1,11 +1,11 @@
 id: 1127333095
-type: way
+type: node
 latitude: 53.4392
 longitude: -1.46413
-postcode: "S35 9UA"
+postcode: S35 9UA
 city: Sheffield
-street: "High Street"
-housenumber: 131
+street: High Street
+housenumber: "131"
 phone: ""
 opening_hours: ""
 website: ""

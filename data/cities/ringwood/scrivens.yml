@@ -1,11 +1,11 @@
 id: 102664916
-type: way
+type: node
 latitude: 50.84693
 longitude: -1.79073
-postcode: "BH24 1HB"
+postcode: BH24 1HB
 city: Ringwood
-street: "Southampton Road"
-housenumber: 31
+street: Southampton Road
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

@@ -2,10 +2,11 @@ id: 1569415538
 type: node
 latitude: 51.41116
 longitude: -0.30586
-postcode: "KT1 1TG"
+postcode: KT1 1TG
 city: Kingston upon Thames
-street: "Wood Street"
-housenumber: 
-phone: "+49 20 85473457"
-opening_hours: "Mo-We: 08:30-19:00; Th: 08:30-21:00; Fr 08:30-20:00; Sa: 08:00-19:00; Su: 11:00-17:00"
-website: "https://www.waitrose.com/find-a-store/kingston"
+street: Wood Street
+housenumber: ""
+phone: +49 20 85473457
+opening_hours: 'Mo-We: 08:30-19:00; Th: 08:30-21:00; Fr 08:30-20:00; Sa: 08:00-19:00;
+    Su: 11:00-17:00'
+website: https://www.waitrose.com/find-a-store/kingston

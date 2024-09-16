@@ -1,11 +1,11 @@
 id: 152963101
-type: way
+type: node
 latitude: 51.43354
 longitude: -2.75787
-postcode: "BS48 1AP"
+postcode: BS48 1AP
 city: Nailsea
-street: "High Street"
-housenumber: 140
+street: High Street
+housenumber: "140"
 phone: ""
 opening_hours: ""
-website: "https://www.waitrose.com/find-a-store/nailsea"
+website: https://www.waitrose.com/find-a-store/nailsea

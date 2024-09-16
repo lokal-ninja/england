@@ -1,11 +1,11 @@
 id: 165586595
-type: way
+type: node
 latitude: 53.6898
 longitude: -2.71671
-postcode: "PR25 1UQ"
+postcode: PR25 1UQ
 city: Leyland
-street: "Leyland Lane"
-housenumber: 326
+street: Leyland Lane
+housenumber: "326"
 phone: ""
 opening_hours: ""
 website: ""

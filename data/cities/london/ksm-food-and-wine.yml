@@ -1,11 +1,11 @@
 id: 377200486
-type: way
+type: node
 latitude: 51.58898
 longitude: -0.03059
-postcode: "E17 6HD"
+postcode: E17 6HD
 city: London
-street: "Forest Road"
-housenumber: 287
+street: Forest Road
+housenumber: "287"
 phone: ""
 opening_hours: ""
 website: ""

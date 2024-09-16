@@ -1,11 +1,11 @@
 id: 562896592
-type: way
+type: node
 latitude: 51.54141
 longitude: 0.00996
-postcode: "E15 4ES"
+postcode: E15 4ES
 city: London
-street: "Vicarage Lane"
-housenumber: 26
+street: Vicarage Lane
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

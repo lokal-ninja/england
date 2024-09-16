@@ -1,11 +1,11 @@
 id: 1245779832
-type: way
+type: node
 latitude: 51.45867
 longitude: -0.12724
-postcode: "SW2 5DZ"
+postcode: SW2 5DZ
 city: London
-street: "Ellerslie Square"
-housenumber: 
+street: Ellerslie Square
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

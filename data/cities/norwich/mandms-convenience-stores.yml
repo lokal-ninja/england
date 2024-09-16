@@ -1,11 +1,11 @@
 id: 151686878
-type: way
+type: node
 latitude: 52.63855
 longitude: 1.28827
-postcode: "NR3 3HF"
+postcode: NR3 3HF
 city: Norwich
-street: "Wingfield Road"
-housenumber: 65
+street: Wingfield Road
+housenumber: "65"
 phone: ""
-opening_hours: "07:00+"
+opening_hours: 07:00+
 website: ""

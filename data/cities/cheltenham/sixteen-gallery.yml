@@ -1,11 +1,11 @@
 id: 166264708
-type: way
+type: node
 latitude: 51.8959
 longitude: -2.08253
-postcode: "GL50 1SW"
+postcode: GL50 1SW
 city: Cheltenham
-street: "Montpellier Street"
-housenumber: 16
-phone: "+44 1242 335545"
+street: Montpellier Street
+housenumber: "16"
+phone: +44 1242 335545
 opening_hours: ""
-website: "https://www.sixteengallery.com/"
+website: https://www.sixteengallery.com/

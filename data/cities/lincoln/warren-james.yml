@@ -1,11 +1,11 @@
 id: 725978959
-type: way
+type: node
 latitude: 53.22929
 longitude: -0.54023
-postcode: "LN2 1AH"
+postcode: LN2 1AH
 city: Lincoln
-street: "High Street"
-housenumber: 295
+street: High Street
+housenumber: "295"
 phone: ""
 opening_hours: ""
 website: ""

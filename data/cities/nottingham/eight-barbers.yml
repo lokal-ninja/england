@@ -1,11 +1,11 @@
 id: 240532758
-type: way
+type: node
 latitude: 52.96457
 longitude: -1.07872
-postcode: "NG4 2HE"
+postcode: NG4 2HE
 city: Nottingham
-street: "Victoria Road"
-housenumber: 8
+street: Victoria Road
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

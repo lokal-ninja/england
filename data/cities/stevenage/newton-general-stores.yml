@@ -2,10 +2,10 @@ id: 1495360655
 type: node
 latitude: 51.90865
 longitude: -0.17534
-postcode: "SG2 0BX"
+postcode: SG2 0BX
 city: Stevenage
-street: "Newton Road"
-housenumber: 48
+street: Newton Road
+housenumber: "48"
 phone: ""
 opening_hours: ""
 website: ""

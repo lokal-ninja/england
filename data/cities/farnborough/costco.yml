@@ -1,11 +1,11 @@
 id: 452149590
-type: way
+type: node
 latitude: 51.28425
 longitude: -0.76913
-postcode: "GU14 6FE"
+postcode: GU14 6FE
 city: Farnborough
-street: "Templer Avenue"
-housenumber: 2
+street: Templer Avenue
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 11:00-20:30; Sa 09:30-19:00; Su 11:00-17:00"
+opening_hours: Mo-Fr 11:00-20:30; Sa 09:30-19:00; Su 11:00-17:00
 website: ""

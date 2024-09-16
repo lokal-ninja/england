@@ -1,11 +1,11 @@
 id: 172917608
-type: way
+type: node
 latitude: 52.18857
 longitude: 0.14075
-postcode: "CB1 7AG"
+postcode: CB1 7AG
 city: Cambridge
-street: "Cherry Hinton Road"
-housenumber: 84
+street: Cherry Hinton Road
+housenumber: "84"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 405459568
-type: way
+type: node
 latitude: 52.62363
 longitude: -1.99438
-postcode: "WS3 3DR"
+postcode: WS3 3DR
 city: Walsall
-street: "Lichfield Road"
-housenumber: 
+street: Lichfield Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
+opening_hours: Mo-Su 07:00-22:00
 website: ""

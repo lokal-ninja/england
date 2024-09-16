@@ -1,11 +1,11 @@
 id: 532672811
-type: way
+type: node
 latitude: 53.78449
 longitude: -1.59492
-postcode: "LS12 4PQ"
+postcode: LS12 4PQ
 city: Leeds
-street: "Lower Wortley Road"
-housenumber: 128
+street: Lower Wortley Road
+housenumber: "128"
 phone: ""
 opening_hours: ""
 website: ""

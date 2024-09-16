@@ -1,11 +1,11 @@
 id: 1047150807
-type: way
+type: node
 latitude: 52.20618
 longitude: 0.12146
-postcode: "CB2 3HG"
+postcode: CB2 3HG
 city: Cambridge
-street: "Sidney Street"
+street: Sidney Street
 housenumber: 13-15
 phone: ""
-opening_hours: "Mo,Tu,Th-Sa 09:00-18:00; We 09:00-20:00; Su 11:00-17:00"
-website: "https://stores.next.co.uk/stores/single/325"
+opening_hours: Mo,Tu,Th-Sa 09:00-18:00; We 09:00-20:00; Su 11:00-17:00
+website: https://stores.next.co.uk/stores/single/325

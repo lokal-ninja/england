@@ -2,10 +2,10 @@ id: 5115501467
 type: node
 latitude: 50.72807
 longitude: -1.16296
-postcode: "PO33 2HT"
+postcode: PO33 2HT
 city: Ryde
-street: "High Street"
-housenumber: 32
+street: High Street
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Sa 09:00-17:30; Su 10:00-16:00"
+opening_hours: Mo-Sa 09:00-17:30; Su 10:00-16:00
 website: ""

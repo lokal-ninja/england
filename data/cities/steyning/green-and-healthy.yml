@@ -1,11 +1,12 @@
 id: 1040597758
-type: way
+type: node
 latitude: 50.88896
 longitude: -0.32976
-postcode: "BN44 3RD"
+postcode: BN44 3RD
 city: Steyning
-street: "High Street"
-housenumber: 70
-phone: "+44 1903 816838"
-opening_hours: "Mo 09:00-17:00; Tu 09:00-18:00; We 09:00-17:00; Th 09:00-18:00; Fr 09:00-17:00; Sa 09:00-17:00"
-website: "https://www.greenandhealthysteyning.co.uk/"
+street: High Street
+housenumber: "70"
+phone: +44 1903 816838
+opening_hours: Mo 09:00-17:00; Tu 09:00-18:00; We 09:00-17:00; Th 09:00-18:00; Fr
+    09:00-17:00; Sa 09:00-17:00
+website: https://www.greenandhealthysteyning.co.uk/

@@ -1,11 +1,11 @@
 id: 310862646
-type: way
+type: node
 latitude: 52.25432
 longitude: -0.67175
-postcode: "NN29 7RE"
+postcode: NN29 7RE
 city: Wellingborough
-street: "Council Street"
-housenumber: 18
+street: Council Street
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

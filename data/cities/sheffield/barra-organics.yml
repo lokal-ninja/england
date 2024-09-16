@@ -1,11 +1,11 @@
 id: 1137051745
-type: way
+type: node
 latitude: 53.3675
 longitude: -1.49969
-postcode: "S11 8ZP"
+postcode: S11 8ZP
 city: Sheffield
-street: "Sharrow Vale Road"
-housenumber: 356
+street: Sharrow Vale Road
+housenumber: "356"
 phone: ""
 opening_hours: ""
 website: ""

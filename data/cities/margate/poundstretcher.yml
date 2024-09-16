@@ -1,11 +1,11 @@
 id: 164615159
-type: way
+type: node
 latitude: 51.38901
 longitude: 1.38486
-postcode: "CT9 1QS"
+postcode: CT9 1QS
 city: Margate
-street: "Addington Street"
-housenumber: 55
+street: Addington Street
+housenumber: "55"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 08:30-18:00; Su 10:00-16:00"
-website: "https://www.poundstretcher.co.uk/Margate-865"
+opening_hours: Mo-Fr 09:00-18:00; Sa 08:30-18:00; Su 10:00-16:00
+website: https://www.poundstretcher.co.uk/Margate-865

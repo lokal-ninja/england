@@ -2,10 +2,10 @@ id: 1320590037
 type: node
 latitude: 52.9228
 longitude: -1.47943
-postcode: "DE1 1BE"
+postcode: DE1 1BE
 city: Derby
-street: "The Strand"
-housenumber: 30
+street: The Strand
+housenumber: "30"
 phone: ""
 opening_hours: ""
-website: "https://www.bedazzled.info/"
+website: https://www.bedazzled.info/

@@ -1,11 +1,11 @@
 id: 1190069593
-type: way
+type: node
 latitude: 50.9809
 longitude: -3.20762
-postcode: "TA21 9FN"
+postcode: TA21 9FN
 city: Wellington
-street: "Westpark"
-housenumber: 
-phone: "+44 1823 653533"
+street: Westpark
+housenumber: ""
+phone: +44 1823 653533
 opening_hours: ""
-website: "https://somerdale.com/"
+website: https://somerdale.com/

@@ -2,10 +2,10 @@ id: 6087676263
 type: node
 latitude: 51.52535
 longitude: -0.12524
-postcode: "WC1N 1AB"
+postcode: WC1N 1AB
 city: London
-street: "Marchmont Street"
-housenumber: 64
+street: Marchmont Street
+housenumber: "64"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:00; Sa 09:00-18:00"
-website: "https://www.theobservatory.org/"
+opening_hours: Mo-Fr 08:30-18:00; Sa 09:00-18:00
+website: https://www.theobservatory.org/

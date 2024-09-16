@@ -1,11 +1,11 @@
 id: 1063663373
-type: way
+type: node
 latitude: 53.64427
 longitude: -1.78328
-postcode: "HD1 2TW"
+postcode: HD1 2TW
 city: Huddersfield
-street: "New Street"
-housenumber: 77
+street: New Street
+housenumber: "77"
 phone: ""
 opening_hours: ""
 website: ""

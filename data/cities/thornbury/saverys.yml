@@ -1,11 +1,11 @@
 id: 178548301
-type: way
+type: node
 latitude: 51.60957
 longitude: -2.52572
 postcode: ""
 city: Thornbury
-street: "The Plain"
-housenumber: 13
+street: The Plain
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 331032468
-type: way
+type: node
 latitude: 54.85055
 longitude: -2.92904
-postcode: "CA2 4TU"
+postcode: CA2 4TU
 city: Durdar
-street: "Durdar Road"
-housenumber: 514
-phone: "+44 1228 536011"
+street: Durdar Road
+housenumber: "514"
+phone: +44 1228 536011
 opening_hours: ""
-website: "http://www.durdargarage.hpi.co.uk/dealer/"
+website: http://www.durdargarage.hpi.co.uk/dealer/

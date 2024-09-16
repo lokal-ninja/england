@@ -1,11 +1,11 @@
 id: 641317943
-type: way
+type: node
 latitude: 51.37215
 longitude: 1.12886
-postcode: "CT6 5EW"
+postcode: CT6 5EW
 city: Herne Bay
-street: "William Street"
-housenumber: 11
+street: William Street
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

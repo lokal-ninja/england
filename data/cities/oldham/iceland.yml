@@ -2,10 +2,10 @@ id: 10083270123
 type: node
 latitude: 53.54257
 longitude: -2.11346
-postcode: "OL1 3BB"
+postcode: OL1 3BB
 city: Oldham
-street: "Albion Street"
-housenumber: 11
+street: Albion Street
+housenumber: "11"
 phone: ""
 opening_hours: ""
-website: "https://www.iceland.co.uk/store-finder/store?StoreID=1284&StoreName=OLDHAM"
+website: https://www.iceland.co.uk/store-finder/store?StoreID=1284&StoreName=OLDHAM

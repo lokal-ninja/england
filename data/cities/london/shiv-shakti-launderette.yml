@@ -2,10 +2,10 @@ id: 2715362370
 type: node
 latitude: 51.45471
 longitude: -0.03752
-postcode: "SE4 2BY"
+postcode: SE4 2BY
 city: London
-street: "Brockley Road"
-housenumber: 366
+street: Brockley Road
+housenumber: "366"
 phone: ""
-opening_hours: "09:00-18:00"
+opening_hours: 09:00-18:00
 website: ""

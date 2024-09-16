@@ -1,11 +1,11 @@
 id: 238067503
-type: way
+type: node
 latitude: 50.9131
 longitude: -1.30395
-postcode: "SO30 4QU"
+postcode: SO30 4QU
 city: Southampton
-street: "St John's Centre"
-housenumber: 10
+street: St John's Centre
+housenumber: "10"
 phone: "+441489788665"
 opening_hours: ""
 website: ""

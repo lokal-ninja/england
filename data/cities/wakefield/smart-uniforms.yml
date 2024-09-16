@@ -1,11 +1,11 @@
 id: 444571968
-type: way
+type: node
 latitude: 53.68327
 longitude: -1.49486
-postcode: "WF1 1QE"
+postcode: WF1 1QE
 city: Wakefield
-street: "The Springs"
-housenumber: 20
+street: The Springs
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

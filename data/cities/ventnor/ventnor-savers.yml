@@ -2,10 +2,10 @@ id: 5488629198
 type: node
 latitude: 50.59464
 longitude: -1.20518
-postcode: "PO38 1ST"
+postcode: PO38 1ST
 city: Ventnor
-street: "Pier Street"
-housenumber: 15
+street: Pier Street
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

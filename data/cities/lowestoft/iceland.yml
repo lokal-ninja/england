@@ -1,11 +1,11 @@
 id: 1102602799
-type: way
+type: node
 latitude: 52.47656
 longitude: 1.75123
-postcode: "NR32 1LR"
+postcode: NR32 1LR
 city: Lowestoft
-street: "The Britten Centre"
-housenumber: 15
+street: The Britten Centre
+housenumber: "15"
 phone: ""
 opening_hours: ""
-website: "https://www.iceland.co.uk/store-finder/store?StoreID=752&StoreName=LOWESTOFT"
+website: https://www.iceland.co.uk/store-finder/store?StoreID=752&StoreName=LOWESTOFT

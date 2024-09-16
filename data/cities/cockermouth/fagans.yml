@@ -2,10 +2,10 @@ id: 3595942097
 type: node
 latitude: 54.66346
 longitude: -3.36549
-postcode: "CA13 9JS"
+postcode: CA13 9JS
 city: Cockermouth
-street: "Main Street"
-housenumber: 51
-phone: "+44 1900 823223"
-opening_hours: "Mo-Sa 09:30-17:00"
+street: Main Street
+housenumber: "51"
+phone: +44 1900 823223
+opening_hours: Mo-Sa 09:30-17:00
 website: ""

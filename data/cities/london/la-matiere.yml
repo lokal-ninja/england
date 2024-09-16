@@ -1,11 +1,11 @@
 id: 99379742
-type: way
+type: node
 latitude: 51.52608
 longitude: -0.10889
-postcode: "EC1R 4QL"
+postcode: EC1R 4QL
 city: London
-street: "Exmouth Market"
-housenumber: 47
+street: Exmouth Market
+housenumber: "47"
 phone: ""
 opening_hours: ""
 website: ""

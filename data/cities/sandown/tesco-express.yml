@@ -1,11 +1,11 @@
 id: 361033839
-type: way
+type: node
 latitude: 50.65023
 longitude: -1.16725
-postcode: "PO36 9EH"
+postcode: PO36 9EH
 city: Sandown
-street: "The Fairway"
-housenumber: 
+street: The Fairway
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 06:00-23:00"
+opening_hours: Mo-Su 06:00-23:00
 website: ""

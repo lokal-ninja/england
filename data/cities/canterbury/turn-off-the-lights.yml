@@ -1,11 +1,11 @@
 id: 371472098
-type: way
+type: node
 latitude: 51.27956
 longitude: 1.08089
-postcode: "CT1 2HX"
+postcode: CT1 2HX
 city: Canterbury
-street: "Sun Street"
-housenumber: 20
+street: Sun Street
+housenumber: "20"
 phone: ""
 opening_hours: ""
-website: "https://turnoffthelights.co.uk/"
+website: https://turnoffthelights.co.uk/

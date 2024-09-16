@@ -1,11 +1,11 @@
 id: 961016436
-type: way
+type: node
 latitude: 51.44669
 longitude: -0.32753
-postcode: "TW1 3NJ"
+postcode: TW1 3NJ
 city: Twickenham
-street: "Church Street"
-housenumber: 25
+street: Church Street
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

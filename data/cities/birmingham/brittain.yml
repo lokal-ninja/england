@@ -1,11 +1,11 @@
 id: 186604442
-type: way
+type: node
 latitude: 52.45976
 longitude: -1.94717
-postcode: "B17 9NR"
+postcode: B17 9NR
 city: Birmingham
-street: "High Street"
-housenumber: 97
+street: High Street
+housenumber: "97"
 phone: ""
 opening_hours: ""
 website: ""

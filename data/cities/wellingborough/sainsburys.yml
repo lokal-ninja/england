@@ -1,11 +1,11 @@
 id: 98364624
-type: way
+type: node
 latitude: 52.29196
 longitude: -0.72109
-postcode: "NN8 3GZ"
+postcode: NN8 3GZ
 city: Wellingborough
-street: "Northampton Road"
-housenumber: 260
+street: Northampton Road
+housenumber: "260"
 phone: ""
 opening_hours: ""
-website: "https://stores.sainsburys.co.uk/0610/wellingborough"
+website: https://stores.sainsburys.co.uk/0610/wellingborough

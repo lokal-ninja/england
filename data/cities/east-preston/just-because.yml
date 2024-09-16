@@ -1,11 +1,11 @@
 id: 1206968939
-type: way
+type: node
 latitude: 50.81055
 longitude: -0.48064
-postcode: "BN16 1JN"
+postcode: BN16 1JN
 city: East Preston
-street: "Sea Road"
-housenumber: 9
+street: Sea Road
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

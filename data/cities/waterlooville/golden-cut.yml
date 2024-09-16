@@ -1,11 +1,11 @@
 id: 1313120996
-type: way
+type: node
 latitude: 50.87986
 longitude: -1.03045
 postcode: ""
 city: Waterlooville
-street: "The Precinct"
-housenumber: 12
+street: The Precinct
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 09:00-18:00; Su 10:00-"
+opening_hours: Mo-Sa 09:00-18:00; Su 10:00-
 website: ""

@@ -1,11 +1,11 @@
 id: 274233955
-type: way
+type: node
 latitude: 51.01435
 longitude: -3.10394
-postcode: "TA1 4ER"
+postcode: TA1 4ER
 city: Taunton
-street: "Bath Place"
-housenumber: 
-phone: "+44 1823 330694"
-opening_hours: "Mo,Tu,We,Fr 09:00-18:00; Th 09:00-20:00; Sa 08:30-15:00"
-website: "https://www.legendsbarbershop-taunton.co.uk/"
+street: Bath Place
+housenumber: ""
+phone: +44 1823 330694
+opening_hours: Mo,Tu,We,Fr 09:00-18:00; Th 09:00-20:00; Sa 08:30-15:00
+website: https://www.legendsbarbershop-taunton.co.uk/

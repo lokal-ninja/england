@@ -1,11 +1,11 @@
 id: 161716900
-type: way
+type: node
 latitude: 51.51672
 longitude: -0.07572
 postcode: ""
 city: London
-street: "Wentworth Street"
-housenumber: 23
+street: Wentworth Street
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

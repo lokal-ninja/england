@@ -1,11 +1,11 @@
 id: 123397679
-type: way
+type: node
 latitude: 52.1543
 longitude: -0.46493
-postcode: "MK41 7QF"
+postcode: MK41 7QF
 city: Bedford
-street: "Brickhill Drive"
-housenumber: 93
+street: Brickhill Drive
+housenumber: "93"
 phone: ""
 opening_hours: ""
 website: ""

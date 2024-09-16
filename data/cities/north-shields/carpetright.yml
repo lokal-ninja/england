@@ -1,11 +1,12 @@
 id: 767361683
-type: way
+type: node
 latitude: 55.01148
 longitude: -1.48362
 postcode: ""
 city: North Shields
-street: "Coast Road Retail Park"
-housenumber: 
-phone: "+44 191 814 9850"
-opening_hours: "Mo 09:30-18:00; Tu 09:30-19:00; We 09:30-18:00; Th 09:30-19:00; Fr 09:30-18:00; Sa 09:00-18:00; Su 10:00-16:00"
-website: "https://www.carpet-right.co.uk/stores/north-shields-carpetright"
+street: Coast Road Retail Park
+housenumber: ""
+phone: +44 191 814 9850
+opening_hours: Mo 09:30-18:00; Tu 09:30-19:00; We 09:30-18:00; Th 09:30-19:00; Fr
+    09:30-18:00; Sa 09:00-18:00; Su 10:00-16:00
+website: https://www.carpet-right.co.uk/stores/north-shields-carpetright

@@ -1,11 +1,11 @@
 id: 1066251233
-type: way
+type: node
 latitude: 51.41419
 longitude: -0.052
-postcode: "SE20 7EU"
+postcode: SE20 7EU
 city: London
-street: "High Street"
-housenumber: 144
+street: High Street
+housenumber: "144"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1141587118
-type: way
+type: node
 latitude: 51.43733
 longitude: 0.04304
-postcode: "SE9 4QW"
+postcode: SE9 4QW
 city: London
-street: "Mottingham Road"
-housenumber: 24
-phone: "+44 800 977 7766"
+street: Mottingham Road
+housenumber: "24"
+phone: +44 800 977 7766
 opening_hours: ""
-website: "https://www.lidl.co.uk/s/en-GB/store-finder/london/24-mottingham-road/"
+website: https://www.lidl.co.uk/s/en-GB/store-finder/london/24-mottingham-road/

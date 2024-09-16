@@ -1,11 +1,11 @@
 id: 871580656
-type: way
+type: node
 latitude: 53.58713
 longitude: -2.47143
-postcode: "BL1 5NZ"
+postcode: BL1 5NZ
 city: Bolton
-street: "Markland Hill Lane"
-housenumber: 82
+street: Markland Hill Lane
+housenumber: "82"
 phone: ""
 opening_hours: ""
 website: ""

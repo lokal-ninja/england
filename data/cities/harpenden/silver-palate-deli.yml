@@ -1,11 +1,11 @@
 id: 1308825543
-type: way
+type: node
 latitude: 51.8155
 longitude: -0.35455
-postcode: "AL5 4HU"
+postcode: AL5 4HU
 city: Harpenden
-street: "Vaughan Road"
-housenumber: 3
-phone: "+44 1582 343943"
-opening_hours: "Mo-Sa 08:00-17:00; Su 08:30-16:00"
-website: "https://www.silverpalate.co.uk/harpendendeli"
+street: Vaughan Road
+housenumber: "3"
+phone: +44 1582 343943
+opening_hours: Mo-Sa 08:00-17:00; Su 08:30-16:00
+website: https://www.silverpalate.co.uk/harpendendeli

@@ -1,11 +1,11 @@
 id: 1111189455
-type: way
+type: node
 latitude: 51.87192
 longitude: -2.24537
-postcode: "GL1 2SQ"
+postcode: GL1 2SQ
 city: Gloucester
-street: "Mercia Road"
-housenumber: 
+street: Mercia Road
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.lidl.co.uk/s/en-GB/store-finder/gloucester/mercia-road/"
+website: https://www.lidl.co.uk/s/en-GB/store-finder/gloucester/mercia-road/

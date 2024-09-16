@@ -4,8 +4,8 @@ latitude: 52.92979
 longitude: 1.30304
 postcode: ""
 city: Cromer
-street: "Church Street"
-housenumber: 5
+street: Church Street
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "http://sidestrandhall.org.uk/strands-charity/"
+website: http://sidestrandhall.org.uk/strands-charity/

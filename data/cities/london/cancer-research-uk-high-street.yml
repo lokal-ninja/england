@@ -1,11 +1,11 @@
 id: 379967717
-type: way
+type: node
 latitude: 51.42508
 longitude: -0.21682
-postcode: "SW19 5EG"
+postcode: SW19 5EG
 city: London
-street: "High Street"
-housenumber: 83
+street: High Street
+housenumber: "83"
 phone: ""
 opening_hours: ""
-website: "https://www.cancerresearchuk.org/get-involved/find-a-shop/wimbledon-village"
+website: https://www.cancerresearchuk.org/get-involved/find-a-shop/wimbledon-village

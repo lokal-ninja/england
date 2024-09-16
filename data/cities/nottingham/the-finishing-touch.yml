@@ -1,11 +1,11 @@
 id: 475691983
-type: way
+type: node
 latitude: 52.97419
 longitude: -1.08078
-postcode: "NG4 3HL"
+postcode: NG4 3HL
 city: Nottingham
-street: "Main Road"
-housenumber: 42
-phone: "+44 115 940 3762"
-opening_hours: "Mo-Tu, Th-Fr 10:00-16:00; Sa 09:00-13:00"
-website: "http://www.tftcakes.co.uk/"
+street: Main Road
+housenumber: "42"
+phone: +44 115 940 3762
+opening_hours: Mo-Tu, Th-Fr 10:00-16:00; Sa 09:00-13:00
+website: http://www.tftcakes.co.uk/

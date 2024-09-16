@@ -1,11 +1,11 @@
 id: 1117673157
-type: way
+type: node
 latitude: 53.54193
 longitude: -2.72983
-postcode: "WN8 0AG"
+postcode: WN8 0AG
 city: Skelmersdale
-street: "Ormskirk Road"
-housenumber: 34
+street: Ormskirk Road
+housenumber: "34"
 phone: ""
-opening_hours: "PH,Mo-Su 07:00-22:00"
-website: "https://www.coop.co.uk/store-finder/WN8-0AG/34-ormskirk-road"
+opening_hours: PH,Mo-Su 07:00-22:00
+website: https://www.coop.co.uk/store-finder/WN8-0AG/34-ormskirk-road

@@ -1,11 +1,11 @@
 id: 93710845
-type: way
+type: node
 latitude: 51.50317
 longitude: -0.07679
 postcode: ""
 city: London
-street: "Tower Bridge Road"
-housenumber: 216
+street: Tower Bridge Road
+housenumber: "216"
 phone: ""
 opening_hours: ""
 website: ""

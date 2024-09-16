@@ -1,11 +1,11 @@
 id: 107045773
-type: way
+type: node
 latitude: 52.62718
 longitude: 1.29653
-postcode: "NR1 3DD"
+postcode: NR1 3DD
 city: Norwich
 street: ""
-housenumber: 73
+housenumber: "73"
 phone: ""
 opening_hours: ""
-website: "https://new-ultd.co.uk/hl/"
+website: https://new-ultd.co.uk/hl/

@@ -1,11 +1,11 @@
 id: 651678998
-type: way
+type: node
 latitude: 51.5186
 longitude: -0.22779
-postcode: "W12 0HQ"
+postcode: W12 0HQ
 city: London
-street: "Pavilion Parade, Wood Lane"
-housenumber: 3
+street: Pavilion Parade, Wood Lane
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

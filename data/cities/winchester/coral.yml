@@ -1,11 +1,11 @@
 id: 310741650
-type: way
+type: node
 latitude: 51.0617
 longitude: -1.31052
-postcode: "SO23 9BA"
+postcode: SO23 9BA
 city: Winchester
-street: "High Street"
-housenumber: 160
+street: High Street
+housenumber: "160"
 phone: ""
 opening_hours: ""
 website: ""

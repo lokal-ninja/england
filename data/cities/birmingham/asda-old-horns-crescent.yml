@@ -1,11 +1,11 @@
 id: 72357002
-type: way
+type: node
 latitude: 52.55133
 longitude: -1.91085
-postcode: "B43 7HA"
+postcode: B43 7HA
 city: Birmingham
-street: "Old Horns Crescent"
-housenumber: 6
+street: Old Horns Crescent
+housenumber: "6"
 phone: ""
-opening_hours: "Mo 07:30-24:00; Tu-Fr 00:00-24:00; Sa 00:00-22:00; Su 10:00-16:00"
+opening_hours: Mo 07:30-24:00; Tu-Fr 00:00-24:00; Sa 00:00-22:00; Su 10:00-16:00
 website: ""

@@ -2,10 +2,10 @@ id: 3902978505
 type: node
 latitude: 53.83207
 longitude: -1.64348
-postcode: "LS18 4QD"
+postcode: LS18 4QD
 city: Leeds
-street: "New Road Side"
-housenumber: 129
+street: New Road Side
+housenumber: "129"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 114930000
-type: way
+type: node
 latitude: 51.79343
 longitude: 1.14844
-postcode: "CO15 3AG"
+postcode: CO15 3AG
 city: Clacton-on-Sea
 street: ""
-housenumber: 67
+housenumber: "67"
 phone: ""
 opening_hours: ""
 website: ""

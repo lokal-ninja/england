@@ -1,11 +1,11 @@
 id: 145698434
-type: way
+type: node
 latitude: 53.02663
 longitude: -2.17967
-postcode: "ST1 5QZ"
+postcode: ST1 5QZ
 city: Stoke-on-Trent
-street: "Marsh Street North"
-housenumber: 109
+street: Marsh Street North
+housenumber: "109"
 phone: ""
 opening_hours: ""
 website: ""

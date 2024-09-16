@@ -1,11 +1,11 @@
 id: 470223407
-type: way
+type: node
 latitude: 52.60251
 longitude: -1.91301
 postcode: ""
 city: Walsall
-street: "Portland Road"
-housenumber: 57
+street: Portland Road
+housenumber: "57"
 phone: ""
 opening_hours: ""
 website: ""

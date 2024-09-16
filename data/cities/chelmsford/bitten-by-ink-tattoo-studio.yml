@@ -1,11 +1,11 @@
 id: 688200439
-type: way
+type: node
 latitude: 51.73707
 longitude: 0.46718
-postcode: "CM1 1HX"
+postcode: CM1 1HX
 city: Chelmsford
-street: "Wells Street"
-housenumber: 21
-phone: "+44 1245 351222"
+street: Wells Street
+housenumber: "21"
+phone: +44 1245 351222
 opening_hours: ""
-website: "https://www.bittenbyink.com/"
+website: https://www.bittenbyink.com/

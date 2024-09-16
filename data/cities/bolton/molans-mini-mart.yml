@@ -1,11 +1,11 @@
 id: 709164098
-type: way
+type: node
 latitude: 53.55747
 longitude: -2.44971
-postcode: "BL3 3JU"
+postcode: BL3 3JU
 city: Bolton
-street: "Morris Green Lane"
-housenumber: 187
+street: Morris Green Lane
+housenumber: "187"
 phone: ""
 opening_hours: ""
 website: ""

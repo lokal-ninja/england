@@ -1,11 +1,11 @@
 id: 653455812
-type: way
+type: node
 latitude: 51.60564
 longitude: -1.25117
-postcode: "OX11 8QL"
+postcode: OX11 8QL
 city: Didcot
-street: "Park Road"
-housenumber: 1
+street: Park Road
+housenumber: "1"
 phone: ""
-opening_hours: "closed"
+opening_hours: closed
 website: ""

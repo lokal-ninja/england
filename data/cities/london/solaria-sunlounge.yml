@@ -2,10 +2,10 @@ id: 444687599
 type: node
 latitude: 51.48983
 longitude: -0.16287
-postcode: "SW3 4NJ"
+postcode: SW3 4NJ
 city: London
-street: "King's Road"
-housenumber: 49
-phone: "+44 20 7901 9009"
+street: King's Road
+housenumber: "49"
+phone: +44 20 7901 9009
 opening_hours: ""
-website: "https://www.solaria.co.uk/"
+website: https://www.solaria.co.uk/

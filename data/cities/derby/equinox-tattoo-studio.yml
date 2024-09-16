@@ -1,11 +1,11 @@
 id: 388427630
-type: way
+type: node
 latitude: 52.90628
 longitude: -1.38096
-postcode: "DE72 3JU"
+postcode: DE72 3JU
 city: Derby
-street: "Nottingham Road"
-housenumber: 10
+street: Nottingham Road
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 385277890
-type: way
+type: node
 latitude: 53.83777
 longitude: -1.64108
-postcode: "LS18 5LJ"
+postcode: LS18 5LJ
 city: Leeds
-street: "Town Street"
-housenumber: 39
+street: Town Street
+housenumber: "39"
 phone: ""
 opening_hours: ""
 website: ""

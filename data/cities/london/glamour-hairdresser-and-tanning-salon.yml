@@ -1,11 +1,11 @@
 id: 507095507
-type: way
+type: node
 latitude: 51.56043
 longitude: 0.00773
-postcode: "E11 4PB"
+postcode: E11 4PB
 city: London
-street: "High Road Leytonstone"
-housenumber: 541
-phone: "+44 20 8556 0939"
+street: High Road Leytonstone
+housenumber: "541"
+phone: +44 20 8556 0939
 opening_hours: ""
-website: "https://www.beglamour.co.uk/"
+website: https://www.beglamour.co.uk/

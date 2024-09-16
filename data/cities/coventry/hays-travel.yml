@@ -4,8 +4,9 @@ latitude: 52.40859
 longitude: -1.51266
 postcode: ""
 city: Coventry
-street: "Smithford Way"
-housenumber: 4
-phone: "+44 24 7699 3855"
-opening_hours: "Mo 09:15-17:30; Tu 09:30-17:30; We-Fr 09:15-17:30; Sa 09:15-17:00; Su closed"
-website: "https://www.haystravel.co.uk/branches/coventry/"
+street: Smithford Way
+housenumber: "4"
+phone: +44 24 7699 3855
+opening_hours: Mo 09:15-17:30; Tu 09:30-17:30; We-Fr 09:15-17:30; Sa 09:15-17:00;
+    Su closed
+website: https://www.haystravel.co.uk/branches/coventry/

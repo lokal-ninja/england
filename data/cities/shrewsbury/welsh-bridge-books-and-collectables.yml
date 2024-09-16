@@ -1,11 +1,11 @@
 id: 850304342
-type: way
+type: node
 latitude: 52.71093
 longitude: -2.75884
 postcode: ""
 city: Shrewsbury
-street: "Frankwell"
-housenumber: 127
-phone: "+44 1743 359995"
+street: Frankwell
+housenumber: "127"
+phone: +44 1743 359995
 opening_hours: ""
-website: "https://www.welshbridge.com/"
+website: https://www.welshbridge.com/

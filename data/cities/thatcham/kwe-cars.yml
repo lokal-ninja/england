@@ -1,11 +1,11 @@
 id: 474170474
-type: way
+type: node
 latitude: 51.37375
 longitude: -1.27985
-postcode: "RG19 6HW"
+postcode: RG19 6HW
 city: Thatcham
-street: "Greenham Business Park"
-housenumber: 86
+street: Greenham Business Park
+housenumber: "86"
 phone: "+44163530030"
-opening_hours: "Mo-Fr 08:30-17:00"
-website: "https://www.kwecars.com/"
+opening_hours: Mo-Fr 08:30-17:00
+website: https://www.kwecars.com/

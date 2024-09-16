@@ -1,11 +1,11 @@
 id: 509649642
-type: way
+type: node
 latitude: 51.5672
 longitude: 0.01075
-postcode: "E11 3DA"
+postcode: E11 3DA
 city: London
-street: "High Road Leytonstone"
-housenumber: 620
+street: High Road Leytonstone
+housenumber: "620"
 phone: ""
 opening_hours: ""
 website: ""

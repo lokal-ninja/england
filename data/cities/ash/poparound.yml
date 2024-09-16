@@ -2,10 +2,10 @@ id: 1928581042
 type: node
 latitude: 51.27908
 longitude: 1.27555
-postcode: "CT3 2HH"
+postcode: CT3 2HH
 city: Ash
-street: "The Street"
-housenumber: 31
+street: The Street
+housenumber: "31"
 phone: ""
 opening_hours: ""
-website: "https://www.premier-stores.co.uk/our-stores/poparound"
+website: https://www.premier-stores.co.uk/our-stores/poparound

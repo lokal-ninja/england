@@ -1,11 +1,12 @@
 id: 152267926
-type: way
+type: node
 latitude: 54.57662
 longitude: -1.2802
-postcode: "TS18 2SP"
+postcode: TS18 2SP
 city: Stockton-on-Tees
 street: ""
-housenumber: 
-phone: "+44 1642 931780"
-opening_hours: "Mo 09:30-18:00; Tu 09:30-19:00; We 09:30-18:00; Th 09:30-19:00; Fr 09:30-18:00; Sa 09:00-18:00; Su 10:00-16:00"
-website: "https://www.carpet-right.co.uk/stores/stockton-carpetright"
+housenumber: ""
+phone: +44 1642 931780
+opening_hours: Mo 09:30-18:00; Tu 09:30-19:00; We 09:30-18:00; Th 09:30-19:00; Fr
+    09:30-18:00; Sa 09:00-18:00; Su 10:00-16:00
+website: https://www.carpet-right.co.uk/stores/stockton-carpetright

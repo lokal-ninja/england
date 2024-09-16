@@ -1,11 +1,11 @@
 id: 435431255
-type: way
+type: node
 latitude: 50.97946
 longitude: -3.22668
-postcode: "TA21 8QT"
+postcode: TA21 8QT
 city: Wellington
-street: "High Street"
-housenumber: 25
+street: High Street
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

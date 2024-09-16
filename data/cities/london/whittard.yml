@@ -2,10 +2,10 @@ id: 2536625834
 type: node
 latitude: 51.50928
 longitude: -0.1245
-postcode: "WC2R 0QN"
+postcode: WC2R 0QN
 city: London
-street: "Strand"
-housenumber: 435
+street: Strand
+housenumber: "435"
 phone: ""
 opening_hours: ""
 website: ""

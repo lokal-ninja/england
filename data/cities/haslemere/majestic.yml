@@ -1,11 +1,12 @@
 id: 133380116
-type: way
+type: node
 latitude: 51.08793
 longitude: -0.72489
-postcode: "GU27 1BZ"
+postcode: GU27 1BZ
 city: Haslemere
-street: "Wey Hill"
-housenumber: 25
-phone: "+44 1428 654929"
-opening_hours: "Mo-We 10:00-19:00; Th-Fr 10:00-20:00; Sa 09:00-19:00; Su 10:00-17:00; PH 10:00-17:00"
-website: "https://www.majestic.co.uk/stores/haslemere"
+street: Wey Hill
+housenumber: "25"
+phone: +44 1428 654929
+opening_hours: Mo-We 10:00-19:00; Th-Fr 10:00-20:00; Sa 09:00-19:00; Su 10:00-17:00;
+    PH 10:00-17:00
+website: https://www.majestic.co.uk/stores/haslemere

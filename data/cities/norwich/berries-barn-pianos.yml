@@ -2,10 +2,10 @@ id: 11385606082
 type: node
 latitude: 52.62871
 longitude: 1.26937
-postcode: "NR2 3PD"
+postcode: NR2 3PD
 city: Norwich
-street: "Earlham Road"
+street: Earlham Road
 housenumber: 1A Earlham  House Shops
 phone: ""
-opening_hours: "by appointment"
+opening_hours: '"by appointment"'
 website: ""

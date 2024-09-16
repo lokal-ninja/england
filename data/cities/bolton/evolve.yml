@@ -1,11 +1,11 @@
 id: 698963788
-type: way
+type: node
 latitude: 53.54833
 longitude: -2.52026
-postcode: "BL5 3AL"
+postcode: BL5 3AL
 city: Bolton
-street: "Mill Street"
-housenumber: 2
-phone: "+44 1942 842454"
+street: Mill Street
+housenumber: "2"
+phone: +44 1942 842454
 opening_hours: ""
-website: "https://www.evolveskinclinic.com"
+website: https://www.evolveskinclinic.com

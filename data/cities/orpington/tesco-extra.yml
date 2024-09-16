@@ -1,11 +1,11 @@
 id: 144473838
-type: way
+type: node
 latitude: 51.37457
 longitude: 0.09662
-postcode: "BR6 0NH"
+postcode: BR6 0NH
 city: Orpington
-street: "Augustus Lane"
-housenumber: 9
-phone: "+44 345 026 9567"
+street: Augustus Lane
+housenumber: "9"
+phone: +44 345 026 9567
 opening_hours: ""
 website: ""

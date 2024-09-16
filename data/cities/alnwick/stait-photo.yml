@@ -2,10 +2,10 @@ id: 1606910324
 type: node
 latitude: 55.4136
 longitude: -1.70652
-postcode: "NE66 1HZ"
+postcode: NE66 1HZ
 city: Alnwick
-street: "Bondgate"
-housenumber: 61
+street: Bondgate
+housenumber: "61"
 phone: "+441665602600"
-opening_hours: "Mo-Sa 09:00-17:00"
-website: "https://www.staitphoto.co.uk/"
+opening_hours: Mo-Sa 09:00-17:00
+website: https://www.staitphoto.co.uk/

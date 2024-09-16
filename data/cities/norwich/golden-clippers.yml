@@ -1,11 +1,11 @@
 id: 1211787118
-type: way
+type: node
 latitude: 52.53662
 longitude: 1.48041
-postcode: "NR14 6NA"
+postcode: NR14 6NA
 city: Norwich
-street: "Bridge Street"
-housenumber: 25
+street: Bridge Street
+housenumber: "25"
 phone: ""
 opening_hours: ""
-website: "https://www.edp24.co.uk/news/23819969.golden-clippers-turkish-hairdressers-loddon-opens/"
+website: https://www.edp24.co.uk/news/23819969.golden-clippers-turkish-hairdressers-loddon-opens/

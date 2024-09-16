@@ -1,11 +1,11 @@
 id: 172275275
-type: way
+type: node
 latitude: 51.48883
 longitude: -0.16507
-postcode: "SW3 4NX"
+postcode: SW3 4NX
 city: London
-street: "King's Road"
-housenumber: 85
+street: King's Road
+housenumber: "85"
 phone: ""
-opening_hours: "Mo-Sa 07:30-21:00; Su 12:00-18:00"
+opening_hours: Mo-Sa 07:30-21:00; Su 12:00-18:00
 website: ""

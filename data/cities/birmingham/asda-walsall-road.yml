@@ -1,11 +1,11 @@
 id: 254257103
-type: way
+type: node
 latitude: 52.51868
 longitude: -1.90283
-postcode: "B42 1AB"
+postcode: B42 1AB
 city: Birmingham
-street: "Walsall Road"
-housenumber: 
+street: Walsall Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-We 08:30-20:00; Th-Fr 08:30-22:00; Sa 08:00-20:00; Su 11:00-17:00"
+opening_hours: Mo-We 08:30-20:00; Th-Fr 08:30-22:00; Sa 08:00-20:00; Su 11:00-17:00
 website: ""

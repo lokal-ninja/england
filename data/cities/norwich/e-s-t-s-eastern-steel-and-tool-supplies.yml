@@ -1,11 +1,11 @@
 id: 624197485
-type: way
+type: node
 latitude: 52.63433
 longitude: 1.25781
-postcode: "NR5 8PF"
+postcode: NR5 8PF
 city: Norwich
 street: ""
-housenumber: 8
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 168335223
-type: way
+type: node
 latitude: 51.45702
 longitude: -0.19746
 postcode: ""
 city: London
-street: "Wandsworth High Street"
-housenumber: 187
+street: Wandsworth High Street
+housenumber: "187"
 phone: ""
 opening_hours: ""
 website: ""

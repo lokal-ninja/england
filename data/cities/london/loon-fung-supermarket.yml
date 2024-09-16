@@ -1,11 +1,11 @@
 id: 993439439
-type: way
+type: node
 latitude: 51.51195
 longitude: -0.13048
-postcode: "W1D 5QG"
+postcode: W1D 5QG
 city: London
-street: "Gerrard Street"
+street: Gerrard Street
 housenumber: 42-44
-phone: "+44 20 7437 7332"
-opening_hours: "Mo-Sa 10:00-21:00; Su 10:00-21:00; Ph 10:00-21:00"
-website: "http://www.loonfung.com/ourstores_chi.htm"
+phone: +44 20 7437 7332
+opening_hours: Mo-Sa 10:00-21:00; Su 10:00-21:00; Ph 10:00-21:00
+website: http://www.loonfung.com/ourstores_chi.htm

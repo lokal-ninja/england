@@ -1,11 +1,11 @@
 id: 150412186
-type: way
+type: node
 latitude: 53.71079
 longitude: -1.70166
-postcode: "WF15 6PD"
+postcode: WF15 6PD
 city: Liversedge
-street: "Halifax Road"
-housenumber: 206
+street: Halifax Road
+housenumber: "206"
 phone: ""
 opening_hours: ""
 website: ""

@@ -2,10 +2,10 @@ id: 6804141556
 type: node
 latitude: 51.51561
 longitude: -0.08952
-postcode: "EC2R 6AR"
+postcode: EC2R 6AR
 city: London
-street: "Moorgate"
-housenumber: 17
+street: Moorgate
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Fr 07:00-22:00; Sa,Su 08:00-20:00"
-website: "https://www.coop.co.uk/store-finder/EC2R-6AR/17-moorgate"
+opening_hours: Mo-Fr 07:00-22:00; Sa,Su 08:00-20:00
+website: https://www.coop.co.uk/store-finder/EC2R-6AR/17-moorgate

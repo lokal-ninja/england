@@ -1,11 +1,11 @@
 id: 233771272
-type: way
+type: node
 latitude: 52.45809
 longitude: -1.86629
-postcode: "B11 1UB"
+postcode: B11 1UB
 city: Birmingham
-street: "Medlicott Road"
-housenumber: 118
+street: Medlicott Road
+housenumber: "118"
 phone: ""
 opening_hours: ""
 website: ""

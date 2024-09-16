@@ -1,11 +1,11 @@
 id: 432380096
-type: way
+type: node
 latitude: 51.46569
 longitude: -0.26664
-postcode: "SW14 8AE"
+postcode: SW14 8AE
 city: London
-street: "Sheen Lane"
-housenumber: 115
+street: Sheen Lane
+housenumber: "115"
 phone: ""
 opening_hours: ""
 website: ""

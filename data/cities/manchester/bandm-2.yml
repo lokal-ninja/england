@@ -1,11 +1,11 @@
 id: 1174839045
-type: way
+type: node
 latitude: 53.46147
 longitude: -2.24761
-postcode: "M15 5AF"
+postcode: M15 5AF
 city: Manchester
 street: ""
-housenumber: 
-phone: "+44 330 838 9282"
-opening_hours: "Mo-Sa 08:00-21:00; Su 10:30-16:30"
-website: "https://www.bmstores.co.uk/stores/hulme-282"
+housenumber: ""
+phone: +44 330 838 9282
+opening_hours: Mo-Sa 08:00-21:00; Su 10:30-16:30
+website: https://www.bmstores.co.uk/stores/hulme-282

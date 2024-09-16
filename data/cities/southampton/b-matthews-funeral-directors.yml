@@ -1,11 +1,11 @@
 id: 774988237
-type: way
+type: node
 latitude: 50.89571
 longitude: -1.36445
-postcode: "SO19 9AP"
+postcode: SO19 9AP
 city: Southampton
-street: "Portsmouth Road"
-housenumber: 146
+street: Portsmouth Road
+housenumber: "146"
 phone: ""
 opening_hours: ""
 website: ""

@@ -2,10 +2,10 @@ id: 3769825607
 type: node
 latitude: 50.83629
 longitude: -0.77778
-postcode: "PO19 1HA"
+postcode: PO19 1HA
 city: Chichester
-street: "East Street"
-housenumber: 80
+street: East Street
+housenumber: "80"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1246468478
-type: way
+type: node
 latitude: 50.36023
 longitude: -4.09107
-postcode: "PL9 7AX"
+postcode: PL9 7AX
 city: Plymouth
-street: "The Broadway"
-housenumber: 37
+street: The Broadway
+housenumber: "37"
 phone: ""
 opening_hours: ""
 website: ""

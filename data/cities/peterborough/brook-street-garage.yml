@@ -1,11 +1,11 @@
 id: 733485101
-type: way
+type: node
 latitude: 52.5762
 longitude: -0.23798
-postcode: "PE1 1TU"
+postcode: PE1 1TU
 city: Peterborough
-street: "Brook Street"
-housenumber: 33
+street: Brook Street
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

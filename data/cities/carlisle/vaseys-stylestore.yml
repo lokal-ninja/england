@@ -1,11 +1,11 @@
 id: 238574858
-type: way
+type: node
 latitude: 54.88765
 longitude: -2.92922
-postcode: "CA1 1TF"
+postcode: CA1 1TF
 city: Carlisle
-street: "Lancaster Street"
-housenumber: 2
-phone: "+44 1228 525436"
+street: Lancaster Street
+housenumber: "2"
+phone: +44 1228 525436
 opening_hours: ""
-website: "https://www.vaseysfurniture.co.uk/"
+website: https://www.vaseysfurniture.co.uk/

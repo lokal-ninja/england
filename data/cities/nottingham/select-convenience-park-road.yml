@@ -1,11 +1,11 @@
 id: 338163301
-type: way
+type: node
 latitude: 53.02242
 longitude: -1.1753
-postcode: "NG6 8TQ"
+postcode: NG6 8TQ
 city: Nottingham
-street: "Park Road"
-housenumber: 57
+street: Park Road
+housenumber: "57"
 phone: ""
 opening_hours: ""
 website: ""

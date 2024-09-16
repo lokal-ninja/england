@@ -1,11 +1,11 @@
 id: 497191058
-type: way
+type: node
 latitude: 52.42712
 longitude: -1.44497
-postcode: "CV2 2EG"
+postcode: CV2 2EG
 city: Coventry
-street: "Woodway Lane"
-housenumber: 59
-phone: "+44 24 7630 4141"
-opening_hours: "Mo-Fr 08:00-17:30; Sa,Su off"
-website: "http://www.thevassspecialists.co.uk/"
+street: Woodway Lane
+housenumber: "59"
+phone: +44 24 7630 4141
+opening_hours: Mo-Fr 08:00-17:30; Sa,Su off
+website: http://www.thevassspecialists.co.uk/

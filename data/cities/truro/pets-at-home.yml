@@ -1,11 +1,11 @@
 id: 783755570
-type: way
+type: node
 latitude: 50.26529
 longitude: -5.09735
-postcode: "TR1 3LN"
+postcode: TR1 3LN
 city: Truro
-street: "Penventinnie Lane"
-housenumber: 
+street: Penventinnie Lane
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-18:00; Su 10:00-16:00"
-website: "https://community.petsathome.com/store/truro/"
+opening_hours: Mo-Sa 09:00-18:00; Su 10:00-16:00
+website: https://community.petsathome.com/store/truro/

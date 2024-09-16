@@ -2,10 +2,10 @@ id: 8232814284
 type: node
 latitude: 53.71155
 longitude: -0.87373
-postcode: "DN14 6LA"
+postcode: DN14 6LA
 city: Goole
-street: "Bournville"
-housenumber: 43
+street: Bournville
+housenumber: "43"
 phone: "+447955216736"
-opening_hours: "by appointment"
+opening_hours: '"by appointment"'
 website: ""

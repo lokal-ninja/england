@@ -1,11 +1,11 @@
 id: 140680414
-type: way
+type: node
 latitude: 53.35862
 longitude: -1.47542
-postcode: "S8 0RL"
+postcode: S8 0RL
 city: Sheffield
-street: "Chesterfield Road"
-housenumber: 31
+street: Chesterfield Road
+housenumber: "31"
 phone: ""
-opening_hours: "Mo-Sa 10:30-18:00"
-website: "https://www.allcarrotnostick.co.uk/"
+opening_hours: Mo-Sa 10:30-18:00
+website: https://www.allcarrotnostick.co.uk/

@@ -1,11 +1,11 @@
 id: 25929724
-type: way
+type: node
 latitude: 51.77106
 longitude: -0.22455
-postcode: "AL10 0QN"
+postcode: AL10 0QN
 city: Hatfield
-street: "Homestead Road"
-housenumber: 39
+street: Homestead Road
+housenumber: "39"
 phone: ""
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.coop.co.uk/store-finder/AL10-0QN/39-homestead-road"
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.coop.co.uk/store-finder/AL10-0QN/39-homestead-road

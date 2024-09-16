@@ -1,11 +1,11 @@
 id: 622299425
-type: way
+type: node
 latitude: 52.67299
 longitude: -0.30662
-postcode: "PE6 8EN"
+postcode: PE6 8EN
 city: Peterborough
-street: "Horsegate"
-housenumber: 4
+street: Horsegate
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

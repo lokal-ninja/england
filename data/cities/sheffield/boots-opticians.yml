@@ -1,11 +1,11 @@
 id: 168548089
-type: way
+type: node
 latitude: 53.36421
 longitude: -1.47155
-postcode: "S2 4DX"
+postcode: S2 4DX
 city: Sheffield
-street: "Queens Road"
-housenumber: 633
+street: Queens Road
+housenumber: "633"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1047710168
-type: way
+type: node
 latitude: 51.44571
 longitude: 0.04047
 postcode: ""
 city: London
-street: "Newmarket Green"
-housenumber: 9
-phone: "+44 20 8859 0086"
+street: Newmarket Green
+housenumber: "9"
+phone: +44 20 8859 0086
 opening_hours: ""
 website: ""

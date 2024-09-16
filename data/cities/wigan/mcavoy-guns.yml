@@ -1,11 +1,11 @@
 id: 137563850
-type: way
+type: node
 latitude: 53.58565
 longitude: -2.66594
-postcode: "WN6 0TG"
+postcode: WN6 0TG
 city: Wigan
-street: "School Lane"
-housenumber: 33
+street: School Lane
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

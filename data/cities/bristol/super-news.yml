@@ -1,11 +1,11 @@
 id: 384584084
-type: way
+type: node
 latitude: 51.49367
 longitude: -2.61873
-postcode: "BS9 3BY"
+postcode: BS9 3BY
 city: Bristol
-street: "High Street"
-housenumber: 29
+street: High Street
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

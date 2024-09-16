@@ -1,11 +1,11 @@
 id: 365883974
-type: way
+type: node
 latitude: 51.51419
 longitude: -0.06249
-postcode: "E1 2LP"
+postcode: E1 2LP
 city: London
-street: "Hessel Street"
-housenumber: 18
+street: Hessel Street
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

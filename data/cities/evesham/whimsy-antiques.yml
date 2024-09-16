@@ -1,11 +1,11 @@
 id: 291446193
-type: way
+type: node
 latitude: 52.09042
 longitude: -1.93738
-postcode: "WR11 3LF"
+postcode: WR11 3LF
 city: Evesham
-street: "Port Street"
-housenumber: 81
+street: Port Street
+housenumber: "81"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 452820445
-type: way
+type: node
 latitude: 51.57584
 longitude: -0.01244
-postcode: "E10 6AJ"
+postcode: E10 6AJ
 city: London
-street: "Lea Bridge Road"
-housenumber: 587
+street: Lea Bridge Road
+housenumber: "587"
 phone: ""
 opening_hours: ""
 website: ""

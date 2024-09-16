@@ -1,11 +1,11 @@
 id: 750258752
-type: way
+type: node
 latitude: 51.38164
 longitude: 1.33753
-postcode: "CT8 8QY"
+postcode: CT8 8QY
 city: Westgate-on-Sea
-street: "Station Road"
-housenumber: 55
+street: Station Road
+housenumber: "55"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00; PH,Su 10:00-16:00"
+opening_hours: Mo-Sa 09:00-21:00; PH,Su 10:00-16:00
 website: ""

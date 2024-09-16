@@ -2,10 +2,10 @@ id: 5488202622
 type: node
 latitude: 50.5954
 longitude: -1.20417
-postcode: "PO38 1LT"
+postcode: PO38 1LT
 city: Ventnor
-street: "High Street"
-housenumber: 44
+street: High Street
+housenumber: "44"
 phone: ""
 opening_hours: ""
 website: ""

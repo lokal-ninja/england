@@ -1,11 +1,11 @@
 id: 471923791
-type: way
+type: node
 latitude: 51.4571
 longitude: -2.58709
-postcode: "BS1 3BZ"
+postcode: BS1 3BZ
 city: Bristol
-street: "Philadelphia Street"
-housenumber: 3
-phone: "+44 117 280 0234"
-opening_hours: "Mo-Sa 10:00-18:00; Su 11:00-17:00"
-website: "https://www.castlefineart.com/galleries/bristol"
+street: Philadelphia Street
+housenumber: "3"
+phone: +44 117 280 0234
+opening_hours: Mo-Sa 10:00-18:00; Su 11:00-17:00
+website: https://www.castlefineart.com/galleries/bristol

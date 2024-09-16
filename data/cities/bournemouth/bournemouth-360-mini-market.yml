@@ -1,11 +1,11 @@
 id: 931373369
-type: way
+type: node
 latitude: 50.74363
 longitude: -1.87909
-postcode: "BH9 2EY"
+postcode: BH9 2EY
 city: Bournemouth
-street: "Wimborne Road"
-housenumber: 466
+street: Wimborne Road
+housenumber: "466"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 119367910
-type: way
+type: node
 latitude: 54.74887
 longitude: -1.4428
-postcode: "DH6 3HY"
+postcode: DH6 3HY
 city: Durham
-street: "Dunelm Road"
-housenumber: 101
-phone: "+44 1429 820944"
-opening_hours: "Mo-Sa 07:00-23:00; Su 09:00-16:00"
-website: "https://www.budgens.co.uk/our-stores/thornley"
+street: Dunelm Road
+housenumber: "101"
+phone: +44 1429 820944
+opening_hours: Mo-Sa 07:00-23:00; Su 09:00-16:00
+website: https://www.budgens.co.uk/our-stores/thornley

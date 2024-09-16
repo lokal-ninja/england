@@ -1,11 +1,11 @@
 id: 350662153
-type: way
+type: node
 latitude: 51.44304
 longitude: -0.35115
-postcode: "TW2 5AN"
+postcode: TW2 5AN
 city: Twickenham
-street: "Staines Road"
-housenumber: 90
-phone: "+44 20 8898 0524"
+street: Staines Road
+housenumber: "90"
+phone: +44 20 8898 0524
 opening_hours: ""
-website: "https://www.twickenham-ssc.co.uk/"
+website: https://www.twickenham-ssc.co.uk/

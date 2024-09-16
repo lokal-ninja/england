@@ -1,11 +1,11 @@
 id: 55282721
-type: way
+type: node
 latitude: 52.24411
 longitude: 0.58041
 postcode: ""
 city: Barrow
-street: "The Street"
-housenumber: 
+street: The Street
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

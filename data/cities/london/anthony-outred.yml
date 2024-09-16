@@ -1,11 +1,11 @@
 id: 535769896
-type: way
+type: node
 latitude: 51.49018
 longitude: -0.15503
 postcode: ""
 city: London
-street: "Pimlico Road"
-housenumber: 74
+street: Pimlico Road
+housenumber: "74"
 phone: ""
 opening_hours: ""
-website: "https://www.outred.co.uk/"
+website: https://www.outred.co.uk/

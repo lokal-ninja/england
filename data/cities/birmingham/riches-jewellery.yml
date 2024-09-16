@@ -1,11 +1,11 @@
 id: 111300692
-type: way
+type: node
 latitude: 52.4872
 longitude: -1.9109
-postcode: "B18 6JQ"
+postcode: B18 6JQ
 city: Birmingham
-street: "Warstone Lane"
-housenumber: 32
-phone: "0121 233 3326"
+street: Warstone Lane
+housenumber: "32"
+phone: 0121 233 3326
 opening_hours: ""
 website: ""

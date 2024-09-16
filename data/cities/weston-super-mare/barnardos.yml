@@ -1,11 +1,11 @@
 id: 465911770
-type: way
+type: node
 latitude: 51.36024
 longitude: -2.92743
-postcode: "BS22 6JD"
+postcode: BS22 6JD
 city: Weston-super-Mare
-street: "High Street"
-housenumber: 172
+street: High Street
+housenumber: "172"
 phone: "01934525692"
-opening_hours: "Mo-Sa 09:00-17:00; Su 10:00-16:00"
+opening_hours: Mo-Sa 09:00-17:00; Su 10:00-16:00
 website: ""

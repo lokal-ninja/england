@@ -1,11 +1,11 @@
 id: 261007879
-type: way
+type: node
 latitude: 51.45711
 longitude: -2.60708
-postcode: "BS8 1RE"
+postcode: BS8 1RE
 city: Bristol
-street: "Queen's Road"
-housenumber: 62
+street: Queen's Road
+housenumber: "62"
 phone: ""
-opening_hours: "Mo-Sa 09:30-18:00; Su 11:00-17:00"
+opening_hours: Mo-Sa 09:30-18:00; Su 11:00-17:00
 website: ""

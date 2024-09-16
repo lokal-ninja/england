@@ -1,11 +1,11 @@
 id: 420004525
-type: way
+type: node
 latitude: 53.26004
 longitude: -2.15463
-postcode: "SK11 8RR"
+postcode: SK11 8RR
 city: Macclesfield
-street: "Chester Road"
-housenumber: 129
+street: Chester Road
+housenumber: "129"
 phone: ""
 opening_hours: ""
 website: ""

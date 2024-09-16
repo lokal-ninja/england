@@ -2,10 +2,10 @@ id: 6858475084
 type: node
 latitude: 51.23156
 longitude: -0.3335
-postcode: "RH4 1BL"
+postcode: RH4 1BL
 city: Dorking
-street: "West Street"
-housenumber: 1
+street: West Street
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

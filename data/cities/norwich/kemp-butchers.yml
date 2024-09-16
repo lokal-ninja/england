@@ -1,11 +1,11 @@
 id: 119370219
-type: way
+type: node
 latitude: 52.65442
 longitude: 1.29305
-postcode: "NR3 3AA"
+postcode: NR3 3AA
 city: Norwich
-street: "Catton Grove Road"
-housenumber: 84
+street: Catton Grove Road
+housenumber: "84"
 phone: ""
 opening_hours: ""
 website: ""

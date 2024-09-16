@@ -1,11 +1,11 @@
 id: 878928697
-type: way
+type: node
 latitude: 51.52105
 longitude: 0.0697
-postcode: "E6 6LG"
+postcode: E6 6LG
 city: London
-street: "Claps Gate Lane"
-housenumber: 4
+street: Claps Gate Lane
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su 11:00-17:00"
-website: "https://www.lidl.co.uk/s/en-GB/store-finder/beckton/claps-gate-lane/"
+opening_hours: Mo-Sa 07:00-22:00; Su 11:00-17:00
+website: https://www.lidl.co.uk/s/en-GB/store-finder/beckton/claps-gate-lane/

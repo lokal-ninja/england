@@ -1,11 +1,12 @@
 id: 364108832
-type: way
+type: node
 latitude: 52.37458
 longitude: -1.26036
-postcode: "CV21 2PS"
+postcode: CV21 2PS
 city: Rugby
-street: "Regent Street"
-housenumber: 44
+street: Regent Street
+housenumber: "44"
 phone: ""
-opening_hours: "Mo 09:00-17:30; Tu-Th 09:00-18:00; Fr 08:30-18:00; Sa 08:30-16:30; Su off"
-website: "https://www.experiencesalons.co.uk/"
+opening_hours: Mo 09:00-17:30; Tu-Th 09:00-18:00; Fr 08:30-18:00; Sa 08:30-16:30;
+    Su off
+website: https://www.experiencesalons.co.uk/

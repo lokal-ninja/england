@@ -1,11 +1,11 @@
 id: 158236087
-type: way
+type: node
 latitude: 54.77765
 longitude: -1.64593
-postcode: "DH7 7PX"
+postcode: DH7 7PX
 city: Durham
-street: "Station Road"
-housenumber: 5
+street: Station Road
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 775349902
-type: way
+type: node
 latitude: 51.01247
 longitude: -0.08148
-postcode: "RH16 2HN"
+postcode: RH16 2HN
 city: Haywards Heath
-street: "High Street"
-housenumber: 43
-phone: "+44 1444 483700"
-opening_hours: "Mo-Fr 08:30-17:00; Sa 08:00-17:00; Su 10:00-15:00"
-website: "http://fieldandforrest.com"
+street: High Street
+housenumber: "43"
+phone: +44 1444 483700
+opening_hours: Mo-Fr 08:30-17:00; Sa 08:00-17:00; Su 10:00-15:00
+website: http://fieldandforrest.com

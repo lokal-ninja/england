@@ -1,11 +1,11 @@
 id: 448420162
-type: way
+type: node
 latitude: 51.49198
 longitude: -0.14048
-postcode: "SW1V 1RY"
+postcode: SW1V 1RY
 city: London
-street: "Warwick Way"
-housenumber: 38
+street: Warwick Way
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

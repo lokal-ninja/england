@@ -1,11 +1,11 @@
 id: 292127264
-type: way
+type: node
 latitude: 52.06114
 longitude: 1.14525
-postcode: "IP1 2NH"
+postcode: IP1 2NH
 city: Ipswich
-street: "Norwich Road"
+street: Norwich Road
 housenumber: 20-28
-phone: "+44 1473 256061"
-opening_hours: "Mo-Sa 09:00-17:30"
-website: "https://www.coes.co.uk/pages/ipswich"
+phone: +44 1473 256061
+opening_hours: Mo-Sa 09:00-17:30
+website: https://www.coes.co.uk/pages/ipswich

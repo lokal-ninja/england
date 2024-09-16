@@ -2,10 +2,10 @@ id: 9223153622
 type: node
 latitude: 51.49123
 longitude: -0.20726
-postcode: "W14 9EP"
+postcode: W14 9EP
 city: London
-street: "North End Road"
-housenumber: 64
-phone: "+44 20 7603 9323"
+street: North End Road
+housenumber: "64"
+phone: +44 20 7603 9323
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 234009291
-type: way
+type: node
 latitude: 53.80026
 longitude: -1.57987
-postcode: "LS12 2TU"
+postcode: LS12 2TU
 city: Leeds
-street: "Canal Road"
-housenumber: 
-phone: "+44 113 279 0101"
+street: Canal Road
+housenumber: ""
+phone: +44 113 279 0101
 opening_hours: ""
 website: ""

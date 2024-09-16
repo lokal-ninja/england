@@ -1,11 +1,11 @@
 id: 138470034
-type: way
+type: node
 latitude: 51.33776
 longitude: -0.11475
-postcode: "CR8 2AP"
+postcode: CR8 2AP
 city: Purley
-street: "Station Approach"
-housenumber: 6
-phone: "+44 20 8763 0988"
+street: Station Approach
+housenumber: "6"
+phone: +44 20 8763 0988
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 392380442
-type: way
+type: node
 latitude: 50.84144
 longitude: 0.4701
-postcode: "TN39 3JR"
+postcode: TN39 3JR
 city: Bexhill-on-Sea
-street: "London Road"
-housenumber: 13
+street: London Road
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 09:30-17:00; Sa by appointment"
+opening_hours: Mo-Fr 09:30-17:00; Sa "by appointment"
 website: ""

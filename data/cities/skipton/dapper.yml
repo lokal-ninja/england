@@ -1,11 +1,11 @@
 id: 362906970
-type: way
+type: node
 latitude: 53.98345
 longitude: -2.10454
-postcode: "BD23 3RA"
+postcode: BD23 3RA
 city: Skipton
-street: "High Street"
-housenumber: 29
-phone: "+44 1756 749950"
+street: High Street
+housenumber: "29"
+phone: +44 1756 749950
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 161420192
-type: way
+type: node
 latitude: 51.51376
 longitude: -0.11099
-postcode: "EC4Y 1AU"
+postcode: EC4Y 1AU
 city: London
-street: "Fleet Street"
-housenumber: 16
+street: Fleet Street
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00"
+opening_hours: Mo-Fr 09:00-18:00
 website: ""

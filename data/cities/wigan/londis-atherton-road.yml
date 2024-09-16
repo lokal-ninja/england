@@ -1,11 +1,11 @@
 id: 998220650
-type: way
+type: node
 latitude: 53.5259
 longitude: -2.55421
-postcode: "WN2 4SJ"
+postcode: WN2 4SJ
 city: Wigan
-street: "Atherton Road"
-housenumber: 621
+street: Atherton Road
+housenumber: "621"
 phone: ""
 opening_hours: ""
 website: ""

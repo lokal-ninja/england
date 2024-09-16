@@ -1,11 +1,11 @@
 id: 339687852
-type: way
+type: node
 latitude: 54.11125
 longitude: -3.2252
-postcode: "LA14 2HW"
+postcode: LA14 2HW
 city: Barrow-in-Furness
-street: "Church Street"
-housenumber: 116
+street: Church Street
+housenumber: "116"
 phone: ""
 opening_hours: ""
 website: ""

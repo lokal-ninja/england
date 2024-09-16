@@ -1,11 +1,11 @@
 id: 108866030
-type: way
+type: node
 latitude: 52.62526
 longitude: 1.29117
-postcode: "NR2 1SB"
+postcode: NR2 1SB
 city: Norwich
-street: "Saint Stephen's Arcade"
-housenumber: 107
-phone: "+44 1603 230590"
-opening_hours: "Mo-Sa 09:00-18:00; Su 10:00-16:30"
-website: "https://www.theperfumeshop.com/store/norwich-the-perfume-shop-chapelfield-shopping-centre"
+street: Saint Stephen's Arcade
+housenumber: "107"
+phone: +44 1603 230590
+opening_hours: Mo-Sa 09:00-18:00; Su 10:00-16:30
+website: https://www.theperfumeshop.com/store/norwich-the-perfume-shop-chapelfield-shopping-centre

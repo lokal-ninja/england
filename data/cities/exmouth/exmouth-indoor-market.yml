@@ -1,11 +1,11 @@
 id: 1012169788
-type: way
+type: node
 latitude: 50.62014
 longitude: -3.41436
-postcode: "EX8 1AB"
+postcode: EX8 1AB
 city: Exmouth
-street: "The Strand"
-housenumber: 12
+street: The Strand
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

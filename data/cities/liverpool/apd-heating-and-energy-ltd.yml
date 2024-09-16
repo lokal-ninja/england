@@ -1,11 +1,11 @@
 id: 1292435040
-type: way
+type: node
 latitude: 53.40642
 longitude: -2.87316
-postcode: "L16 2NG"
+postcode: L16 2NG
 city: Liverpool
-street: "Rimmer Avenue"
-housenumber: 20
+street: Rimmer Avenue
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

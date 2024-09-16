@@ -1,11 +1,11 @@
 id: 65621653
-type: way
-latitude: 52.91997
-longitude: -1.5057
-postcode: "DE22 3NH"
+type: node
+latitude: 52.91976
+longitude: -1.50559
+postcode: DE22 3NH
 city: Derby
-street: "Kingsway"
-housenumber: 
+street: Kingsway
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:30; Sa 08:00-20:00; Su 10:30-16:30"
+opening_hours: Mo-Fr 08:00-20:30; Sa 08:00-20:00; Su 10:30-16:30
 website: ""

@@ -1,11 +1,11 @@
 id: 156614979
-type: way
+type: node
 latitude: 51.51167
 longitude: -0.13518
 postcode: ""
 city: London
-street: "Brewer Street"
-housenumber: 49
+street: Brewer Street
+housenumber: "49"
 phone: ""
 opening_hours: ""
-website: "https://www.ninos.co.uk/"
+website: https://www.ninos.co.uk/

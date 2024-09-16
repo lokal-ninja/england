@@ -1,11 +1,11 @@
 id: 166001401
-type: way
+type: node
 latitude: 51.90058
 longitude: -2.07283
-postcode: "GL52 2LX"
+postcode: GL52 2LX
 city: Cheltenham
-street: "Winchcombe Street"
-housenumber: 14
+street: Winchcombe Street
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 08:00-17:00"
-website: "https://sweeneytom.com/"
+opening_hours: Mo-Fr 10:00-19:00; Sa 08:00-17:00
+website: https://sweeneytom.com/

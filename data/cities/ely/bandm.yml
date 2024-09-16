@@ -1,11 +1,11 @@
 id: 57833289
-type: way
+type: node
 latitude: 52.40016
 longitude: 0.26663
-postcode: "CB7 4ZH"
+postcode: CB7 4ZH
 city: Ely
-street: "The Cloisters"
-housenumber: 7
-phone: "+44 333 034 6836"
-opening_hours: "Mo-Sa 08:00-20:00; Su 10:00-16:00"
-website: "https://www.bmstores.co.uk/stores/ely-836"
+street: The Cloisters
+housenumber: "7"
+phone: +44 333 034 6836
+opening_hours: Mo-Sa 08:00-20:00; Su 10:00-16:00
+website: https://www.bmstores.co.uk/stores/ely-836

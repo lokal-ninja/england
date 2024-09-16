@@ -1,11 +1,11 @@
 id: 131649918
-type: way
+type: node
 latitude: 52.91038
 longitude: -1.47816
-postcode: "DE23 6WD"
+postcode: DE23 6WD
 city: Derby
-street: "Normanton Road"
-housenumber: 298
-phone: "+44 1332 406003"
-opening_hours: "Mo-Fr 09:00-17:30, Sa 10:00-17:30, Su 10:00-17:00"
-website: "https://islamic-relief.org.uk/"
+street: Normanton Road
+housenumber: "298"
+phone: +44 1332 406003
+opening_hours: Mo-Fr 09:00-17:30, Sa 10:00-17:30, Su 10:00-17:00
+website: https://islamic-relief.org.uk/

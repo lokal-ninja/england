@@ -1,11 +1,11 @@
 id: 163757988
-type: way
+type: node
 latitude: 51.01621
 longitude: -3.09028
-postcode: "TA1 3EZ"
+postcode: TA1 3EZ
 city: Taunton
-street: "East Reach"
+street: East Reach
 housenumber: 57, 57A
-phone: "+44 1823 276590"
-opening_hours: "Mo,Tu 10:00-16:00; Th,Fr 10:00-17:00; Sa 09:00-17:30; Su by appointment"
-website: "https://www.14andsixpence.co.uk/"
+phone: +44 1823 276590
+opening_hours: Mo,Tu 10:00-16:00; Th,Fr 10:00-17:00; Sa 09:00-17:30; Su "by appointment"
+website: https://www.14andsixpence.co.uk/

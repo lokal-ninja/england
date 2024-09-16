@@ -1,11 +1,11 @@
 id: 290081137
-type: way
+type: node
 latitude: 51.50961
 longitude: -0.14166
 postcode: ""
 city: London
-street: "New Bond Street"
-housenumber: 179
+street: New Bond Street
+housenumber: "179"
 phone: ""
 opening_hours: ""
-website: "https://www.mikimoto.co.uk/"
+website: https://www.mikimoto.co.uk/

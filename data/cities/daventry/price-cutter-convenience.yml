@@ -2,10 +2,10 @@ id: 4896092291
 type: node
 latitude: 52.25072
 longitude: -1.15814
-postcode: "NN11 4EA"
+postcode: NN11 4EA
 city: Daventry
-street: "London Road"
-housenumber: 60
+street: London Road
+housenumber: "60"
 phone: ""
 opening_hours: ""
 website: ""

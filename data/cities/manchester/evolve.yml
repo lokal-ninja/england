@@ -2,10 +2,10 @@ id: 11207226437
 type: node
 latitude: 53.4855
 longitude: -2.23676
-postcode: "M4 4AE"
+postcode: M4 4AE
 city: Manchester
-street: "New George Street"
-housenumber: 2
+street: New George Street
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

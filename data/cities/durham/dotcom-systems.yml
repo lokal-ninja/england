@@ -1,11 +1,11 @@
 id: 374565591
-type: way
+type: node
 latitude: 54.77788
 longitude: -1.58234
-postcode: "DH1 4SF"
+postcode: DH1 4SF
 city: Durham
-street: "North Road"
-housenumber: 50
+street: North Road
+housenumber: "50"
 phone: ""
 opening_hours: ""
-website: "https://www.dotcomsystems.co.uk/"
+website: https://www.dotcomsystems.co.uk/

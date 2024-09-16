@@ -1,11 +1,11 @@
 id: 1084596346
-type: way
+type: node
 latitude: 52.48235
 longitude: 1.75767
-postcode: "NR32 1UL"
+postcode: NR32 1UL
 city: Lowestoft
-street: "Whapload Road"
-housenumber: 205
+street: Whapload Road
+housenumber: "205"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-16:00"
-website: "https://www.lkqcorp.com/"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-16:00
+website: https://www.lkqcorp.com/

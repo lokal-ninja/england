@@ -1,11 +1,11 @@
 id: 288394618
-type: way
+type: node
 latitude: 51.32395
 longitude: -0.57507
-postcode: "GU21 4SZ"
+postcode: GU21 4SZ
 city: Horsell
-street: "High Street"
-housenumber: 82
-phone: "+441483 730100"
+street: High Street
+housenumber: "82"
+phone: +441483 730100
 opening_hours: ""
-website: "https://www.lisajoneshair.co.uk/"
+website: https://www.lisajoneshair.co.uk/

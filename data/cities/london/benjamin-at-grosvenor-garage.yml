@@ -1,11 +1,11 @@
 id: 393277824
-type: way
+type: node
 latitude: 51.46672
 longitude: -0.25495
-postcode: "SW14 8SZ"
+postcode: SW14 8SZ
 city: London
-street: "Fitzgerald Avenue"
-housenumber: 
-phone: "+44 20 8876 5150"
-opening_hours: "Mo-Fr 08:00-17:30"
+street: Fitzgerald Avenue
+housenumber: ""
+phone: +44 20 8876 5150
+opening_hours: Mo-Fr 08:00-17:30
 website: ""

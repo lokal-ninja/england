@@ -1,11 +1,11 @@
 id: 211777895
-type: way
+type: node
 latitude: 52.47481
 longitude: 1.75161
-postcode: "NR32 1EP"
+postcode: NR32 1EP
 city: Lowestoft
-street: "London Road North"
-housenumber: 46
+street: London Road North
+housenumber: "46"
 phone: ""
 opening_hours: ""
-website: "https://www.boots.com/stores/3049-lowestoft-london-road-opticians-nr32-1ep"
+website: https://www.boots.com/stores/3049-lowestoft-london-road-opticians-nr32-1ep

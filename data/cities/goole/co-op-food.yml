@@ -1,11 +1,11 @@
 id: 181771798
-type: way
+type: node
 latitude: 53.74521
 longitude: -0.86404
-postcode: "DN14 7SU"
+postcode: DN14 7SU
 city: Goole
-street: "Hailgate"
-housenumber: 69
-phone: "+44 1430 431650"
-opening_hours: "Mo-Sa 07:00-22:00; Su 10:00-16:00"
-website: "https://www.coop.co.uk/store-finder/DN14-7GQ/charles-briggs-avenue"
+street: Hailgate
+housenumber: "69"
+phone: +44 1430 431650
+opening_hours: Mo-Sa 07:00-22:00; Su 10:00-16:00
+website: https://www.coop.co.uk/store-finder/DN14-7GQ/charles-briggs-avenue

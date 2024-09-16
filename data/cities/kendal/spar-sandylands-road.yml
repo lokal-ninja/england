@@ -1,11 +1,11 @@
 id: 354284502
-type: way
+type: node
 latitude: 54.33266
 longitude: -2.73513
-postcode: "LA9 6EU"
+postcode: LA9 6EU
 city: Kendal
-street: "Sandylands Road"
-housenumber: 37
-phone: "+44 1539 720909"
+street: Sandylands Road
+housenumber: "37"
+phone: +44 1539 720909
 opening_hours: ""
-website: "https://www.spar.co.uk/store-locator/hal13714-spar-sandylands/"
+website: https://www.spar.co.uk/store-locator/hal13714-spar-sandylands/

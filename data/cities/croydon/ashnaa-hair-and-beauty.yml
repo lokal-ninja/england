@@ -1,11 +1,11 @@
 id: 198678789
-type: way
+type: node
 latitude: 51.3737
 longitude: -0.09979
-postcode: "CR0 1PA"
+postcode: CR0 1PA
 city: Croydon
-street: "George Street"
-housenumber: 6
+street: George Street
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

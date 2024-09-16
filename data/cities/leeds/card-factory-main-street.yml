@@ -2,10 +2,10 @@ id: 7485465634
 type: node
 latitude: 53.79465
 longitude: -1.38805
-postcode: "LS25 1AA"
+postcode: LS25 1AA
 city: Leeds
-street: "Main Street"
-housenumber: 36
+street: Main Street
+housenumber: "36"
 phone: ""
 opening_hours: ""
 website: ""

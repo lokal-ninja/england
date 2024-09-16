@@ -1,11 +1,11 @@
 id: 1088323059
-type: way
+type: node
 latitude: 53.39685
 longitude: -2.56641
-postcode: "WA1 3NJ"
+postcode: WA1 3NJ
 city: Warrington
-street: "Manchester Road"
-housenumber: 253
+street: Manchester Road
+housenumber: "253"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:00; Sa 09:00-16:00"
+opening_hours: Mo-Fr 08:30-18:00; Sa 09:00-16:00
 website: ""

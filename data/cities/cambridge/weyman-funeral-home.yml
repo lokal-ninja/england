@@ -1,11 +1,11 @@
 id: 48204812
-type: way
+type: node
 latitude: 52.20609
 longitude: 0.14044
-postcode: "CB1 2QJ"
+postcode: CB1 2QJ
 city: Cambridge
-street: "Abbey Walk"
-housenumber: 26
+street: Abbey Walk
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

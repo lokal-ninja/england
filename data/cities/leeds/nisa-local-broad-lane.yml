@@ -1,11 +1,11 @@
 id: 490514815
-type: way
+type: node
 latitude: 53.81652
 longitude: -1.62834
-postcode: "LS13 2NN"
+postcode: LS13 2NN
 city: Leeds
-street: "Broad Lane"
-housenumber: 306
+street: Broad Lane
+housenumber: "306"
 phone: ""
 opening_hours: ""
 website: ""

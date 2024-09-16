@@ -1,11 +1,11 @@
 id: 442965757
-type: way
+type: node
 latitude: 52.38967
 longitude: -1.55426
-postcode: "CV4 7AN"
+postcode: CV4 7AN
 city: Coventry
-street: "Shultern Lane"
-housenumber: 7
+street: Shultern Lane
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00; Su 10:00-16:00"
+opening_hours: Mo-Sa 08:00-22:00; Su 10:00-16:00
 website: ""

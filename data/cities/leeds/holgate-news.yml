@@ -2,10 +2,10 @@ id: 2125610585
 type: node
 latitude: 53.7966
 longitude: -1.53826
-postcode: "LS2 7DT"
+postcode: LS2 7DT
 city: Leeds
-street: "New York Street"
-housenumber: 29
+street: New York Street
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

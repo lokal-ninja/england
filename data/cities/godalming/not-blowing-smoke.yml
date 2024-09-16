@@ -1,11 +1,11 @@
 id: 955132762
-type: way
+type: node
 latitude: 51.1862
 longitude: -0.61592
-postcode: "GU7 1EL"
+postcode: GU7 1EL
 city: Godalming
-street: "Church Street"
-housenumber: 21
-phone: "+44 1483 861121"
-opening_hours: "Mo-Sa 08:00-18:00"
-website: "https://www.e-liquids.uk/?nbs-customer-migration"
+street: Church Street
+housenumber: "21"
+phone: +44 1483 861121
+opening_hours: Mo-Sa 08:00-18:00
+website: https://www.e-liquids.uk/?nbs-customer-migration

@@ -1,11 +1,11 @@
 id: 603266287
-type: way
+type: node
 latitude: 52.60067
 longitude: 1.19228
-postcode: "NR9 3AS"
+postcode: NR9 3AS
 city: Norwich
-street: "Norwich Road"
-housenumber: 
-phone: "+44 1603 814151"
-opening_hours: "Mo-Sa 09:00-17:00"
-website: "http://www.churchfarmshopandtearoom.co.uk/"
+street: Norwich Road
+housenumber: ""
+phone: +44 1603 814151
+opening_hours: Mo-Sa 09:00-17:00
+website: http://www.churchfarmshopandtearoom.co.uk/

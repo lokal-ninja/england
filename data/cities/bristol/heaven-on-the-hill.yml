@@ -1,11 +1,11 @@
 id: 626400150
-type: way
+type: node
 latitude: 51.48152
 longitude: -2.78185
-postcode: "BS20 6LT"
+postcode: BS20 6LT
 city: Bristol
-street: "Avon Way"
-housenumber: 121
+street: Avon Way
+housenumber: "121"
 phone: ""
 opening_hours: ""
 website: ""

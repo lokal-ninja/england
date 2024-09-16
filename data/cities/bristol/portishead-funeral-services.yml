@@ -1,11 +1,11 @@
 id: 626291149
-type: way
+type: node
 latitude: 51.48365
 longitude: -2.76858
-postcode: "BS20 6EN"
+postcode: BS20 6EN
 city: Bristol
-street: "High Street"
-housenumber: 27
+street: High Street
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

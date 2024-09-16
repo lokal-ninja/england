@@ -1,11 +1,11 @@
 id: 680992872
-type: way
+type: node
 latitude: 52.23246
 longitude: 0.7212
-postcode: "IP33 2RH"
+postcode: IP33 2RH
 city: Bury St Edmunds
 street: ""
-housenumber: 8
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

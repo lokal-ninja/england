@@ -1,11 +1,11 @@
 id: 911523368
-type: way
+type: node
 latitude: 51.79673
 longitude: -0.07672
-postcode: "SG14 1BD"
+postcode: SG14 1BD
 city: Hertford
-street: "Market Street"
-housenumber: 1
-phone: "+44 1992 587737"
+street: Market Street
+housenumber: "1"
+phone: +44 1992 587737
 opening_hours: ""
-website: "https://loveflowers.co.uk"
+website: https://loveflowers.co.uk

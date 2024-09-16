@@ -1,11 +1,11 @@
 id: 230204885
-type: way
+type: node
 latitude: 50.83606
 longitude: -0.7727
-postcode: "PO19 7JG"
+postcode: PO19 7JG
 city: Chichester
-street: "The Hornet"
-housenumber: 16
+street: The Hornet
+housenumber: "16"
 phone: ""
 opening_hours: ""
-website: "https://www.clothkits.co.uk/"
+website: https://www.clothkits.co.uk/

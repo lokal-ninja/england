@@ -1,11 +1,11 @@
 id: 1101051074
-type: way
+type: node
 latitude: 52.47971
 longitude: 1.75543
-postcode: "NR32 1HN"
+postcode: NR32 1HN
 city: Lowestoft
-street: "High Street"
-housenumber: 119
+street: High Street
+housenumber: "119"
 phone: ""
 opening_hours: ""
-website: "https://raphaelcrafts.com/"
+website: https://raphaelcrafts.com/

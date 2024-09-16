@@ -1,11 +1,11 @@
 id: 834353808
-type: way
+type: node
 latitude: 51.51586
 longitude: -0.0639
-postcode: "E1 1HS"
+postcode: E1 1HS
 city: London
-street: "Fordham Street"
-housenumber: 8
+street: Fordham Street
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

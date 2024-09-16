@@ -1,11 +1,11 @@
 id: 75896669
-type: way
+type: node
 latitude: 52.77262
 longitude: -1.56268
-postcode: "DE11 9DR"
+postcode: DE11 9DR
 city: Swadlincote
-street: "Hearthcote Road"
-housenumber: 
-phone: "+44 1283 550955"
-opening_hours: "Mo-Fr 08:00-18:00, Sa 08:00-16:00"
-website: "https://www.autocar-swadlincote.co.uk/"
+street: Hearthcote Road
+housenumber: ""
+phone: +44 1283 550955
+opening_hours: Mo-Fr 08:00-18:00, Sa 08:00-16:00
+website: https://www.autocar-swadlincote.co.uk/

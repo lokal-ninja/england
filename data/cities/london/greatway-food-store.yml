@@ -1,11 +1,11 @@
 id: 542749863
-type: way
+type: node
 latitude: 51.48872
 longitude: -0.13459
-postcode: "SW1V 3AS"
+postcode: SW1V 3AS
 city: London
-street: "Lupus Street"
-housenumber: 7
+street: Lupus Street
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

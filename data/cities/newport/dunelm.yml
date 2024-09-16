@@ -1,11 +1,11 @@
 id: 44654375
-type: way
+type: node
 latitude: 50.70495
 longitude: -1.29389
-postcode: "PO30 5UZ"
+postcode: PO30 5UZ
 city: Newport
-street: "River Way"
-housenumber: 
+street: River Way
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 10:30-16:30"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 10:30-16:30
 website: ""

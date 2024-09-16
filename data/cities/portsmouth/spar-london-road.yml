@@ -1,11 +1,11 @@
 id: 401819221
-type: way
+type: node
 latitude: 50.82582
 longitude: -1.072
-postcode: "PO2 9LD"
+postcode: PO2 9LD
 city: Portsmouth
-street: "London Road"
-housenumber: 456
+street: London Road
+housenumber: "456"
 phone: ""
-opening_hours: "06:00-22:00"
-website: "https://www.spar.co.uk/store-locator/awl30001-spar-london-road/"
+opening_hours: 06:00-22:00
+website: https://www.spar.co.uk/store-locator/awl30001-spar-london-road/

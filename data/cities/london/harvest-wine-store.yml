@@ -1,11 +1,11 @@
 id: 199229629
-type: way
+type: node
 latitude: 51.59612
 longitude: -0.02336
-postcode: "E17 5EW"
+postcode: E17 5EW
 city: London
-street: "Carr Road"
-housenumber: 250
+street: Carr Road
+housenumber: "250"
 phone: ""
 opening_hours: ""
 website: ""

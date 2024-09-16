@@ -1,11 +1,11 @@
 id: 128274639
-type: way
+type: node
 latitude: 52.97446
 longitude: -1.30864
-postcode: "DE7 8FD"
+postcode: DE7 8FD
 city: Ilkeston
-street: "Bath Street"
-housenumber: 66
+street: Bath Street
+housenumber: "66"
 phone: ""
 opening_hours: ""
 website: ""

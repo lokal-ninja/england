@@ -1,11 +1,11 @@
 id: 208913844
-type: way
+type: node
 latitude: 50.91473
 longitude: -1.33884
-postcode: "SO18 5TP"
+postcode: SO18 5TP
 city: Southampton
-street: "Thornhill Park Road"
-housenumber: 11
+street: Thornhill Park Road
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

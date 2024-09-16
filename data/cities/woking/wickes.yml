@@ -1,11 +1,11 @@
 id: 34508783
-type: way
+type: node
 latitude: 51.31291
 longitude: -0.60956
-postcode: "GU21 2WB"
+postcode: GU21 2WB
 city: Woking
-street: "Inkerman Road"
-housenumber: 102
+street: Inkerman Road
+housenumber: "102"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su 10:00-16:00"
+opening_hours: Mo-Sa 08:00-20:00; Su 10:00-16:00
 website: ""

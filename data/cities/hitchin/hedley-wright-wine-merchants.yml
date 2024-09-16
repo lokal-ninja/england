@@ -1,11 +1,11 @@
 id: 1010490151
-type: way
+type: node
 latitude: 51.9629
 longitude: -0.24604
-postcode: "SG4 0JX"
+postcode: SG4 0JX
 city: Hitchin
-street: "Cambridge Road"
-housenumber: 
+street: Cambridge Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 11:00-19:00; Sa 10:00-19:00;Su 11:00-16:00"
+opening_hours: Mo-Fr 11:00-19:00; Sa 10:00-19:00;Su 11:00-16:00
 website: ""

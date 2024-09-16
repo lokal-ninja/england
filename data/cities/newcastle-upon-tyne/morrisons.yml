@@ -1,11 +1,11 @@
 id: 62142501
-type: way
+type: node
 latitude: 54.97706
 longitude: -1.58658
-postcode: "NE6 1EJ"
+postcode: NE6 1EJ
 city: Newcastle Upon Tyne
-street: "Shields Road"
-housenumber: 
+street: Shields Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su 10:00-16:00"
-website: "https://my.morrisons.com/storefinder/91/newcastle-upon-tyne-byker"
+opening_hours: Mo-Sa 07:00-22:00; Su 10:00-16:00
+website: https://my.morrisons.com/storefinder/91/newcastle-upon-tyne-byker

@@ -1,11 +1,11 @@
 id: 437729726
-type: way
+type: node
 latitude: 53.77652
 longitude: -0.26826
-postcode: "HU8 9PD"
+postcode: HU8 9PD
 city: Hull
-street: "Shannon Road"
-housenumber: 82
+street: Shannon Road
+housenumber: "82"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-17:00"
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-17:00
 website: ""

@@ -2,10 +2,10 @@ id: 10176063823
 type: node
 latitude: 50.72738
 longitude: -3.52388
-postcode: "EX4 6NS"
+postcode: EX4 6NS
 city: Exeter
-street: "Sidwell Street"
-housenumber: 43
+street: Sidwell Street
+housenumber: "43"
 phone: ""
-opening_hours: "Mo-Sa 08:30-17:30"
-website: "https://www.carecleanexeter.co.uk/"
+opening_hours: Mo-Sa 08:30-17:30
+website: https://www.carecleanexeter.co.uk/

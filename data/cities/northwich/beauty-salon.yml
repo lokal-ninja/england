@@ -1,11 +1,11 @@
 id: 481460242
-type: way
+type: node
 latitude: 53.23552
 longitude: -2.51075
-postcode: "CW9 8NA"
+postcode: CW9 8NA
 city: Northwich
-street: "London Road"
-housenumber: 469
+street: London Road
+housenumber: "469"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 155511335
-type: way
+type: node
 latitude: 51.51914
 longitude: -0.16836
-postcode: "W2 1DW"
+postcode: W2 1DW
 city: London
-street: "Edgware Road"
-housenumber: 240
+street: Edgware Road
+housenumber: "240"
 phone: ""
-opening_hours: "Mo-Sa 10:00-18:00; Su 12:00-17:00"
+opening_hours: Mo-Sa 10:00-18:00; Su 12:00-17:00
 website: ""

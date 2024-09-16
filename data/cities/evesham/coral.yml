@@ -1,11 +1,11 @@
 id: 292072062
-type: way
+type: node
 latitude: 52.09415
 longitude: -1.94634
-postcode: "WR11 4HG"
+postcode: WR11 4HG
 city: Evesham
-street: "High Street"
-housenumber: 64
+street: High Street
+housenumber: "64"
 phone: ""
 opening_hours: ""
 website: ""

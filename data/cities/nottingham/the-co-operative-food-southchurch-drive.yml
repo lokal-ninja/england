@@ -1,11 +1,11 @@
 id: 221740510
-type: way
+type: node
 latitude: 52.89772
 longitude: -1.18127
-postcode: "NG11 9FE"
+postcode: NG11 9FE
 city: Nottingham
-street: "Southchurch Drive"
-housenumber: 346
+street: Southchurch Drive
+housenumber: "346"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://stores.centralengland.coop/nottinghamshire/nottingham/346-southchurch-drive"
+opening_hours: Mo-Su 07:00-22:00
+website: https://stores.centralengland.coop/nottinghamshire/nottingham/346-southchurch-drive

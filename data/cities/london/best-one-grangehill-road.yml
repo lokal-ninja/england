@@ -1,11 +1,11 @@
 id: 238840662
-type: way
+type: node
 latitude: 51.46087
 longitude: 0.0553
-postcode: "SE9 1SF"
+postcode: SE9 1SF
 city: London
-street: "Grangehill Road"
-housenumber: 141
+street: Grangehill Road
+housenumber: "141"
 phone: ""
 opening_hours: ""
 website: ""

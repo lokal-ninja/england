@@ -1,11 +1,11 @@
 id: 140052396
-type: way
+type: node
 latitude: 51.93723
 longitude: 1.2812
-postcode: "CO12 3AX"
+postcode: CO12 3AX
 city: Dovercourt
-street: "High Street"
-housenumber: 141
+street: High Street
+housenumber: "141"
 phone: ""
 opening_hours: ""
 website: ""

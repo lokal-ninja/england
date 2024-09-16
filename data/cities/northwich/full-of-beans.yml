@@ -1,11 +1,11 @@
 id: 320762349
-type: way
+type: node
 latitude: 53.26233
 longitude: -2.50961
-postcode: "CW9 5DR"
+postcode: CW9 5DR
 city: Northwich
-street: "Witton Street"
-housenumber: 93
-phone: "+44 1606 41778"
+street: Witton Street
+housenumber: "93"
+phone: +44 1606 41778
 opening_hours: ""
 website: ""

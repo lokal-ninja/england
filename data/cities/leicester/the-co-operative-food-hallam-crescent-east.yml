@@ -1,11 +1,11 @@
 id: 208497535
-type: way
+type: node
 latitude: 52.61754
 longitude: -1.17206
 postcode: ""
 city: Leicester
-street: "Hallam Crescent East"
-housenumber: 
+street: Hallam Crescent East
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://stores.centralengland.coop/leicestershire/leicester/170-hallam-crescent-east"
+opening_hours: Mo-Su 07:00-22:00
+website: https://stores.centralengland.coop/leicestershire/leicester/170-hallam-crescent-east

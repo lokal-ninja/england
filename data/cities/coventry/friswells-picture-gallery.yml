@@ -1,11 +1,11 @@
 id: 542962833
-type: way
+type: node
 latitude: 52.39992
 longitude: -1.52991
-postcode: "CV5 6NF"
+postcode: CV5 6NF
 city: Coventry
-street: "Albany Road"
-housenumber: 223
+street: Albany Road
+housenumber: "223"
 phone: ""
 opening_hours: ""
 website: ""

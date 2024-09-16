@@ -1,11 +1,11 @@
 id: 575290230
-type: way
+type: node
 latitude: 51.4763
 longitude: 0.32096
-postcode: "RM17 6NQ"
+postcode: RM17 6NQ
 city: Grays
-street: "Station Approach"
-housenumber: 
-phone: "+44 1375 374181"
+street: Station Approach
+housenumber: ""
+phone: +44 1375 374181
 opening_hours: ""
-website: "https://graysservicestation.co.uk/"
+website: https://graysservicestation.co.uk/

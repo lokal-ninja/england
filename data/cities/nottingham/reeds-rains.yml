@@ -1,11 +1,11 @@
 id: 327309129
-type: way
+type: node
 latitude: 53.01785
 longitude: -1.30676
-postcode: "NG16 3NQ"
+postcode: NG16 3NQ
 city: Nottingham
-street: "Nottingham Road"
-housenumber: 50
+street: Nottingham Road
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

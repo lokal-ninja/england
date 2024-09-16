@@ -1,11 +1,11 @@
 id: 109278027
-type: way
+type: node
 latitude: 53.3792
 longitude: -1.52187
-postcode: "S10 5SG"
+postcode: S10 5SG
 city: Sheffield
-street: "Ringstead Crescent"
-housenumber: 1
+street: Ringstead Crescent
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

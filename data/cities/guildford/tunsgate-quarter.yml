@@ -1,11 +1,11 @@
 id: 61094774
-type: way
+type: node
 latitude: 51.23515
 longitude: -0.57286
-postcode: "GU1 3QY;GU1 3DT;GU1 3QS"
+postcode: GU1 3QY;GU1 3DT;GU1 3QS
 city: Guildford
-street: "Dapdune Road"
-housenumber: 
+street: Dapdune Road
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

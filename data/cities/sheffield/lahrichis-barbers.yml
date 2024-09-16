@@ -1,11 +1,11 @@
 id: 1274522686
-type: way
+type: node
 latitude: 53.37929
 longitude: -1.52075
-postcode: "S10 5RY"
+postcode: S10 5RY
 city: Sheffield
-street: "Sandygate Road"
-housenumber: 42
+street: Sandygate Road
+housenumber: "42"
 phone: ""
 opening_hours: ""
 website: ""

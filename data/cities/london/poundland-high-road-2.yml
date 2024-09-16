@@ -1,11 +1,11 @@
 id: 188277080
-type: way
+type: node
 latitude: 51.61466
 longitude: -0.17627
-postcode: "N12 9QD"
+postcode: N12 9QD
 city: London
-street: "High Road"
-housenumber: 740
+street: High Road
+housenumber: "740"
 phone: ""
-opening_hours: "Mo-Sa 08:30-18:00; Su 11:00-17:00"
+opening_hours: Mo-Sa 08:30-18:00; Su 11:00-17:00
 website: ""

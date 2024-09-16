@@ -2,10 +2,10 @@ id: 9165663030
 type: node
 latitude: 50.61962
 longitude: -3.41225
-postcode: "EX8 1HW"
+postcode: EX8 1HW
 city: Exmouth
-street: "Chapel Street"
-housenumber: 11
+street: Chapel Street
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 09:00-17:00; Su 10:00-16:00; PH 10:00-16:30"
+opening_hours: Mo-Sa 09:00-17:00; Su 10:00-16:00; PH 10:00-16:30
 website: ""

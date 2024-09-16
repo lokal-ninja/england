@@ -1,11 +1,11 @@
 id: 1157522608
-type: way
+type: node
 latitude: 53.36909
 longitude: -1.49493
-postcode: "S11 8PP"
+postcode: S11 8PP
 city: Sheffield
-street: "Ecclesall Road"
-housenumber: 475
-phone: "+44 114 268 5701"
+street: Ecclesall Road
+housenumber: "475"
+phone: +44 114 268 5701
 opening_hours: ""
 website: ""

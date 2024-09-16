@@ -1,11 +1,11 @@
 id: 133331162
-type: way
+type: node
 latitude: 53.97892
 longitude: -1.13398
-postcode: "YO26 6RB"
+postcode: YO26 6RB
 city: York
-street: "Great North Way"
-housenumber: 
+street: Great North Way
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
-website: "https://storelocator.asda.com/yorkshire-&-humber/york/great-north-way"
+opening_hours: 24/7
+website: https://storelocator.asda.com/yorkshire-&-humber/york/great-north-way

@@ -2,10 +2,10 @@ id: 5646392611
 type: node
 latitude: 52.23855
 longitude: -0.89391
-postcode: "NN1 2ED"
+postcode: NN1 2ED
 city: Northampton
-street: "Wood Street"
-housenumber: 3
+street: Wood Street
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

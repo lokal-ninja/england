@@ -1,11 +1,11 @@
 id: 264380042
-type: way
+type: node
 latitude: 51.47357
 longitude: -2.59142
-postcode: "BS7 8BH"
+postcode: BS7 8BH
 city: Bristol
-street: "Gloucester Road"
-housenumber: 64
-phone: "+44 117 942 5148"
-opening_hours: "Mo-Sa 09:00-17:00"
+street: Gloucester Road
+housenumber: "64"
+phone: +44 117 942 5148
+opening_hours: Mo-Sa 09:00-17:00
 website: ""

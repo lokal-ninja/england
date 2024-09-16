@@ -1,11 +1,11 @@
 id: 353946715
-type: way
+type: node
 latitude: 51.45735
 longitude: -2.59
-postcode: "BS1 3XD"
+postcode: BS1 3XD
 city: Bristol
-street: "Union Street"
-housenumber: 25
-phone: "+44 1179290569"
+street: Union Street
+housenumber: "25"
+phone: +44 1179290569
 opening_hours: ""
-website: "https://www.galleriesbristol.co.uk/"
+website: https://www.galleriesbristol.co.uk/

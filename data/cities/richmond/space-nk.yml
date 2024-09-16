@@ -1,11 +1,11 @@
 id: 432808213
-type: way
+type: node
 latitude: 51.45868
 longitude: -0.30556
-postcode: "TW9 1TW"
+postcode: TW9 1TW
 city: Richmond
-street: "Hill Street"
-housenumber: 
+street: Hill Street
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

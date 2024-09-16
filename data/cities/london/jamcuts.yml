@@ -2,10 +2,10 @@ id: 1538908215
 type: node
 latitude: 51.55945
 longitude: -0.11617
-postcode: "N7 6AE"
+postcode: N7 6AE
 city: London
-street: "Seven Sisters Road"
-housenumber: 86
+street: Seven Sisters Road
+housenumber: "86"
 phone: ""
 opening_hours: ""
 website: ""

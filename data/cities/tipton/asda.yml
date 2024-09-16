@@ -1,11 +1,11 @@
 id: 170401215
-type: way
+type: node
 latitude: 52.54504
 longitude: -2.05718
-postcode: "DY4 0BP"
+postcode: DY4 0BP
 city: Tipton
-street: "Wednesbury Oak Road"
-housenumber: 
+street: Wednesbury Oak Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-We 07:00-20:00; Th-Fr 07:00-21:00; Sa 07:00-20:00; Su 10:00-16:00"
+opening_hours: Mo-We 07:00-20:00; Th-Fr 07:00-21:00; Sa 07:00-20:00; Su 10:00-16:00
 website: ""

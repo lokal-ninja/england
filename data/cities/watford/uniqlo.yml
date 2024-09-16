@@ -5,7 +5,7 @@ longitude: -0.3965
 postcode: ""
 city: Watford
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00; Su 11:00-17:00"
-website: "https://www.uniqlo.com/uk/en/content/store-locator.html?storeId=10700044"
+opening_hours: Mo-Sa 09:00-19:00; Su 11:00-17:00
+website: https://www.uniqlo.com/uk/en/content/store-locator.html?storeId=10700044

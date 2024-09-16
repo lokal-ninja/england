@@ -1,11 +1,11 @@
 id: 446736306
-type: way
+type: node
 latitude: 50.71481
 longitude: -2.44099
-postcode: "DT1 1UP"
+postcode: DT1 1UP
 city: Dorchester
-street: "High West Street"
-housenumber: 37
-phone: "+44 1305 265999"
-opening_hours: "Tu-We 09:00-17:30; Th-Fr 09:00-18:00; Sa 08:30-16:00"
+street: High West Street
+housenumber: "37"
+phone: +44 1305 265999
+opening_hours: Tu-We 09:00-17:30; Th-Fr 09:00-18:00; Sa 08:30-16:00
 website: ""

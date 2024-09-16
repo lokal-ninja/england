@@ -1,11 +1,11 @@
 id: 169145380
-type: way
+type: node
 latitude: 52.05345
 longitude: -0.70998
-postcode: "MK15 0DQ"
+postcode: MK15 0DQ
 city: Milton Keynes
-street: "Northfield Drive"
-housenumber: 
-phone: "+44 1908 592502"
-opening_hours: "Mo-Fr 08:00-18:00; Sa-Su closed"
-website: "https://www.tesla.com/en_GB/findus/location/service/miltonkeynesnorthfielddrive"
+street: Northfield Drive
+housenumber: ""
+phone: +44 1908 592502
+opening_hours: Mo-Fr 08:00-18:00; Sa-Su closed
+website: https://www.tesla.com/en_GB/findus/location/service/miltonkeynesnorthfielddrive

@@ -1,11 +1,11 @@
 id: 1136159790
-type: way
+type: node
 latitude: 53.38194
 longitude: -1.47122
-postcode: "S1 2GY"
+postcode: S1 2GY
 city: Sheffield
-street: "Leopold Street"
-housenumber: 11
+street: Leopold Street
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

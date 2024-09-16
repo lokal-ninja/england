@@ -1,11 +1,11 @@
 id: 865416107
-type: way
+type: node
 latitude: 52.75583
 longitude: 0.39835
-postcode: "PE30 1AQ"
+postcode: PE30 1AQ
 city: King's Lynn
-street: "Norfolk Street"
-housenumber: 112
+street: Norfolk Street
+housenumber: "112"
 phone: ""
 opening_hours: ""
-website: "https://youngstersworld.com/"
+website: https://youngstersworld.com/

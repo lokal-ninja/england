@@ -1,11 +1,11 @@
 id: 300717708
-type: way
+type: node
 latitude: 53.47054
 longitude: -2.30283
 postcode: ""
 city: Weatherfield
-street: "Rosamund Street"
-housenumber: 19
+street: Rosamund Street
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Su off Part of the Coronation Street set"
+opening_hours: Mo-Su off "Part of the Coronation Street set"
 website: ""

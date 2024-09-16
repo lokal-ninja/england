@@ -1,11 +1,11 @@
 id: 1173090818
-type: way
+type: node
 latitude: 53.40535
 longitude: -2.98936
-postcode: "L2 9SA"
+postcode: L2 9SA
 city: Liverpool
-street: "Lord Street"
-housenumber: 7
+street: Lord Street
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

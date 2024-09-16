@@ -1,11 +1,11 @@
 id: 503130560
-type: way
+type: node
 latitude: 51.41695
 longitude: -2.49844
-postcode: "BS31 1DP"
+postcode: BS31 1DP
 city: Bristol
-street: "High Street"
-housenumber: 11
+street: High Street
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

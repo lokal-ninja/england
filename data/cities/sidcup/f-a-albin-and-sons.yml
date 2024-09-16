@@ -1,11 +1,11 @@
 id: 767578799
-type: way
+type: node
 latitude: 51.43571
 longitude: 0.10174
-postcode: "DA15 7AA"
+postcode: DA15 7AA
 city: Sidcup
-street: "Station Road"
-housenumber: 163
+street: Station Road
+housenumber: "163"
 phone: ""
 opening_hours: ""
-website: "https://www.albins.co.uk/"
+website: https://www.albins.co.uk/

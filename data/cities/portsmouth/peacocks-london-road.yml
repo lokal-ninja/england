@@ -1,11 +1,11 @@
 id: 666551159
-type: way
+type: node
 latitude: 50.81412
 longitude: -1.07963
-postcode: "PO2 0LN"
+postcode: PO2 0LN
 city: Portsmouth
-street: "London Road"
+street: London Road
 housenumber: 28,30,32
-phone: "+44 23 9269 6614"
-opening_hours: "Mo-Sa 09:30-17:00; Su 10:00-16:00"
-website: "https://www.peacocks.co.uk/store-detail?storeID=6038&storeName=PEACOCKS-PORTSMOUTH"
+phone: +44 23 9269 6614
+opening_hours: Mo-Sa 09:30-17:00; Su 10:00-16:00
+website: https://www.peacocks.co.uk/store-detail?storeID=6038&storeName=PEACOCKS-PORTSMOUTH

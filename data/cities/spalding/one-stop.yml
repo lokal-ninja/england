@@ -1,11 +1,11 @@
 id: 195396959
-type: way
+type: node
 latitude: 52.80438
 longitude: 0.01231
-postcode: "PE12 7LW"
+postcode: PE12 7LW
 city: Spalding
-street: "West End"
-housenumber: 26
+street: West End
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

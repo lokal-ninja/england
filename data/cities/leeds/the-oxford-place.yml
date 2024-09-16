@@ -1,11 +1,11 @@
 id: 954639010
-type: way
+type: node
 latitude: 53.8003
 longitude: -1.55053
-postcode: "LS1 3AX"
+postcode: LS1 3AX
 city: Leeds
-street: "Oxford Place"
-housenumber: 2
+street: Oxford Place
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

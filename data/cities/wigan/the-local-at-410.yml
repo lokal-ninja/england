@@ -1,11 +1,11 @@
 id: 917608808
-type: way
+type: node
 latitude: 53.49617
 longitude: -2.62212
-postcode: "WN4 8UW"
+postcode: WN4 8UW
 city: Wigan
-street: "Bolton Road"
-housenumber: 410
+street: Bolton Road
+housenumber: "410"
 phone: ""
 opening_hours: ""
 website: ""

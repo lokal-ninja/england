@@ -1,11 +1,11 @@
 id: 349913664
-type: way
+type: node
 latitude: 51.5135
 longitude: -0.12846
-postcode: "WC2H 9RY"
+postcode: WC2H 9RY
 city: London
-street: "Earlham Street"
-housenumber: 6
-phone: "+44 20 7379 4254"
-opening_hours: "Mo-Sa 11:00-18:00"
+street: Earlham Street
+housenumber: "6"
+phone: +44 20 7379 4254
+opening_hours: Mo-Sa 11:00-18:00
 website: ""

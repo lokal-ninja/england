@@ -2,10 +2,10 @@ id: 281467853
 type: node
 latitude: 51.23681
 longitude: -0.56848
-postcode: "GU1 3JD"
+postcode: GU1 3JD
 city: Guildford
-street: "High Street"
-housenumber: 220
+street: High Street
+housenumber: "220"
 phone: ""
-opening_hours: "Mo-Sa 09:30-17:30; Su 12:00-16:00"
-website: "https://www.oxfam.org.uk/shops/oxfam-bookshop-guildford/"
+opening_hours: Mo-Sa 09:30-17:30; Su 12:00-16:00
+website: https://www.oxfam.org.uk/shops/oxfam-bookshop-guildford/

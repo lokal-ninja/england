@@ -1,11 +1,11 @@
 id: 531385857
-type: way
+type: node
 latitude: 52.63326
 longitude: 1.27569
-postcode: "NR2 3EA"
+postcode: NR2 3EA
 city: Norwich
-street: "Alexandra Road"
-housenumber: 85
+street: Alexandra Road
+housenumber: "85"
 phone: ""
 opening_hours: ""
 website: ""

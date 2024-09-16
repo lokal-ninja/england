@@ -1,11 +1,11 @@
 id: 286506025
-type: way
+type: node
 latitude: 51.68257
 longitude: -0.31638
-postcode: "WD7 7LB"
+postcode: WD7 7LB
 city: Radlett
-street: "Watling Street"
-housenumber: 361
+street: Watling Street
+housenumber: "361"
 phone: ""
 opening_hours: ""
-website: "https://www.budgens.co.uk/our-stores/radlett"
+website: https://www.budgens.co.uk/our-stores/radlett

@@ -1,11 +1,11 @@
 id: 124100405
-type: way
+type: node
 latitude: 51.45807
 longitude: -2.59152
-postcode: "BS1 3BB"
+postcode: BS1 3BB
 city: Bristol
-street: "The Horsefair"
-housenumber: 
+street: The Horsefair
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

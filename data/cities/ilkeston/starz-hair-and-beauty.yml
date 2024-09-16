@@ -1,11 +1,11 @@
 id: 344601431
-type: way
+type: node
 latitude: 52.96484
 longitude: -1.3019
-postcode: "DE7 5NW"
+postcode: DE7 5NW
 city: Ilkeston
-street: "Nottingham Road"
-housenumber: 136
+street: Nottingham Road
+housenumber: "136"
 phone: ""
 opening_hours: ""
 website: ""

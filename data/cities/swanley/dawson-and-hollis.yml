@@ -1,11 +1,11 @@
 id: 218154661
-type: way
+type: node
 latitude: 51.38363
 longitude: 0.16118
-postcode: "BR8 8JH"
+postcode: BR8 8JH
 city: Swanley
-street: "Broadway"
-housenumber: 1
+street: Broadway
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

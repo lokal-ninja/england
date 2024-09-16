@@ -1,11 +1,11 @@
 id: 188335846
-type: way
+type: node
 latitude: 53.45654
 longitude: -2.22654
-postcode: "M14 5TP"
+postcode: M14 5TP
 city: Manchester
-street: "Wilmslow Road"
-housenumber: 16
+street: Wilmslow Road
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

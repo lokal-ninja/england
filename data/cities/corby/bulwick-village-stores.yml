@@ -1,11 +1,11 @@
 id: 250003170
-type: way
+type: node
 latitude: 52.53707
 longitude: -0.58168
-postcode: "NN17 3DY"
+postcode: NN17 3DY
 city: Corby
-street: "Main Street"
-housenumber: 15
+street: Main Street
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

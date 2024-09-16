@@ -2,10 +2,10 @@ id: 10266440618
 type: node
 latitude: 51.48162
 longitude: -0.00933
-postcode: "SE10 9HZ"
+postcode: SE10 9HZ
 city: London
 street: ""
-housenumber: 4
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

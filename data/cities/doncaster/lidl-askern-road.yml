@@ -1,11 +1,11 @@
 id: 853030585
-type: way
+type: node
 latitude: 53.55062
 longitude: -1.14685
-postcode: "DN5 0EW"
+postcode: DN5 0EW
 city: Doncaster
-street: "Askern Road"
-housenumber: 128
+street: Askern Road
+housenumber: "128"
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00; Su 11:00-17:00"
-website: "https://www.lidl.co.uk/s/en-GB/store-finder/bentley/askern-road/"
+opening_hours: Mo-Sa 08:00-22:00; Su 11:00-17:00
+website: https://www.lidl.co.uk/s/en-GB/store-finder/bentley/askern-road/

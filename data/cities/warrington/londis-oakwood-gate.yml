@@ -1,11 +1,11 @@
 id: 1011564724
-type: way
+type: node
 latitude: 53.41907
 longitude: -2.52702
-postcode: "WA3 6RW"
+postcode: WA3 6RW
 city: Warrington
-street: "Oakwood Gate"
-housenumber: 
+street: Oakwood Gate
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
-website: "https://www.londis.co.uk/our-stores/oak-wood-gate-service-station"
+opening_hours: 24/7
+website: https://www.londis.co.uk/our-stores/oak-wood-gate-service-station

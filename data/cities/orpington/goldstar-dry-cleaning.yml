@@ -1,11 +1,11 @@
 id: 1013333211
-type: way
+type: node
 latitude: 51.40351
 longitude: 0.10636
-postcode: "BR5 2RB"
+postcode: BR5 2RB
 city: Orpington
-street: "Cotmandene Crescent"
-housenumber: 119
+street: Cotmandene Crescent
+housenumber: "119"
 phone: ""
 opening_hours: ""
 website: ""

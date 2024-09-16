@@ -1,11 +1,11 @@
 id: 205810399
-type: way
+type: node
 latitude: 53.78827
 longitude: -1.56495
-postcode: "LS11 9RT"
+postcode: LS11 9RT
 city: Leeds
-street: "Croydon Street"
-housenumber: 12
+street: Croydon Street
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

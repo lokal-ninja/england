@@ -1,11 +1,11 @@
 id: 126102578
-type: way
+type: node
 latitude: 51.44153
 longitude: -2.57742
-postcode: "BS4 2BS"
+postcode: BS4 2BS
 city: Bristol
-street: "Wells Road"
-housenumber: 111
+street: Wells Road
+housenumber: "111"
 phone: ""
-opening_hours: "Mo-Su 09:00-24:00"
+opening_hours: Mo-Su 09:00-24:00
 website: ""

@@ -1,11 +1,11 @@
 id: 105139063
-type: way
+type: node
 latitude: 52.20559
 longitude: 1.57799
-postcode: "IP16 4BX"
+postcode: IP16 4BX
 city: Leiston
-street: "High Street"
-housenumber: 75
+street: High Street
+housenumber: "75"
 phone: ""
 opening_hours: ""
 website: ""

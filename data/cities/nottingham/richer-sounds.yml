@@ -1,11 +1,11 @@
 id: 116810776
-type: way
+type: node
 latitude: 52.96088
 longitude: -1.15017
-postcode: "NG1 3HD"
+postcode: NG1 3HD
 city: Nottingham
-street: "Mansfield Road"
-housenumber: 108
+street: Mansfield Road
+housenumber: "108"
 phone: ""
 opening_hours: ""
 website: ""

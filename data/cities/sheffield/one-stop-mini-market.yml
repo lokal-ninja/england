@@ -1,11 +1,11 @@
 id: 1030111349
-type: way
+type: node
 latitude: 53.3561
 longitude: -1.44907
-postcode: "S2 2BS"
+postcode: S2 2BS
 city: Sheffield
-street: "Gleadless Road"
-housenumber: 509
+street: Gleadless Road
+housenumber: "509"
 phone: ""
 opening_hours: ""
 website: ""

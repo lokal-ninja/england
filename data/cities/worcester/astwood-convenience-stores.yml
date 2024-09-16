@@ -1,11 +1,11 @@
 id: 125401061
-type: way
+type: node
 latitude: 52.21114
 longitude: -2.2062
-postcode: "WR3 8HB"
+postcode: WR3 8HB
 city: Worcester
-street: "Astwood Road"
-housenumber: 417
+street: Astwood Road
+housenumber: "417"
 phone: ""
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-21:00"
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-21:00
 website: ""

@@ -1,10 +1,10 @@
 id: 708496570
-type: way
+type: node
 latitude: 51.53729
 longitude: 0.01197
 postcode: ""
 city: London
-street: "Portway"
+street: Portway
 housenumber: 69a
 phone: ""
 opening_hours: ""

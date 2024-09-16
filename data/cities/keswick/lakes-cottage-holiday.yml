@@ -1,11 +1,11 @@
 id: 428801138
-type: way
+type: node
 latitude: 54.60068
 longitude: -3.13566
-postcode: "CA12 5HH"
+postcode: CA12 5HH
 city: Keswick
-street: "Station Street"
-housenumber: 9
-phone: "+44 17687 74060"
+street: Station Street
+housenumber: "9"
+phone: +44 17687 74060
 opening_hours: ""
-website: "https://www.lakescottageholiday.co.uk/"
+website: https://www.lakescottageholiday.co.uk/

@@ -1,11 +1,11 @@
 id: 83730127
-type: way
+type: node
 latitude: 52.50904
 longitude: -1.81917
-postcode: "B24 9HF"
+postcode: B24 9HF
 city: Birmingham
-street: "Wingfoot Way"
-housenumber: 4
+street: Wingfoot Way
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

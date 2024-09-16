@@ -1,11 +1,12 @@
 id: 708076037
-type: way
+type: node
 latitude: 51.42629
 longitude: -0.33668
-postcode: "TW11 8QZ"
+postcode: TW11 8QZ
 city: Teddington
-street: "Broad Street"
-housenumber: 
-phone: "+44 20 3984 0290"
-opening_hours: "Mo 09:30-18:00; Tu 09:30-20:00; We-Fr 09:30-18:00; Sa 09:00-18:00; Su 10:30-16:30"
-website: "https://www.carpet-right.co.uk/stores/teddington-carpetright"
+street: Broad Street
+housenumber: ""
+phone: +44 20 3984 0290
+opening_hours: Mo 09:30-18:00; Tu 09:30-20:00; We-Fr 09:30-18:00; Sa 09:00-18:00;
+    Su 10:30-16:30
+website: https://www.carpet-right.co.uk/stores/teddington-carpetright

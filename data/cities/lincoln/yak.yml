@@ -1,11 +1,11 @@
 id: 745453724
-type: way
+type: node
 latitude: 53.23155
 longitude: -0.53923
-postcode: "LN2 1JD"
+postcode: LN2 1JD
 city: Lincoln
-street: "The Strait"
-housenumber: 34
+street: The Strait
+housenumber: "34"
 phone: ""
 opening_hours: ""
 website: ""

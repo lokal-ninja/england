@@ -1,11 +1,11 @@
 id: 332126385
-type: way
+type: node
 latitude: 51.88989
 longitude: 0.90055
-postcode: "CO1 1SZ"
+postcode: CO1 1SZ
 city: Colchester
-street: "High Street"
-housenumber: 122
+street: High Street
+housenumber: "122"
 phone: ""
 opening_hours: ""
-website: "https://www.salvationarmy.org.uk/colchester-charity-shop"
+website: https://www.salvationarmy.org.uk/colchester-charity-shop

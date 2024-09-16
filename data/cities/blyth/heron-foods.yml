@@ -2,10 +2,10 @@ id: 4321222080
 type: node
 latitude: 55.12677
 longitude: -1.50962
-postcode: "NE24 1BW"
+postcode: NE24 1BW
 city: Blyth
-street: "Waterloo Road"
-housenumber: 41
+street: Waterloo Road
+housenumber: "41"
 phone: ""
 opening_hours: ""
 website: ""

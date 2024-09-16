@@ -2,10 +2,10 @@ id: 295975600
 type: node
 latitude: 51.51265
 longitude: -0.0875
-postcode: "EC3V 9AN"
+postcode: EC3V 9AN
 city: London
-street: "Lombard Street"
-housenumber: 14
+street: Lombard Street
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 06:00-22:00; Sa,Su 08:00-18:00"
-website: "https://stores.sainsburys.co.uk/4165/lombard-street-local"
+opening_hours: Mo-Fr 06:00-22:00; Sa,Su 08:00-18:00
+website: https://stores.sainsburys.co.uk/4165/lombard-street-local

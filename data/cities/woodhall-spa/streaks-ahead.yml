@@ -1,11 +1,11 @@
 id: 204004502
-type: way
+type: node
 latitude: 53.15108
 longitude: -0.21788
-postcode: "LN10 6TT"
+postcode: LN10 6TT
 city: Woodhall Spa
-street: "Tattershall Road"
-housenumber: 1
+street: Tattershall Road
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 80946712
-type: way
+type: node
 latitude: 52.94567
 longitude: -1.0473
-postcode: "NG12 2BJ"
+postcode: NG12 2BJ
 city: Radcliffe on Trent
-street: "Main Road"
-housenumber: 59
-phone: "+44 115 933 2257"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-12:30"
-website: "https://www.lymn.co.uk/"
+street: Main Road
+housenumber: "59"
+phone: +44 115 933 2257
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-12:30
+website: https://www.lymn.co.uk/

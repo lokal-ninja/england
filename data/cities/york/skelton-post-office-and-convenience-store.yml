@@ -1,11 +1,11 @@
 id: 790737311
-type: way
+type: node
 latitude: 53.99877
 longitude: -1.13087
-postcode: "YO30 1YP"
+postcode: YO30 1YP
 city: York
-street: "Fairfields Drive"
-housenumber: 52
+street: Fairfields Drive
+housenumber: "52"
 phone: ""
 opening_hours: ""
 website: ""

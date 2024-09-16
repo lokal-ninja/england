@@ -2,10 +2,10 @@ id: 8168596451
 type: node
 latitude: 51.22543
 longitude: 1.40325
-postcode: "CT14 6HN"
+postcode: CT14 6HN
 city: Deal
-street: "Middle Street"
-housenumber: 71
-phone: "+44 7557 785549"
+street: Middle Street
+housenumber: "71"
+phone: +44 7557 785549
 opening_hours: ""
 website: ""

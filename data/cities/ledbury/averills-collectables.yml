@@ -1,11 +1,11 @@
 id: 1062922962
-type: way
+type: node
 latitude: 52.0358
 longitude: -2.42309
-postcode: "HR8 2DX"
+postcode: HR8 2DX
 city: Ledbury
-street: "New Street"
-housenumber: 11
+street: New Street
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

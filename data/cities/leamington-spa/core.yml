@@ -4,8 +4,8 @@ latitude: 52.29016
 longitude: -1.53717
 postcode: ""
 city: Leamington Spa
-street: "Regent Street"
-housenumber: 50
+street: Regent Street
+housenumber: "50"
 phone: ""
-opening_hours: "Tu,Th-Sa 09:00-17:00; We 09:00-18:30; Su,Mo 10:00-16:00"
-website: "https://www.coreleamington.co.uk/"
+opening_hours: Tu,Th-Sa 09:00-17:00; We 09:00-18:30; Su,Mo 10:00-16:00
+website: https://www.coreleamington.co.uk/

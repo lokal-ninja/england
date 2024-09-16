@@ -1,11 +1,11 @@
 id: 170319370
-type: way
+type: node
 latitude: 51.74376
 longitude: -0.32576
 postcode: ""
 city: St Albans
-street: "London Road"
-housenumber: 
+street: London Road
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

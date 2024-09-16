@@ -1,11 +1,11 @@
 id: 608747041
-type: way
+type: node
 latitude: 52.75479
 longitude: 0.39527
-postcode: "PE30 1BE"
+postcode: PE30 1BE
 city: King's Lynn
-street: "High Street"
-housenumber: 50
+street: High Street
+housenumber: "50"
 phone: ""
 opening_hours: ""
-website: "https://www.seacroftmobility.com/"
+website: https://www.seacroftmobility.com/

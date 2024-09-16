@@ -1,11 +1,11 @@
 id: 480607861
-type: way
+type: node
 latitude: 53.41511
 longitude: -1.40945
-postcode: "S9 1EL"
+postcode: S9 1EL
 city: Sheffield
-street: "Park Lane"
-housenumber: 23
+street: Park Lane
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

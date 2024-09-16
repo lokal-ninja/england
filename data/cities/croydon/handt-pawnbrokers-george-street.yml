@@ -1,11 +1,11 @@
 id: 198678807
-type: way
+type: node
 latitude: 51.37377
 longitude: -0.09936
-postcode: "CR0 1PA"
+postcode: CR0 1PA
 city: Croydon
-street: "George Street"
-housenumber: 16
+street: George Street
+housenumber: "16"
 phone: ""
 opening_hours: ""
-website: "https://handt.co.uk/stores/croydon-east"
+website: https://handt.co.uk/stores/croydon-east

@@ -1,11 +1,11 @@
 id: 1053155510
-type: way
+type: node
 latitude: 53.48665
 longitude: -2.29495
-postcode: "M6 5PW"
+postcode: M6 5PW
 city: Salford
-street: "Langworthy Road"
-housenumber: 199
-phone: "+44 161 745 8346"
-opening_hours: "Mo-Fr 10:00-18:00"
+street: Langworthy Road
+housenumber: "199"
+phone: +44 161 745 8346
+opening_hours: Mo-Fr 10:00-18:00
 website: ""

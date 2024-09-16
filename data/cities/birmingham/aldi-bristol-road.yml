@@ -1,11 +1,11 @@
 id: 38378223
-type: way
+type: node
 latitude: 52.44467
 longitude: -1.93535
-postcode: "B29 6AE"
+postcode: B29 6AE
 city: Birmingham
-street: "Bristol Road"
-housenumber: 637
+street: Bristol Road
+housenumber: "637"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 358630265
-type: way
+type: node
 latitude: 51.91299
 longitude: 0.89146
-postcode: "CO4 5EQ"
+postcode: CO4 5EQ
 city: Colchester
-street: "Nayland Road"
-housenumber: 63
-phone: "+44 1206 845877"
-opening_hours: "Mo-Sa 06:00-23:00; Su 07:00-22:00"
-website: "https://www.eastofengland.coop/foodstores/nayland-road-mile-end-colchester"
+street: Nayland Road
+housenumber: "63"
+phone: +44 1206 845877
+opening_hours: Mo-Sa 06:00-23:00; Su 07:00-22:00
+website: https://www.eastofengland.coop/foodstores/nayland-road-mile-end-colchester

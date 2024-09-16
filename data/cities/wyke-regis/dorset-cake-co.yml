@@ -1,11 +1,11 @@
 id: 1237335925
-type: way
+type: node
 latitude: 50.59438
 longitude: -2.47524
-postcode: "DT4 9BE"
+postcode: DT4 9BE
 city: Wyke Regis
-street: "Portland Road"
-housenumber: 69
+street: Portland Road
+housenumber: "69"
 phone: ""
 opening_hours: ""
 website: ""

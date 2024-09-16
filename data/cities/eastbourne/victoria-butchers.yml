@@ -1,11 +1,11 @@
 id: 576501701
-type: way
+type: node
 latitude: 50.76655
 longitude: 0.2904
-postcode: "BN21 3DE"
+postcode: BN21 3DE
 city: Eastbourne
-street: "Terminus Road"
-housenumber: 248
+street: Terminus Road
+housenumber: "248"
 phone: ""
 opening_hours: ""
-website: "https://victoriabutcherseastbourne.co.uk/"
+website: https://victoriabutcherseastbourne.co.uk/

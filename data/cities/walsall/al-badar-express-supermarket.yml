@@ -1,11 +1,11 @@
 id: 262363265
-type: way
+type: node
 latitude: 52.5808
 longitude: -1.99806
-postcode: "WS2 9EY"
+postcode: WS2 9EY
 city: Walsall
-street: "Pleck Road"
-housenumber: 312
+street: Pleck Road
+housenumber: "312"
 phone: ""
 opening_hours: ""
 website: ""

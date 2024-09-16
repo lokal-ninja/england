@@ -2,10 +2,10 @@ id: 5098163464
 type: node
 latitude: 51.23599
 longitude: -0.20476
-postcode: "RH2 7AQ"
+postcode: RH2 7AQ
 city: Reigate
-street: "Bell Street"
-housenumber: 51
+street: Bell Street
+housenumber: "51"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1136029637
-type: way
+type: node
 latitude: 53.74425
 longitude: -0.34019
-postcode: "HU1 3ND"
+postcode: HU1 3ND
 city: Hull
-street: "Paragon Street"
-housenumber: 14
+street: Paragon Street
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

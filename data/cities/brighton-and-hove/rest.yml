@@ -1,11 +1,11 @@
 id: 1301381438
-type: way
+type: node
 latitude: 50.83178
 longitude: -0.13521
-postcode: "BN1 4JN"
+postcode: BN1 4JN
 city: Brighton & Hove
-street: "Baker Street"
-housenumber: 32
+street: Baker Street
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

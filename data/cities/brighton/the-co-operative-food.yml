@@ -2,10 +2,10 @@ id: 1514014345
 type: node
 latitude: 50.83073
 longitude: -0.14726
-postcode: "BN1 3JD"
+postcode: BN1 3JD
 city: Brighton
-street: "Dyke Road"
-housenumber: 106
+street: Dyke Road
+housenumber: "106"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.coop.co.uk/store-finder/BN1-3JD/106-dyke-road"
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.coop.co.uk/store-finder/BN1-3JD/106-dyke-road

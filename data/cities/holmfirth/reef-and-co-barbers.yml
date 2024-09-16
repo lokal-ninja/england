@@ -1,11 +1,11 @@
 id: 335200614
-type: way
+type: node
 latitude: 53.57038
 longitude: -1.78777
-postcode: "HD9 3AZ"
+postcode: HD9 3AZ
 city: Holmfirth
-street: "Huddersfield Road"
-housenumber: 61
-phone: "+44 01484 681811"
-opening_hours: "Tu-We 09:00-18:00; Th-Fr 09:00-19:00; Sa 08:30-14:00"
-website: "https://www.reefbarbers.com/"
+street: Huddersfield Road
+housenumber: "61"
+phone: +44 01484 681811
+opening_hours: Tu-We 09:00-18:00; Th-Fr 09:00-19:00; Sa 08:30-14:00
+website: https://www.reefbarbers.com/

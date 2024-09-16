@@ -1,11 +1,11 @@
 id: 232966155
-type: way
+type: node
 latitude: 52.83618
 longitude: 0.86231
-postcode: "NR21 8JG"
+postcode: NR21 8JG
 city: Fakenham
-street: "Holt Road"
-housenumber: 
+street: Holt Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su 10:00-16:00"
-website: "https://www.lidl.co.uk/s/en-GB/store-finder/fakenham/holt-road/"
+opening_hours: Mo-Sa 08:00-20:00; Su 10:00-16:00
+website: https://www.lidl.co.uk/s/en-GB/store-finder/fakenham/holt-road/

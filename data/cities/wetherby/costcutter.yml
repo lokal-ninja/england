@@ -1,11 +1,11 @@
 id: 219204434
-type: way
+type: node
 latitude: 53.90471
 longitude: -1.34663
-postcode: "LS23 6BT"
+postcode: LS23 6BT
 city: Wetherby
-street: "High Street"
-housenumber: 182
+street: High Street
+housenumber: "182"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 304386499
-type: way
+type: node
 latitude: 52.56829
 longitude: 1.66534
-postcode: "NR31 9LD"
+postcode: NR31 9LD
 city: Great Yarmouth
-street: "Bell Lane"
-housenumber: 8
+street: Bell Lane
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

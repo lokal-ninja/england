@@ -1,11 +1,11 @@
 id: 128621494
-type: way
+type: node
 latitude: 51.51332
 longitude: -0.29857
-postcode: "W5 3TJ"
+postcode: W5 3TJ
 city: London
-street: "The Mall"
-housenumber: 44
+street: The Mall
+housenumber: "44"
 phone: ""
 opening_hours: ""
 website: ""

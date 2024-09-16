@@ -1,11 +1,11 @@
 id: 23081461
-type: way
+type: node
 latitude: 51.46247
 longitude: -0.13575
-postcode: "SW4 7SL"
+postcode: SW4 7SL
 city: London
-street: "Clapham High Street"
-housenumber: 133
+street: Clapham High Street
+housenumber: "133"
 phone: ""
-opening_hours: "Mo-Sa 07:00-23:00; Su 11:00-17:00"
-website: "https://stores.sainsburys.co.uk/0526/clapham-common"
+opening_hours: Mo-Sa 07:00-23:00; Su 11:00-17:00
+website: https://stores.sainsburys.co.uk/0526/clapham-common

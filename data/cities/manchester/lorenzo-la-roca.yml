@@ -1,11 +1,11 @@
 id: 688244161
-type: way
+type: node
 latitude: 53.4202
 longitude: -2.21408
 postcode: ""
 city: Manchester
-street: "Kingsway"
-housenumber: 380
+street: Kingsway
+housenumber: "380"
 phone: ""
 opening_hours: ""
 website: ""

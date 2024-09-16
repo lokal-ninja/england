@@ -1,11 +1,11 @@
 id: 579971638
-type: way
+type: node
 latitude: 50.76637
 longitude: 0.2843
-postcode: "BN21 4LZ"
+postcode: BN21 4LZ
 city: Eastbourne
-street: "South Street"
-housenumber: 108
+street: South Street
+housenumber: "108"
 phone: ""
 opening_hours: ""
 website: ""

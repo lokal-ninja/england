@@ -1,11 +1,11 @@
 id: 306063232
-type: way
+type: node
 latitude: 52.40717
 longitude: -1.97701
-postcode: "B31 2QW"
+postcode: B31 2QW
 city: Birmingham
-street: "Bristol Road South"
-housenumber: 1095
+street: Bristol Road South
+housenumber: "1095"
 phone: ""
 opening_hours: ""
 website: ""

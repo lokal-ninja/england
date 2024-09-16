@@ -1,11 +1,11 @@
 id: 200008665
-type: way
+type: node
 latitude: 51.36153
 longitude: -0.69133
-postcode: "GU19 5JH"
+postcode: GU19 5JH
 city: Bagshot
-street: "Guildford Road"
-housenumber: 4
+street: Guildford Road
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

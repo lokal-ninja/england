@@ -1,11 +1,11 @@
 id: 1104153597
-type: way
+type: node
 latitude: 51.37791
 longitude: 0.10023
-postcode: "BR6 0JW"
+postcode: BR6 0JW
 city: Orpington
-street: "High Street"
-housenumber: 174
+street: High Street
+housenumber: "174"
 phone: ""
 opening_hours: ""
 website: ""

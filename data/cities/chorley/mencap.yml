@@ -1,11 +1,11 @@
 id: 591395188
-type: way
+type: node
 latitude: 53.64525
 longitude: -2.65322
-postcode: "PR7 2FU"
+postcode: PR7 2FU
 city: Chorley
-street: "Keepers Wood Way"
-housenumber: 2
+street: Keepers Wood Way
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 09:00-17:00"
+opening_hours: Mo-Sa 09:00-17:00
 website: ""

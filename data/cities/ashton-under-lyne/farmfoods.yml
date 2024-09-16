@@ -1,11 +1,11 @@
 id: 438898029
-type: way
+type: node
 latitude: 53.50257
 longitude: -2.10508
-postcode: "OL7 9QF"
+postcode: OL7 9QF
 city: Ashton-under-Lyne
-street: "Picton Street"
-housenumber: 12
+street: Picton Street
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

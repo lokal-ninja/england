@@ -1,11 +1,11 @@
 id: 552564385
-type: way
+type: node
 latitude: 53.72632
 longitude: -1.55167
-postcode: "WF3 2DN"
+postcode: WF3 2DN
 city: Wakefield
-street: "Bradford Road"
-housenumber: 
-phone: "+44 113 238 3888"
-opening_hours: "Mo-Sa 09:00-18:00; Su 10:00-16:00"
-website: "https://www.americangolf.co.uk/stores?store=S089"
+street: Bradford Road
+housenumber: ""
+phone: +44 113 238 3888
+opening_hours: Mo-Sa 09:00-18:00; Su 10:00-16:00
+website: https://www.americangolf.co.uk/stores?store=S089

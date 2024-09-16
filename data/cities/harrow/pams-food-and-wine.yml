@@ -2,10 +2,10 @@ id: 1576489206
 type: node
 latitude: 51.55727
 longitude: -0.33592
-postcode: "HA1 3RA"
+postcode: HA1 3RA
 city: Harrow
-street: "Greenford Road"
-housenumber: 165
+street: Greenford Road
+housenumber: "165"
 phone: ""
 opening_hours: ""
 website: ""

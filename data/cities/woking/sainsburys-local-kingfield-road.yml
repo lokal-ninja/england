@@ -1,11 +1,11 @@
 id: 213852068
-type: way
+type: node
 latitude: 51.30353
 longitude: -0.55193
 postcode: ""
 city: Woking
-street: "Kingfield Road"
-housenumber: 
-phone: "+44 1483 770261"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://stores.sainsburys.co.uk/4118/woking-local"
+street: Kingfield Road
+housenumber: ""
+phone: +44 1483 770261
+opening_hours: Mo-Su 07:00-22:00
+website: https://stores.sainsburys.co.uk/4118/woking-local

@@ -1,11 +1,11 @@
 id: 55383239
-type: way
+type: node
 latitude: 51.37924
 longitude: -2.35892
-postcode: "BA1 1AN"
+postcode: BA1 1AN
 city: Bath
-street: "St. Lawrence Street"
-housenumber: 1
+street: St. Lawrence Street
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

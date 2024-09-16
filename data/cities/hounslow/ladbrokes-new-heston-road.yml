@@ -1,11 +1,11 @@
 id: 1258709278
-type: way
+type: node
 latitude: 51.48565
 longitude: -0.37469
-postcode: "TW5"
+postcode: TW5
 city: Hounslow
-street: "New Heston Road"
-housenumber: 
+street: New Heston Road
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

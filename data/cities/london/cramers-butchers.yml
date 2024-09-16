@@ -2,10 +2,10 @@ id: 631449733
 type: node
 latitude: 51.54844
 longitude: -0.12791
-postcode: "N7 9LW"
+postcode: N7 9LW
 city: London
-street: "York Way"
-housenumber: 392
+street: York Way
+housenumber: "392"
 phone: ""
 opening_hours: ""
 website: ""

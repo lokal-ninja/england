@@ -2,10 +2,10 @@ id: 967060879
 type: node
 latitude: 50.82359
 longitude: -0.14036
-postcode: "BN1 1RD"
+postcode: BN1 1RD
 city: Brighton
-street: "Bond Street"
-housenumber: 8
+street: Bond Street
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

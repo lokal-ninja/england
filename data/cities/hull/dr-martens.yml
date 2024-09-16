@@ -1,11 +1,11 @@
 id: 1136029650
-type: way
+type: node
 latitude: 53.74428
 longitude: -0.34017
-postcode: "HU1 3RL"
+postcode: HU1 3RL
 city: Hull
-street: "Jameson Street"
-housenumber: 11
+street: Jameson Street
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 09:30-18:00; Su 11:00-16:00"
+opening_hours: Mo-Sa 09:30-18:00; Su 11:00-16:00
 website: ""

@@ -1,11 +1,11 @@
 id: 183843274
-type: way
+type: node
 latitude: 53.42685
 longitude: -2.24289
-postcode: "M20 2LW"
+postcode: M20 2LW
 city: Manchester
-street: "Burton Road"
-housenumber: 224
+street: Burton Road
+housenumber: "224"
 phone: ""
 opening_hours: ""
 website: ""

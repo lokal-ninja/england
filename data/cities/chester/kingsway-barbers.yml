@@ -2,10 +2,11 @@ id: 8214287759
 type: node
 latitude: 53.20808
 longitude: -2.87027
-postcode: "CH2 2LJ"
+postcode: CH2 2LJ
 city: Chester
-street: "Kingsway"
-housenumber: 93
+street: Kingsway
+housenumber: "93"
 phone: ""
-opening_hours: "Mo-We 09:00-18:00; Th 09:00-17:30; Fr 09:00-19:00; Sa 09:00-16:00; Su off"
+opening_hours: Mo-We 09:00-18:00; Th 09:00-17:30; Fr 09:00-19:00; Sa 09:00-16:00;
+    Su off
 website: ""

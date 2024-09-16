@@ -1,11 +1,11 @@
 id: 315690389
-type: way
+type: node
 latitude: 53.76808
 longitude: -1.84794
-postcode: "BD13 2PD"
+postcode: BD13 2PD
 city: Bradford
-street: "High Street"
-housenumber: 90
+street: High Street
+housenumber: "90"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.coop.co.uk/store-finder/BD13-2PD/high-street"
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.coop.co.uk/store-finder/BD13-2PD/high-street

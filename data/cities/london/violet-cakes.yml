@@ -1,11 +1,11 @@
 id: 951712060
-type: way
+type: node
 latitude: 51.54546
 longitude: -0.06418
-postcode: "E8 3ED"
+postcode: E8 3ED
 city: London
-street: "Wilton Way"
-housenumber: 47
-phone: "+44 20 7275 8360"
-opening_hours: "Mo-We 08:00-16:00; Th-Fr 08:00-17:00; Sa-Su 09:00-17:00"
-website: "http://www.violetcakes.com/"
+street: Wilton Way
+housenumber: "47"
+phone: +44 20 7275 8360
+opening_hours: Mo-We 08:00-16:00; Th-Fr 08:00-17:00; Sa-Su 09:00-17:00
+website: http://www.violetcakes.com/

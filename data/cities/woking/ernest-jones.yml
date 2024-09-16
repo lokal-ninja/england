@@ -1,11 +1,11 @@
 id: 476184924
-type: way
+type: node
 latitude: 51.31929
 longitude: -0.55923
-postcode: "GU21 6XX"
+postcode: GU21 6XX
 city: Woking
-street: "Wolsey Walk"
-housenumber: 28
-phone: "+441483 814031"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:00-18:00; Su 11:00-17:00"
+street: Wolsey Walk
+housenumber: "28"
+phone: +441483 814031
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:00-18:00; Su 11:00-17:00
 website: ""

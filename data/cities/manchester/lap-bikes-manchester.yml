@@ -2,10 +2,10 @@ id: 10308389041
 type: node
 latitude: 53.47292
 longitude: -2.23931
-postcode: "M1 7FS"
+postcode: M1 7FS
 city: Manchester
-street: "Oxford Road"
-housenumber: 3
-phone: "+44 161 552 6960"
-opening_hours: "Tu-Sa 09:30-18:00"
-website: "https://www.lapbikes.com/"
+street: Oxford Road
+housenumber: "3"
+phone: +44 161 552 6960
+opening_hours: Tu-Sa 09:30-18:00
+website: https://www.lapbikes.com/

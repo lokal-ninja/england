@@ -1,11 +1,11 @@
 id: 97241746
-type: way
+type: node
 latitude: 52.47979
 longitude: -1.89776
-postcode: "B2 4LP"
+postcode: B2 4LP
 city: Birmingham
-street: "Corporation Street"
-housenumber: 23
+street: Corporation Street
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Sa 09:00-17:30; Su 11:00-17:00"
+opening_hours: Mo-Sa 09:00-17:30; Su 11:00-17:00
 website: ""

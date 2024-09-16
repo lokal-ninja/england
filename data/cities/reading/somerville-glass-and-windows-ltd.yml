@@ -1,11 +1,11 @@
 id: 58871406
-type: way
+type: node
 latitude: 51.42808
 longitude: -0.94568
-postcode: "RG2 8HA"
+postcode: RG2 8HA
 city: Reading
-street: "Shinfield Road"
-housenumber: 209
-phone: "+44 118 986 8866"
+street: Shinfield Road
+housenumber: "209"
+phone: +44 118 986 8866
 opening_hours: ""
 website: ""

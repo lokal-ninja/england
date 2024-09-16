@@ -1,11 +1,11 @@
 id: 955830238
-type: way
+type: node
 latitude: 51.54115
 longitude: -0.14426
 postcode: ""
 city: London
-street: "Camden High Street"
-housenumber: 238
+street: Camden High Street
+housenumber: "238"
 phone: ""
 opening_hours: ""
 website: ""

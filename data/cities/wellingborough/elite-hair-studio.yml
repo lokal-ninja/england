@@ -1,11 +1,11 @@
 id: 336749964
-type: way
+type: node
 latitude: 52.30258
 longitude: -0.69211
-postcode: "NN8 1AT"
+postcode: NN8 1AT
 city: Wellingborough
-street: "Market Street"
-housenumber: 25
+street: Market Street
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

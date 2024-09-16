@@ -1,11 +1,11 @@
 id: 704373661
-type: way
+type: node
 latitude: 50.91709
 longitude: -1.44139
-postcode: "SO15 8PE"
+postcode: SO15 8PE
 city: Southampton
-street: "Regents Park Road"
-housenumber: 67
+street: Regents Park Road
+housenumber: "67"
 phone: ""
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
 website: ""

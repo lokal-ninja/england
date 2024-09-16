@@ -1,11 +1,11 @@
 id: 9223766101
 type: node
-latitude: 51.50746
-longitude: -0.26958
-postcode: "W3 6RE"
+latitude: 51.50739
+longitude: -0.26999
+postcode: W3 6RE
 city: London
-street: "High Street"
-housenumber: 
+street: High Street
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 08:00-21:00; Sa 09:00-21:00; Su 10:00-16:00"
-website: "https://www.lidl.co.uk/s/en-GB/store-finder/acton/ealing/high-street/"
+opening_hours: Mo-Fr 08:00-21:00; Sa 09:00-21:00; Su 10:00-16:00
+website: https://www.lidl.co.uk/s/en-GB/store-finder/acton/ealing/high-street/

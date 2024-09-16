@@ -1,11 +1,11 @@
 id: 180218206
-type: way
+type: node
 latitude: 50.34906
 longitude: -3.88603
-postcode: "PL21 0PY"
+postcode: PL21 0PY
 city: Modbury
-street: "Broad Street"
-housenumber: 
+street: Broad Street
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.coop.co.uk/store-finder/PL21-0PY/broad-street"
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.coop.co.uk/store-finder/PL21-0PY/broad-street

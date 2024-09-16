@@ -1,11 +1,11 @@
 id: 248400012
-type: way
+type: node
 latitude: 52.95564
 longitude: -1.1613
-postcode: "NG1 5BB"
+postcode: NG1 5BB
 city: Nottingham
-street: "Derby Road"
-housenumber: 97
+street: Derby Road
+housenumber: "97"
 phone: ""
 opening_hours: ""
 website: ""

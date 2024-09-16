@@ -1,11 +1,11 @@
 id: 179063396
-type: way
+type: node
 latitude: 51.45129
 longitude: 0.05564
-postcode: "SE9 1TQ"
+postcode: SE9 1TQ
 city: London
-street: "Eltham High Street"
-housenumber: 137
+street: Eltham High Street
+housenumber: "137"
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00; Su 11:00-17:00; PH 08:00-22:00"
-website: "https://www.lidl.co.uk/s/en-GB/store-finder/london/eltham/eltham-high-street-137/"
+opening_hours: Mo-Sa 08:00-22:00; Su 11:00-17:00; PH 08:00-22:00
+website: https://www.lidl.co.uk/s/en-GB/store-finder/london/eltham/eltham-high-street-137/

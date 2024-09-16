@@ -1,11 +1,11 @@
 id: 43251769
-type: way
+type: node
 latitude: 51.86293
 longitude: -2.23521
-postcode: "GL1 1DS"
+postcode: GL1 1DS
 city: Gloucester
-street: "Bruton Way"
-housenumber: 41
+street: Bruton Way
+housenumber: "41"
 phone: ""
-opening_hours: "Mo-Fr 06:00-24:00; Sa 06:00-21:00; Su 10:00-16:00"
+opening_hours: Mo-Fr 06:00-24:00; Sa 06:00-21:00; Su 10:00-16:00
 website: ""

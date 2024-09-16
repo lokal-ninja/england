@@ -2,10 +2,10 @@ id: 5941346406
 type: node
 latitude: 53.79812
 longitude: -1.54184
-postcode: "LS1 6BD"
+postcode: LS1 6BD
 city: Leeds
-street: "Queen Victoria Street"
-housenumber: 3
+street: Queen Victoria Street
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

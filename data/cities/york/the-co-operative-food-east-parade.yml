@@ -1,11 +1,11 @@
 id: 333499163
-type: way
+type: node
 latitude: 53.96559
 longitude: -1.06403
-postcode: "YO31 7YB"
+postcode: YO31 7YB
 city: York
-street: "East Parade"
-housenumber: 75
+street: East Parade
+housenumber: "75"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.coop.co.uk/store-finder/YO31-7YB/75-77-east-parade"
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.coop.co.uk/store-finder/YO31-7YB/75-77-east-parade

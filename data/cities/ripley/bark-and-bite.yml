@@ -1,11 +1,11 @@
 id: 1026354432
-type: way
+type: node
 latitude: 53.04999
 longitude: -1.40404
-postcode: "DE5 3AH"
+postcode: DE5 3AH
 city: Ripley
-street: "Oxford Street"
-housenumber: 57
+street: Oxford Street
+housenumber: "57"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 459083858
-type: way
+type: node
 latitude: 50.87256
 longitude: -1.26824
 postcode: ""
 city: Southampton
-street: "Middle Road"
-housenumber: 25
+street: Middle Road
+housenumber: "25"
 phone: "+441489572291"
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 120927411
-type: way
+type: node
 latitude: 52.97627
 longitude: -1.30111
-postcode: "DE7 5LJ"
+postcode: DE7 5LJ
 city: Ilkeston
-street: "Station Road"
-housenumber: 88
+street: Station Road
+housenumber: "88"
 phone: ""
 opening_hours: ""
 website: ""

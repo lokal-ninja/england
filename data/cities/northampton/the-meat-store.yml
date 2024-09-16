@@ -2,10 +2,10 @@ id: 5161809269
 type: node
 latitude: 52.24383
 longitude: -0.87234
-postcode: "NN1 4ER"
+postcode: NN1 4ER
 city: Northampton
-street: "Wellingborough Road"
-housenumber: 349
+street: Wellingborough Road
+housenumber: "349"
 phone: ""
 opening_hours: ""
 website: ""

@@ -2,10 +2,10 @@ id: 6022850185
 type: node
 latitude: 53.79842
 longitude: -1.54526
-postcode: "LS1 5AP"
+postcode: LS1 5AP
 city: Leeds
-street: "Albion Street"
-housenumber: 79
+street: Albion Street
+housenumber: "79"
 phone: ""
 opening_hours: ""
-website: "https://www.fabric-ation.co.uk/"
+website: https://www.fabric-ation.co.uk/

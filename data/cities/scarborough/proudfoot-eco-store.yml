@@ -1,11 +1,11 @@
 id: 956538933
-type: way
+type: node
 latitude: 54.23859
 longitude: -0.44416
-postcode: "YO12 4QD"
+postcode: YO12 4QD
 city: Scarborough
-street: "Main Street"
-housenumber: 68
+street: Main Street
+housenumber: "68"
 phone: ""
 opening_hours: ""
 website: ""

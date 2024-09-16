@@ -1,11 +1,11 @@
 id: 292059419
-type: way
+type: node
 latitude: 51.06801
 longitude: -1.79394
 postcode: ""
 city: Salisbury
-street: "Catherine Street"
-housenumber: 22
+street: Catherine Street
+housenumber: "22"
 phone: ""
 opening_hours: ""
-website: "https://www.alabare.co.uk/"
+website: https://www.alabare.co.uk/

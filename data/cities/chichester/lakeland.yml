@@ -1,11 +1,11 @@
 id: 229896531
-type: way
+type: node
 latitude: 50.83868
 longitude: -0.77857
-postcode: "PO19 1LT"
+postcode: PO19 1LT
 city: Chichester
-street: "North Street"
-housenumber: 64
+street: North Street
+housenumber: "64"
 phone: ""
 opening_hours: ""
 website: ""

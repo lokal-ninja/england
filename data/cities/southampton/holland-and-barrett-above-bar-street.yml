@@ -1,11 +1,11 @@
 id: 1232222265
-type: way
+type: node
 latitude: 50.90402
 longitude: -1.40405
 postcode: ""
 city: Southampton
-street: "Above Bar Street"
-housenumber: 
+street: Above Bar Street
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

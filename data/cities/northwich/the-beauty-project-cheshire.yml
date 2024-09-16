@@ -1,11 +1,11 @@
 id: 1026243434
-type: way
+type: node
 latitude: 53.2565
 longitude: -2.51257
-postcode: "CW9 5HQ"
+postcode: CW9 5HQ
 city: Northwich
-street: "London Road"
-housenumber: 75
+street: London Road
+housenumber: "75"
 phone: "+447464005861"
 opening_hours: ""
-website: "https://thebeautyprojectcheshire.co.uk/"
+website: https://thebeautyprojectcheshire.co.uk/

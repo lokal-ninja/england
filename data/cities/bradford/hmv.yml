@@ -1,11 +1,11 @@
 id: 1115286751
-type: way
+type: node
 latitude: 53.79431
 longitude: -1.74833
 postcode: ""
 city: Bradford
-street: "Petergate Mall"
-housenumber: 14
+street: Petergate Mall
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

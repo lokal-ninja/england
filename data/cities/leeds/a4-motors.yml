@@ -1,11 +1,11 @@
 id: 428179348
-type: way
+type: node
 latitude: 53.80545
 longitude: -1.53501
-postcode: "LS7 1AH"
+postcode: LS7 1AH
 city: Leeds
-street: "Sheepscar Grove"
-housenumber: 4
+street: Sheepscar Grove
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 206317977
-type: way
+type: node
 latitude: 51.96678
 longitude: 1.35131
-postcode: "IP11 7DT"
+postcode: IP11 7DT
 city: Felixstowe
-street: "Hamilton Road"
-housenumber: 189
+street: Hamilton Road
+housenumber: "189"
 phone: ""
-opening_hours: "Mo-Sa 09:00-17:00; Su 10:00-16:00"
+opening_hours: Mo-Sa 09:00-17:00; Su 10:00-16:00
 website: ""

@@ -1,11 +1,11 @@
 id: 68649176
-type: way
+type: node
 latitude: 51.45532
 longitude: -0.97103
 postcode: ""
 city: Reading
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 09:30-20:00; Sa 09:00-19:00; Su 11:00-17:00; PH 10:00-18:00"
-website: "https://www.theoracle.com/"
+opening_hours: Mo-Fr 09:30-20:00; Sa 09:00-19:00; Su 11:00-17:00; PH 10:00-18:00
+website: https://www.theoracle.com/

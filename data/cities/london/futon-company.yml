@@ -2,10 +2,10 @@ id: 9683179646
 type: node
 latitude: 51.54405
 longitude: -0.17567
-postcode: "NW3 6JH"
+postcode: NW3 6JH
 city: London
-street: "Finchley Road"
-housenumber: 147
-phone: "+44 20 7586 7444"
-opening_hours: "Mo-We 10:00-18:00; Th 10:00-19:00; Fr-Sa 10:00-18:00; Su 11:00-17:00"
-website: "https://www.futoncompany.co.uk/finchley-road-shop.html"
+street: Finchley Road
+housenumber: "147"
+phone: +44 20 7586 7444
+opening_hours: Mo-We 10:00-18:00; Th 10:00-19:00; Fr-Sa 10:00-18:00; Su 11:00-17:00
+website: https://www.futoncompany.co.uk/finchley-road-shop.html

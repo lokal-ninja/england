@@ -1,11 +1,11 @@
 id: 97165999
-type: way
+type: node
 latitude: 53.16888
 longitude: -1.41069
-postcode: "S45 9NG"
+postcode: S45 9NG
 city: Chesterfield
-street: "Bridge Street"
-housenumber: 
+street: Bridge Street
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 06:00-24:00; Su 10:00-16:00"
+opening_hours: Mo-Sa 06:00-24:00; Su 10:00-16:00
 website: ""

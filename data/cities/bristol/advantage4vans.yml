@@ -1,11 +1,11 @@
 id: 201247650
-type: way
+type: node
 latitude: 51.41451
 longitude: -2.60774
-postcode: "BS13 7TE"
+postcode: BS13 7TE
 city: Bristol
-street: "Whitchurch Lane"
-housenumber: 75
+street: Whitchurch Lane
+housenumber: "75"
 phone: ""
 opening_hours: ""
 website: ""

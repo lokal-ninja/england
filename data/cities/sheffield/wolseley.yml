@@ -1,11 +1,11 @@
 id: 93170088
-type: way
+type: node
 latitude: 53.3738
 longitude: -1.46483
-postcode: "S2 4BA"
+postcode: S2 4BA
 city: Sheffield
-street: "Manton Street"
-housenumber: 7
+street: Manton Street
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "https://www.wolseley.co.uk/branch/sheffield-manton-st/"
+website: https://www.wolseley.co.uk/branch/sheffield-manton-st/

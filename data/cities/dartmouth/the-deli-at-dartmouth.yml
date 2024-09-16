@@ -1,11 +1,11 @@
 id: 516715035
-type: way
+type: node
 latitude: 50.35167
 longitude: -3.57941
-postcode: "TQ6 9PZ"
+postcode: TQ6 9PZ
 city: Dartmouth
-street: "Duke Street"
-housenumber: 22
+street: Duke Street
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

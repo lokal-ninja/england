@@ -1,11 +1,11 @@
 id: 1292597753
-type: way
+type: node
 latitude: 52.6136
 longitude: -1.14296
-postcode: "LE2 7QL"
+postcode: LE2 7QL
 city: Leicester
-street: "Aylestone Road"
-housenumber: 315
+street: Aylestone Road
+housenumber: "315"
 phone: ""
 opening_hours: ""
 website: ""

@@ -2,10 +2,10 @@ id: 2751579186
 type: node
 latitude: 52.20744
 longitude: 0.12313
-postcode: "CB1 1AH"
+postcode: CB1 1AH
 city: Cambridge
-street: "King Street"
-housenumber: 23
+street: King Street
+housenumber: "23"
 phone: ""
 opening_hours: ""
-website: "https://www.mbe.co.uk/cambridge"
+website: https://www.mbe.co.uk/cambridge

@@ -1,11 +1,11 @@
 id: 146905010
-type: way
+type: node
 latitude: 53.82648
 longitude: -1.50749
-postcode: "LS8 4BA"
+postcode: LS8 4BA
 city: Leeds
-street: "Roundhay Road"
-housenumber: 639
+street: Roundhay Road
+housenumber: "639"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 662216295
-type: way
+type: node
 latitude: 51.46422
 longitude: -2.57052
-postcode: "BS5 0UN"
+postcode: BS5 0UN
 city: Bristol
-street: "Seymour Road"
-housenumber: 11
+street: Seymour Road
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

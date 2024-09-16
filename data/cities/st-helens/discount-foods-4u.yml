@@ -1,11 +1,11 @@
 id: 964989905
-type: way
+type: node
 latitude: 53.45388
 longitude: -2.72158
-postcode: "WA9 1AG"
+postcode: WA9 1AG
 city: St Helens
-street: "Higher Parr Street"
-housenumber: 101
+street: Higher Parr Street
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

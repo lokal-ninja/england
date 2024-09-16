@@ -1,11 +1,12 @@
 id: 679248277
-type: way
+type: node
 latitude: 51.55784
 longitude: -0.00861
-postcode: "E10 5NP"
+postcode: E10 5NP
 city: London
-street: "Ruckholt Road"
-housenumber: 26
+street: Ruckholt Road
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-We 10:00-14:00, Th 10:00-14:00, Fr 10:00-14:00, Sa 10:00-14:30, Mo-We 15:00-19:00, Th 15:00-20:00, Fr 15:00-17:30, Sa 14:30-17:00"
-website: "https://bikeshackleyton.com/"
+opening_hours: Mo-We 10:00-14:00, Th 10:00-14:00, Fr 10:00-14:00, Sa 10:00-14:30,
+    Mo-We 15:00-19:00, Th 15:00-20:00, Fr 15:00-17:30, Sa 14:30-17:00
+website: https://bikeshackleyton.com/

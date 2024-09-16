@@ -1,11 +1,11 @@
 id: 821625190
-type: way
+type: node
 latitude: 50.79519
 longitude: 0.28424
-postcode: "BN23 6QU"
+postcode: BN23 6QU
 city: Eastbourne
-street: "Marshall Road"
+street: Marshall Road
 housenumber: 2a
-phone: "+44 1323500555"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su 10:00-17:00"
-website: "https://www.halfords.com/locations/eastbourne-store/"
+phone: +44 1323500555
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su 10:00-17:00
+website: https://www.halfords.com/locations/eastbourne-store/

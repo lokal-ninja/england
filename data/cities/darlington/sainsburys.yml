@@ -1,11 +1,11 @@
 id: 63386021
-type: way
+type: node
 latitude: 54.52038
 longitude: -1.55715
-postcode: "DL1 5JG"
+postcode: DL1 5JG
 city: Darlington
-street: "Victoria Road"
-housenumber: 
+street: Victoria Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su 10:00-16:00"
-website: "https://stores.sainsburys.co.uk/2082/darlington"
+opening_hours: Mo-Sa 07:00-22:00; Su 10:00-16:00
+website: https://stores.sainsburys.co.uk/2082/darlington

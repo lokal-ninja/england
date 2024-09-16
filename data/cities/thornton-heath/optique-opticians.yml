@@ -1,11 +1,11 @@
 id: 256099092
-type: way
+type: node
 latitude: 51.38803
 longitude: -0.111
 postcode: ""
 city: Thornton Heath
-street: "London Road"
-housenumber: 508
+street: London Road
+housenumber: "508"
 phone: ""
 opening_hours: ""
 website: ""

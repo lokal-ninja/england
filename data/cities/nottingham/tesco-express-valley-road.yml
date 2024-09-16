@@ -1,11 +1,11 @@
 id: 275959737
-type: way
+type: node
 latitude: 52.9803
 longitude: -1.17442
-postcode: "NG5 1JJ"
+postcode: NG5 1JJ
 city: Nottingham
-street: "Valley Road"
-housenumber: 544
+street: Valley Road
+housenumber: "544"
 phone: ""
 opening_hours: ""
 website: ""

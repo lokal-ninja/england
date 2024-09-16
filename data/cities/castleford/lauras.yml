@@ -1,11 +1,11 @@
 id: 978638023
-type: way
+type: node
 latitude: 53.72448
 longitude: -1.35045
-postcode: "WF10 4AD"
+postcode: WF10 4AD
 city: Castleford
-street: "Lower Cambridge Street"
-housenumber: 142
+street: Lower Cambridge Street
+housenumber: "142"
 phone: ""
 opening_hours: ""
 website: ""

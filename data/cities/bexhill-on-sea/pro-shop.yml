@@ -1,11 +1,11 @@
 id: 455335516
-type: way
+type: node
 latitude: 50.83566
 longitude: 0.4273
-postcode: "TN39 4TR"
+postcode: TN39 4TR
 city: Bexhill-on-Sea
-street: "Cooden Sea Road"
-housenumber: 206
+street: Cooden Sea Road
+housenumber: "206"
 phone: ""
-opening_hours: "Jun-Aug Mo-Su 08:00-18:00; Dec-Feb Mo-Su 08:00-17:00"
+opening_hours: Jun-Aug Mo-Su 08:00-18:00; Dec-Feb Mo-Su 08:00-17:00
 website: ""

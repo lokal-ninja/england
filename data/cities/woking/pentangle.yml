@@ -1,11 +1,11 @@
 id: 146337954
-type: way
+type: node
 latitude: 51.31778
 longitude: -0.61814
-postcode: "GU21 2DS"
+postcode: GU21 2DS
 city: Woking
-street: "High Street"
-housenumber: 34
+street: High Street
+housenumber: "34"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:00; Su 10:00-17:00"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-17:00; Su 10:00-17:00
 website: ""

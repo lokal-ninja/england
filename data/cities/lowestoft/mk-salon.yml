@@ -1,11 +1,11 @@
 id: 1134322205
-type: way
+type: node
 latitude: 52.47676
 longitude: 1.71423
-postcode: "NR32 3LR"
+postcode: NR32 3LR
 city: Lowestoft
-street: "Bridge Road"
+street: Bridge Road
 housenumber: 42-44
-phone: "+44 1502 341220"
-opening_hours: "Tu,Th 09:00-17:30; We 09:00-20:00; Fr 09:00-18:00; Sa 08:30-15:00"
+phone: +44 1502 341220
+opening_hours: Tu,Th 09:00-17:30; We 09:00-20:00; Fr 09:00-18:00; Sa 08:30-15:00
 website: ""

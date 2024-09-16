@@ -1,11 +1,11 @@
 id: 321532901
-type: way
+type: node
 latitude: 53.26191
 longitude: -2.51389
-postcode: "CW9 5DE"
+postcode: CW9 5DE
 city: Northwich
-street: "Witton Street"
-housenumber: 11
+street: Witton Street
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 09:00-18:00"
+opening_hours: Mo-Sa 09:00-18:00
 website: ""

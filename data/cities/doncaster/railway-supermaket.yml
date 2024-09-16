@@ -1,11 +1,11 @@
 id: 1115018789
-type: way
+type: node
 latitude: 53.52006
 longitude: -1.1376
-postcode: "DN1 3AH"
+postcode: DN1 3AH
 city: Doncaster
-street: "St Sepulchre Gate West"
-housenumber: 127
+street: St Sepulchre Gate West
+housenumber: "127"
 phone: ""
 opening_hours: ""
 website: ""

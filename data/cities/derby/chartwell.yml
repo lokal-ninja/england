@@ -1,11 +1,11 @@
 id: 58124721
-type: way
+type: node
 latitude: 52.91285
 longitude: -1.45716
-postcode: "DE24 8HR"
+postcode: DE24 8HR
 city: Derby
-street: "Brunel Parkway"
-housenumber: 1
+street: Brunel Parkway
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.chartwells.net/"
+website: https://www.chartwells.net/

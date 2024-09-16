@@ -1,11 +1,11 @@
 id: 53283301
-type: way
+type: node
 latitude: 53.84124
 longitude: -1.76589
-postcode: "BD17 7GA"
+postcode: BD17 7GA
 city: Shipley
-street: "Berry Drive"
-housenumber: 1
+street: Berry Drive
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

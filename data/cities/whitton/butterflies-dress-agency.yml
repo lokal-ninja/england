@@ -1,11 +1,11 @@
 id: 762732560
-type: way
+type: node
 latitude: 51.45021
 longitude: -0.35752
-postcode: "TW2 7LE"
+postcode: TW2 7LE
 city: Whitton
-street: "High Street Whitton"
-housenumber: 111
+street: High Street Whitton
+housenumber: "111"
 phone: ""
 opening_hours: ""
 website: ""

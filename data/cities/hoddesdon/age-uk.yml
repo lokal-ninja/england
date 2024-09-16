@@ -1,11 +1,11 @@
 id: 122975631
-type: way
+type: node
 latitude: 51.76045
 longitude: -0.01166
-postcode: "EN11 8HD"
+postcode: EN11 8HD
 city: Hoddesdon
-street: "High Street"
-housenumber: 98
-phone: "+44 1992 443510"
-opening_hours: "Mo-Sa 09:00-17:00; Su 10:00-16:00"
-website: "https://directory.ageuk.org.uk/charity-shops/age-uk-shop-hoddesdon/"
+street: High Street
+housenumber: "98"
+phone: +44 1992 443510
+opening_hours: Mo-Sa 09:00-17:00; Su 10:00-16:00
+website: https://directory.ageuk.org.uk/charity-shops/age-uk-shop-hoddesdon/

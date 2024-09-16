@@ -1,11 +1,11 @@
 id: 135807483
-type: way
+type: node
 latitude: 51.12617
 longitude: -3.00503
-postcode: "TA6 3LG"
+postcode: TA6 3LG
 city: Bridgwater
-street: "Horsepond Lane"
-housenumber: 
-phone: "+44 1278 424887"
-opening_hours: "Mo-Sa 08:30-17:30;Su 10:00-12:00"
-website: "http://www.elkinstyres.com/index.html"
+street: Horsepond Lane
+housenumber: ""
+phone: +44 1278 424887
+opening_hours: Mo-Sa 08:30-17:30;Su 10:00-12:00
+website: http://www.elkinstyres.com/index.html

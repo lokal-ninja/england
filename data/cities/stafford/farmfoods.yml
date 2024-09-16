@@ -1,11 +1,11 @@
 id: 544415024
-type: way
+type: node
 latitude: 52.81362
 longitude: -2.12423
-postcode: "ST16 2SD"
+postcode: ST16 2SD
 city: Stafford
-street: "Greyfriars Way"
-housenumber: 2
+street: Greyfriars Way
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.farmfoods.co.uk/store-finder.php?branch_code=548"
+website: https://www.farmfoods.co.uk/store-finder.php?branch_code=548

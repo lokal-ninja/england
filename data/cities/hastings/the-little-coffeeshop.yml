@@ -1,11 +1,11 @@
 id: 1091348748
-type: way
+type: node
 latitude: 50.87163
 longitude: 0.60763
-postcode: "TN35 5BB"
+postcode: TN35 5BB
 city: Hastings
-street: "Old London Road"
-housenumber: 442
-phone: "+44 1424 429633"
-opening_hours: "09:30-16:00"
+street: Old London Road
+housenumber: "442"
+phone: +44 1424 429633
+opening_hours: 09:30-16:00
 website: ""

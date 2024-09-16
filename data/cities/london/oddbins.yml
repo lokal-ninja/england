@@ -1,11 +1,11 @@
 id: 59982046
-type: way
+type: node
 latitude: 51.45855
 longitude: -0.07486
-postcode: "SE22 8EP"
+postcode: SE22 8EP
 city: London
-street: "Lordship Lane"
-housenumber: 67
+street: Lordship Lane
+housenumber: "67"
 phone: ""
 opening_hours: ""
 website: ""

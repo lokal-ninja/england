@@ -1,11 +1,11 @@
 id: 190343190
-type: way
+type: node
 latitude: 51.30903
 longitude: -0.57656
-postcode: "GU22 0EU"
+postcode: GU22 0EU
 city: Woking
-street: "Wych Hill"
-housenumber: 
+street: Wych Hill
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.coop.co.uk/store-finder/GU22-0EU/wych-hill"
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.coop.co.uk/store-finder/GU22-0EU/wych-hill

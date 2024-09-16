@@ -1,11 +1,11 @@
 id: 226140659
-type: way
+type: node
 latitude: 51.28138
 longitude: 1.08154
-postcode: "CT1 2DZ"
+postcode: CT1 2DZ
 city: Canterbury
-street: "Palace Street"
+street: Palace Street
 housenumber: 21C
-phone: "+44 7424 786767"
-opening_hours: "Mo-Sa 09:00-19:00; Su 09:00-16:00"
+phone: +44 7424 786767
+opening_hours: Mo-Sa 09:00-19:00; Su 09:00-16:00
 website: ""

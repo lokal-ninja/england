@@ -1,11 +1,11 @@
 id: 469222922
-type: way
+type: node
 latitude: 51.38648
 longitude: -2.36601
-postcode: "BA1 2LW"
+postcode: BA1 2LW
 city: Bath
-street: "Brock Street"
-housenumber: 23
+street: Brock Street
+housenumber: "23"
 phone: ""
 opening_hours: ""
-website: "https://8hollandstreet.com/"
+website: https://8hollandstreet.com/

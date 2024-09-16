@@ -1,11 +1,11 @@
 id: 324977132
-type: way
+type: node
 latitude: 51.47035
 longitude: -0.17178
-postcode: "SW11 3JS"
+postcode: SW11 3JS
 city: London
-street: "Battersea High Street"
-housenumber: 179
+street: Battersea High Street
+housenumber: "179"
 phone: ""
 opening_hours: ""
-website: "http://lamoka.co.uk/"
+website: http://lamoka.co.uk/

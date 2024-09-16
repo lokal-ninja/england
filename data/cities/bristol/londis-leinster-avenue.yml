@@ -1,11 +1,11 @@
 id: 402525827
-type: way
+type: node
 latitude: 51.42587
 longitude: -2.59214
-postcode: "BS4 1NL"
+postcode: BS4 1NL
 city: Bristol
-street: "Leinster Avenue"
-housenumber: 56
+street: Leinster Avenue
+housenumber: "56"
 phone: ""
 opening_hours: ""
 website: ""

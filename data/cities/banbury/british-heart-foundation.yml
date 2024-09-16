@@ -1,11 +1,11 @@
 id: 185562885
-type: way
+type: node
 latitude: 52.06113
 longitude: -1.33467
-postcode: "OX16 5BN"
+postcode: OX16 5BN
 city: Banbury
-street: "Broad Street"
+street: Broad Street
 housenumber: 10-13
 phone: ""
-opening_hours: "Mo-Sa 09:00-17:30; Su 10:00-16:00"
-website: "https://www.bhf.org.uk/what-we-do/find-bhf-near-you/banbury-home-store"
+opening_hours: Mo-Sa 09:00-17:30; Su 10:00-16:00
+website: https://www.bhf.org.uk/what-we-do/find-bhf-near-you/banbury-home-store

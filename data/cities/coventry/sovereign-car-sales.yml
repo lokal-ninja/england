@@ -1,11 +1,12 @@
 id: 1104697023
-type: way
+type: node
 latitude: 52.43299
 longitude: -1.50445
-postcode: "CV6 5LW"
+postcode: CV6 5LW
 city: Coventry
-street: "Durbar Avenue"
-housenumber: 39
-phone: "+44 24 7668 7222"
-opening_hours: "Mo 09:00-18:00; Tu 09:00-18:00; We 09:00-18:00; Th 09:00-18:00; Fr 09:00-18:00; Sa 09:00-18:00; Su 10:00-16:00"
+street: Durbar Avenue
+housenumber: "39"
+phone: +44 24 7668 7222
+opening_hours: Mo 09:00-18:00; Tu 09:00-18:00; We 09:00-18:00; Th 09:00-18:00; Fr
+    09:00-18:00; Sa 09:00-18:00; Su 10:00-16:00
 website: ""

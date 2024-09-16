@@ -1,11 +1,11 @@
 id: 1015023430
-type: way
+type: node
 latitude: 53.53578
 longitude: -2.00457
 postcode: ""
 city: Greenfield
-street: "Kinders Lane"
-housenumber: 10
+street: Kinders Lane
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

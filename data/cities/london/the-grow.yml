@@ -4,8 +4,8 @@ latitude: 51.58111
 longitude: -0.12569
 postcode: ""
 city: London
-street: "Park Road"
-housenumber: 47
+street: Park Road
+housenumber: "47"
 phone: ""
 opening_hours: ""
-website: "https://www.thegrow.studio/"
+website: https://www.thegrow.studio/

@@ -1,11 +1,11 @@
 id: 545486458
-type: way
+type: node
 latitude: 51.23289
 longitude: 0.49412
-postcode: "ME17 4EH"
+postcode: ME17 4EH
 city: Maidstone
-street: "Heath Road"
-housenumber: 
+street: Heath Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Th 07:00-20:00; Fr-Sa 07:00-21:00, Su 08:00-20:00"
+opening_hours: Mo-Th 07:00-20:00; Fr-Sa 07:00-21:00, Su 08:00-20:00
 website: ""

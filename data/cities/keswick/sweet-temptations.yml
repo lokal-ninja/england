@@ -1,11 +1,11 @@
 id: 430108394
-type: way
+type: node
 latitude: 54.60108
 longitude: -3.13762
-postcode: "CA12 5JD"
+postcode: CA12 5JD
 city: Keswick
-street: "Main Street"
-housenumber: 22
+street: Main Street
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

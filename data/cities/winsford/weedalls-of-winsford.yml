@@ -1,11 +1,11 @@
 id: 319339434
-type: way
+type: node
 latitude: 53.19199
 longitude: -2.54566
-postcode: "CW7 2LY"
+postcode: CW7 2LY
 city: Winsford
-street: "Delamere Street"
-housenumber: 161
-phone: "+44 1606 554506"
+street: Delamere Street
+housenumber: "161"
+phone: +44 1606 554506
 opening_hours: ""
 website: ""

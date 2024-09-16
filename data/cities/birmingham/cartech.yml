@@ -1,11 +1,11 @@
 id: 107298360
-type: way
+type: node
 latitude: 52.44624
 longitude: -1.84524
-postcode: "B11 3EA"
+postcode: B11 3EA
 city: Birmingham
-street: "Spring Road"
-housenumber: 25
+street: Spring Road
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

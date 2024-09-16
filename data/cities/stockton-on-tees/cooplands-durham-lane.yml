@@ -1,11 +1,11 @@
 id: 751833193
-type: way
+type: node
 latitude: 54.51979
 longitude: -1.35893
-postcode: "TS16 0EH"
+postcode: TS16 0EH
 city: Stockton-on-Tees
-street: "Durham Lane"
-housenumber: 
+street: Durham Lane
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-16:45"
+opening_hours: Mo-Sa 08:00-16:45
 website: ""

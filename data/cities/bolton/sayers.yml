@@ -1,11 +1,11 @@
 id: 678356928
-type: way
+type: node
 latitude: 53.5619
 longitude: -2.37122
-postcode: "BL3 1HH"
+postcode: BL3 1HH
 city: Bolton
-street: "Market Street"
-housenumber: 31
-phone: "+44 1204 577316"
+street: Market Street
+housenumber: "31"
+phone: +44 1204 577316
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 361033670
-type: way
+type: node
 latitude: 50.66141
 longitude: -1.15219
-postcode: "PO36 8DY"
+postcode: PO36 8DY
 city: Sandown
-street: "Avenue Road"
-housenumber: 
-phone: "+44 1983 402282"
-opening_hours: "Mo-Fr 07:30-17:00; Sa 08:00-12:00"
+street: Avenue Road
+housenumber: ""
+phone: +44 1983 402282
+opening_hours: Mo-Fr 07:30-17:00; Sa 08:00-12:00
 website: ""

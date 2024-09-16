@@ -2,10 +2,10 @@ id: 984709111
 type: node
 latitude: 50.72017
 longitude: -3.53545
-postcode: "EX4 3JQ"
+postcode: EX4 3JQ
 city: Exeter
-street: "Fore Street"
-housenumber: 130
+street: Fore Street
+housenumber: "130"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-16:00"
-website: "https://www.rochellescurtains.co.uk/"
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-16:00
+website: https://www.rochellescurtains.co.uk/

@@ -1,11 +1,11 @@
 id: 108841032
-type: way
+type: node
 latitude: 51.4627
 longitude: -2.58984
-postcode: "BS1 3QY"
+postcode: BS1 3QY
 city: Bristol
-street: "Stokes Croft"
-housenumber: 74
+street: Stokes Croft
+housenumber: "74"
 phone: ""
 opening_hours: ""
 website: ""

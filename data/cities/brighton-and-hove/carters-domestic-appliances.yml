@@ -1,11 +1,11 @@
 id: 1172999911
-type: way
+type: node
 latitude: 50.83426
 longitude: -0.14011
-postcode: "BN1 4QE"
+postcode: BN1 4QE
 city: Brighton & Hove
-street: "Preston Road"
-housenumber: 
+street: Preston Road
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

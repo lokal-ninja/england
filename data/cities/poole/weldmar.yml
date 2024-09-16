@@ -1,11 +1,11 @@
 id: 300878865
-type: way
+type: node
 latitude: 50.74084
 longitude: -1.97883
-postcode: "BH17 0GD"
+postcode: BH17 0GD
 city: Poole
-street: "Didcot Road"
-housenumber: 2
+street: Didcot Road
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.weld-hospice.org.uk/locations/poole-outlet/"
+website: https://www.weld-hospice.org.uk/locations/poole-outlet/

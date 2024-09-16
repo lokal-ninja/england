@@ -1,11 +1,11 @@
 id: 621571187
-type: way
+type: node
 latitude: 51.44365
 longitude: -2.56576
-postcode: "BS4 3AQ"
+postcode: BS4 3AQ
 city: Bristol
-street: "Central Road"
-housenumber: 210
+street: Central Road
+housenumber: "210"
 phone: ""
 opening_hours: ""
 website: ""

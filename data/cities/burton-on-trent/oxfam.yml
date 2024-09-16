@@ -1,11 +1,11 @@
 id: 821160044
-type: way
+type: node
 latitude: 52.8019
 longitude: -1.63079
-postcode: "DE14 1HU"
+postcode: DE14 1HU
 city: Burton-on-Trent
-street: "High Street"
-housenumber: 13
+street: High Street
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

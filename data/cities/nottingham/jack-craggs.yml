@@ -1,11 +1,11 @@
 id: 291783515
-type: way
+type: node
 latitude: 52.95307
 longitude: -1.15187
-postcode: "NG1 6FG"
+postcode: NG1 6FG
 city: Nottingham
-street: "St James's Street"
-housenumber: 3
+street: St James's Street
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "http://www.thesaloncafe.com/"
+website: http://www.thesaloncafe.com/

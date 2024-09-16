@@ -1,11 +1,11 @@
 id: 58507809
-type: way
+type: node
 latitude: 52.99906
 longitude: -1.39473
-postcode: "DE7 6EE"
+postcode: DE7 6EE
 city: Ilkeston
-street: "Main Road"
-housenumber: 34
+street: Main Road
+housenumber: "34"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 70483375
-type: way
+type: node
 latitude: 51.46906
 longitude: -1.02951
-postcode: "RG31 6DR"
+postcode: RG31 6DR
 city: Reading
-street: "Kentwood Hill"
-housenumber: 262
+street: Kentwood Hill
+housenumber: "262"
 phone: ""
-opening_hours: "Mo-Su 06:00-22:00"
+opening_hours: Mo-Su 06:00-22:00
 website: ""

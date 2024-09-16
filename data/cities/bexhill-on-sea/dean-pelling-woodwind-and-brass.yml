@@ -1,11 +1,11 @@
 id: 399347344
-type: way
+type: node
 latitude: 50.85262
 longitude: 0.46267
-postcode: "TN39 4DG"
+postcode: TN39 4DG
 city: Bexhill-on-Sea
-street: "Windmill Drive"
-housenumber: 5
+street: Windmill Drive
+housenumber: "5"
 phone: ""
-opening_hours: "Tu-Fr 08:30-17:00; Sa please phone"
+opening_hours: Tu-Fr 08:30-17:00; Sa "please phone"
 website: ""

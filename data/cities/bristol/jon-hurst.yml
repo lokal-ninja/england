@@ -1,11 +1,11 @@
 id: 260994936
-type: way
+type: node
 latitude: 51.46434
 longitude: -2.60867
 postcode: ""
 city: Bristol
-street: "Cotham Hill"
-housenumber: 18
-phone: "+44 1173730044"
+street: Cotham Hill
+housenumber: "18"
+phone: +44 1173730044
 opening_hours: ""
 website: ""

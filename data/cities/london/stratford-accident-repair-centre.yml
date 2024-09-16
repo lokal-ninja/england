@@ -1,11 +1,11 @@
 id: 1021755309
-type: way
+type: node
 latitude: 51.54671
 longitude: -0.00162
-postcode: "E15 1BZ"
+postcode: E15 1BZ
 city: London
-street: "Dorset Place"
-housenumber: 3
+street: Dorset Place
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

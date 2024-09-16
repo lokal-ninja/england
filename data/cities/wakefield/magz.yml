@@ -1,11 +1,11 @@
 id: 427053262
-type: way
+type: node
 latitude: 53.68101
 longitude: -1.50668
-postcode: "WF2 9SR"
+postcode: WF2 9SR
 city: Wakefield
-street: "Westgate"
-housenumber: 154
+street: Westgate
+housenumber: "154"
 phone: ""
 opening_hours: ""
 website: ""

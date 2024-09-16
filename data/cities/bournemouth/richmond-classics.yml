@@ -1,11 +1,11 @@
 id: 223406717
-type: way
+type: node
 latitude: 50.71987
 longitude: -1.87644
-postcode: "BH1 2BY"
+postcode: BH1 2BY
 city: Bournemouth
-street: "Westover Road"
-housenumber: 3
+street: Westover Road
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00, Sa 09:00-18:00, Su 11:00-16:00"
+opening_hours: Mo-Fr 10:00-18:00, Sa 09:00-18:00, Su 11:00-16:00
 website: ""

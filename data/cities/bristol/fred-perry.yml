@@ -1,11 +1,11 @@
 id: 186312050
-type: way
+type: node
 latitude: 51.45556
 longitude: -2.60368
-postcode: "BS1 5LA"
+postcode: BS1 5LA
 city: Bristol
-street: "Park Street"
-housenumber: 82
+street: Park Street
+housenumber: "82"
 phone: ""
 opening_hours: ""
 website: ""

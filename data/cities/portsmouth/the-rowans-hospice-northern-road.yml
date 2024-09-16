@@ -1,11 +1,11 @@
 id: 560212387
-type: way
+type: node
 latitude: 50.8459
 longitude: -1.06952
 postcode: ""
 city: Portsmouth
-street: "Northern Road"
-housenumber: 
+street: Northern Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:30-16:30"
+opening_hours: Mo-Sa 09:30-16:30
 website: ""

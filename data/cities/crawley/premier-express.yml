@@ -1,11 +1,11 @@
 id: 354099776
-type: way
+type: node
 latitude: 51.11642
 longitude: -0.18876
-postcode: "RH10 1XX"
+postcode: RH10 1XX
 city: Crawley
-street: "The Boulevard"
-housenumber: 6
+street: The Boulevard
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 06:30-22:00; Sa 06:30-23:00; Su 08:00-20:00"
-website: "https://www.premier-stores.co.uk/our-stores/kvk-mini-market"
+opening_hours: Mo-Fr 06:30-22:00; Sa 06:30-23:00; Su 08:00-20:00
+website: https://www.premier-stores.co.uk/our-stores/kvk-mini-market

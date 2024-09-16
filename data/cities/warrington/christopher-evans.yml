@@ -1,11 +1,11 @@
 id: 1207648536
-type: way
+type: node
 latitude: 53.37197
 longitude: -2.58145
-postcode: "WA4 6SG"
+postcode: WA4 6SG
 city: Warrington
-street: "London Road"
-housenumber: 39
+street: London Road
+housenumber: "39"
 phone: ""
-opening_hours: "Tu-Sa 09:30-17:00; Su,Mo off"
+opening_hours: Tu-Sa 09:30-17:00; Su,Mo off
 website: ""

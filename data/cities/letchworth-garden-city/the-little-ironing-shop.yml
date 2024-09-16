@@ -1,11 +1,11 @@
 id: 888610621
-type: way
+type: node
 latitude: 51.97964
 longitude: -0.22552
-postcode: "SG6 3EN"
+postcode: SG6 3EN
 city: Letchworth Garden City
-street: "The Wynd"
-housenumber: 23
-phone: "+44 1462 339128"
-opening_hours: "Mo,Tu,Th,Fr 09:00-15:00; Sa 10:00-14:00"
+street: The Wynd
+housenumber: "23"
+phone: +44 1462 339128
+opening_hours: Mo,Tu,Th,Fr 09:00-15:00; Sa 10:00-14:00
 website: ""

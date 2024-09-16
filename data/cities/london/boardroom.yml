@@ -1,11 +1,11 @@
 id: 435155477
-type: way
+type: node
 latitude: 51.45143
 longitude: -0.03275
-postcode: "SE4 1AQ"
+postcode: SE4 1AQ
 city: London
-street: "Ewhurst Road"
-housenumber: 10
+street: Ewhurst Road
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

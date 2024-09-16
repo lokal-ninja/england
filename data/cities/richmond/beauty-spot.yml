@@ -1,11 +1,11 @@
 id: 432890746
-type: way
+type: node
 latitude: 51.46063
 longitude: -0.30235
-postcode: "TW9 1EE"
+postcode: TW9 1EE
 city: Richmond
-street: "Eton Street"
-housenumber: 14
+street: Eton Street
+housenumber: "14"
 phone: ""
-opening_hours: "Mo 09:00-19:00; Tu-Th 09:00-20:00; Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.beauchampbeauty.com"
+opening_hours: Mo 09:00-19:00; Tu-Th 09:00-20:00; Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.beauchampbeauty.com

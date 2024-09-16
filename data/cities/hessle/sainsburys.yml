@@ -1,11 +1,11 @@
 id: 8761733
-type: way
+type: node
 latitude: 53.72281
 longitude: -0.42081
-postcode: "HU13 9NS"
+postcode: HU13 9NS
 city: Hessle
-street: "Sainsbury Way"
-housenumber: 
+street: Sainsbury Way
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su 10:00-16:00"
-website: "https://stores.sainsburys.co.uk/0825/hull"
+opening_hours: Mo-Sa 07:00-22:00; Su 10:00-16:00
+website: https://stores.sainsburys.co.uk/0825/hull

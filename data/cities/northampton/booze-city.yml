@@ -1,11 +1,11 @@
 id: 377397189
-type: way
+type: node
 latitude: 52.23672
 longitude: -0.89955
-postcode: "NN1 1PT"
+postcode: NN1 1PT
 city: Northampton
-street: "St Peters Walk"
-housenumber: 1
+street: St Peters Walk
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

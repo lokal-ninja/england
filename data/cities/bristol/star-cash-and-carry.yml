@@ -1,11 +1,11 @@
 id: 354944116
-type: way
+type: node
 latitude: 51.46616
 longitude: -2.56444
 postcode: ""
 city: Bristol
-street: "Roman Road"
-housenumber: 8
+street: Roman Road
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 699214427
-type: way
+type: node
 latitude: 51.73045
 longitude: -0.34244
-postcode: "AL2 2NN"
+postcode: AL2 2NN
 city: St Albans
-street: "Watling Street"
-housenumber: 113
+street: Watling Street
+housenumber: "113"
 phone: ""
-opening_hours: "Mo-Su 00:00-24:00"
+opening_hours: Mo-Su 00:00-24:00
 website: ""

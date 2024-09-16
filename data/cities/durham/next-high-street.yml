@@ -1,11 +1,11 @@
 id: 104205457
-type: way
+type: node
 latitude: 54.7772
 longitude: -1.57485
-postcode: "DH1 3UJ"
+postcode: DH1 3UJ
 city: Durham
-street: "High Street"
-housenumber: 10
+street: High Street
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

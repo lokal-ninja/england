@@ -1,11 +1,11 @@
 id: 180930150
-type: way
+type: node
 latitude: 51.10933
 longitude: -0.86469
-postcode: "GU35 0AW"
+postcode: GU35 0AW
 city: Bordon
-street: "High Street"
-housenumber: 
+street: High Street
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su 10:00-16:00"
+opening_hours: Mo-Sa 07:00-22:00; Su 10:00-16:00
 website: ""

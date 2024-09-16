@@ -1,11 +1,11 @@
 id: 815659589
-type: way
+type: node
 latitude: 51.51372
 longitude: -0.10155
-postcode: "EC4M 7AE"
+postcode: EC4M 7AE
 city: London
-street: "Ludgate Hill"
-housenumber: 23
+street: Ludgate Hill
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

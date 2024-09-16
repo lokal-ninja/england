@@ -2,10 +2,10 @@ id: 8829122717
 type: node
 latitude: 52.63488
 longitude: 1.29666
-postcode: "NR3 1LQ"
+postcode: NR3 1LQ
 city: Norwich
-street: "Magdalen Street"
-housenumber: 43
-phone: "+44 1603 665917"
-opening_hours: "08:00-22:00"
+street: Magdalen Street
+housenumber: "43"
+phone: +44 1603 665917
+opening_hours: 08:00-22:00
 website: ""

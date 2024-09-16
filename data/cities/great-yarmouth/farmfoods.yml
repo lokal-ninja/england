@@ -1,11 +1,11 @@
 id: 219495239
-type: way
+type: node
 latitude: 52.58072
 longitude: 1.72847
-postcode: "NR31 6RL"
+postcode: NR31 6RL
 city: Great Yarmouth
-street: "High Street"
-housenumber: 
+street: High Street
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.farmfoods.co.uk/store-finder.php?branch_code=693"
+website: https://www.farmfoods.co.uk/store-finder.php?branch_code=693

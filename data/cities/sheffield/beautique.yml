@@ -1,11 +1,11 @@
 id: 1135497333
-type: way
+type: node
 latitude: 53.34942
 longitude: -1.40189
-postcode: "S12 4WD"
+postcode: S12 4WD
 city: Sheffield
-street: "Birley Moor Road"
-housenumber: 54
+street: Birley Moor Road
+housenumber: "54"
 phone: ""
 opening_hours: ""
 website: ""

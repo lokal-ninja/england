@@ -1,11 +1,11 @@
 id: 190130948
-type: way
+type: node
 latitude: 51.49319
 longitude: -2.62058
-postcode: "BS9 3DQ"
+postcode: BS9 3DQ
 city: Bristol
-street: "Canford Lane"
-housenumber: 27
+street: Canford Lane
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

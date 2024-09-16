@@ -2,10 +2,11 @@ id: 11837559091
 type: node
 latitude: 51.20691
 longitude: -1.47937
-postcode: "SP10 1LJ"
+postcode: SP10 1LJ
 city: Andover
-street: "High Street"
-housenumber: 9
-phone: "+44 1264 333333"
-opening_hours: "Mo-Tu 09:15-17:30; We 09:30-17:30; Th-Fr 09:15-17:30; Sa 09:15-17:00; Su closed"
-website: "https://www.haystravel.co.uk/branches/andover/"
+street: High Street
+housenumber: "9"
+phone: +44 1264 333333
+opening_hours: Mo-Tu 09:15-17:30; We 09:30-17:30; Th-Fr 09:15-17:30; Sa 09:15-17:00;
+    Su closed
+website: https://www.haystravel.co.uk/branches/andover/

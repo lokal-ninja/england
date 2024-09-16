@@ -1,11 +1,11 @@
 id: 884090681
-type: way
+type: node
 latitude: 51.97909
 longitude: -0.22634
 postcode: ""
 city: Letchworth Garden City
-street: "Leys Avenue"
-housenumber: 30
-phone: "+44 1462 676688"
-opening_hours: "Tu-Sa 09:00-17:30"
+street: Leys Avenue
+housenumber: "30"
+phone: +44 1462 676688
+opening_hours: Tu-Sa 09:00-17:30
 website: ""

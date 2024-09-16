@@ -1,11 +1,11 @@
 id: 80501570
-type: way
+type: node
 latitude: 53.16195
 longitude: -1.58952
-postcode: "DE4 2EQ"
+postcode: DE4 2EQ
 city: Matlock
-street: "Station Road"
-housenumber: 
+street: Station Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.coop.co.uk/store-finder/DE4-2EQ/station-road"
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.coop.co.uk/store-finder/DE4-2EQ/station-road

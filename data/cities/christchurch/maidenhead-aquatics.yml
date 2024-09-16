@@ -1,11 +1,11 @@
 id: 1222351348
-type: way
+type: node
 latitude: 50.74551
 longitude: -1.73955
-postcode: "BH23 4SA"
+postcode: BH23 4SA
 city: Christchurch
-street: "Lyndhurst Road"
-housenumber: 
+street: Lyndhurst Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-17:30; Su 10:30-16:30"
-website: "https://www.fishkeeper.co.uk/storefinder/christchurch/"
+opening_hours: Mo-Sa 09:00-17:30; Su 10:30-16:30
+website: https://www.fishkeeper.co.uk/storefinder/christchurch/

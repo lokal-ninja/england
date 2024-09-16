@@ -1,11 +1,11 @@
 id: 539312321
-type: way
+type: node
 latitude: 52.3667
 longitude: -1.24568
-postcode: "CV22 5AL"
+postcode: CV22 5AL
 city: Rugby
-street: "Hillmorton Road"
-housenumber: 102
-phone: "+44 1788 536600"
-opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-17:00; Su 10:00-16:00"
-website: "https://www.f1autocentres.co.uk/branch/car-tyres-service-mot-Rugby"
+street: Hillmorton Road
+housenumber: "102"
+phone: +44 1788 536600
+opening_hours: Mo-Fr 08:30-18:00; Sa 08:30-17:00; Su 10:00-16:00
+website: https://www.f1autocentres.co.uk/branch/car-tyres-service-mot-Rugby

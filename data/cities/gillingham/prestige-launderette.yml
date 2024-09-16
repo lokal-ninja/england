@@ -1,11 +1,11 @@
 id: 293856836
-type: way
+type: node
 latitude: 51.38873
 longitude: 0.54358
-postcode: "ME7 1HG"
+postcode: ME7 1HG
 city: Gillingham
-street: "Arden Street"
-housenumber: 1
-phone: "+44 1634 570362"
+street: Arden Street
+housenumber: "1"
+phone: +44 1634 570362
 opening_hours: ""
 website: ""

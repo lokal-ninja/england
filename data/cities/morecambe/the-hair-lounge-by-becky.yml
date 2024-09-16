@@ -4,8 +4,9 @@ latitude: 54.0662
 longitude: -2.83268
 postcode: ""
 city: Morecambe
-street: "Lancaster Road"
-housenumber: 
+street: Lancaster Road
+housenumber: ""
 phone: ""
-opening_hours: "Tu,We 09:00-17:00; Th 09:00-20:00; Fr 09:00-18:00; Sa 09:00-16:00; Su,Mo off"
+opening_hours: Tu,We 09:00-17:00; Th 09:00-20:00; Fr 09:00-18:00; Sa 09:00-16:00;
+    Su,Mo off
 website: ""

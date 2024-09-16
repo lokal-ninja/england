@@ -1,11 +1,11 @@
 id: 336749955
-type: way
+type: node
 latitude: 52.3025
 longitude: -0.69211
-postcode: "NN8 1AT"
+postcode: NN8 1AT
 city: Wellingborough
-street: "Market Street"
-housenumber: 23
-phone: "+44 1933 275718"
+street: Market Street
+housenumber: "23"
+phone: +44 1933 275718
 opening_hours: ""
 website: ""

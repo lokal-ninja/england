@@ -2,10 +2,10 @@ id: 4346623839
 type: node
 latitude: 51.06299
 longitude: -0.33142
-postcode: "RH12 1PB"
+postcode: RH12 1PB
 city: Horsham
-street: "West Street"
-housenumber: 24
+street: West Street
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

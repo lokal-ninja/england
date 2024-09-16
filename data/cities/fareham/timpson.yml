@@ -1,11 +1,11 @@
 id: 1188314040
-type: way
+type: node
 latitude: 50.88488
 longitude: -1.24642
-postcode: "PO15 7PD"
+postcode: PO15 7PD
 city: Fareham
-street: "Whiteley Way"
-housenumber: 
-phone: "+44 1489 564880"
+street: Whiteley Way
+housenumber: ""
+phone: +44 1489 564880
 opening_hours: ""
-website: "https://www.timpson.co.uk/stores/whiteley"
+website: https://www.timpson.co.uk/stores/whiteley

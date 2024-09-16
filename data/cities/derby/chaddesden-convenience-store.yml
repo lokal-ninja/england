@@ -1,11 +1,11 @@
 id: 568499992
-type: way
+type: node
 latitude: 52.92394
 longitude: -1.43861
-postcode: "DE21 6PF"
+postcode: DE21 6PF
 city: Derby
-street: "Nottingham Road"
-housenumber: 484
+street: Nottingham Road
+housenumber: "484"
 phone: ""
 opening_hours: ""
 website: ""

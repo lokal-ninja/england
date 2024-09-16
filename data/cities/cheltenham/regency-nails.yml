@@ -1,11 +1,11 @@
 id: 962001973
-type: way
+type: node
 latitude: 51.8885
 longitude: -2.08005
-postcode: "GL53 7LZ"
+postcode: GL53 7LZ
 city: Cheltenham
-street: "Bath Road"
-housenumber: 193
+street: Bath Road
+housenumber: "193"
 phone: ""
-opening_hours: "Mo-Sa 10:00-18:00"
+opening_hours: Mo-Sa 10:00-18:00
 website: ""

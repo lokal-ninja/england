@@ -1,11 +1,11 @@
 id: 4960939
-type: way
+type: node
 latitude: 53.48473
 longitude: -2.24232
-postcode: "M4 3AQ"
+postcode: M4 3AQ
 city: Manchester
 street: ""
-housenumber: 
-phone: "+44 161 833 9851"
-opening_hours: "Mo-Sa 08:00-20:00; Su 11:30-17:30"
-website: "https://www.manchesterarndale.com/"
+housenumber: ""
+phone: +44 161 833 9851
+opening_hours: Mo-Sa 08:00-20:00; Su 11:30-17:30
+website: https://www.manchesterarndale.com/

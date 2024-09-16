@@ -1,11 +1,11 @@
 id: 427051662
-type: way
+type: node
 latitude: 51.42789
 longitude: -0.18527
-postcode: "SW17 0HB"
+postcode: SW17 0HB
 city: London
-street: "Waterside Way"
-housenumber: 
+street: Waterside Way
+housenumber: ""
 phone: "+441634248638"
-opening_hours: "Mo-Fr 08:30-21:00; Sa 08:30-18:00; Su 09:30-18:00"
-website: "https://www.bigmotoringworld.co.uk"
+opening_hours: Mo-Fr 08:30-21:00; Sa 08:30-18:00; Su 09:30-18:00
+website: https://www.bigmotoringworld.co.uk

@@ -1,11 +1,11 @@
 id: 1125268470
-type: way
+type: node
 latitude: 52.0292
 longitude: 1.2043
-postcode: "IP3 9RT"
+postcode: IP3 9RT
 city: Ipswich
-street: "Foxtail Road"
-housenumber: 24
+street: Foxtail Road
+housenumber: "24"
 phone: "+441473712698"
-opening_hours: "Mo-Fr 07:30-17:00"
-website: "https://www.gripfixings.com/"
+opening_hours: Mo-Fr 07:30-17:00
+website: https://www.gripfixings.com/

@@ -1,11 +1,11 @@
 id: 219481919
-type: way
+type: node
 latitude: 53.84428
 longitude: -1.5334
-postcode: "LS17 6PX"
+postcode: LS17 6PX
 city: Leeds
-street: "Harrogate Parade"
-housenumber: 3
-phone: "+44 113 318 8563"
+street: Harrogate Parade
+housenumber: "3"
+phone: +44 113 318 8563
 opening_hours: ""
-website: "https://www.mind.org.uk/"
+website: https://www.mind.org.uk/

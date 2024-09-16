@@ -1,11 +1,11 @@
 id: 292127262
-type: way
+type: node
 latitude: 52.06041
 longitude: 1.14559
-postcode: "IP1 2ET"
+postcode: IP1 2ET
 city: Ipswich
-street: "Norwich Road"
-housenumber: 1
+street: Norwich Road
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00;Sa 10:00-17:00"
-website: "https://beautifuldesigns.ltd.uk/"
+opening_hours: Mo-Fr 09:00-17:00;Sa 10:00-17:00
+website: https://beautifuldesigns.ltd.uk/

@@ -1,11 +1,11 @@
 id: 1038752222
-type: way
+type: node
 latitude: 51.61152
 longitude: -0.1629
-postcode: "N12 0RS"
+postcode: N12 0RS
 city: London
-street: "Woodhouse Road"
-housenumber: 224
+street: Woodhouse Road
+housenumber: "224"
 phone: ""
-opening_hours: "Mo-Sa 09:00-18:00; Su 10:00-16:00"
+opening_hours: Mo-Sa 09:00-18:00; Su 10:00-16:00
 website: ""

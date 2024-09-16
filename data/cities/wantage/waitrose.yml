@@ -1,11 +1,11 @@
 id: 68743393
-type: way
+type: node
 latitude: 51.58903
 longitude: -1.42504
-postcode: "OX12 8BD"
+postcode: OX12 8BD
 city: Wantage
-street: "Wallingford Street"
-housenumber: 17
+street: Wallingford Street
+housenumber: "17"
 phone: ""
 opening_hours: ""
-website: "https://www.waitrose.com/find-a-store/wantage"
+website: https://www.waitrose.com/find-a-store/wantage

@@ -1,11 +1,11 @@
 id: 222053353
-type: way
+type: node
 latitude: 51.44841
 longitude: -0.93569
-postcode: "RG6 1NH"
+postcode: RG6 1NH
 city: Reading
-street: "Pitcroft Avenue"
-housenumber: 11
-phone: "+44 7767 813 085"
+street: Pitcroft Avenue
+housenumber: "11"
+phone: +44 7767 813 085
 opening_hours: ""
 website: ""

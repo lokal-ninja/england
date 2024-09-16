@@ -1,11 +1,11 @@
 id: 668236472
-type: way
+type: node
 latitude: 54.72544
 longitude: -1.58477
-postcode: "DH6 5HS"
+postcode: DH6 5HS
 city: Durham
 street: ""
-housenumber: 
+housenumber: ""
 phone: "+441388814671"
-opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-16:00; Su 10:30-15:30"
-website: "https://www.croxdalegroup.com/"
+opening_hours: Mo-Fr 08:30-18:00; Sa 08:30-16:00; Su 10:30-15:30
+website: https://www.croxdalegroup.com/

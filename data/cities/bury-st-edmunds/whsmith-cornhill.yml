@@ -1,11 +1,11 @@
 id: 325694880
-type: way
+type: node
 latitude: 52.24594
 longitude: 0.71145
-postcode: "IP33 1DY"
+postcode: IP33 1DY
 city: Bury St Edmunds
-street: "Cornhill"
-housenumber: 15
+street: Cornhill
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Sa 08:30-17:30; Su 10:00-16:00"
-website: "https://www.whsmith.co.uk/stores/details/?StoreID=1998"
+opening_hours: Mo-Sa 08:30-17:30; Su 10:00-16:00
+website: https://www.whsmith.co.uk/stores/details/?StoreID=1998

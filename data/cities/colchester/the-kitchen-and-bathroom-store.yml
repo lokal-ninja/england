@@ -1,11 +1,11 @@
 id: 190030290
-type: way
+type: node
 latitude: 51.88359
 longitude: 0.90889
-postcode: "CO1 2AN"
+postcode: CO1 2AN
 city: Colchester
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

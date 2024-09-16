@@ -1,11 +1,11 @@
 id: 743527866
-type: way
+type: node
 latitude: 53.04336
 longitude: -1.40474
-postcode: "DE5 3HT"
+postcode: DE5 3HT
 city: Ripley
-street: "Derby Road"
-housenumber: 88
+street: Derby Road
+housenumber: "88"
 phone: ""
 opening_hours: ""
 website: ""

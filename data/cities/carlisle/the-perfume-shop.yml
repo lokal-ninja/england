@@ -4,8 +4,8 @@ latitude: 54.89519
 longitude: -2.93447
 postcode: ""
 city: Carlisle
-street: "New Lane"
-housenumber: 1
-phone: "+44 1228 594429"
-opening_hours: "Mo-Sa 09:00-17:30; Su 10:30-16:30"
-website: "https://www.theperfumeshop.com/store/carlisle-the-perfume-shop"
+street: New Lane
+housenumber: "1"
+phone: +44 1228 594429
+opening_hours: Mo-Sa 09:00-17:30; Su 10:30-16:30
+website: https://www.theperfumeshop.com/store/carlisle-the-perfume-shop

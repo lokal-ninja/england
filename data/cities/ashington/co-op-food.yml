@@ -1,11 +1,11 @@
 id: 456016276
-type: way
+type: node
 latitude: 55.17275
 longitude: -1.5721
-postcode: "NE63 8UB"
+postcode: NE63 8UB
 city: Ashington
-street: "Remscheid Way"
-housenumber: 
+street: Remscheid Way
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.coop.co.uk/store-finder/NE63-8UJ/remscheid-way"
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.coop.co.uk/store-finder/NE63-8UJ/remscheid-way

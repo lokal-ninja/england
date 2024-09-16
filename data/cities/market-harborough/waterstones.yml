@@ -1,11 +1,11 @@
 id: 58648476
-type: way
+type: node
 latitude: 52.47746
 longitude: -0.92012
-postcode: "LE16 7PA"
+postcode: LE16 7PA
 city: Market Harborough
-street: "The Square"
-housenumber: 7
+street: The Square
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

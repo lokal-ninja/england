@@ -5,7 +5,7 @@ longitude: -2.2556
 postcode: ""
 city: Manchester
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.coop.co.uk/store-finder/M22-4ET/269-palatine-road"
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.coop.co.uk/store-finder/M22-4ET/269-palatine-road

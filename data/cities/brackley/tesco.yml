@@ -1,11 +1,11 @@
 id: 100603098
-type: way
+type: node
 latitude: 52.02339
 longitude: -1.1523
-postcode: "NN13 7EF"
+postcode: NN13 7EF
 city: Brackley
-street: "Oxford Road"
-housenumber: 
+street: Oxford Road
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

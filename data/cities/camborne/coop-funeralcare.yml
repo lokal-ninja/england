@@ -1,11 +1,11 @@
 id: 544203737
-type: way
+type: node
 latitude: 50.21361
 longitude: -5.30261
-postcode: "TR14 7JU"
+postcode: TR14 7JU
 city: Camborne
-street: "College Street"
-housenumber: 1
+street: College Street
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1254898501
-type: way
+type: node
 latitude: 52.60691
 longitude: 1.28789
-postcode: "NR4 6ET"
+postcode: NR4 6ET
 city: Norwich
-street: "The Lastings, Hall Rd"
-housenumber: 7
+street: The Lastings, Hall Rd
+housenumber: "7"
 phone: "01603574157"
-opening_hours: "Mo-Fr 09:00-17:30"
-website: "https://home-design-schmidt.uk/showrooms/norwich/"
+opening_hours: Mo-Fr 09:00-17:30
+website: https://home-design-schmidt.uk/showrooms/norwich/

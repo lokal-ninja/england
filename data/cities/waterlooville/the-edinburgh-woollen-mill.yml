@@ -1,11 +1,11 @@
 id: 1313117988
-type: way
+type: node
 latitude: 50.87915
 longitude: -1.03059
 postcode: ""
 city: Waterlooville
-street: "Dukes Walk"
-housenumber: 
+street: Dukes Walk
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-17:30; Su 10:00-16:00"
-website: "https://ewm.co.uk/"
+opening_hours: Mo-Sa 09:00-17:30; Su 10:00-16:00
+website: https://ewm.co.uk/

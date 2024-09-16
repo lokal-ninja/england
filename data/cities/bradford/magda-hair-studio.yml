@@ -1,11 +1,11 @@
 id: 1148605819
-type: way
+type: node
 latitude: 53.79462
 longitude: -1.75654
-postcode: "BD1 2SH"
+postcode: BD1 2SH
 city: Bradford
-street: "Godwin Street"
-housenumber: 79
+street: Godwin Street
+housenumber: "79"
 phone: ""
 opening_hours: ""
 website: ""

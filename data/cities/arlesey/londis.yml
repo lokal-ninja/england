@@ -1,11 +1,11 @@
 id: 124387435
-type: way
+type: node
 latitude: 52.00562
 longitude: -0.26572
-postcode: "SG15 6RA"
+postcode: SG15 6RA
 city: Arlesey
-street: "High Street"
-housenumber: 1
+street: High Street
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

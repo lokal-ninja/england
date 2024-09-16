@@ -1,11 +1,11 @@
 id: 104310147
-type: way
+type: node
 latitude: 52.61973
 longitude: 1.29752
-postcode: "NR1 3HL"
+postcode: NR1 3HL
 city: Norwich
-street: "Hall Road"
-housenumber: 54
+street: Hall Road
+housenumber: "54"
 phone: ""
 opening_hours: ""
 website: ""

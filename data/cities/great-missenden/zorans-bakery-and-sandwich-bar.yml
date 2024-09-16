@@ -1,11 +1,11 @@
 id: 88954436
-type: way
+type: node
 latitude: 51.69974
 longitude: -0.7405
-postcode: "HP16 9EX"
+postcode: HP16 9EX
 city: Great Missenden
-street: "High Street"
-housenumber: 123
+street: High Street
+housenumber: "123"
 phone: ""
 opening_hours: ""
 website: ""

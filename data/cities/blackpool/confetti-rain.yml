@@ -1,11 +1,11 @@
 id: 347268350
-type: way
+type: node
 latitude: 53.84977
 longitude: -3.0503
-postcode: "FY2 9NW"
+postcode: FY2 9NW
 city: Blackpool
-street: "Red Bank Road"
-housenumber: 62
+street: Red Bank Road
+housenumber: "62"
 phone: ""
 opening_hours: ""
 website: ""

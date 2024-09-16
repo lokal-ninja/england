@@ -1,11 +1,11 @@
 id: 239333299
-type: way
+type: node
 latitude: 52.79996
 longitude: -0.03301
-postcode: "PE12 6TJ"
+postcode: PE12 6TJ
 city: Spalding
-street: "Main Road"
-housenumber: 217
+street: Main Road
+housenumber: "217"
 phone: ""
 opening_hours: ""
 website: ""

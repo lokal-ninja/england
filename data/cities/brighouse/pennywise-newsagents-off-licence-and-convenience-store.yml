@@ -1,11 +1,11 @@
 id: 1003500132
-type: way
+type: node
 latitude: 53.69819
 longitude: -1.78639
-postcode: "HD6 3AX"
+postcode: HD6 3AX
 city: Brighouse
-street: "Thornhill Road"
+street: Thornhill Road
 housenumber: 35-41
-phone: "+44 1484 719120"
-opening_hours: "Mo-Sa 06:30-21:00; Su 07:00-20:00"
+phone: +44 1484 719120
+opening_hours: Mo-Sa 06:30-21:00; Su 07:00-20:00
 website: ""

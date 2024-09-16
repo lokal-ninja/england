@@ -1,11 +1,12 @@
 id: 4380266
-type: way
+type: node
 latitude: 51.48281
 longitude: 0.28256
-postcode: "RM20 3WY"
+postcode: RM20 3WY
 city: Grays
-street: "West Thurrock Way"
-housenumber: 
-phone: "+44 1708 683075"
-opening_hours: "Mo-Fr 10:00-20:30 Trade & Executive, Mo-Fr 11:00-20:30 Individual; Sa 09:30-19:00; Su 11:00-17:00"
-website: "https://www.costco.co.uk/store-finder/Thurrock"
+street: West Thurrock Way
+housenumber: ""
+phone: +44 1708 683075
+opening_hours: Mo-Fr 10:00-20:30 "Trade & Executive", Mo-Fr 11:00-20:30 "Individual";
+    Sa 09:30-19:00; Su 11:00-17:00
+website: https://www.costco.co.uk/store-finder/Thurrock

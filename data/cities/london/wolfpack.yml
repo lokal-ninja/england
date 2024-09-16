@@ -1,11 +1,11 @@
 id: 65658313
-type: way
+type: node
 latitude: 51.53649
 longitude: -0.205
-postcode: "NW6 6RA"
+postcode: NW6 6RA
 city: London
-street: "Lonsdale Road"
-housenumber: 53
+street: Lonsdale Road
+housenumber: "53"
 phone: ""
-opening_hours: "Tu-Fr 17:00-23:00; Sa 13:00-00:00; Su 13:00-23:00"
-website: "https://wolfpackbars.com/queens-park-bar/"
+opening_hours: Tu-Fr 17:00-23:00; Sa 13:00-00:00; Su 13:00-23:00
+website: https://wolfpackbars.com/queens-park-bar/

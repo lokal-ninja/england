@@ -2,10 +2,10 @@ id: 10762114552
 type: node
 latitude: 50.73096
 longitude: -0.7931
-postcode: "PO20 0PZ"
+postcode: PO20 0PZ
 city: Selsey
-street: "High Street"
-housenumber: 165
+street: High Street
+housenumber: "165"
 phone: ""
 opening_hours: ""
 website: ""

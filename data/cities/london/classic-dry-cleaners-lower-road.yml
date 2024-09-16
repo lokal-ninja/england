@@ -1,11 +1,11 @@
 id: 450471941
-type: way
+type: node
 latitude: 51.49283
 longitude: -0.04687
-postcode: "SE16 2UG"
+postcode: SE16 2UG
 city: London
-street: "Lower Road"
-housenumber: 140
+street: Lower Road
+housenumber: "140"
 phone: ""
 opening_hours: ""
 website: ""

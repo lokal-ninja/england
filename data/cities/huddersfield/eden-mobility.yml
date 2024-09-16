@@ -2,10 +2,10 @@ id: 5071542353
 type: node
 latitude: 53.64518
 longitude: -1.78316
-postcode: "HD1 2BU"
+postcode: HD1 2BU
 city: Huddersfield
-street: "New Street"
-housenumber: 42
+street: New Street
+housenumber: "42"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 585696915
-type: way
+type: node
 latitude: 53.53971
 longitude: -2.37495
-postcode: "BL4 8QG"
+postcode: BL4 8QG
 city: Bolton
-street: "Manchester Road"
-housenumber: 17
+street: Manchester Road
+housenumber: "17"
 phone: ""
 opening_hours: ""
-website: "https://www.premier-stores.co.uk/our-stores/sunrise-food-wine"
+website: https://www.premier-stores.co.uk/our-stores/sunrise-food-wine

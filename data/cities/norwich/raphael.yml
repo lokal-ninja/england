@@ -1,11 +1,11 @@
 id: 123525376
-type: way
+type: node
 latitude: 52.63118
 longitude: 1.28903
-postcode: "NR2 4PF"
+postcode: NR2 4PF
 city: Norwich
-street: "Saint Benedicts Street"
-housenumber: 33
+street: Saint Benedicts Street
+housenumber: "33"
 phone: ""
 opening_hours: ""
-website: "http://raphaelcrafts.com/"
+website: http://raphaelcrafts.com/

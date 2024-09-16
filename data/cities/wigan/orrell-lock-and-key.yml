@@ -1,11 +1,11 @@
 id: 1254516076
-type: way
+type: node
 latitude: 53.537
 longitude: -2.68533
 postcode: ""
 city: Wigan
-street: "Queen Street"
-housenumber: 1
+street: Queen Street
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

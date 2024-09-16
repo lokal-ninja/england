@@ -1,11 +1,11 @@
 id: 377394486
-type: way
+type: node
 latitude: 51.44193
 longitude: -2.59693
-postcode: "BS3 4HB"
+postcode: BS3 4HB
 city: Bristol
-street: "East Street"
-housenumber: 71
+street: East Street
+housenumber: "71"
 phone: ""
 opening_hours: ""
 website: ""

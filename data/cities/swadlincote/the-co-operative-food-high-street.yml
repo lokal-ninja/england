@@ -1,11 +1,11 @@
 id: 318061103
-type: way
+type: node
 latitude: 52.70447
 longitude: -1.50882
-postcode: "DE12 7HR"
+postcode: DE12 7HR
 city: Swadlincote
-street: "High Street"
-housenumber: 7
+street: High Street
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://stores.centralengland.coop/derbyshire/swadlincote/7-high-street"
+opening_hours: Mo-Su 07:00-22:00
+website: https://stores.centralengland.coop/derbyshire/swadlincote/7-high-street

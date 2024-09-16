@@ -1,11 +1,11 @@
 id: 32397942
-type: way
+type: node
 latitude: 50.83678
 longitude: -1.18472
 postcode: ""
 city: Fareham
-street: "Newgate Lane"
-housenumber: 
+street: Newgate Lane
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://store.matalan.co.uk/fareham"
+website: https://store.matalan.co.uk/fareham

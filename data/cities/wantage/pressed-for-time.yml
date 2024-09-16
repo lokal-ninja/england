@@ -1,11 +1,11 @@
 id: 478160460
-type: way
+type: node
 latitude: 51.58769
 longitude: -1.42591
-postcode: "OX12 8BU"
+postcode: OX12 8BU
 city: Wantage
-street: "Newbury Street"
-housenumber: 19
+street: Newbury Street
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

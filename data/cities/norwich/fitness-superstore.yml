@@ -1,11 +1,11 @@
 id: 550124677
-type: way
+type: node
 latitude: 52.62428
 longitude: 1.29005
-postcode: "NR1 3SP"
+postcode: NR1 3SP
 city: Norwich
-street: "St Stephens Road"
+street: St Stephens Road
 housenumber: 1-7
-phone: "+44 1603 980380"
-opening_hours: "Mo-Sa 09:00-17:30; Su 11:00-16:00"
-website: "https://www.fitness-superstore.co.uk/norwich/"
+phone: +44 1603 980380
+opening_hours: Mo-Sa 09:00-17:30; Su 11:00-16:00
+website: https://www.fitness-superstore.co.uk/norwich/

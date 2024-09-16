@@ -1,11 +1,11 @@
 id: 42327375
-type: way
+type: node
 latitude: 54.68907
 longitude: -1.21092
-postcode: "TS24 0XR"
+postcode: TS24 0XR
 city: Hartlepool
-street: "Marina Way"
-housenumber: 
+street: Marina Way
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 06:00-24:00; Sa 06:00-22:00; Su 10:00-16:00"
+opening_hours: Mo-Fr 06:00-24:00; Sa 06:00-22:00; Su 10:00-16:00
 website: ""

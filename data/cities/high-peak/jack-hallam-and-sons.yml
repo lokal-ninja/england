@@ -2,10 +2,11 @@ id: 6503525653
 type: node
 latitude: 53.32791
 longitude: -1.98375
-postcode: "SK23 7HT"
+postcode: SK23 7HT
 city: High Peak
-street: "Buxton Road"
-housenumber: 35
+street: Buxton Road
+housenumber: "35"
 phone: ""
-opening_hours: "Mo 10:00-17:00, Tu 10:00-17:00, We closed, Th 10:00-17:00, Fr 10:00-17:00, Sa 10:00-15:00, Su closed"
+opening_hours: Mo 10:00-17:00, Tu 10:00-17:00, We closed, Th 10:00-17:00, Fr 10:00-17:00,
+    Sa 10:00-15:00, Su closed
 website: ""

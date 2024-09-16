@@ -1,11 +1,11 @@
 id: 54640903
-type: way
+type: node
 latitude: 52.9186
 longitude: -1.46603
-postcode: "DE1 2LX"
+postcode: DE1 2LX
 city: Derby
-street: "New Street"
-housenumber: 
+street: New Street
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

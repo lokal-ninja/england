@@ -1,11 +1,11 @@
 id: 915950018
-type: way
+type: node
 latitude: 50.95676
 longitude: -0.13861
-postcode: "RH15 9RD"
+postcode: RH15 9RD
 city: Burgess Hill
-street: "London Road"
-housenumber: 198
+street: London Road
+housenumber: "198"
 phone: ""
 opening_hours: ""
 website: ""

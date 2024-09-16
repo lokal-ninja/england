@@ -1,11 +1,11 @@
 id: 609888887
-type: way
+type: node
 latitude: 51.60767
 longitude: -0.37381
-postcode: "HA5 4JR"
+postcode: HA5 4JR
 city: Pinner
-street: "Uxbridge Road"
-housenumber: 419
+street: Uxbridge Road
+housenumber: "419"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:30,14:00-17:00"
+opening_hours: Mo-Fr 09:00-13:30,14:00-17:00
 website: ""

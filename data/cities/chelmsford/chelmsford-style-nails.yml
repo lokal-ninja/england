@@ -1,11 +1,11 @@
 id: 167414124
-type: way
+type: node
 latitude: 51.73347
 longitude: 0.47057
-postcode: "CM1 1XR"
+postcode: CM1 1XR
 city: Chelmsford
-street: "High Chelmer"
-housenumber: 26
-phone: "+44 1245 348001"
-opening_hours: "Mo-Th 10:00-19:00; Fr-Sa 09:30-19:00; Su 10:00-17:00"
-website: "https://chelmsfordstylenails.setmore.com/"
+street: High Chelmer
+housenumber: "26"
+phone: +44 1245 348001
+opening_hours: Mo-Th 10:00-19:00; Fr-Sa 09:30-19:00; Su 10:00-17:00
+website: https://chelmsfordstylenails.setmore.com/

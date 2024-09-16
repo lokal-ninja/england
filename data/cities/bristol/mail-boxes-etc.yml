@@ -1,11 +1,11 @@
 id: 252983543
-type: way
+type: node
 latitude: 51.4564
 longitude: -2.60775
-postcode: "BS8 1ES"
+postcode: BS8 1ES
 city: Bristol
-street: "Triangle West"
-housenumber: 42
+street: Triangle West
+housenumber: "42"
 phone: ""
 opening_hours: ""
 website: ""

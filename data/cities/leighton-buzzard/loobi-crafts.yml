@@ -1,11 +1,11 @@
 id: 139515090
-type: way
+type: node
 latitude: 51.91583
 longitude: -0.66085
-postcode: "LU7 1SP"
+postcode: LU7 1SP
 city: Leighton Buzzard
-street: "Rylands Mews"
-housenumber: 6
+street: Rylands Mews
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

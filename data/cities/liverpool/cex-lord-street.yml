@@ -1,11 +1,11 @@
 id: 1060224371
-type: way
+type: node
 latitude: 53.40525
 longitude: -2.9873
-postcode: "L2 1TD"
+postcode: L2 1TD
 city: Liverpool
-street: "Lord Street"
-housenumber: 54
+street: Lord Street
+housenumber: "54"
 phone: ""
 opening_hours: ""
 website: ""

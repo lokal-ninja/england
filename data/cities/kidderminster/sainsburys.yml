@@ -1,11 +1,11 @@
 id: 55939274
-type: way
+type: node
 latitude: 52.39188
 longitude: -2.25486
-postcode: "DY11 6XP"
+postcode: DY11 6XP
 city: Kidderminster
-street: "Carpet Trades Way"
-housenumber: 2
+street: Carpet Trades Way
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su 10:00-16:00"
-website: "https://stores.sainsburys.co.uk/0640/kidderminster"
+opening_hours: Mo-Sa 07:00-22:00; Su 10:00-16:00
+website: https://stores.sainsburys.co.uk/0640/kidderminster

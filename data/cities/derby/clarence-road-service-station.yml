@@ -1,11 +1,11 @@
 id: 70410727
-type: way
+type: node
 latitude: 52.90561
 longitude: -1.49275
-postcode: "DE23 6LU"
+postcode: DE23 6LU
 city: Derby
-street: "Clarence Road"
-housenumber: 241
+street: Clarence Road
+housenumber: "241"
 phone: ""
 opening_hours: ""
 website: ""

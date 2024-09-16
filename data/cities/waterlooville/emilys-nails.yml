@@ -1,11 +1,11 @@
 id: 1312916487
-type: way
+type: node
 latitude: 50.88073
 longitude: -1.03078
-postcode: "PO7 7EB"
+postcode: PO7 7EB
 city: Waterlooville
-street: "London Road"
-housenumber: 123
-phone: "+44 2392 266253"
-opening_hours: "Mo-Th 09:00-17:00; We,Fr 09:00-21:00"
+street: London Road
+housenumber: "123"
+phone: +44 2392 266253
+opening_hours: Mo-Th 09:00-17:00; We,Fr 09:00-21:00
 website: ""

@@ -1,11 +1,11 @@
 id: 328876538
-type: way
+type: node
 latitude: 51.45559
 longitude: -2.62084
-postcode: "BS8 4BT"
+postcode: BS8 4BT
 city: Bristol
-street: "Waterloo Street"
-housenumber: 15
+street: Waterloo Street
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

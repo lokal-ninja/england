@@ -1,11 +1,11 @@
 id: 427131402
-type: way
+type: node
 latitude: 54.01807
 longitude: -1.08004
-postcode: "YO32 2JL"
+postcode: YO32 2JL
 city: York
-street: "The Village"
-housenumber: 98
-phone: "+44 1904 769233"
-opening_hours: "Mo-Fr 08:30-17:30; Sa 08:30-12:30"
+street: The Village
+housenumber: "98"
+phone: +44 1904 769233
+opening_hours: Mo-Fr 08:30-17:30; Sa 08:30-12:30
 website: ""

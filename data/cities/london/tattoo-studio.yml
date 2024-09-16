@@ -1,11 +1,11 @@
 id: 181059819
-type: way
+type: node
 latitude: 51.41588
 longitude: -0.07202
-postcode: "SE19 2AS"
+postcode: SE19 2AS
 city: London
-street: "Anerley Road"
-housenumber: 65
+street: Anerley Road
+housenumber: "65"
 phone: ""
 opening_hours: ""
 website: ""

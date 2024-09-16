@@ -4,8 +4,9 @@ latitude: 54.70072
 longitude: -1.59883
 postcode: ""
 city: Spennymoor
-street: "Cheapside"
-housenumber: 
-phone: "+44 1388 819297"
-opening_hours: "Mo 09:15-17:30; Tu-We 09:30-17:30; Th-Fr 09:15-17:30; Sa 09:15-17:00; Su closed"
-website: "https://www.haystravel.co.uk/branches/spennymoor/"
+street: Cheapside
+housenumber: ""
+phone: +44 1388 819297
+opening_hours: Mo 09:15-17:30; Tu-We 09:30-17:30; Th-Fr 09:15-17:30; Sa 09:15-17:00;
+    Su closed
+website: https://www.haystravel.co.uk/branches/spennymoor/

@@ -1,11 +1,11 @@
 id: 372812233
-type: way
+type: node
 latitude: 51.54919
 longitude: -0.05513
 postcode: ""
 city: London
-street: "Mare Street"
-housenumber: 409
+street: Mare Street
+housenumber: "409"
 phone: ""
 opening_hours: ""
 website: ""

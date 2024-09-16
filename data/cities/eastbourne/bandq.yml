@@ -1,11 +1,11 @@
 id: 42677501
-type: way
+type: node
 latitude: 50.7964
 longitude: 0.28318
-postcode: "BN23 6QU"
+postcode: BN23 6QU
 city: Eastbourne
-street: "Marshall Road"
-housenumber: 
-phone: "+44 330123 9243"
+street: Marshall Road
+housenumber: ""
+phone: +44 330123 9243
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 437309848
-type: way
+type: node
 latitude: 53.40323
 longitude: -2.35054
-postcode: "WA14 5LZ"
+postcode: WA14 5LZ
 city: Altrincham
-street: "Manchester Road"
-housenumber: 264
+street: Manchester Road
+housenumber: "264"
 phone: ""
 opening_hours: ""
-website: "https://www.nissan.co.uk/dealer-homepage.1955.html"
+website: https://www.nissan.co.uk/dealer-homepage.1955.html

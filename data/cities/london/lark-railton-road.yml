@@ -1,11 +1,11 @@
 id: 185915376
-type: way
+type: node
 latitude: 51.45264
 longitude: -0.10172
-postcode: "SE24 0JN"
+postcode: SE24 0JN
 city: London
-street: "Railton Road"
-housenumber: 317
+street: Railton Road
+housenumber: "317"
 phone: ""
 opening_hours: ""
 website: ""

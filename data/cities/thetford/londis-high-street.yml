@@ -1,11 +1,11 @@
 id: 674313426
-type: way
+type: node
 latitude: 52.48715
 longitude: 0.52367
-postcode: "IP26 4AF"
+postcode: IP26 4AF
 city: Thetford
-street: "High Street"
-housenumber: 2
+street: High Street
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

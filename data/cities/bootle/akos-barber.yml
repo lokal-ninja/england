@@ -1,11 +1,11 @@
 id: 1263363370
-type: way
+type: node
 latitude: 53.45378
 longitude: -2.99086
-postcode: "L20 3EX"
+postcode: L20 3EX
 city: Bootle
-street: "Stanley Road"
-housenumber: 348
+street: Stanley Road
+housenumber: "348"
 phone: ""
 opening_hours: ""
 website: ""

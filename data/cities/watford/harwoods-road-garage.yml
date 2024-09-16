@@ -1,11 +1,11 @@
 id: 491854258
-type: way
+type: node
 latitude: 51.65225
 longitude: -0.40766
-postcode: "WD18 7RL"
+postcode: WD18 7RL
 city: Watford
-street: "Harwoods Road"
-housenumber: 109
+street: Harwoods Road
+housenumber: "109"
 phone: ""
 opening_hours: ""
 website: ""

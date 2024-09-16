@@ -1,11 +1,11 @@
 id: 156828007
-type: way
+type: node
 latitude: 52.63753
 longitude: 1.21749
-postcode: "NR5 9HA"
+postcode: NR5 9HA
 city: Norwich
-street: "Bowthorpe Main Centre"
+street: Bowthorpe Main Centre
 housenumber: 3A
-phone: "+44 1603 747100"
-opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-17:00; Su,Mo,PH closed"
-website: "https://www.wownorwich.co.uk/"
+phone: +44 1603 747100
+opening_hours: Tu-Fr 09:00-18:00; Sa 09:00-17:00; Su,Mo,PH closed
+website: https://www.wownorwich.co.uk/

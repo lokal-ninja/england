@@ -1,11 +1,11 @@
 id: 358521657
-type: way
+type: node
 latitude: 51.51875
 longitude: -0.20737
 postcode: ""
 city: London
-street: "Portobello Road"
-housenumber: 281
+street: Portobello Road
+housenumber: "281"
 phone: ""
 opening_hours: ""
-website: "https://visitportobello.com/portobellogreen"
+website: https://visitportobello.com/portobellogreen

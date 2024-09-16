@@ -1,11 +1,11 @@
 id: 515335683
-type: way
+type: node
 latitude: 50.35145
 longitude: -3.57928
-postcode: "TQ6 9DL"
+postcode: TQ6 9DL
 city: Dartmouth
-street: "Anzac Street"
-housenumber: 5
+street: Anzac Street
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

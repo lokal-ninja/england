@@ -1,11 +1,11 @@
 id: 304280243
-type: way
+type: node
 latitude: 51.44132
 longitude: -2.61197
-postcode: "BS3 1JD"
+postcode: BS3 1JD
 city: Bristol
-street: "North Street"
+street: North Street
 housenumber: 244-246
-phone: "0117 966 1170"
-opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-17:30"
+phone: 0117 966 1170
+opening_hours: Mo-Fr 09:00-18:00, Sa 09:00-17:30
 website: ""

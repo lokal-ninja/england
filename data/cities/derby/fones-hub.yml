@@ -2,10 +2,10 @@ id: 5341316898
 type: node
 latitude: 52.92085
 longitude: -1.47566
-postcode: "DE1 2AF"
+postcode: DE1 2AF
 city: Derby
-street: "East Street"
-housenumber: 34
+street: East Street
+housenumber: "34"
 phone: ""
 opening_hours: ""
 website: ""

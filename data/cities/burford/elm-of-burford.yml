@@ -1,11 +1,11 @@
 id: 603158113
-type: way
+type: node
 latitude: 51.80873
 longitude: -1.63647
-postcode: "OX18 4QF"
+postcode: OX18 4QF
 city: Burford
-street: "High Street"
-housenumber: 48
+street: High Street
+housenumber: "48"
 phone: ""
 opening_hours: ""
 website: ""

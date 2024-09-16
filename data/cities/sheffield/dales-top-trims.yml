@@ -1,11 +1,11 @@
 id: 1137849706
-type: way
+type: node
 latitude: 53.36046
 longitude: -1.42818
-postcode: "S12 2AA"
+postcode: S12 2AA
 city: Sheffield
-street: "City Road"
-housenumber: 948
+street: City Road
+housenumber: "948"
 phone: ""
 opening_hours: ""
 website: ""

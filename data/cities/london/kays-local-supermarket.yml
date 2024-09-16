@@ -1,11 +1,11 @@
 id: 616081585
-type: way
+type: node
 latitude: 51.52955
 longitude: -0.04569
-postcode: "E2 0QY"
+postcode: E2 0QY
 city: London
-street: "Roman Road"
-housenumber: 209
+street: Roman Road
+housenumber: "209"
 phone: ""
 opening_hours: ""
 website: ""

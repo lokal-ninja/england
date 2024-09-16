@@ -1,11 +1,11 @@
 id: 256481529
-type: way
+type: node
 latitude: 52.27865
 longitude: -1.59225
-postcode: "CV34 6AN"
+postcode: CV34 6AN
 city: Warwick
-street: "West Street"
-housenumber: 42
+street: West Street
+housenumber: "42"
 phone: ""
 opening_hours: ""
 website: ""

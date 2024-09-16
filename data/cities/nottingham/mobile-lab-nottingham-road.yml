@@ -1,11 +1,11 @@
 id: 83522517
-type: way
+type: node
 latitude: 52.93099
 longitude: -1.27146
-postcode: "NG9 8AD"
+postcode: NG9 8AD
 city: Nottingham
-street: "Nottingham Road"
-housenumber: 45
+street: Nottingham Road
+housenumber: "45"
 phone: ""
 opening_hours: ""
 website: ""

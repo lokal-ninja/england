@@ -1,11 +1,11 @@
 id: 206166107
-type: way
+type: node
 latitude: 51.58893
 longitude: -0.00416
-postcode: "E17 3LL"
+postcode: E17 3LL
 city: London
-street: "Wood Street"
-housenumber: 91
+street: Wood Street
+housenumber: "91"
 phone: ""
 opening_hours: ""
 website: ""

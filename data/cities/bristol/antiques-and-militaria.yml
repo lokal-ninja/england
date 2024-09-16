@@ -1,11 +1,11 @@
 id: 298450675
-type: way
+type: node
 latitude: 51.45593
 longitude: -2.59837
 postcode: ""
 city: Bristol
-street: "Lower Park Row"
-housenumber: 14
-phone: "+44 117 929 8205"
+street: Lower Park Row
+housenumber: "14"
+phone: +44 117 929 8205
 opening_hours: ""
 website: ""

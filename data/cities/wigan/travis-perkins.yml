@@ -1,11 +1,11 @@
 id: 127675290
-type: way
+type: node
 latitude: 53.54279
 longitude: -2.63425
-postcode: "WN3 4DZ"
+postcode: WN3 4DZ
 city: Wigan
-street: "Queen Street"
-housenumber: 23
-phone: "+44 1942 231242"
-opening_hours: "Mo-Fr 07:00-16:30; Sa 08:00-12:00; Su closed"
-website: "https://www.travisperkins.co.uk/branch-locator/1331"
+street: Queen Street
+housenumber: "23"
+phone: +44 1942 231242
+opening_hours: Mo-Fr 07:00-16:30; Sa 08:00-12:00; Su closed
+website: https://www.travisperkins.co.uk/branch-locator/1331

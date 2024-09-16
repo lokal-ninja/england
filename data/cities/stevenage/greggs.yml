@@ -2,10 +2,10 @@ id: 7150028452
 type: node
 latitude: 51.90185
 longitude: -0.20197
-postcode: "SG1 1BP"
+postcode: SG1 1BP
 city: Stevenage
-street: "Town Square"
-housenumber: 27
+street: Town Square
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

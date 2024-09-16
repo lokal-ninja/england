@@ -1,11 +1,11 @@
 id: 684360610
-type: way
+type: node
 latitude: 51.5877
 longitude: -0.09904
-postcode: "N15 3DA"
+postcode: N15 3DA
 city: London
-street: "West Green Road"
-housenumber: 486
-phone: "+44 20 8888 1602"
-opening_hours: "Mo-Sa 07:00-23:00; Su 08:00-20:00"
+street: West Green Road
+housenumber: "486"
+phone: +44 20 8888 1602
+opening_hours: Mo-Sa 07:00-23:00; Su 08:00-20:00
 website: ""

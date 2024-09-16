@@ -1,11 +1,11 @@
 id: 1125043044
-type: way
+type: node
 latitude: 53.43085
 longitude: -2.59544
-postcode: "WA2 8NJ"
+postcode: WA2 8NJ
 city: Warrington
-street: "Myddleton lane"
-housenumber: 2
+street: Myddleton lane
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

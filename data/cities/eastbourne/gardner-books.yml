@@ -1,11 +1,11 @@
 id: 1180991099
-type: way
+type: node
 latitude: 50.79626
 longitude: 0.28716
-postcode: "BN23 6QH"
+postcode: BN23 6QH
 city: Eastbourne
-street: "Whittle Drive"
-housenumber: 1
+street: Whittle Drive
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.gardners.com/"
+website: https://www.gardners.com/

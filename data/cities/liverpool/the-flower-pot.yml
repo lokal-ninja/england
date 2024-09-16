@@ -1,11 +1,11 @@
 id: 1289754478
-type: way
+type: node
 latitude: 53.4327
 longitude: -2.91003
-postcode: "L12 5HJ"
+postcode: L12 5HJ
 city: Liverpool
-street: "West Derby Village"
-housenumber: 7
+street: West Derby Village
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

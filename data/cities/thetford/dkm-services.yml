@@ -1,11 +1,11 @@
 id: 606821101
-type: way
+type: node
 latitude: 52.42401
 longitude: 0.74967
-postcode: "IP24 1XA"
+postcode: IP24 1XA
 city: Thetford
-street: "Leyland Close"
-housenumber: 5
+street: Leyland Close
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "http://dkmservices.co.uk/"
+website: http://dkmservices.co.uk/

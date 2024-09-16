@@ -1,11 +1,11 @@
 id: 545365087
-type: way
+type: node
 latitude: 50.77167
 longitude: 0.09867
-postcode: "BN25 1DL"
+postcode: BN25 1DL
 city: Seaford
-street: "Dane Road"
-housenumber: 
+street: Dane Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 08:30-20:00,Sa 08:30-19:00"
-website: "https://my.morrisons.com/storefinder/362/seaford"
+opening_hours: Mo-Fr 08:30-20:00,Sa 08:30-19:00
+website: https://my.morrisons.com/storefinder/362/seaford

@@ -1,11 +1,11 @@
 id: 1172189729
-type: way
+type: node
 latitude: 53.40353
 longitude: -2.98541
-postcode: "L1 3DL"
+postcode: L1 3DL
 city: Liverpool
-street: "Manesty's Lane"
-housenumber: 8
+street: Manesty's Lane
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 524506446
-type: way
+type: node
 latitude: 50.79683
 longitude: 0.28127
-postcode: "BN22 9AA"
+postcode: BN22 9AA
 city: Eastbourne
-street: "Lottbridge Drove"
-housenumber: 55
+street: Lottbridge Drove
+housenumber: "55"
 phone: ""
 opening_hours: ""
 website: ""

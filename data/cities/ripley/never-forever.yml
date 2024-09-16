@@ -1,11 +1,11 @@
 id: 133261617
-type: way
+type: node
 latitude: 53.06104
 longitude: -1.40298
-postcode: "DE5 3WT"
+postcode: DE5 3WT
 city: Ripley
-street: "Butterley Corner"
-housenumber: 2
+street: Butterley Corner
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

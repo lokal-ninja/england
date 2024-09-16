@@ -1,11 +1,11 @@
 id: 284827139
-type: way
+type: node
 latitude: 51.44586
 longitude: -0.33052
-postcode: "TW1 4BZ"
+postcode: TW1 4BZ
 city: Twickenham
-street: "Heath Road"
+street: Heath Road
 housenumber: 2,4
-phone: "+44 20 8607 9396"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-20:00"
+phone: +44 20 8607 9396
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 289660510
-type: way
+type: node
 latitude: 51.50949
 longitude: -0.13618
-postcode: "W1J 0LA"
+postcode: W1J 0LA
 city: London
-street: "Piccadilly"
-housenumber: 19
-phone: "+44 20 7734 0830"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
-website: "https://www.cordings.co.uk/"
+street: Piccadilly
+housenumber: "19"
+phone: +44 20 7734 0830
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
+website: https://www.cordings.co.uk/

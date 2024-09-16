@@ -1,11 +1,11 @@
 id: 680295854
-type: way
+type: node
 latitude: 51.63308
 longitude: 0.00818
-postcode: "E4 6AD"
+postcode: E4 6AD
 city: London
-street: "Station Road"
-housenumber: 100
+street: Station Road
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

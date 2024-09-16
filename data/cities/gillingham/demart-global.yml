@@ -1,11 +1,11 @@
 id: 293854015
-type: way
+type: node
 latitude: 51.38906
 longitude: 0.54292
-postcode: "ME7 1BB"
+postcode: ME7 1BB
 city: Gillingham
-street: "High Street"
-housenumber: 14
-phone: "+44 1634 581515"
+street: High Street
+housenumber: "14"
+phone: +44 1634 581515
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 512985624
-type: way
+type: node
 latitude: 51.5657
 longitude: 0.01002
 postcode: ""
 city: London
-street: "High Road Leytonstone"
-housenumber: 731
+street: High Road Leytonstone
+housenumber: "731"
 phone: ""
 opening_hours: ""
 website: ""

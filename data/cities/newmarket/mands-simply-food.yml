@@ -1,11 +1,11 @@
 id: 234123210
-type: way
+type: node
 latitude: 52.24626
 longitude: 0.41051
-postcode: "CB8 7BP"
+postcode: CB8 7BP
 city: Newmarket
-street: "Bury Road"
-housenumber: 6
+street: Bury Road
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Su 00:00-24:00"
-website: "https://www.marksandspencer.com/stores/hyperion-bp-2050"
+opening_hours: Mo-Su 00:00-24:00
+website: https://www.marksandspencer.com/stores/hyperion-bp-2050

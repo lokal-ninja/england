@@ -1,11 +1,11 @@
 id: 466190112
-type: way
+type: node
 latitude: 51.76112
 longitude: -0.56634
-postcode: "HP4 1AG"
+postcode: HP4 1AG
 city: Berkhamsted
-street: "High Street"
-housenumber: 234
+street: High Street
+housenumber: "234"
 phone: ""
 opening_hours: ""
 website: ""

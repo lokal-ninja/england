@@ -1,11 +1,11 @@
 id: 630380812
-type: way
+type: node
 latitude: 51.44726
 longitude: -0.32773
-postcode: "TW1 3JZ"
+postcode: TW1 3JZ
 city: Twickenham
-street: "York Street"
-housenumber: 
+street: York Street
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

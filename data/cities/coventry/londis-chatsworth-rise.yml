@@ -1,11 +1,11 @@
 id: 38543353
-type: way
+type: node
 latitude: 52.38684
 longitude: -1.49698
-postcode: "CV3 5JH"
+postcode: CV3 5JH
 city: Coventry
-street: "Chatsworth Rise"
-housenumber: 
+street: Chatsworth Rise
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 06:00-23:00; Su 08:00-22:30"
-website: "https://www.londis.co.uk/our-stores/coventry"
+opening_hours: Mo-Sa 06:00-23:00; Su 08:00-22:30
+website: https://www.londis.co.uk/our-stores/coventry

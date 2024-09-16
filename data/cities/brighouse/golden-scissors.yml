@@ -1,11 +1,11 @@
 id: 1032881619
-type: way
+type: node
 latitude: 53.69885
 longitude: -1.77931
-postcode: "HD6 1HA"
+postcode: HD6 1HA
 city: Brighouse
-street: "Huddersfield Road"
-housenumber: 28
-phone: "+44 7737 170006"
+street: Huddersfield Road
+housenumber: "28"
+phone: +44 7737 170006
 opening_hours: ""
 website: ""

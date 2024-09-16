@@ -1,11 +1,11 @@
 id: 161746349
-type: way
+type: node
 latitude: 51.6303
 longitude: -0.17817
-postcode: "N20 9QJ"
+postcode: N20 9QJ
 city: London
-street: "Totteridge Lane"
-housenumber: 38
+street: Totteridge Lane
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

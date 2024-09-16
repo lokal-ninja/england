@@ -1,11 +1,11 @@
 id: 1128067741
-type: way
+type: node
 latitude: 53.43032
 longitude: -1.35743
-postcode: "S60 1PA"
+postcode: S60 1PA
 city: Rotherham
-street: "Imperial Buildings"
-housenumber: 8
+street: Imperial Buildings
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

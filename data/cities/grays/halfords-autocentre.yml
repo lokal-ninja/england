@@ -1,11 +1,11 @@
 id: 408469602
-type: way
+type: node
 latitude: 51.48071
 longitude: 0.31879
-postcode: "RM17 5QL"
+postcode: RM17 5QL
 city: Grays
-street: "Hogg Lane"
-housenumber: 
-phone: "+44 1375 375854"
-opening_hours: "Mo-Fr 08:30-17:30; Sa 08:30-16:30; Su off"
-website: "https://www.halfords.com/locations/grays-autocentre/"
+street: Hogg Lane
+housenumber: ""
+phone: +44 1375 375854
+opening_hours: Mo-Fr 08:30-17:30; Sa 08:30-16:30; Su off
+website: https://www.halfords.com/locations/grays-autocentre/

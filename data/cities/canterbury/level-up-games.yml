@@ -1,11 +1,11 @@
 id: 371467864
-type: way
+type: node
 latitude: 51.28116
 longitude: 1.08183
-postcode: "CT1 2DZ"
+postcode: CT1 2DZ
 city: Canterbury
-street: "Palace Street"
-housenumber: 40
+street: Palace Street
+housenumber: "40"
 phone: ""
 opening_hours: ""
-website: "https://levelup-games.co.uk/"
+website: https://levelup-games.co.uk/

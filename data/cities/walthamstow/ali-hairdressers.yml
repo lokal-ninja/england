@@ -1,11 +1,11 @@
 id: 376872580
-type: way
+type: node
 latitude: 51.58901
 longitude: -0.03006
 postcode: ""
 city: Walthamstow
-street: "Forest Road"
-housenumber: 260
+street: Forest Road
+housenumber: "260"
 phone: ""
 opening_hours: ""
 website: ""

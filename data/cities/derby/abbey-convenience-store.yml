@@ -1,11 +1,11 @@
 id: 128053192
-type: way
+type: node
 latitude: 52.9212
 longitude: -1.4836
-postcode: "DE22 3TX"
+postcode: DE22 3TX
 city: Derby
-street: "Monk Street North"
-housenumber: 20
+street: Monk Street North
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

@@ -2,10 +2,10 @@ id: 10266440630
 type: node
 latitude: 51.48191
 longitude: -0.00989
-postcode: "SE10 9HY"
+postcode: SE10 9HY
 city: London
-street: "College Approach"
-housenumber: 22
+street: College Approach
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00"
-website: "https://residential.jll.co.uk/london-offices/greenwich-estate-agents"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-16:00
+website: https://residential.jll.co.uk/london-offices/greenwich-estate-agents

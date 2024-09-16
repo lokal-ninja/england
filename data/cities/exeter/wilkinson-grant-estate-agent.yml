@@ -2,10 +2,10 @@ id: 6857947153
 type: node
 latitude: 50.72531
 longitude: -3.52945
-postcode: "EX4 3PT"
+postcode: EX4 3PT
 city: Exeter
-street: "Castle Street"
-housenumber: 1
+street: Castle Street
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

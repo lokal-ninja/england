@@ -2,10 +2,10 @@ id: 4708961495
 type: node
 latitude: 50.81605
 longitude: -1.08048
-postcode: "PO2 8HS"
+postcode: PO2 8HS
 city: Portsmouth
-street: "Derby Road"
-housenumber: 8
+street: Derby Road
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

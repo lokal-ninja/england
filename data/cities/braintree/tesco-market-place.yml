@@ -1,11 +1,11 @@
 id: 177805720
-type: way
+type: node
 latitude: 51.878
 longitude: 0.55189
-postcode: "CM7 1ES"
+postcode: CM7 1ES
 city: Braintree
-street: "Market Place"
-housenumber: 
-phone: "+44 345 677 9075"
-opening_hours: "Mo-We,Sa 06:00-20:00; Th-Fr 06:00-21:00; Su 10:00-16:00"
+street: Market Place
+housenumber: ""
+phone: +44 345 677 9075
+opening_hours: Mo-We,Sa 06:00-20:00; Th-Fr 06:00-21:00; Su 10:00-16:00
 website: ""

@@ -1,11 +1,11 @@
 id: 377255498
-type: way
+type: node
 latitude: 51.58739
 longitude: -0.02986
 postcode: ""
 city: Walthamstow
-street: "Palmerston Road"
-housenumber: 61
+street: Palmerston Road
+housenumber: "61"
 phone: ""
 opening_hours: ""
 website: ""

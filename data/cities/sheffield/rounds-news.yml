@@ -1,11 +1,11 @@
 id: 1044349421
-type: way
+type: node
 latitude: 53.35342
 longitude: -1.50143
-postcode: "S7 2EF"
+postcode: S7 2EF
 city: Sheffield
-street: "Montrose Road"
-housenumber: 80
+street: Montrose Road
+housenumber: "80"
 phone: ""
 opening_hours: ""
 website: ""

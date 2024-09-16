@@ -1,11 +1,11 @@
 id: 28282990
-type: way
+type: node
 latitude: 52.21394
 longitude: 1.49297
-postcode: "IP17 1EP"
+postcode: IP17 1EP
 city: Saxmundham
-street: "Church Street"
-housenumber: 
+street: Church Street
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 08:00-21:00; Sa 08:00-20:00; Su 10:00-16:00"
-website: "https://www.waitrose.com/find-a-store/saxmundham"
+opening_hours: Mo-Fr 08:00-21:00; Sa 08:00-20:00; Su 10:00-16:00
+website: https://www.waitrose.com/find-a-store/saxmundham

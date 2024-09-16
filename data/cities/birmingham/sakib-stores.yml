@@ -1,11 +1,11 @@
 id: 134514246
-type: way
+type: node
 latitude: 52.4383
 longitude: -1.92812
-postcode: "B29 6BY"
+postcode: B29 6BY
 city: Birmingham
-street: "Tiverton Road"
-housenumber: 342
+street: Tiverton Road
+housenumber: "342"
 phone: ""
 opening_hours: ""
 website: ""

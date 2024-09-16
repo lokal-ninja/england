@@ -1,11 +1,11 @@
 id: 137222526
-type: way
+type: node
 latitude: 51.88502
 longitude: 0.91675
-postcode: "CO1 2LS"
+postcode: CO1 2LS
 city: Colchester
-street: "Barrack Street"
-housenumber: 66
+street: Barrack Street
+housenumber: "66"
 phone: ""
 opening_hours: ""
 website: ""

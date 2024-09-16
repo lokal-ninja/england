@@ -1,11 +1,11 @@
 id: 576061983
-type: way
+type: node
 latitude: 51.73059
 longitude: 0.46468
-postcode: "CM2 0RR"
+postcode: CM2 0RR
 city: Chelmsford
-street: "New Writtle Street"
-housenumber: 7
-phone: "+44 1245 210129"
+street: New Writtle Street
+housenumber: "7"
+phone: +44 1245 210129
 opening_hours: ""
-website: "https://bellesfleurhome.co.uk/"
+website: https://bellesfleurhome.co.uk/

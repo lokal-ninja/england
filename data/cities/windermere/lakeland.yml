@@ -1,11 +1,11 @@
 id: 160585277
-type: way
+type: node
 latitude: 54.37946
 longitude: -2.90208
-postcode: "LA23 1BQ"
+postcode: LA23 1BQ
 city: Windermere
-street: "Station Precinct"
-housenumber: 
-phone: "+44 15394 88100"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 09:00-18:00; Su 11:00-17:00"
-website: "https://www.lakeland.co.uk/stores/windermere"
+street: Station Precinct
+housenumber: ""
+phone: +44 15394 88100
+opening_hours: Mo-Fr 08:00-19:00; Sa 09:00-18:00; Su 11:00-17:00
+website: https://www.lakeland.co.uk/stores/windermere

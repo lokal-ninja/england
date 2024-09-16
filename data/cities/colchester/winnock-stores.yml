@@ -1,11 +1,11 @@
 id: 190124483
-type: way
+type: node
 latitude: 51.88363
 longitude: 0.90984
-postcode: "CO1 2BQ"
+postcode: CO1 2BQ
 city: Colchester
-street: "Winnock Road"
-housenumber: 93
+street: Winnock Road
+housenumber: "93"
 phone: ""
 opening_hours: ""
 website: ""

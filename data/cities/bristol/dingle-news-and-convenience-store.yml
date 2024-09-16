@@ -1,11 +1,11 @@
 id: 649722368
-type: way
+type: node
 latitude: 51.49377
 longitude: -2.64764
-postcode: "BS9 2PP"
+postcode: BS9 2PP
 city: Bristol
-street: "Westbury Lane"
-housenumber: 42
+street: Westbury Lane
+housenumber: "42"
 phone: ""
 opening_hours: ""
-website: "https://www.premier-stores.co.uk/our-stores/dingle-news-conv-store"
+website: https://www.premier-stores.co.uk/our-stores/dingle-news-conv-store

@@ -1,11 +1,11 @@
 id: 359644755
-type: way
+type: node
 latitude: 53.65936
 longitude: -1.55595
-postcode: "WF4 5AA"
+postcode: WF4 5AA
 city: Wakefield
-street: "High Street"
+street: High Street
 housenumber: 21-29
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su 10:00-16:00"
-website: "https://www.coop.co.uk/store-finder/WF4-5LN/high-street"
+opening_hours: Mo-Sa 07:00-22:00; Su 10:00-16:00
+website: https://www.coop.co.uk/store-finder/WF4-5LN/high-street

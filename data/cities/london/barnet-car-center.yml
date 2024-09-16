@@ -1,11 +1,11 @@
 id: 187814943
-type: way
+type: node
 latitude: 51.60921
 longitude: -0.15454
-postcode: "N11 3DG"
+postcode: N11 3DG
 city: London
-street: "Colney Hatch Lane"
-housenumber: 231
+street: Colney Hatch Lane
+housenumber: "231"
 phone: ""
-opening_hours: "Mo-Sa 09:00-18:00"
-website: "https://barnetcarcenter.com"
+opening_hours: Mo-Sa 09:00-18:00
+website: https://barnetcarcenter.com

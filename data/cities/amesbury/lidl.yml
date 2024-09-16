@@ -1,11 +1,11 @@
 id: 262217924
-type: way
+type: node
 latitude: 51.17681
 longitude: -1.76334
-postcode: "SP4 7RT"
+postcode: SP4 7RT
 city: Amesbury
-street: "London Road"
-housenumber: 
+street: London Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 08:00-22:00; Sa 07:00-22:00; Su 10:00-16:00"
-website: "https://www.lidl.co.uk/s/en-GB/store-finder/amesbury/london-road/"
+opening_hours: Mo-Fr 08:00-22:00; Sa 07:00-22:00; Su 10:00-16:00
+website: https://www.lidl.co.uk/s/en-GB/store-finder/amesbury/london-road/

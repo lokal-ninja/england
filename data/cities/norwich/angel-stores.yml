@@ -1,11 +1,11 @@
 id: 159844542
-type: way
+type: node
 latitude: 52.64352
 longitude: 1.29221
-postcode: "NR3 3HT"
+postcode: NR3 3HT
 city: Norwich
-street: "Angel Road"
-housenumber: 58
+street: Angel Road
+housenumber: "58"
 phone: ""
 opening_hours: ""
 website: ""

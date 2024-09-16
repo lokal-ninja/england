@@ -1,11 +1,11 @@
 id: 764547244
-type: way
+type: node
 latitude: 51.45107
 longitude: -0.35806
-postcode: "TW2 7LS"
+postcode: TW2 7LS
 city: Whitton
-street: "High Street Whitton"
-housenumber: 84
+street: High Street Whitton
+housenumber: "84"
 phone: ""
 opening_hours: ""
 website: ""

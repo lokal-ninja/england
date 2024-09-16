@@ -1,11 +1,11 @@
 id: 1101188755
-type: way
+type: node
 latitude: 52.48136
 longitude: 1.75577
-postcode: "NR32 1XN"
+postcode: NR32 1XN
 city: Lowestoft
-street: "High Street"
-housenumber: 70
-phone: "+44 1502 217260"
-opening_hours: "Mo-Fr 08:30-17:30; Sa 08:30-16:00"
+street: High Street
+housenumber: "70"
+phone: +44 1502 217260
+opening_hours: Mo-Fr 08:30-17:30; Sa 08:30-16:00
 website: ""

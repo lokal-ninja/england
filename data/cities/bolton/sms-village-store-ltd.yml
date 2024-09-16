@@ -1,11 +1,11 @@
 id: 655562533
-type: way
+type: node
 latitude: 53.58874
 longitude: -2.35247
-postcode: "BL2 5RD"
+postcode: BL2 5RD
 city: Bolton
-street: "Church Street"
-housenumber: 79
+street: Church Street
+housenumber: "79"
 phone: ""
 opening_hours: ""
 website: ""

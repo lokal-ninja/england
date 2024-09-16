@@ -1,11 +1,11 @@
 id: 1234995929
-type: way
+type: node
 latitude: 53.48143
 longitude: -2.94941
-postcode: "L9 5AN"
+postcode: L9 5AN
 city: Liverpool
-street: "Aintree Shopping Park"
+street: Aintree Shopping Park
 housenumber: Unit 6C
 phone: ""
-opening_hours: "Mo-Fr 10:00-20:00; Sa 09:00-18:00; Su,BH 10:00-16:00"
+opening_hours: Mo-Fr 10:00-20:00; Sa 09:00-18:00; Su,BH 10:00-16:00
 website: ""

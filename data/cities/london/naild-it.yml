@@ -1,11 +1,11 @@
 id: 531577250
-type: way
+type: node
 latitude: 51.49441
 longitude: -0.15766
 postcode: ""
 city: London
-street: "Ellis Street"
-housenumber: 5
+street: Ellis Street
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://www.naildit.com/contact-1"
+website: https://www.naildit.com/contact-1

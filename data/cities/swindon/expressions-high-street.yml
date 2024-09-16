@@ -1,11 +1,11 @@
 id: 133170086
-type: way
+type: node
 latitude: 51.52283
 longitude: -1.79398
-postcode: "SN4 9JX"
+postcode: SN4 9JX
 city: Swindon
-street: "High Street"
-housenumber: 8
+street: High Street
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1183702143
-type: way
+type: node
 latitude: 51.24854
 longitude: -0.76687
-postcode: "GU11 1JU"
+postcode: GU11 1JU
 city: Aldershot
-street: "Victoria Road"
-housenumber: 187
-phone: "+44 800 999 6070"
-opening_hours: "Mo-Fr 08:30-17:00"
-website: "https://kbosecurity.co.uk"
+street: Victoria Road
+housenumber: "187"
+phone: +44 800 999 6070
+opening_hours: Mo-Fr 08:30-17:00
+website: https://kbosecurity.co.uk

@@ -2,10 +2,10 @@ id: 283207067
 type: node
 latitude: 51.49999
 longitude: -0.0786
-postcode: "SE1 3LS"
+postcode: SE1 3LS
 city: London
-street: "Tower Bridge Road"
-housenumber: 168
+street: Tower Bridge Road
+housenumber: "168"
 phone: ""
 opening_hours: ""
 website: ""

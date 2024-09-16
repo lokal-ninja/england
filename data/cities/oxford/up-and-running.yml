@@ -1,11 +1,11 @@
 id: 132619775
-type: way
+type: node
 latitude: 51.75972
 longitude: -1.21222
 postcode: ""
 city: Oxford
-street: "London Road"
-housenumber: 106
+street: London Road
+housenumber: "106"
 phone: ""
-opening_hours: "Mo-Sa 09:30-18:00; Su 10:00-16:00"
-website: "https://upandrunning.co.uk/"
+opening_hours: Mo-Sa 09:30-18:00; Su 10:00-16:00
+website: https://upandrunning.co.uk/

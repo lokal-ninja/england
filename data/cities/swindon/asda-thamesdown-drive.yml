@@ -1,11 +1,11 @@
 id: 174378723
-type: way
+type: node
 latitude: 51.5976
 longitude: -1.80636
-postcode: "SN25 4BG"
+postcode: SN25 4BG
 city: Swindon
-street: "Thamesdown Drive"
-housenumber: 
+street: Thamesdown Drive
+housenumber: ""
 phone: ""
-opening_hours: "Mo 06:00-24:00; Tu-Fr 00:00-24:00; Sa 00:00-22:00; Su 10:00-16:00"
-website: "https://storelocator.asda.com/south-west/swindon/unit-a1-north-swindon-district-centre"
+opening_hours: Mo 06:00-24:00; Tu-Fr 00:00-24:00; Sa 00:00-22:00; Su 10:00-16:00
+website: https://storelocator.asda.com/south-west/swindon/unit-a1-north-swindon-district-centre

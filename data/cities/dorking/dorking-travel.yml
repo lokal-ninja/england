@@ -2,10 +2,10 @@ id: 6855940839
 type: node
 latitude: 51.23197
 longitude: -0.33161
-postcode: "RH4 1AY"
+postcode: RH4 1AY
 city: Dorking
-street: "High Street"
-housenumber: 78
+street: High Street
+housenumber: "78"
 phone: ""
 opening_hours: ""
 website: ""

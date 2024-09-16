@@ -1,11 +1,11 @@
 id: 384007432
-type: way
+type: node
 latitude: 54.51818
 longitude: -1.5622
-postcode: "DL1 5NT"
+postcode: DL1 5NT
 city: Darlington
-street: "Grange Road"
-housenumber: 163
+street: Grange Road
+housenumber: "163"
 phone: ""
 opening_hours: ""
-website: "https://www.majestic.co.uk/stores/darlington"
+website: https://www.majestic.co.uk/stores/darlington

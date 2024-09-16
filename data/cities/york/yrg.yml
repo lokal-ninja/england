@@ -1,11 +1,11 @@
 id: 59126129
-type: way
+type: node
 latitude: 53.95657
 longitude: -1.0879
-postcode: "YO1 6EL"
+postcode: YO1 6EL
 city: York
-street: "Trinity Lane"
-housenumber: 20
+street: Trinity Lane
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

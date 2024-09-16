@@ -1,11 +1,11 @@
 id: 132911356
-type: way
+type: node
 latitude: 51.78917
 longitude: 1.15533
-postcode: "CO15 1PP"
+postcode: CO15 1PP
 city: Clacton-on-Sea
 street: ""
-housenumber: 28
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

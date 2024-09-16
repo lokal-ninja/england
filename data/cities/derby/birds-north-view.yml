@@ -1,11 +1,11 @@
 id: 109333540
-type: way
+type: node
 latitude: 52.90574
 longitude: -1.50553
-postcode: "DE23 6FS"
+postcode: DE23 6FS
 city: Derby
-street: "North View"
-housenumber: 13
+street: North View
+housenumber: "13"
 phone: ""
 opening_hours: ""
-website: "https://birdsbakery.com/"
+website: https://birdsbakery.com/

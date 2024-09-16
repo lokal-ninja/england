@@ -1,11 +1,11 @@
 id: 68523476
-type: way
+type: node
 latitude: 51.4401
 longitude: -1.06598
 postcode: ""
 city: Reading
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 10:30-16:30"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 10:30-16:30
 website: ""

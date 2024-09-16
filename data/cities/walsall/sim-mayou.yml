@@ -1,11 +1,11 @@
 id: 985164410
-type: way
+type: node
 latitude: 52.62966
 longitude: -1.9667
 postcode: ""
 city: Walsall
-street: "Norton Road"
-housenumber: 28
+street: Norton Road
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

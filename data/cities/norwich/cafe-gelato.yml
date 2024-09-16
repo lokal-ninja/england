@@ -1,11 +1,11 @@
 id: 119607348
-type: way
+type: node
 latitude: 52.62959
 longitude: 1.29622
-postcode: "NR1 3DN"
+postcode: NR1 3DN
 city: Norwich
-street: "Opie Street"
-housenumber: 6
+street: Opie Street
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

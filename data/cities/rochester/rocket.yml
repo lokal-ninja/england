@@ -1,11 +1,11 @@
 id: 667975882
-type: way
+type: node
 latitude: 51.38927
 longitude: 0.50418
 postcode: ""
 city: Rochester
-street: "High Street"
-housenumber: 77
+street: High Street
+housenumber: "77"
 phone: ""
 opening_hours: ""
 website: ""

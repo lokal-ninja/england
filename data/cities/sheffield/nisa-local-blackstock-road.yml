@@ -1,11 +1,11 @@
 id: 1037398694
-type: way
+type: node
 latitude: 53.34491
 longitude: -1.44624
-postcode: "S14 1FX"
+postcode: S14 1FX
 city: Sheffield
-street: "Blackstock Road"
-housenumber: 159
+street: Blackstock Road
+housenumber: "159"
 phone: ""
 opening_hours: ""
 website: ""

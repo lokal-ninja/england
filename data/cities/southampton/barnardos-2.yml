@@ -1,11 +1,11 @@
 id: 548019873
-type: way
+type: node
 latitude: 50.8641
 longitude: -1.27465
-postcode: "SO31 6DX"
+postcode: SO31 6DX
 city: Southampton
 street: ""
-housenumber: 26
+housenumber: "26"
 phone: "+441489581218"
 opening_hours: ""
 website: ""

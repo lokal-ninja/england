@@ -1,11 +1,11 @@
 id: 1034567310
-type: way
+type: node
 latitude: 53.3552
 longitude: -1.52738
-postcode: "S11 7PX"
+postcode: S11 7PX
 city: Sheffield
-street: "Ringinglow Road"
-housenumber: 292
+street: Ringinglow Road
+housenumber: "292"
 phone: ""
 opening_hours: ""
 website: ""

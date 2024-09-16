@@ -1,11 +1,11 @@
 id: 200324556
-type: way
+type: node
 latitude: 53.75861
 longitude: -0.4468
-postcode: "HU10 6BU"
+postcode: HU10 6BU
 city: Hull
-street: "Main Street"
-housenumber: 
+street: Main Street
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 61722856
-type: way
+type: node
 latitude: 52.91329
 longitude: -1.46421
-postcode: "DE1 2SX"
+postcode: DE1 2SX
 city: Derby
-street: "London Road"
-housenumber: 
-phone: "+44 1332 344 234"
+street: London Road
+housenumber: ""
+phone: +44 1332 344 234
 opening_hours: ""
-website: "https://www.halfords.com/locations/derby-london-road-autocentre/"
+website: https://www.halfords.com/locations/derby-london-road-autocentre/

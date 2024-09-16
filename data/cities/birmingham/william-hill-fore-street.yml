@@ -1,11 +1,11 @@
 id: 99870981
-type: way
+type: node
 latitude: 52.47995
 longitude: -1.89754
-postcode: "B2 5ER"
+postcode: B2 5ER
 city: Birmingham
-street: "Fore Street"
-housenumber: 7
+street: Fore Street
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

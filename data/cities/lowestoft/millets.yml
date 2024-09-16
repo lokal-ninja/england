@@ -1,11 +1,11 @@
 id: 211771865
-type: way
+type: node
 latitude: 52.476
 longitude: 1.75171
-postcode: "NR32 1LS"
+postcode: NR32 1LS
 city: Lowestoft
-street: "London Road North"
-housenumber: 71
+street: London Road North
+housenumber: "71"
 phone: ""
 opening_hours: ""
-website: "https://www.millets.co.uk/stores/lowestoft"
+website: https://www.millets.co.uk/stores/lowestoft

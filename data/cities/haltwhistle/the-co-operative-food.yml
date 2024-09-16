@@ -1,11 +1,11 @@
 id: 260795052
-type: way
+type: node
 latitude: 54.9697
 longitude: -2.4616
-postcode: "NE49 9AH"
+postcode: NE49 9AH
 city: Haltwhistle
-street: "Westgate"
-housenumber: 
+street: Westgate
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.coop.co.uk/store-finder/NE49-9AH/main-street"
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.coop.co.uk/store-finder/NE49-9AH/main-street

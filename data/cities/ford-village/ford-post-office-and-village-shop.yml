@@ -1,11 +1,11 @@
 id: 293012504
-type: way
+type: node
 latitude: 55.63156
 longitude: -2.08489
-postcode: "TD15 2QG"
+postcode: TD15 2QG
 city: Ford Village
 street: ""
-housenumber: 6
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Su 09:00-16:00"
+opening_hours: Mo-Su 09:00-16:00
 website: ""

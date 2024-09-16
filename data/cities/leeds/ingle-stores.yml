@@ -1,11 +1,11 @@
 id: 572415073
-type: way
+type: node
 latitude: 53.75314
 longitude: -1.60844
-postcode: "LS27 9RB"
+postcode: LS27 9RB
 city: Leeds
-street: "Ingle Avenue"
-housenumber: 54
+street: Ingle Avenue
+housenumber: "54"
 phone: ""
 opening_hours: ""
 website: ""

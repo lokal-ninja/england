@@ -1,11 +1,11 @@
 id: 173606280
-type: way
+type: node
 latitude: 50.78228
 longitude: -3.0018
-postcode: "EX13 5NG"
+postcode: EX13 5NG
 city: Axminster
-street: "Shand Park"
-housenumber: 
+street: Shand Park
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00; Su 10:00-16:00"
-website: "https://www.tesco.com/store-locator/axminster/shand-park"
+opening_hours: Mo-Sa 08:00-22:00; Su 10:00-16:00
+website: https://www.tesco.com/store-locator/axminster/shand-park

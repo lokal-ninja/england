@@ -1,11 +1,11 @@
 id: 432234949
-type: way
+type: node
 latitude: 51.46521
 longitude: -0.26386
-postcode: "SW14 8AN"
+postcode: SW14 8AN
 city: London
-street: "Upper Richmond Road West"
-housenumber: 200
+street: Upper Richmond Road West
+housenumber: "200"
 phone: ""
-opening_hours: "Mo-Sa 10:00-17:30"
-website: "https://www.butikken.co.uk/"
+opening_hours: Mo-Sa 10:00-17:30
+website: https://www.butikken.co.uk/

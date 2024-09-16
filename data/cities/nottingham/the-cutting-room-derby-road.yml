@@ -1,11 +1,11 @@
 id: 316730970
-type: way
+type: node
 latitude: 52.90189
 longitude: -1.28139
 postcode: ""
 city: Nottingham
-street: "Derby Road"
-housenumber: 118
+street: Derby Road
+housenumber: "118"
 phone: ""
 opening_hours: ""
 website: ""

@@ -2,10 +2,10 @@ id: 281458763
 type: node
 latitude: 51.23521
 longitude: -0.57572
-postcode: "GU1 3DY"
+postcode: GU1 3DY
 city: Guildford
-street: "High Street"
-housenumber: 41
-phone: "+44 1483 306369"
-opening_hours: "Mo-Sa 09:30-18:00; Su 11:00-17:00"
+street: High Street
+housenumber: "41"
+phone: +44 1483 306369
+opening_hours: Mo-Sa 09:30-18:00; Su 11:00-17:00
 website: ""

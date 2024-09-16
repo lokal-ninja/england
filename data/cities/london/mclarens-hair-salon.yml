@@ -1,11 +1,11 @@
 id: 244995923
-type: way
+type: node
 latitude: 51.46617
 longitude: -0.25294
-postcode: "SW13 0JP"
+postcode: SW13 0JP
 city: London
-street: "White Hart Lane"
-housenumber: 157
-phone: "+44 20 8876 8999"
+street: White Hart Lane
+housenumber: "157"
+phone: +44 20 8876 8999
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 267210911
-type: way
+type: node
 latitude: 51.38535
 longitude: -2.38018
-postcode: "BA1 3BB"
+postcode: BA1 3BB
 city: Bath
-street: "Cork Place"
-housenumber: 8
+street: Cork Place
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

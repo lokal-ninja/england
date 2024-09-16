@@ -1,11 +1,11 @@
 id: 146351922
-type: way
+type: node
 latitude: 52.90148
 longitude: -1.26654
-postcode: "NG10 2AX"
+postcode: NG10 2AX
 city: Nottingham
-street: "Beech Avenue"
-housenumber: 24
+street: Beech Avenue
+housenumber: "24"
 phone: ""
 opening_hours: ""
-website: "https://www.leisuretrail.co.uk/"
+website: https://www.leisuretrail.co.uk/

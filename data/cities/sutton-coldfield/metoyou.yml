@@ -1,11 +1,11 @@
 id: 144969902
-type: way
+type: node
 latitude: 52.56478
 longitude: -1.81785
-postcode: "B75 7AR"
+postcode: B75 7AR
 city: Sutton Coldfield
-street: "Rectory Road"
-housenumber: 53
-phone: "+44 7815 967 510"
+street: Rectory Road
+housenumber: "53"
+phone: +44 7815 967 510
 opening_hours: ""
 website: ""

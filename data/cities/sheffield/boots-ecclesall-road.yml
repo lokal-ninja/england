@@ -1,11 +1,11 @@
 id: 1032045424
-type: way
+type: node
 latitude: 53.36951
 longitude: -1.49321
-postcode: "S11 8PN"
+postcode: S11 8PN
 city: Sheffield
-street: "Ecclesall Road"
-housenumber: 451
+street: Ecclesall Road
+housenumber: "451"
 phone: ""
-opening_hours: "Mo-Fr 8:30-19:00; Sa 8:30-18:00; Su 10:30-16:30"
-website: "https://www.boots.com/stores/1311-shef-berkeley-precinct-s11-8pn"
+opening_hours: Mo-Fr 8:30-19:00; Sa 8:30-18:00; Su 10:30-16:30
+website: https://www.boots.com/stores/1311-shef-berkeley-precinct-s11-8pn

@@ -2,10 +2,10 @@ id: 9288729332
 type: node
 latitude: 51.61612
 longitude: -0.07454
-postcode: "N18 1RG"
+postcode: N18 1RG
 city: London
-street: "Silver Street"
-housenumber: 101
+street: Silver Street
+housenumber: "101"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su 08:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00; Su 08:00-21:00
 website: ""

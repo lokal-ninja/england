@@ -2,10 +2,10 @@ id: 7375723760
 type: node
 latitude: 54.24585
 longitude: -1.0608
-postcode: "YO62 5BG"
+postcode: YO62 5BG
 city: York
-street: "Bridge Street"
-housenumber: 4
+street: Bridge Street
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

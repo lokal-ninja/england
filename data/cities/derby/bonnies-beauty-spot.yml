@@ -1,11 +1,11 @@
 id: 312341623
-type: way
+type: node
 latitude: 52.89519
 longitude: -1.34315
-postcode: "DE72 3NA"
+postcode: DE72 3NA
 city: Derby
-street: "Victoria Road"
-housenumber: 56
+street: Victoria Road
+housenumber: "56"
 phone: ""
 opening_hours: ""
-website: "http://www.bonniesbeautyspot.com/"
+website: http://www.bonniesbeautyspot.com/

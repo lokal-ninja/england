@@ -1,11 +1,11 @@
 id: 89761174
-type: way
+type: node
 latitude: 51.14547
 longitude: -2.71905
-postcode: "BA6 9ED"
+postcode: BA6 9ED
 city: Glastonbury
-street: "Street Road"
-housenumber: 
+street: Street Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su 10:00-16:00"
-website: "https://my.morrisons.com/storefinder/327/glastonbury"
+opening_hours: Mo-Sa 07:00-22:00; Su 10:00-16:00
+website: https://my.morrisons.com/storefinder/327/glastonbury

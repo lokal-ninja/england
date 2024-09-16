@@ -1,11 +1,12 @@
 id: 847241974
-type: way
+type: node
 latitude: 51.01373
 longitude: -3.09841
-postcode: "TA1 3NE"
+postcode: TA1 3NE
 city: Taunton
-street: "Billet Street"
-housenumber: 
+street: Billet Street
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:00-09:00,10:00-12:00,13:00-15:00,16:00-18:00,19:00-21:00; Su 11:00-13:00,14:00-16:00"
+opening_hours: Mo-Sa 07:00-09:00,10:00-12:00,13:00-15:00,16:00-18:00,19:00-21:00;
+    Su 11:00-13:00,14:00-16:00
 website: ""

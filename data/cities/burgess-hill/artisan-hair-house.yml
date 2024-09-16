@@ -1,11 +1,11 @@
 id: 931056551
-type: way
+type: node
 latitude: 50.96131
 longitude: -0.14376
-postcode: "RH15 8NY"
+postcode: RH15 8NY
 city: Burgess Hill
-street: "West Street"
-housenumber: 91
-phone: "+44 1444 233651"
+street: West Street
+housenumber: "91"
+phone: +44 1444 233651
 opening_hours: ""
-website: "https://www.organichairartisan.com/"
+website: https://www.organichairartisan.com/

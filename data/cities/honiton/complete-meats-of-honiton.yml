@@ -2,10 +2,10 @@ id: 11264698896
 type: node
 latitude: 50.79924
 longitude: -3.19002
-postcode: "EX14 1JW"
+postcode: EX14 1JW
 city: Honiton
-street: "High Street"
-housenumber: 100
+street: High Street
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

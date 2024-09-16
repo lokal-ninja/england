@@ -1,11 +1,11 @@
 id: 954610243
-type: way
+type: node
 latitude: 51.43014
 longitude: 0.08667
-postcode: "DA14 6QL"
+postcode: DA14 6QL
 city: Sidcup
-street: "Main Road"
-housenumber: 271
+street: Main Road
+housenumber: "271"
 phone: ""
 opening_hours: ""
-website: "http://www.carnivorefoods.com/"
+website: http://www.carnivorefoods.com/

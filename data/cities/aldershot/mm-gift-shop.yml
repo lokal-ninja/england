@@ -1,11 +1,11 @@
 id: 1181874395
-type: way
+type: node
 latitude: 51.2492
 longitude: -0.76771
-postcode: "GU11 1DP"
+postcode: GU11 1DP
 city: Aldershot
-street: "Grosvenor Road"
-housenumber: 12
-phone: "+44 7590 260401"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 10:00-17:30; Su 10:00-16:00"
-website: "https://mmgiftshop.uk/"
+street: Grosvenor Road
+housenumber: "12"
+phone: +44 7590 260401
+opening_hours: Mo-Fr 09:30-18:30; Sa 10:00-17:30; Su 10:00-16:00
+website: https://mmgiftshop.uk/

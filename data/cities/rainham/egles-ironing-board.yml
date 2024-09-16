@@ -1,11 +1,11 @@
 id: 846927314
-type: way
+type: node
 latitude: 51.51925
 longitude: 0.19445
 postcode: ""
 city: Rainham
-street: "Upminster Road South"
-housenumber: 105
-phone: "+44 1708 558425"
+street: Upminster Road South
+housenumber: "105"
+phone: +44 1708 558425
 opening_hours: ""
 website: ""

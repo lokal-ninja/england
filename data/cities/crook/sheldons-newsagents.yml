@@ -2,10 +2,10 @@ id: 11362818618
 type: node
 latitude: 54.71044
 longitude: -1.69048
-postcode: "DL15 0AD"
+postcode: DL15 0AD
 city: Crook
-street: "Commercial Street"
-housenumber: 23
+street: Commercial Street
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

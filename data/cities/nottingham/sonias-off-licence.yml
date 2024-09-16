@@ -1,11 +1,11 @@
 id: 254675009
-type: way
+type: node
 latitude: 52.98947
 longitude: -1.17988
-postcode: "NG6 0DT"
+postcode: NG6 0DT
 city: Nottingham
-street: "Park Lane"
-housenumber: 92
+street: Park Lane
+housenumber: "92"
 phone: ""
 opening_hours: ""
 website: ""

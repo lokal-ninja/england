@@ -2,10 +2,10 @@ id: 11446344026
 type: node
 latitude: 50.33539
 longitude: -4.63519
-postcode: "PL23 1AR"
+postcode: PL23 1AR
 city: Fowey
-street: "South Street"
-housenumber: 5
+street: South Street
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

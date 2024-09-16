@@ -1,11 +1,11 @@
 id: 234321425
-type: way
+type: node
 latitude: 53.7596
 longitude: -2.7002
 postcode: ""
 city: Preston
-street: "Friargate"
-housenumber: 
-phone: "+44 1772 254433"
+street: Friargate
+housenumber: ""
+phone: +44 1772 254433
 opening_hours: ""
 website: ""

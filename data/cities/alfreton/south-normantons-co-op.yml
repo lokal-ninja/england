@@ -1,11 +1,11 @@
 id: 175789113
-type: way
+type: node
 latitude: 53.10645
 longitude: -1.34465
-postcode: "DE55 2BN"
+postcode: DE55 2BN
 city: Alfreton
-street: "Market Place"
-housenumber: 
+street: Market Place
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00; Su 10:00-16:00"
-website: "https://www.coop.co.uk/store-finder/DE55-2BN/high-street"
+opening_hours: Mo-Su 07:00-22:00; Su 10:00-16:00
+website: https://www.coop.co.uk/store-finder/DE55-2BN/high-street

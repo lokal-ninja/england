@@ -1,11 +1,11 @@
 id: 987458421
-type: way
+type: node
 latitude: 50.81453
 longitude: -0.44703
-postcode: "BN12 5DP"
+postcode: BN12 5DP
 city: Worthing
-street: "Sea Lane"
-housenumber: 9
+street: Sea Lane
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

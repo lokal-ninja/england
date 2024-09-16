@@ -1,11 +1,11 @@
 id: 420838964
-type: way
+type: node
 latitude: 51.62225
 longitude: -0.19084
-postcode: "N12 7HD"
+postcode: N12 7HD
 city: London
-street: "Southover"
-housenumber: 66
+street: Southover
+housenumber: "66"
 phone: ""
 opening_hours: ""
 website: ""

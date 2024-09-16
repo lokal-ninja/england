@@ -2,10 +2,10 @@ id: 6568299051
 type: node
 latitude: 52.62943
 longitude: 1.29559
-postcode: "NR2 1LD"
+postcode: NR2 1LD
 city: Norwich
-street: "London Street"
-housenumber: 42
+street: London Street
+housenumber: "42"
 phone: ""
 opening_hours: ""
-website: "https://toniandguy.com/salon/norwich"
+website: https://toniandguy.com/salon/norwich

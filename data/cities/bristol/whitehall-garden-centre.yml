@@ -1,11 +1,11 @@
 id: 201114146
-type: way
+type: node
 latitude: 51.39658
 longitude: -2.55687
-postcode: "BS14 0BT"
+postcode: BS14 0BT
 city: Bristol
-street: "Norton Lane"
-housenumber: 
+street: Norton Lane
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "http://store.whitehallgardencentre.co.uk/"
+website: http://store.whitehallgardencentre.co.uk/

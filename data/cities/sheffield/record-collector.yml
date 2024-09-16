@@ -1,11 +1,11 @@
 id: 1080642669
-type: way
+type: node
 latitude: 53.37735
 longitude: -1.50128
-postcode: "S10 3BA"
+postcode: S10 3BA
 city: Sheffield
-street: "Fulwood Road"
-housenumber: 233
+street: Fulwood Road
+housenumber: "233"
 phone: ""
 opening_hours: ""
 website: ""

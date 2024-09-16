@@ -2,10 +2,10 @@ id: 7580988359
 type: node
 latitude: 54.04971
 longitude: -2.80202
-postcode: "LA1 1EG"
+postcode: LA1 1EG
 city: Lancaster
-street: "New Street"
-housenumber: 6
+street: New Street
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

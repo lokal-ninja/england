@@ -2,10 +2,11 @@ id: 298767591
 type: node
 latitude: 55.02592
 longitude: -1.62804
-postcode: "NE3 5TT"
+postcode: NE3 5TT
 city: Newcastle Upon Tyne
-street: "Princes Road"
-housenumber: 31
-phone: "+44 191 2362777"
-opening_hours: "Mo,Tu,Th,Fr 08:30-13:00,14:00-17:30; We 08:30-13:00,14:00-17:00; Sa 08:30-13:00"
+street: Princes Road
+housenumber: "31"
+phone: +44 191 2362777
+opening_hours: Mo,Tu,Th,Fr 08:30-13:00,14:00-17:30; We 08:30-13:00,14:00-17:00; Sa
+    08:30-13:00
 website: ""

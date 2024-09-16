@@ -1,11 +1,11 @@
 id: 516860146
-type: way
+type: node
 latitude: 53.61039
 longitude: -1.70319
 postcode: ""
 city: Huddersfield
-street: "North Road"
-housenumber: 66
-phone: "+44 1484 609312"
+street: North Road
+housenumber: "66"
+phone: +44 1484 609312
 opening_hours: ""
 website: ""

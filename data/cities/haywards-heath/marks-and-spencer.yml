@@ -1,11 +1,11 @@
 id: 612367844
-type: way
+type: node
 latitude: 50.99795
 longitude: -0.10182
-postcode: "RH16 3TH"
+postcode: RH16 3TH
 city: Haywards Heath
-street: "The Orchards"
-housenumber: 
+street: The Orchards
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-19:00; Su 10:00-16:00"
+opening_hours: Mo-Sa 08:00-19:00; Su 10:00-16:00
 website: ""

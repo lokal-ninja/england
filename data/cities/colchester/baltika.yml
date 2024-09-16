@@ -1,11 +1,11 @@
 id: 490621544
-type: way
+type: node
 latitude: 51.87161
 longitude: 0.90882
-postcode: "CO2 8PZ"
+postcode: CO2 8PZ
 city: Colchester
-street: "The Willows"
-housenumber: 8
+street: The Willows
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

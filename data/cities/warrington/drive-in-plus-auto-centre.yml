@@ -1,11 +1,11 @@
 id: 780643243
-type: way
+type: node
 latitude: 53.38138
 longitude: -2.56544
-postcode: "WA4 1JJ"
+postcode: WA4 1JJ
 city: Warrington
-street: "Knutsford Road"
-housenumber: 653
+street: Knutsford Road
+housenumber: "653"
 phone: ""
 opening_hours: ""
 website: ""

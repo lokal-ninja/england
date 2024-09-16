@@ -1,11 +1,11 @@
 id: 104186981
-type: way
+type: node
 latitude: 52.61965
 longitude: 1.29417
-postcode: "NR1 3HU"
+postcode: NR1 3HU
 city: Norwich
-street: "Southwell Road"
-housenumber: 97
+street: Southwell Road
+housenumber: "97"
 phone: ""
 opening_hours: ""
 website: ""

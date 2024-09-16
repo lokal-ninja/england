@@ -2,10 +2,10 @@ id: 3131338242
 type: node
 latitude: 53.40842
 longitude: -2.98788
-postcode: "L2 2HJ"
+postcode: L2 2HJ
 city: Liverpool
-street: "Dale Street"
-housenumber: 57
+street: Dale Street
+housenumber: "57"
 phone: ""
-opening_hours: "06:00-23:00"
+opening_hours: 06:00-23:00
 website: ""

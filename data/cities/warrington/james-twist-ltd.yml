@@ -1,11 +1,11 @@
 id: 1050637502
-type: way
+type: node
 latitude: 53.47768
 longitude: -2.58652
-postcode: "WA3 3HN"
+postcode: WA3 3HN
 city: Warrington
-street: "Lowton Road"
-housenumber: 151
+street: Lowton Road
+housenumber: "151"
 phone: ""
 opening_hours: ""
 website: ""

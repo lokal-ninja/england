@@ -1,11 +1,11 @@
 id: 940717907
-type: way
+type: node
 latitude: 51.44428
 longitude: 0.21238
-postcode: "DA1 2JH"
+postcode: DA1 2JH
 city: Dartford
-street: "Highfield Road"
-housenumber: 9
-phone: "+44 1322 276713"
+street: Highfield Road
+housenumber: "9"
+phone: +44 1322 276713
 opening_hours: ""
 website: ""

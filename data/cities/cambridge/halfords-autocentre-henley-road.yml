@@ -2,10 +2,10 @@ id: 5018549025
 type: node
 latitude: 52.20817
 longitude: 0.14749
-postcode: "CB1 3DY"
+postcode: CB1 3DY
 city: Cambridge
-street: "Henley Road"
-housenumber: 19
+street: Henley Road
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-17:00"
-website: "https://www.halfords.com/locations/cambridge-coral-park-autocentre/"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-17:00
+website: https://www.halfords.com/locations/cambridge-coral-park-autocentre/

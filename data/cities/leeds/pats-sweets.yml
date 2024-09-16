@@ -2,10 +2,10 @@ id: 5459455581
 type: node
 latitude: 53.76674
 longitude: -1.36811
-postcode: "LS25 7AF"
+postcode: LS25 7AF
 city: Leeds
-street: "High Street"
-housenumber: 45
+street: High Street
+housenumber: "45"
 phone: ""
 opening_hours: ""
 website: ""

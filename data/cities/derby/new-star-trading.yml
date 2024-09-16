@@ -1,11 +1,11 @@
 id: 129516724
-type: way
+type: node
 latitude: 52.91117
 longitude: -1.48202
 postcode: ""
 city: Derby
-street: "Upper Bainbrigge Street"
-housenumber: 78
+street: Upper Bainbrigge Street
+housenumber: "78"
 phone: ""
 opening_hours: ""
 website: ""

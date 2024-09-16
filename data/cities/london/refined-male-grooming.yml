@@ -1,11 +1,11 @@
 id: 85710001
-type: way
+type: node
 latitude: 51.47097
 longitude: -0.09277
-postcode: "SE5 8RS"
+postcode: SE5 8RS
 city: London
-street: "Denmark Hill"
-housenumber: 77
-phone: "+44 20 7701 3314"
+street: Denmark Hill
+housenumber: "77"
+phone: +44 20 7701 3314
 opening_hours: ""
 website: ""

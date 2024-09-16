@@ -1,11 +1,11 @@
 id: 109229279
-type: way
+type: node
 latitude: 53.20946
 longitude: -0.1184
-postcode: "LN9 5HZ"
+postcode: LN9 5HZ
 city: Horncastle
-street: "Bridge Street"
-housenumber: 26
+street: Bridge Street
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

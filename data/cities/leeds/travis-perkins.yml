@@ -1,11 +1,11 @@
 id: 522930634
-type: way
+type: node
 latitude: 53.79252
 longitude: -1.5981
-postcode: "LS12 4NL"
+postcode: LS12 4NL
 city: Leeds
-street: "Wortley Moor Road"
-housenumber: 
+street: Wortley Moor Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 07:30-17:00; Sa 08:00-12:00; Su closed"
-website: "https://www.travisperkins.co.uk/branch-locator/5334"
+opening_hours: Mo-Fr 07:30-17:00; Sa 08:00-12:00; Su closed
+website: https://www.travisperkins.co.uk/branch-locator/5334

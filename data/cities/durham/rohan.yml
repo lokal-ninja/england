@@ -1,11 +1,11 @@
 id: 104209685
-type: way
+type: node
 latitude: 54.77623
 longitude: -1.57457
-postcode: "DH1 3AA"
+postcode: DH1 3AA
 city: Durham
-street: "Elvet Bridge"
-housenumber: 23
-phone: "+44 191 374 1645"
+street: Elvet Bridge
+housenumber: "23"
+phone: +44 191 374 1645
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 170313286
-type: way
+type: node
 latitude: 50.54115
 longitude: -3.59944
-postcode: "TQ12 3AF"
+postcode: TQ12 3AF
 city: Newton Abbot
-street: "Newton Road"
-housenumber: 
+street: Newton Road
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

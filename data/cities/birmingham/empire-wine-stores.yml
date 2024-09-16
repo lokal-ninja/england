@@ -1,11 +1,11 @@
 id: 238846905
-type: way
+type: node
 latitude: 52.45916
 longitude: -1.87056
-postcode: "B11 1NR"
+postcode: B11 1NR
 city: Birmingham
-street: "Walford Road"
-housenumber: 4
+street: Walford Road
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

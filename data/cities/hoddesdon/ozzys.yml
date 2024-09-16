@@ -1,11 +1,11 @@
 id: 123236315
-type: way
+type: node
 latitude: 51.76065
 longitude: -0.01196
-postcode: "EN11 8TL"
+postcode: EN11 8TL
 city: Hoddesdon
-street: "High Street"
+street: High Street
 housenumber: 87A
-phone: "+44 1992 927035"
+phone: +44 1992 927035
 opening_hours: ""
 website: ""

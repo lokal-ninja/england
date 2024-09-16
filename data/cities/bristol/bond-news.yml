@@ -1,11 +1,11 @@
 id: 128620635
-type: way
+type: node
 latitude: 51.44378
 longitude: -2.57942
-postcode: "BS3 4TG"
+postcode: BS3 4TG
 city: Bristol
-street: "Cambridge Street"
-housenumber: 16
+street: Cambridge Street
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

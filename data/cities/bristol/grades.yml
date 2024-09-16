@@ -1,11 +1,11 @@
 id: 125782166
-type: way
+type: node
 latitude: 51.45564
 longitude: -2.59408
-postcode: "BS1 2EP"
+postcode: BS1 2EP
 city: Bristol
-street: "Broad Street"
-housenumber: 44
+street: Broad Street
+housenumber: "44"
 phone: ""
 opening_hours: ""
 website: ""

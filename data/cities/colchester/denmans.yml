@@ -1,11 +1,11 @@
 id: 481338623
-type: way
+type: node
 latitude: 51.8983
 longitude: 0.89952
-postcode: "CO1 1BX"
+postcode: CO1 1BX
 city: Colchester
-street: "Mason Road"
-housenumber: 3
+street: Mason Road
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

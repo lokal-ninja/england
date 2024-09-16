@@ -1,11 +1,11 @@
 id: 273301399
-type: way
+type: node
 latitude: 51.01439
 longitude: -3.0992
-postcode: "TA1 3TZ"
+postcode: TA1 3TZ
 city: Taunton
-street: "County Walk"
-housenumber: 3
-phone: "+44 1823 256505"
+street: County Walk
+housenumber: "3"
+phone: +44 1823 256505
 opening_hours: ""
-website: "https://www.taylorsleathercompany.co.uk/"
+website: https://www.taylorsleathercompany.co.uk/

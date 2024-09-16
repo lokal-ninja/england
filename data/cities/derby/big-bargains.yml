@@ -1,11 +1,11 @@
 id: 72464087
-type: way
+type: node
 latitude: 52.91477
 longitude: -1.47713
-postcode: "DE1 2GG"
+postcode: DE1 2GG
 city: Derby
-street: "Normanton Road"
-housenumber: 111
+street: Normanton Road
+housenumber: "111"
 phone: ""
 opening_hours: ""
 website: ""

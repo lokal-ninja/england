@@ -1,11 +1,11 @@
 id: 1287531550
-type: way
+type: node
 latitude: 53.7999
 longitude: -3.05064
-postcode: "FY1 6EY"
+postcode: FY1 6EY
 city: Blackpool
-street: "Lytham Road"
-housenumber: 294
+street: Lytham Road
+housenumber: "294"
 phone: ""
 opening_hours: ""
 website: ""

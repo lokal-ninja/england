@@ -1,11 +1,11 @@
 id: 932374009
-type: way
+type: node
 latitude: 54.23627
 longitude: -1.34012
-postcode: "YO7 1AU"
+postcode: YO7 1AU
 city: Thirsk
-street: "Long Street"
-housenumber: 80
+street: Long Street
+housenumber: "80"
 phone: ""
 opening_hours: ""
-website: "https://www.teasdale-motorcycles.co.uk/"
+website: https://www.teasdale-motorcycles.co.uk/

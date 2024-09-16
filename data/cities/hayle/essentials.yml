@@ -1,11 +1,11 @@
 id: 204186263
-type: way
+type: node
 latitude: 50.19713
 longitude: -5.42624
-postcode: "TR27 5AF"
+postcode: TR27 5AF
 city: Hayle
-street: "Riviere Towans"
-housenumber: 4
+street: Riviere Towans
+housenumber: "4"
 phone: ""
-opening_hours: "08:00-20:00"
+opening_hours: 08:00-20:00
 website: ""

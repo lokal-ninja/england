@@ -1,11 +1,11 @@
 id: 1196978491
-type: way
+type: node
 latitude: 53.43736
 longitude: -2.77601
-postcode: "WA10 3BY"
+postcode: WA10 3BY
 city: St Helens
-street: "Prescot Road"
-housenumber: 531
+street: Prescot Road
+housenumber: "531"
 phone: ""
 opening_hours: ""
 website: ""

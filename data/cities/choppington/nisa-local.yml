@@ -1,11 +1,11 @@
 id: 344085232
-type: way
+type: node
 latitude: 55.15894
 longitude: -1.60375
-postcode: "NE62 5LT"
+postcode: NE62 5LT
 city: Choppington
-street: "Front Street"
-housenumber: 
+street: Front Street
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 06:30-21:30"
+opening_hours: Mo-Su 06:30-21:30
 website: ""

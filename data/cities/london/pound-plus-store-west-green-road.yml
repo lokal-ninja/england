@@ -2,10 +2,10 @@ id: 11944878283
 type: node
 latitude: 51.58599
 longitude: -0.09149
-postcode: "N15 3PA"
+postcode: N15 3PA
 city: London
-street: "West Green Road"
-housenumber: 321
+street: West Green Road
+housenumber: "321"
 phone: ""
 opening_hours: ""
 website: ""

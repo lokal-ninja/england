@@ -1,11 +1,11 @@
 id: 242400608
-type: way
+type: node
 latitude: 55.0743
 longitude: -1.58083
-postcode: "NE23 6YA"
+postcode: NE23 6YA
 city: Cramlington
-street: "Glenluce Court"
-housenumber: 4
+street: Glenluce Court
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

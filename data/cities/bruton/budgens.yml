@@ -1,11 +1,11 @@
 id: 198810114
-type: way
+type: node
 latitude: 51.10942
 longitude: -2.45894
-postcode: "BA10 0BQ"
+postcode: BA10 0BQ
 city: Bruton
-street: "West End"
-housenumber: 
+street: West End
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-22:00"
-website: "https://www.budgens.co.uk/our-stores/bruton"
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-22:00
+website: https://www.budgens.co.uk/our-stores/bruton

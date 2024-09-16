@@ -1,11 +1,11 @@
 id: 258448587
-type: way
+type: node
 latitude: 51.02075
 longitude: -3.10449
-postcode: "TA1 1NZ"
+postcode: TA1 1NZ
 city: Taunton
-street: "Station Road"
-housenumber: 51
+street: Station Road
+housenumber: "51"
 phone: ""
-opening_hours: "Tu-Sa 10:00-15:30"
+opening_hours: Tu-Sa 10:00-15:30
 website: ""

@@ -1,11 +1,11 @@
 id: 547325151
-type: way
+type: node
 latitude: 52.95456
 longitude: -1.47931
-postcode: "DE22 2DG"
+postcode: DE22 2DG
 city: Derby
-street: "Duffield Road"
-housenumber: 339
+street: Duffield Road
+housenumber: "339"
 phone: ""
 opening_hours: ""
-website: "https://www.waitrose.com/find-a-store/allestree"
+website: https://www.waitrose.com/find-a-store/allestree

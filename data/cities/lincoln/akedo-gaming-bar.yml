@@ -1,11 +1,11 @@
 id: 723251378
-type: way
+type: node
 latitude: 53.23046
 longitude: -0.5405
-postcode: "LN2 1HL"
+postcode: LN2 1HL
 city: Lincoln
-street: "Corporation Street"
-housenumber: 13
+street: Corporation Street
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

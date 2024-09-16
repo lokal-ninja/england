@@ -1,11 +1,11 @@
 id: 785909071
-type: way
+type: node
 latitude: 50.87141
 longitude: -2.96536
-postcode: "TA20 2AJ"
+postcode: TA20 2AJ
 city: Chard
-street: "Holyrood Street"
-housenumber: 34
-phone: "+44 1460 63215"
+street: Holyrood Street
+housenumber: "34"
+phone: +44 1460 63215
 opening_hours: ""
-website: "https://www.sarahhodge.co.uk/"
+website: https://www.sarahhodge.co.uk/

@@ -1,11 +1,11 @@
 id: 42710618
-type: way
+type: node
 latitude: 52.4806
 longitude: -0.46595
-postcode: "PE8 4BG"
+postcode: PE8 4BG
 city: Peterborough
-street: "St Osyths Lane"
-housenumber: 5
-phone: "+44 1832 275444"
-opening_hours: "Mo-Sa 07:00-22:00; Su 10:00-16:00"
-website: "https://stores.centralengland.coop/northamptonshire/peterborough/st-osyths-lane"
+street: St Osyths Lane
+housenumber: "5"
+phone: +44 1832 275444
+opening_hours: Mo-Sa 07:00-22:00; Su 10:00-16:00
+website: https://stores.centralengland.coop/northamptonshire/peterborough/st-osyths-lane

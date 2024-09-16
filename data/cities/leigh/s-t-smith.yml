@@ -1,11 +1,11 @@
 id: 1206416263
-type: way
+type: node
 latitude: 53.49622
 longitude: -2.52027
 postcode: ""
 city: Leigh
-street: "Cook Street"
-housenumber: 1
+street: Cook Street
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

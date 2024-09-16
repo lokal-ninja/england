@@ -1,11 +1,11 @@
 id: 240442221
-type: way
+type: node
 latitude: 53.51794
 longitude: -2.27039
-postcode: "M25 0LD"
+postcode: M25 0LD
 city: Manchester
-street: "Bury New Road"
-housenumber: 
+street: Bury New Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00, Su 10:00 - 16:00"
-website: "https://www.lidl.co.uk/s/en-GB/store-finder/prestwich/bury-new-road-sedgley-park-14/"
+opening_hours: Mo-Sa 08:00-22:00, Su 10:00 - 16:00
+website: https://www.lidl.co.uk/s/en-GB/store-finder/prestwich/bury-new-road-sedgley-park-14/

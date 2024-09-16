@@ -1,11 +1,11 @@
 id: 1011068976
-type: way
+type: node
 latitude: 51.46111
 longitude: -0.21782
-postcode: "SW15 6TD"
+postcode: SW15 6TD
 city: London
-street: "Upper Richmond Road"
-housenumber: 210
+street: Upper Richmond Road
+housenumber: "210"
 phone: ""
 opening_hours: ""
 website: ""

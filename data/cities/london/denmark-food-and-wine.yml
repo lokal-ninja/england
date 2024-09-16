@@ -1,11 +1,11 @@
 id: 591270737
-type: way
+type: node
 latitude: 51.47232
 longitude: -0.09321
-postcode: "SE5 9RZ"
+postcode: SE5 9RZ
 city: London
-street: "Denmark Hill"
-housenumber: 74
+street: Denmark Hill
+housenumber: "74"
 phone: ""
 opening_hours: ""
 website: ""

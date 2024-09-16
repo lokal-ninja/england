@@ -1,11 +1,11 @@
 id: 161937228
-type: way
+type: node
 latitude: 52.3516
 longitude: -1.7777
-postcode: "B94 6QT"
+postcode: B94 6QT
 city: Solihull
-street: "Stratford Road"
-housenumber: 2364
+street: Stratford Road
+housenumber: "2364"
 phone: ""
-opening_hours: "Tu-Fr 09:00-16:00; Sa 09:00-14:00"
-website: "http://www.dynamicrides.co.uk/"
+opening_hours: Tu-Fr 09:00-16:00; Sa 09:00-14:00
+website: http://www.dynamicrides.co.uk/

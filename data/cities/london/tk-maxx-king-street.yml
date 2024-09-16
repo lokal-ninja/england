@@ -1,11 +1,11 @@
 id: 148066400
-type: way
+type: node
 latitude: 51.49234
 longitude: -0.22716
-postcode: "W6 9HW"
+postcode: W6 9HW
 city: London
-street: "King Street"
-housenumber: 57
+street: King Street
+housenumber: "57"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00; Su 11:30-17:30"
+opening_hours: Mo-Sa 09:00-20:00; Su 11:30-17:30
 website: ""

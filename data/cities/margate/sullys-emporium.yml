@@ -1,11 +1,11 @@
 id: 653445413
-type: way
+type: node
 latitude: 51.38765
 longitude: 1.39822
 postcode: ""
 city: Margate
-street: "Northdown Road"
-housenumber: 175
+street: Northdown Road
+housenumber: "175"
 phone: ""
 opening_hours: ""
 website: ""

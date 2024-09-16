@@ -1,11 +1,11 @@
 id: 987208093
-type: way
+type: node
 latitude: 51.44976
 longitude: -0.23884
-postcode: "SW15 4JZ"
+postcode: SW15 4JZ
 city: London
-street: "Medfield Street"
-housenumber: 6
+street: Medfield Street
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

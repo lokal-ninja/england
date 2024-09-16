@@ -1,11 +1,11 @@
 id: 464811199
-type: way
+type: node
 latitude: 52.39175
 longitude: -0.7245
-postcode: "NN15 7HT"
+postcode: NN15 7HT
 city: Kettering
-street: "Hawthorn Road"
-housenumber: 70
+street: Hawthorn Road
+housenumber: "70"
 phone: ""
 opening_hours: ""
 website: ""

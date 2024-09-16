@@ -1,11 +1,11 @@
 id: 136446816
-type: way
+type: node
 latitude: 51.91643
 longitude: -0.66076
-postcode: "LU7 1HE"
+postcode: LU7 1HE
 city: Leighton Buzzard
-street: "Market Square"
-housenumber: 26
+street: Market Square
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

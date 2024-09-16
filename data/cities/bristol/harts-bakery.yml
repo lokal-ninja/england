@@ -1,11 +1,11 @@
 id: 422527966
-type: way
+type: node
 latitude: 51.44905
 longitude: -2.5817
-postcode: "BS1 6QS"
+postcode: BS1 6QS
 city: Bristol
-street: "Lower Approach Road"
-housenumber: 35
+street: Lower Approach Road
+housenumber: "35"
 phone: ""
 opening_hours: ""
 website: ""

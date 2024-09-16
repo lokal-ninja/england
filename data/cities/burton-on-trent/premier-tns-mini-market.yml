@@ -1,11 +1,11 @@
 id: 761862763
-type: way
+type: node
 latitude: 52.81086
 longitude: -1.66833
-postcode: "DE13 9TW"
+postcode: DE13 9TW
 city: Burton-on-Trent
-street: "Forest Road"
-housenumber: 5
-phone: "+44 1283 564537"
+street: Forest Road
+housenumber: "5"
+phone: +44 1283 564537
 opening_hours: ""
-website: "https://www.premier-stores.co.uk/our-stores/tns-mini-market"
+website: https://www.premier-stores.co.uk/our-stores/tns-mini-market

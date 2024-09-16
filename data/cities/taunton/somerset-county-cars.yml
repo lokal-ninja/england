@@ -1,11 +1,11 @@
 id: 120116932
-type: way
+type: node
 latitude: 51.02793
 longitude: -3.08702
-postcode: "TA2 8DN"
+postcode: TA2 8DN
 city: Taunton
-street: "Priorswood Road"
-housenumber: 142
+street: Priorswood Road
+housenumber: "142"
 phone: ""
 opening_hours: ""
 website: ""

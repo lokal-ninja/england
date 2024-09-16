@@ -1,11 +1,11 @@
 id: 529148565
-type: way
+type: node
 latitude: 51.40199
 longitude: 0.015
-postcode: "BR1 1EG"
+postcode: BR1 1EG
 city: Bromley
-street: "High Street"
-housenumber: 64
+street: High Street
+housenumber: "64"
 phone: ""
-opening_hours: "Mo-We,Fr,Sa 09:00-19:30; Th 09:00-21:00; Su 11:00-17:00"
+opening_hours: Mo-We,Fr,Sa 09:00-19:30; Th 09:00-21:00; Su 11:00-17:00
 website: ""

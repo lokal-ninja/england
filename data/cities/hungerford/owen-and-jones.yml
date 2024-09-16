@@ -1,11 +1,11 @@
 id: 313482037
-type: way
+type: node
 latitude: 51.41744
 longitude: -1.51373
 postcode: ""
 city: Hungerford
-street: "Bridge Street"
-housenumber: 7
+street: Bridge Street
+housenumber: "7"
 phone: ""
-opening_hours: "Tu-Sa 09:30-17:00"
-website: "https://www.owenandjones.co.uk/"
+opening_hours: Tu-Sa 09:30-17:00
+website: https://www.owenandjones.co.uk/

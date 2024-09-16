@@ -1,11 +1,11 @@
 id: 1228053009
-type: way
+type: node
 latitude: 50.37343
 longitude: -4.14303
-postcode: "PL1 1QL"
+postcode: PL1 1QL
 city: Plymouth
-street: "Mayflower Street"
+street: Mayflower Street
 housenumber: Unit A
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00, Su 10:30-16:30"
+opening_hours: Mo-Sa 08:00-20:00, Su 10:30-16:30
 website: ""

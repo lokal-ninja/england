@@ -1,11 +1,11 @@
 id: 1110480460
-type: way
+type: node
 latitude: 53.25064
 longitude: -2.53856
-postcode: "CW8 1LG"
+postcode: CW8 1LG
 city: Northwich
-street: "Chester Road"
-housenumber: 198
+street: Chester Road
+housenumber: "198"
 phone: ""
 opening_hours: ""
 website: ""

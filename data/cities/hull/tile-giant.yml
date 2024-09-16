@@ -1,11 +1,11 @@
 id: 455687293
-type: way
+type: node
 latitude: 53.75098
 longitude: -0.37719
-postcode: "HU3 6LJ"
+postcode: HU3 6LJ
 city: Hull
-street: "Spring Bank West"
-housenumber: 576
+street: Spring Bank West
+housenumber: "576"
 phone: ""
 opening_hours: ""
 website: ""
