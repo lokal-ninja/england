@@ -7,5 +7,6 @@ city: Oxford
 street: Lamarsh Road
 housenumber: ""
 phone: +44 1865 966250
-opening_hours: ""
-website: ""
+opening_hours: Mo 09:30-18:00; Tu 09:30-19:00; We-Fr 09:30-18:00; Sa 09:00-18:00;
+    Su 10:00-16:00
+website: https://www.tapi.co.uk/stores/oxford

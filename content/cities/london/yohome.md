@@ -1,5 +1,5 @@
 ---
-title: "YoHome"
+title: "YOHOME"
 url: /london/yohome/
 shop: supermarket
 ---

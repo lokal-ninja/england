@@ -7,5 +7,6 @@ city: Warrington
 street: Winwick Road
 housenumber: ""
 phone: +44 1925 918 050
-opening_hours: Mo,We,Fr 09:30-18:00; Tu,Th 09:30-19:00; Sa 09:00-18:00; Su 10:30-16:30
+opening_hours: Mo 09:30-18:00; Tu 09:30-19:00; We 09:30-18:00; Th 09:30-19:00; Fr
+    09:30-18:00; Sa 09:00-18:00; Su 10:30-16:30
 website: ""

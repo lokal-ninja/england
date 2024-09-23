@@ -1,6 +1,6 @@
 ---
 title: Biggin Hill, Westerham
 url: /biggin-hill-westerham/
-latitude: 51.314
-longitude: 0.029
+latitude: 51.31
+longitude: 0.027
 ---
