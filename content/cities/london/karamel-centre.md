@@ -1,5 +1,5 @@
 ---
 title: "Karamel Centre"
 url: /london/karamel-centre/
-shop: shop
+shop: clothes
 ---

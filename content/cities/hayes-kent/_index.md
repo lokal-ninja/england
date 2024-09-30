@@ -1,6 +1,6 @@
 ---
 title: Hayes, Kent
 url: /hayes-kent/
-latitude: 51.377
+latitude: 51.378
 longitude: 0.011
 ---

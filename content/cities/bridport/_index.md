@@ -1,6 +1,6 @@
 ---
 title: Bridport
 url: /bridport/
-latitude: 50.727
-longitude: -2.756
+latitude: 50.74
+longitude: -2.746
 ---

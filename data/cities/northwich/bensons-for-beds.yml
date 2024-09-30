@@ -7,5 +7,6 @@ city: Northwich
 street: Manchester Road
 housenumber: ""
 phone: +44 1606 352 657
-opening_hours: Mo-Fr 09:00-20:00, Sa 09:00-18:00, Su 10:00-17:00
+opening_hours: Mo 10:00-18:00; Tu 10:00-20:00; We-Fr 10:00-18:00; Sa 09:00-18:00;
+    Su 10:00-17:00
 website: ""
