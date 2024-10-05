@@ -7,5 +7,5 @@ city: Exeter
 street: High Street
 housenumber: "28"
 phone: ""
-opening_hours: ""
+opening_hours: Mo-Th,Sa 09:00-17:30; Fr 09:30-17:30; Su 10:30-16:30
 website: ""

@@ -1,5 +1,5 @@
 ---
-title: "Hadfields"
+title: "Hadfields'"
 url: /huddersfield/hadfields/
-shop: bakery
+shop: newsagent
 ---
