@@ -1,5 +1,5 @@
 ---
-title: "Jacobs"
+title: "Jacob's"
 url: /bristol/jacobs/
-shop: hairdresser
+shop: clothes
 ---
