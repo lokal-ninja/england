@@ -1,5 +1,0 @@
----
-title: "Cromhall Diving Centre"
-url: /cromhall/cromhall-diving-centre/
-shop: diving
----
