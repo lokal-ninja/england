@@ -1,0 +1,5 @@
+---
+title: "First Stop DIY"
+url: /morecambe/first-stop-diy/
+shop: doityourself
+---
