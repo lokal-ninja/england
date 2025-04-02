@@ -1,5 +1,5 @@
 ---
-title: "FAM Market"
+title: "Fam Market"
 url: /london/fam-market/
 shop: greengrocer
 ---

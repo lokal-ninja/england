@@ -1,6 +1,6 @@
 ---
 title: Budleigh Salterton
 url: /budleigh-salterton/
-latitude: 50.636
-longitude: -3.329
+latitude: 50.629
+longitude: -3.325
 ---

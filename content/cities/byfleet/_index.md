@@ -1,6 +1,6 @@
 ---
 title: Byfleet
 url: /byfleet/
-latitude: 51.34
-longitude: -0.477
+latitude: 51.347
+longitude: -0.482
 ---
