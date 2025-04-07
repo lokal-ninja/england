@@ -7,5 +7,6 @@ city: Eastleigh
 street: Wells Place
 housenumber: 6a
 phone: +44 2380612069
-opening_hours: ""
+opening_hours: Mo 09:00-17:00; Tu 09:00-19:00; We,Fr 09:00-18:00; Th 10:00-20:00;
+    Sa 09:00-16:30
 website: ""

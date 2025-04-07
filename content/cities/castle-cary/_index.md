@@ -1,6 +1,6 @@
 ---
 title: Castle Cary
 url: /castle-cary/
-latitude: 51.089
-longitude: -2.514
+latitude: 51.088
+longitude: -2.515
 ---
