@@ -1,6 +1,6 @@
 ---
 title: Bromley
 url: /bromley/
-latitude: 51.403
-longitude: 0.015
+latitude: 51.406
+longitude: 0.016
 ---

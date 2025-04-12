@@ -1,5 +1,5 @@
 ---
 title: "Mad Hatters"
 url: /brighton/mad-hatters/
-shop: hat
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
-title: "nova silver"
+title: "Nova Silver"
 url: /norwich/nova-silver/
 shop: jewelry
 ---
