@@ -1,6 +1,6 @@
 ---
 title: Smethwick
 url: /smethwick/
-latitude: 52.487
-longitude: -1.961
+latitude: 52.475
+longitude: -1.973
 ---

@@ -1,6 +1,6 @@
 ---
 title: Lobley
 url: /lobley/
-latitude: 54.942
-longitude: -1.639
+latitude: 54.937
+longitude: -1.632
 ---

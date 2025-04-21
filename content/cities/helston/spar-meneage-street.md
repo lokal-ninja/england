@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /helston/spar-meneage-street/
-shop: supermarket
+shop: convenience
 ---

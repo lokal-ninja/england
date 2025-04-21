@@ -1,6 +1,6 @@
 ---
 title: Weybridge
 url: /weybridge/
-latitude: 51.371
-longitude: -0.463
+latitude: 51.37
+longitude: -0.462
 ---
