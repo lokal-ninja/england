@@ -1,5 +1,5 @@
 ---
 title: "Local Express"
 url: /london/local-express/
-shop: supermarket
+shop: convenience
 ---

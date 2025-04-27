@@ -7,5 +7,6 @@ city: Reading
 street: Napier Road
 housenumber: ""
 phone: +44 345 677 9573
-opening_hours: Mo-Sa 00:00-24:00; Su 10:00-16:00; PH 08:00-20:00
+opening_hours: Mo-Sa 06:00-24:00; Su 10:00-16:00; PH 08:00-20:00; May bank holiday
+    08:00-18:00
 website: https://www.tesco.com/store-locator/reading/napier-rd

@@ -1,5 +1,5 @@
 ---
-title: "best-one"
+title: "Best-one"
 url: /swanley/best-one/
 shop: convenience
 ---

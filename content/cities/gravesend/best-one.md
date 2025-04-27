@@ -1,5 +1,5 @@
 ---
-title: "Best One"
+title: "Best-one"
 url: /gravesend/best-one/
 shop: convenience
 ---

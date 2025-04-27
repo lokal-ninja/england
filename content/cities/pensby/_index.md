@@ -1,6 +1,6 @@
 ---
 title: Pensby
 url: /pensby/
-latitude: 53.342
-longitude: -3.11
+latitude: 53.348
+longitude: -3.103
 ---

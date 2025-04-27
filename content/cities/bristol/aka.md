@@ -1,5 +1,5 @@
 ---
-title: "Aka"
+title: "aka"
 url: /bristol/aka/
 shop: hairdresser
 ---
