@@ -1,5 +1,5 @@
 ---
-title: "Ideal eyes"
+title: "Ideal Eyes"
 url: /oxford/ideal-eyes/
 shop: optician
 ---

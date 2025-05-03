@@ -1,6 +1,6 @@
 ---
 title: Helston
 url: /helston/
-latitude: 50.101
-longitude: -5.275
+latitude: 50.086
+longitude: -5.316
 ---

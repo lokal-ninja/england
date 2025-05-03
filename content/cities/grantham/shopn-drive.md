@@ -1,5 +1,5 @@
 ---
-title: "Shop'n Drive"
+title: "Shop'N Drive"
 url: /grantham/shopn-drive/
 shop: convenience
 ---
