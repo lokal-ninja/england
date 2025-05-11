@@ -1,5 +1,5 @@
 ---
 title: "Cake Box"
 url: /london/cake-box-hoe-street/
-shop: pastry
+shop: bakery
 ---

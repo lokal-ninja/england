@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /london/savers-lea-bridge-road/
-shop: chemist
+shop: beauty
 ---

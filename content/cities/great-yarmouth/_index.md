@@ -1,6 +1,6 @@
 ---
 title: Great Yarmouth
 url: /great-yarmouth/
-latitude: 52.645
-longitude: 1.729
+latitude: 52.646
+longitude: 1.731
 ---

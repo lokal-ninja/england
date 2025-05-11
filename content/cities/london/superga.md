@@ -1,5 +1,5 @@
 ---
-title: "SUPERGA"
+title: "Superga"
 url: /london/superga/
 shop: shoes
 ---

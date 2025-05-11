@@ -1,5 +1,5 @@
 ---
 title: "Fossil"
 url: /london/fossil/
-shop: watches
+shop: jewelry
 ---

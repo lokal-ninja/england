@@ -1,5 +1,5 @@
 ---
 title: "Premier Food & Wine"
 url: /london/premier-food-and-wine/
-shop: convenience
+shop: supermarket
 ---

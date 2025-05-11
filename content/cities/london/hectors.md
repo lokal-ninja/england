@@ -1,5 +1,5 @@
 ---
-title: "Hectors"
+title: "Hector's"
 url: /london/hectors/
-shop: hairdresser
+shop: wine
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Edmundson Electrical"
 url: /gravesend/edmundson-electrical/
-shop: trade
+shop: electrical
 ---

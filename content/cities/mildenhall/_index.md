@@ -1,6 +1,6 @@
 ---
 title: Mildenhall
 url: /mildenhall/
-latitude: 52.372
-longitude: 0.467
+latitude: 52.371
+longitude: 0.466
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Best-one"
+title: "Best One"
 url: /london/best-one-montfort-place/
-shop: convenience
+shop: supermarket
 ---
