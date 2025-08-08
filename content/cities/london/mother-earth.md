@@ -1,5 +1,5 @@
 ---
 title: "Mother Earth"
 url: /london/mother-earth/
-shop: supermarket
+shop: health food
 ---

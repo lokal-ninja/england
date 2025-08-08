@@ -1,5 +1,5 @@
 ---
 title: "Rimowa"
 url: /london/rimowa/
-shop: boutique
+shop: bag
 ---

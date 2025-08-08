@@ -1,5 +1,5 @@
 ---
 title: "Raygun"
 url: /richmond/raygun/
-shop: books
+shop: collector
 ---

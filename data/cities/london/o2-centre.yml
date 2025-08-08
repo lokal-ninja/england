@@ -7,6 +7,5 @@ city: London
 street: Finchley Road
 housenumber: "255"
 phone: ""
-opening_hours: Mo 00:00-00:15,06:00-00:00; Tu-Fr 00:00-00:30,06:00-00:00; Sa 00:00-01:00,07:00-01:00;
-    Su 00:00-01:00,06:00-00:00
-website: https://o2centre.co.uk/
+opening_hours: Mo-Th 06:00-00:30; Fr-Sa 06:00-01:00; Su 07:00-00:15
+website: https://o2centre.co.uk

@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /st-ives/costcutter/
-shop: convenience
+shop: supermarket
 ---

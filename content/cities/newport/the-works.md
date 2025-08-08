@@ -1,5 +1,5 @@
 ---
 title: "The Works"
 url: /newport/the-works/
-shop: variety store
+shop: books
 ---

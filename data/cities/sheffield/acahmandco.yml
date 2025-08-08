@@ -1,11 +1,12 @@
 id: 956541236
 type: node
 latitude: 53.526
-longitude: -1.6267
+longitude: -1.62664
 postcode: S36 6DY
 city: Sheffield
 street: Shrewsbury Road
 housenumber: "8"
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: Mo 10:30-18:00; Tu 10:00-18:00; We 09:30-18:00; Th 10:00-19:00; Fr
+    09:30-19:00; Sa 09:00-17:00
+website: http://acahmco.booksy.com

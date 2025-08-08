@@ -1,5 +1,5 @@
 ---
-title: "SPARKS Bristol"
+title: "Sparks Bristol"
 url: /bristol/sparks-bristol/
-shop: shop
+shop: department store
 ---

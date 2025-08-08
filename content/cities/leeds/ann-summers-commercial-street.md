@@ -1,5 +1,5 @@
 ---
 title: "Ann Summers"
 url: /leeds/ann-summers-commercial-street/
-shop: clothes
+shop: erotic
 ---

@@ -1,6 +1,6 @@
 ---
 title: Cromhall
 url: /cromhall/
-latitude: 51.624
-longitude: -2.426
+latitude: 51.622
+longitude: -2.429
 ---

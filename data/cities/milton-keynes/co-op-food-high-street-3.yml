@@ -1,11 +1,11 @@
-id: 223332362
+id: 223332358
 type: node
-latitude: 52.08646
-longitude: -0.72396
-postcode: MK16 8AB
+latitude: 52.087
+longitude: -0.72332
+postcode: MK16 8AQ
 city: Milton Keynes
 street: High Street
-housenumber: 75-77
+housenumber: "62"
 phone: ""
-opening_hours: Mo-Sa 06:00-22:00; Su 10:00-16:00
-website: https://www.coop.co.uk/store-finder/MK16-8AB/75-77-high-street
+opening_hours: ""
+website: ""

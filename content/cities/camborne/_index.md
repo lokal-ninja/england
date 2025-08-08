@@ -1,6 +1,6 @@
 ---
 title: Camborne
 url: /camborne/
-latitude: 50.226
-longitude: -5.274
+latitude: 50.225
+longitude: -5.275
 ---

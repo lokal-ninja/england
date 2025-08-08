@@ -7,5 +7,5 @@ city: London
 street: Dalston Lane
 housenumber: 42-44
 phone: ""
-opening_hours: ""
+opening_hours: Fr,Sa 08:00-02:00, Su-Th 08:00-01:00
 website: ""

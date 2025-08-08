@@ -1,6 +1,6 @@
 ---
 title: Maldon
 url: /maldon/
-latitude: 51.721
-longitude: 0.663
+latitude: 51.731
+longitude: 0.677
 ---

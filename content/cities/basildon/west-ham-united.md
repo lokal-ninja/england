@@ -1,5 +1,5 @@
 ---
 title: "West Ham United"
 url: /basildon/west-ham-united/
-shop: gift
+shop: shop
 ---

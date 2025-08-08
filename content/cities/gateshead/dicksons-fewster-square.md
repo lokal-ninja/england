@@ -1,5 +1,5 @@
 ---
 title: "Dicksons"
 url: /gateshead/dicksons-fewster-square/
-shop: butcher
+shop: deli
 ---

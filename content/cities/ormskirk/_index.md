@@ -1,6 +1,6 @@
 ---
 title: Ormskirk
 url: /ormskirk/
-latitude: 53.588
-longitude: -2.863
+latitude: 53.567
+longitude: -2.883
 ---

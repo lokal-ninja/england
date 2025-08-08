@@ -1,5 +1,5 @@
 ---
-title: "Poet's Interiors Of Keswick"
+title: "Poet's Interiors of Keswick"
 url: /keswick/poets-interiors-of-keswick/
-shop: furniture
+shop: interior decoration
 ---

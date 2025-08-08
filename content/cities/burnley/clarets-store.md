@@ -1,5 +1,5 @@
 ---
 title: "Clarets Store"
 url: /burnley/clarets-store/
-shop: sports
+shop: shop
 ---

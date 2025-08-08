@@ -1,6 +1,6 @@
 ---
 title: Church Stretton
 url: /church-stretton/
-latitude: 52.539
-longitude: -2.806
+latitude: 52.538
+longitude: -2.805
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AllStore"
 url: /sheffield/allstore/
-shop: shop
+shop: clothes
 ---

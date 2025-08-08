@@ -1,5 +1,5 @@
 ---
-title: "Alfie in-the-air"
+title: "Alfie in the Air"
 url: /ryde/alfie-in-the-air/
-shop: art
+shop: photo
 ---

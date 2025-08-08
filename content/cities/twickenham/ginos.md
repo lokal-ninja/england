@@ -1,5 +1,5 @@
 ---
-title: "Gino’s"
+title: "Ginos"
 url: /twickenham/ginos/
 shop: hairdresser
 ---

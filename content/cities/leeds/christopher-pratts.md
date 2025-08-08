@@ -1,5 +1,5 @@
 ---
-title: "Christopher Pratt's"
+title: "Christopher Pratts"
 url: /leeds/christopher-pratts/
 shop: furniture
 ---

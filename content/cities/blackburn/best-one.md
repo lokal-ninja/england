@@ -1,5 +1,5 @@
 ---
-title: "Best One"
+title: "Best-one"
 url: /blackburn/best-one/
-shop: shop
+shop: convenience
 ---

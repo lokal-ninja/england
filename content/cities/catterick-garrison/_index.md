@@ -1,6 +1,6 @@
 ---
 title: Catterick Garrison
 url: /catterick-garrison/
-latitude: 54.374
-longitude: -1.721
+latitude: 54.375
+longitude: -1.709
 ---

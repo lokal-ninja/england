@@ -1,5 +1,5 @@
 ---
 title: "Vintage Mischief"
 url: /beccles/vintage-mischief/
-shop: furniture
+shop: interior decoration
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Co-op Food Stafford Street"
+title: "Co-op Food"
 url: /telford/co-op-food-stafford-street/
 shop: convenience
 ---
