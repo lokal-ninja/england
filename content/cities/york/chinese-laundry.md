@@ -1,5 +1,5 @@
 ---
 title: "Chinese Laundry"
 url: /york/chinese-laundry/
-shop: shop
+shop: clothes
 ---

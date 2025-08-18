@@ -7,5 +7,5 @@ city: Manchester
 street: Market Street
 housenumber: "27"
 phone: ""
-opening_hours: ""
+opening_hours: Mo,Tu,Th,Fr 09:00-20:00; We 09:30-20:00; Sa 09:00-19:00; Su 11:30-17:30
 website: https://locator.three.co.uk/north/manchester/27-market-street

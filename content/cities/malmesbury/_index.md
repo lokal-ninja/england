@@ -2,5 +2,5 @@
 title: Malmesbury
 url: /malmesbury/
 latitude: 51.582
-longitude: -2.098
+longitude: -2.097
 ---
