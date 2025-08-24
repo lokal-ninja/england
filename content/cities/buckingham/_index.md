@@ -1,6 +1,6 @@
 ---
 title: Buckingham
 url: /buckingham/
-latitude: 51.999
-longitude: -0.989
+latitude: 51.996
+longitude: -0.991
 ---

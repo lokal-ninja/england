@@ -1,6 +1,6 @@
 ---
 title: Formby
 url: /formby/
-latitude: 53.565
+latitude: 53.556
 longitude: -3.059
 ---

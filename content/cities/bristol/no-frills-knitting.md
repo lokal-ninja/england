@@ -1,5 +1,5 @@
 ---
-title: "No frills knitting"
+title: "No Frills Knitting"
 url: /bristol/no-frills-knitting/
-shop: craft
+shop: wool
 ---

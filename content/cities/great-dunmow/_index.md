@@ -1,6 +1,6 @@
 ---
 title: Great Dunmow
 url: /great-dunmow/
-latitude: 51.872
-longitude: 0.364
+latitude: 51.873
+longitude: 0.347
 ---

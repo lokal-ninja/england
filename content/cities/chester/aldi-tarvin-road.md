@@ -1,5 +1,5 @@
 ---
-title: "ALDI"
+title: "Aldi"
 url: /chester/aldi-tarvin-road/
 shop: supermarket
 ---

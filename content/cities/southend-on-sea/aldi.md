@@ -1,5 +1,5 @@
 ---
-title: "ALDI"
+title: "Aldi"
 url: /southend-on-sea/aldi/
 shop: supermarket
 ---
