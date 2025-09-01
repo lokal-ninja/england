@@ -1,5 +1,5 @@
 ---
-title: "KDM MOTORS"
+title: "KDM Motors"
 url: /sidcup/kdm-motors/
 shop: car repair
 ---

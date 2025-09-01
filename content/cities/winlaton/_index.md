@@ -1,6 +1,6 @@
 ---
 title: Winlaton
 url: /winlaton/
-latitude: 54.954
-longitude: -1.728
+latitude: 54.95
+longitude: -1.725
 ---

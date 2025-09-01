@@ -1,5 +1,5 @@
 ---
-title: "ILLICIT SKATE SHOP"
+title: "Illicit Skate Shop"
 url: /kettering/illicit-skate-shop/
 shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sainsbury's"
 url: /basildon/sainsburys-cricketers-way/
-shop: supermarket
+shop: convenience
 ---
