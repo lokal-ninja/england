@@ -1,5 +1,5 @@
 ---
-title: "Laduree"
+title: "Ladurée"
 url: /london/laduree/
 shop: pastry
 ---

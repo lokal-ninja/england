@@ -1,5 +1,5 @@
 ---
-title: "Viewpoint diving centre"
+title: "Viewpoint Diving Centre"
 url: /pentewan/viewpoint-diving-centre/
 shop: diving
 ---

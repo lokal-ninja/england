@@ -1,6 +1,6 @@
 ---
 title: Rugby
 url: /rugby/
-latitude: 52.372
-longitude: -1.256
+latitude: 52.366
+longitude: -1.23
 ---

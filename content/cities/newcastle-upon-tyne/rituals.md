@@ -1,5 +1,5 @@
 ---
-title: "Rituals..."
+title: "Rituals"
 url: /newcastle-upon-tyne/rituals/
 shop: beauty
 ---
