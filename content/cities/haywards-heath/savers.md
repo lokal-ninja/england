@@ -1,5 +1,5 @@
 ---
-title: "savers"
+title: "Savers"
 url: /haywards-heath/savers/
-shop: shop
+shop: chemist
 ---

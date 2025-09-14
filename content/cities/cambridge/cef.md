@@ -1,5 +1,5 @@
 ---
 title: "CEF"
 url: /cambridge/cef/
-shop: wholesale
+shop: trade
 ---

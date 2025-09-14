@@ -1,5 +1,5 @@
 ---
-title: "Candy Shop"
+title: "Candy shop"
 url: /leeds/candy-shop/
-shop: shop
+shop: convenience
 ---

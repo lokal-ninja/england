@@ -1,6 +1,6 @@
 ---
 title: Crawley
 url: /crawley/
-latitude: 51.112
-longitude: -0.23
+latitude: 51.107
+longitude: -0.153
 ---

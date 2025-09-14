@@ -7,5 +7,5 @@ city: Horsham
 street: Queen Street
 housenumber: "31"
 phone: +44 1403 258391
-opening_hours: ""
+opening_hours: Mo,Tu,We,Fr,Sa 09:00-17:00; Th 09:00-14:00; Su off
 website: ""

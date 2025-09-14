@@ -1,6 +1,6 @@
 ---
 title: Linton
 url: /linton/
-latitude: 55.216
+latitude: 55.215
 longitude: -1.588
 ---

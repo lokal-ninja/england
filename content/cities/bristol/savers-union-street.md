@@ -1,5 +1,5 @@
 ---
-title: "savers"
+title: "Savers"
 url: /bristol/savers-union-street/
-shop: variety store
+shop: chemist
 ---
