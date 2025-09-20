@@ -1,6 +1,6 @@
 ---
 title: Wincanton
 url: /wincanton/
-latitude: 51.057
-longitude: -2.408
+latitude: 51.073
+longitude: -2.41
 ---

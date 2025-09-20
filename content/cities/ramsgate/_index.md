@@ -1,6 +1,6 @@
 ---
 title: Ramsgate
 url: /ramsgate/
-latitude: 51.335
-longitude: 1.421
+latitude: 51.334
+longitude: 1.315
 ---
