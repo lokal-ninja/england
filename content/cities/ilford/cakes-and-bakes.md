@@ -1,5 +1,5 @@
 ---
-title: "Cakes & Bakes"
+title: "Cakes and Bakes"
 url: /ilford/cakes-and-bakes/
-shop: bakery
+shop: pastry
 ---

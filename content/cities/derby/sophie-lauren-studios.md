@@ -1,5 +1,5 @@
 ---
 title: "Sophie Lauren Studios"
 url: /derby/sophie-lauren-studios/
-shop: shop
+shop: hairdresser
 ---

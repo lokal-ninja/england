@@ -1,5 +1,5 @@
 ---
-title: "Real Patisserie"
+title: "Real Pâtisserie"
 url: /hove/real-patisserie/
 shop: bakery
 ---

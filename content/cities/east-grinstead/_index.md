@@ -1,6 +1,6 @@
 ---
 title: East Grinstead
 url: /east-grinstead/
-latitude: 51.126
-longitude: -0.012
+latitude: 51.127
+longitude: -0.011
 ---

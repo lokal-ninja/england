@@ -1,6 +1,6 @@
 ---
 title: Aldershot
 url: /aldershot/
-latitude: 51.235
-longitude: -0.757
+latitude: 51.237
+longitude: -0.762
 ---
