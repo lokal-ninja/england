@@ -1,6 +1,6 @@
 ---
 title: High Wycombe
 url: /high-wycombe/
-latitude: 51.674
-longitude: -0.734
+latitude: 51.632
+longitude: -0.763
 ---
