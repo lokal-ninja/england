@@ -1,6 +1,6 @@
 ---
 title: Scunthorpe
 url: /scunthorpe/
-latitude: 53.557
-longitude: -0.66
+latitude: 53.563
+longitude: -0.63
 ---

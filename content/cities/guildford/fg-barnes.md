@@ -1,5 +1,5 @@
 ---
 title: "FG Barnes"
 url: /guildford/fg-barnes/
-shop: car
+shop: vacant
 ---

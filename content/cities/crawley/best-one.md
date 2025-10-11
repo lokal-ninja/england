@@ -1,5 +1,5 @@
 ---
-title: "Best-One"
+title: "Best-one"
 url: /crawley/best-one/
-shop: alcohol
+shop: convenience
 ---
