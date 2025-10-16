@@ -1,6 +1,6 @@
 ---
 title: Penkridge
 url: /penkridge/
-latitude: 52.726
-longitude: -2.114
+latitude: 52.718
+longitude: -2.118
 ---

@@ -1,6 +1,6 @@
 ---
 title: Elstead
 url: /elstead/
-latitude: 51.186
+latitude: 51.185
 longitude: -0.704
 ---

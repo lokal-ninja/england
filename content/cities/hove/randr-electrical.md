@@ -1,5 +1,5 @@
 ---
-title: "R&R ELectrical"
+title: "R&R Electrical"
 url: /hove/randr-electrical/
 shop: electrical
 ---

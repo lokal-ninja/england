@@ -1,5 +1,5 @@
 ---
 title: "Nika Convenience Store"
 url: /brighton/nika-convenience-store/
-shop: general
+shop: convenience
 ---
