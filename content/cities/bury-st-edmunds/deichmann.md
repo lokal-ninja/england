@@ -1,5 +1,5 @@
 ---
-title: "DEICHMANN"
+title: "Deichmann"
 url: /bury-st-edmunds/deichmann/
 shop: shoes
 ---

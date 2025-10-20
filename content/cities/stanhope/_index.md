@@ -1,6 +1,6 @@
 ---
 title: Stanhope
 url: /stanhope/
-latitude: 54.747
-longitude: -2.006
+latitude: 54.748
+longitude: -2.007
 ---
