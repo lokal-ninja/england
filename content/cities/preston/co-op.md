@@ -1,5 +1,5 @@
 ---
-title: "Co-op"
+title: "Co-Op"
 url: /preston/co-op/
-shop: convenience
+shop: supermarket
 ---

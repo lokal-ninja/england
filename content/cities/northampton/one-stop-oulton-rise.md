@@ -1,5 +1,5 @@
 ---
 title: "One Stop"
 url: /northampton/one-stop-oulton-rise/
-shop: supermarket
+shop: convenience
 ---
