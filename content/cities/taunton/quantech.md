@@ -1,5 +1,5 @@
 ---
 title: "Quantech"
 url: /taunton/quantech/
-shop: mobile phone
+shop: shop
 ---

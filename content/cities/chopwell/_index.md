@@ -1,6 +1,6 @@
 ---
 title: Chopwell
 url: /chopwell/
-latitude: 54.919
-longitude: -1.815
+latitude: 54.92
+longitude: -1.808
 ---

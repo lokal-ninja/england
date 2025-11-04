@@ -1,5 +1,5 @@
 ---
-title: "Space.NK"
+title: "Space NK"
 url: /bristol/space-nk/
 shop: beauty
 ---

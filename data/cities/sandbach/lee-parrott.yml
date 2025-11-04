@@ -7,6 +7,6 @@ city: Sandbach
 street: Middlewich Road
 housenumber: "35"
 phone: ""
-opening_hours: Mo 08:00-16:00; Tu 08:00-13:00; We 08:00-15:30; Th,Fr 08:00-17:00;
-    Sa 08:00-15:00; Su off
+opening_hours: Mo 08:00-16:00; Tu 08:00-13:00; We 08:00-16:00; Th,Fr 08:00-17:00;
+    Sa 08:00-16:00; Su off
 website: ""

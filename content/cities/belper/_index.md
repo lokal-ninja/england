@@ -1,6 +1,6 @@
 ---
 title: Belper
 url: /belper/
-latitude: 52.985
-longitude: -1.498
+latitude: 52.983
+longitude: -1.494
 ---
