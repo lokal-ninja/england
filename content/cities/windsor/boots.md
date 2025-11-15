@@ -1,5 +1,5 @@
 ---
 title: "Boots"
 url: /windsor/boots/
-shop: vacant
+shop: chemist
 ---

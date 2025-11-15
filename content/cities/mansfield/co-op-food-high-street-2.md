@@ -1,5 +1,5 @@
 ---
 title: "Co-op Food"
 url: /mansfield/co-op-food-high-street-2/
-shop: convenience
+shop: supermarket
 ---
