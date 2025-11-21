@@ -1,6 +1,6 @@
 ---
 title: Basildon
 url: /basildon/
-latitude: 51.573
-longitude: 0.51
+latitude: 51.558
+longitude: 0.481
 ---
