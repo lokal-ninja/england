@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /filey/spar/
-shop: supermarket
+shop: convenience
 ---
