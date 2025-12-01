@@ -7,6 +7,5 @@ city: Sheffield
 street: Abbeydale Road
 housenumber: "694"
 phone: +44 7356041270
-opening_hours: 'Monday:       8.30am-5pm  Tuesday:      8.30am-12.30pm  Wednesday:
-    8.30am-5pm  Thursday:     8.30am-5pm  Friday:            8.30am-5pm  Saturday:      9am-5pm  Sunday:         Closed'
+opening_hours: Mo,We-Fr 08:30-17:00; Tu 08:30-12:30; Sa 09:00-17:00
 website: https://www.putmebackonmybike.co.uk/

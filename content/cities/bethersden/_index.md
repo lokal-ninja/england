@@ -1,6 +1,6 @@
 ---
 title: Bethersden
 url: /bethersden/
-latitude: 51.118
-longitude: 0.741
+latitude: 51.119
+longitude: 0.742
 ---

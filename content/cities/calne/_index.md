@@ -1,6 +1,6 @@
 ---
 title: Calne
 url: /calne/
-latitude: 51.439
-longitude: -2.006
+latitude: 51.438
+longitude: -2.004
 ---

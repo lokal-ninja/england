@@ -1,6 +1,6 @@
 ---
 title: Burnham
 url: /burnham/
-latitude: 51.527
-longitude: -0.649
+latitude: 51.533
+longitude: -0.658
 ---
