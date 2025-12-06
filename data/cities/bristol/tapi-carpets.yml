@@ -1,12 +1,11 @@
-id: 456681773
+id: 111184967
 type: node
-latitude: 51.52831
-longitude: -2.60042
-postcode: BS34 5TS
+latitude: 51.44529
+longitude: -2.49785
+postcode: BS30 7DA
 city: Bristol
-street: Centaurus Road
+street: Aldermoor Way
 housenumber: ""
-phone: +44 117 428 6430
-opening_hours: Mo 09:30-18:00; Tu 09:30-19:00; We 09:30-18:00; Th 09:30-19:00; Fr
-    09:30-18:00; Sa 09:00-18:00; Su 10:00-16:00
-website: ""
+phone: "+441174566930"
+opening_hours: Mo-Tu 09:30-19:00; We-Fr 09:30-18:00; Sa 09:00-18:00; Su 10:00-16:00
+website: https://www.tapi.co.uk/stores/bristol-longwell-green

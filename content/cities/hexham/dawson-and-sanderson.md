@@ -1,5 +1,5 @@
 ---
-title: "Dawson And Sanderson"
+title: "Dawson and Sanderson"
 url: /hexham/dawson-and-sanderson/
 shop: travel agency
 ---

@@ -7,5 +7,5 @@ city: London
 street: Stansfeld Road
 housenumber: "1"
 phone: +44 20 8364 1655
-opening_hours: Mo-Sa 09:00-19:00 Su 10:00-17:00
+opening_hours: Mo-Sa 09:00-19:00; Su 10:00-17:00
 website: http://www.cargem.co.uk/

@@ -1,5 +1,5 @@
 ---
-title: "LC-AV"
+title: "LC/AV"
 url: /london/lc-av/
-shop: shop
+shop: electronics
 ---
