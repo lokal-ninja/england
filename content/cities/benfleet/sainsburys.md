@@ -1,5 +1,5 @@
 ---
 title: "Sainsbury's"
 url: /benfleet/sainsburys/
-shop: supermarket
+shop: convenience
 ---

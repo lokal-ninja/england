@@ -1,5 +1,5 @@
 ---
 title: "TK Maxx"
 url: /bishop-auckland/tk-maxx/
-shop: clothes
+shop: department store
 ---

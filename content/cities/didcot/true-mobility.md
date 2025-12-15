@@ -1,5 +1,5 @@
 ---
 title: "True Mobility"
 url: /didcot/true-mobility/
-shop: shop
+shop: medical supply
 ---
