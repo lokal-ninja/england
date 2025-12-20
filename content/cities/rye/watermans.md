@@ -1,5 +1,5 @@
 ---
-title: "Waterman's"
+title: "Watermans"
 url: /rye/watermans/
-shop: bag
+shop: leather
 ---
