@@ -1,5 +1,5 @@
 ---
 title: "Rahims"
 url: /london/rahims/
-shop: wholesale
+shop: convenience
 ---

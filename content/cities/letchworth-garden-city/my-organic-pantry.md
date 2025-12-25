@@ -1,5 +1,5 @@
 ---
-title: "My Organic pantry"
+title: "My Organic Pantry"
 url: /letchworth-garden-city/my-organic-pantry/
-shop: supermarket
+shop: health food
 ---
