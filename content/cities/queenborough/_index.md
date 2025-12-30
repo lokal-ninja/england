@@ -1,6 +1,6 @@
 ---
 title: Queenborough
 url: /queenborough/
-latitude: 51.417
-longitude: 0.742
+latitude: 51.415
+longitude: 0.752
 ---

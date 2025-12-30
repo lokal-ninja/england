@@ -1,6 +1,6 @@
 ---
 title: Leek
 url: /leek/
-latitude: 53.105
-longitude: -2.026
+latitude: 53.106
+longitude: -2.023
 ---

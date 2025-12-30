@@ -1,5 +1,5 @@
 ---
-title: "A Taste of Reality"
+title: "A Taste Of Reality"
 url: /london/a-taste-of-reality/
-shop: shop
+shop: gift
 ---
