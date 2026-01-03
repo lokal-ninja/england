@@ -7,5 +7,5 @@ city: London
 street: Stonecot Hill
 housenumber: "25"
 phone: ""
-opening_hours: 11:00 - 23:00 Monday - Saturday, Midday - 23:00 Sunday
+opening_hours: Mo-Sa 11:00-23:00; Su 12:00-23:00
 website: ""

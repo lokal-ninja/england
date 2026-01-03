@@ -1,6 +1,6 @@
 ---
 title: Chatham
 url: /chatham/
-latitude: 51.354
-longitude: 0.535
+latitude: 51.402
+longitude: 0.536
 ---

@@ -1,6 +1,6 @@
 ---
 title: Folkestone
 url: /folkestone/
-latitude: 51.116
-longitude: 1.165
+latitude: 51.089
+longitude: 1.18
 ---

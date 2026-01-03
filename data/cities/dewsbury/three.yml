@@ -7,7 +7,5 @@ city: Dewsbury
 street: The Princess of Wales Precinct
 housenumber: "42"
 phone: +44 1924 438568
-opening_hours: Sunday 9:30 am–3:30 am  Monday 9 am–5:30 pm  Tuesday 9 am–5:30 pm
-     Wednesday 9:30 am–5:30 pm  Thursday 9 am–5:30 pm  Friday 9 am–5:30 pm  Saturday
-    9 am–5:30 pm
+opening_hours: Mo-Fr 09:00-17:30; Sa 09:00-17:30; Su 09:30-15:30
 website: ""
