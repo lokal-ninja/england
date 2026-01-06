@@ -1,5 +1,5 @@
 ---
-title: "Ugg"
+title: "UGG"
 url: /ellesmere-port/ugg/
 shop: shoes
 ---
