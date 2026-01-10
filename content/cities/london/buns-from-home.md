@@ -1,5 +1,5 @@
 ---
-title: "Buns From Home"
+title: "buns from home"
 url: /london/buns-from-home/
-shop: pastry
+shop: bakery
 ---

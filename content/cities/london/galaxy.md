@@ -1,5 +1,5 @@
 ---
 title: "Galaxy"
 url: /london/galaxy/
-shop: laundry
+shop: estate agent
 ---

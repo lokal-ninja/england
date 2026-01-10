@@ -1,5 +1,5 @@
 ---
-title: "Bird and Blend"
+title: "Bird & Blend"
 url: /london/bird-and-blend/
 shop: tea
 ---

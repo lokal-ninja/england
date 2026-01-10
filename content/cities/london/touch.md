@@ -1,5 +1,5 @@
 ---
 title: "Touch"
 url: /london/touch/
-shop: beauty
+shop: hairdresser
 ---
