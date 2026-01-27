@@ -1,5 +1,5 @@
 ---
-title: "west one bathrooms"
+title: "West One Bathrooms"
 url: /london/west-one-bathrooms/
-shop: bathroom
+shop: shop
 ---

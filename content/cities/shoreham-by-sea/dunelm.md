@@ -1,5 +1,5 @@
 ---
 title: "Dunelm"
 url: /shoreham-by-sea/dunelm/
-shop: fabric
+shop: interior decoration
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Hospices of Hope"
+title: "Hospices Of Hope"
 url: /london/hospices-of-hope/
-shop: clothes
+shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Coach"
 url: /london/coach/
-shop: bag
+shop: clothes
 ---

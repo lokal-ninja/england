@@ -1,5 +1,5 @@
 ---
 title: "Treats"
 url: /london/treats/
-shop: kiosk
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chanel"
 url: /london/chanel/
-shop: perfumery
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Universal"
 url: /london/universal/
-shop: laundry
+shop: car repair
 ---

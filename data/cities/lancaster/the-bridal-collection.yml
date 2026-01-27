@@ -7,5 +7,5 @@ city: Lancaster
 street: New Street
 housenumber: "20"
 phone: ""
-opening_hours: ""
+opening_hours: '"by appointment"'
 website: ""

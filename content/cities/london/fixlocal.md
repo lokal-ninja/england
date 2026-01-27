@@ -1,5 +1,5 @@
 ---
 title: "FixLocal"
 url: /london/fixlocal/
-shop: computer
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Oblique"
+title: "oblique"
 url: /london/oblique/
 shop: beauty
 ---

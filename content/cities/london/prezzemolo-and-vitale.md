@@ -1,5 +1,5 @@
 ---
 title: "Prezzemolo & Vitale"
 url: /london/prezzemolo-and-vitale/
-shop: convenience
+shop: supermarket
 ---

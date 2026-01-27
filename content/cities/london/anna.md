@@ -1,5 +1,5 @@
 ---
-title: "Anna"
+title: "ANNA"
 url: /london/anna/
-shop: clothes
+shop: jewelry
 ---

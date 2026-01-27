@@ -7,5 +7,6 @@ city: Derby
 street: Green Lane
 housenumber: 26-28
 phone: +44 1332 949410
-opening_hours: ""
+opening_hours: Mo Off; Tu-Th 17:00-21:00; Fr 12:00-14:40,17:00-21:00; Sa 12:00-21:00;
+    Su 12:00-15:00
 website: ""

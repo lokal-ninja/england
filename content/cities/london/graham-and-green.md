@@ -1,5 +1,5 @@
 ---
-title: "Graham and Green"
+title: "Graham & Green"
 url: /london/graham-and-green/
-shop: furniture
+shop: houseware
 ---

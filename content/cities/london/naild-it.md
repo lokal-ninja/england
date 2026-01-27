@@ -1,5 +1,5 @@
 ---
-title: "Nail'd It"
+title: "Nail'd it"
 url: /london/naild-it/
 shop: beauty
 ---

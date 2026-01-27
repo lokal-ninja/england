@@ -1,5 +1,5 @@
 ---
-title: "Pottery Cafe"
+title: "Pottery Café"
 url: /london/pottery-cafe/
-shop: pottery
+shop: art
 ---

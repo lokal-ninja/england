@@ -1,5 +1,5 @@
 ---
-title: "Preserve"
+title: "preserve"
 url: /bristol/preserve/
-shop: deli
+shop: convenience
 ---

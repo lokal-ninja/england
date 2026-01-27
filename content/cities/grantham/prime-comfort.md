@@ -1,5 +1,5 @@
 ---
 title: "Prime Comfort"
 url: /grantham/prime-comfort/
-shop: furniture
+shop: medical supply
 ---

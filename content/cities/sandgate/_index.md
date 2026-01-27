@@ -1,6 +1,6 @@
 ---
 title: Sandgate
 url: /sandgate/
-latitude: 51.074
-longitude: 1.143
+latitude: 51.073
+longitude: 1.144
 ---

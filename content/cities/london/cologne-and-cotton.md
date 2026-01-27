@@ -1,5 +1,5 @@
 ---
-title: "Cologne & Cotton"
+title: "Cologne and Cotton"
 url: /london/cologne-and-cotton/
-shop: shop
+shop: houseware
 ---

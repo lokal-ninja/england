@@ -1,5 +1,5 @@
 ---
-title: "Roses The Bakers"
+title: "Roses the Bakers"
 url: /sheffield/roses-the-bakers/
 shop: bakery
 ---

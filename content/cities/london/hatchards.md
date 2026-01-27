@@ -1,5 +1,5 @@
 ---
-title: "Hatchard's"
+title: "Hatchards"
 url: /london/hatchards/
 shop: books
 ---

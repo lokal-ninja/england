@@ -1,0 +1,5 @@
+---
+title: "Mail Boxes Etc."
+url: /london/mail-boxes-etc-bedford-street/
+shop: copyshop
+---

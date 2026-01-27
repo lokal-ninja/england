@@ -1,5 +1,5 @@
 ---
 title: "Le Creuset"
 url: /london/le-creuset/
-shop: houseware
+shop: shop
 ---

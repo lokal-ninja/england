@@ -1,6 +1,6 @@
 ---
 title: Dronfield
 url: /dronfield/
-latitude: 53.305
-longitude: -1.464
+latitude: 53.302
+longitude: -1.475
 ---

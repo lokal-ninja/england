@@ -1,5 +1,5 @@
 ---
-title: "Doughnut Time"
+title: "Doughnut time"
 url: /london/doughnut-time/
 shop: confectionery
 ---

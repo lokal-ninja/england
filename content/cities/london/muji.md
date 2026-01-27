@@ -1,5 +1,5 @@
 ---
 title: "Muji"
 url: /london/muji/
-shop: shop
+shop: houseware
 ---

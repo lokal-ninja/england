@@ -1,5 +1,5 @@
 ---
 title: "Hästens"
 url: /london/hastens/
-shop: bed
+shop: furniture
 ---

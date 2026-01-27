@@ -1,5 +1,5 @@
 ---
-title: "Ray Ban"
+title: "Ray-Ban"
 url: /london/ray-ban/
-shop: optician
+shop: boutique
 ---
