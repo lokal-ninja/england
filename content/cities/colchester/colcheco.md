@@ -1,5 +1,5 @@
 ---
 title: "Colcheco"
 url: /colchester/colcheco/
-shop: shop
+shop: health food
 ---

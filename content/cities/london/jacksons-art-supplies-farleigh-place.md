@@ -1,5 +1,5 @@
 ---
-title: "Jackson's art supplies"
+title: "Jackson's Art Supplies"
 url: /london/jacksons-art-supplies-farleigh-place/
-shop: art
+shop: craft
 ---

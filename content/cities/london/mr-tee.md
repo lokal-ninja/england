@@ -1,5 +1,5 @@
 ---
-title: "Mr. Tee"
+title: "Mr Tee"
 url: /london/mr-tee/
 shop: hairdresser
 ---

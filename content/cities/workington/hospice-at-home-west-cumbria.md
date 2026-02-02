@@ -1,5 +1,5 @@
 ---
-title: "Hospice at Home West Cumbria"
+title: "Hospice At Home West Cumbria"
 url: /workington/hospice-at-home-west-cumbria/
 shop: charity
 ---

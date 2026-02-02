@@ -1,6 +1,6 @@
 ---
 title: Longfield
 url: /longfield/
-latitude: 51.396
-longitude: 0.301
+latitude: 51.366
+longitude: 0.305
 ---
