@@ -1,5 +1,5 @@
 ---
-title: "Computer orBIT"
+title: "Computer Orbit"
 url: /gateshead/computer-orbit/
 shop: computer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Marks & Spencer"
 url: /hull/marks-and-spencer/
-shop: supermarket
+shop: department store
 ---

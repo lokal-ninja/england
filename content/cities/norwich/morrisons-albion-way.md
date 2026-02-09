@@ -1,5 +1,5 @@
 ---
-title: "Morrisons"
+title: "Morrison's"
 url: /norwich/morrisons-albion-way/
-shop: supermarket
+shop: convenience
 ---
