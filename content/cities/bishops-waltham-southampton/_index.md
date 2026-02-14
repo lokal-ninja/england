@@ -1,6 +1,6 @@
 ---
-title: Bishops Waltham, Southampton
+title: Bishop's Waltham, Southampton
 url: /bishops-waltham-southampton/
-latitude: 50.956
-longitude: -1.224
+latitude: 50.954
+longitude: -1.213
 ---

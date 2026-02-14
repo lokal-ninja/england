@@ -1,6 +1,6 @@
 ---
 title: Tettenhall
 url: /tettenhall/
-latitude: 52.598
-longitude: -2.168
+latitude: 52.599
+longitude: -2.161
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Baileys Corner"
+title: "Bailey's Corner"
 url: /swindon/baileys-corner/
-shop: alcohol
+shop: convenience
 ---

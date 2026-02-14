@@ -7,6 +7,5 @@ city: London
 street: Peninsular Park Road
 housenumber: ""
 phone: ""
-opening_hours: Mo-Th 10:00-20:00; Fr 10:00-12:45; 13:50-20:00; Sa 09:00-20:00; Su
-    11:00-17:00
+opening_hours: Mo-Th 10:00-20:00; Fr 10:00-12:45,13:50-20:00; Sa 09:00-20:00; Su 11:00-17:00
 website: https://ebebek.co.uk/pages/ebebek-peninsular-retail-park-greenwich
