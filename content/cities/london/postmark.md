@@ -1,5 +1,5 @@
 ---
 title: "Postmark"
 url: /london/postmark/
-shop: gift
+shop: office supplies
 ---

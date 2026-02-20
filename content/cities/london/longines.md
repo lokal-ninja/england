@@ -1,5 +1,5 @@
 ---
 title: "Longines"
 url: /london/longines/
-shop: jewelry
+shop: watches
 ---

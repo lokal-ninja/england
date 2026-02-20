@@ -1,6 +1,6 @@
 ---
 title: Bracknell
 url: /bracknell/
-latitude: 51.415
-longitude: -0.755
+latitude: 51.392
+longitude: -0.752
 ---
