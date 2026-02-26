@@ -1,5 +1,5 @@
 ---
 title: "Waitrose"
 url: /rushden/waitrose/
-shop: convenience
+shop: supermarket
 ---

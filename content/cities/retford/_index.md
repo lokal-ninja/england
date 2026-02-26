@@ -1,6 +1,6 @@
 ---
 title: Retford
 url: /retford/
-latitude: 53.327
-longitude: -0.943
+latitude: 53.32
+longitude: -0.945
 ---

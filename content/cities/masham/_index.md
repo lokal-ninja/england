@@ -1,6 +1,6 @@
 ---
 title: Masham
 url: /masham/
-latitude: 54.223
-longitude: -1.657
+latitude: 54.222
+longitude: -1.656
 ---
