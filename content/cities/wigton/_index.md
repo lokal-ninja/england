@@ -1,6 +1,6 @@
 ---
 title: Wigton
 url: /wigton/
-latitude: 54.825
-longitude: -3.161
+latitude: 54.824
+longitude: -3.16
 ---

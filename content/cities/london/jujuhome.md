@@ -1,5 +1,5 @@
 ---
 title: "Jujuhome"
 url: /london/jujuhome/
-shop: shop
+shop: houseware
 ---

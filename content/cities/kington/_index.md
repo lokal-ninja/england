@@ -1,6 +1,6 @@
 ---
 title: Kington
 url: /kington/
-latitude: 52.203
-longitude: -3.03
+latitude: 52.204
+longitude: -3.029
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Msr Newsgroup"
+title: "MSR Newsgroup"
 url: /louth/msr-newsgroup/
 shop: newsagent
 ---
