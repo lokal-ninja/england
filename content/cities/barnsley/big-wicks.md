@@ -1,5 +1,5 @@
 ---
 title: "Big Wicks"
 url: /barnsley/big-wicks/
-shop: shop
+shop: candles
 ---

@@ -1,6 +1,6 @@
 ---
 title: Faversham
 url: /faversham/
-latitude: 51.313
-longitude: 0.891
+latitude: 51.32
+longitude: 0.877
 ---

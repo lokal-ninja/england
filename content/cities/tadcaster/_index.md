@@ -1,6 +1,6 @@
 ---
 title: Tadcaster
 url: /tadcaster/
-latitude: 53.884
-longitude: -1.262
+latitude: 53.886
+longitude: -1.259
 ---

@@ -1,6 +1,6 @@
 ---
 title: Amersham
 url: /amersham/
-latitude: 51.678
-longitude: -0.606
+latitude: 51.672
+longitude: -0.567
 ---
