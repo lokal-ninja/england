@@ -1,6 +1,6 @@
 ---
 title: Seaton Delaval
 url: /seaton-delaval/
-latitude: 55.069
-longitude: -1.522
+latitude: 55.071
+longitude: -1.517
 ---

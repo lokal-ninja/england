@@ -1,6 +1,6 @@
 ---
 title: Iver
 url: /iver/
-latitude: 51.543
-longitude: -0.521
+latitude: 51.52
+longitude: -0.516
 ---

@@ -1,6 +1,6 @@
 ---
 title: Southall
 url: /southall/
-latitude: 51.503
-longitude: -0.383
+latitude: 51.5
+longitude: -0.379
 ---

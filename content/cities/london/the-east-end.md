@@ -1,5 +1,5 @@
 ---
-title: "The East End"
+title: "The EAST End"
 url: /london/the-east-end/
 shop: convenience
 ---

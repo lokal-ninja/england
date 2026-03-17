@@ -1,6 +1,6 @@
 ---
 title: Hexham
 url: /hexham/
-latitude: 54.971
-longitude: -2.1
+latitude: 55.005
+longitude: -2.178
 ---

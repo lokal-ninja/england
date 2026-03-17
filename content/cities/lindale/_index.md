@@ -1,6 +1,6 @@
 ---
 title: Lindale
 url: /lindale/
-latitude: 54.216
-longitude: -2.894
+latitude: 54.219
+longitude: -2.89
 ---

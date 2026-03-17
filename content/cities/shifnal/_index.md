@@ -1,6 +1,6 @@
 ---
 title: Shifnal
 url: /shifnal/
-latitude: 52.672
-longitude: -2.373
+latitude: 52.677
+longitude: -2.4
 ---

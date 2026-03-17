@@ -1,6 +1,6 @@
 ---
 title: Maulden
 url: /maulden/
-latitude: 52.03
-longitude: -0.467
+latitude: 52.026
+longitude: -0.435
 ---
