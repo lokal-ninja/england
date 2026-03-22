@@ -1,6 +1,6 @@
 ---
 title: Harlow
 url: /harlow/
-latitude: 51.767
-longitude: 0.096
+latitude: 51.791
+longitude: 0.137
 ---

@@ -1,6 +1,6 @@
 ---
 title: Rossendale
 url: /rossendale/
-latitude: 53.706
-longitude: -2.327
+latitude: 53.689
+longitude: -2.329
 ---

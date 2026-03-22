@@ -1,5 +1,5 @@
 ---
-title: "Lea and Sandeman"
+title: "Lea & Sandeman"
 url: /london/lea-and-sandeman/
-shop: alcohol
+shop: wine
 ---

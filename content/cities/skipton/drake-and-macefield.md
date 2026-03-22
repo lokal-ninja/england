@@ -1,5 +1,5 @@
 ---
-title: "Drake And Macefield"
+title: "Drake & Macefield"
 url: /skipton/drake-and-macefield/
 shop: butcher
 ---
