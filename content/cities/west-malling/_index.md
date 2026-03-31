@@ -1,6 +1,6 @@
 ---
 title: West Malling
 url: /west-malling/
-latitude: 51.299
-longitude: 0.41
+latitude: 51.29
+longitude: 0.383
 ---

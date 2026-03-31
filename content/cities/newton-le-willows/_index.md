@@ -1,6 +1,6 @@
 ---
 title: Newton-le-Willows
 url: /newton-le-willows/
-latitude: 53.457
-longitude: -2.62
+latitude: 53.456
+longitude: -2.634
 ---

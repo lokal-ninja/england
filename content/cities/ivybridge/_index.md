@@ -1,6 +1,6 @@
 ---
 title: Ivybridge
 url: /ivybridge/
-latitude: 50.388
-longitude: -3.961
+latitude: 50.386
+longitude: -3.957
 ---

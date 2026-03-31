@@ -7,5 +7,5 @@ city: Brentwood
 street: High Street
 housenumber: "32"
 phone: +44 1277 281812
-opening_hours: Mo-Sa 08:00-20:00 Su 10:00-16:00
+opening_hours: Mo-Sa 08:00-20:00; Su 10:00-16:00
 website: https://www.iceland.co.uk/store-finder/store?StoreID=629&StoreName=BRENTWOOD

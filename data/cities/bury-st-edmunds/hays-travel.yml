@@ -7,6 +7,5 @@ city: Bury St Edmunds
 street: Cornhill
 housenumber: 43b
 phone: +44 1284 606559
-opening_hours: Mo 09:15-17:30; Tu 10:00-17:30; We-Th 09:15-17:30; Fr 09:15-18:30;
-    Sa 09:15-17:00; Su 11:00-16:00
+opening_hours: Mo,Tu,Th,Fr 09:15-17:30; We 09:30-17:30; Sa 09:15-17:00; Su 11:00-16:00
 website: https://www.haystravel.co.uk/branches/bury-st-edmunds/

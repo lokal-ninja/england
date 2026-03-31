@@ -1,5 +1,5 @@
 ---
-title: "Barnes Of Keighley"
+title: "Barnes of Keighley"
 url: /keighley/barnes-of-keighley/
 shop: butcher
 ---

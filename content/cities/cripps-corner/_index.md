@@ -1,6 +1,6 @@
 ---
 title: Cripps Corner
 url: /cripps-corner/
-latitude: 50.956
-longitude: 0.528
+latitude: 50.955
+longitude: 0.527
 ---

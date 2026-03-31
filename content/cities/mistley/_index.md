@@ -1,6 +1,6 @@
 ---
 title: Mistley
 url: /mistley/
-latitude: 51.945
-longitude: 1.079
+latitude: 51.941
+longitude: 1.09
 ---
