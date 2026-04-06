@@ -1,6 +1,6 @@
 ---
 title: Wallasey
 url: /wallasey/
-latitude: 53.411
-longitude: -3.074
+latitude: 53.441
+longitude: -3.047
 ---

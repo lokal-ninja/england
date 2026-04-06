@@ -1,5 +1,5 @@
 ---
 title: "Grape Tree"
 url: /richmond/grape-tree/
-shop: supermarket
+shop: health food
 ---

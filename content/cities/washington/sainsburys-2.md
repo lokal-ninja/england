@@ -1,5 +1,5 @@
 ---
 title: "Sainsbury's"
 url: /washington/sainsburys-2/
-shop: convenience
+shop: supermarket
 ---

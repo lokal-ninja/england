@@ -1,5 +1,5 @@
 ---
-title: "Traid - Westbourne Grove"
+title: "TRAID"
 url: /london/traid-westbourne-grove/
 shop: charity
 ---

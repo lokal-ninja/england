@@ -1,6 +1,6 @@
 ---
 title: Steeple Claydon
 url: /steeple-claydon/
-latitude: 51.938
-longitude: -0.987
+latitude: 51.936
+longitude: -0.98
 ---
