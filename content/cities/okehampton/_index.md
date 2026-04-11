@@ -1,6 +1,6 @@
 ---
 title: Okehampton
 url: /okehampton/
-latitude: 50.726
-longitude: -3.913
+latitude: 50.641
+longitude: -4.11
 ---
