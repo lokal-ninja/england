@@ -1,5 +1,5 @@
 ---
-title: "East Bristol Bakery"
+title: "East Bristol bakery"
 url: /bristol/east-bristol-bakery/
 shop: bakery
 ---

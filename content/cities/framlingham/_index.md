@@ -1,6 +1,6 @@
 ---
 title: Framlingham
 url: /framlingham/
-latitude: 52.222
-longitude: 1.343
+latitude: 52.217
+longitude: 1.344
 ---

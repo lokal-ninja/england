@@ -1,6 +1,6 @@
 ---
 title: Trewoon
 url: /trewoon/
-latitude: 50.341
-longitude: -4.822
+latitude: 50.34
+longitude: -4.818
 ---
