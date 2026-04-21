@@ -1,5 +1,5 @@
 ---
-title: "Jewel TIme"
+title: "Jewel Time"
 url: /stockport/jewel-time/
-shop: jewelry
+shop: watches
 ---

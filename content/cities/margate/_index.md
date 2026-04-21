@@ -1,6 +1,6 @@
 ---
 title: Margate
 url: /margate/
-latitude: 51.385
-longitude: 1.384
+latitude: 51.386
+longitude: 1.409
 ---

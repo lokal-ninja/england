@@ -1,6 +1,6 @@
 ---
 title: Ossett
 url: /ossett/
-latitude: 53.674
-longitude: -1.571
+latitude: 53.675
+longitude: -1.56
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /ulverston/spar/
-shop: supermarket
+shop: convenience
 ---
