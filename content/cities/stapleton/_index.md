@@ -1,6 +1,6 @@
 ---
 title: Stapleton
 url: /stapleton/
-latitude: 52.605
-longitude: -1.366
+latitude: 52.598
+longitude: -1.365
 ---

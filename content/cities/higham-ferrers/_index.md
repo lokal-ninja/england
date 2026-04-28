@@ -1,6 +1,6 @@
 ---
 title: Higham Ferrers
 url: /higham-ferrers/
-latitude: 52.305
+latitude: 52.306
 longitude: -0.594
 ---

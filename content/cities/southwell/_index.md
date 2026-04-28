@@ -1,6 +1,6 @@
 ---
 title: Southwell
 url: /southwell/
-latitude: 53.079
-longitude: -0.956
+latitude: 53.053
+longitude: -1.068
 ---

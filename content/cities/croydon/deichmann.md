@@ -1,5 +1,5 @@
 ---
-title: "Deichmann"
+title: "DEICHMANN"
 url: /croydon/deichmann/
 shop: shoes
 ---

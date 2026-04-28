@@ -1,5 +1,5 @@
 ---
-title: "Size?"
+title: "size?"
 url: /leeds/size/
 shop: shoes
 ---

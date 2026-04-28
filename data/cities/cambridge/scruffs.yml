@@ -7,5 +7,6 @@ city: Cambridge
 street: Bridge Street
 housenumber: 68-69
 phone: ""
-opening_hours: ""
+opening_hours: Mo 09:00-18:00; Tu,Th 08:00-20:00; We 08:00-18:00; Fr 08:00-17:00;
+    Sa 08:00-16:00
 website: https://scruffs.co.uk/

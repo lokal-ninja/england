@@ -7,6 +7,5 @@ city: Kettering
 street: Lower Street
 housenumber: ""
 phone: ""
-opening_hours: We-Fr,Su 11:00-14:30, Sa 10:00-14:30, We,Sa 15:00-18:00, Fr 15:15-18:00,
-    Su 15:00-16:00
+opening_hours: We-Fr 11:00-14:30,15:00-18:00; Sa 10:30-14:30,15:00-18:00; Su 11:00-14:30,15:00-16:00
 website: ""

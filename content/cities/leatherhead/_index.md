@@ -1,6 +1,6 @@
 ---
 title: Leatherhead
 url: /leatherhead/
-latitude: 51.296
-longitude: -0.328
+latitude: 51.279
+longitude: -0.374
 ---
