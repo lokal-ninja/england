@@ -1,5 +1,5 @@
 ---
 title: "Aguona"
 url: /romford/aguona/
-shop: shop
+shop: convenience
 ---

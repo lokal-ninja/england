@@ -1,5 +1,5 @@
 ---
-title: "Wellness and beauty"
+title: "Wellness & Beauty"
 url: /brighton/wellness-and-beauty/
 shop: beauty
 ---

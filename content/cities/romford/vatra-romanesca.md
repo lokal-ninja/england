@@ -1,5 +1,5 @@
 ---
 title: "Vatra Romanesca"
 url: /romford/vatra-romanesca/
-shop: shop
+shop: deli
 ---

@@ -1,11 +1,11 @@
 id: 429466328
 type: node
-latitude: 51.53347
-longitude: -0.02792
+latitude: 51.53344
+longitude: -0.02797
 postcode: E3 2RW
 city: London
 street: Roman Road
-housenumber: 596-598
+housenumber: "596"
 phone: ""
 opening_hours: ""
 website: ""

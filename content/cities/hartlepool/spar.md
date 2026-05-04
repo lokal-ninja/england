@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /hartlepool/spar/
-shop: supermarket
+shop: convenience
 ---

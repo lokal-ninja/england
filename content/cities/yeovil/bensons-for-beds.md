@@ -1,5 +1,5 @@
 ---
-title: "bensons for beds"
+title: "Bensons for Beds"
 url: /yeovil/bensons-for-beds/
 shop: bed
 ---
