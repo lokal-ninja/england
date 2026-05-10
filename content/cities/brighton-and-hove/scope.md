@@ -1,5 +1,5 @@
 ---
-title: "scope"
+title: "Scope"
 url: /brighton-and-hove/scope/
-shop: clothes
+shop: charity
 ---

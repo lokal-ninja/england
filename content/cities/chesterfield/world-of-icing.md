@@ -1,5 +1,5 @@
 ---
-title: "World Of Icing"
+title: "World of Icing"
 url: /chesterfield/world-of-icing/
-shop: pastry
+shop: bakery
 ---

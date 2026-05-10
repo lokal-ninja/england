@@ -1,6 +1,6 @@
 ---
 title: Hitchin
 url: /hitchin/
-latitude: 51.946
-longitude: -0.279
+latitude: 52.014
+longitude: -0.227
 ---

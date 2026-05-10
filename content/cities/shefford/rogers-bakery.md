@@ -1,5 +1,5 @@
 ---
-title: "Roger's Bakery"
+title: "Rogers Bakery"
 url: /shefford/rogers-bakery/
 shop: bakery
 ---

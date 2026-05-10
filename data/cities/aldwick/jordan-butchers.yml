@@ -7,5 +7,6 @@ city: Aldwick
 street: Rose Green Road
 housenumber: "1"
 phone: ""
-opening_hours: ""
+opening_hours: Mo,Tu 07:00-13:00,14:15-17:00; We 07:00-13:00; Th 07:00-17:00; Fr 07:00-15:00;
+    Su off
 website: ""

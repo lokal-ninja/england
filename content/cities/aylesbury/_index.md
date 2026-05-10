@@ -1,6 +1,6 @@
 ---
 title: Aylesbury
 url: /aylesbury/
-latitude: 51.802
-longitude: -0.822
+latitude: 51.875
+longitude: -0.916
 ---

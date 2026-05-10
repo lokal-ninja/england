@@ -1,6 +1,6 @@
 ---
 title: Berkhamsted
 url: /berkhamsted/
-latitude: 51.768
-longitude: -0.547
+latitude: 51.836
+longitude: -0.561
 ---

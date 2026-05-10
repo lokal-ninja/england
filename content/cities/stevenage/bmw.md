@@ -1,5 +1,5 @@
 ---
 title: "BMW"
 url: /stevenage/bmw/
-shop: car
+shop: car repair
 ---
