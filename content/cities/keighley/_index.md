@@ -1,6 +1,6 @@
 ---
 title: Keighley
 url: /keighley/
-latitude: 53.831
-longitude: -1.948
+latitude: 53.866
+longitude: -1.911
 ---

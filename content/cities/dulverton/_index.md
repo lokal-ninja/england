@@ -1,6 +1,6 @@
 ---
 title: Dulverton
 url: /dulverton/
-latitude: 51.04
-longitude: -3.551
+latitude: 51.012
+longitude: -3.525
 ---
