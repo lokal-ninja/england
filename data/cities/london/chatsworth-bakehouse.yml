@@ -1,11 +1,11 @@
-id: 177636917
+id: 177636893
 type: node
-latitude: 51.41565
-longitude: -0.07202
+latitude: 51.41575
+longitude: -0.07216
 postcode: SE19 2AN
 city: London
 street: Anerley Road
-housenumber: 120a
+housenumber: "116"
 phone: ""
-opening_hours: We-Fr 12:30-16:00; Sa 11:00-16:00
-website: https://www.chatsworthbakehouse.com/
+opening_hours: ""
+website: ""

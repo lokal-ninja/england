@@ -7,5 +7,5 @@ city: Exeter
 street: Bakers Yard
 housenumber: ""
 phone: +44 1392 327006
-opening_hours: By appointment
+opening_hours: '"by appointment"'
 website: https://www.bikefitexeter.co.uk/

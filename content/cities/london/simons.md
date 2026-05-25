@@ -1,5 +1,5 @@
 ---
-title: "Simon's"
+title: "Simons"
 url: /london/simons/
-shop: houseware
+shop: variety store
 ---

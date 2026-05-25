@@ -1,6 +1,6 @@
 ---
 title: Goring
 url: /goring/
-latitude: 51.528
-longitude: -1.133
+latitude: 51.523
+longitude: -1.136
 ---

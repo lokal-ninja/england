@@ -1,6 +1,6 @@
 ---
 title: Stourbridge
 url: /stourbridge/
-latitude: 52.481
-longitude: -2.164
+latitude: 52.457
+longitude: -2.148
 ---

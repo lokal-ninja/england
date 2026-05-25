@@ -1,6 +1,6 @@
 ---
 title: Waterbeach
 url: /waterbeach/
-latitude: 52.268
-longitude: 0.19
+latitude: 52.291
+longitude: 0.177
 ---

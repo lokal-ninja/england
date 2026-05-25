@@ -7,5 +7,5 @@ city: London
 street: Calton Avenue
 housenumber: ""
 phone: ""
-opening_hours: ""
+opening_hours: Mo-We,Fr,Sa 09:00-17:30; Th 09:00-19:30; Su 10:00-17:00
 website: ""

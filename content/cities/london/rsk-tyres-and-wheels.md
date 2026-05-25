@@ -1,5 +1,5 @@
 ---
-title: "RSK Tyres and Wheels"
+title: "RSK Tyres & Wheels"
 url: /london/rsk-tyres-and-wheels/
 shop: tyres
 ---

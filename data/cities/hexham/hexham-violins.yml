@@ -7,5 +7,5 @@ city: Hexham
 street: Chisholm Place
 housenumber: "2"
 phone: ""
-opening_hours: By appointment
+opening_hours: '"by appointment"'
 website: https://hexham-violins.co.uk/

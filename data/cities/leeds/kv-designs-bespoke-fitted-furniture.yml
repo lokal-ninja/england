@@ -7,5 +7,5 @@ city: Leeds
 street: Whingate
 housenumber: Unit 1
 phone: "+447863323012"
-opening_hours: By appointment
+opening_hours: '"by appointment"'
 website: ""
