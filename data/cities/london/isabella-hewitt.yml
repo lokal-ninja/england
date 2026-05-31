@@ -7,5 +7,5 @@ city: London
 street: Broadway Market
 housenumber: "77"
 phone: ""
-opening_hours: by appointment
+opening_hours: '"by appointment"'
 website: https://isabellahewitt.com/

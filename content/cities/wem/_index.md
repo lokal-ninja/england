@@ -2,5 +2,5 @@
 title: Wem
 url: /wem/
 latitude: 52.856
-longitude: -2.724
+longitude: -2.723
 ---

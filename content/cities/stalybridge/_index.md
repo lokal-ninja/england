@@ -1,6 +1,6 @@
 ---
 title: Stalybridge
 url: /stalybridge/
-latitude: 53.482
-longitude: -2.049
+latitude: 53.483
+longitude: -2.048
 ---

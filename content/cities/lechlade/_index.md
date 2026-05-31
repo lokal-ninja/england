@@ -1,6 +1,6 @@
 ---
 title: Lechlade
 url: /lechlade/
-latitude: 51.694
-longitude: -1.693
+latitude: 51.695
+longitude: -1.692
 ---

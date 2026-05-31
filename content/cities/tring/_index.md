@@ -1,6 +1,6 @@
 ---
 title: Tring
 url: /tring/
-latitude: 51.794
-longitude: -0.654
+latitude: 51.811
+longitude: -0.649
 ---
