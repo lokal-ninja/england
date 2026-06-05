@@ -7,5 +7,5 @@ city: London
 street: Camden Road
 housenumber: "24"
 phone: ""
-opening_hours: ""
+opening_hours: Su,Mo,We 12:00-18:00; Th 12:00-20:00; Fr,Sa 12:00-21:00; Tu off
 website: ""

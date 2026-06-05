@@ -1,6 +1,6 @@
 ---
 title: Lichfield
 url: /lichfield/
-latitude: 52.672
-longitude: -1.819
+latitude: 52.693
+longitude: -1.83
 ---
