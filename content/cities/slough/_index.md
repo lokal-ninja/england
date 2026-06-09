@@ -1,6 +1,6 @@
 ---
 title: Slough
 url: /slough/
-latitude: 51.518
-longitude: -0.579
+latitude: 51.484
+longitude: -0.58
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Grocery Haat"
 url: /colchester/grocery-haat/
-shop: supermarket
+shop: convenience
 ---
