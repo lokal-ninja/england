@@ -1,5 +1,5 @@
 ---
 title: "Dunelm"
 url: /huntingdon/dunelm/
-shop: furniture
+shop: interior decoration
 ---

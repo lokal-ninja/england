@@ -1,6 +1,6 @@
 ---
 title: Camberley
 url: /camberley/
-latitude: 51.338
-longitude: -0.747
+latitude: 51.302
+longitude: -0.728
 ---

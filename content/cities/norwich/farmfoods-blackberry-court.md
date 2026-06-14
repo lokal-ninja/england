@@ -1,5 +1,5 @@
 ---
-title: "farmfoods"
+title: "Farmfoods"
 url: /norwich/farmfoods-blackberry-court/
-shop: farm
+shop: frozen food
 ---

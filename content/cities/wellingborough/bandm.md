@@ -1,5 +1,5 @@
 ---
 title: "B&M"
 url: /wellingborough/bandm/
-shop: doityourself
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "TGJones"
 url: /lowestoft/tgjones/
-shop: newsagent
+shop: books
 ---

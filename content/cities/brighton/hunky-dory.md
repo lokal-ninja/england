@@ -1,5 +1,5 @@
 ---
 title: "Hunky Dory"
 url: /brighton/hunky-dory/
-shop: shop
+shop: collector
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Range"
 url: /hull/the-range/
-shop: department store
+shop: houseware
 ---
