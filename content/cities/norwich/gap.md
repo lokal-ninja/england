@@ -1,5 +1,5 @@
 ---
-title: "gap"
+title: "Gap"
 url: /norwich/gap/
-shop: hardware
+shop: trade
 ---

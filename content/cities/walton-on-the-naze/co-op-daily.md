@@ -1,5 +1,5 @@
 ---
-title: "Co-Op Daily"
+title: "CO-OP Daily"
 url: /walton-on-the-naze/co-op-daily/
-shop: supermarket
+shop: convenience
 ---

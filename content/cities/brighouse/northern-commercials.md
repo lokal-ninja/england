@@ -1,5 +1,5 @@
 ---
 title: "Northern Commercials"
 url: /brighouse/northern-commercials/
-shop: shop
+shop: car
 ---
