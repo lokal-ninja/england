@@ -1,6 +1,6 @@
 ---
 title: Melton Constable
 url: /melton-constable/
-latitude: 52.857
-longitude: 1.038
+latitude: 52.854
+longitude: 1.059
 ---

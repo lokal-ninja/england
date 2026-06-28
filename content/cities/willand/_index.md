@@ -1,6 +1,6 @@
 ---
 title: Willand
 url: /willand/
-latitude: 50.893
-longitude: -3.372
+latitude: 50.894
+longitude: -3.369
 ---

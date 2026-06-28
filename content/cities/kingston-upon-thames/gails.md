@@ -1,5 +1,5 @@
 ---
-title: "Gail’s"
+title: "GAIL's"
 url: /kingston-upon-thames/gails/
-shop: mobile phone
+shop: bakery
 ---

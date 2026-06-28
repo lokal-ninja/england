@@ -1,5 +1,5 @@
 ---
-title: "TGJONES"
+title: "TGJones"
 url: /reigate/tgjones/
 shop: office supplies
 ---
