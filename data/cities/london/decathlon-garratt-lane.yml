@@ -7,5 +7,5 @@ city: London
 street: Garratt Lane
 housenumber: 55-57
 phone: +44 20 8870 5135
-opening_hours: Mo-Sa 09:00-19:00; Su 11:00-17:00
+opening_hours: Mo,Th 09:00-20:00; Tu-We,Fr-Sa 09:00-19:00; Su 11:00-17:00
 website: https://www.decathlon.co.uk/store-view/sport-shop-wandsworth-0070104001040

@@ -1,5 +1,5 @@
 ---
 title: "TGJones"
 url: /northampton/tgjones/
-shop: books
+shop: office supplies
 ---
