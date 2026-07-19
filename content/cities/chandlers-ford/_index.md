@@ -1,6 +1,6 @@
 ---
-title: Chandler's Ford
+title: Chandlers Ford
 url: /chandlers-ford/
-latitude: 50.998
-longitude: -1.383
+latitude: 50.987
+longitude: -1.377
 ---

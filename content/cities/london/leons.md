@@ -1,5 +1,5 @@
 ---
-title: "Leon's"
+title: "Leons"
 url: /london/leons/
-shop: laundry
+shop: greengrocer
 ---

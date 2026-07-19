@@ -1,5 +1,5 @@
 ---
-title: "Papo's Bagels"
+title: "Papo'S Bagels"
 url: /london/papos-bagels/
 shop: bakery
 ---

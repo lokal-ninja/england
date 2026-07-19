@@ -7,7 +7,5 @@ city: Dewsbury
 street: Mill Street West
 housenumber: ""
 phone: +44 1924 979530
-opening_hours: Monday 10:00 - 19:00 Tuesday 10:00 - 19:00 Wednesday 10:00 - 19:00
-    Thursday 10:00 - 19:00 Friday 10:00 - 19:00 Saturday 09:00 - 18:00 Sunday 10:00
-    - 17:00
+opening_hours: Mo-Fr 10:00-19:00,Sa 09:00-18:00,Su 10:00-17:00
 website: ""

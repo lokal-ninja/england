@@ -1,5 +1,5 @@
 ---
-title: "Asian  Meat & Poultry"
+title: "Asian Meat & Poultry"
 url: /southall/asian-meat-and-poultry/
 shop: butcher
 ---

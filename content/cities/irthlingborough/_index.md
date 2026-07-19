@@ -2,5 +2,5 @@
 title: Irthlingborough
 url: /irthlingborough/
 latitude: 52.326
-longitude: -0.612
+longitude: -0.614
 ---

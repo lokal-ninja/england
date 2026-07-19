@@ -1,5 +1,5 @@
 ---
-title: "Jacqueline's Boutique"
+title: "Jacqueline’s Boutique"
 url: /minehead/jacquelines-boutique/
 shop: clothes
 ---

@@ -7,5 +7,6 @@ city: Ulverston
 street: Queen Street
 housenumber: ""
 phone: ""
-opening_hours: ""
+opening_hours: Tu 10:30-15:00; Th 10:00-16:00; Fr 10:30-15:00; Sa 10:00-16:00; Su,Mo,We,PH
+    off
 website: ""

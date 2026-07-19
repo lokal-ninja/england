@@ -1,6 +1,6 @@
 ---
 title: Ongar
 url: /ongar/
-latitude: 51.733
-longitude: 0.225
+latitude: 51.715
+longitude: 0.245
 ---

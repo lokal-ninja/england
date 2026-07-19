@@ -1,6 +1,6 @@
 ---
 title: Sidcup
 url: /sidcup/
-latitude: 51.414
-longitude: 0.126
+latitude: 51.411
+longitude: 0.142
 ---

@@ -5,7 +5,7 @@ longitude: -0.09574
 postcode: CR0 1LG
 city: Croydon
 street: George Street
-housenumber: 28 Norfolk House
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

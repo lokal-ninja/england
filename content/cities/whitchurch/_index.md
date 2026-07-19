@@ -1,6 +1,6 @@
 ---
 title: Whitchurch
 url: /whitchurch/
-latitude: 52.969
-longitude: -2.683
+latitude: 51.247
+longitude: -1.333
 ---
