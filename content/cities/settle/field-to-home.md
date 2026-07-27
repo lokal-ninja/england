@@ -1,5 +1,0 @@
----
-title: "Field to Home"
-url: /settle/field-to-home/
-shop: pet
----

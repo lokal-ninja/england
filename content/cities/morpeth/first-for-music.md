@@ -1,5 +1,0 @@
----
-title: "First for Music"
-url: /morpeth/first-for-music/
-shop: music
----

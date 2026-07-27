@@ -1,5 +1,0 @@
----
-title: "Tesco Express"
-url: /wembley/tesco-express-stadium-way/
-shop: convenience
----

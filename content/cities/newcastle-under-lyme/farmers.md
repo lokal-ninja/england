@@ -1,5 +1,0 @@
----
-title: "FARMER'S"
-url: /newcastle-under-lyme/farmers/
-shop: vacant
----

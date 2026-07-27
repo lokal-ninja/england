@@ -1,5 +1,0 @@
----
-title: "Spartans Office Furniture"
-url: /newbury/spartans-office-furniture/
-shop: furniture
----
