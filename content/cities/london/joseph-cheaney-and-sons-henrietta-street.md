@@ -1,0 +1,5 @@
+---
+title: "Joseph Cheaney and Sons"
+url: /london/joseph-cheaney-and-sons-henrietta-street/
+shop: shoes
+---
