@@ -1,6 +1,6 @@
 ---
 title: Luton
 url: /luton/
-latitude: 51.851
-longitude: -0.425
+latitude: 51.866
+longitude: -0.457
 ---

@@ -1,6 +1,6 @@
 ---
 title: Sheringham
 url: /sheringham/
-latitude: 52.942
-longitude: 1.21
+latitude: 52.943
+longitude: 1.211
 ---

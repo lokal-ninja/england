@@ -1,6 +1,6 @@
 ---
 title: South Croydon
 url: /south-croydon/
-latitude: 51.32
-longitude: -0.064
+latitude: 51.348
+longitude: -0.094
 ---

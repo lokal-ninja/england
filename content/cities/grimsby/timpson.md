@@ -1,5 +1,5 @@
 ---
 title: "Timpson"
 url: /grimsby/timpson/
-shop: shoes
+shop: locksmith
 ---

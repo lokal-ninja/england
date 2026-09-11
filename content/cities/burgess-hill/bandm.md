@@ -1,5 +1,5 @@
 ---
 title: "B&M"
 url: /burgess-hill/bandm/
-shop: convenience
+shop: variety store
 ---

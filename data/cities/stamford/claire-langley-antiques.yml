@@ -7,5 +7,5 @@ city: Stamford
 street: ""
 housenumber: ""
 phone: +44 1780 769333
-opening_hours: appointment only
+opening_hours: '"appointment only"'
 website: https://clairelangley.co.uk/

@@ -1,6 +1,6 @@
 ---
 title: Newquay
 url: /newquay/
-latitude: 50.415
-longitude: -5.077
+latitude: 50.401
+longitude: -5.109
 ---

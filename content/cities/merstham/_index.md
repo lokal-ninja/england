@@ -1,6 +1,6 @@
 ---
 title: Merstham
 url: /merstham/
-latitude: 51.258
-longitude: -0.15
+latitude: 51.26
+longitude: -0.145
 ---

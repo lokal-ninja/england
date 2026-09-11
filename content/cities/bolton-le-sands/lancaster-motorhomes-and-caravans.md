@@ -1,5 +1,5 @@
 ---
-title: "Lancaster Motorhomes and Caravans"
+title: "Lancaster Motorhomes & Caravans"
 url: /bolton-le-sands/lancaster-motorhomes-and-caravans/
-shop: caravan
+shop: car
 ---

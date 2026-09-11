@@ -1,6 +1,6 @@
 ---
 title: Axbridge
 url: /axbridge/
-latitude: 51.287
-longitude: -2.818
+latitude: 51.269
+longitude: -2.919
 ---

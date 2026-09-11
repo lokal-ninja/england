@@ -1,5 +1,5 @@
 ---
-title: "kutchenhaus"
+title: "Kutchenhaus"
 url: /bristol/kutchenhaus/
 shop: kitchen
 ---

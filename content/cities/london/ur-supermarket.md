@@ -1,5 +1,5 @@
 ---
-title: "Ur Supermarket"
+title: "UR Supermarket"
 url: /london/ur-supermarket/
-shop: convenience
+shop: supermarket
 ---

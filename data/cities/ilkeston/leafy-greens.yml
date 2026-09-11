@@ -7,5 +7,5 @@ city: Ilkeston
 street: South Street
 housenumber: "46"
 phone: ""
-opening_hours: ""
+opening_hours: Tu,Th,Fr 07:00-13:30; We 07:00-12:00; Sa 06:00-13:30; Su,Mo off
 website: ""

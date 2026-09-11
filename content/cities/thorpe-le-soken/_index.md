@@ -1,6 +1,6 @@
 ---
 title: Thorpe-le-Soken
 url: /thorpe-le-soken/
-latitude: 51.858
-longitude: 1.161
+latitude: 51.848
+longitude: 1.163
 ---

@@ -1,6 +1,6 @@
 ---
 title: Liversedge
 url: /liversedge/
-latitude: 53.714
-longitude: -1.693
+latitude: 53.711
+longitude: -1.688
 ---

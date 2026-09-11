@@ -1,5 +1,5 @@
 ---
-title: "Co-op Funeral Services"
+title: "Co-Op Funeral Services"
 url: /norwich/co-op-funeral-services/
 shop: funeral directors
 ---

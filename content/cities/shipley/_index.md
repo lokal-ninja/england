@@ -1,6 +1,6 @@
 ---
 title: Shipley
 url: /shipley/
-latitude: 53.837
-longitude: -1.756
+latitude: 53.836
+longitude: -1.76
 ---

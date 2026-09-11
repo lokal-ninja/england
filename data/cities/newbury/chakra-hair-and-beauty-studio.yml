@@ -7,5 +7,6 @@ city: Newbury
 street: The Broadway
 housenumber: "10"
 phone: ""
-opening_hours: ""
+opening_hours: Tu 09:00-18:00; We 09:00-17:00; Th 09:00-19:30; Fr 09:00-18:00; Sa
+    08:00-16:00; Su,Mo off
 website: ""

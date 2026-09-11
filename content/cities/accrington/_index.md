@@ -1,6 +1,6 @@
 ---
 title: Accrington
 url: /accrington/
-latitude: 53.758
-longitude: -2.359
+latitude: 53.775
+longitude: -2.384
 ---

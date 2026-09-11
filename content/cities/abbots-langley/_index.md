@@ -1,6 +1,6 @@
 ---
 title: Abbots Langley
 url: /abbots-langley/
-latitude: 51.706
-longitude: -0.418
+latitude: 51.699
+longitude: -0.425
 ---

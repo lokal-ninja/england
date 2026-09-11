@@ -1,6 +1,6 @@
 ---
 title: Wilmslow
 url: /wilmslow/
-latitude: 53.327
-longitude: -2.237
+latitude: 53.325
+longitude: -2.235
 ---

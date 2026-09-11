@@ -1,6 +1,6 @@
 ---
 title: Wantage
 url: /wantage/
-latitude: 51.61
-longitude: -1.423
+latitude: 51.607
+longitude: -1.43
 ---

@@ -1,6 +1,6 @@
 ---
 title: Huyton
 url: /huyton/
-latitude: 53.411
-longitude: -2.839
+latitude: 53.405
+longitude: -2.823
 ---

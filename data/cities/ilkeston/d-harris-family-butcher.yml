@@ -7,5 +7,6 @@ city: Ilkeston
 street: Granby Street
 housenumber: "59"
 phone: ""
-opening_hours: ""
+opening_hours: Tu,Th 06:00-16:00; We 06:00-14:00; Fr 06:00-16:30; Sa 06:00-13:00;
+    Su,Mo off
 website: ""

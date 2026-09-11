@@ -1,5 +1,5 @@
 ---
 title: "Sainsbury's"
 url: /st-albans/sainsburys-barnet-road-2/
-shop: convenience
+shop: supermarket
 ---

@@ -2,5 +2,5 @@
 title: Chesterton
 url: /chesterton/
 latitude: 53.041
-longitude: -2.252
+longitude: -2.253
 ---

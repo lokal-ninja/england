@@ -1,6 +1,6 @@
 ---
 title: Sleaford
 url: /sleaford/
-latitude: 53.003
-longitude: -0.412
+latitude: 53.045
+longitude: -0.386
 ---

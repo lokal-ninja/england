@@ -1,6 +1,6 @@
 ---
 title: Selsted
 url: /selsted/
-latitude: 51.158
-longitude: 1.175
+latitude: 51.156
+longitude: 1.171
 ---
