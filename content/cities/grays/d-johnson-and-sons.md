@@ -1,5 +1,5 @@
 ---
-title: "D Johnson & Sons"
+title: "D. Johnson & Sons"
 url: /grays/d-johnson-and-sons/
 shop: butcher
 ---

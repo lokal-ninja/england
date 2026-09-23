@@ -1,6 +1,6 @@
 ---
 title: Wootton
 url: /wootton/
-latitude: 50.724
-longitude: -1.241
+latitude: 52.097
+longitude: -0.527
 ---

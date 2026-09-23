@@ -1,5 +1,5 @@
 ---
-title: "Best One"
+title: "Best-one"
 url: /washington/best-one/
 shop: convenience
 ---

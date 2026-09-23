@@ -1,5 +1,5 @@
 ---
-title: "Melvin's"
+title: "Melvins"
 url: /london/melvins/
 shop: clothes
 ---

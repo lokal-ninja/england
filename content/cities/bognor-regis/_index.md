@@ -1,6 +1,6 @@
 ---
 title: Bognor Regis
 url: /bognor-regis/
-latitude: 50.782
-longitude: -0.675
+latitude: 50.794
+longitude: -0.64
 ---

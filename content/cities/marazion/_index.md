@@ -1,6 +1,6 @@
 ---
 title: Marazion
 url: /marazion/
-latitude: 50.123
-longitude: -5.473
+latitude: 50.125
+longitude: -5.459
 ---

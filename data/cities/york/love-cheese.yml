@@ -7,5 +7,5 @@ city: York
 street: Gillygate
 housenumber: "16"
 phone: ""
-opening_hours: ""
+opening_hours: Tu,Th 10:00-17:00; We 10:00-16:00; Fr,Sa 10:00-20:00; Su,Mo off
 website: ""

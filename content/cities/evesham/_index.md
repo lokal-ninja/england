@@ -1,6 +1,6 @@
 ---
 title: Evesham
 url: /evesham/
-latitude: 52.092
-longitude: -1.947
+latitude: 52.091
+longitude: -1.946
 ---

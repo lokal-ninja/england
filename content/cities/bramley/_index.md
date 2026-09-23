@@ -1,6 +1,6 @@
 ---
 title: Bramley
 url: /bramley/
-latitude: 53.814
-longitude: -1.632
+latitude: 51.194
+longitude: -0.558
 ---

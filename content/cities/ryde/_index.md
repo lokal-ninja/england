@@ -1,6 +1,6 @@
 ---
 title: Ryde
 url: /ryde/
-latitude: 50.73
-longitude: -1.154
+latitude: 50.724
+longitude: -1.241
 ---

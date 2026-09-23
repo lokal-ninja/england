@@ -1,5 +1,5 @@
 ---
 title: "Tailored Flooring"
 url: /bristol/tailored-flooring/
-shop: flooring
+shop: interior decoration
 ---

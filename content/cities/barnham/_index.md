@@ -1,6 +1,6 @@
 ---
 title: Barnham
 url: /barnham/
-latitude: 50.832
-longitude: -0.641
+latitude: 50.827
+longitude: -0.628
 ---

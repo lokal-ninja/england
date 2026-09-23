@@ -1,5 +1,5 @@
 ---
 title: "Niwaki"
 url: /london/niwaki/
-shop: shop
+shop: art
 ---

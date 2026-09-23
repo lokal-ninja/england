@@ -1,6 +1,6 @@
 ---
-title: St Mary's Bay
+title: St. Marys Bay
 url: /st-marys-bay/
-latitude: 51.01
-longitude: 0.976
+latitude: 51.005
+longitude: 0.974
 ---
