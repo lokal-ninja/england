@@ -7,5 +7,6 @@ city: Leeds
 street: Town Street
 housenumber: "100"
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: Mo,We 10:00-19:30; Tu,Fr 09:00-16:00; We 10:00-19:30; Th 12:00-18:00;
+    Sa 08:00-15:00; Su 10:00-18:00
+website: https://karolinalashesbeautycourses.com/

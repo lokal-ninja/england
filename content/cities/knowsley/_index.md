@@ -1,6 +1,6 @@
 ---
 title: Knowsley
 url: /knowsley/
-latitude: 53.45
-longitude: -2.851
+latitude: 53.41
+longitude: -2.839
 ---

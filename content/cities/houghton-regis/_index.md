@@ -1,6 +1,6 @@
 ---
 title: Houghton Regis
 url: /houghton-regis/
-latitude: 51.904
-longitude: -0.522
+latitude: 51.919
+longitude: -0.508
 ---

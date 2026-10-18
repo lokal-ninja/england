@@ -1,5 +1,5 @@
 ---
-title: "AMMARS FRAGRANCES"
+title: "Ammar's Fragrances"
 url: /nottingham/ammars-fragrances/
-shop: beauty
+shop: perfumery
 ---

@@ -1,5 +1,5 @@
 ---
-title: "knitworking"
+title: "Knitworking"
 url: /nottingham/knitworking/
 shop: shop
 ---

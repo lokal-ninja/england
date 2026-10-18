@@ -7,6 +7,5 @@ city: Dewsbury
 street: Railway Street
 housenumber: ""
 phone: +44 333 004 4444
-opening_hours: Sunday 10:30 am-4:30 pm  Monday 9 am-8 pm  Tuesday 9 am-8 pm  Wednesday
-    9 am-8 pm  Thursday 9 am-8 pm  Friday 9 am-8 pm  Saturday 9 am-7 pm
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 10:30-16:30
 website: ""

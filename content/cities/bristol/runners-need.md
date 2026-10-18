@@ -1,5 +1,5 @@
 ---
-title: "runners need"
+title: "Runners Need"
 url: /bristol/runners-need/
-shop: shoes
+shop: sports
 ---

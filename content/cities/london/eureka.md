@@ -1,5 +1,5 @@
 ---
-title: "Eureka"
+title: "Eureka!"
 url: /london/eureka/
-shop: kitchen
+shop: newsagent
 ---

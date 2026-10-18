@@ -1,5 +1,5 @@
 ---
-title: "Knowle barbers"
+title: "Knowle Barbers"
 url: /bristol/knowle-barbers/
 shop: hairdresser
 ---

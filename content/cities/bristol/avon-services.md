@@ -1,5 +1,5 @@
 ---
-title: "avon services"
+title: "Avon Services"
 url: /bristol/avon-services/
 shop: vacuum cleaner
 ---

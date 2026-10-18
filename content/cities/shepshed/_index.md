@@ -1,6 +1,6 @@
 ---
 title: Shepshed
 url: /shepshed/
-latitude: 52.769
-longitude: -1.287
+latitude: 52.775
+longitude: -1.289
 ---

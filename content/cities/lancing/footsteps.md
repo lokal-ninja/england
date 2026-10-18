@@ -1,5 +1,5 @@
 ---
 title: "Footsteps"
 url: /lancing/footsteps/
-shop: shoes
+shop: vacant
 ---

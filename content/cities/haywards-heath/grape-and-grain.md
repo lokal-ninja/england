@@ -1,5 +1,5 @@
 ---
-title: "Grape and Grain"
+title: "Grape & Grain"
 url: /haywards-heath/grape-and-grain/
-shop: alcohol
+shop: deli
 ---

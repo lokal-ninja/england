@@ -1,5 +1,5 @@
 ---
-title: "colour centre"
+title: "Colour Centre"
 url: /bristol/colour-centre/
 shop: paint
 ---

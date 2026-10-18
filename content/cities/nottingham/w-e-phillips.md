@@ -1,5 +1,5 @@
 ---
-title: "W.E. Phillips"
+title: "W. E. Phillips"
 url: /nottingham/w-e-phillips/
 shop: shop
 ---

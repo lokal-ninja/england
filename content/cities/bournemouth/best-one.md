@@ -1,5 +1,5 @@
 ---
-title: "Best One"
+title: "Best-one"
 url: /bournemouth/best-one/
 shop: convenience
 ---

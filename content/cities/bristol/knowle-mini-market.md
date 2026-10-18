@@ -1,5 +1,5 @@
 ---
-title: "Knowle mini market"
+title: "Knowle Mini Market"
 url: /bristol/knowle-mini-market/
 shop: convenience
 ---
