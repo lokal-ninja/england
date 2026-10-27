@@ -1,5 +1,5 @@
 ---
-title: "Spar"
+title: "SPAR"
 url: /holt/spar/
 shop: convenience
 ---

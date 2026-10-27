@@ -1,11 +1,11 @@
 id: 1288208174
 type: node
-latitude: 51.65907
+latitude: 51.65904
 longitude: -0.0877
 postcode: EN2 6NN
 city: Enfield
 street: Chase Side
-housenumber: 119a
+housenumber: "119"
 phone: +44 20 8363 6503
 opening_hours: Mo-Fr 08:00-16:00; Sa 08:00-15:00; Su 08:00-14:00
 website: https://holtwhitesbakery.co.uk/

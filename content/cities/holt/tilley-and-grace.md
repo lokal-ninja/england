@@ -1,5 +1,5 @@
 ---
-title: "Tilley And Grace"
+title: "Tilley & Grace"
 url: /holt/tilley-and-grace/
 shop: clothes
 ---

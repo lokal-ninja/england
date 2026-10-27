@@ -1,5 +1,5 @@
 ---
 title: "TGJones"
 url: /york/tgjones/
-shop: newsagent
+shop: office supplies
 ---

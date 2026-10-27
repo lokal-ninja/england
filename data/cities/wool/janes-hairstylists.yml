@@ -7,6 +7,5 @@ city: Wool
 street: High Street
 housenumber: "18"
 phone: +44 1929 462326
-opening_hours: Mon, Thur & Fri, 08:30 - 18:00; Tuesday, 08:30 - 19:00; Sat, 08:00
-    - 12:00; Sun & Weds, Closed
+opening_hours: Mo,Th,Fr 08:30-18:00; Tu 08:30-19:00; Sa 08:00-12:00; Su,We Off
 website: http://www.janes-hairstylists.co.uk
