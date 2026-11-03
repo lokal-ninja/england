@@ -1,6 +1,6 @@
 ---
 title: Tetbury
 url: /tetbury/
-latitude: 51.605
-longitude: -2.216
+latitude: 51.642
+longitude: -2.156
 ---

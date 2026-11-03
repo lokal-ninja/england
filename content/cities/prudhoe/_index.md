@@ -1,6 +1,6 @@
 ---
 title: Prudhoe
 url: /prudhoe/
-latitude: 54.968
-longitude: -1.848
+latitude: 54.965
+longitude: -1.865
 ---

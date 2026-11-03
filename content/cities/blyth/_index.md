@@ -1,6 +1,6 @@
 ---
 title: Blyth
 url: /blyth/
-latitude: 55.123
-longitude: -1.543
+latitude: 55.116
+longitude: -1.533
 ---

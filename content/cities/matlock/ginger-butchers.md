@@ -1,5 +1,5 @@
 ---
 title: "Ginger Butchers"
 url: /matlock/ginger-butchers/
-shop: butcher
+shop: vacant
 ---

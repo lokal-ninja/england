@@ -1,6 +1,6 @@
 ---
 title: Cowes
 url: /cowes/
-latitude: 50.74
-longitude: -1.308
+latitude: 50.745
+longitude: -1.313
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Maître Choux"
+title: "Maitre Choux"
 url: /london/maitre-choux/
-shop: pastry
+shop: confectionery
 ---

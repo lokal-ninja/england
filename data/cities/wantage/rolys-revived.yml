@@ -1,11 +1,12 @@
-id: 480050229
+id: 480050231
 type: node
-latitude: 51.58954
-longitude: -1.42739
+latitude: 51.58955
+longitude: -1.42744
 postcode: OX12 9AQ
 city: Wantage
 street: Mill Street
 housenumber: 16a
 phone: +44 1235 760044
-opening_hours: ""
-website: ""
+opening_hours: Mo,Su closed; Tu-We 09:00-17:30; Th 09:00-19:00; Fr 09:00-18:00; Sa
+    08:00-14:00
+website: https://rolysrevived.nearcut.com
