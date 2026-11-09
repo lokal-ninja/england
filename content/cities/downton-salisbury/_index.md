@@ -1,6 +1,6 @@
 ---
-title: Downton, Salisbury
+title: Downton, Salisbury,
 url: /downton-salisbury/
-latitude: 50.993
-longitude: -1.752
+latitude: 50.991
+longitude: -1.758
 ---

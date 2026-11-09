@@ -1,6 +1,6 @@
 ---
 title: Little Bromley
 url: /little-bromley/
-latitude: 51.918
-longitude: 1.046
+latitude: 51.92
+longitude: 1.052
 ---

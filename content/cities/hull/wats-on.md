@@ -1,5 +1,5 @@
 ---
-title: "Wat's On"
+title: "Wats On"
 url: /hull/wats-on/
 shop: clothes
 ---

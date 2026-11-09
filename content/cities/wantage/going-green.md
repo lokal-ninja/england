@@ -1,5 +1,5 @@
 ---
 title: "Going Green"
 url: /wantage/going-green/
-shop: supermarket
+shop: convenience
 ---

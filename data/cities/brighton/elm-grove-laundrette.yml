@@ -7,5 +7,6 @@ city: Brighton
 street: Elm Grove
 housenumber: "12"
 phone: ""
-opening_hours: ""
+opening_hours: Mo-Sa,PH 09:00-19:00 open "all services" || Su 09:00-19:00 open "no
+    service wash"
 website: ""
