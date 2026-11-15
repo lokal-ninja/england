@@ -1,11 +1,12 @@
-id: 1118122767
+id: 208572060
 type: node
-latitude: 53.48085
-longitude: -2.94956
-postcode: L9 5AN
+latitude: 53.40437
+longitude: -2.98795
+postcode: L2 1TA
 city: Liverpool
-street: Racecourse Retail Park
-housenumber: ""
+street: Lord Street
+housenumber: "42"
 phone: ""
-opening_hours: Mo-Fr 08:00-21:00; Sa 08:00-20:00; Su 11:00-17:00
-website: ""
+opening_hours: Mo-Th 09:00-20:00; Fr 08:30-20:00; Sa 08:30-19:00; Su 10:45-11:00 open
+    "browsing only", 11:00-17:00
+website: https://www.marksandspencer.com/stores/liverpool-one-1679

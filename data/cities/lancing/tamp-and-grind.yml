@@ -5,7 +5,7 @@ longitude: -0.3229
 postcode: BN15 8AJ
 city: Lancing
 street: South Street
-housenumber: 84-90
+housenumber: "90"
 phone: ""
 opening_hours: ""
 website: ""

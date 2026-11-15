@@ -1,5 +1,5 @@
 ---
 title: "Curtis"
 url: /boston/curtis/
-shop: newsagent
+shop: bakery
 ---

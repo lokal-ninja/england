@@ -1,5 +1,5 @@
 ---
-title: "St News"
+title: "ST News"
 url: /nottingham/st-news/
-shop: newsagent
+shop: convenience
 ---

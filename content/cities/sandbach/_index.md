@@ -1,6 +1,6 @@
 ---
 title: Sandbach
 url: /sandbach/
-latitude: 53.149
-longitude: -2.37
+latitude: 53.144
+longitude: -2.362
 ---

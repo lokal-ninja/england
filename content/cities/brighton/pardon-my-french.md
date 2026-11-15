@@ -1,5 +1,5 @@
 ---
-title: "Pardon my French"
+title: "Pardon My French"
 url: /brighton/pardon-my-french/
-shop: shop
+shop: gift
 ---
