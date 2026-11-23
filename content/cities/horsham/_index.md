@@ -1,6 +1,6 @@
 ---
 title: Horsham
 url: /horsham/
-latitude: 51.063
-longitude: -0.328
+latitude: 51.074
+longitude: -0.3
 ---

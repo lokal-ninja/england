@@ -1,6 +1,6 @@
 ---
 title: Walkden
 url: /walkden/
-latitude: 53.525
-longitude: -2.402
+latitude: 53.524
+longitude: -2.397
 ---

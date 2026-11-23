@@ -1,6 +1,6 @@
 ---
 title: Kirkby
 url: /kirkby/
-latitude: 53.466
-longitude: -2.855
+latitude: 53.475
+longitude: -2.866
 ---

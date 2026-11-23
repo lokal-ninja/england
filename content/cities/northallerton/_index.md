@@ -1,6 +1,6 @@
 ---
 title: Northallerton
 url: /northallerton/
-latitude: 54.338
-longitude: -1.433
+latitude: 54.34
+longitude: -1.435
 ---
